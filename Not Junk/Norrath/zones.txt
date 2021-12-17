@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ATLAS SYSTEM "zones.dtd">
+
+<map>
+
+<zone name="Everfrost Peaks" danger="4">
+<adjacent name="Halas" at="200,4000"></adjacent>
+<adjacent name="Blackburrow" at="-200,-2000"></adjacent>
+<adjacent name="Permafrost" at="6500,2000"></adjacent>
+</zone>
+
+<zone name="Halas" danger="1">
+<adjacent name="Everfrost Peaks"></adjacent>
+</zone>
+
+<zone name="Permafrost" danger="8">
+<adjacent name="Everfrost Peaks"></adjacent>
+</zone>
+
+<zone name="Blackburrow" danger="3">
+<adjacent name="Everfrost Peaks" at="-350,100"></adjacent>
+<adjacent name="Qeynos Hills" at="75,-150"></adjacent>
+</zone>
+
+<zone name="Qeynos Hills" danger="2">
+<adjacent name="Blackburrow"></adjacent>
+<adjacent name="North Qeynos"></adjacent>
+<adjacent name="Western Plains of Karana"></adjacent>
+<adjacent name="Surefall Glades"></adjacent>
+</zone>
+
+<zone name="Qeynos Aqueducts" danger="4">
+<adjacent name="South Qeynos"></adjacent>
+<adjacent name="North Qeynos"></adjacent>
+</zone>
+
+<zone name="North Qeynos" danger="4">
+<adjacent name="Qeynos Hills"></adjacent>
+<adjacent name="South Qeynos"></adjacent>
+<adjacent name="Qeynos"></adjacent>
+<adjacent name="Qeynos Aqueducts"></adjacent>
+</zone>
+
+<zone name="South Qeynos">
+<adjacent name="North Qeynos"></adjacent>
+<adjacent name="Erud's Crossing"></adjacent>
+<adjacent name="Qeynos"></adjacent>
+<adjacent name="Qeynos Aqueducts"></adjacent>
+</zone>
+
+<zone name="Qeynos">
+<adjacent name="North Qeynos"></adjacent>
+<adjacent name="South Qeynos"></adjacent>
+</zone>
+
+<zone name="Surefall Glades">
+<adjacent name="Qeynos Hills"></adjacent>
+</zone>
+
+<zone name="Western Plains of Karana" danger="3">
+<adjacent name="Qeynos Hills"></adjacent>
+<adjacent name="Northern Plains of Karana"></adjacent>
+</zone>
+
+<zone name="Northern Plains of Karana" danger="4">
+<adjacent name="Eastern Plains of Karana"></adjacent>
+<adjacent name="Southern Plains of Karana"></adjacent>
+<adjacent name="Western Plains of Karana"></adjacent>
+</zone>
+
+<zone name="Eastern Plains of Karana" danger="6">
+<adjacent name="Northern Plains of Karana" at="1000,0"></adjacent>
+<adjacent name="Highhold Pass" at="-3000,-200"></adjacent>
+<adjacent name="Gorge of King Xorbb" at="-2000,2000"></adjacent>
+</zone>
+
+<zone name="Highhold Pass" danger="4">
+<adjacent name="Eastern Plains of Karana"></adjacent>
+<adjacent name="Highpass Keep"></adjacent>
+<adjacent name="Kithicor Forest"></adjacent>
+</zone>
+
+<zone name="Highpass Keep">
+<adjacent name="Highhold Pass"></adjacent>
+</zone>
+
+<zone name="Kithicor Forest" danger="9">
+<adjacent name="Highhold Pass" at="4800,500"></adjacent>
+<adjacent name="Rivervale" at="3800,2000"></adjacent>
+<adjacent name="West Commonlands" at="-1000,1300"></adjacent>
+</zone>
+
+<zone name="Rivervale">
+<adjacent name="Kithicor Forest"></adjacent>
+<adjacent name="Misty Thicket"></adjacent>
+</zone>
+
+<zone name="West Commonlands" danger="5">
+<adjacent name="Kithicor Forest"></adjacent>
+<adjacent name="East Commonlands"></adjacent>
+<adjacent name="Befallen"></adjacent>
+</zone>
+
+<zone name="East Commonlands" danger="3">
+<adjacent name="West Commonlands" at="5000,0"></adjacent>
+<adjacent name="Nektulos Forest" at="900,300"></adjacent>
+<adjacent name="Northern Desert of Ro" at="900,-1100"></adjacent>
+<adjacent name="West Freeport" at="-1000,0"></adjacent>
+</zone>
+
+<zone name="Nektulos Forest" danger="3">
+<adjacent name="East Commonlands"></adjacent>
+<adjacent name="Neriak"></adjacent>
+<adjacent name="Lavastorm Mountains"></adjacent>
+</zone>
+
+<zone name="Neriak">
+<adjacent name="Nektulos Forest"></adjacent>
+</zone>
+
+<zone name="Lavastorm Mountains" danger="4">
+<adjacent name="Temple of Solusek Ro" at="400,1400"></adjacent>
+<adjacent name="Solusek's Eye A" at="250,1000"></adjacent>
+<adjacent name="Solusek's Eye B" at="500,1000"></adjacent>
+<adjacent name="Najena" at="-1000,-1000"></adjacent>
+<adjacent name="Nektulos Forest" at="200,-1500"></adjacent>
+</zone>
+
+<zone name="Temple of Solusek Ro" danger="1">
+<adjacent name="Lavastorm Mountains"></adjacent>
+</zone>
+
+<zone name="Solusek's Eye A" danger="9">
+<adjacent name="Lavastorm Mountains"></adjacent>
+</zone>
+
+<zone name="Solusek's Eye B" danger="10">
+<adjacent name="Lavastorm Mountains"></adjacent>
+</zone>
+
+<zone name="Najena" danger="7">
+<adjacent name="Lavastorm Mountains"></adjacent>
+</zone>
+
+<zone name="Northern Desert of Ro" danger="4">
+<adjacent name="East Commonlands"></adjacent>
+<adjacent name="East Freeport"></adjacent>
+<adjacent name="Oasis of Marr"></adjacent>
+</zone>
+
+<zone name="West Freeport">
+<adjacent name="East Commonlands"></adjacent>
+<adjacent name="North Freeport"></adjacent>
+<adjacent name="East Freeport"></adjacent>
+<adjacent name="Freeport"></adjacent>
+</zone>
+
+<zone name="East Freeport">
+<adjacent name="Northern Desert of Ro"></adjacent>
+<adjacent name="North Freeport"></adjacent>
+<adjacent name="West Freeport"></adjacent>
+<adjacent name="Ocean of Tears"></adjacent>
+<adjacent name="Freeport"></adjacent>
+</zone>
+
+<zone name="North Freeport">
+<adjacent name="East Freeport"></adjacent>
+<adjacent name="West Freeport"></adjacent>
+<adjacent name="Freeport"></adjacent>
+</zone>
+
+<zone name="Oasis of Marr" danger="4">
+<adjacent name="Northern Desert of Ro"></adjacent>
+<adjacent name="Southern Desert of Ro"></adjacent>
+</zone>
+
+<zone name="Southern Desert of Ro" danger="7">
+<adjacent name="Innothule Swamp"></adjacent>
+<adjacent name="Oasis of Marr"></adjacent>
+</zone>
+
+<zone name="Innothule Swamp" danger="2">
+<adjacent name="Grobb" at="-750,-2500"></adjacent>
+<adjacent name="Upper Guk" at="-750,200"></adjacent>
+<adjacent name="Southern Desert of Ro" at="900,2500"></adjacent>
+<adjacent name="The Feerott" at="1800,-1000"></adjacent>
+</zone>
+
+<zone name="Grobb">
+<adjacent name="Innothule Swamp"></adjacent>
+</zone>
+
+<zone name="Upper Guk" danger="5">
+<adjacent name="Innothule Swamp"></adjacent>
+<adjacent name="Lower Guk"></adjacent>
+</zone>
+
+<zone name="Lower Guk" danger="9">
+<adjacent name="Upper Guk"></adjacent>
+</zone>
+
+<zone name="The Feerott" danger="3">
+<adjacent name="Rathe Mountains" at="3000,500"></adjacent>
+<adjacent name="Oggok" at="1000,1500"></adjacent>
+<adjacent name="Cazic-Thule" at="0,-1500"></adjacent>
+<adjacent name="Plane of Fear" at="0,-1500"></adjacent>
+<adjacent name="Innothule Swamp" at="-3000,-1000"></adjacent>
+</zone>
+
+<zone name="Rathe Mountains" danger="6">
+<adjacent name="Lake Rathetear"></adjacent>
+<adjacent name="The Feerott"></adjacent>
+</zone>
+
+<zone name="Lake Rathetear" danger="5">
+<adjacent name="Southern Plains of Karana"></adjacent>
+<adjacent name="The Arena"></adjacent>
+<adjacent name="Rathe Mountains"></adjacent>
+</zone>
+
+<zone name="Southern Plains of Karana" danger="6">
+<adjacent name="Northern Plains of Karana"></adjacent>
+<adjacent name="Lake Rathetear"></adjacent>
+<adjacent name="Lair of Splitpaw"></adjacent>
+</zone>
+
+<zone name="Lair of Splitpaw" danger="8">
+<adjacent name="Southern Plains of Karana"></adjacent>
+</zone>
+
+<zone name="The Arena">
+<adjacent name="Lake Rathetear"></adjacent>
+</zone>
+
+<zone name="Oggok">
+<adjacent name="The Feerott"></adjacent>
+</zone>
+
+<zone name="Cazic-Thule" danger="7">
+<adjacent name="The Feerott"></adjacent>
+</zone>
+
+<zone name="Plane of Fear" danger="10">
+<adjacent name="The Feerott"></adjacent>
+</zone>
+
+<zone name="Plane of Hate" danger="10">
+</zone>
+
+<zone name="Befallen" danger="4">
+<adjacent name="West Commonlands" at="50,-200"></adjacent>
+</zone>
+
+<zone name="Gorge of King Xorbb" danger="5">
+<adjacent name="Eastern Plains of Karana" at="-500,-1000"></adjacent>
+<adjacent name="Runnyeye Citadel" at="-2000,750"></adjacent>
+</zone>
+
+<zone name="Runnyeye Citadel" danger="6">
+<adjacent name="Gorge of King Xorbb"></adjacent>
+<adjacent name="Misty Thicket"></adjacent>
+</zone>
+
+<zone name="Misty Thicket" danger="2">
+<adjacent name="Runnyeye Citadel"></adjacent>
+<adjacent name="Rivervale"></adjacent>
+</zone>
+
+<zone name="Erud's Crossing" danger="4">
+<adjacent name="South Qeynos"></adjacent>
+<adjacent name="Erudin"></adjacent>
+</zone>
+
+<zone name="Erudin">
+<adjacent name="Toxxulia Forest"></adjacent>
+<adjacent name="Erud's Crossing"></adjacent>
+</zone>
+
+<zone name="Toxxulia Forest" danger="2">
+<adjacent name="Erudin"></adjacent>
+<adjacent name="Kerra Island"></adjacent>
+</zone>
+
+<zone name="Kerra Island" danger="3">
+<adjacent name="Toxxulia Forest"></adjacent>
+</zone>
+
+<zone name="Ocean of Tears" danger="6">
+<adjacent name="East Freeport"></adjacent>
+<adjacent name="Butcherblock Mountains"></adjacent>
+</zone>
+
+<zone name="Freeport">
+<adjacent name="East Freeport"></adjacent>
+<adjacent name="West Freeport"></adjacent>
+<adjacent name="North Freeport"></adjacent>
+</zone>
+
+<zone name="Butcherblock Mountains" danger="3">
+<adjacent name="Ocean of Tears"></adjacent>
+<adjacent name="Greater Faydark"></adjacent>
+<adjacent name="Dagnor's Cauldron"></adjacent>
+<adjacent name="Kaladim"></adjacent>
+</zone>
+
+<zone name="Kaladim">
+<adjacent name="Butcherblock Mountains"></adjacent>
+</zone>
+
+<zone name="Greater Faydark" danger="2">
+<adjacent name="Felwithe"></adjacent>
+<adjacent name="Butcherblock Mountains"></adjacent>
+<adjacent name="Lesser Faydark"></adjacent>
+<adjacent name="Crushbone"></adjacent>
+<adjacent name="Kelethin"></adjacent>
+</zone>
+
+<zone name="Crushbone" danger="4">
+<adjacent name="Greater Faydark"></adjacent>
+</zone>
+
+<zone name="Kelethin">
+<adjacent name="Greater Faydark"></adjacent>
+</zone>
+
+<zone name="Felwithe">
+<adjacent name="Greater Faydark"></adjacent>
+</zone>
+
+<zone name="Lesser Faydark" danger="4">
+<adjacent name="Greater Faydark"></adjacent>
+<adjacent name="Steamfont Mountains"></adjacent>
+<adjacent name="Castle Mistmoore"></adjacent>
+</zone>
+
+<zone name="Steamfont Mountains" danger="3">
+<adjacent name="Lesser Faydark"></adjacent>
+<adjacent name="Ak'Anon"></adjacent>
+</zone>
+
+<zone name="Ak'Anon">
+<adjacent name="Steamfont Mountains"></adjacent>
+</zone>
+
+<zone name="Castle Mistmoore" danger="10">
+<adjacent name="Lesser Faydark"></adjacent>
+</zone>
+
+<zone name="Dagnor's Cauldron" danger="5">
+<adjacent name="Butcherblock Mountains"></adjacent>
+<adjacent name="Unrest"></adjacent>
+<adjacent name="Kedge Keep"></adjacent>
+</zone>
+
+<zone name="Unrest" danger="6">
+<adjacent name="Dagnor's Cauldron"></adjacent>
+</zone>
+
+<zone name="Kedge Keep" danger="10">
+<adjacent name="Dagnor's Cauldron"></adjacent>
+</zone>
+
+</map>

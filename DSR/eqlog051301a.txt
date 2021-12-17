@@ -1,0 +1,739 @@
+[Sun May 13 02:24:27 2001] Welcome to EverQuest!
+[Sun May 13 02:24:27 2001] You have entered Sunset Home.
+[Sun May 13 02:24:27 2001] MESSAGE OF THE DAY: Welcome to EverQuest! The Druid Best of the Best Tournament will be held Sunday May 13th at 4:00 pm PST in the arena zone. All Druids 54+ are invited to participate. For more information please see www.everquest.com.
+[Sun May 13 02:24:29 2001] Players in EverQuest:
+[Sun May 13 02:24:29 2001] ---------------------------
+[Sun May 13 02:24:29 2001] * Guide *[51 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun May 13 02:24:29 2001] * Guide *[50 Shadow Knight]  (Dark Elf) <Keepers of Morell Thule> ZONE:  (USER PID EUGB4P0)
+[Sun May 13 02:24:29 2001] There are 2 players in EverQuest.
+[Sun May 13 02:24:43 2001] You GMSAY, 'hi! anyone here?'
+[Sun May 13 02:24:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun May 13 02:24:47 2001] USER TEXT: I was killed by a snow cougar on the icebreaker boat and now my corpse is neither on the boat, nor anywhere in the water.
+[Sun May 13 02:24:47 2001] Players in EverQuest:
+[Sun May 13 02:24:47 2001] ---------------------------
+[Sun May 13 02:24:47 2001] [ANON (30 Cleric)] Pheoan (Human) ZONE: iceclad (USER PID BY9RMN1)
+[Sun May 13 02:24:47 2001] There is 1 player in EverQuest.
+[Sun May 13 02:24:54 2001] Searching zones for corpse of that name....
+[Sun May 13 02:24:54 2001] Corpse: Pheoan's corpse0 in zone: iceclad
+[Sun May 13 02:24:58 2001] You GMSAY, 'zone'
+[Sun May 13 02:25:02 2001] LOADING, PLEASE WAIT...
+[Sun May 13 02:25:44 2001] You have entered Iceclad Ocean.
+[Sun May 13 02:25:48 2001] It begins to snow.
+[Sun May 13 02:25:54 2001] Teleporting to pheoan's corpse0.
+[Sun May 13 02:26:07 2001] Teleporting to pheoan's corpse0.
+[Sun May 13 02:26:33 2001] You told Pheoan, 'Hail, Pheoan! Guide Espranza here. Your body is beneath an ice floe...'
+[Sun May 13 02:26:39 2001] Teleporting to pheoan's corpse0.
+[Sun May 13 02:26:52 2001] Teleporting to pheoan.
+[Sun May 13 02:27:09 2001] Summoning pheoan's corpse0.
+[Sun May 13 02:27:14 2001] You have not received any tells, so you cannot reply.
+[Sun May 13 02:27:27 2001] You told Pheoan, 'I put it on the dock for you'
+[Sun May 13 02:27:50 2001] Pheoan tells you, 'thank you.'
+[Sun May 13 02:27:56 2001] You told Pheoan, 'you're welcome!'
+[Sun May 13 02:27:58 2001] DELETING THIS PETITION
+[Sun May 13 02:28:14 2001] Teleporting to Icebreaker00 (5848.00, -1023.79, -80.00).
+[Sun May 13 02:30:02 2001] Players on EverQuest:
+[Sun May 13 02:30:02 2001] ---------------------------
+[Sun May 13 02:30:02 2001] [ANONYMOUS] Nins  <Travelers in Mist>
+[Sun May 13 02:30:02 2001] [38 Enchanter] Eyris (High Elf)
+[Sun May 13 02:30:02 2001] [ANONYMOUS] Tendersori 
+[Sun May 13 02:30:02 2001] [46 Cleric] Luciris (Dark Elf) <Royal Jesters>
+[Sun May 13 02:30:02 2001] [ANONYMOUS] Humi  <Travelers in Mist>
+[Sun May 13 02:30:02 2001] [34 Rogue] Dazoora (Half Elf) <Travelers in Mist>
+[Sun May 13 02:30:02 2001] [34 Warrior] Sinnage (Half Elf)
+[Sun May 13 02:30:02 2001] [35 Druid] Gomdori (Wood Elf) <Travelers in Mist>
+[Sun May 13 02:30:02 2001] [28 Rogue] Platinumkey (Half Elf) <Travelers in Mist>
+[Sun May 13 02:30:02 2001] [ANONYMOUS] Angelminju 
+[Sun May 13 02:30:02 2001] [ANONYMOUS] Pheoan 
+[Sun May 13 02:30:02 2001] [33 Monk] Raleigh (Iksar)
+[Sun May 13 02:30:02 2001] [33 Warrior] Tanedila (Barbarian) <Draconis Combine>
+[Sun May 13 02:30:02 2001] [ANONYMOUS] Lilavati  <Coven of the Blood Rose>
+[Sun May 13 02:30:02 2001] [30 Shadow Knight] Aegon (Dark Elf) <Happy Funtime Elves>
+[Sun May 13 02:30:02 2001] [32 Paladin] Vladimirski (High Elf) <United Ale Drinkers>
+[Sun May 13 02:30:02 2001] [36 Ranger] Isuldar (Wood Elf) <Draconis Combine>
+[Sun May 13 02:30:02 2001] [34 Shadow Knight] Zhakrin (Dark Elf) <L'envol du Phoenix>
+[Sun May 13 02:30:02 2001] [44 Shadow Knight] Mhoov (Iksar) <The Scaled Brotherhood>
+[Sun May 13 02:30:02 2001] [40 Druid] Pinbip (Wood Elf) <Unbroken Power>
+[Sun May 13 02:30:02 2001] [32 Shadow Knight] Gurbuuk (Ogre) <Le Cercle des Justes>
+[Sun May 13 02:30:02 2001] [35 Shaman] Rosewip (Barbarian)
+[Sun May 13 02:30:02 2001] * GM * [51 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sun May 13 02:30:02 2001] There are 23 players in Iceclad Ocean.
+[Sun May 13 02:30:53 2001] Players in EverQuest:
+[Sun May 13 02:30:53 2001] ---------------------------
+[Sun May 13 02:30:53 2001] * Guide *[51 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: iceclad (USER PID AUGBQH4)
+[Sun May 13 02:30:53 2001] There is 1 player in EverQuest.
+[Sun May 13 02:30:59 2001] Players in EverQuest:
+[Sun May 13 02:30:59 2001] ---------------------------
+[Sun May 13 02:30:59 2001] [57 Blackguard]  (Halfling) <Power of Peace> ZONE:  (USER PID HXJH0S2)
+[Sun May 13 02:30:59 2001] [37 Rogue] Karorn (Halfling) <Gardiens de Norrath> ZONE: highpass (USER PID CXDVZCC)
+[Sun May 13 02:30:59 2001] [18 Rogue] Dubb (Halfling) ZONE: freporte (USER PID FQ772T3)
+[Sun May 13 02:30:59 2001] * Guide *[51 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: iceclad (USER PID AUGBQH4)
+[Sun May 13 02:30:59 2001] [9 Rogue] Toothpick (Halfling) ZONE: misty (USER PID FV6E9RR)
+[Sun May 13 02:30:59 2001] There are 5 players in EverQuest.
+[Sun May 13 02:31:27 2001] Players in EverQuest:
+[Sun May 13 02:31:27 2001] ---------------------------
+[Sun May 13 02:31:27 2001] * Guide *[51 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: iceclad (USER PID AUGBQH4)
+[Sun May 13 02:31:27 2001] * Guide *[50 Shadow Knight]  (Dark Elf) <Keepers of Morell Thule> ZONE:  (USER PID EUGB4P0)
+[Sun May 13 02:31:27 2001] There are 2 players in EverQuest.
+[Sun May 13 02:31:46 2001] Players in EverQuest:
+[Sun May 13 02:31:46 2001] ---------------------------
+[Sun May 13 02:31:46 2001] [1 Warrior] Ogark (Ogre) ZONE: feerrott (USER PID CUA00GW)
+[Sun May 13 02:31:46 2001] [1 Necromancer]  (Dark Elf) ZONE:  (USER PID DPG5E49)
+[Sun May 13 02:31:46 2001] [1 Rogue] Bdadar (Half Elf) ZONE: ecommons (USER PID FS7BYQ5)
+[Sun May 13 02:31:46 2001] [1 Magician] Yero (Gnome) ZONE: steamfont (USER PID FYYC757)
+[Sun May 13 02:31:46 2001] [1 Druid] Fatsamanas (Wood Elf) ZONE: gfaydark (USER PID AWF0SK7)
+[Sun May 13 02:31:46 2001] [1 Druid] Bucyrus (Human) ZONE: qrg (USER PID CW7KNGK)
+[Sun May 13 02:31:46 2001] [1 Monk] Misohorni (Human) ZONE: ecommons (USER PID GXQ7HDR)
+[Sun May 13 02:31:46 2001] [1 Shadow Knight] Guildmain (Iksar) ZONE: swampofnohope (USER PID DVS6UE8)
+[Sun May 13 02:31:46 2001] [1 Ranger] Juzz (Wood Elf) ZONE: gfaydark (USER PID HX3Y4F5)
+[Sun May 13 02:31:46 2001] [1 Shadow Knight] Yoriwaba (Ogre) ZONE: feerrott (USER PID BV6T8CS)
+[Sun May 13 02:31:46 2001] [1 Shaman] Logalog (Barbarian) ZONE: halas (USER PID CWRCKJF)
+[Sun May 13 02:31:46 2001] [1 Necromancer]  (Dark Elf) ZONE:  (USER PID DYKWM21)
+[Sun May 13 02:31:46 2001] [1 Enchanter]  (Dark Elf) ZONE:  (USER PID AXS69MH)
+[Sun May 13 02:31:46 2001] [1 Shadow Knight]  (Iksar) ZONE:  (USER PID FRKTJNJ)
+[Sun May 13 02:31:46 2001] [1 Enchanter]  (Dark Elf) ZONE:  (USER PID BXX84PH)
+[Sun May 13 02:31:46 2001] [1 Druid]  (Wood Elf) ZONE:  (USER PID HXMGXYF)
+[Sun May 13 02:31:46 2001] [1 Wizard]  (High Elf) ZONE:  (USER PID GWMXEWQ)
+[Sun May 13 02:31:46 2001] [1 Druid]  (Halfling) ZONE:  (USER PID FX97KCR)
+[Sun May 13 02:31:46 2001] [1 Paladin]  (Human) ZONE:  (USER PID AWUG2RJ)
+[Sun May 13 02:31:46 2001] [1 Enchanter]  (Dark Elf) ZONE:  (USER PID AZGPESS)
+[Sun May 13 02:31:46 2001] There are 20 players in EverQuest.
+[Sun May 13 02:32:13 2001] You GMSAY, 'zone'
+[Sun May 13 02:32:18 2001] Teleporting to misohorni.
+[Sun May 13 02:32:19 2001] LOADING, PLEASE WAIT...
+[Sun May 13 02:32:46 2001] Tankqer auctions, 'WTB Cobolt arms'
+[Sun May 13 02:32:46 2001] Minam auctions, 'WTS Elder Spiritist's Gauntles..dru only.ac9  snare'
+[Sun May 13 02:32:46 2001] Karekano auctions, 'WTS Turncheon of doom or trade cobalt boots and bracer'
+[Sun May 13 02:32:46 2001] Caramia auctions, 'WTS med bronze legs, ac 10, 15 pp'
+[Sun May 13 02:32:47 2001] You have entered East Commonlands.
+[Sun May 13 02:32:49 2001] Caramia auctions, 'WTS chilldgger 5/21 magic rangeslot piercing, 25pp'
+[Sun May 13 02:32:52 2001] Delimar auctions, 'WTS ice of velious and small brick of velium'
+[Sun May 13 02:32:53 2001] Caramia auctions, 'WTS turtleshell helm, ac 5 and +3 STR, 25pp'
+[Sun May 13 02:32:55 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:33:02 2001] Yeishinu says out of character, 'Five minutes later.. Slate--70@, Redmaw--0@.'
+[Sun May 13 02:33:03 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:33:04 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:33:12 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:33:13 2001] Thornbush auctions, 'SELLING Velium Shmitar, Golden Jaded Bracelets, Gnoll Hide Lariats, Silversilk leggings, Silver Jasper ring, SP Gloves trades considered send tells\'
+[Sun May 13 02:33:15 2001] Redmaw says out of character, 'if these trees keep stopping me yeah'
+[Sun May 13 02:33:18 2001] You say, 'Hello, Miso'
+[Sun May 13 02:33:18 2001] Karekano auctions, 'WTS Turncheon of doom 34kpp war  only'
+[Sun May 13 02:33:22 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:33:22 2001] Misohorni bows before Espranza.
+[Sun May 13 02:33:29 2001] Zephiroth shouts, 'i need a sow pleas'
+[Sun May 13 02:33:29 2001] Yeishinu auctions, 'WTT/WTS Short Sword of the Ykshea, send tells.'
+[Sun May 13 02:33:29 2001] Kozakou is looking at your equipment...
+[Sun May 13 02:33:30 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:33:31 2001] You say, 'That's a bad name, you know'
+[Sun May 13 02:33:41 2001] Players in EverQuest:
+[Sun May 13 02:33:41 2001] ---------------------------
+[Sun May 13 02:33:41 2001] [1 Monk] Misohorni (Human) ZONE: ecommons (USER PID GXQ7HDR)
+[Sun May 13 02:33:41 2001] There is 1 player in EverQuest.
+[Sun May 13 02:33:41 2001] Druegon auctions, 'WTS black pearl'
+[Sun May 13 02:33:42 2001] Ethromist auctions, 'ry'
+[Sun May 13 02:33:45 2001] Yubs says, 'Hail Espranza'
+[Sun May 13 02:33:47 2001] Misohorni says, 'heh.. aye..'
+[Sun May 13 02:33:47 2001] Matthius sighs at Misohorni.
+[Sun May 13 02:33:47 2001] Mitmit auctions, 'WTS Couger Claw Earring 4Ac 3Str 2Dex 150pp'
+[Sun May 13 02:33:48 2001] Yanlar auctions, 'WTS Crystalline Robe, Send tell if interested!'
+[Sun May 13 02:33:49 2001] Mitmit auctions, 'WTS Crested Helm 10Ac 6Str 3Cha 800pp'
+[Sun May 13 02:33:51 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:33:56 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:33:59 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:34:03 2001] Sarekrtixy auctions, 'WTS/WTT Wraith bone hammer 8/26 1hb 500pp OBO ask 4 stats'
+[Sun May 13 02:34:05 2001] Sarekrtixy auctions, 'WTS rugukus sticker 6/26 1hpierce 3 str 3 wis 3int 150p obo'
+[Sun May 13 02:34:05 2001] You say, 'I'm going to have to report it to the GM...'
+[Sun May 13 02:34:06 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:34:10 2001] Yubs says, 'Hail Espranza'
+[Sun May 13 02:34:14 2001] Zephiroth shouts, 'SOW needed at tunnel entrance pleas'
+[Sun May 13 02:34:17 2001] You feel as if you are about to fall.
+[Sun May 13 02:34:19 2001] Yeishinu auctions, 'WTT/WTS Short Sword of the Ykshea, send tells.'
+[Sun May 13 02:34:23 2001] You feel as if you are about to fall.
+[Sun May 13 02:34:23 2001] Ballotine auctions, 'WTS 10 slot backpacks 10-1.#QNAN0e+000ight reduction - 50pp'
+[Sun May 13 02:34:26 2001] You GMSAY, '<note badname> Misohorni GXQ7HDR'
+[Sun May 13 02:34:29 2001] Yuliann auctions, 'WTS Velious Quest Gems Crushed Black Marble, Crushed Emerald 1kpp each, Cloak of Shadows 12ac 13dex 10sv disease 0 weight all all 15kpp OBO or trades'
+[Sun May 13 02:34:29 2001] Karekano pokes Espranza.
+[Sun May 13 02:34:29 2001] You can no longer levitate.
+[Sun May 13 02:34:33 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:34:34 2001] Yubs says, 'r u a gm? espranza'
+[Sun May 13 02:34:40 2001] Allonon auctions, 'WTS +2int ring 5pp, +2wis ring 5pp, +2str ring 5pp, +2agl ring 4pp, +2dex bracelet 4pp, +3chr necklace 4pp, 1ac 5hp 5ma 10pp, 2ac +4sv poison ring 15pp send tells'
+[Sun May 13 02:34:40 2001] You say, 'I'm a guide'
+[Sun May 13 02:34:41 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:34:42 2001] Matthius says, 'guide'
+[Sun May 13 02:34:43 2001] Allonon auctions, 'WTS large tailored bag 6 slot 10 36069956eght reduction 20pp send tells'
+[Sun May 13 02:34:48 2001] You say, 'next best thing, except I don't get paid'
+[Sun May 13 02:34:50 2001] Yubs says, 'cool '
+[Sun May 13 02:34:51 2001] Karekano says, 'Hail Matthius'
+[Sun May 13 02:34:53 2001] Karekano waves at Matthius.
+[Sun May 13 02:34:53 2001] Players in EverQuest:
+[Sun May 13 02:34:53 2001] ---------------------------
+[Sun May 13 02:34:53 2001] * Guide *[51 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: ecommons (USER PID AUGBQH4)
+[Sun May 13 02:34:53 2001] * Guide *[50 Shadow Knight]  (Dark Elf) <Keepers of Morell Thule> ZONE:  (USER PID EUGB4P0)
+[Sun May 13 02:34:53 2001] There are 2 players in EverQuest.
+[Sun May 13 02:34:53 2001] Matthius says, 'Guides are only level 50... I can kill them =p\'
+[Sun May 13 02:34:56 2001] Yubs says, 'hehe '
+[Sun May 13 02:34:58 2001] You say, 'heh'
+[Sun May 13 02:35:01 2001] Matthius waves at Karekano.
+[Sun May 13 02:35:07 2001] Matthius shouts, 'HOBBBIT GUIDE!'
+[Sun May 13 02:35:08 2001] Yubs says, 'may i look '
+[Sun May 13 02:35:08 2001] You say, 'you could try anyway'
+[Sun May 13 02:35:10 2001] Thornbush auctions, 'SELLING Velium Shmitar, Golden Jaded Bracelets, Gnoll Hide Lariats, Silversilk leggings, Silver Jasper ring, SP Gloves trades considered send tells\'
+[Sun May 13 02:35:15 2001] You say, 'I have the KILL command'
+[Sun May 13 02:35:16 2001] Matthius grabs hold of Espranza and begins to dance with her.
+[Sun May 13 02:35:18 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:35:19 2001] Narnael shouts, 'oh no'
+[Sun May 13 02:35:20 2001] Yubs is looking at your equipment...
+[Sun May 13 02:35:21 2001] Breezza auctions, '<SELLING> Robe of Ishva 4k'
+[Sun May 13 02:35:23 2001] Breezza auctions, '<SELLING> Kunzar Cloak ac7 2wis 2int 10fire all classes but only small sizes and Lizzy's 400pp'
+[Sun May 13 02:35:24 2001] Yuliann auctions, 'WTS Velious Quest Gems Crushed Black Marble, Crushed Emerald 1kpp each, Cloak of Shadows 12ac 13dex 10sv disease 0 weight all all 15kpp OBO or trades'
+[Sun May 13 02:35:26 2001] Rayannen shouts, '1 more spot open for orc'
+[Sun May 13 02:35:26 2001] Thornbush says, 'Hail Espranza'
+[Sun May 13 02:35:27 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun May 13 02:35:28 2001] USER TEXT: gm
+[Sun May 13 02:35:28 2001] Players in EverQuest:
+[Sun May 13 02:35:28 2001] ---------------------------
+[Sun May 13 02:35:28 2001] [24 Druid] Xeios (Wood Elf) <Random Acts> ZONE: northkarana (USER PID DZHSFN8)
+[Sun May 13 02:35:28 2001] There is 1 player in EverQuest.
+[Sun May 13 02:35:29 2001] Karekano auctions, 'WTS Turncheon of doom or trade cobalt boots and bracer'
+[Sun May 13 02:35:29 2001] Yanlar begins to cast a spell. (Summon Food)
+[Sun May 13 02:35:35 2001] Yanlar sits down to call upon the power of the elements.
+[Sun May 13 02:35:36 2001] Matthius says, 'omg you should had seen our raid a couple of days ago... out of 35 people thre was 14 hobbits'
+[Sun May 13 02:35:37 2001] You wave at Thornbush.
+[Sun May 13 02:35:41 2001] You no longer have a target.
+[Sun May 13 02:35:44 2001] Thornbush says, 'how goes it?'
+[Sun May 13 02:35:45 2001] You say, 'we're taking over'
+[Sun May 13 02:35:46 2001] Yeishinu auctions, 'WTT/WTS Short Sword of the Ykshea, send tells.'
+[Sun May 13 02:35:47 2001] Breezza begins to cast a spell. (Gather Shadows)
+[Sun May 13 02:35:50 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:35:53 2001] Sarekrtixy says, 'Hail Espranza'
+[Sun May 13 02:35:53 2001] Kozakou auctions, 'WTT for WURMSLAYER, send tells'
+[Sun May 13 02:35:54 2001] You say, 'nobody's gonna remember gnomes when we're through'
+[Sun May 13 02:35:57 2001] Yanlar begins to cast a spell. (Summon Drink)
+[Sun May 13 02:36:00 2001] Matthius says, 'GNOME!'
+[Sun May 13 02:36:03 2001] Thornbush says, 'we make babies like rabbits'
+[Sun May 13 02:36:09 2001] Mitmit auctions, 'WTS barbed Armplate 7Ac 2Dex 30pp'
+[Sun May 13 02:36:09 2001] Yanlar says, 'GNOME!!'
+[Sun May 13 02:36:11 2001] You told Xeios, 'Hail, Xeios! Guide Espranza here. How may I help you?'
+[Sun May 13 02:36:12 2001] Sarekrtixy says, 'hobit hobbit hobbit'
+[Sun May 13 02:36:13 2001] You feel different.
+[Sun May 13 02:36:19 2001] Mitmit auctions, 'WTB Hooded Black Cloak'
+[Sun May 13 02:36:20 2001] Thornbush says, 'woa'
+[Sun May 13 02:36:20 2001] Yubs says, 'cool'
+[Sun May 13 02:36:21 2001] Kozakou is looking at your equipment...
+[Sun May 13 02:36:22 2001] Ballotine auctions, 'WTS 10 slot backpacks 10-1.#QNAN0e+000ight reduction - 50pp'
+[Sun May 13 02:36:24 2001] You say, 'agh'
+[Sun May 13 02:36:24 2001] Yuliann auctions, 'WTS Velious Quest Gems Crushed Black Marble, Crushed Emerald 1kpp each, Cloak of Shadows 12ac 13dex 10sv disease 0 weight all all 15kpp OBO or trades'
+[Sun May 13 02:36:25 2001] Evilb auctions, 'WTS MQ & LQ Bear Skins'
+[Sun May 13 02:36:25 2001] Matthius says, 'Wizards are greatly known.... for taxi Servis'
+[Sun May 13 02:36:25 2001] Breezza begins to cast a spell. (Dead Man Floating)
+[Sun May 13 02:36:29 2001] You say, 'ANOTHER bad name'
+[Sun May 13 02:36:29 2001] Mitmit auctions, 'WTB Boodstained Mantle'
+[Sun May 13 02:36:30 2001] Yubs says, 'ima enchater to'
+[Sun May 13 02:36:32 2001] Thornbush tells you, 'u can go any race or class?'
+[Sun May 13 02:36:34 2001] Karekano auctions, 'WTS Turncheon of doom or trade cobalt boots and bracer'
+[Sun May 13 02:36:35 2001] Breezza begins to cast a spell. (Gather Shadows)
+[Sun May 13 02:36:37 2001] Mitmit auctions, 'WTB Vambraces of Avoidance'
+[Sun May 13 02:36:38 2001] You told Thornbush, 'no, just gnome'
+[Sun May 13 02:36:40 2001] Mitmit auctions, 'WTS Silver Amber Ring x 2 Str2'
+[Sun May 13 02:36:41 2001] Thornbush tells you, 'or are u enc?'
+[Sun May 13 02:36:46 2001] Evilb auctions, 'WTS Stacks of Bone Chips'
+[Sun May 13 02:36:46 2001] You told Thornbush, 'rogue'
+[Sun May 13 02:36:52 2001] Players in EverQuest:
+[Sun May 13 02:36:52 2001] ---------------------------
+[Sun May 13 02:36:52 2001] [14 Druid] Azwhipin (Halfling) <Mystical Lightfighters> ZONE: ecommons (USER PID HQ6QMDA)
+[Sun May 13 02:36:52 2001] There is 1 player in EverQuest.
+[Sun May 13 02:36:52 2001] Xeios tells you, 'thx for the tell but I figured it out I died and my corpse ended up atop a druid ring, thx again'
+[Sun May 13 02:36:53 2001] Yanlar spooges all over Matthius's robe and epic.
+[Sun May 13 02:36:53 2001] Matthius says, 'Espranza watch me I can make myself short too'
+[Sun May 13 02:36:57 2001] Karekano auctions, 'WTS tolan's darkwood helm ranger only 3kpp'
+[Sun May 13 02:36:58 2001] Yanlar begins to cast a spell. (Summon Drink)
+[Sun May 13 02:36:59 2001] Breezza begins to cast a spell. (Dead Man Floating)
+[Sun May 13 02:37:01 2001] Thornbush tells you, 'how were u galflin'
+[Sun May 13 02:37:02 2001] Evilb auctions, 'WTS MQ & LQ Bear Skins'
+[Sun May 13 02:37:04 2001] Narzadon shouts, 'can anybody see my corps??'
+[Sun May 13 02:37:07 2001] Yanlar begins to cast a spell. (Summon Drink)
+[Sun May 13 02:37:10 2001] Xorssis begins to cast a spell. (Gather Shadows)
+[Sun May 13 02:37:10 2001] Breezza begins to cast a spell. (Gather Shadows)
+[Sun May 13 02:37:13 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:37:15 2001] Yanlar begins to cast a spell. (Summon Drink)
+[Sun May 13 02:37:15 2001] Kalabane says, 'Hail Thornbush'
+[Sun May 13 02:37:16 2001] Dudo auctions, 'want to buy large bronze armer send tell plz'
+[Sun May 13 02:37:17 2001] Vinyamar shouts, 'PC for Chipped Bone Colar please'
+[Sun May 13 02:37:19 2001] You GMSAY, '<note badname> Azwhipin HQ6QMDA'
+[Sun May 13 02:37:20 2001] Thornbush tells you, 'halfluin'
+[Sun May 13 02:37:20 2001] Kozakou waves at Kalabane.
+[Sun May 13 02:37:21 2001] Yubs says, 'Hail Matthius'
+[Sun May 13 02:37:23 2001] Matthius says, 'bah the Gnome is igrnoring me'
+[Sun May 13 02:37:27 2001] Yanlar begins to cast a spell. (Summon Drink)
+[Sun May 13 02:37:28 2001] You told Thornbush, '?'
+[Sun May 13 02:37:31 2001] Kalabane graciously approaches Kozakou with a smile.
+[Sun May 13 02:37:31 2001] Kalabane says, 'Greetings Kozakou'
+[Sun May 13 02:37:31 2001] Kalabane bows before Kozakou.
+[Sun May 13 02:37:31 2001] Matthius coughs at Espranza.
+[Sun May 13 02:37:33 2001] Kalabane says, 'Hail Kozakou'
+[Sun May 13 02:37:33 2001] Yanlar begins to cast a spell. (Summon Drink)
+[Sun May 13 02:37:33 2001] Narzadon shouts, 'can anybody see my corps??'
+[Sun May 13 02:37:33 2001] Yubs says, 'r u sellin'
+[Sun May 13 02:37:34 2001] Thornbush tells you, 'nm'
+[Sun May 13 02:37:35 2001] Breezza auctions, '<SELLING> Kunzar Cloak ac7 2wis 2int 10fire all classes but only small sizes and Lizzy's 400pp'
+[Sun May 13 02:37:36 2001] Kalabane says, 'hey friend'
+[Sun May 13 02:37:37 2001] Your illusion fades.
+[Sun May 13 02:37:37 2001] You feel a bit dispelled.
+[Sun May 13 02:37:40 2001] Yanlar begins to cast a spell. (Summon Drink)
+[Sun May 13 02:37:41 2001] Kalabane says, 'Hail Thornbush'
+[Sun May 13 02:37:44 2001] Breezza auctions, '<SELLING> Robe of Ishva 4k'
+[Sun May 13 02:37:45 2001] Thornbush says, 'yipeee'
+[Sun May 13 02:37:47 2001] Sushidono auctions, 'WTS Fier'Dal Sewing Kits for WOOD ELF racial tailoring, 10 slots! .... only 40pp'
+[Sun May 13 02:37:48 2001] Yanlar begins to cast a spell. (Summon Drink)
+[Sun May 13 02:37:51 2001] Matthius says, 'selling verious items'
+[Sun May 13 02:37:53 2001] Yeishinu shouts, 'I think it's safe to say your corpse isn't near the tunnel.'
+[Sun May 13 02:37:55 2001] Yanlar begins to cast a spell. (Summon Drink)
+[Sun May 13 02:38:00 2001] Yubs says, 'may i see please'
+[Sun May 13 02:38:00 2001] You told Xeios, 'okay, be well!'
+[Sun May 13 02:38:03 2001] Kaymar auctions, 'Jeweler at work, take orders now :)'
+[Sun May 13 02:38:05 2001] DELETING THIS PETITION
+[Sun May 13 02:38:07 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun May 13 02:38:07 2001] Thornbush says, 'Hail Kalabane'
+[Sun May 13 02:38:07 2001] USER TEXT: i cant find my corps
+[Sun May 13 02:38:08 2001] Players in EverQuest:
+[Sun May 13 02:38:08 2001] ---------------------------
+[Sun May 13 02:38:08 2001] [4 Shadow Knight] Narzadon (Human) ZONE: ecommons (USER PID HZAC3Z3)
+[Sun May 13 02:38:08 2001] There is 1 player in EverQuest.
+[Sun May 13 02:38:08 2001] Masq auctions, 'TAKING ORDERS FOR SM/MED BANDED. 1pp per ac'
+[Sun May 13 02:38:08 2001] Ruweny shouts, 'can anyone sow me for CR  plz at tunnel'
+[Sun May 13 02:38:12 2001] Kalabane says, 'hello'
+[Sun May 13 02:38:14 2001] Kalabane says, 'Can i bother you for a SoW please?'
+[Sun May 13 02:38:15 2001] Yanlar begins to cast a spell. (Summon Drink)
+[Sun May 13 02:38:16 2001] Searching zones for corpse of that name....
+[Sun May 13 02:38:21 2001] Corpse: Narzadon's corpse0 in zone: ecommons
+[Sun May 13 02:38:23 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:38:27 2001] Kozakou auctions, 'WTS Crafted BP, send tells'
+[Sun May 13 02:38:27 2001] Minam auctions, 'WTS Green Jade Axe..17/34.1HS.str10 sta-15 hp25 pr dr'
+[Sun May 13 02:38:29 2001] Minam auctions, 'WTS Cobalt Boots.war only.ac25.eff:strength of the kun'
+[Sun May 13 02:38:30 2001] Teleporting to narzadon's corpse0.
+[Sun May 13 02:38:36 2001] Masq auctions, 'TAKING ORDERS FOR SM/MED BANDED. 1pp per ac'
+[Sun May 13 02:38:39 2001] Tankqer auctions, 'WTB Cobolt arms'
+[Sun May 13 02:38:41 2001] Karekano auctions, 'WTS Turncheon of doom or trade cobalt boots and bracer'
+[Sun May 13 02:38:44 2001] Sarekrtixy auctions, 'WTS ICE TOOTH CLAWS 1hs 11/29 500pp OBO taking trades'
+[Sun May 13 02:38:46 2001] Yuliann auctions, 'WTS Velious Quest Gems Crushed Black Marble, Crushed Emerald 1kpp each, Cloak of Shadows 12ac 13dex 10sv disease 0 weight all all 15kpp OBO or trades'
+[Sun May 13 02:38:52 2001] Mitmit auctions, 'WTS barbed Armplate 7Ac 2Dex 30pp'
+[Sun May 13 02:38:53 2001] You told Narzadon, 'Hail, Narzadon! Guide Espranza here. How did you die?'
+[Sun May 13 02:38:55 2001] Matthius shouts, 'why do you run from me hobbit Espranza !'
+[Sun May 13 02:39:00 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:39:02 2001] Evilb auctions, 'WTS MQ & LQ Bear Skins'
+[Sun May 13 02:39:03 2001] Yeishinu auctions, 'WTT/WTS Short Sword of the Ykshea, send tells.'
+[Sun May 13 02:39:04 2001] Thornbush auctions, 'SELLING Velium Shmitar, Golden Jaded Bracelets, Gnoll Hide Lariats, Silversilk leggings, Silver Jasper ring, SP Gloves trades considered send tells\'
+[Sun May 13 02:39:05 2001] Evilb auctions, 'WTS Stacks of Bone Chips'
+[Sun May 13 02:39:10 2001] You told Matthius, 'gotta work ('
+[Sun May 13 02:39:10 2001] Narzadon tells you, 'a sord of bard killt me'
+[Sun May 13 02:39:12 2001] Yeishinu shouts, 'Because halflings are evil..'
+[Sun May 13 02:39:15 2001] Matthius tells you, 'haha have fun'
+[Sun May 13 02:39:29 2001] Karekano auctions, 'WTS Turncheon of doom or trade cobalt boots and bracer'
+[Sun May 13 02:39:35 2001] Humpie shouts, 'can someone heal me at entrance to cave  im poisoned'
+[Sun May 13 02:39:37 2001] You told Narzadon, 'As you crossed a hill perhaps?'
+[Sun May 13 02:39:40 2001] Karekano auctions, 'WTS Turncheon of doom 34kpp war only'
+[Sun May 13 02:39:40 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:39:44 2001] Narzadon tells you, 'yes'
+[Sun May 13 02:39:51 2001] Misohorni auctions, 'WTS / WTT sarnak battlehammer 30 dam 40 del war, withered totem fo the windershins 20 dam 42 del 9 dex 15 wis shm, flayed turmoil skin belt 9 ac 6 dex 5 wis sham, fighting baton 8 20 mnk'
+[Sun May 13 02:39:52 2001] You told Narzadon, 'your corpse is right where you died, then'
+[Sun May 13 02:39:55 2001] Yeishinu auctions, 'WTB/WTTF Ry'gorr Leggins.'
+[Sun May 13 02:39:58 2001] Dudo auctions, 'want to buy large bronze armer send tell plz'
+[Sun May 13 02:39:58 2001] DELETING THIS PETITION
+[Sun May 13 02:39:59 2001] Fenrick auctions, 'selling 5 days of food and water cheap'
+[Sun May 13 02:40:05 2001] Narzadon tells you, 'close to the zone of west commonlands'
+[Sun May 13 02:40:09 2001] Sushidono auctions, 'WTS Fier'Dal Sewing Kits for WOOD ELF racial tailoring, 10 slots! .... only 40pp'
+[Sun May 13 02:40:13 2001] You told Narzadon, 'fairly close, I guess'
+[Sun May 13 02:40:18 2001] Narzadon tells you, 'duh but i cant find it anymore'
+[Sun May 13 02:40:18 2001] Dudo auctions, 'want to buy large bronze armer send tell plz'
+[Sun May 13 02:40:24 2001] Kozakou auctions, 'WTS Crafted BP, send tells'
+[Sun May 13 02:40:27 2001] Allonon auctions, 'WTS large tailored bag 6 slot 10 36069956eght reduction 20pp send tells'
+[Sun May 13 02:40:33 2001] Ballotine auctions, 'WTS 10 slot backpacks 10-1.#QNAN0e+000ight reduction - 50pp'
+[Sun May 13 02:40:35 2001] Thornbush auctions, 'SELLING Velium Shmitar, Golden Jaded Bracelets, Gnoll Hide Lariats, Silversilk leggings, Silver Jasper ring, SP Gloves trades considered send tells\'
+[Sun May 13 02:40:35 2001] Allonon auctions, 'WTS large tailored bag 6 slot 10 36069956eght reduction 20pp send tells'
+[Sun May 13 02:40:40 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:40:43 2001] You told Narzadon, 'perhaps you can get a bard or necromancer to help'
+[Sun May 13 02:40:45 2001] Players on EverQuest:
+[Sun May 13 02:40:45 2001] ---------------------------
+[Sun May 13 02:40:45 2001] [53 Minstrel] Minam (Half Elf) <Power of Peace>
+[Sun May 13 02:40:45 2001] There is 1 player in East Commonlands.
+[Sun May 13 02:40:49 2001] Redmaw says out of character, 'slate 80-85:)'
+[Sun May 13 02:40:50 2001] Players on EverQuest:
+[Sun May 13 02:40:50 2001] ---------------------------
+[Sun May 13 02:40:50 2001] [16 Necromancer] Teuen (Dark Elf) <United Kingdoms>
+[Sun May 13 02:40:50 2001] [5 Necromancer] Drutz (Gnome)
+[Sun May 13 02:40:50 2001] There are 2 players in East Commonlands.
+[Sun May 13 02:40:51 2001] Yeishinu auctions, 'WTT/WTS Short Sword of the Ykshea, send tells.'
+[Sun May 13 02:40:54 2001] Allonon auctions, 'WTS +2int ring 5pp, +2wis ring 5pp, +2str ring 5pp, +2agl ring 4pp, +2dex bracelet 4pp, +3chr necklace 4pp, 1ac 5hp 5ma 10pp, 2ac +4sv poison ring 15pp send tells'
+[Sun May 13 02:40:55 2001] Players on EverQuest:
+[Sun May 13 02:40:55 2001] ---------------------------
+[Sun May 13 02:40:55 2001] There are no players in East Commonlands that match those who filters.
+[Sun May 13 02:40:58 2001] Matthius auctions, 'WTB Blue Diamonds'
+[Sun May 13 02:41:08 2001] Yeishinu says out of character, 'GL, a Level 54 Warr I knew had to zone slate.  =)'
+[Sun May 13 02:41:11 2001] Players in EverQuest:
+[Sun May 13 02:41:11 2001] ---------------------------
+[Sun May 13 02:41:11 2001] [2 Druid] Iegienya (Wood Elf) ZONE: gfaydark (USER PID EVGU5YE)
+[Sun May 13 02:41:11 2001] [2 Warrior] Berrkey (Dwarf) ZONE: butcher (USER PID BZD32FH)
+[Sun May 13 02:41:11 2001] [2 Druid]  (Wood Elf) ZONE:  (USER PID DQHKZMS)
+[Sun May 13 02:41:11 2001] [2 Magician]  (Human) ZONE:  (USER PID EZND4FW)
+[Sun May 13 02:41:11 2001] [2 Enchanter]  (High Elf) ZONE:  (USER PID FU5BDQK)
+[Sun May 13 02:41:11 2001] There are 5 players in EverQuest.
+[Sun May 13 02:41:22 2001] Narzadon shouts, 'can annybody see my corps/// please tell me'
+[Sun May 13 02:41:23 2001] Yuliann says out of character, 'you know when your sow runs out he is gonna stomp you'
+[Sun May 13 02:41:25 2001] Karekano auctions, 'WTS Turncheon of doom or trade cobalt boots and bracer'
+[Sun May 13 02:41:26 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:41:29 2001] Ethromist auctions, 'WTS STACK OF BONE CHIPS'
+[Sun May 13 02:41:32 2001] Yuliann auctions, 'WTS Velious Quest Gems Crushed Black Marble, Crushed Emerald 1kpp each, Cloak of Shadows 12ac 13dex 10sv disease 0 weight all all 15kpp OBO or trades'
+[Sun May 13 02:41:38 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:41:42 2001] Karekano auctions, 'WTS tolan's darkwood helm 3kpp ranger only'
+[Sun May 13 02:41:43 2001] You feel the spirit of Norrath enter you.
+[Sun May 13 02:41:44 2001] Your feet leave the ground.
+[Sun May 13 02:41:44 2001] Evilb auctions, 'WTS Stacks of Bone Chips'
+[Sun May 13 02:41:46 2001] Redmaw says out of character, 'jboots. they never run out'
+[Sun May 13 02:41:47 2001] Sushidono auctions, 'WTS Fier'Dal Sewing Kits for WOOD ELF racial tailoring, 10 slots! .... only 40pp'
+[Sun May 13 02:41:47 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:41:49 2001] Evilb auctions, 'WTS MQ & LQ Bear Skins'
+[Sun May 13 02:41:55 2001] Yeishinu says out of character, 'Jboots is suck'
+[Sun May 13 02:41:57 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:42:01 2001] Yuliann says out of character, 'cool'
+[Sun May 13 02:42:14 2001] Karekano auctions, 'WTS Turncheon of doom or trade cobalt boots and bracer'
+[Sun May 13 02:42:15 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:42:28 2001] Yeishinu auctions, 'WTS 10 Charge SoW potions, WTS/WTT Short Sword of the Ykshea.'
+[Sun May 13 02:42:28 2001] Players in EverQuest:
+[Sun May 13 02:42:28 2001] ---------------------------
+[Sun May 13 02:42:28 2001] [15 Ranger] Lemaitredesloup (Half Elf) <Ombres et Lumieres> ZONE: ecommons (USER PID EX0UZD0)
+[Sun May 13 02:42:28 2001] There is 1 player in EverQuest.
+[Sun May 13 02:42:32 2001] Yubs says, 'Hail Espranza'
+[Sun May 13 02:42:35 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:42:39 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:42:51 2001] You GMSAY, '<note badname> Lemaitredesloup EX0UZD0'
+[Sun May 13 02:42:54 2001] Sarekrtixy auctions, 'WTS ICE TOOTH CLAWS 1hs 11/29 500pp OBO taking trades'
+[Sun May 13 02:42:55 2001] Doota auctions, 'WTS Forman's skull cap ac8 str4 dex2 sta2 svc10'
+[Sun May 13 02:42:57 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:42:59 2001] You wave at Yubs.
+[Sun May 13 02:43:01 2001] Yubs says, 'i have one queastipon r u alowed to kill monstars?'
+[Sun May 13 02:43:02 2001] You say, 'hi!'
+[Sun May 13 02:43:06 2001] You say, 'me? no'
+[Sun May 13 02:43:11 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:43:13 2001] You say, 'not for exp anyway'
+[Sun May 13 02:43:13 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:43:17 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:43:18 2001] Espranza saved.
+[Sun May 13 02:43:19 2001] You say, 'sometimes we can if they are bugged'
+[Sun May 13 02:43:23 2001] Yubs says, 'how dp u lvl up'
+[Sun May 13 02:43:23 2001] Ballotine auctions, 'WTS 10 slot backpacks 10-1.#QNAN0e+000ight reduction - 50pp'
+[Sun May 13 02:43:29 2001] Yubs says, 'oh'
+[Sun May 13 02:43:40 2001] You say, 'my level depends on how long I've been guiding'
+[Sun May 13 02:43:44 2001] Gabrila auctions, '1 LQ bear and 1 MQ wolf send tell'
+[Sun May 13 02:43:46 2001] Opolla auctions, 'WTS / WTT Argent Defender: magic 2hs, 33/49, mana +20'
+[Sun May 13 02:43:51 2001] You say, 'I've been guiding 3 months so I'm level 51'
+[Sun May 13 02:43:53 2001] Yubs says, 'what lvl r u know'
+[Sun May 13 02:43:53 2001] Fanandil shouts, 'who was selling 6 slot backpacks with 10reduction for 20pp?'
+[Sun May 13 02:43:55 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:43:57 2001] You say, '51'
+[Sun May 13 02:43:58 2001] Yubs says, 'wow'
+[Sun May 13 02:43:58 2001] Players in EverQuest:
+[Sun May 13 02:43:58 2001] ---------------------------
+[Sun May 13 02:43:58 2001] * Guide *[51 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: ecommons (USER PID AUGBQH4)
+[Sun May 13 02:43:58 2001] * Guide *[50 Shadow Knight]  (Dark Elf) <Keepers of Morell Thule> ZONE:  (USER PID EUGB4P0)
+[Sun May 13 02:43:58 2001] There are 2 players in EverQuest.
+[Sun May 13 02:44:01 2001] Yuliann auctions, 'WTS Velious Quest Gems Crushed Black Marble, Crushed Emerald 1kpp each, Cloak of Shadows 12ac 13dex 10sv disease 0 weight all all 15kpp OBO or trades'
+[Sun May 13 02:44:01 2001] Fanandil shouts, 'send tells'
+[Sun May 13 02:44:07 2001] Yubs says, 'how do u become one'
+[Sun May 13 02:44:09 2001] Kozakou auctions, 'WTS Crafted BP, send tells'
+[Sun May 13 02:44:09 2001] Sarekrtixy auctions, 'WTS ICE TOOTH CLAWS 1hs 11/29 500pp OBO taking trades'
+[Sun May 13 02:44:11 2001] Barkehjelm shouts, 'help'
+[Sun May 13 02:44:12 2001] You're not scaring anyone.
+[Sun May 13 02:44:20 2001] You say, 'Go to guideapp.everquest.com'
+[Sun May 13 02:44:20 2001] Fenrick shouts, 'use /y'
+[Sun May 13 02:44:31 2001] Karemk auctions, 'WTS ranger only tolan'
+[Sun May 13 02:44:32 2001] You're not scaring anyone.
+[Sun May 13 02:44:33 2001] Mitmit auctions, 'WTS Crested Helm 10Ac 6Str 3Cha 800pp'
+[Sun May 13 02:44:44 2001] Thornbush auctions, 'SELLING Velium Shmitar, Golden Jaded Bracelets, Gnoll Hide Lariats, Silversilk leggings, Silver Jasper ring, SP Gloves trades considered send tells\'
+[Sun May 13 02:44:50 2001] Karemk auctions, 'WTS ranger only tolan's darkwood helm 3kpp'
+[Sun May 13 02:44:52 2001] Yubs says, 'ok one sec need to find a pen'
+[Sun May 13 02:44:53 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:44:57 2001] Jarmal auctions, 'WTS Forest Loop +3 agi/dex/wis'
+[Sun May 13 02:44:57 2001] You say, 'okay'
+[Sun May 13 02:44:58 2001] You have become better at Intimidation! (105)
+[Sun May 13 02:45:03 2001] You cheer at Yubs.
+[Sun May 13 02:45:06 2001] Yubs says, 'ok im back'
+[Sun May 13 02:45:11 2001] You're not scaring anyone.
+[Sun May 13 02:45:12 2001] You say, 'Go to guideapp.everquest.com'
+[Sun May 13 02:45:24 2001] Oohga auctions, 'shamn planar belt  5k WIS item'
+[Sun May 13 02:45:27 2001] Yuliann sighs at Espranza.
+[Sun May 13 02:45:30 2001] Yuliann comforts Espranza.
+[Sun May 13 02:45:32 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:45:34 2001] You look at Yuliann, completely puzzled.
+[Sun May 13 02:45:35 2001] Dudo auctions, 'want to buy large bronze armer send tell plz'
+[Sun May 13 02:45:40 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:45:46 2001] Yuliann says, 'i would never do your job...not worth it'
+[Sun May 13 02:45:47 2001] Yeishinu auctions, 'WTS 10 Charge SoW potions, WTS/WTT Short Sword of the Ykshea.'
+[Sun May 13 02:45:49 2001] Kozakou auctions, 'WTT for Ry'gorr arms and Dwarven Work Boots, send tells'
+[Sun May 13 02:45:50 2001] You say, 'heh'
+[Sun May 13 02:45:54 2001] You say, 'I like it'
+[Sun May 13 02:45:54 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:45:55 2001] Yuliann says, 'u don't even get paid'
+[Sun May 13 02:45:58 2001] You say, 'Nope.'
+[Sun May 13 02:45:59 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:46:04 2001] You say, 'I do get to have fun though'
+[Sun May 13 02:46:06 2001] Yuliann says, 'no killing or anything'
+[Sun May 13 02:46:07 2001] Vinyamar shouts, 'PC for Chipped Bone Colar please'
+[Sun May 13 02:46:09 2001] You no longer have a target.
+[Sun May 13 02:46:16 2001] Yuliann says, 'what? rezzes..hehe'
+[Sun May 13 02:46:16 2001] You say, 'no, no killing'
+[Sun May 13 02:46:18 2001] Oohga auctions, 'shamn planar belt  5k WIS item'
+[Sun May 13 02:46:23 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:46:23 2001] Yubs says, 'i dont care im still in school hehe'
+[Sun May 13 02:46:27 2001] You say, 'and most of the time I can't rez either'
+[Sun May 13 02:46:33 2001] Cannabiss auctions, 'WTB blackened iron tunic, send tells please'
+[Sun May 13 02:46:34 2001] Kaymar auctions, 'Jeweler at work, take orders now :)'
+[Sun May 13 02:46:36 2001] Dudo auctions, 'want to buy large bronze armer send tell plz'
+[Sun May 13 02:46:40 2001] Kozakou auctions, 'WTS Crafted BP, send tells'
+[Sun May 13 02:46:42 2001] Yeishinu throws a net over Espranza.
+[Sun May 13 02:46:43 2001] You're not scaring anyone.
+[Sun May 13 02:46:50 2001] Yubs says, 'is it www. then the rest?'
+[Sun May 13 02:46:51 2001] Yeishinu says, 'I CAUGHT A HALFIE!'
+[Sun May 13 02:46:51 2001] Degaulle auctions, 'WTB LQ bear pelts'
+[Sun May 13 02:46:57 2001] You say, 'no'
+[Sun May 13 02:47:00 2001] Opolla auctions, 'WTS / WTT Argent Defender: magic 2hs, 33/49, mana +20'
+[Sun May 13 02:47:01 2001] Lemaitredesloup auctions, 'I SELL GOOD BLADE FOR 150pp'
+[Sun May 13 02:47:05 2001] You say, 'just guideapp.everquest.com'
+[Sun May 13 02:47:06 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:47:14 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:47:15 2001] Yubs says, 'ok thanks '
+[Sun May 13 02:47:17 2001] Players in EverQuest:
+[Sun May 13 02:47:17 2001] ---------------------------
+[Sun May 13 02:47:17 2001] [ANON (4 Warrior)] Opolla (Human) ZONE: ecommons (USER PID AVW6F0N)
+[Sun May 13 02:47:17 2001] There is 1 player in EverQuest.
+[Sun May 13 02:47:18 2001] Yuliann auctions, 'WTS Velious Quest Gems Crushed Black Marble, Crushed Emerald 1kpp each, Cloak of Shadows 12ac 13dex 10sv disease 0 weight all all 15kpp OBO or trades'
+[Sun May 13 02:47:29 2001] Mitmit auctions, 'WTS Crested Helm 10Ac 6Str 3Cha 800pp'
+[Sun May 13 02:47:30 2001] You GMSAY, '<note badname> Opolla AVW6F0N'
+[Sun May 13 02:47:32 2001] Yubs says, 'is that it do i ahve to fill somthin out?'
+[Sun May 13 02:47:42 2001] Yubs says, 'sorry have to'
+[Sun May 13 02:47:42 2001] You say, 'yes, there's an application and a test'
+[Sun May 13 02:47:48 2001] You say, 'you'll see when you get there'
+[Sun May 13 02:47:55 2001] Yubs says, 'test? test on what'
+[Sun May 13 02:48:01 2001] You say, 'game knowledge'
+[Sun May 13 02:48:02 2001] You have become better at Intimidation! (106)
+[Sun May 13 02:48:08 2001] Kozakou auctions, 'WTS Crafted BP, send tells'
+[Sun May 13 02:48:09 2001] Yubs says, 'oh ok thanks agin one more thing '
+[Sun May 13 02:48:12 2001] Ralnor auctions, 'WTB crafted medium size'
+[Sun May 13 02:48:14 2001] You say, 'okay'
+[Sun May 13 02:48:14 2001] Kackeroff auctions, 'wtb cloak 20pp or under send tells if you have something'
+[Sun May 13 02:48:14 2001] You're not scaring anyone.
+[Sun May 13 02:48:20 2001] Lemaitredesloup auctions, 'I SELL GOOD BLADE FOR 150pp'
+[Sun May 13 02:48:27 2001] You're not scaring anyone.
+[Sun May 13 02:48:27 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:48:30 2001] Yeishinu auctions, 'WTS 10 Charge SoW potions, WTS/WTT Short Sword of the Ykshea.'
+[Sun May 13 02:48:31 2001] Degaulle auctions, 'WTB LQ bear pelts'
+[Sun May 13 02:48:34 2001] Yubs says, 'do u get to pick and get free stuff like wep'
+[Sun May 13 02:48:38 2001] Oohga auctions, 'shamn planar belt  5k WIS item'
+[Sun May 13 02:48:45 2001] Delimar auctions, 'WTS Velium Warhammer, Small brick of velium, and ice of velious'
+[Sun May 13 02:48:46 2001] You say, 'just special guide things'
+[Sun May 13 02:48:47 2001] Ralnor auctions, 'WTS walrus toth,green silk drape,Sarnak great cleaver,enchanted fine l'
+[Sun May 13 02:48:51 2001] You say, 'can't have just anything'
+[Sun May 13 02:48:53 2001] Yubs says, 'ok thanks agin'
+[Sun May 13 02:48:56 2001] Tankqer auctions, 'WTB cobolt arms'
+[Sun May 13 02:48:57 2001] Ralnor auctions, 'WTS walrus toth,green silk drape,Sarnak great cleaver,enchanted fine steel longsword'
+[Sun May 13 02:48:58 2001] You say, 'anytime!'
+[Sun May 13 02:49:01 2001] Yubs says, 'hehe i know '
+[Sun May 13 02:49:05 2001] Yubs says, 'ok thanks'
+[Sun May 13 02:49:07 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:49:07 2001] Yubs bows before Espranza.
+[Sun May 13 02:49:08 2001] You bow before Yubs.
+[Sun May 13 02:49:11 2001] You feel different.
+[Sun May 13 02:49:14 2001] Fenrick auctions, 'selling 5 days of food and water cheap'
+[Sun May 13 02:49:19 2001] Opolla says, 'soft wicker ... from the warrens'
+[Sun May 13 02:49:20 2001] You are invulnerable.
+[Sun May 13 02:49:20 2001] Thornbush auctions, 'SELLING Velium Shmitar, Golden Jaded Bracelets, Gnoll Hide Lariats, Silversilk leggings, Silver Jasper ring, SP Gloves trades considered send tells\'
+[Sun May 13 02:49:22 2001] Lemaitredesloup auctions, 'WTS BRASS GOBLIN ITEM FLAMENDGE 2hs 15dmg 41delay RACE ALL CLASS WARRIOR RANGER PALADIN SHD MAGIC ITEN +5 DEX I SELL 150PP WHO INTERRESSED'
+[Sun May 13 02:49:25 2001] Yuliann says, 'ahhhh'
+[Sun May 13 02:49:34 2001] Degaulle auctions, 'WTB LQ bear pelts'
+[Sun May 13 02:49:37 2001] Kackeroff auctions, 'WTB cloak 20pp or under,send tells if you have '
+[Sun May 13 02:49:38 2001] Allonon auctions, 'WTS +2int ring 5pp, +2wis ring 5pp, +2str ring 5pp, +2agl ring 4pp, +2dex bracelet 4pp, +3chr necklace 4pp, 1ac 5hp 5ma 10pp, 2ac +4sv poison ring 15pp send tells'
+[Sun May 13 02:49:44 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:49:46 2001] Allonon auctions, 'WTS large tailored bag 6 slot 10 36069956eght reduction 20pp send tells'
+[Sun May 13 02:49:50 2001] Opolla auctions, 'WTS / WTT Argent Defender: magic 2hs, 33/49, mana +20'
+[Sun May 13 02:49:55 2001] Dudo auctions, 'want to buy large bronze armer send tell plz'
+[Sun May 13 02:49:59 2001] Evilb auctions, 'your full'
+[Sun May 13 02:50:15 2001] Yuliann says, 'u gonna do your crafted soon?'
+[Sun May 13 02:50:21 2001] Your invulnerability fades.
+[Sun May 13 02:50:23 2001] Kaymar auctions, 'Jeweler at work, take orders now :)'
+[Sun May 13 02:50:25 2001] Jarmal auctions, 'WTS Forest Loop +3 agi/dex/wis'
+[Sun May 13 02:50:29 2001] You can no longer levitate.
+[Sun May 13 02:50:29 2001] Your illusion fades.
+[Sun May 13 02:50:29 2001] You feel a bit dispelled.
+[Sun May 13 02:50:29 2001] Redmaw says out of character, 'well I killed the guard. slate is tought though ;)'
+[Sun May 13 02:51:01 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp |WTT GEboots+1kpp'
+[Sun May 13 02:51:09 2001] Players in EverQuest:
+[Sun May 13 02:51:09 2001] ---------------------------
+[Sun May 13 02:51:09 2001] [1 Warrior] Yongsunbabo (Troll) ZONE: innothule (USER PID HV6T09U)
+[Sun May 13 02:51:09 2001] [1 Magician] Yero (Gnome) ZONE: steamfont (USER PID FYYC757)
+[Sun May 13 02:51:09 2001] [1 Shaman] Logalog (Barbarian) ZONE: everfrost (USER PID CWRCKJF)
+[Sun May 13 02:51:09 2001] [1 Monk]  (Human) ZONE:  (USER PID CRWP7PH)
+[Sun May 13 02:51:09 2001] [1 Monk]  (Iksar) ZONE:  (USER PID DVK5MJR)
+[Sun May 13 02:51:09 2001] [1 Shadow Knight] Cymoric (Human) ZONE: qcat (USER PID DYJS52U)
+[Sun May 13 02:51:09 2001] [1 Magician]  (Erudite) ZONE:  (USER PID EU38MSM)
+[Sun May 13 02:51:09 2001] [1 Shadow Knight] Yoriwaba (Ogre) ZONE: innothule (USER PID BV6T8CS)
+[Sun May 13 02:51:09 2001] [1 Paladin] Tennex (Human) ZONE: freportw (USER PID FR3BM19)
+[Sun May 13 02:51:09 2001] [1 Enchanter]  (Human) ZONE:  (USER PID CYHNM33)
+[Sun May 13 02:51:09 2001] [1 Warrior]  (Ogre) ZONE:  (USER PID GQ14J6N)
+[Sun May 13 02:51:09 2001] [1 Druid] Fatsamanas (Wood Elf) ZONE: gfaydark (USER PID AWF0SK7)
+[Sun May 13 02:51:09 2001] [1 Ranger] Juzz (Wood Elf) ZONE: gfaydark (USER PID HX3Y4F5)
+[Sun May 13 02:51:09 2001] [1 Necromancer]  (Dark Elf) ZONE:  (USER PID DYKWM21)
+[Sun May 13 02:51:09 2001] [1 Enchanter]  (Dark Elf) ZONE:  (USER PID AXS69MH)
+[Sun May 13 02:51:09 2001] [1 Shadow Knight]  (Iksar) ZONE:  (USER PID FRKTJNJ)
+[Sun May 13 02:51:09 2001] [1 Enchanter]  (Dark Elf) ZONE:  (USER PID BXX84PH)
+[Sun May 13 02:51:09 2001] [1 Druid]  (Wood Elf) ZONE:  (USER PID HXMGXYF)
+[Sun May 13 02:51:09 2001] [1 Wizard]  (High Elf) ZONE:  (USER PID GWMXEWQ)
+[Sun May 13 02:51:09 2001] [1 Druid]  (Halfling) ZONE:  (USER PID FX97KCR)
+[Sun May 13 02:51:09 2001] Your who request was cut short..too many players.
+[Sun May 13 02:51:16 2001] Cannabiss auctions, 'WTB blackened iron tunic, send tells please'
+[Sun May 13 02:51:25 2001] Yuliann auctions, 'WTS Velious Quest Gems Crushed Black Marble, Crushed Emerald 1kpp each, Cloak of Shadows 12ac 13dex 10sv disease 0 weight all all 15kpp OBO or trades'
+[Sun May 13 02:51:27 2001] Kackeroff auctions, 'WTB cloak 20pp or under,send tells if you have '
+[Sun May 13 02:51:31 2001] Oohga auctions, 'shamn planar belt  5k WIS item  OR TRADE'
+[Sun May 13 02:51:35 2001] Thornbush says, 'Hail Espranza'
+[Sun May 13 02:51:38 2001] You wave at Thornbush.
+[Sun May 13 02:51:40 2001] Kunoiti auctions, 'WTS Rygorr Battle mail'
+[Sun May 13 02:51:41 2001] You say, 'hiya!'
+[Sun May 13 02:51:42 2001] Kackeroff auctions, 'WTB cloak 20pp or under,send tells if you have '
+[Sun May 13 02:51:47 2001] Thornbush says, 'sellin anythin?'
+[Sun May 13 02:51:52 2001] You roll on the floor laughing at Thornbush.
+[Sun May 13 02:51:55 2001] You say, 'heh'
+[Sun May 13 02:51:55 2001] Thornbush says, 'hehe'
+[Sun May 13 02:51:56 2001] You say, 'no'
+[Sun May 13 02:52:00 2001] Thornbush says, 'i want swords'
+[Sun May 13 02:52:05 2001] Degaulle auctions, 'WTB LQ bear pelts'
+[Sun May 13 02:52:07 2001] Buyers auctions, 'WTS Gauntlets of Brute Strenght: AC 5 STR +8, war'
+[Sun May 13 02:52:09 2001] Buyers auctions, 'WTS Ogre War Maul: 17/50 2hb, 34pp'
+[Sun May 13 02:52:10 2001] Oohga auctions, 'shamn planar belt  5k WIS item  OR TRADE'
+[Sun May 13 02:52:12 2001] Buyers auctions, 'WTS Large Bronze BP: AC 17, 12pp'
+[Sun May 13 02:52:12 2001] Thornbush says, 'gm only'
+[Sun May 13 02:52:14 2001] Buyers auctions, 'WTS Kodiak Pelt: AC3, STR 2, DEX 1 Back, large, 40'
+[Sun May 13 02:52:14 2001] You say, 'you're a druid, what would you do with them'
+[Sun May 13 02:52:15 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp Or Trade Geboots+1kpp'
+[Sun May 13 02:52:15 2001] Thornbush says, 'right?'
+[Sun May 13 02:52:16 2001] Buyers auctions, 'WTS Loach Beads:AC1, STR2, WIS3, HP5, SVF5, 800p'
+[Sun May 13 02:52:19 2001] Buyers auctions, 'WTS Ulthorc Bracer: AC 6 WIS 1 INT Neg1, 30pp'
+[Sun May 13 02:52:21 2001] Buyers auctions, 'WTS Orc fang earring: AC 3, STR 3, HP 15, 75pp'
+[Sun May 13 02:52:23 2001] You say, 'right'
+[Sun May 13 02:52:24 2001] You're not scaring anyone.
+[Sun May 13 02:52:29 2001] Thornbush says, 'heh i got a rogue(now)'
+[Sun May 13 02:52:32 2001] Thornbush says, 'how u do that?'
+[Sun May 13 02:52:34 2001] Degaulle auctions, 'WTB LQ bear pelts'
+[Sun May 13 02:52:36 2001] Kackeroff auctions, 'WTB  med banded cloak'
+[Sun May 13 02:52:38 2001] Dudo auctions, 'want to buy large bronze armer send tell plz'
+[Sun May 13 02:52:38 2001] You say, 'this?'
+[Sun May 13 02:52:40 2001] You're not scaring anyone.
+[Sun May 13 02:52:42 2001] Synek auctions, '***SELLING*** Shardtoothes Flayed Skin  14ac 35hp 35mana'
+[Sun May 13 02:52:47 2001] Thornbush auctions, 'SELLING Velium Shmitar, Golden Jaded Bracelets, Gnoll Hide Lariats, Silversilk leggings, Silver Jasper ring, SP Gloves trades considered send tells\'
+[Sun May 13 02:52:53 2001] You're not scaring anyone.
+[Sun May 13 02:52:54 2001] Lorewynd auctions, 'WTS WTT dragon dirk, blade of passage, lumber jack cap'
+[Sun May 13 02:52:55 2001] You say, 'thought you had a rogue!'
+[Sun May 13 02:52:58 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp Or Trade Geboots+1kpp'
+[Sun May 13 02:52:59 2001] Xandy auctions, 'WTS Paw of opolla 4k'
+[Sun May 13 02:53:00 2001] Oohga auctions, 'shamn planar belt  5k WIS item  OR TRADE'
+[Sun May 13 02:53:00 2001] Kunoiti auctions, 'WTS Rygorr Battle mail'
+[Sun May 13 02:53:07 2001] Synek auctions, '***SELLING*** Cryptrobbers Knife  7/20 4dex rogue only piercer'
+[Sun May 13 02:53:07 2001] Kackeroff auctions, 'WTB  med banded cloak'
+[Sun May 13 02:53:11 2001] Jarmal auctions, 'WTS Forest Loop +3 agi/dex/wis'
+[Sun May 13 02:53:14 2001] Morydwen begins to cast a spell. (Spirit of Wolf)
+[Sun May 13 02:53:15 2001] Redmaw says out of character, 'slate will be passing by tunnel in a min. HP is still at 80;('
+[Sun May 13 02:53:17 2001] Thornbush says, 'heh i meant ill make one when u give me the swords heh'
+[Sun May 13 02:53:17 2001] Tankqer auctions, 'WTB blue diamonds and cobolt arms'
+[Sun May 13 02:53:19 2001] Morydwen is surrounded by a brief lupine aura.
+[Sun May 13 02:53:20 2001] Faenar auctions, 'WT-BUY Plat Armbands, Gatorscale Legs, Foremans Tunic, Plat Ruby Veil, Mammoth Hide Cloak'
+[Sun May 13 02:53:23 2001] You say, 'ohhh'
+[Sun May 13 02:53:26 2001] Degaulle auctions, 'WTB LQ bear pelts'
+[Sun May 13 02:53:26 2001] Mitmit auctions, 'WTS Crested Helm 10Ac 6Str 3Cha 800pp'
+[Sun May 13 02:53:27 2001] Synek auctions, '***SELLING*** Dusty Breastplate 22ac 20hp 5sta'
+[Sun May 13 02:53:33 2001] Venix says out of character, '=|'
+[Sun May 13 02:53:35 2001] You say, 'that will be a very cold day in... ummm... Lavastorm'
+[Sun May 13 02:53:37 2001] Allonon bows before Thornbush.
+[Sun May 13 02:53:37 2001] Sarekrtixy begins to cast a spell. (Inner Fire)
+[Sun May 13 02:53:42 2001] Sarekrtixy begins to cast a spell. (Inner Fire)
+[Sun May 13 02:53:46 2001] Allonon says, 'Hail Thornbush'
+[Sun May 13 02:53:46 2001] Sarekrtixy begins to cast a spell. (Inner Fire)
+[Sun May 13 02:53:46 2001] You say, 'you have a customer I think'
+[Sun May 13 02:53:48 2001] Thornbush says, 'Hail Espranza'
+[Sun May 13 02:53:49 2001] Faenar auctions, 'WT-BUY Plat Armbands, Gatorscale Legs, Foremans Tunic, Plat Ruby Veil, Mammoth Hide Cloak'
+[Sun May 13 02:53:49 2001] Synek auctions, '***SELLING*** Shardtoothes Flayed Skin  14ac 35hp 35mana'
+[Sun May 13 02:53:50 2001] Sarekrtixy begins to cast a spell. (Inner Fire)
+[Sun May 13 02:53:50 2001] Thornbush says, 'hehe'
+[Sun May 13 02:53:51 2001] Synek auctions, '***SELLING*** Dusty Breastplate 22ac 20hp 5sta'
+[Sun May 13 02:53:51 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp Or Trade Geboots+1kpp'
+[Sun May 13 02:53:52 2001] Espranza saved.
+[Sun May 13 02:53:55 2001] Kozakou auctions, 'WTS Crafted BP, send tells'
+[Sun May 13 02:53:57 2001] Allonon bows before Thornbush.
+[Sun May 13 02:54:07 2001] Yuliann auctions, 'WTS Velious Quest Gems Crushed Black Marble, Crushed Emerald 1kpp each, Cloak of Shadows 12ac 13dex 10sv disease 0 weight all all 15kpp OBO or trades'
+[Sun May 13 02:54:15 2001] Nemasis auctions, 'wtb white scaled leggings'
+[Sun May 13 02:54:17 2001] Faenar auctions, 'WT-BUY Plat Armbands, Gatorscale Legs, Foremans Tunic or Runed Mithril Tunic, Plat Ruby Veil, Mammoth Hide Cloak'
+[Sun May 13 02:54:19 2001] Your feet leave the ground.
+[Sun May 13 02:54:20 2001] Your feet leave the ground.
+[Sun May 13 02:54:20 2001] Your feet leave the ground.
+[Sun May 13 02:54:20 2001] Your feet leave the ground.
+[Sun May 13 02:54:20 2001] You can't use that command right now...
+[Sun May 13 02:54:21 2001] Your feet leave the ground.
+[Sun May 13 02:54:21 2001] Your feet leave the ground.
+[Sun May 13 02:54:21 2001] Your feet leave the ground.
+[Sun May 13 02:54:21 2001] You can't use that command right now...
+[Sun May 13 02:54:21 2001] Your feet leave the ground.
+[Sun May 13 02:54:22 2001] You can't use that command right now...
+[Sun May 13 02:54:22 2001] You can't use that command right now...
+[Sun May 13 02:54:22 2001] Your feet leave the ground.
+[Sun May 13 02:54:22 2001] You can't use that command right now...
+[Sun May 13 02:54:22 2001] Your feet leave the ground.
+[Sun May 13 02:54:23 2001] Your feet leave the ground.
+[Sun May 13 02:54:23 2001] You can't use that command right now...
+[Sun May 13 02:54:23 2001] Your feet leave the ground.
+[Sun May 13 02:54:23 2001] Your feet leave the ground.
+[Sun May 13 02:54:24 2001] Your feet leave the ground.
+[Sun May 13 02:54:24 2001] Your feet leave the ground.
+[Sun May 13 02:54:24 2001] Your feet leave the ground.
+[Sun May 13 02:54:24 2001] You can't use that command right now...
+[Sun May 13 02:54:25 2001] Your feet leave the ground.
+[Sun May 13 02:54:25 2001] You can't use that command right now...
+[Sun May 13 02:54:25 2001] Your feet leave the ground.
+[Sun May 13 02:54:25 2001] You can't use that command right now...
+[Sun May 13 02:54:26 2001] You can't use that command right now...
+[Sun May 13 02:54:26 2001] Your feet leave the ground.
+[Sun May 13 02:54:26 2001] Your feet leave the ground.
+[Sun May 13 02:54:26 2001] Your feet leave the ground.
+[Sun May 13 02:54:27 2001] You can't use that command right now...
+[Sun May 13 02:54:27 2001] Your feet leave the ground.
+[Sun May 13 02:54:27 2001] Your feet leave the ground.
+[Sun May 13 02:54:28 2001] Your feet leave the ground.
+[Sun May 13 02:54:28 2001] Enyen auctions, 'WTB int items'
+[Sun May 13 02:54:28 2001] You feel the spirit of Norrath enter you.
+[Sun May 13 02:54:33 2001] You feel the spirit of Z surround you.
+[Sun May 13 02:54:34 2001] Synek auctions, '***SELLING*** Shardtoothes Flayed Skin  14ac 35hp 35mana'
+[Sun May 13 02:54:36 2001] Synek auctions, '***SELLING*** Dusty Breastplate 22ac 20hp 5sta'
+[Sun May 13 02:54:45 2001] Players in EverQuest:
+[Sun May 13 02:54:45 2001] ---------------------------
+[Sun May 13 02:54:45 2001] * Guide *[51 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: ecommons (USER PID AUGBQH4)
+[Sun May 13 02:54:45 2001] * Guide *[50 Shadow Knight]  (Dark Elf) <Keepers of Morell Thule> ZONE:  (USER PID EUGB4P0)
+[Sun May 13 02:54:45 2001] There are 2 players in EverQuest.
+[Sun May 13 02:54:51 2001] Romancegray auctions, 'WTS Good weapon All melee 9/22 dex 20 Effect cancel magic 10kpp Or Trade Geboots+1kpp'
+[Sun May 13 02:54:55 2001] Biggena says out of character, 'PC plat ruby vile?'
+[Sun May 13 02:54:57 2001] Delimar shouts, 'anyone see Guard Reskin?'
+[Sun May 13 02:54:59 2001] Opolla auctions, 'WTS / WTT Argent Defender: magic 2hs, 33/49, mana +20'
+[Sun May 13 02:55:02 2001] Oohga auctions, 'shamn planar belt  5k WIS item  OR TRADE'
+[Sun May 13 02:55:03 2001] You're not scaring anyone.
+[Sun May 13 02:55:04 2001] Dudo auctions, 'want to buy large bronze armer send tell plz'
+[Sun May 13 02:55:04 2001] Redmaw shouts, 'I killed him'
+[Sun May 13 02:55:07 2001] Degaulle auctions, 'WTB LQ bear pelts'
+[Sun May 13 02:55:09 2001] Matthius auctions, 'WTS RM Bracer +5 WIS +3 STR 500pp | WTS PB Bracer +3 WIS +3 INT 200pp |WTS Shardurm Eye +5 INT +3 DEX Range Slot 1kpp |WTS Nathsar greatsword 17/30 +10 STR 750pp'
+[Sun May 13 02:55:26 2001] Delimar shouts, 'are you camping him? cause I'll camp Tolus cause I  was getting both'
+[Sun May 13 02:55:26 2001] You no longer have a target.
+[Sun May 13 02:55:27 2001] Sarekrtixy begins to cast a spell. (Inner Fire)
+[Sun May 13 02:55:28 2001] You open your mouth wide and yawn.
+[Sun May 13 02:55:32 2001] You GMSAY, 'zone'
+[Sun May 13 02:55:32 2001] Sarekrtixy begins to cast a spell. (Inner Fire)
+[Sun May 13 02:55:38 2001] LOADING, PLEASE WAIT...
+[Sun May 13 02:56:01 2001] You have entered Sunset Home.
+[Sun May 13 02:56:26 2001] It will take you about 30 seconds to prepare your camp.
+[Sun May 13 02:56:30 2001] It will take about 25 more seconds to prepare your camp.
+[Sun May 13 02:56:36 2001] It will take about 20 more seconds to prepare your camp.
+[Sun May 13 02:56:38 2001] You GMSAY, 'laterz'
+[Sun May 13 02:56:41 2001] It will take about 15 more seconds to prepare your camp.
+[Sun May 13 02:56:46 2001] It will take about 10 more seconds to prepare your camp.
+[Sun May 13 02:56:51 2001] It will take about 5 more seconds to prepare your camp.

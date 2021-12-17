@@ -1,0 +1,263 @@
+[Wed Dec 19 14:38:28 2001] Welcome to EverQuest!
+[Wed Dec 19 14:38:28 2001] You have entered Sunset Home.
+[Wed Dec 19 14:38:28 2001] MESSAGE OF THE DAY: Welcome to Morell-Thule!  Corpses for characters level 6 and up last 24 hours online, 7 days offline.  Level 1 to 5 only last 30 minutes.  We do not reimburse items for any character that loses items due to normal corpse decay.
+[Wed Dec 19 14:38:31 2001] Players in EverQuest:
+[Wed Dec 19 14:38:31 2001] ---------------------------
+[Wed Dec 19 14:38:31 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Wed Dec 19 14:38:31 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:38:36 2001] You GMSAY, 'hello ...'
+[Wed Dec 19 14:38:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:38:43 2001] USER TEXT: my cleric couldn;t cast a heal... my monk can't mend for 429551 seconds and bard songs are messed up... how bout a rez since it was all bugs
+[Wed Dec 19 14:38:44 2001] Players in EverQuest:
+[Wed Dec 19 14:38:44 2001] ---------------------------
+[Wed Dec 19 14:38:44 2001] [60 Warlord] Sharnhorst (Half Elf) <Thunderwalkers> ZONE: bazaar (USER PID HM380G7)
+[Wed Dec 19 14:38:44 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:39:18 2001] Searching zones for corpse of that name....
+[Wed Dec 19 14:39:18 2001] Corpse: Sharnhorst's corpse0 in zone: necropolis
+[Wed Dec 19 14:39:58 2001] You told Sharnhorst, 'Hail, Sharnhorst! Guide Espranza here. I don't know what happened - has another guide been in contact with you?'
+[Wed Dec 19 14:40:03 2001] GM TEXT: 
+[Wed Dec 19 14:40:37 2001] Sharnhorst tells you, 'kediar or something... but he went to get a GM since he said he couldn't rez us... since you know, moinks not being able to mend...healers not being able to heal...nukers can't nuke...isn't a verifiable bug'
+[Wed Dec 19 14:41:09 2001] Sharnhorst tells you, 'fungi tunic > all when you can't mend'
+[Wed Dec 19 14:41:47 2001] You told Sharnhorst, 'while it may very well be a bug, unless we can verify it somehow, we can't rez. But the GMs know when this sort of thing happens. If Kedian doesn't come back soon, I will hunt up a GM myself.'
+[Wed Dec 19 14:42:08 2001] Sharnhorst tells you, 'it's not like a bunch of people die to exploit... i haven't heard of that yet'
+[Wed Dec 19 14:42:34 2001] You told Sharnhorst, 'is everyone able to cast once they zone?'
+[Wed Dec 19 14:42:42 2001] Sharnhorst tells you, 'count this as a bug report, our monks can't mend... but our casters died and zoned and can cast now... no clue what's up'
+[Wed Dec 19 14:42:57 2001] Sharnhorst tells you, 'our monks have a mend recycle of 432428374 seconds'
+[Wed Dec 19 14:42:59 2001] Sharnhorst tells you, 'zone'
+[Wed Dec 19 14:43:16 2001] Namdarie GMSAYS, 'Hello'
+[Wed Dec 19 14:43:22 2001] Kedian GMSAYS, 'hiya'
+[Wed Dec 19 14:43:28 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Wed Dec 19 14:43:37 2001] Namdarie GMSAYS, 'Any word about a casting bug?'
+[Wed Dec 19 14:43:38 2001] Kedian GMSAYS, 'Greetings esp'
+[Wed Dec 19 14:43:45 2001] Sharnhorst tells you, 'it is very annoying when your able to tank 5 monks np and then the cleric is unable to cheal due to a bug'
+[Wed Dec 19 14:43:48 2001] You GMSAY, 'hello, we have reports of people not being able to cast until they zone, and dying as a result'
+[Wed Dec 19 14:43:49 2001] Kedian GMSAYS, 'yeah, I just came back from chat'
+[Wed Dec 19 14:43:50 2001] You GMSAY, 'hiya Ked'
+[Wed Dec 19 14:43:59 2001] Namdarie GMSAYS, 'What zone?'
+[Wed Dec 19 14:44:04 2001] You GMSAY, 'necropolis'
+[Wed Dec 19 14:44:08 2001] Namdarie GMSAYS, 'zone'
+[Wed Dec 19 14:44:14 2001] Players in EverQuest:
+[Wed Dec 19 14:44:14 2001] ---------------------------
+[Wed Dec 19 14:44:14 2001] * GM-Admin *[60 Arch Mage] Namdarie (Gnome) ZONE: arena (USER PID BX9VG3N)
+[Wed Dec 19 14:44:14 2001] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: katta (USER PID HU7F5NG)
+[Wed Dec 19 14:44:14 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Wed Dec 19 14:44:14 2001] There are 3 players in EverQuest.
+[Wed Dec 19 14:44:27 2001] You told Sharnhorst, 'GM is here now, we'll see what she has to say'
+[Wed Dec 19 14:44:39 2001] You told Sharnhorst, 'It was in DN, yes?'
+[Wed Dec 19 14:44:47 2001] Sharnhorst tells you, 'yes'
+[Wed Dec 19 14:44:50 2001] GM TEXT: Espranza: Sounds like that bug where nobody can cast unless they zone - the people did zone (by dying) and can cast
+[Wed Dec 19 14:44:53 2001] CHECKING IN
+[Wed Dec 19 14:44:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:44:58 2001] USER TEXT: i believe i have a bug thing, it said, when i tried to mend, you need to wait 4294387 seconds before you can mend again
+[Wed Dec 19 14:44:58 2001] Players in EverQuest:
+[Wed Dec 19 14:44:58 2001] ---------------------------
+[Wed Dec 19 14:44:58 2001] [37 Monk] Tanko (Iksar) <Guardians of Truth> ZONE: thurgadina (USER PID HVRQE2D)
+[Wed Dec 19 14:44:58 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:45:16 2001] You told Tanko, 'Hail, Tanko! Guide Espranza here. Does it work once you zone?'
+[Wed Dec 19 14:45:22 2001] Tanko tells you, 'no'
+[Wed Dec 19 14:45:27 2001] You GMSAY, 'thurg, too'
+[Wed Dec 19 14:45:31 2001] The spirit leaves you.
+[Wed Dec 19 14:45:34 2001] You feel the spirit of Norrath enter you.
+[Wed Dec 19 14:45:38 2001] Namdarie GMSAYS, 'Ok checking Nec...'
+[Wed Dec 19 14:45:54 2001] You GMSAY, 'monks getting messages saying they cannot mend again for 4294387 seconds'
+[Wed Dec 19 14:45:57 2001] Tanko tells you, 'it did it once in gd then in thurg, it always gives an insanely high number of seconds i need to wait also'
+[Wed Dec 19 14:46:02 2001] You GMSAY, 'both in DN and Thurg'
+[Wed Dec 19 14:46:20 2001] You told Tanko, 'okay, asking the GM about it...'
+[Wed Dec 19 14:46:22 2001] Searching zones for corpse of that name....
+[Wed Dec 19 14:46:30 2001] Kedian GMSAYS, 'got a pet abuot it in eastwastes'
+[Wed Dec 19 14:46:33 2001] Tanko tells you, 'you should know all =)'
+[Wed Dec 19 14:46:45 2001] You told Tanko, 'I wish! Would make this job a LOT easier!'
+[Wed Dec 19 14:47:05 2001] You told Tanko, 'I think omniscience is a level 60 guide ability though'
+[Wed Dec 19 14:47:09 2001] Tanko tells you, 'and if u could filter out stupid ones '
+[Wed Dec 19 14:47:13 2001] Tanko tells you, 'haha'
+[Wed Dec 19 14:47:34 2001] You GMSAY, 'escing Tanko to clear it, monk with a mending problem'
+[Wed Dec 19 14:47:36 2001] STATUS UPGRADED TO URGENT
+[Wed Dec 19 14:47:38 2001] CHECKING IN
+[Wed Dec 19 14:47:40 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:47:40 2001] USER TEXT: I think we experianced a pretty bad bug while clearing to Zland... our whole group couldnt cast nor could i Mend :said: you cannot mend for another 238475339seconds
+[Wed Dec 19 14:47:41 2001] Players in EverQuest:
+[Wed Dec 19 14:47:41 2001] ---------------------------
+[Wed Dec 19 14:47:41 2001] There are no players in EverQuest that match those who filters.
+[Wed Dec 19 14:47:51 2001] You GMSAY, 'Sophia, same thing with monk mend'
+[Wed Dec 19 14:47:53 2001] STATUS UPGRADED TO URGENT
+[Wed Dec 19 14:47:55 2001] CHECKING IN
+[Wed Dec 19 14:47:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:47:59 2001] USER TEXT: I was waiting for my group in DN and my Invis droped.. I went to recast it and it wouldnt let me cast a spell.. In fact i couldnt cast ANY spell
+[Wed Dec 19 14:47:59 2001] Players in EverQuest:
+[Wed Dec 19 14:47:59 2001] ---------------------------
+[Wed Dec 19 14:47:59 2001] [60 Arch Mage] Flix (High Elf) <Thunderwalkers> ZONE: necropolis (USER PID BYZM53Y)
+[Wed Dec 19 14:47:59 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:48:03 2001] You GMSAY, 'I'm seeing a trend here'
+[Wed Dec 19 14:48:10 2001] You GMSAY, 'esc Flix, couldn't cast in DN'
+[Wed Dec 19 14:48:13 2001] STATUS UPGRADED TO URGENT
+[Wed Dec 19 14:48:14 2001] CHECKING IN
+[Wed Dec 19 14:48:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:48:18 2001] USER TEXT: bug in dn just wiped our group, please assist no casters could cast some reason.
+[Wed Dec 19 14:48:18 2001] Players in EverQuest:
+[Wed Dec 19 14:48:18 2001] ---------------------------
+[Wed Dec 19 14:48:18 2001] [60 Assassin] Fyroth (Dark Elf) <Thunderwalkers> ZONE: necropolis (USER PID GTVQ629)
+[Wed Dec 19 14:48:18 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:48:25 2001] You GMSAY, 'esc Fyroth, couldn't cast in DN'
+[Wed Dec 19 14:48:28 2001] STATUS UPGRADED TO URGENT
+[Wed Dec 19 14:48:29 2001] CHECKING IN
+[Wed Dec 19 14:48:31 2001] Namdarie GMSAYS, 'zone '
+[Wed Dec 19 14:48:32 2001] Espranza saved.
+[Wed Dec 19 14:48:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:48:36 2001] USER TEXT: IllegalDta
+[Wed Dec 19 14:48:36 2001] Players in EverQuest:
+[Wed Dec 19 14:48:36 2001] ---------------------------
+[Wed Dec 19 14:48:36 2001] [53 Elementalist] Knobby (Gnome) <Titan Lords> ZONE: feerrott (USER PID EN3PV9W)
+[Wed Dec 19 14:48:36 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:48:37 2001] Kedian GMSAYS, 'Tarrk in DN, coudln't cast'
+[Wed Dec 19 14:48:46 2001] Searching zones for corpse of that name....
+[Wed Dec 19 14:48:58 2001] You told Knobby, 'Hail, Knobby! Guide Espranza here. How may I help you?'
+[Wed Dec 19 14:49:38 2001] You GMSAY, '<note gm> People couldn't cast spells in Dragon Necropolis; also, widespread problems with monk mend taking hundreds of thousands of seconds to recharge.'
+[Wed Dec 19 14:49:55 2001] Players in EverQuest:
+[Wed Dec 19 14:49:55 2001] ---------------------------
+[Wed Dec 19 14:49:55 2001] * GM-Admin *[60 Arch Mage] Namdarie (Gnome) ZONE: thurgadina (USER PID BX9VG3N)
+[Wed Dec 19 14:49:55 2001] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: katta (USER PID HU7F5NG)
+[Wed Dec 19 14:49:55 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Wed Dec 19 14:49:55 2001] There are 3 players in EverQuest.
+[Wed Dec 19 14:49:58 2001] Knobby tells you, 'im sorry, but i was petitioning a lvl 2 ogre with the name Bigfooker, feeling that name was a tad inapropriate..... i believe he has logged'
+[Wed Dec 19 14:50:06 2001] Players in EverQuest:
+[Wed Dec 19 14:50:06 2001] ---------------------------
+[Wed Dec 19 14:50:06 2001] [9 Shaman] Bigfist (Ogre) ZONE: cauldron (USER PID CZZE3RL)
+[Wed Dec 19 14:50:06 2001] [45 Enchanter] Bigb (Human) <Hand of the Shadows> ZONE: hollowshade (USER PID HXUQV7M)
+[Wed Dec 19 14:50:06 2001] [49 Cleric] Bigjon (Dwarf) <Temple of Dawn> ZONE: crystal (USER PID CW4HE0C)
+[Wed Dec 19 14:50:06 2001] There are 3 players in EverQuest.
+[Wed Dec 19 14:50:19 2001] You told Knobby, 'so he has... I'll note it and keep an eye out for him. Thanks!'
+[Wed Dec 19 14:50:26 2001] Knobby tells you, 'sure thing'
+[Wed Dec 19 14:50:28 2001] You GMSAY, '<note badname> Bigfooker, no PID available'
+[Wed Dec 19 14:50:31 2001] You told Knobby, 'be well!'
+[Wed Dec 19 14:50:32 2001] DELETING THIS PETITION
+[Wed Dec 19 14:50:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:50:35 2001] USER TEXT: i am trying to choose a surname and it won't work
+[Wed Dec 19 14:50:36 2001] Players in EverQuest:
+[Wed Dec 19 14:50:36 2001] ---------------------------
+[Wed Dec 19 14:50:36 2001] [20 Shadow Knight] Tumnayar (Dark Elf) ZONE: lakeofillomen (USER PID C11UNY3)
+[Wed Dec 19 14:50:36 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:50:37 2001] Knobby tells you, 'and you ;)'
+[Wed Dec 19 14:50:50 2001] You told Tumnayar, 'Hail, Tumnayer! Guide Espranza here. What surname are you trying for?'
+[Wed Dec 19 14:50:50 2001] Tumnayar tells you, 'Sorry, I am A.F.K. (Away From Keyboard) right now.'
+[Wed Dec 19 14:51:04 2001] Players in EverQuest:
+[Wed Dec 19 14:51:04 2001] ---------------------------
+[Wed Dec 19 14:51:04 2001] * GM-Admin *[60 Arch Mage] Namdarie (Gnome) ZONE: thurgadina (USER PID BX9VG3N)
+[Wed Dec 19 14:51:04 2001] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: katta (USER PID HU7F5NG)
+[Wed Dec 19 14:51:04 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Wed Dec 19 14:51:04 2001] There are 3 players in EverQuest.
+[Wed Dec 19 14:51:26 2001] Namdarie GMSAYS, 'I am not seeing it widespread yet, Please have them camp to desktop or zone for a temp fix Ops is looking into it.'
+[Wed Dec 19 14:51:47 2001] You GMSAY, 'that fixes the casting problem but not the mending problem'
+[Wed Dec 19 14:51:57 2001] You GMSAY, 'can we rez for the casting problem?'
+[Wed Dec 19 14:52:27 2001] Namdarie GMSAYS, 'Yes res for the issue'
+[Wed Dec 19 14:52:35 2001] You GMSAY, 'thanks!'
+[Wed Dec 19 14:52:44 2001] You GMSAY, 'Tumnayar unavail x1'
+[Wed Dec 19 14:52:47 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Dec 19 14:52:47 2001] Kedian GMSAYS, 'guy in eastwates says he camped and reloged, still can't use mend'
+[Wed Dec 19 14:52:48 2001] CHECKING IN
+[Wed Dec 19 14:52:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:52:53 2001] USER TEXT: my cleric couldn;t cast a heal... my monk can't mend for 429551 seconds and bard songs are messed up... how bout a rez since it was all bugs
+[Wed Dec 19 14:52:54 2001] Players in EverQuest:
+[Wed Dec 19 14:52:54 2001] ---------------------------
+[Wed Dec 19 14:52:54 2001] [60 Warlord] Sharnhorst (Half Elf) <Thunderwalkers> ZONE: necropolis (USER PID HM380G7)
+[Wed Dec 19 14:52:54 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:52:58 2001] Searching zones for corpse of that name....
+[Wed Dec 19 14:53:08 2001] Namdarie GMSAYS, 'Name?'
+[Wed Dec 19 14:53:15 2001] You told Sharnhorst, 'Ah, we can rez for it, just got permission. Do you still need rezzes?'
+[Wed Dec 19 14:53:19 2001] Kedian GMSAYS, 'Swiftfiist DQLT1RH'
+[Wed Dec 19 14:53:23 2001] Sharnhorst tells you, 'nope'
+[Wed Dec 19 14:53:29 2001] Namdarie GMSAYS, 'zoning'
+[Wed Dec 19 14:53:30 2001] Sharnhorst tells you, 'rez sticks worked'
+[Wed Dec 19 14:53:40 2001] You told Sharnhorst, 'okay... let me know if it happens again...'
+[Wed Dec 19 14:53:42 2001] DELETING THIS PETITION
+[Wed Dec 19 14:53:44 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:53:44 2001] USER TEXT: my entire group could not cast in DN, y ou have a serious bug there
+[Wed Dec 19 14:53:44 2001] Players in EverQuest:
+[Wed Dec 19 14:53:44 2001] ---------------------------
+[Wed Dec 19 14:53:44 2001] [60 High Priest] Daris (High Elf) <Thunderwalkers> ZONE: necropolis (USER PID DQ8G15T)
+[Wed Dec 19 14:53:44 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:53:47 2001] Sharnhorst tells you, 'ok, thanks'
+[Wed Dec 19 14:53:53 2001] Searching zones for corpse of that name....
+[Wed Dec 19 14:54:30 2001] You told Daris, 'Hail, Daris! Guide Espranza here. The GM has given us permission to rez for the casting problem in DN, is there anyone there who still needs a rez?'
+[Wed Dec 19 14:54:52 2001] Daris tells you, 'nope, i rez'd them already. Please try to get this bug fixed, its mean and is really frustrating'
+[Wed Dec 19 14:55:01 2001] You told Daris, 'yeah...'
+[Wed Dec 19 14:55:03 2001] DELETING THIS PETITION
+[Wed Dec 19 14:55:05 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:55:06 2001] USER TEXT: i believe i have a bug thing, it said, when i tried to mend, you need to wait 4294387 seconds before you can mend again
+[Wed Dec 19 14:55:06 2001] Players in EverQuest:
+[Wed Dec 19 14:55:06 2001] ---------------------------
+[Wed Dec 19 14:55:06 2001] There are no players in EverQuest that match those who filters.
+[Wed Dec 19 14:55:21 2001] You GMSAY, 'tanko unavail x1, was the mend problem'
+[Wed Dec 19 14:55:23 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Dec 19 14:55:25 2001] CHECKING IN
+[Wed Dec 19 14:55:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:55:27 2001] USER TEXT: I think we experianced a pretty bad bug while clearing to Zland... our whole group couldnt cast nor could i Mend :said: you cannot mend for another 238475339seconds
+[Wed Dec 19 14:55:27 2001] Players in EverQuest:
+[Wed Dec 19 14:55:27 2001] ---------------------------
+[Wed Dec 19 14:55:27 2001] There are no players in EverQuest that match those who filters.
+[Wed Dec 19 14:55:37 2001] You GMSAY, 'sophia unavail x1, same'
+[Wed Dec 19 14:55:47 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Dec 19 14:55:50 2001] CHECKING IN
+[Wed Dec 19 14:55:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:55:53 2001] USER TEXT: I was waiting for my group in DN and my Invis droped.. I went to recast it and it wouldnt let me cast a spell.. In fact i couldnt cast ANY spell
+[Wed Dec 19 14:55:53 2001] Players in EverQuest:
+[Wed Dec 19 14:55:53 2001] ---------------------------
+[Wed Dec 19 14:55:53 2001] [60 Arch Mage] Flix (High Elf) <Thunderwalkers> ZONE: necropolis (USER PID BYZM53Y)
+[Wed Dec 19 14:55:53 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:56:00 2001] Searching zones for corpse of that name....
+[Wed Dec 19 14:56:01 2001] Corpse: Flix's corpse0 in zone: necropolis
+[Wed Dec 19 14:56:11 2001] You told Flix, 'Hail, Flix! Guide Espranza here. Need a GM Rez?'
+[Wed Dec 19 14:56:16 2001] Flix tells you, 'not anymore /sigh'
+[Wed Dec 19 14:56:33 2001] You told Flix, 'agh, sorry I was too late... had to wait for permission...'
+[Wed Dec 19 14:56:43 2001] Flix tells you, '/sigh.. ok you owe me one then :)'
+[Wed Dec 19 14:56:58 2001] You told Flix, 'Um, wouldn't it be nice if it worked that way :P'
+[Wed Dec 19 14:57:03 2001] DELETING THIS PETITION
+[Wed Dec 19 14:57:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:57:06 2001] USER TEXT: bug in dn just wiped our group, please assist no casters could cast some reason.
+[Wed Dec 19 14:57:07 2001] Players in EverQuest:
+[Wed Dec 19 14:57:07 2001] ---------------------------
+[Wed Dec 19 14:57:07 2001] [60 Assassin] Fyroth (Dark Elf) <Thunderwalkers> ZONE: necropolis (USER PID GTVQ629)
+[Wed Dec 19 14:57:07 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:57:13 2001] Searching zones for corpse of that name....
+[Wed Dec 19 14:57:25 2001] You told Fyroth, 'Hail, Fyroth! Guide Espranza here. Did you already get a rez?'
+[Wed Dec 19 14:57:30 2001] Kedian GMSAYS, 'Tumnayar ux2'
+[Wed Dec 19 14:58:04 2001] DELETING THIS PETITION
+[Wed Dec 19 14:58:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:58:07 2001] USER TEXT: i was just in DN with a group going to kill zland and suddenly we were all bugged and none of us could cast spells....hence i need a rez on this
+[Wed Dec 19 14:58:07 2001] Players in EverQuest:
+[Wed Dec 19 14:58:07 2001] ---------------------------
+[Wed Dec 19 14:58:07 2001] [60 Oracle] Tarrk (Barbarian) <Thunderwalkers> ZONE: necropolis (USER PID HV7YCWZ)
+[Wed Dec 19 14:58:07 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:58:13 2001] Searching zones for corpse of that name....
+[Wed Dec 19 14:58:40 2001] You told Tarrk, 'Hail, Tarrk! Guide Espranza here. There was a bug, and we can rez for it, but it looks as if you already got one...'
+[Wed Dec 19 14:58:42 2001] Espranza saved.
+[Wed Dec 19 14:58:44 2001] DELETING THIS PETITION
+[Wed Dec 19 14:58:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:58:46 2001] USER TEXT: i believe i have a bug thing, it said, when i tried to mend, you need to wait 4294387 seconds before you can mend again
+[Wed Dec 19 14:58:47 2001] Players in EverQuest:
+[Wed Dec 19 14:58:47 2001] ---------------------------
+[Wed Dec 19 14:58:47 2001] There are no players in EverQuest that match those who filters.
+[Wed Dec 19 14:58:52 2001] Tarrk tells you, 'yep....i already got one....thanks'
+[Wed Dec 19 14:58:57 2001] You GMSAY, 'tanko unavail x2'
+[Wed Dec 19 14:58:59 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Dec 19 14:59:00 2001] CHECKING IN
+[Wed Dec 19 14:59:10 2001] You told Tarrk, 'I hope it doesn't happen again - be well!'
+[Wed Dec 19 14:59:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:59:13 2001] USER TEXT: I think we experianced a pretty bad bug while clearing to Zland... our whole group couldnt cast nor could i Mend :said: you cannot mend for another 238475339seconds
+[Wed Dec 19 14:59:14 2001] Players in EverQuest:
+[Wed Dec 19 14:59:14 2001] ---------------------------
+[Wed Dec 19 14:59:14 2001] There are no players in EverQuest that match those who filters.
+[Wed Dec 19 14:59:18 2001] Tarrk tells you, 'thank you'
+[Wed Dec 19 14:59:20 2001] You GMSAY, 'sophia unavail x2'
+[Wed Dec 19 14:59:22 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Dec 19 14:59:23 2001] CHECKING IN
+[Wed Dec 19 14:59:25 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Dec 19 14:59:26 2001] USER TEXT: lost yellow of alt exp from bugg yesterday and have bugg with mend happening now
+[Wed Dec 19 14:59:27 2001] Players in EverQuest:
+[Wed Dec 19 14:59:27 2001] ---------------------------
+[Wed Dec 19 14:59:27 2001] [60 Grandmaster] Prien (Iksar) <Thunderwalkers> ZONE: necropolis (USER PID GPXD40Z)
+[Wed Dec 19 14:59:27 2001] There is 1 player in EverQuest.
+[Wed Dec 19 14:59:40 2001] Namdarie GMSAYS, 'Well we aren't seeing the spike of a spell issue that normally happens Have them camp to desktop in the mean time I will monitor Vmon need to hit another server...'
+[Wed Dec 19 15:00:00 2001] You GMSAY, 'anything we can do or say about the mend problem?'
+[Wed Dec 19 15:00:07 2001] Kedian GMSAYS, 'ok, thanks for stopping by Namdarie'
+[Wed Dec 19 15:00:32 2001] Namdarie GMSAYS, 'Have them camp to desktop...about all I can suggest right now. I will talk to testing when in a few.'
+[Wed Dec 19 15:00:40 2001] You GMSAY, 'okay, thank you!'

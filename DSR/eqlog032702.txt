@@ -1,0 +1,959 @@
+[Wed Mar 27 00:42:01 2002] Welcome to EverQuest!
+[Wed Mar 27 00:42:01 2002] You have entered Sunset Home.
+[Wed Mar 27 00:42:02 2002] Espranza saved.
+[Wed Mar 27 00:42:05 2002] Autojoining channels...
+[Wed Mar 27 00:42:06 2002] Channels: 1=none(1)
+[Wed Mar 27 00:42:08 2002] Players in EverQuest:
+[Wed Mar 27 00:42:08 2002] ---------------------------
+[Wed Mar 27 00:42:08 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Wed Mar 27 00:42:08 2002] * Guide *[56 Myrmidon] Garrettlynn (Barbarian) <Keepers of Dreams> ZONE: firiona (USER PID HUGCFBE)
+[Wed Mar 27 00:42:08 2002] * Guide *[52 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: freportw (USER PID EU7FU02)
+[Wed Mar 27 00:42:08 2002] * Apprentice Guide *[20 Druid] Crofton (Half Elf) ZONE: freportw (USER PID D4FF619)
+[Wed Mar 27 00:42:08 2002] There are 4 players in EverQuest.
+[Wed Mar 27 00:42:13 2002] You GMSAY, 'hullo all'
+[Wed Mar 27 00:42:23 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 00:42:23 2002] USER TEXT: i read at eq policy that i could change my surname.  how do i do this?
+[Wed Mar 27 00:42:23 2002] Players in EverQuest:
+[Wed Mar 27 00:42:23 2002] ---------------------------
+[Wed Mar 27 00:42:23 2002] [ANON (36 Druid)] Berde (Human) ZONE: overthere (USER PID BT99XEA)
+[Wed Mar 27 00:42:23 2002] There is 1 player in EverQuest.
+[Wed Mar 27 00:42:31 2002] Crofton GMSAYS, 'hello there .good to se you again'
+[Wed Mar 27 00:42:38 2002] Garrettlynn GMSAYS, 'wooo hoo Espra =)'
+[Wed Mar 27 00:42:41 2002] You GMSAY, 'nice to see you again, too!'
+[Wed Mar 27 00:42:43 2002] GM TEXT: Harmonix: I am escalating this name change request. I asked the player to try again tomorrow if he didn't hear anything tonight.
+[Wed Mar 27 00:42:45 2002] Dratier GMSAYS, 'HIya Espra'
+[Wed Mar 27 00:43:05 2002] You told Berde, 'Hail, Berde! Senior Guide Espranza here. You wish a new surname?'
+[Wed Mar 27 00:43:08 2002] Crofton GMSAYS, 'And my toold are working now ..Lirus hooked me up before Vacation'
+[Wed Mar 27 00:43:09 2002] Dratier GMSAYS, 'I have not seen you online since your Promotion'
+[Wed Mar 27 00:43:17 2002] Berde tells you, 'yes. what do i do?'
+[Wed Mar 27 00:43:32 2002] You GMSAY, 'I've had a bit of a problem with real life'
+[Wed Mar 27 00:43:47 2002] You told Berde, 'What last name would you like?'
+[Wed Mar 27 00:44:23 2002] Berde tells you, 'um...if i have to decide now, i'd prefer arcanewind. thanks.'
+[Wed Mar 27 00:44:42 2002] You told Berde, 'You don't have to decide now... but I can change it now if you like.'
+[Wed Mar 27 00:45:06 2002] You feel the spirit of Norrath enter you.
+[Wed Mar 27 00:45:13 2002] Your feet leave the ground.
+[Wed Mar 27 00:45:54 2002] Garrettlynn tells you, 'man what is your email address?    i want to send you my logs for today and tell me if my mentoring needs improvement'
+[Wed Mar 27 00:46:07 2002] You told Garrettlynn, 'brendah@mbay.net'
+[Wed Mar 27 00:46:11 2002] Berde tells you, 'ok. i'd like it changed to arcanewind.  thanks for your help. '
+[Wed Mar 27 00:46:18 2002] You told Garrettlynn, 'you don't think you're doing a good job?'
+[Wed Mar 27 00:46:22 2002] You told Berde, 'okay, brt'
+[Wed Mar 27 00:46:23 2002] You GMSAY, 'zone'
+[Wed Mar 27 00:46:26 2002] Teleporting to berde.
+[Wed Mar 27 00:46:27 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 00:46:27 2002] Dratier GMSAYS, 'zoning anon invis to Everfrost. A few high levels pulling IG to halas becuase they think it is funny.'
+[Wed Mar 27 00:46:28 2002] Berde tells you, 'i really never liked my surname....sounded so cheezy.'
+[Wed Mar 27 00:47:09 2002] You have entered The Overthere.
+[Wed Mar 27 00:47:10 2002] Vurtrue tells you, 'Hey short stuff and cuttie! How have you been?.'
+[Wed Mar 27 00:47:10 2002] Garrettlynn tells you, 'its either me or the two appies i tried to mentor tonight'
+[Wed Mar 27 00:47:10 2002] Garrettlynn tells you, 'tried to mentor them and they seemed a bit defensive...need positive feedback on my technique i guess'
+[Wed Mar 27 00:47:10 2002] Espranza saved.
+[Wed Mar 27 00:47:28 2002] Teleporting to berde.
+[Wed Mar 27 00:47:32 2002] Garrettlynn tells you, 'and if there is a policy change I should know about when mentoring and i missed it, would be good to know'
+[Wed Mar 27 00:47:59 2002] You told Vurtrue, 'Hiya! Been a long time!'
+[Wed Mar 27 00:48:18 2002] You told Garrettlynn, 'what sort of policy changes are you suspecting?'
+[Wed Mar 27 00:48:19 2002] Vurtrue tells you, 'Heh ya, I was out for like 3 months, RL things came up.'
+[Wed Mar 27 00:48:23 2002] Teleporting to berde.
+[Wed Mar 27 00:48:32 2002] You told Berde, 'stop moving a sec!!!'
+[Wed Mar 27 00:48:33 2002] Garrettlynn GMSAYS, 'ok folks I got to get some sleep...good night to you all..work comes early in the morning =)'
+[Wed Mar 27 00:48:36 2002] Teleporting to berde.
+[Wed Mar 27 00:48:48 2002] You have changed Berde's last name to Arcanewind.
+[Wed Mar 27 00:48:52 2002] Crofton GMSAYS, 'Good night G...'
+[Wed Mar 27 00:48:56 2002] You GMSAY, 'night Garrett!'
+[Wed Mar 27 00:48:59 2002] Berde says, 'Hail, Espranza'
+[Wed Mar 27 00:49:01 2002] Vurtrue tells you, 'How is the GM job going?.'
+[Wed Mar 27 00:49:01 2002] You say, 'Hail, Berde'
+[Wed Mar 27 00:49:02 2002] Dratier GMSAYS, 'night Garrettlynn'
+[Wed Mar 27 00:49:14 2002] Draggar tells you, 'is anyone gonna do something about these guys here or what?'
+[Wed Mar 27 00:49:17 2002] Berde tells you, 'thanks a big lot.'
+[Wed Mar 27 00:49:18 2002] You told Vurtrue, 'still just a guide ) pretty well'
+[Wed Mar 27 00:49:33 2002] Garrettlynn tells you, 'like when an appie is grouped with a mentor, should the appie announce the pulling esc and deleting of pets in PR but should direct specific questions in GROUP chat so as not to spam PR and receive more of a one to one repsonse from their '
+[Wed Mar 27 00:49:37 2002] Garrettlynn tells you, 'mentor?'
+[Wed Mar 27 00:49:38 2002] You GMSAY, '<note name> Berde BT99XEA granted last name Arcanewind'
+[Wed Mar 27 00:50:13 2002] Vurtrue tells you, 'Heh, you'll be GM in no time, i'm sure of it 8). Well I let you get back to helping the needy, I just had to say hi 8).'
+[Wed Mar 27 00:50:16 2002] Berde tells you, 'btw, i've looked at the eq site about being a guide but it asks for my user name and password.  is it ok to give that?'
+[Wed Mar 27 00:50:20 2002] You told Garrettlynn, 'I believe we ask them to ask over /pr so everyone can get to know them.'
+[Wed Mar 27 00:50:28 2002] Crofton GMSAYS, 'I got a good question here I think you all will enjoy ...'
+[Wed Mar 27 00:50:29 2002] You told Vurtrue, 'Nice to hear from you again.'
+[Wed Mar 27 00:50:30 2002] Your protection fades.
+[Wed Mar 27 00:50:35 2002] You told Berde, 'Yes, you can there.'
+[Wed Mar 27 00:50:38 2002] Garrettlynn tells you, 'and if an appie gets a pet and still chooses to announce it in PR but no one answers (since it got really busy) should the appie announce the ESC and send it up the chain regardless of the business?'
+[Wed Mar 27 00:50:38 2002] Dratier GMSAYS, 'Ok...'
+[Wed Mar 27 00:50:39 2002] Vurtrue tells you, 'you to sweety 8).'
+[Wed Mar 27 00:51:01 2002] Berde tells you, 'ok, i wasn't sure if it was safe.  i always read that you should never ever give user name and password.'
+[Wed Mar 27 00:51:02 2002] Garrettlynn tells you, 'even if it is a request for porting someone from one dock to another?'
+[Wed Mar 27 00:51:16 2002] You told Garrettlynn, 'The appie should ask again, we ask them to wait a moment and ask again if nobody responds.'
+[Wed Mar 27 00:51:21 2002] Crofton GMSAYS, '....I think my friend fell asleap ...Will he be ok here if I log ? ...ROTF'
+[Wed Mar 27 00:51:23 2002] You told Berde, 'It's a protected site.'
+[Wed Mar 27 00:51:38 2002] Berde tells you, 'cool!'
+[Wed Mar 27 00:51:43 2002] You GMSAY, 'I can kick sleepers Crofton'
+[Wed Mar 27 00:51:44 2002] Dratier GMSAYS, 'hehe'
+[Wed Mar 27 00:51:52 2002] Crofton GMSAYS, 'poor little fella is addictated to EQ'
+[Wed Mar 27 00:51:53 2002] Berde tells you, 'lol. what do i do?'
+[Wed Mar 27 00:52:10 2002] Crofton GMSAYS, 'ok ...one second'
+[Wed Mar 27 00:52:15 2002] You told Berde, 'just go to guideapp.everquest.com and fill it out, and when it asks for your station name, enter it in'
+[Wed Mar 27 00:52:22 2002] You GMSAY, 'just be sure they are really asleep'
+[Wed Mar 27 00:52:26 2002] Berde tells you, 'and password too?'
+[Wed Mar 27 00:52:27 2002] Garrettlynn tells you, '*nod* so I am wrong..hmm....if its not a petition you can handle, esc append, and move on to the next..'
+[Wed Mar 27 00:52:46 2002] Garrettlynn tells you, 'thats what i was taught (I thought) heh'
+[Wed Mar 27 00:52:54 2002] You told Garrettlynn, 'mentoring is more you showing the appie the ropes, they still need to interact with ALL the guides.'
+[Wed Mar 27 00:53:01 2002] Crofton GMSAYS, 'it is not a petition .....sent me a tell ...I can tell them to send it in via Pet ....'
+[Wed Mar 27 00:53:27 2002] Crofton GMSAYS, 'ok there near me ...ill go poke him a few times'
+[Wed Mar 27 00:53:28 2002] You GMSAY, 'yeah, we like getting petitions, makes our petition count go up and we get mad bragging rights'
+[Wed Mar 27 00:53:37 2002] Garrettlynn tells you, '*nod* no problem...then it is just me..but still sending you the log...just cuz i dont feel right heh'
+[Wed Mar 27 00:53:44 2002] Garrettlynn tells you, 'good night'
+[Wed Mar 27 00:53:44 2002] Dratier GMSAYS, 'Hehe'
+[Wed Mar 27 00:53:50 2002] Crofton GMSAYS, 'WHOOT ok ....'
+[Wed Mar 27 00:53:54 2002] Garrettlynn tells you, '=)'
+[Wed Mar 27 00:53:58 2002] You told Garrettlynn, 'okay I'll read it but I know you're a wonderful guide and I doubt it's you'
+[Wed Mar 27 00:54:06 2002] You told Garrettlynn, 'night Garrett!'
+[Wed Mar 27 00:54:08 2002] Dratier GMSAYS, 'calling of invest of EF'
+[Wed Mar 27 00:54:14 2002] DELETING THIS PETITION
+[Wed Mar 27 00:54:18 2002] Dratier GMSAYS, 'zoning'
+[Wed Mar 27 00:54:23 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 00:54:24 2002] USER TEXT: the boats are still broken?
+[Wed Mar 27 00:54:24 2002] Players in EverQuest:
+[Wed Mar 27 00:54:24 2002] ---------------------------
+[Wed Mar 27 00:54:24 2002] [5 Enchanter] Aaliamyen (Erudite) ZONE: erudnext (USER PID EQLAK8M)
+[Wed Mar 27 00:54:24 2002] There is 1 player in EverQuest.
+[Wed Mar 27 00:54:30 2002] You GMSAY, 'boats are still broken?'
+[Wed Mar 27 00:54:41 2002] Swiffty pierces a stonegazer cockatrice for 8 points of damage.
+[Wed Mar 27 00:54:41 2002] Enips crushes a stonegazer cockatrice for 12 points of damage.
+[Wed Mar 27 00:54:41 2002] a stonegazer cockatrice hits Tenadorft for 76 points of damage.
+[Wed Mar 27 00:54:41 2002] a stonegazer cockatrice hits Tenadorft for 11 points of damage.
+[Wed Mar 27 00:54:42 2002] Tenadorft slashes a stonegazer cockatrice for 26 points of damage.
+[Wed Mar 27 00:54:48 2002] Your feet leave the ground.
+[Wed Mar 27 00:54:49 2002] Your feet leave the ground.
+[Wed Mar 27 00:54:49 2002] Your feet leave the ground.
+[Wed Mar 27 00:54:50 2002] Your feet leave the ground.
+[Wed Mar 27 00:54:51 2002] You can't use that command right now...
+[Wed Mar 27 00:54:51 2002] Your feet leave the ground.
+[Wed Mar 27 00:54:52 2002] Your feet leave the ground.
+[Wed Mar 27 00:54:52 2002] Your feet leave the ground.
+[Wed Mar 27 00:56:44 2002] You GMSAY, 'boats are still broken?'
+[Wed Mar 27 00:56:53 2002] Dratier GMSAYS, 'Yea'
+[Wed Mar 27 00:56:59 2002] You GMSAY, 'yikes. okay.'
+[Wed Mar 27 00:57:20 2002] Espranza saved.
+[Wed Mar 27 00:57:51 2002] You told Aaliamyen, 'Hail, Aaliamyen! Senior Guide Espranza here. Yes, they do appear to still be out of order. Did you need to take the boat somewhere>'
+[Wed Mar 27 00:57:55 2002] You told Aaliamyen, '?'
+[Wed Mar 27 00:58:06 2002] Aaliamyen tells you, 'i was hoping to get to Qeynos.'
+[Wed Mar 27 00:58:16 2002] You told Aaliamyen, 'I can help :) one moment please.'
+[Wed Mar 27 00:58:18 2002] You GMSAY, 'zone'
+[Wed Mar 27 00:58:20 2002] Aaliamyen tells you, 'thank you.'
+[Wed Mar 27 00:58:23 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 00:59:01 2002] You have entered South Qeynos.
+[Wed Mar 27 00:59:02 2002] Espranza saved.
+[Wed Mar 27 00:59:21 2002] Players in EverQuest:
+[Wed Mar 27 00:59:21 2002] ---------------------------
+[Wed Mar 27 00:59:21 2002] [5 Enchanter] Aaliamyen (Erudite) ZONE: erudnext (USER PID EQLAK8M)
+[Wed Mar 27 00:59:21 2002] There is 1 player in EverQuest.
+[Wed Mar 27 00:59:30 2002] Summoning Aaliamyen.
+[Wed Mar 27 00:59:35 2002] DELETING THIS PETITION
+[Wed Mar 27 00:59:37 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 00:59:37 2002] USER TEXT: There's a player named Cannibuscus, a take off on Canibis, a word for marijuana. I do believe drug names are illegal?
+[Wed Mar 27 00:59:37 2002] Players in EverQuest:
+[Wed Mar 27 00:59:37 2002] ---------------------------
+[Wed Mar 27 00:59:37 2002] There are no players in EverQuest that match those who filters.
+[Wed Mar 27 00:59:47 2002] Players in EverQuest:
+[Wed Mar 27 00:59:47 2002] ---------------------------
+[Wed Mar 27 00:59:47 2002] There are no players in EverQuest that match those who filters.
+[Wed Mar 27 01:00:00 2002] DELETING THIS PETITION
+[Wed Mar 27 01:00:02 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:00:02 2002] USER TEXT: I was zoning to get away from a mob, and hit a lag spike...when I came onto other side of zone I had died (was bound on othe side of zone)
+[Wed Mar 27 01:00:03 2002] Players in EverQuest:
+[Wed Mar 27 01:00:03 2002] ---------------------------
+[Wed Mar 27 01:00:03 2002] There are no players in EverQuest that match those who filters.
+[Wed Mar 27 01:00:08 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Mar 27 01:00:11 2002] Aaliamyen tells you, 'excellent. thank you.'
+[Wed Mar 27 01:00:21 2002] You GMSAY, 'Ceinnoni unavail x2'
+[Wed Mar 27 01:00:22 2002] CHECKING IN
+[Wed Mar 27 01:00:26 2002] Aaliamyen hugs Espranza.
+[Wed Mar 27 01:00:27 2002] You bow before Aaliamyen.
+[Wed Mar 27 01:00:35 2002] You say, 'Safe journey, Aaliamyen!'
+[Wed Mar 27 01:00:41 2002] Aaliamyen waves at Espranza.
+[Wed Mar 27 01:01:06 2002] You GMSAY, 'Starcat is...?'
+[Wed Mar 27 01:01:17 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:01:18 2002] USER TEXT: Can we get a guide or GM to summon at E Freeport Docks
+[Wed Mar 27 01:01:18 2002] Players in EverQuest:
+[Wed Mar 27 01:01:18 2002] ---------------------------
+[Wed Mar 27 01:01:18 2002] [ANON (25 Enchanter)] Perusa (High Elf) ZONE: freporte (USER PID GUVSCH7)
+[Wed Mar 27 01:01:18 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:01:30 2002] Crofton GMSAYS, 'ok i escalated the petition to red ...and the sleeper poofed ......'
+[Wed Mar 27 01:01:42 2002] Crofton GMSAYS, 'no his friend was'
+[Wed Mar 27 01:01:54 2002] You told Perusa, 'Hail, Perusa! Senior Guide Espranza here. Do you need a port to Butcherblock?'
+[Wed Mar 27 01:02:05 2002] You GMSAY, 'um... so I don't need to do anything?'
+[Wed Mar 27 01:02:41 2002] Crofton GMSAYS, 'Aye the little guy poped on his own ..hehehe Thank you Espranza'
+[Wed Mar 27 01:02:49 2002] Dratier GMSAYS, 'afk, loging into chat on second computer to check report'
+[Wed Mar 27 01:02:53 2002] You GMSAY, 'cool :) well delete the pet if you haven't already'
+[Wed Mar 27 01:03:05 2002] Crofton GMSAYS, 'AFK 3 minutes ...Quick break'
+[Wed Mar 27 01:03:48 2002] Lieutenant Arathur begins to cast a spell. (Valor)
+[Wed Mar 27 01:03:50 2002] Port Authority Officer shouts 'Hear ye, hear ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! '
+[Wed Mar 27 01:04:13 2002] You GMSAY, 'Perusa unavail x2'
+[Wed Mar 27 01:04:16 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Mar 27 01:04:20 2002] CHECKING IN
+[Wed Mar 27 01:04:21 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:04:22 2002] USER TEXT: just accidently hit purchase when i ment to hit done on my item at ellona pleas ehel iam not even done paying for it from my friend yet holy crap 
+[Wed Mar 27 01:04:22 2002] Players in EverQuest:
+[Wed Mar 27 01:04:22 2002] ---------------------------
+[Wed Mar 27 01:04:22 2002] [ANON (31 Druid)] Zaira (Wood Elf) ZONE: butcher (USER PID HRSLPHB)
+[Wed Mar 27 01:04:22 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:05:02 2002] You told Zaira, 'Hail, Zaira! Senior Guide Espranza here. How may I help you?'
+[Wed Mar 27 01:06:19 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 01:06:39 2002] You have entered Erud's Crossing.
+[Wed Mar 27 01:06:39 2002] Espranza saved.
+[Wed Mar 27 01:06:55 2002] You told Zaira, 'Hail, Zaira! Senior Guide Espranza here. How may I help you?'
+[Wed Mar 27 01:07:11 2002] Players in EverQuest:
+[Wed Mar 27 01:07:11 2002] ---------------------------
+[Wed Mar 27 01:07:11 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: erudsxing (USER PID B4KJ6E7)
+[Wed Mar 27 01:07:11 2002] * Guide *[52 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: freportw (USER PID EU7FU02)
+[Wed Mar 27 01:07:11 2002] * Apprentice Guide *[20 Druid] Crofton (Half Elf) ZONE: freportw (USER PID D4FF619)
+[Wed Mar 27 01:07:11 2002] There are 3 players in EverQuest.
+[Wed Mar 27 01:07:46 2002] You feel as if you are about to fall.
+[Wed Mar 27 01:07:52 2002] You feel as if you are about to fall.
+[Wed Mar 27 01:07:58 2002] You can no longer levitate.
+[Wed Mar 27 01:08:06 2002] You GMSAY, 'Zaira online but unresponsive - unavail x1'
+[Wed Mar 27 01:08:08 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Mar 27 01:08:10 2002] CHECKING IN
+[Wed Mar 27 01:08:11 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:08:12 2002] USER TEXT: this is petty, but just wondering about the boat travelling from FP to BB through OOT...been waiting for it for much longer than usual.  Just wondering if i should find an alternative adventure for now or if the boat is coming shortly.
+[Wed Mar 27 01:08:12 2002] Players in EverQuest:
+[Wed Mar 27 01:08:12 2002] ---------------------------
+[Wed Mar 27 01:08:12 2002] [44 Warrior] Nwinki (Halfling) ZONE: freportw (USER PID AZ08KC2)
+[Wed Mar 27 01:08:12 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:09:25 2002] You told Nwinki, 'Hail, Nwinki! Senior Guide Espranza here. I believe the boat between Antonica and Faydwer was sunk by a wandering cyclops. While the gnomes are busy building a new one, I have been instructed by the gods to summon people across the ocean.'
+[Wed Mar 27 01:10:03 2002] Zaira tells you, 'oh thankyou i was check ing prices on my merchandise and somehow hit sell and not done on my ahmmer its not even paid off yet i have not closed the windoe to the merchant i was checking prices not selling and the hammer was on laon until  p'
+[Wed Mar 27 01:10:18 2002] Nwinki tells you, 'Hehe ok, sounds wonderful, Is a summons to BB possible then?  for myself and my companion Taoe'
+[Wed Mar 27 01:10:34 2002] You told Nwinki, 'certainly. please return to the docks and I will get right to it.'
+[Wed Mar 27 01:10:38 2002] Nwinki tells you, 'k'
+[Wed Mar 27 01:10:55 2002] DELETING THIS PETITION
+[Wed Mar 27 01:10:58 2002] Zaira tells you, 'iam so upset it is my hammer of ethral energy lent ot me by sweetswift'
+[Wed Mar 27 01:10:58 2002] You GMSAY, 'zone'
+[Wed Mar 27 01:11:01 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 01:11:35 2002] You have entered Butcherblock Mountains.
+[Wed Mar 27 01:11:37 2002] Espranza saved.
+[Wed Mar 27 01:11:42 2002] It begins to rain.
+[Wed Mar 27 01:11:47 2002] Teleporting to magnus_boran00.
+[Wed Mar 27 01:11:55 2002] Softbeard says out of character, 'someone needs to tell Glisse Bluesea they dont have a job anymore sheeesh \'
+[Wed Mar 27 01:12:06 2002] Zaira tells you, 'the merchant is ellona and iam still in window'
+[Wed Mar 27 01:12:22 2002] Gullo says, 'Hail, Espranza'
+[Wed Mar 27 01:12:23 2002] You told Zaira, 'Well, she has the hammer now?'
+[Wed Mar 27 01:12:25 2002] You say, 'hiya'
+[Wed Mar 27 01:12:30 2002] Gullo says, 'Are the boats working?'
+[Wed Mar 27 01:12:52 2002] Zaira tells you, 'not sure have not closed window want me to have a group member look?'
+[Wed Mar 27 01:12:54 2002] You say, 'A maelstrom formed mysteriously and swallowed the boats to their doom.'
+[Wed Mar 27 01:13:17 2002] Nwinki tells you, 'If a summons to Unrest is possible, that was our destination...we've been here so long waiting (  but whatever help you can offer is great'
+[Wed Mar 27 01:13:30 2002] You told Zaira, 'I will tell you, though - only a GM can possibly restore your hammer, and they would be unlikely to.'
+[Wed Mar 27 01:13:30 2002] Gullo says, 'Ah, I see...sounds dangerous. My bud is stranded in FV after doing circles between here and there'
+[Wed Mar 27 01:13:36 2002] Iresn says, 'Hail, Glorin Binfurr'
+[Wed Mar 27 01:13:36 2002] Glorin Binfurr says 'Pleasure to meet you.  Keep your eye out for the ship.  You don't want to miss it. '
+[Wed Mar 27 01:13:41 2002] You told Nwinki, 'only to here...'
+[Wed Mar 27 01:13:45 2002] Summoning nwinki.
+[Wed Mar 27 01:13:57 2002] You say, 'who is your friend?'
+[Wed Mar 27 01:14:02 2002] Gullo says, 'Antomicas'
+[Wed Mar 27 01:14:12 2002] Players in EverQuest:
+[Wed Mar 27 01:14:12 2002] ---------------------------
+[Wed Mar 27 01:14:12 2002] [44 Cleric] Taoe (Halfling) ZONE: freporte (USER PID GUPUMWY)
+[Wed Mar 27 01:14:12 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:14:17 2002] Summoning Taoe.
+[Wed Mar 27 01:14:21 2002] Iresn says, 'Hail, Espranza'
+[Wed Mar 27 01:14:29 2002] Nwinki kneels before Espranza in humility and reverence.
+[Wed Mar 27 01:14:31 2002] Nwinki thanks Espranza heartily.
+[Wed Mar 27 01:14:31 2002] You say, 'there's something familiar about you'
+[Wed Mar 27 01:14:44 2002] Iresn tells you, 'why don't coming ship..?'
+[Wed Mar 27 01:14:44 2002] Nwinki blushes at Espranza.
+[Wed Mar 27 01:14:53 2002] Players in EverQuest:
+[Wed Mar 27 01:14:53 2002] ---------------------------
+[Wed Mar 27 01:14:53 2002] There are no players in EverQuest that match those who filters.
+[Wed Mar 27 01:14:59 2002] Nwinki cheers at Taoe.
+[Wed Mar 27 01:15:02 2002] Players in EverQuest:
+[Wed Mar 27 01:15:02 2002] ---------------------------
+[Wed Mar 27 01:15:02 2002] [ANON (36 Ranger)] Antomicas (Half Elf) ZONE: firiona (USER PID D5CXS8R)
+[Wed Mar 27 01:15:02 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:15:05 2002] Nwinki grabs hold of Espranza and begins to dance with her.
+[Wed Mar 27 01:15:07 2002] Summoning antomicas.
+[Wed Mar 27 01:15:09 2002] Zaira tells you, 'its not even mine yet i paid 500 of it to sweetswift and did not sell it just was hitting done I play this game so much and alway help others and i finnally was given a break on a good weapon i cant belive this '
+[Wed Mar 27 01:15:24 2002] Nwinki says, 'thanks much for your help, Espranza the Shrub Elf )'
+[Wed Mar 27 01:15:27 2002] You say, 'HAFFERS!'
+[Wed Mar 27 01:15:28 2002] Taoe says, 'Hail, Espranza'
+[Wed Mar 27 01:15:31 2002] Nwinki says, 'Lol'
+[Wed Mar 27 01:15:32 2002] You say, 'er, shrub elves!'
+[Wed Mar 27 01:15:34 2002] Taoe cheers at Espranza.
+[Wed Mar 27 01:15:43 2002] Taoe says, 'hehe'
+[Wed Mar 27 01:15:46 2002] Zaira tells you, 'can you send this matter to a gm please?'
+[Wed Mar 27 01:15:51 2002] Nwinki says, 'Any clue when the gnomes will complete their task?'
+[Wed Mar 27 01:15:59 2002] You say, 'remember, don't let the lesser races here about the plans for Total World Domination (tm)'
+[Wed Mar 27 01:16:07 2002] Nwinki says, 'LOL'
+[Wed Mar 27 01:16:09 2002] Taoe says, 'lol'
+[Wed Mar 27 01:16:10 2002] Antomicas says, 'Hail, Espranza'
+[Wed Mar 27 01:16:11 2002] Nwinki rolls on the floor laughing at Espranza.
+[Wed Mar 27 01:16:11 2002] Angelmyst says, 'lol.'
+[Wed Mar 27 01:16:11 2002] Gullo says, 'Thanks you Esparanza'
+[Wed Mar 27 01:16:16 2002] Gullo says, 'Hail, Antomicas'
+[Wed Mar 27 01:16:37 2002] Antomicas tells you, 'thank you very much i was getting very frustrated'
+[Wed Mar 27 01:16:39 2002] Nwinki bonks Taoe on the head!
+[Wed Mar 27 01:16:47 2002] Perusa tells you, 'Sorry missed you tell.  No I need a port to OOT to Sister Island'
+[Wed Mar 27 01:16:54 2002] You told Zaira, 'The GM will not be back until next Monday. Until then, you can use the Contact Your GM link on the page www.everquestlive.com to send her an email directly.'
+[Wed Mar 27 01:17:01 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:17:01 2002] USER TEXT: I have been waiting for the boat to OOT for a very very long time now.  Is there something wrong with the boat?  Is there any way to get to OOT?
+[Wed Mar 27 01:17:01 2002] Players in EverQuest:
+[Wed Mar 27 01:17:01 2002] ---------------------------
+[Wed Mar 27 01:17:01 2002] [44 Cleric] Taoe (Halfling) ZONE: butcher (USER PID GUPUMWY)
+[Wed Mar 27 01:17:01 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:17:04 2002] DELETING THIS PETITION
+[Wed Mar 27 01:17:06 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:17:07 2002] USER TEXT: i just made 2 round trips on Maidens Voyage with no luck of any stops for shuttles to BB - can you tell me whats wrong or do anything for me?
+[Wed Mar 27 01:17:07 2002] Players in EverQuest:
+[Wed Mar 27 01:17:07 2002] ---------------------------
+[Wed Mar 27 01:17:07 2002] [ANON (36 Ranger)] Antomicas (Half Elf) ZONE: butcher (USER PID D5CXS8R)
+[Wed Mar 27 01:17:07 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:17:09 2002] DELETING THIS PETITION
+[Wed Mar 27 01:17:13 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:17:13 2002] USER TEXT: just accidently hit purchase when i ment to hit done on my item at ellona pleas ehel iam not even done paying for it from my friend yet holy crap 
+[Wed Mar 27 01:17:14 2002] Players in EverQuest:
+[Wed Mar 27 01:17:14 2002] ---------------------------
+[Wed Mar 27 01:17:14 2002] [ANON (31 Druid)] Zaira (Wood Elf) ZONE: butcher (USER PID HRSLPHB)
+[Wed Mar 27 01:17:14 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:17:16 2002] Nwinki comforts Taoe.
+[Wed Mar 27 01:17:20 2002] STATUS UPGRADED TO URGENT
+[Wed Mar 27 01:17:20 2002] STATUS UPGRADED TO EMERGENCY
+[Wed Mar 27 01:17:30 2002] Taoe cries.
+[Wed Mar 27 01:17:44 2002] Zaira tells you, 'can they look at this script or something to show my veracity on the matter?'
+[Wed Mar 27 01:17:45 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Wed Mar 27 01:17:48 2002] GM TEXT: Espranza: Accidentally sold a hammer of ethereal energy. Told them we could not reimburse, but wanted to talk to a GM.
+[Wed Mar 27 01:17:51 2002] CHECKING IN
+[Wed Mar 27 01:17:58 2002] Nwinki says, 'Hail, Glorin Binfurr'
+[Wed Mar 27 01:17:58 2002] Glorin Binfurr says 'Pleasure to meet you.  Keep your eye out for the ship.  You don't want to miss it. '
+[Wed Mar 27 01:18:13 2002] Nwinki says, 'Silly Glorin, there IS no ship!'
+[Wed Mar 27 01:18:13 2002] Taoe cries.
+[Wed Mar 27 01:18:14 2002] You told Zaira, 'they can see you sold the hammer. What they may not be able to do is return it to you. But that's up to the GM, not I.'
+[Wed Mar 27 01:18:29 2002] You say, 'Yes, a lot of these people aren't up on current events.'
+[Wed Mar 27 01:18:45 2002] You say, 'But I understand new ships are being build in the gnomish shipyards.'
+[Wed Mar 27 01:18:46 2002] Nwinki bonks Glorin Binfurr on the head!
+[Wed Mar 27 01:18:51 2002] Taoe says, 'When was the ship sunk?'
+[Wed Mar 27 01:19:08 2002] You say, 'Over a week ago. It was a very tragic accident.'
+[Wed Mar 27 01:19:18 2002] Taoe says, 'O that long!'
+[Wed Mar 27 01:19:24 2002] Zaira tells you, 'lord i cant belive this I hope the guy doesnt want it back Iam so upset i could have sworn i hit done thats why iam so upset'
+[Wed Mar 27 01:19:28 2002] Nwinki says, 'The success of the gnomes will be reported in a patch, Espranza?'
+[Wed Mar 27 01:19:29 2002] Taoe is sad.
+[Wed Mar 27 01:19:31 2002] You say, 'Let's just say some hapless fisherman finally hooked the Big One.'
+[Wed Mar 27 01:19:42 2002] Crofton GMSAYS, 'i have a port from Erudin to Qeynos ...anyone avail ? '
+[Wed Mar 27 01:19:42 2002] Nwinki rolls on the floor laughing at Espranza.
+[Wed Mar 27 01:19:55 2002] Iresn tells you, 'why don't coming ship..? i want going FP... 8('
+[Wed Mar 27 01:20:09 2002] You told Zaira, 'I understand completely - I would be, too. I hope when you get in touch with the GM, that she can help you. But she might not be able to.'
+[Wed Mar 27 01:20:10 2002] Taoe says, 'Aye, will there be an announcement when the new ships are ready?'
+[Wed Mar 27 01:20:20 2002] You say, 'I am certain it will be shouted throughout the land.'
+[Wed Mar 27 01:20:28 2002] You told Iresn, 'I can bring you'
+[Wed Mar 27 01:20:31 2002] Taoe says, 'Woohoo!'
+[Wed Mar 27 01:20:32 2002] You GMSAY, 'I will do it Croft'
+[Wed Mar 27 01:20:36 2002] Taoe cheers at Espranza.
+[Wed Mar 27 01:20:46 2002] Nwinki says, 'thank you kindly, my good hobbit!'
+[Wed Mar 27 01:20:46 2002] You say, 'well sisters, I must be off. Be well!'
+[Wed Mar 27 01:20:47 2002] You no longer have a target.
+[Wed Mar 27 01:20:47 2002] Gullo wonders where Norrath would be without the helping hand of Esparanza.
+[Wed Mar 27 01:20:49 2002] Nwinki says, 'off we go'
+[Wed Mar 27 01:20:50 2002] You wave goodbye to everyone.
+[Wed Mar 27 01:20:51 2002] Taoe waves goodbye to Espranza.
+[Wed Mar 27 01:20:53 2002] You GMSAY, 'zone'
+[Wed Mar 27 01:20:55 2002] Nwinki waves goodbye to Espranza.
+[Wed Mar 27 01:21:00 2002] You feel the spirit of Z surround you.
+[Wed Mar 27 01:21:02 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 01:21:33 2002] You have entered Ocean of Tears.
+[Wed Mar 27 01:21:33 2002] Zaira tells you, 'thank you for understanding omg i know this is just a game but i just want to cry'
+[Wed Mar 27 01:21:34 2002] Espranza saved.
+[Wed Mar 27 01:21:39 2002] Crofton GMSAYS, 'Thank you names are (Zargos and Bacallah) located at ERudin docks ..want to go to Qeynos. '
+[Wed Mar 27 01:21:56 2002] You told Zaira, 'I know! I can only imagine what I would feel like if I accidentally sold something precious!'
+[Wed Mar 27 01:22:01 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:22:02 2002] USER TEXT: Can we get a guide or GM to summon at E Freeport Docks
+[Wed Mar 27 01:22:02 2002] Players in EverQuest:
+[Wed Mar 27 01:22:02 2002] ---------------------------
+[Wed Mar 27 01:22:02 2002] [ANON (25 Enchanter)] Perusa (High Elf) ZONE: freporte (USER PID GUVSCH7)
+[Wed Mar 27 01:22:02 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:22:09 2002] Summoning Perusa.
+[Wed Mar 27 01:22:13 2002] DELETING THIS PETITION
+[Wed Mar 27 01:22:22 2002] You GMSAY, 'okay Croft'
+[Wed Mar 27 01:22:28 2002] Crofton GMSAYS, 'Thank you'
+[Wed Mar 27 01:22:30 2002] You GMSAY, 'soon as I get this summons done'
+[Wed Mar 27 01:22:42 2002] Perusa says, 'Thank you very much'
+[Wed Mar 27 01:22:47 2002] Perusa bows.
+[Wed Mar 27 01:22:51 2002] Dratier GMSAYS, 'Finally got my report answer. Given a warning to someone here in a sec'
+[Wed Mar 27 01:22:53 2002] You say, 'was there someone else?'
+[Wed Mar 27 01:22:53 2002] Zaira tells you, 'its not just that i really care about my friend who gave me the break on it and now hes going to be so dissapointed in me'
+[Wed Mar 27 01:23:14 2002] Perusa says, 'There was too others at the dock but they left'
+[Wed Mar 27 01:23:22 2002] You say, 'okay, then. be well!'
+[Wed Mar 27 01:23:26 2002] You wave goodbye to Perusa.
+[Wed Mar 27 01:23:29 2002] You GMSAY, 'zone'
+[Wed Mar 27 01:23:34 2002] You feel the spirit of Z surround you.
+[Wed Mar 27 01:23:35 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 01:24:11 2002] You have entered South Qeynos.
+[Wed Mar 27 01:24:11 2002] Espranza saved.
+[Wed Mar 27 01:24:16 2002] It begins to rain.
+[Wed Mar 27 01:24:22 2002] Summoning Zargos.
+[Wed Mar 27 01:24:35 2002] Players in EverQuest:
+[Wed Mar 27 01:24:35 2002] ---------------------------
+[Wed Mar 27 01:24:35 2002] [1 Wizard] Bacallah (Erudite) ZONE: erudnext (USER PID H4GMTRL)
+[Wed Mar 27 01:24:35 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:24:38 2002] Zargos says, 'Hail, Marlin Bizmite'
+[Wed Mar 27 01:24:38 2002] Marlin Bizmite says 'Greetings, fellow fisherman. You must be a fisherman. You have the stench of one. If you are not, might I suggest this new pastime I have heard of? A bath!! '
+[Wed Mar 27 01:24:44 2002] Summoning bacallah.
+[Wed Mar 27 01:24:45 2002] Zaira tells you, 'thank you for your help '
+[Wed Mar 27 01:24:54 2002] The spirit leaves you.
+[Wed Mar 27 01:24:58 2002] You told Zaira, 'good luck, and safe journeys to you.'
+[Wed Mar 27 01:24:59 2002] Port Authority Officer shouts 'Hear ye, hear ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! '
+[Wed Mar 27 01:24:59 2002] Menkes Tabolet says 'Custom made rat pelt capes..  cheap, cheap, cheap! '
+[Wed Mar 27 01:25:12 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:25:12 2002] USER TEXT: i have a question about the rules
+[Wed Mar 27 01:25:12 2002] Players in EverQuest:
+[Wed Mar 27 01:25:12 2002] ---------------------------
+[Wed Mar 27 01:25:12 2002] [56 Luminary] Hyteria (Troll) <Renaissance> ZONE: sebilis (USER PID EYGBUR3)
+[Wed Mar 27 01:25:12 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:25:24 2002] Nostahla Westfend begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Mar 27 01:25:27 2002] You told Hyteria, 'Hail, Hyteria! Senior Guide Espranza here. How may I help you?'
+[Wed Mar 27 01:25:28 2002] Nostahla Westfend begins to radiate.
+[Wed Mar 27 01:25:41 2002] Spell particle effects are currently ON.
+[Wed Mar 27 01:25:43 2002] Hyteria tells you, 'hello'
+[Wed Mar 27 01:25:45 2002] You feel the spirit of Z surround you.
+[Wed Mar 27 01:25:47 2002] Captain Rohand says 'Welcome to my shop, Kaiddar. You would probably find a Dagger handy.'
+[Wed Mar 27 01:25:57 2002] Hyteria tells you, 'i need to know something about rules'
+[Wed Mar 27 01:26:01 2002] You told Hyteria, 'okay'
+[Wed Mar 27 01:26:39 2002] Hyteria tells you, 'well if AoE group come in zone and camp all camp , they need to share with another group (normal group) or not?'
+[Wed Mar 27 01:26:55 2002] You told Hyteria, 'of course'
+[Wed Mar 27 01:27:08 2002] Hyteria tells you, 'k '
+[Wed Mar 27 01:27:23 2002] You told Hyteria, 'everyone must share. that is the spirit behind the Play Nice Policy.'
+[Wed Mar 27 01:27:32 2002] DELETING THIS PETITION
+[Wed Mar 27 01:27:36 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:27:36 2002] USER TEXT: I was zoning to get away from a mob, and hit a lag spike...when I came onto other side of zone I had died (was bound on othe side of zone)
+[Wed Mar 27 01:27:36 2002] Players in EverQuest:
+[Wed Mar 27 01:27:36 2002] ---------------------------
+[Wed Mar 27 01:27:36 2002] There are no players in EverQuest that match those who filters.
+[Wed Mar 27 01:27:50 2002] Hyteria tells you, 'thx a lot cause lots of time AoE group camp all and place is close for another '
+[Wed Mar 27 01:27:53 2002] You GMSAY, 'Ceinnonl unavail x3 ---> poof  <---'
+[Wed Mar 27 01:27:56 2002] DELETING THIS PETITION
+[Wed Mar 27 01:28:20 2002] You told Hyteria, 'Well, that's just being greedy and if I caught someone doing that, I would ask them to share.'
+[Wed Mar 27 01:28:42 2002] Hyteria tells you, 'wait i ask first to share its was just a question)'
+[Wed Mar 27 01:29:45 2002] Players in EverQuest:
+[Wed Mar 27 01:29:45 2002] ---------------------------
+[Wed Mar 27 01:29:45 2002] [56 Luminary] Hyteria (Troll) <Renaissance> ZONE: sebilis (USER PID EYGBUR3)
+[Wed Mar 27 01:29:45 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:29:51 2002] You told Hyteria, 'okay :)'
+[Wed Mar 27 01:30:01 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:30:01 2002] USER TEXT: I hear the suttle to BB isn't working, i'm heading there, can I plz be summoned to BB?.
+[Wed Mar 27 01:30:01 2002] Players in EverQuest:
+[Wed Mar 27 01:30:01 2002] ---------------------------
+[Wed Mar 27 01:30:01 2002] [57 Knight] Vurtrue (Half Elf) <Rise of the Phoenix> ZONE: timorous (USER PID BVCG79D)
+[Wed Mar 27 01:30:01 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:30:13 2002] You GMSAY, 'zone'
+[Wed Mar 27 01:30:16 2002] Morulis auctions, 'WTS Walrus tooth piercing 6/22 +3str +6sta send tells'
+[Wed Mar 27 01:30:16 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 01:30:52 2002] You have entered Butcherblock Mountains.
+[Wed Mar 27 01:30:53 2002] Espranza saved.
+[Wed Mar 27 01:30:58 2002] It begins to rain.
+[Wed Mar 27 01:31:04 2002] Teleporting to magnus_boran00.
+[Wed Mar 27 01:31:10 2002] You feel the spirit of Norrath enter you.
+[Wed Mar 27 01:31:12 2002] Your feet leave the ground.
+[Wed Mar 27 01:32:03 2002] You told Vurtrue, 'Hail, Vurtrue! Shrub Elf Airlines at your service! Still need a summons to Butcherblock?'
+[Wed Mar 27 01:32:04 2002] Dratier GMSAYS, 'Eeekk. Look at the time already. I have to get up in 6 and a half hours tommarrow. I really have to be going. :('
+[Wed Mar 27 01:32:13 2002] You GMSAY, 'okay... Crofton say zone please'
+[Wed Mar 27 01:32:15 2002] Vurtrue tells you, 'Heh yes plz.'
+[Wed Mar 27 01:32:20 2002] Summoning Vurtrue.
+[Wed Mar 27 01:32:25 2002] Dratier GMSAYS, 'night everyone.'
+[Wed Mar 27 01:32:30 2002] You GMSAY, 'night Dratier!'
+[Wed Mar 27 01:32:32 2002] DELETING THIS PETITION
+[Wed Mar 27 01:32:36 2002] Crofton GMSAYS, 'Zone .....G night Dratier ...thank you for mentoring me'
+[Wed Mar 27 01:32:51 2002] Crofton GMSAYS, 'Zone'
+[Wed Mar 27 01:32:52 2002] Vurtrue thanks Espranza heartily.
+[Wed Mar 27 01:32:58 2002] Vurtrue whistles at Espranza appreciatively.
+[Wed Mar 27 01:33:03 2002] Vurtrue tells you, 'thanx sweety 8).'
+[Wed Mar 27 01:33:27 2002] Crofton GMSAYS, 'disbanding ...to Join Esp'
+[Wed Mar 27 01:33:30 2002] Vurtrue tells you, 'Heh, looking even better with the new models Heh.'
+[Wed Mar 27 01:33:33 2002] Dratier GMSAYS, 'Okay.'
+[Wed Mar 27 01:33:39 2002] Dratier GMSAYS, 'zoning home'
+[Wed Mar 27 01:33:45 2002] Crofton GMSAYS, 'ok Ready for Zone'
+[Wed Mar 27 01:33:55 2002] Crofton GMSAYS, 'Zone'
+[Wed Mar 27 01:34:11 2002] Summoning crofton.
+[Wed Mar 27 01:34:17 2002] You told Vurtrue, 'thanks )'
+[Wed Mar 27 01:34:21 2002] You told Vurtrue, 'you too!'
+[Wed Mar 27 01:34:22 2002] Vurtrue tells you, '8).'
+[Wed Mar 27 01:34:45 2002] Vurtrue tells you, 'does the boat to FP work?.'
+[Wed Mar 27 01:34:46 2002] Espranza casts Summon Apprentice.
+[Wed Mar 27 01:34:48 2002] Crofton says, 'Hail, Espranza'
+[Wed Mar 27 01:34:50 2002] Crofton hugs Espranza.
+[Wed Mar 27 01:34:52 2002] You invite Crofton to join your group.
+[Wed Mar 27 01:34:58 2002] Crofton beams a smile at Espranza.
+[Wed Mar 27 01:35:01 2002] You have formed the group.
+[Wed Mar 27 01:35:03 2002] You tell your party, 'hiya!'
+[Wed Mar 27 01:35:08 2002] You told Vurtrue, 'I don't think so.'
+[Wed Mar 27 01:35:12 2002] Crofton tells the group, 'Thank you ...im in the middle of a pet ..hehe'
+[Wed Mar 27 01:35:16 2002] Vurtrue tells you, 'Lol.'
+[Wed Mar 27 01:35:19 2002] You tell your party, 'it's okay'
+[Wed Mar 27 01:35:22 2002] Crofton tells the group, 'ok finishin pet ,,:)'
+[Wed Mar 27 01:35:35 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:35:35 2002] USER TEXT: Few days ago, I was trying to think up a surname but all my surnames were being rejected... just to humour myself, I put in 'Roxxorsyourboxxors' and it passed... I really don't want this to be my surname so could someone please nerf me? =X
+[Wed Mar 27 01:35:35 2002] Players in EverQuest:
+[Wed Mar 27 01:35:35 2002] ---------------------------
+[Wed Mar 27 01:35:35 2002] [ANON (36 Druid)] Tarrick (Wood Elf) ZONE: misty (USER PID HRBX58F)
+[Wed Mar 27 01:35:35 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:35:51 2002] Vurtrue tells you, 'that was my final destination.'
+[Wed Mar 27 01:36:11 2002] Baronn says out of character, 'looking for a TP or TL to Misty plz..'
+[Wed Mar 27 01:36:13 2002] You told Tarrick, 'Hail, Tarrick! Senior Guide Espranza here. Heheh... I think I can change your last name for you...'
+[Wed Mar 27 01:36:20 2002] You told Vurtrue, 'Freeport?'
+[Wed Mar 27 01:36:23 2002] Vurtrue tells you, 'Oh well.'
+[Wed Mar 27 01:36:26 2002] Tarrick tells you, 'Please do =)'
+[Wed Mar 27 01:36:28 2002] Vurtrue tells you, 'yep.'
+[Wed Mar 27 01:36:30 2002] You told Vurtrue, 'I can bring you there...'
+[Wed Mar 27 01:36:36 2002] You GMSAY, 'zone'
+[Wed Mar 27 01:36:37 2002] Tarrick tells you, 'I really didn't think it would pass when I typed it in lol'
+[Wed Mar 27 01:36:38 2002] Vurtrue tells you, 'cool 8).'
+[Wed Mar 27 01:36:39 2002] You tell your party, 'more boat stuff'
+[Wed Mar 27 01:36:47 2002] Vurtrue tells you, 'whats up with the boats anyhow?.'
+[Wed Mar 27 01:36:48 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 01:37:22 2002] You have entered East Freeport.
+[Wed Mar 27 01:37:22 2002] You have formed the group.
+[Wed Mar 27 01:37:23 2002] Tarrick tells you, 'I'd just like Tarrick if you could =\'
+[Wed Mar 27 01:37:23 2002] Espranza saved.
+[Wed Mar 27 01:38:05 2002] You told Vurtrue, 'The Luclin expansion made the moon much larger than before. The increased size and mass of the moon changed the cycle of the tides. It was only a matter of time before shipping was disrupted.'
+[Wed Mar 27 01:38:18 2002] You told Vurtrue, 'summoning you....'
+[Wed Mar 27 01:38:23 2002] Summoning Vurtrue.
+[Wed Mar 27 01:38:37 2002] Crofton tells the group, 'Aye My lady . I have a Surename request here for you . No contact yet . I willl escalate this for you ...name is Duggall'
+[Wed Mar 27 01:38:48 2002] You tell your party, 'no, please do contact'
+[Wed Mar 27 01:38:55 2002] You tell your party, 'and find out what surname they desire'
+[Wed Mar 27 01:38:58 2002] You bow before Vurtrue.
+[Wed Mar 27 01:38:58 2002] Vurtrue tells you, 'Heh nice story 8).'
+[Wed Mar 27 01:39:04 2002] Vurtrue tells you, 'thanx again 8).'
+[Wed Mar 27 01:39:04 2002] Crofton tells the group, 'Aye i will do this for you'
+[Wed Mar 27 01:39:07 2002] Vurtrue thanks Espranza heartily.
+[Wed Mar 27 01:39:10 2002] Vurtrue kneels before Espranza in humility and reverence.
+[Wed Mar 27 01:39:12 2002] You told Vurtrue, 'I've never told the same one twice :)'
+[Wed Mar 27 01:39:21 2002] Vurtrue tells you, 'Lol 8).'
+[Wed Mar 27 01:39:23 2002] Players in EverQuest:
+[Wed Mar 27 01:39:23 2002] ---------------------------
+[Wed Mar 27 01:39:23 2002] [57 Knight] Vurtrue (Half Elf) <Rise of the Phoenix> ZONE: freporte (USER PID BVCG79D)
+[Wed Mar 27 01:39:23 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:39:30 2002] You told Vurtrue, 'be well, brave paladin!'
+[Wed Mar 27 01:39:33 2002] You wave goodbye to Vurtrue.
+[Wed Mar 27 01:39:36 2002] Vurtrue tells you, 'first time I took the boat in over 8 months'
+[Wed Mar 27 01:39:36 2002] You GMSAY, 'zone'
+[Wed Mar 27 01:39:38 2002] Vurtrue waves goodbye to Espranza.
+[Wed Mar 27 01:39:41 2002] Teleporting to tarrick.
+[Wed Mar 27 01:39:41 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 01:39:42 2002] Vurtrue tells you, 'take care 8).'
+[Wed Mar 27 01:40:05 2002] You have entered Misty Thicket.
+[Wed Mar 27 01:40:05 2002] You have formed the group.
+[Wed Mar 27 01:40:05 2002] Espranza saved.
+[Wed Mar 27 01:40:13 2002] You giggle at Tarrick.
+[Wed Mar 27 01:40:23 2002] You emote 'points and laughs at Tarrick's last name'
+[Wed Mar 27 01:40:27 2002] Tarrick bows before Espranza.
+[Wed Mar 27 01:40:37 2002] You told Tarrick, 'what last name did you want?'
+[Wed Mar 27 01:40:43 2002] Tarrick tells you, 'Just Tarrick, heh'
+[Wed Mar 27 01:40:54 2002] You have changed Tarrick's last name to JustTarrick.
+[Wed Mar 27 01:40:58 2002] Tarrick tells you, '...'
+[Wed Mar 27 01:40:58 2002] You told Tarrick, 'there ya go'
+[Wed Mar 27 01:41:07 2002] Tarrick tells you, 'Hmmm...'
+[Wed Mar 27 01:41:10 2002] You ponder Tarrick. What is going on with him?
+[Wed Mar 27 01:41:14 2002] Tarrick tells you, 'No surname please, heh'
+[Wed Mar 27 01:41:21 2002] You told Tarrick, 'sigh.'
+[Wed Mar 27 01:41:29 2002] You have changed Tarrick's last name to NoSurnamePlease.
+[Wed Mar 27 01:41:32 2002] Tarrick tells you, 'Sorry lol'
+[Wed Mar 27 01:41:35 2002] You told Tarrick, 'okay. but that;s the last one.'
+[Wed Mar 27 01:41:42 2002] Tarrick tells you, '.'
+[Wed Mar 27 01:41:43 2002] You have changed Tarrick's last name to .
+[Wed Mar 27 01:41:46 2002] You giggle at Tarrick.
+[Wed Mar 27 01:41:49 2002] Tarrick beams a smile at Espranza.
+[Wed Mar 27 01:41:52 2002] Tarrick thanks Espranza heartily.
+[Wed Mar 27 01:41:55 2002] Tarrick tells you, 'thanks much =)'
+[Wed Mar 27 01:42:07 2002] You GMSAY, '<note name> Tarrick HRBX58F last name removed by request'
+[Wed Mar 27 01:42:14 2002] Tarrick tells you, 'I won't play with my surname anymore ;)'
+[Wed Mar 27 01:42:16 2002] You told Tarrick, 'Sure thing. Safe travels, friend!'
+[Wed Mar 27 01:42:27 2002] DELETING THIS PETITION
+[Wed Mar 27 01:42:30 2002] Tarrick tells you, 'You too ;)'
+[Wed Mar 27 01:42:33 2002] You beam a smile at Tarrick.
+[Wed Mar 27 01:42:37 2002] Crofton tells the group, 'Good evening Duggall Apprentice Guide Crofton here . How may I be of serviceto you ? '
+[Wed Mar 27 01:42:41 2002] Crofton tells the group, 'Doh !'
+[Wed Mar 27 01:42:45 2002] You tell your party, 'lol!'
+[Wed Mar 27 01:42:57 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:42:58 2002] USER TEXT: im trapped on odus cuz boat is broke please help me
+[Wed Mar 27 01:42:58 2002] Players in EverQuest:
+[Wed Mar 27 01:42:58 2002] ---------------------------
+[Wed Mar 27 01:42:58 2002] [1 Wizard] Bacallah (Erudite) ZONE: erudsxing (USER PID H4GMTRL)
+[Wed Mar 27 01:42:58 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:43:23 2002] You told Bacallah, 'Hail, Bacallah! Senior Guide Espranza here. Are you on the boat now?'
+[Wed Mar 27 01:43:43 2002] Players on EverQuest:
+[Wed Mar 27 01:43:43 2002] ---------------------------
+[Wed Mar 27 01:43:43 2002] [36 Druid] Tarrick (Wood Elf)
+[Wed Mar 27 01:43:43 2002] * GM * [55 Blackguard] Espranza (Halfling) <Keepers of Dreams>
+[Wed Mar 27 01:43:43 2002] There are 2 players in Misty Thicket.
+[Wed Mar 27 01:43:58 2002] Your feet leave the ground.
+[Wed Mar 27 01:45:52 2002] Crofton tells the group, 'Aye my fair laidy Duggall wishes to delete his surname . . . . He notes it is unacceptable and wishes to leave it blank for now. Can you help him ?'
+[Wed Mar 27 01:46:10 2002] You GMSAY, 'bacallah online but unresponsive unavail x1'
+[Wed Mar 27 01:46:13 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Mar 27 01:46:14 2002] CHECKING IN
+[Wed Mar 27 01:46:25 2002] You tell your party, 'Certainly. Escalate it to red, please.'
+[Wed Mar 27 01:46:34 2002] Crofton tells the group, 'ok .. Thank you '
+[Wed Mar 27 01:47:11 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:47:11 2002] USER TEXT: I wanted to know if there was a way I could talk to somone about a idea I have
+[Wed Mar 27 01:47:12 2002] Players in EverQuest:
+[Wed Mar 27 01:47:12 2002] ---------------------------
+[Wed Mar 27 01:47:12 2002] [19 Beastlord] Snowdrift (Vah Shir) <Fire Knights> ZONE: lakeofillomen (USER PID CX7WUHV)
+[Wed Mar 27 01:47:12 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:47:58 2002] You told Snowdrift, 'Hail, Snowdrift! Senior Guide Espranza here. If you would like to send ideas to the developers, the best way is to use the /feedback command, which sends your comments straight to the developers.'
+[Wed Mar 27 01:48:19 2002] Snowdrift tells you, 'well may I ask something'
+[Wed Mar 27 01:48:27 2002] You told Snowdrift, 'Certainly!'
+[Wed Mar 27 01:48:41 2002] Snowdrift tells you, 'is there a command they lets you tell what buffs your pet has ?'
+[Wed Mar 27 01:48:50 2002] Crofton GMSAYS, 'Escalated duggall to red for surename change'
+[Wed Mar 27 01:48:56 2002] You told Snowdrift, 'I don't believe so, no.'
+[Wed Mar 27 01:49:11 2002] You told Snowdrift, 'You will get a message when a buff on your pet wears off, though.'
+[Wed Mar 27 01:49:13 2002] Snowdrift tells you, 'ok then thats what I was going to send in =) thanks for your help'
+[Wed Mar 27 01:49:23 2002] You told Snowdrift, 'okay, be well and safe journey to you!'
+[Wed Mar 27 01:49:25 2002] DELETING THIS PETITION
+[Wed Mar 27 01:49:26 2002] Snowdrift tells you, 'yea but you have to wait for it to stop working'
+[Wed Mar 27 01:49:28 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 01:49:28 2002] USER TEXT: I see you out there Espranza.  Please oh please gank my surname!
+[Wed Mar 27 01:49:28 2002] Players in EverQuest:
+[Wed Mar 27 01:49:28 2002] ---------------------------
+[Wed Mar 27 01:49:28 2002] [ANON (60 Hierophant)] Duggall (Halfling) ZONE: shadowhaven (USER PID CYCDC9T)
+[Wed Mar 27 01:49:28 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:49:30 2002] Snowdrift tells you, 'you too'
+[Wed Mar 27 01:49:46 2002] You GMSAY, 'zone'
+[Wed Mar 27 01:49:50 2002] Teleporting to duggall.
+[Wed Mar 27 01:49:50 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 01:50:09 2002] Flex auctions, 'wts Polished Bone Bracelett AC2 Int+3 Wis+3'
+[Wed Mar 27 01:50:29 2002] Flex auctions, 'wts Polished Bone Bracelett AC2 Int+3 Wis+3'
+[Wed Mar 27 01:50:29 2002] Flex auctions, 'wts Polished Bone Bracelett AC2 Int+3 Wis+3'
+[Wed Mar 27 01:50:29 2002] Flex auctions, 'wts Polished Bone Bracelett AC2 Int+3 Wis+3'
+[Wed Mar 27 01:50:29 2002] Flex auctions, 'wts Polished Bone Bracelett AC2 Int+3 Wis+3'
+[Wed Mar 27 01:50:29 2002] Flex auctions, 'wts Polished Bone Bracelett AC2 Int+3 Wis+3'
+[Wed Mar 27 01:50:45 2002] You have entered Shadow Haven.
+[Wed Mar 27 01:50:45 2002] You have formed the group.
+[Wed Mar 27 01:50:46 2002] Espranza saved.
+[Wed Mar 27 01:50:55 2002] You can no longer levitate.
+[Wed Mar 27 01:50:56 2002] Duggall hugs Espranza.
+[Wed Mar 27 01:51:06 2002] Espranza thinks HER epic is prettier.
+[Wed Mar 27 01:51:11 2002] Duggall agrees with Espranza.
+[Wed Mar 27 01:51:18 2002] You say, 'Why did you paint your feet green?'
+[Wed Mar 27 01:51:29 2002] Duggall says, 'a fit of drunken insanity'
+[Wed Mar 27 01:51:31 2002] You have changed Duggall's last name to .
+[Wed Mar 27 01:51:43 2002] You say, 'oh, well that's alright then.'
+[Wed Mar 27 01:51:49 2002] Duggall nods at Espranza.
+[Wed Mar 27 01:51:57 2002] Duggall thanks Espranza heartily.
+[Wed Mar 27 01:52:00 2002] You GMSAY, '<note name> Duggall CYCDC9T last name removed by request'
+[Wed Mar 27 01:52:06 2002] Duggall says, 'My thanks, sister'
+[Wed Mar 27 01:52:09 2002] You say, 'Be well, O Drunken Druid!'
+[Wed Mar 27 01:52:15 2002] Duggall hiccups.
+[Wed Mar 27 01:52:16 2002] You bow before Duggall.
+[Wed Mar 27 01:52:19 2002] You GMSAY, 'zone'
+[Wed Mar 27 01:52:27 2002] You feel the spirit of Z surround you.
+[Wed Mar 27 01:52:27 2002] You feel the spirit of Z surround you.
+[Wed Mar 27 01:52:28 2002] Teleporting to Crofton.
+[Wed Mar 27 01:52:28 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 01:53:15 2002] You have entered Butcherblock Mountains.
+[Wed Mar 27 01:53:15 2002] You have formed the group.
+[Wed Mar 27 01:53:15 2002] Crofton GMSAYS, 'marking Amareto not Available and putting back into pool'
+[Wed Mar 27 01:53:15 2002] Espranza saved.
+[Wed Mar 27 01:53:27 2002] DELETING THIS PETITION
+[Wed Mar 27 01:53:45 2002] You tell your party, 'Which kinds of petitions do you escalate without contact?'
+[Wed Mar 27 01:54:33 2002] Crofton tells the group, 'so far only ones I have found without contact are Players that are harasing ....'
+[Wed Mar 27 01:54:47 2002] Crofton tells the group, 'I still ask to be shure'
+[Wed Mar 27 01:55:03 2002] You tell your party, 'Exploitation, harassment, abuse... anything requiring investigation, you don't contact.'
+[Wed Mar 27 01:55:12 2002] You tell your party, 'But any other sort you do'
+[Wed Mar 27 01:55:16 2002] You tell your party, 'like name changes and stuff'
+[Wed Mar 27 01:55:30 2002] Crofton tells the group, 'Aye . Thank you '
+[Wed Mar 27 01:55:55 2002] Crofton GMSAYS, 'Marking Bacallah Unavailable '
+[Wed Mar 27 01:56:27 2002] Crofton tells the group, 'ok only 2 green are not available'
+[Wed Mar 27 01:56:29 2002] You tell your party, 'well, would you like to go over some things?'
+[Wed Mar 27 01:56:35 2002] You tell your party, 'or can I answer any questions?'
+[Wed Mar 27 01:56:40 2002] Crofton tells the group, 'Hey ..I have a question'
+[Wed Mar 27 01:56:44 2002] You tell your party, 'Sure!'
+[Wed Mar 27 01:56:48 2002] Crofton tells the group, 'seen my lvl yet ?'
+[Wed Mar 27 01:56:53 2002] Players in EverQuest:
+[Wed Mar 27 01:56:53 2002] ---------------------------
+[Wed Mar 27 01:56:53 2002] * Apprentice Guide *[20 Druid] Crofton (Half Elf) ZONE: butcher (USER PID D4FF619)
+[Wed Mar 27 01:56:53 2002] There is 1 player in EverQuest.
+[Wed Mar 27 01:56:58 2002] You tell your party, 'you're 20'
+[Wed Mar 27 01:57:01 2002] Crofton tells the group, 'oops'
+[Wed Mar 27 01:57:19 2002] Crofton tells the group, 'Cool did you change it ?'
+[Wed Mar 27 01:57:27 2002] You tell your party, 'why, what was it?'
+[Wed Mar 27 01:57:39 2002] Crofton tells the group, 'it was at 19 last night '
+[Wed Mar 27 01:57:50 2002] Crofton tells the group, 'i had a little accident'
+[Wed Mar 27 01:57:50 2002] You tell your party, 'unrezzed death?'
+[Wed Mar 27 01:57:54 2002] Crofton tells the group, 'Yes'
+[Wed Mar 27 01:58:05 2002] You tell your party, 'well someone fixed it for you, but it wasn't me'
+[Wed Mar 27 01:58:43 2002] Crofton tells the group, 'i fell off of something while looking for a mentor no one was on ..i was camper atop of a wizy spire...no one was on to res me so I looted and loged off'
+[Wed Mar 27 01:59:15 2002] You tell your party, 'Are you having trouble finding mentors?'
+[Wed Mar 27 01:59:21 2002] Crofton tells the group, 'FYI it is a long fall off to'
+[Wed Mar 27 01:59:41 2002] You tell your party, 'yeah, it's a 10K fall'
+[Wed Mar 27 01:59:48 2002] You tell your party, 'even with safe fall'
+[Wed Mar 27 01:59:53 2002] Crofton tells the group, 'Aye sometimes when some people are on the secudal they are not always exactly on...'
+[Wed Mar 27 02:00:00 2002] Baronn says out of character, 'looking for a TP or TL to Misty plz..'
+[Wed Mar 27 02:00:35 2002] You tell your party, 'hmmph. I wish people would take the schedule a little more seriously.'
+[Wed Mar 27 02:00:49 2002] Crofton tells the group, 'ok I am ready to go over things with you ..Finaly a GREAT mentor ...WHOOT !'
+[Wed Mar 27 02:01:12 2002] Crofton tells the group, 'Yes me too . i work second shift and log on until 6 AM EST'
+[Wed Mar 27 02:01:33 2002] Crofton tells the group, 'Teach me ....hehehe'
+[Wed Mar 27 02:01:56 2002] Crofton tells the group, 'Crofton is all ears'
+[Wed Mar 27 02:02:17 2002] Espranza looks at the elf's prominent ears...
+[Wed Mar 27 02:02:21 2002] You agree with Crofton.
+[Wed Mar 27 02:02:36 2002] Crofton tells the group, 'Lol'
+[Wed Mar 27 02:02:51 2002] You tell your party, 'just putting a CD in the player'
+[Wed Mar 27 02:03:17 2002] Crofton tells the group, 'Yea i have Lord of the Rings sound track in now ....hehehe'
+[Wed Mar 27 02:03:25 2002] Espranza saved.
+[Wed Mar 27 02:03:33 2002] You tell your party, 'okay, someone reports an invisible hill giant is killing them in East Karana. What procedures do you follow?'
+[Wed Mar 27 02:03:39 2002] Crofton tells the group, 'help me relax ...Lol '
+[Wed Mar 27 02:03:44 2002] You tell your party, 'hmmm... Massive Attack's "Mezzanine" in mine...'
+[Wed Mar 27 02:04:24 2002] Crofton tells the group, 'as an upprentice or a Guide ?'
+[Wed Mar 27 02:04:28 2002] You tell your party, 'as a guide'
+[Wed Mar 27 02:05:32 2002] Crofton tells the group, 'Well the lack of skill comes to mind ...So looks like I would have to go to have a look ..and ask for some insite over the /PR chanel'
+[Wed Mar 27 02:05:48 2002] You tell your party, 'let's go look.'
+[Wed Mar 27 02:05:55 2002] You tell your party, 'what command gets us to east karana?'
+[Wed Mar 27 02:05:58 2002] Crofton tells the group, 'Aye okies'
+[Wed Mar 27 02:06:05 2002] You tell your party, 'ignore the queue for now'
+[Wed Mar 27 02:06:12 2002] Crofton tells the group, 'This I do not know'
+[Wed Mar 27 02:06:24 2002] You tell your party, 'do you have the P&P with you?'
+[Wed Mar 27 02:06:36 2002] Crofton tells the group, 'Aye ...let me get it'
+[Wed Mar 27 02:06:40 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:06:41 2002] USER TEXT: is the boat in Overthere working?
+[Wed Mar 27 02:06:41 2002] Players in EverQuest:
+[Wed Mar 27 02:06:41 2002] ---------------------------
+[Wed Mar 27 02:06:41 2002] There are no players in EverQuest that match those who filters.
+[Wed Mar 27 02:06:48 2002] Glisse Bluesea shouts 'The Maiden's Voyage is now ready to be boarded.  Please form an orderly line to the shuttles, and remember, no pushing! '
+[Wed Mar 27 02:06:55 2002] You GMSAY, 'Amareto unavail x2'
+[Wed Mar 27 02:06:58 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Mar 27 02:06:59 2002] CHECKING IN
+[Wed Mar 27 02:07:01 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:07:01 2002] USER TEXT: im trapped on odus cuz boat is broke please help me
+[Wed Mar 27 02:07:02 2002] Players in EverQuest:
+[Wed Mar 27 02:07:02 2002] ---------------------------
+[Wed Mar 27 02:07:02 2002] There are no players in EverQuest that match those who filters.
+[Wed Mar 27 02:07:06 2002] Crofton tells the group, 'Crofton dusts off his P&P manual'
+[Wed Mar 27 02:07:13 2002] You GMSAY, 'Bacallah unavail x3 >>> poof <<<'
+[Wed Mar 27 02:07:15 2002] DELETING THIS PETITION
+[Wed Mar 27 02:07:17 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:07:17 2002] USER TEXT: can someone explain how this dmg bonus on 2hs wpns work? what decides how much the dmg bonus increase per level? etc.
+[Wed Mar 27 02:07:17 2002] Players in EverQuest:
+[Wed Mar 27 02:07:17 2002] ---------------------------
+[Wed Mar 27 02:07:17 2002] [52 Reaver] Horun (Iksar) <Mystical Lightfighters> ZONE: cabwest (USER PID H24V39T)
+[Wed Mar 27 02:07:17 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:07:45 2002] You told Horun, '[queued], Hail, Horun! Senior Guide Espranza here. The damage bonus is keyed off the delay of the weapon, not your level. '
+[Wed Mar 27 02:07:48 2002] DELETING THIS PETITION
+[Wed Mar 27 02:07:50 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:07:51 2002] USER TEXT: is the boat in Overthere working?
+[Wed Mar 27 02:07:51 2002] Players in EverQuest:
+[Wed Mar 27 02:07:51 2002] ---------------------------
+[Wed Mar 27 02:07:51 2002] There are no players in EverQuest that match those who filters.
+[Wed Mar 27 02:08:05 2002] You GMSAY, 'Amareto unavail x3 ---!!!!! POOF !!!!!---'
+[Wed Mar 27 02:08:08 2002] DELETING THIS PETITION
+[Wed Mar 27 02:08:26 2002] Horun tells you, 'i see!'
+[Wed Mar 27 02:08:35 2002] Horun tells you, 'but it increases as i level up right?'
+[Wed Mar 27 02:08:35 2002] Crofton tells the group, 'ok '
+[Wed Mar 27 02:08:47 2002] You told Horun, 'no, it's fixed.'
+[Wed Mar 27 02:08:51 2002] Crofton tells the group, 'thumbing through ....'
+[Wed Mar 27 02:09:10 2002] Crofton tells the group, 'looking for tele comand correct ?'
+[Wed Mar 27 02:09:19 2002] You tell your party, 'whatever gets you to East Karana'
+[Wed Mar 27 02:09:21 2002] Horun tells you, 'hmm.. but like the "Darkedged twohander" .. at lvl 20 it was dmg bonus 3 or so... at lvl 30 it was dmg bonus 7... etc.'
+[Wed Mar 27 02:09:57 2002] You told Horun, 'Some classes get intrinsic damage bonuses apart from the weapon's bonus, though they may be added to the total.'
+[Wed Mar 27 02:09:58 2002] You feel the spirit of Norrath enter you.
+[Wed Mar 27 02:10:33 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:10:34 2002] USER TEXT: hi...i'm in BB on shuttle been on it like 45 min and it never moved..could it be bug by any chance
+[Wed Mar 27 02:10:34 2002] Players in EverQuest:
+[Wed Mar 27 02:10:34 2002] ---------------------------
+[Wed Mar 27 02:10:34 2002] [57 Evoker] Elminsteer (Human) <Hall of Heroes> ZONE: butcher (USER PID HT47W2P)
+[Wed Mar 27 02:10:34 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:10:38 2002] Shadowin tells you, ''
+[Wed Mar 27 02:10:54 2002] Horun tells you, 'i see... well im sure about that the dmg bonus is fixed.. but its fixed to all different levels.. that is, at lvl 52 a wpn can have dmg bonus 22 as fixed bonus, but at lvl 55 it has fixed bonus of 44 ?'
+[Wed Mar 27 02:10:59 2002] You told Elminsteer, 'Hail, Elminsteer! Senior Guide Espranza here. Were you trying to get to Firiona?'
+[Wed Mar 27 02:11:02 2002] Shadowin tells you, 'hiya , GM'
+[Wed Mar 27 02:11:08 2002] You told Shadowin, 'hello!'
+[Wed Mar 27 02:11:17 2002] Shadowin tells you, 'do u see my petition?'
+[Wed Mar 27 02:16:52 2002] Welcome to EverQuest!
+[Wed Mar 27 02:16:52 2002] You have entered Butcherblock Mountains.
+[Wed Mar 27 02:16:52 2002] Espranza saved.
+[Wed Mar 27 02:16:53 2002] Autojoining channels...
+[Wed Mar 27 02:16:53 2002] Channels: 1=none(1)
+[Wed Mar 27 02:16:56 2002] It begins to rain.
+[Wed Mar 27 02:16:57 2002] You invite Crofton to join your group.
+[Wed Mar 27 02:17:02 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:17:02 2002] USER TEXT: hi...i'm in BB on shuttle been on it like 45 min and it never moved..could it be bug by any chance
+[Wed Mar 27 02:17:02 2002] Players in EverQuest:
+[Wed Mar 27 02:17:02 2002] ---------------------------
+[Wed Mar 27 02:17:02 2002] [57 Evoker] Elminsteer (Human) <Hall of Heroes> ZONE: butcher (USER PID HT47W2P)
+[Wed Mar 27 02:17:02 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:17:09 2002] Crofton says, 'hello there again'
+[Wed Mar 27 02:17:12 2002] You told Elminsteer, 'My apologies, I crashed...'
+[Wed Mar 27 02:17:12 2002] You have formed the group.
+[Wed Mar 27 02:17:15 2002] You tell your party, 'hiya!'
+[Wed Mar 27 02:17:20 2002] You tell your party, 'find that command yet? :)'
+[Wed Mar 27 02:17:26 2002] Crofton tells the group, 'was getting woried there... :)'
+[Wed Mar 27 02:17:36 2002] Crofton tells the group, 'at section now ...'
+[Wed Mar 27 02:17:46 2002] Elminsteer tells you, 'lol np like i was saying now been 55 min and still didn't move from BB...i think it's bug'
+[Wed Mar 27 02:18:09 2002] You told Elminsteer, 'The shadow men who captain the shuttles fear the sea.'
+[Wed Mar 27 02:18:28 2002] You told Elminsteer, 'Their pay has been docked but that doesn't seem enough to get them to make that short voyage.'
+[Wed Mar 27 02:18:30 2002] Elminsteer tells you, 'hmm'
+[Wed Mar 27 02:18:41 2002] You told Elminsteer, 'Were you trying to get to Firiona Vie?'
+[Wed Mar 27 02:18:53 2002] Elminsteer tells you, 'think i should swim there would be faster hehehe'
+[Wed Mar 27 02:19:00 2002] Elminsteer tells you, 'yes trying to get there'
+[Wed Mar 27 02:19:05 2002] You told Elminsteer, 'one moment please'
+[Wed Mar 27 02:19:08 2002] You tell your party, 'have to port someone, brb'
+[Wed Mar 27 02:19:08 2002] Elminsteer tells you, 'k'
+[Wed Mar 27 02:19:10 2002] You GMSAY, 'zone'
+[Wed Mar 27 02:19:14 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 02:20:01 2002] You have entered Firiona Vie.
+[Wed Mar 27 02:20:01 2002] You have formed the group.
+[Wed Mar 27 02:20:02 2002] Espranza saved.
+[Wed Mar 27 02:20:06 2002] It begins to rain.
+[Wed Mar 27 02:20:10 2002] Summoning elminsteer.
+[Wed Mar 27 02:20:13 2002] DELETING THIS PETITION
+[Wed Mar 27 02:20:15 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:20:16 2002] USER TEXT: can i get a summons to fv  if shuttles still arent workin plse?
+[Wed Mar 27 02:20:16 2002] Players in EverQuest:
+[Wed Mar 27 02:20:16 2002] ---------------------------
+[Wed Mar 27 02:20:16 2002] [ANON (18 Enchanter)] Fanelinie (High Elf) ZONE: northkarana (USER PID FYD349C)
+[Wed Mar 27 02:20:16 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:21:01 2002] Tai Glimmershawl shouts 'The good ship Maiden's Voyage is now departing our fair docks, bound for Faydwer.  If you were unfortunate enough to have missed it, it shall return as soon as possible.  We will keep you informed of its status.  Thank you, and may Tunare bless you! '
+[Wed Mar 27 02:21:05 2002] You told Fanelinie, 'Hail, Fanelinie! Senior Guide Espranza here. I can only summon you from one docks to another; you will have to go to East Freeport or Butcherblock before I can summon you to Firiona.'
+[Wed Mar 27 02:21:15 2002] Elminsteer tells you, 'wow first time i get summond from the gods ty so much'
+[Wed Mar 27 02:21:26 2002] You told Elminsteer, 'sure thing'
+[Wed Mar 27 02:21:28 2002] Crofton tells the group, 'ok ...not theright section ...'
+[Wed Mar 27 02:21:34 2002] You told Elminsteer, 'all halflings are gods.'
+[Wed Mar 27 02:21:42 2002] Elminsteer tells you, 'wow kewl'
+[Wed Mar 27 02:21:42 2002] Fanelinie tells you, 'ok thank you ill get a port to bb '
+[Wed Mar 27 02:21:50 2002] DELETING THIS PETITION
+[Wed Mar 27 02:22:37 2002] You feel the spirit of Norrath enter you.
+[Wed Mar 27 02:23:08 2002] You have become better at Swimming! (113)
+[Wed Mar 27 02:23:40 2002] Misi auctions, 'BUYING Everlasting Breath spell.'
+[Wed Mar 27 02:23:50 2002] Crofton tells the group, 'ok do not see that comand in P&P'
+[Wed Mar 27 02:23:59 2002] Crofton tells the group, 'nor the situation'
+[Wed Mar 27 02:24:16 2002] You tell your party, 'well, the command is /zone'
+[Wed Mar 27 02:24:34 2002] You tell your party, 'followed by the name of the zone - for east karana, that would be eastkarana'
+[Wed Mar 27 02:24:48 2002] You tell your party, 'so to go to east karana, we would type ... ?'
+[Wed Mar 27 02:25:14 2002] Crofton tells the group, '......../Zone East Karana'
+[Wed Mar 27 02:25:26 2002] Crofton tells the group, 'if not mistaken ......'
+[Wed Mar 27 02:25:28 2002] You tell your party, 'in the back of the P&P are the zones and their codes'
+[Wed Mar 27 02:25:35 2002] You tell your party, 'so it would be /zone eastkarana'
+[Wed Mar 27 02:25:49 2002] You GMSAY, 'zone'
+[Wed Mar 27 02:25:53 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 02:26:24 2002] You have entered Eastern Plains of Karana.
+[Wed Mar 27 02:26:24 2002] You have formed the group.
+[Wed Mar 27 02:26:25 2002] Espranza saved.
+[Wed Mar 27 02:26:27 2002] Crofton tells the group, 'Thought i saw that under the abuse policey area....'
+[Wed Mar 27 02:26:33 2002] Crofton tells the group, 'Note.....'
+[Wed Mar 27 02:26:39 2002] You tell your party, 'say zone'
+[Wed Mar 27 02:27:31 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:27:31 2002] USER TEXT: the recently renamed jikalus here, just wondering if u get paid to be a guide? thx
+[Wed Mar 27 02:27:32 2002] Players in EverQuest:
+[Wed Mar 27 02:27:32 2002] ---------------------------
+[Wed Mar 27 02:27:32 2002] [15 Paladin] Jikalus (Erudite) ZONE: oasis (USER PID A33ZQ6J)
+[Wed Mar 27 02:27:32 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:28:00 2002] You told Jikalus, 'Hail, Jikalus! Senior Guide Espranza here. No, we are not paid... we volunteer.'
+[Wed Mar 27 02:28:16 2002] A group member has gone Linkdead.
+[Wed Mar 27 02:28:16 2002] Your group has been disbanded.
+[Wed Mar 27 02:28:25 2002] Players in EverQuest:
+[Wed Mar 27 02:28:25 2002] ---------------------------
+[Wed Mar 27 02:28:25 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: eastkarana (USER PID B4KJ6E7)
+[Wed Mar 27 02:28:25 2002] * Apprentice Guide *[20 Druid] Crofton (Half Elf) ZONE: butcher (USER PID D4FF619)
+[Wed Mar 27 02:28:25 2002] There are 2 players in EverQuest.
+[Wed Mar 27 02:28:25 2002] Jikalus tells you, 'thx. what about GM's?'
+[Wed Mar 27 02:28:37 2002] You told Jikalus, 'They get paid, it's a regular job for them'
+[Wed Mar 27 02:28:41 2002] DELETING THIS PETITION
+[Wed Mar 27 02:28:42 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:28:43 2002] USER TEXT: I need a summon to OOT Sister Island plz
+[Wed Mar 27 02:28:43 2002] Players in EverQuest:
+[Wed Mar 27 02:28:43 2002] ---------------------------
+[Wed Mar 27 02:28:43 2002] [ANON (24 Enchanter)] Perusa (High Elf) ZONE: overthere (USER PID GUVSCH7)
+[Wed Mar 27 02:28:43 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:28:53 2002] You GMSAY, 'zone'
+[Wed Mar 27 02:28:55 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 02:29:25 2002] You have entered Ocean of Tears.
+[Wed Mar 27 02:29:26 2002] Espranza saved.
+[Wed Mar 27 02:29:32 2002] Jikalus tells you, 'cool. how do u become a GM?'
+[Wed Mar 27 02:29:34 2002] You told Perusa, 'ready?'
+[Wed Mar 27 02:29:44 2002] Perusa tells you, 'Yes'
+[Wed Mar 27 02:29:45 2002] You told Jikalus, 'go to San Diego and apply at Verand headquarters'
+[Wed Mar 27 02:29:51 2002] Summoning Perusa.
+[Wed Mar 27 02:30:00 2002] DELETING THIS PETITION
+[Wed Mar 27 02:30:03 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:30:04 2002] USER TEXT: Hello, I was running through Tenebrous Mtns when I went LD a little while ago, when I logged back in it appeared that I had died, any chance of getting some assistance locating my corpse?
+[Wed Mar 27 02:30:04 2002] Players in EverQuest:
+[Wed Mar 27 02:30:04 2002] ---------------------------
+[Wed Mar 27 02:30:04 2002] [ANON (51 Vicar)] Bumbles (Gnome) ZONE: tenebrous (USER PID APB5WDA)
+[Wed Mar 27 02:30:04 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:30:09 2002] Jikalus tells you, 'doh it's a long way from Australia!'
+[Wed Mar 27 02:30:24 2002] You told Jikalus, 'All GMs work at Verant headquarters in San Diego'
+[Wed Mar 27 02:30:25 2002] Perusa tells you, 'Sorry I died right'
+[Wed Mar 27 02:30:28 2002] Perusa says, 'r'
+[Wed Mar 27 02:30:38 2002] Searching zones for corpse of that name....
+[Wed Mar 27 02:30:39 2002] Corpse: Perusa's corpse0 in zone: warslikswood
+[Wed Mar 27 02:30:39 2002] Corpse: Perusa's corpse1 in zone: oot
+[Wed Mar 27 02:30:49 2002] You told Perusa, 'I see that, I'm sorry...'
+[Wed Mar 27 02:30:58 2002] Searching zones for corpse of that name....
+[Wed Mar 27 02:30:59 2002] Corpse: Bumbles's corpse0 in zone: tenebrous
+[Wed Mar 27 02:30:59 2002] Perusa tells you, 'NP it happens'
+[Wed Mar 27 02:31:02 2002] You GMSAY, 'zone'
+[Wed Mar 27 02:31:06 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 02:31:38 2002] You have entered The Tenebrous Mountains.
+[Wed Mar 27 02:31:39 2002] Jikalus tells you, 'k Thank you'
+[Wed Mar 27 02:31:39 2002] Espranza saved.
+[Wed Mar 27 02:31:43 2002] It begins to snow.
+[Wed Mar 27 02:31:49 2002] Perusa tells you, 'Thank you again'
+[Wed Mar 27 02:31:52 2002] Courier Balious begins to cast a spell. (Firefist)
+[Wed Mar 27 02:31:55 2002] Courier Balious's fist bursts into flame.
+[Wed Mar 27 02:32:03 2002] You told Perusa, 'certainly'
+[Wed Mar 27 02:32:14 2002] Teleporting to bumbles's corpse0.
+[Wed Mar 27 02:32:38 2002] USER TEXT: Hello, I was running through Tenebrous Mtns when I went LD a little while ago, when I logged back in it appeared that I had died, any chance of getting some assistance locating my corpse?
+[Wed Mar 27 02:33:04 2002] a coterie legionnaire begins to cast a spell. (Vampyre Invis)
+[Wed Mar 27 02:33:15 2002] You told Bumbles, '[queued], Hail, Bumbles! Senior Guide Espranza here. Your corpse is partially stuck in something, I am moving it out so it shows fully, but that is as much as I can do... '
+[Wed Mar 27 02:33:19 2002] Summoning Bumbles's corpse...
+[Wed Mar 27 02:33:25 2002] Summoning Bumbles's corpse...
+[Wed Mar 27 02:33:49 2002] DELETING THIS PETITION
+[Wed Mar 27 02:33:52 2002] Players in EverQuest:
+[Wed Mar 27 02:33:52 2002] ---------------------------
+[Wed Mar 27 02:33:52 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: tenebrous (USER PID B4KJ6E7)
+[Wed Mar 27 02:33:52 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:33:55 2002] You GMSAY, 'zone'
+[Wed Mar 27 02:33:58 2002] You begin casting Sunset Home.Item Cast Time (1000) (Sunset Home)
+[Wed Mar 27 02:33:58 2002] Your Belt of Translocation begins to glow.
+[Wed Mar 27 02:33:59 2002] LOADING, PLEASE WAIT...
+[Wed Mar 27 02:34:25 2002] You have entered Sunset Home.
+[Wed Mar 27 02:34:25 2002] Espranza saved.
+[Wed Mar 27 02:34:29 2002] It begins to rain.
+[Wed Mar 27 02:34:48 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:34:48 2002] USER TEXT: gm does the sporali moldmaster despawn after a certain amount of time because it despawned or dissapeared when i enterred the area
+[Wed Mar 27 02:34:49 2002] Players in EverQuest:
+[Wed Mar 27 02:34:49 2002] ---------------------------
+[Wed Mar 27 02:34:49 2002] [54 Wanderer] Jeevess (Wood Elf) <Wraith Lords> ZONE: misty (USER PID FW3521A)
+[Wed Mar 27 02:34:49 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:35:13 2002] Bumbles tells you, 'fair enough, was I correct in guessing it landed in the eastern part of the zone?'
+[Wed Mar 27 02:35:42 2002] You told Jeevess, 'Hail, Jeevess! Senior Guide Espranza here. I'm sorry, I'm not allowed to give out spawn information. You might ask others if this behavior is normal. I will say it doesn't seem broken.'
+[Wed Mar 27 02:35:47 2002] DELETING THIS PETITION
+[Wed Mar 27 02:36:11 2002] You told Bumbles, 'I don't know, actually, I ported straight to your corpse and nudged it out of what it was stuck in...'
+[Wed Mar 27 02:36:13 2002] Jeevess tells you, 'was just wondering because it either despawned or a twinked 29 druid ks'd me on it'
+[Wed Mar 27 02:36:28 2002] Bumbles tells you, 'OK'
+[Wed Mar 27 02:36:34 2002] You told Jeevess, 'I think I can assure you a 29 druid would not kill it solo...'
+[Wed Mar 27 02:36:41 2002] Jeevess tells you, 'yes i agree'
+[Wed Mar 27 02:37:11 2002] You GMSAY, 'night all'
+[Wed Mar 27 02:37:13 2002] Jeevess tells you, 'just had never seen it dissapear without being aggroed '
+[Wed Mar 27 02:37:14 2002] Players in EverQuest:
+[Wed Mar 27 02:37:14 2002] ---------------------------
+[Wed Mar 27 02:37:14 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Wed Mar 27 02:37:14 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:37:18 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Mar 27 02:37:19 2002] USER TEXT: I cant leave a clan/guild, how do i do that?
+[Wed Mar 27 02:37:19 2002] Players in EverQuest:
+[Wed Mar 27 02:37:19 2002] ---------------------------
+[Wed Mar 27 02:37:19 2002] [22 Monk] Cantaray (Human) <Clan of Zoit> ZONE: nro (USER PID F5RDH35)
+[Wed Mar 27 02:37:19 2002] There is 1 player in EverQuest.
+[Wed Mar 27 02:37:22 2002] Jeevess tells you, 'ty for your assistance'
+[Wed Mar 27 02:37:27 2002] You told Jeevess, 'sure thing - be well!'
+[Wed Mar 27 02:37:44 2002] You told Cantaray, 'Hail, Cantaray! Senior Guide Espranza here. Target yourself and type /guildremove.'
+[Wed Mar 27 02:38:01 2002] DELETING THIS PETITION
+[Wed Mar 27 02:38:04 2002] It will take you about 30 seconds to prepare your camp.
+[Wed Mar 27 02:38:08 2002] It will take about 25 more seconds to prepare your camp.
+[Wed Mar 27 02:38:08 2002] You GMSAY, 'really off now'
+[Wed Mar 27 02:38:13 2002] It will take about 20 more seconds to prepare your camp.
+[Wed Mar 27 02:38:18 2002] It will take about 15 more seconds to prepare your camp.
+[Wed Mar 27 02:38:23 2002] It will take about 10 more seconds to prepare your camp.
+[Wed Mar 27 02:38:25 2002] Jeevess tells you, 'hmmmm are you kos in runnyeye hehe i need some small pieces of high quality ore and im kos to the bartender LOL'
+[Wed Mar 27 02:38:29 2002] It will take about 5 more seconds to prepare your camp.
+[Wed Mar 27 02:38:31 2002] You abandon your preparations to camp.
+[Wed Mar 27 02:38:34 2002] It will take you about 30 seconds to prepare your camp.
+[Wed Mar 27 02:38:38 2002] It will take about 25 more seconds to prepare your camp.
+[Wed Mar 27 02:38:43 2002] It will take about 20 more seconds to prepare your camp.
+[Wed Mar 27 02:38:48 2002] It will take about 15 more seconds to prepare your camp.
+[Wed Mar 27 02:38:52 2002] You told Jeevess, 'You'll need to ask a player to help, I'm afraid'
+[Wed Mar 27 02:38:54 2002] It will take about 10 more seconds to prepare your camp.
+[Wed Mar 27 02:38:59 2002] It will take about 5 more seconds to prepare your camp.

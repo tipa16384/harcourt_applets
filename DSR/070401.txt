@@ -1,0 +1,552 @@
+[Wed Jul 04 10:50:19 2001] Logging to 'eqlog.txt' is now *ON*.
+[Wed Jul 04 10:50:23 2001] Players in EverQuest:
+[Wed Jul 04 10:50:23 2001] ---------------------------
+[Wed Jul 04 10:50:23 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: oot (USER PID AUGBQH4)
+[Wed Jul 04 10:50:23 2001] There is 1 player in EverQuest.
+[Wed Jul 04 10:50:23 2001] Syphkon shouts, 'Need tp to WC, will pay'
+[Wed Jul 04 10:50:27 2001] You GMSAY, 'anyone on?'
+[Wed Jul 04 10:50:29 2001] You GMSAY, 'zone'
+[Wed Jul 04 10:50:32 2001] LOADING, PLEASE WAIT...
+[Wed Jul 04 10:50:54 2001] You have entered Sunset Home.
+[Wed Jul 04 10:51:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 10:51:19 2001] USER TEXT: how do I leave a guild?
+[Wed Jul 04 10:51:19 2001] Players in EverQuest:
+[Wed Jul 04 10:51:20 2001] ---------------------------
+[Wed Jul 04 10:51:20 2001] [19 Warrior] Mictian (Barbarian) ZONE: nro (USER PID AUN2YJP)
+[Wed Jul 04 10:51:20 2001] There is 1 player in EverQuest.
+[Wed Jul 04 10:51:56 2001] You told Mictian, 'Hail, Mictian! Guide Espranza here... I see you've found out how to leave a guild :) but just in case, target yourself and type /guildremove.'
+[Wed Jul 04 10:52:20 2001] Mictian tells you, 'thank you for your help.  )'
+[Wed Jul 04 10:52:26 2001] You told Mictian, 'okay, be well!'
+[Wed Jul 04 10:52:29 2001] DELETING THIS PETITION
+[Wed Jul 04 10:52:31 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 10:52:32 2001] USER TEXT: Hi... i would GREATLY appreciate it if I could get my last name erased
+[Wed Jul 04 10:52:32 2001] Players in EverQuest:
+[Wed Jul 04 10:52:32 2001] ---------------------------
+[Wed Jul 04 10:52:32 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 04 10:52:55 2001] Kindaara tells you, 'hi ya i know i am not surposed to send dirrect tell but i am curious i thought you were supposed to have fletching kits in felwithe bane and there are not any.....did you guys take them for a reason or is it a bug?'
+[Wed Jul 04 10:53:07 2001] You GMSAY, '<note badname> Krotchie BUWCPX3 - petitioned to have last name removed, can't imagine what that might be, given his first!'
+[Wed Jul 04 10:54:13 2001] You told Kindaara, 'I don't know if they were ever available in Felwithe or not; considering no classes that start in Felwithe can use arrows, I would think it unlikely... I don't know if they were there and removed though.'
+[Wed Jul 04 10:54:19 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Jul 04 10:54:20 2001] CHECKING IN
+[Wed Jul 04 10:54:22 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 10:54:23 2001] USER TEXT: oh my god i need help ! i went ld at the gnome camp in ice clad and now im in the middle of the ocean...any help is greatly accepted !!!!!
+[Wed Jul 04 10:54:23 2001] Players in EverQuest:
+[Wed Jul 04 10:54:23 2001] ---------------------------
+[Wed Jul 04 10:54:23 2001] [31 Shadow Knight] Gervais (Iksar) ZONE: iceclad (USER PID EWQE2WL)
+[Wed Jul 04 10:54:23 2001] There is 1 player in EverQuest.
+[Wed Jul 04 10:54:47 2001] You told Gervais, 'Hail, Gervais! Guide Espranza here. Are you still swimming in that cold ocean?'
+[Wed Jul 04 10:55:05 2001] Gervais tells you, 'no...i actually after about 30 min found land '
+[Wed Jul 04 10:55:06 2001] Kindaara tells you, 'ohh ok thank you....it was listed in the guidebook they were here so i was just gonna ask....thanks anyway.  =)'
+[Wed Jul 04 10:55:18 2001] You told Gervais, 'Okay - phew! be well!'
+[Wed Jul 04 10:55:26 2001] Gervais tells you, 'you too ! and thx for your help'
+[Wed Jul 04 10:55:37 2001] You told Kindaara, 'I think you'd have better luck in Kelethin'
+[Wed Jul 04 10:55:44 2001] You told Gervais, 'Anytime!'
+[Wed Jul 04 10:55:47 2001] Kindaara tells you, 'thank you.'
+[Wed Jul 04 10:55:59 2001] DELETING THIS PETITION
+[Wed Jul 04 10:56:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 10:56:01 2001] USER TEXT: How do I set the default walk/run to always run?
+[Wed Jul 04 10:56:02 2001] Players in EverQuest:
+[Wed Jul 04 10:56:02 2001] ---------------------------
+[Wed Jul 04 10:56:02 2001] [13 Paladin] Danddy (Dwarf) ZONE: ecommons (USER PID CXPD8W2)
+[Wed Jul 04 10:56:02 2001] There is 1 player in EverQuest.
+[Wed Jul 04 10:56:56 2001] You feel as if you are about to fall.
+[Wed Jul 04 10:57:02 2001] You feel as if you are about to fall.
+[Wed Jul 04 10:57:08 2001] You can no longer levitate.
+[Wed Jul 04 10:57:30 2001] You told Danddy, 'Hail, Danddy! Guide Espranza here. In your EQCLIENT.INI file - which is in your Everquest folder - is a line which I believe says RUN=OFF (or something similar). Change it to ON.'
+[Wed Jul 04 10:59:00 2001] Danddy tells you, 'Thanks MUCH!'
+[Wed Jul 04 10:59:10 2001] You told Danddy, 'okay, be well!'
+[Wed Jul 04 10:59:12 2001] DELETING THIS PETITION
+[Wed Jul 04 10:59:14 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 10:59:15 2001] USER TEXT: turning myself in for a bad surname choice so I wont get in trouble later hopefully =)
+[Wed Jul 04 10:59:15 2001] Players in EverQuest:
+[Wed Jul 04 10:59:15 2001] ---------------------------
+[Wed Jul 04 10:59:15 2001] [ANON (60 High Priest)] Grumbler (Dwarf) ZONE: velketor (USER PID AR08AUG)
+[Wed Jul 04 10:59:15 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:00:00 2001] You told Grumbler, 'Hail, Grumbler! Guide Espranza here. There is no guide or GM on now who can change your name... what is it?'
+[Wed Jul 04 11:00:12 2001] Grumbler tells you, 'dont get mad at me?'
+[Wed Jul 04 11:00:21 2001] You told Grumbler, 'promise )'
+[Wed Jul 04 11:00:27 2001] Grumbler tells you, 'Eaglefinger'
+[Wed Jul 04 11:00:33 2001] You told Grumbler, 'LOL!'
+[Wed Jul 04 11:00:54 2001] Grumbler tells you, 'I like it, but afraig the gm would not.'
+[Wed Jul 04 11:00:56 2001] Espranza saved.
+[Wed Jul 04 11:01:08 2001] Grumbler tells you, 'afraid...'
+[Wed Jul 04 11:01:08 2001] You told Grumbler, 'no, dont suppose he would'
+[Wed Jul 04 11:01:39 2001] You told Grumbler, 'I'll leave a note for it to be changed'
+[Wed Jul 04 11:01:50 2001] Grumbler tells you, 'tell him I turned myself in please =)'
+[Wed Jul 04 11:02:01 2001] You GMSAY, '<note badname> Grumbler Eaglefinger AR08AUG turned himself in'
+[Wed Jul 04 11:02:14 2001] You told Grumbler, 'no worries - you don't get warnings or anything like that'
+[Wed Jul 04 11:02:46 2001] DELETING THIS PETITION
+[Wed Jul 04 11:02:53 2001] You told Grumbler, 'they just change it'
+[Wed Jul 04 11:03:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:03:37 2001] USER TEXT: i think you should make a banker in South Karana lol
+[Wed Jul 04 11:03:37 2001] Players in EverQuest:
+[Wed Jul 04 11:03:37 2001] ---------------------------
+[Wed Jul 04 11:03:37 2001] [27 Warrior] Wadari (Half Elf) <Legacy of Pain> ZONE: southkarana (USER PID AU3GBQ3)
+[Wed Jul 04 11:03:37 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:04:29 2001] Grumbler tells you, 'gota admit it is a good last name for me though ='
+[Wed Jul 04 11:04:41 2001] You told Grumbler, 'weeeellll I don't know you well enough to say'
+[Wed Jul 04 11:05:19 2001] You told Wadari, 'Hail, Wadari! Guide Espranza here... geez, dozens of bankers in and out of there all the time when I grouped there!'
+[Wed Jul 04 11:05:31 2001] DELETING THIS PETITION
+[Wed Jul 04 11:05:33 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:05:34 2001] USER TEXT: Question: I fell into the zone The Hole by pure mistake with my lvl 12 alt, is there a way to get my stuff back?
+[Wed Jul 04 11:05:34 2001] Players in EverQuest:
+[Wed Jul 04 11:05:34 2001] ---------------------------
+[Wed Jul 04 11:05:34 2001] [30 Warrior] Niare (Barbarian) <Hunters of the Undead> ZONE: northkarana (USER PID GWB191C)
+[Wed Jul 04 11:05:34 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:05:46 2001] Wadari tells you, 'oh i mean like a NPC banker'
+[Wed Jul 04 11:06:28 2001] You told Wadari, 'yeah, I know, was just kidding... well, you can leave feedback for Verant with the /feedback command'
+[Wed Jul 04 11:06:44 2001] Wadari tells you, 'ok thanks alot'
+[Wed Jul 04 11:06:48 2001] You told Wadari, 'be well!'
+[Wed Jul 04 11:06:54 2001] Wadari tells you, 'u too'
+[Wed Jul 04 11:08:35 2001] You told Niare, 'Hail, Niare! Guide Espranza here. This is painful to say, but we're not allowed to drag corpses from the Hole. I'm afraid your best bet is to get a necromancer to summon it out, or to find a Brell-worshipping rogue to drag it out for you.'
+[Wed Jul 04 11:09:28 2001] Niare tells you, 'Ok thank you I expected to loose it anyway but atleast I have an option, thanx again and have a good day'
+[Wed Jul 04 11:09:58 2001] You told Niare, 'you too! and good luck!'
+[Wed Jul 04 11:10:03 2001] DELETING THIS PETITION
+[Wed Jul 04 11:10:05 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:10:06 2001] USER TEXT: help i fell off the boat i dont know how
+[Wed Jul 04 11:10:06 2001] Players in EverQuest:
+[Wed Jul 04 11:10:06 2001] ---------------------------
+[Wed Jul 04 11:10:06 2001] [11 Ranger] Maedrose (Wood Elf) ZONE: oot (USER PID HZWQ3GC)
+[Wed Jul 04 11:10:06 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:10:23 2001] You told Maedrose, 'Hail, Maedrose! Guide Espranza here. Are you still lost within the Ocean of Tears?'
+[Wed Jul 04 11:10:53 2001] Searching zones for corpse of that name....
+[Wed Jul 04 11:10:58 2001] Players in EverQuest:
+[Wed Jul 04 11:10:58 2001] ---------------------------
+[Wed Jul 04 11:10:58 2001] [11 Ranger] Maedrose (Wood Elf) ZONE: oot (USER PID HZWQ3GC)
+[Wed Jul 04 11:10:58 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:11:04 2001] You feel the spirit of Norrath enter you.
+[Wed Jul 04 11:11:04 2001] Espranza saved.
+[Wed Jul 04 11:11:05 2001] Your feet leave the ground.
+[Wed Jul 04 11:11:13 2001] Maedrose tells you, 'i am at -4200,-4700 swimming away am i going riht goihg east'
+[Wed Jul 04 11:11:24 2001] You GMSAY, 'zone'
+[Wed Jul 04 11:11:28 2001] Teleporting to maedrose.
+[Wed Jul 04 11:11:29 2001] LOADING, PLEASE WAIT...
+[Wed Jul 04 11:12:12 2001] You have entered Ocean of Tears.
+[Wed Jul 04 11:12:43 2001] You GMSAY, 'zone'
+[Wed Jul 04 11:12:46 2001] LOADING, PLEASE WAIT...
+[Wed Jul 04 11:13:16 2001] You have entered Ocean of Tears.
+[Wed Jul 04 11:13:31 2001] Summoning maedrose.
+[Wed Jul 04 11:13:54 2001] You told Maedrose, 'Dry off now!'
+[Wed Jul 04 11:13:58 2001] DELETING THIS PETITION
+[Wed Jul 04 11:14:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:14:01 2001] USER TEXT: When I log in or zone the message I get says that I have tried to strike someone in the zone?
+[Wed Jul 04 11:14:01 2001] Players in EverQuest:
+[Wed Jul 04 11:14:01 2001] ---------------------------
+[Wed Jul 04 11:14:01 2001] [13 Magician] Armadie (Human) <Heroic Elites> ZONE: ecommons (USER PID BU1MY8F)
+[Wed Jul 04 11:14:01 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:14:07 2001] Maedrose tells you, 'current loc -4400, -5700 going thanks a million'
+[Wed Jul 04 11:14:33 2001] Acadia tells you, 'can you help me I am stuck in the middle of the ocean in TD  after gettig bumped off the boat '
+[Wed Jul 04 11:14:59 2001] Maedrose tells you, 'really thank you i am 45 and not given to fear but i was really afraid for a moment what a great game experience one i promise not to repeat'
+[Wed Jul 04 11:15:16 2001] You told Maedrose, 'Heh... I'm glad you could see a positive side to that'
+[Wed Jul 04 11:15:23 2001] You told Acadia, 'Please petition and I will be right with you'
+[Wed Jul 04 11:16:04 2001] You told Armadie, 'Armadie is not online at this time.'
+[Wed Jul 04 11:16:38 2001] Acadia tells you, 'i have petitioned '
+[Wed Jul 04 11:16:39 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Jul 04 11:16:41 2001] CHECKING IN
+[Wed Jul 04 11:16:50 2001] You told Acadia, 'okay, I see it'
+[Wed Jul 04 11:16:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:16:53 2001] USER TEXT: Hi... i would GREATLY appreciate it if I could get my last name erased
+[Wed Jul 04 11:16:53 2001] Players in EverQuest:
+[Wed Jul 04 11:16:53 2001] ---------------------------
+[Wed Jul 04 11:16:53 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 04 11:16:56 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Jul 04 11:16:58 2001] CHECKING IN
+[Wed Jul 04 11:17:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:17:09 2001] USER TEXT: is there any sertain lvl you have to be to get married
+[Wed Jul 04 11:17:09 2001] Players in EverQuest:
+[Wed Jul 04 11:17:09 2001] ---------------------------
+[Wed Jul 04 11:17:09 2001] [10 Shaman] Macrros (Barbarian) <Verdant Force> ZONE: kithicor (USER PID DVJPL3B)
+[Wed Jul 04 11:17:09 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:18:00 2001] You told Macrros, 'Hail, Macrros! Guide Espranza here. No, there's no certain level you need to be to get married... just have to have a partner, a date, place and time :)'
+[Wed Jul 04 11:18:21 2001] DELETING THIS PETITION
+[Wed Jul 04 11:18:22 2001] Macrros tells you, 'hehe many thanks M'lord'
+[Wed Jul 04 11:18:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:18:23 2001] USER TEXT: hello i fell of the boat in Timorus deep and In the middle of the ocean 
+[Wed Jul 04 11:18:24 2001] Players in EverQuest:
+[Wed Jul 04 11:18:24 2001] ---------------------------
+[Wed Jul 04 11:18:24 2001] [31 Ranger] Acadia (Half Elf) <Clan of Morning Star> ZONE: timorous (USER PID CZJNC3X)
+[Wed Jul 04 11:18:24 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:18:32 2001] You told Macrros, 'anytime!'
+[Wed Jul 04 11:18:41 2001] You told Acadia, 'Hail, Acadia! Guide Espranza here... be right there!'
+[Wed Jul 04 11:18:43 2001] You GMSAY, 'zone'
+[Wed Jul 04 11:18:47 2001] Acadia tells you, 'ok thank you '
+[Wed Jul 04 11:18:49 2001] Teleporting to acadia.
+[Wed Jul 04 11:18:49 2001] LOADING, PLEASE WAIT...
+[Wed Jul 04 11:19:39 2001] You have entered Timorous Deep.
+[Wed Jul 04 11:19:56 2001] Searching for an_elven_ranger00.
+[Wed Jul 04 11:19:56 2001] Player is in zone timorous at x = -5118 y = -3536 z = 18.
+[Wed Jul 04 11:19:57 2001] Teleporting to an_elven_ranger00 (-5117.00, -3535.00,  18.70).
+[Wed Jul 04 11:20:19 2001] Summoning acadia.
+[Wed Jul 04 11:20:33 2001] DELETING THIS PETITION
+[Wed Jul 04 11:20:39 2001] You say, 'Hiya!'
+[Wed Jul 04 11:20:56 2001] You told acadia, 'the shuttle is over here'
+[Wed Jul 04 11:21:03 2001] Acadia tells you, 'I was trying to get to BB '
+[Wed Jul 04 11:21:19 2001] You told Acadia, 'cool - the next stop after this goes to BB'
+[Wed Jul 04 11:21:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:21:30 2001] Acadia tells you, 'cool thank you very much '
+[Wed Jul 04 11:21:31 2001] USER TEXT: How do you respond to an NPC quest using the bracketed words? i.e., is it /tell, or / their name, or what?  thanks
+[Wed Jul 04 11:21:31 2001] Players in EverQuest:
+[Wed Jul 04 11:21:31 2001] ---------------------------
+[Wed Jul 04 11:21:31 2001] [4 Ranger] Arcanis (Half Elf) <Clan of the White Wolf> ZONE: qeytoqrg (USER PID FVXQ9RP)
+[Wed Jul 04 11:21:31 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:21:35 2001] You told Acadia, 'be well!'
+[Wed Jul 04 11:21:52 2001] Acadia tells you, 'you to good hunting to you '
+[Wed Jul 04 11:23:06 2001] You told Arcanis, 'Hail, Arcanis! Guide Espranza here. Just target the NPC and use /say and you should be well on your way.'
+[Wed Jul 04 11:23:56 2001] DELETING THIS PETITION
+[Wed Jul 04 11:23:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:23:59 2001] USER TEXT: just wondering if there's a way to turn off sounds completely? I'm hoping to free up ram for more smoothness
+[Wed Jul 04 11:23:59 2001] Players in EverQuest:
+[Wed Jul 04 11:23:59 2001] ---------------------------
+[Wed Jul 04 11:23:59 2001] [ANON (52 Wanderer)] Tompo (Wood Elf) ZONE: ecommons (USER PID HUC52M9)
+[Wed Jul 04 11:23:59 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:24:50 2001] You told Tompo, 'Hail, Tompo! Guide Espranza here. The only way I know of to turn off sounds completely if by using the Options -> General panel and setting all sounds off.'
+[Wed Jul 04 11:25:04 2001] You feel as if you are about to fall.
+[Wed Jul 04 11:25:10 2001] You feel as if you are about to fall.
+[Wed Jul 04 11:25:14 2001] Players in EverQuest:
+[Wed Jul 04 11:25:14 2001] ---------------------------
+[Wed Jul 04 11:25:14 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: timorous (USER PID AUGBQH4)
+[Wed Jul 04 11:25:14 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:25:16 2001] DELETING THIS PETITION
+[Wed Jul 04 11:25:17 2001] You can no longer levitate.
+[Wed Jul 04 11:25:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:25:29 2001] USER TEXT: When I log in or zone the message I get says that I have tried to strike someone in the zone?
+[Wed Jul 04 11:25:29 2001] Players in EverQuest:
+[Wed Jul 04 11:25:29 2001] ---------------------------
+[Wed Jul 04 11:25:29 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 04 11:25:33 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Jul 04 11:25:36 2001] CHECKING IN
+[Wed Jul 04 11:25:38 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:25:38 2001] USER TEXT: Hi... i would GREATLY appreciate it if I could get my last name erased
+[Wed Jul 04 11:25:38 2001] Players in EverQuest:
+[Wed Jul 04 11:25:38 2001] ---------------------------
+[Wed Jul 04 11:25:38 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 04 11:25:53 2001] You GMSAY, 'Krotchie unavail 3 ***flush***'
+[Wed Jul 04 11:25:55 2001] DELETING THIS PETITION
+[Wed Jul 04 11:26:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:26:00 2001] USER TEXT: i lost my ghoulbane lding and now i cant find where it is
+[Wed Jul 04 11:26:00 2001] Players in EverQuest:
+[Wed Jul 04 11:26:00 2001] ---------------------------
+[Wed Jul 04 11:26:00 2001] [21 Paladin] Xban (Dwarf) <Seekers of the Path> ZONE: northkarana (USER PID DXST9U4)
+[Wed Jul 04 11:26:00 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:27:33 2001] You told Xban, 'Hail, Xban! Guide Espranza here. The ghoulbane was in your hand at the time, and you weren't trading it?'
+[Wed Jul 04 11:27:54 2001] Xban tells you, 'was in my hand '
+[Wed Jul 04 11:28:21 2001] Xban tells you, 'i had a sheild to its still there'
+[Wed Jul 04 11:28:40 2001] You told Xban, 'okay... hmm! Well, the GM won't be on today, though I will leave a note for him. Best to petition tomorrow after 3pm Pacific time and he will see to your reimbursement.'
+[Wed Jul 04 11:28:58 2001] Nelsonox says out of character, 'anyone on golras ?'
+[Wed Jul 04 11:29:11 2001] Xban tells you, 'ok but what if it he will not do that'
+[Wed Jul 04 11:29:19 2001] You GMSAY, '<note gm> Xban DXST9U4 went link dead and when he came back, his ghoulbane was gone.'
+[Wed Jul 04 11:29:42 2001] Espranza saved.
+[Wed Jul 04 11:29:58 2001] You told Xban, 'Well, it is up to him, but if it was a legitimate loss I'm sure he'll help you.'
+[Wed Jul 04 11:30:11 2001] DELETING THIS PETITION
+[Wed Jul 04 11:30:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:30:14 2001] USER TEXT: My COH did not deagro when i used it... was that part of last patch? If this is the case, how do I put in a complaint about the change? COH only reason i stayed mag past lvl 40.
+[Wed Jul 04 11:30:14 2001] Players in EverQuest:
+[Wed Jul 04 11:30:14 2001] ---------------------------
+[Wed Jul 04 11:30:14 2001] [55 Conjurer] Libre (Human) <Legions of Valhalla> ZONE: oot (USER PID DQKFAB8)
+[Wed Jul 04 11:30:14 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:30:47 2001] Xban tells you, 'ok thank ye m'lady ye are most kind'
+[Wed Jul 04 11:31:05 2001] You told Libre, 'Hail, Libre! Guide Espranza here. I think the last patch or the one before removed the aggro wiping properties of CotH for short range summons, though longer range ones still do wipe aggro.'
+[Wed Jul 04 11:31:12 2001] You told Xban, 'thank you! be well and best of luck.'
+[Wed Jul 04 11:31:49 2001] Xban tells you, 'and ta ye have a good 4th'
+[Wed Jul 04 11:32:08 2001] You told Xban, 'you too!'
+[Wed Jul 04 11:32:34 2001] Libre tells you, 'i was on a whole other island than the mob when i cast it on myself... i think i know what happenned then... after it said i was summoned i seen that my pet still got in one more hit... that must have reagroed him.'
+[Wed Jul 04 11:32:43 2001] Xban tells you, 'lol 36 hours of no sleep trying to remmber what i was on for '
+[Wed Jul 04 11:33:00 2001] Torsen shouts, 'any ogre hunting groups need a level 21 warrior?'
+[Wed Jul 04 11:33:09 2001] You told Libre, 'Ah, nasty... hope it still works for you then...!'
+[Wed Jul 04 11:33:21 2001] Libre tells you, 'thanks for info.'
+[Wed Jul 04 11:33:32 2001] You told Libre, 'anytime. be well!'
+[Wed Jul 04 11:33:36 2001] DELETING THIS PETITION
+[Wed Jul 04 11:33:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:33:38 2001] USER TEXT: When I log in or zone the message I get says that I have tried to strike someone in the zone?
+[Wed Jul 04 11:33:38 2001] Players in EverQuest:
+[Wed Jul 04 11:33:38 2001] ---------------------------
+[Wed Jul 04 11:33:38 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 04 11:33:45 2001] Cassandramarie says out of character, 'Is anyone camping Oowomp?'
+[Wed Jul 04 11:33:49 2001] You GMSAY, 'Armadie unavail 3 ****flush****'
+[Wed Jul 04 11:33:51 2001] DELETING THIS PETITION
+[Wed Jul 04 11:33:56 2001] Saeaddilzz says out of character, 'yes'
+[Wed Jul 04 11:34:00 2001] Cassandramarie says out of character, 'Good!'
+[Wed Jul 04 11:34:03 2001] Cassandramarie says out of character, 'Hehe'
+[Wed Jul 04 11:34:12 2001] Crimzon says out of character, 'on the boat again....just cant wait to be on the boat again....'
+[Wed Jul 04 11:34:16 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 11:34:16 2001] USER TEXT: Syruslight is trying to steal my kills at orc 2 in EC and is harrassing me in ooc and via tell
+[Wed Jul 04 11:34:17 2001] Players in EverQuest:
+[Wed Jul 04 11:34:17 2001] ---------------------------
+[Wed Jul 04 11:34:17 2001] [ANON (13 Enchanter)] Nissas (Gnome) ZONE: ecommons (USER PID DYXJL82)
+[Wed Jul 04 11:34:17 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:34:25 2001] You GMSAY, 'zone and hiding'
+[Wed Jul 04 11:34:32 2001] Acadia says out of character, 'LOL'
+[Wed Jul 04 11:34:34 2001] LOADING, PLEASE WAIT...
+[Wed Jul 04 11:35:15 2001] You have entered East Commonlands.
+[Wed Jul 04 11:35:21 2001] Espranza is now Invisible.
+[Wed Jul 04 11:35:21 2001] You are now anonymous.
+[Wed Jul 04 11:35:24 2001] You begin to sneak...
+[Wed Jul 04 11:35:25 2001] You are as quiet as a herd of running elephants.
+[Wed Jul 04 11:35:30 2001] Teleporting to nissas.
+[Wed Jul 04 11:35:36 2001] Syruslight shouts, 'level 11 warrior LFG'
+[Wed Jul 04 11:36:05 2001] Nissas's spell fizzles!
+[Wed Jul 04 11:36:19 2001] USER TEXT: Syruslight is trying to steal my kills at orc 2 in EC and is harrassing me in ooc and via tell
+[Wed Jul 04 11:36:19 2001] Zahn shouts, 'anyone making banded?'
+[Wed Jul 04 11:36:19 2001] orc centurion has been slain by orc centurion!
+[Wed Jul 04 11:36:19 2001] orc centurion says 'For the glory of the Deathfist Magistrate and all of Clan Deathfist!! 
+[Wed Jul 04 11:36:19 2001] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. 
+[Wed Jul 04 11:36:24 2001] Players in EverQuest:
+[Wed Jul 04 11:36:24 2001] ---------------------------
+[Wed Jul 04 11:36:24 2001] [11 Warrior] Syruslight (Human) <Guardians of Dragons> ZONE: ecommons (USER PID BUM12E7)
+[Wed Jul 04 11:36:24 2001] There is 1 player in EverQuest.
+[Wed Jul 04 11:36:32 2001] Teleporting to syruslight.
+[Wed Jul 04 11:36:36 2001] Azash begins to cast a spell. (Tashan)
+[Wed Jul 04 11:36:41 2001] Amenalyn begins to cast a spell. (Suffocating Sphere)
+[Wed Jul 04 11:36:42 2001] Syruslight says, 'but i see your group is full'
+[Wed Jul 04 11:36:48 2001] Azash begins to cast a spell. (Enfeeblement)
+[Wed Jul 04 11:36:53 2001] Kunis shouts, 'need a bind at FP, please tell me'
+[Wed Jul 04 11:36:53 2001] Azash begins to cast a spell. (Chaotic Feedback)
+[Wed Jul 04 11:36:54 2001] Zolander says, 'Well, keep on helping....you want to kiss up to the elder, go for it'
+[Wed Jul 04 11:36:56 2001] Amenalyn begins to cast a spell. (Suffocating Sphere)
+[Wed Jul 04 11:37:02 2001] Amenalyn begins to cast a spell. (Mircyl's Animation)
+[Wed Jul 04 11:37:03 2001] Zolander says, 'Aye, we got a good group of 6 now'
+[Wed Jul 04 11:37:04 2001] Syruslight says, 'so ima pull em on my own when my life gets up'
+[Wed Jul 04 11:37:18 2001] Quizzle begins to cast a spell. (Snare)
+[Wed Jul 04 11:37:18 2001] Rapturre shouts, 'Level 8 warrior LFG or partner'
+[Wed Jul 04 11:37:29 2001] You told Nissas, 'Hail, Nissas! Guide Espranza here... looks like Syruslight is off at the other orc camp now...'
+[Wed Jul 04 11:37:30 2001] Amenalyn begins to cast a spell. (Suffocating Sphere)
+[Wed Jul 04 11:37:40 2001] Zolander begins to cast a spell. (Fire Bolt)
+[Wed Jul 04 11:37:40 2001] Kunis shouts, 'need a bind at FP, please tell me'
+[Wed Jul 04 11:37:47 2001] Syruslight says, 'hey i was here first with rajin. we had the right to pull on own. rajin was here befor ethe group was started.'
+[Wed Jul 04 11:37:48 2001] Whitlok says out of character, 'do I sell lightstones to players to to NPC's?'
+[Wed Jul 04 11:37:52 2001] Zolander begins to cast a spell. (Fire Bolt)
+[Wed Jul 04 11:37:52 2001] Amenalyn begins to cast a spell. (Suffocating Sphere)
+[Wed Jul 04 11:37:58 2001] Amenalyn begins to cast a spell. (Suffocating Sphere)
+[Wed Jul 04 11:37:59 2001] DELETING THIS PETITION
+[Wed Jul 04 11:37:59 2001] Nissas tells you, 'But now rajin is here taking all my kills, I was going to share but they just came in and tried to take it over'
+[Wed Jul 04 11:38:05 2001] Bigbash shouts, 'Anyone have a quickness buff they can cast on me fer donation?'
+[Wed Jul 04 11:38:11 2001] Sundiere says out of character, 'Need help, Anyone know the way to qeynos? lol'
+[Wed Jul 04 11:38:13 2001] Bigbash shouts, 'Plz'
+[Wed Jul 04 11:38:16 2001] Quizzle says, 'and the holy god was when all the world started'
+[Wed Jul 04 11:38:25 2001] You told Nissas, 'heh... weird... Syruslight over here saying he and Rajin have this camp.'
+[Wed Jul 04 11:38:35 2001] Kunis shouts, 'need a bind at FP, please tell me'
+[Wed Jul 04 11:38:53 2001] Zolander says, 'And I am not going argue any more with you Syrus, you didnt listen before, you not now...you proofed yourself, when you disbanded group, and started pulling orcs for elder, didnt care about group then'
+[Wed Jul 04 11:38:55 2001] Aryel shouts, 'PC on JCP'
+[Wed Jul 04 11:39:08 2001] Nissas tells you, 'Well Rajin is at camp 2, he's level 29 and he is pulling non stop'
+[Wed Jul 04 11:39:08 2001] Zolander begins to cast a spell. (Fire Bolt)
+[Wed Jul 04 11:39:14 2001] Teleporting to rajin.
+[Wed Jul 04 11:39:16 2001] Waluen says out of character, '33/49 +20 mana'
+[Wed Jul 04 11:39:18 2001] Nissas tells you, 'Syruslight is on ignore, I'm not sure what he's doing'
+[Wed Jul 04 11:39:24 2001] Hazim shouts, 'can i get a sow for a corpse run in befallen'
+[Wed Jul 04 11:39:36 2001] Nissas tells you, 'But that's ok, I can deal with it I didn't think Syruslight would just leave, thanks ;)'
+[Wed Jul 04 11:39:37 2001] Hazim shouts, 'at tunnel ent'
+[Wed Jul 04 11:40:30 2001] Sundiere says out of character, 'Need directions to Qeynos plz,  maps are confusing'
+[Wed Jul 04 11:40:32 2001] You told Nissas, 'I'll keep watching...'
+[Wed Jul 04 11:40:36 2001] Nissas tells you, 'k'
+[Wed Jul 04 11:40:54 2001] Rapturre shouts, 'Level 8 warrior LFG or partner'
+[Wed Jul 04 11:41:37 2001] Sundiere says out of character, 'Do I have to go through Oasis to get to Qeynos?'
+[Wed Jul 04 11:41:38 2001] You must be on the 1st menu screen to leave GM mode.
+[Wed Jul 04 11:41:41 2001] You told o, 'o is not online at this time.'
+[Wed Jul 04 11:41:47 2001] Espranza is now Visible.
+[Wed Jul 04 11:41:49 2001] You are no longer anonymous.
+[Wed Jul 04 11:41:56 2001] Sarol shouts, 'selling arrows, damage 1 range 50, perfect for the'
+[Wed Jul 04 11:41:56 2001] You say, 'Hi guys!'
+[Wed Jul 04 11:41:57 2001] Rajin says, 'nissas i want to camp here for the belt,'
+[Wed Jul 04 11:41:58 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Wed Jul 04 11:41:59 2001] Azash says out of character, 'no, go through kith forest'
+[Wed Jul 04 11:41:59 2001] Nissas begins to cast a spell. (Charm)
+[Wed Jul 04 11:42:02 2001] orc centurion says 'Centurions!! Attack!! 
+[Wed Jul 04 11:42:08 2001] Sundiere says out of character, 'TY Azash'
+[Wed Jul 04 11:42:08 2001] Rajin says, 'Hail, Espranza'
+[Wed Jul 04 11:42:10 2001] Nissas begins to cast a spell. (Color Flux)
+[Wed Jul 04 11:42:11 2001] Orc centurion is stunned by scintillating colors.
+[Wed Jul 04 11:42:14 2001] Sarol shouts, 'new archer, 2 gp per stack'
+[Wed Jul 04 11:42:14 2001] Nissas begins to cast a spell. (Charm)
+[Wed Jul 04 11:42:21 2001] orc oracle begins to cast a spell. (Drowsy)
+[Wed Jul 04 11:42:23 2001] Nissas yawns.
+[Wed Jul 04 11:42:24 2001] Nissas begins to cast a spell. (Color Flux)
+[Wed Jul 04 11:42:25 2001] Orc oracle is stunned by scintillating colors.
+[Wed Jul 04 11:42:26 2001] You say, 'You both have a right to the camp, but you must share'
+[Wed Jul 04 11:42:30 2001] Nobi says out of character, 'nah, go west through Kithicor Forest, then through High Hold, then west through the Karanas (East, North, West) and boom you're in Qeynos Hills.'
+[Wed Jul 04 11:42:32 2001] Nissas begins to cast a spell. (Root)
+[Wed Jul 04 11:42:33 2001] orc oracle begins to cast a spell. (Burst of Flame)
+[Wed Jul 04 11:42:37 2001] Nissas tells you, 'hehe brb =)'
+[Wed Jul 04 11:42:51 2001] Rajin says, 'i didnt petition,  i wanted to share'
+[Wed Jul 04 11:42:57 2001] You say, 'Since Rajin and Syruslight are together, you can pull every other one, with Nissas taking the others.'
+[Wed Jul 04 11:43:01 2001] orc apprentice begins to cast a spell. (Inner Fire)
+[Wed Jul 04 11:43:05 2001] Waluen says out of character, 'WTS festering cloak ac5 hp mana 10 sv vs disease poison -10'
+[Wed Jul 04 11:43:12 2001] orc apprentice begins to cast a spell. (Darkness)
+[Wed Jul 04 11:43:14 2001] orc apprentice begins to cast a spell. (Darkness)
+[Wed Jul 04 11:43:14 2001] You say, 'so is that fair then?'
+[Wed Jul 04 11:43:16 2001] orc apprentice begins to cast a spell. (Burst of Flame)
+[Wed Jul 04 11:43:20 2001] Waluen says out of character, 'WTS Wu's trance stick 7/18 proc smite 6k or 7k in trades'
+[Wed Jul 04 11:43:29 2001] Rajin says, 'sure thing Miss GM'
+[Wed Jul 04 11:43:38 2001] Syruslight says, 'gm, i have a game problem'
+[Wed Jul 04 11:43:38 2001] You say, 'wonderful!'
+[Wed Jul 04 11:43:41 2001] Bikk says out of character, 'Waluen us /auc some of us have /auc turned off for a reason'
+[Wed Jul 04 11:43:44 2001] You say, 'oh?'
+[Wed Jul 04 11:43:45 2001] Syruslight says, 'when i attack, my screen goes black'
+[Wed Jul 04 11:43:50 2001] Syruslight says, 'pitch black'
+[Wed Jul 04 11:43:53 2001] Syruslight says, 'all i can see is my lag bar.'
+[Wed Jul 04 11:43:57 2001] Rajin says, 'blind spell'
+[Wed Jul 04 11:44:02 2001] You say, 'yeah, orc apprentice'
+[Wed Jul 04 11:44:06 2001] You say, 'watch out for them.'
+[Wed Jul 04 11:44:08 2001] Waluen says out of character, 'oops. sorry i forgot to change it'
+[Wed Jul 04 11:44:08 2001] Syruslight says, 'and after a minute it comes back. but no it happens everywhere.'
+[Wed Jul 04 11:44:17 2001] Bikk says out of character, 'np ty =)'
+[Wed Jul 04 11:44:17 2001] You say, 'hmm - then I don't know'
+[Wed Jul 04 11:44:26 2001] Aryel shouts, 'PC on JCP'
+[Wed Jul 04 11:44:26 2001] Syruslight says, 'ah ok'
+[Wed Jul 04 11:44:28 2001] You say, 'you can contact tech support, they may have an answer for you.'
+[Wed Jul 04 11:44:45 2001] Nissas tells you, 'Ok what's the story? ;)'
+[Wed Jul 04 11:44:45 2001] Syruslight says, 'is that lady gone? she wouldnt let me ally with her, she didnt want to share, so i came bac to see if she was gone'
+[Wed Jul 04 11:44:46 2001] Syruslight says, 'the nissas'
+[Wed Jul 04 11:44:48 2001] Rajin says, 'how do u get those swords?'
+[Wed Jul 04 11:44:48 2001] You told Nissas, 'I told them to share, you each get a pull....'
+[Wed Jul 04 11:44:57 2001] Nissas tells you, 'That's fine'
+[Wed Jul 04 11:45:04 2001] You told Nissas, 'they said they would... so I hope it works out!'
+[Wed Jul 04 11:45:09 2001] Nissas tells you, 'Alright thanks'
+[Wed Jul 04 11:45:11 2001] You say, 'guides get them for free'
+[Wed Jul 04 11:45:13 2001] Syruslight says, 'wanna duel gm? im only level 11 but ill still udel ya.'
+[Wed Jul 04 11:45:14 2001] Rajin says, 'o well more for us'
+[Wed Jul 04 11:45:16 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Wed Jul 04 11:45:17 2001] You GMSAY, 'zone'
+[Wed Jul 04 11:45:21 2001] LOADING, PLEASE WAIT...
+[Wed Jul 04 11:45:47 2001] You have entered Sunset Home.
+[Wed Jul 04 11:45:57 2001] It will take you about 30 seconds to prepare your camp.
+[Wed Jul 04 11:46:00 2001] You GMSAY, 'camping out'
+[Wed Jul 04 11:46:01 2001] It will take about 25 more seconds to prepare your camp.
+[Wed Jul 04 11:46:06 2001] It will take about 20 more seconds to prepare your camp.
+[Wed Jul 04 11:46:11 2001] It will take about 15 more seconds to prepare your camp.
+[Wed Jul 04 11:46:16 2001] It will take about 10 more seconds to prepare your camp.
+[Wed Jul 04 11:46:21 2001] It will take about 5 more seconds to prepare your camp.
+[Wed Jul 04 13:28:58 2001] Logging to 'eqlog.txt' is now *ON*.
+[Wed Jul 04 13:29:01 2001] You GMSAY, 'hiya all!'
+[Wed Jul 04 13:29:12 2001] You GMSAY, 'nobody was here last time :)'
+[Wed Jul 04 13:29:15 2001] Savlyn GMSAYS, 'Hiya Espranza =)'
+[Wed Jul 04 13:29:21 2001] Dellis GMSAYS, 'Hail Lovely Espranza!'
+[Wed Jul 04 13:29:24 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 13:29:24 2001] USER TEXT: surname, can you help me out?
+[Wed Jul 04 13:29:24 2001] Players in EverQuest:
+[Wed Jul 04 13:29:24 2001] ---------------------------
+[Wed Jul 04 13:29:24 2001] [20 Necromancer] Valaraukar (Dark Elf) ZONE: commons (USER PID EV86K0V)
+[Wed Jul 04 13:29:24 2001] There is 1 player in EverQuest.
+[Wed Jul 04 13:29:30 2001] STATUS UPGRADED TO EMERGENCY
+[Wed Jul 04 13:29:36 2001] Dellis GMSAYS, 'pulling noonie'
+[Wed Jul 04 13:29:37 2001] Kendro GMSAYS, 'hey, Espranza!'
+[Wed Jul 04 13:29:37 2001] You GMSAY, 'esc surname request to red'
+[Wed Jul 04 13:29:41 2001] CHECKING IN
+[Wed Jul 04 13:29:45 2001] You say, 'Hiya Kendro!'
+[Wed Jul 04 13:29:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 13:30:01 2001] USER TEXT: this monk named glox is in giant fort in ww killing all the giant so no one can level there
+[Wed Jul 04 13:30:01 2001] Players in EverQuest:
+[Wed Jul 04 13:30:01 2001] ---------------------------
+[Wed Jul 04 13:30:01 2001] [27 Monk] Izualde (Iksar) <Hand of the Shadows> ZONE: lakeofillomen (USER PID DVN9857)
+[Wed Jul 04 13:30:01 2001] There is 1 player in EverQuest.
+[Wed Jul 04 13:30:12 2001] Players in EverQuest:
+[Wed Jul 04 13:30:12 2001] ---------------------------
+[Wed Jul 04 13:30:12 2001] [35 Monk] Glox (Iksar) ZONE: cabeast (USER PID CNQNW7S)
+[Wed Jul 04 13:30:12 2001] There is 1 player in EverQuest.
+[Wed Jul 04 13:30:50 2001] You told Izualde, 'Hail, Izualde! Guide Espranza here... I see that Glox has left the area. If he should return and try to take all the giants, please repetition.'
+[Wed Jul 04 13:30:53 2001] DELETING THIS PETITION
+[Wed Jul 04 13:30:55 2001] Izualde tells you, 'ok'
+[Wed Jul 04 13:30:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 13:30:57 2001] USER TEXT: i fell off CS side couldnt get up the wall and died in water need help with CR
+[Wed Jul 04 13:30:57 2001] Players in EverQuest:
+[Wed Jul 04 13:30:57 2001] ---------------------------
+[Wed Jul 04 13:30:57 2001] [52 Wanderer] Gosuu (Wood Elf) <Royal Jesters> ZONE: cobaltscar (USER PID CYXW1NE)
+[Wed Jul 04 13:30:57 2001] There is 1 player in EverQuest.
+[Wed Jul 04 13:30:57 2001] Izualde tells you, 'thanks'
+[Wed Jul 04 13:30:59 2001] You told Izualde, 'be well!'
+[Wed Jul 04 13:31:09 2001] Izualde tells you, 'it was aobut 2 hours ago'
+[Wed Jul 04 13:32:05 2001] You told Izualde, 'sorry about that - guides poping in and out as they can'
+[Wed Jul 04 13:32:15 2001] Savlyn GMSAYS, 'Deleting Hastatus - Question Answered'
+[Wed Jul 04 13:32:17 2001] USER TEXT: i fell off CS side couldnt get up the wall and died in water need help with CR
+[Wed Jul 04 13:32:23 2001] Searching zones for corpse of that name....
+[Wed Jul 04 13:32:37 2001] Savlyn GMSAYS, 'Will do Espranza Sorry'
+[Wed Jul 04 13:32:51 2001] You told Gosuu, 'Hail, Gosuu! Guide Espranza here. I don't see a corpse for you - did you find it?'
+[Wed Jul 04 13:32:51 2001] The spirit leaves you.
+[Wed Jul 04 13:32:57 2001] Savlyn GMSAYS, 'Pulling Iskan'
+[Wed Jul 04 13:32:58 2001] You feel the spirit of Norrath enter you.
+[Wed Jul 04 13:33:35 2001] You GMSAY, 'atually, since no seniors or GMs are expected today, just take down the info and delete.'
+[Wed Jul 04 13:33:41 2001] Gosuu tells you, 'yes'
+[Wed Jul 04 13:33:55 2001] You told Gosuu, 'okay! glad you found it. Be well!'
+[Wed Jul 04 13:33:58 2001] DELETING THIS PETITION
+[Wed Jul 04 13:34:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 13:34:01 2001] USER TEXT: hi, i would like to know if all evocation spells will raise the specialize evocation skill, or if only spells usable after specialize evocation was aquired do. thanks
+[Wed Jul 04 13:34:01 2001] Players in EverQuest:
+[Wed Jul 04 13:34:01 2001] ---------------------------
+[Wed Jul 04 13:34:01 2001] [44 Magician] Noonie (High Elf) <Kingdom of Steel> ZONE: unrest (USER PID AYV6H35)
+[Wed Jul 04 13:34:01 2001] There is 1 player in EverQuest.
+[Wed Jul 04 13:34:17 2001] Kendro GMSAYS, 'No seniors on today?'
+[Wed Jul 04 13:34:29 2001] You GMSAY, 'well, they may come on, but we can't be sure'
+[Wed Jul 04 13:34:42 2001] Kendro GMSAYS, 'btw, ya'll know that we don't give up either way as to if something is going on today for Independence day.'
+[Wed Jul 04 13:35:08 2001] You told Noonie, 'Hail, Noonie! Guide Espranza here. Yes, any evocation spell will raise specialization.'
+[Wed Jul 04 13:35:20 2001] Noonie tells you, 'ok, thank you'
+[Wed Jul 04 13:35:23 2001] You told Noonie, 'be well!'
+[Wed Jul 04 13:35:30 2001] DELETING THIS PETITION
+[Wed Jul 04 13:35:31 2001] Noonie tells you, 'you too'
+[Wed Jul 04 13:35:32 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 04 13:35:32 2001] USER TEXT: Im stuck between the mast and the wall of the boat from BB to FP
+[Wed Jul 04 13:35:32 2001] Players in EverQuest:
+[Wed Jul 04 13:35:32 2001] ---------------------------
+[Wed Jul 04 13:35:33 2001] [47 Cleric] Dalamaru (Dwarf) <Natural Sanction> ZONE: oot (USER PID FVXPLTJ)
+[Wed Jul 04 13:35:33 2001] There is 1 player in EverQuest.
+[Wed Jul 04 13:35:45 2001] Savlyn GMSAYS, 'Checking in Iskan - Unavailable 2/3'
+[Wed Jul 04 13:35:54 2001] Dellis GMSAYS, 'who pulled noonie?'
+[Wed Jul 04 13:35:58 2001] Savlyn GMSAYS, 'Pulling Bodos'
+[Wed Jul 04 13:36:02 2001] You GMSAY, 'I did'
+[Wed Jul 04 13:36:12 2001] You GMSAY, 'already answered'
+[Wed Jul 04 13:36:51 2001] You told Hail,, 'Hail, is not online at this time.'
+[Wed Jul 04 13:37:19 2001] You told Dalamaru, 'Hail, Dalamaru! Guide Espranza here. Are you still stuck?'
+[Wed Jul 04 13:37:19 2001] Dalamaru tells you, 'AFK Message: Gotta do some stuff in RL be back later'
+[Wed Jul 04 13:37:33 2001] Dellis GMSAYS, 'Well dang.  I wonder if I shall ever get to anser a pet? ;)'
+[Wed Jul 04 13:37:45 2001] You GMSAY, 'oh sorry :)'
+[Wed Jul 04 13:37:51 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Jul 04 13:37:52 2001] CHECKING IN
+[Wed Jul 04 13:37:55 2001] You say, 'go for it'
+[Wed Jul 04 13:38:10 2001] Kendro GMSAYS, 'wait until you become a full guide and have to deal with KSing, Training, Harrassment... it's a blast... *GRIN*'
+[Wed Jul 04 13:38:47 2001] Espranza saved.
+[Wed Jul 04 13:38:54 2001] Dellis GMSAYS, 'My palms are sweeting with anticipation'
+[Wed Jul 04 13:38:56 2001] Dellis GMSAYS, 'sweating too'
+[Wed Jul 04 13:39:13 2001] You GMSAY, 'ewwww'
+[Wed Jul 04 13:39:13 2001] Dellis GMSAYS, 'pulling Djeen'
+[Wed Jul 04 13:39:29 2001] Players in EverQuest:
+[Wed Jul 04 13:39:29 2001] ---------------------------
+[Wed Jul 04 13:39:29 2001] * Apprentice Guide *[20 Rogue] Dellis (Human) ZONE: freportw (USER PID ATC35KM)
+[Wed Jul 04 13:39:29 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Wed Jul 04 13:39:29 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) <Keepers of Morell Thule> ZONE: gfaydark (USER PID EUGB4P0)
+[Wed Jul 04 13:39:29 2001] * Apprentice Guide *[20 Wizard] Savlyn (High Elf) ZONE: qeynos (USER PID GQWD9EE)
+[Wed Jul 04 13:39:29 2001] There are 4 players in EverQuest.
+[Wed Jul 04 13:41:42 2001] Dellis GMSAYS, 'Question -- /discipline command lets you know how long until you are able to use discipline again?'
+[Wed Jul 04 13:41:56 2001] Savlyn GMSAYS, 'Deleting Bodos - Situation Resolved'
+[Wed Jul 04 13:42:02 2001] You GMSAY, 'yes'
+[Wed Jul 04 13:42:32 2001] Kendro GMSAYS, 'zoning'
+[Wed Jul 04 13:42:37 2001] Savlyn GMSAYS, 'WooHoo Empty Que =)'
+[Wed Jul 04 13:42:47 2001] Savlyn GMSAYS, '*****ZONING*****'
+[Wed Jul 04 13:43:35 2001] Dellis GMSAYS, 'thanks -- here goes everything -- my first official PEt reply'
+[Wed Jul 04 13:43:38 2001] Savlyn GMSAYS, 'Pulling Weron'
+[Wed Jul 04 13:44:17 2001] Kendro GMSAYS, 'so what do we want to do to scare the customers? *GRIN*'
+[Wed Jul 04 13:44:41 2001] Savlyn GMSAYS, 'Anything happening in OOT today?'
+[Wed Jul 04 13:44:42 2001] Kendro GMSAYS, 'let's start false rumors about an event tonight and watch them scramble...'
+[Wed Jul 04 13:44:50 2001] You GMSAY, 'I think there is a patch tonight'
+[Wed Jul 04 13:45:05 2001] Kendro GMSAYS, 'really? What poor timing.'
+[Wed Jul 04 13:45:09 2001] Kendro GMSAYS, 'what time is the patch?'
+[Wed Jul 04 13:45:16 2001] You GMSAY, '3am or something.'
+[Wed Jul 04 13:45:22 2001] Savlyn GMSAYS, 'Player claiming the Boat in OOT is full of Bugs ..whatever that means?'
+[Wed Jul 04 13:45:23 2001] Kendro GMSAYS, 'not that I know of, why Savlyn?'
+[Wed Jul 04 13:45:34 2001] Kendro GMSAYS, 'bugs?'
+[Wed Jul 04 13:45:39 2001] Kendro GMSAYS, 'what player?'
+[Wed Jul 04 13:46:14 2001] Savlyn GMSAYS, 'Claims the Boat isnt stoping at the docks'
+[Wed Jul 04 13:46:26 2001] Kendro GMSAYS, 'let me go to FP and ride it.'
+[Wed Jul 04 13:46:28 2001] Kendro GMSAYS, 'zoning'
+[Wed Jul 04 13:46:39 2001] You GMSAY, 'that's probably lag related'
+[Wed Jul 04 13:46:45 2001] You GMSAY, 'or zoning time related'
+[Wed Jul 04 13:46:50 2001] You GMSAY, 'happens to slow zoners'
+[Wed Jul 04 13:47:30 2001] Savlyn GMSAYS, 'OK'
+[Wed Jul 04 13:47:31 2001] Kendro GMSAYS, 'zoning'
+[Wed Jul 04 13:48:56 2001] Espranza saved.
+[Wed Jul 04 13:49:12 2001] You GMSAY, 'okay, you guys have things well in hand here, gonna log for a bit.. se ya!'
+[Wed Jul 04 13:49:17 2001] It will take you about 30 seconds to prepare your camp.
+[Wed Jul 04 13:49:18 2001] Kendro GMSAYS, 'later'
+[Wed Jul 04 13:49:21 2001] It will take about 25 more seconds to prepare your camp.
+[Wed Jul 04 13:49:26 2001] It will take about 20 more seconds to prepare your camp.
+[Wed Jul 04 13:49:31 2001] It will take about 15 more seconds to prepare your camp.
+[Wed Jul 04 13:49:31 2001] Savlyn GMSAYS, 'Deleting Weron - Boats seem to be working now'
+[Wed Jul 04 13:49:36 2001] It will take about 10 more seconds to prepare your camp.
+[Wed Jul 04 13:49:41 2001] It will take about 5 more seconds to prepare your camp.

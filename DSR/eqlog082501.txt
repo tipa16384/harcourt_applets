@@ -1,0 +1,972 @@
+[Sat Aug 25 01:55:45 2001] Welcome to EverQuest!
+[Sat Aug 25 01:55:45 2001] You have entered Sunset Home.
+[Sat Aug 25 01:55:45 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! The Enchanter Best of the Best tournament will be held Monday August 27th 4pm PST. For more information regarding the event please visit the Harpy's Head Tavern at www.everquest.com. Have a good day!
+[Sat Aug 25 01:55:48 2001] Players in EverQuest:
+[Sat Aug 25 01:55:48 2001] ---------------------------
+[Sat Aug 25 01:55:48 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Aug 25 01:55:48 2001] There is 1 player in EverQuest.
+[Sat Aug 25 01:55:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 01:55:55 2001] USER TEXT: IllegalDta
+[Sat Aug 25 01:55:55 2001] Players in EverQuest:
+[Sat Aug 25 01:55:55 2001] ---------------------------
+[Sat Aug 25 01:55:55 2001] There are no players in EverQuest that match those who filters.
+[Sat Aug 25 01:56:00 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Aug 25 01:56:01 2001] CHECKING IN
+[Sat Aug 25 01:56:02 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 01:56:03 2001] USER TEXT: A girl down in Upper Gukk is not getting the Idea of a train...  she thinks its good to kill other players with what she calls. BIG BIG TRAIN...  Could you please look into it. I have tried to talk to her.. but she really dont understand =(
+[Sat Aug 25 01:56:03 2001] Players in EverQuest:
+[Sat Aug 25 01:56:03 2001] ---------------------------
+[Sat Aug 25 01:56:03 2001] [8 Warrior] Shabby (Gnome) ZONE: guktop (USER PID FU7TMDT)
+[Sat Aug 25 01:56:03 2001] There is 1 player in EverQuest.
+[Sat Aug 25 01:56:30 2001] You told Shabby, 'Hail, Shabby! Guide Espranza here. Is the training still happening?'
+[Sat Aug 25 01:56:58 2001] STATUS UPGRADED TO URGENT
+[Sat Aug 25 01:56:59 2001] CHECKING IN
+[Sat Aug 25 01:57:02 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 01:57:02 2001] USER TEXT: i can't get my backpack off of corpse b/c it says i already have a lore item.....but i don't....can u please fix it so i can get my pack?
+[Sat Aug 25 01:57:02 2001] Players in EverQuest:
+[Sat Aug 25 01:57:02 2001] ---------------------------
+[Sat Aug 25 01:57:02 2001] [4 Wizard] Kazama (High Elf) ZONE: gfaydark (USER PID FUGMCXT)
+[Sat Aug 25 01:57:02 2001] There is 1 player in EverQuest.
+[Sat Aug 25 01:57:05 2001] Shabby tells you, 'I had to move to another place where she cant find me in Lower gukk... less XP .. more danger..  how does that sound ? : /'
+[Sat Aug 25 01:57:17 2001] Shabby tells you, 'I reportet did you see ?'
+[Sat Aug 25 01:57:17 2001] You told Shabby, 'doesn't sound good. who was it?'
+[Sat Aug 25 01:57:56 2001] You told Kazama, 'Hail, Kazama! Guide Espranza here. It may be too late - but your Tome of Discord is a lore item. Delete the one you have and you should be able to loot your backpack.'
+[Sat Aug 25 01:57:59 2001] DELETING THIS PETITION
+[Sat Aug 25 01:58:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 01:58:00 2001] USER TEXT: hello my corpse is in solb entrance and it will not let me drag it nor let me get a rez i have been waiting for well over 2 hours now i dont know what is wrong. Solb entrance is where it is
+[Sat Aug 25 01:58:01 2001] Players in EverQuest:
+[Sat Aug 25 01:58:01 2001] ---------------------------
+[Sat Aug 25 01:58:01 2001] [ANON (45 Enchanter)] Slikfiness (Human) ZONE: soldungb (USER PID HYM792Y)
+[Sat Aug 25 01:58:01 2001] There is 1 player in EverQuest.
+[Sat Aug 25 01:58:08 2001] Searching zones for corpse of that name....
+[Sat Aug 25 01:58:08 2001] Corpse: Slikfiness's corpse1 in zone: soldungb
+[Sat Aug 25 01:58:13 2001] Kazama tells you, 'i don't have one....jsut says i do'
+[Sat Aug 25 01:58:17 2001] Shabby tells you, 'mahnon ... she first wanders around the dungeon not knowing the place. I then tell her she is not at the right level yet as she can create trains. She says trains are ok if you shout. well how can I argue ? : ('
+[Sat Aug 25 01:58:23 2001] You GMSAY, 'zone'
+[Sat Aug 25 01:58:30 2001] Teleporting to slikfiness.
+[Sat Aug 25 01:58:30 2001] LOADING, PLEASE WAIT...
+[Sat Aug 25 01:58:57 2001] You have entered Nagafen's Lair.
+[Sat Aug 25 01:59:00 2001] Slikfiness begins to cast a spell. (Entrance)
+[Sat Aug 25 01:59:03 2001] Emmeline begins to cast a spell. (Greater Healing)
+[Sat Aug 25 01:59:03 2001] Lava duct crawler has been entranced.
+[Sat Aug 25 01:59:04 2001] Dashina begins to cast a spell. (Superior Healing)
+[Sat Aug 25 01:59:07 2001] Kalais begins to cast a spell. (Careless Lightning)
+[Sat Aug 25 01:59:08 2001] Slikfiness feels much better.
+[Sat Aug 25 01:59:09 2001] Teleporting to slikfiness's corpse0.
+[Sat Aug 25 01:59:26 2001] Slikfiness begins to cast a spell. (Tashani)
+[Sat Aug 25 01:59:33 2001] Dashina begins to cast a spell. (Celestial Healing)
+[Sat Aug 25 01:59:39 2001] Emmeline begins to cast a spell. (Greater Healing)
+[Sat Aug 25 01:59:39 2001] Slikfiness begins to cast a spell. (Root)
+[Sat Aug 25 01:59:39 2001] Kalais begins to cast a spell. (Careless Lightning)
+[Sat Aug 25 01:59:41 2001] You told Slikfiness, 'Hail, Slikfiness! Guide Espranza here. Your corpse is in the open and it looks as if you've looted it - is everything set now?'
+[Sat Aug 25 01:59:48 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 01:59:52 2001] Dashina begins to cast a spell. (Superior Healing)
+[Sat Aug 25 01:59:52 2001] Kalais begins to cast a spell. (Grasping Roots)
+[Sat Aug 25 01:59:56 2001] Shabby tells you, 'she dont speak very good english and everytime i tried to explain there are other places safer for her and others..  she just getting more annoind'
+[Sat Aug 25 01:59:59 2001] You told Shabby, 'I'll try and explain it to her...'
+[Sat Aug 25 02:00:00 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 02:00:00 2001] Kalais begins to cast a spell. (Grasping Roots)
+[Sat Aug 25 02:00:06 2001] Shabby tells you, 'good luck. )'
+[Sat Aug 25 02:00:08 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Sat Aug 25 02:00:10 2001] DELETING THIS PETITION
+[Sat Aug 25 02:00:19 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Sat Aug 25 02:00:23 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 02:00:31 2001] You told Kazama, 'You get a new tome of discord every time you die when you're four or below.'
+[Sat Aug 25 02:00:34 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:00:35 2001] USER TEXT: i think i ran into a bug, i picked up money from teh groud, and it booted me to the Server select screen, im about to report it
+[Sat Aug 25 02:00:35 2001] Players in EverQuest:
+[Sat Aug 25 02:00:35 2001] ---------------------------
+[Sat Aug 25 02:00:35 2001] There are no players in EverQuest that match those who filters.
+[Sat Aug 25 02:00:41 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Aug 25 02:00:42 2001] CHECKING IN
+[Sat Aug 25 02:00:44 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:00:44 2001] USER TEXT: I've even reinstalled EQ, and I've got problems.
+[Sat Aug 25 02:00:44 2001] Players in EverQuest:
+[Sat Aug 25 02:00:44 2001] ---------------------------
+[Sat Aug 25 02:00:44 2001] There are no players in EverQuest that match those who filters.
+[Sat Aug 25 02:00:49 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Aug 25 02:00:50 2001] CHECKING IN
+[Sat Aug 25 02:00:51 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:00:52 2001] USER TEXT: a member of my group seems to have fallen asleep on kboard. would it be possible to kick her out?
+[Sat Aug 25 02:00:52 2001] Players in EverQuest:
+[Sat Aug 25 02:00:52 2001] ---------------------------
+[Sat Aug 25 02:00:52 2001] [32 Warrior] Heth (Wood Elf) ZONE: frontiermtns (USER PID HYHVUGT)
+[Sat Aug 25 02:00:52 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:00:53 2001] Slikfiness tells you, 'no it is not fixed'
+[Sat Aug 25 02:00:58 2001] Dashina begins to cast a spell. (Celestial Healing)
+[Sat Aug 25 02:00:59 2001] Kazama tells you, 'well it isn't in my inventory'
+[Sat Aug 25 02:01:05 2001] Slikfiness tells you, 'i can loot it but i can not drag it or get a rez on it'
+[Sat Aug 25 02:01:06 2001] You told Kazama, 'is it in the bank?'
+[Sat Aug 25 02:01:17 2001] Teleporting to Slikfiness's corpse0 (-463.00, -212.00, -108.22).
+[Sat Aug 25 02:01:21 2001] Teleporting to Slikfiness's corpse0 (-463.00, -212.00, -108.22).
+[Sat Aug 25 02:01:22 2001] Teleporting to Slikfiness's corpse0 (-463.00, -212.00, -108.22).
+[Sat Aug 25 02:01:23 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 02:01:31 2001] Summoning Slikfiness's corpse0.
+[Sat Aug 25 02:01:49 2001] Lava duct crawler was pierced by thorns.
+[Sat Aug 25 02:01:50 2001] Lava duct crawler was pierced by thorns.
+[Sat Aug 25 02:01:51 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Sat Aug 25 02:01:51 2001] greater kobold says 'Ogres have no place in our realm!'
+[Sat Aug 25 02:01:52 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:01:52 2001] Lava duct crawler was pierced by thorns.
+[Sat Aug 25 02:01:52 2001] Yargs says out of character, 'Old Charlie, stole the handle and the train won't stop'
+[Sat Aug 25 02:01:53 2001] Lava duct crawler was pierced by thorns.
+[Sat Aug 25 02:01:53 2001] You told Slikfiness, 'I've just moved it a little, that might help. If not, log out to desktop and come back - that should fix it.'
+[Sat Aug 25 02:01:58 2001] USER TEXT: a member of my group seems to have fallen asleep on kboard. would it be possible to kick her out?
+[Sat Aug 25 02:01:59 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Sat Aug 25 02:01:59 2001] greater kobold says 'Your intolerable reputation insults all in this realm!'
+[Sat Aug 25 02:02:09 2001] Slikfiness tells you, 'i have loged 3 times already'
+[Sat Aug 25 02:02:19 2001] Slikfiness tells you, 'and it will not make a diffrence now anyhow'
+[Sat Aug 25 02:02:20 2001] You told Slikfiness, 'okay, try dragging it again now then'
+[Sat Aug 25 02:02:26 2001] Klubber's blood boils.
+[Sat Aug 25 02:02:33 2001] Slikfiness tells you, 'it has been logner than 3 hours since id died'
+[Sat Aug 25 02:02:58 2001] Slikfiness tells you, 'just an extra foot in the arse'
+[Sat Aug 25 02:03:01 2001] You told Slikfiness, 'always worth a try anyway...'
+[Sat Aug 25 02:03:03 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Sat Aug 25 02:03:08 2001] USER TEXT: a member of my group seems to have fallen asleep on kboard. would it be possible to kick her out?
+[Sat Aug 25 02:03:15 2001] Slikfiness tells you, 'well i petitoned when it happened'
+[Sat Aug 25 02:03:20 2001] Slikfiness tells you, 'but no response:('
+[Sat Aug 25 02:03:28 2001] You told Heth, 'Hail, Heth! Guide Espranza here. Who is the sleeper?'
+[Sat Aug 25 02:03:44 2001] You told Slikfiness, 'Yeah, I just stopped in on my way to bed, saw all the petitions... nobody else was here.'
+[Sat Aug 25 02:03:45 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Sat Aug 25 02:03:47 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Sat Aug 25 02:03:47 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 02:03:47 2001] Heth tells you, 'she just logged, but ty )'
+[Sat Aug 25 02:03:51 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Sat Aug 25 02:03:51 2001] greater kobold says 'Your foul deeds have earned my contempt!'
+[Sat Aug 25 02:03:55 2001] You told Heth, 'oh good :) be well!'
+[Sat Aug 25 02:03:57 2001] DELETING THIS PETITION
+[Sat Aug 25 02:03:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:03:59 2001] USER TEXT: I have a question
+[Sat Aug 25 02:03:59 2001] Players in EverQuest:
+[Sat Aug 25 02:03:59 2001] ---------------------------
+[Sat Aug 25 02:03:59 2001] [39 Druid] Beepers (Half Elf) <Kingdom of Steel> ZONE: butcher (USER PID BWYS3VL)
+[Sat Aug 25 02:03:59 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:04:01 2001] Heth tells you, 'cya'
+[Sat Aug 25 02:04:07 2001] Slikfiness tells you, 'so i guess i am out of luck on my exp then eh?'
+[Sat Aug 25 02:04:12 2001] You told Beepers, 'Hail, Beepers! Guide Espranza here. How may I help you?'
+[Sat Aug 25 02:04:16 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Sat Aug 25 02:04:16 2001] greater kobold says 'Filthy Trolls like you must die!'
+[Sat Aug 25 02:04:23 2001] You told Slikfiness, 'You could try getting a rez on it again'
+[Sat Aug 25 02:04:34 2001] Slikfiness tells you, 'ok thank you anyway'
+[Sat Aug 25 02:04:38 2001] Beepers tells you, 'can you help me'
+[Sat Aug 25 02:04:40 2001] You told Slikfiness, 'best of luck'
+[Sat Aug 25 02:04:44 2001] Slikfiness tells you, 'yeah'
+[Sat Aug 25 02:04:46 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Sat Aug 25 02:04:51 2001] You told Beepers, 'If I can; what's the matter?'
+[Sat Aug 25 02:04:54 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Sat Aug 25 02:04:59 2001] You no longer have a target.
+[Sat Aug 25 02:05:10 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 02:05:13 2001] Beepers tells you, 'I need to get my corpse in FV and it takes me forever to get there and I keep getting killed'
+[Sat Aug 25 02:05:14 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Sat Aug 25 02:05:15 2001] Greater kobold shaman pet feels much faster.
+[Sat Aug 25 02:05:22 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 02:05:26 2001] Greater kobold shaman pet is enveloped in blazing energy.
+[Sat Aug 25 02:05:31 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 02:05:34 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Sat Aug 25 02:05:34 2001] Kobold noble pet feels much faster.
+[Sat Aug 25 02:05:36 2001] You told Beepers, 'all I can do is check to make sure it is retrievable; if it is, then that's all I can do.'
+[Sat Aug 25 02:05:43 2001] You told Beepers, 'I'll go have a look at it though.'
+[Sat Aug 25 02:05:45 2001] Searching zones for corpse of that name....
+[Sat Aug 25 02:05:46 2001] Corpse: Beepers's corpse1 in zone: firiona
+[Sat Aug 25 02:05:48 2001] You GMSAY, 'zone'
+[Sat Aug 25 02:05:51 2001] LOADING, PLEASE WAIT...
+[Sat Aug 25 02:06:32 2001] You have entered Firiona Vie.
+[Sat Aug 25 02:06:45 2001] Teleporting to beeper's corpse0.
+[Sat Aug 25 02:06:51 2001] Teleporting to beeper's corpse1.
+[Sat Aug 25 02:07:00 2001] Searching zones for corpse of that name....
+[Sat Aug 25 02:07:01 2001] Corpse: Beepers's corpse1 in zone: firiona
+[Sat Aug 25 02:07:06 2001] Teleporting to beepers's corpse0.
+[Sat Aug 25 02:07:10 2001] Beepers tells you, 'his name is Lt.Deepwater or something lkike that'
+[Sat Aug 25 02:07:13 2001] Teleporting to beepers's corpse1.
+[Sat Aug 25 02:07:31 2001] You told Beepers, 'The guards kill druids in wolf form'
+[Sat Aug 25 02:07:43 2001] You told Beepers, 'come in as a half elf and they will not attack you'
+[Sat Aug 25 02:07:47 2001] Beepers tells you, 'I think he kills me either way right'
+[Sat Aug 25 02:07:47 2001] DELETING THIS PETITION
+[Sat Aug 25 02:07:54 2001] Beepers tells you, 'are you sure'
+[Sat Aug 25 02:07:58 2001] You told Beepers, 'no, they like half elves'
+[Sat Aug 25 02:08:03 2001] Beepers tells you, 'in FV'
+[Sat Aug 25 02:08:07 2001] You told Beepers, 'yup'
+[Sat Aug 25 02:08:12 2001] Beepers tells you, 'it was a gurad that killed me'
+[Sat Aug 25 02:08:15 2001] You told Beepers, 'it is an elven outpost, after all'
+[Sat Aug 25 02:08:20 2001] Beepers tells you, 'i wasn't a guard that killed me'
+[Sat Aug 25 02:08:31 2001] You told Beepers, 'yes, but you were a wolf. everything hates wolves in FV.'
+[Sat Aug 25 02:08:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:08:36 2001] USER TEXT: Are there problems with the Qeynos Aqueducts zone at the moment?
+[Sat Aug 25 02:08:37 2001] Players in EverQuest:
+[Sat Aug 25 02:08:37 2001] ---------------------------
+[Sat Aug 25 02:08:37 2001] [ANON (23 Ranger)] Jobrill (Half Elf) ZONE: qeynos2 (USER PID BYHK056)
+[Sat Aug 25 02:08:37 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:08:40 2001] Brak Daggermist says 'Welcome to my shop Soreenia, you would probably find a Jade Ring handy'
+[Sat Aug 25 02:08:48 2001] Beepers tells you, 'ok if I'm in normal form he wont kill me'
+[Sat Aug 25 02:09:07 2001] You told Jobrill, 'Hail, Jobrill! Guide Espranza here. Yes, there is a problem with the zone. It's been reported but I don't know when it will be fixed.'
+[Sat Aug 25 02:09:10 2001] You told Beepers, 'Right'
+[Sat Aug 25 02:09:15 2001] DELETING THIS PETITION
+[Sat Aug 25 02:09:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:09:18 2001] USER TEXT: I have fallen for 10k damage and my corpse is in a very bad place
+[Sat Aug 25 02:09:18 2001] Players in EverQuest:
+[Sat Aug 25 02:09:18 2001] ---------------------------
+[Sat Aug 25 02:09:18 2001] [ANON (41 Wizard)] Ennya (High Elf) ZONE: eastwastes (USER PID FWQ4K0X)
+[Sat Aug 25 02:09:18 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:09:25 2001] Beepers tells you, 'THANK YOU I LOVE YOU if i have problem s i'll tell you'
+[Sat Aug 25 02:09:27 2001] Pjkea shouts, 'is there a ranger guild in FV'
+[Sat Aug 25 02:09:32 2001] You told Beepers, 'heh okay! good luck!'
+[Sat Aug 25 02:09:36 2001] Searching zones for corpse of that name....
+[Sat Aug 25 02:09:36 2001] Corpse: Ennya's corpse1 in zone: eastwastes
+[Sat Aug 25 02:09:37 2001] Kharlkuhlinayn says out of character, 'Yes'
+[Sat Aug 25 02:09:38 2001] Uenea shouts, 'Yes'
+[Sat Aug 25 02:09:54 2001] Drake Mountainstorm says 'Hello there Soreenia, how about a nice Opal?'
+[Sat Aug 25 02:09:55 2001] Pjkea shouts, 'thanks'
+[Sat Aug 25 02:09:57 2001] You GMSAY, '<note badname> Ennya FWQK0X - famous singer.'
+[Sat Aug 25 02:09:59 2001] You GMSAY, 'zone'
+[Sat Aug 25 02:10:03 2001] LOADING, PLEASE WAIT...
+[Sat Aug 25 02:10:42 2001] You have entered Eastern Wastes.
+[Sat Aug 25 02:10:49 2001] Beepers tells you, 'ok bye bye'
+[Sat Aug 25 02:10:53 2001] Teleporting to ennya's corpse0.
+[Sat Aug 25 02:11:03 2001] Teleporting to ennya's corpse1.
+[Sat Aug 25 02:11:16 2001] Ennya bows before Espranza.
+[Sat Aug 25 02:11:17 2001] Teleporting to Ennya's corpse1 (-1772.00, 6392.00, 111.07).
+[Sat Aug 25 02:11:33 2001] Ennya says, 'hello Espranza, I manage to find the body in the canyon wall outside to Kael'
+[Sat Aug 25 02:11:36 2001] You told Ennya, 'Hail, Ennya! Guide Espranza here.'
+[Sat Aug 25 02:11:53 2001] You told Ennya, 'Did you fall into the canyon in front of Kael?'
+[Sat Aug 25 02:11:53 2001] Ennya says, 'tahnk you so very much for coming'
+[Sat Aug 25 02:11:59 2001] You beam a smile at Ennya.
+[Sat Aug 25 02:12:00 2001] Ennya tells you, 'yes'
+[Sat Aug 25 02:12:08 2001] Ennya looks a bit childish and coy.
+[Sat Aug 25 02:12:10 2001] You told Ennya, 'yeah - that's a legitimate 10K fall'
+[Sat Aug 25 02:12:16 2001] Jobrill tells you, 'Hail Espranza!  Thank you, I was just wondering.  I like to check and see if Ronn Castekin has spawned whenever I get back to Qeynos. :)'
+[Sat Aug 25 02:12:27 2001] You told Ennya, 'was there anything wrong with the body at the bridge?'
+[Sat Aug 25 02:12:28 2001] Ennya tells you, 'yeah, wasn't going to claim otherwise... just couldn't see body'
+[Sat Aug 25 02:12:29 2001] Jobrill tells you, 'Sorry.  Accident'
+[Sat Aug 25 02:12:45 2001] You told Jobrill, 'no worries...'
+[Sat Aug 25 02:12:48 2001] Ennya tells you, 'hehe, forgot to loot the shoulderpads off it a few days ago : )'
+[Sat Aug 25 02:13:00 2001] You told Ennya, 'oh okay! well, glad you were able to get your body back'
+[Sat Aug 25 02:13:02 2001] Superhexer auctions, 'WTB kodiak meat. Please send tells'
+[Sat Aug 25 02:13:06 2001] You told Ennya, 'best of luck!'
+[Sat Aug 25 02:13:09 2001] DELETING THIS PETITION
+[Sat Aug 25 02:13:10 2001] Ennya tells you, 'Thank you so very much for coming'
+[Sat Aug 25 02:13:10 2001] Jafkinlinheart tells you, 'i just petitioned about my surname i tried to put one on say's i have one already'
+[Sat Aug 25 02:13:14 2001] Ennya tells you, 'and to you as well'
+[Sat Aug 25 02:13:16 2001] Ennya kneels before Espranza in humility and reverence.
+[Sat Aug 25 02:13:27 2001] You feel the spirit of Norrath enter you.
+[Sat Aug 25 02:13:28 2001] Your feet leave the ground.
+[Sat Aug 25 02:13:35 2001] You told Jafkinlinheart, 'You do have one - it's a space'
+[Sat Aug 25 02:13:50 2001] You told Jafkinlinheart, 'Lirus gave you that until you thought of a new surname'
+[Sat Aug 25 02:13:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:13:56 2001] USER TEXT: i want to put a surname on say's i have one already
+[Sat Aug 25 02:13:56 2001] Players in EverQuest:
+[Sat Aug 25 02:13:56 2001] ---------------------------
+[Sat Aug 25 02:13:56 2001] [55 Templar] Jafkinlinheart (Dark Elf) <Sphere of Legends> ZONE: eastwastes (USER PID CVQ1DYT)
+[Sat Aug 25 02:13:56 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:14:04 2001] Jafkinlinheart tells you, 'thought of one'
+[Sat Aug 25 02:14:18 2001] You told Jafkinlinheart, 'You'll have to repetition when Lirus is on to get it changed - I can't set surnames.'
+[Sat Aug 25 02:14:23 2001] Dininn tells you, 'excuse me im sorry to bother u but i figured u might be able to answer a question of mine'
+[Sat Aug 25 02:14:24 2001] DELETING THIS PETITION
+[Sat Aug 25 02:14:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:14:26 2001] USER TEXT: IllegalDta
+[Sat Aug 25 02:14:26 2001] Players in EverQuest:
+[Sat Aug 25 02:14:26 2001] ---------------------------
+[Sat Aug 25 02:14:26 2001] There are no players in EverQuest that match those who filters.
+[Sat Aug 25 02:14:29 2001] Jafkinlinheart tells you, 'ok thanks'
+[Sat Aug 25 02:14:39 2001] You told Dininn, 'please petition and I'll be right with you - thanks!'
+[Sat Aug 25 02:14:46 2001] You told Jafkinlinheart, 'Anytime - be well!'
+[Sat Aug 25 02:14:50 2001] Dininn tells you, 'ok i dont know how so nm i guess'
+[Sat Aug 25 02:14:53 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Aug 25 02:14:54 2001] CHECKING IN
+[Sat Aug 25 02:14:54 2001] Jafkinlinheart tells you, 'you too'
+[Sat Aug 25 02:15:13 2001] You told Dininn, 'Type /petition followed by what you wanted to ask'
+[Sat Aug 25 02:15:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:15:19 2001] USER TEXT: i think i ran into a bug, i picked up money from teh groud, and it booted me to the Server select screen, im about to report it
+[Sat Aug 25 02:15:20 2001] Players in EverQuest:
+[Sat Aug 25 02:15:20 2001] ---------------------------
+[Sat Aug 25 02:15:20 2001] [51 Pathfinder] Aenaorn (Human) ZONE: runnyeye (USER PID EX2PGMT)
+[Sat Aug 25 02:15:20 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:16:07 2001] You told Aenaorn, 'Hail, Aenaorn! Guide Espranza here. Do you get booted to the server screen whenever you pick upi money from the ground?'
+[Sat Aug 25 02:16:19 2001] DELETING THIS PETITION
+[Sat Aug 25 02:16:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:16:21 2001] USER TEXT: I've even reinstalled EQ, and I've got problems.
+[Sat Aug 25 02:16:21 2001] Players in EverQuest:
+[Sat Aug 25 02:16:21 2001] ---------------------------
+[Sat Aug 25 02:16:21 2001] [ANON (35 Necromancer)] Kaostrife (Dark Elf) ZONE: nektulos (USER PID FW1PX3P)
+[Sat Aug 25 02:16:21 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:16:23 2001] Aenaorn tells you, 'yes, that is what heppened in CC'
+[Sat Aug 25 02:16:33 2001] You told Aenaorn, 'every time? Or just that once?'
+[Sat Aug 25 02:16:38 2001] Vibuti shouts, 'Vendui Jaf'
+[Sat Aug 25 02:16:51 2001] Aenaorn tells you, 'i picked up 13sp, and the comp froze for a sec, then booted me to teh srever select screen'
+[Sat Aug 25 02:16:59 2001] Jafkinlinheart shouts, 'Hail Vibuti'
+[Sat Aug 25 02:17:15 2001] You told Aenaorn, 'Okay, I'll report it as a possible bug...'
+[Sat Aug 25 02:17:19 2001] Aenaorn tells you, 'it happened to me once, but i've heard that  it has happened to others'
+[Sat Aug 25 02:17:26 2001] Vibuti shouts, 'long time no see my friend'
+[Sat Aug 25 02:17:30 2001] Aenaorn tells you, 'okay, i reported it also'
+[Sat Aug 25 02:17:31 2001] Kenpaz begins to cast a spell. (Feign Death)
+[Sat Aug 25 02:17:49 2001] Kenpaz begins to cast a spell. (Dooming Darkness)
+[Sat Aug 25 02:17:58 2001] You GMSAY, '<note bug> Sometimes when picking money up from the ground in Crystal Caverns, you are booted to the server select screen.'
+[Sat Aug 25 02:18:07 2001] Superhexer says out of character, 'have someone a kodiak on track?'
+[Sat Aug 25 02:18:08 2001] Kenpaz begins to cast a spell. (Life Leech)
+[Sat Aug 25 02:18:11 2001] You told Aenaorn, 'there - reported by me as well. Be well and have a safe journey!'
+[Sat Aug 25 02:18:15 2001] DELETING THIS PETITION
+[Sat Aug 25 02:18:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:18:17 2001] USER TEXT: I was singing my invis song, in hostile grounds (a banker) Well Bumbledu continued to wanting to make a trade with me, on purpose so it would knock off my invis song, and kill me!
+[Sat Aug 25 02:18:18 2001] Players in EverQuest:
+[Sat Aug 25 02:18:18 2001] ---------------------------
+[Sat Aug 25 02:18:18 2001] [ANON (24 Bard)] Traig (Half Elf) ZONE: gfaydark (USER PID FZNYMH3)
+[Sat Aug 25 02:18:18 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:18:19 2001] Aenaorn tells you, ')'
+[Sat Aug 25 02:18:39 2001] Jafkinlinheart shouts, 'Indeed how are ya?'
+[Sat Aug 25 02:18:41 2001] Searching zones for corpse of that name....
+[Sat Aug 25 02:18:41 2001] Corpse: Traig's corpse0 in zone: gfaydark
+[Sat Aug 25 02:18:59 2001] Vibuti shouts, 'Very well thank you. And you?'
+[Sat Aug 25 02:19:04 2001] You GMSAY, 'zone'
+[Sat Aug 25 02:19:08 2001] LOADING, PLEASE WAIT...
+[Sat Aug 25 02:19:40 2001] You have entered Greater Faydark.
+[Sat Aug 25 02:19:43 2001] Fenzak shouts, 'WTB cb belts and pads'
+[Sat Aug 25 02:19:47 2001] Teleporting to traig's corpse0.
+[Sat Aug 25 02:19:55 2001] Kondion auctions, 'WTS Rough Hickory Recurve Bow, 2pp, send tell'
+[Sat Aug 25 02:20:10 2001] Chomp, chomp, chomp...  Davtar takes a bite from a Berries.
+[Sat Aug 25 02:20:10 2001] Traig says, 'I have 7 cb belts and 1 pad'
+[Sat Aug 25 02:20:23 2001] Traig says out of character, 'is anyone able to preform an exp rez?'
+[Sat Aug 25 02:20:41 2001] Jonoeya says, 'Hello Fenzak'
+[Sat Aug 25 02:20:42 2001] Kondion auctions, 'WTS Rough Hickory Recurve Bow, 2pp, send tell'
+[Sat Aug 25 02:21:15 2001] Fenzak says, 'tahanks'
+[Sat Aug 25 02:21:18 2001] Fenzak says, 'thanks'
+[Sat Aug 25 02:21:44 2001] Airka auctions, 'WTB lego pads and cb belts. send tells'
+[Sat Aug 25 02:21:46 2001] You told Traig, 'Hail, Traig! Guide Espranza here. You can turn off trades from others using a switch under general options. Why were you trying to bank in DE form invisibly?'
+[Sat Aug 25 02:21:50 2001] Fenzak shouts, 'WTB sow at bank'
+[Sat Aug 25 02:21:55 2001] USER TEXT: I was singing my invis song, in hostile grounds (a banker) Well Bumbledu continued to wanting to make a trade with me, on purpose so it would knock off my invis song, and kill me!
+[Sat Aug 25 02:22:05 2001] Players in EverQuest:
+[Sat Aug 25 02:22:05 2001] ---------------------------
+[Sat Aug 25 02:22:05 2001] [14 Enchanter] Bumbledu (Gnome) ZONE: gfaydark (USER PID GWF6A09)
+[Sat Aug 25 02:22:05 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:22:14 2001] Davtar begins to cast a spell. (Spirit of Wolf)
+[Sat Aug 25 02:22:19 2001] Fenzak is surrounded by a brief lupine aura.
+[Sat Aug 25 02:22:20 2001] Teleporting to bumbledu.
+[Sat Aug 25 02:22:56 2001] You told Bumbledu, 'Hail, Bumbledu! Guide Espranza here. Were you trying to make a trade with Traig in order to get him killed?'
+[Sat Aug 25 02:23:00 2001] You wave at Bumbledu.
+[Sat Aug 25 02:23:02 2001] Traig tells you, 'I roleplay, and my character has become a dark elf.. hence the invis.. I did cancle the trade twice, but the gnome did not stop there.. He kept just putting up a CB Belt, for my trade.. I told him to stop and when he stopped my singing, the'
+[Sat Aug 25 02:23:02 2001] Ridan grins evilly at Bumbledu.
+[Sat Aug 25 02:23:07 2001] Ridan bows before Espranza.
+[Sat Aug 25 02:23:10 2001] Bumbledu cheers at Espranza.
+[Sat Aug 25 02:23:13 2001] Bumbledu tells you, 'not at all'
+[Sat Aug 25 02:23:15 2001] Ridan says, 'good day lady Espranza'
+[Sat Aug 25 02:23:21 2001] Kondion auctions, 'WTS Rough Hickory Recurve Bow, 2pp, send tell'
+[Sat Aug 25 02:23:24 2001] You told Traig, 'Talking with Bumbledu now'
+[Sat Aug 25 02:23:29 2001] Bumbledu tells you, 'i was making a trade with someone'
+[Sat Aug 25 02:23:33 2001] Traig tells you, 'the banker got to me.. once I returned from death, I told him what happened, and he told me that "my singing sucked anyways"'
+[Sat Aug 25 02:23:44 2001] Beepers tells you, 'here's go's nothing'
+[Sat Aug 25 02:23:45 2001] Bumbledu tells you, 'have no recollection of even seeing traig'
+[Sat Aug 25 02:23:54 2001] Bumbledu tells you, 'yet he insists i killed him'
+[Sat Aug 25 02:24:12 2001] Bumbledu tells you, 'though i know not how this little gnome could do so without me spells'
+[Sat Aug 25 02:24:21 2001] Kondion auctions, 'WTS Rough Hickory Recurve Bow, 2pp, send tell'
+[Sat Aug 25 02:24:23 2001] Bumbledu shrugs at Espranza.
+[Sat Aug 25 02:24:24 2001] You told Bumbledu, 'He was invisible, and claims you saw him and was trying to get him to turn visible by trading with him'
+[Sat Aug 25 02:24:42 2001] Gethlin begins to cast a spell. (Burst of Flame)
+[Sat Aug 25 02:24:43 2001] You told Bumbledu, 'Who were you trying to trade with?'
+[Sat Aug 25 02:24:51 2001] Davtar auctions, 'WTB LQ MQ HQ pelts and spider/spiderling silks.'
+[Sat Aug 25 02:24:53 2001] Davtar auctions, 'WTS cured silk armor. monk only, 2pp per ac.'
+[Sat Aug 25 02:24:56 2001] Bumbledu tells you, 'i never cast my see invisible spell unless i am invis'n my party'
+[Sat Aug 25 02:25:04 2001] Bumbledu tells you, 'i would have to check on that'
+[Sat Aug 25 02:25:13 2001] Bumbledu tells you, 'was sellin cb belts and pads'
+[Sat Aug 25 02:25:14 2001] Luminite shouts, 'i will be casting clarity and augmentation by the felwithe gates for a while'
+[Sat Aug 25 02:25:22 2001] Bumbledu tells you, 'and lookin into some gloves'
+[Sat Aug 25 02:25:35 2001] Bumbledu tells you, 'it was crowded in the bank, u know'
+[Sat Aug 25 02:25:36 2001] You told Traig, 'Bumbledu says he was trying to trade with someone else and didn't see you in the way until you'd died.'
+[Sat Aug 25 02:25:49 2001] Bumbledu tells you, 'i wasnt out to kill any one,  '
+[Sat Aug 25 02:25:52 2001] You told Bumbledu, 'Aye, it does get that way'
+[Sat Aug 25 02:25:55 2001] You feel as if you are about to fall.
+[Sat Aug 25 02:26:00 2001] You can no longer levitate.
+[Sat Aug 25 02:26:01 2001] You feel different.
+[Sat Aug 25 02:26:06 2001] Bumbledu tells you, 'i still dont know why i am under judgement 0'
+[Sat Aug 25 02:26:09 2001] Bumbledu shrugs at Espranza.
+[Sat Aug 25 02:26:16 2001] Bumbledu cheers at Espranza.
+[Sat Aug 25 02:26:19 2001] Traig tells you, 'When a bard sings an invis song, every two second he is outlined in blue threads of music, or magic. I cancled the trade more then once'
+[Sat Aug 25 02:26:20 2001] You told Bumbledu, 'I'm just trying to see if he was deliberately killed'
+[Sat Aug 25 02:26:24 2001] Bumbledu loves gnome sisters.
+[Sat Aug 25 02:26:28 2001] You blush at Bumbledu.
+[Sat Aug 25 02:26:32 2001] Bumbledu tells you, 'not in the bit'
+[Sat Aug 25 02:26:35 2001] Rainhawk auctions, 'shinhwa invite me plz'
+[Sat Aug 25 02:26:45 2001] You told Bumbledu, 'okay, thank you for your time!'
+[Sat Aug 25 02:26:48 2001] Your illusion fades.
+[Sat Aug 25 02:26:48 2001] You feel a bit dispelled.
+[Sat Aug 25 02:26:51 2001] Rainhawk auctions, 'mana up da >.<;;;'
+[Sat Aug 25 02:26:53 2001] Bumbledu tells you, 'he just thinks i was out to kill him or something, no clue'
+[Sat Aug 25 02:27:02 2001] You wave goodbye to Bumbledu.
+[Sat Aug 25 02:27:05 2001] Teleporting to traig.
+[Sat Aug 25 02:27:05 2001] Rainhawk auctions, 'whisperingrain have Cazic gate'
+[Sat Aug 25 02:27:11 2001] Shinhwa says out of character, 'Lol ~~~'
+[Sat Aug 25 02:27:19 2001] Airka says, 'can anyone bless me with sow?'
+[Sat Aug 25 02:27:23 2001] Rainhawk auctions, 'mana up da T^T.'
+[Sat Aug 25 02:27:24 2001] You told Traig, 'It appears as if it was accidental'
+[Sat Aug 25 02:27:34 2001] Bumbledu tells you, 'take care'
+[Sat Aug 25 02:27:39 2001] You told Bumbledu, 'you too'
+[Sat Aug 25 02:27:40 2001] Rainhawk auctions, 'Tping to Cazic'
+[Sat Aug 25 02:27:45 2001] Traig sighs at Espranza.
+[Sat Aug 25 02:27:50 2001] You shrug at Traig.
+[Sat Aug 25 02:28:01 2001] Traig tells you, 'I lost lvl 25, to a gnome who continued to trade with me'
+[Sat Aug 25 02:28:08 2001] You told Traig, 'Just an unfortunate happening...'
+[Sat Aug 25 02:28:11 2001] Bumbledu says out of character, 'little chanter looking for port across the seas'
+[Sat Aug 25 02:28:22 2001] Traig tells you, 'Yes, I can see one time an accident, but two, three times?'
+[Sat Aug 25 02:28:37 2001] You told Traig, 'Do you have anything in your chat window that could support him trying to get you killed before you died?'
+[Sat Aug 25 02:28:48 2001] Traig tells you, 'Let me check'
+[Sat Aug 25 02:28:48 2001] You told Traig, 'Perhaps if you scroll back?'
+[Sat Aug 25 02:29:35 2001] Luminite shouts, 'i will be casting clarity and augmentation by the felwithe gates for a while'
+[Sat Aug 25 02:29:45 2001] Espranza saved.
+[Sat Aug 25 02:29:45 2001] DELETING THIS PETITION
+[Sat Aug 25 02:29:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:29:46 2001] Traig tells you, 'your singin was no good anyways?'
+[Sat Aug 25 02:29:47 2001] USER TEXT: IllegalDta
+[Sat Aug 25 02:29:47 2001] Players in EverQuest:
+[Sat Aug 25 02:29:47 2001] ---------------------------
+[Sat Aug 25 02:29:47 2001] There are no players in EverQuest that match those who filters.
+[Sat Aug 25 02:30:11 2001] You told Traig, 'That wouldn't do - that was said after you died, yes?'
+[Sat Aug 25 02:30:14 2001] Glug, glug, glug...  Davtar takes a swig of Ginesh.
+[Sat Aug 25 02:30:15 2001] Glug, glug, glug...  Davtar takes a swig of Ginesh.
+[Sat Aug 25 02:30:20 2001] You told Traig, 'it's an RP comment anyway'
+[Sat Aug 25 02:30:24 2001] DELETING THIS PETITION
+[Sat Aug 25 02:30:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:30:26 2001] USER TEXT: I GOT KILLED BY A NPC in CrushBone and he Conned Ally to me. WTF is with this
+[Sat Aug 25 02:30:27 2001] Players in EverQuest:
+[Sat Aug 25 02:30:27 2001] ---------------------------
+[Sat Aug 25 02:30:27 2001] [21 Warrior] Halamark (Dwarf) <Sharp Shards> ZONE: gfaydark (USER PID DZGCX7D)
+[Sat Aug 25 02:30:27 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:30:33 2001] Glug, glug, glug...  Davtar takes a drink from a Pod of Water.
+[Sat Aug 25 02:31:08 2001] You told Halamark, 'Hail, Halamark! Guide Espranza here. Who in Crushbone cons ally to a dwarf?'
+[Sat Aug 25 02:31:19 2001] Halamark tells you, 'some Gnome '
+[Sat Aug 25 02:31:20 2001] Nihles shouts, 'does anyone @ Kelethin want to help a newbie out?'
+[Sat Aug 25 02:31:28 2001] Halamark tells you, 'I lost my lvl i cried!'
+[Sat Aug 25 02:31:30 2001] You told Halamark, 'Retlon someone or other?'
+[Sat Aug 25 02:31:35 2001] Halamark tells you, 'relton'
+[Sat Aug 25 02:31:40 2001] Halamark tells you, 'this isnt my char its my brothers'
+[Sat Aug 25 02:31:49 2001] DELETING THIS PETITION
+[Sat Aug 25 02:31:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:31:53 2001] USER TEXT: gm
+[Sat Aug 25 02:31:53 2001] Players in EverQuest:
+[Sat Aug 25 02:31:53 2001] ---------------------------
+[Sat Aug 25 02:31:53 2001] [ANON (47 Cleric)] Dashina (Human) ZONE: soldungb (USER PID APV41BV)
+[Sat Aug 25 02:31:53 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:31:58 2001] Halamark tells you, 'He will so kill me u gotta help me plz'
+[Sat Aug 25 02:32:06 2001] Toryen says out of character, 'what do you need help with?'
+[Sat Aug 25 02:32:17 2001] You told Halamark, 'That mage is a nasty feller; once he gets loose he will attack everyone he sees.'
+[Sat Aug 25 02:32:23 2001] You told Halamark, 'That's just what he does.'
+[Sat Aug 25 02:32:34 2001] Halamark tells you, 'I dont care. I just need to get 22 back'
+[Sat Aug 25 02:32:34 2001] You were hit by non-melee for 162 dmg.
+[Sat Aug 25 02:32:34 2001] YOU were injured by falling.
+[Sat Aug 25 02:32:39 2001] Halamark tells you, 'my brotehr trusted me'
+[Sat Aug 25 02:32:50 2001] Halamark tells you, 'Trust is hard in our family'
+[Sat Aug 25 02:32:58 2001] Halamark tells you, 'Plz help me'
+[Sat Aug 25 02:33:08 2001] You told Dashina, 'Hail, Dashina! Guide Espranza here. How may I help you>'
+[Sat Aug 25 02:33:24 2001] You told Dashina, 'Hail, Dashina! Guide Espranza here. How may I help you? (<--- now with Question Mark added!)'
+[Sat Aug 25 02:33:44 2001] Dashina tells you, 'guild in solb and we doing bugs and my friend ogor we got trained someone called use bastard '
+[Sat Aug 25 02:33:51 2001] You told Halamark, 'Not anything I can do - you died to an NPC that kills people all the time in there.'
+[Sat Aug 25 02:34:07 2001] Traig tells you, 'please excuse my ld'
+[Sat Aug 25 02:34:14 2001] You told Traig, 'tis okay'
+[Sat Aug 25 02:34:28 2001] Halamark tells you, 'what ever'
+[Sat Aug 25 02:34:38 2001] Traig tells you, 'uh...'
+[Sat Aug 25 02:34:42 2001] Halamark tells you, 'What is the point of gms?'
+[Sat Aug 25 02:35:01 2001] You told Halamark, 'We can never rez people who get killed by NPCs.'
+[Sat Aug 25 02:35:01 2001] Nihles shouts, 'may I have a bind at the POD lift?'
+[Sat Aug 25 02:35:04 2001] Traig tells you, 'I can't scroll up...'
+[Sat Aug 25 02:35:19 2001] Halamark cries over Espranza.
+[Sat Aug 25 02:35:21 2001] You told Traig, 'Yeah, when you went link dead I was afraid that would happen'
+[Sat Aug 25 02:35:25 2001] You apologize to Halamark whole-heartedly.
+[Sat Aug 25 02:35:27 2001] Halamark yells for help from straight ahead of you.
+[Sat Aug 25 02:35:35 2001] a giant wasp drone has been slain by Guard Rainstrider!
+[Sat Aug 25 02:35:35 2001] Guard Rainstrider says 'For the protection of all Fier'Dal, there shall be no mercy for your kind. 
+[Sat Aug 25 02:35:40 2001] Subin shouts, 'anyone have a heal at orc lift?'
+[Sat Aug 25 02:35:42 2001] Traig tells you, 'geez... is there anything you can do to help my lifeless body?'
+[Sat Aug 25 02:35:48 2001] Halamark tells you, 'Do u help some one if there going to die next to you?'
+[Sat Aug 25 02:35:50 2001] Toryen says, 'Hail, Nihles'
+[Sat Aug 25 02:35:52 2001] Toryen begins to cast a spell. (Light Healing)
+[Sat Aug 25 02:36:00 2001] You told Halamark, 'No, I can't help there either.'
+[Sat Aug 25 02:36:01 2001] Toryen begins to cast a spell. (Light Healing)
+[Sat Aug 25 02:36:03 2001] Traig tells you, 'Like, just a rez and I would drop this whole thing with the gnome.. can't remember his name'
+[Sat Aug 25 02:36:08 2001] You told Halamark, 'It's only my job to help people with bugs.'
+[Sat Aug 25 02:36:09 2001] Guard Fireblight says 'For the defense of Kelethin!! 
+[Sat Aug 25 02:36:10 2001] a bat has been slain by Guard Fireblight!
+[Sat Aug 25 02:36:10 2001] Guard Fireblight says 'For the protection of all Fier'Dal, there shall be no mercy for your kind. 
+[Sat Aug 25 02:36:13 2001] Halamark tells you, 'hmmmm'
+[Sat Aug 25 02:36:49 2001] Luminite shouts, 'i will be casting clarity and augmentation by the felwithe gates for a while'
+[Sat Aug 25 02:36:52 2001] You told Traig, 'I can't give a rez for that - you didn't die to a bug. Even if the gnome deliberately caused your death, I couldn't rez you for it.'
+[Sat Aug 25 02:36:59 2001] You told Traig, 'All I could do would be to give him a warning.'
+[Sat Aug 25 02:37:11 2001] You told Traig, 'After talking to him, I don't think he meant for you to die.'
+[Sat Aug 25 02:37:25 2001] Heartwood Master begins to cast a spell. (Shield of Blades)
+[Sat Aug 25 02:37:39 2001] Traig tells you, 'geez, is going into a trade menu suppose to stop your song anyways? perhaps that is the bug?'
+[Sat Aug 25 02:38:17 2001] You told Traig, 'I don't think it stops your song, but I believe all invisibilty drops when you go into trade - you were just killed before your song pulsed you invisible again.'
+[Sat Aug 25 02:38:41 2001] You told Traig, 'I think even banking might have dropped it for a short while.'
+[Sat Aug 25 02:38:50 2001] Beepers tells you, 'it worked thanks a lot'
+[Sat Aug 25 02:38:56 2001] You told Beepers, 'wonderful :)'
+[Sat Aug 25 02:39:05 2001] Beepers tells you, 'I LOVE YOU LOTS THANKS'
+[Sat Aug 25 02:39:08 2001] You told Beepers, 'heh'
+[Sat Aug 25 02:39:10 2001] Traig tells you, 'no banking doesn't drop it.. have done it many times.. trades with npc does not drop it.. and it does not repulse.. leaving you visible for a short amount of time'
+[Sat Aug 25 02:39:15 2001] Beepers tells you, 'by ebye'
+[Sat Aug 25 02:39:47 2001] You told Traig, 'I will report it in my shift report, perhaps I can get an answer from the GM tomorrow.'
+[Sat Aug 25 02:39:55 2001] Espranza saved.
+[Sat Aug 25 02:40:03 2001] You told Traig, 'Even so, I won't be able to rez for it.'
+[Sat Aug 25 02:40:17 2001] Traig tells you, 'it would be a bug wouldn't it?'
+[Sat Aug 25 02:40:19 2001] Players in EverQuest:
+[Sat Aug 25 02:40:19 2001] ---------------------------
+[Sat Aug 25 02:40:19 2001] [ANON (24 Bard)] Traig (Half Elf) ZONE: gfaydark (USER PID FZNYMH3)
+[Sat Aug 25 02:40:19 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:41:04 2001] You GMSAY, '<note bug> Traig FZNYMH3 says someone tried to trade with him while he was invisible, causing him to become visible and be killed by nearby hostile guards.'
+[Sat Aug 25 02:41:46 2001] You told Traig, 'If the GM says it is. But right now there's no proof, and the GM doesn't come on until tomorrow afternoon.'
+[Sat Aug 25 02:42:02 2001] You told Traig, 'You'd be best off trying to find a rez from a player.'
+[Sat Aug 25 02:42:13 2001] You GMSAY, 'zone'
+[Sat Aug 25 02:42:19 2001] USER TEXT: gm
+[Sat Aug 25 02:42:53 2001] Traig tells you, 'aw man, thought the guides and gms did stuff like that.. why don't they?'
+[Sat Aug 25 02:43:22 2001] You told Traig, 'we help where we can, but we have a list of rules we must follow.'
+[Sat Aug 25 02:43:30 2001] You told Traig, 'there are very few instances we can rez people.'
+[Sat Aug 25 02:43:32 2001] Kondion auctions, 'WTS Rough Hickory Recurve Bow, 2pp, send tell'
+[Sat Aug 25 02:43:58 2001] You told Traig, 'believe me, I love rezzing people. but I can only do it when allowed.'
+[Sat Aug 25 02:44:01 2001] You GMSAY, 'zone'
+[Sat Aug 25 02:44:04 2001] Teleporting to dashina.
+[Sat Aug 25 02:44:05 2001] LOADING, PLEASE WAIT...
+[Sat Aug 25 02:44:29 2001] Dashina says out of character, 'come to bugs'
+[Sat Aug 25 02:44:30 2001] You have entered Nagafen's Lair.
+[Sat Aug 25 02:44:30 2001] Karlo is surrounded by a thorny barrier.
+[Sat Aug 25 02:44:32 2001] Slikfiness begins to cast a spell. (Root)
+[Sat Aug 25 02:44:33 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:44:34 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:44:34 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:44:34 2001] Greater kobold adheres to the ground.
+[Sat Aug 25 02:44:40 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:44:40 2001] Karlo begins to cast a spell. (Snare)
+[Sat Aug 25 02:44:42 2001] Greater kobold has been ensnared.
+[Sat Aug 25 02:44:43 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:44:44 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Sat Aug 25 02:44:46 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:44:47 2001] Karlo begins to cast a spell. (CallOfSkyEffect)
+[Sat Aug 25 02:44:49 2001] Sergant says out of character, 'lol, holy corpses at zone, haha'
+[Sat Aug 25 02:44:52 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:44:52 2001] Solusek kobold shaman begins to cast a spell. (Greater Healing)
+[Sat Aug 25 02:44:56 2001] Greater kobold feels much better.
+[Sat Aug 25 02:45:00 2001] Solusek kobold shaman begins to cast a spell. (Healing)
+[Sat Aug 25 02:45:02 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:45:03 2001] You told Dashina, 'Hail, Dashina! I apologize, I kept getting tells from a previous petition.'
+[Sat Aug 25 02:45:03 2001] Greater kobold feels much better.
+[Sat Aug 25 02:45:05 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:45:07 2001] Halamark tells you, 'ms gm'
+[Sat Aug 25 02:45:08 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:45:08 2001] Greater kobold was pierced by thorns.
+[Sat Aug 25 02:45:08 2001] Solusek kobold shaman begins to cast a spell. (Regeneration)
+[Sat Aug 25 02:45:10 2001] greater kobold has been slain by Yargs!
+[Sat Aug 25 02:45:12 2001] You told Dashina, 'Who was it that trained you?'
+[Sat Aug 25 02:45:14 2001] Greater kobold begins to regenerate.
+[Sat Aug 25 02:45:19 2001] You told Halamark, 'yes?'
+[Sat Aug 25 02:45:24 2001] Slikfiness says, 'oh espranza you moved the wrong corpse'
+[Sat Aug 25 02:45:30 2001] Halamark tells you, 'could you help me out. I wanna transfer stuff from this guy to a new char'
+[Sat Aug 25 02:45:33 2001] You say, 'there was another?'
+[Sat Aug 25 02:45:37 2001] Slikfiness says, 'are you busy?'
+[Sat Aug 25 02:45:40 2001] Searching zones for corpse of that name....
+[Sat Aug 25 02:45:40 2001] Corpse: Slikfiness's corpse1 in zone: soldungb
+[Sat Aug 25 02:45:45 2001] Halamark tells you, 'could u hold the bags?'
+[Sat Aug 25 02:45:57 2001] Dashina tells you, 'named trained my friend didnt have shrink posion the guy said next time hes gone kills use then said bastards'
+[Sat Aug 25 02:45:58 2001] Slikfiness says, 'yes let me show you'
+[Sat Aug 25 02:45:59 2001] You told Halamark, 'No, I cannot do that for you; sorry!'
+[Sat Aug 25 02:45:59 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:45:59 2001] Clinginfus's song ends abruptly.
+[Sat Aug 25 02:45:59 2001] Clinginfus writhes in pain.
+[Sat Aug 25 02:45:59 2001] Clinginfus's song ends.
+[Sat Aug 25 02:46:01 2001] Yargs says, 'slik is collecting corpses.....'
+[Sat Aug 25 02:46:09 2001] Dashina begins to cast a spell. (Superior Healing)
+[Sat Aug 25 02:46:14 2001] Karlo feels much better.
+[Sat Aug 25 02:46:15 2001] Karlo begins to cast a spell. (Stinging Swarm)
+[Sat Aug 25 02:46:15 2001] Teleporting to slikfiness's corpse1.
+[Sat Aug 25 02:46:16 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:46:19 2001]  (Vilia`s Verses of Celerity)
+[Sat Aug 25 02:46:19 2001] Summoning Slikfiness's corpse1.
+[Sat Aug 25 02:46:20 2001] Halamark tells you, 'Cant u just pretend ur not a gm right now. No one iwll find out. I cant trust other people'
+[Sat Aug 25 02:46:20 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 02:46:21 2001] Dashina begins to cast a spell. (Superior Healing)
+[Sat Aug 25 02:46:23 2001] Karlo begins to cast a spell. (Snare)
+[Sat Aug 25 02:46:26 2001] Halamark tells you, 'Is \s'
+[Sat Aug 25 02:46:26 2001]  (Vilia`s Verses of Celerity)
+[Sat Aug 25 02:46:27 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:46:30 2001] Karlo begins to cast a spell. (Snare)
+[Sat Aug 25 02:46:31 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:46:31 2001] You told Halamark, 'I really cannot do that.'
+[Sat Aug 25 02:46:33 2001] Halamark tells you, 'Is ir hard to help me'
+[Sat Aug 25 02:46:34 2001]  (Vilia`s Verses of Celerity)
+[Sat Aug 25 02:46:37 2001] Halamark tells you, 'man'
+[Sat Aug 25 02:46:38 2001] Karlo begins to cast a spell. (Snare)
+[Sat Aug 25 02:46:40 2001] Halamark tells you, 'this sucks'
+[Sat Aug 25 02:46:41 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:46:46 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:46:50 2001]  (Vilia`s Verses of Celerity)
+[Sat Aug 25 02:46:53 2001] Dashina begins to cast a spell. (Superior Healing)
+[Sat Aug 25 02:46:55 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:47:00 2001] You told slikfiness, 'oops! You're right, that was the wrong corpse. I pulled your other corpse from the wall.'
+[Sat Aug 25 02:47:02 2001]  (Vilia`s Verses of Celerity)
+[Sat Aug 25 02:47:02 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:47:09 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:47:15 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:47:21 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:47:25 2001] Slikfiness tells you, 'now is there any way i can get that rezed?:)'
+[Sat Aug 25 02:47:27 2001] Dashina begins to cast a spell. (Superior Healing)
+[Sat Aug 25 02:47:30 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:47:34 2001]  (Selo`s Consonant Chain)
+[Sat Aug 25 02:47:36 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:47:38 2001] Dashina begins to cast a spell. (Celestial Healing)
+[Sat Aug 25 02:47:43 2001]  (Selo`s Consonant Chain)
+[Sat Aug 25 02:47:46 2001] Slikfiness tells you, 'been sitting there longer than 3 hours for sure'
+[Sat Aug 25 02:47:46 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:47:48 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Sat Aug 25 02:47:48 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:47:49 2001]  (Vilia`s Verses of Celerity)
+[Sat Aug 25 02:48:01 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:48:01 2001] You told Slikfiness, 'My rez has the same time limits as a cleric rez would have'
+[Sat Aug 25 02:48:04 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Sat Aug 25 02:48:06 2001] Karlo begins to cast a spell. (Invigor)
+[Sat Aug 25 02:48:10 2001] Players in EverQuest:
+[Sat Aug 25 02:48:10 2001] ---------------------------
+[Sat Aug 25 02:48:10 2001] There are no players in EverQuest that match those who filters.
+[Sat Aug 25 02:48:12 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Sat Aug 25 02:48:13 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:48:15 2001]  (Cassindra`s Chorus of Clarity)
+[Sat Aug 25 02:48:20 2001] You told Dashina, 'What was the name of the person who said these things?'
+[Sat Aug 25 02:48:27 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:48:29 2001] Slikfiness tells you, 'that is fine with me'
+[Sat Aug 25 02:48:37 2001] Slikfiness tells you, 'give me a sec though in a fight'
+[Sat Aug 25 02:48:40 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:48:53 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:48:56 2001] Karlo begins to cast a spell. (CallOfSkyEffect)
+[Sat Aug 25 02:49:01 2001] You told Slikfiness, 'I can't rez you unless you died in a bug. you should have a player cleric try to rez you.'
+[Sat Aug 25 02:49:06 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:49:13 2001] Karlo begins to cast a spell. (Healing)
+[Sat Aug 25 02:49:20 2001] Slikfiness tells you, 'but the reason i didnt get a rez was due to a bug:)'
+[Sat Aug 25 02:49:25 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:49:25 2001] Slikfiness begins to cast a spell. (Color Skew)
+[Sat Aug 25 02:49:37 2001] You told Slikfiness, 'perhaps, but it wasn't the reason you died...'
+[Sat Aug 25 02:49:37 2001] Slikfiness begins to cast a spell. (Color Shift)
+[Sat Aug 25 02:49:47 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:49:47 2001] Slikfiness begins to cast a spell. (Color Skew)
+[Sat Aug 25 02:49:57 2001] Slikfiness begins to cast a spell. (Color Shift)
+[Sat Aug 25 02:50:01 2001] Dashina tells you, 'dekka was there cant remember how else'
+[Sat Aug 25 02:50:06 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:50:14 2001] Players in EverQuest:
+[Sat Aug 25 02:50:14 2001] ---------------------------
+[Sat Aug 25 02:50:14 2001] [45 Paladin] Dekka (Human) <Echelon> ZONE: soldungb (USER PID HV31TDU)
+[Sat Aug 25 02:50:14 2001] [ANON (59 Luminary)] Dekkamen (Barbarian) ZONE: thurgadina (USER PID AVJYEJL)
+[Sat Aug 25 02:50:14 2001] There are 2 players in EverQuest.
+[Sat Aug 25 02:50:20 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:50:22 2001] Slikfiness tells you, 'well at least agree that is it not fair that i cant get a rez from a real cleric now due to a bugg int he game:)'
+[Sat Aug 25 02:50:28 2001] You told Dashina, 'Was Dekka the one who said he or she would train you?'
+[Sat Aug 25 02:50:31 2001] Slikfiness begins to cast a spell. (Color Skew)
+[Sat Aug 25 02:50:32 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:50:35 2001] Dashina begins to cast a spell. (Celestial Healing)
+[Sat Aug 25 02:50:37 2001] Slikfiness begins to cast a spell. (Color Shift)
+[Sat Aug 25 02:50:39 2001] The spirit leaves you.
+[Sat Aug 25 02:50:47 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 02:50:48 2001] Dashina begins to cast a spell. (Celestial Healing)
+[Sat Aug 25 02:50:49 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:50:50 2001]  (Selo`s Consonant Chain)
+[Sat Aug 25 02:50:51 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Sat Aug 25 02:50:52 2001] You told Slikfiness, 'My rez has the same time limits as a cleric's. If I could rez you, then a cleric could.'
+[Sat Aug 25 02:50:57 2001]  (Cassindra`s Chorus of Clarity)
+[Sat Aug 25 02:51:01 2001] sonic bat begins to cast a spell. (SonicScream)
+[Sat Aug 25 02:51:03 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 02:51:07 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Sat Aug 25 02:51:11 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 02:51:15 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Sat Aug 25 02:51:19 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 02:51:19 2001] Vurtrue says out of character, 'WTB Dashina's butt !!'
+[Sat Aug 25 02:51:21 2001] Halamark tells you, 'can I get advice'
+[Sat Aug 25 02:51:35 2001] You told Halamark, 'If I know the answer :)'
+[Sat Aug 25 02:51:36 2001] Halamark tells you, 'I have a 19 enchanter and a 21 warrior. Why isnt it fun for me?'
+[Sat Aug 25 02:51:37 2001] Slikfiness tells you, 'ok so if i get my cleric she could rez me?'
+[Sat Aug 25 02:51:43 2001] Slikfiness tells you, 'where is the corpse now'
+[Sat Aug 25 02:51:47 2001] Halamark tells you, 'I cant wait till beast lord gets out but '
+[Sat Aug 25 02:51:57 2001] You told Slikfiness, 'the corpse should be about where you died, just out of the wall'
+[Sat Aug 25 02:52:00 2001] Halamark tells you, 'I want a class that can solo. but is not a PURE caster'
+[Sat Aug 25 02:52:09 2001] You told Slikfiness, 'If a cleric can't rez you, then I couldn't.'
+[Sat Aug 25 02:52:15 2001] Vurtrue says out of character, 'Sup cutie GM 8)'
+[Sat Aug 25 02:52:22 2001] You told Halamark, 'You might want to look into a shadow knight'
+[Sat Aug 25 02:52:35 2001] You told vurtrue, 'hiya, Vurtrue!'
+[Sat Aug 25 02:52:36 2001] Players on EverQuest:
+[Sat Aug 25 02:52:36 2001] ---------------------------
+[Sat Aug 25 02:52:36 2001] [ANONYMOUS] Vurtrue  <Rise of the Phoenix>
+[Sat Aug 25 02:52:36 2001] [36 Warrior] Variety (Barbarian)
+[Sat Aug 25 02:52:36 2001] [45 Paladin] Dekka (Human) <Echelon>
+[Sat Aug 25 02:52:36 2001] [ANONYMOUS] Emmeline 
+[Sat Aug 25 02:52:36 2001] [37 Ranger] Yeppeni (Wood Elf) <Brothers>
+[Sat Aug 25 02:52:36 2001] [44 Ranger] Kalais (Half Elf) <Hunters of the Undead>
+[Sat Aug 25 02:52:36 2001] [ANONYMOUS] Slikfiness  <Protectors of Lore>
+[Sat Aug 25 02:52:36 2001] [40 Warrior] Gargual (Troll)
+[Sat Aug 25 02:52:36 2001] [ANONYMOUS] Yargs 
+[Sat Aug 25 02:52:36 2001] [ANONYMOUS] Dashina  <Rise of the Phoenix>
+[Sat Aug 25 02:52:36 2001] [ANONYMOUS] Clinginfus 
+[Sat Aug 25 02:52:36 2001] [45 Warrior] Sergant (Troll) <Unbroken Power> LFG
+[Sat Aug 25 02:52:36 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Aug 25 02:52:36 2001] There are 13 players in Nagafen's Lair.
+[Sat Aug 25 02:52:38 2001] Dashina tells you, 'looking for his name hold on'
+[Sat Aug 25 02:52:38 2001] Halamark tells you, 'can rangers?'
+[Sat Aug 25 02:52:39 2001] Slikfiness tells you, 'ouch that hurt all the way by the imps eh?'
+[Sat Aug 25 02:52:46 2001] Vurtrue tells you, '8)'
+[Sat Aug 25 02:52:56 2001] You told Slikfiness, 'Oh, not that far'
+[Sat Aug 25 02:53:08 2001] Slikfiness tells you, 'arround bugs?'
+[Sat Aug 25 02:53:12 2001] You told Slikfiness, 'yeah'
+[Sat Aug 25 02:53:21 2001] Vurtrue tells you, 'you helping out Dash and Yargs?'
+[Sat Aug 25 02:53:24 2001] Slikfiness tells you, 'ok thanks again i will find it sooner or later'
+[Sat Aug 25 02:53:33 2001] You told Halamark, 'Rangers can solo for awhile'
+[Sat Aug 25 02:53:41 2001] You told Vurtrue, 'Trying to...'
+[Sat Aug 25 02:53:48 2001] You told Vurtrue, 'Doing what I can.'
+[Sat Aug 25 02:53:56 2001] Players in EverQuest:
+[Sat Aug 25 02:53:56 2001] ---------------------------
+[Sat Aug 25 02:53:56 2001] [ANON (52 Cavalier)] Vurtrue (Half Elf) ZONE: soldungb (USER PID BVCG79D)
+[Sat Aug 25 02:53:56 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:53:58 2001] Dashina tells you, 'the group cant reemember his name but lanuage was bad '
+[Sat Aug 25 02:54:03 2001] Vurtrue tells you, '8) thanx preshate it 8))) /hugs'
+[Sat Aug 25 02:54:12 2001] Dashina tells you, 'dekka was in named '
+[Sat Aug 25 02:54:17 2001] You told Vurture, 'Vurture is not online at this time.'
+[Sat Aug 25 02:54:30 2001] Dashina tells you, 'dianwei'
+[Sat Aug 25 02:54:34 2001] Espranza saved.
+[Sat Aug 25 02:54:37 2001] Players in EverQuest:
+[Sat Aug 25 02:54:37 2001] ---------------------------
+[Sat Aug 25 02:54:37 2001] [40 Warrior] Dianwei (Barbarian) <Unbroken Bond> ZONE: freportn (USER PID BZGE68W)
+[Sat Aug 25 02:54:37 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:54:41 2001] Variety shouts, 'Lvl 36 war LFG'
+[Sat Aug 25 02:55:00 2001] You told Dashina, 'Is it possible to scroll back in your chat buffer to get a /report of what he said?'
+[Sat Aug 25 02:55:02 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 02:55:09 2001] Mouse control deactivated.
+[Sat Aug 25 02:55:10 2001] Mouse control activated.  Use right mouse button.
+[Sat Aug 25 02:55:14 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 02:55:15 2001] Dashina tells you, 'doent go back that far'
+[Sat Aug 25 02:55:15 2001] Slikfiness begins to cast a spell. (Color Skew)
+[Sat Aug 25 02:55:19 2001] Slikfiness begins to cast a spell. (Color Skew)
+[Sat Aug 25 02:55:19 2001] DELETING THIS PETITION
+[Sat Aug 25 02:55:20 2001] Karlo tells you, 'hello, may i begg for a rez to sol b ?'
+[Sat Aug 25 02:55:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:55:21 2001]  (Vilia`s Verses of Celerity)
+[Sat Aug 25 02:55:21 2001] USER TEXT: the last line of my text window does not show anything. when i first log on it does but after a bit it just starts to not show it until another line is printed. this has happened with more than one of my characters.
+[Sat Aug 25 02:55:21 2001] Players in EverQuest:
+[Sat Aug 25 02:55:21 2001] ---------------------------
+[Sat Aug 25 02:55:21 2001] [2 Rogue] Nokred (Halfling) ZONE: misty (USER PID FU6C96U)
+[Sat Aug 25 02:55:21 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:55:23 2001] Dashina begins to cast a spell. (Superior Healing)
+[Sat Aug 25 02:55:30 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 02:55:31 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Sat Aug 25 02:55:35 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Sat Aug 25 02:55:39 2001] You told Karlo, 'I'm sorry, I cannot do that for you. Perhaps a cleric could help?'
+[Sat Aug 25 02:55:45 2001] Dashina begins to cast a spell. (Superior Healing)
+[Sat Aug 25 02:55:47 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Sat Aug 25 02:55:49 2001] You told Dashina, 'Hmm... did he train you?'
+[Sat Aug 25 02:55:50 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 02:55:56 2001] Dashina begins to cast a spell. (Superior Healing)
+[Sat Aug 25 02:55:57 2001] Karlo tells you, 'arent u a cleric ?'
+[Sat Aug 25 02:55:57 2001] Solusek kobold shaman begins to cast a spell. (Cancel Magic)
+[Sat Aug 25 02:56:01 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Sat Aug 25 02:56:05 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Sat Aug 25 02:56:08 2001] You told Karlo, 'no, I'm a rogue.'
+[Sat Aug 25 02:56:15 2001]  (Selo`s Consonant Chain)
+[Sat Aug 25 02:56:19 2001]  (Vilia`s Verses of Celerity)
+[Sat Aug 25 02:56:19 2001] Karlo tells you, 'ohh, sorry )'
+[Sat Aug 25 02:56:21 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Sat Aug 25 02:56:25 2001] You told Karlo, 'heh'
+[Sat Aug 25 02:56:26 2001] Dashina tells you, 'yes then we all zoned he was rude with yargs said next time kill you you bastard'
+[Sat Aug 25 02:56:28 2001] Slikfiness begins to cast a spell. (Clarity)
+[Sat Aug 25 02:56:29 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Sat Aug 25 02:56:32 2001]  (Selo`s Consonant Chain)
+[Sat Aug 25 02:56:33 2001] Solusek kobold shaman begins to cast a spell. (Cancel Magic)
+[Sat Aug 25 02:56:35 2001] Slikfiness begins to cast a spell. (Clarity)
+[Sat Aug 25 02:56:36 2001]  (Vilia`s Verses of Celerity)
+[Sat Aug 25 02:56:47 2001] Dashina says out of character, 'vur were you at'
+[Sat Aug 25 02:57:20 2001]  (Selo`s Consonant Chain)
+[Sat Aug 25 02:57:22 2001] Dashina begins to cast a spell. (Resuscitate)
+[Sat Aug 25 02:57:27 2001] You told Dashina, 'A report would have helped so much here; without that and with him being well away from the zone, I can't do anything'
+[Sat Aug 25 02:57:36 2001] You told Dashina, 'Do you know how to make a report?'
+[Sat Aug 25 02:57:41 2001] Dashina tells you, 'no'
+[Sat Aug 25 02:57:45 2001] kobold noble begins to cast a spell. (Sanity Warp)
+[Sat Aug 25 02:57:52 2001] kobold noble begins to cast a spell. (Beguile)
+[Sat Aug 25 02:58:10 2001] You told Dashina, 'If this should happen again, make sure the text you want to send to the GM is within the last ten lines of your chat window.'
+[Sat Aug 25 02:58:20 2001] Dashina begins to cast a spell. (Superior Healing)
+[Sat Aug 25 02:58:24 2001] You told Dashina, 'Then type /report name, where name is the name of the person you are reporting'
+[Sat Aug 25 02:58:37 2001] You told Dashina, 'then /petition a guide who will get a GM to read the report.'
+[Sat Aug 25 02:58:41 2001] Dashina tells you, 'thank you for your help '
+[Sat Aug 25 02:58:48 2001] You told Dashina, 'be well!'
+[Sat Aug 25 02:58:50 2001] USER TEXT: the last line of my text window does not show anything. when i first log on it does but after a bit it just starts to not show it until another line is printed. this has happened with more than one of my characters.
+[Sat Aug 25 02:58:54 2001] Dashina tells you, 'will try'
+[Sat Aug 25 02:58:55 2001] Slikfiness begins to cast a spell. (Clarity)
+[Sat Aug 25 02:59:37 2001] You told Nokred, 'Hail, Nokred! Guide Espranza here. It sounds as if your window is sized a little too small or too large, or perhaps goes off the screen a little?'
+[Sat Aug 25 02:59:37 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 02:59:39 2001] DELETING THIS PETITION
+[Sat Aug 25 02:59:40 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 02:59:41 2001] USER TEXT: Hi, I've been disconected and when I re-appeared I was near Aglthin Dashmore who keeps killing me I can't get back my corpse. Would you please put my corpse at the entrance of Erudin (That's where I was when I've been disconected).
+[Sat Aug 25 02:59:41 2001] Players in EverQuest:
+[Sat Aug 25 02:59:41 2001] ---------------------------
+[Sat Aug 25 02:59:41 2001] [3 Enchanter] Hugy (Erudite) ZONE: tox (USER PID HWWH6LF)
+[Sat Aug 25 02:59:41 2001] There is 1 player in EverQuest.
+[Sat Aug 25 02:59:49 2001] kobold noble begins to cast a spell. (Rune III)
+[Sat Aug 25 03:00:13 2001] kobold noble begins to cast a spell. (Alacrity)
+[Sat Aug 25 03:00:16 2001] Nokred tells you, 'yeah it sounds that way but it worked before and it just stopped'
+[Sat Aug 25 03:00:29 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 03:00:29 2001] Nokred tells you, 'this is in partial screen mode btw'
+[Sat Aug 25 03:00:34 2001] You told Nokred, 'you're using the movable windows?'
+[Sat Aug 25 03:00:39 2001] Nokred tells you, 'yes'
+[Sat Aug 25 03:00:45 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 03:00:53 2001] Vurtrue tells you, 'OMG'
+[Sat Aug 25 03:01:03 2001] You told Nokred, 'does moving or resizing the windows help?'
+[Sat Aug 25 03:01:04 2001] You told Vurtrue, '?'
+[Sat Aug 25 03:01:07 2001] Nokred tells you, 'in the normal view everything works'
+[Sat Aug 25 03:01:13 2001] kobold noble begins to cast a spell. (Feedback)
+[Sat Aug 25 03:01:17 2001] Vurtrue tells you, 'does the Sword of Skyfire hurt the weilder?'
+[Sat Aug 25 03:01:24 2001] You told Vurtrue, 'you betcha'
+[Sat Aug 25 03:01:27 2001] Karlo begins to cast a spell. (Barbcoat)
+[Sat Aug 25 03:01:33 2001] Karlo begins to cast a spell. (Skin like Steel)
+[Sat Aug 25 03:01:34 2001] Vurtrue tells you, 'sence when did the happen?'
+[Sat Aug 25 03:01:42 2001] Karlo begins to cast a spell. (Strength of Earth)
+[Sat Aug 25 03:01:42 2001] You told Vurtrue, 'since you turned 45 I guess.'
+[Sat Aug 25 03:01:49 2001] Karlo begins to cast a spell. (Feet like Cat)
+[Sat Aug 25 03:01:55 2001] Vurtrue tells you, 'I never know it hurt the person using it'
+[Sat Aug 25 03:02:03 2001] You told Vurtrue, 'if you're within range it will'
+[Sat Aug 25 03:02:11 2001] You told Vurtrue, 'try stepping back a step or two when it procs.'
+[Sat Aug 25 03:02:27 2001] Nokred tells you, 'moving it worked'
+[Sat Aug 25 03:02:28 2001] Vurtrue tells you, 'I killed myself, I had no idea'
+[Sat Aug 25 03:02:28 2001] Karlo begins to cast a spell. (Strength of Earth)
+[Sat Aug 25 03:02:32 2001] Nokred tells you, 'yeah'
+[Sat Aug 25 03:02:36 2001] Karlo begins to cast a spell. (Call of Sky)
+[Sat Aug 25 03:02:38 2001] You told Nokred, 'cool - be well!'
+[Sat Aug 25 03:02:43 2001] Karlo begins to cast a spell. (Shield of Thistles)
+[Sat Aug 25 03:02:49 2001] You told Vurtrue, 'It's one of the many cursed weapons in the game'
+[Sat Aug 25 03:03:06 2001] USER TEXT: Hi, I've been disconected and when I re-appeared I was near Aglthin Dashmore who keeps killing me I can't get back my corpse. Would you please put my corpse at the entrance of Erudin (That's where I was when I've been disconected).
+[Sat Aug 25 03:03:14 2001] Vurtrue tells you, 'that sux'
+[Sat Aug 25 03:03:21 2001] Searching zones for corpse of that name....
+[Sat Aug 25 03:03:22 2001] Corpse: Hugy's corpse0 in zone: tox
+[Sat Aug 25 03:03:25 2001] You GMSAY, 'zone'
+[Sat Aug 25 03:03:28 2001] LOADING, PLEASE WAIT...
+[Sat Aug 25 03:03:52 2001] You have entered Toxxulia Forest.
+[Sat Aug 25 03:04:05 2001] Hugy says, 'Hail, Espranza'
+[Sat Aug 25 03:04:07 2001] Teleporting to hugy's corpse0.
+[Sat Aug 25 03:04:24 2001] Teleporting to hugy.
+[Sat Aug 25 03:04:29 2001] You feel the spirit of Norrath enter you.
+[Sat Aug 25 03:04:34 2001] Hugy waves at Espranza.
+[Sat Aug 25 03:04:39 2001] Nokred tells you, ''
+[Sat Aug 25 03:04:39 2001] You told Vurtrue, 'how long have you had this weapon?'
+[Sat Aug 25 03:04:46 2001] Nokred tells you, 'thanks'
+[Sat Aug 25 03:04:50 2001] You told Nokred, 'sure thing!'
+[Sat Aug 25 03:04:51 2001] Hugy says, 'hi'
+[Sat Aug 25 03:04:57 2001] You say, 'Hello, Hugy!'
+[Sat Aug 25 03:05:02 2001] Vurtrue tells you, 'for about 1hr or lil more'
+[Sat Aug 25 03:05:11 2001] You say, 'I was afraid you'd gotten yourself bound near Aglthin somehow'
+[Sat Aug 25 03:05:12 2001] Hugy says, 'would you be so kind as to help me CR?'
+[Sat Aug 25 03:05:29 2001] You told Vurtrue, 'ahh, so you didn't know until just now what the proc did'
+[Sat Aug 25 03:05:33 2001] Hugy says, 'lol'
+[Sat Aug 25 03:05:41 2001] You told Vurtrue, 'the person who gave you or sold you the sword should have said something'
+[Sat Aug 25 03:05:49 2001] Vurtrue tells you, 'I knew it had an AE but didn't know the effect hurt me to'
+[Sat Aug 25 03:05:49 2001] You say, 'Alas, I cannot'
+[Sat Aug 25 03:06:17 2001] Hugy says, 'too bad, sorry to have bothered you. I keep getting killed while looking for my corpse'
+[Sat Aug 25 03:06:17 2001] You say, 'Luckily, almost anyone over the tenth level should be able to easily get it'
+[Sat Aug 25 03:06:18 2001] Players on EverQuest:
+[Sat Aug 25 03:06:18 2001] ---------------------------
+[Sat Aug 25 03:06:18 2001] [3 Magician] Ozerien (Erudite)
+[Sat Aug 25 03:06:18 2001] [3 Enchanter] Hugy (Erudite)
+[Sat Aug 25 03:06:18 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Aug 25 03:06:18 2001] There are 3 players in Toxxulia Forest.
+[Sat Aug 25 03:06:34 2001] Sentinel Flavius says 'Prepare to die, infidel!! 
+[Sat Aug 25 03:06:46 2001] Espranza realizes there is nobody that high in Toxxulia right now.
+[Sat Aug 25 03:06:54 2001] Players on EverQuest:
+[Sat Aug 25 03:06:54 2001] ---------------------------
+[Sat Aug 25 03:06:54 2001] [3 Magician] Ozerien (Erudite)
+[Sat Aug 25 03:06:54 2001] [3 Enchanter] Hugy (Erudite)
+[Sat Aug 25 03:06:54 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Aug 25 03:06:54 2001] There are 3 players in Toxxulia Forest.
+[Sat Aug 25 03:06:59 2001] Hugy says, 'hehe, I was gonna say it to you'
+[Sat Aug 25 03:07:04 2001] Vurtrue tells you, 'wish they would change that, man kinda hard to tell when its going to proc'
+[Sat Aug 25 03:07:08 2001] You say, 'beat ya to it'
+[Sat Aug 25 03:07:15 2001] Hugy says, 'yep'
+[Sat Aug 25 03:07:21 2001] You say, 'it is true, though - I cannot help with CR.'
+[Sat Aug 25 03:07:47 2001] You say, 'since you're only level 3, you might try getting as close as possible to it and using /corpse to summon it to you'
+[Sat Aug 25 03:08:07 2001] Hugy says, 'I'll try that, thank you for your help'
+[Sat Aug 25 03:08:13 2001] You say, 'Even if you can only do it once before he kills you again, the next time you might be far enough away so he won't aggro on you.'
+[Sat Aug 25 03:08:16 2001] Hugy bows at Espranza.
+[Sat Aug 25 03:08:21 2001] You say, 'good luck!'
+[Sat Aug 25 03:08:30 2001] Ozerien begins to cast a spell. (Burst of Flame)
+[Sat Aug 25 03:08:42 2001] You told Vurtrue, 'there are a few really nice weapons with really awful procs on them - glowing black sword is another.'
+[Sat Aug 25 03:08:46 2001] Ozerien begins to cast a spell. (Burst of Flame)
+[Sat Aug 25 03:08:47 2001] You say, 'You should hurry, though'
+[Sat Aug 25 03:08:54 2001] a decaying skeleton has been slain by Ozerien!
+[Sat Aug 25 03:08:56 2001] You say, 'your corpse will only last half an hour'
+[Sat Aug 25 03:09:02 2001] Vurtrue tells you, 'Heh I can't afford things like that'
+[Sat Aug 25 03:09:03 2001] DELETING THIS PETITION
+[Sat Aug 25 03:09:05 2001] Hugy says, 'I know I'm trying to summon courage'
+[Sat Aug 25 03:09:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 03:09:06 2001] USER TEXT: need some help finding corpse 
+[Sat Aug 25 03:09:06 2001] Players in EverQuest:
+[Sat Aug 25 03:09:06 2001] ---------------------------
+[Sat Aug 25 03:09:06 2001] [35 Magician] Aabaden (Erudite) ZONE: firiona (USER PID FR92X0Q)
+[Sat Aug 25 03:09:06 2001] There is 1 player in EverQuest.
+[Sat Aug 25 03:09:13 2001] Searching zones for corpse of that name....
+[Sat Aug 25 03:09:16 2001] Ozerien says, 'Where did you lose your corpse Hugy?'
+[Sat Aug 25 03:09:21 2001] Searching zones for corpse of that name....
+[Sat Aug 25 03:09:29 2001] Searching zones for corpse of that name....
+[Sat Aug 25 03:09:31 2001] Hugy says, 'close to a very bad erudite guy who keeps killing me on sight'
+[Sat Aug 25 03:09:37 2001] Vurtrue tells you, 'guess i'm stuck with it'
+[Sat Aug 25 03:09:46 2001] Hugy says, 'I have the loc and all but each time I'm trying to get near my corpse, he kills me again'
+[Sat Aug 25 03:09:46 2001] Vurtrue tells you, 'zone'
+[Sat Aug 25 03:09:49 2001] You told Aabaden, 'Hail, Aabaden! Guide Espranza here. Which corpse are you trying to find? I see none for you.'
+[Sat Aug 25 03:10:26 2001] Aabaden tells you, 'yea that what I mean, I died here in FV and no more corpse '
+[Sat Aug 25 03:10:35 2001] You told Aabaden, 'when did you die?'
+[Sat Aug 25 03:10:49 2001] Hugy says, 'I'll show you the place Would you like to follow me ?'
+[Sat Aug 25 03:10:56 2001] Players on EverQuest:
+[Sat Aug 25 03:10:56 2001] ---------------------------
+[Sat Aug 25 03:10:56 2001] [5 Necromancer] Makabros (Erudite)
+[Sat Aug 25 03:10:56 2001] [3 Magician] Ozerien (Erudite)
+[Sat Aug 25 03:10:56 2001] [3 Enchanter] Hugy (Erudite)
+[Sat Aug 25 03:10:56 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Aug 25 03:10:56 2001] There are 4 players in Toxxulia Forest.
+[Sat Aug 25 03:11:07 2001] Aabaden tells you, 'about a month ago '
+[Sat Aug 25 03:11:27 2001] You told Aabaden, 'ah... that would explain it. Corpses last a maximum of one week before they decay.'
+[Sat Aug 25 03:11:40 2001] Treborc tells you, 'Can u help ... my partner went LD and whn she returned it dropped her on top of a pillar in Everfrost'
+[Sat Aug 25 03:11:50 2001] Aabaden tells you, 'any way of getting my stuff back????'
+[Sat Aug 25 03:12:10 2001] You told Aabaden, 'no, but the GM may be able to give you some basic equipment to get started again.'
+[Sat Aug 25 03:12:18 2001] You told Treborc, 'Please ask her to petition, thanks!'
+[Sat Aug 25 03:12:33 2001] Treborc tells you, 'its ok... she camped and restarted...'
+[Sat Aug 25 03:12:33 2001] Aabaden tells you, 'ok how do I ask for that????'
+[Sat Aug 25 03:12:52 2001] You told Treborc, 'She's okay then?'
+[Sat Aug 25 03:12:58 2001] Treborc tells you, 'yep..thnks'
+[Sat Aug 25 03:13:24 2001] You told Aabaden, 'Repetition after 3pm Pacific time later today, and the GM should be able to help you out with a "leg up" kit.'
+[Sat Aug 25 03:13:29 2001] You told Treborc, 'wonderful! be well!'
+[Sat Aug 25 03:13:34 2001] Treborc tells you, 'and u'
+[Sat Aug 25 03:13:46 2001] Aabaden tells you, 'ok thanks '
+[Sat Aug 25 03:13:56 2001] Espranza saved.
+[Sat Aug 25 03:14:16 2001] You GMSAY, '<note gm> Aabaden FR92X0Q left a corpse behind about a month ago. The corpse decayed, of course - I gave him Lirus's hours and suggested he petition for a leg-up kit.'
+[Sat Aug 25 03:14:19 2001] You told Aabaden, 'good luck!'
+[Sat Aug 25 03:14:23 2001] Players in EverQuest:
+[Sat Aug 25 03:14:23 2001] ---------------------------
+[Sat Aug 25 03:14:23 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: tox (USER PID AUGBQH4)
+[Sat Aug 25 03:14:23 2001] There is 1 player in EverQuest.
+[Sat Aug 25 03:14:24 2001] Players on EverQuest:
+[Sat Aug 25 03:14:24 2001] ---------------------------
+[Sat Aug 25 03:14:24 2001] [ANONYMOUS] Urrelan 
+[Sat Aug 25 03:14:24 2001] [48 Shaman] Foramce (Barbarian) <Rise of the Phoenix>
+[Sat Aug 25 03:14:24 2001] [36 Wizard] Mycena (High Elf) <Guardians of Truth>
+[Sat Aug 25 03:14:24 2001] [5 Necromancer] Makabros (Erudite)
+[Sat Aug 25 03:14:24 2001] [3 Magician] Ozerien (Erudite)
+[Sat Aug 25 03:14:25 2001] [3 Enchanter] Hugy (Erudite)
+[Sat Aug 25 03:14:25 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Aug 25 03:14:25 2001] There are 7 players in Toxxulia Forest.
+[Sat Aug 25 03:14:32 2001] DELETING THIS PETITION
+[Sat Aug 25 03:14:34 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 25 03:14:35 2001] USER TEXT: A girl down in Upper Gukk is not getting the Idea of a train...  she thinks its good to kill other players with what she calls. BIG BIG TRAIN...  Could you please look into it. I have tried to talk to her.. but she really dont understand =(
+[Sat Aug 25 03:14:35 2001] Players in EverQuest:
+[Sat Aug 25 03:14:35 2001] ---------------------------
+[Sat Aug 25 03:14:35 2001] [10 Warrior] Shabby (Gnome) ZONE: guktop (USER PID FU7TMDT)
+[Sat Aug 25 03:14:35 2001] There is 1 player in EverQuest.
+[Sat Aug 25 03:14:58 2001] You told Shabby, 'Grats on level 10! Are you having any more troubles with your training friend?'
+[Sat Aug 25 03:14:58 2001] Urrelan shouts, 'are you kos to a apprehensively guard??'
+[Sat Aug 25 03:15:05 2001] Teleporting to hugy.
+[Sat Aug 25 03:15:17 2001] Shabby tells you, 'Nope she logged.. and im having fun : )'
+[Sat Aug 25 03:15:26 2001] You told Shabby, 'okay, good luck to you!'
+[Sat Aug 25 03:15:27 2001] DELETING THIS PETITION
+[Sat Aug 25 03:15:32 2001] Searching zones for corpse of that name....
+[Sat Aug 25 03:15:32 2001] Corpse: Hugy's corpse0 in zone: tox
+[Sat Aug 25 03:15:36 2001] Teleporting to hugy's corpse0.
+[Sat Aug 25 03:15:37 2001] Shabby tells you, 'Im getting to know the dungeon better without the trains : ) thanks again !'
+[Sat Aug 25 03:15:55 2001] Ozerien says out of character, 'No'
+[Sat Aug 25 03:16:01 2001] You GMSAY, 'zone'
+[Sat Aug 25 03:16:03 2001] LOADING, PLEASE WAIT...
+[Sat Aug 25 03:16:23 2001] You have entered Sunset Home.
+[Sat Aug 25 03:16:27 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Aug 25 03:16:31 2001] It is 8 PM on Thursday, the 19th day of July, of the year 3212.
+[Sat Aug 25 03:16:31 2001] Earth Time: Sat Aug 25 03:16:31 2001
+[Sat Aug 25 03:16:31 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Aug 25 03:16:36 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Aug 25 03:16:41 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Aug 25 03:16:46 2001] It will take about 10 more seconds to prepare your camp.
+[Sat Aug 25 03:16:52 2001] It will take about 5 more seconds to prepare your camp.

@@ -1,0 +1,1488 @@
+[Sat Jun 30 14:38:14 2001] Logging to 'eqlog.txt' is now *ON*.
+[Sat Jun 30 14:38:22 2001] You GMSAY, 'oh god no, this isn't happening'
+[Sat Jun 30 14:38:42 2001] Mekyla GMSAYS, 'WHat?'
+[Sat Jun 30 14:38:48 2001] It begins to rain.
+[Sat Jun 30 14:38:54 2001] You GMSAY, 'me alone on the que with training to do'
+[Sat Jun 30 14:38:56 2001] You GMSAY, 'hi!'
+[Sat Jun 30 14:39:00 2001] Lancet GMSAYS, 'what'
+[Sat Jun 30 14:39:05 2001] Players in EverQuest:
+[Sat Jun 30 14:39:05 2001] ---------------------------
+[Sat Jun 30 14:39:05 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jun 30 14:39:05 2001] There is 1 player in EverQuest.
+[Sat Jun 30 14:39:16 2001] You GMSAY, 'okay, hiude from me, go ahead.'
+[Sat Jun 30 14:39:45 2001] Feigning tells you, 'when is lirus due on?'
+[Sat Jun 30 14:39:47 2001] Lancet GMSAYS, 'zoning'
+[Sat Jun 30 14:39:57 2001] You told Feigning, '3pm pacific'
+[Sat Jun 30 14:40:11 2001] Feigning tells you, 'or thank you'
+[Sat Jun 30 14:40:14 2001] Lancet GMSAYS, 'whats the matter esp'
+[Sat Jun 30 14:40:36 2001] You GMSAY, 'was worried I would have to train and answer pets alone'
+[Sat Jun 30 14:40:48 2001] Lancet GMSAYS, 'oh but you do'
+[Sat Jun 30 14:41:01 2001] You GMSAY, 'in that case : Aaaarg!'
+[Sat Jun 30 14:41:09 2001] Lancet GMSAYS, 'lol j/k '
+[Sat Jun 30 14:43:03 2001] Players in EverQuest:
+[Sat Jun 30 14:43:03 2001] ---------------------------
+[Sat Jun 30 14:43:03 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 14:43:10 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 14:43:10 2001] USER TEXT: i had a whole bunch of summoned stuff and when i died it dissapeared.... can you help me plz?
+[Sat Jun 30 14:43:11 2001] Players in EverQuest:
+[Sat Jun 30 14:43:11 2001] ---------------------------
+[Sat Jun 30 14:43:11 2001] [2 Warrior] Caley (Dark Elf) ZONE: nektulos (USER PID BSSR9S6)
+[Sat Jun 30 14:43:11 2001] There is 1 player in EverQuest.
+[Sat Jun 30 14:43:24 2001] Lancet says, 'should have 2 here'
+[Sat Jun 30 14:43:34 2001] You told Caley, 'Hail, Caley! Guide Espranza here. Summoned stuff does disappear when you die (after 30 minutes or so)...'
+[Sat Jun 30 14:43:41 2001] You say, 'yup, Kizra and Oraden'
+[Sat Jun 30 14:43:46 2001] Logging to 'eqlog.txt' is now *ON*.
+[Sat Jun 30 14:43:50 2001] Caley tells you, 'i looted my corpse maybe 30 SECONDS after i died.'
+[Sat Jun 30 14:43:59 2001] You told Caley, 'oh?'
+[Sat Jun 30 14:44:02 2001] Caley tells you, 'yes.'
+[Sat Jun 30 14:44:03 2001] You told Caley, 'let me ask'
+[Sat Jun 30 14:44:35 2001] You say to your guild, 'anyone hear anything about summoned items disappearing seconds after dying (and not logging out) for a level 2?'
+[Sat Jun 30 14:44:48 2001] Lancet tells the guild, 'no'
+[Sat Jun 30 14:45:06 2001] You told Caley, 'what items were they? did your entire corpse poof?'
+[Sat Jun 30 14:45:14 2001] Caley tells you, 'not my entire corpse'
+[Sat Jun 30 14:45:25 2001] You told Caley, 'were your newbie items still on it?'
+[Sat Jun 30 14:45:29 2001] Caley tells you, 'i had 80 arrows 80 throwing knives 120 bandages and 2 rings of flight'
+[Sat Jun 30 14:46:07 2001] Caley tells you, 'i had them summoned from a friend'
+[Sat Jun 30 14:46:09 2001] Caley tells you, 'i had them summoned from a friend'
+[Sat Jun 30 14:46:12 2001] Caley tells you, 'sorry lag'
+[Sat Jun 30 14:46:20 2001] You told Caley, 'you died and looted your corpse within 30 seconds and they disappeared? I will note this as an issue to be looked into.'
+[Sat Jun 30 14:46:31 2001] Aadylea tells you, 'I was camping a room in Befallen and even thou I was facing the attacker I could not attack and died after only being hit 22 points damage 4 times.  I had over 400 hp,  is there anything you can do?'
+[Sat Jun 30 14:46:35 2001] Caley tells you, 'thats not cool i lost a lot of stuff'
+[Sat Jun 30 14:46:46 2001] You GMSAY, '<note issue> A whole mess of summoned items disappeared from a level 2 corpse, owner didn't log out or go ld.'
+[Sat Jun 30 14:47:06 2001] You told Aadylea, 'please petitino, thanks'
+[Sat Jun 30 14:47:17 2001] You told Aadylea, 'Um, petition. Yeah, that's it... :) please.'
+[Sat Jun 30 14:47:24 2001] Aadylea tells you, 'ok, thank you'
+[Sat Jun 30 14:47:33 2001] Caley tells you, 'OH and 4 or 5 summoned dimensional hole bags'
+[Sat Jun 30 14:47:38 2001] You told Caley, 'I asked but nobody here has ever heard of anything like this.'
+[Sat Jun 30 14:47:42 2001] Caley tells you, 'me either'
+[Sat Jun 30 14:47:53 2001] Caley tells you, 'i died in neriak out in the forest'
+[Sat Jun 30 14:47:53 2001] Mekyla GMSAYS, 'Off to another server'
+[Sat Jun 30 14:47:54 2001] Searching zones for corpse of that name....
+[Sat Jun 30 14:47:58 2001] Caley tells you, 'on the road right by the spawning point'
+[Sat Jun 30 14:48:04 2001] You told Caley, 'did you die more than once?'
+[Sat Jun 30 14:48:09 2001] Caley tells you, 'nope'
+[Sat Jun 30 14:48:09 2001] DELETING THIS PETITION
+[Sat Jun 30 14:48:11 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 14:48:12 2001] USER TEXT: Trade Bug, lost a cobalt BP in our guild
+[Sat Jun 30 14:48:12 2001] Caley tells you, 'just one time'
+[Sat Jun 30 14:48:12 2001] Players in EverQuest:
+[Sat Jun 30 14:48:12 2001] ---------------------------
+[Sat Jun 30 14:48:12 2001] [59 Master] Lytic (Iksar) <Reviction> ZONE: wakening (USER PID DSUQ7FT)
+[Sat Jun 30 14:48:12 2001] There is 1 player in EverQuest.
+[Sat Jun 30 14:48:13 2001] Espranza saved.
+[Sat Jun 30 14:48:18 2001] Lancet GMSAYS, 'hehe did not see u come on'
+[Sat Jun 30 14:48:22 2001] Lancet GMSAYS, 'zoning'
+[Sat Jun 30 14:48:31 2001] You told Caley, 'I can't see a corpse for you, so I can't check it out.... I don't think there is anything I can do.'
+[Sat Jun 30 14:48:42 2001] Caley tells you, 'i had 4 summoned bags, inside the bags there were 80 throwing knives 80 arrows, 120 bandages, and 2 rings of flight'
+[Sat Jun 30 14:49:00 2001] You told Lytic, 'Hail, Lytic! Guide Espranza here. How did the cobalt bp get lost? And who was it being traded from and to?'
+[Sat Jun 30 14:49:02 2001] Caley tells you, 'please im only level 3'
+[Sat Jun 30 14:49:12 2001] Lytic tells you, 'been taking care of'
+[Sat Jun 30 14:49:13 2001] Caley tells you, 'i was level 1 when i died'
+[Sat Jun 30 14:49:19 2001] Caley tells you, 'i would not lie..'
+[Sat Jun 30 14:49:19 2001] You told Caley, 'We cannot reimburse summoned items...'
+[Sat Jun 30 14:49:26 2001] Caley tells you, 'but i got bugged'
+[Sat Jun 30 14:49:37 2001] Caley tells you, 'it was someone at Verant's bad coding'
+[Sat Jun 30 14:49:45 2001] Caley tells you, 'and for that i don't get my items reimbursed?'
+[Sat Jun 30 14:49:48 2001] You told Caley, 'I believe you - but we cannot reimburse summoned items. Just don't have the capability.'
+[Sat Jun 30 14:50:09 2001] You told Lytic, 'Oh, another guide? okay.'
+[Sat Jun 30 14:50:11 2001] Caley tells you, 'right don't have the capability'
+[Sat Jun 30 14:50:12 2001] Lytic tells you, 'yes'
+[Sat Jun 30 14:50:18 2001] You GMSAY, 'Hey Kawee! You're anon'
+[Sat Jun 30 14:50:21 2001] Kaweewee waves at Espranza.
+[Sat Jun 30 14:50:27 2001] Kaweewee GMSAYS, 'of course'
+[Sat Jun 30 14:50:59 2001] Caley tells you, 'so your trying to tell me, you can give players back exp when they get bugged, you can move corpses, relocate players, and MUCH MUCH more but you can't summon me some items?'
+[Sat Jun 30 14:51:10 2001] You told Caley, 'Please read the producer's letter on the EQ web site. It outlines there what we can and cannot reimburse. Thank you.'
+[Sat Jun 30 14:51:26 2001] DELETING THIS PETITION
+[Sat Jun 30 14:51:28 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 14:51:29 2001] USER TEXT: i had my destroy item off fast an it came back on an i destroyed some4hting ne way i can get help
+[Sat Jun 30 14:51:29 2001] Players in EverQuest:
+[Sat Jun 30 14:51:29 2001] ---------------------------
+[Sat Jun 30 14:51:29 2001] [ANON (34 Ranger)] Dadelian (Half Elf) ZONE: thurgadina (USER PID EUZXUYF)
+[Sat Jun 30 14:51:29 2001] There is 1 player in EverQuest.
+[Sat Jun 30 14:51:30 2001] Kaweewee says, 'we the only trainers?'
+[Sat Jun 30 14:51:34 2001] Lancet GMSAYS, 'zoning'
+[Sat Jun 30 14:51:56 2001] You say, 'yeah'
+[Sat Jun 30 14:51:59 2001] You say, 'Lancet is here'
+[Sat Jun 30 14:52:04 2001] Players in EverQuest:
+[Sat Jun 30 14:52:04 2001] ---------------------------
+[Sat Jun 30 14:52:04 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 14:52:09 2001] Players in EverQuest:
+[Sat Jun 30 14:52:09 2001] ---------------------------
+[Sat Jun 30 14:52:09 2001] [ANON (1 Monk)] Oraden (Human) ZONE: cshome (USER PID ATWFJ36)
+[Sat Jun 30 14:52:09 2001] There is 1 player in EverQuest.
+[Sat Jun 30 14:52:16 2001] Summoning oraden.
+[Sat Jun 30 14:52:25 2001] Oraden says, 'Hail, Espranza'
+[Sat Jun 30 14:52:27 2001] You say, 'hiya!'
+[Sat Jun 30 14:52:31 2001] Oraden says, 'Hail, Kaweewee'
+[Sat Jun 30 14:52:34 2001] Oraden bows.
+[Sat Jun 30 14:52:38 2001] Kaweewee waves at Oraden.
+[Sat Jun 30 14:52:46 2001] Oraden says, 'nice place ;)'
+[Sat Jun 30 14:52:46 2001] You say, 'we're waiting for one other'
+[Sat Jun 30 14:52:52 2001] You say, 'feel free to look around'
+[Sat Jun 30 14:52:53 2001] Kaweewee says, 'I did it myself'
+[Sat Jun 30 14:53:17 2001] Players in EverQuest:
+[Sat Jun 30 14:53:17 2001] ---------------------------
+[Sat Jun 30 14:53:17 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 14:53:29 2001] Oraden says, 'i was here a bit ago... went LD... wandered everywhere, but was careful not to hail any vendors/NPC's'
+[Sat Jun 30 14:53:39 2001] You say, 'ah'
+[Sat Jun 30 14:53:44 2001] Players in EverQuest:
+[Sat Jun 30 14:53:44 2001] ---------------------------
+[Sat Jun 30 14:53:44 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 14:54:34 2001] Kaweewee is waiting this time before starting.
+[Sat Jun 30 14:54:36 2001] Players in EverQuest:
+[Sat Jun 30 14:54:36 2001] ---------------------------
+[Sat Jun 30 14:54:36 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 14:54:44 2001] USER TEXT: i had my destroy item off fast an it came back on an i destroyed some4hting ne way i can get help
+[Sat Jun 30 14:54:55 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Jun 30 14:54:57 2001] CHECKING IN
+[Sat Jun 30 14:55:12 2001] Oraden says, 'ahh... ok... GM in /who is different than GM in /who all ;) ... gotcha.'
+[Sat Jun 30 14:55:35 2001] You say, 'yup'
+[Sat Jun 30 14:55:42 2001] You say, 'one queries local server, one queries global'
+[Sat Jun 30 14:56:12 2001] You feel the spirit of Norrath enter you.
+[Sat Jun 30 14:56:13 2001] Your feet leave the ground.
+[Sat Jun 30 14:56:18 2001] You feel the spirit of Z surround you.
+[Sat Jun 30 14:56:29 2001] Oraden says, 'odd that i can see PID's without being flagged... must just be an artifact of being in the zone.'
+[Sat Jun 30 14:56:39 2001] Jokeysmurph tells you, 'i know i am not supposed to send u tells, but may i talk to u if u have time?'
+[Sat Jun 30 14:56:41 2001] You say, 'your account is a guide account'
+[Sat Jun 30 14:56:51 2001] Lancet tells the guild, 'no its not '
+[Sat Jun 30 14:56:53 2001] You told Jokeysmurph, 'please send a petition if you could, thanks!'
+[Sat Jun 30 14:56:55 2001] You say to your guild, 'no?'
+[Sat Jun 30 14:57:04 2001] You say to your guild, 'oh that's right, appies don't get them'
+[Sat Jun 30 14:57:08 2001] Oraden says, 'huh? i loged in on my player account (haven't recieved guide account yet)'
+[Sat Jun 30 14:57:09 2001] You say, 'my mistake!'
+[Sat Jun 30 14:57:10 2001] Lancet tells the guild, 'you dont get guide account till u make guide'
+[Sat Jun 30 14:57:29 2001] You say to your guild, 'Lancet, bad name Jokersmurph'
+[Sat Jun 30 14:57:29 2001] <SYSTEMWIDE MESSAGE>: LGM-Ozuri : Attention Norrath!  Please congratulate Drolkrad the Warlock of The Nameless from the guild Bloodguard of Souls on his victory in the Necromancer Best of the Best.  Congratulations!
+[Sat Jun 30 14:57:31 2001] Jokeysmurph tells you, '=)'
+[Sat Jun 30 14:58:19 2001] Players in EverQuest:
+[Sat Jun 30 14:58:19 2001] ---------------------------
+[Sat Jun 30 14:58:19 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 14:58:24 2001] Espranza saved.
+[Sat Jun 30 14:58:34 2001] You say, 'weird that you can see PIDs though'
+[Sat Jun 30 14:58:35 2001] Oraden tells you, 'can you send me a tell so i can test my reply hotkey?'
+[Sat Jun 30 14:58:40 2001] Oraden says, 'aye.'
+[Sat Jun 30 14:58:55 2001] You told oraden, 'hiya!'
+[Sat Jun 30 14:58:57 2001] Oraden tells you, 'Sorry, please use /petition for quicker service.'
+[Sat Jun 30 14:59:16 2001] Oraden tells you, 'that work (my first one was WAY too long to fit on hotkey)'
+[Sat Jun 30 14:59:17 2001] You told Oraden, 'but I did petition!'
+[Sat Jun 30 14:59:24 2001] You told Oraden, 'why won't you answer me?'
+[Sat Jun 30 14:59:39 2001] Oraden tells you, 'ah, then I will try to get to yours quickly, please be patient.'
+[Sat Jun 30 14:59:49 2001] You told Oraden, 'no, mine's important!'
+[Sat Jun 30 15:00:18 2001] You told Oraden, 'it'll only take a second'
+[Sat Jun 30 15:00:20 2001] Oraden tells you, 'i can understand, and I or another guide will be with you as quickly as we can.'
+[Sat Jun 30 15:01:32 2001] You told Oraden, 'heh... you're not new at this.'
+[Sat Jun 30 15:01:38 2001] Players in EverQuest:
+[Sat Jun 30 15:01:38 2001] ---------------------------
+[Sat Jun 30 15:01:38 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 15:01:49 2001] Oraden tells you, 'several years of HelpDesk and network admin ;)'
+[Sat Jun 30 15:02:25 2001] Oraden tells you, 'plus 18 years of roleplay experience ;) hehehe ;)'
+[Sat Jun 30 15:02:47 2001] Kaweewee tells the guild, 'whatever happenned to us changing our guild name?'
+[Sat Jun 30 15:03:09 2001] Lancet tells the guild, 'dont know '
+[Sat Jun 30 15:03:43 2001] You told Oraden, 'I think you're gonna be a natural'
+[Sat Jun 30 15:03:46 2001] Players in EverQuest:
+[Sat Jun 30 15:03:47 2001] ---------------------------
+[Sat Jun 30 15:03:47 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 15:04:10 2001] Kaweewee tells the guild, 'bad name SEZZIF O'RETSAM   ????'
+[Sat Jun 30 15:04:28 2001] Oraden tells you, 'hope so, was REALLY happy to get morell-thule, hear it is the unofficial roleplay server, cant' wait to see how people here play.'
+[Sat Jun 30 15:04:41 2001] You told Oraden, 'heh... was more rp about nine months ago'
+[Sat Jun 30 15:04:47 2001] Kaweewee tells the guild, 'SELZZIF O'RETSAM'
+[Sat Jun 30 15:05:22 2001] Lancet tells the guild, 'what it mean'
+[Sat Jun 30 15:05:33 2001] You say to your guild, 'master of fizzles'
+[Sat Jun 30 15:05:37 2001] You say to your guild, 'read it backward'
+[Sat Jun 30 15:05:53 2001] Lancet tells the guild, 'yep bad'
+[Sat Jun 30 15:06:14 2001] Kaweewee tells the guild, 'senior guide allowed it on my play server, we need to train these future seniors better, hehe'
+[Sat Jun 30 15:06:45 2001] Lancet tells the guild, 'misspelling  and such does not make it right'
+[Sat Jun 30 15:06:50 2001] Kaweewee tells the guild, 'i think all gm/senior granted names should be tagged to show who allowed it'
+[Sat Jun 30 15:07:26 2001] Lancet tells the guild, 'was there any post saying lirus would be late or missing'
+[Sat Jun 30 15:07:34 2001] You say to your guild, 'I saw none'
+[Sat Jun 30 15:07:42 2001] Players in EverQuest:
+[Sat Jun 30 15:07:42 2001] ---------------------------
+[Sat Jun 30 15:07:42 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 15:07:55 2001] Kaweewee tells the guild, 'i have never seen him here for one of these, is he supposed to be?'
+[Sat Jun 30 15:08:11 2001] You feel as if you are about to fall.
+[Sat Jun 30 15:08:17 2001] You feel as if you are about to fall.
+[Sat Jun 30 15:08:18 2001] You can no longer levitate.
+[Sat Jun 30 15:08:22 2001] Lancet tells the guild, 'not for this but  just be on  '
+[Sat Jun 30 15:08:30 2001] You say to your guild, 'supposed to be here at 3'
+[Sat Jun 30 15:08:35 2001] Espranza saved.
+[Sat Jun 30 15:08:36 2001] Lancet tells the guild, 'this is his work hrs'
+[Sat Jun 30 15:08:36 2001] Players in EverQuest:
+[Sat Jun 30 15:08:36 2001] ---------------------------
+[Sat Jun 30 15:08:36 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 15:08:47 2001] Oraden says, 'he's a question, I can't be bound here as an apprentice... is there a prefered place to bind (was thinking of deep in Neriak 3rd gate where no one goes very often)'
+[Sat Jun 30 15:08:52 2001] Kaweewee tells the guild, 'i thought those were just for show'
+[Sat Jun 30 15:09:26 2001] Kaweewee says, 'no, this is a apprentice restricted zone'
+[Sat Jun 30 15:09:47 2001] You say, 'you can be bound in any legal place foryou'
+[Sat Jun 30 15:09:52 2001] Oraden says, 'aye, is there one that most app's bind in for convience/privacy?'
+[Sat Jun 30 15:09:53 2001] Players in EverQuest:
+[Sat Jun 30 15:09:53 2001] ---------------------------
+[Sat Jun 30 15:09:53 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 15:10:02 2001] You say, 'most just keep default bind points'
+[Sat Jun 30 15:10:04 2001] Kaweewee says, 'no, '
+[Sat Jun 30 15:10:22 2001] Oraden says, 'sounds good. NQeynos is good ;)'
+[Sat Jun 30 15:11:18 2001] Players in EverQuest:
+[Sat Jun 30 15:11:18 2001] ---------------------------
+[Sat Jun 30 15:11:18 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 15:11:21 2001] Lancet tells the guild, 'you might as well start'
+[Sat Jun 30 15:12:16 2001] Kaweewee tells the guild, 'you sure'
+[Sat Jun 30 15:12:22 2001] It is 12 PM on Friday, the 6th day of May, of the year 3209.
+[Sat Jun 30 15:12:22 2001] Earth Time: Sat Jun 30 15:12:22 2001
+[Sat Jun 30 15:12:29 2001] Players in EverQuest:
+[Sat Jun 30 15:12:29 2001] ---------------------------
+[Sat Jun 30 15:12:29 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 15:12:34 2001] You say to your guild, 'okay you start'
+[Sat Jun 30 15:12:35 2001] Lancet tells the guild, 'not here by now  id start'
+[Sat Jun 30 15:12:51 2001] Kaweewee says, 'Oraden can you take a seat over here please'
+[Sat Jun 30 15:13:12 2001] Oraden says, 'surely enchanting lady.'
+[Sat Jun 30 15:13:23 2001] Kaweewee says, 'Congratulations '
+[Sat Jun 30 15:13:24 2001] Kaweewee says, 'Welcome to the ranks of the guide program.'
+[Sat Jun 30 15:13:37 2001] Kaweewee says, 'please go anon for the duration of this training.'
+[Sat Jun 30 15:13:38 2001] Kaweewee says, 'after this you will always be visible.'
+[Sat Jun 30 15:13:48 2001] Kaweewee says, 'I will stop for questions. Please hold them til then.'
+[Sat Jun 30 15:13:56 2001] Kaweewee says, 'at this time please type /log on'
+[Sat Jun 30 15:14:05 2001] Kaweewee says, 'This will log your shift for you.'
+[Sat Jun 30 15:14:12 2001] Kaweewee says, 'If you should go ld you will have to start over'
+[Sat Jun 30 15:14:24 2001] Kaweewee says, 'I am sure you have read both Apprentice Guidlines'
+[Sat Jun 30 15:14:26 2001] Kaweewee says, 'and Customer Service Guidlines.'
+[Sat Jun 30 15:14:38 2001] Kaweewee says, 'Take these both very seriously, they are your bibles.'
+[Sat Jun 30 15:14:43 2001] Kaweewee says, 'Your CSG should cover every possible situation.'
+[Sat Jun 30 15:14:50 2001] Kaweewee says, 'And I cant stress enough the tenets in your AG'
+[Sat Jun 30 15:14:59 2001] Kaweewee says, 'Always be polite, never ignore a petition'
+[Sat Jun 30 15:15:06 2001] Kaweewee says, 'never respond to /oocs or /shouts'
+[Sat Jun 30 15:15:15 2001] Kaweewee says, 'roleplay whenever possible. Track your activities.'
+[Sat Jun 30 15:15:24 2001] Kaweewee says, 'first your tools.'
+[Sat Jun 30 15:15:36 2001] Kaweewee says, 'Your tools at this stage are game knowledge.'
+[Sat Jun 30 15:15:45 2001] Kaweewee says, 'and common sense. If you dont know an answer, ask.'
+[Sat Jun 30 15:15:50 2001] Kaweewee says, 'someone will answer, even if to say " I dont know"'
+[Sat Jun 30 15:16:00 2001] Lancet GMSAYS, 'zoning'
+[Sat Jun 30 15:16:00 2001] Kaweewee says, 'Be patient when asking over /pr guides zone frequently.'
+[Sat Jun 30 15:16:10 2001] Kaweewee says, 'If the guides dont know either tell the customer'
+[Sat Jun 30 15:16:16 2001] Kaweewee says, 'this is new to us and you will enter it in your report'
+[Sat Jun 30 15:16:22 2001] Kaweewee says, 'to get further assistance'
+[Sat Jun 30 15:16:27 2001] Kaweewee says, 'Then post it and ask around. You may be suprised'
+[Sat Jun 30 15:16:34 2001] Kaweewee says, 'Then post it and ask around. You may be suprised'
+[Sat Jun 30 15:16:37 2001] Kaweewee says, 'any questions so far?'
+[Sat Jun 30 15:16:56 2001] Oraden says, 'not on topic i will hold to the end'
+[Sat Jun 30 15:17:05 2001] You say, 'feel free to ask any questions'
+[Sat Jun 30 15:17:41 2001] Oraden says, 'in the docs it said to make notes in the /gui channel, however i won't have that till i am a full guide'
+[Sat Jun 30 15:17:48 2001] Kaweewee says, 'Yes, im prettier than Espranza. Any question is fine'
+[Sat Jun 30 15:17:51 2001] Oraden says, 'will importing from /note work?'
+[Sat Jun 30 15:18:15 2001] Kaweewee says, 'good question'
+[Sat Jun 30 15:18:23 2001] You feel the spirit of Norrath enter you.
+[Sat Jun 30 15:18:23 2001] Your feet leave the ground.
+[Sat Jun 30 15:18:30 2001] Summoning kaweewee.
+[Sat Jun 30 15:18:33 2001] Kaweewee says, 'I dont use that myself, i add notes manuall'
+[Sat Jun 30 15:18:33 2001] Teleporting to oraden.
+[Sat Jun 30 15:18:41 2001] You say, 'Prettier.'
+[Sat Jun 30 15:18:43 2001] You say, 'hmmph.'
+[Sat Jun 30 15:18:45 2001] Espranza saved.
+[Sat Jun 30 15:18:56 2001] Kaweewee GMSAYS, 'WHO DID THAT'
+[Sat Jun 30 15:19:11 2001] Oraden says, 'untill she decides to look like a troll... besides my wife on play is a halfling and quite pretty ;)'
+[Sat Jun 30 15:19:13 2001] Espranza looks VERY innocent!
+[Sat Jun 30 15:19:31 2001] Kaweewee tells the guild, 'ill get you mt pretty'
+[Sat Jun 30 15:19:40 2001] Kaweewee tells the guild, 'and your lil dog too'
+[Sat Jun 30 15:19:40 2001] You say to your guild, 'oh, NOW I'm pretty!'
+[Sat Jun 30 15:19:53 2001] Kaweewee says, 'who can tell me where apprentices may not go?'
+[Sat Jun 30 15:20:00 2001] Oraden would never comment on the sizing of halfling females in certain areas as compared to high elves. )
+[Sat Jun 30 15:20:23 2001] Oraden says, 'dungeons, velious, planes, and other Limited Service zones.'
+[Sat Jun 30 15:20:41 2001] Kaweewee says, 'blackburrow and everfrost as well'
+[Sat Jun 30 15:20:54 2001] Kaweewee says, 'you may pas thru but do not linger and always announce over /pr when you do'
+[Sat Jun 30 15:21:06 2001] Kaweewee says, 'when can apprentices be online?'
+[Sat Jun 30 15:21:06 2001] Oraden says, 'i wasn't aware of everfrost, but Black burrow is a dungewon.'
+[Sat Jun 30 15:21:26 2001] You say, 'she meant Runnyeye'
+[Sat Jun 30 15:21:31 2001] Oraden says, 'anytime there is a full guide+ on that is willing to mentor/tutor/watch you.'
+[Sat Jun 30 15:21:32 2001] You say, 'you can go to Everfrost'
+[Sat Jun 30 15:21:57 2001] Kaweewee is emberassed.
+[Sat Jun 30 15:22:04 2001] Oraden says, 'ah. yes, runnyeye, but that is easy to run thru if you announce it ;)'
+[Sat Jun 30 15:22:34 2001] Kaweewee says, 'How do you think Gms relate to guides?'
+[Sat Jun 30 15:23:12 2001] Oraden says, 'they are responsible for things we aren't able to do, and can authorize us do to some things, but in general they have different jobs.'
+[Sat Jun 30 15:23:30 2001] Kaweewee says, 'They are server seniors Verant advisors.'
+[Sat Jun 30 15:23:46 2001] Kaweewee says, 'gms and guides are 2 seperate programs working towards'
+[Sat Jun 30 15:23:49 2001] Kaweewee says, 'the same goal.'
+[Sat Jun 30 15:23:53 2001] Oraden nod.
+[Sat Jun 30 15:24:00 2001] Kaweewee says, 'Gms are a good source of information about bugs'
+[Sat Jun 30 15:24:05 2001] Kaweewee says, 'and are here to help with escelations'
+[Sat Jun 30 15:24:08 2001] Kaweewee says, 'being that they have more powers than we do.'
+[Sat Jun 30 15:24:09 2001] Lancet GMSAYS, 'zoning'
+[Sat Jun 30 15:24:19 2001] Kaweewee says, 'Any guiding questions should be directed towards a senior'
+[Sat Jun 30 15:24:24 2001] You no longer have a target.
+[Sat Jun 30 15:24:24 2001] You no longer have a target.
+[Sat Jun 30 15:24:33 2001] You say to your guild, 'I found out where in game this armor drops btw'
+[Sat Jun 30 15:24:44 2001] Kaweewee says, 'who are Lancet, Kezia , Mersi and Rynara'
+[Sat Jun 30 15:24:51 2001] Oraden regards you indifferently -- You could probably win this fight.
+[Sat Jun 30 15:24:54 2001] Kaweewee says, 'if a full guide cant answer them.'
+[Sat Jun 30 15:25:02 2001] Mouse control activated.  Use right mouse button.
+[Sat Jun 30 15:25:04 2001] Oraden says out of character, 'SMT, the seniors, the people to ask questions of ;)'
+[Sat Jun 30 15:25:15 2001] You can no longer levitate.
+[Sat Jun 30 15:25:17 2001] Kaweewee says, 'Please ask alot of questions. Apprentices learn by them.'
+[Sat Jun 30 15:25:25 2001] Kaweewee says, 'Try to ask in /pr, chances are someone else may not know.'
+[Sat Jun 30 15:25:30 2001] Kaweewee says, 'If you do not have board access in a few days please e-mail'
+[Sat Jun 30 15:25:33 2001] You're not scaring anyone.
+[Sat Jun 30 15:25:33 2001] Oraden says, 'eep (thought it was a question)'
+[Sat Jun 30 15:25:39 2001] Oraden says, 'have it now.'
+[Sat Jun 30 15:25:42 2001] Kaweewee says, 'MORELLTHULESENIORS@YAHOOGROUPS.COM'
+[Sat Jun 30 15:25:54 2001] Espranza rubs her ear out to stop the ringing.
+[Sat Jun 30 15:26:11 2001] Kaweewee shots an angry glance.
+[Sat Jun 30 15:26:14 2001] Kaweewee says, 'when sending an e-mail include youre guide name.'
+[Sat Jun 30 15:26:23 2001] Kaweewee says, 'Any questions at this time?'
+[Sat Jun 30 15:26:36 2001] Oraden says, 'nope'
+[Sat Jun 30 15:26:49 2001] Kaweewee says, 'Dos and Donts'
+[Sat Jun 30 15:26:56 2001] Kaweewee says, 'Do ask questions as often as necessary.'
+[Sat Jun 30 15:27:04 2001] Kaweewee says, 'we guides are asked to evaluate your performances'
+[Sat Jun 30 15:27:08 2001] Kaweewee says, 'often all we have to go on is your questions'
+[Sat Jun 30 15:27:17 2001] Kaweewee says, 'If you dont get an answer the first time, ask a again.'
+[Sat Jun 30 15:27:22 2001] Kaweewee says, 'Do explore the world as much as possible.'
+[Sat Jun 30 15:27:36 2001] Kaweewee says, 'Do participate in answer circles.'
+[Sat Jun 30 15:27:49 2001] Kaweewee says, 'Dont explore any of the dungeons.'
+[Sat Jun 30 15:27:59 2001] Kaweewee says, 'Do not handle any exploit,abuse or harrasment issues'
+[Sat Jun 30 15:28:10 2001] Kaweewee says, 'these get escelated for full guides.'
+[Sat Jun 30 15:28:11 2001] Lancet GMSAYS, 'zoning'
+[Sat Jun 30 15:28:19 2001] Kaweewee says, 'Do not run,create or participate in dynamic quests.'
+[Sat Jun 30 15:28:28 2001] Kaweewee says, 'This means both here and on your play server!'
+[Sat Jun 30 15:28:35 2001] Kaweewee says, 'As appys and guides we have priviliged information.'
+[Sat Jun 30 15:28:39 2001] Kaweewee says, 'Other players should not be privy to this info.'
+[Sat Jun 30 15:28:48 2001] Kaweewee says, 'Should you be on your play server and a gm quest starts'
+[Sat Jun 30 15:28:52 2001] Kaweewee says, 'you should leave the area A.S.A.P.'
+[Sat Jun 30 15:28:55 2001] Espranza saved.
+[Sat Jun 30 15:28:58 2001] Kaweewee says, 'Staying in the zone could be cinsidered a guide leak.'
+[Sat Jun 30 15:29:10 2001] Kaweewee says, 'Telling your friends about a event is a guide leak'
+[Sat Jun 30 15:29:33 2001] Kaweewee says, 'Such infractions could lead up to dismissal from the guide program'
+[Sat Jun 30 15:29:40 2001] You say, 'never take a guide leak'
+[Sat Jun 30 15:29:50 2001] Oraden rofl.
+[Sat Jun 30 15:30:06 2001] Kaweewee says, 'I know this sounds unfair but you will get a chance to be part of quests and that is alot of fun'
+[Sat Jun 30 15:30:15 2001] You're not scaring anyone.
+[Sat Jun 30 15:30:24 2001] Kaweewee says, 'Do not reprimand players or other guides'
+[Sat Jun 30 15:30:32 2001] Oraden says, 'aye, or i would be very unhappy, but acting is better than watching anyday ;)'
+[Sat Jun 30 15:30:44 2001] Lirus GMSAYS, 'morning all'
+[Sat Jun 30 15:30:48 2001] Kaweewee says, 'Do not speak for the guide program on message boards'
+[Sat Jun 30 15:30:50 2001] Lancet GMSAYS, 'hi'
+[Sat Jun 30 15:30:51 2001] Kaweewee GMSAYS, 'hello'
+[Sat Jun 30 15:31:02 2001] You GMSAY, 'Hiya, Lirus!'
+[Sat Jun 30 15:31:04 2001] Lirus GMSAYS, 'anything going on?'
+[Sat Jun 30 15:31:08 2001] You GMSAY, 'got an appie for ya'
+[Sat Jun 30 15:31:12 2001] Players in EverQuest:
+[Sat Jun 30 15:31:12 2001] ---------------------------
+[Sat Jun 30 15:31:12 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 15:31:13 2001] Lirus GMSAYS, 'sweet)'
+[Sat Jun 30 15:31:16 2001] Lirus GMSAYS, 'zoning cshome'
+[Sat Jun 30 15:31:29 2001] Kaweewee says, 'Do not give warnings to players. If a customer has you rattled simply pass the petition to a full guide who will issue a warning if needed'
+[Sat Jun 30 15:31:52 2001] Lirus waves at Oraden.
+[Sat Jun 30 15:32:02 2001] You say, 'This is our esteemed GM, Lirus'
+[Sat Jun 30 15:32:10 2001] Kaweewee says, 'Do not tell server friedns, guildmates, guides, gms or anyone at all you are a apprentice or guide'
+[Sat Jun 30 15:32:11 2001] You say, 'He's gonna buff you up'
+[Sat Jun 30 15:32:12 2001] Lirus says, 'Pleased ta meet ya'
+[Sat Jun 30 15:32:12 2001] Lancet GMSAYS, 'zoning'
+[Sat Jun 30 15:32:21 2001] Lirus says, 'Sec, lemme go grab ye a staff'
+[Sat Jun 30 15:32:35 2001] Oraden says, 'can't bow seated ;)'
+[Sat Jun 30 15:32:46 2001] Lancet tells the guild, 'do these ppl think we were born yesterday'
+[Sat Jun 30 15:32:49 2001] Kaweewee says, 'You can tell fellow guides here where you play and what your name is, its fun to hunt with fellow guides'
+[Sat Jun 30 15:32:53 2001] Lirus tells the guild, '?'
+[Sat Jun 30 15:32:57 2001] Kaweewee tells the guild, 'yes'
+[Sat Jun 30 15:33:13 2001] Lirus cheers at Oraden.
+[Sat Jun 30 15:33:20 2001] Oraden says, 'um. will equiping it kill me?'
+[Sat Jun 30 15:33:25 2001] Lancet tells the guild, 'person dies in pf  bound in rathe  claims died to bug bah just long run back'
+[Sat Jun 30 15:33:25 2001] Oraden bows before Lirus.
+[Sat Jun 30 15:33:25 2001] You say, 'what server do you play on, Oraden?'
+[Sat Jun 30 15:33:28 2001] Kaweewee says, 'Do not duel with customers and with other guides only here'
+[Sat Jun 30 15:33:29 2001] Oraden cheers at Lirus.
+[Sat Jun 30 15:33:32 2001] You say, 'You'll be buffed first'
+[Sat Jun 30 15:33:41 2001] Oraden says, 'bristlebane'
+[Sat Jun 30 15:34:15 2001] You say, 'Oh, we have some guides from there'
+[Sat Jun 30 15:34:23 2001] Lancet GMSAYS, 'lirus want to tell someone know'
+[Sat Jun 30 15:34:29 2001] Lancet GMSAYS, 'mean no'
+[Sat Jun 30 15:34:52 2001] You GMSAY, 'ooh let me, telling people no is an old specialty of mine...!'
+[Sat Jun 30 15:34:55 2001] Oraden is listening Kaweewee.
+[Sat Jun 30 15:35:38 2001] Kaweewee says, 'Excessive drinking is not permitted, you may have 1 drink at special occassions but that is all'
+[Sat Jun 30 15:35:41 2001] Lirus GMSAYS, 'what's up lancet?'
+[Sat Jun 30 15:35:50 2001] Lancet GMSAYS, 'lirus tell this person she out of luck her corpse is not at the safe point its up the ladder  i think she just got stomped but she says she zoned into that spot'
+[Sat Jun 30 15:36:05 2001] Lirus GMSAYS, 'ok escalate up please)'
+[Sat Jun 30 15:36:12 2001] Lancet GMSAYS, 'it is'
+[Sat Jun 30 15:36:27 2001] Kaweewee says, 'I realize joining the guide program is a grave responsibility but we do have fun as well.'
+[Sat Jun 30 15:36:41 2001] Lirus grins evilly at Kaweewee.
+[Sat Jun 30 15:36:43 2001] Lancet GMSAYS, 'no way to verify   she died at a point where you would   '
+[Sat Jun 30 15:36:48 2001] Kaweewee says, 'Always remember the customer and petitions come first'
+[Sat Jun 30 15:36:56 2001] Lirus GMSAYS, '*nod* corpse was on top of a ladder you say?'
+[Sat Jun 30 15:37:04 2001] Oraden says, 'should i go off /anon now?'
+[Sat Jun 30 15:37:14 2001] Kaweewee says, 'Roleplay your heart out and always be friendly.'
+[Sat Jun 30 15:37:16 2001] Kaweewee says, 'no'
+[Sat Jun 30 15:37:30 2001] Kaweewee says, 'If a player gets to you ask a guide to take over'
+[Sat Jun 30 15:37:33 2001] Lirus GMSAYS, 'zone'
+[Sat Jun 30 15:37:35 2001] Lancet GMSAYS, 'just down from it  you know you go into pf go up ladder down passage she is just down passage a little way'
+[Sat Jun 30 15:37:49 2001] Lancet GMSAYS, 'zoning'
+[Sat Jun 30 15:37:53 2001] Kaweewee says, 'There is no shame in asking for help'
+[Sat Jun 30 15:38:18 2001] Kaweewee says, 'Remember we ARE verant and must be careful to represent ourselves as such'
+[Sat Jun 30 15:38:29 2001] Kaweewee says, 'Do you have any questions?'
+[Sat Jun 30 15:39:05 2001] Espranza saved.
+[Sat Jun 30 15:39:09 2001] Oraden says, 'aye, 1) do exploit abuse and harrassment go to guides or straight to red (senior / GM) ?'
+[Sat Jun 30 15:39:38 2001] Oraden says, '2) we can't repremand players, but can we suggest they fix bad name situations?'
+[Sat Jun 30 15:40:33 2001] Kaweewee says, 'Abuse and such go to yellow'
+[Sat Jun 30 15:41:00 2001] Kaweewee says, 'bad names go to yellow as well, you do not have to ask them to fix there name, they cannot without a senior or gm to do it fo rthem'
+[Sat Jun 30 15:41:01 2001] Oraden says, '3) are we supposed to be Verant or that we need to reflect well on Verant (i.e. "i work with verant's polices as they are" or "the policy can be changed if you can convince verant here is there email address" )'
+[Sat Jun 30 15:41:49 2001] Kaweewee says, 'In my opinion you would never say the later, we must all present the same answers,'
+[Sat Jun 30 15:42:03 2001] Kaweewee says, 'if you tell them they can change policy it makes us look weak'
+[Sat Jun 30 15:42:06 2001] Oraden says, 'aye'
+[Sat Jun 30 15:42:08 2001] You say, 'actually...'
+[Sat Jun 30 15:42:14 2001] You say, 'they make the rules, we follow them.'
+[Sat Jun 30 15:42:23 2001] You say, 'that's why the P&P is so important.'
+[Sat Jun 30 15:42:27 2001] You say, 'Do you have it printed out?'
+[Sat Jun 30 15:42:34 2001] Kaweewee says, 'You can give them an e-mail address for comments'
+[Sat Jun 30 15:42:37 2001] Oraden says, 'yes. right next to me ;)'
+[Sat Jun 30 15:43:00 2001] Kaweewee says, 'Any other quetions?'
+[Sat Jun 30 15:43:19 2001] You say to your guild, 'I'll do que training unless your fingers are getting tired'
+[Sat Jun 30 15:43:21 2001] Oraden says, 'silly one, do you see your name in green? (mine is blue still)'
+[Sat Jun 30 15:43:33 2001] Kaweewee says, 'you are anon'
+[Sat Jun 30 15:43:38 2001] Oraden says, 'ahh.'
+[Sat Jun 30 15:44:16 2001] Oraden returns to full listen mode.
+[Sat Jun 30 15:44:22 2001] Kaweewee says, 'Now you will find out the reason Espranza became a guide. She is world famous for her petition training. HERESSSSSSSSSS ESPRANZA'
+[Sat Jun 30 15:44:36 2001] Kaweewee prepares to heckle.
+[Sat Jun 30 15:44:38 2001] You bow before Oraden.
+[Sat Jun 30 15:44:38 2001] Oraden grins.
+[Sat Jun 30 15:44:50 2001] Oraden bows before Espranza.
+[Sat Jun 30 15:44:53 2001] You say, 'the only reason they keep me around!'
+[Sat Jun 30 15:45:36 2001] You say, 'okay, if you haven't already, type the G key to get into the Guide mode'
+[Sat Jun 30 15:45:47 2001] You say, 'and then click on the petition button to see the list of petitons'
+[Sat Jun 30 15:45:57 2001] You say, 'got 'em?'
+[Sat Jun 30 15:46:04 2001] Oraden says, 'aye'
+[Sat Jun 30 15:46:48 2001] You say, 'you see a list of petitions, from oldest to earliest'
+[Sat Jun 30 15:46:55 2001] Oraden nods.
+[Sat Jun 30 15:46:58 2001] You say, 'right now there are only green ones. These are the ones you handle.'
+[Sat Jun 30 15:47:11 2001] You say, 'Yellow ones are for guides or above, reds only for seniors and GMs.'
+[Sat Jun 30 15:47:17 2001] Oraden gets sweaty palms.
+[Sat Jun 30 15:47:27 2001] You say, 'You never escalate something to red unless you think a senior or GM will be there to handle it'
+[Sat Jun 30 15:47:49 2001] You say, 'otherwise you just take down their information, ask them to contact a GM during his hours, and note it in your shift report.'
+[Sat Jun 30 15:48:17 2001] Oraden says, 'do we give out the GM hours?'
+[Sat Jun 30 15:48:33 2001] You say, 'yes'
+[Sat Jun 30 15:48:47 2001] You say, 'they are Thursday through Monday, 3pm to 11pm Pacific time.'
+[Sat Jun 30 15:48:56 2001] You say, 'all our times are in Pacific Time, by the way'
+[Sat Jun 30 15:49:12 2001] You petition, 'Kaweewee said she was prettier than me! Can you ban her please?'
+[Sat Jun 30 15:49:15 2001] Espranza saved.
+[Sat Jun 30 15:49:21 2001] You say, 'Okay, left click on the petition named Espranza'
+[Sat Jun 30 15:49:37 2001] You say, 'we usually take them from the top, but this is just for training'
+[Sat Jun 30 15:49:44 2001] Oraden says, 'ok'
+[Sat Jun 30 15:50:31 2001] You say, 'Okay, you'll see a bunch of buttons and information on the top'
+[Sat Jun 30 15:50:37 2001] You say, 'in your chat window is the petition text.'
+[Sat Jun 30 15:50:37 2001] It begins to rain.
+[Sat Jun 30 15:50:59 2001] Kaweewee tells the guild, 'gonna make a corpse and petition'
+[Sat Jun 30 15:51:00 2001] Oraden says, 'ahh. missed it.. ok... i see it.'
+[Sat Jun 30 15:51:07 2001] Lancet GMSAYS, 'zoning'
+[Sat Jun 30 15:51:08 2001] Kaweewee exscuses herself.
+[Sat Jun 30 15:51:31 2001] You say to your guild, 'your turn !'
+[Sat Jun 30 15:51:40 2001] Lancet GMSAYS, 'ok dinner on table bye ppl'
+[Sat Jun 30 15:51:47 2001] Lirus GMSAYS, 'take it easy lancet'
+[Sat Jun 30 15:51:51 2001] You say, 'Okay, how would you answer this petition?'
+[Sat Jun 30 15:51:57 2001] Oraden GMSAYS, '*waves* See you Lancet'
+[Sat Jun 30 15:52:43 2001] You say, 'you can use the 'T' key to set up an automatic tell to the petitioner (me)'
+[Sat Jun 30 15:53:20 2001] Kaweewee tells the guild, 'pet sent'
+[Sat Jun 30 15:54:01 2001] You say, 'Well, I usually start out with "Hail, Oraden! Guide Espranza here. How may I help you?"'
+[Sat Jun 30 15:54:03 2001] Oraden tells you, 'Greetings, Apprentice Guide Oraden. I don't think she meant it persoanlly. Has she been harassing you repeatedly since?'
+[Sat Jun 30 15:54:14 2001] Oraden says, 'ah.'
+[Sat Jun 30 15:54:23 2001] You told Oraden, 'heh you called me apprentice guide oraden!!!!'
+[Sat Jun 30 15:54:25 2001] The spirit leaves you.
+[Sat Jun 30 15:54:34 2001] Oraden tells you, 'eep.'
+[Sat Jun 30 15:54:52 2001] You told Oraden, 'we'll go on :)'
+[Sat Jun 30 15:54:58 2001] Oraden tells you, 'Greetings, Apprentice guide Oraden here. ;)'
+[Sat Jun 30 15:55:07 2001] You say, 'I don't see how I could AVOID taking it personally!'
+[Sat Jun 30 15:55:15 2001] Kaweewee GMSAYS, 'hey lirus do you remember granting the surname AIRWOLF in the last week or so?'
+[Sat Jun 30 15:55:18 2001] You say, 'Can you ban her right now? she's right here.'
+[Sat Jun 30 15:55:27 2001] Lirus GMSAYS, 'yep'
+[Sat Jun 30 15:55:30 2001] You point at Kaweewee. Yeah you!
+[Sat Jun 30 15:55:44 2001] Kaweewee GMSAYS, 'even tho its the name of a tv show?'
+[Sat Jun 30 15:55:51 2001] You GMSAY, 'it's not illegal'
+[Sat Jun 30 15:55:52 2001] Lirus GMSAYS, 'That is pretty obscure'
+[Sat Jun 30 15:55:53 2001] Kaweewee hides.
+[Sat Jun 30 15:56:03 2001] Lirus GMSAYS, 'There is nothing wrong with Airwolf IMO'
+[Sat Jun 30 15:56:06 2001] Oraden tells you, 'I can not ban her. And I think she might have been roleplaying. Can you find it in your heart to forgive her?'
+[Sat Jun 30 15:56:18 2001] Kaweewee GMSAYS, 'thought they were lying like all the other pets that say you did this or that'
+[Sat Jun 30 15:56:23 2001] You told Oraden, 'Could you just tell her I am cuter?'
+[Sat Jun 30 15:56:28 2001] Lirus GMSAYS, 'hehe what did they say?'
+[Sat Jun 30 15:56:55 2001] Kaweewee GMSAYS, 'just that you granted the name, i told them to petition the following day to have husbands name changed to be the same'
+[Sat Jun 30 15:57:03 2001] Oraden tells you, 'I can't choose favorites. But take my word for it you are very pretty. Even remind me of my EQ wife.'
+[Sat Jun 30 15:57:05 2001] You say, 'okay, just for fun, let's go over escalating stuff.'
+[Sat Jun 30 15:57:07 2001] Lirus GMSAYS, 'I changed his too'
+[Sat Jun 30 15:57:13 2001] You blush at Oraden.
+[Sat Jun 30 15:57:14 2001] Lirus GMSAYS, 'yesterday if I recall'
+[Sat Jun 30 15:57:29 2001] Oraden says, 'ok'
+[Sat Jun 30 15:57:32 2001] You say, 'Before you escalate something you must include a reason why it was escalated.'
+[Sat Jun 30 15:57:41 2001] Oraden nods.
+[Sat Jun 30 15:57:42 2001] Kaweewee GMSAYS, 'i handled it perfectly then, i told them if you granted it then it must be ok and you would grant it for the husband'
+[Sat Jun 30 15:57:42 2001] You say, 'you do this using the append text feature.'
+[Sat Jun 30 15:58:14 2001] Lirus GMSAYS, '*nod* has he not noticed the name change or is he not online?'
+[Sat Jun 30 15:58:20 2001] You say, 'press return as if you were about to say something, and type in "Espranza is WAY cuter than some dumb old high elf." and, instead of pressing enter, click on the APPEND TEXT button'
+[Sat Jun 30 15:58:22 2001] Oraden says, 'says must be in chat mode... hmm... '
+[Sat Jun 30 15:58:52 2001] Kaweewee GMSAYS, 'Imo i think its funny we change obscure 17th century heroins names from books i can pronounce, no they arent onlins i just remembered and thought i would ask'
+[Sat Jun 30 15:58:54 2001] Oraden says, 'done'
+[Sat Jun 30 15:59:07 2001] You say, 'now click the GM TEXT button and you should see your text there'
+[Sat Jun 30 15:59:18 2001] Lirus GMSAYS, 'What names Kaw?'
+[Sat Jun 30 15:59:21 2001] Oraden says, 'done'
+[Sat Jun 30 15:59:25 2001] Espranza saved.
+[Sat Jun 30 15:59:27 2001] You say, 'did you see it?'
+[Sat Jun 30 15:59:31 2001] Kaweewee GMSAYS, 'i forget but i see it all the time'
+[Sat Jun 30 15:59:45 2001] Oraden says, 'yep'
+[Sat Jun 30 16:00:12 2001] You say, 'okay, click on the ESCALATE button once to make it URGENT, which means for the attention of a guide or up.'
+[Sat Jun 30 16:00:39 2001] Oraden says, 'ok done.'
+[Sat Jun 30 16:00:48 2001] You say, 'then /pr Escalating Espranza - just because'
+[Sat Jun 30 16:00:58 2001] You say, 'usually give a reason there but there isn't much of one :)'
+[Sat Jun 30 16:01:07 2001] Oraden GMSAYS, 'Escalating Espranza - just because'
+[Sat Jun 30 16:01:13 2001] You GMSAY, 'then click on CHECK IN'
+[Sat Jun 30 16:01:34 2001] You say, 'and you'll see it appear in yellow on the queue'
+[Sat Jun 30 16:01:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 16:01:37 2001] USER TEXT: Kaweewee said she was prettier than me! Can you ban her please?
+[Sat Jun 30 16:01:38 2001] Players in EverQuest:
+[Sat Jun 30 16:01:38 2001] ---------------------------
+[Sat Jun 30 16:01:38 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jun 30 16:01:38 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:01:39 2001] Oraden says, 'aye'
+[Sat Jun 30 16:01:42 2001] GM TEXT: Oraden: Espranza is WAY cuter than some dumb old high elf.
+[Sat Jun 30 16:01:46 2001] You say, 'perfect!'
+[Sat Jun 30 16:01:48 2001] DELETING THIS PETITION
+[Sat Jun 30 16:02:02 2001] You say, 'now pull Kaweewee's petition and read it aloud to us please'
+[Sat Jun 30 16:02:10 2001] Searching zones for corpse of that name....
+[Sat Jun 30 16:02:10 2001] Corpse: Kaweewee's corpse0 in zone: cshome
+[Sat Jun 30 16:02:44 2001] Oraden says, 'all caps, I died and can't find my body res me nowwwww.'
+[Sat Jun 30 16:03:03 2001] You say, 'I think we can agree she is better off with out it'
+[Sat Jun 30 16:03:11 2001] You say, 'one thing I forgot to mention...'
+[Sat Jun 30 16:03:12 2001] Oraden rofl.
+[Sat Jun 30 16:03:24 2001] You say, 'when you pull a petition from the que, you should announce it'
+[Sat Jun 30 16:03:34 2001] You say, 'so do /pr pulling Kaweewee'
+[Sat Jun 30 16:03:34 2001] Oraden says, 'ahh.'
+[Sat Jun 30 16:03:55 2001] You say, 'as an appie you should announce pretty much everything you do with a petition over pr/'
+[Sat Jun 30 16:03:56 2001] Oraden GMSAYS, 'pulling Kaweewee'
+[Sat Jun 30 16:04:05 2001] Oraden nods.
+[Sat Jun 30 16:04:18 2001] You say, 'she can't find her body, the first thing we do is to check to see if she has one.'
+[Sat Jun 30 16:04:27 2001] You say, 'we do that with the /sea command'
+[Sat Jun 30 16:04:29 2001] Kaweewee HAS a body.
+[Sat Jun 30 16:04:32 2001] You say, 'type /sea Kaweewee'
+[Sat Jun 30 16:04:43 2001] You say, '(There is a slash before sea)'
+[Sat Jun 30 16:04:59 2001] Oraden says, 'one corpse in cshome.'
+[Sat Jun 30 16:04:59 2001] Espranza is surprised she considers that long stringy thing a body.
+[Sat Jun 30 16:05:14 2001] You say, 'you can see a couple of things from the name of the corpse'
+[Sat Jun 30 16:05:34 2001] You say, 'the first is the number at the end of it - if it had been 1 or 2 it would have indicated the presence of additional corpses in the zone'
+[Sat Jun 30 16:05:50 2001] You say, 'since it says 0, it's the only corpse. Now we know where the corpse is, and that she has one.'
+[Sat Jun 30 16:06:23 2001] You say, 'now, it is not our responsibility to help someone with corpse retrieval. they should make a decent effort to find their own corpse before we intervene.'
+[Sat Jun 30 16:06:34 2001] Oraden nods.
+[Sat Jun 30 16:06:47 2001] You say, 'only if they cannot find it then, do (or should) we get involved.'
+[Sat Jun 30 16:07:05 2001] You say, 'so for this kind of petition, you attempt to find these things out.'
+[Sat Jun 30 16:07:06 2001] Kaweewee is still waiting for her es.
+[Sat Jun 30 16:07:17 2001] You say, 'Please respond to Kaweewee in /say so we can all hear...'
+[Sat Jun 30 16:08:33 2001] Oraden says, 'Greetings Kaweewee, Apprentice Guide Oraden here. Sorry to hear of your misadventure. How and where did you die?'
+[Sat Jun 30 16:08:35 2001] Kaweewee says, 'in /say o'
+[Sat Jun 30 16:09:13 2001] Oraden says, 'Well first I would like to see about helping with your petition before discussing rumors.'
+[Sat Jun 30 16:09:20 2001] Kaweewee says, 'i died starring at somw sill guide, she was hideous and i got jumped'
+[Sat Jun 30 16:09:32 2001] You turn an icy glare upon Kaweewee.
+[Sat Jun 30 16:09:35 2001] Espranza saved.
+[Sat Jun 30 16:09:40 2001] Kaweewee says, 'then i went ld'
+[Sat Jun 30 16:09:45 2001] You say, ''twas a mirror no doubt'
+[Sat Jun 30 16:10:45 2001] Oraden says, 'Oh. That sounds awful. I am sorry to say, but guides can't provide ressurection in such circumstances. However if you haven't been able to find your socrpse I can see what we can do.'
+[Sat Jun 30 16:10:47 2001] You say, 'remember, you can - and should - always ask your mentor (with whom you will be grouped) or over /pr if you need help or advice.'
+[Sat Jun 30 16:11:11 2001] Oraden says, 'ahh.'
+[Sat Jun 30 16:11:25 2001] Kaweewee says, 'you will find my corpse and you will res me, i am a pying customer.......blah blah blah etc etc etc'
+[Sat Jun 30 16:11:39 2001] You giggle at Kaweewee.
+[Sat Jun 30 16:11:45 2001] You say, 'true though'
+[Sat Jun 30 16:12:25 2001] Oraden says, 'I can understand your frustration. Have you looked for your corpse or had some friendly people in the zone try to help you?'
+[Sat Jun 30 16:12:40 2001] You say to your guild, 'looking for good pets in the que'
+[Sat Jun 30 16:12:41 2001] Kaweewee says, 'noooo, why should i???? thats why i pey you'
+[Sat Jun 30 16:12:44 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 16:12:44 2001] USER TEXT: where do i go or how do  i make a complaint about gms in chat room?
+[Sat Jun 30 16:12:44 2001] Players in EverQuest:
+[Sat Jun 30 16:12:44 2001] ---------------------------
+[Sat Jun 30 16:12:44 2001] There are no players in EverQuest that match those who filters.
+[Sat Jun 30 16:13:00 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Jun 30 16:13:02 2001] CHECKING IN
+[Sat Jun 30 16:13:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 16:13:05 2001] USER TEXT: need you to help me get my guild instated
+[Sat Jun 30 16:13:05 2001] Players in EverQuest:
+[Sat Jun 30 16:13:05 2001] ---------------------------
+[Sat Jun 30 16:13:05 2001] [41 Monk] Feigning (Human) <Order of the Unusual> ZONE: skyshrine (USER PID GVA1R48)
+[Sat Jun 30 16:13:05 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:13:12 2001] Kaweewee says, 'last week i died and this espra something came and found me and ressed me, why wont you?'
+[Sat Jun 30 16:13:14 2001] UNDOING CHECK OUT
+[Sat Jun 30 16:13:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 16:13:17 2001] USER TEXT: i fell off a ledge in soluseks eye into lava can you help me get my corpse back
+[Sat Jun 30 16:13:18 2001] Players in EverQuest:
+[Sat Jun 30 16:13:18 2001] ---------------------------
+[Sat Jun 30 16:13:18 2001] [ANON (30 Ranger)] Shadowloch (Human) ZONE: soldunga (USER PID HYV6BPT)
+[Sat Jun 30 16:13:18 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:13:36 2001] Searching zones for corpse of that name....
+[Sat Jun 30 16:13:37 2001] Corpse: Shadowloch's corpse0 in zone: soldunga
+[Sat Jun 30 16:13:40 2001] UNDOING CHECK OUT
+[Sat Jun 30 16:13:42 2001] Oraden says, 'I again apologize for the misunderstanding. Guides are not paid employees. We are here to assist you when you can't do something through the normal powers of a player.'
+[Sat Jun 30 16:13:54 2001] You say, 'nope nope'
+[Sat Jun 30 16:14:02 2001] You say, 'we're GM gods'
+[Sat Jun 30 16:14:09 2001] You say, 'never gonna convince people otherwise.'
+[Sat Jun 30 16:14:09 2001] Oraden hehe.
+[Sat Jun 30 16:14:18 2001] You say, 'seriously though...'
+[Sat Jun 30 16:14:24 2001] Kaweewee says, 'I cant do nothing, im way far away and i have a party to go to, besides Lirus is my next door neighbor, he said its ok'
+[Sat Jun 30 16:14:33 2001] You say, 'we don't need to explain ourselves to people.'
+[Sat Jun 30 16:14:39 2001] You say, 'we can do what we can.'
+[Sat Jun 30 16:14:45 2001] Oraden GMSAYS, 'Espranza - Kaweewee said you rezzed her last week... do you remember her?'
+[Sat Jun 30 16:14:53 2001] Kaweewee says, 'hehe'
+[Sat Jun 30 16:14:55 2001] You GMSAY, 'scammer.'
+[Sat Jun 30 16:15:00 2001] Kaweewee says, 'eek'
+[Sat Jun 30 16:15:03 2001] Oraden GMSAYS, 'aye'
+[Sat Jun 30 16:15:15 2001] Larsot GMSAYS, 'Hail!!! Appie here  :)'
+[Sat Jun 30 16:15:18 2001] You GMSAY, 'thought they banned her for calling someone ugly'
+[Sat Jun 30 16:15:20 2001] Kaweewee says, 'you will get that alot, so and so did this'
+[Sat Jun 30 16:15:26 2001] You GMSAY, 'coming for ya, Larsot'
+[Sat Jun 30 16:15:28 2001] You GMSAY, 'zone'
+[Sat Jun 30 16:15:31 2001] Teleporting to larsot.
+[Sat Jun 30 16:15:32 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 16:16:00 2001] Dven says out of character, 'bring him to TB ill kill em '
+[Sat Jun 30 16:16:03 2001] You have entered West Commonlands.
+[Sat Jun 30 16:16:08 2001]  (Selo`s Accelerando)
+[Sat Jun 30 16:16:12 2001] Larsot grabs hold of Espranza and begins to dance with her.
+[Sat Jun 30 16:16:13 2001] It begins to rain.
+[Sat Jun 30 16:16:13 2001] You invite Larsot to join your group.
+[Sat Jun 30 16:16:17 2001] You have formed the group.
+[Sat Jun 30 16:16:17 2001] You wave at Larsot.
+[Sat Jun 30 16:16:19 2001] Larsot tells the group, 'thankyou'
+[Sat Jun 30 16:16:20 2001] Tcby shouts, 'Anymore people want to join Derv group? Tank or healer needed'
+[Sat Jun 30 16:16:23 2001] You say, 'leave shadowloch'
+[Sat Jun 30 16:16:23 2001] Larsot cheers at Espranza.
+[Sat Jun 30 16:16:25 2001] You say, 'new appie'
+[Sat Jun 30 16:16:27 2001] You wave goodbye to Larsot.
+[Sat Jun 30 16:16:29 2001] You GMSAY, 'zone'
+[Sat Jun 30 16:16:32 2001] Teleporting to kaweewee.
+[Sat Jun 30 16:16:32 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 16:16:53 2001] You have entered Sunset Home.
+[Sat Jun 30 16:16:54 2001] You have formed the group.
+[Sat Jun 30 16:17:00 2001] You invite Oraden to join your group.
+[Sat Jun 30 16:17:03 2001] You invite Kaweewee to join your group.
+[Sat Jun 30 16:17:06 2001] Larsot GMSAYS, 'ok, im going to dive in  ;)'
+[Sat Jun 30 16:17:08 2001] Oraden has joined the group.
+[Sat Jun 30 16:17:08 2001] Kaweewee has joined the group.
+[Sat Jun 30 16:17:09 2001] You GMSAY, 'okay'
+[Sat Jun 30 16:17:11 2001] Oraden tells the group, 'greetings'
+[Sat Jun 30 16:17:15 2001] Kaweewee tells the group, 'hello'
+[Sat Jun 30 16:17:16 2001] Larsot GMSAYS, 'pulling Feigning'
+[Sat Jun 30 16:17:20 2001] You told larsot, 'but leave shadowloch'
+[Sat Jun 30 16:17:23 2001] Larsot tells the group, 'hiya  ;)'
+[Sat Jun 30 16:17:29 2001] Larsot tells you, 'aye, i understand'
+[Sat Jun 30 16:17:41 2001] You say, 'are we done with that one?'
+[Sat Jun 30 16:17:47 2001] Kaweewee tells the group, 'yes'
+[Sat Jun 30 16:17:53 2001] Oraden tells the group, 'aye'
+[Sat Jun 30 16:17:56 2001] You say, 'if someone causes you too much grief, justy escalate it'
+[Sat Jun 30 16:18:02 2001] You tell your party, 'pull Shadowloch'
+[Sat Jun 30 16:18:07 2001] Oraden says, 'do i need to add any text or just close?'
+[Sat Jun 30 16:18:08 2001] You tell your party, 'remember to announce it over pr'
+[Sat Jun 30 16:18:13 2001] Kaweewee tells the group, 'delete'
+[Sat Jun 30 16:18:22 2001] You tell your party, 'announce you deleted it'
+[Sat Jun 30 16:18:25 2001] You tell your party, 'over pr'
+[Sat Jun 30 16:18:30 2001] Oraden GMSAYS, 'pullind shadowloch'
+[Sat Jun 30 16:18:43 2001] You tell your party, 'try /pr deleted Kaweewee - resolved or something'
+[Sat Jun 30 16:19:11 2001] Oraden GMSAYS, 'deleted Kaweewee - may repetition if corpse is still lost at a later time.'
+[Sat Jun 30 16:19:20 2001] You tell your party, 'this is a real petition, by the way'
+[Sat Jun 30 16:19:24 2001] Oraden tells the group, 'ok. corpse in lava.'
+[Sat Jun 30 16:19:29 2001] You tell your party, 'so let us know what you're saying to the person'
+[Sat Jun 30 16:19:37 2001] You tell your party, 'okay, look for the corpse with /sea'
+[Sat Jun 30 16:19:43 2001] Oraden tells the group, 'looking for corpse ;)'
+[Sat Jun 30 16:19:51 2001] Larsot GMSAYS, 'Lirus, you busy?'
+[Sat Jun 30 16:20:04 2001] Oraden tells the group, 'one corpse in sol a.'
+[Sat Jun 30 16:20:07 2001] You tell your party, 'why do you need Lirus?'
+[Sat Jun 30 16:20:20 2001] You tell your party, 'okay, what will you tell the petitioner?'
+[Sat Jun 30 16:20:37 2001] Larsot tells the group, 'Feigning has his/her 10 people waiting for head count for Guild creation.....'
+[Sat Jun 30 16:20:47 2001] You tell your party, 'escalate to yellow'
+[Sat Jun 30 16:20:51 2001] Larsot tells the group, 'aye'
+[Sat Jun 30 16:20:59 2001] You tell your party, 'Kawee or I will go count them'
+[Sat Jun 30 16:21:14 2001] Lirus GMSAYS, 'what's up?'
+[Sat Jun 30 16:21:25 2001] Oraden tells the group, 'greetings, how can i help'
+[Sat Jun 30 16:21:25 2001] Lirus GMSAYS, 'zone sec'
+[Sat Jun 30 16:21:35 2001] You tell your party, 'r'
+[Sat Jun 30 16:21:57 2001] Larsot GMSAYS, 'escalating Feigning pet for head count'
+[Sat Jun 30 16:21:57 2001] You tell your party, 'remember to introduce yourself as an apprentice guide - Greeting, Apprentice Guide Oraden here. How may I help you?'
+[Sat Jun 30 16:22:08 2001] You tell your party, 'wanna grab that, Kawee?'
+[Sat Jun 30 16:22:10 2001] Oraden tells the group, 'i did, didn't retype it ;)'
+[Sat Jun 30 16:22:26 2001] Larsot GMSAYS, 'pulling Tamenae from que'
+[Sat Jun 30 16:22:32 2001] You tell your party, 'okay, send that to the petitioner if you haven't already'
+[Sat Jun 30 16:22:47 2001] You tell your party, 'wait a sec, I think Kawee is afk'
+[Sat Jun 30 16:22:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 16:22:51 2001] USER TEXT: need you to help me get my guild instated
+[Sat Jun 30 16:22:51 2001] Players in EverQuest:
+[Sat Jun 30 16:22:51 2001] ---------------------------
+[Sat Jun 30 16:22:51 2001] [41 Monk] Feigning (Human) ZONE: skyshrine (USER PID GVA1R48)
+[Sat Jun 30 16:22:51 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:22:54 2001] Oraden tells the group, 'did, no reply, but he's in sola still.'
+[Sat Jun 30 16:22:56 2001] GM TEXT: Larsot: Feigning (GVA1R48) has her 10 people ready for a head count for guild creation...
+[Sat Jun 30 16:23:07 2001] You tell your party, 'good escalation Larsot!'
+[Sat Jun 30 16:23:11 2001] You tell your party, 'brb'
+[Sat Jun 30 16:23:15 2001] You GMSAY, 'zone'
+[Sat Jun 30 16:23:18 2001] Teleporting to feigning.
+[Sat Jun 30 16:23:19 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 16:24:04 2001] You have entered Skyshrine.
+[Sat Jun 30 16:24:05 2001] You have formed the group.
+[Sat Jun 30 16:24:19 2001] Onii cheers at Espranza.
+[Sat Jun 30 16:24:21 2001] Oraden tells the group, 'resend greeting?'
+[Sat Jun 30 16:24:27 2001] Cenena hugs Lirus.
+[Sat Jun 30 16:24:28 2001] You tell your party, 'yeah'
+[Sat Jun 30 16:24:29 2001] Cenena hugs Lirus.
+[Sat Jun 30 16:24:29 2001] You no longer have a target.
+[Sat Jun 30 16:24:31 2001] Cenena hugs Lirus.
+[Sat Jun 30 16:24:33 2001] Cenena grabs hold of Lirus and begins to dance with him.
+[Sat Jun 30 16:24:36 2001] Cenena grabs hold of Lirus and begins to dance with him.
+[Sat Jun 30 16:24:37 2001] Feigning is not in a guild.
+[Sat Jun 30 16:24:43 2001] Kaweewee tells the group, 'im here'
+[Sat Jun 30 16:24:45 2001] Codey grabs hold of Espranza and begins to dance with her.
+[Sat Jun 30 16:24:46 2001] You say to your guild, 'well, guess you got it..!'
+[Sat Jun 30 16:24:47 2001] Codey hugs Espranza.
+[Sat Jun 30 16:24:49 2001] Kaweewee tells the group, 'baby screamed'
+[Sat Jun 30 16:24:57 2001] Kaweewee tells the group, 'got what'
+[Sat Jun 30 16:25:00 2001] You GMSAY, 'esc Feigning to Lirus'
+[Sat Jun 30 16:25:03 2001] STATUS UPGRADED TO EMERGENCY
+[Sat Jun 30 16:25:05 2001] CHECKING IN
+[Sat Jun 30 16:25:06 2001] You no longer have a target.
+[Sat Jun 30 16:25:10 2001] You wave goodbye to everyone.
+[Sat Jun 30 16:25:11 2001] You GMSAY, 'zone'
+[Sat Jun 30 16:25:15 2001] Teleporting to kaweewee.
+[Sat Jun 30 16:25:16 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 16:25:38 2001] You have entered Sunset Home.
+[Sat Jun 30 16:25:39 2001] You have formed the group.
+[Sat Jun 30 16:26:15 2001] You tell your party, 'still no response?'
+[Sat Jun 30 16:26:26 2001] Oraden tells the group, 'ok, he fell in lava and has no way to retrieve corpse... this is something full guide can do right?'
+[Sat Jun 30 16:26:36 2001] Larsot GMSAYS, 'Tamenae Unavailable. checking back in'
+[Sat Jun 30 16:26:37 2001] You tell your party, 'oh, he's talking to you?'
+[Sat Jun 30 16:26:47 2001] You tell your party, 'yes, append text and then escalate it'
+[Sat Jun 30 16:26:55 2001] Larsot GMSAYS, 'pulling Thorrax'
+[Sat Jun 30 16:28:18 2001] Oraden GMSAYS, 'escalating Shadowloch. Corpse in Lava in sol A.'
+[Sat Jun 30 16:28:40 2001] You say to your guild, 'who grabbed it?'
+[Sat Jun 30 16:28:45 2001] Kaweewee tells the group, 'i did'
+[Sat Jun 30 16:28:48 2001] You say to your guild, 'check the gm text'
+[Sat Jun 30 16:28:54 2001] Oraden GMSAYS, 'checked shadowloch back in. yellow.'
+[Sat Jun 30 16:29:00 2001] Kaweewee tells the group, 'i did, very nice oraden'
+[Sat Jun 30 16:29:20 2001] Larsot tells the group, 'I had that happen to me once, I had to retrive my own corpse   :('
+[Sat Jun 30 16:29:26 2001] Kaweewee GMSAYS, 'zooooningggg'
+[Sat Jun 30 16:29:26 2001] You tell your party, 'it's possible'
+[Sat Jun 30 16:29:38 2001] You tell your party, 'as the P&P says, we retrieve corpses in lava as a service'
+[Sat Jun 30 16:29:50 2001] Oraden tells the group, 'try another?'
+[Sat Jun 30 16:29:57 2001] You tell your party, 'lemme look at them'
+[Sat Jun 30 16:29:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 16:29:59 2001] USER TEXT: I have a problem and i need some help
+[Sat Jun 30 16:29:59 2001] Players in EverQuest:
+[Sat Jun 30 16:29:59 2001] ---------------------------
+[Sat Jun 30 16:29:59 2001] [11 Wizard] Countryboy (Erudite) <Revered Souls> ZONE: blackburrow (USER PID CZE2MNV)
+[Sat Jun 30 16:29:59 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:30:06 2001] You tell your party, 'okay pull countryboy'
+[Sat Jun 30 16:30:07 2001] Larsot tells the group, 'hehe, WAYYYYYY back then, gn on my server said tough patootie!!'
+[Sat Jun 30 16:30:09 2001] UNDOING CHECK OUT
+[Sat Jun 30 16:30:22 2001] You tell your party, 'the P&P says we can recover them.'
+[Sat Jun 30 16:30:26 2001] Oraden GMSAYS, 'pulling countryboy'
+[Sat Jun 30 16:30:37 2001] Oraden tells the group, 'he needs help ;)'
+[Sat Jun 30 16:30:45 2001] You tell your party, 'heh'
+[Sat Jun 30 16:30:47 2001] Oraden tells the group, 'sending greeting and How?'
+[Sat Jun 30 16:30:53 2001] You tell your party, 'love those vague petitions'
+[Sat Jun 30 16:31:13 2001] You tell your party, 'yeah, but make it polite "Greetings, soandso, this is soandso, how may I help you?'
+[Sat Jun 30 16:31:14 2001] Larsot tells the group, 'hehe, aye'
+[Sat Jun 30 16:31:21 2001] You tell your party, 'while waiting for a reply, /sea for corpses.'
+[Sat Jun 30 16:31:23 2001] Oraden tells the group, 'aye'
+[Sat Jun 30 16:31:45 2001] Oraden tells the group, 'highpass black burrow'
+[Sat Jun 30 16:31:59 2001] You tell your party, 'so you know he's going to want a CR and / or a rez'
+[Sat Jun 30 16:32:10 2001] You tell your party, 'and he just might be eligible for one - you never know.'
+[Sat Jun 30 16:32:21 2001] Oraden tells the group, 'says friend drug corpse, but now he can't target it.'
+[Sat Jun 30 16:32:31 2001] You tell your party, 'is it visible?'
+[Sat Jun 30 16:32:39 2001] You tell your party, 'and, which corpse is it?'
+[Sat Jun 30 16:32:47 2001] Kaweewee GMSAYS, 'zooooningggg'
+[Sat Jun 30 16:33:30 2001] Oraden tells the group, 'the black burrow, his friend see's it but he did not. asking him if he can target it with /assist.'
+[Sat Jun 30 16:33:42 2001] Oraden tells the group, 'he can't target it or see it at all.'
+[Sat Jun 30 16:33:56 2001] Kaweewee tells the group, 'tell him to log all the way out and back in again'
+[Sat Jun 30 16:34:02 2001] Oraden tells the group, 'ghost coprse?'
+[Sat Jun 30 16:34:07 2001] You tell your party, 'he may be bugged'
+[Sat Jun 30 16:34:15 2001] You tell your party, 'do ask him to log out and in again'
+[Sat Jun 30 16:34:18 2001] Larsot GMSAYS, 'escalating Thorrax (HZLXJ88) for missing corpse in Ill Omen'
+[Sat Jun 30 16:35:04 2001] Oraden GMSAYS, 'asking Countryboy to log off/on to fix corpse.'
+[Sat Jun 30 16:35:10 2001] Oraden tells the group, 'tried twice, no luck.'
+[Sat Jun 30 16:35:29 2001] You tell your party, 'okay escalate it'
+[Sat Jun 30 16:35:33 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 16:35:33 2001] USER TEXT: Hi, I just went linkdead, came back, noticed I died, Not my fault, came back to where I went dead, no corpse?
+[Sat Jun 30 16:35:33 2001] Players in EverQuest:
+[Sat Jun 30 16:35:33 2001] ---------------------------
+[Sat Jun 30 16:35:33 2001] [28 Shaman] Thorrax (Barbarian) ZONE: lakeofillomen (USER PID HZLXJ88)
+[Sat Jun 30 16:35:33 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:35:43 2001] Espranza saved.
+[Sat Jun 30 16:35:46 2001] GM TEXT: Larsot: Thorrak lost connection while fighting and logged back in dead. He cannot find his corpse and cannot find help.  Larsot: Player went LD and died and cannot find corpse and cannot get help to locate one.
+[Sat Jun 30 16:35:55 2001] Searching zones for corpse of that name....
+[Sat Jun 30 16:36:01 2001] Searching zones for corpse of that name....
+[Sat Jun 30 16:36:01 2001] Corpse: Thorrax's corpse0 in zone: lakeofillomen
+[Sat Jun 30 16:36:03 2001] You GMSAY, 'zone'
+[Sat Jun 30 16:36:04 2001] You tell your party, 'brb'
+[Sat Jun 30 16:36:06 2001] Larsot GMSAYS, 'pulling Stronmaus from que'
+[Sat Jun 30 16:36:09 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 16:36:52 2001] a sarnak recruit died.
+[Sat Jun 30 16:36:55 2001] You have entered Lake of Ill Omen.
+[Sat Jun 30 16:36:55 2001] You have formed the group.
+[Sat Jun 30 16:37:04 2001] Teleporting to thorrax's corpse0.
+[Sat Jun 30 16:37:18 2001] You feel the spirit of Norrath enter you.
+[Sat Jun 30 16:37:19 2001] Your feet leave the ground.
+[Sat Jun 30 16:37:20 2001] Keisersoze shouts, 'benjr you could at least answer'
+[Sat Jun 30 16:37:29 2001] You tell your party, 'Larsot, where did Thorrak think he died?'
+[Sat Jun 30 16:37:32 2001] Oraden tells the group, 'and forgot to append text like a newbie =('
+[Sat Jun 30 16:37:40 2001] Kaweewee tells the group, 'do it now'
+[Sat Jun 30 16:37:46 2001] You tell your party, 'pull pet back and do it - yeah'
+[Sat Jun 30 16:37:56 2001] Thorrax says out of character, 'Hello bards and Necromancers, I went Linkdead, came back in and saw I died, went back to same spot, no corpse, did a petition, GM say to ask you for aid, dont know why they cant, but I will pay if i have to friends, I am at windmill, corpse should be'
+[Sat Jun 30 16:37:58 2001] Oraden GMSAYS, 'pulling countrybot to append text'
+[Sat Jun 30 16:38:19 2001] Players on EverQuest:
+[Sat Jun 30 16:38:19 2001] ---------------------------
+[Sat Jun 30 16:38:19 2001] [23 Bard] Noter (Wood Elf)
+[Sat Jun 30 16:38:19 2001] [54 Minstrel] Minam (Half Elf) <Power of Peace>
+[Sat Jun 30 16:38:19 2001] There are 2 players in Lake of Ill Omen.
+[Sat Jun 30 16:38:25 2001] Players on EverQuest:
+[Sat Jun 30 16:38:25 2001] ---------------------------
+[Sat Jun 30 16:38:25 2001] [5 Necromancer] Psyk (Iksar)
+[Sat Jun 30 16:38:25 2001] There is 1 player in Lake of Ill Omen.
+[Sat Jun 30 16:38:48 2001] You GMSAY, 'deleting Thorrax - his corpse is retrievable.'
+[Sat Jun 30 16:38:51 2001] DELETING THIS PETITION
+[Sat Jun 30 16:38:51 2001] Oraden GMSAYS, 'countryboy back in que'
+[Sat Jun 30 16:38:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 16:38:54 2001] USER TEXT: I have a problem and i need some help
+[Sat Jun 30 16:38:54 2001] Players in EverQuest:
+[Sat Jun 30 16:38:54 2001] ---------------------------
+[Sat Jun 30 16:38:54 2001] [11 Wizard] Countryboy (Erudite) <Revered Souls> ZONE: blackburrow (USER PID CZE2MNV)
+[Sat Jun 30 16:38:54 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:39:00 2001] GM TEXT: Oraden: he has tried to recover a coprse in blackburrow. his friend can pull the corpse, but he can't see it. he's logged off twice trying to fix the corpse
+[Sat Jun 30 16:39:03 2001] Larsot GMSAYS, 'thanks Espranza'
+[Sat Jun 30 16:39:05 2001] You GMSAY, 'zoe'
+[Sat Jun 30 16:39:09 2001] You GMSAY, 'zoNe'
+[Sat Jun 30 16:39:15 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 16:39:43 2001] You have entered Blackburrow.
+[Sat Jun 30 16:39:43 2001] You have formed the group.
+[Sat Jun 30 16:40:00 2001] Countryboy says, 'Hail, Espranza'
+[Sat Jun 30 16:40:07 2001] Teleporting to countryboy's corpse0.
+[Sat Jun 30 16:40:24 2001] Audrainna begins to cast a spell. (Strike)
+[Sat Jun 30 16:40:24 2001] You tell your party, 'okay this countryboy thing is a common problem'
+[Sat Jun 30 16:40:27 2001] Countryboy tells you, 'are you the guide?'
+[Sat Jun 30 16:40:30 2001] Audrainna begins to cast a spell. (Strike)
+[Sat Jun 30 16:40:36 2001] Audrainna begins to cast a spell. (Light Healing)
+[Sat Jun 30 16:40:36 2001] You tell your party, 'the corpse was in the wall, but appeared at zone in point'
+[Sat Jun 30 16:40:39 2001] You told Countryboy, 'yup!'
+[Sat Jun 30 16:40:41 2001] Oraden tells the group, 'aye, happened to me twice in gukbottom.'
+[Sat Jun 30 16:40:45 2001] Summoning Countryboy's corpse0.
+[Sat Jun 30 16:40:52 2001] Countryboy tells you, 'can you see my corpse'
+[Sat Jun 30 16:40:55 2001] You told Countryboy, 'corpse still showing up there?'
+[Sat Jun 30 16:41:16 2001] Arrelon says out of character, 'who was lookin for shoulder pads earlier'
+[Sat Jun 30 16:41:28 2001] You told Countryboy, 'it was in the wall - should be where you died now'
+[Sat Jun 30 16:41:38 2001] Vindarsus says out of character, 'iwas where can i meet you'
+[Sat Jun 30 16:41:46 2001] Countryboy tells you, 'thank you'
+[Sat Jun 30 16:41:47 2001] You told Countryboy, 'sometimes it ghosts to the zone'
+[Sat Jun 30 16:41:52 2001] You told Countryboy, 'be well!'
+[Sat Jun 30 16:41:54 2001] DELETING THIS PETITION
+[Sat Jun 30 16:41:57 2001] You GMSAY, 'zone'
+[Sat Jun 30 16:42:01 2001] Teleporting to kaweewee.
+[Sat Jun 30 16:42:02 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 16:42:22 2001] You have entered Sunset Home.
+[Sat Jun 30 16:42:22 2001] You have formed the group.
+[Sat Jun 30 16:42:28 2001] Oraden tells the group, 'eek... should I go off Anon?'
+[Sat Jun 30 16:42:33 2001] You say to your guild, 'okay, let's send him off'
+[Sat Jun 30 16:42:38 2001] Kaweewee tells the guild, 'k'
+[Sat Jun 30 16:42:57 2001] You tell your party, 'as an appie, whenever you find yourself in CSHome, you should always be anon'
+[Sat Jun 30 16:43:33 2001] Oraden tells the group, 'aye. just wondered dut to answering some petitions.'
+[Sat Jun 30 16:43:36 2001] You can no longer levitate.
+[Sat Jun 30 16:43:46 2001] Oraden tells the group, 'due even ;)'
+[Sat Jun 30 16:43:49 2001] You tell your party, 'oh, well, we can fix that little problem'
+[Sat Jun 30 16:43:59 2001] You tell your party, 'are you in a petition now?'
+[Sat Jun 30 16:44:05 2001] Oraden tells the group, 'senses a summon coming on.'
+[Sat Jun 30 16:44:18 2001] Oraden tells the group, 'nope. waiting to see if you wnt to pick one first.'
+[Sat Jun 30 16:44:24 2001] You tell your party, 'okay, stand up then!'
+[Sat Jun 30 16:44:36 2001] Countryboy tells you, 'My corpse is still invisible to me'
+[Sat Jun 30 16:44:42 2001] You tell your party, 'Welcome to the guide program, Apprentice Guide Oraden!'
+[Sat Jun 30 16:44:47 2001] Countryboy tells you, 'but my friend can see ti'
+[Sat Jun 30 16:44:50 2001] You told Countryboy, 'try logging out and in again - should work now.'
+[Sat Jun 30 16:45:03 2001] Oraden tells the group, 'glad to be with you. Hope to be a credit.'
+[Sat Jun 30 16:45:18 2001] You tell your party, 'From now until you become a full guide, you won't be coming here again...'
+[Sat Jun 30 16:45:33 2001] Oraden weeps.
+[Sat Jun 30 16:45:34 2001] You tell your party, 'You should try and guide as much as you can'
+[Sat Jun 30 16:45:39 2001] Lancet GMSAYS, 'doh this not my play server'
+[Sat Jun 30 16:45:41 2001] You tell your party, 'and with as many guides as you can'
+[Sat Jun 30 16:45:47 2001] You GMSAY, 'sure hope not'
+[Sat Jun 30 16:45:53 2001] You GMSAY, 'slacker!'
+[Sat Jun 30 16:46:07 2001] You tell your party, 'be sure to ask questions'
+[Sat Jun 30 16:46:14 2001] Kaweewee GMSAYS, 'is it possible to lock all the boxes in f10 mode so they cant be moved?'
+[Sat Jun 30 16:46:16 2001] Oraden tells the group, 'sure i will have a few ;)'
+[Sat Jun 30 16:46:27 2001] Oraden GMSAYS, 'winlock'
+[Sat Jun 30 16:46:29 2001] You tell your party, 'have fun, but remember that we are here to serve the player'
+[Sat Jun 30 16:46:30 2001] Kaweewee tells the group, 'and always remember, KAWEEWEE IS KUTER'
+[Sat Jun 30 16:46:35 2001] Lancet says, 'call me a slacker will you'
+[Sat Jun 30 16:46:38 2001] You shout, 'BOW DOWN BEFORE ME!'
+[Sat Jun 30 16:46:46 2001] Larsot tells the group, 'what do we do if we have someone who has pet'd 2x now wanting to talk to Lirus with no avail? Should I escalte it?'
+[Sat Jun 30 16:47:01 2001] You tell your party, 'what do they want to talk to him about?'
+[Sat Jun 30 16:47:39 2001] You tell your party, 'for now, though, please right click on your staff, go un-anon, and answer some petitions!'
+[Sat Jun 30 16:47:39 2001] Kaweewee GMSAYS, 'anyone else have a suggestion?'
+[Sat Jun 30 16:47:40 2001] Larsot tells the group, 'they want to talk to him about a loss of an item, he knows the reimbursement policy but still wants information from Lirus himself?'
+[Sat Jun 30 16:47:54 2001] You tell your party, 'what item, how was it lost?'
+[Sat Jun 30 16:48:06 2001] You tell your party, 'there is no reason to escalate it to Lirus if he's just gonna say no'
+[Sat Jun 30 16:48:09 2001] Lancet GMSAYS, 'dont know i dont use that mode'
+[Sat Jun 30 16:48:12 2001] Oraden GMSAYS, 'didn't work? ... that's the command in supplament manual... unless i forgot.'
+[Sat Jun 30 16:48:21 2001] Kaweewee GMSAYS, 'didnt work'
+[Sat Jun 30 16:48:25 2001] You beam a smile at Oraden.
+[Sat Jun 30 16:48:30 2001] Larsot tells the group, 'staff of elemental mastery, lore no drop....lost during a loss of connection'
+[Sat Jun 30 16:48:35 2001] Lancet GMSAYS, 'now i go find my play'
+[Sat Jun 30 16:48:56 2001] You tell your party, 'nice item that'
+[Sat Jun 30 16:49:02 2001] Oraden tells the group, 'very.'
+[Sat Jun 30 16:49:11 2001] You tell your party, 'okay, esc it to red, make sure text is appended'
+[Sat Jun 30 16:49:54 2001] Larsot tells the group, 'ok, i will append and escalate  ;)'
+[Sat Jun 30 16:50:20 2001] You tell your party, 'as for you, mister newbie appie, make sure you say /pr zoning! before you zone'
+[Sat Jun 30 16:50:40 2001] You tell your party, 'all of us say that every time we zone'
+[Sat Jun 30 16:50:56 2001] Oraden tells the group, 'aye.'
+[Sat Jun 30 16:51:23 2001] Oraden tells the group, 'do you want me to gate, go off anon, answer one (thein i should log, wife wants to go grocery shopping)'
+[Sat Jun 30 16:51:42 2001] You tell your party, 'sure'
+[Sat Jun 30 16:51:52 2001] Oraden GMSAYS, 'zoning'
+[Sat Jun 30 16:51:59 2001] Oraden fades away.
+[Sat Jun 30 16:52:08 2001] Players in EverQuest:
+[Sat Jun 30 16:52:08 2001] ---------------------------
+[Sat Jun 30 16:52:08 2001] * Apprentice Guide *[ANON (20 Monk)] Oraden (Human) ZONE: qeynos2 (USER PID ATWFJ36)
+[Sat Jun 30 16:52:08 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:52:11 2001] You GMSAY, 'zone'
+[Sat Jun 30 16:52:16 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 16:52:44 2001] You have entered North Qeynos.
+[Sat Jun 30 16:52:45 2001] You have formed the group.
+[Sat Jun 30 16:52:53 2001] Teleporting to Oraden (646.00, -130.00,   3.75).
+[Sat Jun 30 16:52:55 2001] Larsot GMSAYS, 'pulling Ladonis from que'
+[Sat Jun 30 16:53:00 2001] You no longer have a target.
+[Sat Jun 30 16:53:06 2001] Oraden GMSAYS, 'pulling tamenae'
+[Sat Jun 30 16:53:26 2001] You GMSAY, '<note badname> Boromire CW07RQZ'
+[Sat Jun 30 16:53:28 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 16:53:34 2001] Port Authority Officer shouts 'Hear ye, hear ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! 
+[Sat Jun 30 16:53:34 2001] Oraden GMSAYS, 'what is Woe? (someone lost it)'
+[Sat Jun 30 16:53:39 2001] USER TEXT: why is the merchant that resides in the tower not ther
+[Sat Jun 30 16:53:40 2001] Players in EverQuest:
+[Sat Jun 30 16:53:40 2001] ---------------------------
+[Sat Jun 30 16:53:40 2001] [ANON (20 Warrior)] Boromire (Barbarian) ZONE: southkarana (USER PID CW07RQZ)
+[Sat Jun 30 16:53:40 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:53:46 2001] You say to your guild, 'Woe is a dagger from Rathe Mtns'
+[Sat Jun 30 16:53:50 2001] Kaweewee GMSAYS, 'woe is a weapon'
+[Sat Jun 30 16:53:54 2001] You say to your guild, 'also part of shaman epic quest'
+[Sat Jun 30 16:54:04 2001] Nywani shouts, 'HELP'
+[Sat Jun 30 16:54:07 2001] Nywani shouts, 'can someone help me?'
+[Sat Jun 30 16:54:19 2001] Nywani shouts, 'I need to get to Kelethin and can't because I'm still pretty new...'
+[Sat Jun 30 16:54:21 2001] Gotz says, 'oooooooo'
+[Sat Jun 30 16:54:27 2001] Gotz says, 'a GM'
+[Sat Jun 30 16:54:29 2001] USER TEXT: why is the merchant that resides in the tower not ther
+[Sat Jun 30 16:54:39 2001] Oraden says, 'hello'
+[Sat Jun 30 16:54:42 2001] You told Boromire, 'Hail, Boromire! Guide Espranza here. Are you talking about Bilbo Briars?'
+[Sat Jun 30 16:54:47 2001] You wave at Gotz.
+[Sat Jun 30 16:54:55 2001] Oraden says, 'only a humble Apprentice Guide.'
+[Sat Jun 30 16:55:07 2001] You're not scaring anyone.
+[Sat Jun 30 16:55:08 2001] Boromire tells you, 'yes i am noone can see him if he is at the tower'
+[Sat Jun 30 16:55:10 2001] Gotz says, 'how do you become a guide?'
+[Sat Jun 30 16:55:11 2001] Nywani shouts, 'Can anyone help me get to Kelethin ?'
+[Sat Jun 30 16:55:17 2001] Nywani shouts, 'BB'
+[Sat Jun 30 16:55:28 2001] You told Boromire, 'He despawns occasionally - he is not up all the time.'
+[Sat Jun 30 16:55:35 2001] Freskan begins to cast a spell. (Invoke Lightning)
+[Sat Jun 30 16:55:44 2001] Boromire tells you, 'oh ok i did not know that'
+[Sat Jun 30 16:55:52 2001] Oraden says, 'you can become a Guide by gaining level 10 or higher with two characters. Then you must go the the main website and select to send in an application.'
+[Sat Jun 30 16:55:54 2001] Freskan is looking at your equipment...
+[Sat Jun 30 16:55:54 2001] You told Boromire, 'he should be up at some point...'
+[Sat Jun 30 16:56:04 2001] DELETING THIS PETITION
+[Sat Jun 30 16:56:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 16:56:10 2001] USER TEXT: my corpse is lost in Befallen is there any way to get it back
+[Sat Jun 30 16:56:10 2001] Players in EverQuest:
+[Sat Jun 30 16:56:10 2001] ---------------------------
+[Sat Jun 30 16:56:10 2001] [ANON (19 Paladin)] Darkvidel (High Elf) ZONE: befallen (USER PID FWDNB34)
+[Sat Jun 30 16:56:10 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:56:15 2001] Searching zones for corpse of that name....
+[Sat Jun 30 16:56:21 2001] Searching zones for corpse of that name....
+[Sat Jun 30 16:56:22 2001] Corpse: Darkvidel's corpse0 in zone: befallen
+[Sat Jun 30 16:56:27 2001] Boromire tells you, 'how often i he gone ... it is a treacherous journey to make it tothe gypsys'
+[Sat Jun 30 16:56:37 2001] You told Boromire, 'I believe he despawns nightly'
+[Sat Jun 30 16:56:42 2001] You GMSAY, 'zone'
+[Sat Jun 30 16:56:45 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 16:57:12 2001] You have entered Befallen.
+[Sat Jun 30 16:57:12 2001] You have formed the group.
+[Sat Jun 30 16:57:15 2001] Darkvidel shouts, 'anyone have the level 3 key'
+[Sat Jun 30 16:57:23 2001] Boromire tells you, 'he has been gone since this morning'
+[Sat Jun 30 16:57:25 2001] Teleporting to darkvidel's corpse0.
+[Sat Jun 30 16:57:38 2001] You told Boromire, 'ah, I will check it out then'
+[Sat Jun 30 16:57:57 2001] Rokken shouts, 'is the 3rd floor key even dropping anymore?'
+[Sat Jun 30 16:58:33 2001] Frothbeard shouts, 'anyone need a level 20 warrior who hits for about 50 ish?'
+[Sat Jun 30 16:58:34 2001] Zergen tells you, 'im kinda stucky in a bad placey'
+[Sat Jun 30 16:58:39 2001] You told Darkvidel, 'Hail, Darkvidel! Guide Espranza here. Your corpse is visible; I am sorry, but we cannot aid in corpse retrival...'
+[Sat Jun 30 16:58:46 2001] You told Zergen, 'how baddy a placey?'
+[Sat Jun 30 16:58:51 2001] Players in EverQuest:
+[Sat Jun 30 16:58:51 2001] ---------------------------
+[Sat Jun 30 16:58:51 2001] [ANON (49 Warrior)] Zergen (Ogre) ZONE: dreadlands (USER PID DZPFXHM)
+[Sat Jun 30 16:58:51 2001] There is 1 player in EverQuest.
+[Sat Jun 30 16:58:57 2001] Darkvidel tells you, 'ok'
+[Sat Jun 30 16:59:07 2001] Goint says out of character, 'good I hope there are no drops for you pharmers now'
+[Sat Jun 30 16:59:08 2001] Zergen tells you, 'Im in side karnor caste but im not inside the zone of Karnor castle'
+[Sat Jun 30 16:59:18 2001] You told Zergen, 'oh, you're a high flyer...'
+[Sat Jun 30 16:59:27 2001] You told Darkvidel, 'Be well and good luck!'
+[Sat Jun 30 16:59:31 2001] DELETING THIS PETITION
+[Sat Jun 30 16:59:41 2001] Larsot tells the group, 'I having brain block. I have a person here who died, got a res, and looted corpse but one bag was missing?'
+[Sat Jun 30 16:59:42 2001] Zergen tells you, 'I dont ahve wings'
+[Sat Jun 30 16:59:50 2001] Players in EverQuest:
+[Sat Jun 30 16:59:50 2001] ---------------------------
+[Sat Jun 30 16:59:50 2001] [ANON (49 Warrior)] Zergen (Ogre) ZONE: dreadlands (USER PID DZPFXHM)
+[Sat Jun 30 16:59:50 2001] There is 1 player in EverQuest.
+[Sat Jun 30 17:00:04 2001] You told Zergen, 'heh - not anymore, but you did have to get there.'
+[Sat Jun 30 17:00:22 2001] Zergen tells you, 'can you fish me out'
+[Sat Jun 30 17:00:32 2001] You told Zergen, 'sure, I see your petition'
+[Sat Jun 30 17:00:38 2001] Larsot tells the group, 'anyone   :P'
+[Sat Jun 30 17:00:41 2001] You tell your party, 'was it a summoned bag?'
+[Sat Jun 30 17:01:00 2001] Larsot tells the group, 'no, bag of sewn evil eye, that was first question I asked also'
+[Sat Jun 30 17:01:08 2001] Oraden GMSAYS, 'Tamenae found the item on a corpse. deleting petition Tamenae'
+[Sat Jun 30 17:01:14 2001] You tell your party, 'had they just acquired it?'
+[Sat Jun 30 17:01:17 2001] You GMSAY, 'zone'
+[Sat Jun 30 17:01:21 2001] Teleporting to zergen.
+[Sat Jun 30 17:01:22 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 17:02:03 2001] You have entered Dreadlands.
+[Sat Jun 30 17:02:03 2001] You have formed the group.
+[Sat Jun 30 17:02:12 2001] Zergen tells you, 'they should put a flight of stairs in here'
+[Sat Jun 30 17:02:12 2001] Oraden GMSAYS, 'going anon and camping. will attempt to get EQGSR downloaded. Be well. Walk in Beauty.'
+[Sat Jun 30 17:02:17 2001] Zergen begins to cast a spell. (Reckless Strength)
+[Sat Jun 30 17:02:22 2001] Zergen's casting is interrupted!
+[Sat Jun 30 17:02:25 2001] Larsot GMSAYS, 'good day Oraden'
+[Sat Jun 30 17:02:25 2001] Kaweewee GMSAYS, 'cya oraden'
+[Sat Jun 30 17:02:26 2001] You GMSAY, 'see you soon!'
+[Sat Jun 30 17:02:30 2001] You told Zergen, 'heh'
+[Sat Jun 30 17:02:33 2001] Oraden has left the group.
+[Sat Jun 30 17:02:35 2001] You wave at Zergen.
+[Sat Jun 30 17:02:36 2001] Players on EverQuest:
+[Sat Jun 30 17:02:36 2001] ---------------------------
+[Sat Jun 30 17:02:36 2001] [60 Warlord] Roti (Barbarian) <Heroic Few>
+[Sat Jun 30 17:02:36 2001] [58 Blackguard] Makker (Dark Elf) <Heroic Few>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Edgto  <Civis Macto>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Plex  <Hall of Heroes>
+[Sat Jun 30 17:02:36 2001] [45 Rogue] Catseyes (Wood Elf) <Compagnons de l`Aube>
+[Sat Jun 30 17:02:36 2001] [38 Bard] Nappe (Half Elf)
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Wolfimus  <Hatred Eternal>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Briladan  <House T`Vlos>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Enialator  <Norrath Elite>
+[Sat Jun 30 17:02:36 2001] [40 Magician] Sechel (Gnome) <Kingdom of Steel>
+[Sat Jun 30 17:02:36 2001] [45 Enchanter] Nostra (Half Elf)
+[Sat Jun 30 17:02:36 2001] [45 Enchanter] Lynneria (Dark Elf) <House T`Vlos>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Kilinurkin  <The Tears of Veeshan>
+[Sat Jun 30 17:02:36 2001] [40 Warrior] Justiceultimas (Barbarian) <Hessians of Morell Thule>
+[Sat Jun 30 17:02:36 2001] [40 Shaman] Shakaira (Barbarian) <Hessians of Morell Thule>
+[Sat Jun 30 17:02:36 2001] [47 Necromancer] Cackler (Gnome) <Leaders of Honor>
+[Sat Jun 30 17:02:36 2001] [43 Ranger] Glynndell (Unknown) <Enchanted Steel>
+[Sat Jun 30 17:02:36 2001] [43 Enchanter] Mazer (High Elf) <Crimson Mist>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Mardux  <Ombres et Lumieres>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Kenadwen 
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Perledumatin  <Gardiens de Norrath>
+[Sat Jun 30 17:02:36 2001] [37 Wizard] Aelst (Erudite) <Gardiens de Norrath>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Brisedumatin  <Menestrels>
+[Sat Jun 30 17:02:36 2001] [37 Shaman] Biarrot (Barbarian) <Gardiens de Norrath>
+[Sat Jun 30 17:02:36 2001] [44 Enchanter] Fyzzl (Gnome) <Hell Hunters>
+[Sat Jun 30 17:02:36 2001] [48 Necromancer] Shakarknight (Dark Elf) <Sword of Shadow>
+[Sat Jun 30 17:02:36 2001] [46 Druid] Glynna (Unknown) <Utopian Guard>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Alae  <Menestrels>
+[Sat Jun 30 17:02:36 2001] [47 Shadow Knight] Bloodrunner (Dark Elf)
+[Sat Jun 30 17:02:36 2001] [41 Shadow Knight] Macalia (Iksar) <Relic Hunters>
+[Sat Jun 30 17:02:36 2001] [51 Heretic] Xiziax (Unknown) <Exiled Elite>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Faller 
+[Sat Jun 30 17:02:36 2001] [42 Ranger] Pipswich (Wood Elf) <Nature's Fury>
+[Sat Jun 30 17:02:36 2001] [42 Paladin] Awetodd (High Elf) <Discordians>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Zergen 
+[Sat Jun 30 17:02:36 2001] [47 Paladin] Arkenos (Human) <Ordre du Dragon>
+[Sat Jun 30 17:02:36 2001] [45 Warrior] Mareean (Gnome) <Black Claws>
+[Sat Jun 30 17:02:36 2001] [44 Monk] Bobzhilla (Iksar) <The Scaled Brotherhood>
+[Sat Jun 30 17:02:36 2001] [ANONYMOUS] Jalyna  <Mark of Draconians>
+[Sat Jun 30 17:02:36 2001] [60 Phantasmist] Kamryn (High Elf) <Heroic Few>
+[Sat Jun 30 17:02:36 2001] [53 Vicar] Ceri (High Elf) <Heroic Few>
+[Sat Jun 30 17:02:36 2001] [60 Warlord] Boogalooga (Ogre) <Heroic Few>
+[Sat Jun 30 17:02:37 2001] [60 Hierophant] Skyfyre (Wood Elf) <Heroic Few>
+[Sat Jun 30 17:02:37 2001] [54 Rake] Sparafacile (Dark Elf) <Heroic Few>
+[Sat Jun 30 17:02:37 2001] [40 Magician] Baronuriel (High Elf) <Kingdom of Steel>
+[Sat Jun 30 17:02:37 2001] [60 Warlord] Buller (Troll) <Heroic Few>
+[Sat Jun 30 17:02:37 2001] [ANONYMOUS] Tauani  <Heroic Few>
+[Sat Jun 30 17:02:37 2001] [60 Arch Mage] Sarion (Erudite) <Heroic Few>
+[Sat Jun 30 17:02:37 2001] [53 Reaver] Artious (Human) LFG
+[Sat Jun 30 17:02:37 2001] [59 Master] Stronmaus (Iksar) <Heroic Few>
+[Sat Jun 30 17:02:37 2001] [ANONYMOUS] Zaqi 
+[Sat Jun 30 17:02:37 2001] [60 Assassin] Daggen (Halfling) <Heroic Few>
+[Sat Jun 30 17:02:37 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sat Jun 30 17:02:37 2001] There are 53 players in Dreadlands.
+[Sat Jun 30 17:02:41 2001] Zergen waves at Espranza.
+[Sat Jun 30 17:02:47 2001] Zergen tells you, 'want to see my dance real fast'
+[Sat Jun 30 17:02:49 2001] You say, 'looks like someone is doing Gore'
+[Sat Jun 30 17:02:52 2001] You told Zergen, 'sure!'
+[Sat Jun 30 17:03:00 2001] Zergen stands on his tip toes and does a dance of joy!
+[Sat Jun 30 17:03:01 2001] You tap your foot as you look at Zergen impatiently.
+[Sat Jun 30 17:03:02 2001] Zergen shivers. Brrrrrr.
+[Sat Jun 30 17:03:03 2001] Zergen cheers.
+[Sat Jun 30 17:03:04 2001] Zergen ducks.
+[Sat Jun 30 17:03:05 2001] Zergen nods.
+[Sat Jun 30 17:03:06 2001] Zergen stares at the ground.
+[Sat Jun 30 17:03:07 2001] Zergen stands on his tip toes and does a dance of joy!
+[Sat Jun 30 17:03:08 2001] Zergen shivers. Brrrrrr.
+[Sat Jun 30 17:03:08 2001] Zergen ducks.
+[Sat Jun 30 17:03:09 2001] Zergen cheers.
+[Sat Jun 30 17:03:10 2001] Zergen stares at the ground.
+[Sat Jun 30 17:03:11 2001] Larsot tells the group, 'log it as a bug and apologize to him?'
+[Sat Jun 30 17:03:11 2001] Zergen nods.
+[Sat Jun 30 17:03:16 2001] Zergen stands on his tip toes and does a dance of joy!
+[Sat Jun 30 17:03:17 2001] Zergen shivers. Brrrrrr.
+[Sat Jun 30 17:03:18 2001] Zergen stares at the ground.
+[Sat Jun 30 17:03:19 2001] Zergen nods.
+[Sat Jun 30 17:03:19 2001] You tell your party, 'no, esc it to red'
+[Sat Jun 30 17:03:20 2001] Zergen tells you, 'dats it'
+[Sat Jun 30 17:03:25 2001] Larsot tells the group, 'ok'
+[Sat Jun 30 17:03:26 2001] You told Zergen, ':)'
+[Sat Jun 30 17:03:42 2001] You say, 'Do you know how to make your own emotes with motions?'
+[Sat Jun 30 17:03:48 2001] Zergen says, 'Nope i wish'
+[Sat Jun 30 17:04:07 2001] You emote 'takes her sparkly sword and knights Zergen! Welcome, Sir Zergen!'
+[Sat Jun 30 17:04:14 2001] You emote 'takes her sparkly sword and knights Zergen! Welcome, Sir Zergen!'
+[Sat Jun 30 17:04:19 2001] You say, 'like that?'
+[Sat Jun 30 17:04:20 2001] Zergen kneels down.
+[Sat Jun 30 17:04:27 2001] Zergen says, 'How did you do that'
+[Sat Jun 30 17:04:37 2001] You say, 'that way you can put little hustly kinda of emotes in'
+[Sat Jun 30 17:04:44 2001] Zergen says, 'okay'
+[Sat Jun 30 17:05:07 2001] Bobzhilla shouts, 'group looking foa a sower'
+[Sat Jun 30 17:05:08 2001] You emote 'looks to see if she knows which halfling donated that leather!'
+[Sat Jun 30 17:05:19 2001] Auidin says out of character, '41 cleric LFG'
+[Sat Jun 30 17:05:21 2001] You say, 'okay, what you do is the emote, like /point'
+[Sat Jun 30 17:05:24 2001] Zergen says, 'so how do i do it'
+[Sat Jun 30 17:05:30 2001] Baronuriel shouts, '40 mage lfg'
+[Sat Jun 30 17:05:32 2001] You say, 'and then follow it with say and then the rest of the emote'
+[Sat Jun 30 17:05:33 2001] Zergen points straight ahead.
+[Sat Jun 30 17:05:42 2001] You say, 'so you did /point right there'
+[Sat Jun 30 17:05:51 2001] You say, 'try /point say looks off into the distance'
+[Sat Jun 30 17:05:53 2001] Larsot GMSAYS, 'escalating Ladonis pet on lost item after res for Lirus   :o'
+[Sat Jun 30 17:06:09 2001] Zergen says, 'it says I dont see anyone by that name around here'
+[Sat Jun 30 17:06:09 2001] Shakarknight says out of character, 'mister mage   we got grp for you '
+[Sat Jun 30 17:06:18 2001] You no longer have a target.
+[Sat Jun 30 17:06:22 2001] Larsot tells the group, 'afk for a moment...nature cal  ;)'
+[Sat Jun 30 17:06:25 2001] You emote 'looks off into the distance'
+[Sat Jun 30 17:06:31 2001] You emote 'looks off into the distance'
+[Sat Jun 30 17:06:32 2001] Zergen point)
+[Sat Jun 30 17:06:37 2001] Zergen says, 'hmmm'
+[Sat Jun 30 17:06:45 2001] Zergen says, 'what did you typ to do that'
+[Sat Jun 30 17:06:52 2001] You say, '/point say looks off into the distance'
+[Sat Jun 30 17:07:06 2001] You say, 'just like that'
+[Sat Jun 30 17:07:10 2001] Zergen looks off into the .
+[Sat Jun 30 17:07:14 2001] Zergen looks off into the .
+[Sat Jun 30 17:07:22 2001] Zergen says, 'Ahhhh okay'
+[Sat Jun 30 17:07:34 2001] Zergen Lalala.
+[Sat Jun 30 17:07:40 2001] You say, 'anyway, once you get that, you can use better emotes with your dance'
+[Sat Jun 30 17:07:44 2001] You shiver at the thought of messing with Zergen.
+[Sat Jun 30 17:07:47 2001] Zergen stands on his tip toes and does a dance of joy!
+[Sat Jun 30 17:07:52 2001] You emote 'gets down with Zergen'
+[Sat Jun 30 17:07:54 2001] You emote 'gets down with Zergen'
+[Sat Jun 30 17:07:56 2001] You emote 'gets down with Zergen'
+[Sat Jun 30 17:07:59 2001] Engdu says out of character, '41 druid LFG'
+[Sat Jun 30 17:08:07 2001] Teleporting to engdu.
+[Sat Jun 30 17:08:14 2001] Players on EverQuest:
+[Sat Jun 30 17:08:14 2001] ---------------------------
+[Sat Jun 30 17:08:14 2001] [ANONYMOUS] Isaaceastwood  <Compagnons de l`Aube>
+[Sat Jun 30 17:08:14 2001] [58 Templar] Marck (Dwarf) <Heroic Few>
+[Sat Jun 30 17:08:14 2001] [ANONYMOUS] Engdu  LFG
+[Sat Jun 30 17:08:14 2001] [51 Champion] Goemassun (Troll) <AnDarim>
+[Sat Jun 30 17:08:14 2001] [59 Luminary] Jalaska (Barbarian) <Heroic Few>
+[Sat Jun 30 17:08:14 2001] [56 Preserver] Richardak (Halfling) <Heroic Few>
+[Sat Jun 30 17:08:14 2001] [ANONYMOUS] Auidin 
+[Sat Jun 30 17:08:14 2001] [ANONYMOUS] Ladonis  <Heroic Few>
+[Sat Jun 30 17:08:14 2001] [57 Beguiler] Alainu (High Elf) <Triune>
+[Sat Jun 30 17:08:14 2001] [48 Enchanter] Chiwai (Human) <Royal Jesters>
+[Sat Jun 30 17:08:14 2001] [49 Paladin] Cullian (Human) <Tolkien's Revenge>
+[Sat Jun 30 17:08:14 2001] [55 Knight] Kripton (Half Elf)
+[Sat Jun 30 17:08:14 2001] [55 Myrmidon] Eldaerys (Dark Elf) <Heroic Few>
+[Sat Jun 30 17:08:14 2001] [60 Warlord] Roti (Barbarian) <Heroic Few>
+[Sat Jun 30 17:08:14 2001] [58 Blackguard] Makker (Dark Elf) <Heroic Few>
+[Sat Jun 30 17:08:14 2001] [ANONYMOUS] Plex  <Hall of Heroes>
+[Sat Jun 30 17:08:14 2001] [45 Rogue] Catseyes (Wood Elf) <Compagnons de l`Aube>
+[Sat Jun 30 17:08:14 2001] [38 Bard] Nappe (Half Elf)
+[Sat Jun 30 17:08:14 2001] [ANONYMOUS] Wolfimus  <Hatred Eternal>
+[Sat Jun 30 17:08:14 2001] [ANONYMOUS] Briladan  <House T`Vlos>
+[Sat Jun 30 17:08:14 2001] [ANONYMOUS] Enialator  <Norrath Elite>
+[Sat Jun 30 17:08:14 2001] [40 Magician] Sechel (Gnome) <Kingdom of Steel>
+[Sat Jun 30 17:08:14 2001] [45 Enchanter] Nostra (Half Elf)
+[Sat Jun 30 17:08:14 2001] [45 Enchanter] Lynneria (Dark Elf) <House T`Vlos>
+[Sat Jun 30 17:08:15 2001] [ANONYMOUS] Kilinurkin  <The Tears of Veeshan>
+[Sat Jun 30 17:08:15 2001] [40 Warrior] Justiceultimas (Barbarian) <Hessians of Morell Thule>
+[Sat Jun 30 17:08:15 2001] [40 Shaman] Shakaira (Barbarian) <Hessians of Morell Thule>
+[Sat Jun 30 17:08:15 2001] AFK [47 Necromancer] Cackler (Gnome) <Leaders of Honor>
+[Sat Jun 30 17:08:15 2001] [43 Ranger] Glynndell (Unknown) <Enchanted Steel>
+[Sat Jun 30 17:08:15 2001] [43 Enchanter] Mazer (High Elf) <Crimson Mist>
+[Sat Jun 30 17:08:15 2001] [ANONYMOUS] Mardux  <Ombres et Lumieres>
+[Sat Jun 30 17:08:15 2001] [ANONYMOUS] Kenadwen 
+[Sat Jun 30 17:08:15 2001] [ANONYMOUS] Perledumatin  <Gardiens de Norrath>
+[Sat Jun 30 17:08:15 2001] [37 Wizard] Aelst (Erudite) <Gardiens de Norrath>
+[Sat Jun 30 17:08:15 2001] [ANONYMOUS] Brisedumatin  <Menestrels>
+[Sat Jun 30 17:08:15 2001] [37 Shaman] Biarrot (Barbarian) <Gardiens de Norrath>
+[Sat Jun 30 17:08:15 2001] [48 Necromancer] Shakarknight (Dark Elf) <Sword of Shadow>
+[Sat Jun 30 17:08:15 2001] [46 Druid] Glynna (Unknown) <Utopian Guard>
+[Sat Jun 30 17:08:15 2001] [ANONYMOUS] Alae  <Menestrels>
+[Sat Jun 30 17:08:15 2001] [47 Shadow Knight] Bloodrunner (Dark Elf)
+[Sat Jun 30 17:08:15 2001] [41 Shadow Knight] Macalia (Iksar) <Relic Hunters>
+[Sat Jun 30 17:08:15 2001] [51 Heretic] Xiziax (Unknown) <Exiled Elite>
+[Sat Jun 30 17:08:15 2001] [ANONYMOUS] Faller 
+[Sat Jun 30 17:08:15 2001] [42 Ranger] Pipswich (Wood Elf) <Nature's Fury>
+[Sat Jun 30 17:08:15 2001] [42 Paladin] Awetodd (High Elf) <Discordians>
+[Sat Jun 30 17:08:15 2001] [ANONYMOUS] Zergen 
+[Sat Jun 30 17:08:15 2001] [45 Warrior] Mareean (Gnome) <Black Claws>
+[Sat Jun 30 17:08:15 2001] [44 Monk] Bobzhilla (Iksar) <The Scaled Brotherhood>
+[Sat Jun 30 17:08:15 2001] [ANONYMOUS] Jalyna  <Mark of Draconians>
+[Sat Jun 30 17:08:15 2001] [60 Phantasmist] Kamryn (High Elf) <Heroic Few>
+[Sat Jun 30 17:08:15 2001] [60 Warlord] Boogalooga (Ogre) <Heroic Few>
+[Sat Jun 30 17:08:15 2001] [40 Magician] Baronuriel (High Elf) <Kingdom of Steel>
+[Sat Jun 30 17:08:15 2001] AFK [60 Warlord] Buller (Troll) <Heroic Few>
+[Sat Jun 30 17:08:15 2001] [53 Reaver] Artious (Human) LFG
+[Sat Jun 30 17:08:15 2001] [59 Master] Stronmaus (Iksar) <Heroic Few>
+[Sat Jun 30 17:08:15 2001] [60 Assassin] Daggen (Halfling) <Heroic Few>
+[Sat Jun 30 17:08:15 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sat Jun 30 17:08:15 2001] There are 57 players in Dreadlands.
+[Sat Jun 30 17:08:18 2001] It begins to snow.
+[Sat Jun 30 17:08:18 2001] Players on EverQuest:
+[Sat Jun 30 17:08:18 2001] ---------------------------
+[Sat Jun 30 17:08:18 2001] [40 Magician] Sechel (Gnome) <Kingdom of Steel>
+[Sat Jun 30 17:08:18 2001] [40 Warrior] Justiceultimas (Barbarian) <Hessians of Morell Thule>
+[Sat Jun 30 17:08:18 2001] [40 Shaman] Shakaira (Barbarian) <Hessians of Morell Thule>
+[Sat Jun 30 17:08:18 2001] [43 Ranger] Glynndell (Unknown) <Enchanted Steel>
+[Sat Jun 30 17:08:18 2001] [43 Enchanter] Mazer (High Elf) <Crimson Mist>
+[Sat Jun 30 17:08:18 2001] [41 Shadow Knight] Macalia (Iksar) <Relic Hunters>
+[Sat Jun 30 17:08:18 2001] [42 Ranger] Pipswich (Wood Elf) <Nature's Fury>
+[Sat Jun 30 17:08:18 2001] [42 Paladin] Awetodd (High Elf) <Discordians>
+[Sat Jun 30 17:08:18 2001] [40 Magician] Baronuriel (High Elf) <Kingdom of Steel>
+[Sat Jun 30 17:08:18 2001] There are 9 players in Dreadlands.
+[Sat Jun 30 17:08:22 2001] Teleporting to sechel.
+[Sat Jun 30 17:08:30 2001] a stonegazer cockatrice has been slain by Catseyes!
+[Sat Jun 30 17:08:39 2001] Zergen tells you, 'can you summon me now please and thanks'
+[Sat Jun 30 17:08:46 2001] You told Zergen, 'yup just getting to that'
+[Sat Jun 30 17:08:47 2001] Makker shouts, 'train to krapnors'
+[Sat Jun 30 17:08:49 2001] Summoning zergen.
+[Sat Jun 30 17:08:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 17:08:55 2001] USER TEXT: Im stuck
+[Sat Jun 30 17:08:55 2001] Players in EverQuest:
+[Sat Jun 30 17:08:55 2001] ---------------------------
+[Sat Jun 30 17:08:55 2001] [ANON (49 Warrior)] Zergen (Ogre) ZONE: dreadlands (USER PID DZPFXHM)
+[Sat Jun 30 17:08:55 2001] There is 1 player in EverQuest.
+[Sat Jun 30 17:08:58 2001] DELETING THIS PETITION
+[Sat Jun 30 17:09:01 2001] Ladonis says out of character, 'stop training dorf :)'
+[Sat Jun 30 17:09:07 2001] Zergen tells you, 'thanks'
+[Sat Jun 30 17:09:10 2001] Makker says out of character, 'Gonna KEel em'
+[Sat Jun 30 17:09:11 2001] Larsot GMSAYS, 'back and pulling Solthan from que'
+[Sat Jun 30 17:09:11 2001] You wave goodbye to Zergen.
+[Sat Jun 30 17:09:14 2001] Ladonis says out of character, 'die'
+[Sat Jun 30 17:09:14 2001] Zergen waves at Espranza.
+[Sat Jun 30 17:09:17 2001] You GMSAY, 'zone'
+[Sat Jun 30 17:09:20 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 17:09:45 2001] You have entered Sunset Home.
+[Sat Jun 30 17:09:45 2001] You have formed the group.
+[Sat Jun 30 17:09:53 2001] It begins to rain.
+[Sat Jun 30 17:10:09 2001] You wave at Kaweewee.
+[Sat Jun 30 17:10:22 2001] Kaweewee waves at Espranza.
+[Sat Jun 30 17:10:28 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 17:10:28 2001] USER TEXT: I found another scew up in oasis ....the orcs the ones that are lvl 20 are no longer called a orc..the are an orc..so it's not possible to tell..if it's suppose to be that way then that makes no sense and verant is gay then
+[Sat Jun 30 17:10:28 2001] Players in EverQuest:
+[Sat Jun 30 17:10:28 2001] ---------------------------
+[Sat Jun 30 17:10:28 2001] [14 Shaman] Shodo (Troll) <Sword of Shadow> ZONE: sro (USER PID ANB66Y2)
+[Sat Jun 30 17:10:28 2001] There is 1 player in EverQuest.
+[Sat Jun 30 17:11:26 2001] You told Shodo, 'Hail, Shodo! Guide Espranza here. Well, I'm not sure if this has changed or not - I'll take your word for it - but can't you con them to check them out?'
+[Sat Jun 30 17:11:51 2001] You shout, 'Asherah the Torch Bearer has only half a head!!! Noooo!'
+[Sat Jun 30 17:13:47 2001] Lirus GMSAYS, 'you guys see a problem with the name change from cannabinol to cannbinol?'
+[Sat Jun 30 17:14:06 2001] You GMSAY, 'still too close to cannabis or cannibal for me'
+[Sat Jun 30 17:14:09 2001] Larsot GMSAYS, 'yeah, hardly a difference at all'
+[Sat Jun 30 17:14:55 2001] Larsot GMSAYS, 'Lirus, do you know anything about a guild that has asked you to remove players for them? They said they were supposed to talk to you about it and that you asked them to?'
+[Sat Jun 30 17:14:57 2001] Kaweewee GMSAYS, 'me no likee'
+[Sat Jun 30 17:15:35 2001] Lirus GMSAYS, 'Yes I am dealing with it, please esc for me )'
+[Sat Jun 30 17:15:43 2001] Larsot GMSAYS, 'gotcha boss'
+[Sat Jun 30 17:15:56 2001] DELETING THIS PETITION
+[Sat Jun 30 17:15:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jun 30 17:15:59 2001] USER TEXT: i have wall bug cant get corpse in hs
+[Sat Jun 30 17:15:59 2001] Players in EverQuest:
+[Sat Jun 30 17:15:59 2001] ---------------------------
+[Sat Jun 30 17:15:59 2001] [56 Evoker] Eradic (High Elf) <Temple of Dawn> ZONE: charasis (USER PID EWVGU10)
+[Sat Jun 30 17:15:59 2001] There is 1 player in EverQuest.
+[Sat Jun 30 17:16:04 2001] You feel the spirit of Norrath enter you.
+[Sat Jun 30 17:16:06 2001] Your feet leave the ground.
+[Sat Jun 30 17:16:16 2001] Searching zones for corpse of that name....
+[Sat Jun 30 17:16:17 2001] Corpse: Eradic's corpse0 in zone: charasis
+[Sat Jun 30 17:16:19 2001] You GMSAY, 'zone'
+[Sat Jun 30 17:16:24 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 17:16:52 2001] You have entered The Howling Stones.
+[Sat Jun 30 17:16:52 2001] You have formed the group.
+[Sat Jun 30 17:16:53 2001] A sepulcher skeleton was pierced by thorns.
+[Sat Jun 30 17:16:55 2001] Inexor begins to cast a spell. (Color Skew)
+[Sat Jun 30 17:16:57 2001] A sepulcher skeleton was pierced by thorns.
+[Sat Jun 30 17:16:57 2001] Inexor tries to cast a spell on you, but you are protected.
+[Sat Jun 30 17:16:57 2001] A sepulcher skeleton is stunned by scintillating colors.
+[Sat Jun 30 17:17:04 2001] A sepulcher skeleton was pierced by thorns.
+[Sat Jun 30 17:17:04 2001] A sepulcher skeleton was pierced by thorns.
+[Sat Jun 30 17:17:05 2001] A sepulcher skeleton was pierced by thorns.
+[Sat Jun 30 17:17:06 2001] A sepulcher skeleton was pierced by thorns.
+[Sat Jun 30 17:17:08 2001] A sepulcher skeleton was pierced by thorns.
+[Sat Jun 30 17:17:09 2001] Teleporting to eradic's corpse0.
+[Sat Jun 30 17:17:11 2001] Inexor begins to cast a spell. (Color Skew)
+[Sat Jun 30 17:17:13 2001] Deadlly begins to cast a spell. (Firestrike)
+[Sat Jun 30 17:17:18 2001] Summoning Eradic's corpse0.
+[Sat Jun 30 17:17:28 2001] Teleporting to inexor.
+[Sat Jun 30 17:17:44 2001] Larsot GMSAYS, 'escalating another pet for Lirus  :P....Solthan (DPATJHR)'
+[Sat Jun 30 17:17:44 2001] Inexor says, 'Hail, Espranza'
+[Sat Jun 30 17:17:47 2001] You say, 'I pulled the corpse from the wall'
+[Sat Jun 30 17:17:48 2001] Deadlly claps happily for Espranza - hurray!
+[Sat Jun 30 17:17:48 2001] Eradic says, 'hi'
+[Sat Jun 30 17:17:49 2001] Inexor kneels before Espranza in humility and reverence.
+[Sat Jun 30 17:17:53 2001] Deadlly cheers at Espranza.
+[Sat Jun 30 17:17:54 2001] Aronn begins to cast a spell. (Resurrection)
+[Sat Jun 30 17:17:56 2001] You say, 'the one here was just a ghost'
+[Sat Jun 30 17:18:08 2001] You say, 'the REAL one should be retrievable now'
+[Sat Jun 30 17:18:15 2001] You say, 'hi :)'
+[Sat Jun 30 17:18:15 2001] Aronn begins to cast a spell. (Celestial Healing)
+[Sat Jun 30 17:18:19 2001] Deadlly's body is covered with a soft glow.
+[Sat Jun 30 17:18:20 2001] Inexor cheers at Espranza.
+[Sat Jun 30 17:18:26 2001] Cheeop bows before Espranza.
+[Sat Jun 30 17:18:26 2001] Larsot GMSAYS, 'pulling Mishan from que'
+[Sat Jun 30 17:18:35 2001] DELETING THIS PETITION
+[Sat Jun 30 17:18:38 2001] Eradic says, 'can you summon all the corpse to here'
+[Sat Jun 30 17:18:48 2001] Eradic says, 'where is my body'
+[Sat Jun 30 17:18:49 2001] You say, 'did you die here?'
+[Sat Jun 30 17:18:59 2001] Eradic says, 'yes in wall '
+[Sat Jun 30 17:19:07 2001] Teleporting to eradic's corpse0.
+[Sat Jun 30 17:19:12 2001] Inexor begins to cast a spell. (Clarity)
+[Sat Jun 30 17:19:15 2001] Inexor looks tranquil.
+[Sat Jun 30 17:19:18 2001] Inexor begins to cast a spell. (Clarity)
+[Sat Jun 30 17:19:18 2001] Teleporting to eradic's corpse0.
+[Sat Jun 30 17:19:20 2001] Teleporting to eradic's corpse0.
+[Sat Jun 30 17:19:22 2001] Deadlly looks tranquil.
+[Sat Jun 30 17:19:22 2001] Teleporting to eradic's corpse0.
+[Sat Jun 30 17:19:25 2001] Inexor begins to cast a spell. (Clarity)
+[Sat Jun 30 17:19:28 2001] Eradic looks tranquil.
+[Sat Jun 30 17:19:31 2001] Inexor begins to cast a spell. (Clarity)
+[Sat Jun 30 17:19:34 2001] Aronn looks tranquil.
+[Sat Jun 30 17:19:35 2001] You say, 'did someone just summon it for you?'
+[Sat Jun 30 17:19:42 2001] Eradic says, 'no'
+[Sat Jun 30 17:19:52 2001] Summoning Eradic's corpse0.
+[Sat Jun 30 17:19:53 2001] Cheeop says, 'no it appears here to us but not to him'
+[Sat Jun 30 17:19:58 2001] Eradic says, 'got it'
+[Sat Jun 30 17:20:03 2001] You say, 'okay'
+[Sat Jun 30 17:20:15 2001] You say, 'Be well!'
+[Sat Jun 30 17:20:15 2001] You no longer have a target.
+[Sat Jun 30 17:20:17 2001] You wave goodbye to everyone.
+[Sat Jun 30 17:20:18 2001] Aronn begins to cast a spell. (Resurrection)
+[Sat Jun 30 17:20:20 2001] You GMSAY, 'zone'
+[Sat Jun 30 17:20:25 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 17:20:45 2001] You have entered Sunset Home.
+[Sat Jun 30 17:20:45 2001] You have formed the group.
+[Sat Jun 30 17:20:51 2001] Lirus GMSAYS, 'need a volenteer please'
+[Sat Jun 30 17:20:54 2001] You GMSAY, 'for?'
+[Sat Jun 30 17:21:00 2001] Kaweewee GMSAYS, 'pick me'
+[Sat Jun 30 17:21:03 2001] Lirus GMSAYS, 'guild reformation'
+[Sat Jun 30 17:21:11 2001] Lirus GMSAYS, 'kaweewee come to me please'
+[Sat Jun 30 17:21:13 2001] Larsot GMSAYS, 'pick me  :P'
+[Sat Jun 30 17:21:15 2001] Kaweewee GMSAYS, 'zooooningggg'
+[Sat Jun 30 17:21:35 2001] Larsot tells the group, 'is the surname Nimblefingers legal?'
+[Sat Jun 30 17:21:38 2001] You tell your party, 'yes'
+[Sat Jun 30 17:22:05 2001] Larsot tells the group, 'Espranza, do you want to issue a srname??'
+[Sat Jun 30 17:22:19 2001] Kaweewee GMSAYS, 'lagggggggg'
+[Sat Jun 30 17:22:30 2001] You tell your party, 'I can't'
+[Sat Jun 30 17:22:33 2001] You tell your party, 'only a guide'
+[Sat Jun 30 17:22:39 2001] You tell your party, 'you'll have to escalate it to red'
+[Sat Jun 30 17:22:42 2001] Lirus GMSAYS, 'ok kaw disband from the guild'
+[Sat Jun 30 17:22:47 2001] Larsot tells the group, 'okay  :)'
+[Sat Jun 30 17:23:16 2001] Players in EverQuest:
+[Sat Jun 30 17:23:16 2001] ---------------------------
+[Sat Jun 30 17:23:16 2001] * Guide *[53 Illusionist] Kaweewee (High Elf) ZONE: templeveeshan (USER PID GUUWCLQ)
+[Sat Jun 30 17:23:16 2001] There is 1 player in EverQuest.
+[Sat Jun 30 17:23:35 2001] Kaweewee tells the group, 'oops'
+[Sat Jun 30 17:23:38 2001] Players in EverQuest:
+[Sat Jun 30 17:23:38 2001] ---------------------------
+[Sat Jun 30 17:23:38 2001] * Guide *[53 Illusionist] Kaweewee (High Elf) ZONE: templeveeshan (USER PID GUUWCLQ)
+[Sat Jun 30 17:23:38 2001] There is 1 player in EverQuest.
+[Sat Jun 30 17:23:50 2001] Players in EverQuest:
+[Sat Jun 30 17:23:50 2001] ---------------------------
+[Sat Jun 30 17:23:50 2001] * Guide *[53 Illusionist] Kaweewee (High Elf) ZONE: templeveeshan (USER PID GUUWCLQ)
+[Sat Jun 30 17:23:50 2001] There is 1 player in EverQuest.
+[Sat Jun 30 17:23:59 2001] Players in EverQuest:
+[Sat Jun 30 17:23:59 2001] ---------------------------
+[Sat Jun 30 17:23:59 2001] * Guide *[53 Illusionist] Kaweewee (High Elf) <Lirus's Lil Helper> ZONE: templeveeshan (USER PID GUUWCLQ)
+[Sat Jun 30 17:23:59 2001] There is 1 player in EverQuest.
+[Sat Jun 30 17:24:09 2001] You GMSAY, 'Ooooh Lirus's Lil Helper!'
+[Sat Jun 30 17:24:16 2001] Lirus GMSAYS, 'kaweewee speak in guild and ask if anyone else in in there'
+[Sat Jun 30 17:24:41 2001] Celesra GMSAYS, 'Hello Everyone...Apprentice Guide Needs to group with someone...'
+[Sat Jun 30 17:24:48 2001] Larsot GMSAYS, 'escalating yet another Name issue pet for Lirus  (Mishan EM811NZ)'
+[Sat Jun 30 17:24:48 2001] Kaweewee GMSAYS, 'nothin'
+[Sat Jun 30 17:24:52 2001] You GMSAY, 'Hi Celesra!'
+[Sat Jun 30 17:25:08 2001] You GMSAY, 'Guys, I'm going to take off. Are you staying, Kawee?'
+[Sat Jun 30 17:25:11 2001] Celesra GMSAYS, 'Hi Espranza =)'
+[Sat Jun 30 17:25:11 2001] Lirus GMSAYS, 'hi celesra'
+[Sat Jun 30 17:25:12 2001] Larsot tells the group, 'wow, que pretty much cleaned up   :D'
+[Sat Jun 30 17:25:20 2001] Celesra GMSAYS, 'Hi Lirus.'
+[Sat Jun 30 17:25:31 2001] Kaweewee tells the group, 'yes esp'
+[Sat Jun 30 17:25:41 2001] Kaweewee GMSAYS, 'kinda busy atm'
+[Sat Jun 30 17:25:41 2001] You tell your party, 'wanna grab Celesra then?'
+[Sat Jun 30 17:25:45 2001] You tell your party, 'and Larsot?'
+[Sat Jun 30 17:26:00 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Jun 30 17:26:04 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Jun 30 17:26:06 2001] You GMSAY, 'later guys!'
+[Sat Jun 30 17:26:07 2001] Kaweewee GMSAYS, 'can you wait til im done with lirus?'
+[Sat Jun 30 17:26:09 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Jun 30 17:26:14 2001] You GMSAY, 'oh sure'
+[Sat Jun 30 17:26:14 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Jun 30 17:26:14 2001] You abandon your preparations to camp.
+[Sat Jun 30 17:26:15 2001] Larsot GMSAYS, 'later Espranza   :)'
+[Sat Jun 30 17:26:22 2001] You GMSAY, 'I'll wait for Kawee to finish'
+[Sat Jun 30 17:26:28 2001] You GMSAY, 'coming for you, Celesra!'
+[Sat Jun 30 17:26:30 2001] You GMSAY, 'zone'
+[Sat Jun 30 17:26:32 2001] Teleporting to Celesra.
+[Sat Jun 30 17:26:33 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 17:27:12 2001] You have entered Frontier Mountains.
+[Sat Jun 30 17:27:12 2001] You have formed the group.
+[Sat Jun 30 17:27:17 2001] Zlickbane shouts, 'PC on Foreman's Tunic!!!'
+[Sat Jun 30 17:27:22 2001] Teleporting to Celesra.
+[Sat Jun 30 17:27:28 2001] You invite Celesra to join your group.
+[Sat Jun 30 17:27:31 2001] Celesra has joined the group.
+[Sat Jun 30 17:27:32 2001] Hinobi shouts, 'sells to merchants for 50-65pp'
+[Sat Jun 30 17:27:32 2001] Teleporting to Celesra (-1775.00, -2154.00, 143.88).
+[Sat Jun 30 17:27:39 2001] You tell your party, 'what happened to you?'
+[Sat Jun 30 17:27:44 2001] Celesra tells the group, 'nothing'
+[Sat Jun 30 17:27:47 2001] Hiidin shouts, 'the foreman's tunic, not the giant foreman's tunic'
+[Sat Jun 30 17:27:48 2001] You tell your party, 'nice climb!'
+[Sat Jun 30 17:27:51 2001] Celesra tells the group, 'just having a bit of fun'
+[Sat Jun 30 17:27:53 2001] Celesra tells the group, 'thanks'
+[Sat Jun 30 17:27:57 2001] Celesra tells the group, 'hehe'
+[Sat Jun 30 17:28:00 2001] You tell your party, 'want a heal?'
+[Sat Jun 30 17:28:10 2001] Celesra tells the group, 'sure, if you can heal'
+[Sat Jun 30 17:28:18 2001] You tell your party, 'well, jump down again'
+[Sat Jun 30 17:28:22 2001] You tell your party, 'that should do it'
+[Sat Jun 30 17:28:23 2001] Larsot tells the group, 'LOL'
+[Sat Jun 30 17:28:25 2001] Krullwen shouts, 'fort group needs 1 more'
+[Sat Jun 30 17:28:28 2001] Kiakia shouts, 'whats the diff?'
+[Sat Jun 30 17:28:38 2001] Rrezz says out of character, 'well one sucks one is good'
+[Sat Jun 30 17:28:39 2001] Hiidin shouts, 'one sucks, one kicks arse'
+[Sat Jun 30 17:28:41 2001] You tell your party, 'nope'
+[Sat Jun 30 17:28:49 2001] Celesra tells the group, 'hold on..this'll do it'
+[Sat Jun 30 17:28:52 2001] Summoning Celesra.
+[Sat Jun 30 17:29:11 2001] Searching zones for corpse of that name....
+[Sat Jun 30 17:29:11 2001] Corpse: Celesra's corpse0 in zone: frontiermtns
+[Sat Jun 30 17:29:23 2001] You feel the spirit of Norrath enter you.
+[Sat Jun 30 17:29:24 2001] Your feet leave the ground.
+[Sat Jun 30 17:29:29 2001] Teleporting to celesra's corpse0.
+[Sat Jun 30 17:29:32 2001] Larsot GMSAYS, '~~ZONE~~'
+[Sat Jun 30 17:29:35 2001] Summoning Celesra's corpse0.
+[Sat Jun 30 17:29:40 2001] You tell your party, 'ready for a rez?'
+[Sat Jun 30 17:29:44 2001] Celesra tells the group, 'you bet'
+[Sat Jun 30 17:29:56 2001] Celesra tells the group, 'thank you =)'
+[Sat Jun 30 17:30:00 2001] You tell your party, 'there, fully healed'
+[Sat Jun 30 17:30:03 2001] Celesra fades away.
+[Sat Jun 30 17:30:12 2001] Celesra GMSAYS, 'pulling Aronn'
+[Sat Jun 30 17:30:15 2001] Lirus GMSAYS, 'ok kaw disband that guild by typing /guildd'
+[Sat Jun 30 17:30:31 2001] Teleporting to Celesra (-1773.00, -2169.00, 135.00).
+[Sat Jun 30 17:30:34 2001] Kaweewee GMSAYS, 'done'
+[Sat Jun 30 17:30:40 2001] Celesra tells the group, 'what's going on with Kaw?'
+[Sat Jun 30 17:30:41 2001] Kaweewee tells the guild, 'woot'
+[Sat Jun 30 17:30:45 2001] Lirus tells the guild, 'welcome back)'
+[Sat Jun 30 17:30:46 2001] Celesra tells the group, 'why disband..?'
+[Sat Jun 30 17:30:49 2001] Kaweewee tells the group, 'im forming my own guild'
+[Sat Jun 30 17:30:50 2001] You tell your party, 'Lirus testing something with a guild'
+[Sat Jun 30 17:30:52 2001] Larsot tells the group, 'she doing a guild reformation'
+[Sat Jun 30 17:30:55 2001] You say to your guild, 'hiya!'
+[Sat Jun 30 17:31:12 2001] Celesra tells the group, 'ah. Interesting =) ....be cool if the apprentices had their own guild.'
+[Sat Jun 30 17:31:14 2001] Lirus GMSAYS, 'Zoning'
+[Sat Jun 30 17:31:26 2001] Kaweewee GMSAYS, 'zooooningggg'
+[Sat Jun 30 17:31:31 2001] You tell your party, 'why? You'll be in the main one soon enough'
+[Sat Jun 30 17:32:04 2001] Lirus GMSAYS, 'going to saryrn for a few...will come back and kill these reds'
+[Sat Jun 30 17:32:13 2001] You GMSAY, 'k'
+[Sat Jun 30 17:32:23 2001] Kaweewee tells the group, 'ok, esp log and will pick up appys'
+[Sat Jun 30 17:32:26 2001] You GMSAY, 'zone'
+[Sat Jun 30 17:32:26 2001] Kaweewee has left the group.
+[Sat Jun 30 17:32:29 2001] LOADING, PLEASE WAIT...
+[Sat Jun 30 17:32:49 2001] You have entered Sunset Home.
+[Sat Jun 30 17:32:50 2001] You have formed the group.
+[Sat Jun 30 17:32:55 2001] Larsot GMSAYS, 'pulling Thanak'
+[Sat Jun 30 17:33:00 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Jun 30 17:33:04 2001] You GMSAY, 'later all!'
+[Sat Jun 30 17:33:04 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Jun 30 17:33:09 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Jun 30 17:33:12 2001] Celesra GMSAYS, 'bye Esp =)'
+[Sat Jun 30 17:33:13 2001] Larsot has left the group.
+[Sat Jun 30 17:33:14 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Jun 30 17:33:17 2001] Your group has been disbanded.
+[Sat Jun 30 17:33:19 2001] Kaweewee GMSAYS, 'zooooningggg'
+[Sat Jun 30 17:33:19 2001] It will take about 10 more seconds to prepare your camp.
+[Sat Jun 30 17:33:25 2001] It will take about 5 more seconds to prepare your camp.

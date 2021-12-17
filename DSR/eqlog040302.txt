@@ -1,0 +1,545 @@
+[Tue Apr 02 09:18:41 2002] Welcome to EverQuest!
+[Tue Apr 02 09:18:41 2002] You have entered South Qeynos.
+[Tue Apr 02 09:18:41 2002] MESSAGE OF THE DAY: Welcome to Morell Thule! Please bear in mind that the language filter does NOT give you license to use vulgarity. Innappropriate language is prohibited and will result in warnings or further disciplinary actions. Please refrain.
+[Tue Apr 02 09:18:42 2002] Espranza saved.
+[Tue Apr 02 09:18:43 2002] Autojoining channels...
+[Tue Apr 02 09:18:43 2002] Channels: 1=none(1)
+[Tue Apr 02 09:18:48 2002] Players in EverQuest:
+[Tue Apr 02 09:18:48 2002] ---------------------------
+[Tue Apr 02 09:18:48 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: qeynos (USER PID B4KJ6E7)
+[Tue Apr 02 09:18:48 2002] * Guide *[55 Troubadour] Cazza (Vah Shir) <Keepers of Dreams> ZONE: neriakc (USER PID AUUXD1E)
+[Tue Apr 02 09:18:48 2002] * Guide *[54 Heretic] Dalharil (Dark Elf) <Keepers of Dreams> ZONE: neriakc (USER PID CUGA29A)
+[Tue Apr 02 09:18:48 2002] There are 3 players in EverQuest.
+[Tue Apr 02 09:18:54 2002] You GMSAY, ''lo 'lo'
+[Tue Apr 02 09:18:59 2002] Dalharil GMSAYS, 'Vendui'
+[Tue Apr 02 09:19:02 2002] Cazza GMSAYS, 'hello'
+[Tue Apr 02 09:19:12 2002] Dalharil GMSAYS, 'She's supposed to be in the clerics guild'
+[Tue Apr 02 09:19:14 2002] You GMSAY, 'it has been a long while, dark sister, since our paths have crossed'
+[Tue Apr 02 09:19:16 2002] Dalharil GMSAYS, 'I'll show you where'
+[Tue Apr 02 09:19:19 2002] Cazza GMSAYS, 'ok'
+[Tue Apr 02 09:19:21 2002] Dalharil GMSAYS, 'it has been a very long time'
+[Tue Apr 02 09:19:33 2002] You GMSAY, 'hey did you find Priestess Angelican or whatever?'
+[Tue Apr 02 09:19:33 2002] Cazza GMSAYS, 'one sec getting small'
+[Tue Apr 02 09:19:34 2002] Dalharil GMSAYS, 'fat trollie'
+[Tue Apr 02 09:19:50 2002] Players in EverQuest:
+[Tue Apr 02 09:19:50 2002] ---------------------------
+[Tue Apr 02 09:19:50 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: qeynos (USER PID B4KJ6E7)
+[Tue Apr 02 09:19:50 2002] * Guide *[55 Troubadour] Cazza (Vah Shir) <Keepers of Dreams> ZONE: neriakc (USER PID AUUXD1E)
+[Tue Apr 02 09:19:50 2002] * Guide *[54 Heretic] Dalharil (Dark Elf) <Keepers of Dreams> ZONE: neriakc (USER PID CUGA29A)
+[Tue Apr 02 09:19:50 2002] There are 3 players in EverQuest.
+[Tue Apr 02 09:19:51 2002] Dalharil GMSAYS, 'we are looking for her now'
+[Tue Apr 02 09:19:55 2002] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! '
+[Tue Apr 02 09:19:59 2002] You GMSAY, 'I looked all over for her last night'
+[Tue Apr 02 09:20:07 2002] Cazza GMSAYS, 'trying to track her now'
+[Tue Apr 02 09:20:14 2002] You GMSAY, 'track... ah...'
+[Tue Apr 02 09:20:18 2002] Dalharil GMSAYS, 'right here is where she is supposed to stand'
+[Tue Apr 02 09:20:44 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 02 09:20:45 2002] USER TEXT: I lost a bag of items when i went LD...is there a GM online?
+[Tue Apr 02 09:20:45 2002] Players in EverQuest:
+[Tue Apr 02 09:20:45 2002] ---------------------------
+[Tue Apr 02 09:20:45 2002] [9 Cleric] Reznya (Dwarf) <Mystical Sources> ZONE: freportn (USER PID GZH6WWU)
+[Tue Apr 02 09:20:45 2002] There is 1 player in EverQuest.
+[Tue Apr 02 09:20:51 2002] Cazza GMSAYS, 'not on track at all here'
+[Tue Apr 02 09:21:35 2002] You told Reznya, 'Hail, Reznya! Senior Guide Espranza here. GM Lirus is not expected in until 3pm Pacific time, that's about six hours away. Would it be possible to repetition then?'
+[Tue Apr 02 09:21:40 2002] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! '
+[Tue Apr 02 09:21:41 2002] It begins to rain.
+[Tue Apr 02 09:21:43 2002] Cazza GMSAYS, 'trying to move around to see if I can find her'
+[Tue Apr 02 09:21:45 2002] Reznya tells you, 'yes..thank yo kindly'
+[Tue Apr 02 09:21:47 2002] You GMSAY, 'Neriak C is a big zone... yeah'
+[Tue Apr 02 09:22:02 2002] You told Reznya, 'Good luck, and safe journey to you.'
+[Tue Apr 02 09:22:04 2002] Dalharil GMSAYS, 'she is part of the lowbie cleric armour quest that was implimented two patches ago'
+[Tue Apr 02 09:22:07 2002] Reznya tells you, 'be well'
+[Tue Apr 02 09:22:25 2002] You GMSAY, '<note badname> Reznya GZH6WWU.'
+[Tue Apr 02 09:22:27 2002] DELETING THIS PETITION
+[Tue Apr 02 09:22:39 2002] Dalharil GMSAYS, 'checking to see if he other armour quest mobs are in place'
+[Tue Apr 02 09:22:55 2002] You GMSAY, 'anyone seen her recently on their play server?'
+[Tue Apr 02 09:23:08 2002] Dalharil GMSAYS, 'I have not been in Neriak in a few days... '
+[Tue Apr 02 09:23:20 2002] Dalharil GMSAYS, 'but the last time I was there to get coffins, she was standing there'
+[Tue Apr 02 09:23:26 2002] Cazza GMSAYS, 'have not have the inclination to look heh being not of the blue persuasion'
+[Tue Apr 02 09:24:07 2002] You GMSAY, 'I can go with my rogue, and am not THAT far away, just up in Rivervale...'
+[Tue Apr 02 09:24:14 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 02 09:24:14 2002] USER TEXT: need lift to overthere after  body
+[Tue Apr 02 09:24:15 2002] Players in EverQuest:
+[Tue Apr 02 09:24:15 2002] ---------------------------
+[Tue Apr 02 09:24:15 2002] [31 Warrior] Nilikin (Gnome) <Wolves of the Wind> ZONE: butcher (USER PID G2RBRRG)
+[Tue Apr 02 09:24:15 2002] There is 1 player in EverQuest.
+[Tue Apr 02 09:24:21 2002] You GMSAY, 'zone'
+[Tue Apr 02 09:24:24 2002] Teleporting to nilikin.
+[Tue Apr 02 09:24:24 2002] LOADING, PLEASE WAIT...
+[Tue Apr 02 09:25:04 2002] You have entered Butcherblock Mountains.
+[Tue Apr 02 09:25:05 2002] Dalharil GMSAYS, 'the necromancer armour quest giver is here'
+[Tue Apr 02 09:25:05 2002] Espranza saved.
+[Tue Apr 02 09:25:08 2002] Dalharil GMSAYS, 'Kitorin says that the others are there.. but that the mage is still a bit buggy'
+[Tue Apr 02 09:25:15 2002] Nilikin says, 'Hail, Glorin Binfurr'
+[Tue Apr 02 09:25:15 2002] Glorin Binfurr says 'Pleasure to meet you.  Keep your eye out for the ship.  You don't want to miss it. '
+[Tue Apr 02 09:25:16 2002] Cazza GMSAYS, 'still not on track'
+[Tue Apr 02 09:25:24 2002] Nilikin says, 'Hail, Espranza'
+[Tue Apr 02 09:25:25 2002] Dalharil GMSAYS, 'this is the necromancer quest giver'
+[Tue Apr 02 09:25:26 2002] You say, 'Greetings, Nilikin!'
+[Tue Apr 02 09:25:34 2002] Searching zones for corpse of that name....
+[Tue Apr 02 09:25:34 2002] Corpse: Nilikin's corpse0 in zone: overthere
+[Tue Apr 02 09:25:34 2002] Corpse: Nilikin's corpse1 in zone: steamfont
+[Tue Apr 02 09:25:35 2002] Dalharil GMSAYS, 'he is in an odd place.. but there he stands'
+[Tue Apr 02 09:25:52 2002] You say, 'Hmmm... one or two corpses in Steamfont, and another in the Overthere...'
+[Tue Apr 02 09:25:52 2002] Dalharil GMSAYS, 'but one thing I have noticed about the quest NPC's... they do not talk just now'
+[Tue Apr 02 09:25:58 2002] Nilikin says, 'I hate to ask but on body retrival and need a little food and drink if you can'
+[Tue Apr 02 09:26:02 2002] Dalharil GMSAYS, 'it's very difficult to get them to speak'
+[Tue Apr 02 09:26:15 2002] Cazza GMSAYS, 'and he is dancing on the table'
+[Tue Apr 02 09:26:23 2002] Dalharil GMSAYS, 'you have to be right on top of them'
+[Tue Apr 02 09:26:28 2002] Nilikin says, 'I died in the overthere befor I could get bind'
+[Tue Apr 02 09:26:29 2002] You say, 'I have no comestibles on me, and all I could give you (had I anything) would be gnome sandwiches'
+[Tue Apr 02 09:26:43 2002] Glisse Bluesea shouts 'The Maiden's Voyage is now ready to be boarded.  Please form an orderly line to the shuttles, and remember, no pushing! '
+[Tue Apr 02 09:26:58 2002] You say, 'I can only port from one place the boat goes to another. I can port you to East Freeport or Firiona Vie'
+[Tue Apr 02 09:27:02 2002] Nilikin says, 'well no boat'
+[Tue Apr 02 09:27:25 2002] Nilikin says, 'that would be fine thanks'
+[Tue Apr 02 09:27:31 2002] You say, 'Which would you prefer?'
+[Tue Apr 02 09:27:37 2002] Cazza GMSAYS, 'maybe they had to take her out when they fixed the boats?'
+[Tue Apr 02 09:27:37 2002] Dalharil GMSAYS, 'I wonder if it would be possible to get them to re-pop the zone?'
+[Tue Apr 02 09:27:40 2002] It begins to rain.
+[Tue Apr 02 09:27:51 2002] You say, 'The boat to the Overthere from Timorous Deep works, by the way. I think it's the only one that does....'
+[Tue Apr 02 09:28:00 2002] Nilikin says, 'Freeport I guess'
+[Tue Apr 02 09:28:11 2002] You say, 'okies, one moment please!'
+[Tue Apr 02 09:28:13 2002] You bow before Nilikin.
+[Tue Apr 02 09:28:15 2002] You GMSAY, 'zone'
+[Tue Apr 02 09:28:18 2002] LOADING, PLEASE WAIT...
+[Tue Apr 02 09:28:54 2002] You have entered East Freeport.
+[Tue Apr 02 09:28:55 2002] Dalharil GMSAYS, '<note bug>  Missing... High Priestess Alexandrian.  She is the quest giver for low level cleric armour.   She has been missing for a couple of days now.'
+[Tue Apr 02 09:28:55 2002] Espranza saved.
+[Tue Apr 02 09:28:59 2002] Xermo says, 'i hope it is '
+[Tue Apr 02 09:29:23 2002] You told Nilikin, 'close your eyes and hold on tight! still a little new at this porting thing :)'
+[Tue Apr 02 09:29:23 2002] Azadar bows before Espranza.
+[Tue Apr 02 09:29:29 2002] Summoning Nilikin.
+[Tue Apr 02 09:29:31 2002] DELETING THIS PETITION
+[Tue Apr 02 09:29:35 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 02 09:29:35 2002] USER TEXT: Is boat running fromm EFP to OOT?
+[Tue Apr 02 09:29:35 2002] Players in EverQuest:
+[Tue Apr 02 09:29:35 2002] ---------------------------
+[Tue Apr 02 09:29:35 2002] [52 Heretic] Azadar (Erudite) <Titan Lords> ZONE: freporte (USER PID HM9H6FK)
+[Tue Apr 02 09:29:35 2002] There is 1 player in EverQuest.
+[Tue Apr 02 09:29:42 2002] You say, 'Hello, Azadar!'
+[Tue Apr 02 09:29:45 2002] Azadar says, 'Hail, Espranza'
+[Tue Apr 02 09:30:04 2002] Nilikin bows.
+[Tue Apr 02 09:30:05 2002] You say, 'The boat has been hijacked by a  particularly nasty cyclops.'
+[Tue Apr 02 09:30:13 2002] Nilikin tells you, 'thank you so much'
+[Tue Apr 02 09:30:15 2002] You say, 'He thinks the Ocean of Tears is his splash pool!'
+[Tue Apr 02 09:30:18 2002] You told Nilikin, 'you bet!'
+[Tue Apr 02 09:30:25 2002] Azadar says, 'Ahh!'
+[Tue Apr 02 09:30:25 2002] Dalharil GMSAYS, 'camping to speak to a Chat GM... see what I can find out about the priestess'
+[Tue Apr 02 09:30:25 2002] Nilikin says, 'well '
+[Tue Apr 02 09:30:32 2002] Dalharil GMSAYS, 'be right back'
+[Tue Apr 02 09:30:33 2002] You told Nilikin, 'if you need a lift from Oasis to Timorous Deep, let me know'
+[Tue Apr 02 09:30:35 2002] Nilikin tells you, 'well have to find food and drink'
+[Tue Apr 02 09:30:44 2002] Nilikin tells you, 'I will'
+[Tue Apr 02 09:30:54 2002] You told Nilikin, 'okies, good luck and hope to hear from you soon'
+[Tue Apr 02 09:30:55 2002] Nilikin tells you, 'on my way to oasis now'
+[Tue Apr 02 09:31:04 2002] Nilikin tells you, 'thanks'
+[Tue Apr 02 09:31:16 2002] Azadar says, 'Hail, Espranza'
+[Tue Apr 02 09:31:19 2002] You told Azadar, 'Did you want to be summoned into the Ocean of Tears?'
+[Tue Apr 02 09:31:25 2002] Azadar tells you, 'Yes'
+[Tue Apr 02 09:31:26 2002] Xermo says, 'are the boats still down m'lady '
+[Tue Apr 02 09:31:29 2002] You told Azadar, 'okies'
+[Tue Apr 02 09:31:41 2002] You say, 'Aye, I'm afraid that cyclops is still waterskiiing with them'
+[Tue Apr 02 09:31:45 2002] Kkonnan sank the boats.
+[Tue Apr 02 09:31:48 2002] Azadar says, 'LOL'
+[Tue Apr 02 09:31:55 2002] Xermo says, 'hehe'
+[Tue Apr 02 09:31:57 2002] You say, 'I understand he has a couple dozen sirens pulling for him'
+[Tue Apr 02 09:32:06 2002] Xermo says, 'can i get a port to bb then '
+[Tue Apr 02 09:32:07 2002] You say, 'Can I bring you someplace?'
+[Tue Apr 02 09:32:24 2002] You say, 'Certainly... let me bring this fine necromancer to the Ocean of Tears first'
+[Tue Apr 02 09:32:37 2002] Azadar Blushes.
+[Tue Apr 02 09:32:42 2002] You told Azadar, 'are you kill on sight with the sisters on Sister Island?'
+[Tue Apr 02 09:32:50 2002] Azadar tells you, 'I'll invis'
+[Tue Apr 02 09:33:04 2002] You told Azadar, 'okay, I'll be right there'
+[Tue Apr 02 09:33:07 2002] Cazza GMSAYS, 'wb) any word?'
+[Tue Apr 02 09:33:08 2002] You no longer have a target.
+[Tue Apr 02 09:33:08 2002] You wave goodbye to everyone.
+[Tue Apr 02 09:33:10 2002] You GMSAY, 'zone'
+[Tue Apr 02 09:33:14 2002] LOADING, PLEASE WAIT...
+[Tue Apr 02 09:33:46 2002] You have entered Ocean of Tears.
+[Tue Apr 02 09:33:47 2002] Espranza saved.
+[Tue Apr 02 09:34:15 2002] You told Azadar, 'ready?'
+[Tue Apr 02 09:34:18 2002] Azadar tells you, 'yes'
+[Tue Apr 02 09:34:23 2002] Summoning Azadar.
+[Tue Apr 02 09:34:32 2002] Pyrazix says out of character, 'porting duty? hehe'
+[Tue Apr 02 09:34:45 2002] You GMSAY, '<note> Summoned Nilikin from Butcherblock to East Freport.'
+[Tue Apr 02 09:34:59 2002] Cazza GMSAYS, 'the boats are working again'
+[Tue Apr 02 09:35:02 2002] You GMSAY, '<note> Summoned Azadar from East Freport to the Ocean of Tears'
+[Tue Apr 02 09:35:05 2002] You GMSAY, 'they ARE?'
+[Tue Apr 02 09:35:09 2002] Cazza GMSAYS, 'yes'
+[Tue Apr 02 09:35:10 2002] Azadar tells you, 'thxs, By the way boat pulled up as u tp me'
+[Tue Apr 02 09:35:11 2002] You GMSAY, 'they weren't kast night'
+[Tue Apr 02 09:35:21 2002] You told Azadar, 'yeah I was just informed the boats are working!'
+[Tue Apr 02 09:35:25 2002] You told Azadar, 'NOW they tell me )'
+[Tue Apr 02 09:35:34 2002] Azadar tells you, 'Lol, well thxs for your help anyway.'
+[Tue Apr 02 09:35:36 2002] Cazza GMSAYS, 'we took the rafters this morning, qeynos, butcher '
+[Tue Apr 02 09:35:39 2002] You told Azadar, 'well I saved you a couple minutes perhaps'
+[Tue Apr 02 09:35:44 2002] Azadar tells you, 'u did'
+[Tue Apr 02 09:35:47 2002] You GMSAY, 'woot! finally!'
+[Tue Apr 02 09:36:06 2002] You told Xermo, 'it appears the boats are working!'
+[Tue Apr 02 09:36:08 2002] DELETING THIS PETITION
+[Tue Apr 02 09:36:16 2002] Cazza GMSAYS, 'I was surprised to hear that as well, I did see the boat in freport but didnt know it was working either till Laral mentioned it'
+[Tue Apr 02 09:36:16 2002] Your feet leave the ground.
+[Tue Apr 02 09:36:32 2002] You GMSAY, 'I didn't see it in Common Hall before I came on'
+[Tue Apr 02 09:36:38 2002] Xermo tells you, 'it just left i didnt know to get on or not '
+[Tue Apr 02 09:36:40 2002] Cazza GMSAYS, 'neither did I'
+[Tue Apr 02 09:37:07 2002] You told Xermo, 'ah. well, I will bring you to Sister Isle, where you can catch the boat.'
+[Tue Apr 02 09:37:16 2002] You told Xermo, 'ready?'
+[Tue Apr 02 09:37:21 2002] Xermo tells you, 'yep'
+[Tue Apr 02 09:37:25 2002] Summoning Xermo.
+[Tue Apr 02 09:37:49 2002] You GMSAY, '<note> Summoned Xermo to OOT because I said I would before I knew the boats were working and he missed it.....'
+[Tue Apr 02 09:37:50 2002] Cazza GMSAYS, '<NOTE>Pyrea H2ECEP5 states taht Lieutenant Feardee in Firiona (the rogue trainer) is not being very roguish, will not train in pickpocket,  apply poison or make poison Pyrea is level 19'
+[Tue Apr 02 09:37:59 2002] You GMSAY, 'Not a bug Cazza'
+[Tue Apr 02 09:38:17 2002] Xermo tells you, 'thanx '
+[Tue Apr 02 09:38:18 2002] You GMSAY, 'working as intended :)'
+[Tue Apr 02 09:38:25 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 02 09:38:25 2002] USER TEXT: I was Just illed in GD by a giant i was working on, So much lad came in for about 2 mins . next thing i am dead, i never losst connection to the game . I want a 100 % rez.
+[Tue Apr 02 09:38:26 2002] Players in EverQuest:
+[Tue Apr 02 09:38:26 2002] ---------------------------
+[Tue Apr 02 09:38:26 2002] [52 Wanderer] Alexan (Wood Elf) <Rise of the Phoenix> ZONE: tenebrous (USER PID ENHVC8C)
+[Tue Apr 02 09:38:26 2002] There is 1 player in EverQuest.
+[Tue Apr 02 09:38:46 2002] Dalharil GMSAYS, 'Vendui'
+[Tue Apr 02 09:38:49 2002] You told Xermo, 'be well and safe journey to you'
+[Tue Apr 02 09:38:55 2002] You GMSAY, 'Greetings.'
+[Tue Apr 02 09:39:00 2002] You feel the spirit of Norrath enter you.
+[Tue Apr 02 09:39:12 2002] Dalharil GMSAYS, 'High Priestess Alexandrian is on sabatical'
+[Tue Apr 02 09:39:29 2002] Cazza GMSAYS, 'learnign more of those dark art healing techniques'
+[Tue Apr 02 09:39:42 2002] Dalharil GMSAYS, 'she has gone to visit with Innoruuk .  Absolutely'
+[Tue Apr 02 09:39:43 2002] Cazza GMSAYS, 'you are rezzed but now you have three arms'
+[Tue Apr 02 09:39:44 2002] You told Alexan, 'Hail, Alexan! Senior Guide Espranza here. I am truly sorry, but we cannot offer rezzes for deaths caused by link death or lag.'
+[Tue Apr 02 09:39:50 2002] You GMSAY, 'lol!'
+[Tue Apr 02 09:40:02 2002] Dalharil GMSAYS, 'she should be back next patch'
+[Tue Apr 02 09:40:25 2002] DELETING THIS PETITION
+[Tue Apr 02 09:40:39 2002] You have changed Espranza's last name to the Ex-Stewardess.
+[Tue Apr 02 09:40:45 2002] You have changed Espranza's last name to the ExStewardess.
+[Tue Apr 02 09:40:54 2002] Dalharil GMSAYS, 'and as far as the trainings..   aye... '
+[Tue Apr 02 09:41:00 2002] You have changed Espranza's last name to the Shrub Elf.
+[Tue Apr 02 09:41:05 2002] Dalharil GMSAYS, 'my rogue had to go to Kaladim to train as it was the closest rogue trainer   = (('
+[Tue Apr 02 09:41:19 2002] Cazza GMSAYS, 'yes this guy is still very upset over this'
+[Tue Apr 02 09:41:33 2002] You GMSAY, 'aye, I always had to go to Kaladim or Rivervale. And now I have to go to Stanos for improved lockpicking technique.'
+[Tue Apr 02 09:41:39 2002] Dalharil GMSAYS, 'that would train in those skills'
+[Tue Apr 02 09:41:46 2002] Cazza GMSAYS, 'making his note a feedback '
+[Tue Apr 02 09:41:50 2002] Dalharil GMSAYS, 'try being a barbarian'
+[Tue Apr 02 09:41:55 2002] Alexan tells you, 'WHAT if your system would hold good conections i would not have these problems i have 512 memory and a yoop notch graphics card. so dont tell me about why you canyt rea . your sustem created the death I want a rez Please i do not play to hy'
+[Tue Apr 02 09:41:56 2002] Cazza GMSAYS, 'so at least he feels we are listening to him'
+[Tue Apr 02 09:41:57 2002] Dalharil GMSAYS, 'a barbarian can't even GET to the trainer'
+[Tue Apr 02 09:42:17 2002] Cazza GMSAYS, 'bah barbarians, I'm surprised they can make fire'
+[Tue Apr 02 09:42:18 2002] Dalharil GMSAYS, 'and for GOODNESS sakes... DO NOT go dark elf form'
+[Tue Apr 02 09:42:27 2002] Dalharil GMSAYS, 'baj!!'
+[Tue Apr 02 09:42:34 2002] Cazza GMSAYS, ')'
+[Tue Apr 02 09:42:37 2002] Dalharil GMSAYS, 'Lightning strikes make a good start for a fire'
+[Tue Apr 02 09:43:03 2002] Cazza GMSAYS, '<NOTE> cont Pyrea would like it also noted he cannot fit through fv doors without a shrink potion'
+[Tue Apr 02 09:43:13 2002] You told Alexan, 'Lag is caused by many things, most of which are not caused by the EQ servers. When it is caused by the EQ servers, hundreds of people are dropped at once, and we do offer rezzes.'
+[Tue Apr 02 09:43:18 2002] Cazza GMSAYS, 'he's a barbarian heh'
+[Tue Apr 02 09:44:01 2002] Espranza saved.
+[Tue Apr 02 09:44:08 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 02 09:44:09 2002] USER TEXT: the velious/odin spires in the Nexus are not announcing, and i keep getting ported to TOXX - I really need to get to Velious
+[Tue Apr 02 09:44:09 2002] Players in EverQuest:
+[Tue Apr 02 09:44:09 2002] ---------------------------
+[Tue Apr 02 09:44:09 2002] [53 Champion] Mothball (Wood Elf) <Mystical Lightfighters> ZONE: tox (USER PID BQPHF92)
+[Tue Apr 02 09:44:09 2002] There is 1 player in EverQuest.
+[Tue Apr 02 09:44:31 2002] Cazza GMSAYS, 'I usually have my druid do all my running aroudn for poison ingredients, for my rogue, I can not seem to get the barbarians to sell to her though, barbarian rogues do not like woodelf druids, I think its cause we are so poor they cant get a decent pic'
+[Tue Apr 02 09:44:36 2002] Cazza GMSAYS, 'picpocket'
+[Tue Apr 02 09:44:40 2002] Alexan tells you, 'you now im getting tired if you people not helping when your system causes the problem and you want more money?? its time to re tink this game. I have players now for omost 2 years. maybe time to quit'
+[Tue Apr 02 09:45:06 2002] You told Mothball, 'Hail, Mothball! Senior Guide Espranza here. That's a known problem, and I do hope they fix it soon. Until then - the Velious ports seem to be announced, so just hang outside the spires until you hear the mystic voice call people to gather '
+[Tue Apr 02 09:45:10 2002] You told Mothball, 'for Velious.'
+[Tue Apr 02 09:45:22 2002] Mothball tells you, 'ok thanks '
+[Tue Apr 02 09:46:12 2002] Cazza GMSAYS, 'this place is one great big maze'
+[Tue Apr 02 09:46:29 2002] You told Alexan, 'Most lag is caused by the internet connection - there are many servers and routers between you and EQ, the lag could be from any one of them.'
+[Tue Apr 02 09:46:32 2002] DELETING THIS PETITION
+[Tue Apr 02 09:46:38 2002] Players in EverQuest:
+[Tue Apr 02 09:46:38 2002] ---------------------------
+[Tue Apr 02 09:46:38 2002] * Guide *[55 Troubadour] Cazza (Vah Shir) <Keepers of Dreams> ZONE: neriakc (USER PID AUUXD1E)
+[Tue Apr 02 09:46:38 2002] There is 1 player in EverQuest.
+[Tue Apr 02 09:46:57 2002] Players on EverQuest:
+[Tue Apr 02 09:46:57 2002] ---------------------------
+[Tue Apr 02 09:46:57 2002] [24 Paladin] Izmak (Human) <Hunters of the Undead>
+[Tue Apr 02 09:46:57 2002] [ANONYMOUS] Xermo  <Honorbound Elite>
+[Tue Apr 02 09:46:57 2002] [52 Heretic] Azadar (Erudite) <Titan Lords>
+[Tue Apr 02 09:46:57 2002] [53 Wanderer] Lavy (Wood Elf) <Black Claws>
+[Tue Apr 02 09:46:57 2002] [ANONYMOUS] Pyrazix 
+[Tue Apr 02 09:46:57 2002] * GM * [55 Blackguard] Espranza (Halfling) <Keepers of Dreams>
+[Tue Apr 02 09:46:57 2002] There are 6 players in Ocean of Tears.
+[Tue Apr 02 09:47:18 2002] Cazza GMSAYS, 'zoning'
+[Tue Apr 02 09:47:39 2002] You GMSAY, 'sounds like a fine idea. I'm gonna zone, too :)'
+[Tue Apr 02 09:47:43 2002] LOADING, PLEASE WAIT...
+[Tue Apr 02 09:48:04 2002] You have entered Sunset Home.
+[Tue Apr 02 09:48:05 2002] Nilikin tells you, 'almost to oasis of Marr'
+[Tue Apr 02 09:48:05 2002] Espranza saved.
+[Tue Apr 02 09:48:29 2002] You feel as if you are about to fall.
+[Tue Apr 02 09:48:35 2002] You feel as if you are about to fall.
+[Tue Apr 02 09:48:42 2002] You can no longer levitate.
+[Tue Apr 02 09:49:06 2002] You told Nilikin, 'I've been informed that the boats are now working - so it could be you will find a raft waiting for you in Oasis'
+[Tue Apr 02 09:49:10 2002] You GMSAY, 'zone'
+[Tue Apr 02 09:49:13 2002] LOADING, PLEASE WAIT...
+[Tue Apr 02 09:49:43 2002] You have entered Oasis of Marr.
+[Tue Apr 02 09:49:43 2002] Nilikin tells you, 'thanks I will look'
+[Tue Apr 02 09:49:43 2002] Espranza saved.
+[Tue Apr 02 09:49:50 2002] Derrickk slashes an orc warrior for 21 points of damage.
+[Tue Apr 02 09:50:21 2002] Rack Stonebelly shouts 'Da Bloated Belly be leaving da Overdere now! '
+[Tue Apr 02 09:50:26 2002] dry bones skeleton says 'Areeeeewwwww '
+[Tue Apr 02 09:50:27 2002] dry bones skeleton hits Aleheart for 36 points of damage.
+[Tue Apr 02 09:50:27 2002] dry bones skeleton bashes Aleheart for 8 points of damage.
+[Tue Apr 02 09:50:27 2002] dry bones skeleton begins to cast a spell. (DryBoneFireBurst)
+[Tue Apr 02 09:50:27 2002] Aleheart's skin smolders.
+[Tue Apr 02 09:50:30 2002] dry bones skeleton hits Mdaria for 36 points of damage.
+[Tue Apr 02 09:50:31 2002] Aleheart slashes dry bones skeleton for 50 points of damage.
+[Tue Apr 02 09:50:32 2002] Aleheart kicks dry bones skeleton for 12 points of damage.
+[Tue Apr 02 09:50:33 2002] Aleheart slashes dry bones skeleton for 25 points of damage.
+[Tue Apr 02 09:50:34 2002] Your feet leave the ground.
+[Tue Apr 02 09:50:34 2002] dry bones skeleton bashes Aleheart for 1 point of damage.
+[Tue Apr 02 09:50:35 2002] You feel the spirit of Norrath enter you.
+[Tue Apr 02 09:50:35 2002] Aleheart slashes dry bones skeleton for 54 points of damage.
+[Tue Apr 02 09:51:34 2002] Cazza GMSAYS, '<NOTE> Badname wantaport level 7 DZA8RNF'
+[Tue Apr 02 09:51:38 2002] Riaden shouts, 'orc hw group looking for more lv 14ish'
+[Tue Apr 02 09:51:46 2002] Players in EverQuest:
+[Tue Apr 02 09:51:46 2002] ---------------------------
+[Tue Apr 02 09:51:46 2002] [7 Wizard] Wantaport (High Elf) <Fire Knights> ZONE: freportw (USER PID DZA8RNF)
+[Tue Apr 02 09:51:46 2002] There is 1 player in EverQuest.
+[Tue Apr 02 09:51:53 2002] Grenebulax says out of character, 'any spec or sg grps around'
+[Tue Apr 02 09:51:53 2002] You GMSAY, 'did he petition?'
+[Tue Apr 02 09:52:00 2002] Cazza GMSAYS, 'no I saw his name'
+[Tue Apr 02 09:52:13 2002] You GMSAY, 'cool :) I've been asked not to tag bad name petitioners'
+[Tue Apr 02 09:52:22 2002] Alexan tells you, 'ok whats up im back in DL and my corpse is GONE??'
+[Tue Apr 02 09:52:27 2002] Kibobtik says 'Guarding you, Master.'
+[Tue Apr 02 09:52:27 2002] Mdaria tells her pet to guard her sweet ass.
+[Tue Apr 02 09:52:31 2002] Searching zones for corpse of that name....
+[Tue Apr 02 09:52:31 2002] Corpse: Alexan's corpse0 in zone: greatdivide
+[Tue Apr 02 09:52:40 2002] Players in EverQuest:
+[Tue Apr 02 09:52:40 2002] ---------------------------
+[Tue Apr 02 09:52:40 2002] [52 Wanderer] Alexan (Wood Elf) <Rise of the Phoenix> ZONE: greatdivide (USER PID ENHVC8C)
+[Tue Apr 02 09:52:40 2002] There is 1 player in EverQuest.
+[Tue Apr 02 09:52:52 2002] Cazza GMSAYS, 'really? that sounds strange shrug'
+[Tue Apr 02 09:52:56 2002] Mdaria shouts, 'sg still out there?'
+[Tue Apr 02 09:52:56 2002] You told Alexan, 'the only corpse I see for you is in the Great Divide'
+[Tue Apr 02 09:53:08 2002] Riaden shouts, 'dunno'
+[Tue Apr 02 09:53:13 2002] You GMSAY, 'yeah, it was strange to me too, but was explained at length afterward.'
+[Tue Apr 02 09:53:31 2002] Cazza GMSAYS, 'I imagine it has to do with being afraid to petition '
+[Tue Apr 02 09:53:33 2002] Dalharil GMSAYS, 'maybe that is part of the new kinder gentler cs service that Ledian was referring to'
+[Tue Apr 02 09:53:39 2002] Lumynae says out of character, 'waow a gm is in the zone !!'
+[Tue Apr 02 09:53:43 2002] Grenebulax says out of character, 'sowing at dock till the boat gets here'
+[Tue Apr 02 09:53:55 2002] Cazza GMSAYS, 'we do the masah, we do the monster mash.. pulling'
+[Tue Apr 02 09:54:02 2002] Alexan tells you, 'found it not where i was fighting , but i have it and by the Way thanks for all your help, '
+[Tue Apr 02 09:54:11 2002] You GMSAY, 'we do the mash, and it's a graveyard smash'
+[Tue Apr 02 09:54:27 2002] You told Alexan, 'I wish I could have done more for you. Be well and safe journey to you.'
+[Tue Apr 02 09:54:41 2002] Cazza GMSAYS, 'I loved that song'
+[Tue Apr 02 09:54:55 2002] You GMSAY, 'yeah :) I sang it all the time when I was a kid'
+[Tue Apr 02 09:55:02 2002] You GMSAY, 'I even have the single around somewhere'
+[Tue Apr 02 09:55:03 2002] Alexan tells you, 'you did, its time to leave EQ. safe huntiing to you also'
+[Tue Apr 02 09:55:13 2002] Cazza GMSAYS, 'I had it on eight track goofy greats'
+[Tue Apr 02 09:55:45 2002] Players in EverQuest:
+[Tue Apr 02 09:55:45 2002] ---------------------------
+[Tue Apr 02 09:55:45 2002] [7 Wizard] Wantaport (High Elf) <Fire Knights> ZONE: freportw (USER PID DZA8RNF)
+[Tue Apr 02 09:55:45 2002] There is 1 player in EverQuest.
+[Tue Apr 02 09:55:50 2002] Cazza GMSAYS, 'I am so glad I didnt get asked what an eight track was heh'
+[Tue Apr 02 09:55:54 2002] You GMSAY, 'zone'
+[Tue Apr 02 09:55:56 2002] Grenebulax says out of character, 'when was the last time LJ was up'
+[Tue Apr 02 09:56:01 2002] You GMSAY, 'I'm not that young!'
+[Tue Apr 02 09:56:14 2002] LOADING, PLEASE WAIT...
+[Tue Apr 02 09:56:49 2002] Ellipsis says out of character, 'could I have some High lvl protection I need to go CR myself'
+[Tue Apr 02 09:56:50 2002] You have entered West Freeport.
+[Tue Apr 02 09:56:51 2002] Cazza GMSAYS, 'I have another birthday coming up and there are evil people who like to celebrate my sadness'
+[Tue Apr 02 09:56:51 2002] Espranza saved.
+[Tue Apr 02 09:56:57 2002] Dalharil GMSAYS, 'Crossing the veil that divides the lands!'
+[Tue Apr 02 09:57:11 2002] You GMSAY, 'those nasties'
+[Tue Apr 02 09:57:20 2002] Cazza GMSAYS, 'I know('
+[Tue Apr 02 09:57:21 2002] You GMSAY, 'hey you have a level coming to you soon...'
+[Tue Apr 02 09:57:31 2002] Teleporting to wantaport.
+[Tue Apr 02 09:57:35 2002] Cazza GMSAYS, 'yes soon)'
+[Tue Apr 02 09:57:44 2002] You wave at Wantaport.
+[Tue Apr 02 09:57:47 2002] Wantaport says, 'Hail, Espranza'
+[Tue Apr 02 09:57:55 2002] Wantaport says, 'do i have to change my name?'
+[Tue Apr 02 09:58:01 2002] Wantaport is looking at your equipment...
+[Tue Apr 02 09:58:04 2002] You told Wantaport, 'Hiya! Um... yeah, your name is a phrase.. sorry'
+[Tue Apr 02 09:58:08 2002] Wantaport tells you, 'ok'
+[Tue Apr 02 09:58:23 2002] You GMSAY, 'Wantaport sees me, first thing he says is, do I have to change my name?'
+[Tue Apr 02 09:58:29 2002] Cazza GMSAYS, 'hahah'
+[Tue Apr 02 09:58:30 2002] Wantaport tells you, 'how'
+[Tue Apr 02 09:58:37 2002] Deathfist Pawn says 'Centurions!! Attack!! '
+[Tue Apr 02 09:58:37 2002] Guard Bonlo says 'Die, dog!! '
+[Tue Apr 02 09:58:37 2002] Guard Jacsen says 'Die, dog!! '
+[Tue Apr 02 09:58:37 2002] Guard Jacsen hits Deathfist Pawn for 175 points of damage.
+[Tue Apr 02 09:58:37 2002] Deathfist Pawn has been slain by Guard Jacsen!
+[Tue Apr 02 09:58:37 2002] Guard Jacsen says 'Let your death be a warning to all who dare oppose the Freeport Militia! '
+[Tue Apr 02 09:58:37 2002] Deathfist Pawn says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Tue Apr 02 09:58:44 2002] You told Wantaport, 'I can change your name, assuming nobody else has it'
+[Tue Apr 02 09:58:45 2002] Cazza GMSAYS, 'did you tell him no, I have to hehe'
+[Tue Apr 02 09:58:46 2002] Teleporting to Wantaport ( 57.00, 112.00, -22.51).
+[Tue Apr 02 09:58:50 2002] Wantaport tells you, 'yeah'
+[Tue Apr 02 09:58:56 2002] You told Wantaport, 'any suggestions?'
+[Tue Apr 02 09:58:58 2002] Wantaport feels a bit dispelled.
+[Tue Apr 02 09:59:02 2002] Dalharil GMSAYS, 'hehehehehe'
+[Tue Apr 02 09:59:12 2002] Wantaport tells you, 'ummm Zebrete'
+[Tue Apr 02 09:59:12 2002]  (Selo`s Accelerando)
+[Tue Apr 02 09:59:15 2002] You told Wantaport, 'OOPS I did that (sorry) wrong key'
+[Tue Apr 02 09:59:19 2002] Cazza GMSAYS, 'zoning to highkeep theres a guard reportedly killing allt heir mobs there '
+[Tue Apr 02 09:59:22 2002] Nilikin tells you, 'thanks barge is comming now'
+[Tue Apr 02 09:59:28 2002] Wantaport tells you, 'o man i just got buffed to!!!'
+[Tue Apr 02 09:59:30 2002] You have changed Wantaport's name to Zebrete.
+[Tue Apr 02 09:59:35 2002] You apologize to Zebrete whole-heartedly.
+[Tue Apr 02 09:59:42 2002] Zebrete cries over Espranza.
+[Tue Apr 02 09:59:54 2002] You told Zebrete, 'that's the key I use to aggro merchants to reset them... '
+[Tue Apr 02 10:00:03 2002] Zebrete tells you, 'o'
+[Tue Apr 02 10:00:08 2002] Zebrete tells you, 'i wanna be a GM'
+[Tue Apr 02 10:00:16 2002] Cazza GMSAYS, 'do you know much about highkeep?'
+[Tue Apr 02 10:00:19 2002] Koly auctions, 'WTS Sarnak Great Cleaver 2hs 12/48 str+5 war only'
+[Tue Apr 02 10:00:24 2002] You GMSAY, '<note name> Wantaport DZA8RNF name changed to Zebrete.'
+[Tue Apr 02 10:00:32 2002] Zebrete tells you, 'ive been playing for so long and know so much about EQ'
+[Tue Apr 02 10:00:45 2002] You told Zebrete, 'you can apply at guideapp.everquest.com'
+[Tue Apr 02 10:00:47 2002] Cazza GMSAYS, 'captain bosec has made his way to the basement killing pickclaws '
+[Tue Apr 02 10:00:50 2002] Zebrete tells you, 'ok'
+[Tue Apr 02 10:01:03 2002] You told Zebrete, 'hope to see you among us soon, then! Be well, Zabrete!'
+[Tue Apr 02 10:01:06 2002] You wave goodbye to Zebrete.
+[Tue Apr 02 10:01:08 2002] You GMSAY, 'zone'
+[Tue Apr 02 10:01:10 2002] Zebrete tells you, 'thanks'
+[Tue Apr 02 10:01:12 2002] You begin casting Sunset Home.Item Cast Time (1000) (Sunset Home)
+[Tue Apr 02 10:01:12 2002] Your Belt of Translocation begins to glow.
+[Tue Apr 02 10:01:13 2002] LOADING, PLEASE WAIT...
+[Tue Apr 02 10:01:34 2002] You have entered Sunset Home.
+[Tue Apr 02 10:01:35 2002] Espranza saved.
+[Tue Apr 02 10:02:11 2002] Soul Mark added to file successfully.
+[Tue Apr 02 10:02:11 2002] Cazza GMSAYS, 'goign to try mem blurring the captain'
+[Tue Apr 02 10:03:18 2002] Dalharil GMSAYS, 'I must camp...  I just looked at the clock.. I am late'
+[Tue Apr 02 10:03:20 2002] Dalharil GMSAYS, '= (('
+[Tue Apr 02 10:03:23 2002] Dalharil GMSAYS, 'Crossing the veil that divides the lands!'
+[Tue Apr 02 10:03:24 2002] You feel as if you are about to fall.
+[Tue Apr 02 10:03:25 2002] You GMSAY, 'Aluve, Dalharil'
+[Tue Apr 02 10:03:28 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 02 10:03:28 2002] USER TEXT: I petitioned yesterday about an item loss.  After waiting 11 hours the gm's told me to petition again today, so here it is.  :)
+[Tue Apr 02 10:03:29 2002] Players in EverQuest:
+[Tue Apr 02 10:03:29 2002] ---------------------------
+[Tue Apr 02 10:03:29 2002] [40 Bard] Kanuval (Wood Elf) ZONE: qeytoqrg (USER PID GTWGZ87)
+[Tue Apr 02 10:03:29 2002] There is 1 player in EverQuest.
+[Tue Apr 02 10:03:30 2002] You feel as if you are about to fall.
+[Tue Apr 02 10:03:31 2002] Cazza GMSAYS, 'take care dalharil)'
+[Tue Apr 02 10:03:36 2002] You can no longer levitate.
+[Tue Apr 02 10:04:18 2002] Cazza GMSAYS, 'zoning'
+[Tue Apr 02 10:04:20 2002] Dalharil GMSAYS, 'You as well'
+[Tue Apr 02 10:04:23 2002] Dalharil GMSAYS, 'good night'
+[Tue Apr 02 10:04:58 2002] You told Kanuval, 'Hail, Kanuval! Senior Guide Espranza here. The GM won't be online for another five hours. I will escalate this petition anyway, but he won't get to it for awhile. If you log off or crash, you will need to repetition.'
+[Tue Apr 02 10:05:18 2002] Cazza GMSAYS, 'zoning to butcher I have another report of the boat to freport not working'
+[Tue Apr 02 10:05:31 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Apr 02 10:05:31 2002] GM TEXT: Espranza: Lost some items, just escalating this in case he stays on until Lirus comes.
+[Tue Apr 02 10:05:32 2002] STATUS UPGRADED TO URGENT
+[Tue Apr 02 10:05:32 2002] STATUS UPGRADED TO EMERGENCY
+[Tue Apr 02 10:05:34 2002] CHECKING IN
+[Tue Apr 02 10:05:34 2002] Kanuval tells you, 'okay, will do.  Thankyou'
+[Tue Apr 02 10:05:41 2002] You GMSAY, 'esc Kanuval, item loss.'
+[Tue Apr 02 10:05:46 2002] You told Kanuval, 'be well, and good luck!'
+[Tue Apr 02 10:05:54 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 02 10:05:55 2002] USER TEXT: still havent followed up with gm on grave sandles that sdisappeared in trade with chhechy..all items transferred except sandles
+[Tue Apr 02 10:05:55 2002] Players in EverQuest:
+[Tue Apr 02 10:05:55 2002] ---------------------------
+[Tue Apr 02 10:05:55 2002] [53 Cavalier] Festu (High Elf) <Titan Lords> ZONE: ecommons (USER PID BN6SMFE)
+[Tue Apr 02 10:05:55 2002] There is 1 player in EverQuest.
+[Tue Apr 02 10:06:25 2002] You told Festu, 'Hail, Festu! Senior Guide Espranza here. The GM won't be on for another five hours, but I will escalate this petition for him when he comes in.'
+[Tue Apr 02 10:06:38 2002] You told Festu, 'if you crash or log, you will have to repetition....'
+[Tue Apr 02 10:06:44 2002] Cazza GMSAYS, 'sitting in butcher to see if the boat arrives'
+[Tue Apr 02 10:06:51 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Apr 02 10:06:51 2002] GM TEXT: Espranza: escalating in case it lasts until Lirus comes.
+[Tue Apr 02 10:06:53 2002] STATUS UPGRADED TO URGENT
+[Tue Apr 02 10:06:54 2002] STATUS UPGRADED TO EMERGENCY
+[Tue Apr 02 10:07:00 2002] You GMSAY, 'esc Festu for reimbursal.'
+[Tue Apr 02 10:07:03 2002] CHECKING IN
+[Tue Apr 02 10:07:38 2002] You GMSAY, 'a yellow?'
+[Tue Apr 02 10:07:42 2002] Cazza GMSAYS, 'mariya is mine, jsut waiting on the boat'
+[Tue Apr 02 10:07:45 2002] You GMSAY, 'kk'
+[Tue Apr 02 10:07:49 2002] Changing Espranza to race: Human.
+[Tue Apr 02 10:07:49 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:07:49 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:07:53 2002] Cazza GMSAYS, 'I needed to adjust my view'
+[Tue Apr 02 10:07:53 2002] Festu tells you, 'thnx i was supposed ta hook up mon missed him..trade was with cheechy '
+[Tue Apr 02 10:08:20 2002] You told Festu, 'well, you're near the top of the list today. If you don'
+[Tue Apr 02 10:08:35 2002] You told Festu, 'don't hear from him by 4pm Pacific or so, please repetition.'
+[Tue Apr 02 10:08:45 2002] Changing Espranza to race: Barbarian.
+[Tue Apr 02 10:08:45 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:08:45 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:08:50 2002] Changing Espranza to race: Erudite.
+[Tue Apr 02 10:08:50 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:08:51 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:09:01 2002] Changing Espranza to race: Wood Elf.
+[Tue Apr 02 10:09:01 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:09:01 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:09:05 2002] Festu tells you, 'thnxx mucho'
+[Tue Apr 02 10:09:08 2002] You feel the spirit of Z surround you.
+[Tue Apr 02 10:09:16 2002] Changing Espranza to race: Dark Elf.
+[Tue Apr 02 10:09:16 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:09:16 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:09:20 2002] Changing Espranza to race: Half Elf.
+[Tue Apr 02 10:09:20 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:09:21 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:09:26 2002] You GMSAY, 'zone'
+[Tue Apr 02 10:09:28 2002] LOADING, PLEASE WAIT...
+[Tue Apr 02 10:09:36 2002] Your illusion fades.
+[Tue Apr 02 10:09:52 2002] You have entered Nexus.
+[Tue Apr 02 10:09:53 2002] Espranza saved.
+[Tue Apr 02 10:09:53 2002] Cazza GMSAYS, 'boat in butcher has arrived, taking it now to freeport'
+[Tue Apr 02 10:10:14 2002] Bigkiss says, 'suis avec sori la.'
+[Tue Apr 02 10:10:15 2002] You GMSAY, 'zone'
+[Tue Apr 02 10:10:21 2002] LOADING, PLEASE WAIT...
+[Tue Apr 02 10:10:40 2002] You have entered Sunset Home.
+[Tue Apr 02 10:10:41 2002] Espranza saved.
+[Tue Apr 02 10:10:44 2002] It begins to rain.
+[Tue Apr 02 10:11:20 2002] Cazza GMSAYS, 'zoning soon'
+[Tue Apr 02 10:11:54 2002] Changing Espranza to race: Half Elf.
+[Tue Apr 02 10:11:54 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:11:55 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:12:00 2002] Changing Espranza to race: Dwarf.
+[Tue Apr 02 10:12:00 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:12:00 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:12:05 2002] Changing Espranza to race: Troll.
+[Tue Apr 02 10:12:05 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:12:06 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:12:10 2002] Changing Espranza to race: Ogre.
+[Tue Apr 02 10:12:10 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:12:11 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:12:14 2002] Changing Espranza to race: Halfling.
+[Tue Apr 02 10:12:14 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:12:14 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:12:17 2002] Changing Espranza to race: Gnome.
+[Tue Apr 02 10:12:17 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:12:18 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:12:26 2002] Changing Espranza to race: Were Wolf.
+[Tue Apr 02 10:12:26 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:12:27 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:12:33 2002] Changing Espranza to race: Aviak.
+[Tue Apr 02 10:12:33 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:12:33 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:12:41 2002] Changing Espranza to race: High Elf.
+[Tue Apr 02 10:12:41 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Tue Apr 02 10:12:41 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Tue Apr 02 10:12:56 2002] Cazza GMSAYS, 'I'm glad there isnt a chance of getting sickesick'
+[Tue Apr 02 10:12:56 2002] You no longer have a target.
+[Tue Apr 02 10:12:56 2002] You no longer have a target.
+[Tue Apr 02 10:12:56 2002] You no longer have a target.
+[Tue Apr 02 10:13:01 2002] Cazza GMSAYS, 'err seasick'
+[Tue Apr 02 10:13:06 2002] You GMSAY, 'heh'
+[Tue Apr 02 10:13:26 2002] Cazza GMSAYS, 'made it to oot so far I am pretty sure this boat is working again'
+[Tue Apr 02 10:13:33 2002] You GMSAY, 'wonderful news'
+[Tue Apr 02 10:13:57 2002] You GMSAY, 'zone'
+[Tue Apr 02 10:14:01 2002] LOADING, PLEASE WAIT...
+[Tue Apr 02 10:14:18 2002] You have entered Gorge of King Xorbb.
+[Tue Apr 02 10:14:18 2002] Espranza saved.
+[Tue Apr 02 10:14:59 2002] Players on EverQuest:
+[Tue Apr 02 10:14:59 2002] ---------------------------
+[Tue Apr 02 10:14:59 2002] [16 Cleric] Dionket (High Elf)
+[Tue Apr 02 10:14:59 2002] [30 Druid] Mistystorm (Wood Elf) <Clan of Zoit>
+[Tue Apr 02 10:14:59 2002] <LINKDEAD>[ANONYMOUS] Ramiana  <Mystical Lightfighters>
+[Tue Apr 02 10:14:59 2002] * GM * [55 Blackguard] Espranza (Halfling) <Keepers of Dreams>
+[Tue Apr 02 10:14:59 2002] There are 4 players in Gorge of King Xorbb.
+[Tue Apr 02 10:15:16 2002] a chasm minotaur bashes Dionket for 1 point of damage.
+[Tue Apr 02 10:15:16 2002] a chasm minotaur slashes Dionket for 11 points of damage.
+[Tue Apr 02 10:15:19 2002] a chasm minotaur slashes Dionket for 11 points of damage.
+[Tue Apr 02 10:15:20 2002] Dionket crushes a chasm minotaur for 8 points of damage.
+[Tue Apr 02 10:15:20 2002] Cazza GMSAYS, 'zoning again'
+[Tue Apr 02 10:15:21 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 02 10:15:21 2002] USER TEXT: i just had a friend magician summon me some focus items it says i can equip and i m of the right lvl but i cant wear it
+[Tue Apr 02 10:15:22 2002] Players in EverQuest:
+[Tue Apr 02 10:15:22 2002] ---------------------------
+[Tue Apr 02 10:15:22 2002] [54 Heretic] Tinlain (Dark Elf) <United Guardians> ZONE: greatdivide (USER PID BXP50M1)
+[Tue Apr 02 10:15:22 2002] There is 1 player in EverQuest.
+[Tue Apr 02 10:15:56 2002] You GMSAY, 'heretic - shadow knight or necromancer? necro right?'
+[Tue Apr 02 10:16:07 2002] You GMSAY, 'nm, necro'
+[Tue Apr 02 10:16:22 2002] Cazza GMSAYS, 'sorry yes necro heh'
+[Tue Apr 02 10:16:35 2002] Cazza GMSAYS, 'we stopped at the dock in oot, thats always a good sign heh'
+[Tue Apr 02 10:17:28 2002] You told Tinlain, 'Hail, Tinlain! Senior Guide Espranza here. Which focus items were these?'
+[Tue Apr 02 10:17:42 2002] Cazza GMSAYS, 'zoning soon'

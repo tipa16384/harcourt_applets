@@ -1,0 +1,406 @@
+[Thu Apr 12 02:46:01 2001] Welcome to EverQuest!
+[Thu Apr 12 02:46:01 2001] You have entered Sunset Home.
+[Thu Apr 12 02:46:06 2001] GUILD MOTD: Kezia - Garrettlynn is now in charge of cleaning the Guano harvesters cave. =) Congratulations Garett!
+[Thu Apr 12 02:46:23 2001] Players in EverQuest:
+[Thu Apr 12 02:46:23 2001] ---------------------------
+[Thu Apr 12 02:46:23 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AS7083F)
+[Thu Apr 12 02:46:23 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu Apr 12 02:46:23 2001] * Guide *[ANON (50 Enchanter)] Kaweewee (High Elf) ZONE: sro (USER PID AUUWCLQ)
+[Thu Apr 12 02:46:23 2001] There are 3 players in EverQuest.
+[Thu Apr 12 02:46:27 2001] You GMSAY, 'hello!'
+[Thu Apr 12 02:46:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Apr 12 02:46:37 2001] USER TEXT: i just got killed by an invis giant in warslick woods
+[Thu Apr 12 02:46:38 2001] Players in EverQuest:
+[Thu Apr 12 02:46:38 2001] ---------------------------
+[Thu Apr 12 02:46:38 2001] [ANON (29 Shadow Knight)] Zaganon (Troll) ZONE: overthere (USER PID ANRNAD5)
+[Thu Apr 12 02:46:38 2001] There is 1 player in EverQuest.
+[Thu Apr 12 02:46:40 2001] Kaweewee GMSAYS, 'heya, damn i have an issue in sro'
+[Thu Apr 12 02:46:46 2001] You GMSAY, 'oh?'
+[Thu Apr 12 02:46:55 2001] Kaweewee GMSAYS, 'ks issue'
+[Thu Apr 12 02:47:03 2001] You GMSAY, 'okay I'll handle the other pet'
+[Thu Apr 12 02:47:26 2001] You told Zaganon, 'Hail, Zaganon! Guide Espranza here. Can you recall the exact name of the giant that killed you?'
+[Thu Apr 12 02:47:27 2001] Kaweewee GMSAYS, 'guy told me he really wants the ac ring and he will ks if he has to'
+[Thu Apr 12 02:47:35 2001] Zaganon tells you, 'an evergreen'
+[Thu Apr 12 02:47:37 2001] You GMSAY, 'He told you this?'
+[Thu Apr 12 02:47:42 2001] Kaweewee GMSAYS, 'yes'
+[Thu Apr 12 02:47:42 2001] Zaganon tells you, 'forrest giant evergreen'
+[Thu Apr 12 02:47:47 2001] You told Zaganon, 'okay, let me check it out.'
+[Thu Apr 12 02:47:58 2001] You GMSAY, 'zone'
+[Thu Apr 12 02:48:06 2001] USER TEXT: i just got killed by an invis giant in warslick woods
+[Thu Apr 12 02:48:12 2001] ERROR: Couldn't get safe coords for warslick, unable to zone.
+
+[Thu Apr 12 02:48:14 2001] ERROR: Couldn't get safe coords for warslik, unable to zone.
+
+[Thu Apr 12 02:48:18 2001] LOADING, PLEASE WAIT...
+[Thu Apr 12 02:48:56 2001] You have entered Warslilks Woods.
+[Thu Apr 12 02:49:09 2001] Searching for a_forest_giant_evergreen00.
+[Thu Apr 12 02:49:09 2001] Player is in zone warslikswood at x = 1110 y = 1557 z = 0.
+[Thu Apr 12 02:49:11 2001] Teleporting to a_forest_giant_evergreen00 (1110.00, 1557.00,   0.30).
+[Thu Apr 12 02:49:22 2001] Teleporting to a_forest_giant_evergreen01.
+[Thu Apr 12 02:49:25 2001] Teleporting to a_forest_giant_evergreen02.
+[Thu Apr 12 02:49:27 2001] Teleporting to a_forest_giant_evergreen03.
+[Thu Apr 12 02:49:30 2001] Teleporting to a_forest_giant_evergreen04.
+[Thu Apr 12 02:49:32 2001] Teleporting to a_forest_giant_evergreen05.
+[Thu Apr 12 02:49:35 2001] Teleporting to a_forest_giant_evergreen06.
+[Thu Apr 12 02:49:37 2001] Teleporting to a_forest_giant_evergreen07.
+[Thu Apr 12 02:49:41 2001] Teleporting to a_forest_giant_evergreen07.
+[Thu Apr 12 02:49:42 2001] Kaweewee GMSAYS, 'that is the yellow pet'
+[Thu Apr 12 02:49:45 2001] Teleporting to a_forest_giant_evergreen08.
+[Thu Apr 12 02:49:48 2001] Teleporting to a_forest_giant_evergreen09.
+[Thu Apr 12 02:49:51 2001] Teleporting to a_forest_giant_evergreen10.
+[Thu Apr 12 02:49:57 2001] You GMSAY, 'sounds lovely.'
+[Thu Apr 12 02:50:06 2001] You GMSAY, 'what are you doing about it?'
+[Thu Apr 12 02:50:12 2001] Searching zones for corpse of that name....
+[Thu Apr 12 02:50:12 2001] Corpse: Zaganon's corpse0 in zone: warslikswood
+[Thu Apr 12 02:50:14 2001] Kaweewee GMSAYS, 'watching him'
+[Thu Apr 12 02:50:18 2001] Teleporting to Zaganon's corpse0.
+[Thu Apr 12 02:50:32 2001] You GMSAY, 'that could take hours'
+[Thu Apr 12 02:50:36 2001] Kaweewee GMSAYS, 'i know'
+[Thu Apr 12 02:50:53 2001] Kaweewee GMSAYS, 'no pets up'
+[Thu Apr 12 02:51:13 2001] You say, 'Have you seen or felt any invisible giants?'
+[Thu Apr 12 02:51:18 2001] Players on EverQuest:
+[Thu Apr 12 02:51:18 2001] ---------------------------
+[Thu Apr 12 02:51:18 2001] [ANONYMOUS] Zildrax 
+[Thu Apr 12 02:51:18 2001] [35 Shaman] Wororf (Barbarian)
+[Thu Apr 12 02:51:18 2001] [38 Monk] Klubber (Human)
+[Thu Apr 12 02:51:18 2001] [35 Druid] Dokkin (Unknown) <  Protectors of the Unknown  >
+[Thu Apr 12 02:51:18 2001] [26 Ranger] Syleste (Wood Elf) <  Protectors of the Unknown  >
+[Thu Apr 12 02:51:18 2001] [ANONYMOUS] Jinaz  <Power of Peace>
+[Thu Apr 12 02:51:18 2001] [ANONYMOUS] Noodlecook 
+[Thu Apr 12 02:51:18 2001] * GM * [50 Rogue] Espranza (Halfling) <Keepers of Morell Thule>
+[Thu Apr 12 02:51:18 2001] There are 8 players in Warsliks Wood.
+[Thu Apr 12 02:51:21 2001] Dokkin says, 'no'
+[Thu Apr 12 02:51:22 2001] Syleste says, 'nope...'
+[Thu Apr 12 02:51:27 2001] You say, 'hmmm'
+[Thu Apr 12 02:51:31 2001] You say, 'thanks'
+[Thu Apr 12 02:51:44 2001] Players in EverQuest:
+[Thu Apr 12 02:51:44 2001] ---------------------------
+[Thu Apr 12 02:51:44 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: warslikswood (USER PID AUGBQH4)
+[Thu Apr 12 02:51:44 2001] * Guide *[ANON (50 Enchanter)] Kaweewee (High Elf) ZONE: sro (USER PID AUUWCLQ)
+[Thu Apr 12 02:51:44 2001] There are 2 players in EverQuest.
+[Thu Apr 12 02:52:29 2001] Zaganon tells you, 'ne word sorry for botherin u im just really pissed'
+[Thu Apr 12 02:52:53 2001] You told Zaganon, 'Hail, Zaganon! Guide Espranza again. I can't find any invisible forest giant evergreens; my best guess is that one attacked you from within the fort and you just couldn't see it because of the wall...'
+[Thu Apr 12 02:53:06 2001] You told Zaganon, 'Yeah, I would be, too. Happens to me a lot.'
+[Thu Apr 12 02:53:07 2001] Zaganon tells you, 'i wasnt ne where near fort'
+[Thu Apr 12 02:53:20 2001] You told Zaganon, 'Your body is right outside of it'
+[Thu Apr 12 02:53:30 2001] You feel the spirit of Norrath enter you.
+[Thu Apr 12 02:53:31 2001] Your feet leave the ground.
+[Thu Apr 12 02:53:39 2001] Zaganon tells you, 'i was up near iksar city i got ported there after zonin fromdalnir'
+[Thu Apr 12 02:53:56 2001] Zaganon tells you, 'which is another prob'
+[Thu Apr 12 02:54:22 2001] You told Zaganon, 'You zoned out of Dalnir, ended up near the Iksar city, and then a giant started attacking you?'
+[Thu Apr 12 02:54:32 2001] Zaganon tells you, 'exactly what im sayin'
+[Thu Apr 12 02:54:39 2001] Zaganon tells you, 'an invisible giants '
+[Thu Apr 12 02:54:44 2001] Zaganon tells you, 'giant sorry'
+[Thu Apr 12 02:55:00 2001] You told Zaganon, 'I checked out all the giants in the area and they're all visible...'
+[Thu Apr 12 02:55:06 2001] Zaganon tells you, 'cause when i tried to fear it it said target to far away and kept hittin me'
+[Thu Apr 12 02:55:09 2001] You told Zaganon, 'The group here hasn't seen any either'
+[Thu Apr 12 02:55:16 2001] Zaganon tells you, 'what group?'
+[Thu Apr 12 02:55:38 2001] You told Zaganon, 'couple of people inside the fort'
+[Thu Apr 12 02:55:53 2001] Zaganon tells you, 'let me explain again i wasnt near fort '
+[Thu Apr 12 02:56:17 2001] You told Zaganon, 'did you go link dead?'
+[Thu Apr 12 02:56:23 2001] Zaganon tells you, 'yes after dieng'
+[Thu Apr 12 02:56:53 2001] Players in EverQuest:
+[Thu Apr 12 02:56:53 2001] ---------------------------
+[Thu Apr 12 02:56:53 2001] [ANON (29 Shadow Knight)] Zaganon (Troll) ZONE: overthere (USER PID ANRNAD5)
+[Thu Apr 12 02:56:53 2001] There is 1 player in EverQuest.
+[Thu Apr 12 02:57:00 2001] Kaweewee GMSAYS, 'hehe the ks guy died'
+[Thu Apr 12 02:57:12 2001] Zaganon tells you, 'this is bullshit 2nd time this has happened i dont know why i still play this game'
+[Thu Apr 12 02:57:22 2001] You told Zaganon, 'I'm sorry....'
+[Thu Apr 12 02:57:25 2001] Zaganon tells you, 'they helped me last time though'
+[Thu Apr 12 02:57:41 2001] You told Zaganon, 'I would love to help, I'm looking all over to find evidence of the bug'
+[Thu Apr 12 02:57:42 2001] <SYSTEMWIDE MESSAGE>: Delanus : West Karana and North Karana will be coming down in 5 minutes on all servers for a quick update. Downtime is estimated at 15 minutes.
+[Thu Apr 12 02:57:50 2001] <SYSTEMWIDE MESSAGE>: Delanus : West Karana and North Karana will be coming down in 5 minutes on all servers for a quick update. Downtime is estimated at 15 minutes.
+[Thu Apr 12 02:57:52 2001] <SYSTEMWIDE MESSAGE>: Delanus : West Karana and North Karana will be coming down in 5 minutes on all servers for a quick update. Downtime is estimated at 15 minutes.
+[Thu Apr 12 02:58:10 2001] You GMSAY, 'can we hear that one more time, Delanus?'
+[Thu Apr 12 02:58:10 2001] Stealy tells you, 'hello--can i ask a question?'
+[Thu Apr 12 02:58:11 2001] Kaweewee GMSAYS, '/petiton delanus is spamming the zone'
+[Thu Apr 12 02:58:13 2001] Zaganon tells you, 'bug go away when i went ld maybe u think'
+[Thu Apr 12 02:58:48 2001] You told Zaganon, 'no clue... wish I could help.'
+[Thu Apr 12 02:58:58 2001] You told Stealy, 'please petition and I would be more than glad to.'
+[Thu Apr 12 02:59:06 2001] Zaganon tells you, 'so ur sayin u cant help after i get ported halfway across zone and die?'
+[Thu Apr 12 02:59:18 2001] Espranza saved.
+[Thu Apr 12 02:59:23 2001] Zaganon tells you, 'i was groupin in dalnir ask my group how the hell i got over there?'
+[Thu Apr 12 02:59:29 2001] You told Zaganon, 'I can't rez unless I can verify the bug'
+[Thu Apr 12 02:59:45 2001] DELETING THIS PETITION
+[Thu Apr 12 02:59:46 2001] Stealy tells you, 'i was just wondering a simple thing--i have a tombcarver and a walrus tooth--which one should i put in my primary hand--i am a 16 rogue'
+[Thu Apr 12 03:00:08 2001] Zaganon tells you, 'well i hope u find it because im cancellin my account if i dont get a rez loosin a yellow bub almost and i was in 30 and lost my lvl'
+[Thu Apr 12 03:00:18 2001] It begins to rain.
+[Thu Apr 12 03:00:24 2001] Zaganon tells you, 'and it wasnt my fault that ticks me off'
+[Thu Apr 12 03:00:31 2001] You told Stealy, 'heh... well... I'm not really supposed to answer those sorts of questions. Try them out both ways and see which works better for you.'
+[Thu Apr 12 03:01:11 2001] Zaganon tells you, 'even if i should get a res because i shouldnt have ported ne where near the fort even if that where u saw me'
+[Thu Apr 12 03:01:14 2001] You told Zaganon, 'I wish I could help, and if I could verify the bug - like finding that giant - no problem.'
+[Thu Apr 12 03:01:34 2001] You GMSAY, 'petition stealer'
+[Thu Apr 12 03:01:37 2001] Zaganon tells you, 'because i zoned out of dalnir and fort is long place from dalnir'
+[Thu Apr 12 03:01:43 2001] Kaweewee GMSAYS, 'take it'
+[Thu Apr 12 03:01:50 2001] You GMSAY, 'oh THAT kind, huh?'
+[Thu Apr 12 03:01:51 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Apr 12 03:01:52 2001] USER TEXT: hello, i am doing a quest with the royal fish, in lake rath, i am suppose to give it some food and it shoud turn into princes lenia, she spoke but could never find her, could you give me a hand please, thanks
+[Thu Apr 12 03:01:52 2001] Players in EverQuest:
+[Thu Apr 12 03:01:52 2001] ---------------------------
+[Thu Apr 12 03:01:52 2001] [40 Paladin] Dinu (Dwarf) <Call Of Destiny> ZONE: lakerathe (USER PID AN4L0LP)
+[Thu Apr 12 03:01:52 2001] There is 1 player in EverQuest.
+[Thu Apr 12 03:01:53 2001] Kaweewee GMSAYS, 'sucka'
+[Thu Apr 12 03:02:03 2001] Zaganon tells you, 'so what happens if giant de popped or went away after i died or ld?'
+[Thu Apr 12 03:02:17 2001] Kaweewee GMSAYS, 'i have that same pet from different player 9874 times'
+[Thu Apr 12 03:02:25 2001] You GMSAY, 'sigh'
+[Thu Apr 12 03:02:44 2001] Zaganon tells you, 'then u gonna get no evidence and im screwed is what ur sayin'
+[Thu Apr 12 03:03:02 2001] You told Zaganon, 'I don't know. Maybe that's what happened. But I can't rez unless I can verify the bug based on what I can find out by looking around.'
+[Thu Apr 12 03:03:24 2001] Zaganon tells you, 'trust me i wouldnt be here bitchin with u if i wasnt tellin truth'
+[Thu Apr 12 03:03:32 2001] Zaganon tells you, 'ok let me ask u something then'
+[Thu Apr 12 03:03:34 2001] You GMSAY, 'I should get a rez because this happened to me before and I got a rez then.'
+[Thu Apr 12 03:03:50 2001] USER TEXT: hello, i am doing a quest with the royal fish, in lake rath, i am suppose to give it some food and it shoud turn into princes lenia, she spoke but could never find her, could you give me a hand please, thanks
+[Thu Apr 12 03:03:55 2001] You told Zaganon, 'ok'
+[Thu Apr 12 03:04:02 2001] Klubber says out of character, 'anyone want to buy iksar scaled gloves for 50pp'
+[Thu Apr 12 03:04:10 2001] Kaweewee GMSAYS, 'hahahahahahaha when monkeys fly outta my butt, that happenned once before too, dang it hurt'
+[Thu Apr 12 03:04:15 2001] Zaganon tells you, 'if i zone out of dalnir and go ne where besides outside dalnir zone shouldnt i get a res ne ways ?'
+[Thu Apr 12 03:04:31 2001] Zaganon tells you, 'specially gettin killed by a giant thats invis'
+[Thu Apr 12 03:04:49 2001] You told Zaganon, 'sometimes people zone out of dungeons and fall for 10K damage in a very special spot in the zone'
+[Thu Apr 12 03:04:54 2001] You told Zaganon, 'we rez for that'
+[Thu Apr 12 03:05:11 2001] You told Zaganon, 'but that's not where your body was'
+[Thu Apr 12 03:05:18 2001] Zaganon tells you, 'look 2nd time ive zoned from dalnir and went to that spot'
+[Thu Apr 12 03:05:29 2001] Teleporting to zaganon's corpse0.
+[Thu Apr 12 03:05:32 2001] Zaganon tells you, 'i can even show u the damn exact spot i zoned too'
+[Thu Apr 12 03:05:33 2001] Your Location is -1226.00, 628.00, -4.95
+[Thu Apr 12 03:05:38 2001] You told Zaganon, 'wait...'
+[Thu Apr 12 03:05:40 2001] You can no longer levitate.
+[Thu Apr 12 03:05:50 2001] You told Zaganon, 'okay I found proof'
+[Thu Apr 12 03:05:55 2001] Kaweewee GMSAYS, 'and on that note kaweewee must sleep'
+[Thu Apr 12 03:06:00 2001] Zaganon tells you, 'what u find?'
+[Thu Apr 12 03:06:06 2001] You told Zaganon, 'that I can't tell you'
+[Thu Apr 12 03:06:20 2001] Zaganon tells you, 'no matter i told u i wasnt lying'
+[Thu Apr 12 03:06:21 2001] You told Zaganon, 'tis a secret :)'
+[Thu Apr 12 03:06:27 2001] You told Zaganon, 'I never said you were'
+[Thu Apr 12 03:06:34 2001] You told Zaganon, 'I just have to find proof, that's all'
+[Thu Apr 12 03:06:39 2001] Zaganon tells you, 'that is bs though they need to fix that'
+[Thu Apr 12 03:06:50 2001] Zaganon tells you, 'sorry im calming down now'
+[Thu Apr 12 03:07:03 2001] You told Zaganon, 'take a deep breath and press the little rezzy burron'
+[Thu Apr 12 03:07:42 2001] You GMSAY, '<note bug> Petitioner zoned out of Dalnir and died far from the zone - corpse was at xx.00 xx.00 so he got the rez.'
+[Thu Apr 12 03:08:20 2001] Zaganon says, 'how the hell'
+[Thu Apr 12 03:08:22 2001] Players in EverQuest:
+[Thu Apr 12 03:08:22 2001] ---------------------------
+[Thu Apr 12 03:08:22 2001] [ANON (30 Shadow Knight)] Zaganon (Troll) ZONE: warslikswood (USER PID ANRNAD5)
+[Thu Apr 12 03:08:22 2001] There is 1 player in EverQuest.
+[Thu Apr 12 03:08:30 2001] You say, 'that's where you ended up'
+[Thu Apr 12 03:08:31 2001] Zaganon says, 'im way over here'
+[Thu Apr 12 03:08:41 2001] Zaganon says, 'after i loot ill show u where i was'
+[Thu Apr 12 03:08:58 2001] You GMSAY, '<note badname> Zaganon Pimpreaper (ANRNAD5)'
+[Thu Apr 12 03:09:12 2001] USER TEXT: hello, i am doing a quest with the royal fish, in lake rath, i am suppose to give it some food and it shoud turn into princes lenia, she spoke but could never find her, could you give me a hand please, thanks
+[Thu Apr 12 03:09:52 2001] Espranza saved.
+[Thu Apr 12 03:10:00 2001] Players in EverQuest:
+[Thu Apr 12 03:10:00 2001] ---------------------------
+[Thu Apr 12 03:10:00 2001] There are no players in EverQuest that match those who filters.
+[Thu Apr 12 03:10:03 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu Apr 12 03:10:04 2001] CHECKING IN
+[Thu Apr 12 03:10:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Apr 12 03:10:18 2001] USER TEXT: hello, i am doing a quest with the royal fish, in lake rath, i am suppose to give it some food and it shoud turn into princes lenia, she spoke but could never find her, could you give me a hand please, thanks
+[Thu Apr 12 03:10:18 2001] Players in EverQuest:
+[Thu Apr 12 03:10:18 2001] ---------------------------
+[Thu Apr 12 03:10:18 2001] There are no players in EverQuest that match those who filters.
+[Thu Apr 12 03:10:22 2001] UNDOING CHECK OUT
+[Thu Apr 12 03:10:41 2001] A forest giant evergreen blinks a few times.
+[Thu Apr 12 03:10:41 2001] You can't use that command right now...
+[Thu Apr 12 03:10:41 2001] A forest giant evergreen blinks a few times.
+[Thu Apr 12 03:10:42 2001] A forest giant evergreen blinks a few times.
+[Thu Apr 12 03:10:44 2001] A forest giant evergreen blinks a few times.
+[Thu Apr 12 03:10:44 2001] A forest giant evergreen blinks a few times.
+[Thu Apr 12 03:10:45 2001] A forest giant evergreen blinks a few times.
+[Thu Apr 12 03:10:45 2001] A forest giant evergreen blinks a few times.
+[Thu Apr 12 03:10:45 2001] A forest giant evergreen blinks a few times.
+[Thu Apr 12 03:10:56 2001] Zaganon tells you, '?'
+[Thu Apr 12 03:11:14 2001] You told Zaganon, 'he suddenly forgot all about you'
+[Thu Apr 12 03:11:34 2001] Zaganon tells you, 'wierd stuff all the time'
+[Thu Apr 12 03:11:39 2001] Zaganon tells you, 'wanna see spot?'
+[Thu Apr 12 03:12:05 2001] You told Zaganon, 'actually, I have to get back to other petitions.'
+[Thu Apr 12 03:12:08 2001] You told Zaganon, 'be well!'
+[Thu Apr 12 03:12:14 2001] You GMSAY, 'zone'
+[Thu Apr 12 03:12:15 2001] Zaganon tells you, 'oh ok thanks for ur help'
+[Thu Apr 12 03:12:20 2001] You told Zaganon, 'any time!'
+[Thu Apr 12 03:12:24 2001] LOADING, PLEASE WAIT...
+[Thu Apr 12 03:12:43 2001] You have entered Sunset Home.
+[Thu Apr 12 03:14:56 2001] You no longer have a target.
+[Thu Apr 12 03:15:41 2001] You GMSAY, '<note> this is a note'
+[Thu Apr 12 03:15:48 2001] You GMSAY, '<note bug> this is a bug'
+[Thu Apr 12 03:15:58 2001] You GMSAY, '<note issue> this is an issue'
+[Thu Apr 12 03:16:10 2001] You GMSAY, '<note wedding> this is a wedding announcement'
+[Thu Apr 12 03:16:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Apr 12 03:16:20 2001] USER TEXT: I was zoning into Hole from paineel, i went LD when zoning, i reran my patch and optional patch because i couldnt log in for some reason. when i did finally get back on i am in a padded white room, 4 walls, cant get out. I am in HOLE. i cant get
+[Thu Apr 12 03:16:20 2001] Players in EverQuest:
+[Thu Apr 12 03:16:20 2001] ---------------------------
+[Thu Apr 12 03:16:20 2001] [51 Wanderer] Emiliee (Human) <Protectors of Lore> ZONE: hole (USER PID AYNZ41H)
+[Thu Apr 12 03:16:20 2001] There is 1 player in EverQuest.
+[Thu Apr 12 03:16:53 2001] You told Emiliee, 'Hail, Emiliee! Guide Espranza here. Let me see if I can get you out of there!'
+[Thu Apr 12 03:16:56 2001] You GMSAY, 'zone'
+[Thu Apr 12 03:16:59 2001] Emiliee tells you, 'love ya!'
+[Thu Apr 12 03:17:04 2001] Teleporting to emiliee.
+[Thu Apr 12 03:17:04 2001] LOADING, PLEASE WAIT...
+[Thu Apr 12 03:17:32 2001] Emiliee says out of character, 'GM helping me now'
+[Thu Apr 12 03:17:32 2001] Emiliee says out of character, 'stuck in a paddd room'
+[Thu Apr 12 03:17:34 2001] You have entered The Hole.
+[Thu Apr 12 03:17:41 2001] Emiliee says out of character, '4 white walls no exit'
+[Thu Apr 12 03:17:50 2001] You say, 'This looks like an art gallery'
+[Thu Apr 12 03:17:52 2001] Emiliee says out of character, 'have i done something bad? lol'
+[Thu Apr 12 03:17:54 2001] an elemental wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Thu Apr 12 03:18:01 2001] Emiliee bows before Espranza.
+[Thu Apr 12 03:18:04 2001] You wave at Emiliee.
+[Thu Apr 12 03:18:11 2001] an elemental wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Thu Apr 12 03:18:14 2001] You say, 'Well... let's see what I can do...'
+[Thu Apr 12 03:18:16 2001] You GMSAY, 'zone'
+[Thu Apr 12 03:18:18 2001] Emiliee says, 'haqs this happened before?'
+[Thu Apr 12 03:18:20 2001] LOADING, PLEASE WAIT...
+[Thu Apr 12 03:18:46 2001] You have entered Paineel.
+[Thu Apr 12 03:19:03 2001] You told Emiliee, 'I'll get you out, but you could just have teleported you know'
+[Thu Apr 12 03:19:26 2001] Emiliee tells you, 'DOH!'
+[Thu Apr 12 03:19:48 2001] Emiliee tells you, 'i feel stupid now lol'
+[Thu Apr 12 03:19:50 2001] You told Emiliee, 'okay, here ya go'
+[Thu Apr 12 03:19:54 2001] Emiliee tells you, 'yay'
+[Thu Apr 12 03:19:54 2001] Summoning Emiliee.
+[Thu Apr 12 03:20:32 2001] Emiliee tells you, 'thank you very much =)'
+[Thu Apr 12 03:20:42 2001] Emiliee kneels before Espranza in humility and reverence.
+[Thu Apr 12 03:20:43 2001] You GMSAY, '<note bug> Petitioner was zoning out of the Hole and ended up in the programmer room.'
+[Thu Apr 12 03:20:46 2001] You bow before Emiliee.
+[Thu Apr 12 03:20:48 2001] You say, 'be well!'
+[Thu Apr 12 03:20:50 2001] DELETING THIS PETITION
+[Thu Apr 12 03:20:52 2001] Emiliee says, 'thx =)'
+[Thu Apr 12 03:20:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Apr 12 03:20:53 2001] USER TEXT: i went ld and then died afterwards...and took a killer exp loss... and was about to level .....can anything be don or is it tough luck
+[Thu Apr 12 03:20:53 2001] Players in EverQuest:
+[Thu Apr 12 03:20:53 2001] ---------------------------
+[Thu Apr 12 03:20:53 2001] [27 Monk] Stromfist (Human) <Nature's Fury> ZONE: lakeofillomen (USER PID AQH67Q7)
+[Thu Apr 12 03:20:53 2001] There is 1 player in EverQuest.
+[Thu Apr 12 03:21:00 2001] You wave goodbye to Emiliee.
+[Thu Apr 12 03:21:01 2001] Emiliee waves goodbye to Espranza.
+[Thu Apr 12 03:21:02 2001] You GMSAY, 'zone'
+[Thu Apr 12 03:21:07 2001] Searching zones for corpse of that name....
+[Thu Apr 12 03:21:23 2001] You GMSAY, 'okay, no zone'
+[Thu Apr 12 03:21:41 2001] Searching zones for corpse of that name....
+[Thu Apr 12 03:22:54 2001] You told Stromfist, 'Hail, Stromfist! Guide Espranza here. I cannot rez for deaths caused by lag or link death - but beyond that, I can't rez without a corpse, and I cannot find yours. Have you looted it already?'
+[Thu Apr 12 03:22:56 2001] DELETING THIS PETITION
+[Thu Apr 12 03:22:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Apr 12 03:23:00 2001] USER TEXT: Hello! i petition last evening about the wedding between me and sarerin. That we wish get married! never get any repley on that because i went ld short after i petition.
+[Thu Apr 12 03:23:00 2001] Players in EverQuest:
+[Thu Apr 12 03:23:00 2001] ---------------------------
+[Thu Apr 12 03:23:00 2001] [45 Warrior] Sorrin (Barbarian) <Legions of Valhalla> ZONE: gfaydark (USER PID AYVLKQK)
+[Thu Apr 12 03:23:00 2001] There is 1 player in EverQuest.
+[Thu Apr 12 03:23:27 2001] You told Sorrin, 'Hail, Sorrin! Guide Espranza here. When would you like to get married?'
+[Thu Apr 12 03:23:36 2001] Players in EverQuest:
+[Thu Apr 12 03:23:36 2001] ---------------------------
+[Thu Apr 12 03:23:36 2001] There are no players in EverQuest that match those who filters.
+[Thu Apr 12 03:24:06 2001] Stromfist tells you, 'yes looted already..almost couldnt find it...nowhere near where i was when i went ld...and the thing was i was just standing when i went ld'
+[Thu Apr 12 03:24:17 2001] Stromfist tells you, 'wasnt fighting or anyhting'
+[Thu Apr 12 03:24:28 2001] You told Stromfist, 'was it in a safe area?'
+[Thu Apr 12 03:24:50 2001] Stromfist tells you, 'no in sarnak fort with my group...noone else died'
+[Thu Apr 12 03:25:16 2001] You told Stromfist, 'did your group notice you fighting after you went LD?'
+[Thu Apr 12 03:25:17 2001] You can't reach that, get closer.
+[Thu Apr 12 03:25:20 2001] You opened the locked door with your magic GM key.
+[Thu Apr 12 03:25:39 2001] Stromfist tells you, 'they said they noticed me back there..where they were before i went ld'
+[Thu Apr 12 03:25:54 2001] Stromfist tells you, 'but not fighting'
+[Thu Apr 12 03:26:13 2001] You told Stromfist, 'odd... well, I'll note it in my shift report. Thank you for letting me know!'
+[Thu Apr 12 03:26:21 2001] Stromfist tells you, 'oh ok'
+[Thu Apr 12 03:26:49 2001] Stromfist tells you, 'sorry i just thought id petition it was real disapointing..being abotu to level then going ld and dying..thnaks for ur time'
+[Thu Apr 12 03:27:16 2001] You GMSAY, '<note bug> Person went LD in the Sarnak fortress in the Lake of Ill Omen - when he got back, he was dead and his corpse was far from there. The group he was in says he wasn't fighting or walking around while LD.'
+[Thu Apr 12 03:27:29 2001] You told Stromfist, 'Anytime. I'm sorry about your death.'
+[Thu Apr 12 03:27:31 2001] DELETING THIS PETITION
+[Thu Apr 12 03:27:32 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Apr 12 03:27:33 2001] USER TEXT: Heya, Just gave my Jade Reaver to Kinlo Strongarm for my epic quest, and Ruin it, please help
+[Thu Apr 12 03:27:33 2001] Players in EverQuest:
+[Thu Apr 12 03:27:33 2001] ---------------------------
+[Thu Apr 12 03:27:33 2001] [ANON (51 Wanderer)] Gath (Halfling) ZONE: citymist (USER PID ARV4L69)
+[Thu Apr 12 03:27:33 2001] There is 1 player in EverQuest.
+[Thu Apr 12 03:28:52 2001] You told Gath, 'Hail, Gath! Guide Espranza here! What happened when you gave the Jade Reaver to Kinlo?'
+[Thu Apr 12 03:29:13 2001] Espranza saved.
+[Thu Apr 12 03:29:21 2001] Gath tells you, 'attacked me and killed me'
+[Thu Apr 12 03:29:36 2001] You told Gath, 'did you get the epic bit?'
+[Thu Apr 12 03:30:10 2001] Searching zones for corpse of that name....
+[Thu Apr 12 03:30:11 2001] Corpse: Gath's corpse0 in zone: kaladimb
+[Thu Apr 12 03:30:24 2001] Gath tells you, 'all the guys I ask like Cros Level 60, prodo who got the epic and Ibbunny tell me I can do it even If I am threateningly, I did it, and I lose the Jade Reaver.'
+[Thu Apr 12 03:31:03 2001] You told Gath, 'perhaps you'll find the item you were supposed to get back on your corpse'
+[Thu Apr 12 03:31:13 2001] The spirit leaves you.
+[Thu Apr 12 03:31:17 2001] Gath tells you, 'nop'
+[Thu Apr 12 03:31:33 2001] Gath tells you, 'he said I dont like to help being like you'
+[Thu Apr 12 03:31:51 2001] You told Gath, 'were you invisible or sneaking?'
+[Thu Apr 12 03:32:00 2001] Gath tells you, 'its over now I had the luck to get a Jade Reaver I'll not have another one'
+[Thu Apr 12 03:32:13 2001] Gath tells you, 'visible without sneak'
+[Thu Apr 12 03:33:01 2001] You told Gath, 'You'll have to petition GM Lirus Thursday through Monday from 4pm to 11pm Pacific time to see if he can help.'
+[Thu Apr 12 03:33:49 2001] You told Gath, 'However, usually quests can't be done if you're KOS to the quest giver'
+[Thu Apr 12 03:35:56 2001] Gath tells you, 'some player did it with same faction I have, and it works, I only have trouble with faction Kaladim Merchant and Keepers of the Art for some error I made after Epic was on, its really a shame to make faction related npc on epic quest.'
+[Thu Apr 12 03:36:16 2001] You GMSAY, '<note gm> Gath (ARV4L69) tried to do part of the druid epic in Kaladim, where he is KOS - and was killed and lost the rare item (jade reaver) he was to turn in. I told him to petition during your hours.'
+[Thu Apr 12 03:36:23 2001] Gath tells you, 'I didnt blame you and dont want to be annoying but this time I guess I'll forget about epic.'
+[Thu Apr 12 03:36:49 2001] You told Gath, 'The jade reavers can be gotten without too much trouble'
+[Thu Apr 12 03:36:59 2001] You told Gath, 'I wouldn't give up on that account'
+[Thu Apr 12 03:37:07 2001] You have entered an Arena (PvP) area.
+[Thu Apr 12 03:37:07 2001] You have entered an Arena (PvP) area.
+[Thu Apr 12 03:37:21 2001] Gath tells you, 'Black Reaver are tought, need strong group and its really rare drop'
+[Thu Apr 12 03:38:03 2001] You told Gath, 'But not impossible. Just gather your friends and keep going there until you get another.'
+[Thu Apr 12 03:38:04 2001] Shevra Kollintar begins to cast a spell. (Banshee Aura)
+[Thu Apr 12 03:38:04 2001] Davorre Bloodthorn begins to cast a spell. (Banshee Aura)
+[Thu Apr 12 03:38:04 2001] Mandaril Dark Knife begins to cast a spell. (Banshee Aura)
+[Thu Apr 12 03:39:18 2001] Gath tells you, 'ty anyway for trying to help, I'll try to catch Lirus later but for now I, done, cya.'
+[Thu Apr 12 03:39:40 2001] You told Gath, 'Be well... I'm sorry about this. I hope it goes better for you in the future.'
+[Thu Apr 12 03:39:42 2001] DELETING THIS PETITION
+[Thu Apr 12 03:39:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Apr 12 03:39:43 2001] USER TEXT: hello, i am doing a quest with the royal fish, in lake rath, i am suppose to give it some food and it shoud turn into princes lenia, she spoke but could never find her, could you give me a hand please, thanks
+[Thu Apr 12 03:39:44 2001] Players in EverQuest:
+[Thu Apr 12 03:39:44 2001] ---------------------------
+[Thu Apr 12 03:39:44 2001] There are no players in EverQuest that match those who filters.
+[Thu Apr 12 03:39:45 2001] Espranza saved.
+[Thu Apr 12 03:39:48 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu Apr 12 03:39:49 2001] CHECKING IN
+[Thu Apr 12 03:41:08 2001] You GMSAY, 'zone'
+[Thu Apr 12 03:41:11 2001] LOADING, PLEASE WAIT...
+[Thu Apr 12 03:41:34 2001] You have entered Sunset Home.
+[Thu Apr 12 03:41:41 2001] You feel the spirit of Norrath enter you.
+[Thu Apr 12 03:41:41 2001] Your feet leave the ground.
+[Thu Apr 12 03:41:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Apr 12 03:41:46 2001] USER TEXT: hello, i am doing a quest with the royal fish, in lake rath, i am suppose to give it some food and it shoud turn into princes lenia, she spoke but could never find her, could you give me a hand please, thanks
+[Thu Apr 12 03:41:46 2001] Players in EverQuest:
+[Thu Apr 12 03:41:46 2001] ---------------------------
+[Thu Apr 12 03:41:46 2001] There are no players in EverQuest that match those who filters.
+[Thu Apr 12 03:41:49 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu Apr 12 03:41:51 2001] DELETING THIS PETITION
+[Thu Apr 12 03:42:10 2001] It begins to rain.
+[Thu Apr 12 03:42:52 2001] Ugloc Drinkbringa regards you indifferently -- looks like quite a gamble.
+[Thu Apr 12 03:42:54 2001] You say, 'hail Ugloc Drinkbringa'
+[Thu Apr 12 03:42:54 2001] Ugloc Drinkbringa says 'Hey, der, Espranza !  Meez bet uuz terzty!  Well uuz kin hev sum drink eef uuz git a token.  HAR, HAR! 
+[Thu Apr 12 03:43:05 2001] Banker Yalon tells you, 'Welcome to my bank!'
+[Thu Apr 12 03:43:16 2001] You no longer have a target.
+[Thu Apr 12 03:43:16 2001] Banker Yalon tells you, 'Come back soon!'
+[Thu Apr 12 03:43:17 2001] You no longer have a target.
+[Thu Apr 12 03:43:18 2001] Espranza saved.
+[Thu Apr 12 03:43:22 2001] You GMSAY, 'zone'
+[Thu Apr 12 03:43:47 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Apr 12 03:43:48 2001] USER TEXT: I wish to complain about the rate of failure I have when making silver/ruby veils... my skill is 104 and that trivialed in I beleive in the 70's it is not fair to fail on every other one I try to make at 132pp per ruby.
+[Thu Apr 12 03:43:48 2001] Players in EverQuest:
+[Thu Apr 12 03:43:48 2001] ---------------------------
+[Thu Apr 12 03:43:48 2001] [27 Enchanter] Daevdien (High Elf) <Knights of Arcane Lore> ZONE: highkeep (USER PID AYE9RD5)
+[Thu Apr 12 03:43:48 2001] There is 1 player in EverQuest.
+[Thu Apr 12 03:44:50 2001] You told Daevdien, 'Hail, Daevdien! Guide Espranza here. To leave feedback about the game, please use the /feedback command - it is read daily by Verant staffers. Thank you!'
+[Thu Apr 12 03:44:56 2001] DELETING THIS PETITION
+[Thu Apr 12 03:45:46 2001] Players in EverQuest:
+[Thu Apr 12 03:45:46 2001] ---------------------------
+[Thu Apr 12 03:45:46 2001] [29 Bard] Mandawen (Half Elf) <Protectors of Lore> ZONE: rivervale (USER PID AM63MRT)
+[Thu Apr 12 03:45:46 2001] [30 Warrior] Bubdar (Half Elf) <Protectors of Lore> ZONE: rivervale (USER PID AXZ65ZF)
+[Thu Apr 12 03:45:46 2001] [57 Templar] Khain (High Elf) <Relentless Ascension> ZONE: rivervale (USER PID AP80G89)
+[Thu Apr 12 03:45:46 2001] [16 Druid] Cippun (Halfling) <Mystical Lightfighters> ZONE: rivervale (USER PID AULFNC2)
+[Thu Apr 12 03:45:46 2001] [59 Preserver] Jakke (Human) <Norrath Elite> ZONE: rivervale (USER PID ANURDKC)
+[Thu Apr 12 03:45:46 2001] [29 Monk] Fearodin (Human) <Utopian Guard> ZONE: rivervale (USER PID AWCXATU)
+[Thu Apr 12 03:45:46 2001] [1 Cleric] Ancienne (Halfling) ZONE: rivervale (USER PID AZVH8S3)
+[Thu Apr 12 03:45:46 2001] [13 Rogue] Nornite (Halfling) <Mystical Lightfighters> ZONE: rivervale (USER PID AVKUZWP)
+[Thu Apr 12 03:45:46 2001] There are 8 players in EverQuest.
+[Thu Apr 12 03:47:19 2001] You GMSAY, 'zone'
+[Thu Apr 12 03:47:24 2001] LOADING, PLEASE WAIT...
+[Thu Apr 12 03:47:58 2001] You have entered Firiona Vie.
+[Thu Apr 12 03:47:59 2001] a pilgrim begins to cast a spell. (Skin like Rock)
+[Thu Apr 12 03:48:11 2001] Players on EverQuest:
+[Thu Apr 12 03:48:11 2001] ---------------------------
+[Thu Apr 12 03:48:11 2001] [ANONYMOUS] Humi 
+[Thu Apr 12 03:48:11 2001] [46 Bard] Fantas (Wood Elf) <Power of Peace>
+[Thu Apr 12 03:48:11 2001] [ANONYMOUS] Koyuki 
+[Thu Apr 12 03:48:11 2001] [44 Druid] Soiel (Human) <Protectors of Lore>
+[Thu Apr 12 03:48:11 2001] * GM * [50 Rogue] Espranza (Halfling) <Keepers of Morell Thule>
+[Thu Apr 12 03:48:11 2001] There are 5 players in Firiona Vie.
+[Thu Apr 12 03:48:17 2001] Players in EverQuest:
+[Thu Apr 12 03:48:17 2001] ---------------------------
+[Thu Apr 12 03:48:17 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: firiona (USER PID AUGBQH4)
+[Thu Apr 12 03:48:17 2001] There is 1 player in EverQuest.
+[Thu Apr 12 03:49:35 2001] ERROR: Couldn't get safe coords for cshome, unable to zone.
+

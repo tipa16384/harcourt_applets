@@ -1,0 +1,1442 @@
+[Tue Apr 23 16:35:29 2002] Welcome to EverQuest!
+[Tue Apr 23 16:35:29 2002] You have entered Dragon Necropolis.
+[Tue Apr 23 16:35:29 2002] MESSAGE OF THE DAY: Welcome to Morell Thule! Thank you for joining us!! Please enjoy the adventure!!
+[Tue Apr 23 16:35:29 2002] Espranza saved.
+[Tue Apr 23 16:35:30 2002] GUILD MOTD: Lancet - Thanks to all who showed up for our meeting will have next one in the evening for those who could not make that time slot
+[Tue Apr 23 16:35:30 2002] Autojoining channels...
+[Tue Apr 23 16:35:30 2002] Channels: 1=off(3)
+[Tue Apr 23 16:35:35 2002] Players in EverQuest:
+[Tue Apr 23 16:35:35 2002] ---------------------------
+[Tue Apr 23 16:35:35 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: necropolis (USER PID B4KJ6E7)
+[Tue Apr 23 16:35:35 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: nexus (USER PID DUGA6TS)
+[Tue Apr 23 16:35:35 2002] * Guide *[55 Luminary] Ngoc (Ogre) <Keepers of Dreams> ZONE: southkarana (USER PID FUGBDWQ)
+[Tue Apr 23 16:35:35 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: cshome (USER PID E0SZKWA)
+[Tue Apr 23 16:35:35 2002] There are 4 players in EverQuest.
+[Tue Apr 23 16:35:41 2002] You GMSAY, 'hello all!'
+[Tue Apr 23 16:35:59 2002] You GMSAY, 'Hi, Daleynn!'
+[Tue Apr 23 16:36:07 2002] Ngoc GMSAYS, 'heya'
+[Tue Apr 23 16:36:10 2002] Ngoc GMSAYS, 'hey Esp!'
+[Tue Apr 23 16:36:10 2002] Players on EverQuest:
+[Tue Apr 23 16:36:10 2002] ---------------------------
+[Tue Apr 23 16:36:10 2002] * GM * [55 Blackguard] Espranza (Halfling) <Keepers of Dreams>
+[Tue Apr 23 16:36:10 2002] There is 1 player in Dragon Necropolis.
+[Tue Apr 23 16:36:19 2002] Ngoc GMSAYS, 'btw, they sent us a new GM to break in'
+[Tue Apr 23 16:36:20 2002] Daleynn GMSAYS, 'Hello Espranza'
+[Tue Apr 23 16:36:29 2002] You GMSAY, 'Are you the new GM? ALREADY?'
+[Tue Apr 23 16:36:30 2002] a phase spider begins to cast a spell. (Scareling Step)
+[Tue Apr 23 16:36:52 2002] Ngoc GMSAYS, 'hehe'
+[Tue Apr 23 16:37:01 2002] Daleynn GMSAYS, 'yep =)'
+[Tue Apr 23 16:37:08 2002] You GMSAY, 'Ash just said "soon"....'
+[Tue Apr 23 16:37:18 2002] Players in EverQuest:
+[Tue Apr 23 16:37:18 2002] ---------------------------
+[Tue Apr 23 16:37:18 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: necropolis (USER PID B4KJ6E7)
+[Tue Apr 23 16:37:18 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: nexus (USER PID DUGA6TS)
+[Tue Apr 23 16:37:18 2002] * Guide *[55 Luminary] Ngoc (Ogre) <Keepers of Dreams> ZONE: southkarana (USER PID FUGBDWQ)
+[Tue Apr 23 16:37:18 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: cshome (USER PID E0SZKWA)
+[Tue Apr 23 16:37:18 2002] There are 4 players in EverQuest.
+[Tue Apr 23 16:37:20 2002] Jaxus GMSAYS, 'Hi Esp :)'
+[Tue Apr 23 16:37:21 2002] You GMSAY, 'zone'
+[Tue Apr 23 16:37:25 2002] You GMSAY, 'Hiya Jax'
+[Tue Apr 23 16:37:30 2002] Daleynn GMSAYS, 'was asked if I would like MT this morning when I arrived'
+[Tue Apr 23 16:37:33 2002] You GMSAY, 'zone'
+[Tue Apr 23 16:37:38 2002] Daleynn GMSAYS, 'zone'
+[Tue Apr 23 16:37:51 2002] Players in EverQuest:
+[Tue Apr 23 16:37:51 2002] ---------------------------
+[Tue Apr 23 16:37:51 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: necropolis (USER PID B4KJ6E7)
+[Tue Apr 23 16:37:51 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: nexus (USER PID DUGA6TS)
+[Tue Apr 23 16:37:51 2002] * Guide *[55 Luminary] Ngoc (Ogre) <Keepers of Dreams> ZONE: southkarana (USER PID FUGBDWQ)
+[Tue Apr 23 16:37:51 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: sseru (USER PID E0SZKWA)
+[Tue Apr 23 16:37:51 2002] There are 4 players in EverQuest.
+[Tue Apr 23 16:37:57 2002] Teleporting to daleynn.
+[Tue Apr 23 16:38:18 2002] Teleporting to daleynn.
+[Tue Apr 23 16:38:22 2002] Players in EverQuest:
+[Tue Apr 23 16:38:22 2002] ---------------------------
+[Tue Apr 23 16:38:22 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: necropolis (USER PID B4KJ6E7)
+[Tue Apr 23 16:38:22 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: nexus (USER PID DUGA6TS)
+[Tue Apr 23 16:38:22 2002] * Guide *[55 Luminary] Ngoc (Ogre) <Keepers of Dreams> ZONE: southkarana (USER PID FUGBDWQ)
+[Tue Apr 23 16:38:22 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: sseru (USER PID E0SZKWA)
+[Tue Apr 23 16:38:22 2002] There are 4 players in EverQuest.
+[Tue Apr 23 16:38:31 2002] LOADING, PLEASE WAIT...
+[Tue Apr 23 16:39:20 2002] You have entered Sanctus Seru.
+[Tue Apr 23 16:39:24 2002] Espranza saved.
+[Tue Apr 23 16:39:29 2002] Players on EverQuest:
+[Tue Apr 23 16:39:29 2002] ---------------------------
+[Tue Apr 23 16:39:29 2002] * GM * [60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams>
+[Tue Apr 23 16:39:29 2002] [51 Cavalier] Curzon (Human) <Leaders of Honor>
+[Tue Apr 23 16:39:29 2002] [56 Beguiler] Torkas (Erudite) <Tunare Messengers>
+[Tue Apr 23 16:39:29 2002] [60 Hierophant] Farigorn (Wood Elf) <Coeur de Lion>
+[Tue Apr 23 16:39:29 2002] * GM * [55 Blackguard] Espranza (Halfling) <Keepers of Dreams>
+[Tue Apr 23 16:39:29 2002] There are 5 players in Sanctus Seru.
+[Tue Apr 23 16:39:33 2002] Teleporting to daleynn.
+[Tue Apr 23 16:39:47 2002] Torkas says, 'Hail, Espranza'
+[Tue Apr 23 16:39:48 2002] You wave at Torkas.
+[Tue Apr 23 16:39:52 2002] You say, 'Heya Torkas'
+[Tue Apr 23 16:39:56 2002] Torkas says, 'Hail, Daleynn'
+[Tue Apr 23 16:40:13 2002] Torkas says, 'need  see where i died ?'
+[Tue Apr 23 16:40:19 2002] Searching zones for corpse of that name....
+[Tue Apr 23 16:40:55 2002] You told Daleynn, 'nice to meet you :) I think we need to have a SMT meeting real soon though'
+[Tue Apr 23 16:40:58 2002] Daleynn says, 'Nope'
+[Tue Apr 23 16:41:01 2002] Torkas says, 'k'
+[Tue Apr 23 16:41:18 2002] Daleynn tells you, 'is nice to meet you also and alright, anything major I should know?'
+[Tue Apr 23 16:41:26 2002] You told Daleynn, 'a few things.'
+[Tue Apr 23 16:41:37 2002] You told Daleynn, 'let me know when you have a few minutes.'
+[Tue Apr 23 16:41:38 2002] You no longer have a target.
+[Tue Apr 23 16:41:39 2002] You wave goodbye to everyone.
+[Tue Apr 23 16:41:41 2002] You GMSAY, 'zone'
+[Tue Apr 23 16:41:44 2002] LOADING, PLEASE WAIT...
+[Tue Apr 23 16:42:05 2002] You have entered Sunset Home.
+[Tue Apr 23 16:42:06 2002] Daleynn tells you, 'hmm sounds ominous but should after this one'
+[Tue Apr 23 16:42:06 2002] Espranza saved.
+[Tue Apr 23 16:42:10 2002] You told Daleynn, 'k'
+[Tue Apr 23 16:42:29 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 23 16:42:29 2002] USER TEXT: gm
+[Tue Apr 23 16:42:30 2002] Players in EverQuest:
+[Tue Apr 23 16:42:30 2002] ---------------------------
+[Tue Apr 23 16:42:30 2002] [10 Monk] Imah (Human) ZONE: nro (USER PID E1MPVQ0)
+[Tue Apr 23 16:42:30 2002] There is 1 player in EverQuest.
+[Tue Apr 23 16:42:41 2002] You told Imah, '[queued], Hail, Imah! Senior Guide Espranza here. How may I help you? '
+[Tue Apr 23 16:43:19 2002] Imah tells you, 'i am upset with the monks ability to attack chasing an enemy'
+[Tue Apr 23 16:43:30 2002] You told Imah, 'in what way?'
+[Tue Apr 23 16:43:44 2002] Imah tells you, 'they always hit when they chase us'
+[Tue Apr 23 16:44:04 2002] Imah tells you, 'i can never seem to hit chasing them'
+[Tue Apr 23 16:44:30 2002] Imah tells you, 'its either to farr away or cant see the enemy'
+[Tue Apr 23 16:49:42 2002] Welcome to EverQuest!
+[Tue Apr 23 16:49:42 2002] You have entered Sunset Home.
+[Tue Apr 23 16:49:42 2002] MESSAGE OF THE DAY: Welcome to Morell Thule! Thank you for joining us!! Please enjoy the adventure!!
+[Tue Apr 23 16:49:43 2002] Espranza saved.
+[Tue Apr 23 16:49:43 2002] GUILD MOTD: Lancet - Thanks to all who showed up for our meeting will have next one in the evening for those who could not make that time slot
+[Tue Apr 23 16:49:43 2002] Autojoining channels...
+[Tue Apr 23 16:49:44 2002] Channels: 1=off(3)
+[Tue Apr 23 16:49:51 2002] You GMSAY, 'crashed...'
+[Tue Apr 23 16:49:52 2002] Players in EverQuest:
+[Tue Apr 23 16:49:52 2002] ---------------------------
+[Tue Apr 23 16:49:52 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Tue Apr 23 16:49:52 2002] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Tue Apr 23 16:49:52 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID DUGA6TS)
+[Tue Apr 23 16:49:52 2002] * Guide *[55 Luminary] Ngoc (Ogre) <Keepers of Dreams> ZONE: southkarana (USER PID FUGBDWQ)
+[Tue Apr 23 16:49:52 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: cshome (USER PID E0SZKWA)
+[Tue Apr 23 16:49:52 2002] There are 5 players in EverQuest.
+[Tue Apr 23 16:50:04 2002] You GMSAY, 'but... was able to ICQ some ffolkes...'
+[Tue Apr 23 16:50:09 2002] Lancet GMSAYS, 'bah next timne turn off your icq and i wontr crash you'
+[Tue Apr 23 16:50:16 2002] You GMSAY, 'yeah no kidding'
+[Tue Apr 23 16:50:29 2002] You told daleynn, 'Rynara should be on soon. '
+[Tue Apr 23 16:50:34 2002] Daleynn tells you, 'Okies'
+[Tue Apr 23 16:50:52 2002] Daleynn says, 'Ok can do'
+[Tue Apr 23 16:51:12 2002] Lancet invites you to join a group.
+[Tue Apr 23 16:51:12 2002] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Tue Apr 23 16:51:14 2002] You notify Lancet that you agree to join the group.
+[Tue Apr 23 16:51:15 2002] You have joined the group.
+[Tue Apr 23 16:51:28 2002] Daleynn has joined the group.
+[Tue Apr 23 16:51:29 2002] You must target a living Player Character, or supply a player name, to list guild status.
+[Tue Apr 23 16:51:37 2002] Lancet tells the group, 'ryn is loging on  also'
+[Tue Apr 23 16:51:54 2002] Lancet tells the group, 'esp any truth about you and hex>?'
+[Tue Apr 23 16:51:55 2002] You tell your party, 'might as well have an SMT meeting now'
+[Tue Apr 23 16:52:15 2002] You tell your party, 'Hex and I play on the same server, I once asked him to tell Cazza I would be late training.'
+[Tue Apr 23 16:52:27 2002] Rynara pokes Daleynn.
+[Tue Apr 23 16:52:30 2002] You tell your party, 'I never asked him to take training over...'
+[Tue Apr 23 16:52:37 2002] You wave at Rynara.
+[Tue Apr 23 16:52:38 2002] Lancet tells the group, 'ok thats what i thought she twisting what has been said'
+[Tue Apr 23 16:52:44 2002] Rynara says, 'hiya'
+[Tue Apr 23 16:53:08 2002] Rynara has joined the group.
+[Tue Apr 23 16:53:09 2002] Daleynn says, 'Hello'
+[Tue Apr 23 16:53:14 2002] You tell your party, 'hey Ryn, long time etc'
+[Tue Apr 23 16:53:16 2002] Daleynn tells the group, 'and hello here as well'
+[Tue Apr 23 16:53:17 2002] Rynara tells the group, 'hi'
+[Tue Apr 23 16:53:20 2002] Lancet tells the group, 'hail hail the gangs all here'
+[Tue Apr 23 16:53:33 2002] Rynara tells the group, 'welcone to MT Daleynn'
+[Tue Apr 23 16:53:41 2002] Daleynn tells the group, 'thanks'
+[Tue Apr 23 16:53:48 2002] You tell your party, 'yes, welcome very much! very happy to meet you!'
+[Tue Apr 23 16:53:49 2002] Lancet tells the group, 'well dale as you can guess we are your SMT'
+[Tue Apr 23 16:54:14 2002] Rynara tells the group, 'Daleynn did you come from another server?'
+[Tue Apr 23 16:54:22 2002] Lancet tells the group, 'just happy ity did not take 2 months to get a gm like last time'
+[Tue Apr 23 16:54:40 2002] Daleynn tells the group, 'No I just came from SWAT, have been here a few times as such though'
+[Tue Apr 23 16:54:51 2002] You tell your party, 'yeah, when Ryn said they'd promised soon... I didn't think today :)'
+[Tue Apr 23 16:54:51 2002] Rynara tells the group, 'ah =)'
+[Tue Apr 23 16:55:02 2002] Rynara tells the group, 'this your first server all to yourself then?'
+[Tue Apr 23 16:55:16 2002] Daleynn tells the group, 'Yes it is'
+[Tue Apr 23 16:55:25 2002] Rynara tells the group, 'thats great'
+[Tue Apr 23 16:55:37 2002] Rynara tells the group, 'anything you need just let us know'
+[Tue Apr 23 16:55:39 2002] Lancet tells the group, 'well  well done '
+[Tue Apr 23 16:55:43 2002] Daleynn tells the group, 'so far has seemed so *chuckle* folks have been very friendly'
+[Tue Apr 23 16:55:53 2002] Rynara tells the group, 'well here is your first issue *grins*'
+[Tue Apr 23 16:56:05 2002] Lancet tells the group, 'we need to fill him in on whats going on with caz as im sure they will involve him'
+[Tue Apr 23 16:56:07 2002] Daleynn tells the group, 'uhoh *chuckle*  whats up?'
+[Tue Apr 23 16:56:11 2002] You told Lancet, 'are you still planning on leaving soon?'
+[Tue Apr 23 16:56:28 2002] Rynara tells the group, 'appie Inari was promoted. Her avatar was not moved so I had her make a new one on her guide account'
+[Tue Apr 23 16:56:35 2002] Lancet tells you, 'not till this mess is cleared up not leaving under a cloud'
+[Tue Apr 23 16:56:42 2002] Rynara tells the group, 'she is here to be buffed but cannot see /pr '
+[Tue Apr 23 16:56:45 2002] You told Lancet, 'cool :) the longer you stay the better I like it'
+[Tue Apr 23 16:56:47 2002] Rynara tells the group, 'I will summon her'
+[Tue Apr 23 16:56:56 2002] Rynara tells the group, 'sounds like she may not be flagged properly'
+[Tue Apr 23 16:57:21 2002] Lendien tells you, '/bonk'
+[Tue Apr 23 16:57:26 2002] You told Lendien, 'ouch!'
+[Tue Apr 23 16:57:30 2002] Lancet tells you, 'she accused us of playing on same server hell the only one eho i knew was on fr was ryn and have not seen her in months'
+[Tue Apr 23 16:57:30 2002] Lendien tells you, '=)'
+[Tue Apr 23 16:57:33 2002] You told Lendien, 'now why would you bonk me'
+[Tue Apr 23 16:57:40 2002] Rynara GMSAYS, 'hey Doc'
+[Tue Apr 23 16:57:44 2002] Players in EverQuest:
+[Tue Apr 23 16:57:44 2002] ---------------------------
+[Tue Apr 23 16:57:44 2002] * Senior Guide *[57 Blackguard] Rynara (Human) <Keepers of Dreams> ZONE: cshome (USER PID CSRJPKB)
+[Tue Apr 23 16:57:44 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Tue Apr 23 16:57:44 2002] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Tue Apr 23 16:57:44 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID DUGA6TS)
+[Tue Apr 23 16:57:44 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: cshome (USER PID E0SZKWA)
+[Tue Apr 23 16:57:44 2002] There are 5 players in EverQuest.
+[Tue Apr 23 16:57:54 2002] Lendien tells you, 'because i'm jeolous of your guide powers'
+[Tue Apr 23 16:57:56 2002] Lancet tells the group, 'oh well  if we buffing tonight  lv 58 please'
+[Tue Apr 23 16:57:57 2002] Rynara hugs Inari.
+[Tue Apr 23 16:57:58 2002] Inari beams a smile at Rynara.
+[Tue Apr 23 16:58:01 2002] Inari hugs Rynara.
+[Tue Apr 23 16:58:03 2002] Daleynn tells the group, 'I can certianly do that or I can move the character'
+[Tue Apr 23 16:58:10 2002] You told Lendien, 'my awesome all encompassing guide powahz'
+[Tue Apr 23 16:58:13 2002] Inari says, 'Yay! Here I am.'
+[Tue Apr 23 16:58:16 2002] Rynara tells the group, 'which ever you want to do'
+[Tue Apr 23 16:58:18 2002] You say, 'Hey Sushi!'
+[Tue Apr 23 16:58:22 2002] Lendien tells you, 'yeah, that, gimmie =)'
+[Tue Apr 23 16:58:26 2002] Rynara says, 'a few moments Inari '
+[Tue Apr 23 16:58:28 2002] Daleynn says, 'Hello Inari'
+[Tue Apr 23 16:58:35 2002] Inari waves at Daleynn.
+[Tue Apr 23 16:58:37 2002] Jaxus GMSAYS, 'Hiya Ryn'
+[Tue Apr 23 16:58:44 2002] Inari says, 'There you are shorty!'
+[Tue Apr 23 16:58:45 2002] Rynara says, 'INari meet our new GM Daleynn'
+[Tue Apr 23 16:58:50 2002] Inari bows before Daleynn.
+[Tue Apr 23 16:58:56 2002] Inari says, 'Hello!'
+[Tue Apr 23 16:59:15 2002] Daleynn says, 'Inari I'll be glad to either flagg and buff this character or I'll be glad to move the other.'
+[Tue Apr 23 16:59:18 2002] Lendien tells you, 'so, is that our new GM?'
+[Tue Apr 23 16:59:24 2002] You told Lendien, 'yup'
+[Tue Apr 23 16:59:30 2002] Rynara tells the group, 'lets take care of Inari then we can fill Daleynn in on the cazza issue'
+[Tue Apr 23 16:59:31 2002] Lendien tells you, 'how is he/she?'
+[Tue Apr 23 16:59:33 2002] Inari says, 'Umm the other lady is allllll gone'
+[Tue Apr 23 16:59:37 2002] Lancet tells the group, 'yep'
+[Tue Apr 23 16:59:42 2002] Daleynn says, 'That makes it easy then'
+[Tue Apr 23 16:59:42 2002] You told Lendien, 'hard to tell with Vah Shir... she, I think'
+[Tue Apr 23 16:59:42 2002] Inari says, 'It'll have to be me'
+[Tue Apr 23 16:59:43 2002] Rynara says, 'the other deleted?'
+[Tue Apr 23 16:59:47 2002] Lendien tells you, 'lol'
+[Tue Apr 23 16:59:49 2002] Inari says, 'Yes I did'
+[Tue Apr 23 16:59:52 2002] Rynara says, 'k'
+[Tue Apr 23 16:59:58 2002] Espranza saved.
+[Tue Apr 23 17:00:05 2002] You told Lendien, 'seems nice so far, still recovering from Lirus' sudden departure.'
+[Tue Apr 23 17:00:10 2002] Daleynn tells the group, 'Full guide right?'
+[Tue Apr 23 17:00:13 2002] Lendien tells you, 'does she have kitty cleavage?'
+[Tue Apr 23 17:00:15 2002] Rynara tells the group, 'yep'
+[Tue Apr 23 17:00:15 2002] Lendien tells you, 'yeah =('
+[Tue Apr 23 17:00:27 2002] You have changed Inari's last name to loves Sushi.
+[Tue Apr 23 17:00:43 2002] Inari says, 'YAY! I must've killed a whale! Heeeheee'
+[Tue Apr 23 17:00:50 2002] Inari has joined your guild.
+[Tue Apr 23 17:00:50 2002] Inari is now a regular member of your guild.
+[Tue Apr 23 17:01:06 2002] Rynara tells the group, 'oops sorry Lancet'
+[Tue Apr 23 17:01:14 2002] Daleynn says, 'And there is your guide note'
+[Tue Apr 23 17:01:15 2002] Lancet tells the group, '?'
+[Tue Apr 23 17:01:29 2002] You have changed Inari's last name to .
+[Tue Apr 23 17:01:29 2002] Daleynn GMSAYS, 'Inari can you see in pr now?'
+[Tue Apr 23 17:01:31 2002] You no longer have a target.
+[Tue Apr 23 17:01:36 2002] Inari says, 'Thanks! Heeheee Nice my name :D'
+[Tue Apr 23 17:01:37 2002] Rynara tells the group, 'I was inspecting you lol'
+[Tue Apr 23 17:01:44 2002] Inari GMSAYS, 'Yes I can!'
+[Tue Apr 23 17:01:48 2002] Daleynn GMSAYS, 'great'
+[Tue Apr 23 17:01:49 2002] Lancet GMSAYS, 'woot'
+[Tue Apr 23 17:01:49 2002] You say, 'I took it away ) choose a title if ye like'
+[Tue Apr 23 17:01:54 2002] Rynara GMSAYS, 'yay! now go get dressed!'
+[Tue Apr 23 17:01:55 2002] Hexian GMSAYS, 'Hey espranza... Hello all'
+[Tue Apr 23 17:01:58 2002] Daleynn GMSAYS, 'and welcome'
+[Tue Apr 23 17:02:00 2002] You GMSAY, 'Hey Hex!'
+[Tue Apr 23 17:02:05 2002] Rynara GMSAYS, 'hi Hex'
+[Tue Apr 23 17:02:09 2002] Daleynn GMSAYS, 'Hello Hex'
+[Tue Apr 23 17:02:10 2002] Inari says, 'After long hours and much debate.....'
+[Tue Apr 23 17:02:13 2002] Jaxus GMSAYS, 'Hiya Hex'
+[Tue Apr 23 17:02:16 2002] You told hexian, 'did I ever tell you to come to MT and take over training?'
+[Tue Apr 23 17:02:16 2002] Jaxus cheers at Hexian.
+[Tue Apr 23 17:02:24 2002] Inari GMSAYS, 'Hello there :)'
+[Tue Apr 23 17:02:34 2002] Inari says, 'I like the Uncooked'
+[Tue Apr 23 17:02:35 2002] Hexian tells you, 'No.... hehehe why?'
+[Tue Apr 23 17:02:37 2002] Jaxus cheers at Inari.
+[Tue Apr 23 17:02:41 2002] Rynara snickers.
+[Tue Apr 23 17:02:45 2002] Inari waves at Jaxus.
+[Tue Apr 23 17:02:48 2002] Daleynn chuckles but likes it.
+[Tue Apr 23 17:02:50 2002] Inari says, 'Hi '
+[Tue Apr 23 17:02:52 2002] You told Hexian, 'just checking'
+[Tue Apr 23 17:03:00 2002] Hexian tells you, 'Whats going on?'
+[Tue Apr 23 17:03:02 2002] You have changed Inari's last name to the Indecent.
+[Tue Apr 23 17:03:02 2002] Jaxus grins.
+[Tue Apr 23 17:03:06 2002] Inari waves at Hexian.
+[Tue Apr 23 17:03:08 2002] You told Hexian, 'meet our new GM'
+[Tue Apr 23 17:03:11 2002] Lancet tells you, 'thought we could not be cats?'
+[Tue Apr 23 17:03:17 2002] Hexian tells you, 'Oh cool'
+[Tue Apr 23 17:03:19 2002] You told Lancet, 'can since March'
+[Tue Apr 23 17:03:21 2002] Inari says, 'DOH'
+[Tue Apr 23 17:03:30 2002] You say, 'Well GET DRESSED'
+[Tue Apr 23 17:03:31 2002] Inari says, 'thats not right....'
+[Tue Apr 23 17:03:45 2002] Jaxus says, 'I like it'
+[Tue Apr 23 17:03:46 2002] Jaxus says, 'hehe'
+[Tue Apr 23 17:03:53 2002] Rynara says, 'you would lol'
+[Tue Apr 23 17:03:54 2002] Inari says, 'Okies Dokies shorty show me where!'
+[Tue Apr 23 17:04:00 2002] You say, 'c'mere'
+[Tue Apr 23 17:04:11 2002] Lancet tells the group, 'dale since your in such a good mood could you give me lv 58 please im overdue'
+[Tue Apr 23 17:04:27 2002] You say, 'Hand the note to the Quartermaster'
+[Tue Apr 23 17:04:32 2002] You say, 'buy one of everything he sells'
+[Tue Apr 23 17:04:41 2002] Daleynn tells the group, 'that I have to check on Lance need to find out what is what '
+[Tue Apr 23 17:04:42 2002] You say, 'then buy at least one full set of armor'
+[Tue Apr 23 17:04:43 2002] Quartermaster says 'Congratulations on your promotion, Inari!  There are many people from whom to buy your new equipment.  Please collect your guide equipment from any of the folks who will speak with you. '
+[Tue Apr 23 17:04:53 2002] Lancet tells the group, 'be my guest'
+[Tue Apr 23 17:04:56 2002] Quartermaster says 'Hello there, Inari. How about a nice Celestial Sword?'
+[Tue Apr 23 17:04:59 2002] You tell your party, 'I'll send you the level spreadsheet I have'
+[Tue Apr 23 17:05:16 2002] Jaxus grabs hold of Espranza and begins to dance with her.
+[Tue Apr 23 17:05:20 2002] Rynara tells the group, 'what is what?'
+[Tue Apr 23 17:05:32 2002] You tell your party, 'which reminds me -- our email is MorellThuleSeniors@yahoogroups.com'
+[Tue Apr 23 17:06:12 2002] Hexian tells you, 'You wanted me to take over training? I've never done training, hehehe I'd be afraid I warp their young impressionable minds'
+[Tue Apr 23 17:06:17 2002] Rynara tells the group, 'Dale whats your email?'
+[Tue Apr 23 17:06:32 2002] Daleynn tells the group, 'okies will deffintely keep that where I can find it.  I am at hguthridge@soe.sony.com'
+[Tue Apr 23 17:06:36 2002] You tell your party, 'heh... I asked Hex if I ever asked him to take over training... he is terribly confused now.'
+[Tue Apr 23 17:06:52 2002] Daleynn tells you, 'Just want to check is ok with you on his buff to 58?'
+[Tue Apr 23 17:07:09 2002] You told Daleynn, 'yes, I'll send you that spreadsheet so you will have them all.'
+[Tue Apr 23 17:07:14 2002] Rynara tells the group, 'hehe Im not surprised Esp'
+[Tue Apr 23 17:07:19 2002] Daleynn tells you, 'that'd be great.'
+[Tue Apr 23 17:07:25 2002] You told Daleynn, 'we prefer to promote guides at server meetings though'
+[Tue Apr 23 17:07:27 2002] Lancet tells the group, 'ok ryn you have the floor'
+[Tue Apr 23 17:07:47 2002] Daleynn tells you, 'So you'd like to wait on that then?'
+[Tue Apr 23 17:07:57 2002] You told Daleynn, 'no, not for Lancet... he's a senior...'
+[Tue Apr 23 17:08:03 2002] Rynara tells the group, 'I honestly do not know where to begin'
+[Tue Apr 23 17:08:04 2002] Daleynn tells you, 'Okies'
+[Tue Apr 23 17:08:13 2002] Lancet tells the group, 'short and sweet'
+[Tue Apr 23 17:08:27 2002] Lancet tells the group, 'thanks too bad ill never see 60'
+[Tue Apr 23 17:08:42 2002] Rynara tells the group, 'guide cazza back in Dec decided she wanted to be a senior'
+[Tue Apr 23 17:08:45 2002] Inari tells the guild, 'Shorty! Where are you? You fall in a crack? *looks at the floor cracks*'
+[Tue Apr 23 17:08:58 2002] You say to your guild, 'back out in the huddle Sushi breath'
+[Tue Apr 23 17:09:02 2002] Rynara tells the group, 'she was a good guide and worked hard'
+[Tue Apr 23 17:09:09 2002] Rynara tells the group, 'but something happened'
+[Tue Apr 23 17:09:24 2002] Rynara tells the group, 'there was another who was also wanting it'
+[Tue Apr 23 17:09:30 2002] Rynara tells the group, 'she felt threatened'
+[Tue Apr 23 17:09:31 2002] You say, 'You still look naked'
+[Tue Apr 23 17:09:37 2002] You say, 'Did you buy any armor?'
+[Tue Apr 23 17:09:42 2002] Rynara tells the group, 'and started getting a bit paranoid'
+[Tue Apr 23 17:09:47 2002] Inari rests her beer on'ts head.
+[Tue Apr 23 17:09:52 2002] The spirit leaves you.
+[Tue Apr 23 17:09:56 2002] Inari says, 'Ack worked bad'
+[Tue Apr 23 17:10:01 2002] Inari says, 'No I didnt'
+[Tue Apr 23 17:10:13 2002] Espranza saved.
+[Tue Apr 23 17:10:22 2002] Inari rests her beer on Espranza s head.
+[Tue Apr 23 17:10:24 2002] Rynara tells the group, 'anyway though much debate and on advice from Ashlanne and Melenkurion it was decided she be transfered'
+[Tue Apr 23 17:10:25 2002] You say, 'You need a full set - many of our guide powers are click effects'
+[Tue Apr 23 17:10:30 2002] Inari beams a smile at Espranza.
+[Tue Apr 23 17:10:33 2002] Players in EverQuest:
+[Tue Apr 23 17:10:33 2002] ---------------------------
+[Tue Apr 23 17:10:33 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID HT3SRT4)
+[Tue Apr 23 17:10:33 2002] There is 1 player in EverQuest.
+[Tue Apr 23 17:10:44 2002] Inari says, 'Ok then back I go'
+[Tue Apr 23 17:10:45 2002] You say, 'rogue, huh? I suggest twisted armor of despair'
+[Tue Apr 23 17:11:09 2002] Rynara tells the group, 'long story short, she is not a happy camper and has decided to try to lynch me'
+[Tue Apr 23 17:11:20 2002] Lancet tells the group, 'well all of us'
+[Tue Apr 23 17:11:22 2002] Rynara tells the group, 'them too but monsly me'
+[Tue Apr 23 17:11:29 2002] Rynara tells the group, 'err mostly'
+[Tue Apr 23 17:11:56 2002] Rynara tells the group, 'she has this delussion we al play together'
+[Tue Apr 23 17:12:08 2002] Daleynn tells the group, 'ok.  I take it she has not been transfered yet then?'
+[Tue Apr 23 17:12:11 2002] Rynara tells the group, 'and we are all against her'
+[Tue Apr 23 17:12:20 2002] Lancet tells the group, 'no this just happened today'
+[Tue Apr 23 17:12:24 2002] Rynara tells the group, 'no as of this morning personnel said they were working on it'
+[Tue Apr 23 17:12:49 2002] Rynara tells the group, 'she sent Semi and eqcs an email filled with accusations and insinuations'
+[Tue Apr 23 17:13:02 2002] Lancet tells the group, 'but she has sent a letter to the elders and sony  with what i call a bunch of lies and twisted facts'
+[Tue Apr 23 17:13:37 2002] Daleynn tells the group, 'Sounds like a fine mess *sighs*'
+[Tue Apr 23 17:13:42 2002] Rynara tells the group, 'oh yes'
+[Tue Apr 23 17:13:44 2002] Hexian GMSAYS, 'The command to create a chat room is what?'
+[Tue Apr 23 17:13:48 2002] Lancet tells the group, 'lol tis that alright'
+[Tue Apr 23 17:13:50 2002] You GMSAY, '/join'
+[Tue Apr 23 17:13:56 2002] You GMSAY, '/join channelname'
+[Tue Apr 23 17:14:06 2002] Lancet GMSAYS, 'no #makeroom'
+[Tue Apr 23 17:14:11 2002] You GMSAY, '/kick Lancet'
+[Tue Apr 23 17:14:14 2002] Rynara tells the group, 'but it will work out ok Im sure. MT has a good reputation and I am not worried'
+[Tue Apr 23 17:14:27 2002] Lancet GMSAYS, 'hex asked how to make one not join one'
+[Tue Apr 23 17:14:43 2002] You are now the moderator for channel off
+[Tue Apr 23 17:14:50 2002] You GMSAY, 'that's how to make one, too'
+[Tue Apr 23 17:14:57 2002] Hexian GMSAYS, 'okay which is it.. hehehe'
+[Tue Apr 23 17:15:05 2002] Rynara tells the group, 'we really have a wonderful team, Im sorry you had to get here in the middle of a mess'
+[Tue Apr 23 17:15:10 2002] Lancet GMSAYS, 'cant join which is not made:)'
+[Tue Apr 23 17:15:18 2002] Daleynn tells the group, 'I haven't heard anything to serious so far luckily.  Though am obviously going to need to rely on you for the time being till I am famliar with the server'
+[Tue Apr 23 17:15:21 2002] You GMSAY, 'try it, you'll see'
+[Tue Apr 23 17:15:28 2002] Hexian GMSAYS, 'and if you want to put a password on it?'
+[Tue Apr 23 17:15:36 2002] You GMSAY, '/join channelname:password'
+[Tue Apr 23 17:15:38 2002] Lancet GMSAYS, 'it will tell you when'
+[Tue Apr 23 17:15:47 2002] Rynara tells the group, 'of course. We will help you all we can'
+[Tue Apr 23 17:15:51 2002] You GMSAY, 'he's talking in game, not in chat.'
+[Tue Apr 23 17:16:02 2002] Daleynn tells the group, 'as for this little mess, hopefully the transfer will happen soon, and it will help ease the tension.  '
+[Tue Apr 23 17:16:04 2002] You GMSAY, 'I assume'
+[Tue Apr 23 17:16:13 2002] Lancet GMSAYS, 'just # =makeroom a block pops up to name it and put in pw'
+[Tue Apr 23 17:16:14 2002] Hexian GMSAYS, 'thanks.. yep you right Espranza'
+[Tue Apr 23 17:16:18 2002] Rynara tells the group, 'yep'
+[Tue Apr 23 17:16:28 2002] You tell your party, 'I think she'll start taking potshots at us from another server.'
+[Tue Apr 23 17:16:36 2002] Rynara tells the group, 'but if you see my avatar hanging from a tree you will know why =)'
+[Tue Apr 23 17:16:44 2002] Hexian GMSAYS, 'Sorry Lancet, i should have been more specific'
+[Tue Apr 23 17:16:50 2002] You tell your party, 'Rynara is far too nice.'
+[Tue Apr 23 17:16:53 2002] Lancet GMSAYS, 'np'
+[Tue Apr 23 17:16:55 2002] Inari says, 'Ok I think I done now...'
+[Tue Apr 23 17:17:04 2002] You cheer at Inari.
+[Tue Apr 23 17:17:09 2002] Rynara says, 'you look nice Inari'
+[Tue Apr 23 17:17:09 2002] Daleynn tells the group, 'have always enjoyed the time I have been on this server as swat so hope all stays that way.  And there will be no tree hangings '
+[Tue Apr 23 17:17:19 2002] Jaxus agrees with Rynara.
+[Tue Apr 23 17:17:19 2002] Inari says, 'Thanks'
+[Tue Apr 23 17:17:26 2002] Lancet tells the group, 'i had planed to retire today but now wont leave till this mess cleared up'
+[Tue Apr 23 17:17:34 2002] Daleynn says, 'Very nice Inari'
+[Tue Apr 23 17:17:35 2002] You have changed Inari's last name to the Sushi Slayer.
+[Tue Apr 23 17:17:40 2002] You no longer have a target.
+[Tue Apr 23 17:17:56 2002] Inari says, 'I have a big spike on my head... resembles a toothpick....'
+[Tue Apr 23 17:18:13 2002] Daleynn tells the group, 'any other major issues I should know about>'
+[Tue Apr 23 17:18:16 2002] Rynara says, 'comes in handy when you eat sushi Inari'
+[Tue Apr 23 17:18:19 2002] You say, 'If you get really angry and ram your head into the wall, you'll stick - be warned.'
+[Tue Apr 23 17:18:32 2002] Lancet tells the group, 'yes we have a qc who will keep you hopping'
+[Tue Apr 23 17:18:54 2002] Inari says, 'Ok Ill be careful with that'
+[Tue Apr 23 17:18:55 2002] You tell your party, 'we're swapping jobs around. we need to know when your days and hours are...'
+[Tue Apr 23 17:18:58 2002] Inari grins evilly.
+[Tue Apr 23 17:19:07 2002] You feel the spirit of Norrath enter you.
+[Tue Apr 23 17:19:12 2002] Rynara tells the group, 'we really have a wonderful team, no major issues'
+[Tue Apr 23 17:19:33 2002] Daleynn tells the group, 'I'm here Saturday thru Thursday from around 2pm till around 11pm pst'
+[Tue Apr 23 17:19:33 2002] Jaxus snarls meanly at Hexian.
+[Tue Apr 23 17:19:37 2002] Lancet tells the group, 'yep we let ryn do it all and just take the credit'
+[Tue Apr 23 17:19:47 2002] Daleynn tells the group, 'that should be thru Wed'
+[Tue Apr 23 17:19:49 2002] Hexian cringes away from Jaxus.
+[Tue Apr 23 17:19:53 2002] Jaxus giggles at Hexian.
+[Tue Apr 23 17:19:59 2002] Rynara tells the group, 'your here 6 days?'
+[Tue Apr 23 17:20:06 2002] Rynara tells the group, 'ah ok'
+[Tue Apr 23 17:20:12 2002] Lancet tells the group, 'same as lirus off wen thur?'
+[Tue Apr 23 17:20:12 2002] You tell your party, 'We buff on Saturdays and Tuesdays'
+[Tue Apr 23 17:20:24 2002] Daleynn tells the group, 'Nope just tired *chuckle*  have new days off myself'
+[Tue Apr 23 17:20:29 2002] Espranza saved.
+[Tue Apr 23 17:20:30 2002] Rynara tells the group, 'no she is off Thurs Fri'
+[Tue Apr 23 17:20:36 2002] You tell your party, 'Currently Kilm is our Quest Coordinator'
+[Tue Apr 23 17:20:43 2002] Daleynn tells the group, 'right am off Thurs and Fri'
+[Tue Apr 23 17:20:55 2002] Harmonix GMSAYS, 'Good Evening! Apprentice Guide Harmonix, reporting for duty! *salute*'
+[Tue Apr 23 17:20:57 2002] You tell your party, 'Cazza is no longer our training coordinator, I will be taking that back until we find a new one'
+[Tue Apr 23 17:21:00 2002] You GMSAY, 'Hey Harmonix!'
+[Tue Apr 23 17:21:07 2002] Rynara GMSAYS, 'hiya'
+[Tue Apr 23 17:21:09 2002] Daleynn GMSAYS, 'Welcome Harmonix!'
+[Tue Apr 23 17:21:09 2002] Jaxus GMSAYS, 'Hi'
+[Tue Apr 23 17:21:13 2002] Inari GMSAYS, 'Hello there Harmonix!'
+[Tue Apr 23 17:21:24 2002] Harmonix GMSAYS, 'Full-house tonight?'
+[Tue Apr 23 17:21:25 2002] You tell your party, 'Rynara is guide wrangler, I'm appie wrangler, and Lancet brainwashes candidates.'
+[Tue Apr 23 17:21:31 2002] Daleynn tells the group, 'how may guides do we have here?'
+[Tue Apr 23 17:21:43 2002] You tell your party, 'we have about 31 guides atm'
+[Tue Apr 23 17:21:43 2002] Rynara tells the group, '33'
+[Tue Apr 23 17:21:43 2002] Lancet tells the group, 'i have been doing all candidate stuff but that was moved to esp when i made it known i was callingh it quits'
+[Tue Apr 23 17:21:48 2002] You tell your party, '31, 33... whatever )'
+[Tue Apr 23 17:21:50 2002] Rynara tells the group, 'ok 31 lol'
+[Tue Apr 23 17:21:56 2002] You tell your party, 'somewhere around there'
+[Tue Apr 23 17:22:20 2002] Inari GMSAYS, 'Yes lots of us!'
+[Tue Apr 23 17:22:26 2002] Lancet tells the group, 'kilm is the person we are trying to get promoted to senior'
+[Tue Apr 23 17:22:33 2002] Daleynn tells the group, 'so we will be losing you when this other matter is settled Lance?'
+[Tue Apr 23 17:22:44 2002] You GMSAY, 'Harmonix, summoning you up here to meet our new GM - say ZONE please'
+[Tue Apr 23 17:22:49 2002] Players in EverQuest:
+[Tue Apr 23 17:22:49 2002] ---------------------------
+[Tue Apr 23 17:22:49 2002] * Apprentice Guide *[ANON (20 Bard)] Harmonix (Vah Shir) ZONE: qeynos2 (USER PID HYD4ACJ)
+[Tue Apr 23 17:22:49 2002] * Guide *[51 Disciple] Hexian (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID CUUVYEU)
+[Tue Apr 23 17:22:49 2002] * Senior Guide *[57 Blackguard] Rynara (Human) <Keepers of Dreams> ZONE: cshome (USER PID CSRJPKB)
+[Tue Apr 23 17:22:49 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Tue Apr 23 17:22:49 2002] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Tue Apr 23 17:22:49 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID HT3SRT4)
+[Tue Apr 23 17:22:49 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID DUGA6TS)
+[Tue Apr 23 17:22:49 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: cshome (USER PID E0SZKWA)
+[Tue Apr 23 17:22:49 2002] There are 8 players in EverQuest.
+[Tue Apr 23 17:22:51 2002] Harmonix GMSAYS, 'Meeeooooowwww! Pfffft! ZONE!'
+[Tue Apr 23 17:22:53 2002] Lancet tells the group, 'yes after 2 1/2 yrs iv had enough'
+[Tue Apr 23 17:22:55 2002] Summoning Harmonix.
+[Tue Apr 23 17:23:10 2002] Daleynn tells the group, 'I can understand, but am sorry to see you leave'
+[Tue Apr 23 17:23:13 2002] Jaxus chuckles.
+[Tue Apr 23 17:23:16 2002] You tell your party, 'we all are'
+[Tue Apr 23 17:23:17 2002] Harmonix bows before Lancet.
+[Tue Apr 23 17:23:23 2002] Harmonix bows before Rynara.
+[Tue Apr 23 17:23:24 2002] You say to your guild, 'someone group the appie please'
+[Tue Apr 23 17:23:25 2002] Lancet waves at Harmonix.
+[Tue Apr 23 17:23:27 2002] Harmonix bows before Daleynn.
+[Tue Apr 23 17:23:29 2002] Harmonix bows before Jaxus.
+[Tue Apr 23 17:23:30 2002] Rynara hugs Harmonix.
+[Tue Apr 23 17:23:31 2002] Harmonix bows before Hexian.
+[Tue Apr 23 17:23:31 2002] Hexian tells the guild, 'on it'
+[Tue Apr 23 17:23:37 2002] Jaxus snaps to attention and salutes Harmonix crisply.
+[Tue Apr 23 17:23:43 2002] You say, 'you can take anon off now Harm'
+[Tue Apr 23 17:24:01 2002] Lancet tells the group, 'is he buffing today'
+[Tue Apr 23 17:24:06 2002] You tell your party, 'no'
+[Tue Apr 23 17:24:06 2002] Rynara tells the group, 'no'
+[Tue Apr 23 17:24:12 2002] Lancet tells the group, 'why is he up here>'
+[Tue Apr 23 17:24:17 2002] You tell your party, 'to meet the GM )'
+[Tue Apr 23 17:24:20 2002] Rynara tells the group, 'to meet Dale'
+[Tue Apr 23 17:24:22 2002] Lancet tells the group, 'ooh ok'
+[Tue Apr 23 17:24:30 2002] Rynara bonks Lancet on the head!
+[Tue Apr 23 17:24:49 2002] Lancet tells the group, 'ouch'
+[Tue Apr 23 17:25:02 2002] Inari waves at Harmonix.
+[Tue Apr 23 17:25:08 2002] You told Harmonix, 'gotta gate back to Norrath, Harmonix... just wanted to let you meet your new GM... lovely, ain't she?'
+[Tue Apr 23 17:25:09 2002] Rynara says, 'harmonix what is your played time here?'
+[Tue Apr 23 17:25:15 2002] Daleynn waves at Harmonix.
+[Tue Apr 23 17:25:18 2002] Lancet tells the group, 'we have new candidates this coming weekend how many so far esp'
+[Tue Apr 23 17:25:28 2002] You tell your party, 'at least two'
+[Tue Apr 23 17:25:36 2002] You tell your party, 'those are the ones I've talked to so far'
+[Tue Apr 23 17:25:42 2002] Rynara pokes Harmonix.
+[Tue Apr 23 17:25:45 2002] Harmonix tells you, 'yes, she is. I had to do /who all GM to figure out which ;)'
+[Tue Apr 23 17:25:53 2002] Harmonix says, 'Hail, Daleynn'
+[Tue Apr 23 17:25:57 2002] Daleynn tells the group, 'sorry  have had a few tells of welcome *chuckle*'
+[Tue Apr 23 17:26:00 2002] Harmonix says, 'Meow do you do?'
+[Tue Apr 23 17:26:08 2002] Daleynn says, 'Hello Harmonix'
+[Tue Apr 23 17:26:11 2002] Rynara says, 'Harmonix whats your played time here?'
+[Tue Apr 23 17:26:20 2002] You tell your party, 'One thing... the players of MT seem to love their guides and GM more than usual'
+[Tue Apr 23 17:26:26 2002] Harmonix says, '1 day, 3hrs 2min'
+[Tue Apr 23 17:26:32 2002] You tell your party, 'we have a lot of support from the players.'
+[Tue Apr 23 17:26:38 2002] Daleynn tells the group, 'Ok I have found a little out for you guys, Cazza will be moved around Saturday'
+[Tue Apr 23 17:26:41 2002] Rynara says, 'ok thank you'
+[Tue Apr 23 17:26:48 2002] Harmonix says, 'that doesn't count the 4 hours on my first avatar :)'
+[Tue Apr 23 17:26:51 2002] You say, 'Gotta gate out now, Harm...'
+[Tue Apr 23 17:26:58 2002] Harmonix says, 'Bye Espranza :)'
+[Tue Apr 23 17:27:01 2002] You wave goodbye to Harmonix.
+[Tue Apr 23 17:27:01 2002] Hexian waves goodbye to Harmonix.
+[Tue Apr 23 17:27:03 2002] Inari waves goodbye to Harmonix.
+[Tue Apr 23 17:27:04 2002] Daleynn says, 'Was nice to meet you Harm'
+[Tue Apr 23 17:27:06 2002] Harmonix waves at Espranza.
+[Tue Apr 23 17:27:29 2002] You say, 'Hex, please remind him to announce his zones :)'
+[Tue Apr 23 17:27:37 2002] Hexian says, 'Will do.'
+[Tue Apr 23 17:27:58 2002] Harmonix GMSAYS, 'Ack. Missed my ZONE button :/'
+[Tue Apr 23 17:28:03 2002] You GMSAY, 'heh'
+[Tue Apr 23 17:28:19 2002] Daleynn tells the group, 'it is something I have noticed with the customers already, though I do fear I have large shoes to fill'
+[Tue Apr 23 17:28:21 2002] Harmonix GMSAYS, 'I just moved it away from gate stick. shouldn't have that problem again'
+[Tue Apr 23 17:28:32 2002] Hexian GMSAYS, 'UA x 1 Gidjet, (online)'
+[Tue Apr 23 17:29:03 2002] Hexian GMSAYS, 'oh scratch that there he is'
+[Tue Apr 23 17:29:21 2002] Harmonix GMSAYS, 'pulling Syrrus'
+[Tue Apr 23 17:29:27 2002] Lancet BROADCASTS, 'People of Morell Thule Join the Guides of MT in welcoming our new server GM Dalaynn'
+[Tue Apr 23 17:29:30 2002] Rynara tells the group, 'yes Lirus was well liked by the players'
+[Tue Apr 23 17:29:40 2002] Rynara tells the group, 'Sat hmmmm whats today?'
+[Tue Apr 23 17:29:51 2002] You tell your party, 'Tues'
+[Tue Apr 23 17:29:57 2002] You tell your party, 'that's way too long...'
+[Tue Apr 23 17:30:12 2002] Inari says, 'OOOoo Oooo can I send you a hello tell too?'
+[Tue Apr 23 17:30:14 2002] Rynara tells the group, 'I agree Esp'
+[Tue Apr 23 17:30:27 2002] Daleynn tells the group, 'ack massive tell now *laughing*'
+[Tue Apr 23 17:30:44 2002] Espranza saved.
+[Tue Apr 23 17:30:52 2002] Rynara tells the group, 'heh watch the queue rise'
+[Tue Apr 23 17:30:55 2002] Lancet tells the group, 'lol youur not the only one it backfired on me'
+[Tue Apr 23 17:30:56 2002] Daleynn tells the group, 'though a few have mentioned the mispelling *laughing*'
+[Tue Apr 23 17:31:16 2002] Lancet tells the group, 'ouch did i'
+[Tue Apr 23 17:31:22 2002] Rynara tells the group, 'yep lol'
+[Tue Apr 23 17:31:35 2002] Lancet tells the group, 'oh well'
+[Tue Apr 23 17:32:18 2002] Slayehn tells the guild, 'Full crowd tonight :)'
+[Tue Apr 23 17:32:22 2002] It begins to rain.
+[Tue Apr 23 17:32:27 2002] You tell your party, 'can't think of anything else really... Rynara and Lancet were among the first guides on MT, and I was from its second generation of appies, so we all have a long history on this server.'
+[Tue Apr 23 17:32:29 2002] Daleynn tells the group, '*chuckle*'
+[Tue Apr 23 17:32:29 2002] Rynara tells the guild, 'hi Slay'
+[Tue Apr 23 17:33:53 2002] You tell your party, 'well... feel like setting up an invasion for us, Dale?'
+[Tue Apr 23 17:34:11 2002] Slayehn GMSAYS, '>>>ZONING<<<'
+[Tue Apr 23 17:34:13 2002] Lancet tells the group, 'well anyway wellcome no matter how your name is spelled:)'
+[Tue Apr 23 17:34:15 2002] You tell your party, 'I was thinking Kitties invading somewhere :)'
+[Tue Apr 23 17:34:26 2002] You tell your party, 'you know, in your honor....'
+[Tue Apr 23 17:34:28 2002] Rynara tells the group, 'well guys I have to go back to icq and work on this mess =('
+[Tue Apr 23 17:34:40 2002] You tell your party, 'ack, well give Melenkurion my love'
+[Tue Apr 23 17:34:45 2002] Rynara tells the group, 'ok'
+[Tue Apr 23 17:34:47 2002] Harmonix GMSAYS, 'Escalating Syrrus to RED for name change'
+[Tue Apr 23 17:35:04 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 23 17:35:04 2002] Lancet tells the group, 'as well as i was headed to shower when esp called me'
+[Tue Apr 23 17:35:04 2002] USER TEXT: would like to get the same last name as my main
+[Tue Apr 23 17:35:05 2002] Players in EverQuest:
+[Tue Apr 23 17:35:05 2002] ---------------------------
+[Tue Apr 23 17:35:05 2002] [ANON (34 Warrior)] Syrrus (Troll) ZONE: overthere (USER PID GNZZCRN)
+[Tue Apr 23 17:35:05 2002] There is 1 player in EverQuest.
+[Tue Apr 23 17:35:05 2002] Daleynn tells the group, 'thanks again all.'
+[Tue Apr 23 17:35:06 2002] Rynara GMSAYS, 'night all *waves*'
+[Tue Apr 23 17:35:12 2002] Jaxus GMSAYS, 'night =)'
+[Tue Apr 23 17:35:15 2002] You GMSAY, 'laters Ryn'
+[Tue Apr 23 17:35:16 2002] Harmonix GMSAYS, 'Night Rynara :)'
+[Tue Apr 23 17:35:16 2002] Hexian GMSAYS, 'Bye Rynara'
+[Tue Apr 23 17:35:21 2002] Jaxus waves goodbye to Rynara.
+[Tue Apr 23 17:35:22 2002] You tell your party, 'well, I thought you'd want to come by )'
+[Tue Apr 23 17:35:28 2002] Rynara waves.
+[Tue Apr 23 17:35:28 2002] Slayehn tells the guild, 'Night Rynara :)'
+[Tue Apr 23 17:35:34 2002] GM TEXT: Harmonix: Want's the surname "Darkhammer"
+[Tue Apr 23 17:35:41 2002] Lancet tells the group, 'i did was shocked when you said we had a new gm'
+[Tue Apr 23 17:35:45 2002] Rynara has left the group.
+[Tue Apr 23 17:35:53 2002] You tell your party, 'I was shocked when I saw we had one'
+[Tue Apr 23 17:35:59 2002] Harmonix GMSAYS, 'pulling Winyoung'
+[Tue Apr 23 17:36:03 2002] Inari tells the guild, 'Night Rynara :)'
+[Tue Apr 23 17:36:15 2002] Hexian tells the guild, 'Daleynn Would you like to respond to every one of these welcome messages, or shall I just send your thanks... hehehehe =)'
+[Tue Apr 23 17:36:41 2002] Lancet tells the group, 'you have to understand  dale ashlanne was our gm when she left to have her baby we were without a gm for 2 months'
+[Tue Apr 23 17:36:47 2002] Daleynn tells the guild, 'umm just go ahead and say thanks would like to the que back to what it was'
+[Tue Apr 23 17:36:58 2002] Jaxus GMSAYS, 'Eventine says welcome Dalaynn =)'
+[Tue Apr 23 17:37:11 2002] You tell your party, 'Are you a woman in real life, Dale?'
+[Tue Apr 23 17:37:30 2002] Daleynn tells the group, 'I am a womanm'
+[Tue Apr 23 17:37:33 2002] You tell your party, 'cool )'
+[Tue Apr 23 17:37:35 2002] Lancet tells the group, 'please not another he/she'
+[Tue Apr 23 17:37:52 2002] You tell your party, 'deciding upon Lirus' pronouns eas exhausting'
+[Tue Apr 23 17:37:59 2002] Daleynn tells the group, 'and typos are often a part of my life *laughing*'
+[Tue Apr 23 17:38:13 2002] Lancet tells the group, 'hell im king of typos'
+[Tue Apr 23 17:38:21 2002] Harmonix GMSAYS, 'Winyoung says Hieeeeee, Daleynn'
+[Tue Apr 23 17:38:32 2002] Hexian GMSAYS, 'Crimsonsun says, "Welcome"'
+[Tue Apr 23 17:38:33 2002] Lancet tells the group, 'i tyry to type faster then i know how'
+[Tue Apr 23 17:38:36 2002] Players in EverQuest:
+[Tue Apr 23 17:38:36 2002] ---------------------------
+[Tue Apr 23 17:38:36 2002] * Guide *[50 Warrior] Slayehn (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID FT3SJQ6)
+[Tue Apr 23 17:38:36 2002] * Apprentice Guide *[20 Bard] Harmonix (Vah Shir) ZONE: firiona (USER PID HYD4ACJ)
+[Tue Apr 23 17:38:36 2002] * Guide *[51 Disciple] Hexian (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID CUUVYEU)
+[Tue Apr 23 17:38:36 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Tue Apr 23 17:38:36 2002] * Senior Guide *[58 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Tue Apr 23 17:38:36 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID HT3SRT4)
+[Tue Apr 23 17:38:36 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID DUGA6TS)
+[Tue Apr 23 17:38:36 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: cshome (USER PID E0SZKWA)
+[Tue Apr 23 17:38:36 2002] There are 8 players in EverQuest.
+[Tue Apr 23 17:38:37 2002] Harmonix GMSAYS, 'Deleting Winyoung'
+[Tue Apr 23 17:38:41 2002] Inari tells the guild, 'Jee Im trying to say Appretice Inari :P'
+[Tue Apr 23 17:38:43 2002] Slayehn GMSAYS, 'Tegadas says "welcome"'
+[Tue Apr 23 17:38:48 2002] Harmonix GMSAYS, 'Pulling Venemous'
+[Tue Apr 23 17:38:58 2002] You say to your guild, 'Inari and Jaxus, would it be possible for you to group?'
+[Tue Apr 23 17:39:13 2002] Lancet GMSAYS, 'ok ppl good night dont wearout our new gm on her first day please'
+[Tue Apr 23 17:39:13 2002] You say to your guild, 'Inari will need some time to become used to her guide tools and commands.'
+[Tue Apr 23 17:39:29 2002] Jaxus GMSAYS, 'night Lance'
+[Tue Apr 23 17:39:29 2002] You GMSAY, 'Night Lance!'
+[Tue Apr 23 17:39:35 2002] Harmonix GMSAYS, 'Night Lancet'
+[Tue Apr 23 17:39:43 2002] Hexian GMSAYS, 'Bye Lancet'
+[Tue Apr 23 17:39:43 2002] Daleynn GMSAYS, 'Night Lance'
+[Tue Apr 23 17:39:49 2002] Slayehn GMSAYS, 'Night Lancet :)'
+[Tue Apr 23 17:40:01 2002] Inari GMSAYS, 'Night Lance :D'
+[Tue Apr 23 17:40:10 2002] You told Inari, 'let me know when you would like a title all your own :) '
+[Tue Apr 23 17:40:13 2002] Lancet tells the group, 'once again welcome'
+[Tue Apr 23 17:40:17 2002] Lancet has left the group.
+[Tue Apr 23 17:40:46 2002] GM TEXT: Harmonix: Want's the surname "Darkhammer"
+[Tue Apr 23 17:40:52 2002] You GMSAY, 'zone'
+[Tue Apr 23 17:40:55 2002] Teleporting to syrrus.
+[Tue Apr 23 17:40:56 2002] LOADING, PLEASE WAIT...
+[Tue Apr 23 17:41:28 2002] a stonegazer cockatrice has been slain by Syrrus!
+[Tue Apr 23 17:41:28 2002] Kildaor shouts, 'Donating for a port to Antonica'
+[Tue Apr 23 17:41:43 2002] You have entered The Overthere.
+[Tue Apr 23 17:41:43 2002] You have joined the group.
+[Tue Apr 23 17:41:44 2002] Hexian GMSAYS, 'Hey naz'
+[Tue Apr 23 17:41:44 2002] Nazbag GMSAYS, 'hey hey'
+[Tue Apr 23 17:41:44 2002] Espranza saved.
+[Tue Apr 23 17:42:00 2002] You have changed Syrrus's last name to Darkhammer.
+[Tue Apr 23 17:42:01 2002] Tanyth begins to cast a spell. (Alacrity)
+[Tue Apr 23 17:42:04 2002] Danindorf shouts, 'any chanters out ther lfg'
+[Tue Apr 23 17:42:05 2002] Syrrus feels much faster.
+[Tue Apr 23 17:42:07 2002] You GMSAY, 'hiya Naz! Meet our new GM!'
+[Tue Apr 23 17:42:08 2002] Venlaen shouts, 'paying 50pp for a port to Cobalt scar or TL'
+[Tue Apr 23 17:42:13 2002] Players in EverQuest:
+[Tue Apr 23 17:42:13 2002] ---------------------------
+[Tue Apr 23 17:42:13 2002] * Guide *[55 Luminary] Nazbag (Ogre) <Keepers of Dreams> ZONE: cshome (USER PID EUUV5HS)
+[Tue Apr 23 17:42:13 2002] * Guide *[50 Warrior] Slayehn (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID FT3SJQ6)
+[Tue Apr 23 17:42:13 2002] * Apprentice Guide *[20 Bard] Harmonix (Vah Shir) ZONE: firiona (USER PID HYD4ACJ)
+[Tue Apr 23 17:42:13 2002] * Guide *[51 Disciple] Hexian (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID CUUVYEU)
+[Tue Apr 23 17:42:13 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: overthere (USER PID B4KJ6E7)
+[Tue Apr 23 17:42:13 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID HT3SRT4)
+[Tue Apr 23 17:42:13 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID DUGA6TS)
+[Tue Apr 23 17:42:13 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: cshome (USER PID E0SZKWA)
+[Tue Apr 23 17:42:13 2002] There are 8 players in EverQuest.
+[Tue Apr 23 17:42:16 2002] Slayehn GMSAYS, 'Escalating Synnfull, regarding a surname'
+[Tue Apr 23 17:42:16 2002] Inari tells the guild, 'Heehee me too! Thanks :D'
+[Tue Apr 23 17:42:20 2002] Syrrus Scores a critical hit!(52)
+[Tue Apr 23 17:42:25 2002] Syrrus tells you, 'woot thanks :)'
+[Tue Apr 23 17:42:28 2002] Kildaor shouts, 'Donating for a port to Antonica'
+[Tue Apr 23 17:42:30 2002] Syrrus Scores a critical hit!(35)
+[Tue Apr 23 17:42:36 2002] You GMSAY, '<note name> Syrrus GNZZCRN granted last name Darkhammer'
+[Tue Apr 23 17:42:45 2002] Hexian GMSAYS, 'ZONING.... Come on, everybody is doing it!'
+[Tue Apr 23 17:42:47 2002] Venlaen shouts, 'paying 60pp for Cobalt scar wakening lands port to TL'
+[Tue Apr 23 17:42:53 2002] You told Syrrus, 'no problem :) be well and safe journey to you.'
+[Tue Apr 23 17:42:59 2002] DELETING THIS PETITION
+[Tue Apr 23 17:43:01 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Apr 23 17:43:02 2002] USER TEXT: I would like to have a last name with an apostrophe and was told that I need to petition to have this done -- thanks in advance
+[Tue Apr 23 17:43:02 2002] Players in EverQuest:
+[Tue Apr 23 17:43:02 2002] ---------------------------
+[Tue Apr 23 17:43:02 2002] [20 Monk] Synnfull (Human) <Black Claws> ZONE: southkarana (USER PID ET6EF5Q)
+[Tue Apr 23 17:43:02 2002] There is 1 player in EverQuest.
+[Tue Apr 23 17:43:08 2002] GM TEXT: Slayehn: Petitioner is interested in the last name of Ly'Dlish, petitioning to have a surname with an apostrophe.
+[Tue Apr 23 17:43:15 2002] Slayehn GMSAYS, 'Zoning, anon/invis'
+[Tue Apr 23 17:43:16 2002] You GMSAY, 'zone'
+[Tue Apr 23 17:43:21 2002] Tanyth begins to cast a spell. (Turgur's Insects)
+[Tue Apr 23 17:43:23 2002] Teleporting to synnfull.
+[Tue Apr 23 17:43:24 2002] LOADING, PLEASE WAIT...
+[Tue Apr 23 17:43:24 2002] Kildaor shouts, 'donating 30pp for a port to Antonica'
+[Tue Apr 23 17:43:25 2002] Sojurner says out of character, 'anyone know what lvl you need to be to fight in unrest?'
+[Tue Apr 23 17:43:49 2002] aviak rook died.
+[Tue Apr 23 17:43:59 2002] You have entered Southern Plains of Karana.
+[Tue Apr 23 17:43:59 2002] You have joined the group.
+[Tue Apr 23 17:44:00 2002] Espranza saved.
+[Tue Apr 23 17:44:04 2002] It begins to rain.
+[Tue Apr 23 17:44:12 2002] Daleynn GMSAYS, 'and hello to anyone who snuck in while I was bombed with tells '
+[Tue Apr 23 17:44:19 2002] You GMSAY, 'Slayehn, notice anything odd about the name Synfull Ly`Dlish?'
+[Tue Apr 23 17:44:56 2002] Valadian shouts, 'anyoen tping soon?'
+[Tue Apr 23 17:45:03 2002] You told Synnfull, 'Hiya! Senior Guide Espranza here. Alas, I cannot grant your last name, that would make a phrase... I'm sorry.'
+[Tue Apr 23 17:45:12 2002] Synnfull tells you, 'ok thank you just the same'
+[Tue Apr 23 17:45:15 2002] Harmonix GMSAYS, 'deleting Venemous'
+[Tue Apr 23 17:45:27 2002] You told Synnfull, 'I'd be happy to grant you another surname, though!'
+[Tue Apr 23 17:45:33 2002] Slayehn GMSAYS, 'No...to be honest, I don't.'
+[Tue Apr 23 17:45:36 2002] Synnfull tells you, 'will have to think of one  :)'
+[Tue Apr 23 17:45:42 2002] You GMSAY, 'Sinfully Delish...'
+[Tue Apr 23 17:45:45 2002] Aabaden says out of character, 'yep I will be using the toilet paper soon '
+[Tue Apr 23 17:45:51 2002] Hexian GMSAYS, 'Well I dont think you missed me, but Hello, Nice to meet you =)'
+[Tue Apr 23 17:45:55 2002] Nazbag GMSAYS, 'simply or sinfully delish'
+[Tue Apr 23 17:45:57 2002] You told Synnfull, 'okies... well until then, be well and safe journey to ye!'
+[Tue Apr 23 17:46:00 2002] DELETING THIS PETITION
+[Tue Apr 23 17:46:05 2002] Slayehn GMSAYS, 'Ohhh...I didn't even see it that way'
+[Tue Apr 23 17:46:08 2002] Your feet leave the ground.
+[Tue Apr 23 17:46:10 2002] Synnfull tells you, 'and to you'
+[Tue Apr 23 17:46:11 2002] Valadian shouts, 'seeking tp to commons'
+[Tue Apr 23 17:47:22 2002] Players in EverQuest:
+[Tue Apr 23 17:47:22 2002] ---------------------------
+[Tue Apr 23 17:47:22 2002] * Guide *[55 Luminary] Nazbag (Ogre) <Keepers of Dreams> ZONE: cshome (USER PID EUUV5HS)
+[Tue Apr 23 17:47:22 2002] * Guide *[ANON (50 Warrior)] Slayehn (Half Elf) ZONE: everfrost (USER PID FT3SJQ6)
+[Tue Apr 23 17:47:22 2002] * Apprentice Guide *[20 Bard] Harmonix (Vah Shir) ZONE: firiona (USER PID HYD4ACJ)
+[Tue Apr 23 17:47:22 2002] * Guide *[51 Disciple] Hexian (Iksar) <Keepers of Dreams> ZONE: firiona (USER PID CUUVYEU)
+[Tue Apr 23 17:47:22 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: southkarana (USER PID B4KJ6E7)
+[Tue Apr 23 17:47:22 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID HT3SRT4)
+[Tue Apr 23 17:47:22 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID DUGA6TS)
+[Tue Apr 23 17:47:22 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: cshome (USER PID E0SZKWA)
+[Tue Apr 23 17:47:22 2002] There are 8 players in EverQuest.
+[Tue Apr 23 17:47:39 2002] You GMSAY, 'zone'
+[Tue Apr 23 17:47:50 2002] LOADING, PLEASE WAIT...
+[Tue Apr 23 17:48:12 2002] Cyzix shouts, 'omg my mob was 1 hp and it ran away somewhere i cant find it'
+[Tue Apr 23 17:48:23 2002] Gamzuk says out of character, 'LOL'
+[Tue Apr 23 17:48:23 2002] Cyzix shouts, 'and see guard cllin'
+[Tue Apr 23 17:48:24 2002] You have entered West Commonlands.
+[Tue Apr 23 17:48:24 2002] You have joined the group.
+[Tue Apr 23 17:48:24 2002] Espranza saved.
+[Tue Apr 23 17:48:27 2002] Cyzix shouts, 'and see guard collin'
+[Tue Apr 23 17:48:32 2002] Teleporting to slea_pinewhisper00.
+[Tue Apr 23 17:48:34 2002] Kokab says, 'Hail, Loadedbob'
+[Tue Apr 23 17:48:37 2002] Kokab says, 'may i have a sow'
+[Tue Apr 23 17:48:38 2002] Fantasmo gasps at Qualden in astonishment.
+[Tue Apr 23 17:48:39 2002] Slea Pinewhisper blinks a few times.
+[Tue Apr 23 17:48:41 2002] Slea Pinewhisper says 'Guards!! Guards!! '
+[Tue Apr 23 17:48:41 2002] Slea Pinewhisper feels a bit dispelled.
+[Tue Apr 23 17:48:44 2002] Cyzix shouts, 'where the heck is he !! i gotto log'
+[Tue Apr 23 17:48:45 2002] Slea Pinewhisper crushes YOU for 81 points of damage.
+[Tue Apr 23 17:48:46 2002] Fantasmo begins to cast a spell. (Clarity)
+[Tue Apr 23 17:48:48 2002] Slea Pinewhisper crushes YOU for 45 points of damage.
+[Tue Apr 23 17:48:48 2002] Slea Pinewhisper crushes YOU for 45 points of damage.
+[Tue Apr 23 17:48:49 2002] You can't use that command right now...
+[Tue Apr 23 17:48:49 2002] You can't use that command right now...
+[Tue Apr 23 17:48:50 2002] You can't use that command right now...
+[Tue Apr 23 17:48:50 2002] Slea Pinewhisper blinks a few times.
+[Tue Apr 23 17:48:50 2002] Slea Pinewhisper crushes YOU for 95 points of damage.
+[Tue Apr 23 17:48:50 2002] Slea Pinewhisper crushes YOU for 63 points of damage.
+[Tue Apr 23 17:48:50 2002] Slea Pinewhisper blinks a few times.
+[Tue Apr 23 17:48:51 2002] Slea Pinewhisper blinks a few times.
+[Tue Apr 23 17:48:51 2002] You can't use that command right now...
+[Tue Apr 23 17:48:51 2002] Slea Pinewhisper blinks a few times.
+[Tue Apr 23 17:48:51 2002] Slea Pinewhisper blinks a few times.
+[Tue Apr 23 17:48:52 2002] Arfarf begins to cast a spell. (Greater Healing)
+[Tue Apr 23 17:48:56 2002] Azzasin feels much better.
+[Tue Apr 23 17:48:58 2002] You say to your guild, 'Inari could you come to me, please?'
+[Tue Apr 23 17:48:59 2002] Slea Pinewhisper says 'Catch me some other time, I am working on something else now.'
+[Tue Apr 23 17:49:05 2002] Azzasin tells you, 'hehe hey u did my wedding )'
+[Tue Apr 23 17:49:06 2002] Arfarf shouts, 'Porting to BB, WC, NK, SFG, Tox, Feerot, IC, LS, RO'
+[Tue Apr 23 17:49:07 2002] Landarin says out of character, 'HG near Ec zone'
+[Tue Apr 23 17:49:20 2002] Gamzuk says out of character, 'what is HG?'
+[Tue Apr 23 17:49:22 2002] You told Azzasin, 'hey how are ya?'
+[Tue Apr 23 17:49:24 2002] Azzasin says out of character, 'hill giant'
+[Tue Apr 23 17:49:30 2002] Azzasin tells you, 'alright, you?'
+[Tue Apr 23 17:49:31 2002] Gamzuk says out of character, '! ! ! '
+[Tue Apr 23 17:49:31 2002] You told Azzasin, 'with this character?'
+[Tue Apr 23 17:49:35 2002] Cyzix shouts, 'omg he rgened al lhis hp back'
+[Tue Apr 23 17:49:36 2002] You told Azzasin, 'oh doing well'
+[Tue Apr 23 17:49:39 2002] Players in EverQuest:
+[Tue Apr 23 17:49:39 2002] ---------------------------
+[Tue Apr 23 17:49:39 2002] * Guide *[55 Luminary] Nazbag (Ogre) <Keepers of Dreams> ZONE: cshome (USER PID EUUV5HS)
+[Tue Apr 23 17:49:39 2002] * Guide *[ANON (50 Warrior)] Slayehn (Half Elf) ZONE: everfrost (USER PID FT3SJQ6)
+[Tue Apr 23 17:49:39 2002] * Apprentice Guide *[20 Bard] Harmonix (Vah Shir) ZONE: firiona (USER PID HYD4ACJ)
+[Tue Apr 23 17:49:39 2002] * Guide *[51 Disciple] Hexian (Iksar) <Keepers of Dreams> ZONE: firiona (USER PID CUUVYEU)
+[Tue Apr 23 17:49:39 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID B4KJ6E7)
+[Tue Apr 23 17:49:39 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID HT3SRT4)
+[Tue Apr 23 17:49:39 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID DUGA6TS)
+[Tue Apr 23 17:49:39 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: cshome (USER PID E0SZKWA)
+[Tue Apr 23 17:49:39 2002] There are 8 players in EverQuest.
+[Tue Apr 23 17:49:39 2002] Azzasin tells you, 'great!'
+[Tue Apr 23 17:49:47 2002] Evanshalee shouts, 'hill giant near EC zoneline'
+[Tue Apr 23 17:49:50 2002] Gamzuk says out of character, 'what are you fighting? teh giant?'
+[Tue Apr 23 17:49:50 2002] You told inari, 'come to me please'
+[Tue Apr 23 17:49:53 2002] Inari tells the guild, 'sure Be right there'
+[Tue Apr 23 17:49:59 2002] Inari GMSAYS, 'Zoning up, what floor?'
+[Tue Apr 23 17:50:35 2002] Fourier auctions, 'paying 50pp for a TP to DL (for two)'
+[Tue Apr 23 17:50:38 2002] Phloop says out of character, 'ty '
+[Tue Apr 23 17:50:49 2002] Aelfgar says, 'Hail, Espranza'
+[Tue Apr 23 17:50:51 2002] Lusk auctions, 'WTS skull shaped barbutte ac13, +35 hps, +10 vs magic'
+[Tue Apr 23 17:50:51 2002] Qtii auctions, 'WTB HQ bear and wolf skins'
+[Tue Apr 23 17:50:52 2002] Avlee cheers at Espranza.
+[Tue Apr 23 17:50:53 2002] You say, 'hi!'
+[Tue Apr 23 17:51:02 2002] Aelfgar says, 'greeting Esr'
+[Tue Apr 23 17:51:06 2002] Avlee says, 'omg! you have my epic! hehe'
+[Tue Apr 23 17:51:07 2002] You bow before Aelfgar.
+[Tue Apr 23 17:51:10 2002] Avlee beams a smile at Espranza.
+[Tue Apr 23 17:51:15 2002] Avlee begins to cast a spell. (Spirit of Wolf)
+[Tue Apr 23 17:51:20 2002] You feel the spirit of wolf enter you.
+[Tue Apr 23 17:51:24 2002] You say, 'heh'
+[Tue Apr 23 17:51:24 2002] Avlee begins to cast a spell. (Spirit of Wolf)
+[Tue Apr 23 17:51:24 2002] Aelfgar says, 'not any trouble i hope?'
+[Tue Apr 23 17:51:29 2002] Inari is surrounded by a brief lupine aura.
+[Tue Apr 23 17:51:29 2002] Lusk auctions, 'WTS wu bracer ac 4, +1agil'
+[Tue Apr 23 17:51:30 2002] Arioche auctions, 'WTB Essence of Shadows'
+[Tue Apr 23 17:51:31 2002] Inari grins evilly at Espranza.
+[Tue Apr 23 17:51:33 2002] Dracthorn says, 'Hail, Fourier'
+[Tue Apr 23 17:51:36 2002] Fourier says, 'Hail, Dracthorn'
+[Tue Apr 23 17:51:37 2002] You say, 'Inari, some crazed guide put the druid merchant out of place'
+[Tue Apr 23 17:51:37 2002] Avlee cheers at Fourier.
+[Tue Apr 23 17:51:40 2002] Avlee says, 'FOUR!'
+[Tue Apr 23 17:51:41 2002] Transill says out of character, 'well damn a whole 4pp off that one'
+[Tue Apr 23 17:51:45 2002] Dracthorn says, 'dont need to join'
+[Tue Apr 23 17:51:46 2002] You say, 'Could you reset her, please?'
+[Tue Apr 23 17:51:47 2002] Avlee beams a smile at Fourier.
+[Tue Apr 23 17:51:48 2002] Avlee waves at Fourier.
+[Tue Apr 23 17:51:49 2002] Fourier says, 'avlee'
+[Tue Apr 23 17:52:13 2002] Inari tells you, 'err where'
+[Tue Apr 23 17:52:22 2002] You told Inari, 'heh.... find her...'
+[Tue Apr 23 17:52:23 2002] Dracthorn begins to cast a spell. (Translocate: Combine)
+[Tue Apr 23 17:52:23 2002] Fourier begins to cast a spell. (Insight)
+[Tue Apr 23 17:52:28 2002] Dracthorn looks wise.
+[Tue Apr 23 17:52:33 2002] Fourier fades away.
+[Tue Apr 23 17:52:36 2002] Aelfgar says, 'Hail, Fourier'
+[Tue Apr 23 17:52:41 2002] Dracthorn begins to cast a spell. (Translocate: Combine)
+[Tue Apr 23 17:52:42 2002] Inari tells you, 'whats name? do you know?'
+[Tue Apr 23 17:52:46 2002] You told Inari, 'yes...'
+[Tue Apr 23 17:52:52 2002] Slayehn GMSAYS, '>>>ZONING<<<'
+[Tue Apr 23 17:52:53 2002] Hoddadd was injured by falling.
+[Tue Apr 23 17:52:53 2002] Inari tells you, 'can I know?'
+[Tue Apr 23 17:52:59 2002] You told Inari, 'ask over pr'
+[Tue Apr 23 17:53:18 2002] Lusk auctions, 'WTS giant Lord's tunic ac 18 chr -5, +5 vss cold'
+[Tue Apr 23 17:53:26 2002] Lusk auctions, 'WTS darkforge boots, gloves and vambraces'
+[Tue Apr 23 17:53:36 2002] Inari GMSAYS, 'does anyone know the name of the druid merch in west commons?'
+[Tue Apr 23 17:53:49 2002] Dracthorn begins to cast a spell. (Fay Portal)
+[Tue Apr 23 17:53:50 2002] Fantasmo shouts, '52 chanter LFG'
+[Tue Apr 23 17:53:52 2002] Hikanur says out of character, 'Level 51 warrior looking for a gropu'
+[Tue Apr 23 17:53:53 2002] Daleynn GMSAYS, 'yes Slea Pinewhisper'
+[Tue Apr 23 17:54:01 2002] Qtii auctions, 'WTB HQ bear and wolf skins'
+[Tue Apr 23 17:54:04 2002] Dracthorn creates a shimmering portal.
+[Tue Apr 23 17:54:07 2002] Hikanur says out of character, 'group even'
+[Tue Apr 23 17:54:08 2002] Inari GMSAYS, 'Thanks Ya'
+[Tue Apr 23 17:54:18 2002] Xulok says, 'Sushi Slayer!?!?!?!'
+[Tue Apr 23 17:54:18 2002] Nazbag GMSAYS, 'thats a good one to put in a socal Inari'
+[Tue Apr 23 17:54:19 2002] Aelfgar says, 'Hail, Xulok'
+[Tue Apr 23 17:54:23 2002] Xulok says, 'You are just wrong'
+[Tue Apr 23 17:54:24 2002] Nazbag GMSAYS, 'most of the druid merchants are'
+[Tue Apr 23 17:55:00 2002] Transill shouts, '52 druid LFG'
+[Tue Apr 23 17:55:07 2002] Nazbag GMSAYS, 'some time, takea  trip around, target them, /goto them, and then write the exact name into a social /say Slea_pinewhisper00'
+[Tue Apr 23 17:55:24 2002] Avlee cheers at Xulok.
+[Tue Apr 23 17:55:25 2002] Nazbag GMSAYS, 'that way, when you need it, you just hit the social, scroll up one, home key, and change the /say to /goto and your laughing'
+[Tue Apr 23 17:56:26 2002] It begins to rain.
+[Tue Apr 23 17:56:31 2002] Players in EverQuest:
+[Tue Apr 23 17:56:31 2002] ---------------------------
+[Tue Apr 23 17:56:31 2002] * Guide *[55 Luminary] Nazbag (Ogre) <Keepers of Dreams> ZONE: cshome (USER PID EUUV5HS)
+[Tue Apr 23 17:56:31 2002] * Guide *[50 Warrior] Slayehn (Half Elf) <Keepers of Dreams> ZONE: katta (USER PID FT3SJQ6)
+[Tue Apr 23 17:56:31 2002] * Apprentice Guide *[20 Bard] Harmonix (Vah Shir) ZONE: firiona (USER PID HYD4ACJ)
+[Tue Apr 23 17:56:31 2002] * Guide *[51 Disciple] Hexian (Iksar) <Keepers of Dreams> ZONE: firiona (USER PID CUUVYEU)
+[Tue Apr 23 17:56:31 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID B4KJ6E7)
+[Tue Apr 23 17:56:31 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: commons (USER PID HT3SRT4)
+[Tue Apr 23 17:56:31 2002] * Guide *[54 Minstrel] Jaxus (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID DUGA6TS)
+[Tue Apr 23 17:56:31 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: cshome (USER PID E0SZKWA)
+[Tue Apr 23 17:56:31 2002] There are 8 players in EverQuest.
+[Tue Apr 23 17:56:35 2002] Tigerlee auctions, 'WTS Knuckel Duster 14dmg 28dly 1hb send tell'
+[Tue Apr 23 17:56:40 2002] Hikanur auctions, 'WTS Sarnack '
+[Tue Apr 23 17:56:48 2002] Transill shouts, '52 Druid LFG'
+[Tue Apr 23 17:56:53 2002] Hikanur auctions, 'WTS Sarnack Skull splitter'
+[Tue Apr 23 17:57:07 2002] Tigerlee auctions, 'WTS Knuckel Duster 14dmg 28dly 1hb send tell'
+[Tue Apr 23 17:57:07 2002] You feel the spirit of Norrath enter you.
+[Tue Apr 23 17:57:08 2002] Jaxus GMSAYS, 'well guys it's that time for me, have a good evening =)'
+[Tue Apr 23 17:57:14 2002] You GMSAY, 'Night Jax!'
+[Tue Apr 23 17:57:19 2002] Wipl says out of character, 'LF port to GD'
+[Tue Apr 23 17:57:22 2002] Harmonix GMSAYS, 'Night Jaxus'
+[Tue Apr 23 17:57:22 2002] Inari GMSAYS, 'night Jaxus'
+[Tue Apr 23 17:57:22 2002] Slayehn GMSAYS, 'Night Jaxus!'
+[Tue Apr 23 17:57:34 2002] Shandara auctions, 'donating for port to bb'
+[Tue Apr 23 17:57:36 2002] Jaxus GMSAYS, '=)'
+[Tue Apr 23 17:57:36 2002] Hikanur says out of character, 'Hail Wipl'
+[Tue Apr 23 17:57:39 2002] You told inari, '/goto slea_pinewhisper00'
+[Tue Apr 23 17:57:39 2002] Hexian GMSAYS, 'also in the library on the message board there is a list of NPCs that are helpful to know. Some that gets out of place often and others at docks and such so you don't have to run around zone looking for it'
+[Tue Apr 23 17:57:42 2002] Avlee begins to cast a spell. (Spirit of Wolf)
+[Tue Apr 23 17:57:42 2002] Slayehn GMSAYS, '>>>ZONING<<<'
+[Tue Apr 23 17:57:43 2002] Inari tells the guild, 'Esp It said taking me to her and im still here /boggle'
+[Tue Apr 23 17:57:44 2002] Hexian GMSAYS, 'Bye Jax'
+[Tue Apr 23 17:57:55 2002] You say to your guild, 'you spelled the name wrong, then'
+[Tue Apr 23 17:57:56 2002] Wipl says out of character, 'Heya Hikanur'
+[Tue Apr 23 17:58:03 2002] Harmonix GMSAYS, 'Pulling Thearin'
+[Tue Apr 23 17:58:05 2002] Inari tells the guild, 'k'
+[Tue Apr 23 17:58:10 2002] You say to your guild, 'try /find slea_pinewhisper00 to target her if in zone'
+[Tue Apr 23 17:58:12 2002] Aelfgar begins to cast a spell. (Markar's Relocation)
+[Tue Apr 23 17:58:16 2002] You say to your guild, 'then you can just use /goto'
+[Tue Apr 23 17:58:20 2002] Avlee bonks Xulok on the head!
+[Tue Apr 23 17:58:25 2002] Timberfox auctions, 'WTS wakizashi of the frozen skies pst'
+[Tue Apr 23 17:58:30 2002] Teleporting to inari.
+[Tue Apr 23 17:58:37 2002] Tigerlee auctions, 'WTS Knuckel Duster 14dmg 28dly 1hb send tell'
+[Tue Apr 23 17:58:40 2002] Espranza saved.
+[Tue Apr 23 17:58:41 2002] You feel as if you are about to fall.
+[Tue Apr 23 17:58:47 2002] You feel as if you are about to fall.
+[Tue Apr 23 17:58:50 2002] You can no longer levitate.
+[Tue Apr 23 17:58:50 2002] Inari GMSAYS, 'What do you guys think of last name Bossypants?'
+[Tue Apr 23 17:58:55 2002] Timberfox auctions, 'WTS wakizashi of the frozen skies pst'
+[Tue Apr 23 17:58:56 2002] Transill shouts, '52 Druid LFG'
+[Tue Apr 23 17:59:00 2002] Tigerlee auctions, 'WTS Knuckel Duster 14dmg 28dly 1hb send tell'
+[Tue Apr 23 17:59:01 2002] You GMSAY, 'not much'
+[Tue Apr 23 17:59:13 2002] Inari tells the guild, 'that little underline is a troublemaker'
+[Tue Apr 23 17:59:25 2002] Hexian GMSAYS, 'I think I know a few people that deserve it at work'
+[Tue Apr 23 17:59:25 2002] Tigerlee auctions, 'WTS Knuckel Duster 14dmg 28dly 1hb MONK only send tell '
+[Tue Apr 23 17:59:25 2002] Harmonix GMSAYS, 'sounds like my little sister. :P'
+[Tue Apr 23 17:59:49 2002] Inari GMSAYS, 'Hah!'
+[Tue Apr 23 17:59:59 2002] Slayehn GMSAYS, 'haha'
+[Tue Apr 23 18:00:03 2002] Shadow Treebright begins to cast a spell. (Shield of Brambles)
+[Tue Apr 23 18:00:37 2002] Calgire begins to cast a spell. (Summon Horse)
+[Tue Apr 23 18:00:52 2002] Hexian GMSAYS, 'AFK,, getting a little snack'
+[Tue Apr 23 18:01:09 2002] Inari tells the guild, 'ok no laughing if i kill myself....'
+[Tue Apr 23 18:01:11 2002] Shadow Treebright begins to cast a spell. (Shield of Brambles)
+[Tue Apr 23 18:01:11 2002] Transill shouts, '52 Druid LFG'
+[Tue Apr 23 18:01:13 2002] Wipl auctions, 'WTS Spell Tears of Druzzil wiz'
+[Tue Apr 23 18:01:21 2002] You tell your party, 'sorry to have everyone gang up on you at all once, but at least THAT'S all over with now...'
+[Tue Apr 23 18:01:21 2002] Slea Pinewhisper blinks a few times.
+[Tue Apr 23 18:01:29 2002] Avangelien says out of character, 'Hiya Transill, it's Koly'
+[Tue Apr 23 18:01:34 2002] Slea Pinewhisper says 'Can't you see I'm doing something here?'
+[Tue Apr 23 18:01:35 2002] Sadia says, 'Hail, Espranza'
+[Tue Apr 23 18:01:40 2002] Slea Pinewhisper says 'Guards!! Guards!! '
+[Tue Apr 23 18:01:40 2002] Slea Pinewhisper feels a bit dispelled.
+[Tue Apr 23 18:01:41 2002] You say, 'Hi, Sadia!'
+[Tue Apr 23 18:01:52 2002] Sadia says, 'is it true Lirus is leaving?'
+[Tue Apr 23 18:01:56 2002] Harmonix GMSAYS, 'ANyone know anything about Halfling newbie armor quests?'
+[Tue Apr 23 18:02:01 2002] You say, 'Lirus has left the server, yes'
+[Tue Apr 23 18:02:07 2002] Sadia pouts.
+[Tue Apr 23 18:02:08 2002] You say, 'Our new GM is Daleynn.'
+[Tue Apr 23 18:02:08 2002] Daleynn tells the group, 'Not a problem, am glad to know about it.  Oh I do have a name I need you to watch for please we have a Baggins Bilboo that needs nerfed when he's on'
+[Tue Apr 23 18:02:17 2002] Sadia says, 'just wanted to confirm with someone thatwould know'
+[Tue Apr 23 18:02:17 2002] Transill says, 'just the server? or everquest completely?'
+[Tue Apr 23 18:02:19 2002] Xathier says out of character, 'looking for port to NK or Feerrott for CR'
+[Tue Apr 23 18:02:20 2002] You tell your party, 'we probably have a hundred of those.'
+[Tue Apr 23 18:02:31 2002] You say, 'She has left EQ completely and moved back home to Texas.'
+[Tue Apr 23 18:02:32 2002] Daleynn tells the group, 'am sure *chuckle*'
+[Tue Apr 23 18:02:57 2002] Sadia says, 'oh Texas... my home too :) weather sucketh :P'
+[Tue Apr 23 18:03:00 2002] Transill says, 'ahh'
+[Tue Apr 23 18:03:02 2002] Hikanur says out of character, '51 tank and a 52 shaman starting a group.   PST'
+[Tue Apr 23 18:03:08 2002] Hexian GMSAYS, 'Back from AFK'
+[Tue Apr 23 18:03:17 2002] Slayehn GMSAYS, 'WB :)'
+[Tue Apr 23 18:03:19 2002] You say, 'You'll like Daleynn.'
+[Tue Apr 23 18:03:29 2002] Nazbag GMSAYS, 'not I harmonix.'
+[Tue Apr 23 18:03:37 2002] Inari tells the guild, 'hmm Well it didnt work. Did I not get her in the right spot?'
+[Tue Apr 23 18:03:38 2002] Sadia says, 'well that's sad to hear but I'm sure Daleynn is great.. we've had great luck on MT'
+[Tue Apr 23 18:03:43 2002] Wipl begins to cast a spell. (Harnessing of Spirit)
+[Tue Apr 23 18:03:47 2002] You say to your guild, 'other side'
+[Tue Apr 23 18:03:49 2002] Sadia beams a smile at Espranza.
+[Tue Apr 23 18:03:51 2002] Izelin begins to cast a spell. (Gate)
+[Tue Apr 23 18:03:56 2002] Transill says, 'asides from constant server crashes =)'
+[Tue Apr 23 18:03:57 2002] Wipl begins to cast a spell. (Stamina)
+[Tue Apr 23 18:03:58 2002] You say, 'Aye, I am just very happy we got such a nice GM so soon.'
+[Tue Apr 23 18:03:58 2002] Xathier begins to cast a spell. (Clarity)
+[Tue Apr 23 18:04:09 2002] Italian begins to cast a spell. (Spirit of Wolf)
+[Tue Apr 23 18:04:10 2002] Rantien begins to cast a spell. (Gate)
+[Tue Apr 23 18:04:18 2002] You say, 'Not a haffer though.'
+[Tue Apr 23 18:04:19 2002] Wipl begins to cast a spell. (Harnessing of Spirit)
+[Tue Apr 23 18:04:23 2002] Italian begins to cast a spell. (Spirit of Wolf)
+[Tue Apr 23 18:04:23 2002] Sadia says, 'LOL'
+[Tue Apr 23 18:04:26 2002] Xathier begins to cast a spell. (Gift of Magic)
+[Tue Apr 23 18:04:28 2002] I don't see anyone by that name around here...
+[Tue Apr 23 18:04:29 2002] You no longer have a target.
+[Tue Apr 23 18:04:30 2002] Targrill says out of character, 'lvl 20 bard lfg'
+[Tue Apr 23 18:04:31 2002] You shrug unknowingly.
+[Tue Apr 23 18:04:32 2002] Wipl begins to cast a spell. (Spirit of Bih`Li)
+[Tue Apr 23 18:04:34 2002] Xathier begins to cast a spell. (Insight)
+[Tue Apr 23 18:04:35 2002] Hexian GMSAYS, 'I do.. I created a Halfling *winks at Espranza* Ranger just the other day'
+[Tue Apr 23 18:04:39 2002] Sadia is clueless.
+[Tue Apr 23 18:04:53 2002] Sadia says, 'have a good one Espranza'
+[Tue Apr 23 18:04:55 2002] Transill begins to cast a spell. (Spirit of Wolf)
+[Tue Apr 23 18:05:00 2002] You GMSAY, 'well, my ranger Dira is 11... still in misty though'
+[Tue Apr 23 18:05:01 2002] Wipl begins to cast a spell. (Spirit of Bih`Li)
+[Tue Apr 23 18:05:03 2002] Slea Pinewhisper blinks a few times.
+[Tue Apr 23 18:05:10 2002] Slea Pinewhisper says 'Greetings, Inari. You look like you could use a Mithril Earring.'
+[Tue Apr 23 18:05:14 2002] Shadow Treebright begins to cast a spell. (Shield of Brambles)
+[Tue Apr 23 18:05:15 2002] You cheer at Inari.
+[Tue Apr 23 18:05:16 2002] Mistystorm begins to cast a spell. (Circle of Karana)
+[Tue Apr 23 18:05:23 2002] Transill shouts, '52 druid lfg'
+[Tue Apr 23 18:05:29 2002] Nazbag GMSAYS, 'does she have the spiffy round braids or one of those goofy buns Espie?'
+[Tue Apr 23 18:05:32 2002] Xathier creates a mystic portal.
+[Tue Apr 23 18:05:32 2002] Mistystorm creates a mystic portal.
+[Tue Apr 23 18:05:33 2002] Inari tells the guild, 'Cooool, shes back and Im not dead!'
+[Tue Apr 23 18:05:37 2002] Hikanur says out of character, 'come to Druid ring Transill'
+[Tue Apr 23 18:05:38 2002] Slyr shouts, 'Lvl 52 SK LFG'
+[Tue Apr 23 18:05:49 2002] Azzasin says, 'Sushi!'
+[Tue Apr 23 18:05:50 2002] Transill says out of character, 'yay someone wants me! =)'
+[Tue Apr 23 18:05:54 2002] Nazbag GMSAYS, 'zone'
+[Tue Apr 23 18:05:56 2002] Azzasin says, 'Sushi isnt bad'
+[Tue Apr 23 18:06:00 2002] Italian begins to cast a spell. (Gate)
+[Tue Apr 23 18:06:00 2002] You GMSAY, 'you know, I don't remember. I think the buns with the hairpins.'
+[Tue Apr 23 18:06:02 2002] Hexian GMSAYS, 'hehehe mine too, trying to finish up my newbie armor quest cause I''m too lazy to do any camping for some gear for him with my other character'
+[Tue Apr 23 18:06:04 2002] Avangelien says out of character, 'Lol'
+[Tue Apr 23 18:06:05 2002] Italian fades away.
+[Tue Apr 23 18:06:16 2002] You GMSAY, 'I got some Tolan's in a crypt group the other night'
+[Tue Apr 23 18:06:17 2002] Inari says, 'No Sushi is very very good as a matter of fact.'
+[Tue Apr 23 18:06:19 2002] Transill says out of character, 'isnt that often ('
+[Tue Apr 23 18:06:23 2002] Azzasin says, 'Aye!'
+[Tue Apr 23 18:06:24 2002] Wolfimus auctions, 'WTB  Forest Loop Earrings'
+[Tue Apr 23 18:06:26 2002] Transill says, 'Hail, Hikanur'
+[Tue Apr 23 18:06:28 2002] Sadia hugs Breezen.
+[Tue Apr 23 18:06:29 2002] Gameny says out of character, 'I didn't hear him say he wanted you, just heard him tell you to come to the ring! ;)'
+[Tue Apr 23 18:06:32 2002] You GMSAY, 'rogues + crypt = ownage'
+[Tue Apr 23 18:06:34 2002] Sadia kisses Breezen.
+[Tue Apr 23 18:06:36 2002] Breezen hugs Sadia.
+[Tue Apr 23 18:06:36 2002] Azzasin says, 'Ok later Gm's! Have fun!'
+[Tue Apr 23 18:06:42 2002] Breezen kisses sadia.
+[Tue Apr 23 18:06:49 2002] Hexian GMSAYS, '=)'
+[Tue Apr 23 18:07:07 2002] Slayehn GMSAYS, '>>>ZONING<<<'
+[Tue Apr 23 18:07:10 2002] Shadow Treebright begins to cast a spell. (Shield of Brambles)
+[Tue Apr 23 18:07:15 2002] Daleynn GMSAYS, 'Zone!'
+[Tue Apr 23 18:07:21 2002] Players in EverQuest:
+[Tue Apr 23 18:07:21 2002] ---------------------------
+[Tue Apr 23 18:07:21 2002] * Guide *[55 Luminary] Nazbag (Ogre) <Keepers of Dreams> ZONE: neriaka (USER PID EUUV5HS)
+[Tue Apr 23 18:07:21 2002] * Apprentice Guide *[20 Bard] Harmonix (Vah Shir) ZONE: firiona (USER PID HYD4ACJ)
+[Tue Apr 23 18:07:21 2002] * Guide *[51 Disciple] Hexian (Iksar) <Keepers of Dreams> ZONE: firiona (USER PID CUUVYEU)
+[Tue Apr 23 18:07:21 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID B4KJ6E7)
+[Tue Apr 23 18:07:21 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: commons (USER PID HT3SRT4)
+[Tue Apr 23 18:07:21 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: lfaydark (USER PID E0SZKWA)
+[Tue Apr 23 18:07:21 2002] There are 6 players in EverQuest.
+[Tue Apr 23 18:07:27 2002] Adianie thanks Agualung heartily.
+[Tue Apr 23 18:07:29 2002] Cei Sunjumper begins to cast a spell. (Firefist)
+[Tue Apr 23 18:07:31 2002] Varigon auctions, 'WTS Shield of Spec Essence..Nec/SK only .1500pp. '
+[Tue Apr 23 18:07:36 2002] Inari GMSAYS, 'my halfie has the cool little chopsticks in her hair .... for sushi....'
+[Tue Apr 23 18:07:37 2002] Adianie waves.
+[Tue Apr 23 18:07:50 2002] Agualung begins to cast a spell. (Circle of Butcher)
+[Tue Apr 23 18:07:54 2002] Agualung says, 'on to BB'
+[Tue Apr 23 18:07:55 2002] You GMSAY, 'my main haffers have the looped braids, I love those'
+[Tue Apr 23 18:08:03 2002] Inari GMSAYS, 'Zoning up, what floor?'
+[Tue Apr 23 18:08:18 2002] Hexian GMSAYS, 'I hate that, the Halfling females look cool, but the males are real dorky looking'
+[Tue Apr 23 18:08:24 2002] Daleynn GMSAYS, 'Mine do too I like that look for the halfling'
+[Tue Apr 23 18:08:57 2002] You GMSAY, 'males aren't too bad; look a lot better in plate than females do'
+[Tue Apr 23 18:09:00 2002] Espranza saved.
+[Tue Apr 23 18:09:15 2002] You GMSAY, 'I don't think I wear any of my woven shadow anymore, and I have nearly a full set'
+[Tue Apr 23 18:09:29 2002] Swalker says out of character, 'Looking for TP to GD can donate the cash I have one me'
+[Tue Apr 23 18:09:37 2002] You GMSAY, 'even got rid of my crystal chitin bits'
+[Tue Apr 23 18:09:39 2002] Your feet leave the ground.
+[Tue Apr 23 18:09:58 2002] Nazbag GMSAYS, 'I hate male gnomes and asslings myself.  '
+[Tue Apr 23 18:10:02 2002] Inari GMSAYS, 'Humph I dont like the ws has legs and not a dress its indecent....'
+[Tue Apr 23 18:10:05 2002] Nazbag GMSAYS, 'bad bad models'
+[Tue Apr 23 18:10:23 2002] You GMSAY, 'Inari, use black ice leggings, I do. If you're a rogue anyway.'
+[Tue Apr 23 18:10:51 2002] Swalker says out of character, 'Looking for TP to GD can donate the cash I have one me'
+[Tue Apr 23 18:10:59 2002] Slayehn GMSAYS, '>>>ZONING<<<'
+[Tue Apr 23 18:11:00 2002] Inari GMSAYS, 'sure let me trip right over to the rogue surplus Heehee.'
+[Tue Apr 23 18:11:16 2002] You GMSAY, 'my guild owns Velks... I have about everything that drops there.'
+[Tue Apr 23 18:11:50 2002] Inari GMSAYS, 'Eww velks ewwww'
+[Tue Apr 23 18:11:52 2002] Harmonix GMSAYS, 'deleting Thearin'
+[Tue Apr 23 18:11:59 2002] Swalker says out of character, 'Looking for TP to GD can donate the cash I have one me'
+[Tue Apr 23 18:12:09 2002] You GMSAY, 'we're powerleveling ourselves to 60'
+[Tue Apr 23 18:12:30 2002] Inari tells you, 'can I talk to these people in sunset home now?'
+[Tue Apr 23 18:12:44 2002] You told Inari, 'nope. that's for GMs, not guides.'
+[Tue Apr 23 18:13:10 2002] You told Inari, 'if you're talking the ones in back.'
+[Tue Apr 23 18:13:29 2002] You GMSAY, 'zone'
+[Tue Apr 23 18:13:31 2002] Inari tells you, 'okies Wont then. I wanted to know what was yes and what was nono'
+[Tue Apr 23 18:13:32 2002] LOADING, PLEASE WAIT...
+[Tue Apr 23 18:14:05 2002] You have entered Ruins of Sebilis.
+[Tue Apr 23 18:14:05 2002] You have joined the group.
+[Tue Apr 23 18:14:05 2002] Slayehn GMSAYS, 'I'm going to relog quick, I have some random, weird lag.'
+[Tue Apr 23 18:14:06 2002] Espranza saved.
+[Tue Apr 23 18:14:21 2002] Nazbag GMSAYS, 'Velks is great for raw XP for sure Espie'
+[Tue Apr 23 18:14:26 2002] You told Inari, 'rogues can use the secret handshake to get their complicity but I would not advise you to do that'
+[Tue Apr 23 18:14:50 2002] You GMSAY, 'I spent the whole night in OS necro last night and made a blue (in 55). I would have made a yellow - or more - in a VL ledge group'
+[Tue Apr 23 18:15:01 2002] You GMSAY, 'but I need the money. Crypt is good but they had a rogue.'
+[Tue Apr 23 18:15:09 2002] Inari tells you, 'nono Just finding out what is ok and what is not so that I do not do the not ok. *smile*'
+[Tue Apr 23 18:15:17 2002] Nazbag GMSAYS, 'you usually have a full group?'
+[Tue Apr 23 18:15:17 2002] froglok bok shaman begins to cast a spell. (Inner Fire)
+[Tue Apr 23 18:15:18 2002] You told Inari, 'no worries )'
+[Tue Apr 23 18:15:22 2002] Aerial begins to cast a spell. (Dementia)
+[Tue Apr 23 18:15:24 2002] Tayval begins to cast a spell. (Ensnare)
+[Tue Apr 23 18:15:25 2002] Ettienne begins to cast a spell. (Draught of Ice)
+[Tue Apr 23 18:15:25 2002] froglok bok wizard begins to cast a spell. (Force Shock)
+[Tue Apr 23 18:15:25 2002] You GMSAY, 'usually'
+[Tue Apr 23 18:15:27 2002] Froglok bok wizard is caught in a torrent of jagged ice.
+[Tue Apr 23 18:15:28 2002] Gallion begins to cast a spell. (Cannibalize III)
+[Tue Apr 23 18:15:30 2002] Tayval begins to cast a spell. (Frost)
+[Tue Apr 23 18:15:41 2002] You opened the locked door with your magic GM key.
+[Tue Apr 23 18:16:01 2002] Callmed says out of character, 'crypt open'
+[Tue Apr 23 18:16:06 2002] dar ghoul knight begins to cast a spell. (Animate Dead)
+[Tue Apr 23 18:16:12 2002] Nazbag GMSAYS, 'the best XP I found for me was Charasis'
+[Tue Apr 23 18:16:16 2002] Inari GMSAYS, 'do we keep an eye on  ring wars?'
+[Tue Apr 23 18:16:24 2002] You GMSAY, 'no need to watch ring wars'
+[Tue Apr 23 18:16:31 2002] Inari GMSAYS, 'ok'
+[Tue Apr 23 18:16:35 2002] You GMSAY, 'Charasis is cool but it's bring your own group'
+[Tue Apr 23 18:16:55 2002] Daleynn GMSAYS, 'zone'
+[Tue Apr 23 18:16:55 2002] Nazbag GMSAYS, 'yeah'
+[Tue Apr 23 18:16:57 2002] Harmonix GMSAYS, 'don't you need a rogue for charasis?'
+[Tue Apr 23 18:16:59 2002] You begin to sneak...
+[Tue Apr 23 18:16:59 2002] You are as quiet as a herd of running elephants.
+[Tue Apr 23 18:17:02 2002] You begin to hide...
+[Tue Apr 23 18:17:02 2002] You failed to hide yourself.
+[Tue Apr 23 18:17:07 2002] Nazbag GMSAYS, 'not really Harmonix, not for just XP'
+[Tue Apr 23 18:17:11 2002] You GMSAY, 'rogues make things go better there'
+[Tue Apr 23 18:17:20 2002] You GMSAY, 'otherwise you have to clear wings in a certain order'
+[Tue Apr 23 18:17:21 2002] Harmonix GMSAYS, 'thought you had to pick locks'
+[Tue Apr 23 18:17:27 2002] Nazbag GMSAYS, 'the basement rocks for just XP'
+[Tue Apr 23 18:17:33 2002] You GMSAY, 'no, no rent keys drop from mobs'
+[Tue Apr 23 18:17:36 2002] skeletal harbinger regards you indifferently -- it appears to be quite formidable.
+[Tue Apr 23 18:17:39 2002] You have moved and are no longer hidden!!
+[Tue Apr 23 18:17:54 2002] Nazbag GMSAYS, 'we just kill ourselves for the keys'
+[Tue Apr 23 18:17:56 2002] Harmonix GMSAYS, 'one of my favorite zones is ToFS'
+[Tue Apr 23 18:18:06 2002] You GMSAY, 'ToFS is great'
+[Tue Apr 23 18:18:11 2002] Inari GMSAYS, 'OOO ToFS!'
+[Tue Apr 23 18:18:12 2002] Nazbag GMSAYS, 'like, once we get them, we put them in a bag and kill ourselves to leave corpse'
+[Tue Apr 23 18:18:13 2002] Slayehn GMSAYS, 'I love ToFS'
+[Tue Apr 23 18:18:14 2002] You GMSAY, 'good exp for 35-45'
+[Tue Apr 23 18:18:29 2002] You GMSAY, 'people do that now to preserve focus items, too'
+[Tue Apr 23 18:18:44 2002] Nazbag GMSAYS, 'yeah, they are a bit of a pain to get'
+[Tue Apr 23 18:18:47 2002] Harmonix GMSAYS, 'I heard you could do that with Mage summoned focus items.'
+[Tue Apr 23 18:18:55 2002] Inari GMSAYS, 'other favorite zone is MM :D'
+[Tue Apr 23 18:19:03 2002] You GMSAY, 'agh, MM rots'
+[Tue Apr 23 18:19:03 2002] Nazbag GMSAYS, 'every patch I prey for them to "update" the older items'
+[Tue Apr 23 18:19:04 2002] Sharpers auctions, 'WTS nathsar vambracers'
+[Tue Apr 23 18:19:04 2002] Slayehn GMSAYS, 'Eeepp...I don't like MM'
+[Tue Apr 23 18:19:05 2002] Harmonix GMSAYS, 'Mistmoore rocks'
+[Tue Apr 23 18:19:16 2002] Nazbag GMSAYS, 'MM...shudder'
+[Tue Apr 23 18:19:18 2002] Inari GMSAYS, 'MMmmmmmmMmMmmm'
+[Tue Apr 23 18:19:31 2002] You opened the locked door with your magic GM key.
+[Tue Apr 23 18:19:35 2002] Harmonix GMSAYS, 'STILL the worst trains I have ever seen have been in Mistmoore'
+[Tue Apr 23 18:19:35 2002] Daleynn GMSAYS, 'MM is a lot of fun =)'
+[Tue Apr 23 18:19:45 2002] Hexian GMSAYS, '*sigh* I still have to go there for my Shadow Bound boot quest'
+[Tue Apr 23 18:19:51 2002] Nazbag GMSAYS, 'for the heck of it we did XP in Fear last weekend for XP'
+[Tue Apr 23 18:20:00 2002] Inari GMSAYS, 'Arg! Worst trains! Have you been to Unrest?'
+[Tue Apr 23 18:20:09 2002] Nazbag GMSAYS, 'yeah! unrest rocks'
+[Tue Apr 23 18:20:10 2002] Harmonix GMSAYS, 'yes'
+[Tue Apr 23 18:20:14 2002] Nazbag GMSAYS, 'bugz'
+[Tue Apr 23 18:20:30 2002] Harmonix GMSAYS, 'pulling Itelen'
+[Tue Apr 23 18:20:57 2002] Sharpers says out of character, 'I know where you live shincho'
+[Tue Apr 23 18:21:02 2002] Nazbag GMSAYS, 'do you play EQ much Daleynn?'
+[Tue Apr 23 18:21:04 2002] Shincho says out of character, 'No j00 dont'
+[Tue Apr 23 18:21:14 2002] Daleynn GMSAYS, 'yep *laughing*'
+[Tue Apr 23 18:21:27 2002] Nazbag GMSAYS, 'cool =)'
+[Tue Apr 23 18:21:45 2002] You GMSAY, 'Hex knows how much I play'
+[Tue Apr 23 18:21:51 2002] Daleynn GMSAYS, 'my main is a happy little dwarven cleric'
+[Tue Apr 23 18:21:53 2002] Hexian GMSAYS, 'Necro's and clerics Own in Unrest..... I went there one time for a quest and saw a group of 1 pally, 2 clerics 2 Necros and a Warrior i think, they were much to low for the zone but they were kicking everything around like they owned the place'
+[Tue Apr 23 18:22:06 2002] You feel as if you are about to fall.
+[Tue Apr 23 18:22:12 2002] You feel as if you are about to fall.
+[Tue Apr 23 18:22:18 2002] You can no longer levitate.
+[Tue Apr 23 18:22:19 2002] You opened the locked door with your magic GM key.
+[Tue Apr 23 18:22:23 2002] Slayehn GMSAYS, 'afk just a sec'
+[Tue Apr 23 18:22:23 2002] Nazbag GMSAYS, 'I had good luck with a druid too Hexian, cause the mobs there dont agro wolf form for whatever reason'
+[Tue Apr 23 18:22:31 2002] Nazbag GMSAYS, 'beta neutral I guess'
+[Tue Apr 23 18:22:55 2002] You GMSAY, 'they fixed that, you now gradually become KOS to them'
+[Tue Apr 23 18:23:03 2002] Nazbag GMSAYS, 'my cleric is a dwarf too Daleynn, my favorite race for it by far'
+[Tue Apr 23 18:23:15 2002] Nazbag GMSAYS, 'doh.  my faction is so bottom =( '
+[Tue Apr 23 18:23:20 2002] Inari GMSAYS, 'ooh Esp you do the Rozzut sticker quest? I like mine :D Except that npc in FV stole my last name....'
+[Tue Apr 23 18:23:32 2002] Hexian GMSAYS, 'I have only ever met one other person that plays more the esp, and that is only cause she guides i assume'
+[Tue Apr 23 18:23:40 2002] Nazbag GMSAYS, 'I grouped there from 9 to about 14, then soloed from 14 to 19 in unrest'
+[Tue Apr 23 18:23:51 2002] You GMSAY, 'Rozzut Sticker? Dunno that one...'
+[Tue Apr 23 18:23:53 2002] Your feet leave the ground.
+[Tue Apr 23 18:23:58 2002] Harmonix GMSAYS, 'Slayehn did you talk to Itelen about epic?'
+[Tue Apr 23 18:24:02 2002] Nazbag GMSAYS, 'then, I came back and got about 28 to 30 in the basement'
+[Tue Apr 23 18:24:20 2002] Espranza saved.
+[Tue Apr 23 18:24:26 2002] Daleynn GMSAYS, 'yeah have a halfling cleric as well but the dwarf is my fav'
+[Tue Apr 23 18:24:55 2002] Nazbag GMSAYS, 'I like the priests myself, I have a druid and a cleric and a very low shaman =)'
+[Tue Apr 23 18:25:03 2002] Imperial Crypt Guardian begins to cast a spell. (Heroism)
+[Tue Apr 23 18:25:03 2002] Inari GMSAYS, 'Zoning up, what floor?'
+[Tue Apr 23 18:25:07 2002] You begin to sneak...
+[Tue Apr 23 18:25:07 2002] You are as quiet as a herd of running elephants.
+[Tue Apr 23 18:25:07 2002] You have become better at Sneak! (51)
+[Tue Apr 23 18:25:11 2002] Imperial Crypt Guardian begins to cast a spell. (Yaulp IV)
+[Tue Apr 23 18:25:21 2002] Daleynn GMSAYS, 'have two young shaman also- actually have more alts than I can manage at times I fear'
+[Tue Apr 23 18:25:25 2002] You begin to sneak...
+[Tue Apr 23 18:25:25 2002] You are as quiet as a herd of running elephants.
+[Tue Apr 23 18:25:27 2002] Harmonix GMSAYS, 'deleting Itelen'
+[Tue Apr 23 18:25:38 2002] You begin to sneak...
+[Tue Apr 23 18:25:38 2002] You are as quiet as a herd of running elephants.
+[Tue Apr 23 18:25:48 2002] Nazbag GMSAYS, 'I wish it was possible to movelog for a week so I could play with some of the other guides, I have yet to see another guide from prexus'
+[Tue Apr 23 18:25:53 2002] You begin to sneak...
+[Tue Apr 23 18:25:53 2002] You are as quiet as a cat stalking its prey.
+[Tue Apr 23 18:25:54 2002] Slayehn GMSAYS, 'back from afk'
+[Tue Apr 23 18:25:58 2002] You begin to hide...
+[Tue Apr 23 18:25:58 2002] You have hidden yourself from view.
+[Tue Apr 23 18:26:09 2002] You GMSAY, 'isn't Yumenoteki on Prexus?'
+[Tue Apr 23 18:26:14 2002] You GMSAY, 'maybe that was Quellious'
+[Tue Apr 23 18:26:17 2002] Imperial Crypt Guardian regards you indifferently -- it appears to be quite formidable.
+[Tue Apr 23 18:26:18 2002] Harmonix GMSAYS, 'I thought we weren't allowed to know which servers other guides played on.'
+[Tue Apr 23 18:26:45 2002] You GMSAY, 'it was a long time before that was made clear to us, Harm'
+[Tue Apr 23 18:27:04 2002] You GMSAY, 'so for better or for worse, most of us know where each other plays'
+[Tue Apr 23 18:27:09 2002] Nazbag GMSAYS, 'I was flat out told it was OK to share with the guides on your server'
+[Tue Apr 23 18:27:10 2002] Harmonix GMSAYS, 'Can you make it clear to me? :)'
+[Tue Apr 23 18:27:14 2002] Imperial Crypt Guardian begins to cast a spell. (Heroism)
+[Tue Apr 23 18:27:18 2002] Imperial Crypt Guardian's eyes gleam with heroic resolution.
+[Tue Apr 23 18:27:30 2002] Imperial Crypt Guardian begins to cast a spell. (Yaulp IV)
+[Tue Apr 23 18:27:31 2002] Imperial Crypt Guardian lets loose a mighty yaulp.
+[Tue Apr 23 18:27:45 2002] You GMSAY, 'currently you are not to tell anyone your play server.'
+[Tue Apr 23 18:27:55 2002] Slayehn GMSAYS, 'Escalating Merkor...lost 4 bags of items while LD in EC'
+[Tue Apr 23 18:28:00 2002] Harmonix GMSAYS, 'ok, then It will go with me to my grave'
+[Tue Apr 23 18:28:06 2002] You GMSAY, 'our old training script explicitly encouraged it.'
+[Tue Apr 23 18:28:11 2002] The spirit of wolf leaves you.
+[Tue Apr 23 18:28:16 2002] Imperial Crypt Guardian regards you indifferently -- it appears to be quite formidable.
+[Tue Apr 23 18:28:26 2002] dar ghoul knight scowls at you, ready to attack -- it appears to be quite formidable.
+[Tue Apr 23 18:28:37 2002] Harmonix GMSAYS, 'Really, I don't see a problem with it, except if people get moved around to other servers alot.'
+[Tue Apr 23 18:28:40 2002] Imperial Crypt Guardian regards you indifferently -- it appears to be quite formidable.
+[Tue Apr 23 18:28:59 2002] Daleynn GMSAYS, 'right Esp =) not suposed to say these days - just as I can't share where I play *chuckle*'
+[Tue Apr 23 18:29:09 2002] Hexian tells you, 'I am glad you were still using the old script when i was apprenticed =)'
+[Tue Apr 23 18:29:16 2002] You told Hexian, 'me too ...'
+[Tue Apr 23 18:29:37 2002] You GMSAY, 'well, GMs were ALWAYS told not to share that info'
+[Tue Apr 23 18:29:50 2002] You GMSAY, 'we guides were not told that, though.'
+[Tue Apr 23 18:30:33 2002] Hexian GMSAYS, 'ZONING.... Come on, everybody is doing it!'
+[Tue Apr 23 18:30:55 2002] skeletal champion regards you indifferently -- it appears to be quite formidable.
+[Tue Apr 23 18:30:58 2002] skeletal champion regards you indifferently -- it appears to be quite formidable.
+[Tue Apr 23 18:30:59 2002] Inari tells you, 'if you arent busy :) can you come here to me?'
+[Tue Apr 23 18:31:01 2002] skeletal champion regards you indifferently -- it appears to be quite formidable.
+[Tue Apr 23 18:31:13 2002] You told Inari, 'sure'
+[Tue Apr 23 18:31:14 2002] Nazbag GMSAYS, 'how long have you been playing for Daleynn?'
+[Tue Apr 23 18:31:16 2002] Players in EverQuest:
+[Tue Apr 23 18:31:16 2002] ---------------------------
+[Tue Apr 23 18:31:16 2002] * Guide *[55 Luminary] Nazbag (Ogre) <Keepers of Dreams> ZONE: neriaka (USER PID EUUV5HS)
+[Tue Apr 23 18:31:16 2002] * Guide *[50 Warrior] Slayehn (Half Elf) <Keepers of Dreams> ZONE: firiona (USER PID FT3SJQ6)
+[Tue Apr 23 18:31:16 2002] * Apprentice Guide *[20 Bard] Harmonix (Vah Shir) ZONE: firiona (USER PID HYD4ACJ)
+[Tue Apr 23 18:31:16 2002] * Guide *[51 Disciple] Hexian (Iksar) <Keepers of Dreams> ZONE: karnor (USER PID CUUVYEU)
+[Tue Apr 23 18:31:16 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: sebilis (USER PID B4KJ6E7)
+[Tue Apr 23 18:31:16 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: firiona (USER PID HT3SRT4)
+[Tue Apr 23 18:31:16 2002] * GM-Admin *[60 Oracle] Daleynn (Vah Shir) <Keepers of Dreams> ZONE: katta (USER PID E0SZKWA)
+[Tue Apr 23 18:31:16 2002] There are 7 players in EverQuest.
+[Tue Apr 23 18:31:23 2002] You GMSAY, 'zone'
+[Tue Apr 23 18:31:25 2002] Teleporting to inari.
+[Tue Apr 23 18:31:27 2002] LOADING, PLEASE WAIT...
+[Tue Apr 23 18:32:36 2002] You have entered Firiona Vie.
+[Tue Apr 23 18:32:37 2002] You have joined the group.
+[Tue Apr 23 18:32:39 2002] Daleynn GMSAYS, 'zone'
+[Tue Apr 23 18:32:39 2002] Harmonix GMSAYS, 'pulling Libre'
+[Tue Apr 23 18:32:39 2002] Espranza saved.
+[Tue Apr 23 18:32:56 2002] You say, 'what's up?'
+[Tue Apr 23 18:33:17 2002] Inari says, 'This one is who i was speaking of'
+[Tue Apr 23 18:33:26 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:33:39 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:33:40 2002] Inari tells you, 'Didnt know her name shes the one with quest I cant remember the name'
+[Tue Apr 23 18:33:51 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:33:52 2002] You told Inari, 'she gives a weapon?'
+[Tue Apr 23 18:34:10 2002] Briktop shouts, 'wtb ranger equip'
+[Tue Apr 23 18:34:15 2002] Sergeant Daelione shouts 'We march Onward! '
+[Tue Apr 23 18:34:16 2002] Hexian tells the guild, 'hehehe I'm hanging out behind to zone line in Karnor.... Had a corpse recovery here so I put a corpse of my own here so it could come back here.... Don't worry though no one can see it unless you are behind the zone wall as well'
+[Tue Apr 23 18:34:27 2002] Inari tells you, 'No she gives the quest. Although if  you own velks you probably have better. haha'
+[Tue Apr 23 18:34:37 2002] You told Inari, 'about to get my epic'
+[Tue Apr 23 18:34:48 2002] Inari tells you, 'me too Danged kedge robe'
+[Tue Apr 23 18:34:49 2002] Slayehn tells the guild, 'On my play char I always get stuck back there when I'm running from the many trains in KC.'
+[Tue Apr 23 18:34:50 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:34:51 2002] You told Inari, 'have LSoEE for offhand'
+[Tue Apr 23 18:34:55 2002] Fyrefly is enveloped by flame.
+[Tue Apr 23 18:35:06 2002] The spirit leaves you.
+[Tue Apr 23 18:35:10 2002] You told Inari, 'kedge I have. oracle I have. ishva will most likely drop during general.'
+[Tue Apr 23 18:35:19 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:35:22 2002] You told Inari, 'dang SMR I can't get.'
+[Tue Apr 23 18:35:48 2002] Inari tells you, 'My very good mage buddy gave me his when he got his hate robe/,'
+[Tue Apr 23 18:36:02 2002] Hexian tells the guild, 'You just got to turn around and run back out as if to re-enter the zone, to zone if you get behind it'
+[Tue Apr 23 18:36:06 2002] Harmonix GMSAYS, 'You can't put skill points into specializations after 50, can you?'
+[Tue Apr 23 18:36:09 2002] You told Inari, 'used for both enchie and rogue epic, hard to find one these days'
+[Tue Apr 23 18:36:16 2002] Slayehn tells the guild, 'Yeah...I don't usually make it that far though hehe =)'
+[Tue Apr 23 18:36:19 2002] Harmonix GMSAYS, 'I mean a skill level of 50'
+[Tue Apr 23 18:36:25 2002] Nazbag GMSAYS, 'you should be able to put points into one of them'
+[Tue Apr 23 18:36:30 2002] Slayehn GMSAYS, 'Only up to 20 I think'
+[Tue Apr 23 18:36:30 2002] Inari tells you, 'and pieople love to gouge lol'
+[Tue Apr 23 18:36:35 2002] Nazbag GMSAYS, 'the one your really specializing in'
+[Tue Apr 23 18:36:41 2002] Daleynn GMSAYS, 'okies I need to head out for lunch, be back in a bit!'
+[Tue Apr 23 18:36:45 2002] You told Inari, 'yeah... well, maybe the quill will drop.'
+[Tue Apr 23 18:36:51 2002] Slayehn GMSAYS, 'Take care Daleynn'
+[Tue Apr 23 18:36:54 2002] You told Inari, 'what level is your rogue?'
+[Tue Apr 23 18:36:58 2002] You GMSAY, 'laters Dale'
+[Tue Apr 23 18:37:02 2002] You feel as if you are about to fall.
+[Tue Apr 23 18:37:03 2002] Hexian GMSAYS, 'Bah! Luch at almost 7:00pm.. hehehe'
+[Tue Apr 23 18:37:06 2002] You feel the spirit of Norrath enter you.
+[Tue Apr 23 18:37:08 2002] You feel as if you are about to fall.
+[Tue Apr 23 18:37:10 2002] Hexian GMSAYS, 'Lunch even'
+[Tue Apr 23 18:37:14 2002] You can no longer levitate.
+[Tue Apr 23 18:37:16 2002] Inari tells you, 'it dropped on ours and all were supposed to roll but he looted so oh well lol'
+[Tue Apr 23 18:37:21 2002] Inari tells you, '51'
+[Tue Apr 23 18:37:21 2002] Daleynn GMSAYS, 'I know *laughing*'
+[Tue Apr 23 18:37:27 2002] Daleynn GMSAYS, 'cya in a bit'
+[Tue Apr 23 18:37:27 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:37:29 2002] You have been removed from the group.
+[Tue Apr 23 18:37:30 2002] Harmonix GMSAYS, 'Doesn't AVERAGE go up to a skill level of 69, now?'
+[Tue Apr 23 18:37:32 2002] Hiptal Frizzleboth is enveloped by flame.
+[Tue Apr 23 18:37:34 2002] Hexian GMSAYS, 'Once again.... Nice to meet you Daleynn'
+[Tue Apr 23 18:37:37 2002] Inari tells you, 'gl of a smaller guild'
+[Tue Apr 23 18:37:57 2002] Inari GMSAYS, 'See ya! Good to have ya :)'
+[Tue Apr 23 18:37:59 2002] You told Inari, 'nice if you're getting your epic so young, I'm 55 and will probably be 56 before I complete it'
+[Tue Apr 23 18:38:18 2002] Cheeop tells you, 'miss lirus yet?'
+[Tue Apr 23 18:38:27 2002] Kharnov auctions, 'WTS lesser guard of haste (shoulders)'
+[Tue Apr 23 18:38:29 2002] You told Cheeop, 'yeah...'
+[Tue Apr 23 18:38:34 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:38:38 2002] Hexian GMSAYS, 'Dont forget to read my post on General, on Morell's bored.. i think it is very funny'
+[Tue Apr 23 18:38:46 2002] You told Cheeop, 'changed GMs before though. Daleynn is okay.'
+[Tue Apr 23 18:38:55 2002] Cheeop tells you, 'that's the new one?'
+[Tue Apr 23 18:38:59 2002] You told Cheeop, 'yup.'
+[Tue Apr 23 18:39:04 2002] Cheeop tells you, 'i came from The Rathe, i missed Erika Daystream'
+[Tue Apr 23 18:39:17 2002] Cheeop tells you, 'she left after 8 months on the rathe, and all their server gms since that been no good'
+[Tue Apr 23 18:39:29 2002] Cheeop tells you, 'oh zatozia was cool enough, had a good sense of humor'
+[Tue Apr 23 18:39:31 2002] Inari tells you, 'lol still 51 because i hate fighting for space... my server overcrowded with 55 plus'
+[Tue Apr 23 18:39:34 2002] You told Cheeop, 'well, we'll see how Daleynn does'
+[Tue Apr 23 18:39:52 2002] You told Inari, 'so's mine, I hear rogue lfg everywhere I go... good thing I have a lot of friends.'
+[Tue Apr 23 18:40:18 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:40:23 2002] You say, 'Hail, Allaria Sneakyfeet'
+[Tue Apr 23 18:40:24 2002] Allaria Sneakyfeet says 'Well hello Espranza.  What brings you to me?  Are you one of the sneaky folk in search of the plans for the Whistler? '
+[Tue Apr 23 18:40:30 2002] You say, 'oh this quest'
+[Tue Apr 23 18:40:36 2002] Inari tells you, 'nod we do stuff together but we all started noobs recently lol'
+[Tue Apr 23 18:40:38 2002] You say, 'yeah, heard about this in The Safehouse'
+[Tue Apr 23 18:40:50 2002] Tai Glimmershawl shouts 'The good ship Maiden's Voyage is now departing our fair docks, bound for Faydwer.  If you were unfortunate enough to have missed it, it shall return as soon as possible.  We will keep you informed of its status.  Thank you, and may Tunare bless you! '
+[Tue Apr 23 18:40:51 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:40:54 2002] Inari says, 'Hmm there is it? Havent been in a while'
+[Tue Apr 23 18:40:56 2002] Fyrefly is enveloped by flame.
+[Tue Apr 23 18:41:11 2002] Kharnov says out of character, 'PC on J bones gauntlets ac14 effect: deftness plz'
+[Tue Apr 23 18:41:18 2002] Inari tells you, 'i wanted to do a quest without printing it out first.... LOL'
+[Tue Apr 23 18:41:21 2002] Hexian GMSAYS, 'Espranza, There is a guy named Munq, a LVL 19.. yep you guessed it.. Monk. We wants to know if he can get a first name change..... I was wondering if this name already breaks rules?'
+[Tue Apr 23 18:41:39 2002] You GMSAY, 'which rule does it break?'
+[Tue Apr 23 18:42:32 2002] Slayehn GMSAYS, 'Have a pet whenever the player touches or goes into water and comes out...all items that emitted light have to be taken off and re-equipped to emit light again... anyone have any ideas on how to fix that?'
+[Tue Apr 23 18:42:33 2002] Hexian GMSAYS, 'I dunno, I just thought we would change a druids name if it was Droid, or something.. guess that is a know.. hehehe'
+[Tue Apr 23 18:42:55 2002] Espranza saved.
+[Tue Apr 23 18:42:57 2002] You GMSAY, 'you tell me which rule it breaks and I will change it...'
+[Tue Apr 23 18:43:00 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:43:05 2002] Hiptal Frizzleboth is enveloped by flame.
+[Tue Apr 23 18:43:19 2002] You GMSAY, 'well, duh, water quenches light...'
+[Tue Apr 23 18:43:23 2002] Hexian GMSAYS, 'hehehe, ummmmm okay'
+[Tue Apr 23 18:43:34 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:43:35 2002] You GMSAY, 'they're in the P&P'
+[Tue Apr 23 18:43:54 2002] an explorer begins to cast a spell. (Shield of Flame)
+[Tue Apr 23 18:43:57 2002] Hexian GMSAYS, 'i know,, I'm looking =)'
+[Tue Apr 23 18:43:58 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:43:59 2002] You GMSAY, 'as for the items - isn't there an option for dynamic lighting?'
+[Tue Apr 23 18:44:10 2002] You GMSAY, 'I wonder if that switch needs to be toggled on or off.'
+[Tue Apr 23 18:44:24 2002] Inari GMSAYS, 'is Sseru  cs limited looking for my new list cant find it off hand'
+[Tue Apr 23 18:44:38 2002] You GMSAY, 'it is not, feel free to explore the wonders of the Filing Cabinet'
+[Tue Apr 23 18:44:55 2002] Slayehn GMSAYS, 'Hmm.  He says light appears normal until he hits water, I'll have them try the dynamic lighting'
+[Tue Apr 23 18:45:01 2002] a pilgrim begins to cast a spell. (Bravery)
+[Tue Apr 23 18:45:01 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:45:04 2002] Hiptal Frizzleboth looks brave.
+[Tue Apr 23 18:45:07 2002] Inari GMSAYS, 'LOL that cabinet is a pain'
+[Tue Apr 23 18:45:34 2002] Turless shouts, 'i just logged on is there a GM event?'
+[Tue Apr 23 18:45:37 2002] You GMSAY, 'I think it's hilarious'
+[Tue Apr 23 18:45:58 2002] Mordikus auctions, 'WTS Crystal Grinder 9/27 AC 2 Piercing'
+[Tue Apr 23 18:46:00 2002] Mordikus auctions, 'WTS Dragon Horn Yak 8/23 dmg+5 Yak proc Rngr only'
+[Tue Apr 23 18:46:00 2002] Turless shouts, 'theres lots of GMs here'
+[Tue Apr 23 18:46:00 2002] Meethead says out of character, 'heck if id know...i never get ne thing from em'
+[Tue Apr 23 18:46:06 2002] Players on EverQuest:
+[Tue Apr 23 18:46:06 2002] ---------------------------
+[Tue Apr 23 18:46:06 2002] [28 Ranger] Turless (Half Elf)
+[Tue Apr 23 18:46:06 2002] [ANONYMOUS] Lukata 
+[Tue Apr 23 18:46:06 2002] [ANONYMOUS] Chalcedor 
+[Tue Apr 23 18:46:06 2002] [34 Bard] Meethead (Half Elf) <Wraith Lords>
+[Tue Apr 23 18:46:06 2002] [32 Ranger] Briktop (Wood Elf) <Shades of the Nameless>
+[Tue Apr 23 18:46:06 2002] * GM * [20 Bard] Harmonix (Vah Shir)
+[Tue Apr 23 18:46:06 2002] [ANONYMOUS] Sharessa 
+[Tue Apr 23 18:46:06 2002] [42 Ranger] Mordikus (Human)
+[Tue Apr 23 18:46:06 2002] [25 Ranger] Tullena (Halfling)
+[Tue Apr 23 18:46:06 2002] * GM * [50 Warrior] Slayehn (Half Elf) <Keepers of Dreams>
+[Tue Apr 23 18:46:06 2002] [59 Luminary] Edgto (Barbarian)
+[Tue Apr 23 18:46:06 2002] * GM * [50 Rogue] Inari (Wood Elf) <Keepers of Dreams>
+[Tue Apr 23 18:46:06 2002] * GM * [55 Blackguard] Espranza (Halfling) <Keepers of Dreams>
+[Tue Apr 23 18:46:06 2002] There are 13 players in Firiona Vie.
+[Tue Apr 23 18:46:07 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:46:19 2002] Players in EverQuest:
+[Tue Apr 23 18:46:19 2002] ---------------------------
+[Tue Apr 23 18:46:19 2002] * Guide *[55 Luminary] Nazbag (Ogre) <Keepers of Dreams> ZONE: neriaka (USER PID EUUV5HS)
+[Tue Apr 23 18:46:19 2002] * Guide *[50 Warrior] Slayehn (Half Elf) <Keepers of Dreams> ZONE: firiona (USER PID FT3SJQ6)
+[Tue Apr 23 18:46:19 2002] * Apprentice Guide *[20 Bard] Harmonix (Vah Shir) ZONE: firiona (USER PID HYD4ACJ)
+[Tue Apr 23 18:46:19 2002] * Guide *[51 Disciple] Hexian (Iksar) <Keepers of Dreams> ZONE: karnor (USER PID CUUVYEU)
+[Tue Apr 23 18:46:19 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: firiona (USER PID B4KJ6E7)
+[Tue Apr 23 18:46:19 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: firiona (USER PID HT3SRT4)
+[Tue Apr 23 18:46:19 2002] There are 6 players in EverQuest.
+[Tue Apr 23 18:46:19 2002] Hiptal Frizzleboth begins to cast a spell. (Barrier of Combustion)
+[Tue Apr 23 18:46:21 2002] Turless says out of character, 'theres 4'
+[Tue Apr 23 18:46:24 2002] Fyrefly is enveloped by flame.
+[Tue Apr 23 18:46:30 2002] Summoning inari.
+[Tue Apr 23 18:46:32 2002] Nazbag GMSAYS, 'enlighten me =) filing cabinet?'
+[Tue Apr 23 18:46:32 2002] You no longer have a target.
+[Tue Apr 23 18:46:39 2002] Summoning slayehn.
+[Tue Apr 23 18:46:43 2002] Inari says, 'HAH'
+[Tue Apr 23 18:46:46 2002] Players in EverQuest:
+[Tue Apr 23 18:46:46 2002] ---------------------------
+[Tue Apr 23 18:46:46 2002] * Guide *[55 Luminary] Nazbag (Ogre) <Keepers of Dreams> ZONE: neriaka (USER PID EUUV5HS)
+[Tue Apr 23 18:46:46 2002] * Guide *[50 Warrior] Slayehn (Half Elf) <Keepers of Dreams> ZONE: firiona (USER PID FT3SJQ6)
+[Tue Apr 23 18:46:46 2002] * Apprentice Guide *[20 Bard] Harmonix (Vah Shir) ZONE: firiona (USER PID HYD4ACJ)
+[Tue Apr 23 18:46:46 2002] * Guide *[51 Disciple] Hexian (Iksar) <Keepers of Dreams> ZONE: karnor (USER PID CUUVYEU)
+[Tue Apr 23 18:46:46 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: firiona (USER PID B4KJ6E7)
+[Tue Apr 23 18:46:46 2002] * Guide *[50 Rogue] Inari (Wood Elf) <Keepers of Dreams> ZONE: firiona (USER PID HT3SRT4)
+[Tue Apr 23 18:46:46 2002] There are 6 players in EverQuest.
+[Tue Apr 23 18:46:50 2002] Turless says out of character, 'and thats alot to be in 1 zone'
+[Tue Apr 23 18:46:54 2002] Slayehn bites Inari on the leg!
+[Tue Apr 23 18:46:55 2002] Summoning harmonix.
+[Tue Apr 23 18:47:02 2002] Slayehn pokes Espranza.
+[Tue Apr 23 18:47:11 2002] Inari GMSAYS, 'Zoning up, what floor?'
+[Tue Apr 23 18:47:36 2002] You GMSAY, 'there's a quest in SSeru where you have to put some documents into a filing cabinet'
+[Tue Apr 23 18:47:45 2002] Harmonix GMSAYS, 'deleting Libre'
+[Tue Apr 23 18:47:46 2002] You GMSAY, 'it snatches them from you'
+[Tue Apr 23 18:47:55 2002] Edgto says out of character, 'they kicked back in the pub here in this fair city, drinking an ale in the memory of Lirus'
+[Tue Apr 23 18:48:01 2002] You GMSAY, 'and then spawns a guard who wants to kill you...'
+[Tue Apr 23 18:48:09 2002] Meethead says out of character, 'what about lirus?'
+[Tue Apr 23 18:48:14 2002] Your feet leave the ground.
+[Tue Apr 23 18:48:17 2002] Tullena says out of character, 'she left'
+[Tue Apr 23 18:48:22 2002] Harmonix GMSAYS, 'pulling Galit'
+[Tue Apr 23 18:48:25 2002] Meethead says out of character, 'WHOAH WHOAH WHEN!'
+[Tue Apr 23 18:48:26 2002] You no longer have a target.
+[Tue Apr 23 18:48:27 2002] Turless says out of character, 'lirus is a he LOL'
+[Tue Apr 23 18:48:28 2002] You wave.
+[Tue Apr 23 18:48:31 2002] Hexian GMSAYS, 'Okay espranza I got it =) Rule 10... names Containing a title... At level 20 He could be Munq Dude, Munq or Monk would be used as a title... or must we wait untill they do that?'
+[Tue Apr 23 18:48:33 2002] Nazbag GMSAYS, 'for creating paper work no doubt'
+[Tue Apr 23 18:48:36 2002] Meethead says out of character, 'lirus is a she in real life'
+[Tue Apr 23 18:48:37 2002] Tullena says out of character, 'Megan is a he for you ?'
+[Tue Apr 23 18:48:47 2002] Turless says out of character, 'LOL'
+[Tue Apr 23 18:48:47 2002] Edgto says out of character, 'a sad day in Norrath. one of the mighty has fallen'
+[Tue Apr 23 18:48:48 2002] Nazbag GMSAYS, 'I dont know SOL well yet, my machine just dies there'
+[Tue Apr 23 18:48:52 2002] Meethead says out of character, 'whoah whoah'
+[Tue Apr 23 18:48:54 2002] You GMSAY, 'monk isn't a title, it's a profession. '
+[Tue Apr 23 18:48:59 2002] Meethead says out of character, '....ill miss her she was so cool..'
+[Tue Apr 23 18:48:59 2002] Kralok auctions, 'WTS- SOW POTIONS 100pp'
+[Tue Apr 23 18:49:01 2002] Nazbag GMSAYS, 'can't shoot someone until they break the rules Hex'
+[Tue Apr 23 18:49:05 2002] Meethead says out of character, 'she gave me my surname *sniff*'
+[Tue Apr 23 18:49:06 2002] Tullena says out of character, 'Yup that sux, lirus was cool =/'
+[Tue Apr 23 18:49:17 2002] Mordikus auctions, 'WTS Gaunts o Power AC11 5ST 20HP'
+[Tue Apr 23 18:49:39 2002] Turless says out of character, '....she swared at me'
+[Tue Apr 23 18:49:57 2002] Turless says out of character, 'still why sooo many GMs'
+[Tue Apr 23 18:49:57 2002] Meethead says out of character, 'no way...'
+[Tue Apr 23 18:50:05 2002] Meethead says out of character, 'they just explained dude'
+[Tue Apr 23 18:50:11 2002] Hexian GMSAYS, 'Oh okay... It doesn't break any rules..... The guy wanted his named changed Naz... I wasn't just looking to mess with them... LOL Geez you really think I'm mean dont you? *whimper* j/k'
+[Tue Apr 23 18:50:24 2002] Players in EverQuest:
+[Tue Apr 23 18:50:24 2002] ---------------------------
+[Tue Apr 23 18:50:24 2002] [1 Magician] Izahnya (Erudite) ZONE: tox (USER PID G4YB18B)
+[Tue Apr 23 18:50:24 2002] [1 Rogue] Jamesdeen (Halfling) ZONE: rivervale (USER PID G2UQU8J)
+[Tue Apr 23 18:50:24 2002] [ANON (1 Monk)] Pellagius (Human) ZONE: freporte (USER PID EQ11UUW)
+[Tue Apr 23 18:50:24 2002] [ANON (1 Monk)] Moreelee (Human) ZONE: freportn (USER PID HR7NKTG)
+[Tue Apr 23 18:50:24 2002] [1 Rogue] Varzii (Half Elf) ZONE: freporte (USER PID HWPKE6W)
+[Tue Apr 23 18:50:24 2002] [1 Bard] Musicc (Wood Elf) ZONE: gfaydark (USER PID G0QLWX2)
+[Tue Apr 23 18:50:24 2002] [1 Warrior] Wordan (Barbarian) ZONE: everfrost (USER PID A0S6NDG)
+[Tue Apr 23 18:50:24 2002] [1 Warrior] Grombel (Dwarf) ZONE: butcher (USER PID FSDZJKL)
+[Tue Apr 23 18:50:24 2002] [ANON (1 Paladin)] Enchie (Human) ZONE: ecommons (USER PID HWAZQZV)
+[Tue Apr 23 18:50:24 2002] [1 Cleric] Eaeamin (High Elf) ZONE: butcher (USER PID H3364A4)
+[Tue Apr 23 18:50:24 2002] [1 Warrior] Tedrickous (Barbarian) ZONE: everfrost (USER PID A1L8EPD)
+[Tue Apr 23 18:50:24 2002] [1 Warrior] Warlorsamule (Human) ZONE: ecommons (USER PID F1PHMJK)
+[Tue Apr 23 18:50:24 2002] [ANON (1 Cleric)] Caiggan (Halfling) ZONE: bazaar (USER PID FPJU6UW)
+[Tue Apr 23 18:50:24 2002] [1 Cleric] Claer (Halfling) ZONE: rivervale (USER PID BYRRPG0)
+[Tue Apr 23 18:50:24 2002] [1 Monk] Weisse (Human) ZONE: freportw (USER PID HUAWJ74)
+[Tue Apr 23 18:50:24 2002] [1 Monk] Volorexx (Iksar) <War Criminals> ZONE: overthere (USER PID BXZ3LN9)
+[Tue Apr 23 18:50:24 2002] There are 16 players in EverQuest.
+[Tue Apr 23 18:50:39 2002] Meethead says out of character, 'they were celebrating lirus' leaving'
+[Tue Apr 23 18:50:39 2002] Turless says out of character, 'there not gonna celebrate l;irus.../Are they?'
+[Tue Apr 23 18:50:48 2002] Meethead says out of character, 'they already did'
+[Tue Apr 23 18:50:55 2002] Players on EverQuest:
+[Tue Apr 23 18:50:55 2002] ---------------------------
+[Tue Apr 23 18:50:55 2002] * GM * [19 Bard] Harmonix (Vah Shir)
+[Tue Apr 23 18:50:55 2002] [29 Druid] Forron (Halfling)
+[Tue Apr 23 18:50:55 2002] [48 Shaman] Kralok (Barbarian)
+[Tue Apr 23 18:50:55 2002] [50 Monk] Tanego (Iksar) <Vision of Sages>LFG
+[Tue Apr 23 18:50:55 2002] [28 Ranger] Turless (Half Elf)
+[Tue Apr 23 18:50:55 2002] [ANONYMOUS] Lukata 
+[Tue Apr 23 18:50:55 2002] [34 Bard] Meethead (Half Elf) <Wraith Lords>
+[Tue Apr 23 18:50:55 2002] [32 Ranger] Briktop (Wood Elf) <Shades of the Nameless>
+[Tue Apr 23 18:50:55 2002] [ANONYMOUS] Sharessa 
+[Tue Apr 23 18:50:55 2002] [42 Ranger] Mordikus (Human)
+[Tue Apr 23 18:50:55 2002] [25 Ranger] Tullena (Halfling)
+[Tue Apr 23 18:50:55 2002] * GM * [50 Warrior] Slayehn (Half Elf) <Keepers of Dreams>
+[Tue Apr 23 18:50:55 2002] [59 Luminary] Edgto (Barbarian)
+[Tue Apr 23 18:50:55 2002] * GM * [55 Blackguard] Espranza (Halfling) <Keepers of Dreams>
+[Tue Apr 23 18:50:55 2002] There are 14 players in Firiona Vie.
+[Tue Apr 23 18:50:56 2002] Turless says out of character, 'ah'
+[Tue Apr 23 18:51:05 2002] Harmonix GMSAYS, 'dang!'
+[Tue Apr 23 18:51:08 2002] You no longer have a target.
+[Tue Apr 23 18:51:11 2002] Harmonix GMSAYS, 'Ding!'
+[Tue Apr 23 18:51:12 2002] You GMSAY, 'what?'
+[Tue Apr 23 18:51:21 2002] Searching zones for corpse of that name....
+[Tue Apr 23 18:51:21 2002] Corpse: Harmonix's corpse0 in zone: firiona
+[Tue Apr 23 18:51:29 2002] Summoning harmonix's corpse0.
+[Tue Apr 23 18:51:41 2002] Searching zones for corpse of that name....
+[Tue Apr 23 18:51:50 2002] Teleporting to harmonix.
+[Tue Apr 23 18:51:58 2002] Hexian GMSAYS, '????'
+[Tue Apr 23 18:52:05 2002] You GMSAY, 'supposed to /pr zone before zoning...'
+[Tue Apr 23 18:52:27 2002] Slayehn GMSAYS, 'that was my fault :(  Tried to summon him to me, but where I was standing he fell.'
+[Tue Apr 23 18:52:35 2002] You GMSAY, 'oh!'
+[Tue Apr 23 18:52:45 2002] Kralok auctions, 'WTS- SOW POTIONS 100pp'
+[Tue Apr 23 18:53:09 2002] Hexian GMSAYS, 'LOL you summoned him to his death.... Slayehn! *tisk*tisk*.. hehehe'
+[Tue Apr 23 18:53:11 2002] Espranza saved.
+[Tue Apr 23 18:53:21 2002] You GMSAY, 'well time for me to take off... see y'all later!'
+[Tue Apr 23 18:53:25 2002] Slayehn GMSAYS, 'hehe opps'
+[Tue Apr 23 18:53:26 2002] It will take you about 30 seconds to prepare your camp.
+[Tue Apr 23 18:53:30 2002] It will take about 25 more seconds to prepare your camp.
+[Tue Apr 23 18:53:31 2002] Harmonix GMSAYS, 'Night Espranza. :)'
+[Tue Apr 23 18:53:33 2002] You GMSAY, 'be nice to Daleynn :)'
+[Tue Apr 23 18:53:35 2002] It will take about 20 more seconds to prepare your camp.
+[Tue Apr 23 18:53:36 2002] Slayehn GMSAYS, 'Night, Esp :)'
+[Tue Apr 23 18:53:40 2002] It will take about 15 more seconds to prepare your camp.
+[Tue Apr 23 18:53:42 2002] Inari GMSAYS, 'night Esp :D'
+[Tue Apr 23 18:53:43 2002] You GMSAY, 'we can be our usual surly selves tomorrow'
+[Tue Apr 23 18:53:45 2002] It will take about 10 more seconds to prepare your camp.
+[Tue Apr 23 18:53:47 2002] Hexian GMSAYS, 'bye esp'
+[Tue Apr 23 18:53:50 2002] It will take about 5 more seconds to prepare your camp.

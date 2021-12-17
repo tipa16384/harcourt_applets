@@ -1,0 +1,88 @@
+// CUP specification for a simple expression evaluator (no actions)
+
+import java_cup.runtime.*;
+import java.util.Vector;
+
+action code
+{:
+	Vector opcodeStack = new Vector();
+	
+	public Vector getOpcodeStack()
+	{
+		return opcodeStack;
+	}
+	
+	void pushOpcode( int opcode )
+	{
+		pushOpcode( opcode, null );
+	}
+	
+	void pushOpcode( int opcode, Object val )
+	{
+		System.out.println("Opcode "+opcode+" val="+val);
+		
+		int ival=0;
+		
+		try
+		{
+			if( (val != null) && (val instanceof String) )
+			{
+				ival = Integer.parseInt((String)val);
+			}
+		}
+		
+		catch( Exception e )
+		{
+		}
+		
+		opcodeStack.addElement( new Opcode(opcode,ival) );
+	}
+:};
+
+parser code
+{:
+	public Vector getOpcodeStack()
+	{
+		return ((CUP$actions)action_obj).getOpcodeStack();
+	}
+:};
+
+/* Terminals (tokens returned by the scanner). */
+terminal            PLUS, MINUS, TIMES, DIVIDE;
+terminal            UMINUS, LPAREN, RPAREN, VARIABLE;
+terminal String		NUMBER;
+
+/* Non terminals */
+non terminal     term, lterm;
+non terminal Vector expr;
+
+/* Precedences */
+precedence left PLUS, MINUS;
+precedence left TIMES, DIVIDE;
+precedence left UMINUS;
+
+/* The grammar */
+expr      ::= expr PLUS expr
+				{: pushOpcode(sym.PLUS); :}
+            | expr MINUS expr
+				{: pushOpcode(sym.MINUS); :}
+            | expr TIMES expr  
+				{: pushOpcode(sym.TIMES); :}
+            | expr DIVIDE expr  
+				{: pushOpcode(sym.DIVIDE); :}
+	    	| MINUS expr
+				{: pushOpcode(sym.UMINUS); :}
+				%prec UMINUS
+			| lterm
+	    	;
+
+lterm ::=	lterm term
+				{: pushOpcode(sym.TIMES);; :}
+			| term;
+			
+term ::= NUMBER:e1
+			{: pushOpcode(sym.NUMBER,e1); :}
+		 | VARIABLE
+		 	{: pushOpcode(sym.VARIABLE); :}
+		 | LPAREN expr RPAREN
+		 ;

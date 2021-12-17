@@ -1,0 +1,465 @@
+[Sun Jul 22 08:27:26 2001] Welcome to EverQuest!
+[Sun Jul 22 08:27:26 2001] You have entered Sunset Home.
+[Sun Jul 22 08:27:26 2001] MESSAGE OF THE DAY: Welcome to EverQuest! Please make sure you have the Kunark or Velious expansions installed on the computer that you are using before you attempt to enter into a Kunark or Velious zone. Thank you.
+[Sun Jul 22 08:27:27 2001] GUILD MOTD: Mersi - Please make sure you are scheduled! we wiped it =)
+[Sun Jul 22 08:27:29 2001] Players in EverQuest:
+[Sun Jul 22 08:27:29 2001] ---------------------------
+[Sun Jul 22 08:27:29 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jul 22 08:27:29 2001] * Guide *[52 Mystic] Nazbag (Ogre) <Keepers of Morell Thule> ZONE: oggok (USER PID EUUV5HS)
+[Sun Jul 22 08:27:29 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: dreadlands (USER PID GX2YWXV)
+[Sun Jul 22 08:27:29 2001] * Apprentice Guide *[20 Monk] Oraden (Human) ZONE: lakeofillomen (USER PID ATWFJ36)
+[Sun Jul 22 08:27:29 2001] There are 4 players in EverQuest.
+[Sun Jul 22 08:27:45 2001] You say to your guild, 'There are frogloks in Chardok, too.'
+[Sun Jul 22 08:28:01 2001] Nazbag tells the guild, 'hullo Espie'
+[Sun Jul 22 08:28:05 2001] You GMSAY, 'hiya all!'
+[Sun Jul 22 08:28:25 2001] Oraden GMSAYS, 'greets espranza'
+[Sun Jul 22 08:28:26 2001] Celesra GMSAYS, 'Hi Esp. I just got here...I need pickup from someone =)'
+[Sun Jul 22 08:28:39 2001] You GMSAY, 'I'm just waiting for a raid to start...'
+[Sun Jul 22 08:28:40 2001] Oraden GMSAYS, 'greets Celesra'
+[Sun Jul 22 08:28:48 2001] Celesra GMSAYS, 'hey'
+[Sun Jul 22 08:28:54 2001] You GMSAY, 'no petitions!!!'
+[Sun Jul 22 08:28:58 2001] Oraden GMSAYS, 'whatcha raiding Esp?'
+[Sun Jul 22 08:29:04 2001] You GMSAY, 'Kedge.'
+[Sun Jul 22 08:29:13 2001] Nazbag GMSAYS, 'retreived Titiana's corpse from n2084.35 n499 n36.84 in TOV.'
+[Sun Jul 22 08:29:29 2001] You GMSAY, 'well there's a bad name for ya'
+[Sun Jul 22 08:29:32 2001] Oraden GMSAYS, 'Larsot and I were on till just before 8. then Nazbag came on so we knocked the few back down. ;)'
+[Sun Jul 22 08:29:32 2001] Nazbag GMSAYS, 'I will get Cel'
+[Sun Jul 22 08:29:37 2001] Players in EverQuest:
+[Sun Jul 22 08:29:37 2001] ---------------------------
+[Sun Jul 22 08:29:37 2001] [58 Preserver] Titiana (Wood Elf) <Thunderwalkers> ZONE: templeveeshan (USER PID GP9PVHC)
+[Sun Jul 22 08:29:37 2001] There is 1 player in EverQuest.
+[Sun Jul 22 08:29:42 2001] Nazbag GMSAYS, 'zone'
+[Sun Jul 22 08:30:02 2001] You GMSAY, '<note badname> Titiana (GP9PVHC) - Queen of the Elves'
+[Sun Jul 22 08:30:52 2001] Nazbag tells the guild, 'raiding for your tainted?'
+[Sun Jul 22 08:31:01 2001] You GMSAY, 'I've never seen an Iksar in guide clothes; I'll have to catch up with him :)'
+[Sun Jul 22 08:31:11 2001] Oraden GMSAYS, 'naz were you able to talk to (or listen to) meatballious in EC ? (was accused of vulgarity but the /report didn't catch it)'
+[Sun Jul 22 08:31:20 2001] You say to your guild, 'nah, did that months ago - the only thing I need now is Faydedar, and he wiped us out once.'
+[Sun Jul 22 08:31:40 2001] You say to your guild, 'going with my warrior'
+[Sun Jul 22 08:31:40 2001] Oraden GMSAYS, 'he looks cool. the blue robe looked best i thought, but he liked the green armor'
+[Sun Jul 22 08:32:18 2001] Nazbag GMSAYS, '<note feedback> back to back petitions in TOV about stuck corpses that fell into walls.  both characters were killed just inside the Hall of Testing, on the upper part of the entry chamber outside Dozekar's lair.'
+[Sun Jul 22 08:32:35 2001] Nazbag tells the guild, 'thats cool.  what happened with Fay?'
+[Sun Jul 22 08:32:37 2001] You GMSAY, 'were the corpses ghosted at zone-in?'
+[Sun Jul 22 08:32:51 2001] You say to your guild, 'casters wouldn't close to melee to cast. so nothing stuck.'
+[Sun Jul 22 08:32:54 2001] Nazbag GMSAYS, 'no, and from my experiance I thought they would be'
+[Sun Jul 22 08:33:29 2001] You GMSAY, 'hey, a petition from Titiana...'
+[Sun Jul 22 08:33:38 2001] Nazbag GMSAYS, 'ooop'
+[Sun Jul 22 08:34:27 2001] Nazbag GMSAYS, 'im going to put titiana back, everyone pull it, read it, then put it back'
+[Sun Jul 22 08:34:38 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 22 08:34:39 2001] USER TEXT: i dont know if this is the right way but jsut want to say thanks for the fast reponse in ToV and tell you i think you all do a good job>)
+[Sun Jul 22 08:34:39 2001] Players in EverQuest:
+[Sun Jul 22 08:34:39 2001] ---------------------------
+[Sun Jul 22 08:34:39 2001] [58 Preserver] Titiana (Wood Elf) <Thunderwalkers> ZONE: templeveeshan (USER PID GP9PVHC)
+[Sun Jul 22 08:34:39 2001] There is 1 player in EverQuest.
+[Sun Jul 22 08:34:43 2001] UNDOING CHECK OUT
+[Sun Jul 22 08:34:50 2001] You GMSAY, 'read it - good job Naz!'
+[Sun Jul 22 08:34:52 2001] Nazbag GMSAYS, 'zone to get my carcas back'
+[Sun Jul 22 08:34:57 2001] Searching zones for corpse of that name....
+[Sun Jul 22 08:34:58 2001] Corpse: Nazbag's corpse0 in zone: dreadlands
+[Sun Jul 22 08:35:10 2001] You feel the spirit of Norrath enter you.
+[Sun Jul 22 08:35:12 2001] You feel the spirit of Z surround you.
+[Sun Jul 22 08:35:28 2001] Oraden GMSAYS, 'cool. nice to hear something nice ;)'
+[Sun Jul 22 08:35:47 2001] Celesra GMSAYS, 'hmm. Suck up so her name doesn't get screwed over =)'
+[Sun Jul 22 08:36:00 2001] Nazbag GMSAYS, 'shes level 58, her name wont be changed'
+[Sun Jul 22 08:36:04 2001] You GMSAY, 'her name isn't so bad that the seniors will be hunting for her'
+[Sun Jul 22 08:36:17 2001] Celesra GMSAYS, '*snaps fingers* dang.'
+[Sun Jul 22 08:36:30 2001] Nazbag GMSAYS, 'ding =)'
+[Sun Jul 22 08:36:37 2001] You GMSAY, 'woohoo!'
+[Sun Jul 22 08:36:38 2001] Players in EverQuest:
+[Sun Jul 22 08:36:38 2001] ---------------------------
+[Sun Jul 22 08:36:38 2001] * Guide *[52 Mystic] Nazbag (Ogre) <Keepers of Morell Thule> ZONE: dreadlands (USER PID EUUV5HS)
+[Sun Jul 22 08:36:38 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jul 22 08:36:38 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: dreadlands (USER PID GX2YWXV)
+[Sun Jul 22 08:36:38 2001] * Apprentice Guide *[20 Monk] Oraden (Human) ZONE: lakeofillomen (USER PID ATWFJ36)
+[Sun Jul 22 08:36:38 2001] There are 4 players in EverQuest.
+[Sun Jul 22 08:36:39 2001] Celesra GMSAYS, 'WOOT! Way to go!'
+[Sun Jul 22 08:36:48 2001] Oraden GMSAYS, 'aye, would be a disaster to change a 58 .... too many friends lists would be hoplessly fouled.'
+[Sun Jul 22 08:36:58 2001] Oraden GMSAYS, 'grats ;)'
+[Sun Jul 22 08:37:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 22 08:37:04 2001] USER TEXT: got attacked and system dead. came back to find out I was killed, don't know way back to zone
+[Sun Jul 22 08:37:04 2001] Players in EverQuest:
+[Sun Jul 22 08:37:04 2001] ---------------------------
+[Sun Jul 22 08:37:04 2001] [18 Ranger] Kullin (Half Elf) <Kingdom of Steel> ZONE: overthere (USER PID ET3QSUS)
+[Sun Jul 22 08:37:04 2001] There is 1 player in EverQuest.
+[Sun Jul 22 08:37:14 2001] Searching zones for corpse of that name....
+[Sun Jul 22 08:37:14 2001] Corpse: Kullin's corpse0 in zone: lakeofillomen
+[Sun Jul 22 08:37:17 2001] You GMSAY, 'zone'
+[Sun Jul 22 08:37:21 2001] LOADING, PLEASE WAIT...
+[Sun Jul 22 08:38:00 2001] Kaarn shouts, 'grp needs more 20 26 send tells'
+[Sun Jul 22 08:38:00 2001] You have entered Lake of Ill Omen.
+[Sun Jul 22 08:38:09 2001] Teleporting to kullin's corpse0.
+[Sun Jul 22 08:38:24 2001] You GMSAY, 'sorry, I had to answer at least one petition :)'
+[Sun Jul 22 08:38:37 2001] USER TEXT: got attacked and system dead. came back to find out I was killed, don't know way back to zone
+[Sun Jul 22 08:39:02 2001] Oraden GMSAYS, 'hahahahahaha'
+[Sun Jul 22 08:39:22 2001] Isgrat shouts, 'Fort group looking for a healer! Send tell!'
+[Sun Jul 22 08:39:28 2001] Segovian shouts, '16 shaman lfg'
+[Sun Jul 22 08:39:33 2001] Oraden GMSAYS, 'sorry Espranza... trying to log as many hours as I can before Wed 5pm. =)'
+[Sun Jul 22 08:39:40 2001] Grenabulax shouts, 'lvl 21 ranger lfg'
+[Sun Jul 22 08:39:42 2001] Thorbordain shouts, 'i an IKSAR SHAMMY?'
+[Sun Jul 22 08:40:07 2001] You told Kullin, 'Hail, Kullin! Guide Espranza here. Your corpse is here in the Lake of Ill Omen; if you need assistance finding your way back here, I think many players would be able to help you with directions.'
+[Sun Jul 22 08:40:15 2001] You GMSAY, 'no worries, I know how it is...'
+[Sun Jul 22 08:40:29 2001] Akama says out of character, 'any enchanters lfg?'
+[Sun Jul 22 08:40:30 2001] You GMSAY, 'would have done my 40 hours in one day if I could have.'
+[Sun Jul 22 08:40:42 2001] Kaarn shouts, 'grp looking for more at fort 20 26 3 spaces'
+[Sun Jul 22 08:41:14 2001] Oraden GMSAYS, 'closing in on 72 .... (2 days 20 hours now, but some of that is idle time looking for full Guides)'
+[Sun Jul 22 08:41:40 2001] You GMSAY, 'so... sleep much :)'
+[Sun Jul 22 08:41:50 2001] Kullin tells you, 'That is what I have been hoping for, but i am afraid i will run out of food and water and die again'
+[Sun Jul 22 08:41:55 2001] Akama says, 'pulling gm'
+[Sun Jul 22 08:41:58 2001] Segovian shouts, '16 shaman lfg'
+[Sun Jul 22 08:42:00 2001] You no longer have a target.
+[Sun Jul 22 08:42:00 2001] You giggle.
+[Sun Jul 22 08:42:01 2001] Akama says, '=)'
+[Sun Jul 22 08:42:08 2001] Akama says, 'ohhhh...nice swords =)'
+[Sun Jul 22 08:42:09 2001] You say, 'good luck :)'
+[Sun Jul 22 08:42:14 2001] You say, 'thankee!'
+[Sun Jul 22 08:42:14 2001] Akama says, 'have fun dear'
+[Sun Jul 22 08:42:17 2001] Oraden GMSAYS, 'it's been 3 weeks yesterday... and I had that one week off while my nifty highspeed access was disconnecting me every 6 minutes ;)'
+[Sun Jul 22 08:42:25 2001] Akama says, 'no monsters around though =('
+[Sun Jul 22 08:42:27 2001] Oraden GMSAYS, 'pulling klynt'
+[Sun Jul 22 08:42:31 2001] You say, 'you as well... well no monsters but me'
+[Sun Jul 22 08:42:34 2001] Akama says, 'start up a gm event =)'
+[Sun Jul 22 08:42:40 2001] You say, 'oh, wish I could'
+[Sun Jul 22 08:42:49 2001] Akama says, 'turn into a froglok and go uber on everyone'
+[Sun Jul 22 08:42:49 2001] It begins to rain.
+[Sun Jul 22 08:42:52 2001] Kullin tells you, 'that is what i was hoping for, but that is not working, and i am afraid I will die again from no food or water'
+[Sun Jul 22 08:43:01 2001] You told Kullin, 'Lack of food and water won't harm you'
+[Sun Jul 22 08:43:31 2001] Kaarn says out of character, 'grp looking for 2 more tank healer or anyone 20 26 send tells plz'
+[Sun Jul 22 08:43:32 2001] You told Kullin, 'No players will give you aid? How did you come here the first time?'
+[Sun Jul 22 08:43:38 2001] DELETING THIS PETITION
+[Sun Jul 22 08:44:10 2001] Arka begins to cast a spell. (Ignite)
+[Sun Jul 22 08:44:29 2001] Oraden GMSAYS, 'klynt asked about broken mail delivery to freeport quest. Told him to ask around for the right person to deliver to. deleting klynt'
+[Sun Jul 22 08:44:30 2001] Segovian shouts, '16 shaman lfg'
+[Sun Jul 22 08:44:36 2001] Toppie auctions, 'WTS screaming mace 8 dmg 35 dly plz send tells if interested !'
+[Sun Jul 22 08:44:48 2001] Isgrat shouts, 'Fort group looking for a healer!'
+[Sun Jul 22 08:44:55 2001] Cerlyn auctions, 'trading 20sp for 1 gp at wm'
+[Sun Jul 22 08:45:08 2001] Searching for lord_gorelik00.
+[Sun Jul 22 08:45:12 2001] Teleporting to Lord_Gorelik00 (4275.00, 2630.00,  41.60).
+[Sun Jul 22 08:45:18 2001] Players on EverQuest:
+[Sun Jul 22 08:45:18 2001] ---------------------------
+[Sun Jul 22 08:45:18 2001] [28 Necromancer] Foezhoe (Iksar) <The Scaled Brotherhood>
+[Sun Jul 22 08:45:18 2001] [23 Warrior] Robear (Barbarian)
+[Sun Jul 22 08:45:18 2001] [30 Warrior] Tergoz (Barbarian) <Honorbound Elite>
+[Sun Jul 22 08:45:18 2001] [6 Monk] Ssyssta (Iksar)
+[Sun Jul 22 08:45:18 2001] [16 Shaman] Segovian (Iksar) <Knights  of  the  Abyss> LFG
+[Sun Jul 22 08:45:18 2001] [24 Wizard] Erita (Erudite)
+[Sun Jul 22 08:45:18 2001] [27 Cleric] Emerest (Human) <Random Acts>
+[Sun Jul 22 08:45:18 2001] [22 Shaman] Torila (Barbarian) <Terra Incognita>
+[Sun Jul 22 08:45:18 2001] [ANONYMOUS] Holythetiny  <Menestrels>
+[Sun Jul 22 08:45:18 2001] [22 Enchanter] Yadinae (High Elf) <Legions of Valhalla>
+[Sun Jul 22 08:45:18 2001] [ANONYMOUS] Leshrack  <Fallen Gods>
+[Sun Jul 22 08:45:18 2001] [25 Paladin] Euphoriadaze (Human) <Wind of Truth>
+[Sun Jul 22 08:45:18 2001] [26 Monk] Isgrat (Human)
+[Sun Jul 22 08:45:18 2001] [ANONYMOUS] Tigrafangse  <Clan Silvermoon>
+[Sun Jul 22 08:45:18 2001] [21 Warrior] Darkminded (Iksar) <Everseekers Of Norrath>
+[Sun Jul 22 08:45:18 2001] [17 Druid] Toppie (Wood Elf) <Revered Souls>
+[Sun Jul 22 08:45:18 2001] [26 Enchanter] Rhyon (Erudite)
+[Sun Jul 22 08:45:18 2001] [27 Shaman] Sakuji (Ogre)
+[Sun Jul 22 08:45:18 2001] [30 Ranger] Arka (Wood Elf) <La cage aux trolls>
+[Sun Jul 22 08:45:18 2001] [26 Rogue] Dagas (Wood Elf) <Heroic Few>
+[Sun Jul 22 08:45:18 2001] [20 Cleric] Kerstie (High Elf) <Elven Elite>
+[Sun Jul 22 08:45:18 2001] [19 Druid] Kenain (Wood Elf) <Hessians of Morell Thule>
+[Sun Jul 22 08:45:18 2001] [18 Bard] Sagwagongjoo (Half Elf) <Royal Jesters>
+[Sun Jul 22 08:45:18 2001] [21 Wizard] Lanaro (High Elf) <Revered Souls>
+[Sun Jul 22 08:45:18 2001] [24 Cleric] Eloradannon (Gnome) <United Kingdoms>
+[Sun Jul 22 08:45:18 2001] [24 Wizard] Deneteth (High Elf) <Souls of the Kindred>
+[Sun Jul 22 08:45:18 2001] [ANONYMOUS] Viruss 
+[Sun Jul 22 08:45:18 2001] [45 Necromancer] Askyn (Iksar) <Random Acts>
+[Sun Jul 22 08:45:18 2001] [20 Wizard] Yandyweniel (High Elf) <Legions of Valhalla>
+[Sun Jul 22 08:45:18 2001] [23 Shaman] Teenetiny (Barbarian)
+[Sun Jul 22 08:45:18 2001] [25 Wizard] Mainceleste (High Elf) <L'envol du Phoenix>
+[Sun Jul 22 08:45:18 2001] [24 Necromancer] Faumeren (Erudite)
+[Sun Jul 22 08:45:18 2001] [21 Monk] Sorola (Human) <Elysian Heros>
+[Sun Jul 22 08:45:18 2001] [24 Rogue] Cylvant (Wood Elf)
+[Sun Jul 22 08:45:18 2001] [27 Ranger] Giltaav (Wood Elf)
+[Sun Jul 22 08:45:18 2001] [29 Shaman] Atman (Barbarian)
+[Sun Jul 22 08:45:18 2001] * GM * [20 Monk] Oraden (Human)
+[Sun Jul 22 08:45:18 2001] [23 Enchanter] Rugoo (Gnome) <Magician Elite>
+[Sun Jul 22 08:45:18 2001] [17 Ranger] Lembin (Half Elf) <Revered Souls>
+[Sun Jul 22 08:45:18 2001] [ANONYMOUS] Catpaw 
+[Sun Jul 22 08:45:18 2001] [22 Rogue] Akama (Dark Elf) <United Guardians>
+[Sun Jul 22 08:45:18 2001] [17 Warrior] Zubby (Unknown)
+[Sun Jul 22 08:45:18 2001] [20 Shaman] Thorbordain (Iksar) <Legacy of Pain>
+[Sun Jul 22 08:45:18 2001] [ANONYMOUS] Cerlyn 
+[Sun Jul 22 08:45:18 2001] [50 Druid] Exee (Unknown) <Legions of Valhalla>
+[Sun Jul 22 08:45:18 2001] [21 Ranger] Grenabulax (Wood Elf) <Destinys Disciples>
+[Sun Jul 22 08:45:18 2001] [25 Wizard] Phuntic (Gnome) <Knights of Arcane Lore>
+[Sun Jul 22 08:45:18 2001] [22 Monk] Xabitiz (Iksar)
+[Sun Jul 22 08:45:18 2001] [21 Cleric] Droolgas (Dwarf) <Gardiens de Norrath>
+[Sun Jul 22 08:45:18 2001] [21 Wizard] Dvida (High Elf)
+[Sun Jul 22 08:45:18 2001] [18 Cleric] Gralis (Dwarf)
+[Sun Jul 22 08:45:18 2001] [19 Enchanter] Fanara (High Elf) <Fortitude Vindcit>
+[Sun Jul 22 08:45:18 2001] [28 Druid] Abriana (Wood Elf) <Neosis>
+[Sun Jul 22 08:45:18 2001] [26 Necromancer] Kaarn (Human)
+[Sun Jul 22 08:45:18 2001] [22 Wizard] Ngobo (Erudite) <Hessians of Morell Thule>
+[Sun Jul 22 08:45:18 2001] [22 Wizard] Kaonre (Human) <Legacy of Pain>
+[Sun Jul 22 08:45:18 2001] [21 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Sun Jul 22 08:45:18 2001] [ANONYMOUS] Ithrylia  <Gardiens de Norrath>
+[Sun Jul 22 08:45:18 2001] [25 Wizard] Daimon (Dark Elf) <Echelon>
+[Sun Jul 22 08:45:18 2001] [24 Ranger] Ryule (Half Elf)
+[Sun Jul 22 08:45:18 2001] [24 Druid] Kaminsky (Unknown)
+[Sun Jul 22 08:45:18 2001] [16 Monk] Pisept (Iksar) <Striders of the Dark>
+[Sun Jul 22 08:45:18 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sun Jul 22 08:45:18 2001] There are 63 players in Lake of Ill Omen.
+[Sun Jul 22 08:45:21 2001] Player is in zone lakeofillomen at x = 4224 y = 2699 z = 25.
+[Sun Jul 22 08:45:24 2001] Kullin tells you, 'I was in a group and 2 of us went link dead, I was attacked and immediantly went LD, Came back on to find that I had died and now I am here'
+[Sun Jul 22 08:45:25 2001] Isgrat shouts, 'Fort group looking for healer! Level 21-27! Send tell !'
+[Sun Jul 22 08:45:26 2001] Lord Gorelik begins to cast a spell. (Quickness)
+[Sun Jul 22 08:45:29 2001] A goblin warrior feels much faster.
+[Sun Jul 22 08:45:30 2001] Kaarn shouts, 'anyone between 20 and 26 looking for a grp?'
+[Sun Jul 22 08:45:34 2001] Lord Gorelik begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 22 08:45:43 2001] Lord Gorelik begins to cast a spell. (Inner Fire)
+[Sun Jul 22 08:45:43 2001] Lord Gorelik scowls at you, ready to attack -- it appears to be quite formidable.
+[Sun Jul 22 08:45:44 2001] Robear says out of character, 'Greetings EveryOne'
+[Sun Jul 22 08:45:46 2001] A goblin warrior's body pulses with energy.
+[Sun Jul 22 08:46:02 2001] Thorbordain shouts, 'I WILL TAKE ALL UNEANTED CASH (cp, sp, gp, pp)'
+[Sun Jul 22 08:46:06 2001] You told Kullin, 'what happened to your group mates?'
+[Sun Jul 22 08:46:21 2001] Thorbordain shouts, 'unwanted cash'
+[Sun Jul 22 08:46:38 2001] Foezhoe auctions, 'lvl 16 necro pet spell and lvl 16 hungry earth spell already researched send tells'
+[Sun Jul 22 08:46:38 2001] Isgrat shouts, 'Fort group looking for healer! Level 21-27! Send tell !'
+[Sun Jul 22 08:46:40 2001] Robear says out of character, 'is there such a thing?'
+[Sun Jul 22 08:46:53 2001] Lanaro says out of character, 'hehe'
+[Sun Jul 22 08:46:54 2001] Darkminded auctions, 'WTB weapons for a Iksar warrior send tells'
+[Sun Jul 22 08:46:56 2001] Darkminded auctions, 'WTS ice of velious got 4 send tells 5pp each'
+[Sun Jul 22 08:46:59 2001] Darkminded auctions, 'WTS excelent sabatooth tiger hide 9pp send tells'
+[Sun Jul 22 08:47:04 2001] Kullin tells you, 'I was with a group, I was attacked and then immediantly went LD, when I came back on I had dead and I ran to the Mud Pit'
+[Sun Jul 22 08:47:07 2001] Yandyweniel auctions, 'WTB Rune of Periphery , paying well'
+[Sun Jul 22 08:47:17 2001] Savantis says out of character, '22 cleric LFG'
+[Sun Jul 22 08:47:26 2001] You told Kullin, 'perhaps your group mates could help you get back to your body.'
+[Sun Jul 22 08:48:04 2001] Espranza saved.
+[Sun Jul 22 08:48:05 2001] Kullin tells you, 'the only one left does not know her way through the mountains either'
+[Sun Jul 22 08:48:16 2001] Players in EverQuest:
+[Sun Jul 22 08:48:16 2001] ---------------------------
+[Sun Jul 22 08:48:16 2001] [18 Ranger] Kullin (Half Elf) <Kingdom of Steel> ZONE: overthere (USER PID ET3QSUS)
+[Sun Jul 22 08:48:16 2001] There is 1 player in EverQuest.
+[Sun Jul 22 08:48:31 2001] Thorbordain shouts, 'group looking for more at sarnak fort lvl's 20-26 send tells plz'
+[Sun Jul 22 08:48:37 2001] Oraden GMSAYS, 'pulling hairyface'
+[Sun Jul 22 08:48:59 2001] You told Kullin, 'the frontier mountains are a big square, when you zone in, keep the wall to your left. After a long while, you will see the zone.'
+[Sun Jul 22 08:49:31 2001] You told Kullin, 'more aid than that you will have to look to players for.'
+[Sun Jul 22 08:49:32 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 22 08:49:33 2001] USER TEXT: Beg pardon, but I be in WC and my pally just got killed a short while ago by Dragoon Zytl.  I was near the Kith zone and he feared me and I somehow ran under the ground and couldn't zone out.  He is still under zone attacking people
+[Sun Jul 22 08:49:33 2001] Players in EverQuest:
+[Sun Jul 22 08:49:33 2001] ---------------------------
+[Sun Jul 22 08:49:33 2001] [ANON (41 Monk)] Smeene (Human) ZONE: commons (USER PID DVHV29R)
+[Sun Jul 22 08:49:33 2001] There is 1 player in EverQuest.
+[Sun Jul 22 08:49:40 2001] You GMSAY, 'zone'
+[Sun Jul 22 08:49:42 2001] LOADING, PLEASE WAIT...
+[Sun Jul 22 08:50:06 2001] Kalamanar auctions, 'WTS balenced Shan' Tok 35pp , gnoll hide lariet 15pp,long bow good for newbies 10pp send tells the bow comes with arrows im at the druid rings and selling mino battle axes 35pp too'
+[Sun Jul 22 08:50:06 2001] Leester auctions, 'WTB gold ring for paw of opolla quest'
+[Sun Jul 22 08:50:07 2001] You have entered West Commonlands.
+[Sun Jul 22 08:50:13 2001] Teleporting to dragoon_zytl00.
+[Sun Jul 22 08:50:17 2001] Obzidian auctions, 'WTS staff of writhing'
+[Sun Jul 22 08:50:19 2001] Killing Dragoon_Zytl00.
+[Sun Jul 22 08:50:26 2001] Nazbag GMSAYS, 'zone'
+[Sun Jul 22 08:50:40 2001] You GMSAY, '<note> Killed Dragoon Zytl - was running around beneath the world killing people.'
+[Sun Jul 22 08:50:48 2001] Searching zones for corpse of that name....
+[Sun Jul 22 08:50:56 2001] Kullin tells you, 'I will give it my best, if I fail I will Type at u. The system messed up I did not!'
+[Sun Jul 22 08:51:19 2001] You told Kullin, 'Yes, but we cannot rez for disconnections.'
+[Sun Jul 22 08:51:21 2001] Kalamanar auctions, 'WTS balenced Shan' Tok 35pp , gnoll hide lariet 15pp,long bow good for newbies 10pp send tells the bow comes with arrows im at the druid rings and selling mino battle axes 35pp too'
+[Sun Jul 22 08:51:34 2001] Players in EverQuest:
+[Sun Jul 22 08:51:34 2001] ---------------------------
+[Sun Jul 22 08:51:34 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 22 08:52:20 2001] Kalamanar auctions, 'WTS balenced Shan' Tok 35pp , gnoll hide lariet 15pp,long bow good for newbies 10pp send tells the bow comes with arrows im at the druid rings and selling mino battle axes 35pp too'
+[Sun Jul 22 08:52:38 2001] Sladil auctions, 'wts mammoth hide cloak 7ac 4wis back slot 2k obo'
+[Sun Jul 22 08:52:41 2001] Kardis says out of character, 'paying for port to GD '
+[Sun Jul 22 08:52:45 2001] Elistrae begins to cast a spell. (Armor of Faith)
+[Sun Jul 22 08:52:46 2001] Summoning Thaslicen's corpse0.
+[Sun Jul 22 08:52:46 2001] Codey begins to cast a spell. (Circle of the Combines)
+[Sun Jul 22 08:52:47 2001] Meriel begins to cast a spell. (Scale of Wolf)
+[Sun Jul 22 08:52:59 2001] Quickfox begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 22 08:53:01 2001] Keryan says, 'loveless what a pity )'
+[Sun Jul 22 08:53:07 2001] Hairyface says out of character, 'anyone know where you get kiola sap from?'
+[Sun Jul 22 08:53:08 2001] Quickfox begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 22 08:53:10 2001] Joza begins to cast a spell. (Gate)
+[Sun Jul 22 08:53:10 2001] Oraden GMSAYS, 'whew ;)'
+[Sun Jul 22 08:53:12 2001] You GMSAY, '<note> While looking around beneath the Commonlands, I found Thaslicen's corpse - pulled it above the world to the druid ring.'
+[Sun Jul 22 08:53:37 2001] You told Smeene, 'Hail, Smeene! Guide Espranza here. Dragoon Zytl has been vanquished.'
+[Sun Jul 22 08:53:43 2001] Players in EverQuest:
+[Sun Jul 22 08:53:43 2001] ---------------------------
+[Sun Jul 22 08:53:43 2001] [ANON (41 Monk)] Smeene (Human) ZONE: commons (USER PID DVHV29R)
+[Sun Jul 22 08:53:43 2001] There is 1 player in EverQuest.
+[Sun Jul 22 08:53:46 2001] Teleporting to smeene.
+[Sun Jul 22 08:53:46 2001] Nazbag GMSAYS, 'did you find the dragoon Espr?'
+[Sun Jul 22 08:53:51 2001] Hairyface says out of character, 'paying 25p per stack of spidersilk'
+[Sun Jul 22 08:53:53 2001] Smeene tells you, 'Okies, but my pallys corpse is still underground'
+[Sun Jul 22 08:53:58 2001] Kalamanar auctions, 'WTS balenced Shan' Tok 35pp , gnoll hide lariet 15pp,long bow good for newbies 10pp send tells the bow comes with arrows im at the druid rings and selling mino battle axes 35pp too and a giant snake fang 5pp'
+[Sun Jul 22 08:53:59 2001] You GMSAY, 'yup, he was under the world killing people.'
+[Sun Jul 22 08:54:08 2001] You told Smeene, 'name of Thaslicen?'
+[Sun Jul 22 08:54:12 2001] Smeene tells you, 'Yep'
+[Sun Jul 22 08:54:17 2001] You told Smeene, 'at the druid ring :)'
+[Sun Jul 22 08:54:27 2001] Ceel Moonwhisper begins to cast a spell. (Skin like Steel)
+[Sun Jul 22 08:54:27 2001] Sil Silverstar begins to cast a spell. (Skin like Rock)
+[Sun Jul 22 08:54:28 2001] You told Smeene, 'I'll rez him for you'
+[Sun Jul 22 08:54:33 2001] Bearloverb begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 22 08:54:34 2001] You told Smeene, 'you died to a verified bug'
+[Sun Jul 22 08:54:36 2001] Smeene tells you, 'Okies, I'll be on shortly'
+[Sun Jul 22 08:54:36 2001] Jarrel auctions, 'WTS Bronze helm,bp'
+[Sun Jul 22 08:54:39 2001] Ceel Moonwhisper begins to cast a spell. (Skin like Steel)
+[Sun Jul 22 08:54:41 2001] Nazbag invites you to join a group.
+[Sun Jul 22 08:54:41 2001] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Sun Jul 22 08:54:45 2001] Kardis waves at Bearloverb.
+[Sun Jul 22 08:54:49 2001] You say to your guild, 'going to rez Thaslicen when he gets back on'
+[Sun Jul 22 08:54:50 2001] You notify Nazbag that you agree to join the group.
+[Sun Jul 22 08:54:51 2001] You have joined the group.
+[Sun Jul 22 08:54:51 2001] Oraden has joined the group.
+[Sun Jul 22 08:54:51 2001] Ceel Moonwhisper begins to cast a spell. (Shield of Brambles)
+[Sun Jul 22 08:54:55 2001] Nazbag tells the guild, 'ok'
+[Sun Jul 22 08:54:59 2001] Ceel Moonwhisper begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 22 08:55:07 2001] Reikidefender says out of character, 'where is a good place to hunt stuff that drops med bronze?'
+[Sun Jul 22 08:55:08 2001] Kardis thanks Bearloverb heartily.
+[Sun Jul 22 08:55:10 2001] Nazbag tells the guild, 'I did a find on the goon and din't get him so I was hopping you killed him'
+[Sun Jul 22 08:55:19 2001] Ceel Moonwhisper begins to cast a spell. (Firefist)
+[Sun Jul 22 08:55:26 2001] You say to your guild, 'yup'
+[Sun Jul 22 08:55:27 2001] Oraden GMSAYS, 'hmm... wish list... 1) item to give track to all guides 2) non-gnome sandwiches (preferably non-canabalistic food) 3) item to go under world in all zones .... 4) item to give faction to guides to tallk to all NPCs..... 5) collar of contraction fixed '
+[Sun Jul 22 08:55:28 2001] Kalamanar says, 'Hail, Espranza'
+[Sun Jul 22 08:55:30 2001] You wave at Kalamanar.
+[Sun Jul 22 08:55:30 2001] Sladil auctions, 'wts wolf fur slippers 2ac 7agility 20 mana 1k obo'
+[Sun Jul 22 08:55:33 2001] You say, 'hiya!'
+[Sun Jul 22 08:55:34 2001] Sladil auctions, 'wts mammoth hide cloak 7ac 4wis back slot 2k obo'
+[Sun Jul 22 08:55:37 2001] Wichie auctions, 'buying monk gloves better hten gem inlaid guantlet'
+[Sun Jul 22 08:55:39 2001] Bearloverb begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 22 08:55:44 2001] Nazbag is surrounded by a brief lupine aura.
+[Sun Jul 22 08:55:47 2001] You GMSAY, 'there is such a faction item, btw'
+[Sun Jul 22 08:55:51 2001] Kardis says out of character, 'looking for port to GD'
+[Sun Jul 22 08:56:00 2001] You GMSAY, 'GM only though. They used to give it to guides way back when.'
+[Sun Jul 22 08:56:05 2001] Oraden GMSAYS, 'really... oh....'
+[Sun Jul 22 08:56:06 2001] Nazbag tells the group, 'bearloverb'
+[Sun Jul 22 08:56:07 2001] Bearloverb begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 22 08:56:11 2001] Kalamanar is surrounded by a brief lupine aura.
+[Sun Jul 22 08:56:16 2001] Nazbag tells the group, 'brutal'
+[Sun Jul 22 08:56:20 2001] You GMSAY, 'added like 10000 to all faction'
+[Sun Jul 22 08:56:22 2001] Kalamanar says, 'thx'
+[Sun Jul 22 08:56:23 2001] Bearloverb waves at Espranza.
+[Sun Jul 22 08:56:24 2001] Kardis says out of character, 'looking for port to GD'
+[Sun Jul 22 08:56:25 2001] Thaslicen tells you, 'Okies, I be ready'
+[Sun Jul 22 08:56:28 2001] You wave at Bearloverb.
+[Sun Jul 22 08:56:28 2001] Teadyn begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 22 08:56:30 2001] Bearloverb bows before Espranza.
+[Sun Jul 22 08:56:45 2001] Teadyn says, 'FATTY'
+[Sun Jul 22 08:56:48 2001] Teadyn says, '=P'
+[Sun Jul 22 08:56:50 2001] Nazbag says, 'WOODY'
+[Sun Jul 22 08:56:54 2001] Teadyn cries.
+[Sun Jul 22 08:56:58 2001] Teadyn makes a rude gesture.
+[Sun Jul 22 08:56:58 2001] Oraden GMSAYS, 'would think that if GM flag can make you non-KOS to all, should make you "amiable" to all ;)'
+[Sun Jul 22 08:56:58 2001] Budruoon says out of character, 'camp check '
+[Sun Jul 22 08:57:04 2001] Nazbag bonks Teadyn on the head!
+[Sun Jul 22 08:57:06 2001] Dextor says out of character, 'Derv camped'
+[Sun Jul 22 08:57:07 2001] Teadyn says, 'Hail, Nazbag'
+[Sun Jul 22 08:57:09 2001] Teadyn dies.
+[Sun Jul 22 08:57:11 2001] Vvenum says out of character, 'Orcs camped'
+[Sun Jul 22 08:57:13 2001] Oraden tells the group, 'what about him?'
+[Sun Jul 22 08:57:15 2001] Bearloverb begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 22 08:57:20 2001] Thaslicen is surrounded by a brief lupine aura.
+[Sun Jul 22 08:57:20 2001] Teadyn says, 'TIme to die Nazbag'
+[Sun Jul 22 08:57:21 2001] Thaslicen bows before Nazbag.
+[Sun Jul 22 08:57:21 2001] You tell your party, 'who?'
+[Sun Jul 22 08:57:30 2001] Budruoon says out of character, 'lvl 46 camped at derv?'
+[Sun Jul 22 08:57:30 2001] Teadyn says, 'Scumsuckers like you don't deserve to be in these lands!!'
+[Sun Jul 22 08:57:33 2001] Nazbag tells the group, 'who him?'
+[Sun Jul 22 08:57:37 2001] Nazbag says, 'that I doubyt'
+[Sun Jul 22 08:57:37 2001] Oraden tells the group, 'bearloverb ... *shrug*'
+[Sun Jul 22 08:57:38 2001] Dextor says out of character, 'yep'
+[Sun Jul 22 08:57:40 2001] Teadyn says, '=P'
+[Sun Jul 22 08:57:44 2001] You tell your party, 'her. it's a bad name.'
+[Sun Jul 22 08:57:45 2001] Nazbag tells the group, 'jsut a silly name'
+[Sun Jul 22 08:57:45 2001] Kerot begins to cast a spell. (Gate)
+[Sun Jul 22 08:57:50 2001] Oraden tells the group, '*points at nazbag*'
+[Sun Jul 22 08:57:51 2001] Kardis says out of character, 'looking for port to GD'
+[Sun Jul 22 08:57:52 2001] Oraden tells the group, 'aye'
+[Sun Jul 22 08:57:53 2001] Teadyn begins to cast a spell. (Ensnare)
+[Sun Jul 22 08:57:57 2001] Teadyn begins to cast a spell. (Ensnare)
+[Sun Jul 22 08:57:59 2001] Teadyn says, 'be snared!'
+[Sun Jul 22 08:58:03 2001] DELETING THIS PETITION
+[Sun Jul 22 08:58:03 2001] Teadyn says, 'oom'
+[Sun Jul 22 08:58:04 2001] Nazbag vetos Teadyn's idea!
+[Sun Jul 22 08:58:06 2001] Hairyface says out of character, 'anyone know where to get kiola sap from?'
+[Sun Jul 22 08:58:16 2001] You no longer have a target.
+[Sun Jul 22 08:58:19 2001] Nazbag tells the group, 'did you res him Espre?'
+[Sun Jul 22 08:58:23 2001] You tell your party, 'yup'
+[Sun Jul 22 08:58:24 2001] Diannel says out of character, 'most inns carry it'
+[Sun Jul 22 08:58:26 2001] Teadyn begins to cast a spell. (Ensnare)
+[Sun Jul 22 08:58:27 2001] Thaslicen says out of character, 'You can buy it in some places that sell alcohol'
+[Sun Jul 22 08:58:37 2001] Hairyface says out of character, 'cool thanks'
+[Sun Jul 22 08:59:06 2001] Oraden tells the group, '<note badname> stumpypudge (EQF27MD) compound word and either not descriptive or offensive descriptive take your pick.'
+[Sun Jul 22 08:59:23 2001] Nazbag GMSAYS, 'zone'
+[Sun Jul 22 08:59:52 2001] It is 2 PM on Wednesday, the 18th day of August, of the year 3210.
+[Sun Jul 22 08:59:52 2001] Earth Time: Sun Jul 22 08:59:52 2001
+[Sun Jul 22 08:59:56 2001] Oraden tells the group, 'hmmm.. tinkleblade? .... anyone think thats offensive?'
+[Sun Jul 22 09:00:01 2001] Kardis says out of character, 'looking for port to GD'
+[Sun Jul 22 09:00:04 2001] You tell your party, 'not really'
+[Sun Jul 22 09:00:12 2001] Espranza saved.
+[Sun Jul 22 09:00:26 2001] Oraden tells the group, 'guess it's better than pi55blade ;)'
+[Sun Jul 22 09:00:31 2001] You tell your party, 'heh yeah'
+[Sun Jul 22 09:01:00 2001] Zowar shouts, 'camp check'
+[Sun Jul 22 09:01:07 2001] Dextor shouts, 'Derv's camped'
+[Sun Jul 22 09:01:28 2001] You tell your party, 'I find camp checks offensive'
+[Sun Jul 22 09:01:42 2001] You tell your party, 'in a dungeon I can sorta see it'
+[Sun Jul 22 09:01:46 2001] You tell your party, 'but in an outdoor zone?'
+[Sun Jul 22 09:02:12 2001] Oraden tells the group, 'those i don't mind... it's somewhat curtious to at least ask if someone is already waiting for something.... '
+[Sun Jul 22 09:02:14 2001] Teenetiny tells you, 'my old partner kullin tt you not to long ago, he was LD so I was guarding him so he woulden't get jumped then a skelly attacked him, I started to hit the skelly and so did his Link Dead charater, he would be alive now if his Link Dead chara'
+[Sun Jul 22 09:02:16 2001] Lothix yells for help from behind you.
+[Sun Jul 22 09:02:30 2001] Oraden tells the group, 'but Price Checks... what is this K-Mart?'
+[Sun Jul 22 09:02:52 2001] Elemjer auctions, 'Selling Beer Stained Coldain Tunic. 12ac +5str +5sta +15hps +5 sv fire,cold,magic. 500pp'
+[Sun Jul 22 09:02:54 2001] Elemjer auctions, 'Selling Grotesque Alloy Mask. 6ac +7dex -15cha +2agi +5 sv Magic. 800pp '
+[Sun Jul 22 09:02:58 2001] Teenetiny tells you, 'would of stayed still like it should of'
+[Sun Jul 22 09:03:13 2001] You told Teenetiny, 'I do sympathize, but link deaths are most always out of the game's control, and happen due to business in the Internet or a problem on the player's computer'
+[Sun Jul 22 09:03:34 2001] You told Teenetiny, 'This is why we do not rez for deaths caused by lag or link death.'
+[Sun Jul 22 09:03:55 2001] Teenetiny tells you, 'I don't understand?'
+[Sun Jul 22 09:03:57 2001] Kardis says out of character, 'looking for port to GD'
+[Sun Jul 22 09:04:15 2001] Teenetiny tells you, 'REZ?????'
+[Sun Jul 22 09:04:18 2001] Dusky auctions, 'WTS small bronze helm AC 10'
+[Sun Jul 22 09:05:02 2001] You told Teenetiny, 'We don't resurrect... (rez for short)... for deaths caused by lag or link death because the problems are rarely on the server side and are impossible to verify anyway.'
+[Sun Jul 22 09:05:32 2001] Nazbag tells the guild, 'when you /goto people, do you ever zone for no reason?'
+[Sun Jul 22 09:05:40 2001] Oraden GMSAYS, 'pulling mitzilflik'
+[Sun Jul 22 09:05:46 2001] You tell your party, 'Which takes longer - to walk back to your body, or to spend an hour trying to convince a guide to bring you there?'
+[Sun Jul 22 09:05:49 2001] Teenetiny tells you, 'this is BF's game still learning sorry,  I see but that is what happened thankyou'
+[Sun Jul 22 09:05:56 2001] Oraden tells the group, 'pet: this game cheats'
+[Sun Jul 22 09:05:56 2001] You say to your guild, 'not I, but I've been hearing about it on the boards.'
+[Sun Jul 22 09:06:11 2001] You told Teenetiny, 'be well!'
+[Sun Jul 22 09:06:17 2001] Nazbag tells the guild, 'its happening to me with alarming regularity these days'
+[Sun Jul 22 09:06:24 2001] Teenetiny tells you, 'you too'
+[Sun Jul 22 09:06:49 2001] Oraden tells the group, 'if the guide is me the talking to a Guide... i will chat their EAR off on why I can't do it.'
+[Sun Jul 22 09:07:08 2001] You tell your party, 'wasted breath :)'
+[Sun Jul 22 09:07:09 2001] Deawin auctions, 'WTS spine chill spear, piercing 10 28, rygorr armguards'
+[Sun Jul 22 09:07:38 2001] You tell your party, 'oh you mean you, as a guide, to a player.'
+[Sun Jul 22 09:07:41 2001] Zowar auctions, 'WTB good 1hs weapon'
+[Sun Jul 22 09:07:50 2001] You tell your party, 'that's probably wasted breath too, though'
+[Sun Jul 22 09:08:17 2001] Kardis says out of character, 'looking for port to GD'
+[Sun Jul 22 09:08:28 2001] Kriker auctions, 'WTS a giant scalemail tunic.. 18 ac and 40 hp.. for 200p.. send tells plz'
+[Sun Jul 22 09:08:40 2001] Vdidar says out of character, 'Zytl is a big puss'
+[Sun Jul 22 09:08:40 2001] You say, 'Colin, Valon! How are you guys?'
+[Sun Jul 22 09:08:43 2001] Sumadan says out of character, 'looking for port to Ferott'
+[Sun Jul 22 09:08:50 2001] You say, 'Collect many tolls lately?'
+[Sun Jul 22 09:09:12 2001] You GMSAY, 'zone'
+[Sun Jul 22 09:09:15 2001] LOADING, PLEASE WAIT...
+[Sun Jul 22 09:09:34 2001] You have entered Sunset Home.
+[Sun Jul 22 09:09:34 2001] You have joined the group.
+[Sun Jul 22 09:09:36 2001] Oraden GMSAYS, 'mitzil is upset, every time he levels he gets mashed by mobs trying to get his level back.... told him it's not on purpose. deleting mitzil'
+[Sun Jul 22 09:10:01 2001] You GMSAY, 'dang! forgot to turn off the "KILL MITZIL" switch! ... there'
+[Sun Jul 22 09:10:10 2001] Oraden tells the group, 'aye, but i have lots of breath.... and the longer they talk the less they get ;)'
+[Sun Jul 22 09:10:38 2001] You tell your party, 'best not to spend too much time on it, otherwise you get bogged down with old conversations.'
+[Sun Jul 22 09:10:45 2001] Oraden tells the group, 'no it's the "he just ding'ed get him" switch he wants flipped to OFF ;)'
+[Sun Jul 22 09:10:47 2001] You tell your party, 'we can do what we can ...'
+[Sun Jul 22 09:11:03 2001] You tell your party, 'I mean, we all like to rez someone when we can.'
+[Sun Jul 22 09:11:30 2001] Oraden tells the group, 'aye, Larsot and I did get two verified bug deaths to rez in 5 hours ;)'
+[Sun Jul 22 09:12:06 2001] Nazbag tells the group, 'not that I would advocate making your own mind up or anything, but in my opionion with reses, you can give the benift of the doubt too'
+[Sun Jul 22 09:12:40 2001] You tell your party, 'If I feel I could justify the rez to a senior, I give it'
+[Sun Jul 22 09:12:48 2001] Oraden tells the group, 'i like to be on firm ground.... one of them initially looked like an LD death... till we found the body under the world.'
+[Sun Jul 22 09:12:49 2001] You feel the spirit of Norrath enter you.
+[Sun Jul 22 09:12:55 2001] Nazbag tells the group, 'yeah.'
+[Sun Jul 22 09:13:30 2001] Players in EverQuest:
+[Sun Jul 22 09:13:30 2001] ---------------------------
+[Sun Jul 22 09:13:30 2001] * Guide *[52 Mystic] Nazbag (Ogre) <Keepers of Morell Thule> ZONE: feerrott (USER PID EUUV5HS)
+[Sun Jul 22 09:13:30 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jul 22 09:13:30 2001] * Apprentice Guide *[20 Monk] Oraden (Human) ZONE: lakeofillomen (USER PID ATWFJ36)
+[Sun Jul 22 09:13:31 2001] There are 3 players in EverQuest.
+[Sun Jul 22 09:13:55 2001] You GMSAY, 'well, I'm gonna go kill some fish... see y'all later!'
+[Sun Jul 22 09:13:58 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Jul 22 09:13:58 2001] Oraden tells the group, 'my 'rule of thumb' is..... I won't risk getting kicked out of the Guide Program to help one person once, because that would mean I couldn't help lots of people for a good long time.'
+[Sun Jul 22 09:14:02 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Jul 22 09:14:07 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Jul 22 09:14:09 2001] You tell your party, 'when in doubt, follow the P&P'
+[Sun Jul 22 09:14:10 2001] Oraden GMSAYS, 'smack phiny for me.'
+[Sun Jul 22 09:14:12 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Jul 22 09:14:14 2001] You GMSAY, 'hope to'
+[Sun Jul 22 09:14:17 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Jul 22 09:14:22 2001] It will take about 5 more seconds to prepare your camp.
+[Sun Jul 22 09:14:27 2001] Oraden GMSAYS, '*waves* Be well and walk in beauty Espranza'

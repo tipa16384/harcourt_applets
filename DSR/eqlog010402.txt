@@ -1,0 +1,870 @@
+[Fri Jan 04 14:14:00 2002] Welcome to EverQuest!
+[Fri Jan 04 14:14:00 2002] You have entered Sunset Home.
+[Fri Jan 04 14:14:03 2002] It begins to rain.
+[Fri Jan 04 14:14:09 2002] Players in EverQuest:
+[Fri Jan 04 14:14:09 2002] ---------------------------
+[Fri Jan 04 14:14:09 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Fri Jan 04 14:14:09 2002] * Guide *[50 Paladin] Theobrin (Dwarf) <Keepers of Dreams> ZONE: everfrost (USER PID FUGB78G)
+[Fri Jan 04 14:14:09 2002] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: freporte (USER PID HU7F5NG)
+[Fri Jan 04 14:14:09 2002] There are 3 players in EverQuest.
+[Fri Jan 04 14:14:16 2002] You GMSAY, 'hi hi'
+[Fri Jan 04 14:14:34 2002] You GMSAY, 'shrub elf bard at your service'
+[Fri Jan 04 14:14:52 2002] You feel the spirit of Norrath enter you.
+[Fri Jan 04 14:14:53 2002] Your feet leave the ground.
+[Fri Jan 04 14:15:13 2002] Kedian GMSAYS, 'heya esp!'
+[Fri Jan 04 14:15:18 2002] Theobrin GMSAYS, 'hey!'
+[Fri Jan 04 14:15:42 2002] You GMSAY, 'what's up on MT today?'
+[Fri Jan 04 14:15:47 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 14:15:54 2002] Spell particle effects are currently ON.
+[Fri Jan 04 14:15:56 2002] Kedian GMSAYS, 'not much..been kinda quiet all morning'
+[Fri Jan 04 14:15:57 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 14:16:12 2002] Players in EverQuest:
+[Fri Jan 04 14:16:12 2002] ---------------------------
+[Fri Jan 04 14:16:12 2002] [1 Druid] Yekian (Wood Elf) <Wandering Warlords> ZONE: gfaydark (USER PID HY2DAWT)
+[Fri Jan 04 14:16:12 2002] [ANON (1 Rogue)] Kkyzzar (Vah Shir) ZONE: qeynos2 (USER PID DUWM1GS)
+[Fri Jan 04 14:16:12 2002] [1 Warrior] Manting (Half Elf) ZONE: freportn (USER PID FZM0X4W)
+[Fri Jan 04 14:16:12 2002] [1 Wizard] Selarion (Human) ZONE: qeynos (USER PID B389WB5)
+[Fri Jan 04 14:16:12 2002] [1 Beastlord] Sriis (Vah Shir) ZONE: sharvahl (USER PID BNLF9M4)
+[Fri Jan 04 14:16:12 2002] [1 Rogue] Basehead (Barbarian) ZONE: everfrost (USER PID BVFPL1L)
+[Fri Jan 04 14:16:12 2002] [1 Beastlord] Paterson (Barbarian) ZONE: everfrost (USER PID HUNEC7R)
+[Fri Jan 04 14:16:12 2002] [1 Warrior] Darkahn (Vah Shir) ZONE: sharvahl (USER PID EPALYD0)
+[Fri Jan 04 14:16:12 2002] [1 Magician] Ashed (High Elf) ZONE: felwithea (USER PID BND448M)
+[Fri Jan 04 14:16:12 2002] [1 Druid] Vasilxs (Wood Elf) ZONE: gfaydark (USER PID F0KP3AV)
+[Fri Jan 04 14:16:12 2002] [1 Beastlord] Gazbekay (Troll) ZONE: grobb (USER PID AXVMTHB)
+[Fri Jan 04 14:16:12 2002] [ANON (1 Monk)] Korlonbank (Human) ZONE: freportn (USER PID FVMQ7LA)
+[Fri Jan 04 14:16:12 2002] [1 Warrior] Ollyolly (Vah Shir) ZONE: sharvahl (USER PID FPZQEWY)
+[Fri Jan 04 14:16:12 2002] There are 13 players in EverQuest.
+[Fri Jan 04 14:16:13 2002] You are no longer invigorated.
+[Fri Jan 04 14:16:26 2002] Players in EverQuest:
+[Fri Jan 04 14:16:26 2002] ---------------------------
+[Fri Jan 04 14:16:26 2002] [2 Magician] Recal (Human) ZONE: qeytoqrg (USER PID BQD41CF)
+[Fri Jan 04 14:16:26 2002] [2 Shadow Knight] Bamedar (Human) ZONE: qeynos2 (USER PID CZWX3VU)
+[Fri Jan 04 14:16:26 2002] [2 Magician] Dolodily (Human) ZONE: qeynos2 (USER PID E0X8R9K)
+[Fri Jan 04 14:16:26 2002] [2 Druid] Liennus (Wood Elf) ZONE: gfaydark (USER PID AZ66CPF)
+[Fri Jan 04 14:16:26 2002] [2 Ranger] Ruperris (Human) ZONE: commons (USER PID G3WRJFX)
+[Fri Jan 04 14:16:26 2002] [2 Monk] Yawop (Human) ZONE: qeynos2 (USER PID F3H27P9)
+[Fri Jan 04 14:16:26 2002] [2 Enchanter] Landare (Human) ZONE: qeynos2 (USER PID ASWA3QR)
+[Fri Jan 04 14:16:26 2002] [2 Cleric] Lehealerfou (High Elf) ZONE: gfaydark (USER PID AZY1JFY)
+[Fri Jan 04 14:16:26 2002] [2 Magician] Eadanor (High Elf) ZONE: gfaydark (USER PID BU98H10)
+[Fri Jan 04 14:16:26 2002] [2 Cleric] Leskor (Dark Elf) ZONE: ecommons (USER PID FY11F5M)
+[Fri Jan 04 14:16:26 2002] [2 Necromancer] Raylinia (Dark Elf) ZONE: neriakc (USER PID B40Q76L)
+[Fri Jan 04 14:16:26 2002] [2 Warrior] Capthowdy (Human) ZONE: qeynos2 (USER PID E0HR2E8)
+[Fri Jan 04 14:16:26 2002] [2 Magician] Helified (Erudite) ZONE: qeynos2 (USER PID HW3HU3V)
+[Fri Jan 04 14:16:26 2002] [2 Cleric] Kabouter (Dwarf) ZONE: butcher (USER PID GVJY1XJ)
+[Fri Jan 04 14:16:26 2002] [2 Enchanter] Etincel (Dark Elf) ZONE: nektulos (USER PID GRKTNWK)
+[Fri Jan 04 14:16:26 2002] [2 Necromancer] Kebasis (Erudite) ZONE: paineel (USER PID FW4EDLZ)
+[Fri Jan 04 14:16:26 2002] [2 Wizard] Gadjit (Gnome) ZONE: gfaydark (USER PID EQZT00C)
+[Fri Jan 04 14:16:26 2002] [2 Ranger] Auldarea (Wood Elf) <Wandering Warlords> ZONE: gfaydark (USER PID CV6RTQ3)
+[Fri Jan 04 14:16:26 2002] There are 18 players in EverQuest.
+[Fri Jan 04 14:16:42 2002] Players in EverQuest:
+[Fri Jan 04 14:16:42 2002] ---------------------------
+[Fri Jan 04 14:16:42 2002] There are no players in EverQuest that match those who filters.
+[Fri Jan 04 14:16:52 2002] Searching zones for corpse of that name....
+[Fri Jan 04 14:16:54 2002] Searching zones for corpse of that name....
+[Fri Jan 04 14:16:55 2002] Corpse: Capthowdy's corpse0 in zone: qeynos2
+[Fri Jan 04 14:16:55 2002] Corpse: Capthowdy's corpse0 in zone: qeynos
+[Fri Jan 04 14:16:57 2002] Theobrin GMSAYS, 'zone'
+[Fri Jan 04 14:17:02 2002] Players in EverQuest:
+[Fri Jan 04 14:17:02 2002] ---------------------------
+[Fri Jan 04 14:17:02 2002] [3 Warrior] Valroth (Vah Shir) ZONE: sharvahl (USER PID BVCB769)
+[Fri Jan 04 14:17:02 2002] [ANON (3 Bard)] Hasephus (Human) ZONE: ecommons (USER PID BW110YC)
+[Fri Jan 04 14:17:02 2002] [3 Necromancer] Profius (Human) ZONE: freportw (USER PID AY7NP19)
+[Fri Jan 04 14:17:02 2002] [3 Wizard] Eeneldar (High Elf) ZONE: felwithea (USER PID F23RKG8)
+[Fri Jan 04 14:17:02 2002] [3 Druid] Meona (Wood Elf) <Wandering Warlords> ZONE: gfaydark (USER PID B16R4HQ)
+[Fri Jan 04 14:17:02 2002] [3 Monk] Laraniel (Human) ZONE: qeynos2 (USER PID H4MR0YD)
+[Fri Jan 04 14:17:02 2002] [ANON (3 Monk)] Kushi (Human) ZONE: ecommons (USER PID FTXWE71)
+[Fri Jan 04 14:17:02 2002] [ANON (3 Warrior)] Lugga (Ogre) ZONE: nektulos (USER PID EZ7J71W)
+[Fri Jan 04 14:17:02 2002] [3 Enchanter] Navaja (Human) ZONE: ecommons (USER PID ATWX7P4)
+[Fri Jan 04 14:17:02 2002] [3 Warrior] Arnil (Halfling) ZONE: rivervale (USER PID A37CRLJ)
+[Fri Jan 04 14:17:02 2002] [3 Necromancer] Bramdar (Dark Elf) ZONE: nektulos (USER PID CV51NLQ)
+[Fri Jan 04 14:17:02 2002] [3 Beastlord] Mistygriffe (Vah Shir) ZONE: sharvahl (USER PID HXMPH5M)
+[Fri Jan 04 14:17:02 2002] [ANON (3 Druid)] Sefero (Wood Elf) ZONE: gfaydark (USER PID DYPGCKZ)
+[Fri Jan 04 14:17:02 2002] [3 Paladin] Tartn (Dwarf) ZONE: butcher (USER PID HX7N2W0)
+[Fri Jan 04 14:17:02 2002] [3 Wizard] Lucied (Dark Elf) ZONE: ecommons (USER PID H1PEJCD)
+[Fri Jan 04 14:17:02 2002] [3 Monk] Soldile (Human) ZONE: ecommons (USER PID E11XBJM)
+[Fri Jan 04 14:17:02 2002] [3 Ranger] Dalanis (Wood Elf) ZONE: gfaydark (USER PID BQV2XW6)
+[Fri Jan 04 14:17:02 2002] [3 Druid] Shrowd (Wood Elf) ZONE: gfaydark (USER PID H1N99Y7)
+[Fri Jan 04 14:17:02 2002] [3 Shaman] Thalderin (Vah Shir) ZONE: sharvahl (USER PID FT6LCYS)
+[Fri Jan 04 14:17:02 2002] [3 Shaman] Valkyria (Vah Shir) ZONE: sharvahl (USER PID FXF6LRD)
+[Fri Jan 04 14:17:02 2002] Your who request was cut short..too many players.
+[Fri Jan 04 14:17:20 2002] Players in EverQuest:
+[Fri Jan 04 14:17:20 2002] ---------------------------
+[Fri Jan 04 14:17:20 2002] [4 Beastlord] Lanelynx (Vah Shir) ZONE: blackburrow (USER PID EV5BN85)
+[Fri Jan 04 14:17:20 2002] [4 Enchanter] Moneyhoney (High Elf) ZONE: gfaydark (USER PID HXXQLZ5)
+[Fri Jan 04 14:17:20 2002] [4 Paladin] Syrynn (High Elf) <Divinus Virtus> ZONE: gfaydark (USER PID B1Z2KDQ)
+[Fri Jan 04 14:17:20 2002] [4 Monk] Dolallron (Human) ZONE: qeytoqrg (USER PID EU8602W)
+[Fri Jan 04 14:17:20 2002] [4 Shadow Knight] Kurge (Dark Elf) ZONE: freporte (USER PID GVMSXFL)
+[Fri Jan 04 14:17:20 2002] [4 Enchanter] Cinyani (High Elf) ZONE: kaladima (USER PID CQ747BQ)
+[Fri Jan 04 14:17:20 2002] [4 Cleric] Adeon (High Elf) <Hessians of Morell Thule> ZONE: butcher (USER PID E2CMQ6N)
+[Fri Jan 04 14:17:20 2002] [4 Necromancer] Lodelea (Human) <Guardians of Truth> ZONE: freporte (USER PID BN8SXJ6)
+[Fri Jan 04 14:17:20 2002] [4 Wizard] Ibiaman (Erudite) ZONE: tox (USER PID E2LLNAD)
+[Fri Jan 04 14:17:20 2002] [4 Magician] Sonn (High Elf) ZONE: butcher (USER PID FUAGXRD)
+[Fri Jan 04 14:17:20 2002] [4 Paladin] Shamefull (Human) <Black Claws> ZONE: ecommons (USER PID AV71T9R)
+[Fri Jan 04 14:17:20 2002] [4 Rogue] Swiffty (Barbarian) ZONE: commons (USER PID H2KBLQJ)
+[Fri Jan 04 14:17:20 2002] [4 Enchanter] Vandoff (Dark Elf) ZONE: nektulos (USER PID AXZNG78)
+[Fri Jan 04 14:17:20 2002] [4 Bard] Velishyn (Vah Shir) <Discordians> ZONE: sharvahl (USER PID HT8VCXH)
+[Fri Jan 04 14:17:20 2002] [4 Druid] Tyen (Wood Elf) ZONE: gfaydark (USER PID D3H3VD5)
+[Fri Jan 04 14:17:20 2002] [4 Shaman] Omegaa (Iksar) ZONE: swampofnohope (USER PID GWSGGLZ)
+[Fri Jan 04 14:17:20 2002] [4 Ranger] Riznof (Human) ZONE: erudsxing (USER PID H389PXT)
+[Fri Jan 04 14:17:20 2002] [4 Warrior] Nrutoker (Iksar) <Wraith Lords> ZONE: fieldofbone (USER PID GVCBYCY)
+[Fri Jan 04 14:17:20 2002] [4 Rogue] Miekko (Halfling) <Wandering Warlords> ZONE: ecommons (USER PID GVFLTZ9)
+[Fri Jan 04 14:17:20 2002] [4 Necromancer] Beetrice (Gnome) ZONE: freportn (USER PID DN8ZV0J)
+[Fri Jan 04 14:17:20 2002] Your who request was cut short..too many players.
+[Fri Jan 04 14:17:46 2002] Kedian GMSAYS, '<< zone >>'
+[Fri Jan 04 14:17:57 2002] Players in EverQuest:
+[Fri Jan 04 14:17:57 2002] ---------------------------
+[Fri Jan 04 14:17:57 2002] [ANON (5 Bard)] Cervus (Wood Elf) ZONE: gfaydark (USER PID AYMEV1D)
+[Fri Jan 04 14:17:57 2002] [5 Ranger] Ratfodder (Half Elf) ZONE: qeynos2 (USER PID D2S0Y7B)
+[Fri Jan 04 14:17:57 2002] [ANON (5 Magician)] Mavros (High Elf) ZONE: gfaydark (USER PID ARC2M0V)
+[Fri Jan 04 14:17:57 2002] [5 Monk] Katrulrn (Iksar) <Wraith Lords> ZONE: fieldofbone (USER PID FXU3Y1U)
+[Fri Jan 04 14:17:57 2002] [5 Wizard] Antelina (High Elf) ZONE: ecommons (USER PID HW3ZL4Y)
+[Fri Jan 04 14:17:57 2002] [5 Warrior] Celeniastdauk (Human) <Guardians of Truth> ZONE: ecommons (USER PID AZPKSL5)
+[Fri Jan 04 14:17:57 2002] [5 Druid] Hamley (Halfling) ZONE: misty (USER PID BXP50M1)
+[Fri Jan 04 14:17:57 2002] [5 Shadow Knight] Xerrier (Ogre) <Legacy of Pain> ZONE: qeytoqrg (USER PID C3T0MEM)
+[Fri Jan 04 14:17:57 2002] [ANON (5 Bard)] Abows (Wood Elf) ZONE: gfaydark (USER PID GXBYGM3)
+[Fri Jan 04 14:17:57 2002] [5 Warrior] Kaldaanie (Barbarian) ZONE: everfrost (USER PID FWKYP80)
+[Fri Jan 04 14:17:57 2002] [ANON (5 Cleric)] Silendeleya (High Elf) ZONE: gfaydark (USER PID DWP2HMJ)
+[Fri Jan 04 14:17:57 2002] [5 Warrior] Molks (Barbarian) ZONE: everfrost (USER PID C1PAPXK)
+[Fri Jan 04 14:17:57 2002] [5 Warrior] Terxos (Dark Elf) ZONE: nektulos (USER PID D2Q3XZ6)
+[Fri Jan 04 14:17:57 2002] [5 Beastlord] Manj (Iksar) ZONE: cabeast (USER PID HND2HSM)
+[Fri Jan 04 14:17:57 2002] [5 Rogue] Shanier (Wood Elf) ZONE: crushbone (USER PID AWBFP8Q)
+[Fri Jan 04 14:17:57 2002] [5 Shadow Knight] Scorren (Human) ZONE: nektulos (USER PID DXPTP46)
+[Fri Jan 04 14:17:57 2002] [5 Shaman] Noiredesir (Vah Shir) ZONE: shadeweaver (USER PID FXPCVYU)
+[Fri Jan 04 14:17:57 2002] [5 Druid] Nemina (Wood Elf) ZONE: ecommons (USER PID CXD0YAH)
+[Fri Jan 04 14:17:57 2002] [ANON (5 Druid)] Shaeun (Wood Elf) ZONE: gfaydark (USER PID AYHN85D)
+[Fri Jan 04 14:17:57 2002] [ANON (5 Warrior)] Cuudan (Barbarian) ZONE: everfrost (USER PID EP6LL1F)
+[Fri Jan 04 14:17:57 2002] Your who request was cut short..too many players.
+[Fri Jan 04 14:18:18 2002] Players in EverQuest:
+[Fri Jan 04 14:18:18 2002] ---------------------------
+[Fri Jan 04 14:18:18 2002] [6 Magician] Gimbal (Gnome) ZONE: kaladima (USER PID DNCZ56D)
+[Fri Jan 04 14:18:18 2002] [ANON (6 Rogue)] Dysania (Vah Shir) ZONE: qeynos (USER PID H4MQAXP)
+[Fri Jan 04 14:18:18 2002] [6 Warrior] Tendaor (Barbarian) ZONE: blackburrow (USER PID F1PDFT1)
+[Fri Jan 04 14:18:18 2002] [6 Enchanter] Aeninu (High Elf) ZONE: gfaydark (USER PID C3RSQ11)
+[Fri Jan 04 14:18:18 2002] [6 Beastlord] Huirt (Vah Shir) ZONE: shadeweaver (USER PID FQN5E0E)
+[Fri Jan 04 14:18:18 2002] [6 Druid] Telaa (Wood Elf) ZONE: ecommons (USER PID DZCT24E)
+[Fri Jan 04 14:18:18 2002] [6 Shadow Knight] Bordor (Human) ZONE: freporte (USER PID AXRE8Y3)
+[Fri Jan 04 14:18:18 2002] [6 Cleric] Kikii (Dark Elf) ZONE: ecommons (USER PID EX46GYV)
+[Fri Jan 04 14:18:18 2002] [6 Magician] Caedyn (Dark Elf) ZONE: ecommons (USER PID EU39GKF)
+[Fri Jan 04 14:18:18 2002] [6 Shaman] Lupinwolfe (Barbarian) ZONE: halas (USER PID F4YGYRU)
+[Fri Jan 04 14:18:18 2002] [6 Druid] Goinpostal (Human) ZONE: qey2hh1 (USER PID F0MLADY)
+[Fri Jan 04 14:18:18 2002] [6 Warrior] Gonadil (Human) ZONE: commons (USER PID G3H371B)
+[Fri Jan 04 14:18:18 2002] [6 Ranger] Siereal (Wood Elf) ZONE: commons (USER PID B0DBQ9T)
+[Fri Jan 04 14:18:18 2002] [6 Enchanter] Yinamari (High Elf) ZONE: butcher (USER PID EVX9H93)
+[Fri Jan 04 14:18:18 2002] [6 Cleric] Dominicula (Human) ZONE: ecommons (USER PID F0LJ8JC)
+[Fri Jan 04 14:18:18 2002] [6 Shaman] Iceking (Barbarian) ZONE: everfrost (USER PID BXQXU9Z)
+[Fri Jan 04 14:18:18 2002] [6 Enchanter] Devothegreat (High Elf) ZONE: gfaydark (USER PID G2S1BUH)
+[Fri Jan 04 14:18:18 2002] [6 Druid] Rosy (Halfling) <Clan of Zoit> ZONE: steamfont (USER PID HYV6BPT)
+[Fri Jan 04 14:18:18 2002] [6 Beastlord] Tarqwin (Vah Shir) ZONE: sharvahl (USER PID HXTVMZL)
+[Fri Jan 04 14:18:18 2002] There are 19 players in EverQuest.
+[Fri Jan 04 14:18:32 2002] Searching zones for corpse of that name....
+[Fri Jan 04 14:18:35 2002] Kedian GMSAYS, 'a little while ago there was an announcement for a training team position...has that been filled yet?'
+[Fri Jan 04 14:18:54 2002] You GMSAY, 'why would you want to join that pack of losers?'
+[Fri Jan 04 14:19:02 2002] Theobrin GMSAYS, 'lol'
+[Fri Jan 04 14:19:06 2002] You GMSAY, 'oh wait, I'm in charge of it....'
+[Fri Jan 04 14:19:26 2002] Kedian GMSAYS, 'hehe...was gonna say, 'wasn't that your position for a whil?" :p'
+[Fri Jan 04 14:19:55 2002] You GMSAY, 'heh... send a note to the SMT (which includes me now, yay) and I'll add you in.'
+[Fri Jan 04 14:20:04 2002] You GMSAY, 'and I'll send you the script and all.'
+[Fri Jan 04 14:20:10 2002] Theobrin GMSAYS, 'zone'
+[Fri Jan 04 14:20:40 2002] Players in EverQuest:
+[Fri Jan 04 14:20:40 2002] ---------------------------
+[Fri Jan 04 14:20:40 2002] [6 Enchanter] Devothegreat (High Elf) ZONE: gfaydark (USER PID G2S1BUH)
+[Fri Jan 04 14:20:40 2002] There is 1 player in EverQuest.
+[Fri Jan 04 14:20:45 2002] Kedian GMSAYS, 'well...I kinda wnated to know what I would be getting myself into first...'
+[Fri Jan 04 14:21:03 2002] You GMSAY, 'like when I trained you, except with you typing...'
+[Fri Jan 04 14:21:30 2002] You GMSAY, 'we need trainers for saturday 3pm PST and tuesday 6pm PST'
+[Fri Jan 04 14:21:45 2002] You GMSAY, 'I'll send out a note asking people to sign up to train when we have appies'
+[Fri Jan 04 14:22:00 2002] Kedian GMSAYS, 'Ok..I see. That works out good since I have a scheduled shift saturday evening'
+[Fri Jan 04 14:22:32 2002] You GMSAY, 'most people choose saturday training, but we do get a few on tuesday evenings too.'
+[Fri Jan 04 14:22:45 2002] You GMSAY, 'well, I'm gonna nerf some names...'
+[Fri Jan 04 14:22:56 2002] You GMSAY, 'devothegreat, prepare to meet thy doom'
+[Fri Jan 04 14:22:59 2002] You GMSAY, 'zone'
+[Fri Jan 04 14:23:04 2002] Teleporting to devothegreat.
+[Fri Jan 04 14:23:04 2002] LOADING, PLEASE WAIT...
+[Fri Jan 04 14:23:50 2002] Wenwen says out of character, 'try north east of Kelethin'
+[Fri Jan 04 14:23:50 2002] Sareliane says out of character, 'thx )'
+[Fri Jan 04 14:24:02 2002] You have entered Greater Faydark.
+[Fri Jan 04 14:24:02 2002] Abows says out of character, 'ok this is sad 512KB per sec internet and STILL LAG 8-('
+[Fri Jan 04 14:24:07 2002] Teaf shouts, 'five magician looking for group at orc hill'
+[Fri Jan 04 14:24:23 2002] Innkeep Larya says 'Welcome to my shop, Devothegreat. You would probably find a Chunk of Meat handy'
+[Fri Jan 04 14:24:38 2002] Theobrin GMSAYS, 'hehe'
+[Fri Jan 04 14:24:47 2002] You told devothegreat, 'Hail! Senior Guide Espranza here. Were you aware that names cannot contain titles, such as Devo the Great?'
+[Fri Jan 04 14:24:53 2002] Bladesplitwo auctions, 'wts lksar beserker club/drolvarge mantle/tizmac sl'
+[Fri Jan 04 14:25:02 2002] Phantomyst begins to cast a spell. (Levitate)
+[Fri Jan 04 14:25:08 2002] Sarothias auctions, 'WTS a 4str 2wis ring'
+[Fri Jan 04 14:25:12 2002] Runte shouts, 'lvl 5 mage lfg'
+[Fri Jan 04 14:25:18 2002] You wave at Devothegreat.
+[Fri Jan 04 14:25:19 2002] Gianan shouts, 'level 16 wizard lfg!'
+[Fri Jan 04 14:25:21 2002] Syrpent begins to cast a spell. (Light Healing)
+[Fri Jan 04 14:25:24 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 14:25:32 2002] Devothegreat says, 'Hail, Espranza'
+[Fri Jan 04 14:25:34 2002] You beam a smile at Devothegreat.
+[Fri Jan 04 14:25:38 2002] You are no longer invigorated.
+[Fri Jan 04 14:25:40 2002] Teaf shouts, 'level 5 mage looking for group'
+[Fri Jan 04 14:25:46 2002] Devothegreat is looking at your equipment...
+[Fri Jan 04 14:25:59 2002] Mavros shouts, '5 mage LFG'
+[Fri Jan 04 14:26:01 2002] Devothegreat is looking at your equipment...
+[Fri Jan 04 14:26:04 2002] You say, 'Would you please choose a new first name? If it is not used, I can grant it to you.'
+[Fri Jan 04 14:26:07 2002] Bladesplitwo auctions, 'wts lksar beserker club/drolvarge mantle/tizmac sl'
+[Fri Jan 04 14:26:15 2002] Devothegreat is looking at your equipment...
+[Fri Jan 04 14:26:29 2002] Goinpeace says out of character, 'looking for a bind at entrance to cb please'
+[Fri Jan 04 14:26:47 2002] Mavros begins to cast a spell. (Elementalkin: Earth)
+[Fri Jan 04 14:26:48 2002] You GMSAY, 'Goinpeace is next I think... just did an ooc...'
+[Fri Jan 04 14:26:57 2002] Devothegreat tells you, 'no ty'
+[Fri Jan 04 14:27:01 2002] Theobrin GMSAYS, 'lol'
+[Fri Jan 04 14:27:16 2002] Devothegreat bows before Espranza.
+[Fri Jan 04 14:27:16 2002] Teaf shouts, 'two level 5 mage's looking for meleer's plz send tells if interested'
+[Fri Jan 04 14:27:21 2002] Innkeep Larya says 'Hi there Devothegreat, just browsing?  Have you seen the Small Cloth Sandals I just got in?'
+[Fri Jan 04 14:27:25 2002] You told Devothegreat, 'then I will give you a temporary name until such time as you can think of a more permanent one...'
+[Fri Jan 04 14:27:32 2002] Bobyyo shouts, 'some ranger lost his corpse in gfay and said he would pay me for bindin him when he found his corpse and he isnt online anymore!!'
+[Fri Jan 04 14:27:39 2002] You have changed Devothegreat's name to Devogret.
+[Fri Jan 04 14:27:40 2002] You feel as if you are about to fall.
+[Fri Jan 04 14:27:46 2002] You feel as if you are about to fall.
+[Fri Jan 04 14:27:50 2002] Kaygin shouts, 'that sux'
+[Fri Jan 04 14:27:52 2002] You can no longer levitate.
+[Fri Jan 04 14:28:11 2002] You have changed Devothegreat's name to Devort.
+[Fri Jan 04 14:28:12 2002] Devothegreat tells you, 'why cant i keep my name '
+[Fri Jan 04 14:28:37 2002] Ayluena shouts, 'room for one more for Mistemoore! lvls 20 and up!'
+[Fri Jan 04 14:28:39 2002] Innkeep Larya says 'Welcome to my shop, Devort. You would probably find a Small Patchwork Sleeves handy'
+[Fri Jan 04 14:28:41 2002] You told Devort, 'Because it violates the naming policy, which you may find on the Everquest web site, www.everquestlive.com.'
+[Fri Jan 04 14:29:07 2002] Lirus GMSAYS, 'hey hey'
+[Fri Jan 04 14:29:11 2002] You told devort, 'titles may not be a part of a name. You may petition within a week for a permanent name; after which, the name you now bear will become permanent.'
+[Fri Jan 04 14:29:13 2002] Kedian GMSAYS, 'hiya Lirus'
+[Fri Jan 04 14:29:15 2002] You GMSAY, 'Hiya Lirus!'
+[Fri Jan 04 14:29:17 2002] Devort tells you, 'they ok through the system '
+[Fri Jan 04 14:29:19 2002] Gimea begins to cast a spell. (Gate)
+[Fri Jan 04 14:29:29 2002] Theobrin GMSAYS, 'got another name for you espy dappwin's petition'
+[Fri Jan 04 14:29:31 2002] Players in EverQuest:
+[Fri Jan 04 14:29:31 2002] ---------------------------
+[Fri Jan 04 14:29:31 2002] [6 Enchanter] Devort (High Elf) ZONE: gfaydark (USER PID G2S1BUH)
+[Fri Jan 04 14:29:31 2002] There is 1 player in EverQuest.
+[Fri Jan 04 14:29:33 2002] You GMSAY, 'kk'
+[Fri Jan 04 14:29:40 2002] A Mystic Voice shouts 'The portal to Luclin will become active in five minutes. Please begin gathering at the Spires if you wish to make the journey. 
+[Fri Jan 04 14:29:59 2002] You GMSAY, '<note name> Devothegreat G2S1BUH name changed to Devort temporarily; has a week to choose a new one.'
+[Fri Jan 04 14:30:33 2002] Theobrin GMSAYS, 'afk a sec'
+[Fri Jan 04 14:30:35 2002] Soul Mark added to file successfully.
+[Fri Jan 04 14:30:39 2002] Kaygin shouts, 'WENWEN!!'
+[Fri Jan 04 14:30:46 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Jan 04 14:30:46 2002] USER TEXT: There's someone here in Naggy's Lair named Sslim Sshady
+[Fri Jan 04 14:30:47 2002] Players in EverQuest:
+[Fri Jan 04 14:30:47 2002] ---------------------------
+[Fri Jan 04 14:30:47 2002] [37 Rogue] Dappwin (Halfling) <Nature's Fury> ZONE: soldungb (USER PID HZGJCZQ) LFG
+[Fri Jan 04 14:30:47 2002] There is 1 player in EverQuest.
+[Fri Jan 04 14:30:53 2002] Players in EverQuest:
+[Fri Jan 04 14:30:53 2002] ---------------------------
+[Fri Jan 04 14:30:53 2002] There are no players in EverQuest that match those who filters.
+[Fri Jan 04 14:31:02 2002] Players in EverQuest:
+[Fri Jan 04 14:31:02 2002] ---------------------------
+[Fri Jan 04 14:31:02 2002] [47 Monk] Sslim (Iksar) <Ronins> ZONE: lavastorm (USER PID AVFA2LD)
+[Fri Jan 04 14:31:02 2002] There is 1 player in EverQuest.
+[Fri Jan 04 14:31:04 2002] Bladesplitwo auctions, 'wts lksar beserker club/drolvarge mantle/tizmac sl'
+[Fri Jan 04 14:31:19 2002] Shaeun says out of character, 'hiya'
+[Fri Jan 04 14:31:28 2002] Genamas auctions, 'WTT Rygorr Chest Piece And A Centi ShortSword For A Centi LongSword'
+[Fri Jan 04 14:31:37 2002] Bladesplitwo auctions, 'wts lksar beserker club/drolvarge mantle/tizmac sl'
+[Fri Jan 04 14:31:41 2002] You GMSAY, 'Is the name Slim Shady famous enough to change? I mean, if you're not a rap fan...'
+[Fri Jan 04 14:31:42 2002] Sareliane auctions, 'WTS Blood Point 7k'
+[Fri Jan 04 14:31:46 2002] A Mystic Voice shouts 'As a reminder, the portal will become active in three minutes. 
+[Fri Jan 04 14:31:46 2002] Devort tells you, 'i have been playing longer then a week sorry'
+[Fri Jan 04 14:31:59 2002] You told Devort, 'hmm?'
+[Fri Jan 04 14:32:00 2002] Genamas auctions, 'WTB Ranger Gear And Have Stuff To Trade '
+[Fri Jan 04 14:32:04 2002] Your feet leave the ground.
+[Fri Jan 04 14:32:49 2002] A Mystic Voice shouts 'Two minutes till teleportation. Please be prepared to step inside the circle of Spires. 
+[Fri Jan 04 14:32:53 2002] Lirus GMSAYS, 'yes'
+[Fri Jan 04 14:33:19 2002] You GMSAY, 'yeah, if even I had heard of it... but Sauron is okay? hmmm :)'
+[Fri Jan 04 14:33:23 2002] Lirus GMSAYS, 'no)'
+[Fri Jan 04 14:33:26 2002] Bobyyo auctions, 'WTS torque of hoar frost 10 hp,mana,and cold30pp'
+[Fri Jan 04 14:33:37 2002] Players in EverQuest:
+[Fri Jan 04 14:33:37 2002] ---------------------------
+[Fri Jan 04 14:33:37 2002] There are no players in EverQuest that match those who filters.
+[Fri Jan 04 14:33:45 2002] Players in EverQuest:
+[Fri Jan 04 14:33:45 2002] ---------------------------
+[Fri Jan 04 14:33:45 2002] [47 Monk] Sslim (Iksar) <Ronins> ZONE: soldunga (USER PID AVFA2LD) LFG
+[Fri Jan 04 14:33:45 2002] There is 1 player in EverQuest.
+[Fri Jan 04 14:33:49 2002] You GMSAY, 'zone'
+[Fri Jan 04 14:33:51 2002] Lirus GMSAYS, 'sauron because bad when the movie got released...i agree with ya esp but believe it or not "most" people did not know who the hell he was until the dumb movie'
+[Fri Jan 04 14:33:52 2002] A Mystic Voice shouts 'One minute till teleportation. Please be prepared to step inside the circle of Spires. 
+[Fri Jan 04 14:34:02 2002] You GMSAY, 'haha'
+[Fri Jan 04 14:34:06 2002] Espranza saved.
+[Fri Jan 04 14:34:28 2002] LOADING, PLEASE WAIT...
+[Fri Jan 04 14:35:06 2002] You have entered Solusek's Eye.
+[Fri Jan 04 14:35:06 2002] young goblin has been slain by Sslim!
+[Fri Jan 04 14:35:09 2002] Players on EverQuest:
+[Fri Jan 04 14:35:09 2002] ---------------------------
+[Fri Jan 04 14:35:09 2002] [52 Elementalist] Reielie (Human) <Titan Lords>
+[Fri Jan 04 14:35:09 2002] [ANONYMOUS] Zzaxe  <Guardians of Truth>
+[Fri Jan 04 14:35:09 2002] [47 Monk] Sslim (Iksar) <Ronins> LFG
+[Fri Jan 04 14:35:09 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Fri Jan 04 14:35:09 2002] There are 4 players in Solusek's Eye.
+[Fri Jan 04 14:35:22 2002] That is not a valid command.  Please use /help.
+[Fri Jan 04 14:35:24 2002] You wave at Sslim.
+[Fri Jan 04 14:35:27 2002] Kedian GMSAYS, '*psst* esp, boradcast for everyone to petition for lirus! :)'
+[Fri Jan 04 14:35:28 2002] Sslim says, 'Hail'
+[Fri Jan 04 14:35:29 2002] Sslim says, 'Hail, Espranza'
+[Fri Jan 04 14:35:31 2002] Lirus GMSAYS, 'bah hehe'
+[Fri Jan 04 14:35:35 2002] young goblin says 'Die by lava - Die by flame - Fire Peak goblins kill and maim. 
+[Fri Jan 04 14:35:35 2002] young goblin says 'Scumsuckers have no place in our realm!'
+[Fri Jan 04 14:35:39 2002] You say, 'Hiya Sslim!'
+[Fri Jan 04 14:35:43 2002] flame goblin wizard begins to cast a spell. (O'keils Embers)
+[Fri Jan 04 14:35:51 2002] young goblin has been slain by Sslim!
+[Fri Jan 04 14:35:51 2002] Espranza waits patiently.
+[Fri Jan 04 14:35:58 2002] Sslim says, 'yes?'
+[Fri Jan 04 14:36:07 2002] You say, 'Your name is too famous for you to keep, I fear'
+[Fri Jan 04 14:36:12 2002] Theobrin GMSAYS, 'does mt have more guides than most other servers?'
+[Fri Jan 04 14:36:17 2002] Sslim says, '=/'
+[Fri Jan 04 14:36:19 2002] You say, 'Sslim you can keep, but the last name must go.'
+[Fri Jan 04 14:36:27 2002] flame goblin wizard begins to cast a spell. (O'keils Embers)
+[Fri Jan 04 14:36:32 2002] Sslim says, 'hmm and I have no choice of what the last to be?'
+[Fri Jan 04 14:36:44 2002] You say, 'sure you do - what would you like it to be?'
+[Fri Jan 04 14:36:45 2002] Kedian GMSAYS, 'I think we have less guides than most servers...but we have guides who actualy...guide :)'
+[Fri Jan 04 14:36:55 2002] Theobrin GMSAYS, 'ah'
+[Fri Jan 04 14:36:59 2002] flame goblin wizard begins to cast a spell. (O'keils Embers)
+[Fri Jan 04 14:37:00 2002] You GMSAY, 'I think we're about average'
+[Fri Jan 04 14:37:10 2002] Sslim says, 'it cant be anything similar could it? Was thinking Scaly or something but wasnt sure what would be appropriate'
+[Fri Jan 04 14:37:18 2002] You say, 'Scaly is fine'
+[Fri Jan 04 14:37:30 2002] Theobrin GMSAYS, 'i just know i can never find guides online on my play server, on mt, i can never find a time when there arnen't guides'
+[Fri Jan 04 14:37:30 2002] Sslim says, 'make it have the lisp of an iskar'
+[Fri Jan 04 14:37:33 2002] Sslim says, 'Sscaly )'
+[Fri Jan 04 14:37:37 2002] You say, 'heh okay'
+[Fri Jan 04 14:37:42 2002] Kedian GMSAYS, 'same here theo'
+[Fri Jan 04 14:37:44 2002] You have changed Sslim's last name to Sscaly.
+[Fri Jan 04 14:37:50 2002] You say, 'there ya go'
+[Fri Jan 04 14:38:03 2002] Kedian GMSAYS, 'right now my play server has 1 guide on...I feel sorry for him/her, prolly has 48920432 pets :/'
+[Fri Jan 04 14:38:14 2002] Players in EverQuest:
+[Fri Jan 04 14:38:14 2002] ---------------------------
+[Fri Jan 04 14:38:14 2002] [47 Monk] Sslim (Iksar) <Ronins> ZONE: soldunga (USER PID AVFA2LD) LFG
+[Fri Jan 04 14:38:14 2002] There is 1 player in EverQuest.
+[Fri Jan 04 14:38:15 2002] Sslim says, 'hehe sorry for any inconvienience that the original Surname caused'
+[Fri Jan 04 14:38:15 2002] flame goblin wizard begins to cast a spell. (O'keils Embers)
+[Fri Jan 04 14:38:33 2002] You GMSAY, '<note name> Sslim Sshady AVFA2LD given new last name Sscaly.'
+[Fri Jan 04 14:38:39 2002] You say, 'no worries ;) have fun!'
+[Fri Jan 04 14:38:43 2002] DELETING THIS PETITION
+[Fri Jan 04 14:38:45 2002] You bow before Sslim.
+[Fri Jan 04 14:38:47 2002] You wave goodbye to Sslim.
+[Fri Jan 04 14:38:50 2002] You GMSAY, 'zone'
+[Fri Jan 04 14:38:52 2002] Sslim waves.
+[Fri Jan 04 14:38:54 2002] You feel the spirit of Z surround you.
+[Fri Jan 04 14:38:55 2002] LOADING, PLEASE WAIT...
+[Fri Jan 04 14:39:16 2002] You have entered Sunset Home.
+[Fri Jan 04 14:39:33 2002] You GMSAY, 'first name changes are the worse; last name changes so much nicer.'
+[Fri Jan 04 14:39:52 2002] Searching zones for corpse of that name....
+[Fri Jan 04 14:39:52 2002] Corpse: Goinpostal's corpse0 in zone: qey2hh1
+[Fri Jan 04 14:40:05 2002] You GMSAY, 'shoot... goinpostal always manages to have a corpse.'
+[Fri Jan 04 14:40:08 2002] You GMSAY, 'next time...'
+[Fri Jan 04 14:40:20 2002] Players in EverQuest:
+[Fri Jan 04 14:40:20 2002] ---------------------------
+[Fri Jan 04 14:40:20 2002] [12 Cleric] Goinpeace (High Elf) ZONE: crushbone (USER PID FW3521A)
+[Fri Jan 04 14:40:20 2002] There is 1 player in EverQuest.
+[Fri Jan 04 14:40:28 2002] Searching zones for corpse of that name....
+[Fri Jan 04 14:40:37 2002] You GMSAY, 'zone - off to nerf Goinpeace'
+[Fri Jan 04 14:40:46 2002] LOADING, PLEASE WAIT...
+[Fri Jan 04 14:41:27 2002] You have entered Crushbone.
+[Fri Jan 04 14:41:31 2002] Logee begins to cast a spell. (Minor Healing)
+[Fri Jan 04 14:41:35 2002] Logee begins to cast a spell. (Minor Healing)
+[Fri Jan 04 14:41:37 2002] Players in EverQuest:
+[Fri Jan 04 14:41:37 2002] ---------------------------
+[Fri Jan 04 14:41:37 2002] There are no players in EverQuest that match those who filters.
+[Fri Jan 04 14:41:40 2002] Logee begins to cast a spell. (Minor Healing)
+[Fri Jan 04 14:41:48 2002] Logee begins to cast a spell. (Minor Healing)
+[Fri Jan 04 14:41:52 2002] Logee begins to cast a spell. (Minor Healing)
+[Fri Jan 04 14:41:59 2002] Teleporting to goinpeace.
+[Fri Jan 04 14:42:04 2002] Gianan says, 'Hail, Goinpeace'
+[Fri Jan 04 14:42:11 2002] Gianan says, 'thank you for the heal '
+[Fri Jan 04 14:42:13 2002] Phann begins to cast a spell. (Snare)
+[Fri Jan 04 14:42:14 2002] Goinpeace bows before Gianan.
+[Fri Jan 04 14:42:19 2002] Gianan bows before Goinpeace.
+[Fri Jan 04 14:42:23 2002] orc oracle begins to cast a spell. (Tainted Breath)
+[Fri Jan 04 14:42:30 2002] You bonk Gianan on the head!
+[Fri Jan 04 14:42:48 2002] Aubric has emerged victorious in a duel to the death!
+[Fri Jan 04 14:42:56 2002] Naelaen says, 'Hail, Espranza'
+[Fri Jan 04 14:42:59 2002] Phann begins to cast a spell. (CallOfSkyEffect)
+[Fri Jan 04 14:42:59 2002] orc oracle says 'You shall have all the Crushbone orc legions on your tail for my death! 
+[Fri Jan 04 14:43:03 2002] Naelaen says, 'Whats wrong?'
+[Fri Jan 04 14:43:13 2002] You told goinpeace, 'Hail! Senior Guide Espranza here. Names cannot be phrases, as yours is..'
+[Fri Jan 04 14:43:23 2002] Naelaen is looking at your equipment...
+[Fri Jan 04 14:43:25 2002] Goinpeace tells you, 'again '
+[Fri Jan 04 14:43:27 2002] You say, 'Just here on business, I'm afraid'
+[Fri Jan 04 14:43:31 2002] Goinpeace tells you, 'i give up'
+[Fri Jan 04 14:43:36 2002] You told Goinpeace, 'hmm?'
+[Fri Jan 04 14:43:37 2002] Naelaen says, 'WOW'
+[Fri Jan 04 14:43:43 2002] You beam a smile at Naelaen.
+[Fri Jan 04 14:43:45 2002] Phann begins to cast a spell. (Snare)
+[Fri Jan 04 14:43:52 2002] You told Goinpeace, 'what do you mean?'
+[Fri Jan 04 14:43:52 2002] Goinpeace tells you, 'try to create a friendly name and get burned'
+[Fri Jan 04 14:43:59 2002] Kedian GMSAYS, 'Haffy missing items/corpse from vacation'
+[Fri Jan 04 14:44:15 2002] You GMSAY, 'goinpeace logged...'
+[Fri Jan 04 14:44:28 2002] You GMSAY, 'grab him next time, too.'
+[Fri Jan 04 14:44:43 2002] Goinpostal is now your friend.
+[Fri Jan 04 14:44:47 2002] Skrewd is now your friend.
+[Fri Jan 04 14:44:52 2002] Goinpeace is now your friend.
+[Fri Jan 04 14:44:57 2002] Friends currently on EverQuest:
+[Fri Jan 04 14:44:57 2002] ---------------------------------
+[Fri Jan 04 14:44:58 2002] [6 Druid] Goinpostal (Human) ZONE: qeytoqrg (USER PID F0MLADY)
+[Fri Jan 04 14:45:05 2002] List of Friends
+[Fri Jan 04 14:45:05 2002] -----------------
+[Fri Jan 04 14:45:05 2002] Kiksar
+[Fri Jan 04 14:45:05 2002] Boodah
+[Fri Jan 04 14:45:05 2002] Qithal
+[Fri Jan 04 14:45:05 2002] Vdien
+[Fri Jan 04 14:45:05 2002] Gubbern
+[Fri Jan 04 14:45:05 2002] Meirin
+[Fri Jan 04 14:45:05 2002] Tuluvdar
+[Fri Jan 04 14:45:05 2002] Tutonka
+[Fri Jan 04 14:45:05 2002] Katna
+[Fri Jan 04 14:45:05 2002] Jonka
+[Fri Jan 04 14:45:05 2002] Plaffle
+[Fri Jan 04 14:45:05 2002] Jumjum
+[Fri Jan 04 14:45:05 2002] Synzei
+[Fri Jan 04 14:45:05 2002] Kraagaoth
+[Fri Jan 04 14:45:05 2002] Tatiri
+[Fri Jan 04 14:45:05 2002] Rellic
+[Fri Jan 04 14:45:05 2002] Larainy
+[Fri Jan 04 14:45:05 2002] Laodorf
+[Fri Jan 04 14:45:05 2002] Goinpeace
+[Fri Jan 04 14:45:05 2002] Skrewd
+[Fri Jan 04 14:45:05 2002] Goinpostal
+[Fri Jan 04 14:45:05 2002] You have 21 friend(s).
+[Fri Jan 04 14:45:22 2002] Listonchi begins to cast a spell. (Snare)
+[Fri Jan 04 14:45:22 2002] tatiri is no longer your friend.
+[Fri Jan 04 14:45:24 2002] Cimmeron begins to cast a spell. (Root)
+[Fri Jan 04 14:45:27 2002] rellic is no longer your friend.
+[Fri Jan 04 14:45:28 2002] Naelaen says, 'Can i get my last name right now?'
+[Fri Jan 04 14:45:29 2002] Listonchi begins to cast a spell. (Flame Lick)
+[Fri Jan 04 14:45:29 2002] Cimmeron begins to cast a spell. (Shock of Lightning)
+[Fri Jan 04 14:45:35 2002] Cimmeron begins to cast a spell. (Shock of Lightning)
+[Fri Jan 04 14:45:37 2002] Players in EverQuest:
+[Fri Jan 04 14:45:37 2002] ---------------------------
+[Fri Jan 04 14:45:37 2002] [7 Warrior] Naelaen (Wood Elf) <Order of the Chosen Few> ZONE: crushbone (USER PID HV59P7A)
+[Fri Jan 04 14:45:37 2002] There is 1 player in EverQuest.
+[Fri Jan 04 14:45:42 2002] Cimmeron begins to cast a spell. (Shock of Lightning)
+[Fri Jan 04 14:45:44 2002] You say, 'Have to be 20, sorry...'
+[Fri Jan 04 14:45:53 2002] You feel as if you are about to fall.
+[Fri Jan 04 14:45:56 2002] Naelaen says, '7'
+[Fri Jan 04 14:45:59 2002] You feel as if you are about to fall.
+[Fri Jan 04 14:46:04 2002] Naelaen says, 'Long way to go'
+[Fri Jan 04 14:46:05 2002] You can no longer levitate.
+[Fri Jan 04 14:46:05 2002] You say, 'well, just thirteen levels to go'
+[Fri Jan 04 14:46:15 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 14:46:15 2002] Naelaen says, 'Can you make my name green?'
+[Fri Jan 04 14:46:28 2002] You are no longer invigorated.
+[Fri Jan 04 14:46:29 2002] You say, 'heh.. no... guides and GMs only...'
+[Fri Jan 04 14:46:31 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 14:46:46 2002] You are no longer invigorated.
+[Fri Jan 04 14:46:49 2002] Naelaen says, 'Make me a guide please'
+[Fri Jan 04 14:47:05 2002] You say, 'you may apply on the web at guideapp.everquest.com'
+[Fri Jan 04 14:47:15 2002] Cimmeron begins to cast a spell. (Root)
+[Fri Jan 04 14:47:20 2002] Cimmeron begins to cast a spell. (Shock of Lightning)
+[Fri Jan 04 14:47:21 2002] Listonchi begins to cast a spell. (Flame Lick)
+[Fri Jan 04 14:47:26 2002] Listonchi begins to cast a spell. (Snare)
+[Fri Jan 04 14:47:26 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 14:47:27 2002] Cimmeron begins to cast a spell. (Shock of Lightning)
+[Fri Jan 04 14:47:29 2002] Evolushin says out of character, 'lol@51st level char in CB'
+[Fri Jan 04 14:47:40 2002] You are no longer invigorated.
+[Fri Jan 04 14:47:51 2002] You say, 'goodluck!'
+[Fri Jan 04 14:47:51 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 14:47:53 2002] You GMSAY, 'zone'
+[Fri Jan 04 14:47:54 2002] Naelaen invites you to join a group.
+[Fri Jan 04 14:47:54 2002] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Fri Jan 04 14:47:59 2002] You feel the spirit of Z surround you.
+[Fri Jan 04 14:48:00 2002] You feel the spirit of Z surround you.
+[Fri Jan 04 14:48:01 2002] LOADING, PLEASE WAIT...
+[Fri Jan 04 14:48:22 2002] You have entered Sunset Home.
+[Fri Jan 04 14:48:23 2002] You are no longer invigorated.
+[Fri Jan 04 14:48:35 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Jan 04 14:48:36 2002] USER TEXT: I had 3k worth of items taken from me, sivy the guide has a list and said he had a note for you
+[Fri Jan 04 14:48:36 2002] Players in EverQuest:
+[Fri Jan 04 14:48:36 2002] ---------------------------
+[Fri Jan 04 14:48:36 2002] There are no players in EverQuest that match those who filters.
+[Fri Jan 04 14:48:40 2002] UNDOING CHECK OUT
+[Fri Jan 04 14:48:43 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Jan 04 14:48:43 2002] USER TEXT: change the name then
+[Fri Jan 04 14:48:43 2002] Players in EverQuest:
+[Fri Jan 04 14:48:43 2002] ---------------------------
+[Fri Jan 04 14:48:43 2002] [12 Cleric] Goinpeace (High Elf) ZONE: crushbone (USER PID FW3521A)
+[Fri Jan 04 14:48:43 2002] There is 1 player in EverQuest.
+[Fri Jan 04 14:48:47 2002] UNDOING CHECK OUT
+[Fri Jan 04 14:48:56 2002] You GMSAY, 'LOL! Read Goinpeace'
+[Fri Jan 04 14:49:16 2002] You GMSAY, 'zone'
+[Fri Jan 04 14:49:20 2002] Teleporting to goinpeace.
+[Fri Jan 04 14:49:38 2002] Players in EverQuest:
+[Fri Jan 04 14:49:38 2002] ---------------------------
+[Fri Jan 04 14:49:38 2002] [12 Cleric] Goinpeace (High Elf) ZONE: gfaydark (USER PID FW3521A)
+[Fri Jan 04 14:49:38 2002] [6 Druid] Goinpostal (Human) ZONE: qey2hh1 (USER PID F0MLADY)
+[Fri Jan 04 14:49:38 2002] There are 2 players in EverQuest.
+[Fri Jan 04 14:49:43 2002] Teleporting to goinpeace.
+[Fri Jan 04 14:49:44 2002] LOADING, PLEASE WAIT...
+[Fri Jan 04 14:50:19 2002] Mendregon auctions, 'Anyone have any Froglok eyes?'
+[Fri Jan 04 14:50:30 2002] You have entered Greater Faydark.
+[Fri Jan 04 14:50:30 2002] orc pawn died.
+[Fri Jan 04 14:50:42 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Jan 04 14:50:42 2002] USER TEXT: change the name then
+[Fri Jan 04 14:50:43 2002] Players in EverQuest:
+[Fri Jan 04 14:50:43 2002] ---------------------------
+[Fri Jan 04 14:50:43 2002] [12 Cleric] Goinpeace (High Elf) ZONE: gfaydark (USER PID FW3521A)
+[Fri Jan 04 14:50:43 2002] There is 1 player in EverQuest.
+[Fri Jan 04 14:51:05 2002] You told Goinpeace, 'Hail! Senior Guide Espranza here again. Have you thought of what you would like it to be?'
+[Fri Jan 04 14:51:09 2002] Players in EverQuest:
+[Fri Jan 04 14:51:09 2002] ---------------------------
+[Fri Jan 04 14:51:09 2002] [12 Cleric] Goinpeace (High Elf) ZONE: gfaydark (USER PID FW3521A)
+[Fri Jan 04 14:51:09 2002] [6 Druid] Goinpostal (Human) ZONE: qey2hh1 (USER PID F0MLADY)
+[Fri Jan 04 14:51:09 2002] There are 2 players in EverQuest.
+[Fri Jan 04 14:51:16 2002] Searching zones for corpse of that name....
+[Fri Jan 04 14:51:17 2002] Goinpeace tells you, 'fedup =)'
+[Fri Jan 04 14:51:33 2002] You told Goinpeace, 'Heh... well, that's a phrase too.'
+[Fri Jan 04 14:51:39 2002] Goinpeace tells you, 'true'
+[Fri Jan 04 14:51:44 2002] You feel the spirit of Norrath enter you.
+[Fri Jan 04 14:51:46 2002] Your feet leave the ground.
+[Fri Jan 04 14:52:05 2002] Vebarer begins to cast a spell. (AirElementalAttack)
+[Fri Jan 04 14:52:18 2002] Teleporting to goinpeace.
+[Fri Jan 04 14:52:27 2002] You can no longer levitate.
+[Fri Jan 04 14:52:36 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 14:52:39 2002] Mavros shouts, 'Level 5 mage seeks group!'
+[Fri Jan 04 14:52:41 2002] You say, 'camping?'
+[Fri Jan 04 14:52:44 2002] Goinpeace tells you, 'trying to get low to see ya better'
+[Fri Jan 04 14:52:49 2002] You are no longer invigorated.
+[Fri Jan 04 14:53:00 2002] Goinpeace tells you, 'no not camping'
+[Fri Jan 04 14:53:00 2002] You say, 'I try to be taller but nothing seems to work.'
+[Fri Jan 04 14:53:05 2002] Kedian GMSAYS, '<< zone >>'
+[Fri Jan 04 14:53:14 2002] You say, 'It's hard being a shrub elf.'
+[Fri Jan 04 14:53:20 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 14:53:27 2002] Sareliane auctions, 'WTS Blood Point 7k'
+[Fri Jan 04 14:53:37 2002] You are no longer invigorated.
+[Fri Jan 04 14:53:42 2002] Elglein auctions, 'WTB Trueshot Bow Send tells'
+[Fri Jan 04 14:53:56 2002] You say, 'Well... you want a cleric-y name, right?'
+[Fri Jan 04 14:53:58 2002] Walter says out of character, 'WTB INT items'
+[Fri Jan 04 14:54:05 2002] Goinpeace tells you, 'correct'
+[Fri Jan 04 14:54:15 2002] Shappy says out of character, '8 Warrior LFG'
+[Fri Jan 04 14:54:22 2002] Goinpeace tells you, 'wants something others would feel comfortable with'
+[Fri Jan 04 14:54:26 2002] Wingamos says out of character, 'Can some One Plz Tp me to Antonica?? plz?? will pay'
+[Fri Jan 04 14:54:27 2002] Elglein auctions, 'WTB Trueshot Bow Send tells'
+[Fri Jan 04 14:54:40 2002] You told Goinpeace, 'aye, that is one of the reasons I chose Espranza for my name - it means Hope.'
+[Fri Jan 04 14:54:53 2002] Lagelas says out of character, 'Making medium banded armor 1pp per ac send tells'
+[Fri Jan 04 14:54:54 2002] Walter says out of character, 'where in Antonica?'
+[Fri Jan 04 14:54:54 2002] You told Goinpeace, 'I was originally a cleric, but changed classes.'
+[Fri Jan 04 14:54:54 2002] Goinpeace tells you, '#1 policy eq should change'
+[Fri Jan 04 14:54:56 2002] Wingamos shouts, 'seeking port to wc or sro.''
+[Fri Jan 04 14:55:00 2002] Ianasu says out of character, 'think there is a trueshot bow quest in gfay'
+[Fri Jan 04 14:55:12 2002] Abows shouts, 'bard will be running to BB with sow song leving in 4 min at newbe lift'
+[Fri Jan 04 14:55:16 2002] Mavros says out of character, 'ANYWHERE in antonica? I heard Cazic was beuatiful this time of year'
+[Fri Jan 04 14:55:19 2002] Goinpeace tells you, 'some names dont seem tactful but think goinpeace as a cleric name was'
+[Fri Jan 04 14:55:20 2002] Theobrin GMSAYS, 'zone'
+[Fri Jan 04 14:55:23 2002] You told Goinpeace, 'Well, you should try DAoC sometime to see why such a policy is a good idea. The names there are horrible.'
+[Fri Jan 04 14:55:32 2002] Wingamos says out of character, 'come on dont play'
+[Fri Jan 04 14:55:45 2002] Elglein auctions, 'WTB Trueshot Bow Send tells'
+[Fri Jan 04 14:56:04 2002] Goinpeace tells you, 'yes i do understand i use to be a president of a union and know every dirty trick that could be played by some would be and same goes with names'
+[Fri Jan 04 14:56:04 2002] You told Goinpeace, 'I know, there's nothing offensive or anything about it, but it nonetheless violates policy, and so here we are.'
+[Fri Jan 04 14:56:06 2002] Guldar shouts, 'ROAR'
+[Fri Jan 04 14:56:08 2002] Okemoo auctions, 'WTS Advisor Robe +5Int +20 Mana +5SvM 400pp'
+[Fri Jan 04 14:56:23 2002] Guldar shouts, 'any one alive?'
+[Fri Jan 04 14:56:29 2002] Elglein auctions, 'WTB Trueshot Bow Send tells'
+[Fri Jan 04 14:56:34 2002] Pheelyx says out of character, 'Nope all dead!'
+[Fri Jan 04 14:56:35 2002] Mavros shouts, '5 Mage seeks group!'
+[Fri Jan 04 14:56:39 2002] You told Goinpeace, 'and so I want to give you a name you like, that doesn't violate policy.'
+[Fri Jan 04 14:56:40 2002] Sareliane auctions, 'WTS Blood Point 7k'
+[Fri Jan 04 14:56:47 2002] Elglein shouts, 'Someone have a Trueshot Bow they want to sell?'
+[Fri Jan 04 14:56:48 2002] Cinyani says out of character, 'is tehre a soulbinder in kelethin?'
+[Fri Jan 04 14:56:59 2002] Ankenin says out of character, 'a few platforms from n00b lift'
+[Fri Jan 04 14:57:00 2002] Pheelyx says out of character, 'Yes'
+[Fri Jan 04 14:57:06 2002] Ianasu shouts, 'no get a person to do it'
+[Fri Jan 04 14:57:10 2002] Pheelyx says out of character, 'to left and up from noob lift'
+[Fri Jan 04 14:57:16 2002] Abows shouts, 'any one want a lift bb'
+[Fri Jan 04 14:57:28 2002] Goinpeace tells you, 'i understand and am trying to cooperate just frustrating er frustrated and makes it more difficult to think'
+[Fri Jan 04 14:57:38 2002] Mavros shouts, '5 Mage seeks group!'
+[Fri Jan 04 14:57:50 2002] Elglein auctions, 'WTB Trueshot Bow Send tells'
+[Fri Jan 04 14:57:51 2002] Devort tells you, 'can i get the name peebody'
+[Fri Jan 04 14:57:52 2002] Shaeun says out of character, 'i seem to be dead more often than alive but what you expect from a newbie'
+[Fri Jan 04 14:58:08 2002] You GMSAY, 'How is the name Peebody?'
+[Fri Jan 04 14:58:25 2002] Tenten shouts, 'lol..nothing more'
+[Fri Jan 04 14:58:28 2002] Ianasu says out of character, 'at 5 u start loseing xp'
+[Fri Jan 04 14:58:30 2002] Ankenin shouts, 'Thanks to whoever put SOW on me when I wasnt looking...'
+[Fri Jan 04 14:58:35 2002] Milne shouts, 'level 8 wiz looking for group...'
+[Fri Jan 04 14:58:39 2002] Theobrin GMSAYS, 'i'd nuke it :P'
+[Fri Jan 04 14:58:41 2002] You told Goinpeace, 'Any ideas?'
+[Fri Jan 04 14:58:46 2002] Okemoo auctions, 'WTS Silvery War Axe 1HS 6 dmg 22 dly'
+[Fri Jan 04 14:58:50 2002] Goinpeace tells you, 'trying'
+[Fri Jan 04 14:58:53 2002] A Mystic Voice shouts 'The portal to Luclin will become active in five minutes. Please begin gathering at the Spires if you wish to make the journey. 
+[Fri Jan 04 14:58:53 2002] You GMSAY, 'Devort, nee Devothegreat, wants that one.'
+[Fri Jan 04 14:59:02 2002] You GMSAY, 'I was thinking no as well...'
+[Fri Jan 04 14:59:41 2002] You told Devort, 'That sounds too much like going pee...'
+[Fri Jan 04 14:59:43 2002] Devort tells you, 'or devowho'
+[Fri Jan 04 14:59:52 2002] You told Devort, 'that's a phrase'
+[Fri Jan 04 15:00:13 2002] Espranza gets out her Big Book of Names.
+[Fri Jan 04 15:00:20 2002] You no longer have a target.
+[Fri Jan 04 15:00:20 2002] You no longer have a target.
+[Fri Jan 04 15:00:21 2002] You no longer have a target.
+[Fri Jan 04 15:00:29 2002] Quaidar shouts, 'where do i find malachite??'
+[Fri Jan 04 15:00:31 2002] Kedian GMSAYS, 'its Espra Clause deciding what names are naughty and nice... '
+[Fri Jan 04 15:00:35 2002] Espranza saved.
+[Fri Jan 04 15:00:37 2002] Devort tells you, 'minidevo'
+[Fri Jan 04 15:00:38 2002] Goinpeace tells you, 'you married my another of my characters '
+[Fri Jan 04 15:00:49 2002] You told Goinpeace, 'Oh? Who?'
+[Fri Jan 04 15:00:59 2002] A Mystic Voice shouts 'As a reminder, the portal will become active in three minutes. 
+[Fri Jan 04 15:00:59 2002] You told Devort, 'Too much like a phrase again.'
+[Fri Jan 04 15:01:00 2002] Goinpeace tells you, 'jeevess'
+[Fri Jan 04 15:01:03 2002] Jonson shouts, 'Try the gem vendor'
+[Fri Jan 04 15:01:08 2002] Lader shouts, 'Felwithe'
+[Fri Jan 04 15:01:09 2002] You told Goinpeace, 'Oh!'
+[Fri Jan 04 15:01:10 2002] Ianasu shouts, 'gem shop cause its the bottom jewlery gem'
+[Fri Jan 04 15:01:21 2002] Quaidar shouts, 'thnx'
+[Fri Jan 04 15:01:23 2002] Devort tells you, 'just devo then'
+[Fri Jan 04 15:01:26 2002] Salvia says out of character, 'have a free set of shoulder pads for the first low lvl INT caster to hail me at Kelethin bank'
+[Fri Jan 04 15:01:34 2002] You told Devort, 'Name of an 80s band...'
+[Fri Jan 04 15:01:37 2002] Sareliane auctions, 'WTS Blood Point 7k'
+[Fri Jan 04 15:01:48 2002] Goinpeace tells you, 'is renew available or legal?'
+[Fri Jan 04 15:01:51 2002] Lagelas says out of character, 'Making medium banded armor 1pp per ac send tells'
+[Fri Jan 04 15:02:02 2002] A Mystic Voice shouts 'Two minutes till teleportation. Please be prepared to step inside the circle of Spires. 
+[Fri Jan 04 15:02:08 2002] Bugslayer auctions, 'WTS Trueshot longbow 20 45 (RNG) - 150pp'
+[Fri Jan 04 15:02:10 2002] You told Goinpeace, 'I don't see anything wrong with it - let me try'
+[Fri Jan 04 15:02:10 2002] Bugslayer auctions, 'WTS Spore Covered Hood AC6 1INT WT0.4 - 12pp'
+[Fri Jan 04 15:02:12 2002] Bugslayer auctions, 'WTS BP AC20 2STR 10FR WarClrPalShdBrd - 250pp'
+[Fri Jan 04 15:02:17 2002] You have changed Goinpeace's last name to Renew.
+[Fri Jan 04 15:02:23 2002] You have changed Goinpeace's last name to .
+[Fri Jan 04 15:02:31 2002] You have changed Goinpeace's name to Renew.
+[Fri Jan 04 15:02:35 2002] You say, 'Hail, Renew'
+[Fri Jan 04 15:02:40 2002] You told Goinpeace, 'Goinpeace is not online at this time.'
+[Fri Jan 04 15:02:41 2002] Quaidar shouts, 'do I need the gem everytime I cast the spell?'
+[Fri Jan 04 15:02:48 2002] You told Renew, 'seems to be...!'
+[Fri Jan 04 15:02:51 2002] Renew tells you, 'ty and gl to you'
+[Fri Jan 04 15:02:52 2002] Pheelyx says out of character, 'Yup'
+[Fri Jan 04 15:02:57 2002] You bow before Renew.
+[Fri Jan 04 15:03:02 2002] You told Renew, 'thank you, and be well!'
+[Fri Jan 04 15:03:05 2002] Quaidar shouts, 'drag'
+[Fri Jan 04 15:03:06 2002] A Mystic Voice shouts 'One minute till teleportation. Please be prepared to step inside the circle of Spires. 
+[Fri Jan 04 15:03:07 2002] Devort tells you, 'evilg'
+[Fri Jan 04 15:03:17 2002] Mavros says out of character, 'Who do I turn Crushbone belts into?'
+[Fri Jan 04 15:03:18 2002] Players in EverQuest:
+[Fri Jan 04 15:03:18 2002] ---------------------------
+[Fri Jan 04 15:03:18 2002] [12 Cleric] Renew (High Elf) ZONE: gfaydark (USER PID FW3521A)
+[Fri Jan 04 15:03:18 2002] There is 1 player in EverQuest.
+[Fri Jan 04 15:03:33 2002] Takketrut says out of character, 'dwarf in kaladim'
+[Fri Jan 04 15:03:34 2002] You GMSAY, '<note name> Goinpeace FW3521A name changed to Renew.'
+[Fri Jan 04 15:03:35 2002] Fluit says out of character, 'to mee'
+[Fri Jan 04 15:03:36 2002] DELETING THIS PETITION
+[Fri Jan 04 15:03:37 2002] Mavros says out of character, 'Thanks'
+[Fri Jan 04 15:03:41 2002] Jonson says out of character, 'Canloe Nusbaum in Kaladim Warriors Guild'
+[Fri Jan 04 15:03:52 2002] Ankenin says out of character, 'I'll buy your belts from you, heh'
+[Fri Jan 04 15:03:52 2002] Sareliane auctions, 'WTS Blood Point 7k'
+[Fri Jan 04 15:03:53 2002] A Mystic Voice shouts 'The portal to Luclin is about to become active. Please stand inside the circle of Spires and have a shard upon your person. 
+[Fri Jan 04 15:03:57 2002] Araya shouts, 'can someone show me to the bards guild,..it's woth a couple plat.'
+[Fri Jan 04 15:04:03 2002] Okemoo auctions, 'WTS Silvery War Axe 1HS 6 dmg 22 dly 75pp'
+[Fri Jan 04 15:04:04 2002] Soul Mark added to file successfully.
+[Fri Jan 04 15:04:20 2002] Ianasu shouts, 'platform between newbie lift and pod lift'
+[Fri Jan 04 15:04:29 2002] You GMSAY, 'Slayerman is a petition self-reporting a bad name?'
+[Fri Jan 04 15:04:37 2002] Teleporting to devort.
+[Fri Jan 04 15:04:42 2002] Kedian GMSAYS, 'Tozan would like a surname removed'
+[Fri Jan 04 15:04:59 2002] You told Devort, 'Evilg again, is a lot like a title.'
+[Fri Jan 04 15:05:24 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Jan 04 15:05:25 2002] USER TEXT: you think i could get my last name taken away my brother put it on when i was afk and i dont like it sorry to bother you  
+[Fri Jan 04 15:05:26 2002] Players in EverQuest:
+[Fri Jan 04 15:05:26 2002] ---------------------------
+[Fri Jan 04 15:05:26 2002] [ANON (34 Monk)] Tozan (Human) ZONE: overthere (USER PID AXL3MMN)
+[Fri Jan 04 15:05:26 2002] There is 1 player in EverQuest.
+[Fri Jan 04 15:05:28 2002] A Mystic Voice shouts 'In approximately 15 minutes the Spires will once again become active. 
+[Fri Jan 04 15:05:31 2002] You GMSAY, 'zone'
+[Fri Jan 04 15:05:41 2002] You feel the spirit of Z surround you.
+[Fri Jan 04 15:05:42 2002] You feel the spirit of Z surround you.
+[Fri Jan 04 15:05:42 2002] LOADING, PLEASE WAIT...
+[Fri Jan 04 15:07:15 2002] You have entered The Overthere.
+[Fri Jan 04 15:07:33 2002] Teleporting to tozan.
+[Fri Jan 04 15:07:44 2002] You have changed Tozan's last name to .
+[Fri Jan 04 15:07:45 2002] Theobrin GMSAYS, 'zone'
+[Fri Jan 04 15:07:49 2002] Tozan thanks Espranza heartily.
+[Fri Jan 04 15:07:57 2002] Tozan says, 'thank you'
+[Fri Jan 04 15:08:10 2002] You GMSAY, '<note name> Tozan Getsdabishes AXL3MMN last name removed at request.'
+[Fri Jan 04 15:08:18 2002] You told Tozan, 'No problem!'
+[Fri Jan 04 15:08:19 2002] Seismic begins to cast a spell. (Siphon Strength)
+[Fri Jan 04 15:08:21 2002] Tozan grabs hold of Espranza and begins to dance with her.
+[Fri Jan 04 15:08:21 2002] DELETING THIS PETITION
+[Fri Jan 04 15:08:22 2002] Karsar says out of character, '33 necro lfg'
+[Fri Jan 04 15:08:25 2002] You bow before Tozan.
+[Fri Jan 04 15:08:26 2002] You wave goodbye to Tozan.
+[Fri Jan 04 15:08:26 2002] Egan begins to cast a spell. (Yaulp)
+[Fri Jan 04 15:08:27 2002] You GMSAY, 'zone'
+[Fri Jan 04 15:08:28 2002] Tozan bows before Espranza.
+[Fri Jan 04 15:08:30 2002] Tozan waves goodbye to Espranza.
+[Fri Jan 04 15:08:35 2002] You feel the spirit of Z surround you.
+[Fri Jan 04 15:08:35 2002] You feel the spirit of Z surround you.
+[Fri Jan 04 15:08:36 2002] LOADING, PLEASE WAIT...
+[Fri Jan 04 15:08:59 2002] You have entered Sunset Home.
+[Fri Jan 04 15:09:05 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Jan 04 15:09:06 2002] USER TEXT: i some how lost my petrified erudite heart and my large fine plate leggins when i canceled a trade i hand more then enough room to hold it when i canceled so i think it was a bug
+[Fri Jan 04 15:09:06 2002] Players in EverQuest:
+[Fri Jan 04 15:09:06 2002] ---------------------------
+[Fri Jan 04 15:09:06 2002] [30 Warrior] Slayerman (Barbarian) <Revered Souls> ZONE: frontiermtns (USER PID AYR4ZMT)
+[Fri Jan 04 15:09:06 2002] There is 1 player in EverQuest.
+[Fri Jan 04 15:09:13 2002] UNDOING CHECK OUT
+[Fri Jan 04 15:09:16 2002] Kedian GMSAYS, 'there are two instances of Retlon Brenclog in CB...I dont think hes a quest mob, so I can kill him, right?'
+[Fri Jan 04 15:09:23 2002] You GMSAY, 'he is a quest mob'
+[Fri Jan 04 15:09:53 2002] Kedian GMSAYS, 'bah, ill leave him alone then :/'
+[Fri Jan 04 15:09:57 2002] You GMSAY, 'not a rare one, though... up to Lirus. He's just an annoying gnome.'
+[Fri Jan 04 15:10:12 2002] You GMSAY, 'well, find the Retlon Brenclog01 then'
+[Fri Jan 04 15:10:18 2002] You GMSAY, 'that'll be the extra'
+[Fri Jan 04 15:10:22 2002] Kedian GMSAYS, '*nod* he repops in like 15 min'
+[Fri Jan 04 15:10:46 2002] Kedian GMSAYS, 'the 00 oneis out of his hole, and the 01 is at his normal spawning point'
+[Fri Jan 04 15:11:14 2002] Theobrin GMSAYS, 'whats the deal with so many mobs double spawning in sol, should this be reported?'
+[Fri Jan 04 15:11:28 2002] You GMSAY, 'well since Lirus isn't objecting, kill the out of position one and note it in your DSR.'
+[Fri Jan 04 15:11:40 2002] You GMSAY, 'people who still need him for the quest have him.'
+[Fri Jan 04 15:11:40 2002] Kedian GMSAYS, 'k'
+[Fri Jan 04 15:12:15 2002] Kedian tells the guild, '<note kill> Retlon_brenclog00 in crushbone, two instances..00 was out of place'
+[Fri Jan 04 15:12:38 2002] You GMSAY, 'and get his little dog, too.'
+[Fri Jan 04 15:12:44 2002] You GMSAY, 'if the pet is roaming.'
+[Fri Jan 04 15:13:07 2002] Kedian GMSAYS, 'pet poofed when he died'
+[Fri Jan 04 15:13:13 2002] You GMSAY, 'double spawns have been reported'
+[Fri Jan 04 15:13:26 2002] You GMSAY, 'feel free to report it again, it needs fixing.'
+[Fri Jan 04 15:14:14 2002] Theobrin GMSAYS, 'found a vendor in shadowhaven that had 25 incarnations of herself on one spot'
+[Fri Jan 04 15:15:08 2002] You GMSAY, 'I've not noticed it on my home server, I keep meaning to.'
+[Fri Jan 04 15:15:48 2002] Players in EverQuest:
+[Fri Jan 04 15:15:48 2002] ---------------------------
+[Fri Jan 04 15:15:48 2002] [1 Warrior] Ghatubok (Ogre) ZONE: oggok (USER PID BUEFMJM)
+[Fri Jan 04 15:15:48 2002] [1 Paladin] Keldorin (Dwarf) ZONE: butcher (USER PID G5A2RCJ)
+[Fri Jan 04 15:15:48 2002] [1 Cleric] Freestanding (Halfling) ZONE: misty (USER PID BWCJFWK)
+[Fri Jan 04 15:15:48 2002] [1 Ranger] Farahn (Human) ZONE: qeytoqrg (USER PID CV6RTQ3)
+[Fri Jan 04 15:15:48 2002] [1 Wizard] Faelalron (Human) ZONE: freportw (USER PID C0KRD1T)
+[Fri Jan 04 15:15:48 2002] [1 Paladin] Blahmo (Half Elf) ZONE: freportn (USER PID AT2U4ZC)
+[Fri Jan 04 15:15:48 2002] [ANON (1 Wizard)] Gramek (Dark Elf) ZONE: ecommons (USER PID AWCUBD7)
+[Fri Jan 04 15:15:48 2002] [1 Shaman] Surinis (Vah Shir) ZONE: sharvahl (USER PID F4PEJGY)
+[Fri Jan 04 15:15:48 2002] [1 Rogue] Sanders (Barbarian) ZONE: halas (USER PID E172NCR)
+[Fri Jan 04 15:15:48 2002] [ANON (1 Bard)] Musician (Half Elf) ZONE: ecommons (USER PID BQXY6AC)
+[Fri Jan 04 15:15:48 2002] [1 Warrior] Kolina (Half Elf) ZONE: freportw (USER PID GX4TEHN)
+[Fri Jan 04 15:15:48 2002] [1 Magician] Jyrida (Dark Elf) ZONE: nektulos (USER PID EQF27MD)
+[Fri Jan 04 15:15:48 2002] [1 Warrior] Vodain (Vah Shir) ZONE: sharvahl (USER PID DWLHMWJ)
+[Fri Jan 04 15:15:48 2002] [1 Enchanter] Aelfdis (High Elf) ZONE: gfaydark (USER PID CX1XD9E)
+[Fri Jan 04 15:15:48 2002] [1 Shadow Knight] Xorraik (Iksar) ZONE: cabeast (USER PID BWSNPR7)
+[Fri Jan 04 15:15:48 2002] [1 Necromancer] Kotojiin (Iksar) ZONE: cabwest (USER PID DV2SU9L)
+[Fri Jan 04 15:15:48 2002] [1 Warrior] Rrani (Vah Shir) ZONE: sharvahl (USER PID BX6C1W5)
+[Fri Jan 04 15:15:48 2002] [1 Ranger] Mordicade (Wood Elf) ZONE: gfaydark (USER PID A30S966)
+[Fri Jan 04 15:15:48 2002] [1 Enchanter] Valadie (Dark Elf) ZONE: nektulos (USER PID FW9G1EW)
+[Fri Jan 04 15:15:48 2002] [1 Magician] Tondal (Human) ZONE: qeynos (USER PID ANDT769)
+[Fri Jan 04 15:15:48 2002] Your who request was cut short..too many players.
+[Fri Jan 04 15:16:03 2002] Players in EverQuest:
+[Fri Jan 04 15:16:03 2002] ---------------------------
+[Fri Jan 04 15:16:03 2002] [2 Ranger] Kindiwene (Wood Elf) ZONE: gfaydark (USER PID FZNYMH3)
+[Fri Jan 04 15:16:03 2002] [2 Necromancer] Halpas (Dark Elf) ZONE: neriakb (USER PID DUK1W6Q)
+[Fri Jan 04 15:16:03 2002] [2 Warrior] Gimmlii (Dwarf) ZONE: butcher (USER PID F3UTK8N)
+[Fri Jan 04 15:16:03 2002] [2 Wizard] Kamiel (High Elf) ZONE: gfaydark (USER PID B11W1TB)
+[Fri Jan 04 15:16:03 2002] [2 Necromancer] Xaltal (Gnome) ZONE: steamfont (USER PID EQLAK8M)
+[Fri Jan 04 15:16:03 2002] [2 Warrior] Kincaid (Barbarian) <Bellatorae Mysticus> ZONE: halas (USER PID F0X6CZ9)
+[Fri Jan 04 15:16:03 2002] [2 Enchanter] Geothur (Gnome) <Rise of the Phoenix> ZONE: steamfont (USER PID DYYGBTV)
+[Fri Jan 04 15:16:03 2002] [2 Wizard] Gadjit (Gnome) ZONE: gfaydark (USER PID EQZT00C)
+[Fri Jan 04 15:16:03 2002] [2 Warrior] Capthowdy (Human) ZONE: qeynos2 (USER PID E0HR2E8)
+[Fri Jan 04 15:16:03 2002] [2 Druid] Vegrancee (Halfling) ZONE: misty (USER PID F1PDF1K)
+[Fri Jan 04 15:16:03 2002] [2 Shaman] Thurgun (Barbarian) ZONE: everfrost (USER PID ER3WSXF)
+[Fri Jan 04 15:16:03 2002] [2 Druid] Liennus (Wood Elf) ZONE: gfaydark (USER PID AZ66CPF)
+[Fri Jan 04 15:16:03 2002] [ANON (2 Warrior)] Gragr (Ogre) ZONE: feerrott (USER PID BWJ9RWH)
+[Fri Jan 04 15:16:03 2002] [2 Ranger] Redwyn (Wood Elf) ZONE: gfaydark (USER PID E0HVCX6)
+[Fri Jan 04 15:16:03 2002] [2 Beastlord] Paterson (Barbarian) ZONE: everfrost (USER PID HUNEC7R)
+[Fri Jan 04 15:16:03 2002] [2 Rogue] Remidien (Half Elf) ZONE: freportw (USER PID B3WQ06M)
+[Fri Jan 04 15:16:03 2002] [2 Shaman] Mattronice (Barbarian) ZONE: everfrost (USER PID FV20JK2)
+[Fri Jan 04 15:16:03 2002] [2 Magician] Dolodily (Human) ZONE: qeynos2 (USER PID E0X8R9K)
+[Fri Jan 04 15:16:03 2002] There are 18 players in EverQuest.
+[Fri Jan 04 15:16:15 2002] Searching zones for corpse of that name....
+[Fri Jan 04 15:16:16 2002] Corpse: Capthowdy's corpse2 in zone: qeynos2
+[Fri Jan 04 15:16:16 2002] Corpse: Capthowdy's corpse0 in zone: qey2hh1
+[Fri Jan 04 15:16:26 2002] You GMSAY, 'Capthowdy has corpses... next time...'
+[Fri Jan 04 15:16:32 2002] Players in EverQuest:
+[Fri Jan 04 15:16:32 2002] ---------------------------
+[Fri Jan 04 15:16:32 2002] [10 Shaman] Zassia (Vah Shir) ZONE: sharvahl (USER PID DTS3PBH)
+[Fri Jan 04 15:16:32 2002] [10 Beastlord] Kraim (Iksar) <Wraith Lords> ZONE: fieldofbone (USER PID CTFESHE)
+[Fri Jan 04 15:16:32 2002] [10 Warrior] Lantheran (Barbarian) <Wandering Warlords> ZONE: gfaydark (USER PID F11Y5BB)
+[Fri Jan 04 15:16:32 2002] [ANON (10 Warrior)] Delphindor (Wood Elf) ZONE: freportw (USER PID BXSGDW7)
+[Fri Jan 04 15:16:32 2002] [10 Warrior] Bricked (Ogre) ZONE: oggok (USER PID GWX94D4)
+[Fri Jan 04 15:16:32 2002] [10 Beastlord] Alteria (Vah Shir) ZONE: paludal (USER PID EWEDBCN)
+[Fri Jan 04 15:16:32 2002] [10 Paladin] Saeelwen (High Elf) <Wandering Warlords> ZONE: gfaydark (USER PID CV0AHQG)
+[Fri Jan 04 15:16:32 2002] [ANON (10 Bard)] Wingamos (Half Elf) ZONE: gfaydark (USER PID GR861V1)
+[Fri Jan 04 15:16:32 2002] [10 Paladin] Lilircee (High Elf) ZONE: crushbone (USER PID H3H3G71)
+[Fri Jan 04 15:16:32 2002] [10 Druid] Leaaman (Wood Elf) ZONE: crushbone (USER PID HUKPTXM)
+[Fri Jan 04 15:16:32 2002] [ANON (10 Shaman)] Krania (Vah Shir) ZONE: crushbone (USER PID GQEB799)
+[Fri Jan 04 15:16:32 2002] [10 Ranger] Talatos (Wood Elf) <Prima Nocturnae> ZONE: steamfont (USER PID H4Z903K)
+[Fri Jan 04 15:16:32 2002] [10 Beastlord] Warrbeast (Barbarian) ZONE: everfrost (USER PID CQ7YK07)
+[Fri Jan 04 15:16:32 2002] [10 Paladin] Namana (High Elf) ZONE: gfaydark (USER PID D234MRA)
+[Fri Jan 04 15:16:32 2002] [10 Magician] Ouysd (High Elf) ZONE: gfaydark (USER PID H361SE7)
+[Fri Jan 04 15:16:32 2002] [10 Ranger] Marychloe (Wood Elf) ZONE: gfaydark (USER PID B2TGNPJ)
+[Fri Jan 04 15:16:32 2002] [10 Ranger] Strydor (Human) ZONE: erudsxing (USER PID DVVQSF7)
+[Fri Jan 04 15:16:32 2002] [10 Warrior] Ghezzo (Half Elf) ZONE: ecommons (USER PID FVRCKKF)
+[Fri Jan 04 15:16:32 2002] [10 Rogue] Kallamazu (Half Elf) ZONE: ecommons (USER PID CV7XUY3)
+[Fri Jan 04 15:16:32 2002] [10 Necromancer] Carstein (Dark Elf) ZONE: fieldofbone (USER PID E2SXTK1)
+[Fri Jan 04 15:16:32 2002] Your who request was cut short..too many players.
+[Fri Jan 04 15:16:55 2002] You GMSAY, 'Gah, Strydor... human ranger... least it's not a wood elf...'
+[Fri Jan 04 15:17:15 2002] You GMSAY, 'any of you guys in high level guilds?'
+[Fri Jan 04 15:17:24 2002] Kedian GMSAYS, 'kinda-sorta..'
+[Fri Jan 04 15:17:38 2002] Kedian GMSAYS, 'if 55+ is considered high level '
+[Fri Jan 04 15:17:44 2002] You GMSAY, 'I'm in a 57+ guild, and I'm the only female haffer druid in the guild'
+[Fri Jan 04 15:17:49 2002] You GMSAY, 'are we really so rare?'
+[Fri Jan 04 15:18:05 2002] Zelark tells you, 'when is lirus coming online?'
+[Fri Jan 04 15:18:12 2002] Kedian GMSAYS, 'yeah, wehave 1 halfer druyd...hes our gate bot :)'
+[Fri Jan 04 15:18:16 2002] You told Zelark, 'Lirus is online... petition if you need the GM...'
+[Fri Jan 04 15:18:20 2002] You GMSAY, 'female though?'
+[Fri Jan 04 15:18:23 2002] Kedian GMSAYS, 'and hes theonly male druid we have'
+[Fri Jan 04 15:18:33 2002] Kedian GMSAYS, 'all of our other druids are female woodelves'
+[Fri Jan 04 15:18:47 2002] Theobrin GMSAYS, 'zone'
+[Fri Jan 04 15:18:48 2002] You GMSAY, 'people thought (post Luclin) I was a wood elf'
+[Fri Jan 04 15:19:04 2002] Espranza saved.
+[Fri Jan 04 15:19:26 2002] You GMSAY, 'I hadn't noticed the rank of haffer druid gals thinning as I gained levels, but it's true'
+[Fri Jan 04 15:20:10 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 15:20:12 2002] Kedian GMSAYS, '*nod* its druids in general I think...kinda like bards. There are alot of them at low levels...but they thin out at higher lvls'
+[Fri Jan 04 15:20:22 2002] You are no longer invigorated.
+[Fri Jan 04 15:20:29 2002] Iaedaila tells you, 'Hail, how are you? i'm just wondering i have Fire bolt but the glowing flying orb does not show up, will that be fixed in an upcomeing patch?'
+[Fri Jan 04 15:20:41 2002] You told Iaedaila, 'they're working on it..'
+[Fri Jan 04 15:20:44 2002] The jig sends energy zinging through your body.
+[Fri Jan 04 15:20:48 2002] Kedian GMSAYS, 'might have something to do with them become usless...*snicker* :p'
+[Fri Jan 04 15:20:51 2002] You told Iaedaila, 'I don't know when they will have a fix.'
+[Fri Jan 04 15:20:58 2002] You are no longer invigorated.
+[Fri Jan 04 15:21:00 2002] You GMSAY, 'hey, come here so I can bop you.'
+[Fri Jan 04 15:21:12 2002] You GMSAY, 'I can port!'
+[Fri Jan 04 15:21:30 2002] Iaedaila tells you, 'oh ok thank you, just wanted to let you know! in case it was my video card! good hunting and safe travels to ye!'
+[Fri Jan 04 15:21:44 2002] Kedian GMSAYS, 'hehe...but not to the planes :)'
+[Fri Jan 04 15:21:46 2002] You told Iaedaila, 'okay, be well!'
+[Fri Jan 04 15:22:09 2002] Kedian GMSAYS, 'I would add the moon in there...but wizard's luclin portal doesn't work either'
+[Fri Jan 04 15:22:13 2002] You GMSAY, 'my role is debuffing, dotting, and keeping the wizards alive in dragon raids'
+[Fri Jan 04 15:22:24 2002] Theobrin GMSAYS, 'hehe'
+[Fri Jan 04 15:22:54 2002] You GMSAY, 'and getting rezzed in Tormax raids. I try to die early on to reduce lag. I'm nice that way.'
+[Fri Jan 04 15:23:18 2002] Kedian GMSAYS, 'yeah, protection of the glades is a nice buff....still not quite there with aego, but it does the job for the weenie casters '
+[Fri Jan 04 15:23:28 2002] You GMSAY, 'me no have that yet'
+[Fri Jan 04 15:23:28 2002] Theobrin GMSAYS, 'thats not nice to do to the cleric espy'
+[Fri Jan 04 15:23:30 2002] You GMSAY, 'not 60'
+[Fri Jan 04 15:23:38 2002] You GMSAY, 'heh they have clickers'
+[Fri Jan 04 15:23:47 2002] It begins to rain.
+[Fri Jan 04 15:23:48 2002] You GMSAY, 'doesn't cost them anything'
+[Fri Jan 04 15:24:12 2002] Theobrin GMSAYS, 'clickers should be removed 8)'
+[Fri Jan 04 15:24:49 2002] You GMSAY, 'I just helped a long time friend camp ragefire for two nights; she has hers now... it was worth it when I died in Kael and needed a friend...'
+[Fri Jan 04 15:25:27 2002] Kedian GMSAYS, 'RF is actauly a fun camp...I love killin the FGs.  Its just not so fun when another guild shows up to do RF as well'
+[Fri Jan 04 15:25:57 2002] Theobrin GMSAYS, 'my cleric is 56 and has no desire to ever work on epic'
+[Fri Jan 04 15:26:01 2002] You GMSAY, 'without snake sticks and rez clicks the game would be very different. EMarr is good on RF camps - if you can keep a cleric there and the FGs dead, it's your camo.'
+[Fri Jan 04 15:26:57 2002] Kedian GMSAYS, 'im on MithMarr...we have had instances where 1 guild watched another guild try to kill RF, get wiped out..then took RF for themselves and looted the heart (it wasn't even their perl)'
+[Fri Jan 04 15:27:16 2002] You GMSAY, 'that is horrid.'
+[Fri Jan 04 15:27:41 2002] You GMSAY, 'KS / Ninja policy should cover that. All that work...'
+[Fri Jan 04 15:28:08 2002] Kedian GMSAYS, 'I dont know what the GM decision was...or even if there was one :/'
+[Fri Jan 04 15:28:37 2002] You GMSAY, 'If I were a player there, I'd blacklist both the player and the guild.'
+[Fri Jan 04 15:28:50 2002] Kedian GMSAYS, 'we have been through about 4 different GMs in the last year...our current one is either not on, or allways anon'
+[Fri Jan 04 15:29:10 2002] Theobrin GMSAYS, 'that sucks'
+[Fri Jan 04 15:29:13 2002] Espranza saved.
+[Fri Jan 04 15:29:39 2002] Kedian GMSAYS, 'The guild is kinda blacklisted in a way...they are fairly self sufficient, so it kinda doesn't matter'
+[Fri Jan 04 15:29:56 2002] The spirit leaves you.
+[Fri Jan 04 15:31:00 2002] Kedian GMSAYS, 'We sorta have the 'uber guild', afterlife...the ppl who cant get into AL, go to this other guild...so they have alot of ppl'
+[Fri Jan 04 15:32:00 2002] You GMSAY, 'we have two uber guilds, Magister and Midnight Fury... but they're fairly nice; they'll let you have your chance at something, but they won't leave it for you if they get their first.'
+[Fri Jan 04 15:33:07 2002] You feel the spirit of Norrath enter you.
+[Fri Jan 04 15:33:14 2002] You GMSAY, 'anyway, off to the movies...'
+[Fri Jan 04 15:33:16 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Jan 04 15:33:17 2002] USER TEXT: was told to petition at this time about a prob i am having
+[Fri Jan 04 15:33:17 2002] Players in EverQuest:
+[Fri Jan 04 15:33:17 2002] ---------------------------
+[Fri Jan 04 15:33:17 2002] [25 Wizard] Suroth (Erudite) <Faydark Raiders> ZONE: commons (USER PID A3QQPHV)
+[Fri Jan 04 15:33:17 2002] There is 1 player in EverQuest.
+[Fri Jan 04 15:33:20 2002] GM TEXT: Kedian: Player died a week ago, was unable to log back in because of video card problems, corpse rotted.
+[Fri Jan 04 15:33:22 2002] UNDOING CHECK OUT
+[Fri Jan 04 15:33:23 2002] Theobrin GMSAYS, 'bye espy 8)'
+[Fri Jan 04 15:33:23 2002] Kedian GMSAYS, 'ok, see ya esp'
+[Fri Jan 04 15:33:23 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Jan 04 15:33:24 2002] USER TEXT: GM 
+[Fri Jan 04 15:33:24 2002] Players in EverQuest:
+[Fri Jan 04 15:33:24 2002] ---------------------------
+[Fri Jan 04 15:33:24 2002] [29 Ranger] Amberlyn (Wood Elf) <Clan Silvermoon> ZONE: highkeep (USER PID A17F8Z6)
+[Fri Jan 04 15:33:24 2002] There is 1 player in EverQuest.
+[Fri Jan 04 15:33:27 2002] Kedian GMSAYS, '<< zone >>'
+[Fri Jan 04 15:33:28 2002] GM TEXT: Theobrin: crashed in a trade with hrududu, hrududu got the money, but amberlyn didn't get the item, they are both in agreement
+[Fri Jan 04 15:33:30 2002] UNDOING CHECK OUT
+[Fri Jan 04 15:33:44 2002] You GMSAY, 'Hrududu is the rabbit word for car, by the way'
+[Fri Jan 04 15:33:48 2002] It will take you about 30 seconds to prepare your camp.
+[Fri Jan 04 15:33:52 2002] It will take about 25 more seconds to prepare your camp.
+[Fri Jan 04 15:33:57 2002] It will take about 20 more seconds to prepare your camp.
+[Fri Jan 04 15:34:02 2002] It will take about 15 more seconds to prepare your camp.
+[Fri Jan 04 15:34:07 2002] It will take about 10 more seconds to prepare your camp.
+[Fri Jan 04 15:34:12 2002] It will take about 5 more seconds to prepare your camp.

@@ -1,0 +1,1623 @@
+[Tue Feb 19 15:44:16 2002] Welcome to EverQuest!
+[Tue Feb 19 15:44:16 2002] You have entered Sunset Home.
+[Tue Feb 19 15:44:20 2002] Players in EverQuest:
+[Tue Feb 19 15:44:20 2002] ---------------------------
+[Tue Feb 19 15:44:20 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Tue Feb 19 15:44:20 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: shadowhaven (USER PID CW1ECN5)
+[Tue Feb 19 15:44:20 2002] * Guide *[52 Disciple] Swiftmoor (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID EUUWZVJ)
+[Tue Feb 19 15:44:20 2002] * Guide *[ANON (51 Pathfinder)] Correllan (Human) ZONE: oasis (USER PID AUUWKPN)
+[Tue Feb 19 15:44:20 2002] There are 4 players in EverQuest.
+[Tue Feb 19 15:44:24 2002] You GMSAY, 'hiya!'
+[Tue Feb 19 15:44:32 2002] Swiftmoor GMSAYS, 'Hiya Esp'
+[Tue Feb 19 15:44:32 2002] Correllan GMSAYS, 'heya esp!!!'
+[Tue Feb 19 15:44:34 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 15:44:35 2002] USER TEXT: Greetings. GM Lirus asked me to petition for her this evening  regarding a matter she was handling for me several nights ago/
+[Tue Feb 19 15:44:35 2002] Players in EverQuest:
+[Tue Feb 19 15:44:35 2002] ---------------------------
+[Tue Feb 19 15:44:35 2002] [51 Rake] Gorde (Halfling) <Coeur de Lion> ZONE: nektulos (USER PID FVQP0SG)
+[Tue Feb 19 15:44:35 2002] There is 1 player in EverQuest.
+[Tue Feb 19 15:44:50 2002] Swiftmoor GMSAYS, 'and I don't mean extra sensory perception'
+[Tue Feb 19 15:44:53 2002] You told Gorde, 'Hail, Gorde! Senior Guide Espranza here. What may I tell her this is in regards to?'
+[Tue Feb 19 15:44:58 2002] You GMSAY, 'But I do'
+[Tue Feb 19 15:45:12 2002] Swiftmoor GMSAYS, 'hehe'
+[Tue Feb 19 15:45:40 2002] Swiftmoor GMSAYS, 'I want to smack this player'
+[Tue Feb 19 15:45:43 2002] Gorde tells you, 'I turned in robes to NPC Vilnius the SMall in WK, got an error message and lost the robes. She was going to check the logs to verify that'
+[Tue Feb 19 15:45:50 2002] Lirus GMSAYS, 'hehe what are they doing?'
+[Tue Feb 19 15:45:55 2002] Gorde tells you, 'PArt of Rogue epic'
+[Tue Feb 19 15:46:11 2002] You told Gorde, 'Aye, I'm familiar with it...'
+[Tue Feb 19 15:46:17 2002] Swiftmoor GMSAYS, 'just a sec'
+[Tue Feb 19 15:46:31 2002] You GMSAY, 'Lirus, you told Gorde to repetition today about losing some robes he turned in for the rogue epic?'
+[Tue Feb 19 15:46:55 2002] Gorde tells you, 'Sorry, I guess you would be. No offense intended )'
+[Tue Feb 19 15:47:43 2002] You told Gorde, 'heh none taken :)'
+[Tue Feb 19 15:47:54 2002] You told Gorde, 'okay, I'll escalate this up to Lirus, then'
+[Tue Feb 19 15:48:02 2002] Swiftmoor GMSAYS, '3rd pet in the last 2 days with just one character.  I ask repeatedly what I can do for him, and 5 minutes later he says nevermind.  I suspect he's doing some /pet command and screwing it up, but finally he said he wants his surname removed.'
+[Tue Feb 19 15:48:03 2002] Gorde tells you, 'Ok, thanks'
+[Tue Feb 19 15:48:50 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Feb 19 15:48:51 2002] GM TEXT: Espranza: turned in four robes to Vilnius the Small in WK, got an error message and lost the robes. Says you were going to check the logs.
+[Tue Feb 19 15:48:53 2002] STATUS UPGRADED TO URGENT
+[Tue Feb 19 15:48:54 2002] STATUS UPGRADED TO EMERGENCY
+[Tue Feb 19 15:49:17 2002] You GMSAY, 'esc Gorde - turned in 4 robes for rogue epic, got an error message and naught else'
+[Tue Feb 19 15:49:21 2002] CHECKING IN
+[Tue Feb 19 15:49:22 2002] Lirus GMSAYS, 'yeah on gorde'
+[Tue Feb 19 15:49:43 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 15:49:44 2002] USER TEXT: taintes seafury is buged i think
+[Tue Feb 19 15:49:45 2002] Players in EverQuest:
+[Tue Feb 19 15:49:45 2002] ---------------------------
+[Tue Feb 19 15:49:45 2002] [52 Heretic] Muchi (Dark Elf) ZONE: oot (USER PID CZD8418)
+[Tue Feb 19 15:49:45 2002] There is 1 player in EverQuest.
+[Tue Feb 19 15:50:03 2002] You told Muchi, 'Hail, Muchi! Senior Guide Espranza here. How is the tainted seafury bugged?'
+[Tue Feb 19 15:50:23 2002] Muchi tells you, 'well he does the moonwalk but i just killed him'
+[Tue Feb 19 15:50:34 2002] You told Muchi, 'moonwalking cyclopses :)'
+[Tue Feb 19 15:50:41 2002] Muchi tells you, 'he ran backwords away came back at me five minutes later'
+[Tue Feb 19 15:50:53 2002] You told Muchi, 'sounds like he was out of his path'
+[Tue Feb 19 15:51:00 2002] DELETING THIS PETITION
+[Tue Feb 19 15:51:01 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 15:51:02 2002] USER TEXT: need to speak with lirus plz ;(
+[Tue Feb 19 15:51:02 2002] Players in EverQuest:
+[Tue Feb 19 15:51:02 2002] ---------------------------
+[Tue Feb 19 15:51:02 2002] [16 Shaman] Jasak (Iksar) ZONE: fieldofbone (USER PID AVP1WNB)
+[Tue Feb 19 15:51:02 2002] There is 1 player in EverQuest.
+[Tue Feb 19 15:51:04 2002] Muchi tells you, 'i took care of it tho hehe'
+[Tue Feb 19 15:51:24 2002] Correllan GMSAYS, 'zoning to the twilight zone'
+[Tue Feb 19 15:51:26 2002] You told Jasak, 'Hail, Torturedone! Senior Guide Espranza here. How may I help you?'
+[Tue Feb 19 15:51:54 2002] Jasak tells you, 'lost 2 of my shackles the other day in Droga, need to see if i can get some help was told only lirus could handle the situation'
+[Tue Feb 19 15:52:17 2002] You told Jasak, 'shackles? for the iksar monk shackle quests?'
+[Tue Feb 19 15:52:21 2002] Jasak tells you, 'aye'
+[Tue Feb 19 15:52:28 2002] You told Jasak, 'which shackles?'
+[Tue Feb 19 15:52:33 2002] Jasak tells you, 'bronze copper'
+[Tue Feb 19 15:52:42 2002] Jasak tells you, 'the NPC walked away from me while i was handing it in and poof'
+[Tue Feb 19 15:52:44 2002] You told Jasak, 'how were they lost?'
+[Tue Feb 19 15:52:49 2002] You told Jasak, 'ah, which NPC?'
+[Tue Feb 19 15:52:59 2002] Jasak tells you, 'the one that replies to the quest, "an iksar slave'
+[Tue Feb 19 15:53:21 2002] You told Jasak, 'okay, I'll pass this info along to Lirus'
+[Tue Feb 19 15:53:28 2002] Jasak tells you, 'is she on today ?'
+[Tue Feb 19 15:53:43 2002] Swiftmoor GMSAYS, 'Lirus, player accidentally traded someone a weight reduction bag with a fungi in it that he forgot was there and wants it back.  Willing to talk to him or tell him (kindly) he's SOL?'
+[Tue Feb 19 15:53:43 2002] Jasak tells you, 'heard she was sick saturday ;('
+[Tue Feb 19 15:53:54 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Feb 19 15:54:00 2002] You told Jasak, 'she's in today'
+[Tue Feb 19 15:54:12 2002] GM TEXT: Espranza: handed bronze and copper shackles to an iksar slave in Droga, but the NPC walked away during the hand-in and poofed. Lost the items.
+[Tue Feb 19 15:54:18 2002] It begins to rain.
+[Tue Feb 19 15:54:32 2002] You GMSAY, 'esc Torturedone - NPC walked away during a quest item turn in and poofed.'
+[Tue Feb 19 15:54:35 2002] STATUS UPGRADED TO URGENT
+[Tue Feb 19 15:54:36 2002] STATUS UPGRADED TO EMERGENCY
+[Tue Feb 19 15:54:37 2002] CHECKING IN
+[Tue Feb 19 15:54:43 2002] Espranza saved.
+[Tue Feb 19 15:54:50 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 15:54:51 2002] Jasak tells you, 'okies great, ill be logging back to tort soon :) thanks for the help, and do you think she will help in a matter like this?'
+[Tue Feb 19 15:54:52 2002] USER TEXT: l
+[Tue Feb 19 15:54:52 2002] Players in EverQuest:
+[Tue Feb 19 15:54:52 2002] ---------------------------
+[Tue Feb 19 15:54:52 2002] [60 Hierophant] Semmy (Wood Elf) <Ronins> ZONE: thegrey (USER PID DU9EFK4) LFG
+[Tue Feb 19 15:54:52 2002] There is 1 player in EverQuest.
+[Tue Feb 19 15:55:04 2002] You told Jasak, 'only she can determine that...'
+[Tue Feb 19 15:55:22 2002] Players in EverQuest:
+[Tue Feb 19 15:55:22 2002] ---------------------------
+[Tue Feb 19 15:55:22 2002] * Guide *[51 Pathfinder] Correllan (Human) <Keepers of Dreams> ZONE: oot (USER PID AUUWKPN)
+[Tue Feb 19 15:55:22 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Tue Feb 19 15:55:22 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: shadowhaven (USER PID CW1ECN5)
+[Tue Feb 19 15:55:22 2002] * Guide *[52 Disciple] Swiftmoor (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID EUUWZVJ)
+[Tue Feb 19 15:55:22 2002] There are 4 players in EverQuest.
+[Tue Feb 19 15:55:24 2002] Jasak tells you, 'i see, well thanks  :)'
+[Tue Feb 19 15:55:42 2002] You told Jasak, 'good travels, and I hope you get your shackles back'
+[Tue Feb 19 15:55:48 2002] Jasak tells you, ':)'
+[Tue Feb 19 15:55:55 2002] UNDOING CHECK OUT
+[Tue Feb 19 15:55:57 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 15:55:57 2002] USER TEXT: is ther a sword called the sword of elements
+[Tue Feb 19 15:55:58 2002] Players in EverQuest:
+[Tue Feb 19 15:55:58 2002] ---------------------------
+[Tue Feb 19 15:55:58 2002] [15 Warrior] Shimeipaul (Wood Elf) <League of Levity> ZONE: butcher (USER PID F0HZPJN)
+[Tue Feb 19 15:55:58 2002] There is 1 player in EverQuest.
+[Tue Feb 19 15:56:28 2002] You told Shimeipaul, 'Hail, Shimeipaul! Senior Guide Espranza here. I suppose their might be a sword called that...'
+[Tue Feb 19 15:56:41 2002] DELETING THIS PETITION
+[Tue Feb 19 15:56:42 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 15:56:49 2002] Swiftmoor GMSAYS, 'Lirus, player accidentally traded someone a weight reduction bag with a fungi in it that he forgot was there and wants it back.  Willing to talk to him or tell him (kindly) he's SOL?'
+[Tue Feb 19 15:56:53 2002] USER TEXT: Hell there. Im helping a friend do part 4 of the prayer shawl quest. We have been doing it for almost 6 hours now. And havent seen the slightest sign of Tanik Greskil. Could it be the quest is broken ?..
+[Tue Feb 19 15:56:53 2002] Players in EverQuest:
+[Tue Feb 19 15:56:53 2002] ---------------------------
+[Tue Feb 19 15:56:53 2002] [ANON (56 Myrmidon)] Wailen (Barbarian) ZONE: eastwastes (USER PID CXQDJ70)
+[Tue Feb 19 15:56:53 2002] There is 1 player in EverQuest.
+[Tue Feb 19 15:56:55 2002] Shimeipaul tells you, 'do u have it'
+[Tue Feb 19 15:56:58 2002] Correllan GMSAYS, 'anyone know if the broodmother ..from the kromdif weust is still broken...i honestly have no idea...lol'
+[Tue Feb 19 15:57:09 2002] Swiftmoor GMSAYS, 'still broken'
+[Tue Feb 19 15:57:18 2002] You told Shimeipaul, 'me? no... I don't.'
+[Tue Feb 19 15:57:25 2002] Correllan GMSAYS, 'thanks swift'
+[Tue Feb 19 15:57:28 2002] Shimeipaul tells you, 'is it a real sword'
+[Tue Feb 19 15:57:33 2002] Swiftmoor tells the guild, 'wonder if !Dialogueman is still there'
+[Tue Feb 19 15:57:45 2002] You told Shimeipaul, 'I don't know. The best way to find out is to ask other players.'
+[Tue Feb 19 15:58:15 2002] You GMSAY, 'Anyone know if the 4th prayer shawl quest is broken?'
+[Tue Feb 19 15:58:46 2002] Shimeipaul tells you, 'because it is better then my epic and on ever lore it said i can get it at lvl 26'
+[Tue Feb 19 15:58:56 2002] Swiftmoor GMSAYS, 'not that I'm aware of.  I wonder if that's the same guy that I talked to'
+[Tue Feb 19 15:59:11 2002] You GMSAY, 'Wailen?'
+[Tue Feb 19 15:59:31 2002] Players in EverQuest:
+[Tue Feb 19 15:59:31 2002] ---------------------------
+[Tue Feb 19 15:59:31 2002] [15 Warrior] Shimeipaul (Wood Elf) <League of Levity> ZONE: butcher (USER PID F0HZPJN)
+[Tue Feb 19 15:59:31 2002] There is 1 player in EverQuest.
+[Tue Feb 19 15:59:43 2002] Swiftmoor GMSAYS, 'nope. different guy'
+[Tue Feb 19 15:59:50 2002] You told Shimeipaul, 'I would be very dubious of facts found on spoiler sites.'
+[Tue Feb 19 16:00:11 2002] Shimeipaul tells you, 'k i will ask around'
+[Tue Feb 19 16:00:13 2002] Swiftmoor GMSAYS, 'talked to someone earlier saying he tried it and just got his stuff back.  Tried it again and "magically" it worked this time.'
+[Tue Feb 19 16:00:31 2002] You told Shimeipaul, 'good luck - and if you do find it and it is better, let me know, I'd be interested :)'
+[Tue Feb 19 16:00:32 2002] Swiftmoor GMSAYS, 'ok, my hour is up.  See you all next week folks!'
+[Tue Feb 19 16:00:37 2002] You GMSAY, 'later Swift!'
+[Tue Feb 19 16:00:51 2002] Shimeipaul tells you, 'what class r u'
+[Tue Feb 19 16:01:11 2002] You told Shimeipaul, 'I'm a rogue, but I also play (on my play server) a 54 warrior'
+[Tue Feb 19 16:01:39 2002] Shimeipaul tells you, 'that is the only class that can get it is war'
+[Tue Feb 19 16:01:52 2002] The spirit leaves you.
+[Tue Feb 19 16:01:55 2002] You feel the spirit of Norrath enter you.
+[Tue Feb 19 16:02:41 2002] You told Shimeipaul, 'well, I'm in a high level guild and the warriors have epics or primal/priceless... none of those things can be gotten by a level 26... if you can get a better, then go for it :)'
+[Tue Feb 19 16:03:44 2002] Shimeipaul tells you, 'how long did it take u to reach lvl 50'
+[Tue Feb 19 16:03:56 2002] You told Shimeipaul, 'couple years'
+[Tue Feb 19 16:04:09 2002] Lirus GMSAYS, 'zone'
+[Tue Feb 19 16:04:14 2002] USER TEXT: Hell there. Im helping a friend do part 4 of the prayer shawl quest. We have been doing it for almost 6 hours now. And havent seen the slightest sign of Tanik Greskil. Could it be the quest is broken ?..
+[Tue Feb 19 16:04:17 2002] Shimeipaul tells you, 'o man im a war so it may take me that long'
+[Tue Feb 19 16:04:47 2002] You told Shimeipaul, 'I'm just a slow leveler, plus I have three high level chars, so I level a third as fast'
+[Tue Feb 19 16:05:16 2002] Espranza saved.
+[Tue Feb 19 16:05:55 2002] Shimeipaul tells you, 'im a quick lvlr i just got the game 4 wks ago and im lvl 15'
+[Tue Feb 19 16:06:29 2002] You told Shimeipaul, 'well, you may find yourself level 50 in just a few weeks then :)'
+[Tue Feb 19 16:06:52 2002] Shimeipaul tells you, 'i will be by the end of summer i hope'
+[Tue Feb 19 16:06:52 2002] You GMSAY, 'zone'
+[Tue Feb 19 16:06:58 2002] You told Shimeipaul, 'go for it!'
+[Tue Feb 19 16:07:02 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 16:11:03 2002] Welcome to EverQuest!
+[Tue Feb 19 16:11:04 2002] You have entered Eastern Wastes.
+[Tue Feb 19 16:11:11 2002] You GMSAY, 'back from LD zoning'
+[Tue Feb 19 16:11:18 2002] You GMSAY, 'or crashing zoning or whatever'
+[Tue Feb 19 16:11:22 2002] Players in EverQuest:
+[Tue Feb 19 16:11:22 2002] ---------------------------
+[Tue Feb 19 16:11:22 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: eastwastes (USER PID B4KJ6E7)
+[Tue Feb 19 16:11:22 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: ecommons (USER PID CW1ECN5)
+[Tue Feb 19 16:11:22 2002] * Guide *[51 Pathfinder] Correllan (Human) <Keepers of Dreams> ZONE: oot (USER PID AUUWKPN)
+[Tue Feb 19 16:11:22 2002] There are 3 players in EverQuest.
+[Tue Feb 19 16:11:22 2002] Lirus GMSAYS, 'zone'
+[Tue Feb 19 16:11:26 2002] Correllan tells the guild, 'Taxxin DS1QSEC is requesting a sybol placed in the surname  symbol ' advised them would be your descicion'
+[Tue Feb 19 16:11:38 2002] You say to your guild, 'what's his surname?'
+[Tue Feb 19 16:12:16 2002] Correllan tells the guild, 'opps missed the apend text...lol...'
+[Tue Feb 19 16:12:21 2002] Correllan tells the guild, 'hang on getting it'
+[Tue Feb 19 16:13:49 2002] Correllan tells the guild, 'nm taking care of it myself...lol...'
+[Tue Feb 19 16:14:07 2002] You GMSAY, 'are any of those reds name changes?'
+[Tue Feb 19 16:14:41 2002] You GMSAY, 'looking through the reds for name changes....'
+[Tue Feb 19 16:14:43 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:14:44 2002] USER TEXT: i made a petition on saturday and they told me i needed to speak with Lirus 
+[Tue Feb 19 16:14:44 2002] Players in EverQuest:
+[Tue Feb 19 16:14:44 2002] ---------------------------
+[Tue Feb 19 16:14:44 2002] [60 Grandmaster] Havic (Iksar) <Fury's Edge> ZONE: templeveeshan (USER PID HQ3SHW8)
+[Tue Feb 19 16:14:44 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:14:48 2002] GM TEXT: Neroli: Petitioned logged on on Sunday and seemed to have a bug where he and no one else had a name.  He couldnt even type, he logged off, came back on and no boots.  Was told to petition tonight
+[Tue Feb 19 16:14:53 2002] UNDOING CHECK OUT
+[Tue Feb 19 16:14:54 2002] Lirus GMSAYS, 'not sure'
+[Tue Feb 19 16:14:54 2002] Correllan tells the guild, 'esp this one is ....it won't approve since he wants taxxin first name and N'Waxxin as surname...but insisting he talk to a gm or senior...want to tell him too????...lol'
+[Tue Feb 19 16:15:06 2002] You no longer have a target.
+[Tue Feb 19 16:15:14 2002] Lirus tells the guild, 'tell em a gm or senior will say no'
+[Tue Feb 19 16:15:17 2002] You say to your guild, 'hah you directed him to the naming policy?'
+[Tue Feb 19 16:15:20 2002] Lirus tells the guild, 'so it's a waste of his time and yours'
+[Tue Feb 19 16:15:35 2002] Correllan tells the guild, 'did that too.....must be my night for arguing also...lol'
+[Tue Feb 19 16:15:37 2002] You say to your guild, 'if he wants me to say no to him, I will'
+[Tue Feb 19 16:15:44 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:15:45 2002] USER TEXT: hello i had a problem w/ my cleric earlier and i was wonderign if u could walk it out
+[Tue Feb 19 16:15:45 2002] Players in EverQuest:
+[Tue Feb 19 16:15:45 2002] ---------------------------
+[Tue Feb 19 16:15:45 2002] [12 Rogue] Jarina (Half Elf) ZONE: ecommons (USER PID AST0PWU)
+[Tue Feb 19 16:15:45 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:15:47 2002] UNDOING CHECK OUT
+[Tue Feb 19 16:15:49 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:15:50 2002] Lirus tells the guild, 'aye correllan lol is it a full moon?'
+[Tue Feb 19 16:15:50 2002] USER TEXT: This is about some items lost last friday. I have spoken to GM Lirus on Satyrday and was advised to repetition today. Thank you
+[Tue Feb 19 16:15:50 2002] Players in EverQuest:
+[Tue Feb 19 16:15:50 2002] ---------------------------
+[Tue Feb 19 16:15:50 2002] [ANON (25 Druid)] Bufy (Wood Elf) ZONE: halas (USER PID BQ3P8RR)
+[Tue Feb 19 16:15:50 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:15:53 2002] UNDOING CHECK OUT
+[Tue Feb 19 16:15:54 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:15:56 2002] USER TEXT: I seen that Lirus is back and i have been waiting since Saturday for a char restore please )).
+[Tue Feb 19 16:15:56 2002] Players in EverQuest:
+[Tue Feb 19 16:15:56 2002] ---------------------------
+[Tue Feb 19 16:15:56 2002] [ANON (24 Warrior)] Evea (Dark Elf) ZONE: soldunga (USER PID AWNXTZ8)
+[Tue Feb 19 16:15:56 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:15:59 2002] UNDOING CHECK OUT
+[Tue Feb 19 16:16:02 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:16:02 2002] USER TEXT: l
+[Tue Feb 19 16:16:03 2002] Players in EverQuest:
+[Tue Feb 19 16:16:03 2002] ---------------------------
+[Tue Feb 19 16:16:03 2002] [60 Hierophant] Semmy (Wood Elf) <Ronins> ZONE: scarlet (USER PID DU9EFK4) LFG
+[Tue Feb 19 16:16:03 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:16:06 2002] USER TEXT: l
+[Tue Feb 19 16:16:08 2002] GM TEXT: Swiftmoor: player wants his surname removed.
+[Tue Feb 19 16:16:17 2002] You GMSAY, 'zone'
+[Tue Feb 19 16:16:21 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 16:16:48 2002] a tro jeg fire servant died.
+[Tue Feb 19 16:16:48 2002] a sun revenant died.
+[Tue Feb 19 16:16:53 2002] You have entered Scarlet Desert.
+[Tue Feb 19 16:17:01 2002] Teleporting to semmy.
+[Tue Feb 19 16:17:10 2002] Semmy says, 'hi'
+[Tue Feb 19 16:17:14 2002] You told Semmy, 'hiya! want your surname removed?'
+[Tue Feb 19 16:17:18 2002] Semmy tells you, 'yes pleassee'
+[Tue Feb 19 16:17:23 2002] You have changed Semmy's last name to .
+[Tue Feb 19 16:17:28 2002] Semmy tells you, 'thank you!~'
+[Tue Feb 19 16:17:37 2002] You GMSAY, '<note name> Semmy DU9EFK4 last name removed by request'
+[Tue Feb 19 16:17:41 2002] You told Semmy, 'any time - be well!'
+[Tue Feb 19 16:17:42 2002] You wave at Semmy.
+[Tue Feb 19 16:17:51 2002] Players on EverQuest:
+[Tue Feb 19 16:17:51 2002] ---------------------------
+[Tue Feb 19 16:17:51 2002] [58 Evoker] Aelst (Erudite) <Gardiens de Norrath>
+[Tue Feb 19 16:17:51 2002] [41 Warrior] Candin (Troll) <Temple of Dawn>
+[Tue Feb 19 16:17:51 2002] [50 Warrior] Mekilzu (Troll) <Altruistic Valorians>
+[Tue Feb 19 16:17:51 2002] [ANONYMOUS] Faydson  <Altruistic Valorians>
+[Tue Feb 19 16:17:51 2002] [ANONYMOUS] Elenwe 
+[Tue Feb 19 16:17:51 2002] [ANONYMOUS] Ninen  <Ronins>
+[Tue Feb 19 16:17:51 2002] [ANONYMOUS] Bitingwind  <Order of the Chosen Few>
+[Tue Feb 19 16:17:51 2002] [54 Wanderer] Prindan (Wood Elf) <Hall of Heroes>
+[Tue Feb 19 16:17:51 2002] [60 Hierophant] Semmy (Wood Elf) <Ronins> LFG
+[Tue Feb 19 16:17:51 2002] [42 Warrior] Okiwan (Barbarian)
+[Tue Feb 19 16:17:51 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Tue Feb 19 16:17:51 2002] There are 11 players in The Scarlet Desert.
+[Tue Feb 19 16:18:01 2002] You GMSAY, 'zone'
+[Tue Feb 19 16:18:05 2002] DELETING THIS PETITION
+[Tue Feb 19 16:18:07 2002] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Tue Feb 19 16:18:07 2002] Your Belt of Translocation begins to glow.
+[Tue Feb 19 16:18:08 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 16:18:27 2002] You have entered Sunset Home.
+[Tue Feb 19 16:18:33 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:18:37 2002] USER TEXT: i need to speak with lirus please about an item i lost
+[Tue Feb 19 16:18:37 2002] Players in EverQuest:
+[Tue Feb 19 16:18:37 2002] ---------------------------
+[Tue Feb 19 16:18:37 2002] [48 Ranger] Aerwen (Wood Elf) ZONE: ecommons (USER PID EUQHQPE)
+[Tue Feb 19 16:18:37 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:18:39 2002] Correllan GMSAYS, 'wailen is back about the cloak quest'
+[Tue Feb 19 16:18:40 2002] UNDOING CHECK OUT
+[Tue Feb 19 16:18:43 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:18:44 2002] USER TEXT: I left a corpse in GD a few nights ago and was going to come back and rezz but it decayed premature, please help me get back the body
+[Tue Feb 19 16:18:44 2002] Players in EverQuest:
+[Tue Feb 19 16:18:44 2002] ---------------------------
+[Tue Feb 19 16:18:44 2002] [56 Templar] Lifegiving (Dwarf) <Triune> ZONE: lakerathe (USER PID ET47MA9)
+[Tue Feb 19 16:18:44 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:18:52 2002] UNDOING CHECK OUT
+[Tue Feb 19 16:19:06 2002] You GMSAY, 'I hadn't contacted him about it yet'
+[Tue Feb 19 16:19:19 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:19:19 2002] USER TEXT: Do you know if there are plans to fix the Druid spell Allure of the Wild? or is this the way the spell will stay?
+[Tue Feb 19 16:19:20 2002] Players in EverQuest:
+[Tue Feb 19 16:19:20 2002] ---------------------------
+[Tue Feb 19 16:19:20 2002] [ANON (44 Druid)] Sirch (Wood Elf) ZONE: gfaydark (USER PID HS379A0)
+[Tue Feb 19 16:19:20 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:19:48 2002] You told Sirch, 'Hail, Sirch! Senior Guide Espranza here. What is wrong with Allure of the Wild?'
+[Tue Feb 19 16:20:25 2002] Lirus GMSAYS, 'zone'
+[Tue Feb 19 16:21:38 2002] Sirch tells you, 'sorry was afk, anyhow the spell will no longer work on anything over green which makes the lvl 44 spell with cost of 220 mana useless unless you wish to charm rats in west freeport )'
+[Tue Feb 19 16:21:56 2002] STATUS UPGRADED TO URGENT
+[Tue Feb 19 16:21:59 2002] STATUS DOWNGRADED TO NORMAL
+[Tue Feb 19 16:22:07 2002] Sirch tells you, 'after feb 13 patch everything returns message that it is to high for spell'
+[Tue Feb 19 16:23:02 2002] You told Sirch, 'hmm... let me ask the others...'
+[Tue Feb 19 16:23:24 2002] Your protection fades.
+[Tue Feb 19 16:23:46 2002] You GMSAY, 'Druid says the lev 44 druid spell Allure of the Wild will only charm very low level animals, and that this is only since the last patch. Has this spell been changed?'
+[Tue Feb 19 16:23:50 2002] You feel the spirit of Z surround you.
+[Tue Feb 19 16:24:20 2002] Lirus GMSAYS, 'not to my knowledge'
+[Tue Feb 19 16:24:41 2002] Lirus GMSAYS, 'this is gonna sound really retarded but it comes from up high.....'
+[Tue Feb 19 16:25:03 2002] Correllan GMSAYS, 'okay back...sorry got dumped to desktop'
+[Tue Feb 19 16:25:06 2002] Lirus GMSAYS, 'the GM's are not to be doing email or answering petitions today (despite my enormously high que full to the brim of reds)'
+[Tue Feb 19 16:25:14 2002] Lirus GMSAYS, 'and we are to be running quests =/'
+[Tue Feb 19 16:25:23 2002] You GMSAY, 'well, I tried all weekend to run quests'
+[Tue Feb 19 16:25:28 2002] Lirus GMSAYS, 'course we all know that is a bit silly'
+[Tue Feb 19 16:25:33 2002] Lirus GMSAYS, 'aye espranza you did a great job'
+[Tue Feb 19 16:25:42 2002] Lirus GMSAYS, 'did as well as you could given the tools available'
+[Tue Feb 19 16:25:44 2002] Players in EverQuest:
+[Tue Feb 19 16:25:44 2002] ---------------------------
+[Tue Feb 19 16:25:44 2002] * Guide *[51 Pathfinder] Correllan (Human) <Keepers of Dreams> ZONE: oot (USER PID AUUWKPN)
+[Tue Feb 19 16:25:44 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: commons (USER PID CW1ECN5)
+[Tue Feb 19 16:25:44 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Tue Feb 19 16:25:44 2002] There are 3 players in EverQuest.
+[Tue Feb 19 16:25:44 2002] Correllan GMSAYS, 'okay hey am i to have a character in my list for a quest tonight or something'
+[Tue Feb 19 16:26:07 2002] You GMSAY, 'we don't have the people on right now to do quests'
+[Tue Feb 19 16:26:13 2002] Lirus GMSAYS, 'aye'
+[Tue Feb 19 16:26:22 2002] Lirus GMSAYS, 'i think i'm gonna run some quick ones and make em happy'
+[Tue Feb 19 16:26:25 2002] You told Sirch, 'Well, nobody knows of a change to that spell, but I will report it.'
+[Tue Feb 19 16:26:29 2002] Lirus GMSAYS, 'then try to get back on and kill some pets'
+[Tue Feb 19 16:26:34 2002] Lirus GMSAYS, 'wash rinse and repeat'
+[Tue Feb 19 16:26:35 2002] Correllan GMSAYS, 'okay i got a character shall i delete or want me to save for a few?'
+[Tue Feb 19 16:26:39 2002] Lirus GMSAYS, 'save it'
+[Tue Feb 19 16:26:58 2002] Correllan GMSAYS, 'gotchya'
+[Tue Feb 19 16:27:05 2002] Correllan GMSAYS, 'asnd if ya need help with quests holler i had a real blast the other night'
+[Tue Feb 19 16:27:05 2002] Sirch tells you, 'thank you, I wasn't sure if it was a bug or if they were phasing the spell out, I find it very useful tool for us druids'
+[Tue Feb 19 16:27:13 2002] You GMSAY, '<note bug> Level 44 druid spell Allure of the Wild no longer charms anything better than green animals.'
+[Tue Feb 19 16:27:57 2002] You told Sirch, 'I have a level 58 druid... I'd be interested in the answer as well (though admittedly my best charm spell, Tunare's Request, can barely handle griffons...)'
+[Tue Feb 19 16:28:12 2002] Correllan GMSAYS, 'zoning and invis for investigation'
+[Tue Feb 19 16:28:16 2002] DELETING THIS PETITION
+[Tue Feb 19 16:28:19 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:28:20 2002] USER TEXT: Hell there. Im helping a friend do part 4 of the prayer shawl quest. We have been doing it for almost 6 hours now. And havent seen the slightest sign of Tanik Greskil. Could it be the quest is broken ?..
+[Tue Feb 19 16:28:20 2002] Players in EverQuest:
+[Tue Feb 19 16:28:20 2002] ---------------------------
+[Tue Feb 19 16:28:20 2002] [ANON (56 Myrmidon)] Wailen (Barbarian) ZONE: eastwastes (USER PID CXQDJ70)
+[Tue Feb 19 16:28:20 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:28:22 2002] Correllan GMSAYS, 'zoning to the twilight zone'
+[Tue Feb 19 16:28:32 2002] Espranza saved.
+[Tue Feb 19 16:28:36 2002] You GMSAY, 'crashing to EW again'
+[Tue Feb 19 16:28:41 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 16:29:05 2002] an ulthork hunter died.
+[Tue Feb 19 16:29:15 2002] You have entered Eastern Wastes.
+[Tue Feb 19 16:29:27 2002] Searching for tanik_greskil00.
+[Tue Feb 19 16:29:31 2002] Searching for tanik_greskil01.
+[Tue Feb 19 16:29:37 2002] Searching for #tanik_greskil00.
+[Tue Feb 19 16:29:40 2002] Searching for #tanik_greskil01.
+[Tue Feb 19 16:34:55 2002] <SYSTEMWIDE MESSAGE>: Lead_GM-Kriggan : Greetings Norrath!  Strange and wondrous things await you as you journey through the lands.  You never know what you might encounter...so be prepared!  Safe hunting!
+[Tue Feb 19 16:35:06 2002] You have entered Eastern Wastes.
+[Tue Feb 19 16:35:15 2002] Gontin says out of character, 'need a rez in cc will pay pls help my boy out'
+[Tue Feb 19 16:35:21 2002] You GMSAY, 'back'
+[Tue Feb 19 16:35:22 2002] Players in EverQuest:
+[Tue Feb 19 16:35:22 2002] ---------------------------
+[Tue Feb 19 16:35:22 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: eastwastes (USER PID B4KJ6E7)
+[Tue Feb 19 16:35:22 2002] * Guide *[51 Pathfinder] Correllan (Human) <Keepers of Dreams> ZONE: oot (USER PID AUUWKPN)
+[Tue Feb 19 16:35:22 2002] There are 2 players in EverQuest.
+[Tue Feb 19 16:35:22 2002] Sslyn auctions, 'wts Rune Etched Icewurm Fang.  12/19 5wis 30mana effect: Spirit strike.  Shaman only 7k'
+[Tue Feb 19 16:35:27 2002] <SYSTEMWIDE MESSAGE>: Lead_GM-Kriggan : Greetings Norrath!  Strange and wondrous things await you as you journey through the lands.  You never know what you might encounter...so be prepared!  Safe hunting!
+[Tue Feb 19 16:35:34 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:35:34 2002] USER TEXT: Hell there. Im helping a friend do part 4 of the prayer shawl quest. We have been doing it for almost 6 hours now. And havent seen the slightest sign of Tanik Greskil. Could it be the quest is broken ?..
+[Tue Feb 19 16:35:34 2002] Players in EverQuest:
+[Tue Feb 19 16:35:34 2002] ---------------------------
+[Tue Feb 19 16:35:34 2002] [ANON (56 Myrmidon)] Wailen (Barbarian) ZONE: eastwastes (USER PID CXQDJ70)
+[Tue Feb 19 16:35:34 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:35:55 2002] Olovf GMSAYS, 'Greetings Morrel-Thule, GM Olovf here to cause some trouble.'
+[Tue Feb 19 16:36:14 2002] You told Wailen, 'Hail, Wailen! Senior Guide Espranza here. I apologize for the delay, I keep crashing here in EW... I don't see the NPC either, but will pass your concerns along.'
+[Tue Feb 19 16:36:16 2002] Correllan GMSAYS, 'greetings and need some help???...lol'
+[Tue Feb 19 16:36:17 2002] You GMSAY, 'hiya!'
+[Tue Feb 19 16:36:39 2002] Gontin shouts, 'please help my boy he is in desprat need of a rez will pay pls help'
+[Tue Feb 19 16:36:40 2002] Lars Gutentag GMSAYS, 'hi Olovf'
+[Tue Feb 19 16:36:42 2002] Olovf GMSAYS, 'Hehe nah I'll be fine, Innoruuk trained me good *g*'
+[Tue Feb 19 16:36:46 2002] Olovf GMSAYS, 'Zoning'
+[Tue Feb 19 16:36:51 2002] Sslyn auctions, 'wts Rune Etched Icewurm Fang.  12/19 5wis 30mana effect: Spirit strike.  Shaman only 7k'
+[Tue Feb 19 16:37:02 2002] Lars Gutentag GMSAYS, 'GM Lirus here, running a few short quests round and about if you need anything or hav any questions feel free to ask the guides or myself'
+[Tue Feb 19 16:37:12 2002] Wailen tells you, 'Thank you. I just feel 7 hours waiting on this npc is too long when hes normally was on 20 minute spawn. )..'
+[Tue Feb 19 16:37:29 2002] You told Wailen, 'I don't know of any change...'
+[Tue Feb 19 16:37:43 2002] Artak says out of character, 'donating for a rez for Ryax inside of cc'
+[Tue Feb 19 16:37:58 2002] Gontin says out of character, 'need a rez in cc will pay pls help my boy out'
+[Tue Feb 19 16:38:03 2002] USER TEXT: Hell there. Im helping a friend do part 4 of the prayer shawl quest. We have been doing it for almost 6 hours now. And havent seen the slightest sign of Tanik Greskil. Could it be the quest is broken ?..
+[Tue Feb 19 16:38:08 2002] Vlaude tells you, 'could ye help me in where the GM event is?'
+[Tue Feb 19 16:38:09 2002] Omeganight says out of character, 'Any Rangers got Tanik something or other on track?'
+[Tue Feb 19 16:38:27 2002] Laralanla says out of character, 'I can tell you if I do, but I'm not a ranger'
+[Tue Feb 19 16:38:29 2002] You GMSAY, '<note bug> Wailen CXQDJ70 says the prayer shawl NPC Tanic Greskil in EW has not spawned in 7 hours.'
+[Tue Feb 19 16:38:41 2002] You told Vlaude, 'I don't know, they are doing it independent of we guides.'
+[Tue Feb 19 16:38:42 2002] Omeganight says out of character, 'Bards and Druids too :)'
+[Tue Feb 19 16:38:47 2002] Omeganight says out of character, 'apologies :)'
+[Tue Feb 19 16:38:53 2002] DELETING THIS PETITION
+[Tue Feb 19 16:38:54 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:39:05 2002] Laralanla says out of character, 'Not on gimpy bardic tracking.'
+[Tue Feb 19 16:39:05 2002] Teadyn tells you, 'another event =P nice'
+[Tue Feb 19 16:39:07 2002] Omeganight says out of character, 'Thank you ))'
+[Tue Feb 19 16:39:08 2002] USER TEXT: question about char transfers please
+[Tue Feb 19 16:39:08 2002] Players in EverQuest:
+[Tue Feb 19 16:39:08 2002] ---------------------------
+[Tue Feb 19 16:39:08 2002] [56 Beguiler] Meznya (High Elf) ZONE: greatdivide (USER PID AXXXCLP)
+[Tue Feb 19 16:39:08 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:39:13 2002] You told Teadyn, 'not mine this time :)'
+[Tue Feb 19 16:39:16 2002] Teadyn tells you, 'doh'
+[Tue Feb 19 16:39:24 2002] You GMSAY, 'zone'
+[Tue Feb 19 16:39:27 2002] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Tue Feb 19 16:39:28 2002] Your Belt of Translocation begins to glow.
+[Tue Feb 19 16:39:28 2002] Teadyn tells you, 'do ya know where the event is? id like to catch it =/'
+[Tue Feb 19 16:39:28 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 16:39:49 2002] You have entered Sunset Home.
+[Tue Feb 19 16:40:05 2002] You told Teadyn, 'I can't tell ya stuff like that... just have to be in the right place at the right time...'
+[Tue Feb 19 16:40:21 2002] Teadyn tells you, 'ahh okie'
+[Tue Feb 19 16:40:24 2002] You told Meznya, 'Hail, Meznya! Senior Guide Espranza here. How may I help you?'
+[Tue Feb 19 16:40:34 2002] Oukuroka tells you, 'may I ask you a question?'
+[Tue Feb 19 16:40:44 2002] You told Oukuroka, 'sure'
+[Tue Feb 19 16:40:51 2002] Meznya tells you, 'i put in for a server transfer a couple weeks ago, and got that automated email sent to me, but no word after that'
+[Tue Feb 19 16:40:57 2002] Meznya tells you, 'no approx date or anything'
+[Tue Feb 19 16:40:58 2002] Oukuroka tells you, 'is there a GM event?   rumor abounds'
+[Tue Feb 19 16:41:02 2002] Lars Gutentag GMSAYS, 'zone'
+[Tue Feb 19 16:41:28 2002] You told Oukuroka, 'well, there may be... you'll just have to keep your ears and eyes open...'
+[Tue Feb 19 16:41:28 2002] Havic tells you, 'Good day to u Senior Guide Espranza will lirus be back on today?'
+[Tue Feb 19 16:41:37 2002] Oukuroka tells you, 'ok thanks'
+[Tue Feb 19 16:41:41 2002] Lars Gutentag GMSAYS, 'espranza'
+[Tue Feb 19 16:41:49 2002] Lars Gutentag GMSAYS, 'coem nerf dumidiot please'
+[Tue Feb 19 16:41:49 2002] You told Havic, 'Yes, Lirus is just off doing something and will return.'
+[Tue Feb 19 16:41:50 2002] You GMSAY, 'Yes?'
+[Tue Feb 19 16:41:55 2002] Lars Gutentag GMSAYS, 'in everfrost when ya get a chance'
+[Tue Feb 19 16:41:55 2002] You GMSAY, 'omw'
+[Tue Feb 19 16:42:02 2002] You GMSAY, 'after this pet'
+[Tue Feb 19 16:42:10 2002] Havic tells you, 'k thank u for your time 8)'
+[Tue Feb 19 16:42:14 2002] You told Havic, 'Sure thing'
+[Tue Feb 19 16:42:48 2002] You told Meznya, 'I think they save up transfers and then do them all at once; I don't know when you will be transferred, but I don't think it will be too terribly long.'
+[Tue Feb 19 16:42:50 2002] DELETING THIS PETITION
+[Tue Feb 19 16:42:50 2002] Dinthalion tells you, 'hi'
+[Tue Feb 19 16:42:58 2002] Meznya tells you, 'also another question'
+[Tue Feb 19 16:43:04 2002] You told Meznya, 'okay'
+[Tue Feb 19 16:43:06 2002] Players in EverQuest:
+[Tue Feb 19 16:43:06 2002] ---------------------------
+[Tue Feb 19 16:43:06 2002] [53 Pathfinder] Dinthalion (Wood Elf) <Temple of Dawn> ZONE: karnor (USER PID FU5X7JM)
+[Tue Feb 19 16:43:06 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:43:13 2002] Meznya tells you, 'two things'
+[Tue Feb 19 16:43:14 2002] You told Dinthalion, 'Aren't you a red dragon?'
+[Tue Feb 19 16:43:16 2002] Meznya tells you, 'first of all'
+[Tue Feb 19 16:43:16 2002] Dinthalion tells you, 'i just wanted to say ty for the DL thing the other day  i had fun'
+[Tue Feb 19 16:43:22 2002] Meznya tells you, 'i have used 2 different cards on this account'
+[Tue Feb 19 16:43:28 2002] Meznya tells you, 'so i just entered one of them'
+[Tue Feb 19 16:43:32 2002] Meznya tells you, 'on the transfer form'
+[Tue Feb 19 16:43:35 2002] You told Dinthalion, 'it was fun for us, too :)'
+[Tue Feb 19 16:43:41 2002] Dinthalion tells you, 'funny  you remembered'
+[Tue Feb 19 16:43:44 2002] Meznya tells you, 'secondly, this account is currently canceled, does that effect anything?'
+[Tue Feb 19 16:43:50 2002] You told Dinthalion, 'heh how could I forget... :)'
+[Tue Feb 19 16:44:06 2002] Dinthalion tells you, 'i looked human to myself tho'
+[Tue Feb 19 16:44:25 2002] You told Dinthalion, 'I changed you to something neutral, I think barbarian, almost immediately'
+[Tue Feb 19 16:44:45 2002] Dinthalion tells you, 'bah  i wanted a screenshot'
+[Tue Feb 19 16:44:56 2002] You told Meznya, 'Okay, I think transfers are billed to the account...'
+[Tue Feb 19 16:45:40 2002] You told Meznya, 'might have that wrong - it may have changed. but canceled just means you will have to set up payment again when your current billing term runs out.'
+[Tue Feb 19 16:45:45 2002] You told Dinthalion, '/shudder'
+[Tue Feb 19 16:45:47 2002] Meznya tells you, 'yeah'
+[Tue Feb 19 16:45:56 2002] You told Dinthalion, 'That's ALL I'd need :)'
+[Tue Feb 19 16:46:06 2002] Dinthalion tells you, 'lol'
+[Tue Feb 19 16:46:43 2002] You told Dinthalion, 'of course, my first thought was, why is the OTHER red dragon here...'
+[Tue Feb 19 16:47:20 2002] Players in EverQuest:
+[Tue Feb 19 16:47:20 2002] ---------------------------
+[Tue Feb 19 16:47:20 2002] [2 Rogue] Dumidiot (Barbarian) ZONE: everfrost (USER PID GWDXP9G)
+[Tue Feb 19 16:47:20 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:47:25 2002] You GMSAY, 'zone'
+[Tue Feb 19 16:47:33 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 16:48:07 2002] Ghola says out of character, 'Anything going on yet?'
+[Tue Feb 19 16:48:08 2002] You have entered Everfrost.
+[Tue Feb 19 16:48:12 2002] Finadora auctions, 'wtb  cloak of icebear'
+[Tue Feb 19 16:48:14 2002] It begins to snow.
+[Tue Feb 19 16:48:19 2002] Tourag says out of character, 'gnolls leaving'
+[Tue Feb 19 16:48:22 2002] Dinthalion tells you, 'but i still had fun  i wanted to kill the iksar instead'
+[Tue Feb 19 16:48:24 2002] a gnoll guard says 'You have trespassed long enough on Sabertooth land! '
+[Tue Feb 19 16:48:24 2002] a gnoll guard says 'Barbarians have no place in our realm!'
+[Tue Feb 19 16:48:24 2002] a scrawny gnoll guard says 'You have trespassed long enough on Sabertooth land! '
+[Tue Feb 19 16:48:24 2002] a scrawny gnoll guard says 'Barbarians like you are better left dead than alive.'
+[Tue Feb 19 16:48:25 2002] Tourag says out of character, 'few at a time'
+[Tue Feb 19 16:48:26 2002] Strondall says out of character, 'I am heading to find out'
+[Tue Feb 19 16:48:31 2002] You told Dinthalion, 'naughty!'
+[Tue Feb 19 16:48:34 2002] a scrawny gnoll guard says 'You have trespassed long enough on Sabertooth land! '
+[Tue Feb 19 16:48:34 2002] a scrawny gnoll guard says 'It's Barbarians like you who have ruined your own lands. You'll not ruin mine!'
+[Tue Feb 19 16:48:34 2002] a scrawny gnoll guard says 'You have trespassed long enough on Sabertooth land! '
+[Tue Feb 19 16:48:34 2002] a scrawny gnoll guard says 'Barbarians like you are better left dead than alive.'
+[Tue Feb 19 16:48:35 2002] Gedin says, 'why are gnoll guards coming'
+[Tue Feb 19 16:48:36 2002] a gnoll guard says 'You have trespassed long enough on Sabertooth land! '
+[Tue Feb 19 16:48:36 2002] a gnoll guard says 'It's Barbarians like you who have ruined your own lands. You'll not ruin mine!'
+[Tue Feb 19 16:48:42 2002] Espranza is now Invisible.
+[Tue Feb 19 16:48:42 2002] You are now anonymous.
+[Tue Feb 19 16:48:47 2002] a gnoll guard says 'You have trespassed long enough on Sabertooth land! '
+[Tue Feb 19 16:48:47 2002] a gnoll guard says 'Barbarians like you are better left dead than alive.'
+[Tue Feb 19 16:48:49 2002] a gnoll guard says 'You have trespassed long enough on Sabertooth land! '
+[Tue Feb 19 16:48:49 2002] a gnoll guard says 'Barbarians have no place in our realm!'
+[Tue Feb 19 16:48:54 2002] You GMSAY, 'agh, now they think I am doing an event in EF'
+[Tue Feb 19 16:49:02 2002] Lars Gutentag GMSAYS, 'doh sorry esp'
+[Tue Feb 19 16:49:11 2002] You GMSAY, 'Dumidiot has a corpse, nerf his name anyway?'
+[Tue Feb 19 16:49:23 2002] Woldon auctions, 'WTS full crustation armore 1500pp STP'
+[Tue Feb 19 16:49:29 2002] Lars Gutentag GMSAYS, 'no, summon him to his corpse'
+[Tue Feb 19 16:49:33 2002] The spirit leaves you.
+[Tue Feb 19 16:49:33 2002] Lars Gutentag GMSAYS, 'let him loot it then change it'
+[Tue Feb 19 16:49:34 2002] You GMSAY, 'okay'
+[Tue Feb 19 16:49:38 2002] You feel the spirit of Norrath enter you.
+[Tue Feb 19 16:49:41 2002] Espranza is now Invisible.
+[Tue Feb 19 16:49:41 2002] You are now anonymous.
+[Tue Feb 19 16:49:49 2002] Searching zones for corpse of that name....
+[Tue Feb 19 16:49:50 2002] Corpse: Dumidiot's corpse2 in zone: everfrost
+[Tue Feb 19 16:49:56 2002] Bunyip says out of character, 'Tanks , sharpen your weapons,   air force  prepare levitation    ,   navy    get out of that other mans bunk      LOLOL'
+[Tue Feb 19 16:49:59 2002] You GMSAY, 'he has three corpses...'
+[Tue Feb 19 16:50:01 2002] You GMSAY, 'sigh'
+[Tue Feb 19 16:50:05 2002] Lars Gutentag GMSAYS, 'ugh'
+[Tue Feb 19 16:50:06 2002] Players in EverQuest:
+[Tue Feb 19 16:50:06 2002] ---------------------------
+[Tue Feb 19 16:50:06 2002] [2 Rogue] Dumidiot (Barbarian) ZONE: everfrost (USER PID GWDXP9G)
+[Tue Feb 19 16:50:06 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:50:13 2002] Teleporting to dumidiot.
+[Tue Feb 19 16:50:29 2002] Tourag says out of character, 'so many gnolls!'
+[Tue Feb 19 16:50:30 2002] Teleporting to dumidiot.
+[Tue Feb 19 16:50:38 2002] Strondall says out of character, 'LOTS OF GNOLLS'
+[Tue Feb 19 16:50:47 2002] Ghola says out of character, 'Happens sometimes'
+[Tue Feb 19 16:50:54 2002] Ghola says out of character, 'Are they heading for Halas?'
+[Tue Feb 19 16:50:56 2002] Fudce shouts, 'any lvl 21 thouyrg 27 wanna kill these icy orcs with me?'
+[Tue Feb 19 16:51:01 2002] You told Dumidiot, 'Hail! Senior Guide Espranza here. The GM has asked that I change your name, as it violates the naming policy.'
+[Tue Feb 19 16:51:21 2002] Woldon auctions, 'WTS full crustation armore ST with offers plz'
+[Tue Feb 19 16:51:28 2002] Players in EverQuest:
+[Tue Feb 19 16:51:28 2002] ---------------------------
+[Tue Feb 19 16:51:28 2002] [2 Rogue] Dumidiot (Barbarian) ZONE: everfrost (USER PID GWDXP9G)
+[Tue Feb 19 16:51:28 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:51:31 2002] Teleporting to dumidiot.
+[Tue Feb 19 16:51:38 2002] Rinben says out of character, 'what exactly is going on in bb guys?'
+[Tue Feb 19 16:51:39 2002] Teleporting to dumidiot.
+[Tue Feb 19 16:51:42 2002] Players in EverQuest:
+[Tue Feb 19 16:51:42 2002] ---------------------------
+[Tue Feb 19 16:51:42 2002] [2 Rogue] Dumidiot (Barbarian) ZONE: everfrost (USER PID GWDXP9G)
+[Tue Feb 19 16:51:42 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:51:44 2002] Players on EverQuest:
+[Tue Feb 19 16:51:44 2002] ---------------------------
+[Tue Feb 19 16:51:44 2002] [2 Rogue] Dumidiot (Barbarian)
+[Tue Feb 19 16:51:44 2002] There is 1 player in Everfrost Peaks.
+[Tue Feb 19 16:51:50 2002] Teleporting to dumidiot.
+[Tue Feb 19 16:51:54 2002] Katklaus shouts, 'could I pls get a SOW at the ramp for a long run?'
+[Tue Feb 19 16:51:54 2002] Dumidiot has been slain by a gnoll guard!
+[Tue Feb 19 16:51:58 2002] a gnoll guard says 'You have trespassed long enough on Sabertooth land! '
+[Tue Feb 19 16:51:58 2002] a gnoll guard says 'It's Barbarians like you who have ruined your own lands. You'll not ruin mine!'
+[Tue Feb 19 16:52:04 2002] Tourag says out of character, 'lots of guards'
+[Tue Feb 19 16:52:09 2002] You GMSAY, 'Dumidiot keeps getting slain by gnolls'
+[Tue Feb 19 16:52:18 2002] Woldon shouts, 'RAID lol'
+[Tue Feb 19 16:52:21 2002] Strondall says out of character, 'so far lots of gnolls coming out, great XP for the young come on down'
+[Tue Feb 19 16:52:21 2002] You GMSAY, 'I'll just have to do it when you finish the event'
+[Tue Feb 19 16:52:24 2002] Boogaloo says out of character, 'dropping anything good?'
+[Tue Feb 19 16:52:25 2002] Kommer shouts, 'how much fer boots and bracers fer the crustacian'
+[Tue Feb 19 16:52:32 2002] Lars Gutentag GMSAYS, 'ok np sorry for making it such a hassle on ya('
+[Tue Feb 19 16:52:38 2002] You GMSAY, 'no prob'
+[Tue Feb 19 16:52:43 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 16:52:43 2002] USER TEXT: needing to talk to lirus about a lost quest item from earlier today
+[Tue Feb 19 16:52:44 2002] Players in EverQuest:
+[Tue Feb 19 16:52:44 2002] ---------------------------
+[Tue Feb 19 16:52:44 2002] [59 Revenant] Bussa (Dark Elf) <Thunderwalkers> ZONE: maiden (USER PID HTW6HX7)
+[Tue Feb 19 16:52:44 2002] There is 1 player in EverQuest.
+[Tue Feb 19 16:52:51 2002] Woldon shouts, 'you give offer'
+[Tue Feb 19 16:52:54 2002] You GMSAY, 'zone'
+[Tue Feb 19 16:52:57 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 16:53:16 2002] You have entered Sunset Home.
+[Tue Feb 19 16:53:31 2002] You say to your guild, 'THIS is the sort of events they want you to run?'
+[Tue Feb 19 16:53:40 2002] You say to your guild, 'continually kill newbies?'
+[Tue Feb 19 16:54:29 2002] You say to your guild, 'high level players should have this fun. spawn hordes of coterie legionaires in ME'
+[Tue Feb 19 16:55:03 2002] Espranza is now Visible.
+[Tue Feb 19 16:55:06 2002] You are no longer anonymous.
+[Tue Feb 19 16:55:08 2002] Players in EverQuest:
+[Tue Feb 19 16:55:08 2002] ---------------------------
+[Tue Feb 19 16:55:08 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Tue Feb 19 16:55:08 2002] * Guide *[51 Pathfinder] Correllan (Human) <Keepers of Dreams> ZONE: oot (USER PID AUUWKPN)
+[Tue Feb 19 16:55:08 2002] There are 2 players in EverQuest.
+[Tue Feb 19 16:55:56 2002] You told Bussa, 'Hail, Bussa! Senior Guide Espranza here. What item was lost, and how?'
+[Tue Feb 19 16:55:59 2002] USER TEXT: needing to talk to lirus about a lost quest item from earlier today
+[Tue Feb 19 16:56:26 2002] Bussa tells you, 'turned in a greater dragon head to the wrong mob, I talked toa  GM earlier who said if i spoke with Lirus he could reimburse the item'
+[Tue Feb 19 16:56:47 2002] You told Bussa, 'whom did you talk to?'
+[Tue Feb 19 16:56:54 2002] Bussa tells you, 'started with an N'
+[Tue Feb 19 16:56:59 2002] You told Bussa, 'Neroli?'
+[Tue Feb 19 16:57:02 2002] Bussa tells you, 'Neril , or something like that , rofl..'
+[Tue Feb 19 16:57:07 2002] Bussa tells you, 'yea thats it =)'
+[Tue Feb 19 16:58:10 2002] You GMSAY, 'Lirus, this guy said he turned in a quest item to the wrong NPC... apparently Neroli said you would reimburse him for it... before I crush his hopes beneath my hairy heel, is this something you would do?'
+[Tue Feb 19 16:58:32 2002] Lars Gutentag GMSAYS, 'i dunno why neroli would say that....'
+[Tue Feb 19 16:58:39 2002] You GMSAY, 'me neither, but I intend to ask'
+[Tue Feb 19 16:58:47 2002] Lars Gutentag GMSAYS, 'no i cannot help with that('
+[Tue Feb 19 16:58:48 2002] Olovf GMSAYS, 'Ok off to the next server on my list, take care guys!'
+[Tue Feb 19 16:58:53 2002] Lars Gutentag GMSAYS, 'laters'
+[Tue Feb 19 16:58:55 2002] You GMSAY, 'later, Olovf!'
+[Tue Feb 19 16:59:04 2002] Lars Gutentag GMSAYS, 'laters'
+[Tue Feb 19 16:59:07 2002] Lars Gutentag GMSAYS, 'oops'
+[Tue Feb 19 16:59:29 2002] You told Bussa, 'Neroli misinformed you, that is not something we can reimburse for. I'm sorry/'
+[Tue Feb 19 16:59:39 2002] Espranza regards you indifferently -- looks like quite a gamble.
+[Tue Feb 19 16:59:55 2002] DELETING THIS PETITION
+[Tue Feb 19 17:00:00 2002] Bussa tells you, 'i have a friend who did the same with the lodizal piece for lodizal sheild and got reimbursed'
+[Tue Feb 19 17:01:15 2002] You told Bussa, 'I can't speak for that, because I wasn't involved; if you have the time, you could look at the reimbursal policy as posted on www.everquestlive.com, which tells what things we may and may not reimburse for. Handing quest items to the wrong NPC'
+[Tue Feb 19 17:01:27 2002] You told Bussa, 'is one of the things listed that we may not reimburse.'
+[Tue Feb 19 17:01:30 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:01:31 2002] USER TEXT: Lost Item - Silver Rose Engagement Ring
+[Tue Feb 19 17:01:31 2002] Players in EverQuest:
+[Tue Feb 19 17:01:31 2002] ---------------------------
+[Tue Feb 19 17:01:31 2002] [14 Warrior] Ghorloch (Iksar) ZONE: cabeast (USER PID H3RFLC8)
+[Tue Feb 19 17:01:31 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:01:47 2002] Bussa tells you, 'i'm not sure if it was the wrong NPC , thats the thing'
+[Tue Feb 19 17:01:48 2002] You told Ghorloch, 'Hail, Ghorloch! Senior Guide Espranza here. How was the ring lost?'
+[Tue Feb 19 17:01:57 2002] Bussa tells you, 'in fact , i' pretty positive it was the right mob , he just didnt say anything'
+[Tue Feb 19 17:02:10 2002] Lars Gutentag GMSAYS, 'zone'
+[Tue Feb 19 17:02:12 2002] Bussa tells you, 'then i gave him a diff item, to see if he'd say anything , in fact he said nothign'
+[Tue Feb 19 17:02:16 2002] You told Bussa, 'what was your faction with that NPC?'
+[Tue Feb 19 17:02:28 2002] Bussa tells you, 'more than enough , warmly , at the least i believe'
+[Tue Feb 19 17:02:45 2002] Ghorloch tells you, 'Well I had it at the bank in a pouch I found and today when I went to get it, it wasn't there ... I also notice that the pouch was missing.'
+[Tue Feb 19 17:02:47 2002] You told Bussa, 'Was this a Kael NPC?'
+[Tue Feb 19 17:02:51 2002] Bussa tells you, 'aye'
+[Tue Feb 19 17:02:55 2002] Bussa tells you, 'Gleed Dragonhunter'
+[Tue Feb 19 17:03:18 2002] You told Bussa, 'I believe most of those NPCs require ally faction (I could be wrong, but this is what I've understood).'
+[Tue Feb 19 17:03:29 2002] Bussa tells you, 'well ,this quest works a certain way'
+[Tue Feb 19 17:03:49 2002] Bussa tells you, 'if you are warmly , or better...you get a frostbringer , if dubious or under warmly , you get a cloak of the maelstrom'
+[Tue Feb 19 17:03:52 2002] You told Ghorloch, 'What sort of pouch?'
+[Tue Feb 19 17:04:07 2002] Bussa tells you, 'so either way i shouldve gotten something , the ally thing is for the most part for quest armor'
+[Tue Feb 19 17:04:07 2002] You told Bussa, 'ew, everyone wants a 25# cloak..'
+[Tue Feb 19 17:04:24 2002] Bussa tells you, 'a what? lol'
+[Tue Feb 19 17:04:32 2002] You told Bussa, 'the cloak...'
+[Tue Feb 19 17:04:35 2002] Ghorloch tells you, 'Had a name that started with q, I don't remember it all had 4 or 6 slots ...'
+[Tue Feb 19 17:04:38 2002] Bussa tells you, 'oh'
+[Tue Feb 19 17:04:47 2002] Bussa tells you, 'people actually want those? heh'
+[Tue Feb 19 17:04:49 2002] You told Ghorloch, 'how long have you had the bag?'
+[Tue Feb 19 17:05:01 2002] Bussa tells you, 'i thought it wasnt too hot...i was more looking for the frsotbringer =)'
+[Tue Feb 19 17:05:14 2002] You told Bussa, 'yeah, well let me ask Lirus about this again'
+[Tue Feb 19 17:05:15 2002] Ghorloch tells you, 'Maybe 2 days ... not exactly sure how long'
+[Tue Feb 19 17:05:15 2002] Espranza saved.
+[Tue Feb 19 17:05:19 2002] Bussa tells you, 'alright'
+[Tue Feb 19 17:05:31 2002] You told Ghorloch, 'where did you get the bag from? Was it a summoned bag?'
+[Tue Feb 19 17:05:50 2002] Ghorloch tells you, 'Found it in the newbie area in Field of Bones'
+[Tue Feb 19 17:06:04 2002] Ghorloch tells you, 'Right next to path'
+[Tue Feb 19 17:06:20 2002] It begins to rain.
+[Tue Feb 19 17:06:51 2002] You GMSAY, 'okay, the person now thinks he handed the item to the correct NPC, but the NPC incorrectly didn't give him a reward.'
+[Tue Feb 19 17:07:18 2002] You GMSAY, 'second question - anyone know of a bag which has a name starting with 'Q' and may be a no rent bag?'
+[Tue Feb 19 17:07:28 2002] Players in EverQuest:
+[Tue Feb 19 17:07:28 2002] ---------------------------
+[Tue Feb 19 17:07:28 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Tue Feb 19 17:07:28 2002] * Guide *[51 Pathfinder] Correllan (Human) <Keepers of Dreams> ZONE: oot (USER PID AUUWKPN)
+[Tue Feb 19 17:07:28 2002] There are 2 players in EverQuest.
+[Tue Feb 19 17:07:45 2002] Correllan GMSAYS, 'okay guys....i think i have had enough of the argueing tonight...been a long night and long petitions....i think it is time for me to log and get some sleep for owrk...lol....'
+[Tue Feb 19 17:07:51 2002] Correllan GMSAYS, 'no sorry i do't esp'
+[Tue Feb 19 17:07:56 2002] You GMSAY, 'okay, night Corr!'
+[Tue Feb 19 17:07:59 2002] Correllan GMSAYS, 'opps don't'
+[Tue Feb 19 17:08:40 2002] You told Ghorloch, 'Well, if it was a summoned bag, it would disappear after you had logged out for 30 minutes... taking everything in it, with it...'
+[Tue Feb 19 17:08:56 2002] You told Bussa, 'Could you repetition? I'll pass it up to Lirus.'
+[Tue Feb 19 17:09:22 2002] Correllan GMSAYS, 'i hate to leave ya guys like this but getting tired and irratible...pets are getting kinda argumentative to the point of ridiculous now....see you all later'
+[Tue Feb 19 17:09:31 2002] Lars Gutentag GMSAYS, 'np take it easy correllan'
+[Tue Feb 19 17:09:36 2002] Bussa tells you, 'sure'
+[Tue Feb 19 17:09:41 2002] Bussa tells you, 'say the same thing?'
+[Tue Feb 19 17:09:49 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Feb 19 17:09:49 2002] GM TEXT: Espranza: Says the ring was stored in a pack he found on the ground in FoB which had a name starting with 'Q'...
+[Tue Feb 19 17:09:50 2002] STATUS UPGRADED TO URGENT
+[Tue Feb 19 17:09:50 2002] STATUS UPGRADED TO EMERGENCY
+[Tue Feb 19 17:09:54 2002] Hexian GMSAYS, 'Hey all'
+[Tue Feb 19 17:10:03 2002] You GMSAY, 'esc Ghorloch, lost a ring in a bag of mystery'
+[Tue Feb 19 17:10:06 2002] CHECKING IN
+[Tue Feb 19 17:10:11 2002] You GMSAY, 'heya Hex'
+[Tue Feb 19 17:10:18 2002] You GMSAY, 'for once we meet on MT :)'
+[Tue Feb 19 17:10:28 2002] Hexian GMSAYS, 'LOL yeah!'
+[Tue Feb 19 17:10:36 2002] You told Bussa, 'put in about the quest NPC not giving you the reward and such.'
+[Tue Feb 19 17:10:38 2002] Lars Gutentag GMSAYS, 'hi hexian!'
+[Tue Feb 19 17:10:46 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:10:46 2002] USER TEXT: Hail all GM's!
+[Tue Feb 19 17:10:47 2002] Players in EverQuest:
+[Tue Feb 19 17:10:47 2002] ---------------------------
+[Tue Feb 19 17:10:47 2002] [19 Monk] Ktiz (Iksar) <Hand of the Shadows> ZONE: lakeofillomen (USER PID CZMAD6Z)
+[Tue Feb 19 17:10:47 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:10:53 2002] Bussa tells you, 'petition trouble turning in an item to kael quest NPC , item lost'
+[Tue Feb 19 17:10:56 2002] Bussa tells you, 'that work?'
+[Tue Feb 19 17:11:14 2002] You told Bussa, 'well, it's best to be fairly specific, so when Lirus gets the petition he knows what has happened.'
+[Tue Feb 19 17:11:29 2002] You told Bussa, 'so mention the item, the NPC, the reward you expected, etc.'
+[Tue Feb 19 17:11:33 2002] Bussa tells you, 'already sent , doh'
+[Tue Feb 19 17:11:49 2002] You told Bussa, 'okay, no problem, I'll amend it...'
+[Tue Feb 19 17:11:51 2002] Bussa tells you, 'Neroli or whoever , said they left a msg to Lirus about it....so he should know some of the details'
+[Tue Feb 19 17:12:19 2002] You told Bussa, 'I don't know. It's always best to provide as much info as possible, Lirus gets hundreds of petitions a day.'
+[Tue Feb 19 17:12:25 2002] Ghorloch tells you, 'Was it you I was just speaking to?'
+[Tue Feb 19 17:12:31 2002] You told Ghorloch, 'yup'
+[Tue Feb 19 17:12:44 2002] Ghorloch tells you, 'Good ... got disconected'
+[Tue Feb 19 17:12:49 2002] You told Ktiz, 'Hail, Ktiz! Senior Guide Espranza here. How may I help you?'
+[Tue Feb 19 17:12:50 2002] Hexian GMSAYS, 'I'm so angry about my internet thing, I really wanted to finish my event with the Love is in the Air characters.'
+[Tue Feb 19 17:12:51 2002] Ktiz tells you, 'whewre group?'
+[Tue Feb 19 17:12:55 2002] Ktiz tells you, 'oops'
+[Tue Feb 19 17:12:56 2002] You told Ghorloch, 'I passed your petition along to the GM.'
+[Tue Feb 19 17:13:08 2002] Ghorloch tells you, 'Thank you ....'
+[Tue Feb 19 17:13:19 2002] Bussa tells you, 'amended yet?'
+[Tue Feb 19 17:13:21 2002] You GMSAY, 'oh well ('
+[Tue Feb 19 17:13:31 2002] You told Bussa, 'not yet, working on another petition...'
+[Tue Feb 19 17:13:41 2002] You told Bussa, 'done three since we've been talking...'
+[Tue Feb 19 17:13:52 2002] Ghorloch tells you, 'It wasn't a really expensive item ... it's just that I got it for someone as a gift and when I went to get it for her it was gone!'
+[Tue Feb 19 17:13:55 2002] You told Bussa, 'will amend and escalate yours when this is done though'
+[Tue Feb 19 17:13:58 2002] Ktiz tells you, 'can you say somethin real quifck'
+[Tue Feb 19 17:14:32 2002] You told Ghorloch, 'Well, if the bag was a summoned bag, then there's nothing we can do. But I have no way of knowing, so I have sent it to the GM.'
+[Tue Feb 19 17:14:38 2002] You told Ktiz, 'sure'
+[Tue Feb 19 17:14:38 2002] Hexian GMSAYS, '=P, it was so funny, I went around like I was supposed to, and handed out candy and flowers. and rambled on about love.... and someone asked me if i had a love.....'
+[Tue Feb 19 17:14:50 2002] Ktiz tells you, 'well i got a problem....i keep getting booted to desk top while in a fight and i die...i was gonna ask for a rez but i got tired of waiting and decided to get it'
+[Tue Feb 19 17:15:08 2002] Hexian GMSAYS, 'so i made up some story about , long ago i did, but she ventured to a land far away and was never seen again.'
+[Tue Feb 19 17:15:24 2002] Espranza saved.
+[Tue Feb 19 17:15:26 2002] You GMSAY, 'nice!'
+[Tue Feb 19 17:15:29 2002] Ghorloch tells you, 'Thanks I really just want to know what happened ... if I screwed up ... well I'm new so that's kool ... but if I could get it back that would be great! Appreciate you time and effort'
+[Tue Feb 19 17:15:38 2002] Hexian GMSAYS, 'then like 15 people thought it was some in-game quest that they were supposed to find my love for me... LOL'
+[Tue Feb 19 17:15:41 2002] You told Ghorloch, 'good luck!'
+[Tue Feb 19 17:15:53 2002] You GMSAY, 'heh'
+[Tue Feb 19 17:15:54 2002] Ghorloch tells you, 'Thanks'
+[Tue Feb 19 17:16:09 2002] Hexian GMSAYS, 'so i wanted to come online friday and get Lirus to approve a female character to pretend to be my long lost love... It would have been great!'
+[Tue Feb 19 17:16:18 2002] Lars Gutentag GMSAYS, 'hehe'
+[Tue Feb 19 17:16:26 2002] Lars Gutentag GMSAYS, 'we can do it today maybe)'
+[Tue Feb 19 17:16:28 2002] You told Ktiz, 'We can't control crashes, alas... which is why we cannot rez for them.'
+[Tue Feb 19 17:16:42 2002] DELETING THIS PETITION
+[Tue Feb 19 17:16:44 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:16:45 2002] USER TEXT: I died in Dawnshroud, went LD while dying, when I log back on my corpse is no where to be found
+[Tue Feb 19 17:16:45 2002] Players in EverQuest:
+[Tue Feb 19 17:16:45 2002] ---------------------------
+[Tue Feb 19 17:16:45 2002] There are no players in EverQuest that match those who filters.
+[Tue Feb 19 17:16:46 2002] Ktiz tells you, 'well you could fix that bug'
+[Tue Feb 19 17:16:56 2002] Ktiz tells you, 'i hear it is a bug from luclin expansion'
+[Tue Feb 19 17:17:06 2002] Ktiz tells you, 'lots of people complain about it'
+[Tue Feb 19 17:17:09 2002] Hexian GMSAYS, 'opps. I deleted my character as soon as i got online... I was supposed to do it friday, but i couldn't get online to do it.'
+[Tue Feb 19 17:17:10 2002] You GMSAY, 'brb, gonna fix that bug where you crash in the middle of fights.'
+[Tue Feb 19 17:17:12 2002] Bussa tells you, 'went LD'
+[Tue Feb 19 17:17:36 2002] You GMSAY, 'now that someone has asked..'
+[Tue Feb 19 17:18:04 2002] Hexian GMSAYS, 'is Dalnir in Luclin?'
+[Tue Feb 19 17:18:08 2002] You GMSAY, 'no'
+[Tue Feb 19 17:18:11 2002] You GMSAY, 'Kunark'
+[Tue Feb 19 17:18:15 2002] Hexian GMSAYS, 'cool'
+[Tue Feb 19 17:18:36 2002] You told Ktiz, 'I will post it as an issue of concern.'
+[Tue Feb 19 17:18:41 2002] Ktiz tells you, 'thank you'
+[Tue Feb 19 17:19:06 2002] You GMSAY, '<note bug> People crash in the middle of fights since Luclin. Was asked to pass that along...'
+[Tue Feb 19 17:19:21 2002] Players in EverQuest:
+[Tue Feb 19 17:19:21 2002] ---------------------------
+[Tue Feb 19 17:19:21 2002] There are no players in EverQuest that match those who filters.
+[Tue Feb 19 17:19:28 2002] You GMSAY, 'Calzam unavail x1'
+[Tue Feb 19 17:19:33 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Feb 19 17:19:33 2002] CHECKING IN
+[Tue Feb 19 17:19:52 2002] Players in EverQuest:
+[Tue Feb 19 17:19:52 2002] ---------------------------
+[Tue Feb 19 17:19:52 2002] [59 Revenant] Bussa (Dark Elf) <Thunderwalkers> ZONE: akheva (USER PID HTW6HX7)
+[Tue Feb 19 17:19:52 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:19:56 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:19:58 2002] USER TEXT: trouble turning in an item to kael quest NPC , item lost
+[Tue Feb 19 17:19:58 2002] Players in EverQuest:
+[Tue Feb 19 17:19:58 2002] ---------------------------
+[Tue Feb 19 17:19:58 2002] [59 Revenant] Bussa (Dark Elf) <Thunderwalkers> ZONE: akheva (USER PID HTW6HX7)
+[Tue Feb 19 17:19:58 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:20:34 2002] Seekko tells you, 'i know i am not supposed to send a direct tell but i petitioned and didnt get a response and i have been stuck here for over ten mintues now, please  help me )8'
+[Tue Feb 19 17:20:42 2002] Hexian GMSAYS, 'ZONING.. See you all on the otherside.'
+[Tue Feb 19 17:21:05 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Feb 19 17:21:05 2002] GM TEXT: Espranza: Turned in a greater dragon head to Gleed Dragonhunter in Kael but got no reward.
+[Tue Feb 19 17:21:26 2002] You GMSAY, 'esc Bussa - turned in a quest item, got no reward.'
+[Tue Feb 19 17:21:31 2002] CHECKING IN
+[Tue Feb 19 17:21:34 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:21:35 2002] USER TEXT: trouble turning in an item to kael quest NPC , item lost
+[Tue Feb 19 17:21:35 2002] Players in EverQuest:
+[Tue Feb 19 17:21:35 2002] ---------------------------
+[Tue Feb 19 17:21:35 2002] [59 Revenant] Bussa (Dark Elf) <Thunderwalkers> ZONE: akheva (USER PID HTW6HX7)
+[Tue Feb 19 17:21:35 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:21:36 2002] STATUS UPGRADED TO URGENT
+[Tue Feb 19 17:21:36 2002] STATUS UPGRADED TO EMERGENCY
+[Tue Feb 19 17:21:37 2002] This petition is already at highest urgency.
+[Tue Feb 19 17:21:38 2002] CHECKING IN
+[Tue Feb 19 17:21:54 2002] You told Bussa, 'okay, escalated...'
+[Tue Feb 19 17:22:00 2002] Players in EverQuest:
+[Tue Feb 19 17:22:00 2002] ---------------------------
+[Tue Feb 19 17:22:00 2002] [30 Rogue] Seekko (Halfling) ZONE: sseru (USER PID CXN36X3)
+[Tue Feb 19 17:22:00 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:22:03 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:22:03 2002] USER TEXT: i am stuck in the water in a fountain thing in sanctus servu
+[Tue Feb 19 17:22:04 2002] Players in EverQuest:
+[Tue Feb 19 17:22:04 2002] ---------------------------
+[Tue Feb 19 17:22:04 2002] [30 Rogue] Seekko (Halfling) ZONE: sseru (USER PID CXN36X3)
+[Tue Feb 19 17:22:04 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:22:16 2002] Bussa tells you, 'k'
+[Tue Feb 19 17:22:18 2002] Bussa tells you, 'repetition now?'
+[Tue Feb 19 17:22:23 2002] You told Seekko, 'I apologize, we've been very busy... one moment please'
+[Tue Feb 19 17:22:27 2002] You told Bussa, 'no, I amended it...'
+[Tue Feb 19 17:22:31 2002] Seekko tells you, 'ok thanks'
+[Tue Feb 19 17:22:31 2002] You GMSAY, 'zone'
+[Tue Feb 19 17:22:35 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 17:23:35 2002] You have entered Sanctus Seru.
+[Tue Feb 19 17:23:40 2002] Players on EverQuest:
+[Tue Feb 19 17:23:40 2002] ---------------------------
+[Tue Feb 19 17:23:40 2002] [60 Crusader] Tingling (Human) <Reviction>
+[Tue Feb 19 17:23:40 2002] [30 Rogue] Seekko (Halfling)
+[Tue Feb 19 17:23:40 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Tue Feb 19 17:23:40 2002] There are 3 players in Sanctus Seru.
+[Tue Feb 19 17:23:45 2002] Teleporting to seekko.
+[Tue Feb 19 17:24:06 2002] Centurion Praedico shouts 'The teeth, the claws, no eyes, no  eyes!  Somebody help me.. ahhhhhhhhh! '
+[Tue Feb 19 17:24:10 2002] <SYSTEMWIDE MESSAGE>: Lead_GM-Kriggan : Greetings Norrath!  What's that behind you?  No, not that, THAT!  Be wary during your travels today.  Things are not what they appear to be.  Safe hunting!
+[Tue Feb 19 17:24:16 2002] Summoning Seekko.
+[Tue Feb 19 17:24:23 2002] Seekko thanks Espranza heartily.
+[Tue Feb 19 17:24:36 2002] Tingling tells you, 'GM event in katta?'
+[Tue Feb 19 17:24:36 2002] You GMSAY, '<note> Summoned Seekko CXN36X3 from the pool in Sanctus Seru'
+[Tue Feb 19 17:24:43 2002] You told Tingling, 'dunno'
+[Tue Feb 19 17:24:48 2002] <SYSTEMWIDE MESSAGE>: Lead_GM-Kriggan : Greetings Norrath!  What's that behind you?  No, not that, THAT!  Be wary during your travels today.  Things are not what they appear to be.  Safe hunting!
+[Tue Feb 19 17:24:48 2002] Tingling tells you, 'bah Lol'
+[Tue Feb 19 17:24:59 2002] You GMSAY, '<note> Killing some stuck NPCs in Sseru'
+[Tue Feb 19 17:24:59 2002] Seekko tells you, 'thank you, that was really no fun in there )8, need to lower the sides '
+[Tue Feb 19 17:25:11 2002] You told Seekko, 'I can get out :) but I have SoW'
+[Tue Feb 19 17:25:25 2002] Hexian GMSAYS, 'there are two mobs just standing at entrance to Dalnir, they are not moveing at all. should i kill them? '
+[Tue Feb 19 17:25:25 2002] Killing #Centurion_Xaxi00.
+[Tue Feb 19 17:25:32 2002] Killing A_Vigilum_of_the_Eye16.
+[Tue Feb 19 17:25:50 2002] You GMSAY, 'aggro them, pull them away, and blur them'
+[Tue Feb 19 17:25:55 2002] Seekko tells you, 'yeah, those npc's have been stuck in there with me too hehe, so i guess i had some company'
+[Tue Feb 19 17:25:58 2002] Hexian GMSAYS, 'okay'
+[Tue Feb 19 17:26:08 2002] Tingling bonks Espranza on the head!
+[Tue Feb 19 17:26:13 2002] You GMSAY, 'Is Centurion_Xaxi a quest mob in SSeru?'
+[Tue Feb 19 17:26:23 2002] You GMSAY, 'had a '#' in front of the name'
+[Tue Feb 19 17:26:35 2002] Tingling says, 'Hail, Optio Manku'
+[Tue Feb 19 17:26:35 2002] Optio Manku says 'Greetings, Tingling. '
+[Tue Feb 19 17:26:36 2002] You GMSAY, 'which I didn't notice until I killed her'
+[Tue Feb 19 17:27:15 2002] The spirit leaves you.
+[Tue Feb 19 17:27:19 2002] You GMSAY, '<note gm> Killed a stuck NPC in sseru, Centurion Xaxi, which I suspect after the fact of being a quest mob due to a '#' in front of her name.'
+[Tue Feb 19 17:27:21 2002] You feel the spirit of Norrath enter you.
+[Tue Feb 19 17:27:35 2002] Horungen tells you, 'greetings, a guide told me yesterday to personally contact a senior or server gm for my matter... its about changing names immediately. will be waiting here for reply 8) have a nice evening'
+[Tue Feb 19 17:27:45 2002] DELETING THIS PETITION
+[Tue Feb 19 17:28:00 2002] You told Horungen, 'please petition and we will be with you ASAP'
+[Tue Feb 19 17:28:06 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:28:06 2002] USER TEXT: I just got on and I am dead
+[Tue Feb 19 17:28:07 2002] Players in EverQuest:
+[Tue Feb 19 17:28:07 2002] ---------------------------
+[Tue Feb 19 17:28:07 2002] [ANON (49 Necromancer)] Maltrix (Dark Elf) ZONE: neriakb (USER PID BV6Y635)
+[Tue Feb 19 17:28:07 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:28:13 2002] Horungen tells you, 'ok!'
+[Tue Feb 19 17:28:19 2002] You GMSAY, 'agh'
+[Tue Feb 19 17:28:33 2002] You GMSAY, 'I did not intend to spend the rest of the night here but the queue is getting worse and worse'
+[Tue Feb 19 17:28:51 2002] This spell does not work here.
+[Tue Feb 19 17:29:01 2002] Searching zones for corpse of that name....
+[Tue Feb 19 17:29:01 2002] Corpse: Maltrix's corpse0 in zone: neriakb
+[Tue Feb 19 17:29:20 2002] Hexian GMSAYS, 'after i mem blur them, they just return to the entrance, now another mob has joined them'
+[Tue Feb 19 17:29:21 2002] You told Maltrix, 'Hail, Maltrix! Senior Guide Espranza here. How may I help you?'
+[Tue Feb 19 17:29:36 2002] You GMSAY, 'what mobs are they?'
+[Tue Feb 19 17:29:50 2002] Maltrix tells you, 'I logged on and i was dead I have my corpse now but I dont see how i died'
+[Tue Feb 19 17:30:22 2002] You told Maltrix, 'does anyone else have access to your account?'
+[Tue Feb 19 17:30:30 2002] Maltrix tells you, 'No'
+[Tue Feb 19 17:30:31 2002] Hexian GMSAYS, 'kly follower, kly believer, coerced Teir`dal, and its pet.'
+[Tue Feb 19 17:30:41 2002] You GMSAY, 'those are common mobs, kill them'
+[Tue Feb 19 17:31:43 2002] You told Maltrix, 'I don't have any way of telling how you died... '
+[Tue Feb 19 17:31:43 2002] Maltrix tells you, 'Ill change my password but i wanted to know if I have grounds to get my exp back '
+[Tue Feb 19 17:31:45 2002] Players in EverQuest:
+[Tue Feb 19 17:31:45 2002] ---------------------------
+[Tue Feb 19 17:31:45 2002] [8 Necromancer] Unayyan (Dark Elf) ZONE: neriakb (USER PID B31LX08)
+[Tue Feb 19 17:31:45 2002] [60 Warlock] Lexxis (Dark Elf) <Thunderwalkers> ZONE: neriakb (USER PID GP46D8R)
+[Tue Feb 19 17:31:45 2002] [4 Necromancer] Kyrrael (Dark Elf) ZONE: neriakb (USER PID CU7Z03A)
+[Tue Feb 19 17:31:45 2002] [ANON (53 Reaver)] Entice (Dark Elf) ZONE: neriakb (USER PID HWPK968)
+[Tue Feb 19 17:31:45 2002] [ANON (34 Wizard)] Tcharch (Dark Elf) ZONE: neriakb (USER PID HPRNA70)
+[Tue Feb 19 17:31:45 2002] [ANON (49 Necromancer)] Maltrix (Dark Elf) ZONE: neriakb (USER PID BV6Y635)
+[Tue Feb 19 17:31:45 2002] There are 6 players in EverQuest.
+[Tue Feb 19 17:32:16 2002] You told Maltrix, 'Unless we can find out how you died, I can't rez for it...'
+[Tue Feb 19 17:32:40 2002] Maltrix tells you, 'Hmmm'
+[Tue Feb 19 17:32:44 2002] DELETING THIS PETITION
+[Tue Feb 19 17:32:46 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:32:47 2002] USER TEXT: is there any way to get a character back that was accidently Deleted?
+[Tue Feb 19 17:32:47 2002] Players in EverQuest:
+[Tue Feb 19 17:32:47 2002] ---------------------------
+[Tue Feb 19 17:32:47 2002] [1 Cleric] Kelandar (Human) ZONE: freportn (USER PID ESDMR2F)
+[Tue Feb 19 17:32:47 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:33:15 2002] Hexian GMSAYS, '<note kill>Killed a kly follower, and a kly believer in Dalnir, they would not move away from entrance to warslikswood. Tried pulling, but they ran back to entrance after I memblured them.'
+[Tue Feb 19 17:33:24 2002] Lars Gutentag GMSAYS, 'doing an event in ww now i think'
+[Tue Feb 19 17:33:33 2002] You GMSAY, 'oh cool'
+[Tue Feb 19 17:33:42 2002] Espranza saved.
+[Tue Feb 19 17:33:44 2002] Players in EverQuest:
+[Tue Feb 19 17:33:44 2002] ---------------------------
+[Tue Feb 19 17:33:44 2002] There are no players in EverQuest that match those who filters.
+[Tue Feb 19 17:33:49 2002] You GMSAY, 'nobody in WW...'
+[Tue Feb 19 17:35:14 2002] You told Kelandar, 'Hail! Senior Guide Espranza here. Which character was deleted, and how did it happen?'
+[Tue Feb 19 17:35:38 2002] Kelandar tells you, 'My Caracter Cubert, Gnome Cleric, it was my stupid mistake, lol'
+[Tue Feb 19 17:35:49 2002] Hexian GMSAYS, 'ZONING.. See you all on the otherside.'
+[Tue Feb 19 17:35:53 2002] Clunker GMSAYS, 'zone'
+[Tue Feb 19 17:36:09 2002] Kelandar tells you, 'i was deleting some of my lower level alts, and did him on accident =( but, its ok now, ill just use this Human one'
+[Tue Feb 19 17:36:33 2002] You told Kelandar, 'you don't care if he is restored?'
+[Tue Feb 19 17:36:48 2002] Kelandar tells you, 'oh! if you could then i would be glad for it'
+[Tue Feb 19 17:36:54 2002] Kelandar tells you, 'but will he have his SPells?'
+[Tue Feb 19 17:37:00 2002] Kelandar tells you, 'i wont haveta remake a cleric after all'
+[Tue Feb 19 17:37:02 2002] Hexian GMSAYS, 'LOL this person has RPG in their PID number.'
+[Tue Feb 19 17:37:28 2002] You told Kelandar, 'I'll escalate this to the GM. I don't know what he'll have if he can be restored..'
+[Tue Feb 19 17:37:40 2002] Clunker GMSAYS, 'hehe'
+[Tue Feb 19 17:37:50 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Feb 19 17:37:50 2002] Hexian GMSAYS, 'UA x 1, Deceivr'
+[Tue Feb 19 17:37:51 2002] GM TEXT: Espranza: Accidentally deleted Cubert, a gnome cleric.
+[Tue Feb 19 17:37:52 2002] STATUS UPGRADED TO URGENT
+[Tue Feb 19 17:37:52 2002] STATUS UPGRADED TO EMERGENCY
+[Tue Feb 19 17:38:04 2002] You GMSAY, 'esc Malvin - accidentally deleted a char'
+[Tue Feb 19 17:38:06 2002] CHECKING IN
+[Tue Feb 19 17:38:07 2002] Hexian GMSAYS, 'is Paludal in Luclin?'
+[Tue Feb 19 17:38:08 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:38:09 2002] USER TEXT: I can't find my corpse with all my items on it
+[Tue Feb 19 17:38:09 2002] Players in EverQuest:
+[Tue Feb 19 17:38:09 2002] ---------------------------
+[Tue Feb 19 17:38:09 2002] [46 Cleric] Athame (High Elf) <Rise of the Phoenix> ZONE: guktop (USER PID GRPU9FT)
+[Tue Feb 19 17:38:09 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:38:18 2002] Searching zones for corpse of that name....
+[Tue Feb 19 17:38:30 2002] Searching zones for corpse of that name....
+[Tue Feb 19 17:38:43 2002] You told Athame, 'Hail, Athame! Senior Guide Espranza here. Have you found your corpse?'
+[Tue Feb 19 17:38:50 2002] In the deepest claw mark in velious, there lay dormant a dragon entombed in ice, it lay speeling for many milenia, until now....
+[Tue Feb 19 17:38:53 2002] Athame tells you, 'aye thanks so much :)'
+[Tue Feb 19 17:39:06 2002] You told Athame, 'okay, good luck and safe travels!'
+[Tue Feb 19 17:39:07 2002] DELETING THIS PETITION
+[Tue Feb 19 17:39:09 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:39:11 2002] USER TEXT: where are all the events happening?
+[Tue Feb 19 17:39:11 2002] Players in EverQuest:
+[Tue Feb 19 17:39:11 2002] ---------------------------
+[Tue Feb 19 17:39:11 2002] [ANON (45 Monk)] Xansiss (Iksar) ZONE: gukbottom (USER PID HUN5DCV)
+[Tue Feb 19 17:39:11 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:39:11 2002] Clunker GMSAYS, 'yes'
+[Tue Feb 19 17:39:28 2002] Clunker GMSAYS, 'oh crap i mispelled something =///'
+[Tue Feb 19 17:39:31 2002] Hexian GMSAYS, 'hehehe who did that zone emote?'
+[Tue Feb 19 17:39:34 2002] Hexian GMSAYS, 'NM'
+[Tue Feb 19 17:39:38 2002] Hexian GMSAYS, 'hehehehe'
+[Tue Feb 19 17:39:40 2002] Clunker GMSAYS, '@&($&*$*^@$^@$*^@#^@#'
+[Tue Feb 19 17:39:54 2002] You told Xansiss, 'Hail, Xansiss! Senior Guide Espranza here. Ahh, you'll have to find those on your own!'
+[Tue Feb 19 17:40:05 2002] You GMSAY, 'Oh, I want to see the dragon speeling'
+[Tue Feb 19 17:40:06 2002] Xansiss tells you, 'they in alot of zones?'
+[Tue Feb 19 17:40:14 2002] Clunker GMSAYS, 'A lone gnome chips away at layers of ice and debris, slowly revealing a massive framework of steel and wire.'
+[Tue Feb 19 17:40:17 2002] You told Xansiss, 'again, you'll have to keep your eyes and ears open'
+[Tue Feb 19 17:40:20 2002] Clunker GMSAYS, './bonk'
+[Tue Feb 19 17:40:26 2002] You GMSAY, 'need help )'
+[Tue Feb 19 17:40:27 2002] Clunker GMSAYS, 'it was supposed to be sleeping'
+[Tue Feb 19 17:40:34 2002] DELETING THIS PETITION
+[Tue Feb 19 17:40:36 2002] You GMSAY, 'zone'
+[Tue Feb 19 17:40:42 2002] You GMSAY, 'and hiding ) wanna watch event'
+[Tue Feb 19 17:40:45 2002] Clunker GMSAYS, 'thank god it's friday lol'
+[Tue Feb 19 17:40:45 2002] Espranza is now Invisible.
+[Tue Feb 19 17:40:45 2002] You are now anonymous.
+[Tue Feb 19 17:40:51 2002] You GMSAY, 'Tuesday'
+[Tue Feb 19 17:40:55 2002] Clunker GMSAYS, 'friday fer me'
+[Tue Feb 19 17:41:06 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 17:41:32 2002] You have entered Western Wastes.
+[Tue Feb 19 17:41:33 2002] Clunker GMSAYS, 'hopefully people know where the deepest scar is'
+[Tue Feb 19 17:41:40 2002] Players on EverQuest:
+[Tue Feb 19 17:41:40 2002] ---------------------------
+[Tue Feb 19 17:41:40 2002] There are no players in Western Wastes that match those who filters.
+[Tue Feb 19 17:41:44 2002] Teleporting to clunker.
+[Tue Feb 19 17:42:06 2002] You GMSAY, 'slow down, I want a screenshot '
+[Tue Feb 19 17:42:09 2002] Players on EverQuest:
+[Tue Feb 19 17:42:09 2002] ---------------------------
+[Tue Feb 19 17:42:09 2002] There are no players in Western Wastes that match those who filters.
+[Tue Feb 19 17:42:25 2002] Taking a screenshot...
+[Tue Feb 19 17:42:31 2002] You GMSAY, 'thanks )'
+[Tue Feb 19 17:42:37 2002] Players on EverQuest:
+[Tue Feb 19 17:42:37 2002] ---------------------------
+[Tue Feb 19 17:42:37 2002] There are no players in Western Wastes that match those who filters.
+[Tue Feb 19 17:42:42 2002] Clunker GMSAYS, 'np'
+[Tue Feb 19 17:42:52 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:42:52 2002] USER TEXT: will Lirus be back on my Wifes char is still missing.
+[Tue Feb 19 17:42:52 2002] Players in EverQuest:
+[Tue Feb 19 17:42:52 2002] ---------------------------
+[Tue Feb 19 17:42:52 2002] [54 Elementalist] Qandaien (High Elf) <Temple of Dawn> ZONE: timorous (USER PID FWCWH76)
+[Tue Feb 19 17:42:52 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:42:55 2002] Kelandar tells you, 'hey, u still here?'
+[Tue Feb 19 17:42:59 2002] You told Kelandar, 'aye'
+[Tue Feb 19 17:43:05 2002] Teleporting to Clunker (-1079.79, 3487.31, -58.57).
+[Tue Feb 19 17:43:14 2002] Kelandar tells you, 'he will have his spells'
+[Tue Feb 19 17:43:19 2002] Kelandar tells you, 'whene restored'
+[Tue Feb 19 17:43:23 2002] You told Kelandar, 'I imagine so'
+[Tue Feb 19 17:43:37 2002] Kelandar tells you, 'just nothing in inventory, wich is ok cause he didnt have much, was untwinked'
+[Tue Feb 19 17:44:00 2002] You told Kelandar, 'what level was he?'
+[Tue Feb 19 17:44:04 2002] Kelandar tells you, '7th'
+[Tue Feb 19 17:44:16 2002] You told Kelandar, 'ah, he may well have his items'
+[Tue Feb 19 17:44:18 2002] Players on EverQuest:
+[Tue Feb 19 17:44:18 2002] ---------------------------
+[Tue Feb 19 17:44:18 2002] There are no players in Western Wastes that match those who filters.
+[Tue Feb 19 17:44:24 2002] Players in EverQuest:
+[Tue Feb 19 17:44:24 2002] ---------------------------
+[Tue Feb 19 17:44:24 2002] [ANON (60 Warlord)] Sinedan (Barbarian) ZONE: sirens (USER PID FWZCQGF)
+[Tue Feb 19 17:44:24 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:44:30 2002] Players in EverQuest:
+[Tue Feb 19 17:44:30 2002] ---------------------------
+[Tue Feb 19 17:44:30 2002] [ANON (53 Wanderer)] Voyager (Wood Elf) ZONE: cobaltscar (USER PID GQQ8EAN)
+[Tue Feb 19 17:44:30 2002] [60 Warlock] Ninala (Dark Elf) <Reviction> ZONE: cobaltscar (USER PID HRW7F7G)
+[Tue Feb 19 17:44:30 2002] [ANON (47 Wizard)] Amadonan (Human) ZONE: cobaltscar (USER PID DYCL0N5)
+[Tue Feb 19 17:44:30 2002] [60 Warlord] Janson (Halfling) <Reviction> ZONE: cobaltscar (USER PID GPC1QAU)
+[Tue Feb 19 17:44:30 2002] [ANON (60 Sorcerer)] Dolcemorte (Erudite) ZONE: cobaltscar (USER PID FQL6SPS)
+[Tue Feb 19 17:44:30 2002] [60 Assassin] Lazuel (Dark Elf) ZONE: cobaltscar (USER PID FYFMT56)
+[Tue Feb 19 17:44:30 2002] [55 Revenant] Venlaen (Dark Elf) <Altruistic Valorians> ZONE: cobaltscar (USER PID FRAGQ50)
+[Tue Feb 19 17:44:30 2002] [60 Sorcerer] Feli (Human) <Triune> ZONE: cobaltscar (USER PID CZL8Q9X)
+[Tue Feb 19 17:44:30 2002] [51 Wanderer] Mikia (Wood Elf) ZONE: cobaltscar (USER PID ER4BQGB)
+[Tue Feb 19 17:44:30 2002] [ANON (54 Wanderer)] Windias (Wood Elf) ZONE: cobaltscar (USER PID DW7EQ9K)
+[Tue Feb 19 17:44:30 2002] [ANON (53 Channeler)] Metroplex (Erudite) ZONE: cobaltscar (USER PID HTYFTT5)
+[Tue Feb 19 17:44:30 2002] [52 Channeler] Eladar (High Elf) <Altruistic Valorians> ZONE: cobaltscar (USER PID EPYC8F6) LFG
+[Tue Feb 19 17:44:30 2002] [60 Crusader] Lananin (Human) <Triune> ZONE: cobaltscar (USER PID GZFGEKN)
+[Tue Feb 19 17:44:30 2002] [ANON (52 Wanderer)] Melinie (Wood Elf) ZONE: cobaltscar (USER PID BYF4WCQ)
+[Tue Feb 19 17:44:30 2002] There are 14 players in EverQuest.
+[Tue Feb 19 17:44:36 2002] Kelandar tells you, 'so can you restore him?'
+[Tue Feb 19 17:44:39 2002] Excited at his new find, he strains his mind to think of a way to get this great find back to Akanon for display in the zoo. Gnomes curious by nature often fidget with mechanical things, and this one was no exception.
+[Tue Feb 19 17:44:54 2002] You GMSAY, '1 person in SG, 14 in CS... doesn't lok like anyone on their way yet'
+[Tue Feb 19 17:45:39 2002] You told Kelandar, 'that will be up to Lirus'
+[Tue Feb 19 17:45:42 2002] USER TEXT: will Lirus be back on my Wifes char is still missing.
+[Tue Feb 19 17:45:44 2002] A few clicks here and a quarter-turn there should do it he thought to himself....Just then a faint whirr could be heart deep within the heart of the beast.
+[Tue Feb 19 17:45:54 2002] Kelandar tells you, 'is he on?'
+[Tue Feb 19 17:45:55 2002] Hexian GMSAYS, 'ummmm. i think you forgot. the thing about the gnome chipping away ice, you sent over /pr'
+[Tue Feb 19 17:46:13 2002] Clunker GMSAYS, '&@(*% ok soon as i'm done i'm bashing que lol'
+[Tue Feb 19 17:46:26 2002] Hexian GMSAYS, 'and can we tell people what xone it is going to be in?'
+[Tue Feb 19 17:46:26 2002] Clunker GMSAYS, 'screw this quest stuff)'
+[Tue Feb 19 17:46:30 2002] Clunker GMSAYS, 'no'
+[Tue Feb 19 17:46:37 2002] You told Qandaien, 'Hail! Senior Guide Espranza here. Did your wife petition already?'
+[Tue Feb 19 17:46:40 2002] Clunker GMSAYS, 'got dolcemorte in ww now'
+[Tue Feb 19 17:46:42 2002] Players on EverQuest:
+[Tue Feb 19 17:46:42 2002] ---------------------------
+[Tue Feb 19 17:46:42 2002] [ANONYMOUS] Dolcemorte  <Thunderwalkers>
+[Tue Feb 19 17:46:42 2002] There is 1 player in Western Wastes.
+[Tue Feb 19 17:46:44 2002] Clunker GMSAYS, 'probably scouting for tw'
+[Tue Feb 19 17:46:50 2002] You GMSAY, 'or going to tov'
+[Tue Feb 19 17:47:07 2002] Dolcemorte says out of character, 'Hail Al'kabor im here to help thee'
+[Tue Feb 19 17:47:13 2002] You GMSAY, 'there ya go'
+[Tue Feb 19 17:47:26 2002] Clunker regards you indifferently -- it appears to be quite formidable.
+[Tue Feb 19 17:47:34 2002] You GMSAY, 'what level are you, Clunker?'
+[Tue Feb 19 17:47:37 2002] Whirr.......click.....
+[Tue Feb 19 17:47:47 2002] Clunker GMSAYS, '60 now'
+[Tue Feb 19 17:47:50 2002] Clunker regards you indifferently -- what would you like your tombstone to say?
+[Tue Feb 19 17:47:52 2002] Clunker GMSAYS, '45 base mob'
+[Tue Feb 19 17:47:59 2002] You GMSAY, 'you conned blue to me )'
+[Tue Feb 19 17:48:11 2002] Qandaien tells you, 'yes and a Guid said that Lirus would get back to her and never did and its been 3 days and she petitioned today and they said that Lirus would get ahold of her and hasnt yet then Lirus logged.'
+[Tue Feb 19 17:48:20 2002] Hexian GMSAYS, 'what what classification am i going to put all these character under? GM-admin?'
+[Tue Feb 19 17:48:29 2002] You told Qandaien, 'under which name did she petition?'
+[Tue Feb 19 17:48:33 2002] Clunker GMSAYS, 'yeah'
+[Tue Feb 19 17:48:33 2002] You GMSAY, 'quest chars'
+[Tue Feb 19 17:48:38 2002] Qandaien tells you, 'Evea.'
+[Tue Feb 19 17:48:38 2002] Clunker GMSAYS, 'or that'
+[Tue Feb 19 17:48:44 2002] You told Qandaien, 'let me check'
+[Tue Feb 19 17:48:46 2002] Clunker GMSAYS, 'listen to esp she knows better than i on that'
+[Tue Feb 19 17:48:47 2002] STATUS UPGRADED TO URGENT
+[Tue Feb 19 17:48:49 2002] Qandaien tells you, 'ok.'
+[Tue Feb 19 17:48:56 2002] You GMSAY, 'qandaien is mine'
+[Tue Feb 19 17:48:58 2002] Hexian GMSAYS, 'and Lars?'
+[Tue Feb 19 17:48:58 2002] CHECKING IN
+[Tue Feb 19 17:49:28 2002] Whirr.......click.....
+[Tue Feb 19 17:49:29 2002] Dolcemorte says out of character, 'Hello mamamia:)'
+[Tue Feb 19 17:49:34 2002] Players on EverQuest:
+[Tue Feb 19 17:49:34 2002] ---------------------------
+[Tue Feb 19 17:49:34 2002] [ANONYMOUS] Mamamia 
+[Tue Feb 19 17:49:34 2002] [ANONYMOUS] Dolcemorte  <Thunderwalkers>
+[Tue Feb 19 17:49:34 2002] There are 2 players in Western Wastes.
+[Tue Feb 19 17:49:39 2002] Mamamia says out of character, 'hello again dear'
+[Tue Feb 19 17:49:54 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:49:55 2002] USER TEXT: will Lirus be back on my Wifes char is still missing.
+[Tue Feb 19 17:49:55 2002] Players in EverQuest:
+[Tue Feb 19 17:49:55 2002] ---------------------------
+[Tue Feb 19 17:49:55 2002] [54 Elementalist] Qandaien (High Elf) <Temple of Dawn> ZONE: timorous (USER PID FWCWH76)
+[Tue Feb 19 17:49:55 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:50:18 2002] Dolcemorte says out of character, 'Bah midget warrior:)'
+[Tue Feb 19 17:50:46 2002] Dolcemorte says out of character, 'Anything on track mama?'
+[Tue Feb 19 17:50:56 2002] You told Qandaien, 'Okay, I don't see the petition - it probably got deleted when your wife logged. She will have to repetition from the account that lost the character... and then stay on until Lirus can get back to her.'
+[Tue Feb 19 17:51:01 2002] Players in EverQuest:
+[Tue Feb 19 17:51:01 2002] ---------------------------
+[Tue Feb 19 17:51:01 2002] [ANON (58 Preserver)] Mamamia (Halfling) ZONE: westwastes (USER PID DNWFT5E)
+[Tue Feb 19 17:51:01 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:51:14 2002] DELETING THIS PETITION
+[Tue Feb 19 17:51:16 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:51:16 2002] USER TEXT: I died in Dawnshroud, went LD while dying, when I log back on my corpse is no where to be found
+[Tue Feb 19 17:51:16 2002] Players in EverQuest:
+[Tue Feb 19 17:51:16 2002] ---------------------------
+[Tue Feb 19 17:51:16 2002] There are no players in EverQuest that match those who filters.
+[Tue Feb 19 17:51:24 2002] Players in EverQuest:
+[Tue Feb 19 17:51:24 2002] ---------------------------
+[Tue Feb 19 17:51:24 2002] There are no players in EverQuest that match those who filters.
+[Tue Feb 19 17:51:30 2002] Searching zones for corpse of that name....
+[Tue Feb 19 17:51:30 2002] Corpse: Calzam's corpse0 in zone: dawnshroud
+[Tue Feb 19 17:51:37 2002] Espranza saved.
+[Tue Feb 19 17:51:37 2002] You GMSAY, 'crashing to dawnshroud'
+[Tue Feb 19 17:51:39 2002] Qandaien tells you, 'ok is Lirus on...she has been waiting for 3 days?.'
+[Tue Feb 19 17:51:45 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 17:52:23 2002] You have entered The Dawnshroud Peaks.
+[Tue Feb 19 17:52:30 2002] Saleanla begins to cast a spell. (Thunderclap)
+[Tue Feb 19 17:52:33 2002] Qandaien tells you, 'and she was on 4 hours after she talked to the last GM...and got no tell from Lirus.'
+[Tue Feb 19 17:52:38 2002] Hexian GMSAYS, 'CS home is looking good. i like the trees... hehehe'
+[Tue Feb 19 17:52:44 2002] You told Qandaien, 'she's on but occupied at the moment; will be back in a bit'
+[Tue Feb 19 17:53:05 2002] You GMSAY, 'courtesy of Lirus, but I did the landscaping )'
+[Tue Feb 19 17:53:12 2002] Espranza is now Visible.
+[Tue Feb 19 17:53:14 2002] You are no longer anonymous.
+[Tue Feb 19 17:53:15 2002] You no longer have a target.
+[Tue Feb 19 17:53:20 2002] Hexian GMSAYS, 'cool. nicely done'
+[Tue Feb 19 17:53:31 2002] Teleporting to calzam's corpse0.
+[Tue Feb 19 17:53:48 2002] You GMSAY, 'Calzam unavail x2'
+[Tue Feb 19 17:53:49 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Feb 19 17:53:50 2002] CHECKING IN
+[Tue Feb 19 17:53:52 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:53:52 2002] USER TEXT: is there an event in ek?
+[Tue Feb 19 17:53:52 2002] Players in EverQuest:
+[Tue Feb 19 17:53:52 2002] ---------------------------
+[Tue Feb 19 17:53:52 2002] [ANON (30 Enchanter)] Aarkaine (Erudite) ZONE: northkarana (USER PID F2B8H2R)
+[Tue Feb 19 17:53:52 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:53:52 2002] Clunker GMSAYS, 'thanks)'
+[Tue Feb 19 17:54:16 2002] Clunker GMSAYS, 'more people coming now'
+[Tue Feb 19 17:54:18 2002] Clunker GMSAYS, 'up to 9'
+[Tue Feb 19 17:54:19 2002] You told Aarkaine, 'Hail, Aarkaine! Senior Guide Espranza here. You'll have to find out for yourself, I'm afraid.'
+[Tue Feb 19 17:54:26 2002] You GMSAY, 'anyone catch you on track yet?'
+[Tue Feb 19 17:54:28 2002] DELETING THIS PETITION
+[Tue Feb 19 17:54:30 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 17:54:30 2002] USER TEXT: I am sorry, is anyone available to help me change my surname? again...sorry
+[Tue Feb 19 17:54:30 2002] Players in EverQuest:
+[Tue Feb 19 17:54:30 2002] ---------------------------
+[Tue Feb 19 17:54:30 2002] [ANON (21 Ranger)] Khyllandra (Wood Elf) ZONE: lakeofillomen (USER PID HT3LYJ6)
+[Tue Feb 19 17:54:30 2002] There is 1 player in EverQuest.
+[Tue Feb 19 17:54:34 2002] Aarkaine tells you, 'im working on it thanks'
+[Tue Feb 19 17:54:36 2002] Clunker GMSAYS, 'not that they have said in shout or ooc'
+[Tue Feb 19 17:54:47 2002] You told Aarkaine, 'okay, good luck!'
+[Tue Feb 19 17:54:55 2002] Aarkaine tells you, 'thank you'
+[Tue Feb 19 17:54:57 2002] Hexian GMSAYS, 'we should make the mace we can use, NOT lore. so i cn duel wield it! hehehe'
+[Tue Feb 19 17:55:10 2002] Clunker GMSAYS, 'agreed'
+[Tue Feb 19 17:55:11 2002] You told Khyllandra, 'Hail, Khyllandra! Senior Guide Espranza here. I can change your last name; what would you like it to be?'
+[Tue Feb 19 17:55:40 2002] You GMSAY, 'and provide a spear, harpoon, or other imposing pointy stick for we rogues and shaman'
+[Tue Feb 19 17:55:41 2002] Khyllandra tells you, 'Greenleaf'
+[Tue Feb 19 17:55:42 2002] Nazbag GMSAYS, 'evening folks.'
+[Tue Feb 19 17:55:45 2002] Clunker GMSAYS, 'hmmm what's a good NASTY spell?'
+[Tue Feb 19 17:55:45 2002] Xeexee says out of character, '47 mage new to zone looking to join a group'
+[Tue Feb 19 17:55:47 2002] You GMSAY, 'heya Naz!'
+[Tue Feb 19 17:55:51 2002] Clunker GMSAYS, 'hi nazbag'
+[Tue Feb 19 17:55:59 2002] Nazbag GMSAYS, 'wuts a clunker?'
+[Tue Feb 19 17:56:08 2002] Clunker GMSAYS, 'a Lirus in disguise)'
+[Tue Feb 19 17:56:09 2002] You GMSAY, 'Nasty spell? AE silence'
+[Tue Feb 19 17:56:12 2002] Clunker GMSAYS, 'clockwork dragon'
+[Tue Feb 19 17:56:12 2002] Nazbag GMSAYS, 'ooh'
+[Tue Feb 19 17:56:16 2002] Nazbag GMSAYS, 'ouch'
+[Tue Feb 19 17:56:21 2002] Clunker GMSAYS, 'good one remember what it's called?'
+[Tue Feb 19 17:56:35 2002] You GMSAY, 'dunno, Tunare casts it'
+[Tue Feb 19 17:56:38 2002] Meeke says out of character, 'anyone know where an npc named braonsas is in this zone?'
+[Tue Feb 19 17:56:39 2002] Nazbag GMSAYS, 'whatever Hoshkar breaths is nasty'
+[Tue Feb 19 17:56:43 2002] Clunker GMSAYS, 'clous of silence sounds like it should do it'
+[Tue Feb 19 17:56:51 2002] Nazbag GMSAYS, 'tunare does'nt but one of the kitties do'
+[Tue Feb 19 17:57:03 2002] Meeke says out of character, 'broansas rather'
+[Tue Feb 19 17:57:08 2002] You GMSAY, 'number of times I have fought Tunare: 0'
+[Tue Feb 19 17:57:14 2002] You GMSAY, 'killed only once on EMarr'
+[Tue Feb 19 17:57:37 2002] Hexian GMSAYS, 'LD'
+[Tue Feb 19 17:57:42 2002] Hexian GMSAYS, '=('
+[Tue Feb 19 17:57:53 2002] You told Khyllandra, 'I don't see a problem with that. One moment please.'
+[Tue Feb 19 17:57:55 2002] You GMSAY, 'zone'
+[Tue Feb 19 17:58:00 2002] Teleporting to khyllandra.
+[Tue Feb 19 17:58:00 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 17:58:28 2002] Xersion says out of character, 'hey guy wanna kill dizok?'
+[Tue Feb 19 17:58:28 2002] Mystikel shouts, 'Train To Zone!!!'
+[Tue Feb 19 17:58:28 2002] Mystikel says out of character, 'wrong hot key'
+[Tue Feb 19 17:58:28 2002] Scalemist says out of character, 'dizok is a lvl 35-40 shaman... /shrug'
+[Tue Feb 19 17:58:28 2002] Nanu says out of character, 'Which zone, don't want them to kill me'
+[Tue Feb 19 17:58:28 2002] goblin warlord died.
+[Tue Feb 19 17:58:42 2002] Xersion says out of character, 'i have a 40 shaman!'
+[Tue Feb 19 17:58:42 2002] Katharsis says out of character, '~hopes his sow holds to DL~ lol'
+[Tue Feb 19 17:58:42 2002] Kianye says out of character, 'he hit the wrong hot key'
+[Tue Feb 19 17:58:42 2002] You have entered Lake of Ill Omen.
+[Tue Feb 19 17:58:48 2002] Teleporting to khyllandra.
+[Tue Feb 19 17:58:51 2002] Qandaien tells you, 'ok she is on Evea,,,,when Lirus gets back ).'
+[Tue Feb 19 17:58:55 2002] Ellrick begins to cast a spell. (Flame Shock)
+[Tue Feb 19 17:58:56 2002] You have changed Greenleaf's last name to .
+[Tue Feb 19 17:59:11 2002] Ezie's spell fizzles!
+[Tue Feb 19 17:59:12 2002] Ezie's spell fizzles!
+[Tue Feb 19 17:59:12 2002] Ellrick begins to cast a spell. (Shock of Lightning)
+[Tue Feb 19 17:59:13 2002] Ezie's spell fizzles!
+[Tue Feb 19 17:59:13 2002] Ezie begins to cast a spell. (Yaulp)
+[Tue Feb 19 17:59:13 2002] Ezie lets loose a mighty yaulp.
+[Tue Feb 19 17:59:13 2002] Lazirith says out of character, 'is Back Door camped'
+[Tue Feb 19 17:59:13 2002] You have changed Khyllandra's last name to Greenleaf.
+[Tue Feb 19 17:59:14 2002] Nazbag GMSAYS, 'xanthias UA 1'
+[Tue Feb 19 17:59:17 2002] Tobbas says out of character, 'yes and inside area'
+[Tue Feb 19 17:59:21 2002] Oliphant says out of character, 'yes it is camped'
+[Tue Feb 19 17:59:21 2002] Ellrick begins to cast a spell. (Shock of Lightning)
+[Tue Feb 19 17:59:23 2002] Xersion says out of character, 'no one wanna take dizok?'
+[Tue Feb 19 17:59:25 2002] You told Khyllandra, 'All done!'
+[Tue Feb 19 17:59:29 2002] Khyllandra tells you, 'i thank thee'
+[Tue Feb 19 17:59:36 2002] Nazbag GMSAYS, 'do you think that there is any chance guides could get a prefix name Espie?'
+[Tue Feb 19 17:59:41 2002] Nimothar begins to cast a spell. (Lifedraw)
+[Tue Feb 19 17:59:48 2002] Nanu says out of character, 'Outside area camped as well of backdoor'
+[Tue Feb 19 17:59:50 2002] Saldyar auctions, 'WTS 2 exc. quality sabertooth hides 20pp each but 35 pp for both'
+[Tue Feb 19 17:59:53 2002] You GMSAY, '<note name> Khyllandra HT3LYJ6 granted last name Greenleaf'
+[Tue Feb 19 17:59:55 2002] Clunker GMSAYS, 'lol i guess my silence spell was a bit overpowered'
+[Tue Feb 19 17:59:56 2002] DELETING THIS PETITION
+[Tue Feb 19 18:00:02 2002] Clunker GMSAYS, 'i think it did whole zone'
+[Tue Feb 19 18:00:10 2002] Rugman shouts, 'level 22 shaman lfg'
+[Tue Feb 19 18:00:14 2002] Nazbag GMSAYS, 'it should do 400 lure damage and silence'
+[Tue Feb 19 18:00:15 2002] You GMSAY, 'Baron Nazbag... hmmm'
+[Tue Feb 19 18:00:23 2002] Nazbag GMSAYS, 'I was thinking more like Guide Nazbag myslef'
+[Tue Feb 19 18:00:40 2002] Syleste shouts, '28 Ranger LFG'
+[Tue Feb 19 18:00:41 2002] You GMSAY, 'I don't think so, Naz, but I can pass it along.'
+[Tue Feb 19 18:00:46 2002] Nazbag GMSAYS, 'okies'
+[Tue Feb 19 18:01:00 2002] Fleaudeshommes says out of character, 'no sorry i m sk'
+[Tue Feb 19 18:01:14 2002] You GMSAY, 'I'd like to see the AAXP for guides )'
+[Tue Feb 19 18:01:23 2002] Seittas shouts, 'LVL 19 DRU LFG'
+[Tue Feb 19 18:01:24 2002] Xersion shouts, 'lvl 15 war lfg'
+[Tue Feb 19 18:01:25 2002] Seittas shouts, 'LVL 19 DRU LFG'
+[Tue Feb 19 18:01:38 2002] Nazbag GMSAYS, 'one AA per petition!'
+[Tue Feb 19 18:01:48 2002] You GMSAY, 'I'd be racking them up, today'
+[Tue Feb 19 18:01:52 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 18:01:52 2002] Nazbag GMSAYS, 'trade 100 AA points in for an hour off'
+[Tue Feb 19 18:01:53 2002] USER TEXT: is there any way to get a character back that was accidently Deleted?
+[Tue Feb 19 18:01:53 2002] Players in EverQuest:
+[Tue Feb 19 18:01:53 2002] ---------------------------
+[Tue Feb 19 18:01:53 2002] [1 Cleric] Kelandar (Human) ZONE: freportn (USER PID ESDMR2F)
+[Tue Feb 19 18:01:53 2002] There is 1 player in EverQuest.
+[Tue Feb 19 18:01:54 2002] UNDOING CHECK OUT
+[Tue Feb 19 18:01:56 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 18:01:56 2002] USER TEXT: i know one of the things thats messed up
+[Tue Feb 19 18:01:56 2002] Players in EverQuest:
+[Tue Feb 19 18:01:56 2002] ---------------------------
+[Tue Feb 19 18:01:56 2002] [29 Ranger] Turless (Half Elf) ZONE: erudnext (USER PID HV59P7A)
+[Tue Feb 19 18:01:56 2002] There is 1 player in EverQuest.
+[Tue Feb 19 18:02:21 2002] You told Turless, 'Hail, Turless! Senior Guide Espranza here. How may I help you?'
+[Tue Feb 19 18:02:49 2002] Turless tells you, 'ya know how it said things are differnt today and i needed to look out behind me?'
+[Tue Feb 19 18:03:13 2002] Saldyar shouts, '18th Magician is seeking a group please!'
+[Tue Feb 19 18:03:14 2002] Bofon shouts, 'can anyone sow me please in wm'
+[Tue Feb 19 18:03:15 2002] Saldyar shouts, '18th Magician is seeking a group please!'
+[Tue Feb 19 18:03:17 2002] You told Turless, 'yes?'
+[Tue Feb 19 18:03:17 2002] Galdwin says out of character, 'cmap check'
+[Tue Feb 19 18:03:24 2002] Tobbas says out of character, 'inside back door'
+[Tue Feb 19 18:03:27 2002] Turless tells you, 'well theres like...hard water'
+[Tue Feb 19 18:03:32 2002] Nanu says out of character, 'Outside backdoor'
+[Tue Feb 19 18:03:33 2002] Krathger says out of character, 'outside backdoor'
+[Tue Feb 19 18:03:40 2002] Bofon shouts, 'can anyone sow me please in wm'
+[Tue Feb 19 18:03:41 2002] Turless tells you, 'im walking on water...and no..i dont have lev'
+[Tue Feb 19 18:03:51 2002] Syleste shouts, '28 Ranger LFG'
+[Tue Feb 19 18:03:53 2002] Nynya says out of character, 'lvl19 enchantress LFG'
+[Tue Feb 19 18:03:59 2002] Saldyar shouts, '18th Magician is seeking a group please!'
+[Tue Feb 19 18:04:01 2002] Saldyar shouts, '18th Magician is seeking a group please!'
+[Tue Feb 19 18:04:17 2002] You told Turless, 'I don't think that is part of it :) you're walking on a thin layer of ice.'
+[Tue Feb 19 18:04:39 2002] Turless tells you, 'in erudin?'
+[Tue Feb 19 18:05:00 2002] Bofon shouts, 'can anyone sow me please in wm'
+[Tue Feb 19 18:05:04 2002] Kaeylaer says out of character, '29 SK looking for healer partner'
+[Tue Feb 19 18:05:04 2002] You told Turless, 'oh, thought you were in everfrost for some reason...'
+[Tue Feb 19 18:05:10 2002] You told Turless, 'are you there right now?'
+[Tue Feb 19 18:05:14 2002] Turless tells you, 'yup'
+[Tue Feb 19 18:05:16 2002] You feel the spirit of Norrath enter you.
+[Tue Feb 19 18:05:20 2002] You told Turless, 'k, one moment'
+[Tue Feb 19 18:05:21 2002] You GMSAY, 'zone'
+[Tue Feb 19 18:05:24 2002] Teleporting to turless.
+[Tue Feb 19 18:05:25 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 18:05:55 2002] You have entered Erudin.
+[Tue Feb 19 18:06:20 2002] You say, 'yup, messed up'
+[Tue Feb 19 18:06:22 2002] Your Location is -468.55, -679.31, 2.19
+[Tue Feb 19 18:06:24 2002] Turless says, 'lol'
+[Tue Feb 19 18:06:35 2002] Reko Saltamer shouts 'The ship to Antonica is now departing the Erudin docks.  It will be some time before it makes call here again, we will keep you informed. '
+[Tue Feb 19 18:06:37 2002] Turless says, 'and all of the guys are girls'
+[Tue Feb 19 18:06:41 2002] Teadyn tells you, '/sigh, another GM event ruined by higher level chars, man ill never get anything'
+[Tue Feb 19 18:06:45 2002] Turless says, 'you are a male halfling'
+[Tue Feb 19 18:06:46 2002] Kelandar tells you, 'so how do i know if they Got my character back or not?'
+[Tue Feb 19 18:07:00 2002] You GMSAY, '<note bug> The water around n468 n679 in Erudin is solid'
+[Tue Feb 19 18:07:01 2002] Turless says, 'are u supposed to be?'
+[Tue Feb 19 18:07:07 2002] You say, 'no...'
+[Tue Feb 19 18:07:10 2002] You say, 'I'm a girl'
+[Tue Feb 19 18:07:15 2002] Turless says, 'okay thats not cool'
+[Tue Feb 19 18:07:15 2002] You told Teadyn, 'Which?'
+[Tue Feb 19 18:07:20 2002] Turless says, 'not from what i see'
+[Tue Feb 19 18:07:22 2002] You say, 'I look male to you?'
+[Tue Feb 19 18:07:24 2002] Teadyn tells you, 'the one in EverFrost'
+[Tue Feb 19 18:07:28 2002] Turless says, 'yes'
+[Tue Feb 19 18:07:32 2002] Turless says, 'male halfling'
+[Tue Feb 19 18:07:35 2002] You told Teadyn, 'oh, I don't know anything about that'
+[Tue Feb 19 18:07:40 2002] Players in EverQuest:
+[Tue Feb 19 18:07:40 2002] ---------------------------
+[Tue Feb 19 18:07:40 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: erudnext (USER PID B4KJ6E7)
+[Tue Feb 19 18:07:40 2002] There is 1 player in EverQuest.
+[Tue Feb 19 18:07:40 2002] Nazbag GMSAYS, '<note issue> evea (awnxtz8) reports the loss of "naladiena" 57 enchanter, says original petition was 3 days ago.'
+[Tue Feb 19 18:07:41 2002] Turless says, 'im a male tho'
+[Tue Feb 19 18:07:43 2002] Teadyn tells you, 'heh'
+[Tue Feb 19 18:07:52 2002] Turless says, 'everyone else is all swirched around'
+[Tue Feb 19 18:08:01 2002] Players in EverQuest:
+[Tue Feb 19 18:08:01 2002] ---------------------------
+[Tue Feb 19 18:08:01 2002] [29 Ranger] Turless (Half Elf) ZONE: erudnext (USER PID HV59P7A)
+[Tue Feb 19 18:08:01 2002] There is 1 player in EverQuest.
+[Tue Feb 19 18:08:04 2002] Nazbag GMSAYS, 'Deceivr ua 2'
+[Tue Feb 19 18:08:10 2002] Hexian GMSAYS, 'GRRRR! still having a few problems with internet i guess'
+[Tue Feb 19 18:08:29 2002] You GMSAY, '<note issue> Turless HV59P7A says all the PCs and NPCs in Erudin have swapped gender - including me!'
+[Tue Feb 19 18:08:36 2002] You say, 'that's VERY odd. Just this zone?'
+[Tue Feb 19 18:08:46 2002] Turless says, 'yes'
+[Tue Feb 19 18:08:57 2002] Turless says, 'it happened to me in tox once'
+[Tue Feb 19 18:09:01 2002] You say, 'how about that dwarf there?'
+[Tue Feb 19 18:09:06 2002] Turless says, 'and another time in lake of ill omen'
+[Tue Feb 19 18:09:07 2002] You wave at Buzzlin Bornahm.
+[Tue Feb 19 18:09:23 2002] Turless tells you, 'hes male'
+[Tue Feb 19 18:09:31 2002] Turless says, 'a guy'
+[Tue Feb 19 18:09:33 2002] You told Turless, 'looks male to me too'
+[Tue Feb 19 18:09:40 2002] DELETING THIS PETITION
+[Tue Feb 19 18:09:42 2002] Turless tells you, 'and u r a male'
+[Tue Feb 19 18:09:42 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 18:09:42 2002] USER TEXT: hi, I need to petition for a surname please.
+[Tue Feb 19 18:09:42 2002] Players in EverQuest:
+[Tue Feb 19 18:09:42 2002] ---------------------------
+[Tue Feb 19 18:09:42 2002] [ANON (22 Shaman)] Teyla (Iksar) ZONE: lakeofillomen (USER PID G325X8J)
+[Tue Feb 19 18:09:42 2002] There is 1 player in EverQuest.
+[Tue Feb 19 18:10:06 2002] Hexian GMSAYS, 'UA x 2 Xanthias'
+[Tue Feb 19 18:10:07 2002] Turless says, 'hes blue'
+[Tue Feb 19 18:10:13 2002] You told Teyla, 'Hail, Teyla! Senior Guide Espranza here. What last name would you like?'
+[Tue Feb 19 18:10:15 2002] Turless says, 'by conn not color'
+[Tue Feb 19 18:10:25 2002] You say, 'well, I reported the two items...'
+[Tue Feb 19 18:10:31 2002] You say, 'how strange though'
+[Tue Feb 19 18:10:33 2002] Turless says, 'i can walk on water and see people as they are not'
+[Tue Feb 19 18:10:44 2002] Turless says, 'lol'
+[Tue Feb 19 18:10:44 2002] You say, 'are you... god?'
+[Tue Feb 19 18:10:56 2002] Turless says, 'oh no...u know my secret'
+[Tue Feb 19 18:11:00 2002] Turless says, 'lol'
+[Tue Feb 19 18:11:01 2002] You giggle at Turless.
+[Tue Feb 19 18:11:02 2002] Turless says, 'nope'
+[Tue Feb 19 18:11:07 2002] Teyla tells you, 'Curlytail'
+[Tue Feb 19 18:11:10 2002] Turless giggles at Espranza.
+[Tue Feb 19 18:11:14 2002] Turless says, 'well'
+[Tue Feb 19 18:11:16 2002] You say, 'oh... I should stop seeking God through EQ...'
+[Tue Feb 19 18:11:22 2002] Teyla tells you, 'I am part of a family of iksars....we all have the same last name'
+[Tue Feb 19 18:11:24 2002] Turless says, 'LOL'
+[Tue Feb 19 18:11:34 2002] Turless says, 'i hate to dissapoint u'
+[Tue Feb 19 18:11:37 2002] You say, 'well, be well and have fun :)'
+[Tue Feb 19 18:11:40 2002] You wave goodbye to Turless.
+[Tue Feb 19 18:11:42 2002] You GMSAY, 'zone'
+[Tue Feb 19 18:11:47 2002] Teleporting to teyla.
+[Tue Feb 19 18:11:48 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 18:12:31 2002] You have entered Lake of Ill Omen.
+[Tue Feb 19 18:12:49 2002] Teyla bows before Espranza.
+[Tue Feb 19 18:12:52 2002] You told Teyla, 'have you tried the /surname command?'
+[Tue Feb 19 18:12:59 2002] Ximan says out of character, 'hmm anyone else with uber connex lag?'
+[Tue Feb 19 18:12:59 2002] Teyla tells you, 'yes'
+[Tue Feb 19 18:13:03 2002] You told Teyla, 'and?'
+[Tue Feb 19 18:13:24 2002] You have changed Teyla's last name to Curlytail.
+[Tue Feb 19 18:13:36 2002] Teyla tells you, 'tells me name is rejected, please try a different name.  There are three other players that already have that surname.'
+[Tue Feb 19 18:13:40 2002] Arenny shouts, 'group looking for more low to mid 20s send tells'
+[Tue Feb 19 18:13:43 2002] Darkommhealeth says out of character, '23 necro LFG'
+[Tue Feb 19 18:13:51 2002] You GMSAY, '<note name> Teyla G325X8J granted the last name Curlytail'
+[Tue Feb 19 18:13:55 2002] You told Teyla, 'how odd...'
+[Tue Feb 19 18:13:56 2002] Teyla tells you, 'so I was told I would need an override to get it as well'
+[Tue Feb 19 18:14:04 2002] You told Teyla, 'look now )'
+[Tue Feb 19 18:14:06 2002] Lazirith says out of character, 'hey Dark join us'
+[Tue Feb 19 18:14:08 2002] DELETING THIS PETITION
+[Tue Feb 19 18:14:13 2002] Nynya says out of character, 'WM group seeking more   hight teens - low twenties please'
+[Tue Feb 19 18:14:20 2002] Teyla tells you, 'thank you so much.  My brothers and sister will very happy.'
+[Tue Feb 19 18:14:24 2002] Teyla bows before Espranza.
+[Tue Feb 19 18:14:27 2002] You bow before Teyla.
+[Tue Feb 19 18:14:35 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 18:14:36 2002] USER TEXT: Gadallion needs to be reset, she wont sell anymore.
+[Tue Feb 19 18:14:36 2002] Players in EverQuest:
+[Tue Feb 19 18:14:36 2002] ---------------------------
+[Tue Feb 19 18:14:36 2002] [13 Shaman] Thorlan (Barbarian) ZONE: oasis (USER PID GQGUEUN)
+[Tue Feb 19 18:14:36 2002] There is 1 player in EverQuest.
+[Tue Feb 19 18:14:43 2002] You GMSAY, 'zone'
+[Tue Feb 19 18:14:45 2002] Andyk auctions, 'WTB Green Jade Broadsword'
+[Tue Feb 19 18:14:46 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 18:15:19 2002] An orc warrior's skin ignites.
+[Tue Feb 19 18:15:19 2002] an orc warrior has been slain by Estalla!
+[Tue Feb 19 18:15:19 2002] Sleepa shouts, '14 shaman ohw to docks to join group'
+[Tue Feb 19 18:15:19 2002] You have entered Oasis of Marr.
+[Tue Feb 19 18:15:39 2002] Searching for gadallion00.
+[Tue Feb 19 18:15:40 2002] Player is in zone oasis at x = 504 y = 44 z = 6.
+[Tue Feb 19 18:15:44 2002] Teleporting to Gadallion00 (504.00,  44.00,   6.10).
+[Tue Feb 19 18:16:01 2002] Gadallion says 'Guards!! Guards!! '
+[Tue Feb 19 18:16:01 2002] Gadallion feels a bit dispelled.
+[Tue Feb 19 18:16:02 2002] Wengfu says, 'Hail, Espranza'
+[Tue Feb 19 18:16:04 2002] Gadallion hits YOU for 63 points of damage.
+[Tue Feb 19 18:16:05 2002] You can't use that command right now...
+[Tue Feb 19 18:16:05 2002] Gadallion blinks a few times.
+[Tue Feb 19 18:16:05 2002] Gadallion blinks a few times.
+[Tue Feb 19 18:16:05 2002] You can't use that command right now...
+[Tue Feb 19 18:16:05 2002] You can't use that command right now...
+[Tue Feb 19 18:16:05 2002] Gadallion blinks a few times.
+[Tue Feb 19 18:16:06 2002] Gadallion blinks a few times.
+[Tue Feb 19 18:16:06 2002] Gadallion blinks a few times.
+[Tue Feb 19 18:16:06 2002] You can't use that command right now...
+[Tue Feb 19 18:16:06 2002] Gadallion blinks a few times.
+[Tue Feb 19 18:16:09 2002] You say, 'hi!'
+[Tue Feb 19 18:16:10 2002] Wengfu says, 'woot'
+[Tue Feb 19 18:16:14 2002] You no longer have a target.
+[Tue Feb 19 18:16:14 2002] You no longer have a target.
+[Tue Feb 19 18:16:14 2002] You no longer have a target.
+[Tue Feb 19 18:16:15 2002] Gadallion says 'Greetings, Espranza. You look like you could use a Spell: Flash of Light'
+[Tue Feb 19 18:16:18 2002] a desert madman begins to cast a spell. (Grasping Roots)
+[Tue Feb 19 18:16:21 2002] Espranza saved.
+[Tue Feb 19 18:16:23 2002] a desert madman begins to cast a spell. (Burst of Fire)
+[Tue Feb 19 18:16:26 2002] Wengfu says, 'any hint on the GM event ?'
+[Tue Feb 19 18:16:28 2002] a desert madman begins to cast a spell. (Grasping Roots)
+[Tue Feb 19 18:16:32 2002] You told Thorlan, 'Hail, Thorlan! Senior Guide Espranza here. Gadallion is selling again!'
+[Tue Feb 19 18:16:32 2002] a desert madman begins to cast a spell. (Whirling Wind)
+[Tue Feb 19 18:16:35 2002] You say, 'which one?'
+[Tue Feb 19 18:16:37 2002] a desert madman begins to cast a spell. (Burst of Flame)
+[Tue Feb 19 18:16:37 2002] Wengfu says, 'whisper to me hehe'
+[Tue Feb 19 18:16:42 2002] a desert madman begins to cast a spell. (Burst of Flame)
+[Tue Feb 19 18:16:42 2002] DELETING THIS PETITION
+[Tue Feb 19 18:16:43 2002] Thorlan tells you, 'thank you =)'
+[Tue Feb 19 18:16:47 2002] a desert madman begins to cast a spell. (Whirling Wind)
+[Tue Feb 19 18:16:47 2002] Hexian GMSAYS, 'did someone grb avalia?'
+[Tue Feb 19 18:16:49 2002] Starree begins to cast a spell. (Calefaction)
+[Tue Feb 19 18:16:49 2002] Wengfu says, 'the big one ofcourse'
+[Tue Feb 19 18:16:51 2002] a desert madman begins to cast a spell. (Grasping Roots)
+[Tue Feb 19 18:16:51 2002] Players in EverQuest:
+[Tue Feb 19 18:16:51 2002] ---------------------------
+[Tue Feb 19 18:16:51 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: oasis (USER PID B4KJ6E7)
+[Tue Feb 19 18:16:51 2002] * Guide *[50 Monk] Hexian (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID CUUVYEU)
+[Tue Feb 19 18:16:51 2002] * Guide *[54 Mystic] Nazbag (Ogre) <Keepers of Dreams> ZONE: nro (USER PID EUUV5HS)
+[Tue Feb 19 18:16:51 2002] There are 3 players in EverQuest.
+[Tue Feb 19 18:16:51 2002] a desert madman says 'Damn my eyes! You're just another mirage! '
+[Tue Feb 19 18:16:51 2002] A desert madman blisters and burns.
+[Tue Feb 19 18:16:51 2002] a desert madman has been slain by Starree!
+[Tue Feb 19 18:17:01 2002] You say, 'You'll just have to follow the clues'
+[Tue Feb 19 18:17:06 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 18:17:07 2002] USER TEXT: stuck inside some weird thing with no exit ; )  i'm a goon
+[Tue Feb 19 18:17:07 2002] Players in EverQuest:
+[Tue Feb 19 18:17:07 2002] ---------------------------
+[Tue Feb 19 18:17:07 2002] [45 Bard] Moline (Wood Elf) <The Tears of Veeshan> ZONE: dreadlands (USER PID HTN86NT)
+[Tue Feb 19 18:17:07 2002] There is 1 player in EverQuest.
+[Tue Feb 19 18:17:11 2002] dry bones skeleton begins to cast a spell. (DryBoneFireBurst)
+[Tue Feb 19 18:17:11 2002] Trep begins to cast a spell. (Root)
+[Tue Feb 19 18:17:21 2002] Hexian GMSAYS, 'NM'
+[Tue Feb 19 18:17:31 2002] You told Moline, 'Hail, Moline! Senior Guide Espranza here. Are you still stuck?'
+[Tue Feb 19 18:17:32 2002] Brenamaelae shouts, 'Ding 17'
+[Tue Feb 19 18:17:39 2002] Moline tells you, 'hehe yeah ; )'
+[Tue Feb 19 18:17:40 2002] Folium shouts, 'Gratz'
+[Tue Feb 19 18:17:41 2002] Moline tells you, 'quite'
+[Tue Feb 19 18:17:44 2002] Sleepa shouts, 'group looking for more at dock 13 to18'
+[Tue Feb 19 18:17:47 2002] You told Moline, 'one moment please'
+[Tue Feb 19 18:17:47 2002] Moline tells you, '/bonks self'
+[Tue Feb 19 18:17:47 2002] Brenamaelae shouts, 'thanks'
+[Tue Feb 19 18:17:48 2002] You GMSAY, 'zone'
+[Tue Feb 19 18:17:51 2002] Teleporting to moline.
+[Tue Feb 19 18:17:51 2002] LOADING, PLEASE WAIT...
+[Tue Feb 19 18:18:18 2002] Pjkea shouts, 'Ruins group needs a healer'
+[Tue Feb 19 18:18:30 2002] You have entered Dreadlands.
+[Tue Feb 19 18:18:48 2002] Moline waves at Espranza.
+[Tue Feb 19 18:18:59 2002] Thorlan tells you, 'your Uber dot is Wing of Xegony?'
+[Tue Feb 19 18:19:00 2002] Moline says, 'interesting area huh : )'
+[Tue Feb 19 18:19:03 2002] Players on EverQuest:
+[Tue Feb 19 18:19:03 2002] ---------------------------
+[Tue Feb 19 18:19:03 2002] There are no players in Dreadlands that match those who filters.
+[Tue Feb 19 18:19:03 2002] Hexian GMSAYS, 'UA x 3 Xanthias. deleting'
+[Tue Feb 19 18:19:03 2002] Thorlan tells you, 'woop wrong tell'
+[Tue Feb 19 18:19:05 2002] Nilles shouts, 'need tank and monk for group '
+[Tue Feb 19 18:19:05 2002] Thorlan tells you, 'hehe'
+[Tue Feb 19 18:19:09 2002] Sethers shouts, 'Lvl 49 Ranger lFG send tells'
+[Tue Feb 19 18:19:19 2002] Players on EverQuest:
+[Tue Feb 19 18:19:19 2002] ---------------------------
+[Tue Feb 19 18:19:19 2002] [44 Magician] Alishia (High Elf) <Legacy of Pain>
+[Tue Feb 19 18:19:19 2002] There is 1 player in Dreadlands.
+[Tue Feb 19 18:19:25 2002] Teleporting to alishia.
+[Tue Feb 19 18:19:32 2002] Pjkea shouts, 'Ruins group needs a healer'
+[Tue Feb 19 18:19:32 2002] Summoning moline.
+[Tue Feb 19 18:19:40 2002] Moline tells you, 'thank you so much!!'
+[Tue Feb 19 18:19:43 2002] Moline tells you, '*hugs*'
+[Tue Feb 19 18:19:50 2002] Lyenya shouts, 'Chanter, healer, nuker seeking tank and others...send tells'
+[Tue Feb 19 18:19:54 2002] You told Moline, 'you're welcome :) watch that travel song'
+[Tue Feb 19 18:20:02 2002] Moline tells you, 'hehe yeahrilly ;)'
+[Tue Feb 19 18:20:43 2002] You GMSAY, '<note> Summoned Moline HTN86NT from the shell of KC in Dreadlands'
+[Tue Feb 19 18:20:46 2002] DELETING THIS PETITION
+[Tue Feb 19 18:20:48 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 18:20:49 2002] USER TEXT: hello for two days ago a guide told me to contact a server gm or senior guide.. my matter is about changing my name immediately as it is not appropriate at all.. people from my country has started complain and it isnt even my fault 8( pls help.
+[Tue Feb 19 18:20:49 2002] Players in EverQuest:
+[Tue Feb 19 18:20:49 2002] ---------------------------
+[Tue Feb 19 18:20:49 2002] [36 Shadow Knight] Horungen (Iksar) <Wraith Lords> ZONE: overthere (USER PID H24V39T)
+[Tue Feb 19 18:20:49 2002] There is 1 player in EverQuest.
+[Tue Feb 19 18:21:04 2002] Hexian GMSAYS, 'Lirus did you summon a player underwater, and then eat them?'
+[Tue Feb 19 18:21:08 2002] Lyenya shouts, 'Chanter, healer, nuker seeking tank'
+[Tue Feb 19 18:21:22 2002] Clunker GMSAYS, 'no'
+[Tue Feb 19 18:21:22 2002] Clunker GMSAYS, 'that was glati'
+[Tue Feb 19 18:21:26 2002] Thelaskir says out of character, '47 necro LFG'
+[Tue Feb 19 18:21:35 2002] Lyenya shouts, 'Chanter, healer, nuker seeking tank'
+[Tue Feb 19 18:21:38 2002] Moline says out of character, 'lvl 45 Bard looking for chain pulling group'
+[Tue Feb 19 18:21:38 2002] Hexian GMSAYS, 'that normal right?'
+[Tue Feb 19 18:21:41 2002] Pjkea shouts, 'Ruins group needs a healer'
+[Tue Feb 19 18:21:55 2002] Clunker GMSAYS, 'no not really, you can move corpse but i wouldn't res em'
+[Tue Feb 19 18:22:02 2002] Hexian GMSAYS, 'okay'
+[Tue Feb 19 18:22:34 2002] Pjkea shouts, 'Ruins group needs a healer'
+[Tue Feb 19 18:22:42 2002] Lyenya shouts, 'Chanter, healer, nuker seeking tank'
+[Tue Feb 19 18:22:42 2002] Renly says out of character, '45 enchanter lfg'
+[Tue Feb 19 18:22:45 2002] Eilini shouts, '46 wizzy lfg'
+[Tue Feb 19 18:22:49 2002] Thelaskir says out of character, '47 necro LFG'
+[Tue Feb 19 18:23:01 2002] Hexian GMSAYS, 'ZONING.. See you all on the otherside.'
+[Tue Feb 19 18:23:30 2002] Eilini says, 'Hail, Espranza'
+[Tue Feb 19 18:23:31 2002] Kainite auctions, 'WTB thick banded belt send tells'
+[Tue Feb 19 18:23:32 2002] Eilini bows before Espranza.
+[Tue Feb 19 18:23:38 2002] Eilini says, 'good to see you tonite'
+[Tue Feb 19 18:23:39 2002] You told Horungen, 'Hail! Senior Guide Espranza here. In what language does your name mean something offensive?'
+[Tue Feb 19 18:23:44 2002] You kneel before Eilini in humility and reverence.
+[Tue Feb 19 18:23:48 2002] You say, 'Hello!'
+[Tue Feb 19 18:23:49 2002] Eilini says, 'have agood night'
+[Tue Feb 19 18:23:53 2002] You say, 'you as well'
+[Tue Feb 19 18:23:55 2002] Eilini waves goodbye to Espranza.
+[Tue Feb 19 18:24:15 2002] Chantcall says out of character, 'any desperate crack addict groups need a 35 chanter?'
+[Tue Feb 19 18:24:27 2002] Eilini shouts, '46 wizzy LFG'
+[Tue Feb 19 18:24:32 2002] Nikademus shouts, 'and haste =)'
+[Tue Feb 19 18:24:37 2002] Chantcall says out of character, 'that too =P'
+[Tue Feb 19 18:24:43 2002] Your feet leave the ground.
+[Tue Feb 19 18:24:52 2002] Arilious shouts, 'NE Ruins needs healer. Send Pjkea tells'
+[Tue Feb 19 18:25:13 2002] Chantcall says out of character, 'ok nobody desperate enough yet =)'
+[Tue Feb 19 18:25:13 2002] Clunker GMSAYS, 'getting back on lirus for a few'
+[Tue Feb 19 18:25:15 2002] Horungen tells you, 'yes 8(( im actually a newbi.. this is my first char. my big brother made all settings including the name.. and now it is really annoying. it is in swedish.. and means "whore child" or "bastard".. and other swedes get mad at me and say:'
+[Tue Feb 19 18:25:19 2002] Nikademus shouts, 'lol'
+[Tue Feb 19 18:25:23 2002] Thelaskir begins to cast a spell. (Gather Shadows)
+[Tue Feb 19 18:25:34 2002] Thelaskir says out of character, '47 necro LFG'
+[Tue Feb 19 18:25:35 2002] Nikademus shouts, 'patience. i did it at 35, but found OT better till 39 /grin'
+[Tue Feb 19 18:25:46 2002] Nikademus shouts, 'i still resist more then i should'
+[Tue Feb 19 18:25:51 2002] Horungen tells you, '"u can get petitioned for that u know.. " etc. feels not good now when im becoming more and more high level and getting into this game more and more'
+[Tue Feb 19 18:25:57 2002] Eilini shouts, '46 wizzy LFG'
+[Tue Feb 19 18:25:59 2002] You told Horungen, 'and this didn't bother you for 36 levels?'
+[Tue Feb 19 18:26:16 2002] Krien says out of character, 'it takes me back to the day when i was here at 35 lol it wasn't fun. )'
+[Tue Feb 19 18:26:19 2002] Horungen tells you, 'no.. till after lvl 30, when people started to notice me.. '
+[Tue Feb 19 18:26:38 2002] Players in EverQuest:
+[Tue Feb 19 18:26:38 2002] ---------------------------
+[Tue Feb 19 18:26:38 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: commons (USER PID CW1ECN5)
+[Tue Feb 19 18:26:38 2002] * Guide *[50 Monk] Hexian (Iksar) <Keepers of Dreams> ZONE: westwastes (USER PID CUUVYEU)
+[Tue Feb 19 18:26:38 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: dreadlands (USER PID B4KJ6E7)
+[Tue Feb 19 18:26:38 2002] * Guide *[54 Mystic] Nazbag (Ogre) <Keepers of Dreams> ZONE: nro (USER PID EUUV5HS)
+[Tue Feb 19 18:26:38 2002] There are 4 players in EverQuest.
+[Tue Feb 19 18:26:44 2002] Horungen tells you, 'i would really appreciate if i could at least just have the name: Horun  '
+[Tue Feb 19 18:27:02 2002] Eilini shouts, '46 wizzy lfg or partner'
+[Tue Feb 19 18:27:05 2002] Krien says out of character, 'i had to wait for a group to be so desperate for heals that anthing with a healing spell would have sufficed'
+[Tue Feb 19 18:27:11 2002] Horungen tells you, 'just exclude the: "gen" Horun is fine... people call me that here, and thats ok'
+[Tue Feb 19 18:27:15 2002] Nikademus shouts, 'lol'
+[Tue Feb 19 18:27:20 2002] Kelandar tells you, 'he on he on! hehe lirus he on'
+[Tue Feb 19 18:27:21 2002] Horungen tells you, 'cus it doesnt mean anything.. but sounds ok'
+[Tue Feb 19 18:27:22 2002] Eilini says out of character, 'lol'
+[Tue Feb 19 18:27:23 2002] You GMSAY, 'Lirus, this guy Horungen says his name means "Son of Whores" in Swedish, his brother created the character as a joke for him, and now says other Swedes are causing trouble for him'
+[Tue Feb 19 18:27:26 2002] Kuvdaraya says out of character, 'why not go level in OT, awesome exp :)'
+[Tue Feb 19 18:27:36 2002] You GMSAY, 'I can't verify this, of course - grant him a name change?'
+[Tue Feb 19 18:27:39 2002] Lirus GMSAYS, 'ask him to submit proof to me via email'
+[Tue Feb 19 18:27:39 2002] Hykken says out of character, 'except for a ranger....their heal doesnt count'
+[Tue Feb 19 18:27:39 2002] Horungen tells you, 'but people who knows swedish say this "whore child" 8( its not fun'
+[Tue Feb 19 18:27:50 2002] You GMSAY, 'okay'
+[Tue Feb 19 18:27:50 2002] Kainite auctions, 'WTB thick banded belt send tells'
+[Tue Feb 19 18:27:51 2002] Slithle says out of character, 'where are all the gm events going on?'
+[Tue Feb 19 18:27:51 2002] Jamms says out of character, 'lol'
+[Tue Feb 19 18:27:51 2002] Nazbag GMSAYS, '36 levels of joke is kinda weak'
+[Tue Feb 19 18:27:54 2002] Lirus GMSAYS, 'dictionary translation or something'
+[Tue Feb 19 18:28:01 2002] You GMSAY, 'I agree, I asked him about why so long...'
+[Tue Feb 19 18:28:02 2002] Jamms says out of character, 'I heal better than a ranger =)'
+[Tue Feb 19 18:28:10 2002] Peloor says out of character, 'what there a new message?'
+[Tue Feb 19 18:28:10 2002] Smural says out of character, 'on the legdends servers'
+[Tue Feb 19 18:28:14 2002] Katharsis says out of character, 'on the legends server'
+[Tue Feb 19 18:28:18 2002] Katharsis says out of character, 'lol'
+[Tue Feb 19 18:28:22 2002] Smural says out of character, 'hehe'
+[Tue Feb 19 18:28:32 2002] Dolcemorte tells you, 'well that Gm quest kinda sucked'
+[Tue Feb 19 18:28:37 2002] Espranza saved.
+[Tue Feb 19 18:28:39 2002] Jebble begins to cast a spell. (Gate)
+[Tue Feb 19 18:28:42 2002] Horungen tells you, 'i mean i dont ask for changing name... just have the name Horun instead.. sounds better and people like it'
+[Tue Feb 19 18:28:52 2002] Peloor says out of character, 'i guess not'
+[Tue Feb 19 18:28:56 2002] Jebble begins to cast a spell. (Spikecoat)
+[Tue Feb 19 18:29:01 2002] You told Horungen, 'Well, none of us online right now know Swedish. Could you send proof of the name and its translation by email to the GM?'
+[Tue Feb 19 18:29:04 2002] Timberin shouts, 'Tping everywhere for donations at ring, send tells if ya need a lift'
+[Tue Feb 19 18:29:16 2002] Moline says out of character, 'ahoy Timberin!'
+[Tue Feb 19 18:29:20 2002] You told Dolcemorte, 'How so?'
+[Tue Feb 19 18:29:25 2002] You GMSAY, 'Dolcemorte says: That GM quest kinda sucked :/'
+[Tue Feb 19 18:29:25 2002] Dolcemorte tells you, 'Same one as last time'
+[Tue Feb 19 18:29:27 2002] Lyenya shouts, 'Chanter, healer, nuker , bard, and ranger seeing tank'
+[Tue Feb 19 18:29:27 2002] Timberin says out of character, 'heya Moline =)'
+[Tue Feb 19 18:29:39 2002] Dolcemorte tells you, 'But this time get crappy axe.. malo and a bag'
+[Tue Feb 19 18:29:47 2002] Dolcemorte tells you, 'Last time thunder earring dropped heh..'
+[Tue Feb 19 18:29:56 2002] Lirus GMSAYS, 'thank him for his feedback'
+[Tue Feb 19 18:29:56 2002] Horungen tells you, 'yeah.. oki. and another person to clarify the name wouldnt be enough?'
+[Tue Feb 19 18:29:57 2002] You told Dolcemorte, 'random loot'
+[Tue Feb 19 18:29:59 2002] Dolcemorte tells you, 'Would hope GM's changed the quest's...not do the same one over again'
+[Tue Feb 19 18:30:15 2002] Hexian GMSAYS, 'tell him to cry a river build a bridge and GET OVER IT!... I mean what Lirus said......'
+[Tue Feb 19 18:30:16 2002] Lirus GMSAYS, 'i'll add it to my That's nice file'
+[Tue Feb 19 18:30:29 2002] You GMSAY, 'heh.. he said the quest was the same as last time but the loot sucked :) typical uber reaction'
+[Tue Feb 19 18:30:30 2002] Nazbag GMSAYS, 'Dolce is a long standing turkey'
+[Tue Feb 19 18:30:38 2002] Nilles shouts, 'need a tank group '
+[Tue Feb 19 18:30:47 2002] Glenndon says out of character, 'Group needs tank send tells'
+[Tue Feb 19 18:30:48 2002] Nwinko shouts, '46 rogue lfg'
+[Tue Feb 19 18:30:52 2002] Lirus GMSAYS, 'it wasn't the same actually, but whatever he can think what he wants'
+[Tue Feb 19 18:31:06 2002] Sirch shouts, '44 druid LFG'
+[Tue Feb 19 18:31:52 2002] You told Horungen, 'Just provide some way Lirus can confirm the translation'
+[Tue Feb 19 18:32:01 2002] You told Horungen, 'and then we'll be able to change your first name'
+[Tue Feb 19 18:32:08 2002] Nwinko shouts, '46 rogue lfg'
+[Tue Feb 19 18:32:17 2002] Horungen tells you, 'k.. can i have the email to send this translation?'
+[Tue Feb 19 18:32:29 2002] Slithle says out of character, '45 necro lfg'
+[Tue Feb 19 18:32:29 2002] You told Horungen, 'you can send Lirus email through the Contact Your GM link on the www.everquest.com web page.'
+[Tue Feb 19 18:32:30 2002] Nazbag GMSAYS, 'is there "an official announcement about this night of adventure thing"?'
+[Tue Feb 19 18:32:44 2002] Nikademus auctions, 'WTB or WTT for all Nitilims Grimoire pages'
+[Tue Feb 19 18:32:47 2002] Eilini shouts, 'wizzy and tank looking for more to grp'
+[Tue Feb 19 18:32:50 2002] Slithle auctions, 'WTB words of obligation and collection (caza) PPPst.'
+[Tue Feb 19 18:32:56 2002] You GMSAY, 'yes'
+[Tue Feb 19 18:33:03 2002] Slithle auctions, 'WTB Bone Chips! PPPst.'
+[Tue Feb 19 18:33:05 2002] Nwinko shouts, '46 rogue lfg'
+[Tue Feb 19 18:33:05 2002] Lirus GMSAYS, 'aye several broadcasts made as well'
+[Tue Feb 19 18:33:09 2002] Glenndon says out of character, 'group looking for tank send tells'
+[Tue Feb 19 18:33:32 2002] Horungen tells you, 'ok.. thanx for ur help ill send the email'
+[Tue Feb 19 18:33:42 2002] You GMSAY, '<note gm> Horungen H24V39T says his name means "Child of Whores" in Swedish; asked to provide proof to Lirus via email'
+[Tue Feb 19 18:33:49 2002] You told Horungen, 'wonderful! be well!'
+[Tue Feb 19 18:33:52 2002] DELETING THIS PETITION
+[Tue Feb 19 18:33:54 2002] Horungen tells you, 'u 2'
+[Tue Feb 19 18:33:54 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Feb 19 18:33:55 2002] USER TEXT: is Tain hammerfrost still spawn... have not seen him
+[Tue Feb 19 18:33:55 2002] Players in EverQuest:
+[Tue Feb 19 18:33:55 2002] ---------------------------
+[Tue Feb 19 18:33:55 2002] [ANON (60 Sorcerer)] Dolcemorte (Erudite) ZONE: eastwastes (USER PID FQL6SPS)
+[Tue Feb 19 18:33:55 2002] There is 1 player in EverQuest.
+[Tue Feb 19 18:34:01 2002] Eilini shouts, 'grp neeeds healer types 2 spots open'
+[Tue Feb 19 18:34:01 2002] Nilles shouts, 'n wall group seeks a tank '
+[Tue Feb 19 18:34:08 2002] Maggina shouts, 'porting to wc,bb,nk,tox and surefall for donations'
+[Tue Feb 19 18:34:31 2002] Slithle says out of character, '45 necro lfg'
+[Tue Feb 19 18:34:40 2002] You told Dolcemorte, 'Hail, Dolcemorte! Senior Guide Espranza here. Tain Hammerfrost is chained in my basement, where I am using him as a love slave.'
+[Tue Feb 19 18:34:45 2002] You told Dolcemorte, 'was there anything else?'
+[Tue Feb 19 18:34:48 2002] Dolcemorte tells you, 'Figured heh'
+[Tue Feb 19 18:34:56 2002] Yorke GMSAYS, 'Howdy, Guidefolk!  Appy Yorke LFG  :-)'
+[Tue Feb 19 18:35:03 2002] You GMSAY, 'Woot! Yorke!'
+[Tue Feb 19 18:35:05 2002] Lirus GMSAYS, 'hi yorke!'
+[Tue Feb 19 18:35:06 2002] Ignite shouts, '42 wizzy seeks group'
+[Tue Feb 19 18:35:28 2002] Hexian GMSAYS, 'hey york.'
+[Tue Feb 19 18:35:29 2002] Nilles shouts, 'n wall group seeks a tank '
+[Tue Feb 19 18:35:36 2002] Glenndon says out of character, 'group looking for tank send tells'
+[Tue Feb 19 18:35:36 2002] Eilini shouts, 'grp on nwall by ruins seeks healer'
+[Tue Feb 19 18:35:38 2002] You told Dolcemorte, 'Where is Tain, and what is he for?'
+[Tue Feb 19 18:35:58 2002] Yorke GMSAYS, 'Yipes... lotta greenies for me!  Wahoo!'
+[Tue Feb 19 18:36:01 2002] Dolcemorte tells you, 'Eastern waste.. ring quest i do it over and over for friends and guildies heh'
+[Tue Feb 19 18:36:04 2002] Lirus GMSAYS, 'zone'
+[Tue Feb 19 18:36:07 2002] Teadyn says out of character, 'Hello everybody!'
+[Tue Feb 19 18:36:13 2002] Yorke GMSAYS, '(More red ones tho... snicker)'
+[Tue Feb 19 18:36:15 2002] Magnetician says out of character, 'Teadyn :)'
+[Tue Feb 19 18:36:19 2002] Teadyn says out of character, '/wave'
+[Tue Feb 19 18:36:19 2002] Yorke GMSAYS, 'Pulling Eonwe'
+[Tue Feb 19 18:36:41 2002] You feel as if you are about to fall.
+[Tue Feb 19 18:36:44 2002] Your feet leave the ground.
+[Tue Feb 19 18:36:45 2002] Ignite shouts, '42 wizzy seeks grouop'
+[Tue Feb 19 18:36:51 2002] Eilini shouts, 'grp seeks healer'
+[Tue Feb 19 18:37:00 2002] You told Dolcemorte, 'okay, I'll note it in my shift report'
+[Tue Feb 19 18:37:03 2002] Nilles shouts, 'n wall group seeks a tank '
+[Tue Feb 19 18:37:03 2002] Okemoo says out of character, '47 Wiz LFG'
+[Tue Feb 19 18:37:17 2002] You GMSAY, '<note> Tain Hammerfrost reported not spawning in EW'
+[Tue Feb 19 18:37:19 2002] DELETING THIS PETITION
+[Tue Feb 19 18:37:29 2002] Dolcemorte tells you, 'Eh thought you worked at home.. how do ya have a shift report heh'
+[Tue Feb 19 18:37:31 2002] Players in EverQuest:
+[Tue Feb 19 18:37:31 2002] ---------------------------
+[Tue Feb 19 18:37:31 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: citymist (USER PID CW1ECN5)
+[Tue Feb 19 18:37:31 2002] * Apprentice Guide *[20 Ranger] Yorke (Half Elf) ZONE: kithicor (USER PID FR27HBT)
+[Tue Feb 19 18:37:31 2002] * Guide *[50 Monk] Hexian (Iksar) <Keepers of Dreams> ZONE: westwastes (USER PID CUUVYEU)
+[Tue Feb 19 18:37:31 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: dreadlands (USER PID B4KJ6E7)
+[Tue Feb 19 18:37:31 2002] * Guide *[54 Mystic] Nazbag (Ogre) <Keepers of Dreams> ZONE: nro (USER PID EUUV5HS)
+[Tue Feb 19 18:37:31 2002] There are 5 players in EverQuest.
+[Tue Feb 19 18:37:36 2002] Magnetician says out of character, 'woot :)'
+[Tue Feb 19 18:37:36 2002] Caturix says out of character, 'LVL 41 Ranger LFG'
+[Tue Feb 19 18:37:41 2002] Magnetician says out of character, 'port already'
+[Tue Feb 19 18:38:14 2002] Nilles shouts, 'n wall group seeks a tank '
+[Tue Feb 19 18:38:15 2002] Renly begins to cast a spell. (Entrance)
+[Tue Feb 19 18:38:15 2002] Lathorn says out of character, 'lvl 40 Ranger LFG'
+[Tue Feb 19 18:38:17 2002] Purrz`s warder begins to cast a spell. (SOScEffect)
+[Tue Feb 19 18:38:21 2002] You GMSAY, 'well, plenty of guides on now, I'm going to head out... good luck on the adventure weekend :)'
+[Tue Feb 19 18:38:32 2002] Eilini shouts, 'grp seeks healer'
+[Tue Feb 19 18:38:49 2002] Espranza saved.
+[Tue Feb 19 18:39:04 2002] It will take you about 30 seconds to prepare your camp.
+[Tue Feb 19 18:39:04 2002] Dolcemorte tells you, 'guess the quest woulda been better if i lived thru it heh dieing not fun.. specially when just watching people attack him'
+[Tue Feb 19 18:39:06 2002] Lirus GMSAYS, 'see ya esp'
+[Tue Feb 19 18:39:08 2002] It will take about 25 more seconds to prepare your camp.
+[Tue Feb 19 18:39:09 2002] Lathorn says out of character, 'lvl 40 Ranger LFG'
+[Tue Feb 19 18:39:11 2002] You GMSAY, 'laters!'
+[Tue Feb 19 18:39:13 2002] It will take about 20 more seconds to prepare your camp.
+[Tue Feb 19 18:39:17 2002] Caturix says out of character, 'LVL 41 Ranger LFG'
+[Tue Feb 19 18:39:18 2002] It will take about 15 more seconds to prepare your camp.
+[Tue Feb 19 18:39:19 2002] Yorke GMSAYS, 'Appy Yorke still LFG... I'm in Kith and it looks like there is a General raid forming.  I don't wanna be in the way.  :-)'
+[Tue Feb 19 18:39:22 2002] You told Dolcemorte, 'yeah, dying is no fun'
+[Tue Feb 19 18:39:23 2002] It will take about 10 more seconds to prepare your camp.
+[Tue Feb 19 18:39:28 2002] It will take about 5 more seconds to prepare your camp.
+[Tue Feb 19 18:39:31 2002] You say to your guild, 'someone get the appie!'

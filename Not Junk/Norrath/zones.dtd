@@ -1,0 +1,9 @@
+<!ELEMENT adjacent EMPTY >
+<!ATTLIST adjacent name CDATA #REQUIRED >
+
+<!ELEMENT map ( zone+ ) >
+
+<!ELEMENT zone ( adjacent* ) >
+<!ATTLIST zone danger NMTOKEN #IMPLIED >
+<!ATTLIST zone at CDATA #IMPLIED >
+<!ATTLIST zone name CDATA #REQUIRED >

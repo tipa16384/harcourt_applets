@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DOCTYPE LESSON SYSTEM "leslet.dtd" -->
+
+<lesson>
+
+<page title="Introduction">
+
+<paragraph heading="Introduction">
+
+Creating computer programs involves being abele to break down
+complex problems into a logical sequence of events that will lead
+oto a solution. A progrma is simply a series of steps the computer
+must follow in order to solve the problem. One of the great aspects of computers
+is that they are quickly able to repeat steps over and over again,
+for as long as needed.
+
+</paragraph>
+
+</page>
+
+<page title="Writing a Program">
+
+<flipbook frames="4" src="IT205_0102GR01.gif" align="left"/>
+
+</page>
+
+<page title="Application">
+
+<!-- flipbook frames="4" src="IT205_0102GR01.gif" align="left"/ -->
+
+<paragraph heading="Exercises">
+Someone wants to determine how many boxes of cereal are 
+on a shelf.
+</paragraph>
+
+<quiz>
+
+<answer>
+What is the problem? How would you break
+this down into an algorithm?
+
+<ifselect>
+We want to count the number of boxes on a shelf. The solution
+would most likely involve either addition or multiplication, and
+so our algorithm will center around this. Specifically, we can
+either count each box individually (addition) or calculate the
+number of boxes by multiplying the number of rows of boxes by
+the number of boxes in a row.
+</ifselect>
+</answer>
+
+<answer>
+Now that we've analyzed the problem, what sort of algorithm
+can we derive from the analysis?
+
+<ifselect>
+
+Let's assume we have some method of looking at the shelf for
+boxes. The algorithm would be to look for a box. If we have not
+already seen this box, increment a box counter. Continue until
+we've seen all the boxes. Then display the final count.
+
+</ifselect>
+</answer>
+
+<answer>
+We've written a possible solution that follows the algorithm
+above. What should we do next?
+
+<ifselect>
+
+The next step would be to test the implementation. We would
+probably carefully control the input -- boxes
+on a shelf -- to see if the output -- the number of boxes --
+is what we expect. If there was a problem (say, there are two
+boxes on the shelf but the program claims the shelf is empty),
+then we go through the program step by step to see where the
+problem lies. This process is called debugging.
+
+</ifselect>
+</answer>
+
+<answer>
+
+Now that you've completed and tested your program, supermarkets
+begin to use it to count boxes. What sort of issues may arise?
+
+<ifselect>
+
+The users of the program may eventually encounter problems you
+hadn't considered, for instance, a different environment (computer,
+box counting hardware), or a slightly different usage (counting
+jars, for example). The use of the program may lead to minor
+or even substantial changes.
+
+</ifselect>
+
+</answer>
+
+</quiz>
+
+<paragraph>
+The implementation would involve translating the text of the
+algorithm into code. We've provided a possible solution in the
+next page.
+</paragraph>
+
+</page>
+
+<page title="Sample Solution">
+
+<paragraph heading="One possible solution">
+
+We assume that we're given some way to look for boxes
+and to know when we have no more boxes (we've counted
+them all). Let's call these functions moreBoxes (which
+returns true as long as there are more boxes to count)
+and nextBox (which looks for another box to count).
+
+</paragraph>
+
+<picture src="boxcounter.gif"/>
+
+<paragraph>
+
+</paragraph>
+
+</page>
+
+
+</lesson>

@@ -1,0 +1,965 @@
+[Mon Jan 14 13:43:58 2002] Welcome to EverQuest!
+[Mon Jan 14 13:43:58 2002] You have entered Sunset Home.
+[Mon Jan 14 13:43:58 2002] MESSAGE OF THE DAY: Welcome to Morell Thule! Please be as detailed as possible in your /petition and try not to send direct tells to GM's or Guides. Doing so will create delays in helping you and your fellow players.
+[Mon Jan 14 13:43:59 2002] GUILD MOTD: Espranza - Hug an appie today!
+[Mon Jan 14 13:44:03 2002] Players in EverQuest:
+[Mon Jan 14 13:44:03 2002] ---------------------------
+[Mon Jan 14 13:44:03 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Mon Jan 14 13:44:03 2002] * Apprentice Guide *[20 Bard] Neroli (Wood Elf) ZONE: butcher (USER PID AV6ZXJW)
+[Mon Jan 14 13:44:03 2002] * Apprentice Guide *[20 Ranger] Baratan (Human) ZONE: gfaydark (USER PID AXBVDPR)
+[Mon Jan 14 13:44:03 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: gfaydark (USER PID HU7F5NG)
+[Mon Jan 14 13:44:03 2002] There are 4 players in EverQuest.
+[Mon Jan 14 13:44:07 2002] You GMSAY, 'hello all!'
+[Mon Jan 14 13:44:24 2002] Your feet leave the ground.
+[Mon Jan 14 13:44:27 2002] Neroli GMSAYS, '<huggles Espranza> heya :)'
+[Mon Jan 14 13:44:28 2002] Kedian GMSAYS, 'heya esp!'
+[Mon Jan 14 13:44:35 2002] Baratan GMSAYS, 'Heya'
+[Mon Jan 14 13:44:37 2002] You GMSAY, '/em hugs the appies :)'
+[Mon Jan 14 13:45:01 2002] Baratan GMSAYS, 'pulling'
+[Mon Jan 14 13:45:01 2002] You GMSAY, 'how is everyone today?'
+[Mon Jan 14 13:45:14 2002] You GMSAY, 'Baratan, please say which petition you are pulling, thanks )'
+[Mon Jan 14 13:45:20 2002] Neroli GMSAYS, 'Kedian has been teaching me how to fall from heights and not die :)'
+[Mon Jan 14 13:45:21 2002] Kedian GMSAYS, 'doing good'
+[Mon Jan 14 13:45:40 2002] You GMSAY, 'bah, bard...'
+[Mon Jan 14 13:45:48 2002] You GMSAY, 'shoulda been a rogue (mutter)'
+[Mon Jan 14 13:45:55 2002] Kedian GMSAYS, 'wanna take em to FV?'
+[Mon Jan 14 13:46:07 2002] You GMSAY, 'heh that'll be fun -- ZONE'
+[Mon Jan 14 13:46:11 2002] Neroli GMSAYS, 'pulling Ennya'
+[Mon Jan 14 13:46:11 2002] Dolcemorte tells you, 'hi hi'
+[Mon Jan 14 13:46:16 2002] LOADING, PLEASE WAIT...
+[Mon Jan 14 13:47:15 2002] a drachnid weblurker died.
+[Mon Jan 14 13:47:23 2002] You have entered Firiona Vie.
+[Mon Jan 14 13:47:30 2002] You no longer have a target.
+[Mon Jan 14 13:47:30 2002] You no longer have a target.
+[Mon Jan 14 13:47:30 2002] You no longer have a target.
+[Mon Jan 14 13:47:33 2002] You told Dolcemorte, 'hello!'
+[Mon Jan 14 13:47:53 2002] Ailerina the Gentle begins to cast a spell. (Feedback)
+[Mon Jan 14 13:47:53 2002] You GMSAY, 'okay anyone who wants a little lift, please say zone for something special :)'
+[Mon Jan 14 13:48:01 2002] Neroli GMSAYS, 'Zoning - try not to miss me while I'm gone!'
+[Mon Jan 14 13:48:05 2002] Summoning neroli.
+[Mon Jan 14 13:48:25 2002] Baratan GMSAYS, 'What's best way to say I'm sorry but you'll need to take it up with the person who picked up your bag?'
+[Mon Jan 14 13:48:34 2002] You GMSAY, 'just as you said it'
+[Mon Jan 14 13:48:44 2002] Baratan GMSAYS, 'Oh, alrighty...heh'
+[Mon Jan 14 13:49:02 2002] Tai Glimmershawl shouts 'The Maiden's Voyage has completed her journey to Faydwer, and should be returning shortly.  Please, make yourself comfortable, it shall be here shortly. 
+[Mon Jan 14 13:49:18 2002] Neroli GMSAYS, 'Finished zoning - did you miss me?!?'
+[Mon Jan 14 13:49:27 2002] You GMSAY, 'of course L)'
+[Mon Jan 14 13:49:37 2002] Neroli says, 'wow this is amazing'
+[Mon Jan 14 13:49:38 2002] You say, 'challenge is to get down without dying'
+[Mon Jan 14 13:49:53 2002] You can no longer levitate.
+[Mon Jan 14 13:50:01 2002] Kedian invites you to join a group.
+[Mon Jan 14 13:50:01 2002] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Mon Jan 14 13:50:03 2002] You say, 'here goes...'
+[Mon Jan 14 13:50:03 2002] You notify Kedian that you agree to join the group.
+[Mon Jan 14 13:50:04 2002] You have joined the group.
+[Mon Jan 14 13:50:04 2002] Neroli has joined the group.
+[Mon Jan 14 13:50:04 2002] Baratan has joined the group.
+[Mon Jan 14 13:50:11 2002] Neroli says, 'heh had clip pane full 1 sec lagged'
+[Mon Jan 14 13:50:19 2002] You were hit by non-melee for 366 dmg.
+[Mon Jan 14 13:50:19 2002] YOU were injured by falling.
+[Mon Jan 14 13:50:22 2002] You say, 'ouch'
+[Mon Jan 14 13:50:27 2002] Kedian begins to cast a spell. (Contraction)
+[Mon Jan 14 13:50:29 2002] Kedian shrinks.
+[Mon Jan 14 13:50:43 2002] Maksim auctions, 'WTS Forest Loop ac2 dex/wis/agi3 - 350p'
+[Mon Jan 14 13:50:45 2002] Neroli tells the group, 'ok gonna finish this pet first :)'
+[Mon Jan 14 13:50:46 2002] Kedian tells the group, 'how exactly did you get up here esp?'
+[Mon Jan 14 13:50:46 2002] Maksim auctions, 'WTB Fungi Tunic for CASH !!!'
+[Mon Jan 14 13:50:46 2002] You were hit by non-melee for 714 dmg.
+[Mon Jan 14 13:50:46 2002] YOU were injured by falling.
+[Mon Jan 14 13:50:53 2002] You no longer have a target.
+[Mon Jan 14 13:50:53 2002] You no longer have a target.
+[Mon Jan 14 13:50:56 2002] Baratan GMSAYS, 'will finish this one and will call'
+[Mon Jan 14 13:50:57 2002] Kedian is bound to the area.
+[Mon Jan 14 13:51:03 2002] You tell your party, 'I climbed'
+[Mon Jan 14 13:51:18 2002] You tell your party, 'it's possible even without guide tools'
+[Mon Jan 14 13:51:19 2002] Kedian tells the group, 'hehe, I remember you telling me its a bind trick...but I dont know the details'
+[Mon Jan 14 13:51:19 2002] Kedian is surrounded by a brief aura.
+[Mon Jan 14 13:51:31 2002] Your feet leave the ground.
+[Mon Jan 14 13:51:52 2002] You tell your party, 'it's easier done with two people who each use /goto to get on top of the other person'
+[Mon Jan 14 13:51:58 2002] You tell your party, 'but I've done it solo'
+[Mon Jan 14 13:52:20 2002] You tell your party, 'I've seen people who can get from bottom to top in two minutes - it takes me a lot longer'
+[Mon Jan 14 13:52:23 2002] Kedian tells the group, 'hrmm, goto your self causes you to move forward a few inches...does it move you on Zplane as well?'
+[Mon Jan 14 13:52:36 2002] You tell your party, 'not to yourself, to another person'
+[Mon Jan 14 13:52:41 2002] You tell your party, 'you appear on top of them'
+[Mon Jan 14 13:52:47 2002] Kedian tells the group, 'ahh'
+[Mon Jan 14 13:52:53 2002] Neroli GMSAYS, 'Escalating Ennya, her corpse is bugged with 'your corpse is too far' even tho she is on top of it.  Needs help.'
+[Mon Jan 14 13:52:56 2002] You tell your party, 'anyway it helps with the tough first step'
+[Mon Jan 14 13:53:03 2002] Neroli GMSAYS, 'checking Ennya back in.'
+[Mon Jan 14 13:53:06 2002] Ailerina the Gentle begins to cast a spell. (Feedback)
+[Mon Jan 14 13:53:29 2002] Kedian tells the group, 'you guys wanna go on a stuck corpse pet in timorous?'
+[Mon Jan 14 13:53:30 2002] Baratan GMSAYS, 'advised that she will need to speak with player who picked up her bag'
+[Mon Jan 14 13:53:43 2002] The jig sends energy zinging through your body.
+[Mon Jan 14 13:53:45 2002] You no longer have a target.
+[Mon Jan 14 13:53:45 2002] You no longer have a target.
+[Mon Jan 14 13:53:48 2002] The jig sends energy zinging through your body.
+[Mon Jan 14 13:53:51 2002] Neroli tells the group, 'ooh please'
+[Mon Jan 14 13:53:53 2002] The jig sends energy zinging through your body.
+[Mon Jan 14 13:53:58 2002] The jig sends energy zinging through your body.
+[Mon Jan 14 13:54:00 2002] Kedian tells the group, 'how about you bar?'
+[Mon Jan 14 13:54:01 2002] Baratan GMSAYS, 'She says an NPC picked it up? Wha?'
+[Mon Jan 14 13:54:07 2002] You GMSAY, 'that can happen'
+[Mon Jan 14 13:54:14 2002] Kedian tells the group, 'yeah, NPCs pick stuff up all the time'
+[Mon Jan 14 13:54:14 2002] You are no longer invigorated.
+[Mon Jan 14 13:54:15 2002] You GMSAY, 'many NPCs pick up found items'
+[Mon Jan 14 13:54:15 2002] Guard Ashmod begins to cast a spell. (Valor of Marr)
+[Mon Jan 14 13:54:18 2002] Neroli GMSAYS, 'lol try Shar Vahl'
+[Mon Jan 14 13:54:24 2002] Baratan GMSAYS, 'new one on me, so she is out of luck?'
+[Mon Jan 14 13:54:30 2002] You GMSAY, 'alas, yes'
+[Mon Jan 14 13:54:31 2002] Neroli GMSAYS, 'I lost 11k of gear trying to twink my kitty before I realised'
+[Mon Jan 14 13:54:38 2002] Kedian GMSAYS, '<< zone >>'
+[Mon Jan 14 13:54:53 2002] You can't use that command right now...
+[Mon Jan 14 13:54:53 2002] Your feet leave the ground.
+[Mon Jan 14 13:54:53 2002] You can't use that command right now...
+[Mon Jan 14 13:54:54 2002] You can't use that command right now...
+[Mon Jan 14 13:54:54 2002] You can't use that command right now...
+[Mon Jan 14 13:54:54 2002] Your feet leave the ground.
+[Mon Jan 14 13:54:54 2002] You can't use that command right now...
+[Mon Jan 14 13:54:54 2002] Your feet leave the ground.
+[Mon Jan 14 13:54:55 2002] Your feet leave the ground.
+[Mon Jan 14 13:54:55 2002] You can't use that command right now...
+[Mon Jan 14 13:54:55 2002] Your feet leave the ground.
+[Mon Jan 14 13:54:55 2002] You can't use that command right now...
+[Mon Jan 14 13:54:55 2002] You can't use that command right now...
+[Mon Jan 14 13:54:55 2002] You can't use that command right now...
+[Mon Jan 14 13:54:56 2002] You can't use that command right now...
+[Mon Jan 14 13:54:56 2002] You can't use that command right now...
+[Mon Jan 14 13:54:56 2002] You can't use that command right now...
+[Mon Jan 14 13:54:56 2002] You can't use that command right now...
+[Mon Jan 14 13:54:56 2002] You can't use that command right now...
+[Mon Jan 14 13:54:57 2002] You can't use that command right now...
+[Mon Jan 14 13:54:57 2002] You can't use that command right now...
+[Mon Jan 14 13:54:57 2002] You can't use that command right now...
+[Mon Jan 14 13:54:57 2002] You can't use that command right now...
+[Mon Jan 14 13:54:57 2002] You can't use that command right now...
+[Mon Jan 14 13:54:58 2002] You can't use that command right now...
+[Mon Jan 14 13:54:58 2002] You can't use that command right now...
+[Mon Jan 14 13:54:58 2002] You can't use that command right now...
+[Mon Jan 14 13:54:58 2002] You can't use that command right now...
+[Mon Jan 14 13:54:58 2002] You can't use that command right now...
+[Mon Jan 14 13:54:59 2002] You can't use that command right now...
+[Mon Jan 14 13:54:59 2002] You can't use that command right now...
+[Mon Jan 14 13:54:59 2002] You can't use that command right now...
+[Mon Jan 14 13:54:59 2002] You can't use that command right now...
+[Mon Jan 14 13:54:59 2002] You can't use that command right now...
+[Mon Jan 14 13:55:00 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:01 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:01 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:02 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:03 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:03 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:04 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:05 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:05 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:06 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:06 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:07 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:08 2002] Your feet leave the ground.
+[Mon Jan 14 13:55:09 2002] Guard Degada begins to cast a spell. (Valor of Marr)
+[Mon Jan 14 13:55:46 2002] You say, 'How would you feel if your dad put up a 400 foot statue of you ... naked...'
+[Mon Jan 14 13:56:24 2002] Neroli says, 'heh I never realised that, poor girl'
+[Mon Jan 14 13:56:26 2002] You say, 'Kinda creepy if you ask me'
+[Mon Jan 14 13:56:50 2002] Ailerina the Gentle begins to cast a spell. (Wonderous Rapidity)
+[Mon Jan 14 13:56:51 2002] Baratan tells the group, 'Said that we cannot reimburse the items.....she was understanding, creepy.'
+[Mon Jan 14 13:57:16 2002] You tell your party, 'always refer people to the reimbursement policy as stated on the www.everquestlive.com website'
+[Mon Jan 14 13:57:27 2002] You tell your party, 'it's an excellent idea to check that out yourselves, too.'
+[Mon Jan 14 13:57:29 2002] Espranza saved.
+[Mon Jan 14 13:57:30 2002] Baratan tells the group, 'Wandering NPC picked up bag, not a player, explained we cannot reimburse.'
+[Mon Jan 14 13:57:42 2002] Neroli GMSAYS, 'pulling Dolo'
+[Mon Jan 14 13:58:02 2002] Baratan tells the group, 'I've read it, I forgot to mention to her though, will know better next time'
+[Mon Jan 14 13:58:24 2002] Neroli tells the group, 'petitioner went for a bio break, and while gone her room-mate gave her a surname and she wants it removing (57 druid) - can we help?'
+[Mon Jan 14 13:58:32 2002] Ailerina the Gentle begins to cast a spell. (Feedback)
+[Mon Jan 14 13:58:34 2002] Kedian tells the group, 'ok, call zoneing'
+[Mon Jan 14 13:58:39 2002] You tell your party, 'yes, escalate to red for me.'
+[Mon Jan 14 13:58:42 2002] Baratan GMSAYS, 'Settled Petition, deleting'
+[Mon Jan 14 13:58:51 2002] Baratan GMSAYS, 'Zone'
+[Mon Jan 14 13:59:14 2002] Maksim auctions, 'WTS Forest Loop ac2 dex/wis/agi3 - 350p || Wiz spell Tishan's Discord'
+[Mon Jan 14 13:59:35 2002] Neroli GMSAYS, 'Escalating Dolo to Red for name change and checking back in'
+[Mon Jan 14 13:59:40 2002] Neroli GMSAYS, 'Zoning - try not to miss me while I'm gone!'
+[Mon Jan 14 13:59:45 2002] RETRIEVING PETITION...PLEASE WAIT
+[Mon Jan 14 13:59:46 2002] USER TEXT: my friend gave me a last name when I went to rest room and I dont want it can you remove
+[Mon Jan 14 13:59:46 2002] Players in EverQuest:
+[Mon Jan 14 13:59:46 2002] ---------------------------
+[Mon Jan 14 13:59:46 2002] [57 Preserver] Dolo (Halfling) ZONE: tox (USER PID CSA485B)
+[Mon Jan 14 13:59:46 2002] There is 1 player in EverQuest.
+[Mon Jan 14 13:59:51 2002] You GMSAY, 'zone'
+[Mon Jan 14 13:59:53 2002] Teleporting to dolo.
+[Mon Jan 14 13:59:54 2002] LOADING, PLEASE WAIT...
+[Mon Jan 14 14:00:27 2002] You have entered Toxxulia Forest.
+[Mon Jan 14 14:00:27 2002] You have joined the group.
+[Mon Jan 14 14:00:34 2002] You can no longer levitate.
+[Mon Jan 14 14:00:38 2002] Teleporting to dolo.
+[Mon Jan 14 14:00:39 2002] A Mystic Voice shouts 'The portal to Luclin will become active in five minutes. Please begin gathering at the Spires if you wish to make the journey. 
+[Mon Jan 14 14:00:50 2002] You have changed Dolo's last name to .
+[Mon Jan 14 14:00:59 2002] Neroli GMSAYS, 'Finished zoning - did you miss me?!?'
+[Mon Jan 14 14:01:07 2002] You told Dolo, 'Hail, Dolo! Senior Guide Espranza here. Your last name has been removed!'
+[Mon Jan 14 14:01:16 2002] Dolo tells you, 'thank you'
+[Mon Jan 14 14:01:18 2002] Baratan tells the group, 'I feel gimpy, that was my first one,  heh, been a long time since I did a cust service call'
+[Mon Jan 14 14:01:23 2002] Kedian tells the group, 'ok, player is Ennya'
+[Mon Jan 14 14:01:34 2002] You GMSAY, '<note name> Dolo CSA485B last name removed by request.'
+[Mon Jan 14 14:01:34 2002] The spirit leaves you.
+[Mon Jan 14 14:01:36 2002] DELETING THIS PETITION
+[Mon Jan 14 14:01:38 2002] You feel the spirit of Norrath enter you.
+[Mon Jan 14 14:01:45 2002] Kedian tells the group, '/sea Ennya shows us atleast 1 corpse here, possible 2'
+[Mon Jan 14 14:02:03 2002] Baratan GMSAYS, 'Pulling DU9EFK4 Semmy'
+[Mon Jan 14 14:02:03 2002] Neroli tells the group, 'is that because its corpse1 not corpse0?'
+[Mon Jan 14 14:02:07 2002] Kedian tells the group, 'yep'
+[Mon Jan 14 14:02:10 2002] Neroli tells the group, 'ok :)'
+[Mon Jan 14 14:02:21 2002] Kedian tells the group, 'lets go check on corpse 1, whats the command to get there?'
+[Mon Jan 14 14:02:38 2002] Baratan tells the group, 'Need yo help? heheh Players are goofy'
+[Mon Jan 14 14:02:45 2002] A Mystic Voice shouts 'As a reminder, the portal will become active in three minutes. 
+[Mon Jan 14 14:02:55 2002] Neroli tells the group, '/goto ennya's corpse1'
+[Mon Jan 14 14:03:07 2002] Kedian tells the group, 'correct Neroli :)'
+[Mon Jan 14 14:03:34 2002] Baratan GMSAYS, 'No real info in Semmy petition, what's course of action? Just ask how I may assist?'
+[Mon Jan 14 14:03:37 2002] Neroli tells the group, 'heh I had one last night which was 'help' that was it LOL'
+[Mon Jan 14 14:03:45 2002] Neroli tells the group, 'hehe'
+[Mon Jan 14 14:03:47 2002] A Mystic Voice shouts 'Two minutes till teleportation. Please be prepared to step inside the circle of Spires. 
+[Mon Jan 14 14:03:57 2002] Kedian tells the group, 'ok, this is a little tricky..its in shallow water'
+[Mon Jan 14 14:04:09 2002] Kedian tells the group, 'if you swim down you can see it'
+[Mon Jan 14 14:04:31 2002] Neroli tells the group, 'ahh yes'
+[Mon Jan 14 14:04:46 2002] Neroli tells the group, 'awww bles she kept her legs covered'
+[Mon Jan 14 14:04:50 2002] A Mystic Voice shouts 'One minute till teleportation. Please be prepared to step inside the circle of Spires. 
+[Mon Jan 14 14:04:52 2002] Kedian tells the group, 'so, all im going to do is just summon it above the bottom of the ocean'
+[Mon Jan 14 14:05:12 2002] Kedian tells the group, 'some times corpses get stuck 'in' the floor, that is why we should allways levitate when summoning'
+[Mon Jan 14 14:05:25 2002] Neroli tells the group, '/summon ennya's corpse1'
+[Mon Jan 14 14:05:26 2002] Baratan GMSAYS, 'Do I ask for more info? Or tell him to petition with more information?'
+[Mon Jan 14 14:05:32 2002] Kedian tells the group, 'good :)'
+[Mon Jan 14 14:05:37 2002] A Mystic Voice shouts 'The portal to Luclin is about to become active. Please stand inside the circle of Spires and have a shard upon your person. 
+[Mon Jan 14 14:05:38 2002] Neroli tells the group, 'ask him how you can help him'
+[Mon Jan 14 14:05:39 2002] Kedian tells the group, 'if you have it targeted, you can just /summon'
+[Mon Jan 14 14:05:43 2002] Neroli tells the group, 'ahh cool ok'
+[Mon Jan 14 14:06:33 2002] Neroli tells the group, 'so just summoning it, even a small distance, clears the bug?'
+[Mon Jan 14 14:06:48 2002] Kedian tells the group, 'yeah, it was stuck in the ground, so I just moved it above the ground'
+[Mon Jan 14 14:07:12 2002] A Mystic Voice shouts 'In approximately 15 minutes the Spires will once again become active. 
+[Mon Jan 14 14:07:44 2002] Baratan tells the group, 'Raptors are messed up, can't panic them'
+[Mon Jan 14 14:07:44 2002] Kedian tells the group, 'any questions about summoning stuck corpses?'
+[Mon Jan 14 14:07:55 2002] Kedian tells the group, 'hehe, they are awesome exp'
+[Mon Jan 14 14:08:07 2002] Kedian tells the group, 'get abuot 4 of them, run around with some Aoes :)'
+[Mon Jan 14 14:08:09 2002] Neroli tells the group, 'lol seen many a necro and bard solo them'
+[Mon Jan 14 14:08:51 2002] Baratan tells the group, 'Well I assumed I could panic them since they're animals, unless they're sentient or something'
+[Mon Jan 14 14:09:15 2002] Neroli tells the group, 'you cant aggro them in guide form i believe'
+[Mon Jan 14 14:09:28 2002] Kedian tells the group, 'theres a few little quirks in EQ like that...'
+[Mon Jan 14 14:09:35 2002] Baratan tells the group, 'Ok, gotten no response? how long shoudl I wait?'
+[Mon Jan 14 14:09:49 2002] You tell your party, 'just mark unavail and move on'
+[Mon Jan 14 14:09:55 2002] Kedian tells the group, 'try talking to them again, if they dont respond mark unavalivable'
+[Mon Jan 14 14:09:57 2002] You tell your party, 'they have two more chances to talk to you'
+[Mon Jan 14 14:10:00 2002] Neroli GMSAYS, 'pulling Ludormo'
+[Mon Jan 14 14:10:19 2002] You tell your party, 'you don't want to spend more than two minutes waiting for a response'
+[Mon Jan 14 14:10:30 2002] Espranza saved.
+[Mon Jan 14 14:10:49 2002] You told Dol, 'Dol is not online at this time.'
+[Mon Jan 14 14:10:54 2002] Kedian tells the group, 'do you guys know who faydadar is?'
+[Mon Jan 14 14:10:54 2002] Baratan tells the group, 'Responded just then'
+[Mon Jan 14 14:10:58 2002] You tell your party, 'heh'
+[Mon Jan 14 14:11:41 2002] Neroli tells the group, 'Hes a dragon - first time I saw him I went oh hes tiny, is that it? and died 3 secs later'
+[Mon Jan 14 14:11:50 2002] Kedian tells the group, 'yeah, thats him :)'
+[Mon Jan 14 14:11:53 2002] Neroli tells the group, 'hehe'
+[Mon Jan 14 14:12:07 2002] Kedian tells the group, 'hes part of the druid epic, manualy spaned now. but he didnt used to allways be that way'
+[Mon Jan 14 14:12:09 2002] Baratan GMSAYS, 'Ever hear od Wyverns in CS sppearing on top of a pc when attacked instead of travelling to them?'
+[Mon Jan 14 14:12:24 2002] A Mystic Voice shouts 'In approximately 15 minutes the Spires will once again become active. 
+[Mon Jan 14 14:12:35 2002] Kedian tells the group, 'he would spawn once a week and terrorize this zone. Then he met an Iksar master who layed him to rest.  Would you like to meet an Iksar master?'
+[Mon Jan 14 14:13:11 2002] You GMSAY, 'yes, usually if the way was obstructed'
+[Mon Jan 14 14:13:11 2002] Aeliot auctions, 'WTS Bronze BP medium 17ac 34pp | Small Bronze Bracer 7ac 14pp | Small banded mask 4ac 4pp'
+[Mon Jan 14 14:13:19 2002] Kedian tells the group, 'hrmm, pets are just rolling in..*pulls one*'
+[Mon Jan 14 14:13:42 2002] Baratan GMSAYS, 'so not a bug just the way it happens?'
+[Mon Jan 14 14:13:46 2002] You GMSAY, 'Hrududu - rabbit word for "automobile" in Watership Down... bad name or not? Anyone?'
+[Mon Jan 14 14:13:49 2002] You GMSAY, 'aye, Baratan'
+[Mon Jan 14 14:14:02 2002] Baratan GMSAYS, 'never been to cs, so I know little about the Wyverns'
+[Mon Jan 14 14:14:02 2002] Kedian tells the group, '*nod* NPCs have teleportaion powers :)'
+[Mon Jan 14 14:14:06 2002] You GMSAY, 'to prevent exploits, mobs can go straight to the player if they seem to be blocked'
+[Mon Jan 14 14:14:11 2002] You must first select a target for this spell!
+[Mon Jan 14 14:14:45 2002] You tell your party, 'question: can this be used as a pulling strategy?'
+[Mon Jan 14 14:15:16 2002] Baratan GMSAYS, 'should i tell him that then? A mob may got directly to its attacker if it's path seems blocked, and that it is not a bug?'
+[Mon Jan 14 14:15:40 2002] Aeliot auctions, 'WTS Bronze BP medium 17ac 34pp | Small Bronze Bracer 7ac 14pp | Small banded mask 4ac 4pp'
+[Mon Jan 14 14:16:05 2002] You GMSAY, 'yes'
+[Mon Jan 14 14:16:15 2002] Kedian GMSAYS, 'we have to becarefull of the 'mechanics' information we release. So you can say its not a bug, but sugar coat it :)'
+[Mon Jan 14 14:17:08 2002] Neroli GMSAYS, 'deleting Ludormo - advised him just because he died and cant find his corpse because he has the sky turned off because of Luclin does not mean we have to recover his corpse :) but politely'
+[Mon Jan 14 14:17:26 2002] Neroli GMSAYS, 'pulling Allahi'
+[Mon Jan 14 14:17:37 2002] A Mystic Voice shouts 'The portal to Luclin will become active in five minutes. Please begin gathering at the Spires if you wish to make the journey. 
+[Mon Jan 14 14:17:43 2002] Kedian tells the group, 'how did he die neroli?'
+[Mon Jan 14 14:18:16 2002] Neroli tells the group, 'he was running through a zone and entered a tunnel before he realised it because he couldnt see, and died in the tunnel because he was KoS'
+[Mon Jan 14 14:18:25 2002] Kedian tells the group, 'ok'
+[Mon Jan 14 14:18:39 2002] Neroli tells the group, 'dangers that happen when exploring and travelling Norrath :)'
+[Mon Jan 14 14:18:44 2002] Kedian tells the group, 'overthere is a boat zone, and ppl like to die on boats...just something to keep in mind'
+[Mon Jan 14 14:18:50 2002] Neroli tells the group, 'oh wow a chessboard'
+[Mon Jan 14 14:18:59 2002] Neroli tells the group, 'raptor island'
+[Mon Jan 14 14:19:43 2002] A Mystic Voice shouts 'As a reminder, the portal will become active in three minutes. 
+[Mon Jan 14 14:19:50 2002] Neroli GMSAYS, 'what advice would you give for someone who's computer freezes up everytime they zone, apart from perhaps altering datarate.txt?'
+[Mon Jan 14 14:19:52 2002] Baratan GMSAYS, 'deleting Semmy, advised that mobs may attack directly is path is blocked, and that it is not unusual. Also explained that he can subit bugs using bug social hotkey.'
+[Mon Jan 14 14:20:24 2002] Kedian GMSAYS, '<< zone >>'
+[Mon Jan 14 14:20:39 2002] Espranza saved.
+[Mon Jan 14 14:20:46 2002] A Mystic Voice shouts 'Two minutes till teleportation. Please be prepared to step inside the circle of Spires. 
+[Mon Jan 14 14:20:50 2002] You GMSAY, 'freezing when they zone? possible memory issue'
+[Mon Jan 14 14:21:06 2002] You GMSAY, 'I would advise them to turn off all models, animations, and whatnot in Luclin if theyhave it.'
+[Mon Jan 14 14:21:06 2002] Baratan GMSAYS, 'Pulling Roanon'
+[Mon Jan 14 14:21:20 2002] Neroli GMSAYS, 'ok thanks :)'
+[Mon Jan 14 14:21:26 2002] Your feet leave the ground.
+[Mon Jan 14 14:21:48 2002] A Mystic Voice shouts 'One minute till teleportation. Please be prepared to step inside the circle of Spires. 
+[Mon Jan 14 14:22:08 2002] Baratan GMSAYS, 'Player says there is a reproduceable crash bug when buying from merchants, should I have him submit bug report?'
+[Mon Jan 14 14:22:19 2002] Kedian GMSAYS, 'is he buying more than 1 item?'
+[Mon Jan 14 14:22:27 2002] Kedian GMSAYS, 'eg Shift+purchase?'
+[Mon Jan 14 14:22:35 2002] Baratan GMSAYS, 'let's find out'
+[Mon Jan 14 14:22:35 2002] A Mystic Voice shouts 'The portal to Luclin is about to become active. Please stand inside the circle of Spires and have a shard upon your person. 
+[Mon Jan 14 14:23:22 2002] Aeliot says out of character, 'i dont feel comfortable with my crystalized shadow sword anymore, hehe my identify song says it sense a trapped soul in it'
+[Mon Jan 14 14:24:10 2002] A Mystic Voice shouts 'In approximately 15 minutes the Spires will once again become active. 
+[Mon Jan 14 14:25:48 2002] Baratan GMSAYS, 'He is purchasing with Shift + Click and says that he does not have enough money, but it gives no error message and crashed him to his desktop, can be reproduced'
+[Mon Jan 14 14:26:00 2002] Kedian GMSAYS, '*nod* its a known bug'
+[Mon Jan 14 14:26:28 2002] You GMSAY, 'report it anyway'
+[Mon Jan 14 14:26:47 2002] Players in EverQuest:
+[Mon Jan 14 14:26:47 2002] ---------------------------
+[Mon Jan 14 14:26:47 2002] There are no players in EverQuest that match those who filters.
+[Mon Jan 14 14:26:49 2002] You GMSAY, 'zone'
+[Mon Jan 14 14:26:51 2002] ERROR: Couldn't get safe coords for kerra, unable to zone.
+
+[Mon Jan 14 14:26:58 2002] LOADING, PLEASE WAIT...
+[Mon Jan 14 14:27:32 2002] You have entered Kerra Isle.
+[Mon Jan 14 14:27:32 2002] You have joined the group.
+[Mon Jan 14 14:28:20 2002] Baratan tells the group, 'When purchasing with shift+click form merchants without enough money, player was dropped to desktop with no error message, advised that report will be passed along.'
+[Mon Jan 14 14:28:32 2002] You GMSAY, 'semi-afk, working on daughter's computer'
+[Mon Jan 14 14:28:36 2002] Baratan tells the group, 'crap,heh, I forget to key that append'
+[Mon Jan 14 14:29:03 2002] Baratan tells the group, 'Do i say it is a known bug?'
+[Mon Jan 14 14:29:17 2002] Antarg GMSAYS, 'hoi'
+[Mon Jan 14 14:29:24 2002] Baratan GMSAYS, 'Hello'
+[Mon Jan 14 14:29:29 2002] Kedian tells the group, 'no need'
+[Mon Jan 14 14:29:46 2002] Kedian GMSAYS, 'heya ant!'
+[Mon Jan 14 14:29:54 2002] Antarg GMSAYS, 'whats up?'
+[Mon Jan 14 14:29:54 2002] You GMSAY, 'heya antarg!'
+[Mon Jan 14 14:29:56 2002] Players in EverQuest:
+[Mon Jan 14 14:29:56 2002] ---------------------------
+[Mon Jan 14 14:29:56 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: kerraridge (USER PID B4KJ6E7)
+[Mon Jan 14 14:29:56 2002] * Guide *[51 Pathfinder] Antarg (Half Elf) <Keepers of Dreams> ZONE: oot (USER PID BUUXHKW)
+[Mon Jan 14 14:29:56 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: ecommons (USER PID HU7F5NG)
+[Mon Jan 14 14:29:56 2002] * Apprentice Guide *[20 Bard] Neroli (Wood Elf) ZONE: timorous (USER PID AV6ZXJW)
+[Mon Jan 14 14:29:56 2002] * Apprentice Guide *[20 Ranger] Baratan (Human) ZONE: timorous (USER PID AXBVDPR)
+[Mon Jan 14 14:29:56 2002] There are 5 players in EverQuest.
+[Mon Jan 14 14:30:37 2002] Kedian GMSAYS, '<< zone >>'
+[Mon Jan 14 14:30:41 2002] Neroli GMSAYS, 'heya Antarg'
+[Mon Jan 14 14:30:44 2002] Antarg GMSAYS, 'lol cool, Aaroner's PID is 'full of mana lady''
+[Mon Jan 14 14:30:54 2002] a kerran awrat begins to cast a spell. (Inner Fire)
+[Mon Jan 14 14:31:04 2002] Baratan tells the group, 'Now just delete once logged?'
+[Mon Jan 14 14:31:54 2002] You tell your party, 'yes'
+[Mon Jan 14 14:31:58 2002] You tell your party, 'make sure to annoucne it'
+[Mon Jan 14 14:32:08 2002] Neroli GMSAYS, 'Deleting Allahi - advised her to check her datarate file, plus disable luclin models, and if still having problems to congrats Tech Support on the EQ Website.'
+[Mon Jan 14 14:32:13 2002] Baratan GMSAYS, 'deleting Roanon's petition, Logged bug and thanked for the information.'
+[Mon Jan 14 14:32:38 2002] Neroli GMSAYS, 'ummm to contact Tech Support, even :)'
+[Mon Jan 14 14:32:57 2002] Baratan tells the group, 'It's the procedural things that I'm not used to yet, just wanting to make 100% sure.'
+[Mon Jan 14 14:32:58 2002] Neroli GMSAYS, '<huggles Antarg> heya :)'
+[Mon Jan 14 14:32:59 2002] Baratan GMSAYS, 'Pulling Aaroner'
+[Mon Jan 14 14:33:21 2002] Kedian tells the group, 'bar, you been on a stuck merchant pet yet?'
+[Mon Jan 14 14:33:38 2002] Antarg tells the guild, 'I'm considering applying to join SWAT when my 5 months is up, still get to work here but will be able to help with the queue like I enjoy on other servers :)'
+[Mon Jan 14 14:33:53 2002] You feel as if you are about to fall.
+[Mon Jan 14 14:33:58 2002] Baratan GMSAYS, 'We having any current server issues?'
+[Mon Jan 14 14:33:59 2002] You feel as if you are about to fall.
+[Mon Jan 14 14:34:03 2002] Kedian tells the guild, 'lol, I was thinkin the same thing...but I think swat is 2month minimum'
+[Mon Jan 14 14:34:05 2002] You can no longer levitate.
+[Mon Jan 14 14:34:13 2002] Kedian tells the group, 'not that I know of bar, whats up?'
+[Mon Jan 14 14:34:14 2002] Antarg tells the guild, 'only two month?'
+[Mon Jan 14 14:34:21 2002] a kerran awrat begins to cast a spell. (Inner Fire)
+[Mon Jan 14 14:34:22 2002] Kedian tells the guild, 'yeah..let me look real fast'
+[Mon Jan 14 14:34:30 2002] Antarg tells the guild, 'Esp what would we do to apply?'
+[Mon Jan 14 14:34:38 2002] Baratan tells the group, 'Have a druid going LD, probably a connect problem I think'
+[Mon Jan 14 14:35:01 2002] You say to your guild, 'to join SWAT?'
+[Mon Jan 14 14:35:04 2002] Kedian tells the guild, 'yeah, its 2 months'
+[Mon Jan 14 14:35:06 2002] Antarg tells the guild, 'yeah'
+[Mon Jan 14 14:35:07 2002] Neroli GMSAYS, 'ok sirs and ma'am, Im heading to bed - thank you all for your help tonight and thanks for the lessons and testing Kedian, I appreciate it alot :) '
+[Mon Jan 14 14:35:16 2002] Neroli GMSAYS, '<huggles everyone goodnight>'
+[Mon Jan 14 14:35:18 2002] Baratan GMSAYS, 'Good night, have a good one'
+[Mon Jan 14 14:35:24 2002] You say to your guild, 'send an email to the swat team telling them of your interest, copy it to seniors'
+[Mon Jan 14 14:35:31 2002] You GMSAY, 'night Neroli!'
+[Mon Jan 14 14:35:31 2002] Kedian tells the guild, '"This teams membership is of guides and seniors...membership to the team is open to those who have been a guide for at least two months" (ref pnp 3.7.2.1.2'
+[Mon Jan 14 14:35:46 2002] Kedian tells the group, 'see ya neroli'
+[Mon Jan 14 14:35:52 2002] Neroli has left the group.
+[Mon Jan 14 14:36:03 2002] Kedian tells the guild, 'need a recomendation from two seniors and a GM'
+[Mon Jan 14 14:36:28 2002] You say to your guild, 'that's why you email to seniors :) actually you could probably start off with just an email to the SMT'
+[Mon Jan 14 14:36:59 2002] Kedian tells the guild, 'is Lirus on the MorellThuleSeniors@? or do we have to CC her seperatly?'
+[Mon Jan 14 14:37:07 2002] You say to your guild, 'She is on the SMT list'
+[Mon Jan 14 14:37:32 2002] Kedian tells the guild, 'ok, thanks'
+[Mon Jan 14 14:37:37 2002] Espranza saved.
+[Mon Jan 14 14:37:47 2002] Kedian tells the guild, 'hey antarg, check yer icq and authorize me :)'
+[Mon Jan 14 14:37:50 2002] Antarg tells the guild, 'great thanks for info Esp, I'll send my application right after I'm done here :)'
+[Mon Jan 14 14:37:54 2002] Kedian tells the group, 'Baratan, wanna go on a lost merchant pet?'
+[Mon Jan 14 14:38:12 2002] Antarg GMSAYS, 'I havnt logged into ICQ for a while... makes DAoC crash'
+[Mon Jan 14 14:38:17 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 14:38:19 2002] The spirit leaves you.
+[Mon Jan 14 14:38:24 2002] Baratan tells the group, 'Sure......Dru went ld again it seems'
+[Mon Jan 14 14:38:27 2002] Baratan GMSAYS, 'Zone'
+[Mon Jan 14 14:38:40 2002] You say to your guild, 'seniors are mobidly obsessed with what their guides are doing, so always include us in your plans :)'
+[Mon Jan 14 14:38:58 2002] Kedian tells the guild, 'Yes Mother :)'
+[Mon Jan 14 14:39:08 2002] Antarg tells the guild, 'I got no problem with that :)'
+[Mon Jan 14 14:39:30 2002] Kedian tells the group, 'ok, the lost merchant is Bilbis Briar, how do we go get to him?'
+[Mon Jan 14 14:39:42 2002] Antarg tells the guild, 'I only started thinking about it when I realised how often I get on when I notice there is a high queue :)'
+[Mon Jan 14 14:40:00 2002] It begins to rain.
+[Mon Jan 14 14:40:08 2002] Kedian tells the guild, '*nod* I camp the message boards while working...when it goes up I hop on..heh'
+[Mon Jan 14 14:40:17 2002] Antarg tells the guild, 'same'
+[Mon Jan 14 14:40:24 2002] Baratan tells the group, '.. /goto Bilbis Briar ?'
+[Mon Jan 14 14:40:46 2002] Kedian tells the group, 'ok, NPC names end with a two digit number, and spaces are marked by an underline'
+[Mon Jan 14 14:40:51 2002] You say to your guild, 'Seniors can see the queues for other servers'
+[Mon Jan 14 14:40:55 2002] Kedian tells the group, 'so in this case, we would use Bilbis_Briar00'
+[Mon Jan 14 14:40:56 2002] You say to your guild, 'in swat you could, as well'
+[Mon Jan 14 14:41:28 2002] Baratan tells the group, 'Ah, good to know,,,,,my dru petitioner went ld again it seems'
+[Mon Jan 14 14:41:28 2002] a kerran awrat begins to cast a spell. (Spirit of Wolf)
+[Mon Jan 14 14:41:30 2002] Kedian tells the group, 'if there were two Bilbis Briar, then we would have Bilbis_Briar00 and Bilbis_Briar01...and so on'
+[Mon Jan 14 14:41:36 2002] Baratan tells the group, 'Ok'
+[Mon Jan 14 14:41:44 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 14:41:48 2002] Baratan tells the group, 'Ah, he was attacked'
+[Mon Jan 14 14:41:54 2002] Kedian tells the group, 'carefull, theres a zone line there'
+[Mon Jan 14 14:42:08 2002] Antarg tells the guild, 'I hope I wouldnt have too much trouble getting a recommendation, but I havnt been in any trouble so I doubt it will be a problem :)'
+[Mon Jan 14 14:42:12 2002] Kedian tells the group, 'so, according to your pnp, what is the first step for correcting a merchant?'
+[Mon Jan 14 14:42:42 2002] Kedian tells the guild, 'What? you mean we have to keep outta trouble?...so much for my surname :)'
+[Mon Jan 14 14:42:44 2002] Iffrir Soulcaller begins to cast a spell. (Spirit of Wolf)
+[Mon Jan 14 14:42:54 2002] Baratan tells the group, 'Digs trough his pnp'
+[Mon Jan 14 14:43:03 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 14:43:11 2002] Antarg tells the guild, 'causing riots isnt 'trouble' according to the PnP :)'
+[Mon Jan 14 14:43:23 2002] Kedian tells the guild, 'Ohh *whew* ok....'
+[Mon Jan 14 14:43:49 2002] Antarg tells the guild, 'people actually think I'm two classes :)'
+[Mon Jan 14 14:43:51 2002] Iffrir Soulcaller begins to cast a spell. (Spirit of Wolf)
+[Mon Jan 14 14:44:09 2002] Baratan tells the group, 'Guide item to clear his memory or /kill'
+[Mon Jan 14 14:44:11 2002] Kedian tells the guild, 'Ohh the ranger bard?..hehe'
+[Mon Jan 14 14:44:27 2002] Antarg tells the guild, 'I die twice as fast as any normal ranger or bard'
+[Mon Jan 14 14:44:35 2002] Kedian tells the group, 'well, thats correct, some what. First we mem blur..so lets do that now'
+[Mon Jan 14 14:44:43 2002] Baratan tells the group, 'Ok, Mem blur'
+[Mon Jan 14 14:44:55 2002] Kedian tells the group, 'well, that didnt seem to do anything. '
+[Mon Jan 14 14:44:59 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 14:45:00 2002] Kedian tells the group, 'so what should we do now?'
+[Mon Jan 14 14:45:23 2002] Baratan tells the group, 'Ok, my dru is ld, do I append that she went ld and ckeck back in?...... /kill him?'
+[Mon Jan 14 14:45:44 2002] Baratan tells the group, 'Ah, back, will contact'
+[Mon Jan 14 14:45:58 2002] Antarg tells the guild, 'we should take the appy for a walk :)'
+[Mon Jan 14 14:46:00 2002] Kedian tells the group, 'well, we are allowed to kill him. but that means he wont be back for about 15 min.  Look at the "for brave guides only"'
+[Mon Jan 14 14:46:49 2002] Antarg GMSAYS, 'zone'
+[Mon Jan 14 14:47:16 2002] Baratan tells the group, 'Ring of banishment, if it follows, quickly use guide helm'
+[Mon Jan 14 14:47:45 2002] Antarg has joined the group.
+[Mon Jan 14 14:47:47 2002] Espranza saved.
+[Mon Jan 14 14:48:20 2002] Kedian tells the group, 'ok, according to the pnp that is correct. However the guide items have changed a little bit, and the Pnp hasnt. We have a ring, or a wand that casts Guide Cancel Magic'
+[Mon Jan 14 14:48:28 2002] Kedian tells the group, 'then we have arms that memblur'
+[Mon Jan 14 14:48:37 2002] Baratan tells the group, 'ok, Dru's problem started today. Should I suggest she check connection and email  tech support?'
+[Mon Jan 14 14:48:40 2002] Kedian tells the group, 'the helm is actauly Shadow Step, and is rarely usefull'
+[Mon Jan 14 14:48:52 2002] Antarg tells the group, 'the actual bracers dont proc... or atleast they dont for me'
+[Mon Jan 14 14:48:57 2002] You tell your party, 'Baratan, tech support is the right place to go for technical help...!'
+[Mon Jan 14 14:49:01 2002] Kedian tells the group, 'so now the trick is to find out where he belongs...and I think its in this tower behind us'
+[Mon Jan 14 14:49:13 2002] Antarg tells the group, 'I know where he belongs :)'
+[Mon Jan 14 14:49:24 2002] Baratan tells the group, 'Sorry, bad habit. Yeah, second floor I believe.'
+[Mon Jan 14 14:49:26 2002] Iffrir Soulcaller begins to cast a spell. (Spirit of Wolf)
+[Mon Jan 14 14:49:31 2002] Antarg tells the group, 'here'
+[Mon Jan 14 14:49:34 2002] Kedian tells the group, 'ok, this will be fun'
+[Mon Jan 14 14:49:34 2002] You tell your party, 'careful, I think Bilbis is a merchant guards assst'
+[Mon Jan 14 14:49:39 2002] Kedian tells the group, 'as the guards will agro'
+[Mon Jan 14 14:49:54 2002] Kedian tells the group, 'so, we should make sure players are out of the way'
+[Mon Jan 14 14:49:54 2002] Antarg tells the group, 'can I train the guards away while they fix him? :)'
+[Mon Jan 14 14:50:11 2002] You tell your party, 'it's important to know that Bilbis is the placeholder for the watchman boots quest'
+[Mon Jan 14 14:50:21 2002] Kedian tells the group, 'good point esp'
+[Mon Jan 14 14:50:22 2002] You tell your party, 'and that killing him will prematurely spawn the qatchman'
+[Mon Jan 14 14:50:26 2002] Iffrir Soulcaller begins to cast a spell. (Spirit of Wolf)
+[Mon Jan 14 14:50:29 2002] Antarg tells the group, 'alright, so he HAS to be reset or GM reset'
+[Mon Jan 14 14:50:30 2002] You tell your party, 'so we don't want to kill him if we don't have to'
+[Mon Jan 14 14:50:31 2002] Kedian tells the group, 'so that means we have kill restraint on him'
+[Mon Jan 14 14:50:46 2002] Kedian tells the group, 'ok, here we go :)'
+[Mon Jan 14 14:50:51 2002] Antarg tells the group, 'alright, permission to kill the guards then Es?'
+[Mon Jan 14 14:51:01 2002] You tell your party, 'try normally and see how you do'
+[Mon Jan 14 14:51:17 2002] Kedian tells the group, 'im a beast :)'
+[Mon Jan 14 14:51:45 2002] Kedian tells the group, 'and we check to make sure hes back operational'
+[Mon Jan 14 14:51:54 2002] Antarg tells the group, 'nice job, last time I tried he wanted to be placed right against the wall :)'
+[Mon Jan 14 14:52:04 2002] Kedian tells the group, 'hes not *quite* in teh spot...but he works'
+[Mon Jan 14 14:52:42 2002] Antarg tells the group, 'the way to get him against the wall would be to agro him from here, then run past him to the corner once he hits you'
+[Mon Jan 14 14:52:57 2002] Kedian tells the group, 'the guards probibly didnt agro because of the level difference'
+[Mon Jan 14 14:53:20 2002] Antarg tells the group, 'I've seen them agro on a 60 druid'
+[Mon Jan 14 14:54:00 2002] Kedian tells the group, 'well, I also have a deal worked out with Antionus Bale, the guards know better :)'
+[Mon Jan 14 14:54:01 2002] Baratan GMSAYS, 'Deleting Aaroner, suggested checking Everquest website Technical support section for more help.'
+[Mon Jan 14 14:54:05 2002] Antarg tells the group, 'I think it's because he didnt hit you within their agro range'
+[Mon Jan 14 14:54:58 2002] Baratan GMSAYS, 'Well all I must away was fun, feeling a little more comfortable already. Gotta feed the dog and make dinner, will catch up to you all again later'
+[Mon Jan 14 14:55:11 2002] Kedian tells the group, 'ok, see ya bar'
+[Mon Jan 14 14:55:21 2002] a kerran awrat begins to cast a spell. (Spirit of Wolf)
+[Mon Jan 14 14:55:21 2002] You GMSAY, 'laters, Baratan!'
+[Mon Jan 14 14:55:25 2002] Antarg tells the group, 'another reset that comes often is the gypsie that gives out rewards for lightstones'
+[Mon Jan 14 14:55:25 2002] Players on EverQuest:
+[Mon Jan 14 14:55:25 2002] ---------------------------
+[Mon Jan 14 14:55:25 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Jan 14 14:55:25 2002] There is 1 player in Kerra Isle.
+[Mon Jan 14 14:55:37 2002] Antarg tells the group, 'she often appears half way across the zone :)'
+[Mon Jan 14 14:55:38 2002] Baratan tells the group, 'heh, I'm such a newbie again...heh'
+[Mon Jan 14 14:56:02 2002] Kedian tells the group, 'well, being a guide is a whole new aspect to everquest :)'
+[Mon Jan 14 14:56:27 2002] Antarg tells the group, 'I been here 3 months and I'm still learning stuff :)'
+[Mon Jan 14 14:56:38 2002] Baratan GMSAYS, 'now I feel stupid, forgot to say zone.'
+[Mon Jan 14 14:57:02 2002] Swiftmoor GMSAYS, 'hmm, let's see if I remember how to do this.  ahem.  Hello all.'
+[Mon Jan 14 14:57:13 2002] Kedian GMSAYS, 'hehe, dont wory about it...one day you will get used to saying zone, then you will logon your play charcter and start announcing in guildchat when you zone'
+[Mon Jan 14 14:57:16 2002] Baratan GMSAYS, 'Hello, and good bye, Camping'
+[Mon Jan 14 14:57:19 2002] Kedian GMSAYS, 'Swift!'
+[Mon Jan 14 14:57:19 2002] Antarg GMSAYS, 'swift!'
+[Mon Jan 14 14:57:30 2002] Swiftmoor GMSAYS, 'Hello and farewell Baratan'
+[Mon Jan 14 14:57:38 2002] Baratan GMSAYS, 'I will meet you next time'
+[Mon Jan 14 14:57:44 2002] Swiftmoor GMSAYS, 'count on it'
+[Mon Jan 14 14:57:44 2002] Baratan has left the group.
+[Mon Jan 14 14:57:58 2002] Espranza saved.
+[Mon Jan 14 14:57:59 2002] Antarg GMSAYS, 'Swift come mentor us! :)'
+[Mon Jan 14 14:58:33 2002] Swiftmoor GMSAYS, 'hmm, ok'
+[Mon Jan 14 14:58:40 2002] a kerran awrat begins to cast a spell. (Inner Fire)
+[Mon Jan 14 14:59:20 2002] Kedian tells the group, 'lol, I just noticed that.....pony tail, ant...its hillarious!'
+[Mon Jan 14 14:59:20 2002] Swiftmoor GMSAYS, 'forgive me if I'm slow today.  No hotbuttons.  Going to try and ninja install it through the other compuer'
+[Mon Jan 14 15:00:02 2002] Antarg tells the group, 'check out the rompus room board, theres a funny picture of a euro :)'
+[Mon Jan 14 15:00:35 2002] Kedian GMSAYS, 'you can install everything with just the patcher except for luclin...lpatch gets an attitude when you want to do a large download'
+[Mon Jan 14 15:00:40 2002] Swiftmoor GMSAYS, 'ok, so who's leading a group?'
+[Mon Jan 14 15:00:49 2002] Kedian GMSAYS, 'I am'
+[Mon Jan 14 15:00:51 2002] Antarg GMSAYS, 'ke'
+[Mon Jan 14 15:01:12 2002] Swiftmoor GMSAYS, 'I just swiped my character files off of one computer and put it into the other one.  So when I zone I should have my hot buttons back'
+[Mon Jan 14 15:01:16 2002] Swiftmoor GMSAYS, 'zoning'
+[Mon Jan 14 15:02:10 2002] Swiftmoor has joined the group.
+[Mon Jan 14 15:02:21 2002] Kedian tells the group, 'you guys see Lirus's new sig on the msg board?'
+[Mon Jan 14 15:02:27 2002] Antarg tells the group, 'it's hilarious'
+[Mon Jan 14 15:02:29 2002] Swiftmoor tells the group, 'bah. it didn't work.  Going to camp and come back'
+[Mon Jan 14 15:02:58 2002] Antarg GMSAYS, 'anon/invis ksing pet'
+[Mon Jan 14 15:03:01 2002] Swiftmoor has left the group.
+[Mon Jan 14 15:04:37 2002] Lirus GMSAYS, 'howdy'
+[Mon Jan 14 15:04:42 2002] Kedian GMSAYS, 'heya lirus!'
+[Mon Jan 14 15:04:43 2002] Antarg GMSAYS, 'heya Lirus'
+[Mon Jan 14 15:04:50 2002] Antarg GMSAYS, 'nerf'd any good names today? :)'
+[Mon Jan 14 15:04:50 2002] Lirus GMSAYS, 'wow monstrous que today'
+[Mon Jan 14 15:04:55 2002] Lirus GMSAYS, 'yeah fhagghit'
+[Mon Jan 14 15:05:10 2002] Lirus GMSAYS, 'that was the best'
+[Mon Jan 14 15:05:11 2002] Antarg tells the group, 'you in a pet Ked?'
+[Mon Jan 14 15:05:14 2002] Lirus GMSAYS, 'that i remember this week'
+[Mon Jan 14 15:05:15 2002] Kedian tells the group, 'nope, whats up?'
+[Mon Jan 14 15:05:22 2002] Antarg tells the group, 'inquire Gosuu for me?'
+[Mon Jan 14 15:05:38 2002] Kedian tells the group, 'no soulmark'
+[Mon Jan 14 15:05:42 2002] Antarg tells the group, 'tnx'
+[Mon Jan 14 15:05:46 2002] Kedian tells the group, 'np'
+[Mon Jan 14 15:05:47 2002] Lirus GMSAYS, 'btw in case you haven't seen my latest posts, i'm gonna have an extended dinner tonight'
+[Mon Jan 14 15:05:53 2002] Lirus GMSAYS, 'will be gone for about 2 hours'
+[Mon Jan 14 15:06:02 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:06:15 2002] Antarg GMSAYS, 'alrighty'
+[Mon Jan 14 15:06:55 2002] Antarg tells the group, 'hmm, how'd he remain invis while casting?'
+[Mon Jan 14 15:07:16 2002] Kedian tells the group, 'bard song?'
+[Mon Jan 14 15:07:31 2002] Antarg tells the group, 'he a drood'
+[Mon Jan 14 15:07:39 2002] Kedian tells the group, 'is he grouped with a bard?'
+[Mon Jan 14 15:07:43 2002] Antarg tells the group, 'nope'
+[Mon Jan 14 15:08:04 2002] Kedian tells the group, 'is he moveing?'
+[Mon Jan 14 15:08:08 2002] Espranza saved.
+[Mon Jan 14 15:08:11 2002] Kedian tells the group, 'he could cast, and press hide real fast'
+[Mon Jan 14 15:08:15 2002] Antarg tells the group, 'not now'
+[Mon Jan 14 15:08:20 2002] Kedian tells the group, 'but hide drops when you move'
+[Mon Jan 14 15:08:33 2002] Lirus GMSAYS, 'so umm  how goes it today? seems rather quiet'
+[Mon Jan 14 15:08:38 2002] Antarg tells the group, 'he was invis, then cast another invis, during the time he was always invis'
+[Mon Jan 14 15:08:56 2002] Kedian GMSAYS, 'its goin good'
+[Mon Jan 14 15:09:06 2002] Antarg GMSAYS, 'is not bad'
+[Mon Jan 14 15:09:06 2002] Lirus GMSAYS, 'sweet'
+[Mon Jan 14 15:09:12 2002] Kedian GMSAYS, 'though now that you said something. I just got a pet for ya :)'
+[Mon Jan 14 15:09:19 2002] Lirus GMSAYS, 'cool what bout?'
+[Mon Jan 14 15:09:44 2002] Kedian GMSAYS, 'somone needs their guild re-created, said he was talkin to you yesterday....let me quiz him a little bit'
+[Mon Jan 14 15:09:57 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:10:06 2002] Swiftmoor GMSAYS, 'oh yeah, there's my hotbuttons'
+[Mon Jan 14 15:10:12 2002] Lirus GMSAYS, 'hi swift'
+[Mon Jan 14 15:10:19 2002] Swiftmoor GMSAYS, 'Hey Lirus'
+[Mon Jan 14 15:10:21 2002] Swiftmoor has joined the group.
+[Mon Jan 14 15:10:31 2002] Antarg GMSAYS, 'by the way Lirus, got a pet beggin you not to leave last night'
+[Mon Jan 14 15:10:36 2002] Lirus GMSAYS, 'hehe'
+[Mon Jan 14 15:10:37 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:10:42 2002] Lirus GMSAYS, 'who was it do ya remember?'
+[Mon Jan 14 15:10:47 2002] Antarg GMSAYS, 'after some conversation trying to find out why they thought you were leaving'
+[Mon Jan 14 15:11:02 2002] Antarg GMSAYS, 'they said "Lirus is Michelle Butler right"'
+[Mon Jan 14 15:11:13 2002] Swiftmoor GMSAYS, 'lol'
+[Mon Jan 14 15:11:14 2002] Antarg GMSAYS, 'dont remember, was a really long name'
+[Mon Jan 14 15:11:21 2002] Lirus GMSAYS, 'LOL'
+[Mon Jan 14 15:11:47 2002] Lirus GMSAYS, 'they thought i was michelle *laugh*'
+[Mon Jan 14 15:11:58 2002] Lirus GMSAYS, 'how ciute'
+[Mon Jan 14 15:12:19 2002] Swiftmoor tells the group, 'Hey Esp, level 1 with the name nippleringz, want me to suggest they delete and start over, or you want to deal with it?'
+[Mon Jan 14 15:12:32 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:12:47 2002] Kedian tells the group, 'ant, are you dealing with Grignak in velks?'
+[Mon Jan 14 15:12:55 2002] Antarg tells the group, 'yeah, just went visible'
+[Mon Jan 14 15:13:18 2002] Kedian tells the group, '<note badname> griggnak DN8S4KT'
+[Mon Jan 14 15:13:54 2002] Swiftmoor tells the group, '<note badname> nippleringz (A4X4RHX)'
+[Mon Jan 14 15:14:21 2002] Kedian tells the group, 'heh, this 47 sk zoned into fear, and is stuck...heh, poor guy :/'
+[Mon Jan 14 15:14:32 2002] Swiftmoor tells the group, 'woops'
+[Mon Jan 14 15:15:15 2002] Swiftmoor GMSAYS, 'Now that I'm back, can I have a raise Lirus?'
+[Mon Jan 14 15:15:16 2002] a kerran awrat begins to cast a spell. (Spirit of Wolf)
+[Mon Jan 14 15:15:42 2002] Lirus GMSAYS, 'a raise hmmm'
+[Mon Jan 14 15:15:48 2002] Lirus GMSAYS, 'what level ya need?'
+[Mon Jan 14 15:15:54 2002] Swiftmoor GMSAYS, '52 I guess'
+[Mon Jan 14 15:15:55 2002] Kedian GMSAYS, 'yes, double his wages *snicker* :)'
+[Mon Jan 14 15:16:12 2002] You GMSAY, 'haha soryr was afk a moment'
+[Mon Jan 14 15:16:21 2002] You GMSAY, 'lemme see what level you are swift'
+[Mon Jan 14 15:16:41 2002] You GMSAY, 'was working on my daughter's computer'
+[Mon Jan 14 15:17:02 2002] Swiftmoor GMSAYS, 'sounds like fun (note sarcasm)'
+[Mon Jan 14 15:17:33 2002] Antarg GMSAYS, 'Lirus can you pull a report on Gosuu for me? it sounds petty but need to check it anyway'
+[Mon Jan 14 15:17:56 2002] You GMSAY, 'what is your played dats, swft?'
+[Mon Jan 14 15:18:02 2002] Lirus GMSAYS, 'sure antarg'
+[Mon Jan 14 15:18:11 2002] Swiftmoor GMSAYS, 'Jul 3'
+[Mon Jan 14 15:18:18 2002] Espranza saved.
+[Mon Jan 14 15:18:21 2002] You GMSAY, 'yeah you should be 52'
+[Mon Jan 14 15:18:27 2002] You GMSAY, 'can't find my sheet :)'
+[Mon Jan 14 15:18:30 2002] RETRIEVING PETITION...PLEASE WAIT
+[Mon Jan 14 15:18:31 2002] USER TEXT: hello, i have to talk with Lirus about disband and create my guild. We already talk yesterday..i was waiting him
+[Mon Jan 14 15:18:31 2002] Players in EverQuest:
+[Mon Jan 14 15:18:31 2002] ---------------------------
+[Mon Jan 14 15:18:31 2002] [60 High Priest] Dorinn (Dwarf) <Pandore> ZONE: greatdivide (USER PID FSFEPR4)
+[Mon Jan 14 15:18:31 2002] There is 1 player in EverQuest.
+[Mon Jan 14 15:18:34 2002] UNDOING CHECK OUT
+[Mon Jan 14 15:18:35 2002] RETRIEVING PETITION...PLEASE WAIT
+[Mon Jan 14 15:18:36 2002] USER TEXT: gm please make nippleringz change his name!!
+[Mon Jan 14 15:18:36 2002] Players in EverQuest:
+[Mon Jan 14 15:18:36 2002] ---------------------------
+[Mon Jan 14 15:18:36 2002] [ANON (56 Templar)] Caramia (Human) ZONE: nektulos (USER PID EVQB98Q)
+[Mon Jan 14 15:18:36 2002] There is 1 player in EverQuest.
+[Mon Jan 14 15:18:42 2002] Swiftmoor GMSAYS, 'did you leave it inside the other computer? :)'
+[Mon Jan 14 15:18:45 2002] Players in EverQuest:
+[Mon Jan 14 15:18:45 2002] ---------------------------
+[Mon Jan 14 15:18:45 2002] [1 Rogue] Nippleringz (Dark Elf) ZONE: nektulos (USER PID A4X4RHX)
+[Mon Jan 14 15:18:45 2002] There is 1 player in EverQuest.
+[Mon Jan 14 15:19:05 2002] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Mon Jan 14 15:19:06 2002] You GMSAY, 'it's on this computer, it's a spreadsheet; I printed it out a couple days ago but it's messy here'
+[Mon Jan 14 15:19:09 2002] You GMSAY, 'zone'
+[Mon Jan 14 15:19:15 2002] Teleporting to nippleringz.
+[Mon Jan 14 15:19:16 2002] LOADING, PLEASE WAIT...
+[Mon Jan 14 15:19:46 2002] You have entered Nektulos Forest.
+[Mon Jan 14 15:19:47 2002] You have joined the group.
+[Mon Jan 14 15:19:49 2002] Lirus GMSAYS, 'the report showed no text from gosuu'
+[Mon Jan 14 15:19:58 2002] Antarg GMSAYS, 'alright'
+[Mon Jan 14 15:20:00 2002] Lirus GMSAYS, 'swifty goto me'
+[Mon Jan 14 15:20:01 2002] Antarg GMSAYS, 'thanks Lirus'
+[Mon Jan 14 15:20:02 2002] You have changed Nippleringz's name to Nirin.
+[Mon Jan 14 15:20:11 2002] Lirus GMSAYS, 'np'
+[Mon Jan 14 15:20:12 2002] Swiftmoor GMSAYS, 'I got papers, about 20 disks thrown about, one computer open, hardware here and there.  Wires everywhere'
+[Mon Jan 14 15:20:23 2002] Swiftmoor GMSAYS, 'Let me finish up here, might take a bit'
+[Mon Jan 14 15:20:29 2002] Lirus GMSAYS, 'k'
+[Mon Jan 14 15:20:43 2002] You told Nirin, 'Hail! Senior Guide Espranza here. Your name was offensive, I have changed it. Please petition again within three days in order to choose a permanent name, otherwise Nirin will be your permanent name. Thank you.'
+[Mon Jan 14 15:20:48 2002] Zuluazera says out of character, 'can somone help me find my corps?'
+[Mon Jan 14 15:20:50 2002] Players in EverQuest:
+[Mon Jan 14 15:20:50 2002] ---------------------------
+[Mon Jan 14 15:20:50 2002] [1 Rogue] Nirin (Dark Elf) ZONE: nektulos (USER PID A4X4RHX)
+[Mon Jan 14 15:20:50 2002] There is 1 player in EverQuest.
+[Mon Jan 14 15:20:52 2002] Swiftmoor GMSAYS, 'so I'm stunk on el junko computer until I get DSL back'
+[Mon Jan 14 15:21:09 2002] Nirin tells you, 'okee :)'
+[Mon Jan 14 15:21:15 2002] You GMSAY, '<note name> Nippleringz A4X4RHX name ninja changed to Nirin, advised to choose a new one within three days.'
+[Mon Jan 14 15:21:26 2002] DELETING THIS PETITION
+[Mon Jan 14 15:21:32 2002] Players in EverQuest:
+[Mon Jan 14 15:21:32 2002] ---------------------------
+[Mon Jan 14 15:21:32 2002] [1 Rogue] Nirin (Dark Elf) ZONE: nektulos (USER PID A4X4RHX)
+[Mon Jan 14 15:21:32 2002] There is 1 player in EverQuest.
+[Mon Jan 14 15:21:59 2002] Soul Mark added to file successfully.
+[Mon Jan 14 15:22:55 2002] You feel the spirit of Norrath enter you.
+[Mon Jan 14 15:23:13 2002] Lirus GMSAYS, 'need a guide to goto me please'
+[Mon Jan 14 15:23:16 2002] You GMSAY, 'omw'
+[Mon Jan 14 15:23:17 2002] Antarg GMSAYS, 'righty'
+[Mon Jan 14 15:23:18 2002] You GMSAY, 'zone'
+[Mon Jan 14 15:23:20 2002] Teleporting to lirus.
+[Mon Jan 14 15:23:21 2002] LOADING, PLEASE WAIT...
+[Mon Jan 14 15:24:20 2002] You have entered The Great Divide.
+[Mon Jan 14 15:24:20 2002] You have joined the group.
+[Mon Jan 14 15:24:23 2002] Lirus waves at Swiftmoor.
+[Mon Jan 14 15:24:29 2002] Lirus waves at Espranza.
+[Mon Jan 14 15:24:34 2002] Lirus waves at Antarg.
+[Mon Jan 14 15:24:34 2002] Dorinn says, 'hello )'
+[Mon Jan 14 15:24:35 2002] You say to your guild, 'you asked for one, got us all'
+[Mon Jan 14 15:24:37 2002] Swiftmoor GMSAYS, 'aww, look at all the sheep'
+[Mon Jan 14 15:24:38 2002] Lirus tells the guild, 'hehehe'
+[Mon Jan 14 15:24:41 2002] Dorinn bows before Antarg.
+[Mon Jan 14 15:24:44 2002] Dorinn bows before Espranza.
+[Mon Jan 14 15:24:45 2002] Players in EverQuest:
+[Mon Jan 14 15:24:45 2002] ---------------------------
+[Mon Jan 14 15:24:45 2002] * Guide *[51 Disciple] Swiftmoor (Iksar) <Keepers of Dreams> ZONE: greatdivide (USER PID EUUWZVJ)
+[Mon Jan 14 15:24:45 2002] * Guide *[51 Pathfinder] Antarg (Half Elf) <Keepers of Dreams> ZONE: greatdivide (USER PID BUUXHKW)
+[Mon Jan 14 15:24:45 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: greatdivide (USER PID B4KJ6E7)
+[Mon Jan 14 15:24:45 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: greatdivide (USER PID CW1ECN5)
+[Mon Jan 14 15:24:45 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: northkarana (USER PID HU7F5NG)
+[Mon Jan 14 15:24:45 2002] There are 5 players in EverQuest.
+[Mon Jan 14 15:24:50 2002] Lirus tells the guild, 'thanks for coming down)'
+[Mon Jan 14 15:24:50 2002] Dorinn bows before Swiftmoor.
+[Mon Jan 14 15:24:59 2002] Lirus tells the guild, 'need one of ya to disband from the guild'
+[Mon Jan 14 15:24:59 2002] You say to your guild, 'hey ding swifty while he's here'
+[Mon Jan 14 15:25:11 2002] Lirus tells the guild, 'dinged'
+[Mon Jan 14 15:25:12 2002] Players on EverQuest:
+[Mon Jan 14 15:25:12 2002] ---------------------------
+[Mon Jan 14 15:25:12 2002] * GM * [51 Pathfinder] Antarg (Half Elf) <Keepers of Dreams>
+[Mon Jan 14 15:25:12 2002] [30 Warrior] Guiardianstorm (Half Elf)
+[Mon Jan 14 15:25:12 2002] * GM * [52 Disciple] Swiftmoor (Iksar) <Keepers of Dreams>
+[Mon Jan 14 15:25:12 2002] [37 Monk] Lydya (Human) <Chevaliers de la Licorne>
+[Mon Jan 14 15:25:12 2002] [37 Druid] Bearwolf (Wood Elf) <Chevaliers de la Licorne>
+[Mon Jan 14 15:25:12 2002] [38 Paladin] Patladin (Human) <Chevaliers de la Licorne>
+[Mon Jan 14 15:25:12 2002] [ANONYMOUS] Bastvani  <Temple of Dawn>
+[Mon Jan 14 15:25:12 2002] [60 High Priest] Dorinn (Dwarf) <Pandore>
+[Mon Jan 14 15:25:12 2002] [ANONYMOUS] Brilo 
+[Mon Jan 14 15:25:12 2002] [54 Wanderer] Windias (Unknown) <The Avant Guard>
+[Mon Jan 14 15:25:12 2002] [38 Wizard] Kaalvi (Human) <Menestrels>
+[Mon Jan 14 15:25:12 2002] [ANONYMOUS] Matthis  <Celestial Sphere>
+[Mon Jan 14 15:25:12 2002] [38 Paladin] Emilien (High Elf) <Chevaliers de la Licorne>
+[Mon Jan 14 15:25:12 2002] [43 Necromancer] Nosgoroth (Erudite) <Renaissance>
+[Mon Jan 14 15:25:12 2002] [60 Warlord] Boogalooga (Ogre) <Fury's Edge>
+[Mon Jan 14 15:25:12 2002] [60 Warlord] Sharnhorst (Half Elf) <Thunderwalkers>
+[Mon Jan 14 15:25:12 2002] [54 Channeler] Oxforge (Gnome) <United Guardians> LFG
+[Mon Jan 14 15:25:12 2002] [56 Beguiler] Wasaabi (High Elf)
+[Mon Jan 14 15:25:12 2002] [50 Warrior] Sildorf (Dark Elf) <United Guardians>
+[Mon Jan 14 15:25:12 2002] [39 Druid] Fancad (Wood Elf) <Guardians of Truth>
+[Mon Jan 14 15:25:12 2002] [46 Warrior] Malinki (Wood Elf) <Random Acts>
+[Mon Jan 14 15:25:12 2002] [50 Shadow Knight] Tinnax (Dark Elf) <Random Acts>
+[Mon Jan 14 15:25:12 2002] [59 Myrmidon] Hanible (Ogre) <Triune> LFG
+[Mon Jan 14 15:25:12 2002] * GM * [60 Assassin] Lirus (Barbarian) <Keepers of Dreams>
+[Mon Jan 14 15:25:12 2002] [ANONYMOUS] Raeann  <Random Acts>
+[Mon Jan 14 15:25:12 2002] [49 Bard] Sophitya (Dark Elf) <Random Acts>
+[Mon Jan 14 15:25:12 2002] [49 Druid] Parin (Wood Elf) <Random Acts>
+[Mon Jan 14 15:25:12 2002] [60 Hierophant] Jakke (Human) <Fury's Edge>
+[Mon Jan 14 15:25:12 2002] [54 Vicar] Lillaen (High Elf) <Wind of Fates>
+[Mon Jan 14 15:25:12 2002] [59 Evoker] Calelin (Human)
+[Mon Jan 14 15:25:12 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Jan 14 15:25:12 2002] There are 31 players in Great Divide.
+[Mon Jan 14 15:25:13 2002] Swiftmoor tells the guild, 'I can do it'
+[Mon Jan 14 15:25:18 2002] Guiardianstorm shouts, '30 warrior looking to join kodiak group'
+[Mon Jan 14 15:25:18 2002] Players in EverQuest:
+[Mon Jan 14 15:25:18 2002] ---------------------------
+[Mon Jan 14 15:25:18 2002] * Guide *[51 Disciple] Swiftmoor (Iksar) <Keepers of Dreams> ZONE: greatdivide (USER PID EUUWZVJ)
+[Mon Jan 14 15:25:18 2002] There is 1 player in EverQuest.
+[Mon Jan 14 15:25:18 2002] Antarg tells the guild, 'me too :)'
+[Mon Jan 14 15:25:19 2002] Swiftmoor cheers.
+[Mon Jan 14 15:25:25 2002] Swiftmoor is no longer a member of your guild.
+[Mon Jan 14 15:25:28 2002] Guiardianstorm says, 'hi lirus'
+[Mon Jan 14 15:25:31 2002] Players on EverQuest:
+[Mon Jan 14 15:25:31 2002] ---------------------------
+[Mon Jan 14 15:25:31 2002] * GM * [52 Disciple] Swiftmoor (Iksar)
+[Mon Jan 14 15:25:31 2002] There is 1 player in Great Divide.
+[Mon Jan 14 15:25:34 2002] Guiardianstorm says, 'hi all gm's'
+[Mon Jan 14 15:25:37 2002] You say to your guild, 'okay I'll go :)'
+[Mon Jan 14 15:25:37 2002] Lirus says, 'ok Dorrin type /guildd'
+[Mon Jan 14 15:25:39 2002] Swiftmoor says, 'Hello'
+[Mon Jan 14 15:25:45 2002] You GMSAY, 'zone'
+[Mon Jan 14 15:25:51 2002] Dorinn says, 'done'
+[Mon Jan 14 15:25:58 2002] Lirus says, 'thanks, one moment'
+[Mon Jan 14 15:25:59 2002] LOADING, PLEASE WAIT...
+[Mon Jan 14 15:26:36 2002] You have entered Kerra Isle.
+[Mon Jan 14 15:26:36 2002] You have joined the group.
+[Mon Jan 14 15:26:41 2002] Players on EverQuest:
+[Mon Jan 14 15:26:41 2002] ---------------------------
+[Mon Jan 14 15:26:41 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Jan 14 15:26:41 2002] There is 1 player in Kerra Isle.
+[Mon Jan 14 15:27:04 2002] You GMSAY, 'this redesign of kerra turned a lesser used zone into a zone nobody uses.'
+[Mon Jan 14 15:27:28 2002] You GMSAY, 'not even good to raise erudin faction anymore.'
+[Mon Jan 14 15:27:36 2002] Antarg GMSAYS, 'wasnt the glowing black stone drop removed in qeyhills?'
+[Mon Jan 14 15:27:36 2002] Lirus tells the guild, 'swift say something in guildsay'
+[Mon Jan 14 15:27:37 2002] Kedian tells you, 'does lirus deal with comprimized accounts, or is that a phone-call type thing?'
+[Mon Jan 14 15:28:02 2002] Lirus GMSAYS, 'swift say something in guildsay'
+[Mon Jan 14 15:28:02 2002] You told Kedian, 'esc to her.'
+[Mon Jan 14 15:28:04 2002] Kedian tells you, 'k'
+[Mon Jan 14 15:28:14 2002] Drunken ghulam is surrounded by a brief lupine aura.
+[Mon Jan 14 15:28:16 2002] Swiftmoor GMSAYS, 'ok'
+[Mon Jan 14 15:28:25 2002] Lirus GMSAYS, 'now zone'
+[Mon Jan 14 15:28:29 2002] Swiftmoor GMSAYS, 'k'
+[Mon Jan 14 15:28:29 2002] Lirus GMSAYS, 'and come back'
+[Mon Jan 14 15:28:31 2002] Your feet leave the ground.
+[Mon Jan 14 15:28:32 2002] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Mon Jan 14 15:28:52 2002] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Mon Jan 14 15:29:22 2002] a wild tiger scowls at you, ready to attack -- You could probably win this fight.
+[Mon Jan 14 15:29:50 2002] You GMSAY, 'I never heard the GBS was removed'
+[Mon Jan 14 15:30:01 2002] Kedian GMSAYS, 'I haven't either'
+[Mon Jan 14 15:30:04 2002] a kerran mujahed begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:30:07 2002] Players on EverQuest:
+[Mon Jan 14 15:30:07 2002] ---------------------------
+[Mon Jan 14 15:30:07 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Jan 14 15:30:07 2002] There is 1 player in Kerra Isle.
+[Mon Jan 14 15:30:15 2002] Antarg GMSAYS, 'hmm, some friends told me it was... doesnt drop every time though right?'
+[Mon Jan 14 15:30:19 2002] Swiftmoor GMSAYS, 'my own guild.  neat'
+[Mon Jan 14 15:30:24 2002] You GMSAY, 'it's a rare drop'
+[Mon Jan 14 15:30:27 2002] Lirus GMSAYS, 'it's still in game'
+[Mon Jan 14 15:30:32 2002] Antarg GMSAYS, 'alright thanks Lirus'
+[Mon Jan 14 15:30:52 2002] RETRIEVING PETITION...PLEASE WAIT
+[Mon Jan 14 15:30:53 2002] USER TEXT: Hello, I just tried getting one of my accounts but it says that my station name or password was incorrect... so in other words someone stole my account i know almost all my characters on the account and the old station name and password plz hury
+[Mon Jan 14 15:30:53 2002] Players in EverQuest:
+[Mon Jan 14 15:30:53 2002] ---------------------------
+[Mon Jan 14 15:30:53 2002] [1 Rogue] Xendrainfo (Half Elf) ZONE: freportw (USER PID AV6SESD)
+[Mon Jan 14 15:30:53 2002] There is 1 player in EverQuest.
+[Mon Jan 14 15:31:07 2002] UNDOING CHECK OUT
+[Mon Jan 14 15:31:28 2002] You told Kedian, 'they might want to call customer service and have them suspend the account'
+[Mon Jan 14 15:31:33 2002] Keerog GMSAYS, 'Good day everyone.'
+[Mon Jan 14 15:31:38 2002] You GMSAY, 'hello Keerog!'
+[Mon Jan 14 15:31:40 2002] Players in EverQuest:
+[Mon Jan 14 15:31:40 2002] ---------------------------
+[Mon Jan 14 15:31:40 2002] * Apprentice Guide *[20 Warrior] Keerog (Troll) ZONE: butcher (USER PID DZNFNQW)
+[Mon Jan 14 15:31:40 2002] * Guide *[52 Disciple] Swiftmoor (Iksar) <Elite Lizards of Norrath> ZONE: greatdivide (USER PID EUUWZVJ)
+[Mon Jan 14 15:31:40 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: kerraridge (USER PID B4KJ6E7)
+[Mon Jan 14 15:31:40 2002] * Guide *[51 Pathfinder] Antarg (Half Elf) <Keepers of Dreams> ZONE: greatdivide (USER PID BUUXHKW)
+[Mon Jan 14 15:31:40 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: greatdivide (USER PID CW1ECN5)
+[Mon Jan 14 15:31:40 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: northkarana (USER PID HU7F5NG)
+[Mon Jan 14 15:31:40 2002] There are 6 players in EverQuest.
+[Mon Jan 14 15:31:59 2002] Keerog GMSAYS, 'wow...slow day so far?'
+[Mon Jan 14 15:32:04 2002] a kerran awrat begins to cast a spell. (Spirit of Wolf)
+[Mon Jan 14 15:32:10 2002] You GMSAY, 'just a lot of people... which is a good thing'
+[Mon Jan 14 15:32:32 2002] You GMSAY, 'semi afk again to finish putting the motherboard in to my daughter's computer'
+[Mon Jan 14 15:32:37 2002] You GMSAY, 'I'm here, but shout'
+[Mon Jan 14 15:32:39 2002] Keerog GMSAYS, 'Okay.  Well, I think I'm going to go level for a while.'
+[Mon Jan 14 15:32:44 2002] Keerog GMSAYS, '(*just kidding*)'
+[Mon Jan 14 15:32:46 2002] Lirus GMSAYS, 'swifty hang on to that tag for a bit ok?'
+[Mon Jan 14 15:32:59 2002] Swiftmoor GMSAYS, 'will do.  I kind of like it'
+[Mon Jan 14 15:33:26 2002] Antarg tells the guild, 'can we change Keepers of dreams to "lirus' bitch patrol'? :)'
+[Mon Jan 14 15:33:41 2002] Lirus tells the guild, 'lol that would own but i think i'd get bitch slapped by the seniors'
+[Mon Jan 14 15:33:48 2002] You say to your guild, 'heh'
+[Mon Jan 14 15:34:02 2002] Players in EverQuest:
+[Mon Jan 14 15:34:02 2002] ---------------------------
+[Mon Jan 14 15:34:02 2002] * Guide *[52 Disciple] Swiftmoor (Iksar) <Elite Lizards of Norrath> ZONE: greatdivide (USER PID EUUWZVJ)
+[Mon Jan 14 15:34:02 2002] There is 1 player in EverQuest.
+[Mon Jan 14 15:34:03 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:34:08 2002] Lirus GMSAYS, 'we are done here, just needed to do a guild creation hokey pokey'
+[Mon Jan 14 15:34:09 2002] You GMSAY, 'lol! swift!'
+[Mon Jan 14 15:34:10 2002] Lirus GMSAYS, 'zone'
+[Mon Jan 14 15:34:21 2002] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Mon Jan 14 15:35:11 2002] Swiftmoor GMSAYS, 'guess I can change my zoning message now since I don't have that problem'
+[Mon Jan 14 15:35:44 2002] Swiftmoor GMSAYS, 'testing.'
+[Mon Jan 14 15:35:59 2002] Kedian tells the guild, 'whats with the Lirusbait threads on the players board?'
+[Mon Jan 14 15:36:10 2002] Lirus tells the guild, 'what thread?'
+[Mon Jan 14 15:36:19 2002] Lirus tells the guild, 'the Lirus one or is there a new one?'
+[Mon Jan 14 15:36:22 2002] Antarg tells the guild, 'apparently they know Lirus reads :)'
+[Mon Jan 14 15:36:41 2002] Espranza saved.
+[Mon Jan 14 15:36:42 2002] Kedian tells the guild, 'naw, its an old one...players set their surname to 'lirusbait' or something...its not that clear'
+[Mon Jan 14 15:36:48 2002] Lirus tells the guild, 'hehe aye i try to tell em that, so they don't go posting moronic things on there'
+[Mon Jan 14 15:36:50 2002] Keerog GMSAYS, 'pulling Brav'
+[Mon Jan 14 15:37:11 2002] Kedian tells the guild, 'what? people posting moronic things? never!'
+[Mon Jan 14 15:37:13 2002] Lirus tells the guild, 'oh yeah, rulu lol'
+[Mon Jan 14 15:37:15 2002] Antarg tells the guild, 'can you actually do anything to them for posting moronic stuff there?'
+[Mon Jan 14 15:37:27 2002] Lirus tells the guild, 'My sig pic comes from when i nerfed one of Rulu's names'
+[Mon Jan 14 15:37:35 2002] Kedian tells the guild, 'yeah, I saw that..hehe'
+[Mon Jan 14 15:37:56 2002] Antarg GMSAYS, 'zone'
+[Mon Jan 14 15:38:11 2002] Lirus tells the guild, 'no i can't but like in Blux's case, he went and admitted to all sorts of wrong doing and BS, I copied and pasted it into his ban file for the database to make certain i had a good solid case against him'
+[Mon Jan 14 15:38:18 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:38:26 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:38:46 2002] Lirus tells the guild, 'so sometimes they say things on there that can be used as additional evidence against them'
+[Mon Jan 14 15:39:06 2002] Kedian tells the guild, 'how are you able to prove the corolation between the post and the player's account?'
+[Mon Jan 14 15:39:08 2002] Lirus tells the guild, 'i find out about alot of scams that way too, or folks selling their accounts etc'
+[Mon Jan 14 15:39:42 2002] Lirus tells the guild, 'it cannot be used as evidence alone, but if push came to shove i'm sure i could ask for their IPS from the board mods and they would hook it up'
+[Mon Jan 14 15:40:02 2002] Kedian GMSAYS, 'ahh, sorta like icing on the cake'
+[Mon Jan 14 15:40:05 2002] Lirus GMSAYS, 'yeah'
+[Mon Jan 14 15:40:06 2002] Iffrir Soulcaller begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:40:12 2002] Lirus GMSAYS, 'final nail in the coffin so to say'
+[Mon Jan 14 15:40:24 2002] You feel as if you are about to fall.
+[Mon Jan 14 15:40:30 2002] Keerog GMSAYS, 'pet brav is stuck in runnyeye and no one can open any of the doors he's stuck in.  I've escalated it.'
+[Mon Jan 14 15:40:30 2002] You feel as if you are about to fall.
+[Mon Jan 14 15:40:36 2002] You can no longer levitate.
+[Mon Jan 14 15:40:47 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Jan 14 15:40:49 2002] Lirus GMSAYS, 'grrr the guild thing didn't work'
+[Mon Jan 14 15:40:49 2002] Kedian GMSAYS, 'whoha...hiy Keerog!'
+[Mon Jan 14 15:40:57 2002] Lirus GMSAYS, 'swifty go back to GD when you get a chance'
+[Mon Jan 14 15:40:58 2002] Keerog GMSAYS, 'greetins Kedian.'
+[Mon Jan 14 15:41:02 2002] Lirus GMSAYS, 'hi keerog)'
+[Mon Jan 14 15:41:09 2002] Keerog GMSAYS, 'howdy doodle. :)'
+[Mon Jan 14 15:41:26 2002] Keerog GMSAYS, 'pulling sarkrath'
+[Mon Jan 14 15:41:28 2002] Swiftmoor GMSAYS, 'possible zone'
+[Mon Jan 14 15:41:35 2002] Antarg GMSAYS, 'I'm gonna go, will send in my SWAT app shortly Esp'
+[Mon Jan 14 15:42:06 2002] Antarg GMSAYS, 'take care :)'
+[Mon Jan 14 15:42:24 2002] Kedian GMSAYS, 'see ya atn'
+[Mon Jan 14 15:42:27 2002] Kedian GMSAYS, 'ant also :)'
+[Mon Jan 14 15:42:39 2002] Antarg has left the group.
+[Mon Jan 14 15:42:44 2002] You GMSAY, 'laer Ant'
+[Mon Jan 14 15:42:50 2002] a kerran awrat begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:43:03 2002] Kedian GMSAYS, 'keerog, do you have a mentor?'
+[Mon Jan 14 15:43:17 2002] Keerog GMSAYS, 'I thought you were. : ) .. or is my memory bad?'
+[Mon Jan 14 15:43:41 2002] Kedian GMSAYS, 'hehe, ok.  When you log in, announce your presence. Your mentor is who you are grouped with for the day :)'
+[Mon Jan 14 15:43:46 2002] Kedian GMSAYS, 'ill come get ya :)'
+[Mon Jan 14 15:43:54 2002] Kedian GMSAYS, '<< zone >>'
+[Mon Jan 14 15:43:54 2002] Keerog GMSAYS, 'someone died on the boat in the overthere and can't locate their body.  Is that something we take care of, or should I tell him to get a necro or otherwise?'
+[Mon Jan 14 15:43:55 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Jan 14 15:44:26 2002] You GMSAY, 'Keerog, escalate it to yellow'
+[Mon Jan 14 15:44:34 2002] You GMSAY, 'and get your mentor to take you along'
+[Mon Jan 14 15:44:43 2002] Keerog GMSAYS, 'Okay..taht's what I thought, I was just curious what we would do.'
+[Mon Jan 14 15:44:49 2002] You say to your guild, 'who is grouped with Keerog?'
+[Mon Jan 14 15:44:51 2002] Your feet leave the ground.
+[Mon Jan 14 15:45:24 2002] You tell your party, 'I guess Kedian is still in transit?'
+[Mon Jan 14 15:45:32 2002] Keerog has joined the group.
+[Mon Jan 14 15:45:36 2002] Swiftmoor GMSAYS, 'yesh, anyone know anything about the key holders in befallen?'
+[Mon Jan 14 15:45:39 2002] You tell your party, 'hiya Keerog!'
+[Mon Jan 14 15:45:39 2002] Keerog tells the group, 'booga booga.'
+[Mon Jan 14 15:45:40 2002] Lirus GMSAYS, 'swiftmoor, type guildd for me a sec, then goto me again'
+[Mon Jan 14 15:45:46 2002] Kedian tells the group, 'yeah, was still zoneing'
+[Mon Jan 14 15:45:47 2002] You GMSAY, 'what about them, swift?'
+[Mon Jan 14 15:45:47 2002] Kedian tells the group, 'hiya keerog'
+[Mon Jan 14 15:46:00 2002] Swiftmoor GMSAYS, 'ah ah.  ok'
+[Mon Jan 14 15:46:05 2002] Swiftmoor GMSAYS, 'hang on exp'
+[Mon Jan 14 15:46:09 2002] Keerog tells the group, 'should I keep checking out pets?'
+[Mon Jan 14 15:46:10 2002] Swiftmoor GMSAYS, 'esp'
+[Mon Jan 14 15:46:13 2002] You tell your party, 'yes please'
+[Mon Jan 14 15:46:23 2002] Keerog GMSAYS, 'pulling olhaf'
+[Mon Jan 14 15:46:32 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Jan 14 15:46:34 2002] Players in EverQuest:
+[Mon Jan 14 15:46:34 2002] ---------------------------
+[Mon Jan 14 15:46:34 2002] * Guide *[52 Disciple] Swiftmoor (Iksar) ZONE: cshome (USER PID EUUWZVJ)
+[Mon Jan 14 15:46:34 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: butcher (USER PID HU7F5NG)
+[Mon Jan 14 15:46:34 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: greatdivide (USER PID CW1ECN5)
+[Mon Jan 14 15:46:34 2002] * Apprentice Guide *[20 Warrior] Keerog (Troll) ZONE: butcher (USER PID DZNFNQW)
+[Mon Jan 14 15:46:34 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: kerraridge (USER PID B4KJ6E7)
+[Mon Jan 14 15:46:34 2002] There are 5 players in EverQuest.
+[Mon Jan 14 15:46:51 2002] Espranza saved.
+[Mon Jan 14 15:47:15 2002] Players on EverQuest:
+[Mon Jan 14 15:47:15 2002] ---------------------------
+[Mon Jan 14 15:47:15 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Jan 14 15:47:15 2002] There is 1 player in Kerra Isle.
+[Mon Jan 14 15:47:38 2002] Swiftmoor GMSAYS, '<sniffle> it was a good guild'
+[Mon Jan 14 15:47:38 2002] Lirus GMSAYS, 'aye('
+[Mon Jan 14 15:47:42 2002] Lirus GMSAYS, 'sorry guild recreation is really a PITA('
+[Mon Jan 14 15:47:57 2002] You GMSAY, '<note> Verant should seriously consider making Kerra Ridge an exp zone for low level players.'
+[Mon Jan 14 15:48:01 2002] Keerog GMSAYS, 'is that guild that's bugging you pandore Lirus?'
+[Mon Jan 14 15:48:05 2002] Swiftmoor GMSAYS, 'befallen keyholders, are they timed or random?'
+[Mon Jan 14 15:48:11 2002] You GMSAY, 'Swift, timed'
+[Mon Jan 14 15:48:26 2002] You GMSAY, 'but they have placeholders'
+[Mon Jan 14 15:48:30 2002] Lirus GMSAYS, 'well they have been asking for about 2 days now but it seems they are telling all their friends that it is the in vogue thing to do, so i have done alot of em lately'
+[Mon Jan 14 15:48:33 2002] Swiftmoor GMSAYS, 'ok, he says 3rd hasn't spawned in 30 minutes and think there's a problem'
+[Mon Jan 14 15:48:34 2002] You GMSAY, 'so I guess that its random...'
+[Mon Jan 14 15:48:37 2002] Swiftmoor GMSAYS, 'oh ok'
+[Mon Jan 14 15:48:56 2002] Keerog tells the group, 'so I have 2 of you watching over me today? : )'
+[Mon Jan 14 15:49:09 2002] You GMSAY, 'I was lucky my last time in, second and third were spawned when I got there.'
+[Mon Jan 14 15:49:23 2002] Kedian tells the group, '3 of us.... :)'
+[Mon Jan 14 15:49:31 2002] Kedian GMSAYS, '<< zone >>'
+[Mon Jan 14 15:49:39 2002] Keerog tells the group, 'duh.  Maybe I'll open my eyes next time when I see it. LOL'
+[Mon Jan 14 15:50:08 2002] Swiftmoor GMSAYS, 'level 60 in befallen, yesh'
+[Mon Jan 14 15:50:22 2002] You GMSAY, 'good faction zone for qeynos'
+[Mon Jan 14 15:50:26 2002] Lancet GMSAYS, 'hi ppl'
+[Mon Jan 14 15:50:32 2002] You GMSAY, 'Hiya Lancet!'
+[Mon Jan 14 15:50:34 2002] Swiftmoor GMSAYS, 'Hey Lancet'
+[Mon Jan 14 15:50:41 2002] You GMSAY, 'You just missed the Elite Lizards of Norrath'
+[Mon Jan 14 15:50:49 2002] Lirus GMSAYS, 'hi lancet!'
+[Mon Jan 14 15:50:57 2002] Swiftmoor GMSAYS, 'My own guild, NERFED!'
+[Mon Jan 14 15:50:58 2002] Lancet GMSAYS, 'cant win them all'
+[Mon Jan 14 15:51:21 2002] Keerog GMSAYS, 'Lirus, what is the guild you're having problems with?  PC Olhaf says his guild tag doesn't show up.  Does he need to be re-invited?'
+[Mon Jan 14 15:51:25 2002] Swiftmoor tells the guild, 'I'm back'
+[Mon Jan 14 15:51:26 2002] Lirus tells the guild, 'welcome back Lizzy'
+[Mon Jan 14 15:51:31 2002] Swiftmoor tells the guild, 'thanks'
+[Mon Jan 14 15:51:44 2002] Lirus GMSAYS, 'is he in reviction?'
+[Mon Jan 14 15:51:48 2002] Lirus GMSAYS, 'i just reformed Pandore'
+[Mon Jan 14 15:51:59 2002] Keerog GMSAYS, 'Never mind.  that was the guild, but an officer logged on and it seems to work for him now.'
+[Mon Jan 14 15:52:02 2002] It begins to rain.
+[Mon Jan 14 15:52:12 2002] Keerog GMSAYS, 'Pulling Akrogii'
+[Mon Jan 14 15:52:19 2002] You GMSAY, 'why do they do this? to cut out the inactive players?'
+[Mon Jan 14 15:52:23 2002] Swiftmoor GMSAYS, 'done Lirus?'
+[Mon Jan 14 15:52:33 2002] Lirus GMSAYS, 'i think so swift, * hope so*'
+[Mon Jan 14 15:52:36 2002] Swiftmoor GMSAYS, 'k k'
+[Mon Jan 14 15:52:38 2002] Lirus GMSAYS, 'thanks a bunch for the help'
+[Mon Jan 14 15:52:44 2002] The jig sends energy zinging through your body.
+[Mon Jan 14 15:52:51 2002] The jig sends energy zinging through your body.
+[Mon Jan 14 15:52:57 2002] The jig sends energy zinging through your body.
+[Mon Jan 14 15:53:01 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Jan 14 15:53:08 2002] Players in EverQuest:
+[Mon Jan 14 15:53:08 2002] ---------------------------
+[Mon Jan 14 15:53:08 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: overthere (USER PID HU7F5NG)
+[Mon Jan 14 15:53:08 2002] * Senior Guide *[ANON (57 Master)] Lancet (Iksar) ZONE: cshome (USER PID E3FU8WH)
+[Mon Jan 14 15:53:08 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: greatdivide (USER PID CW1ECN5)
+[Mon Jan 14 15:53:08 2002] * Apprentice Guide *[20 Warrior] Keerog (Troll) ZONE: butcher (USER PID DZNFNQW)
+[Mon Jan 14 15:53:08 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: kerraridge (USER PID B4KJ6E7)
+[Mon Jan 14 15:53:08 2002] There are 5 players in EverQuest.
+[Mon Jan 14 15:53:10 2002] You are no longer invigorated.
+[Mon Jan 14 15:53:18 2002] Players in EverQuest:
+[Mon Jan 14 15:53:18 2002] ---------------------------
+[Mon Jan 14 15:53:18 2002] * Guide *[52 Disciple] Swiftmoor (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID EUUWZVJ)
+[Mon Jan 14 15:53:18 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: overthere (USER PID HU7F5NG)
+[Mon Jan 14 15:53:18 2002] * Senior Guide *[ANON (57 Master)] Lancet (Iksar) ZONE: cshome (USER PID E3FU8WH)
+[Mon Jan 14 15:53:18 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: greatdivide (USER PID CW1ECN5)
+[Mon Jan 14 15:53:18 2002] * Apprentice Guide *[20 Warrior] Keerog (Troll) ZONE: butcher (USER PID DZNFNQW)
+[Mon Jan 14 15:53:18 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: kerraridge (USER PID B4KJ6E7)
+[Mon Jan 14 15:53:18 2002] There are 6 players in EverQuest.
+[Mon Jan 14 15:53:50 2002] You GMSAY, 'well, I'm off to finish with my daughter's computer, I guess'
+[Mon Jan 14 15:53:53 2002] Swiftmoor tells the guild, 'Espranza is a halfling,  is that close enough to a gnome?'
+[Mon Jan 14 15:53:57 2002] You GMSAY, 'laters all!'
+[Mon Jan 14 15:53:59 2002] Swiftmoor GMSAYS, 'doh, she runs'
+[Mon Jan 14 15:53:59 2002] Lirus GMSAYS, 'whooo i got it right this time'
+[Mon Jan 14 15:53:59 2002] Kedian GMSAYS, 'see ya esp'
+[Mon Jan 14 15:54:01 2002] You say to your guild, 'I'm a shrub elf'
+[Mon Jan 14 15:54:03 2002] Swiftmoor GMSAYS, 'Later Esp'
+[Mon Jan 14 15:54:06 2002] Lirus GMSAYS, 'cya espranza!'
+[Mon Jan 14 15:54:06 2002] It will take you about 30 seconds to prepare your camp.
+[Mon Jan 14 15:54:10 2002] It will take about 25 more seconds to prepare your camp.
+[Mon Jan 14 15:54:11 2002] a kerran awrat begins to cast a spell. (Inner Fire)
+[Mon Jan 14 15:54:15 2002] It will take about 20 more seconds to prepare your camp.
+[Mon Jan 14 15:54:20 2002] It will take about 15 more seconds to prepare your camp.
+[Mon Jan 14 15:54:21 2002] Kedian tells the group, 'keerog, have you been on a water CR yet?'
+[Mon Jan 14 15:54:25 2002] It will take about 10 more seconds to prepare your camp.
+[Mon Jan 14 15:54:27 2002] Players on EverQuest:
+[Mon Jan 14 15:54:27 2002] ---------------------------
+[Mon Jan 14 15:54:27 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Jan 14 15:54:27 2002] There is 1 player in Kerra Isle.
+[Mon Jan 14 15:54:30 2002] It will take about 5 more seconds to prepare your camp.

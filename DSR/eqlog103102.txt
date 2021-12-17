@@ -1,0 +1,1300 @@
+[Thu Oct 31 20:52:01 2002] Welcome to EverQuest!
+[Thu Oct 31 20:52:01 2002] You have entered Sunset Home.
+[Thu Oct 31 20:55:18 2002] Welcome to EverQuest!
+[Thu Oct 31 20:55:18 2002] You have entered Sunset Home.
+[Thu Oct 31 21:32:57 2002] Welcome to EverQuest!
+[Thu Oct 31 21:32:57 2002] You have entered Sunset Home.
+[Thu Oct 31 21:32:58 2002] Autojoining channels...
+[Thu Oct 31 21:32:59 2002] Channels: 1=unc(1), 2=cest(1)
+[Thu Oct 31 21:37:03 2002] Mackavellio tells you, 'could i ask you a quick question it will not take long'
+[Thu Oct 31 21:38:34 2002] Players in EverQuest:
+[Thu Oct 31 21:38:34 2002] ---------------------------
+
+[Thu Oct 31 21:38:34 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Thu Oct 31 21:38:34 2002] * Guide *[ANON (52 Mystic)] Cronn (Troll) ZONE: cshome (USER PID AVLDNV4) 
+[Thu Oct 31 21:38:34 2002] There are 2 players in EverQuest.
+[Thu Oct 31 21:38:38 2002] You GMSAY, 'hiya'
+[Thu Oct 31 21:38:50 2002] You told Mackavellio, 'how may I help you?'
+[Thu Oct 31 21:39:05 2002] You say to your guild, 'durn still don't have petition window'
+[Thu Oct 31 21:39:09 2002] Mackavellio tells you, 'its about moving one char to another account how long does it take to do that after i pay?'
+[Thu Oct 31 21:39:29 2002] Cronn GMSAYS, 'Hey :)'
+[Thu Oct 31 21:39:43 2002] You told Mackavellio, 'as I remember, they do it in batches a few times a week. It shouldn't take long.'
+[Thu Oct 31 21:39:46 2002] Cronn GMSAYS, 'edit eq_guide  and add the Raid + raid options wingow'
+[Thu Oct 31 21:39:48 2002] Cronn GMSAYS, 'window'
+[Thu Oct 31 21:40:03 2002] Cronn GMSAYS, 'and make sure that EQGUI or ewhatever the main xml file is'
+[Thu Oct 31 21:40:09 2002] Cronn GMSAYS, 'includes the gide window'
+[Thu Oct 31 21:40:09 2002] Mackavellio tells you, 'so it should be moved in a week'
+[Thu Oct 31 21:40:10 2002] You GMSAY, 'wasn't able to guide today. felt guilty....'
+[Thu Oct 31 21:40:18 2002] You told Mackavellio, 'mosr  likey'
+[Thu Oct 31 21:40:23 2002] Cronn GMSAYS, 'I've been in the bazaar for the last hour handing candy out :)'
+[Thu Oct 31 21:40:30 2002] You GMSAY, ')'
+[Thu Oct 31 21:40:31 2002] Cronn GMSAYS, 'lets get these pets outta here'
+[Thu Oct 31 21:40:35 2002] Mackavellio tells you, 'ok now if i do that i get to keep all my gear/items/pp and everything right?'
+[Thu Oct 31 21:40:53 2002] You told Mackavellio, 'are you moving to another server?'
+[Thu Oct 31 21:40:59 2002] Mackavellio tells you, 'nah staying on tallon'
+[Thu Oct 31 21:41:08 2002] You told Mackavellio, 'just another account?'
+[Thu Oct 31 21:41:18 2002] Mackavellio tells you, 'yes just moving char to another account'
+[Thu Oct 31 21:41:31 2002] You told Mackavellio, 'Yes, everything will remain.'
+[Thu Oct 31 21:41:38 2002] Mackavellio tells you, 'k thank you=)'
+[Thu Oct 31 21:41:45 2002] You told Mackavellio, ':) be well!'
+[Thu Oct 31 21:41:53 2002] You GMSAY, 'k trying to get guide GUI working again, brb'
+[Thu Oct 31 21:41:58 2002] Cronn GMSAYS, 'k'
+[Thu Oct 31 21:42:14 2002] It will take you about 30 seconds to prepare your camp.
+[Thu Oct 31 21:42:18 2002] It will take about 25 more seconds to prepare your camp.
+[Thu Oct 31 21:42:23 2002] It will take about 20 more seconds to prepare your camp.
+[Thu Oct 31 21:42:28 2002] It will take about 15 more seconds to prepare your camp.
+[Thu Oct 31 21:42:33 2002] You GMSAY, 'least it doesn't crash anymore. Took half an hour to redownload the default skin'
+[Thu Oct 31 21:42:33 2002] It will take about 10 more seconds to prepare your camp.
+[Thu Oct 31 21:42:37 2002] Cronn GMSAYS, 'hehe'
+[Thu Oct 31 21:42:38 2002] It will take about 5 more seconds to prepare your camp.
+[Thu Oct 31 21:42:45 2002] You abandon your preparations to camp.
+[Thu Oct 31 22:04:16 2002] Welcome to EverQuest!
+[Thu Oct 31 22:04:16 2002] You have entered Sunset Home.
+[Thu Oct 31 22:04:19 2002] Autojoining channels...
+[Thu Oct 31 22:04:19 2002] Channels: 1=unc(1), 2=cest(1)
+[Thu Oct 31 22:04:25 2002] Cronn GMSAYS, 'yup'
+[Thu Oct 31 22:04:28 2002] Cronn GMSAYS, 'down to 43'
+[Thu Oct 31 22:04:30 2002] Cronn GMSAYS, 'from 70'
+[Thu Oct 31 22:04:32 2002] You GMSAY, 'we have queue. houston, we have queue.'
+[Thu Oct 31 22:04:33 2002] Players in EverQuest:
+[Thu Oct 31 22:04:33 2002] ---------------------------
+
+[Thu Oct 31 22:04:33 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Thu Oct 31 22:04:33 2002] * Guide *[ANON (50 Enchanter)] Lurk O`Scary (Human) ZONE: everfrost (USER PID GVLD94Y) 
+[Thu Oct 31 22:04:33 2002] * Guide *[ANON (52 Mystic)] Cronn (Troll) ZONE: cshome (USER PID AVLDNV4) 
+[Thu Oct 31 22:04:33 2002] There are 3 players in EverQuest.
+[Thu Oct 31 22:04:39 2002] Cronn GMSAYS, 'yay!  it worked for you?'
+[Thu Oct 31 22:04:43 2002] You GMSAY, 'eventually'
+[Thu Oct 31 22:04:46 2002] Cronn GMSAYS, 'hehe'
+[Thu Oct 31 22:04:56 2002] You GMSAY, 'also downloaded the new P&P, prev one I had was from May'
+[Thu Oct 31 22:05:02 2002] Cronn GMSAYS, 'eek'
+[Thu Oct 31 22:05:06 2002] Cronn GMSAYS, 'I need to update mine as well'
+[Thu Oct 31 22:05:11 2002] Cronn GMSAYS, 'and should actually re-read it'
+[Thu Oct 31 22:05:21 2002] Could not find player erollisi.tyveria
+[Thu Oct 31 22:05:21 2002] Lurk O`Scary GMSAYS, 'I still can't get to the que:-('
+[Thu Oct 31 22:05:31 2002] Cronn GMSAYS, 'you run default ui?'
+[Thu Oct 31 22:05:33 2002] Could not find player erollisi.rokin
+[Thu Oct 31 22:05:38 2002] Lurk O`Scary GMSAYS, 'yeah'
+[Thu Oct 31 22:05:44 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:05:44 2002] USER TEXT: I need to be given my powers over my guild.. I was mage guildleader 2 weeks ago... I have filed several petitions ad I still have not spokebn to a GM
+[Thu Oct 31 22:05:44 2002] GM TEXT: 
+[Thu Oct 31 22:05:44 2002] Players in EverQuest:
+[Thu Oct 31 22:05:44 2002] ---------------------------
+
+[Thu Oct 31 22:05:44 2002] There are no players in EverQuest that match those who filters.
+[Thu Oct 31 22:05:51 2002] It is 5 PM on Tuesday, the 24th day of February, of the year 3182.
+[Thu Oct 31 22:05:51 2002] Earth Time: Thu Oct 31 22:05:51 2002
+[Thu Oct 31 22:05:51 2002] Cronn GMSAYS, 'the EQUI main XML file, you need to include EQ_GUIDE.xml'
+[Thu Oct 31 22:05:52 2002] Lurk O`Scary GMSAYS, 'and everytime I download the guide files I crash to the desktop'
+[Thu Oct 31 22:06:07 2002] GM Text added:  Espranza: unavail 22:05
+[Thu Oct 31 22:06:10 2002] Cronn GMSAYS, 'read the thread in common hall'
+[Thu Oct 31 22:06:11 2002] CHECKING IN
+[Thu Oct 31 22:06:13 2002] Cronn GMSAYS, 'thats how i fixed mine'
+[Thu Oct 31 22:06:14 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:06:19 2002] USER TEXT: I have a alt character that is stuck in scarlet desert ....keeps crashing me to desktop on loggin ...i think i go link dead in zone to..please help me :)
+[Thu Oct 31 22:06:19 2002] GM TEXT: 
+[Thu Oct 31 22:06:19 2002] Players in EverQuest:
+[Thu Oct 31 22:06:19 2002] ---------------------------
+
+[Thu Oct 31 22:06:19 2002] [ANON (51 Mystic)] Treverr (Barbarian) ZONE: tenebrous (USER PID ASBSQ71) 
+[Thu Oct 31 22:06:19 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:06:19 2002] Lurk O`Scary GMSAYS, 'I did :-('
+[Thu Oct 31 22:06:45 2002] You GMSAY, 'wasn't able to guide this morning, all I could do was watch the petition queue pile up ('
+[Thu Oct 31 22:07:01 2002] Cronn GMSAYS, '=('
+[Thu Oct 31 22:07:07 2002] Cronn GMSAYS, 'btw nice to meet you espraza'
+[Thu Oct 31 22:07:12 2002] Lurk O`Scary GMSAYS, 'I have just been playing this character most the day:-p'
+[Thu Oct 31 22:07:16 2002] Cronn GMSAYS, 'hehe'
+[Thu Oct 31 22:07:19 2002] Cronn GMSAYS, 'who are you :)'
+[Thu Oct 31 22:07:20 2002] You GMSAY, 'we haven't met?'
+[Thu Oct 31 22:07:20 2002] Cronn GMSAYS, 'eeos'
+[Thu Oct 31 22:07:24 2002] Cronn GMSAYS, 'I remember'
+[Thu Oct 31 22:07:25 2002] Deisnetk tells you, 'I know it's not right to send gm's tells, but I been waiting a few days to get my problem resolved, is there any chance you could tell me how far on the list I am?'
+[Thu Oct 31 22:07:30 2002] Cronn GMSAYS, 'I don't think so'
+[Thu Oct 31 22:07:35 2002] Cronn GMSAYS, 'else, my bad :)'
+[Thu Oct 31 22:07:53 2002] You GMSAY, 'oh, I thought we had, briefly. well, hajimemashite, douzo yoroshiku.'
+[Thu Oct 31 22:08:48 2002] You told Deisnetk, 'you're a fair bit down, most of us guides had trouble getting in because a patch they did threw us out... all fixed now though, but there is a delay as we answer the petitions.'
+[Thu Oct 31 22:09:03 2002] Players in EverQuest:
+[Thu Oct 31 22:09:03 2002] ---------------------------
+
+[Thu Oct 31 22:09:03 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Thu Oct 31 22:09:03 2002] * Guide *[ANON (50 Enchanter)] Lurk O`Scary (Human) ZONE: everfrost (USER PID GVLD94Y) 
+[Thu Oct 31 22:09:03 2002] * Guide *[52 Mystic] Cronn (Troll) <House of Zek> ZONE: cshome (USER PID AVLDNV4) 
+[Thu Oct 31 22:09:03 2002] There are 3 players in EverQuest.
+[Thu Oct 31 22:09:05 2002] Deisnetk tells you, 'ok, thankyou'
+[Thu Oct 31 22:09:09 2002] Teleporting to cronn.
+[Thu Oct 31 22:09:15 2002] Cronn GMSAYS, 'oh yes'
+[Thu Oct 31 22:09:18 2002] Cronn GMSAYS, 'we have met :)'
+[Thu Oct 31 22:09:18 2002] You look at Cronn, completely puzzled.
+[Thu Oct 31 22:09:24 2002] You GMSAY, 'heh'
+[Thu Oct 31 22:09:36 2002] You GMSAY, 'can't be so many haffers in sunset home!'
+[Thu Oct 31 22:09:40 2002] Cronn regards you indifferently -- he would make quite a formidable opponent.
+[Thu Oct 31 22:09:45 2002] Cronn GMSAYS, 'Most get eaten'
+[Thu Oct 31 22:09:47 2002] Cronn peers at Espranza, looking her up and down.
+[Thu Oct 31 22:09:59 2002] You GMSAY, '/bec 14 f 0'
+[Thu Oct 31 22:10:02 2002] You GMSAY, 'dammit'
+[Thu Oct 31 22:10:06 2002] Cronn GMSAYS, 'no thx :P'
+[Thu Oct 31 22:10:59 2002] Cronn GMSAYS, 'up to 6:45pm petitions :)'
+[Thu Oct 31 22:11:04 2002] Mouse control deactivated.
+[Thu Oct 31 22:11:07 2002] Mouse control activated.  Use right mouse button.
+[Thu Oct 31 22:11:27 2002] You told Treverr, 'Hail, Treverr! Guide Espranza here. Try deleting the files beginnign with "scarlet" in your EQ folder, repatch, and see if it will let you in, then.'
+[Thu Oct 31 22:13:06 2002] It is 7 PM on Tuesday, the 24th day of February, of the year 3182.
+[Thu Oct 31 22:13:06 2002] Earth Time: Thu Oct 31 22:13:06 2002
+[Thu Oct 31 22:13:12 2002] GM Text added:  Espranza: unavail 22:13
+[Thu Oct 31 22:13:14 2002] CHECKING IN
+[Thu Oct 31 22:13:17 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:13:17 2002] USER TEXT: hi, we just killed the glass dragon in PoV to get to HoH but it is still not letting a lot of zone in HoH .  We are at the HoH zone in the cave right now.  It is supposed to let us zone in, and be flagged for HoH
+[Thu Oct 31 22:13:17 2002] GM TEXT: 
+[Thu Oct 31 22:13:18 2002] Players in EverQuest:
+[Thu Oct 31 22:13:18 2002] ---------------------------
+
+[Thu Oct 31 22:13:18 2002] [63 Assassin] Thuel (Barbarian) <Pandemonium> ZONE: povalor (USER PID DP3SLPW) 
+[Thu Oct 31 22:13:18 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:13:27 2002] Treverr tells you, 'ok thanks will do'
+[Thu Oct 31 22:13:45 2002] UNDOING CHECK OUT
+[Thu Oct 31 22:13:49 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:13:49 2002] USER TEXT: I have a alt character that is stuck in scarlet desert ....keeps crashing me to desktop on loggin ...i think i go link dead in zone to..please help me :)
+[Thu Oct 31 22:13:49 2002] GM TEXT: Espranza: unavail 22:13
+[Thu Oct 31 22:13:49 2002] Players in EverQuest:
+[Thu Oct 31 22:13:49 2002] ---------------------------
+
+[Thu Oct 31 22:13:49 2002] [ANON (51 Mystic)] Treverr (Barbarian) ZONE: tenebrous (USER PID ASBSQ71) 
+[Thu Oct 31 22:13:49 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:14:02 2002] You GMSAY, 're-pulling Treverr finally responded'
+[Thu Oct 31 22:14:23 2002] You told Treverr, 'if that doesn't work, let me know.'
+[Thu Oct 31 22:14:27 2002] STATUS UPGRADED TO URGENT
+[Thu Oct 31 22:14:28 2002] Treverr tells you, 'k'
+[Thu Oct 31 22:14:42 2002] You GMSAY, 'esc Treverr to yellow while he goes and tries something.'
+[Thu Oct 31 22:14:44 2002] CHECKING IN
+[Thu Oct 31 22:14:48 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:14:48 2002] USER TEXT: hi, we just killed the glass dragon in PoV to get to HoH but it is still not letting a lot of zone in HoH .  We are at the HoH zone in the cave right now.  It is supposed to let us zone in, and be flagged for HoH
+[Thu Oct 31 22:14:48 2002] GM TEXT: 
+[Thu Oct 31 22:14:48 2002] Players in EverQuest:
+[Thu Oct 31 22:14:48 2002] ---------------------------
+
+[Thu Oct 31 22:14:48 2002] [63 Assassin] Thuel (Barbarian) <Pandemonium> ZONE: povalor (USER PID DP3SLPW) 
+[Thu Oct 31 22:14:48 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:15:38 2002] You told Thuel, 'Hail, Thuel! Guide Espranza here. Was everyone involved in killing the dragon all together in one raid, using the raid system?'
+[Thu Oct 31 22:15:48 2002] Thuel tells you, 'yes'
+[Thu Oct 31 22:16:09 2002] You told Thuel, 'and did everyone talk to whatever NPC they were supposed to talk to before the dragon was killed?'
+[Thu Oct 31 22:16:12 2002] Thuel tells you, 'we had 59 people in the raid, i was the raid leader'
+[Thu Oct 31 22:16:26 2002] Thuel tells you, 'there isnt a pre-flag for that'
+[Thu Oct 31 22:16:27 2002] You told Thuel, 'wow, you used all the window :)'
+[Thu Oct 31 22:17:00 2002] You told Thuel, 'was anyone able to get further up?'
+[Thu Oct 31 22:17:02 2002] Thuel tells you, 'you kill it, an elemental pops, you hail it, and then are supposed to go to HoH'
+[Thu Oct 31 22:17:10 2002] Your feet leave the ground.
+[Thu Oct 31 22:17:11 2002] You feel the spirit of Norrath enter you.
+[Thu Oct 31 22:17:13 2002] You feel the spirit of Z surround you.
+[Thu Oct 31 22:17:13 2002] Thuel tells you, 'some got in, and some didnt'
+[Thu Oct 31 22:17:47 2002] You told Thuel, 'if they go to the seer in PoK, is there any difference in the flags one person got over another?'
+[Thu Oct 31 22:18:01 2002] Thuel tells you, 'no idea on that'
+[Thu Oct 31 22:18:33 2002] You told Thuel, 'that would be my best thing to try - see if the ones who didn't go, are missing a flag the others have.'
+[Thu Oct 31 22:19:01 2002] Thuel tells you, 'they must be, but that doesn't solve the problem hehe'
+[Thu Oct 31 22:19:55 2002] You told Thuel, 'if there were a GM on, I could punt this up to them and perhaps they could discover why, but one isn't, so I don't know what else to suggest.'
+[Thu Oct 31 22:21:09 2002] You told Thuel, 'well, I will escalate this so, if a GM comes on, they can offer suggestions.'
+[Thu Oct 31 22:21:16 2002] Thuel tells you, 'ok'
+[Thu Oct 31 22:21:30 2002] Kageryu tells you, 'sir do you know if there are any events going on right now'
+[Thu Oct 31 22:21:42 2002] You told Kageryu, 'that would be telling :)'
+[Thu Oct 31 22:21:46 2002] Players in EverQuest:
+[Thu Oct 31 22:21:46 2002] ---------------------------
+
+[Thu Oct 31 22:21:46 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Thu Oct 31 22:21:46 2002] * Guide *[ANON (50 Enchanter)] Lurk O`Scary (Human) ZONE: everfrost (USER PID GVLD94Y) 
+[Thu Oct 31 22:21:46 2002] * Guide *[52 Mystic] Cronn (Troll) <House of Zek> ZONE: cshome (USER PID AVLDNV4) 
+[Thu Oct 31 22:21:46 2002] There are 3 players in EverQuest.
+[Thu Oct 31 22:22:14 2002] Kageryu tells you, 'i know are regular people not supposed to know i really dont know the rules of it'
+[Thu Oct 31 22:22:22 2002] GM Text added:  Espranza: I suspect some have flags that allow them to continue, and some do not. No way of checking this, though.
+[Thu Oct 31 22:22:31 2002] STATUS UPGRADED TO URGENT
+[Thu Oct 31 22:22:31 2002] STATUS UPGRADED TO EMERGENCY
+[Thu Oct 31 22:22:32 2002] CHECKING IN
+[Thu Oct 31 22:22:35 2002] Espranza saved.
+[Thu Oct 31 22:22:36 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:22:37 2002] USER TEXT: hello i just killed  the glass dragon with my guild, in POV. The elemental depoped as i hailed him and i was denied the flag i need.
+[Thu Oct 31 22:22:37 2002] GM TEXT: 
+[Thu Oct 31 22:22:37 2002] Players in EverQuest:
+[Thu Oct 31 22:22:37 2002] ---------------------------
+
+[Thu Oct 31 22:22:37 2002] [ANON (10 Shaman)] Chuggit (Ogre) ZONE: bazaar (USER PID BN05MFK) 
+[Thu Oct 31 22:22:37 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:22:53 2002] Chapmanjr tells you, 'hihi im looking to get maried tonight and if u could assist me and ninianya in that it would be great were not sure what we have to do   thanke:)'
+[Thu Oct 31 22:23:36 2002] You GMSAY, '<note gm> Pandemonium killed a glass dragon that supposedly lets them get to the Halls of Honor; some were able to go, some weren't, they don't know why....'
+[Thu Oct 31 22:23:55 2002] You told Chapmanjr, 'how long from now?'
+[Thu Oct 31 22:24:12 2002] Chapmanjr tells you, 'asap'
+[Thu Oct 31 22:24:14 2002] Shyner is not online at this time.
+[Thu Oct 31 22:24:18 2002] It is 11 PM on Tuesday, the 24th day of February, of the year 3182.
+[Thu Oct 31 22:24:18 2002] Earth Time: Thu Oct 31 22:24:18 2002
+[Thu Oct 31 22:24:21 2002] Cronn GMSAYS, '<note gm> Apparently Pandemonium beat the teir 2 event to enter "HoH" killing the dragon, then hailing the elemental for the Flag (to account) to pass through; there were 59 people at the event, and only 8-12 were flagged.  These flags need to be awarded to the rightful people.  Event was accomplished around 7pm PST Oct 31.'
+[Thu Oct 31 22:24:30 2002] Cronn GMSAYS, 'hahah '
+[Thu Oct 31 22:24:35 2002] GM Text added:  Espranza: unavail 22:24
+[Thu Oct 31 22:24:40 2002] CHECKING IN
+[Thu Oct 31 22:24:44 2002] Cronn GMSAYS, 'anymore = support pet's! :)'
+[Thu Oct 31 22:24:46 2002] You GMSAY, 'jinx!'
+[Thu Oct 31 22:24:50 2002] Cronn GMSAYS, 'hehe'
+[Thu Oct 31 22:24:51 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:24:51 2002] USER TEXT: I would like to change my surname, the one I have doesnt fit this character
+[Thu Oct 31 22:24:51 2002] GM TEXT: 
+[Thu Oct 31 22:24:52 2002] Players in EverQuest:
+[Thu Oct 31 22:24:52 2002] ---------------------------
+
+[Thu Oct 31 22:24:52 2002] [ANON (52 Cavalier)] Noridor (Human) ZONE: skyfire (USER PID CP7LLHK) 
+[Thu Oct 31 22:24:52 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:24:58 2002] Players in EverQuest:
+[Thu Oct 31 22:24:58 2002] ---------------------------
+
+[Thu Oct 31 22:24:58 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Thu Oct 31 22:24:58 2002] * Guide *[ANON (50 Enchanter)] Lurk O`Scary (Human) ZONE: everfrost (USER PID GVLD94Y) 
+[Thu Oct 31 22:24:58 2002] * Guide *[52 Mystic] Cronn (Troll) <House of Zek> ZONE: cshome (USER PID AVLDNV4) 
+[Thu Oct 31 22:24:58 2002] There are 3 players in EverQuest.
+[Thu Oct 31 22:25:42 2002] You told Noridor, 'Hail, Noridor! Guide Espranza here. What is your desired surname?'
+[Thu Oct 31 22:25:55 2002] Noridor tells you, 'Puresoul'
+[Thu Oct 31 22:26:22 2002] You told Noridor, 'okay - there is no senior or GM online right now who can change your name, but I will bring it to the attention of the next one who logs in.'
+[Thu Oct 31 22:26:32 2002] GM Text added:  Espranza: Would like the last name Puresoul
+[Thu Oct 31 22:26:37 2002] STATUS UPGRADED TO URGENT
+[Thu Oct 31 22:26:42 2002] Noridor tells you, 'thank you '
+[Thu Oct 31 22:26:44 2002] Cronn GMSAYS, 'haha praising petition w/swears'
+[Thu Oct 31 22:27:07 2002] You GMSAY, '<note name> Noridor CP7LLHK 52 human paladin requests the surname Puresoul'
+[Thu Oct 31 22:27:11 2002] CHECKING IN
+[Thu Oct 31 22:27:48 2002] You told Chapmanjr, 'Would you be needing a last name changed?'
+[Thu Oct 31 22:27:51 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:27:52 2002] USER TEXT: ifangels has fallen asleep in a bad spot in EW....just wondering if it's possible to have her moved to a safe spot
+[Thu Oct 31 22:27:52 2002] GM TEXT: 
+[Thu Oct 31 22:27:52 2002] Players in EverQuest:
+[Thu Oct 31 22:27:52 2002] ---------------------------
+
+[Thu Oct 31 22:27:52 2002] [61 Virtuoso] Claerion (Half Elf) <Discordia> ZONE: skyshrine (USER PID EPGA8T3) 
+[Thu Oct 31 22:27:52 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:28:06 2002] Players in EverQuest:
+[Thu Oct 31 22:28:06 2002] ---------------------------
+
+[Thu Oct 31 22:28:06 2002] [61 Hierophant] Ifangels (Halfling) <Discordia> ZONE: skyshrine (USER PID CZGEF72) 
+[Thu Oct 31 22:28:06 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:28:15 2002] Chapmanjr tells you, 'yes hers'
+[Thu Oct 31 22:28:51 2002] You told Chapmanjr, 'there is nobody on right now who can change last names, is why I ask. You may wish to wait, or get married now and petition later for a name change.'
+[Thu Oct 31 22:29:11 2002] You feel as if you are about to fall.
+[Thu Oct 31 22:29:17 2002] You can no longer levitate.
+[Thu Oct 31 22:29:19 2002] Cronn GMSAYS, '<note yellow> Kivo AY9DUS8 ::: Surname removal'
+[Thu Oct 31 22:29:21 2002] You told Claerion, 'Hail Claerion! Guide Espranza here. Is Ifangels still in a bad spot?'
+[Thu Oct 31 22:29:30 2002] Claerion tells you, 'no she's not thanks though :)'
+[Thu Oct 31 22:29:40 2002] You told Claerion, 'okies, be well and safe journey to you!'
+[Thu Oct 31 22:29:41 2002] DELETING THIS PETITION
+[Thu Oct 31 22:29:46 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:29:46 2002] USER TEXT: Taenia has now killed me at my spawnpoint in excess of 20 times. and has kept me stunned with Kelin's lucid lullaby while she pulls orcs to me after knocking me below 1/2bubble hp so as to XP kill me
+[Thu Oct 31 22:29:46 2002] GM TEXT: 
+[Thu Oct 31 22:29:46 2002] Players in EverQuest:
+[Thu Oct 31 22:29:46 2002] ---------------------------
+
+[Thu Oct 31 22:29:46 2002] [ANON (13 Necromancer)] Mischievous (Human) ZONE: gfaydark (USER PID ASU88BG) 
+[Thu Oct 31 22:29:46 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:30:54 2002] You told Mischievous, 'Hail! Guide Espranza here. Are you still being PK'd by Taenia?'
+[Thu Oct 31 22:30:56 2002] Players in EverQuest:
+[Thu Oct 31 22:30:56 2002] ---------------------------
+
+[Thu Oct 31 22:30:56 2002] [61 Sorcerer] Taelen (Dark Elf) <Umbra Pax> ZONE: ponightmare (USER PID FQ4RMWN) 
+[Thu Oct 31 22:30:56 2002] [ANON (59 Knight)] Taenarin (High Elf) ZONE: skyshrine (USER PID HNEGNFX) 
+[Thu Oct 31 22:30:56 2002] [ANON (1 Enchanter)] Taelamr (Dark Elf) ZONE: bazaar (USER PID GSY177P) 
+[Thu Oct 31 22:30:56 2002] There are 3 players in EverQuest.
+[Thu Oct 31 22:31:14 2002] Could not find player erollisi.tyveria
+[Thu Oct 31 22:31:16 2002] Mischievous tells you, 'fortunately no that stopped about 2hours ago when by stroke of luck, and sow of shaman I was able to out range her stun'
+[Thu Oct 31 22:31:31 2002] You told Mischievous, 'phew! well, should it happen again, shoot me a tel.'
+[Thu Oct 31 22:31:39 2002] Mischievous tells you, 'and my corpse which I just dragged about has just over an hour left to res'
+[Thu Oct 31 22:31:42 2002] You told Chapmanjr, 'Do you still wish to be married?'
+[Thu Oct 31 22:32:12 2002] You told Mischievous, 'EVen if not, experience loss at 13 is slight.'
+[Thu Oct 31 22:32:14 2002] Mischievous tells you, 'she stunned me at orc camp and beat me under a bubble so they attacked me once and made me lose 1/2 yellow of xp... that really sucked'
+[Thu Oct 31 22:32:17 2002] DELETING THIS PETITION
+[Thu Oct 31 22:32:25 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:32:25 2002] USER TEXT: i'd like to petition a last name
+[Thu Oct 31 22:32:25 2002] GM TEXT: 
+[Thu Oct 31 22:32:26 2002] Players in EverQuest:
+[Thu Oct 31 22:32:26 2002] ---------------------------
+
+[Thu Oct 31 22:32:26 2002] [ANON (60 High Priest)] Anaiss (Dark Elf) ZONE: skyshrine (USER PID AQSBBQ6) 
+[Thu Oct 31 22:32:26 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:32:38 2002] Mischievous tells you, 'I made back the xp already... but I'm only 1/2 yellow bub from my levelup now :( so kinda sucks'
+[Thu Oct 31 22:33:09 2002] You told Anaiss, 'Hail, Anaiss! Guide Espranza here. There is nobody on right now who can change your last name, but if you tell me the last name you want, I can see that the next person who logs on who CAN change your name, does so.'
+[Thu Oct 31 22:33:12 2002] Mischievous tells you, 'asking for really nice clerics in zone :)'
+[Thu Oct 31 22:33:19 2002] You told Mischievous, 'because you would have leveled by now...'
+[Thu Oct 31 22:33:23 2002] Anaiss tells you, 'i'd like the name K`Vetch'
+[Thu Oct 31 22:33:23 2002] Cronn GMSAYS, 'Barbequed Erudite'
+[Thu Oct 31 22:33:25 2002] Mischievous tells you, 'yup'
+[Thu Oct 31 22:33:31 2002] Chapmanjr tells you, 'yes we do still wish to get married'
+[Thu Oct 31 22:33:37 2002] Anaiss tells you, 'i don't think it will let me enter it with the `'
+[Thu Oct 31 22:33:37 2002] Mischievous tells you, 'that level would be really nice... oh well'
+[Thu Oct 31 22:33:51 2002] GM Text added:  Espranza: would like the last name K`Vetch
+[Thu Oct 31 22:34:23 2002] You GMSAY, '<note name> Anaiss AQSBBQ6 60 DE Cleric would like the last name K`Vetch'
+[Thu Oct 31 22:34:25 2002] STATUS UPGRADED TO URGENT
+[Thu Oct 31 22:34:26 2002] CHECKING IN
+[Thu Oct 31 22:34:50 2002] You told Anaiss, 'Okies, I made note of that. Good luck to you!'
+[Thu Oct 31 22:34:57 2002] You no longer have a target.
+[Thu Oct 31 22:34:58 2002] Anaiss tells you, 'thanks for your help!'
+[Thu Oct 31 22:35:07 2002] You GMSAY, 'INT is wasted on a troll. Really.'
+[Thu Oct 31 22:35:10 2002] UNDOING CHECK OUT
+[Thu Oct 31 22:35:11 2002] Mischievous tells you, 'oh yea... when did they start making Kellin's Lucid Lullaby stun PCs?'
+[Thu Oct 31 22:35:12 2002] Cronn GMSAYS, '!'
+[Thu Oct 31 22:35:23 2002] Cronn GMSAYS, 'How was your halloween?'
+[Thu Oct 31 22:35:29 2002] Mischievous tells you, 'I haven't played PvP servers in over a year so I was wondering.'
+[Thu Oct 31 22:35:32 2002] You told Mischievous, 'isn't that was it does? mAE mez?'
+[Thu Oct 31 22:35:40 2002] Mischievous tells you, 'it's a lull'
+[Thu Oct 31 22:35:48 2002] Mischievous tells you, 'but it stuns PCs... didn't when I used to play'
+[Thu Oct 31 22:36:05 2002] Mischievous tells you, 'considering the length of time it lasts if unbroken it seems pretty mean for a level 9 song'
+[Thu Oct 31 22:36:10 2002] You GMSAY, 'spent it - stupidly - playing EQ, trying to get through the Trial of Torture in PoJ so I can move up to Valor and Storms'
+[Thu Oct 31 22:36:16 2002] Cronn GMSAYS, 'hehe'
+[Thu Oct 31 22:36:21 2002] Llara the Mysterious says 'Welcome to my shop, Espranza. You would probably find a Valtron's Finest Brew handy.'
+[Thu Oct 31 22:36:21 2002] Llara the Mysterious tells you, 'That'll be 0 money per Wedding Cake.'
+[Thu Oct 31 22:36:25 2002] Mischievous tells you, 'and considering a bard can have it ready to go again the second they hit you... that makes it even meaner'
+[Thu Oct 31 22:36:27 2002] You give 0 money to Llara the Mysterious.
+[Thu Oct 31 22:36:30 2002] Llara the Mysterious tells you, 'That'll be 0 money per Valtron's Finest Brew.'
+[Thu Oct 31 22:36:33 2002] You give 0 money to Llara the Mysterious.
+[Thu Oct 31 22:36:35 2002] Llara the Mysterious tells you, 'That'll be 0 money per Birthday Cake.'
+[Thu Oct 31 22:36:37 2002] You give 0 money to Llara the Mysterious.
+[Thu Oct 31 22:36:38 2002] Llara the Mysterious tells you, 'That'll be 0 money per Gnome Sandwich.'
+[Thu Oct 31 22:36:41 2002] You give 0 money to Llara the Mysterious.
+[Thu Oct 31 22:36:43 2002] Llara the Mysterious tells you, 'That'll be 0 money for the Green Sparkler.'
+[Thu Oct 31 22:36:45 2002] You give 0 money to Llara the Mysterious.
+[Thu Oct 31 22:36:46 2002] Llara the Mysterious tells you, 'That'll be 0 money for the White Sparkler.'
+[Thu Oct 31 22:36:48 2002] You give 0 money to Llara the Mysterious.
+[Thu Oct 31 22:36:49 2002] Llara the Mysterious tells you, 'That'll be 0 money per Gnome Sandwich.'
+[Thu Oct 31 22:36:49 2002] Llara the Mysterious tells you, 'That'll be 0 money for the Blue Sparkler.'
+[Thu Oct 31 22:36:51 2002] You give 0 money to Llara the Mysterious.
+[Thu Oct 31 22:36:52 2002] Llara the Mysterious tells you, 'That'll be 0 money for the Red Sparkler.'
+[Thu Oct 31 22:36:54 2002] Llara the Mysterious tells you, 'You already have that Lore Item on your person or in the bank.  You cannot have more than one of a particular Lore Item at a time.'
+[Thu Oct 31 22:36:59 2002] You no longer have a target.
+[Thu Oct 31 22:36:59 2002] You no longer have a target.
+[Thu Oct 31 22:37:08 2002] You GMSAY, 'zone'
+[Thu Oct 31 22:37:09 2002] Consider whom?
+[Thu Oct 31 22:37:09 2002] You say, 'Hail'
+[Thu Oct 31 22:37:15 2002] Please type a valid zone name after your command.
+[Thu Oct 31 22:37:20 2002] Teleporting to chapmanjr.
+[Thu Oct 31 22:37:21 2002] LOADING, PLEASE WAIT...
+[Thu Oct 31 22:37:52 2002] You have entered Crushbone.
+[Thu Oct 31 22:37:57 2002] Chapmanjr tells you, 'can u mary us in cb in orc tower we will have friends clear it'
+[Thu Oct 31 22:38:02 2002] orc centurion says 'Hail, Emperor Crush!!'
+[Thu Oct 31 22:38:02 2002] orc centurion says 'Hail, Emperor Crush!!'
+[Thu Oct 31 22:38:09 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:38:11 2002] Ariniel feels better.
+[Thu Oct 31 22:38:13 2002] You told Chapmanjr, 'okies'
+[Thu Oct 31 22:38:15 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:38:15 2002] You GMSAY, 'zone'
+[Thu Oct 31 22:38:17 2002] Ariniel feels better.
+[Thu Oct 31 22:38:22 2002] orc centurion has been slain by Ariniel!
+[Thu Oct 31 22:38:22 2002] orc centurion's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:38:28 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:39:01 2002] Players in EverQuest:
+[Thu Oct 31 22:39:01 2002] ---------------------------
+
+[Thu Oct 31 22:39:01 2002] [ANON (25 Paladin)] Chapmanjr (Half Elf) ZONE: crushbone (USER PID C1ZCGQ7) 
+[Thu Oct 31 22:39:01 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:39:07 2002] LOADING, PLEASE WAIT...
+[Thu Oct 31 22:39:33 2002] Heliwein says out of character, 'pc on swrd of sky fire'
+[Thu Oct 31 22:39:37 2002] You have entered Greater Faydark.
+[Thu Oct 31 22:39:39 2002] Heliwein says out of character, 'pc on swrd of sky fire'
+[Thu Oct 31 22:39:42 2002] It begins to rain.
+[Thu Oct 31 22:39:43 2002] LOADING, PLEASE WAIT...
+[Thu Oct 31 22:40:13 2002] You have entered Crushbone.
+[Thu Oct 31 22:40:25 2002] Cronn GMSAYS, '<note yellow> Oadina DTXW2W ::: Surname request "Tickletummy"'
+[Thu Oct 31 22:40:51 2002] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Thu Oct 31 22:40:59 2002] royal guard begins to cast a spell. (AirElementalInvisibility)
+[Thu Oct 31 22:40:59 2002] Royal guard fades away.
+[Thu Oct 31 22:41:10 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:41:11 2002] USER TEXT: the other day I did my 7th coldain ring quest, I guess I gave my 6th ring to the wrong guy after escorting corbin blackwell to the coldain camp, and instead of him saying he's not interested, he ate the ring, I would like to be reembursed my ring and the key to free corbin blackwell, or I'd like my note to give to garadain for my 7th ring. I've worked hard for these, and don't wanna be screwed outa my rings cause of a minor bug. thankyou
+[Thu Oct 31 22:41:11 2002] GM TEXT: 
+[Thu Oct 31 22:41:11 2002] Players in EverQuest:
+[Thu Oct 31 22:41:11 2002] ---------------------------
+
+[Thu Oct 31 22:41:11 2002] [58 Knight] Deisnetk (Dwarf) <Clan Skoaldiak> ZONE: bazaar (USER PID AUJA8JC) 
+[Thu Oct 31 22:41:11 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:42:34 2002] You told Deisnetk, 'Hail, Deisnetk! Guide Espranza here. How may I help you?'
+[Thu Oct 31 22:42:34 2002] Deisnetk tells you, 'AFK Message: at hollywood video'
+[Thu Oct 31 22:42:38 2002] Ariniel shouts, 'yeah is it now?'
+[Thu Oct 31 22:42:46 2002] It is 5 AM on Wednesday, the 25th day of February, of the year 3182.
+[Thu Oct 31 22:42:46 2002] Earth Time: Thu Oct 31 22:42:46 2002
+[Thu Oct 31 22:42:47 2002] Mischievous tells you, 'grrr Chexx (tae's alt char) Is still picking on my friend who she also spawn camped... just XP killed him'
+[Thu Oct 31 22:43:04 2002] Chapmanjr shouts, 'no in a few minitues'
+[Thu Oct 31 22:43:05 2002] GM Text added:  Espranza: unavail 22:42
+[Thu Oct 31 22:43:08 2002] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Thu Oct 31 22:43:09 2002] CHECKING IN
+[Thu Oct 31 22:43:16 2002] a dwarven slave says 'No, no!!  I do not need this!!  Get me key number 16!!'
+[Thu Oct 31 22:43:24 2002] orc legionnaire says 'You are no match for a legionnaire!!'
+[Thu Oct 31 22:43:41 2002] Players in EverQuest:
+[Thu Oct 31 22:43:41 2002] ---------------------------
+
+[Thu Oct 31 22:43:41 2002] There are no players in EverQuest that match those who filters.
+[Thu Oct 31 22:43:44 2002] orc oracle begins to cast a spell. (Minor Healing)
+[Thu Oct 31 22:43:46 2002] Players in EverQuest:
+[Thu Oct 31 22:43:46 2002] ---------------------------
+
+[Thu Oct 31 22:43:46 2002] There are no players in EverQuest that match those who filters.
+[Thu Oct 31 22:43:48 2002] orc oracle begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:43:54 2002] You told Mischievous, 'I see nobody by the name "Chexx" on....'
+[Thu Oct 31 22:43:56 2002] orc oracle begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:44:00 2002] orc emissary's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:44:11 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:44:11 2002] USER TEXT: marriage
+[Thu Oct 31 22:44:11 2002] GM TEXT: 
+[Thu Oct 31 22:44:12 2002] Players in EverQuest:
+[Thu Oct 31 22:44:12 2002] ---------------------------
+
+[Thu Oct 31 22:44:12 2002] [ANON (26 Ranger)] Ninianya (Wood Elf) ZONE: crushbone (USER PID F23WH04) 
+[Thu Oct 31 22:44:12 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:44:21 2002] orc oracle begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:44:28 2002] orc oracle begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:44:36 2002] orc oracle begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:44:41 2002] Players in EverQuest:
+[Thu Oct 31 22:44:41 2002] ---------------------------
+
+[Thu Oct 31 22:44:41 2002] [ANON (25 Paladin)] Chapmanjr (Half Elf) ZONE: crushbone (USER PID C1ZCGQ7) 
+[Thu Oct 31 22:44:41 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:44:45 2002] orc legionnaire has been slain by Ninianya!
+[Thu Oct 31 22:44:45 2002] orc legionnaire's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:44:54 2002] Mischievous tells you, 'hmm, they must be gone again... my friends is currently on character Cittan'
+[Thu Oct 31 22:44:57 2002] royal guard says 'Death!!  Death to all who oppose the Crushbone orcs!!'
+[Thu Oct 31 22:45:17 2002] Chapmanjr says, 'Hail, Espranza'
+[Thu Oct 31 22:45:31 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:45:33 2002] Ninianya feels better.
+[Thu Oct 31 22:45:37 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:45:39 2002] royal guard has been slain by Ninianya!
+[Thu Oct 31 22:45:39 2002] royal guard's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:45:39 2002] Ninianya feels better.
+[Thu Oct 31 22:45:40 2002] Praxor says out of character, 'what brings a guide out here?'
+[Thu Oct 31 22:45:42 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:45:47 2002] You GMSAY, '<note event> Marriage of Ninianya F23WH04 and Chapmanjr C1ZCGQ7, he would like the surname Sominya'
+[Thu Oct 31 22:45:49 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:45:59 2002] orc oracle says 'Let me show you the high power of the Crushbone oracles!!'
+[Thu Oct 31 22:46:06 2002] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Thu Oct 31 22:46:17 2002] Praxor boggles at Espranza, shaking his head and looking confused.
+[Thu Oct 31 22:46:19 2002] You GMSAY, '<note name> CHapmanjr C1ZCHQ7 desires surname Sominya'
+[Thu Oct 31 22:46:22 2002] orc oracle begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:46:24 2002] You look at Praxor, completely puzzled.
+[Thu Oct 31 22:46:24 2002] orc oracle says 'Let me show you the high power of the Crushbone oracles!!'
+[Thu Oct 31 22:46:28 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:46:30 2002] Praxor giggles at Espranza.
+[Thu Oct 31 22:46:33 2002] Praxor waves goodbye to Espranza.
+[Thu Oct 31 22:46:35 2002] DELETING THIS PETITION
+[Thu Oct 31 22:46:38 2002] Emperor Crush's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:46:39 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:46:39 2002] USER TEXT: I have left my guild/family.  My surname is theirs. May I please change it . thank you
+[Thu Oct 31 22:46:39 2002] GM TEXT: 
+[Thu Oct 31 22:46:40 2002] Players in EverQuest:
+[Thu Oct 31 22:46:40 2002] ---------------------------
+
+[Thu Oct 31 22:46:40 2002] [ANON (57 Templar)] Cereanna (Dark Elf) ZONE: poknowledge (USER PID HRNQ0N6) 
+[Thu Oct 31 22:46:40 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:46:54 2002] orc oracle begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:46:57 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:46:59 2002] orc oracle says 'Let me show you the high power of the Crushbone oracles!!'
+[Thu Oct 31 22:47:02 2002] orc oracle begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:47:06 2002] orc oracle begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:47:08 2002] You told Cereanna, 'Hail, Cereanna! Guide Espranza here. What would you like your last name to be?'
+[Thu Oct 31 22:47:14 2002] orc oracle begins to cast a spell. (Minor Healing)
+[Thu Oct 31 22:47:14 2002] orc centurion says 'Fall before the might of Clan Crushbone!!'
+[Thu Oct 31 22:47:14 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:47:14 2002] orc centurion says 'Fall before the might of Clan Crushbone!!'
+[Thu Oct 31 22:47:20 2002] orc oracle says 'Let me show you the high power of the Crushbone oracles!!'
+[Thu Oct 31 22:47:20 2002] orc oracle says 'Let me show you the high power of the Crushbone oracles!!'
+[Thu Oct 31 22:47:30 2002] Cereanna tells you, 'Van`Ayr please'
+[Thu Oct 31 22:47:31 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:47:33 2002] orc oracle begins to cast a spell. (Frost Rift)
+[Thu Oct 31 22:47:35 2002] Chapmanjr is struck by the frost rift.
+[Thu Oct 31 22:47:36 2002] Chapmanjr begins to cast a spell. (Root)
+[Thu Oct 31 22:47:37 2002] orc oracle begins to cast a spell. (Sicken)
+[Thu Oct 31 22:47:39 2002] Chapmanjr sweats and shivers, looking feverish.
+[Thu Oct 31 22:47:41 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:47:43 2002] Orc centurion staggers as spirits of frost slam against them.
+[Thu Oct 31 22:47:49 2002] orc centurion's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:47:51 2002] You told Cereanna, 'okay, I will bring this to the attention of the next person who comes on who can change last names.'
+[Thu Oct 31 22:47:54 2002] orc oracle begins to cast a spell. (Frost Rift)
+[Thu Oct 31 22:48:00 2002] orc oracle's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:48:15 2002] GM Text added:  Espranza: Desires the last name Van`Ayr
+[Thu Oct 31 22:48:17 2002] STATUS UPGRADED TO URGENT
+[Thu Oct 31 22:48:32 2002] Cereanna tells you, 'ok . thank you. is there anything I can do to get rid of the surname right now.. '
+[Thu Oct 31 22:48:37 2002] Chapmanjr begins to cast a spell. (Root)
+[Thu Oct 31 22:48:39 2002] Orc oracle adheres to the ground.
+[Thu Oct 31 22:48:41 2002] orc oracle begins to cast a spell. (Frost Rift)
+[Thu Oct 31 22:48:43 2002] Chapmanjr is struck by the frost rift.
+[Thu Oct 31 22:48:47 2002] orc emissary says 'Death!!  Death to all who oppose the Crushbone orcs!!'
+[Thu Oct 31 22:48:47 2002] orc emissary says 'Death!!  Death to all who oppose the Crushbone orcs!!'
+[Thu Oct 31 22:48:49 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:48:53 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:48:57 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:48:59 2002] orc oracle has been slain by Chapmanjr!
+[Thu Oct 31 22:48:59 2002] orc oracle's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:48:59 2002] You GMSAY, '<note name> Cereanna HRNQ0N6 desires the last name Van`Ayr'
+[Thu Oct 31 22:49:09 2002] Chapmanjr begins to cast a spell. (Root)
+[Thu Oct 31 22:49:11 2002] You told Cereanna, 'no, there is nobody on right now who can do that for you.'
+[Thu Oct 31 22:49:14 2002] CHECKING IN
+[Thu Oct 31 22:49:20 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:49:20 2002] USER TEXT: I need to be given my powers over my guild.. I was mage guildleader 2 weeks ago... I have filed several petitions ad I still have not spokebn to a GM
+[Thu Oct 31 22:49:20 2002] GM TEXT: Espranza: unavail 22:05
+[Thu Oct 31 22:49:21 2002] Players in EverQuest:
+[Thu Oct 31 22:49:21 2002] ---------------------------
+
+[Thu Oct 31 22:49:21 2002] There are no players in EverQuest that match those who filters.
+[Thu Oct 31 22:49:23 2002] Cereanna tells you, 'thank you for your time!'
+[Thu Oct 31 22:49:24 2002] It is 8 AM on Wednesday, the 25th day of February, of the year 3182.
+[Thu Oct 31 22:49:24 2002] Earth Time: Thu Oct 31 22:49:24 2002
+[Thu Oct 31 22:49:27 2002] orc legionnaire says 'You are no match for a legionnaire!!'
+[Thu Oct 31 22:49:27 2002] orc legionnaire says 'You are no match for a legionnaire!!'
+[Thu Oct 31 22:49:27 2002] orc legionnaire says 'You are no match for a legionnaire!!'
+[Thu Oct 31 22:49:27 2002] orc legionnaire says 'You are no match for a legionnaire!!'
+[Thu Oct 31 22:49:30 2002] You told Cereanna, 'anytime! be well!'
+[Thu Oct 31 22:49:31 2002] orc legionnaire's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:49:36 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:49:36 2002] Ariniel begins to cast a spell. (Healing)
+[Thu Oct 31 22:49:38 2002] Ninianya begins to cast a spell. (Snare)
+[Thu Oct 31 22:49:38 2002] GM Text added:  Espranza: unavail 22:49
+[Thu Oct 31 22:49:40 2002] Praxor begins to cast a spell. (Sanity Warp)
+[Thu Oct 31 22:49:42 2002] CHECKING IN
+[Thu Oct 31 22:49:43 2002] Orc legionnaire looks delirious.
+[Thu Oct 31 22:49:45 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 22:49:46 2002] USER TEXT: a little late but want to report a ninja loot... i was gone 2 weeks just heard, person who did wearing item just now
+[Thu Oct 31 22:49:46 2002] GM TEXT: 
+[Thu Oct 31 22:49:46 2002] Players in EverQuest:
+[Thu Oct 31 22:49:46 2002] ---------------------------
+
+[Thu Oct 31 22:49:46 2002] [ANON (61 Arch Mage)] Beowulfq (High Elf) ZONE: swampofnohope (USER PID AQZZE2V) 
+[Thu Oct 31 22:49:46 2002] There is 1 player in EverQuest.
+[Thu Oct 31 22:49:46 2002] Ninianya begins to cast a spell. (Snare)
+[Thu Oct 31 22:49:59 2002] Ariniel begins to cast a spell. (Healing)
+[Thu Oct 31 22:50:03 2002] Chapmanjr begins to cast a spell. (Root)
+[Thu Oct 31 22:50:03 2002] Buvari says out of character, 'does anyone know were to giveMaster Crushbone Cell Key to?'
+[Thu Oct 31 22:50:08 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:50:10 2002] Ariniel begins to cast a spell. (Grasping Roots)
+[Thu Oct 31 22:50:12 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 22:50:16 2002] orc oracle begins to cast a spell. (Tainted Breath)
+[Thu Oct 31 22:50:16 2002] Praxor says out of character, 'no idea, sorry'
+[Thu Oct 31 22:50:21 2002] orc oracle's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:50:34 2002] Ninianya begins to cast a spell. (Snare)
+[Thu Oct 31 22:50:42 2002] Ariniel begins to cast a spell. (Healing)
+[Thu Oct 31 22:50:43 2002] You told Beowulfq, 'Hail, Beowulfq! Guide Espranza here. That's been quite a long time; who ninja'd what item, where when and how?'
+[Thu Oct 31 22:50:44 2002] Cittan says out of character, 'it is for the ranger lowbies weapon quest'
+[Thu Oct 31 22:50:50 2002] Ninianya begins to cast a spell. (Snare)
+[Thu Oct 31 22:50:59 2002] Lurk O`Scary GMSAYS, '<note badname> cinno Maxx pid F0HVG48'
+[Thu Oct 31 22:51:27 2002] Beowulfq tells you, 'heya, cronn came to me a sec ago, he will get back to me he said, it was 2 weeks ago saturday while i was away, guild told me today, Ithiosar the Fallen inc in a sec tho, so i might need a minute'
+[Thu Oct 31 22:51:51 2002] orc centurion says 'Fall before the might of Clan Crushbone!!'
+[Thu Oct 31 22:52:02 2002] You GMSAY, 'Cronn, you're dealing with Beowulf1?'
+[Thu Oct 31 22:52:02 2002] Ariniel begins to cast a spell. (Grasping Roots)
+[Thu Oct 31 22:52:11 2002] Chapmanjr begins to cast a spell. (Root)
+[Thu Oct 31 22:52:40 2002] Players in EverQuest:
+[Thu Oct 31 22:52:40 2002] ---------------------------
+
+[Thu Oct 31 22:52:40 2002] * Guide *[ANON (50 Enchanter)] Lurk O`Scary (Human) ZONE: poknowledge (USER PID GVLD94Y) 
+[Thu Oct 31 22:52:40 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: crushbone (USER PID FUGQSJL) 
+[Thu Oct 31 22:52:40 2002] * Guide *[52 Mystic] Cronn (Troll) <House of Zek> ZONE: cshome (USER PID AVLDNV4) 
+[Thu Oct 31 22:52:40 2002] There are 3 players in EverQuest.
+[Thu Oct 31 22:52:52 2002] Lurk O`Scary GMSAYS, '<note badname> buffmachine liketodot pid FZ5MH9H'
+[Thu Oct 31 22:53:28 2002] Cronn GMSAYS, 'went afk --- sorry'
+[Thu Oct 31 22:53:41 2002] Cronn GMSAYS, 'why is that bad?'
+[Thu Oct 31 22:53:49 2002] Ariniel says, 'what class are you espranza?'
+[Thu Oct 31 22:53:49 2002] Cronn GMSAYS, 'phrases are allowed now '
+[Thu Oct 31 22:53:49 2002] You GMSAY, 'was just about to ask that same question'
+[Thu Oct 31 22:53:51 2002] Lurk O`Scary GMSAYS, 'which one?'
+[Thu Oct 31 22:53:54 2002] You say, 'rogue'
+[Thu Oct 31 22:53:56 2002] Cronn GMSAYS, 'Buffmachine Liketodot'
+[Thu Oct 31 22:54:06 2002] Ariniel says, 'your swords are pretty'
+[Thu Oct 31 22:54:10 2002] I don't see anyone by that name around here...
+[Thu Oct 31 22:54:12 2002] You no longer have a target.
+[Thu Oct 31 22:54:13 2002] You blush profusely.
+[Thu Oct 31 22:54:15 2002] You say, 'thanks!'
+[Thu Oct 31 22:54:33 2002] Ariniel stares at the sparkles.
+[Thu Oct 31 22:54:45 2002] Lurk O`Scary GMSAYS, 'I was under the impression phrases were illegal'
+[Thu Oct 31 22:54:47 2002] Espranza waves them in mezmerizing ways.
+[Thu Oct 31 22:54:48 2002] Ariniel begins to cast a spell. (Healing)
+[Thu Oct 31 22:54:51 2002] Ariniel feels much better.
+[Thu Oct 31 22:54:51 2002] You GMSAY, 'not for months'
+[Thu Oct 31 22:54:52 2002] Ninianya says, 'we need to wait for liddied'
+[Thu Oct 31 22:54:58 2002] Ninianya says, 'lidien'
+[Thu Oct 31 22:55:01 2002] Cronn GMSAYS, 'few months ago they were legalized,  4months ago I think'
+[Thu Oct 31 22:55:06 2002] Ninianya says, 'he is leader of guild and he is coming'
+[Thu Oct 31 22:55:08 2002] Ariniel says, 'where is he'
+[Thu Oct 31 22:55:08 2002] The spirit leaves you.
+[Thu Oct 31 22:55:13 2002] Ninianya says, 'porting over'
+[Thu Oct 31 22:55:27 2002] Lurk O`Scary GMSAYS, 'oh?  on quellious we still removed them up until the point I left'
+[Thu Oct 31 22:55:30 2002] Ariniel says, 'maybe hell give me free gear)'
+[Thu Oct 31 22:55:45 2002] Ninianya says, 'chap where are your frineds'
+[Thu Oct 31 22:55:48 2002] Chapmanjr tells you, 'hihi sorry bout that all the green ones argoed my roomy is incomming asap then we ready heel keep orcs down'
+[Thu Oct 31 22:55:48 2002] Ninianya says, 'friends'
+[Thu Oct 31 22:55:48 2002] Cronn GMSAYS, '<note reimbursal> Drevox HPQAHQW - Item: Jboots.  Noticed them missing this morning when logging in;  checked bank, and corpses.  Would like investigation/replacement.'
+[Thu Oct 31 22:55:53 2002] orc legionnaire says 'You are no match for a legionnaire!!'
+[Thu Oct 31 22:55:55 2002] You GMSAY, 'happened about the same time Seniors were stripped of the ability to change first names'
+[Thu Oct 31 22:55:59 2002] Ninianya says, 'afk for a sec'
+[Thu Oct 31 22:56:11 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:56:13 2002] Ninianya feels better.
+[Thu Oct 31 22:56:14 2002] Cronn GMSAYS, 'actually same time :)'
+[Thu Oct 31 22:56:17 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:56:19 2002] Ninianya feels better.
+[Thu Oct 31 22:56:25 2002] You GMSAY, 'I know, I was one of the seniors so stripped'
+[Thu Oct 31 22:56:30 2002] Cronn GMSAYS, 'doh!'
+[Thu Oct 31 22:56:39 2002] You GMSAY, 'water under the bridge, water under the bridge'
+[Thu Oct 31 22:56:42 2002] orc centurion says 'Fall before the might of Clan Crushbone!!'
+[Thu Oct 31 22:56:42 2002] orc legionnaire says 'You are no match for a legionnaire!!'
+[Thu Oct 31 22:56:47 2002] Cronn GMSAYS, 'heh'
+[Thu Oct 31 22:56:48 2002] Lurk O`Scary GMSAYS, 'lol'
+[Thu Oct 31 22:56:53 2002] Ariniel begins to cast a spell. (Dizzying Wind)
+[Thu Oct 31 22:56:57 2002] Ariniel begins to cast a spell. (Dizzying Wind)
+[Thu Oct 31 22:57:00 2002] Ariniel's casting is interrupted!
+[Thu Oct 31 22:57:01 2002] Ariniel begins to cast a spell. (Grasping Roots)
+[Thu Oct 31 22:57:03 2002] Ariniel is entwined by roots.
+[Thu Oct 31 22:57:11 2002] Ariniel begins to cast a spell. (Dizzying Wind)
+[Thu Oct 31 22:57:15 2002] Ariniel's spell fizzles!
+[Thu Oct 31 22:57:21 2002] Chapmanjr begins to cast a spell. (Root)
+[Thu Oct 31 22:57:23 2002] Orc legionnaire adheres to the ground.
+[Thu Oct 31 22:57:25 2002] Ariniel says, 'dammit i rooted myself)'
+[Thu Oct 31 22:57:31 2002] Ariniel begins to cast a spell. (Dizzying Wind)
+[Thu Oct 31 22:57:34 2002] royal guard says 'Death!!  Death to all who oppose the Crushbone orcs!!'
+[Thu Oct 31 22:57:35 2002] Ninianya begins to cast a spell. (Snare)
+[Thu Oct 31 22:57:36 2002] Praxor begins to cast a spell. (Chaos Flux)
+[Thu Oct 31 22:57:36 2002] Ariniel begins to cast a spell. (Dizzying Wind)
+[Thu Oct 31 22:57:39 2002] Orc centurion is slammed by an intense gust of wind.
+[Thu Oct 31 22:57:44 2002] orc legionnaire has been slain by Chapmanjr!
+[Thu Oct 31 22:57:44 2002] orc legionnaire's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:57:48 2002] Ninianya begins to cast a spell. (Ignite)
+[Thu Oct 31 22:57:52 2002] Ariniel is looking at your equipment...
+[Thu Oct 31 22:57:58 2002] Ariniel begins to cast a spell. (Grasping Roots)
+[Thu Oct 31 22:58:05 2002] You say, 'well I think these will be a constant interruption'
+[Thu Oct 31 22:58:08 2002] royal guard's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 22:58:13 2002] You say, 'are you certain you wish to be married here?'
+[Thu Oct 31 22:58:24 2002] Ariniel is looking at your equipment...
+[Thu Oct 31 22:58:31 2002] Ninianya says, 'where else could we be married'
+[Thu Oct 31 22:58:32 2002] Espranza saved.
+[Thu Oct 31 22:58:43 2002] Ninianya kisses Chapmanjr on the cheek.
+[Thu Oct 31 22:58:44 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:58:46 2002] Ninianya feels better.
+[Thu Oct 31 22:58:50 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:58:52 2002] You say, 'somewhere with fewer monsters )'
+[Thu Oct 31 22:58:52 2002] Ninianya feels better.
+[Thu Oct 31 22:59:05 2002] Ariniel says, 'yeah really'
+[Thu Oct 31 22:59:14 2002] Ninianya says, 'can you port us all'
+[Thu Oct 31 22:59:19 2002] You say, 'nooo'
+[Thu Oct 31 22:59:24 2002] Ninianya says, 'why not'
+[Thu Oct 31 22:59:29 2002] You say, 'not allowed'
+[Thu Oct 31 22:59:33 2002] Ninianya says, 'oh'
+[Thu Oct 31 22:59:44 2002] Ariniel says, 'didnt realize you were gm'
+[Thu Oct 31 22:59:47 2002] Chapmanjr says, 'denkers new pet will pwn every thing here we dont have to worry'
+[Thu Oct 31 22:59:52 2002] orc oracle begins to cast a spell. (Inner Fire)
+[Thu Oct 31 22:59:54 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 22:59:55 2002] Orc oracle's body pulses with energy.
+[Thu Oct 31 22:59:56 2002] Ninianya says, 'ok'
+[Thu Oct 31 22:59:56 2002] Ninianya feels better.
+[Thu Oct 31 22:59:58 2002] orc oracle says 'Let me show you the high power of the Crushbone oracles!!'
+[Thu Oct 31 23:00:00 2002] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Thu Oct 31 23:00:05 2002] Orc oracle is surrounded by a brief lupine aura.
+[Thu Oct 31 23:00:07 2002] Ninianya says, 'we will stay here'
+[Thu Oct 31 23:00:12 2002] orc oracle begins to cast a spell. (Tainted Breath)
+[Thu Oct 31 23:00:13 2002] Beowulfq tells you, 'okay our butt got handed to us royally =P'
+[Thu Oct 31 23:00:17 2002] orc oracle says 'Let me show you the high power of the Crushbone oracles!!'
+[Thu Oct 31 23:00:20 2002] Ariniel begins to cast a spell. (Grasping Roots)
+[Thu Oct 31 23:00:22 2002] Orc oracle is entwined by roots.
+[Thu Oct 31 23:00:23 2002] Denker says, 'Hail, Chapmanjr'
+[Thu Oct 31 23:00:25 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 23:00:26 2002] Ariniel begins to cast a spell. (Dizzying Wind)
+[Thu Oct 31 23:00:27 2002] orc oracle's casting is interrupted!
+[Thu Oct 31 23:00:29 2002] You no longer have a target.
+[Thu Oct 31 23:00:29 2002] Orc oracle is slammed by an intense gust of wind.
+[Thu Oct 31 23:00:29 2002] orc oracle begins to cast a spell. (Tainted Breath)
+[Thu Oct 31 23:00:29 2002] You no longer have a target.
+[Thu Oct 31 23:00:31 2002] Cronn GMSAYS, '<note yellow> Luvmashine DS11LBY ::: Surname removal'
+[Thu Oct 31 23:00:31 2002] Ninianya has been poisoned.
+[Thu Oct 31 23:00:33 2002] orc oracle has been slain by Blueeyedgen!
+[Thu Oct 31 23:00:33 2002] orc oracle's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 23:00:34 2002] You told Beowulfq, 'ouch ('
+[Thu Oct 31 23:00:42 2002] Beowulfq tells you, 'he sure hits hard =P'
+[Thu Oct 31 23:00:44 2002] Beowulfq tells you, 'anyway'
+[Thu Oct 31 23:00:47 2002] Denker begins to cast a spell. (Nature Walkers Behest)
+[Thu Oct 31 23:00:47 2002] Ariniel says, 'you have green feet)'
+[Thu Oct 31 23:00:50 2002] orc pawn's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 23:00:56 2002] Denker summons a spirit of nature.
+[Thu Oct 31 23:00:57 2002] Beowulfq tells you, 'the basic problem i saw today is the person who ninjaed'
+[Thu Oct 31 23:00:59 2002] Denker begins to cast a spell. (Tiny Companion)
+[Thu Oct 31 23:01:03 2002] Beowulfq tells you, 'it was from Rumblecrush'
+[Thu Oct 31 23:01:04 2002] Gabartik shrinks.
+[Thu Oct 31 23:01:06 2002] Denker's spell fizzles!
+[Thu Oct 31 23:01:07 2002] Denker begins to cast a spell. (Spirit of Eagle)
+[Thu Oct 31 23:01:11 2002] Gabartik's body pulses with an avian spirit.
+[Thu Oct 31 23:01:15 2002] Beowulfq tells you, 'and today i see the person bragging about it'
+[Thu Oct 31 23:01:16 2002] Chapmanjr says, 'gabartik will escort orcs'
+[Thu Oct 31 23:01:18 2002] Chattel GMSAYS, 'hey guys'
+[Thu Oct 31 23:01:20 2002] Cronn GMSAYS, 'Hey !'
+[Thu Oct 31 23:01:21 2002] Beowulfq tells you, 'pretty much got me mad'
+[Thu Oct 31 23:01:24 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 23:01:25 2002] Ninianya feels better.
+[Thu Oct 31 23:01:29 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 23:01:30 2002] You GMSAY, 'Hi Chattel!'
+[Thu Oct 31 23:01:31 2002] Ninianya feels better.
+[Thu Oct 31 23:01:35 2002] Denker begins to cast a spell. (Skin like Nature)
+[Thu Oct 31 23:01:37 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 23:01:39 2002] Ninianya feels better.
+[Thu Oct 31 23:01:42 2002] Gabartik's skin shimmers with divine power.
+[Thu Oct 31 23:01:42 2002] Chattel GMSAYS, 'this damn desktop crap is making me mad  . . .I'm using the old ui right now =/'
+[Thu Oct 31 23:01:45 2002] Chapmanjr begins to cast a spell. (Light Healing)
+[Thu Oct 31 23:01:47 2002] Ninianya feels better.
+[Thu Oct 31 23:01:48 2002] Denker begins to cast a spell. (Regrowth)
+[Thu Oct 31 23:01:51 2002] Ninianya is looking at your equipment...
+[Thu Oct 31 23:01:54 2002] Gabartik begins to regenerate.
+[Thu Oct 31 23:01:56 2002] Cronn GMSAYS, 'hehe'
+[Thu Oct 31 23:01:57 2002] Denker begins to cast a spell. (Savage Spirit)
+[Thu Oct 31 23:01:57 2002] Chattel GMSAYS, 'zone'
+[Thu Oct 31 23:01:58 2002] orc centurion's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 23:02:02 2002] orc centurion's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 23:02:03 2002] Gabartik's eyes gleam with madness.
+[Thu Oct 31 23:02:08 2002] orc emissary says 'Death!!  Death to all who oppose the Crushbone orcs!!'
+[Thu Oct 31 23:02:13 2002] orc oracle begins to cast a spell. (Inner Fire)
+[Thu Oct 31 23:02:18 2002] Denker says, 'weak =/'
+[Thu Oct 31 23:02:21 2002] orc oracle begins to cast a spell. (Inner Fire)
+[Thu Oct 31 23:02:26 2002] You say, 'The funny thing is, that bear is so puny he can barely kill even these orcs'
+[Thu Oct 31 23:02:29 2002] orc oracle begins to cast a spell. (Light Healing)
+[Thu Oct 31 23:02:32 2002] Cronn GMSAYS, 'zoning'
+[Thu Oct 31 23:02:34 2002] Ninianya begins to cast a spell. (Snare)
+[Thu Oct 31 23:02:36 2002] Ninianya tries to cast a spell on you, but you are protected.
+[Thu Oct 31 23:02:37 2002] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Thu Oct 31 23:02:39 2002] You say, 'ANYWAY!'
+[Thu Oct 31 23:02:44 2002] Praxor begins to cast a spell. (Sanity Warp)
+[Thu Oct 31 23:02:45 2002] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Thu Oct 31 23:02:53 2002] Ninianya is looking at your equipment...
+[Thu Oct 31 23:03:01 2002] Lidien says, 'Hail'
+[Thu Oct 31 23:03:02 2002] orc oracle begins to cast a spell. (Inner Fire)
+[Thu Oct 31 23:03:03 2002] Gabartik says 'I beg forgiveness, Master.  That is not a legal target.'
+[Thu Oct 31 23:03:07 2002] Lidien begins to cast a spell. (Nature Walkers Behest)
+[Thu Oct 31 23:03:09 2002] Ninianya says, 'Hail, Espranza'
+[Thu Oct 31 23:03:10 2002] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Thu Oct 31 23:03:11 2002] Ariniel says, 'Hail, Lidien'
+[Thu Oct 31 23:03:14 2002] Ninianya says, 'Hail, Lidien'
+[Thu Oct 31 23:03:16 2002] Lidien summons a spirit of nature.
+[Thu Oct 31 23:03:18 2002] You say, 'In such a momentous occasion, it would be well for the bride and groom to sheathe their weapons, so as not to start their married life as prepared for battle, hmmm?'
+[Thu Oct 31 23:03:19 2002] Venarer says 'Guarding with my life..oh splendid one.'
+[Thu Oct 31 23:03:20 2002] Chattel GMSAYS, 'so what did everyone do to fix their crashing problems? None of the xml fixes were working for me =/'
+[Thu Oct 31 23:03:20 2002] Denker says, 'lol hell yeah'
+[Thu Oct 31 23:03:28 2002] You GMSAY, 'they worked for me'
+[Thu Oct 31 23:03:29 2002] Lidien snaps to attention and salutes Chapmanjr crisply.
+[Thu Oct 31 23:03:34 2002] Lidien snaps to attention and salutes Ninianya crisply.
+[Thu Oct 31 23:03:40 2002] Lidien congratulates Ninianya on a job well done.
+[Thu Oct 31 23:03:40 2002] Cronn GMSAYS, 'edit the EQUI.xml to include Guide window'
+[Thu Oct 31 23:03:47 2002] Lidien congratulates Chapmanjr on a job well done.
+[Thu Oct 31 23:03:54 2002] Chattel GMSAYS, 'how?'
+[Thu Oct 31 23:03:54 2002] Lidien kneels before Espranza in humility and reverence.
+[Thu Oct 31 23:03:58 2002] Cronn GMSAYS, 'with notepad'
+[Thu Oct 31 23:03:59 2002] Gabartik says 'Guarding with my life..oh splendid one.'
+[Thu Oct 31 23:04:00 2002] Venarer says 'Guarding with my life..oh splendid one.'
+[Thu Oct 31 23:04:04 2002] Chattel GMSAYS, 'what do i put into it?'
+[Thu Oct 31 23:04:06 2002] Ninianya kneels before Lidien in humility and reverence.
+[Thu Oct 31 23:04:11 2002] orc centurion says 'Fall before the might of Clan Crushbone!!'
+[Thu Oct 31 23:04:19 2002] orc oracle begins to cast a spell. (Minor Healing)
+[Thu Oct 31 23:04:23 2002] Lidien begins to cast a spell. (Spirit of Wolf)
+[Thu Oct 31 23:04:23 2002] orc oracle begins to cast a spell. (Minor Healing)
+[Thu Oct 31 23:04:25 2002] You GMSAY, 'We are gathered here this All Hallow's Eve to bring together two children of Tunare, the Mother of All!'
+[Thu Oct 31 23:04:33 2002] You GMSAY, 'that was am istell'
+[Thu Oct 31 23:04:35 2002] Ariniel begins to cast a spell. (Levitate)
+[Thu Oct 31 23:04:38 2002] Ariniel floats into the air.
+[Thu Oct 31 23:04:40 2002] Chattel GMSAYS, 'doing a wedding?'
+[Thu Oct 31 23:04:41 2002] Lidien begins to cast a spell. (Spirit of Wolf)
+[Thu Oct 31 23:04:45 2002] Ariniel is surrounded by a brief lupine aura.
+[Thu Oct 31 23:04:47 2002] You say, 'We are gathered here this All Hallow's Eve to bring together two children of Tunare, the Mother of All!'
+[Thu Oct 31 23:04:51 2002] You GMSAY, 'aye'
+[Thu Oct 31 23:04:54 2002] Chattel GMSAYS, 'ooh!'
+[Thu Oct 31 23:04:57 2002] Gabartik says 'Following you, Master.'
+[Thu Oct 31 23:05:04 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 23:05:10 2002] Gabartik says 'Guarding with my life..oh splendid one.'
+[Thu Oct 31 23:05:19 2002] Chattel GMSAYS, 'so is Lurk O'Scary? lol'
+[Thu Oct 31 23:05:21 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 23:05:24 2002] orc oracle's casting is interrupted!
+[Thu Oct 31 23:05:26 2002] Ninianya begins to cast a spell. (Grasping Roots)
+[Thu Oct 31 23:05:26 2002] You no longer have a target.
+[Thu Oct 31 23:05:27 2002] You tap your foot impatiently.
+[Thu Oct 31 23:05:28 2002] Orc oracle is entwined by roots.
+[Thu Oct 31 23:05:30 2002] orc oracle has been slain by Shadowskulk!
+[Thu Oct 31 23:05:30 2002] orc oracle's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 23:05:42 2002] Ariniel says, 'wow uncalled for'
+[Thu Oct 31 23:05:43 2002] Ninianya says, 'loot the corpse'
+[Thu Oct 31 23:05:45 2002] Shadowskulk says, 'so what is the house of zek doing here?'
+[Thu Oct 31 23:05:50 2002] Espranza prays for strength from Daddy Bristlebane.
+[Thu Oct 31 23:05:59 2002] Praxor begins to cast a spell. (Chaos Flux)
+[Thu Oct 31 23:06:00 2002] Ninianya says, 'marriage'
+[Thu Oct 31 23:06:01 2002] Beowulfq tells you, 'anything that is possible?'
+[Thu Oct 31 23:06:08 2002] You told Beowulfq, 'sec'
+[Thu Oct 31 23:06:08 2002] Lurk O`Scary GMSAYS, 'lol where is the wedding?'
+[Thu Oct 31 23:06:09 2002] Shadowskulk says, 'sorry to interupt'
+[Thu Oct 31 23:06:12 2002] Chapmanjr shouts, 'were gettin married so dont kill in here'
+[Thu Oct 31 23:06:18 2002] Cronn GMSAYS, 'Lurk is Eeos'
+[Thu Oct 31 23:06:20 2002] Chapmanjr says, 'ready'
+[Thu Oct 31 23:06:23 2002] Chattel GMSAYS, 'aha'
+[Thu Oct 31 23:06:25 2002] Ninianya says, 'yes'
+[Thu Oct 31 23:06:28 2002] Lurk O`Scary GMSAYS, 'yep that's me:-p'
+[Thu Oct 31 23:06:32 2002] Shadowskulk begins to cast a spell. (Harmony)
+[Thu Oct 31 23:06:40 2002] Shadowskulk begins to cast a spell. (Feet like Cat)
+[Thu Oct 31 23:06:43 2002] Lidien pull's out some Kleenex.
+[Thu Oct 31 23:06:48 2002] Shadowskulk begins to cast a spell. (Firefist)
+[Thu Oct 31 23:06:54 2002] Shadowskulk begins to cast a spell. (Harmony)
+[Thu Oct 31 23:06:57 2002] You say, 'Until now, these two souls have braved the trials and terrors of Norrath alone. From this day on, they will fight together, alone never again, each guarding the body, heart and soul of their beloved'
+[Thu Oct 31 23:06:58 2002] Ariniel pats lidien on the shoulder.
+[Thu Oct 31 23:07:02 2002] Shadowskulk begins to cast a spell. (Ignite)
+[Thu Oct 31 23:07:04 2002] You GMSAY, 'Crushbone of all places'
+[Thu Oct 31 23:07:07 2002] Chattel GMSAYS, 'Hmm, so cronn, what do I need to do with my xml files?  if you have a sec to tell me. . .'
+[Thu Oct 31 23:07:09 2002] Shadowskulk's spell fizzles!
+[Thu Oct 31 23:07:10 2002] Shadowskulk begins to cast a spell. (Ignite)
+[Thu Oct 31 23:07:12 2002] Cronn GMSAYS, 'sure'
+[Thu Oct 31 23:07:19 2002] Players in EverQuest:
+[Thu Oct 31 23:07:19 2002] ---------------------------
+
+[Thu Oct 31 23:07:19 2002] [ANON (26 Ranger)] Ninianya (Wood Elf) ZONE: crushbone (USER PID F23WH04) 
+[Thu Oct 31 23:07:19 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:07:23 2002] Denker says, 'grrr'
+[Thu Oct 31 23:07:24 2002] Praxor begins to cast a spell. (Sanity Warp)
+[Thu Oct 31 23:07:24 2002] Cronn GMSAYS, 'do you use a custom UI?'
+[Thu Oct 31 23:07:26 2002] orc legionnaire says 'You are no match for a legionnaire!!'
+[Thu Oct 31 23:07:27 2002] Chattel GMSAYS, 'no'
+[Thu Oct 31 23:07:34 2002] Cronn GMSAYS, 'delete your "Default" directory :)'
+[Thu Oct 31 23:07:43 2002] Chattel GMSAYS, 'all of it? lol'
+[Thu Oct 31 23:07:45 2002] Shadowskulk shouts, 'train'
+[Thu Oct 31 23:07:49 2002] Cronn GMSAYS, 'then edit a file called "EQUI.xml" with "Notepad"'
+[Thu Oct 31 23:07:56 2002] You say, 'Ninianya, do you take Chapmanjr to be your lawfully wedded husband, to have and to hold, to keep in sickness and in health, battle and in peace, till death do you part?'
+[Thu Oct 31 23:08:10 2002] Ninianya says, 'I Do'
+[Thu Oct 31 23:08:10 2002] Chattel GMSAYS, 'ok'
+[Thu Oct 31 23:08:13 2002] Cronn GMSAYS, 'and add a file to the list at the bottom called "EQ_GUIDE.xml" in the format that you will see'
+[Thu Oct 31 23:08:15 2002] You smile.
+[Thu Oct 31 23:08:27 2002] Lidien grins evilly.
+[Thu Oct 31 23:08:34 2002] Lidien grin happily.
+[Thu Oct 31 23:08:51 2002] You say, 'And Chapmanjr, do you take Ninianya to be your lawfully wedded wife, to have and to hold, to keep in sickness and in health, battle and peace, till death do you part?'
+[Thu Oct 31 23:08:54 2002] Chattel GMSAYS, 'don't I already have that?'
+[Thu Oct 31 23:09:02 2002] Denker begins to cast a spell. (Tiny Companion)
+[Thu Oct 31 23:09:06 2002] Gabartik shrinks.
+[Thu Oct 31 23:09:09 2002] Chapmanjr says, 'i do'
+[Thu Oct 31 23:09:10 2002] Denker's spell fizzles!
+[Thu Oct 31 23:09:11 2002] Denker begins to cast a spell. (Tiny Companion)
+[Thu Oct 31 23:09:15 2002] Gabartik shrinks.
+[Thu Oct 31 23:09:30 2002] Cronn GMSAYS, 'Guys I need to hit the hay.'
+[Thu Oct 31 23:09:40 2002] Lidien begins to cast a spell. (Resist Magic)
+[Thu Oct 31 23:09:44 2002] Chattel GMSAYS, '=/'
+[Thu Oct 31 23:09:44 2002] You say, 'Do those gathered here in witness promise to do all in their power to make sure that the vows taken today are kept to the best of their ability?'
+[Thu Oct 31 23:09:45 2002] Lidien is resistant to magic.
+[Thu Oct 31 23:09:46 2002] Ariniel is getting emotional.
+[Thu Oct 31 23:10:00 2002] Cronn GMSAYS, 'doesn't make sense?'
+[Thu Oct 31 23:10:13 2002] Espranza looks to the others waiting on their response.
+[Thu Oct 31 23:10:14 2002] Chattel GMSAYS, 'would be easier if I could be looking at the files'
+[Thu Oct 31 23:10:15 2002] Lidien says, 'aye'
+[Thu Oct 31 23:10:16 2002] Ariniel says, 'i do'
+[Thu Oct 31 23:10:18 2002] Cronn GMSAYS, 'hehe'
+[Thu Oct 31 23:10:21 2002] Blueeyedgen says, 'yes'
+[Thu Oct 31 23:10:22 2002] You no longer have a target.
+[Thu Oct 31 23:10:23 2002] You stand on your tip-toes and do a dance of joy!
+[Thu Oct 31 23:10:23 2002] Cronn GMSAYS, 'it will make sense, I promise'
+[Thu Oct 31 23:10:27 2002] orc centurion says 'Fall before the might of Clan Crushbone!!'
+[Thu Oct 31 23:10:33 2002] Ariniel begins to cast a spell. (Grasping Roots)
+[Thu Oct 31 23:10:35 2002] Orc centurion is entwined by roots.
+[Thu Oct 31 23:10:41 2002] orc centurion has been slain by Blueeyedgen!
+[Thu Oct 31 23:10:41 2002] orc centurion's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 23:10:50 2002] Cronn GMSAYS, 'I need to camp -- if you can't get it, drop me a note on ICQ, I'll help ya out'
+[Thu Oct 31 23:10:54 2002] You say, 'Then by the power vested in me by Daddy Bristlebane, Tunare and all the gods and goddesses of this realm, I now pronounce you husband and wife!'
+[Thu Oct 31 23:10:57 2002] Cronn GMSAYS, 'actually.'
+[Thu Oct 31 23:11:01 2002] Cronn GMSAYS, 'chattel grab a pen'
+[Thu Oct 31 23:11:03 2002] Chattel GMSAYS, 'hmm, you should log on icq =/  lol I'm dumb when it comes to xml stuff'
+[Thu Oct 31 23:11:03 2002] You say, 'You may kiss )'
+[Thu Oct 31 23:11:04 2002] Cronn GMSAYS, 'ill give you a URL'
+[Thu Oct 31 23:11:07 2002] Lidien cheers.
+[Thu Oct 31 23:11:11 2002] Ninianya kisses Chapmanjr on the cheek.
+[Thu Oct 31 23:11:11 2002] Lidien begins to cast a spell. (Protection of the Cabbage)
+[Thu Oct 31 23:11:14 2002] Chapmanjr kisses Ninianya on the cheek.
+[Thu Oct 31 23:11:14 2002] Cronn GMSAYS, 'I'll upload my files'
+[Thu Oct 31 23:11:15 2002] royal guard begins to cast a spell. (AirElementalInvisibility)
+[Thu Oct 31 23:11:17 2002] Venarer's skin shimmers.
+[Thu Oct 31 23:11:17 2002] Blueeyedgen cries.
+[Thu Oct 31 23:11:18 2002] Cronn GMSAYS, 'ready?'
+[Thu Oct 31 23:11:23 2002] Ariniel is so happy.
+[Thu Oct 31 23:11:26 2002] Chapmanjr kisses Ninianya on the cheek.
+[Thu Oct 31 23:11:28 2002] Denker begins to cast a spell. (Storm Strength)
+[Thu Oct 31 23:11:33 2002] Gabartik looks stronger.
+[Thu Oct 31 23:11:36 2002] Ninianya kisses Chapmanjr on the cheek.
+[Thu Oct 31 23:11:39 2002] Chattel GMSAYS, 'sure'
+[Thu Oct 31 23:11:39 2002] Denker's spell fizzles!
+[Thu Oct 31 23:11:40 2002] Lidien begins to cast a spell. (Levitate)
+[Thu Oct 31 23:11:40 2002] You no longer have a target.
+[Thu Oct 31 23:11:40 2002] You no longer have a target.
+[Thu Oct 31 23:11:40 2002] You no longer have a target.
+[Thu Oct 31 23:11:41 2002] Denker begins to cast a spell. (Regrowth)
+[Thu Oct 31 23:11:43 2002] Ninianya floats into the air.
+[Thu Oct 31 23:11:46 2002] Cronn GMSAYS, 'http://www3.evilserv.com/cronn/chattel.zip'
+[Thu Oct 31 23:11:47 2002] Gabartik begins to regenerate.
+[Thu Oct 31 23:11:49 2002] Lidien begins to cast a spell. (Levitate)
+[Thu Oct 31 23:11:50 2002] Cronn GMSAYS, 'ill go make it now'
+[Thu Oct 31 23:11:52 2002] Chapmanjr floats into the air.
+[Thu Oct 31 23:11:53 2002] Cronn GMSAYS, 'and upload it'
+[Thu Oct 31 23:11:53 2002] Denker begins to cast a spell. (Savage Spirit)
+[Thu Oct 31 23:11:58 2002] Cronn GMSAYS, 'give me like 10-15 minutes'
+[Thu Oct 31 23:11:59 2002] Gabartik's eyes gleam with madness.
+[Thu Oct 31 23:12:15 2002] Chattel GMSAYS, 'ok'
+[Thu Oct 31 23:12:17 2002] Cronn GMSAYS, 'you will unzip it in your uifiles/default directory'
+[Thu Oct 31 23:12:20 2002] Ninianya says, 'thank you espranza'
+[Thu Oct 31 23:12:21 2002] Chattel GMSAYS, 'thanks a bunch!'
+[Thu Oct 31 23:12:22 2002] Cronn GMSAYS, 'gnight all!'
+[Thu Oct 31 23:12:25 2002] Lidien begins to cast a spell. (Girdle of Karana)
+[Thu Oct 31 23:12:28 2002] orc oracle says 'Let me show you the high power of the Crushbone oracles!!'
+[Thu Oct 31 23:12:30 2002] Venarer looks stronger.
+[Thu Oct 31 23:12:31 2002] Lidien says, 'gratz'
+[Thu Oct 31 23:12:31 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 23:12:33 2002] Espranza saved.
+[Thu Oct 31 23:12:34 2002] Lidien begins to cast a spell. (Regrowth)
+[Thu Oct 31 23:12:35 2002] orc oracle begins to cast a spell. (Drowsy)
+[Thu Oct 31 23:12:36 2002] Denker says, 'gratz'
+[Thu Oct 31 23:12:36 2002] Ninianya says, 'thanks'
+[Thu Oct 31 23:12:37 2002] You say, 'it was my pleasure!'
+[Thu Oct 31 23:12:39 2002] Ninianya beams a smile at Espranza.
+[Thu Oct 31 23:12:40 2002] Venarer begins to regenerate.
+[Thu Oct 31 23:12:42 2002] orc oracle has been slain by Gabartik!
+[Thu Oct 31 23:12:42 2002] orc oracle's corpse says 'You shall have all the Crushbone orc legions on your tail for my death!'
+[Thu Oct 31 23:12:43 2002] You no longer have a target.
+[Thu Oct 31 23:12:43 2002] Ariniel says, 'yeah congrats'
+[Thu Oct 31 23:12:43 2002] You no longer have a target.
+[Thu Oct 31 23:12:44 2002] You no longer have a target.
+[Thu Oct 31 23:12:46 2002] Ninianya beams a smile at Chapmanjr.
+[Thu Oct 31 23:12:47 2002] Chapmanjr kisses Espranza on the cheek.
+[Thu Oct 31 23:12:50 2002] Chapmanjr kisses Espranza on the cheek.
+[Thu Oct 31 23:12:52 2002] You cheer.
+[Thu Oct 31 23:12:53 2002] Chapmanjr kisses Espranza on the cheek.
+[Thu Oct 31 23:12:56 2002] Ariniel stands on his tip-toes and does a dance of joy!
+[Thu Oct 31 23:12:57 2002] You no longer have a target.
+[Thu Oct 31 23:12:58 2002] You blush profusely.
+[Thu Oct 31 23:13:02 2002] Your feet leave the ground.
+[Thu Oct 31 23:13:06 2002] You GMSAY, 'zone'
+[Thu Oct 31 23:13:07 2002] Chapmanjr kisses Ninianya on the cheek.
+[Thu Oct 31 23:13:08 2002] Lidien begins to cast a spell. (Shield of Blades)
+[Thu Oct 31 23:13:10 2002] Chapmanjr kisses Ninianya on the cheek.
+[Thu Oct 31 23:13:11 2002] Venarer is surrounded by a barrier of blades.
+[Thu Oct 31 23:13:11 2002] You feel the spirit of Z surround you.
+[Thu Oct 31 23:13:12 2002] You feel the spirit of Z surround you.
+[Thu Oct 31 23:13:12 2002] You feel the spirit of Z surround you.
+[Thu Oct 31 23:13:12 2002] Chapmanjr kisses Ninianya on the cheek.
+[Thu Oct 31 23:13:13 2002] LOADING, PLEASE WAIT...
+[Thu Oct 31 23:13:29 2002] You have entered Sunset Home.
+[Thu Oct 31 23:13:36 2002] You feel the spirit of Norrath enter you.
+[Thu Oct 31 23:14:04 2002] You told Beowulfq, 'back - sorry, was doing a wedding'
+[Thu Oct 31 23:14:10 2002] Beowulfq tells you, 'np =)'
+[Thu Oct 31 23:14:12 2002] You told Beowulfq, 'okies - who ninjalooted what?'
+[Thu Oct 31 23:14:27 2002] Beowulfq tells you, 'luvmachine a belt of scintillation of RC.'
+[Thu Oct 31 23:14:40 2002] You told Beowulfq, 'what was the date, if you recall?'
+[Thu Oct 31 23:14:46 2002] Beowulfq tells you, 'i could live with that, but walking around bragging bout it makes me prettymad'
+[Thu Oct 31 23:14:52 2002] Beowulfq tells you, '2 weeks ago saturday i look it up'
+[Thu Oct 31 23:15:04 2002] You told Beowulfq, 'Luvmashine?'
+[Thu Oct 31 23:15:06 2002] Beowulfq tells you, 'yes'
+[Thu Oct 31 23:15:09 2002] UNDOING CHECK OUT
+[Thu Oct 31 23:15:12 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:15:12 2002] USER TEXT: i sent a petition in about a week ago about getting my last name removed and said it would be pushed up to a gm that could do that, no response yet
+[Thu Oct 31 23:15:12 2002] GM TEXT: Cronn: Surname removal
+[Thu Oct 31 23:15:12 2002] Players in EverQuest:
+[Thu Oct 31 23:15:12 2002] ---------------------------
+
+[Thu Oct 31 23:15:12 2002] There are no players in EverQuest that match those who filters.
+[Thu Oct 31 23:15:16 2002] Beowulfq tells you, 'or luvmachine'
+[Thu Oct 31 23:15:19 2002] UNDOING CHECK OUT
+[Thu Oct 31 23:15:22 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:15:22 2002] USER TEXT: a little late but want to report a ninja loot... i was gone 2 weeks just heard, person who did wearing item just now
+[Thu Oct 31 23:15:22 2002] GM TEXT: 
+[Thu Oct 31 23:15:23 2002] Players in EverQuest:
+[Thu Oct 31 23:15:23 2002] ---------------------------
+
+[Thu Oct 31 23:15:23 2002] [ANON (60 Arch Mage)] Beowulfq (High Elf) ZONE: bazaar (USER PID AQZZE2V) 
+[Thu Oct 31 23:15:23 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:15:37 2002] You told Beowulfq, 'okay, I will escalate this up to a GM.'
+[Thu Oct 31 23:15:42 2002] Beowulfq tells you, 'thx alot'
+[Thu Oct 31 23:16:08 2002] GM Text added:  Espranza: Said Luvmashine DS11LBY ninja looted a Belt of Scintillation from Rumblecrush two weeks ago Saturday.
+[Thu Oct 31 23:16:10 2002] STATUS UPGRADED TO URGENT
+[Thu Oct 31 23:16:11 2002] STATUS UPGRADED TO EMERGENCY
+[Thu Oct 31 23:16:18 2002] You told Beowulfq, 'be well, and safe journey to you!'
+[Thu Oct 31 23:16:25 2002] Beowulfq tells you, 'thx same to u =)'
+[Thu Oct 31 23:17:00 2002] Treverr tells you, 'me and a friend figured it out if you want know incase others are having problems'
+[Thu Oct 31 23:17:09 2002] You GMSAY, '<note gm> Beowulf1 61 HE magician accuses Luvmashine DS11LBY of ninja-looting a Belt of Scintillation from Rumblecrush two weeks ago Saturday.'
+[Thu Oct 31 23:17:12 2002] CHECKING IN
+[Thu Oct 31 23:17:16 2002] Players in EverQuest:
+[Thu Oct 31 23:17:16 2002] ---------------------------
+
+[Thu Oct 31 23:17:16 2002] * Guide *[ANON (50 Enchanter)] Lurk O`Scary (Human) ZONE: westwastes (USER PID GVLD94Y) 
+[Thu Oct 31 23:17:16 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Thu Oct 31 23:17:16 2002] * Guide *[52 Mystic] Cronn (Troll) <House of Zek> ZONE: nexus (USER PID AVLDNV4) 
+[Thu Oct 31 23:17:16 2002] There are 3 players in EverQuest.
+[Thu Oct 31 23:17:31 2002] Treverr tells you, 'the crash to desktop problem that is'
+[Thu Oct 31 23:17:48 2002] You told Treverr, 'what was it?'
+[Thu Oct 31 23:17:53 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:17:53 2002] USER TEXT: I have a alt character that is stuck in scarlet desert ....keeps crashing me to desktop on loggin ...i think i go link dead in zone to..please help me :)
+[Thu Oct 31 23:17:53 2002] GM TEXT: Espranza: unavail 22:13
+[Thu Oct 31 23:17:53 2002] Players in EverQuest:
+[Thu Oct 31 23:17:53 2002] ---------------------------
+
+[Thu Oct 31 23:17:53 2002] [ANON (51 Mystic)] Treverr (Barbarian) ZONE: tenebrous (USER PID ASBSQ71) 
+[Thu Oct 31 23:17:53 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:18:18 2002] Could not find player erollisi.tyveria
+[Thu Oct 31 23:18:27 2002] You told erollisi.Samadeb, 'test'
+[Thu Oct 31 23:18:47 2002] You told erollisi.Samadeb, 'this is tipa... anything going on?'
+[Thu Oct 31 23:18:59 2002] Treverr tells you, 'it was those skins everyone has been adding .....we found that you need to delete it ...somthing is screwy since the last patch ...interfearing with the uiskin'
+[Thu Oct 31 23:19:09 2002] erollisi.Samadeb told you, 'nope'
+[Thu Oct 31 23:19:16 2002] You told erollisi.Samadeb, '/fume'
+[Thu Oct 31 23:19:44 2002] erollisi.Samadeb told you, 'NToV tommorw =)'
+[Thu Oct 31 23:19:44 2002] You told erollisi.Samadeb, 'room for a rogue or druid anywhere?'
+[Thu Oct 31 23:19:56 2002] You told erollisi.Samadeb, 'yeah but I have to bring my daughter to Stockton tomorrow'
+[Thu Oct 31 23:20:16 2002] You told Treverr, 'Had the same problem with the GM interface....'
+[Thu Oct 31 23:20:17 2002] erollisi.Samadeb told you, 'hmmmm nothing =/  all exp gorups are full'
+[Thu Oct 31 23:20:20 2002] Treverr tells you, 'funny think is that was my only character i added a skin on......my friend had 3 characters it affected lol'
+[Thu Oct 31 23:20:43 2002] You told Treverr, 'okies, I'll pass that along to anyone else this happens to.'
+[Thu Oct 31 23:20:45 2002] DELETING THIS PETITION
+[Thu Oct 31 23:20:53 2002] You told Treverr, 'thank you very much!'
+[Thu Oct 31 23:21:11 2002] You GMSAY, '<note bug> The new UI patches are causing not only guides to crash straight to desktop....'
+[Thu Oct 31 23:21:15 2002] Treverr tells you, 'great thanks gl .....oh....and HAPPY HALLOWEEN TO YAH!!'
+[Thu Oct 31 23:21:16 2002] Players in EverQuest:
+[Thu Oct 31 23:21:16 2002] ---------------------------
+
+[Thu Oct 31 23:21:16 2002] * Guide *[ANON (50 Enchanter)] Lurk O`Scary (Human) ZONE: vexthal (USER PID GVLD94Y) 
+[Thu Oct 31 23:21:16 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Thu Oct 31 23:21:16 2002] * Guide *[ANON (52 Mystic)] Cronn (Troll) ZONE: cshome (USER PID AVLDNV4) 
+[Thu Oct 31 23:21:16 2002] There are 3 players in EverQuest.
+[Thu Oct 31 23:21:21 2002] Treverr tells you, ':)'
+[Thu Oct 31 23:21:24 2002] You told Treverr, 'heh... AND TO YOU!'
+[Thu Oct 31 23:21:26 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:21:27 2002] USER TEXT: i can't move please help
+[Thu Oct 31 23:21:27 2002] GM TEXT: 
+[Thu Oct 31 23:21:27 2002] Players in EverQuest:
+[Thu Oct 31 23:21:27 2002] ---------------------------
+
+[Thu Oct 31 23:21:27 2002] [ANON (1 Cleric)] Priceline (Dark Elf) ZONE: nexus (USER PID BPSR00A) 
+[Thu Oct 31 23:21:27 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:21:46 2002] You told Priceline, 'Hail, Priceline! Guide Espranza here. Are you still unable to move?'
+[Thu Oct 31 23:21:52 2002] Priceline tells you, 'i can move now got sow'
+[Thu Oct 31 23:21:57 2002] You told Priceline, 'okies...'
+[Thu Oct 31 23:22:05 2002] You told Priceline, 'glad you're no longer stuck!'
+[Thu Oct 31 23:22:08 2002] DELETING THIS PETITION
+[Thu Oct 31 23:22:11 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:22:12 2002] USER TEXT: I need to be given my powers over my guild.. I was mage guildleader 2 weeks ago... I have filed several petitions ad I still have not spokebn to a GM
+[Thu Oct 31 23:22:12 2002] GM TEXT: Espranza: unavail 22:05<BR>Espranza: unavail 22:49
+[Thu Oct 31 23:22:12 2002] Players in EverQuest:
+[Thu Oct 31 23:22:12 2002] ---------------------------
+
+[Thu Oct 31 23:22:12 2002] There are no players in EverQuest that match those who filters.
+[Thu Oct 31 23:22:21 2002] You GMSAY, 'Skot unavail x3 --poof--'
+[Thu Oct 31 23:22:24 2002] DELETING THIS PETITION
+[Thu Oct 31 23:22:26 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:22:27 2002] USER TEXT: I did my 7th ring quest the other day, I accidentally gave the 6th ring to the wrong person, instead of the person saying they're not interested and giving back the ring, they ate my 6th coldain ring. I would either like the 6th ring back and the key to free corbin blackwell or I'd like the note to give to garadain for my 7th ring. I've worked hard on these rings and don't wanna lose my chance at getting my 8th ring because of some minor bug
+[Thu Oct 31 23:22:27 2002] GM TEXT: 
+[Thu Oct 31 23:22:27 2002] Players in EverQuest:
+[Thu Oct 31 23:22:27 2002] ---------------------------
+
+[Thu Oct 31 23:22:27 2002] [58 Knight] Deisnetk (Dwarf) <Clan Skoaldiak> ZONE: nexus (USER PID AUJA8JC) 
+[Thu Oct 31 23:22:27 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:23:58 2002] You told Deisnetk, 'Hail, Deisnetk! Guide Espranza here. How may I help you?'
+[Thu Oct 31 23:25:07 2002] Deisnetk tells you, 'the other day I was doing my 7th coldain ring quest, and after I got corbin blackwell to the camp and I accidentally gave the 6th ring to the wrong guy, instead of him giving back my ring, he ate it and now I don't have any ring or the note to give to garadain for my 7th ring'
+[Thu Oct 31 23:25:17 2002] You feel as if you are about to fall.
+[Thu Oct 31 23:25:23 2002] You feel as if you are about to fall.
+[Thu Oct 31 23:25:26 2002] You can no longer levitate.
+[Thu Oct 31 23:25:45 2002] Deisnetk tells you, 'I either want my 6th ring and the key to set corbin blackwell free back or the note to give garadain for my 7th ring because I worked to hard on this quest to have a minor bug mess it up'
+[Thu Oct 31 23:26:27 2002] Cronn GMSAYS, 'gnight all'
+[Thu Oct 31 23:28:29 2002] Deisnetk tells you, 'get all that?'
+[Thu Oct 31 23:31:20 2002] You told Deisnetk, 'yup'
+[Thu Oct 31 23:31:23 2002] Deisnetk tells you, 'k'
+[Thu Oct 31 23:31:38 2002] You told Deisnetk, 'I'll pass this along to a GM, they are the only ones who can help here'
+[Thu Oct 31 23:31:47 2002] Espranza saved.
+[Thu Oct 31 23:31:48 2002] Deisnetk tells you, 'are there any on right now?'
+[Thu Oct 31 23:31:57 2002] You told Deisnetk, 'no, not at the moment'
+[Thu Oct 31 23:32:02 2002] GM Text added:  Espranza: as he said
+[Thu Oct 31 23:32:04 2002] STATUS UPGRADED TO URGENT
+[Thu Oct 31 23:32:05 2002] STATUS UPGRADED TO EMERGENCY
+[Thu Oct 31 23:32:14 2002] Deisnetk tells you, 'k, if a gm doesn't log on tonight, am I gonna need to repetition another time?'
+[Thu Oct 31 23:32:20 2002] Players in EverQuest:
+[Thu Oct 31 23:32:20 2002] ---------------------------
+
+[Thu Oct 31 23:32:20 2002] * Guide *[ANON (50 Enchanter)] Lurk O`Scary (Human) ZONE: velketor (USER PID GVLD94Y) 
+[Thu Oct 31 23:32:20 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Thu Oct 31 23:32:20 2002] There are 2 players in EverQuest.
+[Thu Oct 31 23:32:41 2002] CHECKING IN
+[Thu Oct 31 23:32:43 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:32:44 2002] USER TEXT: Could i have my last name removed?
+[Thu Oct 31 23:32:44 2002] GM TEXT: 
+[Thu Oct 31 23:32:44 2002] Players in EverQuest:
+[Thu Oct 31 23:32:44 2002] ---------------------------
+
+[Thu Oct 31 23:32:44 2002] [ANON (33 Druid)] Erelian (Wood Elf) ZONE: iceclad (USER PID EQC47JU) 
+[Thu Oct 31 23:32:44 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:33:42 2002] Deisnetk tells you, 'yeah, no?'
+[Thu Oct 31 23:34:47 2002] Fastfoott tells you, 'hello, can you help me get my corpse, its stuck'
+[Thu Oct 31 23:35:50 2002] You told Erelian, 'Hail, Erelian! Guide Espranza here. There is nobody on at the moment who can remove your last name, but I will be happy to bring it to the attention of the next senior guide or GM who logs in.'
+[Thu Oct 31 23:36:00 2002] You told Fastfoott, 'please petition, and I will do my best!'
+[Thu Oct 31 23:36:03 2002] Erelian tells you, 'thank you very much'
+[Thu Oct 31 23:36:03 2002] Your feet leave the ground.
+[Thu Oct 31 23:36:07 2002] Fastfoott tells you, 'i did petition'
+[Thu Oct 31 23:36:17 2002] You told Fastfoott, 'ah, so you did. Be with you shortly.'
+[Thu Oct 31 23:36:25 2002] Fastfoott tells you, 'thnx'
+[Thu Oct 31 23:36:37 2002] GM Text added:  Espranza: as it says
+[Thu Oct 31 23:36:40 2002] STATUS UPGRADED TO URGENT
+[Thu Oct 31 23:37:07 2002] You GMSAY, '<note name> Erelian EQC47JU 33 WE druid wishes last name removed.'
+[Thu Oct 31 23:37:10 2002] CHECKING IN
+[Thu Oct 31 23:37:15 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:37:15 2002] USER TEXT: i have an RL buddy. his name is Merrack and he went LD between zones 5 mins ago and its sayin that he is still active... he cant log on
+[Thu Oct 31 23:37:15 2002] GM TEXT: 
+[Thu Oct 31 23:37:15 2002] Players in EverQuest:
+[Thu Oct 31 23:37:15 2002] ---------------------------
+
+[Thu Oct 31 23:37:15 2002] [1 Enchanter] Disenchanted (High Elf)  ZONE: bazaar (USER PID CPYDXNQ) 
+[Thu Oct 31 23:37:15 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:37:32 2002] Deisnetk tells you, 'so if a GM isn't on later tonight, and I log, am I gonna need to re petition?'
+[Thu Oct 31 23:37:52 2002] You told Disenchanted, 'Hail, Daelion! Guide Espranza here. How may I help you?'
+[Thu Oct 31 23:37:52 2002] Disenchanted tells you, 'Sorry, I am A.F.K. (Away From Keyboard) right now.'
+[Thu Oct 31 23:38:18 2002] You told Deisnetk, 'Petitions stay for 12 hours; also, I am posting your petiiton on the guide boards where it may be seen by a GM.'
+[Thu Oct 31 23:38:22 2002] It is 12 AM on Wednesday, the 25th day of February, of the year 3182.
+[Thu Oct 31 23:38:22 2002] Earth Time: Thu Oct 31 23:38:22 2002
+[Thu Oct 31 23:38:28 2002] GM Text added:  Espranza: unavail 23:38
+[Thu Oct 31 23:38:32 2002] CHECKING IN
+[Thu Oct 31 23:38:35 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:38:35 2002] USER TEXT: I was in Katta sitting down medding and my comp froze and I got xp death. I pop back on and I have two corpses and missing two times the xp and at 55 I cant afford to spend hours trying to get some xp and I have some bug flush all of it down the drain please contact me
+[Thu Oct 31 23:38:35 2002] GM TEXT: 
+[Thu Oct 31 23:38:36 2002] Players in EverQuest:
+[Thu Oct 31 23:38:36 2002] ---------------------------
+
+[Thu Oct 31 23:38:36 2002] [ANON (54 Elementalist)] Krypi (Dark Elf) ZONE: katta (USER PID AW3X4H2) 
+[Thu Oct 31 23:38:36 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:38:40 2002] Deisnetk tells you, 'ok, thankyou'
+[Thu Oct 31 23:40:14 2002] You told Krypi, 'Hail, Krypi! Guide Espranza here. I am very sorry, but we cannot rez for deaths caused by or related to crashes or link death - they are impossible to verify.'
+[Thu Oct 31 23:40:21 2002] Searching zones for corpse of that name....
+[Thu Oct 31 23:40:21 2002] Corpse: Krypi's corpse1 in zone: katta
+[Thu Oct 31 23:41:18 2002] Krypi tells you, 'so I spend like 6 hours working on this loose my lvl and you guys cant help?'
+[Thu Oct 31 23:41:48 2002] You told Krypi, 'I can only suggest you find a cleric who can rez you and restore your lost experience.'
+[Thu Oct 31 23:42:24 2002] DELETING THIS PETITION
+[Thu Oct 31 23:42:27 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:42:28 2002] USER TEXT: Greetings, i just accidently destroyed my tunic... i know im a moron... please help =/
+[Thu Oct 31 23:42:28 2002] GM TEXT: 
+[Thu Oct 31 23:42:28 2002] Players in EverQuest:
+[Thu Oct 31 23:42:28 2002] ---------------------------
+
+[Thu Oct 31 23:42:28 2002] [ANON (60 Hierophant)] Yaneyva (Wood Elf) ZONE: trakanon (USER PID DY9GN94) 
+[Thu Oct 31 23:42:28 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:42:55 2002] You told Yaneyva '[queued], Haik, Yaneyva! Guide Espranza here. What tunic did you destroy?'
+[Thu Oct 31 23:43:15 2002] Krypi tells you, 'But how come I got 2 deaths?'
+[Thu Oct 31 23:43:30 2002] Yaneyva tells you, 'Elysian Tunic =/'
+[Thu Oct 31 23:43:50 2002] You told Krypi, 'I don't know. Are you bound in Katta?'
+[Thu Oct 31 23:44:09 2002] Yaneyva tells you, 'Im really sorry =/ i should have gone to bed =/ i didnt sleep all night and accidently destroyed it :('
+[Thu Oct 31 23:44:25 2002] You told Yaneyva, 'I'll pass this along to a GM and see what they can do.'
+[Thu Oct 31 23:44:29 2002] Krypi tells you, 'yeah I was bound near graveyard'
+[Thu Oct 31 23:44:31 2002] Yaneyva tells you, 'thank you'
+[Thu Oct 31 23:44:39 2002] GM Text added:  Espranza: Accidentally destroyed Elysian Tunic
+[Thu Oct 31 23:44:41 2002] STATUS UPGRADED TO URGENT
+[Thu Oct 31 23:44:42 2002] STATUS UPGRADED TO EMERGENCY
+[Thu Oct 31 23:44:46 2002] erollisi.Samadeb told you, 'wow.. PVP server?'
+[Thu Oct 31 23:44:49 2002] Fastfoott tells you, 'i know you are trying hard to process my request, but i am quite tired and wish to log off ASAP, its 2 30 EST'
+[Thu Oct 31 23:44:55 2002] Krypi tells you, 'lost a yellow in 55 and 2b into 54 and you prolly know how much of a pian in tha arse it is to get that at this lvl'
+[Thu Oct 31 23:45:16 2002] Krypi tells you, 'err 3b a yellow all together'
+[Thu Oct 31 23:45:24 2002] erollisi.Samadeb told you, 'or are you Guiding?'
+[Thu Oct 31 23:45:36 2002] You GMSAY, '<note gm> Yaneyva DY9GN94 60 WE druid accidentally destroyed her Elysian Tunic and would like to see if she could get it back.'
+[Thu Oct 31 23:45:39 2002] CHECKING IN
+[Thu Oct 31 23:45:54 2002] You told Fastfoott, 'I'm tired too, and trying my best.'
+[Thu Oct 31 23:46:05 2002] Fastfoott tells you, 'understood, and i appreciate that'
+[Thu Oct 31 23:46:07 2002] You told erollisi.Samadeb, 'Yeah, it's a blast )'
+[Thu Oct 31 23:46:23 2002] erollisi.Samadeb told you, 'PvP or guiding?'
+[Thu Oct 31 23:46:34 2002] You told erollisi.Samadeb, 'guiding, I PvP on Vallon Zek'
+[Thu Oct 31 23:47:30 2002] erollisi.Samadeb told you, 'tought you quite guding?'
+[Thu Oct 31 23:48:00 2002] You told Krypi, 'I do sympathize - I have three characters painfully leveled 54 or higher and exp loss is a huge blow - but sometimes it happens...'
+[Thu Oct 31 23:48:08 2002] You can no longer levitate.
+[Thu Oct 31 23:48:11 2002] You told erollisi.Samadeb, 'like I can stay away....'
+[Thu Oct 31 23:48:28 2002] erollisi.Samadeb told you, 'dunw orry i wont tell anyone i know =)~'
+[Thu Oct 31 23:48:32 2002] You told erollisi.Samadeb, 'crawled back, humbled myself, and they tossed me to TZ'
+[Thu Oct 31 23:48:45 2002] You told erollisi.Samadeb, 'yeah you better not, or I won't be guiding long'
+[Thu Oct 31 23:48:52 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:48:53 2002] USER TEXT: could a gm contact me please i have a few questions about moving a char from one account to another
+[Thu Oct 31 23:48:53 2002] GM TEXT: 
+[Thu Oct 31 23:48:53 2002] Players in EverQuest:
+[Thu Oct 31 23:48:53 2002] ---------------------------
+
+[Thu Oct 31 23:48:53 2002] [ANON (61 Oracle)] Mackavellio (Barbarian) ZONE: potranquility (USER PID DRDCYLG) 
+[Thu Oct 31 23:48:53 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:48:59 2002] erollisi.Samadeb told you, 'ya just want the free accounts =)~'
+[Thu Oct 31 23:49:10 2002] You told erollisi.Samadeb, 'no, actually guiding is a lot of fun'
+[Thu Oct 31 23:49:32 2002] Akoto tells you, 'any events going on?'
+[Thu Oct 31 23:49:40 2002] You told Akoto, 'I couldn't say )'
+[Thu Oct 31 23:49:44 2002] erollisi.Samadeb told you, 'brells inc.'
+[Thu Oct 31 23:49:48 2002] You told erollisi.Samadeb, 'thanks'
+[Thu Oct 31 23:49:50 2002] The spirit leaves you.
+[Thu Oct 31 23:49:53 2002] Akoto tells you, 'oh but i think u could if u wanted to )'
+[Thu Oct 31 23:50:08 2002] You told Akoto, 'hmm... how 'bout, I wouodn't say! :('
+[Thu Oct 31 23:50:11 2002] Espranza saved.
+[Thu Oct 31 23:50:26 2002] You told erollisi.Samadeb, 'GROUP MEEEEEEE'
+[Thu Oct 31 23:50:29 2002] Akoto tells you, 'i like the first one better but hey...'
+[Thu Oct 31 23:50:47 2002] erollisi.Samadeb told you, 'lol i wish =)~'
+[Thu Oct 31 23:51:03 2002] Akoto tells you, 'can ya give me the littlest hint?'
+[Thu Oct 31 23:51:18 2002] Akoto tells you, 'like the littlest of little hints'
+[Thu Oct 31 23:51:31 2002] Akoto tells you, 'ya know like a really really little hint'
+[Thu Oct 31 23:51:59 2002] You told Akoto, 'no (_8(/) Homer says: no.'
+[Thu Oct 31 23:52:19 2002] Akoto tells you, 'i like homer'
+[Thu Oct 31 23:52:36 2002] You told Mackavellio, 'Hail, Mackavellio! Guide Espranza here. How may I help you?'
+[Thu Oct 31 23:52:38 2002] erollisi.Samadeb told you, 'cool! your in my reply list autmaticly now'
+[Thu Oct 31 23:52:41 2002] You told Akoto, 'heh...'
+[Thu Oct 31 23:52:52 2002] You told erollisi.Samadeb, 'saves typing that annoying semi-colon'
+[Thu Oct 31 23:53:00 2002] erollisi.Samadeb told you, 'no shit.'
+[Thu Oct 31 23:53:09 2002] erollisi.Samadeb told you, 'almost 62'
+[Thu Oct 31 23:53:14 2002] You told erollisi.Samadeb, 'bastard'
+[Thu Oct 31 23:53:18 2002] erollisi.Samadeb told you, '=)'
+[Thu Oct 31 23:53:21 2002] Mackavellio tells you, 'yeah i submited the thing to have my char moved from one account to another can you tell me if everything is working ok?'
+[Thu Oct 31 23:53:56 2002] You told Mackavellio, 'they batch up character transfers and do them o[n certain days. Didn't we speak earlier?'
+[Thu Oct 31 23:54:16 2002] You told Mackavellio, 'YOU MUST GROUP ME'
+[Thu Oct 31 23:54:20 2002] You told Mackavellio, 'mistell )'
+[Thu Oct 31 23:54:54 2002] Mackavellio tells you, 'yes we did but i was wondering do i get an email or anything saying it worked?'
+[Thu Oct 31 23:54:59 2002] Fastfoott tells you, 'thank you for trying your hardest, but i have to log, need some sleep for school tomorow, once again, thank you for trying, good night'
+[Thu Oct 31 23:55:05 2002] erollisi.Samadeb told you, '/shake /shimmy'
+[Thu Oct 31 23:55:11 2002] You told Fastfoott, 'nooo you're only two down on the list!'
+[Thu Oct 31 23:55:18 2002] Fastfoott tells you, 'how long that take'
+[Thu Oct 31 23:55:21 2002] You told erollisi.Samadeb, 'group me!'
+[Thu Oct 31 23:55:26 2002] You told Fastfoott, 'few minutes'
+[Thu Oct 31 23:55:28 2002] erollisi.Samadeb told you, '/grope.'
+[Thu Oct 31 23:55:30 2002] Fastfoott tells you, 'k'
+[Thu Oct 31 23:55:34 2002] Fastfoott tells you, 'i can wait a few i guess'
+[Thu Oct 31 23:55:36 2002] erollisi.Samadeb told you, 'oh GROUP'
+[Thu Oct 31 23:55:44 2002] You told Mackavellio '[queued], I think it just.... happens'
+[Thu Oct 31 23:56:04 2002] You told erollisi.Samadeb, 'bah. how is the torrid love affair with that druid working out?'
+[Thu Oct 31 23:56:08 2002] DELETING THIS PETITION
+[Thu Oct 31 23:56:10 2002] RETRIEVING PETITION...PLEASE WAIT
+[Thu Oct 31 23:56:10 2002] USER TEXT: I have a request for a surname since the server won't grant it to me...wanted it to be ValkyrieRider
+[Thu Oct 31 23:56:10 2002] GM TEXT: 
+[Thu Oct 31 23:56:11 2002] Players in EverQuest:
+[Thu Oct 31 23:56:11 2002] ---------------------------
+
+[Thu Oct 31 23:56:11 2002] [20 Bard] Wagner (Wood Elf)  ZONE: cauldron (USER PID DTWE2BR) 
+[Thu Oct 31 23:56:11 2002] There is 1 player in EverQuest.
+[Thu Oct 31 23:56:17 2002] erollisi.Samadeb told you, 'lol Good good... why you hoping fer a shot?'
+[Thu Oct 31 23:56:31 2002] You told erollisi.Samadeb, 'no, you just haven't talked about her recently is all'
+[Thu Oct 31 23:56:39 2002] erollisi.Samadeb told you, 'bah we keep quite =)'
+[Thu Oct 31 23:56:40 2002] Mackavellio tells you, 'hmm do you know when a gm might be on that could tell me a bit more about it/'
+[Thu Oct 31 23:56:58 2002] You told Mackavellio, 'GMs don't do this, a separate bunch of people do this'
+[Thu Oct 31 23:57:11 2002] You told Mackavellio, 'they would probably know little more than I.'
+[Thu Oct 31 23:57:41 2002] You told Wagner, 'Hail, Wagner! Guide Espranza here. I'll have to escalate your petition to the next person who logs in who can change last names; as, alas, I cannot.'
+[Thu Oct 31 23:57:56 2002] Wagner tells you, 'okay, thanks'
+[Thu Oct 31 23:58:06 2002] You told erollisi.Samadeb, 'so, DG asked me to come back again today...'
+[Thu Oct 31 23:58:15 2002] GM Text added:  Espranza: as above
+[Thu Oct 31 23:58:19 2002] STATUS UPGRADED TO URGENT
+[Fri Nov 01 00:24:43 2002] Welcome to EverQuest!
+[Fri Nov 01 00:24:43 2002] You have entered Sunset Home.
+[Fri Nov 01 00:24:45 2002] Autojoining channels...
+[Fri Nov 01 00:24:45 2002] Channels: 1=unc(1), 2=cest(1)
+[Fri Nov 01 00:28:46 2002] erollisi.Samadeb told you, 'ding 62 =)'
+[Fri Nov 01 00:33:42 2002] erollisi.Samadeb told you, 'help i fell of the boat in TD!'
+[Fri Nov 01 00:33:57 2002] erollisi.Samadeb told you, 'this encounter is working as intended'
+[Fri Nov 01 00:36:21 2002] You told erollisi.Samadeb, 'bah, just got back from a crahs'
+[Fri Nov 01 00:36:25 2002] erollisi.Samadeb told you, 'hehehehe'
+[Fri Nov 01 00:36:32 2002] erollisi.Samadeb told you, 'mistell'
+[Fri Nov 01 00:36:32 2002] Players in EverQuest:
+[Fri Nov 01 00:36:32 2002] ---------------------------
+
+[Fri Nov 01 00:36:32 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Fri Nov 01 00:36:32 2002] * Guide *[ANON (50 Enchanter)] Lurk O`Scary (Human) ZONE: crushbone (USER PID GVLD94Y) 
+[Fri Nov 01 00:36:32 2002] There are 2 players in EverQuest.
+[Fri Nov 01 00:36:44 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Nov 01 00:36:45 2002] USER TEXT: I have a request for a surname since the server won't grant it to me...wanted it to be ValkyrieRider
+[Fri Nov 01 00:36:45 2002] GM TEXT: 
+[Fri Nov 01 00:36:45 2002] Players in EverQuest:
+[Fri Nov 01 00:36:45 2002] ---------------------------
+
+[Fri Nov 01 00:36:45 2002] [20 Bard] Wagner (Wood Elf)  ZONE: cauldron (USER PID DTWE2BR) 
+[Fri Nov 01 00:36:45 2002] There is 1 player in EverQuest.
+[Fri Nov 01 00:36:51 2002] erollisi.Samadeb told you, '<== ding 62 =)~'
+[Fri Nov 01 00:36:51 2002] GM Text added:  Espranza: as saud
+[Fri Nov 01 00:36:55 2002] STATUS UPGRADED TO URGENT
+[Fri Nov 01 00:36:55 2002] CHECKING IN
+[Fri Nov 01 00:37:15 2002] You told erollisi.Samadeb, 'grats )'
+[Fri Nov 01 00:37:27 2002] You told erollisi.Samadeb, 'well bedtime for me since some so-called friends have no room for me...'
+[Fri Nov 01 00:37:53 2002] You no longer have a target.
+[Fri Nov 01 00:37:53 2002] You no longer have a target.
+[Fri Nov 01 00:37:55 2002] UNDOING CHECK OUT
+[Fri Nov 01 00:38:13 2002] It will take you about 30 seconds to prepare your camp.
+[Fri Nov 01 00:38:17 2002] It will take about 25 more seconds to prepare your camp.
+[Fri Nov 01 00:38:22 2002] It will take about 20 more seconds to prepare your camp.
+[Fri Nov 01 00:38:27 2002] It will take about 15 more seconds to prepare your camp.
+[Fri Nov 01 00:38:33 2002] It will take about 10 more seconds to prepare your camp.
+[Fri Nov 01 00:38:38 2002] It will take about 5 more seconds to prepare your camp.
+[Fri Nov 01 00:38:44 2002] You abandon your preparations to camp.

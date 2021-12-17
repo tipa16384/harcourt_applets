@@ -1,0 +1,535 @@
+[Thu May 17 02:45:00 2001] Welcome to EverQuest!
+[Thu May 17 02:45:00 2001] You have entered Sunset Home.
+[Thu May 17 02:45:00 2001] MESSAGE OF THE DAY: Congratulations Ibbuny from the Royal Jesters for winning the Server Best of the Best Druid Tournament! Ibbuny will be moving on to the server finals later to compete! Congrats Ibbuny and grats to all the participants!
+[Thu May 17 02:45:04 2001] Players in EverQuest:
+[Thu May 17 02:45:04 2001] ---------------------------
+[Thu May 17 02:45:04 2001] * Guide *[51 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu May 17 02:45:04 2001] * Apprentice Guide *[20 Warrior] Guaigean (Wood Elf) ZONE: neriakb (USER PID AS8XKVK)
+[Thu May 17 02:45:04 2001] * Apprentice Guide *[20 Cleric] Kinther (Dwarf) ZONE: neriakb (USER PID GTUVYUW)
+[Thu May 17 02:45:04 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: neriakc (USER PID DUGA6TS)
+[Thu May 17 02:45:04 2001] There are 4 players in EverQuest.
+[Thu May 17 02:45:07 2001] You GMSAY, 'wow'
+[Thu May 17 02:45:10 2001] You GMSAY, 'crowded'
+[Thu May 17 02:45:20 2001] Jaxus GMSAYS, 'Hey!'
+[Thu May 17 02:45:31 2001] Kinther GMSAYS, 'Hello Espranza! welcome to the nightowls club'
+[Thu May 17 02:45:36 2001] You GMSAY, 'heh'
+[Thu May 17 02:45:41 2001] Guaigean GMSAYS, 'Deleting Mabolor...  Wanted Info on becoming an appy'
+[Thu May 17 02:45:41 2001] You GMSAY, 'just came from my play server'
+[Thu May 17 02:45:55 2001] You GMSAY, 'I hope you told him what a horror show it was!'
+[Thu May 17 02:46:09 2001] Guaigean GMSAYS, 'Well, I said its a very... different experience'
+[Thu May 17 02:46:11 2001] Kinther GMSAYS, 'pulling lilamien'
+[Thu May 17 02:46:14 2001] Llara the Mysterious says 'Hello there Espranza, how about a nice Birthday Cake?'
+[Thu May 17 02:46:15 2001] Llara the Mysterious tells you, 'That'll be 0 money per Gnome Sandwich'.
+[Thu May 17 02:46:17 2001] You give 0 money to Llara the Mysterious.
+[Thu May 17 02:46:18 2001] Llara the Mysterious tells you, 'That'll be 0 money per Valtron's Finest Brew'.
+[Thu May 17 02:46:20 2001] You give 0 money to Llara the Mysterious.
+[Thu May 17 02:46:20 2001] You no longer have a target.
+[Thu May 17 02:46:21 2001] Espranza saved.
+[Thu May 17 02:46:23 2001] You GMSAY, 'zone'
+[Thu May 17 02:46:25 2001] Teleporting to jaxus.
+[Thu May 17 02:46:26 2001] LOADING, PLEASE WAIT...
+[Thu May 17 02:46:50 2001] You have entered Neriak - 3rd Gate.
+[Thu May 17 02:46:53 2001] Jaxus GMSAYS, 'happens to us all'
+[Thu May 17 02:47:00 2001] Sparafacile cheers at Espranza.
+[Thu May 17 02:47:01 2001] Jaxus hugs Espranza.
+[Thu May 17 02:47:02 2001] Guaigean GMSAYS, 'Ya, so Ive heard =)'
+[Thu May 17 02:47:09 2001] You GMSAY, 'what? was zoning'
+[Thu May 17 02:47:18 2001] Guaigean GMSAYS, 'I said...'
+[Thu May 17 02:47:20 2001] Guaigean GMSAYS, 'I personally love it though... cept the occasional angray mob out to lynch me'
+[Thu May 17 02:47:28 2001] Sparafacile bows before Espranza.
+[Thu May 17 02:47:29 2001] Guaigean GMSAYS, '(In regards to apprenticing)'
+[Thu May 17 02:47:34 2001] You no longer have a target.
+[Thu May 17 02:47:34 2001] You no longer have a target.
+[Thu May 17 02:47:41 2001] The trade has been cancelled.
+[Thu May 17 02:47:46 2001] You shrug at Sparafacile.
+[Thu May 17 02:47:49 2001] Sparafacile says, 'no thanks couldnt dare '
+[Thu May 17 02:47:54 2001] Sparafacile says, 'poor gnomes'
+[Thu May 17 02:48:06 2001] Players in EverQuest:
+[Thu May 17 02:48:06 2001] ---------------------------
+[Thu May 17 02:48:06 2001] [50 Rogue] Sparafacile (Barbarian) <Hall of Heroes> ZONE: neriakc (USER PID DVLBEPW)
+[Thu May 17 02:48:06 2001] There is 1 player in EverQuest.
+[Thu May 17 02:48:09 2001] You say, 'oooh'
+[Thu May 17 02:48:10 2001] Sparafacile thanks Espranza heartily.
+[Thu May 17 02:48:11 2001] Jaxus whistles at Espranza appreciatively.
+[Thu May 17 02:48:13 2001] Jaxus peers at Espranza, looking her up and down.
+[Thu May 17 02:48:13 2001] You say, 'Barbarian you are'
+[Thu May 17 02:48:17 2001] Sparafacile says, 'thanks for offer though'
+[Thu May 17 02:48:19 2001] You feel different.
+[Thu May 17 02:48:31 2001] Jaxus floats above the ground.
+[Thu May 17 02:48:38 2001] Jaxus's image shimmers.
+[Thu May 17 02:48:42 2001] Guaigean GMSAYS, 'Just a question...  Can guides be killed in PvP areas by players?  (Not that any player would be oh-so-bright enough to attack a guide'
+[Thu May 17 02:48:45 2001] You're not scaring anyone.
+[Thu May 17 02:48:48 2001] You GMSAY, 'yes they can'
+[Thu May 17 02:48:48 2001] Jaxus cringes away from Espranza.
+[Thu May 17 02:48:54 2001] You GMSAY, 'but you better not let them'
+[Thu May 17 02:49:00 2001] Guaigean GMSAYS, 'I wouldnt'
+[Thu May 17 02:49:01 2001] You're not scaring anyone.
+[Thu May 17 02:49:01 2001] You GMSAY, 'and they better not try'
+[Thu May 17 02:49:03 2001] Sparafacile 's upset he would like to be a gnome.
+[Thu May 17 02:49:08 2001] Guaigean GMSAYS, 'That was my point =)'
+[Thu May 17 02:49:09 2001] Jaxus says, 'be gentle =P'
+[Thu May 17 02:49:13 2001] You're not scaring anyone.
+[Thu May 17 02:49:15 2001] Guaigean GMSAYS, 'They shouldnt be dumb enough to try'
+[Thu May 17 02:49:21 2001] You can no longer levitate.
+[Thu May 17 02:49:21 2001] You return to life.
+[Thu May 17 02:49:21 2001] You feel a bit dispelled.
+[Thu May 17 02:49:22 2001] Guaigean GMSAYS, 'But AE spells happen...'
+[Thu May 17 02:49:24 2001] Your illusion fades.
+[Thu May 17 02:49:24 2001] You feel a bit dispelled.
+[Thu May 17 02:49:39 2001] You GMSAY, 'our armor is mostly defensive'
+[Thu May 17 02:49:49 2001] Jaxus feels a bit dispelled.
+[Thu May 17 02:49:51 2001] Guaigean GMSAYS, 'Pretty spell resistant?'
+[Thu May 17 02:49:52 2001] You GMSAY, 'we're hard to kill unless it's a single shot deal'
+[Thu May 17 02:49:57 2001] Guaigean GMSAYS, 'ah'
+[Thu May 17 02:50:08 2001] You GMSAY, 'sure, all my resists are between 130 and 14'
+[Thu May 17 02:50:11 2001] You GMSAY, 'sure, all my resists are between 130 and 140'
+[Thu May 17 02:50:16 2001] Guaigean GMSAYS, 'Ya thats one reason i chose to be a warrior....  went for HP'
+[Thu May 17 02:50:19 2001] You GMSAY, 'my AC is 893 unbuffed'
+[Thu May 17 02:50:20 2001] You no longer have a target.
+[Thu May 17 02:50:26 2001] Guaigean GMSAYS, 'Wow'
+[Thu May 17 02:50:26 2001] Jaxus GMSAYS, 'Yeah like that new wizard spell they got, Guidesbane I think it's called'
+[Thu May 17 02:50:34 2001] Guaigean GMSAYS, 'hehe'
+[Thu May 17 02:50:35 2001] You GMSAY, 'heh'
+[Thu May 17 02:50:39 2001] Players in EverQuest:
+[Thu May 17 02:50:39 2001] ---------------------------
+[Thu May 17 02:50:39 2001] * Guide *[51 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: neriakc (USER PID AUGBQH4)
+[Thu May 17 02:50:39 2001] * Apprentice Guide *[20 Warrior] Guaigean (Wood Elf) ZONE: neriakb (USER PID AS8XKVK)
+[Thu May 17 02:50:39 2001] * Apprentice Guide *[20 Cleric] Kinther (Dwarf) ZONE: neriakb (USER PID GTUVYUW)
+[Thu May 17 02:50:39 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: neriakc (USER PID DUGA6TS)
+[Thu May 17 02:50:39 2001] There are 4 players in EverQuest.
+[Thu May 17 02:50:41 2001] Guaigean GMSAYS, 'Well, a Death Spell would work'
+[Thu May 17 02:50:45 2001] Teleporting to kinther.
+[Thu May 17 02:50:46 2001] LOADING, PLEASE WAIT...
+[Thu May 17 02:51:13 2001] You have entered Neriak - Commons.
+[Thu May 17 02:51:20 2001] You say, 'Hey Kinther!'
+[Thu May 17 02:51:29 2001] You say, 'How's it going?'
+[Thu May 17 02:51:33 2001] You wave at Kinther.
+[Thu May 17 02:51:36 2001] Kinther says, 'good and you?'
+[Thu May 17 02:51:38 2001] Guaigean GMSAYS, 'Sorry, was just curious...  i heard of GM's/Guides dying, just not very often'
+[Thu May 17 02:51:41 2001] Kinther waves at Espranza.
+[Thu May 17 02:51:42 2001] You say, 'A little tired'
+[Thu May 17 02:51:47 2001] You GMSAY, 'we can rez ourselves'
+[Thu May 17 02:51:52 2001] Kinther says, 'heh me too'
+[Thu May 17 02:52:00 2001] Guaigean GMSAYS, 'not only rez... but /zone to body too =)'
+[Thu May 17 02:52:04 2001] Jaxus GMSAYS, 'I've bought the farm a few times from moving trainers, merchants'
+[Thu May 17 02:52:07 2001] You say, 'any questions so far?'
+[Thu May 17 02:52:14 2001] Guaigean GMSAYS, 'hehe'
+[Thu May 17 02:52:27 2001] Kinther says, 'i have a corpse recovery for a lev 5 can i up it to you so you can check it out?'
+[Thu May 17 02:52:37 2001] You say, 'do they have a corpse?'
+[Thu May 17 02:52:43 2001] Kinther says, 'yes still'
+[Thu May 17 02:52:46 2001] You say, 'which zone'
+[Thu May 17 02:52:55 2001] Guaigean GMSAYS, 'Almost wish I had made a ranger...  would make it easy to locate missing merchants'
+[Thu May 17 02:53:33 2001] You say, 'we don't do CR, by the way, but we can check to make sure the corpse is retrievable'
+[Thu May 17 02:53:39 2001] Jaxus GMSAYS, 'zone'
+[Thu May 17 02:53:41 2001] Players on EverQuest:
+[Thu May 17 02:53:41 2001] ---------------------------
+[Thu May 17 02:53:41 2001] * GM * [20 Cleric] Kinther (Dwarf)
+[Thu May 17 02:53:41 2001] [4 Shadow Knight] Jesail (Dark Elf)
+[Thu May 17 02:53:41 2001] * GM * [20 Warrior] Guaigean (Wood Elf)
+[Thu May 17 02:53:41 2001] [12 Necromancer] Calean (Dark Elf)
+[Thu May 17 02:53:41 2001] * GM * [51 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Thu May 17 02:53:41 2001] There are 5 players in Neriak Commons.
+[Thu May 17 02:53:58 2001] Kinther says, 'i know thats what i wanted to see but i cant easily'
+[Thu May 17 02:54:05 2001] You say, 'okay let's go there'
+[Thu May 17 02:54:09 2001] You say, 'esc the petition'
+[Thu May 17 02:54:29 2001] You feel the spirit of Norrath enter you.
+[Thu May 17 02:54:30 2001] Your feet leave the ground.
+[Thu May 17 02:54:41 2001] Kinther GMSAYS, 'esclating Iilamien for corpse check'
+[Thu May 17 02:54:44 2001] You're not scaring anyone.
+[Thu May 17 02:54:45 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 17 02:54:46 2001] USER TEXT: i know were i ied and my coepse is not there and i just died
+[Thu May 17 02:54:46 2001] Players in EverQuest:
+[Thu May 17 02:54:46 2001] ---------------------------
+[Thu May 17 02:54:46 2001] [ANON (5 Rogue)] Iilamien (Wood Elf) ZONE: gfaydark (USER PID GWS38AX)
+[Thu May 17 02:54:46 2001] There is 1 player in EverQuest.
+[Thu May 17 02:54:53 2001] Searching zones for corpse of that name....
+[Thu May 17 02:54:53 2001] Corpse: Iilamien's corpse0 in zone: gfaydark
+[Thu May 17 02:55:03 2001] You say, 'okay I'll summon you when I get there'
+[Thu May 17 02:55:05 2001] You GMSAY, 'zone'
+[Thu May 17 02:55:09 2001] LOADING, PLEASE WAIT...
+[Thu May 17 02:55:41 2001] You have entered Greater Faydark.
+[Thu May 17 02:55:48 2001] Jaxus GMSAYS, 'zonign'
+[Thu May 17 02:55:49 2001] You GMSAY, 'ready, Kinther?'
+[Thu May 17 02:55:52 2001] Jaxus GMSAYS, 'err yeah'
+[Thu May 17 02:55:53 2001] Kinther GMSAYS, 'zone'
+[Thu May 17 02:55:57 2001] Summoning Kinther.
+[Thu May 17 02:56:41 2001] Kinther says, 'its a double i name'
+[Thu May 17 02:56:46 2001] Jaxus invites you to join a group.
+[Thu May 17 02:56:46 2001] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Thu May 17 02:56:48 2001] You GMSAY, 'first I'll use the find command to find the body'
+[Thu May 17 02:56:49 2001] You notify Jaxus that you agree to join the group.
+[Thu May 17 02:56:49 2001] You have joined the group.
+[Thu May 17 02:56:49 2001] Guaigean has joined the group.
+[Thu May 17 02:56:49 2001] Kinther has joined the group.
+[Thu May 17 02:56:51 2001] Guaigean GMSAYS, 'Would Coperfield be considered name violation?'
+[Thu May 17 02:56:56 2001] You tell your party, 'no'
+[Thu May 17 02:57:07 2001] Searching for iilamien's corpse0.
+[Thu May 17 02:57:08 2001] Player is in zone gfaydark at x = 698 y = -187 z = -3.
+[Thu May 17 02:57:08 2001] Guaigean tells the group, 'Ok, only if it was like Davvid Coperfield?'
+[Thu May 17 02:57:13 2001] You tell your party, 'right'
+[Thu May 17 02:57:15 2001] Guaigean tells the group, 'k'
+[Thu May 17 02:57:17 2001] Kinther GMSAYS, 'then a /goto'
+[Thu May 17 02:57:18 2001] Teleporting to Iilamien's corpse0 (699.00, -187.00,  -3.60).
+[Thu May 17 02:57:22 2001] You GMSAY, 'yup'
+[Thu May 17 02:57:24 2001] Summoning Iilamien's corpse0.
+[Thu May 17 02:57:28 2001] Summoning kinther.
+[Thu May 17 02:57:42 2001] Jaxus lowers his head and mourns the loss of Iilamien.
+[Thu May 17 02:57:47 2001] Kinther says, 'well i see it'
+[Thu May 17 02:57:48 2001] You tell your party, 'I'll push this back down to you, Kinther'
+[Thu May 17 02:57:52 2001] STATUS DOWNGRADED TO NORMAL
+[Thu May 17 02:58:01 2001] You GMSAY, 'checking in Iilamien for Kinther'
+[Thu May 17 02:58:03 2001] CHECKING IN
+[Thu May 17 02:58:07 2001] Kinther tells the group, 'ok'
+[Thu May 17 02:58:37 2001] Players in EverQuest:
+[Thu May 17 02:58:37 2001] ---------------------------
+[Thu May 17 02:58:37 2001] [1 Enchanter] Elthaniel (High Elf) ZONE: gfaydark (USER PID AVJH7H8)
+[Thu May 17 02:58:37 2001] [1 Druid] Reamyen (Half Elf) ZONE: qeynos2 (USER PID FZNLWVL)
+[Thu May 17 02:58:37 2001] [1 Wizard] Kellben (Human) ZONE: nro (USER PID ESRJWFS)
+[Thu May 17 02:58:37 2001] [1 Magician] Slika (Human) ZONE: freportw (USER PID HYM792Y)
+[Thu May 17 02:58:37 2001] [1 Necromancer] Skelomatic (Dark Elf) ZONE: nektulos (USER PID GT6GA70)
+[Thu May 17 02:58:37 2001] [1 Druid]  (Wood Elf) ZONE:  (USER PID FN8HC4F)
+[Thu May 17 02:58:37 2001] [1 Monk]  (Iksar) ZONE:  (USER PID ENWTLPU)
+[Thu May 17 02:58:37 2001] [1 Wizard]  (Erudite) ZONE:  (USER PID GX0JAQE)
+[Thu May 17 02:58:37 2001] [1 Wizard]  (High Elf) ZONE:  (USER PID GWMXEWQ)
+[Thu May 17 02:58:37 2001] [1 Enchanter]  (Dark Elf) ZONE:  (USER PID BXX84PH)
+[Thu May 17 02:58:37 2001] [1 Shaman]  (Iksar) ZONE:  (USER PID EZJ9EBU)
+[Thu May 17 02:58:37 2001] There are 11 players in EverQuest.
+[Thu May 17 02:58:47 2001] Players in EverQuest:
+[Thu May 17 02:58:47 2001] ---------------------------
+[Thu May 17 02:58:47 2001] [2 Paladin] Olos (Human) ZONE: freportw (USER PID HVX5QFQ)
+[Thu May 17 02:58:47 2001] [2 Rogue] Thetick (Gnome) <Clan of Zoit> ZONE: freporte (USER PID DWJ83AH)
+[Thu May 17 02:58:47 2001] [2 Ranger]  (Wood Elf) ZONE:  (USER PID DU788QG)
+[Thu May 17 02:58:47 2001] [2 Shaman] Kokine (Ogre) ZONE: feerrott (USER PID DPQZ8JP)
+[Thu May 17 02:58:47 2001] [2 Druid]  (Wood Elf) ZONE:  (USER PID DQHKZMS)
+[Thu May 17 02:58:47 2001] [2 Rogue]  (Barbarian) ZONE:  (USER PID DW3MJ6B)
+[Thu May 17 02:58:47 2001] [2 Monk]  (Human) ZONE:  (USER PID HV42VBX)
+[Thu May 17 02:58:47 2001] There are 7 players in EverQuest.
+[Thu May 17 02:58:53 2001] Players in EverQuest:
+[Thu May 17 02:58:53 2001] ---------------------------
+[Thu May 17 02:58:53 2001] [3 Wizard] Kamilla (Erudite) ZONE: erudnext (USER PID EZUTRU5)
+[Thu May 17 02:58:53 2001] [3 Paladin] Gardians (Human) ZONE: freportw (USER PID DYRXRUU)
+[Thu May 17 02:58:53 2001] [3 Bard] Prestonius (Half Elf) <Bellatorae Mysticus> ZONE: gfaydark (USER PID BUUSHM7)
+[Thu May 17 02:58:53 2001] [3 Warrior] Vyrance (Half Elf) ZONE: gfaydark (USER PID FY7HCXH)
+[Thu May 17 02:58:53 2001] [3 Bard] Kaemon (Half Elf) ZONE: ecommons (USER PID AX4TMLL)
+[Thu May 17 02:58:53 2001] [3 Shadow Knight] Karianna (Dark Elf) ZONE: nektulos (USER PID CM7KWQL)
+[Thu May 17 02:58:53 2001] [3 Bard] Thaddeus (Half Elf) <Bellatorae Mysticus> ZONE: gfaydark (USER PID DXTFX55)
+[Thu May 17 02:58:53 2001] [3 Necromancer]  (Dark Elf) ZONE:  (USER PID DUWM1GS)
+[Thu May 17 02:58:53 2001] [3 Shadow Knight] Mesilju (Dark Elf) ZONE: nektulos (USER PID BVT1V2R)
+[Thu May 17 02:58:53 2001] [3 Warrior]  (Barbarian) ZONE:  (USER PID CW07RQZ)
+[Thu May 17 02:58:53 2001] There are 10 players in EverQuest.
+[Thu May 17 02:59:00 2001] Jaxus tells the group, 'I wish epranza was my teacher, I was basically given the pnp and told to have at it lol'
+[Thu May 17 02:59:09 2001] You tell your party, 'heh'
+[Thu May 17 02:59:11 2001] Kinther GMSAYS, 'err pulling Iilmien'
+[Thu May 17 02:59:14 2001] You tell your party, 'well who trained you?'
+[Thu May 17 02:59:18 2001] Minkymimi says out of character, 'looking for port to WC plz ..for CR'
+[Thu May 17 02:59:38 2001] You're not scaring anyone.
+[Thu May 17 02:59:49 2001] Jaxus tells the group, 'hmm mersi, cani sometimes. mostly anyone i could find'
+[Thu May 17 02:59:51 2001] You're not scaring anyone.
+[Thu May 17 03:00:02 2001] Guaigean tells the group, 'Ya Ive spent some time training with Mersi'
+[Thu May 17 03:00:14 2001] You tell your party, 'I trained mostly under Dimmy and Laris'
+[Thu May 17 03:00:19 2001] Guaigean tells the group, 'she pretty much just says "Hit the que" ... I kinda like that though =)'
+[Thu May 17 03:00:19 2001] You tell your party, 'A little under Kezia'
+[Thu May 17 03:00:26 2001] Kaweewee GMSAYS, 'what is this? guide reunion night'
+[Thu May 17 03:00:33 2001] Kinther tells the group, 'i have to tell them to get help from a bard to find their corpse right no giving its loc'
+[Thu May 17 03:00:34 2001] Jaxus tells the group, 'I grouped with Dimmy once before he left'
+[Thu May 17 03:00:34 2001] You GMSAY, 'Woot! Kaweewee!'
+[Thu May 17 03:00:47 2001] Jaxus GMSAYS, 'Hi =)'
+[Thu May 17 03:00:47 2001] Guaigean tells the group, 'Ya Kinther'
+[Thu May 17 03:00:50 2001] You tell your party, 'right'
+[Thu May 17 03:00:59 2001] You tell your party, 'it's perfectly visible'
+[Thu May 17 03:01:05 2001] Players on EverQuest:
+[Thu May 17 03:01:05 2001] ---------------------------
+[Thu May 17 03:01:05 2001] [3 Bard] Thaddeus (Half Elf) <Bellatorae Mysticus>
+[Thu May 17 03:01:05 2001] There is 1 player in Greater Faydark.
+[Thu May 17 03:01:09 2001] Jaxus agrees with Espranza.
+[Thu May 17 03:01:48 2001] Guaigean tells the group, 'Iilamien is right next to me... heh thats the one that et'd right?'
+[Thu May 17 03:01:48 2001] Kinther GMSAYS, 'hi Kaweewee'
+[Thu May 17 03:01:55 2001] Kaweewee GMSAYS, 'hiya kin'
+[Thu May 17 03:02:04 2001] You tell your party, 'he's in Neriak?'
+[Thu May 17 03:02:06 2001] Kinther tells the group, 'yeah'
+[Thu May 17 03:02:09 2001] Guaigean tells the group, 'Im in GFay'
+[Thu May 17 03:02:13 2001] You have not received any tells, so you cannot reply.
+[Thu May 17 03:02:14 2001] Guaigean tells the group, 'Thats where Im bound'
+[Thu May 17 03:02:15 2001] You tell your party, 'doh'
+[Thu May 17 03:02:17 2001] You tell your party, 'right'
+[Thu May 17 03:02:21 2001] Summoning Guaigean.
+[Thu May 17 03:02:30 2001] Kaweewee GMSAYS, 'Zone'
+[Thu May 17 03:02:45 2001] Guaigean tells the group, 'Heh, no we don't make ourselves obvious =)'
+[Thu May 17 03:02:46 2001] You tell your party, 'your corpse? near where those four GMs are standing'
+[Thu May 17 03:02:53 2001] You tell your party, 'five soon I betcha'
+[Thu May 17 03:02:57 2001] Guaigean tells the group, 'ya'
+[Thu May 17 03:02:58 2001] Jaxus GMSAYS, 'Sparafacile needs some epic npc's moved. I went to chat and asked a GM, but havent heard back yet'
+[Thu May 17 03:03:03 2001] Guaigean tells the group, 'Kaweewee prolly coming'
+[Thu May 17 03:03:11 2001] You GMSAY, 'which ones?'
+[Thu May 17 03:03:38 2001] Jaxus GMSAYS, '2 in neriak 3rd gate rogue trainer'
+[Thu May 17 03:03:40 2001] Players in EverQuest:
+[Thu May 17 03:03:40 2001] ---------------------------
+[Thu May 17 03:03:40 2001] * Guide *[50 Enchanter] Kaweewee (High Elf) <Keepers of Morell Thule> ZONE: greatdivide (USER PID GUUWCLQ)
+[Thu May 17 03:03:40 2001] There is 1 player in EverQuest.
+[Thu May 17 03:03:57 2001] You GMSAY, 'I don't think we can do anything about epic mobs'
+[Thu May 17 03:04:04 2001] Players on EverQuest:
+[Thu May 17 03:04:04 2001] ---------------------------
+[Thu May 17 03:04:04 2001] [7 Warrior] Palemass (Human)
+[Thu May 17 03:04:04 2001] [ANONYMOUS] Whiteseraphim 
+[Thu May 17 03:04:04 2001] [ANONYMOUS] Impression 
+[Thu May 17 03:04:04 2001] [1 Enchanter] Elthaniel (High Elf)
+[Thu May 17 03:04:04 2001] [5 Ranger] Queig (Wood Elf)
+[Thu May 17 03:04:04 2001] [ANONYMOUS] Minkymimi 
+[Thu May 17 03:04:04 2001] [53 Wanderer] Richardak (Halfling) <Heroic Few>
+[Thu May 17 03:04:04 2001] * GM * [50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule>
+[Thu May 17 03:04:04 2001] * GM * [20 Cleric] Kinther (Dwarf)
+[Thu May 17 03:04:04 2001] [9 Wizard] Calinstar (High Elf)
+[Thu May 17 03:04:04 2001] [10 Druid] Migelini (Halfling)
+[Thu May 17 03:04:04 2001] [8 Enchanter] Shadowhaze (High Elf) <Progenies Tunaree>
+[Thu May 17 03:04:04 2001] [54 Wanderer] Emiliee (Human)
+[Thu May 17 03:04:04 2001] [ANONYMOUS] Aanador  <Azure Blades>
+[Thu May 17 03:04:04 2001] [6 Wizard] Sason (High Elf)
+[Thu May 17 03:04:04 2001] [11 Ranger] Scerena (Wood Elf)
+[Thu May 17 03:04:04 2001] [3 Warrior] Vyrance (Half Elf)
+[Thu May 17 03:04:04 2001] [4 Enchanter] Ginevia (High Elf)
+[Thu May 17 03:04:04 2001] [ANONYMOUS] Bearnais  <Ordre des Menestrels>
+[Thu May 17 03:04:04 2001] [24 Druid] Brisedumatin (Half Elf) <Ordre des Menestrels>
+[Thu May 17 03:04:04 2001] [ANONYMOUS] Solarianne 
+[Thu May 17 03:04:04 2001] [29 Rogue] Coperfield (Half Elf) <L'envol du Phoenix>
+[Thu May 17 03:04:04 2001] * GM * [20 Warrior] Guaigean (Wood Elf)
+[Thu May 17 03:04:04 2001] [ANONYMOUS] Ravenwyde  <Temple of Dawn>
+[Thu May 17 03:04:04 2001] * GM * [51 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Thu May 17 03:04:04 2001] There are 25 players in Greater Faydark.
+[Thu May 17 03:04:05 2001] Players on EverQuest:
+[Thu May 17 03:04:05 2001] ---------------------------
+[Thu May 17 03:04:05 2001] [7 Warrior] Palemass (Human)
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Whiteseraphim 
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Impression 
+[Thu May 17 03:04:05 2001] [1 Enchanter] Elthaniel (High Elf)
+[Thu May 17 03:04:05 2001] [5 Ranger] Queig (Wood Elf)
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Minkymimi 
+[Thu May 17 03:04:05 2001] [53 Wanderer] Richardak (Halfling) <Heroic Few>
+[Thu May 17 03:04:05 2001] * GM * [50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule>
+[Thu May 17 03:04:05 2001] * GM * [20 Cleric] Kinther (Dwarf)
+[Thu May 17 03:04:05 2001] [9 Wizard] Calinstar (High Elf)
+[Thu May 17 03:04:05 2001] [10 Druid] Migelini (Halfling)
+[Thu May 17 03:04:05 2001] [8 Enchanter] Shadowhaze (High Elf) <Progenies Tunaree>
+[Thu May 17 03:04:05 2001] [54 Wanderer] Emiliee (Human)
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Aanador  <Azure Blades>
+[Thu May 17 03:04:05 2001] [6 Wizard] Sason (High Elf)
+[Thu May 17 03:04:05 2001] [11 Ranger] Scerena (Wood Elf)
+[Thu May 17 03:04:05 2001] [3 Warrior] Vyrance (Half Elf)
+[Thu May 17 03:04:05 2001] [4 Enchanter] Ginevia (High Elf)
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Bearnais  <Ordre des Menestrels>
+[Thu May 17 03:04:05 2001] [24 Druid] Brisedumatin (Half Elf) <Ordre des Menestrels>
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Solarianne 
+[Thu May 17 03:04:05 2001] [29 Rogue] Coperfield (Half Elf) <L'envol du Phoenix>
+[Thu May 17 03:04:05 2001] * GM * [20 Warrior] Guaigean (Wood Elf)
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Ravenwyde  <Temple of Dawn>
+[Thu May 17 03:04:05 2001] * GM * [51 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Thu May 17 03:04:05 2001] There are 25 players in Greater Faydark.
+[Thu May 17 03:04:05 2001] Players on EverQuest:
+[Thu May 17 03:04:05 2001] ---------------------------
+[Thu May 17 03:04:05 2001] [7 Warrior] Palemass (Human)
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Whiteseraphim 
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Impression 
+[Thu May 17 03:04:05 2001] [1 Enchanter] Elthaniel (High Elf)
+[Thu May 17 03:04:05 2001] [5 Ranger] Queig (Wood Elf)
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Minkymimi 
+[Thu May 17 03:04:05 2001] [53 Wanderer] Richardak (Halfling) <Heroic Few>
+[Thu May 17 03:04:05 2001] * GM * [50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule>
+[Thu May 17 03:04:05 2001] * GM * [20 Cleric] Kinther (Dwarf)
+[Thu May 17 03:04:05 2001] [9 Wizard] Calinstar (High Elf)
+[Thu May 17 03:04:05 2001] [10 Druid] Migelini (Halfling)
+[Thu May 17 03:04:05 2001] [8 Enchanter] Shadowhaze (High Elf) <Progenies Tunaree>
+[Thu May 17 03:04:05 2001] [54 Wanderer] Emiliee (Human)
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Aanador  <Azure Blades>
+[Thu May 17 03:04:05 2001] [6 Wizard] Sason (High Elf)
+[Thu May 17 03:04:05 2001] [11 Ranger] Scerena (Wood Elf)
+[Thu May 17 03:04:05 2001] [3 Warrior] Vyrance (Half Elf)
+[Thu May 17 03:04:05 2001] [4 Enchanter] Ginevia (High Elf)
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Bearnais  <Ordre des Menestrels>
+[Thu May 17 03:04:05 2001] [24 Druid] Brisedumatin (Half Elf) <Ordre des Menestrels>
+[Thu May 17 03:04:05 2001] [ANONYMOUS] Solarianne 
+[Thu May 17 03:04:05 2001] [29 Rogue] Coperfield (Half Elf) <L'envol du Phoenix>
+[Thu May 17 03:04:05 2001] * GM * [20 Warrior] Guaigean (Wood Elf)
+[Thu May 17 03:04:06 2001] [ANONYMOUS] Ravenwyde  <Temple of Dawn>
+[Thu May 17 03:04:06 2001] * GM * [51 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Thu May 17 03:04:06 2001] There are 25 players in Greater Faydark.
+[Thu May 17 03:04:06 2001] Players on EverQuest:
+[Thu May 17 03:04:06 2001] ---------------------------
+[Thu May 17 03:04:06 2001] [7 Warrior] Palemass (Human)
+[Thu May 17 03:04:06 2001] [ANONYMOUS] Whiteseraphim 
+[Thu May 17 03:04:06 2001] [ANONYMOUS] Impression 
+[Thu May 17 03:04:06 2001] [1 Enchanter] Elthaniel (High Elf)
+[Thu May 17 03:04:06 2001] [5 Ranger] Queig (Wood Elf)
+[Thu May 17 03:04:06 2001] [ANONYMOUS] Minkymimi 
+[Thu May 17 03:04:06 2001] [53 Wanderer] Richardak (Halfling) <Heroic Few>
+[Thu May 17 03:04:06 2001] * GM * [50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule>
+[Thu May 17 03:04:06 2001] * GM * [20 Cleric] Kinther (Dwarf)
+[Thu May 17 03:04:06 2001] [9 Wizard] Calinstar (High Elf)
+[Thu May 17 03:04:06 2001] [10 Druid] Migelini (Halfling)
+[Thu May 17 03:04:06 2001] [8 Enchanter] Shadowhaze (High Elf) <Progenies Tunaree>
+[Thu May 17 03:04:06 2001] [54 Wanderer] Emiliee (Human)
+[Thu May 17 03:04:06 2001] [ANONYMOUS] Aanador  <Azure Blades>
+[Thu May 17 03:04:06 2001] [6 Wizard] Sason (High Elf)
+[Thu May 17 03:04:06 2001] [11 Ranger] Scerena (Wood Elf)
+[Thu May 17 03:04:06 2001] [3 Warrior] Vyrance (Half Elf)
+[Thu May 17 03:04:06 2001] [4 Enchanter] Ginevia (High Elf)
+[Thu May 17 03:04:06 2001] [ANONYMOUS] Bearnais  <Ordre des Menestrels>
+[Thu May 17 03:04:06 2001] [24 Druid] Brisedumatin (Half Elf) <Ordre des Menestrels>
+[Thu May 17 03:04:06 2001] [ANONYMOUS] Solarianne 
+[Thu May 17 03:04:06 2001] [29 Rogue] Coperfield (Half Elf) <L'envol du Phoenix>
+[Thu May 17 03:04:06 2001] * GM * [20 Warrior] Guaigean (Wood Elf)
+[Thu May 17 03:04:06 2001] [ANONYMOUS] Ravenwyde  <Temple of Dawn>
+[Thu May 17 03:04:06 2001] * GM * [51 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Thu May 17 03:04:06 2001] There are 25 players in Greater Faydark.
+[Thu May 17 03:05:11 2001] ERROR: Couldn't get safe coords for cshome, unable to zone.
+
+[Thu May 17 03:06:54 2001] Welcome to EverQuest!
+[Thu May 17 03:06:54 2001] You have entered Greater Faydark.
+[Thu May 17 03:06:54 2001] MESSAGE OF THE DAY: Congratulations Ibbuny from the Royal Jesters for winning the Server Best of the Best Druid Tournament! Ibbuny will be moving on to the server finals later to compete! Congrats Ibbuny and grats to all the participants!
+[Thu May 17 03:06:55 2001] Aegil auctions, 'WTB Stack of Batwing 3pp, send tell'
+[Thu May 17 03:06:56 2001] Kaweewee GMSAYS, 'Zone'
+[Thu May 17 03:06:59 2001] You GMSAY, 'grr'
+[Thu May 17 03:07:02 2001] Zinx auctions, 'WTS shrdwurm eye int5 dex3 secondary range looks nice'
+[Thu May 17 03:07:06 2001] Kinther GMSAYS, 'I'm thinking about going to bed myself'
+[Thu May 17 03:07:09 2001] Jaxus GMSAYS, 'welcome back'
+[Thu May 17 03:07:13 2001] You GMSAY, 'I am definitely going to bed now'
+[Thu May 17 03:07:23 2001] Jaxus comforts Espranza.
+[Thu May 17 03:07:25 2001] You GMSAY, 'why fight fate ('
+[Thu May 17 03:07:26 2001] Guaigean GMSAYS, 'Must...  Stay...  Must... Log... 40... hours...'
+[Thu May 17 03:07:28 2001] Zinx auctions, 'WTS hero bracer ac9 str10 svdisease5 svpoisn5'
+[Thu May 17 03:07:30 2001] Richardak says out of character, 'im in frount one of the pod lift i dont know what onr but ill tp you to wc and any one els that wants to go .'
+[Thu May 17 03:07:38 2001] Emiliee says out of character, 'will pay 20 pp to the one that finds faelin bloodbriar in greater faydark. (spawn point: near crushbone entrance)'
+[Thu May 17 03:07:42 2001] You GMSAY, 'Guaig, nobody makes guide in one week'
+[Thu May 17 03:07:43 2001] Kaweewee GMSAYS, 'whats wrong espr'
+[Thu May 17 03:07:47 2001] You GMSAY, 'sleeeepy'
+[Thu May 17 03:07:52 2001] You GMSAY, 'and link death'
+[Thu May 17 03:07:54 2001] Guaigean GMSAYS, 'I can change that Esp =P'
+[Thu May 17 03:07:59 2001] Zinx auctions, 'WTS GBS int9 svmagic10 primary secondary'
+[Thu May 17 03:08:03 2001] Jaxus waves at Kaweewee.
+[Thu May 17 03:08:04 2001] Kinther GMSAYS, 'heh'
+[Thu May 17 03:08:07 2001] Guaigean says, 'ok'
+[Thu May 17 03:08:17 2001] Minkymimi says out of character, 'waht is GBS?'
+[Thu May 17 03:08:22 2001] You say to your guild, 'invite me in'
+[Thu May 17 03:08:23 2001] Jaxus waves goodbye to Guaigean.
+[Thu May 17 03:08:27 2001] Jaxus waves goodbye to Kinther.
+[Thu May 17 03:08:28 2001] Kinther opens his mouth wide and yawns.
+[Thu May 17 03:08:29 2001] Kaweewee invites you to join a group.
+[Thu May 17 03:08:29 2001] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Thu May 17 03:08:29 2001] Iilamien says out of character, 'this games sucks i die and my corpse move then i i try to go up into kelithin and the i fall throuh and kill myslef for no absolute reason!!!!!!!!!'
+[Thu May 17 03:08:30 2001] You GMSAY, 'wait nobody leave yet'
+[Thu May 17 03:08:31 2001] You notify Kaweewee that you agree to join the group.
+[Thu May 17 03:08:31 2001] You have joined the group.
+[Thu May 17 03:08:31 2001] Kinther has joined the group.
+[Thu May 17 03:08:31 2001] Guaigean has joined the group.
+[Thu May 17 03:08:31 2001] Guaigean waves goodbye to Jaxus.
+[Thu May 17 03:08:31 2001] Jaxus waves goodbye to Espranza.
+[Thu May 17 03:08:34 2001] Kinther waves at Jaxus.
+[Thu May 17 03:08:38 2001] Kinther kneels before Jaxus in humility and reverence.
+[Thu May 17 03:08:39 2001] You say to your guild, 'join the group Jax'
+[Thu May 17 03:08:46 2001] Jaxus has joined the group.
+[Thu May 17 03:08:55 2001] Kaweewee tells the guild, 'whatcha doin small one?'
+[Thu May 17 03:08:55 2001] You feel as if you are about to fall.
+[Thu May 17 03:08:59 2001] Searching for Priest_of_Discord00.
+[Thu May 17 03:09:00 2001] Player is in zone gfaydark at x = 203 y = 214 z = 0.
+[Thu May 17 03:09:01 2001] Teleporting to Priest_of_Discord00 (203.00, 214.00,   0.40).
+[Thu May 17 03:09:01 2001] You feel as if you are about to fall.
+[Thu May 17 03:09:03 2001] Kaweewee tells the guild, 'i smell a rat'
+[Thu May 17 03:09:07 2001] You can no longer levitate.
+[Thu May 17 03:09:07 2001] Jaxus tells the group, 'going to dunk me in lava before bed?'
+[Thu May 17 03:09:10 2001] You say to your guild, 'going to make someone very nervous'
+[Thu May 17 03:09:15 2001] Guaigean GMSAYS, 'So even if im ready in 1 week i still cant be bumped to full guide eh?'
+[Thu May 17 03:09:26 2001] Kinther GMSAYS, 'heh no way G'
+[Thu May 17 03:09:28 2001] Kaweewee GMSAYS, 'ready how?'
+[Thu May 17 03:09:29 2001] You GMSAY, 'no you need to be tested and all'
+[Thu May 17 03:09:34 2001] Guaigean GMSAYS, 'Ah'
+[Thu May 17 03:09:42 2001] Guaigean GMSAYS, 'What does a test consist of?'
+[Thu May 17 03:09:42 2001] You feel the spirit of Norrath enter you.
+[Thu May 17 03:09:47 2001] Kaweewee tells the group, 'questions'
+[Thu May 17 03:09:52 2001] Minkymimi kneels before Espranza in humility and reverence.
+[Thu May 17 03:09:53 2001] Kaweewee tells the group, 'what ifs'
+[Thu May 17 03:09:53 2001] Guaigean tells the group, 'Just scenarios?'
+[Thu May 17 03:09:54 2001] Jaxus GMSAYS, 'trial by fire'
+[Thu May 17 03:09:56 2001] Summoning Kaweewee.
+[Thu May 17 03:09:57 2001] Jaxus GMSAYS, '=p'
+[Thu May 17 03:09:57 2001] Kaweewee tells the group, 'yep'
+[Thu May 17 03:09:59 2001] Summoning Kinther.
+[Thu May 17 03:10:02 2001] Summoning Guaigean.
+[Thu May 17 03:10:04 2001] Guaigean tells the group, 'ah ok'
+[Thu May 17 03:10:05 2001] Summoning Jaxus.
+[Thu May 17 03:10:07 2001] Kalanthas shouts, 'STARZON'
+[Thu May 17 03:10:09 2001] Kinther GMSAYS, 'and we have to get to know everyone'
+[Thu May 17 03:10:16 2001] Minkymimi bows before Espranza.
+[Thu May 17 03:10:19 2001] Artemuss shouts, 'starzon'
+[Thu May 17 03:10:20 2001] You say, 'Hello, Minkymini...'
+[Thu May 17 03:10:23 2001] Guaigean GMSAYS, 'That Ive been doing ;)'
+[Thu May 17 03:10:25 2001] Minkymimi kneels before Kaweewee in humility and reverence.
+[Thu May 17 03:10:32 2001] Minkymimi says, 'hi ; )'
+[Thu May 17 03:10:36 2001] Guaigean GMSAYS, 'I still need practice on guide commands... but im workin on it'
+[Thu May 17 03:10:39 2001] Brisedumatin begins to cast a spell. (Spirit of Wolf)
+[Thu May 17 03:10:43 2001] You GMSAY, 'okay now say nothing'
+[Thu May 17 03:10:43 2001] Guaigean is surrounded by a brief lupine aura.
+[Thu May 17 03:10:52 2001] Brisedumatin begins to cast a spell. (Spirit of Wolf)
+[Thu May 17 03:10:56 2001] Artemuss is surrounded by a brief lupine aura.
+[Thu May 17 03:10:59 2001] Kinther GMSAYS, 'why?'
+[Thu May 17 03:11:01 2001] Brisedumatin begins to cast a spell. (Spirit of Wolf)
+[Thu May 17 03:11:06 2001] Minkymimi is surrounded by a brief lupine aura.
+[Thu May 17 03:11:11 2001] You GMSAY, 'just to make her wonder'
+[Thu May 17 03:11:12 2001] Kaweewee GMSAYS, 'freaks people out'
+[Thu May 17 03:11:13 2001] Brisedumatin begins to cast a spell. (Spirit of Wolf)
+[Thu May 17 03:11:31 2001] Teleporting to Jaxus (148.00, 256.00,  76.28).
+[Thu May 17 03:11:37 2001] Kinther is surrounded by a brief lupine aura.
+[Thu May 17 03:11:37 2001] Guaigean GMSAYS, 'lol... thats mean'
+[Thu May 17 03:11:37 2001] Artemuss says, 'Hail Priest of Discord'
+[Thu May 17 03:11:37 2001] Priest of Discord says 'Greetings, Artemuss .  Are you a child of Order?  If you have come seeking the path of Discord, I require only that you give me your [Tome of Order and Discord] and I shall show you the way.  Only then will you be freed from Order's confining restraints. 
+[Thu May 17 03:11:38 2001] Brisedumatin begins to cast a spell. (Spirit of Wolf)
+[Thu May 17 03:11:42 2001] Kinther GMSAYS, 'heh this is odd'
+[Thu May 17 03:11:42 2001] Jaxus is surrounded by a brief lupine aura.
+[Thu May 17 03:11:42 2001] Jaxus GMSAYS, 'sitting in the middle of someones camp works better'
+[Thu May 17 03:11:44 2001] Minkymimi says, 'any bug on lift?'
+[Thu May 17 03:11:53 2001] Artemuss says, 'i would like to read it'
+[Thu May 17 03:11:55 2001] You say, 'no, everything is fine with the lift.'
+[Thu May 17 03:11:55 2001] Richardak says out of character, 'omg lvl 20 gms come and dule me .'
+[Thu May 17 03:11:58 2001] Kaweewee tells the group, 'you want mean? hear about that guide that was summoning peoiple to veeshans peek and ninding them there>?'
+[Thu May 17 03:12:06 2001] You tell your party, 'that was mean'
+[Thu May 17 03:12:10 2001] Guaigean tells the group, 'And lemme guess... he got banned'
+[Thu May 17 03:12:12 2001] Nantukon says out of character, 'LOL'
+[Thu May 17 03:12:19 2001] You tell your party, 'yup'
+[Thu May 17 03:12:28 2001] Kaweewee tells the group, 'no he made guide in one week'
+[Thu May 17 03:12:28 2001] Guaigean tells the group, 'Well, thats just a fool'
+[Thu May 17 03:12:31 2001] Nantukon says out of character, 'did you win?'
+[Thu May 17 03:12:34 2001] Guaigean tells the group, '=P'
+[Thu May 17 03:12:35 2001] Minkymimi was injured by falling.
+[Thu May 17 03:12:36 2001] Kinther tells the group, 'heh'
+[Thu May 17 03:12:37 2001] Jaxus tells the group, 'hehe probably was just getting ready for shadowbane'
+[Thu May 17 03:12:39 2001] Guaigean tells the group, 'Im not that mean'
+[Thu May 17 03:12:41 2001] You tell your party, 'she jumped'
+[Thu May 17 03:12:57 2001] Jaxus was injured by falling.
+[Thu May 17 03:12:57 2001] You were hit by non-melee for 30 dmg.
+[Thu May 17 03:12:57 2001] YOU were injured by falling.
+[Thu May 17 03:12:59 2001] Kinther was injured by falling.
+[Thu May 17 03:13:16 2001] You tell your party, 'she will log soon'
+[Thu May 17 03:13:23 2001] You tell your party, 'I guess we should stop following her'
+[Thu May 17 03:13:33 2001] Jaxus tells the group, 'heh'
+[Thu May 17 03:13:48 2001] You tell your party, 'okay I've had my mean little fun'
+[Thu May 17 03:13:51 2001] Guaigean tells the group, 'Bah... quit harrassing the poor lowbies =)'
+[Thu May 17 03:13:54 2001] You tell your party, 'going to bed now...'
+[Thu May 17 03:13:54 2001] Minkymimi begins to cast a spell. (Minor Shielding)
+[Thu May 17 03:13:57 2001] You GMSAY, 'zone'
+[Thu May 17 03:13:59 2001] Kaweewee tells the group, 'cya esp'
+[Thu May 17 03:14:01 2001] LOADING, PLEASE WAIT...
+[Thu May 17 03:14:25 2001] You have entered Sunset Home.
+[Thu May 17 03:14:25 2001] You have joined the group.
+[Thu May 17 03:14:29 2001] Kaweewee tells the group, 'cya jax'
+[Thu May 17 03:14:33 2001] Guaigean tells the group, 'Eh, nowhere specific'
+[Thu May 17 03:14:36 2001] Kinther tells the group, 'nope I'm gonna log as well'
+[Thu May 17 03:14:36 2001] It will take you about 30 seconds to prepare your camp.
+[Thu May 17 03:14:39 2001] You GMSAY, 'night all!'
+[Thu May 17 03:14:40 2001] It will take about 25 more seconds to prepare your camp.
+[Thu May 17 03:14:45 2001] It will take about 20 more seconds to prepare your camp.
+[Thu May 17 03:14:46 2001] Jaxus GMSAYS, 'Night! =)'
+[Thu May 17 03:14:47 2001] Kaweewee GMSAYS, 'ciao'
+[Thu May 17 03:14:48 2001] Guaigean tells the group, 'Gnite Jaxus'
+[Thu May 17 03:14:50 2001] It will take about 15 more seconds to prepare your camp.
+[Thu May 17 03:14:54 2001] Jaxus tells the group, 'Night guys'
+[Thu May 17 03:14:55 2001] Kinther tells the group, 'night peoples'
+[Thu May 17 03:14:55 2001] It will take about 10 more seconds to prepare your camp.
+[Thu May 17 03:14:58 2001] Guaigean tells the group, 'Gnite Esp =)'
+[Thu May 17 03:15:00 2001] It will take about 5 more seconds to prepare your camp.

@@ -1,0 +1,236 @@
+[Sun Dec 09 12:09:26 2001] Welcome to EverQuest!
+[Sun Dec 09 12:09:26 2001] You have entered Sunset Home.
+[Sun Dec 09 12:09:33 2001] Players in EverQuest:
+[Sun Dec 09 12:09:34 2001] ---------------------------
+[Sun Dec 09 12:09:34 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sun Dec 09 12:09:34 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: qeytoqrg (USER PID BUUWN74)
+[Sun Dec 09 12:09:34 2001] * Apprentice Guide *[20 Warrior] Torgoth (Ogre) ZONE: butcher (USER PID GS3LHKY)
+[Sun Dec 09 12:09:34 2001] * Apprentice Guide *[20 Druid] Mawlen (Wood Elf) ZONE: oasis (USER PID DUALYLP)
+[Sun Dec 09 12:09:34 2001] There are 4 players in EverQuest.
+[Sun Dec 09 12:09:42 2001] Kilm GMSAYS, 'zone'
+[Sun Dec 09 12:09:42 2001] You GMSAY, 'she liiiivessssss........'
+[Sun Dec 09 12:09:44 2001] You feel the spirit of Norrath enter you.
+[Sun Dec 09 12:09:56 2001] Players in EverQuest:
+[Sun Dec 09 12:09:56 2001] ---------------------------
+[Sun Dec 09 12:09:56 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: ecommons (USER PID BUUWN74)
+[Sun Dec 09 12:09:56 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sun Dec 09 12:09:56 2001] * Apprentice Guide *[20 Warrior] Torgoth (Ogre) ZONE: butcher (USER PID GS3LHKY)
+[Sun Dec 09 12:09:56 2001] * Apprentice Guide *[20 Druid] Mawlen (Wood Elf) ZONE: oasis (USER PID DUALYLP)
+[Sun Dec 09 12:09:56 2001] There are 4 players in EverQuest.
+[Sun Dec 09 12:10:05 2001] Torgoth GMSAYS, 'we cant do walk outs as of yet right?'
+[Sun Dec 09 12:10:13 2001] Torgoth GMSAYS, 'hey espranza :)'
+[Sun Dec 09 12:10:23 2001] You GMSAY, 'hiya ogre person'
+[Sun Dec 09 12:10:34 2001] Mawlen GMSAYS, 'escalated tressia, friends corpse is stuck in west wastes, text has been appended'
+[Sun Dec 09 12:10:38 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 09 12:10:38 2001] USER TEXT: lytic's corpse stuck in WW I am right there and says it is too far to drag
+[Sun Dec 09 12:10:38 2001] Players in EverQuest:
+[Sun Dec 09 12:10:38 2001] ---------------------------
+[Sun Dec 09 12:10:38 2001] [57 Outrider] Tressia (Wood Elf) <Fury's Edge> ZONE: westwastes (USER PID BYG43EV)
+[Sun Dec 09 12:10:38 2001] There is 1 player in EverQuest.
+[Sun Dec 09 12:10:42 2001] You GMSAY, 'got it'
+[Sun Dec 09 12:10:51 2001] GM TEXT: Mawlen: corpse stuck in western wastes unable to drag "too far away" message given
+[Sun Dec 09 12:11:02 2001] You GMSAY, 'did you ask her to try the corpse command?'
+[Sun Dec 09 12:11:22 2001] Mawlen GMSAYS, 'lol read the append =)  says too far away, he is right next to it'
+[Sun Dec 09 12:11:39 2001] You GMSAY, 'I understand; however, did you ask them to try the /corpse command?'
+[Sun Dec 09 12:11:51 2001] You GMSAY, 'they have added to the functionality of that command'
+[Sun Dec 09 12:12:06 2001] You GMSAY, 'ohhh nm'
+[Sun Dec 09 12:12:12 2001] You GMSAY, 'I see it's implied'
+[Sun Dec 09 12:12:18 2001] You GMSAY, 'zone'
+[Sun Dec 09 12:12:18 2001] Kilm GMSAYS, 'Hi yas Espranza :) '
+[Sun Dec 09 12:12:21 2001] Searching zones for corpse of that name....
+[Sun Dec 09 12:12:21 2001] Mawlen GMSAYS, 'deleted lytic received tell to delete same petition as tressia =)'
+[Sun Dec 09 12:12:32 2001] Searching zones for corpse of that name....
+[Sun Dec 09 12:12:40 2001] You GMSAY, 'I see no corpse for tressia, btw'
+[Sun Dec 09 12:13:15 2001] You told Tressia, 'Hail, Tressia! Guide Espranza here. Are you still having trouble with your corpse? I don't see it....'
+[Sun Dec 09 12:13:27 2001] Tressia tells you, 'yes, it is lytic's corpse I was dragging it'
+[Sun Dec 09 12:13:34 2001] Searching zones for corpse of that name....
+[Sun Dec 09 12:13:34 2001] Corpse: Lytic's corpse0 in zone: mischiefplane
+[Sun Dec 09 12:13:34 2001] Corpse: Lytic's corpse0 in zone: westwastes
+[Sun Dec 09 12:13:43 2001] You told Tressia, 'Ah...'
+[Sun Dec 09 12:13:47 2001] You GMSAY, 'zone'
+[Sun Dec 09 12:13:52 2001] LOADING, PLEASE WAIT...
+[Sun Dec 09 12:14:51 2001] You have entered Western Wastes.
+[Sun Dec 09 12:15:01 2001] Teleporting to lytic's corpse0.
+[Sun Dec 09 12:15:06 2001] Tressia says, 'Hail, Lytic's corpse'
+[Sun Dec 09 12:15:12 2001] Tressia says, 'oops , hail!'
+[Sun Dec 09 12:15:12 2001] Summoning Lytic's corpse0.
+[Sun Dec 09 12:15:16 2001] You say, 'try now'
+[Sun Dec 09 12:15:24 2001] Tressia says, 'thank you!'
+[Sun Dec 09 12:15:29 2001] Tressia hugs Espranza.
+[Sun Dec 09 12:15:31 2001] You say, 'sure thing!'
+[Sun Dec 09 12:15:45 2001] Tressia bows before Espranza.
+[Sun Dec 09 12:15:46 2001] Ralon says out of character, 'anyone near zone that can invis?'
+[Sun Dec 09 12:15:51 2001] Kilm GMSAYS, 'zone'
+[Sun Dec 09 12:15:54 2001] Mawlen GMSAYS, 'escalated meethead spoke with him previously'
+[Sun Dec 09 12:15:54 2001] You GMSAY, 'okay, I moved Lytic's corpse slightly and Tressia was able to drag it again'
+[Sun Dec 09 12:15:57 2001] DELETING THIS PETITION
+[Sun Dec 09 12:16:34 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 09 12:16:35 2001] USER TEXT: i finally got my character logged into loio after petitioning, it worked, but i found myself in the lake and i drowned, and lust much exp
+[Sun Dec 09 12:16:35 2001] Players in EverQuest:
+[Sun Dec 09 12:16:35 2001] ---------------------------
+[Sun Dec 09 12:16:35 2001] [22 Bard] Meethead (Half Elf) ZONE: firiona (USER PID HN4LYTG)
+[Sun Dec 09 12:16:35 2001] There is 1 player in EverQuest.
+[Sun Dec 09 12:16:45 2001] GM TEXT: Mawlen: i spoke with this char, he deleted the name_43.opt file and ended up at bottom of lake in loio and drowned
+[Sun Dec 09 12:16:58 2001] Players in EverQuest:
+[Sun Dec 09 12:16:58 2001] ---------------------------
+[Sun Dec 09 12:16:58 2001] [60 Warlock] Ninala (Dark Elf) <Reviction> ZONE: cobaltscar (USER PID HRW7F7G)
+[Sun Dec 09 12:16:58 2001] [ANON (8 Shadow Knight)] Ninui (Dark Elf) ZONE: nektulos (USER PID DXRY0W2)
+[Sun Dec 09 12:16:58 2001] [33 Monk] Ninnjar (Human) ZONE: permafrost (USER PID ES42APH)
+[Sun Dec 09 12:16:58 2001] There are 3 players in EverQuest.
+[Sun Dec 09 12:17:09 2001] Players in EverQuest:
+[Sun Dec 09 12:17:09 2001] ---------------------------
+[Sun Dec 09 12:17:09 2001] [ANON (54 Wanderer)] Voyager (Wood Elf) ZONE: cobaltscar (USER PID GQQ8EAN)
+[Sun Dec 09 12:17:09 2001] There is 1 player in EverQuest.
+[Sun Dec 09 12:17:32 2001] You GMSAY, 'zone'
+[Sun Dec 09 12:17:36 2001] Mawlen GMSAYS, 'pulling oukmog'
+[Sun Dec 09 12:17:41 2001] Searching zones for corpse of that name....
+[Sun Dec 09 12:17:41 2001] Corpse: Meethead's corpse0 in zone: lakeofillomen
+[Sun Dec 09 12:17:48 2001] LOADING, PLEASE WAIT...
+[Sun Dec 09 12:18:57 2001] You have entered Lake of Ill Omen.
+[Sun Dec 09 12:19:03 2001] Mawlen GMSAYS, 'how come i lost all my goodies, (sandwhciches and alcohol to hand out) when i logged?'
+[Sun Dec 09 12:19:08 2001] You GMSAY, 'no rent'
+[Sun Dec 09 12:19:11 2001] Torgoth GMSAYS, 'no rent'
+[Sun Dec 09 12:19:15 2001] Kilm GMSAYS, 'because they are no rent '
+[Sun Dec 09 12:19:20 2001] Teleporting to meethead's corpse0.
+[Sun Dec 09 12:19:24 2001] Your feet leave the ground.
+[Sun Dec 09 12:19:27 2001] Mawlen GMSAYS, 'aww'
+[Sun Dec 09 12:19:58 2001] You GMSAY, 'meethead's corpse is in the lake, but I see no evidence of a buggy death. Where was he when he logged off?'
+[Sun Dec 09 12:20:03 2001] Ultymo says out of character, 'ledge group looking for more send tells pls'
+[Sun Dec 09 12:20:35 2001] Torgoth GMSAYS, 'zaqkal resolved, deleting'
+[Sun Dec 09 12:20:44 2001] Nyppon says out of character, 'lvl 21 dru lfg'
+[Sun Dec 09 12:20:44 2001] Ultymo says out of character, 'ledge group need 2 tanks and a chanter'
+[Sun Dec 09 12:20:46 2001] Torgoth GMSAYS, 'pulling kysera'
+[Sun Dec 09 12:20:58 2001] Chatranik auctions, 'WTb spider fur belt send tell'
+[Sun Dec 09 12:21:02 2001] Ultymo says out of character, 'come to ledge druid'
+[Sun Dec 09 12:21:16 2001] Mawlen GMSAYS, 'pulling stonaar'
+[Sun Dec 09 12:21:25 2001] You told Torgoth, 'please post a DSR for yesterday when you post today's DSR, after your shift'
+[Sun Dec 09 12:21:29 2001] Ultymo says out of character, 'Wizard 23 lfg'
+[Sun Dec 09 12:22:08 2001] You told Meethead, 'Hail, Meethead! Guide Espranza here. I see your corpse in the lake, but don't see any evidence of a buggy death - where had you logged off?'
+[Sun Dec 09 12:22:14 2001] Chatranik auctions, 'WTb spider fur belt send tell'
+[Sun Dec 09 12:22:40 2001] Torgoth tells you, 'I need some help with that, I've got the report made, is there a specific post in the forum where i should leave it?'
+[Sun Dec 09 12:22:55 2001] You told Torgoth, 'yes; did you get the DSR Posting document I sent you?'
+[Sun Dec 09 12:22:57 2001] Meethead tells you, 'i dont remember, i havent been ont his character in like..one year'
+[Sun Dec 09 12:23:17 2001] Meethead tells you, 'i just recently got help from a gm on how to log onto him (had to delete opt. file)'
+[Sun Dec 09 12:23:25 2001] Ultymo says out of character, 'ledge free'
+[Sun Dec 09 12:23:33 2001] You told Meethead, 'ah... I can't offer you a rez, but as a bard you should have no trouble finding the corpse...'
+[Sun Dec 09 12:23:34 2001] Meethead tells you, 'and when i did log on, i found myself drowning in the lake'
+[Sun Dec 09 12:23:40 2001] Avonlee shouts, 'clarity loc neg 1228, pos 2866'
+[Sun Dec 09 12:23:47 2001] Jaccob shouts, 'need tg pages 30 desperatley ;) will buy also will by practice runes :)'
+[Sun Dec 09 12:23:51 2001] Torgoth tells you, 'I haven't checked my email today, I'll read it when i log out.'
+[Sun Dec 09 12:23:55 2001] Meethead tells you, 'but the goblins will eat me...this isnt fair! = ('
+[Sun Dec 09 12:24:07 2001] You told Torgoth, 'I sent it out with the P&P; I'll send it again, no trouble'
+[Sun Dec 09 12:24:31 2001] You told Meethead, 'the goblins won't trouble you, you're not out nearly that far'
+[Sun Dec 09 12:24:31 2001] Torgoth tells you, 'ok, thanks :)'
+[Sun Dec 09 12:24:43 2001] Meethead tells you, 'u sure?'
+[Sun Dec 09 12:25:10 2001] You told Meethead, 'I didn't see any... it looks like you may have gone LD while running or kiting and ran into the water while LD...'
+[Sun Dec 09 12:25:11 2001] Meethead tells you, 'all that exp...down the drain..'
+[Sun Dec 09 12:25:19 2001] DELETING THIS PETITION
+[Sun Dec 09 12:25:21 2001] Meethead tells you, 'i know what happened'
+[Sun Dec 09 12:25:38 2001] Meethead tells you, 'when i try and log on, im in the game but i cant see myself, it exits to desktop, and i finally fixed that'
+[Sun Dec 09 12:26:00 2001] Meethead tells you, 'cause i got ona  different account and i saw i was in lake of ill omen, (on my other comp)'
+[Sun Dec 09 12:26:06 2001] You told Meethead, 'ah'
+[Sun Dec 09 12:26:26 2001] Tuvina auctions, 'WTB kick-butt druid 1HB weapon....send tell'
+[Sun Dec 09 12:26:38 2001] Chatranik auctions, 'WTB spider fur cloack send tell'
+[Sun Dec 09 12:27:13 2001] Meethead tells you, 'ok...ill trya  nd get it'
+[Sun Dec 09 12:27:34 2001] You told Meethead, 'Meethead is not online at this time.'
+[Sun Dec 09 12:27:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 09 12:27:43 2001] USER TEXT: help looks like im under the world here not sure how that happened /.
+[Sun Dec 09 12:27:43 2001] Players in EverQuest:
+[Sun Dec 09 12:27:43 2001] ---------------------------
+[Sun Dec 09 12:27:43 2001] [52 Cavalier] Daddwud (Dwarf) <Lunacy> ZONE: dawnshroud (USER PID FQ2HSHY)
+[Sun Dec 09 12:27:43 2001] There is 1 player in EverQuest.
+[Sun Dec 09 12:28:06 2001] You told Daddwud, 'Hail, Daddwud! Guide Espranza here. Still lost beneath the world?'
+[Sun Dec 09 12:28:13 2001] Searching for daddwud.
+[Sun Dec 09 12:28:13 2001] Player is in zone dawnshroud at x = -27 y = -1225 z = -175.
+[Sun Dec 09 12:28:15 2001] Mawlen GMSAYS, 'deleting stonaar, resolved'
+[Sun Dec 09 12:28:24 2001] Daddwud tells you, 'yup please summon me lol '
+[Sun Dec 09 12:28:32 2001] You told Daddwud, ';) I'll be right there'
+[Sun Dec 09 12:28:39 2001] You GMSAY, 'zone'
+[Sun Dec 09 12:28:39 2001] Daddwud tells you, 'lol ok thanks '
+[Sun Dec 09 12:29:00 2001] Kilm GMSAYS, 'wow..no pets !!!'
+[Sun Dec 09 12:29:01 2001] You GMSAY, '<note gm> Not sure if Dawn Shroud is a CSR zone, but ah'm-a going there for a beneath the world player'
+[Sun Dec 09 12:29:09 2001] Mawlen GMSAYS, 'we are too good =P'
+[Sun Dec 09 12:29:21 2001] LOADING, PLEASE WAIT...
+[Sun Dec 09 12:30:07 2001] You have entered The Dawnshroud Peaks.
+[Sun Dec 09 12:30:20 2001] Meethead tells you, 'well the bright side is,.... im prolly a great swimmer now = D'
+[Sun Dec 09 12:30:27 2001] You told Meethead, 'heh!'
+[Sun Dec 09 12:30:33 2001] Torgoth GMSAYS, 'yep'
+[Sun Dec 09 12:30:34 2001] Meethead tells you, 'im goin in!'
+[Sun Dec 09 12:30:34 2001] Kilm GMSAYS, 'Dawn Shorud not csr limited Espranza '
+[Sun Dec 09 12:30:34 2001] Teleporting to daddwud.
+[Sun Dec 09 12:30:40 2001] You wave at Daddwud.
+[Sun Dec 09 12:30:50 2001] Teleporting to ivry.
+[Sun Dec 09 12:30:56 2001] Daddwud waves at Espranza.
+[Sun Dec 09 12:31:02 2001] You say, 'hello!'
+[Sun Dec 09 12:31:03 2001] Players on EverQuest:
+[Sun Dec 09 12:31:03 2001] ---------------------------
+[Sun Dec 09 12:31:03 2001] [36 Magician] Teelos (Human) <Blazing Knights>
+[Sun Dec 09 12:31:03 2001] [23 Paladin] Ivri (Half Elf) <Blazing Knights>
+[Sun Dec 09 12:31:03 2001] [55 Defiler] Issuldur (Gnome) <Unbroken Power>
+[Sun Dec 09 12:31:03 2001] [55 Preserver] Babbatomebe (Half Elf) <Unbroken Power>
+[Sun Dec 09 12:31:03 2001] [ANONYMOUS] Armitege  <Unbroken Power>
+[Sun Dec 09 12:31:03 2001] [ANONYMOUS] Metroplex  <Unbroken Power>
+[Sun Dec 09 12:31:03 2001] [52 Rake] Pickk (Halfling) <Lunacy>
+[Sun Dec 09 12:31:03 2001] [51 Cavalier] Cullian (Human) <Lunacy>
+[Sun Dec 09 12:31:03 2001] [52 Cavalier] Daddwud (Dwarf) <Lunacy>
+[Sun Dec 09 12:31:03 2001] [47 Wizard] Ianarie (High Elf) <Lunacy>
+[Sun Dec 09 12:31:03 2001] [45 Ranger] Bartholumu (Wood Elf) <Lunacy>
+[Sun Dec 09 12:31:03 2001] [ANONYMOUS] Darlissa  <Lunacy>
+[Sun Dec 09 12:31:03 2001] [ANONYMOUS] Grappled  <Thunderwalkers>
+[Sun Dec 09 12:31:03 2001] [ANONYMOUS] Keasora  <Lunacy>
+[Sun Dec 09 12:31:03 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sun Dec 09 12:31:03 2001] There are 15 players in Dawnshroud Peaks.
+[Sun Dec 09 12:31:07 2001] Teleporting to ivri.
+[Sun Dec 09 12:31:11 2001] Kilm GMSAYS, 'zone'
+[Sun Dec 09 12:31:14 2001] Mawlen GMSAYS, '/em waits for a pet'
+[Sun Dec 09 12:31:16 2001] Teelos begins to cast a spell. (Invisibility)
+[Sun Dec 09 12:31:17 2001] Summoning daddwud.
+[Sun Dec 09 12:31:21 2001] Teelos fades away.
+[Sun Dec 09 12:31:24 2001] DELETING THIS PETITION
+[Sun Dec 09 12:31:24 2001] Daddwud bows before Espranza.
+[Sun Dec 09 12:31:27 2001] You bow before Daddwud.
+[Sun Dec 09 12:31:37 2001] Daddwud says, 'thank you very much '
+[Sun Dec 09 12:31:42 2001] You say, 'Glad I could help!'
+[Sun Dec 09 12:31:58 2001] Daddwud says, 'what zone am i near '
+[Sun Dec 09 12:32:07 2001] Bartholumu auctions, 'WTB Ry Gorr Armor,  Dorf Work Boots, 4ac 45 HPrings, ARROWS'
+[Sun Dec 09 12:32:07 2001] You feel as if you are about to fall.
+[Sun Dec 09 12:32:09 2001] You say, 'well.... try zoning ;)'
+[Sun Dec 09 12:32:13 2001] You feel as if you are about to fall.
+[Sun Dec 09 12:32:15 2001] Daddwud says, 'duh ok lol '
+[Sun Dec 09 12:32:19 2001] You can no longer levitate.
+[Sun Dec 09 12:32:39 2001] You GMSAY, 'I look yucky in red'
+[Sun Dec 09 12:33:23 2001] You GMSAY, 'but red AND blue... hmm'
+[Sun Dec 09 12:33:49 2001] Teelos fades away.
+[Sun Dec 09 12:33:51 2001] You no longer have a target.
+[Sun Dec 09 12:33:51 2001] Kilm GMSAYS, 'hehe :) I like the naked look these days of us Barbains.. we rock !'
+[Sun Dec 09 12:33:51 2001] You no longer have a target.
+[Sun Dec 09 12:33:51 2001] You no longer have a target.
+[Sun Dec 09 12:34:20 2001] Meethead tells you, 'im scared its dark down here = '
+[Sun Dec 09 12:34:21 2001] Torgoth GMSAYS, 'Esc Kysera-Missing an acrylia slate she had when she logged out'
+[Sun Dec 09 12:34:57 2001] Torgoth GMSAYS, 'naked ogre is a another story, I'll stay out of view for the safety of the population )'
+[Sun Dec 09 12:35:24 2001] You GMSAY, 'zone'
+[Sun Dec 09 12:35:27 2001] LOADING, PLEASE WAIT...
+[Sun Dec 09 12:35:47 2001] You have entered Sunset Home.
+[Sun Dec 09 12:36:08 2001] Meethead tells you, 'hahahha im dumb, i was right by the shore, im so sorry i troubled u'
+[Sun Dec 09 12:36:15 2001] You told Meethead, 'no worries :)'
+[Sun Dec 09 12:36:25 2001] Meethead tells you, 'thanks again = D'
+[Sun Dec 09 12:36:37 2001] Meethead tells you, 'MY MANDOLIN GOT WET!!!! ILL SUE!'
+[Sun Dec 09 12:37:06 2001] You told Meethead, 'oooooh so it's a little warped now. What bard doesn't need to be a little more warped?'
+[Sun Dec 09 12:37:16 2001] Meethead tells you, 'HAHAHA'
+[Sun Dec 09 12:37:25 2001] Meethead tells you, 'dats me = D'
+[Sun Dec 09 12:37:34 2001] You told Meethead, 'I should charge you for improving it'
+[Sun Dec 09 12:37:41 2001] Meethead tells you, 'Meethead McGee!!! w/ the capital G!'
+[Sun Dec 09 12:38:20 2001] You GMSAY, 'well, I promised my kids yesterday I'd take them out places but ended up guiding and playing instead... so today.... I must go'
+[Sun Dec 09 12:38:35 2001] Kilm GMSAYS, 'be safe and have fun :) '
+[Sun Dec 09 12:38:42 2001] You GMSAY, 'be well all!'
+[Sun Dec 09 12:38:47 2001] Torgoth GMSAYS, 'have fun espranza :)'
+[Sun Dec 09 12:38:50 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Dec 09 12:38:53 2001] Mawlen GMSAYS, 'we will miss you espranza!'
+[Sun Dec 09 12:38:54 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Dec 09 12:38:59 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Dec 09 12:39:01 2001] Kilm GMSAYS, 'zone anon and invis'
+[Sun Dec 09 12:39:05 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Dec 09 12:39:05 2001] You GMSAY, 'awww (dries a tear) I'll be around :)'
+[Sun Dec 09 12:39:10 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Dec 09 12:39:15 2001] It will take about 5 more seconds to prepare your camp.
+[Sun Dec 09 12:39:20 2001] Mawlen GMSAYS, 'hehe =)'

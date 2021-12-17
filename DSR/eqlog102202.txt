@@ -1,0 +1,1266 @@
+[Tue Oct 22 19:04:48 2002] Your XML files are not compatible with current EverQuest files, certain windows may not perform correctly.  Use "/loadskin Default 1" to load the EverQuest default skin.
+[Tue Oct 22 19:04:55 2002] Welcome to EverQuest!
+[Tue Oct 22 19:04:55 2002] You have entered Erudin.
+[Tue Oct 22 19:04:58 2002] Autojoining channels...
+[Tue Oct 22 19:04:58 2002] Channels: 1=unc(1)
+[Tue Oct 22 19:05:25 2002] You GMSAY, 'test'
+[Tue Oct 22 19:05:32 2002] Players in EverQuest:
+[Tue Oct 22 19:05:32 2002] ---------------------------
+
+[Tue Oct 22 19:05:32 2002] * Guide *[55 Blackguard] Espranza (Halfling) <Wicked Ravens Watch> ZONE: erudnext (USER PID FUGQSJL) 
+[Tue Oct 22 19:05:32 2002] * Guide *[50 Paladin] Wyndles (Halfling) <Seekers of Power> ZONE: cshome (USER PID AUU9YBJ) 
+[Tue Oct 22 19:05:32 2002] * Apprentice Guide *[ANON (20 Monk)] Tabbor (Iksar) ZONE: cshome (USER PID CPAHD65) 
+[Tue Oct 22 19:05:32 2002] * Apprentice Guide *[20 Magician] Mercusio (Dark Elf)  ZONE: commons (USER PID BX9WARG) 
+[Tue Oct 22 19:05:32 2002] * Apprentice Guide *[20 Wizard] Nilnyar (High Elf)  ZONE: feerrott (USER PID EV6VDD4) 
+[Tue Oct 22 19:05:32 2002] There are 5 players in EverQuest.
+[Tue Oct 22 19:05:34 2002] Nilnyar GMSAYS, 'Yes that is working. :)'
+[Tue Oct 22 19:05:36 2002] Denethir GMSAYS, 'WOOT! Hiya Espranza'
+[Tue Oct 22 19:05:42 2002] Denethir GMSAYS, 'welcome finally!'
+[Tue Oct 22 19:05:42 2002] Mercusio GMSAYS, 'Test is working :-)'
+[Tue Oct 22 19:05:49 2002] Tabbor GMSAYS, 'welcome'
+[Tue Oct 22 19:05:57 2002] You GMSAY, 'phew! and I have my character all nice and set up and in the guild and everything!'
+[Tue Oct 22 19:06:01 2002] You say to your guild, 'this is amazing )'
+[Tue Oct 22 19:06:15 2002] Denethir GMSAYS, 'wow, you're already in House of Zek?'
+[Tue Oct 22 19:06:18 2002] Mercusio GMSAYS, '<note bug> Zepheral (A17FD0T) name of spell changed from Enstill to Instill....possible bug.'
+[Tue Oct 22 19:06:20 2002] You GMSAY, 'this is like where I logged off and everything'
+[Tue Oct 22 19:06:21 2002] Nilnyar GMSAYS, '<note red> *Mremac* is here to have Guild Vindico created,  He has recieve his email.  Esculating to Red'
+[Tue Oct 22 19:06:29 2002] You GMSAY, 'zoning home'
+[Tue Oct 22 19:06:33 2002] Keyoshi tells you, 'Hello. Could you tell me if PoP abilities work outside PoP?'
+[Tue Oct 22 19:06:34 2002] Sentinel Mercutil begins to cast a spell. (Yaulp)
+[Tue Oct 22 19:06:34 2002] Sentinel Belario begins to cast a spell. (Yaulp)
+[Tue Oct 22 19:06:35 2002] Sentinel Belario lets loose a mighty yaulp.
+[Tue Oct 22 19:06:37 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 19:06:50 2002] Your XML files are not compatible with current EverQuest files, certain windows may not perform correctly.  Use "/loadskin Default 1" to load the EverQuest default skin.
+[Tue Oct 22 19:06:59 2002] You have entered Sunset Home.
+[Tue Oct 22 19:07:07 2002] Wyndles GMSAYS, 'Hullo'
+[Tue Oct 22 19:07:16 2002] You GMSAY, 'nice to meet you everyone'
+[Tue Oct 22 19:07:18 2002] Mercusio GMSAYS, 'WOW full house tonight :-)'
+[Tue Oct 22 19:07:22 2002] Nilnyar GMSAYS, 'Greetings Wyndles.'
+[Tue Oct 22 19:07:24 2002] Mercusio GMSAYS, 'Hello to all the new faces :-)'
+[Tue Oct 22 19:07:25 2002] You cheer at Wyndles.
+[Tue Oct 22 19:07:26 2002] Denethir GMSAYS, 'welcome Wyndles!!'
+[Tue Oct 22 19:07:32 2002] Wyndles regards you indifferently -- he would make quite a formidable opponent.
+[Tue Oct 22 19:07:34 2002] Wyndles bows.
+[Tue Oct 22 19:07:42 2002] Denethir GMSAYS, 'good to see two of our new guides about =)'
+[Tue Oct 22 19:07:43 2002] Wyndles says, 'Greetings'
+[Tue Oct 22 19:07:46 2002] Mercusio GMSAYS, 'make sure you are not ANON :-)'
+[Tue Oct 22 19:07:53 2002] You GMSAY, 'what is it with the different guild names?'
+[Tue Oct 22 19:07:58 2002] Could not find player morrel.hexian
+[Tue Oct 22 19:08:00 2002] Wyndles GMSAYS, 'I was just about to ask:)'
+[Tue Oct 22 19:08:07 2002] Mercusio GMSAYS, 'Tabbor.... :-)'
+[Tue Oct 22 19:08:08 2002] Players in EverQuest:
+[Tue Oct 22 19:08:08 2002] ---------------------------
+
+[Tue Oct 22 19:08:08 2002] * Guide *[55 Blackguard] Espranza (Halfling) <Wicked Ravens Watch> ZONE: cshome (USER PID FUGQSJL) 
+[Tue Oct 22 19:08:08 2002] * Guide *[50 Paladin] Wyndles (Halfling) <Seekers of Power> ZONE: cshome (USER PID AUU9YBJ) 
+[Tue Oct 22 19:08:08 2002] * Apprentice Guide *[ANON (20 Monk)] Tabbor (Iksar) ZONE: cshome (USER PID CPAHD65) 
+[Tue Oct 22 19:08:08 2002] * Apprentice Guide *[20 Magician] Mercusio (Dark Elf)  ZONE: commons (USER PID BX9WARG) 
+[Tue Oct 22 19:08:08 2002] * Apprentice Guide *[20 Wizard] Nilnyar (High Elf)  ZONE: feerrott (USER PID EV6VDD4) 
+[Tue Oct 22 19:08:08 2002] There are 5 players in EverQuest.
+[Tue Oct 22 19:08:19 2002] Denethir GMSAYS, 'what guild are you two in?'
+[Tue Oct 22 19:08:26 2002] Wyndles GMSAYS, 'Seekers of Power'
+[Tue Oct 22 19:08:28 2002] You say to your guild, 'I am in Wicked Ravens Watch'
+[Tue Oct 22 19:08:41 2002] Mercusio GMSAYS, 'Taboor NM'
+[Tue Oct 22 19:08:50 2002] Tabbor GMSAYS, 'will do, Merc'
+[Tue Oct 22 19:08:52 2002] Denethir GMSAYS, 'ok, disband from that guild and I will invite you to ours.'
+[Tue Oct 22 19:23:20 2002] Welcome to EverQuest!
+[Tue Oct 22 19:23:20 2002] You have entered Sunset Home.
+[Tue Oct 22 19:23:22 2002] Autojoining channels...
+[Tue Oct 22 19:23:23 2002] Channels: 1=unc(1)
+[Tue Oct 22 19:23:24 2002] It begins to rain.
+[Tue Oct 22 19:23:31 2002] You GMSAY, 'note to self: don't hit 'G''
+[Tue Oct 22 19:23:42 2002] Players on EverQuest:
+[Tue Oct 22 19:23:42 2002] ---------------------------
+[Tue Oct 22 19:23:42 2002] * GM * [50 Paladin] Wyndles (Halfling) <House of Zek>
+[Tue Oct 22 19:23:42 2002] * GM * [55 Blackguard] Espranza (Halfling) <Wicked Ravens Watch>
+[Tue Oct 22 19:23:42 2002] There are 2 players in Sunset Home.
+[Tue Oct 22 19:23:55 2002] Nilnyar GMSAYS, 'Note to Espranza Please hit g.  '
+[Tue Oct 22 19:24:06 2002] You GMSAY, 'last time I did I quit to desktop'
+[Tue Oct 22 19:24:07 2002] Denethir GMSAYS, 'bad appie!'
+[Tue Oct 22 19:24:15 2002] You GMSAY, 'downloaded all the new GUI files though'
+[Tue Oct 22 19:24:23 2002] You GMSAY, 'I'm going in, folks, wish me luck'
+[Tue Oct 22 19:24:28 2002] Nilnyar GMSAYS, 'oh,  that isn't good.  sorry didn't know that'
+[Tue Oct 22 19:24:32 2002] You GMSAY, 'WOOT! Just needed new UI files'
+[Tue Oct 22 19:24:33 2002] Denethir GMSAYS, 'come to me Espranza'
+[Tue Oct 22 19:24:36 2002] You GMSAY, 'zone'
+[Tue Oct 22 19:24:39 2002] Teleporting to denethir.
+[Tue Oct 22 19:24:48 2002] UNDOING CHECK OUT
+[Tue Oct 22 19:24:49 2002] Denethir says, 'disband from guild'
+[Tue Oct 22 19:24:55 2002] Attempting to remove you from the guild...
+[Tue Oct 22 19:24:55 2002] You are no longer a member of Wicked Ravens Watch.
+[Tue Oct 22 19:24:59 2002] Denethir is interested in having you join House of Zek as a member.
+[Tue Oct 22 19:25:20 2002] Espranza pleased, of course, but isn't getting a dialog.
+[Tue Oct 22 19:25:29 2002] You have joined House of Zek.
+[Tue Oct 22 19:25:29 2002] You are now a regular member of the guild.
+[Tue Oct 22 19:25:31 2002] You say to your guild, 'woot'
+[Tue Oct 22 19:25:37 2002] Denethir tells the guild, 'welcome Espranza!'
+[Tue Oct 22 19:25:39 2002] Wyndles tells the guild, 'Welcome:)'
+[Tue Oct 22 19:25:39 2002] Mercusio GMSAYS, 'can one bring "legends" items back to non legends servers?'
+[Tue Oct 22 19:25:39 2002] Nilnyar GMSAYS, '<note unvail> Clairdelune (hqxw9a2) Third and final.  deleting pet.'
+[Tue Oct 22 19:25:40 2002] You say to your guild, 'thanks!'
+[Tue Oct 22 19:25:46 2002] You GMSAY, 'yes, Merc'
+[Tue Oct 22 19:25:50 2002] Mercusio GMSAYS, 'TY'
+[Tue Oct 22 19:26:02 2002] Denethir GMSAYS, 'ok go get em!'
+[Tue Oct 22 19:26:18 2002] Denethir says, 'sorry Tabbor, what was your question?'
+[Tue Oct 22 19:26:29 2002] Tabbor says, 'time sensitive?'
+[Tue Oct 22 19:26:30 2002] You GMSAY, 'go set my *(&#( hotkeys you mean'
+[Tue Oct 22 19:26:32 2002] Tabbor says, 'in referance to the illegal camping/killing?'
+[Tue Oct 22 19:26:53 2002] Nilnyar GMSAYS, 'Bah,  who needs hotkeys. :)'
+[Tue Oct 22 19:27:13 2002] You GMSAY, '<-- needs hotkeys, forgot to copy them from the old MT v1.0 Espranza'
+[Tue Oct 22 19:27:19 2002] Ugloc Drinkbringa says 'Hello there, Espranza. How about a nice Tunic of the Wanderer?'
+[Tue Oct 22 19:27:20 2002] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Tunic of the Wanderer.'
+[Tue Oct 22 19:27:27 2002] Mercusio GMSAYS, '<note delete> Cendin (HR0RJET) traded items to somone with hopes he would get items later.  So far no items returned, but as this trade was done failry no Guide intervention can occur.'
+[Tue Oct 22 19:27:30 2002] Nilnyar GMSAYS, 'ouch'
+[Tue Oct 22 19:27:44 2002] Mercusio GMSAYS, 'aye'
+[Tue Oct 22 19:27:56 2002] You no longer have a target.
+[Tue Oct 22 19:27:56 2002] You no longer have a target.
+[Tue Oct 22 19:27:57 2002] You no longer have a target.
+[Tue Oct 22 19:28:03 2002] Wyndles GMSAYS, 'Is there someone on who can do a guild creation?'
+[Tue Oct 22 19:28:07 2002] Mercusio GMSAYS, '60K and Fungi Tunic, to get an item off of a legends server, and all this was done via email and so forth.....it sucks'
+[Tue Oct 22 19:28:26 2002] Nilnyar GMSAYS, '<note unvail> Second attempt to reach Nikholaus (EXQ6929)'
+[Tue Oct 22 19:28:31 2002] Patchious says 'Greetings, Espranza. You look like you could use a Gloves of the Seas.'
+[Tue Oct 22 19:28:31 2002] Patchious tells you, 'That'll be 0 money for the Tunic of the Seas.'
+[Tue Oct 22 19:28:32 2002] You no longer have a target.
+[Tue Oct 22 19:28:33 2002] You no longer have a target.
+[Tue Oct 22 19:28:56 2002] Al`eik K`vorr says 'Hello there, Espranza. How about a nice Twisted Breastplate of Despair?'
+[Tue Oct 22 19:28:56 2002] Al`eik K`vorr tells you, 'That'll be 0 money for the Twisted Breastplate of Despair.'
+[Tue Oct 22 19:29:02 2002] You no longer have a target.
+[Tue Oct 22 19:29:06 2002] Gailen Sterrelar says 'Hi there Espranza, just browsing?  Have you seen the Sleeves of the Mediator I just got in?'
+[Tue Oct 22 19:29:06 2002] Gailen Sterrelar tells you, 'That'll be 0 money for the Fired Breastplate of Honor.'
+[Tue Oct 22 19:29:10 2002] You no longer have a target.
+[Tue Oct 22 19:29:17 2002] Gailen Sterrelar says 'Hi there Espranza, just browsing?  Have you seen the Fired Helm of Honor I just got in?'
+[Tue Oct 22 19:29:17 2002] Gailen Sterrelar tells you, 'That'll be 0 money for the Fired Breastplate of Honor.'
+[Tue Oct 22 19:29:20 2002] Gailen Sterrelar tells you, 'That'll be 0 money for the Chestguard of the Mediator.'
+[Tue Oct 22 19:29:22 2002] You give 0 money to Gailen Sterrelar.
+[Tue Oct 22 19:29:23 2002] Gailen Sterrelar tells you, 'That'll be 0 money for the Leggings of the Mediator.'
+[Tue Oct 22 19:29:25 2002] You give 0 money to Gailen Sterrelar.
+[Tue Oct 22 19:29:27 2002] Gailen Sterrelar tells you, 'That'll be 0 money for the Sleeves of the Mediator.'
+[Tue Oct 22 19:29:28 2002] You give 0 money to Gailen Sterrelar.
+[Tue Oct 22 19:29:29 2002] Gailen Sterrelar tells you, 'That'll be 0 money for the Gloves of the Mediator.'
+[Tue Oct 22 19:29:30 2002] You give 0 money to Gailen Sterrelar.
+[Tue Oct 22 19:29:31 2002] Gailen Sterrelar tells you, 'That'll be 0 money for the Wristguard of the Mediator.'
+[Tue Oct 22 19:29:32 2002] You give 0 money to Gailen Sterrelar.
+[Tue Oct 22 19:29:33 2002] Gailen Sterrelar tells you, 'That'll be 0 money for the Boots of the Mediator.'
+[Tue Oct 22 19:29:35 2002] You give 0 money to Gailen Sterrelar.
+[Tue Oct 22 19:29:38 2002] You no longer have a target.
+[Tue Oct 22 19:29:40 2002] You no longer have a target.
+[Tue Oct 22 19:30:35 2002] You no longer have a target.
+[Tue Oct 22 19:30:51 2002] You no longer have a target.
+[Tue Oct 22 19:31:13 2002] You feel the spirit of Norrath enter you.
+[Tue Oct 22 19:31:20 2002] Your feet leave the ground.
+[Tue Oct 22 19:31:33 2002] Nilnyar GMSAYS, '<note issue> Wanted to know how to get the alarm back after makring it to not show.  I told him you have to go and edit the eqclient.ini file.'
+[Tue Oct 22 19:31:58 2002] Players in EverQuest:
+[Tue Oct 22 19:31:58 2002] ---------------------------
+
+[Tue Oct 22 19:31:58 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Tue Oct 22 19:31:58 2002] * Guide *[50 Paladin] Wyndles (Halfling) <House of Zek> ZONE: cshome (USER PID AUU9YBJ) 
+[Tue Oct 22 19:31:58 2002] * Apprentice Guide *[ANON (20 Monk)] Tabbor (Iksar) ZONE: cshome (USER PID CPAHD65) 
+[Tue Oct 22 19:31:58 2002] * Apprentice Guide *[20 Magician] Mercusio (Dark Elf)  ZONE: commons (USER PID BX9WARG) 
+[Tue Oct 22 19:31:58 2002] * Apprentice Guide *[20 Wizard] Nilnyar (High Elf)  ZONE: rathemtn (USER PID EV6VDD4) 
+[Tue Oct 22 19:31:58 2002] There are 5 players in EverQuest.
+[Tue Oct 22 19:33:04 2002] You feel the spirit of Z surround you.
+[Tue Oct 22 19:33:15 2002] You say to your guild, 'lol.. I still had my buffs from before...'
+[Tue Oct 22 19:33:23 2002] You say to your guild, 'creepy, that's what it is'
+[Tue Oct 22 19:33:45 2002] You no longer have a target.
+[Tue Oct 22 19:33:45 2002] You no longer have a target.
+[Tue Oct 22 19:33:55 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:33:56 2002] USER TEXT: got some people xploiting some mobs in katta near where i am
+[Tue Oct 22 19:33:56 2002] GM TEXT: Nilnyar: did not contact
+[Tue Oct 22 19:33:56 2002] Players in EverQuest:
+[Tue Oct 22 19:33:56 2002] ---------------------------
+
+[Tue Oct 22 19:33:56 2002] [60 Savage Lord] Angwe (Troll) <Lex Invictus> ZONE: wakening (USER PID AU7A7SP) 
+[Tue Oct 22 19:33:56 2002] There is 1 player in EverQuest.
+[Tue Oct 22 19:33:59 2002] Denethir tells the guild, 'lol'
+[Tue Oct 22 19:34:12 2002] Mercusio GMSAYS, 'Ok Cendin is not letting up on his trade issue he is interfering with my other pets, what can I do?'
+[Tue Oct 22 19:34:13 2002] You GMSAY, 'hidden for investigation, omw to Katta'
+[Tue Oct 22 19:34:15 2002] Denethir tells the guild, 'you were put in a state of suspended animation'
+[Tue Oct 22 19:34:19 2002] Mercusio GMSAYS, 'go get em'
+[Tue Oct 22 19:34:30 2002] You say to your guild, 'aw FUG I can't hide through zoning anymore'
+[Tue Oct 22 19:34:33 2002] You say to your guild, 'dangit'
+[Tue Oct 22 19:34:33 2002] Wyndles GMSAYS, '<note unavail> Genadyn (B4YKWD2) UAx1'
+[Tue Oct 22 19:34:36 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 19:34:41 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 19:35:26 2002] You have entered Katta Castellum.
+[Tue Oct 22 19:35:29 2002] Denethir GMSAYS, 'Merc, have a full guide talk to him'
+[Tue Oct 22 19:35:32 2002] Espranza is now Invisible.
+[Tue Oct 22 19:35:32 2002] You are now anonymous.
+[Tue Oct 22 19:35:46 2002] Players in EverQuest:
+[Tue Oct 22 19:35:46 2002] ---------------------------
+
+[Tue Oct 22 19:35:46 2002] [60 Savage Lord] Angwe (Troll) <Lex Invictus> ZONE: wakening (USER PID AU7A7SP) 
+[Tue Oct 22 19:35:46 2002] There is 1 player in EverQuest.
+[Tue Oct 22 19:35:47 2002] Mercusio GMSAYS, 'ok'
+[Tue Oct 22 19:36:00 2002] Nilnyar GMSAYS, '<note Unvail> Whitedust H3RJWNN Is unvail first attempt'
+[Tue Oct 22 19:36:03 2002] Players on EverQuest:
+[Tue Oct 22 19:36:03 2002] ---------------------------
+[Tue Oct 22 19:36:03 2002] [ANONYMOUS] Phaon  <Quintessence Revival>
+[Tue Oct 22 19:36:03 2002] [ANONYMOUS] Daylorex 
+[Tue Oct 22 19:36:03 2002] [ANONYMOUS] Dyon 
+[Tue Oct 22 19:36:03 2002] There are 3 players in Katta Castellum.
+[Tue Oct 22 19:36:03 2002] You told Angwe, 'Hail, Angwe! Guide Espranza here. Who was exploiting, and how?'
+[Tue Oct 22 19:36:09 2002] Teleporting to phaon.
+[Tue Oct 22 19:36:42 2002] Angwe tells you, 'got it taken care of, if hes still there hes near the graveyard in katta in the corner of a building'
+[Tue Oct 22 19:36:46 2002] Phaon begins to cast a spell. (Winged Death)
+[Tue Oct 22 19:36:52 2002] You told Angwe, 'who was it?'
+[Tue Oct 22 19:36:53 2002] Phaon begins to cast a spell. (Drones of Doom)
+[Tue Oct 22 19:37:00 2002] Angwe tells you, 'dyon or zajust'
+[Tue Oct 22 19:37:07 2002] You told Angwe, 'what were they doing?'
+[Tue Oct 22 19:37:09 2002] Players on EverQuest:
+[Tue Oct 22 19:37:09 2002] ---------------------------
+[Tue Oct 22 19:37:09 2002] [ANONYMOUS] Phaon  <Quintessence Revival>
+[Tue Oct 22 19:37:09 2002] [ANONYMOUS] Daylorex 
+[Tue Oct 22 19:37:09 2002] [ANONYMOUS] Dyon 
+[Tue Oct 22 19:37:09 2002] There are 3 players in Katta Castellum.
+[Tue Oct 22 19:37:12 2002] Teleporting to dyon.
+[Tue Oct 22 19:37:24 2002] Nilnyar GMSAYS, 'rofl,  funny,  the Skellies in Rathe mountain are showing feet.'
+[Tue Oct 22 19:37:29 2002] Angwe tells you, 'running into the corner and the mobs wouldnt follow, or running behind that guilding and they would get stuck'
+[Tue Oct 22 19:37:35 2002] Dyon begins to cast a spell. (Drones of Doom)
+[Tue Oct 22 19:37:38 2002] Angwe tells you, 'building*'
+[Tue Oct 22 19:37:42 2002] Legionnaire Tarautas says 'For the good of the empire you shall be punished for your crimes!'
+[Tue Oct 22 19:37:43 2002] Legionnaire Ioces is engulfed by a swarm.
+[Tue Oct 22 19:37:43 2002] Dyon begins to cast a spell. (Drifting Death)
+[Tue Oct 22 19:37:48 2002] You told Angwe, 'thanks for the report'
+[Tue Oct 22 19:37:49 2002] Legionnaire Ioces is engulfed by a swarm.
+[Tue Oct 22 19:37:55 2002] You say to your guild, 'okay this guy is definitely exploiting'
+[Tue Oct 22 19:37:59 2002] Angwe tells you, 'they got me killed doing it:('
+[Tue Oct 22 19:38:02 2002] Dyon begins to cast a spell. (Drones of Doom)
+[Tue Oct 22 19:38:10 2002] Legionnaire Tarautas is engulfed by a swarm.
+[Tue Oct 22 19:38:11 2002] Dyon begins to cast a spell. (Drifting Death)
+[Tue Oct 22 19:38:16 2002] Legionnaire Tarautas is engulfed by a swarm.
+[Tue Oct 22 19:38:16 2002] Dyon begins to cast a spell. (Lightning Strike)
+[Tue Oct 22 19:38:17 2002] You GMSAY, 'killing some mobs'
+[Tue Oct 22 19:38:22 2002] Denethir tells the guild, 'bust him then. we like busting sploiters here!'
+[Tue Oct 22 19:38:23 2002] Killing Legionnaire_Tarautas00.
+[Tue Oct 22 19:38:26 2002] Killing Legionnaire_Micon00.
+[Tue Oct 22 19:38:29 2002] Killing Legionnaire_Ioces00.
+[Tue Oct 22 19:38:35 2002] Espranza is now Visible.
+[Tue Oct 22 19:38:37 2002] You say, 'Hail'
+[Tue Oct 22 19:38:40 2002] You no longer have a target.
+[Tue Oct 22 19:38:43 2002] Dyon says, 'Hail'
+[Tue Oct 22 19:38:43 2002] You are no longer anonymous.
+[Tue Oct 22 19:38:53 2002] Mercusio GMSAYS, '<note bug> Icekeepa (GS7YWG3)  petitioned for his friend Leex  he is having tech issues.  I refered him to website for tech help.'
+[Tue Oct 22 19:39:04 2002] You say, 'were you aware that getting NPCs stuck in buildings and like and killing them like is exploitation?'
+[Tue Oct 22 19:39:11 2002] Players in EverQuest:
+[Tue Oct 22 19:39:11 2002] ---------------------------
+
+[Tue Oct 22 19:39:11 2002] [ANON (51 Wanderer)] Dyon (Human) ZONE: katta (USER PID CTHV4JU) 
+[Tue Oct 22 19:39:11 2002] There is 1 player in EverQuest.
+[Tue Oct 22 19:39:20 2002] Dyon says, 'no i thought it was fine  to use ur environtment'
+[Tue Oct 22 19:39:36 2002] You say, 'Not in this way it isn't, no.'
+[Tue Oct 22 19:40:25 2002] Wyndles GMSAYS, 'are there level limits for entering the Plane of Knowledge?'
+[Tue Oct 22 19:40:29 2002] You say, 'I'm going to issue a warning for you about this. A warning is just what it sounds like - but if you continue to do this, it could lead to harsher penalties.'
+[Tue Oct 22 19:40:34 2002] You GMSAY, 'I'd imagine level 46'
+[Tue Oct 22 19:40:46 2002] You say, 'so, please don't...'
+[Tue Oct 22 19:40:56 2002] Dyon says, 'hmm ok, but its not like im not taking damage, as u just saw, i almost died'
+[Tue Oct 22 19:41:21 2002] Dyon says, 'ok np, i wont use the buildings anymore'
+[Tue Oct 22 19:41:24 2002] Soul Mark added to file successfully.
+[Tue Oct 22 19:41:31 2002] You say, 'you only took damage trying to get them into position.'
+[Tue Oct 22 19:41:39 2002] You say, 'thank you for your understanding!'
+[Tue Oct 22 19:41:47 2002] You bow before Dyon.
+[Tue Oct 22 19:41:52 2002] Dyon says, 'yea np'
+[Tue Oct 22 19:41:55 2002] You say, 'Be well, and safe journey to you.'
+[Tue Oct 22 19:41:57 2002] You wave goodbye to Dyon.
+[Tue Oct 22 19:42:02 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 19:42:02 2002] Dyon says, 'u too'
+[Tue Oct 22 19:42:06 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 19:42:29 2002] You have entered Sunset Home.
+[Tue Oct 22 19:42:30 2002] Nilnyar GMSAYS, '<note issue> *Majorwager* did a report while on Jabbin about Twinz swearing.  Twinz is not online now.  '
+[Tue Oct 22 19:42:41 2002] Wyndles GMSAYS, 'I had heard it is any level for the plane of knowledge, but past that YOu had to be the traditional 46'
+[Tue Oct 22 19:42:43 2002] Players in EverQuest:
+[Tue Oct 22 19:42:43 2002] ---------------------------
+
+[Tue Oct 22 19:42:43 2002] [ANON (51 Wanderer)] Dyon (Human) ZONE: katta (USER PID CTHV4JU) 
+[Tue Oct 22 19:42:43 2002] There is 1 player in EverQuest.
+[Tue Oct 22 19:43:16 2002] Nilnyar GMSAYS, 'aye beleive that is the case Wyndles.'
+[Tue Oct 22 19:43:22 2002] You GMSAY, '<note warn> Dyon CTHV4JU using the landscape to trap NPCs in a place they could not get out of, then killing them at his leisure. Warned him.'
+[Tue Oct 22 19:43:39 2002] You GMSAY, '<note> Killed three Legionnaires in Katta to prevent them from giving experience to an exploiter.'
+[Tue Oct 22 19:43:57 2002] Mercusio GMSAYS, 'WOW Espranza Security on the job :-)'
+[Tue Oct 22 19:43:58 2002] Nilnyar GMSAYS, 'Go gettem Espranza'
+[Tue Oct 22 19:44:22 2002] Nilnyar GMSAYS, '<note unvail> Third attempt not online deleting petition.'
+[Tue Oct 22 19:44:34 2002] DELETING THIS PETITION
+[Tue Oct 22 19:44:37 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:44:38 2002] USER TEXT: i wsh to have my surname changed to casino
+[Tue Oct 22 19:44:38 2002] GM TEXT: Mercusio: Wishes new surname to be Casino
+[Tue Oct 22 19:44:38 2002] Players in EverQuest:
+[Tue Oct 22 19:44:38 2002] ---------------------------
+
+[Tue Oct 22 19:44:38 2002] [ANON (20 Ranger)] Sarlaorn (Human) ZONE: bazaar (USER PID EZL8YCV) 
+[Tue Oct 22 19:44:38 2002] There is 1 player in EverQuest.
+[Tue Oct 22 19:44:49 2002] Players in EverQuest:
+[Tue Oct 22 19:44:49 2002] ---------------------------
+
+[Tue Oct 22 19:44:49 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 19:45:02 2002] Mercusio GMSAYS, 'afk need water :-)'
+[Tue Oct 22 19:45:06 2002] You GMSAY, 'esc Sarlaorn to red - surbane change request'
+[Tue Oct 22 19:45:10 2002] You GMSAY, 'surname...'
+[Tue Oct 22 19:45:14 2002] STATUS UPGRADED TO EMERGENCY
+[Tue Oct 22 19:45:19 2002] CHECKING IN
+[Tue Oct 22 19:45:25 2002] Tabbor GMSAYS, 'as a Guide, you don't have the need for food/water, Merc.  hehe'
+[Tue Oct 22 19:45:44 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:45:44 2002] USER TEXT: exploiters in teh pit in Cdok
+[Tue Oct 22 19:45:44 2002] GM TEXT: Mercusio: escalating for investigation
+[Tue Oct 22 19:45:44 2002] Players in EverQuest:
+[Tue Oct 22 19:45:44 2002] ---------------------------
+
+[Tue Oct 22 19:45:44 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 19:45:48 2002] Denethir GMSAYS, 'can you make surnames yellow please Espranza'
+[Tue Oct 22 19:45:54 2002] Mercusio GMSAYS, 'LOL'
+[Tue Oct 22 19:45:56 2002] Nilnyar GMSAYS, 'Don't tell him that,  we were not letting him know about that'
+[Tue Oct 22 19:46:02 2002] You GMSAY, 'oh... has policy changed?'
+[Tue Oct 22 19:46:07 2002] Wyndles GMSAYS, 'Denethir do you know if there is a level  limit on the Plane of Knowledge?'
+[Tue Oct 22 19:46:12 2002] UNDOING CHECK OUT
+[Tue Oct 22 19:46:17 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:46:17 2002] USER TEXT: i wsh to have my surname changed to casino
+[Tue Oct 22 19:46:17 2002] GM TEXT: Mercusio: Wishes new surname to be Casino
+[Tue Oct 22 19:46:17 2002] Players in EverQuest:
+[Tue Oct 22 19:46:17 2002] ---------------------------
+
+[Tue Oct 22 19:46:17 2002] [ANON (20 Ranger)] Sarlaorn (Human) ZONE: bazaar (USER PID EZL8YCV) 
+[Tue Oct 22 19:46:17 2002] There is 1 player in EverQuest.
+[Tue Oct 22 19:46:19 2002] STATUS DOWNGRADED TO URGENT
+[Tue Oct 22 19:46:20 2002] CHECKING IN
+[Tue Oct 22 19:46:37 2002] Nilnyar GMSAYS, 'I saw a level 24 up there on my play account'
+[Tue Oct 22 19:46:42 2002] You GMSAY, 'Sarlaorn descalated back to yellow, surname change needed'
+[Tue Oct 22 19:46:48 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:46:49 2002] USER TEXT: exploiters in teh pit in Cdok
+[Tue Oct 22 19:46:49 2002] GM TEXT: Mercusio: escalating for investigation
+[Tue Oct 22 19:46:49 2002] Players in EverQuest:
+[Tue Oct 22 19:46:49 2002] ---------------------------
+
+[Tue Oct 22 19:46:49 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 19:46:52 2002] Denethir GMSAYS, 'I don't think so for PoK'
+[Tue Oct 22 19:47:08 2002] You GMSAY, 'Kerby unavail x2'
+[Tue Oct 22 19:47:12 2002] CHECKING IN
+[Tue Oct 22 19:47:14 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:47:15 2002] USER TEXT: i just lost 33 pp to a pvp battle cause of the /pet kill , and then i anulled him and my pet popped !~!~!~!~!
+[Tue Oct 22 19:47:15 2002] GM TEXT: Mercusio: user not online 21:38 EST<BR>Nilnyar: unvail 22:22est
+[Tue Oct 22 19:47:15 2002] Players in EverQuest:
+[Tue Oct 22 19:47:15 2002] ---------------------------
+
+[Tue Oct 22 19:47:15 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 19:48:28 2002] You GMSAY, 'Sinard unavail x3 --poof--'
+[Tue Oct 22 19:48:32 2002] DELETING THIS PETITION
+[Tue Oct 22 19:48:34 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:48:34 2002] USER TEXT: i was playing my gylen and had people over and now my character has been deleted
+[Tue Oct 22 19:48:34 2002] GM TEXT: 
+[Tue Oct 22 19:48:35 2002] Players in EverQuest:
+[Tue Oct 22 19:48:35 2002] ---------------------------
+
+[Tue Oct 22 19:48:35 2002] [ANON (1 Paladin)] Gylenx (Human) ZONE: qeynos (USER PID GP54ZEX) 
+[Tue Oct 22 19:48:35 2002] There is 1 player in EverQuest.
+[Tue Oct 22 19:48:36 2002] Mercusio GMSAYS, '<note yellow> Darkwillor (G0H6F3D) wishes to change his bad name from iwanttodrinkurblodd    to Souleater.'
+[Tue Oct 22 19:48:45 2002] Mercusio GMSAYS, 'afk :-)'
+[Tue Oct 22 19:48:51 2002] You GMSAY, 'phrases are allowed in names )'
+[Tue Oct 22 19:49:08 2002] Wyndles GMSAYS, 'Zoning:)'
+[Tue Oct 22 19:49:34 2002] Nilnyar GMSAYS, '<note issue> *reval* had a question on AA points and when he could train the next levels.'
+[Tue Oct 22 19:49:34 2002] You GMSAY, 'GM expected on tonight?'
+[Tue Oct 22 19:49:44 2002] Denethir GMSAYS, 'at some stage hopefully'
+[Tue Oct 22 19:49:48 2002] You GMSAY, 'k'
+[Tue Oct 22 19:50:28 2002] You told Gylenx, 'Hail, Gylenx! Guide Espranza here. Did someone delete your character while you weren't looking?'
+[Tue Oct 22 19:50:51 2002] Gylenx tells you, 'no i had people over they also played eq friends of my lil brother'
+[Tue Oct 22 19:51:02 2002] Shiel GMSAYS, 'Hail TZ, Guide Shiel here, At your Service, MEOW'
+[Tue Oct 22 19:51:09 2002] Gylenx tells you, 'then i load up my characters few days later my charaacters is gone'
+[Tue Oct 22 19:51:20 2002] Shiel GMSAYS, '<note> in 21'
+[Tue Oct 22 19:51:31 2002] Denethir GMSAYS, 'hiya Shiel'
+[Tue Oct 22 19:51:32 2002] Nilnyar GMSAYS, 'Greetings Shiel. :)'
+[Tue Oct 22 19:51:37 2002] Wyndles GMSAYS, 'Greetings Shiel:)'
+[Tue Oct 22 19:51:54 2002] You told Gylenx, 'Okay, I'm going to escalate your petition to the attention of a GM, as only they can restore deleted characters. About how long ago did this happen?'
+[Tue Oct 22 19:51:55 2002] Wyndles GMSAYS, 'Zoning'
+[Tue Oct 22 19:51:57 2002] You GMSAY, 'Hi Shiel!'
+[Tue Oct 22 19:51:59 2002] Tabbor GMSAYS, 'hi Shiel'
+[Tue Oct 22 19:52:03 2002] Shiel GMSAYS, 'so sorry Im late.. my video driver lost its mind'
+[Tue Oct 22 19:52:18 2002] Gylenx tells you, '4 or more days i thiink not too sure'
+[Tue Oct 22 19:52:25 2002] Nilnyar GMSAYS, '*grin*'
+[Tue Oct 22 19:52:27 2002] Mercusio GMSAYS, 'hello bak and hello Shiel and I have water muahahahahahahah'
+[Tue Oct 22 19:52:33 2002] You told Gylenx, 'but not more than a week...'
+[Tue Oct 22 19:52:53 2002] Gylenx tells you, 'maybe not sure i havent been on for days'
+[Tue Oct 22 19:53:08 2002] Mercusio GMSAYS, '<note delete> Nikholaus (EXQ6929) not online X3  deleting'
+[Tue Oct 22 19:53:12 2002] GM Text added:  Espranza: Accidentally deleted his character Gylen between four days and a week ago.
+[Tue Oct 22 19:53:18 2002] STATUS UPGRADED TO URGENT
+[Tue Oct 22 19:53:18 2002] STATUS UPGRADED TO EMERGENCY
+[Tue Oct 22 19:53:19 2002] Shiel rubs in circles around Espranza 's legs and purrs loudly.
+[Tue Oct 22 19:53:19 2002] Wyndles GMSAYS, 'Sure sure, I bet the driver has a different story'
+[Tue Oct 22 19:53:36 2002] You GMSAY, 'esc Gylenx, accidentally deleted a character'
+[Tue Oct 22 19:53:37 2002] CHECKING IN
+[Tue Oct 22 19:53:48 2002] Shiel GMSAYS, 'how you doing Wyndles?'
+[Tue Oct 22 19:53:58 2002] Wyndles GMSAYS, 'Doing well and yourself?'
+[Tue Oct 22 19:54:02 2002] Wyndles GMSAYS, 'zoning'
+[Tue Oct 22 19:54:28 2002] You told Gylenx, 'Okay, expect to hear from a GM soon. If one doesn't contact you before you log tonight, please re-petition tomorrow, or use the Contact Your GM link on the main www.everquestlive.com site.'
+[Tue Oct 22 19:54:35 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:54:37 2002] USER TEXT: is iwanttodrinkurblood a alright surname?
+[Tue Oct 22 19:54:37 2002] GM TEXT: Mercusio: not valid surname<BR>Mercusio: Wishes new surname to be Souleater  ( he is necro so I think this is good)
+[Tue Oct 22 19:54:37 2002] Players in EverQuest:
+[Tue Oct 22 19:54:37 2002] ---------------------------
+
+[Tue Oct 22 19:54:37 2002] [ANON (19 Necromancer)] Darkwillor (Dark Elf) ZONE: oasis (USER PID G0H6F3D) 
+[Tue Oct 22 19:54:37 2002] There is 1 player in EverQuest.
+[Tue Oct 22 19:54:43 2002] UNDOING CHECK OUT
+[Tue Oct 22 19:54:50 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:54:51 2002] USER TEXT: my guy is bugged
+[Tue Oct 22 19:54:51 2002] GM TEXT: Nilnyar: unvail (h3rjwnn)
+[Tue Oct 22 19:54:51 2002] Players in EverQuest:
+[Tue Oct 22 19:54:51 2002] ---------------------------
+
+[Tue Oct 22 19:54:51 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 19:55:00 2002] GM Text added:  Espranza: unavail
+[Tue Oct 22 19:55:02 2002] Gylenx tells you, 'i did use a contact gm too thanks'
+[Tue Oct 22 19:55:05 2002] Mercusio GMSAYS, '<note yellow> Genadyn (B4YKWD2) wishes surname removed.'
+[Tue Oct 22 19:55:15 2002] Nilnyar GMSAYS, '<note red> *mariemer* cannot seem to get his Monk Kamakazze to log on in GFAY.  all his other charactes can log on.'
+[Tue Oct 22 19:55:32 2002] You told Gylenx, 'okies - good luck, safe journey, and I look forward to seeing Gaylen back safely'
+[Tue Oct 22 19:55:48 2002] You GMSAY, 'Whitedust unavail x2'
+[Tue Oct 22 19:55:51 2002] CHECKING IN
+[Tue Oct 22 19:55:52 2002] Shiel GMSAYS, 'can he log other characters into Gfay>'
+[Tue Oct 22 19:55:53 2002] Gylenx tells you, 'heheh u mean gylen'
+[Tue Oct 22 19:55:54 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:55:54 2002] USER TEXT: I would like to change my surname.
+[Tue Oct 22 19:55:54 2002] GM TEXT: Mercusio: not online 22:53 EST
+[Tue Oct 22 19:55:55 2002] Players in EverQuest:
+[Tue Oct 22 19:55:55 2002] ---------------------------
+
+[Tue Oct 22 19:55:55 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 19:55:56 2002] Shiel GMSAYS, '?'
+[Tue Oct 22 19:56:13 2002] You told Gylenx, 'LOL! SORRY! yes :)'
+[Tue Oct 22 19:56:17 2002] Shiel GMSAYS, 'Nil'
+[Tue Oct 22 19:56:32 2002] Gylenx tells you, '=)'
+[Tue Oct 22 19:56:45 2002] Nilnyar GMSAYS, 'Sorry,  yes all his other characters work. notated in pet also that info'
+[Tue Oct 22 19:56:48 2002] It is 6 PM on Wednesday, the 11th day of August, of the year 3181.
+[Tue Oct 22 19:56:48 2002] Earth Time: Tue Oct 22 19:56:48 2002
+[Tue Oct 22 19:57:03 2002] You GMSAY, 'Rydd unavail x2'
+[Tue Oct 22 19:57:07 2002] CHECKING IN
+[Tue Oct 22 19:57:16 2002] Shiel GMSAYS, 'ok tell him to delete that character's files from his hard drive adn get new ones from the patcher.. that should fix it'
+[Tue Oct 22 19:57:21 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:57:21 2002] USER TEXT: Can i delete my surname
+[Tue Oct 22 19:57:21 2002] GM TEXT: Mercusio: remove surname
+[Tue Oct 22 19:57:22 2002] Players in EverQuest:
+[Tue Oct 22 19:57:22 2002] ---------------------------
+
+[Tue Oct 22 19:57:22 2002] [23 Ranger] Genadyn (Wood Elf)  ZONE: poknowledge (USER PID B4YKWD2) 
+[Tue Oct 22 19:57:22 2002] There is 1 player in EverQuest.
+[Tue Oct 22 19:57:24 2002] UNDOING CHECK OUT
+[Tue Oct 22 19:57:59 2002] You feel the spirit of Norrath enter you.
+[Tue Oct 22 19:57:59 2002] Your feet leave the ground.
+[Tue Oct 22 19:58:05 2002] Mercusio GMSAYS, '<note delete> Whitedust (H3RJWNN) not online X3'
+[Tue Oct 22 19:58:15 2002] Denethir says, 'otherwise just refer them to tech support'
+[Tue Oct 22 19:58:17 2002] Nilnyar GMSAYS, 'OK I will do that soon as I get this pet finished.'
+[Tue Oct 22 19:58:19 2002] Tabbor says, 'but otherwise, refer them to tech support via phone or webpage?'
+[Tue Oct 22 19:58:21 2002] Tabbor says, 'roger'
+[Tue Oct 22 19:58:38 2002] Denethir says, 'you could also ask in /pr if anyone can help'
+[Tue Oct 22 19:58:44 2002] Shiel GMSAYS, 'zone'
+[Tue Oct 22 19:58:48 2002] Espranza notices that Denethir looks just like a male version of her play rogue in kitty form.
+[Tue Oct 22 19:59:02 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 19:59:03 2002] USER TEXT: Hi, I just died in Plane of Innovation -- right at the zone , I think my corpse is stuck in the walls
+[Tue Oct 22 19:59:03 2002] GM TEXT: 
+[Tue Oct 22 19:59:03 2002] Players in EverQuest:
+[Tue Oct 22 19:59:03 2002] ---------------------------
+
+[Tue Oct 22 19:59:03 2002] [ANON (59 Beguiler)] Marc (Dark Elf) ZONE: poinnovation (USER PID FQCV2MC) 
+[Tue Oct 22 19:59:03 2002] There is 1 player in EverQuest.
+[Tue Oct 22 19:59:14 2002] Nilnyar GMSAYS, 'any suggestions on someone who has PoP enabled but will not let him into the plane of Knowleddge'
+[Tue Oct 22 19:59:21 2002] Mercusio GMSAYS, '<note delete> Ryddaelenn (FYZPCM0) wishes to change surname...not online..will post a removal of surname request to site.'
+[Tue Oct 22 19:59:22 2002] You GMSAY, 'did they register it?'
+[Tue Oct 22 19:59:30 2002] Nilnyar GMSAYS, 'says he did.'
+[Tue Oct 22 19:59:34 2002] You GMSAY, 'or just install it'
+[Tue Oct 22 20:00:07 2002] Searching zones for corpse of that name....
+[Tue Oct 22 20:00:07 2002] Corpse: Marcidar's corpse0 in zone: nurga
+[Tue Oct 22 20:00:07 2002] Corpse: Marc's corpse0 in zone: poinnovation
+[Tue Oct 22 20:00:30 2002] You GMSAY, 'Marc says his corpse stuck in the wall in Innovation - okay to go up and take a look?'
+[Tue Oct 22 20:00:42 2002] Wyndles GMSAYS, '<note bug> *Nandine* reported having problems crashing to desktop when trying to camp to the character select screen, made bug report'
+[Tue Oct 22 20:00:45 2002] Espranza saved.
+[Tue Oct 22 20:00:56 2002] Nilnyar GMSAYS, 'Said he registered,   and it shows that ll expansions are enabled.'
+[Tue Oct 22 20:01:01 2002] Shiel GMSAYS, 'ok with me Esparanza'
+[Tue Oct 22 20:01:09 2002] Players in EverQuest:
+[Tue Oct 22 20:01:09 2002] ---------------------------
+
+[Tue Oct 22 20:01:09 2002] * Guide *[54 Minstrel] Shiel (Vah Shir) <House of Zek> ZONE: rivervale (USER PID H36Y9UZ) 
+[Tue Oct 22 20:01:09 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:01:12 2002] Shiel GMSAYS, 'whats the problem Nil?'
+[Tue Oct 22 20:01:17 2002] Denethir GMSAYS, 'if you need to attend any nlz's to answer a player petition then please do so'
+[Tue Oct 22 20:01:17 2002] You GMSAY, 'but is it okay with a senior )'
+[Tue Oct 22 20:01:24 2002] Shiel GMSAYS, 'heheh'
+[Tue Oct 22 20:01:25 2002] You GMSAY, 'okies'
+[Tue Oct 22 20:01:34 2002] Tabbor says, 'just wondering if you (as an appie/guide+) normally speak with them before escallating.'
+[Tue Oct 22 20:01:36 2002] Denethir GMSAYS, 'but please don't hang about any longer than necessary'
+[Tue Oct 22 20:01:36 2002] Nilnyar GMSAYS, 'Brahmd has PoP registerd but when he clicks on the pedistal it deosn't do anything'
+[Tue Oct 22 20:01:40 2002] Tabbor has a question.
+[Tue Oct 22 20:01:43 2002] You GMSAY, '<note> Zoning to the Plane of Innovation to check out a stuck corpse'
+[Tue Oct 22 20:01:49 2002] Searching zones for corpse of that name....
+[Tue Oct 22 20:01:50 2002] Shiel GMSAYS, 'hmm'
+[Tue Oct 22 20:01:50 2002] Corpse: Marcidar's corpse0 in zone: nurga
+[Tue Oct 22 20:01:50 2002] Corpse: Marc's corpse0 in zone: poinnovation
+[Tue Oct 22 20:01:53 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 20:02:01 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 20:02:33 2002] You have entered Plane of Innovation.
+[Tue Oct 22 20:02:34 2002] Nilnyar GMSAYS, 'He has deleted zone files and repatched per suggetstion of guide members,  '
+[Tue Oct 22 20:02:34 2002] Nilnyar GMSAYS, 'Guild members that is'
+[Tue Oct 22 20:02:34 2002] Mercusio GMSAYS, 'feel free to bring me or Nilnyar on any pets that are not investigational ones :-)  name changes etc....'
+[Tue Oct 22 20:02:35 2002] Shiel GMSAYS, 'what about his character?'
+[Tue Oct 22 20:02:36 2002] Marc fades away.
+[Tue Oct 22 20:02:38 2002] Winedan is surrounded by a brief lupine aura.
+[Tue Oct 22 20:02:45 2002] Ghaundan says, 'they ate him'
+[Tue Oct 22 20:02:46 2002] Nilnyar GMSAYS, 'probplaby not.  I will have him do that.'
+[Tue Oct 22 20:02:46 2002] Teleporting to marc's corpse0.
+[Tue Oct 22 20:02:54 2002] Shiel GMSAYS, 'past that, I have no idea'
+[Tue Oct 22 20:03:11 2002] Ghaundan says out of character, 'hows it goin here?'
+[Tue Oct 22 20:03:23 2002] You told Marc, 'Hail, Marc! Guide Espranza here. Your corpse is partially stuck in the wall, I'll pull it out a little more to make it easier to see.'
+[Tue Oct 22 20:03:29 2002] Summoning Marc's corpse0.
+[Tue Oct 22 20:03:40 2002] Mercusio GMSAYS, 'zone'
+[Tue Oct 22 20:03:40 2002] Marc tells you, 'thanks .. btw, isn't this supposed to be the safe area ?'
+[Tue Oct 22 20:03:51 2002] Nilnyar GMSAYS, '<note issue> *brahmd* is going out and deleting character files,  he will tray again after he has done that if it desont' work he will repetition./'
+[Tue Oct 22 20:04:03 2002] You GMSAY, '<note> Marc FQCV2MC pulled stuck corpse from wall'
+[Tue Oct 22 20:04:08 2002] You told Marc, 'apparently not )'
+[Tue Oct 22 20:04:17 2002] DELETING THIS PETITION
+[Tue Oct 22 20:04:18 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 20:04:22 2002] Mercusio GMSAYS, 'zone'
+[Tue Oct 22 20:04:23 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 20:04:43 2002] You have entered Sunset Home.
+[Tue Oct 22 20:04:48 2002] Marc tells you, 'I still dont see it '
+[Tue Oct 22 20:04:57 2002] You told Marc, 'it's clear of the wall'
+[Tue Oct 22 20:04:58 2002] You no longer have a target.
+[Tue Oct 22 20:05:05 2002] Marc tells you, 'ah, thank you :)'
+[Tue Oct 22 20:05:07 2002] You told Marc, 'beyond that I cannot help.'
+[Tue Oct 22 20:05:12 2002] You told Marc, 'be well, and safe journey to you!'
+[Tue Oct 22 20:05:30 2002] You GMSAY, '/em sprays Petition-B-Gone around the place'
+[Tue Oct 22 20:05:42 2002] Denethir GMSAYS, 'gee I hope that works'
+[Tue Oct 22 20:05:47 2002] You GMSAY, 'seems to have'
+[Tue Oct 22 20:05:54 2002] You GMSAY, 'least the greens'
+[Tue Oct 22 20:05:54 2002] Mercusio GMSAYS, 'Denethir I am no longer in group  can you meet me in Halas?'
+[Tue Oct 22 20:06:01 2002] Mercusio GMSAYS, 'zone'
+[Tue Oct 22 20:06:19 2002] Denethir GMSAYS, 'Can someone else please grp with Merc. I am training Tabbor atm'
+[Tue Oct 22 20:06:25 2002] Players in EverQuest:
+[Tue Oct 22 20:06:25 2002] ---------------------------
+
+[Tue Oct 22 20:06:25 2002] * Apprentice Guide *[20 Magician] Mercusio (Dark Elf)  ZONE: halas (USER PID BX9WARG) 
+[Tue Oct 22 20:06:25 2002] * Guide *[54 Minstrel] Shiel (Vah Shir) <House of Zek> ZONE: rivervale (USER PID H36Y9UZ) 
+[Tue Oct 22 20:06:25 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Tue Oct 22 20:06:25 2002] * Guide *[50 Paladin] Wyndles (Halfling) <House of Zek> ZONE: rivervale (USER PID AUU9YBJ) 
+[Tue Oct 22 20:06:25 2002] * Apprentice Guide *[ANON (20 Monk)] Tabbor (Iksar) ZONE: cshome (USER PID CPAHD65) 
+[Tue Oct 22 20:06:25 2002] * Apprentice Guide *[20 Wizard] Nilnyar (High Elf)  ZONE: rathemtn (USER PID EV6VDD4) 
+[Tue Oct 22 20:06:25 2002] There are 6 players in EverQuest.
+[Tue Oct 22 20:06:25 2002] Shiel GMSAYS, 'on it.'
+[Tue Oct 22 20:06:51 2002] Mercusio GMSAYS, 'Thank you'
+[Tue Oct 22 20:06:52 2002] Denethir says, 'Hail, Llara the Mysterious'
+[Tue Oct 22 20:06:52 2002] Llara the Mysterious says 'might you be an [apprentice] or a [guide]?' Llara then grins evilly...'
+[Tue Oct 22 20:06:59 2002] Denethir says, 'I am a guide'
+[Tue Oct 22 20:06:59 2002] Llara the Mysterious cracks her whip in Denethir's direction and says, 'Well, if you are a guide, then what the heck are you doing here!?! Get to work on the queue, it's not going to be under 20 all day!'
+[Tue Oct 22 20:07:08 2002] You say, 'I am a senior'
+[Tue Oct 22 20:07:08 2002] Llara the Mysterious says 'I am glad to hear that you are a Senior Guide. Getting to that position means that you have put in a lot of extra time and dedication into the program. Be sure to take care of your guides, they look up to you as a leader.' Llara then smiles gracefully at Espranza.'
+[Tue Oct 22 20:07:09 2002] Tabbor says, 'LOL'
+[Tue Oct 22 20:07:20 2002] Denethir says, 'I miss you Llara'
+[Tue Oct 22 20:07:20 2002] Llara the Mysterious says 'I miss you, too, Denethir! But don't worry about me. I am in a good place now, watching over all of you.''
+[Tue Oct 22 20:07:35 2002] You say, 'she was a guide on my play server'
+[Tue Oct 22 20:07:35 2002] Llara the Mysterious cracks her whip in Espranza's direction and says, 'Well, if you are a guide, then what the heck are you doing here!?! Get to work on the queue, it's not going to be under 20 all day!'
+[Tue Oct 22 20:07:38 2002] Nilnyar GMSAYS, '<note red> Re submiting to red *mariemer* for Gfay issue.  He can log all his characters but kamakazze in to gfay.  He has dleted the zone files, charcter files and tried a freinds computer, but it will not load. updated petition with additional information.'
+[Tue Oct 22 20:07:46 2002] Tabbor says, 'oh neat'
+[Tue Oct 22 20:07:47 2002] Nilnyar GMSAYS, ''
+[Tue Oct 22 20:07:50 2002] You say, 'when I applied to the guide program, I talked with her about it'
+[Tue Oct 22 20:07:50 2002] Llara the Mysterious cracks her whip in Espranza's direction and says, 'Well, if you are a guide, then what the heck are you doing here!?! Get to work on the queue, it's not going to be under 20 all day!'
+[Tue Oct 22 20:08:02 2002] You say, 'she was very friendly and made me want more than ever to be a guide'
+[Tue Oct 22 20:08:02 2002] Llara the Mysterious cracks her whip in Espranza's direction and says, 'Well, if you are a guide, then what the heck are you doing here!?! Get to work on the queue, it's not going to be under 20 all day!'
+[Tue Oct 22 20:08:09 2002] You say, 'now you see how she abuses me'
+[Tue Oct 22 20:08:14 2002] Denethir says, 'lol'
+[Tue Oct 22 20:08:19 2002] Tabbor says, 'hehe'
+[Tue Oct 22 20:08:23 2002] You say, 'the entire server turned out the day she died, crashed the zone'
+[Tue Oct 22 20:08:33 2002] Tabbor says, 'so all teh memorial npcs have dialog?'
+[Tue Oct 22 20:08:37 2002] Denethir says, 'these npcs are to be respected among all others'
+[Tue Oct 22 20:08:39 2002] You say, 'nah, she has the best'
+[Tue Oct 22 20:08:48 2002] Denethir says, 'follow'
+[Tue Oct 22 20:08:51 2002] Denethir is surrounded by a brief aura.
+[Tue Oct 22 20:10:04 2002] Nilnyar GMSAYS, 'Ok all,  Wish i could stay on longer,  but time has come again for sweet release of sleep.'
+[Tue Oct 22 20:10:10 2002] You GMSAY, 'be well'
+[Tue Oct 22 20:10:21 2002] Shiel GMSAYS, '=( '
+[Tue Oct 22 20:10:23 2002] Denethir GMSAYS, 'bye Nil'
+[Tue Oct 22 20:10:24 2002] Could not find player morell.hexia
+[Tue Oct 22 20:10:28 2002] Mercusio GMSAYS, 'be well Nilnyar'
+[Tue Oct 22 20:10:38 2002] Players in EverQuest:
+[Tue Oct 22 20:10:38 2002] ---------------------------
+
+[Tue Oct 22 20:10:38 2002] * Apprentice Guide *[20 Magician] Mercusio (Dark Elf)  ZONE: halas (USER PID BX9WARG) 
+[Tue Oct 22 20:10:38 2002] * Guide *[54 Minstrel] Shiel (Vah Shir) <House of Zek> ZONE: halas (USER PID H36Y9UZ) 
+[Tue Oct 22 20:10:38 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Tue Oct 22 20:10:38 2002] * Guide *[50 Paladin] Wyndles (Halfling) <House of Zek> ZONE: rivervale (USER PID AUU9YBJ) 
+[Tue Oct 22 20:10:38 2002] * Apprentice Guide *[ANON (20 Monk)] Tabbor (Iksar) ZONE: cshome (USER PID CPAHD65) 
+[Tue Oct 22 20:10:38 2002] * Apprentice Guide *[20 Wizard] Nilnyar (High Elf)  ZONE: rathemtn (USER PID EV6VDD4) 
+[Tue Oct 22 20:10:38 2002] There are 6 players in EverQuest.
+[Tue Oct 22 20:10:40 2002] Tabbor GMSAYS, 'see ya Nil'
+[Tue Oct 22 20:10:41 2002] Wyndles GMSAYS, 'Be well Nilnyar, stay safe, and may Terris Thule not look your way:)'
+[Tue Oct 22 20:10:42 2002] Nilnyar GMSAYS, 'I will be on tomorroww nite full Guides wiling.'
+[Tue Oct 22 20:10:50 2002] You feel as if you are about to fall.
+[Tue Oct 22 20:10:56 2002] You feel as if you are about to fall.
+[Tue Oct 22 20:11:02 2002] You can no longer levitate.
+[Tue Oct 22 20:11:04 2002] Your feet leave the ground.
+[Tue Oct 22 20:11:33 2002] You begin casting Summon Horse.Item Cast Time (3000) (Summon Horse)
+[Tue Oct 22 20:11:33 2002] Your Black Guide Issue Bridle begins to glow.
+[Tue Oct 22 20:11:38 2002] You no longer have a target.
+[Tue Oct 22 20:11:38 2002] You no longer have a target.
+[Tue Oct 22 20:12:08 2002] Players in EverQuest:
+[Tue Oct 22 20:12:08 2002] ---------------------------
+
+[Tue Oct 22 20:12:08 2002] [60 Grandmaster] Freekie (Iksar)  ZONE: chardok (USER PID CVTGTC4) 
+[Tue Oct 22 20:12:08 2002] [61 Phantasmist] Zulus (Dark Elf) <Umbra Pax> ZONE: chardok (USER PID FP3KBWT) 
+[Tue Oct 22 20:12:08 2002] [56 Revenant] Greb (Troll) <Xanadu> ZONE: chardok (USER PID AYT2UKD) 
+[Tue Oct 22 20:12:08 2002] [ANON (59 Luminary)] Shudder (Ogre) ZONE: chardok (USER PID GY90FLQ) 
+[Tue Oct 22 20:12:08 2002] [ANON (55 Revenant)] Nasiir (Iksar) ZONE: chardok (USER PID ANREL69) 
+[Tue Oct 22 20:12:08 2002] [ANON (56 Luminary)] Ootoob (Troll) ZONE: chardok (USER PID HZVGL0N) 
+[Tue Oct 22 20:12:08 2002] [ANON (54 Reaver)] Ranzire (Dark Elf) ZONE: chardok (USER PID GSJXZTP) 
+[Tue Oct 22 20:12:08 2002] [ANON (53 Vicar)] Zorabel (Dark Elf) ZONE: chardok (USER PID EWJU1WE) 
+[Tue Oct 22 20:12:08 2002] [60 Grave Lord] Skogarr (Ogre) <Lords of the Dark Horizon> ZONE: chardok (USER PID DXX39HE) 
+[Tue Oct 22 20:12:08 2002] [ANON (60 Oracle)] Rreaver (Ogre) ZONE: chardok (USER PID EQ9LNW1) 
+[Tue Oct 22 20:12:08 2002] [55 Blackguard] Foratog (Dark Elf) <Lords of the Dark Horizon> ZONE: chardok (USER PID DPU8EC0) 
+[Tue Oct 22 20:12:08 2002] [ANON (53 Reaver)] Iroxx (Troll) ZONE: chardok (USER PID CNHLVFG) 
+[Tue Oct 22 20:12:08 2002] [ANON (47 Wizard)] Kirgen (Dark Elf) ZONE: chardok (USER PID GR3XRF9) 
+[Tue Oct 22 20:12:08 2002] [51 Champion] Suezanno (Ogre) <Dark Consortium> ZONE: chardok (USER PID H3WKT8M) 
+[Tue Oct 22 20:12:08 2002] [54 Elementalist] Benudily (Dark Elf) <Lords of the Dark Horizon> ZONE: chardok (USER PID EZJZ8WP) 
+[Tue Oct 22 20:12:08 2002] [60 High Priest] Geetton (Dark Elf) <Lords of the Dark Horizon> ZONE: chardok (USER PID DY0J68E) 
+[Tue Oct 22 20:12:08 2002] [ANON (61 Grandmaster)] Quantos (Iksar) ZONE: chardok (USER PID GSRJ17L) 
+[Tue Oct 22 20:12:08 2002] [ANON (56 Luminary)] Jekisaws (Iksar) ZONE: chardok (USER PID HT45FTH) 
+[Tue Oct 22 20:12:08 2002] [59 Templar] Kaylei (Dark Elf) <Dark Consortium> ZONE: chardok (USER PID DU3FTKP) 
+[Tue Oct 22 20:12:08 2002] There are 19 players in EverQuest.
+[Tue Oct 22 20:12:10 2002] Wyndles GMSAYS, 'zoning'
+[Tue Oct 22 20:12:15 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 20:12:18 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 20:12:43 2002] You have entered Chardok.
+[Tue Oct 22 20:12:45 2002] Mercusio GMSAYS, 'zoneing when summoned to PoK'
+[Tue Oct 22 20:12:49 2002] Shudder begins to cast a spell. (Cannibalize IV)
+[Tue Oct 22 20:12:59 2002] Could not find player emarr.bludysky
+[Tue Oct 22 20:13:33 2002] You poke Iroxx.
+[Tue Oct 22 20:13:36 2002] You shrug at Iroxx.
+[Tue Oct 22 20:14:26 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 20:14:27 2002] USER TEXT: hel
+[Tue Oct 22 20:14:27 2002] GM TEXT: 
+[Tue Oct 22 20:14:27 2002] Players in EverQuest:
+[Tue Oct 22 20:14:27 2002] ---------------------------
+
+[Tue Oct 22 20:14:27 2002] [ANON (11 Enchanter)] Serria (Dark Elf) ZONE: warslikswood (USER PID GTM9RHB) 
+[Tue Oct 22 20:14:27 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:14:49 2002] You told Serria, 'Hail, Serria! Guide Espranza here. How may I help you?'
+[Tue Oct 22 20:15:06 2002] a Dizok Herbalist begins to cast a spell. (Alacrity)
+[Tue Oct 22 20:15:06 2002] a Sarnak Herb Collector begins to cast a spell. (Alacrity)
+[Tue Oct 22 20:15:10 2002] A Chokidai Rootdigger feels much faster.
+[Tue Oct 22 20:15:10 2002] A Chokidai Rootdigger feels much faster.
+[Tue Oct 22 20:15:28 2002] Serria tells you, 'can you PLEASE get me a rez i cant find my coprse in ot and it took me FOREVER TO GET THERE'
+[Tue Oct 22 20:15:56 2002] You told Serria, 'I can't offer you a rez, sadly. However, I will go and make sure your corpse is retrievable.'
+[Tue Oct 22 20:16:03 2002] Searching zones for corpse of that name....
+[Tue Oct 22 20:16:03 2002] Corpse: Serria's corpse0 in zone: overthere
+[Tue Oct 22 20:16:05 2002] Smilodon says out of character, 'who all lfg?'
+[Tue Oct 22 20:16:08 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 20:16:14 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 20:16:15 2002] Serria tells you, 'i cant find it'
+[Tue Oct 22 20:16:50 2002] You have entered The Overthere.
+[Tue Oct 22 20:16:51 2002] Serria tells you, '?'
+[Tue Oct 22 20:17:03 2002] Teleporting to serria's corpse0.
+[Tue Oct 22 20:17:11 2002] Searching zones for corpse of that name....
+[Tue Oct 22 20:17:11 2002] Corpse: Serria's corpse0 in zone: overthere
+[Tue Oct 22 20:17:46 2002] You told Serria, 'Serria, your corpse is clearly visible and can be retrieved by you. If you can't find it, perhaps a shadow knight or necromancer might help - they can locate corpses.'
+[Tue Oct 22 20:17:50 2002] Buzaza shouts, 'I got ot HAMMER'
+[Tue Oct 22 20:18:04 2002] Xxapher says out of character, 'kool'
+[Tue Oct 22 20:18:05 2002] Serria tells you, '*tear.. ok'
+[Tue Oct 22 20:18:07 2002] Thakur says out of character, 'Gratz'
+[Tue Oct 22 20:18:08 2002] DELETING THIS PETITION
+[Tue Oct 22 20:18:23 2002] You told Serria, 'good luck, and safe journey to you.'
+[Tue Oct 22 20:18:31 2002] Serria tells you, 'you to'
+[Tue Oct 22 20:19:30 2002] Denethir GMSAYS, 'AFK for a minute or so'
+[Tue Oct 22 20:19:57 2002] Tulwar auctions, 'WTS WTT Shield of the Stalwart Seas , Crested Spaulders , Donal's Vambraces of Mourning , Belt of the Cenobite , Singing Steel Boots ,  Crested Helm , Walrus Skin Drum , Smiter's Girdle .... please send tells'
+[Tue Oct 22 20:21:16 2002] Dameonix says out of character, 'anyone know exactly what has to be done to get to the plane of knowledge do I just sit by this book?'
+[Tue Oct 22 20:21:26 2002] Grosher says out of character, 'i think you click on it'
+[Tue Oct 22 20:21:42 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 20:21:43 2002] USER TEXT: how do i keep from autojoining the off channel?
+[Tue Oct 22 20:21:43 2002] GM TEXT: 
+[Tue Oct 22 20:21:43 2002] Players in EverQuest:
+[Tue Oct 22 20:21:43 2002] ---------------------------
+
+[Tue Oct 22 20:21:43 2002] [ANON (47 Shadow Knight)] Monsterphatty (Iksar) ZONE: nro (USER PID AWV6NJV) 
+[Tue Oct 22 20:21:43 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:21:46 2002] Dameonix says out of character, 'not clickable'
+[Tue Oct 22 20:22:50 2002] Denethir GMSAYS, 'back'
+[Tue Oct 22 20:22:52 2002] You told Monsterphatty '[queued], Hail, Monsterphatty! Guide Espranza here. You can only TOTALLY remove your autojoin channels by editing your eqclient.ini - you'll see a line in there about autojoin channels, just delete it.'
+[Tue Oct 22 20:22:52 2002] Buzaza shouts, 'hey i need seed OF ss PLZ'
+[Tue Oct 22 20:22:57 2002] DELETING THIS PETITION
+[Tue Oct 22 20:23:00 2002] Xxapher auctions, 'Dwarven Work Boots , Runed Circlet , Cracked Darkwood Shield , Fireclaw Talons , Copper Plated Bracer PST with decent offer'
+[Tue Oct 22 20:23:05 2002] Monsterphatty tells you, 'ok thanks'
+[Tue Oct 22 20:23:07 2002] Festivus auctions, 'WTB Port to Nexus'
+[Tue Oct 22 20:23:07 2002] Uglukk says out of character, 'heh the tigers actually do agro now'
+[Tue Oct 22 20:23:12 2002] Tulwar auctions, 'WTS WTT Shield of the Stalwart Seas , Crested Spaulders , Donal's Vambraces of Mourning , Belt of the Cenobite , Singing Steel Boots ,  Crested Helm , Walrus Skin Drum , Smiter's Girdle .... please send tells'
+[Tue Oct 22 20:23:13 2002] Monsterphatty tells you, 'quick response :)'
+[Tue Oct 22 20:23:20 2002] You told Monsterphatty, 'I was autojoined to channel "none" for a long time )'
+[Tue Oct 22 20:23:24 2002] Monsterphatty tells you, 'hehe'
+[Tue Oct 22 20:23:29 2002] Bomdiglz begins to cast a spell. (Cannibalize)
+[Tue Oct 22 20:23:31 2002] Shiel GMSAYS, 'zone'
+[Tue Oct 22 20:24:04 2002] You say to your guild, 'I'm guessing I shouldn't pull Denethir'
+[Tue Oct 22 20:24:08 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 20:24:09 2002] USER TEXT: Tassaddar was exping in AR with 5 pets up.... is that a planar ability or an exploit I'm not sure, but I'm reporting it
+[Tue Oct 22 20:24:09 2002] GM TEXT: 
+[Tue Oct 22 20:24:09 2002] Players in EverQuest:
+[Tue Oct 22 20:24:09 2002] ---------------------------
+
+[Tue Oct 22 20:24:09 2002] [ANON (60 Hierophant)] Skuzz (Halfling) ZONE: akheva (USER PID CXKFZ36) 
+[Tue Oct 22 20:24:09 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:24:10 2002] You feel as if you are about to fall.
+[Tue Oct 22 20:24:13 2002] Your feet leave the ground.
+[Tue Oct 22 20:24:17 2002] Denethir tells the guild, 'and right you'd be ;)'
+[Tue Oct 22 20:24:25 2002] Shiel GMSAYS, 'zone'
+[Tue Oct 22 20:24:35 2002] You GMSAY, 'hiding - investigating possible exploit in AR'
+[Tue Oct 22 20:24:40 2002] Players in EverQuest:
+[Tue Oct 22 20:24:40 2002] ---------------------------
+
+[Tue Oct 22 20:24:40 2002] [61 Oracle] Tassaddar (Barbarian)  ZONE: nexus (USER PID BW216BD) 
+[Tue Oct 22 20:24:40 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:24:45 2002] Ellronde tells you, 'any reason they moved the wizzy epic npc?'
+[Tue Oct 22 20:25:01 2002] You told Ellronde, 'which one?'
+[Tue Oct 22 20:25:01 2002] Veldare shouts, 'WTB port to EJ'
+[Tue Oct 22 20:25:03 2002] Tulwar auctions, 'pc on snark battel sheild'
+[Tue Oct 22 20:25:06 2002] Ellronde tells you, 'camin.'
+[Tue Oct 22 20:25:15 2002] You GMSAY, 'er cancel that, suspect left the scene of the crime'
+[Tue Oct 22 20:25:26 2002] You told Ellronde, 'I don't know...'
+[Tue Oct 22 20:25:30 2002] Smilodon auctions, 'wts sbs 1,8 k'
+[Tue Oct 22 20:25:30 2002] Ellronde tells you, 'in erudin'
+[Tue Oct 22 20:25:37 2002] Ellronde tells you, 'he not there'
+[Tue Oct 22 20:25:45 2002] Ripor auctions, '42 sk looking 4 group'
+[Tue Oct 22 20:25:52 2002] Denethir GMSAYS, 'if anyone has time, go check Paludal thats a goldmine of exploitation warnings lately'
+[Tue Oct 22 20:26:19 2002] You GMSAY, 'Paludal? Oh, Powerlevel Caverns... yeah I know them'
+[Tue Oct 22 20:26:42 2002] Ripor auctions, '42 sk looking 4 group'
+[Tue Oct 22 20:27:23 2002] Ripor auctions, '42 sk looking 4 group'
+[Tue Oct 22 20:27:29 2002] Azzig shouts, 'LVL 34 Necro LFG'
+[Tue Oct 22 20:27:41 2002] You told Skuzz, 'Hail, Skuzz! Guide Espranza here. The only Planar AA I can think of only works for one monster, then they all poof. Is that what was happening?'
+[Tue Oct 22 20:27:49 2002] Jaderot shouts, 'ALL LFG's GO to SF rmap and start new group'
+[Tue Oct 22 20:27:57 2002] Skuzz tells you, 'no - he had 4 pets up beating on the mob at teh same time'
+[Tue Oct 22 20:28:03 2002] Skuzz tells you, 'the*'
+[Tue Oct 22 20:28:13 2002] Geetton says out of character, 'WTB Port to SRO or NRO'
+[Tue Oct 22 20:28:14 2002] Players in EverQuest:
+[Tue Oct 22 20:28:14 2002] ---------------------------
+
+[Tue Oct 22 20:28:14 2002] [61 Oracle] Tassaddar (Barbarian)  ZONE: nexus (USER PID BW216BD) 
+[Tue Oct 22 20:28:14 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:28:15 2002] Skuzz tells you, 'deep in the back of Akheva ruins.... where I am right now actually'
+[Tue Oct 22 20:28:36 2002] You told Skuzz, 'well, I'll keep an eye on him... right now he's in Nexus...'
+[Tue Oct 22 20:28:41 2002] You told Skuzz, 'thanks for the report!'
+[Tue Oct 22 20:29:00 2002] Skuzz tells you, 'Thanks for teh promt responce :)'
+[Tue Oct 22 20:29:17 2002] Jaderot shouts, 'LFG!'
+[Tue Oct 22 20:29:19 2002] You GMSAY, '<note> Tassaddar BW216BD 61 shaman accused of using 5 pets in Akheva, wasn't in zone to check when I got the petition.'
+[Tue Oct 22 20:29:30 2002] You told Skuzz, 'You betcha ) Safe journey to you!'
+[Tue Oct 22 20:29:36 2002] DELETING THIS PETITION
+[Tue Oct 22 20:29:38 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 20:29:39 2002] USER TEXT: I need a GM to remove my main Callontyrone from the DL KC zoneline ... im on the same account ... the website help told me this how we had to fix the problem .. 
+[Tue Oct 22 20:29:39 2002] GM TEXT: 
+[Tue Oct 22 20:29:39 2002] Players in EverQuest:
+[Tue Oct 22 20:29:39 2002] ---------------------------
+
+[Tue Oct 22 20:29:39 2002] [ANON (47 Necromancer)] Debos (Gnome) ZONE: dreadlands (USER PID ASC5856) 
+[Tue Oct 22 20:29:39 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:29:49 2002] Jaderot shouts, 'LFG!'
+[Tue Oct 22 20:30:12 2002] Ripor auctions, '42 sk looking 4 group'
+[Tue Oct 22 20:30:14 2002] You told Debos, 'Hail, Debos! Senior Guide Espranza here. Can your other character be logged in?'
+[Tue Oct 22 20:30:32 2002] Geetton says out of character, 'WTB Port to SRO or NRO'
+[Tue Oct 22 20:30:33 2002] Debos tells you, 'his name is Callontyrone ... on this account .. '
+[Tue Oct 22 20:30:33 2002] Benudily says out of character, 'thank you for dmf'
+[Tue Oct 22 20:30:41 2002] Players in EverQuest:
+[Tue Oct 22 20:30:41 2002] ---------------------------
+
+[Tue Oct 22 20:30:41 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 20:30:43 2002] Debos tells you, 'hes stuck in the DL , KC zoneline .. '
+[Tue Oct 22 20:30:50 2002] Monsterphatty tells you, 'umm the barrel bardge wont let me stand on it'
+[Tue Oct 22 20:30:50 2002] Jaderot shouts, 'SF ramp lookin for more'
+[Tue Oct 22 20:30:51 2002] You told Debos, 'are you able to log him in?'
+[Tue Oct 22 20:30:52 2002] Gasaner says 'I beg forgiveness, Master.  That is not a legal target.'
+[Tue Oct 22 20:30:56 2002] Debos tells you, 'nope .. '
+[Tue Oct 22 20:30:56 2002] Xxapher auctions, 'Dwarven Work Boots , Runed Circlet , Cracked Darkwood Shield , Fireclaw Talons , Copper Plated Bracer PST with decent offer'
+[Tue Oct 22 20:31:00 2002] Debos tells you, 'all other chars but him .. '
+[Tue Oct 22 20:31:05 2002] Gasaner says 'I beg forgiveness, Master.  That is not a legal target.'
+[Tue Oct 22 20:31:07 2002] Azzig shouts, '34 Necro LFG'
+[Tue Oct 22 20:31:11 2002] You told Monsterphatty, 'afraid you'll sink it, I bet'
+[Tue Oct 22 20:31:12 2002] Uglukk says out of character, 'anyone know what lvl a Blood Point procs?'
+[Tue Oct 22 20:31:15 2002] Players in EverQuest:
+[Tue Oct 22 20:31:15 2002] ---------------------------
+
+[Tue Oct 22 20:31:15 2002] [ANON (47 Shadow Knight)] Monsterphatty (Iksar) ZONE: oasis (USER PID AWV6NJV) 
+[Tue Oct 22 20:31:15 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:31:17 2002] Razzaz auctions, 'Stone Hammer of Havoc,Fist of Iron'
+[Tue Oct 22 20:31:18 2002] Cyrianna says out of character, 'lvl 50'
+[Tue Oct 22 20:31:21 2002] Monsterphatty tells you, 'is it broke?'
+[Tue Oct 22 20:31:28 2002] You told Monsterphatty, 'one moment'
+[Tue Oct 22 20:31:29 2002] You GMSAY, 'zone'
+[Tue Oct 22 20:31:32 2002] Monsterphatty tells you, 'k'
+[Tue Oct 22 20:31:36 2002] Teleporting to monsterphatty.
+[Tue Oct 22 20:31:37 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 20:31:39 2002] Geetton says out of character, 'WTB Port to SRO or NRO'
+[Tue Oct 22 20:32:03 2002] You have entered Oasis of Marr.
+[Tue Oct 22 20:32:04 2002] Wyndles GMSAYS, 'zoning'
+[Tue Oct 22 20:32:05 2002] Noctimus beams a smile at a ghoul.
+[Tue Oct 22 20:32:05 2002] Noctimus says, 'Ahhh, I feel much better now...'
+[Tue Oct 22 20:32:07 2002] Heinnen begins to cast a spell. (Invoke Lightning)
+[Tue Oct 22 20:32:07 2002] Noctimus begins to cast a spell. (Siphon Life)
+[Tue Oct 22 20:32:07 2002] Kirgen delivers a critical blast! (230)
+[Tue Oct 22 20:32:07 2002] A ghoul rises chaotically into the air.
+[Tue Oct 22 20:32:07 2002] A shriveled mummy rises chaotically into the air.
+[Tue Oct 22 20:32:07 2002] a shriveled mummy has been slain by Kirgen!
+[Tue Oct 22 20:32:07 2002] A shriveled mummy rises chaotically into the air.
+[Tue Oct 22 20:32:07 2002] A crypt mummy rises chaotically into the air.
+[Tue Oct 22 20:32:07 2002] a crypt mummy has been slain by Kirgen!
+[Tue Oct 22 20:32:07 2002] A crypt mummy rises chaotically into the air.
+[Tue Oct 22 20:32:15 2002] Noctimus says, 'OMG'
+[Tue Oct 22 20:32:18 2002] Mercusio GMSAYS, 'LD death'
+[Tue Oct 22 20:32:18 2002] Monsterphatty says, 'yay'
+[Tue Oct 22 20:32:20 2002] Monsterphatty says, 'now it works'
+[Tue Oct 22 20:32:23 2002] Mercusio GMSAYS, 'err not death'
+[Tue Oct 22 20:32:23 2002] Grudgefreight says, 'np'
+[Tue Oct 22 20:32:23 2002] You say, 'heh'
+[Tue Oct 22 20:32:25 2002] Mercusio GMSAYS, 'just LD'
+[Tue Oct 22 20:32:31 2002] Kirgen says out of character, 'thanks gm'
+[Tue Oct 22 20:32:35 2002] Noctimus says, 'WTF did that come from'
+[Tue Oct 22 20:32:37 2002] Denethir GMSAYS, 'you probably notice that it is the apprentices doing that mostly'
+[Tue Oct 22 20:32:52 2002] Shiel GMSAYS, 'zone '
+[Tue Oct 22 20:32:55 2002] Monsterphatty tells you, 'what was wrong?'
+[Tue Oct 22 20:33:00 2002] Noctimus begins to cast a spell. (Animate Dead)
+[Tue Oct 22 20:33:05 2002] You told Debos, 'try logging out, deleting the dreadlands and karnor's files from your EQ folder, repatching, and see if that helps.'
+[Tue Oct 22 20:33:08 2002] You told Monsterphatty, '/shrug'
+[Tue Oct 22 20:33:09 2002] Noctimus animates an undead servant.
+[Tue Oct 22 20:33:16 2002] Debos tells you, 'tried that already (( '
+[Tue Oct 22 20:33:22 2002] You told Monsterphatty '[queued], I didn't do anything but I'll take the credit'
+[Tue Oct 22 20:33:45 2002] Monsterphatty tells you, 'hehe'
+[Tue Oct 22 20:33:48 2002] Monsterphatty tells you, 'ok thanks!!'
+[Tue Oct 22 20:33:52 2002] Debos tells you, 'i was in pvp when i zoned inside .. went right to desktop everytime since then .. '
+[Tue Oct 22 20:34:21 2002] You told Debos, 'okay, I am going to escalate your petition to the GM, you've already done what I would have suggested'
+[Tue Oct 22 20:34:34 2002] Debos tells you, 'its weird , i can zone in and out with this char and nps heh '
+[Tue Oct 22 20:34:40 2002] Debos tells you, 'ok .. '
+[Tue Oct 22 20:34:46 2002] Wyndles GMSAYS, 'Zoning'
+[Tue Oct 22 20:35:01 2002] GM Text added:  Espranza: Has already tried deleting the dreadlands and karnor's zones and repatching; game crashes to desktop when he tries to log in that character
+[Tue Oct 22 20:35:05 2002] STATUS UPGRADED TO URGENT
+[Tue Oct 22 20:35:13 2002] Debos tells you, 'thx )))) '
+[Tue Oct 22 20:35:23 2002] You GMSAY, 'esc Debos - char stuck in zone - he tried already the things I would have suggested'
+[Tue Oct 22 20:35:34 2002] CHECKING IN
+[Tue Oct 22 20:35:39 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 20:35:39 2002] USER TEXT: monouga is training us and using profanity.. please warn him or suispend or something .. thanks
+[Tue Oct 22 20:35:39 2002] GM TEXT: 
+[Tue Oct 22 20:35:40 2002] Players in EverQuest:
+[Tue Oct 22 20:35:40 2002] ---------------------------
+
+[Tue Oct 22 20:35:40 2002] [61 Grandmaster] Drakknar (Human) <Pandemonium> ZONE: poinnovation (USER PID HZESAM5) 
+[Tue Oct 22 20:35:40 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:35:48 2002] Mercusio GMSAYS, 'I posted it to site...went LD when was almost finished with pet LOL'
+[Tue Oct 22 20:35:58 2002] You GMSAY, 'That Denethir is sure petitioning a lot tonight. I think that might be guide harassment...'
+[Tue Oct 22 20:36:02 2002] Mercusio GMSAYS, 'the debos on'
+[Tue Oct 22 20:36:06 2002] Mercusio GMSAYS, 'the debos one'
+[Tue Oct 22 20:36:12 2002] Tabbor GMSAYS, 'I will report him'
+[Tue Oct 22 20:36:13 2002] You GMSAY, 'I handled it, Merc'
+[Tue Oct 22 20:36:21 2002] Mercusio GMSAYS, 'for LOL'
+[Tue Oct 22 20:36:26 2002] You GMSAY, 'training people is A-OK here, right?'
+[Tue Oct 22 20:36:27 2002] Mercusio GMSAYS, 'Thank you Espranza'
+[Tue Oct 22 20:36:29 2002] Your feet leave the ground.
+[Tue Oct 22 20:36:30 2002] You feel the spirit of Norrath enter you.
+[Tue Oct 22 20:36:34 2002] Mercusio GMSAYS, 'um .......'
+[Tue Oct 22 20:36:42 2002] Denethir GMSAYS, 'he is a pest isn't he?'
+[Tue Oct 22 20:36:51 2002] Denethir GMSAYS, 'I say ban is furry butt!'
+[Tue Oct 22 20:36:51 2002] Mercusio GMSAYS, 'shall I call cronn on ? :-)'
+[Tue Oct 22 20:36:53 2002] You GMSAY, 'wait, that's exp loss'
+[Tue Oct 22 20:36:59 2002] You GMSAY, 'so it isn't'
+[Tue Oct 22 20:37:06 2002] You GMSAY, 'hiding for investiation'
+[Tue Oct 22 20:37:08 2002] Denethir GMSAYS, 'no training here thanks'
+[Tue Oct 22 20:37:13 2002] Mercusio GMSAYS, 'LOL'
+[Tue Oct 22 20:37:18 2002] Denethir GMSAYS, 'training = bad'
+[Tue Oct 22 20:37:22 2002] You GMSAY, 'durn... it's on PoInnovation'
+[Tue Oct 22 20:37:42 2002] You GMSAY, '<note> Headed to the Plane of Innovation to investigate a training / profanity petition'
+[Tue Oct 22 20:37:46 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 20:37:50 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 20:38:20 2002] You have entered Plane of Innovation.
+[Tue Oct 22 20:38:22 2002] Azuur begins to cast a spell. (Reviviscence)
+[Tue Oct 22 20:38:26 2002] Espranza is now Invisible.
+[Tue Oct 22 20:38:26 2002] You are now anonymous.
+[Tue Oct 22 20:38:26 2002] Vildiil begins to walk faster.
+[Tue Oct 22 20:38:34 2002] Players in EverQuest:
+[Tue Oct 22 20:38:34 2002] ---------------------------
+
+[Tue Oct 22 20:38:34 2002] [ANON (61 Grandmaster)] Monouga (Human) ZONE: potranquility (USER PID FX1NK0E) 
+[Tue Oct 22 20:38:34 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:38:38 2002] Drakknar says, 'Hail, Vump'
+[Tue Oct 22 20:38:41 2002] Azuur begins to cast a spell. (Reviviscence)
+[Tue Oct 22 20:38:42 2002] Players in EverQuest:
+[Tue Oct 22 20:38:42 2002] ---------------------------
+
+[Tue Oct 22 20:38:42 2002] [61 Grandmaster] Drakknar (Human) <Pandemonium> ZONE: poinnovation (USER PID HZESAM5) 
+[Tue Oct 22 20:38:42 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:38:54 2002] You GMSAY, 'leaving zone'
+[Tue Oct 22 20:38:55 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 20:38:58 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 20:39:21 2002] You have entered Sunset Home.
+[Tue Oct 22 20:39:29 2002] Players in EverQuest:
+[Tue Oct 22 20:39:29 2002] ---------------------------
+
+[Tue Oct 22 20:39:29 2002] [ANON (61 Grandmaster)] Monouga (Human) ZONE: potranquility (USER PID FX1NK0E) 
+[Tue Oct 22 20:39:29 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:39:41 2002] Wyndles GMSAYS, 'there were no changes made to the Bard epic were there?'
+[Tue Oct 22 20:39:56 2002] You GMSAY, 'it was made manlier.'
+[Tue Oct 22 20:40:10 2002] You GMSAY, 'ie. not that I know of....'
+[Tue Oct 22 20:40:28 2002] Wyndles GMSAYS, 'haha, I have someone reporting that it seems to not be working as well'
+[Tue Oct 22 20:40:48 2002] Mercusio GMSAYS, '<note red> per GM request in chat room.  Karinthia (FR8NJGK) was playing an alt by the name of Onyxia.  She cannot log on to that character becuase of EQ crash last night.  '
+[Tue Oct 22 20:41:09 2002] You told Drakknar, 'Hail, Drakknar! Guide Espranza here. Monouga has left the zone - is it possible to scroll back and make a /report of the language he was using?'
+[Tue Oct 22 20:41:18 2002] Drakknar tells you, 'i did use report'
+[Tue Oct 22 20:41:35 2002] Drakknar tells you, 'and hes back in zone training'
+[Tue Oct 22 20:41:41 2002] Players in EverQuest:
+[Tue Oct 22 20:41:41 2002] ---------------------------
+
+[Tue Oct 22 20:41:41 2002] [ANON (61 Grandmaster)] Monouga (Human) ZONE: potranquility (USER PID FX1NK0E) 
+[Tue Oct 22 20:41:41 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:41:46 2002] Denethir GMSAYS, 'gee my petition is popular'
+[Tue Oct 22 20:41:55 2002] You told Drakknar, 'he is in the plane on tranquility...'
+[Tue Oct 22 20:42:04 2002] Drakknar tells you, 'he keeps zoning in, pulling a train, and zoning out'
+[Tue Oct 22 20:42:07 2002] Players in EverQuest:
+[Tue Oct 22 20:42:07 2002] ---------------------------
+
+[Tue Oct 22 20:42:07 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 20:42:16 2002] Mercusio GMSAYS, '<note bug> Acee (GQWYME4) when camping goes to desktop'
+[Tue Oct 22 20:42:22 2002] You GMSAY, 'back to PoI on the petition'
+[Tue Oct 22 20:42:26 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 20:42:33 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 20:42:50 2002] Cuick says out of character, 'shit how do you zone out?'
+[Tue Oct 22 20:42:58 2002] You have entered Plane of Innovation.
+[Tue Oct 22 20:42:59 2002] Shiel GMSAYS, 'zone'
+[Tue Oct 22 20:43:00 2002] Kuin's armor is pierced by a flaming bolt.
+[Tue Oct 22 20:43:00 2002] Vump begins to cast a spell. (Ensnare)
+[Tue Oct 22 20:43:01 2002] a corroded model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:01 2002] an obsolete model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:01 2002] an obsolete model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:01 2002] a rusted model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:02 2002] Espranza is now Invisible.
+[Tue Oct 22 20:43:02 2002] You are now anonymous.
+[Tue Oct 22 20:43:03 2002] Aspit is completely healed.
+[Tue Oct 22 20:43:04 2002] Cenelron says, 'can i loot and scoot?'
+[Tue Oct 22 20:43:05 2002] Aspit is no longer berserk.
+[Tue Oct 22 20:43:06 2002] Drakknar tells you, 'anyway.. i dont feel like dealing with it so i am logging.. but i am sure the other that are staying dont want to lose even more xp because of him'
+[Tue Oct 22 20:43:13 2002] Cenelron begins to cast a spell. (Gate)
+[Tue Oct 22 20:43:13 2002] Vump begins to cast a spell. (Camouflage)
+[Tue Oct 22 20:43:20 2002] Vump begins to cast a spell. (Exodus)
+[Tue Oct 22 20:43:21 2002] a corroded model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:21 2002] an erratic model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:21 2002] an obsolete model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:21 2002] an obsolete model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:22 2002] a rusted model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:37 2002] an erratic model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:37 2002] an obsolete model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:43:37 2002] a rusted model says 'Assessment complete.  Compatability : TRUE.  Salvage mode activated.'
+[Tue Oct 22 20:44:11 2002] Players on EverQuest:
+[Tue Oct 22 20:44:11 2002] ---------------------------
+[Tue Oct 22 20:44:11 2002] There are no players in Plane of Innovation that match those who filters.
+[Tue Oct 22 20:44:13 2002] Wyndles GMSAYS, '<note bug> *Sierre* reported decreased performance of the bard epic'
+[Tue Oct 22 20:44:34 2002] You GMSAY, 'did she try it in the country, or was she doing primarily city singing?'
+[Tue Oct 22 20:44:51 2002] Players on EverQuest:
+[Tue Oct 22 20:44:51 2002] ---------------------------
+[Tue Oct 22 20:44:51 2002] [61 Warlord] Aspit (Human)
+[Tue Oct 22 20:44:51 2002] There is 1 player in Plane of Innovation.
+[Tue Oct 22 20:45:03 2002] Players on EverQuest:
+[Tue Oct 22 20:45:03 2002] ---------------------------
+[Tue Oct 22 20:45:03 2002] [ANONYMOUS] Monouga  <Discordia>
+[Tue Oct 22 20:45:03 2002] [61 Warlord] Aspit (Human)
+[Tue Oct 22 20:45:03 2002] There are 2 players in Plane of Innovation.
+[Tue Oct 22 20:45:39 2002] Aspit yells for help from straight ahead of you
+[Tue Oct 22 20:45:41 2002] Vump begins to cast a spell. (Winged Death)
+[Tue Oct 22 20:45:57 2002] Vump begins to cast a spell. (Winged Death)
+[Tue Oct 22 20:46:04 2002] Kuin has been infused with the power of an Avatar.
+[Tue Oct 22 20:46:07 2002] Mercusio GMSAYS, '<note yellow> Ezene (HV0E858) is stcuk in tower of paineel.'
+[Tue Oct 22 20:46:09 2002] Azuur begins to cast a spell. (Ethereal Remedy)
+[Tue Oct 22 20:46:09 2002] Goosy begins to cast a spell. (Quivering Veil of Xarn)
+[Tue Oct 22 20:46:15 2002] Vump begins to cast a spell. (Moonfire)
+[Tue Oct 22 20:46:21 2002] Shiel GMSAYS, 'on it'
+[Tue Oct 22 20:46:26 2002] Azuur begins to cast a spell. (Unswerving Hammer of Faith)
+[Tue Oct 22 20:46:30 2002] Goosy says, 'disco just zone'
+[Tue Oct 22 20:46:33 2002] Vump begins to cast a spell. (Ensnare)
+[Tue Oct 22 20:46:38 2002] Vump begins to cast a spell. (Moonfire)
+[Tue Oct 22 20:46:44 2002] Goosy says, 'kuin zone'
+[Tue Oct 22 20:46:45 2002] Azuur begins to cast a spell. (Unswerving Hammer of Faith)
+[Tue Oct 22 20:46:45 2002] Shiel GMSAYS, 'zone paineel'
+[Tue Oct 22 20:46:45 2002] Mercusio GMSAYS, 'zone when summoned'
+[Tue Oct 22 20:46:46 2002] Vump begins to cast a spell. (Moonfire)
+[Tue Oct 22 20:46:49 2002] Kuin says, 'k'
+[Tue Oct 22 20:46:53 2002] Aspit Scores a critical hit!(122)
+[Tue Oct 22 20:46:54 2002] Keker begins to cast a spell. (Unsummon Self)
+[Tue Oct 22 20:46:57 2002] Vump begins to cast a spell. (Tunare's Renewal)
+[Tue Oct 22 20:46:58 2002] Azuur begins to cast a spell. (Ethereal Remedy)
+[Tue Oct 22 20:47:05 2002] Cenelron begins to cast a spell. (Reviviscence)
+[Tue Oct 22 20:47:05 2002] Players in EverQuest:
+[Tue Oct 22 20:47:05 2002] ---------------------------
+
+[Tue Oct 22 20:47:05 2002] [ANON (61 Grandmaster)] Monouga (Human) ZONE: potranquility (USER PID FX1NK0E) 
+[Tue Oct 22 20:47:05 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:47:14 2002] Goosy says, 'sec let me say somthign in guildchat'
+[Tue Oct 22 20:47:16 2002] Vump begins to cast a spell. (Camouflage)
+[Tue Oct 22 20:47:16 2002] Vump fades away.
+[Tue Oct 22 20:47:36 2002] Cenelron begins to cast a spell. (Reviviscence)
+[Tue Oct 22 20:47:38 2002] Aspit begins to cast a spell. (Captain Nalots Quickening)
+[Tue Oct 22 20:47:41 2002] Aspit is filled by the spirit of water.
+[Tue Oct 22 20:47:57 2002] You GMSAY, 'looks like these people are pursuing a PvP solution...'
+[Tue Oct 22 20:48:02 2002] You GMSAY, 'to a training monk'
+[Tue Oct 22 20:48:07 2002] You GMSAY, 'zoning out'
+[Tue Oct 22 20:48:08 2002] Shiel GMSAYS, 'as they should  =)'
+[Tue Oct 22 20:48:11 2002] Denethir GMSAYS, 'good one em'
+[Tue Oct 22 20:48:14 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 20:48:35 2002] You have entered Sunset Home.
+[Tue Oct 22 20:48:35 2002] Denethir GMSAYS, 'this is PvP after all'
+[Tue Oct 22 20:48:53 2002] Drakknar is not online at this time.
+[Tue Oct 22 20:48:58 2002] You GMSAY, 'yup!'
+[Tue Oct 22 20:49:06 2002] DELETING THIS PETITION
+[Tue Oct 22 20:49:09 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 20:49:09 2002] USER TEXT: Sir/mam I would like to get rid of my surename, their is a new guild that has it in their name and I do not wish to be related to them in any way, thanks for help in matter
+[Tue Oct 22 20:49:09 2002] GM TEXT: 
+[Tue Oct 22 20:49:09 2002] Players in EverQuest:
+[Tue Oct 22 20:49:09 2002] ---------------------------
+
+[Tue Oct 22 20:49:09 2002] [ANON (55 Preserver)] Stuffin (Halfling) ZONE: bazaar (USER PID ARWND0Z) 
+[Tue Oct 22 20:49:09 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:49:36 2002] You told Stuffin, 'Hail, Stuffin! Guide Espranza here. I will escalate your petition to a Senior Guide, who will be able to remove your surname.'
+[Tue Oct 22 20:49:44 2002] GM Text added:  Espranza: esc for surname removal
+[Tue Oct 22 20:49:46 2002] STATUS UPGRADED TO URGENT
+[Tue Oct 22 20:49:58 2002] You GMSAY, 'esc Stuffin to yellow for surname removal'
+[Tue Oct 22 20:49:59 2002] CHECKING IN
+[Tue Oct 22 20:50:07 2002] Tabbor says, 'ok.  got it.'
+[Tue Oct 22 20:50:10 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 20:50:11 2002] USER TEXT: I need a GM to remove my main Callontyrone from the DL KC zoneline ... im on the same account ... the website help told me this how we had to fix the problem .. 
+[Tue Oct 22 20:50:11 2002] GM TEXT: Espranza: Has already tried deleting the dreadlands and karnor's zones and repatching; game crashes to desktop when he tries to log in that character
+[Tue Oct 22 20:50:11 2002] Players in EverQuest:
+[Tue Oct 22 20:50:11 2002] ---------------------------
+
+[Tue Oct 22 20:50:11 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 20:50:13 2002] You feel as if you are about to fall.
+[Tue Oct 22 20:50:19 2002] You feel as if you are about to fall.
+[Tue Oct 22 20:50:20 2002] Denethir says, 'ok thats just about it. any questions?'
+[Tue Oct 22 20:50:22 2002] Stuffin tells you, 'Thank you a ton my friend'
+[Tue Oct 22 20:50:23 2002] STATUS UPGRADED TO EMERGENCY
+[Tue Oct 22 20:50:24 2002] CHECKING IN
+[Tue Oct 22 20:50:25 2002] You can no longer levitate.
+[Tue Oct 22 20:50:27 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 20:50:27 2002] USER TEXT: Can i delete my surname
+[Tue Oct 22 20:50:27 2002] GM TEXT: Mercusio: remove surname
+[Tue Oct 22 20:50:28 2002] Players in EverQuest:
+[Tue Oct 22 20:50:28 2002] ---------------------------
+
+[Tue Oct 22 20:50:28 2002] [23 Ranger] Genadyn (Wood Elf)  ZONE: shadowhaven (USER PID B4YKWD2) 
+[Tue Oct 22 20:50:28 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:50:30 2002] UNDOING CHECK OUT
+[Tue Oct 22 20:50:33 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 20:50:34 2002] USER TEXT: is iwanttodrinkurblood a alright surname?
+[Tue Oct 22 20:50:34 2002] GM TEXT: Mercusio: not valid surname<BR>Mercusio: Wishes new surname to be Souleater  ( he is necro so I think this is good)
+[Tue Oct 22 20:50:34 2002] Players in EverQuest:
+[Tue Oct 22 20:50:34 2002] ---------------------------
+
+[Tue Oct 22 20:50:34 2002] [ANON (20 Necromancer)] Darkwillor (Dark Elf) ZONE: kithicor (USER PID G0H6F3D) 
+[Tue Oct 22 20:50:34 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:50:36 2002] UNDOING CHECK OUT
+[Tue Oct 22 20:50:40 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 20:50:40 2002] Tabbor says, 'so the EWGSR will do my dsr for me, using my log file?'
+[Tue Oct 22 20:50:40 2002] USER TEXT: exploiters in teh pit in Cdok
+[Tue Oct 22 20:50:40 2002] GM TEXT: Mercusio: escalating for investigation
+[Tue Oct 22 20:50:41 2002] Players in EverQuest:
+[Tue Oct 22 20:50:41 2002] ---------------------------
+
+[Tue Oct 22 20:50:41 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 20:50:57 2002] Players in EverQuest:
+[Tue Oct 22 20:50:57 2002] ---------------------------
+
+[Tue Oct 22 20:50:57 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 20:51:16 2002] Denethir says, 'yes, it will parse your log file. You will need to set it up though first. I believe there is a little tutorial to help you do so'
+[Tue Oct 22 20:51:25 2002] You GMSAY, 'Kerby unavail x3, but since it's a petition about an exploit, gonna check it out  before poofing it'
+[Tue Oct 22 20:51:32 2002] You GMSAY, 'zoning and hiding for investigation'
+[Tue Oct 22 20:51:36 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 20:52:09 2002] You have entered Chardok.
+[Tue Oct 22 20:52:10 2002] Wyndles GMSAYS, 'Well all its that time for me:) Have a good night'
+[Tue Oct 22 20:52:14 2002] Denethir GMSAYS, 'cya Wyndles'
+[Tue Oct 22 20:52:14 2002] Espranza is now Invisible.
+[Tue Oct 22 20:52:14 2002] You are now anonymous.
+[Tue Oct 22 20:52:20 2002] You GMSAY, 'night haffer'
+[Tue Oct 22 20:52:30 2002] Wyndles GMSAYS, 'halflings forever!!'
+[Tue Oct 22 20:52:35 2002] Shiel GMSAYS, 'bah'
+[Tue Oct 22 20:52:38 2002] Mercusio GMSAYS, 'zone'
+[Tue Oct 22 20:53:21 2002] Mercusio GMSAYS, 'zone PoK'
+[Tue Oct 22 20:53:29 2002] Ancient Guardian staggers as spirits of frost slam against them.
+[Tue Oct 22 20:53:32 2002] Freekie auctions, 'wtb rez for mah shammie :('
+[Tue Oct 22 20:53:40 2002] Players in EverQuest:
+[Tue Oct 22 20:53:40 2002] ---------------------------
+
+[Tue Oct 22 20:53:40 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 20:53:42 2002] Ancient Guardian is consumed by the raging spirits of the land.
+[Tue Oct 22 20:53:45 2002] Players in EverQuest:
+[Tue Oct 22 20:53:45 2002] ---------------------------
+
+[Tue Oct 22 20:53:45 2002] * Apprentice Guide *[20 Magician] Mercusio (Dark Elf)  ZONE: poknowledge (USER PID BX9WARG) 
+[Tue Oct 22 20:53:45 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:53:56 2002] A Di`zok Legionnaire is consumed by the raging spirits of the land.
+[Tue Oct 22 20:53:57 2002] a Chokidai Growler sniffs the air and then leaps at you!
+[Tue Oct 22 20:54:06 2002] A Di`zok Partisan is consumed by the raging spirits of the land.
+[Tue Oct 22 20:54:06 2002] You say to your guild, 'servers differ - but it was my understanding appies weren't allowed in CSR zones no matter what'
+[Tue Oct 22 20:54:18 2002] A Di`zok Partisan is consumed by the raging spirits of the land.
+[Tue Oct 22 20:54:25 2002] You GMSAY, 'serious exploitation going on in chardok'
+[Tue Oct 22 20:54:28 2002] Shiel tells the guild, 'appies got ok to PoK'
+[Tue Oct 22 20:54:32 2002] A Reanimated Dragoon is consumed by the raging spirits of the land.
+[Tue Oct 22 20:54:34 2002] You GMSAY, 'including a named'
+[Tue Oct 22 20:54:35 2002] a Chokidai Fleshripper's corpse limps a moment and then falls dead.
+[Tue Oct 22 20:54:43 2002] You GMSAY, 'killing all normal mobs'
+[Tue Oct 22 20:54:44 2002] Mercusio GMSAYS, 'get em all :-)'
+[Tue Oct 22 20:54:46 2002] Shiel GMSAYS, 'afk 2 min'
+[Tue Oct 22 20:54:46 2002] A Di`zok Legionnaire is consumed by the raging spirits of the land.
+[Tue Oct 22 20:54:57 2002] A Reanimated Dragoon is consumed by the raging spirits of the land.
+[Tue Oct 22 20:54:59 2002] You GMSAY, 'not the named, Merc, we cannot kill NPCs past level 50'
+[Tue Oct 22 20:55:03 2002] Killing a_Reanimated_Dragoon01.
+[Tue Oct 22 20:55:03 2002] a Reanimated Dragoon cackles gleefully at its lastest victim.
+[Tue Oct 22 20:55:03 2002] a Reanimated Dragoon says 'I have been vanquished once again!'
+[Tue Oct 22 20:55:06 2002] Killing a_Reanimated_Dragoon02.
+[Tue Oct 22 20:55:06 2002] a Reanimated Dragoon cackles gleefully at its lastest victim.
+[Tue Oct 22 20:55:06 2002] a Reanimated Dragoon says 'I have been vanquished once again!'
+[Tue Oct 22 20:55:09 2002] Killing a_Di`zok_Legionnaire02.
+[Tue Oct 22 20:55:09 2002] a Di`zok Legionnaire says 'Your weakness is an embarrassment.'
+[Tue Oct 22 20:55:10 2002] a Di`zok Legionnaire says 'Guards, save me!'
+[Tue Oct 22 20:55:14 2002] Killing a_Di`zok_Partisan09.
+[Tue Oct 22 20:55:15 2002] a Di`zok Partisan says 'Your weakness is an embarrassment.'
+[Tue Oct 22 20:55:15 2002] a Di`zok Partisan says 'Guards, save me!'
+[Tue Oct 22 20:55:18 2002] Killing a_Di`zok_Partisan08.
+[Tue Oct 22 20:55:18 2002] a Di`zok Partisan says 'Your weakness is an embarrassment.'
+[Tue Oct 22 20:55:18 2002] a Di`zok Partisan says 'Guards, save me!'
+[Tue Oct 22 20:55:22 2002] Killing a_Chokidai_Growler02.
+[Tue Oct 22 20:55:22 2002] a Chokidai Growler mauls its latest victim's corpse.
+[Tue Oct 22 20:55:22 2002] a Chokidai Growler limps a moment and then falls dead.
+[Tue Oct 22 20:55:28 2002] Espranza is now Visible.
+[Tue Oct 22 20:55:29 2002] You are no longer anonymous.
+[Tue Oct 22 20:55:40 2002] Ancient Guardian's veins have been filled with deadly poison.
+[Tue Oct 22 20:55:42 2002] You say, 'Hail, Rreaver'
+[Tue Oct 22 20:55:51 2002] Mercusio GMSAYS, 'got a good one which may need investigation not contacting and raising to yellow'
+[Tue Oct 22 20:56:02 2002] You say, 'Using the landscape to kill mobs risk free is an exploit'
+[Tue Oct 22 20:56:08 2002] Ancient Guardian staggers as spirits of frost slam against them.
+[Tue Oct 22 20:56:20 2002] Ancient Guardian begins to glow strangely and attacks!
+[Tue Oct 22 20:56:20 2002] Cronn GMSAYS, 'Gooooooooood evening!'
+[Tue Oct 22 20:56:24 2002] You GMSAY, 'Denethir, permission to kill Ancient Guardian before an exploiter gets the exp?'
+[Tue Oct 22 20:56:33 2002] Ancient Guardian's veins have been filled with deadly poison.
+[Tue Oct 22 20:56:35 2002] You GMSAY, 'Hi Cronn'
+[Tue Oct 22 20:56:39 2002] Skex tells you, 'hey...i cant petition because i got one in the line, it was esculated to a GM, any GMs on yet?'
+[Tue Oct 22 20:56:40 2002] Cronn GMSAYS, 'That's never been policy =/'
+[Tue Oct 22 20:56:48 2002] Shiel GMSAYS, 'hey Cronn!!'
+[Tue Oct 22 20:56:51 2002] Mercusio GMSAYS, 'need someone in PoDisease '
+[Tue Oct 22 20:56:51 2002] Tabbor GMSAYS, 'hi cronn'
+[Tue Oct 22 20:56:51 2002] Cronn GMSAYS, 'Hey Shiel :)'
+[Tue Oct 22 20:56:55 2002] Ancient Guardian has become ENRAGED.
+[Tue Oct 22 20:56:57 2002] Cronn GMSAYS, 'merc whats up'
+[Tue Oct 22 20:57:00 2002] Cronn GMSAYS, 'Hey Tabbor'
+[Tue Oct 22 20:57:03 2002] Shiel GMSAYS, 'whats up '
+[Tue Oct 22 20:57:07 2002] Ancient Guardian is no longer enraged.
+[Tue Oct 22 20:57:09 2002] Mercusio GMSAYS, 'not too much cronn you?'
+[Tue Oct 22 20:57:09 2002] Chattel GMSAYS, 'hey everyone'
+[Tue Oct 22 20:57:19 2002] Denethir GMSAYS, 'Cronnster!'
+[Tue Oct 22 20:57:20 2002] Cronn GMSAYS, 'nada --- whats up in PoDisease?'
+[Tue Oct 22 20:57:22 2002] Cronn GMSAYS, 'Dene!!'
+[Tue Oct 22 20:57:25 2002] Shiel GMSAYS, 'whats up in PoD'
+[Tue Oct 22 20:57:41 2002] Mercusio GMSAYS, 'read bottom two pets, getting multiple tells on it'
+[Tue Oct 22 20:57:41 2002] Cronn tells the guild, 'everyone grouped?'
+[Tue Oct 22 20:57:46 2002] Benudily says out of character, 'magi lfg'
+[Tue Oct 22 20:57:47 2002] You told Rreaver, 'Hail, Rreaver. Guide Espranza here. Killing mobs by using landscape to kill them at no risk to yourself is an explot.'
+[Tue Oct 22 20:57:53 2002] Mercusio GMSAYS, 'tells not from pets either others in party'
+[Tue Oct 22 20:57:55 2002] Cronn GMSAYS, 'we can't enter that.'
+[Tue Oct 22 20:57:59 2002] Cronn GMSAYS, 'you know that ...'
+[Tue Oct 22 20:58:00 2002] Mercusio GMSAYS, ':-('
+[Tue Oct 22 20:58:01 2002] Zorabel says out of character, 'come to me'
+[Tue Oct 22 20:58:08 2002] Mercusio GMSAYS, 'ok Will let them know'
+[Tue Oct 22 20:58:10 2002] Cronn GMSAYS, 'no'
+[Tue Oct 22 20:58:11 2002] Benudily says out of character, 'yayaya '
+[Tue Oct 22 20:58:13 2002] Cronn GMSAYS, 'ill take care of '
+[Tue Oct 22 20:58:13 2002] Players in EverQuest:
+[Tue Oct 22 20:58:13 2002] ---------------------------
+
+[Tue Oct 22 20:58:13 2002] [ANON (60 Oracle)] Rreaver (Ogre) ZONE: chardok (USER PID EQ9LNW1) 
+[Tue Oct 22 20:58:13 2002] There is 1 player in EverQuest.
+[Tue Oct 22 20:58:15 2002] Cronn GMSAYS, 'it'
+[Tue Oct 22 20:58:16 2002] Greb says out of character, 'shes coming on to ya'
+[Tue Oct 22 20:58:18 2002] Mercusio GMSAYS, 'no to enter ok'
+[Tue Oct 22 20:58:18 2002] Shiel GMSAYS, 'we can for investigation cant we? or am I misuderstanding'
+[Tue Oct 22 20:58:36 2002] Benudily says out of character, '>blush<'
+[Tue Oct 22 20:58:46 2002] Players in EverQuest:
+[Tue Oct 22 20:58:46 2002] ---------------------------
+
+[Tue Oct 22 20:58:46 2002] There are no players in EverQuest that match those who filters.
+[Tue Oct 22 20:58:54 2002] You GMSAY, 'you will not evade me, rreaper'
+[Tue Oct 22 20:58:57 2002] Mercusio GMSAYS, '"question" Why would a surname of "shadowblade" be rejected?'
+[Tue Oct 22 20:59:13 2002] Shiel GMSAYS, 'the surname thingy is persnickety'
+[Tue Oct 22 20:59:32 2002] Mercusio GMSAYS, 'so they should try again?'
+[Tue Oct 22 20:59:42 2002] Cronn GMSAYS, 'sorry was zoning --- i thought we couldn't /zone here...'
+[Tue Oct 22 20:59:44 2002] Soul Mark added to file successfully.
+[Tue Oct 22 20:59:46 2002] Cronn GMSAYS, 'I'm here now watching'
+[Tue Oct 22 20:59:49 2002] Cronn GMSAYS, 'not exploring.'
+[Tue Oct 22 21:00:36 2002] Denethir GMSAYS, '<<<< My catnip and I are ZONING! >>>>'
+[Tue Oct 22 21:00:43 2002] You GMSAY, '<note warn> Rreaver EQ9LNW1 was exploiting pathing in the pit area of Chardok. Quit out when I confronted him about it. Warned him anyway and I consider him contacted.'
+[Tue Oct 22 21:00:59 2002] DELETING THIS PETITION
+[Tue Oct 22 21:01:01 2002] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 22 21:01:02 2002] USER TEXT: I used the new screen to make a purchase in bazaar now how do i take it off.??
+[Tue Oct 22 21:01:02 2002] GM TEXT: 
+[Tue Oct 22 21:01:02 2002] Players in EverQuest:
+[Tue Oct 22 21:01:02 2002] ---------------------------
+
+[Tue Oct 22 21:01:02 2002] [21 Warrior] Dirkrite (Barbarian) <Halas Empire> ZONE: halas (USER PID GQLTHK3) 
+[Tue Oct 22 21:01:02 2002] There is 1 player in EverQuest.
+[Tue Oct 22 21:01:07 2002] Cronn GMSAYS, 'She's not training -- Merc I'll handle the petition'
+[Tue Oct 22 21:01:16 2002] Tabbor GMSAYS, 'I will have to get going after this zone/bind as well.  I will be on in the morning again.'
+[Tue Oct 22 21:01:19 2002] Mercusio GMSAYS, 'ok'
+[Tue Oct 22 21:01:34 2002] You GMSAY, 'actually I must leave too, after this.'
+[Tue Oct 22 21:01:51 2002] You told Dirkrite, 'Hail, Dirkrite! Guide Espranza here. How may I help you?'
+[Tue Oct 22 21:02:10 2002] Players in EverQuest:
+[Tue Oct 22 21:02:10 2002] ---------------------------
+
+[Tue Oct 22 21:02:10 2002] * Guide *[50 Bard] Chattel (Half Elf) <House of Zek> ZONE: cshome (USER PID BUU91V0) 
+[Tue Oct 22 21:02:10 2002] * Guide *[ANON (52 Mystic)] Cronn (Troll) ZONE: podisease (USER PID AVLDNV4) 
+[Tue Oct 22 21:02:10 2002] * Apprentice Guide *[20 Magician] Mercusio (Dark Elf)  ZONE: poknowledge (USER PID BX9WARG) 
+[Tue Oct 22 21:02:10 2002] * Guide *[ANON (54 Minstrel)] Shiel (Vah Shir) ZONE: poknowledge (USER PID H36Y9UZ) 
+[Tue Oct 22 21:02:10 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: chardok (USER PID FUGQSJL) 
+[Tue Oct 22 21:02:10 2002] * Apprentice Guide *[ANON (20 Monk)] Tabbor (Iksar) ZONE: cshome (USER PID CPAHD65) 
+[Tue Oct 22 21:02:10 2002] There are 6 players in EverQuest.
+[Tue Oct 22 21:02:28 2002] Mercusio GMSAYS, '<note yellow> Ramuth (FVE5PSZ) is not able to make his surname Shadowblade.  Wishes it .'
+[Tue Oct 22 21:02:33 2002] Dekkin tells you, 'Quick Question - I Epic turn in fails - GM's will do nuthing...correct?'
+[Tue Oct 22 21:02:45 2002] You GMSAY, 'depends why it failed'
+[Tue Oct 22 21:02:48 2002] Dirkrite tells you, 'i want to get rid of this new screen'
+[Tue Oct 22 21:02:59 2002] Dirkrite tells you, 'and return to the old one'
+[Tue Oct 22 21:03:09 2002] Benudily says out of character, 'i th8ink the halfling is following me....'
+[Tue Oct 22 21:03:10 2002] Tabbor GMSAYS, 'that catnip slowing down your zoning, eh?'
+[Tue Oct 22 21:03:16 2002] Chattel GMSAYS, 'lol'
+[Tue Oct 22 21:03:19 2002] Shiel GMSAYS, 'dang it.. Im bugged.. must fix.. brb'
+[Tue Oct 22 21:03:22 2002] Cronn GMSAYS, '<note zone> Plane of Disease (PoP/NLZ) - Investigating intentional Training complaint by 2 people.   There is nothing going on up here.  Leaving the zone immediately.'
+[Tue Oct 22 21:03:23 2002] You told Dirkrite, 'oh, you want back to the old UI. Type /newui, camp to desktop, and come back in again.'
+[Tue Oct 22 21:03:28 2002] Denethir GMSAYS, 'not at all. *points to the groupsay*'
+[Tue Oct 22 21:03:34 2002] Shiel GMSAYS, 'brb'
+[Tue Oct 22 21:03:40 2002] Mercusio GMSAYS, 'ok'
+[Tue Oct 22 21:03:54 2002] Dirkrite tells you, 'thats all?'
+[Tue Oct 22 21:03:54 2002] Absorb has emerged victorious in a duel to the death!
+[Tue Oct 22 21:03:59 2002] The new user interface will be *OFF* the next time you run EQ.
+[Tue Oct 22 21:04:00 2002] The new user interface will be *ON* the next time you run EQ.
+[Tue Oct 22 21:04:05 2002] DELETING THIS PETITION
+[Tue Oct 22 21:04:08 2002] Tabbor GMSAYS, 'zoning to WFreeport'
+[Tue Oct 22 21:04:18 2002] Dirkrite tells you, 'thats too easy hehe'
+[Tue Oct 22 21:04:26 2002] You told Dirkrite, 'lol.... well....'
+[Tue Oct 22 21:04:32 2002] You told Dirkrite, 'lemme think of something HARDER'
+[Tue Oct 22 21:04:38 2002] Dirkrite tells you, 'ok thanks man'
+[Tue Oct 22 21:04:46 2002] You told Dirkrite, 'np, be well and safe journey to you!'
+[Tue Oct 22 21:04:49 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 21:04:51 2002] Dirkrite tells you, 'ok ok '
+[Tue Oct 22 21:04:52 2002] LOADING, PLEASE WAIT...
+[Tue Oct 22 21:05:14 2002] You have entered Sunset Home.
+[Tue Oct 22 21:05:15 2002] Dirkrite tells you, 'ty'
+[Tue Oct 22 21:05:15 2002] Mercusio GMSAYS, 'zone FV'
+[Tue Oct 22 21:05:21 2002] UNDOING CHECK OUT
+[Tue Oct 22 21:05:46 2002] You GMSAY, 'okies, I'm off, see ya on the boards and I'll schedule some hours for me as well. Nice to have met you all!'
+[Tue Oct 22 21:05:46 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Tue Oct 22 21:05:49 2002] Players in EverQuest:
+[Tue Oct 22 21:05:49 2002] ---------------------------
+
+[Tue Oct 22 21:05:49 2002] * Guide *[50 Bard] Chattel (Half Elf) <House of Zek> ZONE: cshome (USER PID BUU91V0) 
+[Tue Oct 22 21:05:49 2002] * Guide *[52 Mystic] Cronn (Troll) <House of Zek> ZONE: grobb (USER PID AVLDNV4) 
+[Tue Oct 22 21:05:49 2002] * Apprentice Guide *[20 Magician] Mercusio (Dark Elf)  ZONE: firiona (USER PID BX9WARG) 
+[Tue Oct 22 21:05:49 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Tue Oct 22 21:05:49 2002] * Apprentice Guide *[ANON (20 Monk)] Tabbor (Iksar) ZONE: freportw (USER PID CPAHD65) 
+[Tue Oct 22 21:05:49 2002] There are 5 players in EverQuest.
+[Tue Oct 22 21:05:53 2002] Players on EverQuest:
+[Tue Oct 22 21:05:53 2002] ---------------------------
+[Tue Oct 22 21:05:53 2002] * GM * [50 Bard] Chattel (Half Elf) <House of Zek>
+[Tue Oct 22 21:05:53 2002] * GM * [55 Blackguard] Espranza (Halfling) <House of Zek>
+[Tue Oct 22 21:05:53 2002] There are 2 players in Sunset Home.
+[Tue Oct 22 21:05:55 2002] Cronn GMSAYS, 'G'night Espranza'
+[Tue Oct 22 21:06:00 2002] It will take you about 30 seconds to prepare your camp.
+[Tue Oct 22 21:06:03 2002] Denethir GMSAYS, 'cya Espranza'
+[Tue Oct 22 21:06:03 2002] Chattel GMSAYS, 'see ya Espranza.  Good to have ya!'
+[Tue Oct 22 21:06:04 2002] It will take about 25 more seconds to prepare your camp.
+[Tue Oct 22 21:06:09 2002] It will take about 20 more seconds to prepare your camp.
+[Tue Oct 22 21:06:14 2002] It will take about 15 more seconds to prepare your camp.
+[Tue Oct 22 21:06:19 2002] It will take about 10 more seconds to prepare your camp.
+[Tue Oct 22 21:06:24 2002] It will take about 5 more seconds to prepare your camp.
+[Tue Oct 22 21:06:28 2002] Mercusio GMSAYS, 'nite Espranze'
+[Tue Oct 22 21:06:31 2002] You abandon your preparations to camp.

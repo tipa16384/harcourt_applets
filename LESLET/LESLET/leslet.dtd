@@ -1,0 +1,32 @@
+<!ELEMENT answer ( #PCDATA | text | ifselect )* >
+
+<!ELEMENT flipbook EMPTY >
+<!ATTLIST flipbook align (center | left | right | none) #IMPLIED >
+<!ATTLIST flipbook frames NMTOKEN #REQUIRED >
+<!ATTLIST flipbook src NMTOKEN #REQUIRED >
+
+<!ELEMENT text ( #PCDATA ) >
+<!ATTLIST text color NMTOKEN #IMPLIED >
+<!ATTLIST text style CDATA #IMPLIED >
+
+<!ELEMENT ifselect ( #PCDATA | text )* >
+
+<!ELEMENT picture EMPTY >
+<!ATTLIST picture align (center | left | right | none) #IMPLIED >
+<!ATTLIST picture caption CDATA #IMPLIED >
+<!ATTLIST picture src NMTOKEN #REQUIRED >
+
+<!ELEMENT link ( #PCDATA ) >
+<!ATTLIST link url CDATA #REQUIRED >
+<!ATTLIST link heading CDATA #IMPLIED >
+
+<!ELEMENT lesson ( page+ ) >
+
+<!ELEMENT page ( flipbook | picture | paragraph | quiz )* >
+<!ATTLIST page title CDATA #REQUIRED >
+
+<!ELEMENT paragraph ( #PCDATA | text )* >
+<!ATTLIST paragraph heading CDATA #IMPLIED >
+
+<!ELEMENT quiz ( answer+ ) >
+<!ATTLIST quiz heading CDATA #REQUIRED >

@@ -1,0 +1,952 @@
+[Wed Sep 26 16:30:39 2001] Welcome to EverQuest!
+[Wed Sep 26 16:30:39 2001] You have entered Sunset Home.
+[Wed Sep 26 16:30:46 2001] Players in EverQuest:
+[Wed Sep 26 16:30:46 2001] ---------------------------
+[Wed Sep 26 16:30:46 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Wed Sep 26 16:30:46 2001] * Guide *[53 Vicar] Synder (Dark Elf) <Keepers of Dreams> ZONE: cshome (USER PID HUUWF46)
+[Wed Sep 26 16:30:46 2001] There are 2 players in EverQuest.
+[Wed Sep 26 16:31:03 2001] You GMSAY, 'isogashikattaka syndersama'
+[Wed Sep 26 16:31:17 2001] Synder GMSAYS, 'huh?'
+[Wed Sep 26 16:31:21 2001] You GMSAY, 'heh'
+[Wed Sep 26 16:31:23 2001] Synder GMSAYS, 'hehe hi'
+[Wed Sep 26 16:31:30 2001] You GMSAY, 'has it been very busy/'
+[Wed Sep 26 16:31:33 2001] You GMSAY, 'has it been very busy?'
+[Wed Sep 26 16:32:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 16:32:04 2001] USER TEXT: Badname: Bigballa (Big Baller).  Thanks.
+[Wed Sep 26 16:32:04 2001] Players in EverQuest:
+[Wed Sep 26 16:32:04 2001] ---------------------------
+[Wed Sep 26 16:32:04 2001] [ANON (23 Cleric)] Bishope (High Elf) ZONE: lakeofillomen (USER PID BS82PNS)
+[Wed Sep 26 16:32:04 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:32:10 2001] Players in EverQuest:
+[Wed Sep 26 16:32:10 2001] ---------------------------
+[Wed Sep 26 16:32:10 2001] [39 Cleric] Bigjon (Dwarf) <Temple of Dawn> ZONE: kael (USER PID CW4HE0C)
+[Wed Sep 26 16:32:10 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:32:23 2001] Synder GMSAYS, 'not really'
+[Wed Sep 26 16:33:08 2001] You told Bishope, 'Hail, Bishope! Guide Espranza here. Okay, I've taken note of his name - too bad he's not on... sigh... by the way, your name is a title (Bishop) and also not allowable, though not nearly so bad as the other.'
+[Wed Sep 26 16:33:24 2001] You GMSAY, '<note badname> Bigballa (PID n/a)'
+[Wed Sep 26 16:33:24 2001] Bishope tells you, 'Nah, Lirus gave me this name =)'
+[Wed Sep 26 16:33:39 2001] You told Bishope, 'he did???'
+[Wed Sep 26 16:33:50 2001] Bishope tells you, 'yeah. Said as long as I 'mispelled' it, it was okay'
+[Wed Sep 26 16:34:18 2001] Bishope tells you, 'Thanks for taking note of the other one though!  =)  /hugs'
+[Wed Sep 26 16:34:23 2001] You told Bishope, 'okay, see ya'
+[Wed Sep 26 16:34:24 2001] DELETING THIS PETITION
+[Wed Sep 26 16:34:38 2001] You must exit current petition or current name approval to inquire.
+[Wed Sep 26 16:35:10 2001] Saving soulmark information to server.
+[Wed Sep 26 16:35:47 2001] You GMSAY, '<note badname> Bishope BS82PNS - title (Bishop) - claimed Lirus said he could have it so long as he misspelled it, but no soulmark to that effect.'
+[Wed Sep 26 16:36:03 2001] You GMSAY, 'what's the yellow?'
+[Wed Sep 26 16:36:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 16:36:05 2001] USER TEXT: I'm at the zone between East Commonlands and Nektolous Forest. I logged out a couple of hours ago due to major lag. When I logged back in I was bback at my bind point with no gear-I can't retrieve items from my corpse and still lagged.
+[Wed Sep 26 16:36:05 2001] Players in EverQuest:
+[Wed Sep 26 16:36:05 2001] ---------------------------
+[Wed Sep 26 16:36:05 2001] [9 Shadow Knight] Telchara (Dark Elf) <House Rea`Morda> ZONE: ecommons (USER PID CU87N2C)
+[Wed Sep 26 16:36:05 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:36:14 2001] Searching zones for corpse of that name....
+[Wed Sep 26 16:36:14 2001] Corpse: Telchara's corpse0 in zone: ecommons
+[Wed Sep 26 16:36:16 2001] You GMSAY, 'zone'
+[Wed Sep 26 16:36:20 2001] LOADING, PLEASE WAIT...
+[Wed Sep 26 16:36:47 2001] Dicembar shouts, 'EVERYONE SHOULD WATCH THE SERIES PREMIRE OF ENTERPRISE ON AT 8:00pm ON UPN'
+[Wed Sep 26 16:36:47 2001] Finben auctions, 'WTS spine chill spear send tells .'
+[Wed Sep 26 16:36:47 2001] Norgwar auctions, 'WTS Drakkel sledgehammer 22 50 2hb'
+[Wed Sep 26 16:36:50 2001] Dromedary auctions, 'WTS Lupine Armband 3 Str, 3 Agi'
+[Wed Sep 26 16:36:50 2001] Sebien says out of character, 'LOL "DS9" that sucked big time'
+[Wed Sep 26 16:36:50 2001] Racor auctions, 'WTS Swarmcaller 2HS 29/41 40low Ranger  8K'
+[Wed Sep 26 16:36:50 2001] Dromedary auctions, 'WTS Gauntlets of the Black 13 Ac, 4 Str, 3 wis'
+[Wed Sep 26 16:36:51 2001] You have entered East Commonlands.
+[Wed Sep 26 16:36:53 2001] Dromedary auctions, 'WTS Ry Gorr BP'
+[Wed Sep 26 16:36:53 2001] Rhyad says out of character, 'no'
+[Wed Sep 26 16:36:55 2001] Dromedary auctions, 'WTS Diamond'
+[Wed Sep 26 16:36:55 2001] Stingger shouts, 'Star Trek sucks'
+[Wed Sep 26 16:36:57 2001] Sonikk auctions, 'WTS orc fang necklace str sta agi+3  ac 5 '
+[Wed Sep 26 16:36:58 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:36:59 2001] Kilora says out of character, 'is that tonight?'
+[Wed Sep 26 16:37:01 2001] Brendil auctions, 'WTS Crustacean Gauntlets - AC11 8str -5cha'
+[Wed Sep 26 16:37:01 2001] Garhett auctions, 'WTS Crust Shell BP and Gauntlets'
+[Wed Sep 26 16:37:01 2001] Tyosz auctions, 'WTS Lumberjack cap 10ac +3 agi 25pp'
+[Wed Sep 26 16:37:03 2001] Crimzon shouts, 'someone should stop spaming the zone'
+[Wed Sep 26 16:37:03 2001] Tsioryu shouts, 'yup'
+[Wed Sep 26 16:37:05 2001] Dicembar shouts, 'yep'
+[Wed Sep 26 16:37:05 2001] Waluen auctions, 'WTS lupine dagger 9/18 dex wis 4 proc greater wolf form 14k'
+[Wed Sep 26 16:37:05 2001] Abll shouts, 'agreed'
+[Wed Sep 26 16:37:05 2001] Butog auctions, 'WTS 4AC 45HP ring ALL ALL'
+[Wed Sep 26 16:37:06 2001] Brendil auctions, 'WTS Cone of the Mystics - AC5 wis5 int5 hp50 || 6wis ring'
+[Wed Sep 26 16:37:07 2001] Rhyad says out of character, 'oh, its star trek? i'll be there'
+[Wed Sep 26 16:37:08 2001] Butog auctions, 'WTS Bone Mask of the Jarsath AC7 ST2 CHA8 WIS4 SVD5 SVP5 3K'
+[Wed Sep 26 16:37:08 2001] Teleporting to telchara's corpse0.
+[Wed Sep 26 16:37:09 2001] Tsioryu auctions, 'Bracer of the hidden, effect: see invis, ac6 2kobo'
+[Wed Sep 26 16:37:10 2001] Valakaru shouts, 'is that EST?'
+[Wed Sep 26 16:37:11 2001] Butog auctions, 'WTS Dwarven Sap 1HB 8 20 WAR CLR PAL ROG..DWFonly 400pp'
+[Wed Sep 26 16:37:14 2001] Norgwar auctions, 'WTS Drakkel sledgehammer 22 50 2hb'
+[Wed Sep 26 16:37:14 2001] Rommi shouts, 'ANDROMEDA RULES!!!!'
+[Wed Sep 26 16:37:15 2001] Neofists shouts, 'someone should use OOC for something like that :)'
+[Wed Sep 26 16:37:15 2001] Pipswich auctions, '8 20 1hb +3str  Mudman enforcer'
+[Wed Sep 26 16:37:17 2001] Pasqulleo auctions, 'WTS velium warhammer wus cap ring of goblin lord'
+[Wed Sep 26 16:37:18 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces 60pp 10ac'
+[Wed Sep 26 16:37:18 2001] Josebovey auctions, 'WTB Fishbone Earring'
+[Wed Sep 26 16:37:20 2001] Derreck auctions, 'WTS or WTT tentacruel whip 4 25 lvl8 proc lifetap'
+[Wed Sep 26 16:37:22 2001] Josebovey auctions, 'WTS Shroud of NAture Ac 13 Wis6 fire8 cold8 Druid BP'
+[Wed Sep 26 16:37:24 2001] Pipswich auctions, 'Ring  dex6 agility6  400p'
+[Wed Sep 26 16:37:25 2001] Rhyad shouts, 'and that'
+[Wed Sep 26 16:37:25 2001] Tsioryu auctions, 'WTS sarnak eitchatka 7/33 +3dex +15hp sec slot'
+[Wed Sep 26 16:37:26 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:37:30 2001] Shadowemp auctions, 'WTS Fungi Tunic'
+[Wed Sep 26 16:37:30 2001] Waren has emerged victorious in a duel to the death!
+[Wed Sep 26 16:37:32 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces 10ac 50pp!'
+[Wed Sep 26 16:37:33 2001] You told Telchara, 'Hail, Telchara! Guide Espranza here. How did your corpse get freed?'
+[Wed Sep 26 16:37:36 2001] Butog auctions, 'WTS Dwarven Sap 1HB 8 20 WAR CLR PAL ROG..DWFonly 400pp'
+[Wed Sep 26 16:37:37 2001] Pipswich auctions, 'Jaund bone boots 2k'
+[Wed Sep 26 16:37:38 2001] Neofists shouts, 'unless there are these so called, "shows" and "tv's" in our land of Norrath?'
+[Wed Sep 26 16:37:39 2001] Dicembar shouts, 'ANROMADA HAS BAD WRITERS BUT A GOOD CONCEPT'
+[Wed Sep 26 16:37:39 2001] Butog auctions, 'WTS Bone Mask of the Jarsath AC7 ST2 CHA8 WIS4 SVD5 SVP5 3K'
+[Wed Sep 26 16:37:39 2001] DELETING THIS PETITION
+[Wed Sep 26 16:37:40 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 16:37:43 2001] Butog auctions, 'WTS 4AC 45HP ring ALL ALL'
+[Wed Sep 26 16:37:47 2001] Kilora says out of character, 'what time zone is that at?'
+[Wed Sep 26 16:37:47 2001] Ramzaxx shouts, 'farscape!'
+[Wed Sep 26 16:37:48 2001] Rhyad shouts, 'stop it'
+[Wed Sep 26 16:37:49 2001] USER TEXT: I just fell through the world in stonebrunt upon logging in, please come get me out
+[Wed Sep 26 16:37:49 2001] Players in EverQuest:
+[Wed Sep 26 16:37:49 2001] ---------------------------
+[Wed Sep 26 16:37:49 2001] [24 Warrior] Yoggle (Gnome) ZONE: stonebrunt (USER PID DY8SGXP)
+[Wed Sep 26 16:37:49 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:37:51 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:37:51 2001] Soloru shouts, 'Neofists = newbie'
+[Wed Sep 26 16:37:51 2001] Aeliel auctions, 'WTS Truesilver Sleeves 150pp'
+[Wed Sep 26 16:37:53 2001] Nekemasa says out of character, 'dicembar your caps lock key is stuck'
+[Wed Sep 26 16:37:53 2001] Pipswich auctions, 'Kylong War Helm 750p'
+[Wed Sep 26 16:37:54 2001] Erlik auctions, 'WTS Hooded Black Cloak 10ac 5str 45hp'
+[Wed Sep 26 16:37:54 2001] Soloru shouts, '=)'
+[Wed Sep 26 16:37:54 2001] Pipswich auctions, 'Dire Wolf cloak ac8 str6 stam6 hp35 3500p'
+[Wed Sep 26 16:37:55 2001] Tsioryu auctions, 'Bracer of the hidden, effect: see invis, ac6 2kobo'
+[Wed Sep 26 16:37:57 2001] Tyosz auctions, 'WTB bronze boots and leggings'
+[Wed Sep 26 16:37:58 2001] Erlik auctions, 'WTS Spider Fur Cloak 10ac 4str 4sta 6cold 0 weight'
+[Wed Sep 26 16:37:59 2001] Kaledari auctions, 'wts small wisdom deity, 50pp, +2wis, range slot'
+[Wed Sep 26 16:37:59 2001] Aeliel auctions, 'WTS Silkin Whip of Ensnaring 14D 28Dly snare 7.5kp'
+[Wed Sep 26 16:38:00 2001] Norgwar auctions, 'WTS Drakkel sledgehammer 22 50 2hb'
+[Wed Sep 26 16:38:01 2001] Neofists shouts, 'yeah i'm a "newbie" '
+[Wed Sep 26 16:38:04 2001] Aeliel auctions, 'WTS Mamoth Hide Cloak 7AC 4Wis Great Cleric Item'
+[Wed Sep 26 16:38:05 2001] You told Yoggle, 'Hail, Yoggle! Guide Espranza here. Are you still stuck?'
+[Wed Sep 26 16:38:08 2001] Derreck auctions, 'WTS or WTT tentacruel whip 4 25 lvl8 proc lifetap'
+[Wed Sep 26 16:38:08 2001] Rommi shouts, 'HA what n00b'
+[Wed Sep 26 16:38:09 2001] Yoggle tells you, 'yes'
+[Wed Sep 26 16:38:11 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces 10ac 50pp!'
+[Wed Sep 26 16:38:15 2001] Skelomatic begins to cast a spell. (Gather Shadows)
+[Wed Sep 26 16:38:16 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:38:16 2001] Josebovey auctions, 'WTS Shroud of NAture Ac 13 Wis6 fire8 cold8 Druid BP'
+[Wed Sep 26 16:38:17 2001] You told Yoggle, 'okay, I'll be right there'
+[Wed Sep 26 16:38:17 2001] Soloru shouts, 'I own Neo!! all 3 of em'
+[Wed Sep 26 16:38:18 2001] Virous auctions, 'WTB/T for cobalt bracer and helm'
+[Wed Sep 26 16:38:19 2001] Yoggle tells you, 'ok thanks'
+[Wed Sep 26 16:38:21 2001] Josebovey auctions, 'WTB Fishbone Earring'
+[Wed Sep 26 16:38:23 2001] Pipswich auctions, 'Dire Wolf cloak ac8 str6 stam6 hp35 3500p'
+[Wed Sep 26 16:38:23 2001] Kilora auctions, 'WTS icegrinder 2hb 27dmg 45dly icerend...1kp'
+[Wed Sep 26 16:38:23 2001] Neofists shouts, 'all 3 eh?'
+[Wed Sep 26 16:38:24 2001] Loldari auctions, 'WTS A Chetari Wardstaff'
+[Wed Sep 26 16:38:25 2001] Kilora auctions, 'WTS crystalline belt ac5 wis+3 agi+3 hp+10'
+[Wed Sep 26 16:38:26 2001] You GMSAY, 'zone'
+[Wed Sep 26 16:38:26 2001] Kilora auctions, 'WTS flawed emerald (melee vel armor quest)'
+[Wed Sep 26 16:38:27 2001] Norgwar auctions, 'WTS Drakkel sledgehammer 22 50 2hb'
+[Wed Sep 26 16:38:28 2001] Loldari auctions, 'WTS White Bear Pelt Cloak 11ac 5str 5wis 75hp 3svm 50m'
+[Wed Sep 26 16:38:29 2001] Musician auctions, 'WTS BE gauntlets, BE vambraces, SS boot'
+[Wed Sep 26 16:38:29 2001] Loldari auctions, 'WTS MoTQ 2hp 20/40 5str 5wis 5svc'
+[Wed Sep 26 16:38:31 2001] Pipswich auctions, 'Idol of thorned'
+[Wed Sep 26 16:38:32 2001] You feel the spirit of Z surround you.
+[Wed Sep 26 16:38:33 2001] Teleporting to yoggle.
+[Wed Sep 26 16:38:33 2001] LOADING, PLEASE WAIT...
+[Wed Sep 26 16:39:13 2001] You have entered Stonebrunt Mountains.
+[Wed Sep 26 16:39:21 2001] Player is beneath the world in stonebrunt at -3799.137695, 2897.464600, -1004.255920, moving to safe point.
+[Wed Sep 26 16:39:28 2001] Summoning yoggle.
+[Wed Sep 26 16:39:33 2001] You say, 'that was weird'
+[Wed Sep 26 16:39:34 2001] Yoggle cheers at Espranza.
+[Wed Sep 26 16:39:39 2001] You say, 'I fell and fell and landed here'
+[Wed Sep 26 16:39:47 2001] Yoggle says, 'yeah, I logged in a fell though'
+[Wed Sep 26 16:39:51 2001] Yoggle says, 'where is the zone?'
+[Wed Sep 26 16:39:57 2001] You say, 'I dunno!'
+[Wed Sep 26 16:40:00 2001] Yoggle says, 'ack!'
+[Wed Sep 26 16:40:02 2001] You say, 'let's look...'
+[Wed Sep 26 16:40:03 2001] Players on EverQuest:
+[Wed Sep 26 16:40:03 2001] ---------------------------
+[Wed Sep 26 16:40:03 2001] [ANONYMOUS] Aaumelien 
+[Wed Sep 26 16:40:03 2001] [20 Monk] Dorrim (Human) <Legions of Valhalla>
+[Wed Sep 26 16:40:03 2001] [ANONYMOUS] Exee  <Legions of Valhalla>
+[Wed Sep 26 16:40:03 2001] [18 Druid] Shalrathas (Wood Elf) <Exiled Elite>
+[Wed Sep 26 16:40:03 2001] [19 Bard] Rolann (Wood Elf)
+[Wed Sep 26 16:40:03 2001] [ANONYMOUS] Xolaam 
+[Wed Sep 26 16:40:03 2001] [18 Enchanter] Sundiere (Wood Elf) <Revered Souls>
+[Wed Sep 26 16:40:03 2001] [55 Defiler] Xiziax (Iksar) <Tolkien's Revenge>
+[Wed Sep 26 16:40:03 2001] [60 Hierophant] Bisounours (Halfling) <Pandore>
+[Wed Sep 26 16:40:03 2001] [44 Monk] Toarr (Human) <Der Einherjar>
+[Wed Sep 26 16:40:03 2001] [ANONYMOUS] Gialani  <Der Einherjar>
+[Wed Sep 26 16:40:03 2001] [23 Paladin] Egan (Dwarf)
+[Wed Sep 26 16:40:03 2001] [ANONYMOUS] Syloche 
+[Wed Sep 26 16:40:03 2001] [24 Warrior] Yoggle (Gnome)
+[Wed Sep 26 16:40:03 2001] [26 Cleric] Lallaieni (High Elf) <Restless Virtues>
+[Wed Sep 26 16:40:03 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Wed Sep 26 16:40:03 2001] There are 16 players in Stonebrunt Mountains.
+[Wed Sep 26 16:40:17 2001] Teleporting to sundiere.
+[Wed Sep 26 16:40:35 2001] You told Yoggle, 'found it! I win! yay!'
+[Wed Sep 26 16:40:38 2001] Yoggle tells you, 'lol'
+[Wed Sep 26 16:40:50 2001] Your Location is -3863.85, 2965.49, -43.69
+[Wed Sep 26 16:40:54 2001] Yoggle tells you, 'you can send me to antonica if it would be easier'
+[Wed Sep 26 16:41:04 2001] You told Yoggle, 'n3900 p3000'
+[Wed Sep 26 16:41:14 2001] Yoggle tells you, 'ack!'
+[Wed Sep 26 16:41:21 2001] Yoggle tells you, 'hope I dont die on the way =)'
+[Wed Sep 26 16:41:25 2001] You told Yoggle, 'heh... yeah maybe, but I can only bring you out of the underworld'
+[Wed Sep 26 16:41:30 2001] Summoning yoggle.
+[Wed Sep 26 16:41:39 2001] Yoggle cheers at Espranza.
+[Wed Sep 26 16:41:41 2001] You say, 'You move pretty quick... for a gnome'
+[Wed Sep 26 16:41:47 2001] Yoggle says, 'thanks, little lady'
+[Wed Sep 26 16:41:50 2001] Yoggle says, 'I try'
+[Wed Sep 26 16:41:51 2001] You bow before Yoggle.
+[Wed Sep 26 16:41:55 2001] DELETING THIS PETITION
+[Wed Sep 26 16:41:55 2001] Yoggle waves at Espranza.
+[Wed Sep 26 16:41:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 16:41:57 2001] USER TEXT: my group is getting KS'd in the warrior room in High keep ... i have no idea whos doing it but we also got trained afterward
+[Wed Sep 26 16:41:57 2001] Players in EverQuest:
+[Wed Sep 26 16:41:57 2001] ---------------------------
+[Wed Sep 26 16:41:57 2001] [27 Shadow Knight] Sallyana (Human) <Legacy of the Nameless> ZONE: highkeep (USER PID GUH3KFJ)
+[Wed Sep 26 16:41:57 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:42:03 2001] You wave goodbye to Yoggle.
+[Wed Sep 26 16:42:05 2001] Yoggle says, 'thanks for the rescue'
+[Wed Sep 26 16:42:06 2001] You GMSAY, 'zone and hiding'
+[Wed Sep 26 16:42:09 2001] You say, 'sure thing!'
+[Wed Sep 26 16:42:13 2001] You feel the spirit of Z surround you.
+[Wed Sep 26 16:42:14 2001] You feel the spirit of Z surround you.
+[Wed Sep 26 16:42:15 2001] LOADING, PLEASE WAIT...
+[Wed Sep 26 16:42:40 2001] You have entered High Keep.
+[Wed Sep 26 16:42:45 2001] Espranza is now Invisible.
+[Wed Sep 26 16:42:45 2001] You are now anonymous.
+[Wed Sep 26 16:43:00 2001] Players on EverQuest:
+[Wed Sep 26 16:43:00 2001] ---------------------------
+[Wed Sep 26 16:43:00 2001] [27 Shadow Knight] Sallyana (Human) <Legacy of the Nameless>
+[Wed Sep 26 16:43:00 2001] There is 1 player in HighKeep.
+[Wed Sep 26 16:43:03 2001] Teleporting to sallyana.
+[Wed Sep 26 16:43:06 2001] a Pickclaw seer begins to cast a spell. (Spirit of Wolf)
+[Wed Sep 26 16:43:06 2001] You begin to sneak...
+[Wed Sep 26 16:43:07 2001] You are as quiet as a herd of running elephants.
+[Wed Sep 26 16:43:10 2001] a pickclaw guard says 'Ugly creature near my feet, me thinks that you'll be good to eat! 
+[Wed Sep 26 16:43:10 2001] a pickclaw guard says 'Your foul deeds have earned my contempt!'
+[Wed Sep 26 16:43:18 2001] a Pickclaw seer begins to cast a spell. (Inner Fire)
+[Wed Sep 26 16:43:19 2001] You begin to sneak...
+[Wed Sep 26 16:43:20 2001] You have become better at Sneak! (58)
+[Wed Sep 26 16:43:20 2001] You are as quiet as a cat stalking its prey.
+[Wed Sep 26 16:43:26 2001] Blakup begins to cast a spell. (Light Healing)
+[Wed Sep 26 16:43:27 2001] Eilini begins to cast a spell. (Frost Shock)
+[Wed Sep 26 16:43:33 2001] Blakup begins to cast a spell. (Light Healing)
+[Wed Sep 26 16:43:34 2001] Banntus's song ends.
+[Wed Sep 26 16:43:34 2001] Banntus's song ends.
+[Wed Sep 26 16:43:35 2001]  (Anthem de Arms)
+[Wed Sep 26 16:43:36 2001] Eilini begins to cast a spell. (Frost Shock)
+[Wed Sep 26 16:43:39 2001] A pickclaw guard's skin freezes over.
+[Wed Sep 26 16:43:39 2001] a pickclaw guard has been slain by Eilini!
+[Wed Sep 26 16:43:39 2001] Banntus's song ends.
+[Wed Sep 26 16:43:40 2001] Banntus's song ends.
+[Wed Sep 26 16:43:41 2001]  (Cassindra`s Chant of Clarity)
+[Wed Sep 26 16:44:00 2001] Banntus's song ends.
+[Wed Sep 26 16:44:00 2001] Banntus's song ends.
+[Wed Sep 26 16:44:02 2001]  (Hymn of Restoration)
+[Wed Sep 26 16:44:03 2001] Blakup begins to cast a spell. (Light Healing)
+[Wed Sep 26 16:44:11 2001] Blakup begins to cast a spell. (Light Healing)
+[Wed Sep 26 16:44:16 2001] Blakup begins to cast a spell. (Light Healing)
+[Wed Sep 26 16:44:22 2001] Blakup begins to cast a spell. (Light Healing)
+[Wed Sep 26 16:44:27 2001] Blakup begins to cast a spell. (Light Healing)
+[Wed Sep 26 16:44:28 2001] Telchara tells you, 'I  logged out and must have got killed during lag. I can't retrieve items from it.'
+[Wed Sep 26 16:44:33 2001] Blakup begins to cast a spell. (Light Healing)
+[Wed Sep 26 16:44:38 2001] Blakup begins to cast a spell. (Light Healing)
+[Wed Sep 26 16:44:43 2001] You told Telchara, 'you can't loot your corpse???'
+[Wed Sep 26 16:44:49 2001] You told Telchara, 'Oh, thought I saw you looting it'
+[Wed Sep 26 16:45:00 2001] Searching zones for corpse of that name....
+[Wed Sep 26 16:45:01 2001] Corpse: Telchara's corpse0 in zone: ecommons
+[Wed Sep 26 16:45:03 2001] Telchara tells you, 'and "Tell" is lagging too, so I 'm having trouble responding.'
+[Wed Sep 26 16:45:04 2001] a Pickclaw seer begins to cast a spell. (Tagar's Insects)
+[Wed Sep 26 16:45:05 2001] Ran Flamespinner begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Sep 26 16:45:24 2001] Daelaany Scores a critical hit!(73)
+[Wed Sep 26 16:45:29 2001] Eilini begins to cast a spell. (Lightning Bolt)
+[Wed Sep 26 16:45:31 2001] a Pickclaw seer begins to cast a spell. (Tagar's Insects)
+[Wed Sep 26 16:45:31 2001] You told Telchara, 'what sort of connection do you have?'
+[Wed Sep 26 16:45:34 2001] Daelaany yawns.
+[Wed Sep 26 16:45:36 2001] Chomp, chomp, chomp...  Alesim takes a bite from a Vegetables.
+[Wed Sep 26 16:45:37 2001] Eilini begins to cast a spell. (Frost Shock)
+[Wed Sep 26 16:45:38 2001] USER TEXT: my group is getting KS'd in the warrior room in High keep ... i have no idea whos doing it but we also got trained afterward
+[Wed Sep 26 16:45:40 2001] Banntus's song ends.
+[Wed Sep 26 16:45:40 2001] Banntus's song ends.
+[Wed Sep 26 16:45:41 2001]  (Anthem de Arms)
+[Wed Sep 26 16:45:45 2001] Banntus's song ends.
+[Wed Sep 26 16:45:45 2001] Banntus's song ends.
+[Wed Sep 26 16:45:45 2001] Schadows begins to cast a spell. (Healing)
+[Wed Sep 26 16:45:46 2001]  (Hymn of Restoration)
+[Wed Sep 26 16:45:49 2001] Daelaany feels much better.
+[Wed Sep 26 16:45:49 2001] Eilini begins to cast a spell. (Cancel Magic)
+[Wed Sep 26 16:45:50 2001] Banntus's song ends.
+[Wed Sep 26 16:45:50 2001] Banntus's song ends.
+[Wed Sep 26 16:45:51 2001]  (Anthem de Arms)
+[Wed Sep 26 16:45:53 2001] Schadows begins to cast a spell. (Healing)
+[Wed Sep 26 16:45:57 2001] Banntus's song ends.
+[Wed Sep 26 16:45:57 2001] Banntus's song ends.
+[Wed Sep 26 16:45:58 2001]  (Hymn of Restoration)
+[Wed Sep 26 16:46:00 2001] Schadows begins to cast a spell. (Healing)
+[Wed Sep 26 16:46:03 2001] Daelaany feels much better.
+[Wed Sep 26 16:46:14 2001] Conlaorm begins to cast a spell. (Tashan)
+[Wed Sep 26 16:46:16 2001] You told Sallyana, 'Hail, Sallyana! Guide Espranza here. How long has it been since it last happened?'
+[Wed Sep 26 16:46:19 2001] Conlaorm begins to cast a spell. (Languid Pace)
+[Wed Sep 26 16:46:24 2001] Conlaorm begins to cast a spell. (Disempower)
+[Wed Sep 26 16:46:27 2001] Blakup begins to cast a spell. (Yaulp)
+[Wed Sep 26 16:46:27 2001] Sallyana tells you, 'ages NM now ;)'
+[Wed Sep 26 16:46:31 2001] Kebekn begins to cast a spell. (FireElementalAttack)
+[Wed Sep 26 16:46:34 2001] Telchara tells you, 'I'm managing to get an item off my cprose every 10 min or so.'
+[Wed Sep 26 16:46:37 2001] You told Sallyana, 'heh okay - well, be well and best of luck!'
+[Wed Sep 26 16:46:39 2001] Amadarius begins to cast a spell. (Shock of Flame)
+[Wed Sep 26 16:46:39 2001] Blakup begins to cast a spell. (Root)
+[Wed Sep 26 16:46:45 2001] Sallyana tells you, 'thanks :)'
+[Wed Sep 26 16:46:45 2001] Kebekn begins to cast a spell. (FireElementalAttack)
+[Wed Sep 26 16:46:45 2001] You GMSAY, 'zone'
+[Wed Sep 26 16:46:47 2001] DELETING THIS PETITION
+[Wed Sep 26 16:46:48 2001] Conlaorm begins to cast a spell. (Disempower)
+[Wed Sep 26 16:46:49 2001] Blakup begins to cast a spell. (Yaulp)
+[Wed Sep 26 16:46:52 2001] Teleporting to telchara.
+[Wed Sep 26 16:46:53 2001] LOADING, PLEASE WAIT...
+[Wed Sep 26 16:47:20 2001] Mandable auctions, 'wts SoW potions, 10chg 100p'
+[Wed Sep 26 16:47:20 2001] Scarabus auctions, 'PC on focused etherial rapier?'
+[Wed Sep 26 16:47:22 2001] You have entered East Commonlands.
+[Wed Sep 26 16:47:26 2001] It begins to rain.
+[Wed Sep 26 16:47:27 2001] Faylan auctions, ':::::SELLING:::::: Jaundice Bone Arms 2k,,,,,,Ykesha War Club eff Ykesha 1.3k,,,,,,,Sentry Mual 2hb 500p,,,,,,,Kunzar Cloak 400p'
+[Wed Sep 26 16:47:28 2001] Tsioryu auctions, 'WTS sarnak eitchatka 7/33 +3dex +15hp sec slot'
+[Wed Sep 26 16:47:29 2001] You are no longer anonymous.
+[Wed Sep 26 16:47:30 2001] You no longer have a target.
+[Wed Sep 26 16:47:34 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:47:38 2001] Brendi says out of character, 'did karana think its time for us to get a bath?'
+[Wed Sep 26 16:47:42 2001] Nekemasa auctions, 'WTS cone of the mystics 5 AC 5 WIS 5 INT 50 MANA all/all 2.5k'
+[Wed Sep 26 16:47:43 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:47:43 2001] Racor auctions, 'WTS Silver Swiftblade 2HS 16/24 ranger 5K'
+[Wed Sep 26 16:47:44 2001] You say, 'Seems like you just have really bad lag. Have you tried rebooting?'
+[Wed Sep 26 16:47:45 2001] Waluen auctions, 'WTS lupine dagger 9/18 dex wis 4 proc greater wolf form 14k'
+[Wed Sep 26 16:47:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 16:47:46 2001] USER TEXT: Im getting all sorts of screwed up text in blue, could you tell me what this crap is please? I did a /report on it
+[Wed Sep 26 16:47:47 2001] Players in EverQuest:
+[Wed Sep 26 16:47:47 2001] ---------------------------
+[Wed Sep 26 16:47:47 2001] [45 Cleric] Hinobi (Halfling) <Tolkien's Revenge> ZONE: dreadlands (USER PID BW2KE8C)
+[Wed Sep 26 16:47:47 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:47:49 2001] Scarabus auctions, 'PC on focused etherial rapier?'
+[Wed Sep 26 16:47:54 2001] Aramelus auctions, 'WTB skinning knife'
+[Wed Sep 26 16:47:57 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces 10ac 50pp!, WTS CCS'
+[Wed Sep 26 16:47:59 2001] Tyosz auctions, 'WTS Med Banded armor for back, shoulds, waist, neck, and face'
+[Wed Sep 26 16:48:00 2001] Mistral auctions, 'WTS Stiletto of the Bloodclaw, 6  23, 20DD, 30DOT.'
+[Wed Sep 26 16:48:02 2001] Mistral auctions, 'WTS Obsidian Shard, Piercer, 6  25, Proc 30DD.'
+[Wed Sep 26 16:48:04 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:48:09 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:48:11 2001] Tyosz auctions, 'WTS Lumberjack cap 25pp'
+[Wed Sep 26 16:48:14 2001] Pipswich auctions, '8 20 1hb +3str  Mudman enforcer'
+[Wed Sep 26 16:48:15 2001] Nekemasa auctions, 'WTS velium battle axe 30/40 2hs, 8k or WTT for 4 BDs'
+[Wed Sep 26 16:48:15 2001] Derreck auctions, 'WTS or WTT tentacruel whip 4 25 lvl8 proc lifetap'
+[Wed Sep 26 16:48:15 2001] You told Hinobi, 'Hail, Hinobi! Guide Espranza here. This is happening to a lot of people, mostly in crowded zones - it's been reported, I don't know what they're doing about it.'
+[Wed Sep 26 16:48:17 2001] DELETING THIS PETITION
+[Wed Sep 26 16:48:18 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 16:48:19 2001] USER TEXT: Hello..sorry to bother u but i have a problem w/ my surname that i need to talk to a GM about
+[Wed Sep 26 16:48:19 2001] Players in EverQuest:
+[Wed Sep 26 16:48:19 2001] ---------------------------
+[Wed Sep 26 16:48:19 2001] [26 Cleric] Rezzyn (Halfling) <The Scaled Brotherhood> ZONE: frontiermtns (USER PID BWA28HX)
+[Wed Sep 26 16:48:19 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:48:20 2001] Nekemasa auctions, 'WTS SSoY 1.5k | DW gauntlets 1k | crystalline robes 700pp | crustacean gaunts/bracer/helm 500pp each | sarnak hide mask 1k | dusty BP 500pp | crafted arms 250pp | crafted bracer 100pp | sebilite scale cape 500pp or WTT items for Crus BP or legs'
+[Wed Sep 26 16:48:21 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:48:22 2001] Sellabish auctions, 'selling mace of the shadowed soul (sk), battle staff (erudite only), enamled black mace, wraithbone hammer, berserkers axe'
+[Wed Sep 26 16:48:24 2001] Rhyad auctions, 'Fine Plate armor Helm Boots Arms and Bracers.. 75p for any piece'
+[Wed Sep 26 16:48:25 2001] Pipswich auctions, 'Jaund bone boots 2k'
+[Wed Sep 26 16:48:26 2001] Scarabus auctions, 'PC on focused etherial rapier?'
+[Wed Sep 26 16:48:27 2001] Hinobi tells you, 'Ok, thanks anyway =/'
+[Wed Sep 26 16:48:30 2001] Pipswich auctions, 'Ring  dex6 agility6  400p'
+[Wed Sep 26 16:48:33 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:48:35 2001] Waluen auctions, 'WTS lupine dagger 9/18 dex wis 4 proc greater wolf form 14k'
+[Wed Sep 26 16:48:35 2001] Faylan auctions, ':::::SELLING:::::: Jaundice Bone Arms 2k,,,,,,Ykesha War Club eff Ykesha 1.3k,,,,,,,Sentry Mual 2hb 500p,,,,,,,Kunzar Cloak 400p'
+[Wed Sep 26 16:48:36 2001] Aeliel auctions, 'WTS Mamoth Hide Cloak 7AC 4Wis Great Cleric Item'
+[Wed Sep 26 16:48:38 2001] Pipswich auctions, 'Kylong War Helm 750p'
+[Wed Sep 26 16:48:38 2001] Qaylin shouts, 'lvl 7 wiz lfg'
+[Wed Sep 26 16:48:39 2001] Waluen auctions, 'trading lupine dagger and tolans arms for dragonborn sash'
+[Wed Sep 26 16:48:40 2001] Tsioryu auctions, 'WTS shield of slain unicorn ac9 10/40'
+[Wed Sep 26 16:48:40 2001] Pipswich auctions, 'Dire Wolf cloak ac8 str6 stam6 hp35 3500p'
+[Wed Sep 26 16:48:40 2001] Blackrosse auctions, 'WTS Shrunken Goblin Skull Earring ac3 Effect:Grim Aura send tells'
+[Wed Sep 26 16:48:41 2001] Tsioryu auctions, 'Bracer of the hidden, effect: see invis ac6 2K obo'
+[Wed Sep 26 16:48:42 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces 10ac 50pp!, WTS CCS'
+[Wed Sep 26 16:48:43 2001] Resen auctions, 'WTTG Cobalt Vambs'
+[Wed Sep 26 16:48:47 2001] Ssilo auctions, 'WTS Black ice greaves 13ac 7str 2.5kpp'
+[Wed Sep 26 16:48:49 2001] Soriana auctions, 'WTS crystal chitin shield,cane of harmony'
+[Wed Sep 26 16:48:50 2001] Ssilo auctions, 'WTS TBBelt 8ac 15str! 0.5wt ALL ALL 3.5kpp'
+[Wed Sep 26 16:48:53 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:48:53 2001] Boco auctions, 'WTB the following a DF belt, a giant snare rattle, and a desert tarantula chitin'
+[Wed Sep 26 16:48:53 2001] Ssilo auctions, 'WTS Jagged Long Sword 16dmg 30dly WAR only 4kpp'
+[Wed Sep 26 16:48:58 2001] Butog auctions, 'WTS Bone Mask of the Jarsath AC7 ST2 CHA8 WIS4 SVD5 SVP5 3K'
+[Wed Sep 26 16:49:02 2001] Rhyad auctions, 'Fine Plate armor Helm Boots Arms and Bracers.. 75p for any piece'
+[Wed Sep 26 16:49:06 2001] Butog auctions, 'WTS Dwarven Sap 1HB 8 20 WAR CLR PAL ROG..DWFonly 400pp'
+[Wed Sep 26 16:49:07 2001] Soriana auctions, 'WTS crystal chitin shield,cane of harmony'
+[Wed Sep 26 16:49:07 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:49:10 2001] Derreck auctions, 'WTS or WTT tentacruel whip 4 25 lvl8 proc lifetap'
+[Wed Sep 26 16:49:11 2001] Sonikk auctions, 'WTS orc fang necklace str sta agi+3  ac 5 '
+[Wed Sep 26 16:49:14 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces 10ac 50pp!, WTS CCS'
+[Wed Sep 26 16:49:18 2001] Pasqulleo auctions, 'WTS ring of goblin lord WTB lots of cleric stuff'
+[Wed Sep 26 16:49:21 2001] Telchara tells you, 'anything got thru?'
+[Wed Sep 26 16:49:25 2001] You told Rezzyn, 'Hail, Rezzyn! Guide Espranza here. There's nobody on right now who can change names - if you could repetition during Lirus' hours (Thursday through Monday, 3pm to 11pm Pacific time), he will be able to help you. You might want to look over...'
+[Wed Sep 26 16:49:33 2001] Resen auctions, 'WTTF Cobalt Arms'
+[Wed Sep 26 16:49:36 2001] Tsioryu auctions, 'WTS sarnak eitchatka 7/33 +3dex +15hp sec slot'
+[Wed Sep 26 16:49:39 2001] Blackrosse auctions, 'WTS Shrunken Goblin Skull Earring ac3 Effect:Grim Aura send tells'
+[Wed Sep 26 16:49:41 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:49:41 2001] Soriana auctions, 'WTS crystal chitin shield,cane of harmony'
+[Wed Sep 26 16:49:43 2001] Savina auctions, 'WTS Dwarven 2H Axe, Dmg:14, atkdly:43'
+[Wed Sep 26 16:49:44 2001] You told Rezzyn, 'the naming guidelines to make sure your first and last names together don't make a phrase.'
+[Wed Sep 26 16:49:44 2001] Benkin auctions, 'WTS, umm me'
+[Wed Sep 26 16:49:45 2001] Butog auctions, 'WTS Dwarven Sap 1HB 8 20 WAR CLR PAL ROG..DWFonly 400pp'
+[Wed Sep 26 16:49:45 2001] Savina auctions, 'WTS Red Rust Fine Plate Breastplate, AC:19'
+[Wed Sep 26 16:49:45 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces 10ac 50pp!, WTS CCS'
+[Wed Sep 26 16:49:49 2001] Butog auctions, 'WTS Bone Mask of the Jarsath AC7 ST2 CHA8 WIS4 SVD5 SVP5 3K'
+[Wed Sep 26 16:49:51 2001] Syndin auctions, 'WTS a Diamond!'
+[Wed Sep 26 16:49:52 2001] Kerveros auctions, 'WTS Wurmslayer'
+[Wed Sep 26 16:49:52 2001] Tyosz auctions, 'WTS Lumberjack cap 25pp'
+[Wed Sep 26 16:49:55 2001] Tsioryu auctions, 'WTS shield of slain unicorn ac9 10/40'
+[Wed Sep 26 16:49:56 2001] Pipswich auctions, '8 20 1hb +3str  Mudman enforcer'
+[Wed Sep 26 16:49:56 2001] Resen auctions, 'WTTF LAmentation'
+[Wed Sep 26 16:49:57 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:50:00 2001] Pipswich auctions, 'Ring  dex6 agility6  400p'
+[Wed Sep 26 16:50:01 2001] Butog auctions, 'WTS 4AC 45HP ring ALL ALL'
+[Wed Sep 26 16:50:02 2001] You told Telchara, 'I think I'm getting all your tells...'
+[Wed Sep 26 16:50:05 2001] Rijecis says out of character, 'see, i zone into the area, and my smile brings out the sun!'
+[Wed Sep 26 16:50:05 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces 10ac 50pp!, WTS CCS'
+[Wed Sep 26 16:50:06 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:50:06 2001] Rhyad auctions, 'Fine Plate armor Helm Boots Arms and Bracers.. 75p for any piece'
+[Wed Sep 26 16:50:07 2001] Mistral auctions, 'WTS Obsidian Shard, Piercer, 6  25, Proc 30DD.'
+[Wed Sep 26 16:50:08 2001] DELETING THIS PETITION
+[Wed Sep 26 16:50:09 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 16:50:10 2001] USER TEXT: very bad name: jugallo (gigolo)
+[Wed Sep 26 16:50:10 2001] Players in EverQuest:
+[Wed Sep 26 16:50:10 2001] ---------------------------
+[Wed Sep 26 16:50:10 2001] [19 Enchanter] Fadebe (Gnome) ZONE: lakeofillomen (USER PID APGZ4VS) LFG
+[Wed Sep 26 16:50:10 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:50:10 2001] Pipswich auctions, 'Jaund bone boots 2k'
+[Wed Sep 26 16:50:11 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:50:13 2001] Pipswich auctions, 'Kylong War Helm 750p'
+[Wed Sep 26 16:50:13 2001] Soriana auctions, 'WTS crystal chitin shield,cane of harmony'
+[Wed Sep 26 16:50:14 2001] Pasqulleo auctions, 'WTS ring of goblin lord WTB lots of cleric stuff'
+[Wed Sep 26 16:50:16 2001] Pipswich auctions, 'Idol of thorned'
+[Wed Sep 26 16:50:16 2001] Players in EverQuest:
+[Wed Sep 26 16:50:16 2001] ---------------------------
+[Wed Sep 26 16:50:16 2001] There are no players in EverQuest that match those who filters.
+[Wed Sep 26 16:50:17 2001] Derreck auctions, 'WTS or WTT tentacruel whip 4 25 lvl8 proc lifetap'
+[Wed Sep 26 16:50:19 2001] Players in EverQuest:
+[Wed Sep 26 16:50:19 2001] ---------------------------
+[Wed Sep 26 16:50:19 2001] There are no players in EverQuest that match those who filters.
+[Wed Sep 26 16:50:21 2001] Griftar auctions, 'Selling Granite Face Grinder 29/36 10str 10wis 10int 2hb 13k or trades'
+[Wed Sep 26 16:50:22 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:50:22 2001] Butog auctions, 'WTS Bone Mask of the Jarsath AC7 ST2 CHA8 WIS4 SVD5 SVP5 3K'
+[Wed Sep 26 16:50:23 2001] Tsioryu auctions, 'WTS sarnak eitchatka 7/33 +3dex +15hp sec slot'
+[Wed Sep 26 16:50:23 2001] Bolloxx auctions, 'wtb wus armor please'
+[Wed Sep 26 16:50:24 2001] Rezzyn tells you, 'thats the problem it does...didnt know at time it was wrong'
+[Wed Sep 26 16:50:26 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:50:27 2001] Butog auctions, 'WTS 4AC 45HP ring ALL ALL'
+[Wed Sep 26 16:50:27 2001] Bolloxx auctions, 'wts blacked alloy coif'
+[Wed Sep 26 16:50:29 2001] Bolloxx auctions, 'wts chipped bone braclet'
+[Wed Sep 26 16:50:30 2001] Butog auctions, 'WTS Dwarven Sap 1HB 8 20 WAR CLR PAL ROG..DWFonly 400pp'
+[Wed Sep 26 16:50:31 2001] Rijecis says out of character, 'here comes the sun, do do do do, here comes teh suuuunn.'
+[Wed Sep 26 16:50:34 2001] Tyosz auctions, 'WTB med banded armor or bronze'
+[Wed Sep 26 16:50:35 2001] Derreck auctions, 'WTS or WTT tentacruel whip 4 25 lvl8 proc lifetap'
+[Wed Sep 26 16:50:36 2001] Nekemasa auctions, 'WTS bracelet of woven grass 1 AC 3 INT 12 HP 75pp | elemental binder 75pp'
+[Wed Sep 26 16:50:37 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:50:40 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces(arms), WTS CCS send tells'
+[Wed Sep 26 16:50:42 2001] Kyena auctions, 'WTS Pearl Kedge Totem...Wis+ 18Str-9...send tells'
+[Wed Sep 26 16:50:49 2001] Tsioryu auctions, 'WTS shield of slain unicorn ac9 10/40'
+[Wed Sep 26 16:50:50 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:50:54 2001] Pasqulleo auctions, 'WTS ring of goblin lord WTB lots of cleric stuff'
+[Wed Sep 26 16:50:54 2001] Soriana auctions, 'WTS crystal chitin shield,cane of harmony'
+[Wed Sep 26 16:50:56 2001] You told Fadebe, 'Hail, Fadebe! Guide Espranza here. That player is no longer on so I can't grab their info... I'll keep an eye out for them, though. Thanks!'
+[Wed Sep 26 16:51:01 2001] Derreck auctions, 'WTS or WTT tentacruel whip 4 25 lvl8 proc lifetap'
+[Wed Sep 26 16:51:07 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces(arms) 10ac 50pp, WTS CCS'
+[Wed Sep 26 16:51:09 2001] Fadebe tells you, 'thank you'
+[Wed Sep 26 16:51:13 2001] Loldari auctions, 'WTS Venomous Axe of the Velium Brood '
+[Wed Sep 26 16:51:21 2001] You told Rezzyn, 'Oh! Well, you'll still have to talk to a senior guide or the GM, regular ol' guides like me can't change names.'
+[Wed Sep 26 16:51:21 2001] Ssilo auctions, 'WTS Black ice greaves 13ac 7str 2kpp'
+[Wed Sep 26 16:51:23 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:51:23 2001] Ssilo auctions, 'WTS TBBelt 8ac 15str! 0.5wt ALL ALL 3.5kpp'
+[Wed Sep 26 16:51:23 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:51:24 2001] You told Fadebe, 'be well!'
+[Wed Sep 26 16:51:25 2001] DELETING THIS PETITION
+[Wed Sep 26 16:51:27 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 16:51:27 2001] USER TEXT: i hav to get my stuff reembersed for my corpse
+[Wed Sep 26 16:51:28 2001] Players in EverQuest:
+[Wed Sep 26 16:51:28 2001] ---------------------------
+[Wed Sep 26 16:51:28 2001] [6 Warrior] Bairrin (Halfling) ZONE: misty (USER PID DXD6UUB)
+[Wed Sep 26 16:51:28 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:51:29 2001] Aramelus auctions, 'WTB skinning knife, charred boots'
+[Wed Sep 26 16:51:31 2001] Pasqulleo auctions, 'WTS ring of goblin lord WTB lots of cleric stuff'
+[Wed Sep 26 16:51:38 2001] Slig auctions, '49 mage pets 250pp each'
+[Wed Sep 26 16:51:40 2001] Rezzyn tells you, 'np   thx tho'
+[Wed Sep 26 16:51:42 2001] Slig auctions, 'Selling 55 shammy pet spell 1k'
+[Wed Sep 26 16:51:43 2001] Bairrin tells you, 'i petitioned liek a hour ago'
+[Wed Sep 26 16:51:44 2001] Faylan auctions, ':::::SELLING:::::: Jaundice Bone Arms 2k,,,,,,Ykesha War Club eff Ykesha 1.3k,,,,,,,Sentry Mual 2hb 500p,,,,,,,Kunzar Cloak 400p'
+[Wed Sep 26 16:51:44 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces(arms) 10ac 50pp, WTS CCS'
+[Wed Sep 26 16:51:46 2001] Tyosz auctions, 'WTB med banded armor or bronze'
+[Wed Sep 26 16:51:46 2001] You told Bairrin, 'Hail, Bairrin! Guide Espranza here. How did you lose the items on your corpse?'
+[Wed Sep 26 16:51:47 2001] Slig auctions, 'Engraved Pauldrons 12Ac 3Dex 5Agi Neg20 Cha 600pp'
+[Wed Sep 26 16:51:49 2001] Derreck auctions, 'WTS or WTT tentacruel whip 4 25 lvl8 proc lifetap'
+[Wed Sep 26 16:51:49 2001] Racor auctions, 'WTS Silver Swiftblade 2HS 16/24 ranger 5K'
+[Wed Sep 26 16:51:51 2001] Derreck auctions, 'WTT for Gleaming Short Sword or icetooth claws'
+[Wed Sep 26 16:51:51 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:51:52 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:51:52 2001] Slig auctions, 'WTS 3 wisdom Arms...8Ac neg3Dex =>75pp'
+[Wed Sep 26 16:51:53 2001] Bairrin tells you, 'i didnt'
+[Wed Sep 26 16:51:55 2001] Slig auctions, 'WU's Robe,Arms,Face,Bracer 40pp each'
+[Wed Sep 26 16:51:56 2001] Aramelus auctions, 'WTS HQ cat pelts'
+[Wed Sep 26 16:52:04 2001] USER TEXT: i hav to get my stuff reembersed for my corpse
+[Wed Sep 26 16:52:06 2001] Skinok auctions, 'WTS Fading Shadow Longsword - 1hs  7 27  +2 hp 20p'
+[Wed Sep 26 16:52:07 2001] Bairrin tells you, 'i was being helped by another gm last nite cus my consent wouldnt work'
+[Wed Sep 26 16:52:08 2001] Lilnut auctions, 'WTS/WTT Crystal Chitin Arms 12k | Golden Eboots 9k | Donals Vambracers 2k | Ring of the Frost Spiders 2k (awesome for casters) | BCR 1k | Crystalline Robe 1k | Mithril BP 1k | Cloak of RyGorr Oracles 1k | Crystal Webshield 1k'
+[Wed Sep 26 16:52:08 2001] Skinok auctions, 'WTS Medium Bronze Armor.  Send Tells.'
+[Wed Sep 26 16:52:10 2001] Lilnut auctions, 'WTTF Ravenscale BP | Crystal Spider Fang | Mrylokars bracer | Ravenscale Shoulders | Crystal Chitin Boots | other good rogue items'
+[Wed Sep 26 16:52:11 2001] Skinok shouts, 'SOWing at tunnel entrance.  Donations accepted.'
+[Wed Sep 26 16:52:17 2001] Qaylin shouts, 'what lvl are giant spiders'
+[Wed Sep 26 16:52:19 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:52:20 2001] Brendi shouts, 'how do i make viscous mana?'
+[Wed Sep 26 16:52:20 2001] Scarabus is looking at your equipment...
+[Wed Sep 26 16:52:25 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:52:27 2001] Bairrin tells you, 'and then my corpse disa peared when they told me to camp and go back on'
+[Wed Sep 26 16:52:38 2001] Mistral auctions, 'WTS Obsidian Shard, Piercer, 6  25, Proc 30DD.'
+[Wed Sep 26 16:52:40 2001] Rijecis says out of character, 'qaylin, they are green and blue to me at 11'
+[Wed Sep 26 16:52:50 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:52:54 2001] Waluen auctions, 'WTS FBSS 7k'
+[Wed Sep 26 16:52:54 2001] Tsioryu auctions, 'WTS sarnak eitchatka 7/33 +3dex +15hp sec slot'
+[Wed Sep 26 16:53:00 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces(arms) 10ac 50pp, WTS CCS, spell form of the howler, elemental maelstrom, Heroic bond, corpal empathy'
+[Wed Sep 26 16:53:01 2001] You told Bairrin, 'Did the guide say you should repetition when the GM is on?'
+[Wed Sep 26 16:53:04 2001] Bolloxx auctions, 'wts blacked alloy coif'
+[Wed Sep 26 16:53:06 2001] Bolloxx auctions, 'wtb mithril greaves and dwaven work boots'
+[Wed Sep 26 16:53:06 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:53:07 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:53:11 2001] Nekemasa auctions, 'WTS SSoY 1.5k | DW gauntlets 1k | crystalline robes 700pp | crustacean gaunts/bracer/helm 500pp each | sarnak hide mask 1k | dusty BP 500pp | crafted arms 250pp | crafted bracer 100pp | sebilite scale cape 500pp or WTT items for Crus BP or legs'
+[Wed Sep 26 16:53:17 2001] Nekemasa auctions, 'WTS cone of the mystics 5 AC 5 WIS 5 INT 50 MANA all/all 2.5k'
+[Wed Sep 26 16:53:17 2001] Bairrin tells you, 'she said just to camp and come back on'
+[Wed Sep 26 16:53:32 2001] Dorrim auctions, 'WTB Azure Sleeves/Dwarven Workboots.'
+[Wed Sep 26 16:53:32 2001] Waluen auctions, 'WTS lupine dagger 9/18 dex wis 4 proc greater wolf form 14k'
+[Wed Sep 26 16:53:33 2001] Qaylin says out of character, 'thanks'
+[Wed Sep 26 16:53:33 2001] Tsioryu auctions, 'WTS shield of slain unicorn ac9 10/40'
+[Wed Sep 26 16:53:33 2001] Racor auctions, 'WTS Silver Swiftblade 2HS 16/24 ranger 5K'
+[Wed Sep 26 16:53:33 2001] Blackrosse auctions, 'WTS Shrunken Goblin Skull Earring ac3 Effect:Grim Aura send tells'
+[Wed Sep 26 16:53:35 2001] Nekemasa auctions, 'WTS spells: Cann 3, circle of winter, call of karana, vocerate: fire, convergence, boon of immolation, scintillaton, color slant, turning of the unnatural'
+[Wed Sep 26 16:53:35 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:53:35 2001] Butog auctions, 'WTS Dwarven Sap 1HB 8 20 WAR CLR PAL ROG..DWFonly 400pp'
+[Wed Sep 26 16:53:35 2001] Faylan auctions, ':::::SELLING:::::: Jaundice Bone Arms 2k,,,,,,Ykesha War Club eff Ykesha 1.3k,,,,,,,Sentry Mual 2hb 500p,,,,,,,Kunzar Cloak 400p'
+[Wed Sep 26 16:53:36 2001] Butog auctions, 'WTS Bone Mask of the Jarsath AC7 ST2 CHA8 WIS4 SVD5 SVP5 3K'
+[Wed Sep 26 16:53:37 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces(arms) 10ac 50pp, WTS CCS, spell form of the howler, elemental maelstrom, Heroic bond, corpal empathy'
+[Wed Sep 26 16:53:39 2001] Butog auctions, 'WTS 4AC 45HP ring ALL ALL'
+[Wed Sep 26 16:53:40 2001] Bairrin tells you, 'and i woudl send her a tell when i got bakc on'
+[Wed Sep 26 16:53:45 2001] Tsioryu auctions, 'WTS sarnak eitchatka 7/33 +3dex +15hp sec slot'
+[Wed Sep 26 16:53:48 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:53:50 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 9ac 25mana 350pp'
+[Wed Sep 26 16:53:53 2001] Bairrin tells you, 'the gm was Rahaven'
+[Wed Sep 26 16:53:54 2001] Rhyad auctions, 'Runed Bone Fork '
+[Wed Sep 26 16:53:56 2001] Jaladia auctions, 'wts small 4 slot 10-1.#QNAN0e+000ight reduction bags 5pp'
+[Wed Sep 26 16:54:02 2001] Waluen auctions, 'WTS tolans arms ac18 right click stinging swarm. 3500pp'
+[Wed Sep 26 16:54:04 2001] Kilora auctions, 'WTS icegrinder 2hb 27dmg 45dly icerend...1kp'
+[Wed Sep 26 16:54:06 2001] Kilora auctions, 'WTS flawed topaz (caster vel quest gem)'
+[Wed Sep 26 16:54:07 2001] Angerlic shouts, 'Anyone Wanna Buy Advisor robe 600pp'
+[Wed Sep 26 16:54:07 2001] Rhyad auctions, 'Fine Plate armor Helm Boots Arms and Bracers.. 75p for any piece'
+[Wed Sep 26 16:54:08 2001] Kilora auctions, 'WTB DRUID drop spells 55+'
+[Wed Sep 26 16:54:11 2001] Sorrin auctions, 'WTS rygoor leggings '
+[Wed Sep 26 16:54:12 2001] Faylan auctions, ':::::SELLING:::::: Jaundice Bone Arms 2k,,,,,,Ykesha War Club eff Ykesha 1.3k,,,,,,,Sentry Mual 2hb 500p,,,,,,,Kunzar Cloak 400p'
+[Wed Sep 26 16:54:12 2001] Tsioryu auctions, 'WTS shield of slain unicorn ac9 10/40'
+[Wed Sep 26 16:54:12 2001] Bolloxx auctions, 'wtb mithril greaves and dwaven work boots'
+[Wed Sep 26 16:54:14 2001] Tsioryu auctions, 'Bracer of the hidden, effect: see invis ac6 2K obo'
+[Wed Sep 26 16:54:14 2001] You told Bairrin, 'ah. were you level 5 or below at the time?'
+[Wed Sep 26 16:54:18 2001] Bairrin tells you, 'no'
+[Wed Sep 26 16:54:19 2001] Rhyad auctions, 'Runed Bone Fork  10 sv Fire Cold and Magic'
+[Wed Sep 26 16:54:19 2001] Tyosz auctions, 'WTS Lumberjack cap 25pp'
+[Wed Sep 26 16:54:20 2001] Bairrin tells you, '6'
+[Wed Sep 26 16:54:26 2001] Bairrin tells you, 'it was last nite'
+[Wed Sep 26 16:54:27 2001] Shawnn auctions, 'WTS velium etched stone mace'
+[Wed Sep 26 16:54:28 2001] Shawnn auctions, 'WTS fighting baton and essence of dol'
+[Wed Sep 26 16:54:29 2001] Boco auctions, 'WTB the following a DF belt, a giant snare rattle, and a desert tarantula chitin'
+[Wed Sep 26 16:54:37 2001] Angerlic shouts, 'Anyone Wanna Buy Advisor robe 600pp'
+[Wed Sep 26 16:54:47 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 25mana 9ac 350pp '
+[Wed Sep 26 16:54:52 2001] Bolloxx auctions, 'wts blacked alloy coif'
+[Wed Sep 26 16:54:52 2001] You told Bairrin, 'okay, well - you'll have to repetition during GM Lirus's hours, Thursday through Monday, 3pm to 11pm Pacific time. Nobody else can reimburse items.'
+[Wed Sep 26 16:54:53 2001] Bolloxx auctions, 'wtb mithril greaves and dwaven work boots'
+[Wed Sep 26 16:54:54 2001] Benkin auctions, 'WTS 44th chanter'
+[Wed Sep 26 16:54:54 2001] DELETING THIS PETITION
+[Wed Sep 26 16:54:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 16:54:56 2001] USER TEXT: I would like to report being harassed by a player named Caramoor. I placed him on my ignore list after he sent harassing tells, and he has taken it upon himself to switch to each of his alternate characters to send me further harassing tells. 
+[Wed Sep 26 16:54:56 2001] Players in EverQuest:
+[Wed Sep 26 16:54:56 2001] ---------------------------
+[Wed Sep 26 16:54:56 2001] [14 Druid] Tiggili (Halfling) ZONE: oasis (USER PID CV38S6D)
+[Wed Sep 26 16:54:56 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:54:56 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces(arms) 10ac 50pp, WTS CCS, spell form of the howler, elemental maelstrom, Heroic bond, corpal empathy'
+[Wed Sep 26 16:54:57 2001] Angerlic shouts, 'Willing to trade for pretty much anything'
+[Wed Sep 26 16:55:00 2001] Angerlic shouts, 'Willing to trade for pretty much anything'
+[Wed Sep 26 16:55:04 2001] Angerlic shouts, 'Anyone Wanna Buy Advisor robe 600pp'
+[Wed Sep 26 16:55:05 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:55:09 2001] Rhyad auctions, 'Runed Bone Fork  10 sv Fire Cold and Magic range'
+[Wed Sep 26 16:55:11 2001] Bairrin tells you, 'will i be able to get my items back'
+[Wed Sep 26 16:55:16 2001] Bairrin tells you, 'u hav a record of them rite'
+[Wed Sep 26 16:55:27 2001] Mistral auctions, 'WTS Obsidian Shard, Piercer, 6  25, Proc 30DD.'
+[Wed Sep 26 16:55:28 2001] Tsioryu auctions, 'WTS sarnak eitchatka 7/33 +3dex +15hp sec slot'
+[Wed Sep 26 16:55:29 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces(arms) 10ac 50pp, WTS CCS, spell form of the howler, elemental maelstrom, Heroic bond, corpal empathy'
+[Wed Sep 26 16:55:32 2001] Rhyad auctions, 'Fine Plate armor Helm Boots Arms and Bracers.. 75p for any piece'
+[Wed Sep 26 16:55:32 2001] Norris says out of character, 'Kodiak claws for sale...GREAT for newbies..only 30 plat'
+[Wed Sep 26 16:55:35 2001] You told Tiggili, 'Hail, Tiggili! Guide Espranza here. Can you scroll back in your chat window and use the /report command to capture some of this text?'
+[Wed Sep 26 16:55:41 2001] Griftar auctions, 'Selling Granite Face Grinder 29/36 10str 10wis 10int 2hb 13k or trades'
+[Wed Sep 26 16:55:45 2001] Shawnn shouts, 'PC exe axe'
+[Wed Sep 26 16:55:46 2001] Tsioryu auctions, 'WTS sarnak eitchatka 7/33 +3dex +15hp sec slot'
+[Wed Sep 26 16:55:47 2001] Aramelus auctions, 'WTS HQ cat pelts'
+[Wed Sep 26 16:55:47 2001] Norris says out of character, 'make that 40'
+[Wed Sep 26 16:55:47 2001] Pipswich auctions, '8 20 1hb +3str  Mudman enforcer'
+[Wed Sep 26 16:55:49 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces(arms) 10ac 50pp, WTS CCS, spell form of the howler, elemental maelstrom, Heroic bond, corpal empathy'
+[Wed Sep 26 16:55:53 2001] You told Bairrin, 'I don't know what GM Lirus will be able to do, so I can't promise anything.'
+[Wed Sep 26 16:55:53 2001] Pipswich auctions, 'Ring  dex6 agility6  400p'
+[Wed Sep 26 16:55:54 2001] Blondmigit says, 'Hail, Scarabus'
+[Wed Sep 26 16:55:58 2001] Pipswich auctions, 'Jaund bone boots 2k'
+[Wed Sep 26 16:56:00 2001] You told Bairrin, 'I wish you all the best, though'
+[Wed Sep 26 16:56:00 2001] Pipswich auctions, 'Kylong War Helm 750p'
+[Wed Sep 26 16:56:00 2001] Bairrin tells you, 'well thats not rite'
+[Wed Sep 26 16:56:02 2001] Telchara tells you, 'sorry, got disconnected. I'm on thru AOL. does that help?'
+[Wed Sep 26 16:56:04 2001] Tsioryu auctions, 'WTS shield of slain unicorn ac9 10/40'
+[Wed Sep 26 16:56:04 2001] Pipswich auctions, 'Idol of thorned'
+[Wed Sep 26 16:56:05 2001] Tsioryu auctions, 'Bracer of the hidden, effect: see invis ac6 2K obo'
+[Wed Sep 26 16:56:06 2001] Butog auctions, 'WTS AC4 HP45 ring ALL ALL'
+[Wed Sep 26 16:56:06 2001] Pjoh auctions, 'WTT Clarity for SoW!!!'
+[Wed Sep 26 16:56:06 2001] Rhyad auctions, 'Runed Bone Fork  10 sv Fire Cold and Magic, rng slot'
+[Wed Sep 26 16:56:09 2001] Blinks auctions, 'WTB robe of seeker!, and small finzeplate armor!'
+[Wed Sep 26 16:56:10 2001] Blondmigit says, 'Hail, Scarabus'
+[Wed Sep 26 16:56:11 2001] Pipswich auctions, 'Dire Wolf cloak ac8 str6 stam6 hp35 3500p'
+[Wed Sep 26 16:56:13 2001] Bairrin tells you, 'the game was glitched and i can get punished for it'
+[Wed Sep 26 16:56:14 2001] Blondmigit says, 'hiden'
+[Wed Sep 26 16:56:17 2001] Bolloxx auctions, 'wtt blacken allot coif for a good mask'
+[Wed Sep 26 16:56:18 2001] Shadowemp auctions, 'WTS Fungi Tunic'
+[Wed Sep 26 16:56:19 2001] You told Telchara, 'oh, AOL... that might slow things down.'
+[Wed Sep 26 16:56:20 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces(arms) 10ac 50pp, WTS CCS, spell form of the howler, elemental maelstrom, Heroic bond, corpal empathy'
+[Wed Sep 26 16:56:21 2001] Scarabus says, 'h'
+[Wed Sep 26 16:56:22 2001] Rhyad auctions, 'Fine Plate armor Helm Boots Arms and Bracers.. 75p for any piece'
+[Wed Sep 26 16:56:24 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:56:32 2001] Setias auctions, 'WTB lambent bracer, WTS fp vambraces(arms) 10ac 50pp, WTS CCS, spell form of the howler, elemental maelstrom, Heroic bond, corpal empathy'
+[Wed Sep 26 16:56:35 2001] Shawnn auctions, 'WTS velium etched stone mace'
+[Wed Sep 26 16:56:39 2001] Blondmigit says, 'can u zone and tell me if my corpse is there?'
+[Wed Sep 26 16:56:41 2001] Tiggili tells you, 'No unfortunatly battle messages sent it off my chat before I could report text. And he would sign off each name just after sending a tell from it'
+[Wed Sep 26 16:56:47 2001] Norris says out of character, 'anyone want some claws?'
+[Wed Sep 26 16:56:47 2001] Qwail auctions, 'wts Oracle Robe 5int 5wis 25mana 9ac 350pp '
+[Wed Sep 26 16:56:47 2001] Scarabus says, 'its in there on the bridge'
+[Wed Sep 26 16:56:50 2001] Gado auctions, 'WTS Tombcarver...ROGUE Dmg5 Dly17 Dex+3 Agi+3 FAST'
+[Wed Sep 26 16:56:50 2001] Angerlic shouts, 'Anyone got a Skull of Jhentra or Any other MANA items I REALLY WANT THEM'
+[Wed Sep 26 16:56:51 2001] Ssilo auctions, 'WTS TBBelt 8ac 15str! 0.5wt ALL ALL 3.5kpp'
+[Wed Sep 26 16:56:56 2001] Saxezz says out of character, 'ill take em'
+[Wed Sep 26 16:56:57 2001] Ssilo auctions, 'WTS Black ice greaves 13ac 7str 2kpp'
+[Wed Sep 26 16:56:58 2001] Dewuwana auctions, 'WTB Spiderling or Spider Silk Stacks'
+[Wed Sep 26 16:57:01 2001] Ssilo auctions, 'WTS Jagged Long Sword 16dmg 30dly WAR only 4kpp'
+[Wed Sep 26 16:57:02 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:57:03 2001] Blondmigit says, 'can u drag it for me?'
+[Wed Sep 26 16:57:08 2001] You told Bairrin, 'I don't know what Lirus can or cannot do, not being a server GM. I'm not punishing you... I just can't promise you get all your stuff back because I don't know if Lirus can do that. You need to talk to him.'
+[Wed Sep 26 16:57:09 2001] Scarabus says, 'im waiting here for a friend'
+[Wed Sep 26 16:57:15 2001] Pipswich auctions, '8 20 1hb +3str  Mudman enforcer'
+[Wed Sep 26 16:57:16 2001] Qaylin shouts, 'any one want to give me some intl items for free'
+[Wed Sep 26 16:57:19 2001] Faylan auctions, ':::::SELLING:::::: Jaundice Bone Arms 2k,,,,,,Ykesha War Club eff Ykesha 1.3k,,,,,,,Sentry Mual 2hb 500p,,,,,,,Kunzar Cloak 400p'
+[Wed Sep 26 16:57:20 2001] Blinks auctions, 'WTB small fineplate armor! send tells!'
+[Wed Sep 26 16:57:25 2001] Rhyad auctions, 'Cougar Claw Earings 200 each 300 for pair'
+[Wed Sep 26 16:57:27 2001] Cynbi shouts, 'earn them like the rest of us.'
+[Wed Sep 26 16:57:28 2001] Upizonna auctions, 'WTS Crystalline Robe 10ac 6int 2agi 10mana 10svc 5svm'
+[Wed Sep 26 16:57:29 2001] Brendi says out of character, 'so do i go to qeynos to  higher an enchanter to thicken mana this stuff? '
+[Wed Sep 26 16:57:29 2001] Mistral says out of character, 'Angerlic, use the auc channel please'
+[Wed Sep 26 16:57:29 2001] Pipswich auctions, 'Ring  dex6 agility6  400p'
+[Wed Sep 26 16:57:31 2001] You told Tiggili, 'hmmph. has he stopped doing this, then?'
+[Wed Sep 26 16:57:32 2001] Telchara tells you, 'Let me try loot ing again.'
+[Wed Sep 26 16:57:33 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:57:33 2001] Shawnn auctions, 'WTS velium etched stone mace'
+[Wed Sep 26 16:57:34 2001] Boco auctions, 'WTB the following a DF belt, a giant snare rattle, and a desert tarantula chitin'
+[Wed Sep 26 16:57:36 2001] Blackrosse auctions, 'WTB Harvester send tells'
+[Wed Sep 26 16:57:36 2001] Butog auctions, 'WTS AC4 HP45 ring ALL ALL'
+[Wed Sep 26 16:57:37 2001] Casel shouts, 'corpses give them for free'
+[Wed Sep 26 16:57:38 2001] Espranza saved.
+[Wed Sep 26 16:57:39 2001] Aramelus auctions, 'WTS HQ cat pelts'
+[Wed Sep 26 16:57:39 2001] Pipswich auctions, 'Kylong War Helm 750p'
+[Wed Sep 26 16:57:40 2001] Norris says out of character, 'Sows and kodiak claws...just bonk me'
+[Wed Sep 26 16:57:41 2001] Tsioryu auctions, 'WTS shield of slain unicorn ac9 10/40'
+[Wed Sep 26 16:57:42 2001] Pipswich auctions, 'Dire Wolf cloak ac8 str6 stam6 hp35 3500p'
+[Wed Sep 26 16:57:43 2001] Boco auctions, 'WTB the following a DF belt, a giant snake rattle, and a desert tarantula chitin'
+[Wed Sep 26 16:57:48 2001] Rijecis says out of character, 'yea i believe so brendi'
+[Wed Sep 26 16:57:48 2001] Musician auctions, 'WTS blood runed greaves, arbitor's combie greatsword'
+[Wed Sep 26 16:57:49 2001] Blondmigit says, 'can u do it, please?'
+[Wed Sep 26 16:57:49 2001] Pjoh auctions, 'WTB ENC Pages'
+[Wed Sep 26 16:57:51 2001] Griftar auctions, 'Selling Granite Face Grinder 29/36 10str 10wis 10int 2hb 13k or trades'
+[Wed Sep 26 16:57:58 2001] Tiggili tells you, 'Yes finally he stopped. I guess he ran out of characters to sign onto. I ignored them all on my list'
+[Wed Sep 26 16:57:58 2001] Telchara tells you, 'seems 2b working again!'
+[Wed Sep 26 16:58:03 2001] Angerlic bows before Espranza.
+[Wed Sep 26 16:58:06 2001] Ridere auctions, 'WTS Wurmslayer 1hs 25/40 ac str svm 5 good price...'
+[Wed Sep 26 16:58:07 2001] Upizonna auctions, 'WTS Crystalline Robe 10ac 6int 2agi 10mana 10svc 5svm'
+[Wed Sep 26 16:58:08 2001] You told Telchara, 'yay!'
+[Wed Sep 26 16:58:09 2001] Ridere auctions, 'WTS Tattered Mantle Ac 12 hp 20 svd 10  250pp..'
+[Wed Sep 26 16:58:10 2001] Scarabus says, 'I dont even know my way around you would be better off asking somebody else'
+[Wed Sep 26 16:58:11 2001] Ridere auctions, 'WTS Beetle Stinger per/range dex agl wis 4 steal str'
+[Wed Sep 26 16:58:14 2001] Ridere auctions, 'WTS Lamentation Blade 2hs 25/54 str 5 sta 4'
+[Wed Sep 26 16:58:20 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:58:25 2001] Blinks auctions, 'WTB robe that cleric can wear'
+[Wed Sep 26 16:58:29 2001] Shadowemp auctions, 'WTS Fungi Tunic'
+[Wed Sep 26 16:58:34 2001] Eravin auctions, 'WTS Crystal covered Shroud plz send tells for stat'
+[Wed Sep 26 16:58:36 2001] Kilora auctions, 'WTS icegrinder 2hb 27dmg 45dly icerend...1kp'
+[Wed Sep 26 16:58:38 2001] Kilora auctions, 'WTS nephrite (caster vel quest armor)'
+[Wed Sep 26 16:58:40 2001] Kilora auctions, 'WTS DROP SPELL circle of wakening lands DRU 44'
+[Wed Sep 26 16:58:54 2001] Cynbi auctions, '*** WTS various SMALL banded armor ***'
+[Wed Sep 26 16:58:56 2001] You told Tiggili, 'Okay - well, if he starts again, use the /report name command (name being whatever character name he is using) to capture the last ten visible lines in your chat window, then petition to let us know and we will be able to catch him.'
+[Wed Sep 26 16:58:58 2001] DELETING THIS PETITION
+[Wed Sep 26 16:59:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 16:59:00 2001] USER TEXT: in nfp Aimie moonspin  npc bank merchant has been traind to the zone and wont sell shes at /loc neg239 pos20 neg24
+[Wed Sep 26 16:59:00 2001] Players in EverQuest:
+[Wed Sep 26 16:59:00 2001] ---------------------------
+[Wed Sep 26 16:59:00 2001] [ANON (51 Wanderer)] Brendi (Wood Elf) ZONE: freportw (USER PID CT3ZSQD)
+[Wed Sep 26 16:59:00 2001] There is 1 player in EverQuest.
+[Wed Sep 26 16:59:01 2001] Atety auctions, 'WTB/TF dragon hero bracer'
+[Wed Sep 26 16:59:05 2001] Tyosz auctions, 'WTS Lumberjack cap 20pp'
+[Wed Sep 26 16:59:09 2001] Virous auctions, 'WTB/T for cobalt bracer and helm'
+[Wed Sep 26 16:59:09 2001] Musician auctions, 'WTS BE gauntlets, BE vambraces, SS boot'
+[Wed Sep 26 16:59:10 2001] Ssilo auctions, 'WTS TBBelt 8ac 15str! 0.5wt ALL ALL 3.5kpp'
+[Wed Sep 26 16:59:11 2001] You GMSAY, 'zone'
+[Wed Sep 26 16:59:12 2001] Upizonna auctions, 'WTS Crystalline Robe 10ac 6int 2agi 10mana 10svc 5svm'
+[Wed Sep 26 16:59:13 2001] Ssilo auctions, 'WTS Jagged Long Sword 16dmg 30dly WAR only 4kpp'
+[Wed Sep 26 16:59:14 2001] Shawnn auctions, 'WTS velium etched stone mace'
+[Wed Sep 26 16:59:15 2001] Shawnn auctions, 'WTS fighting baton and essence of dol'
+[Wed Sep 26 16:59:18 2001] Ssilo auctions, 'WTS Black ice greaves 13ac 7str 2kpp'
+[Wed Sep 26 16:59:19 2001] LOADING, PLEASE WAIT...
+[Wed Sep 26 16:59:45 2001] You have entered North Freeport.
+[Wed Sep 26 16:59:57 2001] Searching for aimie_moonspin00.
+[Wed Sep 26 16:59:57 2001] Player is in zone freportn at x = -247 y = 18 z = -24.
+[Wed Sep 26 16:59:58 2001] Teleporting to Aimie_Moonspin00 (-246.00,  19.00, -24.25).
+[Wed Sep 26 17:00:44 2001] Aimie Moonspin says 'Guards!! Guards!! 
+[Wed Sep 26 17:00:44 2001] Aimie Moonspin feels a bit dispelled.
+[Wed Sep 26 17:00:46 2001] You have become better at Riposte! (170)
+[Wed Sep 26 17:00:46 2001] Aimie Moonspin bashes YOU for 21 points of damage.
+[Wed Sep 26 17:00:55 2001] Aimie Moonspin slashes YOU for 43 points of damage.
+[Wed Sep 26 17:00:55 2001] You punch Aimie Moonspin for 10 points of damage.
+[Wed Sep 26 17:01:00 2001] Aimie Moonspin slashes YOU for 48 points of damage.
+[Wed Sep 26 17:01:01 2001] Brendi auctions, 'wtb enchanter to make some thicken mana 20 pearls / 20 posion vials i have'
+[Wed Sep 26 17:01:06 2001] Aimie Moonspin slashes YOU for 71 points of damage.
+[Wed Sep 26 17:01:06 2001] Aimie Moonspin kicks YOU for 21 points of damage.
+[Wed Sep 26 17:01:12 2001] Aimie Moonspin slashes YOU for 25 points of damage.
+[Wed Sep 26 17:01:12 2001] Aimie Moonspin slashes YOU for 38 points of damage.
+[Wed Sep 26 17:01:13 2001] Aldorin GMSAYS, 'hihi~'
+[Wed Sep 26 17:01:17 2001] Players in EverQuest:
+[Wed Sep 26 17:01:17 2001] ---------------------------
+[Wed Sep 26 17:01:17 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: freportn (USER PID AUGBQH4)
+[Wed Sep 26 17:01:17 2001] * Guide *[51 Pathfinder] Aldorin (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Wed Sep 26 17:01:17 2001] There are 2 players in EverQuest.
+[Wed Sep 26 17:01:20 2001] You GMSAY, 'hiya!'
+[Wed Sep 26 17:01:25 2001] Aimie Moonspin slashes YOU for 71 points of damage.
+[Wed Sep 26 17:01:25 2001] Aimie Moonspin bashes YOU for 25 points of damage.
+[Wed Sep 26 17:01:27 2001] Aimie Moonspin slashes YOU for 34 points of damage.
+[Wed Sep 26 17:01:29 2001] Aimie Moonspin slashes YOU for 25 points of damage.
+[Wed Sep 26 17:01:29 2001] Aimie Moonspin slashes YOU for 25 points of damage.
+[Wed Sep 26 17:01:31 2001] Coldari begins to cast a spell. (Greater Shielding)
+[Wed Sep 26 17:01:32 2001] Aimie Moonspin slashes YOU for 112 points of damage.
+[Wed Sep 26 17:01:34 2001] Aimie Moonspin slashes YOU for 61 points of damage.
+[Wed Sep 26 17:01:36 2001] Aimie Moonspin slashes YOU for 89 points of damage.
+[Wed Sep 26 17:01:41 2001] You can't use that command right now...
+[Wed Sep 26 17:01:41 2001] You can't use that command right now...
+[Wed Sep 26 17:01:41 2001] Aimie Moonspin slashes YOU for 25 points of damage.
+[Wed Sep 26 17:01:41 2001] Aimie Moonspin blinks a few times.
+[Wed Sep 26 17:01:41 2001] You can't use that command right now...
+[Wed Sep 26 17:01:41 2001] You are stunned!
+[Wed Sep 26 17:01:41 2001] Aimie Moonspin bashes YOU for 21 points of damage.
+[Wed Sep 26 17:01:41 2001] You can't cast spells while stunned!
+[Wed Sep 26 17:01:42 2001] You can't cast spells while stunned!
+[Wed Sep 26 17:01:42 2001] You can't cast spells while stunned!
+[Wed Sep 26 17:01:42 2001] You can't cast spells while stunned!
+[Wed Sep 26 17:01:43 2001] You can't cast spells while stunned!
+[Wed Sep 26 17:01:43 2001] You can't cast spells while stunned!
+[Wed Sep 26 17:01:43 2001] You are unstunned.
+[Wed Sep 26 17:01:44 2001] Aimie Moonspin blinks a few times.
+[Wed Sep 26 17:01:44 2001] You can't use that command right now...
+[Wed Sep 26 17:01:44 2001] Aimie Moonspin blinks a few times.
+[Wed Sep 26 17:01:44 2001] You can't use that command right now...
+[Wed Sep 26 17:01:44 2001] Aimie Moonspin blinks a few times.
+[Wed Sep 26 17:01:45 2001] You can't use that command right now...
+[Wed Sep 26 17:01:45 2001] Aimie Moonspin blinks a few times.
+[Wed Sep 26 17:01:45 2001] Aimie Moonspin blinks a few times.
+[Wed Sep 26 17:01:45 2001] You can't use that command right now...
+[Wed Sep 26 17:01:45 2001] Aimie Moonspin blinks a few times.
+[Wed Sep 26 17:01:46 2001] Aimie Moonspin blinks a few times.
+[Wed Sep 26 17:01:46 2001] Aimie Moonspin blinks a few times.
+[Wed Sep 26 17:01:47 2001] Coldari begins to cast a spell. (Steelskin)
+[Wed Sep 26 17:01:50 2001] Aimie Moonspin says 'I don't like to speak to Rogues much less sell to them!'
+[Wed Sep 26 17:01:55 2001] You begin to sneak...
+[Wed Sep 26 17:01:55 2001] You are as quiet as a cat stalking its prey.
+[Wed Sep 26 17:01:55 2001] Coldari begins to cast a spell. (Harvest)
+[Wed Sep 26 17:01:58 2001] Aldorin GMSAYS, 'that yellow, you're saving it for yourself?'
+[Wed Sep 26 17:02:02 2001] You GMSAY, 'it was synders'
+[Wed Sep 26 17:02:07 2001] Brendi thanks Espranza heartily.
+[Wed Sep 26 17:02:07 2001] You GMSAY, 'I didn't know he left'
+[Wed Sep 26 17:02:09 2001] Badbeat says, 'why did guard attack you'
+[Wed Sep 26 17:02:12 2001] Aimie Moonspin says 'Greetings Espranza you look like you could use a a root'
+[Wed Sep 26 17:02:12 2001] You no longer have a target.
+[Wed Sep 26 17:02:12 2001] You no longer have a target.
+[Wed Sep 26 17:02:13 2001] You no longer have a target.
+[Wed Sep 26 17:02:17 2001] Espranza saved.
+[Wed Sep 26 17:02:22 2001] You say, 'no guards attacked me...'
+[Wed Sep 26 17:02:26 2001] Badbeat begins to cast a spell. (Spirit of Wolf)
+[Wed Sep 26 17:02:31 2001] You feel the spirit of wolf enter you.
+[Wed Sep 26 17:02:36 2001] Aldorin GMSAYS, 'maybe LD'
+[Wed Sep 26 17:02:36 2001] Damzil tells you, 'have you seen the glitch in EC yet?'
+[Wed Sep 26 17:02:40 2001] You told Brendi, 'Hail, Brendi! Guide Espranza here. All reset :)'
+[Wed Sep 26 17:02:46 2001] You told Damzil, 'yup, and in LoIO, and DL...'
+[Wed Sep 26 17:02:46 2001] Badbeat says, 'it said they did'
+[Wed Sep 26 17:02:47 2001] Brendi tells you, 'thanks!'
+[Wed Sep 26 17:03:00 2001] DELETING THIS PETITION
+[Wed Sep 26 17:03:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 17:03:02 2001] USER TEXT: i hadnt logged on for about 90 days due to real life stuff, and when i logged back on my fungi tunic is gone and no one has my account info
+[Wed Sep 26 17:03:02 2001] Players in EverQuest:
+[Wed Sep 26 17:03:02 2001] ---------------------------
+[Wed Sep 26 17:03:02 2001] [58 Luminary] Jraik (Iksar) <Triune> ZONE: wakening (USER PID FVW6YME)
+[Wed Sep 26 17:03:02 2001] There is 1 player in EverQuest.
+[Wed Sep 26 17:03:02 2001] Damzil tells you, 'ok thank you'
+[Wed Sep 26 17:03:04 2001] Coord begins to cast a spell. (Clarity)
+[Wed Sep 26 17:03:06 2001] Tuthmes says, 'Hail, Bolla'
+[Wed Sep 26 17:03:07 2001] Bolla looks tranquil.
+[Wed Sep 26 17:03:08 2001] Aldorin GMSAYS, 'well I'm excited, tomorrow at 6pm I'm going to an aircraft dealer to look at three used Piper Arrows...'
+[Wed Sep 26 17:03:09 2001] Ramzaxx waves at Coord.
+[Wed Sep 26 17:03:18 2001] Lookey auctions, 'WTB RO Greaves for dwarf'
+[Wed Sep 26 17:03:22 2001] You GMSAY, 'hey cool!'
+[Wed Sep 26 17:03:25 2001] Chomp, chomp, chomp...  Badbeat takes a bite from a Vegetables.
+[Wed Sep 26 17:03:25 2001] Bairrin tells you, 'can u giv me something i can use while i wait for my corps'
+[Wed Sep 26 17:03:38 2001] You told Bairrin, 'no, I have no player usable equipment or money.'
+[Wed Sep 26 17:03:43 2001] Badbeat pokes Espranza.
+[Wed Sep 26 17:03:46 2001] Bairrin tells you, 'wat do u mean player usable?'
+[Wed Sep 26 17:03:48 2001] You wave at Badbeat.
+[Wed Sep 26 17:03:49 2001] Badbeat moons Espranza.
+[Wed Sep 26 17:03:57 2001] Badbeat moons Espranza.
+[Wed Sep 26 17:03:57 2001] You told Bairrin, 'all I have is no drop guide equipment.'
+[Wed Sep 26 17:04:03 2001] Aldorin GMSAYS, 'ya, I've never bought an airplane before, I'm a little scared.  probably not going to sign anything tomorrow, but want to at least look a bit'
+[Wed Sep 26 17:04:04 2001] Bairrin tells you, 'really'
+[Wed Sep 26 17:04:09 2001] Bairrin tells you, 'can a ny player ever get it'
+[Wed Sep 26 17:04:20 2001] You told Bairrin, 'if you become a guide you can'
+[Wed Sep 26 17:04:26 2001] Bairrin tells you, 'whens that?'
+[Wed Sep 26 17:04:40 2001] Arem Ulosia begins to cast a spell. (Yaulp IV)
+[Wed Sep 26 17:04:40 2001] Serna Tasknon begins to cast a spell. (Yaulp IV)
+[Wed Sep 26 17:04:45 2001] Badbeat shouts, 'porting all over norrath send tells'
+[Wed Sep 26 17:04:52 2001] You told Bairrin, 'You have to apply to become a guide, get accepted, get trained, stuff like that.'
+[Wed Sep 26 17:04:58 2001] USER TEXT: i hadnt logged on for about 90 days due to real life stuff, and when i logged back on my fungi tunic is gone and no one has my account info
+[Wed Sep 26 17:05:08 2001] Bairrin tells you, 'how old u hav t be'
+[Wed Sep 26 17:05:46 2001] You told Jraik, 'Hail, Jraik! Guide Espranza here. For reimbursements, you must talk to GM Lirus, whose hours are Thursday through Monday, 3pm to 11pm Pacific time. He is the only one who can handle these issues.'
+[Wed Sep 26 17:05:49 2001] You told Bairrin, '18'
+[Wed Sep 26 17:05:51 2001] DELETING THIS PETITION
+[Wed Sep 26 17:05:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 17:05:53 2001] USER TEXT: I think my corpse disappeared
+[Wed Sep 26 17:05:54 2001] Players in EverQuest:
+[Wed Sep 26 17:05:54 2001] ---------------------------
+[Wed Sep 26 17:05:54 2001] [18 Druid] Jodar (Halfling) ZONE: stonebrunt (USER PID FY42UG1)
+[Wed Sep 26 17:05:54 2001] There is 1 player in EverQuest.
+[Wed Sep 26 17:05:55 2001] Bairrin tells you, 'o'
+[Wed Sep 26 17:05:58 2001] Searching zones for corpse of that name....
+[Wed Sep 26 17:05:58 2001] Corpse: Jodar's corpse0 in zone: stonebrunt
+[Wed Sep 26 17:06:00 2001] You GMSAY, 'zone'
+[Wed Sep 26 17:06:03 2001] LOADING, PLEASE WAIT...
+[Wed Sep 26 17:06:42 2001] You have entered Stonebrunt Mountains.
+[Wed Sep 26 17:06:51 2001] Teleporting to jodar's corpse0.
+[Wed Sep 26 17:06:59 2001] Bairrin tells you, 'can aldorin help me?'
+[Wed Sep 26 17:07:09 2001] You told Bairrin, 'no, only GM Lirus.'
+[Wed Sep 26 17:07:13 2001] Bairrin tells you, 'o'
+[Wed Sep 26 17:07:17 2001] Players in EverQuest:
+[Wed Sep 26 17:07:17 2001] ---------------------------
+[Wed Sep 26 17:07:17 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: stonebrunt (USER PID AUGBQH4)
+[Wed Sep 26 17:07:17 2001] * Guide *[51 Pathfinder] Aldorin (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Wed Sep 26 17:07:17 2001] There are 2 players in EverQuest.
+[Wed Sep 26 17:07:23 2001] Vurtrue says out of character, 'Hi Espra'
+[Wed Sep 26 17:07:32 2001] You told vurtrue, ':)'
+[Wed Sep 26 17:07:37 2001] Vurtrue tells you, '8)'
+[Wed Sep 26 17:07:44 2001] Vurtrue tells you, 'checking out the new zone?'
+[Wed Sep 26 17:07:52 2001] You told Vurtrue, 'no, player said they had a lost corpse'
+[Wed Sep 26 17:08:00 2001] Vurtrue tells you, 'Oh'
+[Wed Sep 26 17:08:00 2001] You told Vurtrue, 'I have my play chars to check out zones with'
+[Wed Sep 26 17:08:27 2001] Vurtrue tells you, 'Heh funny place, somethings can hit for for 50s and 70s but are trivial'
+[Wed Sep 26 17:09:06 2001] You told Jodar, 'Hail, Jodar! Guide Espranza here. Your corpse is perfectly visible and retrievable, have you tried asking for a bard or necromancer to help you find it?'
+[Wed Sep 26 17:09:10 2001] Players on EverQuest:
+[Wed Sep 26 17:09:10 2001] ---------------------------
+[Wed Sep 26 17:09:10 2001] There are no players in Stonebrunt Mountains that match those who filters.
+[Wed Sep 26 17:09:15 2001] Players on EverQuest:
+[Wed Sep 26 17:09:15 2001] ---------------------------
+[Wed Sep 26 17:09:15 2001] There are no players in Stonebrunt Mountains that match those who filters.
+[Wed Sep 26 17:09:17 2001] Players on EverQuest:
+[Wed Sep 26 17:09:17 2001] ---------------------------
+[Wed Sep 26 17:09:17 2001] There are no players in Stonebrunt Mountains that match those who filters.
+[Wed Sep 26 17:09:18 2001] Players on EverQuest:
+[Wed Sep 26 17:09:18 2001] ---------------------------
+[Wed Sep 26 17:09:18 2001] [ANONYMOUS] Arianaa 
+[Wed Sep 26 17:09:18 2001] [ANONYMOUS] Aaumelien 
+[Wed Sep 26 17:09:18 2001] [ANONYMOUS] Xolaam 
+[Wed Sep 26 17:09:18 2001] [60 Hierophant] Bisounours (Halfling) <Pandore>
+[Wed Sep 26 17:09:18 2001] [ANONYMOUS] Avyriel  <Champions of the Light>
+[Wed Sep 26 17:09:18 2001] [53 Cavalier] Vurtrue (Half Elf) <Rise of the Phoenix>
+[Wed Sep 26 17:09:18 2001] [18 Druid] Jodar (Halfling)
+[Wed Sep 26 17:09:18 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Wed Sep 26 17:09:18 2001] There are 8 players in Stonebrunt Mountains.
+[Wed Sep 26 17:09:24 2001] Players in EverQuest:
+[Wed Sep 26 17:09:24 2001] ---------------------------
+[Wed Sep 26 17:09:25 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: stonebrunt (USER PID AUGBQH4)
+[Wed Sep 26 17:09:25 2001] [ANON (36 Druid)] Arianaa (Wood Elf) ZONE: stonebrunt (USER PID GYLVG2Z)
+[Wed Sep 26 17:09:25 2001] [53 Cavalier] Vurtrue (Half Elf) <Rise of the Phoenix> ZONE: stonebrunt (USER PID BVCG79D)
+[Wed Sep 26 17:09:25 2001] [18 Druid] Jodar (Halfling) ZONE: stonebrunt (USER PID FY42UG1)
+[Wed Sep 26 17:09:25 2001] [ANON (28 Paladin)] Avyriel (Human) ZONE: stonebrunt (USER PID BPH5DRZ)
+[Wed Sep 26 17:09:25 2001] [60 Hierophant] Bisounours (Halfling) <Pandore> ZONE: stonebrunt (USER PID CRJL8ZU)
+[Wed Sep 26 17:09:25 2001] [ANON (29 Monk)] Xolaam (Iksar) ZONE: stonebrunt (USER PID CM627CD)
+[Wed Sep 26 17:09:25 2001] [ANON (38 Magician)] Aaumelien (Erudite) ZONE: stonebrunt (USER PID AZAYD6P)
+[Wed Sep 26 17:09:25 2001] There are 8 players in EverQuest.
+[Wed Sep 26 17:09:27 2001] Aldorin GMSAYS, 'zone'
+[Wed Sep 26 17:09:38 2001] The spirit leaves you.
+[Wed Sep 26 17:09:42 2001] You feel the spirit of Norrath enter you.
+[Wed Sep 26 17:09:50 2001] Jodar tells you, 'no, I thought iI had died right around here, I'll keep looking Thanks'
+[Wed Sep 26 17:09:58 2001] Teleporting to jodar.
+[Wed Sep 26 17:10:04 2001] Teleporting to jodar.
+[Wed Sep 26 17:10:06 2001] Your Location is -4875.00, 453.00, 43.26
+[Wed Sep 26 17:10:10 2001] Teleporting to jodar's corpse0.
+[Wed Sep 26 17:10:12 2001] Your Location is -4107.00, 1038.00, 26.22
+[Wed Sep 26 17:10:25 2001] DELETING THIS PETITION
+[Wed Sep 26 17:10:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Sep 26 17:10:27 2001] USER TEXT: I am having a problem in High Pass Hold.. In the keep where the Amstaff Scroll drops...  There is an issue of Camping and not sharing the spawn I seek.. even after I asked then to..
+[Wed Sep 26 17:10:27 2001] Players in EverQuest:
+[Wed Sep 26 17:10:27 2001] ---------------------------
+[Wed Sep 26 17:10:27 2001] [35 Warrior] Tordakiis (Dwarf) <Moonwolf Clan> ZONE: eastkarana (USER PID EZK62L3)
+[Wed Sep 26 17:10:27 2001] There is 1 player in EverQuest.
+[Wed Sep 26 17:10:54 2001] You GMSAY, 'well, I dunno about this yellow... it's about a KS situation in Highpass and the petitioner is in East Karana'
+[Wed Sep 26 17:11:00 2001] GM TEXT: 
+[Wed Sep 26 17:11:06 2001] Aldorin GMSAYS, 'wow a guide can't even bind in timorous'
+[Wed Sep 26 17:11:10 2001] You GMSAY, 'nope'
+[Wed Sep 26 17:11:13 2001] DELETING THIS PETITION
+[Wed Sep 26 17:11:13 2001] Aldorin GMSAYS, 'is Obudar involved?'
+[Wed Sep 26 17:11:25 2001] You GMSAY, 'I dunno...'
+[Wed Sep 26 17:11:31 2001] Vurtrue tells you, 'trivial loot rule kinda sux'
+[Wed Sep 26 17:12:05 2001] You told Tordakiis, 'Hail, Tordakiis! Guide Espranza here. Are you still having trouble with someone letting you share the spawn?'
+[Wed Sep 26 17:12:19 2001] You told Vurtrue, 'Verant must agree, they removed it from Shadows of Luclin'
+[Wed Sep 26 17:12:50 2001] Vurtrue tells you, 'why not here then? its even in Werren'
+[Wed Sep 26 17:13:11 2001] Tordakiis tells you, 'No.. The ones causing problems made their group mad and got dropped.. so I did get the scroll... thank you though...'
+[Wed Sep 26 17:13:52 2001] You told Vurtrue, 'they put the stuff in there with the expectation that it would be most useful for low level characters and they wanted to let low levels have some nice stuff without it becoming farmed by everyone.'
+[Wed Sep 26 17:14:02 2001] You told Tordakiis, 'okay, glad it worked out. be well!'
+[Wed Sep 26 17:14:07 2001] Tordakiis tells you, 'Thanks'
+[Wed Sep 26 17:14:09 2001] Tordakiis tells you, 'you too'
+[Wed Sep 26 17:14:19 2001] You GMSAY, 'zone'
+[Wed Sep 26 17:14:21 2001] You begin casting Sunset Home. (Sunset Home)
+[Wed Sep 26 17:14:21 2001] Your Belt of Translocation begins to glow.
+[Wed Sep 26 17:14:22 2001] LOADING, PLEASE WAIT...
+[Wed Sep 26 17:14:43 2001] You have entered Sunset Home.
+[Wed Sep 26 17:14:54 2001] It will take you about 30 seconds to prepare your camp.
+[Wed Sep 26 17:14:57 2001] You GMSAY, 'okay, clear!'
+[Wed Sep 26 17:14:58 2001] It will take about 25 more seconds to prepare your camp.
+[Wed Sep 26 17:15:03 2001] It will take about 20 more seconds to prepare your camp.
+[Wed Sep 26 17:15:08 2001] It will take about 15 more seconds to prepare your camp.
+[Wed Sep 26 17:15:09 2001] You GMSAY, 'I'm outta here. Take a picture of the planes and post it somewhere!'
+[Wed Sep 26 17:15:09 2001] Vurtrue tells you, 'ya, I do hate farming'
+[Wed Sep 26 17:15:13 2001] It will take about 10 more seconds to prepare your camp.
+[Wed Sep 26 17:15:17 2001] Aldorin GMSAYS, 'ok :)'
+[Wed Sep 26 17:15:18 2001] It will take about 5 more seconds to prepare your camp.
+[Wed Sep 26 17:15:18 2001] You told Vurtrue, 'it seems to work...'
+[Wed Sep 26 17:15:18 2001] You abandon your preparations to camp.
+[Wed Sep 26 17:15:26 2001] Aldorin GMSAYS, 'good night!'
+[Wed Sep 26 17:15:28 2001] You told Vurtrue, 'on my play server, most everyone there is the right level'
+[Wed Sep 26 17:15:31 2001] You GMSAY, 'night!'
+[Wed Sep 26 17:15:36 2001] Vurtrue tells you, 'I was looking around to see what my bard might beable to ues'
+[Wed Sep 26 17:15:55 2001] You told Vurtrue, 'bring your bard :) I have a bunch of characters who can go there and get stuff.'
+[Wed Sep 26 17:15:58 2001] It will take you about 30 seconds to prepare your camp.
+[Wed Sep 26 17:16:00 2001] You abandon your preparations to camp.
+[Wed Sep 26 17:16:02 2001] It will take you about 30 seconds to prepare your camp.
+[Wed Sep 26 17:16:06 2001] It will take about 25 more seconds to prepare your camp.
+[Wed Sep 26 17:16:10 2001] Vurtrue tells you, 'he is only Lv 9 atm'
+[Wed Sep 26 17:16:11 2001] It will take about 20 more seconds to prepare your camp.
+[Wed Sep 26 17:16:12 2001] You told Vurtrue, 'well, queue is cleared, and I'm off - see ya!'
+[Wed Sep 26 17:16:16 2001] It will take about 15 more seconds to prepare your camp.
+[Wed Sep 26 17:16:19 2001] Vurtrue tells you, 'Lol'
+[Wed Sep 26 17:16:21 2001] It will take about 10 more seconds to prepare your camp.
+[Wed Sep 26 17:16:26 2001] Vurtrue tells you, 'ok sweety nite'
+[Wed Sep 26 17:16:26 2001] It will take about 5 more seconds to prepare your camp.

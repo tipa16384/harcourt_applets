@@ -1,0 +1,385 @@
+[Mon Oct 08 00:00:16 2001] Welcome to EverQuest!
+[Mon Oct 08 00:00:16 2001] You have entered Sunset Home.
+[Mon Oct 08 00:00:19 2001] Players in EverQuest:
+[Mon Oct 08 00:00:19 2001] ---------------------------
+[Mon Oct 08 00:00:19 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Mon Oct 08 00:00:19 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID GUGBHE6)
+[Mon Oct 08 00:00:19 2001] There are 2 players in EverQuest.
+[Mon Oct 08 00:00:23 2001] You GMSAY, 'Hiya!'
+[Mon Oct 08 00:00:32 2001] You GMSAY, 'saw the queue on the board'
+[Mon Oct 08 00:00:34 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:00:35 2001] USER TEXT: just filed a bug report about my pet dying when shrunk by a shamen
+[Mon Oct 08 00:00:35 2001] Players in EverQuest:
+[Mon Oct 08 00:00:35 2001] ---------------------------
+[Mon Oct 08 00:00:35 2001] [30 Enchanter] Tanbill (Erudite) <Wraith Lords> ZONE: kurn (USER PID GNYZZ8D)
+[Mon Oct 08 00:00:35 2001] There is 1 player in EverQuest.
+[Mon Oct 08 00:00:35 2001] Larsot GMSAYS, 'hiya'
+[Mon Oct 08 00:00:44 2001] Larsot GMSAYS, 'aye, just logged on myself'
+[Mon Oct 08 00:00:59 2001] You told Tanbill, 'Hail, Tanbill! Guide Espranza here. Your pet died when shrunk? Did it give any message?'
+[Mon Oct 08 00:01:06 2001] Larsot GMSAYS, 'Trikk should be here soon also'
+[Mon Oct 08 00:01:19 2001] You GMSAY, 'just here long enough to see the queue empty'
+[Mon Oct 08 00:01:29 2001] Tanbill tells you, 'nope, just shrank, waited a few seconds and disappeared with the death sound'
+[Mon Oct 08 00:01:44 2001] You told Tanbill, 'eww... okay, I'll post it as a bug. Thanks!'
+[Mon Oct 08 00:01:50 2001] Tanbill tells you, 'ok, thank you'
+[Mon Oct 08 00:01:53 2001] Larsot GMSAYS, 'great, glad to have the help  :)'
+[Mon Oct 08 00:02:07 2001] You GMSAY, '<note bug> Tanbill GNYZZ8D says his enchanter pet dies after being shrunk by a shaman.'
+[Mon Oct 08 00:02:09 2001] DELETING THIS PETITION
+[Mon Oct 08 00:02:10 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:02:11 2001] USER TEXT: Hi, my friend Rufor and I were trading items, and I gave him a bag of gear with one char, logged on and got it with another. But somewhere in the middle, a magic veil disapeared. It's not on either of my chars, and he doesn't have it. Please hel
+[Mon Oct 08 00:02:11 2001] Players in EverQuest:
+[Mon Oct 08 00:02:11 2001] ---------------------------
+[Mon Oct 08 00:02:11 2001] [12 Necromancer] Scaiilz (Iksar) <Prima Nocturnae> ZONE: ecommons (USER PID HYVWDJ3)
+[Mon Oct 08 00:02:11 2001] There is 1 player in EverQuest.
+[Mon Oct 08 00:02:53 2001] You told Scaiilz, 'Hail, Scaiilz! Guide Espranza here. You'll have to petition again tomorrow during Lirus' hours for reimbursement; his hours are 3pm to 11pm pacific time, Thursday through Monday.'
+[Mon Oct 08 00:02:57 2001] DELETING THIS PETITION
+[Mon Oct 08 00:02:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:02:59 2001] USER TEXT: If you could tell Lirus that an officer has now invited me back to the guild. If he could pop bye and promote me to leader would be greatly appreciated :)
+[Mon Oct 08 00:02:59 2001] Players in EverQuest:
+[Mon Oct 08 00:02:59 2001] ---------------------------
+[Mon Oct 08 00:02:59 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:03:11 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Oct 08 00:03:12 2001] CHECKING IN
+[Mon Oct 08 00:03:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:03:14 2001] USER TEXT: Name Thunderwalksux is slanderous to my guild
+[Mon Oct 08 00:03:14 2001] Players in EverQuest:
+[Mon Oct 08 00:03:14 2001] ---------------------------
+[Mon Oct 08 00:03:14 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:03:22 2001] Players in EverQuest:
+[Mon Oct 08 00:03:22 2001] ---------------------------
+[Mon Oct 08 00:03:22 2001] [ANON (56 Preserver)] Wolfcat (Half Elf) ZONE: blackburrow (USER PID FN0LVS1)
+[Mon Oct 08 00:03:23 2001] [55 Templar] Kanter (Dark Elf) <Thunderwalkers> ZONE: ecommons (USER PID DWWCQ77)
+[Mon Oct 08 00:03:23 2001] [ANON (57 Preserver)] Wenwen (Wood Elf) ZONE: crushbone (USER PID FPSESCY)
+[Mon Oct 08 00:03:23 2001] [55 Knight] Logancreed (Human) <Thunderwalkers> ZONE: thurgadina (USER PID FPG5PKD)
+[Mon Oct 08 00:03:23 2001] [59 Knight] Fogel (Half Elf) <Thunderwalkers> ZONE: charasis (USER PID GTE4AX6)
+[Mon Oct 08 00:03:23 2001] [56 Myrmidon] Weedwacker (Troll) <Thunderwalkers> ZONE: greatdivide (USER PID DPW13YN)
+[Mon Oct 08 00:03:23 2001] [55 Conjurer] Razdeline (Dark Elf) <Thunderwalkers> ZONE: cobaltscar (USER PID BRZY22J)
+[Mon Oct 08 00:03:23 2001] [ANON (50 Druid)] Rexon (Wood Elf) ZONE: greatdivide (USER PID BST33VM)
+[Mon Oct 08 00:03:23 2001] [59 Luminary] Hilor (Barbarian) <Thunderwalkers> ZONE: stonebrunt (USER PID GNXFEV1)
+[Mon Oct 08 00:03:23 2001] [57 Beguiler] Kelmore (High Elf) <Thunderwalkers> ZONE: velketor (USER PID HNZYKQ0)
+[Mon Oct 08 00:03:23 2001] [40 Warrior] Thundersky (Barbarian) <Mystical Lightfighters> ZONE: soldungb (USER PID FT1WAG3)
+[Mon Oct 08 00:03:23 2001] [60 Phantasmist] Sillk (Erudite) <Thunderwalkers> ZONE: velketor (USER PID DV8RGLU)
+[Mon Oct 08 00:03:23 2001] [59 Myrmidon] Sharnhorst (Half Elf) <Thunderwalkers> ZONE: velketor (USER PID HM380G7)
+[Mon Oct 08 00:03:23 2001] [58 Myrmidon] Machlor (Halfling) <Thunderwalkers> ZONE: velketor (USER PID AVJXMFW)
+[Mon Oct 08 00:03:23 2001] [53 Reaver] Solth (Dark Elf) <Thunderwalkers> ZONE: velketor (USER PID DPWLBVF)
+[Mon Oct 08 00:03:23 2001] [57 Beguiler] Seduire (High Elf) <Thunderwalkers> ZONE: velketor (USER PID DUAV2NS)
+[Mon Oct 08 00:03:23 2001] [60 Grandmaster] Sophia (Human) <Thunderwalkers> ZONE: iceclad (USER PID GTRFBJH)
+[Mon Oct 08 00:03:23 2001] [60 Assassin] Fyroth (Dark Elf) <Thunderwalkers> ZONE: charasis (USER PID GTVQ629)
+[Mon Oct 08 00:03:23 2001] [59 Conjurer] Flix (High Elf) <Thunderwalkers> ZONE: thurgadina (USER PID BYZM53Y)
+[Mon Oct 08 00:03:23 2001] [59 Preserver] Labien (Half Elf) <Thunderwalkers> ZONE: charasis (USER PID FNFGLSM)
+[Mon Oct 08 00:03:23 2001] Your who request was cut short..too many players.
+[Mon Oct 08 00:03:33 2001] Players in EverQuest:
+[Mon Oct 08 00:03:34 2001] ---------------------------
+[Mon Oct 08 00:03:34 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:03:40 2001] USER TEXT: Name Thunderwalksux is slanderous to my guild
+[Mon Oct 08 00:03:46 2001] Players in EverQuest:
+[Mon Oct 08 00:03:46 2001] ---------------------------
+[Mon Oct 08 00:03:46 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:03:54 2001] Players in EverQuest:
+[Mon Oct 08 00:03:54 2001] ---------------------------
+[Mon Oct 08 00:03:54 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:03:57 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Oct 08 00:03:58 2001] CHECKING IN
+[Mon Oct 08 00:04:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:04:00 2001] USER TEXT: My friend Eibrab died at entrance to Droga.  Her corpse was empty from previous death.  Her body poofed in about 3 minutes.  Is that correct?
+[Mon Oct 08 00:04:00 2001] Players in EverQuest:
+[Mon Oct 08 00:04:00 2001] ---------------------------
+[Mon Oct 08 00:04:01 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:04:13 2001] You wave at Trikk.
+[Mon Oct 08 00:04:14 2001] Players in EverQuest:
+[Mon Oct 08 00:04:14 2001] ---------------------------
+[Mon Oct 08 00:04:14 2001] * Guide *[50 Ranger] Trikk (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID FT3SJQ6)
+[Mon Oct 08 00:04:14 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Mon Oct 08 00:04:15 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID GUGBHE6)
+[Mon Oct 08 00:04:15 2001] There are 3 players in EverQuest.
+[Mon Oct 08 00:04:17 2001] You hug Trikk.
+[Mon Oct 08 00:04:21 2001] Trikk says, 'Hi'
+[Mon Oct 08 00:04:21 2001] You GMSAY, 'Hiya Trikk!'
+[Mon Oct 08 00:04:36 2001] Trikk GMSAYS, 'Hi Espranza, Larsot'
+[Mon Oct 08 00:04:40 2001] Scaiilz tells you, 'Sorry, I missed your tell'
+[Mon Oct 08 00:04:41 2001] Trikk beams a smile at Espranza.
+[Mon Oct 08 00:04:45 2001] Trikk says, 'How goes?'
+[Mon Oct 08 00:04:49 2001] You told Scaiilz, 'Hail, Scaiilz! Guide Espranza here. You'll have to petition again tomorrow during Lirus' hours for reimbursement; his hours are 3pm to 11pm pacific time, Thursday through Monday.'
+[Mon Oct 08 00:05:00 2001] Llara the Mysterious says 'Hi there Trikk, just browsing?  Have you seen the Wedding Cake I just got in?'
+[Mon Oct 08 00:05:00 2001] You say, 'doing okay, Larsot and I got on to make your life easier'
+[Mon Oct 08 00:05:03 2001] Scaiilz tells you, 'Ok, thanks =)'
+[Mon Oct 08 00:05:09 2001] You told Scaiilz, 'be well and good luck!'
+[Mon Oct 08 00:05:15 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Oct 08 00:05:16 2001] CHECKING IN
+[Mon Oct 08 00:05:18 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:05:18 2001] USER TEXT: i cant get on with my other character it zoned to the hole and its stuck 
+[Mon Oct 08 00:05:18 2001] Players in EverQuest:
+[Mon Oct 08 00:05:18 2001] ---------------------------
+[Mon Oct 08 00:05:18 2001] [14 Enchanter] Mezim (High Elf) <Magician Elite> ZONE: crushbone (USER PID BWF5VY9)
+[Mon Oct 08 00:05:19 2001] There is 1 player in EverQuest.
+[Mon Oct 08 00:05:27 2001] Trikk looks curious.
+[Mon Oct 08 00:05:37 2001] Trikk says, 'nasty petition before?'
+[Mon Oct 08 00:05:40 2001] Scaiilz tells you, 'You too =) Oh yeah, you guys make luck =)'
+[Mon Oct 08 00:05:41 2001] You told Mezim, 'Hail, Mezim! Guide Espranza here. Have you downloaded the optional patch for the Hole?'
+[Mon Oct 08 00:05:45 2001] You say, 'no, full queue though'
+[Mon Oct 08 00:05:51 2001] Trikk says, 'oh'
+[Mon Oct 08 00:05:51 2001] You told Scaiilz, 'If only!'
+[Mon Oct 08 00:05:57 2001] Mezim tells you, 'no i havnt not that i know  of'
+[Mon Oct 08 00:06:03 2001] Trikk says, 'well thank you very much'
+[Mon Oct 08 00:06:10 2001] Trikk says, 'and I better get into it :-)'
+[Mon Oct 08 00:06:21 2001] You told Mezim, 'have you ever been in the Hole since you last installed EQ?'
+[Mon Oct 08 00:06:37 2001] Espranza isn't ignoring Trikk, she's just on a petition.
+[Mon Oct 08 00:06:48 2001] Espranza will ignore Trikk later.
+[Mon Oct 08 00:06:48 2001] Mezim tells you, 'i never been in there ever'
+[Mon Oct 08 00:06:57 2001] Trikk bites Espranza on the leg!
+[Mon Oct 08 00:07:01 2001] You emit a low rumble and then roar at Trikk.
+[Mon Oct 08 00:07:02 2001] Trikk says, 'that's for later ;-)'
+[Mon Oct 08 00:07:05 2001] You say, 'heh'
+[Mon Oct 08 00:07:31 2001] Larsot tells the guild, '<note issue> need to check report on Kupp (no pid) on possible disruption.'
+[Mon Oct 08 00:07:42 2001] You told Mezim, 'Okay, run EQ again, but this time press the Optional Patch button to make sure you have the files. You'll also get the Warrens and Stonebrunt Mountains, too, most likely.'
+[Mon Oct 08 00:07:50 2001] You say to your guild, 'oooh surprise'
+[Mon Oct 08 00:07:55 2001] You say to your guild, 'that is a problem person'
+[Mon Oct 08 00:08:07 2001] Larsot tells the guild, 'according to the pet, he sure is'
+[Mon Oct 08 00:08:16 2001] DELETING THIS PETITION
+[Mon Oct 08 00:08:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:08:18 2001] USER TEXT: Is there a problem with the tidal lords in dagnor? because ive killed around 25 and thought their common drop was a Cauldron shell, so far only water rings and bows drop
+[Mon Oct 08 00:08:18 2001] Players in EverQuest:
+[Mon Oct 08 00:08:18 2001] ---------------------------
+[Mon Oct 08 00:08:18 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:08:31 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Oct 08 00:08:32 2001] CHECKING IN
+[Mon Oct 08 00:08:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:08:36 2001] USER TEXT: If you could tell Lirus that an officer has now invited me back to the guild. If he could pop bye and promote me to leader would be greatly appreciated :)
+[Mon Oct 08 00:08:36 2001] Players in EverQuest:
+[Mon Oct 08 00:08:36 2001] ---------------------------
+[Mon Oct 08 00:08:36 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:08:41 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Oct 08 00:08:42 2001] CHECKING IN
+[Mon Oct 08 00:08:44 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:08:44 2001] Mezim tells you, 'oh ok  so all i do is run patch and that should fix it ?'
+[Mon Oct 08 00:08:44 2001] USER TEXT: Name Thunderwalksux is slanderous to my guild
+[Mon Oct 08 00:08:44 2001] Players in EverQuest:
+[Mon Oct 08 00:08:44 2001] ---------------------------
+[Mon Oct 08 00:08:44 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:08:57 2001] Mezim tells you, 'optional patch'
+[Mon Oct 08 00:09:11 2001] You told Mezim, 'it should, though your character will be stuck in an exitless room when you can log in. Petition again to be freed'
+[Mon Oct 08 00:09:13 2001] You told Mezim, 'aye, optional patch.'
+[Mon Oct 08 00:09:17 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Oct 08 00:09:19 2001] CHECKING IN
+[Mon Oct 08 00:09:20 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:09:21 2001] USER TEXT: umm, i fell for 10,000 damage in velketors lab, i usually only fall for 600 or so from the very top, i havent moved my corpse or anything...
+[Mon Oct 08 00:09:21 2001] Players in EverQuest:
+[Mon Oct 08 00:09:21 2001] ---------------------------
+[Mon Oct 08 00:09:21 2001] [56 Luminary] Blytz (Iksar) <Der Einherjar> ZONE: velketor (USER PID FM34K0U) LFG
+[Mon Oct 08 00:09:21 2001] There is 1 player in EverQuest.
+[Mon Oct 08 00:09:35 2001] Mezim tells you, 'Ok thanks a lot ive been stuck in there all day lol'
+[Mon Oct 08 00:09:45 2001] You told Mezim, 'good luck and I hope you get out!'
+[Mon Oct 08 00:09:56 2001] You told Mezim, 'the optional patch might take awhile if you've never done it.'
+[Mon Oct 08 00:10:14 2001] Mezim tells you, 'ok np whatever works lol'
+[Mon Oct 08 00:10:21 2001] Espranza saved.
+[Mon Oct 08 00:10:34 2001] You told Blytz, 'Hail, Blytz! Guide Espranza here. The GM has said falling for 10K damage in Velk's is not a bug, therefore we cannot rez for it.'
+[Mon Oct 08 00:10:50 2001] DELETING THIS PETITION
+[Mon Oct 08 00:10:51 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:10:52 2001] USER TEXT: My friend Eibrab died at entrance to Droga.  Her corpse was empty from previous death.  Her body poofed in about 3 minutes.  Is that correct?
+[Mon Oct 08 00:10:52 2001] Players in EverQuest:
+[Mon Oct 08 00:10:52 2001] ---------------------------
+[Mon Oct 08 00:10:52 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:10:59 2001] Searching zones for corpse of that name....
+[Mon Oct 08 00:11:10 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Oct 08 00:11:12 2001] CHECKING IN
+[Mon Oct 08 00:11:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:11:14 2001] USER TEXT: Is there a problem with the tidal lords in dagnor? because ive killed around 25 and thought their common drop was a Cauldron shell, so far only water rings and bows drop
+[Mon Oct 08 00:11:14 2001] Players in EverQuest:
+[Mon Oct 08 00:11:14 2001] ---------------------------
+[Mon Oct 08 00:11:14 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:11:18 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Oct 08 00:11:25 2001] Blytz tells you, 'eep, alright, i was informed otherwise, sorry about that, good night )'
+[Mon Oct 08 00:11:30 2001] You GMSAY, 'Cyndrome unavail 3 ***flush***'
+[Mon Oct 08 00:11:33 2001] You told Blytz, 'be well!'
+[Mon Oct 08 00:11:38 2001] DELETING THIS PETITION
+[Mon Oct 08 00:11:40 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:11:40 2001] USER TEXT: If you could tell Lirus that an officer has now invited me back to the guild. If he could pop bye and promote me to leader would be greatly appreciated :)
+[Mon Oct 08 00:11:40 2001] Players in EverQuest:
+[Mon Oct 08 00:11:41 2001] ---------------------------
+[Mon Oct 08 00:11:41 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:11:53 2001] You GMSAY, 'Ravarg unavail 3 ***flush***'
+[Mon Oct 08 00:11:55 2001] DELETING THIS PETITION
+[Mon Oct 08 00:11:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:11:59 2001] USER TEXT: Name Thunderwalksux is slanderous to my guild
+[Mon Oct 08 00:11:59 2001] Players in EverQuest:
+[Mon Oct 08 00:11:59 2001] ---------------------------
+[Mon Oct 08 00:11:59 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:12:11 2001] You GMSAY, 'Xanthias unavail 3 ***flosh***'
+[Mon Oct 08 00:12:14 2001] DELETING THIS PETITION
+[Mon Oct 08 00:12:15 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Oct 08 00:12:15 2001] USER TEXT: My friend Eibrab died at entrance to Droga.  Her corpse was empty from previous death.  Her body poofed in about 3 minutes.  Is that correct?
+[Mon Oct 08 00:12:16 2001] Players in EverQuest:
+[Mon Oct 08 00:12:16 2001] ---------------------------
+[Mon Oct 08 00:12:16 2001] There are no players in EverQuest that match those who filters.
+[Mon Oct 08 00:12:32 2001] You GMSAY, 'Deeanna unavail 3 ***flish***'
+[Mon Oct 08 00:12:33 2001] DELETING THIS PETITION
+[Mon Oct 08 00:12:40 2001] You GMSAY, 'yay! queue clear!'
+[Mon Oct 08 00:12:48 2001] Players in EverQuest:
+[Mon Oct 08 00:12:48 2001] ---------------------------
+[Mon Oct 08 00:12:48 2001] * Guide *[50 Ranger] Trikk (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID FT3SJQ6)
+[Mon Oct 08 00:12:49 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Mon Oct 08 00:12:49 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID GUGBHE6)
+[Mon Oct 08 00:12:49 2001] There are 3 players in EverQuest.
+[Mon Oct 08 00:13:06 2001] Larsot GMSAYS, 'hehe'
+[Mon Oct 08 00:13:06 2001] Espranza looks around for someone to ignore.
+[Mon Oct 08 00:13:13 2001] Summoning larsot.
+[Mon Oct 08 00:13:24 2001] Espranza ignores Larsot!
+[Mon Oct 08 00:13:37 2001] Larsot giggles at Espranza.
+[Mon Oct 08 00:13:59 2001] Players in EverQuest:
+[Mon Oct 08 00:13:59 2001] ---------------------------
+[Mon Oct 08 00:13:59 2001] * Guide *[50 Ranger] Trikk (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID FT3SJQ6)
+[Mon Oct 08 00:13:59 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Mon Oct 08 00:13:59 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID GUGBHE6)
+[Mon Oct 08 00:14:00 2001] There are 3 players in EverQuest.
+[Mon Oct 08 00:14:07 2001] Espranza has fallen to the ground.
+[Mon Oct 08 00:14:08 2001] Espranza has fallen to the ground.
+[Mon Oct 08 00:14:09 2001] Espranza has fallen to the ground.
+[Mon Oct 08 00:14:10 2001] Espranza has fallen to the ground.
+[Mon Oct 08 00:14:11 2001] Espranza has fallen to the ground.
+[Mon Oct 08 00:14:13 2001] Espranza dies.
+[Mon Oct 08 00:14:19 2001] Larsot ponders Espranza. What is going on with her?
+[Mon Oct 08 00:14:31 2001] You say, 'best haffer monk you'll ever see!'
+[Mon Oct 08 00:14:38 2001] Trikk GMSAYS, 'Zoning'
+[Mon Oct 08 00:14:45 2001] Trikk GMSAYS, 'mistell'
+[Mon Oct 08 00:14:46 2001] Espranza poofs tricc.
+[Mon Oct 08 00:14:48 2001] Espranza poofs trikk.
+[Mon Oct 08 00:14:56 2001] Espranza ignores Trikk!
+[Mon Oct 08 00:15:02 2001] Trikk bites Espranza on the leg!
+[Mon Oct 08 00:15:06 2001] You bonk Trikk on the head!
+[Mon Oct 08 00:15:10 2001] Trikk says, 'chomp chomp chomp'
+[Mon Oct 08 00:15:15 2001] You say, 'OUCH!'
+[Mon Oct 08 00:15:26 2001] You say, 'if I weren't ignoring you I'd... I'd...'
+[Mon Oct 08 00:15:29 2001] You say, 'Well it wouldn't be nice!'
+[Mon Oct 08 00:15:34 2001] Trikk is surrounded by a brief aura.
+[Mon Oct 08 00:15:53 2001] Trikk tells the guild, 'run for lives - it's a rabid halfing! ;-)'
+[Mon Oct 08 00:16:02 2001] Espranza foams at the mouth.
+[Mon Oct 08 00:16:32 2001] Trikk tells the guild, 'save me!'
+[Mon Oct 08 00:16:33 2001] Espranza bites Larsot.
+[Mon Oct 08 00:16:56 2001] Larsot tells the guild, 'damn, she just bit me  :/'
+[Mon Oct 08 00:17:09 2001] Trikk tells the guild, 'oh no! now your infected too'
+[Mon Oct 08 00:17:19 2001] Trikk screams.
+[Mon Oct 08 00:17:23 2001] Trikk floats above the ground.
+[Mon Oct 08 00:17:24 2001] You say out of character, 'Rabies... not just a disease, a way of life.'
+[Mon Oct 08 00:17:39 2001] Larsot tells the guild, 'rofl'
+[Mon Oct 08 00:17:41 2001] You panic at the sight of Trikk.
+[Mon Oct 08 00:17:41 2001] Trikk beams a smile at Espranza.
+[Mon Oct 08 00:17:57 2001] Trikk shivers at the thought of messing with Espranza.
+[Mon Oct 08 00:18:23 2001] Trikk says, 'how many emotes do you know?'
+[Mon Oct 08 00:18:35 2001] You cringe away from Trikk.
+[Mon Oct 08 00:18:38 2001] You cry over Trikk.
+[Mon Oct 08 00:18:43 2001] You giggle at Trikk.
+[Mon Oct 08 00:18:46 2001] You snicker softly at Trikk.
+[Mon Oct 08 00:18:49 2001] Trikk chuckles at Espranza.
+[Mon Oct 08 00:18:50 2001] You roll on the floor laughing at Trikk.
+[Mon Oct 08 00:18:53 2001] Trikk grins evilly at Espranza.
+[Mon Oct 08 00:18:55 2001] You beam a smile at Trikk.
+[Mon Oct 08 00:18:59 2001] You bonk Trikk on the head!
+[Mon Oct 08 00:19:01 2001] You point at Trikk. Yeah you!
+[Mon Oct 08 00:19:04 2001] Trikk makes a rude gesture at Espranza.
+[Mon Oct 08 00:19:05 2001] You look at Trikk and raise your hand.
+[Mon Oct 08 00:19:08 2001] You agree with Trikk.
+[Mon Oct 08 00:19:11 2001] You veto Trikk's idea!
+[Mon Oct 08 00:19:14 2001] Trikk nods at Espranza.
+[Mon Oct 08 00:19:14 2001] You tap your foot as you look at Trikk impatiently.
+[Mon Oct 08 00:19:16 2001] You look at Trikk, completely puzzled.
+[Mon Oct 08 00:19:19 2001] You ponder Trikk. What is going on with him?
+[Mon Oct 08 00:19:21 2001] You sigh at Trikk.
+[Mon Oct 08 00:19:25 2001] You shrug at Trikk.
+[Mon Oct 08 00:19:32 2001] You boggle at Trikk, shaking your head and looking confused.
+[Mon Oct 08 00:19:36 2001] You panic at the sight of Trikk.
+[Mon Oct 08 00:19:39 2001] You shiver at the thought of messing with Trikk.
+[Mon Oct 08 00:19:43 2001] Trikk says, 'very impressive'
+[Mon Oct 08 00:19:50 2001] You agree with Trikk.
+[Mon Oct 08 00:19:53 2001] Trikk grabs hold of Espranza and begins to dance with her.
+[Mon Oct 08 00:19:57 2001] You cheer at Trikk.
+[Mon Oct 08 00:20:00 2001] You clap happily for Trikk - hurray!
+[Mon Oct 08 00:20:06 2001] You turn an icy glare upon Trikk.
+[Mon Oct 08 00:20:13 2001] You stare dreamily at Trikk, completely lost in his eyes.
+[Mon Oct 08 00:20:22 2001] You peer at Trikk, looking him up and down.
+[Mon Oct 08 00:20:25 2001] You whistle at Trikk appreciatively.
+[Mon Oct 08 00:20:29 2001] You no longer have a target.
+[Mon Oct 08 00:20:30 2001] Espranza saved.
+[Mon Oct 08 00:20:30 2001] You whistle a little tune.
+[Mon Oct 08 00:20:40 2001] Trikk says, 'are you doing all these off the top of your head?'
+[Mon Oct 08 00:20:44 2001] You bite Trikk on the leg!
+[Mon Oct 08 00:20:47 2001] You emit a low rumble and then roar at Trikk.
+[Mon Oct 08 00:20:50 2001] You say, 'yup'
+[Mon Oct 08 00:20:56 2001] Trikk says, 'cool'
+[Mon Oct 08 00:21:00 2001] You say, 'I qas in Quest Troupe'
+[Mon Oct 08 00:21:07 2001] You say, 'Knowing the emotes was essential'
+[Mon Oct 08 00:21:12 2001] Trikk says, 'aahhh'
+[Mon Oct 08 00:21:21 2001] Trikk says, 'look, its dead lizard'
+[Mon Oct 08 00:21:33 2001] You say, 'he needs to be fried'
+[Mon Oct 08 00:21:38 2001] You say, 'I hate uncooked lizard'
+[Mon Oct 08 00:21:52 2001] Espranza thinks of Lavastorm... Skyfire... BURNING WOOD!
+[Mon Oct 08 00:21:53 2001] Larsot says, 'die with my swords in the air so someone can impail themselves on my cold dead lizard corpse'
+[Mon Oct 08 00:22:09 2001] Trikk says, 'I was thinking of putting it somewhere where it won't stink ;-)'
+[Mon Oct 08 00:22:22 2001] You say, 'bottom of a deep hole?'
+[Mon Oct 08 00:22:23 2001] Larsot floats above the ground.
+[Mon Oct 08 00:22:25 2001] Players in EverQuest:
+[Mon Oct 08 00:22:25 2001] ---------------------------
+[Mon Oct 08 00:22:25 2001] [52 Champion] Grizzack (Dwarf) <Temple of Dawn> ZONE: hole (USER PID ES3Q8NT)
+[Mon Oct 08 00:22:25 2001] [21 Rogue] Aromi (Halfling) ZONE: hole (USER PID CV49ULB)
+[Mon Oct 08 00:22:25 2001] [20 Druid] Sopia (Wood Elf) ZONE: hole (USER PID HYP2TSD)
+[Mon Oct 08 00:22:25 2001] [49 Paladin] Zarik (Half Elf) <Honorbound Elite> ZONE: hole (USER PID FYKP615)
+[Mon Oct 08 00:22:25 2001] [53 Pathfinder] Emerelle (Wood Elf) <Temple of Dawn> ZONE: hole (USER PID DM48SYE)
+[Mon Oct 08 00:22:25 2001] [53 Vicar] Olauf (Dwarf) <Temple of Dawn> ZONE: hole (USER PID HVW6680)
+[Mon Oct 08 00:22:25 2001] [52 Channeler] Ssolaria (High Elf) <Temple of Dawn> ZONE: hole (USER PID DWKEW0A)
+[Mon Oct 08 00:22:25 2001] [48 Wizard] Giselleh (High Elf) ZONE: hole (USER PID BW3M5BM)
+[Mon Oct 08 00:22:25 2001] There are 8 players in EverQuest.
+[Mon Oct 08 00:22:31 2001] Trikk says, 'its a miracle!'
+[Mon Oct 08 00:22:42 2001] You say, 'Trikk, the Messiah'
+[Mon Oct 08 00:23:19 2001] Trikk tells you, 'I was going to summon him into the pool ;-) but he caught on when I moved'
+[Mon Oct 08 00:23:29 2001] You told Trikk, 'heh'
+[Mon Oct 08 00:23:38 2001] You say, 'you can walk on water, and raise the dead'
+[Mon Oct 08 00:23:49 2001] You say, 'you can summon food and drink without limit'
+[Mon Oct 08 00:23:55 2001] You say, 'are you God?'
+[Mon Oct 08 00:24:18 2001] Trikk says, 'if you're happy with birthday cake and gnome sandwiches as a stample'
+[Mon Oct 08 00:24:18 2001] Larsot says, 'nah, just a simple creation of his mighty power'
+[Mon Oct 08 00:24:57 2001] Larsot's image shimmers.
+[Mon Oct 08 00:25:03 2001] Trikk says, 'afk a second to grab my water bottle, brrb'
+[Mon Oct 08 00:25:06 2001] You feel different.
+[Mon Oct 08 00:25:15 2001] Trikk shrinks.
+[Mon Oct 08 00:25:16 2001] Trikk shrinks.
+[Mon Oct 08 00:25:17 2001] Trikk shrinks.
+[Mon Oct 08 00:25:18 2001] Trikk shrinks.
+[Mon Oct 08 00:25:19 2001] Your illusion fades.
+[Mon Oct 08 00:25:19 2001] You feel a bit dispelled.
+[Mon Oct 08 00:25:20 2001] You feel a bit dispelled.
+[Mon Oct 08 00:25:20 2001] You no longer have a target.
+[Mon Oct 08 00:25:21 2001] You feel a bit dispelled.
+[Mon Oct 08 00:25:21 2001] You feel a bit dispelled.
+[Mon Oct 08 00:25:22 2001] You feel a bit dispelled.
+[Mon Oct 08 00:25:22 2001] You feel a bit dispelled.
+[Mon Oct 08 00:25:23 2001] You feel a bit dispelled.
+[Mon Oct 08 00:25:29 2001] You feel a bit dispelled.
+[Mon Oct 08 00:25:29 2001] You feel a bit dispelled.
+[Mon Oct 08 00:25:30 2001] You feel a bit dispelled.
+[Mon Oct 08 00:25:40 2001] Larsot says, 'love the lag  :D'
+[Mon Oct 08 00:26:09 2001] Trikk says, 'back'
+[Mon Oct 08 00:26:09 2001] Larsot stands on his tip-toes and does a dance of joy!
+[Mon Oct 08 00:26:11 2001] Larsot stands on his tip-toes and does a dance of joy!
+[Mon Oct 08 00:26:13 2001] Larsot stands on his tip-toes and does a dance of joy!
+[Mon Oct 08 00:26:16 2001] Larsot stands on his tip-toes and does a dance of joy!
+[Mon Oct 08 00:26:28 2001] Trikk stares dreamily at Larsot, completely lost in his eyes.
+[Mon Oct 08 00:26:52 2001] Players in EverQuest:
+[Mon Oct 08 00:26:52 2001] ---------------------------
+[Mon Oct 08 00:26:52 2001] * Guide *[50 Ranger] Trikk (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID FT3SJQ6)
+[Mon Oct 08 00:26:52 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Mon Oct 08 00:26:52 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID GUGBHE6)
+[Mon Oct 08 00:26:52 2001] There are 3 players in EverQuest.
+[Mon Oct 08 00:27:05 2001] Larsot feels a bit dispelled.
+[Mon Oct 08 00:27:08 2001] You GMSAY, 'well guys, looks like the queue isn't going to act up, so it's bedtime for me'
+[Mon Oct 08 00:27:15 2001] It will take you about 30 seconds to prepare your camp.
+[Mon Oct 08 00:27:17 2001] You GMSAY, 'night!'
+[Mon Oct 08 00:27:18 2001] Larsot GMSAYS, 'hehe ok, Espranze'
+[Mon Oct 08 00:27:19 2001] It will take about 25 more seconds to prepare your camp.
+[Mon Oct 08 00:27:19 2001] Trikk cries over Espranza.
+[Mon Oct 08 00:27:24 2001] It will take about 20 more seconds to prepare your camp.
+[Mon Oct 08 00:27:24 2001] Trikk says, 'dont leave...'
+[Mon Oct 08 00:27:28 2001] You GMSAY, 'zip your fly, Larsot'
+[Mon Oct 08 00:27:29 2001] It will take about 15 more seconds to prepare your camp.
+[Mon Oct 08 00:27:34 2001] It will take about 10 more seconds to prepare your camp.
+[Mon Oct 08 00:27:38 2001] Trikk says, 'I'll be good I promise'
+[Mon Oct 08 00:27:39 2001] It will take about 5 more seconds to prepare your camp.
+[Mon Oct 08 00:27:43 2001] You no longer have a target.
+[Mon Oct 08 00:27:45 2001] You grin evilly.

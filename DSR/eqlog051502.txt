@@ -1,0 +1,952 @@
+[Wed May 15 08:27:45 2002] Welcome to EverQuest!
+[Wed May 15 08:27:45 2002] You have entered Sunset Home.
+[Wed May 15 08:27:45 2002] MESSAGE OF THE DAY: Welcome to Morell-Thule! Do you enjoy helping others? Are you 18 years old or older, have an Everquest account in good standing, and wish to join the Guide Program?  Please go to https://guide.everquest.com/guideapp/ and apply today!!
+[Wed May 15 08:27:46 2002] Espranza saved.
+[Wed May 15 08:27:51 2002] Players in EverQuest:
+[Wed May 15 08:27:51 2002] ---------------------------
+
+[Wed May 15 08:27:51 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7) 
+[Wed May 15 08:27:51 2002] There is 1 player in EverQuest.
+[Wed May 15 08:27:57 2002] You GMSAY, 'hullo any/everyone!'
+[Wed May 15 08:27:58 2002] Players in EverQuest:
+[Wed May 15 08:27:58 2002] ---------------------------
+
+[Wed May 15 08:27:58 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7) 
+[Wed May 15 08:27:58 2002] There is 1 player in EverQuest.
+[Wed May 15 08:29:11 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:29:11 2002] USER TEXT: I was in nexus omw to tox when the portal took me to velius..no warning whatsoever.  zoned in and died.  lost my corpse ..10th lvl, can't get it back.  the nexus gave no warning it was opening
+[Wed May 15 08:29:11 2002] Players in EverQuest:
+[Wed May 15 08:29:11 2002] ---------------------------
+
+[Wed May 15 08:29:11 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 08:29:33 2002] Searching zones for corpse of that name....
+[Wed May 15 08:29:33 2002] Corpse: Rhydyr's corpse0 in zone: greatdivide
+[Wed May 15 08:29:50 2002] You GMSAY, 'Rhydyr unavail x1'
+[Wed May 15 08:29:52 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed May 15 08:29:54 2002] CHECKING IN
+[Wed May 15 08:29:58 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:29:58 2002] USER TEXT: I was in nexus omw to tox when the portal took me to velius..no warning whatsoever.  zoned in and died.  lost my corpse ..10th lvl, can't get it back.  the nexus gave no warning it was opening
+[Wed May 15 08:29:59 2002] Players in EverQuest:
+[Wed May 15 08:29:59 2002] ---------------------------
+
+[Wed May 15 08:29:59 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 08:30:02 2002] CHECKING IN
+[Wed May 15 08:30:10 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:30:11 2002] USER TEXT: I have a problem
+[Wed May 15 08:30:11 2002] Players in EverQuest:
+[Wed May 15 08:30:11 2002] ---------------------------
+
+[Wed May 15 08:30:11 2002] [57 Templar] Olauf (Dwarf)  ZONE: velketor (USER PID HVW6680) 
+[Wed May 15 08:30:11 2002] There is 1 player in EverQuest.
+[Wed May 15 08:30:27 2002] You told Olauf, 'Hail, Olauf! Senior Guide Espranza here. How may I help you?'
+[Wed May 15 08:31:42 2002] Olauf tells you, 'hi I wanted to say that Meteo my wizzy fell off the world and died and I need a rez for him'
+[Wed May 15 08:31:56 2002] Olauf tells you, 'or a summon at least'
+[Wed May 15 08:32:02 2002] Searching zones for corpse of that name....
+[Wed May 15 08:32:03 2002] Corpse: Meteo's corpse0 in zone: greatdivide
+[Wed May 15 08:32:10 2002] You told Olauf, 'let me go have a look at him'
+[Wed May 15 08:32:11 2002] Olauf tells you, 'i can't reach the corpse'
+[Wed May 15 08:32:11 2002] You GMSAY, 'zone'
+[Wed May 15 08:32:17 2002] LOADING, PLEASE WAIT...
+[Wed May 15 08:32:18 2002] Olauf tells you, 'ok go GD to see'
+[Wed May 15 08:32:56 2002] You have entered The Great Divide.
+[Wed May 15 08:32:57 2002] Espranza saved.
+[Wed May 15 08:33:04 2002] Teleporting to meteo's corpse0.
+[Wed May 15 08:33:19 2002] You told Olauf, 'sure enough! Log Meteo in now please.'
+[Wed May 15 08:33:46 2002] Olauf tells you, 'he's on my other computer now :)'
+[Wed May 15 08:33:52 2002] Players in EverQuest:
+[Wed May 15 08:33:52 2002] ---------------------------
+
+[Wed May 15 08:33:52 2002] [38 Wizard] Meteo (High Elf)  ZONE: greatdivide (USER PID BNQ0HRL) 
+[Wed May 15 08:33:52 2002] There is 1 player in EverQuest.
+[Wed May 15 08:34:00 2002] Teleporting to meteo.
+[Wed May 15 08:34:07 2002] Gomdori begins to cast a spell. (Regrowth)
+[Wed May 15 08:34:08 2002] Qeniar begins to cast a spell. (Spirit of Wolf)
+[Wed May 15 08:34:09 2002] Meteo bumps heads with Qeniar doh!
+[Wed May 15 08:34:09 2002] Summoning meteo's corpse0.
+[Wed May 15 08:34:11 2002] Delphinus bonks Kensirou on the head!
+[Wed May 15 08:34:13 2002] Kensirou begins to regenerate.
+[Wed May 15 08:34:14 2002] Meteo is surrounded by a brief lupine aura.
+[Wed May 15 08:34:18 2002] You told Olauf, 'is he ready for a rez?'
+[Wed May 15 08:34:18 2002] Meteo says, 'thanks :)'
+[Wed May 15 08:34:32 2002] Olauf tells you, 'sure thing'
+[Wed May 15 08:34:39 2002] Zarjax begins to cast a spell. (Paralyzing Poison I)
+[Wed May 15 08:34:40 2002] a young shardwurm begins to cast a spell. (Shardwurm Breath)
+[Wed May 15 08:34:43 2002] You told Olauf, 'I hear a wurm....'
+[Wed May 15 08:34:50 2002] Qeniar begins to cast a spell. (Ring of Cobalt Scar)
+[Wed May 15 08:34:52 2002] a young shardwurm begins to cast a spell. (Shardwurm Breath)
+[Wed May 15 08:34:56 2002] Meteo says, 'hi Espranza ty :)'
+[Wed May 15 08:34:57 2002] Qeniar fades away.
+[Wed May 15 08:34:57 2002] Zarjax yells for help from off to the left of you
+[Wed May 15 08:35:02 2002] You say, 'anytime'
+[Wed May 15 08:35:02 2002] a young shardwurm begins to cast a spell. (Shardwurm Breath)
+[Wed May 15 08:35:02 2002] Zarjax is lacerated and frozen by ice shards.
+[Wed May 15 08:35:06 2002] Players in EverQuest:
+[Wed May 15 08:35:06 2002] ---------------------------
+
+[Wed May 15 08:35:06 2002] [39 Wizard] Meteo (High Elf)  ZONE: greatdivide (USER PID BNQ0HRL) 
+[Wed May 15 08:35:06 2002] There is 1 player in EverQuest.
+[Wed May 15 08:35:07 2002] Zarjax yells for help from ahead and to the right of you
+[Wed May 15 08:35:08 2002] Zarjax has been slain by a young shardwurm!
+[Wed May 15 08:35:15 2002] a young shardwurm begins to cast a spell. (Shardwurm Breath)
+[Wed May 15 08:35:15 2002] Bruceth is lacerated and frozen by ice shards.
+[Wed May 15 08:35:17 2002] Delphinus begins to cast a spell. (Skin like Diamond)
+[Wed May 15 08:35:26 2002] a young shardwurm begins to cast a spell. (Shardwurm Breath)
+[Wed May 15 08:35:27 2002] Bruceth is lacerated and frozen by ice shards.
+[Wed May 15 08:35:36 2002] Bruceth begins to cast a spell. (Wildfire)
+[Wed May 15 08:35:36 2002] Delphinus begins to cast a spell. (Enveloping Roots)
+[Wed May 15 08:35:37 2002] a young shardwurm begins to cast a spell. (Shardwurm Breath)
+[Wed May 15 08:35:37 2002] Kensirou is lacerated and frozen by ice shards.
+[Wed May 15 08:35:38 2002] A young shardwurm becomes entwined in roots.
+[Wed May 15 08:35:39 2002] Zarduban begins to cast a spell. (Draught of Fire)
+[Wed May 15 08:35:42 2002] A young shardwurm is caught in a torrent of fire.
+[Wed May 15 08:35:42 2002] A young shardwurm's skin ignites as wildfire courses over them.
+[Wed May 15 08:35:42 2002] a young shardwurm has been slain by Bruceth!
+[Wed May 15 08:35:42 2002] A young shardwurm's skin ignites as wildfire courses over them.
+[Wed May 15 08:35:49 2002] You GMSAY, 'Meteo BNQ0HRL lost his corpse beneath Great Divide. Retrieved the corpse from beneath the world and rezzed him/'
+[Wed May 15 08:36:03 2002] You GMSAY, '<note> Meteo BNQ0HRL lost his corpse beneath Great Divide. Retrieved the corpse from beneath the world and rezzed him.'
+[Wed May 15 08:36:19 2002] You told Olauf, 'Be well and safe(r) journeys to you!'
+[Wed May 15 08:36:21 2002] DELETING THIS PETITION
+[Wed May 15 08:36:25 2002] Olauf tells you, 'hehe thanks a lot for helping :)'
+[Wed May 15 08:36:25 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:36:25 2002] USER TEXT: was in zland lair, stuck in some kind of room now
+[Wed May 15 08:36:26 2002] Players in EverQuest:
+[Wed May 15 08:36:26 2002] ---------------------------
+
+[Wed May 15 08:36:26 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 08:36:28 2002] Iffe auctions, 'WTB/T  Vial of purified Water.'
+[Wed May 15 08:36:44 2002] Olauf tells you, 'Meteo doesn't fear wurmies :P'
+[Wed May 15 08:36:56 2002] You told Olauf, 'I would at his level'
+[Wed May 15 08:37:28 2002] You GMSAY, 'Angeluse unavail x1'
+[Wed May 15 08:37:30 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed May 15 08:37:30 2002] CHECKING IN
+[Wed May 15 08:37:32 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:37:33 2002] USER TEXT: i have a character stuck in a zone that i cannot log on, when i try to log that character on it boots me back to the server screen, i have deleted files like i was told and i still cant play the character, can you pull him from the zone please?
+[Wed May 15 08:37:33 2002] Players in EverQuest:
+[Wed May 15 08:37:33 2002] ---------------------------
+
+[Wed May 15 08:37:33 2002] [3 Ranger] Tristun (Human)  ZONE: qeytoqrg (USER PID BVST69H) 
+[Wed May 15 08:37:33 2002] There is 1 player in EverQuest.
+[Wed May 15 08:38:00 2002] You told Tristun, 'Hail, Tristun! Senior Guide Espranza here. What character is it, and where is it stuck?'
+[Wed May 15 08:38:22 2002] Tristun tells you, 'the character is named Clouwd and he is stuck in warsilick woods'
+[Wed May 15 08:38:30 2002] Matzzang says out of character, 'Anyone know VL loc ?'
+[Wed May 15 08:38:40 2002] You told Tristun, 'which files have you deleted?'
+[Wed May 15 08:39:08 2002] You feel the spirit of Norrath enter you.
+[Wed May 15 08:39:22 2002] Tristun tells you, 'he got stuck before and i deleted the files that i was told to before, the zones and charcter files on that character'
+[Wed May 15 08:39:44 2002] You told Tristun, 'Do you have Kunark installed?'
+[Wed May 15 08:39:48 2002] Tristun tells you, 'yes'
+[Wed May 15 08:40:04 2002] Tristun tells you, 'i have another character in the overthere and i can play him'
+[Wed May 15 08:40:08 2002] You told Tristun, 'you deleted the file Clouwd_43.opt?'
+[Wed May 15 08:40:18 2002] Tristun tells you, 'yeah thats one of them'
+[Wed May 15 08:40:53 2002] You told Tristun, 'when you run the patcher, did you go to Advanced options and specifically patch Kunark?'
+[Wed May 15 08:41:08 2002] Tristun tells you, 'no, would i need to do that?'
+[Wed May 15 08:41:35 2002] You told Tristun, 'it can help. there's no GM on right now so I'm trying to think of things you could try. Do you have Luclin installed?'
+[Wed May 15 08:41:42 2002] Tristun tells you, 'yeah'
+[Wed May 15 08:42:22 2002] You told Tristun, 'try turning off all models and sound. You can turn them back on later, but this might help you get logged in.'
+[Wed May 15 08:42:37 2002] Tristun tells you, 'i did that as well'
+[Wed May 15 08:43:12 2002] Espranza saved.
+[Wed May 15 08:43:26 2002] You told Tristun, 'Then you've done everything, except to specifically patch Kunark, that I can think of. Try that, and if that doesn't work for you, I'll try to find a GM on another server.'
+[Wed May 15 08:43:39 2002] Tristun tells you, 'ok thank you'
+[Wed May 15 08:43:58 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Wed May 15 08:43:59 2002] GM TEXT: Espranza: His character Clouwd is stuck in Warsliks Woods and can't get out. He's tried everything I can think of.
+[Wed May 15 08:43:59 2002] STATUS UPGRADED TO URGENT
+[Wed May 15 08:44:00 2002] STATUS UPGRADED TO EMERGENCY
+[Wed May 15 08:44:02 2002] CHECKING IN
+[Wed May 15 08:44:12 2002] You GMSAY, 'esc Tristun, stuck char'
+[Wed May 15 08:44:51 2002] You GMSAY, '<note> Tristun BVST89H has a character Clouwd stuck in Warsliks Woods, he's done all I can think of.'
+[Wed May 15 08:44:53 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:44:54 2002] USER TEXT: I was in nexus omw to tox when the portal took me to velius..no warning whatsoever.  zoned in and died.  lost my corpse ..10th lvl, can't get it back.  the nexus gave no warning it was opening
+[Wed May 15 08:44:54 2002] Players in EverQuest:
+[Wed May 15 08:44:54 2002] ---------------------------
+
+[Wed May 15 08:44:54 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 08:45:02 2002] You GMSAY, 'Rhydyr unavail x2'
+[Wed May 15 08:45:05 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed May 15 08:45:05 2002] CHECKING IN
+[Wed May 15 08:45:09 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:45:10 2002] USER TEXT: was in zland lair, stuck in some kind of room now
+[Wed May 15 08:45:10 2002] Players in EverQuest:
+[Wed May 15 08:45:10 2002] ---------------------------
+
+[Wed May 15 08:45:10 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 08:45:17 2002] You GMSAY, 'Angeluse unavail x2'
+[Wed May 15 08:45:19 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed May 15 08:45:20 2002] CHECKING IN
+[Wed May 15 08:45:24 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:45:25 2002] USER TEXT: hello, this person Tsuliek had trained me and I almost died because he was upset that I did not help him when he was running, 
+[Wed May 15 08:45:25 2002] Players in EverQuest:
+[Wed May 15 08:45:25 2002] ---------------------------
+
+[Wed May 15 08:45:25 2002] [19 Magician] Cinzia (Dark Elf) <Mithril Ankh> ZONE: oasis (USER PID HZLXJ88) 
+[Wed May 15 08:45:25 2002] There is 1 player in EverQuest.
+[Wed May 15 08:45:38 2002] Players in EverQuest:
+[Wed May 15 08:45:38 2002] ---------------------------
+
+[Wed May 15 08:45:38 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 08:46:00 2002] You told Cinzia, 'Hail, Cinzia! Senior Guide Espranza here. Is this person Tsuliek still causing you troubles?'
+[Wed May 15 08:48:01 2002] You told Cinzia, 'Hail, Cinzia! Senior Guide Espranza here. Is this person Tsuliek still causing you troubles?'
+[Wed May 15 08:48:12 2002] Cinzia tells you, 'hello, he logged off to hide, but I will not tolerate laughing at me like it was a joke, '
+[Wed May 15 08:48:30 2002] Cinzia tells you, 'I been in game to log to have been treated like this'
+[Wed May 15 08:48:34 2002] You told Cinzia, 'What happened?'
+[Wed May 15 08:49:11 2002] Agrimon auctions, 'WTB HQ Tundra Kodiak Pelts / Stacks of Spider Silk/Swatchs'
+[Wed May 15 08:49:19 2002] Cinzia tells you, 'I could not help him with a train, so he called me a jerk and then came back and trained me big time, when I had 20% life left and then he laughed about it, '
+[Wed May 15 08:49:29 2002] Cinzia tells you, 'My log will be proof '
+[Wed May 15 08:51:14 2002] You told Cinzia, 'Alas, we cannot accept logs as proof, but I believe you. Well, I will keep an eye out for Tsuliek and when he logs back in, will watch him to see that he doesn't do this again.'
+[Wed May 15 08:51:20 2002] Tsuliek is now your friend.
+[Wed May 15 08:51:25 2002] Friends currently on EverQuest:
+[Wed May 15 08:51:25 2002] ---------------------------------
+[Wed May 15 08:51:55 2002] Cinzia tells you, 'thank, thats all I can ask, to many people take this to serious and when people cant help them, they retaliate'
+[Wed May 15 08:52:08 2002] You GMSAY, 'Cinzia HZLXJ88 said Tsuliek, angry she could not help him with a train, came back and trained her and then laughed about it. Tsuliek was offline.'
+[Wed May 15 08:52:46 2002] You told Cinzia, 'I agree. I will look out for him. Good day and safe journey to you!'
+[Wed May 15 08:52:48 2002] DELETING THIS PETITION
+[Wed May 15 08:52:51 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:52:52 2002] USER TEXT: I was in nexus omw to tox when the portal took me to velius..no warning whatsoever.  zoned in and died.  lost my corpse ..10th lvl, can't get it back.  the nexus gave no warning it was opening
+[Wed May 15 08:52:52 2002] Players in EverQuest:
+[Wed May 15 08:52:52 2002] ---------------------------
+
+[Wed May 15 08:52:52 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 08:52:55 2002] Cinzia tells you, 'thank you kindly'
+[Wed May 15 08:53:03 2002] You GMSAY, 'Rhydyr unavail x3 ---poof---'
+[Wed May 15 08:53:27 2002] Espranza saved.
+[Wed May 15 08:53:44 2002] You GMSAY, '<note> Rhydyr H171AY7 was sitting on the Tox/Velious pad in Nexus when he was ported to GD and killed. Was offline.'
+[Wed May 15 08:53:45 2002] DELETING THIS PETITION
+[Wed May 15 08:53:47 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:53:48 2002] USER TEXT: was in zland lair, stuck in some kind of room now
+[Wed May 15 08:53:48 2002] Players in EverQuest:
+[Wed May 15 08:53:48 2002] ---------------------------
+
+[Wed May 15 08:53:48 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 08:54:19 2002] You GMSAY, '<note> Angeluse EUH3AJA level 21 wizard stuck in Dragon Necropolis... what were they doing in DN... offline.'
+[Wed May 15 08:54:32 2002] You GMSAY, 'Angeluse unavail x3 ---poof---'
+[Wed May 15 08:54:33 2002] DELETING THIS PETITION
+[Wed May 15 08:54:34 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:54:35 2002] USER TEXT: I am under kand in Queynos hill, I think something bug.... help me !
+[Wed May 15 08:54:36 2002] Players in EverQuest:
+[Wed May 15 08:54:36 2002] ---------------------------
+
+[Wed May 15 08:54:36 2002] [50 Cleric] Hayannun (Dwarf) <Hanuri> ZONE: qey2hh1 (USER PID HXGQ5P0) 
+[Wed May 15 08:54:36 2002] There is 1 player in EverQuest.
+[Wed May 15 08:54:58 2002] You told Hayannun, 'Hail, Hayannun! Senior Guide Espranza here. Are you still beneath the world?'
+[Wed May 15 08:55:19 2002] Searching for hayannun.
+[Wed May 15 08:55:19 2002] Player is in zone qey2hh1 at x = -3300 y = -15574 z = 0.
+[Wed May 15 08:55:28 2002] You GMSAY, 'zone'
+[Wed May 15 08:55:55 2002] Hayannun tells you, 'gated, but U have to fix it, thx anyway'
+[Wed May 15 08:56:06 2002] You GMSAY, '<note> Hayannun HXGQ5P0 stuck beneath world, he gated out.'
+[Wed May 15 08:56:20 2002] You told Hayannun, 'Be well, then, and safe journeys to you.'
+[Wed May 15 08:56:22 2002] DELETING THIS PETITION
+[Wed May 15 08:56:23 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:56:23 2002] USER TEXT: Hello please i need help asap ...died and i'm uberly buged
+[Wed May 15 08:56:23 2002] Players in EverQuest:
+[Wed May 15 08:56:23 2002] ---------------------------
+
+[Wed May 15 08:56:23 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 08:56:29 2002] Searching zones for corpse of that name....
+[Wed May 15 08:56:29 2002] Corpse: Eleanna's corpse0 in zone: akheva
+[Wed May 15 08:56:31 2002] You GMSAY, 'zone'
+[Wed May 15 08:56:35 2002] LOADING, PLEASE WAIT...
+[Wed May 15 08:57:00 2002] You have entered Akheva Ruins.
+[Wed May 15 08:57:01 2002] Espranza saved.
+[Wed May 15 08:57:03 2002] Players on EverQuest:
+[Wed May 15 08:57:03 2002] ---------------------------
+[Wed May 15 08:57:03 2002] * GM * [55 Blackguard] Espranza (Halfling) <Keepers of Dreams>
+[Wed May 15 08:57:03 2002] There is 1 player in Akheva Ruins.
+[Wed May 15 08:57:11 2002] Teleporting to eleanna's corpse0.
+[Wed May 15 08:58:10 2002] You GMSAY, '<note> Eleanna --illegal PID-- claims majorly buggesd and dead in Akheva, corpse looks okay to me'
+[Wed May 15 08:58:18 2002] You GMSAY, 'Eleanna unavail x1'
+[Wed May 15 08:58:19 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed May 15 08:58:20 2002] CHECKING IN
+[Wed May 15 08:58:23 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 08:58:23 2002] USER TEXT: just in case I would like to know what to do I have warned a player that is standing behind me that i have been camping and waiting for a spawn for 5 hours, also announced it in ooc since he was ks'd this morning. Can she ks it now?
+[Wed May 15 08:58:24 2002] Players in EverQuest:
+[Wed May 15 08:58:24 2002] ---------------------------
+
+[Wed May 15 08:58:24 2002] [ANON (41 Druid)] Zaira (Wood Elf) ZONE: qeytoqrg (USER PID HRSLPHB) 
+[Wed May 15 08:58:24 2002] There is 1 player in EverQuest.
+[Wed May 15 08:58:44 2002] Eleanna's corpse is now Invisible.
+[Wed May 15 08:58:46 2002] You no longer have a target.
+[Wed May 15 08:58:46 2002] You no longer have a target.
+[Wed May 15 08:58:53 2002] Espranza is now Invisible.
+[Wed May 15 08:58:53 2002] You are now anonymous.
+[Wed May 15 08:58:55 2002] You GMSAY, 'zone'
+[Wed May 15 08:58:57 2002] Teleporting to zaira.
+[Wed May 15 08:58:58 2002] LOADING, PLEASE WAIT...
+[Wed May 15 08:59:21 2002] You have entered Qeynos Hills.
+[Wed May 15 08:59:22 2002] Espranza saved.
+[Wed May 15 08:59:26 2002] It begins to rain.
+[Wed May 15 08:59:47 2002] Espranza is now Visible.
+[Wed May 15 08:59:48 2002] You are no longer anonymous.
+[Wed May 15 08:59:54 2002] Zaira says, 'Hail, Espranza'
+[Wed May 15 08:59:56 2002] Zaira bows before Espranza.
+[Wed May 15 08:59:59 2002] You told Zaira, 'Hail, Zaira!'
+[Wed May 15 09:00:04 2002] You no longer have a target.
+[Wed May 15 09:00:11 2002] Zaira tells you, 'almost rooted ya *giggle*'
+[Wed May 15 09:00:18 2002] You told Zaira, 'I take it Selinia is the one you are worried about?'
+[Wed May 15 09:00:57 2002] Zaira tells you, 'yes I warned her a long time ago I know shes a wizzy so she could just blast him one time and that would be all it would take lol'
+[Wed May 15 09:01:01 2002] Zaira begins to cast a spell. (Shield of Spikes)
+[Wed May 15 09:01:04 2002] Zaira is surrounded by a thorny barrier.
+[Wed May 15 09:01:20 2002] You told Zaira, 'okay... let me tell you the official policy on such things.'
+[Wed May 15 09:01:30 2002] Rephas begins to cast a spell. (Alacrity)
+[Wed May 15 09:01:32 2002] Zaira tells you, 'thank you:)'
+[Wed May 15 09:01:32 2002] You told Zaira, 'The first one to engage the NPC owns it'
+[Wed May 15 09:01:41 2002] You told Zaira, 'If you hit it first, it's yours'
+[Wed May 15 09:01:47 2002] You told Zaira, 'if she hits it first, it's hers.'
+[Wed May 15 09:01:49 2002] Zaira tells you, 'heh ok i got a ring:) *giggle*'
+[Wed May 15 09:02:27 2002] Zaira tells you, 'wow even if here for several hours? >pout hopefully shes afk :)'
+[Wed May 15 09:02:49 2002] You told Zaira, 'Aye, the policy is partly to ensure that people DON'T have to camp forever just to get something'
+[Wed May 15 09:03:11 2002] You told Zaira, 'so if someone can't spend six hours waiting for Hadden, they can still get a shot at his earring.'
+[Wed May 15 09:03:15 2002] Zaira tells you, 'wow well I guess thats kinda fair, maybe:)'
+[Wed May 15 09:03:36 2002] You told Zaira, 'I think you're pretty well positioned to get the first blow.'
+[Wed May 15 09:04:04 2002] Zaira tells you, 'I just did not know spawn rate i guess like everyone else seems to have it down to the minute:)'
+[Wed May 15 09:04:28 2002] Zaira tells you, 'YAY thank you for coming to explain it to me, i really apreciate that!'
+[Wed May 15 09:04:30 2002] You told Selinia, 'Hail, Selinia! I'm going to tell you what I just told Zaira. The first one to hit Hadden owns him. So if Zaira hits first, you have to back off. But if you hit first, she must.'
+[Wed May 15 09:04:56 2002] Zaira begins to cast a spell. (Shield of Spikes)
+[Wed May 15 09:04:59 2002] Zaira is surrounded by a thorny barrier.
+[Wed May 15 09:05:14 2002] Eleanna tells you, 'Hello sorry i send you a tell but i'm seriously buged and i dont know if my petitions are sent'
+[Wed May 15 09:05:17 2002] You told Zaira, 'No problem. I just told Selinia about the policy just so she knows. First one to hit gets him.... good luck!'
+[Wed May 15 09:05:28 2002] Zaira tells you, 'o thank you :)'
+[Wed May 15 09:05:59 2002] You GMSAY, '<note> Zaira HRSLPHB in a Hadden spawn dispute in Qeynos Hills, informed her and Selinia about the rules of engagement :)'
+[Wed May 15 09:06:11 2002] DELETING THIS PETITION
+[Wed May 15 09:06:13 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:06:13 2002] USER TEXT: Hello please i need help asap ...died and i'm uberly buged
+[Wed May 15 09:06:14 2002] Players in EverQuest:
+[Wed May 15 09:06:14 2002] ---------------------------
+
+[Wed May 15 09:06:14 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 09:06:23 2002] Selinia tells you, 'Greetings :) Yes, I understand the play nice rules completely. Actually, I am merely sitting her doing my math homework and timing the spawn. She's sent me several tells demanding to know my what I'm doing here, I simply have not responded.'
+[Wed May 15 09:06:24 2002] Eleanna tells you, 'Unfortunately you cant contack me through tells as it seems im not online so please when u have time i'm at center of Nexus'
+[Wed May 15 09:06:33 2002] You told Eleanna, 'Eleanna is not online at this time.'
+[Wed May 15 09:07:05 2002] You told Selinia, 'Ah, well I'll pass that along then. That should make her feel less paranoid.'
+[Wed May 15 09:07:23 2002] You told Zaira, 'Selinia says she is just timing the spawn and has no intentions of KSing you.'
+[Wed May 15 09:07:45 2002] You GMSAY, 'zone'
+[Wed May 15 09:07:48 2002] LOADING, PLEASE WAIT...
+[Wed May 15 09:08:06 2002] You have entered Nexus.
+[Wed May 15 09:08:06 2002] Espranza saved.
+[Wed May 15 09:08:20 2002] Eleanna says, 'Hail, Espranza'
+[Wed May 15 09:08:22 2002] You say, 'How very very odd.'
+[Wed May 15 09:08:29 2002] Eleanna says, 'i'm seriously buged as it seems'
+[Wed May 15 09:08:33 2002] You told Eleanna, 'test'
+[Wed May 15 09:08:42 2002] You told Eleanna, 'okay I can tell-target'
+[Wed May 15 09:08:45 2002] Zaira tells you, 'wow very nice, at least I learned something, thank you Esparanza:)'
+[Wed May 15 09:08:52 2002] Eleanna tells you, 'u can do it only cause u are at the same zone with me'
+[Wed May 15 09:09:01 2002] You told Zaira, 'Be well, safe journeys, and good luck to you.'
+[Wed May 15 09:09:08 2002] Eleanna tells you, 'i 'll explain'
+[Wed May 15 09:09:12 2002] You told Eleanna, 'okay'
+[Wed May 15 09:09:14 2002] Zaira tells you, 'to you as well M'lady:)'
+[Wed May 15 09:09:34 2002] Eleanna tells you, 'i died and ld when dead at akheva and when i tried to log back i get disconnected after pressing enter in char screem'
+[Wed May 15 09:09:50 2002] Eleanna tells you, 'iif i make it to log then i crash while zoning and i seem as not online'
+[Wed May 15 09:10:02 2002] Eleanna tells you, 'i knew u were online cause i loged a lv 1 alt'
+[Wed May 15 09:10:16 2002] Eleanna tells you, 'also i cant log in with my 59 alt parkjed in GD'
+[Wed May 15 09:10:22 2002] You told Eleanna, 'When I got to your petition it said you were not online. I went to Akheva and found your body and it looked okay.'
+[Wed May 15 09:10:38 2002] Eleanna tells you, 'yes i was online  like now'
+[Wed May 15 09:10:40 2002] You ponder Eleanna. What is going on with her?
+[Wed May 15 09:10:44 2002] Selinia tells you, 'Sounds fine, would it be possible to get my name changed while you are here? I am new to this server, just transferred from Eci.'
+[Wed May 15 09:10:46 2002] Maximusfloyd begins to walk faster.
+[Wed May 15 09:10:49 2002] Eleanna tells you, 'if u teleport me probably i will crash again'
+[Wed May 15 09:10:51 2002] Chitz says, 'Hail, Maximusfloyd'
+[Wed May 15 09:10:56 2002] Selinia tells you, 'I still have my married name from the other server'
+[Wed May 15 09:11:03 2002] You told Selinia, 'your last name?'
+[Wed May 15 09:11:06 2002] Selinia tells you, 'yes :)'
+[Wed May 15 09:11:11 2002] Maximusfloyd says, 'Hail, Chitz'
+[Wed May 15 09:11:14 2002] You told Selinia, 'please petition and I'll be with you in a bit.'
+[Wed May 15 09:11:25 2002] Selinia tells you, 'alright, thank you :)'
+[Wed May 15 09:11:30 2002] Chitz says, 'would you be interested in a Kael group?'
+[Wed May 15 09:11:32 2002] Garduk auctions, 'WTBuy Sha's Lathargy'
+[Wed May 15 09:11:47 2002] You told Eleanna, 'Eleanna, I'm going to have to find a GM to look into this. '
+[Wed May 15 09:11:49 2002] Eleanna tells you, 'also the who all commands dont seem to work but only for the zone i am'
+[Wed May 15 09:11:49 2002] Maximusfloyd says, 'no-i am just on for lunch-leaving soon'
+[Wed May 15 09:11:54 2002] Maximusfloyd says, 'thanks anyway'
+[Wed May 15 09:11:54 2002] Chitz says, 'ok'
+[Wed May 15 09:11:55 2002] Eleanna tells you, 'ok i will wait here'
+[Wed May 15 09:11:57 2002] Chitz says, 'np'
+[Wed May 15 09:12:10 2002] Players on EverQuest:
+[Wed May 15 09:12:10 2002] ---------------------------
+[Wed May 15 09:12:10 2002] [60 Sorcerer] Eleanna (Dark Elf) <Flames of Vengeance>
+[Wed May 15 09:12:10 2002] There is 1 player in The Nexus.
+[Wed May 15 09:12:12 2002] Players in EverQuest:
+[Wed May 15 09:12:12 2002] ---------------------------
+
+[Wed May 15 09:12:12 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 09:12:16 2002] You look at Eleanna, completely puzzled.
+[Wed May 15 09:12:23 2002] Eleanna says, 'aye:('
+[Wed May 15 09:12:31 2002] STATUS UPGRADED TO URGENT
+[Wed May 15 09:12:32 2002] CHECKING IN
+[Wed May 15 09:12:37 2002] It will take you about 30 seconds to prepare your camp.
+[Wed May 15 09:12:40 2002] Format: /help <class> Where class is one of normal, emote, or guild
+[Wed May 15 09:12:40 2002] Normal will display a list of all commands.
+[Wed May 15 09:12:40 2002] Emote will display a list of all player emotes.
+[Wed May 15 09:12:40 2002] Guild will display a list of guild commands.
+[Wed May 15 09:12:40 2002] Voice will display a list of voice control commands.
+[Wed May 15 09:12:40 2002] Chat will display a list of chat channel commands.
+[Wed May 15 09:12:41 2002] It will take about 25 more seconds to prepare your camp.
+[Wed May 15 09:12:46 2002] It will take about 20 more seconds to prepare your camp.
+[Wed May 15 09:12:51 2002] It will take about 15 more seconds to prepare your camp.
+[Wed May 15 09:12:56 2002] It will take about 10 more seconds to prepare your camp.
+[Wed May 15 09:13:01 2002] It will take about 5 more seconds to prepare your camp.
+[Wed May 15 09:17:55 2002] Welcome to EverQuest!
+[Wed May 15 09:17:55 2002] You have entered Nexus.
+[Wed May 15 09:17:55 2002] MESSAGE OF THE DAY: Welcome to Morell-Thule! Do you enjoy helping others? Are you 18 years old or older, have an Everquest account in good standing, and wish to join the Guide Program?  Please go to https://guide.everquest.com/guideapp/ and apply today!!
+[Wed May 15 09:17:55 2002] Espranza saved.
+[Wed May 15 09:18:11 2002] Selinia tells you, 'Just FYI  There are three casters here, you  may want to watch this :)'
+[Wed May 15 09:18:15 2002] Lewk is looking at your equipment...
+[Wed May 15 09:18:21 2002] You told Selinia, 'ugh'
+[Wed May 15 09:18:25 2002] Selinia tells you, 'lol'
+[Wed May 15 09:18:30 2002] You told Eleanna, 'a GM is on his way'
+[Wed May 15 09:18:31 2002] Players in EverQuest:
+[Wed May 15 09:18:31 2002] ---------------------------
+
+[Wed May 15 09:18:31 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: nexus (USER PID B4KJ6E7) 
+[Wed May 15 09:18:31 2002] There is 1 player in EverQuest.
+[Wed May 15 09:18:33 2002] You GMSAY, 'back'
+[Wed May 15 09:18:39 2002] Eleanna tells you, 'ty very much my lady'
+[Wed May 15 09:18:42 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:18:43 2002] USER TEXT: Hello please i need help asap ...died and i'm uberly buged
+[Wed May 15 09:18:43 2002] Players in EverQuest:
+[Wed May 15 09:18:43 2002] ---------------------------
+
+[Wed May 15 09:18:43 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 09:18:48 2002] STATUS UPGRADED TO EMERGENCY
+[Wed May 15 09:18:49 2002] CHECKING IN
+[Wed May 15 09:18:51 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:18:52 2002] USER TEXT: greetings a friend of mine seems to have a very strange and unique bug, need some help asap thx
+[Wed May 15 09:18:52 2002] Players in EverQuest:
+[Wed May 15 09:18:52 2002] ---------------------------
+
+[Wed May 15 09:18:52 2002] [60 Warder] Ladonis (Wood Elf) <Flames of Vengeance> ZONE: thurgadina (USER PID CR08HZ4) 
+[Wed May 15 09:18:52 2002] There is 1 player in EverQuest.
+[Wed May 15 09:19:04 2002] Selinia tells you, 'bet you 5 pp the druid hits with snare and claims that as a dmg spell :)'
+[Wed May 15 09:19:14 2002] You told Ladonis, 'Hail, Ladonis! Senior Guide Espranza here. Is this regarding Eleanna?'
+[Wed May 15 09:19:22 2002] Ladonis tells you, 'aye yes it is'
+[Wed May 15 09:19:32 2002] You told Selinia, 'If I were her I would just hit him with her club. Much faster.'
+[Wed May 15 09:19:44 2002] Selinia tells you, ''
+[Wed May 15 09:19:47 2002] Selinia tells you, 'yes :)'
+[Wed May 15 09:19:50 2002] You told Ladonis, 'Okay, I'm on it.Thanks for your petition!'
+[Wed May 15 09:19:52 2002] DELETING THIS PETITION
+[Wed May 15 09:19:57 2002] Rhydyr tells you, 'hate to send a tell,but I petitioned around 10am est and again about half hour ago...wondering if ya got it'
+[Wed May 15 09:19:58 2002] Ladonis tells you, 'ok thank you for the help'
+[Wed May 15 09:20:01 2002] You told Eleanna, 'please don't keep petitioning....'
+[Wed May 15 09:20:09 2002] Eleanna tells you, 'no i wont'
+[Wed May 15 09:20:13 2002] Eleanna tells you, 'just sit and wait here'
+[Wed May 15 09:20:17 2002] Notorias shouts, 'can anyone port me to dreadlands????please??'
+[Wed May 15 09:20:20 2002] You told Eleanna, 'have three from you now'
+[Wed May 15 09:20:45 2002] Eleanna tells you, 'sorry didnt know if they come to you or not...i didnt send any from the time we manage to communicate'
+[Wed May 15 09:21:17 2002] The spirit leaves you.
+[Wed May 15 09:21:20 2002] You told Rhydyr, 'Yes I did, but you were not online when I tried to contact you'
+[Wed May 15 09:21:22 2002] You feel the spirit of Norrath enter you.
+[Wed May 15 09:21:28 2002] Players in EverQuest:
+[Wed May 15 09:21:28 2002] ---------------------------
+
+[Wed May 15 09:21:28 2002] [10 Bard] Rhydyr (Half Elf)  ZONE: akanon (USER PID H171AY7) 
+[Wed May 15 09:21:28 2002] There is 1 player in EverQuest.
+[Wed May 15 09:21:36 2002] Rhydyr tells you, 'no gm's on at the time, was trying to save corpse decay time'
+[Wed May 15 09:22:07 2002] Sakijima says, 'Hail, Espranza'
+[Wed May 15 09:22:10 2002] You GMSAY, 'zone'
+[Wed May 15 09:22:12 2002] Sakijima says, 'wanna group? ;)'
+[Wed May 15 09:22:19 2002] Sakijima regards you indifferently -- looks like quite a gamble.
+[Wed May 15 09:22:26 2002] You say, 'Nah, no healing'
+[Wed May 15 09:22:33 2002] You say, 'I die in monk/rogue groups'
+[Wed May 15 09:22:39 2002] You say, 'you FD and I get killed'
+[Wed May 15 09:22:47 2002] Sakijima says, 'i am not a monk =('
+[Wed May 15 09:22:55 2002] Players in EverQuest:
+[Wed May 15 09:22:55 2002] ---------------------------
+
+[Wed May 15 09:22:55 2002] [55 Knight] Sakijima (Human) <Utopian Guard> ZONE: nexus (USER PID GWSY8DY)  LFG
+[Wed May 15 09:22:55 2002] There is 1 player in EverQuest.
+[Wed May 15 09:23:04 2002] You say, 'you look like one :) oh, a paladin!'
+[Wed May 15 09:23:10 2002] Shadora says, 'ack'
+[Wed May 15 09:23:15 2002] Sakijima says, 'aye =)'
+[Wed May 15 09:23:48 2002] Masarik says, 'Hail, Phuntic'
+[Wed May 15 09:23:50 2002] You say, 'Ah well, if I wanted to group I would get on my REAL rogue :)'
+[Wed May 15 09:23:59 2002] You say, 'thanks for the offer though'
+[Wed May 15 09:24:03 2002] Phuntic begins to cast a spell. (Markar's Relocation)
+[Wed May 15 09:24:11 2002] Phuntic creates a shimmering portal.
+[Wed May 15 09:24:11 2002] Masarik creates a shimmering portal.
+[Wed May 15 09:24:12 2002] Sakijima says, 'okies ;)'
+[Wed May 15 09:24:24 2002] You told Rhydyr, 'okay, I see your new petition, will be with you in a couple of minutes.'
+[Wed May 15 09:24:30 2002] Rhydyr tells you, 'k'
+[Wed May 15 09:24:54 2002] You told Rhydyr, 'There may be nothing I can do though, so you might want to make your way back to Nexus while waiting.'
+[Wed May 15 09:25:06 2002] You told Rhydyr, 'but let me clear out these other petitions ahead of yours first.'
+[Wed May 15 09:25:09 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:25:10 2002] USER TEXT: Please i need help asap, i'm seriously buged
+[Wed May 15 09:25:10 2002] Players in EverQuest:
+[Wed May 15 09:25:10 2002] ---------------------------
+
+[Wed May 15 09:25:10 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 09:25:10 2002] Rhydyr tells you, 'even a corpse pop upto nexus would be sweet'
+[Wed May 15 09:25:10 2002] Carro begins to cast a spell. (Summon Food)
+[Wed May 15 09:25:21 2002] Carro begins to cast a spell. (Summon Drink)
+[Wed May 15 09:25:31 2002] You told Rhydyr, 'I can't move corpses out of the zone they are in - nobody can.'
+[Wed May 15 09:25:32 2002] Carro begins to cast a spell. (Summon Drink)
+[Wed May 15 09:25:42 2002] Carro begins to cast a spell. (Summon Food)
+[Wed May 15 09:25:43 2002] Cathreen grins .. need help with recovery? 
+[Wed May 15 09:25:50 2002] Cathreen is eeeeevil :)
+[Wed May 15 09:25:53 2002] You told Eleanna, 'Are you Noellia too?'
+[Wed May 15 09:26:03 2002] Shadora says, 'got teleported by Dain eheh'
+[Wed May 15 09:26:06 2002] Eleanna tells you, 'yes its the only char i can log in without any prob'
+[Wed May 15 09:26:11 2002] Mahdi begins to cast a spell. (Bind Affinity)
+[Wed May 15 09:26:11 2002] You told Eleanna, 'okies...'
+[Wed May 15 09:26:14 2002] DELETING THIS PETITION
+[Wed May 15 09:26:15 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:26:16 2002] USER TEXT: Hi Master . I have one problem . My main chr is Onizuka . it's alt. Onizuka is at ME . but if he can log on . he is not online to anyone so can't zoning or rez .think so it's bugged . fix it plz
+[Wed May 15 09:26:16 2002] Players in EverQuest:
+[Wed May 15 09:26:16 2002] ---------------------------
+
+[Wed May 15 09:26:16 2002] [48 Rogue] Cuttynike (Gnome)  ZONE: dreadlands (USER PID FW2P3N7) 
+[Wed May 15 09:26:16 2002] There is 1 player in EverQuest.
+[Wed May 15 09:26:16 2002] Mahdi is bound to the area.
+[Wed May 15 09:26:21 2002] Cathreen says, 'oooh, he must like ye then, he doesn't do this to just anyone'
+[Wed May 15 09:26:43 2002] Cuttynike tells you, 'Sorry about direct tell. Hi Master . I have one problem . My main chr is Onizuka . it's alt. Onizuka is at ME . but if he can log on . he is not online to anyone so can't zoning or rez .think so it's bugged . fix it plz'
+[Wed May 15 09:27:02 2002] You told Cuttynike, 'I was just about to send you a tell.'
+[Wed May 15 09:27:13 2002] You told Cuttynike, 'could you please log Onizuka in?'
+[Wed May 15 09:27:25 2002] Cuttynike tells you, 'k sed in '
+[Wed May 15 09:27:29 2002] Cuttynike tells you, 'sec'
+[Wed May 15 09:27:53 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Wed May 15 09:27:54 2002] GM TEXT: Espranza: sounds like the same problem as Eleanna......
+[Wed May 15 09:27:55 2002] STATUS UPGRADED TO URGENT
+[Wed May 15 09:27:56 2002] STATUS UPGRADED TO EMERGENCY
+[Wed May 15 09:28:12 2002] Espranza saved.
+[Wed May 15 09:28:21 2002] You GMSAY, '<note gm> Eleanna and Onizuka have bad PIDs and this is causing them no end of trouble.'
+[Wed May 15 09:28:24 2002] CHECKING IN
+[Wed May 15 09:28:26 2002] Players in EverQuest:
+[Wed May 15 09:28:26 2002] ---------------------------
+
+[Wed May 15 09:28:26 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: nexus (USER PID B4KJ6E7) 
+[Wed May 15 09:28:26 2002] There is 1 player in EverQuest.
+[Wed May 15 09:28:30 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:28:32 2002] USER TEXT: fell for 10 k hp in velks, pls can u rez me now ? i am leading top group so need to be there and take care of the list. :/
+[Wed May 15 09:28:32 2002] Players in EverQuest:
+[Wed May 15 09:28:32 2002] ---------------------------
+
+[Wed May 15 09:28:32 2002] [55 Revenant] Horun (Iksar)  ZONE: velketor (USER PID H24V39T) 
+[Wed May 15 09:28:32 2002] There is 1 player in EverQuest.
+[Wed May 15 09:28:41 2002] Searching zones for corpse of that name....
+[Wed May 15 09:29:37 2002] You told Horun, 'Hail, Horun! Senior Guide Espranza here. Falling for 10K in Velks is not a bug. I play a high level rogue and die from falling on the ledge all the time. It appears to happen when I'm running and slip, rather than falling straight.'
+[Wed May 15 09:30:09 2002] Horun tells you, 'yeah was exactly like that 8) got 96 % rez though.. will be more careful'
+[Wed May 15 09:30:13 2002] You GMSAY, '<note> Horun H24V39T died from falling off the ledge in Velks, nothing we can do'
+[Wed May 15 09:30:28 2002] You told Horun, 'I'm usually the puller in Velks groups so I totally sympathize.'
+[Wed May 15 09:30:44 2002] Dadawg auctions, 'WTS small races lightcrawler armour bp and leggings'
+[Wed May 15 09:30:51 2002] Horun tells you, 'hehe i see 8)'
+[Wed May 15 09:30:52 2002] Cuttynike tells you, 'Master . my main Onizuka . now hard log on . '
+[Wed May 15 09:31:05 2002] You told Cuttynike, 'He cannot log in?'
+[Wed May 15 09:31:10 2002] Cuttynike tells you, 'yes'
+[Wed May 15 09:31:25 2002] DELETING THIS PETITION
+[Wed May 15 09:31:28 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:31:29 2002] USER TEXT: i would like my last name removed if possible.. I REALLY hate it
+[Wed May 15 09:31:29 2002] Players in EverQuest:
+[Wed May 15 09:31:29 2002] ---------------------------
+
+[Wed May 15 09:31:29 2002] [34 Bard] Noize (Half Elf)  ZONE: iceclad (USER PID BUWCPX3) 
+[Wed May 15 09:31:29 2002] There is 1 player in EverQuest.
+[Wed May 15 09:31:33 2002] You GMSAY, 'zone'
+[Wed May 15 09:31:36 2002] Teleporting to noize.
+[Wed May 15 09:31:37 2002] LOADING, PLEASE WAIT...
+[Wed May 15 09:32:13 2002] You have entered Iceclad Ocean.
+[Wed May 15 09:32:16 2002] Espranza saved.
+[Wed May 15 09:32:27 2002] You have changed Noize's last name to .
+[Wed May 15 09:32:46 2002] Noize says, 'hello'
+[Wed May 15 09:32:49 2002] You told Noize, 'Hail, Noize! Senior Guide Espranza here. I have removed your last name for you.'
+[Wed May 15 09:32:54 2002] Noize tells you, 'thanks'
+[Wed May 15 09:33:00 2002] Noize tells you, 'you look so neat =P'
+[Wed May 15 09:33:04 2002] You GMSAY, '<note name> Noize BUWCPX3 last name removed by reauest'
+[Wed May 15 09:33:07 2002] Kromat says out of character, 'you here to spawn my mob for me Espranza =)'
+[Wed May 15 09:33:08 2002] DELETING THIS PETITION
+[Wed May 15 09:33:29 2002] You told kromat, '/spawn lodizal /spawn snowfeather'
+[Wed May 15 09:33:32 2002] Noize says, 'thanks a lot'
+[Wed May 15 09:33:34 2002] You told kromat, 'anything else?'
+[Wed May 15 09:33:37 2002] Noize says, 'appreciate it =)'
+[Wed May 15 09:33:41 2002] You say, 'sure thing!'
+[Wed May 15 09:33:43 2002] Kromat tells you, 'yes, stormfeather, PLEAS!!!! =)'
+[Wed May 15 09:33:44 2002] You feel the spirit of Norrath enter you.
+[Wed May 15 09:33:55 2002] You told Kromat, 'stormfeather, it's always the misspellings that get ya'
+[Wed May 15 09:33:58 2002] Your feet leave the ground.
+[Wed May 15 09:34:07 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:34:08 2002] USER TEXT: Pleas i need help asap i'm seriously buged and probably you cant see me as being online. Please come at Nexus i'm ta the centrer part
+[Wed May 15 09:34:08 2002] Players in EverQuest:
+[Wed May 15 09:34:08 2002] ---------------------------
+
+[Wed May 15 09:34:08 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 09:34:09 2002] Kromat tells you, 'that why he didnt spawn when you typed that eh? darn'
+[Wed May 15 09:34:15 2002] DELETING THIS PETITION
+[Wed May 15 09:34:17 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:34:17 2002] USER TEXT: Would it be possible to get my name changed today? I have requested it before, I just moved to this server from E'ci
+[Wed May 15 09:34:17 2002] Players in EverQuest:
+[Wed May 15 09:34:17 2002] ---------------------------
+
+[Wed May 15 09:34:17 2002] [ANON (45 Wizard)] Selinia (High Elf) ZONE: qeytoqrg (USER PID GN64T4W) 
+[Wed May 15 09:34:17 2002] There is 1 player in EverQuest.
+[Wed May 15 09:34:24 2002] You told Kromat, 'sorry :((('
+[Wed May 15 09:34:30 2002] You told Kromat, 'good luck with him when he does pop'
+[Wed May 15 09:34:34 2002] You GMSAY, 'zone'
+[Wed May 15 09:34:36 2002] Teleporting to selinia.
+[Wed May 15 09:34:38 2002] LOADING, PLEASE WAIT...
+[Wed May 15 09:35:00 2002] You have entered Qeynos Hills.
+[Wed May 15 09:35:01 2002] Kromat tells you, 'iff i can stay awake that long =) thanks'
+[Wed May 15 09:35:01 2002] Espranza saved.
+[Wed May 15 09:35:15 2002] You told Selinia, 'Hail, Selinia! What would you like your last name to be?'
+[Wed May 15 09:35:26 2002] Selinia tells you, 'May I have it erased for now?'
+[Wed May 15 09:35:32 2002] You have changed Selinia's last name to .
+[Wed May 15 09:35:39 2002] Selinia tells you, 'I am sure I will locate new suitors here =)'
+[Wed May 15 09:35:43 2002] Selinia tells you, 'I thank you =)'
+[Wed May 15 09:35:50 2002] You GMSAY, '<note name> Selinia GN64T4W last name removed by request'
+[Wed May 15 09:35:56 2002] You told Selinia, 'sure thing!'
+[Wed May 15 09:35:58 2002] DELETING THIS PETITION
+[Wed May 15 09:36:00 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:36:00 2002] USER TEXT: Sorry for sending another petition but i'm still here at the center of Nexus althouh it may seems i'm not online if u use the who user command
+[Wed May 15 09:36:00 2002] Players in EverQuest:
+[Wed May 15 09:36:00 2002] ---------------------------
+
+[Wed May 15 09:36:00 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 09:36:03 2002] DELETING THIS PETITION
+[Wed May 15 09:36:05 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:36:06 2002] USER TEXT: I was at nexus to get to tox, opened the velius gate with no warning, no spell effects.  I ended up in GD and died.  can't get corpse back, lvl 10.
+[Wed May 15 09:36:06 2002] Players in EverQuest:
+[Wed May 15 09:36:06 2002] ---------------------------
+
+[Wed May 15 09:36:06 2002] [10 Bard] Rhydyr (Half Elf)  ZONE: gfaydark (USER PID H171AY7) 
+[Wed May 15 09:36:06 2002] There is 1 player in EverQuest.
+[Wed May 15 09:36:16 2002] Searching zones for corpse of that name....
+[Wed May 15 09:36:17 2002] Corpse: Rhydyr's corpse0 in zone: greatdivide
+[Wed May 15 09:36:18 2002] You GMSAY, 'zone'
+[Wed May 15 09:36:24 2002] LOADING, PLEASE WAIT...
+[Wed May 15 09:42:20 2002] Welcome to EverQuest!
+[Wed May 15 09:42:20 2002] You have entered The Great Divide.
+[Wed May 15 09:42:20 2002] MESSAGE OF THE DAY: Welcome to Morell-Thule! Do you enjoy helping others? Are you 18 years old or older, have an Everquest account in good standing, and wish to join the Guide Program?  Please go to https://guide.everquest.com/guideapp/ and apply today!!
+[Wed May 15 09:42:21 2002] Espranza saved.
+[Wed May 15 09:42:28 2002] Neroli GMSAYS, 'Zoning - Try not to miss me while Im gone!'
+[Wed May 15 09:42:29 2002] Players in EverQuest:
+[Wed May 15 09:42:29 2002] ---------------------------
+
+[Wed May 15 09:42:29 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: greatdivide (USER PID B4KJ6E7) 
+[Wed May 15 09:42:29 2002] * Guide *[ANON (50 Bard)] Neroli (Wood Elf) ZONE: cshome (USER PID EUGB4P0) 
+[Wed May 15 09:42:29 2002] * GM-Admin *[60 Sorcerer] Khimath (Erudite)  ZONE: akheva (USER PID AXNWJ1M) 
+[Wed May 15 09:42:29 2002] There are 3 players in EverQuest.
+[Wed May 15 09:42:35 2002] You GMSAY, 'hello all'
+[Wed May 15 09:42:38 2002] You GMSAY, 'crashed '
+[Wed May 15 09:42:39 2002] Larmesdacier says out of character, 'LF port to freerrot'
+[Wed May 15 09:42:39 2002] Players in EverQuest:
+[Wed May 15 09:42:39 2002] ---------------------------
+
+[Wed May 15 09:42:39 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: greatdivide (USER PID B4KJ6E7) 
+[Wed May 15 09:42:39 2002] * Guide *[ANON (50 Bard)] Neroli (Wood Elf) ZONE:  (USER PID EUGB4P0) 
+[Wed May 15 09:42:39 2002] * GM-Admin *[60 Sorcerer] Khimath (Erudite)  ZONE: akheva (USER PID AXNWJ1M) 
+[Wed May 15 09:42:39 2002] There are 3 players in EverQuest.
+[Wed May 15 09:42:48 2002] You GMSAY, 'Are you here for Eleanna, Khimath?'
+[Wed May 15 09:42:54 2002] Khimath GMSAYS, 'D'oh.  Morning Espranza.'
+[Wed May 15 09:43:00 2002] You GMSAY, 'and hello, Neroli :)'
+[Wed May 15 09:43:02 2002] Khimath GMSAYS, 'Not specifically.  What's up?'
+[Wed May 15 09:43:13 2002] Neroli hugs Espranza.
+[Wed May 15 09:43:20 2002] You GMSAY, 'see in the queue where she has no PID?'
+[Wed May 15 09:43:30 2002] Mamapoule says out of character, 'LF a port to Nort Karana '
+[Wed May 15 09:43:32 2002] You wave at Neroli.
+[Wed May 15 09:43:44 2002] Scrapps says out of character, '42 monk lfg Killing Giants'
+[Wed May 15 09:43:52 2002] Khimath GMSAYS, 'No... I don't see her petition in the queue.'
+[Wed May 15 09:44:01 2002] You GMSAY, 'no petition for Eleanna??'
+[Wed May 15 09:44:08 2002] You GMSAY, 'hmm... second red on my list.'
+[Wed May 15 09:44:11 2002] You GMSAY, 'zone'
+[Wed May 15 09:44:14 2002] LOADING, PLEASE WAIT...
+[Wed May 15 09:44:36 2002] You have entered Nexus.
+[Wed May 15 09:44:36 2002] Khimath GMSAYS, 'Ok.'
+[Wed May 15 09:44:36 2002] Espranza saved.
+[Wed May 15 09:44:49 2002] You GMSAY, 'can you please come to Nexus?'
+[Wed May 15 09:45:07 2002] You GMSAY, 'I have another petition from someone with the same very very odd problem with their account too'
+[Wed May 15 09:45:16 2002] Iosobail says, 'Hail, Espranza'
+[Wed May 15 09:45:23 2002] You say, 'Hiya'
+[Wed May 15 09:45:27 2002] Khimath GMSAYS, 'This is nothing new.  Esc all of them to red, the characters are corrupted.'
+[Wed May 15 09:45:29 2002] Iosobail says, 'why is your name green?'
+[Wed May 15 09:45:34 2002] You say, 'I am a guide'
+[Wed May 15 09:45:48 2002] Iosobail says, 'oh ok  ty'
+[Wed May 15 09:45:54 2002] You say, 'np :)'
+[Wed May 15 09:46:02 2002] You GMSAY, 'well Eleanna has been escalated'
+[Wed May 15 09:46:08 2002] Cathreen auctions, 'WTB teleport to the Surefall Glades'
+[Wed May 15 09:46:10 2002] Balista is looking at your equipment...
+[Wed May 15 09:46:13 2002] You GMSAY, 'Neroli, do you see her petition on your queue?'
+[Wed May 15 09:46:19 2002] Balista cheers at Espranza.
+[Wed May 15 09:46:23 2002] Balista begins to cast a spell. (Spirit of Wolf)
+[Wed May 15 09:46:25 2002] Neroli GMSAYS, 'as red, yes'
+[Wed May 15 09:46:27 2002] Balista is surrounded by a brief lupine aura.
+[Wed May 15 09:46:41 2002] Otubok bites Espranza on the leg!
+[Wed May 15 09:46:54 2002] You told Eleanna, 'a GM is online, your character is corrupted'
+[Wed May 15 09:46:56 2002] Gambek says, 'Hail, Otubok'
+[Wed May 15 09:47:03 2002] Eleanna tells you, 'eek and?'
+[Wed May 15 09:47:04 2002] Otubok says, 'Hail, Gambek'
+[Wed May 15 09:47:07 2002] Gambek cheers at Otubok.
+[Wed May 15 09:47:12 2002] You told Eleanna, 'and ye shall be fixed'
+[Wed May 15 09:47:13 2002] Gambek is very happy with Otubok.
+[Wed May 15 09:47:20 2002] Otubok beams a smile at Gambek.
+[Wed May 15 09:47:27 2002] Eleanna tells you, 'thank god...its a 7 month char'
+[Wed May 15 09:47:38 2002] Eleanna tells you, 'what about the monk at GD i cant log?'
+[Wed May 15 09:47:38 2002] You GMSAY, 'the cuttynike petition was about the same thing'
+[Wed May 15 09:47:47 2002] Khimath GMSAYS, 'I just fixed him.'
+[Wed May 15 09:47:57 2002] Bulbiz tells you, 'hyaaaaa :)'
+[Wed May 15 09:47:58 2002] You told Eleanna, 'dunno... your whole account is probably corrupt.'
+[Wed May 15 09:48:00 2002] Neroli GMSAYS, 'Zoning - Try not to miss me while Im gone!'
+[Wed May 15 09:48:02 2002] You told Bulbiz, 'hi!'
+[Wed May 15 09:48:05 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:48:05 2002] USER TEXT: Hello  :-)  I must have hit a wrong button by mistake, because .... it said:  "Full Screen Transparent Polygons are now OFF" .... what do I do to turn them back on again, please ?
+[Wed May 15 09:48:06 2002] Players in EverQuest:
+[Wed May 15 09:48:06 2002] ---------------------------
+
+[Wed May 15 09:48:06 2002] [6 Druid] Holliebearie (Wood Elf)  ZONE: freporte (USER PID GWZCT0X) 
+[Wed May 15 09:48:06 2002] There is 1 player in EverQuest.
+[Wed May 15 09:48:33 2002] You told Holliebearie, 'Hail! Senior Guide Espranza here. Try hitting the ~/` key on your keyboard.'
+[Wed May 15 09:48:36 2002] Bulbiz says out of character, 'hyaaaa a :)'
+[Wed May 15 09:48:44 2002] Faultless begins to cast a spell. (Spirit of Wolf)
+[Wed May 15 09:48:48 2002] Faultless is surrounded by a brief lupine aura.
+[Wed May 15 09:48:49 2002] You wave at Khimath.
+[Wed May 15 09:48:52 2002] Bulbiz says, 'Hail, Khimath'
+[Wed May 15 09:48:57 2002] Bulbiz says, 'Hail, Espranza'
+[Wed May 15 09:49:02 2002] Holliebearie tells you, 'Oooo...Thank you so much !!'
+[Wed May 15 09:49:08 2002] You told Holliebearie, 'no problems :)'
+[Wed May 15 09:49:09 2002] Iosobail says, 'Hail, Klannis'
+[Wed May 15 09:49:12 2002] Bulbiz kisses Titiana on the cheek.
+[Wed May 15 09:49:13 2002] DELETING THIS PETITION
+[Wed May 15 09:49:16 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:49:17 2002] USER TEXT: hi theres a doorway in neriak that when i go through it i get booted to my desktop .. i have tried downloading the whole of neriak again (hehe) but its still doing it
+[Wed May 15 09:49:17 2002] Players in EverQuest:
+[Wed May 15 09:49:17 2002] ---------------------------
+
+[Wed May 15 09:49:17 2002] [41 Wizard] Andolia (Dark Elf) <Clan of Zoit> ZONE: neriakb (USER PID GUH3KFJ) 
+[Wed May 15 09:49:17 2002] There is 1 player in EverQuest.
+[Wed May 15 09:49:21 2002] Khimath says, 'Greets'
+[Wed May 15 09:49:23 2002] Holliebearie tells you, 'Brightest Blessings to you !'
+[Wed May 15 09:49:30 2002] Neroli tells the guild, '<note bug> Rhydyr H171AY7 lvl 10 Halfelf brd, was in Nexus waiting for port to Tox, and the Velious portal opened, no warnings.  I have noticed this myself many times on my player character.  The portals in Necxus dont give a warning'
+[Wed May 15 09:49:31 2002] Klannis says, 'Well lookie at the GMs'
+[Wed May 15 09:49:33 2002] Onizuka`s familiar says 'As you wish, oh great one.'
+[Wed May 15 09:49:34 2002] Onizuka begins to cast a spell. (Barrier of Force)
+[Wed May 15 09:49:38 2002] Titiana begins to cast a spell. (Protection of the Glades)
+[Wed May 15 09:49:44 2002] Titiana's skin shimmers.
+[Wed May 15 09:49:44 2002] Bulbiz's skin shimmers.
+[Wed May 15 09:49:47 2002] You say to your guild, 'too bad we can't help him with CR.'
+[Wed May 15 09:49:49 2002] Onizuka is surrounded by a swirling maelstrom of magical force.
+[Wed May 15 09:50:08 2002] Neroli tells the guild, 'he is only 10 so no big loss'
+[Wed May 15 09:50:11 2002] Neroli GMSAYS, 'Zoning - Try not to miss me while Im gone!'
+[Wed May 15 09:50:18 2002] Titiana begins to cast a spell. (Spirit of Wolf)
+[Wed May 15 09:50:22 2002] Bulbiz is surrounded by a brief lupine aura.
+[Wed May 15 09:50:37 2002] Titiana begins to cast a spell. (Regrowth of the Grove)
+[Wed May 15 09:50:41 2002] Neroli tells the guild, 'plus he had got a port to his corpse by the time I got there'
+[Wed May 15 09:50:43 2002] Titiana begins to regenerate.
+[Wed May 15 09:50:43 2002] Bulbiz begins to regenerate.
+[Wed May 15 09:50:46 2002] Klannis says, 'So...is something broken, or you guys here to make us all wonder? ;)'
+[Wed May 15 09:50:51 2002] You told Eleanna, 'that's the GM by the way:)'
+[Wed May 15 09:50:54 2002] Players in EverQuest:
+[Wed May 15 09:50:54 2002] ---------------------------
+
+[Wed May 15 09:50:54 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: nexus (USER PID B4KJ6E7) 
+[Wed May 15 09:50:54 2002] * Guide *[ANON (50 Bard)] Neroli (Wood Elf) ZONE: cshome (USER PID EUGB4P0) 
+[Wed May 15 09:50:54 2002] * GM-Admin *[60 Sorcerer] Khimath (Erudite)  ZONE: nexus (USER PID AXNWJ1M) 
+[Wed May 15 09:50:54 2002] There are 3 players in EverQuest.
+[Wed May 15 09:50:57 2002] Bulbiz bows before Titiana.
+[Wed May 15 09:51:02 2002] Bulbiz waves at Titiana.
+[Wed May 15 09:51:04 2002] Eleanna tells you, 'hehe yes i know why u guys have green names'
+[Wed May 15 09:51:08 2002] Khimath says, 'Some people are broken.  We're just fixing them - please don't mind us when there's exp to be had!'
+[Wed May 15 09:51:09 2002] Titiana beams a smile at Bulbiz.
+[Wed May 15 09:51:10 2002] Neroli GMSAYS, 'Zoning - Try not to miss me while Im gone!'
+[Wed May 15 09:51:10 2002] Bulbiz says, 'thanks a gain milady'
+[Wed May 15 09:51:15 2002] Khimath begins to cast a spell. (Dead Man Floating)
+[Wed May 15 09:51:20 2002] Bulbiz says, 'again not a gain :p'
+[Wed May 15 09:51:21 2002] Khimath looks dead.
+[Wed May 15 09:51:42 2002] You told Andolia, 'Hail, Andolia! Senior Guide Espranza here. Can you show me to this Door of Doom?'
+[Wed May 15 09:51:57 2002] Andolia tells you, 'i can in a moment .. im just porting to WC'
+[Wed May 15 09:51:59 2002] Bulbiz says, 'Hail, Onizuka'
+[Wed May 15 09:52:03 2002] Bulbiz says, 'eikichiiiiiiii :)'
+[Wed May 15 09:52:08 2002] Bulbiz says, 'Hail, Iosobail'
+[Wed May 15 09:52:10 2002] Iosobail begins to cast a spell. (Clarity)
+[Wed May 15 09:52:12 2002] Bulbiz bows before Iosobail.
+[Wed May 15 09:52:13 2002] Bulbiz looks tranquil.
+[Wed May 15 09:52:13 2002] Iosobail says, 'Hail, Bulbiz'
+[Wed May 15 09:52:14 2002] Bulbiz kneels before Iosobail in humility and reverence.
+[Wed May 15 09:52:17 2002] Bulbiz kisses Iosobail on the cheek.
+[Wed May 15 09:52:17 2002] Iosobail bows before Bulbiz.
+[Wed May 15 09:52:19 2002] Bulbiz hugs Iosobail.
+[Wed May 15 09:52:20 2002] You can no longer levitate.
+[Wed May 15 09:52:20 2002] Bulbiz grabs hold of Iosobail and begins to dance with her.
+[Wed May 15 09:52:23 2002] Bulbiz waves at Iosobail.
+[Wed May 15 09:52:25 2002] Bulbiz says, 'thanks :)'
+[Wed May 15 09:52:29 2002] Bulbiz says, 'cu later milady :)'
+[Wed May 15 09:52:31 2002] Iosobail says, 'your welcome'
+[Wed May 15 09:52:43 2002] Titiana begins to cast a spell. (Spirit of Eagle)
+[Wed May 15 09:52:47 2002] Titiana's body pulses with an avian spirit.
+[Wed May 15 09:53:30 2002] You GMSAY, 'esc Andolia for a sec, she is running back to Neriak to show me a bugged door.'
+[Wed May 15 09:53:33 2002] STATUS UPGRADED TO URGENT
+[Wed May 15 09:53:34 2002] CHECKING IN
+[Wed May 15 09:53:36 2002] Onizuka says, 'Hail, Espranza'
+[Wed May 15 09:53:37 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:53:37 2002] USER TEXT: help lost body in ld
+[Wed May 15 09:53:37 2002] Players in EverQuest:
+[Wed May 15 09:53:37 2002] ---------------------------
+
+[Wed May 15 09:53:37 2002] [30 Shaman] Dracotake (Barbarian) <Friends of Fate> ZONE: warrens (USER PID E3GF23U) 
+[Wed May 15 09:53:37 2002] There is 1 player in EverQuest.
+[Wed May 15 09:53:47 2002] Andolia tells you, 'gating to nek forest now .. unless u can summon me?'
+[Wed May 15 09:53:49 2002] You say, 'Hajimemasita Onizukasan'
+[Wed May 15 09:53:58 2002] You told Andolia, 'that I cannot do, alas'
+[Wed May 15 09:54:01 2002] Andolia tells you, 'LOL :)'
+[Wed May 15 09:54:06 2002] Onizuka says, 'hehe'
+[Wed May 15 09:54:08 2002] Neroli GMSAYS, 'Zoning - Try not to miss me while Im gone!'
+[Wed May 15 09:54:14 2002] Andolia tells you, 'k will send u a tell when i get there'
+[Wed May 15 09:54:19 2002] You told Andolia, 'thank you!'
+[Wed May 15 09:54:44 2002] Searching zones for corpse of that name....
+[Wed May 15 09:54:44 2002] Corpse: Dracotake's corpse0 in zone: warrens
+[Wed May 15 09:54:46 2002] You no longer have a target.
+[Wed May 15 09:54:47 2002] You wave goodbye to everyone.
+[Wed May 15 09:54:50 2002] You GMSAY, 'zone'
+[Wed May 15 09:54:54 2002] Espranza saved.
+[Wed May 15 09:54:56 2002] LOADING, PLEASE WAIT...
+[Wed May 15 09:55:20 2002] You have entered The Warrens.
+[Wed May 15 09:55:20 2002] Khimath GMSAYS, 'Is anyone on this yellow?'
+[Wed May 15 09:55:20 2002] Espranza saved.
+[Wed May 15 09:55:30 2002] Neroli GMSAYS, 'Espranza is, I believe'
+[Wed May 15 09:55:34 2002] You GMSAY, 'I am, the petitioner is running back to the spot'
+[Wed May 15 09:55:43 2002] You GMSAY, 'just working on other pets while waiting'
+[Wed May 15 09:55:51 2002] Khimath GMSAYS, 'Okies'
+[Wed May 15 09:55:53 2002] Teleporting to dracotake's corpse0.
+[Wed May 15 09:55:54 2002] Dracotake looks daring.
+[Wed May 15 09:56:06 2002] Dracotake says, 'ty'
+[Wed May 15 09:56:08 2002] USER TEXT: help lost body in ld
+[Wed May 15 09:56:08 2002] Rceelilie begins to cast a spell. (Spirit Armor)
+[Wed May 15 09:56:14 2002] Translucent armor gathers around you.
+[Wed May 15 09:56:21 2002] Rceelilie begins to cast a spell. (Daring)
+[Wed May 15 09:56:22 2002] You feel daring.
+[Wed May 15 09:56:29 2002] You told Dracotake, 'Hail, Dracotake! Senior Guide Espranza here. I see you found your body...!'
+[Wed May 15 09:56:33 2002] Rceelilie waves at Espranza.
+[Wed May 15 09:56:34 2002] You say, 'thanks for the buffs :)'
+[Wed May 15 09:56:39 2002] Dracotake tells you, 'im going to go med so i can kill bear paw'
+[Wed May 15 09:56:57 2002] Dracotake tells you, 'hey i found my body i went ld and died'
+[Wed May 15 09:57:06 2002] DELETING THIS PETITION
+[Wed May 15 09:57:08 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed May 15 09:57:08 2002] USER TEXT: hi theres a doorway in neriak that when i go through it i get booted to my desktop .. i have tried downloading the whole of neriak again (hehe) but its still doing it
+[Wed May 15 09:57:09 2002] Players in EverQuest:
+[Wed May 15 09:57:09 2002] ---------------------------
+
+[Wed May 15 09:57:09 2002] [41 Wizard] Andolia (Dark Elf) <Clan of Zoit> ZONE: neriakb (USER PID GUH3KFJ) 
+[Wed May 15 09:57:09 2002] There is 1 player in EverQuest.
+[Wed May 15 09:57:18 2002] You GMSAY, 'zone'
+[Wed May 15 09:57:22 2002] LOADING, PLEASE WAIT...
+[Wed May 15 09:57:42 2002] You have entered Neriak - Commons.
+[Wed May 15 09:57:43 2002] Dracotake tells you, 'my game is locking up a lot and i dont know why'
+[Wed May 15 09:57:43 2002] Espranza saved.
+[Wed May 15 09:57:51 2002] Andolia tells you, 'am there now'
+[Wed May 15 09:58:01 2002] Players in EverQuest:
+[Wed May 15 09:58:01 2002] ---------------------------
+
+[Wed May 15 09:58:01 2002] [41 Wizard] Andolia (Dark Elf) <Clan of Zoit> ZONE: neriakb (USER PID GUH3KFJ) 
+[Wed May 15 09:58:01 2002] There is 1 player in EverQuest.
+[Wed May 15 09:58:05 2002] Teleporting to andolia.
+[Wed May 15 09:58:09 2002] Andolia tells you, 'LOL !'
+[Wed May 15 09:58:11 2002] You say, 'Hail, Andolia'
+[Wed May 15 09:58:25 2002] Belux J`Ver begins to cast a spell. (Cadeau of Flame)
+[Wed May 15 09:58:26 2002] Andolia says, 'Hail, Espranza'
+[Wed May 15 09:58:31 2002] You told Dracotake, 'Mine too, actually. Wish I knew why.'
+[Wed May 15 09:58:36 2002] You no longer have a target.
+[Wed May 15 09:58:40 2002] Andolia says, 'u fell from the roof ! long way from the nexus'
+[Wed May 15 09:58:49 2002] Dracotake tells you, 'is everquest aware of the problem'
+[Wed May 15 09:58:51 2002] You say, 'It is, it is'
+[Wed May 15 09:58:52 2002] Neroli GMSAYS, 'Khimath, can you take a look at Huyngung's petition please?'
+[Wed May 15 09:59:10 2002] You told Dracotake, 'yes, but it could be any of a thousand things'
+[Wed May 15 09:59:18 2002] You say, 'which is the bad door?'
+[Wed May 15 09:59:20 2002] Your protection fades.
+[Wed May 15 09:59:27 2002] Andolia tells you, 'this one'
+[Wed May 15 09:59:33 2002] Gath N`Mare begins to cast a spell. (O'Keils Flickering Flame)
+[Wed May 15 09:59:40 2002] Jayna D`Bious begins to cast a spell. (Cadeau of Flame)
+[Wed May 15 09:59:45 2002] You told Andolia, 'you can't walk through here?'
+[Wed May 15 09:59:52 2002] Dracotake tells you, 'ty'
+[Wed May 15 09:59:56 2002] Andolia tells you, 'i can some times ..'
+[Wed May 15 10:00:00 2002] Utvex D`Jerna begins to cast a spell. (Wonderous Rapidity)
+[Wed May 15 10:00:01 2002] Andolia tells you, 'but it normaly boots me out'
+[Wed May 15 10:00:04 2002] Belux J`Ver begins to cast a spell. (Cadeau of Flame)
+[Wed May 15 10:00:08 2002] Opizel G`Efia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed May 15 10:00:12 2002] Khimath GMSAYS, 'Esperanza, did you speak with Selinia about Hadden?'
+[Wed May 15 10:00:20 2002] You GMSAY, 'yes'
+[Wed May 15 10:00:22 2002] Khimath GMSAYS, 'Sure, Neroli.  One moment.'
+[Wed May 15 10:00:23 2002] You GMSAY, 'why?'
+[Wed May 15 10:00:35 2002] Khimath GMSAYS, 'What happened?  Apparently he KSed the other character there.'
+[Wed May 15 10:00:48 2002] Khimath GMSAYS, 'Or she, or whatever.'
+[Wed May 15 10:00:54 2002] You GMSAY, 'hmm? what, just now?'
+[Wed May 15 10:00:55 2002] Players in EverQuest:
+[Wed May 15 10:00:55 2002] ---------------------------
+
+[Wed May 15 10:00:55 2002] * Senior Guide *[55 Blackguard] Espranza (Halfling) <Keepers of Dreams> ZONE: neriakb (USER PID B4KJ6E7) 
+[Wed May 15 10:00:55 2002] * Guide *[ANON (50 Bard)] Neroli (Wood Elf) ZONE: cshome (USER PID EUGB4P0) 
+[Wed May 15 10:00:55 2002] * GM-Admin *[60 Sorcerer] Khimath (Erudite)  ZONE: akheva (USER PID AXNWJ1M) 
+[Wed May 15 10:00:55 2002] There are 3 players in EverQuest.
+[Wed May 15 10:01:00 2002] Khimath GMSAYS, 'Yep.'
+[Wed May 15 10:01:26 2002] You GMSAY, 'Sigh. I explained to both Zaria (or whatever the druid's name was) and her that first hit owned the mob.'
+[Wed May 15 10:01:41 2002] You GMSAY, 'Selinia assured me she had no intention of KSing and was just timing the spawn.'
+[Wed May 15 10:01:48 2002] Opizel G`Efia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed May 15 10:02:01 2002] You GMSAY, 'apparently she was fibbing.'
+[Wed May 15 10:02:06 2002] Players in EverQuest:
+[Wed May 15 10:02:06 2002] ---------------------------
+
+[Wed May 15 10:02:06 2002] There are no players in EverQuest that match those who filters.
+[Wed May 15 10:02:08 2002] Utvex D`Jerna begins to cast a spell. (Feedback)
+[Wed May 15 10:02:24 2002] Belux J`Ver begins to cast a spell. (Cadeau of Flame)
+[Wed May 15 10:02:43 2002] You GMSAY, 'anyone know of a problem where if you pass through a certain gated passageway in Neriak, you can crash?'
+[Wed May 15 10:02:53 2002] Andolia says, 'voila'
+[Wed May 15 10:02:58 2002] Khimath GMSAYS, 'Okies, thanks.  No, never heard of that'
+[Wed May 15 10:03:11 2002] Andolia says, 'its ok going through from this side'
+[Wed May 15 10:03:32 2002] Andolia says, 'it also does it on all my chars.. not just this one'
+[Wed May 15 10:03:34 2002] You say, 'Hmmm.'
+[Wed May 15 10:03:42 2002] Lorilaine tells you, 'i made it gate and it looks ok also this alt looks ok...I'm greadly oblidged for all your help m'lady'
+[Wed May 15 10:03:58 2002] Aernu's spell fizzles!
+[Wed May 15 10:04:04 2002] Andolia tells you, 'and its only that door that does it'
+[Wed May 15 10:04:05 2002] You told Lorilaine, 'Glad to see you're all fixed now.'
+[Wed May 15 10:04:07 2002] Gath N`Mare begins to cast a spell. (O'Keils Flickering Flame)
+[Wed May 15 10:04:25 2002] You ponder the matters at hand.
+[Wed May 15 10:04:38 2002] Neroli GMSAYS, 'nope, and I think Ive been to neriak once so dont know from experience either'
+[Wed May 15 10:04:39 2002] You told Andolia, 'well, about all I can do is report it as a bug.'
+[Wed May 15 10:04:39 2002] Utvex D`Jerna begins to cast a spell. (Feedback)
+[Wed May 15 10:04:44 2002] Gath N`Mare begins to cast a spell. (O'Keils Flickering Flame)
+[Wed May 15 10:04:45 2002] Neroli GMSAYS, 'and blah I cant type for toffee today'
+[Wed May 15 10:04:58 2002] You GMSAY, 'Never crashed there, would be bad if I did because my inky illusion would drop'
+[Wed May 15 10:05:06 2002] Andolia tells you, 'i reported this when Lirus was GM ... she said to redownload the zone files'
+[Wed May 15 10:05:23 2002] Utvex D`Jerna begins to cast a spell. (Wonderous Rapidity)
+[Wed May 15 10:05:27 2002] Andolia tells you, 'so last night i deleted all neriak and downloaded it again ... which didnt solve the problem'
+[Wed May 15 10:05:31 2002] Opizel G`Efia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed May 15 10:05:44 2002] You told Andolia, 'do you have Luclin with all the graphics turned on?'
+[Wed May 15 10:05:54 2002] Andolia tells you, 'i not have luclin ..'
+[Wed May 15 10:05:55 2002] Belux J`Ver begins to cast a spell. (Cadeau of Flame)
+[Wed May 15 10:06:01 2002] Andolia tells you, 'but i have it installed ... '
+[Wed May 15 10:06:17 2002] Andolia tells you, 'if u get what i mean ... my brother uses my PC to play luclin .. but i dont have it'
+[Wed May 15 10:07:03 2002] Opizel G`Efia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed May 15 10:07:11 2002] Gath N`Mare begins to cast a spell. (O'Keils Flickering Flame)
+[Wed May 15 10:07:17 2002] You told Andolia, 'Well, I will file a bug report about this... I have no other ideas on what to do and the GM online now hasn't heard of this problem.'
+[Wed May 15 10:07:29 2002] Khimath GMSAYS, 'Spelled Selania?'
+[Wed May 15 10:07:43 2002] Utvex D`Jerna begins to cast a spell. (Feedback)
+[Wed May 15 10:07:47 2002] Your Location is -1.97, -903.89, -39.78
+[Wed May 15 10:07:47 2002] Andolia tells you, 'one of my friends mentioned something about LDing in here too'
+[Wed May 15 10:07:53 2002] You GMSAY, 'Selinia'
+[Wed May 15 10:07:55 2002] Belux J`Ver begins to cast a spell. (Cadeau of Flame)
+[Wed May 15 10:07:58 2002] Espranza saved.
+[Wed May 15 10:08:09 2002] Andolia`s familiar says 'As you wish, oh great one.'
+[Wed May 15 10:08:25 2002] Khimath GMSAYS, 'No longer online?'
+[Wed May 15 10:08:49 2002] You GMSAY, '<note bug> Andolia GUH3KFJ 41 wizard crashes fairly often while passing beneath the gate at 0,-900 in Neriak B. Luclin installed but not registered on her account.'
+[Wed May 15 10:08:56 2002] You GMSAY, 'She's no longer online.'
+[Wed May 15 10:09:14 2002] DELETING THIS PETITION
+[Wed May 15 10:09:38 2002] You told Andolia, 'okay, I reported it as a bug....'
+[Wed May 15 10:09:40 2002] Andolia tells you, 'my friend has Exactly the same prolblem ..'
+[Wed May 15 10:09:48 2002] You told Andolia, 'wish I could just fix this problem.'
+[Wed May 15 10:09:49 2002] Andolia tells you, 'but its intermittend'
+[Wed May 15 10:09:50 2002] Belux J`Ver begins to cast a spell. (Cadeau of Flame)
+[Wed May 15 10:10:29 2002] Khimath GMSAYS, 'Darn.'
+[Wed May 15 10:10:35 2002] You told Andolia, 'I don't have a workaround for ya though'
+[Wed May 15 10:10:44 2002] Andolia tells you, 'u do ... use the other side ;)'
+[Wed May 15 10:10:50 2002] You GMSAY, 'earring dropped?'
+[Wed May 15 10:11:06 2002] You GMSAY, 'I feel a little betrayed... she TOLD me she wasn't going to KS.'
+[Wed May 15 10:11:32 2002] Neroli GMSAYS, 'and then players wonder why some GMs dont have much trust in them'
+[Wed May 15 10:11:41 2002] You told Andolia, 'heh... well... hope this gets fixed for you soon.Until then, though, be well and safe journeys to you.'
+[Wed May 15 10:11:44 2002] You wave goodbye to Andolia.
+[Wed May 15 10:11:45 2002] You GMSAY, 'zone'
+[Wed May 15 10:11:48 2002] You begin casting Sunset Home.Item Cast Time (1000) (Sunset Home)
+[Wed May 15 10:11:48 2002] Your Belt of Translocation begins to glow.
+[Wed May 15 10:11:49 2002] LOADING, PLEASE WAIT...
+[Wed May 15 10:11:50 2002] Andolia tells you, 'u too'
+[Wed May 15 10:12:09 2002] You have entered Sunset Home.
+[Wed May 15 10:12:10 2002] Espranza saved.
+[Wed May 15 10:12:13 2002] It begins to rain.
+[Wed May 15 10:12:26 2002] Khimath GMSAYS, 'Ayuh'
+[Wed May 15 10:13:15 2002] You GMSAY, 'okies, I'm off to get ready for work. Thanks for your help, Khimath, and nice to see you again, Neroli!'
+[Wed May 15 10:13:27 2002] It will take you about 30 seconds to prepare your camp.
+[Wed May 15 10:13:27 2002] Neroli GMSAYS, '<huggles> good to be back, have fun at work :)'
+[Wed May 15 10:13:31 2002] It will take about 25 more seconds to prepare your camp.
+[Wed May 15 10:13:36 2002] It will take about 20 more seconds to prepare your camp.
+[Wed May 15 10:13:41 2002] It will take about 15 more seconds to prepare your camp.
+[Wed May 15 10:13:46 2002] It will take about 10 more seconds to prepare your camp.
+[Wed May 15 10:13:51 2002] It will take about 5 more seconds to prepare your camp.

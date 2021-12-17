@@ -1,0 +1,1960 @@
+[Sat Jul 21 14:42:03 2001] Welcome to EverQuest!
+[Sat Jul 21 14:42:03 2001] You have entered Sunset Home.
+[Sat Jul 21 14:42:03 2001] MESSAGE OF THE DAY: Welcome to EverQuest! Please make sure you have the Kunark or Velious expansions installed on the computer that you are using before you attempt to enter into a Kunark or Velious zone. Thank you.
+[Sat Jul 21 14:42:04 2001] GUILD MOTD: Mersi - Please make sure you are scheduled! we wiped it =)
+[Sat Jul 21 14:42:07 2001] Players in EverQuest:
+[Sat Jul 21 14:42:07 2001] ---------------------------
+[Sat Jul 21 14:42:07 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 14:42:07 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: greatdivide (USER PID EUGBAB8)
+[Sat Jul 21 14:42:07 2001] * Senior Guide *[55 Troubadour] Lancet (Half Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID CRMV32R)
+[Sat Jul 21 14:42:07 2001] * Apprentice Guide *[20 Warrior] Kizra (Dwarf) ZONE: overthere (USER PID EXP8TET)
+[Sat Jul 21 14:42:07 2001] There are 4 players in EverQuest.
+[Sat Jul 21 14:42:18 2001] You GMSAY, 'mata minnasan'
+[Sat Jul 21 14:42:31 2001] Lancet GMSAYS, 'hiysa esp'
+[Sat Jul 21 14:42:32 2001] Savlyn GMSAYS, 'Hiya Hun '
+[Sat Jul 21 14:42:39 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 14:42:39 2001] USER TEXT: Help, i have lost my corpse, i ran like a Mad in Sol A
+[Sat Jul 21 14:42:39 2001] Players in EverQuest:
+[Sat Jul 21 14:42:39 2001] ---------------------------
+[Sat Jul 21 14:42:39 2001] [20 Warrior] Fimoute (Human) <Gardiens de Norrath> ZONE: soldunga (USER PID DWJH2RQ)
+[Sat Jul 21 14:42:39 2001] There is 1 player in EverQuest.
+[Sat Jul 21 14:42:44 2001] Searching zones for corpse of that name....
+[Sat Jul 21 14:42:51 2001] Searching zones for corpse of that name....
+[Sat Jul 21 14:42:51 2001] Corpse: Fimoute's corpse0 in zone: soldunga
+[Sat Jul 21 14:42:53 2001] You GMSAY, 'zone'
+[Sat Jul 21 14:42:56 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 14:43:23 2001] You have entered Solusek's Eye.
+[Sat Jul 21 14:43:39 2001] Searching for Fimoute's corpse0.
+[Sat Jul 21 14:43:39 2001] Player is in zone soldunga at x = -487 y = -793 z = 51.
+[Sat Jul 21 14:43:42 2001] You are invulnerable.
+[Sat Jul 21 14:43:44 2001] Lancet GMSAYS, 'whats trhe highest faction now'
+[Sat Jul 21 14:43:47 2001] Searching for Fimoute's corpse0.
+[Sat Jul 21 14:43:48 2001] Player is in zone soldunga at x = -487 y = -793 z = 51.
+[Sat Jul 21 14:43:49 2001] You GMSAY, 'ally'
+[Sat Jul 21 14:43:53 2001] Teleporting to Fimoute's corpse0 (-486.00, -792.00,  51.70).
+[Sat Jul 21 14:44:01 2001] Summoning Fimoute's corpse0.
+[Sat Jul 21 14:44:14 2001] Savlyn GMSAYS, 'Zoning'
+[Sat Jul 21 14:44:17 2001] You feel as if you are about to fall.
+[Sat Jul 21 14:44:23 2001] You feel as if you are about to fall.
+[Sat Jul 21 14:44:25 2001] You told Fimoute, 'Hail, Fimoute! Guide Espranza here. Your corpse was stuck in the wall, I have dragged it free.'
+[Sat Jul 21 14:44:29 2001] You can no longer levitate.
+[Sat Jul 21 14:44:37 2001] DELETING THIS PETITION
+[Sat Jul 21 14:44:38 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 14:44:38 2001] USER TEXT: i was in Innothule swamp and there is a hut in underwater by Feerott side, You can swim in it but you can't swim out, and i just drowned
+[Sat Jul 21 14:44:38 2001] Players in EverQuest:
+[Sat Jul 21 14:44:38 2001] ---------------------------
+[Sat Jul 21 14:44:38 2001] [30 Paladin] Evilb (Half Elf) <Revered Souls> ZONE: oasis (USER PID EYXA8FA) LFG
+[Sat Jul 21 14:44:38 2001] There is 1 player in EverQuest.
+[Sat Jul 21 14:44:46 2001] Fimoute tells you, 'really ?'
+[Sat Jul 21 14:44:47 2001] Your invulnerability fades.
+[Sat Jul 21 14:44:57 2001] You told Fimoute, 'yup, it should be near where you died'
+[Sat Jul 21 14:45:03 2001] Your feet leave the ground.
+[Sat Jul 21 14:45:04 2001] You feel the spirit of Norrath enter you.
+[Sat Jul 21 14:45:05 2001] Fimoute tells you, 'where is it now? cause i dont no where i am dead'
+[Sat Jul 21 14:45:34 2001] You told Fimoute, 'where were you when you died?'
+[Sat Jul 21 14:45:49 2001] Searching zones for corpse of that name....
+[Sat Jul 21 14:45:49 2001] Corpse: Evilb's corpse0 in zone: innothule
+[Sat Jul 21 14:46:02 2001] Fimoute tells you, 'But how can u drag it ?'
+[Sat Jul 21 14:46:10 2001] Fimoute tells you, 'i have not consent u'
+[Sat Jul 21 14:46:25 2001] Fimoute tells you, 'HOHOHO u a GM'
+[Sat Jul 21 14:46:29 2001] Fimoute tells you, 'Thx'
+[Sat Jul 21 14:46:30 2001] You told Fimoute, 'ah, I didn't move it far, I just pulled it a little ways. I can drag it because I am a guide, answering your petition'
+[Sat Jul 21 14:46:34 2001] You told Fimoute, 'heh yep'
+[Sat Jul 21 14:46:54 2001] You told Fimoute, 'It's just out of the wall, should be right where you died.'
+[Sat Jul 21 14:47:06 2001] young goblin shaman begins to cast a spell. (Spirit of Wolf)
+[Sat Jul 21 14:47:06 2001] Savlyn GMSAYS, 'Sorry Kizra'
+[Sat Jul 21 14:47:09 2001] Fimoute tells you, 'my prob is that i dont know where i died'
+[Sat Jul 21 14:47:09 2001] You told Fimoute, 'be well!'
+[Sat Jul 21 14:47:14 2001] young goblin shaman begins to cast a spell. (Spirit of Wolf)
+[Sat Jul 21 14:47:16 2001] You told Fimoute, 'ah, it was near the gnomes'
+[Sat Jul 21 14:47:24 2001] Players on EverQuest:
+[Sat Jul 21 14:47:24 2001] ---------------------------
+[Sat Jul 21 14:47:24 2001] [39 Monk] Jexe (Iksar) <Perfect Alliance>
+[Sat Jul 21 14:47:24 2001] [42 Rogue] Erani (Dark Elf) <Perfect Alliance>
+[Sat Jul 21 14:47:24 2001] [36 Cleric] Nephrum (Dark Elf) <Perfect Alliance>
+[Sat Jul 21 14:47:24 2001] [37 Ranger] Freoder (Wood Elf) <Gardiens de Norrath>
+[Sat Jul 21 14:47:24 2001] [31 Warrior] Kilvan (Dwarf) <Gardiens de Norrath>
+[Sat Jul 21 14:47:24 2001] [26 Druid] Chtipeper (Halfling) <L'envol du Phoenix>
+[Sat Jul 21 14:47:24 2001] [27 Cleric] Aadylea (High Elf)
+[Sat Jul 21 14:47:24 2001] [34 Cleric] Molilo (Dwarf) <Ordre du Dragon>
+[Sat Jul 21 14:47:24 2001] [23 Ranger] Ithrylia (Wood Elf) <Gardiens de Norrath>
+[Sat Jul 21 14:47:24 2001] [59 Beguiler] Niena (Dark Elf) <Pandore>
+[Sat Jul 21 14:47:24 2001] [ANONYMOUS] Sakkil 
+[Sat Jul 21 14:47:24 2001] [18 Shaman] Ginormus (Barbarian) <Gardiens de Norrath>
+[Sat Jul 21 14:47:24 2001] [27 Paladin] Badok (Dwarf)
+[Sat Jul 21 14:47:24 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sat Jul 21 14:47:24 2001] There are 14 players in Solusek's Eye.
+[Sat Jul 21 14:47:26 2001] young goblin shaman begins to cast a spell. (Inner Fire)
+[Sat Jul 21 14:47:30 2001] You GMSAY, 'zone'
+[Sat Jul 21 14:47:35 2001] Fimoute tells you, 'ok, am gonna try to find it, thx alot'
+[Sat Jul 21 14:47:36 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 14:48:01 2001] You have entered Innothule Swamp.
+[Sat Jul 21 14:48:14 2001] You told Fimoute, 'good luck!'
+[Sat Jul 21 14:48:26 2001] Fimoute tells you, 'Thx )'
+[Sat Jul 21 14:48:54 2001] Teleporting to evilb's corpse0.
+[Sat Jul 21 14:49:17 2001] USER TEXT: i was in Innothule swamp and there is a hut in underwater by Feerott side, You can swim in it but you can't swim out, and i just drowned
+[Sat Jul 21 14:49:24 2001] Lancet GMSAYS, 'player mad becuase he turned in items for quest even though npc would not tell him  all the quest'
+[Sat Jul 21 14:49:49 2001] You GMSAY, 'Epic quest?'
+[Sat Jul 21 14:49:55 2001] Kizra GMSAYS, 'Deleting Fandyan, she's swimming for it'
+[Sat Jul 21 14:49:57 2001] Lancet GMSAYS, 'no reg quest'
+[Sat Jul 21 14:50:04 2001] Kizra GMSAYS, 'Pulling Tenyen'
+[Sat Jul 21 14:50:14 2001] Lancet GMSAYS, 'still mad for all the stuff he lost'
+[Sat Jul 21 14:50:43 2001] You told Evilb, 'Hail, Evilb! Guide Espranza here. I'm at your body - there is a doorway in the hut, you must have been turned the wrong way...'
+[Sat Jul 21 14:50:44 2001] You have become better at Swimming! (113)
+[Sat Jul 21 14:51:04 2001] You GMSAY, 'I had trouble getting the questgiver to give me my epic quest'
+[Sat Jul 21 14:51:14 2001] You GMSAY, 'but I improved faction along the way'
+[Sat Jul 21 14:51:28 2001] Lancet GMSAYS, 'if they dont tell you everything then lookout'
+[Sat Jul 21 14:51:34 2001] You GMSAY, 'yeah'
+[Sat Jul 21 14:51:39 2001] Evilb tells you, 'couldn't fit back through doorway, must have been my shield and weapon'
+[Sat Jul 21 14:51:52 2001] Savlyn tells the guild, 'can someone pick up Kizra I just went LD and I'm heading to do a wedding'
+[Sat Jul 21 14:51:57 2001] You say to your guild, 'I can'
+[Sat Jul 21 14:52:19 2001] You GMSAY, 'I'll grab ya, Kizra... I'm on for a few hours.'
+[Sat Jul 21 14:52:26 2001] Lancet GMSAYS, 'ill be leaving  in a few just waiting to see if appy shows up'
+[Sat Jul 21 14:52:27 2001] Kizra GMSAYS, 'Woohooo!'
+[Sat Jul 21 14:52:38 2001] You told Evilb, 'the best help I can offer is to drag your body out of the hut for you'
+[Sat Jul 21 14:52:41 2001] Summoning Evilb's corpse0.
+[Sat Jul 21 14:52:46 2001] Kizra GMSAYS, 'Was fun seeing ya again Lancet =)'
+[Sat Jul 21 14:52:59 2001] You told Evilb, 'there... be careful of swimming into tight places in the future...'
+[Sat Jul 21 14:52:59 2001] Evilb tells you, 'i'm real close now i'll try to drag it'
+[Sat Jul 21 14:53:11 2001] DELETING THIS PETITION
+[Sat Jul 21 14:53:14 2001] You GMSAY, 'zone'
+[Sat Jul 21 14:53:15 2001] Evilb tells you, 'ill be careful thanx'
+[Sat Jul 21 14:53:19 2001] You told Evilb, 'be well!'
+[Sat Jul 21 14:53:21 2001] Teleporting to kizra.
+[Sat Jul 21 14:53:22 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 14:53:56 2001] a Sarnak knight died.
+[Sat Jul 21 14:53:56 2001] a stoneglint cockatrice died.
+[Sat Jul 21 14:53:59 2001] You have entered The Overthere.
+[Sat Jul 21 14:54:00 2001] Daimon says out of character, 'thx'
+[Sat Jul 21 14:54:06 2001] Varg Stonebelly shouts 'Da Bloated Belly is be coming soon!  Barsh faster if you has to go! 
+[Sat Jul 21 14:54:18 2001] You invite Kizra to join your group.
+[Sat Jul 21 14:54:19 2001] Kizra GMSAYS, 'Escalating Tenyen, boat dropped him at zone'
+[Sat Jul 21 14:54:21 2001] Brelark says out of character, 'nightangle's loc will get you to the valley to FM'
+[Sat Jul 21 14:54:27 2001] You have formed the group.
+[Sat Jul 21 14:54:28 2001] Obzidian says, 'one more ...'
+[Sat Jul 21 14:54:30 2001] Kizra says, 'thanks'
+[Sat Jul 21 14:54:32 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 14:54:32 2001] USER TEXT: hello i am in water somehow off shuttle getting onto kunark boat can u help
+[Sat Jul 21 14:54:32 2001] Players in EverQuest:
+[Sat Jul 21 14:54:32 2001] ---------------------------
+[Sat Jul 21 14:54:32 2001] [31 Ranger] Tenyen (Wood Elf) ZONE: timorous (USER PID AYQTWXE)
+[Sat Jul 21 14:54:32 2001] There is 1 player in EverQuest.
+[Sat Jul 21 14:54:37 2001] Obzidian says, 'this is a dark day to Overthere'
+[Sat Jul 21 14:54:39 2001] You tell your party, 'Hiya Kiz!'
+[Sat Jul 21 14:54:39 2001] Obzidian begins to cast a spell. (Call of Bones)
+[Sat Jul 21 14:54:42 2001] You beam a smile at Kizra.
+[Sat Jul 21 14:54:42 2001] Obzidian's skin peels away.
+[Sat Jul 21 14:54:47 2001] You tell your party, 'Must be getting near the day for you'
+[Sat Jul 21 14:54:48 2001] Veker says 'Changing position master.'
+[Sat Jul 21 14:55:04 2001] GM TEXT: Kizra: He zone on shuttle but when he zoned into Tim Deep, the shuttle had left him behind and he couldn't get to the boat.  He is still swimming in that area.
+[Sat Jul 21 14:55:08 2001] Kizra says, 'Ahhh, Obzidian joins us again...'
+[Sat Jul 21 14:55:12 2001] You GMSAY, 'zone'
+[Sat Jul 21 14:55:15 2001] Obzidian sends out waves of hate towards the small hairy dwarves.
+[Sat Jul 21 14:55:16 2001] Kizra tells the group, 'fairly close.  I have about 32 in'
+[Sat Jul 21 14:55:21 2001] You feel the spirit of Z surround you.
+[Sat Jul 21 14:55:22 2001] You feel the spirit of Z surround you.
+[Sat Jul 21 14:55:22 2001] You feel the spirit of Z surround you.
+[Sat Jul 21 14:55:22 2001] Teleporting to Tenyen.
+[Sat Jul 21 14:55:23 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 14:55:55 2001] Ralon shouts, 'paying alot of money for a a port once i reach chessboard island.. i got money if u can help me'
+[Sat Jul 21 14:55:57 2001] You have entered Timorous Deep.
+[Sat Jul 21 14:55:57 2001] You have formed the group.
+[Sat Jul 21 14:56:06 2001] Teleporting to Tenyen.
+[Sat Jul 21 14:56:10 2001] Ralon says out of character, 'will hook u up good'
+[Sat Jul 21 14:56:32 2001] You say, 'Hi, Tenyen'
+[Sat Jul 21 14:57:00 2001] Savlyn GMSAYS, 'Zoning'
+[Sat Jul 21 14:57:04 2001] Ralon shouts, 'anyone have the loc to chessboard?'
+[Sat Jul 21 14:57:09 2001] Teleporting to Tenyen.
+[Sat Jul 21 14:57:36 2001] You say, 'wring out those wet clothes :)'
+[Sat Jul 21 14:57:37 2001] You no longer have a target.
+[Sat Jul 21 14:57:42 2001] Tenyen says, 'hehe'
+[Sat Jul 21 14:58:01 2001] You say, 'Can you get back on your own, or do you still need help?'
+[Sat Jul 21 14:58:01 2001] Tenyen says, 'great for increases'
+[Sat Jul 21 14:58:16 2001] Tenyen says, 'i have no idea where i am'
+[Sat Jul 21 14:58:24 2001] Tenyen says, 'never been to kunark'
+[Sat Jul 21 14:58:32 2001] Teleporting to an_elven_scout00.
+[Sat Jul 21 14:58:36 2001] Teleporting to an_elven_scout01.
+[Sat Jul 21 14:58:40 2001] You feel as if you are about to fall.
+[Sat Jul 21 14:58:46 2001] You feel as if you are about to fall.
+[Sat Jul 21 14:58:52 2001] You can no longer levitate.
+[Sat Jul 21 14:59:12 2001] Summoning tenyen.
+[Sat Jul 21 14:59:31 2001] Kizra GMSAYS, 'Escalating Bonthan, For Lirus when he gets here'
+[Sat Jul 21 14:59:37 2001] You told Tenyen, 'this shuttle will take you to the boat eventually'
+[Sat Jul 21 14:59:47 2001] Kizra GMSAYS, 'Pulling Deedolit'
+[Sat Jul 21 14:59:51 2001] Tenyen tells you, 'going to kunark'
+[Sat Jul 21 14:59:53 2001] DELETING THIS PETITION
+[Sat Jul 21 15:00:08 2001] You told Tenyen, 'eventually :) just don't fall off. When it zones, you are in Kunark.'
+[Sat Jul 21 15:00:12 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:00:13 2001] USER TEXT: pleas my corps is stuck in wall. pleas get it befor its to late for rez
+[Sat Jul 21 15:00:13 2001] Players in EverQuest:
+[Sat Jul 21 15:00:13 2001] ---------------------------
+[Sat Jul 21 15:00:13 2001] [ANON (60 Hierophant)] Zanther (Wood Elf) ZONE: kael (USER PID CSZZGAG)
+[Sat Jul 21 15:00:13 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:00:20 2001] Searching zones for corpse of that name....
+[Sat Jul 21 15:00:20 2001] Corpse: Zanther's corpse0 in zone: kael
+[Sat Jul 21 15:00:21 2001] Tenyen tells you, 'ok thanks for your help'
+[Sat Jul 21 15:00:27 2001] You told Tenyen, 'any time! be well!'
+[Sat Jul 21 15:00:29 2001] You GMSAY, 'zone'
+[Sat Jul 21 15:00:31 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 15:01:03 2001] You have entered Kael Drakkel.
+[Sat Jul 21 15:01:04 2001] You have formed the group.
+[Sat Jul 21 15:01:08 2001] Laeorn says out of character, 'Captain Bvellos incoming!!!'
+[Sat Jul 21 15:01:10 2001] Xazy shouts, 'shh no talking pls... be very very qwuiet it is wabbit season (that inclues my group too)'
+[Sat Jul 21 15:01:13 2001] Aludair says out of character, 'woot!'
+[Sat Jul 21 15:01:17 2001] Kizra GMSAYS, 'Hiya Mersi'
+[Sat Jul 21 15:01:20 2001] Aludair says out of character, 'bvellos can drop some nice stuff'
+[Sat Jul 21 15:01:21 2001] Teleporting to zanther's corpse0.
+[Sat Jul 21 15:01:24 2001] You GMSAY, 'Hi Mersi!'
+[Sat Jul 21 15:01:24 2001] Magnetician says out of character, 'Target ( Captain Bvellos ) for Annihilation!!'
+[Sat Jul 21 15:01:26 2001] Aludair says out of character, 'hes got the sword!'
+[Sat Jul 21 15:01:34 2001] Savlyn GMSAYS, 'Hiya Mersi =)'
+[Sat Jul 21 15:01:34 2001] Your feet leave the ground.
+[Sat Jul 21 15:01:41 2001] Summoning Zanther's corpse0.
+[Sat Jul 21 15:01:44 2001] Mersi GMSAYS, 'not going LD yet.. maybe its fixed! *crosses fingers*'
+[Sat Jul 21 15:01:46 2001] Raylia says out of character, 'tash this fooker'
+[Sat Jul 21 15:02:04 2001] Kizra GMSAYS, 'The name is what he claims, as I remember it from german class'
+[Sat Jul 21 15:02:18 2001] You told Zanther, 'Hail, Zanther! Guide Espranza here. I've pulled your corpse from the wall, should be able to get to it now'
+[Sat Jul 21 15:02:26 2001] Raylia says out of character, 'MoK is on the gimp Captain Bvellos'
+[Sat Jul 21 15:02:29 2001] Zanther tells you, 'I dont see it'
+[Sat Jul 21 15:02:34 2001] Teleporting to Zanther's corpse0 (-348.00, 1694.00, -237.00).
+[Sat Jul 21 15:02:42 2001] You point at Zanther. Yeah you!
+[Sat Jul 21 15:02:44 2001] Your Location is -341.49, 1672.17, -237.45
+[Sat Jul 21 15:03:01 2001] You say, 'assist me'
+[Sat Jul 21 15:03:03 2001] Moren says out of character, 'stop dispelling myslow'
+[Sat Jul 21 15:03:07 2001] You say, 'then type /loot'
+[Sat Jul 21 15:03:07 2001] Zanther says, 'still cant see it'
+[Sat Jul 21 15:03:09 2001] Mersi GMSAYS, 'aye... thats bad, I speak a slight amount of "war German" from taking history classes in many languages hehe'
+[Sat Jul 21 15:03:10 2001] Raylia says out of character, 'and my mok'
+[Sat Jul 21 15:03:12 2001] Teleporting to Zanther's corpse0 (-356.00, 1698.00, -236.00).
+[Sat Jul 21 15:03:19 2001] Zanther says, 'cant just typ loot need rez'
+[Sat Jul 21 15:03:28 2001] You say, 'try camping out and in again'
+[Sat Jul 21 15:03:33 2001] Aludair says out of character, 'yeah im not dispelling'
+[Sat Jul 21 15:03:33 2001] You say, 'should be able to see it again'
+[Sat Jul 21 15:03:45 2001] Lancet GMSAYS, 'its just the name of the german army '
+[Sat Jul 21 15:03:45 2001] Kizra GMSAYS, 'I'm rather surprised anyone would try to get over with that name...'
+[Sat Jul 21 15:03:53 2001] You GMSAY, 'welche nahm ist es?'
+[Sat Jul 21 15:03:58 2001] Mersi GMSAYS, 'Nazi German army, Lancet'
+[Sat Jul 21 15:04:04 2001] You GMSAY, 'Wehrmacht?'
+[Sat Jul 21 15:04:09 2001] Mersi GMSAYS, 'yes Esp'
+[Sat Jul 21 15:04:17 2001] Dolcemorte tells you, 'has ww come back up yet?'
+[Sat Jul 21 15:04:18 2001] Xazy shouts, 'if at first you don't succeed slit your wrists and watch them bleed - book of innoruuk chapter 2 verse 3'
+[Sat Jul 21 15:04:19 2001] You GMSAY, 'the Nazi war department'
+[Sat Jul 21 15:04:28 2001] You told Dolcemorte, 'I don't know'
+[Sat Jul 21 15:04:32 2001] Mersi GMSAYS, 'or thats what its come to symbolize.. there is another guy named Luftwaffe that I really want to nerf as well'
+[Sat Jul 21 15:04:34 2001] Aephrodite shouts, 'woot! yay inny!'
+[Sat Jul 21 15:04:35 2001] Dolcemorte tells you, 'doh heh'
+[Sat Jul 21 15:04:47 2001] Bracus says out of character, '/nod'
+[Sat Jul 21 15:05:00 2001] Atrocitie shouts, 'inny never said that! He said If at first you don't succeed ask atro cause he is as cool as me'
+[Sat Jul 21 15:05:03 2001] Kizra GMSAYS, 'Just the fact that is was related to nazi anything would be somewhat of a tip off that is uncouth at the least...I don't know if we can do anything about it but, personally, I'd never attach it to my char!  lol'
+[Sat Jul 21 15:05:04 2001] You told Zanther, 'can you see it now?'
+[Sat Jul 21 15:05:04 2001] Zanther says, 'now I see it'
+[Sat Jul 21 15:05:09 2001] Wichie shouts, 'lol'
+[Sat Jul 21 15:05:09 2001] You say, 'okay, be well!'
+[Sat Jul 21 15:05:11 2001] DELETING THIS PETITION
+[Sat Jul 21 15:05:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:05:13 2001] USER TEXT: Hello When poss would like to speak to GM Lirus about an ongoing problem he knows about..
+[Sat Jul 21 15:05:13 2001] Players in EverQuest:
+[Sat Jul 21 15:05:14 2001] ---------------------------
+[Sat Jul 21 15:05:14 2001] [52 Cavalier] Boraron (Human) <Tolkien's Revenge> ZONE: burningwood (USER PID GSYKJH6)
+[Sat Jul 21 15:05:14 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:05:17 2001] Zanther tells you, 'yes  tho my cleric is gone now   argh'
+[Sat Jul 21 15:05:24 2001] You told Zanther, 'sigh...'
+[Sat Jul 21 15:05:32 2001] You GMSAY, 'zone'
+[Sat Jul 21 15:05:37 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 15:05:57 2001] You have entered Sunset Home.
+[Sat Jul 21 15:05:57 2001] You have formed the group.
+[Sat Jul 21 15:06:01 2001] Lancet tells the guild, 'mersi reminder is due on for training   he should show  but who knows im going out to dinner'
+[Sat Jul 21 15:06:12 2001] Mersi tells the guild, 'aye.. ok night Lancet and have fun )'
+[Sat Jul 21 15:06:45 2001] You told Boraron, 'Hail, Boraron! Guide Espranza here. I will pass your petition to Lirus when he comes in, but could you tell me what this pertains to so I could add a reminder to your petition?'
+[Sat Jul 21 15:06:55 2001] You GMSAY, 'Later, Lancet!'
+[Sat Jul 21 15:07:05 2001] Lancet GMSAYS, 'ok ppl cya later have fun'
+[Sat Jul 21 15:07:07 2001] Boraron tells you, 'concerning our problems with a char named ssvanti.'
+[Sat Jul 21 15:07:15 2001] Kizra GMSAYS, 'bye Lancet'
+[Sat Jul 21 15:07:15 2001] Mersi GMSAYS, 'later Lancet )'
+[Sat Jul 21 15:07:19 2001] You told Boraron, 'what sort of problems?'
+[Sat Jul 21 15:07:22 2001] Players in EverQuest:
+[Sat Jul 21 15:07:22 2001] ---------------------------
+[Sat Jul 21 15:07:22 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 21 15:07:34 2001] Savlyn GMSAYS, 'Bye Lancet'
+[Sat Jul 21 15:07:41 2001] Kizra GMSAYS, 'Pulling Badok'
+[Sat Jul 21 15:07:46 2001] Players in EverQuest:
+[Sat Jul 21 15:07:46 2001] ---------------------------
+[Sat Jul 21 15:07:46 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 21 15:08:26 2001] You hug Mersi.
+[Sat Jul 21 15:08:43 2001] Mersi hugs Espranza.
+[Sat Jul 21 15:08:46 2001] Boraron tells you, 'well we have asked him numerous times to log onto ssvanti to remove him from our guild. he refuses to do so and making a very bad name for my guild on the MT message boards. and also in game. he supposedly talked with GM lirus last night.'
+[Sat Jul 21 15:08:55 2001] Mersi hugs Espranza.
+[Sat Jul 21 15:08:59 2001] You say, 'hiya!'
+[Sat Jul 21 15:09:02 2001] Mersi says, 'Hi )'
+[Sat Jul 21 15:09:16 2001] You told Boraron, 'No officers can remove him?'
+[Sat Jul 21 15:09:38 2001] Boraron tells you, 'he won't log onto the char that is in guild so we can't remove him'
+[Sat Jul 21 15:09:43 2001] Mersi is surrounded by a brief aura.
+[Sat Jul 21 15:10:02 2001] You told Boraron, 'ah okay... and Lirus said he could help>'
+[Sat Jul 21 15:10:04 2001] You told Boraron, 'ah okay... and Lirus said he could help?'
+[Sat Jul 21 15:10:30 2001] Kizra GMSAYS, 'Escalating Badok, corpse in lava'
+[Sat Jul 21 15:10:38 2001] Boraron tells you, 'dunno need to speak with him and ask.. and see what i can do'
+[Sat Jul 21 15:10:47 2001] You told Boraron, 'okay, will escalate for him'
+[Sat Jul 21 15:10:55 2001] You GMSAY, 'brt Kizra, wanna come along?'
+[Sat Jul 21 15:10:58 2001] Boraron tells you, 'thank you very much'
+[Sat Jul 21 15:11:06 2001] Kizra GMSAYS, 'Sure!'
+[Sat Jul 21 15:11:55 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sat Jul 21 15:11:55 2001] GM TEXT: Espranza: Petitioner says a very disruptive person, Ssvanti, is a member of his guild and is giving the guild a bad name, but refuses to log into the character so an officer can guildremove him. Would like help with this.
+[Sat Jul 21 15:12:02 2001] You GMSAY, 'escalating Boraron, guild problem.'
+[Sat Jul 21 15:12:03 2001] Kizra GMSAYS, 'I'm going to camp after this...real life calls...sigh'
+[Sat Jul 21 15:12:08 2001] STATUS UPGRADED TO URGENT
+[Sat Jul 21 15:12:09 2001] STATUS UPGRADED TO EMERGENCY
+[Sat Jul 21 15:12:13 2001] You GMSAY, 'okay'
+[Sat Jul 21 15:12:15 2001] CHECKING IN
+[Sat Jul 21 15:12:16 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:12:17 2001] USER TEXT: i fell in a lava pit how do i get my body?
+[Sat Jul 21 15:12:17 2001] Players in EverQuest:
+[Sat Jul 21 15:12:17 2001] ---------------------------
+[Sat Jul 21 15:12:17 2001] [27 Paladin] Badok (Dwarf) ZONE: rivervale (USER PID DVLBDZ0)
+[Sat Jul 21 15:12:17 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:12:27 2001] Searching zones for corpse of that name....
+[Sat Jul 21 15:12:28 2001] Corpse: Badok's corpse0 in zone: soldunga
+[Sat Jul 21 15:12:31 2001] You GMSAY, 'zone'
+[Sat Jul 21 15:12:34 2001] Teleporting to kizra.
+[Sat Jul 21 15:12:35 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 15:13:08 2001] You have entered The Overthere.
+[Sat Jul 21 15:13:08 2001] You have formed the group.
+[Sat Jul 21 15:13:10 2001] Stromfist shouts, '30-40 sw corne gorup seeks shaman or druid'
+[Sat Jul 21 15:13:12 2001] Savlyn GMSAYS, 'They both would like the surname Silvermist but neither has it now'
+[Sat Jul 21 15:13:15 2001] You tell your party, 'hiya!'
+[Sat Jul 21 15:13:18 2001] UNDOING CHECK OUT
+[Sat Jul 21 15:13:22 2001] Kizra tells the group, 'hiya =)'
+[Sat Jul 21 15:13:24 2001] You tell your party, 'pull Badok again'
+[Sat Jul 21 15:13:31 2001] Darlissa shouts, 'Group looking for Tank, lvl 30-40'
+[Sat Jul 21 15:13:35 2001] Kizra tells the group, 'k'
+[Sat Jul 21 15:13:38 2001] Obzidian grins evilly at Kizra.
+[Sat Jul 21 15:13:46 2001] Mersi GMSAYS, 'I can, Sav.. what are their first names?'
+[Sat Jul 21 15:13:50 2001] Dornie shouts, 'Fast pulling grp needs another tank. Have a healer, haster, and sower. What more could you want? )'
+[Sat Jul 21 15:13:51 2001] Kizra says, 'LOL'
+[Sat Jul 21 15:14:05 2001] You tell your party, 'so what do we do?'
+[Sat Jul 21 15:14:11 2001] Kolasie says out of character, '35 rogue lfg'
+[Sat Jul 21 15:14:13 2001] Your feet leave the ground.
+[Sat Jul 21 15:14:19 2001] Kizra tells the group, 'I already did a /sea to make sure corpse is in that zone'
+[Sat Jul 21 15:14:25 2001] You tell your party, 'okay, now what?'
+[Sat Jul 21 15:14:27 2001] Kizra tells the group, 'so now we do a /find with the 00 on end'
+[Sat Jul 21 15:14:34 2001] Kizra tells the group, 'and then a /goto'
+[Sat Jul 21 15:14:35 2001] You tell your party, 'nah, we go to the zone'
+[Sat Jul 21 15:14:40 2001] Kizra tells the group, 'pooey lol'
+[Sat Jul 21 15:14:43 2001] You tell your party, 'can't find corpses outside of the zone'
+[Sat Jul 21 15:14:54 2001] You GMSAY, 'Taking Kizra to Sol A for training'
+[Sat Jul 21 15:14:56 2001] You GMSAY, 'zone'
+[Sat Jul 21 15:14:59 2001] Kizra tells the group, 'oh, I figured we could 'cause we can search it'
+[Sat Jul 21 15:14:59 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 15:15:25 2001] You have entered Solusek's Eye.
+[Sat Jul 21 15:15:25 2001] You have formed the group.
+[Sat Jul 21 15:15:32 2001] You tell your party, 'say zone'
+[Sat Jul 21 15:15:37 2001] Kizra GMSAYS, 'Zone'
+[Sat Jul 21 15:15:40 2001] Searching zones for corpse of that name....
+[Sat Jul 21 15:15:41 2001] Corpse: Badok's corpse0 in zone: soldunga
+[Sat Jul 21 15:15:46 2001] Summoning kizra.
+[Sat Jul 21 15:16:21 2001] You GMSAY, '<note> Took Kizra to Sol A for training'
+[Sat Jul 21 15:16:26 2001] You tell your party, 'next step?'
+[Sat Jul 21 15:16:27 2001] Mersi GMSAYS, 'do they mind if I change them now? I need to do training with Esp in a bit)'
+[Sat Jul 21 15:16:46 2001] Kizra tells the group, 'can we do a /goto corpse?'
+[Sat Jul 21 15:16:54 2001] You tell your party, 'sure, but we'll probably die'
+[Sat Jul 21 15:17:01 2001] You tell your party, 'getting lost in lava is a special case'
+[Sat Jul 21 15:17:09 2001] You tell your party, 'one covered specially in the P&P actually'
+[Sat Jul 21 15:17:11 2001] young goblin wizard begins to cast a spell. (O'Keils Radiation)
+[Sat Jul 21 15:17:19 2001] Kizra tells the group, 'ahhh'
+[Sat Jul 21 15:17:27 2001] You tell your party, 'first we make sure lev is up'
+[Sat Jul 21 15:17:28 2001] Your feet leave the ground.
+[Sat Jul 21 15:17:30 2001] You tell your party, 'like that'
+[Sat Jul 21 15:17:31 2001] You feel the spirit of Norrath enter you.
+[Sat Jul 21 15:17:35 2001] You tell your party, 'speed too'
+[Sat Jul 21 15:17:40 2001] Kizra tells the group, 'right'
+[Sat Jul 21 15:17:43 2001] You tell your party, 'then we find it with the find command'
+[Sat Jul 21 15:17:43 2001] young goblin wizard begins to cast a spell. (O'Keils Radiation)
+[Sat Jul 21 15:17:50 2001] Searching for badok's corpse0.
+[Sat Jul 21 15:17:50 2001] Player is in zone soldunga at x = -488 y = -530 z = 17.
+[Sat Jul 21 15:17:58 2001] You tell your party, 'go invulnerable'
+[Sat Jul 21 15:18:02 2001] You are invulnerable.
+[Sat Jul 21 15:18:04 2001] Kizra tells the group, 'which is /find <name>00'
+[Sat Jul 21 15:18:13 2001] You tell your party, 'I did /find Badok's corpse0'
+[Sat Jul 21 15:18:13 2001] Kizra tells the group, 'or no 00 for corse?'
+[Sat Jul 21 15:18:16 2001] young goblin says 'Die by lava - Die by flame - Fire Peak goblins kill and maim. 
+[Sat Jul 21 15:18:16 2001] young goblin says 'Dwarves have no place in our realm!'
+[Sat Jul 21 15:18:17 2001] You tell your party, 'one zero'
+[Sat Jul 21 15:18:19 2001] Kizra tells the group, 'ok, gotcha'
+[Sat Jul 21 15:18:23 2001] Teleporting to Badok's corpse0 (-487.00, -529.00,  16.18).
+[Sat Jul 21 15:18:24 2001] Molilo begins to cast a spell. (Wrath)
+[Sat Jul 21 15:18:30 2001] You tell your party, 'and it is here in the lava'
+[Sat Jul 21 15:18:30 2001] Molilo begins to cast a spell. (Root)
+[Sat Jul 21 15:18:35 2001] You tell your party, 'invulnerability protects me'
+[Sat Jul 21 15:18:37 2001] Molilo begins to cast a spell. (Wrath)
+[Sat Jul 21 15:18:46 2001] You tell your party, 'now the hard part'
+[Sat Jul 21 15:18:49 2001] Molilo begins to cast a spell. (Wrath)
+[Sat Jul 21 15:18:55 2001] Molilo begins to cast a spell. (Wrath)
+[Sat Jul 21 15:18:58 2001] You tell your party, 'the P&P specifies we must bring the corpse to the nearest bit of land'
+[Sat Jul 21 15:19:02 2001] Molilo begins to cast a spell. (Force)
+[Sat Jul 21 15:19:03 2001] Your invulnerability fades.
+[Sat Jul 21 15:19:07 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:07 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:07 2001] You can't use that command right now...
+[Sat Jul 21 15:19:07 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:07 2001] You can't use that command right now...
+[Sat Jul 21 15:19:08 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:08 2001] You can't use that command right now...
+[Sat Jul 21 15:19:08 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:08 2001] You can't use that command right now...
+[Sat Jul 21 15:19:08 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:09 2001] You can't use that command right now...
+[Sat Jul 21 15:19:09 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:09 2001] You can't use that command right now...
+[Sat Jul 21 15:19:09 2001] You can't use that command right now...
+[Sat Jul 21 15:19:10 2001] You can't use that command right now...
+[Sat Jul 21 15:19:10 2001] You can't use that command right now...
+[Sat Jul 21 15:19:10 2001] You can't use that command right now...
+[Sat Jul 21 15:19:10 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:10 2001] You can't use that command right now...
+[Sat Jul 21 15:19:10 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:11 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:11 2001] Molilo begins to cast a spell. (Wrath)
+[Sat Jul 21 15:19:11 2001] You can't use that command right now...
+[Sat Jul 21 15:19:11 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:11 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:12 2001] Your feet leave the ground.
+[Sat Jul 21 15:19:14 2001] Young goblin has been struck down by wrath.
+[Sat Jul 21 15:19:14 2001] young goblin has been slain by Molilo!
+[Sat Jul 21 15:19:18 2001] Summoning kizra.
+[Sat Jul 21 15:19:34 2001] You tell your party, 'which is right here - I was lucky to be able to get up'
+[Sat Jul 21 15:19:41 2001] Summoning Badok's corpse0.
+[Sat Jul 21 15:19:53 2001] You tell your party, 'and there is his slightly singed corpse'
+[Sat Jul 21 15:19:54 2001] Savlyn tells the guild, 'How do I look =)'
+[Sat Jul 21 15:19:54 2001] young goblin wizard begins to cast a spell. (O'Keils Radiation)
+[Sat Jul 21 15:19:55 2001] Kizra tells the group, 'in the case, does it have to be player friendly spot?'
+[Sat Jul 21 15:19:58 2001] You tell your party, 'no'
+[Sat Jul 21 15:20:00 2001] Kizra tells the group, 'lol'
+[Sat Jul 21 15:20:00 2001] Mersi tells the guild, 'very... white )'
+[Sat Jul 21 15:20:01 2001] You tell your party, 'nearest bit of land'
+[Sat Jul 21 15:20:05 2001] Savlyn tells the guild, 'LOL'
+[Sat Jul 21 15:20:12 2001] Freoder begins to cast a spell. (Light Healing)
+[Sat Jul 21 15:20:14 2001] Molilo begins to cast a spell. (Calm)
+[Sat Jul 21 15:20:17 2001] Mazarine begins to cast a spell. (Invisibility)
+[Sat Jul 21 15:20:19 2001] Freoder begins to cast a spell. (Light Healing)
+[Sat Jul 21 15:20:23 2001] You tell your party, 'then you tell the player and close the petition'
+[Sat Jul 21 15:20:26 2001] Freoder begins to cast a spell. (Light Healing)
+[Sat Jul 21 15:20:26 2001] Kizra tells the group, 'ok, the command used was /summon Badok's corpse0?'
+[Sat Jul 21 15:20:31 2001] Freoder begins to cast a spell. (Light Healing)
+[Sat Jul 21 15:20:31 2001] Savlyn tells the guild, 'Oh Nice napping at the wedding'
+[Sat Jul 21 15:20:37 2001] Freoder begins to cast a spell. (Light Healing)
+[Sat Jul 21 15:20:38 2001] You tell your party, 'I already had it targeted, so I just did /summon'
+[Sat Jul 21 15:20:51 2001] You tell your party, 'if I hadn't had it targeted, I could have done /summon Badok's corpse0'
+[Sat Jul 21 15:20:59 2001] Mazarine begins to cast a spell. (Invisibility)
+[Sat Jul 21 15:21:03 2001] You tell your party, 'or /find... and then /summon'
+[Sat Jul 21 15:21:04 2001] Kizra tells the group, 'k, makes sense'
+[Sat Jul 21 15:21:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:21:13 2001] USER TEXT: GM resurrection please - in Dagnor's Cauldron I was kiting a tidal lord then he went invisible and kicked the crap outta me - I did have him targeted but he was not visible, Galadan was a witness
+[Sat Jul 21 15:21:14 2001] Players in EverQuest:
+[Sat Jul 21 15:21:14 2001] ---------------------------
+[Sat Jul 21 15:21:14 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 21 15:21:20 2001] Kizra GMSAYS, 'Deleting Badok, issue resolved'
+[Sat Jul 21 15:21:28 2001] You tell your party, 'okay, gate on out :)'
+[Sat Jul 21 15:21:31 2001] Kizra tells the group, 'k'
+[Sat Jul 21 15:21:35 2001] Kizra fades away.
+[Sat Jul 21 15:21:47 2001] Searching zones for corpse of that name....
+[Sat Jul 21 15:21:47 2001] Corpse: Aethyrion's corpse0 in zone: cauldron
+[Sat Jul 21 15:21:49 2001] You GMSAY, 'zone'
+[Sat Jul 21 15:21:52 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 15:22:16 2001] You have entered Dagnor's Cauldron.
+[Sat Jul 21 15:22:16 2001] You have formed the group.
+[Sat Jul 21 15:22:26 2001] Kizra GMSAYS, 'Ahem, zoned without saying zone...bad Kizra, BAD'
+[Sat Jul 21 15:22:33 2001] You GMSAY, 'uh oh'
+[Sat Jul 21 15:22:36 2001] You GMSAY, ':)'
+[Sat Jul 21 15:22:46 2001] Searching for aqua_tidal_lord00.
+[Sat Jul 21 15:22:46 2001] Could not locate player with that name.
+[Sat Jul 21 15:22:48 2001] Kizra GMSAYS, 'on that lovely note, I'm gonna camp out hehe'
+[Sat Jul 21 15:22:51 2001] Searching for an_aqua_tidal_lord00.
+[Sat Jul 21 15:22:51 2001] Could not locate player with that name.
+[Sat Jul 21 15:22:57 2001] You GMSAY, 'later Kiz!'
+[Sat Jul 21 15:22:58 2001] Savlyn GMSAYS, 'Nite Kizra'
+[Sat Jul 21 15:23:00 2001] Your group has been disbanded.
+[Sat Jul 21 15:23:08 2001] Searching for an_aqua_goblin_tidal_lord00.
+[Sat Jul 21 15:23:09 2001] Could not locate player with that name.
+[Sat Jul 21 15:23:10 2001] Kizra GMSAYS, 'Night all, see ya another day'
+[Sat Jul 21 15:23:24 2001] Teleporting to aethyrion's corpse0.
+[Sat Jul 21 15:23:24 2001] Mersi GMSAYS, 'later Kizra'
+[Sat Jul 21 15:23:29 2001] aqua goblin shaman begins to cast a spell. (Sicken)
+[Sat Jul 21 15:23:41 2001] aqua goblin shaman begins to cast a spell. (Tainted Breath)
+[Sat Jul 21 15:23:44 2001] Teleporting to aqua_goblin_tidal_lord00.
+[Sat Jul 21 15:23:56 2001] Teleporting to aqua_goblin_tidal_lord01.
+[Sat Jul 21 15:23:59 2001] Teleporting to aqua_goblin_tidal_lord02.
+[Sat Jul 21 15:24:01 2001] Teleporting to aqua_goblin_tidal_lord03.
+[Sat Jul 21 15:24:06 2001] Teleporting to aqua_goblin_tidal_lord04.
+[Sat Jul 21 15:24:14 2001] Teleporting to aqua_goblin_tidal_lord05.
+[Sat Jul 21 15:24:20 2001] Teleporting to aqua_goblin_tidal_lord06.
+[Sat Jul 21 15:24:20 2001] Objaw shouts, 'ooo a gm.. all bow'
+[Sat Jul 21 15:24:26 2001] Teleporting to aqua_goblin_tidal_lord07.
+[Sat Jul 21 15:24:28 2001] Teleporting to aqua_goblin_tidal_lord08.
+[Sat Jul 21 15:24:33 2001] Teleporting to aqua_goblin_tidal_lord00.
+[Sat Jul 21 15:24:44 2001] Teleporting to aqua_goblin_tidal_lord00.
+[Sat Jul 21 15:25:03 2001] Teleporting to aqua_goblin_tidal_lord00 (-978.00, -1309.00, -25.40).
+[Sat Jul 21 15:25:15 2001] Teleporting to aqua_goblin_tidal_lord00 (-1101.00, -1367.00, -29.60).
+[Sat Jul 21 15:25:24 2001] You have become better at Swimming! (114)
+[Sat Jul 21 15:25:34 2001] Teleporting to aqua_goblin_tidal_lord01.
+[Sat Jul 21 15:25:38 2001] Mersi tells the guild, 'wanna see what full seas looks like on you.. and the tranquility plate =)'
+[Sat Jul 21 15:25:40 2001] Teleporting to aqua_goblin_tidal_lord02.
+[Sat Jul 21 15:25:43 2001] Teleporting to aqua_goblin_tidal_lord03.
+[Sat Jul 21 15:25:49 2001] Teleporting to aqua_goblin_tidal_lord04.
+[Sat Jul 21 15:25:57 2001] Savlyn tells the guild, 'I only have the tunic on me'
+[Sat Jul 21 15:25:58 2001] Players in EverQuest:
+[Sat Jul 21 15:25:58 2001] ---------------------------
+[Sat Jul 21 15:25:58 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 21 15:26:03 2001] Players in EverQuest:
+[Sat Jul 21 15:26:03 2001] ---------------------------
+[Sat Jul 21 15:26:03 2001] [ANON (44 Enchanter)] Aethereal (Erudite) ZONE: paineel (USER PID FSUQLM1)
+[Sat Jul 21 15:26:03 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:26:03 2001] Mersi tells the guild, 'bah'
+[Sat Jul 21 15:26:07 2001] Savlyn tells the guild, 'LOL'
+[Sat Jul 21 15:26:10 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Jul 21 15:26:11 2001] CHECKING IN
+[Sat Jul 21 15:26:12 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:26:13 2001] USER TEXT: how do i change text colors?
+[Sat Jul 21 15:26:13 2001] Players in EverQuest:
+[Sat Jul 21 15:26:13 2001] ---------------------------
+[Sat Jul 21 15:26:13 2001] [ANON (12 Paladin)] Pela (Human) ZONE: crushbone (USER PID AVSUURV)
+[Sat Jul 21 15:26:13 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:26:18 2001] Format: /usercolor <number> <red> <green> <blue>
+[Sat Jul 21 15:26:18 2001] <number> -> 1 to 34
+[Sat Jul 21 15:26:18 2001] <red> <green> <blue> -> 0 to 255
+[Sat Jul 21 15:26:18 2001] To reset a user color use /usercolor <number> reset
+[Sat Jul 21 15:26:18 2001] To display a list of usercolor #'s use /usercolor help
+[Sat Jul 21 15:26:22 2001] Mersi tells the guild, 'supposed to carry more back packs so you can have one of everything on you at all times )'
+[Sat Jul 21 15:26:37 2001] Objaw shouts, 'Neeeoooo'
+[Sat Jul 21 15:26:46 2001] Savlyn tells the guild, 'LOL I have 2 packs now and thought that was wrong =)'
+[Sat Jul 21 15:26:49 2001] You told Pela, 'Hail, Pela! Guide Espranza here. Please type /usercolor for more help on changing text colors...'
+[Sat Jul 21 15:26:55 2001] DELETING THIS PETITION
+[Sat Jul 21 15:26:57 2001] Mersi tells the guild, 'I have uh... 6 =)'
+[Sat Jul 21 15:26:57 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:26:58 2001] USER TEXT: is the boat to oot working
+[Sat Jul 21 15:26:58 2001] Players in EverQuest:
+[Sat Jul 21 15:26:58 2001] ---------------------------
+[Sat Jul 21 15:26:58 2001] [26 Warrior] Gonaddil (Human) <Hunters of the Undead> ZONE: oot (USER PID HU1ZE8N)
+[Sat Jul 21 15:26:58 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:27:01 2001] Savlyn tells the guild, 'LOL'
+[Sat Jul 21 15:27:05 2001] Pela tells you, 'i dont understand what to do '
+[Sat Jul 21 15:27:21 2001] Pela tells you, 'what are all those numbers?'
+[Sat Jul 21 15:27:30 2001] Savlyn tells the guild, 'But I couldnt cary the cake and Ice cream without the other'
+[Sat Jul 21 15:27:32 2001] You told Pela, 'they are the color codes'
+[Sat Jul 21 15:27:53 2001] You told Pela, 'which color did you want to change?'
+[Sat Jul 21 15:28:02 2001] Pela tells you, 'what do i do with them'
+[Sat Jul 21 15:28:37 2001] Pela tells you, 'i want it to be yellow when it says i hit something'
+[Sat Jul 21 15:28:44 2001] Format: /usercolor <number> <red> <green> <blue>
+[Sat Jul 21 15:28:44 2001] <number> -> 1 to 34
+[Sat Jul 21 15:28:44 2001] <red> <green> <blue> -> 0 to 255
+[Sat Jul 21 15:28:44 2001] To reset a user color use /usercolor <number> reset
+[Sat Jul 21 15:28:44 2001] To display a list of usercolor #'s use /usercolor help
+[Sat Jul 21 15:28:51 2001] Here is a list of usercolor numbers:
+[Sat Jul 21 15:28:51 2001]  1 - Say
+[Sat Jul 21 15:28:51 2001]  2 - Tell
+[Sat Jul 21 15:28:51 2001]  3 - Group
+[Sat Jul 21 15:28:51 2001]  4 - Guild
+[Sat Jul 21 15:28:51 2001]  5 - OOC
+[Sat Jul 21 15:28:51 2001]  6 - Auction
+[Sat Jul 21 15:28:51 2001]  7 - Shout
+[Sat Jul 21 15:28:51 2001]  8 - Emote
+[Sat Jul 21 15:28:51 2001]  9 - Spells (meming, scribing, casting, etc.)
+[Sat Jul 21 15:28:51 2001]  10 - You hit other
+[Sat Jul 21 15:28:51 2001]  Type /usercolor page2 for numbers 11 - 20
+[Sat Jul 21 15:29:14 2001] You told Pela, 'do /usercolor 10 255 255 0'
+[Sat Jul 21 15:29:44 2001] Pela tells you, 'is it supposed to say something now?'
+[Sat Jul 21 15:29:50 2001] Dolcemorte says out of character, 'espranza~~'
+[Sat Jul 21 15:29:53 2001] Kinanur shouts, '19 war LFG in Unrest'
+[Sat Jul 21 15:30:05 2001] You told Pela, 'I don't think so - try hitting something'
+[Sat Jul 21 15:30:12 2001] You told dolcemorte, 'hiya!'
+[Sat Jul 21 15:30:17 2001] Savlyn tells the guild, 'Can they get the surname Silvermist if neither has it now?'
+[Sat Jul 21 15:30:23 2001] Dolcemorte tells you, 'heh'
+[Sat Jul 21 15:30:30 2001] Celesra GMSAYS, 'aww, comon! Has Rynara been on?'
+[Sat Jul 21 15:30:34 2001] Pela tells you, 'YAY'
+[Sat Jul 21 15:30:38 2001] Pela tells you, 'thank you'
+[Sat Jul 21 15:30:38 2001] You told Pela, ':)'
+[Sat Jul 21 15:30:41 2001] You told Pela, 'anytime'
+[Sat Jul 21 15:30:44 2001] You GMSAY, 'haven't seen her'
+[Sat Jul 21 15:30:44 2001] Savlyn GMSAYS, 'Haven't seen her'
+[Sat Jul 21 15:30:46 2001] Players in EverQuest:
+[Sat Jul 21 15:30:46 2001] ---------------------------
+[Sat Jul 21 15:30:46 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: dreadlands (USER PID GX2YWXV)
+[Sat Jul 21 15:30:46 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cauldron (USER PID AUGBQH4)
+[Sat Jul 21 15:30:46 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: rivervale (USER PID BSQ3K8R)
+[Sat Jul 21 15:30:46 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: rivervale (USER PID EUGBAB8)
+[Sat Jul 21 15:30:46 2001] There are 4 players in EverQuest.
+[Sat Jul 21 15:30:48 2001] Mersi GMSAYS, 'not sure, Celesra.. not while I have been on'
+[Sat Jul 21 15:30:49 2001] You GMSAY, 'jynx!'
+[Sat Jul 21 15:31:16 2001] USER TEXT: is the boat to oot working
+[Sat Jul 21 15:31:17 2001] Celesra GMSAYS, 'Dang. I wanna take the stinkin test =)'
+[Sat Jul 21 15:31:19 2001] Savlyn GMSAYS, 'LOL'
+[Sat Jul 21 15:31:30 2001] Celesra GMSAYS, 'I gotta log for a sec, brb'
+[Sat Jul 21 15:31:31 2001] You GMSAY, 'the stinkin' test? are you an ogre?'
+[Sat Jul 21 15:31:31 2001] Mersi GMSAYS, 'I love pulling names of spouses out of hats /sigh'
+[Sat Jul 21 15:31:31 2001] You feel as if you are about to fall.
+[Sat Jul 21 15:31:37 2001] You feel as if you are about to fall.
+[Sat Jul 21 15:31:43 2001] You can no longer levitate.
+[Sat Jul 21 15:31:46 2001] Celesra GMSAYS, 'no!'
+[Sat Jul 21 15:31:49 2001] Your feet leave the ground.
+[Sat Jul 21 15:32:00 2001] You GMSAY, 'a, troll :)'
+[Sat Jul 21 15:32:09 2001] Kinanur shouts, '19 war LFG in Unrest'
+[Sat Jul 21 15:32:20 2001] Espranza saved.
+[Sat Jul 21 15:32:24 2001] Savlyn GMSAYS, 'Answer this question and your a Guide? How Many Gallons of Water is there in Ocean of Tears??'
+[Sat Jul 21 15:32:31 2001] USER TEXT: is the boat to oot working
+[Sat Jul 21 15:32:36 2001] Mersi GMSAYS, 'LoL'
+[Sat Jul 21 15:32:39 2001] Players in EverQuest:
+[Sat Jul 21 15:32:39 2001] ---------------------------
+[Sat Jul 21 15:32:39 2001] [26 Warrior] Gonaddil (Human) <Hunters of the Undead> ZONE: oot (USER PID HU1ZE8N)
+[Sat Jul 21 15:32:39 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:32:52 2001] You told Gonaddil, 'Hail, Gonaddil! Guide Espranza here. It seems to be working :)'
+[Sat Jul 21 15:32:54 2001] DELETING THIS PETITION
+[Sat Jul 21 15:32:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:32:56 2001] USER TEXT: I was told i need to get aahold of GM Lirus to deal with my problem so if he gets on could he contact me? Thanks
+[Sat Jul 21 15:32:56 2001] Players in EverQuest:
+[Sat Jul 21 15:32:56 2001] ---------------------------
+[Sat Jul 21 15:32:56 2001] [ANON (8 Bard)] Dorame (Human) ZONE: qeytoqrg (USER PID EXZVNVX)
+[Sat Jul 21 15:32:56 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:33:14 2001] You told Dorame, 'Hail, Dorame! Guide Espranza here. What problem is it, so I could tell Lirus?'
+[Sat Jul 21 15:33:17 2001] Gonaddil tells you, 'nm it was jsut taking for even and was just wondering if there was some prob )'
+[Sat Jul 21 15:33:17 2001] Players in EverQuest:
+[Sat Jul 21 15:33:17 2001] ---------------------------
+[Sat Jul 21 15:33:17 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 21 15:33:37 2001] You told Gonaddil, 'I think maybe petitioning makes the boat move faster :) works for me'
+[Sat Jul 21 15:33:43 2001] Kinanur shouts, 'Bringing BOSUN gob to the Unrest ZONE'
+[Sat Jul 21 15:33:52 2001] Kinanur shouts, 'TRAIN TO ZONE'
+[Sat Jul 21 15:33:55 2001] Gonaddil tells you, 'lol once i petition about 2mins later boat was there lol'
+[Sat Jul 21 15:34:01 2001] Objaw shouts, 'dong bring him here im weak'
+[Sat Jul 21 15:34:01 2001] Dolcemorte tells you, 'im going to have petition again right? bc i dont think lirus will be on soon'
+[Sat Jul 21 15:34:08 2001] You told Gonaddil, 'see? boats don't like being petitioned.'
+[Sat Jul 21 15:34:17 2001] Dorame tells you, 'i e mailed him about it  but my char was erased by my daughter (7years old) and im hoping we can retrieve it'
+[Sat Jul 21 15:34:19 2001] Kinanur says out of character, 'THANK YOU FOR THE HELP'
+[Sat Jul 21 15:34:21 2001] Gonaddil tells you, 'ok thanks for ur time )'
+[Sat Jul 21 15:34:23 2001] You told Dolcemorte, 'if you log you'll have to repetition when you get back on.'
+[Sat Jul 21 15:34:27 2001] You told Gonaddil, 'anytime - be well!'
+[Sat Jul 21 15:34:32 2001] Galadan says out of character, 'No prob'
+[Sat Jul 21 15:34:36 2001] You told Dorame, 'Which character was it?'
+[Sat Jul 21 15:34:39 2001] Gonaddil tells you, 'u too'
+[Sat Jul 21 15:34:47 2001] Dolcemorte tells you, 'no im not gona log.. just 3 hours soon'
+[Sat Jul 21 15:34:52 2001] Dorame tells you, 'i talked to a junior guide this morning about it   Aeliel '
+[Sat Jul 21 15:35:07 2001] Dorame tells you, '4 were erased but thats my main char'
+[Sat Jul 21 15:35:17 2001] You told Dorame, 'okay, I'll pass this along to Lirus when he comes on. If you log, you'll have to repetition.'
+[Sat Jul 21 15:35:22 2001] You told Dorame, 'which four?'
+[Sat Jul 21 15:35:27 2001] Dorame tells you, 'ok ill be here'
+[Sat Jul 21 15:35:31 2001] Mersi tells the guild, 'uh Sav... who are the bride and groom?'
+[Sat Jul 21 15:35:45 2001] Dorame tells you, 'i only play 2  the other is Dalaeny'
+[Sat Jul 21 15:36:27 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sat Jul 21 15:36:27 2001] GM TEXT: Espranza: Dorame says the characters Aeliel and Dalaeny were deleted by his or her seven year old daughter and would like them undeleted if possible.
+[Sat Jul 21 15:36:29 2001] STATUS UPGRADED TO URGENT
+[Sat Jul 21 15:36:29 2001] STATUS UPGRADED TO EMERGENCY
+[Sat Jul 21 15:36:37 2001] You GMSAY, 'escalating Dorame - character undeletion'
+[Sat Jul 21 15:36:39 2001] CHECKING IN
+[Sat Jul 21 15:36:46 2001] Dorame tells you, 'the other 2 i dont even remember but no concern   Thank you'
+[Sat Jul 21 15:36:55 2001] You told Dorame, 'okay, Lirus will look at it when he gets in. Be well!'
+[Sat Jul 21 15:36:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:36:59 2001] USER TEXT: I was told i need to get aahold of GM Lirus to deal with my problem so if he gets on could he contact me? Thanks
+[Sat Jul 21 15:36:59 2001] Players in EverQuest:
+[Sat Jul 21 15:36:59 2001] ---------------------------
+[Sat Jul 21 15:36:59 2001] [ANON (8 Bard)] Dorame (Human) ZONE: qeytoqrg (USER PID EXZVNVX)
+[Sat Jul 21 15:36:59 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:37:01 2001] UNDOING CHECK OUT
+[Sat Jul 21 15:37:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:37:03 2001] USER TEXT: Can I have some assistance with someone KSing
+[Sat Jul 21 15:37:03 2001] Players in EverQuest:
+[Sat Jul 21 15:37:03 2001] ---------------------------
+[Sat Jul 21 15:37:03 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 21 15:37:10 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Jul 21 15:37:11 2001] CHECKING IN
+[Sat Jul 21 15:37:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:37:14 2001] USER TEXT: GM resurrection please - in Dagnor's Cauldron I was kiting a tidal lord then he went invisible and kicked the crap outta me - I did have him targeted but he was not visible, Galadan was a witness
+[Sat Jul 21 15:37:14 2001] Players in EverQuest:
+[Sat Jul 21 15:37:14 2001] ---------------------------
+[Sat Jul 21 15:37:14 2001] [ANON (22 Ranger)] Aethyrion (Wood Elf) ZONE: cauldron (USER PID GQJCZ64)
+[Sat Jul 21 15:37:14 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:37:33 2001] Dorame tells you, 'you to  and i will do my best. '
+[Sat Jul 21 15:37:49 2001] You told Aethyrion, 'Hail, Aethyrion! Guide Espranza here. I checked out your corpse and all the tidal lords I could find; I couldn't find any unusual tidal lords...'
+[Sat Jul 21 15:38:17 2001] Celesra GMSAYS, 'back'
+[Sat Jul 21 15:38:29 2001] Mersi GMSAYS, 'both surnames are granted'
+[Sat Jul 21 15:38:30 2001] You GMSAY, 'welcome back, Celesra. Staying?'
+[Sat Jul 21 15:38:33 2001] Aethyrion tells you, 'hehe - it's been that kind of day - Yeah it was weird, I had kited him to the tunnel to Unrest, and he was still on target but...'
+[Sat Jul 21 15:38:55 2001] Celesra GMSAYS, 'can anyone else give the test except Rynara? Yeah, for the time being. I have to eat supper here pretty soon.'
+[Sat Jul 21 15:39:11 2001] You GMSAY, 'I'll group with you then'
+[Sat Jul 21 15:39:26 2001] Aethyrion tells you, 'I never saw him.  Anyways, he starts hitting me for 35, 40, 50 and I look around and he's not there.  I cast and ther's a flash and he takes damage....'
+[Sat Jul 21 15:39:29 2001] Mersi GMSAYS, 'Ryn does testing... does she have an appointment for you today?'
+[Sat Jul 21 15:39:42 2001] Celesra GMSAYS, 'No..just hit 35 today.'
+[Sat Jul 21 15:39:58 2001] Celesra GMSAYS, 'I e-mailed her though..'
+[Sat Jul 21 15:40:00 2001] Mersi GMSAYS, 'OK I will let her know that you need 5 more hours till you can be tested )'
+[Sat Jul 21 15:40:13 2001] You told Aethyrion, 'well what may have happened is you pulled him right under the world and he got out by the time I got here...'
+[Sat Jul 21 15:40:24 2001] You told Aethyrion, 'Unfortunately, I can't rez for it.'
+[Sat Jul 21 15:40:24 2001] Celesra GMSAYS, 'grr. I'm confused. Thought it was 35 hours before you're tested?'
+[Sat Jul 21 15:40:26 2001] Aethyrion tells you, 'but he still hasn't become visible.  I put my auto-attack on to see if I can hit him, and I can't, een using the flashes of flame as a guide.'
+[Sat Jul 21 15:40:32 2001] Mersi GMSAYS, '40 =)'
+[Sat Jul 21 15:40:52 2001] Celesra GMSAYS, '*glares at Savlyn* Guess some people gave me false information!'
+[Sat Jul 21 15:41:04 2001] Aethyrion tells you, 'doh, oh well - guess you have enough to do anyway today so thanks anyways'
+[Sat Jul 21 15:41:13 2001] Celesra GMSAYS, 'darn it'
+[Sat Jul 21 15:41:14 2001] Mersi GMSAYS, '/grin'
+[Sat Jul 21 15:41:15 2001] You told Aethyrion, 'I wish I could help.... I love being able to rez people.'
+[Sat Jul 21 15:41:18 2001] DELETING THIS PETITION
+[Sat Jul 21 15:41:20 2001] You GMSAY, 'zone'
+[Sat Jul 21 15:41:22 2001] Teleporting to celesra.
+[Sat Jul 21 15:41:34 2001] Celesra GMSAYS, '/sigh...pulling Rimedear...'
+[Sat Jul 21 15:41:34 2001] Players in EverQuest:
+[Sat Jul 21 15:41:34 2001] ---------------------------
+[Sat Jul 21 15:41:34 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: dreadlands (USER PID GX2YWXV)
+[Sat Jul 21 15:41:34 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cauldron (USER PID AUGBQH4)
+[Sat Jul 21 15:41:34 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: rivervale (USER PID BSQ3K8R)
+[Sat Jul 21 15:41:34 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: rivervale (USER PID EUGBAB8)
+[Sat Jul 21 15:41:34 2001] There are 4 players in EverQuest.
+[Sat Jul 21 15:41:35 2001] Players in EverQuest:
+[Sat Jul 21 15:41:35 2001] ---------------------------
+[Sat Jul 21 15:41:35 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: dreadlands (USER PID GX2YWXV)
+[Sat Jul 21 15:41:35 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cauldron (USER PID AUGBQH4)
+[Sat Jul 21 15:41:35 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: rivervale (USER PID BSQ3K8R)
+[Sat Jul 21 15:41:35 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: rivervale (USER PID EUGBAB8)
+[Sat Jul 21 15:41:35 2001] There are 4 players in EverQuest.
+[Sat Jul 21 15:41:37 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 15:42:10 2001] You have entered Dreadlands.
+[Sat Jul 21 15:42:20 2001] You invite Celesra to join your group.
+[Sat Jul 21 15:42:24 2001] You have formed the group.
+[Sat Jul 21 15:42:25 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 15:42:26 2001] USER TEXT: got a kser named rakhan stood a round and wathced us fight in hp and when we pulled and engaged a named ork attack killed and looted  hes red to me at 22 and said there was no loot on the ork i ask for the loot and ask him not to ks us and he sa
+[Sat Jul 21 15:42:26 2001] Players in EverQuest:
+[Sat Jul 21 15:42:26 2001] ---------------------------
+[Sat Jul 21 15:42:26 2001] [22 Paladin] Snapur (Dwarf) <Mystical Lightfighters> ZONE: highpass (USER PID EWXXB3L)
+[Sat Jul 21 15:42:26 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:42:28 2001] You tell your party, 'Hi!'
+[Sat Jul 21 15:42:34 2001] Celesra tells the group, 'dang it....ugh. Hey'
+[Sat Jul 21 15:42:42 2001] Mersi GMSAYS, 'ok Celesra... delete his pet )'
+[Sat Jul 21 15:42:48 2001] Celesra tells the group, 'I wanted to be tested soo bad.. =('
+[Sat Jul 21 15:42:52 2001] Celesra GMSAYS, 'sure thing'
+[Sat Jul 21 15:42:57 2001] You tell your party, 'heh... well five hours isn't so much.'
+[Sat Jul 21 15:43:04 2001] You can no longer levitate.
+[Sat Jul 21 15:43:05 2001] Celesra GMSAYS, 'deleted...pulling Oliwa'
+[Sat Jul 21 15:43:07 2001] You are invulnerable.
+[Sat Jul 21 15:43:37 2001] Players in EverQuest:
+[Sat Jul 21 15:43:37 2001] ---------------------------
+[Sat Jul 21 15:43:37 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 21 15:43:45 2001] Players in EverQuest:
+[Sat Jul 21 15:43:45 2001] ---------------------------
+[Sat Jul 21 15:43:45 2001] [ANON (27 Shadow Knight)] Rakhan (Dark Elf) ZONE: kithicor (USER PID AX68YTM)
+[Sat Jul 21 15:43:45 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:43:47 2001] Brindamour says out of character, 'need port to WC , will donate'
+[Sat Jul 21 15:44:03 2001] Celesra tells the group, '5 hours will be a long time. =('
+[Sat Jul 21 15:44:11 2001] Your invulnerability fades.
+[Sat Jul 21 15:44:14 2001] Mersi GMSAYS, 'anyone seen Lirus today?'
+[Sat Jul 21 15:44:27 2001] Celesra GMSAYS, 'OMG...a level 35 monk doesn't know how to report text. I smell eBay!'
+[Sat Jul 21 15:44:27 2001] You told Snapur, 'Hail, Snapur! Guide Espranza here. Were you able to make a report showing him KSing you?'
+[Sat Jul 21 15:44:43 2001] You GMSAY, 'um... lots of people don't know'
+[Sat Jul 21 15:44:47 2001] Snapur tells you, 'did u get request'
+[Sat Jul 21 15:44:50 2001] Mersi GMSAYS, 'not necessarily Celesra... I became a guide at level 46 or soemthing and didn't know how to /report'
+[Sat Jul 21 15:45:19 2001] Celesra GMSAYS, 'hmm'
+[Sat Jul 21 15:45:43 2001] Celesra GMSAYS, 'well, I'm only level 25 or so and I knew how to do it. I figured everyone did...'
+[Sat Jul 21 15:45:45 2001] Snapur tells you, 'what do u mean showing'
+[Sat Jul 21 15:46:02 2001] You told Snapur, 'I got your petition, but a /report captures text in your chat window - it is one of the best proofs we have for when something happened when we weren't there to see.'
+[Sat Jul 21 15:46:06 2001] Mersi tells the guild, 'Esp, appy in the house )'
+[Sat Jul 21 15:46:07 2001] Grumpyz auctions, 'WTS Spell: Corpal Empathy, NEC 44, 100pp'
+[Sat Jul 21 15:46:09 2001] Celesra GMSAYS, '*pulls hair out* wahhh! 5 more hours....ugh.'
+[Sat Jul 21 15:46:09 2001] You say to your guild, 'woot!'
+[Sat Jul 21 15:46:16 2001] Players in EverQuest:
+[Sat Jul 21 15:46:16 2001] ---------------------------
+[Sat Jul 21 15:46:16 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 21 15:46:22 2001] You told Snapur, 'zoning...'
+[Sat Jul 21 15:46:24 2001] Moaneek says out of character, 'I give ya 75'
+[Sat Jul 21 15:46:25 2001] You GMSAY, 'zone'
+[Sat Jul 21 15:46:28 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 15:46:47 2001] You have entered Sunset Home.
+[Sat Jul 21 15:46:47 2001] You have formed the group.
+[Sat Jul 21 15:46:51 2001] You must first select a target for this spell!
+[Sat Jul 21 15:46:52 2001] Players in EverQuest:
+[Sat Jul 21 15:46:52 2001] ---------------------------
+[Sat Jul 21 15:46:52 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 15:46:52 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID BSQ3K8R)
+[Sat Jul 21 15:46:52 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: dreadlands (USER PID GX2YWXV)
+[Sat Jul 21 15:46:53 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: rivervale (USER PID EUGBAB8)
+[Sat Jul 21 15:46:53 2001] There are 4 players in EverQuest.
+[Sat Jul 21 15:46:53 2001] Mersi GMSAYS, 'lol Cel... treasure your time as an appy.. when you are a guide you will long for the lack of kill stealing issues that you enjoyed as an appy'
+[Sat Jul 21 15:47:10 2001] Rimedear says, 'Hail, Espranza'
+[Sat Jul 21 15:47:11 2001] You bow before Rimedear.
+[Sat Jul 21 15:47:13 2001] Mersi says, 'Hello and Welcome, Rimedear )'
+[Sat Jul 21 15:47:13 2001] Snapur tells you, 'didnt know how got a whole group to testify '
+[Sat Jul 21 15:47:14 2001] You say, 'hiya!'
+[Sat Jul 21 15:47:23 2001] USER TEXT: got a kser named rakhan stood a round and wathced us fight in hp and when we pulled and engaged a named ork attack killed and looted  hes red to me at 22 and said there was no loot on the ork i ask for the loot and ask him not to ks us and he sa
+[Sat Jul 21 15:47:29 2001] Mersi says, 'a few introductions before we begin your orientation )'
+[Sat Jul 21 15:47:41 2001] You told Snapur, 'I will talk to Rakhan but without a report or a guide to witness, there is little we can do.'
+[Sat Jul 21 15:47:46 2001] Celesra GMSAYS, 'I know. Petitions get a bit boring though. I feel too much like a secretary =)'
+[Sat Jul 21 15:47:59 2001] Celesra GMSAYS, '(err, think I spelled that right)'
+[Sat Jul 21 15:48:01 2001] Rimedear listens intently.
+[Sat Jul 21 15:48:10 2001] Mersi says, 'I am senior guide Mersi... along with 3 other seniors (Lancet, Kezia and Rynara) and our server GM Lirus, I am part of Morell Thule's SMT'
+[Sat Jul 21 15:48:23 2001] Snapur tells you, 'ty for talking with him though how do u do a capture'
+[Sat Jul 21 15:48:38 2001] You told Rakhan, 'Hail, Rakhan! Guide Espranza here. I have a petition saying you KS'd a named orc...'
+[Sat Jul 21 15:48:40 2001] Mersi says, 'any time you have a problem, please come to us =) you can email us at morellthuleseniors@yahoogroups.com'
+[Sat Jul 21 15:49:07 2001] Rakhan tells you, 'i believed that i was helping'
+[Sat Jul 21 15:49:19 2001] You told Snapur, 'you type /report name, where name is the name of the person you're reporting - this captures the last ten lines of text in your chat window and sends them to Verant, where a GM can read them.'
+[Sat Jul 21 15:49:20 2001] Rakhan tells you, 'the dwarf who has petitioned pulled the orc'
+[Sat Jul 21 15:49:31 2001] Rakhan tells you, 'ran past me back to the kith zone'
+[Sat Jul 21 15:49:31 2001] Mersi says, 'if you don't have board access yet, I need you to email daily shift reports to me at mersi2001@yahoo.com'
+[Sat Jul 21 15:49:34 2001] You told Rakhan, 'Did he ask you to help?'
+[Sat Jul 21 15:49:47 2001] You say to your guild, 'still working on a pet... almost done'
+[Sat Jul 21 15:49:51 2001] Rakhan tells you, 'no but i couldnt see him and thought he'd zoned out'
+[Sat Jul 21 15:50:02 2001] Celesra GMSAYS, 'so, is Savlyn alive?'
+[Sat Jul 21 15:50:05 2001] Mersi says, 'your log should now be on, and you do get to count your orientation time as part of your shift time )'
+[Sat Jul 21 15:50:07 2001] Rimedear says, 'Okay, I'll look at guide site for board'
+[Sat Jul 21 15:50:11 2001] Mersi GMSAYS, 'aye ) hes doing a wedding'
+[Sat Jul 21 15:50:12 2001] You told Rakhan, 'Was there anything on the orc?'
+[Sat Jul 21 15:50:27 2001] Rakhan tells you, '7cp and an idol'
+[Sat Jul 21 15:50:29 2001] Celesra GMSAYS, 'ooh...can I come watch or aren't I allowed?'
+[Sat Jul 21 15:50:31 2001] Rimedear says, 'My logging is on'
+[Sat Jul 21 15:50:38 2001] Mersi says, 'they should be submitted under the date heading on the morell thule board'
+[Sat Jul 21 15:50:41 2001] Mersi says, 'good )'
+[Sat Jul 21 15:50:44 2001] You told Rakhan, 'ok, one moment please'
+[Sat Jul 21 15:50:45 2001] Rakhan tells you, 'i was going to get him to get the group to roll'
+[Sat Jul 21 15:50:50 2001] Mersi GMSAYS, 'ya you can even do weddings if you like )'
+[Sat Jul 21 15:50:57 2001] Mersi GMSAYS, 'ask Sav to summon you )'
+[Sat Jul 21 15:51:05 2001] Rakhan tells you, 'on the idol but he said he'd petitioned so i didn't'
+[Sat Jul 21 15:51:17 2001] Celesra GMSAYS, 'okies...'
+[Sat Jul 21 15:51:24 2001] You told Snapur, 'Rakhan says he thought he was saving you, the orc had 7cp and an idol, wanted to roll for the idol with you but you said you'd petitioned'
+[Sat Jul 21 15:51:41 2001] Mersi says, 'so you will submit a report for today's training as well as any other petition pulling that you want to do )'
+[Sat Jul 21 15:52:06 2001] Mersi says, 'Here on Morell Thule, we have a mentoring system for apprentices... you need to be grouped any time you are on with a full guide +'
+[Sat Jul 21 15:52:11 2001] Savlyn GMSAYS, 'Ok Mersi whenever your able'
+[Sat Jul 21 15:52:16 2001] Celesra GMSAYS, 'bah'
+[Sat Jul 21 15:52:21 2001] Celesra GMSAYS, 'of course, the wedding just ended'
+[Sat Jul 21 15:52:21 2001] Mersi GMSAYS, 'I already changed names, Sav )'
+[Sat Jul 21 15:52:23 2001] Rimedear says, 'I'm not sure about the username for the guide site, it is my name? (Rimedear)?'
+[Sat Jul 21 15:52:30 2001] Savlyn tells the guild, 'Excellent'
+[Sat Jul 21 15:52:39 2001] Mersi says, 'no.. its your play station login name all in lower case'
+[Sat Jul 21 15:52:45 2001] Snapur tells you, 'he said it only had 7cp and that was all never said any thing about rolling'
+[Sat Jul 21 15:52:49 2001] You say to your guild, 'okay I;m ready )'
+[Sat Jul 21 15:52:54 2001] Mersi says, 'your password is emailed to you at the email address you provided'
+[Sat Jul 21 15:52:55 2001] Rimedear says, 'ah thank you.  Grouped with full guide when on, check.'
+[Sat Jul 21 15:52:57 2001] Mersi tells the guild, 'ok )'
+[Sat Jul 21 15:53:00 2001] Celesra GMSAYS, 'lol, I wonder if weddings on EverQuest ever screw up real life marriages? Hahaha...'
+[Sat Jul 21 15:53:03 2001] Mersi GMSAYS, 'hehe'
+[Sat Jul 21 15:53:08 2001] You told Snapur, 'he said he felt since you'd petitioned him, he'd just talk to me'
+[Sat Jul 21 15:53:20 2001] Celesra GMSAYS, 'probably happened once or twice =)'
+[Sat Jul 21 15:53:22 2001] Mersi GMSAYS, 'well... my BF and I were married in EQ... and RL screwed that up )'
+[Sat Jul 21 15:53:44 2001] Celesra GMSAYS, 'oooh'
+[Sat Jul 21 15:54:01 2001] Rimedear says, 'I am downloading Guide Shift Reporter now'
+[Sat Jul 21 15:54:01 2001] Dolcemorte tells you, 'is my petition still in ?'
+[Sat Jul 21 15:54:10 2001] Mersi says, 'alright ) Espranza is a member of our training team, and she will take over training you for a bit ) I need to find someone to buff you.. I wonder if I can find Lirus )'
+[Sat Jul 21 15:54:14 2001] Celesra GMSAYS, '*glares at her time /played*'
+[Sat Jul 21 15:54:14 2001] Snapur tells you, 'again i ask for loot and he said there was none just 7cp and never metioned rolling'
+[Sat Jul 21 15:54:18 2001] You told Dolcemorte, 'sec, I'm on a petition now... can't see the list'
+[Sat Jul 21 15:54:23 2001] Dolcemorte tells you, 'ok'
+[Sat Jul 21 15:54:24 2001] Mersi GMSAYS, 'hehe Cel'
+[Sat Jul 21 15:54:29 2001] Rimedear says, 'Thanks very much!'
+[Sat Jul 21 15:54:32 2001] Celesra GMSAYS, 'I know, I know'
+[Sat Jul 21 15:54:32 2001] You say, 'Welcome to Morell-Thule, Rimedear!'
+[Sat Jul 21 15:54:32 2001] Mersi hugs Rimedear.
+[Sat Jul 21 15:54:38 2001] Rimedear blushes at Espranza.
+[Sat Jul 21 15:54:45 2001] Mersi GMSAYS, 'camping to go see if I can find Lirus )'
+[Sat Jul 21 15:54:46 2001] You say, 'Always nice to see another haffer!'
+[Sat Jul 21 15:54:47 2001] Rakhan tells you, 'if he will zone back through he can have it'
+[Sat Jul 21 15:54:53 2001] Savlyn GMSAYS, 'Ok'
+[Sat Jul 21 15:54:55 2001] Players in EverQuest:
+[Sat Jul 21 15:54:55 2001] ---------------------------
+[Sat Jul 21 15:54:55 2001] [ANON (27 Shadow Knight)] Rakhan (Dark Elf) ZONE: kithicor (USER PID AX68YTM)
+[Sat Jul 21 15:54:55 2001] There is 1 player in EverQuest.
+[Sat Jul 21 15:55:06 2001] Celesra GMSAYS, 'lol, alright. I gotta log for a few for supper everyone. Be back soon...'
+[Sat Jul 21 15:55:10 2001] You told Rakhan, 'okay, I'll tell him that. Thank you for being so understanding.'
+[Sat Jul 21 15:55:13 2001] Rimedear says, 'It occurred to me it might defuse any appearances'
+[Sat Jul 21 15:55:17 2001] The spirit leaves you.
+[Sat Jul 21 15:55:19 2001] Espranza finished up her petition.
+[Sat Jul 21 15:55:43 2001] You told Snapur, 'Rakhan has said that if you will zone into Kithicor, he will give you the idol. '
+[Sat Jul 21 15:55:46 2001] Rakhan tells you, 'i am kith side of the zone'
+[Sat Jul 21 15:55:49 2001] You told Snapur, 'Will that be acceptable?'
+[Sat Jul 21 15:56:10 2001] Celesra GMSAYS, 'I need someone else to handle Oliwa's petition when they get a chance please =) Bye everyone'
+[Sat Jul 21 15:56:17 2001] Snapur tells you, 'yes more them '
+[Sat Jul 21 15:56:17 2001] You say, 'Petition about someone KSing someone else... luckily I think they will be able to work this out...'
+[Sat Jul 21 15:56:23 2001] Celesra tells the group, 'bye, I'll be back soon =)'
+[Sat Jul 21 15:56:25 2001] Savlyn GMSAYS, 'Bye'
+[Sat Jul 21 15:56:27 2001] Your group has been disbanded.
+[Sat Jul 21 15:56:30 2001] You told Snapur, 'okay, I'll let him know - he's waiting on the Kith side of the zone'
+[Sat Jul 21 15:56:39 2001] Rimedear says, 'I would imagine that's common'
+[Sat Jul 21 15:56:41 2001] You told Rakhan, 'Okay, Snapur is zoning to Kith. Thank you very much!'
+[Sat Jul 21 15:56:53 2001] Snapur tells you, 'fighting now'
+[Sat Jul 21 15:56:54 2001] Espranza saved.
+[Sat Jul 21 15:56:59 2001] You say, 'What's not common is that the people work it out. It's a very nice surprise when it works that way.'
+[Sat Jul 21 15:57:03 2001] DELETING THIS PETITION
+[Sat Jul 21 15:57:06 2001] Rakhan tells you, 'i dont consider myself a Hser as he put it and actively go out of my way to help those lower than myself'
+[Sat Jul 21 15:57:14 2001] Snapur tells you, 'be there in 1 more ork'
+[Sat Jul 21 15:57:16 2001] Rimedear says, 'Aye'
+[Sat Jul 21 15:57:21 2001] You told Rakhan, 'You certainly don't sound like one! Be well.'
+[Sat Jul 21 15:57:22 2001] Rakhan tells you, 'thank-you for resolving the situation'
+[Sat Jul 21 15:57:23 2001] Players in EverQuest:
+[Sat Jul 21 15:57:23 2001] ---------------------------
+[Sat Jul 21 15:57:23 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 15:57:23 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: rivervale (USER PID EUGBAB8)
+[Sat Jul 21 15:57:23 2001] There are 2 players in EverQuest.
+[Sat Jul 21 15:57:33 2001] You GMSAY, 'queue is jumping'
+[Sat Jul 21 15:57:35 2001] You say, 'okay!'
+[Sat Jul 21 15:57:56 2001] You say, 'Have you read your apprentice guidelines and the policies and procedures?'
+[Sat Jul 21 15:57:59 2001] You feel the spirit of Norrath enter you.
+[Sat Jul 21 15:58:09 2001] Espranza offers Rimedear a seat.
+[Sat Jul 21 15:58:40 2001] Rimedear says, 'Yes, although it's pretty heady stuff.  I should probably read it again as soon as I get the idea.'
+[Sat Jul 21 15:59:22 2001] You say, 'You should print them out, if you haven't already. These documents are our guidelines - our bibles, if you will. These guides will cover your official response to nearly every situation... and you should always remember the tenets in the Apprentice..'
+[Sat Jul 21 15:59:52 2001] You say, 'guidelines - Always be polite, Never ignore a petition, Never respond to /ooc or shouts, roleplay whenever possible, and'
+[Sat Jul 21 15:59:59 2001] Rimedear says, 'I have printed them and bound them in a loose leaf folder.  8)'
+[Sat Jul 21 16:00:02 2001] You say, 'trak your activities and things you learn in a notebook.'
+[Sat Jul 21 16:00:15 2001] You say, 'oooh, that's best. I've done the same and refer to them constantly.'
+[Sat Jul 21 16:00:24 2001] You say, 'What server are you from?'
+[Sat Jul 21 16:00:43 2001] Espranza is from Erollisi Marr.
+[Sat Jul 21 16:00:43 2001] Rimedear says, 'However I think a searchable online version may be handy.  I play on Xegony only.'
+[Sat Jul 21 16:00:51 2001] It begins to rain.
+[Sat Jul 21 16:00:53 2001] You say, 'Xegony... cool'
+[Sat Jul 21 16:01:07 2001] You say, 'I like paper. I can add notes.'
+[Sat Jul 21 16:01:23 2001] Rimedear says, 'I'm an internet system engineer in RL'
+[Sat Jul 21 16:01:40 2001] Savlyn GMSAYS, 'Oh my the wedding party just killed the banker LOL'
+[Sat Jul 21 16:01:40 2001] You say, 'Your tools at this stage you had before you ever came up here - your game knowledge and your common sense.'
+[Sat Jul 21 16:01:46 2001] You GMSAY, 'doh!'
+[Sat Jul 21 16:02:02 2001] You say, 'If you don't know the answer to an issue, ask over the private guide channel, /pr.'
+[Sat Jul 21 16:02:11 2001] Rimedear says, 'good, at least I'm not bankrupt'
+[Sat Jul 21 16:02:18 2001] You say, 'Someone should answer you, even if it's an "I don't know"...!'
+[Sat Jul 21 16:02:40 2001] You say, 'heh... you'll learn far more about the game from this point on'
+[Sat Jul 21 16:03:26 2001] You say, 'Keep in mind /pr is often busy and guides zone frequently, so if you don't get an answer right away, be patient - someone will get to it shortly, or just ask again in a moment.'
+[Sat Jul 21 16:03:48 2001] Rimedear says, 'This I understand from Guild chat'
+[Sat Jul 21 16:04:24 2001] You say, 'If the guides don't know, then inform the customer that this is a new issue to us and that you will enter it into your status report to get further guidance on the issue. Then post it and ask around. You'll surprised at what you can dig up from your'
+[Sat Jul 21 16:04:26 2001] You say, 'fellow guides'
+[Sat Jul 21 16:04:39 2001] You say, 'yeah, it's much the same as guild chat'
+[Sat Jul 21 16:04:44 2001] You say, 'hardly ever quiet'
+[Sat Jul 21 16:04:55 2001] You say, 'of course, full guides have our own guild, so we get that too'
+[Sat Jul 21 16:05:03 2001] Rimedear says, 'I'll take it easy on the bad jokes'
+[Sat Jul 21 16:05:10 2001] You say, 'but why :)'
+[Sat Jul 21 16:05:14 2001] Players in EverQuest:
+[Sat Jul 21 16:05:14 2001] ---------------------------
+[Sat Jul 21 16:05:14 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 16:05:14 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: rivervale (USER PID EUGBAB8)
+[Sat Jul 21 16:05:14 2001] There are 2 players in EverQuest.
+[Sat Jul 21 16:05:17 2001] Players in EverQuest:
+[Sat Jul 21 16:05:17 2001] ---------------------------
+[Sat Jul 21 16:05:17 2001] [ANON (1 Rogue)] Rimedear (Halfling) ZONE: cshome (USER PID BUG556P)
+[Sat Jul 21 16:05:17 2001] There is 1 player in EverQuest.
+[Sat Jul 21 16:05:29 2001] Rimedear says, 'BTW, I have the Guide Shift Reporter installed and patched'
+[Sat Jul 21 16:05:31 2001] You say, 'hey, you're a rogue too!'
+[Sat Jul 21 16:05:41 2001] You say, 'oh good. you've seen the petition trainer?'
+[Sat Jul 21 16:05:57 2001] You're not scaring anyone.
+[Sat Jul 21 16:06:05 2001] Rimedear says, 'Yes, it seems pretty straightforward'
+[Sat Jul 21 16:06:05 2001] Espranza never scares anyone.....
+[Sat Jul 21 16:06:13 2001] You say, 'we'll be going over that in a bit.'
+[Sat Jul 21 16:06:18 2001] You say, 'any questions so far?'
+[Sat Jul 21 16:06:53 2001] Rimedear says, 'I don't think so... I think I got it so far'
+[Sat Jul 21 16:07:01 2001] You say, 'alrighty'
+[Sat Jul 21 16:07:04 2001] Espranza saved.
+[Sat Jul 21 16:07:11 2001] You say, 'Can you tell me where an apprentice may not go?'
+[Sat Jul 21 16:07:42 2001] Rimedear says, 'the dungeon zones mostly, but there are additionals... and all of Velious'
+[Sat Jul 21 16:08:09 2001] You say, 'dungeons, planes, Velious, and certain outdoor zones like Skyfire Mountains.'
+[Sat Jul 21 16:08:36 2001] Rimedear says, 'Stated clearly in addendum dated 5/23/2001, replacing section 1.3.3'
+[Sat Jul 21 16:08:45 2001] Rimedear says, 'Yes, I forgot the planes'
+[Sat Jul 21 16:08:48 2001] You say, 'You may pass through Blackburrow and Runnyeye to get to the other side, but you must not linger there and must tell over /pr that you're doing so'
+[Sat Jul 21 16:09:04 2001] Rimedear says, 'Yes, I know these'
+[Sat Jul 21 16:09:22 2001] You say, 'tis okay :) I may cover things you know, but we just want to ensure you do know them'
+[Sat Jul 21 16:09:37 2001] You say, 'When can an apprentice be online?'
+[Sat Jul 21 16:09:39 2001] Rimedear says, 'Thank you, don't want to gloss over anything'
+[Sat Jul 21 16:10:10 2001] Rimedear says, 'Whenever permission is given by a guide, and on this server I must be grouped with a guide'
+[Sat Jul 21 16:10:35 2001] You say, 'yup - and you must never be anonymous, unless you are just logging out or in.'
+[Sat Jul 21 16:10:43 2001] You say, 'or unless a full guide instructs you to.'
+[Sat Jul 21 16:10:44 2001] Rimedear says, 'Right'
+[Sat Jul 21 16:11:09 2001] You say, 'How does the guide program relate to GMs?'
+[Sat Jul 21 16:11:19 2001] Rimedear says, 'I had trouble with a /who command to see guides earlier... what is it?'
+[Sat Jul 21 16:11:34 2001] You say, '/who gm all?'
+[Sat Jul 21 16:11:37 2001] Players in EverQuest:
+[Sat Jul 21 16:11:37 2001] ---------------------------
+[Sat Jul 21 16:11:37 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 16:11:37 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: rivervale (USER PID EUGBAB8)
+[Sat Jul 21 16:11:37 2001] There are 2 players in EverQuest.
+[Sat Jul 21 16:12:01 2001] Rimedear says, 'hmmm... tougher question...'
+[Sat Jul 21 16:12:33 2001] Buyordie tells you, 'help..'
+[Sat Jul 21 16:12:49 2001] You told Buyordie, 'what's the matter?'
+[Sat Jul 21 16:12:56 2001] Savlyn GMSAYS, 'Zoning'
+[Sat Jul 21 16:12:59 2001] You say to your guild, 'wedding still ongoing?'
+[Sat Jul 21 16:13:12 2001] Buyordie tells you, 'i got kicked to server selction for no reason.. and i lost a full bear skin backpack full of items and spells!'
+[Sat Jul 21 16:13:22 2001] Rimedear says, 'Not sure what you mean, we ask Senior Guides for guidance on issues, GMs are not someone I'd expect to deal with yet'
+[Sat Jul 21 16:13:35 2001] You told Buyordie, 'please petition and we will be with you as soon as possible.'
+[Sat Jul 21 16:13:47 2001] Buyordie tells you, 'ko'
+[Sat Jul 21 16:14:18 2001] You say, 'GMs are the advisors to the senior guides. We do deal with them, all the time - our GM, Lirus, shares the same chat channels we do.'
+[Sat Jul 21 16:14:45 2001] You say, 'Since GMs work directly for Verant, they are often the official word on difficult matters.'
+[Sat Jul 21 16:15:02 2001] Rimedear says, 'Yes, direct Verant employees, that's it'
+[Sat Jul 21 16:15:12 2001] You say, 'Nonetheless, we are two separate organizations working to the same goal - the best customer service we can provide.'
+[Sat Jul 21 16:15:36 2001] Rimedear says, 'Without the program, the game would be much less affordable'
+[Sat Jul 21 16:15:47 2001] You say, 'Any questions about or actions needed in guiding should be directed toward the senior if a full guide can't answer them...'
+[Sat Jul 21 16:16:19 2001] You say, 'the guide program? perhaps... but we are players who love the game and want to help others, you can't hire our enthusiasm :)'
+[Sat Jul 21 16:16:31 2001] You say, 'we players created the guide program because we wanted one.'
+[Sat Jul 21 16:16:39 2001] You say, 'and it is entirely run by players.'
+[Sat Jul 21 16:16:46 2001] Rimedear says, 'Yes, that makes sense'
+[Sat Jul 21 16:17:13 2001] Espranza saved.
+[Sat Jul 21 16:17:22 2001] You say, 'Please ask lots of questions - that's how you learn to guide, and that's how WE learn how you're coming along.'
+[Sat Jul 21 16:17:53 2001] You say, 'Try to ask in /pr, there's a good chance a situation you have a question about, someone else has the same question - or had at one time.'
+[Sat Jul 21 16:18:27 2001] Rimedear says, 'Or it's happened to me  8)'
+[Sat Jul 21 16:18:36 2001] You say, 'You should have board access now, or if not now, very soon. However, if you don't get it soon, email the SMT at MorellThuleSeniors@yahoogroups.com and let them know.'
+[Sat Jul 21 16:18:59 2001] You say, 'yeah - like I said, a lot of the stuff you need you brought with you today.'
+[Sat Jul 21 16:19:05 2001] You say, 'Hiya Lithgar!'
+[Sat Jul 21 16:19:06 2001] Friends currently on EverQuest:
+[Sat Jul 21 16:19:06 2001] ---------------------------------
+[Sat Jul 21 16:19:06 2001] [17 Druid] Linkinn (Wood Elf) ZONE: crushbone (USER PID HPVC2VB)
+[Sat Jul 21 16:19:09 2001] Players in EverQuest:
+[Sat Jul 21 16:19:09 2001] ---------------------------
+[Sat Jul 21 16:19:09 2001] * GM-Lead Admin *[60 Warlord] Lithgar (Barbarian) ZONE: cshome (USER PID BNQMZSG)
+[Sat Jul 21 16:19:09 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID BSQ3K8R)
+[Sat Jul 21 16:19:09 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID EUGBAB8)
+[Sat Jul 21 16:19:09 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 16:19:09 2001] There are 4 players in EverQuest.
+[Sat Jul 21 16:19:23 2001] Rimedear says, 'I am on the Guide site'
+[Sat Jul 21 16:19:28 2001] Lithgar says, 'hey there =)'
+[Sat Jul 21 16:19:28 2001] Mersi hugs Lithgar.
+[Sat Jul 21 16:19:29 2001] Rimedear says, 'Hail, Lithgar'
+[Sat Jul 21 16:19:31 2001] You say, 'Then that's all set'
+[Sat Jul 21 16:19:47 2001] You say, 'You go to Lirus' tailor'
+[Sat Jul 21 16:20:17 2001] Lithgar grabs hold of Mersi and begins to dance with her.
+[Sat Jul 21 16:20:20 2001] Mersi grabs hold of Lithgar and begins to dance with him.
+[Sat Jul 21 16:20:22 2001] Players in EverQuest:
+[Sat Jul 21 16:20:22 2001] ---------------------------
+[Sat Jul 21 16:20:22 2001] * GM-Lead Admin *[60 Warlord] Lithgar (Barbarian) ZONE: cshome (USER PID BNQMZSG)
+[Sat Jul 21 16:20:22 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID BSQ3K8R)
+[Sat Jul 21 16:20:22 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID EUGBAB8)
+[Sat Jul 21 16:20:22 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 16:20:22 2001] There are 4 players in EverQuest.
+[Sat Jul 21 16:20:40 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 16:20:41 2001] USER TEXT: any chance that someone can despawn the giants around the Ry'gor fort in EW, Dorf army despawned
+[Sat Jul 21 16:20:41 2001] Players in EverQuest:
+[Sat Jul 21 16:20:41 2001] ---------------------------
+[Sat Jul 21 16:20:41 2001] [60 Warlord] Kona (Wood Elf) <Relentless Ascension> ZONE: sirens (USER PID FN1KEYL)
+[Sat Jul 21 16:20:41 2001] There is 1 player in EverQuest.
+[Sat Jul 21 16:20:55 2001] Lithgar says, 'going to zone you real quick Rime =)'
+[Sat Jul 21 16:21:02 2001] Rimedear says, 'Aye'
+[Sat Jul 21 16:21:03 2001] Lithgar begins to cast a spell. (GMGate)
+[Sat Jul 21 16:21:03 2001] Rimedear fades away.
+[Sat Jul 21 16:21:04 2001] You told Kona, 'Hail, Kona! Guide Espranza here. They'll despawn on their own in time. Are they still up?'
+[Sat Jul 21 16:21:08 2001] You say to your guild, 'answering a couple of petitions'
+[Sat Jul 21 16:21:14 2001] Kona tells you, 'yea'
+[Sat Jul 21 16:21:34 2001] Kona tells you, 'didnt think they would despawn is why i petitioned'
+[Sat Jul 21 16:21:35 2001] Mersi GMSAYS, 'sorry that took so long... Lirus seems hard to track down today, and its Ash's day off'
+[Sat Jul 21 16:21:37 2001] You told Kona, 'We can't despawn them for you - they will hang around awhile...'
+[Sat Jul 21 16:21:41 2001] DELETING THIS PETITION
+[Sat Jul 21 16:21:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 16:21:43 2001] USER TEXT: last night i was disconnected and now all my stuff is gone, there anything you can do?
+[Sat Jul 21 16:21:44 2001] Players in EverQuest:
+[Sat Jul 21 16:21:44 2001] ---------------------------
+[Sat Jul 21 16:21:44 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 21 16:21:48 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Jul 21 16:21:49 2001] CHECKING IN
+[Sat Jul 21 16:21:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 16:21:51 2001] USER TEXT: GM (Q: is it against game rules to sell things on shout or ooc? just need to know? thanks
+[Sat Jul 21 16:21:51 2001] Players in EverQuest:
+[Sat Jul 21 16:21:51 2001] ---------------------------
+[Sat Jul 21 16:21:51 2001] [30 Druid] Finiefreedom (Human) ZONE: butcher (USER PID DU8WXL9)
+[Sat Jul 21 16:21:51 2001] There is 1 player in EverQuest.
+[Sat Jul 21 16:22:11 2001] Kona tells you, 'hehe not for me.....just so others can EXP there.....Coldain ring quest kind of jacks up those who wish to EXP in that area'
+[Sat Jul 21 16:22:18 2001] You told Finiefreedom, 'Hail, Finiefreedom! Guide Espranza here. No, it is not against the rules to ignore the auction channel - it is rude though.'
+[Sat Jul 21 16:22:32 2001] You told Kona, 'That it does... but we can't hurry it along.'
+[Sat Jul 21 16:22:37 2001] Players in EverQuest:
+[Sat Jul 21 16:22:37 2001] ---------------------------
+[Sat Jul 21 16:22:37 2001] * Apprentice Guide *[ANON (1 Rogue)] Rimedear (Halfling) ZONE: cshome (USER PID BUG556P)
+[Sat Jul 21 16:22:37 2001] * GM-Lead Admin *[60 Warlord] Lithgar (Barbarian) ZONE: cshome (USER PID BNQMZSG)
+[Sat Jul 21 16:22:37 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID BSQ3K8R)
+[Sat Jul 21 16:22:37 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID EUGBAB8)
+[Sat Jul 21 16:22:37 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 16:22:37 2001] There are 5 players in EverQuest.
+[Sat Jul 21 16:22:39 2001] Kona tells you, 'ok np'
+[Sat Jul 21 16:22:44 2001] Kona tells you, 'thanks :p'
+[Sat Jul 21 16:22:45 2001] You GMSAY, 'Welcome, Rimedear!'
+[Sat Jul 21 16:22:50 2001] You told Kona, 'be well!'
+[Sat Jul 21 16:22:53 2001] DELETING THIS PETITION
+[Sat Jul 21 16:23:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 16:23:01 2001] USER TEXT: cannot get my corpse in EK .. I think it's under ground
+[Sat Jul 21 16:23:01 2001] Players in EverQuest:
+[Sat Jul 21 16:23:01 2001] ---------------------------
+[Sat Jul 21 16:23:01 2001] [21 Warrior] Yonna (Halfling) <Legions of Valhalla> ZONE: eastkarana (USER PID GZPW72W)
+[Sat Jul 21 16:23:01 2001] There is 1 player in EverQuest.
+[Sat Jul 21 16:23:01 2001] Rimedear says, 'I can gate'
+[Sat Jul 21 16:23:11 2001] You say, 'to Misty!'
+[Sat Jul 21 16:23:14 2001] Lithgar says, 'ok Rime, let me know if you see this yellow text'
+[Sat Jul 21 16:23:17 2001] Finiefreedom tells you, 'Hi  ok just wanted to know, so I can use shout or ooc to sell if want?'
+[Sat Jul 21 16:23:19 2001] Lithgar GMSAYS, 'YELLOW TEXT'
+[Sat Jul 21 16:23:23 2001] Rimedear says, 'Yes'
+[Sat Jul 21 16:23:31 2001] Mersi GMSAYS, 'and no you can't change it in your eqclient.ini =)'
+[Sat Jul 21 16:23:32 2001] You told Finiefreedom, 'sure, but 'twould be best to use auction.'
+[Sat Jul 21 16:23:44 2001] STATUS UPGRADED TO URGENT
+[Sat Jul 21 16:23:45 2001] CHECKING IN
+[Sat Jul 21 16:23:47 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 16:23:48 2001] USER TEXT: Came back from LD and i am now stuck underground. Please help
+[Sat Jul 21 16:23:48 2001] Players in EverQuest:
+[Sat Jul 21 16:23:48 2001] ---------------------------
+[Sat Jul 21 16:23:48 2001] [45 Ranger] Aneur (Wood Elf) <Legions of Valhalla> ZONE: wakening (USER PID EX6QZ73)
+[Sat Jul 21 16:23:48 2001] There is 1 player in EverQuest.
+[Sat Jul 21 16:23:49 2001] Finiefreedom tells you, 'I do but sometimes in hurry'
+[Sat Jul 21 16:24:01 2001] STATUS UPGRADED TO URGENT
+[Sat Jul 21 16:24:03 2001] CHECKING IN
+[Sat Jul 21 16:24:08 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 16:24:08 2001] USER TEXT: left told me to go fuck off because i said i'd pay for a rez
+[Sat Jul 21 16:24:09 2001] Players in EverQuest:
+[Sat Jul 21 16:24:09 2001] ---------------------------
+[Sat Jul 21 16:24:09 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 21 16:24:15 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Jul 21 16:24:17 2001] CHECKING IN
+[Sat Jul 21 16:24:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 16:24:20 2001] USER TEXT: i am looking for lirus, is he supposed to be scehluded to work tonight?
+[Sat Jul 21 16:24:20 2001] Players in EverQuest:
+[Sat Jul 21 16:24:20 2001] ---------------------------
+[Sat Jul 21 16:24:20 2001] [ANON (52 Channeler)] Mallabik (Gnome) ZONE: trakanon (USER PID GTW8W63)
+[Sat Jul 21 16:24:20 2001] There is 1 player in EverQuest.
+[Sat Jul 21 16:24:24 2001] Rimedear says, 'haha, nope, I'm not a hacker'
+[Sat Jul 21 16:24:52 2001] Mersi says, 'lol nor am I.. but I like making my guild chat purple and my tells hot pink.. that way I don't miss anything'
+[Sat Jul 21 16:24:54 2001] You told Mallabik, 'Hail, Mallabik! Guide Espranza here. Yes, he is scheduled to work today, though he is not on now. Is there something I can help you with?'
+[Sat Jul 21 16:25:09 2001] Rimedear says, 'this Guide Shift Reporter program is pretty good'
+[Sat Jul 21 16:25:12 2001] Mallabik tells you, 'i wish is was that simple.'
+[Sat Jul 21 16:25:13 2001] Mersi says, 'say Hi to Savlyn ) he hasn't met you yet'
+[Sat Jul 21 16:25:21 2001] Mallabik tells you, 'err it was...'
+[Sat Jul 21 16:25:25 2001] Mersi says, 'really Rimedear? hehe I can't make it work =/'
+[Sat Jul 21 16:25:31 2001] Mersi drools all over Lithgar.
+[Sat Jul 21 16:25:38 2001] Players in EverQuest:
+[Sat Jul 21 16:25:38 2001] ---------------------------
+[Sat Jul 21 16:25:38 2001] * Apprentice Guide *[ANON (20 Rogue)] Rimedear (Halfling) ZONE: cshome (USER PID BUG556P)
+[Sat Jul 21 16:25:38 2001] * GM-Lead Admin *[60 Warlord] Lithgar (Barbarian) ZONE: cshome (USER PID BNQMZSG)
+[Sat Jul 21 16:25:38 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID BSQ3K8R)
+[Sat Jul 21 16:25:38 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID EUGBAB8)
+[Sat Jul 21 16:25:38 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 16:25:38 2001] There are 5 players in EverQuest.
+[Sat Jul 21 16:25:41 2001] Mersi says, 'I want some pretty blue armor hehe'
+[Sat Jul 21 16:25:49 2001] You say, 'looks like my bard now'
+[Sat Jul 21 16:25:56 2001] You say, 'except she looks a lot better in it'
+[Sat Jul 21 16:26:14 2001] You say, 'I just can't get used to brawny barbarians in pretty blue dresses'
+[Sat Jul 21 16:26:17 2001] Lithgar says, 'hehe'
+[Sat Jul 21 16:26:20 2001] Finiefreedom tells you, 'almost there'
+[Sat Jul 21 16:26:25 2001] Rimedear laughs.
+[Sat Jul 21 16:26:29 2001] Mersi says, 'you should have seen Lirus in pink, Esp'
+[Sat Jul 21 16:26:31 2001] Finiefreedom tells you, 'wrong tell'
+[Sat Jul 21 16:26:40 2001] You told Finiefreedom, 'thought perhaps :)'
+[Sat Jul 21 16:26:59 2001] Rimedear says, 'Savlin?'
+[Sat Jul 21 16:27:08 2001] Rimedear says, 'oops, Savlyn?'
+[Sat Jul 21 16:27:11 2001] You say, 'A guide elsewhere - say hi to him over pr'
+[Sat Jul 21 16:27:13 2001] Mallabik tells you, 'its in regards to the the guild member i was speaking to about lirus yesterday.'
+[Sat Jul 21 16:27:13 2001] Mersi says, 'Savlyn is one of our newest full guides )'
+[Sat Jul 21 16:27:20 2001] Mallabik tells you, 'i will look for him later tonight'
+[Sat Jul 21 16:27:23 2001] Espranza saved.
+[Sat Jul 21 16:27:26 2001] You told Mallabik, 'okay, be well then!'
+[Sat Jul 21 16:27:28 2001] DELETING THIS PETITION
+[Sat Jul 21 16:27:29 2001] Rimedear says, 'Ah, will say hi when I see them'
+[Sat Jul 21 16:27:37 2001] Mallabik tells you, 'ty for your time'
+[Sat Jul 21 16:27:43 2001] You told Mallabik, 'any time.'
+[Sat Jul 21 16:27:49 2001] Rimedear says, 'So now I'M the new joke stock, eh?'
+[Sat Jul 21 16:27:51 2001] You told dolcemorte, 'your petition is still there, btw'
+[Sat Jul 21 16:27:55 2001] Gonaddil tells you, 'can i ask u a question'
+[Sat Jul 21 16:27:56 2001] Dolcemorte tells you, 'ok thx'
+[Sat Jul 21 16:28:01 2001] You told Gonaddil, 'sure'
+[Sat Jul 21 16:28:20 2001] Players in EverQuest:
+[Sat Jul 21 16:28:20 2001] ---------------------------
+[Sat Jul 21 16:28:20 2001] * Apprentice Guide *[ANON (20 Rogue)] Rimedear (Halfling) ZONE: cshome (USER PID BUG556P)
+[Sat Jul 21 16:28:20 2001] * GM-Lead Admin *[60 Warlord] Lithgar (Barbarian) ZONE: cshome (USER PID BNQMZSG)
+[Sat Jul 21 16:28:20 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID BSQ3K8R)
+[Sat Jul 21 16:28:20 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID EUGBAB8)
+[Sat Jul 21 16:28:20 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 16:28:20 2001] There are 5 players in EverQuest.
+[Sat Jul 21 16:28:22 2001] Savlyn tells the guild, 'Whos putting the yellows up?'
+[Sat Jul 21 16:28:25 2001] You say to your guild, 'me'
+[Sat Jul 21 16:28:33 2001] You say to your guild, 'while waiting to continue, I'm doing petitions'
+[Sat Jul 21 16:28:34 2001] Mersi says, 'nay Rime... no hazing the apprentices... its a rule.'
+[Sat Jul 21 16:28:36 2001] Savlyn tells the guild, 'Want me to take those first?'
+[Sat Jul 21 16:28:38 2001] Gonaddil tells you, 'is there any way i can turn something off that will make it less laggier in kunark ,, the tree's cause the problem'
+[Sat Jul 21 16:28:41 2001] You say to your guild, 'yes please'
+[Sat Jul 21 16:28:47 2001] Savlyn tells the guild, 'Will do'
+[Sat Jul 21 16:28:53 2001] You told Gonaddil, 'try setting your clipping plane closer'
+[Sat Jul 21 16:28:57 2001] Mersi says, 'unless, of course... you want to go fly'
+[Sat Jul 21 16:29:04 2001] Rimedear says, 'Aye, aparently that was a trouble before?  Not a problem here.  '
+[Sat Jul 21 16:29:08 2001] Gonaddil tells you, 'it's all the way down'
+[Sat Jul 21 16:29:10 2001] Savlyn tells the guild, 'Figured you were training so I started grabbing pets again LOL'
+[Sat Jul 21 16:29:15 2001] You say, 'it was a problem when I was an appie'
+[Sat Jul 21 16:29:19 2001] You say, 'they changed it then'
+[Sat Jul 21 16:29:24 2001] Rimedear says, 'uh, flying... not good for silly hobbits'
+[Sat Jul 21 16:29:34 2001] You say to your guild, 'we don't need this many pets for training - two or three will be fine'
+[Sat Jul 21 16:29:40 2001] Mersi tells the guild, 'hehe'
+[Sat Jul 21 16:30:02 2001] Lithgar says, 'hehe okies time for me to go to Tholuxe =) need to do buffing there =)'
+[Sat Jul 21 16:30:07 2001] Savlyn tells the guild, 'Awe come on really put them thru the ringer LOL'
+[Sat Jul 21 16:30:08 2001] Mersi hugs Lithgar.
+[Sat Jul 21 16:30:12 2001] You say, 'Thanks for coming by, Lithgar!'
+[Sat Jul 21 16:30:14 2001] Lithgar grabs hold of Mersi and begins to dance with her.
+[Sat Jul 21 16:30:15 2001] Rimedear thanks Lithgar heartily.
+[Sat Jul 21 16:30:18 2001] Mersi says, 'thank you again for coming on such short notice )'
+[Sat Jul 21 16:30:25 2001] You say to your guild, 'that would be cool if they were really fast onthem :)'
+[Sat Jul 21 16:30:26 2001] Rimedear grovels before Lithgar.
+[Sat Jul 21 16:30:30 2001] Lithgar GMSAYS, 'have a nice day everyone =) time for me to take off'
+[Sat Jul 21 16:30:33 2001] Lithgar waves goodbye to everyone.
+[Sat Jul 21 16:30:34 2001] You GMSAY, 'laters!'
+[Sat Jul 21 16:30:38 2001] Rimedear bows before Lithgar.
+[Sat Jul 21 16:30:44 2001] Mersi GMSAYS, 'g'day, Lithgar )'
+[Sat Jul 21 16:31:00 2001] You say, 'he quit out'
+[Sat Jul 21 16:31:11 2001] You say, 'if he wakes up dead - there's another petition :('
+[Sat Jul 21 16:31:19 2001] Mersi says, 'lol'
+[Sat Jul 21 16:31:22 2001] You say, 'let's get him'
+[Sat Jul 21 16:31:43 2001] You say, 'okay, let's continue'
+[Sat Jul 21 16:31:57 2001] Rimedear wakes up.
+[Sat Jul 21 16:32:18 2001] You say, 'when sending an email within the program, please always use your guide name - we don't really know who you are outside of game :)'
+[Sat Jul 21 16:32:39 2001] You say, 'any questions at this point?'
+[Sat Jul 21 16:33:05 2001] Rimedear says, 'I imagine it's not particularly important.  um, I can go barefoot?  I'm in that 'Halfling Furry Toes Fly Free' movement'
+[Sat Jul 21 16:33:13 2001] You say, 'sure'
+[Sat Jul 21 16:33:18 2001] Rimedear cheers.
+[Sat Jul 21 16:33:26 2001] You say, 'your boots provide levitation, but don't need to be worn to be used.'
+[Sat Jul 21 16:33:44 2001] Rimedear says, '!!  oh, that might be important.  Thanks'
+[Sat Jul 21 16:33:50 2001] Your feet leave the ground.
+[Sat Jul 21 16:33:50 2001] You can't use that command right now...
+[Sat Jul 21 16:33:50 2001] Your feet leave the ground.
+[Sat Jul 21 16:33:51 2001] You can't use that command right now...
+[Sat Jul 21 16:33:51 2001] You can't use that command right now...
+[Sat Jul 21 16:33:51 2001] You can't use that command right now...
+[Sat Jul 21 16:33:52 2001] Your feet leave the ground.
+[Sat Jul 21 16:33:59 2001] You say, 'boots )'
+[Sat Jul 21 16:34:01 2001] You can no longer levitate.
+[Sat Jul 21 16:34:02 2001] Rimedear cheers at Espranza.
+[Sat Jul 21 16:34:10 2001] You feel the spirit of Norrath enter you.
+[Sat Jul 21 16:34:13 2001] You say, 'skirt )'
+[Sat Jul 21 16:34:27 2001] You say, 'okay, onto DOs and DON'Ts.'
+[Sat Jul 21 16:34:31 2001] Rimedear says, 'I've looked at the list, quite a few items.'
+[Sat Jul 21 16:34:58 2001] Savlyn GMSAYS, 'Zoning'
+[Sat Jul 21 16:35:00 2001] You say, 'we have some nice stuff'
+[Sat Jul 21 16:35:16 2001] You say, 'people are always asking where they can get it - I just give them the guide application web address'
+[Sat Jul 21 16:35:25 2001] Rimedear says, 'Sorry to interrupt... do's and don'ts?'
+[Sat Jul 21 16:35:32 2001] You say, 'yup.'
+[Sat Jul 21 16:36:04 2001] You say, 'DO... ask questions as often as you can. Keep in mind that we guides are asked to evaluate your performance,'
+[Sat Jul 21 16:36:57 2001] You say, 'and often all we have to go on are your questions and the chatter over /pr. If you don't get an answer when you first ask, ask again in a moment, we might have missed the question while zoning.'
+[Sat Jul 21 16:37:05 2001] You say, 'feel free to pester your mentor as well.'
+[Sat Jul 21 16:37:24 2001] Savlyn GMSAYS, 'Zoning'
+[Sat Jul 21 16:37:34 2001] Espranza saved.
+[Sat Jul 21 16:37:39 2001] You say, 'DO... explore the world as much as possible. Some of the newer apprentices have taken to walking through every allowable zone during their apprenticeship, which I think is wonderful.'
+[Sat Jul 21 16:37:42 2001] Mersi re-wraps the bindings around her ankle.. it was injured when she was working on safe fall in real life..
+[Sat Jul 21 16:38:13 2001] You say, 'DO... participate in answer circles. While out and about in the world, people might just want to chat. If the petition load is light - feel free!'
+[Sat Jul 21 16:38:24 2001] You comfort Mersi.
+[Sat Jul 21 16:38:36 2001] You say, 'Well, that was the short list. Now on to DON'Ts.'
+[Sat Jul 21 16:38:42 2001] Rimedear says, 'I saw many mentions that it is good for citizens to see the guides walking freely amoung them'
+[Sat Jul 21 16:38:52 2001] You say, 'Yes, we're not gods.'
+[Sat Jul 21 16:38:58 2001] You say, 'Just players who want to help.'
+[Sat Jul 21 16:39:19 2001] You say, 'I find that when people realize that, it makes our jobs easier.'
+[Sat Jul 21 16:39:32 2001] Rimedear says, 'I never saw many guides on Xegony.  I'll endeavor to be extremely visible'
+[Sat Jul 21 16:40:01 2001] You say, 'Then you'll be a fine guide - I also try not to spend too much time here when guiding... unless I get pestered too much by players.'
+[Sat Jul 21 16:40:10 2001] You say, 'even then I usually hide in a quiet dungeon.'
+[Sat Jul 21 16:40:28 2001] You say, 'But that brings us to our next DON'T... DON'T explore dungeons.'
+[Sat Jul 21 16:40:39 2001] Mersi says, 'as an apprentice )'
+[Sat Jul 21 16:40:40 2001] Rimedear says, 'No dungeons, check.'
+[Sat Jul 21 16:40:41 2001] You say, 'You can't go into them anyway as an apprentice, except for purposes of training.'
+[Sat Jul 21 16:40:50 2001] You say, 'righto - as a guide, you're expected to.'
+[Sat Jul 21 16:41:15 2001] Savlyn GMSAYS, 'Zoning'
+[Sat Jul 21 16:41:16 2001] You say, 'but if you're going through Runnyeye or Blackburrow even - don't linger.'
+[Sat Jul 21 16:41:21 2001] Rimedear says, 'Do I elevate petitions in dungeons?  Not answer them?'
+[Sat Jul 21 16:41:36 2001] You say, '.... which leads to our next DON'T....!'
+[Sat Jul 21 16:41:50 2001] Tankqer tells you, 'mob got bugged on me I could not target it and it somehow hit me through a wall'
+[Sat Jul 21 16:42:01 2001] You say, 'Don't handle exploit, abuse, harassment issues or that sort. Just escalate them right away.'
+[Sat Jul 21 16:42:14 2001] You told Tankqer, 'please petition - we'll be with you as soon as possible.'
+[Sat Jul 21 16:42:46 2001] Rimedear says, 'Yes.  As an apprentice, I'm more like a watchdog than a cop.'
+[Sat Jul 21 16:42:51 2001] You say, 'As an apprentice, you won't usually be investigating stuff anyway. But you should talk to the petitioners anyway to find out details, unless they are something that requires discretion.'
+[Sat Jul 21 16:42:59 2001] Tankqer tells you, 'done'
+[Sat Jul 21 16:43:04 2001] Rimedear says, 'Understood.'
+[Sat Jul 21 16:43:06 2001] You told Tankqer, 'okay, be with you asap'
+[Sat Jul 21 16:43:15 2001] You say, 'If it'
+[Sat Jul 21 16:43:18 2001] You say, 'grrr'
+[Sat Jul 21 16:43:37 2001] You say, 'If it's exploit, abuse or harassment related, escalate without contact.'
+[Sat Jul 21 16:43:59 2001] You say, 'DON'T run, create, or participate in dynamic quests - either here or on Xegony.'
+[Sat Jul 21 16:44:22 2001] You say, 'Guides have privileged information on quests and it isn't fair to others for us to be involved.'
+[Sat Jul 21 16:44:33 2001] Rimedear says, '??  oh, so the knowledge I gain now shouldn't be used by my play characters'
+[Sat Jul 21 16:44:35 2001] You say, 'You'll have the opportunity to act in quests, which is much more fun.'
+[Sat Jul 21 16:44:46 2001] You say, 'Not about quests anyway.'
+[Sat Jul 21 16:44:59 2001] Rimedear says, 'Yes... understood'
+[Sat Jul 21 16:45:06 2001] You say, 'And not about your activities as a guide - but we'll get to that in a moment.'
+[Sat Jul 21 16:45:27 2001] Rimedear says, 'The ability to keep my mouth shut is obvious importance'
+[Sat Jul 21 16:45:32 2001] You say, 'As an apprentice, you are not allowed to be in the zone where a quest is happening'
+[Sat Jul 21 16:46:06 2001] You say, 'Neither here, nor on your play server... the exception is invasion type quests, where monsters attack everyone'
+[Sat Jul 21 16:46:10 2001] Rimedear says, 'Sensible'
+[Sat Jul 21 16:46:23 2001] You say, 'you can participate in those on your play server, since there are no secrets to reveal'
+[Sat Jul 21 16:46:31 2001] You say, 'Still barred from even those here, though/'
+[Sat Jul 21 16:46:55 2001] You say, 'DON'T... reprimand or speak ill of other guides. Or players for that matter.'
+[Sat Jul 21 16:47:22 2001] You say, 'DON'T... speak for the guide program. When you're not logged in your guide avatar answering petitions, you aren't a guide.'
+[Sat Jul 21 16:47:22 2001] Rimedear says, 'All negative energies must be disapated, check'
+[Sat Jul 21 16:47:44 2001] You say, 'They have people to speak for the guide program, and we ain't them.'
+[Sat Jul 21 16:47:45 2001] Espranza saved.
+[Sat Jul 21 16:47:48 2001] Rimedear says, 'I am a sole member of an elite organization, not to speak for it'
+[Sat Jul 21 16:47:56 2001] Rimedear says, 'check'
+[Sat Jul 21 16:48:14 2001] Mersi finds a brick block on her table useful for punching and banging her head on is very useful when guiding =)
+[Sat Jul 21 16:48:27 2001] You say, 'DON'T... give warnings to players. We full guides are a jealous sort and guard our ability to warn carefully.'
+[Sat Jul 21 16:48:41 2001] You say, 'It's not a power you have, so don't threaten people with it.'
+[Sat Jul 21 16:49:02 2001] Rimedear says, 'Don't waste words.  Check.'
+[Sat Jul 21 16:49:10 2001] You say, 'If you feel a warning should be issued, talk it over with your mentor, who will investigate.'
+[Sat Jul 21 16:49:41 2001] Rimedear says, 'That doesn't sound right, I'd escalate a petition if I felt he would be a future problem'
+[Sat Jul 21 16:49:42 2001] You say, 'DON'T... tell anyone at all you are a guide. If I ask if you're a guide, think twice...!'
+[Sat Jul 21 16:49:57 2001] You say, 'Those sorts of petitions should be escalated without contact anyway'
+[Sat Jul 21 16:50:24 2001] Rimedear says, 'Yes, I got the right ideas from the P&P manual'
+[Sat Jul 21 16:50:33 2001] You say, 'Again, outside of being here answering a petition, you aren't a guide.'
+[Sat Jul 21 16:50:43 2001] You say, 'You're a player like any other.'
+[Sat Jul 21 16:51:11 2001] Rimedear says, 'Right.  No good can become of that, it occurs to me'
+[Sat Jul 21 16:51:19 2001] You say, 'You can tell other guides about your play chars and stuff, but you can't tell other players about your guide char.'
+[Sat Jul 21 16:51:34 2001] You say, 'Only bad stuff can happen.'
+[Sat Jul 21 16:51:45 2001] Rimedear says, '! I hadn't thought of that, but it seems like it still crosses a line'
+[Sat Jul 21 16:51:49 2001] Mersi says, 'can't tell guides from your play server that you are a guide either )'
+[Sat Jul 21 16:52:01 2001] You say, 'Do not duel anyone. If you want to fight another guide, we have an arena here to fight in.'
+[Sat Jul 21 16:52:07 2001] Rimedear says, 'Yes'
+[Sat Jul 21 16:52:10 2001] You say, 'never never never never fight a player.'
+[Sat Jul 21 16:52:11 2001] Mersi says, 'unless you are on your guide avatar'
+[Sat Jul 21 16:52:14 2001] You say, 'even if they beg you to.'
+[Sat Jul 21 16:52:23 2001] Rimedear says, 'Ooh, that doesn't sound good at all.  I don't even like duels'
+[Sat Jul 21 16:52:31 2001] You say, 'I do :)'
+[Sat Jul 21 16:52:40 2001] You say, 'But that's why I have my play characters.'
+[Sat Jul 21 16:52:48 2001] You say, 'Guide characters are for guiding.'
+[Sat Jul 21 16:52:49 2001] Mersi challenges Espranza to a duel to the death!
+[Sat Jul 21 16:53:01 2001] Rimedear says, 'As a guide, I don't hit anything.  Ever.'
+[Sat Jul 21 16:53:01 2001] You giggle at Mersi.
+[Sat Jul 21 16:53:07 2001] You say, 'you can hit monsters.'
+[Sat Jul 21 16:53:11 2001] Mersi hugs Espranza.
+[Sat Jul 21 16:53:13 2001] You say, 'to reset them'
+[Sat Jul 21 16:53:18 2001] You say, 'but not as an apprentice.'
+[Sat Jul 21 16:53:24 2001] Rimedear says, '?? ah, but shouldn't I use /kill ?'
+[Sat Jul 21 16:53:35 2001] Rimedear says, 'yes, only as a full guide'
+[Sat Jul 21 16:53:38 2001] You say, 'sometimes you don't want them dead, just elsewhere'
+[Sat Jul 21 16:53:41 2001] Mersi says, 'vendors and quest NPCs shouldn't be killed unless its unavoidable'
+[Sat Jul 21 16:53:55 2001] You say, 'so you aggro them (I usually use cancel magic actually) and lead them home.'
+[Sat Jul 21 16:54:01 2001] Mersi says, 'which is why some of us choose to whack and run )'
+[Sat Jul 21 16:54:12 2001] Rimedear says, 'So get them to aggro and run them somewhere, something like that?'
+[Sat Jul 21 16:54:18 2001] Rimedear says, 'Yes. ok'
+[Sat Jul 21 16:54:28 2001] Mersi says, 'run them as close as you can to their proper position)'
+[Sat Jul 21 16:54:29 2001] You say, 'yeah, we'll show you how to do that during your apprenticeship'
+[Sat Jul 21 16:54:39 2001] You say, 'it's a trick, and fun, and you could die :)'
+[Sat Jul 21 16:54:49 2001] Rimedear says, 'Oh, I'm familiar with Kiting.  :P'
+[Sat Jul 21 16:55:01 2001] Mersi says, 'hehe now try it without sow! )'
+[Sat Jul 21 16:55:04 2001] Mersi says, 'or snare...'
+[Sat Jul 21 16:55:05 2001] You say, 'Our last DON'T - don't get game-drunk. If some player offers you a drink, take one sip and destroy the rest.'
+[Sat Jul 21 16:55:18 2001] You say, 'well, we can teleport anywhere.'
+[Sat Jul 21 16:55:45 2001] Rimedear says, 'I think I should be sober on duty, maybe tipsy in RL'
+[Sat Jul 21 16:55:51 2001] You say, 'Joining the guide program is great fun, but also great responsibility.'
+[Sat Jul 21 16:56:05 2001] Mersi says, 'hehe tipsy irl only if you are a good guide that way'
+[Sat Jul 21 16:56:06 2001] You say, 'We have a good time but the customer - and the petition queue - always come first.'
+[Sat Jul 21 16:56:15 2001] Mersi finds her brick block works much better.
+[Sat Jul 21 16:56:18 2001] Rimedear says, 'This is a wonderful game, I would never want to make anyone think otherwise...'
+[Sat Jul 21 16:56:33 2001] You say, 'Roleplay as much as you like, and always be friendly. If someone is getting to you - escalate it to a guide.'
+[Sat Jul 21 16:56:50 2001] You say, 'It is better to pass it along than to let it get to you.'
+[Sat Jul 21 16:57:01 2001] Rimedear says, 'and my every action is visible and will leave memories in all who are affected'
+[Sat Jul 21 16:57:03 2001] You say, 'And as a full guide, you can pass it along to a senior - like Mersi'
+[Sat Jul 21 16:57:10 2001] Mersi says, 'hehe'
+[Sat Jul 21 16:57:12 2001] You say, 'Oh yes, everything we do is noticed.'
+[Sat Jul 21 16:57:24 2001] You say, 'Players watch us like a hawk.'
+[Sat Jul 21 16:57:27 2001] Rimedear says, 'Yes, never get personal.  Happy happy, guide guide'
+[Sat Jul 21 16:57:32 2001] You say, 'yeppers'
+[Sat Jul 21 16:57:50 2001] You say, 'always work as if someone is watching everything you do'
+[Sat Jul 21 16:57:56 2001] Mersi says, 'actually, you pass a petition to whoever is handy if its erking you... if you are a guide, another guide or a senior, if you are an apprentice, a full guide + and so on )'
+[Sat Jul 21 16:57:56 2001] Espranza saved.
+[Sat Jul 21 16:58:25 2001] You say, 'to players, we ARE Verant, and we must be careful not to tarnish their reputation through our actions.'
+[Sat Jul 21 16:58:43 2001] You say, 'Any questions before we throw you to the queue?'
+[Sat Jul 21 16:58:50 2001] Rimedear says, 'I think I will enjoy this.  When I read the P&P manual it occurred to me that a lot of careful work had been put into it'
+[Sat Jul 21 16:59:36 2001] You say, 'over the years, it's been honed into a very complete document'
+[Sat Jul 21 16:59:41 2001] Rimedear says, 'Just to make sure, email shift reports to morellthuleseni@yahoo.com ?'
+[Sat Jul 21 16:59:46 2001] You say, 'no'
+[Sat Jul 21 16:59:54 2001] You say, 'you have board access - just post them'
+[Sat Jul 21 17:00:06 2001] Mersi says, 'aye )'
+[Sat Jul 21 17:00:14 2001] Rimedear says, 'ah, okay... got that logged now'
+[Sat Jul 21 17:00:15 2001] You say, 'and it's morellthuleseniors@yahoogroups.com'
+[Sat Jul 21 17:00:23 2001] Rimedear says, 'Hail, Espranza'
+[Sat Jul 21 17:00:26 2001] Mersi says, 'email all concerns and stuff to morellthuleseniors@yahoogroups.com )'
+[Sat Jul 21 17:00:27 2001] You say, 'be right back, I have a problem with a wood elf'
+[Sat Jul 21 17:00:45 2001] Salorin Gladerunner feels a bit dispelled.
+[Sat Jul 21 17:00:45 2001] Salorin Gladerunner punches YOU for 91 points of damage.
+[Sat Jul 21 17:00:45 2001] You are stunned!
+[Sat Jul 21 17:00:45 2001] Salorin Gladerunner bashes YOU for 42 points of damage.
+[Sat Jul 21 17:00:47 2001] You are unstunned.
+[Sat Jul 21 17:00:47 2001] Mersi says, 'problem with a wood elf? *looks mystified*'
+[Sat Jul 21 17:01:04 2001] You say, 'or rather he has a problem with me'
+[Sat Jul 21 17:01:09 2001] You wave at Salorin Gladerunner.
+[Sat Jul 21 17:01:10 2001] Salorin Gladerunner punches YOU for 86 points of damage.
+[Sat Jul 21 17:01:10 2001] Salorin Gladerunner kicks YOU for 44 points of damage.
+[Sat Jul 21 17:01:12 2001] Salorin Gladerunner punches YOU for 50 points of damage.
+[Sat Jul 21 17:01:16 2001] Mersi bonks Espranza on the head!
+[Sat Jul 21 17:01:17 2001] Salorin Gladerunner punches YOU for 137 points of damage.
+[Sat Jul 21 17:01:17 2001] Salorin Gladerunner punches YOU for 137 points of damage.
+[Sat Jul 21 17:01:18 2001] Salorin Gladerunner bashes YOU for 45 points of damage.
+[Sat Jul 21 17:01:20 2001] Salorin Gladerunner punches YOU for 137 points of damage.
+[Sat Jul 21 17:01:20 2001] Salorin Gladerunner punches YOU for 40 points of damage.
+[Sat Jul 21 17:01:21 2001] You say, 'this hurts'
+[Sat Jul 21 17:01:23 2001] Salorin Gladerunner punches YOU for 61 points of damage.
+[Sat Jul 21 17:01:23 2001] Salorin Gladerunner punches YOU for 101 points of damage.
+[Sat Jul 21 17:01:23 2001] Salorin Gladerunner blinks a few times.
+[Sat Jul 21 17:01:25 2001] You say, 'a lot'
+[Sat Jul 21 17:01:33 2001] You say to your guild, 'hey, I was making a corpse!'
+[Sat Jul 21 17:01:41 2001] Mersi tells the guild, 'uh.. no corpses please )'
+[Sat Jul 21 17:01:42 2001] You say to your guild, 'I like to show the use of the search command'
+[Sat Jul 21 17:01:44 2001] Rimedear says, '?'
+[Sat Jul 21 17:01:57 2001] Mersi tells the guild, 'oh hehe'
+[Sat Jul 21 17:02:07 2001] You say to your guild, 'hmmmph - this isn't allowed?'
+[Sat Jul 21 17:02:17 2001] Mersi tells the guild, 'allowed but not encouraged'
+[Sat Jul 21 17:02:30 2001] You say to your guild, 'well, I'll hope for an accomodating petiton then'
+[Sat Jul 21 17:02:44 2001] Mersi tells the guild, 'hehe I will find one'
+[Sat Jul 21 17:02:48 2001] You say to your guild, 'okay'
+[Sat Jul 21 17:03:06 2001] You say, 'well, you don't get to see me die today I guess :)'
+[Sat Jul 21 17:03:40 2001] Mersi tells the guild, 'check Forron.. he has three active corpses'
+[Sat Jul 21 17:03:42 2001] Rimedear says, 'which of the guide shift reporter templates are preferred?'
+[Sat Jul 21 17:03:59 2001] You say, 'okay, since you've seen the petition tool, this should be familiar to you - but to start, bring up the guide screen by typing G at your keyboard'
+[Sat Jul 21 17:04:09 2001] Mersi says, 'whichever you like, but if you see one you like that another guide is using on the boards, email them and ask for it )'
+[Sat Jul 21 17:04:10 2001] You say, 'Any that shows the information'
+[Sat Jul 21 17:04:28 2001] Rimedear says, 'Quite a few up now'
+[Sat Jul 21 17:04:30 2001] You say, 'and then click on the PETITION button to bring up the petition queue'
+[Sat Jul 21 17:04:42 2001] You say, 'We call the petition queue "the que"'
+[Sat Jul 21 17:04:51 2001] You say, 'and we often call petitions, "pets".'
+[Sat Jul 21 17:05:12 2001] You say, 'yup, busy day'
+[Sat Jul 21 17:05:21 2001] You say, 'some days we have to hope for petitions for training :)'
+[Sat Jul 21 17:05:25 2001] You say, 'not today though'
+[Sat Jul 21 17:05:39 2001] You say, 'I'm going to put in a fake petition'
+[Sat Jul 21 17:05:47 2001] You petition, 'When will the GM be on?'
+[Sat Jul 21 17:05:51 2001] Rimedear says, 'Ok'
+[Sat Jul 21 17:06:02 2001] You say, 'look for the petition from Espranza at the end of the list'
+[Sat Jul 21 17:06:25 2001] You say, 'it's the one with the PID that begins with AUG...'
+[Sat Jul 21 17:06:40 2001] You say, 'click on it and take a look at the screen that comes up'
+[Sat Jul 21 17:06:58 2001] Players on EverQuest:
+[Sat Jul 21 17:06:58 2001] ---------------------------
+[Sat Jul 21 17:06:58 2001] There are no players in Sunset Home that match those who filters.
+[Sat Jul 21 17:07:00 2001] Players in EverQuest:
+[Sat Jul 21 17:07:00 2001] ---------------------------
+[Sat Jul 21 17:07:00 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 17:07:00 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:07:03 2001] Rimedear says, 'Yes.  I got it.  Undo checkout to take no action, right?'
+[Sat Jul 21 17:07:16 2001] You say, 'yes, but pick it up again'
+[Sat Jul 21 17:07:24 2001] You say, 'you'll be answering it :)'
+[Sat Jul 21 17:07:27 2001] Rimedear says, 'Okay, it's mine'
+[Sat Jul 21 17:07:45 2001] You say, 'now, over /pr, say "pulling Espranza"'
+[Sat Jul 21 17:08:06 2001] Espranza saved.
+[Sat Jul 21 17:08:11 2001] You say, 'as an apprentice, you will be telling us all everything you do with a petition'
+[Sat Jul 21 17:08:26 2001] Rimedear GMSAYS, 'Hello, pulling Espranza'
+[Sat Jul 21 17:08:57 2001] Mersi tells the guild, '/grin.. he's kinda cute )'
+[Sat Jul 21 17:09:05 2001] Rimedear says, '/pr She wants to know when a GM will be on'
+[Sat Jul 21 17:09:17 2001] You say, 'okay, you'll see a bunch of buttons and such, at the bottom is the petition text and an automatic /who all on my PID'
+[Sat Jul 21 17:09:28 2001] You say to your guild, 'he's a haffer, of course he's cute!'
+[Sat Jul 21 17:09:28 2001] Rimedear says, 'Yes'
+[Sat Jul 21 17:09:29 2001] It is 9 AM on Thursday, the 5th day of August, of the year 3210.
+[Sat Jul 21 17:09:29 2001] Earth Time: Sat Jul 21 17:09:29 2001
+[Sat Jul 21 17:09:45 2001] Mersi says, 'Lirus's hours are 3 to 11 PST Thursday to Monday... He should be online right now but seems unavailiable.. not sure what is up'
+[Sat Jul 21 17:10:05 2001] You say, 'if you type 't', you will set up an automatic tell to me'
+[Sat Jul 21 17:10:12 2001] You say, 'so type 't''
+[Sat Jul 21 17:10:14 2001] You feel the spirit of Norrath enter you.
+[Sat Jul 21 17:10:16 2001] Rimedear tells you, 'Ah, that is good'
+[Sat Jul 21 17:10:47 2001] You say, 'now you introduce yourself to me - try something like, "Hail, Espranza! Apprentice Guide Rimedear here - blah blah blah"'
+[Sat Jul 21 17:10:56 2001] Rimedear says, 't'
+[Sat Jul 21 17:11:11 2001] You say, 'You'll have your own style, but you should always introduce yourself as an apprentice guide.'
+[Sat Jul 21 17:11:28 2001] Rimedear tells you, 'Hail Espranza, Apprentice Guide Rimedear here, can I help you?'
+[Sat Jul 21 17:11:29 2001] You say, 'otherwise people will think you're another player (they often do anyway)'
+[Sat Jul 21 17:11:39 2001] You told Rimedear, 'yes, I was wondering when Lirus will be on?'
+[Sat Jul 21 17:12:15 2001] Rimedear tells you, 'I'm not sure about Lirus, have you tried sending him a tell?'
+[Sat Jul 21 17:12:37 2001] You say, 'try asking over /pr if you don't know the answer to a question.'
+[Sat Jul 21 17:12:48 2001] It begins to rain.
+[Sat Jul 21 17:13:08 2001] Rimedear says, 'I'm assuming there won't be a lot of players specifically asking about guides and GMs'
+[Sat Jul 21 17:13:19 2001] You say, 'while sending a tell straight to Lirus would tell if he were on, it's probably not the best way to find out his hours.'
+[Sat Jul 21 17:13:27 2001] You say, 'You'd be surprised'
+[Sat Jul 21 17:13:47 2001] You say, 'for one thing, the reimbursal policy says to contact the GM for many reasons.'
+[Sat Jul 21 17:13:56 2001] You say, 'and so people wonder when he will be on.'
+[Sat Jul 21 17:14:01 2001] Tankqer tells you, 'how far back on que am I?'
+[Sat Jul 21 17:14:04 2001] Rimedear says, 'ah, yes'
+[Sat Jul 21 17:14:15 2001] Players in EverQuest:
+[Sat Jul 21 17:14:15 2001] ---------------------------
+[Sat Jul 21 17:14:15 2001] [55 Myrmidon] Tankqer (Barbarian) <Thunderwalkers> ZONE: freportw (USER PID DM6H4N1)
+[Sat Jul 21 17:14:15 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:14:34 2001] You told Tankqer, 'about fifteen back - very busy day'
+[Sat Jul 21 17:14:58 2001] Wasaabi tells you, 'Quick question.. if the 3 hour rez timer runs out, can GMs not rez that player either?  (I have a petition in queue)'
+[Sat Jul 21 17:15:04 2001] Tankqer tells you, 'hrrm, thanks'
+[Sat Jul 21 17:15:06 2001] Rimedear says, 'you said 3 - 11 PST Mondays through Thursdays?'
+[Sat Jul 21 17:15:13 2001] You told Wasaabi, 'right, we have the same three hour limit'
+[Sat Jul 21 17:15:25 2001] You say, 'Mersi did :) but it's Thursday through Monday'
+[Sat Jul 21 17:15:26 2001] Tankqer tells you, 'gives me time to get a soda I guess :)'
+[Sat Jul 21 17:15:27 2001] Wasaabi tells you, 'well my 3 hours is about to run out.. i had my corpse summoned and I couldn't see it'
+[Sat Jul 21 17:15:32 2001] Mersi tells the guild, 'I need to camp for supper /sigh'
+[Sat Jul 21 17:15:35 2001] You say, 'Lirus has Tuesday and Wednesday off'
+[Sat Jul 21 17:15:40 2001] Mersi tells the guild, 'later all...'
+[Sat Jul 21 17:15:41 2001] You say to your guild, 'I have to leave after training as well'
+[Sat Jul 21 17:15:44 2001] You say to your guild, 'later Mersi'
+[Sat Jul 21 17:15:51 2001] Savlyn tells the guild, 'Get me some <yum Yum>'
+[Sat Jul 21 17:15:52 2001] Rimedear says, 'oof, allright... weekend warrior, eh?'
+[Sat Jul 21 17:15:52 2001] You told Wasaabi, 'second'
+[Sat Jul 21 17:16:01 2001] Searching zones for corpse of that name....
+[Sat Jul 21 17:16:01 2001] Corpse: Wasaabi's corpse0 in zone: chardok
+[Sat Jul 21 17:16:04 2001] Mersi says, 'bye for now, Rimedear.. good luck with your training )'
+[Sat Jul 21 17:16:08 2001] Mersi tells the guild, 'hehe'
+[Sat Jul 21 17:16:14 2001] Rimedear says, 'Goodbye, and thank you Mersi.'
+[Sat Jul 21 17:16:22 2001] You say to your guild, 'Savlyn, could you check out Wasaabi? His rez timer is about to expire'
+[Sat Jul 21 17:16:24 2001] Rimedear bows before Mersi.
+[Sat Jul 21 17:16:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 17:16:30 2001] USER TEXT: Had my corpse summoned and i couldn't see it
+[Sat Jul 21 17:16:30 2001] Players in EverQuest:
+[Sat Jul 21 17:16:30 2001] ---------------------------
+[Sat Jul 21 17:16:30 2001] [55 Beguiler] Wasaabi (High Elf) <Crimson Mist> ZONE: chardok (USER PID HQYDZJ8)
+[Sat Jul 21 17:16:30 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:16:32 2001] Savlyn tells the guild, 'Will do'
+[Sat Jul 21 17:16:34 2001] STATUS UPGRADED TO URGENT
+[Sat Jul 21 17:16:35 2001] CHECKING IN
+[Sat Jul 21 17:16:40 2001] You say to your guild, 'I esced it to yellow for ya'
+[Sat Jul 21 17:16:49 2001] Savlyn GMSAYS, 'Zoning'
+[Sat Jul 21 17:16:55 2001] You say to your guild, 'or so I thought'
+[Sat Jul 21 17:16:55 2001] Rimedear tells you, 'Is there anything else I can help you with?'
+[Sat Jul 21 17:17:11 2001] You told Rimedear, 'oh sorry, was handling an emergency petition :)'
+[Sat Jul 21 17:17:31 2001] You told Rimedear, 'no that will be all, thanks!'
+[Sat Jul 21 17:17:32 2001] Rimedear tells you, 'No problem, just playing new petition...'
+[Sat Jul 21 17:17:38 2001] You told Rimedear, 'no, I understand :)'
+[Sat Jul 21 17:17:45 2001] You say, 'okay let's try another one'
+[Sat Jul 21 17:17:50 2001] Rimedear tells you, 'I'm going to mark your petition complete, okay?'
+[Sat Jul 21 17:18:09 2001] Rimedear says, 'and I delete it, right?'
+[Sat Jul 21 17:18:14 2001] You say, 'over /pr say "deleting Espranza, wanted to know the GMs hours", then delete it'
+[Sat Jul 21 17:18:15 2001] Espranza saved.
+[Sat Jul 21 17:18:19 2001] You say, 'remember to announce everything'
+[Sat Jul 21 17:18:31 2001] Rimedear says, 'okay'
+[Sat Jul 21 17:18:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 17:18:55 2001] USER TEXT: last night i was disconnected and now all my stuff is gone, there anything you can do?
+[Sat Jul 21 17:18:55 2001] Players in EverQuest:
+[Sat Jul 21 17:18:55 2001] ---------------------------
+[Sat Jul 21 17:18:55 2001] [6 Druid] Forron (Halfling) ZONE: eastkarana (USER PID DX6UAB7)
+[Sat Jul 21 17:18:55 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:19:00 2001] Searching zones for corpse of that name....
+[Sat Jul 21 17:19:01 2001] Corpse: Forron's corpse0 in zone: northkarana
+[Sat Jul 21 17:19:01 2001] Corpse: Forron's corpse1 in zone: runnyeye
+[Sat Jul 21 17:19:02 2001] Rimedear GMSAYS, 'Espranza is training me on petitions, next few messages will be silly'
+[Sat Jul 21 17:19:08 2001] UNDOING CHECK OUT
+[Sat Jul 21 17:19:30 2001] You say, 'we always refer to the pets by their user names'
+[Sat Jul 21 17:19:31 2001] Rimedear GMSAYS, 'Deleting her first petition, she wanted to know Lirus's hours'
+[Sat Jul 21 17:19:48 2001] Rimedear says, 'Done'
+[Sat Jul 21 17:19:58 2001] You petition, 'Mersi stole my cookie, then logged off! Can you get my cookie back?'
+[Sat Jul 21 17:20:09 2001] You say, 'Espranza seems to have petitioned again...'
+[Sat Jul 21 17:20:26 2001] Rimedear GMSAYS, 'Taking another pet by Espranza'
+[Sat Jul 21 17:21:12 2001] Rimedear GMSAYS, 'Someone stole something from her, I don't think this is one I should field, should I escalate?'
+[Sat Jul 21 17:21:20 2001] You say, 'yes you should'
+[Sat Jul 21 17:21:33 2001] You say, 'hit the ESCALATE BUTTON'
+[Sat Jul 21 17:21:39 2001] You say, 'once for a full guide or better'
+[Sat Jul 21 17:21:46 2001] You say, 'then check it in'
+[Sat Jul 21 17:21:49 2001] Rimedear GMSAYS, 'Escalated Espranza's pet'
+[Sat Jul 21 17:22:01 2001] You say, 'then /pr escalating Espranza - someone stole her cookie'
+[Sat Jul 21 17:22:20 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 17:22:20 2001] USER TEXT: Mersi stole my cookie, then logged off! Can you get my cookie back?
+[Sat Jul 21 17:22:21 2001] Players in EverQuest:
+[Sat Jul 21 17:22:21 2001] ---------------------------
+[Sat Jul 21 17:22:21 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 17:22:21 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:22:25 2001] DELETING THIS PETITION
+[Sat Jul 21 17:22:26 2001] Rimedear GMSAYS, 'Someone stole her cookie!  The mischeivious swine!'
+[Sat Jul 21 17:22:45 2001] You say, 'and now one last practice one'
+[Sat Jul 21 17:22:53 2001] You petition, 'Help!'
+[Sat Jul 21 17:22:55 2001] Rimedear says, 'Okay'
+[Sat Jul 21 17:22:57 2001] Grenabulax tells you, 'how long does it take for an answer to a pettition'
+[Sat Jul 21 17:23:00 2001] You say, 'Oh dear, Espranza again.'
+[Sat Jul 21 17:23:15 2001] Rimedear GMSAYS, 'Taking another pet from Espranza'
+[Sat Jul 21 17:23:25 2001] You told Grenabulax, 'that depends - we are very busy and very shorthanded today... also I'm doing training right at the moment...'
+[Sat Jul 21 17:23:32 2001] You told Grenabulax, 'I see your petition in thw queue.'
+[Sat Jul 21 17:23:49 2001] Rimedear GMSAYS, 'Espranza's pet is a general cry for help, will talk to her'
+[Sat Jul 21 17:24:11 2001] Grenabulax tells you, 'nevermind you probably can t helpanyway'
+[Sat Jul 21 17:24:13 2001] Rimedear tells you, 'Hi! This is Apprentice Guide Rimedear, how can I help you?'
+[Sat Jul 21 17:24:37 2001] You told Rimedear, 'Hi! I'm stuck in between the rock and a wall in Paw! Can you get me out before I am killed?'
+[Sat Jul 21 17:25:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 17:25:01 2001] USER TEXT: hey i have a prob
+[Sat Jul 21 17:25:02 2001] Players in EverQuest:
+[Sat Jul 21 17:25:02 2001] ---------------------------
+[Sat Jul 21 17:25:02 2001] [21 Ranger] Grenabulax (Wood Elf) <Destinys Disciples> ZONE: freportn (USER PID DXYVAJ7)
+[Sat Jul 21 17:25:02 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:25:06 2001] UNDOING CHECK OUT
+[Sat Jul 21 17:25:26 2001] Rimedear tells you, 'See if you can wiggle and jump out.'
+[Sat Jul 21 17:25:40 2001] You told Rimedear, 'I tried everything, I can't even gate'
+[Sat Jul 21 17:26:14 2001] Rimedear tells you, 'Hmmm, no gate even?  That sounds bad.'
+[Sat Jul 21 17:26:22 2001] You say, 'okay, this petition requires a full guide to sort out'
+[Sat Jul 21 17:26:33 2001] You say, 'there IS a place in Paw that can grab you and not let go'
+[Sat Jul 21 17:26:40 2001] Rimedear GMSAYS, 'She's stuck in geometry, and says she can't gate. escalating.'
+[Sat Jul 21 17:26:42 2001] You say, 'a full guide has to summon them out'
+[Sat Jul 21 17:26:46 2001] You GMSAY, 'not so fast'
+[Sat Jul 21 17:26:52 2001] You say, 'before we escalate, we append'
+[Sat Jul 21 17:26:59 2001] Rimedear says, 'Ah'
+[Sat Jul 21 17:27:11 2001] You say, 'since you know what the problem is, and it wasn't covered in the petition'
+[Sat Jul 21 17:27:38 2001] You say, 'hit return as if you were going to say something, type in the additional information, and instead of hitting return to say,'
+[Sat Jul 21 17:27:46 2001] You say, 'click on the append text button.'
+[Sat Jul 21 17:27:59 2001] Rimedear says, 'Ah!  I couldn't get that to work'
+[Sat Jul 21 17:28:21 2001] Players in EverQuest:
+[Sat Jul 21 17:28:21 2001] ---------------------------
+[Sat Jul 21 17:28:21 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: chardok (USER PID EUGBAB8)
+[Sat Jul 21 17:28:21 2001] * Apprentice Guide *[ANON (20 Rogue)] Rimedear (Halfling) ZONE: cshome (USER PID BUG556P)
+[Sat Jul 21 17:28:21 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 17:28:21 2001] There are 3 players in EverQuest.
+[Sat Jul 21 17:28:25 2001] Espranza saved.
+[Sat Jul 21 17:28:33 2001] Rimedear says, 'okay, appended'
+[Sat Jul 21 17:28:44 2001] You say, 'now hit GM TEXT to see that you appended correctly'
+[Sat Jul 21 17:29:00 2001] You say, 'you should see what you just appended, as well as anyone else's appends.'
+[Sat Jul 21 17:29:05 2001] Rimedear says, 'yah, that worked'
+[Sat Jul 21 17:29:25 2001] You say, 'now you esc to yellow, check it in, and announce it over pr'
+[Sat Jul 21 17:29:56 2001] You say to your guild, 'did you grab my pet, Sav?'
+[Sat Jul 21 17:30:03 2001] Rimedear GMSAYS, 'Espranza is stuck in geometry in Split Paw, says she can't gate, needs a summon.'
+[Sat Jul 21 17:30:05 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 17:30:06 2001] USER TEXT: Help!
+[Sat Jul 21 17:30:06 2001] Players in EverQuest:
+[Sat Jul 21 17:30:06 2001] ---------------------------
+[Sat Jul 21 17:30:06 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 17:30:06 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:30:09 2001] GM TEXT: Rimedear: She is stuck in geometry in Split Paw, needs a summon.
+[Sat Jul 21 17:30:19 2001] You say, 'very good! now for a REAL petition'
+[Sat Jul 21 17:30:21 2001] DELETING THIS PETITION
+[Sat Jul 21 17:30:33 2001] Savlyn tells the guild, 'Put it back hun it jumped in my hand LOL'
+[Sat Jul 21 17:30:36 2001] You say, 'pull the first petition on the upper left - the first green one'
+[Sat Jul 21 17:30:40 2001] You say to your guild, 'heh'
+[Sat Jul 21 17:30:59 2001] Rimedear GMSAYS, 'Taking a petition from Grenabulax'
+[Sat Jul 21 17:31:06 2001] You say, 'pull then announce'
+[Sat Jul 21 17:31:12 2001] You say, 'the way things jump around...'
+[Sat Jul 21 17:31:14 2001] Rimedear says, 'okay'
+[Sat Jul 21 17:31:26 2001] Players in EverQuest:
+[Sat Jul 21 17:31:26 2001] ---------------------------
+[Sat Jul 21 17:31:26 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: chardok (USER PID EUGBAB8)
+[Sat Jul 21 17:31:26 2001] * Apprentice Guide *[ANON (20 Rogue)] Rimedear (Halfling) ZONE: cshome (USER PID BUG556P)
+[Sat Jul 21 17:31:26 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 17:31:26 2001] There are 3 players in EverQuest.
+[Sat Jul 21 17:31:34 2001] Koliyus GMSAYS, 'Hello everyone Here to help with the q'
+[Sat Jul 21 17:31:37 2001] Rimedear GMSAYS, 'He says he 'has a prob''
+[Sat Jul 21 17:31:40 2001] Players in EverQuest:
+[Sat Jul 21 17:31:40 2001] ---------------------------
+[Sat Jul 21 17:31:40 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: chardok (USER PID EUGBAB8)
+[Sat Jul 21 17:31:40 2001] * Apprentice Guide *[ANON (20 Rogue)] Rimedear (Halfling) ZONE: cshome (USER PID BUG556P)
+[Sat Jul 21 17:31:40 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 17:31:40 2001] There are 3 players in EverQuest.
+[Sat Jul 21 17:31:47 2001] You GMSAY, 'hiya Koliyus!'
+[Sat Jul 21 17:31:51 2001] You GMSAY, 'glad to see you!'
+[Sat Jul 21 17:32:00 2001] Koliyus GMSAYS, 'How is everyone?'
+[Sat Jul 21 17:32:07 2001] You GMSAY, 'busy :0 doing training'
+[Sat Jul 21 17:32:16 2001] Koliyus GMSAYS, 'sounds fun:)'
+[Sat Jul 21 17:32:39 2001] You are not in a group. Talking to yourself again???
+[Sat Jul 21 17:32:40 2001] Savlyn GMSAYS, 'Greetings =)'
+[Sat Jul 21 17:32:48 2001] You say, 'Well, find out his problem'
+[Sat Jul 21 17:32:59 2001] It is 5 PM on Thursday, the 5th day of August, of the year 3210.
+[Sat Jul 21 17:32:59 2001] Earth Time: Sat Jul 21 17:32:59 2001
+[Sat Jul 21 17:33:01 2001] Rimedear GMSAYS, 'Grenabulax is not online at this time, I should mark him unavailable?'
+[Sat Jul 21 17:33:05 2001] Koliyus GMSAYS, 'zoning'
+[Sat Jul 21 17:33:12 2001] You GMSAY, 'yes'
+[Sat Jul 21 17:33:29 2001] You say, 'mark unavail, check it in, then /pr grenabulax unavail 1'
+[Sat Jul 21 17:33:35 2001] Rimedear GMSAYS, 'Marked and checked in'
+[Sat Jul 21 17:33:38 2001] You say, 'if it's the first one'
+[Sat Jul 21 17:33:48 2001] You say, 'we give them three chances to be online before we delete the petition'
+[Sat Jul 21 17:33:53 2001] Rimedear GMSAYS, 'Grenabulax Unavail 1'
+[Sat Jul 21 17:33:53 2001] You say, 'grab another'
+[Sat Jul 21 17:34:23 2001] Rimedear GMSAYS, 'taking pet from Suvana'
+[Sat Jul 21 17:34:42 2001] You say to your guild, 'I don't want to leave with the queue like this, but I have a chardok raid in half an hour'
+[Sat Jul 21 17:35:01 2001] Rimedear GMSAYS, 'Suvana unavail 1'
+[Sat Jul 21 17:35:03 2001] You say to your guild, 'so I'm just going to log Esp in on the other computer and answer what I can'
+[Sat Jul 21 17:35:03 2001] Savlyn tells the guild, 'Ack and I must go soon too'
+[Sat Jul 21 17:35:11 2001] Zhien GMSAYS, 'hi, here to help out a little'
+[Sat Jul 21 17:35:12 2001] You say to your guild, 'agh'
+[Sat Jul 21 17:35:16 2001] You GMSAY, 'Hiya Zhien!'
+[Sat Jul 21 17:35:18 2001] Players in EverQuest:
+[Sat Jul 21 17:35:18 2001] ---------------------------
+[Sat Jul 21 17:35:18 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: chardok (USER PID EUGBAB8)
+[Sat Jul 21 17:35:18 2001] * Apprentice Guide *[ANON (20 Rogue)] Rimedear (Halfling) ZONE: cshome (USER PID BUG556P)
+[Sat Jul 21 17:35:18 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 17:35:18 2001] There are 3 players in EverQuest.
+[Sat Jul 21 17:35:23 2001] Savlyn GMSAYS, 'Hello'
+[Sat Jul 21 17:35:25 2001] Rimedear says, 'Making an announcement hot key!'
+[Sat Jul 21 17:35:48 2001] Rimedear GMSAYS, 'Hello all, new apprentice guide Rimedear getting trained'
+[Sat Jul 21 17:36:11 2001] You GMSAY, 'someone's training you? petition about it - that's a warnable offense'
+[Sat Jul 21 17:36:14 2001] Savlyn GMSAYS, 'Lord Yell seems to be out of place in Skyshrine and killing everyone can he be reset? (I aint touching him LOL)'
+[Sat Jul 21 17:36:24 2001] You GMSAY, 'Lord Yelinak? NO'
+[Sat Jul 21 17:36:29 2001] You GMSAY, 'You can't touch him'
+[Sat Jul 21 17:36:36 2001] You GMSAY, 'try blurring him'
+[Sat Jul 21 17:36:50 2001] Savlyn GMSAYS, 'I wouldn't even try, he'd make mince meat outas me'
+[Sat Jul 21 17:37:10 2001] Rimedear tells you, 'I'll go ahead and take some more, ok?'
+[Sat Jul 21 17:37:15 2001] Savlyn GMSAYS, 'Ok zoneing'
+[Sat Jul 21 17:37:15 2001] You told Rimedear, 'oh yes please do'
+[Sat Jul 21 17:37:19 2001] You told Rimedear, 'wait'
+[Sat Jul 21 17:37:22 2001] You say, 'wait a sec'
+[Sat Jul 21 17:37:27 2001] You say, 'don't pull one'
+[Sat Jul 21 17:37:37 2001] Rimedear says, 'okay'
+[Sat Jul 21 17:38:07 2001] You say, 'I want to welcome you again to the guide program :) we'd love to have you stay and answer petitions if you could - but you've reached the end of today's training'
+[Sat Jul 21 17:38:18 2001] You say, 'Are there any questions I can answer for you?'
+[Sat Jul 21 17:38:19 2001] Rimedear says, 'All righty!'
+[Sat Jul 21 17:38:30 2001] Rimedear says, 'um, nope, I think I get the idea'
+[Sat Jul 21 17:38:35 2001] Espranza saved.
+[Sat Jul 21 17:38:37 2001] You say, 'from now on, you're a full apprentice, a candidate no longer!'
+[Sat Jul 21 17:38:45 2001] Rimedear cheers at Espranza.
+[Sat Jul 21 17:38:46 2001] You say, 'okay, go non-anon'
+[Sat Jul 21 17:39:00 2001] You say, 'now /pr zone and click your appie stick'
+[Sat Jul 21 17:39:13 2001] Rimedear GMSAYS, 'Zoning'
+[Sat Jul 21 17:39:13 2001] Oraden GMSAYS, 'Hail, Any Guide+ on willing to tutor an APP?'
+[Sat Jul 21 17:39:17 2001] You GMSAY, 'yeppers'
+[Sat Jul 21 17:39:17 2001] Rimedear fades away.
+[Sat Jul 21 17:39:23 2001] You GMSAY, 'zone'
+[Sat Jul 21 17:39:28 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 17:39:53 2001] You have entered Misty Thicket.
+[Sat Jul 21 17:39:59 2001] Teleporting to rimedear.
+[Sat Jul 21 17:40:19 2001] Players in EverQuest:
+[Sat Jul 21 17:40:19 2001] ---------------------------
+[Sat Jul 21 17:40:19 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: misty (USER PID AUGBQH4)
+[Sat Jul 21 17:40:19 2001] * Apprentice Guide *[20 Rogue] Rimedear (Halfling) ZONE: misty (USER PID BUG556P)
+[Sat Jul 21 17:40:19 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: skyshrine (USER PID EUGBAB8)
+[Sat Jul 21 17:40:19 2001] * Apprentice Guide *[ANON (20 Monk)] Oraden (Human) ZONE: qeynos2 (USER PID ATWFJ36)
+[Sat Jul 21 17:40:19 2001] There are 4 players in EverQuest.
+[Sat Jul 21 17:40:21 2001] Deputy Asler says 'Time to die a skeleton'
+[Sat Jul 21 17:40:21 2001] Deputy Keld says 'Time to die a skeleton'
+[Sat Jul 21 17:40:21 2001] Deputy Eigon says 'Time to die a skeleton'
+[Sat Jul 21 17:40:26 2001] Teleporting to rimedear.
+[Sat Jul 21 17:40:30 2001] You invite Rimedear to join your group.
+[Sat Jul 21 17:40:33 2001] You GMSAY, 'zone'
+[Sat Jul 21 17:40:33 2001] Oraden GMSAYS, 'disarm is random and doesnt' work on magic weapons right?'
+[Sat Jul 21 17:40:33 2001] You have formed the group.
+[Sat Jul 21 17:40:38 2001] You GMSAY, 'right'
+[Sat Jul 21 17:40:43 2001] Rimedear tells the group, 'Hello'
+[Sat Jul 21 17:40:43 2001] Teleporting to oraden.
+[Sat Jul 21 17:40:43 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 17:41:08 2001] You have entered North Qeynos.
+[Sat Jul 21 17:41:09 2001] You have formed the group.
+[Sat Jul 21 17:41:14 2001] You invite Oraden to join your group.
+[Sat Jul 21 17:41:19 2001] Oraden has joined the group.
+[Sat Jul 21 17:41:26 2001] You tell your party, 'hiya!'
+[Sat Jul 21 17:41:31 2001] Aeneus says out of character, 'Could someone please bind me?  Will donate'
+[Sat Jul 21 17:41:35 2001] Oraden tells the group, 'greets, hi rimedear'
+[Sat Jul 21 17:41:43 2001] Rimedear tells the group, 'Hello'
+[Sat Jul 21 17:41:44 2001] Excelcior shouts, 'Is anyone in need of a bind?'
+[Sat Jul 21 17:41:47 2001] You tell your party, 'Meet Rimedear, our newest apprentice'
+[Sat Jul 21 17:41:49 2001] Aeneus says out of character, 'Yes please'
+[Sat Jul 21 17:41:58 2001] You tell your party, 'Oraden is the tech expert on the team :)'
+[Sat Jul 21 17:41:59 2001] Rimedear tells the group, '*ducks*'
+[Sat Jul 21 17:42:08 2001] Port Authority Officer shouts 'Hear ye, hear ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! 
+[Sat Jul 21 17:42:13 2001] Lashun Novashine shouts 'Cease this endless conflict and seek salvation in the Temple of Life!  The glory of Rodcet Nife awaits you! 
+[Sat Jul 21 17:42:17 2001] Rimedear tells the group, 'Aha'
+[Sat Jul 21 17:42:19 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Sat Jul 21 17:42:34 2001] You tell your party, 'okay let's kill the que'
+[Sat Jul 21 17:42:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 17:42:43 2001] USER TEXT: left told me to go fuck off because i said i'd pay for a rez
+[Sat Jul 21 17:42:43 2001] Players in EverQuest:
+[Sat Jul 21 17:42:43 2001] ---------------------------
+[Sat Jul 21 17:42:43 2001] [35 Monk] Oliwa (Human) <United Guardians> ZONE: crystal (USER PID CYKUU6F)
+[Sat Jul 21 17:42:43 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:42:53 2001] Players in EverQuest:
+[Sat Jul 21 17:42:53 2001] ---------------------------
+[Sat Jul 21 17:42:53 2001] [ANON (56 Master)] Left (Human) ZONE: iceclad (USER PID GU1WU4X)
+[Sat Jul 21 17:42:53 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:43:29 2001] Oraden GMSAYS, 'told temerin to be patient... deleting temerin'
+[Sat Jul 21 17:43:37 2001] You told Oliwa, 'Hail, Oliwa! Guide Espranza here. Were you able to get report text on what Left said?'
+[Sat Jul 21 17:43:38 2001] Rimedear GMSAYS, 'Taking pets'
+[Sat Jul 21 17:43:40 2001] Oraden GMSAYS, 'pulling gamanin'
+[Sat Jul 21 17:43:54 2001] Oliwa tells you, 'nope'
+[Sat Jul 21 17:44:09 2001] Fippy Darkpaw shouts '<BBBBBAAAARRRKKKK!!!!!>  You humans will pay for ruining our homeland!!  GRRRRRRRR!!!!  Family Darkpaw of the Sabretooth Clan will slay you all!!  <BARK!> 
+[Sat Jul 21 17:44:12 2001] Oliwa tells you, 'got attacked by a griffon'
+[Sat Jul 21 17:44:14 2001] Shaftious says out of character, 'Could anyone please give me a bind at gate?'
+[Sat Jul 21 17:44:26 2001] Savlyn GMSAYS, 'Ok I have Cast Mem Blur On Lord Yelinak multiple times and He is in his Lair, I hope that helps, so delete any further pets concerning him'
+[Sat Jul 21 17:44:49 2001] You told Oliwa, 'Hmmm.... without that there's little we can do. The best thing to do is to use /ignore on people like that, and to /report what they said.'
+[Sat Jul 21 17:44:51 2001] Oraden GMSAYS, 'aye, will do.'
+[Sat Jul 21 17:45:04 2001] Oliwa tells you, 'ok'
+[Sat Jul 21 17:45:04 2001] You GMSAY, 'wtg Sav!'
+[Sat Jul 21 17:45:12 2001] Savlyn GMSAYS, 'And BTW THIS GUY IS SCARY LOOKIN =)'
+[Sat Jul 21 17:45:22 2001] Rimedear GMSAYS, 'Taking pet from Mezim'
+[Sat Jul 21 17:45:22 2001] Shaftious says out of character, 'Could anyone please give me a bind at gate?'
+[Sat Jul 21 17:45:23 2001] You told Oliwa, 'next time, if you get a good report on him, we can warn him for it.'
+[Sat Jul 21 17:45:26 2001] DELETING THIS PETITION
+[Sat Jul 21 17:45:27 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 17:45:28 2001] USER TEXT: I wish to change my name.
+[Sat Jul 21 17:45:28 2001] Players in EverQuest:
+[Sat Jul 21 17:45:28 2001] ---------------------------
+[Sat Jul 21 17:45:28 2001] [ANON (34 Druid)] Erendon (Human) ZONE: iceclad (USER PID GPKTSXY)
+[Sat Jul 21 17:45:28 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:45:35 2001] Oliwa tells you, 'alright'
+[Sat Jul 21 17:45:42 2001] You told Erendon, 'Hail, Erendon! Guide Espranza here. What's wrong with your name?'
+[Sat Jul 21 17:45:44 2001] You told Oliwa, 'be well!'
+[Sat Jul 21 17:45:49 2001] Oliwa tells you, 'u too'
+[Sat Jul 21 17:45:52 2001] Erendon tells you, 'I have to see Lirus for that =)'
+[Sat Jul 21 17:46:06 2001] Rimedear GMSAYS, 'He paid a lot for a pet spell that's only giving him green and blue pets'
+[Sat Jul 21 17:46:11 2001] Your protection fades.
+[Sat Jul 21 17:46:13 2001] a Klicnik Drone has been slain by Learith!
+[Sat Jul 21 17:46:23 2001] You told Erendon, 'we have people on right now who can change names, but we must have a reason.'
+[Sat Jul 21 17:46:25 2001] Erendon tells you, 'I already saw 3 GM for that =) But they tell me to see Lirus, do u know if he ll be there tonight ?'
+[Sat Jul 21 17:46:28 2001] Rimedear GMSAYS, 'He thinks it's a bug'
+[Sat Jul 21 17:46:29 2001] You GMSAY, 'o-kay....'
+[Sat Jul 21 17:46:39 2001] Erendon tells you, 'Ho well, give me a sec, i reach a safe point to talk =)'
+[Sat Jul 21 17:46:41 2001] a Klicnik Drone has been slain by Learith!
+[Sat Jul 21 17:46:42 2001] You GMSAY, 'never saw a yellow or red pet'
+[Sat Jul 21 17:46:52 2001] Savlyn GMSAYS, 'Zoning'
+[Sat Jul 21 17:46:55 2001] Oraden GMSAYS, 'gamanin wanted to know if training was illegal... normal trains are allowed deliberate trains aren't. told him to /petition again if he's sure it's on purpose. deleting gamanin'
+[Sat Jul 21 17:46:58 2001] You GMSAY, 'my pets are always green and blue'
+[Sat Jul 21 17:47:09 2001] Oraden GMSAYS, 'pulling tankqer'
+[Sat Jul 21 17:47:11 2001] The spirit leaves you.
+[Sat Jul 21 17:47:22 2001] Rimedear GMSAYS, 'I should tell him stronger and higher level spells will work better'
+[Sat Jul 21 17:47:25 2001] Rimedear GMSAYS, '?'
+[Sat Jul 21 17:47:37 2001] Erendon tells you, 'Ok =) Well, the true name of my character is Erandorn (as my Login), but i had a bug one day, and saw a GM who gived me Erendon instead of Erandorn'
+[Sat Jul 21 17:47:38 2001] You GMSAY, 'no, your pets will almost always be green and blue'
+[Sat Jul 21 17:47:49 2001] Erendon tells you, 'He told me to tell a GM later to get back my right name'
+[Sat Jul 21 17:47:52 2001] Rimedear GMSAYS, 'will convey'
+[Sat Jul 21 17:48:15 2001] You told Erendon, 'do you remember who this GM was?'
+[Sat Jul 21 17:48:17 2001] Erendon tells you, 'But it was a long time ago, GM told me every times to wait for the GM Admin'
+[Sat Jul 21 17:48:19 2001] Aulyeni shouts, 'weary traveler in need of a bind will donate :)'
+[Sat Jul 21 17:48:23 2001] Erendon tells you, 'I don t sorry ('
+[Sat Jul 21 17:48:32 2001] Koliyus GMSAYS, 'ok back woot:)'
+[Sat Jul 21 17:48:37 2001] Erendon tells you, 'He told me that there was a bug with Erandorn'
+[Sat Jul 21 17:48:37 2001] You told Erendon, 'and you need your name changed from Erendon to Erendorn?'
+[Sat Jul 21 17:48:38 2001] Port Authority Officer shouts 'Hear ye, hear ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! 
+[Sat Jul 21 17:48:46 2001] Erendon tells you, 'Erendon to Erandorn'
+[Sat Jul 21 17:48:50 2001] Rimedear GMSAYS, 'Mezim unavail 1, checking in'
+[Sat Jul 21 17:48:52 2001] Erendon tells you, 'If this is possible of course =)'
+[Sat Jul 21 17:49:20 2001] You told Erendon, 'I don't know... your name doesn't violate any guidelines... let me see if they attached a note to your account about it.'
+[Sat Jul 21 17:49:21 2001] Erendon tells you, 'I play this char since a long time, and i must say that i don t like this "Erendon"  which have nothing to do with my RP )'
+[Sat Jul 21 17:49:23 2001] Rimedear GMSAYS, 'Pulling Soroken'
+[Sat Jul 21 17:49:26 2001] Aulyeni shouts, 'weary trveler in need of a bind will donate :)'
+[Sat Jul 21 17:49:42 2001] STATUS UPGRADED TO URGENT
+[Sat Jul 21 17:49:44 2001] Erendon tells you, 'Yes, it don t violate any name rules, but i was when i had the bug'
+[Sat Jul 21 17:49:44 2001] CHECKING IN
+[Sat Jul 21 17:49:49 2001] You GMSAY, 'Erendon is mine'
+[Sat Jul 21 17:50:02 2001] Solarious says out of character, 'Can somebody help with the price of an item?'
+[Sat Jul 21 17:50:04 2001] Rimedear GMSAYS, 'Wants to know where to get a Rogue commands manual'
+[Sat Jul 21 17:50:16 2001] Oraden GMSAYS, 'you will love this one... got report of mob under world in Plane of Growth. /reported but doesnt recall name'
+[Sat Jul 21 17:50:16 2001] You GMSAY, 'from other rogues'
+[Sat Jul 21 17:50:18 2001] Erendon tells you, 'The GM Told me that it was in the forbiden list, and he didn t know why,j that s why he told me to try later'
+[Sat Jul 21 17:50:24 2001] Erendon tells you, 'with another GM'
+[Sat Jul 21 17:50:30 2001] Oraden GMSAYS, 'escalating tankqer to yellow'
+[Sat Jul 21 17:50:44 2001] Rimedear GMSAYS, 'ah, good one... '
+[Sat Jul 21 17:50:45 2001] Erendon tells you, 'Thanks a lot for your help'
+[Sat Jul 21 17:50:58 2001] You GMSAY, 'he reported under what name?'
+[Sat Jul 21 17:51:07 2001] Oraden GMSAYS, 'tankqer is back at yellow, PoG investigtion, need to open a report. (no name on /report)'
+[Sat Jul 21 17:51:13 2001] Espranza saved.
+[Sat Jul 21 17:51:17 2001] You GMSAY, 'ask him'
+[Sat Jul 21 17:51:33 2001] You GMSAY, 'the report command requires a name'
+[Sat Jul 21 17:51:38 2001] Oraden tells the group, 'i did, he didn't have time he /reported as he died to underworld mob'
+[Sat Jul 21 17:51:44 2001] Saving soulmark information to server.
+[Sat Jul 21 17:51:52 2001] Zhien GMSAYS, 'someone need a /report checked?'
+[Sat Jul 21 17:52:08 2001] You GMSAY, 'then escalate it to red. I can't go beneath the world without a destination - only a GM can.'
+[Sat Jul 21 17:52:26 2001] Erendon tells you, 'In fact, i had a bug when i ve created my first char who was Erandorn. So i took Erendorn, then i had a bug, i had to make a new char, and the GM called me Erendon'
+[Sat Jul 21 17:52:35 2001] You told Erendon, 'Okay, I see a note from Lirus on your account - I'll escalate it.'
+[Sat Jul 21 17:52:41 2001] Koliyus GMSAYS, 'ok i will get him next'
+[Sat Jul 21 17:52:48 2001] You GMSAY, 'who took Erendon?'
+[Sat Jul 21 17:52:53 2001] Erendon tells you, 'Err is there a problem with my account ?'
+[Sat Jul 21 17:52:53 2001] You feel the spirit of Norrath enter you.
+[Sat Jul 21 17:53:01 2001] You told Erendon, 'no, it was just a note about your name'
+[Sat Jul 21 17:53:13 2001] Erendon tells you, 'Can i know what it is ? =)'
+[Sat Jul 21 17:53:15 2001] Rimedear GMSAYS, 'Soroken isn't responding'
+[Sat Jul 21 17:53:22 2001] Fippy Darkpaw shouts '<BBBBBAAAARRRKKKK!!!!!>  You humans will pay for ruining our homeland!!  GRRRRRRRR!!!!  Family Darkpaw of the Sabretooth Clan will slay you all!!  <BARK!> 
+[Sat Jul 21 17:53:29 2001] You told Erendon, 'said they changed your name to Erendon to get past the name filter'
+[Sat Jul 21 17:53:43 2001] Erendon tells you, 'So the name was in forbiden names ?'
+[Sat Jul 21 17:53:54 2001] You told Erendon, 'it may already have been used'
+[Sat Jul 21 17:54:00 2001] You told Erendon, 'that's all it says'
+[Sat Jul 21 17:54:10 2001] Erendon tells you, 'Yes, i had a bug during the first creation'
+[Sat Jul 21 17:54:18 2001] Erendon tells you, 'But nobody have this name, i ve checked'
+[Sat Jul 21 17:54:21 2001] Erendon tells you, 'Zone =) sorry'
+[Sat Jul 21 17:54:30 2001] You told Erendon, 'please petition again, someone lost your petition'
+[Sat Jul 21 17:54:34 2001] Erendon tells you, 'Arf'
+[Sat Jul 21 17:54:41 2001] Rimedear GMSAYS, 'He still isn't responding, mark unavail?'
+[Sat Jul 21 17:54:47 2001] You told Erendon, 'while I was checking notes :)'
+[Sat Jul 21 17:54:49 2001] Erendon tells you, 'Hum, do u think the problem will be solve this night ? =)'
+[Sat Jul 21 17:54:54 2001] You told Erendon, 'I don't know'
+[Sat Jul 21 17:55:03 2001] Oraden GMSAYS, 'escalated tankqer to red to GM to open report and check on underwold mob with no specific name in Plane of Growth'
+[Sat Jul 21 17:55:10 2001] Erendon tells you, 'My petition is on the Queue'
+[Sat Jul 21 17:55:13 2001] Erendon tells you, 'I can t petition again'
+[Sat Jul 21 17:55:13 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Sat Jul 21 17:55:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 17:55:18 2001] USER TEXT: I wish to change my name.
+[Sat Jul 21 17:55:18 2001] Players in EverQuest:
+[Sat Jul 21 17:55:18 2001] ---------------------------
+[Sat Jul 21 17:55:18 2001] [ANON (34 Druid)] Erendon (Human) ZONE: iceclad (USER PID GPKTSXY)
+[Sat Jul 21 17:55:18 2001] There is 1 player in EverQuest.
+[Sat Jul 21 17:55:18 2001] Oraden GMSAYS, 'pulling hanahiah'
+[Sat Jul 21 17:55:25 2001] You told Erendon, 'oh I see it... someone escalated it'
+[Sat Jul 21 17:55:28 2001] GM TEXT: 
+[Sat Jul 21 17:55:38 2001] Erendon tells you, 'Ok =) Good =)'
+[Sat Jul 21 17:56:11 2001] Zhien GMSAYS, 'say, for undeletions and the like of characters, since Lirus won't be in today and I have no idea wh the cover is for this server, have them email her if we don't get to them in time'
+[Sat Jul 21 17:56:38 2001] Zhien GMSAYS, 'zoning to PoG'
+[Sat Jul 21 17:56:50 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sat Jul 21 17:56:50 2001] GM TEXT: Espranza: Says there was a problem with his name creation - note on his account affirms this - needs the name Erandorn, the name he always intended.
+[Sat Jul 21 17:56:52 2001] CHECKING IN
+[Sat Jul 21 17:56:58 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Sat Jul 21 17:57:22 2001] You GMSAY, 'esclated Erendon - needs name changed, note on account seems to imply he can have one, text appended'
+[Sat Jul 21 17:57:41 2001] Zhien GMSAYS, 'I don't see any NPCs in Growth with the name Priest'
+[Sat Jul 21 18:09:59 2001] Welcome to EverQuest!
+[Sat Jul 21 18:09:59 2001] You have entered North Qeynos.
+[Sat Jul 21 18:09:59 2001] MESSAGE OF THE DAY: Welcome to EverQuest! Please make sure you have the Kunark or Velious expansions installed on the computer that you are using before you attempt to enter into a Kunark or Velious zone. Thank you.
+[Sat Jul 21 18:10:00 2001] GUILD MOTD: Mersi - Please make sure you are scheduled! we wiped it =)
+[Sat Jul 21 18:10:06 2001] You GMSAY, 'woohoo! back!'
+[Sat Jul 21 18:10:12 2001] Logging to 'eqlog.txt' is now *ON*.
+[Sat Jul 21 18:10:15 2001] Players in EverQuest:
+[Sat Jul 21 18:10:15 2001] ---------------------------
+[Sat Jul 21 18:10:15 2001] * Guide *[20 Monk] Larsot (Iksar) ZONE: kurn (USER PID GUGBHE6)
+[Sat Jul 21 18:10:15 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: qeynos2 (USER PID AUGBQH4)
+[Sat Jul 21 18:10:15 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: kurn (USER PID EUGBAB8)
+[Sat Jul 21 18:10:15 2001] * Apprentice Guide *[ANON (20 Monk)] Oraden (Human) ZONE: qeynos2 (USER PID ATWFJ36)
+[Sat Jul 21 18:10:15 2001] There are 4 players in EverQuest.
+[Sat Jul 21 18:10:16 2001] Larsot GMSAYS, 'welcome back  :)'
+[Sat Jul 21 18:10:20 2001] Oraden GMSAYS, 'bordolaff got his own corpse. deleting bordolaff'
+[Sat Jul 21 18:10:36 2001] Oraden GMSAYS, 'pulling rashel'
+[Sat Jul 21 18:10:40 2001] It begins to rain.
+[Sat Jul 21 18:10:41 2001] You GMSAY, 'Rimedear left?'
+[Sat Jul 21 18:10:48 2001] You GMSAY, 'and congrats, Larsot!'
+[Sat Jul 21 18:10:56 2001] Oraden GMSAYS, 'had to go, eat or something'
+[Sat Jul 21 18:11:02 2001] Larsot GMSAYS, 'tyhanks  :)....now i just need clothes, hehe'
+[Sat Jul 21 18:11:15 2001] You GMSAY, 'is a GM on who can buff ya?'
+[Sat Jul 21 18:11:34 2001] Savlyn GMSAYS, 'Nope =('
+[Sat Jul 21 18:11:44 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Sat Jul 21 18:11:52 2001] Savlyn GMSAYS, 'Oraden how come your anon?'
+[Sat Jul 21 18:12:02 2001] Aaamar says out of character, 'where can I buy a file mold?'
+[Sat Jul 21 18:12:10 2001] Oraden GMSAYS, 'didn't think i was... going off anon'
+[Sat Jul 21 18:13:01 2001] You GMSAY, 'zone'
+[Sat Jul 21 18:13:04 2001] LOADING, PLEASE WAIT...
+[Sat Jul 21 18:13:26 2001] You have entered Sunset Home.
+[Sat Jul 21 18:13:41 2001] It begins to rain.
+[Sat Jul 21 18:13:56 2001] Oraden GMSAYS, 'yep'
+[Sat Jul 21 18:15:32 2001] Oraden GMSAYS, 'possible need of a world kick. (second character account won't re-sync with server, sent tell no response)'
+[Sat Jul 21 18:15:52 2001] Oraden GMSAYS, 'escalating rashel to red for sleeper investigation.'
+[Sat Jul 21 18:16:31 2001] Oraden GMSAYS, 'checking Rashel in, red, text appended, possible /kick needed'
+[Sat Jul 21 18:16:37 2001] Players in EverQuest:
+[Sat Jul 21 18:16:37 2001] ---------------------------
+[Sat Jul 21 18:16:37 2001] [43 Cleric] Rashel (Dark Elf) <Phantom Knights> ZONE: commons (USER PID EY2LG2M)
+[Sat Jul 21 18:16:37 2001] There is 1 player in EverQuest.
+[Sat Jul 21 18:16:45 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 18:16:46 2001] USER TEXT: my 2nd acc chara is ld but still active in server ,,,
+[Sat Jul 21 18:16:46 2001] Players in EverQuest:
+[Sat Jul 21 18:16:46 2001] ---------------------------
+[Sat Jul 21 18:16:46 2001] [43 Cleric] Rashel (Dark Elf) <Phantom Knights> ZONE: commons (USER PID EY2LG2M)
+[Sat Jul 21 18:16:46 2001] There is 1 player in EverQuest.
+[Sat Jul 21 18:16:47 2001] Oraden GMSAYS, 'pulling decaydious'
+[Sat Jul 21 18:16:52 2001] GM TEXT: Oraden: second character is Garatia CRV5VPY 
+[Sat Jul 21 18:16:57 2001] UNDOING CHECK OUT
+[Sat Jul 21 18:17:28 2001] Larsot GMSAYS, '~~ZONE~~'
+[Sat Jul 21 18:18:34 2001] Players in EverQuest:
+[Sat Jul 21 18:18:34 2001] ---------------------------
+[Sat Jul 21 18:18:34 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 21 18:18:34 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: kurn (USER PID EUGBAB8)
+[Sat Jul 21 18:18:34 2001] * Apprentice Guide *[20 Monk] Oraden (Human) ZONE: qeynos2 (USER PID ATWFJ36)
+[Sat Jul 21 18:18:34 2001] There are 3 players in EverQuest.
+[Sat Jul 21 18:19:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 18:19:55 2001] USER TEXT: PLZ Help i have ahd this bug for a while and talked with many gms plz help to get this fixed for me
+[Sat Jul 21 18:19:55 2001] Players in EverQuest:
+[Sat Jul 21 18:19:55 2001] ---------------------------
+[Sat Jul 21 18:19:55 2001] [31 Shaman] Guijn (Barbarian) <Clan Silvermoon> ZONE: overthere (USER PID CUQFW5B)
+[Sat Jul 21 18:19:55 2001] There is 1 player in EverQuest.
+[Sat Jul 21 18:20:18 2001] You told Guijn, 'Hail, Guijn! Guide Espranza here. How may I help you?'
+[Sat Jul 21 18:21:03 2001] Guijn tells you, 'i have had this bug for a while that causes all my mana to leave when i cast a single spell that should barly take any mana'
+[Sat Jul 21 18:21:38 2001] You told Guijn, 'all spells, or just one spell in particular?'
+[Sat Jul 21 18:21:57 2001] Guijn tells you, 'any spell'
+[Sat Jul 21 18:22:32 2001] You told Guijn, 'are you hungry or thirsty?'
+[Sat Jul 21 18:22:41 2001] Guijn tells you, 'nope'
+[Sat Jul 21 18:23:33 2001] Espranza saved.
+[Sat Jul 21 18:23:45 2001] You told Guijn, 'And of course, the blue bar is the mana bar... h\what is your wisdom?'
+[Sat Jul 21 18:23:57 2001] Guijn tells you, '131'
+[Sat Jul 21 18:24:04 2001] Dolcemorte tells you, 'back to temple of vesheen'
+[Sat Jul 21 18:24:13 2001] Larsot GMSAYS, 'isnt Lirus supposed to be on at this time? or she have weekends off?'
+[Sat Jul 21 18:24:13 2001] You told Dolcemorte, 'yay!'
+[Sat Jul 21 18:24:20 2001] You GMSAY, 'Lirus is supposed to be here'
+[Sat Jul 21 18:24:23 2001] Dolcemorte tells you, 'i got boots last night~~'
+[Sat Jul 21 18:24:24 2001] Savlyn GMSAYS, 'Not comming today'
+[Sat Jul 21 18:24:25 2001] Dolcemorte tells you, 'zone'
+[Sat Jul 21 18:24:58 2001] You told Guijn, 'That's plenty of mana... well, there is no GM on today who can check that out.'
+[Sat Jul 21 18:25:14 2001] Oraden GMSAYS, 'some convention or somesuch... had to split up the GM staff so they could attend i think.....'
+[Sat Jul 21 18:25:14 2001] You told Guijn, 'You will have to try again tomorrow - I'm sorry.'
+[Sat Jul 21 18:25:29 2001] Guijn tells you, 'ok thanks for the help friend'
+[Sat Jul 21 18:26:00 2001] You told Guijn, 'be well!'
+[Sat Jul 21 18:26:05 2001] DELETING THIS PETITION
+[Sat Jul 21 18:26:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 21 18:26:37 2001] USER TEXT: iwanted a bronz sleve and a guy named tallan said he would trade for 17pp well he put up the sleve then i put up the 17pp then i pushed trade so did he and i have no slev
+[Sat Jul 21 18:26:37 2001] Players in EverQuest:
+[Sat Jul 21 18:26:37 2001] ---------------------------
+[Sat Jul 21 18:26:37 2001] [ANON (12 Cleric)] Solitarian (Dwarf) ZONE: ecommons (USER PID HZQUZAS)
+[Sat Jul 21 18:26:37 2001] There is 1 player in EverQuest.
+[Sat Jul 21 18:26:46 2001] UNDOING CHECK OUT
+[Sat Jul 21 18:26:47 2001] Larsot GMSAYS, 'well heck, I dont want to be a nekid guide for too long  :P'
+[Sat Jul 21 18:26:47 2001] Guijn tells you, 'it just did it again  lol'
+[Sat Jul 21 18:27:02 2001] You GMSAY, 'go to chat and as a chat gm to buff ya'
+[Sat Jul 21 18:27:25 2001] Larsot GMSAYS, 'You think they would?'
+[Sat Jul 21 18:27:39 2001] Dolcemorte tells you, 'so you guys try faydar again?'
+[Sat Jul 21 18:27:41 2001] You GMSAY, 'sure, you have a blue name now'
+[Sat Jul 21 18:27:44 2001] Oraden GMSAYS, 'they might, or a SWAT GM if you can get one ;)'
+[Sat Jul 21 18:27:49 2001] You told Dolcemorte, 'not yet, maybe tomorrow'
+[Sat Jul 21 18:27:54 2001] Dolcemorte tells you, 'cool'
+[Sat Jul 21 18:28:13 2001] Larsot GMSAYS, 'not really a big hurry, i just thought it would be nice to be buffed by our own server GM  :)'
+[Sat Jul 21 18:28:14 2001] Oraden GMSAYS, 'deleting decaydious, wanted illegal ` names for surname'
+[Sat Jul 21 18:28:27 2001] Oraden GMSAYS, 'pulling solitarian'
+[Sat Jul 21 18:30:18 2001] You GMSAY, 'well you guys have got the queue in hand, gonna play in chardok for awhile'
+[Sat Jul 21 18:30:25 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Jul 21 18:30:29 2001] You GMSAY, 'later all!'
+[Sat Jul 21 18:30:29 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Jul 21 18:30:34 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Jul 21 18:30:39 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Jul 21 18:30:42 2001] Oraden GMSAYS, 'escalating solitarian to red, possible trade scam, scammer pid in appended text'
+[Sat Jul 21 18:30:43 2001] Savlyn GMSAYS, 'Bye Hun'
+[Sat Jul 21 18:30:43 2001] Larsot GMSAYS, 'Bye Espranza'
+[Sat Jul 21 18:30:44 2001] It will take about 10 more seconds to prepare your camp.
+[Sat Jul 21 18:30:49 2001] It will take about 5 more seconds to prepare your camp.
+[Sat Jul 21 18:30:49 2001] You GMSAY, 'esc to yellow not red'

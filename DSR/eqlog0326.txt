@@ -1,0 +1,1960 @@
+[Mon Mar 26 08:59:20 2001] Welcome to EverQuest!
+[Mon Mar 26 08:59:20 2001] You have entered Sunset Home.
+[Mon Mar 26 08:59:20 2001] MESSAGE OF THE DAY: Greetings Morell Thule! Please join me in celebrating the victory of Grimgore in our server Shaman Best of the Best Tourament! He will be moving on to the finals on test later to compete! Way to go Grimgore!
+[Mon Mar 26 08:59:33 2001] Logging to 'eqlog.txt' is now *ON*.
+[Mon Mar 26 08:59:36 2001] Players in EverQuest:
+[Mon Mar 26 08:59:36 2001] ---------------------------
+[Mon Mar 26 08:59:36 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER 279081680:guidemorell4)
+[Mon Mar 26 08:59:36 2001] There is 1 player in EverQuest.
+[Mon Mar 26 08:59:48 2001] You GMSAY, 'Hi everyone! Just checking out a merchant... ZONING'
+[Mon Mar 26 09:00:04 2001] Saldace tells you, 'hi'
+[Mon Mar 26 09:00:11 2001] Players in EverQuest:
+[Mon Mar 26 09:00:11 2001] ---------------------------
+[Mon Mar 26 09:00:11 2001] [ANON (16 Warrior)] Saldace (Barbarian) ZONE: ecommons (USER 467580705:antjos)
+[Mon Mar 26 09:00:11 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:00:16 2001] You told Saldace, 'hi!'
+[Mon Mar 26 09:00:24 2001] You no longer have a target.
+[Mon Mar 26 09:00:31 2001] ERROR: Couldn't get safe coords for illomen, unable to zone.
+
+[Mon Mar 26 09:00:38 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 09:01:12 2001] You have entered Lake of Ill Omen.
+[Mon Mar 26 09:01:21 2001] Ktana shouts, 'willing to pay for sow and invis at WM:)'
+[Mon Mar 26 09:01:25 2001] Howwo tells you, 'can u help me i need to log now'
+[Mon Mar 26 09:01:27 2001] Searching for nubs_blackgranite00.
+[Mon Mar 26 09:01:27 2001] Player is in zone lakeofillomen at x = -1781 y = -1853 z = 102.
+[Mon Mar 26 09:01:29 2001] Hindeil auctions, 'lvl 17 to 20 group looking fer one more'
+[Mon Mar 26 09:01:29 2001] Yucan says out of character, 'did someone petition for gm to dt Nubs yet?'
+[Mon Mar 26 09:01:31 2001] Teleporting to Nubs_Blackgranite00 (-1781.00, -1853.00, 102.10).
+[Mon Mar 26 09:01:31 2001] Saldace tells you, 'do u know when the next arena fight is'
+[Mon Mar 26 09:01:48 2001] You told Saldace, 'Sadly, I do not.'
+[Mon Mar 26 09:01:53 2001] Players in EverQuest:
+[Mon Mar 26 09:01:53 2001] ---------------------------
+[Mon Mar 26 09:01:53 2001] There are no players in EverQuest that match those who filters.
+[Mon Mar 26 09:01:55 2001] Ailedoree tells you, 'Hi, can I ask you how far I am in petition order ?  swimming somewhere in OOT make me worry :p'
+[Mon Mar 26 09:01:56 2001] Players in EverQuest:
+[Mon Mar 26 09:01:56 2001] ---------------------------
+[Mon Mar 26 09:01:56 2001] [4 Druid] Howwo (Halfling) ZONE: misty (USER 271681351:jechafamily)
+[Mon Mar 26 09:01:57 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:02:04 2001] Saldace tells you, 'do u know any gm's who do'
+[Mon Mar 26 09:02:20 2001] Ktana shouts, 'willing to pay for sow and invis at WM:)'
+[Mon Mar 26 09:02:29 2001] You told Saldace, 'the next scheduled event will be posted on the message of the day when you log in.'
+[Mon Mar 26 09:02:41 2001] Saldace tells you, 'k'
+[Mon Mar 26 09:02:41 2001] Players in EverQuest:
+[Mon Mar 26 09:02:41 2001] ---------------------------
+[Mon Mar 26 09:02:41 2001] [14 Monk] Ailedoree (Human) ZONE: oot (USER 247081360:ivankerensky)
+[Mon Mar 26 09:02:41 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:03:03 2001] You told Ailedoree, 'you're next, just have to finish resetting this merchant'
+[Mon Mar 26 09:03:09 2001] Ailedoree tells you, 'ok thanks'
+[Mon Mar 26 09:03:21 2001] You GMSAY, '<note issue> Reset Nubs Blackgranite'
+[Mon Mar 26 09:03:28 2001] Auto attack on.
+[Mon Mar 26 09:03:29 2001] Nubs Blackgranite says 'Time to die! 
+[Mon Mar 26 09:03:29 2001] You slash Nubs Blackgranite for 26 points of damage.
+[Mon Mar 26 09:03:29 2001] You slash Nubs Blackgranite for 24 points of damage.
+[Mon Mar 26 09:03:29 2001] Nubs Blackgranite slashes YOU for 97 points of damage.
+[Mon Mar 26 09:03:29 2001] Nubs Blackgranite slashes YOU for 64 points of damage.
+[Mon Mar 26 09:03:30 2001] Auto attack off.
+[Mon Mar 26 09:03:31 2001] Nubs Blackgranite slashes YOU for 60 points of damage.
+[Mon Mar 26 09:03:33 2001] Nubs Blackgranite slashes YOU for 85 points of damage.
+[Mon Mar 26 09:03:52 2001] Ainwen shouts, 'would any kind soul TP me to EC or WC? My corpse is there'
+[Mon Mar 26 09:04:43 2001] Nubs Blackgranite slashes YOU for 19 points of damage.
+[Mon Mar 26 09:04:51 2001] Nubs Blackgranite blinks a few times.
+[Mon Mar 26 09:04:51 2001] You can't use that command right now...
+[Mon Mar 26 09:04:51 2001] Nubs Blackgranite blinks a few times.
+[Mon Mar 26 09:04:52 2001] You can't use that command right now...
+[Mon Mar 26 09:04:52 2001] Nubs Blackgranite blinks a few times.
+[Mon Mar 26 09:04:52 2001] Nubs Blackgranite blinks a few times.
+[Mon Mar 26 09:04:57 2001] You no longer have a target.
+[Mon Mar 26 09:04:58 2001] You no longer have a target.
+[Mon Mar 26 09:04:58 2001] Nubs Blackgranite says 'Hi there Espranza, just browsing?  Have you seen the Darkbone Marrow I just got in?'
+[Mon Mar 26 09:05:02 2001] Espranza saved.
+[Mon Mar 26 09:05:04 2001] Mandranir shouts, 'WTT clarity for a SOW'
+[Mon Mar 26 09:05:06 2001] You say, 'let that be a lesson to you!'
+[Mon Mar 26 09:05:08 2001] Nubs Blackgranite says 'Hello there Muir, how about a nice Finely Crafted Shan`Tok?'
+[Mon Mar 26 09:05:17 2001] Chakrn auctions, 'WTB braided cinch cord'
+[Mon Mar 26 09:05:22 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 09:05:23 2001] USER TEXT: I get killed by a Cyclops jumping on the boat from FP to BB , my bdy lie somewhere in the deep of OOT , can you help me retrieve it ? 
+[Mon Mar 26 09:05:23 2001] Players in EverQuest:
+[Mon Mar 26 09:05:23 2001] ---------------------------
+[Mon Mar 26 09:05:23 2001] [14 Monk] Ailedoree (Human) ZONE: oot (USER 247081360:ivankerensky)
+[Mon Mar 26 09:05:23 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:05:32 2001] You GMSAY, 'zoning'
+[Mon Mar 26 09:05:39 2001] Searching zones for corpse of that name....
+[Mon Mar 26 09:05:39 2001] Corpse: Ailedoree's corpse0 in zone: oot
+[Mon Mar 26 09:05:42 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 09:06:07 2001] You have entered Ocean of Tears.
+[Mon Mar 26 09:06:17 2001] Saldace tells you, 'do u know how to dye armor'
+[Mon Mar 26 09:06:20 2001] Searching zones for corpse of that name....
+[Mon Mar 26 09:06:20 2001] Corpse: Ailedoree's corpse0 in zone: oot
+[Mon Mar 26 09:06:38 2001] You told Saldace, 'you might be best off asking a smith that.'
+[Mon Mar 26 09:06:51 2001] Saldace tells you, 'k'
+[Mon Mar 26 09:07:02 2001] Teleporting to Ailedoree's corpse0.
+[Mon Mar 26 09:07:07 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 09:07:31 2001] You have entered Ocean of Tears.
+[Mon Mar 26 09:07:49 2001] Summoning ailedoree's corpse0.
+[Mon Mar 26 09:08:15 2001] You told Ailedoree, 'Hail, Ailedoree! Guide Espranza here. Your water-soaked body is awaiting you on the docks of Sister Isle. Be well!'
+[Mon Mar 26 09:08:21 2001] DELETING THIS PETITION
+[Mon Mar 26 09:08:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 09:08:24 2001] USER TEXT: im stuck in karnor behind zone and agroed?? i cant exit there is a brick wall here??
+[Mon Mar 26 09:08:24 2001] Players in EverQuest:
+[Mon Mar 26 09:08:24 2001] ---------------------------
+[Mon Mar 26 09:08:24 2001] [54 Channeler] Canyas (Dark Elf) <Relentless Ascension> ZONE: sebilis (USER 348680726:spammassa)
+[Mon Mar 26 09:08:24 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:08:27 2001] Saldace tells you, 'wht lvl can smiths dye'
+[Mon Mar 26 09:08:44 2001] Ailedoree tells you, 'thanks, BTW I Am totally lost, swimming in the middle of OOT in search of it, could you indicate the nearest land ?'
+[Mon Mar 26 09:08:47 2001] You told Saldace, 'I honestly don't know.'
+[Mon Mar 26 09:09:00 2001] Summoning Ailedoree.
+[Mon Mar 26 09:09:04 2001] Saldace tells you, 'BUT YOUR A GM!'
+[Mon Mar 26 09:09:09 2001] Ailedoree tells you, 'GREAT THANKS :)'
+[Mon Mar 26 09:09:43 2001] You told Ailedoree, 'You're welcome!'
+[Mon Mar 26 09:09:49 2001] USER TEXT: im stuck in karnor behind zone and agroed?? i cant exit there is a brick wall here??
+[Mon Mar 26 09:09:55 2001] Searching zones for corpse of that name....
+[Mon Mar 26 09:10:26 2001] You told Canyas, 'Hail, Canyas! Guide Espranza here. I don't see your corpse - did you manage to get out of Karnor's?'
+[Mon Mar 26 09:10:53 2001] Ailedoree says out of character, 'Where is the boat from FP to BB ? brfore or after Sister islad ?'
+[Mon Mar 26 09:10:57 2001] Canyas tells you, 'yea i didnt die i was kiting it or should i say them, i ended up gating out but it was screwed up'
+[Mon Mar 26 09:11:07 2001] Aelini says out of character, 'it stops at sister island, at the pier'
+[Mon Mar 26 09:11:14 2001] Canyas tells you, 'i was behind where you normally zone out'
+[Mon Mar 26 09:11:23 2001] Ailedoree says out of character, 'LOL, I know that I mean right nos ?'
+[Mon Mar 26 09:11:28 2001] Howwo tells you, 'geminni's corpse is in oot can u get it?'
+[Mon Mar 26 09:11:32 2001] Ailedoree says out of character, 'right now even'
+[Mon Mar 26 09:11:34 2001] Canyas tells you, 'thanks for response but im fine'
+[Mon Mar 26 09:11:38 2001] Saldace tells you, 'BUT YOUR A GM!'
+[Mon Mar 26 09:11:39 2001] Aelini says out of character, 'it currently after sister island i think, i saw it go past about 7 minutes ago'
+[Mon Mar 26 09:11:41 2001] You told Canyas, 'usually if you just turn around and head back the way you came, you'll hit the zone from behind and zone out.'
+[Mon Mar 26 09:11:46 2001] Grizzlar says out of character, 'the other boat is past brother island'
+[Mon Mar 26 09:11:46 2001] Darkmorte says out of character, 'I believ it is past'
+[Mon Mar 26 09:11:46 2001] Gamyn says out of character, 'already past the island'
+[Mon Mar 26 09:11:50 2001] Ailedoree says out of character, 'thx'
+[Mon Mar 26 09:11:54 2001] You told Saldace, 'I'm not all knowing, though'
+[Mon Mar 26 09:11:55 2001] Shadeus shouts, '-300 -580'
+[Mon Mar 26 09:11:57 2001] Canyas tells you, 'i zoned into train'
+[Mon Mar 26 09:11:58 2001] Saldace tells you, 'k'
+[Mon Mar 26 09:12:04 2001] Spurhawk shouts, '234890238402'
+[Mon Mar 26 09:12:09 2001] Saldace tells you, 'can u give me another name of a gm'
+[Mon Mar 26 09:12:24 2001] You told Saldace, 'GMs won't answer these questions, Saldace.'
+[Mon Mar 26 09:12:27 2001] Canyas tells you, 'i assume one of them punched me thru the zone some how, afterwards they chased me thru to that side'
+[Mon Mar 26 09:12:29 2001] Saldace tells you, 'k'
+[Mon Mar 26 09:12:38 2001] Saldace tells you, 'why'
+[Mon Mar 26 09:12:52 2001] You told Canyas, 'It happens occasionally, not sure how or why.'
+[Mon Mar 26 09:13:07 2001] Canyas tells you, 'well thanks for time cu later'
+[Mon Mar 26 09:13:13 2001] Aelini says out of character, 'anyone know the hp of the AC here? the cyclops PH's have about 4800, does the AC have the same number of hp?'
+[Mon Mar 26 09:13:36 2001] Spurhawk shouts, 'aqua goblin to zone RUN!'
+[Mon Mar 26 09:13:52 2001] Sister of Erollisi begins to cast a spell. (Skin like Wood)
+[Mon Mar 26 09:13:52 2001] You told Saldace, 'Because we're supposed to help with problems with the game. For trade skill related questions, you can go to the EverQuest web site, www.everquest.com, and go to the Coalition of Tradesfolk forum there. They can answer any of your questions.'
+[Mon Mar 26 09:13:57 2001] You told Canyas, 'Be well!'
+[Mon Mar 26 09:14:00 2001] DELETING THIS PETITION
+[Mon Mar 26 09:14:02 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 09:14:02 2001] USER TEXT: some guy is whacko on the boat killin all of us and we cannot see him
+[Mon Mar 26 09:14:02 2001] Players in EverQuest:
+[Mon Mar 26 09:14:02 2001] ---------------------------
+[Mon Mar 26 09:14:02 2001] [4 Druid] Howwo (Halfling) ZONE: misty (USER 271681351:jechafamily)
+[Mon Mar 26 09:14:02 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:14:03 2001] Canyas tells you, 'you too'
+[Mon Mar 26 09:14:13 2001] Searching zones for corpse of that name....
+[Mon Mar 26 09:14:14 2001] Corpse: Howwo's corpse0 in zone: misty
+[Mon Mar 26 09:14:20 2001] Saldace tells you, 'k thank you for the help'
+[Mon Mar 26 09:14:27 2001] You told Saldace, 'you're welcome! be well.'
+[Mon Mar 26 09:14:33 2001] Saldace tells you, 'you to'
+[Mon Mar 26 09:14:46 2001] Searching zones for corpse of that name....
+[Mon Mar 26 09:14:46 2001] Corpse: Geminni's corpse0 in zone: oot
+[Mon Mar 26 09:15:14 2001] Summoning Geminni's corpse0.
+[Mon Mar 26 09:15:33 2001] Players in EverQuest:
+[Mon Mar 26 09:15:33 2001] ---------------------------
+[Mon Mar 26 09:15:33 2001] [4 Druid] Howwo (Halfling) ZONE: misty (USER 271681351:jechafamily)
+[Mon Mar 26 09:15:33 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:16:27 2001] Ailedoree hugs Espranza.
+[Mon Mar 26 09:16:36 2001] You told Howwo, 'Hail, Geminni! Guide Espranza here. Sorry to hear about your incident on the boat - after much holding of breath and searching through murky waters, I have found your corpse and it is at the docks at Sister Isle.'
+[Mon Mar 26 09:16:43 2001] DELETING THIS PETITION
+[Mon Mar 26 09:16:45 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 09:16:45 2001] USER TEXT: hi ! sorry to bother but i had trouble with my Visa card and couldn t reconnect in time to recover my body could you please help me by any means ? 
+[Mon Mar 26 09:16:45 2001] Players in EverQuest:
+[Mon Mar 26 09:16:45 2001] ---------------------------
+[Mon Mar 26 09:16:45 2001] [24 Warrior] Dakkhon (Barbarian) <Gardiens de Norrath> ZONE: paw (USER 136977139:tuxedo45)
+[Mon Mar 26 09:16:45 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:17:00 2001] Searching zones for corpse of that name....
+[Mon Mar 26 09:17:03 2001] Howwo tells you, 'ok if i get on gem can i get a rs? We couldnt attack him because he was invisible or somthing'
+[Mon Mar 26 09:17:15 2001] Howwo tells you, 'i will log onto him'
+[Mon Mar 26 09:17:18 2001] Howwo tells you, 'hold on'
+[Mon Mar 26 09:17:25 2001] You told Howwo, 'I'm sorry, I cannot rez for that.'
+[Mon Mar 26 09:17:29 2001] Espranza saved.
+[Mon Mar 26 09:17:31 2001] Howwo tells you, 'hold on'
+[Mon Mar 26 09:18:45 2001] You told Dakkhon, 'Hail, Dakkhon! Guide Espranza here. I cannot restore lost items. Please petition again after 4pm Pacific time when the GM Lirus is on, and he can review this.'
+[Mon Mar 26 09:18:48 2001] Geminni tells you, 'ok'
+[Mon Mar 26 09:18:49 2001] DELETING THIS PETITION
+[Mon Mar 26 09:18:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 09:18:52 2001] USER TEXT: Ummm Slea Pinewhisper is way out of herPosistion and I cant buy... can you please help?
+[Mon Mar 26 09:18:53 2001] Players in EverQuest:
+[Mon Mar 26 09:18:53 2001] ---------------------------
+[Mon Mar 26 09:18:53 2001] [11 Cleric] Aakadin (Dwarf) <Dark Light Vengeance> ZONE: gfaydark (USER 423480964:goldgoku)
+[Mon Mar 26 09:18:53 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:19:00 2001] You GMSAY, 'zoning'
+[Mon Mar 26 09:19:03 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 09:19:28 2001] You have entered West Commonlands.
+[Mon Mar 26 09:19:40 2001] Searching for slea_pinewhisper00.
+[Mon Mar 26 09:19:40 2001] Player is in zone commons at x = 991 y = 3929 z = -48.
+[Mon Mar 26 09:19:41 2001] Teleporting to Slea_Pinewhisper00 (991.00, 3929.00, -48.90).
+[Mon Mar 26 09:19:48 2001] You say, 'back you go'
+[Mon Mar 26 09:19:50 2001] Auto attack on.
+[Mon Mar 26 09:19:50 2001] Slea Pinewhisper says 'Guards!! Guards!! 
+[Mon Mar 26 09:19:50 2001] You slash Slea Pinewhisper for 3 points of damage.
+[Mon Mar 26 09:19:50 2001] You slash Slea Pinewhisper for 8 points of damage.
+[Mon Mar 26 09:19:50 2001] You slash Slea Pinewhisper for 9 points of damage.
+[Mon Mar 26 09:19:50 2001] Slea Pinewhisper punches YOU for 100 points of damage.
+[Mon Mar 26 09:19:51 2001] Auto attack off.
+[Mon Mar 26 09:19:52 2001] Slea Pinewhisper punches YOU for 49 points of damage.
+[Mon Mar 26 09:20:01 2001] You feel the spirit of Norrath enter you.
+[Mon Mar 26 09:21:05 2001] Geminni tells you, 'hello?'
+[Mon Mar 26 09:21:14 2001] You told Geminni, 'un momente'
+[Mon Mar 26 09:21:21 2001] Slea Pinewhisper punches YOU for 45 points of damage.
+[Mon Mar 26 09:21:22 2001] Slea Pinewhisper punches YOU for 109 points of damage.
+[Mon Mar 26 09:21:23 2001] Geminni tells you, 'ok'
+[Mon Mar 26 09:21:24 2001] Slea Pinewhisper punches YOU for 132 points of damage.
+[Mon Mar 26 09:21:26 2001] Slea Pinewhisper punches YOU for 95 points of damage.
+[Mon Mar 26 09:21:28 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:28 2001] You can't use that command right now...
+[Mon Mar 26 09:21:28 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:28 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:29 2001] You can't use that command right now...
+[Mon Mar 26 09:21:29 2001] You can't use that command right now...
+[Mon Mar 26 09:21:29 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:30 2001] Slea Pinewhisper bashes YOU for 52 points of damage.
+[Mon Mar 26 09:21:30 2001] Ceel Moonwhisper begins to cast a spell. (Firefist)
+[Mon Mar 26 09:21:30 2001] Slea Pinewhisper says 'Greetings Irky you look like you could use a Topaz'
+[Mon Mar 26 09:21:31 2001] You have become better at Riposte! (161)
+[Mon Mar 26 09:21:31 2001] Slea Pinewhisper punches YOU for 95 points of damage.
+[Mon Mar 26 09:21:31 2001] Slea Pinewhisper punches YOU for 63 points of damage.
+[Mon Mar 26 09:21:32 2001] You can't use that command right now...
+[Mon Mar 26 09:21:32 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:32 2001] You can't use that command right now...
+[Mon Mar 26 09:21:32 2001] You can't use that command right now...
+[Mon Mar 26 09:21:32 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:33 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:33 2001] Slea Pinewhisper punches YOU for 77 points of damage.
+[Mon Mar 26 09:21:33 2001] Slea Pinewhisper punches YOU for 58 points of damage.
+[Mon Mar 26 09:21:33 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:34 2001] You can't use that command right now...
+[Mon Mar 26 09:21:34 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:34 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:34 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:35 2001] Slea Pinewhisper blinks a few times.
+[Mon Mar 26 09:21:41 2001] You no longer have a target.
+[Mon Mar 26 09:21:41 2001] Slea Pinewhisper says 'Greetings Espranza you look like you could use a Aviak Eggs'
+[Mon Mar 26 09:21:42 2001] You no longer have a target.
+[Mon Mar 26 09:21:43 2001] Badbeat begins to cast a spell. (Greater Healing)
+[Mon Mar 26 09:21:46 2001] You feel much better.
+[Mon Mar 26 09:21:47 2001] Espranza saved.
+[Mon Mar 26 09:21:52 2001] Badbeat begins to cast a spell. (Greater Healing)
+[Mon Mar 26 09:21:53 2001] You say, 'Bah! You're dealing with a ROGUE here, lady!'
+[Mon Mar 26 09:21:55 2001] You feel much better.
+[Mon Mar 26 09:21:58 2001] You thank Badbeat heartily.
+[Mon Mar 26 09:22:16 2001] Players in EverQuest:
+[Mon Mar 26 09:22:16 2001] ---------------------------
+[Mon Mar 26 09:22:16 2001] [11 Cleric] Aakadin (Dwarf) <Dark Light Vengeance> ZONE: gfaydark (USER 423480964:goldgoku)
+[Mon Mar 26 09:22:16 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:22:25 2001] Irky begins to cast a spell. (Spirit of Wolf)
+[Mon Mar 26 09:22:38 2001] Shadow Treebright begins to cast a spell. (Shield of Brambles)
+[Mon Mar 26 09:22:50 2001] You told Aakadin, 'Hail, Aakadin! Guide Espranza here. Slea and I had a little talk, and she has agreed to return to her place and sell to people once more. Thanks for your petition!'
+[Mon Mar 26 09:22:52 2001] DELETING THIS PETITION
+[Mon Mar 26 09:22:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 09:22:56 2001] USER TEXT: erm uhh why dont you make a low lvl best of the best? like low 15's
+[Mon Mar 26 09:22:56 2001] Players in EverQuest:
+[Mon Mar 26 09:22:56 2001] ---------------------------
+[Mon Mar 26 09:22:56 2001] [12 Necromancer] Sinman (Erudite) <Dark Light Vengeance> ZONE: oot (USER 446782095:mizcroog) LFG
+[Mon Mar 26 09:22:56 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:23:02 2001] Aakadin tells you, 'Heh heh heh Thank you'
+[Mon Mar 26 09:23:08 2001] You told Aakadin, 'Be well!'
+[Mon Mar 26 09:23:21 2001] Aakadin tells you, 'One Question... I petitioned that with Uildari'
+[Mon Mar 26 09:23:25 2001] Shadow Treebright begins to cast a spell. (Shield of Brambles)
+[Mon Mar 26 09:23:26 2001] Sydny begins to cast a spell. (Spirit of Wolf)
+[Mon Mar 26 09:23:31 2001] Aakadin tells you, 'How did you Know to Contatct Aakadin?'
+[Mon Mar 26 09:23:45 2001] You told Aakadin, 'Heh.... ancient guide secret )'
+[Mon Mar 26 09:23:49 2001] Aakadin tells you, 'lol'
+[Mon Mar 26 09:24:08 2001] Borril begins to cast a spell. (Spirit of Wolf)
+[Mon Mar 26 09:24:21 2001] Geminni tells you, ''
+[Mon Mar 26 09:24:32 2001] You told Geminni, 'Hail, Geminni! Guide Espranza here. I cannot rez for the case where NPCs attack you on the boat and you can't attack back.'
+[Mon Mar 26 09:24:41 2001] You told Geminni, 'I did, however, get your corpse back.'
+[Mon Mar 26 09:24:47 2001] USER TEXT: erm uhh why dont you make a low lvl best of the best? like low 15's
+[Mon Mar 26 09:24:47 2001] Geminni tells you, 'can u summon me to my corpse? '
+[Mon Mar 26 09:24:55 2001] You told Geminni, 'No, I cannot. I'm sorry.'
+[Mon Mar 26 09:24:57 2001] Geminni tells you, 'ok'
+[Mon Mar 26 09:25:03 2001] Geminni tells you, 'thanx for the retreival tho!'
+[Mon Mar 26 09:25:12 2001] You told Geminni, 'No problem! Be well!'
+[Mon Mar 26 09:25:15 2001] Geminni tells you, 'u2'
+[Mon Mar 26 09:25:16 2001] USER TEXT: erm uhh why dont you make a low lvl best of the best? like low 15's
+[Mon Mar 26 09:25:21 2001] Players in EverQuest:
+[Mon Mar 26 09:25:21 2001] ---------------------------
+[Mon Mar 26 09:25:21 2001] There are no players in EverQuest that match those who filters.
+[Mon Mar 26 09:25:23 2001] Famadiel says out of character, 'lev 8 paladin lfg'
+[Mon Mar 26 09:25:28 2001] Players in EverQuest:
+[Mon Mar 26 09:25:28 2001] ---------------------------
+[Mon Mar 26 09:25:28 2001] [12 Necromancer] Sinman (Erudite) <Dark Light Vengeance> ZONE: oot (USER 446782095:mizcroog) LFG
+[Mon Mar 26 09:25:28 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:25:52 2001] Uildari auctions, 'WTS Iksar Scaled Gloves 100p'
+[Mon Mar 26 09:26:19 2001] Uildari auctions, 'WTS Iksar Scaled Gloves 100p, WTS Dwarven Ringmail Tunic 20p, Dwarven Mace 20p SEND TELLS!'
+[Mon Mar 26 09:26:21 2001] Sydny auctions, 'WTB HIQUAL BEAR PELTS send tells'
+[Mon Mar 26 09:26:23 2001] Players in EverQuest:
+[Mon Mar 26 09:26:23 2001] ---------------------------
+[Mon Mar 26 09:26:23 2001] [12 Necromancer] Sinman (Erudite) <Dark Light Vengeance> ZONE: oot (USER 446782095:mizcroog) LFG
+[Mon Mar 26 09:26:23 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:27:05 2001] Uildari says out of character, 'what is Wallin Slyfoot for?'
+[Mon Mar 26 09:27:20 2001] Uildari auctions, 'WTS Iksar Scaled Gloves 100p, WTS Dwarven Ringmail Tunic 20p, Dwarven Mace 20p SEND TELLS!'
+[Mon Mar 26 09:27:49 2001] You told Sinman, 'Hail, Sinman! Guide Espranza here. I've heard that they plan on doing Best of the Best-type tourneys for lower levels sometime in the future. Alas, I don't know exactly when. Keep watch on the Message of the Day, which will contain news of'
+[Mon Mar 26 09:27:58 2001] You told Sinman, 'any upcoming events.'
+[Mon Mar 26 09:28:01 2001] DELETING THIS PETITION
+[Mon Mar 26 09:28:01 2001] Uildari tells you, 'Ancient guid secret huh? =P'
+[Mon Mar 26 09:28:02 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 09:28:03 2001] USER TEXT: i was killed during a fight that was caused by lag spikes unabling me to defend myself or my comrades in OT last night
+[Mon Mar 26 09:28:03 2001] Players in EverQuest:
+[Mon Mar 26 09:28:03 2001] ---------------------------
+[Mon Mar 26 09:28:03 2001] [37 Enchanter] Umbro (Erudite) <Nature's Fury> ZONE: timorous (USER 314781076:draga58)
+[Mon Mar 26 09:28:03 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:28:29 2001] You told Uildari, 'Wha... HUH? /boggle But... weren't you somebody else just a second ago???'
+[Mon Mar 26 09:28:30 2001] Bitingwind auctions, 'WTS Brazen Brass Kilij 10 35 magick 1 h slash, Polished Granite Tomahawk 6 26 effect Berserker's Strength, Dwarven Ring Mail Tunic AC 12 8 vs magic cold and fire. Also ports to BB, NK, and Toxx. Please send tells with what you are interested in.'
+[Mon Mar 26 09:28:36 2001] USER TEXT: i was killed during a fight that was caused by lag spikes unabling me to defend myself or my comrades in OT last night
+[Mon Mar 26 09:28:37 2001] Uildari tells you, 'YEs'
+[Mon Mar 26 09:28:40 2001] Cazza GMSAYS, 'good morning )'
+[Mon Mar 26 09:28:46 2001] Sinman tells you, 'lol how long it take you to type that LOL!. and i forgot i petitioned. and i allways keep a eye out for the MOTD's'
+[Mon Mar 26 09:28:46 2001] You told Uildari, 'How'd you do that?'
+[Mon Mar 26 09:28:55 2001] Uildari tells you, 'Camped and got on this Person'
+[Mon Mar 26 09:29:04 2001] You told Sinman, 'I had to type it twice because you changed characters!'
+[Mon Mar 26 09:29:15 2001] You told Uildari, 'heh I thought it was an ancient player secret!'
+[Mon Mar 26 09:29:16 2001] You GMSAY, 'Hi!'
+[Mon Mar 26 09:29:19 2001] Uildari tells you, 'lol'
+[Mon Mar 26 09:29:23 2001] Sinman tells you, 'why didint you use the shift and up?'
+[Mon Mar 26 09:29:35 2001] You told Sinman, 'because it had /tell Gallon at the front of it'
+[Mon Mar 26 09:29:36 2001] Cazza GMSAYS, 'merry met espranza)'
+[Mon Mar 26 09:29:51 2001] Sinman tells you, 'then u use shift and page up'
+[Mon Mar 26 09:29:52 2001] You GMSAY, 'That's right, we haven't met!'
+[Mon Mar 26 09:29:53 2001] Maxom auctions, 'WTS 1 h slashing weapon 7 dmg 33 dly dex 3 hp 15'
+[Mon Mar 26 09:30:00 2001] Buvarin auctions, 'WTT Berserker's Sword for a Cracked Darkwood Shield and Frozen Longsword ... send tells please'
+[Mon Mar 26 09:30:01 2001] You told Sinman, 'Hey, who's the guide here anyway?'
+[Mon Mar 26 09:30:05 2001] USER TEXT: i was killed during a fight that was caused by lag spikes unabling me to defend myself or my comrades in OT last night
+[Mon Mar 26 09:30:06 2001] Sinman tells you, 'lol'
+[Mon Mar 26 09:30:13 2001] Searching zones for corpse of that name....
+[Mon Mar 26 09:30:13 2001] Corpse: Umbro's corpse0 in zone: overthere
+[Mon Mar 26 09:30:19 2001] Players in EverQuest:
+[Mon Mar 26 09:30:19 2001] ---------------------------
+[Mon Mar 26 09:30:19 2001] [37 Enchanter] Umbro (Erudite) <Nature's Fury> ZONE: timorous (USER 314781076:draga58)
+[Mon Mar 26 09:30:19 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:30:23 2001] Sinman tells you, 'just trying to help'
+[Mon Mar 26 09:30:51 2001] You told Umbro, 'Hail, Umbro! Guide Espranza here. I'm sorry, I cannot rez for deaths caused by lag. I wish I could...'
+[Mon Mar 26 09:30:55 2001] You told Sinman, ':)'
+[Mon Mar 26 09:30:57 2001] Dokteur auctions, 'WTB Stack of Bone Chips'
+[Mon Mar 26 09:30:58 2001] DELETING THIS PETITION
+[Mon Mar 26 09:31:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 09:31:01 2001] USER TEXT: Excuse me, could you please tell me the command to change text colors in game?
+[Mon Mar 26 09:31:01 2001] Players in EverQuest:
+[Mon Mar 26 09:31:01 2001] ---------------------------
+[Mon Mar 26 09:31:01 2001] [ANON (21 Enchanter)] Arcady (High Elf) ZONE: highkeep (USER 253880859:murmix)
+[Mon Mar 26 09:31:01 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:31:04 2001] Khazidhea auctions, 'Wts Jagged Chokodai Spine, 9 25, pierce 4 Dex, 2Kpp'
+[Mon Mar 26 09:31:06 2001] Khazidhea auctions, 'WTS Hammer Of Flattening 2HB 13 50 magic 50pp.'
+[Mon Mar 26 09:31:13 2001] Khazidhea auctions, 'WTS words, runes, tansarins pages ask urs )'
+[Mon Mar 26 09:31:35 2001] Umbro tells you, 'i hope u know that i will protest this to the highest degree '
+[Mon Mar 26 09:31:38 2001] Sinman tells you, 'lol frist time a GM yelled at me (:C'
+[Mon Mar 26 09:31:54 2001] Umbro tells you, 'i want to become a guide too'
+[Mon Mar 26 09:31:57 2001] Espranza saved.
+[Mon Mar 26 09:32:04 2001] You told Arcady, 'Hail, Arcady! Guide Espranza here. Type /usercolor (there's a slash in front of the usercolor if that didn't come through) and it will show you the syntax.'
+[Mon Mar 26 09:32:05 2001] Sinman tells you, 'can i ask something about my rogue?'
+[Mon Mar 26 09:32:06 2001] Umbro tells you, 'can u just revive me then'
+[Mon Mar 26 09:32:07 2001] DELETING THIS PETITION
+[Mon Mar 26 09:32:22 2001] Uildari says out of character, 'what does guard Colin hit for max?'
+[Mon Mar 26 09:32:30 2001] Akame says out of character, '5000'
+[Mon Mar 26 09:32:34 2001] Arcady tells you, 'excellent, thank you very much, and excuse me for disturbing with such a trivial question'
+[Mon Mar 26 09:32:39 2001] Buvarin says out of character, 'dunno hit him and find out'
+[Mon Mar 26 09:32:43 2001] Uildari says out of character, 'grrrr '
+[Mon Mar 26 09:32:50 2001] Meriel auctions, ''
+[Mon Mar 26 09:32:50 2001] Buvarin says out of character, 'joking ... don't do it'
+[Mon Mar 26 09:32:51 2001] Karvek says out of character, 'hehe'
+[Mon Mar 26 09:32:57 2001] Ailamien says out of character, 'lol'
+[Mon Mar 26 09:33:04 2001] You told Umbro, 'I'm sorry, I can't do that either. The application to become a guide is reached from the Guide/GM FAQ link off the EverQuest web site, www.everquest.com'
+[Mon Mar 26 09:33:09 2001] Uildari says out of character, 'Max ive seen him hit a critter for ids 28'
+[Mon Mar 26 09:33:25 2001] Taggeth says out of character, 'anyone have any DF belts i need 3 more, and imset'
+[Mon Mar 26 09:33:25 2001] Uildari says out of character, 'but that sounds too low to me'
+[Mon Mar 26 09:33:29 2001] You told Arcady, 'No trouble at all. Be well!'
+[Mon Mar 26 09:33:36 2001] Caeorn auctions, 'wts orc fang earrings,bat fang head band,bi crown'
+[Mon Mar 26 09:33:58 2001] Khazidhea says, 'hello why r u in green ? )'
+[Mon Mar 26 09:34:05 2001] You told Sinman, 'While I am the fastest rogue you'll never see, I don't easily give up my trade secrets, sorry!'
+[Mon Mar 26 09:34:15 2001] Espranza looks at her armor.
+[Mon Mar 26 09:34:24 2001] Sinman tells you, 'lol u gona make me camp and play him so i can ask'
+[Mon Mar 26 09:34:25 2001] You say, 'Still looks black to me... hmmmm'
+[Mon Mar 26 09:34:26 2001] Khazidhea says, 'no ) i mean the name eheh'
+[Mon Mar 26 09:34:27 2001] Umbro tells you, 'i have a cleric trying to rez or revive me but it says cant at this time or something like that'
+[Mon Mar 26 09:34:32 2001] You say, 'Oh!'
+[Mon Mar 26 09:34:34 2001] Sinman tells you, 'LOL!'
+[Mon Mar 26 09:34:35 2001] You say, 'I'm a guide.'
+[Mon Mar 26 09:34:42 2001] Zwelgon shouts, 'LVL 13 mage LFG'
+[Mon Mar 26 09:34:47 2001] Khazidhea says, 'oh guide ?'
+[Mon Mar 26 09:34:48 2001] You told Umbro, 'That means your corpse it too old.'
+[Mon Mar 26 09:34:52 2001] You say, 'Yeppers'
+[Mon Mar 26 09:35:01 2001] Khazidhea says, 'mayy i inspect the guide ? '
+[Mon Mar 26 09:35:05 2001] Sinman tells you, 'what's a ancient guild secret?'
+[Mon Mar 26 09:35:13 2001] You say, 'Sigh. If you wish...'
+[Mon Mar 26 09:35:14 2001] Buvarin auctions, 'WTT Berserker's Sword for a Cracked Darkwood Shield and Frozen Longsword ... send tells please'
+[Mon Mar 26 09:35:18 2001] You shrug unknowingly.
+[Mon Mar 26 09:35:19 2001] Badbeat auctions, 'LTB gatorscale leggings'
+[Mon Mar 26 09:35:21 2001] Khazidhea says, 'why sigh ?'
+[Mon Mar 26 09:35:30 2001] Umbro tells you, 'yes i dont want exp back i just want the transport'
+[Mon Mar 26 09:35:32 2001] You say, 'No, go ahead, but don't ask me for stats'
+[Mon Mar 26 09:35:40 2001] Khazidhea says, 'oh lol np )'
+[Mon Mar 26 09:35:42 2001] Khazidhea is looking at your equipment...
+[Mon Mar 26 09:35:49 2001] You told Umbro, 'I'm not allowed to help with corpse retrieval, I'm sorry.'
+[Mon Mar 26 09:36:14 2001] You told Sinman, 'An ancient guide secret is one that wouldn't be a secret if I told you :)'
+[Mon Mar 26 09:36:16 2001] Zwelgon shouts, 'LVL 13 mage LFG'
+[Mon Mar 26 09:36:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 09:36:18 2001] Zwelgon shouts, 'LVL 13 mage LFG'
+[Mon Mar 26 09:36:18 2001] USER TEXT: why does infravision fizzle so much even afteri have used it a few times
+[Mon Mar 26 09:36:18 2001] Players in EverQuest:
+[Mon Mar 26 09:36:18 2001] ---------------------------
+[Mon Mar 26 09:36:18 2001] [29 Shaman] Lupoman (Barbarian) <Clan Silvermoon> ZONE: southkarana (USER 348680849:llonewolf42)
+[Mon Mar 26 09:36:18 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:36:22 2001] Khazidhea says, 'well i hav a rogue friend that would be happy to see ur stuff ahahahh ) thx . sry for ur time.'
+[Mon Mar 26 09:36:24 2001] Umbro tells you, 'even if its not my doing huh'
+[Mon Mar 26 09:36:33 2001] You told Umbro, 'Even so.'
+[Mon Mar 26 09:36:40 2001] Khazidhea's spell fizzles!
+[Mon Mar 26 09:36:41 2001] Khazidhea's spell fizzles!
+[Mon Mar 26 09:36:42 2001] Khazidhea's spell fizzles!
+[Mon Mar 26 09:36:43 2001] Khazidhea's spell fizzles!
+[Mon Mar 26 09:36:44 2001] Khazidhea's spell fizzles!
+[Mon Mar 26 09:36:45 2001] Khazidhea's spell fizzles!
+[Mon Mar 26 09:36:53 2001] You told Umbro, 'I can only help if your body is unretrievable.'
+[Mon Mar 26 09:36:54 2001] Badbeat shouts, 'Teleporting service is in town send tells'
+[Mon Mar 26 09:37:07 2001] Sinman tells you, 'hmmmm.............'
+[Mon Mar 26 09:37:26 2001] Umbro tells you, 'does verant take any responisblility for lag and lag spike causing the game to be unplayable'
+[Mon Mar 26 09:37:29 2001] Khazidhea's spell fizzles!
+[Mon Mar 26 09:37:33 2001] Khazidhea begins to cast a spell. (Stinging Swarm)
+[Mon Mar 26 09:37:33 2001] You told Lupoman, 'Hail, Lupoman! Guide Espranza here. You may have to cast spells from the school of Divination many, many times in order to master them.'
+[Mon Mar 26 09:37:35 2001] Khazidhea is engulfed by a swarm.
+[Mon Mar 26 09:37:46 2001] Zwelgon auctions, 'WYS amber+ Ivory'
+[Mon Mar 26 09:37:49 2001] Cazza GMSAYS, 'zoning '
+[Mon Mar 26 09:37:57 2001] Khazidhea auctions, 'WTS words, runes, tansarins pages ask urs )'
+[Mon Mar 26 09:38:01 2001] Zwelgon auctions, 'WTS amber+ivory'
+[Mon Mar 26 09:38:02 2001] Zwelgon auctions, 'WTS amber+ivory'
+[Mon Mar 26 09:38:06 2001] Zwelgon shouts, 'LVL 13 mage LFG'
+[Mon Mar 26 09:38:09 2001] Zwelgon auctions, 'WTS amber+ivory'
+[Mon Mar 26 09:38:16 2001] You told Umbro, 'They only do when the lag effects a wide number of people. At that time a GM will tell the guides that they can rez due to lag caused on Verant's side.'
+[Mon Mar 26 09:38:23 2001] Khazidhea auctions, 'WTS Hammer Of Flattening 2HB 13 50 magic 50pp.'
+[Mon Mar 26 09:38:28 2001] DELETING THIS PETITION
+[Mon Mar 26 09:38:30 2001] Khazidhea auctions, 'WTS dragoon dirk 6 23 pierce 2 dex sv mag 75pp'
+[Mon Mar 26 09:38:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 09:38:31 2001] USER TEXT: my computer crashed. now all my stuff is gone and i cant find my corpse if there should be one!!!
+[Mon Mar 26 09:38:31 2001] Players in EverQuest:
+[Mon Mar 26 09:38:31 2001] ---------------------------
+[Mon Mar 26 09:38:31 2001] [12 Warrior] Raizs (Iksar) ZONE: fieldofbone (USER 484580857:raisz)
+[Mon Mar 26 09:38:31 2001] There is 1 player in EverQuest.
+[Mon Mar 26 09:38:32 2001] Sinman tells you, 'do you know of any way i can make big money? (i'm a 12 necro)'
+[Mon Mar 26 09:38:40 2001] Khazidhea auctions, 'Wts Jagged Chokodai Spine, 9 25, pierce 4 Dex, 2Kpp'
+[Mon Mar 26 09:38:46 2001] Minweel auctions, 'wtt Drakkel Icereaver for paw of oppolla send tell'
+[Mon Mar 26 09:38:48 2001] You told Sinman, 'Sure! Kill things, loot their corpses and sell their stuff.'
+[Mon Mar 26 09:38:53 2001] USER TEXT: my computer crashed. now all my stuff is gone and i cant find my corpse if there should be one!!!
+[Mon Mar 26 09:39:00 2001] Badbeat shouts, 'Teleporting service is in town send tells'
+[Mon Mar 26 09:39:10 2001] Umbro tells you, 'my guild was having a terrible time last night   we had to quit the L GUK and it didnt quit all nite '
+[Mon Mar 26 09:39:10 2001] Searching zones for corpse of that name....
+[Mon Mar 26 09:39:11 2001] Lupoman tells you, 'aye i cast it normally takes 5 times but sometimes i use a whole manna bar! '
+[Mon Mar 26 09:39:16 2001] Sinman tells you, 'kill what ? i am killing the sister's'
+[Mon Mar 26 09:39:21 2001] Thulain auctions, 'Will donate wll for a casting of SOW'
+[Mon Mar 26 09:39:28 2001] You told Sinman, 'You evil person.'
+[Mon Mar 26 09:39:35 2001] Sinman tells you, 'i know (:c'
+[Mon Mar 26 09:39:43 2001] Cazza GMSAYS, 'zoning again'
+[Mon Mar 26 09:39:47 2001] Amarantz auctions, 'want to sell skinny human to Large ORGE womyn for oil based fun 350pp'
+[Mon Mar 26 09:39:56 2001] Sinman tells you, 'is this the only game you play?'
+[Mon Mar 26 09:39:59 2001] You told Lupoman, 'As you rise in skill, it will become easier.'
+[Mon Mar 26 09:40:02 2001] Sighurd says out of character, 'ROFL!'
+[Mon Mar 26 09:40:02 2001] Ashaar says out of character, 'lol'
+[Mon Mar 26 09:40:05 2001] You told Sinman, 'It seems so sometimes...'
+[Mon Mar 26 09:40:10 2001] Uildari says out of character, 'lol'
+[Mon Mar 26 09:40:18 2001] Lupoman tells you, 'aye thanks was wonderin if it was a bug'
+[Mon Mar 26 09:40:26 2001] Sinman tells you, 'ROFL LM$o'
+[Mon Mar 26 09:40:36 2001] Thulain says out of character, 'That is NOT a picture I need in my head lol'
+[Mon Mar 26 09:40:38 2001] You told Lupoman, 'No, merely the way of things...'
+[Mon Mar 26 09:40:42 2001] You told Sinman, ':)'
+[Mon Mar 26 09:40:43 2001] Sinman tells you, 'have you herd of quake3 ?'
+[Mon Mar 26 09:41:03 2001] You told Sinman, 'Bah, first person shooters! Give me a game where you chat all the time!'
+[Mon Mar 26 09:41:20 2001] Sinman tells you, 'bah!'
+[Mon Mar 26 09:41:25 2001] It begins to rain.
+[Mon Mar 26 09:41:33 2001] Cazza GMSAYS, 'man did we work those pets fast or what )'
+[Mon Mar 26 09:41:35 2001] Umbro tells you, 'look i understand u have a hard job but i honesty think this is case of server problems and not something i could control'
+[Mon Mar 26 09:41:43 2001] Sinman tells you, 'i like SC and other RPG's (:c'
+[Mon Mar 26 09:41:46 2001] You GMSAY, 'You use the past tense... mine never seem to go away'
+[Mon Mar 26 09:41:51 2001] Dranin slashes a skeleton for 18 points of damage.
+[Mon Mar 26 09:41:56 2001] Famadiel auctions, 'WTS stack of bone chips'
+[Mon Mar 26 09:42:06 2001] Espranza saved.
+[Mon Mar 26 09:42:14 2001] Cazza GMSAYS, 'hehe my glass is half full )'
+[Mon Mar 26 09:42:25 2001] You told Umbro, 'I had no word from the GMs saying there was widespread server lag last night.'
+[Mon Mar 26 09:42:36 2001] Bodmon shouts, 'where can i get ringmail armor resized ?'
+[Mon Mar 26 09:42:44 2001] Zwelgon auctions, 'WTS amber+ivory'
+[Mon Mar 26 09:42:47 2001] Zwelgon auctions, 'WTS amber+ivory'
+[Mon Mar 26 09:42:48 2001] You GMSAY, 'You know, I only logged on this morning because I found out the name of a misplaced NPC and wanted to reset him!'
+[Mon Mar 26 09:42:51 2001] Zwelgon shouts, 'LVL 13 mage LFG'
+[Mon Mar 26 09:42:55 2001] Umbro tells you, 'is there anyway for me to talk to a gm'
+[Mon Mar 26 09:43:15 2001] Cazza GMSAYS, 'awww( well I am glad you stayed long enough to meet you'
+[Mon Mar 26 09:43:18 2001] You told Umbro, 'You may repetition after 4pm Pacific time today, I believe he'll be on then.'
+[Mon Mar 26 09:43:24 2001] USER TEXT: my computer crashed. now all my stuff is gone and i cant find my corpse if there should be one!!!
+[Mon Mar 26 09:43:26 2001] Deliaofdalmatia says out of character, 'wts cracked darkwood shield'
+[Mon Mar 26 09:43:33 2001] Sinman tells you, 'i love bind (:c. lol one of the guild member's is talking to you or was ):c'
+[Mon Mar 26 09:43:42 2001] Umbro tells you, 'the guide application is down is there another way'
+[Mon Mar 26 09:43:50 2001] You told Raizs, 'Hail, Raizs! Guide Espranza here. Where and how did you lose your body? And when?'
+[Mon Mar 26 09:43:51 2001] Bodmon shouts, 'does anyone know where i can get armor resized'
+[Mon Mar 26 09:43:56 2001] Rhyswolf says out of character, 'you dont'
+[Mon Mar 26 09:44:04 2001] Pickk says out of character, 'the two dorfs outside of the Inn by the TB'
+[Mon Mar 26 09:44:11 2001] Rhyswolf says out of character, 'that's crafted only'
+[Mon Mar 26 09:44:13 2001] Hugues says out of character, 'they resize crafted'
+[Mon Mar 26 09:44:19 2001] You told Umbro, 'I think they've stopped accepting new applications until they revamp the web site or something... the page should be up again soon.'
+[Mon Mar 26 09:44:21 2001] Pickk says out of character, 'other than that your screwed'
+[Mon Mar 26 09:44:34 2001] Searching zones for corpse of that name....
+[Mon Mar 26 09:44:36 2001] Searching zones for corpse of that name....
+[Mon Mar 26 09:44:44 2001] Sinman tells you, 'oh yes can you tell me something about my ignor list?'
+[Mon Mar 26 09:44:51 2001] It is 12 PM on Tuesday, the 17th day of April, of the year 3204.
+[Mon Mar 26 09:44:51 2001] Earth Time: Mon Mar 26 09:44:51 2001
+[Mon Mar 26 09:44:58 2001] Ashaar auctions, 'WTS WTT Silvery War Axe, Dragoons Dirk'
+[Mon Mar 26 09:45:04 2001] Uildari says out of character, 'why does Gix only con me Dubious?'
+[Mon Mar 26 09:45:12 2001] Bodmon says out of character, 'that is just crafted armor that those two guys do'
+[Mon Mar 26 09:45:20 2001] Deliaofdalmatia says out of character, 'evil'
+[Mon Mar 26 09:45:22 2001] Catseyes says out of character, 'he's heavily under cons )'
+[Mon Mar 26 09:45:24 2001] You told Sinman, 'Sure, if I can help.'
+[Mon Mar 26 09:45:26 2001] It is 12 PM on Tuesday, the 17th day of April, of the year 3204.
+[Mon Mar 26 09:45:26 2001] Earth Time: Mon Mar 26 09:45:26 2001
+[Mon Mar 26 09:45:31 2001] Uildari says out of character, 'Err Duvious'
+[Mon Mar 26 09:45:35 2001] DELETING THIS PETITION
+[Mon Mar 26 09:45:38 2001] Uildari says out of character, 'as in he wont attack on sight'
+[Mon Mar 26 09:45:42 2001] You say to your guild, 'aw nuts, late for work'
+[Mon Mar 26 09:45:43 2001] Shrubb says out of character, 'Don't think crafted needs to be resized to be worn, Sproutt, a small sized warrior, is wearing a piece right now straight from the quest'
+[Mon Mar 26 09:45:44 2001] Uildari says out of character, 'Im a wood elf'
+[Mon Mar 26 09:45:47 2001] You GMSAY, 'zoning'
+[Mon Mar 26 09:45:50 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 09:46:08 2001] You have entered Sunset Home.
+[Mon Mar 26 09:46:16 2001] Players in EverQuest:
+[Mon Mar 26 09:46:16 2001] ---------------------------
+[Mon Mar 26 09:46:16 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER 279081680:guidemorell4)
+[Mon Mar 26 09:46:16 2001] * Guide *[50 Druid] Cazza (Wood Elf) <Keepers of Morell Thule> ZONE: oot (USER 279081704:guidemorell28)
+[Mon Mar 26 09:46:16 2001] There are 2 players in EverQuest.
+[Mon Mar 26 09:46:22 2001] You GMSAY, 'zone'
+[Mon Mar 26 09:46:26 2001] Teleporting to Cazza.
+[Mon Mar 26 09:46:27 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 09:46:50 2001] You have entered Ocean of Tears.
+[Mon Mar 26 09:46:54 2001] It begins to rain.
+[Mon Mar 26 09:46:55 2001] Teleporting to Cazza.
+[Mon Mar 26 09:47:01 2001] Teleporting to Cazza.
+[Mon Mar 26 09:47:07 2001] You feel the spirit of Norrath enter you.
+[Mon Mar 26 09:47:07 2001] Your feet leave the ground.
+[Mon Mar 26 09:47:33 2001] Teleporting to Cazza.
+[Mon Mar 26 09:47:42 2001] I don't see anyone by that name around here...
+[Mon Mar 26 09:47:51 2001] Summoning cazza.
+[Mon Mar 26 09:47:54 2001] Summoning cazza.
+[Mon Mar 26 09:47:59 2001] You beam a smile at Cazza.
+[Mon Mar 26 09:48:00 2001] Cazza says, 'hahaha'
+[Mon Mar 26 09:48:03 2001] You say, 'STOP RUNNING!'
+[Mon Mar 26 09:48:05 2001] Cazza GMSAYS, 'brat'
+[Mon Mar 26 09:48:10 2001] Cazza hugs Espranza.
+[Mon Mar 26 09:48:11 2001] You GMSAY, 'Pfhhht!'
+[Mon Mar 26 09:48:23 2001] You say, 'Hi!'
+[Mon Mar 26 09:48:29 2001] Cazza GMSAYS, 'I was like woah theres a hole in the game'
+[Mon Mar 26 09:48:34 2001] You GMSAY, 'hah!'
+[Mon Mar 26 09:48:53 2001] You GMSAY, 'anyway, must go, late for work, but wanted to say hello!'
+[Mon Mar 26 09:48:57 2001] You bow before Cazza.
+[Mon Mar 26 09:49:02 2001] Cazza GMSAYS, 'you need ne shoes hun'
+[Mon Mar 26 09:49:09 2001] You GMSAY, 'let me show you my ginsu technique'
+[Mon Mar 26 09:49:25 2001] Espranza makes short work of petitions!
+[Mon Mar 26 09:49:29 2001] Cazza GMSAYS, 'hahah well it was indeed a pleasure .. hope to see you again '
+[Mon Mar 26 09:49:40 2001] You GMSAY, 'me too! see you soon!'
+[Mon Mar 26 09:49:42 2001] Cazza laughs at Espranza.
+[Mon Mar 26 09:49:42 2001] You GMSAY, 'zoning'
+[Mon Mar 26 09:49:45 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 09:50:02 2001] You have entered Sunset Home.
+[Mon Mar 26 09:50:17 2001] You GMSAY, 'bye all!'
+[Mon Mar 26 09:50:19 2001] It will take you about 30 seconds to prepare your camp.
+[Mon Mar 26 09:50:23 2001] It will take about 25 more seconds to prepare your camp.
+[Mon Mar 26 09:50:28 2001] It will take about 20 more seconds to prepare your camp.
+[Mon Mar 26 09:50:33 2001] It will take about 15 more seconds to prepare your camp.
+[Mon Mar 26 09:50:38 2001] It will take about 10 more seconds to prepare your camp.
+[Mon Mar 26 09:50:43 2001] It will take about 5 more seconds to prepare your camp.
+[Mon Mar 26 23:24:25 2001] Welcome to EverQuest!
+[Mon Mar 26 23:24:25 2001] You have entered Sunset Home.
+[Mon Mar 26 23:24:25 2001] MESSAGE OF THE DAY: Welcome to Morell! Please be careful about dropping items to the ground, as we do not reimburse items lost this way. You can prevent accidents by setting Item Dropping to Confirm or Never (found in eq options/general).
+[Mon Mar 26 23:24:33 2001] Logging to 'eqlog.txt' is now *ON*.
+[Mon Mar 26 23:24:36 2001] Players in EverQuest:
+[Mon Mar 26 23:24:36 2001] ---------------------------
+[Mon Mar 26 23:24:36 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER 279081680:guidemorell4)
+[Mon Mar 26 23:24:36 2001] * Senior Guide *[50 Monk]  (Human) <Keepers of Morell Thule> ZONE:  (USER 213382017:guide0170)
+[Mon Mar 26 23:24:36 2001] There are 2 players in EverQuest.
+[Mon Mar 26 23:24:42 2001] You GMSAY, 'hello all!'
+[Mon Mar 26 23:25:05 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:25:06 2001] USER TEXT: I just logged on with my main character Frumplefox and found myself in the middle of a canyon in the overthere at the loc 0 0, is there a way I could get put back at the frontier mountain zone where I logged off last?
+[Mon Mar 26 23:25:06 2001] Players in EverQuest:
+[Mon Mar 26 23:25:06 2001] ---------------------------
+[Mon Mar 26 23:25:06 2001] [1 Monk] Fastfox (Iksar) ZONE: cabeast (USER 371681227:frumplefox)
+[Mon Mar 26 23:25:06 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:25:58 2001] You told Fastfox, 'Hail, Fastfox! Guide Espranza here. Sounds reasonable, but I'll have to prepare first.'
+[Mon Mar 26 23:26:08 2001] You feel the spirit of Norrath enter you.
+[Mon Mar 26 23:26:08 2001] Your feet leave the ground.
+[Mon Mar 26 23:26:17 2001] Searching zones for corpse of that name....
+[Mon Mar 26 23:26:27 2001] Searching zones for corpse of that name....
+[Mon Mar 26 23:26:39 2001] Players in EverQuest:
+[Mon Mar 26 23:26:39 2001] ---------------------------
+[Mon Mar 26 23:26:39 2001] [1 Monk] Fastfox (Iksar) ZONE: cabeast (USER 371681227:frumplefox)
+[Mon Mar 26 23:26:39 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:26:49 2001] You told Fastfox, 'Let me know when you return to the keyboard.'
+[Mon Mar 26 23:26:55 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Mar 26 23:26:58 2001] STATUS UPGRADED TO URGENT
+[Mon Mar 26 23:27:01 2001] CHECKING IN
+[Mon Mar 26 23:27:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:27:03 2001] USER TEXT: um i was hit by an ogre an it said i was beneath the world of Timorous am moved me to a safe point but now i dont know where i am an have to get to my group
+[Mon Mar 26 23:27:03 2001] Players in EverQuest:
+[Mon Mar 26 23:27:03 2001] ---------------------------
+[Mon Mar 26 23:27:03 2001] [ANON (18 Rogue)] Siyenide (Half Elf) ZONE: timorous (USER 251880989:jignix)
+[Mon Mar 26 23:27:03 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:27:33 2001] You told Siyenide, 'Hail, Siyenide! Guide Espranza here. Are you still stuck in places unknown?'
+[Mon Mar 26 23:28:26 2001] Siyenide tells you, 'yes i just remember there being a chessboard on it, only reason i was there was because i was beneath TD an had to be put in a safe place'
+[Mon Mar 26 23:28:43 2001] You GMSAY, 'zoning'
+[Mon Mar 26 23:28:44 2001] Fastfox tells you, 'hail sorry about that'
+[Mon Mar 26 23:28:49 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 23:29:27 2001] You have entered The Overthere.
+[Mon Mar 26 23:29:38 2001] You told Fastfox, 'one moment, after this other petition'
+[Mon Mar 26 23:29:44 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 23:30:16 2001] You have entered Timorous Deep.
+[Mon Mar 26 23:30:32 2001] Teleporting to Siyanide.
+[Mon Mar 26 23:30:39 2001] Teleporting to Siyenide.
+[Mon Mar 26 23:30:48 2001] Teleporting to Siyenide.
+[Mon Mar 26 23:30:57 2001] Searching zones for corpse of that name....
+[Mon Mar 26 23:30:57 2001] Corpse: Siyenide's corpse0 in zone: timorous
+[Mon Mar 26 23:31:08 2001] Teleporting to Siyenide's corpse0.
+[Mon Mar 26 23:31:39 2001] You told Siyenide, 'Hail, Siyenide! How did you die?'
+[Mon Mar 26 23:31:59 2001] Siyenide tells you, 'fell off a rock/mountain 8('
+[Mon Mar 26 23:31:59 2001] Teleporting to Siyenide's corpse0.
+[Mon Mar 26 23:32:25 2001] You told Siyenide, 'okay'
+[Mon Mar 26 23:32:29 2001] Teleporting to siyenide.
+[Mon Mar 26 23:32:39 2001] Siyenide says, 'Hail'
+[Mon Mar 26 23:32:45 2001] Summoning siyenide's corpse0.
+[Mon Mar 26 23:32:50 2001] Siyenide thanks Espranza heartily.
+[Mon Mar 26 23:32:50 2001] You say, 'Hi!'
+[Mon Mar 26 23:32:57 2001] Siyenide says, 'thank god'
+[Mon Mar 26 23:32:59 2001] You say, 'next time don't explore )'
+[Mon Mar 26 23:33:09 2001] Siyenide says, 'lol thank you '
+[Mon Mar 26 23:33:17 2001] Hollidae bows before Espranza.
+[Mon Mar 26 23:33:25 2001] Alainu tells you, 'can you help my friend please'
+[Mon Mar 26 23:33:29 2001] You GMSAY, '<note bug> person zoned into TD, went to safe point and died while exploring. Summoned their corpse.'
+[Mon Mar 26 23:33:33 2001] DELETING THIS PETITION
+[Mon Mar 26 23:33:44 2001] You told Alainu, 'did your friend petition?'
+[Mon Mar 26 23:33:50 2001] Alainu tells you, 'yes'
+[Mon Mar 26 23:33:57 2001] Naevin is looking at your equipment...
+[Mon Mar 26 23:34:09 2001] You told Alainu, 'I'll get to it in it's order - I just logged on and there's many petitions.'
+[Mon Mar 26 23:34:13 2001] You no longer have a target.
+[Mon Mar 26 23:34:13 2001] You wave goodbye to everyone.
+[Mon Mar 26 23:34:16 2001] You GMSAY, 'zoning'
+[Mon Mar 26 23:34:23 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 23:34:56 2001] You have entered The Overthere.
+[Mon Mar 26 23:35:06 2001] Players on EverQuest:
+[Mon Mar 26 23:35:06 2001] ---------------------------
+[Mon Mar 26 23:35:06 2001] [19 Monk] Mukantiz (Iksar) <The Scaled Brotherhood>
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Kindjal  <Enchanted Steel>
+[Mon Mar 26 23:35:06 2001] [20 Warrior] Malakai (Dark Elf) <Magic Masters>
+[Mon Mar 26 23:35:06 2001] [30 Magician] Dukaster (High Elf) <Kingdom of Steel>
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Umbro  <Nature's Fury>
+[Mon Mar 26 23:35:06 2001] [38 Necromancer] Grettia (Erudite) <Magic Masters>
+[Mon Mar 26 23:35:06 2001] [20 Necromancer] Noirfare (Iksar)
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Zakneifen 
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Kzuk 
+[Mon Mar 26 23:35:06 2001] [18 Magician] Ratatouille (Gnome) <Compagnons de l`Aube>
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Karptic 
+[Mon Mar 26 23:35:06 2001] [23 Shadow Knight] Tenshinhan (Dark Elf) <Ronins>
+[Mon Mar 26 23:35:06 2001] [21 Shadow Knight] Debarr (Human) <House Rea`Morda>
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Bloodric  <Revenant Souls of Darkness>
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Mcdelkor 
+[Mon Mar 26 23:35:06 2001] [21 Shadow Knight] Maelelin (Dark Elf) <Storm Knights of Neriak>
+[Mon Mar 26 23:35:06 2001] [24 Ranger] Marcello (Wood Elf) <Rise of the Phoenix>
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Vrexxon  <House Rea`Morda>
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Knarl  <Order of the White Hand>
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Lungorthin 
+[Mon Mar 26 23:35:06 2001] [35 Ranger] Mattiahs (Wood Elf) <Elven Elite>
+[Mon Mar 26 23:35:06 2001] [40 Warrior] Sarellron (Human) <Hunters of the Undead>
+[Mon Mar 26 23:35:06 2001] [32 Wizard] Aguilera (High Elf) <Power of Peace>
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Valovik  <Order of the White Hand>
+[Mon Mar 26 23:35:06 2001] [23 Ranger] Sardikar (Wood Elf) <Golden Legion>
+[Mon Mar 26 23:35:06 2001] [33 Warrior] Cradberry (Wood Elf)
+[Mon Mar 26 23:35:06 2001] [ANONYMOUS] Jalpan  <Golden Legion>
+[Mon Mar 26 23:35:06 2001] * GM * [50 Rogue] Espranza (Halfling) <Keepers of Morell Thule>
+[Mon Mar 26 23:35:06 2001] There are 28 players in The Overthere.
+[Mon Mar 26 23:35:13 2001] Teleporting to cradberry.
+[Mon Mar 26 23:35:15 2001] Mcdelkor begins to cast a spell. (Light Healing)
+[Mon Mar 26 23:35:16 2001] Mattiahs begins to cast a spell. (Light Healing)
+[Mon Mar 26 23:35:17 2001] Vrexxon feels better.
+[Mon Mar 26 23:35:17 2001] Vrexxon feels better.
+[Mon Mar 26 23:35:21 2001] Mcdelkor begins to cast a spell. (Light Healing)
+[Mon Mar 26 23:35:23 2001] Vrexxon feels better.
+[Mon Mar 26 23:35:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:35:26 2001] Mcdelkor begins to cast a spell. (Light Healing)
+[Mon Mar 26 23:35:27 2001] USER TEXT: I just logged on with my main character Frumplefox and found myself in the middle of a canyon in the overthere at the loc 0 0, is there a way I could get put back at the frontier mountain zone where I logged off last?
+[Mon Mar 26 23:35:27 2001] Players in EverQuest:
+[Mon Mar 26 23:35:27 2001] ---------------------------
+[Mon Mar 26 23:35:27 2001] [1 Monk] Fastfox (Iksar) ZONE: cabeast (USER 371681227:frumplefox)
+[Mon Mar 26 23:35:27 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:35:28 2001] Grettia begins to cast a spell. (Torbas Acid Blast)
+[Mon Mar 26 23:35:28 2001] Vrexxon feels better.
+[Mon Mar 26 23:35:32 2001] Mcdelkor begins to cast a spell. (Light Healing)
+[Mon Mar 26 23:35:34 2001] Vrexxon feels better.
+[Mon Mar 26 23:35:35 2001] Grettia begins to cast a spell. (Torbas Acid Blast)
+[Mon Mar 26 23:35:37 2001] Mcdelkor begins to cast a spell. (Light Healing)
+[Mon Mar 26 23:35:39 2001] You told Fastfox, 'Hail! Okay, log in Frumplefox'
+[Mon Mar 26 23:35:39 2001] Vrexxon feels better.
+[Mon Mar 26 23:35:41 2001] USER TEXT: I just logged on with my main character Frumplefox and found myself in the middle of a canyon in the overthere at the loc 0 0, is there a way I could get put back at the frontier mountain zone where I logged off last?
+[Mon Mar 26 23:35:43 2001] Mcdelkor begins to cast a spell. (Light Healing)
+[Mon Mar 26 23:35:45 2001] Vrexxon feels better.
+[Mon Mar 26 23:35:48 2001] Summoning Frumplefox.
+[Mon Mar 26 23:35:48 2001] Mcdelkor begins to cast a spell. (Light Healing)
+[Mon Mar 26 23:35:50 2001] Vrexxon feels better.
+[Mon Mar 26 23:35:53 2001] Fastfox tells you, 'okay, might take a few minutes'
+[Mon Mar 26 23:36:03 2001] You told Fastfox, 'why?'
+[Mon Mar 26 23:36:06 2001] Grettia begins to cast a spell. (Torbas Acid Blast)
+[Mon Mar 26 23:36:17 2001] Fastfox tells you, 'only a 56k conection'
+[Mon Mar 26 23:36:19 2001] Vrexxon says out of character, 'camp check... --- GM espranza camped'
+[Mon Mar 26 23:36:24 2001] Vrexxon says out of character, '*jk'
+[Mon Mar 26 23:36:37 2001] You GMSAY, '<note bug> person logged out in OT, came back at loc 0,0 - summon them to FM zone'
+[Mon Mar 26 23:36:47 2001] Grettia says, 'you wanna group with me?'
+[Mon Mar 26 23:36:51 2001] Summoning Frumplefox.
+[Mon Mar 26 23:36:52 2001] Summoning Frumplefox.
+[Mon Mar 26 23:36:54 2001] Summoning Frumplefox.
+[Mon Mar 26 23:36:54 2001] Grettia says, 'Dukaster?'
+[Mon Mar 26 23:36:55 2001] Summoning Frumplefox.
+[Mon Mar 26 23:36:56 2001] Summoning Frumplefox.
+[Mon Mar 26 23:36:58 2001] Summoning Frumplefox.
+[Mon Mar 26 23:36:59 2001] Dukaster says, 'Hail'
+[Mon Mar 26 23:37:04 2001] Players in EverQuest:
+[Mon Mar 26 23:37:04 2001] ---------------------------
+[Mon Mar 26 23:37:04 2001] [1 Monk] Fastfox (Iksar) ZONE: cabeast (USER 371681227:frumplefox)
+[Mon Mar 26 23:37:04 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:37:05 2001] Umbro begins to cast a spell. (Tashani)
+[Mon Mar 26 23:37:10 2001] Jalpan shouts, 'if a gm in zone pls send me a tell got a question to ask '
+[Mon Mar 26 23:37:11 2001] Umbro begins to cast a spell. (Tepid Deeds)
+[Mon Mar 26 23:37:20 2001] Umbro begins to cast a spell. (Suffocate)
+[Mon Mar 26 23:37:21 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:23 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:24 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:24 2001] Lungorthin shouts, 'Gm in zone'
+[Mon Mar 26 23:37:24 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:25 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:26 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:27 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:28 2001] Dukaster says, 'sorry i was checking out the GM here'
+[Mon Mar 26 23:37:28 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:30 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:31 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:31 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:32 2001] Grettia says, 'oh ok'
+[Mon Mar 26 23:37:38 2001] Vrexxon shouts, 'train - GM to zone'
+[Mon Mar 26 23:37:40 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:41 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:41 2001] Lungorthin shouts, 'B)'
+[Mon Mar 26 23:37:42 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:43 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:44 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:44 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:45 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:46 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:47 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:49 2001] Summoning frumplefox.
+[Mon Mar 26 23:37:53 2001] Players in EverQuest:
+[Mon Mar 26 23:37:53 2001] ---------------------------
+[Mon Mar 26 23:37:53 2001] [1 Monk] Fastfox (Iksar) ZONE: cabeast (USER 371681227:frumplefox)
+[Mon Mar 26 23:37:53 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:38:00 2001] Players in EverQuest:
+[Mon Mar 26 23:38:00 2001] ---------------------------
+[Mon Mar 26 23:38:00 2001] [1 Monk] Fastfox (Iksar) ZONE: cabeast (USER 371681227:frumplefox)
+[Mon Mar 26 23:38:00 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:38:02 2001] Players in EverQuest:
+[Mon Mar 26 23:38:02 2001] ---------------------------
+[Mon Mar 26 23:38:02 2001] [1 Monk] Fastfox (Iksar) ZONE: cabeast (USER 371681227:frumplefox)
+[Mon Mar 26 23:38:02 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:38:05 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:06 2001] Lungorthin shouts, 'Hey Senior esperanza .. its poss to duel a Gm for fun ?'
+[Mon Mar 26 23:38:22 2001] You told lungorthin, 'no, it isn't'
+[Mon Mar 26 23:38:34 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:35 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:36 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:40 2001] Players in EverQuest:
+[Mon Mar 26 23:38:40 2001] ---------------------------
+[Mon Mar 26 23:38:40 2001] There are no players in EverQuest that match those who filters.
+[Mon Mar 26 23:38:42 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:43 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:43 2001] Grettia shouts, 'FM group seeking more 30+'
+[Mon Mar 26 23:38:44 2001] Lungorthin tells you, 'pls where are u .. its for a screen shot ?'
+[Mon Mar 26 23:38:44 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:45 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:46 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:47 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:48 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:48 2001] Summoning frumplefox.
+[Mon Mar 26 23:38:49 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:07 2001] You told Lungorthin, 'FM zone behind ledge - but hurry cuz I'm gone once I finish here  very busy'
+[Mon Mar 26 23:39:08 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:09 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:09 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:10 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:11 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:11 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:12 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:13 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:13 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:14 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:15 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:15 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:16 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:17 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:17 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:18 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:19 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:19 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:20 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:21 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:27 2001] Players in EverQuest:
+[Mon Mar 26 23:39:27 2001] ---------------------------
+[Mon Mar 26 23:39:27 2001] [ANON (36 Paladin)]  (Human) ZONE:  (USER 371681227:frumplefox)
+[Mon Mar 26 23:39:27 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:39:31 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:32 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:32 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:33 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:34 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:35 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:36 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:37 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:39 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:40 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:40 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:41 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:42 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:42 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:43 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:44 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:45 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:45 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:46 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:47 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:48 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:49 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:49 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:50 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:51 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:52 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:52 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:53 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:54 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:55 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:55 2001] Lungorthin snaps to attention and salutes Espranza crisply.
+[Mon Mar 26 23:39:56 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:56 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:57 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:58 2001] Summoning frumplefox.
+[Mon Mar 26 23:39:59 2001] You feel as if you are about to fall.
+[Mon Mar 26 23:40:00 2001] You beam a smile at Lungorthin.
+[Mon Mar 26 23:40:02 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:03 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:03 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:04 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:05 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:05 2001] You feel as if you are about to fall.
+[Mon Mar 26 23:40:06 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:06 2001] Phibess shouts, '40 war'
+[Mon Mar 26 23:40:06 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:07 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:08 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:08 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:09 2001] You feel the spirit of Norrath enter you.
+[Mon Mar 26 23:40:10 2001] Your feet leave the ground.
+[Mon Mar 26 23:40:11 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:12 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:12 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:13 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:15 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:15 2001] Lungorthin tells you, 'thx'
+[Mon Mar 26 23:40:16 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:18 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:18 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:19 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:20 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:20 2001] You're not scaring anyone.
+[Mon Mar 26 23:40:20 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:21 2001] Lungorthin tells you, 'u're warior ?'
+[Mon Mar 26 23:40:21 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:22 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:24 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:25 2001] Lungorthin tells you, 'or rogue ?'
+[Mon Mar 26 23:40:28 2001] You told Lungorthin, 'rogue!'
+[Mon Mar 26 23:40:30 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:30 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:31 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:32 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:32 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:33 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:34 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:34 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:34 2001] Lungorthin tells you, 'good stuff B)'
+[Mon Mar 26 23:40:37 2001] You told Lungorthin, 'heh'
+[Mon Mar 26 23:40:40 2001] Players in EverQuest:
+[Mon Mar 26 23:40:40 2001] ---------------------------
+[Mon Mar 26 23:40:40 2001] [ANON (36 Paladin)] Frumplefox (Human) ZONE: overthere (USER 371681227:frumplefox)
+[Mon Mar 26 23:40:40 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:40:43 2001] You told Lungorthin, 'heh'
+[Mon Mar 26 23:40:43 2001] Lungorthin tells you, 'good day at u miss'
+[Mon Mar 26 23:40:47 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:48 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:51 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:53 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:54 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:55 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:56 2001] You told Lungorthin, 'see ya'
+[Mon Mar 26 23:40:58 2001] Summoning frumplefox.
+[Mon Mar 26 23:40:59 2001] Summoning frumplefox.
+[Mon Mar 26 23:41:00 2001] Summoning frumplefox.
+[Mon Mar 26 23:41:00 2001] Summoning frumplefox.
+[Mon Mar 26 23:41:01 2001] Summoning frumplefox.
+[Mon Mar 26 23:41:02 2001] Summoning frumplefox.
+[Mon Mar 26 23:41:02 2001] Umbro says out of character, 'fm zone group looking for healer type '
+[Mon Mar 26 23:41:04 2001] Summoning frumplefox.
+[Mon Mar 26 23:41:08 2001] Summoning frumplefox.
+[Mon Mar 26 23:41:10 2001] Lungorthin kneels before Espranza in humility and reverence.
+[Mon Mar 26 23:41:14 2001] Players in EverQuest:
+[Mon Mar 26 23:41:14 2001] ---------------------------
+[Mon Mar 26 23:41:14 2001] [ANON (36 Paladin)] Frumplefox (Human) ZONE: overthere (USER 371681227:frumplefox)
+[Mon Mar 26 23:41:14 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:41:15 2001] Lungorthin begins to cast a spell. (Gather Shadows)
+[Mon Mar 26 23:41:20 2001] Lungorthin steps into the shadows and disappears.
+[Mon Mar 26 23:41:23 2001] Summoning frumplefox.
+[Mon Mar 26 23:41:25 2001] Summoning frumplefox.
+[Mon Mar 26 23:41:26 2001] Summoning frumplefox.
+[Mon Mar 26 23:41:34 2001] DELETING THIS PETITION
+[Mon Mar 26 23:41:44 2001] Frumplefox says, 'thank you for your help'
+[Mon Mar 26 23:41:48 2001] You say, 'certainly'
+[Mon Mar 26 23:41:49 2001] Frumplefox kneels before Espranza in humility and reverence.
+[Mon Mar 26 23:41:51 2001] You wave goodbye to Frumplefox.
+[Mon Mar 26 23:41:54 2001] You GMSAY, 'zoning'
+[Mon Mar 26 23:41:56 2001] Frumplefox waves goodbye to Espranza.
+[Mon Mar 26 23:42:01 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 23:42:19 2001] You have entered Sunset Home.
+[Mon Mar 26 23:42:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:42:24 2001] USER TEXT: how do i make a guild
+[Mon Mar 26 23:42:24 2001] Players in EverQuest:
+[Mon Mar 26 23:42:24 2001] ---------------------------
+[Mon Mar 26 23:42:24 2001] There are no players in EverQuest that match those who filters.
+[Mon Mar 26 23:42:31 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Mar 26 23:42:32 2001] CHECKING IN
+[Mon Mar 26 23:42:34 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:42:34 2001] USER TEXT: died in lower guk right at the zoneline...corpse is nowhere to be found, and /corpse doesn't work
+[Mon Mar 26 23:42:34 2001] Players in EverQuest:
+[Mon Mar 26 23:42:34 2001] ---------------------------
+[Mon Mar 26 23:42:34 2001] [33 Magician] Gobo (Gnome) <Heroic Few> ZONE: guktop (USER 257380900:davebrooks)
+[Mon Mar 26 23:42:34 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:42:40 2001] Searching zones for corpse of that name....
+[Mon Mar 26 23:42:40 2001] Corpse: Gobo's corpse0 in zone: gukbottom
+[Mon Mar 26 23:42:48 2001] You GMSAY, 'zoning'
+[Mon Mar 26 23:42:52 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 23:43:16 2001] You have entered Ruins of Old Guk.
+[Mon Mar 26 23:43:28 2001] Perlenoire waves at Espranza.
+[Mon Mar 26 23:43:33 2001] Teleporting to gobo's corpse0.
+[Mon Mar 26 23:43:37 2001] Perlenoire begins to cast a spell. (Dazzle)
+[Mon Mar 26 23:43:40 2001] A froglok shin knight has been mesmerized.
+[Mon Mar 26 23:43:44 2001] Summoning Gobo's corpse0.
+[Mon Mar 26 23:43:52 2001] Summoning Gobo's corpse0.
+[Mon Mar 26 23:43:59 2001] It will take you about 30 seconds to prepare your camp.
+[Mon Mar 26 23:44:00 2001] Perlenoire begins to cast a spell. (Discordant Mind)
+[Mon Mar 26 23:44:03 2001] It will take about 25 more seconds to prepare your camp.
+[Mon Mar 26 23:44:06 2001] Smeene has fallen to the ground.
+[Mon Mar 26 23:44:08 2001] It will take about 20 more seconds to prepare your camp.
+[Mon Mar 26 23:44:13 2001] It will take about 15 more seconds to prepare your camp.
+[Mon Mar 26 23:44:17 2001] STATUS UPGRADED TO URGENT
+[Mon Mar 26 23:44:18 2001] It will take about 10 more seconds to prepare your camp.
+[Mon Mar 26 23:44:19 2001] CHECKING IN
+[Mon Mar 26 23:44:19 2001] Perlenoire's spell fizzles!
+[Mon Mar 26 23:44:21 2001] Perlenoire begins to cast a spell. (Improved Invisibility)
+[Mon Mar 26 23:44:23 2001] It will take about 5 more seconds to prepare your camp.
+[Mon Mar 26 23:44:24 2001] a froglok shin knight says 'Frrroooaaakkk! 
+[Mon Mar 26 23:44:24 2001] a froglok shin knight says 'Your intolerable reputation insults all in this realm.'
+[Mon Mar 26 23:44:24 2001] a froglok shin knight says 'Frrroooaaakkk! 
+[Mon Mar 26 23:44:24 2001] a froglok shin knight says 'Your actions and history are a personal affront to all I stand for.'
+[Mon Mar 26 23:44:25 2001] Perlenoire fades away.
+[Mon Mar 26 23:44:25 2001] Smeene has been slain by a froglok shin knight!
+[Mon Mar 26 23:44:28 2001] a froglok tsu shaman says 'Frrroooaaakkk! 
+[Mon Mar 26 23:44:28 2001] a froglok tsu shaman says 'Your foul deeds have earned my contempt.'
+[Mon Mar 26 23:44:28 2001] a froglok shin knight says 'Frrroooaaakkk! 
+[Mon Mar 26 23:44:28 2001] a froglok shin knight says 'Your actions and history are a personal affront to all I stand for.'
+[Mon Mar 26 23:44:57 2001] Welcome to EverQuest!
+[Mon Mar 26 23:44:57 2001] You have entered Ruins of Old Guk.
+[Mon Mar 26 23:44:57 2001] MESSAGE OF THE DAY: Welcome to Morell! Please be careful about dropping items to the ground, as we do not reimburse items lost this way. You can prevent accidents by setting Item Dropping to Confirm or Never (found in eq options/general).
+[Mon Mar 26 23:45:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:45:14 2001] USER TEXT: died in lower guk right at the zoneline...corpse is nowhere to be found, and /corpse doesn't work
+[Mon Mar 26 23:45:14 2001] Players in EverQuest:
+[Mon Mar 26 23:45:14 2001] ---------------------------
+[Mon Mar 26 23:45:14 2001] There are no players in EverQuest that match those who filters.
+[Mon Mar 26 23:45:48 2001] STATUS DOWNGRADED TO NORMAL
+[Mon Mar 26 23:45:50 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Mar 26 23:45:54 2001] Players in EverQuest:
+[Mon Mar 26 23:45:54 2001] ---------------------------
+[Mon Mar 26 23:45:54 2001] There are no players in EverQuest that match those who filters.
+[Mon Mar 26 23:45:56 2001] CHECKING IN
+[Mon Mar 26 23:45:59 2001] You GMSAY, 'zoning'
+[Mon Mar 26 23:46:03 2001] LOADING, PLEASE WAIT...
+[Mon Mar 26 23:46:20 2001] You have entered Sunset Home.
+[Mon Mar 26 23:46:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:46:31 2001] USER TEXT: killed 2 sg blue and no exp why is that
+[Mon Mar 26 23:46:31 2001] Players in EverQuest:
+[Mon Mar 26 23:46:31 2001] ---------------------------
+[Mon Mar 26 23:46:31 2001] [40 Shaman] Tephalion (Barbarian) ZONE: highpass (USER 229880827:gearhead3)
+[Mon Mar 26 23:46:31 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:47:02 2001] You told Tephalion, 'Hail, Tephalion! Guide Espranza here. Were you grouped when you killed the sand giants?'
+[Mon Mar 26 23:47:42 2001] Tephalion tells you, 'i was with three others in oasis took 4 to 5 blues to me no exp at all weird'
+[Mon Mar 26 23:47:53 2001] Tephalion tells you, 'sg they where'
+[Mon Mar 26 23:48:18 2001] You told Tephalion, 'were they green to anyone you were with?'
+[Mon Mar 26 23:48:29 2001] Tephalion tells you, 'no i was the highest lvl 40'
+[Mon Mar 26 23:48:41 2001] Tephalion tells you, 'they where in mid 30s'
+[Mon Mar 26 23:48:52 2001] You told Tephalion, 'were you all close together when it died?'
+[Mon Mar 26 23:49:26 2001] Tephalion tells you, 'i wasnt the first time running for life but the others where able to finish it off but yes to the rest'
+[Mon Mar 26 23:49:40 2001] Tephalion tells you, 'they didnt get exp either from all'
+[Mon Mar 26 23:49:53 2001] You told Tephalion, 'if you're too far from the kill, you don't experience - and if you did most of the damage, neither do they'
+[Mon Mar 26 23:50:19 2001] DELETING THIS PETITION
+[Mon Mar 26 23:50:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:50:22 2001] USER TEXT: can you pls show me where my body is
+[Mon Mar 26 23:50:22 2001] Players in EverQuest:
+[Mon Mar 26 23:50:22 2001] ---------------------------
+[Mon Mar 26 23:50:22 2001] [ANON (14 Druid)] Wels (Halfling) ZONE: steamfont (USER 473181093:ericc59)
+[Mon Mar 26 23:50:22 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:50:28 2001] Searching zones for corpse of that name....
+[Mon Mar 26 23:50:34 2001] Searching zones for corpse of that name....
+[Mon Mar 26 23:50:46 2001] Tephalion tells you, 'i didnt it just kept hitting me that was only once the rest of the time they hit i healed and my dog jumped in but i would pull off'
+[Mon Mar 26 23:50:50 2001] You told Wels, 'Hail, Wels! Guide Espranza here. Have you found your corpse? I cannot find it.'
+[Mon Mar 26 23:51:11 2001] Tephalion tells you, 'i can understand 1 but the rest i have done them before hg's and sg's '
+[Mon Mar 26 23:51:29 2001] Wels tells you, 'yes i found it'
+[Mon Mar 26 23:51:43 2001] You told Wels, 'Good, I'm glad to hear it! Be well and better luck!'
+[Mon Mar 26 23:51:44 2001] Wels tells you, 'i went LD while i had the spell Fear casted on me by the Mino guys in the cave'
+[Mon Mar 26 23:51:45 2001] DELETING THIS PETITION
+[Mon Mar 26 23:51:48 2001] Wels tells you, 'thank you'
+[Mon Mar 26 23:51:53 2001] You told Wels, 'I've had that happen to me ('
+[Mon Mar 26 23:51:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:51:55 2001] USER TEXT: Please do not respond unless you are Lirus or Mersi thx
+[Mon Mar 26 23:51:55 2001] Players in EverQuest:
+[Mon Mar 26 23:51:55 2001] ---------------------------
+[Mon Mar 26 23:51:55 2001] There are no players in EverQuest that match those who filters.
+[Mon Mar 26 23:51:56 2001] Wels tells you, ':('
+[Mon Mar 26 23:51:56 2001] Tephalion tells you, 'all five to them no exp and 4 to me no exp we all around all except 1 for me i to far i believe'
+[Mon Mar 26 23:52:02 2001] STATUS UPGRADED TO URGENT
+[Mon Mar 26 23:52:06 2001] STATUS UPGRADED TO EMERGENCY
+[Mon Mar 26 23:52:07 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Mar 26 23:52:07 2001] Wels tells you, 'my friend found my body clear across the zone'
+[Mon Mar 26 23:52:08 2001] CHECKING IN
+[Mon Mar 26 23:52:19 2001] You told Wels, 'you keep running when you're LD'
+[Mon Mar 26 23:52:28 2001] Wels tells you, 'yep , and through walls right?'
+[Mon Mar 26 23:52:29 2001] You told Tephalion, 'I have no explanation; I'll note it as a bug.'
+[Mon Mar 26 23:52:33 2001] You told Wels, 'sometimes'
+[Mon Mar 26 23:52:54 2001] Tephalion tells you, 'well we just wanted u to know to look at it 5 to many'
+[Mon Mar 26 23:53:08 2001] Tephalion tells you, 'thank u'
+[Mon Mar 26 23:53:15 2001] You GMSAY, '<note bug> Shaman and four others in their thirties killing sand giants got no experience on blues. I thought of several reasons but none of them seemed to match.'
+[Mon Mar 26 23:53:38 2001] You feel as if you are about to fall.
+[Mon Mar 26 23:53:44 2001] You feel as if you are about to fall.
+[Mon Mar 26 23:53:44 2001] You told Tephalion, 'Ah well... be sure you're all pretty much together when it dies, that's the only thing I can think of.'
+[Mon Mar 26 23:53:45 2001] You can't use that command right now...
+[Mon Mar 26 23:53:45 2001] You feel the spirit of Norrath enter you.
+[Mon Mar 26 23:53:47 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:53:48 2001] USER TEXT: Xasanak
+[Mon Mar 26 23:53:48 2001] Players in EverQuest:
+[Mon Mar 26 23:53:48 2001] ---------------------------
+[Mon Mar 26 23:53:48 2001] [13 Shadow Knight] Daarck (Iksar) <The Scaled Brotherhood> ZONE: kurn (USER 389180931:caltaro)
+[Mon Mar 26 23:53:48 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:53:50 2001] You can no longer levitate.
+[Mon Mar 26 23:54:11 2001] You told Daarck, 'Hail, Xasanak! Guide Espranza here. How may I help you?'
+[Mon Mar 26 23:54:42 2001] You cannot intimidate yourself!
+[Mon Mar 26 23:54:46 2001] Daarck tells you, 'hello... i was zoning out of dalnir earlier, and when i zoned out was dead... nut i zoned with HP?????'
+[Mon Mar 26 23:54:49 2001] Tephalion tells you, 'we where all except for one'
+[Mon Mar 26 23:54:50 2001] Daarck tells you, 'err but zoned'
+[Mon Mar 26 23:55:14 2001] Searching zones for corpse of that name....
+[Mon Mar 26 23:55:53 2001] Tephalion tells you, 'we did everything right just want u all to know somthing was wrong that is all'
+[Mon Mar 26 23:55:56 2001] You told Daarck, 'Sometimes the server hasn't had a chance to update EQ with all the latest info'
+[Mon Mar 26 23:55:58 2001] Daarck tells you, 'i reported, but dont know if the lines before and after zoning made it in report'
+[Mon Mar 26 23:56:21 2001] Tephalion tells you, 'grouping for 40 lvl i am sure i got it right lol ta ta thanks for your time '
+[Mon Mar 26 23:56:27 2001] Espranza saved.
+[Mon Mar 26 23:56:31 2001] You told Daarck, 'You'd actually taken more damage but the server didn't have a chance to mark you as died before you zoned.'
+[Mon Mar 26 23:56:46 2001] You told Tephalion, 'Any time! I know how frustrating it is to lose a kill.'
+[Mon Mar 26 23:56:55 2001] DELETING THIS PETITION
+[Mon Mar 26 23:56:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 26 23:56:57 2001] USER TEXT: I was told by a friend that I shouldnt have my surname and I just want to make sure that it is ok before someone else says something
+[Mon Mar 26 23:56:57 2001] Players in EverQuest:
+[Mon Mar 26 23:56:57 2001] ---------------------------
+[Mon Mar 26 23:56:57 2001] [21 Shadow Knight] Debarr (Human) <House Rea`Morda> ZONE: overthere (USER 253481651:debar26)
+[Mon Mar 26 23:56:57 2001] There is 1 player in EverQuest.
+[Mon Mar 26 23:57:01 2001] Daarck tells you, 'tuff luck i guess... oh wel.... any particualr reason Dalnir is extra laggy????'
+[Mon Mar 26 23:57:23 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings All!! This is your friendly patch reminder. All servers will be coming down in two hours. Estimated down time is ten hours.
+[Mon Mar 26 23:57:29 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings All!! This is your friendly patch reminder. All servers will be coming down in two hours. Estimated down time is ten hours.
+[Mon Mar 26 23:57:29 2001] Tephalion tells you, 'lol after 40 lvl's u cant have everything and well the game is going to have its glitches once in a while'
+[Mon Mar 26 23:57:30 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings All!! This is your friendly patch reminder. All servers will be coming down in two hours. Estimated down time is ten hours.
+[Mon Mar 26 23:57:35 2001] You told Daarck, 'I hadn't noticed... I was there last night and didn't see anything unusual.'
+[Mon Mar 26 23:57:52 2001] Daarck tells you, 'usually happens around several casters....'
+[Mon Mar 26 23:57:53 2001] Tephalion tells you, 'thank  u again i am fine not upset'
+[Mon Mar 26 23:58:00 2001] You told Tephalion, 'heh okay - be well!'
+[Mon Mar 26 23:58:25 2001] Jaxus GMSAYS, 'Hi guys'
+[Mon Mar 26 23:58:30 2001] You told Daarck, 'Ahhh, well, casting can cause all kinds of lag. Go to options - display - and turn down (or off) the particle effects.'
+[Mon Mar 26 23:58:34 2001] You GMSAY, 'Hiya Jaxus!'
+[Mon Mar 26 23:58:40 2001] USER TEXT: I was told by a friend that I shouldnt have my surname and I just want to make sure that it is ok before someone else says something
+[Mon Mar 26 23:58:47 2001] Tephalion tells you, 'and u Espranza'
+[Mon Mar 26 23:58:53 2001] Jaxus GMSAYS, 'wow people during my shift. I'm in shock =)'
+[Mon Mar 26 23:58:56 2001] You told Debarr, 'Hail, Debarr! Guide Espranza here. What is your surname?'
+[Mon Mar 26 23:58:59 2001] Daarck tells you, 'thanx, shall try that..... gratitude for your time'
+[Mon Mar 26 23:59:09 2001] You GMSAY, 'I'm doing my epic on my other computer. It involves foraging.'
+[Mon Mar 26 23:59:10 2001] Debarr tells you, 'fearmyblade'
+[Mon Mar 26 23:59:15 2001] You GMSAY, 'might as well guide.'
+[Mon Mar 26 23:59:26 2001] You told Debarr, 'Yes, that is not allowed.'
+[Mon Mar 26 23:59:27 2001] Jaxus GMSAYS, 'hehe'
+[Mon Mar 26 23:59:51 2001] Debarr tells you, 'what do I need to do to fix that'
+[Mon Mar 26 23:59:58 2001] You told Debarr, 'If you could, repetition when a GM or senior guide is on and we'll change it for you.'
+[Tue Mar 27 00:00:11 2001] You GMSAY, '<note badname> Debarr Fearmyblade'
+[Tue Mar 27 00:00:24 2001] Debarr tells you, 'when should I petition again?'
+[Tue Mar 27 00:00:28 2001] You GMSAY, '<note issue> Debarr Fearmyblade would like his surname changed'
+[Tue Mar 27 00:00:45 2001] You told Debarr, 'during the afternoon tomorrow would be a good time.'
+[Tue Mar 27 00:00:55 2001] You told Debarr, 'Or in the evening, California time.'
+[Tue Mar 27 00:00:58 2001] DELETING THIS PETITION
+[Tue Mar 27 00:00:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:01:00 2001] USER TEXT: tikola went back on a deal what can i do about it
+[Tue Mar 27 00:01:00 2001] Players in EverQuest:
+[Tue Mar 27 00:01:00 2001] ---------------------------
+[Tue Mar 27 00:01:00 2001] [12 Paladin] Xermo (Dwarf) ZONE: gfaydark (USER 475280769:xermosomra)
+[Tue Mar 27 00:01:00 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:01:07 2001] Players in EverQuest:
+[Tue Mar 27 00:01:07 2001] ---------------------------
+[Tue Mar 27 00:01:07 2001] There are no players in EverQuest that match those who filters.
+[Tue Mar 27 00:01:13 2001] Debarr tells you, 'ok will do, didnt want to get into trouble later for it thanx for the help'
+[Tue Mar 27 00:01:24 2001] You told Xermo, 'Hail, Xermo! Guide Espranza here. How may I help you?'
+[Tue Mar 27 00:01:38 2001] You told Debarr, 'You wouldn't be in trouble for it. It's not offensive - just not allowed.'
+[Tue Mar 27 00:01:54 2001] Debarr tells you, 'ok didnt realize until someone told me'
+[Tue Mar 27 00:02:03 2001] You told Debarr, 'No problem!'
+[Tue Mar 27 00:02:06 2001] DELETING THIS PETITION
+[Tue Mar 27 00:02:08 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:02:08 2001] USER TEXT: my friend is stuck in the roof of paw
+[Tue Mar 27 00:02:08 2001] Players in EverQuest:
+[Tue Mar 27 00:02:08 2001] ---------------------------
+[Tue Mar 27 00:02:08 2001] [35 Warrior] Waladce (Barbarian) <Tuath na Sgiath> ZONE: ecommons (USER 446781682:eagleeyes52)
+[Tue Mar 27 00:02:08 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:02:13 2001] Debarr tells you, 'thanks again'
+[Tue Mar 27 00:02:20 2001] You told Debarr, 'any time. be well!'
+[Tue Mar 27 00:02:23 2001] Jaxus GMSAYS, 'zoning'
+[Tue Mar 27 00:02:27 2001] Debarr tells you, 'same to you'
+[Tue Mar 27 00:02:36 2001] You told Waladce, 'Hail, Waladce! Guide Espranza here. What is your friend's name?'
+[Tue Mar 27 00:02:41 2001] You feel the spirit of Norrath enter you.
+[Tue Mar 27 00:02:42 2001] Your feet leave the ground.
+[Tue Mar 27 00:02:49 2001] Waladce tells you, 'we got her free'
+[Tue Mar 27 00:02:57 2001] You told Waladce, 'Wonderful! Be well then!'
+[Tue Mar 27 00:02:59 2001] DELETING THIS PETITION
+[Tue Mar 27 00:03:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:03:01 2001] USER TEXT: have a question on getting married  in game ... pls send a tale
+[Tue Mar 27 00:03:02 2001] Players in EverQuest:
+[Tue Mar 27 00:03:02 2001] ---------------------------
+[Tue Mar 27 00:03:02 2001] [ANON (24 Ranger)] Jalpan (Wood Elf) ZONE: overthere (USER 277581445:mandororbar)
+[Tue Mar 27 00:03:02 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:03:03 2001] Waladce tells you, 'take care'
+[Tue Mar 27 00:03:19 2001] You told Jalpan, 'Hail, Jalpan! Guide Espranza here. How may I help you?'
+[Tue Mar 27 00:03:51 2001] You cannot intimidate yourself!
+[Tue Mar 27 00:04:14 2001] Jalpan tells you, 'yes i got a question but in fight one sec pls  me sorry for delty'
+[Tue Mar 27 00:04:24 2001] You told Jalpan, 'ok'
+[Tue Mar 27 00:04:31 2001] You're not scaring anyone.
+[Tue Mar 27 00:04:36 2001] STATUS UPGRADED TO URGENT
+[Tue Mar 27 00:04:47 2001] Jaxus GMSAYS, 'zoning'
+[Tue Mar 27 00:04:48 2001] You GMSAY, 'escing mandor until he's out of the fight'
+[Tue Mar 27 00:04:50 2001] CHECKING IN
+[Tue Mar 27 00:04:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:04:53 2001] USER TEXT: my spirit of cheetah spell still won't load 8(.
+[Tue Mar 27 00:04:53 2001] Players in EverQuest:
+[Tue Mar 27 00:04:53 2001] ---------------------------
+[Tue Mar 27 00:04:53 2001] [31 Druid] Embyr (Wood Elf) <Amalgam of Might> ZONE: greatdivide (USER 96549809:mrsneaky)
+[Tue Mar 27 00:04:53 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:05:11 2001] You're not scaring anyone.
+[Tue Mar 27 00:05:23 2001] You told Embyr, 'Hail, Embyr! Guide Espranza here. Has Spirit of Cheetah finally loaded?'
+[Tue Mar 27 00:05:31 2001] You're not scaring anyone.
+[Tue Mar 27 00:06:57 2001] ERROR: Couldn't get safe coords for cshome, unable to zone.
+
+[Tue Mar 27 00:08:39 2001] Welcome to EverQuest!
+[Tue Mar 27 00:08:39 2001] You have entered Sunset Home.
+[Tue Mar 27 00:08:40 2001] MESSAGE OF THE DAY: Welcome to Morell! Please be careful about dropping items to the ground, as we do not reimburse items lost this way. You can prevent accidents by setting Item Dropping to Confirm or Never (found in eq options/general).
+[Tue Mar 27 00:08:49 2001] Players in EverQuest:
+[Tue Mar 27 00:08:49 2001] ---------------------------
+[Tue Mar 27 00:08:49 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER 279081680:guidemorell4)
+[Tue Mar 27 00:08:49 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: chardok (USER 279081691:guidemorell15)
+[Tue Mar 27 00:08:49 2001] * Senior Guide *[50 Monk]  (Human) <Keepers of Morell Thule> ZONE:  (USER 213382017:guide0170)
+[Tue Mar 27 00:08:49 2001] There are 3 players in EverQuest.
+[Tue Mar 27 00:09:05 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:09:06 2001] USER TEXT: my spirit of cheetah spell still won't load 8(.
+[Tue Mar 27 00:09:06 2001] Players in EverQuest:
+[Tue Mar 27 00:09:06 2001] ---------------------------
+[Tue Mar 27 00:09:06 2001] [31 Druid] Embyr (Wood Elf) <Amalgam of Might> ZONE: greatdivide (USER 96549809:mrsneaky)
+[Tue Mar 27 00:09:06 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:09:54 2001] You told Embyr, 'Hail, Embyr! Guide Espranza here again. I apologize, I went link dead. Has Spirit of Cheetah loaded yet?'
+[Tue Mar 27 00:10:12 2001] DELETING THIS PETITION
+[Tue Mar 27 00:10:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:10:18 2001] USER TEXT: I was swimming looking for the necro guild for a quest.. "fell" while swimming for 10,000 point of damage..?
+[Tue Mar 27 00:10:18 2001] Players in EverQuest:
+[Tue Mar 27 00:10:18 2001] ---------------------------
+[Tue Mar 27 00:10:18 2001] [5 Druid] Paloverde (Halfling) ZONE: misty (USER 423483594:herrgrun)
+[Tue Mar 27 00:10:18 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:10:34 2001] Searching zones for corpse of that name....
+[Tue Mar 27 00:11:03 2001] You're not scaring anyone.
+[Tue Mar 27 00:11:06 2001] Searching zones for corpse of that name....
+[Tue Mar 27 00:11:18 2001] Embyr tells you, 'no, I add it mem to spell lst and no load....even complained b4'
+[Tue Mar 27 00:11:33 2001] You told Embyr, 'it takes, I think, fifteen minutes for it to load.'
+[Tue Mar 27 00:11:52 2001] Embyr tells you, 'ack! that long time, never been told that b4'
+[Tue Mar 27 00:11:56 2001] You're not scaring anyone.
+[Tue Mar 27 00:12:17 2001] You told Embyr, 'yeah, you have to be patient with it.'
+[Tue Mar 27 00:12:19 2001] DELETING THIS PETITION
+[Tue Mar 27 00:12:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:12:22 2001] USER TEXT: hello  I am a cleric and have a problem..we have been waiting for GM response to Tegamyens petition for a while and I cant stay on any longer...please give him a res as his body is undoubtedly bugged says out of range, and cant res.I have to log
+[Tue Mar 27 00:12:22 2001] Players in EverQuest:
+[Tue Mar 27 00:12:22 2001] ---------------------------
+[Tue Mar 27 00:12:22 2001] There are no players in EverQuest that match those who filters.
+[Tue Mar 27 00:12:27 2001] Embyr tells you, 'why so long??'
+[Tue Mar 27 00:12:52 2001] You told Embyr, 'So that people won't just mem it in emergencies. If you need Cheetah speed, you'll have to plan ahead.'
+[Tue Mar 27 00:13:09 2001] DELETING THIS PETITION
+[Tue Mar 27 00:13:11 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:13:11 2001] USER TEXT: when i was going to the waterfalls in ww my comp froze up and now i died this is the second time my comp has gone frozen there and im getting tired of alawys having it freeze there and i want my body back this time becouse i was never even under
+[Tue Mar 27 00:13:11 2001] Players in EverQuest:
+[Tue Mar 27 00:13:11 2001] ---------------------------
+[Tue Mar 27 00:13:12 2001] There are no players in EverQuest that match those who filters.
+[Tue Mar 27 00:13:12 2001] Embyr tells you, 'ok, didn't know that.  thanks'
+[Tue Mar 27 00:13:20 2001] Redem tells you, 'Hmm mersi been on char select screen for a long time, she gonna be on before server go down ya think?'
+[Tue Mar 27 00:13:23 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Mar 27 00:13:24 2001] CHECKING IN
+[Tue Mar 27 00:13:37 2001] You told Redem, 'I have no idea.'
+[Tue Mar 27 00:13:40 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:13:40 2001] USER TEXT: I'm looking at a corpse I'm trying to drag, but says "You can summon from here" as if I didn't have line of sight.  this is the high shaman room of sol a
+[Tue Mar 27 00:13:41 2001] Players in EverQuest:
+[Tue Mar 27 00:13:41 2001] ---------------------------
+[Tue Mar 27 00:13:41 2001] [36 Rogue] Yalum (Gnome) ZONE: soldunga (USER 344381055:emvore)
+[Tue Mar 27 00:13:41 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:13:43 2001] Redem tells you, 'hehe k'
+[Tue Mar 27 00:14:09 2001] You told Yalum, 'Hail, Yalum! Guide Espranza here. Whose corpse are you trying to drag?'
+[Tue Mar 27 00:14:25 2001] Yalum tells you, 'Wonderful, it's Tigerclau's'
+[Tue Mar 27 00:14:35 2001] Searching zones for corpse of that name....
+[Tue Mar 27 00:14:35 2001] Corpse: Tigerclau's corpse0 in zone: soldunga
+[Tue Mar 27 00:14:38 2001] You GMSAY, 'zoning'
+[Tue Mar 27 00:14:42 2001] LOADING, PLEASE WAIT...
+[Tue Mar 27 00:15:08 2001] You have entered Solusek's Eye.
+[Tue Mar 27 00:15:24 2001] Teleporting to tigerclau's corpse0.
+[Tue Mar 27 00:15:34 2001] Yalum cheers at Espranza.
+[Tue Mar 27 00:15:53 2001] Summoning Tigerclau's corpse0.
+[Tue Mar 27 00:15:58 2001] You told Yalum, 'try now'
+[Tue Mar 27 00:16:11 2001] Yalum tells you, 'It worked'
+[Tue Mar 27 00:16:16 2001] You told Yalum, 'yay! best wishes'
+[Tue Mar 27 00:16:18 2001] DELETING THIS PETITION
+[Tue Mar 27 00:16:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:16:22 2001] USER TEXT: how do i make a guild
+[Tue Mar 27 00:16:22 2001] Players in EverQuest:
+[Tue Mar 27 00:16:22 2001] ---------------------------
+[Tue Mar 27 00:16:22 2001] There are no players in EverQuest that match those who filters.
+[Tue Mar 27 00:16:22 2001] Yalum tells you, 'Thanks!'
+[Tue Mar 27 00:16:28 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Mar 27 00:16:29 2001] CHECKING IN
+[Tue Mar 27 00:16:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:16:31 2001] USER TEXT: died in lower guk right at the zoneline...corpse is nowhere to be found, and /corpse doesn't work
+[Tue Mar 27 00:16:31 2001] Players in EverQuest:
+[Tue Mar 27 00:16:31 2001] ---------------------------
+[Tue Mar 27 00:16:31 2001] [33 Magician] Gobo (Gnome) <Heroic Few> ZONE: ecommons (USER 257380900:davebrooks)
+[Tue Mar 27 00:16:31 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:16:50 2001] Clon tells you, 'i petitioned earlier with my warrior honguss i switched to this character to pass time and when i went to petiton with this character to tell you i had switched characters i hit enter on accident half way through sorry to bother you'
+[Tue Mar 27 00:17:00 2001] You told Gobo, 'Hail, Gobo! Guide Espranza here. I didn't see  you online when I came last, but I dragged your corpse out of the wall.'
+[Tue Mar 27 00:17:03 2001] You feel as if you are about to fall.
+[Tue Mar 27 00:17:09 2001] You feel as if you are about to fall.
+[Tue Mar 27 00:17:10 2001] Jalpan tells you, 'mm so any idea's'
+[Tue Mar 27 00:17:15 2001] You can no longer levitate.
+[Tue Mar 27 00:17:23 2001] DELETING THIS PETITION
+[Tue Mar 27 00:17:23 2001] Gobo tells you, 'yes i've gotten it...thank you very much'
+[Tue Mar 27 00:17:29 2001] You told Gobo, 'you're very welcome'
+[Tue Mar 27 00:17:30 2001] Clon tells you, 'get all that hehe'
+[Tue Mar 27 00:17:38 2001] You told Clon, 'sec'
+[Tue Mar 27 00:17:43 2001] Players in EverQuest:
+[Tue Mar 27 00:17:43 2001] ---------------------------
+[Tue Mar 27 00:17:43 2001] [1 Wizard] Clon (Gnome) ZONE: akanon (USER 485581631:jchippy245)
+[Tue Mar 27 00:17:43 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:17:50 2001] Clon tells you, 'ok'
+[Tue Mar 27 00:18:38 2001] You told Clon, 'ah, I see your petition. We'll be getting to it soon.'
+[Tue Mar 27 00:18:41 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:18:42 2001] USER TEXT: Hi don't know if you can do anything, but I was in Sol B and we had a huge lag spike. I died never the least. I couldn't hit anything during lag and couldn't even FD
+[Tue Mar 27 00:18:42 2001] Players in EverQuest:
+[Tue Mar 27 00:18:42 2001] ---------------------------
+[Tue Mar 27 00:18:42 2001] [44 Monk] Tetman (Human) <Coeur de Lion> ZONE: soldungb (USER 255183589:great1kdd)
+[Tue Mar 27 00:18:42 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:18:59 2001] Pyracantha shouts, 'agrrrrr'
+[Tue Mar 27 00:19:00 2001] Clon tells you, 'ok thanks'
+[Tue Mar 27 00:20:38 2001] You told Tetman, 'Hail, Tetman! Guide Espranza here. Unfortunately, we cannot rez for deaths caused by lag....'
+[Tue Mar 27 00:20:40 2001] DELETING THIS PETITION
+[Tue Mar 27 00:20:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:20:43 2001] USER TEXT: eq sever disconnected us at same time killing partner named knooty this has happened before.  it is not our sperate internet providers disconnection its eq fault please give me some info on how we can get credit for this
+[Tue Mar 27 00:20:43 2001] Players in EverQuest:
+[Tue Mar 27 00:20:43 2001] ---------------------------
+[Tue Mar 27 00:20:43 2001] [20 Ranger] Noot (Half Elf) <Fellowship of Thunder> ZONE: eastkarana (USER 386281417:eauclaire27)
+[Tue Mar 27 00:20:43 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:20:52 2001] Tetman tells you, 'ok just wondered but thanks anyway'
+[Tue Mar 27 00:21:02 2001] Tetman tells you, 'it was very bad though'
+[Tue Mar 27 00:21:32 2001] You told Tetman, 'Yeah, I was actually just kicked off for no reason a few minutes ago.'
+[Tue Mar 27 00:21:50 2001] Tetman tells you, 'i couldn't hit anything at all'
+[Tue Mar 27 00:22:01 2001] Tetman tells you, 'but that is life'
+[Tue Mar 27 00:22:02 2001] You told Tetman, 'you were lagged, no communication with the server'
+[Tue Mar 27 00:22:14 2001] USER TEXT: eq sever disconnected us at same time killing partner named knooty this has happened before.  it is not our sperate internet providers disconnection its eq fault please give me some info on how we can get credit for this
+[Tue Mar 27 00:22:22 2001] Tetman tells you, 'well i was chasing a Kobold but i could hit it'
+[Tue Mar 27 00:22:27 2001] Try intimidating someone other than yourself.
+[Tue Mar 27 00:22:29 2001] Tetman tells you, 'couldn't'
+[Tue Mar 27 00:22:51 2001] You told Tetman, 'Right, because the server couldn't register the hit'
+[Tue Mar 27 00:23:06 2001] You're not scaring anyone.
+[Tue Mar 27 00:23:07 2001] Tinna shouts, 'any have maletite for sale?'
+[Tue Mar 27 00:23:39 2001] You told Noot, 'Hail, Noot! Guide Espranza here. Unfortunately, we cannot rez for deaths caused by link death.'
+[Tue Mar 27 00:23:40 2001] DELETING THIS PETITION
+[Tue Mar 27 00:23:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:23:43 2001] USER TEXT: died in solb due to lag spike who kill a lot of guy from various country, please help
+[Tue Mar 27 00:23:43 2001] Players in EverQuest:
+[Tue Mar 27 00:23:43 2001] ---------------------------
+[Tue Mar 27 00:23:43 2001] [ANON (33 Shaman)] Qlex (Barbarian) ZONE: everfrost (USER 255880691:qlex)
+[Tue Mar 27 00:23:43 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:24:01 2001] Noot tells you, 'even if its eq's fault'
+[Tue Mar 27 00:24:04 2001] You GMSAY, 'you know, I'm getting a lot of pets about a lag spike in Sol B'
+[Tue Mar 27 00:24:07 2001] Players in EverQuest:
+[Tue Mar 27 00:24:07 2001] ---------------------------
+[Tue Mar 27 00:24:07 2001] [20 Ranger] Noot (Half Elf) <Fellowship of Thunder> ZONE: eastkarana (USER 386281417:eauclaire27)
+[Tue Mar 27 00:24:07 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:24:13 2001] Jaxus GMSAYS, 'oh?'
+[Tue Mar 27 00:24:25 2001] You GMSAY, 'I'm gonna camp to chat and see if there was some problem'
+[Tue Mar 27 00:24:35 2001] Jaxus GMSAYS, 'ok'
+[Tue Mar 27 00:25:04 2001] You told Noot, 'I'm going to find a GM and make sure it was there fault or not - they have ways to tell. Be right back.'
+[Tue Mar 27 00:25:08 2001] STATUS UPGRADED TO URGENT
+[Tue Mar 27 00:25:12 2001] Espranza saved.
+[Tue Mar 27 00:25:16 2001] You GMSAY, 'escing qlex until I get back.'
+[Tue Mar 27 00:25:18 2001] You told Qlex, ''
+[Tue Mar 27 00:25:19 2001] You no longer have a target.
+[Tue Mar 27 00:25:25 2001] CHECKING IN
+[Tue Mar 27 00:25:26 2001] Tinna shouts, 'any have maletite for sale?'
+[Tue Mar 27 00:25:31 2001] It will take you about 30 seconds to prepare your camp.
+[Tue Mar 27 00:25:32 2001] Qlex tells you, 'hey'
+[Tue Mar 27 00:25:35 2001] It will take about 25 more seconds to prepare your camp.
+[Tue Mar 27 00:25:40 2001] It will take about 20 more seconds to prepare your camp.
+[Tue Mar 27 00:25:45 2001] It will take about 15 more seconds to prepare your camp.
+[Tue Mar 27 00:25:50 2001] Tigerclau says out of character, 'camp check'
+[Tue Mar 27 00:25:50 2001] It will take about 10 more seconds to prepare your camp.
+[Tue Mar 27 00:25:55 2001] Noot tells you, 'funny how two people would get dissconnected at same time in different parts of country '
+[Tue Mar 27 00:25:55 2001] It will take about 5 more seconds to prepare your camp.
+[Tue Mar 27 00:25:57 2001] Vangeliss says out of character, 'foreman predetor'
+[Tue Mar 27 00:29:12 2001] Welcome to EverQuest!
+[Tue Mar 27 00:29:12 2001] You have entered Solusek's Eye.
+[Tue Mar 27 00:29:12 2001] MESSAGE OF THE DAY: Welcome to Morell! Please be careful about dropping items to the ground, as we do not reimburse items lost this way. You can prevent accidents by setting Item Dropping to Confirm or Never (found in eq options/general).
+[Tue Mar 27 00:29:20 2001] Qlex tells you, 'hey ?'
+[Tue Mar 27 00:29:28 2001] You GMSAY, 'Jaxus, we are rezzing for a lag spike a few minutes ago'
+[Tue Mar 27 00:29:33 2001] Players in EverQuest:
+[Tue Mar 27 00:29:33 2001] ---------------------------
+[Tue Mar 27 00:29:33 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: kithicor (USER 279081691:guidemorell15)
+[Tue Mar 27 00:29:33 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: soldunga (USER 279081680:guidemorell4)
+[Tue Mar 27 00:29:33 2001] * Senior Guide *[50 Monk]  (Human) <Keepers of Morell Thule> ZONE:  (USER 213382017:guide0170)
+[Tue Mar 27 00:29:33 2001] There are 3 players in EverQuest.
+[Tue Mar 27 00:29:45 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:29:46 2001] USER TEXT: died in solb due to lag spike who kill a lot of guy from various country, please help
+[Tue Mar 27 00:29:46 2001] Players in EverQuest:
+[Tue Mar 27 00:29:46 2001] ---------------------------
+[Tue Mar 27 00:29:46 2001] [ANON (33 Shaman)] Qlex (Barbarian) ZONE: everfrost (USER 255880691:qlex)
+[Tue Mar 27 00:29:46 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:30:03 2001] You told Qlex, 'I've just checked with the GMs, and we are rezzing.'
+[Tue Mar 27 00:30:17 2001] Jaxus GMSAYS, 'alrighty'
+[Tue Mar 27 00:30:30 2001] You GMSAY, '<note issue> Servers had connectivity problems, GM Delanus said we are rezzing for it.'
+[Tue Mar 27 00:30:34 2001] You GMSAY, 'zoning'
+[Tue Mar 27 00:30:39 2001] LOADING, PLEASE WAIT...
+[Tue Mar 27 00:31:03 2001] You have entered Nagafen's Lair.
+[Tue Mar 27 00:31:07 2001] Qlex tells you, 'ok thanks'
+[Tue Mar 27 00:31:18 2001] Players in EverQuest:
+[Tue Mar 27 00:31:18 2001] ---------------------------
+[Tue Mar 27 00:31:18 2001] [ANON (33 Shaman)] Qlex (Barbarian) ZONE: everfrost (USER 255880691:qlex)
+[Tue Mar 27 00:31:18 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:31:19 2001] Sylfein says out of character, 'I apologize for my use of the F word in ooc k thnx ^_^'
+[Tue Mar 27 00:31:28 2001] You GMSAY, 'killing mob at sol b zone so I can rez safely'
+[Tue Mar 27 00:31:29 2001] Rulu says out of character, 'uh huh'
+[Tue Mar 27 00:31:30 2001] Toggle shouts, 'kill this fawkin -=( Warlord Skarlon )=-'
+[Tue Mar 27 00:31:32 2001] Killing greater_kobold04.
+[Tue Mar 27 00:31:35 2001] Ealar says out of character, 'sylf suke'
+[Tue Mar 27 00:31:43 2001] Players in EverQuest:
+[Tue Mar 27 00:31:43 2001] ---------------------------
+[Tue Mar 27 00:31:43 2001] [ANON (33 Shaman)] Qlex (Barbarian) ZONE: everfrost (USER 255880691:qlex)
+[Tue Mar 27 00:31:43 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:31:47 2001] Jaxus GMSAYS, 'only happen in sol b?'
+[Tue Mar 27 00:31:47 2001] Summoning qlex.
+[Tue Mar 27 00:31:53 2001] You GMSAY, 'He didn't say'
+[Tue Mar 27 00:31:59 2001] Sylfein says out of character, 'Warlord Skarlon is Malosi'd.'
+[Tue Mar 27 00:32:07 2001] Players in EverQuest:
+[Tue Mar 27 00:32:07 2001] ---------------------------
+[Tue Mar 27 00:32:07 2001] [20 Bard] Tellia (Wood Elf) <Random Acts> ZONE: commons (USER 423482307:dndavenger)
+[Tue Mar 27 00:32:07 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:32:11 2001] Jaxus GMSAYS, 'I didn't notice a lag spike on my end'
+[Tue Mar 27 00:32:15 2001] Jaxus GMSAYS, 'ok =)'
+[Tue Mar 27 00:32:19 2001] Lexicus shouts, 'Tank or cleric needed at Named, drop a tell if you want the spot!'
+[Tue Mar 27 00:32:21 2001] You told Qlex, 'Ready for a rez?'
+[Tue Mar 27 00:32:24 2001] LOADING, PLEASE WAIT...
+[Tue Mar 27 00:32:46 2001] You have entered Lavastorm Mountains.
+[Tue Mar 27 00:32:55 2001] LOADING, PLEASE WAIT...
+[Tue Mar 27 00:33:17 2001] You have entered Nagafen's Lair.
+[Tue Mar 27 00:33:34 2001] Summoning Qlex's corpse0.
+[Tue Mar 27 00:33:43 2001] Qlex tells you, 'oops zoned out'
+[Tue Mar 27 00:33:43 2001] Players in EverQuest:
+[Tue Mar 27 00:33:43 2001] ---------------------------
+[Tue Mar 27 00:33:43 2001] [ANON (33 Shaman)] Qlex (Barbarian) ZONE: lavastorm (USER 255880691:qlex)
+[Tue Mar 27 00:33:43 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:33:47 2001] You told Qlex, 'heh me too'
+[Tue Mar 27 00:33:55 2001] You told Qlex, 'I hate that'
+[Tue Mar 27 00:34:01 2001] You told Qlex, 'ready for a rez?'
+[Tue Mar 27 00:34:17 2001] You told Qlex, 'ready for a rez?'
+[Tue Mar 27 00:34:20 2001] Qlex tells you, 'ok ready'
+[Tue Mar 27 00:34:26 2001] DELETING THIS PETITION
+[Tue Mar 27 00:34:28 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:34:29 2001] USER TEXT: have a question on getting married  in game ... pls send a tale
+[Tue Mar 27 00:34:29 2001] Players in EverQuest:
+[Tue Mar 27 00:34:29 2001] ---------------------------
+[Tue Mar 27 00:34:29 2001] [ANON (24 Ranger)] Jalpan (Wood Elf) ZONE: overthere (USER 277581445:mandororbar)
+[Tue Mar 27 00:34:29 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:34:33 2001] Qlex tells you, 'many thanks'
+[Tue Mar 27 00:34:38 2001] You told Qlex, 'any time'
+[Tue Mar 27 00:34:38 2001] Qlex bows before Espranza.
+[Tue Mar 27 00:34:43 2001] You beam a smile at Qlex.
+[Tue Mar 27 00:34:51 2001] You GMSAY, 'zoning'
+[Tue Mar 27 00:34:57 2001] Qlex says, 'ohhh my small corpse >)'
+[Tue Mar 27 00:34:58 2001] LOADING, PLEASE WAIT...
+[Tue Mar 27 00:35:18 2001] You have entered Sunset Home.
+[Tue Mar 27 00:35:37 2001] You told Jalpan, 'Hail, Jalpan! Guide Espranza here. How may I help you?'
+[Tue Mar 27 00:36:03 2001] You're not scaring anyone.
+[Tue Mar 27 00:36:15 2001] Your target is too far away, get closer!
+[Tue Mar 27 00:36:25 2001] You're not scaring anyone.
+[Tue Mar 27 00:36:29 2001] Jalpan tells you, 'ok question i had was on getting married'
+[Tue Mar 27 00:36:40 2001] You're not scaring anyone.
+[Tue Mar 27 00:36:42 2001] You told Jalpan, 'Okay...'
+[Tue Mar 27 00:36:46 2001] Jaxus GMSAYS, 'zoning'
+[Tue Mar 27 00:36:52 2001] You're not scaring anyone.
+[Tue Mar 27 00:37:02 2001] DELETING THIS PETITION
+[Tue Mar 27 00:37:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:37:04 2001] USER TEXT: when i was going to the waterfalls in ww my comp froze up and now i died this is the second time my comp has gone frozen there and im getting tired of alawys having it freeze there and i want my body back this time becouse i was never even under
+[Tue Mar 27 00:37:04 2001] Players in EverQuest:
+[Tue Mar 27 00:37:04 2001] ---------------------------
+[Tue Mar 27 00:37:04 2001] There are no players in EverQuest that match those who filters.
+[Tue Mar 27 00:37:17 2001] Searching zones for corpse of that name....
+[Tue Mar 27 00:37:22 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Mar 27 00:37:23 2001] CHECKING IN
+[Tue Mar 27 00:37:24 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:37:24 2001] Jalpan tells you, 'Hunnie and i was wandering if we can get like a middle name so we both can keep are last name  can that be done'
+[Tue Mar 27 00:37:25 2001] USER TEXT: I just leveled to level 19 and went link dead about 5 minutes later.  When I came back, I spawned at a different site and lost 2 blue bubbles of exp.
+[Tue Mar 27 00:37:25 2001] Players in EverQuest:
+[Tue Mar 27 00:37:25 2001] ---------------------------
+[Tue Mar 27 00:37:25 2001] [18 Bard] Hollidae (Wood Elf) ZONE: freportn (USER 447481964:pixel89)
+[Tue Mar 27 00:37:25 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:37:51 2001] You told Jalpan, 'No, I'm sorry - in the world of Norrath, nobody uses middle names...'
+[Tue Mar 27 00:37:57 2001] You're not scaring anyone.
+[Tue Mar 27 00:38:12 2001] Searching zones for corpse of that name....
+[Tue Mar 27 00:38:15 2001] Jalpan tells you, 'i am asking becuse i have seen once long ago on the frist sever's so backly wander if it still being done or not'
+[Tue Mar 27 00:38:21 2001] You can't hit them from here.
+[Tue Mar 27 00:38:26 2001] Jalpan tells you, 'O'
+[Tue Mar 27 00:38:33 2001] You have become better at Intimidation! (105)
+[Tue Mar 27 00:38:33 2001] You can't hit them from here.
+[Tue Mar 27 00:38:47 2001] You told Jalpan, 'I'm not aware of any people with middle names, unless they are guides or were given titles.'
+[Tue Mar 27 00:38:48 2001] Jalpan tells you, 'what about like a title'
+[Tue Mar 27 00:38:53 2001] You're not scaring anyone.
+[Tue Mar 27 00:39:13 2001] You told Jalpan, 'Titles are specially awarded by GMs during events.'
+[Tue Mar 27 00:39:32 2001] Jalpan tells you, 'hehe well this could be a event Lol '
+[Tue Mar 27 00:39:35 2001] USER TEXT: I just leveled to level 19 and went link dead about 5 minutes later.  When I came back, I spawned at a different site and lost 2 blue bubbles of exp.
+[Tue Mar 27 00:39:40 2001] Jalpan tells you, 'in away it is '
+[Tue Mar 27 00:39:57 2001] You told Jalpan, 'heh welllll.... it's a player event'
+[Tue Mar 27 00:40:02 2001] Jaxus GMSAYS, 'wjscott unava #3'
+[Tue Mar 27 00:40:06 2001] Jalpan tells you, 'aye  hehe'
+[Tue Mar 27 00:40:11 2001] You GMSAY, '(makes flushing noise)'
+[Tue Mar 27 00:40:29 2001] Jaxus GMSAYS, '=P'
+[Tue Mar 27 00:41:26 2001] Jalpan tells you, 'ok  help me find away hehe i need away to do this so i and hunnie both win  hehe '
+[Tue Mar 27 00:41:29 2001] You told Hollidae, 'Hail, Hollidae! Guide Espranza here. It seems as if the server rolled you back to its last save... is the area you came back to a place you were when you had that much experience?'
+[Tue Mar 27 00:41:40 2001] You told Jalpan, 'Why not both choose a new name?'
+[Tue Mar 27 00:41:49 2001] Hollidae tells you, 'yes'
+[Tue Mar 27 00:42:43 2001] Jalpan tells you, 'well we tought of that but both of us are from derffent  umm err can't spell cotuar'
+[Tue Mar 27 00:42:52 2001] You told Hollidae, 'Dang. That's not friendly. I wish there were something I could do about that, but alas I cannot. I will leave a note for the GM about this.'
+[Tue Mar 27 00:43:03 2001] You told Jalpan, 'different cultures?'
+[Tue Mar 27 00:43:35 2001] You're not scaring anyone.
+[Tue Mar 27 00:43:45 2001] You can't hit them from here.
+[Tue Mar 27 00:43:47 2001] Hollidae tells you, 'The experience will not be difficult to reclaim, but it is a nuisance and a bit of a dissapointment.'
+[Tue Mar 27 00:43:50 2001] Jalpan tells you, 'aye one  keep there last name from her mine woman give up last name so we trying to find way  that people now we are married'
+[Tue Mar 27 00:44:02 2001] You're not scaring anyone.
+[Tue Mar 27 00:44:23 2001] Jalpan tells you, 'like a ( t' ) then last name '
+[Tue Mar 27 00:44:26 2001] You told Jalpan, 'The smiles, the glances of love, the tender way you speak of each other - won't people know? ;)'
+[Tue Mar 27 00:45:02 2001] Jalpan tells you, 'yes but not all will we are on sepert time's hehe'
+[Tue Mar 27 00:45:11 2001] You told Hollidae, 'I agree. I don't know why the server did that, but I do know that time lost this way cannot be reclaimed. Sometimes lost items may be.'
+[Tue Mar 27 00:45:20 2001] Jalpan tells you, 'so she a little pickie Lol '
+[Tue Mar 27 00:45:25 2001] Espranza saved.
+[Tue Mar 27 00:45:31 2001] Hollidae tells you, 'Thank you for responding.'
+[Tue Mar 27 00:46:06 2001] You told Jalpan, 'Oh well... unfortunately there are no middle names or titles except under very special circumstance... so you'll have to find a compromise... best of luck!'
+[Tue Mar 27 00:46:13 2001] The spirit leaves you.
+[Tue Mar 27 00:46:20 2001] You told Hollidae, 'No trouble at all. Thank you for being understanding.'
+[Tue Mar 27 00:46:55 2001] You GMSAY, '<note issue> Petitioner was rolled back to an earlier time...'
+[Tue Mar 27 00:46:57 2001] DELETING THIS PETITION
+[Tue Mar 27 00:46:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:46:59 2001] USER TEXT: is there a risk of loosing a corpse durring this outage?
+[Tue Mar 27 00:46:59 2001] Players in EverQuest:
+[Tue Mar 27 00:46:59 2001] ---------------------------
+[Tue Mar 27 00:46:59 2001] [ANON (13 Wizard)] Ennya (High Elf) ZONE: qeynos (USER 479482941:realspkr)
+[Tue Mar 27 00:46:59 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:47:00 2001] Jalpan tells you, 'errr ok i hope a event pops up soon that 2 24th lvl can do Lol it be kewl to get married at the end of one'
+[Tue Mar 27 00:47:23 2001] You told Jalpan, 'heh! they give titles at the Best of the Best tournaments, you'd have to work very hard though...'
+[Tue Mar 27 00:47:26 2001] It begins to rain.
+[Tue Mar 27 00:47:29 2001] USER TEXT: is there a risk of loosing a corpse durring this outage?
+[Tue Mar 27 00:47:50 2001] Jalpan tells you, 'i know i been in 5 well 5 other guys '
+[Tue Mar 27 00:48:01 2001] You told Ennya, 'Hail, Ennya! Guide Espranza here. Your corpse will be safe during the outage, assuming it hasn't been left to rot for days.'
+[Tue Mar 27 00:48:20 2001] Jalpan tells you, '2 of them have title too '
+[Tue Mar 27 00:48:24 2001] You told Jalpan, 'cool!'
+[Tue Mar 27 00:48:29 2001] DELETING THIS PETITION
+[Tue Mar 27 00:48:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:48:31 2001] USER TEXT: twice now i've zoned into the Hole with levitate on and twice now i've died because it was gone as soon as i zoned.  I just want my corpse back, but this is BS.
+[Tue Mar 27 00:48:31 2001] Players in EverQuest:
+[Tue Mar 27 00:48:31 2001] ---------------------------
+[Tue Mar 27 00:48:31 2001] [16 Wizard] Hopondat (Gnome) ZONE: tox (USER 384881133:thedagit)
+[Tue Mar 27 00:48:31 2001] There is 1 player in EverQuest.
+[Tue Mar 27 00:48:38 2001] Jaxus GMSAYS, 'jr unava #1'
+[Tue Mar 27 00:48:48 2001] Jaxus GMSAYS, 'err 3'
+[Tue Mar 27 00:48:52 2001] Jalpan tells you, 'well thx any ways me going to log now time to play other guy'
+[Tue Mar 27 00:49:02 2001] You told Jalpan, 'Okay, be well!'
+[Tue Mar 27 00:49:09 2001] Jalpan tells you, 'ye too '
+[Tue Mar 27 00:49:24 2001] Ennya tells you, 'thank you. No it just happened. Wish I had known I would be jumped by a lvl30+ KOS as I zoned into the catacombs under qeynos though'
+[Tue Mar 27 00:49:52 2001] You told Hopondat, 'Hail, Hopondat! Guide Espranza here. The Hole has some special rules - among them, the one that levitate doesn't work.'
+[Tue Mar 27 00:50:08 2001] Hopondat tells you, 'so i'm just screwed?'
+[Tue Mar 27 00:50:36 2001] You GMSAY, 'what happens when a level 16 jumps into the Hole and loses his corpse?'
+[Tue Mar 27 00:50:56 2001] Jaxus GMSAYS, 'Nothing, he's out of luck.'
+[Tue Mar 27 00:50:59 2001] Hopondat tells you, 'how can i get my corpse back?'
+[Tue Mar 27 00:51:03 2001] You GMSAY, 'Ashlanne used to let us summon them up, but not sure how Lirus feels'
+[Tue Mar 27 00:51:06 2001] You GMSAY, 'okay'
+[Tue Mar 27 00:51:41 2001] Jaxus GMSAYS, 'I've been told we can't do anything a couple times. =/'
+[Tue Mar 27 00:52:02 2001] You told Hopondat, 'probably the easiest way is to zone into the Hole through the keyed entrance (the usual way) and have a high level necromancer summon your corpse from the depths.'
+[Tue Mar 27 00:52:17 2001] You GMSAY, 'no prob, I'll just advise them to find a necro'
+[Tue Mar 27 00:52:30 2001] You GMSAY, 'hope they can afford the 200pp fee for the coffine'
+[Tue Mar 27 00:52:43 2001] Hopondat tells you, 'so you refuse to help me?'
+[Tue Mar 27 00:52:55 2001] Jaxus GMSAYS, '147pp with a chanter hehe'
+[Tue Mar 27 00:53:31 2001] You told Hopondat, 'I just checked with the other guide online, and we're not allowed to help with corpse retrievals in general, even in the Hole.'
+[Tue Mar 27 00:53:31 2001] You cannot intimidate yourself!
+[Tue Mar 27 00:53:46 2001] Hopondat tells you, 'yeah ok...thanks'
+[Tue Mar 27 00:54:15 2001] You told Hopondat, 'Best wishes - your corpse is retrievable.'
+[Tue Mar 27 00:54:18 2001] DELETING THIS PETITION
+[Tue Mar 27 00:54:26 2001] You GMSAY, 'woohoo! no more pets!'
+[Tue Mar 27 00:54:31 2001] Hopondat tells you, 'yeah just not by me, so thanks for nothing'
+[Tue Mar 27 00:54:33 2001] Jaxus GMSAYS, 'yay! =)'
+[Tue Mar 27 00:54:40 2001] Jaxus GMSAYS, 'zoning'
+[Tue Mar 27 00:54:40 2001] You no longer have a target.
+[Tue Mar 27 00:55:07 2001] You're not scaring anyone.
+[Tue Mar 27 00:55:20 2001] Your target is too far away, get closer!
+[Tue Mar 27 00:55:31 2001] You're not scaring anyone.
+[Tue Mar 27 00:55:35 2001] Espranza saved.
+[Tue Mar 27 00:55:42 2001] You're not scaring anyone.
+[Tue Mar 27 00:55:52 2001] You're not scaring anyone.
+[Tue Mar 27 00:55:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 00:55:59 2001] USER TEXT: Help, I gave all the pieces of my epic to Arantir, but I didn't did get the pack back.
+[Tue Mar 27 00:55:59 2001] Players in EverQuest:
+[Tue Mar 27 00:55:59 2001] ---------------------------
+[Tue Mar 27 00:55:59 2001] [60 Sorcerer] Anglaranna (High Elf) <Relentless Ascension> ZONE: halas (USER 227181155:tuklas)
+[Tue Mar 27 00:55:59 2001] [1 Shaman] Banlail (Barbarian) ZONE: halas (USER 284280704:tuklas1)
+[Tue Mar 27 00:55:59 2001] There are 2 players in EverQuest.
+[Tue Mar 27 00:56:10 2001] You're not scaring anyone.
+[Tue Mar 27 00:56:33 2001] You told Anglaranna, 'Hail, Anglaranna! Guide Espranza here. Did you have a free spot in your main inventory?'
+[Tue Mar 27 00:56:41 2001] You're not scaring anyone.
+[Tue Mar 27 00:56:43 2001] Anglaranna tells you, 'No, I didn't'
+[Tue Mar 27 00:56:57 2001] You told Anglaranna, 'Was the pack to be returned a container?'
+[Tue Mar 27 00:57:04 2001] You're not scaring anyone.
+[Tue Mar 27 00:57:08 2001] Anglaranna tells you, 'I have no idea'
+[Tue Mar 27 00:57:14 2001] Anglaranna tells you, 'First time I'm doing this'
+[Tue Mar 27 00:57:15 2001] You're not scaring anyone.
+[Tue Mar 27 00:58:04 2001] Anglaranna tells you, 'I'm guessin it would be'
+[Tue Mar 27 00:58:31 2001] You told Anglaranna, 'You'll have to repetition when GM Lirus is online; I cannot return lost items. Please petition again tomorrow after 4pm Pacific time, and either Lirus or another GM will be able to review this.'
+[Tue Mar 27 00:58:54 2001] Anglaranna tells you, 'Okay, do I need to do anything?'
+[Tue Mar 27 00:58:56 2001] You GMSAY, 'someone lost their epic quest items when they didn't have a main inventory slot free and a container was to be returned.'
+[Tue Mar 27 00:59:18 2001] You told Anglaranna, 'Just petition again then, they'll be able to see the logs.'
+[Tue Mar 27 00:59:34 2001] Anglaranna tells you, 'Okay, thank you very much.  I'm kinda flustered right now. lol'
+[Tue Mar 27 00:59:38 2001] Jaxus GMSAYS, 'nothing can be done about that if something just falls to the ground'
+[Tue Mar 27 00:59:51 2001] You told Anglaranna, 'I don't blame you. Hope it all works out.'
+[Tue Mar 27 00:59:57 2001] Anglaranna tells you, 'Thanks'
+[Tue Mar 27 01:00:24 2001] You GMSAY, 'Nah, when quest givers return a container and you have no places free, it doesn't fall to the ground, it just poofs.'
+[Tue Mar 27 01:00:59 2001] You GMSAY, 'that's as designed, otherwise it would be a way to transfer no drop items.'
+[Tue Mar 27 01:01:08 2001] Jaxus GMSAYS, 'still we can't do anything since it's their fault'
+[Tue Mar 27 01:01:19 2001] You GMSAY, 'I told her to talk to Lirus.'
+[Tue Mar 27 01:01:34 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings All!! This is your friendly Patch reminder. All servers (including Test) will be coming down in ONE hour. Estimated down time in TEN hours. Thank you. = )
+[Tue Mar 27 01:01:34 2001] Your target is too far away, get closer!
+[Tue Mar 27 01:01:38 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings All!! This is your friendly Patch reminder. All servers (including Test) will be coming down in ONE hour. Estimated down time in TEN hours. Thank you. = )
+[Tue Mar 27 01:01:39 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings All!! This is your friendly Patch reminder. All servers (including Test) will be coming down in ONE hour. Estimated down time in TEN hours. Thank you. = )
+[Tue Mar 27 01:01:47 2001] You GMSAY, 'But I didn't say he would restore everything.'
+[Tue Mar 27 01:01:50 2001] DELETING THIS PETITION
+[Tue Mar 27 01:01:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 01:01:53 2001] USER TEXT: HElp after going LD I spawned somewhere I don't know I was already left behind by another group and couldn't get out I managed to run into another group down here so i'm safe but I need to get out but there to buzy
+[Tue Mar 27 01:01:53 2001] Players in EverQuest:
+[Tue Mar 27 01:01:53 2001] ---------------------------
+[Tue Mar 27 01:01:53 2001] [31 Paladin] Vurtrue (Half Elf) <Rise of the Phoenix> ZONE: soldungb (USER 454683889:goku_21)
+[Tue Mar 27 01:01:53 2001] There is 1 player in EverQuest.
+[Tue Mar 27 01:02:40 2001] Jaxus GMSAYS, 'well i wish him luck'
+[Tue Mar 27 01:02:41 2001] You GMSAY, 'what's so danged epic about foraging, anyway'
+[Tue Mar 27 01:02:46 2001] You GMSAY, 'yeah me too'
+[Tue Mar 27 01:04:35 2001] You told Vurtrue, 'Hail, Vurtrue! Guide Espranza here. I'm sorry, but I cannot guide you from Sol B. Perhaps the group you're with can give you directions, or you could leave when they do, since the servers will be coming down in an hour.'
+[Tue Mar 27 01:04:42 2001] Jaxus GMSAYS, 'I have a petition about lag death around 12:55. what do you think?'
+[Tue Mar 27 01:04:47 2001] DELETING THIS PETITION
+[Tue Mar 27 01:04:55 2001] You GMSAY, 'sounds good to me; where was it?'
+[Tue Mar 27 01:05:04 2001] It is 6 AM on Monday, the 2nd day of May, of the year 3204.
+[Tue Mar 27 01:05:04 2001] Earth Time: Tue Mar 27 01:05:04 2001
+[Tue Mar 27 01:05:08 2001] You GMSAY, 'oh wait'
+[Tue Mar 27 01:05:13 2001] You GMSAY, 'no, no - way too late'
+[Tue Mar 27 01:05:19 2001] You GMSAY, 'got the time mixed up'
+[Tue Mar 27 01:05:19 2001] Jaxus GMSAYS, 'dreadlands'
+[Tue Mar 27 01:05:36 2001] You GMSAY, 'the spike was closer to 11:30 - midnight, that time'
+[Tue Mar 27 01:05:44 2001] Espranza saved.
+[Tue Mar 27 01:05:49 2001] Jaxus GMSAYS, 'heh should make another persons hit list tonight then'
+[Tue Mar 27 01:05:53 2001] You GMSAY, 'and I just heard about it in Sol B'
+[Tue Mar 27 01:06:03 2001] You GMSAY, 'heh'
+[Tue Mar 27 01:06:09 2001] You GMSAY, 'they get over it'
+[Tue Mar 27 01:06:28 2001] You GMSAY, 'I like the ones that bitch at me about not being able to help and then immediately ask how to become a guide.'
+[Tue Mar 27 01:06:40 2001] You GMSAY, 'I get the real feeling they won't be very happy if they do )'
+[Tue Mar 27 01:06:51 2001] Jaxus GMSAYS, 'I've had a guy complaining about poor service since I couldn't res him or tp his cleric for about 40 min now'
+[Tue Mar 27 01:07:39 2001] You GMSAY, 'last night this one guy kept begging me to tell him where his corpse with and sent me constant updates on how he was doing, what was attacking him and such. It was all my fault.'
+[Tue Mar 27 01:07:57 2001] You GMSAY, 'After the 40th time you say PLEASE! YOU HAVE TO HELP ME! I go and do it.'
+[Tue Mar 27 01:08:08 2001] You GMSAY, 'Too bad he stopped at number 39.'
+[Tue Mar 27 01:08:20 2001] Jaxus GMSAYS, 'hehe =P'
+[Tue Mar 27 01:08:49 2001] Players in EverQuest:
+[Tue Mar 27 01:08:49 2001] ---------------------------
+[Tue Mar 27 01:08:49 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: fieldofbone (USER 279081691:guidemorell15)
+[Tue Mar 27 01:08:49 2001] There is 1 player in EverQuest.
+[Tue Mar 27 01:08:56 2001] You can't hit them from here.
+[Tue Mar 27 01:09:07 2001] You're not scaring anyone.
+[Tue Mar 27 01:09:18 2001] You're not scaring anyone.
+[Tue Mar 27 01:09:22 2001] You say to your guild, 'are my DSRs being posted to the guide board?'
+[Tue Mar 27 01:09:30 2001] You're not scaring anyone.
+[Tue Mar 27 01:09:42 2001] You're not scaring anyone.
+[Tue Mar 27 01:09:54 2001] You can't hit them from here.
+[Tue Mar 27 01:09:57 2001] Jaxus GMSAYS, 'If you post them then yes'
+[Tue Mar 27 01:10:05 2001] You're not scaring anyone.
+[Tue Mar 27 01:10:15 2001] You GMSAY, 'I don't have access yet, so I just send them to the seniors'
+[Tue Mar 27 01:10:22 2001] You're not scaring anyone.
+[Tue Mar 27 01:10:25 2001] You GMSAY, 'just wondering if they reposted them.'
+[Tue Mar 27 01:10:34 2001] You're not scaring anyone.
+[Tue Mar 27 01:10:46 2001] Jaxus GMSAYS, 'i'll check and let you know tomorrow if your on'
+[Tue Mar 27 01:10:51 2001] You GMSAY, 'okay thanks'
+[Tue Mar 27 01:11:05 2001] Jaxus GMSAYS, 'no problem =)'
+[Tue Mar 27 01:11:06 2001] You're not scaring anyone.
+[Tue Mar 27 01:11:17 2001] You're not scaring anyone.
+[Tue Mar 27 01:11:32 2001] You're not scaring anyone.
+[Tue Mar 27 01:11:44 2001] You're not scaring anyone.
+[Tue Mar 27 01:12:04 2001] You have become better at Intimidation! (106)
+[Tue Mar 27 01:12:04 2001] Asherah the Torch Bearer crushes YOU for 106 points of damage.
+[Tue Mar 27 01:12:04 2001] You are stunned!
+[Tue Mar 27 01:12:04 2001] Asherah the Torch Bearer bashes YOU for 36 points of damage.
+[Tue Mar 27 01:12:06 2001] Asherah the Torch Bearer crushes YOU for 40 points of damage.
+[Tue Mar 27 01:12:06 2001] You are unstunned.
+[Tue Mar 27 01:12:07 2001] You can't use that command right now...
+[Tue Mar 27 01:12:07 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:12:07 2001] You can't use that command right now...
+[Tue Mar 27 01:12:07 2001] You can't use that command right now...
+[Tue Mar 27 01:12:08 2001] You can't use that command right now...
+[Tue Mar 27 01:12:08 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:12:08 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:12:08 2001] You can't use that command right now...
+[Tue Mar 27 01:12:08 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:12:09 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:12:09 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:13:09 2001] You're not scaring anyone.
+[Tue Mar 27 01:13:21 2001] You're not scaring anyone.
+[Tue Mar 27 01:13:32 2001] You're not scaring anyone.
+[Tue Mar 27 01:13:45 2001] You're not scaring anyone.
+[Tue Mar 27 01:13:58 2001] Asherah the Torch Bearer was hit by non-melee for 3 points of damage.
+[Tue Mar 27 01:13:58 2001] You kick Asherah the Torch Bearer for 3 points of damage.
+[Tue Mar 27 01:13:58 2001] Asherah the Torch Bearer looks very afraid.
+[Tue Mar 27 01:13:58 2001] Your fear spell has worn off.
+[Tue Mar 27 01:13:58 2001] Asherah the Torch Bearer crushes YOU for 132 points of damage.
+[Tue Mar 27 01:13:58 2001] Asherah the Torch Bearer bashes YOU for 36 points of damage.
+[Tue Mar 27 01:13:59 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:14:00 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:14:00 2001] You can't use that command right now...
+[Tue Mar 27 01:14:00 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:14:14 2001] Asherah the Torch Bearer was hit by non-melee for 1 points of damage.
+[Tue Mar 27 01:14:14 2001] You have become better at Intimidation! (107)
+[Tue Mar 27 01:14:14 2001] You kick Asherah the Torch Bearer for 1 point of damage.
+[Tue Mar 27 01:14:14 2001] Your target resisted the Fear spell.
+[Tue Mar 27 01:14:14 2001] Asherah the Torch Bearer crushes YOU for 91 points of damage.
+[Tue Mar 27 01:14:14 2001] Asherah the Torch Bearer crushes YOU for 91 points of damage.
+[Tue Mar 27 01:14:16 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:14:16 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:14:17 2001] You can't use that command right now...
+[Tue Mar 27 01:14:17 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:14:17 2001] You can't use that command right now...
+[Tue Mar 27 01:14:17 2001] You can't use that command right now...
+[Tue Mar 27 01:14:17 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:14:18 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:14:18 2001] Asherah the Torch Bearer blinks a few times.
+[Tue Mar 27 01:14:46 2001] You feel the spirit of Norrath enter you.
+[Tue Mar 27 01:14:46 2001] Your feet leave the ground.
+[Tue Mar 27 01:14:58 2001] You're not scaring anyone.
+[Tue Mar 27 01:15:14 2001] Your target is too far away, get closer!
+[Tue Mar 27 01:15:25 2001] You're not scaring anyone.
+[Tue Mar 27 01:15:27 2001] Jaxus GMSAYS, 'zoning'
+[Tue Mar 27 01:15:47 2001] You're not scaring anyone.
+[Tue Mar 27 01:15:54 2001] Espranza saved.
+[Tue Mar 27 01:16:11 2001] You say to your guild, 'got epic bit number one'
+[Tue Mar 27 01:17:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 01:17:17 2001] USER TEXT: is server going down tommorw as well for the nine hours??
+[Tue Mar 27 01:17:17 2001] Players in EverQuest:
+[Tue Mar 27 01:17:17 2001] ---------------------------
+[Tue Mar 27 01:17:17 2001] [ANON (19 Enchanter)] Stormbow (Erudite) ZONE: lakeofillomen (USER 454680781:doomsdoor)
+[Tue Mar 27 01:17:17 2001] There is 1 player in EverQuest.
+[Tue Mar 27 01:17:19 2001] You're not scaring anyone.
+[Tue Mar 27 01:17:58 2001] You told Stormbow, 'Hail, Stormbow! Guide Espranza here. This is that same down-time, so it shouldn't go down twice...'
+[Tue Mar 27 01:18:01 2001] DELETING THIS PETITION
+[Tue Mar 27 01:18:13 2001] You can't hit them from here.
+[Tue Mar 27 01:18:18 2001] You feel the spirit of Norrath enter you.
+[Tue Mar 27 01:18:19 2001] Your feet leave the ground.
+[Tue Mar 27 01:18:22 2001] You can't use that command right now...
+[Tue Mar 27 01:18:22 2001] Your feet leave the ground.
+[Tue Mar 27 01:18:23 2001] You can't use that command right now...
+[Tue Mar 27 01:18:23 2001] Your feet leave the ground.
+[Tue Mar 27 01:18:23 2001] You can't use that command right now...
+[Tue Mar 27 01:18:23 2001] You can't use that command right now...
+[Tue Mar 27 01:18:23 2001] You can't use that command right now...
+[Tue Mar 27 01:18:23 2001] Your feet leave the ground.
+[Tue Mar 27 01:18:24 2001] Your feet leave the ground.
+[Tue Mar 27 01:18:24 2001] You can't use that command right now...
+[Tue Mar 27 01:18:24 2001] Your feet leave the ground.
+[Tue Mar 27 01:18:24 2001] Your feet leave the ground.
+[Tue Mar 27 01:18:24 2001] You can't use that command right now...
+[Tue Mar 27 01:18:25 2001] Your feet leave the ground.
+[Tue Mar 27 01:18:25 2001] You can't use that command right now...
+[Tue Mar 27 01:18:25 2001] You can't use that command right now...
+[Tue Mar 27 01:18:25 2001] Your feet leave the ground.
+[Tue Mar 27 01:18:26 2001] You feel the spirit of Norrath enter you.
+[Tue Mar 27 01:18:27 2001] Your feet leave the ground.
+[Tue Mar 27 01:18:50 2001] Stormbow tells you, 'thank you was hoping to get to 20 on day off which starts tue night at 1130 pm pacific thanks again'
+[Tue Mar 27 01:19:01 2001] You told Stormbow, 'welcome!'
+[Tue Mar 27 01:19:15 2001] You're not scaring anyone.
+[Tue Mar 27 01:19:25 2001] You're not scaring anyone.
+[Tue Mar 27 01:19:36 2001] You're not scaring anyone.
+[Tue Mar 27 01:19:47 2001] You're not scaring anyone.
+[Tue Mar 27 01:19:56 2001] You're not scaring anyone.
+[Tue Mar 27 01:20:07 2001] You can't hit them from here.
+[Tue Mar 27 01:22:02 2001] You're not scaring anyone.
+[Tue Mar 27 01:22:17 2001] You're not scaring anyone.
+[Tue Mar 27 01:22:28 2001] You're not scaring anyone.
+[Tue Mar 27 01:22:31 2001] You can't use that command right now...
+[Tue Mar 27 01:22:32 2001] You feel the spirit of Norrath enter you.
+[Tue Mar 27 01:22:41 2001] You're not scaring anyone.
+[Tue Mar 27 01:23:37 2001] You're not scaring anyone.
+[Tue Mar 27 01:23:47 2001] You're not scaring anyone.
+[Tue Mar 27 01:23:58 2001] You're not scaring anyone.
+[Tue Mar 27 01:24:11 2001] You're not scaring anyone.
+[Tue Mar 27 01:24:21 2001] You're not scaring anyone.
+[Tue Mar 27 01:24:34 2001] You're not scaring anyone.
+[Tue Mar 27 01:24:44 2001] You're not scaring anyone.
+[Tue Mar 27 01:24:49 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 01:24:49 2001] USER TEXT: Any idea when we will be able to loot critters that get sucked into the landscape? Or better have them Not do so?
+[Tue Mar 27 01:24:49 2001] Players in EverQuest:
+[Tue Mar 27 01:24:49 2001] ---------------------------
+[Tue Mar 27 01:24:49 2001] [20 Shaman] Mallus (Barbarian) <Guardians of Twighlight> ZONE: sro (USER 262580692:elfarch)
+[Tue Mar 27 01:24:49 2001] There is 1 player in EverQuest.
+[Tue Mar 27 01:25:02 2001] You're not scaring anyone.
+[Tue Mar 27 01:26:04 2001] Espranza saved.
+[Tue Mar 27 01:26:43 2001] You told Mallus, 'Hail, Mallus! Guide Espranza here. It would certainly be better if monsters stayed out of the landscape... However, if you click around, sometimes you can target the monster's corpse. If you type /loot (slash-loot), it'll let you loot.'
+[Tue Mar 27 01:26:47 2001] DELETING THIS PETITION
+[Tue Mar 27 01:26:58 2001] You're not scaring anyone.
+[Tue Mar 27 01:27:22 2001] You're not scaring anyone.
+[Tue Mar 27 01:28:13 2001] You're not scaring anyone.
+[Tue Mar 27 01:28:55 2001] Mallus tells you, 'pardon, was fighting. Didn't know about typing loot but the oracle would not register on my target slot anyway'
+[Tue Mar 27 01:29:47 2001] You told Mallus, 'oh, 'twas the oracle. are you still there and has it been less than five minutes?'
+[Tue Mar 27 01:29:56 2001] You told Mallus, 'I can't pull it but maybe I can target it.'
+[Tue Mar 27 01:30:13 2001] You're not scaring anyone.
+[Tue Mar 27 01:30:14 2001] You feel the spirit of Norrath enter you.
+[Tue Mar 27 01:30:15 2001] Your feet leave the ground.
+[Tue Mar 27 01:30:24 2001] Mallus tells you, 'just an orc oracle and it no longer has any wording sticking out'
+[Tue Mar 27 01:31:00 2001] You told Mallus, 'oh... thought you meant the oracle in the ocean of tears.'
+[Tue Mar 27 01:31:19 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings, servers will be coming down in 30 minutes for the Patch. Estimated down time in TEN hours. Please be aware of the time and camp accordingly.
+[Tue Mar 27 01:31:19 2001] You told Mallus, 'try clicking on the wording next time and see if you can target it.'
+[Tue Mar 27 01:31:32 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings, servers will be coming down in 30 minutes for the Patch. Estimated down time in TEN hours. Please be aware of the time and camp accordingly.
+[Tue Mar 27 01:31:33 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings, servers will be coming down in 30 minutes for the Patch. Estimated down time in TEN hours. Please be aware of the time and camp accordingly.
+[Tue Mar 27 01:31:37 2001] You feel the spirit of Norrath enter you.
+[Tue Mar 27 01:31:37 2001] Your feet leave the ground.
+[Tue Mar 27 01:31:45 2001] Players in EverQuest:
+[Tue Mar 27 01:31:45 2001] ---------------------------
+[Tue Mar 27 01:31:45 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: soldungb (USER 279081691:guidemorell15)
+[Tue Mar 27 01:31:45 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER 279081680:guidemorell4)
+[Tue Mar 27 01:31:45 2001] There are 2 players in EverQuest.
+[Tue Mar 27 01:31:45 2001] You're not scaring anyone.
+[Tue Mar 27 01:32:03 2001] Mallus tells you, 'ps., often go to help some1 or attack after some1 runs off and my target slot says such and such a woung lv, then when my attack hits they suddenly have full health'
+[Tue Mar 27 01:32:10 2001] You're not scaring anyone.
+[Tue Mar 27 01:32:24 2001] Mallus tells you, 'No , not up to that yet :) just in S ro'
+[Tue Mar 27 01:33:05 2001] You told Mallus, 'the server isn't sending you information about the monster's health until you get very close. Once you're fighting a creature, it sends you very frequent updates.'
+[Tue Mar 27 01:33:28 2001] You told Mallus, 'I always assume a creature which is not fighting something at the time is at full health, no matter how it appears.'
+[Tue Mar 27 01:34:19 2001] You're not scaring anyone.
+[Tue Mar 27 01:34:32 2001] You're not scaring anyone.
+[Tue Mar 27 01:35:43 2001] Players in EverQuest:
+[Tue Mar 27 01:35:43 2001] ---------------------------
+[Tue Mar 27 01:35:43 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: soldungb (USER 279081691:guidemorell15)
+[Tue Mar 27 01:35:43 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER 279081680:guidemorell4)
+[Tue Mar 27 01:35:43 2001] There are 2 players in EverQuest.
+[Tue Mar 27 01:35:50 2001] You're not scaring anyone.
+[Tue Mar 27 01:36:13 2001] Espranza saved.
+[Tue Mar 27 01:38:36 2001] You can't hit them from here.
+[Tue Mar 27 01:39:36 2001] You're not scaring anyone.
+[Tue Mar 27 01:39:42 2001] You can no longer levitate.
+[Tue Mar 27 01:40:28 2001] You're not scaring anyone.
+[Tue Mar 27 01:41:42 2001] You can't hit them from here.
+[Tue Mar 27 01:41:54 2001] You're not scaring anyone.
+[Tue Mar 27 01:42:09 2001] You're not scaring anyone.
+[Tue Mar 27 01:42:21 2001] You're not scaring anyone.
+[Tue Mar 27 01:42:31 2001] Jaxus GMSAYS, 'well so much for playing after my shift'
+[Tue Mar 27 01:42:34 2001] You're not scaring anyone.
+[Tue Mar 27 01:42:40 2001] You GMSAY, '('
+[Tue Mar 27 01:42:48 2001] You can't hit them from here.
+[Tue Mar 27 01:42:59 2001] You're not scaring anyone.
+[Tue Mar 27 01:43:03 2001] You GMSAY, 'you probably needed to sleep or something anyway'
+[Tue Mar 27 01:43:10 2001] You can't hit them from here.
+[Tue Mar 27 01:43:22 2001] You're not scaring anyone.
+[Tue Mar 27 01:43:29 2001] Jaxus GMSAYS, 'nah I woke up at 10pm expecting to play all night'
+[Tue Mar 27 01:43:36 2001] You're not scaring anyone.
+[Tue Mar 27 01:43:46 2001] You GMSAY, 'think they'll still take them down tomorrow night, too?'
+[Tue Mar 27 01:43:53 2001] You're not scaring anyone.
+[Tue Mar 27 01:43:57 2001] Jaxus GMSAYS, 'hope not'
+[Tue Mar 27 01:44:04 2001] You're not scaring anyone.
+[Tue Mar 27 01:44:15 2001] You're not scaring anyone.
+[Tue Mar 27 01:44:26 2001] You're not scaring anyone.
+[Tue Mar 27 01:46:14 2001] You're not scaring anyone.
+[Tue Mar 27 01:46:23 2001] Espranza saved.
+[Tue Mar 27 01:46:47 2001] You're not scaring anyone.
+[Tue Mar 27 01:47:51 2001] You're not scaring anyone.
+[Tue Mar 27 01:49:26 2001] You can't hit them from here.
+[Tue Mar 27 01:49:30 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings (and yes this will be the last time I will spam you tonight)! The servers will be coming down in less then 15 minutes. Please take this time to find a safe location and log out. Estimated down time is TEN hours. 
+[Tue Mar 27 01:49:33 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings (and yes this will be the last time I will spam you tonight)! The servers will be coming down in less then 15 minutes. Please take this time to find a safe location and log out. Estimated down time is TEN hours. 
+[Tue Mar 27 01:49:33 2001] <SYSTEMWIDE MESSAGE>: Delanus : Greetings (and yes this will be the last time I will spam you tonight)! The servers will be coming down in less then 15 minutes. Please take this time to find a safe location and log out. Estimated down time is TEN hours. 
+[Tue Mar 27 01:49:42 2001] You're not scaring anyone.
+[Tue Mar 27 01:49:55 2001] You're not scaring anyone.
+[Tue Mar 27 01:50:00 2001] You GMSAY, 'Zoning!'
+[Tue Mar 27 01:50:08 2001] You're not scaring anyone.
+[Tue Mar 27 01:50:14 2001] You GMSAY, 'wrong key'
+[Tue Mar 27 01:50:26 2001] Jaxus GMSAYS, '=)'
+[Tue Mar 27 01:50:28 2001] You're not scaring anyone.
+[Tue Mar 27 01:50:34 2001] Jaxus GMSAYS, 'zoning'
+[Tue Mar 27 01:50:38 2001] You're not scaring anyone.
+[Tue Mar 27 01:50:49 2001] You're not scaring anyone.
+[Tue Mar 27 01:50:59 2001] You're not scaring anyone.
+[Tue Mar 27 01:51:23 2001] You say, 'Hi!'
+[Tue Mar 27 01:51:28 2001] Jaxus says, 'Hi'
+[Tue Mar 27 01:51:29 2001] You peer at Jaxus, looking him up and down.
+[Tue Mar 27 01:51:30 2001] Jaxus cheers at Espranza.
+[Tue Mar 27 01:51:34 2001] Jaxus grabs hold of Espranza and begins to dance with her.
+[Tue Mar 27 01:51:41 2001] You're not scaring anyone.
+[Tue Mar 27 01:51:42 2001] Jaxus cringes away from Espranza.
+[Tue Mar 27 01:51:45 2001] You giggle at Jaxus.
+[Tue Mar 27 01:51:49 2001] Jaxus grins.
+[Tue Mar 27 01:51:52 2001] You're not scaring anyone.
+[Tue Mar 27 01:52:05 2001] Jaxus's image shimmers.
+[Tue Mar 27 01:52:06 2001] You say, 'These Ginsu knives slice, dice, can even cut through petitions!'
+[Tue Mar 27 01:52:10 2001] You boggle at Jaxus, shaking your head and looking confused.
+[Tue Mar 27 01:52:13 2001] You look at Jaxus, completely puzzled.
+[Tue Mar 27 01:52:17 2001] Jaxus says, 'Haha'
+[Tue Mar 27 01:53:09 2001] Jaxus feels a bit dispelled.
+[Tue Mar 27 01:53:13 2001] Jaxus floats above the ground.
+[Tue Mar 27 01:53:23 2001] Jaxus whistles at Espranza appreciatively.
+[Tue Mar 27 01:53:25 2001] You say, 'Nice to meet you'
+[Tue Mar 27 01:53:28 2001] You bow before Jaxus.
+[Tue Mar 27 01:53:33 2001] Jaxus says, 'Nice to meet you too'
+[Tue Mar 27 01:53:35 2001] Jaxus grins.
+[Tue Mar 27 01:53:43 2001] You say, 'I don't suppose you play on EMarr?'
+[Tue Mar 27 01:53:52 2001] Jaxus says, 'No. =('
+[Tue Mar 27 01:53:55 2001] Jaxus says, 'Nameless'
+[Tue Mar 27 01:54:00 2001] You shrug at Jaxus.
+[Tue Mar 27 01:54:08 2001] You say, 'so few people do it seems!'
+[Tue Mar 27 01:54:14 2001] Jaxus nods at Espranza.
+[Tue Mar 27 01:54:19 2001] You're not scaring anyone.
+[Tue Mar 27 01:54:29 2001] Jaxus says, 'how do you do that?'
+[Tue Mar 27 01:54:32 2001] Jaxus says, 'hehe'
+[Tue Mar 27 01:54:43 2001] You say, 'this?'
+[Tue Mar 27 01:54:47 2001] Jaxus says, 'yeah'
+[Tue Mar 27 01:54:56 2001] You say, 'instill doubt'
+[Tue Mar 27 01:55:15 2001] You say, 'a lot better than standing around looking blankly into space'
+[Tue Mar 27 01:55:17 2001] Jaxus says, 'hmm'
+[Tue Mar 27 01:55:25 2001] You're not scaring anyone.
+[Tue Mar 27 01:55:46 2001] You say, 'how long have you been guiding?'
+[Tue Mar 27 01:55:49 2001] You begin to hide...
+[Tue Mar 27 01:55:49 2001] You have hidden yourself from view.
+[Tue Mar 27 01:55:55 2001] You stop hiding.
+[Tue Mar 27 01:55:56 2001] Jaxus says, 'November of last year'
+[Tue Mar 27 01:55:58 2001] You begin to sneak...
+[Tue Mar 27 01:55:58 2001] You are as quiet as herd of running elephants.
+[Tue Mar 27 01:56:01 2001] You begin to hide...
+[Tue Mar 27 01:56:01 2001] You have hidden yourself from view.
+[Tue Mar 27 01:56:14 2001] You say, 'longer than me, then'
+[Tue Mar 27 01:56:23 2001] You say, 'I did it from March-August of last year'
+[Tue Mar 27 01:56:23 2001] Jaxus says, 'oh?'
+[Tue Mar 27 01:56:31 2001] You have become better at Intimidation! (108)
+[Tue Mar 27 01:56:31 2001] Players on EverQuest:
+[Tue Mar 27 01:56:31 2001] ---------------------------
+[Tue Mar 27 01:56:31 2001] * GM * [50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule>
+[Tue Mar 27 01:56:31 2001] There is 1 player in Sunset Home.
+[Tue Mar 27 01:56:32 2001] Espranza saved.
+[Tue Mar 27 01:56:35 2001] You say, 'OH'
+[Tue Mar 27 01:56:37 2001] Jaxus says, 'Haha cool'
+[Tue Mar 27 01:56:38 2001] You say, 'another rogue!!!'
+[Tue Mar 27 01:56:53 2001] Jaxus says, 'Aye =)'
+[Tue Mar 27 01:56:59 2001] Jaxus cheers at Espranza.
+[Tue Mar 27 01:56:59 2001] You stop hiding.
+[Tue Mar 27 01:57:02 2001] Jaxus grabs hold of Espranza and begins to dance with her.
+[Tue Mar 27 01:57:11 2001] You say, 'Sneak really comes in handy in investigations'
+[Tue Mar 27 01:57:18 2001] You say, 'they cannot hear me'
+[Tue Mar 27 01:57:23 2001] You begin to sneak...
+[Tue Mar 27 01:57:23 2001] You are as quiet as a cat stalking its prey.
+[Tue Mar 27 01:57:24 2001] You begin to hide...
+[Tue Mar 27 01:57:24 2001] You failed to hide yourself.
+[Tue Mar 27 01:57:25 2001] Jaxus says, 'oh?'
+[Tue Mar 27 01:57:35 2001] You say, 'no noise'
+[Tue Mar 27 01:57:36 2001] You stop hiding.
+[Tue Mar 27 01:57:37 2001] You begin to hide...
+[Tue Mar 27 01:57:37 2001] You have hidden yourself from view.
+[Tue Mar 27 01:57:49 2001] Jaxus says, 'I have music playing'
+[Tue Mar 27 01:57:56 2001] Jaxus says, 'hehe'
+[Tue Mar 27 01:58:04 2001] Jaxus shrugs at Espranza.
+[Tue Mar 27 01:58:05 2001] You say, 'I was a cleric first time around, when I remade my guide character I knew what I needed to be'
+[Tue Mar 27 01:58:09 2001] You stop sneaking.
+[Tue Mar 27 01:58:09 2001] You have moved and are no longer hidden!!
+[Tue Mar 27 01:58:29 2001] Jaxus says, 'Cool'
+[Tue Mar 27 01:58:51 2001] You feel the spirit of Norrath enter you.
+[Tue Mar 27 01:58:52 2001] Your feet leave the ground.
+[Tue Mar 27 01:59:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Mar 27 01:59:01 2001] USER TEXT: i need my body
+[Tue Mar 27 01:59:01 2001] Players in EverQuest:
+[Tue Mar 27 01:59:01 2001] ---------------------------
+[Tue Mar 27 01:59:01 2001] [7 Ranger] Azarian (Half Elf) <Keepers Of Karana> ZONE: qeynos2 (USER 479484007:tigzero)
+[Tue Mar 27 01:59:01 2001] There is 1 player in EverQuest.
+[Tue Mar 27 01:59:07 2001] You GMSAY, 'one last petition!'
+[Tue Mar 27 01:59:11 2001] Searching zones for corpse of that name....
+[Tue Mar 27 01:59:11 2001] Corpse: Azarian's corpse2 in zone: blackburrow
+[Tue Mar 27 01:59:16 2001] You GMSAY, 'zoning'
+[Tue Mar 27 01:59:16 2001] Jaxus says, 'gogogo!'
+[Tue Mar 27 01:59:21 2001] LOADING, PLEASE WAIT...
+[Tue Mar 27 01:59:43 2001] You have entered Blackburrow.
+[Tue Mar 27 01:59:59 2001] Teleporting to Azarian's corpse0.
+[Tue Mar 27 02:00:07 2001] Summoning Azarian's corpse0.
+[Tue Mar 27 02:00:15 2001] Teleporting to Azarian's corpse1.
+[Tue Mar 27 02:00:21 2001] Teleporting to Azarian's corpse2.
+[Tue Mar 27 02:00:35 2001] Summoning Azarian's corpse2.
+[Tue Mar 27 02:00:59 2001] Alicex begins to cast a spell. (Gate)
+[Tue Mar 27 02:01:20 2001] You told Azarian, 'Hail, Azarian! Guide Espranza here. Your first corpse was stuck in a wall, it has been pulled out. Your second corpse was in view. Your third corpse was partially embedded in a wall, and I pulled that one out, too.'
+[Tue Mar 27 02:01:28 2001] DELETING THIS PETITION
+[Tue Mar 27 02:01:45 2001] You GMSAY, 'three corpses in BB, and I must retrieve them all for him pretty durn quick!'
+[Tue Mar 27 02:02:03 2001] Jaxus GMSAYS, 'whos?'
+[Tue Mar 27 02:02:10 2001] You GMSAY, 'Azarian'
+[Tue Mar 27 02:02:19 2001] You GMSAY, 'I pulled them clear from the wall'
+[Tue Mar 27 02:02:22 2001] Jaxus GMSAYS, 'ah cool'
+[Tue Mar 27 02:02:24 2001] Azarian tells you, 'care to tell me where they are?'
+[Tue Mar 27 02:02:46 2001] You told Azarian, 'Do you remember where you were when you died?'
+[Tue Mar 27 02:02:55 2001] <SYSTEMWIDE MESSAGE>:SYSTEM MSG:World Coming Down, Everyone Logout now.
+[Tue Mar 27 02:02:55 2001] <SYSTEMWIDE MESSAGE>:SYSTEM MSG:World Coming Down, Everyone Logout now.
+[Tue Mar 27 02:03:01 2001] You GMSAY, 'zoning'
+[Tue Mar 27 02:03:04 2001] LOADING, PLEASE WAIT...
+[Tue Mar 27 02:03:22 2001] You have entered Sunset Home.
+[Tue Mar 27 02:03:25 2001] It begins to rain.
+[Tue Mar 27 02:03:34 2001] It will take you about 30 seconds to prepare your camp.
+[Tue Mar 27 02:03:34 2001] Jaxus GMSAYS, 'nice meeting you =)'
+[Tue Mar 27 02:03:37 2001] You GMSAY, 'goodnight!'
+[Tue Mar 27 02:03:38 2001] It will take about 25 more seconds to prepare your camp.
+[Tue Mar 27 02:03:42 2001] You GMSAY, 'nice meeting you as well!'
+[Tue Mar 27 02:03:43 2001] It will take about 20 more seconds to prepare your camp.
+[Tue Mar 27 02:03:48 2001] It will take about 15 more seconds to prepare your camp.
+[Tue Mar 27 02:03:50 2001] Players on EverQuest:
+[Tue Mar 27 02:03:50 2001] ---------------------------
+[Tue Mar 27 02:03:50 2001] * GM * [50 Rogue] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Mar 27 02:03:50 2001] There is 1 player in Sunset Home.
+[Tue Mar 27 02:03:53 2001] It will take about 10 more seconds to prepare your camp.
+[Tue Mar 27 02:03:57 2001] Players in EverQuest:
+[Tue Mar 27 02:03:57 2001] ---------------------------
+[Tue Mar 27 02:03:57 2001] * Guide *[50 Rogue]  (Dark Elf) <Keepers of Morell Thule> ZONE:  (USER 279081691:guidemorell15)
+[Tue Mar 27 02:03:57 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER 279081680:guidemorell4)
+[Tue Mar 27 02:03:57 2001] There are 2 players in EverQuest.
+[Tue Mar 27 02:03:58 2001] It will take about 5 more seconds to prepare your camp.

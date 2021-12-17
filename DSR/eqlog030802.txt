@@ -1,0 +1,1256 @@
+[Fri Mar 08 13:05:13 2002] Welcome to EverQuest!
+[Fri Mar 08 13:05:13 2002] You have entered Sunset Home.
+[Fri Mar 08 13:05:14 2002] You can no longer levitate.
+[Fri Mar 08 13:05:17 2002] It begins to rain.
+[Fri Mar 08 13:05:21 2002] Players in EverQuest:
+[Fri Mar 08 13:05:21 2002] ---------------------------
+[Fri Mar 08 13:05:21 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Fri Mar 08 13:05:21 2002] * Guide *[50 Warrior] Torgoth (Ogre) <Keepers of Dreams> ZONE: greatdivide (USER PID GT3SM9N)
+[Fri Mar 08 13:05:21 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: emeraldjungle (USER PID BUUWN74)
+[Fri Mar 08 13:05:21 2002] There are 3 players in EverQuest.
+[Fri Mar 08 13:05:25 2002] You GMSAY, 'hiya all'
+[Fri Mar 08 13:05:32 2002] Kilm GMSAYS, 'Hi yas Esp '
+[Fri Mar 08 13:05:41 2002] Torgoth GMSAYS, 'heya Espranza :)'
+[Fri Mar 08 13:05:43 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Mar 08 13:05:43 2002] USER TEXT: Its been over 13 hours and hollowshade has not been respawned.  Error reported last night, plus petitioned by a few.  Trying to do my quests... Any word on getting a respawn of the zone?
+[Fri Mar 08 13:05:44 2002] Players in EverQuest:
+[Fri Mar 08 13:05:44 2002] ---------------------------
+[Fri Mar 08 13:05:44 2002] [22 Beastlord] Virest (Vah Shir) <Hessians of Morell Thule> ZONE: hollowshade (USER PID FZXGRWD)
+[Fri Mar 08 13:05:44 2002] There is 1 player in EverQuest.
+[Fri Mar 08 13:05:44 2002] Kilm tells the guild, 'Esp... can I borrow your time in tells ?'
+[Fri Mar 08 13:05:58 2002] You told kilm, 'are you grouped?'
+[Fri Mar 08 13:06:03 2002] Kilm tells you, 'no '
+[Fri Mar 08 13:06:07 2002] You told Kilm, 'we'll group then'
+[Fri Mar 08 13:06:08 2002] Kilm tells you, 'have a issue here '
+[Fri Mar 08 13:06:19 2002] You told Kilm, 'what's up?'
+[Fri Mar 08 13:06:38 2002] UNDOING CHECK OUT
+[Fri Mar 08 13:06:43 2002] Players in EverQuest:
+[Fri Mar 08 13:06:43 2002] ---------------------------
+[Fri Mar 08 13:06:43 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: emeraldjungle (USER PID BUUWN74)
+[Fri Mar 08 13:06:43 2002] There is 1 player in EverQuest.
+[Fri Mar 08 13:06:46 2002] You GMSAY, 'zone'
+[Fri Mar 08 13:06:51 2002] Espranza is now Invisible.
+[Fri Mar 08 13:06:51 2002] You are now anonymous.
+[Fri Mar 08 13:06:54 2002] Kilm tells you, 'Have a pet I ressuected for a 10k fall.. I ress'ed her in with no mobs around.... she died to a wandering mob and is now upset I won't ressuect the second time '
+[Fri Mar 08 13:06:54 2002] You told Kilm, 'one moment'
+[Fri Mar 08 13:07:06 2002] Teleporting to kilm.
+[Fri Mar 08 13:07:07 2002] LOADING, PLEASE WAIT...
+[Fri Mar 08 13:07:49 2002] You have entered The Emerald Jungle.
+[Fri Mar 08 13:07:55 2002] You invite Kilm to join your group.
+[Fri Mar 08 13:08:08 2002] Kilm tells you, 'hehe can't join '
+[Fri Mar 08 13:08:12 2002] Espranza is now Visible.
+[Fri Mar 08 13:08:14 2002] You cannot invite yourself.
+[Fri Mar 08 13:08:15 2002] Kilm tells you, 'says your not in zone or link dead'
+[Fri Mar 08 13:08:17 2002] You invite Kilm to join your group.
+[Fri Mar 08 13:08:18 2002] Ehlara says out of character, 'hmmpphhhh'
+[Fri Mar 08 13:08:23 2002] You have formed the group.
+[Fri Mar 08 13:08:25 2002] You are no longer anonymous.
+[Fri Mar 08 13:08:27 2002] Kilm tells the group, 'ok'
+[Fri Mar 08 13:08:34 2002] You tell your party, 'just didn't want to zone into a situation'
+[Fri Mar 08 13:08:37 2002] Kilm tells the group, 'Ehlara is upset I won't res her the second time '
+[Fri Mar 08 13:08:55 2002] Kilm tells the group, 'res'd first time for 10k fall..verified in chat '
+[Fri Mar 08 13:08:56 2002] You tell your party, 'where did you rez her?'
+[Fri Mar 08 13:08:59 2002] You no longer have a target.
+[Fri Mar 08 13:09:06 2002] Kilm tells the group, 'at the point her corpse was at '
+[Fri Mar 08 13:09:28 2002] Kilm tells the group, 'no mobs in area when I ress'ed'
+[Fri Mar 08 13:09:40 2002] Kilm tells the group, 'wanderin Leech got her though.. '
+[Fri Mar 08 13:09:50 2002] Kilm tells the group, 'upset I won't ressuect for second death '
+[Fri Mar 08 13:09:56 2002] You tell your party, 'dying to a mob is not something we rez for. unless the mob is verifiably bugged, like under the world and we can prove they died to that.'
+[Fri Mar 08 13:10:06 2002] You tell your party, 'would you like me to talk to her?'
+[Fri Mar 08 13:10:32 2002] Kilm tells the group, 'yep.. I told her to contact eqcs or Seniors or Gm if thinks I am wrong or mis treating the problem '
+[Fri Mar 08 13:10:37 2002] Kilm tells the group, 'please'
+[Fri Mar 08 13:10:43 2002] You tell your party, 'petition still up?'
+[Fri Mar 08 13:10:47 2002] Kilm tells the group, 'nope '
+[Fri Mar 08 13:10:54 2002] You tell your party, 'who is it?'
+[Fri Mar 08 13:10:57 2002] Maia GMSAYS, 'Hello all'
+[Fri Mar 08 13:10:58 2002] You tell your party, 'oh ehlara'
+[Fri Mar 08 13:10:59 2002] Kilm tells the group, '/g ehlara '
+[Fri Mar 08 13:11:04 2002] You GMSAY, 'hiya Mia!'
+[Fri Mar 08 13:11:07 2002] You GMSAY, 'er, Maia!'
+[Fri Mar 08 13:11:10 2002] Kilm GMSAYS, 'Hi yas Maia '
+[Fri Mar 08 13:11:15 2002] You GMSAY, '(has cat sitting on her arms)'
+[Fri Mar 08 13:11:22 2002] Players in EverQuest:
+[Fri Mar 08 13:11:22 2002] ---------------------------
+[Fri Mar 08 13:11:22 2002] [ANON (53 Vicar)] Ehlara (Gnome) ZONE: emeraldjungle (USER PID HZGZD1L)
+[Fri Mar 08 13:11:22 2002] There is 1 player in EverQuest.
+[Fri Mar 08 13:11:32 2002] Teleporting to ehlara.
+[Fri Mar 08 13:11:50 2002] You tell your party, 'now a plaguebone is after her'
+[Fri Mar 08 13:11:51 2002] Kilm tells the group, 'she also states that other guides move her corpse when she dies to 10k falls to her group or safe point '
+[Fri Mar 08 13:12:08 2002] You tell your party, 'well, let's look at the P&P... sec'
+[Fri Mar 08 13:12:20 2002] Maia tells you, 'I have a problem :('
+[Fri Mar 08 13:12:28 2002] You told Maia, 'what sort?'
+[Fri Mar 08 13:12:35 2002] Torgoth GMSAYS, 'any reports about hollowshade being bugged, not respawning?'
+[Fri Mar 08 13:12:36 2002] Maia tells you, 'a DSR problem'
+[Fri Mar 08 13:12:42 2002] You told Maia, 'how can I help?'
+[Fri Mar 08 13:12:50 2002] You GMSAY, 'heard a lot about that'
+[Fri Mar 08 13:12:53 2002] Maia tells you, 'Advise  lol'
+[Fri Mar 08 13:12:59 2002] You GMSAY, 'Hollowshade DOES seem a little barren'
+[Fri Mar 08 13:13:15 2002] Thirg says out of character, 'k gm's gimme a clue on Ehlara's corpse 8P'
+[Fri Mar 08 13:13:20 2002] Kilm tells the group, 'hmm bullet three... guess I should have summoned to safe area '
+[Fri Mar 08 13:13:21 2002] Thirg says out of character, 'the loc that is 8)'
+[Fri Mar 08 13:13:30 2002] Maia tells you, 'I appied last night until I had to be at work   Was gonna do the DSR as soon as I got in'
+[Fri Mar 08 13:13:48 2002] You tell your party, 'which page? I can never find things.'
+[Fri Mar 08 13:14:01 2002] Maia tells you, 'The roomie took the laptop to his sister's for the night  and my logs are on it.   I will have to turn my DSR in late :('
+[Fri Mar 08 13:14:05 2002] Kilm tells the group, '44.'
+[Fri Mar 08 13:14:16 2002] Kilm tells the group, '7.3.2.3'
+[Fri Mar 08 13:14:34 2002] You told Maia, 'okay, but you missed having your hours counted ('
+[Fri Mar 08 13:14:35 2002] Maia tells you, 'like tomorrow :('
+[Fri Mar 08 13:14:48 2002] Torgoth GMSAYS, 'would lirus be able to repop the zone when he gets on if its bugged?'
+[Fri Mar 08 13:14:55 2002] You tell your party, 'there ya go.'
+[Fri Mar 08 13:14:58 2002] Maia tells you, 'what do you mean?'
+[Fri Mar 08 13:15:04 2002] Kilm tells the group, 'guess me be in the wrong '
+[Fri Mar 08 13:15:09 2002] You tell your party, 'pull her corpses to the safe point of the zone, like the TT zone, and rez them both.'
+[Fri Mar 08 13:15:28 2002] Kilm tells the group, 'okies, sorry about that '
+[Fri Mar 08 13:15:30 2002] You GMSAY, 'yes'
+[Fri Mar 08 13:15:33 2002] You tell your party, 'no worries'
+[Fri Mar 08 13:15:34 2002] Ehlara says out of character, 'any luck finding my flying corpse my dear wizziiee?'
+[Fri Mar 08 13:15:36 2002] Torgoth GMSAYS, 'Okies'
+[Fri Mar 08 13:15:52 2002] Thirg says out of character, 'not yet sorry'
+[Fri Mar 08 13:15:54 2002] You told Maia, 'your hours are counted and sent along to the SMT so we can see how many hours you've worked'
+[Fri Mar 08 13:16:25 2002] Maia tells you, 'oh I see  and they already counted  so I miss that shift altogether huh?'
+[Fri Mar 08 13:16:36 2002] You told Maia, 'they are counted Friday mornings.'
+[Fri Mar 08 13:16:45 2002] Ehlara says out of character, 'come be safe my wizzieee'
+[Fri Mar 08 13:16:48 2002] You say to your guild, 'who has Maia?'
+[Fri Mar 08 13:16:52 2002] Maia tells you, 'ah ok'
+[Fri Mar 08 13:17:00 2002] Kilm GMSAYS, 'zone '
+[Fri Mar 08 13:17:04 2002] Ehlara says out of character, 'i finally get an apology and a res'
+[Fri Mar 08 13:17:13 2002] Thirg says out of character, 'woot 8)'
+[Fri Mar 08 13:17:16 2002] Maia tells you, 'no problem   I just didnt want to cause a problem for anyone else  not being able to post until tomorrow'
+[Fri Mar 08 13:17:42 2002] Maia tells you, 'nothing outstanding on the shift '
+[Fri Mar 08 13:17:46 2002] You told Maia, 'no worries. please post it as soon as you can... do try to leave time to file your DSR after each shift, though.'
+[Fri Mar 08 13:17:49 2002] Players in EverQuest:
+[Fri Mar 08 13:17:49 2002] ---------------------------
+[Fri Mar 08 13:17:49 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: trakanon (USER PID BUUWN74)
+[Fri Mar 08 13:17:49 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: emeraldjungle (USER PID B4KJ6E7)
+[Fri Mar 08 13:17:49 2002] * Apprentice Guide *[ANON (20 Bard)] Maia (Half Elf) ZONE: oot (USER PID ATTU7ER)
+[Fri Mar 08 13:17:49 2002] * Guide *[50 Warrior] Torgoth (Ogre) <Keepers of Dreams> ZONE: greatdivide (USER PID GT3SM9N)
+[Fri Mar 08 13:17:49 2002] There are 4 players in EverQuest.
+[Fri Mar 08 13:18:08 2002] You told Maia, 'say zone'
+[Fri Mar 08 13:18:08 2002] Maia tells you, 'Noted!   I won't make that mistake again :)'
+[Fri Mar 08 13:18:14 2002] Maia GMSAYS, 'zone'
+[Fri Mar 08 13:18:17 2002] Summoning maia.
+[Fri Mar 08 13:18:32 2002] Espranza saved.
+[Fri Mar 08 13:19:31 2002] You invite Maia to join your group.
+[Fri Mar 08 13:19:50 2002] Maia has joined the group.
+[Fri Mar 08 13:19:58 2002] You tell your party, 'you can take anon off :)'
+[Fri Mar 08 13:20:00 2002] You tell your party, 'hi maia!'
+[Fri Mar 08 13:20:04 2002] Maia tells the group, 'Hiya'
+[Fri Mar 08 13:20:08 2002] You no longer have a target.
+[Fri Mar 08 13:20:08 2002] Maia tells the group, 'I just did :)'
+[Fri Mar 08 13:20:18 2002] Maia kneels before Espranza in humility and reverence.
+[Fri Mar 08 13:20:23 2002] You boggle at Maia, shaking your head and looking confused.
+[Fri Mar 08 13:20:27 2002] You giggle at Maia.
+[Fri Mar 08 13:20:32 2002] You bow before Maia.
+[Fri Mar 08 13:20:57 2002] Maia tells the group, 'one sec'
+[Fri Mar 08 13:20:59 2002] You tell your party, 'ok'
+[Fri Mar 08 13:21:38 2002] You tell your party, 'doesn't match'
+[Fri Mar 08 13:22:05 2002] You tell your party, 'How have you been?'
+[Fri Mar 08 13:22:21 2002] Players in EverQuest:
+[Fri Mar 08 13:22:21 2002] ---------------------------
+[Fri Mar 08 13:22:21 2002] * Apprentice Guide *[20 Bard] Maia (Half Elf) ZONE: emeraldjungle (USER PID ATTU7ER)
+[Fri Mar 08 13:22:21 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: emeraldjungle (USER PID BUUWN74)
+[Fri Mar 08 13:22:21 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: emeraldjungle (USER PID B4KJ6E7)
+[Fri Mar 08 13:22:21 2002] * Guide *[50 Warrior] Torgoth (Ogre) <Keepers of Dreams> ZONE: greatdivide (USER PID GT3SM9N)
+[Fri Mar 08 13:22:21 2002] There are 4 players in EverQuest.
+[Fri Mar 08 13:22:33 2002] Maia tells the group, 'great and you?'
+[Fri Mar 08 13:22:50 2002] You tell your party, 'pretty good...'
+[Fri Mar 08 13:23:03 2002] You tell your party, 'this is a fun zone. I love just walking around.'
+[Fri Mar 08 13:23:16 2002] Maia tells the group, 'cool'
+[Fri Mar 08 13:23:18 2002] You tell your party, 'in Game history, this was all once a huge city, with parks, avenues and trees'
+[Fri Mar 08 13:23:20 2002] Kilm GMSAYS, 'zone'
+[Fri Mar 08 13:23:21 2002] Maia tells the group, 'sorry about that   telephone'
+[Fri Mar 08 13:23:25 2002] You tell your party, 'no worries'
+[Fri Mar 08 13:23:40 2002] Maia tells the group, 'ok   gonna pull some pets then :)'
+[Fri Mar 08 13:23:45 2002] You tell your party, 'okay )'
+[Fri Mar 08 13:23:48 2002] Maia GMSAYS, 'Pulling Csin'
+[Fri Mar 08 13:23:54 2002] You tell your party, 'I'm going to pop over to Cazic Thule and check it out'
+[Fri Mar 08 13:23:55 2002] Kilm tells the group, 'thank you for clarity Esp too btw :) '
+[Fri Mar 08 13:24:05 2002] Maia tells the group, 'ah ok'
+[Fri Mar 08 13:24:06 2002] You tell your party, 'anytime Kilm!'
+[Fri Mar 08 13:24:16 2002] Maia tells the group, 'I will give a shout if I need help :)'
+[Fri Mar 08 13:24:19 2002] You tell your party, 'if you need anything, Maya, don't hesitate to call'
+[Fri Mar 08 13:24:23 2002] You wave goodbye to Maia.
+[Fri Mar 08 13:24:24 2002] Maia tells the group, 'will do'
+[Fri Mar 08 13:24:25 2002] You GMSAY, 'zone'
+[Fri Mar 08 13:24:29 2002] LOADING, PLEASE WAIT...
+[Fri Mar 08 13:25:04 2002] You have entered Accursed Temple of CazicThule.
+[Fri Mar 08 13:25:05 2002] You have formed the group.
+[Fri Mar 08 13:25:08 2002] Players on EverQuest:
+[Fri Mar 08 13:25:08 2002] ---------------------------
+[Fri Mar 08 13:25:08 2002] [60 Assassin] Domn (Wood Elf) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [56 Revenant] Seriban (Iksar) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [56 Evoker] Elminsteer (Human)
+[Fri Mar 08 13:25:08 2002] [60 Arch Mage] Sasarella (High Elf) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [60 Warlord] Fener (Barbarian) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [57 Conjurer] Athaliah (Dark Elf) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [55 Preserver] Prindan (Wood Elf) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [56 Templar] Darimund (High Elf) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [55 Preserver] Dymlos (Unknown) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [56 Master] Charmlee (Iksar) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [60 Arch Mage] Neehigh (Gnome) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [56 Templar] Kreagon (Dwarf) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [60 Grave Lord] Torahdane (Unknown) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [ANONYMOUS] Arkturus  <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [60 Virtuoso] Lexicus (Half Elf) <Hall of Heroes>
+[Fri Mar 08 13:25:08 2002] [60 Grave Lord] Cannabulon (Ogre) <Fury's Edge>
+[Fri Mar 08 13:25:08 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Fri Mar 08 13:25:08 2002] There are 17 players in Cazic-Thule.
+[Fri Mar 08 13:25:09 2002]  (Song of Twilight)
+[Fri Mar 08 13:25:16 2002]  (Song of Twilight)
+[Fri Mar 08 13:25:16 2002] a Tae Ew warder scowls at you, ready to attack -- looks like quite a gamble.
+[Fri Mar 08 13:25:24 2002] A Tae Ew proselyte stumbles toward you.
+[Fri Mar 08 13:25:26 2002] Lexicus's song ends.
+[Fri Mar 08 13:25:28 2002]  (Song of Twilight)
+[Fri Mar 08 13:25:32 2002] Fener says out of character, 'watch me health'
+[Fri Mar 08 13:25:33 2002] a jungle raptor roars and snaps its head to face you! '
+[Fri Mar 08 13:25:35 2002] Lexicus's song ends.
+[Fri Mar 08 13:25:36 2002]  (Song of Twilight)
+[Fri Mar 08 13:25:40 2002] Fener says out of character, 'ASSIST ME ON   (   a Tae Ew proselyte   )'
+[Fri Mar 08 13:25:44 2002]  (Song of Twilight)
+[Fri Mar 08 13:25:48 2002]  (Chorus of Replenishment)
+[Fri Mar 08 13:25:51 2002] a Tae Ew proselyte begins to cast a spell. (Retribution)
+[Fri Mar 08 13:26:05 2002] Lexicus says out of character, 'Mezin' ( a jungle raptor )'
+[Fri Mar 08 13:26:10 2002] You tell your party, 'wow... these lizzies are casting very high level spells'
+[Fri Mar 08 13:26:17 2002] a Thul Tae Ew Warder begins to cast a spell. (Banshee Aura)
+[Fri Mar 08 13:26:22 2002] A Thul Tae Ew Warder is surrounded by a shrieking aura.
+[Fri Mar 08 13:26:26 2002] You tell your party, 'oh nice'
+[Fri Mar 08 13:26:29 2002] You tell your party, 'I must come here'
+[Fri Mar 08 13:26:29 2002] Kilm GMSAYS, 'lol I hear that zone is ultra deadly with pathing '
+[Fri Mar 08 13:26:35 2002] Torgoth GMSAYS, 'Hope they made this zone big enough for me, zoning!'
+[Fri Mar 08 13:26:46 2002] Rhysel shouts, 'Great Ones, this 53 rogue seeks a group '
+[Fri Mar 08 13:26:48 2002] You tell your party, 'pathing has always been terrible'
+[Fri Mar 08 13:26:52 2002] Sasarella shouts, 'RHYSEL!'
+[Fri Mar 08 13:27:00 2002] Domn shouts, 'great ones ? you must be in the wrong zone !'
+[Fri Mar 08 13:27:03 2002] Sasarella says out of character, 'How are you doll!!!'
+[Fri Mar 08 13:27:09 2002] Kilm GMSAYS, 'jikopia unavail x1'
+[Fri Mar 08 13:27:10 2002] Maia tells the group, 'any complaints about the PEnance bag quest in cab?'
+[Fri Mar 08 13:27:10 2002] Your feet leave the ground.
+[Fri Mar 08 13:27:19 2002] You tell your party, 'I don't know that quest'
+[Fri Mar 08 13:27:21 2002] Rhysel shouts, 'greetings great lady Sasarella I hope your day goes well , beutifull here today is it not ,,'
+[Fri Mar 08 13:27:31 2002] Fener says out of character, 'ASSIST ME ON   (   a jungle raptor   )'
+[Fri Mar 08 13:27:52 2002] Maia tells the group, 'player is SURE he handed the proper componenets to the proper NPC he got NO response not even a wrong one'
+[Fri Mar 08 13:28:01 2002] You tell your party, 'perhaps a faction problem?'
+[Fri Mar 08 13:28:29 2002] Showing only first names.
+[Fri Mar 08 13:28:32 2002] a Thul Tae Ew Warder begins to cast a spell. (Banshee Aura)
+[Fri Mar 08 13:28:35 2002] Maia tells the group, 'ally'
+[Fri Mar 08 13:28:41 2002] Fener says out of character, 'ASSIST ME ON   (   a Tae Ew lifedrinker   )'
+[Fri Mar 08 13:28:44 2002] a Thul Tae Ew zealot begins to cast a spell. (Celerity)
+[Fri Mar 08 13:28:52 2002] Maia tells the group, 'its his guild'
+[Fri Mar 08 13:29:05 2002] You tell your party, 'it sounds then like he handed the wrong components to the right PC or he handed them to the wrong NPC. '
+[Fri Mar 08 13:29:41 2002] Lexicus says out of character, 'Mezin' ( a Tae Ew warrior )'
+[Fri Mar 08 13:29:45 2002] Maia tells the group, 'yeah  but don't they usually say SOMETHING??  like thanks for the gift or ummm not sure what to do with this???'
+[Fri Mar 08 13:29:50 2002] Neehigh says out of character, '20m'
+[Fri Mar 08 13:29:50 2002] You tell your party, 'not always'
+[Fri Mar 08 13:30:03 2002] You tell your party, 'merchants usually do'
+[Fri Mar 08 13:30:17 2002] Maia tells the group, 'ah I see'
+[Fri Mar 08 13:30:28 2002] You tell your party, 'just get all the info - the items, the NPC, the expected reward - and add that to your DSR and post in the GM Issues section.'
+[Fri Mar 08 13:30:29 2002] Kilm tells the group, 'Espranza ? was that report sent to you ok this morning ?'
+[Fri Mar 08 13:30:30 2002] You feel the spirit of Norrath enter you.
+[Fri Mar 08 13:30:37 2002] You tell your party, 'It was wonderful, Kilm'
+[Fri Mar 08 13:30:49 2002] Kilm tells the group, 'cool.. wasn't sure if I did it right lol '
+[Fri Mar 08 13:30:51 2002] Domn tells you, 'hello again )'
+[Fri Mar 08 13:30:59 2002] You told Domn, 'hello!'
+[Fri Mar 08 13:31:11 2002] Lexicus says out of character, 'Mezin' ( a tiger raptor )'
+[Fri Mar 08 13:31:20 2002] You tell your party, 'the cazic cenobite has been replaced with a feigned cleric mob...'
+[Fri Mar 08 13:31:33 2002] Players in EverQuest:
+[Fri Mar 08 13:31:33 2002] ---------------------------
+[Fri Mar 08 13:31:33 2002] [60 Assassin] Domn (Wood Elf) <Hall of Heroes> ZONE: cazicthule (USER PID CM8U78Q)
+[Fri Mar 08 13:31:33 2002] There is 1 player in EverQuest.
+[Fri Mar 08 13:31:43 2002] Kilm tells the group, 'nice'
+[Fri Mar 08 13:31:53 2002] You tell your party, 'I HAVE to come down here with my guild )'
+[Fri Mar 08 13:31:57 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Mar 08 13:31:58 2002] USER TEXT: were do i go to fix problems with windows xp?
+[Fri Mar 08 13:31:58 2002] Players in EverQuest:
+[Fri Mar 08 13:31:58 2002] ---------------------------
+[Fri Mar 08 13:31:58 2002] [31 Cleric] Jikopia (Dwarf) <Hunters of the Undead> ZONE: paw (USER PID GXDYUUD)
+[Fri Mar 08 13:31:58 2002] There is 1 player in EverQuest.
+[Fri Mar 08 13:32:22 2002] You told Jikopia, 'Hail, Jikopia! Senior Guide Espranza here. How may I help you?'
+[Fri Mar 08 13:32:34 2002] Espranza is now Invisible.
+[Fri Mar 08 13:32:34 2002] You are now anonymous.
+[Fri Mar 08 13:32:37 2002] Teleporting to domn.
+[Fri Mar 08 13:32:52 2002] a Tae Ew fanatic begins to cast a spell. (Inner Fire)
+[Fri Mar 08 13:32:55 2002] Jikopia tells you, 'i was just wondering how i can get my windows curson or my screen i cant get into chat says its congested or i would have went there'
+[Fri Mar 08 13:33:15 2002] Jikopia tells you, 'off not or'
+[Fri Mar 08 13:33:16 2002] You told Jikopia, 'you mean, a cursor besides the normal arrow?'
+[Fri Mar 08 13:33:28 2002] Players on EverQuest:
+[Fri Mar 08 13:33:28 2002] ---------------------------
+[Fri Mar 08 13:33:28 2002] [60 Assassin] Domn (Wood Elf) <Hall of Heroes>
+[Fri Mar 08 13:33:28 2002] [54 Rake] Reishi (Dark Elf) <Hall of Heroes>
+[Fri Mar 08 13:33:28 2002] [53 Rake] Rhysel (Half Elf) <Moonwolf Clan>
+[Fri Mar 08 13:33:28 2002] [60 Grave Lord] Cannabulon (Ogre) <Fury's Edge>
+[Fri Mar 08 13:33:28 2002] There are 4 players in Cazic-Thule.
+[Fri Mar 08 13:33:32 2002] Teleporting to domn.
+[Fri Mar 08 13:33:37 2002] Domn says, 'pretty sword'
+[Fri Mar 08 13:33:38 2002] Jikopia tells you, 'ya a big one from windows right in the meddle'
+[Fri Mar 08 13:33:41 2002] Espranza is now Visible.
+[Fri Mar 08 13:33:43 2002] You are no longer anonymous.
+[Fri Mar 08 13:33:49 2002] You wave at Domn.
+[Fri Mar 08 13:34:10 2002] You told Jikopia, 'try restarting the game - I get that sometimes, usually restarting or zoning helps.'
+[Fri Mar 08 13:34:11 2002] a Tae Ew proselyte begins to cast a spell. (Alacrity)
+[Fri Mar 08 13:34:15 2002] a Tae Ew proselyte begins to cast a spell. (Alacrity)
+[Fri Mar 08 13:34:19 2002] Showing everything.
+[Fri Mar 08 13:34:26 2002] Cannabulon giggles at Espranza.
+[Fri Mar 08 13:34:27 2002] Maia GMSAYS, 'Csin received wrong response in quest  Advised to double check all quest components and steps.  Pet deleted'
+[Fri Mar 08 13:34:27 2002] Jikopia tells you, 'i restarted but it didnt help ill try zoning after this fight'
+[Fri Mar 08 13:34:39 2002] Jikopia tells you, 'thank you'
+[Fri Mar 08 13:34:55 2002] You told Jikopia, 'hope it works!'
+[Fri Mar 08 13:34:58 2002] DELETING THIS PETITION
+[Fri Mar 08 13:34:59 2002] a Tae Ew bloodcaller begins to cast a spell. (Grim Aura)
+[Fri Mar 08 13:35:07 2002] a Tae Ew lifedrinker begins to cast a spell. (Grim Aura)
+[Fri Mar 08 13:35:21 2002] Maia GMSAYS, 'pulling Levlin'
+[Fri Mar 08 13:35:39 2002] a Tae Ew bloodcaller begins to cast a spell. (Banshee Aura)
+[Fri Mar 08 13:35:43 2002] a Tae Ew zealot begins to cast a spell. (Alacrity)
+[Fri Mar 08 13:35:47 2002] A Tae Ew bloodcaller feels much faster.
+[Fri Mar 08 13:35:55 2002] a Tae Ew lifestealer begins to cast a spell. (Grim Aura)
+[Fri Mar 08 13:35:55 2002] a Tae Ew spiritcaller begins to cast a spell. (Grim Aura)
+[Fri Mar 08 13:36:03 2002] a Tae Ew bloodcaller begins to cast a spell. (Grim Aura)
+[Fri Mar 08 13:36:25 2002] You tell your party, 'more mobs than before, of higher level'
+[Fri Mar 08 13:36:27 2002] a Tae Ew spiritcaller begins to cast a spell. (Banshee Aura)
+[Fri Mar 08 13:36:31 2002] a shiverback scowls at you, ready to attack -- looks like quite a gamble.
+[Fri Mar 08 13:36:32 2002] A Tae Ew spiritcaller is surrounded by a shrieking aura.
+[Fri Mar 08 13:36:40 2002] You tell your party, 'should be the temple of CR, not CT...'
+[Fri Mar 08 13:37:03 2002] a Tae Ew proselyte begins to cast a spell. (Alacrity)
+[Fri Mar 08 13:37:21 2002] You say, 'Hail, Gimlik Cogboggle'
+[Fri Mar 08 13:37:21 2002] Gimlik Cogboggle says 'Well met, noble soul!  I'm Gimlik Cogboggle. You are correct, the Gimlik Cogboggle, renowned adventurer, scholar, and yes... creator of spells.  Please don't goggle or touch.  Your opportunity has arrived, my friend.  I was sent here to complete a very important task and for that, I will need some slight assistance.  If you will be kind enough to follow me, I'll show you to your doom... err... get this show on the road.  Just let me know when you're ready. '
+[Fri Mar 08 13:37:26 2002] Maia tells the group, 'what is a 1018 error?'
+[Fri Mar 08 13:37:33 2002] You tell your party, 'active character in game'
+[Fri Mar 08 13:37:41 2002] You tell your party, 'when people crash, it takes awhile for the character to timeout'
+[Fri Mar 08 13:37:53 2002] You tell your party, 'when players try to get in, they get that error until it has happened.'
+[Fri Mar 08 13:38:13 2002] You say, 'I am ready'
+[Fri Mar 08 13:38:13 2002] Gimlik Cogboggle says 'Well look at you! You see, you're off to a great start!  Now, just follow me and yell out if something stabs you or maims you in anyway.  Never fear, I've memorized gate and have complete confidence in your ability to fend off danger for at least five seconds.  Follow me... follow me. '
+[Fri Mar 08 13:38:20 2002] Torgoth GMSAYS, 'Anyone wanna join me on FV's statue? =)'
+[Fri Mar 08 13:38:36 2002] Maia GMSAYS, 'Levlin petitioned that his friend in a 1018 error.  Advise him to restart his machine. Pet deleted'
+[Fri Mar 08 13:38:48 2002] You GMSAY, 'who is his friend?'
+[Fri Mar 08 13:38:53 2002] Maia GMSAYS, 'pulling Skarlath'
+[Fri Mar 08 13:38:57 2002] You GMSAY, 'if a senior or a GM is online, we can do worldkicks.'
+[Fri Mar 08 13:39:00 2002] Your feet leave the ground.
+[Fri Mar 08 13:39:04 2002] Maia tells the group, 'arkturus'
+[Fri Mar 08 13:39:23 2002] Players in EverQuest:
+[Fri Mar 08 13:39:23 2002] ---------------------------
+[Fri Mar 08 13:39:23 2002] There are no players in EverQuest that match those who filters.
+[Fri Mar 08 13:39:36 2002] You tell your party, 'player not in game. but if they were, escalate to red.'
+[Fri Mar 08 13:39:58 2002] Maia tells the group, 'ah ok  I forgot you were senior SO sorry  not use to you being here :)'
+[Fri Mar 08 13:40:08 2002] Teleporting to Gimlik Cogboggle.
+[Fri Mar 08 13:40:21 2002] Teleporting to gimlik_cogboggle00.
+[Fri Mar 08 13:40:54 2002] You tell your party, 'no worries'
+[Fri Mar 08 13:41:28 2002] You tell your party, 'untargetable AoF on top of rituality pyramid now'
+[Fri Mar 08 13:41:32 2002] Sasarella shouts, 'REDING!!! 60!!!!'
+[Fri Mar 08 13:41:37 2002] Darimund says out of character, 'woot'
+[Fri Mar 08 13:41:38 2002] Lexicus says out of character, 'hehe!'
+[Fri Mar 08 13:41:41 2002] Kreagon says out of character, 'REgratz lol'
+[Fri Mar 08 13:41:41 2002] Cannabulon shouts, 'OFF WITH THE UNDIES!'
+[Fri Mar 08 13:41:47 2002] Sasarella shouts, 'THEY ARE GONE!!! '
+[Fri Mar 08 13:41:50 2002] Cannabulon shouts, 'YAY!'
+[Fri Mar 08 13:41:54 2002] Domn shouts, 'BHAHAHHAA'
+[Fri Mar 08 13:41:55 2002] Darimund says out of character, '/lick sasarella'
+[Fri Mar 08 13:42:02 2002] Sasarella says out of character, 'please continue....'
+[Fri Mar 08 13:42:11 2002] You tell your party, 'this is a CSR zone waiting to happen'
+[Fri Mar 08 13:42:23 2002] Kilm tells the group, 'lol '
+[Fri Mar 08 13:42:25 2002] Darimund says out of character, '/licks sasarella some more'
+[Fri Mar 08 13:42:44 2002] Kilm GMSAYS, 'zone'
+[Fri Mar 08 13:43:05 2002] a Thul Tae Ew zealot begins to cast a spell. (Spirit of Wolf)
+[Fri Mar 08 13:43:28 2002] Kilm tells the group, 'wow 54 th level lizard at entry '
+[Fri Mar 08 13:43:29 2002] a Thul Tae Ew zealot begins to cast a spell. (Spirit of Wolf)
+[Fri Mar 08 13:43:33 2002] Torgoth tells the guild, 'espranza can you do walkouts or is that lirus' department only?'
+[Fri Mar 08 13:43:37 2002] a Thul Tae Ew zealot begins to cast a spell. (Inner Fire)
+[Fri Mar 08 13:43:39 2002] You say to your guild, 'Lirus only'
+[Fri Mar 08 13:43:44 2002] Maia tells the group, 'ouch  I wont be using my cazic gate potion any time soon  lol'
+[Fri Mar 08 13:43:44 2002] Torgoth tells the guild, 'okies'
+[Fri Mar 08 13:43:50 2002] Espranza saved.
+[Fri Mar 08 13:43:54 2002] You tell your party, 'fear mobs on archon pyramid'
+[Fri Mar 08 13:44:25 2002] Maia tells the group, 'player moving in slow motion??'
+[Fri Mar 08 13:44:36 2002] You tell your party, 'encumbrance? lag?'
+[Fri Mar 08 13:44:44 2002] You tell your party, 'in walk mode instead of run mode?'
+[Fri Mar 08 13:45:23 2002] Maia tells the group, 'went thru steps... run on  not encumbered  not ducking  full yellow bar  just ate (lol)  what else is there?'
+[Fri Mar 08 13:45:34 2002] Kilm tells the group, 'wow.. Oh my '
+[Fri Mar 08 13:45:38 2002] Your protection fades.
+[Fri Mar 08 13:45:42 2002] You feel the spirit of Z surround you.
+[Fri Mar 08 13:45:44 2002] Jikopia tells you, 'well that didnt work ill just contact tech support when i get the time thanks for the info'
+[Fri Mar 08 13:45:48 2002] Kilm tells the group, 'what weapons these things holding ?'
+[Fri Mar 08 13:45:57 2002] You told Jikopia, 'good luck...!'
+[Fri Mar 08 13:46:03 2002] Jikopia tells you, 'thanks you too'
+[Fri Mar 08 13:46:04 2002] You tell your party, 'dunno, seen them around'
+[Fri Mar 08 13:46:09 2002] You tell your party, 'these are all luclin weapons'
+[Fri Mar 08 13:46:20 2002] You tell your party, 'I guess Cazic Thule bought the Luclin expansion'
+[Fri Mar 08 13:46:26 2002] Maia tells the group, 'LOL'
+[Fri Mar 08 13:46:31 2002] Kilm tells the group, 'This zone going to be a nightmare.. I wonder what they did with the RS drops here '
+[Fri Mar 08 13:46:40 2002] You tell your party, 'moved them to feerrott'
+[Fri Mar 08 13:46:43 2002] You tell your party, 'got mine already though'
+[Fri Mar 08 13:46:52 2002] a tiger raptor scowls at you, ready to attack -- it appears to be quite formidable.
+[Fri Mar 08 13:46:56 2002] Maia tells the group, 'and its not lag either'
+[Fri Mar 08 13:46:58 2002] Players on EverQuest:
+[Fri Mar 08 13:46:58 2002] ---------------------------
+[Fri Mar 08 13:46:58 2002] [56 Evoker] Elminsteer (Human)
+[Fri Mar 08 13:46:58 2002] [56 Master] Charmlee (Iksar) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] [ANONYMOUS] Zirsis 
+[Fri Mar 08 13:46:58 2002] [37 Monk] Concor (Iksar) <Tunare Messengers>
+[Fri Mar 08 13:46:58 2002] [60 Oracle] Skeezik (Barbarian) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] [60 Hierophant] Glynna (Wood Elf) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] * GM * [54 Rake] Kilm (Barbarian) <Keepers of Dreams>
+[Fri Mar 08 13:46:58 2002] [60 Warlord] Fener (Barbarian) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] [60 Arch Mage] Sasarella (High Elf) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] [60 Warlord] Davan (Half Elf) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] [56 Templar] Kreagon (Dwarf) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] [60 Virtuoso] Lexicus (Half Elf) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] [56 Templar] Darimund (High Elf) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] [60 Assassin] Domn (Wood Elf) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] [54 Rake] Reishi (Dark Elf) <Hall of Heroes>
+[Fri Mar 08 13:46:58 2002] [60 Grave Lord] Cannabulon (Ogre) <Fury's Edge>
+[Fri Mar 08 13:46:58 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Fri Mar 08 13:46:58 2002] There are 17 players in Cazic-Thule.
+[Fri Mar 08 13:47:21 2002] You tell your party, 'hmm. well. take down who what where when and bug it, I guess'
+[Fri Mar 08 13:47:57 2002] Charmlee cheers at Concor.
+[Fri Mar 08 13:47:58 2002] Concor says, 'thank you )'
+[Fri Mar 08 13:48:04 2002] You no longer have a target.
+[Fri Mar 08 13:48:05 2002] Kilm tells the group, 'you at the AOF Espranza ?'
+[Fri Mar 08 13:48:07 2002] You panic and scream.
+[Fri Mar 08 13:48:12 2002] You have been given permission to drag Arkturus's corpse.
+[Fri Mar 08 13:48:20 2002] You have been given permission to drag Goalpost's corpse.
+[Fri Mar 08 13:48:21 2002] You told arkturus, 'heh'
+[Fri Mar 08 13:48:39 2002] You say, 'I am not doing CR folks'
+[Fri Mar 08 13:48:41 2002] Sasarella says, 'you are so pretty'
+[Fri Mar 08 13:48:46 2002] You blush profusely.
+[Fri Mar 08 13:48:46 2002] Darimund says, 'lol =)'
+[Fri Mar 08 13:48:47 2002] Arkturus tells you, 'hehe someone told me too....sorry didnt realize =)'
+[Fri Mar 08 13:48:48 2002] Cannabulon says, 'yeah, this isnt Legends ;)'
+[Fri Mar 08 13:49:01 2002] You say, 'haha'
+[Fri Mar 08 13:49:02 2002] Darimund says, 'sorry i got bored and told everyone to consent you =p'
+[Fri Mar 08 13:49:04 2002] Elminsteer waves goodbye to Cannabulon.
+[Fri Mar 08 13:49:07 2002] Cannabulon thanks Elminsteer heartily.
+[Fri Mar 08 13:49:10 2002] Elminsteer bows before Cannabulon.
+[Fri Mar 08 13:49:11 2002] You say, 'I don't think they do it in legends'
+[Fri Mar 08 13:49:13 2002] Sasarella says, 'I want to be pretty like her!'
+[Fri Mar 08 13:49:19 2002] Dollaan cheers at Lexicus.
+[Fri Mar 08 13:49:21 2002] You say, 'if you want an easy, trivial game, there are others out there'
+[Fri Mar 08 13:49:22 2002] Elminsteer says, 'u r hehehe'
+[Fri Mar 08 13:49:23 2002] Darimund says, 'sasy j00 sexy like j00 self'
+[Fri Mar 08 13:49:34 2002] You no longer have a target.
+[Fri Mar 08 13:49:36 2002] You bow.
+[Fri Mar 08 13:49:42 2002] You say, 'Just looking around'
+[Fri Mar 08 13:49:48 2002] Dollaan says, 'hehe we got owned'
+[Fri Mar 08 13:49:51 2002] You say, 'for some reason they let us'
+[Fri Mar 08 13:49:56 2002] You say, 'but I bet that changes real soon'
+[Fri Mar 08 13:50:01 2002] Dollaan says, 'hehe'
+[Fri Mar 08 13:50:03 2002] Kilm tells the group, 'hehe water is not safe either'
+[Fri Mar 08 13:50:04 2002] a Tae Ew proselyte begins to cast a spell. (Alacrity)
+[Fri Mar 08 13:50:08 2002] A Tae Ew warrior feels much faster.
+[Fri Mar 08 13:50:53 2002] You tell your party, 'come to me'
+[Fri Mar 08 13:50:59 2002] You feel as if you are about to fall.
+[Fri Mar 08 13:51:04 2002] You can no longer levitate.
+[Fri Mar 08 13:51:20 2002] You say, 'this is not a player'
+[Fri Mar 08 13:51:28 2002] Kilm tells the group, 'ya, nasty cleric '
+[Fri Mar 08 13:51:32 2002] Maia GMSAYS, 'Skarlath in slow motion for no apparent reason.  appended logged as bug pet deleted'
+[Fri Mar 08 13:51:43 2002] Darimund says out of character, 'espranza... will you marry me?'
+[Fri Mar 08 13:51:53 2002] You tell your party, 'strange to see a boss mob in cleric planes armor and weapons'
+[Fri Mar 08 13:52:02 2002] Maia GMSAYS, 'pulling Tthorngen'
+[Fri Mar 08 13:52:07 2002] You told darimund, '!'
+[Fri Mar 08 13:52:17 2002] Darimund tells you, '=F'
+[Fri Mar 08 13:52:21 2002] Kilm tells the group, 'yes...and I bet it packs a good wallop also '
+[Fri Mar 08 13:52:22 2002] Darimund tells you, '=D even'
+[Fri Mar 08 13:52:24 2002] a Tae Ew fanatic begins to cast a spell. (Celerity)
+[Fri Mar 08 13:52:24 2002] You tell your party, 'I can't imagine breaking in here'
+[Fri Mar 08 13:52:29 2002] Sasarella says out of character, 'dag even I have never been asked for my hand in marriage .... maybe I should RP more'
+[Fri Mar 08 13:52:36 2002] a Thul Tae Ew zealot begins to cast a spell. (Celerity)
+[Fri Mar 08 13:52:43 2002] Darimund tells you, 'come over here and say yes =p i know you cant talk in ooc'
+[Fri Mar 08 13:52:47 2002] You told sasarella, 'get yerself some purple armor, drives the men wild'
+[Fri Mar 08 13:52:52 2002] Sasarella tells you, 'HAHA '
+[Fri Mar 08 13:52:57 2002] Sasarella tells you, 'I bet lol'
+[Fri Mar 08 13:53:13 2002] You told Darimund, 'heh it would never work'
+[Fri Mar 08 13:53:22 2002] Darimund tells you, 'why not?'
+[Fri Mar 08 13:53:24 2002] a Thul Tae Ew zealot begins to cast a spell. (Inner Fire)
+[Fri Mar 08 13:53:28 2002] Teleporting to darimund.
+[Fri Mar 08 13:53:32 2002] a Tae Ew proselyte begins to cast a spell. (Inner Fire)
+[Fri Mar 08 13:53:41 2002] You say, 'a paladin and a rogue... I dunno'
+[Fri Mar 08 13:53:52 2002] Darimund says, 'im a cleric hon =p'
+[Fri Mar 08 13:54:00 2002] Espranza saved.
+[Fri Mar 08 13:54:01 2002] You say, 'sure, change your story'
+[Fri Mar 08 13:54:07 2002] Dollaan is looking at your equipment...
+[Fri Mar 08 13:54:16 2002] Gilgimesh thanks Darimund heartily.
+[Fri Mar 08 13:54:24 2002] Darimund beams a smile at Espranza.
+[Fri Mar 08 13:54:31 2002] You say, 'You'd let me go out at night and sneak around?'
+[Fri Mar 08 13:54:31 2002] Darimund says, 'i wouldnt lie to the love of my life'
+[Fri Mar 08 13:54:37 2002] Kilm tells the group, 'this going to be a fun experience to say the least '
+[Fri Mar 08 13:54:37 2002] You say, 'it's not like I could stop myself'
+[Fri Mar 08 13:54:39 2002] Darimund says, 'sure, i trust ya'
+[Fri Mar 08 13:54:42 2002] Kreagon says, 'one sec Kandy more have to be rezed freind'
+[Fri Mar 08 13:54:44 2002] You say, 'you DO?'
+[Fri Mar 08 13:54:45 2002] Goalpost peers at Fener, looking her up and down.
+[Fri Mar 08 13:54:48 2002] Darimund nods at Espranza.
+[Fri Mar 08 13:54:48 2002] You say, 'THAT'S a mistake'
+[Fri Mar 08 13:55:01 2002] Darimund says, 'im a glutton for punishment i guess'
+[Fri Mar 08 13:55:01 2002] Dollaan cheers at Goalpost.
+[Fri Mar 08 13:55:03 2002] a Tae Ew proselyte begins to cast a spell. (Spirit of Wolf)
+[Fri Mar 08 13:55:06 2002] Sasarella says, 'lol never trust a rogue in purple armor'
+[Fri Mar 08 13:55:06 2002] Dymlos is looking at your equipment...
+[Fri Mar 08 13:55:13 2002] Kandyman says, 'woot'
+[Fri Mar 08 13:55:15 2002] a Tae Ew proselyte begins to cast a spell. (Alacrity)
+[Fri Mar 08 13:55:16 2002] You no longer have a target.
+[Fri Mar 08 13:55:18 2002] Goalpost rolls on the floor laughing at Dollaan.
+[Fri Mar 08 13:55:19 2002] a Tae Ew proselyte begins to cast a spell. (Alacrity)
+[Fri Mar 08 13:55:24 2002] Dollaan says, 'bah'
+[Fri Mar 08 13:55:24 2002] You say, 'ah well, back to looking through the maze'
+[Fri Mar 08 13:55:27 2002] Domn says, 'mommy can I have some shiney swords like that ?'
+[Fri Mar 08 13:55:34 2002] You say, 'guideapp.everquest.com'
+[Fri Mar 08 13:55:35 2002] Darimund says, '=/'
+[Fri Mar 08 13:55:39 2002] Sasarella says, 'lol'
+[Fri Mar 08 13:55:39 2002] a Tae Ew proselyte begins to cast a spell. (Inner Fire)
+[Fri Mar 08 13:55:45 2002] Sasarella says, 'I like her shes a smart ass like me'
+[Fri Mar 08 13:55:49 2002] You no longer have a target.
+[Fri Mar 08 13:55:50 2002] You giggle.
+[Fri Mar 08 13:55:52 2002] Darimund says, 'haha'
+[Fri Mar 08 13:56:10 2002] Maia GMSAYS, 'spawn dispute in Commons  appended and escalated'
+[Fri Mar 08 13:56:21 2002] You tell your party, 'come to me kilm'
+[Fri Mar 08 13:56:26 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Mar 08 13:56:26 2002] USER TEXT: Syzix wont leave my camp
+[Fri Mar 08 13:56:27 2002] Players in EverQuest:
+[Fri Mar 08 13:56:27 2002] ---------------------------
+[Fri Mar 08 13:56:27 2002] [17 Shadow Knight] Tthorngen (Human) ZONE: commons (USER PID E5KYDZF)
+[Fri Mar 08 13:56:27 2002] There is 1 player in EverQuest.
+[Fri Mar 08 13:56:34 2002] GM TEXT: Maia: Syzik FWRG3GG KSing petitioner, refusing to share spawn, and being rude
+[Fri Mar 08 13:56:46 2002] You tell your party, 'did you contact the petitioner, Maia?'
+[Fri Mar 08 13:56:53 2002] Kilm tells the group, 'nice'
+[Fri Mar 08 13:56:55 2002] Maia tells the group, 'yes  '
+[Fri Mar 08 13:57:06 2002] You tell your party, 'please don't contact in the case of disruption, etc'
+[Fri Mar 08 13:57:09 2002] You tell your party, 'just escalate'
+[Fri Mar 08 13:57:14 2002] Maia tells the group, 'it sounded like ...ok'
+[Fri Mar 08 13:57:35 2002] You tell your party, 'used to be a static spawn that dropped darkforge bits'
+[Fri Mar 08 13:57:42 2002] Kilm tells the group, 'hehe Policy on that is so vague :D '
+[Fri Mar 08 13:57:45 2002] You tell your party, 'now... avatar of fear...'
+[Fri Mar 08 13:57:55 2002] You tell your party, 'a tiny one at that'
+[Fri Mar 08 13:58:02 2002] You GMSAY, 'zoning and hiding for investigation'
+[Fri Mar 08 13:58:04 2002] Espranza is now Invisible.
+[Fri Mar 08 13:58:04 2002] You are now anonymous.
+[Fri Mar 08 13:58:11 2002] Teleporting to tthorngen.
+[Fri Mar 08 13:58:12 2002] LOADING, PLEASE WAIT...
+[Fri Mar 08 13:58:33 2002] Neminsara shouts, 'at ring'
+[Fri Mar 08 13:58:34 2002] Shawny says out of character, 'selling sentry sheild'
+[Fri Mar 08 13:58:46 2002] You have entered West Commonlands.
+[Fri Mar 08 13:58:46 2002] orc oracle has been slain by Tthorngen!
+[Fri Mar 08 13:58:47 2002] You have formed the group.
+[Fri Mar 08 13:58:51 2002] Torgoth GMSAYS, 'Esc Teadyn, name violation report for ya when you get a chance Espranza'
+[Fri Mar 08 13:58:54 2002] orc centurion has been slain by Syzix!
+[Fri Mar 08 13:58:54 2002] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Fri Mar 08 13:59:00 2002] You GMSAY, 'what was the name?'
+[Fri Mar 08 13:59:08 2002] Torgoth GMSAYS, 'Hairyface Needzashave'
+[Fri Mar 08 13:59:10 2002] Players in EverQuest:
+[Fri Mar 08 13:59:10 2002] ---------------------------
+[Fri Mar 08 13:59:10 2002] [ANON (10 Warrior)] Syzix (Iksar) ZONE: commons (USER PID FWRG3GG)
+[Fri Mar 08 13:59:10 2002] There is 1 player in EverQuest.
+[Fri Mar 08 13:59:18 2002] Orgrokk auctions, 'WTS Sentient BP, 21ac 10int 3sv magic SK only'
+[Fri Mar 08 13:59:25 2002] You GMSAY, 'what's wrong with it?'
+[Fri Mar 08 13:59:27 2002] orc centurion has been slain by Syzix!
+[Fri Mar 08 13:59:27 2002] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Fri Mar 08 13:59:29 2002] Notorias auctions, '* WTS * helm of Raldukan, 26ac 4str 4sta 35hp 7vsC 7vsD) 28kpp | Shissar Scaled BP, 30ac 15agi 15dex 35hp 35mana) 18kpp.'
+[Fri Mar 08 13:59:45 2002] Ukayla auctions, 'wts mithril reinforced boots of TUNARE 7ac, +2 wis/cha'
+[Fri Mar 08 13:59:57 2002] Torgoth GMSAYS, 'Iunno, he just petitioned for it. Looks somewhat like a phrase but its not all that bad.'
+[Fri Mar 08 13:59:58 2002] Shawny says out of character, 'can some one spare minor cleric item'
+[Fri Mar 08 14:00:10 2002] orc centurion has been slain by Jekn!
+[Fri Mar 08 14:00:10 2002] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Fri Mar 08 14:00:17 2002] You GMSAY, 'well last name is a phrase, first name is okay'
+[Fri Mar 08 14:00:19 2002] Veloxx shouts, 'PC on ruined Mithril bacer Or chiped bond bracer?'
+[Fri Mar 08 14:00:28 2002] Syzix shouts, '400 on RMB'
+[Fri Mar 08 14:00:35 2002] Veloxx shouts, 'thanks'
+[Fri Mar 08 14:00:37 2002] Torgoth GMSAYS, 'Up to you if you want to have'em change it or not.'
+[Fri Mar 08 14:00:39 2002] Theartist auctions, 'wtb tp to sfg'
+[Fri Mar 08 14:00:41 2002] Zekkin says out of character, 'Seb group looking for a Chanter'
+[Fri Mar 08 14:00:42 2002] Syzix shouts, 'Chipped is 300 i think'
+[Fri Mar 08 14:00:48 2002] You GMSAY, 'I'll change the last name :)'
+[Fri Mar 08 14:00:54 2002] Teleporting to theartist.
+[Fri Mar 08 14:01:00 2002] Teleporting to theartist.
+[Fri Mar 08 14:01:01 2002] Zekkin auctions, 'WTS Crushed Sea Sapphire 250pp'
+[Fri Mar 08 14:01:06 2002] Veloxx auctions, 'WTB ruined Mithril bracer Or Chiped Bone Bracer'
+[Fri Mar 08 14:01:11 2002] Zekkin auctions, 'WTB Mage Spells'
+[Fri Mar 08 14:01:20 2002] Teleporting to tthorngen.
+[Fri Mar 08 14:01:43 2002] GM TEXT: Maia: Syzik FWRG3GG KSing petitioner, refusing to share spawn, and being rude
+[Fri Mar 08 14:01:45 2002] USER TEXT: Syzix wont leave my camp
+[Fri Mar 08 14:01:52 2002] Falwenae says out of character, 'Seb group looking for a cleric'
+[Fri Mar 08 14:02:17 2002] Theartist auctions, 'wtb tp to sfg'
+[Fri Mar 08 14:02:22 2002] You tell your party, 'both players apparently feel they can kill all the orcs if they like'
+[Fri Mar 08 14:02:34 2002] Players in EverQuest:
+[Fri Mar 08 14:02:34 2002] ---------------------------
+[Fri Mar 08 14:02:34 2002] [ANON (10 Warrior)] Syzix (Iksar) ZONE: commons (USER PID FWRG3GG)
+[Fri Mar 08 14:02:34 2002] There is 1 player in EverQuest.
+[Fri Mar 08 14:02:49 2002] Melancholi says out of character, 'HG headed to EC zone'
+[Fri Mar 08 14:03:11 2002] Caladath says out of character, 'i got HG'
+[Fri Mar 08 14:03:22 2002] Merinea says out of character, 'snared for whoever wants him'
+[Fri Mar 08 14:03:32 2002] Relre shouts, 'zytl'
+[Fri Mar 08 14:03:33 2002] Blahmio shouts, 'I love this place )'
+[Fri Mar 08 14:03:51 2002] You tell your party, 'busy, Maia?'
+[Fri Mar 08 14:03:56 2002] Maia tells the group, 'no'
+[Fri Mar 08 14:04:02 2002] You tell your party, 'say zone'
+[Fri Mar 08 14:04:04 2002] Kilm tells the group, 'well.. CT is one zone I am staying away from for awhile '
+[Fri Mar 08 14:04:11 2002] Maia GMSAYS, 'zone'
+[Fri Mar 08 14:04:14 2002] Summoning Maia.
+[Fri Mar 08 14:04:23 2002] Caladath says out of character, 'lambent stone'
+[Fri Mar 08 14:04:31 2002] Zekkin says out of character, 'Seb group looking for tank )'
+[Fri Mar 08 14:05:08 2002] Espranza is now Visible.
+[Fri Mar 08 14:05:09 2002] You are no longer anonymous.
+[Fri Mar 08 14:05:12 2002] Tthorngen says, 'Hail, Maia'
+[Fri Mar 08 14:05:12 2002] Falwenae says out of character, 'seb group looking for a cleric'
+[Fri Mar 08 14:05:18 2002] Tthorngen says, 'Hail, Espranza'
+[Fri Mar 08 14:05:22 2002] Maia bows before Tthorngen.
+[Fri Mar 08 14:05:22 2002] You say, 'Hello!'
+[Fri Mar 08 14:05:30 2002] You say, 'What seems to be the problem?'
+[Fri Mar 08 14:05:45 2002] Zekkin says out of character, 'Seb group looking for tank )'
+[Fri Mar 08 14:05:55 2002] Tthorngen tells you, 'I was campin here and he just came in'
+[Fri Mar 08 14:06:00 2002] Saball shouts, 'can i get a port to dl'
+[Fri Mar 08 14:06:08 2002] Maia tells the group, 'Oh my'
+[Fri Mar 08 14:06:10 2002] You tell your party, 'and now the mage'
+[Fri Mar 08 14:06:17 2002] You tell your party, 'that's a pet )'
+[Fri Mar 08 14:06:24 2002] Tthorngen tells you, 'was that you???!'
+[Fri Mar 08 14:06:26 2002] Maia tells the group, 'lol'
+[Fri Mar 08 14:06:34 2002] You told Tthorngen, 'no, a mage has come by'
+[Fri Mar 08 14:06:39 2002] Zekkin says out of character, 'Seb group looking for tank )'
+[Fri Mar 08 14:06:39 2002] Tthorngen tells you, 'oh...'
+[Fri Mar 08 14:06:46 2002] Caladath says, 'Hail, Espranza'
+[Fri Mar 08 14:06:46 2002] Saball shouts, 'can i get a port to dl'
+[Fri Mar 08 14:06:49 2002] Caladath says, 'how are you today'
+[Fri Mar 08 14:06:59 2002] Calystra shouts, 'hey Saball'
+[Fri Mar 08 14:07:07 2002] You say, 'I'm well...'
+[Fri Mar 08 14:07:14 2002] The spirit leaves you.
+[Fri Mar 08 14:07:17 2002] You say, 'Cyclopses don't roam in this zone :)'
+[Fri Mar 08 14:07:17 2002] Ssidious shouts, 'seb grp looking fer HEALER'
+[Fri Mar 08 14:07:19 2002] You feel the spirit of Norrath enter you.
+[Fri Mar 08 14:07:20 2002] Tthorngen tells you, 'syzix is now dead thx'
+[Fri Mar 08 14:07:24 2002] You say, 'excuse me please'
+[Fri Mar 08 14:07:29 2002] You told Tthorngen, 'I didn't kill him'
+[Fri Mar 08 14:07:29 2002] Ironpunch shouts, 'SEB group looking for a CLERIC'
+[Fri Mar 08 14:07:29 2002] Caladath says, 'here to help friend that SK is ksing him'
+[Fri Mar 08 14:07:30 2002] Zekkin says out of character, 'Seb group looking for tank )'
+[Fri Mar 08 14:07:34 2002] Tthorngen tells you, 'oh hehe'
+[Fri Mar 08 14:07:36 2002] Caladath says, 'they do now =D'
+[Fri Mar 08 14:07:38 2002] You say, 'Thorngen?'
+[Fri Mar 08 14:07:40 2002] Caladath says, 'yes'
+[Fri Mar 08 14:07:47 2002] Tthorngen says, 'yes'
+[Fri Mar 08 14:07:49 2002] You say, 'Thorngen didn't KS anyone while I watched.'
+[Fri Mar 08 14:07:51 2002] Shawny says out of character, 'selling sentry shield 1k'
+[Fri Mar 08 14:07:54 2002] Veloxx auctions, 'WTB ruined Mithril bracer Or Chiped Bone Bracer'
+[Fri Mar 08 14:08:03 2002] You say, 'I've been here a good ten minutes.'
+[Fri Mar 08 14:08:04 2002] Caladath says, 'friend said he has been trying to for a while now'
+[Fri Mar 08 14:08:28 2002] Ajeron says out of character, 'donationg for sow at druid rings'
+[Fri Mar 08 14:08:29 2002] Tthorngen says, 'syzix keeps atacking thing ehrn i do'
+[Fri Mar 08 14:08:30 2002] You say, 'Syzik has been killing nearly every pop'
+[Fri Mar 08 14:08:43 2002] You say, 'I was about to ask Syzik to share with Tthorngen.'
+[Fri Mar 08 14:08:50 2002] Caladath says, 'he has had the camp'
+[Fri Mar 08 14:08:57 2002] Ajeron says out of character, 'donationg for sow at druid rings'
+[Fri Mar 08 14:09:05 2002] You say, 'Ah. Camps are something we don't recognize.'
+[Fri Mar 08 14:09:08 2002] Maia tells the group, 'no camp no camp lalalalalala  ooops sorry'
+[Fri Mar 08 14:09:18 2002] Tthorngen says, 'I had the camp 15min before he came'
+[Fri Mar 08 14:09:24 2002] You say, 'Everyone is equally entitled to a spawn.'
+[Fri Mar 08 14:09:24 2002] Mistah auctions, 'WTS RMB!'
+[Fri Mar 08 14:09:37 2002] Maia nods at Espranza.
+[Fri Mar 08 14:09:39 2002] You say, 'If both Syzic and Tthorngen want to hunt these orcs, they have equal rights.'
+[Fri Mar 08 14:09:43 2002] Tthorngen says, 'so hes allowed to atack thing that i am'
+[Fri Mar 08 14:09:43 2002] Caladath says, 'my friend has been here for about a hour now'
+[Fri Mar 08 14:09:55 2002] You say, 'No, once someone hits something, it's theirs'
+[Fri Mar 08 14:10:05 2002] You say, 'but I didn't see either KS while I was watching.'
+[Fri Mar 08 14:10:16 2002] Tthorngen says, 'he is /telling me some jerky things too'
+[Fri Mar 08 14:10:18 2002] Caladath says, 'yes and  tthor has been trying to take my friends kills and came to help my friend'
+[Fri Mar 08 14:10:21 2002] Notorias auctions, '* WTS * helm of Raldukan, 26ac 4str 4sta 35hp 7vsC 7vsD) 28kpp | Shissar Scaled BP, 30ac 15agi 15dex 35hp 35mana) 18kpp.'
+[Fri Mar 08 14:10:31 2002] You say, 'You can use the /ignore command to deal with tells...'
+[Fri Mar 08 14:10:40 2002] Caladath says, 'he says tthor was saying that he doesn't care and was taking them anyways'
+[Fri Mar 08 14:10:53 2002] Kebantik says 'Time to die orc centurion'
+[Fri Mar 08 14:10:55 2002] You say, 'While I was watching, Tthor killed a total of one orc.'
+[Fri Mar 08 14:10:56 2002] Tthorngen tells you, 'who is caladath to say look at the records '
+[Fri Mar 08 14:10:57 2002] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Fri Mar 08 14:11:00 2002] Relre shouts, 'any one kill zytl yet? he de lvl ed me'
+[Fri Mar 08 14:11:03 2002] Sivy GMSAYS, 'hey all'
+[Fri Mar 08 14:11:05 2002] You told Tthorngen, 'I don't have records of this.'
+[Fri Mar 08 14:11:08 2002] You GMSAY, 'hey Sivy!'
+[Fri Mar 08 14:11:14 2002] Maia GMSAYS, 'hiya short dark and handsome'
+[Fri Mar 08 14:11:14 2002] Tthorngen tells you, 'any way to tell?'
+[Fri Mar 08 14:11:17 2002] Kilm GMSAYS, 'hi yas Sivy '
+[Fri Mar 08 14:11:26 2002] Caladath says, 'yes because my friend had the camp and he is trying ks'
+[Fri Mar 08 14:11:27 2002] Tthorngen tells you, 'he kills evrything i try to '
+[Fri Mar 08 14:11:38 2002] You say, 'well. When Syzik returns, he and Tthorngen can decide how to share the orcs.'
+[Fri Mar 08 14:11:48 2002] Tthorngen tells you, 'I WAS HERE 15 MIN BEFOR HE WAS WITH A GRP MEMBER'
+[Fri Mar 08 14:11:49 2002] Kilm tells the group, 'no idea.. I can move your petition up for Lirus.  But I would ask you first to delete that file then repatch it..see if helps '
+[Fri Mar 08 14:11:52 2002] Sivy GMSAYS, 'kilm we need to gang up on lirus in FQ'
+[Fri Mar 08 14:11:56 2002] Kilm tells the group, 'blag :) '
+[Fri Mar 08 14:11:57 2002] Kizzunss shouts, 'I need Assistance from a High lvl Person with free time'
+[Fri Mar 08 14:12:03 2002] Sivy GMSAYS, 'me and ryn are already planning on beating her up bad ;)'
+[Fri Mar 08 14:12:05 2002] You say, 'Should there be a problem coming to some sort of agreement, let me know and I will decide upon one.'
+[Fri Mar 08 14:12:08 2002] Caladath says, 'well you should talk to him about it'
+[Fri Mar 08 14:12:12 2002] Kizzunss shouts, 'I need Help Getting a Shadowed Man Rapier'
+[Fri Mar 08 14:12:18 2002] Tthorngen tells you, 'HES BEING A HUGE JERK'
+[Fri Mar 08 14:12:23 2002] Kizzunss shouts, 'I would be most greatful'
+[Fri Mar 08 14:12:26 2002] Kilm GMSAYS, 'I owe you a few too '
+[Fri Mar 08 14:12:27 2002] Cowpoke says out of character, 'what is a stack of spider silks worth?'
+[Fri Mar 08 14:12:30 2002] Zehrgut auctions, 'BUYING wiz drop spells Pillar of Flame and Evacuate'
+[Fri Mar 08 14:12:37 2002] Sivy GMSAYS, 'whats with the bind test mob in cshome?'
+[Fri Mar 08 14:12:43 2002] Kilm GMSAYS, 'I attacked you and you kicked my arse :) '
+[Fri Mar 08 14:12:43 2002] Sivy GMSAYS, 'lol ive got to much HP ;)'
+[Fri Mar 08 14:12:43 2002] You told Tthorngen, 'You must share the camp, and so must he. No favorites.'
+[Fri Mar 08 14:12:45 2002] You GMSAY, 'no clue'
+[Fri Mar 08 14:12:45 2002] Caladath says, 'he is on his way back from dieing'
+[Fri Mar 08 14:12:50 2002] Caladath says, 'you should take it up with him'
+[Fri Mar 08 14:12:51 2002] Tehyan says out of character, '51 druid lfg'
+[Fri Mar 08 14:12:55 2002] Tthorngen tells you, 'Tell HIM that he wont do it'
+[Fri Mar 08 14:13:03 2002] Lobomon auctions, 'Jboot MQ 6k'
+[Fri Mar 08 14:13:03 2002] Windias auctions, 'Ykeshan War Club 9 24 eff: Ykesha (80dd)'
+[Fri Mar 08 14:13:03 2002] Torgoth GMSAYS, 'I'll join in on dat!'
+[Fri Mar 08 14:13:05 2002] Windias auctions, 'WTS Lvl 55 Necro Spell Infusion'
+[Fri Mar 08 14:13:07 2002] Caladath says, 'from what i hear tthor has been trying to steal cmap'
+[Fri Mar 08 14:13:11 2002] Caladath says, 'camp*'
+[Fri Mar 08 14:13:12 2002] You tell your party, 'just thought you'd like to be in on one of these pets...'
+[Fri Mar 08 14:13:12 2002] Windias auctions, 'WTBuy Lvl 50 Druid Spell Improved Superior Camo--PST'
+[Fri Mar 08 14:13:13 2002] Tthorngen tells you, 'he atacks things that i do like when a mob is atacking me'
+[Fri Mar 08 14:13:20 2002] Sivy GMSAYS, 'this bind test chick is making me crazy'
+[Fri Mar 08 14:13:21 2002] Torgoth GMSAYS, 'With my mighty banjo of ka-bonging'
+[Fri Mar 08 14:13:22 2002] You tell your party, 'I'm getting tells, too'
+[Fri Mar 08 14:13:22 2002] Sivy GMSAYS, 'i wanna know whats up :p'
+[Fri Mar 08 14:13:25 2002] Tthorngen tells you, 'He atacks the mob'
+[Fri Mar 08 14:13:35 2002] Tehyan auctions, 'WTB Nasthar Gloves'
+[Fri Mar 08 14:13:36 2002] Cowpoke auctions, 'WTS stack of spider silks'
+[Fri Mar 08 14:13:38 2002] Maia tells the group, 'I am taking notes  lol'
+[Fri Mar 08 14:13:41 2002] You tell your party, 'anyway, if you look at the P&P....'
+[Fri Mar 08 14:13:46 2002] Voltare says out of character, 'TAG, Windias!'
+[Fri Mar 08 14:13:46 2002] Kizzunss shouts, 'CAN Somone PLEASE help me , with Getting the Rapier from the shadowed men'
+[Fri Mar 08 14:13:48 2002] You tell your party, 'I'm supposed to ask them to come to an agreement'
+[Fri Mar 08 14:13:52 2002] Maia tells the group, 'yes'
+[Fri Mar 08 14:13:57 2002] You tell your party, 'and then take off.'
+[Fri Mar 08 14:14:02 2002] Windias says out of character, 'Heyas Voltare!'
+[Fri Mar 08 14:14:08 2002] You tell your party, 'right now, the mage is taking everything which is no better'
+[Fri Mar 08 14:14:10 2002] Ajeron says out of character, 'donating for SOW at druid rings'
+[Fri Mar 08 14:14:10 2002] Maia tells the group, 'but Syzix not here'
+[Fri Mar 08 14:14:13 2002] Sivy GMSAYS, 'Zone'
+[Fri Mar 08 14:14:13 2002] Tehyan says out of character, '51 druid lfg'
+[Fri Mar 08 14:14:14 2002] You tell your party, 'so now I have to ask HIM to share.'
+[Fri Mar 08 14:14:18 2002] Maia tells the group, 'ah ok'
+[Fri Mar 08 14:14:19 2002] You say, 'Caladeth'
+[Fri Mar 08 14:14:23 2002] Caladath says, '?'
+[Fri Mar 08 14:14:26 2002] Tthorngen tells you, 'WHY IS SHE KILLING EVRYTHING'
+[Fri Mar 08 14:14:27 2002] Alaru shouts, 'seb group seeking chanter'
+[Fri Mar 08 14:14:36 2002] You say, 'If you're planning on hunting here, let Tthorngen have his share of the mobs'
+[Fri Mar 08 14:14:37 2002] Caladath says, 'at least letting him get some kills'
+[Fri Mar 08 14:14:47 2002] Caladath says, 'breaking camp'
+[Fri Mar 08 14:14:56 2002] Caladath says, 'until friend gets here and he can have it back'
+[Fri Mar 08 14:15:03 2002] Ajeron says out of character, 'donating for SOW at druid rings'
+[Fri Mar 08 14:15:14 2002] Maia tells the group, 'do they EVER listen?'
+[Fri Mar 08 14:15:17 2002] Syzix shouts, 'can anyone gimme a sow at the rings?'
+[Fri Mar 08 14:15:18 2002] Espranza saved.
+[Fri Mar 08 14:15:18 2002] You tell your party, 'sometimes.'
+[Fri Mar 08 14:15:20 2002] You tell your party, 'not now though.'
+[Fri Mar 08 14:15:25 2002] Kizzunss says out of character, 'Can I please get ASSISTANCE from somone of HIgh level in getting the SHadowed Rapier'
+[Fri Mar 08 14:15:31 2002] You tell your party, 'both parties feel they are entitled to the whole camp'
+[Fri Mar 08 14:15:53 2002] You tell your party, 'mark my words, they'll start asking me, 'so does that mean I can just walk into anyone's camp and steal all the mobs?''
+[Fri Mar 08 14:16:03 2002] Alaru shouts, 'seb group seeking chanter'
+[Fri Mar 08 14:16:10 2002] orc oracle begins to cast a spell. (Drowsy)
+[Fri Mar 08 14:16:11 2002] You tell your party, 'that's when I use the /strangle command'
+[Fri Mar 08 14:16:14 2002] Kilm tells the group, 'hehehe don't ya love that :) '
+[Fri Mar 08 14:16:15 2002] Kizzunss says out of character, 'It wont take you long at all'
+[Fri Mar 08 14:16:15 2002] Maia tells the group, 'lol'
+[Fri Mar 08 14:16:22 2002] Jekn says 'Sorry, Master..calming down.'
+[Fri Mar 08 14:16:23 2002] Maia tells the group, 'is that Senior only?'
+[Fri Mar 08 14:16:23 2002] Sivy GMSAYS, 'Zone'
+[Fri Mar 08 14:16:26 2002] You tell your party, 'heh'
+[Fri Mar 08 14:16:27 2002] Ajeron says out of character, 'donating for SOW at druid rings'
+[Fri Mar 08 14:16:31 2002] You tell your party, 'rogue only :)'
+[Fri Mar 08 14:16:31 2002] orc oracle begins to cast a spell. (Burst of Flame)
+[Fri Mar 08 14:16:33 2002] Caladath says, 'any why is Tthorngen hunting here at lv 17 everything is green'
+[Fri Mar 08 14:16:36 2002] You tell your party, 'oh a druid.'
+[Fri Mar 08 14:16:36 2002] Maia tells the group, 'ah I see :)'
+[Fri Mar 08 14:16:42 2002] You say, 'It doesn't matter why'
+[Fri Mar 08 14:16:44 2002] Veloxx says out of character, 'is the RMB 400pp a pair or for only 1?'
+[Fri Mar 08 14:16:47 2002] Syzix shouts, 'can someone gimme a sow at Rings?'
+[Fri Mar 08 14:16:51 2002] You say, 'Anyone can kill any mob they like'
+[Fri Mar 08 14:16:52 2002] Kilm tells the group, 'yes and make sure if you have texture caching enabled you get the GD zone files with .txc after them '
+[Fri Mar 08 14:16:55 2002] Sivy GMSAYS, 'come to me tor'
+[Fri Mar 08 14:16:56 2002] Torgoth GMSAYS, 'zoning'
+[Fri Mar 08 14:16:59 2002] orc oracle begins to cast a spell. (Drowsy)
+[Fri Mar 08 14:16:59 2002] Caladath says, 'he shold be here for exp not just trying to tick off a low lv'
+[Fri Mar 08 14:17:07 2002] Caladath says, 'not if it is already camped'
+[Fri Mar 08 14:17:07 2002] Tthorngen tells you, 'when their fighting me tho?'
+[Fri Mar 08 14:17:16 2002] Kizzunss shouts, 'NEED A Higher Level Person to Kindly Help me CLEAR OUT the Shadowed Men'
+[Fri Mar 08 14:17:24 2002] Cowpoke auctions, 'WTS stack of spider silks'
+[Fri Mar 08 14:17:27 2002] Baladuur says out of character, 'OMW'
+[Fri Mar 08 14:17:33 2002] Lobomon auctions, 'WTS Jboot MQ 6k'
+[Fri Mar 08 14:17:33 2002] Kizzunss says out of character, 'thanks'
+[Fri Mar 08 14:17:39 2002] Melancholi says out of character, 'Yes, thank you'
+[Fri Mar 08 14:17:46 2002] You say, 'Well. I must leave on another petition. Kindly convey to Syzik that camps must be shared.'
+[Fri Mar 08 14:17:56 2002] You say, 'I'll be back later to see if there is any problem.'
+[Fri Mar 08 14:18:06 2002] You tell your party, 'and now we poof'
+[Fri Mar 08 14:18:09 2002] You GMSAY, 'zone'
+[Fri Mar 08 14:18:11 2002] Maia tells the group, 'lol'
+[Fri Mar 08 14:18:11 2002] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Fri Mar 08 14:18:11 2002] Your Belt of Translocation begins to glow.
+[Fri Mar 08 14:18:13 2002] LOADING, PLEASE WAIT...
+[Fri Mar 08 14:18:31 2002] You have entered Sunset Home.
+[Fri Mar 08 14:18:31 2002] You have formed the group.
+[Fri Mar 08 14:18:36 2002] You tell your party, 'and you gate out too'
+[Fri Mar 08 14:18:50 2002] Kilm tells the group, 'Maia ?'
+[Fri Mar 08 14:18:51 2002] Maia GMSAYS, 'zone'
+[Fri Mar 08 14:18:54 2002] Players in EverQuest:
+[Fri Mar 08 14:18:54 2002] ---------------------------
+[Fri Mar 08 14:18:54 2002] * Apprentice Guide *[20 Bard] Maia (Half Elf) ZONE: commons (USER PID ATTU7ER)
+[Fri Mar 08 14:18:54 2002] There is 1 player in EverQuest.
+[Fri Mar 08 14:19:04 2002] You say, 'copycat'
+[Fri Mar 08 14:19:06 2002] Sivy cheers at Espranza.
+[Fri Mar 08 14:19:09 2002] You beam a smile at Sivy.
+[Fri Mar 08 14:19:10 2002] Sivy says, 'pfft no way ;)'
+[Fri Mar 08 14:19:21 2002] Sivy says, 'Looks better on De's than shrub elfs anyway!'
+[Fri Mar 08 14:19:22 2002] Torgoth cheers at Espranza.
+[Fri Mar 08 14:19:23 2002] Kilm tells the group, 'Maia ?you busy ?'
+[Fri Mar 08 14:19:28 2002] Tthorngen tells you, '??? wait i dont understand'
+[Fri Mar 08 14:19:28 2002] Sivy says, 'follow me tor'
+[Fri Mar 08 14:19:43 2002] You told Tthorngen, 'share the camp with syzik, I'll check back later'
+[Fri Mar 08 14:19:45 2002] Maia tells the group, 'yes LKilm?'
+[Fri Mar 08 14:19:51 2002] Tthorngen tells you, 'ok thx'
+[Fri Mar 08 14:19:53 2002] Kilm tells the group, 'you busy ?'
+[Fri Mar 08 14:19:56 2002] Maia tells the group, 'no'
+[Fri Mar 08 14:20:00 2002] Kilm tells the group, 'say zone'
+[Fri Mar 08 14:20:02 2002] You tell your party, 'Kilm's new last name: Sdud'
+[Fri Mar 08 14:20:04 2002] Maia GMSAYS, 'zone'
+[Fri Mar 08 14:20:09 2002] DELETING THIS PETITION
+[Fri Mar 08 14:20:11 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Mar 08 14:20:11 2002] USER TEXT: Hairface Needzashave
+[Fri Mar 08 14:20:11 2002] Players in EverQuest:
+[Fri Mar 08 14:20:11 2002] ---------------------------
+[Fri Mar 08 14:20:11 2002] [55 Preserver] Teadyn (Wood Elf) <Ronins> ZONE: commons (USER PID CSH8296)
+[Fri Mar 08 14:20:11 2002] There is 1 player in EverQuest.
+[Fri Mar 08 14:20:18 2002] Players in EverQuest:
+[Fri Mar 08 14:20:18 2002] ---------------------------
+[Fri Mar 08 14:20:18 2002] There are no players in EverQuest that match those who filters.
+[Fri Mar 08 14:20:25 2002] Kilm GMSAYS, 'Micear pet is for Mia... Stuck player'
+[Fri Mar 08 14:20:31 2002] Tthorngen tells you, 'NOW THAT BIG OAF IS KILLING EVRY POP'
+[Fri Mar 08 14:20:34 2002] You GMSAY, '<note badname> Hairface Needzashave not on'
+[Fri Mar 08 14:20:49 2002] You told Tthorngen, 'let him. keep trying to take mobs. I will watch in a moment.'
+[Fri Mar 08 14:20:49 2002] Tthorngen tells you, 'That cyclops'
+[Fri Mar 08 14:20:56 2002] Kilm tells the group, 'grab the Micear pet Maia'
+[Fri Mar 08 14:20:56 2002] Tthorngen tells you, 'ok'
+[Fri Mar 08 14:20:57 2002] DELETING THIS PETITION
+[Fri Mar 08 14:21:07 2002] Maia tells the group, 'done'
+[Fri Mar 08 14:21:22 2002] Kilm tells the group, 'please tell me all the commans to do for this player..I have confirmed they are still stuck '
+[Fri Mar 08 14:21:32 2002] You GMSAY, 'hiding and zoning'
+[Fri Mar 08 14:21:32 2002] Maia tells the group, 'ok then I have a question'
+[Fri Mar 08 14:21:35 2002] Sivy is now Invisible.
+[Fri Mar 08 14:21:35 2002] Sivy is now anonymous.
+[Fri Mar 08 14:21:38 2002] Kilm tells the group, 'okies'
+[Fri Mar 08 14:21:38 2002] Espranza is now Invisible.
+[Fri Mar 08 14:21:38 2002] You are now anonymous.
+[Fri Mar 08 14:21:47 2002] Teleporting to tthorngen.
+[Fri Mar 08 14:21:47 2002] LOADING, PLEASE WAIT...
+[Fri Mar 08 14:22:07 2002] Melancholi says out of character, 'lol!'
+[Fri Mar 08 14:22:07 2002] Perefouetard auctions, 'WTS Spider Fur Belt'
+[Fri Mar 08 14:22:19 2002] Blahmio shouts, 'I was disarm kiting )'
+[Fri Mar 08 14:22:19 2002] Fuuma auctions, 'WTB/T for Lodi Shield'
+[Fri Mar 08 14:22:20 2002] You have entered West Commonlands.
+[Fri Mar 08 14:22:20 2002] You have formed the group.
+[Fri Mar 08 14:22:30 2002] Maia tells the group, 'first command is /find Micear ???'
+[Fri Mar 08 14:22:40 2002] Kilm tells the group, 'ok ... done'
+[Fri Mar 08 14:23:03 2002] Maia tells the group, 'then /goto    but that would confirm yes?'
+[Fri Mar 08 14:23:03 2002] Shawny says out of character, 'help u idiots'
+[Fri Mar 08 14:23:09 2002] Kilm tells the group, 'yes'
+[Fri Mar 08 14:23:20 2002] Baladuur says out of character, 'Celestial Cleansing on Kizzunss'
+[Fri Mar 08 14:23:27 2002] Maia tells the group, 'so /summon as he is targeted in the /find'
+[Fri Mar 08 14:23:28 2002] Shawny says out of character, 'help'
+[Fri Mar 08 14:23:36 2002] Jekn says 'Guarding you, Master.'
+[Fri Mar 08 14:23:37 2002] Kizzunss says out of character, 'Bless you Baladuur'
+[Fri Mar 08 14:23:38 2002] Narcesis says out of character, 'you just called us idiots'
+[Fri Mar 08 14:23:39 2002] Kilm tells the group, 'confirm first '
+[Fri Mar 08 14:23:49 2002] Maia tells the group, 'yes  with /goto   right?'
+[Fri Mar 08 14:23:59 2002] Kilm tells the group, 'you can breath underwater ?'
+[Fri Mar 08 14:24:04 2002] Maia tells the group, 'no idea'
+[Fri Mar 08 14:24:07 2002] You tell your party, 'no'
+[Fri Mar 08 14:24:12 2002] Maia tells the group, 'no'
+[Fri Mar 08 14:24:17 2002] Kilm tells the group, 'ok.. not underwater anylonger'
+[Fri Mar 08 14:24:17 2002] Melancholi says out of character, 'I'll donate to you Shawny'
+[Fri Mar 08 14:24:21 2002] Maia tells the group, 'please dont make me do a cr'
+[Fri Mar 08 14:24:24 2002] Maia tells the group, 'lol'
+[Fri Mar 08 14:24:30 2002] Kilm tells the group, 'this is under the world'
+[Fri Mar 08 14:24:39 2002] Maia tells the group, 'yes I ahve been here'
+[Fri Mar 08 14:24:47 2002] Maia tells the group, 'and there he is'
+[Fri Mar 08 14:24:48 2002] Kilm tells the group, 'there is your stuck player... so its confirmed '
+[Fri Mar 08 14:24:52 2002] Maia tells the group, 'right'
+[Fri Mar 08 14:24:58 2002] Kilm tells the group, 'next command ?:) '
+[Fri Mar 08 14:25:00 2002] Melancholi says out of character, 'I have a rusty mace around here somewhere...ultra Uber'
+[Fri Mar 08 14:25:06 2002] Syzix says out of character, 'Oh yeah'
+[Fri Mar 08 14:25:11 2002] Maia tells the group, 'so I zone out to safespot   not sure of that'
+[Fri Mar 08 14:25:18 2002] Kilm tells the group, 'yes. '
+[Fri Mar 08 14:25:27 2002] Maia tells the group, 'and /summon him'
+[Fri Mar 08 14:25:28 2002] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Fri Mar 08 14:25:30 2002] Tthorngen tells you, 'are you watching this?'
+[Fri Mar 08 14:25:37 2002] Kilm tells the group, 'yes.. excellent '
+[Fri Mar 08 14:25:50 2002] Espranza is now Visible.
+[Fri Mar 08 14:25:52 2002] You are no longer anonymous.
+[Fri Mar 08 14:26:02 2002] You say, 'Tthorngen has the next pop'
+[Fri Mar 08 14:26:18 2002] Syzix tells you, 'And i got the next after that'
+[Fri Mar 08 14:26:24 2002] You told Syzix, 'yup'
+[Fri Mar 08 14:26:32 2002] Maia GMSAYS, 'Micear stuck under world in FOB  retreived  pet deleted'
+[Fri Mar 08 14:26:34 2002] orc oracle begins to cast a spell. (Light Healing)
+[Fri Mar 08 14:26:35 2002] Kilm tells the group, 'exceleent in commands Maia '
+[Fri Mar 08 14:26:39 2002] orc oracle says 'You shall bleed!! All hail the Deathfist!! '
+[Fri Mar 08 14:26:42 2002] orc oracle begins to cast a spell. (Sicken)
+[Fri Mar 08 14:26:54 2002] Maia tells the group, 'Thank you /blush'
+[Fri Mar 08 14:26:54 2002] orc oracle begins to cast a spell. (Drowsy)
+[Fri Mar 08 14:26:56 2002] Kilm tells the group, 'your question now ?:) heheh '
+[Fri Mar 08 14:26:58 2002] orc oracle begins to cast a spell. (Tainted Breath)
+[Fri Mar 08 14:27:02 2002] Syzix tells you, 'Im not trying to be a pain in your neck but im not going to get punked around by this guy just cuz he thinks hes higher level and better'
+[Fri Mar 08 14:27:03 2002] Maia tells the group, 'you answered it'
+[Fri Mar 08 14:27:05 2002] orc centurion says 'Centurions!! Attack!! '
+[Fri Mar 08 14:27:07 2002] Kilm tells the group, 'no blushing, you will see my weak side'
+[Fri Mar 08 14:27:14 2002] orc oracle begins to cast a spell. (Drowsy)
+[Fri Mar 08 14:27:15 2002] Maia tells the group, 'you said you had confirmed it   I wanted to know how'
+[Fri Mar 08 14:27:20 2002] You told Syzix, 'All I'm interested in is people sharing.'
+[Fri Mar 08 14:27:22 2002] Maia tells the group, 'but the /goto confirmed'
+[Fri Mar 08 14:27:23 2002] Kilm tells the group, 'Ahh :) '
+[Fri Mar 08 14:27:26 2002] orc oracle begins to cast a spell. (Drowsy)
+[Fri Mar 08 14:27:34 2002] Kilm tells the group, 'yes.. I always make sure I verify that '
+[Fri Mar 08 14:27:38 2002] orc oracle begins to cast a spell. (Frost Rift)
+[Fri Mar 08 14:27:41 2002] Maia tells the group, 'understood'
+[Fri Mar 08 14:27:42 2002] orc oracle begins to cast a spell. (Tainted Breath)
+[Fri Mar 08 14:27:46 2002] orc oracle begins to cast a spell. (Burst of Flame)
+[Fri Mar 08 14:27:58 2002] orc oracle begins to cast a spell. (Burst of Flame)
+[Fri Mar 08 14:27:58 2002] Paladus says out of character, 'paly 51 lfg..'
+[Fri Mar 08 14:28:00 2002] You say, 'Let Syzix have some, Tthorn.'
+[Fri Mar 08 14:28:02 2002] orc oracle begins to cast a spell. (Tainted Breath)
+[Fri Mar 08 14:28:06 2002] orc oracle begins to cast a spell. (Sicken)
+[Fri Mar 08 14:28:10 2002] orc oracle begins to cast a spell. (Tainted Breath)
+[Fri Mar 08 14:28:11 2002] Kilm tells the group, 'good job :D *makes note to be nicer to half elves* '
+[Fri Mar 08 14:28:13 2002] orc oracle has been slain by Tthorngen!
+[Fri Mar 08 14:28:13 2002] orc oracle says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Fri Mar 08 14:28:18 2002] Maia tells the group, 'LOL'
+[Fri Mar 08 14:28:22 2002] Maggina shouts, 'porting to most locations send tell please'
+[Fri Mar 08 14:28:23 2002] Tthorngen beams a smile at orc centurion.
+[Fri Mar 08 14:28:23 2002] Tthorngen says, 'Ahhh, I feel much better now...'
+[Fri Mar 08 14:28:29 2002] Maia tells the group, 'you guys really put me through my paces'
+[Fri Mar 08 14:28:33 2002] orc centurion says 'Centurions!! Attack!! '
+[Fri Mar 08 14:28:44 2002] Maia GMSAYS, 'pulling Petaniqua'
+[Fri Mar 08 14:28:45 2002] Zehrgut auctions, 'BUYING wiz drop spells Pillar of Flame and Evacuate'
+[Fri Mar 08 14:28:46 2002] Kilm tells the group, 'best we do :D so you woin't screw up like I did today lol '
+[Fri Mar 08 14:28:56 2002] Maia tells the group, 'you?!?!?!  no way!'
+[Fri Mar 08 14:28:59 2002] Tthorngen beams a smile at orc centurion.
+[Fri Mar 08 14:28:59 2002] Tthorngen says, 'Ahhh, I feel much better now...'
+[Fri Mar 08 14:29:07 2002] Kilm tells the group, 'hahaha  yes... <--- guilty '
+[Fri Mar 08 14:29:07 2002] Vivicide auctions, 'WTB Zlad's heart'
+[Fri Mar 08 14:29:16 2002] Tthorngen tells you, ',an'
+[Fri Mar 08 14:29:17 2002] orc centurion says 'For the glory of the Deathfist Magistrate and all of Clan Deathfist!! '
+[Fri Mar 08 14:29:17 2002] Tthorngen has been slain by orc centurion!
+[Fri Mar 08 14:29:28 2002] orc centurion has been slain by Syzix!
+[Fri Mar 08 14:29:28 2002] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Fri Mar 08 14:29:29 2002] orc centurion says 'Centurions!! Attack!! '
+[Fri Mar 08 14:29:31 2002] Maia tells the group, 'oh my!   I would have never thought that '
+[Fri Mar 08 14:29:36 2002] Kilm tells the group, 'Espranza gave me the I am going turn you in a gnome halfling look :D and female no less '
+[Fri Mar 08 14:29:41 2002] You say, 'now if you guys had been sharing, you wouldn't have had to be so paranoid about getting every pop...'
+[Fri Mar 08 14:29:47 2002] Kilm tells the group, 'happens to us all :D '
+[Fri Mar 08 14:29:52 2002] You tell your party, 'LOL!'
+[Fri Mar 08 14:29:54 2002] Syzix tells you, 'Poetic Justice'
+[Fri Mar 08 14:30:08 2002] orc centurion has been slain by Syzix!
+[Fri Mar 08 14:30:08 2002] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Fri Mar 08 14:30:14 2002] Maia tells the group, 'was that the /strangle command gearing up Espranza?'
+[Fri Mar 08 14:30:16 2002] Syzix goes into a berserker frenzy!
+[Fri Mar 08 14:30:20 2002] You tell your party, 'no no'
+[Fri Mar 08 14:30:22 2002] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Fri Mar 08 14:30:25 2002] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. '
+[Fri Mar 08 14:30:32 2002] You tell your party, 'just a lesson for all of us to read the P&P'
+[Fri Mar 08 14:30:35 2002] Kilm tells the group, 'hehe her hands are to small '
+[Fri Mar 08 14:30:47 2002] Fuuma says out of character, 'Wuoshi up? :)'
+[Fri Mar 08 14:30:58 2002] Narcesis says out of character, 'not in this zone'
+[Fri Mar 08 14:31:22 2002] Kilm tells the group, 'yep, even some of us old timers need to be reminded of things and not take anything for granted '
+[Fri Mar 08 14:31:39 2002] Tthorngen tells you, 'he saw you but he hezitated to atac that mob'
+[Fri Mar 08 14:31:44 2002] Syzix tells you, 'Thank you for yer concern misses =)'
+[Fri Mar 08 14:31:46 2002] Kilm tells the group, 'Putting a note in my dsr I screwed up is going to hurt though lol '
+[Fri Mar 08 14:31:52 2002] You told Syzix, 'just trying to be fair'
+[Fri Mar 08 14:32:01 2002] Maia GMSAYS, 'Petaniqua said her corpse timer didnt stop when she logged   advised that time waits for no one  pet deleted'
+[Fri Mar 08 14:32:03 2002] Syzix tells you, 'I know that'
+[Fri Mar 08 14:32:13 2002] Paladus auctions, 'wtb a tp or tl to velious .'
+[Fri Mar 08 14:32:22 2002] You told Tthorngen, 'well, he's under no obligation to save your life. if you can both share, though, you won't need to take unnecessary risks.'
+[Fri Mar 08 14:32:23 2002] Cowpoke auctions, 'WTS stack of spider silks'
+[Fri Mar 08 14:32:30 2002] Syzix tells you, 'Just dont understand why a lvl 17 SK is sitting here getting no XP and trying to KS from a 10 Warrior'
+[Fri Mar 08 14:32:40 2002] Tthorngen tells you, 'yeah true'
+[Fri Mar 08 14:32:42 2002] You told Syzix, 'I can think of several reasons.'
+[Fri Mar 08 14:32:47 2002] Maia GMSAYS, 'pulling Orwulf'
+[Fri Mar 08 14:32:52 2002] Maia GMSAYS, 'or not'
+[Fri Mar 08 14:32:57 2002] Kilm GMSAYS, ':) '
+[Fri Mar 08 14:33:09 2002] Kilm GMSAYS, 'zone'
+[Fri Mar 08 14:33:13 2002] Syzix tells you, 'like?'
+[Fri Mar 08 14:33:15 2002] Destinydreamer says out of character, 'hmm...is the terrorantula supposed to be in here?.....(just kidding)'
+[Fri Mar 08 14:33:18 2002] You told Tthorngen, 'well, not for KSing.'
+[Fri Mar 08 14:33:23 2002] Yenadil auctions, 'WTS JBoM 13/25 1hs and stats'
+[Fri Mar 08 14:33:24 2002] You told Tthorngen, 'mistell'
+[Fri Mar 08 14:33:37 2002] Tthorngen tells you, 'now hes moking me'
+[Fri Mar 08 14:33:48 2002] You told Syzix, 'well, not for KSing. But all the time I watched I saw no KSing.'
+[Fri Mar 08 14:33:51 2002] You told Tthorngen, 'put him on ignore.'
+[Fri Mar 08 14:33:52 2002] Hipnosii says out of character, 'LOL need those silks, don't play :)'
+[Fri Mar 08 14:33:57 2002] Syzix tells you, 'Becuase you had come'
+[Fri Mar 08 14:34:00 2002] Cowpoke auctions, 'WTS stack of spider silks'
+[Fri Mar 08 14:34:02 2002] Paladus auctions, 'wtb a tp or tl to velious .'
+[Fri Mar 08 14:34:08 2002] You told Syzix, 'I watched invisibly.'
+[Fri Mar 08 14:34:13 2002] Syzix tells you, 'I know that =)'
+[Fri Mar 08 14:34:23 2002] Syzix tells you, 'You talked to him first'
+[Fri Mar 08 14:34:25 2002] Maia GMSAYS, 'pulling Majes'
+[Fri Mar 08 14:34:26 2002] Tthorngen tells you, 'hes on'
+[Fri Mar 08 14:34:41 2002] You told Syzix, 'no, that was the apprentice guide, her error...'
+[Fri Mar 08 14:34:55 2002] Octaave's song ends.
+[Fri Mar 08 14:35:00 2002] Serafy auctions, 'WTS 52 54 luclin spell DRU ENC CLR'
+[Fri Mar 08 14:35:07 2002] Maia tells the group, 'are char keys lore?'
+[Fri Mar 08 14:35:16 2002] You tell your party, 'dunno.'
+[Fri Mar 08 14:35:22 2002] You tell your party, 'charasis keys?'
+[Fri Mar 08 14:35:24 2002] Syzix tells you, 'haha well, guess its my turn to leave'
+[Fri Mar 08 14:35:26 2002] Maia tells the group, 'yes'
+[Fri Mar 08 14:35:30 2002] You tell your party, 'lore no drop'
+[Fri Mar 08 14:35:34 2002] You tell your party, 'thought you meant something else'
+[Fri Mar 08 14:35:34 2002] Maia tells the group, 'his is soulbound '
+[Fri Mar 08 14:35:40 2002] You tell your party, 'yeah, they are'
+[Fri Mar 08 14:35:44 2002] Maia tells the group, 'when he looted his corpse  he now has two'
+[Fri Mar 08 14:36:02 2002] Espranza saved.
+[Fri Mar 08 14:36:03 2002] Kilm tells the group, 'Esp, I can't see the name Looser as a name violation.. correct or you have some extra clarity for me ?'
+[Fri Mar 08 14:36:04 2002] You tell your party, 'find out how that came to pass and report it as a GM issue'
+[Fri Mar 08 14:36:21 2002] Sivy GMSAYS, 'locked up pet screen'
+[Fri Mar 08 14:36:22 2002] Sivy GMSAYS, 'brb'
+[Fri Mar 08 14:36:33 2002] You tell your party, 'eh... I wouldn't grant it, but I won't take it away either'
+[Fri Mar 08 14:37:02 2002] Kilm tells the group, 'its a first name and Surname is not offending.. thats why I think its legit '
+[Fri Mar 08 14:37:13 2002] Kilm tells the group, 'but had a complaint on it '
+[Fri Mar 08 14:37:16 2002] Schythe says out of character, 'lvl 56shaman lfg for seb or chardok'
+[Fri Mar 08 14:37:21 2002] You tell your party, 'I think it's okay'
+[Fri Mar 08 14:37:39 2002] Skykam auctions, 'WTS Crust Legs AC 12 STR 4 DEX - 4 STA 16 CHA - 4 400p'
+[Fri Mar 08 14:37:42 2002] Kilm tells the group, 'ok, just double checking as my batting average decreased today :) '
+[Fri Mar 08 14:37:54 2002] Schythe auctions, 'wtb shaman droped spells'
+[Fri Mar 08 14:37:57 2002] You told kilm, 'don't get down, Kilm. stuff happens...'
+[Fri Mar 08 14:38:02 2002] Skykam auctions, 'WTS Crust Legs AC 12 STR 4 DEX - 4 STA 16 CHA - 4 400p'
+[Fri Mar 08 14:38:26 2002] Kilm tells you, 'hehe I am pretty hard on myself.. I don't like making errors..and once I hard on myself..I never forget the lesson '
+[Fri Mar 08 14:38:40 2002] Serafy auctions, 'WTS DRU ENC luclin spell 52 54'
+[Fri Mar 08 14:39:00 2002] You told Kilm, 'if you were a bad guide someone would have said something by now )'
+[Fri Mar 08 14:39:18 2002] Kilm tells you, 'btw... I must apologize to you on something too '
+[Fri Mar 08 14:39:25 2002] You told Kilm, '?'
+[Fri Mar 08 14:39:48 2002] Kilm tells you, 'i didn't like your p&p you gave me on the Training things for contact.'
+[Fri Mar 08 14:39:52 2002] Maia tells the group, 'player died in CS and was rezzed  while zoning he went LD  when he looted his corpse he had two keys to Charasisr'
+[Fri Mar 08 14:39:58 2002] Kilm tells you, 'for the word handle '
+[Fri Mar 08 14:40:02 2002] Maia tells the group, 'oops mistell'
+[Fri Mar 08 14:40:02 2002] Kilm tells you, 'its vague '
+[Fri Mar 08 14:40:13 2002] Kilm tells you, 'so I asked for clarification '
+[Fri Mar 08 14:40:14 2002] You told Kilm, 'I don't understand'
+[Fri Mar 08 14:40:19 2002] Kilm tells you, 'and I got vagueness '
+[Fri Mar 08 14:40:52 2002] Kilm tells you, 'policy 1.3.6 in reference to the trainin manual and p&p on contacting for exception incidents '
+[Fri Mar 08 14:41:23 2002] Rafewen says out of character, 'Direction to EC...north, south, east, west?'
+[Fri Mar 08 14:41:33 2002] Sianne says out of character, 'uhh east?'
+[Fri Mar 08 14:41:34 2002] Maia tells the group, 'ok I logged it as a bug  what else do I do?'
+[Fri Mar 08 14:41:41 2002] Kolla says out of character, 'Thats a hard one... lemme thinnk for a se'
+[Fri Mar 08 14:41:46 2002] You tell your party, 'inform the GM about it'
+[Fri Mar 08 14:41:47 2002] Rafewen says out of character, 'from druid rings'
+[Fri Mar 08 14:41:54 2002] Kazamen says out of character, 'hence EAST commonlands =p'
+[Fri Mar 08 14:41:55 2002] Maia tells the group, 'as in when he comes on?'
+[Fri Mar 08 14:41:57 2002] You tell your party, 'they want to know how things can get duped, even accidentally'
+[Fri Mar 08 14:41:59 2002] Torgoth GMSAYS, 'Gonna head out, be back later today =)'
+[Fri Mar 08 14:42:04 2002] You tell your party, 'or by posting in the GM issues section'
+[Fri Mar 08 14:42:06 2002] Opalen auctions, 'BUYING ivy etched armor snd tels'
+[Fri Mar 08 14:42:08 2002] You GMSAY, 'later Torgoth!'
+[Fri Mar 08 14:42:08 2002] Vugnar says out of character, 'be nice!'
+[Fri Mar 08 14:42:17 2002] Kilm tells you, 'I wrote policy team on the word handle in that policy as iuts vague... handle can be so many things... so i write these folks.. and got a answer... '
+[Fri Mar 08 14:42:20 2002] Maia tells the group, 'of my DSR?'
+[Fri Mar 08 14:42:26 2002] You told Kilm, 'OH, that'
+[Fri Mar 08 14:42:35 2002] You tell your party, 'there's a special board for GM issues'
+[Fri Mar 08 14:42:43 2002] Maia tells the group, 'yes I know the one'
+[Fri Mar 08 14:42:45 2002] You tell your party, 'along wth DSR, bugs, general discussion etc'
+[Fri Mar 08 14:42:46 2002] Kilm tells you, 'hehe and it seems... You are correct and the manual is also correct '
+[Fri Mar 08 14:42:48 2002] You tell your party, 'post it there'
+[Fri Mar 08 14:42:58 2002] Kilm tells you, 'just depends on who is looking '
+[Fri Mar 08 14:43:12 2002] You told Kilm, 'I've a number of issues with the P&P'
+[Fri Mar 08 14:43:26 2002] Kilm tells you, 'So I apologize for doubting ya on it and will go by what you state as its consistant '
+[Fri Mar 08 14:43:29 2002] Maia tells the group, 'any noting needed in channel?'
+[Fri Mar 08 14:43:37 2002] Jedani says out of character, '60th shaman LFG'
+[Fri Mar 08 14:43:56 2002] You tell your party, 'not really... it's something needing looking into but nobody on right now who can'
+[Fri Mar 08 14:44:06 2002] Maia tells the group, 'ok'
+[Fri Mar 08 14:44:10 2002] Gonlore says out of character, 'any good raids tonigh?'
+[Fri Mar 08 14:44:13 2002] You feel the spirit of Norrath enter you.
+[Fri Mar 08 14:44:22 2002] Baladuur shouts, 'Dorf Powa!!!'
+[Fri Mar 08 14:44:25 2002] Kilm tells you, 'only ones I usually have are the ones that are so vague that you can't get a good meaning out of it.. and the response I received was a vague as the p&P itself '
+[Fri Mar 08 14:44:31 2002] Sunrok shouts, 'For the glory of kaladim :'
+[Fri Mar 08 14:44:39 2002] You told Kilm, 'well, you asked the people who wrote it )'
+[Fri Mar 08 14:44:44 2002] Sivy GMSAYS, 'Zone'
+[Fri Mar 08 14:44:54 2002] Aaena auctions, 'Selling Lvl 44 and + Necro Research Spells.'
+[Fri Mar 08 14:44:55 2002] Maia GMSAYS, 'Majes has dupe key of charsis due to LD while zoning bug logged   pet deleted'
+[Fri Mar 08 14:45:02 2002] Tthorngen tells you, 'hehe he left :) thx for your help'
+[Fri Mar 08 14:45:08 2002] Finben auctions, 'WTB Frostbringer send tells '
+[Fri Mar 08 14:45:09 2002] Dalamaru says out of character, 'Need port to GD please'
+[Fri Mar 08 14:45:10 2002] Maia GMSAYS, 'pulling Triemphor '
+[Fri Mar 08 14:45:10 2002] Kilm tells you, 'lol yes I did... and I am learning that is not a very good thing either... they never commit to any of my questions lol '
+[Fri Mar 08 14:45:19 2002] Serafy auctions, 'WTS trickster Augumention ENC spell / Foliage Shield DRU spell'
+[Fri Mar 08 14:45:27 2002] Sianne auctions, 'WTS spider fur cloak'
+[Fri Mar 08 14:45:28 2002] Maia tells the group, 'LOL  this guy wants take out'
+[Fri Mar 08 14:45:48 2002] Destinydreamer shouts, 'For the glory of Aphrodite! :D'
+[Fri Mar 08 14:45:54 2002] Maia tells the group, 'kindly requests some of Valtrons Finest :)'
+[Fri Mar 08 14:46:00 2002] Sivy says, 'whats Twilit? :p'
+[Fri Mar 08 14:46:02 2002] You hug Sivy.
+[Fri Mar 08 14:46:13 2002] Espranza saved.
+[Fri Mar 08 14:46:15 2002] You say, 'lit by twilight?'
+[Fri Mar 08 14:46:29 2002] Gonlore says out of character, 'any plane raids tonight?????'
+[Fri Mar 08 14:46:32 2002] Sivy says, 'your name is twilit'
+[Fri Mar 08 14:46:36 2002] Sivy says, 'not twilight ;)'
+[Fri Mar 08 14:46:36 2002] You say, 'I know'
+[Fri Mar 08 14:46:39 2002] Sivy says, 'ohh'
+[Fri Mar 08 14:46:43 2002] Deemoore auctions, '((> Buying SHINY METALLIC ROBE <))'
+[Fri Mar 08 14:47:01 2002] Haksaw auctions, 'WTS Sarnak warhammer 1hb 9 20 STUN'
+[Fri Mar 08 14:47:04 2002] Deemoore auctions, '((> Buying SHINY METALLIC ROBE <))'
+[Fri Mar 08 14:47:07 2002] Deemoore auctions, 'wts crystal critin shield AC20 wis9 mana40 '
+[Fri Mar 08 14:47:12 2002] Taggas says out of character, '51 War LFG'
+[Fri Mar 08 14:47:14 2002] Haksaw auctions, 'WTS Robe of enshroudment NEC black look 200pp'
+[Fri Mar 08 14:47:21 2002] You say, 'was just trying for a name to fit the armor'
+[Fri Mar 08 14:47:25 2002] Wardwan auctions, 'wts noct blade, MoSS, serated bone dirk'
+[Fri Mar 08 14:47:27 2002] Sianne auctions, 'WTS spider fur cloak'
+[Fri Mar 08 14:47:36 2002] Tthorngen tells you, 'thx for your help'
+[Fri Mar 08 14:47:40 2002] Sianne auctions, 'WTS jagged blade of mourning'
+[Fri Mar 08 14:47:43 2002] Sivy says, 'Espranza the Purple People Eater !'
+[Fri Mar 08 14:47:52 2002] You told Tthorngen, 'just remember to share'
+[Fri Mar 08 14:47:56 2002] You say, 'that might be too long'
+[Fri Mar 08 14:48:02 2002] You say, 'purple petition eater?'
+[Fri Mar 08 14:48:06 2002] Tthorngen tells you, 'ok I will thx again'
+[Fri Mar 08 14:48:11 2002] Sivy says, 'lol that would be cool :)'
+[Fri Mar 08 14:48:13 2002] Sivy says, 'try it :)'
+[Fri Mar 08 14:48:22 2002] You shrug at Sivy.
+[Fri Mar 08 14:48:33 2002] You have changed Espranza's last name to Purple Petition Eater.
+[Fri Mar 08 14:48:41 2002] Sivy says, 'I love that :p'
+[Fri Mar 08 14:48:46 2002] You say, 'too long'
+[Fri Mar 08 14:48:47 2002] Maia GMSAYS, 'Triemphor needed a drink  advised to look up a barbarian brewer  pet deleted'
+[Fri Mar 08 14:48:53 2002] Sivy says, 'doh'
+[Fri Mar 08 14:48:59 2002] You have changed Espranza's last name to Space For Rent.
+[Fri Mar 08 14:49:16 2002] You have changed Espranza's last name to Your Ad Here.
+[Fri Mar 08 14:49:24 2002] Sivy says, 'Espranza the Turple Perror'
+[Fri Mar 08 14:49:41 2002] You say, 'I like this one, myself'
+[Fri Mar 08 14:49:51 2002] Kilm GMSAYS, 'checking in Bonthan to check soulmark'
+[Fri Mar 08 14:50:06 2002] Baladuur auctions, 'a shadowed man is rooted'
+[Fri Mar 08 14:50:06 2002] Tthorngen auctions, 'Travelers Pouch 25% Reduction for sale 70pp CHEAP'
+[Fri Mar 08 14:50:45 2002] Sivy says, 'Some might not get it though'
+[Fri Mar 08 14:50:48 2002] Sivy says, 'I like turple perror ;)'
+[Fri Mar 08 14:50:56 2002] You have changed Espranza's last name to the Violet Shrub Elf.
+[Fri Mar 08 14:51:10 2002] You have changed Espranza's last name to the Violet Vixen.
+[Fri Mar 08 14:51:17 2002] Sivy says, 'That ones good too'
+[Fri Mar 08 14:51:24 2002] You say, 'it's not me'
+[Fri Mar 08 14:51:29 2002] Sianne auctions, 'WTS club of ice ocean and guardians mace'
+[Fri Mar 08 14:51:30 2002] Sivy says, 'i know'
+[Fri Mar 08 14:51:34 2002] Perefouetard auctions, 'WTB LVL56+ mage drop spells'
+[Fri Mar 08 14:51:37 2002] Darimund tells you, 'you sure we cant be togeather? =('
+[Fri Mar 08 14:51:50 2002] Destinydreamer says out of character, 'I'm, like, rocking seriously :D'
+[Fri Mar 08 14:51:50 2002] Maia GMSAYS, 'pulling Hiping'
+[Fri Mar 08 14:51:55 2002] You have changed Espranza's last name to the Violet Vermin.
+[Fri Mar 08 14:52:01 2002] Deemoore shouts, 'paying for port to skyshrine'
+[Fri Mar 08 14:52:05 2002] You told Darimund, 'I stole your wallet.'
+[Fri Mar 08 14:52:10 2002] Maia GMSAYS, 'more no spawn at hollowshade'
+[Fri Mar 08 14:52:14 2002] Sivy says, 'Espranza the Violet ShrubElf'
+[Fri Mar 08 14:52:16 2002] Darimund tells you, 'find the love letter i put in there for you?'
+[Fri Mar 08 14:52:18 2002] Wardwan auctions, 'wts noct blade, serated bone dirk'
+[Fri Mar 08 14:52:24 2002] Deemoore auctions, 'wts crystal critin shield AC20 wis9 mana40 '
+[Fri Mar 08 14:52:26 2002] Deemoore auctions, 'wts Gauntlets of the Black Ac15 Str4 Wis3 500 pp'
+[Fri Mar 08 14:52:29 2002] Deemoore auctions, '((> Buying SHINY METALLIC ROBE <))'
+[Fri Mar 08 14:52:36 2002] You told Darimund, 'you have to wrap things in hundreds to make it worth unwrappin :)'
+[Fri Mar 08 14:52:48 2002] Sivy says, 'Espranza the Very Violet'
+[Fri Mar 08 14:52:53 2002] Darimund tells you, 'i dont carry paper money =/ only plat'
+[Fri Mar 08 14:52:54 2002] You have changed Espranza's last name to the Shrub Elf.
+[Fri Mar 08 14:52:55 2002] You no longer have a target.
+[Fri Mar 08 14:53:07 2002] Rugoo shouts, 'Target CANT BE MEZZED'
+[Fri Mar 08 14:53:22 2002] You have changed Espranza's last name to Raspberry Flavor.
+[Fri Mar 08 14:53:30 2002] Alazare shouts, '16 WARRIOR LFG'
+[Fri Mar 08 14:53:44 2002] You point at Cassilie. Yeah you!
+[Fri Mar 08 14:53:51 2002] Xurria shouts, 'WTB Port to CS pls...'
+[Fri Mar 08 14:53:51 2002] You say, 'that's a phrase, young lady!'
+[Fri Mar 08 14:53:52 2002] Deemoore auctions, '((> Buying SHINY METALLIC ROBE <))'
+[Fri Mar 08 14:53:58 2002] Cassilie says, '!!!'
+[Fri Mar 08 14:54:12 2002] Sivy says, 'We all worship Lirus, but we cant have names like that or she might get a big head :('
+[Fri Mar 08 14:54:23 2002] You say to your guild, 'actually, Lirus doesn't mind'
+[Fri Mar 08 14:54:25 2002] Darimund tells you, '/sigh you stole my heart before you stole my wallet'
+[Fri Mar 08 14:54:34 2002] Cassilie says, ';-p'
+[Fri Mar 08 14:54:34 2002] You told Darimund, 'got a good price for it, too'
+[Fri Mar 08 14:54:41 2002] Darimund tells you, '/cry'
+[Fri Mar 08 14:54:46 2002] Sivy says, 'But i think we will just keep it between us ;)'
+[Fri Mar 08 14:54:48 2002] You say, 'nobody every worships Espranza!'
+[Fri Mar 08 14:54:54 2002] Sivy says, 'Or Sivy ;*('
+[Fri Mar 08 14:55:09 2002] You have changed Espranza's last name to Worships Sivy.
+[Fri Mar 08 14:55:09 2002] Cassilie says, ';-p'
+[Fri Mar 08 14:55:09 2002] Darimund tells you, 'who did you sell it to? maybe they will lub me'
+[Fri Mar 08 14:55:15 2002] Sivy tells the guild, 'Espranza The Rasberry Rhapsody :p'
+[Fri Mar 08 14:55:19 2002] Seebie auctions, 'wtb fungis tunnic paying very well'
+[Fri Mar 08 14:55:19 2002] You have changed Sivy's last name to Worships Espranza.
+[Fri Mar 08 14:55:20 2002] Seebie auctions, 'wtb iskar regen tunnic'
+[Fri Mar 08 14:55:22 2002] Sivy tells the guild, 'Espranza Rasberry Rhapsody'
+[Fri Mar 08 14:55:36 2002] Sivy says, 'Woot!!'
+[Fri Mar 08 14:55:47 2002] You say, 'look at your own, purple boy'
+[Fri Mar 08 14:55:51 2002] Perefouetard auctions, 'WTB LVL56+ mage drop spells'
+[Fri Mar 08 14:55:53 2002] Sivy says, 'doh! lol'
+[Fri Mar 08 14:56:02 2002] Sianne auctions, 'WTB port to DL'
+[Fri Mar 08 14:56:13 2002] Sivy tells the guild, 'rolf im taking a screenshot'
+[Fri Mar 08 14:56:23 2002] Espranza saved.
+[Fri Mar 08 14:56:25 2002] You say to your guild, 'was just about to turn it back'
+[Fri Mar 08 14:56:33 2002] Sivy says, 'Im more purple than you!'
+[Fri Mar 08 14:56:35 2002] Sivy points at Cassilie. Yeah you!
+[Fri Mar 08 14:56:37 2002] You have changed Sivy's last name to the Cookie Thief.
+[Fri Mar 08 14:56:40 2002] Cassilie says, 'Yea. :-/'
+[Fri Mar 08 14:56:50 2002] Cassilie says, 'But helmets look bad anyway on me. ;-p'
+[Fri Mar 08 14:56:55 2002] You have changed Espranza's last name to the Twilit Rogue.
+[Fri Mar 08 14:57:05 2002] Sivy says, 'I look weird without helm in this getup'
+[Fri Mar 08 14:57:12 2002] Cassilie says, 'haha'
+[Fri Mar 08 14:57:33 2002] Octaave tells you, 'you all need to cloth kilm better.. lolol'
+[Fri Mar 08 14:57:47 2002] Kizzunss shouts, 'Can ANYONE Port me to North Karana -- Thanks '
+[Fri Mar 08 14:57:49 2002] Cassilie says, 'So, what's ya doing here? ;-p'
+[Fri Mar 08 14:57:50 2002] Maia tells the group, 'any bilinguals on?'
+[Fri Mar 08 14:57:51 2002] You told Octaave, 'he's just absent minded'
+[Fri Mar 08 14:57:59 2002] You told Octaave, 'gets out of the shower and just takes off...'
+[Fri Mar 08 14:58:03 2002] You tell your party, 'which lingo?'
+[Fri Mar 08 14:58:15 2002] You say, 'nothing much...'
+[Fri Mar 08 14:58:20 2002] Octaave tells you, 'lolol'
+[Fri Mar 08 14:58:21 2002] You say, 'Have to be somewhere'
+[Fri Mar 08 14:58:26 2002] Cassilie says, '...'
+[Fri Mar 08 14:58:33 2002] Maia tells the group, 'Korean'
+[Fri Mar 08 14:58:36 2002] Sivy tells the guild, 'is this look better than all purple esp?'
+[Fri Mar 08 14:58:36 2002] Cassilie says, 'I guess. ;-p'
+[Fri Mar 08 14:58:38 2002] You tell your party, 'not I'
+[Fri Mar 08 14:58:43 2002] Maia tells the group, 'lol me either'
+[Fri Mar 08 14:58:48 2002] You say to your guild, 'I hate that helmet'
+[Fri Mar 08 14:58:54 2002] Kizzunss shouts, 'Can somone Port or TL me to NORTH KARANA - If SO please send TELLS'
+[Fri Mar 08 14:59:24 2002] You told Cassilie, 'has Lirus seen your name?'
+[Fri Mar 08 14:59:28 2002] Cassilie tells you, 'Yes. ;-p'
+[Fri Mar 08 14:59:36 2002] You told Cassilie, 'she's weird.'
+[Fri Mar 08 14:59:36 2002] Maia tells the group, 'I cant tell if he understands me  :/'
+[Fri Mar 08 14:59:37 2002] Kriilo shouts, '54 chanter lfg'
+[Fri Mar 08 14:59:39 2002] Avajjon says out of character, 'donating for a port or TL to CS'
+[Fri Mar 08 14:59:42 2002] Sivy tells the guild, 'should i leave helm off while in full plate'
+[Fri Mar 08 14:59:48 2002] You say to your guild, 'yeah'
+[Fri Mar 08 14:59:52 2002] Cassilie tells you, 'Haha, she saw me at least, dunno if name was apperant. ;-p'
+[Fri Mar 08 14:59:53 2002] You say to your guild, 'I truly hate those helmets'
+[Fri Mar 08 14:59:56 2002] Sivy tells the guild, 'dont think it looks weird?'
+[Fri Mar 08 15:00:05 2002] You say to your guild, 'not to me'
+[Fri Mar 08 15:00:06 2002] Kizzunss shouts, 'LOOKING for a PORT or TL to NORTH KARANA - Would be GREATLY Appreciated - THANK YOU'
+[Fri Mar 08 15:00:12 2002] Kilm tells the guild, 'wear a kilt.. looks the best '
+[Fri Mar 08 15:00:17 2002] You told Cassilie, 'well anyway she told me she doesn't mind...'
+[Fri Mar 08 15:00:20 2002] Sivy tells the guild, 'lol quiet barb ;)'
+[Fri Mar 08 15:00:25 2002] Lacebabier says out of character, 'i can port  for donations send tell'
+[Fri Mar 08 15:00:28 2002] Cassilie tells you, 'Haha, ok. ;-p'
+[Fri Mar 08 15:00:28 2002] You told Cassilie, 'so if you really want to keep it, who am I to say otherwise'
+[Fri Mar 08 15:00:33 2002] Baaoouumm auctions, 'WTB rune of karana'
+[Fri Mar 08 15:00:34 2002] Kilm tells the guild, 'once you go kilts, you never go back '
+[Fri Mar 08 15:00:36 2002] Baaoouumm auctions, 'WTB rune of Rallos zek, paying very well'
+[Fri Mar 08 15:00:40 2002] Lacebabier shouts, 'anyone have a clarity or a breeze i can donqte for'
+[Fri Mar 08 15:00:40 2002] Sivy GMSAYS, 'Zone'
+[Fri Mar 08 15:00:53 2002] You told Cassilie, 'still think it should be worshipsespranza :)'
+[Fri Mar 08 15:00:55 2002] You wave goodbye to Cassilie.
+[Fri Mar 08 15:00:57 2002] You GMSAY, 'zone'
+[Fri Mar 08 15:00:58 2002] Cassilie tells you, 'hahah'
+[Fri Mar 08 15:01:00 2002] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Fri Mar 08 15:01:00 2002] Your Belt of Translocation begins to glow.
+[Fri Mar 08 15:01:02 2002] LOADING, PLEASE WAIT...
+[Fri Mar 08 15:01:20 2002] You have entered Sunset Home.
+[Fri Mar 08 15:01:21 2002] You have formed the group.
+[Fri Mar 08 15:01:27 2002] It begins to rain.
+[Fri Mar 08 15:01:28 2002] Maia GMSAYS, 'Hiping advising that hollowshade zone not spawning   Pet deleted'
+[Fri Mar 08 15:01:57 2002] You GMSAY, 'well, friends, comrades... and you, too, Sivy... I must be off. See ya later!'
+[Fri Mar 08 15:02:00 2002] Players in EverQuest:
+[Fri Mar 08 15:02:00 2002] ---------------------------
+[Fri Mar 08 15:02:00 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Fri Mar 08 15:02:00 2002] * Guide *[51 Champion] Sivy (Dark Elf) <Keepers of Dreams> ZONE: fieldofbone (USER PID AU7F86Y)
+[Fri Mar 08 15:02:00 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: commons (USER PID BUUWN74)
+[Fri Mar 08 15:02:00 2002] * Apprentice Guide *[20 Bard] Maia (Half Elf) ZONE: fieldofbone (USER PID ATTU7ER)
+[Fri Mar 08 15:02:00 2002] There are 4 players in EverQuest.
+[Fri Mar 08 15:02:05 2002] Sivy GMSAYS, 'lol. cyas esp'
+[Fri Mar 08 15:02:05 2002] It will take you about 30 seconds to prepare your camp.
+[Fri Mar 08 15:02:07 2002] Kilm GMSAYS, 'be asfe Espranza '
+[Fri Mar 08 15:02:09 2002] It will take about 25 more seconds to prepare your camp.
+[Fri Mar 08 15:02:13 2002] Kilm GMSAYS, 'safe :) '
+[Fri Mar 08 15:02:14 2002] It will take about 20 more seconds to prepare your camp.
+[Fri Mar 08 15:02:14 2002] You tell your party, 'need to remake group, Kilm....'
+[Fri Mar 08 15:02:19 2002] It will take about 15 more seconds to prepare your camp.
+[Fri Mar 08 15:02:20 2002] Kilm tells the group, 'okies'
+[Fri Mar 08 15:02:22 2002] You disband your party.
+[Fri Mar 08 15:02:22 2002] Your group has been disbanded.
+[Fri Mar 08 15:02:24 2002] It will take about 10 more seconds to prepare your camp.
+[Fri Mar 08 15:02:28 2002] Kilm GMSAYS, 'Maia ?'
+[Fri Mar 08 15:02:29 2002] It will take about 5 more seconds to prepare your camp.
+[Fri Mar 08 15:02:35 2002] Maia GMSAYS, 'Sivy can get me he's here'

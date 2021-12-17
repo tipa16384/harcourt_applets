@@ -1,0 +1,611 @@
+[Wed Oct 23 08:58:24 2002] Welcome to EverQuest!
+[Wed Oct 23 08:58:24 2002] You have entered Sunset Home.
+[Wed Oct 23 08:58:26 2002] Autojoining channels...
+[Wed Oct 23 08:58:26 2002] Channels: 1=unc(1)
+[Wed Oct 23 08:58:32 2002] You say, 'pr hullo'
+[Wed Oct 23 08:58:33 2002] Players in EverQuest:
+[Wed Oct 23 08:58:33 2002] ---------------------------
+
+[Wed Oct 23 08:58:33 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Wed Oct 23 08:58:33 2002] There is 1 player in EverQuest.
+[Wed Oct 23 08:58:50 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 08:58:51 2002] USER TEXT: I lost exp !!!!!
+[Wed Oct 23 08:58:51 2002] GM TEXT: 
+[Wed Oct 23 08:58:51 2002] Players in EverQuest:
+[Wed Oct 23 08:58:51 2002] ---------------------------
+
+[Wed Oct 23 08:58:51 2002] [ANON (55 Preserver)] Drusuk (Halfling) ZONE: timorous (USER PID FUJ8LG4) 
+[Wed Oct 23 08:58:51 2002] There is 1 player in EverQuest.
+[Wed Oct 23 08:59:08 2002] You told Drusuk, 'Hail, Drusuk! Guide Espranza here. How did you lose experience?'
+[Wed Oct 23 08:59:15 2002] Your feet leave the ground.
+[Wed Oct 23 08:59:27 2002] Llara the Mysterious says 'Welcome to my shop, Espranza. You would probably find a Gnome Sandwich handy.'
+[Wed Oct 23 08:59:27 2002] Llara the Mysterious tells you, 'That'll be 0 money per Wedding Cake.'
+[Wed Oct 23 08:59:43 2002] You give 0 money to Llara the Mysterious.
+[Wed Oct 23 08:59:45 2002] Llara the Mysterious tells you, 'That'll be 0 money per Valtron's Finest Brew.'
+[Wed Oct 23 08:59:47 2002] You give 0 money to Llara the Mysterious.
+[Wed Oct 23 08:59:48 2002] Llara the Mysterious tells you, 'That'll be 0 money per Birthday Cake.'
+[Wed Oct 23 08:59:50 2002] Drusuk tells you, 'I logged on yesterday and made 2 quads then I disconected, I logged on just after you told patch was coming my friend said to me afterwards'
+[Wed Oct 23 08:59:50 2002] You give 0 money to Llara the Mysterious.
+[Wed Oct 23 08:59:55 2002] Llara the Mysterious tells you, 'That'll be 0 money per Gnome Sandwich.'
+[Wed Oct 23 08:59:59 2002] You give 0 money to Llara the Mysterious.
+[Wed Oct 23 09:00:01 2002] Llara the Mysterious tells you, 'That'll be 0 money for the Red Sparkler.'
+[Wed Oct 23 09:00:03 2002] You give 0 money to Llara the Mysterious.
+[Wed Oct 23 09:00:03 2002] You no longer have a target.
+[Wed Oct 23 09:00:04 2002] You no longer have a target.
+[Wed Oct 23 09:00:10 2002] Drusuk tells you, 'when I came back now I didnt have the exp I had yesterday'
+[Wed Oct 23 09:00:28 2002] Drusuk tells you, 'and I didnt see any patch msg on my screen = )'
+[Wed Oct 23 09:01:14 2002] You told Drusuk, 'Some servers came down unexpectedly last night (I don't know for sure if TZ was one of them), and there was a roll back... but that would only have affected you if the server went down while you were online. Did that happen?'
+[Wed Oct 23 09:01:41 2002] Drusuk tells you, 'no more ppl then me was online on TZ'
+[Wed Oct 23 09:01:59 2002] Drusuk tells you, 'guess they opened a old save'
+[Wed Oct 23 09:02:11 2002] You told Drusuk, 'were you in the same spot you camped?'
+[Wed Oct 23 09:02:28 2002] Drusuk tells you, 'no I didnt camp I disconected'
+[Wed Oct 23 09:02:34 2002] You told Drusuk, 'you /quit out?'
+[Wed Oct 23 09:02:37 2002] Drusuk tells you, 'but I poped up at another spot '
+[Wed Oct 23 09:02:51 2002] Drusuk tells you, 'no the booted me'
+[Wed Oct 23 09:02:59 2002] Drusuk tells you, 'for the patch'
+[Wed Oct 23 09:03:02 2002] You told Drusuk, 'crashed?'
+[Wed Oct 23 09:03:16 2002] Drusuk tells you, 'But see I didnt know there was a patch cause I logged in after they said patch was coming'
+[Wed Oct 23 09:03:18 2002] Drusuk tells you, 'yes'
+[Wed Oct 23 09:03:20 2002] You no longer have a target.
+[Wed Oct 23 09:03:56 2002] You told Drusuk, 'ah... so, what probably happened, is that you crashed out before the server could save your current status.... in which case, your experience is probably gone :('
+[Wed Oct 23 09:04:10 2002] Drusuk tells you, 'yah'
+[Wed Oct 23 09:04:32 2002] Drusuk tells you, 'so give it back = P'
+[Wed Oct 23 09:04:44 2002] You told Drusuk, 'heh... would if I could, you can bet on that'
+[Wed Oct 23 09:04:57 2002] Drusuk tells you, 'ermm'
+[Wed Oct 23 09:05:01 2002] Drusuk tells you, 'what now?'
+[Wed Oct 23 09:05:10 2002] Drusuk tells you, 'you gave me no warning'
+[Wed Oct 23 09:06:11 2002] Drusuk tells you, 'what now?'
+[Wed Oct 23 09:06:18 2002] You told Drusuk, 'Without a corpse, I have no way of returning experience - and we have no records of how much experience you had before roll back, either... so we wouldn't know how much to give back. I'm sorry, but I'm afraid there is nothing to be done.'
+[Wed Oct 23 09:06:53 2002] Drusuk tells you, '2 quads about 1 yellow AA exp'
+[Wed Oct 23 09:07:02 2002] Drusuk tells you, 'or you can come kill 16 raptors for me = )'
+[Wed Oct 23 09:07:26 2002] You GMSAY, '<note> Drusuk FUJ8LG4 55 druid - lost some experience by being disconnected during a patch, told him nothing to be done...'
+[Wed Oct 23 09:07:38 2002] You told Drusuk, '2 quads = 8 raptors?'
+[Wed Oct 23 09:07:38 2002] The spirit leaves you.
+[Wed Oct 23 09:07:41 2002] You feel the spirit of Norrath enter you.
+[Wed Oct 23 09:07:54 2002] Drusuk tells you, 'well I kill 8 at a time hehe'
+[Wed Oct 23 09:08:10 2002] Drusuk tells you, 'come to TD and watch'
+[Wed Oct 23 09:08:22 2002] You told Drusuk, 'wow.... too bad my main is a rogue... I can kill eight orc pawns at once...'
+[Wed Oct 23 09:08:28 2002] It begins to rain.
+[Wed Oct 23 09:08:29 2002] Drusuk tells you, 'lol'
+[Wed Oct 23 09:08:55 2002] You told Drusuk, 'BUT... be that as it may... I'm sorry, Drusuk, that you missed the warning to camp out, but we cannot restore your lost experience.'
+[Wed Oct 23 09:08:57 2002] Drusuk tells you, 'rogue/druid grp well on animals = )'
+[Wed Oct 23 09:09:08 2002] You told Drusuk, 'not really, I'm always out of range'
+[Wed Oct 23 09:09:20 2002] Drusuk tells you, 'snare/fear?'
+[Wed Oct 23 09:09:29 2002] Drusuk tells you, 'hmm well'
+[Wed Oct 23 09:09:34 2002] You told Drusuk, 'server lag means I'm either too close or too far most of the time'
+[Wed Oct 23 09:09:52 2002] You told Drusuk, 'wish I could help, Drusuk, I really do.'
+[Wed Oct 23 09:09:55 2002] DELETING THIS PETITION
+[Wed Oct 23 09:10:00 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 09:10:00 2002] USER TEXT: Hail GMs. Sorry to bother you again. I have been trying to give myself another surname... but I am unsuccessful. Any help would be great
+[Wed Oct 23 09:10:00 2002] GM TEXT: 
+[Wed Oct 23 09:10:00 2002] Players in EverQuest:
+[Wed Oct 23 09:10:00 2002] ---------------------------
+
+[Wed Oct 23 09:10:00 2002] [ANON (57 Defiler)] Marizim (Dark Elf) ZONE: nexus (USER PID HTHBF64) 
+[Wed Oct 23 09:10:00 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:10:05 2002] Drusuk tells you, 'summon up a fungi tunic for all the troubles for me? = P'
+[Wed Oct 23 09:10:19 2002] You told Drusuk, 'you overestimate my powers, alas :)'
+[Wed Oct 23 09:10:47 2002] Drusuk tells you, 'you can remove mob?'
+[Wed Oct 23 09:11:19 2002] You feel as if you are about to fall.
+[Wed Oct 23 09:11:21 2002] Marizim is not online at this time.
+[Wed Oct 23 09:11:21 2002] You can no longer levitate.
+[Wed Oct 23 09:11:35 2002] You GMSAY, 'Marizim unavail x1'
+[Wed Oct 23 09:11:44 2002] GM Text added:  Espranza: /tim
+[Wed Oct 23 09:11:49 2002] It is 8 AM on Sunday, the 22nd day of August, of the year 3181.
+[Wed Oct 23 09:11:49 2002] Earth Time: Wed Oct 23 09:11:49 2002
+[Wed Oct 23 09:11:58 2002] GM Text added:  Espranza: unavail 9:12
+[Wed Oct 23 09:12:01 2002] CHECKING IN
+[Wed Oct 23 09:12:09 2002] You told Drusuk, 'remove mobs? only if they are bugged.'
+[Wed Oct 23 09:12:10 2002] Shdowlord tells you, 'can u give any tips on how to lvl realy quickly?'
+[Wed Oct 23 09:12:18 2002] Players in EverQuest:
+[Wed Oct 23 09:12:18 2002] ---------------------------
+
+[Wed Oct 23 09:12:18 2002] [2 Shadow Knight] Shdowlord (Iksar)  ZONE: fieldofbone (USER PID H0EE18A) 
+[Wed Oct 23 09:12:18 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:12:28 2002] You told Shdowlord, 'find stuff. kill it. repeat.'
+[Wed Oct 23 09:12:36 2002] Shdowlord tells you, 'lol ok thnx'
+[Wed Oct 23 09:12:38 2002] Drusuk tells you, 'I mean if Im grouped with you and you remove mob that give me exp? if so we can grp and you remove 16 raptors = P'
+[Wed Oct 23 09:12:53 2002] You told Drusuk, 'lol... no, I'm afraid powerleveling you is right out'
+[Wed Oct 23 09:13:02 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 09:13:02 2002] USER TEXT: I have petitioned twice now, e-mailed the GM from the website and I have still gotten no response about my problem. I got a Forest Loop taken from me, i have the snapshot from when it happened, it was on Oct. 15, around noon, I died for no reason and it was missing when I looted corpse, in its place was a piece of "Mephit Meat" Please respond, i desperately need that earring back.
+[Wed Oct 23 09:13:02 2002] GM TEXT: 
+[Wed Oct 23 09:13:02 2002] Players in EverQuest:
+[Wed Oct 23 09:13:02 2002] ---------------------------
+
+[Wed Oct 23 09:13:02 2002] [ANON (51 Wanderer)] Booges (Wood Elf) ZONE: nexus (USER PID B3EHZ06) 
+[Wed Oct 23 09:13:02 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:14:28 2002] You told Booges, 'Hail, Booges! Guide Espranza here. I will escalate this to a GMs attention.'
+[Wed Oct 23 09:14:40 2002] Drusuk tells you, 'ok but hmm, darn'
+[Wed Oct 23 09:14:41 2002] Booges tells you, 'don't bother, they never respond'
+[Wed Oct 23 09:14:52 2002] Booges tells you, 'it's been handed up to a GM for the 3rd time now if you do'
+[Wed Oct 23 09:15:18 2002] You told Booges, ':( I will post this on the GM section of the guide boards, so they will know about it.'
+[Wed Oct 23 09:15:40 2002] Booges tells you, 'why's it so hard for them to do it...all they ahve to do is check the logs for oct. 15, i have snapshots of when it happened also'
+[Wed Oct 23 09:16:12 2002] You GMSAY, '<note gm> Booges B3EHZ06 51 druid says after a death, his Forest Loop earring was replaced with "Mephit Meat", has tried all avenues to get this looked at.'
+[Wed Oct 23 09:16:50 2002] GM Text added:  Espranza: Escalating and will post on GM section of the boards.
+[Wed Oct 23 09:16:54 2002] STATUS UPGRADED TO URGENT
+[Wed Oct 23 09:16:55 2002] STATUS UPGRADED TO EMERGENCY
+[Wed Oct 23 09:16:56 2002] CHECKING IN
+[Wed Oct 23 09:17:21 2002] You told Booges, 'It's not that, so much as the GMs being very busy. I will do all I can to get a GM to look at your petition, though.'
+[Wed Oct 23 09:17:26 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 09:17:26 2002] USER TEXT: Hail GMs. Sorry to bother you again. I have been trying to give myself another surname... but I am unsuccessful. Any help would be great
+[Wed Oct 23 09:17:26 2002] GM TEXT: Espranza: /tim<BR>Espranza: unavail 9:12
+[Wed Oct 23 09:17:27 2002] Players in EverQuest:
+[Wed Oct 23 09:17:27 2002] ---------------------------
+
+[Wed Oct 23 09:17:27 2002] There are no players in EverQuest that match those who filters.
+[Wed Oct 23 09:17:33 2002] It is 10 AM on Sunday, the 22nd day of August, of the year 3181.
+[Wed Oct 23 09:17:33 2002] Earth Time: Wed Oct 23 09:17:33 2002
+[Wed Oct 23 09:17:43 2002] GM Text added:  Espranza: unavail 9:17
+[Wed Oct 23 09:17:47 2002] CHECKING IN
+[Wed Oct 23 09:17:52 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 09:17:52 2002] USER TEXT: I'm stuck in an area I can't get out of in neriak
+[Wed Oct 23 09:17:52 2002] GM TEXT: 
+[Wed Oct 23 09:17:53 2002] Players in EverQuest:
+[Wed Oct 23 09:17:53 2002] ---------------------------
+
+[Wed Oct 23 09:17:53 2002] [ANON (30 Shadow Knight)] Rancor (Troll) ZONE: neriakc (USER PID HRX7MVA) 
+[Wed Oct 23 09:17:53 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:18:07 2002] You told Rancor, 'Hail, Rancor! Guide Espranza here. Are you still stuck?'
+[Wed Oct 23 09:18:18 2002] Rancor tells you, 'yes'
+[Wed Oct 23 09:18:26 2002] Espranza saved.
+[Wed Oct 23 09:18:28 2002] You told Rancor, 'one moment, please, and we'll have you right out'
+[Wed Oct 23 09:18:31 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 09:18:32 2002] Rancor tells you, 'I'm stuck in a waterfall or something'
+[Wed Oct 23 09:18:35 2002] Teleporting to rancor.
+[Wed Oct 23 09:18:35 2002] LOADING, PLEASE WAIT...
+[Wed Oct 23 09:18:58 2002] You have entered Neriak - 3rd Gate.
+[Wed Oct 23 09:19:23 2002] Summoning rancor.
+[Wed Oct 23 09:19:24 2002] Rancor tells you, 'I'm still stuck'
+[Wed Oct 23 09:19:30 2002] You told Rancor, 'how about now'
+[Wed Oct 23 09:19:33 2002] Rancor tells you, 'k'
+[Wed Oct 23 09:19:38 2002] You told Rancor, ':)'
+[Wed Oct 23 09:19:40 2002] You bow before Rancor.
+[Wed Oct 23 09:19:41 2002] Rancor tells you, 'hey, I'd also like to know how I died'
+[Wed Oct 23 09:19:46 2002] Belwri tells you, 'corpse disappeared in GD. died 5 mins ago, and im here lookig for it atm. if u could summon that would help cos I have a re lined up'
+[Wed Oct 23 09:19:52 2002] Rancor tells you, 'I just logged on and found myself dead'
+[Wed Oct 23 09:20:11 2002] Rancor tells you, 'do you guys have some sort of log?'
+[Wed Oct 23 09:20:14 2002] You told Belwri, 'please petition, Belwri. But mind, I can help only if the corpse is bugged.'
+[Wed Oct 23 09:20:20 2002] Belwri tells you, 'it is'
+[Wed Oct 23 09:20:21 2002] Searching zones for corpse of that name....
+[Wed Oct 23 09:20:21 2002] Corpse: Rancor's corpse0 in zone: shadowhaven
+[Wed Oct 23 09:20:30 2002] Belwri tells you, 'cleric had the same prob here b4'
+[Wed Oct 23 09:20:37 2002] You told Rancor, 'I don't, but I see you have a corpse in Shadow Haven'
+[Wed Oct 23 09:20:41 2002] You told Belwri, 'please petition...'
+[Wed Oct 23 09:20:47 2002] Rancor tells you, 'yeah'
+[Wed Oct 23 09:20:53 2002] You told Rancor, 'I'll go check it out'
+[Wed Oct 23 09:20:54 2002] Sol Punox says 'Hi there Melchaih, just browsing?  Have you seen the Spell: Word of Health I just got in?'
+[Wed Oct 23 09:20:56 2002] Rancor tells you, 'thats where I was before'
+[Wed Oct 23 09:21:03 2002] Dvis Zexus says 'Hello there, Melchaih. How about a nice Fuligan Soulstone of Innoruuk?'
+[Wed Oct 23 09:21:04 2002] Belwri tells you, '/goto belwri....ooops typo!'
+[Wed Oct 23 09:21:28 2002] You GMSAY, '<note> Rancor HRX7MVA 30 Troll SK summoned from waterfall in which he was stuck'
+[Wed Oct 23 09:21:29 2002] Perrir Zexus begins to cast a spell. (Yaulp)
+[Wed Oct 23 09:21:29 2002] Eruvin T`Kix begins to cast a spell. (Yaulp)
+[Wed Oct 23 09:21:29 2002] Jacum C`Luzz begins to cast a spell. (Yaulp)
+[Wed Oct 23 09:21:29 2002] Jsvan Zexus begins to cast a spell. (Yaulp)
+[Wed Oct 23 09:21:29 2002] Perrir Zexus lets loose a mighty yaulp.
+[Wed Oct 23 09:21:29 2002] Jsvan Zexus lets loose a mighty yaulp.
+[Wed Oct 23 09:21:33 2002] Jabon T`Kix begins to cast a spell. (Yaulp)
+[Wed Oct 23 09:21:33 2002] Jabon T`Kix lets loose a mighty yaulp.
+[Wed Oct 23 09:21:37 2002] You told Belwri, 'tsk tsk let me do the guide commands, okies?'
+[Wed Oct 23 09:21:39 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 09:21:45 2002] Perrir Zexus begins to cast a spell. (Yaulp V)
+[Wed Oct 23 09:21:45 2002] Perrir Zexus lets loose a mighty yaulp.
+[Wed Oct 23 09:21:46 2002] LOADING, PLEASE WAIT...
+[Wed Oct 23 09:22:22 2002] You have entered Shadow Haven.
+[Wed Oct 23 09:22:23 2002] Belwri tells you, 'ready when u r friend  8)'
+[Wed Oct 23 09:22:32 2002] You told Belwri, 'pssst please petition thanks'
+[Wed Oct 23 09:22:40 2002] You told Belwri, 'nm )'
+[Wed Oct 23 09:22:46 2002] Teleporting to rancor's corpse0.
+[Wed Oct 23 09:22:51 2002] Belwri tells you, 'done'
+[Wed Oct 23 09:23:33 2002] You told Rancor, 'no, I don't know how you died, actually. You're just lying dead near the zone to Echo Caverns.'
+[Wed Oct 23 09:23:50 2002] DELETING THIS PETITION
+[Wed Oct 23 09:23:53 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 09:23:54 2002] USER TEXT: Hail GMs. Sorry to bother you again. I have been trying to give myself another surname... but I am unsuccessful. Any help would be great
+[Wed Oct 23 09:23:54 2002] GM TEXT: Espranza: /tim<BR>Espranza: unavail 9:12<BR>Espranza: unavail 9:17
+[Wed Oct 23 09:23:54 2002] Players in EverQuest:
+[Wed Oct 23 09:23:54 2002] ---------------------------
+
+[Wed Oct 23 09:23:54 2002] There are no players in EverQuest that match those who filters.
+[Wed Oct 23 09:24:09 2002] You GMSAY, 'Marizim unavail x3 --poof--'
+[Wed Oct 23 09:24:11 2002] Rancor tells you, 'I don't know how I died either'
+[Wed Oct 23 09:24:12 2002] DELETING THIS PETITION
+[Wed Oct 23 09:24:16 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 09:24:17 2002] USER TEXT: corpse bugged in GD. PLease summon
+[Wed Oct 23 09:24:17 2002] GM TEXT: 
+[Wed Oct 23 09:24:17 2002] Players in EverQuest:
+[Wed Oct 23 09:24:17 2002] ---------------------------
+
+[Wed Oct 23 09:24:17 2002] [ANON (51 Channeler)] Belwri (High Elf) ZONE: greatdivide (USER PID D23YVZV) 
+[Wed Oct 23 09:24:17 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:24:17 2002] Rancor tells you, 'shadow haven is safe, isn't it?'
+[Wed Oct 23 09:24:42 2002] You told Rancor, 'unless you attack something or lose faction with them. Everyone starts out tolerated here, though.'
+[Wed Oct 23 09:24:51 2002] You told Rancor, 'of course, another player could have killed you.'
+[Wed Oct 23 09:24:58 2002] Rancor tells you, 'in shadowhaven?'
+[Wed Oct 23 09:25:10 2002] Rancor tells you, 'thats not a no pk zone?'
+[Wed Oct 23 09:25:13 2002] You told Rancor, 'pretty sure you can PvP in SH'
+[Wed Oct 23 09:25:33 2002] Rancor tells you, 'ahh.. I didn't know that'
+[Wed Oct 23 09:25:38 2002] Rancor tells you, 'I thought it was like bazaar'
+[Wed Oct 23 09:25:44 2002] You told Rancor, 'don't think so'
+[Wed Oct 23 09:25:48 2002] Rancor tells you, 'I just started playing again )'
+[Wed Oct 23 09:26:02 2002] You told Rancor, 'eek.... what a bad thing to have happen...'
+[Wed Oct 23 09:26:11 2002] Searching zones for corpse of that name....
+[Wed Oct 23 09:26:12 2002] Corpse: Belwri's corpse0 in zone: greatdivide
+[Wed Oct 23 09:26:13 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 09:26:19 2002] LOADING, PLEASE WAIT...
+[Wed Oct 23 09:26:45 2002] Poisoon says out of character, 'anyone know good place to solo the wolves at?'
+[Wed Oct 23 09:26:54 2002] You have entered The Great Divide.
+[Wed Oct 23 09:27:06 2002] Teleporting to belwri's corpse0.
+[Wed Oct 23 09:27:11 2002] Rancor tells you, 'k, if I didn't lose any exp, I guess I can make it back there again'
+[Wed Oct 23 09:27:29 2002] You told Rancor, 'if you didn't lose experience, it was most certainly a player.'
+[Wed Oct 23 09:27:45 2002] Rancor tells you, 'not sure if I did lose exp'
+[Wed Oct 23 09:27:51 2002] You told Belwri, 'Hail, Belwri! Guide Espranza here. Your corpse does not appear to be bugged'
+[Wed Oct 23 09:28:14 2002] You told Rancor, 'if you're just having trouble finding it, you might ask a Bard, SK, or necro to try and find it for you'
+[Wed Oct 23 09:28:24 2002] You told Rancor, 'mistell'
+[Wed Oct 23 09:28:25 2002] Belwri tells you, '<<smirk>> cmon now. u playin we all three of us saw I died just down hill from here'
+[Wed Oct 23 09:28:49 2002] You told belwri, 'if you're just having trouble finding it, you might ask a Bard, SK, or necro to try and find it for you'
+[Wed Oct 23 09:28:50 2002] Belwri tells you, 'cant see u'
+[Wed Oct 23 09:28:53 2002] Teleporting to belwri.
+[Wed Oct 23 09:29:01 2002] Belwri tells you, 'Im not. I died here. follow'
+[Wed Oct 23 09:29:05 2002] Berol auctions, 'STW Hammer of Divinity'
+[Wed Oct 23 09:29:10 2002] Belwri tells you, 'here'
+[Wed Oct 23 09:29:17 2002] Belwri tells you, 'ask those two'
+[Wed Oct 23 09:29:33 2002] You told Belwri, 'your corpse is nearby and not bugged'
+[Wed Oct 23 09:29:37 2002] Your feet leave the ground.
+[Wed Oct 23 09:29:51 2002] Belwri tells you, 'mmmm, Maybe it was displaced somehow'
+[Wed Oct 23 09:30:18 2002] Belwri tells you, 'can u actually see it on the surface right?'
+[Wed Oct 23 09:30:35 2002] You told Belwri, 'it really is close by, two minutes dedicated search will turn it up, or you can get the aid of a player who can locate corpse. Yes, it's right on the surface.'
+[Wed Oct 23 09:30:45 2002] DELETING THIS PETITION
+[Wed Oct 23 09:30:49 2002] Belwri tells you, 'ok Ill find it then. sorry to trouble u'
+[Wed Oct 23 09:30:49 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 09:30:50 2002] USER TEXT: umm.... I just fell under the world.  
+[Wed Oct 23 09:30:50 2002] GM TEXT: 
+[Wed Oct 23 09:30:50 2002] Players in EverQuest:
+[Wed Oct 23 09:30:50 2002] ---------------------------
+
+[Wed Oct 23 09:30:50 2002] [ANON (51 Vicar)] Vivac (High Elf) ZONE: butcher (USER PID EQM4AXT) 
+[Wed Oct 23 09:30:50 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:31:02 2002] You told Belwri, 'no worries. Good luck, and safe journey to you'
+[Wed Oct 23 09:31:19 2002] You told Vivac, 'Hail, Vivac! Guide Espranza here. Are you still beneath the world?'
+[Wed Oct 23 09:31:26 2002] Searching for vivac.
+[Wed Oct 23 09:31:27 2002] Player is in zone butcher at x = -1115 y = -2751 z = 0.
+[Wed Oct 23 09:31:32 2002] Vivac tells you, 'nay... was just a long fall. =)  many thanks for your reply'
+[Wed Oct 23 09:31:33 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 09:31:41 2002] Vivac tells you, '/bo'
+[Wed Oct 23 09:31:46 2002] You told Vivac, 'are you okay?'
+[Wed Oct 23 09:31:53 2002] Searching zones for corpse of that name....
+[Wed Oct 23 09:31:54 2002] Vivac tells you, 'entirely so. =)  thank you'
+[Wed Oct 23 09:32:04 2002] You told Vivac, 'okies, be well, and safe journeys to you.'
+[Wed Oct 23 09:32:09 2002] DELETING THIS PETITION
+[Wed Oct 23 09:32:25 2002] Espranza's birthdate: Thu Mar 22 17:42:39 2001.
+[Wed Oct 23 09:32:25 2002] Total time playing Espranza: 27 days, 3 hours, and 8 minutes
+[Wed Oct 23 09:32:25 2002] This session: 36 minutes and 45 seconds
+[Wed Oct 23 09:32:25 2002] Time until alarm: 26 minutes and 17 seconds
+[Wed Oct 23 09:33:07 2002] Players on EverQuest:
+[Wed Oct 23 09:33:07 2002] ---------------------------
+[Wed Oct 23 09:33:07 2002] [60 High Priest] Danadaf (Dwarf) <Discordia>
+[Wed Oct 23 09:33:07 2002] [ANONYMOUS] Sylvain 
+[Wed Oct 23 09:33:07 2002] [ANONYMOUS] Arakel  <Holy Forces>
+[Wed Oct 23 09:33:07 2002] [ANONYMOUS] Cycstorm 
+[Wed Oct 23 09:33:07 2002] [ANONYMOUS] Mylia  <Alliance of Wanderers>
+[Wed Oct 23 09:33:07 2002] [ANONYMOUS] Belwri 
+[Wed Oct 23 09:33:07 2002] [ANONYMOUS] Berol 
+[Wed Oct 23 09:33:07 2002] [ANONYMOUS] Poisoon 
+[Wed Oct 23 09:33:07 2002] * GM * [55 Blackguard] Espranza (Halfling) <House of Zek>
+[Wed Oct 23 09:33:07 2002] There are 9 players in Great Divide.
+[Wed Oct 23 09:33:28 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 09:33:32 2002] LOADING, PLEASE WAIT...
+[Wed Oct 23 09:33:53 2002] You have entered Sunset Home.
+[Wed Oct 23 09:33:58 2002] Players in EverQuest:
+[Wed Oct 23 09:33:58 2002] ---------------------------
+
+[Wed Oct 23 09:33:58 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Wed Oct 23 09:33:58 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:34:36 2002] You feel the spirit of Z surround you.
+[Wed Oct 23 09:34:39 2002] Returning to your own perspective.
+[Wed Oct 23 09:34:39 2002] You feel different.
+[Wed Oct 23 09:38:06 2002] Players in EverQuest:
+[Wed Oct 23 09:38:06 2002] ---------------------------
+
+[Wed Oct 23 09:38:06 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Wed Oct 23 09:38:06 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:39:42 2002] Espranza's birthdate: Thu Mar 22 17:42:39 2001.
+[Wed Oct 23 09:39:42 2002] Total time playing Espranza: 27 days, 3 hours, and 15 minutes
+[Wed Oct 23 09:39:42 2002] This session: 44 minutes and 2 seconds
+[Wed Oct 23 09:39:42 2002] Time until alarm: 19 minutes
+[Wed Oct 23 09:40:24 2002] Players in EverQuest:
+[Wed Oct 23 09:40:24 2002] ---------------------------
+
+[Wed Oct 23 09:40:24 2002] [1 Paladin] Raandumneim (High Elf)  ZONE:  (USER PID F0JSEE3) 
+[Wed Oct 23 09:40:24 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:40:29 2002] Players in EverQuest:
+[Wed Oct 23 09:40:29 2002] ---------------------------
+
+[Wed Oct 23 09:40:29 2002] [1 Paladin] Raandumneim (High Elf)  ZONE: felwithea (USER PID F0JSEE3) 
+[Wed Oct 23 09:40:29 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:40:57 2002] You told raandumneim, 'Hail, Random Name! Guide Espranza here. Just wanted to let you know I got a kick out of your name :)'
+[Wed Oct 23 09:41:47 2002] Your feet leave the ground.
+[Wed Oct 23 09:41:51 2002] Players in EverQuest:
+[Wed Oct 23 09:41:51 2002] ---------------------------
+
+[Wed Oct 23 09:41:51 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Wed Oct 23 09:41:51 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:41:56 2002] Espranza's birthdate: Thu Mar 22 17:42:39 2001.
+[Wed Oct 23 09:41:56 2002] Total time playing Espranza: 27 days, 3 hours, and 17 minutes
+[Wed Oct 23 09:41:56 2002] This session: 46 minutes and 16 seconds
+[Wed Oct 23 09:41:56 2002] Time until alarm: 16 minutes and 46 seconds
+[Wed Oct 23 09:42:45 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 09:42:51 2002] LOADING, PLEASE WAIT...
+[Wed Oct 23 09:43:00 2002] Your illusion fades.
+[Wed Oct 23 09:43:21 2002] You have entered Swamp Of No Hope.
+[Wed Oct 23 09:43:48 2002] Searching for dugroz00.
+[Wed Oct 23 09:43:48 2002] Player is in zone swampofnohope at x = -263 y = -1777 z = -9.
+[Wed Oct 23 09:43:52 2002] Teleporting to Dugroz00 (-262.00, -1776.00,  -9.30).
+[Wed Oct 23 09:44:03 2002] Dugroz begins to cast a spell. (Banshee Aura)
+[Wed Oct 23 09:44:20 2002] Taking a screenshot...
+[Wed Oct 23 09:45:01 2002] Teleporting to Kaggy_Krup00 (-779.00, -1247.00,  27.75).
+[Wed Oct 23 09:45:05 2002] You say, 'Hail, Kaggy Krup'
+[Wed Oct 23 09:45:08 2002] Kaggy Krup glowers at you dubiously -- looks like quite a gamble.
+[Wed Oct 23 09:45:20 2002] Kaggy Krup looks friendly.
+[Wed Oct 23 09:45:22 2002] Kaggy Krup glowers at you dubiously -- looks like quite a gamble.
+[Wed Oct 23 09:45:54 2002] Taking a screenshot...
+[Wed Oct 23 09:46:09 2002] You feel the spirit of Norrath enter you.
+[Wed Oct 23 09:47:05 2002] Taking a screenshot...
+[Wed Oct 23 09:47:18 2002] It is 7 PM on Sunday, the 22nd day of August, of the year 3181.
+[Wed Oct 23 09:47:18 2002] Earth Time: Wed Oct 23 09:47:18 2002
+[Wed Oct 23 09:47:23 2002] Espranza's birthdate: Thu Mar 22 17:42:39 2001.
+[Wed Oct 23 09:47:23 2002] Total time playing Espranza: 27 days, 3 hours, and 22 minutes
+[Wed Oct 23 09:47:23 2002] This session: 51 minutes and 43 seconds
+[Wed Oct 23 09:47:23 2002] Time until alarm: 11 minutes and 19 seconds
+[Wed Oct 23 09:47:31 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 09:47:36 2002] LOADING, PLEASE WAIT...
+[Wed Oct 23 09:47:58 2002] You have entered Sunset Home.
+[Wed Oct 23 09:48:05 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 09:48:06 2002] USER TEXT: hail, i gave 2 items to %T in Plane of Tranquil, and he hate them. he didnt gave them back since he has no use of them
+[Wed Oct 23 09:48:06 2002] GM TEXT: 
+[Wed Oct 23 09:48:06 2002] Players in EverQuest:
+[Wed Oct 23 09:48:06 2002] ---------------------------
+
+[Wed Oct 23 09:48:06 2002] [61 Assassin] Grousha (Dark Elf) <Pandemonium> ZONE: potranquility (USER PID FRW0JPS) 
+[Wed Oct 23 09:48:06 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:48:54 2002] You told Grousha, 'Hail, Grousha! Guide Espranza here. Whom did you give those items to, and which items were they, and why did you give them to him?'
+[Wed Oct 23 09:49:08 2002] Grousha tells you, 'hail'
+[Wed Oct 23 09:49:15 2002] Grousha tells you, 'i gave them to Bor Wharhammer in plane of Tranquil'
+[Wed Oct 23 09:49:23 2002] Grousha tells you, 'i gave assassin vambrace, a raw diamond'
+[Wed Oct 23 09:49:37 2002] Grousha tells you, 'then i gave a woven shadow gloves'
+[Wed Oct 23 09:49:53 2002] Grousha tells you, 'i gave them because i heard this guy change armors'
+[Wed Oct 23 09:50:04 2002] Grousha tells you, 'and from his spitch , he is supposed to'
+[Wed Oct 23 09:50:33 2002] You told Grousha, 'one moment please... are you right there with him?'
+[Wed Oct 23 09:50:46 2002] Grousha tells you, 'usually, when you dont handle the good items, he is supposed to give them back, right?'
+[Wed Oct 23 09:50:52 2002] Grousha tells you, 'in front of him yes'
+[Wed Oct 23 09:50:56 2002] You told Grousha, 'not always'
+[Wed Oct 23 09:51:01 2002] You told Grousha, 'mostly'
+[Wed Oct 23 09:51:22 2002] Grousha tells you, 'hmm. i tought they give back when they have no used'
+[Wed Oct 23 09:51:27 2002] You GMSAY, '<note> Off to the Plane of Tranquility to see if this petitioner has a legitimate gripe with a quest'
+[Wed Oct 23 09:51:32 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 09:51:36 2002] Teleporting to grousha.
+[Wed Oct 23 09:51:37 2002] LOADING, PLEASE WAIT...
+[Wed Oct 23 09:52:15 2002] You have entered Plane of Tranquility.
+[Wed Oct 23 09:52:22 2002] Lias tells you, 'how longs the queue today?'
+[Wed Oct 23 09:52:28 2002] You told Lias, 'not long'
+[Wed Oct 23 09:52:29 2002] Players in EverQuest:
+[Wed Oct 23 09:52:29 2002] ---------------------------
+
+[Wed Oct 23 09:52:29 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: potranquility (USER PID FUGQSJL) 
+[Wed Oct 23 09:52:29 2002] There is 1 player in EverQuest.
+[Wed Oct 23 09:52:32 2002] You say, 'Hail, Bor Wharhammer'
+[Wed Oct 23 09:52:33 2002] Bor Wharhammer says 'Greetin's t'ye Espranza!  Isn't the area 'round 'ere so nice an' quiet?  Such a departure from me old days; slaving o'er the forge t'create masterpieces!  T'be 'onest, at times I do miss the old forge, but after I created me finest breastplate, it seemed as if nothing else I made could ever live up t'it.  So I left me home to'wander the land an' see what I could learn o'the world.  I 'ave learned quite a bit from the elders 'ere an' the skilled craftspeople in New Tanaan.  I 'ave even devised a type o'emblem that will impart the magic o'tranquility into the user t'create planar armors from pieces o'energy found in the planes.'
+[Wed Oct 23 09:52:38 2002] Lias tells you, 'cool'
+[Wed Oct 23 09:53:07 2002] You say, 'it doesn't sound from this text that he is the one to change old planes armor to gems'
+[Wed Oct 23 09:53:14 2002] You say, 'what emblem'
+[Wed Oct 23 09:53:15 2002] Bor Wharhammer says 'Ye look mighty inexperienced t'be in this area, Espranza. Come an' seek me out when ye 'ave more knowledge o'the planes! '
+[Wed Oct 23 09:53:23 2002] You say, 'bah, my main is a 61 rogue'
+[Wed Oct 23 09:53:31 2002] Grousha says, 'argh'
+[Wed Oct 23 09:53:32 2002] You say, 'you talk to me!!!'
+[Wed Oct 23 09:53:59 2002] Grousha bonks Bor Wharhammer on the head!
+[Wed Oct 23 09:54:02 2002] Grousha points at Bor Wharhammer. Yeah you!
+[Wed Oct 23 09:54:07 2002] Grousha says, 'give me back my armors !'
+[Wed Oct 23 09:54:12 2002] You say, 'I don't believe this is the NPC you were looking for... but I will note this in my shift report nonetheless.'
+[Wed Oct 23 09:54:16 2002] You say, 'it MAY be'
+[Wed Oct 23 09:54:38 2002] Grousha says, 'would be nice to get them back at least'
+[Wed Oct 23 09:55:02 2002] You say, 'we can;t reimburse for  items lost due to handing them to the wrong person'
+[Wed Oct 23 09:55:06 2002] Your feet leave the ground.
+[Wed Oct 23 09:55:09 2002] Grousha says, 'ouch'
+[Wed Oct 23 09:55:28 2002] Grousha says, 'but from an old patch, npc are suppiosed to give back items they dont need'
+[Wed Oct 23 09:55:42 2002] Grousha says, 'and since i got nothing in return, he obviously didnt need then, right?'
+[Wed Oct 23 09:55:44 2002] You say, 'most normal NPCs, planar NPCs may or may not'
+[Wed Oct 23 09:55:59 2002] You say, 'and not even all old world NPCs'
+[Wed Oct 23 09:56:04 2002] Grousha says, 'this rules doesnt apply to planars?'
+[Wed Oct 23 09:56:24 2002] You say, 'it's more or less just the NPCs they got to. '
+[Wed Oct 23 09:56:26 2002] Grousha says, 'they could have warned us at least :('
+[Wed Oct 23 09:56:32 2002] You say, 'as to this particular NPC... I don't know.'
+[Wed Oct 23 09:57:19 2002] You say, 'I'll take down all your info and bring it to the attention of a GM, one may be in contact with you if there is a bug here'
+[Wed Oct 23 09:57:39 2002] Grousha says, 'ok thanks darling'
+[Wed Oct 23 09:57:45 2002] You say, 'but no guarantees... unless he specifically asks for an item, you take your chances handing stuff to him...'
+[Wed Oct 23 09:57:50 2002] Sylvaria tells you, 'any idea how long it will take for my petition? Corpse is in wall and I'll cry if timer runs down'
+[Wed Oct 23 09:57:52 2002] You bow before Grousha.
+[Wed Oct 23 09:58:00 2002] You told Sylvaria, 'not long...'
+[Wed Oct 23 09:58:04 2002] Grousha says, 'gonna find a cliff and jump ....'
+[Wed Oct 23 09:58:05 2002] You say, 'be well, and safe journey to you!'
+[Wed Oct 23 09:58:09 2002] You say, 'noooo :('
+[Wed Oct 23 09:58:11 2002] Grousha says, 'maybe safe fall wont save me'
+[Wed Oct 23 09:58:16 2002] Sylvaria tells you, 'thx'
+[Wed Oct 23 09:58:16 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 09:58:17 2002] Byakhee says out of character, 'lalala cant find PoK, anyone has a loc?'
+[Wed Oct 23 09:58:18 2002] Grousha says, 'take care darling'
+[Wed Oct 23 09:58:23 2002] LOADING, PLEASE WAIT...
+[Wed Oct 23 09:58:44 2002] You have entered Sunset Home.
+[Wed Oct 23 10:00:01 2002] You GMSAY, '<note gm> Grousha FRW0JPS 61 DE rogue handed woven shadow gloves and a raw diamond to Bor Wharhammer in the Plane of Tranquility and expected a reward or at least her items back, got nothing in return.'
+[Wed Oct 23 10:00:08 2002] DELETING THIS PETITION
+[Wed Oct 23 10:00:11 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 10:00:11 2002] USER TEXT: i was wondering if vernet changed harmony cuase it is not working on anything it use to now please send me a tell asap
+[Wed Oct 23 10:00:11 2002] GM TEXT: 
+[Wed Oct 23 10:00:12 2002] Players in EverQuest:
+[Wed Oct 23 10:00:12 2002] ---------------------------
+
+[Wed Oct 23 10:00:12 2002] [ANON (55 Preserver)] Josilynn (Wood Elf) ZONE: thegrey (USER PID BP8MD6Y) 
+[Wed Oct 23 10:00:12 2002] There is 1 player in EverQuest.
+[Wed Oct 23 10:00:41 2002] You told Josilynn, 'Hail, Josilynn! Guide Espranza here. Yes, Verant did change Harmony. It no longer works on high level mobs.'
+[Wed Oct 23 10:00:43 2002] Players in EverQuest:
+[Wed Oct 23 10:00:43 2002] ---------------------------
+
+[Wed Oct 23 10:00:43 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Wed Oct 23 10:00:43 2002] There is 1 player in EverQuest.
+[Wed Oct 23 10:00:56 2002] Josilynn tells you, 'ahhh ok many many thx'
+[Wed Oct 23 10:01:05 2002] You told Josilynn, 'be well, and safe journey to you!'
+[Wed Oct 23 10:01:07 2002] DELETING THIS PETITION
+[Wed Oct 23 10:01:11 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 10:01:12 2002] USER TEXT: My corpse is stuck in a wall in ME
+[Wed Oct 23 10:01:12 2002] GM TEXT: 
+[Wed Oct 23 10:01:12 2002] Players in EverQuest:
+[Wed Oct 23 10:01:12 2002] ---------------------------
+
+[Wed Oct 23 10:01:12 2002] [ANON (56 Templar)] Sylvaria (Dark Elf) ZONE: maiden (USER PID CSTH7JR) 
+[Wed Oct 23 10:01:12 2002] There is 1 player in EverQuest.
+[Wed Oct 23 10:01:24 2002] You GMSAY, '<note> Zoning to Maiden's Eye to investigate a stuck corpse.'
+[Wed Oct 23 10:01:27 2002] Please type a valid zone name after your command.
+[Wed Oct 23 10:01:34 2002] Searching zones for corpse of that name....
+[Wed Oct 23 10:01:34 2002] Corpse: Sylvaria's corpse0 in zone: maiden
+[Wed Oct 23 10:01:38 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 10:01:41 2002] LOADING, PLEASE WAIT...
+[Wed Oct 23 10:02:16 2002] You have entered The Maiden's Eye.
+[Wed Oct 23 10:02:30 2002] Teleporting to sylvaria's corpse0.
+[Wed Oct 23 10:03:22 2002] You told Sylvaria, 'Hail, Sylvaria! Guide Espranza here. Your corpse is clearly visible and not stuck in anything so far as I can see....'
+[Wed Oct 23 10:03:40 2002] Sylvaria tells you, 'My friend cast locate and it poitned right into the wall'
+[Wed Oct 23 10:03:54 2002] You told Sylvaria, 'it might have been beyond the wall'
+[Wed Oct 23 10:04:04 2002] Sylvaria tells you, 'the wall to dawnshroud??'
+[Wed Oct 23 10:04:10 2002] Sylvaria tells you, 'and I dided at the zoneline'
+[Wed Oct 23 10:04:17 2002] Sylvaria tells you, 'died even'
+[Wed Oct 23 10:04:28 2002] Sylvaria tells you, 'I died bang on the zoneline to someone eless train prior to the patch'
+[Wed Oct 23 10:04:37 2002] You told Sylvaria, 'that's not where your body is now...'
+[Wed Oct 23 10:04:42 2002] Klymaxus begins to cast a spell. (Malosini)
+[Wed Oct 23 10:04:47 2002] You told Sylvaria, 'type /corpse'
+[Wed Oct 23 10:05:06 2002] Teleporting to sylvaria.
+[Wed Oct 23 10:05:17 2002] Sylvaria tells you, 'It aint anywhere in range'
+[Wed Oct 23 10:05:35 2002] Sylvaria tells you, 'My OTHER corpse form when i was trying to res was still at the zoneline'
+[Wed Oct 23 10:05:46 2002] Sylvaria tells you, 'that one I got fine.. but i died within 2 feet of eachother'
+[Wed Oct 23 10:05:54 2002] Sylvaria says, 'down here'
+[Wed Oct 23 10:06:24 2002] Sylvaria says, 'my item'd corpse was right about here'
+[Wed Oct 23 10:06:29 2002] You say, 'when locate corpse is cast, where does it point?'
+[Wed Oct 23 10:06:33 2002] Skex tells you, 'can i please have a moment of your time. I have been trying to get thru to a gm now for 4 days w/o any luck'
+[Wed Oct 23 10:06:39 2002] Sylvaria says, 'into that wall'
+[Wed Oct 23 10:06:43 2002] Sylvaria says, 'aiming towards DSP'
+[Wed Oct 23 10:06:45 2002] You told Skex, 'please petition, thank you'
+[Wed Oct 23 10:07:06 2002] Skex begins to cast a spell. (Arch Lich)
+[Wed Oct 23 10:07:09 2002] Skex begins to cast a spell. (Augmentation of Death)
+[Wed Oct 23 10:07:47 2002] You told Sylvaria, 'well, I don't know how it got to where it is, but it doesn't appear bugged'
+[Wed Oct 23 10:08:02 2002] Summoning sylvaria's corpse0.
+[Wed Oct 23 10:08:04 2002] You feel as if you are about to fall.
+[Wed Oct 23 10:08:08 2002] You say, 'Hail, Sylvaria's corpse'
+[Wed Oct 23 10:08:08 2002] Sylvaria tells you, 'Kicked my corpselcoater into logging that char back on.. lets try again'
+[Wed Oct 23 10:08:10 2002] You feel as if you are about to fall.
+[Wed Oct 23 10:08:17 2002] You can no longer levitate.
+[Wed Oct 23 10:08:19 2002] Lias begins to cast a spell. (Locate Corpse)
+[Wed Oct 23 10:08:19 2002] You told Sylvaria, 'turn around'
+[Wed Oct 23 10:08:34 2002] Lias says, 'LOL'
+[Wed Oct 23 10:08:39 2002] Lias bonks Sylvaria on the head!
+[Wed Oct 23 10:08:43 2002] Sylvaria begins to cast a spell. (Reviviscence)
+[Wed Oct 23 10:08:45 2002] Sylvaria says, 'thanks'
+[Wed Oct 23 10:08:54 2002] You say, 'how couldn't you find THAT? Sheesh'
+[Wed Oct 23 10:08:57 2002] Sylvaria says, 'while yer here'
+[Wed Oct 23 10:08:58 2002] You shrug at Sylvaria.
+[Wed Oct 23 10:09:13 2002] Sylvaria says, 'when I looted my naked corpse after res, it didnt poof.. I looted agian and got a 2nd trak idol off it.. thats fubard right?'
+[Wed Oct 23 10:09:25 2002] You say, 'yes, that's buggy'
+[Wed Oct 23 10:09:33 2002] You say, 'but since they are lore, not a real problem'
+[Wed Oct 23 10:09:47 2002] Sylvaria says, 'not showing as lore when I rightclick'
+[Wed Oct 23 10:09:57 2002] Sylvaria says, 'Trakanon Idol'
+[Wed Oct 23 10:10:01 2002] You say, 'trak idol = OS key?'
+[Wed Oct 23 10:10:07 2002] You no longer have a target.
+[Wed Oct 23 10:10:07 2002] You no longer have a target.
+[Wed Oct 23 10:10:17 2002] Sylvaria says, 'Seb key aye'
+[Wed Oct 23 10:10:33 2002] You say, 'huh... thought they were lore... still... just delete the spare'
+[Wed Oct 23 10:10:49 2002] Octavionn`s familiar says 'As you wish, oh great one.'
+[Wed Oct 23 10:10:53 2002] Kamee begins to cast a spell. (Tunare's Renewal)
+[Wed Oct 23 10:10:56 2002] Octavionn cheers at Sylvaria.
+[Wed Oct 23 10:10:58 2002] Sylvaria bows before Espranza.
+[Wed Oct 23 10:11:01 2002] Octavionn begins to cast a spell. (Barrier of Force)
+[Wed Oct 23 10:11:03 2002] Myshra says out of character, 'stop using that horse exploit octavionn'
+[Wed Oct 23 10:11:03 2002] Sylvaria is infused with the healing force of nature.
+[Wed Oct 23 10:11:06 2002] Sylvaria says, 'now I can go back to sleep :-P'
+[Wed Oct 23 10:11:12 2002] Kamee begins to cast a spell. (Chloroblast)
+[Wed Oct 23 10:11:24 2002] Kamee says, 'Train is inc in asec'
+[Wed Oct 23 10:11:27 2002] Kamee says, 'Farewarned'
+[Wed Oct 23 10:11:28 2002] Octavionn says out of character, 'the one where i catch you, or the one that indignation keeps summoning until they are oor then try to exp kill me :P'
+[Wed Oct 23 10:11:40 2002] Myshra says out of character, 'the former'
+[Wed Oct 23 10:11:50 2002] You GMSAY, '<note> Sylvaria CSTH7JR corpse mysteriously moved from dying spot during patch. Gave her the benefit of the doubt when she brought a person who could locate corpse who clearly was finding it in the wrong direction.'
+[Wed Oct 23 10:11:55 2002] Kamee begins to cast a spell. (Summon Food)
+[Wed Oct 23 10:11:56 2002] DELETING THIS PETITION
+[Wed Oct 23 10:11:57 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Wed Oct 23 10:12:00 2002] Octavionn says out of character, 'lol. i admit it, i've haxored my steed to run down druids :( take me away'
+[Wed Oct 23 10:12:01 2002] Dazmaz says out of character, 'Train to DS'
+[Wed Oct 23 10:12:01 2002] LOADING, PLEASE WAIT...
+[Wed Oct 23 10:12:23 2002] You have entered Sunset Home.
+[Wed Oct 23 10:12:31 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 10:12:32 2002] USER TEXT: my charcter gedce is stuc in innothul swamp when i tried to zone in swamp i got kicked pff to sever screen and every time i try to log him on i get kicked off  hes been stuc since sat. i was told by guides a gm had to do walk threw 
+[Wed Oct 23 10:12:32 2002] GM TEXT: 
+[Wed Oct 23 10:12:32 2002] Players in EverQuest:
+[Wed Oct 23 10:12:32 2002] ---------------------------
+
+[Wed Oct 23 10:12:32 2002] [ANON (13 Bard)] Nickholaus (Human) ZONE: everfrost (USER PID EXQ6929) 
+[Wed Oct 23 10:12:32 2002] There is 1 player in EverQuest.
+[Wed Oct 23 10:13:20 2002] You told Nickholaus, 'Hail, Nickholaus! Guide Espranza here. have you tried deleting your innothule and feerrott files from your EverQuest folder, repatching, and trying again?'
+[Wed Oct 23 10:13:22 2002] Your feet leave the ground.
+[Wed Oct 23 10:13:53 2002] Nickholaus tells you, 'nope '
+[Wed Oct 23 10:14:10 2002] You told Nickholaus, 'try that, it often fixes the problem. if it doesn't, please petition again.'
+[Wed Oct 23 10:14:13 2002] DELETING THIS PETITION
+[Wed Oct 23 10:14:16 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 10:14:17 2002] USER TEXT: how do u talk to other servers?
+[Wed Oct 23 10:14:17 2002] GM TEXT: 
+[Wed Oct 23 10:14:17 2002] Players in EverQuest:
+[Wed Oct 23 10:14:17 2002] ---------------------------
+
+[Wed Oct 23 10:14:17 2002] [5 Shadow Knight] Zerdo (Iksar)  ZONE: cabeast (USER PID GWNXMCC) 
+[Wed Oct 23 10:14:17 2002] There is 1 player in EverQuest.
+[Wed Oct 23 10:14:19 2002] Nickholaus tells you, 'k'
+[Wed Oct 23 10:15:20 2002] You told Zerdo, 'Hail, Zerdo! Guide Espranza here. Try ;t <server>.<charname> <msg>, where <server> is the server code (like tallon for us), <charname> is who you want to talk to, and <msg> is what you want to say'
+[Wed Oct 23 10:15:38 2002] DELETING THIS PETITION
+[Wed Oct 23 10:15:41 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Oct 23 10:15:42 2002] USER TEXT: i would like to talk to a gm
+[Wed Oct 23 10:15:42 2002] GM TEXT: 
+[Wed Oct 23 10:15:42 2002] Players in EverQuest:
+[Wed Oct 23 10:15:42 2002] ---------------------------
+
+[Wed Oct 23 10:15:42 2002] [ANON (60 Warlock)] Skex (Gnome) ZONE: maiden (USER PID DN73UFL) 
+[Wed Oct 23 10:15:42 2002] There is 1 player in EverQuest.
+[Wed Oct 23 10:15:45 2002] Zerdo tells you, 'ok thank you'
+[Wed Oct 23 10:15:54 2002] You told Skex, 'Hail, Skex! Guide Espranza here. How may I help you?'
+[Wed Oct 23 10:16:01 2002] You told Zerdo, 'be well, and safe journey to you!'
+[Wed Oct 23 10:16:08 2002] Zerdo tells you, 'thanks'
+[Wed Oct 23 10:17:34 2002] Zerdo tells you, 'i put /vallon zek /tell (charname) then msg didnt work'
+[Wed Oct 23 10:17:46 2002] Skex tells you, '3 nights ago now my guild was having some fun in greigs end. A scythe of sundering dropped and was awared to me. Unfortunately Lonrid, an officer looted it while inspecting. I talked with chattel as soon as it happened and he/she said my petition will be esculated to a GM. I also used the "conntact your GM" link on the EQ website'
+[Wed Oct 23 10:18:03 2002] Skex tells you, 'think i could get the item transfered? it is no drop'
+[Wed Oct 23 10:18:05 2002] You told Zerdo, 'try ;t vallon.charname blah blah blah'
+[Wed Oct 23 10:18:16 2002] Zerdo tells you, 'ok'
+[Wed Oct 23 10:18:51 2002] Zerdo tells you, 'kool thanks alot'
+[Wed Oct 23 10:19:19 2002] You told Skex, 'Well, I will escalate this matter to a GM, and we'll see what they can do for you. I will also post it on the GM section of the guide boards so they'll be certain to see it.'
+[Wed Oct 23 10:19:23 2002] You told Zerdo, 'no problem )'
+[Wed Oct 23 10:19:44 2002] Skex tells you, 'ok, although i thought you were a GM?'
+[Wed Oct 23 10:20:01 2002] You told Skex, 'Just a guide, alas, but I do what I can.'
+[Wed Oct 23 10:20:42 2002] GM Text added:  Espranza: Scythe of Sundering won by him was accidentally looted by Lonrid; he would like to see if the item can be given to him instead.
+[Wed Oct 23 10:20:46 2002] STATUS UPGRADED TO URGENT
+[Wed Oct 23 10:20:47 2002] STATUS UPGRADED TO EMERGENCY
+[Wed Oct 23 10:21:04 2002] Skex tells you, 'ok. It never seems that GMs get back to me though. Ive had my petition asculated many times now'
+[Wed Oct 23 10:21:43 2002] You GMSAY, '<note gm> Skex DN73UFL 69 gnome necro says a guild officer, Lonrid, accidentally looted a Scythe of Sundering that Skex won, and would like it transferred.'
+[Wed Oct 23 10:21:56 2002] You told Skex, 'I'll do my best to grab their attention...'
+[Wed Oct 23 10:21:59 2002] CHECKING IN
+[Wed Oct 23 10:22:05 2002] Skex tells you, 'alright, thanks'
+[Wed Oct 23 10:22:14 2002] You told Skex, 'be well, good luck!'
+[Wed Oct 23 10:22:19 2002] UNDOING CHECK OUT
+[Wed Oct 23 10:22:22 2002] Players in EverQuest:
+[Wed Oct 23 10:22:22 2002] ---------------------------
+
+[Wed Oct 23 10:22:22 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Wed Oct 23 10:22:22 2002] There is 1 player in EverQuest.
+[Wed Oct 23 10:22:27 2002] You GMSAY, 'I'm out, so long'
+[Wed Oct 23 10:22:30 2002] It will take you about 30 seconds to prepare your camp.
+[Wed Oct 23 10:22:34 2002] It will take about 25 more seconds to prepare your camp.
+[Wed Oct 23 10:22:39 2002] It will take about 20 more seconds to prepare your camp.
+[Wed Oct 23 10:22:44 2002] It will take about 15 more seconds to prepare your camp.
+[Wed Oct 23 10:22:49 2002] It will take about 10 more seconds to prepare your camp.
+[Wed Oct 23 10:22:54 2002] It will take about 5 more seconds to prepare your camp.
+[Wed Oct 23 10:23:01 2002] You abandon your preparations to camp.
+[Wed Oct 23 10:23:26 2002] 00000:Fatal Error Occurred in winMain/Eventthread

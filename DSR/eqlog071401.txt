@@ -1,0 +1,933 @@
+[Sat Jul 14 17:32:45 2001] Welcome to EverQuest!
+[Sat Jul 14 17:32:45 2001] You have entered Sunset Home.
+[Sat Jul 14 17:32:45 2001] MESSAGE OF THE DAY: Welcome to EQ! The Cleric Best of the Best Tournament will be held on July 16th at 4pm PST in the Arena Zone. All Clerics 54+ are invited to attend. For rules and more information regarding the event, please see www.everquest.com.
+[Sat Jul 14 17:32:53 2001] Savlyn GMSAYS, 'I'll pick you up in a sec'
+[Sat Jul 14 17:32:55 2001] You GMSAY, 'Hiya!'
+[Sat Jul 14 17:32:56 2001] Players in EverQuest:
+[Sat Jul 14 17:32:56 2001] ---------------------------
+[Sat Jul 14 17:32:56 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 14 17:32:56 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: ecommons (USER PID EUGBAB8)
+[Sat Jul 14 17:32:56 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: kithicor (USER PID CW1ECN5)
+[Sat Jul 14 17:32:56 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: swampofnohope (USER PID HR6C7H5)
+[Sat Jul 14 17:32:56 2001] There are 4 players in EverQuest.
+[Sat Jul 14 17:32:57 2001] Swiftmoor GMSAYS, 'It's ok, I'm getting used to it :)'
+[Sat Jul 14 17:33:06 2001] You GMSAY, 'I can get you if ya like, Swift!'
+[Sat Jul 14 17:33:09 2001] Savlyn GMSAYS, 'Hiya Espramza'
+[Sat Jul 14 17:33:20 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 14 17:33:21 2001] USER TEXT: this person in Qeynos named Brohan Ironforge keeps falling formt he sky then disappears and he keeps doing it really fast, I think something might be wrong with him
+[Sat Jul 14 17:33:21 2001] Players in EverQuest:
+[Sat Jul 14 17:33:21 2001] ---------------------------
+[Sat Jul 14 17:33:21 2001] [1 Paladin] Teoldar (Half Elf) ZONE: qeynos2 (USER PID FRJ39JY)
+[Sat Jul 14 17:33:21 2001] There is 1 player in EverQuest.
+[Sat Jul 14 17:33:30 2001] Swiftmoor GMSAYS, 'well hello Espranza'
+[Sat Jul 14 17:33:37 2001] You GMSAY, 'Nice to see you again!'
+[Sat Jul 14 17:33:47 2001] You GMSAY, 'zone'
+[Sat Jul 14 17:33:53 2001] Teleporting to swiftmoor.
+[Sat Jul 14 17:33:54 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 17:34:30 2001] You have entered Swamp Of No Hope.
+[Sat Jul 14 17:34:37 2001] You invite Swiftmoor to join your group.
+[Sat Jul 14 17:34:38 2001] Swiftmoor says, 'how's the water?'
+[Sat Jul 14 17:34:41 2001] You have formed the group.
+[Sat Jul 14 17:34:52 2001] You tell your party, 'omg, I was just here on my play char'
+[Sat Jul 14 17:34:58 2001] Swiftmoor tells the group, 'LOL'
+[Sat Jul 14 17:35:03 2001] You tell your party, 'deja vu'
+[Sat Jul 14 17:35:03 2001] Swiftmoor tells the group, 'never been in TT'
+[Sat Jul 14 17:35:18 2001] Swiftmoor tells the group, 'was on my way, but the queue got busy'
+[Sat Jul 14 17:35:22 2001] You tell your party, 'heh'
+[Sat Jul 14 17:35:38 2001] You tell your party, 'gotta check out a free falling dwarf in Queynos'
+[Sat Jul 14 17:35:45 2001] You GMSAY, 'zone'
+[Sat Jul 14 17:35:46 2001] Swiftmoor tells the group, 'ok'
+[Sat Jul 14 17:36:15 2001] You tell your party, 'or maybe no zone'
+[Sat Jul 14 17:36:20 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 17:36:46 2001] You have entered North Qeynos.
+[Sat Jul 14 17:36:46 2001] You have formed the group.
+[Sat Jul 14 17:36:50 2001] USER TEXT: this person in Qeynos named Brohan Ironforge keeps falling formt he sky then disappears and he keeps doing it really fast, I think something might be wrong with him
+[Sat Jul 14 17:36:54 2001] Novia auctions, 'WTS BABS 24/39+3SVP Essence of Dol 10/28 sec mnk '
+[Sat Jul 14 17:36:56 2001] Nemjar auctions, 'well see'
+[Sat Jul 14 17:36:58 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Sat Jul 14 17:36:58 2001] Swiftmoor tells the group, 'heh'
+[Sat Jul 14 17:37:01 2001] Searching for brohan_ironforge.
+[Sat Jul 14 17:37:02 2001] Could not locate player with that name.
+[Sat Jul 14 17:37:02 2001] Nemjar auctions, 'lol'
+[Sat Jul 14 17:37:04 2001] Searching for brohan_ironforge00.
+[Sat Jul 14 17:37:04 2001] Player is in zone qeynos2 at x = 120 y = -4 z = 3.
+[Sat Jul 14 17:37:05 2001] Teleporting to Brohan_Ironforge00 (119.00,   5.00,   8.50).
+[Sat Jul 14 17:37:28 2001] Brohan Ironforge says 'Guards!!  Come quickly!! 
+[Sat Jul 14 17:37:28 2001] Brohan Ironforge feels a bit dispelled.
+[Sat Jul 14 17:37:31 2001] Brohan Ironforge hits YOU for 5 points of damage.
+[Sat Jul 14 17:37:36 2001] Brohan Ironforge blinks a few times.
+[Sat Jul 14 17:37:36 2001] You can't use that command right now...
+[Sat Jul 14 17:37:36 2001] Brohan Ironforge blinks a few times.
+[Sat Jul 14 17:37:36 2001] You can't use that command right now...
+[Sat Jul 14 17:37:36 2001] Brohan Ironforge blinks a few times.
+[Sat Jul 14 17:37:37 2001] You can't use that command right now...
+[Sat Jul 14 17:37:37 2001] Brohan Ironforge blinks a few times.
+[Sat Jul 14 17:37:37 2001] Brohan Ironforge blinks a few times.
+[Sat Jul 14 17:37:43 2001] Corporal Lancot begins to cast a spell. (Valor)
+[Sat Jul 14 17:37:52 2001] Brohan Ironforge looks your way apprehensively -- You could probably win this fight.
+[Sat Jul 14 17:37:54 2001] You say, 'Hail, Brohan Ironforge'
+[Sat Jul 14 17:37:54 2001] You say, 'Hail, Brohan Ironforge'
+[Sat Jul 14 17:37:55 2001] You say, 'Hail, Brohan Ironforge'
+[Sat Jul 14 17:37:56 2001] You say, 'Hail, Brohan Ironforge'
+[Sat Jul 14 17:37:57 2001] Brohan Ironforge says 'Please, leave me be alone. I have such sorrow in my heart.. I wish to be alone with my thoughts. 
+[Sat Jul 14 17:38:07 2001] You say, 'what is wrong, Brohan'
+[Sat Jul 14 17:38:08 2001] Brohan Ironforge says 'My daughter Tayla has left and I fear she will not return. If only I could find someone.. Hey, would you like to do a favor for an old man or are you too busy? 
+[Sat Jul 14 17:38:18 2001] You say, 'I don't do favors for old men'
+[Sat Jul 14 17:38:22 2001] You say, 'I'm not that kind of girl'
+[Sat Jul 14 17:38:43 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Sat Jul 14 17:38:46 2001] Swiftmoor tells the group, 'last night was my first day on since buffing day that I found any guides on, so I have to put in some good time today.'
+[Sat Jul 14 17:39:03 2001] You tell your party, 'I can be on past 6pm Pacific most nights'
+[Sat Jul 14 17:39:10 2001] You tell your party, 'just send me an ICQ and I can be sure of it'
+[Sat Jul 14 17:39:27 2001] Swiftmoor GMSAYS, 'deleting Wipl, name change request wouldn't be approved'
+[Sat Jul 14 17:39:33 2001] Hurrieta Ironforge says 'My roses are growing quite well. 
+[Sat Jul 14 17:39:35 2001] You tell your party, 'what name did he want?'
+[Sat Jul 14 17:39:38 2001] Savlyn GMSAYS, 'I had a petition earlier for an appearance of Tunare at a Multi Guild event tomorrow at 1pm PST in WC is that possible?'
+[Sat Jul 14 17:39:39 2001] Swiftmoor tells the group, 'ok'
+[Sat Jul 14 17:39:53 2001] Layn auctions, 'WTB: Medium banded mail and boots'
+[Sat Jul 14 17:40:10 2001] You told Teoldar, 'Hail, Teoldar! Guide Espranza here... you're right, he looks a little jittery, but he still gives his quests so I don't want to kill him.'
+[Sat Jul 14 17:40:13 2001] Swiftmoor tells the group, 'he wanted to change from Dgrocerson, to D`Grocerson. Lirus said no because it could be saw as The Grocer Son'
+[Sat Jul 14 17:40:17 2001] Lashun Novashine shouts 'Cease this endless conflict and seek salvation in the Temple of Life!  The glory of Rodcet Nife awaits you! 
+[Sat Jul 14 17:40:20 2001] Swiftmoor tells the group, 'Grocer's Son*'
+[Sat Jul 14 17:40:27 2001] You tell your party, 'yeah, that's not allowable :)'
+[Sat Jul 14 17:40:41 2001] Lirus GMSAYS, './shrug'
+[Sat Jul 14 17:40:42 2001] Teoldar tells you, 'Oh, ok, I tried to hail him though and he didn't do anything'
+[Sat Jul 14 17:40:46 2001] Lirus GMSAYS, 'I don't think so'
+[Sat Jul 14 17:40:48 2001] Swiftmoor tells the group, 'yeah, he wasn't too pleased about it.'
+[Sat Jul 14 17:40:58 2001] Thornbush tells you, 'member me?'
+[Sat Jul 14 17:41:02 2001] Lirus GMSAYS, 'we can't really offer that kind of service 24 hours a day therefore it would be unfair'
+[Sat Jul 14 17:41:07 2001] You told Teoldar, 'he eventually offered me the quest'
+[Sat Jul 14 17:41:15 2001] Wumble is looking at your equipment...
+[Sat Jul 14 17:41:16 2001] Wumble is looking at your equipment...
+[Sat Jul 14 17:41:16 2001] Teoldar tells you, 'ahh alright,w ell,t hank you'
+[Sat Jul 14 17:41:17 2001] Lirus GMSAYS, 'and creates favoritism and offering things we cannot be cinsistant with'
+[Sat Jul 14 17:41:19 2001] Savlyn GMSAYS, 'Where would you post a request of that nature?'
+[Sat Jul 14 17:41:19 2001] You told Thornbush, 'name seems familiar...'
+[Sat Jul 14 17:41:22 2001] Thornbush tells you, 'lol'
+[Sat Jul 14 17:41:26 2001] Swiftmoor tells the group, 'now he wants to know why his current name was accepted then. Is Dgrocerson a possible naming violation?'
+[Sat Jul 14 17:41:31 2001] Lirus GMSAYS, 'consistant'
+[Sat Jul 14 17:41:31 2001] Wumble is looking at your equipment...
+[Sat Jul 14 17:41:38 2001] You tell your party, 'no'
+[Sat Jul 14 17:41:39 2001] Lirus GMSAYS, 'it is not something we can offer the players'
+[Sat Jul 14 17:41:45 2001] Savlyn GMSAYS, 'Oh Ok'
+[Sat Jul 14 17:42:01 2001] Swiftmoor tells the group, 'it's not approved by an actual person is it?'
+[Sat Jul 14 17:42:10 2001] Novia auctions, 'WTS BABS 24/39+3SVP Essence of Dol 10/28 sec mnk '
+[Sat Jul 14 17:42:16 2001] You tell your party, 'last names? I don't think they are'
+[Sat Jul 14 17:42:22 2001] Hurrieta Ironforge says 'My roses are growing quite well. 
+[Sat Jul 14 17:42:27 2001] You tell your party, 'or if they are, bad ones might still get through'
+[Sat Jul 14 17:42:33 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Sat Jul 14 17:42:35 2001] DELETING THIS PETITION
+[Sat Jul 14 17:42:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 14 17:42:37 2001] USER TEXT: Lirus, i am at wits end on this character transfer. i put in my request to have a character moved from one account to this account, same server. this was 7 days ago. if you can help me with any information, it would be appreciated.
+[Sat Jul 14 17:42:37 2001] Players in EverQuest:
+[Sat Jul 14 17:42:38 2001] ---------------------------
+[Sat Jul 14 17:42:38 2001] [22 Rogue] Sankin (Gnome) <Magic Incorporated> ZONE: crushbone (USER PID AZPX9KQ)
+[Sat Jul 14 17:42:38 2001] There is 1 player in EverQuest.
+[Sat Jul 14 17:43:53 2001] Thornbush tells you, 'bah'
+[Sat Jul 14 17:44:04 2001] You told Sankin, 'Hail, Sankin! Guide Espranza here. Lirus doesn't do the character transfers and they're done as time permits by another group... you'll have to send email to eqcs@station.sony.com for more info about your specific account.'
+[Sat Jul 14 17:44:08 2001] You told Thornbush, 'bah?'
+[Sat Jul 14 17:44:18 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Sat Jul 14 17:44:20 2001] You told Thornbush, 'Work on that - try BAH!'
+[Sat Jul 14 17:44:23 2001] Thornbush tells you, 'u helpeme once and we got to talkin caouse ur the only halflin uide i evrsaw'
+[Sat Jul 14 17:44:30 2001] Thornbush tells you, 'sry, kitin atm'
+[Sat Jul 14 17:44:37 2001] Swiftmoor GMSAYS, 'pulling Vigor'
+[Sat Jul 14 17:44:41 2001] You told Thornbush, 'heh I think maybe I do remember you then!'
+[Sat Jul 14 17:44:44 2001] Thornbush tells you, 'lol'
+[Sat Jul 14 17:44:48 2001] You told Thornbush, 'I'm the only halfling guide on this server'
+[Sat Jul 14 17:44:52 2001] Thornbush tells you, 'hhe'
+[Sat Jul 14 17:45:01 2001] Port Authority Officer shouts 'Hear ye, hear ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! 
+[Sat Jul 14 17:45:02 2001] Thornbush tells you, 'halflins rule'
+[Sat Jul 14 17:45:10 2001] Thornbush tells you, 'wanna come help me with this kill?'
+[Sat Jul 14 17:45:10 2001] You told Thornbush, 'you betcha!'
+[Sat Jul 14 17:45:11 2001] Hurrieta Ironforge says 'My roses are growing quite well. 
+[Sat Jul 14 17:45:13 2001] Thornbush tells you, 'cmon u know u wanna'
+[Sat Jul 14 17:45:14 2001] You told Thornbush, 'LOL!'
+[Sat Jul 14 17:45:21 2001] Thornbush tells you, 'lol'
+[Sat Jul 14 17:45:24 2001] Swiftmoor tells the group, 'player says he got a 56 rez, but got no exp back. no corpse right now. Is there anything we can do?'
+[Sat Jul 14 17:45:31 2001] Thornbush tells you, 'im dyin here'
+[Sat Jul 14 17:45:34 2001] You tell your party, 'not without a corpse we can't.'
+[Sat Jul 14 17:45:41 2001] You told Thornbush, 'run! gate!'
+[Sat Jul 14 17:45:45 2001] Thornbush tells you, 'lol i can'
+[Sat Jul 14 17:45:46 2001] Savlyn GMSAYS, '****Leaping from one neighborhood to the next**** '
+[Sat Jul 14 17:45:58 2001] Thornbush tells you, 'or u can come and rescue me!'
+[Sat Jul 14 17:46:43 2001] Lashun Novashine shouts 'Cease this endless conflict and seek salvation in the Temple of Life!  The glory of Rodcet Nife awaits you! 
+[Sat Jul 14 17:46:46 2001] You told Thornbush, 'no no cannot do that'
+[Sat Jul 14 17:46:50 2001] Espranza saved.
+[Sat Jul 14 17:47:25 2001] Fippy Darkpaw shouts '<BBBBBAAAARRRKKKK!!!!!>  You humans will pay for ruining our homeland!!  GRRRRRRRR!!!!  Family Darkpaw of the Sabretooth Clan will slay you all!!  <BARK!> 
+[Sat Jul 14 17:47:26 2001] You GMSAY, 'esc Sankin to me - talked to him but no response'
+[Sat Jul 14 17:47:41 2001] STATUS UPGRADED TO URGENT
+[Sat Jul 14 17:47:43 2001] CHECKING IN
+[Sat Jul 14 17:47:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 14 17:47:46 2001] USER TEXT: Hi, our group member evaced us to EJ and I dropped as i zoned.  Now i can not log in with Cyrric (the char i was playing) but I know it is not the Kunark Patch because this guy is in LOIO right now.  Thank you for your time
+[Sat Jul 14 17:47:46 2001] Players in EverQuest:
+[Sat Jul 14 17:47:46 2001] ---------------------------
+[Sat Jul 14 17:47:46 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 14 17:48:00 2001] Hurrieta Ironforge says 'My roses are growing quite well. 
+[Sat Jul 14 17:48:16 2001] Swiftmoor GMSAYS, 'deleting Vigor, no exp on rez, but no longer has a corpse'
+[Sat Jul 14 17:48:21 2001] Savlyn GMSAYS, '****Leaping from one neighborhood to the next**** '
+[Sat Jul 14 17:48:27 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Jul 14 17:48:29 2001] CHECKING IN
+[Sat Jul 14 17:48:31 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 14 17:48:31 2001] USER TEXT: Hm Epic mob caught in tree
+[Sat Jul 14 17:48:32 2001] Players in EverQuest:
+[Sat Jul 14 17:48:32 2001] ---------------------------
+[Sat Jul 14 17:48:32 2001] [60 Assassin] Makker (Dwarf) <Heroic Few> ZONE: fearplane (USER PID CNETS0Y)
+[Sat Jul 14 17:48:32 2001] There is 1 player in EverQuest.
+[Sat Jul 14 17:48:53 2001] You told Makker, 'Hail, Makker! Guide Espranza here. A live mob or a dead mob in tree?'
+[Sat Jul 14 17:48:59 2001] Makker tells you, 'Live'
+[Sat Jul 14 17:49:06 2001] Savlyn GMSAYS, '****Leaping from one neighborhood to the next**** '
+[Sat Jul 14 17:49:06 2001] Makker tells you, 'Iksar child///'
+[Sat Jul 14 17:49:15 2001] Swiftmoor GMSAYS, 'afk a sec'
+[Sat Jul 14 17:49:34 2001] You told Makker, 'can you use knockback spells to get it out?'
+[Sat Jul 14 17:49:37 2001] Makker tells you, 'Trying to pull out with AoE'
+[Sat Jul 14 17:49:40 2001] Makker tells you, 'can't target'
+[Sat Jul 14 17:49:50 2001] You told Makker, 'snare maybe?'
+[Sat Jul 14 17:49:55 2001] You told Makker, 'or some other no damage spell?'
+[Sat Jul 14 17:49:59 2001] Grimolkin says out of character, 'Can i get a bind please'
+[Sat Jul 14 17:50:04 2001] Makker tells you, 'Can't Target it...'
+[Sat Jul 14 17:50:15 2001] Brohan Ironforge says 'Please, leave me be alone. I have such sorrow in my heart.. I wish to be alone with my thoughts. 
+[Sat Jul 14 17:50:17 2001] Brohan Ironforge says 'Please, leave me be alone. I have such sorrow in my heart.. I wish to be alone with my thoughts. 
+[Sat Jul 14 17:50:20 2001] You told Makker, 'righto'
+[Sat Jul 14 17:50:25 2001] Teoldar says, 'Hail, Brohan Ironforge'
+[Sat Jul 14 17:50:25 2001] Brohan Ironforge says 'Please, leave me be alone. I have such sorrow in my heart.. I wish to be alone with my thoughts. 
+[Sat Jul 14 17:50:37 2001] Port Authority Officer shouts 'Hear ye, hear ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! 
+[Sat Jul 14 17:50:39 2001] Teoldar says, 'why do you have sorrow in your heart?'
+[Sat Jul 14 17:50:48 2001] Teoldar says, 'What is worng with him?'
+[Sat Jul 14 17:50:48 2001] Hurrieta Ironforge says 'My roses are growing quite well. 
+[Sat Jul 14 17:50:58 2001] You say, 'what is wrong?'
+[Sat Jul 14 17:50:59 2001] Brohan Ironforge says 'My daughter Tayla has left and I fear she will not return. If only I could find someone.. Hey, would you like to do a favor for an old man or are you too busy? 
+[Sat Jul 14 17:51:00 2001] Codicier begins to cast a spell. (Spirit of Wolf)
+[Sat Jul 14 17:51:01 2001] Swiftmoor GMSAYS, 'back'
+[Sat Jul 14 17:51:11 2001] You say, 'I shouldn't do that :) see ya'
+[Sat Jul 14 17:51:14 2001] You tell your party, 'welcome back'
+[Sat Jul 14 17:51:23 2001] Teoldar says, 'hehe thank you'
+[Sat Jul 14 17:51:32 2001] Teoldar says, 'Yes'
+[Sat Jul 14 17:51:36 2001] Teoldar says, 'I will help you'
+[Sat Jul 14 17:51:36 2001] Brohan Ironforge says 'Good. Please find my daughter, Tayla Ironforge. Bring me proof that she is safe. She was last seen near Nektulos. I am a fine blacksmith and I shall give you a worthy gift if you do this for me. 
+[Sat Jul 14 17:51:38 2001] Swiftmoor tells the group, 'thanks. now to find my way into TT'
+[Sat Jul 14 17:51:39 2001] You say, 'quest works, just have to ask the right way'
+[Sat Jul 14 17:51:48 2001] You tell your party, 'follow the river east'
+[Sat Jul 14 17:52:01 2001] Teoldar says, 'ahhh, I am used to seeing the brackets aorund the words'
+[Sat Jul 14 17:52:15 2001] Savlyn GMSAYS, '****Leaping from one neighborhood to the next**** '
+[Sat Jul 14 17:52:19 2001] You GMSAY, 'zone'
+[Sat Jul 14 17:52:23 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 17:52:41 2001] You have entered Sunset Home.
+[Sat Jul 14 17:52:42 2001] You have formed the group.
+[Sat Jul 14 17:52:54 2001] Swiftmoor tells the group, 'here we go, I kept going OVER the cave'
+[Sat Jul 14 17:52:59 2001] You tell your party, 'heh'
+[Sat Jul 14 17:53:03 2001] DELETING THIS PETITION
+[Sat Jul 14 17:53:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 14 17:53:05 2001] USER TEXT: Went LD in CoM while in a fight, came back and was still in CoM but had corpse in EJ.
+[Sat Jul 14 17:53:05 2001] Players in EverQuest:
+[Sat Jul 14 17:53:05 2001] ---------------------------
+[Sat Jul 14 17:53:05 2001] [47 Ranger] Tchallar (Half Elf) <Random Acts> ZONE: citymist (USER PID FSU1E4R)
+[Sat Jul 14 17:53:05 2001] There is 1 player in EverQuest.
+[Sat Jul 14 17:53:15 2001] UNDOING CHECK OUT
+[Sat Jul 14 17:53:17 2001] Makker tells you, 'NM now we gotit'
+[Sat Jul 14 17:53:23 2001] You told Makker, 'woot! good deal!'
+[Sat Jul 14 17:53:38 2001] Makker tells you, 'Make a big feedback about it spawning in tree'
+[Sat Jul 14 17:53:43 2001] Makker tells you, 'ehh big = bug'
+[Sat Jul 14 17:53:55 2001] Makker tells you, 'At neg 1145 neg 264'
+[Sat Jul 14 17:54:03 2001] Swiftmoor tells the group, 'LOL, doh, my swimming skill got reset when I got buffed'
+[Sat Jul 14 17:54:45 2001] The spirit leaves you.
+[Sat Jul 14 17:55:12 2001] Savlyn tells the guild, 'Question: Is there a way I don't know about to raise my elevation? ie..I was just checking on a corpse in SolA and I couldn't get out myself nor shadow step out'
+[Sat Jul 14 17:55:23 2001] Your group has been disbanded.
+[Sat Jul 14 17:56:31 2001] Swiftmoor GMSAYS, 'ARg'
+[Sat Jul 14 17:56:41 2001] Savlyn GMSAYS, 'Whats up?'
+[Sat Jul 14 17:56:55 2001] Swiftmoor GMSAYS, 'Zoned to a new place (sorry, no warning) and I got diconnected'
+[Sat Jul 14 17:57:04 2001] You GMSAY, 'I'll get ya again'
+[Sat Jul 14 17:57:21 2001] You say to your guild, 'Sav, zone to the zone again'
+[Sat Jul 14 17:57:22 2001] You GMSAY, 'zone'
+[Sat Jul 14 17:57:24 2001] Swiftmoor GMSAYS, 'I have 2 comps with internet connection sharing on, I get booted once in a while zoning'
+[Sat Jul 14 17:57:26 2001] Teleporting to swiftmoor.
+[Sat Jul 14 17:57:29 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 17:57:57 2001] Savlyn tells the guild, 'kept ending up right next to myself'
+[Sat Jul 14 17:57:59 2001] You have entered Trakanon's Teeth.
+[Sat Jul 14 17:58:03 2001] You invite Swiftmoor to join your group.
+[Sat Jul 14 17:58:06 2001] You have formed the group.
+[Sat Jul 14 17:58:10 2001] Swiftmoor tells the group, 'Hiya'
+[Sat Jul 14 17:58:13 2001] Swiftmoor tells the group, 'thanks'
+[Sat Jul 14 17:58:14 2001] You say to your guild, 'zone to cshome, zone to soldunga'
+[Sat Jul 14 17:58:17 2001] You tell your party, 'hi again!'
+[Sat Jul 14 17:58:26 2001] Swiftmoor GMSAYS, 'pulling Tchallar'
+[Sat Jul 14 17:58:27 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 14 17:58:27 2001] USER TEXT: help please! my corpse is stuck on a boat and i cant get it off and its on the way to ot!
+[Sat Jul 14 17:58:27 2001] Players in EverQuest:
+[Sat Jul 14 17:58:27 2001] ---------------------------
+[Sat Jul 14 17:58:27 2001] [ANON (55 Evoker)] Halfdan (High Elf) ZONE: timorous (USER PID HY6MHT0)
+[Sat Jul 14 17:58:27 2001] There is 1 player in EverQuest.
+[Sat Jul 14 17:58:34 2001] You GMSAY, 'zone'
+[Sat Jul 14 17:58:43 2001] Searching zones for corpse of that name....
+[Sat Jul 14 17:58:43 2001] Corpse: Halfdan's corpse0 in zone: timorous
+[Sat Jul 14 17:58:47 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 17:59:21 2001] You have entered Timorous Deep.
+[Sat Jul 14 17:59:21 2001] You have formed the group.
+[Sat Jul 14 17:59:26 2001] It begins to rain.
+[Sat Jul 14 17:59:28 2001] You feel the spirit of Norrath enter you.
+[Sat Jul 14 17:59:29 2001] Your feet leave the ground.
+[Sat Jul 14 17:59:32 2001] You feel the spirit of Z surround you.
+[Sat Jul 14 17:59:37 2001] Teleporting to halfdan's corpse0.
+[Sat Jul 14 17:59:48 2001] Savlyn GMSAYS, '****Leaping from one neighborhood to the next**** '
+[Sat Jul 14 18:00:14 2001] Teleporting to an_ogre_wise_one00.
+[Sat Jul 14 18:00:24 2001] Teleporting to ogre_wise_one00.
+[Sat Jul 14 18:00:31 2001] Teleporting to ogre_wise_one01.
+[Sat Jul 14 18:00:37 2001] Searching for ogre_raider00.
+[Sat Jul 14 18:00:37 2001] Halfdan says out of character, 'FOOKing rain'
+[Sat Jul 14 18:00:37 2001] Could not locate player with that name.
+[Sat Jul 14 18:00:41 2001] Searching for ogre_raider01.
+[Sat Jul 14 18:00:41 2001] Could not locate player with that name.
+[Sat Jul 14 18:00:48 2001] Teleporting to halfdan.
+[Sat Jul 14 18:00:58 2001] Summoning halfdan's corpse0.
+[Sat Jul 14 18:01:16 2001] You bow before Halfdan.
+[Sat Jul 14 18:01:21 2001] Halfdan says, 'hello'
+[Sat Jul 14 18:01:21 2001] DELETING THIS PETITION
+[Sat Jul 14 18:01:26 2001] You say, 'Hiya!'
+[Sat Jul 14 18:01:31 2001] Halfdan says, 'bad corpse now the gms here=)'
+[Sat Jul 14 18:01:41 2001] You say, 'heh I pulled it for you'
+[Sat Jul 14 18:01:49 2001] Halfdan says, 'still cant move=('
+[Sat Jul 14 18:01:55 2001] Bloka says, 'you can't loot on boats can you?'
+[Sat Jul 14 18:02:05 2001] You say, 'pretty inventive though - you were riding the boat doing /corpse?'
+[Sat Jul 14 18:02:12 2001] Halfdan says, 'well u see'
+[Sat Jul 14 18:02:35 2001] You say, 'you could jump off the boat, pull corpse, loot and gate?'
+[Sat Jul 14 18:02:55 2001] Halfdan says, 'then my corpse gose well you neevr fed me today so im not moveing act'
+[Sat Jul 14 18:03:07 2001] You say, 'oh yech'
+[Sat Jul 14 18:03:19 2001] Halfdan says, 'i fear it will be lost if i zome'
+[Sat Jul 14 18:03:29 2001] You say, 'it'll just sink to the sea'
+[Sat Jul 14 18:03:36 2001] You say, 'lemme check something out'
+[Sat Jul 14 18:03:38 2001] Glairb Stonebelly shouts 'Too bad, you missed da Bloated Belly.  It be back soon, though! 
+[Sat Jul 14 18:03:54 2001] Grenabulax says, 'when do i get off'
+[Sat Jul 14 18:04:11 2001] Halfdan tells you, 'what do i do?'
+[Sat Jul 14 18:04:22 2001] Summoning halfdan's corpse0.
+[Sat Jul 14 18:04:26 2001] Summoning halfdan.
+[Sat Jul 14 18:04:42 2001] You say, 'try looting now'
+[Sat Jul 14 18:04:42 2001] Halfdan says, 'you scarted me thought fay summoned me=P'
+[Sat Jul 14 18:04:45 2001] Halfdan says, 'thanks=)'
+[Sat Jul 14 18:04:47 2001] You say, 'heh'
+[Sat Jul 14 18:04:59 2001] Halfdan says, 'lol no i gotta drag ot to show again i need a rez form a cleric=)'
+[Sat Jul 14 18:05:15 2001] You say, 'you can't drag corpses through zones'
+[Sat Jul 14 18:05:23 2001] Halfdan says, 'i know i ment oaiss docks'
+[Sat Jul 14 18:05:30 2001] Halfdan says, 'i was there when corpse went mean'
+[Sat Jul 14 18:05:36 2001] You say, 'oooh'
+[Sat Jul 14 18:05:40 2001] Halfdan says, 'to oaiss docks so a cleric will rez=)'
+[Sat Jul 14 18:05:52 2001] You say, 'you mean the TD side'
+[Sat Jul 14 18:05:53 2001] Halfdan says, 'no clerics rez if they walk accros the sea=)'
+[Sat Jul 14 18:05:58 2001] Halfdan nods at Halfdan.
+[Sat Jul 14 18:06:01 2001] Halfdan nods at Espranza.
+[Sat Jul 14 18:06:08 2001] Searching for ogre_raider00.
+[Sat Jul 14 18:06:09 2001] Could not locate player with that name.
+[Sat Jul 14 18:06:14 2001] Searching for ogre_wise_one00.
+[Sat Jul 14 18:06:14 2001] Could not locate player with that name.
+[Sat Jul 14 18:06:16 2001] Searching for ogre_wise_one01.
+[Sat Jul 14 18:06:16 2001] Could not locate player with that name.
+[Sat Jul 14 18:06:17 2001] Searching for ogre_wise_one02.
+[Sat Jul 14 18:06:17 2001] Could not locate player with that name.
+[Sat Jul 14 18:06:18 2001] Searching for ogre_wise_one03.
+[Sat Jul 14 18:06:19 2001] Could not locate player with that name.
+[Sat Jul 14 18:06:22 2001] Players on EverQuest:
+[Sat Jul 14 18:06:22 2001] ---------------------------
+[Sat Jul 14 18:06:22 2001] [50 Druid] Bilbryy (Unknown) <Fortitude Vindcit>
+[Sat Jul 14 18:06:22 2001] [ANONYMOUS] Halfdan 
+[Sat Jul 14 18:06:22 2001] [27 Shadow Knight] Bloka (Ogre) <Fallen Gods>
+[Sat Jul 14 18:06:22 2001] [ANONYMOUS] Anaria 
+[Sat Jul 14 18:06:22 2001] [19 Bard] Banjomino (Half Elf)
+[Sat Jul 14 18:06:22 2001] [ANONYMOUS] Kynder 
+[Sat Jul 14 18:06:22 2001] [19 Ranger] Grenabulax (Wood Elf) <Destinys Disciples>
+[Sat Jul 14 18:06:22 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sat Jul 14 18:06:22 2001] There are 8 players in Timorous Deep.
+[Sat Jul 14 18:06:25 2001] Halfdan says, 'thanks for the help now ill try again=)'
+[Sat Jul 14 18:06:28 2001] Halfdan thanks Espranza heartily.
+[Sat Jul 14 18:06:36 2001] You say, 'wouldn't happen to know someone already there...'
+[Sat Jul 14 18:06:43 2001] Halfdan says, 'huh?'
+[Sat Jul 14 18:06:48 2001] Players on EverQuest:
+[Sat Jul 14 18:06:48 2001] ---------------------------
+[Sat Jul 14 18:06:48 2001] There are no players in Timorous Deep that match those who filters.
+[Sat Jul 14 18:06:55 2001] You say, 'is there a cleric there?'
+[Sat Jul 14 18:07:05 2001] Players in EverQuest:
+[Sat Jul 14 18:07:05 2001] ---------------------------
+[Sat Jul 14 18:07:05 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 14 18:07:15 2001] Halfdan says, 'no im pulling to show then im gonan look for one that way when i find one ill be rezed=)'
+[Sat Jul 14 18:07:21 2001] You say, 'ah gotcha'
+[Sat Jul 14 18:07:33 2001] Halfdan thanks Espranza heartily.
+[Sat Jul 14 18:07:37 2001] You bow before Halfdan.
+[Sat Jul 14 18:07:39 2001] Halfdan says, 'bye=)'
+[Sat Jul 14 18:07:43 2001] You say, 'see ya!'
+[Sat Jul 14 18:07:45 2001] Halfdan begins to cast a spell. (Invisibility)
+[Sat Jul 14 18:07:50 2001] Halfdan fades away.
+[Sat Jul 14 18:08:53 2001] Bilbryy auctions, 'WTB Jade Reaver'
+[Sat Jul 14 18:09:24 2001] Espranza saved.
+[Sat Jul 14 18:10:32 2001] Anaria auctions, 'WTS batfang headband 2ac 3 wis 3 int,only 125pp'
+[Sat Jul 14 18:10:34 2001] Anaria auctions, 'WTS sheer bone mask,3ac 3 int,200pp good price !'
+[Sat Jul 14 18:10:50 2001] You GMSAY, 'this guy lost his corpse in TD, so he was taking the boat along the route he died, doing /corpse. Now THAT'S inventive.'
+[Sat Jul 14 18:11:17 2001] You feel the spirit of Norrath enter you.
+[Sat Jul 14 18:11:18 2001] Your feet leave the ground.
+[Sat Jul 14 18:11:19 2001] Savlyn GMSAYS, 'Did he get it ?'
+[Sat Jul 14 18:11:29 2001] Swiftmoor GMSAYS, 'hehe, using the boat as a sweeper. hope it passes close by'
+[Sat Jul 14 18:11:31 2001] You GMSAY, 'yes, but he couldn't loot it once it was on the boat'
+[Sat Jul 14 18:11:53 2001] You GMSAY, 'he was worried he'd zone and have to do it all over'
+[Sat Jul 14 18:11:54 2001] Swiftmoor GMSAYS, 'LOL, dang the luck'
+[Sat Jul 14 18:11:54 2001] Bilbryy auctions, 'WTB Jade Reaver'
+[Sat Jul 14 18:12:27 2001] Swiftmoor GMSAYS, 'deleting Tchaller, helped him understand where he was bound :)'
+[Sat Jul 14 18:12:33 2001] You GMSAY, 'most of the time the petition comes way before that point :)'
+[Sat Jul 14 18:13:03 2001] You say to your guild, 'isn't this very slow for a weekend?'
+[Sat Jul 14 18:13:26 2001] Savlyn tells the guild, 'I was very busy earlier'
+[Sat Jul 14 18:13:47 2001] Swiftmoor tells the group, 'interresting place'
+[Sat Jul 14 18:13:58 2001] You say to your guild, 'since there was no training today, I was able to get another piece of my epic - one more to go'
+[Sat Jul 14 18:14:11 2001] Savlyn tells the guild, 'Sweet =)'
+[Sat Jul 14 18:14:19 2001] You say to your guild, 'Just have to kill Feydedar now'
+[Sat Jul 14 18:14:25 2001] Searching for Feydedar00.
+[Sat Jul 14 18:14:25 2001] Could not locate player with that name.
+[Sat Jul 14 18:14:49 2001] Anaria auctions, 'WTS batfang headband 2ac 3 wis 3 int,only 125pp'
+[Sat Jul 14 18:14:52 2001] Anaria auctions, 'WTS sheer bone mask,3ac 3 int,200pp good price !'
+[Sat Jul 14 18:14:55 2001] Anaria auctions, 'WTS CBB 4ac 5 wis 400pp,plz send tells'
+[Sat Jul 14 18:15:11 2001] You say to your guild, 'as well as kill a rogue epic mob and camp Kael arena... :) busy morning'
+[Sat Jul 14 18:16:15 2001] Players in EverQuest:
+[Sat Jul 14 18:16:15 2001] ---------------------------
+[Sat Jul 14 18:16:15 2001] There are no players in EverQuest that match those who filters.
+[Sat Jul 14 18:16:17 2001] You GMSAY, 'zone'
+[Sat Jul 14 18:16:21 2001] Teleporting to swiftmoor.
+[Sat Jul 14 18:16:22 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 18:16:58 2001] You have entered Trakanon's Teeth.
+[Sat Jul 14 18:16:59 2001] You have formed the group.
+[Sat Jul 14 18:17:36 2001] Players in EverQuest:
+[Sat Jul 14 18:17:36 2001] ---------------------------
+[Sat Jul 14 18:17:36 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: trakanon (USER PID AUGBQH4)
+[Sat Jul 14 18:17:37 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: westwastes (USER PID CW1ECN5)
+[Sat Jul 14 18:17:37 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: najena (USER PID EUGBAB8)
+[Sat Jul 14 18:17:37 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: trakanon (USER PID HR6C7H5)
+[Sat Jul 14 18:17:37 2001] There are 4 players in EverQuest.
+[Sat Jul 14 18:18:32 2001] Swiftmoor GMSAYS, 'pulling Tayana'
+[Sat Jul 14 18:18:40 2001] You GMSAY, 'how rude'
+[Sat Jul 14 18:18:44 2001] Swiftmoor GMSAYS, '?'
+[Sat Jul 14 18:18:55 2001] You GMSAY, 'unless it was a consensual pull :)'
+[Sat Jul 14 18:19:16 2001] Swiftmoor GMSAYS, 'heh'
+[Sat Jul 14 18:19:24 2001] Swiftmoor tells the group, 'did I steal this from you?'
+[Sat Jul 14 18:19:33 2001] You tell your party, 'no no...'
+[Sat Jul 14 18:19:49 2001] You tell your party, 'you were pulling her, ya see... and... ah never mind :) bad joke'
+[Sat Jul 14 18:19:52 2001] Swiftmoor tells the group, 'heh, you can have it if you REALLY want it'
+[Sat Jul 14 18:20:17 2001] You tell your party, 'all yours!'
+[Sat Jul 14 18:20:24 2001] You tell your party, 'are you on your way to Sebilis?'
+[Sat Jul 14 18:20:24 2001] Swiftmoor tells the group, 'no no, go ahead, I like bad jokes'
+[Sat Jul 14 18:20:46 2001] Swiftmoor tells the group, 'naw, just want to walk to every zone before I get promoted'
+[Sat Jul 14 18:21:03 2001] You tell your party, 'nice goal! make Garretlynn proud!'
+[Sat Jul 14 18:21:09 2001] Swiftmoor tells the group, 'But I might swing by and take a look'
+[Sat Jul 14 18:21:24 2001] You tell your party, 'I get lost going there, every time'
+[Sat Jul 14 18:21:37 2001] You tell your party, 'finally had to bind myself there'
+[Sat Jul 14 18:22:00 2001] Swiftmoor tells the group, 'Yeah, I get lost in these Kunark outdoor zones all the time'
+[Sat Jul 14 18:22:12 2001] You tell your party, 'the entry way to Sebilis is a maze'
+[Sat Jul 14 18:22:22 2001] Swiftmoor tells the group, 'heh'
+[Sat Jul 14 18:22:23 2001] You tell your party, 'get lost or lose camo and you have stuff all over you'
+[Sat Jul 14 18:22:29 2001] You tell your party, 'me hates'
+[Sat Jul 14 18:22:54 2001] Swiftmoor tells the group, 'I was going to go check out Emperor Ganak really quick before I headed over'
+[Sat Jul 14 18:23:08 2001] You tell your party, 'you were on the other side of the zone from him'
+[Sat Jul 14 18:23:24 2001] Swiftmoor tells the group, 'I was, but I'm working my way over there slowly'
+[Sat Jul 14 18:23:27 2001] You tell your party, 'ah heh'
+[Sat Jul 14 18:23:45 2001] Your feet leave the ground.
+[Sat Jul 14 18:23:52 2001] Swiftmoor tells the group, 'Pet got a divorce and wants the surname removed? escalate?'
+[Sat Jul 14 18:24:03 2001] You tell your party, 'esc to red'
+[Sat Jul 14 18:24:17 2001] You tell your party, 'find out what name they need first, and who they got divorced from'
+[Sat Jul 14 18:24:22 2001] You tell your party, 'add all that to append text'
+[Sat Jul 14 18:25:06 2001] Swiftmoor tells the group, 'ok'
+[Sat Jul 14 18:26:16 2001] Players on EverQuest:
+[Sat Jul 14 18:26:16 2001] ---------------------------
+[Sat Jul 14 18:26:16 2001] [54 Wanderer] Lewellyn (Unknown) <Reviction>
+[Sat Jul 14 18:26:16 2001] * GM * [20 Monk] Swiftmoor (Iksar)
+[Sat Jul 14 18:26:16 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sat Jul 14 18:26:16 2001] There are 3 players in Trakanon's Teeth.
+[Sat Jul 14 18:26:59 2001] Swiftmoor GMSAYS, 'escalating Tayana to red, requesting removal of surname after divorce'
+[Sat Jul 14 18:27:04 2001] Espranza saved.
+[Sat Jul 14 18:27:57 2001] Swiftmoor tells the group, 'so who is Garrentlynn?'
+[Sat Jul 14 18:28:21 2001] You tell your party, 'another guide'
+[Sat Jul 14 18:28:26 2001] Swiftmoor tells the group, 'oh wow, this is pretty cool'
+[Sat Jul 14 18:28:27 2001] You tell your party, 'his big thing is exploring zones by foot'
+[Sat Jul 14 18:29:11 2001] Swiftmoor tells the group, 'I play a penny pinching ranger and hate paying for ports, so I'm always running places.'
+[Sat Jul 14 18:29:48 2001] You tell your party, 'My main is a druid - but my alt is a freespending lev 49 warrior who would rather run than beg'
+[Sat Jul 14 18:30:27 2001] You tell your party, 'but I'll pay well for a port if I really need one'
+[Sat Jul 14 18:30:40 2001] Xebariz tells you, 'hey!!! i have more info to share with you on the red headband quest in SK, Ghanex and all the others did spawn, and Ghanex spanwed where he usually did at the undead camp, just so ya know!!!'
+[Sat Jul 14 18:30:44 2001] Swiftmoor tells the group, 'early fletching ruined my rangers budget, so I used what he had left to quest my alternate cleric quest armor'
+[Sat Jul 14 18:30:57 2001] You told Xebariz, 'woot!'
+[Sat Jul 14 18:31:03 2001] Xebariz tells you, 'hehehe =)))'
+[Sat Jul 14 18:31:06 2001] You told Xebariz, 'now that is GOOD news!'
+[Sat Jul 14 18:31:11 2001] Xebariz tells you, 'yeah!!!'
+[Sat Jul 14 18:31:20 2001] You tell your party, 'I have up fletching at about 140'
+[Sat Jul 14 18:31:25 2001] Swiftmoor tells the group, 'we have a lot of druids in my guild, so it's not much of a problem anymore'
+[Sat Jul 14 18:31:26 2001] Xebariz tells you, 'so if any more monks like me give ya trouble, you know that they're spawning right now =)'
+[Sat Jul 14 18:31:28 2001] Savlyn GMSAYS, '****Zoneing****'
+[Sat Jul 14 18:31:32 2001] Xebariz tells you, 'hehe'
+[Sat Jul 14 18:31:33 2001] You tell your party, 'gave up I mean. was getting too expensive.'
+[Sat Jul 14 18:31:36 2001] Swiftmoor tells the group, 'I have 168 or so.'
+[Sat Jul 14 18:31:40 2001] You told Xebariz, 'thanks so much!'
+[Sat Jul 14 18:31:42 2001] Xebariz tells you, 'welcome!'
+[Sat Jul 14 18:31:46 2001] Xebariz tells you, '=)'
+[Sat Jul 14 18:31:56 2001] Swiftmoor tells the group, 'Yeah, too expensive and hardly any chance at all making money with it'
+[Sat Jul 14 18:32:04 2001] You GMSAY, '<note issue> Xebariz reports monk red headband quest IS working and quest mobs DO spawn.'
+[Sat Jul 14 18:32:19 2001] You tell your party, 'I just wanted to make a nice darkwood bow for me'
+[Sat Jul 14 18:32:24 2001] Swiftmoor tells the group, 'but I got my cleric to 175 in smithing really cheaply'
+[Sat Jul 14 18:32:31 2001] You tell your party, 'I only ever use class 2 arrows anyway though'
+[Sat Jul 14 18:32:49 2001] Swiftmoor tells the group, 'hehe, Once a ranger saw what I was using, he felt sorry for me and gave me his trueshot'
+[Sat Jul 14 18:32:56 2001] Swiftmoor tells the group, 'I then quested the Raincaller'
+[Sat Jul 14 18:33:03 2001] You tell your party, 'lucky! using a spectral right now. Raincaller is NICE.'
+[Sat Jul 14 18:33:31 2001] Swiftmoor tells the group, 'yeah, but I neglected my archery for too long, it's at like 158 or something pathetic'
+[Sat Jul 14 18:33:39 2001] You tell your party, 'what level is your ranger'
+[Sat Jul 14 18:33:44 2001] Swiftmoor tells the group, '47'
+[Sat Jul 14 18:34:03 2001] You tell your party, 'hmm... my archery at 49 is not up to that yet'
+[Sat Jul 14 18:34:10 2001] You tell your party, 'pretty close though'
+[Sat Jul 14 18:34:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 14 18:34:36 2001] USER TEXT: how do you do a animation with an emote that is different?
+[Sat Jul 14 18:34:36 2001] Players in EverQuest:
+[Sat Jul 14 18:34:36 2001] ---------------------------
+[Sat Jul 14 18:34:36 2001] [50 Druid] Bilbryy (Wood Elf) <Fortitude Vindcit> ZONE: timorous (USER PID FN1ZJP2)
+[Sat Jul 14 18:34:36 2001] There is 1 player in EverQuest.
+[Sat Jul 14 18:34:38 2001] Swiftmoor tells the group, 'I talk to fellow rangers with better bows and 200 skill, they say it's damage dealing is really good with a nice quiver'
+[Sat Jul 14 18:34:48 2001] You tell your party, 'I have a storebought quiver'
+[Sat Jul 14 18:34:53 2001] Swiftmoor tells the group, 'me too.'
+[Sat Jul 14 18:35:04 2001] Swiftmoor tells the group, 'Like I said, cheap'
+[Sat Jul 14 18:35:04 2001] You GMSAY, 'zone'
+[Sat Jul 14 18:35:09 2001] Teleporting to bilbryy.
+[Sat Jul 14 18:35:11 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 18:35:42 2001] You have entered Timorous Deep.
+[Sat Jul 14 18:35:42 2001] You have formed the group.
+[Sat Jul 14 18:35:49 2001] Bilbryy says, 'hi gnome wannabe'
+[Sat Jul 14 18:35:57 2001] You feel different.
+[Sat Jul 14 18:35:57 2001] Thornbush tells you, 'died sniff'
+[Sat Jul 14 18:36:02 2001] Bilbryy says, 'LOL'
+[Sat Jul 14 18:36:03 2001] Neosage giggles at Espranza.
+[Sat Jul 14 18:36:05 2001] You told Thornbush, 'doh!'
+[Sat Jul 14 18:36:06 2001] You say, 'what wannabe'
+[Sat Jul 14 18:36:06 2001] You feel as if you are about to fall.
+[Sat Jul 14 18:36:11 2001] Bilbryy says, 'uhh nothing'
+[Sat Jul 14 18:36:12 2001] Neosage says out of character, 'there is only 1 true gome :)'
+[Sat Jul 14 18:36:12 2001] You feel as if you are about to fall.
+[Sat Jul 14 18:36:16 2001] Swiftmoor GMSAYS, 'pulling Jarmal'
+[Sat Jul 14 18:36:17 2001] You say, 'okay lemme show you'
+[Sat Jul 14 18:36:18 2001] Neosage says out of character, 'gnome'
+[Sat Jul 14 18:36:18 2001] You can no longer levitate.
+[Sat Jul 14 18:36:30 2001] You emote 'grabs Bilbryy's ears and shakes him'
+[Sat Jul 14 18:36:35 2001] Bilbryy says, 'LOl'
+[Sat Jul 14 18:36:41 2001] Neosage says, 'Espranza are you single?'
+[Sat Jul 14 18:36:41 2001] Bilbryy says, 'tell me how please'
+[Sat Jul 14 18:36:45 2001] Bilbryy says, 'LOL'
+[Sat Jul 14 18:36:46 2001] Your illusion fades.
+[Sat Jul 14 18:36:46 2001] You feel a bit dispelled.
+[Sat Jul 14 18:36:47 2001] Neosage says, 'look at this'
+[Sat Jul 14 18:36:51 2001] You say, 'I can't stand gnome form'
+[Sat Jul 14 18:36:55 2001] You no longer have a target.
+[Sat Jul 14 18:36:57 2001] Neosage says, 'watch'
+[Sat Jul 14 18:37:00 2001] Neosage licks some of his Ice Cream.
+[Sat Jul 14 18:37:01 2001] You say, 'okay'
+[Sat Jul 14 18:37:02 2001] Neosage licks some of his Ice Cream.
+[Sat Jul 14 18:37:04 2001] Neosage licks some of his Ice Cream.
+[Sat Jul 14 18:37:06 2001] Neosage licks some of his Ice Cream.
+[Sat Jul 14 18:37:06 2001] Bilbryy says, 'your yawning huh'
+[Sat Jul 14 18:37:06 2001] Thornbush tells you, 'somethinsbuggd here'
+[Sat Jul 14 18:37:08 2001] You say, 'Wow!'
+[Sat Jul 14 18:37:11 2001] Neosage licks some of his Ice Cream.
+[Sat Jul 14 18:37:12 2001] Bilbryy says, 'SPAM'
+[Sat Jul 14 18:37:13 2001] Neosage says, 'heheh! :)'
+[Sat Jul 14 18:37:15 2001] You say, 'Neo knows all about it'
+[Sat Jul 14 18:37:21 2001] Neosage says, 'yep :)'
+[Sat Jul 14 18:37:29 2001] You say, 'basically do the emote like /yawn say licks some of his Ice Cream'
+[Sat Jul 14 18:37:32 2001] Neosage says, 'me smart gnome'
+[Sat Jul 14 18:37:38 2001] You told Thornbush, '?'
+[Sat Jul 14 18:37:43 2001] Thornbush tells you, 'sec'
+[Sat Jul 14 18:37:50 2001] Swiftmoor GMSAYS, 'in a duel, if a pet kills the player will there be exp loss?'
+[Sat Jul 14 18:37:52 2001] Bilbryy licks some of his Ice Cream.
+[Sat Jul 14 18:37:57 2001] Bilbryy says, 'thanks'
+[Sat Jul 14 18:37:59 2001] Bilbryy says, 'i love j00!!'
+[Sat Jul 14 18:38:02 2001] Neosage says, 'Espranza your the bestest'
+[Sat Jul 14 18:38:03 2001] Savlyn GMSAYS, 'Yes'
+[Sat Jul 14 18:38:04 2001] Bilbryy says, 'i gotta eat dinner now'
+[Sat Jul 14 18:38:06 2001] You say, 'thankee!'
+[Sat Jul 14 18:38:07 2001] You no longer have a target.
+[Sat Jul 14 18:38:08 2001] You wave goodbye to everyone.
+[Sat Jul 14 18:38:10 2001] Neosage waves goodbye to Espranza.
+[Sat Jul 14 18:38:11 2001] You say, 'be well!'
+[Sat Jul 14 18:38:13 2001] DELETING THIS PETITION
+[Sat Jul 14 18:38:17 2001] You GMSAY, 'zone'
+[Sat Jul 14 18:38:20 2001] Bilbryy says, 'byebye'
+[Sat Jul 14 18:38:21 2001] Neosage says, 'you too!'
+[Sat Jul 14 18:38:21 2001] You feel the spirit of Z surround you.
+[Sat Jul 14 18:38:21 2001] You feel the spirit of Z surround you.
+[Sat Jul 14 18:38:22 2001] You feel the spirit of Z surround you.
+[Sat Jul 14 18:38:23 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 18:38:41 2001] You have entered Sunset Home.
+[Sat Jul 14 18:38:41 2001] You have formed the group.
+[Sat Jul 14 18:38:46 2001] Players in EverQuest:
+[Sat Jul 14 18:38:46 2001] ---------------------------
+[Sat Jul 14 18:38:46 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 14 18:38:46 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: lavastorm (USER PID EUGBAB8)
+[Sat Jul 14 18:38:46 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: westwastes (USER PID CW1ECN5)
+[Sat Jul 14 18:38:46 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: trakanon (USER PID HR6C7H5)
+[Sat Jul 14 18:38:46 2001] There are 4 players in EverQuest.
+[Sat Jul 14 18:38:51 2001] Savlyn GMSAYS, 'If they died to being Charmed, DoT'd or Pet there is XP loss'
+[Sat Jul 14 18:39:31 2001] Swiftmoor GMSAYS, 'being killed by a LD player too'
+[Sat Jul 14 18:39:44 2001] Swiftmoor GMSAYS, '<==== learned the hard way'
+[Sat Jul 14 18:39:48 2001] You GMSAY, 'duels run the risk of experience loss, and there's nothing we can do about that'
+[Sat Jul 14 18:40:02 2001] You GMSAY, 'if they want to fight they should go to an arena'
+[Sat Jul 14 18:40:09 2001] Savlyn GMSAYS, 'His pet will remain for 30 sec after LD some stay longer'
+[Sat Jul 14 18:41:02 2001] Players in EverQuest:
+[Sat Jul 14 18:41:02 2001] ---------------------------
+[Sat Jul 14 18:41:02 2001] [51 Elementalist] Polard (Gnome) <Hunters of the Undead> ZONE: hole (USER PID DPGA3Z4)
+[Sat Jul 14 18:41:02 2001] [ANON (44 Enchanter)] Sadia (High Elf) ZONE: hole (USER PID HRZR3SG)
+[Sat Jul 14 18:41:02 2001] [53 Mystic] Zuse (Barbarian) <Civis Macto> ZONE: hole (USER PID CNZWEWP)
+[Sat Jul 14 18:41:02 2001] [51 Mystic] Jaroraa (Barbarian) <Civis Macto> ZONE: hole (USER PID FP4ZMZJ)
+[Sat Jul 14 18:41:02 2001] [52 Champion] Saball (Barbarian) <Civis Macto> ZONE: hole (USER PID DPFRWRE)
+[Sat Jul 14 18:41:02 2001] [49 Magician] Strathos (High Elf) <Civis Macto> ZONE: hole (USER PID DN7AB1U)
+[Sat Jul 14 18:41:02 2001] [ANON (47 Cleric)] Esskatt (High Elf) ZONE: hole (USER PID CS81YVG)
+[Sat Jul 14 18:41:02 2001] There are 7 players in EverQuest.
+[Sat Jul 14 18:41:08 2001] Players in EverQuest:
+[Sat Jul 14 18:41:08 2001] ---------------------------
+[Sat Jul 14 18:41:08 2001] [ANON (51 Wanderer)] Tumble (Halfling) ZONE: droga (USER PID HSBSPEF)
+[Sat Jul 14 18:41:08 2001] There is 1 player in EverQuest.
+[Sat Jul 14 18:41:19 2001] Your feet leave the ground.
+[Sat Jul 14 18:41:42 2001] You GMSAY, 'zone'
+[Sat Jul 14 18:41:47 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 18:42:19 2001] You have entered Kaesora.
+[Sat Jul 14 18:42:19 2001] You have formed the group.
+[Sat Jul 14 18:42:25 2001] Swiftmoor GMSAYS, 'Jarmal in ecommons'
+[Sat Jul 14 18:42:31 2001] Alukuba begins to cast a spell. (Char)
+[Sat Jul 14 18:42:41 2001] Savlyn GMSAYS, 'No this EastWastes LOL'
+[Sat Jul 14 18:42:44 2001] Qalary begins to cast a spell. (Calefaction)
+[Sat Jul 14 18:42:52 2001] Teleporting to spectral_minion.
+[Sat Jul 14 18:42:54 2001] Krone waves at Espranza.
+[Sat Jul 14 18:42:54 2001] Teleporting to spectral_minion00.
+[Sat Jul 14 18:42:58 2001] Teleporting to a_spectral_minion00.
+[Sat Jul 14 18:42:59 2001] Swiftmoor GMSAYS, 'hehe'
+[Sat Jul 14 18:42:59 2001] Alukuba waves at Espranza.
+[Sat Jul 14 18:43:02 2001] You say, 'hi!'
+[Sat Jul 14 18:43:09 2001] Krone says, 'hi'
+[Sat Jul 14 18:43:10 2001] Teleporting to a_skeletal_minion00.
+[Sat Jul 14 18:43:15 2001] Teleporting to skeletal_minion00.
+[Sat Jul 14 18:43:15 2001] Alukuba says, 'hi small friend :)'
+[Sat Jul 14 18:43:28 2001] Swiftmoor GMSAYS, 'deleting Jarmal, pet killed friend and lost exp.'
+[Sat Jul 14 18:43:29 2001] Searching for xalgoz00.
+[Sat Jul 14 18:43:29 2001] Could not locate player with that name.
+[Sat Jul 14 18:43:52 2001] Swiftmoor tells the group, 'wow, funky shadowing bug'
+[Sat Jul 14 18:44:02 2001] You tell your party, 'hmm?'
+[Sat Jul 14 18:44:34 2001] Swiftmoor tells the group, 'just a graphical glitch where some polygons meet'
+[Sat Jul 14 18:44:40 2001] You tell your party, 'ah'
+[Sat Jul 14 18:46:05 2001] It is 8 PM on Friday, the 6th day of March, of the year 3210.
+[Sat Jul 14 18:46:05 2001] Earth Time: Sat Jul 14 18:46:05 2001
+[Sat Jul 14 18:46:05 2001] strathbone spider begins to cast a spell. (Engulfing Darkness)
+[Sat Jul 14 18:46:13 2001] strathbone spider begins to cast a spell. (Shock of Poison)
+[Sat Jul 14 18:46:16 2001] Krone begins to cast a spell. (Force)
+[Sat Jul 14 18:46:19 2001] Alukuba begins to cast a spell. (Char)
+[Sat Jul 14 18:46:27 2001] Qalary begins to cast a spell. (Ensnare)
+[Sat Jul 14 18:46:30 2001] Swiftmoor tells the group, 'is the portal to old sebilis a clickable thing, or walk into thing?'
+[Sat Jul 14 18:46:30 2001] Strathbone spider has been ensnared.
+[Sat Jul 14 18:46:31 2001] strathbone spider begins to cast a spell. (Shock of Poison)
+[Sat Jul 14 18:46:33 2001] strathbone spider begins to cast a spell. (Cancel Magic)
+[Sat Jul 14 18:46:37 2001] strathbone spider regains concentration and continues casting.
+[Sat Jul 14 18:46:37 2001] Krone feels a bit dispelled.
+[Sat Jul 14 18:46:41 2001] Krone begins to cast a spell. (Force)
+[Sat Jul 14 18:46:42 2001] You tell your party, 'it's a keyed dungeon'
+[Sat Jul 14 18:46:44 2001] Qalary begins to cast a spell. (Greater Healing)
+[Sat Jul 14 18:46:46 2001] Krone begins to cast a spell. (Force)
+[Sat Jul 14 18:46:47 2001] Krone feels much better.
+[Sat Jul 14 18:46:48 2001] You tell your party, 'you hold the key to the orb and click'
+[Sat Jul 14 18:46:49 2001] frenzied strathbone begins to cast a spell. (Dark Empathy)
+[Sat Jul 14 18:46:52 2001] Alukuba yells for help from behind you and to the right.
+[Sat Jul 14 18:46:52 2001] Qalary begins to cast a spell. (Greater Healing)
+[Sat Jul 14 18:46:53 2001] Swiftmoor tells the group, 'ok, so no worries of me going there then'
+[Sat Jul 14 18:46:54 2001] Strathbone spider's wounds disappear.
+[Sat Jul 14 18:46:56 2001] Alukuba says, 'help'
+[Sat Jul 14 18:46:56 2001] Alukuba feels much better.
+[Sat Jul 14 18:46:58 2001] frenzied strathbone begins to cast a spell. (Dark Empathy)
+[Sat Jul 14 18:47:00 2001] Qalary begins to cast a spell. (Greater Healing)
+[Sat Jul 14 18:47:08 2001] You tell your party, 'don't click on it'
+[Sat Jul 14 18:47:18 2001] You tell your party, 'we can pass through'
+[Sat Jul 14 18:47:23 2001] Swiftmoor tells the group, 'don't plan on it'
+[Sat Jul 14 18:47:24 2001] You GMSAY, 'zone'
+[Sat Jul 14 18:47:25 2001] Swiftmoor tells the group, 'ok'
+[Sat Jul 14 18:47:27 2001] Teleporting to swiftmoor.
+[Sat Jul 14 18:47:27 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 18:47:55 2001] You have entered Trakanon's Teeth.
+[Sat Jul 14 18:47:55 2001] You have formed the group.
+[Sat Jul 14 18:48:35 2001] Players on EverQuest:
+[Sat Jul 14 18:48:35 2001] ---------------------------
+[Sat Jul 14 18:48:35 2001] [57 Templar] Aelini (High Elf) <Thunderwalkers>
+[Sat Jul 14 18:48:35 2001] * GM * [20 Monk] Swiftmoor (Iksar)
+[Sat Jul 14 18:48:35 2001] [54 Wanderer] Lewellyn (Unknown) <Reviction>
+[Sat Jul 14 18:48:35 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sat Jul 14 18:48:35 2001] There are 4 players in Trakanon's Teeth.
+[Sat Jul 14 18:48:41 2001] Teleporting to lewellyn.
+[Sat Jul 14 18:48:47 2001] Teleporting to aelini.
+[Sat Jul 14 18:48:51 2001] Swiftmoor tells the group, 'you weren't kidding, this is a maze'
+[Sat Jul 14 18:48:56 2001] You no longer have a target.
+[Sat Jul 14 18:49:00 2001] You tell your party, 'I hate it'
+[Sat Jul 14 18:49:08 2001] Lirus GMSAYS, 'zOne'
+[Sat Jul 14 18:49:20 2001] Your Location is -2060.11, -4403.86, -355.97
+[Sat Jul 14 18:49:45 2001] You tell your party, 'come to N2050 N4400'
+[Sat Jul 14 18:49:53 2001] Swiftmoor tells the group, 'ok'
+[Sat Jul 14 18:49:54 2001] You feel the spirit of Norrath enter you.
+[Sat Jul 14 18:50:12 2001] You GMSAY, 'zone'
+[Sat Jul 14 18:50:14 2001] You opened the locked door with your magic GM key.
+[Sat Jul 14 18:50:14 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 18:50:53 2001] You have entered Ruins of Sebilis.
+[Sat Jul 14 18:50:54 2001] You have formed the group.
+[Sat Jul 14 18:51:11 2001] Players on EverQuest:
+[Sat Jul 14 18:51:11 2001] ---------------------------
+[Sat Jul 14 18:51:11 2001] [53 Pathfinder] Narak (Human) <Temple of Dawn>
+[Sat Jul 14 18:51:11 2001] [51 Channeler] Calwen (High Elf) <Janissaries>
+[Sat Jul 14 18:51:11 2001] [ANONYMOUS] Naleen 
+[Sat Jul 14 18:51:11 2001] [54 Illusionist] Elliphaz (Erudite) <Temple of Dawn>
+[Sat Jul 14 18:51:11 2001] [ANONYMOUS] Klailie  <Temple of Dawn>
+[Sat Jul 14 18:51:11 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sat Jul 14 18:51:11 2001] There are 6 players in Old Sebilis.
+[Sat Jul 14 18:51:16 2001] Savlyn GMSAYS, '****Zoneing****'
+[Sat Jul 14 18:51:18 2001] You tell your party, 'sheesh 5 people in OS'
+[Sat Jul 14 18:51:27 2001] You tell your party, 'this sure isn't emarr'
+[Sat Jul 14 18:51:39 2001] Swiftmoor tells the group, 'hee'
+[Sat Jul 14 18:51:49 2001] froglok jin shaman begins to cast a spell. (Alacrity)
+[Sat Jul 14 18:51:49 2001] froglok kor shaman begins to cast a spell. (Quickness)
+[Sat Jul 14 18:51:49 2001] Swiftmoor tells the group, 'this is a pretty new server isn't it?'
+[Sat Jul 14 18:51:53 2001] froglok jin shaman begins to cast a spell. (Inner Fire)
+[Sat Jul 14 18:51:57 2001] You tell your party, 'not that new, not any more'
+[Sat Jul 14 18:52:06 2001] froglok jin shaman begins to cast a spell. (Alacrity)
+[Sat Jul 14 18:52:06 2001] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Jul 14 18:52:10 2001] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Jul 14 18:52:10 2001] froglok ilis wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Jul 14 18:52:19 2001] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Jul 14 18:52:19 2001] froglok ilis wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Jul 14 18:52:19 2001] froglok bok shaman begins to cast a spell. (Alacrity)
+[Sat Jul 14 18:52:19 2001] froglok jin shaman begins to cast a spell. (Quickness)
+[Sat Jul 14 18:52:19 2001] froglok bok shaman begins to cast a spell. (Alacrity)
+[Sat Jul 14 18:52:23 2001] Froglok dar knight begins to radiate.
+[Sat Jul 14 18:52:23 2001] Froglok dar knight begins to radiate.
+[Sat Jul 14 18:52:28 2001] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Jul 14 18:52:28 2001] froglok bok wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Jul 14 18:52:30 2001] Icasaracht tells you, 'Hmm , lol, thought the guide thing would be short.. boy was I wrong!  The thing's.. huge!  Gonna do it when I have like 3 hours of time.. then hopefully you'll have another set of hairy feet to the ranks of guide's :)'
+[Sat Jul 14 18:52:39 2001] Swiftmoor tells the group, 'well, compared to Nameless or Cazic'
+[Sat Jul 14 18:52:54 2001] You told Icasaracht, 'heh - but not here. you can't guide on your play server. but good luck!'
+[Sat Jul 14 18:53:02 2001] You tell your party, 'newer than either of those, aye'
+[Sat Jul 14 18:53:08 2001] Icasaracht tells you, '<nods, thanks :)'
+[Sat Jul 14 18:53:11 2001] froglok bok wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Jul 14 18:53:11 2001] froglok krup wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Jul 14 18:53:11 2001] froglok krup shaman begins to cast a spell. (Alacrity)
+[Sat Jul 14 18:53:47 2001] Swiftmoor tells the group, 'I started on cazic, then quit, canceled account and came back a year later and started on Nameless.'
+[Sat Jul 14 18:53:53 2001] You tell your party, 'I'm such a sebilis newbie'
+[Sat Jul 14 18:53:54 2001] Swiftmoor tells the group, 'Cazic characters are still there'
+[Sat Jul 14 18:53:56 2001] Synder GMSAYS, 'good evening...velcome to my abode...you are a welcome guest..Muahahaha'
+[Sat Jul 14 18:54:01 2001] You GMSAY, 'Hiya Syn!'
+[Sat Jul 14 18:54:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 14 18:54:05 2001] USER TEXT: beepers is training specs over newbies in Oasis..pictures at 11
+[Sat Jul 14 18:54:05 2001] Players in EverQuest:
+[Sat Jul 14 18:54:05 2001] ---------------------------
+[Sat Jul 14 18:54:05 2001] [ANON (15 Warrior)] Deezuul (Troll) ZONE: oasis (USER PID HQ9Q4JN)
+[Sat Jul 14 18:54:05 2001] There is 1 player in EverQuest.
+[Sat Jul 14 18:54:07 2001] Swiftmoor GMSAYS, 'Hello Synder'
+[Sat Jul 14 18:54:10 2001] You GMSAY, 'zone and anon'
+[Sat Jul 14 18:54:14 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 18:54:42 2001] You have entered Oasis of Marr.
+[Sat Jul 14 18:54:42 2001] You have formed the group.
+[Sat Jul 14 18:54:45 2001] Synder GMSAYS, 'zoning'
+[Sat Jul 14 18:54:45 2001] Espranza is now Invisible.
+[Sat Jul 14 18:54:45 2001] You are now anonymous.
+[Sat Jul 14 18:54:53 2001] Players on EverQuest:
+[Sat Jul 14 18:54:53 2001] ---------------------------
+[Sat Jul 14 18:54:53 2001] [36 Druid] Beepers (Unknown) <Kingdom of Steel>
+[Sat Jul 14 18:54:53 2001] There is 1 player in Oasis of Marr.
+[Sat Jul 14 18:54:56 2001] Teleporting to beepers.
+[Sat Jul 14 18:55:09 2001] Beepers begins to cast a spell. (Strength of Stone)
+[Sat Jul 14 18:55:14 2001] Beepers looks stronger.
+[Sat Jul 14 18:55:15 2001] You begin to sneak...
+[Sat Jul 14 18:55:15 2001] You have become better at Sneak! (62)
+[Sat Jul 14 18:55:15 2001] You are as quiet as a cat stalking its prey.
+[Sat Jul 14 18:55:21 2001] Savlyn GMSAYS, 'Zoning'
+[Sat Jul 14 18:55:37 2001] You feel as if you are about to fall.
+[Sat Jul 14 18:55:43 2001] You feel as if you are about to fall.
+[Sat Jul 14 18:55:45 2001] Swiftmoor tells the group, 'so if that's a keyed zone, can we open locked doors as well?'
+[Sat Jul 14 18:55:45 2001] You say to your guild, 'i;m on an investigtion, please don't /goto me'
+[Sat Jul 14 18:55:49 2001] You can no longer levitate.
+[Sat Jul 14 18:55:49 2001] You tell your party, 'yes we can'
+[Sat Jul 14 18:55:54 2001] Rack Stonebelly shouts 'Da Barrel Barge will be here soon soon! 
+[Sat Jul 14 18:55:55 2001] Teleporting to Beepers (683.73, 681.66, -13.76).
+[Sat Jul 14 18:55:55 2001] Synder tells the guild, 'doh'
+[Sat Jul 14 18:56:03 2001] Swiftmoor tells the group, 'that could be trouble :)'
+[Sat Jul 14 18:56:13 2001] Teleporting to Beepers (-284.05, 915.87,   0.34).
+[Sat Jul 14 18:56:20 2001] Beepers begins to cast a spell. (Skin like Steel)
+[Sat Jul 14 18:56:30 2001] Synder tells the guild, 'stupid Synder...BAd inky...Bad'
+[Sat Jul 14 18:56:41 2001] Swiftmoor tells the group, 'remind me not to open the bank vaults and let anyone follow me in'
+[Sat Jul 14 18:56:49 2001] You tell your party, 'heh good plan'
+[Sat Jul 14 18:57:01 2001] Sakuji shouts, 'airborn shaman express  flyin high'
+[Sat Jul 14 18:57:01 2001] a spectre begins to cast a spell. (SpectreLifetap)
+[Sat Jul 14 18:57:13 2001] a spectre begins to cast a spell. (SpectreLifetap)
+[Sat Jul 14 18:57:14 2001] Slithle says out of character, 'lvl 20 necro starting group to go to TD'
+[Sat Jul 14 18:57:19 2001] Synder GMSAYS, 'zoning'
+[Sat Jul 14 18:57:26 2001] a spectre begins to cast a spell. (SpectreLifetap)
+[Sat Jul 14 18:57:42 2001] Swiftmoor GMSAYS, 'pulling Hallexis'
+[Sat Jul 14 18:57:47 2001] a spectre begins to cast a spell. (SpectreLifetap)
+[Sat Jul 14 18:57:55 2001] Lirus GMSAYS, 'I am going to head to lunch guys'
+[Sat Jul 14 18:58:00 2001] You GMSAY, 'okay, later!'
+[Sat Jul 14 18:58:10 2001] Swiftmoor GMSAYS, 'Later Lirus'
+[Sat Jul 14 18:58:19 2001] Barliman feels much better.
+[Sat Jul 14 18:58:21 2001] a spectre begins to cast a spell. (SpectreLifetap)
+[Sat Jul 14 18:58:23 2001] Synder GMSAYS, 'you leaving Lirus?'
+[Sat Jul 14 18:58:23 2001] a spectre begins to cast a spell. (SpectreLifetap)
+[Sat Jul 14 18:58:26 2001] Lirus GMSAYS, 'when I come back, we should think about running an event'
+[Sat Jul 14 18:58:29 2001] Players in EverQuest:
+[Sat Jul 14 18:58:29 2001] ---------------------------
+[Sat Jul 14 18:58:29 2001] * Guide *[52 Vicar] Synder (Dark Elf) <Keepers of Morell Thule> ZONE: trakanon (USER PID HUUWF46)
+[Sat Jul 14 18:58:29 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: permafrost (USER PID EUGBAB8)
+[Sat Jul 14 18:58:29 2001] * Guide *[ANON (52 Rake)] Espranza (Halfling) ZONE: oasis (USER PID AUGBQH4)
+[Sat Jul 14 18:58:29 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: everfrost (USER PID CW1ECN5)
+[Sat Jul 14 18:58:29 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: trakanon (USER PID HR6C7H5)
+[Sat Jul 14 18:58:29 2001] There are 5 players in EverQuest.
+[Sat Jul 14 18:58:31 2001] Gootee shouts, 'Lv15 mage LFG'
+[Sat Jul 14 18:58:32 2001] Beepers begins to cast a spell. (Ensnare)
+[Sat Jul 14 18:58:35 2001] a spectre begins to cast a spell. (SpectreLifetap)
+[Sat Jul 14 18:58:37 2001] Lirance begins to cast a spell. (Shock of Lightning)
+[Sat Jul 14 18:58:41 2001] Savlyn GMSAYS, 'Awesome'
+[Sat Jul 14 18:58:44 2001] Synder GMSAYS, 'how long you going to be gone?'
+[Sat Jul 14 18:58:53 2001] a spectre begins to cast a spell. (SpectreLifetap)
+[Sat Jul 14 18:58:56 2001] Lirus GMSAYS, 'one hour'
+[Sat Jul 14 18:59:01 2001] You GMSAY, 'doh! taking my family to see a show tonight'
+[Sat Jul 14 18:59:05 2001] Gootee shouts, 'Lv15 Nage LFG'
+[Sat Jul 14 18:59:07 2001] You GMSAY, 'I just keep missing events...'
+[Sat Jul 14 18:59:11 2001] Teleporting to Beepers (-292.53, 1124.96,  -4.27).
+[Sat Jul 14 18:59:21 2001] Teleporting to Beepers ( 97.70, 987.95,  -3.75).
+[Sat Jul 14 18:59:29 2001] Synder GMSAYS, 'ok...I will be here sounds fun'
+[Sat Jul 14 18:59:32 2001] Deezuul says out of character, 'beeper please dont kite specs'
+[Sat Jul 14 18:59:51 2001] Beepers says out of character, 'im not im rnning'
+[Sat Jul 14 18:59:53 2001] Beepers says out of character, 'running'
+[Sat Jul 14 18:59:53 2001] Deezuul says out of character, 'Take them to Sro genius..its closer'
+[Sat Jul 14 19:00:00 2001] Beepers says out of character, 'no crap keeping friend alive to'
+[Sat Jul 14 19:00:02 2001] Swiftmoor tells the group, 'pet is asking about drowned citizens in W FP and if the spawn is working'
+[Sat Jul 14 19:00:10 2001] You tell your party, 'as far as I know, it is broke'
+[Sat Jul 14 19:00:12 2001] Deezuul says out of character, 'no crap ..killing people all along the highway'
+[Sat Jul 14 19:00:15 2001] Slithle says out of character, 'where should a lvl 20 necromancer hunt besides OT and Befallen?'
+[Sat Jul 14 19:00:23 2001] Draccon shouts, 'Just in case you haven't figured it out yet there are hunters at Orc Hiway and the docks.  how about pulling your spectres to SRo instead of getting people killed'
+[Sat Jul 14 19:00:32 2001] Caesues says out of character, 'SK aviaks'
+[Sat Jul 14 19:00:36 2001] Swiftmoor tells the group, 'it's ok to tell them that?'
+[Sat Jul 14 19:00:42 2001] You tell your party, 'sure'
+[Sat Jul 14 19:00:44 2001] Beepers says out of character, 'im sorry but high come first'
+[Sat Jul 14 19:00:49 2001] Deezuul shouts, 'Or maybe one of use will get our main and start training DW gobs on you'
+[Sat Jul 14 19:00:53 2001] Deezuul says out of character, '=)'
+[Sat Jul 14 19:01:16 2001] Meethead shouts, 'hey can someone kill a dw gob for me and gimme the helm since your already talking about them? =D'
+[Sat Jul 14 19:01:36 2001] Gootee shouts, 'lv5 mage LFG'
+[Sat Jul 14 19:01:43 2001] Swiftmoor tells the group, 'what can he do about the quest items? wait?'
+[Sat Jul 14 19:01:54 2001] Gootee shouts, '15 rather'
+[Sat Jul 14 19:01:59 2001] You tell your party, 'well, not much we can do'
+[Sat Jul 14 19:02:07 2001] You tell your party, 'put it in your DSR as a bug'
+[Sat Jul 14 19:02:15 2001] Swiftmoor tells the group, 'ok'
+[Sat Jul 14 19:02:16 2001] Malonk shouts, 'gratz'
+[Sat Jul 14 19:02:16 2001] Magtik shouts, 'Magician looking for breeze at dock'
+[Sat Jul 14 19:02:25 2001] Teleporting to deezuul.
+[Sat Jul 14 19:02:36 2001] Espranza is now Visible.
+[Sat Jul 14 19:02:37 2001] You are no longer anonymous.
+[Sat Jul 14 19:02:42 2001] Rack Stonebelly shouts 'Da Bloated Belly be leaving da Overdere now! 
+[Sat Jul 14 19:02:42 2001] You stop sneaking.
+[Sat Jul 14 19:02:47 2001] You no longer have a target.
+[Sat Jul 14 19:03:12 2001] Sylvane auctions, 'PGT 6dam 26del procs Beserker Strength  CHEAP!'
+[Sat Jul 14 19:03:18 2001] Gootee shouts, 'Any or groups out there?'
+[Sat Jul 14 19:03:20 2001] You told Deezuul, 'Hail, Deezuul! Guide Espranza here. It doesn't appear that Beepers was intentionally training anyone, he just looks like a bad spectre kiter.'
+[Sat Jul 14 19:03:43 2001] Players in EverQuest:
+[Sat Jul 14 19:03:43 2001] ---------------------------
+[Sat Jul 14 19:03:43 2001] * Guide *[52 Vicar] Synder (Dark Elf) <Keepers of Morell Thule> ZONE: trakanon (USER PID HUUWF46)
+[Sat Jul 14 19:03:43 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: permafrost (USER PID EUGBAB8)
+[Sat Jul 14 19:03:43 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: oasis (USER PID AUGBQH4)
+[Sat Jul 14 19:03:43 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: trakanon (USER PID HR6C7H5)
+[Sat Jul 14 19:03:43 2001] There are 4 players in EverQuest.
+[Sat Jul 14 19:03:46 2001] Penda begins to cast a spell. (Spirit of Wolf)
+[Sat Jul 14 19:03:50 2001] Draccon pokes Penda in the belly.
+[Sat Jul 14 19:03:55 2001] Penda begins to cast a spell. (Spirit of Wolf)
+[Sat Jul 14 19:03:59 2001] You no longer have a target.
+[Sat Jul 14 19:04:00 2001] You no longer have a target.
+[Sat Jul 14 19:04:02 2001] You no longer have a target.
+[Sat Jul 14 19:04:04 2001] DELETING THIS PETITION
+[Sat Jul 14 19:04:20 2001] Gootee shouts, 'LV 15 mage LFG'
+[Sat Jul 14 19:04:20 2001] You GMSAY, 'Hitmonle a badname - name of a pokemon'
+[Sat Jul 14 19:04:29 2001] Sylvane auctions, 'WTS PGT  going cheap'
+[Sat Jul 14 19:04:37 2001] You wave at Draccon.
+[Sat Jul 14 19:04:40 2001] Malonk says out of character, 'whats pgt'
+[Sat Jul 14 19:04:42 2001] Draccon says, 'greetings '
+[Sat Jul 14 19:04:46 2001] Draccon bows before Espranza.
+[Sat Jul 14 19:04:47 2001] You say, 'Hello!'
+[Sat Jul 14 19:05:02 2001] Draccon kneels before Espranza in humility and reverence.
+[Sat Jul 14 19:05:04 2001] Luxom says out of character, 'Polished Granite Tomohawk'
+[Sat Jul 14 19:05:19 2001] Gootee shouts, 'LV 15 mage LFG'
+[Sat Jul 14 19:05:22 2001] You say, 'Just checking out the spectre trains'
+[Sat Jul 14 19:05:25 2001] Draccon says, 'I see you have come to see for yourself'
+[Sat Jul 14 19:05:26 2001] Penda begins to cast a spell. (Dexterous Aura)
+[Sat Jul 14 19:05:31 2001] Magtik shouts, 'Magician looking for breeze at dock'
+[Sat Jul 14 19:05:33 2001] Draccon says, 'I just died from them'
+[Sat Jul 14 19:05:33 2001] Penda begins to cast a spell. (Strengthen)
+[Sat Jul 14 19:05:35 2001] You say, 'yeah... it doesn't look intentional though'
+[Sat Jul 14 19:05:40 2001] You say, 'just... unskillful.'
+[Sat Jul 14 19:05:44 2001] Penda begins to cast a spell. (Dexterous Aura)
+[Sat Jul 14 19:05:47 2001] Draccon looks more dexterous.
+[Sat Jul 14 19:05:51 2001] Penda begins to cast a spell. (Strengthen)
+[Sat Jul 14 19:05:53 2001] Draccon looks stronger.
+[Sat Jul 14 19:06:09 2001] Draccon says, 'no they just run through here and the docks instead of taking them to unoccupied SRO zone'
+[Sat Jul 14 19:06:14 2001] Lanewolf auctions, 'WTB Any Rogue Armor! SEND TELLS!'
+[Sat Jul 14 19:06:21 2001] You say, 'somebody should make sure he knows that'
+[Sat Jul 14 19:06:26 2001] Swiftmoor tells the group, 'now he's wondering about an eta on a zone reset?'
+[Sat Jul 14 19:06:39 2001] You tell your party, 'no clue. certainly not before the next patch.'
+[Sat Jul 14 19:06:54 2001] Lanewolf shouts, 'Anyone who is LFG and between lvl 11-15 send tells!'
+[Sat Jul 14 19:06:55 2001] Draccon says, 'it is obvious as he runs through our groups and everyone knows the docks are the safe med area'
+[Sat Jul 14 19:07:02 2001] Waladice shouts, 'lvl 18 rouge LFG!'
+[Sat Jul 14 19:07:16 2001] Penda begins to cast a spell. (Inner Fire)
+[Sat Jul 14 19:07:19 2001] Draccon says, 'they also know that SRO is not hunted as there is only one derv camp there'
+[Sat Jul 14 19:07:21 2001] You say, 'if he does it again, now that (I hope) he knows, we'll warn him.'
+[Sat Jul 14 19:07:23 2001] Penda begins to cast a spell. (Endure Disease)
+[Sat Jul 14 19:07:34 2001] Penda begins to cast a spell. (Endure Disease)
+[Sat Jul 14 19:07:36 2001] Draccon is protected from disease.
+[Sat Jul 14 19:07:39 2001] Draccon says, 'the zone thanks you'
+[Sat Jul 14 19:07:42 2001] Penda begins to cast a spell. (Inner Fire)
+[Sat Jul 14 19:07:43 2001] You no longer have a target.
+[Sat Jul 14 19:07:44 2001] You wave goodbye to everyone.
+[Sat Jul 14 19:07:45 2001] Draccon's body pulses with energy.
+[Sat Jul 14 19:07:46 2001] You GMSAY, 'zone'
+[Sat Jul 14 19:07:50 2001] LOADING, PLEASE WAIT...
+[Sat Jul 14 19:08:08 2001] You have entered Sunset Home.
+[Sat Jul 14 19:08:09 2001] You have formed the group.
+[Sat Jul 14 19:08:23 2001] You GMSAY, 'if Beepers kills people with specs again, warn him'
+[Sat Jul 14 19:08:36 2001] Players on EverQuest:
+[Sat Jul 14 19:08:36 2001] ---------------------------
+[Sat Jul 14 19:08:36 2001] There are no players in Sunset Home that match those who filters.
+[Sat Jul 14 19:08:38 2001] Players in EverQuest:
+[Sat Jul 14 19:08:38 2001] ---------------------------
+[Sat Jul 14 19:08:38 2001] [36 Druid] Beepers (Half Elf) <Kingdom of Steel> ZONE: nro (USER PID BWYS3VL)
+[Sat Jul 14 19:08:38 2001] There is 1 player in EverQuest.
+[Sat Jul 14 19:08:44 2001] Savlyn GMSAYS, 'Ok'
+[Sat Jul 14 19:09:09 2001] Synder GMSAYS, 'and soul mark his account..are you familiar with how that is done Sav?'
+[Sat Jul 14 19:09:18 2001] You told Hail,, 'Hail, is not online at this time.'
+[Sat Jul 14 19:09:33 2001] You told Beepers, 'Hail, Beepers! Guide Espranza here. Next time you pull spectres, please make sure you aren't pulling them where people sit. The large area in front of the South Ro zone is a good place.'
+[Sat Jul 14 19:10:22 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Jul 14 19:10:23 2001] USER TEXT: i cant get oyut of the maze
+[Sat Jul 14 19:10:23 2001] Players in EverQuest:
+[Sat Jul 14 19:10:23 2001] ---------------------------
+[Sat Jul 14 19:10:23 2001] [3 Monk] Hitmonle (Iksar) ZONE: cabwest (USER PID HYHJZFW)
+[Sat Jul 14 19:10:23 2001] There is 1 player in EverQuest.
+[Sat Jul 14 19:10:36 2001] UNDOING CHECK OUT
+[Sat Jul 14 19:10:49 2001] You GMSAY, 'I'm not going to soulmark him after a verbal warning...'
+[Sat Jul 14 19:11:07 2001] Synder GMSAYS, 'ok'
+[Sat Jul 14 19:11:18 2001] You GMSAY, 'otherwise... 'twould be a real warning'
+[Sat Jul 14 19:11:31 2001] You GMSAY, 'he was just a bad kiter... but next time he will know.'
+[Sat Jul 14 19:11:50 2001] Players in EverQuest:
+[Sat Jul 14 19:11:50 2001] ---------------------------
+[Sat Jul 14 19:11:50 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Jul 14 19:11:50 2001] * Guide *[52 Vicar] Synder (Dark Elf) <Keepers of Morell Thule> ZONE: trakanon (USER PID HUUWF46)
+[Sat Jul 14 19:11:50 2001] * Guide *[50 Wizard] Savlyn (High Elf) <Keepers of Morell Thule> ZONE: permafrost (USER PID EUGBAB8)
+[Sat Jul 14 19:11:50 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: trakanon (USER PID HR6C7H5)
+[Sat Jul 14 19:11:50 2001] There are 4 players in EverQuest.
+[Sat Jul 14 19:12:00 2001] Swiftmoor tells the group, 'gotta love higher level mobs in the newbie zones'
+[Sat Jul 14 19:12:14 2001] You tell your party, 'yup'
+[Sat Jul 14 19:12:55 2001] Swiftmoor GMSAYS, 'deleting Hallexis, wondered about broken spawn of drowned citizens'
+[Sat Jul 14 19:13:13 2001] You GMSAY, 'I have to go soon - could you group with Synder please, Swift? Seeing as how you're in the same zone/'
+[Sat Jul 14 19:13:33 2001] Swiftmoor GMSAYS, 'he's making fun of my BO, I don't know about that'
+[Sat Jul 14 19:13:42 2001] Synder GMSAYS, 'NOOOO please don't make me do it...wahhh'
+[Sat Jul 14 19:13:46 2001] You GMSAY, 'bah, lizzies don't stink'
+[Sat Jul 14 19:13:48 2001] Synder GMSAYS, 'MOMMY!!!!!'
+[Sat Jul 14 19:13:56 2001] You GMSAY, 'not like an inky could tell anyway'
+[Sat Jul 14 19:14:08 2001] Swiftmoor GMSAYS, 'yeah, that's true.'
+[Sat Jul 14 19:14:39 2001] Swiftmoor tells the group, 'disbanding'
+[Sat Jul 14 19:14:40 2001] Your group has been disbanded.
+[Sat Jul 14 19:16:16 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Jul 14 19:16:20 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Jul 14 19:16:22 2001] You GMSAY, 'camping - later all!'
+[Sat Jul 14 19:16:25 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Jul 14 19:16:28 2001] Savlyn GMSAYS, 'What does the bst mean on the spiderling silk used by class/race list?'
+[Sat Jul 14 19:16:30 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Jul 14 19:16:35 2001] It will take about 10 more seconds to prepare your camp.
+[Sat Jul 14 19:16:37 2001] Savlyn GMSAYS, 'Bye Espranza'
+[Sat Jul 14 19:16:40 2001] It will take about 5 more seconds to prepare your camp.
+[Sat Jul 14 19:16:41 2001] Swiftmoor GMSAYS, 'goodnight Espranza. have fun'

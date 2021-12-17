@@ -1,0 +1,612 @@
+[Mon Dec 24 01:37:58 2001] Welcome to EverQuest!
+[Mon Dec 24 01:37:58 2001] You have entered Sunset Home.
+[Mon Dec 24 01:38:01 2001] Players in EverQuest:
+[Mon Dec 24 01:38:01 2001] ---------------------------
+[Mon Dec 24 01:38:01 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Mon Dec 24 01:38:01 2001] * Guide *[51 Disciple] Larsot (Iksar) <Keepers of Dreams> ZONE: sebilis (USER PID GUGBHE6)
+[Mon Dec 24 01:38:01 2001] * Apprentice Guide *[20 Druid] Hexian (Wood Elf) ZONE: gfaydark (USER PID F4PGZAE)
+[Mon Dec 24 01:38:01 2001] There are 3 players in EverQuest.
+[Mon Dec 24 01:38:08 2001] You GMSAY, 'hiya'
+[Mon Dec 24 01:38:37 2001] Players in EverQuest:
+[Mon Dec 24 01:38:37 2001] ---------------------------
+[Mon Dec 24 01:38:37 2001] There are no players in EverQuest that match those who filters.
+[Mon Dec 24 01:38:41 2001] You GMSAY, 'zone'
+[Mon Dec 24 01:38:43 2001] ERROR: Couldn't get safe coords for fungus, unable to zone.
+
+[Mon Dec 24 01:38:52 2001] Larsot GMSAYS, 'I usually pull them to safe point anyway. It avoids more deaths. I do it after server crashes because his group is no longer there to help him'
+[Mon Dec 24 01:39:01 2001] Players in EverQuest:
+[Mon Dec 24 01:39:01 2001] ---------------------------
+[Mon Dec 24 01:39:01 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Mon Dec 24 01:39:01 2001] * Guide *[51 Disciple] Larsot (Iksar) <Keepers of Dreams> ZONE: sebilis (USER PID GUGBHE6)
+[Mon Dec 24 01:39:01 2001] * Apprentice Guide *[20 Druid] Hexian (Wood Elf) ZONE: gfaydark (USER PID F4PGZAE)
+[Mon Dec 24 01:39:01 2001] There are 3 players in EverQuest.
+[Mon Dec 24 01:39:15 2001] Players in EverQuest:
+[Mon Dec 24 01:39:15 2001] ---------------------------
+[Mon Dec 24 01:39:15 2001] There are no players in EverQuest that match those who filters.
+[Mon Dec 24 01:39:19 2001] ERROR: Couldn't get safe coords for peludal, unable to zone.
+
+[Mon Dec 24 01:39:30 2001] Players in EverQuest:
+[Mon Dec 24 01:39:30 2001] ---------------------------
+[Mon Dec 24 01:39:30 2001] [56 Revenant] Kenpaz (Dark Elf) <Tycoon> ZONE: commons (USER PID CQ71W2R)
+[Mon Dec 24 01:39:30 2001] [55 Myrmidon] Kazamen (Dwarf) <Titan Lords> ZONE: fieldofbone (USER PID ENB44UQ)
+[Mon Dec 24 01:39:30 2001] [60 Assassin] Tempmagmol (Dwarf) <Fury's Edge> ZONE: soldunga (USER PID FZK17A3)
+[Mon Dec 24 01:39:30 2001] [60 High Priest] Dardolek (Dwarf) <Fury's Edge> ZONE: commons (USER PID DPB1ZU9)
+[Mon Dec 24 01:39:30 2001] [55 Defiler] Coron (Dark Elf) ZONE: freporte (USER PID EZB74EG)
+[Mon Dec 24 01:39:30 2001] [58 Luminary] Cyri (Iksar) <Triune> ZONE: bazaar (USER PID FY8UCCR)
+[Mon Dec 24 01:39:30 2001] [57 Beguiler] Eyris (High Elf) <Flames of Vengeance> ZONE: karnor (USER PID CVABZRQ)
+[Mon Dec 24 01:39:30 2001] [60 Warlord] Axam (Half Elf) <Fury's Edge> ZONE: commons (USER PID FZM0X4W)
+[Mon Dec 24 01:39:30 2001] [ANON (60 Hierophant)] Tiff (Wood Elf) ZONE: commons (USER PID BQXY6AC)
+[Mon Dec 24 01:39:30 2001] [60 Warlord] Cannbino (Troll) <Triune> ZONE: commons (USER PID DU2KVU3)
+[Mon Dec 24 01:39:30 2001] [ANON (55 Beguiler)] Malaehi (High Elf) ZONE: commons (USER PID DZU1ZML)
+[Mon Dec 24 01:39:30 2001] [52 Wanderer] Emmeline (Wood Elf) <Titan Lords> ZONE: emeraldjungle (USER PID CW7DV87)
+[Mon Dec 24 01:39:30 2001] [51 Cavalier] Thanalyn (Human) <Nature's Fury> ZONE: dreadlands (USER PID BU94EUE)
+[Mon Dec 24 01:39:30 2001] [60 Hierophant] Keltic (Halfling) <Titan Lords> ZONE: qrg (USER PID AN0A80X)
+[Mon Dec 24 01:39:30 2001] [59 Templar] Callas (High Elf) <Brothers> ZONE: nexus (USER PID HYPZ8HT)
+[Mon Dec 24 01:39:30 2001] [60 Warder] Kvar (Human) <Fury's Edge> ZONE: greatdivide (USER PID CU1DP47)
+[Mon Dec 24 01:39:30 2001] [53 Heretic] Draconisnaga (Dark Elf) <Ronins> ZONE: sseru (USER PID EQAX3VA)
+[Mon Dec 24 01:39:30 2001] [54 Wanderer] Cixi (Wood Elf) <Chevaliers de la Licorne> ZONE: iceclad (USER PID HVVDHAD)
+[Mon Dec 24 01:39:30 2001] [54 Wanderer] Seirea (Wood Elf) <Knights of Arcane Lore> ZONE: freportn (USER PID ANBWCZM)
+[Mon Dec 24 01:39:30 2001] [55 Templar] Andymai (High Elf) <Celestial Sphere> ZONE: greatdivide (USER PID BU50DKW) LFG
+[Mon Dec 24 01:39:30 2001] Your who request was cut short..too many players.
+[Mon Dec 24 01:39:37 2001] Hexian GMSAYS, 'Okay, Hello Espranza'
+[Mon Dec 24 01:39:55 2001] You GMSAY, 'hi again )'
+[Mon Dec 24 01:40:05 2001] Players in EverQuest:
+[Mon Dec 24 01:40:05 2001] ---------------------------
+[Mon Dec 24 01:40:05 2001] [49 Ranger] Sanderz (Half Elf) <Utopian Guard> ZONE: everfrost (USER PID AN068E5)
+[Mon Dec 24 01:40:05 2001] [ANON (40 Druid)] Madasa (Wood Elf) ZONE: butcher (USER PID DNKM59X)
+[Mon Dec 24 01:40:05 2001] [42 Druid] Ukayla (Wood Elf) <Titan Lords> ZONE: commons (USER PID BUVU7CT)
+[Mon Dec 24 01:40:05 2001] [ANON (48 Druid)] Cattsu (Half Elf) ZONE: tenebrous (USER PID AZGDGCT)
+[Mon Dec 24 01:40:05 2001] [47 Rogue] Tobikera (Halfling) <Phantom Knights> ZONE: soldungb (USER PID GVMYRP4)
+[Mon Dec 24 01:40:05 2001] [45 Paladin] Ecter (Dwarf) <Celestial Sphere> ZONE: lavastorm (USER PID DYHKD4W)
+[Mon Dec 24 01:40:05 2001] [46 Warrior] Barqis (Human) <Utopian Guard> ZONE: everfrost (USER PID AXMGY9M)
+[Mon Dec 24 01:40:05 2001] [47 Wizard] Gwaro (Erudite) ZONE: ecommons (USER PID FS0T4GT)
+[Mon Dec 24 01:40:05 2001] [ANON (45 Warrior)] Zlayer (Half Elf) ZONE: dreadlands (USER PID GVZY87M)
+[Mon Dec 24 01:40:05 2001] [45 Cleric] Tanilie (Dark Elf) <Titan Lords> ZONE: dreadlands (USER PID BXVQ8T1)
+[Mon Dec 24 01:40:05 2001] [ANON (40 Druid)] Freedoh (Halfling) ZONE: rivervale (USER PID GV97TV6)
+[Mon Dec 24 01:40:05 2001] [ANON (42 Ranger)] Neshikin (Wood Elf) ZONE: dawnshroud (USER PID AVY4ANB)
+[Mon Dec 24 01:40:05 2001] [46 Warrior] Bloodmaw (Wood Elf) <Titan Lords> ZONE: karnor (USER PID FS9UXG4)
+[Mon Dec 24 01:40:05 2001] [ANON (45 Shaman)] Avarrian (Barbarian) ZONE: eastwastes (USER PID BZF98RR)
+[Mon Dec 24 01:40:05 2001] [47 Rogue] Lileden (Barbarian) <Hand of the Shadows> ZONE: nektulos (USER PID GU2MUQZ)
+[Mon Dec 24 01:40:05 2001] [50 Shaman] Grishkalur (Barbarian) ZONE: katta (USER PID AWC977T)
+[Mon Dec 24 01:40:05 2001] [48 Warrior] Kumkang (Ogre) ZONE: nro (USER PID GWWRKTQ)
+[Mon Dec 24 01:40:05 2001] [47 Warrior] Sanguinarya (Troll) <Clan StarDragon> ZONE: dreadlands (USER PID GYQ9HMR)
+[Mon Dec 24 01:40:05 2001] [40 Enchanter] Ginni (Gnome) ZONE: frontiermtns (USER PID BYF4WCQ)
+[Mon Dec 24 01:40:05 2001] [42 Shadow Knight] Darcnez (Dark Elf) <Order of the White Hand> ZONE: ecommons (USER PID CPKU2SS)
+[Mon Dec 24 01:40:05 2001] Your who request was cut short..too many players.
+[Mon Dec 24 01:40:07 2001] Hexian GMSAYS, 'hehehe hello'
+[Mon Dec 24 01:40:10 2001] Larsot GMSAYS, 'Hiya Espranza, grats on your promotion!!!'
+[Mon Dec 24 01:40:15 2001] You GMSAY, 'thanks!'
+[Mon Dec 24 01:40:29 2001] Players in EverQuest:
+[Mon Dec 24 01:40:29 2001] ---------------------------
+[Mon Dec 24 01:40:29 2001] [30 Necromancer] Yrrab (Dark Elf) <Crescent Shadows> ZONE: neriaka (USER PID FWKRX14)
+[Mon Dec 24 01:40:29 2001] [30 Druid] Graywulf (Wood Elf) <Noble Ones> ZONE: northkarana (USER PID AXD27RT)
+[Mon Dec 24 01:40:29 2001] [ANON (40 Druid)] Madasa (Wood Elf) ZONE: butcher (USER PID DNKM59X)
+[Mon Dec 24 01:40:29 2001] [34 Monk] Givent (Human) <Crescent Shadows> ZONE: nro (USER PID GZZG7QN)
+[Mon Dec 24 01:40:29 2001] [38 Cleric] Fabi (High Elf) <Crescent Shadows> ZONE: nro (USER PID CYXTR19)
+[Mon Dec 24 01:40:29 2001] [35 Monk] Shadowbuddha (Human) ZONE: freportw (USER PID CU1RCUX)
+[Mon Dec 24 01:40:29 2001] [36 Necromancer] Drachnia (Dark Elf) <Reapers of Sorrow> ZONE: dawnshroud (USER PID DM9DPVP)
+[Mon Dec 24 01:40:29 2001] [38 Wizard] Myloveelf (High Elf) <Brothers> ZONE: overthere (USER PID FY2LKHF)
+[Mon Dec 24 01:40:29 2001] [36 Druid] Vazzini (Halfling) ZONE: ecommons (USER PID CX1QSKQ)
+[Mon Dec 24 01:40:29 2001] [34 Cleric] Perefouras (Dwarf) <Chevaliers de la Licorne> ZONE: ecommons (USER PID FWBF426)
+[Mon Dec 24 01:40:29 2001] [ANON (35 Druid)] Heng (Wood Elf) ZONE: warrens (USER PID EP4YP3A)
+[Mon Dec 24 01:40:29 2001] [40 Ranger] Elmaria (Half Elf) <Moonwolf Clan> ZONE: ecommons (USER PID DUBXY7F)
+[Mon Dec 24 01:40:29 2001] [35 Rogue] Sintrex (Wood Elf) <Mystical Lightfighters> ZONE: freportn (USER PID ARBN3HQ)
+[Mon Dec 24 01:40:29 2001] [36 Wizard] Landariel (High Elf) <Light and Dark Alliance> ZONE: overthere (USER PID BW2LBLV)
+[Mon Dec 24 01:40:29 2001] [ANON (36 Druid)] Benbe (Half Elf) ZONE: lfaydark (USER PID CQ7XRFX)
+[Mon Dec 24 01:40:29 2001] [30 Rogue] Iydax (Barbarian) ZONE: northkarana (USER PID FXLC5NG)
+[Mon Dec 24 01:40:29 2001] [ANON (40 Druid)] Freedoh (Halfling) ZONE: rivervale (USER PID GV97TV6)
+[Mon Dec 24 01:40:29 2001] [32 Ranger] Aeean (Human) <Warpriests of Kunark> ZONE: lavastorm (USER PID EWGE90H)
+[Mon Dec 24 01:40:29 2001] [35 Rogue] Darkdie (Barbarian) <Tycoon> ZONE: shadowhaven (USER PID BX7GMPM)
+[Mon Dec 24 01:40:29 2001] [ANON (32 Druid)] Mynasa (Half Elf) ZONE: everfrost (USER PID EVT8TQN)
+[Mon Dec 24 01:40:29 2001] Your who request was cut short..too many players.
+[Mon Dec 24 01:41:01 2001] You GMSAY, 'really zone'
+[Mon Dec 24 01:41:05 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 02:06:56 2001] Welcome to EverQuest!
+[Mon Dec 24 02:06:56 2001] You have entered Shadow Haven.
+[Mon Dec 24 02:07:05 2001] You GMSAY, 'long zone...'
+[Mon Dec 24 02:07:06 2001] Players in EverQuest:
+[Mon Dec 24 02:07:06 2001] ---------------------------
+[Mon Dec 24 02:07:06 2001] * Guide *[51 Disciple] Larsot (Iksar) <Keepers of Dreams> ZONE: sebilis (USER PID GUGBHE6)
+[Mon Dec 24 02:07:06 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: shadowhaven (USER PID B4KJ6E7)
+[Mon Dec 24 02:07:06 2001] * Apprentice Guide *[20 Druid] Hexian (Wood Elf) ZONE: gfaydark (USER PID F4PGZAE)
+[Mon Dec 24 02:07:06 2001] There are 3 players in EverQuest.
+[Mon Dec 24 02:07:23 2001] You say, 'Hail, Defender Boyrslen'
+[Mon Dec 24 02:07:27 2001] You say, 'Hail, Defender Boyrslen'
+[Mon Dec 24 02:07:28 2001] You say, 'Hail, Defender Boyrslen'
+[Mon Dec 24 02:07:33 2001] Hexian GMSAYS, 'i have a question, if your guild has been approved and you got the e-mail. and now you have to gather the ten people, do those people have to be the same ten as before in the chat room?'
+[Mon Dec 24 02:07:40 2001] You GMSAY, 'no'
+[Mon Dec 24 02:07:49 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 02:07:49 2001] USER TEXT: Heya Happy Holidays lol, anyway died in karnors due to a bug, third time this has ahappened to me
+[Mon Dec 24 02:07:49 2001] Players in EverQuest:
+[Mon Dec 24 02:07:49 2001] ---------------------------
+[Mon Dec 24 02:07:49 2001] [51 Vicar] Valetudo (Erudite) <Faveo Sulum Ipsemet Ascio> ZONE: dreadlands (USER PID DM6821F)
+[Mon Dec 24 02:07:49 2001] There is 1 player in EverQuest.
+[Mon Dec 24 02:08:00 2001] Searching zones for corpse of that name....
+[Mon Dec 24 02:08:00 2001] Corpse: Valetudo's corpse0 in zone: karnor
+[Mon Dec 24 02:08:20 2001] You told Valetudo, 'Hail, Valetudo! Senior Guide Espranza here. How may I help you?'
+[Mon Dec 24 02:08:34 2001] Players on EverQuest:
+[Mon Dec 24 02:08:34 2001] ---------------------------
+[Mon Dec 24 02:08:34 2001] [60 Phantasmist] Sunmina (High Elf) <Fury's Edge>
+[Mon Dec 24 02:08:34 2001] [ANONYMOUS] Typhoo 
+[Mon Dec 24 02:08:34 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Dec 24 02:08:34 2001] There are 3 players in Shadow Haven.
+[Mon Dec 24 02:08:40 2001] Players in EverQuest:
+[Mon Dec 24 02:08:40 2001] ---------------------------
+[Mon Dec 24 02:08:40 2001] * Guide *[51 Disciple] Larsot (Iksar) <Keepers of Dreams> ZONE: sebilis (USER PID GUGBHE6)
+[Mon Dec 24 02:08:40 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: shadowhaven (USER PID B4KJ6E7)
+[Mon Dec 24 02:08:40 2001] * Apprentice Guide *[20 Druid] Hexian (Wood Elf) ZONE: gfaydark (USER PID F4PGZAE)
+[Mon Dec 24 02:08:40 2001] There are 3 players in EverQuest.
+[Mon Dec 24 02:08:50 2001] Your feet leave the ground.
+[Mon Dec 24 02:09:30 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 02:10:04 2001] You have entered The Paludal Caverns.
+[Mon Dec 24 02:10:12 2001] You GMSAY, 'accidental zone'
+[Mon Dec 24 02:11:27 2001] Hexian GMSAYS, 'pulling dizwar again'
+[Mon Dec 24 02:11:35 2001] You told Valetudo, 'Hail, Valetudo! Senior Guide Espranza here. How may I help you?'
+[Mon Dec 24 02:11:57 2001] Valetudo tells you, 'ah hi, I tried to zone out form a train but didn't zone for some reason'
+[Mon Dec 24 02:12:03 2001] Hexian GMSAYS, 'UA 3 Deleting dizwar'
+[Mon Dec 24 02:12:11 2001] Valetudo tells you, 'in karnors, I ran all the way around and still didn't zone then the train got mer'
+[Mon Dec 24 02:12:11 2001] You told Valetudo, 'let me check it out - one moment, please'
+[Mon Dec 24 02:12:15 2001] Hexian GMSAYS, 'pulling jaggier'
+[Mon Dec 24 02:12:16 2001] Valetudo tells you, 'sure thing no rush'
+[Mon Dec 24 02:12:21 2001] Searching zones for corpse of that name....
+[Mon Dec 24 02:12:22 2001] Corpse: Valetudo's corpse0 in zone: karnor
+[Mon Dec 24 02:12:23 2001] You GMSAY, 'zone'
+[Mon Dec 24 02:12:26 2001] ERROR: Couldn't get safe coords for karno, unable to zone.
+
+[Mon Dec 24 02:12:29 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 02:12:51 2001] spectral protector died.
+[Mon Dec 24 02:12:55 2001] You have entered Karnor's Castle.
+[Mon Dec 24 02:12:58 2001] Bloodmaw Scores a critical hit!(91)
+[Mon Dec 24 02:13:04 2001] Teleporting to valetudo's corpse0.
+[Mon Dec 24 02:13:19 2001] You told Valetudo, 'Yup, you got killed by a bug. Ready for a rez?'
+[Mon Dec 24 02:13:24 2001] Valetudo tells you, 'yes'
+[Mon Dec 24 02:14:05 2001] You GMSAY, '<note> Valetudo DM6821F tried to zone out of Karnor's, instead ran right through the zone without zoning and died; rezzed him.'
+[Mon Dec 24 02:14:13 2001] DELETING THIS PETITION
+[Mon Dec 24 02:14:23 2001] Larsot GMSAYS, 'thats happening alot lately'
+[Mon Dec 24 02:14:28 2001] You GMSAY, 'seems to be'
+[Mon Dec 24 02:14:47 2001] Players in EverQuest:
+[Mon Dec 24 02:14:47 2001] ---------------------------
+[Mon Dec 24 02:14:47 2001] [1 Magician] Zonix (Erudite) ZONE: tox (USER PID B1AQTZX)
+[Mon Dec 24 02:14:47 2001] [1 Necromancer] Baekdu (Dark Elf) ZONE: neriakc (USER PID FV5U9DY)
+[Mon Dec 24 02:14:47 2001] [1 Wizard] Trebek (Dark Elf) ZONE: neriakb (USER PID A1G0Z8H)
+[Mon Dec 24 02:14:47 2001] [1 Druid] Erferf (Wood Elf) ZONE: gfaydark (USER PID B11UKVP)
+[Mon Dec 24 02:14:47 2001] [1 Shaman] Fritti (Vah Shir) ZONE: sharvahl (USER PID G4Z1MD9)
+[Mon Dec 24 02:14:47 2001] [1 Rogue] Imadud (Barbarian) ZONE: halas (USER PID GXRE2R9)
+[Mon Dec 24 02:14:47 2001] [1 Druid] Cukkan (Halfling) ZONE: misty (USER PID EQLAK8M)
+[Mon Dec 24 02:14:47 2001] [1 Shadow Knight] Kildanite (Dark Elf) ZONE: neriakc (USER PID F1XC817)
+[Mon Dec 24 02:14:47 2001] [1 Beastlord] Maimai (Vah Shir) ZONE: shadeweaver (USER PID BSDB7R4)
+[Mon Dec 24 02:14:47 2001] [ANON (1 Ranger)] Leaflen (Wood Elf) ZONE: gfaydark (USER PID AU1W17V)
+[Mon Dec 24 02:14:47 2001] [1 Wizard] Wizalla (Erudite) ZONE: tox (USER PID A37CR1L)
+[Mon Dec 24 02:14:47 2001] [1 Necromancer] Darrkonn (Dark Elf) <War Criminals> ZONE: neriakc (USER PID AW61ZFS)
+[Mon Dec 24 02:14:47 2001] [1 Magician] Perfidius (Human) ZONE: qeynos (USER PID A1MGS0J)
+[Mon Dec 24 02:14:47 2001] There are 13 players in EverQuest.
+[Mon Dec 24 02:15:00 2001] Valetudo tells you, 'thanks )'
+[Mon Dec 24 02:15:04 2001] Valetudo cheers at Espranza.
+[Mon Dec 24 02:15:08 2001] You bow before Valetudo.
+[Mon Dec 24 02:15:08 2001] Valetudo kneels before Espranza in humility and reverence.
+[Mon Dec 24 02:15:13 2001] Valetudo tells you, 'thanks! =)'
+[Mon Dec 24 02:15:13 2001] Gardians shouts, '51 PAL LFG'
+[Mon Dec 24 02:15:17 2001] You say, 'Loot up and then head pretty much anywhere to zone'
+[Mon Dec 24 02:15:30 2001] Valetudo says, 'lol we're behind zone again?'
+[Mon Dec 24 02:15:39 2001] You GMSAY, 'Imadud... first name...'
+[Mon Dec 24 02:15:41 2001] You say, 'Still'
+[Mon Dec 24 02:15:45 2001] Valetudo says, 'I'm scared hold me =('
+[Mon Dec 24 02:15:46 2001] You say, 'It's usually safe'
+[Mon Dec 24 02:15:50 2001] Norris says out of character, 'Gardians, help me out would ya 8)'
+[Mon Dec 24 02:15:59 2001] You say, 'Well I *am* a barbarian'
+[Mon Dec 24 02:16:08 2001] Larsot GMSAYS, 'hehe'
+[Mon Dec 24 02:16:12 2001] Valetudo says, 'look pretty short for a storm trooper errr Barbarian'
+[Mon Dec 24 02:16:22 2001] You say, 'Well, I'm one anyway'
+[Mon Dec 24 02:16:23 2001] Hexian GMSAYS, 'AHHHHH why didn't I think of that when I created my characters?!'
+[Mon Dec 24 02:16:29 2001] Larsot GMSAYS, 'I have a name that I think should be changed if you want Espranza'
+[Mon Dec 24 02:16:33 2001] Valetudo says, 'on good days?'
+[Mon Dec 24 02:16:35 2001] You say, 'Just forgot to eat my wheaties'
+[Mon Dec 24 02:16:49 2001] Valetudo cheers at Espranza.
+[Mon Dec 24 02:16:51 2001] Valetudo says, 'thanks! =)'
+[Mon Dec 24 02:16:52 2001] You GMSAY, 'yeah, nothing like changing names ;) which one?'
+[Mon Dec 24 02:16:55 2001] You wave goodbye to Valetudo.
+[Mon Dec 24 02:16:58 2001] Valetudo kneels before Espranza in humility and reverence.
+[Mon Dec 24 02:16:59 2001] Valetudo waves goodbye to Espranza.
+[Mon Dec 24 02:17:03 2001] You beam a smile at Valetudo.
+[Mon Dec 24 02:17:06 2001] Larsot GMSAYS, 'Simplesimon Takesitoff'
+[Mon Dec 24 02:17:11 2001] Valetudo begins to walk faster.
+[Mon Dec 24 02:17:13 2001] Hexian GMSAYS, 'LOL'
+[Mon Dec 24 02:17:35 2001] You GMSAY, 'sigh... first AND last name...'
+[Mon Dec 24 02:17:40 2001] You GMSAY, 'was that a petition?'
+[Mon Dec 24 02:17:43 2001] Players in EverQuest:
+[Mon Dec 24 02:17:43 2001] ---------------------------
+[Mon Dec 24 02:17:43 2001] [41 Shadow Knight] Simplesimon (Dark Elf) ZONE: ecommons (USER PID GYK6XRG)
+[Mon Dec 24 02:17:43 2001] There is 1 player in EverQuest.
+[Mon Dec 24 02:17:48 2001] Larsot GMSAYS, 'aye, and he is level 42  :P'
+[Mon Dec 24 02:17:52 2001] Larsot GMSAYS, 'aye'
+[Mon Dec 24 02:17:55 2001] You GMSAY, 'esc to me :('
+[Mon Dec 24 02:18:12 2001] You GMSAY, '/em wanted this job why?'
+[Mon Dec 24 02:18:16 2001] Larsot GMSAYS, 'was before you got online, deleted now but in my <notes>'
+[Mon Dec 24 02:18:28 2001] Larsot GMSAYS, 'haha'
+[Mon Dec 24 02:18:29 2001] You GMSAY, 'checking him out'
+[Mon Dec 24 02:18:35 2001] Espranza is now Invisible.
+[Mon Dec 24 02:18:35 2001] You are now anonymous.
+[Mon Dec 24 02:18:39 2001] You GMSAY, 'zone'
+[Mon Dec 24 02:18:42 2001] Teleporting to simplesimon.
+[Mon Dec 24 02:18:42 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 02:19:13 2001] You have entered East Commonlands.
+[Mon Dec 24 02:19:35 2001] You have changed Simplesimon's last name to  .
+[Mon Dec 24 02:19:49 2001] Players in EverQuest:
+[Mon Dec 24 02:19:49 2001] ---------------------------
+[Mon Dec 24 02:19:49 2001] [41 Shadow Knight] Simplesimon (Dark Elf) ZONE: ecommons (USER PID GYK6XRG)
+[Mon Dec 24 02:19:49 2001] There is 1 player in EverQuest.
+[Mon Dec 24 02:20:04 2001] Ssilo auctions, 'WTS RMBracer 4ac 3str 5wis 400 each 700 for pair'
+[Mon Dec 24 02:20:08 2001] The spirit leaves you.
+[Mon Dec 24 02:20:10 2001] Hexian GMSAYS, 'deleting Jaggier'
+[Mon Dec 24 02:20:20 2001] Hexian GMSAYS, 'pulling saap'
+[Mon Dec 24 02:20:22 2001] You GMSAY, '<note> Simplesimon Takesitoff GYK6XRG had his last name ninja nerfed, advising him to petition to get a new one.'
+[Mon Dec 24 02:20:34 2001] Larsot GMSAYS, 'ninja nerfed?'
+[Mon Dec 24 02:20:57 2001] Merilson auctions, 'WTB blackened alloy pieces send tells'
+[Mon Dec 24 02:21:05 2001] You GMSAY, 'I just blanked it out without getting into a big long discussion about it first'
+[Mon Dec 24 02:21:15 2001] You GMSAY, 'now it's time for the big long discussion about it.'
+[Mon Dec 24 02:21:17 2001] Larsot GMSAYS, 'ahhh does he know it yet?'
+[Mon Dec 24 02:21:21 2001] You GMSAY, 'he's about to'
+[Mon Dec 24 02:21:22 2001] Larsot GMSAYS, 'lol'
+[Mon Dec 24 02:22:17 2001] You told Hail,, 'Hail, is not online at this time.'
+[Mon Dec 24 02:22:18 2001] Ssilo auctions, 'WTS 2Hblunt 32/37 3.6wt ALL ALL but BRD/ROG 15kpp OBO come to tunnel entrance to see graphic '
+[Mon Dec 24 02:22:21 2001] You feel as if you are about to fall.
+[Mon Dec 24 02:22:27 2001] You feel as if you are about to fall.
+[Mon Dec 24 02:22:33 2001] You can no longer levitate.
+[Mon Dec 24 02:22:47 2001] You told Simplesimon, 'Hail, Simplesimon! Senior Guide Espranza here. Names can't be phrases; I've removed yours, and you'll have to petition to get a new one.'
+[Mon Dec 24 02:22:54 2001] Espranza is now Visible.
+[Mon Dec 24 02:22:55 2001] You are no longer anonymous.
+[Mon Dec 24 02:23:19 2001] Simplesimon tells you, 'um, why didn't you do this 9 months ago when i started this charecter?'
+[Mon Dec 24 02:23:52 2001] Merilson says, 'i didnt know gm's could be in a guild'
+[Mon Dec 24 02:24:03 2001] You told Simplesimon, 'Because though you were noticed before, nobody who could change names was on at the same time someone petitioned about your name.'
+[Mon Dec 24 02:24:14 2001] You say, 'Sure, each server has a guide guild.'
+[Mon Dec 24 02:24:19 2001] Merilson says, 'thats cool'
+[Mon Dec 24 02:24:34 2001] Simplesimon tells you, 'well its too late now i have many friends, and i am in many friends lists its way too late my friend'
+[Mon Dec 24 02:24:35 2001] Merilson says, 'happy holidays to you friend'
+[Mon Dec 24 02:24:35 2001] Ssilo auctions, 'WTS necro only claw 5ac 15int 20mana 10mr -cha 20kpp '
+[Mon Dec 24 02:24:39 2001] Ssilo begins to walk faster.
+[Mon Dec 24 02:24:55 2001] Hexian GMSAYS, 'deleting Saap (resolved)'
+[Mon Dec 24 02:24:56 2001] You GMSAY, 'oh, it's way too late to change his name, he has too many friends.'
+[Mon Dec 24 02:25:07 2001] Hexian GMSAYS, 'pulling gaga'
+[Mon Dec 24 02:25:10 2001] You GMSAY, 'well, I guess that's that then.'
+[Mon Dec 24 02:25:30 2001] Larsot GMSAYS, 'too many friends? he chatting too much?'
+[Mon Dec 24 02:25:49 2001] You told Simplesimon, 'Have you tried just "Simon"?'
+[Mon Dec 24 02:26:01 2001] Halor shouts, 'paying 50pp for TP or TL to GD please'
+[Mon Dec 24 02:26:03 2001] Murgs shouts, 'Me Bash'
+[Mon Dec 24 02:26:20 2001] Simplesimon tells you, 'no, but that would be phat'
+[Mon Dec 24 02:26:30 2001] You told Simplesimon, 'let's try that'
+[Mon Dec 24 02:26:30 2001] Kandyman waves at Espranza.
+[Mon Dec 24 02:26:37 2001] Simplesimon tells you, 'ok'
+[Mon Dec 24 02:26:38 2001] You have changed Simplesimon's name to Simon.
+[Mon Dec 24 02:26:56 2001] You told Simplesimon, 'hmm... well looks like someone got that one first.'
+[Mon Dec 24 02:27:16 2001] Bonechopper auctions, 'WTB Darkforge Helm, send tell plz'
+[Mon Dec 24 02:27:21 2001] Bonechopper auctions, 'WTB Darkforge Helm, send tell plz'
+[Mon Dec 24 02:27:24 2001] You told Simplesimon, 'what would be close enough so that people would still know you?'
+[Mon Dec 24 02:27:25 2001] Ssilo says, 'you giving away christmas presents Espranza?'
+[Mon Dec 24 02:27:33 2001] You say, 'That was earlier... ;)'
+[Mon Dec 24 02:27:41 2001] Simplesimon tells you, 'how bout gigahurt? i had a shaman i deleted named that once'
+[Mon Dec 24 02:27:41 2001] Ssilo says, 'oh cool'
+[Mon Dec 24 02:27:45 2001] Halor shouts, 'paying 50pp for TP or TL to GD please'
+[Mon Dec 24 02:27:49 2001] You told Simplesimon, 'okay'
+[Mon Dec 24 02:27:59 2001] You have changed Simplesimon's name to Gigahurt.
+[Mon Dec 24 02:28:12 2001] Ssilo auctions, 'WTS 2Hblunt 32/37 3.6wt ALL ALL but BRD/ROG 15kpp OBO come to tunnel entrance to see graphic '
+[Mon Dec 24 02:28:23 2001] Merilson says, 'will you be giving more on xmas day my friend especially to newbies they deserve them the most'
+[Mon Dec 24 02:28:25 2001] You told Simplesimon, 'that one didn't go either... sigh'
+[Mon Dec 24 02:28:30 2001] Simplesimon tells you, 'grr'
+[Mon Dec 24 02:28:38 2001] You say, 'Oh, perhaps'
+[Mon Dec 24 02:28:49 2001] Galloot auctions, 'wts silver chitin hand wraps ac5 +3 to all  haste'
+[Mon Dec 24 02:28:51 2001] Galloot auctions, 'wts 2hnd mithrille dam21 dealy40 effect haste'
+[Mon Dec 24 02:28:51 2001] Simplesimon tells you, 'megahurt?'
+[Mon Dec 24 02:28:54 2001] Galloot auctions, 'wts mithrille girth plate belt ac9 str9 sta9 (war only)'
+[Mon Dec 24 02:28:58 2001] Galloot auctions, 'wts wurmslayer dam25 delay40 ac5 str+5 +5 vs magic'
+[Mon Dec 24 02:28:58 2001] Ssilo says, 'heh I give away so much stuff to N00bs they should call me Santa Ssilo'
+[Mon Dec 24 02:29:00 2001] Merilson says, 'me too i am making backpacks full of starter items for xmas day for newbies'
+[Mon Dec 24 02:29:03 2001] You have changed Simplesimon's name to Megahurt.
+[Mon Dec 24 02:29:13 2001] You say, 'Hail, Megahurt'
+[Mon Dec 24 02:29:18 2001] Megahurt tells you, 'woot!'
+[Mon Dec 24 02:29:23 2001] Players in EverQuest:
+[Mon Dec 24 02:29:23 2001] ---------------------------
+[Mon Dec 24 02:29:23 2001] [41 Shadow Knight] Megahurt (Dark Elf) ZONE: ecommons (USER PID GYK6XRG)
+[Mon Dec 24 02:29:23 2001] There is 1 player in EverQuest.
+[Mon Dec 24 02:29:23 2001] Megahurt tells you, 'thank you=)'
+[Mon Dec 24 02:29:40 2001] You GMSAY, '<note> Changed Simplesimon's first name to Megahurt (GYK6XRG)'
+[Mon Dec 24 02:29:41 2001] Ragnorf auctions, 'PGT only 50pp PROCS beserk Strength!!!'
+[Mon Dec 24 02:29:49 2001] Megahurt tells you, 'good name for a sk huh =)'
+[Mon Dec 24 02:29:59 2001] You told Megahurt, 'okay, be well and Merry Christmas! Yes, it kinda is.'
+[Mon Dec 24 02:30:03 2001] Halor shouts, 'paying 50pp for TP or TL to GD please'
+[Mon Dec 24 02:30:04 2001] Puddy says, 'Now that is a beat stick.'
+[Mon Dec 24 02:30:14 2001] You say, 'Nice club, Ssilo'
+[Mon Dec 24 02:30:14 2001] Galloot auctions, 'wts ry'gorr orcale shield ac12 +5wis +50mana'
+[Mon Dec 24 02:30:16 2001] Megahurt tells you, 'you too, happy xmas'
+[Mon Dec 24 02:30:29 2001] You GMSAY, 'zone'
+[Mon Dec 24 02:30:29 2001] Pearle bonks Kandyman on the head!
+[Mon Dec 24 02:30:33 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Mon Dec 24 02:30:33 2001] Your Belt of Translocation begins to glow.
+[Mon Dec 24 02:30:34 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 02:48:38 2001] Welcome to EverQuest!
+[Mon Dec 24 02:48:38 2001] You have entered Sunset Home.
+[Mon Dec 24 02:48:39 2001] Larsot GMSAYS, 'she online'
+[Mon Dec 24 02:48:47 2001] You GMSAY, 'I like the new crash when you zone code'
+[Mon Dec 24 02:48:48 2001] Players in EverQuest:
+[Mon Dec 24 02:48:48 2001] ---------------------------
+[Mon Dec 24 02:48:48 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Mon Dec 24 02:48:48 2001] * Guide *[ANON (51 Disciple)] Larsot (Iksar) ZONE: sebilis (USER PID GUGBHE6)
+[Mon Dec 24 02:48:48 2001] * Apprentice Guide *[20 Druid] Hexian (Wood Elf) ZONE: gfaydark (USER PID F4PGZAE)
+[Mon Dec 24 02:48:48 2001] There are 3 players in EverQuest.
+[Mon Dec 24 02:49:03 2001] You GMSAY, 'saw Lancet in chat though while waiting to be kicked ;)'
+[Mon Dec 24 02:49:15 2001] You no longer have a target.
+[Mon Dec 24 02:49:17 2001] You feel the spirit of Norrath enter you.
+[Mon Dec 24 02:49:20 2001] You smile.
+[Mon Dec 24 02:49:21 2001] Hexian GMSAYS, 'Espranza Gaga needs a name change when you have the time.'
+[Mon Dec 24 02:49:29 2001] You GMSAY, 'sure, last name?'
+[Mon Dec 24 02:49:33 2001] Larsot GMSAYS, 'hehe, I get it too. I hate the new stuff so much. Way too many problems now. I take over 4 minutes to zone now too'
+[Mon Dec 24 02:49:33 2001] You bow.
+[Mon Dec 24 02:49:41 2001] You stand on your tip-toes and do a dance of joy!
+[Mon Dec 24 02:49:46 2001] You cheer.
+[Mon Dec 24 02:49:52 2001] You laugh.
+[Mon Dec 24 02:49:58 2001] You sigh, clearly disappointed.
+[Mon Dec 24 02:50:03 2001] You point straight ahead.
+[Mon Dec 24 02:50:11 2001] You point straight ahead.
+[Mon Dec 24 02:50:15 2001] You frown.
+[Mon Dec 24 02:50:19 2001] You cringe.
+[Mon Dec 24 02:50:22 2001] You grovel pitifully.
+[Mon Dec 24 02:50:27 2001] You apologize to everyone.
+[Mon Dec 24 02:50:33 2001] You GMSAY, 'well, esc it to me.'
+[Mon Dec 24 02:50:48 2001] Hexian GMSAYS, 'Actully I think needs surname deleted and first name changed.... Name is Gaga Googoo... its up there'
+[Mon Dec 24 02:50:57 2001] Larsot GMSAYS, 'Gaga is name pet Esp'
+[Mon Dec 24 02:51:08 2001] You GMSAY, 'gaga googoo is stupid, not a violation'
+[Mon Dec 24 02:51:16 2001] You GMSAY, 'sorry, forgot to put petition screen up'
+[Mon Dec 24 02:51:20 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 02:51:21 2001] USER TEXT: I know this is a strange request, but my name violates Verant's TOS and I need it changed.  It is Gaga Googoo, the sound a baby makes.   I need it changed so I do not have to do so after I have built my reputation in a guild.
+[Mon Dec 24 02:51:21 2001] Players in EverQuest:
+[Mon Dec 24 02:51:21 2001] ---------------------------
+[Mon Dec 24 02:51:21 2001] [ANON (41 Shaman)] Gaga (Troll) ZONE: overthere (USER PID DT5JBJS)
+[Mon Dec 24 02:51:21 2001] There is 1 player in EverQuest.
+[Mon Dec 24 02:51:22 2001] Larsot GMSAYS, 'hehe'
+[Mon Dec 24 02:51:30 2001] Hexian GMSAYS, 'well he thought it was, and requested it changed'
+[Mon Dec 24 02:51:41 2001] You GMSAY, 'he's going to have to live with Gaga, but I can remove Googoo'
+[Mon Dec 24 02:51:56 2001] Hexian GMSAYS, 'Doesn't bother me any'
+[Mon Dec 24 02:52:06 2001] Players in EverQuest:
+[Mon Dec 24 02:52:06 2001] ---------------------------
+[Mon Dec 24 02:52:06 2001] [ANON (41 Shaman)] Gaga (Troll) ZONE: overthere (USER PID DT5JBJS)
+[Mon Dec 24 02:52:06 2001] There is 1 player in EverQuest.
+[Mon Dec 24 02:52:08 2001] You GMSAY, 'zone'
+[Mon Dec 24 02:52:18 2001] You GMSAY, 'people should have to live with stupid names.'
+[Mon Dec 24 02:52:22 2001] Teleporting to gaga.
+[Mon Dec 24 02:52:22 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 03:06:46 2001] Welcome to EverQuest!
+[Mon Dec 24 03:06:46 2001] You have entered The Overthere.
+[Mon Dec 24 03:06:51 2001] Gaga begins to cast a spell. (Venom of the Snake)
+[Mon Dec 24 03:06:52 2001] You GMSAY, 'I hate this.'
+[Mon Dec 24 03:06:57 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 03:06:58 2001] USER TEXT: I know this is a strange request, but my name violates Verant's TOS and I need it changed.  It is Gaga Googoo, the sound a baby makes.   I need it changed so I do not have to do so after I have built my reputation in a guild.
+[Mon Dec 24 03:06:58 2001] Players in EverQuest:
+[Mon Dec 24 03:06:58 2001] ---------------------------
+[Mon Dec 24 03:06:58 2001] [ANON (41 Shaman)] Gaga (Troll) ZONE: overthere (USER PID DT5JBJS)
+[Mon Dec 24 03:06:58 2001] There is 1 player in EverQuest.
+[Mon Dec 24 03:06:59 2001] Gaga begins to cast a spell. (Root)
+[Mon Dec 24 03:07:03 2001] Teleporting to gaga.
+[Mon Dec 24 03:07:07 2001] Gaga begins to cast a spell. (Root)
+[Mon Dec 24 03:07:08 2001] Gaga's casting is interrupted!
+[Mon Dec 24 03:07:09 2001] Gaga begins to cast a spell. (Root)
+[Mon Dec 24 03:07:11 2001] A spiked succulent adheres to the ground.
+[Mon Dec 24 03:07:17 2001] Gaga waves at Espranza.
+[Mon Dec 24 03:07:19 2001] You have changed Gaga's last name to .
+[Mon Dec 24 03:07:40 2001] Larsot GMSAYS, 'me and Hexian were just saying how we cant even play anymore because we go LD when we get into battles'
+[Mon Dec 24 03:07:44 2001] Gaga begins to cast a spell. (Root)
+[Mon Dec 24 03:07:52 2001] You told Gaga, 'Hail, Gaga! Senior Guide Espranza here. I removed your last name for you; your first name doesn't violate the naming guidelines... so I'm leaving that.'
+[Mon Dec 24 03:07:57 2001] DELETING THIS PETITION
+[Mon Dec 24 03:08:07 2001] Angelspirit shouts, 'Train to FM zone'
+[Mon Dec 24 03:08:11 2001] Hexian GMSAYS, 'sometimes without even fighting... I need a new video card'
+[Mon Dec 24 03:08:21 2001] You GMSAY, 'I've been sitting in chat each time waiting for the timer to expire so I can log in.'
+[Mon Dec 24 03:08:21 2001] Gaga tells you, 'ack, you cannot change it?  I intended to use the last one with the first.. but then I found out that was a violation =('
+[Mon Dec 24 03:08:38 2001] Diengoria says out of character, 'Lvl 40 Shaman LF partner at SF'
+[Mon Dec 24 03:08:38 2001] Gaga begins to cast a spell. (Root)
+[Mon Dec 24 03:08:39 2001] Larsot tells the guild, 'you going to "try" and stay for awhile Espranza? I am heading out and the appie will need a mentor.'
+[Mon Dec 24 03:08:40 2001] A spiked succulent adheres to the ground.
+[Mon Dec 24 03:08:41 2001] You told Gaga, 'Actually, Gaga Googoo, while silly, doesn't violate the naming guidelines.'
+[Mon Dec 24 03:08:53 2001] Gaga tells you, 'hmm did not know that'
+[Mon Dec 24 03:08:56 2001] You told Gaga, 'But we can change last names at player request, so I did that.'
+[Mon Dec 24 03:09:03 2001] Gaga tells you, 'oh ok'
+[Mon Dec 24 03:09:06 2001] Gaga begins to cast a spell. (Root)
+[Mon Dec 24 03:09:09 2001] Gaga begins to cast a spell. (Root)
+[Mon Dec 24 03:09:18 2001] Gaga begins to cast a spell. (Venom of the Snake)
+[Mon Dec 24 03:09:26 2001] Gaga begins to cast a spell. (Root)
+[Mon Dec 24 03:09:31 2001] You say to your guild, 'wasn't planning on it, I just came on really because I was having troubles zoning my play characters.'
+[Mon Dec 24 03:09:34 2001] Gaga begins to cast a spell. (Cannibalize)
+[Mon Dec 24 03:09:40 2001] Larsot tells the guild, 'hehe ok'
+[Mon Dec 24 03:09:42 2001] Players in EverQuest:
+[Mon Dec 24 03:09:42 2001] ---------------------------
+[Mon Dec 24 03:09:42 2001] [ANON (41 Shaman)] Gaga (Troll) ZONE: overthere (USER PID DT5JBJS)
+[Mon Dec 24 03:09:42 2001] There is 1 player in EverQuest.
+[Mon Dec 24 03:09:46 2001] Larsot tells the guild, 'i will let him know then'
+[Mon Dec 24 03:10:06 2001] You GMSAY, '<note> Gaga Googoo DT5JBJS removed last name at player request.'
+[Mon Dec 24 03:10:37 2001] You GMSAY, '<note issue> Started crashing each time I zoned; Espranza is not amused.'
+[Mon Dec 24 03:10:43 2001] Your feet leave the ground.
+[Mon Dec 24 03:10:48 2001] Larsot GMSAYS, 'hehe'
+[Mon Dec 24 03:11:08 2001] You GMSAY, 'zoning to cshome, if I crash I'm staying out.'
+[Mon Dec 24 03:11:10 2001] You GMSAY, 'zone'
+[Mon Dec 24 03:11:13 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Mon Dec 24 03:11:13 2001] Your Belt of Translocation begins to glow.
+[Mon Dec 24 03:11:15 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 03:11:34 2001] You have entered Sunset Home.
+[Mon Dec 24 03:11:39 2001] You GMSAY, 'woot!'
+[Mon Dec 24 03:11:49 2001] Hexian GMSAYS, '*cheers*'
+[Mon Dec 24 03:11:54 2001] Larsot cheers at Espranza.
+[Mon Dec 24 03:11:58 2001] You wave at Larsot.
+[Mon Dec 24 03:12:03 2001] Larsot beams a smile at Espranza.
+[Mon Dec 24 03:12:24 2001] You say, 'I was trying for that barbarian bare chest look but it didn't work for me'
+[Mon Dec 24 03:12:41 2001] You can no longer levitate.
+[Mon Dec 24 03:12:44 2001] Larsot GMSAYS, 'ok guys, im outta here. Time to start preparing for the BIG DAY!!  :)'
+[Mon Dec 24 03:12:50 2001] Larsot says, 'haha'
+[Mon Dec 24 03:12:52 2001] You GMSAY, 'yay! see ya Larsot'
+[Mon Dec 24 03:13:00 2001] You say, 'hey could you go gnome one moment please?'
+[Mon Dec 24 03:13:04 2001] Larsot GMSAYS, 'Merry Christmas to you both  :)'
+[Mon Dec 24 03:13:07 2001] Hexian GMSAYS, 'bye thanks for your help Larsot'
+[Mon Dec 24 03:13:10 2001] You say, 'I just turned on male gnomes'
+[Mon Dec 24 03:13:29 2001] You say, 'oh wait, there's one in cshome'
+[Mon Dec 24 03:13:31 2001] You hug Larsot.
+[Mon Dec 24 03:13:35 2001] You say, 'Merry Christmas!'
+[Mon Dec 24 03:13:58 2001] Talonblaze tells you, 'thank you for your help  i've gotten in now'
+[Mon Dec 24 03:14:07 2001] You told Talonblaze, 'woot! grats!'
+[Mon Dec 24 03:14:13 2001] You told Talonblaze, 'I didn't know you were on my server ;)'
+[Mon Dec 24 03:14:17 2001] Talonblaze tells you, '=)'
+[Mon Dec 24 03:14:24 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 03:14:25 2001] USER TEXT: I would like to know if i can have a last name swich as i created a surname and then relized i couldent change it :-(
+[Mon Dec 24 03:14:25 2001] Players in EverQuest:
+[Mon Dec 24 03:14:25 2001] ---------------------------
+[Mon Dec 24 03:14:25 2001] [20 Wizard] Merlind (Erudite) ZONE: lakeofillomen (USER PID D0HGTRP)
+[Mon Dec 24 03:14:25 2001] There is 1 player in EverQuest.
+[Mon Dec 24 03:14:27 2001] Talonblaze tells you, 'hehe  Aye, ma'am.  =)'
+[Mon Dec 24 03:14:46 2001] Talonblaze tells you, 'you're one of our best'
+[Mon Dec 24 03:14:48 2001] GM TEXT: Hexian: Would like last name erased
+[Mon Dec 24 03:14:55 2001] You told Talonblaze, 'thankee'
+[Mon Dec 24 03:15:07 2001] You GMSAY, 'zone - may be back, maybe not...'
+[Mon Dec 24 03:15:16 2001] Hexian GMSAYS, 'I hope so'
+[Mon Dec 24 03:15:16 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 03:16:16 2001] Starrail shouts, '21 enchanter looking for a group please'
+[Mon Dec 24 03:16:16 2001] You have entered Lake of Ill Omen.
+[Mon Dec 24 03:16:23 2001] You GMSAY, 'two for two'
+[Mon Dec 24 03:16:29 2001] Hexian GMSAYS, 'Sweet'
+[Mon Dec 24 03:16:30 2001] Teleporting to merlind.
+[Mon Dec 24 03:16:31 2001] Dardoleke feels much better.
+[Mon Dec 24 03:16:34 2001] Markuslefier begins to cast a spell. (Healing)
+[Mon Dec 24 03:16:37 2001] Dardoleke feels much better.
+[Mon Dec 24 03:16:48 2001] Markuslefier is looking at your equipment...
+[Mon Dec 24 03:16:50 2001] You told Merlind, 'Hail, Merlind! Senior Guide Espranza here. You just want your last name removed?'
+[Mon Dec 24 03:17:03 2001] You GMSAY, 'I hate going places and seeing a bunch of bad names.'
+[Mon Dec 24 03:17:28 2001] You GMSAY, 'I don't want to be the bad name fairy'
+[Mon Dec 24 03:17:40 2001] Merlind tells you, 'i am very sorry but i have decided to keep it :-) It has a nice ring to it sorry for the trouble'
+[Mon Dec 24 03:17:52 2001] You told Merlind, 'okay, no troubles'
+[Mon Dec 24 03:17:55 2001] Merlind tells you, 'and merry X-mas to all the GM's'
+[Mon Dec 24 03:17:57 2001] DELETING THIS PETITION
+[Mon Dec 24 03:18:02 2001] You told Merlind, 'and to you!'
+[Mon Dec 24 03:18:11 2001] Hexian GMSAYS, 'Just imagine you never saw them'
+[Mon Dec 24 03:18:18 2001] You GMSAY, 'am doing that now'
+[Mon Dec 24 03:18:29 2001] Mazta says out of character, '**Bows before GM **'
+[Mon Dec 24 03:18:35 2001] Hexian GMSAYS, 'So you are logging off soon?'
+[Mon Dec 24 03:18:37 2001] You GMSAY, 'was going through the thing with Simplesimon, when Kandyman comes up and sits next to me.'
+[Mon Dec 24 03:18:56 2001] Bearhead says out of character, 'b noser'
+[Mon Dec 24 03:19:04 2001] You GMSAY, 'And now Mazta Sticka just bowed before me'
+[Mon Dec 24 03:19:10 2001] Mazta says out of character, 'its called respect'
+[Mon Dec 24 03:19:14 2001] You feel the spirit of Norrath enter you.
+[Mon Dec 24 03:19:15 2001] Bearhead says out of character, 'lol'
+[Mon Dec 24 03:19:17 2001] Hexian GMSAYS, 'LOL'
+[Mon Dec 24 03:19:33 2001] You GMSAY, 'thanks for the bow, name is a title, nerrrrrf'
+[Mon Dec 24 03:20:07 2001] Mazta says out of character, 'treat others the way you want to be treated...the golden rule..ever heard of it?'
+[Mon Dec 24 03:20:09 2001] Hexian GMSAYS, 'The things you senior guides go through.... hehehe have fun.... I'll stick to being a regular guide if I am able'
+[Mon Dec 24 03:20:20 2001] Starrail says out of character, 'I like that rule '
+[Mon Dec 24 03:20:25 2001] You GMSAY, 'I didn't ask to be promoted to change peoples names'
+[Mon Dec 24 03:20:33 2001] Bearhead says out of character, 'I dont see nobody bowing to you? what up wit dat'
+[Mon Dec 24 03:20:42 2001] You GMSAY, 'but until I get put on my final server I have no other dutires'
+[Mon Dec 24 03:20:46 2001] You GMSAY, 'duties'
+[Mon Dec 24 03:20:53 2001] Your feet leave the ground.
+[Mon Dec 24 03:20:57 2001] Mazta says out of character, 'what goes around comes around...all in good time my friend'
+[Mon Dec 24 03:20:58 2001] Hexian GMSAYS, 'your switching servers?'
+[Mon Dec 24 03:21:02 2001] You GMSAY, 'have to'
+[Mon Dec 24 03:21:06 2001] Starrail says out of character, '.../bows to Mazta :)'
+[Mon Dec 24 03:21:11 2001] You GMSAY, 'four seniors max'
+[Mon Dec 24 03:21:14 2001] Mazta says out of character, 'thank you'
+[Mon Dec 24 03:21:18 2001] Bearhead says out of character, 'well I hope they get plenty of lag and crappy zone times too'
+[Mon Dec 24 03:21:19 2001] Hexian GMSAYS, '*crys*'
+[Mon Dec 24 03:21:30 2001] Mazta says out of character, 'you too bud, take it easy'
+[Mon Dec 24 03:21:34 2001] You GMSAY, 'yeah but who knows what will happen in the future'
+[Mon Dec 24 03:22:02 2001] Hexian GMSAYS, 'some day I will figure out your player characters names and get ahold of you on our play server'
+[Mon Dec 24 03:22:10 2001] Hexian GMSAYS, 'hehehehehe'
+[Mon Dec 24 03:22:11 2001] You GMSAY, 'EMarr, right?'
+[Mon Dec 24 03:22:13 2001] Tigreblanc says out of character, 'paly 27 lfg'
+[Mon Dec 24 03:22:15 2001] Hexian GMSAYS, 'yep'
+[Mon Dec 24 03:22:37 2001] Hexian GMSAYS, 'but I can't play on it...<<<<< stupid computer'
+[Mon Dec 24 03:23:00 2001] You GMSAY, 'Etha - unguilded, recommended for Divine Grace and Phoenix Crusaders. Nina, in Twist of Fate. Tipa, in Order of Reverence. Those are the important ones.'
+[Mon Dec 24 03:23:12 2001] Hexian GMSAYS, 'cool'
+[Mon Dec 24 03:23:19 2001] You GMSAY, 'what are your characters?'
+[Mon Dec 24 03:23:52 2001] Hexian GMSAYS, 'Jyster - Holy Guard, Bludysky - without guild, Xcalibar - Ring of Hope'
+[Mon Dec 24 03:24:42 2001] You GMSAY, 'I'll keep an eye out for you :) Aelorian is Silvarian in Divine Grace'
+[Mon Dec 24 03:25:27 2001] Hexian GMSAYS, 'cool... I am not too high of levels at the moment... I'm trying to keep my characters around the same levels for some wierd reason'
+[Mon Dec 24 03:25:56 2001] You GMSAY, 'Etha (55 druid) is about the same as Nina (52 warrior), my other chars are spread out. Next lowest is Tipa (39 rogue)'
+[Mon Dec 24 03:26:21 2001] Espranza saved.
+[Mon Dec 24 03:26:33 2001] You GMSAY, 'but I have characters all up and down the levels (well, none 40-50) we can probably find two that match well...'
+[Mon Dec 24 03:26:45 2001] Hexian GMSAYS, 'actully I keep creating new characters that I play instead of my highest LVL,, which is only 20 because I haven't played for exp in quite awhile'
+[Mon Dec 24 03:27:08 2001] You GMSAY, 'I have a level 21 druid, 21 cleric, 22 mage, and 25 shadow knight'
+[Mon Dec 24 03:27:22 2001] Hexian GMSAYS, 'wow  cool'
+[Mon Dec 24 03:27:27 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 03:27:27 2001] USER TEXT: Hi, my friend tried to log onto his account a few min ago and he gets the message that says he is not suscribed.  I konw for a fact that he is .  Is this a error of some sort as he can log onto the EQ site with his name/pass but not the game
+[Mon Dec 24 03:27:28 2001] Players in EverQuest:
+[Mon Dec 24 03:27:28 2001] ---------------------------
+[Mon Dec 24 03:27:28 2001] [20 Wizard] Merlind (Erudite) ZONE: lakeofillomen (USER PID D0HGTRP)
+[Mon Dec 24 03:27:28 2001] There is 1 player in EverQuest.
+[Mon Dec 24 03:27:51 2001] You GMSAY, '<-- has a lot of characters'
+[Mon Dec 24 03:27:54 2001] UNDOING CHECK OUT
+[Mon Dec 24 03:28:07 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 03:28:08 2001] USER TEXT: i cannot loot terrorantulas corpse it says too far away
+[Mon Dec 24 03:28:08 2001] Players in EverQuest:
+[Mon Dec 24 03:28:08 2001] ---------------------------
+[Mon Dec 24 03:28:08 2001] [53 Minstrel] Luvi (Half Elf) <Legions of Valhalla> ZONE: sro (USER PID ESQW8LG)
+[Mon Dec 24 03:28:08 2001] There is 1 player in EverQuest.
+[Mon Dec 24 03:28:13 2001] Hexian GMSAYS, 'pulling merlind'
+[Mon Dec 24 03:28:21 2001] You GMSAY, 'zone'
+[Mon Dec 24 03:28:26 2001] Teleporting to luvi.
+[Mon Dec 24 03:28:26 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 03:28:53 2001] You have entered Southern Desert of Ro.
+[Mon Dec 24 03:28:58 2001] Luvi tries to cast a spell on you, but you are protected.
+[Mon Dec 24 03:29:10 2001] Luvi tries to cast a spell on you, but you are protected.
+[Mon Dec 24 03:29:10 2001] A puma flees in terror.
+[Mon Dec 24 03:29:10 2001] A shriveled mummy flees in terror.
+[Mon Dec 24 03:29:16 2001] Dordaar says, 'Hail, Espranza'
+[Mon Dec 24 03:29:18 2001] You say, 'target his corpse and then type /loot'
+[Mon Dec 24 03:29:33 2001] Luvi's song ends abruptly.
+[Mon Dec 24 03:29:33 2001] Luvi's song ends.
+[Mon Dec 24 03:29:34 2001] You say, 'the right spot is sometimes hard to find with big mobs'
+[Mon Dec 24 03:29:37 2001]  (Angstlich`s Appalling Screech)
+[Mon Dec 24 03:29:40 2001] Luvi tries to cast a spell on you, but you are protected.
+[Mon Dec 24 03:29:40 2001] A puma flees in terror.
+[Mon Dec 24 03:29:40 2001] A shriveled mummy flees in terror.
+[Mon Dec 24 03:29:46 2001] Luvi tries to cast a spell on you, but you are protected.
+[Mon Dec 24 03:29:52 2001] Luvi tries to cast a spell on you, but you are protected.
+[Mon Dec 24 03:29:55 2001] Luvi says, 'cant get it ('
+[Mon Dec 24 03:29:58 2001] Luvi tries to cast a spell on you, but you are protected.
+[Mon Dec 24 03:30:00 2001] You are too far away to loot that corpse.
+[Mon Dec 24 03:30:03 2001] You are too far away to loot that corpse.
+[Mon Dec 24 03:30:04 2001] Luvi tries to cast a spell on you, but you are protected.
+[Mon Dec 24 03:30:04 2001] A shriveled mummy flees in terror.
+[Mon Dec 24 03:30:06 2001] Someone is already looting that corpse.
+[Mon Dec 24 03:30:10 2001] A puma flees in terror.
+[Mon Dec 24 03:30:11 2001] Luvi says, 'ahah at last )'
+[Mon Dec 24 03:30:16 2001] Luvi tries to cast a spell on you, but you are protected.
+[Mon Dec 24 03:30:18 2001] DELETING THIS PETITION
+[Mon Dec 24 03:30:22 2001] Luvi tries to cast a spell on you, but you are protected.
+[Mon Dec 24 03:30:28 2001] Luvi tries to cast a spell on you, but you are protected.
+[Mon Dec 24 03:30:28 2001] A shriveled mummy flees in terror.
+[Mon Dec 24 03:30:28 2001] You say, 'You're not making many friends with AE fear ya know'
+[Mon Dec 24 03:30:40 2001] A puma flees in terror.
+[Mon Dec 24 03:30:52 2001] A shriveled mummy flees in terror.
+[Mon Dec 24 03:31:07 2001] Luvi says, 'lol thanks for help )'
+[Mon Dec 24 03:31:12 2001] You say, 'sure thing'
+[Mon Dec 24 03:31:12 2001] Dordaar begins to cast a spell. (Resurrection)
+[Mon Dec 24 03:31:12 2001]  (Largo`s Absonant Binding)
+[Mon Dec 24 03:31:25 2001]  (Tuyen`s Chant of Frost)
+[Mon Dec 24 03:32:48 2001] Players in EverQuest:
+[Mon Dec 24 03:32:48 2001] ---------------------------
+[Mon Dec 24 03:32:48 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: sro (USER PID B4KJ6E7)
+[Mon Dec 24 03:32:48 2001] * Apprentice Guide *[20 Druid] Hexian (Wood Elf) ZONE: gfaydark (USER PID F4PGZAE)
+[Mon Dec 24 03:32:48 2001] There are 2 players in EverQuest.
+[Mon Dec 24 03:32:58 2001] You GMSAY, 'done with your petitions, Hex?'
+[Mon Dec 24 03:33:08 2001] You feel as if you are about to fall.
+[Mon Dec 24 03:33:14 2001] You feel as if you are about to fall.
+[Mon Dec 24 03:33:20 2001] You can no longer levitate.
+[Mon Dec 24 03:33:26 2001] Hexian GMSAYS, 'yep'
+[Mon Dec 24 03:33:32 2001] Hexian GMSAYS, 'deleting Merlind'
+[Mon Dec 24 03:33:40 2001] Hexian GMSAYS, 'going to bed?'
+[Mon Dec 24 03:33:43 2001] You GMSAY, 'yup'
+[Mon Dec 24 03:34:05 2001] Hexian GMSAYS, 'alright then, I hope to see you around. Fare thy well.'
+[Mon Dec 24 03:34:11 2001] You GMSAY, 'you're doing really well, Hex... thought you should know ;)'
+[Mon Dec 24 03:34:15 2001] You no longer have a target.
+[Mon Dec 24 03:34:15 2001] You no longer have a target.
+[Mon Dec 24 03:34:41 2001] You GMSAY, 'goodnight!'
+[Mon Dec 24 03:34:45 2001] Hexian GMSAYS, 'Thank you, thats very kind of you.'
+[Mon Dec 24 03:34:46 2001] It will take you about 30 seconds to prepare your camp.
+[Mon Dec 24 03:34:50 2001] It will take about 25 more seconds to prepare your camp.
+[Mon Dec 24 03:34:51 2001] Hexian GMSAYS, 'Good night'
+[Mon Dec 24 03:34:55 2001] It will take about 20 more seconds to prepare your camp.
+[Mon Dec 24 03:35:00 2001] It will take about 15 more seconds to prepare your camp.
+[Mon Dec 24 03:35:05 2001] It will take about 10 more seconds to prepare your camp.
+[Mon Dec 24 03:35:10 2001] It will take about 5 more seconds to prepare your camp.

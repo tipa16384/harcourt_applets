@@ -1,0 +1,1535 @@
+[Sat Mar 02 14:56:11 2002] Welcome to EverQuest!
+[Sat Mar 02 14:56:11 2002] You have entered Sunset Home.
+[Sat Mar 02 14:56:11 2002] MESSAGE OF THE DAY: Greetings Morell-Thule! We are aware of the error with faction text messages. Please be assured it's only a text error, and factions are working properly.
+[Sat Mar 02 14:56:16 2002] Players in EverQuest:
+[Sat Mar 02 14:56:16 2002] ---------------------------
+[Sat Mar 02 14:56:16 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Mar 02 14:56:16 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID BUUWN74)
+[Sat Mar 02 14:56:16 2002] * Guide *[55 Preserver] Cazza (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID AUUXD1E)
+[Sat Mar 02 14:56:16 2002] * Apprentice Guide *[20 Bard] Maia (Half Elf) ZONE: kithicor (USER PID ATTU7ER)
+[Sat Mar 02 14:56:16 2002] * Apprentice Guide *[20 Shadow Knight] Silae (Dark Elf) ZONE: kithicor (USER PID FR5RD3M)
+[Sat Mar 02 14:56:16 2002] There are 5 players in EverQuest.
+[Sat Mar 02 14:56:23 2002] You GMSAY, 'put some clothes on Kilm'
+[Sat Mar 02 14:56:27 2002] Cazza says, 'I shall return asap'
+[Sat Mar 02 14:56:33 2002] Players in EverQuest:
+[Sat Mar 02 14:56:33 2002] ---------------------------
+[Sat Mar 02 14:56:33 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Mar 02 14:56:33 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID BUUWN74)
+[Sat Mar 02 14:56:33 2002] * Guide *[55 Preserver] Cazza (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID AUUXD1E)
+[Sat Mar 02 14:56:33 2002] * Apprentice Guide *[20 Bard] Maia (Half Elf) ZONE: kithicor (USER PID ATTU7ER)
+[Sat Mar 02 14:56:33 2002] * Apprentice Guide *[20 Shadow Knight] Silae (Dark Elf) ZONE: kithicor (USER PID FR5RD3M)
+[Sat Mar 02 14:56:33 2002] There are 5 players in EverQuest.
+[Sat Mar 02 14:56:41 2002] Players on EverQuest:
+[Sat Mar 02 14:56:41 2002] ---------------------------
+[Sat Mar 02 14:56:41 2002] * GM * [55 Preserver] Cazza (Wood Elf) <Keepers of Dreams>
+[Sat Mar 02 14:56:41 2002] [ANONYMOUS] Laral 
+[Sat Mar 02 14:56:41 2002] * GM * [54 Rake] Kilm (Barbarian) <Keepers of Dreams>
+[Sat Mar 02 14:56:41 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Mar 02 14:56:41 2002] There are 4 players in Sunset Home.
+[Sat Mar 02 14:56:48 2002] You GMSAY, 'hello everyone!'
+[Sat Mar 02 14:56:50 2002] Kilm GMSAYS, 'Hi yas Esp :) '
+[Sat Mar 02 14:56:53 2002] You bow before Laral.
+[Sat Mar 02 14:56:56 2002] Kilm hugs Espranza.
+[Sat Mar 02 14:56:56 2002] Kilm hugs Espranza.
+[Sat Mar 02 14:56:57 2002] Kilm hugs Espranza.
+[Sat Mar 02 14:56:57 2002] Kilm hugs Espranza.
+[Sat Mar 02 14:56:57 2002] Kilm hugs Espranza.
+[Sat Mar 02 14:57:00 2002] You say, 'Hello, Laral!'
+[Sat Mar 02 14:57:00 2002] Laral bows before Espranza.
+[Sat Mar 02 14:57:01 2002] Silae GMSAYS, 'hiya's Esp :D'
+[Sat Mar 02 14:57:02 2002] Cazza GMSAYS, 'hello espranza we have another app doesnt have the cshome files'
+[Sat Mar 02 14:57:07 2002] Cazza GMSAYS, 'getting them for him now'
+[Sat Mar 02 14:57:10 2002] Laral says, 'greetings'
+[Sat Mar 02 14:57:17 2002] You GMSAY, 'I can send them if you like'
+[Sat Mar 02 14:57:26 2002] Maia GMSAYS, 'Hello Esp and goodbye all.   My computer is ready now.   Gonna relog  brb'
+[Sat Mar 02 14:57:32 2002] Lancet GMSAYS, 'back'
+[Sat Mar 02 14:57:35 2002] You GMSAY, 'see ya.'
+[Sat Mar 02 14:57:38 2002] You GMSAY, 'Hi Lancet!'
+[Sat Mar 02 14:57:40 2002] Silae GMSAYS, 'okies Maia.. ciao for now'
+[Sat Mar 02 14:57:46 2002] Maia GMSAYS, 'anon to camp'
+[Sat Mar 02 14:57:56 2002] You say to your guild, 'Lirus here?'
+[Sat Mar 02 14:58:03 2002] Kilm tells the guild, 'not yet '
+[Sat Mar 02 14:58:09 2002] Lancet tells the guild, 'not yet'
+[Sat Mar 02 14:58:11 2002] Maia GMSAYS, 'Esp...don't let them talk about me anymore!!! :)'
+[Sat Mar 02 14:58:21 2002] Silae GMSAYS, 'wb Lancet :)'
+[Sat Mar 02 14:58:22 2002] Lancet tells the guild, 'where caz o'
+[Sat Mar 02 14:58:25 2002] You GMSAY, 'why? got half the book written already'
+[Sat Mar 02 14:58:31 2002] You say to your guild, 'sending an appie some cshome files'
+[Sat Mar 02 14:58:38 2002] You say to your guild, 'apparently they don't have them'
+[Sat Mar 02 14:58:41 2002] Kilm tells the guild, 'She went to send the other appie the cshome files '
+[Sat Mar 02 14:59:06 2002] Lancet tells the guild, 'yea he never send me his email all he had was hotmail'
+[Sat Mar 02 14:59:30 2002] You say to your guild, 'I've been able to send them to hotmail before, if that's all they had'
+[Sat Mar 02 14:59:39 2002] You say to your guild, 'ICQ is the thing that won't work well for me'
+[Sat Mar 02 14:59:43 2002] Silae GMSAYS, 'deleting Joshuaa'
+[Sat Mar 02 14:59:59 2002] Silae GMSAYS, 'pulling xatrees'
+[Sat Mar 02 15:00:03 2002] You GMSAY, 'going through the reds looking for name changes so I can escalate them to Lancet'
+[Sat Mar 02 15:00:05 2002] Kilm tells the guild, 'Icq bites for me anymore.. my router firewall just doesn't like it at all '
+[Sat Mar 02 15:00:09 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:00:09 2002] USER TEXT: just trying to find out the status on my main character that's stuck in the nexus please
+[Sat Mar 02 15:00:10 2002] Players in EverQuest:
+[Sat Mar 02 15:00:10 2002] ---------------------------
+[Sat Mar 02 15:00:10 2002] There are no players in EverQuest that match those who filters.
+[Sat Mar 02 15:00:12 2002] UNDOING CHECK OUT
+[Sat Mar 02 15:00:14 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:00:16 2002] USER TEXT: I have something to tell ya!
+[Sat Mar 02 15:00:16 2002] Players in EverQuest:
+[Sat Mar 02 15:00:16 2002] ---------------------------
+[Sat Mar 02 15:00:16 2002] [8 Enchanter] Celanarin (High Elf) ZONE: ecommons (USER PID FUJJDF9)
+[Sat Mar 02 15:00:16 2002] There is 1 player in EverQuest.
+[Sat Mar 02 15:00:19 2002] GM TEXT: Kilm: Players states he lost a beserkers sword, couple giant snake fangs and some collars and one other item he forgot the name on..  Player hit cancel trade and bag disappeared. 
+[Sat Mar 02 15:00:23 2002] UNDOING CHECK OUT
+[Sat Mar 02 15:00:25 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:00:25 2002] USER TEXT: pllleeasseee do Lirus pop i'm waiting for her to tag me since 3 days, and each day to 3 am euro time ;(
+[Sat Mar 02 15:00:26 2002] Players in EverQuest:
+[Sat Mar 02 15:00:26 2002] ---------------------------
+[Sat Mar 02 15:00:26 2002] [60 Crusader] Aldiyin (High Elf) ZONE: soldungb (USER PID AS5BTR8)
+[Sat Mar 02 15:00:26 2002] There is 1 player in EverQuest.
+[Sat Mar 02 15:00:31 2002] UNDOING CHECK OUT
+[Sat Mar 02 15:00:33 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:00:34 2002] USER TEXT: being harassed by Kilm and Lancet.  I pay to play, and will NOT take this abuse!! LOL
+[Sat Mar 02 15:00:34 2002] Players in EverQuest:
+[Sat Mar 02 15:00:34 2002] ---------------------------
+[Sat Mar 02 15:00:34 2002] There are no players in EverQuest that match those who filters.
+[Sat Mar 02 15:00:37 2002] GM TEXT: 
+[Sat Mar 02 15:00:46 2002] UNDOING CHECK OUT
+[Sat Mar 02 15:00:48 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:00:48 2002] USER TEXT: i just got married today to Railious Warheart (he just logged cause his brother wanted to get on) if there is any senior guides can they plz change my last name to Warheart?
+[Sat Mar 02 15:00:49 2002] Players in EverQuest:
+[Sat Mar 02 15:00:49 2002] ---------------------------
+[Sat Mar 02 15:00:49 2002] [28 Ranger] Shaynow (Wood Elf) <Hunters of Darkness> ZONE: overthere (USER PID AVWNZT1)
+[Sat Mar 02 15:00:49 2002] There is 1 player in EverQuest.
+[Sat Mar 02 15:01:25 2002] You told Shaynow, 'Hail, Shaynow! Senior Guide Espranza here. I can grant you your new last name!'
+[Sat Mar 02 15:01:38 2002] Your feet leave the ground.
+[Sat Mar 02 15:01:46 2002] Shaynow tells you, 'Thank You =)'
+[Sat Mar 02 15:01:47 2002] Spell particle effects are currently ON.
+[Sat Mar 02 15:01:50 2002] You GMSAY, 'zone'
+[Sat Mar 02 15:01:55 2002] You feel the spirit of Z surround you.
+[Sat Mar 02 15:01:55 2002] You feel the spirit of Z surround you.
+[Sat Mar 02 15:01:58 2002] LOADING, PLEASE WAIT...
+[Sat Mar 02 15:02:27 2002] Nutheads says out of character, 'LVL 39 Warrior LFG'
+[Sat Mar 02 15:02:47 2002] Kildaor shouts, 'Donating for a port'
+[Sat Mar 02 15:02:48 2002] You have entered The Overthere.
+[Sat Mar 02 15:02:54 2002] Teleporting to shaynow.
+[Sat Mar 02 15:03:06 2002] You have changed Shaynow's last name to Warheart.
+[Sat Mar 02 15:03:12 2002] Ceinnoni beams a smile at Espranza.
+[Sat Mar 02 15:03:18 2002] Ceinnoni says, 'Hello sister'
+[Sat Mar 02 15:03:23 2002] A Sarnak knight hits Krathger for 84 points of damage.
+[Sat Mar 02 15:03:24 2002] Krathger pierces a Sarnak knight for 22 points of damage.
+[Sat Mar 02 15:03:26 2002] A Sarnak knight hits Krathger for 50 points of damage.
+[Sat Mar 02 15:03:26 2002] Shaynow slashes a Sarnak knight for 2 points of damage.
+[Sat Mar 02 15:03:26 2002] Krathger pierces a Sarnak knight for 23 points of damage.
+[Sat Mar 02 15:03:28 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:28 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:28 2002] A Sarnak knight's skin is rent by shards of velium.
+[Sat Mar 02 15:03:28 2002] Lyanya slashes a Sarnak knight for 6 points of damage.
+[Sat Mar 02 15:03:29 2002] Lyanya pierces a Sarnak knight for 1 point of damage.
+[Sat Mar 02 15:03:29 2002]  (Anthem de Arms)
+[Sat Mar 02 15:03:29 2002] A Sarnak knight hits Krathger for 76 points of damage.
+[Sat Mar 02 15:03:29 2002] Krathger pierces a Sarnak knight for 59 points of damage.
+[Sat Mar 02 15:03:29 2002] You GMSAY, '<note name> Shaynow AVWNZT1 last name changed to Warheart by request'
+[Sat Mar 02 15:03:32 2002] A Sarnak knight hits Krathger for 31 points of damage.
+[Sat Mar 02 15:03:32 2002] A Sarnak knight hits Krathger for 12 points of damage.
+[Sat Mar 02 15:03:32 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:32 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:32 2002] Drakoneous says, 'bah, hobbits!  They're only good for eating =p'
+[Sat Mar 02 15:03:32 2002] Lyanya lets loose a great bellow. (Brusco`s Boastful Bellow)
+[Sat Mar 02 15:03:32 2002] Lyanya slashes a Sarnak knight for 7 points of damage.
+[Sat Mar 02 15:03:34 2002] Krathger pierces a Sarnak knight for 7 points of damage.
+[Sat Mar 02 15:03:35 2002] A Sarnak knight reels in pain.
+[Sat Mar 02 15:03:36 2002] Shaynow slashes a Sarnak knight for 25 points of damage.
+[Sat Mar 02 15:03:36 2002] Krathger pierces a Sarnak knight for 38 points of damage.
+[Sat Mar 02 15:03:36 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:36 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:36 2002] A Sarnak knight hits Krathger for 12 points of damage.
+[Sat Mar 02 15:03:36 2002] A Sarnak knight hits Krathger for 46 points of damage.
+[Sat Mar 02 15:03:37 2002]  (Selo`s Consonant Chain)
+[Sat Mar 02 15:03:37 2002] Lyanya slashes a Sarnak knight for 23 points of damage.
+[Sat Mar 02 15:03:38 2002] Krathger Scores a critical hit!(66)
+[Sat Mar 02 15:03:38 2002] Krathger pierces a Sarnak knight for 66 points of damage.
+[Sat Mar 02 15:03:38 2002] Shaynow slashes a Sarnak knight for 14 points of damage.
+[Sat Mar 02 15:03:39 2002] Lyanya slashes a Sarnak knight for 28 points of damage.
+[Sat Mar 02 15:03:40 2002] You bow before Ceinnoni.
+[Sat Mar 02 15:03:40 2002] A Sarnak knight bashes Krathger for 9 points of damage.
+[Sat Mar 02 15:03:40 2002] A Sarnak knight is surrounded by chains of music.
+[Sat Mar 02 15:03:40 2002] Krathger bashes a Sarnak knight for 11 points of damage.
+[Sat Mar 02 15:03:41 2002] Krathger pierces a Sarnak knight for 25 points of damage.
+[Sat Mar 02 15:03:41 2002] Shaynow pierces a Sarnak knight for 11 points of damage.
+[Sat Mar 02 15:03:41 2002] Shaynow slashes a Sarnak knight for 23 points of damage.
+[Sat Mar 02 15:03:42 2002] Ceinnoni says, 'Eating you, maybe LOOL'
+[Sat Mar 02 15:03:42 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:42 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:42 2002]  (Anthem de Arms)
+[Sat Mar 02 15:03:42 2002] A Sarnak knight hits Krathger for 23 points of damage.
+[Sat Mar 02 15:03:43 2002] Shaynow pierces a Sarnak knight for 16 points of damage.
+[Sat Mar 02 15:03:43 2002] Shaynow slashes a Sarnak knight for 3 points of damage.
+[Sat Mar 02 15:03:44 2002] Lyanya pierces a Sarnak knight for 4 points of damage.
+[Sat Mar 02 15:03:45 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:45 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:45 2002] Shaynow slashes a Sarnak knight for 7 points of damage.
+[Sat Mar 02 15:03:46 2002] Lyanya lets loose a great bellow. (Brusco`s Boastful Bellow)
+[Sat Mar 02 15:03:46 2002] Krathger pierces a Sarnak knight for 44 points of damage.
+[Sat Mar 02 15:03:46 2002] A Sarnak knight hits Krathger for 76 points of damage.
+[Sat Mar 02 15:03:47 2002] You say, 'Hello, sister!'
+[Sat Mar 02 15:03:48 2002] Krathger pierces a Sarnak knight for 18 points of damage.
+[Sat Mar 02 15:03:48 2002] A Sarnak knight reels in pain.
+[Sat Mar 02 15:03:49 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:49 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:49 2002] Lyanya pierces a Sarnak knight for 6 points of damage.
+[Sat Mar 02 15:03:49 2002] A Sarnak knight bashes Krathger for 9 points of damage.
+[Sat Mar 02 15:03:50 2002] Drakoneous punches a Sarnak knight for 7 points of damage.
+[Sat Mar 02 15:03:50 2002] Drakoneous punches a Sarnak knight for 24 points of damage.
+[Sat Mar 02 15:03:50 2002] Drakoneous punches a Sarnak knight for 17 points of damage.
+[Sat Mar 02 15:03:50 2002]  (Selo`s Consonant Chain)
+[Sat Mar 02 15:03:50 2002] Krathger pierces a Sarnak knight for 18 points of damage.
+[Sat Mar 02 15:03:51 2002] Lyanya slashes a Sarnak knight for 23 points of damage.
+[Sat Mar 02 15:03:52 2002] Lyanya pierces a Sarnak knight for 16 points of damage.
+[Sat Mar 02 15:03:53 2002] A Sarnak knight hits Krathger for 38 points of damage.
+[Sat Mar 02 15:03:53 2002] A Sarnak knight hits Krathger for 38 points of damage.
+[Sat Mar 02 15:03:53 2002] Drakoneous punches a Sarnak knight for 23 points of damage.
+[Sat Mar 02 15:03:53 2002] Krathger pierces a Sarnak knight for 20 points of damage.
+[Sat Mar 02 15:03:53 2002] Lyanya slashes a Sarnak knight for 14 points of damage.
+[Sat Mar 02 15:03:54 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:54 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:54 2002]  (Anthem de Arms)
+[Sat Mar 02 15:03:55 2002] Krathger pierces a Sarnak knight for 44 points of damage.
+[Sat Mar 02 15:03:56 2002] Lyanya slashes a Sarnak knight for 10 points of damage.
+[Sat Mar 02 15:03:57 2002] Lyanya pierces a Sarnak knight for 14 points of damage.
+[Sat Mar 02 15:03:59 2002] Shaynow pierces a Sarnak knight for 16 points of damage.
+[Sat Mar 02 15:03:59 2002] Shaynow slashes a Sarnak knight for 15 points of damage.
+[Sat Mar 02 15:03:59 2002] A Sarnak knight hits Krathger for 80 points of damage.
+[Sat Mar 02 15:03:59 2002] Lyanya slashes a Sarnak knight for 23 points of damage.
+[Sat Mar 02 15:03:59 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:59 2002] Lyanya's song ends.
+[Sat Mar 02 15:03:59 2002] Drakoneous punches a Sarnak knight for 20 points of damage.
+[Sat Mar 02 15:03:59 2002] Drakoneous punches a Sarnak knight for 22 points of damage.
+[Sat Mar 02 15:03:59 2002] Lyanya lets loose a great bellow. (Brusco`s Boastful Bellow)
+[Sat Mar 02 15:03:59 2002] Krathger bashes a Sarnak knight for 1 point of damage.
+[Sat Mar 02 15:03:59 2002] Drakoneous kicks a Sarnak knight for 44 points of damage.
+[Sat Mar 02 15:04:00 2002] Naedine sits down and begins to pray.
+[Sat Mar 02 15:04:00 2002] Shaynow slashes a Sarnak knight for 6 points of damage.
+[Sat Mar 02 15:04:00 2002] Krathger pierces a Sarnak knight for 26 points of damage.
+[Sat Mar 02 15:04:00 2002] Lyanya slashes a Sarnak knight for 4 points of damage.
+[Sat Mar 02 15:04:00 2002] A Sarnak knight hits Krathger for 76 points of damage.
+[Sat Mar 02 15:04:00 2002] A Sarnak knight hits Krathger for 12 points of damage.
+[Sat Mar 02 15:04:01 2002] Drakoneous punches a Sarnak knight for 4 points of damage.
+[Sat Mar 02 15:04:01 2002] Drakoneous punches a Sarnak knight for 19 points of damage.
+[Sat Mar 02 15:04:02 2002] Lyanya pierces a Sarnak knight for 10 points of damage.
+[Sat Mar 02 15:04:02 2002] A Sarnak knight reels in pain.
+[Sat Mar 02 15:04:02 2002] Shaynow pierces a Sarnak knight for 16 points of damage.
+[Sat Mar 02 15:04:02 2002] Shaynow slashes a Sarnak knight for 17 points of damage.
+[Sat Mar 02 15:04:02 2002] Krathger pierces a Sarnak knight for 16 points of damage.
+[Sat Mar 02 15:04:03 2002] Lyanya's song ends.
+[Sat Mar 02 15:04:03 2002] Lyanya's song ends.
+[Sat Mar 02 15:04:04 2002]  (Selo`s Consonant Chain)
+[Sat Mar 02 15:04:05 2002] Drakoneous punches a Sarnak knight for 22 points of damage.
+[Sat Mar 02 15:04:05 2002] Drakoneous punches a Sarnak knight for 4 points of damage.
+[Sat Mar 02 15:04:05 2002] Drakoneous punches a Sarnak knight for 10 points of damage.
+[Sat Mar 02 15:04:07 2002] Drakoneous punches a Sarnak knight for 4 points of damage.
+[Sat Mar 02 15:04:07 2002] A Sarnak knight is surrounded by chains of music.
+[Sat Mar 02 15:04:07 2002] Krathger bashes a Sarnak knight for 17 points of damage.
+[Sat Mar 02 15:04:08 2002] Lyanya's song ends.
+[Sat Mar 02 15:04:08 2002] Lyanya's song ends.
+[Sat Mar 02 15:04:08 2002]  (Anthem de Arms)
+[Sat Mar 02 15:04:09 2002] Lyanya pierces a Sarnak knight for 16 points of damage.
+[Sat Mar 02 15:04:10 2002] Drakoneous punches a Sarnak knight for 5 points of damage.
+[Sat Mar 02 15:04:11 2002] Lyanya pierces a Sarnak knight for 5 points of damage.
+[Sat Mar 02 15:04:12 2002] Lyanya's song ends.
+[Sat Mar 02 15:04:12 2002] Lyanya's song ends.
+[Sat Mar 02 15:04:12 2002] Krathger pierces a Sarnak knight for 46 points of damage.
+[Sat Mar 02 15:04:12 2002] a Sarnak knight has been slain by Krathger!
+[Sat Mar 02 15:04:12 2002] A missed note brings Lyanya's song to a close!
+[Sat Mar 02 15:04:12 2002] Lyanya's song ends.
+[Sat Mar 02 15:04:17 2002] You told Shaynow, 'Your last name has been changed, is it what you wanted?'
+[Sat Mar 02 15:04:19 2002] Tecular shouts, 'can anyone breeze or sow near mudpit?'
+[Sat Mar 02 15:04:20 2002] DELETING THIS PETITION
+[Sat Mar 02 15:04:20 2002]  (Cassindra`s Chorus of Clarity)
+[Sat Mar 02 15:04:20 2002] Jarto shouts, 'lvl 34 shamna lfg'
+[Sat Mar 02 15:04:23 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:04:23 2002] USER TEXT: repetitioning about lost item
+[Sat Mar 02 15:04:24 2002] Players in EverQuest:
+[Sat Mar 02 15:04:24 2002] ---------------------------
+[Sat Mar 02 15:04:24 2002] [45 Paladin] Kenk (Dwarf) <  Protectors of the Unknown  > ZONE: ecommons (USER PID FYHMBNM)
+[Sat Mar 02 15:04:24 2002] There is 1 player in EverQuest.
+[Sat Mar 02 15:04:26 2002] UNDOING CHECK OUT
+[Sat Mar 02 15:04:29 2002] Shaynow tells you, 'Yep thank you =)'
+[Sat Mar 02 15:04:35 2002] You bow before Shaynow.
+[Sat Mar 02 15:04:37 2002] You GMSAY, 'zone'
+[Sat Mar 02 15:04:41 2002] You feel the spirit of Z surround you.
+[Sat Mar 02 15:04:42 2002] LOADING, PLEASE WAIT...
+[Sat Mar 02 15:05:03 2002] You have entered Sunset Home.
+[Sat Mar 02 15:05:06 2002] Lirus GMSAYS, 'hey hey'
+[Sat Mar 02 15:05:13 2002] You GMSAY, 'Lirus!'
+[Sat Mar 02 15:05:18 2002] Silae GMSAYS, '*hides from Lirus*'
+[Sat Mar 02 15:05:23 2002] Lancet GMSAYS, 'hiya'
+[Sat Mar 02 15:05:24 2002] Kilm GMSAYS, 'Lirus !'
+[Sat Mar 02 15:05:27 2002] Lirus GMSAYS, 'how goes?'
+[Sat Mar 02 15:05:36 2002] Kilm GMSAYS, '*tackle hugs Lirus* '
+[Sat Mar 02 15:05:38 2002] You can no longer levitate.
+[Sat Mar 02 15:05:39 2002] Lirus GMSAYS, 'ooof'
+[Sat Mar 02 15:05:42 2002] Lirus GMSAYS, '/hug kilm'
+[Sat Mar 02 15:05:55 2002] Kilm GMSAYS, ':=) '
+[Sat Mar 02 15:06:21 2002] Lancet GMSAYS, 'roflmao 2 nearly naked guys hugging whats that tell you'
+[Sat Mar 02 15:06:25 2002] You say, 'Have you talked with Llara yet?'
+[Sat Mar 02 15:06:28 2002] Kilm says, 'Hi yas Gmone :D '
+[Sat Mar 02 15:06:41 2002] You say, 'you calling ME a gnome?'
+[Sat Mar 02 15:06:48 2002] Silae GMSAYS, 'anyone know if the skellies in shadeweaver are spawning in overdrive?'
+[Sat Mar 02 15:06:48 2002] Kilm GMSAYS, 'tells you were in touch with our inner selfs :p '
+[Sat Mar 02 15:06:55 2002] Kilm says, 'Not I :) '
+[Sat Mar 02 15:07:00 2002] You turn an icy glare upon Kilm.
+[Sat Mar 02 15:07:09 2002] Kilm snickers softly at Espranza.
+[Sat Mar 02 15:07:12 2002] Kilm teases Espranza mercilessly.
+[Sat Mar 02 15:07:23 2002] You say, 'you could find yourself with a lot less under that skirt than you started with'
+[Sat Mar 02 15:07:27 2002] Silae GMSAYS, '*not gonna go there*'
+[Sat Mar 02 15:07:46 2002] Kilm says, '\Skirt ?'
+[Sat Mar 02 15:07:48 2002] Lirus GMSAYS, 'lol'
+[Sat Mar 02 15:07:51 2002] Lirus GMSAYS, 'zone'
+[Sat Mar 02 15:07:55 2002] Players in EverQuest:
+[Sat Mar 02 15:07:55 2002] ---------------------------
+[Sat Mar 02 15:07:55 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Mar 02 15:07:55 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: greatdivide (USER PID CW1ECN5)
+[Sat Mar 02 15:07:55 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID BUUWN74)
+[Sat Mar 02 15:07:55 2002] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Sat Mar 02 15:07:55 2002] * Apprentice Guide *[20 Shadow Knight] Silae (Dark Elf) ZONE: kithicor (USER PID FR5RD3M)
+[Sat Mar 02 15:07:55 2002] There are 5 players in EverQuest.
+[Sat Mar 02 15:07:59 2002] Kilm says, 'blah, Kilt gnome :D '
+[Sat Mar 02 15:08:10 2002] You say, 'Second warning, future femme'
+[Sat Mar 02 15:08:21 2002] Kilm says, 'rofl'
+[Sat Mar 02 15:08:56 2002] You say, 'have you had a chance to explore, Laral?'
+[Sat Mar 02 15:09:08 2002] Silae GMSAYS, 'ok, who's been feeding some of these mobs wheaties?'
+[Sat Mar 02 15:09:08 2002] Laral says, 'yes I have'
+[Sat Mar 02 15:09:32 2002] You say, 'The sort of crypt like feel to the place...'
+[Sat Mar 02 15:09:38 2002] You say, 'Stately yet oppressive.'
+[Sat Mar 02 15:09:43 2002] Lirus GMSAYS, 'have a good one folks, don't mean to keep ya up all night)'
+[Sat Mar 02 15:09:44 2002] You no longer have a target.
+[Sat Mar 02 15:09:44 2002] You shiver.  Brrrrrr.
+[Sat Mar 02 15:09:57 2002] You GMSAY, 'are you leaving?'
+[Sat Mar 02 15:10:09 2002] Lirus GMSAYS, 'who?'
+[Sat Mar 02 15:10:20 2002] You GMSAY, 'you made it sound like you were leaving'
+[Sat Mar 02 15:10:25 2002] Silae GMSAYS, 'you, silly.. lol'
+[Sat Mar 02 15:10:34 2002] Lancet GMSAYS, 'ZONING'
+[Sat Mar 02 15:10:49 2002] You wave at Cazza.
+[Sat Mar 02 15:10:57 2002] Cazza says, 'back sorry about that, Bariton should be here in a couple minutes tops'
+[Sat Mar 02 15:11:20 2002] You feel different.
+[Sat Mar 02 15:11:28 2002] Espranza burps.
+[Sat Mar 02 15:11:33 2002] Your illusion fades.
+[Sat Mar 02 15:11:34 2002] Silae GMSAYS, 'deleting Xatrees.. assured him that if he too ate his wheaties, he will be big and strong like the skellies'
+[Sat Mar 02 15:11:38 2002] Requesting to change Espranza's height from 3 to 4.
+[Sat Mar 02 15:12:15 2002] Cazza GMSAYS, 'hahaha'
+[Sat Mar 02 15:12:22 2002] It begins to rain.
+[Sat Mar 02 15:12:38 2002] Kilm cheers at Bariton.
+[Sat Mar 02 15:12:38 2002] Silae GMSAYS, 'pullin vanrea'
+[Sat Mar 02 15:12:40 2002] Kilm cheers at Bariton.
+[Sat Mar 02 15:12:40 2002] You told Cazza, 'you're gonna be our only kitty guide'
+[Sat Mar 02 15:12:41 2002] Kilm cheers at Bariton.
+[Sat Mar 02 15:12:41 2002] Cazza tells you, 'woot!'
+[Sat Mar 02 15:12:44 2002] Lancet tells the guild, 'caz who you send file too?'
+[Sat Mar 02 15:12:46 2002] Cazza hugs Bariton.
+[Sat Mar 02 15:12:53 2002] Bariton beams a smile at Cazza.
+[Sat Mar 02 15:12:54 2002] Cazza tells you, 'woot!'
+[Sat Mar 02 15:13:02 2002] Laral bows before Bariton.
+[Sat Mar 02 15:13:05 2002] Players on EverQuest:
+[Sat Mar 02 15:13:05 2002] ---------------------------
+[Sat Mar 02 15:13:05 2002] [ANONYMOUS] Bariton 
+[Sat Mar 02 15:13:05 2002] * GM * [55 Preserver] Cazza (Wood Elf) <Keepers of Dreams>
+[Sat Mar 02 15:13:05 2002] [ANONYMOUS] Laral 
+[Sat Mar 02 15:13:05 2002] * GM * [54 Rake] Kilm (Barbarian) <Keepers of Dreams>
+[Sat Mar 02 15:13:05 2002] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Mar 02 15:13:05 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Mar 02 15:13:05 2002] There are 6 players in Sunset Home.
+[Sat Mar 02 15:13:08 2002] You bow before Bariton.
+[Sat Mar 02 15:13:20 2002] Cazza tells the guild, 'bariton got him into the messageboard area actually wasnt able to send it myself after all'
+[Sat Mar 02 15:13:26 2002] Silae GMSAYS, 'oooh.. this is a great roleplay one..  her House has told her that she needs to ask our permission in order to carry out the family name of Du'Renguer.. escalating for name change'
+[Sat Mar 02 15:13:38 2002] Bariton smiles.
+[Sat Mar 02 15:13:44 2002] You GMSAY, 'House of Decay?'
+[Sat Mar 02 15:13:50 2002] Lancet tells the guild, 'he never send me his email add was waiting for it to send him file '
+[Sat Mar 02 15:14:02 2002] Lirus GMSAYS, 'hi cazza'
+[Sat Mar 02 15:14:06 2002] Players in EverQuest:
+[Sat Mar 02 15:14:06 2002] ---------------------------
+[Sat Mar 02 15:14:06 2002] There are no players in EverQuest that match those who filters.
+[Sat Mar 02 15:14:06 2002] Cazza GMSAYS, 'hello hun'
+[Sat Mar 02 15:14:10 2002] Silae GMSAYS, 'heh not sure what it means.. read her text.. you'll love it'
+[Sat Mar 02 15:14:12 2002] Players in EverQuest:
+[Sat Mar 02 15:14:12 2002] ---------------------------
+[Sat Mar 02 15:14:12 2002] There are no players in EverQuest that match those who filters.
+[Sat Mar 02 15:14:15 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:14:15 2002] USER TEXT: just trying to find out the status on my main character that's stuck in the nexus please
+[Sat Mar 02 15:14:16 2002] Players in EverQuest:
+[Sat Mar 02 15:14:16 2002] ---------------------------
+[Sat Mar 02 15:14:16 2002] There are no players in EverQuest that match those who filters.
+[Sat Mar 02 15:14:18 2002] UNDOING CHECK OUT
+[Sat Mar 02 15:14:22 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:14:22 2002] USER TEXT: Hail! My name is Vanrea and descend from the house od Du'Renguer. However, my descendants have told me that I need the permission of yourself to carry on the family name. Would you please grant me the honor of doing so?
+[Sat Mar 02 15:14:22 2002] Players in EverQuest:
+[Sat Mar 02 15:14:22 2002] ---------------------------
+[Sat Mar 02 15:14:22 2002] [ANON (23 Necromancer)] Vanrea (Dark Elf) ZONE: cazicthule (USER PID AVARX53)
+[Sat Mar 02 15:14:22 2002] There is 1 player in EverQuest.
+[Sat Mar 02 15:14:37 2002] You GMSAY, 'her... descendants?'
+[Sat Mar 02 15:14:38 2002] Silae GMSAYS, 'pulling kongfu'
+[Sat Mar 02 15:14:43 2002] You GMSAY, 'surely she means her ancestors'
+[Sat Mar 02 15:14:59 2002] Cazza tells the guild, 'he got his password to boards luckily his email is webbased and limited in size of transfers '
+[Sat Mar 02 15:15:00 2002] Silae GMSAYS, '*chuckles*  probably..  I still liked it :)'
+[Sat Mar 02 15:15:02 2002] You GMSAY, 'Lirus, could you buff the appies please?'
+[Sat Mar 02 15:15:07 2002] Espranza saved.
+[Sat Mar 02 15:15:09 2002] You GMSAY, 'zone'
+[Sat Mar 02 15:15:09 2002] Lirus GMSAYS, 'sure'
+[Sat Mar 02 15:15:15 2002] You feel the spirit of Z surround you.
+[Sat Mar 02 15:15:15 2002] You feel the spirit of Z surround you.
+[Sat Mar 02 15:15:15 2002] You feel the spirit of Z surround you.
+[Sat Mar 02 15:15:16 2002] Teleporting to vanrea.
+[Sat Mar 02 15:15:16 2002] LOADING, PLEASE WAIT...
+[Sat Mar 02 15:15:35 2002] Cazza tells the guild, 'yes eww heh'
+[Sat Mar 02 15:15:46 2002] You have entered Lost Temple of CazicThule.
+[Sat Mar 02 15:15:49 2002] Kalnar slashes a lizard sentinel for 9 points of damage.
+[Sat Mar 02 15:15:49 2002] Vorix punches a lizard sentinel for 21 points of damage.
+[Sat Mar 02 15:15:49 2002]  (Anthem de Arms)
+[Sat Mar 02 15:15:49 2002] Vorix punches a lizard sentinel for 17 points of damage.
+[Sat Mar 02 15:15:50 2002]  (Selo`s Consonant Chain)
+[Sat Mar 02 15:15:50 2002] A lizard defender hits Kalnar for 38 points of damage.
+[Sat Mar 02 15:15:50 2002] Kalnar slashes a lizard sentinel for 18 points of damage.
+[Sat Mar 02 15:15:51 2002] Tumox slashes a lizard sentinel for 66 points of damage.
+[Sat Mar 02 15:15:51 2002] Vorix punches a lizard sentinel for 1 point of damage.
+[Sat Mar 02 15:15:51 2002] Vorix punches a lizard sentinel for 1 point of damage.
+[Sat Mar 02 15:15:51 2002] Gobobtik bashes a lizard sentinel for 5 points of damage.
+[Sat Mar 02 15:15:52 2002] A lizard defender hits Kalnar for 2 points of damage.
+[Sat Mar 02 15:15:52 2002] A lizard sentinel hits Tumox for 3 points of damage.
+[Sat Mar 02 15:15:52 2002] Kalnar slashes a lizard sentinel for 4 points of damage.
+[Sat Mar 02 15:15:53 2002] Kalnar slashes a lizard sentinel for 1 point of damage.
+[Sat Mar 02 15:15:53 2002] A lizard defender kicks Kalnar for 1 point of damage.
+[Sat Mar 02 15:15:54 2002] Gobobtik slashes a lizard sentinel for 22 points of damage.
+[Sat Mar 02 15:15:54 2002] Tumox slashes a lizard sentinel for 13 points of damage.
+[Sat Mar 02 15:15:54 2002] Vorix punches a lizard sentinel for 6 points of damage.
+[Sat Mar 02 15:15:55 2002] Kalnar slashes a lizard sentinel for 14 points of damage.
+[Sat Mar 02 15:15:56 2002] A lizard defender hits Kalnar for 2 points of damage.
+[Sat Mar 02 15:15:56 2002] A lizard sentinel hits Tumox for 3 points of damage.
+[Sat Mar 02 15:15:56 2002]  (Cassindra`s Chorus of Clarity)
+[Sat Mar 02 15:15:57 2002] Tumox slashes a lizard sentinel for 6 points of damage.
+[Sat Mar 02 15:15:57 2002] It begins to rain.
+[Sat Mar 02 15:15:57 2002] Kalnar slashes a lizard sentinel for 20 points of damage.
+[Sat Mar 02 15:15:57 2002]  (Anthem de Arms)
+[Sat Mar 02 15:15:58 2002] A lizard defender hits Kalnar for 2 points of damage.
+[Sat Mar 02 15:16:00 2002] Gobobtik bashes a lizard sentinel for 1 point of damage.
+[Sat Mar 02 15:16:00 2002] Gobobtik slashes a lizard sentinel for 1 point of damage.
+[Sat Mar 02 15:16:01 2002] Vorix punches a lizard sentinel for 15 points of damage.
+[Sat Mar 02 15:16:01 2002] Kalnar slashes a lizard sentinel for 7 points of damage.
+[Sat Mar 02 15:16:01 2002] Cazza GMSAYS, 'hmm wonder if he is a monk.. everybody was kungfu fighting.. lalalalalal'
+[Sat Mar 02 15:16:02 2002] Kalnar's song ends abruptly.
+[Sat Mar 02 15:16:02 2002] A lizard defender bashes Kalnar for 5 points of damage.
+[Sat Mar 02 15:16:02 2002] Kalnar's song ends.
+[Sat Mar 02 15:16:02 2002] A lizard defender hits Kalnar for 19 points of damage.
+[Sat Mar 02 15:16:02 2002] Vorix punches a lizard sentinel for 12 points of damage.
+[Sat Mar 02 15:16:03 2002] Gobobtik slashes a lizard sentinel for 13 points of damage.
+[Sat Mar 02 15:16:03 2002] USER TEXT: Hail! My name is Vanrea and descend from the house od Du'Renguer. However, my descendants have told me that I need the permission of yourself to carry on the family name. Would you please grant me the honor of doing so?
+[Sat Mar 02 15:16:04 2002] Vorix strikes a lizard sentinel for 1 point of damage.
+[Sat Mar 02 15:16:05 2002] A lizard sentinel hits Vorix for 16 points of damage.
+[Sat Mar 02 15:16:05 2002] A lizard sentinel hits Vorix for 39 points of damage.
+[Sat Mar 02 15:16:05 2002] Vorix punches a lizard sentinel for 11 points of damage.
+[Sat Mar 02 15:16:05 2002] Vorix punches a lizard sentinel for 19 points of damage.
+[Sat Mar 02 15:16:05 2002] Kalnar slashes a lizard sentinel for 15 points of damage.
+[Sat Mar 02 15:16:05 2002]  (Anthem de Arms)
+[Sat Mar 02 15:16:08 2002] Silae GMSAYS, '*groans*'
+[Sat Mar 02 15:16:22 2002] You have changed Vanrea's last name to Du`Renguer.
+[Sat Mar 02 15:16:25 2002]  (Anthem de Arms)
+[Sat Mar 02 15:16:26 2002]  (Cassindra`s Chorus of Clarity)
+[Sat Mar 02 15:16:26 2002] Vorix punches a lizard defender for 10 points of damage.
+[Sat Mar 02 15:16:27 2002] Lancet tells the guild, 'he does not have the P&P make sure he downloads all the fuiles'
+[Sat Mar 02 15:16:28 2002] Kalnar slashes a lizard defender for 13 points of damage.
+[Sat Mar 02 15:16:30 2002] Kalnar's song ends.
+[Sat Mar 02 15:16:30 2002] Kalnar's song ends.
+[Sat Mar 02 15:16:31 2002] Vorix punches a lizard defender for 14 points of damage.
+[Sat Mar 02 15:16:31 2002] A missed note brings Kalnar's song to a close!
+[Sat Mar 02 15:16:31 2002] Kalnar's song ends.
+[Sat Mar 02 15:16:31 2002] Cazza GMSAYS, 'thank you thank you will be here all night hehe'
+[Sat Mar 02 15:16:31 2002] Vorix punches a lizard defender for 15 points of damage.
+[Sat Mar 02 15:16:32 2002]  (Cassindra`s Chant of Clarity)
+[Sat Mar 02 15:16:32 2002] A lizard defender hits Kalnar for 2 points of damage.
+[Sat Mar 02 15:16:33 2002] Vorix punches a lizard defender for 19 points of damage.
+[Sat Mar 02 15:16:33 2002] Vanrea beams a smile at a lizard defender.
+[Sat Mar 02 15:16:33 2002] Vanrea says, 'Ahhh, I feel much better now...'
+[Sat Mar 02 15:16:33 2002] A lizard defender kicks Kalnar for 1 point of damage.
+[Sat Mar 02 15:16:34 2002] Fizzlestick says, 'Hail, Espranza'
+[Sat Mar 02 15:16:34 2002] You bow before Vanrea.
+[Sat Mar 02 15:16:35 2002] A lizard defender hits Kalnar for 14 points of damage.
+[Sat Mar 02 15:16:35 2002] A lizard defender hits Kalnar for 41 points of damage.
+[Sat Mar 02 15:16:35 2002] Kalnar slashes a lizard defender for 4 points of damage.
+[Sat Mar 02 15:16:36 2002] Vorix strikes a lizard defender for 1 point of damage.
+[Sat Mar 02 15:16:37 2002] Kalnar's song ends.
+[Sat Mar 02 15:16:37 2002] Kalnar's song ends.
+[Sat Mar 02 15:16:37 2002] Steiny says, 'Hail, Espranza'
+[Sat Mar 02 15:16:37 2002]  (Hymn of Restoration)
+[Sat Mar 02 15:16:40 2002] a lizard justicar begins to cast a spell. (Bravery)
+[Sat Mar 02 15:16:43 2002] Cazza tells the guild, 'yes showed him where he could access that too'
+[Sat Mar 02 15:16:43 2002]  (Anthem de Arms)
+[Sat Mar 02 15:16:49 2002] a lizard justicar begins to cast a spell. (Bravery)
+[Sat Mar 02 15:17:01 2002] A lizard fanatic hits Rhysel for 6 points of damage.
+[Sat Mar 02 15:17:01 2002] Cazza tells the guild, 'unfortuantely with our router we can't download on icq firewall won't allow it heh'
+[Sat Mar 02 15:17:01 2002] You GMSAY, '<note name> Vanrea AVARX53 granted last name Du`Renguer'
+[Sat Mar 02 15:17:13 2002] Maxximuus tells you, 'welcome :)'
+[Sat Mar 02 15:17:23 2002] You told Vanrea, 'Honor your ancestors, dark one.'
+[Sat Mar 02 15:17:27 2002] Lancet tells the guild, 'no we tried icq last night his bvlocks file transfers'
+[Sat Mar 02 15:17:30 2002] DELETING THIS PETITION
+[Sat Mar 02 15:17:36 2002] You GMSAY, 'zone'
+[Sat Mar 02 15:17:37 2002] Silae GMSAYS, 'pulling Tsadrin'
+[Sat Mar 02 15:17:40 2002] a lizard justicar begins to cast a spell. (Smite)
+[Sat Mar 02 15:17:40 2002] a lizard justicar begins to cast a spell. (Wrath)
+[Sat Mar 02 15:17:42 2002] You feel the spirit of Z surround you.
+[Sat Mar 02 15:17:42 2002] You feel the spirit of Z surround you.
+[Sat Mar 02 15:17:44 2002] Vanrea tells you, 'Thank you Gnome High Lady   =)'
+[Sat Mar 02 15:17:46 2002]  (Hymn of Restoration)
+[Sat Mar 02 15:17:49 2002] Rhysel bows before Espranza.
+[Sat Mar 02 15:17:50 2002] a lizard justicar begins to cast a spell. (Smite)
+[Sat Mar 02 15:17:52 2002] ERROR: Couldn't get safe coords for cehome, unable to zone.
+
+[Sat Mar 02 15:17:53 2002] Lirus GMSAYS, 'can the appies see /pr?'
+[Sat Mar 02 15:17:53 2002] Steiny has been smitten.
+[Sat Mar 02 15:17:53 2002] A lizard justicar hits Steiny for 16 points of damage.
+[Sat Mar 02 15:17:56 2002] a lizard fanatic says 'Errrrrr.  Die, soft skin! '
+[Sat Mar 02 15:17:56 2002] a lizard justicar says 'Errrrrr.  Die, soft skin! '
+[Sat Mar 02 15:18:00 2002] Lancet GMSAYS, 'yes i can thanks'
+[Sat Mar 02 15:18:05 2002] a lizard justicar begins to cast a spell. (Cancel Magic)
+[Sat Mar 02 15:18:08 2002] Vanrea tells you, 'I shall do my best. Thank you again.'
+[Sat Mar 02 15:18:09 2002] LOADING, PLEASE WAIT...
+[Sat Mar 02 15:18:29 2002] You have entered Sunset Home.
+[Sat Mar 02 15:18:33 2002] It begins to rain.
+[Sat Mar 02 15:18:35 2002] Lirus GMSAYS, 'semi afk doing a walkout'
+[Sat Mar 02 15:18:58 2002] Silae GMSAYS, 'Tsadrin is petitioning for a guild creation..  has met the other criteria.. appending and escalating'
+[Sat Mar 02 15:19:11 2002] You GMSAY, 'has his membership been counted?'
+[Sat Mar 02 15:19:21 2002] Silae GMSAYS, 'aye.. last Thursday'
+[Sat Mar 02 15:19:44 2002] You say to your guild, 'have they been buffed?'
+[Sat Mar 02 15:19:47 2002] Players on EverQuest:
+[Sat Mar 02 15:19:47 2002] ---------------------------
+[Sat Mar 02 15:19:47 2002] * GM * [54 Rake] Kilm (Barbarian) <Keepers of Dreams>
+[Sat Mar 02 15:19:47 2002] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Mar 02 15:19:47 2002] * GM * [55 Preserver] Cazza (Wood Elf) <Keepers of Dreams>
+[Sat Mar 02 15:19:47 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Mar 02 15:19:47 2002] There are 4 players in Sunset Home.
+[Sat Mar 02 15:20:01 2002] Silae GMSAYS, 'pulling drakarnx'
+[Sat Mar 02 15:20:13 2002] Kilm tells the guild, 'apparently they have, though I do not think they can see /pr '
+[Sat Mar 02 15:20:21 2002] Silae GMSAYS, 'eep.. clicked on wrong one.. undoing'
+[Sat Mar 02 15:20:23 2002] You say to your guild, 'don't have appie sticks either.'
+[Sat Mar 02 15:20:28 2002] You say to your guild, 'well, shall we begin?'
+[Sat Mar 02 15:20:31 2002] Silae GMSAYS, 'the queue is really jumpy tonight'
+[Sat Mar 02 15:20:35 2002] Kilm tells the guild, 'sure'
+[Sat Mar 02 15:20:51 2002] You say, 'Hiya!'
+[Sat Mar 02 15:20:57 2002] Cazza says, 'hello all )'
+[Sat Mar 02 15:21:01 2002] Bariton says, 'Howdy!'
+[Sat Mar 02 15:21:02 2002] Kilm tells the guild, 'here on on steps ?'
+[Sat Mar 02 15:21:07 2002] Cazza tells the guild, 'ok so who is doing what?'
+[Sat Mar 02 15:21:10 2002] You say to your guild, 'here's fine'
+[Sat Mar 02 15:21:15 2002] You say to your guild, 'can I do the intro?'
+[Sat Mar 02 15:21:21 2002] Cazza tells the guild, 'please'
+[Sat Mar 02 15:21:25 2002] Kilm tells the guild, 'sure.'
+[Sat Mar 02 15:21:31 2002] You say, 'Welcome to Morell-Thule!!!!'
+[Sat Mar 02 15:21:32 2002] Silae GMSAYS, 'Drakarnx is a transfer from another server.. wants to know if the X can be taken off..'
+[Sat Mar 02 15:21:39 2002] You GMSAY, 'no, it conflicts'
+[Sat Mar 02 15:21:46 2002] Bariton likes hyphens ;)
+[Sat Mar 02 15:21:47 2002] You GMSAY, 'she'll have to have a new name - esc to red'
+[Sat Mar 02 15:21:53 2002] Silae GMSAYS, 'will do'
+[Sat Mar 02 15:21:54 2002] Lancet GMSAYS, 'free at no cost you one a 1 time give away to all who want 1 case of the Flu dont crowd just step forward oe at a time'
+[Sat Mar 02 15:22:03 2002] You say, 'Old Morell is the God of Dreams'
+[Sat Mar 02 15:22:20 2002] Bariton nods.
+[Sat Mar 02 15:22:27 2002] You say, 'ANYWAY... before we get started, please be sure to have your LOG turned on'
+[Sat Mar 02 15:22:38 2002] Bariton says, 'Done.'
+[Sat Mar 02 15:22:40 2002] Laral says, 'done'
+[Sat Mar 02 15:22:50 2002] You say, 'You may do that by typing /log, or by setting the appropriate line in your eqclient.ini file to true'
+[Sat Mar 02 15:23:15 2002] You say, 'We ask that you keep your logs around for at least a month after the shift. They are also invaluable for filling out your daily shift report.'
+[Sat Mar 02 15:23:44 2002] You say, 'That said, lurking behind you is Lirus, our server GM. He's the main point of contact between we guides and Sony/Verant.'
+[Sat Mar 02 15:23:53 2002] Silae GMSAYS, 'pulling kianye'
+[Sat Mar 02 15:23:56 2002] Lirus waves.
+[Sat Mar 02 15:23:58 2002] Bariton shivers at the thought of messing with Lirus.
+[Sat Mar 02 15:24:08 2002] Lirus is a big pushover.
+[Sat Mar 02 15:24:18 2002] You say, 'I am Senior Guide Espranza, Senior Guide Lancet is somewhere around, and not appearing in this training session today is Senior Guide Rynara.'
+[Sat Mar 02 15:24:24 2002] Bariton gives Lirus a wink.
+[Sat Mar 02 15:24:54 2002] You say, 'The four of us comprise the Server Management Team, or SMT. If you need to get in touch with us for any reason at all, the email address is MorellThuleSeniors@yahoogroups.com'
+[Sat Mar 02 15:25:10 2002] Lirus says, 'and my personal email address is msudnik@soe.sony.com if needed'
+[Sat Mar 02 15:25:42 2002] You say, 'Guide Cazza is Morell's training coordinator, and she'll be training you today, ably assisted by Kilm the Nearly Naked.'
+[Sat Mar 02 15:25:54 2002] Cazza waves.
+[Sat Mar 02 15:26:03 2002] Espranza ponders.
+[Sat Mar 02 15:26:13 2002] Lancet GMSAYS, 'ZONING'
+[Sat Mar 02 15:26:21 2002] Lirus GMSAYS, 'zone'
+[Sat Mar 02 15:26:42 2002] You say, 'Well... we hope you enjoy your training today. Please feel free to contact me if you have any problems guiding or finding someone on when you would like to guide.'
+[Sat Mar 02 15:26:58 2002] You say, 'My email is brendah@mbay.net... and my in box is always open.'
+[Sat Mar 02 15:27:21 2002] Bariton nods.
+[Sat Mar 02 15:27:24 2002] Lancet tells the guild, '<note namechange> Drakarnx changed to Drakarnn'
+[Sat Mar 02 15:27:25 2002] You say, 'and with that... I'll back slowly away... make my voice get all soft and dim-like... and...'
+[Sat Mar 02 15:27:29 2002] Espranza cues Cazza.
+[Sat Mar 02 15:27:49 2002] You feel the spirit of Norrath enter you.
+[Sat Mar 02 15:28:28 2002] Cazza says, 'sorry someone came to the door'
+[Sat Mar 02 15:28:29 2002] Silae GMSAYS, 'Kianye is all set..  she got lost in TD, found her way out.. deleting pet'
+[Sat Mar 02 15:28:32 2002] Espranza saved.
+[Sat Mar 02 15:28:32 2002] Cazza says, 'talk about timing hehe'
+[Sat Mar 02 15:28:39 2002] Silae GMSAYS, 'pulling avihenda'
+[Sat Mar 02 15:28:59 2002] Lancet GMSAYS, 'cya im going to bed and nurse this flu'
+[Sat Mar 02 15:29:01 2002] Bariton says, 'No worries ;)'
+[Sat Mar 02 15:29:02 2002] Cazza says, 'PLease write down any questions you may have I will periodically stop and ask for them'
+[Sat Mar 02 15:29:06 2002] Lirus GMSAYS, 'doh hope ya feel better lancet'
+[Sat Mar 02 15:29:13 2002] Silae GMSAYS, 'hope you feel better Lancet..'
+[Sat Mar 02 15:29:13 2002] Laral says, 'ok'
+[Sat Mar 02 15:29:14 2002] Cazza says, 'This will make orientation go much smoother'
+[Sat Mar 02 15:29:16 2002] Lirus GMSAYS, 'rest well'
+[Sat Mar 02 15:29:22 2002] Lancet tells the guild, 'cut off my nose and i will'
+[Sat Mar 02 15:29:25 2002] You GMSAY, 'later Lancet.'
+[Sat Mar 02 15:29:33 2002] Kilm GMSAYS, 'be safe lancet, get better '
+[Sat Mar 02 15:29:38 2002] Lirus tells the guild, 'it's all about the nyquil'
+[Sat Mar 02 15:29:47 2002] Cazza says, 'I am sure you have read both the customer service guidelines (also known as the policies and proceedures or P7P'
+[Sat Mar 02 15:29:58 2002] Cazza says, 'as well as your apprentice Guideelines.'
+[Sat Mar 02 15:30:10 2002] Laral says, 'I have yes'
+[Sat Mar 02 15:30:11 2002] Cazza says, 'Take them very seriously, these are your instruction manuals.'
+[Sat Mar 02 15:30:16 2002] Cazza says, 'Hail, Cazza'
+[Sat Mar 02 15:30:20 2002] Cazza says, 'sorry'
+[Sat Mar 02 15:31:03 2002] Silae GMSAYS, 'disruption pet.. offender logged.. advising to repet if he comes back and continues'
+[Sat Mar 02 15:31:07 2002] Cazza says, 'the P&P should cover the official response to nearly every situation.  Also, the P&P is periodically updated with supplements as they pertain to the changing world of everquest.'
+[Sat Mar 02 15:31:27 2002] You GMSAY, 'escalate disruption pets without contact, please/'
+[Sat Mar 02 15:31:37 2002] Cazza says, 'Please check the supplements online for any updates that may not yet be included in your P&P Manual'
+[Sat Mar 02 15:31:46 2002] Silae GMSAYS, 'sorry'
+[Sat Mar 02 15:31:57 2002] Cazza says, 'This supplement can be found under the downloads section of our message board.'
+[Sat Mar 02 15:31:59 2002] You GMSAY, 'no worries, wouldn't have done anything different...'
+[Sat Mar 02 15:32:17 2002] Lirus GMSAYS, 'zone'
+[Sat Mar 02 15:32:22 2002] Cazza says, 'I can not stress the tenets in the apprentice guildelines enough:'
+[Sat Mar 02 15:32:25 2002] You GMSAY, 'afk for a moment while I go to the bathroom'
+[Sat Mar 02 15:32:26 2002] Cazza says, 'Always be polite'
+[Sat Mar 02 15:32:31 2002] Cazza says, 'Never ignore a petition'
+[Sat Mar 02 15:32:32 2002] You GMSAY, 'then I'll help crunch queue'
+[Sat Mar 02 15:32:44 2002] Cazza says, 'Never respond to /ooc's or /shouts'
+[Sat Mar 02 15:32:51 2002] Cazza says, 'roleplay whenever possible'
+[Sat Mar 02 15:32:58 2002] Silae GMSAYS, 'because the offender is gone, should I still escalate?'
+[Sat Mar 02 15:33:19 2002] Cazza says, 'Track your activities/things that you learn in a notebook which you should keep near you at all times while guiding.'
+[Sat Mar 02 15:33:26 2002] Kilm GMSAYS, 'you made contact with the petitioner ?'
+[Sat Mar 02 15:33:47 2002] Silae GMSAYS, 'yep..  sorry.  Knew the offender was gone, just wasn't thinking'
+[Sat Mar 02 15:34:01 2002] Cazza says, 'You entered today with your two most important guiding tools: your game knowledge and yor common sense.  To this we add two other commands you will find very useful.'
+[Sat Mar 02 15:34:03 2002] Sivy GMSAYS, 'hey all'
+[Sat Mar 02 15:34:06 2002] Lirus GMSAYS, 'hi sivy'
+[Sat Mar 02 15:34:20 2002] Silae GMSAYS, 'hiya's Sivy'
+[Sat Mar 02 15:34:24 2002] Kilm GMSAYS, 'naw, thats ok.. if you made contact witht he petitioner... and told them if they return and problems arise again. to re petition..then go ahead and delete '
+[Sat Mar 02 15:34:32 2002] Cazza says, 'The first is /pr the private chat channel for the guide program'
+[Sat Mar 02 15:34:33 2002] Silae GMSAYS, 'ok.. sorry'
+[Sat Mar 02 15:34:42 2002] Kilm GMSAYS, 'no problem '
+[Sat Mar 02 15:34:56 2002] Sivy GMSAYS, 'Zone'
+[Sat Mar 02 15:35:10 2002] Silae GMSAYS, 'pulling beflat'
+[Sat Mar 02 15:35:28 2002] Cazza says, 'Use this often! asking questions is the best way to learn the ins and outs of guiding.  YOu will also use /pr to let your fellow guides know what you are doing as you answer petitions'
+[Sat Mar 02 15:36:05 2002] Cazza says, 'If you ask a question over /pr and it isn't answered right away, please wait a moment and ask again (shift up arrow to repeat your question works well)'
+[Sat Mar 02 15:36:27 2002] Cazza says, 'Guides zone frequently and may have missed your question the first time.  '
+[Sat Mar 02 15:36:33 2002] Sivy GMSAYS, 'any recent server downage?'
+[Sat Mar 02 15:36:50 2002] Lirus GMSAYS, 'not to my knowledge'
+[Sat Mar 02 15:37:05 2002] Lirus has fallen to the ground.
+[Sat Mar 02 15:37:08 2002] Cazza says, 'If the guides don't know the answer to a question,  tell the customer that this is a new issue to us and that you will enter it into your Daily Shift Report (DSR) to get further guidance'
+[Sat Mar 02 15:37:38 2002] Cazza says, 'Then post it and ask around.  You will be surprised what you can learn from other guides!'
+[Sat Mar 02 15:37:46 2002] Cazza tells the guild, 'so who ate their wands?'
+[Sat Mar 02 15:38:10 2002] Cazza says, 'the second command is /searchcorpse (name) or /sea (name).'
+[Sat Mar 02 15:38:30 2002] Sivy GMSAYS, 'Zone'
+[Sat Mar 02 15:38:39 2002] Players in EverQuest:
+[Sat Mar 02 15:38:39 2002] ---------------------------
+[Sat Mar 02 15:38:39 2002] * Guide *[51 Champion] Sivy (Dark Elf) <Keepers of Dreams> ZONE: dreadlands (USER PID AU7F86Y)
+[Sat Mar 02 15:38:39 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Sat Mar 02 15:38:39 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Mar 02 15:38:39 2002] [ANON (20 Bard)] Bariton (Half Elf) ZONE: cshome (USER PID DT3QM5P)
+[Sat Mar 02 15:38:39 2002] * Guide *[55 Preserver] Cazza (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID AUUXD1E)
+[Sat Mar 02 15:38:39 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID BUUWN74)
+[Sat Mar 02 15:38:39 2002] [ANON (20 Ranger)] Laral (Wood Elf) ZONE: cshome (USER PID DTFCACT)
+[Sat Mar 02 15:38:39 2002] * Apprentice Guide *[20 Shadow Knight] Silae (Dark Elf) ZONE: kithicor (USER PID FR5RD3M)
+[Sat Mar 02 15:38:39 2002] There are 8 players in EverQuest.
+[Sat Mar 02 15:38:42 2002] Espranza saved.
+[Sat Mar 02 15:38:45 2002] You GMSAY, 'hi Sivy!'
+[Sat Mar 02 15:38:56 2002] Cazza says, 'we use this to verify the existance and location of a player's corpse.  If you get a petition from a player sayign they cannot find a corpse, use this command to find out if they have one (or more) and where it is'
+[Sat Mar 02 15:39:08 2002] Cazza says, 'if there is no corpse, none will be listed'
+[Sat Mar 02 15:39:45 2002] Cazza says, 'Apprentice Training takes place in the form of mentoring.  A mentor is a person who groups with you and takes you through scenarios when the queue is low, as well as helps you with any questions online.'
+[Sat Mar 02 15:39:57 2002] Silae GMSAYS, 'afk.. bathroom break ;)'
+[Sat Mar 02 15:40:19 2002] Cazza says, 'When you are here to do your job, you will always be grouped. and that person is known as your mentor)'
+[Sat Mar 02 15:40:25 2002] Cazza says, 'Any questions so far?'
+[Sat Mar 02 15:40:32 2002] Bariton says, 'Negative.'
+[Sat Mar 02 15:40:34 2002] Laral says, 'none yet'
+[Sat Mar 02 15:40:34 2002] Cazza tells the guild, 'ok Kilm you want the message board? '
+[Sat Mar 02 15:40:49 2002] Kilm tells the guild, 'we skipping the do and don'ts ?'
+[Sat Mar 02 15:40:49 2002] Cazza tells the guild, 'or the queue?'
+[Sat Mar 02 15:40:53 2002] Cazza tells the guild, 'yes'
+[Sat Mar 02 15:41:15 2002] Kilm tells the guild, 'either is fine'
+[Sat Mar 02 15:41:24 2002] Cazza tells the guild, 'ok I can do the message board for a change'
+[Sat Mar 02 15:41:31 2002] Cazza tells the guild, 'you can end it this time) '
+[Sat Mar 02 15:41:37 2002] Cazza says, 'next up the message board'
+[Sat Mar 02 15:41:56 2002] You say to your guild, 'there will be a new script soon, you guys will have your chances at it, but reference material will either be in the library, the appie manual or both'
+[Sat Mar 02 15:41:58 2002] Silae GMSAYS, 'back'
+[Sat Mar 02 15:42:09 2002] Cazza says, 'The message board is located at https://guide.everquest.com'
+[Sat Mar 02 15:42:45 2002] Cazza says, 'Your login name will be your player station name, all lower case and your password for the board should have been mailed to you o the email on your account registration'
+[Sat Mar 02 15:43:12 2002] Silae GMSAYS, 'anyone know why Ry'Gorr armor wouldn't show up on a lvl 6 woodie bard?  Graphics glitch?'
+[Sat Mar 02 15:43:13 2002] Bariton nods at Cazza.
+[Sat Mar 02 15:43:14 2002] Cazza says, 'If you do not have board access within two days, please email your daily shift reports to brendah@mbay.net'
+[Sat Mar 02 15:43:24 2002] You GMSAY, 'all pieces or which?'
+[Sat Mar 02 15:43:32 2002] Cazza says, 'The message board will automatically open to an all CS News forum.'
+[Sat Mar 02 15:44:09 2002] Cazza says, 'PLease  make sure to read this section as it contains valuable information, such as P&P updates.  There are other forums listed to the left as well.'
+[Sat Mar 02 15:44:09 2002] You GMSAY, 'the ry`gorr chain coif has no graphic'
+[Sat Mar 02 15:44:10 2002] Silae GMSAYS, 'legs, arms, bracer, helm not showing'
+[Sat Mar 02 15:44:26 2002] Silae GMSAYS, 'he has it set in his .ini file to true'
+[Sat Mar 02 15:44:26 2002] You GMSAY, 'do they have luclin installed?'
+[Sat Mar 02 15:44:38 2002] Silae GMSAYS, 'asking'
+[Sat Mar 02 15:44:52 2002] You told silae, 'who is mentoring you?'
+[Sat Mar 02 15:44:59 2002] Cazza says, 'Most of these are also servers wide.  At the end of the list is Morell-Thule Click this to access Morell-Thule message forums.  PLease NOTE also, further down the list is a downloads section'
+[Sat Mar 02 15:45:01 2002] Silae tells you, 'Kilm is'
+[Sat Mar 02 15:45:05 2002] Players in EverQuest:
+[Sat Mar 02 15:45:05 2002] ---------------------------
+[Sat Mar 02 15:45:05 2002] * Guide *[51 Champion] Sivy (Dark Elf) <Keepers of Dreams> ZONE: southkarana (USER PID AU7F86Y)
+[Sat Mar 02 15:45:05 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Sat Mar 02 15:45:05 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Mar 02 15:45:05 2002] [ANON (20 Bard)] Bariton (Half Elf) ZONE: cshome (USER PID DT3QM5P)
+[Sat Mar 02 15:45:05 2002] * Guide *[55 Preserver] Cazza (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID AUUXD1E)
+[Sat Mar 02 15:45:05 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID BUUWN74)
+[Sat Mar 02 15:45:05 2002] [ANON (20 Ranger)] Laral (Wood Elf) ZONE: cshome (USER PID DTFCACT)
+[Sat Mar 02 15:45:05 2002] * Apprentice Guide *[20 Shadow Knight] Silae (Dark Elf) ZONE: kithicor (USER PID FR5RD3M)
+[Sat Mar 02 15:45:05 2002] There are 8 players in EverQuest.
+[Sat Mar 02 15:45:14 2002] You told Silae, 'he's busy training'
+[Sat Mar 02 15:45:23 2002] You say to your guild, 'Sivy, could you mentor Silae please?'
+[Sat Mar 02 15:45:26 2002] Silae tells you, 'is anyone else available?'
+[Sat Mar 02 15:45:29 2002] Sivy tells the guild, 'sure '
+[Sat Mar 02 15:45:29 2002] You say to your guild, 'Kilm is training'
+[Sat Mar 02 15:45:36 2002] You told Silae, 'Sivy will get you'
+[Sat Mar 02 15:45:38 2002] Kilm tells you, 'are you removing the do and don'ts from the script ?'
+[Sat Mar 02 15:45:38 2002] Silae tells you, 'ok'
+[Sat Mar 02 15:45:42 2002] Cazza says, 'To access the DSR section, you will need to first click into the Morell-Thule board.  make note of the different forums from our server.'
+[Sat Mar 02 15:45:53 2002] You told Kilm, 'I know your objections, and I agree with you'
+[Sat Mar 02 15:46:00 2002] You told Kilm, 'they ARE very important'
+[Sat Mar 02 15:46:10 2002] You told Kilm, 'but they can be read and pondered offline.'
+[Sat Mar 02 15:46:21 2002] Cazza says, 'You will need to access these regularly.  The Morell-Thule library is particularly handy with step by step instructions on various topics.'
+[Sat Mar 02 15:46:23 2002] Sivy GMSAYS, 'sil say zone pls'
+[Sat Mar 02 15:46:28 2002] Silae GMSAYS, '*closes her eyes, holding on for dear life*  zone!'
+[Sat Mar 02 15:46:34 2002] Cazza says, 'such as DSR and message board walkthroughs)'
+[Sat Mar 02 15:46:57 2002] Kilm tells you, 'hmmm I don't agree to much with that...but thats up to you.'
+[Sat Mar 02 15:47:21 2002] You told Kilm, 'I know, but three hour training session with only a few minutes for queue training... that isn't working.'
+[Sat Mar 02 15:47:42 2002] Cazza says, 'Morell-Thule DSR: This is where you report your Daily Shift Report.  To post your DSR, click this open and scroll down the list of names till you find yours.  If your name doesn't appear on this list, post your DSR as a reply to the '
+[Sat Mar 02 15:47:54 2002] Silae tells you, 'all set..'
+[Sat Mar 02 15:47:54 2002] Cazza says, '"New Apprentices Post here" thread.'
+[Sat Mar 02 15:48:07 2002] You told Kilm, 'anyway, I'm not going to make a script by fiat. You, Cazza and anyone else on the training team will have your say.'
+[Sat Mar 02 15:48:11 2002] Bariton nods.
+[Sat Mar 02 15:48:53 2002] Espranza saved.
+[Sat Mar 02 15:48:59 2002] Kilm tells you, 'thats fine... Just so that my objection is noted :)... less typing is good, but sometimes I think alot is missed still '
+[Sat Mar 02 15:49:34 2002] You told Kilm, 'yeah, but there's really no end to what we could be telling. But there's a definite limit to what an apprentice can absorb all at once.'
+[Sat Mar 02 15:50:48 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:50:49 2002] USER TEXT: The guild is in trouble we have one officer and the Guild Master is never on there have been only 2 acssions he has been on
+[Sat Mar 02 15:50:49 2002] Players in EverQuest:
+[Sat Mar 02 15:50:49 2002] ---------------------------
+[Sat Mar 02 15:50:49 2002] [20 Druid] Aaedaas (Wood Elf) <League of Levity> ZONE: gfaydark (USER PID ANTGL9L)
+[Sat Mar 02 15:50:49 2002] There is 1 player in EverQuest.
+[Sat Mar 02 15:50:49 2002] Bariton lowers his head and mourns the loss of Cazza.
+[Sat Mar 02 15:50:53 2002] Lirus GMSAYS, 'zone'
+[Sat Mar 02 15:51:00 2002] Kilm says, 'Doh..she linked ?'
+[Sat Mar 02 15:51:01 2002] Silae GMSAYS, 'just figured out the graphics glitch.. he didn't have the new models turned on.. he's logging to try'
+[Sat Mar 02 15:51:06 2002] Bariton says, 'Aye, that she did.'
+[Sat Mar 02 15:51:07 2002] Laral says, 'yes'
+[Sat Mar 02 15:51:11 2002] Kilm says, 'Okies'
+[Sat Mar 02 15:51:31 2002] Silae GMSAYS, 'deleting pet'
+[Sat Mar 02 15:51:41 2002] Silae GMSAYS, 'pulling lupuri'
+[Sat Mar 02 15:51:52 2002] You told Aaedaas, 'Hail, Aaedaas! Senior Guide Espranza here. If you can't get your guild master to transfer leadership or accept a co-leader, reforming under a new name may be your best option.'
+[Sat Mar 02 15:51:53 2002] Kilm says, 'Okies, you need to log the time you are online daily '
+[Sat Mar 02 15:52:36 2002] Aaedaas tells you, 'not even the GM can change that?'
+[Sat Mar 02 15:52:40 2002] Kilm says, 'Note the guides that are on shift with you, count the number of petitions that you handle and the number of issues that you need to escalate.'
+[Sat Mar 02 15:52:49 2002] Sivy tells the guild, '<note kill> Killed An_Interrorgator00 in SK. apparently the quest char was stuck and i was unable to move him to this correct location due to no one knowing his correct location.'
+[Sat Mar 02 15:53:05 2002] Kilm says, 'Make note of any unusual issues, server troubles etc for your DSR.  '
+[Sat Mar 02 15:53:08 2002] Aaedaas tells you, 'like luris'
+[Sat Mar 02 15:53:08 2002] You told Aaedaas, 'No, because the guild leader owns the guild... without their approval we can do nothing.'
+[Sat Mar 02 15:53:16 2002] Aaedaas tells you, '=('
+[Sat Mar 02 15:53:38 2002] Kilm says, 'To make thesee notes in your log try typing /g <note>issue and a brief description of the issues'
+[Sat Mar 02 15:53:48 2002] You told Aaedaas, 'Best, of course, is if you can get in touch with your guild leader somehow...'
+[Sat Mar 02 15:53:50 2002] DELETING THIS PETITION
+[Sat Mar 02 15:53:52 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:53:52 2002] USER TEXT: help pls im stuck in a room
+[Sat Mar 02 15:53:53 2002] Players in EverQuest:
+[Sat Mar 02 15:53:53 2002] ---------------------------
+[Sat Mar 02 15:53:53 2002] [52 Disciple] Taxxin (Iksar) <Reviction> ZONE: cabeast (USER PID DS1QSEC)
+[Sat Mar 02 15:53:53 2002] There is 1 player in EverQuest.
+[Sat Mar 02 15:54:01 2002] Kilm says, 'The EQGSR will sort these out for you and place them in your DSR.'
+[Sat Mar 02 15:54:06 2002] Aaedaas tells you, 'i sent him an email but he hasn't responded'
+[Sat Mar 02 15:54:11 2002] You told Taxxin, 'Hail, Taxxin! Senior Guide Espranza here. How are you stuck?'
+[Sat Mar 02 15:54:24 2002] Cazza says, 'sorry about that got bounced'
+[Sat Mar 02 15:54:26 2002] You told Aaedaas, 'Then perhaps it is time to reform...'
+[Sat Mar 02 15:54:42 2002] Kilm says, 'You should fill out your DSR immediately after shift. Todays training session should be included in your first DSR.'
+[Sat Mar 02 15:54:44 2002] Taxxin tells you, 'ok well i was doing the wistling fists quest and i hailed master Glox told him i was ready '
+[Sat Mar 02 15:54:56 2002] Taxxin tells you, 'he says we shal see and summons me into his lair'
+[Sat Mar 02 15:55:02 2002] Taxxin tells you, 'and hes not here to fight'
+[Sat Mar 02 15:55:06 2002] Taxxin tells you, 'and im stuck'
+[Sat Mar 02 15:55:20 2002] You told Taxxin, 'okay, one moment please'
+[Sat Mar 02 15:55:23 2002] Taxxin tells you, 'thx'
+[Sat Mar 02 15:55:23 2002] Aaedaas tells you, 'can he at least asign 1 or 2 more officers so we can ivite more people'
+[Sat Mar 02 15:55:37 2002] Silae GMSAYS, 'Lupuri was having trouble seeing PC's fully clothed..  advised to try turning off one of the new character models and see if that helps.  Deleting'
+[Sat Mar 02 15:55:52 2002] Cazza says, 'The title or heading of your DSR should look like 00:00-00:00 (0h0m) as it's title, with all times in PST, 24 hour format.'
+[Sat Mar 02 15:55:54 2002] You GMSAY, 'Lirus, a guide has a MIA guild leader. They don't want to reform the guild but ask if it is possible for you to assign some new officers.'
+[Sat Mar 02 15:56:49 2002] Cazza says, 'FOr more information on how to fill out your DSR, check the Morell-Thule Library forum.  Formatting of the DSR usually follow the guidelines in the apprentice manual.'
+[Sat Mar 02 15:56:59 2002] Lirus GMSAYS, 'zone'
+[Sat Mar 02 15:57:13 2002] Players on EverQuest:
+[Sat Mar 02 15:57:13 2002] ---------------------------
+[Sat Mar 02 15:57:13 2002] * GM * [55 Preserver] Cazza (Wood Elf) <Keepers of Dreams>
+[Sat Mar 02 15:57:13 2002] * GM * [54 Rake] Kilm (Barbarian) <Keepers of Dreams>
+[Sat Mar 02 15:57:13 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Mar 02 15:57:13 2002] There are 3 players in Sunset Home.
+[Sat Mar 02 15:57:30 2002] Sivy GMSAYS, 'Zone'
+[Sat Mar 02 15:57:46 2002] Cazza says, 'You will report the time you were online, how many petitions you handled, who was with you, and a complete list of issues you handled including the ones your escalated, seperated into major and minor issues.'
+[Sat Mar 02 15:57:48 2002] Silae GMSAYS, 'pulling shalya'
+[Sat Mar 02 15:57:50 2002] Lirus tells the guild, 'tis far too nice a day to be inside today'
+[Sat Mar 02 15:57:52 2002] You GMSAY, 'Lirus, a guide has a MIA guild leader. They don't want to reform the guild but ask if it is possible for you to assign some new officers.'
+[Sat Mar 02 15:58:06 2002] Lirus GMSAYS, 'nope can't do it('
+[Sat Mar 02 15:58:10 2002] You GMSAY, 'okay'
+[Sat Mar 02 15:58:12 2002] Silae GMSAYS, 'namechange request due to marraige.. escalating'
+[Sat Mar 02 15:58:22 2002] Cazza says, 'Then include any comments you would like to make on your time AND FINALLLY SIGN YOUR DSR! No DSR should be empty, even if it is a slow shift.'
+[Sat Mar 02 15:58:28 2002] You told Taxxin, 'Just spoke with the GM, he says he can't assign new officers either. I'm sorry.'
+[Sat Mar 02 15:58:29 2002] Silae GMSAYS, '*closes her eyes, holding on for dear life*  zone!'
+[Sat Mar 02 15:58:30 2002] DELETING THIS PETITION
+[Sat Mar 02 15:58:46 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 15:58:46 2002] USER TEXT: hi Lirus i d like to change my surname plz, i ve just married today
+[Sat Mar 02 15:58:47 2002] Players in EverQuest:
+[Sat Mar 02 15:58:47 2002] ---------------------------
+[Sat Mar 02 15:58:47 2002] [43 Druid] Shalya (Wood Elf) <Chevaliers de la Licorne> ZONE: greatdivide (USER PID F1PAW71)
+[Sat Mar 02 15:58:47 2002] There is 1 player in EverQuest.
+[Sat Mar 02 15:58:53 2002] USER TEXT: hi Lirus i d like to change my surname plz, i ve just married today
+[Sat Mar 02 15:58:54 2002] GM TEXT: 
+[Sat Mar 02 15:59:00 2002] Kilm says, 'Any questions on that ?:) '
+[Sat Mar 02 15:59:01 2002] Taxxin tells you, 'cant assign new officers?'
+[Sat Mar 02 15:59:02 2002] Espranza saved.
+[Sat Mar 02 15:59:15 2002] You GMSAY, 'Silae, when someone wants a name change, please find out from them what name they would like.'
+[Sat Mar 02 15:59:23 2002] Silae GMSAYS, 'ok.. sorry'
+[Sat Mar 02 15:59:30 2002] Lirus whistles at Kilm appreciatively.
+[Sat Mar 02 15:59:31 2002] You told Taxxin, 'No, he can't do that. Only the guild leader can.'
+[Sat Mar 02 15:59:34 2002] Laral says, 'none yet'
+[Sat Mar 02 15:59:38 2002] Kilm says, 'okies... no questions :) '
+[Sat Mar 02 15:59:44 2002] Lirus tells the guild, 'kilm did anyone ever tell you that you are a sexy bitch?'
+[Sat Mar 02 15:59:44 2002] Kilm bonks Lirus 
+[Sat Mar 02 15:59:47 2002] Taxxin tells you, 'hey man i was the guy stuck in cabilis think u got the wrong guy'
+[Sat Mar 02 15:59:52 2002] Kilm tells the guild, 'Only you :) '
+[Sat Mar 02 15:59:54 2002] Cazza hands Kilm an s.
+[Sat Mar 02 15:59:55 2002] Lirus tells the guild, 'har!'
+[Sat Mar 02 15:59:57 2002] Sivy tells the guild, 'ewww'
+[Sat Mar 02 15:59:59 2002] You told Shalya, 'Hail, Shalya! Senior Guide Espranza here. What would you like your last name to be?'
+[Sat Mar 02 16:00:05 2002] Bariton says, 'Aye .. tell me more about EQGSR?'
+[Sat Mar 02 16:00:07 2002] You told Taxxin, 'doh! right - wrong petition - brt again'
+[Sat Mar 02 16:00:09 2002] You GMSAY, 'zone'
+[Sat Mar 02 16:00:15 2002] Teleporting to taxxin.
+[Sat Mar 02 16:00:16 2002] LOADING, PLEASE WAIT...
+[Sat Mar 02 16:00:35 2002] Kilm tells the guild, 'Your my Idol Lirus :) I want to be as sexy as the messages boards make you out to be :D '
+[Sat Mar 02 16:00:36 2002] Lirus tells the guild, 'lol riiight)'
+[Sat Mar 02 16:00:40 2002] You have entered Cabilis East.
+[Sat Mar 02 16:00:41 2002] Sivy tells the guild, 'lirus and kilm, did you hear about Fury's Edge buying there own FQ server?'
+[Sat Mar 02 16:00:44 2002] Shalya tells you, 'hi i d like forgenclume surname plz'
+[Sat Mar 02 16:00:48 2002] Taxxin cheers at Espranza.
+[Sat Mar 02 16:00:49 2002] Lirus tells the guild, 'yeah they asked me to come play with em hehe'
+[Sat Mar 02 16:00:54 2002] Sivy tells the guild, 'same lol'
+[Sat Mar 02 16:00:54 2002] You told Shalya, 'okay, one moment'
+[Sat Mar 02 16:00:58 2002] Lirus tells the guild, 'is FQ back up again?'
+[Sat Mar 02 16:00:59 2002] Shalya tells you, 'thx'
+[Sat Mar 02 16:01:13 2002] Taxxin looks around for a leezard named Master Glox.
+[Sat Mar 02 16:01:16 2002] Sivy tells the guild, 'not yet'
+[Sat Mar 02 16:01:25 2002] Sivy tells the guild, 'march 1st or 2nd'
+[Sat Mar 02 16:01:34 2002] You opened the locked door with your magic GM key.
+[Sat Mar 02 16:01:34 2002] Lirus tells the guild, 'hmm i'll check it now'
+[Sat Mar 02 16:01:37 2002] Cazza tells the guild, 'what is fq?'
+[Sat Mar 02 16:01:49 2002] Hierophant Dexl begins to cast a spell. (Inner Fire)
+[Sat Mar 02 16:01:51 2002] You told Taxxin, 'wow, never been here'
+[Sat Mar 02 16:01:52 2002] Hierophant Dexl's body pulses with energy.
+[Sat Mar 02 16:02:05 2002] Hierophant Oxyn begins to cast a spell. (Spirit of Wolf)
+[Sat Mar 02 16:02:07 2002] Taxxin tells you, 'nor i '
+[Sat Mar 02 16:02:09 2002] Prime Patriarch Vuzx begins to cast a spell. (Spirit of Wolf)
+[Sat Mar 02 16:02:24 2002] Taxxin tells you, 'and hope to never again'
+[Sat Mar 02 16:02:26 2002] Aaedaas tells you, 'you still there'
+[Sat Mar 02 16:02:26 2002] Summoning taxxin.
+[Sat Mar 02 16:02:37 2002] Hierophant Oxyn begins to cast a spell. (Celerity)
+[Sat Mar 02 16:02:37 2002] You point at Master Glox. Yeah you!
+[Sat Mar 02 16:02:38 2002] Master Glox regards you indifferently -- he appears to be quite formidable.
+[Sat Mar 02 16:02:40 2002] Taxxin says, 'Hail, Master Glox'
+[Sat Mar 02 16:02:40 2002] Master Glox says 'That took you long enough.  Well then, are you ready to prove your agility to me? '
+[Sat Mar 02 16:02:41 2002] Master Glox punches Taxxin for 28 points of damage.
+[Sat Mar 02 16:02:41 2002] Prime Patriarch Vuzx begins to cast a spell. (Alacrity)
+[Sat Mar 02 16:02:42 2002] Taxxin punches Master Glox for 2 points of damage.
+[Sat Mar 02 16:02:42 2002] Taxxin punches Master Glox for 15 points of damage.
+[Sat Mar 02 16:02:42 2002] Taxxin punches Master Glox for 27 points of damage.
+[Sat Mar 02 16:02:42 2002] Master Glox punches Taxxin for 29 points of damage.
+[Sat Mar 02 16:02:43 2002] Master Glox punches Taxxin for 20 points of damage.
+[Sat Mar 02 16:02:44 2002] Taxxin punches Master Glox for 31 points of damage.
+[Sat Mar 02 16:02:44 2002] Master Glox punches Taxxin for 17 points of damage.
+[Sat Mar 02 16:02:45 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:02:45 2002] Prime Hierophant Vek begins to cast a spell. (Celerity)
+[Sat Mar 02 16:02:45 2002] Lord Gikzic begins to cast a spell. (Grim Aura)
+[Sat Mar 02 16:02:45 2002] Taxxin punches Master Glox for 33 points of damage.
+[Sat Mar 02 16:02:47 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:02:48 2002] Lirus tells the guild, 'still not up'
+[Sat Mar 02 16:02:48 2002] Master Glox punches Taxxin for 13 points of damage.
+[Sat Mar 02 16:02:48 2002] Taxxin punches Master Glox for 24 points of damage.
+[Sat Mar 02 16:02:48 2002] Taxxin punches Master Glox for 28 points of damage.
+[Sat Mar 02 16:02:48 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:02:49 2002] Librarian Zimor begins to cast a spell. (Banshee Aura)
+[Sat Mar 02 16:02:49 2002] Master Glox kicks Taxxin for 8 points of damage.
+[Sat Mar 02 16:02:50 2002] Master Glox punches Taxxin for 8 points of damage.
+[Sat Mar 02 16:02:50 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:02:51 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:02:51 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:02:52 2002] Taxxin tells you, 'thank you'
+[Sat Mar 02 16:02:52 2002] Master Glox punches Taxxin for 25 points of damage.
+[Sat Mar 02 16:02:52 2002] Master Glox punches Taxxin for 23 points of damage.
+[Sat Mar 02 16:02:52 2002] Taxxin punches Master Glox for 36 points of damage.
+[Sat Mar 02 16:02:52 2002] Taxxin punches Master Glox for 8 points of damage.
+[Sat Mar 02 16:02:53 2002] Lirus tells the guild, 'FQ = FuneralQuest'
+[Sat Mar 02 16:02:53 2002] Master Glox punches Taxxin for 16 points of damage.
+[Sat Mar 02 16:02:54 2002] Taxxin punches Master Glox for 22 points of damage.
+[Sat Mar 02 16:02:54 2002] Taxxin punches Master Glox for 13 points of damage.
+[Sat Mar 02 16:02:54 2002] Taxxin punches Master Glox for 3 points of damage.
+[Sat Mar 02 16:02:55 2002] Master Glox punches Taxxin for 25 points of damage.
+[Sat Mar 02 16:02:55 2002] Taxxin punches Master Glox for 13 points of damage.
+[Sat Mar 02 16:02:56 2002] Taxxin kicks Master Glox for 41 points of damage.
+[Sat Mar 02 16:02:56 2002] Taxxin punches Master Glox for 28 points of damage.
+[Sat Mar 02 16:02:56 2002] Taxxin punches Master Glox for 18 points of damage.
+[Sat Mar 02 16:02:57 2002] Lord Gikzic begins to cast a spell. (Banshee Aura)
+[Sat Mar 02 16:02:57 2002] Master Glox punches Taxxin for 35 points of damage.
+[Sat Mar 02 16:02:57 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:02:58 2002] Taxxin punches Master Glox for 13 points of damage.
+[Sat Mar 02 16:02:58 2002] Taxxin punches Master Glox for 16 points of damage.
+[Sat Mar 02 16:02:59 2002] Taxxin punches Master Glox for 25 points of damage.
+[Sat Mar 02 16:03:00 2002] Master Glox punches Taxxin for 13 points of damage.
+[Sat Mar 02 16:03:00 2002] Lirus tells the guild, 'silly flash 5 game'
+[Sat Mar 02 16:03:00 2002] Taxxin punches Master Glox for 22 points of damage.
+[Sat Mar 02 16:03:01 2002] Taxxin punches Master Glox for 32 points of damage.
+[Sat Mar 02 16:03:01 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:02 2002] Master Glox punches Taxxin for 28 points of damage.
+[Sat Mar 02 16:03:02 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:03:03 2002] Taxxin punches Master Glox for 19 points of damage.
+[Sat Mar 02 16:03:03 2002] Taxxin kicks Master Glox for 46 points of damage.
+[Sat Mar 02 16:03:03 2002] Master Glox punches Taxxin for 14 points of damage.
+[Sat Mar 02 16:03:03 2002] Master Glox punches Taxxin for 11 points of damage.
+[Sat Mar 02 16:03:03 2002] Cazza tells the guild, 'never heard of it is it a game?'
+[Sat Mar 02 16:03:05 2002] Hierophant Oxyn begins to cast a spell. (Inner Fire)
+[Sat Mar 02 16:03:05 2002] Taxxin punches Master Glox for 11 points of damage.
+[Sat Mar 02 16:03:05 2002] Master Glox punches Taxxin for 11 points of damage.
+[Sat Mar 02 16:03:06 2002] Master Glox kicks Taxxin for 8 points of damage.
+[Sat Mar 02 16:03:07 2002] Lirus tells the guild, 'aye'
+[Sat Mar 02 16:03:07 2002] Taxxin punches Master Glox for 22 points of damage.
+[Sat Mar 02 16:03:07 2002] Master Glox punches Taxxin for 11 points of damage.
+[Sat Mar 02 16:03:07 2002] Cazza tells the guild, 'oh lol'
+[Sat Mar 02 16:03:08 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:09 2002] Taxxin punches Master Glox for 8 points of damage.
+[Sat Mar 02 16:03:09 2002] Taxxin punches Master Glox for 16 points of damage.
+[Sat Mar 02 16:03:09 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:03:09 2002] Master Glox punches Taxxin for 10 points of damage.
+[Sat Mar 02 16:03:09 2002] Players in EverQuest:
+[Sat Mar 02 16:03:09 2002] ---------------------------
+[Sat Mar 02 16:03:09 2002] [20 Druid] Aaedaas (Wood Elf) <League of Levity> ZONE: gfaydark (USER PID ANTGL9L)
+[Sat Mar 02 16:03:09 2002] [59 Defiler] Aaena (Erudite) <Blades and Magic> ZONE: neriaka (USER PID AVT42B1) LFG
+[Sat Mar 02 16:03:09 2002] There are 2 players in EverQuest.
+[Sat Mar 02 16:03:11 2002] Taxxin punches Master Glox for 33 points of damage.
+[Sat Mar 02 16:03:11 2002] Taxxin punches Master Glox for 5 points of damage.
+[Sat Mar 02 16:03:11 2002] Taxxin punches Master Glox for 39 points of damage.
+[Sat Mar 02 16:03:11 2002] Master Glox punches Taxxin for 10 points of damage.
+[Sat Mar 02 16:03:11 2002] Taxxin kicks Master Glox for 58 points of damage.
+[Sat Mar 02 16:03:12 2002] Master Glox punches Taxxin for 14 points of damage.
+[Sat Mar 02 16:03:12 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:12 2002] Taxxin punches Master Glox for 26 points of damage.
+[Sat Mar 02 16:03:13 2002] Hierophant Oxyn begins to cast a spell. (Inner Fire)
+[Sat Mar 02 16:03:13 2002] Master Glox punches Taxxin for 35 points of damage.
+[Sat Mar 02 16:03:14 2002] Master Glox punches Taxxin for 35 points of damage.
+[Sat Mar 02 16:03:14 2002] Taxxin punches Master Glox for 39 points of damage.
+[Sat Mar 02 16:03:15 2002] Master Glox kicks Taxxin for 63 points of damage.
+[Sat Mar 02 16:03:15 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:15 2002] Master Glox punches Taxxin for 20 points of damage.
+[Sat Mar 02 16:03:15 2002] Taxxin punches Master Glox for 28 points of damage.
+[Sat Mar 02 16:03:17 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:18 2002] Master Glox punches Taxxin for 13 points of damage.
+[Sat Mar 02 16:03:18 2002] Taxxin punches Master Glox for 15 points of damage.
+[Sat Mar 02 16:03:18 2002] Taxxin kicks Master Glox for 41 points of damage.
+[Sat Mar 02 16:03:19 2002] Taxxin punches Master Glox for 35 points of damage.
+[Sat Mar 02 16:03:20 2002] Taxxin punches Master Glox for 32 points of damage.
+[Sat Mar 02 16:03:20 2002] Taxxin beams a smile at Master Glox.
+[Sat Mar 02 16:03:20 2002] Taxxin says, 'Ahhh, I feel much better now...'
+[Sat Mar 02 16:03:20 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:21 2002] Taxxin punches Master Glox for 13 points of damage.
+[Sat Mar 02 16:03:21 2002] Master Glox punches Taxxin for 35 points of damage.
+[Sat Mar 02 16:03:22 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:23 2002] Master Glox kicks Taxxin for 8 points of damage.
+[Sat Mar 02 16:03:24 2002] Taxxin punches Master Glox for 13 points of damage.
+[Sat Mar 02 16:03:24 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:25 2002] Crusader Olos begins to cast a spell. (Grim Aura)
+[Sat Mar 02 16:03:25 2002] Taxxin kicks Master Glox for 41 points of damage.
+[Sat Mar 02 16:03:25 2002] Master Glox punches Taxxin for 19 points of damage.
+[Sat Mar 02 16:03:26 2002] Taxxin punches Master Glox for 3 points of damage.
+[Sat Mar 02 16:03:26 2002] Taxxin punches Master Glox for 41 points of damage.
+[Sat Mar 02 16:03:26 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:28 2002] Taxxin punches Master Glox for 3 points of damage.
+[Sat Mar 02 16:03:28 2002] Taxxin punches Master Glox for 18 points of damage.
+[Sat Mar 02 16:03:28 2002] Master Glox punches Taxxin for 29 points of damage.
+[Sat Mar 02 16:03:30 2002] Taxxin punches Master Glox for 15 points of damage.
+[Sat Mar 02 16:03:31 2002] Taxxin punches Master Glox for 25 points of damage.
+[Sat Mar 02 16:03:31 2002] Taxxin punches Master Glox for 25 points of damage.
+[Sat Mar 02 16:03:31 2002] Master Glox punches Taxxin for 28 points of damage.
+[Sat Mar 02 16:03:32 2002] Taxxin kicks Master Glox for 42 points of damage.
+[Sat Mar 02 16:03:32 2002] Taxxin punches Master Glox for 25 points of damage.
+[Sat Mar 02 16:03:32 2002] Master Glox punches Taxxin for 25 points of damage.
+[Sat Mar 02 16:03:33 2002] Taxxin punches Master Glox for 32 points of damage.
+[Sat Mar 02 16:03:35 2002] Master Glox punches Taxxin for 28 points of damage.
+[Sat Mar 02 16:03:36 2002] Taxxin punches Master Glox for 54 points of damage.
+[Sat Mar 02 16:03:36 2002] Taxxin punches Master Glox for 46 points of damage.
+[Sat Mar 02 16:03:36 2002] You told Aaedaas, 'Hi, I just talked to the GM, he says it is impossible for him to assign new officers. Only the guild leader can do that.'
+[Sat Mar 02 16:03:36 2002] Sivy GMSAYS, 'jay and silent bob strike back is the best movie ever'
+[Sat Mar 02 16:03:36 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:03:37 2002] Master Glox punches Taxxin for 11 points of damage.
+[Sat Mar 02 16:03:38 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:38 2002] Taxxin punches Master Glox for 22 points of damage.
+[Sat Mar 02 16:03:38 2002] Taxxin punches Master Glox for 24 points of damage.
+[Sat Mar 02 16:03:39 2002] Taxxin kicks Master Glox for 41 points of damage.
+[Sat Mar 02 16:03:40 2002] Taxxin punches Master Glox for 33 points of damage.
+[Sat Mar 02 16:03:41 2002] Taxxin punches Master Glox for 2 points of damage.
+[Sat Mar 02 16:03:41 2002] Master Glox punches Taxxin for 11 points of damage.
+[Sat Mar 02 16:03:41 2002] Lirus GMSAYS, 'lol'
+[Sat Mar 02 16:03:41 2002] Master Glox punches Taxxin for 19 points of damage.
+[Sat Mar 02 16:03:42 2002] Taxxin punches Master Glox for 39 points of damage.
+[Sat Mar 02 16:03:42 2002] Taxxin punches Master Glox for 21 points of damage.
+[Sat Mar 02 16:03:43 2002] Taxxin punches Master Glox for 23 points of damage.
+[Sat Mar 02 16:03:44 2002] Master Glox punches Taxxin for 23 points of damage.
+[Sat Mar 02 16:03:45 2002] Taxxin punches Master Glox for 27 points of damage.
+[Sat Mar 02 16:03:46 2002] Master Glox punches Taxxin for 31 points of damage.
+[Sat Mar 02 16:03:46 2002] Aaedaas tells you, '=('
+[Sat Mar 02 16:03:46 2002] Taxxin kicks Master Glox for 41 points of damage.
+[Sat Mar 02 16:03:47 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:47 2002] Taxxin punches Master Glox for 32 points of damage.
+[Sat Mar 02 16:03:48 2002] Master Glox punches Taxxin for 26 points of damage.
+[Sat Mar 02 16:03:48 2002] Hierophant Zand begins to cast a spell. (Celerity)
+[Sat Mar 02 16:03:49 2002] Master Glox punches Taxxin for 14 points of damage.
+[Sat Mar 02 16:03:49 2002] Master Glox kicks Taxxin for 40 points of damage.
+[Sat Mar 02 16:03:50 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:50 2002] Master Glox punches Taxxin for 35 points of damage.
+[Sat Mar 02 16:03:51 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:51 2002] Master Glox punches Taxxin for 8 points of damage.
+[Sat Mar 02 16:03:51 2002] Sivy GMSAYS, 'kevin smith is a genius'
+[Sat Mar 02 16:03:52 2002] Master Glox punches Taxxin for 28 points of damage.
+[Sat Mar 02 16:03:52 2002] Taxxin punches Master Glox for 29 points of damage.
+[Sat Mar 02 16:03:52 2002] Prime Hierophant Vek begins to cast a spell. (Celerity)
+[Sat Mar 02 16:03:53 2002] Taxxin punches Master Glox for 19 points of damage.
+[Sat Mar 02 16:03:54 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:03:55 2002] Taxxin punches Master Glox for 28 points of damage.
+[Sat Mar 02 16:03:56 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:03:56 2002] Master Glox punches Taxxin for 25 points of damage.
+[Sat Mar 02 16:03:57 2002] You told Aaedaas, 'I'm sorry...'
+[Sat Mar 02 16:03:57 2002] Master Glox punches Taxxin for 14 points of damage.
+[Sat Mar 02 16:03:57 2002] Taxxin punches Master Glox for 32 points of damage.
+[Sat Mar 02 16:03:57 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:03:57 2002] Master Glox kicks Taxxin for 43 points of damage.
+[Sat Mar 02 16:04:00 2002] Taxxin punches Master Glox for 18 points of damage.
+[Sat Mar 02 16:04:00 2002] Master Glox punches Taxxin for 14 points of damage.
+[Sat Mar 02 16:04:00 2002] Master Glox punches Taxxin for 14 points of damage.
+[Sat Mar 02 16:04:00 2002] Arch Duke Xog begins to cast a spell. (Banshee Aura)
+[Sat Mar 02 16:04:01 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:04:01 2002] Taxxin punches Master Glox for 33 points of damage.
+[Sat Mar 02 16:04:01 2002] Master Glox punches Taxxin for 13 points of damage.
+[Sat Mar 02 16:04:02 2002] Taxxin punches Master Glox for 29 points of damage.
+[Sat Mar 02 16:04:02 2002] Taxxin punches Master Glox for 32 points of damage.
+[Sat Mar 02 16:04:02 2002] Taxxin punches Master Glox for 34 points of damage.
+[Sat Mar 02 16:04:03 2002] Master Glox punches Taxxin for 26 points of damage.
+[Sat Mar 02 16:04:03 2002] Master Glox punches Taxxin for 35 points of damage.
+[Sat Mar 02 16:04:04 2002] Taxxin punches Master Glox for 46 points of damage.
+[Sat Mar 02 16:04:06 2002] Taxxin punches Master Glox for 39 points of damage.
+[Sat Mar 02 16:04:07 2002] Master Glox punches Taxxin for 13 points of damage.
+[Sat Mar 02 16:04:08 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:04:08 2002] Taxxin punches Master Glox for 13 points of damage.
+[Sat Mar 02 16:04:08 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:04:09 2002] Taxxin punches Master Glox for 42 points of damage.
+[Sat Mar 02 16:04:09 2002] Taxxin punches Master Glox for 20 points of damage.
+[Sat Mar 02 16:04:10 2002] Master Glox punches Taxxin for 16 points of damage.
+[Sat Mar 02 16:04:11 2002] Master Glox punches Taxxin for 8 points of damage.
+[Sat Mar 02 16:04:12 2002] Master Glox punches Taxxin for 29 points of damage.
+[Sat Mar 02 16:04:12 2002] Taxxin punches Master Glox for 8 points of damage.
+[Sat Mar 02 16:04:13 2002] You say, 'were you supposed to have a key or something?'
+[Sat Mar 02 16:04:13 2002] Taxxin punches Master Glox for 26 points of damage.
+[Sat Mar 02 16:04:13 2002] Taxxin punches Master Glox for 27 points of damage.
+[Sat Mar 02 16:04:14 2002] Master Glox punches Taxxin for 25 points of damage.
+[Sat Mar 02 16:04:14 2002] Taxxin punches Master Glox for 27 points of damage.
+[Sat Mar 02 16:04:14 2002] Master Glox kicks Taxxin for 8 points of damage.
+[Sat Mar 02 16:04:14 2002] Taxxin punches Master Glox for 43 points of damage.
+[Sat Mar 02 16:04:14 2002] Taxxin punches Master Glox for 16 points of damage.
+[Sat Mar 02 16:04:15 2002] Cazza GMSAYS, 'our appies are broken again'
+[Sat Mar 02 16:04:15 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:04:16 2002] Taxxin punches Master Glox for 31 points of damage.
+[Sat Mar 02 16:04:17 2002] Master Glox punches Taxxin for 10 points of damage.
+[Sat Mar 02 16:04:18 2002] Taxxin punches Master Glox for 34 points of damage.
+[Sat Mar 02 16:04:18 2002] Taxxin punches Master Glox for 3 points of damage.
+[Sat Mar 02 16:04:20 2002] Taxxin punches Master Glox for 50 points of damage.
+[Sat Mar 02 16:04:20 2002] Taxxin says, 'he drops a potion'
+[Sat Mar 02 16:04:21 2002] Taxxin punches Master Glox for 26 points of damage.
+[Sat Mar 02 16:04:21 2002] Cazza GMSAYS, 'they cant access the queue either'
+[Sat Mar 02 16:04:21 2002] Master Glox punches Taxxin for 11 points of damage.
+[Sat Mar 02 16:04:21 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:04:22 2002] Lirus GMSAYS, 'can't see /pr?'
+[Sat Mar 02 16:04:22 2002] Taxxin kicks Master Glox for 84 points of damage.
+[Sat Mar 02 16:04:23 2002] Master Glox kicks Taxxin for 8 points of damage.
+[Sat Mar 02 16:04:24 2002] The spirit leaves you.
+[Sat Mar 02 16:04:24 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:04:25 2002] Taxxin punches Master Glox for 13 points of damage.
+[Sat Mar 02 16:04:25 2002] Taxxin punches Master Glox for 18 points of damage.
+[Sat Mar 02 16:04:25 2002] Cazza GMSAYS, 'no('
+[Sat Mar 02 16:04:26 2002] Taxxin says, 'that ports me out'
+[Sat Mar 02 16:04:27 2002] Taxxin punches Master Glox for 40 points of damage.
+[Sat Mar 02 16:04:27 2002] Taxxin punches Master Glox for 3 points of damage.
+[Sat Mar 02 16:04:27 2002] Master Glox punches Taxxin for 35 points of damage.
+[Sat Mar 02 16:04:28 2002] Taxxin punches Master Glox for 30 points of damage.
+[Sat Mar 02 16:04:28 2002] Taxxin punches Master Glox for 33 points of damage.
+[Sat Mar 02 16:04:28 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:04:29 2002] Master Glox punches Taxxin for 14 points of damage.
+[Sat Mar 02 16:04:30 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:04:30 2002] Cazza GMSAYS, 'and no sticks either'
+[Sat Mar 02 16:04:31 2002] Master Glox punches Taxxin for 32 points of damage.
+[Sat Mar 02 16:04:32 2002] Taxxin punches Master Glox for 15 points of damage.
+[Sat Mar 02 16:04:32 2002] Master Glox punches Taxxin for 10 points of damage.
+[Sat Mar 02 16:04:33 2002] Master Glox punches Taxxin for 31 points of damage.
+[Sat Mar 02 16:04:34 2002] Silae GMSAYS, 'eep..'
+[Sat Mar 02 16:04:35 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:04:35 2002] Taxxin punches Master Glox for 33 points of damage.
+[Sat Mar 02 16:04:35 2002] Taxxin punches Master Glox for 27 points of damage.
+[Sat Mar 02 16:04:36 2002] Taxxin kicks Master Glox for 41 points of damage.
+[Sat Mar 02 16:04:37 2002] Master Glox punches Taxxin for 28 points of damage.
+[Sat Mar 02 16:04:37 2002] Taxxin punches Master Glox for 32 points of damage.
+[Sat Mar 02 16:04:37 2002] Lirus GMSAYS, 'just takes time, ashlanne must not have gotten the flags done yet'
+[Sat Mar 02 16:04:38 2002] Taxxin punches Master Glox for 5 points of damage.
+[Sat Mar 02 16:04:38 2002] Taxxin punches Master Glox for 8 points of damage.
+[Sat Mar 02 16:04:38 2002] Master Glox punches Taxxin for 7 points of damage.
+[Sat Mar 02 16:04:38 2002] Master Glox punches Taxxin for 16 points of damage.
+[Sat Mar 02 16:04:39 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:04:39 2002] Master Glox punches Taxxin for 26 points of damage.
+[Sat Mar 02 16:04:40 2002] Taxxin punches Master Glox for 35 points of damage.
+[Sat Mar 02 16:04:40 2002] Master Glox kicks Taxxin for 63 points of damage.
+[Sat Mar 02 16:04:40 2002] Taxxin punches Master Glox for 46 points of damage.
+[Sat Mar 02 16:04:41 2002] Master Glox punches Taxxin for 28 points of damage.
+[Sat Mar 02 16:04:42 2002] Master Glox punches Taxxin for 26 points of damage.
+[Sat Mar 02 16:04:42 2002] Taxxin punches Master Glox for 61 points of damage.
+[Sat Mar 02 16:04:42 2002] Taxxin punches Master Glox for 48 points of damage.
+[Sat Mar 02 16:04:42 2002] Taxxin punches Master Glox for 10 points of damage.
+[Sat Mar 02 16:04:43 2002] Taxxin kicks Master Glox for 41 points of damage.
+[Sat Mar 02 16:04:44 2002] Cazza GMSAYS, 'ok'
+[Sat Mar 02 16:04:44 2002] Taxxin punches Master Glox for 35 points of damage.
+[Sat Mar 02 16:04:44 2002] Taxxin punches Master Glox for 29 points of damage.
+[Sat Mar 02 16:04:44 2002] Master Glox has been slain by Taxxin!
+[Sat Mar 02 16:04:44 2002] Master Glox says 'Your have come onto your own.  Spread the pain you have shown me to all of your foes. '
+[Sat Mar 02 16:04:45 2002] You say, 'just wondered why there was this locked door there'
+[Sat Mar 02 16:04:52 2002] Lirus GMSAYS, 'see before when lithgar had the job it was done by like 1:30'
+[Sat Mar 02 16:04:58 2002] Lirus tells the guild, 'cause his hours were different'
+[Sat Mar 02 16:05:06 2002] You say, 'well, grats...'
+[Sat Mar 02 16:05:11 2002] Lirus tells the guild, 'now that she has it she comes in at 2, and it's not done in time'
+[Sat Mar 02 16:05:14 2002] You say, 'I hope I didn't just skip you past something though'
+[Sat Mar 02 16:05:17 2002] Taxxin says, 'who knows grand master glox summons you to that room to fight master glox'
+[Sat Mar 02 16:05:18 2002] Cazza tells the guild, '('
+[Sat Mar 02 16:05:20 2002] Hierophant Zand begins to cast a spell. (Celerity)
+[Sat Mar 02 16:05:25 2002] Prime Hierophant Vek begins to cast a spell. (Celerity)
+[Sat Mar 02 16:05:28 2002] Lord Korzin begins to cast a spell. (Banshee Aura)
+[Sat Mar 02 16:05:32 2002] Taxxin says, 'no you didnt you can ask around'
+[Sat Mar 02 16:05:32 2002] Prime Patriarch Vuzx begins to cast a spell. (Inner Fire)
+[Sat Mar 02 16:05:34 2002] Lirus tells the guild, 'so...maybe another hour and they will be good to go('
+[Sat Mar 02 16:05:37 2002] You say, 'well, congratulations!'
+[Sat Mar 02 16:05:42 2002] You say, 'I must be away.'
+[Sat Mar 02 16:05:44 2002] You bow before Taxxin.
+[Sat Mar 02 16:05:44 2002] Taxxin says, 'me too'
+[Sat Mar 02 16:05:48 2002] You GMSAY, 'zone'
+[Sat Mar 02 16:05:51 2002] Teleporting to shalya.
+[Sat Mar 02 16:05:52 2002] LOADING, PLEASE WAIT...
+[Sat Mar 02 16:06:16 2002] a frost giant scout died.
+[Sat Mar 02 16:14:32 2002] a frost giant scout died.
+[Sat Mar 02 16:14:46 2002] You have entered The Great Divide.
+[Sat Mar 02 16:14:46 2002] MESSAGE OF THE DAY: Greetings Morell-Thule! We are aware of the error with faction text messages. Please be assured it's only a text error, and factions are working properly.
+[Sat Mar 02 16:14:50 2002] It begins to snow.
+[Sat Mar 02 16:14:51 2002] You GMSAY, 'back'
+[Sat Mar 02 16:14:53 2002] You feel the spirit of Norrath enter you.
+[Sat Mar 02 16:14:59 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sat Mar 02 16:14:59 2002] USER TEXT: hi Lirus i d like to change my surname plz, i ve just married today
+[Sat Mar 02 16:14:59 2002] Cazza GMSAYS, 'wb did you get punted too?'
+[Sat Mar 02 16:14:59 2002] Players in EverQuest:
+[Sat Mar 02 16:14:59 2002] ---------------------------
+[Sat Mar 02 16:14:59 2002] [43 Druid] Shalya (Wood Elf) <Chevaliers de la Licorne> ZONE: greatdivide (USER PID F1PAW71)
+[Sat Mar 02 16:14:59 2002] There is 1 player in EverQuest.
+[Sat Mar 02 16:15:07 2002] You GMSAY, 'tried zoning into GD'
+[Sat Mar 02 16:15:13 2002] Astenar auctions, 'WTB frost giant toes...'
+[Sat Mar 02 16:15:25 2002] Zangluss says, 'c est koi ca ?'
+[Sat Mar 02 16:15:25 2002] Players in EverQuest:
+[Sat Mar 02 16:15:25 2002] ---------------------------
+[Sat Mar 02 16:15:25 2002] [43 Druid] Shalya (Wood Elf) <Chevaliers de la Licorne> ZONE: greatdivide (USER PID F1PAW71)
+[Sat Mar 02 16:15:25 2002] There is 1 player in EverQuest.
+[Sat Mar 02 16:15:31 2002] Teleporting to shalya.
+[Sat Mar 02 16:15:39 2002] Cazza GMSAYS, 'oh ok I was in  mid sentence and screen went black with the you've been disconnected '
+[Sat Mar 02 16:15:43 2002] Zangluss is looking at your equipment...
+[Sat Mar 02 16:15:49 2002] Lirus GMSAYS, 'doh, welcome back'
+[Sat Mar 02 16:16:04 2002] Silae GMSAYS, 'wb :)'
+[Sat Mar 02 16:16:11 2002] You told Shalya, 'Excuse me, I crashed while zoning. What did you want your last name to be?'
+[Sat Mar 02 16:16:46 2002] Dainare auctions, 'WTS Enchanter Spells Color Slant,Theft of Thought'
+[Sat Mar 02 16:16:47 2002] Shalya tells you, 'i d like forgenclume surname plz'
+[Sat Mar 02 16:16:59 2002] You have changed Shalya's last name to Forgenclume.
+[Sat Mar 02 16:17:04 2002] You told Shalya, 'How's that?'
+[Sat Mar 02 16:17:25 2002] You GMSAY, '<note name> Shalya F1PAW71 last name changed to Forgenclume'
+[Sat Mar 02 16:17:37 2002] You GMSAY, 'bye'
+[Sat Mar 02 16:17:41 2002] You GMSAY, 'oops'
+[Sat Mar 02 16:17:42 2002] You no longer have a target.
+[Sat Mar 02 16:17:43 2002] You wave goodbye to everyone.
+[Sat Mar 02 16:17:43 2002] Temerin auctions, 'WTS giant heads   blood wolf harnes        spicked belt'
+[Sat Mar 02 16:17:46 2002] DELETING THIS PETITION
+[Sat Mar 02 16:17:49 2002] You GMSAY, 'zone'
+[Sat Mar 02 16:17:50 2002] Fresus waves goodbye to Espranza.
+[Sat Mar 02 16:17:52 2002] Ulmwe waves goodbye to Espranza.
+[Sat Mar 02 16:17:53 2002] LOADING, PLEASE WAIT...
+[Sat Mar 02 16:18:12 2002] You have entered Sunset Home.
+[Sat Mar 02 16:18:22 2002] Shalya tells you, 'i m from waterfall'
+[Sat Mar 02 16:18:34 2002] You told Shalya, 'I've changed your last name already'
+[Sat Mar 02 16:18:46 2002] Shalya tells you, 'ok'
+[Sat Mar 02 16:18:54 2002] You told Shalya, 'be well and safe journeys'
+[Sat Mar 02 16:19:17 2002] Shalya tells you, 'thx very much'
+[Sat Mar 02 16:19:17 2002] Kilm says, 'I usually says something like Greetings, I am guide Kilm. How may I assist you ?'
+[Sat Mar 02 16:19:18 2002] You say to your guild, 'might as well do the dos and don'ts if you have lots of time, or just do sample petition walkthroughts'
+[Sat Mar 02 16:19:30 2002] Cazza tells the guild, 'we are going ot do sample petitions I thought'
+[Sat Mar 02 16:19:33 2002] Silae GMSAYS, 'Ironslinger says he couldn't find his corpse at first.. found it.. deleting'
+[Sat Mar 02 16:19:46 2002] You say to your guild, 'that's cool :)'
+[Sat Mar 02 16:19:49 2002] Cazza tells the guild, 'I think that is a good idea anyway gets them practiced'
+[Sat Mar 02 16:19:49 2002] Kilm says, 'As a apprentice, you will always introduce your self as Apprentice <yourname>'
+[Sat Mar 02 16:19:52 2002] Lirus tells the guild, 'NOoOOOooOOOOoo sivy! 6 bag EC reimbursement *glare*'
+[Sat Mar 02 16:20:08 2002] Lirus tells the guild, 'hehe i'm JK sivy'
+[Sat Mar 02 16:20:18 2002] Kilm says, 'ok.. you still can't see petitions or the /pr channel ?'
+[Sat Mar 02 16:20:36 2002] Bariton says, 'No, I cannot.'
+[Sat Mar 02 16:20:51 2002] Laral says, 'same for me'
+[Sat Mar 02 16:20:53 2002] Cazza says, 'we are going to run through petition examples with you then)'
+[Sat Mar 02 16:21:05 2002] Sivy tells the guild, 'muwahaha lirus >=)'
+[Sat Mar 02 16:21:06 2002] Kilm turns it over to Cazza.
+[Sat Mar 02 16:21:09 2002] Cazza tells the guild, 'kilm we can jsut take turns askign them a petition'
+[Sat Mar 02 16:21:13 2002] Cazza says, 'ok first one'
+[Sat Mar 02 16:21:14 2002] Silae GMSAYS, 'pulling phlanx'
+[Sat Mar 02 16:21:16 2002] Kilm tells the guild, 'okies '
+[Sat Mar 02 16:21:27 2002] Cazza says, 'you get a petition saying I fell off the boat can you help me?'
+[Sat Mar 02 16:21:37 2002] Cazza says, 'can you please tell me how you would answer this petition?'
+[Sat Mar 02 16:21:46 2002] Cazza says, 'and what you think you can and can not do?'
+[Sat Mar 02 16:21:58 2002] Kilm says, 'In its entirey.. including the intro please'
+[Sat Mar 02 16:22:04 2002] Cazza says, 'yes please'
+[Sat Mar 02 16:22:25 2002] Bariton says, 'How shall Laral and I address this, so as not to talk over each other?'
+[Sat Mar 02 16:22:41 2002] Kilm says, 'Use Me or Cazza as the petitioner'
+[Sat Mar 02 16:23:04 2002] Kilm says, 'and who wants to go first ?'
+[Sat Mar 02 16:23:06 2002] Bariton says, 'Ah, tells, then?'
+[Sat Mar 02 16:23:07 2002] Cazza says, 'one moment need to conference with kilm hehe'
+[Sat Mar 02 16:23:16 2002] Cazza says, 'oh espranza is here too hehe'
+[Sat Mar 02 16:23:36 2002] Silae GMSAYS, 'Phlanx thought his friend was stuck in LD.. finally logged.. deleting'
+[Sat Mar 02 16:23:42 2002] Cazza tells the guild, 'ok guys, maybe it would be better to group each and do it seperately? or have them both answer same petition question?'
+[Sat Mar 02 16:23:43 2002] Kilm says, 'hehehe yea, but I can't see her...she is way under the cloud line :D '
+[Sat Mar 02 16:23:55 2002] Bariton chuckles at Kilm.
+[Sat Mar 02 16:24:07 2002] Kilm tells the guild, 'just pick one to start Cazza, let them answer then do another with the next ?'
+[Sat Mar 02 16:24:14 2002] Cazza tells the guild, 'ok'
+[Sat Mar 02 16:24:21 2002] It begins to rain.
+[Sat Mar 02 16:24:34 2002] Cazza says, 'ok you both answer the petition you can do it one at a time but we would liek to know how you both would answer'
+[Sat Mar 02 16:24:43 2002] Cazza says, 'did we lose one?'
+[Sat Mar 02 16:25:07 2002] Cazza says, 'you get a petition saying I fell off the boat can you help me?'
+[Sat Mar 02 16:25:16 2002] Kilm says, 'think he linked, so Bariton, why don't you answer and we will get Laral a petition when he gets back '
+[Sat Mar 02 16:25:19 2002] Cazza says, 'bariton pleae walk me through how you would handle this petition'
+[Sat Mar 02 16:25:22 2002] Bariton says, 'Yoikes!  Am I now the center of attention?'
+[Sat Mar 02 16:25:22 2002] Silae GMSAYS, 'afk a minute'
+[Sat Mar 02 16:25:26 2002] Bariton blushes profusely.
+[Sat Mar 02 16:25:29 2002] Cazza says, 'hahah'
+[Sat Mar 02 16:25:31 2002] Kilm chuckles at Bariton.
+[Sat Mar 02 16:25:32 2002] You say, 'I'm right here...'
+[Sat Mar 02 16:25:52 2002] Bariton says, 'Alrighty ... which one of youse am I playing off of?'
+[Sat Mar 02 16:25:55 2002] Kilm looks for Espranza ...high and low 
+[Sat Mar 02 16:25:56 2002] Cazza says, 'me'
+[Sat Mar 02 16:26:02 2002] Cazza says, 'you get a petition saying I fell off the boat can you help me?'
+[Sat Mar 02 16:26:08 2002] Bariton cheers at Cazza.
+[Sat Mar 02 16:26:09 2002] Cazza says, 'I'm starting to drown at this point heh'
+[Sat Mar 02 16:26:40 2002] Bariton says, 'Greetings, Adventurer!  Apprentice Bariton, here.  How may I serve you this evening?'
+[Sat Mar 02 16:26:44 2002] Cazza tells the guild, 'glub glub glub hehe'
+[Sat Mar 02 16:27:02 2002] Bariton chuckles at Cazza.
+[Sat Mar 02 16:27:09 2002] Cazza says, 'I've fallen into the water and can't get out can you help me?'
+[Sat Mar 02 16:27:47 2002] Bariton says, 'Fallen into the water?  Oh, my!  Been dipping into the Captain's grog cabinet, have ye?  :)'
+[Sat Mar 02 16:28:15 2002] Cazza says, 'ws on my merry way through oot when the boat tipped me in the water, guess I wasnt helping rowing enough'
+[Sat Mar 02 16:28:36 2002] Cazza says, 'help me please I don't know where i am now'
+[Sat Mar 02 16:28:41 2002] Espranza saved.
+[Sat Mar 02 16:28:45 2002] Cazza says, 'and the water is cold and dark'
+[Sat Mar 02 16:29:03 2002] Kilm says, 'wb Laral '
+[Sat Mar 02 16:29:11 2002] Laral says, 'say sorry left icq up'
+[Sat Mar 02 16:29:20 2002] Cazza says, 'wb laral)'
+[Sat Mar 02 16:29:44 2002] Bariton says, 'Aye, you *do* need to keep in time with the drummer ;) ... How'd you happen to fall in?'
+[Sat Mar 02 16:29:55 2002] Silae GMSAYS, 'back'
+[Sat Mar 02 16:30:00 2002] Cazza says, 'The boat must of tipped me over'
+[Sat Mar 02 16:30:11 2002] Lirus GMSAYS, 'wb silae'
+[Sat Mar 02 16:30:20 2002] Silae GMSAYS, 'thanks ;)'
+[Sat Mar 02 16:30:27 2002] Cazza says, 'or maybe that mean kilm pushed me in to the ocean'
+[Sat Mar 02 16:30:37 2002] Cazza GMSAYS, 'wb hun'
+[Sat Mar 02 16:31:01 2002] Silae GMSAYS, '*grins*  I feel so loved..  *chuckle*'
+[Sat Mar 02 16:31:09 2002] Kilm chuckles because he is innocent.
+[Sat Mar 02 16:31:14 2002] Bariton says, 'Indeed?  I shall be along in a moment ... do me a favor, and /report the rickety ol' boat ... and Kilm for me ;)'
+[Sat Mar 02 16:31:32 2002] Silae GMSAYS, 'pulling aaldari'
+[Sat Mar 02 16:31:34 2002] Cazza says, 'ok hun .. what you would want to do is escalate my petition .. a guide would have to further investigate me at this point'
+[Sat Mar 02 16:31:41 2002] Bariton nods.
+[Sat Mar 02 16:31:46 2002] Cazza says, 'one of the things you would first note is what zone am I in'
+[Sat Mar 02 16:31:54 2002] Bariton makes a mental note.
+[Sat Mar 02 16:32:07 2002] Cazza says, 'if I am truely in an ocean guides can come to the rescue provided I am not just dipping my toes in off land'
+[Sat Mar 02 16:32:15 2002] Bariton says, 'Psst ... Laral ... the answer is "escalate" ... ;)'
+[Sat Mar 02 16:32:19 2002] Cazza says, 'heheh'
+[Sat Mar 02 16:32:36 2002] Laral says, 'i missed the question i think'
+[Sat Mar 02 16:32:44 2002] Cazza says, 'that I had fallen off the boat hun)'
+[Sat Mar 02 16:32:47 2002] Bariton says, 'Doesn't matter ... just say "escalate"  ;)'
+[Sat Mar 02 16:32:50 2002] Cazza says, 'and was drowning'
+[Sat Mar 02 16:32:52 2002] Cazza says, 'bah'
+[Sat Mar 02 16:32:57 2002] Silae GMSAYS, 'reports about the LoH bug.. said it's been documented and thanked..  deleting'
+[Sat Mar 02 16:32:59 2002] Cazza bonks Bariton on the head!
+[Sat Mar 02 16:33:02 2002] Bariton chuckles.
+[Sat Mar 02 16:33:22 2002] Kilm says, 'Laral ? ready for a petition from me ?'
+[Sat Mar 02 16:33:31 2002] Bariton pats Laral on the back.
+[Sat Mar 02 16:33:34 2002] Laral says, 'sure'
+[Sat Mar 02 16:34:11 2002] Kilm says, 'I petition I lost My Primal warspear ...it was in a bag and I went to get it out and it was gone.'
+[Sat Mar 02 16:34:29 2002] Cazza tells the guild, 'LIrus tonight if you arent too busy you mind making me a feline? pretty please?'
+[Sat Mar 02 16:34:37 2002] Sivy GMSAYS, 'Zone'
+[Sat Mar 02 16:34:40 2002] Lirus tells the guild, 'we can do it whenever you want cazza'
+[Sat Mar 02 16:34:50 2002] Cazza tells the guild, 'woot ) I want to look like my cat heheh'
+[Sat Mar 02 16:34:56 2002] Lirus tells the guild, 'hehe'
+[Sat Mar 02 16:35:11 2002] Lirus tells the guild, 'log out and delete cazza then remake as you wish, then log on and send me a tell'
+[Sat Mar 02 16:35:43 2002] Laral says, 'Greetings Apprentice Guide, Laral, Are you still having the problem with the warspear?'
+[Sat Mar 02 16:35:54 2002] Kilm tells the guild, 'We will have a new pet..... Someone other than Lancet to let outside..not feed occasionally .... and to fetch the morning paper :) '
+[Sat Mar 02 16:36:07 2002] Kilm says, 'Yes I am.. I lost it and I want it back '
+[Sat Mar 02 16:36:13 2002] Lirus tells the guild, 'hehehe'
+[Sat Mar 02 16:36:22 2002] Cazza tells you, 'do I have time now to change characters?'
+[Sat Mar 02 16:37:43 2002] Laral says, 'I am sorry for your loss I would like to get some infomation from you to furter help the investigation.  When was the last time you seen this item?'
+[Sat Mar 02 16:38:12 2002] Kilm says, 'two hours ago in Temple Veeshan when I looted my corpse because some dragon decided to kick my tail '
+[Sat Mar 02 16:38:13 2002] You told Cazza, 'to Vah Shir?'
+[Sat Mar 02 16:38:18 2002] Cazza tells you, 'yes'
+[Sat Mar 02 16:38:31 2002] You told Cazza, 'yeah sure'
+[Sat Mar 02 16:38:43 2002] You GMSAY, 'Lirus, Cazza is gonna make her kitty'
+[Sat Mar 02 16:38:46 2002] Cazza tells you, 'ok can you hold onto a flower for me, I got it from GM Lirus and I don't want to lose it heh'
+[Sat Mar 02 16:38:51 2002] You told Cazza, 'list all your mesals or whatever'
+[Sat Mar 02 16:39:03 2002] You told Cazza, 'medalls'
+[Sat Mar 02 16:39:04 2002] Espranza saved.
+[Sat Mar 02 16:39:07 2002] You told Cazza, 'GRRR medals'
+[Sat Mar 02 16:39:23 2002] Cazza tells you, 'ok I have a six month and a one year medal, I had a gnome stone given to me from a GM for work but now I can get those from merchant'
+[Sat Mar 02 16:39:27 2002] You told Cazza, 'I haven't heard back from the other SMT but I'm sure it'll be okay'
+[Sat Mar 02 16:39:35 2002] You told Cazza, 'but let's make sure Lirus is ready'
+[Sat Mar 02 16:39:38 2002] Silae GMSAYS, '*steps into the shadows* Zone!'
+[Sat Mar 02 16:39:47 2002] You told Cazza, 'just the stuff not sold in stores'
+[Sat Mar 02 16:39:50 2002] Cazza tells you, 'ok  already did he said go ahead whenever I am ready heh'
+[Sat Mar 02 16:40:09 2002] Cazza tells you, 'ok jsut the six month and one year medal and the flower I gave you lol'
+[Sat Mar 02 16:40:14 2002] You told Cazza, 'okay, delete Cazza D'Mystic and make Cazza the Distempered'
+[Sat Mar 02 16:40:26 2002] Cazza tells you, 'don't think I can make last names'
+[Sat Mar 02 16:40:32 2002] You told Cazza, 'I can do that )'
+[Sat Mar 02 16:40:40 2002] Cazza tells you, 'ok brb'
+[Sat Mar 02 16:40:45 2002] Cazza tells you, 'I am soo excited heh'
+[Sat Mar 02 16:40:49 2002] Cazza says, 'brb everyone'
+[Sat Mar 02 16:40:49 2002] You told Cazza, ':)'
+[Sat Mar 02 16:40:51 2002] Laral says, 'I am again sorry for the loss I will be sending this to one of the guids to further invesgate the issue.'
+[Sat Mar 02 16:41:33 2002] Norisu Charming GMSAYS, ':D'
+[Sat Mar 02 16:42:10 2002] Kilm says, 'Ok....good job... make sure you tell em the GM hours also..and to use the www.everquestlive.com website contact your GM button also... this way if they get missed or decayed in the que.. they can contact the gm via email '
+[Sat Mar 02 16:42:14 2002] Players in EverQuest:
+[Sat Mar 02 16:42:14 2002] ---------------------------
+[Sat Mar 02 16:42:14 2002] * Guide *[ANON (35 Bard)] Norisu Charming (Half Elf) ZONE: cshome (USER PID AU7F86Y)
+[Sat Mar 02 16:42:14 2002] * Apprentice Guide *[20 Shadow Knight] Silae (Dark Elf) ZONE: firiona (USER PID FR5RD3M)
+[Sat Mar 02 16:42:14 2002] * Apprentice Guide *[ANON (20 Ranger)] Laral (Wood Elf) ZONE: cshome (USER PID DTFCACT)
+[Sat Mar 02 16:42:14 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Mar 02 16:42:14 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: dreadlands (USER PID CW1ECN5)
+[Sat Mar 02 16:42:14 2002] * Apprentice Guide *[ANON (20 Bard)] Bariton (Half Elf) ZONE: cshome (USER PID DT3QM5P)
+[Sat Mar 02 16:42:14 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID BUUWN74)
+[Sat Mar 02 16:42:14 2002] There are 7 players in EverQuest.
+[Sat Mar 02 16:42:32 2002] Laral says, 'ok will do that'
+[Sat Mar 02 16:42:38 2002] Bariton cheers at Laral.
+[Sat Mar 02 16:42:39 2002] You GMSAY, 'Norisu Charmin assulted me last night in DL with my real rogue'
+[Sat Mar 02 16:42:45 2002] You GMSAY, 'I promptly crashed'
+[Sat Mar 02 16:42:50 2002] Bariton says, 'Told ya it was "escalate"  ;)'
+[Sat Mar 02 16:42:53 2002] Norisu Charming GMSAYS, 'am i allowed to put a green name on?'
+[Sat Mar 02 16:42:59 2002] Norisu Charming GMSAYS, 'or stay role play?'
+[Sat Mar 02 16:43:03 2002] You GMSAY, 'stay role play'
+[Sat Mar 02 16:43:04 2002]  (Jaxan`s Jig o` Vigor)
+[Sat Mar 02 16:43:10 2002] Laral says, 'btw i am seeing gmsays and petitions now'
+[Sat Mar 02 16:43:10 2002] Kilm says, 'You see alot of item reimbursals.. so its good to have that stuff handy '
+[Sat Mar 02 16:43:15 2002]  (Selo`s Accelerando)
+[Sat Mar 02 16:43:17 2002] Kilm says, 'woot '
+[Sat Mar 02 16:43:20 2002] Kilm says, 'coolness'
+[Sat Mar 02 16:43:34 2002] Kilm says, 'Bioth can see it ?'
+[Sat Mar 02 16:43:36 2002] Laral says, 'since i relogged'
+[Sat Mar 02 16:43:37 2002] Bariton says, 'Not I, as of yet.'
+[Sat Mar 02 16:43:43 2002] Norisu Charming GMSAYS, 'Zone'
+[Sat Mar 02 16:43:44 2002] Silae GMSAYS, 'I think I'm gonna log for awhile..  talk to y'all later :)'
+[Sat Mar 02 16:43:50 2002] Norisu Charming GMSAYS, 'nm on that zone lol'
+[Sat Mar 02 16:43:52 2002] Kilm says, 'Bariton, why lets zone you and bring you back in '
+[Sat Mar 02 16:43:54 2002] Norisu Charming GMSAYS, 'night silae'
+[Sat Mar 02 16:43:59 2002] Lirus GMSAYS, 'ok silae'
+[Sat Mar 02 16:44:02 2002] Lirus GMSAYS, 'have a good one'
+[Sat Mar 02 16:44:07 2002] Bariton says, 'I'm yours to command.'
+[Sat Mar 02 16:44:11 2002] Silae GMSAYS, '^.^'
+[Sat Mar 02 16:44:27 2002] Kilm says, 'hmm no appie sticks ok '
+[Sat Mar 02 16:44:27 2002] Bariton says, 'When we get back ... let's arm wrassle ;)'
+[Sat Mar 02 16:44:31 2002] Norisu Charming GMSAYS, 'hmm what zone should i go to?'
+[Sat Mar 02 16:44:34 2002] Kilm says, 'one second '
+[Sat Mar 02 16:44:46 2002] Bariton says, 'Shall I camp and return?'
+[Sat Mar 02 16:44:50 2002] Laral says, 'brb going to get more paper for notes :-)'
+[Sat Mar 02 16:44:58 2002] Kilm says, 'yes that would be best ... '
+[Sat Mar 02 16:45:19 2002] Bariton says, 'I'll be back.'
+[Sat Mar 02 16:45:24 2002] Kilm says, 'okies'
+[Sat Mar 02 16:45:53 2002] Kilm says, 'Hail, Norisu Charming'
+[Sat Mar 02 16:46:13 2002] Norisu Charming says, 'You are one lovely looking lady Kilm! Please accept this rose on my behalf!!'
+[Sat Mar 02 16:46:15 2002] Lirus tells the guild, 'welcome back cazza'
+[Sat Mar 02 16:46:17 2002] Norisu Charming says, ';)'
+[Sat Mar 02 16:46:20 2002] Players in EverQuest:
+[Sat Mar 02 16:46:20 2002] ---------------------------
+[Sat Mar 02 16:46:20 2002] * Apprentice Guide *[ANON (20 Bard)] Bariton (Half Elf) ZONE: cshome (USER PID DT3QM5P)
+[Sat Mar 02 16:46:20 2002] * Guide *[55 Blackguard] Cazza (Vah Shir) <Keepers of Dreams> ZONE: dreadlands (USER PID AUUXD1E)
+[Sat Mar 02 16:46:20 2002] * Guide *[ANON (35 Bard)] Norisu Charming (Half Elf) ZONE: cshome (USER PID AU7F86Y)
+[Sat Mar 02 16:46:20 2002] * Apprentice Guide *[ANON (20 Ranger)] Laral (Wood Elf) ZONE: cshome (USER PID DTFCACT)
+[Sat Mar 02 16:46:20 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Mar 02 16:46:20 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: dreadlands (USER PID CW1ECN5)
+[Sat Mar 02 16:46:20 2002] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID BUUWN74)
+[Sat Mar 02 16:46:20 2002] There are 7 players in EverQuest.
+[Sat Mar 02 16:46:23 2002] Kilm says, 'Hi yas Bard :D Sing me a song.. one  that brings good memories and lots of pretty women '
+[Sat Mar 02 16:46:40 2002] Bariton says, 'There we are, Kilm.'
+[Sat Mar 02 16:46:45 2002] You say to your guild, 'she needs a one year and six month medal of service'
+[Sat Mar 02 16:46:48 2002] Kilm GMSAYS, 'Can ya both see this ?'
+[Sat Mar 02 16:46:57 2002] Norisu Charming GMSAYS, 'Zone'
+[Sat Mar 02 16:47:16 2002] Kilm GMSAYS, 'if you see yellw Bariton and Laral...type /pr hi yas '
+[Sat Mar 02 16:47:24 2002] Bariton GMSAYS, 'hi yas'
+[Sat Mar 02 16:47:34 2002] Kilm GMSAYS, 'Welcome to Morell-Thule !'
+[Sat Mar 02 16:47:35 2002] You GMSAY, 'Hi Bariton!'
+[Sat Mar 02 16:47:45 2002] Bariton GMSAYS, 'Why, thanks! ;)'
+[Sat Mar 02 16:47:49 2002] Cazza GMSAYS, 'hail and welcome '
+[Sat Mar 02 16:47:57 2002] Kilm says, 'Laral ?'
+[Sat Mar 02 16:48:04 2002] Cazza GMSAYS, 'zoning home!'
+[Sat Mar 02 16:48:29 2002] Laral GMSAYS, 'Hello and yes I see the yellow'
+[Sat Mar 02 16:48:41 2002] Kilm GMSAYS, 'Welcome to Morell_Thule Laral !'
+[Sat Mar 02 16:48:46 2002] You GMSAY, 'Woot! Welcome, Laral!'
+[Sat Mar 02 16:49:01 2002] Kilm says, 'Ok.. we will continue on the petition que training '
+[Sat Mar 02 16:49:10 2002] Lirus GMSAYS, 'welcome apprentices'
+[Sat Mar 02 16:49:11 2002] Cazza tells the guild, 'oh oh did I give the quest thing to the wrong person?'
+[Sat Mar 02 16:49:19 2002] Lirus tells the guild, 'quartermaster?'
+[Sat Mar 02 16:49:20 2002] You say to your guild, 'quartermaster?'
+[Sat Mar 02 16:49:21 2002] Cazza tells the guild, 'yes'
+[Sat Mar 02 16:49:28 2002] Cazza tells the guild, 'he didnt even say a word'
+[Sat Mar 02 16:49:29 2002] Lirus tells the guild, 'that should be right'
+[Sat Mar 02 16:49:39 2002] Espranza saved.
+[Sat Mar 02 16:49:43 2002] Gailen Sterrelar says 'Isn't there some kind of ordinance against Rogues crawling out from under their rocks?'
+[Sat Mar 02 16:49:50 2002] Cazza tells the guild, 'wow they all hate me '
+[Sat Mar 02 16:49:58 2002] Espranza saved.
+[Sat Mar 02 16:49:59 2002] Cazza says, 'haha I can't get dressed'
+[Sat Mar 02 16:50:06 2002] You say to your guild, 'yup, they hate her'
+[Sat Mar 02 16:50:12 2002] Cazza tells the guild, 'oops '
+[Sat Mar 02 16:50:18 2002] Cazza tells the guild, 'I didnt do it'
+[Sat Mar 02 16:50:49 2002] Al`eik K`vorr says 'Isn't there some kind of ordinance against Rogues crawling out from under their rocks?'
+[Sat Mar 02 16:50:53 2002] Salorin Gladerunner says 'I don't like to speak to Rogues much less sell to them!'
+[Sat Mar 02 16:50:56 2002] Lirus GMSAYS, 'zone'
+[Sat Mar 02 16:51:15 2002] Cazza says, 'wonder if it is because my faction sucks that the quartermaster didnt do a thing?'
+[Sat Mar 02 16:51:46 2002] Quartermaster says 'Congratulations on your promotion, Cazza!  There are many people from whom to buy your new equipment.  Please collect your guide equipment from any of the folks who will speak with you. '
+[Sat Mar 02 16:51:49 2002] The spirit leaves you.
+[Sat Mar 02 16:51:51 2002] Cazza says, 'woot that worked'
+[Sat Mar 02 16:51:52 2002] You cheer at Cazza.
+[Sat Mar 02 16:51:55 2002] Gailen Sterrelar says 'Greetings, Cazza. You look like you could use a Fired Boots of Honor'
+[Sat Mar 02 16:51:57 2002] Lirus cheers at Cazza.
+[Sat Mar 02 16:52:04 2002] Cazza says, 'yaaa I can get clothes too hehe'
+[Sat Mar 02 16:52:05 2002] You feel the spirit of Norrath enter you.
+[Sat Mar 02 16:52:40 2002] Laral says, 'done'
+[Sat Mar 02 16:53:58 2002] Kilm says, 'and finally when done... the resoltion of escalating or deleteing '
+[Sat Mar 02 16:54:18 2002] Quigas McMillan says 'Hello there, Cazza. How about a nice A Stein?'
+[Sat Mar 02 16:54:42 2002] Quigas McMillan says 'Greetings, Cazza. You look like you could use a Helm of Desire'
+[Sat Mar 02 16:54:49 2002] Dorala Kerlian says 'Hi there Cazza, just browsing?  Have you seen the Fiery Robe of Honor I just got in?'
+[Sat Mar 02 16:54:51 2002] You say to your guild, 'I don't think the broom goes with the cat'
+[Sat Mar 02 16:55:43 2002] Kilm says, 'you can press t and you will see the petitioners name comes up for you '
+[Sat Mar 02 16:55:55 2002] Kilm says, 'This is very handy for long names '
+[Sat Mar 02 16:56:06 2002] Bariton says, 'Indeed :)'
+[Sat Mar 02 16:56:10 2002] Kilm says, 'Just remember to press space bar before typing the greeting'
+[Sat Mar 02 16:56:45 2002] Kilm says, 'your can also cycle thru the relies of tell br pressing the r key and cycling thru using the tab key '
+[Sat Mar 02 16:57:04 2002] Kilm says, 'Its possible that two guides may pull the same petition at the same time '
+[Sat Mar 02 16:57:09 2002] Lirus GMSAYS, 'zone'
+[Sat Mar 02 16:57:52 2002] Bariton says, 'Kilm ... buddy ... pal ... That "Your can" sentence didn't make any sense :('
+[Sat Mar 02 16:58:00 2002] Kilm says, 'This is fairly uncommon but if the player tells you soandso is helping me already most likely the petition has been duplicated just verify it over /pr and delete the petition and move on.'
+[Sat Mar 02 16:58:16 2002] Kilm says, 'Sometimes you will get wqhat is called que lock.'
+[Sat Mar 02 16:59:08 2002] Kilm says, 'Two guides will pull the same petition or some other reason it will just say getting the data and stop.... you wont be able to pull any petitions or do anything...you will need to log out to desktop and back in.'
+[Sat Mar 02 16:59:50 2002] Kilm says, 'your can also cycle thru the replies of tell br pressing the r key and cycling thru using the tab key '
+[Sat Mar 02 16:59:56 2002] Kilm says, 'that better Bariton ?:) '
+[Sat Mar 02 17:00:04 2002] Lirus GMSAYS, 'zone'
+[Sat Mar 02 17:00:18 2002] Bariton says, 'Heheh ... sort of ... Which replies are you talking about?'
+[Sat Mar 02 17:00:33 2002] Espranza saved.
+[Sat Mar 02 17:00:44 2002] Norisu Charming GMSAYS, 'Zone'
+[Sat Mar 02 17:00:56 2002] Kilm says, 'any that you get..sometimes you will get tells while your doing a petition... you can cycle thru.. just press "r" and you can cycle back thru the list witht the tab key '
+[Sat Mar 02 17:01:26 2002] Kilm says, 'ok..you both have petitions correct ?'
+[Sat Mar 02 17:01:30 2002] Bariton says, 'Ahhh .... gotcha ;)'
+[Sat Mar 02 17:01:34 2002] Laral says, 'yes'
+[Sat Mar 02 17:01:39 2002] Bariton says, 'And, yes.'
+[Sat Mar 02 17:01:44 2002] Kilm says, 'Ok..lets walk you thru them ...'
+[Sat Mar 02 17:01:52 2002] Lirus GMSAYS, 'semi afk going to raid first aid cabinet for aspirin'
+[Sat Mar 02 17:01:57 2002] Kilm says, 'Please tell us what your petitioners are saying '
+[Sat Mar 02 17:02:10 2002] Norisu Charming grins evilly at Cazza.
+[Sat Mar 02 17:02:15 2002] Norisu Charming says, 'Lookin good Cazza'
+[Sat Mar 02 17:02:25 2002] Cazza bows before Norisu Charming.
+[Sat Mar 02 17:02:29 2002]  (Selo`s Accelerando)
+[Sat Mar 02 17:02:36 2002] Bariton says, '"i believe we were trained upon by Gervais in ME"'
+[Sat Mar 02 17:02:41 2002] Kilm tells the guild, 'who is Norisu Charming ?'
+[Sat Mar 02 17:02:47 2002] Cazza tells the guild, 'I don't know heh'
+[Sat Mar 02 17:03:01 2002] You say to your guild, 'NDCS character'
+[Sat Mar 02 17:03:03 2002] Kilm says, 'okies how are you going to handle that ?'
+[Sat Mar 02 17:03:04 2002] Laral says, 'corpse is saying that resurrection will expire in 159 odd hours'
+[Sat Mar 02 17:03:04 2002] Espranza saved.
+[Sat Mar 02 17:03:12 2002] Norisu Charming cheers.
+[Sat Mar 02 17:03:27 2002] Norisu Charming GMSAYS, 'ok all camping for the night :)'
+[Sat Mar 02 17:03:30 2002] Norisu Charming GMSAYS, 'nighters'
+[Sat Mar 02 17:03:34 2002] Cazza GMSAYS, 'good night Norisu'
+[Sat Mar 02 17:03:35 2002] Bariton says, 'Kilm:  "Escalate" ;)'
+[Sat Mar 02 17:03:42 2002] Kilm GMSAYS, 'good night '
+[Sat Mar 02 17:03:50 2002] Kilm says, 'perfect.. to what color ?'
+[Sat Mar 02 17:04:15 2002] Bariton says, 'Good question ... I think red, but we never talked about "yellow" .. or if we did, I wasn't paying attention :('
+[Sat Mar 02 17:04:26 2002] Kilm says, 'its yellow '
+[Sat Mar 02 17:04:42 2002] Kilm says, 'and all yellows petitions are things that require a guide plus to investigate '
+[Sat Mar 02 17:04:58 2002] Kilm says, 'those items are training, exploiuts, harrassment and such '
+[Sat Mar 02 17:05:07 2002] Bariton makes a note.
+[Sat Mar 02 17:05:50 2002] Kilm says, 'however, you will announce over /pr that your escalating the petition for a guide and no contact has been made'
+[Sat Mar 02 17:06:05 2002] Kilm says, 'So lets have you do that '
+[Sat Mar 02 17:06:23 2002] Bariton says, 'Very well ... announce before escalating, correct? ;)'
+[Sat Mar 02 17:06:30 2002] Kilm GMSAYS, 'yes please'
+[Sat Mar 02 17:06:57 2002] Kilm says, 'Ok Laral, how do you plan on handling your corpse with a high ressurection number ?'
+[Sat Mar 02 17:07:14 2002] Bariton GMSAYS, 'Escalating <yellow> petition from: Vercingetorix RE: Training issue'
+[Sat Mar 02 17:07:18 2002] Cazza swishes her tail and licks her paws contentedly.
+[Sat Mar 02 17:07:25 2002] Bariton says, 'Correct?'
+[Sat Mar 02 17:07:34 2002] Kilm says, 'excellent :) '
+[Sat Mar 02 17:07:39 2002] Bariton GMSAYS, '(no contact made)'
+[Sat Mar 02 17:07:50 2002] Laral says, 'Getting more information about what zone and where they died and then  logging issue as a bug'
+[Sat Mar 02 17:07:59 2002] Cazza says, 'nicely handled Bariton'
+[Sat Mar 02 17:08:01 2002] Kilm says, 'Just press the escalate button once.. it will change to yellow and press check in '
+[Sat Mar 02 17:08:26 2002] Kilm says, 'Just press the escalate button once.. it will change to yellow and press check in '
+[Sat Mar 02 17:09:24 2002] Kilm says, 'hehehe '
+[Sat Mar 02 17:10:59 2002] Kilm says, 'Okies... you can also suggest them to log out and back in  and see if that helps it...please anounce your petition over /pr and then your intent and resolution '
+[Sat Mar 02 17:12:50 2002] Bariton says, 'Ohm yes, let's :P'
+[Sat Mar 02 17:13:25 2002] Kilm says, 'hehehe they seem endless don't they.. just get one done and theres another to replace it :) '
+[Sat Mar 02 17:13:40 2002] Espranza saved.
+[Sat Mar 02 17:13:50 2002] Cazza says, 'you are both doing fine though'
+[Sat Mar 02 17:14:08 2002] Kilm says, 'Woot '
+[Sat Mar 02 17:14:34 2002] Bariton says, 'This sounds staged ... ;)'
+[Sat Mar 02 17:14:41 2002] Kilm says, 'Whats the solution Bariton ?:) '
+[Sat Mar 02 17:14:51 2002] Bariton says, 'Um, Laral?  heheh'
+[Sat Mar 02 17:14:56 2002] Laral GMSAYS, 'Orientalbeast is having a problem with resurection time being 159 hours on a corpse.  I plan to contact the person and get more information about the bug.'
+[Sat Mar 02 17:15:39 2002] Kilm says, 'Go ahead and contact Laral  and get the information you need '
+[Sat Mar 02 17:15:39 2002] Lirus GMSAYS, 'semi afk doing a walkout'
+[Sat Mar 02 17:15:55 2002] Kilm GMSAYS, '*tackle hugs Lirus while she is away* '
+[Sat Mar 02 17:17:11 2002] Kilm says, 'and escalation ?'
+[Sat Mar 02 17:17:16 2002] Cazza says, 'I know this may sound tedious but we really want to make sure you know what you need to do, even if you think you do, sometimes things come up)'
+[Sat Mar 02 17:17:22 2002] You GMSAY, '<note> Cazza the dr00d is now Cazza the Kitty Rogue!'
+[Sat Mar 02 17:17:35 2002] Cazza GMSAYS, 'isn't it purrrrfect?'
+[Sat Mar 02 17:17:37 2002] Bariton says, 'Oh, no, Cazza.  Not at all.  Just trying to be comfortable with it ;)'
+[Sat Mar 02 17:18:11 2002] Bariton says, 'And what was a "red" escalation for, again?  Will write it down this time, promise :)'
+[Sat Mar 02 17:18:35 2002] Cazza says, 'those are for issues only a GM or senior can handle hun such as name changes'
+[Sat Mar 02 17:18:46 2002] Kilm says, 'Red escalations are for GM's and seniors only... these are petitions for name changes and item reimbursals and character walkouts and such '
+[Sat Mar 02 17:19:04 2002] Bariton says, 'Groovy ... what's a "character walkout?"'
+[Sat Mar 02 17:19:37 2002] Kilm says, 'character walkout ..someone who doesn't have SOL and got ported to Nexus.. needs to have character moved '
+[Sat Mar 02 17:19:44 2002] Bariton says, 'Gotcha.'
+[Sat Mar 02 17:20:00 2002] Kilm says, 'Hows your coming Laral ?'
+[Sat Mar 02 17:20:00 2002] Bariton says, 'And the answer was "red", heheh.'
+[Sat Mar 02 17:20:08 2002] Laral says, 'ok got some information, time and zone.  And other information needed? '
+[Sat Mar 02 17:20:09 2002] You say, 'May I interrupt a moment?'
+[Sat Mar 02 17:20:12 2002] Kilm )) 
+[Sat Mar 02 17:20:17 2002] Kilm says, 'sure thing '
+[Sat Mar 02 17:20:23 2002] Bariton is all ears.
+[Sat Mar 02 17:20:25 2002] You say, 'I have to go put some food into my son...'
+[Sat Mar 02 17:20:32 2002] You say, 'so I'll have to be logging now.'
+[Sat Mar 02 17:20:35 2002] You say, 'BUT...!'
+[Sat Mar 02 17:20:58 2002] You say, 'I just want to welcome you again to Morell-Thule! Please feel free to guide as often as you like'
+[Sat Mar 02 17:21:14 2002] Laral says, 'nice meeting you'
+[Sat Mar 02 17:21:24 2002] You say, 'And make sure your mentors take you everywhere they go! Pester them, they like it'
+[Sat Mar 02 17:21:33 2002] Kilm says, 'Hows your petition coming Laral ?'
+[Sat Mar 02 17:21:36 2002] Lirus GMSAYS, 'zone'
+[Sat Mar 02 17:21:36 2002] Cazza says, 'take care espranza I will have to go in a wee bit too for a wee bit anyway, supper always gets in the way heh'
+[Sat Mar 02 17:21:40 2002] Laral says, 'ok got some information, time and zone.  And other information needed? '
+[Sat Mar 02 17:21:42 2002] Bariton chuckles at Espranza.
+[Sat Mar 02 17:21:49 2002] You say, 'If you want to guide and nobody is on, send me an ICQ. I can usually get on.'
+[Sat Mar 02 17:21:50 2002] You no longer have a target.
+[Sat Mar 02 17:22:10 2002] You say, 'I'll be seeing you all online soon again.'
+[Sat Mar 02 17:22:22 2002] You say, 'Grats on your radical species change, Cazza )'
+[Sat Mar 02 17:22:29 2002] Kilm says, 'Just get as much info as you can and include it in the dsr if logging out and back in didn't help them any '
+[Sat Mar 02 17:22:29 2002] Cazza says, 'thanks)'
+[Sat Mar 02 17:22:36 2002] Bariton says, 'Surely, Espranza.  :'
+[Sat Mar 02 17:22:40 2002] You say, 'I'd do the same, but the Halfling Rights Commission would have my toes in a noose.'
+[Sat Mar 02 17:22:40 2002] Bariton says, ':)'
+[Sat Mar 02 17:22:48 2002] You GMSAY, 'laters all!'
+[Sat Mar 02 17:22:48 2002] Cazza says, 'hahaha'
+[Sat Mar 02 17:22:51 2002] It will take you about 30 seconds to prepare your camp.
+[Sat Mar 02 17:22:53 2002] Cazza GMSAYS, 'night Espranza'
+[Sat Mar 02 17:22:55 2002] Kilm GMSAYS, 'be safe Esp :D '
+[Sat Mar 02 17:22:55 2002] It will take about 25 more seconds to prepare your camp.
+[Sat Mar 02 17:23:00 2002] It will take about 20 more seconds to prepare your camp.
+[Sat Mar 02 17:23:06 2002] It will take about 15 more seconds to prepare your camp.
+[Sat Mar 02 17:23:11 2002] It will take about 10 more seconds to prepare your camp.
+[Sat Mar 02 17:23:16 2002] It will take about 5 more seconds to prepare your camp.

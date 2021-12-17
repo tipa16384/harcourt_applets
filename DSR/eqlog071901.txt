@@ -1,0 +1,636 @@
+[Thu Jul 19 00:55:28 2001] Welcome to EverQuest!
+[Thu Jul 19 00:55:28 2001] You have entered Sunset Home.
+[Thu Jul 19 00:55:28 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Congratulations to Khain, of Relentless Ascension, for winning the Cleric Best of the Best Tournament! He will be advancing on to Test Server to compete a bit later! Way to go Khain!
+[Thu Jul 19 00:55:29 2001] GUILD MOTD: Mersi - Please make sure you are scheduled! we wiped it =)
+[Thu Jul 19 00:55:31 2001] The spirit leaves you.
+[Thu Jul 19 00:55:34 2001] Players in EverQuest:
+[Thu Jul 19 00:55:34 2001] ---------------------------
+[Thu Jul 19 00:55:34 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: greatdivide (USER PID DUGA6TS)
+[Thu Jul 19 00:55:34 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu Jul 19 00:55:34 2001] There are 2 players in EverQuest.
+[Thu Jul 19 00:55:39 2001] You say to your guild, 'hiya Jaxus!'
+[Thu Jul 19 00:55:41 2001] You feel the spirit of Norrath enter you.
+[Thu Jul 19 00:55:45 2001] Jaxus tells the guild, 'Hi =)'
+[Thu Jul 19 00:55:54 2001] You say to your guild, 'wow, pretty busy!!! '
+[Thu Jul 19 00:55:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 19 00:55:58 2001] USER TEXT: i reported jonwin for trying to get me killed by an npc   he later apologised and i forgave him so just ignore it
+[Thu Jul 19 00:55:59 2001] Players in EverQuest:
+[Thu Jul 19 00:55:59 2001] ---------------------------
+[Thu Jul 19 00:55:59 2001] [27 Shadow Knight] Viger (Troll) ZONE: highkeep (USER PID FPB1CKE)
+[Thu Jul 19 00:55:59 2001] There is 1 player in EverQuest.
+[Thu Jul 19 00:56:07 2001] Jaxus tells the guild, 'Yep hehe'
+[Thu Jul 19 00:56:18 2001] You told Viger, 'Hail, Viger! Guide Espranza here. Okay, forgotten :) be well!'
+[Thu Jul 19 00:56:22 2001] DELETING THIS PETITION
+[Thu Jul 19 00:56:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 19 00:56:24 2001] USER TEXT: I need a bit of tech help. My button interface (like "main", "combat", and my macros) isn't responding...my mouse still works but nothing happens when I click them.
+[Thu Jul 19 00:56:24 2001] Players in EverQuest:
+[Thu Jul 19 00:56:24 2001] ---------------------------
+[Thu Jul 19 00:56:24 2001] [4 Cleric] Gorash (Dwarf) ZONE: misty (USER PID EUFULX1)
+[Thu Jul 19 00:56:24 2001] There is 1 player in EverQuest.
+[Thu Jul 19 00:56:27 2001] Viger tells you, 'hehe   ok'
+[Thu Jul 19 00:57:14 2001] You told Gorash, 'Hail, Gorash! Guide Espranza here. Have you tried zoning, or relogging?'
+[Thu Jul 19 00:57:32 2001] Players in EverQuest:
+[Thu Jul 19 00:57:32 2001] ---------------------------
+[Thu Jul 19 00:57:32 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: greatdivide (USER PID DUGA6TS)
+[Thu Jul 19 00:57:32 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu Jul 19 00:57:32 2001] There are 2 players in EverQuest.
+[Thu Jul 19 00:57:50 2001] You say to your guild, 'got cobalt gauntlets tonight, my first piece'
+[Thu Jul 19 00:57:56 2001] You say to your guild, 'still excited'
+[Thu Jul 19 00:58:15 2001] Gorash tells you, 'I couldn't click anythign at all so i couldn't try that but after about 5 minutes it just fixed itself it seems'
+[Thu Jul 19 00:58:27 2001] Jaxus tells the guild, 'Hehe thats cool, and worth quite a bit.'
+[Thu Jul 19 00:58:28 2001] You told Gorash, 'were you lagging?'
+[Thu Jul 19 00:58:35 2001] You say to your guild, 'I won't sell :)'
+[Thu Jul 19 00:58:43 2001] You say to your guild, 'FINALLY rid of my crafted gaunts'
+[Thu Jul 19 00:58:48 2001] Gorash tells you, 'not to my knowledge...ping seems normal'
+[Thu Jul 19 00:58:54 2001] Jaxus tells the guild, '*grin*'
+[Thu Jul 19 00:59:08 2001] Gorash tells you, 'and I could still speak with my group'
+[Thu Jul 19 00:59:08 2001] You say to your guild, 'well, maybe if I get indi....'
+[Thu Jul 19 00:59:24 2001] You told Gorash, 'so it was just the buttons then?'
+[Thu Jul 19 00:59:55 2001] Gorash tells you, 'yup...it was very strange...I didn't do anything to fix it either...started working again on it's own'
+[Thu Jul 19 01:00:12 2001] Gorash tells you, 'should I make a bug report?'
+[Thu Jul 19 01:00:13 2001] You GMSAY, '<note bug> User's hot buttons and spell gems couldn't be clicked upon for about five minutes, then started working again. No lag to speak of.'
+[Thu Jul 19 01:00:43 2001] You told Gorash, 'I just made one - but it wouldn't hurt for you to.'
+[Thu Jul 19 01:00:57 2001] DELETING THIS PETITION
+[Thu Jul 19 01:00:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 19 01:00:59 2001] USER TEXT: Hi ineed help my Lvl 20 Mage got LD while playin in Oasis and i cant log with him anymore can log with othrs characters please help )
+[Thu Jul 19 01:00:59 2001] Players in EverQuest:
+[Thu Jul 19 01:00:59 2001] ---------------------------
+[Thu Jul 19 01:00:59 2001] There are no players in EverQuest that match those who filters.
+[Thu Jul 19 01:01:05 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu Jul 19 01:01:06 2001] CHECKING IN
+[Thu Jul 19 01:01:08 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 19 01:01:09 2001] USER TEXT: vendor out of place in ill omen, neg2526 neg2939 approx loc.
+[Thu Jul 19 01:01:09 2001] Players in EverQuest:
+[Thu Jul 19 01:01:09 2001] ---------------------------
+[Thu Jul 19 01:01:09 2001] There are no players in EverQuest that match those who filters.
+[Thu Jul 19 01:01:20 2001] Gorash tells you, 'ok then...I'll tell ya if it happens again...been working fine since then'
+[Thu Jul 19 01:01:21 2001] You GMSAY, '<note badname> Imwith DV6SS68'
+[Thu Jul 19 01:01:38 2001] You told Gorash, 'okay, thanks! any information you can think of would help - I hate bugs like that!'
+[Thu Jul 19 01:01:56 2001] Players in EverQuest:
+[Thu Jul 19 01:01:56 2001] ---------------------------
+[Thu Jul 19 01:01:56 2001] There are no players in EverQuest that match those who filters.
+[Thu Jul 19 01:02:02 2001] You GMSAY, 'zone'
+[Thu Jul 19 01:02:09 2001] LOADING, PLEASE WAIT...
+[Thu Jul 19 01:02:50 2001] You have entered Lake of Ill Omen.
+[Thu Jul 19 01:02:55 2001] Extensive auctions, 'WTB Crafted Arms!!'
+[Thu Jul 19 01:02:59 2001] Rightous auctions, 'WTB  White bear pelt cloak'
+[Thu Jul 19 01:03:03 2001] Roye says out of character, 'LD night on EQ..'
+[Thu Jul 19 01:03:05 2001] Searching for nubs_blackgranite00.
+[Thu Jul 19 01:03:05 2001] Player is in zone lakeofillomen at x = 1239 y = -4411 z = 223.
+[Thu Jul 19 01:03:08 2001] Teleporting to Nubs_Blackgranite00 (1239.00, -4410.00, 223.70).
+[Thu Jul 19 01:03:17 2001] Nubs Blackgranite says 'Time to die! 
+[Thu Jul 19 01:03:17 2001] Nubs Blackgranite feels a bit dispelled.
+[Thu Jul 19 01:03:20 2001] Nubs Blackgranite punches YOU for 64 points of damage.
+[Thu Jul 19 01:03:27 2001] You feel the spirit of Norrath enter you.
+[Thu Jul 19 01:03:28 2001] Your feet leave the ground.
+[Thu Jul 19 01:03:35 2001] Nubs Blackgranite punches YOU for 31 points of damage.
+[Thu Jul 19 01:05:59 2001] Nubs Blackgranite punches YOU for 19 points of damage.
+[Thu Jul 19 01:05:59 2001] Nubs Blackgranite punches YOU for 52 points of damage.
+[Thu Jul 19 01:06:02 2001] Nubs Blackgranite punches YOU for 52 points of damage.
+[Thu Jul 19 01:06:20 2001] Gylgesh says out of character, 'BB, Ian! )'
+[Thu Jul 19 01:06:27 2001] Bloodbear says out of character, 'heya :)'
+[Thu Jul 19 01:06:28 2001] Iannyil says out of character, 'GG'
+[Thu Jul 19 01:06:35 2001] Gylgesh says out of character, 'gimme your loc )'
+[Thu Jul 19 01:06:47 2001] Iannyil says out of character, 'neg 900 neg 900'
+[Thu Jul 19 01:06:55 2001] Rbones shouts, 'send tells if a res is needed'
+[Thu Jul 19 01:06:55 2001] Gylgesh says out of character, 'hehe brt )'
+[Thu Jul 19 01:06:55 2001] Iannyil says out of character, 'use DMF'
+[Thu Jul 19 01:07:09 2001] Rbones says, 'how can I help you?'
+[Thu Jul 19 01:07:11 2001] Professor Akabao begins to cast a spell. (Manaskin)
+[Thu Jul 19 01:07:16 2001] Professor Akabao's skin gleams with an incandescent glow.
+[Thu Jul 19 01:07:21 2001] You have become better at Riposte! (168)
+[Thu Jul 19 01:07:21 2001] Nubs Blackgranite punches YOU for 64 points of damage.
+[Thu Jul 19 01:07:23 2001] You can't use that command right now...
+[Thu Jul 19 01:07:23 2001] Nubs Blackgranite punches YOU for 72 points of damage.
+[Thu Jul 19 01:07:23 2001] You can't use that command right now...
+[Thu Jul 19 01:07:23 2001] Nubs Blackgranite blinks a few times.
+[Thu Jul 19 01:07:24 2001] You can't use that command right now...
+[Thu Jul 19 01:07:24 2001] Nubs Blackgranite blinks a few times.
+[Thu Jul 19 01:07:24 2001] You can't use that command right now...
+[Thu Jul 19 01:07:24 2001] Nubs Blackgranite blinks a few times.
+[Thu Jul 19 01:07:24 2001] You can't use that command right now...
+[Thu Jul 19 01:07:25 2001] Nubs Blackgranite blinks a few times.
+[Thu Jul 19 01:07:25 2001] You can't use that command right now...
+[Thu Jul 19 01:07:25 2001] Nubs Blackgranite blinks a few times.
+[Thu Jul 19 01:07:25 2001] Nubs Blackgranite blinks a few times.
+[Thu Jul 19 01:07:25 2001] You can't use that command right now...
+[Thu Jul 19 01:07:25 2001] Nubs Blackgranite blinks a few times.
+[Thu Jul 19 01:07:26 2001] Nubs Blackgranite blinks a few times.
+[Thu Jul 19 01:07:32 2001] You no longer have a target.
+[Thu Jul 19 01:07:33 2001] You no longer have a target.
+[Thu Jul 19 01:07:33 2001] You no longer have a target.
+[Thu Jul 19 01:07:34 2001] Nubs Blackgranite says 'Hello there Espranza, how about a nice Words of the Sentient (Azia)?'
+[Thu Jul 19 01:07:38 2001] DELETING THIS PETITION
+[Thu Jul 19 01:07:39 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 19 01:07:40 2001] Espranza saved.
+[Thu Jul 19 01:07:40 2001] USER TEXT: i need help with a corpse, i just arrived in zone this afternoon and was speeding across it with sow and camo when it appeared that i started to levitate and looked like i was running forward then backward, when i stopped my camo died and i died
+[Thu Jul 19 01:07:40 2001] Players in EverQuest:
+[Thu Jul 19 01:07:40 2001] ---------------------------
+[Thu Jul 19 01:07:40 2001] [17 Druid] Alexxip (Halfling) ZONE: firiona (USER PID FVZVTUV)
+[Thu Jul 19 01:07:40 2001] There is 1 player in EverQuest.
+[Thu Jul 19 01:07:42 2001] Nubs Blackgranite says 'Greetings Cottsay you look like you could use a Words of Absorption'
+[Thu Jul 19 01:07:43 2001] Kurchek begins to cast a spell. (Regeneration)
+[Thu Jul 19 01:07:43 2001] Rbones says, 'ok..anythime'
+[Thu Jul 19 01:07:47 2001] You no longer have a target.
+[Thu Jul 19 01:07:53 2001] Searching zones for corpse of that name....
+[Thu Jul 19 01:07:53 2001] Corpse: Alexxip's corpse1 in zone: firiona
+[Thu Jul 19 01:08:10 2001] Nemeseis shouts, 'THANK YOU for the Regen'
+[Thu Jul 19 01:08:20 2001] You GMSAY, 'zone'
+[Thu Jul 19 01:08:24 2001] LOADING, PLEASE WAIT...
+[Thu Jul 19 01:08:59 2001] You have entered Firiona Vie.
+[Thu Jul 19 01:09:12 2001] Teleporting to alexxip's corpse0.
+[Thu Jul 19 01:09:22 2001] Teleporting to alexxip's corpse1.
+[Thu Jul 19 01:09:39 2001] Teleporting to alexxip.
+[Thu Jul 19 01:09:55 2001] You wave at Alexxip.
+[Thu Jul 19 01:10:11 2001] You told Alexxip, 'Hail, Alexxip! Guide Espranza here... '
+[Thu Jul 19 01:10:34 2001] You told Alexxip, 'I looked at both of your corpses, both seem retrievable. Were you lagging when these things happened to you?'
+[Thu Jul 19 01:10:34 2001] Alexxip tells you, 'hello  can you help me'
+[Thu Jul 19 01:10:43 2001] You bow before Alexxip.
+[Thu Jul 19 01:10:51 2001] You can no longer levitate.
+[Thu Jul 19 01:11:00 2001] Alexxip says, 'a froglok tsu shaman, i was near some leeches to'
+[Thu Jul 19 01:11:16 2001] You say, 'yes, you died near where they hang out'
+[Thu Jul 19 01:11:30 2001] You told Alexxip, 'unfortunately I cannot help with corpse retrieval.'
+[Thu Jul 19 01:11:35 2001] You apologize to Alexxip whole-heartedly.
+[Thu Jul 19 01:11:38 2001] Alexxip says, 'yes'
+[Thu Jul 19 01:11:46 2001] Alexxip says, 'can you give a loc'
+[Thu Jul 19 01:12:05 2001] You told Alexxip, 'nay, but they seem to be near where giants stand'
+[Thu Jul 19 01:12:13 2001] You told Alexxip, 'where were you headed?'
+[Thu Jul 19 01:12:26 2001] USER TEXT: i need help with a corpse, i just arrived in zone this afternoon and was speeding across it with sow and camo when it appeared that i started to levitate and looked like i was running forward then backward, when i stopped my camo died and i died
+[Thu Jul 19 01:12:32 2001] Players on EverQuest:
+[Thu Jul 19 01:12:32 2001] ---------------------------
+[Thu Jul 19 01:12:32 2001] There are no players in Firiona Vie that match those who filters.
+[Thu Jul 19 01:12:35 2001] Players in EverQuest:
+[Thu Jul 19 01:12:35 2001] ---------------------------
+[Thu Jul 19 01:12:35 2001] [14 Bard] Addisan (Half Elf) <Random Acts> ZONE: sro (USER PID CPXQKCM)
+[Thu Jul 19 01:12:35 2001] [ANON (3 Bard)] Berkin (Half Elf) ZONE: qeynos2 (USER PID BZUWQ9R)
+[Thu Jul 19 01:12:35 2001] [56 Troubadour] Fantas (Wood Elf) <Power of Peace> ZONE: hateplane (USER PID DUJRRE7)
+[Thu Jul 19 01:12:35 2001] [9 Bard] Danien (Half Elf) <Revered Souls> ZONE: everfrost (USER PID BVC3BG7)
+[Thu Jul 19 01:12:35 2001] [17 Bard] Haer (Half Elf) ZONE: commons (USER PID HWHXP2K)
+[Thu Jul 19 01:12:35 2001] [ANON (11 Bard)] Hianna (Half Elf) ZONE: crushbone (USER PID BUGNLZC)
+[Thu Jul 19 01:12:35 2001] [44 Bard] Lyrique (Half Elf) ZONE: soldungb (USER PID ANWSB6Q)
+[Thu Jul 19 01:12:35 2001] [6 Bard] Filipi (Human) ZONE: blackburrow (USER PID GXURJTR)
+[Thu Jul 19 01:12:35 2001] [17 Bard] Gwenea (Wood Elf) <Honorbound Elite> ZONE: crushbone (USER PID DWJG76N)
+[Thu Jul 19 01:12:35 2001] [18 Bard] Semena (Half Elf) ZONE: commons (USER PID HTT4430)
+[Thu Jul 19 01:12:35 2001] [18 Bard] Tell (Human) ZONE: lavastorm (USER PID EV8PW41)
+[Thu Jul 19 01:12:35 2001] [16 Bard] Samanne (Human) ZONE: qeytoqrg (USER PID FZNLWVL)
+[Thu Jul 19 01:12:35 2001] [7 Bard] Jfor (Wood Elf) ZONE: crushbone (USER PID HUBZ00E)
+[Thu Jul 19 01:12:35 2001] [20 Bard] Kulluan (Half Elf) ZONE: southkarana (USER PID HPDV4WU)
+[Thu Jul 19 01:12:35 2001] [44 Bard] Nardi (Half Elf) <Royal Jesters> ZONE: lavastorm (USER PID BUWKA9B)
+[Thu Jul 19 01:12:35 2001] [ANON (10 Bard)] Musicalys (Half Elf) ZONE: commons (USER PID BUFHE47)
+[Thu Jul 19 01:12:35 2001] [ANON (29 Bard)] Rinilai (Half Elf) ZONE: lakeofillomen (USER PID BY8PULN)
+[Thu Jul 19 01:12:35 2001] [12 Bard] Agro (Half Elf) ZONE: blackburrow (USER PID GP6FSWU)
+[Thu Jul 19 01:12:35 2001] [22 Bard] Bofa (Half Elf) ZONE: southkarana (USER PID CYYFDGK)
+[Thu Jul 19 01:12:35 2001] [56 Troubadour] Chanson (Wood Elf) <Heroic Few> ZONE: skyshrine (USER PID BRL6MKN)
+[Thu Jul 19 01:12:35 2001] [55 Troubadour] Minam (Half Elf) <Power of Peace> ZONE: sro (USER PID HPNJETU)
+[Thu Jul 19 01:12:35 2001] [54 Minstrel] Lexicus (Half Elf) <Sphere of Legends> ZONE: karnor (USER PID EVQQSRE)
+[Thu Jul 19 01:12:35 2001] [21 Bard] Tufnel (Half Elf) ZONE: overthere (USER PID CM8LVNE)
+[Thu Jul 19 01:12:35 2001] [57 Troubadour] Ridley (Half Elf) <Triune> ZONE: sebilis (USER PID CQAEF09)
+[Thu Jul 19 01:12:35 2001] [ANON (13 Bard)] Nemeseis (Half Elf) ZONE: lakeofillomen (USER PID CWFJ2WN)
+[Thu Jul 19 01:12:36 2001] [52 Minstrel] Kailypso (Half Elf) <Mercurians of Norrath> ZONE: karnor (USER PID CPLTJ9C)
+[Thu Jul 19 01:12:36 2001] [30 Bard] Sanoor (Half Elf) <Clan StarDragon> ZONE: rathemtn (USER PID BWYLDN8)
+[Thu Jul 19 01:12:36 2001] [56 Troubadour] Myztro (Half Elf) <Tolkien's Revenge> ZONE: velketor (USER PID CX1KRLW)
+[Thu Jul 19 01:12:36 2001] [11 Bard] Bebopp (Wood Elf) ZONE: gfaydark (USER PID CVEA001)
+[Thu Jul 19 01:12:36 2001] [9 Bard] Thasound (Half Elf) ZONE: ecommons (USER PID EX42CQ3)
+[Thu Jul 19 01:12:36 2001] [ANON (17 Bard)] Kindachi (Half Elf) ZONE: oasis (USER PID GZCPCNQ)
+[Thu Jul 19 01:12:36 2001] [56 Troubadour] Jordell (Half Elf) <Triune> ZONE: sebilis (USER PID HRBENAP)
+[Thu Jul 19 01:12:36 2001] [52 Minstrel] Kungtari (Half Elf) <Royal Jesters> ZONE: velketor (USER PID BZG9MJG)
+[Thu Jul 19 01:12:36 2001] There are 33 players in EverQuest.
+[Thu Jul 19 01:13:02 2001] Alexxip tells you, 'to lake of ill but i started to levitate or something and i t looked like i was running forward and backward and i was trying to figure that out'
+[Thu Jul 19 01:13:20 2001] You told Alexxip, 'your camo and spells almost certainly wore off because certain things out there can see through spells.'
+[Thu Jul 19 01:13:39 2001] Alexxip tells you, 'ok,'
+[Thu Jul 19 01:13:59 2001] You told Alexxip, 'I don't know about the running or levitating though'
+[Thu Jul 19 01:14:41 2001] You told Alexxip, 'I don't know exactly where your bodies are in relation to anything - I just ported straight to them, then straight to you'
+[Thu Jul 19 01:14:56 2001] You told Alexxip, 'but it appears you were lagging out, I think'
+[Thu Jul 19 01:15:06 2001] Waldiwen tells you, 'its canamil, bye )'
+[Thu Jul 19 01:15:06 2001] Alexxip tells you, 'it was weird i had just run under some faeries '
+[Thu Jul 19 01:15:25 2001] You told Waldiwen, 'Bye!'
+[Thu Jul 19 01:15:28 2001] Waldiwen tells you, 'bye'
+[Thu Jul 19 01:15:41 2001] Waldiwen tells you, 'ack train!'
+[Thu Jul 19 01:16:00 2001] Guard Sigryr begins to cast a spell. (Valor)
+[Thu Jul 19 01:16:08 2001] You told Alexxip, 'The best way to find your body would be to find a bard to help you out - or purchase a chipped bone rod from a vendor in town'
+[Thu Jul 19 01:16:19 2001] You told Alexxip, 'Chipped bone rods have three charges of locate corpse'
+[Thu Jul 19 01:16:23 2001] Alexxip says, 'ok'
+[Thu Jul 19 01:16:33 2001] You told Alexxip, 'they will point you straight to the most recent or nearest one'
+[Thu Jul 19 01:16:43 2001] Alexxip tells you, 'thanks'
+[Thu Jul 19 01:16:46 2001] You told Alexxip, 'I always keep one in the bank for just this sort of thing'
+[Thu Jul 19 01:16:50 2001] You told Alexxip, 'good luck!'
+[Thu Jul 19 01:16:57 2001] You told Alexxip, 'let me know when you find your bodies'
+[Thu Jul 19 01:17:08 2001] Alexxip tells you, 'ok'
+[Thu Jul 19 01:17:10 2001] You bow before Alexxip.
+[Thu Jul 19 01:17:12 2001] Alexxip tells you, ''
+[Thu Jul 19 01:17:13 2001] You lower your head and mourn the loss of Alexxip.
+[Thu Jul 19 01:17:18 2001] DELETING THIS PETITION
+[Thu Jul 19 01:17:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 19 01:17:20 2001] USER TEXT: hey i went LD and nothing was on me... i was sitting there  till i exited the screen.. and woke up ded how the hell... can u tell me what killed me or how it killed me?
+[Thu Jul 19 01:17:20 2001] Players in EverQuest:
+[Thu Jul 19 01:17:20 2001] ---------------------------
+[Thu Jul 19 01:17:20 2001] [ANON (15 Rogue)] Envei (Wood Elf) ZONE: oasis (USER PID EP9KF0U)
+[Thu Jul 19 01:17:20 2001] There is 1 player in EverQuest.
+[Thu Jul 19 01:17:24 2001] You wave goodbye to Alexxip.
+[Thu Jul 19 01:17:35 2001] Searching zones for corpse of that name....
+[Thu Jul 19 01:17:40 2001] Searching zones for corpse of that name....
+[Thu Jul 19 01:17:41 2001] Corpse: Envei's corpse0 in zone: oasis
+[Thu Jul 19 01:17:42 2001] Eizen auctions, 'WTS Crystallized Blade 1hs 13/31 Pal Shd 200pp'
+[Thu Jul 19 01:17:43 2001] You GMSAY, 'zone'
+[Thu Jul 19 01:17:46 2001] LOADING, PLEASE WAIT...
+[Thu Jul 19 01:18:12 2001] You have entered Oasis of Marr.
+[Thu Jul 19 01:18:13 2001] Shaemes feels better.
+[Thu Jul 19 01:18:14 2001] Lacely begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:18:16 2001] Shaemes feels better.
+[Thu Jul 19 01:18:17 2001] Talnar begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:18:17 2001] an orc priest begins to cast a spell. (Healing)
+[Thu Jul 19 01:18:18 2001] Woned yells for help from ahead and to the right of you.
+[Thu Jul 19 01:18:19 2001] Shaemes feels better.
+[Thu Jul 19 01:18:20 2001] Woned yells for help from ahead and to the right of you.
+[Thu Jul 19 01:18:20 2001] Lacely begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:18:20 2001] an orc priest begins to cast a spell. (Smite)
+[Thu Jul 19 01:18:22 2001] Woned yells for help from straight ahead of you.
+[Thu Jul 19 01:18:22 2001] Shaemes feels better.
+[Thu Jul 19 01:18:22 2001] Talnar begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:18:24 2001] Shaemes feels better.
+[Thu Jul 19 01:18:24 2001] Shaemes is no longer berserk.
+[Thu Jul 19 01:18:26 2001] Lacely begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:18:28 2001] Shaemes feels better.
+[Thu Jul 19 01:18:31 2001] Lacely begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:18:32 2001] Teleporting to envei's corpse0.
+[Thu Jul 19 01:18:42 2001] USER TEXT: hey i went LD and nothing was on me... i was sitting there  till i exited the screen.. and woke up ded how the hell... can u tell me what killed me or how it killed me?
+[Thu Jul 19 01:19:02 2001] Alexxip tells you, 'i had just bought my level 19 spells so i could port back when the time came'
+[Thu Jul 19 01:19:25 2001] You told Envei, 'Hail, Envei! Guide Espranza here. When you go link dead, your computer no longer has any idea what is happening on the server, so there was no way you could see what got you...'
+[Thu Jul 19 01:19:35 2001] Players in EverQuest:
+[Thu Jul 19 01:19:35 2001] ---------------------------
+[Thu Jul 19 01:19:35 2001] [17 Druid] Alexxip (Halfling) ZONE: firiona (USER PID FVZVTUV)
+[Thu Jul 19 01:19:35 2001] There is 1 player in EverQuest.
+[Thu Jul 19 01:19:45 2001] You told Alexxip, 'did you lose your level?'
+[Thu Jul 19 01:19:54 2001] Envei tells you, 'went ld and my corps is in a totally different spot from where i went ld and i was in a safe spot before i went ld'
+[Thu Jul 19 01:20:09 2001] You told Envei, 'were you walking or running or fighting?'
+[Thu Jul 19 01:20:11 2001] Jaxus GMSAYS, 'zone'
+[Thu Jul 19 01:20:11 2001] Alexxip tells you, 'no but one more death and i will, i lost half my level exp'
+[Thu Jul 19 01:20:20 2001] Envei tells you, 'i was sitting waiting to go ld'
+[Thu Jul 19 01:20:29 2001] Tallanon shouts, 'who was giving away bandages?'
+[Thu Jul 19 01:20:36 2001] Gootee shouts, 'me'
+[Thu Jul 19 01:20:38 2001] You told Alexxip, 'You might want to find a friendly cleric...'
+[Thu Jul 19 01:20:46 2001] Tallanon shouts, 'can u have them?'
+[Thu Jul 19 01:20:50 2001] Norris says out of character, 'I need some Goot...where are you?'
+[Thu Jul 19 01:20:53 2001] Envei tells you, 'and now its not there ...'
+[Thu Jul 19 01:20:58 2001] Gootee shouts, 'I am at docs'
+[Thu Jul 19 01:20:59 2001] You told Envei, 'You sat down when you started going link dead? what were you doing before then?'
+[Thu Jul 19 01:21:00 2001] Kaladr shouts, 'can someone plz sow me?'
+[Thu Jul 19 01:21:06 2001] Envei tells you, 'nothing'
+[Thu Jul 19 01:21:18 2001] Jaxus hugs Espranza.
+[Thu Jul 19 01:21:19 2001] You told Envei, 'where in Oasis were you?'
+[Thu Jul 19 01:21:21 2001] Envei tells you, 'i seen the numbers going down then i sat... sometimes that stops ld'
+[Thu Jul 19 01:21:30 2001] Norris says out of character, 'omw'
+[Thu Jul 19 01:21:33 2001] Envei tells you, 'looking for my bod'
+[Thu Jul 19 01:21:37 2001] You say to your guild, 'fancy meeting you here'
+[Thu Jul 19 01:21:42 2001] Players in EverQuest:
+[Thu Jul 19 01:21:42 2001] ---------------------------
+[Thu Jul 19 01:21:42 2001] [ANON (15 Rogue)] Envei (Wood Elf) ZONE: oasis (USER PID EP9KF0U)
+[Thu Jul 19 01:21:42 2001] There is 1 player in EverQuest.
+[Thu Jul 19 01:21:44 2001] Jaxus tells the guild, '*grin*'
+[Thu Jul 19 01:21:49 2001] Teleporting to envei.
+[Thu Jul 19 01:21:55 2001] Woned says, 'tru'
+[Thu Jul 19 01:21:58 2001] You wave at Envei.
+[Thu Jul 19 01:22:02 2001] Kaladr shouts, 'can someone plz sow me?'
+[Thu Jul 19 01:22:04 2001] Envei says, 'Hail, Espranza'
+[Thu Jul 19 01:22:10 2001] You told Envei, 'it's not far from here - look over that dune'
+[Thu Jul 19 01:22:17 2001] Woned says, 'Hail, Envei'
+[Thu Jul 19 01:22:17 2001] Rack Stonebelly shouts 'Da Barrel Barge will be here soon soon! 
+[Thu Jul 19 01:22:18 2001] Envei tells you, 'thats not where i was tho'
+[Thu Jul 19 01:22:20 2001] Lacely begins to cast a spell. (Spirit of Wolf)
+[Thu Jul 19 01:22:21 2001] Woned says, 'follow me'
+[Thu Jul 19 01:22:24 2001] You told Envei, 'where were you?'
+[Thu Jul 19 01:22:25 2001] Lacely is surrounded by a brief lupine aura.
+[Thu Jul 19 01:22:26 2001] Envei tells you, 'how did i die?'
+[Thu Jul 19 01:22:27 2001] Woned begins to cast a spell. (Locate Corpse)
+[Thu Jul 19 01:22:29 2001] Envei tells you, 'over here'
+[Thu Jul 19 01:22:31 2001] You told Envei, 'I don't know'
+[Thu Jul 19 01:22:42 2001] Envei tells you, 'grpd here'
+[Thu Jul 19 01:22:52 2001] Envei tells you, 'i sat here'
+[Thu Jul 19 01:22:55 2001] Kurts tells you, 'ack i went LD i am in the water i am drown.. blurp// gurgle'
+[Thu Jul 19 01:23:04 2001] You told Kurts, 'swim up!!!'
+[Thu Jul 19 01:23:09 2001] Players in EverQuest:
+[Thu Jul 19 01:23:09 2001] ---------------------------
+[Thu Jul 19 01:23:09 2001] [ANON (55 Templar)] Kurts (Halfling) ZONE: iceclad (USER PID FY8UB47)
+[Thu Jul 19 01:23:09 2001] There is 1 player in EverQuest.
+[Thu Jul 19 01:23:13 2001] Kurts tells you, 'i see land!'
+[Thu Jul 19 01:23:21 2001] You told Kurts, 'lucky!'
+[Thu Jul 19 01:23:27 2001] Kurts tells you, 'whew )'
+[Thu Jul 19 01:23:35 2001] You told Kurts, 'phew!'
+[Thu Jul 19 01:23:45 2001] You told Kurts, 'take a DEEP breath'
+[Thu Jul 19 01:23:46 2001] Kurts tells you, 'well thanks for the moral support )'
+[Thu Jul 19 01:23:47 2001] Teleporting to Envei (460.00, 892.00,   5.53).
+[Thu Jul 19 01:23:48 2001] Envei tells you, 'i cant get a rez?'
+[Thu Jul 19 01:23:48 2001] Kurts tells you, 'hehe'
+[Thu Jul 19 01:23:49 2001] Woned's spell fizzles!
+[Thu Jul 19 01:23:50 2001] Woned begins to cast a spell. (Lifespike)
+[Thu Jul 19 01:23:51 2001] Woned staggers.
+[Thu Jul 19 01:23:52 2001] Woned beams a smile at dry bones skeleton.
+[Thu Jul 19 01:23:52 2001] Woned says, 'Ahhh, I feel much better now...'
+[Thu Jul 19 01:23:54 2001] Talnar begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:23:56 2001] Shaemes feels better.
+[Thu Jul 19 01:23:58 2001] dry bones skeleton has been slain by Woned!
+[Thu Jul 19 01:23:58 2001] Envei tells you, 'thats weird'
+[Thu Jul 19 01:23:59 2001] Talnar begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:24:01 2001] Shaemes feels better.
+[Thu Jul 19 01:24:04 2001] Talnar begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:24:06 2001] Shaemes feels better.
+[Thu Jul 19 01:24:09 2001] Talnar begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:24:11 2001] Silmarillion feels better.
+[Thu Jul 19 01:24:11 2001] Shaemes snaps to attention and salutes Espranza crisply.
+[Thu Jul 19 01:24:14 2001] Talnar begins to cast a spell. (Light Healing)
+[Thu Jul 19 01:24:15 2001] You told Envei, 'No, I cannot rez for deaths caused by or related to lag or link death - only for verifiable bugs.'
+[Thu Jul 19 01:24:15 2001] Woned says, 'Hail, Espranza'
+[Thu Jul 19 01:24:16 2001] Silmarillion feels better.
+[Thu Jul 19 01:24:16 2001] Silmarillion says, 'Hail, Espranza'
+[Thu Jul 19 01:24:19 2001] Kaladr shouts, 'i need a sow anybody?'
+[Thu Jul 19 01:24:21 2001] Shaemes peers at Espranza, looking her up and down.
+[Thu Jul 19 01:24:21 2001] You say, 'hello!'
+[Thu Jul 19 01:24:26 2001] Shaemes says, 'A tiny one ye be!'
+[Thu Jul 19 01:24:30 2001] Envei tells you, 'how do i verify the damn bug then?'
+[Thu Jul 19 01:24:30 2001] Kurts tells you, 'ahhh dry land'
+[Thu Jul 19 01:24:33 2001] Shaemes says, '/smi'
+[Thu Jul 19 01:24:34 2001] You say, 'Nay, tis you who are large!'
+[Thu Jul 19 01:24:34 2001] Silmarillion punches Shaemes in the face!
+[Thu Jul 19 01:24:35 2001] Shaemes beams a smile at Espranza.
+[Thu Jul 19 01:24:38 2001] Kurts tells you, 'well wet snow but it will do'
+[Thu Jul 19 01:24:40 2001] Talnar says, 'wow dem purdy blades'
+[Thu Jul 19 01:24:42 2001] Envei tells you, 'i lded sitting'
+[Thu Jul 19 01:24:44 2001] You say, 'thankee'
+[Thu Jul 19 01:24:47 2001] Woned says, 'very'
+[Thu Jul 19 01:24:49 2001] Envei tells you, 'nothing on me'
+[Thu Jul 19 01:24:50 2001] Shaemes says, 'HarHar! Aye, this be true.'
+[Thu Jul 19 01:24:51 2001] Talnar says, 'no youz wittle'
+[Thu Jul 19 01:24:54 2001] Shaemes cries over Silmarillion.
+[Thu Jul 19 01:24:57 2001] You told Envei, 'We can't rez for deaths caused by link death or lag...'
+[Thu Jul 19 01:25:01 2001] Silmarillion giggles at Shaemes.
+[Thu Jul 19 01:25:02 2001] Players in EverQuest:
+[Thu Jul 19 01:25:02 2001] ---------------------------
+[Thu Jul 19 01:25:02 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: oasis (USER PID DUGA6TS)
+[Thu Jul 19 01:25:02 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: oasis (USER PID AUGBQH4)
+[Thu Jul 19 01:25:02 2001] There are 2 players in EverQuest.
+[Thu Jul 19 01:25:09 2001] Woned shouts, 'LVL 15 SK LFG'
+[Thu Jul 19 01:25:11 2001] Talnar looks down at Espranza.
+[Thu Jul 19 01:25:15 2001] DELETING THIS PETITION
+[Thu Jul 19 01:25:15 2001] Envei tells you, 'how do i verify the bug!'
+[Thu Jul 19 01:25:16 2001] Talnar says, 'so shorts'
+[Thu Jul 19 01:25:27 2001] You told Envei, 'going link dead is not a bug'
+[Thu Jul 19 01:25:29 2001] Envei tells you, 'because i should have died over there if it was ld related'
+[Thu Jul 19 01:25:32 2001] Shaemes says, 'I bet ye hit a lot harder than ye are tall, though. I shall leave ye in...relative..peace. =)'
+[Thu Jul 19 01:25:42 2001] Lanky says out of character, 'donating for heal and buff at docks'
+[Thu Jul 19 01:25:42 2001] Envei tells you, 'not over ther'
+[Thu Jul 19 01:25:43 2001] You told Envei, 'it's a problem that could be anywhere in the path from your computer to Verant'
+[Thu Jul 19 01:25:45 2001] Talnar says, 'youz mudder chop of your legs? day why uou so small?'
+[Thu Jul 19 01:25:46 2001] Gootee shouts, 'Anyone else need a stack o gootee's finest bandages?'
+[Thu Jul 19 01:26:06 2001] Talnar trys to see if Espranza has legs.
+[Thu Jul 19 01:26:08 2001] You say, 'You get too close to an air pump, make you so large?'
+[Thu Jul 19 01:26:11 2001] Stumpyy shouts, 'me'
+[Thu Jul 19 01:26:11 2001] Envei tells you, 'ugh that problem pisses alot of people off'
+[Thu Jul 19 01:26:14 2001] Gootee shouts, 'fer absolutly free'
+[Thu Jul 19 01:26:22 2001] Lanky says out of character, 'donating for heal and buff at docks'
+[Thu Jul 19 01:26:23 2001] Talnar says, 'me gots feed up'
+[Thu Jul 19 01:26:24 2001] Shaemes cheers at Espranza.
+[Thu Jul 19 01:26:25 2001] Stumpyy shouts, 'im at dock'
+[Thu Jul 19 01:26:31 2001] Boun shouts, 'WTT sow for breeze or clarity'
+[Thu Jul 19 01:26:39 2001] You told Envei, 'Lag unfortunately is a part of the internet... nobody likes it, and it affects everything online'
+[Thu Jul 19 01:26:41 2001] Talnar says, 'me eats lots, get me big- -maybe you no have fuud as small girl?'
+[Thu Jul 19 01:26:41 2001] Shaemes says, 'Talnar, ye know what ye call halflings back where ye are from, don't ye?'
+[Thu Jul 19 01:26:43 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:26:46 2001] Kaladr shouts, 'i just need a sow'
+[Thu Jul 19 01:26:49 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:26:58 2001] Talnar says, 'fud her her'
+[Thu Jul 19 01:26:59 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:27:03 2001] You say, 'you eat fatty foods, should stick to gnomes'
+[Thu Jul 19 01:27:05 2001] Talnar chuckles at Espranza.
+[Thu Jul 19 01:27:08 2001] You say, 'lose some weight'
+[Thu Jul 19 01:27:09 2001] Shaemes says, 'Hot-n-spicy toelings!'
+[Thu Jul 19 01:27:09 2001] a desert madman begins to cast a spell. (Shield of Thistles)
+[Thu Jul 19 01:27:13 2001] Talnar says, 'me try dat when me can'
+[Thu Jul 19 01:27:13 2001] You say, 'hey!'
+[Thu Jul 19 01:27:16 2001] Talnar nods at Espranza.
+[Thu Jul 19 01:27:18 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:27:21 2001] Shaemes chuckles at Espranza.
+[Thu Jul 19 01:27:22 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:27:27 2001] Gootee shouts, 'lv17 mage lfg'
+[Thu Jul 19 01:27:28 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:27:29 2001] Shaemes lets Espranza know that he was JUST KIDDING!
+[Thu Jul 19 01:27:32 2001] Espranza feels strange.
+[Thu Jul 19 01:27:33 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:27:33 2001] Talnar says, 'me know trolls like big bellys doh'
+[Thu Jul 19 01:27:33 2001] an orc priest begins to cast a spell. (Strike)
+[Thu Jul 19 01:27:34 2001] You feel different.
+[Thu Jul 19 01:27:37 2001] You say, 'OH NO'
+[Thu Jul 19 01:27:40 2001] You say, 'it happened again!'
+[Thu Jul 19 01:27:41 2001] Silmarillion whistles at Espranza appreciatively.
+[Thu Jul 19 01:27:42 2001] Talnar says, 'hur hur'
+[Thu Jul 19 01:27:47 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:27:48 2001] Shaemes boggles at Espranza, shaking his head and looking confused.
+[Thu Jul 19 01:27:49 2001] an orc priest begins to cast a spell. (Strike)
+[Thu Jul 19 01:27:52 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:27:53 2001] an orc priest begins to cast a spell. (Strike)
+[Thu Jul 19 01:27:55 2001] Talnar says, 'me no try eat you, me would get indigestion'
+[Thu Jul 19 01:27:55 2001] Your illusion fades.
+[Thu Jul 19 01:27:55 2001] You feel a bit dispelled.
+[Thu Jul 19 01:27:57 2001] an orc priest begins to cast a spell. (Furor)
+[Thu Jul 19 01:27:58 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:28:03 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:28:06 2001] You say, 'I must go, be well all!'
+[Thu Jul 19 01:28:08 2001] You GMSAY, 'zone'
+[Thu Jul 19 01:28:09 2001] Talnar waves goodbye to Espranza.
+[Thu Jul 19 01:28:10 2001] You wave goodbye to everyone.
+[Thu Jul 19 01:28:11 2001] Norris begins to cast a spell. (Burst of Fire)
+[Thu Jul 19 01:28:11 2001] You no longer have a target.
+[Thu Jul 19 01:28:12 2001] Silmarillion waves goodbye to Espranza.
+[Thu Jul 19 01:28:13 2001] You wave goodbye to everyone.
+[Thu Jul 19 01:28:13 2001] an orc priest begins to cast a spell. (Strike)
+[Thu Jul 19 01:28:13 2001] Shaemes says, 'Be well, small one!'
+[Thu Jul 19 01:28:14 2001] Shaemes waves goodbye to Espranza.
+[Thu Jul 19 01:28:15 2001] Teleporting to jaxus.
+[Thu Jul 19 01:28:17 2001] Espranza saved.
+[Thu Jul 19 01:28:20 2001] Teleporting to jaxus.
+[Thu Jul 19 01:28:25 2001] You invite Jaxus to join your group.
+[Thu Jul 19 01:28:34 2001] You have formed the group.
+[Thu Jul 19 01:28:39 2001] You tell your party, 'hiya!'
+[Thu Jul 19 01:28:43 2001] Jaxus tells the group, 'Hi =)'
+[Thu Jul 19 01:28:49 2001] You feel the spirit of Norrath enter you.
+[Thu Jul 19 01:28:49 2001] Your feet leave the ground.
+[Thu Jul 19 01:28:58 2001] Rack Stonebelly shouts 'Da Bloated Belly be leaving da Overdere now! 
+[Thu Jul 19 01:29:18 2001] Hathoway says out of character, 'train to dock and nro zone'
+[Thu Jul 19 01:29:19 2001] You tell your party, 'guides don't need boats!'
+[Thu Jul 19 01:29:32 2001] Hathoway says out of character, 'train'
+[Thu Jul 19 01:29:36 2001] Senshinzu says out of character, 'docks are busy, take it elsewhere'
+[Thu Jul 19 01:29:37 2001] Jaxus tells the group, 'hehe this ones too jerky'
+[Thu Jul 19 01:29:39 2001] Hathoway says out of character, 'ghoil and dry'
+[Thu Jul 19 01:29:51 2001] Tallanon says out of character, 'to the zone plz'
+[Thu Jul 19 01:30:01 2001] You tell your party, 'thought for a sec there someone was intentionally training specs to docks'
+[Thu Jul 19 01:30:21 2001] Jaxus tells the group, 'Hehe not lil ol me ;)'
+[Thu Jul 19 01:30:22 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 19 01:30:23 2001] USER TEXT: Hi there , i was playing in mistmore and i died And my corpse went in the wall , my Party has tried several times to get it but to no avale. Could you please get it out of the wall .....
+[Thu Jul 19 01:30:23 2001] Players in EverQuest:
+[Thu Jul 19 01:30:23 2001] ---------------------------
+[Thu Jul 19 01:30:23 2001] [44 Magician] Quantarian (Erudite) <Temple of Dawn> ZONE: mistmoore (USER PID HZC8MPN)
+[Thu Jul 19 01:30:23 2001] There is 1 player in EverQuest.
+[Thu Jul 19 01:30:34 2001] Searching zones for corpse of that name....
+[Thu Jul 19 01:30:34 2001] Corpse: Quantarian's corpse0 in zone: mistmoore
+[Thu Jul 19 01:30:36 2001] You tell your party, 'sigh'
+[Thu Jul 19 01:30:38 2001] You GMSAY, 'zone'
+[Thu Jul 19 01:30:38 2001] Felinie says out of character, 'yeah becareful people here seem to e vere rude'
+[Thu Jul 19 01:30:42 2001] LOADING, PLEASE WAIT...
+[Thu Jul 19 01:31:07 2001] You have entered Castle Mistmoore.
+[Thu Jul 19 01:31:07 2001] You have formed the group.
+[Thu Jul 19 01:31:09 2001] Awewenu begins to cast a spell. (Valor)
+[Thu Jul 19 01:31:16 2001] Teleporting to quantarian's corpse0.
+[Thu Jul 19 01:31:17 2001] a thought corruptor begins to cast a spell. (O'Keils Radiation)
+[Thu Jul 19 01:31:20 2001] A thought corruptor begins to radiate.
+[Thu Jul 19 01:31:25 2001] a shadowy scrivener begins to cast a spell. (O'Keils Radiation)
+[Thu Jul 19 01:31:25 2001] a shadowy scrivener begins to cast a spell. (O'Keils Radiation)
+[Thu Jul 19 01:31:25 2001] Summoning Quantarian's corpse0.
+[Thu Jul 19 01:31:38 2001] USER TEXT: Hi there , i was playing in mistmore and i died And my corpse went in the wall , my Party has tried several times to get it but to no avale. Could you please get it out of the wall .....
+[Thu Jul 19 01:32:09 2001] You told Quantarian, 'Hail, Quantarian! Guide Espranza here. I've gotten your corpse out of the wall - but careful, many evil creatures lurk nearby!'
+[Thu Jul 19 01:32:15 2001] DELETING THIS PETITION
+[Thu Jul 19 01:32:17 2001] a dark sacrificer begins to cast a spell. (Banshee Aura)
+[Thu Jul 19 01:32:20 2001] Quantarian tells you, 'So it's in the ball room?'
+[Thu Jul 19 01:32:21 2001] a spiritish ancille begins to cast a spell. (O'Keils Radiation)
+[Thu Jul 19 01:32:45 2001] You told Quantarian, 'very near - it should be where you died.'
+[Thu Jul 19 01:32:53 2001] a thought corruptor begins to cast a spell. (O'Keils Radiation)
+[Thu Jul 19 01:32:53 2001] a shadowy scribe begins to cast a spell. (O'Keils Radiation)
+[Thu Jul 19 01:32:53 2001] a dark elf noble begins to cast a spell. (O'Keils Radiation)
+[Thu Jul 19 01:32:56 2001] A glyphed guard begins to radiate.
+[Thu Jul 19 01:32:58 2001] Quantarian tells you, 'ok My group is heading in. Thank you.'
+[Thu Jul 19 01:33:05 2001] You told Quantarian, 'be well and good luck'
+[Thu Jul 19 01:33:09 2001] a shadowy sage begins to cast a spell. (O'Keils Flickering Flame)
+[Thu Jul 19 01:33:10 2001] You GMSAY, 'zone'
+[Thu Jul 19 01:33:13 2001] Teleporting to jaxus.
+[Thu Jul 19 01:33:14 2001] LOADING, PLEASE WAIT...
+[Thu Jul 19 01:33:37 2001] Gootee shouts, 'remember gootee's discount bandage shop, were you always get a free onion.'
+[Thu Jul 19 01:33:38 2001] You have entered Oasis of Marr.
+[Thu Jul 19 01:33:38 2001] You have formed the group.
+[Thu Jul 19 01:33:44 2001] Elegant says out of character, '19 monk lfg'
+[Thu Jul 19 01:33:46 2001] Teleporting to jaxus.
+[Thu Jul 19 01:33:50 2001] Jaxus tells the group, 'welcome back =)'
+[Thu Jul 19 01:33:54 2001] You tell your party, 'hi!'
+[Thu Jul 19 01:33:54 2001] Kaladr shouts, 'i want an onion'
+[Thu Jul 19 01:33:59 2001] Gootee shouts, 'lol'
+[Thu Jul 19 01:33:59 2001] Teleporting to Jaxus (-848.00, -124.00, -30.30).
+[Thu Jul 19 01:34:00 2001] Jaxus tells the group, 'hehe'
+[Thu Jul 19 01:34:20 2001] Kaladr shouts, 'no bandges just onion'
+[Thu Jul 19 01:34:23 2001] Teleporting to Jaxus (-848.00, -124.00, -30.30).
+[Thu Jul 19 01:34:30 2001] Boun shouts, 'dont train spectars dont the beath u stupid ass!'
+[Thu Jul 19 01:34:38 2001] Kaladr shouts, 'well and maybe a breeze  : )'
+[Thu Jul 19 01:34:45 2001] Jaxus grabs hold of Espranza and begins to dance with her.
+[Thu Jul 19 01:34:45 2001] Lamlalron shouts, 'F$@#$@#'
+[Thu Jul 19 01:34:48 2001] You tell your party, 'change your underwear'
+[Thu Jul 19 01:34:52 2001] a deepwater goblin begins to cast a spell. (O'Keils Flickering Flame)
+[Thu Jul 19 01:34:52 2001] a deepwater goblin begins to cast a spell. (O'Keils Flickering Flame)
+[Thu Jul 19 01:34:59 2001] Lamlalron shouts, 'who pulled the spec'
+[Thu Jul 19 01:35:02 2001] Jaxus tells the group, 'it's clean =P'
+[Thu Jul 19 01:35:42 2001] You disband your party.
+[Thu Jul 19 01:45:36 2001] Welcome to EverQuest!
+[Thu Jul 19 01:45:36 2001] You have entered Oasis of Marr.
+[Thu Jul 19 01:45:36 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Congratulations to Khain, of Relentless Ascension, for winning the Cleric Best of the Best Tournament! He will be advancing on to Test Server to compete a bit later! Way to go Khain!
+[Thu Jul 19 01:45:37 2001] GUILD MOTD: Mersi - Please make sure you are scheduled! we wiped it =)
+[Thu Jul 19 01:45:49 2001] You say to your guild, '/petition hey I went ld can I get a rez'
+[Thu Jul 19 01:45:51 2001] Players in EverQuest:
+[Thu Jul 19 01:45:51 2001] ---------------------------
+[Thu Jul 19 01:45:51 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: oasis (USER PID AUGBQH4)
+[Thu Jul 19 01:45:51 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: mistmoore (USER PID DUGA6TS)
+[Thu Jul 19 01:45:51 2001] There are 2 players in EverQuest.
+[Thu Jul 19 01:45:56 2001] Jaxus tells the guild, 'hehe'
+[Thu Jul 19 01:46:14 2001] You say to your guild, 'I just came from MM - are you there about the guy with the long name that starts with Q?'
+[Thu Jul 19 01:46:20 2001] Karist says out of character, 'resing all at docks a clarity would help alot'
+[Thu Jul 19 01:46:43 2001] Jaxus tells the guild, 'yeah one of his friends petitioned, just came to check'
+[Thu Jul 19 01:46:45 2001] Players in EverQuest:
+[Thu Jul 19 01:46:45 2001] ---------------------------
+[Thu Jul 19 01:46:45 2001] [ANON (55 Templar)] Awewenu (High Elf) ZONE: mistmoore (USER PID HQ335RP)
+[Thu Jul 19 01:46:45 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: mistmoore (USER PID DUGA6TS)
+[Thu Jul 19 01:46:45 2001] [ANON (45 Ranger)] Arulian (Wood Elf) ZONE: mistmoore (USER PID CWAY5XC)
+[Thu Jul 19 01:46:45 2001] [52 Reaver] Tilen (Dark Elf) <Tolkien's Revenge> ZONE: mistmoore (USER PID CUKD5KG)
+[Thu Jul 19 01:46:45 2001] [41 Druid] Zyelor (Wood Elf) <Temple of Dawn> ZONE: mistmoore (USER PID FP39859)
+[Thu Jul 19 01:46:46 2001] [44 Magician] Quantarian (Erudite) <Temple of Dawn> ZONE: mistmoore (USER PID HZC8MPN)
+[Thu Jul 19 01:46:46 2001] There are 6 players in EverQuest.
+[Thu Jul 19 01:46:59 2001] Teadyn says out of character, 'awww spectres see thru invis =( not cool'
+[Thu Jul 19 01:47:14 2001] You say to your guild, 'I pulled his corpse from the wall, it's outside the music room where, from what I understand, he died'
+[Thu Jul 19 01:47:20 2001] Envei says out of character, 'training more?'
+[Thu Jul 19 01:47:29 2001] Teadyn says out of character, 'no lol'
+[Thu Jul 19 01:47:32 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 19 01:47:32 2001] USER TEXT: sorry  about the report i did sometning wrong when lagged :( hes not a prob my apologies to u
+[Thu Jul 19 01:47:32 2001] Players in EverQuest:
+[Thu Jul 19 01:47:33 2001] ---------------------------
+[Thu Jul 19 01:47:33 2001] [41 Paladin] Felinie (High Elf) <Kingdom of Steel> ZONE: nro (USER PID GYE53FM)
+[Thu Jul 19 01:47:33 2001] There is 1 player in EverQuest.
+[Thu Jul 19 01:47:33 2001] Jaxus tells the guild, 'looks like they managed to get it to zone'
+[Thu Jul 19 01:47:44 2001] Teadyn says out of character, 'ive never been on their island'
+[Thu Jul 19 01:47:45 2001] You say to your guild, 'cool'
+[Thu Jul 19 01:48:07 2001] Rack Stonebelly shouts 'Da Barrel Barge will be here soon soon! 
+[Thu Jul 19 01:48:12 2001] Tallanon shouts, '1 BLUE BUB TO LEVEL!!!!!! 14!!'
+[Thu Jul 19 01:48:17 2001] Teadyn shouts, 'lol'
+[Thu Jul 19 01:48:21 2001] You told Felinie, 'Hail, Felinie! Guide Espranza here. GMs don't look at reports unless you petition afterward - so if you didn't petition, no GM has looked at the report.'
+[Thu Jul 19 01:48:33 2001] Teadyn says out of character, '<<<<<didnt train spectres, just walked in zone'
+[Thu Jul 19 01:48:51 2001] DELETING THIS PETITION
+[Thu Jul 19 01:49:24 2001] Felinie tells you, 'ohh i did petitionafterward LOL i am soo sorry i lagge and was typing and well i "unlagged" and say i reported LOL pls my appoligies'
+[Thu Jul 19 01:49:36 2001] Jaxus tells the guild, 'I like the petitions that if they wait 5 minutes they can work it out without help =p'
+[Thu Jul 19 01:49:40 2001] You told Felinie, 'no worries :) be well'
+[Thu Jul 19 01:49:40 2001] Gootee shouts, 'Anyone else for some bandages?'
+[Thu Jul 19 01:49:58 2001] You GMSAY, 'felinie wants us to ignore her report and prior petition'
+[Thu Jul 19 01:50:00 2001] Felinie tells you, 'i mean said i reported him LO you too..just dont want to get someone in trouble for my lag :S lolo be well'
+[Thu Jul 19 01:50:19 2001] You say to your guild, 'so many are like that'
+[Thu Jul 19 01:50:26 2001] Jaxus tells the guild, 'aye'
+[Thu Jul 19 01:50:37 2001] You have become better at Swimming! (112)
+[Thu Jul 19 01:50:43 2001] Felinie tells you, 'then came back and saw it it was awful LOL  my regrets'
+[Thu Jul 19 01:50:59 2001] You told Felinie, 'no worries, no harm done'
+[Thu Jul 19 01:51:20 2001] Teadyn says out of character, 'where are all the SGs?!'
+[Thu Jul 19 01:51:25 2001] Felinie tells you, 'mjust dont let him get introuble cause of my lagging pls  and thank u'
+[Thu Jul 19 01:51:26 2001] You feel as if you are about to fall.
+[Thu Jul 19 01:51:31 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 19 01:51:32 2001] USER TEXT: i think my corpse is invis~
+[Thu Jul 19 01:51:32 2001] Players in EverQuest:
+[Thu Jul 19 01:51:32 2001] ---------------------------
+[Thu Jul 19 01:51:32 2001] [51 Disciple] Phara (Iksar) ZONE: wakening (USER PID DXRQPSN)
+[Thu Jul 19 01:51:32 2001] There is 1 player in EverQuest.
+[Thu Jul 19 01:51:32 2001] You feel as if you are about to fall.
+[Thu Jul 19 01:51:37 2001] You GMSAY, 'zone'
+[Thu Jul 19 01:51:38 2001] You can no longer levitate.
+[Thu Jul 19 01:51:40 2001] Searching zones for corpse of that name....
+[Thu Jul 19 01:51:40 2001] Corpse: Phara's corpse0 in zone: wakening
+[Thu Jul 19 01:51:42 2001] Gootee says out of character, 'Puma's killed them all'
+[Thu Jul 19 01:51:45 2001] LOADING, PLEASE WAIT...
+[Thu Jul 19 01:52:20 2001] You have entered The Wakening Land.
+[Thu Jul 19 01:52:35 2001] Teleporting to phara's corpse0.
+[Thu Jul 19 01:53:15 2001] You told Phara, 'Hail, Phara! Guide Espranza here. Nay, your corpse is not invisible, it is against a hill though'
+[Thu Jul 19 01:53:43 2001] Phara tells you, 'i've ran up the hill from where i died, chain /corpsing =P we talkin hill or mountain?'
+[Thu Jul 19 01:54:05 2001] Phara tells you, 'is it a 'wheres waldo' day? ;)'
+[Thu Jul 19 01:54:08 2001] You told Phara, 'hmmm.... near the zone wall'
+[Thu Jul 19 01:54:13 2001] Teleporting to Phara's corpse0 (-2302.00, -2611.00, -116.41).
+[Thu Jul 19 01:54:30 2001] Phara tells you, 'aye, between portal and kael, been runnin up and down for awhile =P'
+[Thu Jul 19 01:54:30 2001] You told Phara, 'I will pull it clear of the hillside'
+[Thu Jul 19 01:54:35 2001] Phara tells you, 'thankyou sir'
+[Thu Jul 19 01:54:39 2001] Summoning Phara's corpse0.
+[Thu Jul 19 01:54:42 2001] You no longer have a target.
+[Thu Jul 19 01:55:11 2001] You told Phara, 'there, should be a little more visible now. you might try to find someone to help locate it, or invest in a chipped bone road - those things are no end of handy.'
+[Thu Jul 19 01:55:32 2001] DELETING THIS PETITION
+[Thu Jul 19 01:55:42 2001] Phara tells you, 'yup, been wishin i could check skyshine merchants =P orkael, hehe'
+[Thu Jul 19 01:56:14 2001] You told Phara, 'took me a long time to get skyshrine merchants to like me, but it really paid off :)'
+[Thu Jul 19 01:56:18 2001] You told Phara, 'be well and good luck!'
+[Thu Jul 19 01:56:23 2001] Phara tells you, 'thanks )'
+[Thu Jul 19 01:59:48 2001] Players on EverQuest:
+[Thu Jul 19 01:59:48 2001] ---------------------------
+[Thu Jul 19 01:59:48 2001] [51 Disciple] Phara (Iksar)
+[Thu Jul 19 01:59:48 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Thu Jul 19 01:59:48 2001] There are 2 players in The Wakening Land.
+[Thu Jul 19 02:00:24 2001] You GMSAY, 'zone'
+[Thu Jul 19 02:00:29 2001] LOADING, PLEASE WAIT...
+[Thu Jul 19 02:00:47 2001] You have entered Sunset Home.
+[Thu Jul 19 02:01:20 2001] You say to your guild, 'well, it looks pretty light and you're on top of it all, think I'll continue on to bed now'
+[Thu Jul 19 02:01:21 2001] Players in EverQuest:
+[Thu Jul 19 02:01:21 2001] ---------------------------
+[Thu Jul 19 02:01:21 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu Jul 19 02:01:21 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: mistmoore (USER PID DUGA6TS)
+[Thu Jul 19 02:01:21 2001] There are 2 players in EverQuest.
+[Thu Jul 19 02:01:34 2001] Jaxus tells the guild, 'about that time for me too'
+[Thu Jul 19 02:01:45 2001] You say to your guild, 'okay :) will catch up to ya later then! be well!'
+[Thu Jul 19 02:01:49 2001] It will take you about 30 seconds to prepare your camp.
+[Thu Jul 19 02:01:52 2001] Jaxus tells the guild, 'Take care =)'
+[Thu Jul 19 02:01:53 2001] It will take about 25 more seconds to prepare your camp.
+[Thu Jul 19 02:01:58 2001] It will take about 20 more seconds to prepare your camp.
+[Thu Jul 19 02:02:03 2001] It will take about 15 more seconds to prepare your camp.
+[Thu Jul 19 02:02:08 2001] It will take about 10 more seconds to prepare your camp.
+[Thu Jul 19 02:02:13 2001] It will take about 5 more seconds to prepare your camp.

@@ -1,0 +1,633 @@
+[Tue Oct 23 13:39:29 2001] Welcome to EverQuest!
+[Tue Oct 23 13:39:29 2001] You have entered Sunset Home.
+[Tue Oct 23 13:39:39 2001] Players in EverQuest:
+[Tue Oct 23 13:39:39 2001] ---------------------------
+[Tue Oct 23 13:39:39 2001] * Senior Guide *[50 Paladin] Cani (High Elf) ZONE: karnor (USER PID FRZZ93K)
+[Tue Oct 23 13:39:39 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Tue Oct 23 13:39:39 2001] There are 2 players in EverQuest.
+[Tue Oct 23 13:39:43 2001] You GMSAY, 'Hiya Cani!'
+[Tue Oct 23 13:39:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:39:48 2001] USER TEXT: hi there...We think  Wakening lands have a bugg...We r killing hologres in a cave...When I pulled them they come to me but underground...we cant hit em
+[Tue Oct 23 13:39:48 2001] Players in EverQuest:
+[Tue Oct 23 13:39:49 2001] ---------------------------
+[Tue Oct 23 13:39:49 2001] [54 Pathfinder] Louhi (Half Elf) <Altruistic Valorians> ZONE: wakening (USER PID CXEPDWR)
+[Tue Oct 23 13:39:49 2001] There is 1 player in EverQuest.
+[Tue Oct 23 13:39:50 2001] Cani GMSAYS, 'Hello Espranza..'
+[Tue Oct 23 13:39:57 2001] Cani GMSAYS, 'zone'
+[Tue Oct 23 13:40:16 2001] You told Louhi, 'Hail, Louhi! Guide Espranza here. Which kind of holgresh is it that's attacking you?'
+[Tue Oct 23 13:40:31 2001] You feel the spirit of Norrath enter you.
+[Tue Oct 23 13:40:53 2001] Louhi tells you, 'every kind MAster) we r pulling from a cave in Wakening lands'
+[Tue Oct 23 13:41:09 2001] You told Louhi, 'ah, but which is it that is hidden beneath the world?'
+[Tue Oct 23 13:41:09 2001] Louhi tells you, 'they follow me...but underground...we cant hit em'
+[Tue Oct 23 13:41:17 2001] You told Louhi, 'hmm... is it still doing it, then?'
+[Tue Oct 23 13:41:18 2001] Louhi tells you, 'yeah'
+[Tue Oct 23 13:41:24 2001] You told Louhi, 'okay, I'll be right there!'
+[Tue Oct 23 13:41:25 2001] You GMSAY, 'zone'
+[Tue Oct 23 13:41:26 2001] Louhi tells you, 'yes more than 4 times now'
+[Tue Oct 23 13:41:27 2001] Teleporting to louhi.
+[Tue Oct 23 13:41:27 2001] LOADING, PLEASE WAIT...
+[Tue Oct 23 13:42:12 2001] You have entered The Wakening Land.
+[Tue Oct 23 13:42:15 2001] Rugher fades away.
+[Tue Oct 23 13:42:18 2001] Louhi begins to cast a spell. (Superior Camouflage)
+[Tue Oct 23 13:42:28 2001] Louhi fades away.
+[Tue Oct 23 13:42:34 2001] Bergh shouts, 'bring out your dead'
+[Tue Oct 23 13:42:36 2001] Searching for a_holgresh_conjurer00.
+[Tue Oct 23 13:42:36 2001] Player is in zone wakening at x = -2684 y = 1363 z = -73.
+[Tue Oct 23 13:42:38 2001] Teleporting to a_holgresh_conjurer00 (-2673.00, 1378.00, -76.70).
+[Tue Oct 23 13:42:45 2001] Louhi tells you, 'hummm heheh I'm not sure If I'm going to ...'
+[Tue Oct 23 13:42:51 2001] Louhi tells you, 'ou u r here hehe'
+[Tue Oct 23 13:43:06 2001] Teleporting to a_holgresh_conjurer01.
+[Tue Oct 23 13:43:12 2001] Bergh says out of character, 'anyone need a res before the ambulance gates away?'
+[Tue Oct 23 13:43:20 2001] Louhi tells you, 'we had to run to avoid the hologres and we cant find the cave now('
+[Tue Oct 23 13:43:24 2001] You told Louhi, 'I'm looking to see if I can find one beneath the world'
+[Tue Oct 23 13:43:27 2001] Teleporting to a_holgresh_conjurer02.
+[Tue Oct 23 13:43:29 2001] Teleporting to a_holgresh_conjurer03.
+[Tue Oct 23 13:43:31 2001] Teleporting to a_holgresh_conjurer04.
+[Tue Oct 23 13:43:32 2001] Louhi tells you, 'I just want to report the bugg to u master'
+[Tue Oct 23 13:43:34 2001] Teleporting to a_holgresh_conjurer05.
+[Tue Oct 23 13:43:36 2001] a holgresh conjurer begins to cast a spell. (Inferno Shield)
+[Tue Oct 23 13:43:40 2001] a holgresh conjurer begins to cast a spell. (Inferno Shield)
+[Tue Oct 23 13:43:48 2001] You told Louhi, 'okay, I'll pass that along. Thank you!'
+[Tue Oct 23 13:43:57 2001] a holgresh elementalist begins to cast a spell. (O'Keils Radiation)
+[Tue Oct 23 13:43:58 2001] Louhi tells you, 'proly the went into the cave again'
+[Tue Oct 23 13:44:10 2001] a holgresh conjurer begins to cast a spell. (Inferno Shield)
+[Tue Oct 23 13:44:14 2001] a holgresh elementalist begins to cast a spell. (O'Keils Flickering Flame)
+[Tue Oct 23 13:44:14 2001] an elder holgresh begins to cast a spell. (Inferno Shield)
+[Tue Oct 23 13:44:14 2001] a holgresh conjurer begins to cast a spell. (Inferno Shield)
+[Tue Oct 23 13:44:16 2001] You GMSAY, '<note bug> Pathing error in the Holgresh caverns in Wakening Lands sends Holgresh beneath the world as they are being pulled out...'
+[Tue Oct 23 13:44:19 2001] Louhi tells you, 'thanks a lot to u guide)'
+[Tue Oct 23 13:44:21 2001] Teleporting to a_holgresh_conjurer06.
+[Tue Oct 23 13:44:22 2001] a holgresh conjurer begins to cast a spell. (Inferno Shield)
+[Tue Oct 23 13:44:24 2001] Teleporting to a_holgresh_conjurer07.
+[Tue Oct 23 13:44:29 2001] A holgresh conjurer is enveloped by flame.
+[Tue Oct 23 13:44:30 2001] You told Louhi, 'and good luck to you!'
+[Tue Oct 23 13:44:32 2001] Teleporting to a_holgresh_conjurer08.
+[Tue Oct 23 13:44:35 2001] Teleporting to a_holgresh_conjurer09.
+[Tue Oct 23 13:44:35 2001] Louhi tells you, 'nice to see u again btw) /cheer'
+[Tue Oct 23 13:44:38 2001] Teleporting to a_holgresh_conjurer10.
+[Tue Oct 23 13:44:40 2001] Louhi tells you, 'hehe same)'
+[Tue Oct 23 13:44:41 2001] Teleporting to a_holgresh_conjurer11.
+[Tue Oct 23 13:44:53 2001] You GMSAY, 'haha gotcha, you flying monkey! '
+[Tue Oct 23 13:45:04 2001] You GMSAY, '<note> Killing beneath the world mobs in WL'
+[Tue Oct 23 13:45:07 2001] Killing a_holgresh_conjurer11.
+[Tue Oct 23 13:45:51 2001] You told Louhi, 'Okay, I killed the one I found beneath the world - that's one that won't be troubling you any more.'
+[Tue Oct 23 13:46:04 2001] Louhi tells you, 'heh thanks a lot)'
+[Tue Oct 23 13:46:11 2001] DELETING THIS PETITION
+[Tue Oct 23 13:46:16 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:46:16 2001] USER TEXT: Hello i just died inside Karnor's castle and i cant find my corpse...can you help me please?:( Thank you
+[Tue Oct 23 13:46:17 2001] Players in EverQuest:
+[Tue Oct 23 13:46:17 2001] ---------------------------
+[Tue Oct 23 13:46:17 2001] There are no players in EverQuest that match those who filters.
+[Tue Oct 23 13:46:21 2001] Searching zones for corpse of that name....
+[Tue Oct 23 13:46:27 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Oct 23 13:46:28 2001] CHECKING IN
+[Tue Oct 23 13:46:29 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:46:30 2001] USER TEXT: hello i just got killed bacause i was swimming in the water and my guy froze and i couldnt move so i couldnt go up for air  and i lost exp for it
+[Tue Oct 23 13:46:30 2001] Players in EverQuest:
+[Tue Oct 23 13:46:30 2001] ---------------------------
+[Tue Oct 23 13:46:30 2001] There are no players in EverQuest that match those who filters.
+[Tue Oct 23 13:46:37 2001] Searching zones for corpse of that name....
+[Tue Oct 23 13:46:37 2001] Corpse: Audon's corpse0 in zone: overthere
+[Tue Oct 23 13:46:40 2001] You GMSAY, 'zone'
+[Tue Oct 23 13:46:43 2001] LOADING, PLEASE WAIT...
+[Tue Oct 23 13:47:57 2001] a sabertooth tigress died.
+[Tue Oct 23 13:47:57 2001] Loken shouts, 'looking for a tp to wc, will donate'
+[Tue Oct 23 13:47:57 2001] a stonepeep cockatrice died.
+[Tue Oct 23 13:47:57 2001] Haine shouts, 'rogue lvl 17 lfg'
+[Tue Oct 23 13:47:57 2001] a sabertooth tigress died.
+[Tue Oct 23 13:48:01 2001] You have entered The Overthere.
+[Tue Oct 23 13:48:11 2001] Teleporting to adon's corpse0.
+[Tue Oct 23 13:48:20 2001] Teleporting to audon's corpse0.
+[Tue Oct 23 13:48:31 2001] You have become better at Swimming! (111)
+[Tue Oct 23 13:48:33 2001] Varg Stonebelly shouts 'Da Bloated Belly is be coming soon!  Barsh faster if you has to go! 
+[Tue Oct 23 13:48:49 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Oct 23 13:48:50 2001] GM TEXT: Espranza: Body is visible and in the water
+[Tue Oct 23 13:48:52 2001] CHECKING IN
+[Tue Oct 23 13:48:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:48:54 2001] USER TEXT: my body is in wall at lcy  
+[Tue Oct 23 13:48:55 2001] Players in EverQuest:
+[Tue Oct 23 13:48:55 2001] ---------------------------
+[Tue Oct 23 13:48:55 2001] [47 Enchanter] Dannieo (Dark Elf) <Titan Lords> ZONE: karnor (USER PID EUN5XRT)
+[Tue Oct 23 13:48:55 2001] There is 1 player in EverQuest.
+[Tue Oct 23 13:48:56 2001] UNDOING CHECK OUT
+[Tue Oct 23 13:48:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:48:59 2001] USER TEXT: hello i just got killed bacause i was swimming in the water and my guy froze and i couldnt move so i couldnt go up for air  and i lost exp for it
+[Tue Oct 23 13:48:59 2001] Players in EverQuest:
+[Tue Oct 23 13:48:59 2001] ---------------------------
+[Tue Oct 23 13:48:59 2001] There are no players in EverQuest that match those who filters.
+[Tue Oct 23 13:49:01 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Oct 23 13:49:02 2001] CHECKING IN
+[Tue Oct 23 13:49:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:49:12 2001] USER TEXT: my body is in wall at lcy  
+[Tue Oct 23 13:49:12 2001] Players in EverQuest:
+[Tue Oct 23 13:49:12 2001] ---------------------------
+[Tue Oct 23 13:49:12 2001] [47 Enchanter] Dannieo (Dark Elf) <Titan Lords> ZONE: karnor (USER PID EUN5XRT)
+[Tue Oct 23 13:49:12 2001] There is 1 player in EverQuest.
+[Tue Oct 23 13:49:21 2001] Searching zones for corpse of that name....
+[Tue Oct 23 13:49:21 2001] Corpse: Dannieo's corpse0 in zone: karnor
+[Tue Oct 23 13:49:53 2001] You told Dannieo, 'Hail, Dannieo! Guide Espranza here. Were you able to get your corpse from Everfrost?'
+[Tue Oct 23 13:49:57 2001] Players in EverQuest:
+[Tue Oct 23 13:49:57 2001] ---------------------------
+[Tue Oct 23 13:49:57 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: overthere (USER PID AUGBQH4)
+[Tue Oct 23 13:49:57 2001] There is 1 player in EverQuest.
+[Tue Oct 23 13:50:15 2001] Dannieo tells you, 'yes someone got it thanks  for responce'
+[Tue Oct 23 13:50:29 2001] You told Dannieo, 'okay, be well - and be careful there in Karnor's :('
+[Tue Oct 23 13:50:31 2001] DELETING THIS PETITION
+[Tue Oct 23 13:50:32 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:50:33 2001] USER TEXT: I am stuck on top of a house with invisible walls and i cant get off
+[Tue Oct 23 13:50:33 2001] Players in EverQuest:
+[Tue Oct 23 13:50:33 2001] ---------------------------
+[Tue Oct 23 13:50:33 2001] [47 Druid] Teadyn (Wood Elf) <Crimson Mist> ZONE: freporte (USER PID CSH8296)
+[Tue Oct 23 13:50:33 2001] There is 1 player in EverQuest.
+[Tue Oct 23 13:50:48 2001] You told Teadyn, 'Hail, Teadyn! Guide Espranza here. Are you still stuck?'
+[Tue Oct 23 13:51:14 2001] Teadyn tells you, 'Aye =('
+[Tue Oct 23 13:51:19 2001] Teadyn tells you, 'and the boat just left me ='('
+[Tue Oct 23 13:51:30 2001] You told Teadyn, 'eek well I can unstick you anyway... be right there...'
+[Tue Oct 23 13:51:32 2001] You GMSAY, 'zone'
+[Tue Oct 23 13:51:36 2001] Teleporting to teadyn.
+[Tue Oct 23 13:51:37 2001] LOADING, PLEASE WAIT...
+[Tue Oct 23 13:52:12 2001] You have entered East Freeport.
+[Tue Oct 23 13:52:31 2001] You say, 'the lev monster strikes again!'
+[Tue Oct 23 13:52:37 2001] Teadyn says, 'lol'
+[Tue Oct 23 13:52:51 2001] You say, 'are the guards here okay with you?'
+[Tue Oct 23 13:52:54 2001] Teadyn says, 'yes'
+[Tue Oct 23 13:52:59 2001] Teleporting to Guard_Nekropo00 (-49.00, -323.00, -52.22).
+[Tue Oct 23 13:53:03 2001] Brek Stolrus begins to cast a spell. (Yaulp IV)
+[Tue Oct 23 13:53:07 2001] Konious Eranon begins to cast a spell. (Feedback)
+[Tue Oct 23 13:53:08 2001] Summoning teadyn.
+[Tue Oct 23 13:53:14 2001] Teadyn thanks Espranza heartily.
+[Tue Oct 23 13:53:17 2001] You bow before Teadyn.
+[Tue Oct 23 13:53:19 2001] Heneva Jexsped begins to cast a spell. (Cadeau of Flame)
+[Tue Oct 23 13:53:19 2001] DELETING THIS PETITION
+[Tue Oct 23 13:53:22 2001] You say, 'be well!'
+[Tue Oct 23 13:53:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:53:24 2001] USER TEXT: Hello i just died inside Karnor's castle and i cant find my corpse...can you help me please?:( Thank you
+[Tue Oct 23 13:53:24 2001] Players in EverQuest:
+[Tue Oct 23 13:53:24 2001] ---------------------------
+[Tue Oct 23 13:53:24 2001] There are no players in EverQuest that match those who filters.
+[Tue Oct 23 13:53:24 2001] Teadyn says, 'Thank you m'Lady'
+[Tue Oct 23 13:53:27 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Oct 23 13:53:28 2001] CHECKING IN
+[Tue Oct 23 13:53:29 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:53:30 2001] USER TEXT: hello i just got killed bacause i was swimming in the water and my guy froze and i couldnt move so i couldnt go up for air  and i lost exp for it
+[Tue Oct 23 13:53:30 2001] Players in EverQuest:
+[Tue Oct 23 13:53:30 2001] ---------------------------
+[Tue Oct 23 13:53:30 2001] There are no players in EverQuest that match those who filters.
+[Tue Oct 23 13:53:31 2001] Nexvok Thirod begins to cast a spell. (O'Keils Flickering Flame)
+[Tue Oct 23 13:53:37 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Oct 23 13:53:38 2001] CHECKING IN
+[Tue Oct 23 13:54:03 2001] Palatos Kynarn begins to cast a spell. (Quickness)
+[Tue Oct 23 13:54:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:54:04 2001] USER TEXT: Hello i just died inside Karnor's castle and i cant find my corpse...can you help me please?:( Thank you
+[Tue Oct 23 13:54:04 2001] Players in EverQuest:
+[Tue Oct 23 13:54:04 2001] ---------------------------
+[Tue Oct 23 13:54:04 2001] There are no players in EverQuest that match those who filters.
+[Tue Oct 23 13:54:06 2001] DELETING THIS PETITION
+[Tue Oct 23 13:54:08 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:54:08 2001] USER TEXT: hello i just got killed bacause i was swimming in the water and my guy froze and i couldnt move so i couldnt go up for air  and i lost exp for it
+[Tue Oct 23 13:54:09 2001] Players in EverQuest:
+[Tue Oct 23 13:54:09 2001] ---------------------------
+[Tue Oct 23 13:54:09 2001] There are no players in EverQuest that match those who filters.
+[Tue Oct 23 13:54:10 2001] DELETING THIS PETITION
+[Tue Oct 23 13:54:11 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:54:12 2001] USER TEXT: my charactor is experiencing memory loss pls help!
+[Tue Oct 23 13:54:12 2001] Players in EverQuest:
+[Tue Oct 23 13:54:12 2001] ---------------------------
+[Tue Oct 23 13:54:12 2001] [15 Bard] Talnos (Half Elf) <Hand of the Shadows> ZONE: eastkarana (USER PID AVVDMHF)
+[Tue Oct 23 13:54:12 2001] There is 1 player in EverQuest.
+[Tue Oct 23 13:54:24 2001] You GMSAY, 'zone'
+[Tue Oct 23 13:54:29 2001] LOADING, PLEASE WAIT...
+[Tue Oct 23 13:55:02 2001] You have entered Eastern Plains of Karana.
+[Tue Oct 23 13:55:35 2001] You told Talnos, 'Hail, Talnos! Guide Espranza here. What sort of memory lapses is your character experiencing?'
+[Tue Oct 23 13:56:01 2001] Talnos tells you, 'well about 3 hrs ago i was on for an hour i died went and got my corpse and made like half a level i then camped out'
+[Tue Oct 23 13:56:22 2001] Talnos tells you, 'when i just logged on i was back to what i was when i died'
+[Tue Oct 23 13:56:23 2001] Searching zones for corpse of that name....
+[Tue Oct 23 13:56:23 2001] Corpse: Talnos's corpse0 in zone: highpass
+[Tue Oct 23 13:56:35 2001] Talnos tells you, 'hopefully i'll have a corpse??'
+[Tue Oct 23 13:56:45 2001] You told Talnos, 'Aye, you have a corpse in Highpass'
+[Tue Oct 23 13:56:55 2001] You told Talnos, 'is that where you died?'
+[Tue Oct 23 13:57:00 2001] Talnos tells you, 'yes'
+[Tue Oct 23 13:57:09 2001] Talnos tells you, 'but i already loot it once..'
+[Tue Oct 23 13:57:24 2001] You told Talnos, 'did you have a corpse still after you looted it?'
+[Tue Oct 23 13:57:28 2001] Talnos tells you, 'no'
+[Tue Oct 23 13:57:52 2001] You told Talnos, 'could someone have played your character while you were away?'
+[Tue Oct 23 13:58:00 2001] Players on EverQuest:
+[Tue Oct 23 13:58:00 2001] ---------------------------
+[Tue Oct 23 13:58:00 2001] [15 Bard] Talnos (Half Elf) <Hand of the Shadows>
+[Tue Oct 23 13:58:00 2001] There is 1 player in East Karana.
+[Tue Oct 23 13:58:02 2001] Talnos tells you, 'nop'
+[Tue Oct 23 13:58:06 2001] Teleporting to talnos.
+[Tue Oct 23 13:58:15 2001] Talnos's song ends.
+[Tue Oct 23 13:58:15 2001] Talnos's song ends.
+[Tue Oct 23 13:58:17 2001]  (Selo`s Accelerando)
+[Tue Oct 23 13:58:20 2001] Talnos says, 'i have to run hehe'
+[Tue Oct 23 13:58:22 2001] Torquil says out of character, 'anyone got any bandages i can have?'
+[Tue Oct 23 13:58:25 2001] You told Talnos, 'please!'
+[Tue Oct 23 13:58:54 2001] You GMSAY, 'zone'
+[Tue Oct 23 13:58:58 2001] LOADING, PLEASE WAIT...
+[Tue Oct 23 13:59:24 2001] Kallaorf shouts, 'Orcs looking for more'
+[Tue Oct 23 13:59:26 2001] You have entered Highpass Hold.
+[Tue Oct 23 13:59:32 2001] Teleporting to talnos's corpse0.
+[Tue Oct 23 13:59:43 2001] STATUS UPGRADED TO URGENT
+[Tue Oct 23 13:59:45 2001] CHECKING IN
+[Tue Oct 23 13:59:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 13:59:47 2001] USER TEXT: gm needed on Tallon Zek
+[Tue Oct 23 13:59:47 2001] Players in EverQuest:
+[Tue Oct 23 13:59:47 2001] ---------------------------
+[Tue Oct 23 13:59:47 2001] [5 Shaman] Forugrim (Barbarian) ZONE: halas (USER PID HZWBQS4)
+[Tue Oct 23 13:59:47 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:00:01 2001] a gnoll soothsayer begins to cast a spell. (Drowsy)
+[Tue Oct 23 14:00:06 2001] Kallaorf shouts, 'Orcs looking for more'
+[Tue Oct 23 14:00:32 2001] You told Forugrim, 'Hail, Forugrim! Guide Espranza here. Unfortunately, there is no GM online here at the moment. Perhaps you could petition for aid on TZ, or ask for help in chat?'
+[Tue Oct 23 14:00:38 2001] DELETING THIS PETITION
+[Tue Oct 23 14:00:57 2001] Talnos tells you, 'zone'
+[Tue Oct 23 14:01:13 2001] Players in EverQuest:
+[Tue Oct 23 14:01:13 2001] ---------------------------
+[Tue Oct 23 14:01:13 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: highpass (USER PID AUGBQH4)
+[Tue Oct 23 14:01:13 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:01:15 2001] It is 1 PM on Sunday, the 22nd day of June, of the year 3215.
+[Tue Oct 23 14:01:15 2001] Earth Time: Tue Oct 23 14:01:15 2001
+[Tue Oct 23 14:01:18 2001] Forugrim tells you, 'there are no gms on tallon Zek that is the problem, '
+[Tue Oct 23 14:01:27 2001] Kallaorf shouts, 'Orcs looking for more'
+[Tue Oct 23 14:02:32 2001] You told Forugrim, 'Someone should be there shortly, there are roving GMs who go to servers where there is nobody on, and handle petitions.'
+[Tue Oct 23 14:02:32 2001] Talnos says, 'this is where i camped out'
+[Tue Oct 23 14:02:41 2001] You say, 'Is this where you had died before?'
+[Tue Oct 23 14:02:45 2001] Talnos says, 'no'
+[Tue Oct 23 14:02:46 2001] Kallaorf shouts, 'ORcs looking for more'
+[Tue Oct 23 14:02:56 2001] Talnos says out of character, 'i'll come in a sec'
+[Tue Oct 23 14:03:05 2001] You say, 'did you camp out with /q?'
+[Tue Oct 23 14:03:16 2001] Talnos says, 'camp desktop is what i used'
+[Tue Oct 23 14:03:34 2001] You say, 'it looks like something killed you, then, as you were camping out.'
+[Tue Oct 23 14:03:39 2001] Talnos says, 'i was over halfway through level now i'm down to 3blues'
+[Tue Oct 23 14:03:54 2001] You say, 'must have been an opportunity to be attacked...'
+[Tue Oct 23 14:04:01 2001] Players in EverQuest:
+[Tue Oct 23 14:04:01 2001] ---------------------------
+[Tue Oct 23 14:04:01 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: highpass (USER PID AUGBQH4)
+[Tue Oct 23 14:04:01 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:04:22 2001] You say, 'I will note it as an issue and it will be addressed in the future, I hope.'
+[Tue Oct 23 14:04:28 2001] Kallaorf shouts, 'Orcs looking for more'
+[Tue Oct 23 14:04:49 2001] Talnos says, 'k thanks i can easily get back the exp just dont wanna have to keep doing stuff i already did over'
+[Tue Oct 23 14:05:04 2001] Treborc says out of character, 'and u'
+[Tue Oct 23 14:05:11 2001] You GMSAY, '<note bug> Talnos AVVDMHF used camp desktop to log off, and did log off, woke up to find himself dead where he logged.'
+[Tue Oct 23 14:05:13 2001] Dearbhail tells you, 'is there a rule against lvl 50+'s killing everything in a zone?'
+[Tue Oct 23 14:05:16 2001] Bameen says, 'hi'
+[Tue Oct 23 14:05:21 2001] Treborc auctions, 'WTB Orc or Gnoll scalps....2pp each'
+[Tue Oct 23 14:05:32 2001] Talnos says, 'would it be possible to rez me and see if i get back all that exp you can slay me to take it away again if you like'
+[Tue Oct 23 14:05:33 2001] You told Dearbhail, 'if they are making it impossible for other people, yes.'
+[Tue Oct 23 14:05:36 2001] Kallaorf shouts, 'ORc group looking for more'
+[Tue Oct 23 14:05:52 2001] Gumb shouts, 'a healer if possible'
+[Tue Oct 23 14:05:54 2001] You say, 'No, I'm afraid I can't do that. You might seek the services of a cleric though.'
+[Tue Oct 23 14:06:02 2001] Players on EverQuest:
+[Tue Oct 23 14:06:02 2001] ---------------------------
+[Tue Oct 23 14:06:02 2001] There are no players in Highpass Hold that match those who filters.
+[Tue Oct 23 14:06:04 2001] Keuin shouts, 'any room pls at ledge'
+[Tue Oct 23 14:06:04 2001] Players in EverQuest:
+[Tue Oct 23 14:06:04 2001] ---------------------------
+[Tue Oct 23 14:06:04 2001] [37 Shaman] Dearbhail (Barbarian) <Hell Hunters> ZONE: rathemtn (USER PID DZU99FL)
+[Tue Oct 23 14:06:04 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:06:10 2001] Dearbhail tells you, 'there are like 5 lvl 50='s clearing area and ksing'
+[Tue Oct 23 14:06:25 2001] You told Dearbhail, 'please petition and I will be right there'
+[Tue Oct 23 14:06:35 2001] You say, 'sigh... must look after some giant killers.'
+[Tue Oct 23 14:06:52 2001] You say, 'I have forwarded the bug to the game masters'
+[Tue Oct 23 14:07:02 2001] You say, 'hopefully they will be able to shed some light on what happened'
+[Tue Oct 23 14:07:05 2001] Talnos says, 'k thanks'
+[Tue Oct 23 14:07:06 2001] Snapur says, 'nice swords or just druid spell'
+[Tue Oct 23 14:07:14 2001] You say, 'I'm a rogue!!!!!'
+[Tue Oct 23 14:07:15 2001] Talnos says, 'shes a gm'
+[Tue Oct 23 14:07:20 2001] You say, 'and a rogue!'
+[Tue Oct 23 14:07:27 2001] You GMSAY, 'zone'
+[Tue Oct 23 14:07:29 2001] You wave goodbye to Talnos.
+[Tue Oct 23 14:07:32 2001] You begin casting Sunset Home. (Sunset Home)
+[Tue Oct 23 14:07:32 2001] Your Belt of Translocation begins to glow.
+[Tue Oct 23 14:07:33 2001] LOADING, PLEASE WAIT...
+[Tue Oct 23 14:07:52 2001] You have entered Sunset Home.
+[Tue Oct 23 14:07:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 14:07:56 2001] USER TEXT: my charactor is experiencing memory loss pls help!
+[Tue Oct 23 14:07:56 2001] Players in EverQuest:
+[Tue Oct 23 14:07:56 2001] ---------------------------
+[Tue Oct 23 14:07:56 2001] [15 Bard] Talnos (Half Elf) <Hand of the Shadows> ZONE: highpass (USER PID AVVDMHF)
+[Tue Oct 23 14:07:56 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:07:57 2001] DELETING THIS PETITION
+[Tue Oct 23 14:07:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 14:07:59 2001] USER TEXT: farmin is againt policy aint it if so why the hell are 50+players in rathe mnts farmin cash off HGs
+[Tue Oct 23 14:08:00 2001] Players in EverQuest:
+[Tue Oct 23 14:08:00 2001] ---------------------------
+[Tue Oct 23 14:08:00 2001] [40 Ranger] Dadelian (Half Elf) <Hell Hunters> ZONE: rathemtn (USER PID EUZXUYF)
+[Tue Oct 23 14:08:00 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:08:14 2001] STATUS UPGRADED TO URGENT
+[Tue Oct 23 14:08:15 2001] CHECKING IN
+[Tue Oct 23 14:08:16 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 14:08:16 2001] USER TEXT: 4 lvl 50 plus' are clearing out area making it impossible for lower lvls to get exp
+[Tue Oct 23 14:08:17 2001] Players in EverQuest:
+[Tue Oct 23 14:08:17 2001] ---------------------------
+[Tue Oct 23 14:08:17 2001] [37 Shaman] Dearbhail (Barbarian) <Hell Hunters> ZONE: rathemtn (USER PID DZU99FL)
+[Tue Oct 23 14:08:17 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:08:20 2001] STATUS UPGRADED TO URGENT
+[Tue Oct 23 14:08:20 2001] Dearbhail tells you, 'me and a group mate petitioned at same time'
+[Tue Oct 23 14:08:21 2001] CHECKING IN
+[Tue Oct 23 14:08:27 2001] You told Dearbhail, 'yeah, I see them both'
+[Tue Oct 23 14:08:29 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 14:08:30 2001] USER TEXT: hello, my consent command do not work, what is the e mail  adress of EQ tech ?? please )
+[Tue Oct 23 14:08:30 2001] Players in EverQuest:
+[Tue Oct 23 14:08:30 2001] ---------------------------
+[Tue Oct 23 14:08:30 2001] [45 Shaman] Kenant (Barbarian) <Gardiens de Norrath> ZONE: commons (USER PID CSD7J18)
+[Tue Oct 23 14:08:30 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:08:41 2001] Searching zones for corpse of that name....
+[Tue Oct 23 14:08:48 2001] Searching zones for corpse of that name....
+[Tue Oct 23 14:08:49 2001] Dearbhail tells you, 'lol forgot to say what area sorry, in Rathe mountains'
+[Tue Oct 23 14:09:03 2001] You told Dearbhail, 'I knew :) I did a /who on you.'
+[Tue Oct 23 14:09:09 2001] Dearbhail tells you, 'hehe ok =)'
+[Tue Oct 23 14:09:20 2001] CHECKING IN
+[Tue Oct 23 14:09:22 2001] You GMSAY, 'zone'
+[Tue Oct 23 14:09:25 2001] You GMSAY, 'and hiding'
+[Tue Oct 23 14:09:27 2001] Players in EverQuest:
+[Tue Oct 23 14:09:27 2001] ---------------------------
+[Tue Oct 23 14:09:27 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Tue Oct 23 14:09:27 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:09:31 2001] ERROR: Couldn't get safe coords for rathemtns, unable to zone.
+
+[Tue Oct 23 14:09:36 2001] LOADING, PLEASE WAIT...
+[Tue Oct 23 14:10:04 2001] You have entered Rathe Mountains.
+[Tue Oct 23 14:10:08 2001] Espranza is now Invisible.
+[Tue Oct 23 14:10:08 2001] You are now anonymous.
+[Tue Oct 23 14:10:24 2001] Shaksimag says out of character, 'someone stole my skel now, jesus'
+[Tue Oct 23 14:10:32 2001] Fynian says out of character, 'no aggroed me '
+[Tue Oct 23 14:10:33 2001] Torahdane says out of character, 'lol'
+[Tue Oct 23 14:10:37 2001] Fynian says out of character, 'just brough it back to you'
+[Tue Oct 23 14:10:43 2001] Teleporting to dadelian.
+[Tue Oct 23 14:10:47 2001] You begin to sneak...
+[Tue Oct 23 14:10:47 2001] You are as quiet as a cat stalking its prey.
+[Tue Oct 23 14:10:50 2001] Shaksimag says out of character, 'Oh so nice of you, lemme bring my foot back to you ass....'
+[Tue Oct 23 14:11:02 2001] Torahdane says out of character, 'LOL'
+[Tue Oct 23 14:11:05 2001] Dearbhail says out of character, 'what?'
+[Tue Oct 23 14:11:12 2001] Torahdane regards you indifferently -- he appears to be quite formidable.
+[Tue Oct 23 14:11:12 2001] Fynian says out of character, '? excuse me?'
+[Tue Oct 23 14:11:13 2001] Dadelian says out of character, 'dude why not like um go to da kunark sunce  like it so damned much'
+[Tue Oct 23 14:11:24 2001] Shaksimag says out of character, 'lol, j/k =)'
+[Tue Oct 23 14:11:33 2001] Torahdane says out of character, 'he is kidding guys lol'
+[Tue Oct 23 14:11:36 2001] Shaksimag says out of character, 'i never said i liked kunark'
+[Tue Oct 23 14:11:41 2001] Dadelian begins to cast a spell. (Skin like Steel)
+[Tue Oct 23 14:11:42 2001] Fynian begins to cast a spell. (Snare)
+[Tue Oct 23 14:11:45 2001] Shaksimag says out of character, 'Hasten come back!!'
+[Tue Oct 23 14:11:50 2001] Dadelian begins to cast a spell. (Shield of Thistles)
+[Tue Oct 23 14:11:53 2001] Dearbhail begins to cast a spell. (Tagar's Insects)
+[Tue Oct 23 14:11:57 2001] Dadelian's spell fizzles!
+[Tue Oct 23 14:11:59 2001] Dadelian begins to cast a spell. (Grasping Roots)
+[Tue Oct 23 14:12:02 2001] Dearbhail begins to cast a spell. (Greater Healing)
+[Tue Oct 23 14:12:04 2001] Shaksimag says out of character, 'i want to give j00 a hug and gank a pair of jboots for my monk'
+[Tue Oct 23 14:12:06 2001] Fynian feels much better.
+[Tue Oct 23 14:12:20 2001] Dearbhail begins to cast a spell. (Tagar's Insects)
+[Tue Oct 23 14:12:20 2001] Torahdane says, 'you guys ok?'
+[Tue Oct 23 14:12:24 2001] Fynian says, 'yah'
+[Tue Oct 23 14:12:28 2001] Dadelian begins to cast a spell. (Shield of Thistles)
+[Tue Oct 23 14:12:31 2001] Fynian is surrounded by a thorny barrier.
+[Tue Oct 23 14:12:32 2001] Dearbhail begins to cast a spell. (Greater Healing)
+[Tue Oct 23 14:12:36 2001] Dadelian begins to cast a spell. (Bramblecoat)
+[Tue Oct 23 14:12:43 2001] Ciscoe begins to cast a spell. (Snare)
+[Tue Oct 23 14:13:05 2001] Teleporting to Torahdane (-167.87, 1497.47,  30.02).
+[Tue Oct 23 14:13:26 2001] Torahdane begins to cast a spell. (Captain Nalots Quickening)
+[Tue Oct 23 14:13:26 2001] Darkhound begins to cast a spell. (Ensnare)
+[Tue Oct 23 14:13:32 2001] Draiko auctions, 'WTS Lambent stone 2'
+[Tue Oct 23 14:13:39 2001] Teleporting to Torahdane (136.00, 2073.83,  66.52).
+[Tue Oct 23 14:13:42 2001] Torahdane begins to cast a spell. (Shroud of Hate)
+[Tue Oct 23 14:13:43 2001] A hill giant is washed over by a wave of shadows.
+[Tue Oct 23 14:13:43 2001] Torahdane is washed over by a wave of shadows.
+[Tue Oct 23 14:13:44 2001] Torahdane beams a smile at a hill giant.
+[Tue Oct 23 14:13:44 2001] Torahdane says, 'Ahhh, I feel much better now...'
+[Tue Oct 23 14:14:17 2001] You told Dearbhail, 'was it the Tolkien's Revenge players who were giving you problems?'
+[Tue Oct 23 14:14:36 2001] Torahdane begins to cast a spell. (Harm Touch)
+[Tue Oct 23 14:14:49 2001] Torahdane's spell fizzles!
+[Tue Oct 23 14:14:49 2001] a lizard man mystic begins to cast a spell. (Inner Fire)
+[Tue Oct 23 14:14:51 2001] Torahdane begins to cast a spell. (Invoke Fear)
+[Tue Oct 23 14:15:05 2001] Dearbhail tells you, 'it's the lvl 59 and 60 mages on hill that were ksing us'
+[Tue Oct 23 14:15:09 2001] Torahdane begins to cast a spell. (Life Leech)
+[Tue Oct 23 14:15:18 2001] Shaksimag says out of character, 'OMG, 2 lvl 60's here now... good god'
+[Tue Oct 23 14:15:27 2001] Dearbhail tells you, 'and killing everything in sight'
+[Tue Oct 23 14:15:41 2001] Players on EverQuest:
+[Tue Oct 23 14:15:41 2001] ---------------------------
+[Tue Oct 23 14:15:41 2001] [60 Arch Mage] Maxius (Erudite) <Flames of Vengeance>
+[Tue Oct 23 14:15:41 2001] [52 Elementalist] Shaksimag (High Elf) LFG
+[Tue Oct 23 14:15:41 2001] There are 2 players in Mountains of Rathe.
+[Tue Oct 23 14:15:41 2001] Grayfrost says out of character, 'A 52 not much better Shak'
+[Tue Oct 23 14:15:50 2001] Shaksimag says out of character, 'ummm yeah...'
+[Tue Oct 23 14:16:06 2001] Players in EverQuest:
+[Tue Oct 23 14:16:06 2001] ---------------------------
+[Tue Oct 23 14:16:06 2001] [52 Elementalist] Shaksimag (High Elf) ZONE: rathemtn (USER PID FXNZH5Q) LFG
+[Tue Oct 23 14:16:06 2001] [60 Arch Mage] Maxius (Erudite) <Flames of Vengeance> ZONE: rathemtn (USER PID HM8UWHJ)
+[Tue Oct 23 14:16:06 2001] There are 2 players in EverQuest.
+[Tue Oct 23 14:16:12 2001] Teleporting to shaksimag.
+[Tue Oct 23 14:16:15 2001] Surlarz says out of character, 'whats wrong with 2 lvl 60's they may save your but at some point'
+[Tue Oct 23 14:16:15 2001] Aramelus says out of character, 'great exp off the level 32 mobs i'd bet at level 50+'
+[Tue Oct 23 14:16:24 2001] Shaksimag says out of character, '/sigh'
+[Tue Oct 23 14:16:26 2001] Teleporting to shaksimag.
+[Tue Oct 23 14:16:34 2001] Teleporting to shaksimag.
+[Tue Oct 23 14:17:18 2001] Surlarz says out of character, 'dont heal me'
+[Tue Oct 23 14:17:28 2001] Surlarz says out of character, 'wrong tell hehehee(:'
+[Tue Oct 23 14:17:51 2001] Teleporting to Shaksimag (294.10, 1324.32, 131.92).
+[Tue Oct 23 14:17:58 2001] Shaksimag says out of character, '/sigh'
+[Tue Oct 23 14:18:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 14:18:05 2001] USER TEXT: farmin is againt policy aint it if so why the hell are 50+players in rathe mnts farmin cash off HGs
+[Tue Oct 23 14:18:05 2001] Players in EverQuest:
+[Tue Oct 23 14:18:05 2001] ---------------------------
+[Tue Oct 23 14:18:05 2001] [40 Ranger] Dadelian (Half Elf) <Hell Hunters> ZONE: rathemtn (USER PID EUZXUYF)
+[Tue Oct 23 14:18:05 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:18:16 2001] Shaksimag begins to cast a spell. (Char)
+[Tue Oct 23 14:18:21 2001] Darkhound begins to cast a spell. (Starfire)
+[Tue Oct 23 14:18:51 2001] Espranza is now Visible.
+[Tue Oct 23 14:18:53 2001] You are no longer anonymous.
+[Tue Oct 23 14:19:50 2001] Draiko auctions, 'WTS 2 lambent stones'
+[Tue Oct 23 14:20:18 2001] You told Dadelian, 'Hail, Dadelian! Guide Espranza here. Farming isn't illegal... anyone may kill any monster in EQ, if they can. However, killing all the monsters and not letting anyone else have any isn't allowed. It does not appear this is the case - I've'
+[Tue Oct 23 14:20:27 2001] You told Dadelian, 'run around and seen every group with giants.'
+[Tue Oct 23 14:20:46 2001] DELETING THIS PETITION
+[Tue Oct 23 14:20:47 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 14:20:48 2001] USER TEXT: 4 lvl 50 plus' are clearing out area making it impossible for lower lvls to get exp
+[Tue Oct 23 14:20:48 2001] Players in EverQuest:
+[Tue Oct 23 14:20:48 2001] ---------------------------
+[Tue Oct 23 14:20:48 2001] [37 Shaman] Dearbhail (Barbarian) <Hell Hunters> ZONE: rathemtn (USER PID DZU99FL)
+[Tue Oct 23 14:20:48 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:20:53 2001] Fynian says out of character, 'got to love levle 60's killing 2 at a time'
+[Tue Oct 23 14:21:03 2001] Dadelian tells you, 'k but the mage on top hill has ksed our group on more than 1 occassion'
+[Tue Oct 23 14:21:12 2001] You stop sneaking.
+[Tue Oct 23 14:21:12 2001] You feel the spirit of Norrath enter you.
+[Tue Oct 23 14:21:26 2001] You told Dadelian, 'the level 60 one? he didn't attack anything in the past ten minutes.'
+[Tue Oct 23 14:21:36 2001] You told Dadelian, 'I'm sure he's planning on it'
+[Tue Oct 23 14:21:45 2001] You told Dadelian, 'but he didn't appear to be deliberately KSing people'
+[Tue Oct 23 14:21:59 2001] Fynian feels much faster.
+[Tue Oct 23 14:22:01 2001] Dadelian begins to cast a spell. (CallOfSkyEffect)
+[Tue Oct 23 14:22:03 2001] Dearbhail begins to cast a spell. (Quickness)
+[Tue Oct 23 14:22:12 2001] Dearbhail begins to cast a spell. (Greater Healing)
+[Tue Oct 23 14:22:13 2001] Dadelian tells you, 'can u tell em to then keep his pet on shorter leash my friend said his pet ksed em 2 times at least'
+[Tue Oct 23 14:22:14 2001] You told Dadelian, 'And I've seen your group with a steady supply of giants...'
+[Tue Oct 23 14:22:18 2001] Dearbhail begins to cast a spell. (Greater Healing)
+[Tue Oct 23 14:22:20 2001] Dadelian begins to cast a spell. (CallOfSkyEffect)
+[Tue Oct 23 14:22:26 2001] Dearbhail begins to cast a spell. (Greater Healing)
+[Tue Oct 23 14:22:30 2001] Baldyos shouts, 'can anyone TP or Gate here to Greater Faydark or BB - will pay'
+[Tue Oct 23 14:22:33 2001] Dearbhail begins to cast a spell. (Cannibalize)
+[Tue Oct 23 14:22:34 2001] You told Dadelian, 'I'll ask him to take better care...'
+[Tue Oct 23 14:22:36 2001] Players on EverQuest:
+[Tue Oct 23 14:22:36 2001] ---------------------------
+[Tue Oct 23 14:22:36 2001] [60 Arch Mage] Maxius (Erudite) <Flames of Vengeance>
+[Tue Oct 23 14:22:36 2001] [60 Hierophant] Aolron (Unknown) <United Guardians>
+[Tue Oct 23 14:22:36 2001] There are 2 players in Mountains of Rathe.
+[Tue Oct 23 14:22:38 2001] Dearbhail begins to cast a spell. (Cannibalize)
+[Tue Oct 23 14:22:43 2001] Dearbhail begins to cast a spell. (Cannibalize)
+[Tue Oct 23 14:22:47 2001] Dearbhail's spell fizzles!
+[Tue Oct 23 14:22:49 2001] Dearbhail begins to cast a spell. (Cannibalize)
+[Tue Oct 23 14:22:53 2001] Dearbhail begins to cast a spell. (Greater Healing)
+[Tue Oct 23 14:23:04 2001] Dadelian tells you, 'lol id hope we could get one or 2 on ocassion got 2  37+ lvl rangers takin turns tracking'
+[Tue Oct 23 14:23:14 2001] Rallistar shouts, 'looking for HG group send tells please'
+[Tue Oct 23 14:23:29 2001] Baldyos shouts, 'can anyone TP or Gate here to Greater Faydark or BB - will pay'
+[Tue Oct 23 14:23:54 2001] You told Maxius, 'Hail, Maxius! Guide Espranza here. While it's perfectly okay for you to be killing HGs for cash here, could you please take better care in making sure you don't send your pet after an aggroed giant please?'
+[Tue Oct 23 14:24:09 2001] Shaksimag says out of character, 'Is Ukla a quest mob?'
+[Tue Oct 23 14:24:36 2001] Baldyos shouts, 'can anyone TP or Gate here to Greater Faydark or BB - will pay'
+[Tue Oct 23 14:24:48 2001] Stoker begins to cast a spell. (Greater Healing)
+[Tue Oct 23 14:24:49 2001] Maxius tells you, 'i didnt  mob aggro when he chasing someone'
+[Tue Oct 23 14:24:52 2001] Tyrannia feels much better.
+[Tue Oct 23 14:25:01 2001] Shaco shouts, 'Lvl 30 paladin lfg'
+[Tue Oct 23 14:25:04 2001] Maxius tells you, 'i will do my best to avoid that'
+[Tue Oct 23 14:25:14 2001] You told Maxius, 'thank you, that's all I ask. be well and good luck!'
+[Tue Oct 23 14:25:16 2001] Shaco shouts, 'Lvl 30 paladin lfg'
+[Tue Oct 23 14:25:28 2001] You told Dearbhail, 'Okay, I talked with the mage, he'll keep better track of his pet from now on.'
+[Tue Oct 23 14:25:31 2001] Maxius tells you, 'np ) take care )'
+[Tue Oct 23 14:25:38 2001] DELETING THIS PETITION
+[Tue Oct 23 14:25:40 2001] Shaco shouts, 'Lvl 30 paladin lfg'
+[Tue Oct 23 14:25:41 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 14:25:41 2001] Dearbhail tells you, 'ok'
+[Tue Oct 23 14:25:41 2001] USER TEXT: hello, my consent command do not work, what is the e mail  adress of EQ tech ?? please )
+[Tue Oct 23 14:25:41 2001] Players in EverQuest:
+[Tue Oct 23 14:25:41 2001] ---------------------------
+[Tue Oct 23 14:25:41 2001] [45 Shaman] Kenant (Barbarian) <Gardiens de Norrath> ZONE: freportw (USER PID CSD7J18)
+[Tue Oct 23 14:25:41 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:26:03 2001] Dearbhail tells you, 'he himself attacked things we were pulling'
+[Tue Oct 23 14:26:23 2001] You told Kenant, 'Hail, Kenant! Guide Espranza here. The email of EQ tech support is eqmail@soe.sony.com - please be clear in the email, though, what the problem is.'
+[Tue Oct 23 14:26:25 2001] Dearbhail tells you, 'they were to far away for the pet to have aggroed'
+[Tue Oct 23 14:26:40 2001] Kenant tells you, 'thank you ))'
+[Tue Oct 23 14:26:46 2001] You told Kenant, 'be well and good luck!'
+[Tue Oct 23 14:26:47 2001] Shaksimag says out of character, 'Ohh, a gm =)'
+[Tue Oct 23 14:27:27 2001] You told Dearbhail, 'well I didn't see him do it while I was shadowing him... if it looks as if he is deliberately pulling your giants, let meknow.'
+[Tue Oct 23 14:27:30 2001] DELETING THIS PETITION
+[Tue Oct 23 14:27:32 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 14:27:32 2001] USER TEXT: my keys and backpack where destroyed by canceling a trade ((
+[Tue Oct 23 14:27:32 2001] Players in EverQuest:
+[Tue Oct 23 14:27:32 2001] ---------------------------
+[Tue Oct 23 14:27:32 2001] [ANON (51 Heretic)] Arraki (Erudite) ZONE: feerrott (USER PID ER7TBYL)
+[Tue Oct 23 14:27:32 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:27:48 2001] Shaco shouts, 'Can anyone use a lvl 30 paladin?'
+[Tue Oct 23 14:27:49 2001] Dearbhail tells you, 'ok I'll tell ya if it happens again'
+[Tue Oct 23 14:28:09 2001] You told Dearbhail, 'lets hope it doesn't... everyone knows by now I'm watching :)'
+[Tue Oct 23 14:28:19 2001] Dearbhail tells you, 'doubt he'd try it while your in zone'
+[Tue Oct 23 14:28:39 2001] You told Dearbhail, 'I have the ability to not appear on /who when I like'
+[Tue Oct 23 14:28:57 2001] Espranza saved.
+[Tue Oct 23 14:29:04 2001] Dearbhail tells you, 'oh ok =)'
+[Tue Oct 23 14:29:40 2001] You told Arraki, 'Hail, Arraki! Guide Espranza here. were your keys and backpack part of the trade?'
+[Tue Oct 23 14:31:16 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Oct 23 14:31:18 2001] CHECKING IN
+[Tue Oct 23 14:31:19 2001] Arraki tells you, 'i took sow boots out of my keys backpack and put em in general wanted to activate but pushed by accident backpack on pet so i cancelt trade window and in my inventory or on ground no backpack ?? (('
+[Tue Oct 23 14:31:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 14:31:37 2001] USER TEXT: my keys and backpack where destroyed by canceling a trade ((
+[Tue Oct 23 14:31:37 2001] Players in EverQuest:
+[Tue Oct 23 14:31:37 2001] ---------------------------
+[Tue Oct 23 14:31:38 2001] [ANON (51 Heretic)] Arraki (Erudite) ZONE: innothule (USER PID ER7TBYL)
+[Tue Oct 23 14:31:38 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:31:51 2001] You told Arraki, 'do you suspect you traded the items to your pet by accident?'
+[Tue Oct 23 14:32:00 2001] Arraki tells you, 'im sure i DIDNT'
+[Tue Oct 23 14:32:15 2001] Arraki tells you, 'otherwise i would have no reason to complain either'
+[Tue Oct 23 14:32:41 2001] You told Arraki, 'just checking... okay, I'll escalate this to the GM, he will answer it when he gets on in about an hour.'
+[Tue Oct 23 14:32:50 2001] Arraki tells you, 'k thx '
+[Tue Oct 23 14:32:50 2001] STATUS UPGRADED TO URGENT
+[Tue Oct 23 14:32:51 2001] STATUS UPGRADED TO EMERGENCY
+[Tue Oct 23 14:34:31 2001] You told Arraki, 'sec, you put your boots in the slot where your bag was, then accidentally started a trade with your pet, which you cancelled, but your pack was lost?'
+[Tue Oct 23 14:34:56 2001] Arraki tells you, 'exactly '
+[Tue Oct 23 14:35:01 2001] You told Arraki, 'gotcha'
+[Tue Oct 23 14:35:06 2001] Arraki tells you, 'zoning'
+[Tue Oct 23 14:35:56 2001] Arraki tells you, 'i think it should end up my mousepointer because of the nodrop keys'
+[Tue Oct 23 14:36:20 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Oct 23 14:36:33 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Oct 23 14:36:33 2001] GM TEXT: Espranza: drop items (keys), the bag poofed.
+[Tue Oct 23 14:36:55 2001] You told Arraki, 'that's not how the game works, though. it'll be up to the GM to see what can be done.'
+[Tue Oct 23 14:37:07 2001] Arraki tells you, 'oki thx again'
+[Tue Oct 23 14:37:12 2001] You told Arraki, 'sure thing - and good luck!'
+[Tue Oct 23 14:37:18 2001] Arraki tells you, 'you to '
+[Tue Oct 23 14:38:51 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Tue Oct 23 14:38:53 2001] GM TEXT: Espranza: replaced pack containing nodrop keys with sow boots to activate, accidentally initiated trade with pet, cancelled tradem, bag poofed (no room, contained no drop items). I told petitioner perhaps nothing could be done... but just in case... I'm escalating.
+[Tue Oct 23 14:39:01 2001] CHECKING IN
+[Tue Oct 23 14:39:04 2001] Espranza saved.
+[Tue Oct 23 14:39:32 2001] It is 2 AM on Monday, the 23rd day of June, of the year 3215.
+[Tue Oct 23 14:39:32 2001] Earth Time: Tue Oct 23 14:39:32 2001
+[Tue Oct 23 14:39:40 2001] You GMSAY, 'zone'
+[Tue Oct 23 14:39:43 2001] You begin casting Sunset Home. (Sunset Home)
+[Tue Oct 23 14:39:43 2001] Your Belt of Translocation begins to glow.
+[Tue Oct 23 14:39:44 2001] LOADING, PLEASE WAIT...
+[Tue Oct 23 14:40:03 2001] You have entered Sunset Home.
+[Tue Oct 23 14:41:16 2001] Galaron tells you, 'hello sir! where is cshome where this iam just asking because i shall be guide to?'
+[Tue Oct 23 14:41:59 2001] You told Galaron, 'Well, Galaron, you should never, ever tell a guide or GM that you are or will be a guide on this or another server.'
+[Tue Oct 23 14:42:20 2001] Galaron tells you, 'ok iam sorry sir i dont mean that sorry'
+[Tue Oct 23 14:42:43 2001] You told Galaron, 'CSHome is a separate zone given to guides, it is not connected to any other zone in Norrath.'
+[Tue Oct 23 14:42:58 2001] Galaron tells you, 'you should not tell sir'
+[Tue Oct 23 14:43:36 2001] You told Galaron, 'Heh... it's okay to tell that, but we as players never tell guides and GMs that we are guides or GMs.'
+[Tue Oct 23 14:44:22 2001] Galaron tells you, 'ok thnx i just waiting for a answer'
+[Tue Oct 23 14:44:29 2001] You told Galaron, 'good luck!'
+[Tue Oct 23 14:44:45 2001] Galaron tells you, 'thnx maybe we meet when i become a guide'
+[Tue Oct 23 14:45:13 2001] You told Galaron, 'Perhaps, life is long and time is short, who knows?'
+[Tue Oct 23 14:45:38 2001] Players in EverQuest:
+[Tue Oct 23 14:45:38 2001] ---------------------------
+[Tue Oct 23 14:45:38 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Tue Oct 23 14:45:38 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:45:40 2001] Galaron tells you, 'yeah hehe...'
+[Tue Oct 23 14:47:20 2001] Your protection fades.
+[Tue Oct 23 14:48:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Oct 23 14:48:00 2001] USER TEXT: I just went link dead, and when I came back I was dead can you help me please
+[Tue Oct 23 14:48:00 2001] Players in EverQuest:
+[Tue Oct 23 14:48:00 2001] ---------------------------
+[Tue Oct 23 14:48:00 2001] [51 Heretic] Yaskel (Dark Elf) <House Rea`Morda> ZONE: eastwastes (USER PID GTSB3WW)
+[Tue Oct 23 14:48:00 2001] There is 1 player in EverQuest.
+[Tue Oct 23 14:48:38 2001] You told Yaskel, 'Hail, Yaskel! Guide Espranza here. I'm sorry, we cannot rez for deaths caused by link death or lag.'
+[Tue Oct 23 14:48:49 2001] Yaskel tells you, 'why not?'
+[Tue Oct 23 14:49:54 2001] Swiftmoor GMSAYS, 'Hello everyone '
+[Tue Oct 23 14:49:57 2001] You told Yaskel, 'because lag and link death is not something under game control, it can happen anywhere through the Internet or on your computer. And it is easily simulated by just type /quit or disconnecting your modem line.'
+[Tue Oct 23 14:50:00 2001] You GMSAY, 'hiya!'
+[Tue Oct 23 14:50:09 2001] Espranza saved.
+[Tue Oct 23 14:50:11 2001] Players in EverQuest:
+[Tue Oct 23 14:50:11 2001] ---------------------------
+[Tue Oct 23 14:50:12 2001] * Guide *[51 Disciple] Swiftmoor (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID EUUWZVJ)
+[Tue Oct 23 14:50:12 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Tue Oct 23 14:50:12 2001] There are 2 players in EverQuest.
+[Tue Oct 23 14:50:28 2001] Galaron tells you, 'cya god hunting sir'
+[Tue Oct 23 14:50:30 2001] Yaskel tells you, 'hmm I understand, you realise how annoying it is however? ('
+[Tue Oct 23 14:51:03 2001] You told Yaskel, 'Oh THAT I realize. As a player I've been killed by it. As usual, though, it is those who would abuse it who ruin it for everyone.'
+[Tue Oct 23 14:51:08 2001] Swiftmoor GMSAYS, 'arghh, was fighting Lirus and Abbadabba last night and the power went out :('
+[Tue Oct 23 14:51:44 2001] You GMSAY, 'it's good that you're here, I was just about to leave - school called and I must pick up my son.'
+[Tue Oct 23 14:51:54 2001] Yaskel tells you, 'yes, I hate people like that, it makes things like this when it happens to me even more annoying'
+[Tue Oct 23 14:51:57 2001] Swiftmoor GMSAYS, 'glad to be here :)'
+[Tue Oct 23 14:52:12 2001] You told Yaskel, 'be well and best of luck, though'
+[Tue Oct 23 14:52:16 2001] Yaskel tells you, 'anychance you could transport me to my body? )'
+[Tue Oct 23 14:52:25 2001] You told Yaskel, 'no, we cannot do that.'
+[Tue Oct 23 14:52:32 2001] Yaskel tells you, 'hmm ok thanks anyway'
+[Tue Oct 23 14:52:36 2001] You GMSAY, 'just finishing this pet'
+[Tue Oct 23 14:52:40 2001] DELETING THIS PETITION
+[Tue Oct 23 14:52:49 2001] You GMSAY, 'sorry to leave you with such a full queue :)'
+[Tue Oct 23 14:52:53 2001] Swiftmoor GMSAYS, 'ok, have a good night.'
+[Tue Oct 23 14:53:02 2001] You GMSAY, 'I'll be back, shift tonight'
+[Tue Oct 23 14:53:03 2001] Swiftmoor GMSAYS, 'hehe.  I think I'll survive.'
+[Tue Oct 23 14:53:12 2001] Swiftmoor GMSAYS, 'I'm only on for an hour today.'
+[Tue Oct 23 14:53:22 2001] You GMSAY, 'next Tuesday we'll be doing appie training however'
+[Tue Oct 23 14:53:29 2001] Swiftmoor GMSAYS, 'okie.'
+[Tue Oct 23 14:53:58 2001] It will take you about 30 seconds to prepare your camp.
+[Tue Oct 23 14:54:02 2001] It will take about 25 more seconds to prepare your camp.
+[Tue Oct 23 14:54:03 2001] You GMSAY, 'I'm off - see ya later!'
+[Tue Oct 23 14:54:07 2001] It will take about 20 more seconds to prepare your camp.
+[Tue Oct 23 14:54:12 2001] It will take about 15 more seconds to prepare your camp.
+[Tue Oct 23 14:54:16 2001] Swiftmoor GMSAYS, 'Later Esp'
+[Tue Oct 23 14:54:17 2001] It will take about 10 more seconds to prepare your camp.
+[Tue Oct 23 14:54:22 2001] It will take about 5 more seconds to prepare your camp.
+[Tue Oct 23 14:54:23 2001] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Tue Oct 23 14:54:24 2001] Players in EverQuest:
+[Tue Oct 23 14:54:24 2001] ---------------------------
+[Tue Oct 23 14:54:24 2001] * Guide *[51 Disciple] Swiftmoor (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID EUUWZVJ)
+[Tue Oct 23 14:54:24 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Tue Oct 23 14:54:24 2001] There are 2 players in EverQuest.
+[Tue Oct 23 14:54:24 2001] Players in EverQuest:
+[Tue Oct 23 14:54:24 2001] ---------------------------
+[Tue Oct 23 14:54:24 2001] * Guide *[51 Disciple] Swiftmoor (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID EUUWZVJ)
+[Tue Oct 23 14:54:24 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Tue Oct 23 14:54:24 2001] There are 2 players in EverQuest.

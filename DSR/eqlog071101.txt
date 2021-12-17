@@ -1,0 +1,622 @@
+[Wed Jul 11 19:38:34 2001] Logging to 'eqlog.txt' is now *ON*.
+[Wed Jul 11 19:38:36 2001] Players in EverQuest:
+[Wed Jul 11 19:38:36 2001] ---------------------------
+[Wed Jul 11 19:38:36 2001] * Apprentice Guide *[ANON (20 Cleric)] Hameka (Dwarf) ZONE: butcher (USER PID BQ8GUQA)
+[Wed Jul 11 19:38:36 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Wed Jul 11 19:38:36 2001] * Apprentice Guide *[ANON (20 Cleric)] Fweep (Halfling) ZONE: gfaydark (USER PID GVG08NU)
+[Wed Jul 11 19:38:36 2001] * Senior Guide *[55 Blackguard] Rynara (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID CSRJPKB)
+[Wed Jul 11 19:38:36 2001] * Apprentice Guide *[20 Wizard] Savlyn (High Elf) ZONE: gfaydark (USER PID GQWD9EE)
+[Wed Jul 11 19:38:36 2001] * Apprentice Guide *[20 Warrior] Katsuhiro (Troll) ZONE: oasis (USER PID BREDR8S)
+[Wed Jul 11 19:38:36 2001] There are 6 players in EverQuest.
+[Wed Jul 11 19:38:51 2001] Fweep GMSAYS, 'long story short.. on my server.. spent 2 weeks doing a quest... lost everything to a "thank you for giving me item" and get no reinbursement of course from our side'
+[Wed Jul 11 19:38:54 2001] Savlyn GMSAYS, 'You need help Fweep??'
+[Wed Jul 11 19:39:28 2001] Hameka GMSAYS, 'Apprentice Guide Hameka here looking for a mentor.....'
+[Wed Jul 11 19:39:39 2001] Savlyn GMSAYS, 'Hiya Hameka =)'
+[Wed Jul 11 19:39:39 2001] You GMSAY, 'hiya Hameka!'
+[Wed Jul 11 19:39:45 2001] Katsuhiro GMSAYS, 'hiya Hameka'
+[Wed Jul 11 19:39:50 2001] Hameka GMSAYS, 'hello everyone '
+[Wed Jul 11 19:40:07 2001] Rynara GMSAYS, 'hi hi'
+[Wed Jul 11 19:40:28 2001] Hameka GMSAYS, 'want me to go ahead and pull or wait to get picked up ??'
+[Wed Jul 11 19:40:49 2001] Fweep GMSAYS, 'bye all'
+[Wed Jul 11 19:41:07 2001] Hameka GMSAYS, 'Byee Fweep'
+[Wed Jul 11 19:41:10 2001] Savlyn GMSAYS, 'Take Care Fweep =('
+[Wed Jul 11 19:41:17 2001] You GMSAY, 'I'll get ya Hameka'
+[Wed Jul 11 19:41:18 2001] You GMSAY, 'zone'
+[Wed Jul 11 19:41:22 2001] Teleporting to Hameka.
+[Wed Jul 11 19:41:22 2001] LOADING, PLEASE WAIT...
+[Wed Jul 11 19:42:39 2001] You have entered Butcherblock Mountains.
+[Wed Jul 11 19:42:53 2001] You invite Hameka to join your group.
+[Wed Jul 11 19:42:56 2001] You have formed the group.
+[Wed Jul 11 19:43:07 2001] You feel the spirit of Norrath enter you.
+[Wed Jul 11 19:43:11 2001] Hameka tells the group, 'hello'
+[Wed Jul 11 19:43:13 2001] You tell your party, 'hi! how are you today?'
+[Wed Jul 11 19:43:23 2001] Hameka tells the group, 'so far ok :) '
+[Wed Jul 11 19:43:26 2001] Hameka tells the group, 'how bout you??'
+[Wed Jul 11 19:43:45 2001] You tell your party, 'pretty good :) just came in to see if the queue needed help, looks like it could use some'
+[Wed Jul 11 19:43:49 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 11 19:43:49 2001] USER TEXT: can not find corpse
+[Wed Jul 11 19:43:49 2001] Players in EverQuest:
+[Wed Jul 11 19:43:49 2001] ---------------------------
+[Wed Jul 11 19:43:50 2001] [20 Warrior] Tankman (Barbarian) ZONE: overthere (USER PID ATE9G8V)
+[Wed Jul 11 19:43:50 2001] There is 1 player in EverQuest.
+[Wed Jul 11 19:43:51 2001] Hameka tells the group, 'looks like i best get ta work :)'
+[Wed Jul 11 19:43:53 2001] Searching zones for corpse of that name....
+[Wed Jul 11 19:43:53 2001] Corpse: Tankman's corpse0 in zone: overthere
+[Wed Jul 11 19:43:55 2001] You GMSAY, 'zone'
+[Wed Jul 11 19:43:59 2001] LOADING, PLEASE WAIT...
+[Wed Jul 11 19:44:53 2001] Cavante shouts, 'group needs tank 30s'
+[Wed Jul 11 19:44:53 2001] a Kunark rhino died.
+[Wed Jul 11 19:44:53 2001] Chrisking shouts, '19 cleric LFG'
+[Wed Jul 11 19:44:53 2001] a stoneleer cockatrice died.
+[Wed Jul 11 19:44:58 2001] You have entered The Overthere.
+[Wed Jul 11 19:44:59 2001] You have formed the group.
+[Wed Jul 11 19:45:07 2001] Teleporting to tankman's corpse0.
+[Wed Jul 11 19:45:19 2001] Ainadr shouts, '22 Necro LFG'
+[Wed Jul 11 19:45:30 2001] You told Tankman, 'Hail, Tankman! Guide Espranza here. Ready for a rez?'
+[Wed Jul 11 19:45:34 2001] Savlyn GMSAYS, 'Deleting Gnip - Feedback Noted'
+[Wed Jul 11 19:45:44 2001] Savlyn GMSAYS, 'Pulling Uriel'
+[Wed Jul 11 19:45:46 2001] Enchendo shouts, 'why would a 22 necro need a group here??'
+[Wed Jul 11 19:45:50 2001] Rynara GMSAYS, 'zone'
+[Wed Jul 11 19:45:53 2001] You GMSAY, 'Rynara, Tankman needs nerfing'
+[Wed Jul 11 19:45:54 2001] Tankman tells you, 'yes'
+[Wed Jul 11 19:46:04 2001] Ainadr shouts, 'because i get more xp when I dont have to med so much'
+[Wed Jul 11 19:46:30 2001] Katsuhiro GMSAYS, 'back'
+[Wed Jul 11 19:46:41 2001] Katsuhiro GMSAYS, 'pulling Lorakthor'
+[Wed Jul 11 19:46:43 2001] Players in EverQuest:
+[Wed Jul 11 19:46:43 2001] ---------------------------
+[Wed Jul 11 19:46:43 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 11 19:47:14 2001] Tangrisner shouts, '26 level warrior looking for group'
+[Wed Jul 11 19:47:17 2001] Sweett says out of character, 'NOOKIE!'
+[Wed Jul 11 19:47:17 2001] Kraylon says out of character, 'W00t!'
+[Wed Jul 11 19:47:19 2001] You GMSAY, '<note badname> Tankman ATE9G8V'
+[Wed Jul 11 19:47:23 2001] Kraylon says out of character, 'NO NOOKIE FOR J 0 0 !!!'
+[Wed Jul 11 19:47:34 2001] Sweett says out of character, '/bird Kraylon'
+[Wed Jul 11 19:47:38 2001] Brothernook says out of character, 'Hi Sweett'
+[Wed Jul 11 19:47:40 2001] Savlyn GMSAYS, 'Does anyone know of an item Tome  in tower of frost? player claims he looted it but its not in inventory ..just wondering if its a container?'
+[Wed Jul 11 19:47:41 2001] DELETING THIS PETITION
+[Wed Jul 11 19:47:51 2001] Sweett says out of character, 'hiya )'
+[Wed Jul 11 19:47:57 2001] Hameka tells the group, 'I have a player that makes peanut butter so chose the surname Nutgrinder..... and everyone is telling him it is offensive... he wants to change it but hasn't gotten a new one yet.... <<<lookin at notes for name changes> >> ahh can it just be removed ??'
+[Wed Jul 11 19:48:01 2001] You GMSAY, 'Tome of Frost. Tell him to check his range slot.'
+[Wed Jul 11 19:48:02 2001] Sliesti shouts, 'level check on Scorpikis'
+[Wed Jul 11 19:48:07 2001] Chrisking says out of character, '35 eveyone one of them HT'
+[Wed Jul 11 19:48:11 2001] You tell your party, 'It's a legal surname...'
+[Wed Jul 11 19:48:31 2001] Sliesti shouts, 'thanks'
+[Wed Jul 11 19:48:33 2001] Hameka tells the group, 'ok ... he says others keep telling him it is offensive'
+[Wed Jul 11 19:48:48 2001] You tell your party, 'hmmm... well maybe it is...'
+[Wed Jul 11 19:48:59 2001] You tell your party, 'I guess I can see how it would be. Esc it to red for Ryn.'
+[Wed Jul 11 19:49:09 2001] Rynara GMSAYS, 'zone'
+[Wed Jul 11 19:49:14 2001] Hameka tells the group, 'ok cool thanks'
+[Wed Jul 11 19:49:17 2001] Tankman tells you, 'thx'
+[Wed Jul 11 19:49:20 2001] You say, 'Hiya!'
+[Wed Jul 11 19:49:23 2001] Katsuhiro GMSAYS, 'deleting Lorakthor - unavail 3'
+[Wed Jul 11 19:49:27 2001] You say, 'loot your stuff and I'll take you out'
+[Wed Jul 11 19:49:28 2001] Katsuhiro GMSAYS, 'pulling Jaysen'
+[Wed Jul 11 19:49:38 2001] Tankman tells you, 'were em i'
+[Wed Jul 11 19:49:38 2001] Lategrey shouts, 'Watch out, naked lady comming through!'
+[Wed Jul 11 19:49:43 2001] Maxximuus says out of character, 'watching'
+[Wed Jul 11 19:49:43 2001] Sentow says out of character, 'Oo la la'
+[Wed Jul 11 19:49:49 2001] Aphyon says out of character, 'wait up '
+[Wed Jul 11 19:49:54 2001] Varg Stonebelly shouts 'Da Bloated Belly is be coming soon!  Barsh faster if you has to go! 
+[Wed Jul 11 19:49:54 2001] You told Tankman, 'beneath the world :)'
+[Wed Jul 11 19:50:00 2001] Venlaen says out of character, 'i would say they higher than 35 i conned one at 40 and it was strill red'
+[Wed Jul 11 19:50:01 2001] Lategrey says out of character, 'I'm in the outpost'
+[Wed Jul 11 19:50:09 2001] Danthur says out of character, 'What type o lady?'
+[Wed Jul 11 19:50:11 2001] Tankman tells you, 'wow'
+[Wed Jul 11 19:50:11 2001] You say to your guild, 'Hi Ryn'
+[Wed Jul 11 19:50:20 2001] Lategrey says out of character, 'a naked one'
+[Wed Jul 11 19:50:24 2001] Aphyon says out of character, 'come by golem'
+[Wed Jul 11 19:50:25 2001] Rynara tells the guild, 'hehe hi'
+[Wed Jul 11 19:50:25 2001] You told Tankman, 'we have to change your name - can't have titles in the first name'
+[Wed Jul 11 19:50:26 2001] Danthur says out of character, 'Elf?'
+[Wed Jul 11 19:50:34 2001] Rynara tells the guild, 'whats going on?'
+[Wed Jul 11 19:50:41 2001] Xasanak says out of character, 'the scorp guards remain red at 40  ones in pit are 35'
+[Wed Jul 11 19:50:45 2001] You say to your guild, 'just rezzed him'
+[Wed Jul 11 19:50:47 2001] Serazade shouts, '37 Wiz LFG'
+[Wed Jul 11 19:50:50 2001] You say to your guild, 'about to fish him out'
+[Wed Jul 11 19:51:03 2001] Hameka GMSAYS, 'escalated pet for Alesim to red for Surname Change'
+[Wed Jul 11 19:51:04 2001] Rynara tells the guild, 'ok then I will do the name'
+[Wed Jul 11 19:51:08 2001] Chrisking says out of character, 'named scorpikus are blue at lvl 49'
+[Wed Jul 11 19:51:10 2001] Players on EverQuest:
+[Wed Jul 11 19:51:10 2001] ---------------------------
+[Wed Jul 11 19:51:10 2001] [37 Wizard] Serazade (High Elf) <Royal Jesters>
+[Wed Jul 11 19:51:10 2001] [13 Wizard] Dvida (High Elf)
+[Wed Jul 11 19:51:10 2001] * GM * [55 Blackguard] Rynara (Human) <Keepers of Morell Thule>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Sabten 
+[Wed Jul 11 19:51:10 2001] [36 Ranger] Meril (Wood Elf) <Revered Souls>
+[Wed Jul 11 19:51:10 2001] [20 Warrior] Tankman (Barbarian)
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Lurline  <Coven of the Blood Rose>
+[Wed Jul 11 19:51:10 2001] [33 Warrior] Uanan (Dark Elf) <Crimson Mist>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Aphyon  <Order of the White Hand>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Waluen 
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Lategrey  <Reapers of Sorrow>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Rhage 
+[Wed Jul 11 19:51:10 2001] [38 Monk] Kensen (Human) <Echelon>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Majain  <Clan StarDragon>
+[Wed Jul 11 19:51:10 2001] [33 Necromancer] Nizzalno (Erudite) <Everseekers Of Norrath>
+[Wed Jul 11 19:51:10 2001] [19 Cleric] Chrisking (Dwarf) <The Scaled Brotherhood>
+[Wed Jul 11 19:51:10 2001] [35 Cleric] Darlissa (Dark Elf) <Tolkien's Revenge>
+[Wed Jul 11 19:51:10 2001] [37 Shaman] Honorius (Barbarian) <Tuath na Sgiath>
+[Wed Jul 11 19:51:10 2001] [36 Druid] Alemplo (Wood Elf) <Freeport Tavern>
+[Wed Jul 11 19:51:10 2001] [40 Shadow Knight] Zonkk (Troll)
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Kraylon  <Fallen Gods>
+[Wed Jul 11 19:51:10 2001] [16 Enchanter] Onxy (Barbarian) <Crimson Mist>
+[Wed Jul 11 19:51:10 2001] [26 Druid] Staraya (Wood Elf) <Crimson Mist>
+[Wed Jul 11 19:51:10 2001] [37 Ranger] Lilluas (Wood Elf) <Azure Blades>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Enuden 
+[Wed Jul 11 19:51:10 2001] [35 Warrior] Fleshreaver (Iksar) <The Scaled Brotherhood>
+[Wed Jul 11 19:51:10 2001] [19 Rogue] Slipt (Dark Elf) <Random Acts>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Venlaen  <Blackgrass Raiders>
+[Wed Jul 11 19:51:10 2001] [40 Shadow Knight] Ransiss (Erudite) <Vision of Sages>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Ezrond 
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Bensel 
+[Wed Jul 11 19:51:10 2001] [38 Warrior] Nevehl (Dark Elf)
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Maxximuus 
+[Wed Jul 11 19:51:10 2001] [39 Monk] Pulverizer (Iksar)
+[Wed Jul 11 19:51:10 2001] [19 Cleric] Beezle (Dark Elf) <Reapers of Sorrow>
+[Wed Jul 11 19:51:10 2001] [38 Cleric] Sweett (Dark Elf) <Unbroken Power>
+[Wed Jul 11 19:51:10 2001] [38 Necromancer] Saeldaven (Dark Elf) <Power of Peace>
+[Wed Jul 11 19:51:10 2001] [34 Cleric] Yakatus (Dwarf)
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Zodaka  <Reapers of Sorrow>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Ynard 
+[Wed Jul 11 19:51:10 2001] [37 Necromancer] Melarae (Dark Elf) <Sword of Shadow>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Fyndil 
+[Wed Jul 11 19:51:10 2001] [38 Rogue] Smural (Barbarian)
+[Wed Jul 11 19:51:10 2001] [17 Shaman] Febji (Iksar) <Civis Macto>
+[Wed Jul 11 19:51:10 2001] [19 Druid] Suzynnah (Unknown)
+[Wed Jul 11 19:51:10 2001] [29 Shadow Knight] Wari (Ogre) <Relic Hunters>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Tavasil  <Kingdom of Steel>
+[Wed Jul 11 19:51:10 2001] [ANONYMOUS] Melinie 
+[Wed Jul 11 19:51:10 2001] [32 Shaman] Angal (Barbarian) <Relic Hunters>
+[Wed Jul 11 19:51:10 2001] [19 Necromancer] Faumeren (Erudite)
+[Wed Jul 11 19:51:10 2001] [32 Enchanter] Brothernook (Dark Elf) <Altruistic Valorians>
+[Wed Jul 11 19:51:10 2001] [18 Shadow Knight] Makmaul (Troll)
+[Wed Jul 11 19:51:10 2001] [32 Cleric] Musashy (Dark Elf) <Improbus Odium>
+[Wed Jul 11 19:51:10 2001] [30 Wizard] Cavante (Erudite)
+[Wed Jul 11 19:51:10 2001] [34 Ranger] Hedera (Wood Elf)
+[Wed Jul 11 19:51:11 2001] [32 Ranger] Bartrel (Human) <Hell Hunters>
+[Wed Jul 11 19:51:11 2001] [17 Enchanter] Sildiar (High Elf) <Exiled Elite>
+[Wed Jul 11 19:51:11 2001] [24 Shadow Knight] Darkamur (Dark Elf) <Black Cauldron>
+[Wed Jul 11 19:51:11 2001] [33 Bard] Kidwell (Half Elf) <Clan of Morning Star>
+[Wed Jul 11 19:51:11 2001] [25 Shaman] Sakuji (Ogre)
+[Wed Jul 11 19:51:11 2001] [35 Druid] Wooddy (Unknown) <Bellatorae Mysticus>
+[Wed Jul 11 19:51:11 2001] [17 Warrior] Ciktin (Gnome) <Civis Macto>
+[Wed Jul 11 19:51:11 2001] [ANONYMOUS] Shortgunz 
+[Wed Jul 11 19:51:11 2001] [19 Monk] Scalizar (Iksar) <Revered Souls>
+[Wed Jul 11 19:51:11 2001] [30 Rogue] Kolasie (Wood Elf)
+[Wed Jul 11 19:51:11 2001] [34 Cleric] Danthur (Dwarf) <Mark of Draconians>
+[Wed Jul 11 19:51:11 2001] [20 Shaman] Razgum (Troll) <Random Acts>
+[Wed Jul 11 19:51:11 2001] [ANONYMOUS] Darkwelder  <Ronins>
+[Wed Jul 11 19:51:11 2001] [ANONYMOUS] Kricky  <Improbus Odium>
+[Wed Jul 11 19:51:11 2001] [32 Shaman] Molog (Troll) <Kingdom of Steel>
+[Wed Jul 11 19:51:11 2001] [40 Bard] Sentow (Dark Elf) <AnDarim>
+[Wed Jul 11 19:51:11 2001] AFK [31 Warrior] Webhog (Human)
+[Wed Jul 11 19:51:11 2001] [17 Druid] Laedaienya (Wood Elf)
+[Wed Jul 11 19:51:11 2001] [ANONYMOUS] Warrier 
+[Wed Jul 11 19:51:11 2001] [32 Ranger] Lorloik (Wood Elf) <Temple of Dawn>
+[Wed Jul 11 19:51:11 2001] [23 Bard] Sliesti (Wood Elf) <Revered Souls>
+[Wed Jul 11 19:51:11 2001] [20 Warrior] Xeneana (Barbarian) <Crimson Mist>
+[Wed Jul 11 19:51:11 2001] [ANONYMOUS] Naeeldarae  <Reapers of Sorrow>
+[Wed Jul 11 19:51:11 2001] [18 Enchanter] Enchendo (Dark Elf)
+[Wed Jul 11 19:51:11 2001] [34 Rogue] Reshi (Half Elf) <Ronins>
+[Wed Jul 11 19:51:11 2001] [40 Enchanter] Duplicity (High Elf)
+[Wed Jul 11 19:51:11 2001] [12 Warrior] Rimman (Ogre)
+[Wed Jul 11 19:51:11 2001] [20 Enchanter] Duplicitous (Dark Elf)
+[Wed Jul 11 19:51:11 2001] [22 Necromancer] Ainadr (Dark Elf) <Blackgrass Raiders> LFG
+[Wed Jul 11 19:51:11 2001] [26 Warrior] Tangrisner (Barbarian) LFG
+[Wed Jul 11 19:51:11 2001] [ANONYMOUS] Xasanak  <Tolkien's Revenge>
+[Wed Jul 11 19:51:11 2001] [21 Enchanter] Rugoo (Gnome)
+[Wed Jul 11 19:51:11 2001] [35 Warrior] Gizzard (Iksar)
+[Wed Jul 11 19:51:11 2001] [15 Warrior] Grimway (Halfling)
+[Wed Jul 11 19:51:11 2001] [33 Druid] Cudario (Wood Elf) <Kingdom of Steel>
+[Wed Jul 11 19:51:11 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Wed Jul 11 19:51:11 2001] There are 91 players in The Overthere.
+[Wed Jul 11 19:51:16 2001] Tankman tells you, 'k'
+[Wed Jul 11 19:51:26 2001] Teleporting to gizzard.
+[Wed Jul 11 19:51:29 2001] Hameka GMSAYS, 'pulling pet for Cylant'
+[Wed Jul 11 19:51:33 2001] Katsuhiro GMSAYS, 'Escalating Jaysen as Tisiana in Lava storm is out of place and standing at the SolB zoneline'
+[Wed Jul 11 19:51:38 2001] Katsuhiro GMSAYS, 'pulling Lash'
+[Wed Jul 11 19:51:40 2001] Wooddy begins to cast a spell. (Ensnare)
+[Wed Jul 11 19:51:40 2001] Reshi says, 'Hail, a kunark rhino'
+[Wed Jul 11 19:51:40 2001] A kunark rhino has been ensnared.
+[Wed Jul 11 19:51:44 2001] Wooddy begins to cast a spell. (Greater Healing)
+[Wed Jul 11 19:51:45 2001] Nizzalno begins to cast a spell. (Allure of Death)
+[Wed Jul 11 19:51:59 2001] Tankman tells you, 'were r u'
+[Wed Jul 11 19:52:01 2001] Danthur says out of character, 'Well, I am assumin this is an naked elven lady....so I won't waste me time'
+[Wed Jul 11 19:52:04 2001] Summoning tankman.
+[Wed Jul 11 19:52:04 2001] Rhage shouts, '35 sham lf a fast group send tell'
+[Wed Jul 11 19:52:05 2001] Sliesti says out of character, 'anyone one high enough and willing to help me get my coin from them?....was told they almost always have one on them'
+[Wed Jul 11 19:52:23 2001] Tankman tells you, 'thx'
+[Wed Jul 11 19:52:28 2001] You feel less courageous.
+[Wed Jul 11 19:52:36 2001] Enchendo says out of character, 'Elven Women are hot!!'
+[Wed Jul 11 19:52:42 2001] Tankman tells you, 'your the best'
+[Wed Jul 11 19:52:44 2001] Shortgunz says out of character, 'so are stoves'
+[Wed Jul 11 19:52:45 2001] Kraylon says out of character, 'yes ther are!'
+[Wed Jul 11 19:52:45 2001] You told Tankman, 'just over here'
+[Wed Jul 11 19:52:51 2001] Kraylon says out of character, 'they'
+[Wed Jul 11 19:52:53 2001] Scalizar says out of character, 'Dark Elven Women are HOT!'
+[Wed Jul 11 19:52:57 2001] Danthur says out of character, 'If yer an elven male...sure, but not if ya be a dwarf'
+[Wed Jul 11 19:52:59 2001] Tangrisner says out of character, 'Aye! almost as hot as Barbarian Northern Lasses!'
+[Wed Jul 11 19:53:00 2001] Xasanak says out of character, 'make mine dark'
+[Wed Jul 11 19:53:09 2001] You say to your guild, 'he's out and about'
+[Wed Jul 11 19:53:15 2001] Rhage begins to cast a spell. (Regeneration)
+[Wed Jul 11 19:53:17 2001] Venlaen says out of character, 'yea dwarves like there womana bearded'
+[Wed Jul 11 19:53:23 2001] Kraylon says out of character, 'Eww... barbarians are uhhh...'
+[Wed Jul 11 19:53:23 2001] Xasanak shouts, 'boat in zone'
+[Wed Jul 11 19:53:26 2001] Scalizar says out of character, 'LOL'
+[Wed Jul 11 19:53:34 2001] You told Tankman, 'Tank, we gotta change your name'
+[Wed Jul 11 19:53:39 2001] Katsuhiro GMSAYS, 'oh and anyone who has a Playstation 2 - go buy Gran Turismo 2 =)'
+[Wed Jul 11 19:53:40 2001] Makmaul says out of character, 'big hehe'
+[Wed Jul 11 19:53:50 2001] Danthur says out of character, 'Ya got that right Venlaen'
+[Wed Jul 11 19:53:50 2001] Pukwudji shouts, 'Need a tp to BB or Gr fay'
+[Wed Jul 11 19:53:51 2001] Tankman tells you, 'k'
+[Wed Jul 11 19:53:51 2001] Duplicitous says out of character, 'Nothing like a nice, friendly Trollish lass....'
+[Wed Jul 11 19:53:51 2001] Lategrey says out of character, 'theres a naked dark elf woman in the outpost.. free sneak peeks'
+[Wed Jul 11 19:53:51 2001] Katsuhiro GMSAYS, 'unavail 1 Lash'
+[Wed Jul 11 19:53:51 2001] Tankman tells you, 'how'
+[Wed Jul 11 19:53:52 2001] You GMSAY, 'I am lagging soo badly'
+[Wed Jul 11 19:53:55 2001] Katsuhiro GMSAYS, 'err GT3'
+[Wed Jul 11 19:53:56 2001] Danthur says out of character, '*shivers*'
+[Wed Jul 11 19:54:04 2001] You told Tankman, 'Rynara will do it.... got one you'd like?'
+[Wed Jul 11 19:54:06 2001] Tangrisner says out of character, 'woo hoo!  off to the outpost with me!'
+[Wed Jul 11 19:54:14 2001] Venlaen says out of character, 'course that may be a sign of mental deficancy as well beard fetish'
+[Wed Jul 11 19:54:18 2001] Lorloik begins to cast a spell. (Firefist)
+[Wed Jul 11 19:54:19 2001] Katsuhiro GMSAYS, 'pulling Baronsariel'
+[Wed Jul 11 19:54:19 2001] Enchendo says out of character, 'OMW!!!'
+[Wed Jul 11 19:54:21 2001] Lilluas shouts, 'Is the outpost  were the bad dark elves are?'
+[Wed Jul 11 19:54:22 2001] Lorloik begins to cast a spell. (Shield of Thistles)
+[Wed Jul 11 19:54:27 2001] Danthur opens his spellbook and is deep in thought.
+[Wed Jul 11 19:54:32 2001] Makmaul says out of character, 'I wonder'
+[Wed Jul 11 19:54:33 2001] Lorloik begins to cast a spell. (Shield of Thistles)
+[Wed Jul 11 19:54:33 2001] Darkwelder shouts, 'Yes Lill'
+[Wed Jul 11 19:54:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 11 19:54:36 2001] USER TEXT: hello just wanted to let you know Tisiana is out of place she is blocking the SolB enterance  thank you for your time
+[Wed Jul 11 19:54:36 2001] Players in EverQuest:
+[Wed Jul 11 19:54:36 2001] ---------------------------
+[Wed Jul 11 19:54:37 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 11 19:54:37 2001] Lurline shouts, 'whos ever seen a GOOD de?'
+[Wed Jul 11 19:54:38 2001] Enchendo shouts, 'There are no bad Dark Elves'
+[Wed Jul 11 19:54:40 2001] Aphyon shouts, 'No it's where the paladins are'
+[Wed Jul 11 19:54:40 2001] Lilluas shouts, 'ok'
+[Wed Jul 11 19:54:42 2001] You GMSAY, 'zone'
+[Wed Jul 11 19:54:52 2001] LOADING, PLEASE WAIT...
+[Wed Jul 11 19:55:41 2001] You have entered Lavastorm Mountains.
+[Wed Jul 11 19:55:42 2001] You have formed the group.
+[Wed Jul 11 19:55:42 2001] Katsuhiro GMSAYS, 'Unavail 1 on Baronsariel'
+[Wed Jul 11 19:55:47 2001] You feel the spirit of Norrath enter you.
+[Wed Jul 11 19:55:48 2001] Your feet leave the ground.
+[Wed Jul 11 19:56:07 2001] Hameka tells the group, 'someone is here saying that a friend got booted while zoneing over an hour ago... they were talkin on the phone when it happened. I see it seems she is in the game.. but friend says she can't get in.  Any ideas ???'
+[Wed Jul 11 19:56:09 2001] Savlyn GMSAYS, 'Pulling Nemesisfa'
+[Wed Jul 11 19:56:14 2001] Katsuhiro GMSAYS, 'pulling Lash'
+[Wed Jul 11 19:56:50 2001] Zheol snaps to attention and salutes Espranza crisply.
+[Wed Jul 11 19:57:55 2001] DELETING THIS PETITION
+[Wed Jul 11 19:58:00 2001] You no longer have a target.
+[Wed Jul 11 19:58:16 2001] Auto attack on.
+[Wed Jul 11 19:58:18 2001] Tisiana says 'Guards!! Guards!! 
+[Wed Jul 11 19:58:18 2001] You slash Tisiana for 15 points of damage.
+[Wed Jul 11 19:58:18 2001] You slash Tisiana for 13 points of damage.
+[Wed Jul 11 19:58:18 2001] Tisiana hits YOU for 45 points of damage.
+[Wed Jul 11 19:58:18 2001] You are stunned!
+[Wed Jul 11 19:58:18 2001] Tisiana bashes YOU for 50 points of damage.
+[Wed Jul 11 19:58:19 2001] Katsuhiro GMSAYS, 'unavail 2 on Lash'
+[Wed Jul 11 19:58:20 2001] You are unstunned.
+[Wed Jul 11 19:58:21 2001] Your target is too far away, get closer!
+[Wed Jul 11 19:58:21 2001] Your target is too far away, get closer!
+[Wed Jul 11 19:58:21 2001] Tisiana hits YOU for 68 points of damage.
+[Wed Jul 11 19:58:22 2001] Tisiana hits YOU for 118 points of damage.
+[Wed Jul 11 19:58:24 2001] Your target is too far away, get closer!
+[Wed Jul 11 19:58:24 2001] Your target is too far away, get closer!
+[Wed Jul 11 19:58:24 2001] Tisiana hits YOU for 100 points of damage.
+[Wed Jul 11 19:58:24 2001] Your target is too far away, get closer!
+[Wed Jul 11 19:58:24 2001] Your target is too far away, get closer!
+[Wed Jul 11 19:58:28 2001] Your target is too far away, get closer!
+[Wed Jul 11 19:58:28 2001] Your target is too far away, get closer!
+[Wed Jul 11 19:58:29 2001] Auto attack off.
+[Wed Jul 11 19:58:30 2001] Your target is too far away, get closer!
+[Wed Jul 11 19:58:30 2001] Your target is too far away, get closer!
+[Wed Jul 11 19:58:33 2001] Katsuhiro GMSAYS, 'pulling Eyaneth'
+[Wed Jul 11 19:58:43 2001] Hameka GMSAYS, 'friend is here saying that Jessee , a friend got booted while gating over an hour ago...still trying to get back in but it says she is already here... Jessee doenst respond to a tell??? shall I escalate ??? any advise on this one??'
+[Wed Jul 11 19:59:08 2001] Tisiana hits YOU for 86 points of damage.
+[Wed Jul 11 19:59:08 2001] Tisiana hits YOU for 45 points of damage.
+[Wed Jul 11 19:59:10 2001] Tisiana hits YOU for 114 points of damage.
+[Wed Jul 11 19:59:11 2001] Zheol says, 'Hail, Flitch'
+[Wed Jul 11 19:59:13 2001] Tisiana hits YOU for 45 points of damage.
+[Wed Jul 11 19:59:16 2001] Tisiana hits YOU for 58 points of damage.
+[Wed Jul 11 19:59:17 2001] Tisiana hits YOU for 100 points of damage.
+[Wed Jul 11 19:59:18 2001] Tisiana blinks a few times.
+[Wed Jul 11 19:59:18 2001] Tisiana blinks a few times.
+[Wed Jul 11 19:59:19 2001] Tisiana hits YOU for 58 points of damage.
+[Wed Jul 11 19:59:19 2001] Tisiana hits YOU for 45 points of damage.
+[Wed Jul 11 19:59:20 2001] Tisiana says 'Greetings Zheol you look like you could use a Golden Earring'
+[Wed Jul 11 19:59:24 2001] Tisiana blinks a few times.
+[Wed Jul 11 19:59:29 2001] Tisiana blinks a few times.
+[Wed Jul 11 19:59:30 2001] Katsuhiro GMSAYS, 'heh thats not good only Lirus can kick someone'
+[Wed Jul 11 19:59:32 2001] You no longer have a target.
+[Wed Jul 11 19:59:39 2001] Zheol says, 'DAMN a GM getting wacked'
+[Wed Jul 11 19:59:39 2001] You GMSAY, 'no, seniors can as well'
+[Wed Jul 11 19:59:49 2001] Flitch begins to cast a spell. (Circle of the Combines)
+[Wed Jul 11 19:59:50 2001] You GMSAY, 'sorry was ressetting a vendor'
+[Wed Jul 11 19:59:52 2001] Katsuhiro GMSAYS, 'oh my mistake then =)'
+[Wed Jul 11 20:00:07 2001] Rynara GMSAYS, 'oh Tankman is funny'
+[Wed Jul 11 20:00:07 2001] Hameka GMSAYS, 'ok so escalate to red then?'
+[Wed Jul 11 20:00:07 2001] Zheol waves goodbye to Espranza.
+[Wed Jul 11 20:00:07 2001] Isazo creates a mystic portal.
+[Wed Jul 11 20:00:07 2001] Flitch creates a mystic portal.
+[Wed Jul 11 20:00:07 2001] Zheol creates a mystic portal.
+[Wed Jul 11 20:00:20 2001] Katsuhiro GMSAYS, 'heh Ryn I was in a conversation trying to figure out what happened for like 20 mins heh'
+[Wed Jul 11 20:00:25 2001] You GMSAY, 'Hameka, have them reboot their machine'
+[Wed Jul 11 20:01:32 2001] You GMSAY, 'I betcha Baronsariel is a bad name...'
+[Wed Jul 11 20:01:46 2001] Katsuhiro GMSAYS, 'unavail 1 on Eyaneth'
+[Wed Jul 11 20:01:57 2001] Rynara GMSAYS, 'zone'
+[Wed Jul 11 20:01:58 2001] Katsuhiro GMSAYS, 'pulling Baronsariel'
+[Wed Jul 11 20:02:07 2001] Hameka GMSAYS, 'they have already rebooted the computer it seems...'
+[Wed Jul 11 20:02:22 2001] You GMSAY, 'is that Uriel?'
+[Wed Jul 11 20:02:27 2001] Rynara GMSAYS, 'Tankmans surname was Tanks'
+[Wed Jul 11 20:02:29 2001] You GMSAY, 'what is the name of the person'
+[Wed Jul 11 20:02:34 2001] You GMSAY, 'Heh!'
+[Wed Jul 11 20:02:50 2001] Hameka GMSAYS, 'they already booted computer so escalate pet for clyant for friend named Jessee to red for a kick???'
+[Wed Jul 11 20:02:56 2001] Rynara GMSAYS, 'so I told him I was changing them both, so he wants Radical but he cant spell so asks for Radicle'
+[Wed Jul 11 20:03:00 2001] You GMSAY, 'sometimes kicks don't work'
+[Wed Jul 11 20:03:06 2001] You GMSAY, 'I'll go look'
+[Wed Jul 11 20:03:09 2001] You GMSAY, 'zone'
+[Wed Jul 11 20:03:13 2001] Savlyn GMSAYS, 'Can someone check on a corpse for me in Unrest??'
+[Wed Jul 11 20:03:13 2001] Teleporting to Jessee.
+[Wed Jul 11 20:03:21 2001] Players in EverQuest:
+[Wed Jul 11 20:03:21 2001] ---------------------------
+[Wed Jul 11 20:03:21 2001] [ANON (38 Druid)] Jessee (Wood Elf) ZONE: greatdivide (USER PID CQPBUDC)
+[Wed Jul 11 20:03:21 2001] There is 1 player in EverQuest.
+[Wed Jul 11 20:03:27 2001] Teleporting to jessee.
+[Wed Jul 11 20:03:30 2001] Hameka GMSAYS, 'ok so just escalate to yellow for now?? and put back in que?'
+[Wed Jul 11 20:03:40 2001] You GMSAY, 'esc to red'
+[Wed Jul 11 20:03:43 2001] Rynara GMSAYS, 'red'
+[Wed Jul 11 20:03:45 2001] You GMSAY, 'Jessee is in limbo'
+[Wed Jul 11 20:03:53 2001] You GMSAY, 'what corpse, Sav?'
+[Wed Jul 11 20:04:04 2001] Savlyn GMSAYS, 'Player claims he Died while Zoneing into Unrest and was bound at City of Mist..No explanation for Death want to know Why?'
+[Wed Jul 11 20:04:09 2001] Hameka GMSAYS, 'escalated pet for Cylant to red... friend seems to be stuck'
+[Wed Jul 11 20:04:26 2001] Savlyn GMSAYS, 'Nemesisfa'
+[Wed Jul 11 20:04:36 2001] You GMSAY, 'zone'
+[Wed Jul 11 20:04:42 2001] LOADING, PLEASE WAIT...
+[Wed Jul 11 20:05:27 2001] You have entered Estate of Unrest.
+[Wed Jul 11 20:05:27 2001] You have formed the group.
+[Wed Jul 11 20:06:05 2001] Katsuhiro GMSAYS, '<NOTE BADNAME> Baronsariel EWXB9ER wishes to get name changed as it is against the naming rules'
+[Wed Jul 11 20:06:09 2001] Nicoll begins to cast a spell. (Holy Armor)
+[Wed Jul 11 20:06:17 2001] Katsuhiro GMSAYS, 'escalating Baronsariel to red for name change'
+[Wed Jul 11 20:06:17 2001] Savlyn GMSAYS, 'Should I escalate the Pet'
+[Wed Jul 11 20:06:18 2001] Nicoll begins to cast a spell. (Symbol of Transal)
+[Wed Jul 11 20:06:19 2001] Searching zones for corpse of that name....
+[Wed Jul 11 20:06:20 2001] Corpse: Nemesisfa's corpse0 in zone: unrest
+[Wed Jul 11 20:06:25 2001] Teleporting to nemesisfa's corpse0.
+[Wed Jul 11 20:06:44 2001] Katsuhiro GMSAYS, 'pulling Derekvt'
+[Wed Jul 11 20:07:08 2001] You GMSAY, 'Sav, nothing weird about her corpse'
+[Wed Jul 11 20:07:10 2001] LOADING, PLEASE WAIT...
+[Wed Jul 11 20:07:37 2001] You have entered Dagnor's Cauldron.
+[Wed Jul 11 20:07:38 2001] You have formed the group.
+[Wed Jul 11 20:07:41 2001] LOADING, PLEASE WAIT...
+[Wed Jul 11 20:08:16 2001] You have entered Estate of Unrest.
+[Wed Jul 11 20:08:17 2001] You have formed the group.
+[Wed Jul 11 20:08:24 2001] It begins to rain.
+[Wed Jul 11 20:08:26 2001] You GMSAY, 'sec on that corpse, might be behind zone'
+[Wed Jul 11 20:08:36 2001] Hameka GMSAYS, 'pulling pet for Eyaneth'
+[Wed Jul 11 20:08:45 2001] You GMSAY, 'zone'
+[Wed Jul 11 20:08:59 2001] Nemesisfa says, 'Hail, Espranza'
+[Wed Jul 11 20:09:01 2001] You GMSAY, 'no zone. Sav, the corpse is right at the zone, I think he died because of train'
+[Wed Jul 11 20:09:30 2001] You feel as if you are about to fall.
+[Wed Jul 11 20:09:36 2001] You feel as if you are about to fall.
+[Wed Jul 11 20:09:42 2001] You can no longer levitate.
+[Wed Jul 11 20:09:43 2001] Nemesisfa says, 'this pretty much sucks :( '
+[Wed Jul 11 20:09:56 2001] Nimby says out of character, 'cleric 29 lfg'
+[Wed Jul 11 20:09:57 2001] Savlyn GMSAYS, 'She got No Slain By message at all'
+[Wed Jul 11 20:09:57 2001] Yumenoteki GMSAYS, 'Greetings travellers'
+[Wed Jul 11 20:09:59 2001] You say, 'It looks like you might have been killed by a train'
+[Wed Jul 11 20:10:03 2001] Temadani shouts, 'lvl 18 lfg'
+[Wed Jul 11 20:10:08 2001] Katsuhiro GMSAYS, 'hello Yum'
+[Wed Jul 11 20:10:08 2001] Rynara GMSAYS, 'hi Yum'
+[Wed Jul 11 20:10:08 2001] You GMSAY, 'Konnichiwa'
+[Wed Jul 11 20:10:09 2001] Nimby begins to cast a spell. (Bind Affinity)
+[Wed Jul 11 20:10:10 2001] Yumenoteki GMSAYS, 'konbawa Espranza'
+[Wed Jul 11 20:10:14 2001] Rynara GMSAYS, 'zone'
+[Wed Jul 11 20:10:15 2001] Nimby is bound to the area.
+[Wed Jul 11 20:10:22 2001] Nemesisfa says, 'there was nothing i can tell u that'
+[Wed Jul 11 20:10:27 2001] Yumenoteki GMSAYS, 'hello Katsuhiro'
+[Wed Jul 11 20:10:41 2001] Sunbringer says out of character, '27 pally LFG'
+[Wed Jul 11 20:10:43 2001] Nemesisfa says, 'well nothing really kills a lvl 41 in here'
+[Wed Jul 11 20:10:58 2001] Yumenoteki GMSAYS, 'Hello Rynara :)'
+[Wed Jul 11 20:11:01 2001] Nimby cheers at Espranza.
+[Wed Jul 11 20:11:01 2001] Savlyn GMSAYS, 'Well I'm going to Escalate the pet anyway as I cant do anything with it'
+[Wed Jul 11 20:11:04 2001] Azif shouts, 'please dont attack Rlice, he is my pet'
+[Wed Jul 11 20:11:10 2001] Nimby chuckles at Espranza.
+[Wed Jul 11 20:11:17 2001] You say, 'someties there's lag when logging in...'
+[Wed Jul 11 20:11:19 2001] Nimby begins to cast a spell. (Invisibility versus Undead)
+[Wed Jul 11 20:11:21 2001] You say, 'that's all I can think of'
+[Wed Jul 11 20:11:22 2001] Nimby fades a little.
+[Wed Jul 11 20:11:23 2001] Yumenoteki GMSAYS, 'what's the petition?'
+[Wed Jul 11 20:11:37 2001] Nemesisfa says, 'k im lvl 41'
+[Wed Jul 11 20:11:44 2001] Nemesisfa says, 'everything green to me'
+[Wed Jul 11 20:11:54 2001] Nemesisfa says, 'things dont kill me that easy +im a warrior'
+[Wed Jul 11 20:12:06 2001] You say, 'yeah, true'
+[Wed Jul 11 20:12:07 2001] Hameka tells the group, 'this pet is complaining about a guild taking overcrushbone...guild is called Revered Souls... says there are some level 40+ there.... this is one I just escalate with out contact?'
+[Wed Jul 11 20:12:19 2001] You say, 'But I can't verify a bug...'
+[Wed Jul 11 20:12:21 2001] Nemesisfa says, 'now i zoned and i was killed because i was sent back to cityofmist'
+[Wed Jul 11 20:12:40 2001] Temadani shouts, 'lvl 18 lfg'
+[Wed Jul 11 20:12:40 2001] Nemesisfa says, 'have u guys ever helped anyone?'
+[Wed Jul 11 20:12:44 2001] Nemesisfa says, 'jesuschrist'
+[Wed Jul 11 20:12:56 2001] You say, 'We love being able to rez people'
+[Wed Jul 11 20:12:57 2001] Hameka tells the group, 'actually they might not be here anymore'
+[Wed Jul 11 20:13:14 2001] You say, 'I wish we could do it for everyone. But we have the rules we have to follow.'
+[Wed Jul 11 20:13:17 2001] Jayounboho says out of character, 'can i join yo?'
+[Wed Jul 11 20:13:17 2001] Nemesisfa says, 'well i lost alot of exp for zoning now its kinda freaking stupid '
+[Wed Jul 11 20:13:23 2001] Katsuhiro GMSAYS, 'escalating Derekvt ksing reported by a group and the group who he is claiming of the ksing even compensated them after for taking their kill =) wants someone to look at it'
+[Wed Jul 11 20:13:31 2001] You say, 'can you get a cleric rez?'
+[Wed Jul 11 20:13:34 2001] Nemesisfa says, 'i didnt die from a train everythign green'
+[Wed Jul 11 20:13:40 2001] Nemesisfa says, 'u can rez y dont iu'
+[Wed Jul 11 20:13:41 2001] You GMSAY, 'you can delete Nemes'
+[Wed Jul 11 20:13:52 2001] Katsuhiro GMSAYS, 'pulling Midraal'
+[Wed Jul 11 20:13:57 2001] Elvenwhite says out of character, 'Sorry, we are TPing out yo T.T'
+[Wed Jul 11 20:13:59 2001] Savlyn GMSAYS, 'Thanks Espranza =)'
+[Wed Jul 11 20:14:08 2001] Hameka GMSAYS, 'Eyaneth still not here... checking back in '
+[Wed Jul 11 20:14:11 2001] Jayounboho says out of character, 'hi elvenwhite nim'
+[Wed Jul 11 20:14:13 2001] Yumenoteki GMSAYS, 'taken derekvt'
+[Wed Jul 11 20:14:30 2001] Savlyn GMSAYS, 'Deleting Nemes'
+[Wed Jul 11 20:14:31 2001] You say, 'Because I have to follow the rules... I can't verify you died to a bug'
+[Wed Jul 11 20:14:36 2001] Savlyn GMSAYS, 'Pulling Uriel'
+[Wed Jul 11 20:14:48 2001] Dunkiin says out of character, 'looking for a TP to dreadlands, or SoW'
+[Wed Jul 11 20:14:53 2001] Nemesisfa says, 'omg u can tell .. im lvl 41 not lvl 4 i didnt die of a train'
+[Wed Jul 11 20:14:56 2001] Yumenoteki tells the guild, 'LOL ... one of the apprentices will love Midraal'
+[Wed Jul 11 20:15:08 2001] Yumenoteki GMSAYS, 'going anon for investigation'
+[Wed Jul 11 20:15:16 2001] Katsuhiro GMSAYS, 'Yum you talk to Midraal ?'
+[Wed Jul 11 20:15:16 2001] Yumenoteki GMSAYS, 'zoning to oasis'
+[Wed Jul 11 20:15:34 2001] Yumenoteki GMSAYS, 'sort of ... '
+[Wed Jul 11 20:15:38 2001] Rynara tells the guild, 'Savlyn passed his test but he needs to still learn how to reset a merchant. If you get one take him and show him'
+[Wed Jul 11 20:15:43 2001] Yumenoteki GMSAYS, 'I greeted him ... but he didn't respond'
+[Wed Jul 11 20:15:48 2001] You say, 'Well, something killed you, but I don't know what...'
+[Wed Jul 11 20:15:53 2001] You say to your guild, 'okay'
+[Wed Jul 11 20:15:54 2001] Nemesisfa says, 'i have been playing for along time and have never got help so...'
+[Wed Jul 11 20:15:55 2001] Katsuhiro GMSAYS, 'want me to take over it ?'
+[Wed Jul 11 20:15:58 2001] Yumenoteki GMSAYS, 'turns out he was typing something *very* long'
+[Wed Jul 11 20:16:00 2001] Dunkiin cheers at Espranza.
+[Wed Jul 11 20:16:02 2001] Yumenoteki GMSAYS, 'aye :)'
+[Wed Jul 11 20:16:06 2001] Katsuhiro GMSAYS, 'ok'
+[Wed Jul 11 20:16:17 2001] Yumenoteki GMSAYS, 'that one is good training for you'
+[Wed Jul 11 20:16:22 2001] You say, 'I'm sorry...'
+[Wed Jul 11 20:16:25 2001] You bow before Nemesisfa.
+[Wed Jul 11 20:16:26 2001] Nemesisfa says, 'omg this is so stupid there is no reason to have GM'
+[Wed Jul 11 20:16:29 2001] You wave goodbye to Nemesisfa.
+[Wed Jul 11 20:16:31 2001] Yumenoteki GMSAYS, 'zoning to oasis for investigation'
+[Wed Jul 11 20:16:34 2001] You GMSAY, 'zone'
+[Wed Jul 11 20:16:37 2001] LOADING, PLEASE WAIT...
+[Wed Jul 11 20:17:01 2001] You have entered Sunset Home.
+[Wed Jul 11 20:17:01 2001] You have formed the group.
+[Wed Jul 11 20:17:17 2001] Hameka GMSAYS, 'pulling Eyaeth agai'
+[Wed Jul 11 20:17:37 2001] Savlyn GMSAYS, 'Deleting Uriel - They will repetition durring Lirus's Hours'
+[Wed Jul 11 20:17:47 2001] Hameka GMSAYS, 'deleting pet for Eyaneth ... unavail'
+[Wed Jul 11 20:18:03 2001] Katsuhiro GMSAYS, 'bah Yum give me something harder!'
+[Wed Jul 11 20:18:06 2001] Hameka GMSAYS, 'need ta afk a quick sec'
+[Wed Jul 11 20:18:11 2001] Yumenoteki GMSAYS, 'LOL'
+[Wed Jul 11 20:18:19 2001] Yumenoteki GMSAYS, 'how did you handle it?'
+[Wed Jul 11 20:18:35 2001] Yumenoteki GMSAYS, 'I mean your response? *smirk*'
+[Wed Jul 11 20:18:36 2001] Savlyn GMSAYS, 'Me?'
+[Wed Jul 11 20:18:36 2001] You told savlyn, 'grats Savlyn!'
+[Wed Jul 11 20:18:52 2001] Hameka GMSAYS, 'back'
+[Wed Jul 11 20:18:55 2001] Yumenoteki GMSAYS, 'heh heh ... Katsuhiro'
+[Wed Jul 11 20:18:57 2001] Savlyn tells you, 'Thanks Hun'
+[Wed Jul 11 20:19:02 2001] Katsuhiro GMSAYS, 'deleting Midraal - wanted us to res him since he cant afford one and his corpse may not be there when he gets there, I told him we cannot assist in resing unless it is due to a bug and '
+[Wed Jul 11 20:19:04 2001] It begins to rain.
+[Wed Jul 11 20:19:20 2001] Katsuhiro GMSAYS, 'suggested he ask for assistance retrieving his corpse and he has 3 hours on his corpse'
+[Wed Jul 11 20:19:25 2001] Hameka GMSAYS, 'pulling Nemesisfa..... is that a legal name??'
+[Wed Jul 11 20:19:32 2001] You GMSAY, 'I think so'
+[Wed Jul 11 20:19:34 2001] Yumenoteki GMSAYS, 'but did you roleplay?'
+[Wed Jul 11 20:19:40 2001] Savlyn GMSAYS, 'Nemesisfa is back'
+[Wed Jul 11 20:19:51 2001] Katsuhiro GMSAYS, 'errr youi wanted me to tell you how I did it lol'
+[Wed Jul 11 20:20:03 2001] Yumenoteki GMSAYS, 'aye *smirk*'
+[Wed Jul 11 20:20:04 2001] Katsuhiro GMSAYS, 'not RP to you!'
+[Wed Jul 11 20:20:07 2001] You GMSAY, 'he didn't like that I couldn't rez him'
+[Wed Jul 11 20:20:10 2001] Rynara GMSAYS, 'name sounds ok to me'
+[Wed Jul 11 20:20:17 2001] You GMSAY, 'I dunno what his petition is about though'
+[Wed Jul 11 20:21:00 2001] Hameka GMSAYS, 'hmmmm Nemesisfa says  THIS IS BS OMG U GUYS SUCK!!!!!! ...... okies.... this sounds like harassment to me???'
+[Wed Jul 11 20:21:08 2001] Yumenoteki GMSAYS, 'I usually say something like ... The Tribunal has ruled that we can not provide aid in this assistance.  I'm sure that you will find people to asist you'
+[Wed Jul 11 20:21:12 2001] Savlyn GMSAYS, 'LOL'
+[Wed Jul 11 20:21:12 2001] Katsuhiro GMSAYS, 'w00t no more pets up!'
+[Wed Jul 11 20:21:33 2001] You GMSAY, 'It is, Hameka, but there's no point in inflaming it'
+[Wed Jul 11 20:21:34 2001] Katsuhiro GMSAYS, 'and you know what he says - I am bound in FoB and I died in Iceclad - so no I wont lol'
+[Wed Jul 11 20:21:42 2001] Rynara GMSAYS, 'Ham he sounds like he is blowing off steam, if he persists then we will talk to him'
+[Wed Jul 11 20:22:14 2001] Hameka GMSAYS, 'just wondering if I should ask if I can help them or escalate it ???  so just delete the pet??'
+[Wed Jul 11 20:22:28 2001] Hameka tells the group, 'i am not familiar with this persons problem'
+[Wed Jul 11 20:22:38 2001] You tell your party, 'he died zoning into Unrest'
+[Wed Jul 11 20:22:42 2001] Katsuhiro GMSAYS, 'Yum you looking at Derekvt pet ?'
+[Wed Jul 11 20:22:46 2001] You tell your party, 'I checked out the corpse, nothing odd about it, so no rez'
+[Wed Jul 11 20:22:50 2001] You tell your party, 'he didn't like that'
+[Wed Jul 11 20:22:50 2001] Rynara GMSAYS, 'whats the pet about?'
+[Wed Jul 11 20:22:53 2001] Yumenoteki GMSAYS, 'aye ...'
+[Wed Jul 11 20:23:09 2001] Katsuhiro GMSAYS, 'ok he is asking me if anyone will contact him =) I told him you are monking them'
+[Wed Jul 11 20:23:17 2001] Rynara GMSAYS, 'errr thats what was in the pet Ham?'
+[Wed Jul 11 20:23:48 2001] Hameka GMSAYS, 'hmmmm Nemesisfa says  THIS IS BS OMG U GUYS SUCK!!!!!! ......is their exact words'
+[Wed Jul 11 20:23:52 2001] Yumenoteki GMSAYS, 'lots of competition for Sand Giants'
+[Wed Jul 11 20:23:59 2001] Katsuhiro GMSAYS, '=)'
+[Wed Jul 11 20:24:04 2001] Yumenoteki GMSAYS, 'sounds like a frustrated petitioner'
+[Wed Jul 11 20:24:07 2001] You GMSAY, 'he wanted a rez that we can't grant'
+[Wed Jul 11 20:24:14 2001] Katsuhiro GMSAYS, 'pulling Oogyman'
+[Wed Jul 11 20:24:19 2001] Rynara GMSAYS, 'yeah contact him and see what his problem is'
+[Wed Jul 11 20:24:32 2001] Hameka GMSAYS, 'hehe okie dokie'
+[Wed Jul 11 20:24:33 2001] You GMSAY, 'just be nice, give him the email for eqcs and tell him to use feedback. we have to follow the rules.'
+[Wed Jul 11 20:24:44 2001] Rynara GMSAYS, 'zone'
+[Wed Jul 11 20:24:52 2001] Savlyn GMSAYS, 'Nite All....See you tomorrow'
+[Wed Jul 11 20:24:55 2001] Yumenoteki GMSAYS, 'I prefer lava baths myself *smirk*'
+[Wed Jul 11 20:24:57 2001] Katsuhiro GMSAYS, 'niters Sav!'
+[Wed Jul 11 20:24:59 2001] Yumenoteki GMSAYS, 'cya Savlyn'
+[Wed Jul 11 20:25:13 2001] You GMSAY, 'bye sav!'
+[Wed Jul 11 20:25:17 2001] Yumenoteki GMSAYS, 'Japanese love hot places and baths ... '
+[Wed Jul 11 20:26:02 2001] Hameka GMSAYS, 'byeee Sav'
+[Wed Jul 11 20:26:09 2001] Savlyn GMSAYS, '=) Bye'
+[Wed Jul 11 20:26:09 2001] You GMSAY, 'onsen wa totemo subarashi desu'
+[Wed Jul 11 20:26:23 2001] Yumenoteki GMSAYS, 'hai so desu ne'
+[Wed Jul 11 20:26:27 2001] Katsuhiro GMSAYS, 'bah Yum I cant see ya =/'
+[Wed Jul 11 20:26:31 2001] Yumenoteki GMSAYS, 'totemo kimochi ii desu'
+[Wed Jul 11 20:26:40 2001] You GMSAY, 'hai'
+[Wed Jul 11 20:26:54 2001] Yumenoteki GMSAYS, 'LOL ... exactly what investigation mode is'
+[Wed Jul 11 20:27:03 2001] Espranza saved.
+[Wed Jul 11 20:27:04 2001] Katsuhiro GMSAYS, 'I know =P heh'
+[Wed Jul 11 20:28:04 2001] Katsuhiro GMSAYS, 'deleting Oogyman as he wanted to know how long under level 5 corpses lasted - 30 mins as Rynara reminded me'
+[Wed Jul 11 20:28:50 2001] Hameka GMSAYS, 'deleting pet for Nemesisfa.... no response yet to my consoling .... and nothing we can do anyway...'
+[Wed Jul 11 20:29:09 2001] Hameka GMSAYS, 'pulling pet for Ykin'
+[Wed Jul 11 20:29:26 2001] Rynara GMSAYS, 'zone'
+[Wed Jul 11 20:29:41 2001] Yumenoteki GMSAYS, 'did Espranza leave?'
+[Wed Jul 11 20:29:44 2001] You GMSAY, 'no'
+[Wed Jul 11 20:29:50 2001] You GMSAY, 'why?'
+[Wed Jul 11 20:30:00 2001] Yumenoteki GMSAYS, 'ah ... you didn't show up on my who GM all'
+[Wed Jul 11 20:30:16 2001] Wikkiwikwik tells you, 'if you most to another server do you loose all your gear?'
+[Wed Jul 11 20:30:38 2001] Yumenoteki GMSAYS, 'possibly zoning?'
+[Wed Jul 11 20:31:40 2001] You told Wikkiwikwik, 'yes'
+[Wed Jul 11 20:32:02 2001] Wikkiwikwik tells you, 'grr Guide on other server said no... thought so thanks.'
+[Wed Jul 11 20:32:31 2001] You told Wikkiwikwik, 'you do though, sorry :('
+[Wed Jul 11 20:32:40 2001] You GMSAY, 'I'm perfectly visible'
+[Wed Jul 11 20:32:43 2001] Players in EverQuest:
+[Wed Jul 11 20:32:43 2001] ---------------------------
+[Wed Jul 11 20:32:43 2001] * Senior Guide *[55 Blackguard] Rynara (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID CSRJPKB)
+[Wed Jul 11 20:32:43 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Wed Jul 11 20:32:43 2001] * Guide *[ANON (50 Monk)] Yumenoteki (Human) ZONE: oasis (USER PID HT3SRT4)
+[Wed Jul 11 20:32:43 2001] * Apprentice Guide *[20 Cleric] Hameka (Dwarf) ZONE: butcher (USER PID BQ8GUQA)
+[Wed Jul 11 20:32:43 2001] * Apprentice Guide *[20 Warrior] Katsuhiro (Troll) ZONE: oasis (USER PID BREDR8S)
+[Wed Jul 11 20:32:43 2001] There are 5 players in EverQuest.
+[Wed Jul 11 20:32:43 2001] Katsuhiro GMSAYS, 'pulling Tryana'
+[Wed Jul 11 20:32:50 2001] Hameka tells the group, 'this player is reporting that someone stole their pickclaw spawn...after they had engaged in battle.... should i get more info and esc or just escalate?'
+[Wed Jul 11 20:33:20 2001] You tell your party, 'just esc'
+[Wed Jul 11 20:33:29 2001] Hameka tells the group, 'k thanks'
+[Wed Jul 11 20:33:44 2001] Hameka GMSAYS, 'escalating pet for ykin... kill stealing'
+[Wed Jul 11 20:34:05 2001] The spirit leaves you.
+[Wed Jul 11 20:34:06 2001] Katsuhiro GMSAYS, 'anyone know if Wurmslayer quest is working?'
+[Wed Jul 11 20:34:14 2001] You GMSAY, 'was a couple of days ago'
+[Wed Jul 11 20:34:26 2001] Hameka GMSAYS, 'Zoning......'
+[Wed Jul 11 20:34:28 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 11 20:34:31 2001] USER TEXT: I would like to petition a person named Dalani.  She came in the room with us.  sat down went afk.  When the pickclaw we've been waiting for spawned she jumped up, killed after we had engaged it then looted it
+[Wed Jul 11 20:34:31 2001] Players in EverQuest:
+[Wed Jul 11 20:34:31 2001] ---------------------------
+[Wed Jul 11 20:34:31 2001] [35 Paladin] Ykin (High Elf) <Legacy of the Nameless> ZONE: runnyeye (USER PID FQ7TV1Z)
+[Wed Jul 11 20:34:31 2001] There is 1 player in EverQuest.
+[Wed Jul 11 20:34:31 2001] Yumenoteki GMSAYS, 'zoning'
+[Wed Jul 11 20:34:36 2001] Yumenoteki GMSAYS, 'investigating lome in SK'
+[Wed Jul 11 20:35:40 2001] You GMSAY, 'I have to go now :('
+[Wed Jul 11 20:35:44 2001] UNDOING CHECK OUT
+[Wed Jul 11 20:35:49 2001] Yumenoteki GMSAYS, 'ok ... oyasuminasai'
+[Wed Jul 11 20:35:51 2001] Katsuhiro GMSAYS, 'ok niters Esp'
+[Wed Jul 11 20:35:53 2001] You GMSAY, 'can someone group with Hameka?'
+[Wed Jul 11 20:36:02 2001] Yumenoteki GMSAYS, 'yup'
+[Wed Jul 11 20:36:07 2001] You GMSAY, 'might be back later, have to go to a Hole raid'
+[Wed Jul 11 20:36:08 2001] Hameka GMSAYS, 'thanks for all the help Espranza...'
+[Wed Jul 11 20:36:11 2001] Yumenoteki GMSAYS, 'I'll go pick him up and then head to SK for investigation'
+[Wed Jul 11 20:36:13 2001] You must be sitting to prepare to camp.
+[Wed Jul 11 20:36:18 2001] You say to your guild, 'Hame is a her'
+[Wed Jul 11 20:36:26 2001] You GMSAY, 'see ya later!'
+[Wed Jul 11 20:36:31 2001] Hameka GMSAYS, 'byeee'
+[Wed Jul 11 20:36:37 2001] Rynara GMSAYS, 'bye'
+[Wed Jul 11 20:36:42 2001] Hameka GMSAYS, 'pulling pet for Teadyn'
+[Wed Jul 11 20:36:42 2001] Yumenoteki GMSAYS, 'hmmm ... I need to see if anyone can see me in the zone'
+[Wed Jul 11 20:37:12 2001] Espranza saved.
+[Wed Jul 11 20:37:35 2001] Yumenoteki GMSAYS, 'zoning'
+[Wed Jul 11 20:37:42 2001] You must be sitting to prepare to camp.
+[Wed Jul 11 20:37:44 2001] Yumenoteki GMSAYS, 'LOL ... never mind ... zoning'
+[Wed Jul 11 20:37:47 2001] It will take you about 30 seconds to prepare your camp.
+[Wed Jul 11 20:37:50 2001] It will take about 25 more seconds to prepare your camp.
+[Wed Jul 11 20:37:55 2001] It will take about 20 more seconds to prepare your camp.
+[Wed Jul 11 20:38:01 2001] It will take about 15 more seconds to prepare your camp.
+[Wed Jul 11 20:38:05 2001] It will take about 10 more seconds to prepare your camp.
+[Wed Jul 11 20:38:10 2001] It will take about 5 more seconds to prepare your camp.
+[Wed Jul 11 20:38:17 2001] You disband your party.

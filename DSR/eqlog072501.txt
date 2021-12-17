@@ -1,0 +1,1625 @@
+[Tue Jul 24 20:58:56 2001] Welcome to EverQuest!
+[Tue Jul 24 20:58:56 2001] You have entered Sunset Home.
+[Tue Jul 24 20:59:03 2001] Logging to 'eqlog.txt' is now *ON*.
+[Tue Jul 24 20:59:04 2001] Players in EverQuest:
+[Tue Jul 24 20:59:04 2001] ---------------------------
+[Tue Jul 24 20:59:04 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Tue Jul 24 20:59:04 2001] * Guide *[50 Ranger] Syloc (Wood Elf) <Keepers of Morell Thule> ZONE: sebilis (USER PID CUGBXL2)
+[Tue Jul 24 20:59:04 2001] * Guide *[53 Illusionist] Kaweewee (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID GUUWCLQ)
+[Tue Jul 24 20:59:04 2001] * Apprentice Guide *[20 Paladin] Theobrin (Dwarf) ZONE: nektulos (USER PID GP528CN)
+[Tue Jul 24 20:59:04 2001] * Senior Guide *[56 Myrmidon] Kezia (Dark Elf) <Keepers of Morell Thule> ZONE: nektulos (USER PID EP47WYZ)
+[Tue Jul 24 20:59:04 2001] * Guide *[52 Mystic] Nazbag (Ogre) <Keepers of Morell Thule> ZONE: oggok (USER PID EUUV5HS)
+[Tue Jul 24 20:59:04 2001] There are 6 players in EverQuest.
+[Tue Jul 24 20:59:07 2001] You GMSAY, 'hiya all!'
+[Tue Jul 24 20:59:09 2001] It is 4 PM on Tuesday, the 10th day of October, of the year 3210.
+[Tue Jul 24 20:59:09 2001] Earth Time: Tue Jul 24 20:59:09 2001
+[Tue Jul 24 20:59:15 2001] Kezia GMSAYS, 'hi esp?'
+[Tue Jul 24 20:59:34 2001] Theobrin GMSAYS, 'hiya'
+[Tue Jul 24 20:59:34 2001] Syloc GMSAYS, 'Hi Espranza!'
+[Tue Jul 24 20:59:34 2001] Kezia GMSAYS, 'i mean hi esp!'
+[Tue Jul 24 20:59:36 2001] You GMSAY, 'yes, it's me'
+[Tue Jul 24 20:59:38 2001] You GMSAY, 'heh'
+[Tue Jul 24 21:00:10 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 21:00:12 2001] USER TEXT: I was just hit repeatedly for falling damage after teleporting into west commons and this is garbage, and i want my exp back
+[Tue Jul 24 21:00:12 2001] Players in EverQuest:
+[Tue Jul 24 21:00:13 2001] ---------------------------
+[Tue Jul 24 21:00:13 2001] [21 Druid] Draban (Halfling) ZONE: commons (USER PID ASU5VL4)
+[Tue Jul 24 21:00:13 2001] There is 1 player in EverQuest.
+[Tue Jul 24 21:00:42 2001] You say to your guild, 'do we rez for falling into the druid port in WC? I haven't been....'
+[Tue Jul 24 21:01:20 2001] Kezia tells the guild, 'i dont... cant be proven how they died'
+[Tue Jul 24 21:01:38 2001] You say to your guild, 'what if they had a report?'
+[Tue Jul 24 21:02:15 2001] Kezia tells the guild, 'if they have a /report and the report is verified by a GM we can'
+[Tue Jul 24 21:02:27 2001] You say to your guild, 'okay thanks!'
+[Tue Jul 24 21:02:47 2001] You GMSAY, 'zone'
+[Tue Jul 24 21:02:50 2001] Nazbag GMSAYS, 'Im done everyone ,see you all later.  Im off next week so I'll probaby be around a bit more.'
+[Tue Jul 24 21:02:50 2001] Searching zones for corpse of that name....
+[Tue Jul 24 21:02:50 2001] Corpse: Draban's corpse0 in zone: commons
+[Tue Jul 24 21:02:50 2001] Corpse: Draban's corpse0 in zone: kithicor
+[Tue Jul 24 21:02:56 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 21:03:59 2001] Loozefur shouts, 'TP to NK leaving in a few minutes. Send tells if you need a lift.'
+[Tue Jul 24 21:04:06 2001] Santhus shouts, 'buying gls's 7pp each'
+[Tue Jul 24 21:04:11 2001] You have entered West Commonlands.
+[Tue Jul 24 21:04:24 2001] Teleporting to draban's corpse0.
+[Tue Jul 24 21:04:31 2001] Darkhart thanks Glynna heartily.
+[Tue Jul 24 21:04:33 2001] Teleporting to Draban's corpse0 (478.00, 1427.00, -52.87).
+[Tue Jul 24 21:04:34 2001] Ceel Moonwhisper begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:04:34 2001] Shadow Treebright begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:04:36 2001] Slea Pinewhisper says 'Greetings Ottoogi you look like you could use a Rune of Sorcery'
+[Tue Jul 24 21:04:39 2001] orc pawn says 'Centurions!! Attack!! 
+[Tue Jul 24 21:04:39 2001] orc pawn says 'It's Wood Elves like you who have ruined your own lands. You'll not ruin mine!'
+[Tue Jul 24 21:04:44 2001] Santhus shouts, 'anyone at orcs'
+[Tue Jul 24 21:05:06 2001] Glynna begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:05:14 2001] Tenolyen begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:05:18 2001] Glynna begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:05:31 2001] Gomdori auctions, 'WTS hero brace ac9 str10 svd5 svp5 1k'
+[Tue Jul 24 21:05:46 2001] Tenolyen begins to cast a spell. (Gate)
+[Tue Jul 24 21:05:49 2001] Santhus begins to cast a spell. (Suffocating Sphere)
+[Tue Jul 24 21:05:51 2001] Tenolyen fades away.
+[Tue Jul 24 21:05:53 2001] Santhus begins to cast a spell. (Suffocating Sphere)
+[Tue Jul 24 21:05:58 2001] You told Draban, 'Hail, Draban! Guide Espranza here. Did you make a report showing the fall? And if not, could you?'
+[Tue Jul 24 21:06:06 2001] Onpur auctions, 'WTS banded armor 1pp per ac'
+[Tue Jul 24 21:06:09 2001] Lilhobs auctions, 'WTB any items with +WIS or Mana...SEND TELLS PLS'
+[Tue Jul 24 21:06:09 2001] Draban tells you, 'how?'
+[Tue Jul 24 21:06:11 2001] Santhus says, 'can you buff me?'
+[Tue Jul 24 21:06:18 2001] Santhus is looking at your equipment...
+[Tue Jul 24 21:06:27 2001] Gomdori auctions, 'WTS exe axe 25/50 efect-haste'
+[Tue Jul 24 21:06:30 2001] Realin begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:06:30 2001] Gomdori auctions, 'WTS warith bone hammer 8/26 str5 int2 wis2 1hb 500p'
+[Tue Jul 24 21:06:35 2001] Glynna begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:06:38 2001] Ceel Moonwhisper begins to cast a spell. (Skin like Steel)
+[Tue Jul 24 21:06:38 2001] Fugazii auctions, 'selling GLS ! '
+[Tue Jul 24 21:06:38 2001] Spankfurt bows before Glynna.
+[Tue Jul 24 21:06:45 2001] Yalan begins to cast a spell. (Invisibility)
+[Tue Jul 24 21:06:48 2001] Glynna begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:06:49 2001] Santhus shouts, 'buyin gls'
+[Tue Jul 24 21:06:50 2001] Ceel Moonwhisper begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:06:52 2001] You told Draban, 'if you can scroll back your chat window and show the falls, you can use the /report command to send the last ten lines of chat text to a GM to read'
+[Tue Jul 24 21:07:06 2001] Onpur auctions, 'WTS Wu's gauntlets 50pp magic for monks only'
+[Tue Jul 24 21:07:08 2001] Lilhobs says out of character, 'i can buy that bone wraith hammer with less dly for less money..thats a rip off'
+[Tue Jul 24 21:07:09 2001] Draban tells you, 'ok'
+[Tue Jul 24 21:07:11 2001] Yalan says, 'no longer a guide?'
+[Tue Jul 24 21:07:14 2001] Onpur auctions, 'WTS reinforced Leather 2pp per ac good for Druids'
+[Tue Jul 24 21:07:19 2001] You say, 'me?'
+[Tue Jul 24 21:07:21 2001] Onpur auctions, 'WTB HQ wolf and cat pelts 2pp'
+[Tue Jul 24 21:07:25 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:07:26 2001] Yalan says, 'thought you were guide before'
+[Tue Jul 24 21:07:30 2001] Ceel Moonwhisper begins to cast a spell. (Firefist)
+[Tue Jul 24 21:07:33 2001] You say, 'I still am'
+[Tue Jul 24 21:07:45 2001] Yalan says, 'hmm ok'
+[Tue Jul 24 21:07:45 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:07:57 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:07:59 2001] You say, 'isn't my name in green?'
+[Tue Jul 24 21:08:02 2001] Realin begins to cast a spell. (Greater Healing)
+[Tue Jul 24 21:08:02 2001] Yalan says, 'no longer says guide next to name now '
+[Tue Jul 24 21:08:13 2001] You say, 'oh, do /who gm all'
+[Tue Jul 24 21:08:21 2001] Yalan says, 'yup'
+[Tue Jul 24 21:08:22 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:08:22 2001] Ceel Moonwhisper begins to cast a spell. (Shield of Brambles)
+[Tue Jul 24 21:08:47 2001] Santhus begins to cast a spell. (Mircyl's Animation)
+[Tue Jul 24 21:08:47 2001] Players in EverQuest:
+[Tue Jul 24 21:08:47 2001] ---------------------------
+[Tue Jul 24 21:08:47 2001] * Guide *[50 Ranger] Syloc (Wood Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID CUGBXL2)
+[Tue Jul 24 21:08:47 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: commons (USER PID AUGBQH4)
+[Tue Jul 24 21:08:47 2001] * Guide *[53 Illusionist] Kaweewee (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID GUUWCLQ)
+[Tue Jul 24 21:08:47 2001] * Apprentice Guide *[20 Paladin] Theobrin (Dwarf) ZONE: nektulos (USER PID GP528CN)
+[Tue Jul 24 21:08:47 2001] * Senior Guide *[56 Myrmidon] Kezia (Dark Elf) <Keepers of Morell Thule> ZONE: nektulos (USER PID EP47WYZ)
+[Tue Jul 24 21:08:47 2001] There are 5 players in EverQuest.
+[Tue Jul 24 21:08:47 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:08:47 2001] Razryel begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:08:47 2001] Shaderuler auctions, 'WTB Words of Allure or Lvl 24 Necro Pet spell ... paying well ... send tells please!!!'
+[Tue Jul 24 21:08:47 2001] Yalan says, 'huh... does now'
+[Tue Jul 24 21:08:48 2001] Yalan says, 'lol'
+[Tue Jul 24 21:08:49 2001] Santhus shouts, 'is there a orc group?'
+[Tue Jul 24 21:08:49 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:08:49 2001] Yalan begins to cast a spell. (Invisibility)
+[Tue Jul 24 21:08:52 2001] Yalan fades away.
+[Tue Jul 24 21:08:54 2001] You say, 'you have to do it that way'
+[Tue Jul 24 21:08:58 2001] Realin begins to cast a spell. (Shield of Spikes)
+[Tue Jul 24 21:09:00 2001] You say, 'otherwise we're all GMs'
+[Tue Jul 24 21:09:03 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:09:03 2001] Yalan says, 'yeah i did /who'
+[Tue Jul 24 21:09:07 2001] Cypheri says out of character, 'lvl 14 rogue LFG'
+[Tue Jul 24 21:09:20 2001] Realin begins to cast a spell. (Ensnare)
+[Tue Jul 24 21:09:22 2001] Yalan says, 'well im off - bye'
+[Tue Jul 24 21:09:23 2001] You nod at Yalan.
+[Tue Jul 24 21:09:23 2001] Santhus shouts, 'lookin for buffs at dru rings for me and my pet'
+[Tue Jul 24 21:09:27 2001] Yalan waves at Espranza.
+[Tue Jul 24 21:09:30 2001] You wave goodbye to Yalan.
+[Tue Jul 24 21:09:35 2001] Yalan begins to cast a spell. (Invisibility)
+[Tue Jul 24 21:09:39 2001] You told Draban, 'Have you done the report?'
+[Tue Jul 24 21:09:40 2001] Kezia GMSAYS, 'why are you all so quiet?'
+[Tue Jul 24 21:09:40 2001] Yalan fades away.
+[Tue Jul 24 21:09:44 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:09:45 2001] You GMSAY, 'talking with a player'
+[Tue Jul 24 21:09:47 2001] Realin begins to cast a spell. (Ring of Misty)
+[Tue Jul 24 21:09:48 2001] You GMSAY, 'several'
+[Tue Jul 24 21:09:52 2001] Draban tells you, 'yes'
+[Tue Jul 24 21:09:53 2001] Syloc GMSAYS, 'I'm sleeping'
+[Tue Jul 24 21:09:54 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:09:55 2001] Shaderuler auctions, 'WTB Words of Allure or Lvl 24 Necro Pet spell ... paying well ... send tells please!!!'
+[Tue Jul 24 21:09:55 2001] You GMSAY, 'popping into commons keeps ya busy'
+[Tue Jul 24 21:10:00 2001] Auburn makes a rude gesture at a black bear.
+[Tue Jul 24 21:10:01 2001] Kaweewee GMSAYS, 'chasing syloc'
+[Tue Jul 24 21:10:03 2001] Syloc GMSAYS, 'hehe, I bet'
+[Tue Jul 24 21:10:03 2001] You told Draban, 'what name did you report it under?'
+[Tue Jul 24 21:10:04 2001] a black bear has been slain by Auburn!
+[Tue Jul 24 21:10:09 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:10:12 2001] Glynna begins to cast a spell. (Gate)
+[Tue Jul 24 21:10:30 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:10:36 2001] Ceel Moonwhisper begins to cast a spell. (Shield of Brambles)
+[Tue Jul 24 21:11:00 2001] Draban tells you, 'i don't know i have no idea how that command works'
+[Tue Jul 24 21:11:00 2001] Guildersleeve begins to cast a spell. (Strength of Stone)
+[Tue Jul 24 21:11:00 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:11:05 2001] Santhus shouts, 'buying gls's 7pp each'
+[Tue Jul 24 21:11:05 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:11:10 2001] Guildersleeve begins to cast a spell. (Strength of Stone)
+[Tue Jul 24 21:11:11 2001] Santhus shouts, 'lookin for buffs at dru rings for me and my pet'
+[Tue Jul 24 21:11:11 2001] Kaweewee GMSAYS, 'zonerific'
+[Tue Jul 24 21:11:27 2001] Storum laughs at a skeleton.
+[Tue Jul 24 21:11:28 2001] You told Draban, 'okay, scroll back to show the text showing you took damage right after porting in - then type /report Draban'
+[Tue Jul 24 21:11:29 2001] Darkhart begins to cast a spell. (Monster Summoning I)
+[Tue Jul 24 21:11:30 2001] Storum begins to cast a spell. (Calefaction)
+[Tue Jul 24 21:11:32 2001] A skeleton blisters and burns.
+[Tue Jul 24 21:11:32 2001] a skeleton has been slain by Storum!
+[Tue Jul 24 21:11:52 2001] Draban tells you, 'done'
+[Tue Jul 24 21:11:53 2001] You GMSAY, 'the tutorial should contain a section on using /report'
+[Tue Jul 24 21:11:54 2001] Guildersleeve begins to cast a spell. (Regeneration)
+[Tue Jul 24 21:11:56 2001] Santhus begins to cast a spell. (Haze)
+[Tue Jul 24 21:11:56 2001] Darkhart says, 'Hail, Espranza'
+[Tue Jul 24 21:12:01 2001] Santhus begins to cast a spell. (Strengthen)
+[Tue Jul 24 21:12:06 2001] You told Draban, 'okay, I have to log to find a GM to read it - brb'
+[Tue Jul 24 21:12:07 2001] Santhus begins to cast a spell. (Haze)
+[Tue Jul 24 21:12:07 2001] You say, 'hiya'
+[Tue Jul 24 21:12:10 2001] It will take you about 30 seconds to prepare your camp.
+[Tue Jul 24 21:12:13 2001] You GMSAY, 'logging to chat'
+[Tue Jul 24 21:12:13 2001] Santhus begins to cast a spell. (Strengthen)
+[Tue Jul 24 21:12:14 2001] It will take about 25 more seconds to prepare your camp.
+[Tue Jul 24 21:12:19 2001] It will take about 20 more seconds to prepare your camp.
+[Tue Jul 24 21:12:20 2001] Darkhart says, 'Just wanted to say "HI"'
+[Tue Jul 24 21:12:22 2001] Darkhart waves at Espranza.
+[Tue Jul 24 21:12:24 2001] It will take about 15 more seconds to prepare your camp.
+[Tue Jul 24 21:12:25 2001] You say, 'thankee!'
+[Tue Jul 24 21:12:29 2001] It will take about 10 more seconds to prepare your camp.
+[Tue Jul 24 21:12:33 2001] STATUS UPGRADED TO URGENT
+[Tue Jul 24 21:12:33 2001] Santhus says, 'Hail, Espranza'
+[Tue Jul 24 21:12:33 2001] Syloc GMSAYS, 'they should fix the evil pillars in Sunset home'
+[Tue Jul 24 21:12:34 2001] It will take about 5 more seconds to prepare your camp.
+[Tue Jul 24 21:12:36 2001] CHECKING IN
+[Tue Jul 24 21:22:28 2001] Fugazii auctions, 'selling GLS !'
+[Tue Jul 24 21:22:39 2001] You have entered West Commonlands.
+[Tue Jul 24 21:22:46 2001] You GMSAY, 'back'
+[Tue Jul 24 21:22:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 21:23:20 2001] You GMSAY, '<note> GM Rohadrim authorized a rez for Draban for falling damage in WC due to druid port in'
+[Tue Jul 24 21:23:35 2001] USER TEXT: I was just hit repeatedly for falling damage after teleporting into west commons and this is garbage, and i want my exp back
+[Tue Jul 24 21:23:36 2001] Players in EverQuest:
+[Tue Jul 24 21:23:36 2001] ---------------------------
+[Tue Jul 24 21:23:36 2001] [21 Druid] Draban (Halfling) ZONE: kithicor (USER PID ASU5VL4)
+[Tue Jul 24 21:23:36 2001] There is 1 player in EverQuest.
+[Tue Jul 24 21:23:36 2001] Ottoogi yells for help from behind you and to the right.
+[Tue Jul 24 21:23:36 2001] Yobittyx begins to cast a spell. (Remedy)
+[Tue Jul 24 21:23:36 2001] Armen begins to cast a spell. (Draught of Fire)
+[Tue Jul 24 21:23:36 2001] Armen begins to cast a spell. (Draught of Fire)
+[Tue Jul 24 21:23:36 2001] Aludair points at Magnetician. Yeah you!
+[Tue Jul 24 21:23:36 2001] **A Magic Die is rolled by Wikkiwikwik.
+[Tue Jul 24 21:23:36 2001] **It could have been any number from 0 to 100, but this time it turned up a 60.
+[Tue Jul 24 21:23:37 2001] Tarquin begins to cast a spell. (Chloroblast)
+[Tue Jul 24 21:23:37 2001] Aludair auctions, 'WTB HQ cat pelts. send tells'
+[Tue Jul 24 21:23:39 2001] Ottoogi says out of character, 'thanks all'
+[Tue Jul 24 21:23:46 2001] Tarquin begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:23:50 2001] Santhus shouts, 'buyin DF slashed belts and gls's send tells'
+[Tue Jul 24 21:23:56 2001] Losloco begins to cast a spell. (Strength of Stone)
+[Tue Jul 24 21:23:57 2001] Searching zones for corpse of that name....
+[Tue Jul 24 21:23:58 2001] Corpse: Draban's corpse0 in zone: commons
+[Tue Jul 24 21:24:03 2001] Dolcemorte tells you, 'O_o'
+[Tue Jul 24 21:24:03 2001] Searching for draban's corpse0.
+[Tue Jul 24 21:24:04 2001] Player is in zone commons at x = 478 y = 1427 z = -51.
+[Tue Jul 24 21:24:09 2001] Aludair says, 'Hail, Goldenwind'
+[Tue Jul 24 21:24:11 2001] You told Draban, 'ready for a rez?'
+[Tue Jul 24 21:24:13 2001] Shadow Treebright begins to cast a spell. (Combust)
+[Tue Jul 24 21:24:14 2001] Nallyah auctions, 'WTS straw spun belt 30pp 10ac 6wt. ALL ALL'
+[Tue Jul 24 21:24:15 2001] Swiftmoor GMSAYS, 'Hello Espranza'
+[Tue Jul 24 21:24:16 2001] Nallyah auctions, 'WTS fighting batons 1HB 8 20 monk only 500pp each'
+[Tue Jul 24 21:24:17 2001] Draban tells you, 'yes'
+[Tue Jul 24 21:24:17 2001] Goldenwind grabs hold of Aludair and begins to dance with her.
+[Tue Jul 24 21:24:19 2001] Goldenwind begins to cast a spell. (Clarity)
+[Tue Jul 24 21:24:20 2001] Shadow Treebright begins to cast a spell. (Creeping Crud)
+[Tue Jul 24 21:24:22 2001] Aludair grabs hold of Goldenwind and begins to dance with him.
+[Tue Jul 24 21:24:22 2001] Aludair looks tranquil.
+[Tue Jul 24 21:24:29 2001] Aludair grabs hold of Woffie and begins to dance with him.
+[Tue Jul 24 21:24:29 2001] **A Magic Die is rolled by Yobittyx.
+[Tue Jul 24 21:24:29 2001] **It could have been any number from 0 to 100, but this time it turned up a 54.
+[Tue Jul 24 21:24:29 2001] Fugazii says, 'Hail, Santhus'
+[Tue Jul 24 21:24:30 2001] Losloco auctions, 'wts pally only ghoulbane, 1hs 15/34 dismiss undead'
+[Tue Jul 24 21:24:30 2001] Aludair begins to cast a spell. (Greater Healing)
+[Tue Jul 24 21:24:31 2001] Dolcemorte tells you, 'while your in Ec mind auctioning wtb persian emeralds? heh i only need one more before i have all gems for my new SS robe'
+[Tue Jul 24 21:24:31 2001] **A Magic Die is rolled by Xantann.
+[Tue Jul 24 21:24:31 2001] **It could have been any number from 0 to 100, but this time it turned up a 70.
+[Tue Jul 24 21:24:31 2001] Shadow Treebright begins to cast a spell. (Cancel Magic)
+[Tue Jul 24 21:24:32 2001] Woffie feels much better.
+[Tue Jul 24 21:24:37 2001] Shadow Treebright begins to cast a spell. (Cancel Magic)
+[Tue Jul 24 21:24:40 2001] Kaweewee GMSAYS, 'zonerific'
+[Tue Jul 24 21:24:40 2001] Losloco auctions, 'wts ghoulbane or trade for +7 wis rings and 300pp'
+[Tue Jul 24 21:24:40 2001] **A Magic Die is rolled by Magnetician.
+[Tue Jul 24 21:24:40 2001] **It could have been any number from 0 to 100, but this time it turned up a 48.
+[Tue Jul 24 21:24:41 2001] Shadow Treebright begins to cast a spell. (Ensnaring Roots)
+[Tue Jul 24 21:24:41 2001] You told Dolcemorte, 'LOL'
+[Tue Jul 24 21:24:42 2001] Fugazii says, 'Hail, Santhus'
+[Tue Jul 24 21:24:43 2001] Shadow Treebright begins to cast a spell. (Combust)
+[Tue Jul 24 21:24:46 2001] You GMSAY, 'hiya Swift'
+[Tue Jul 24 21:24:47 2001] Dolcemorte tells you, 'please:)?'
+[Tue Jul 24 21:24:47 2001] Shadow Treebright begins to cast a spell. (Combust)
+[Tue Jul 24 21:24:47 2001] Xazrn begins to cast a spell. (Invoke Fear)
+[Tue Jul 24 21:24:48 2001] Santhus says, 'Hail'
+[Tue Jul 24 21:24:54 2001] Woffie cheers at Magnetician.
+[Tue Jul 24 21:25:02 2001] Draban tells you, 'thanks'
+[Tue Jul 24 21:25:02 2001] Xazrn begins to cast a spell. (Call of Bones)
+[Tue Jul 24 21:25:03 2001] Aludair begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:25:04 2001] Slea Pinewhisper says 'Greetings Ryssa you look like you could use a Bloodstone'
+[Tue Jul 24 21:25:08 2001] Goldenwind is surrounded by a brief lupine aura.
+[Tue Jul 24 21:25:18 2001] Woffie says, 'thanks for who ever healed me'
+[Tue Jul 24 21:25:22 2001] Kezia GMSAYS, 'zoning'
+[Tue Jul 24 21:25:22 2001] You told Draban, 'sure thing )'
+[Tue Jul 24 21:25:22 2001] Aludair welcomes Woffie warmly.
+[Tue Jul 24 21:25:22 2001] Dolcemorte tells you, 'btw i am curious how many evil checks by my name:)?'
+[Tue Jul 24 21:25:23 2001] DELETING THIS PETITION
+[Tue Jul 24 21:25:32 2001] Draban begins to cast a spell. (Spirit of Wolf)
+[Tue Jul 24 21:25:32 2001] Goldenwind begins to cast a spell. (Adorning Grace)
+[Tue Jul 24 21:25:34 2001] You told Dolcemorte, 'you think there are some?'
+[Tue Jul 24 21:25:36 2001] You GMSAY, 'zone'
+[Tue Jul 24 21:25:45 2001] Moren begins to cast a spell. (Color Slant)
+[Tue Jul 24 21:25:45 2001] Moren's casting is interrupted!
+[Tue Jul 24 21:25:45 2001] Draban begins to cast a spell. (Strength of Earth)
+[Tue Jul 24 21:25:46 2001] You were hit by non-melee for 265 dmg.
+[Tue Jul 24 21:25:46 2001] YOU were injured by falling.
+[Tue Jul 24 21:25:50 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 21:26:14 2001] You have entered Sunset Home.
+[Tue Jul 24 21:26:21 2001] Dolcemorte tells you, 'na i dont think i have any.. but i want to see if i do heh:)~... ToV is getting boring'
+[Tue Jul 24 21:26:22 2001] Syloc GMSAYS, 'Night Kawee'
+[Tue Jul 24 21:26:23 2001] You GMSAY, 'had to get out of commons...'
+[Tue Jul 24 21:26:36 2001] You GMSAY, 'night Kawee!'
+[Tue Jul 24 21:26:51 2001] You told Dolcemorte, 'um, you're not planning anything, are you?'
+[Tue Jul 24 21:26:54 2001] Players in EverQuest:
+[Tue Jul 24 21:26:54 2001] ---------------------------
+[Tue Jul 24 21:26:54 2001] [60 Sorcerer] Dolcemorte (Erudite) <Thunderwalkers> ZONE: templeveeshan (USER PID FQL6SPS) LFG
+[Tue Jul 24 21:26:54 2001] There is 1 player in EverQuest.
+[Tue Jul 24 21:26:59 2001] Dolcemorte tells you, 'who me? never'
+[Tue Jul 24 21:27:25 2001] Kezia GMSAYS, 'NGite kAw'
+[Tue Jul 24 21:27:28 2001] The spirit leaves you.
+[Tue Jul 24 21:27:38 2001] Saving soulmark information to server.
+[Tue Jul 24 21:27:44 2001] You told Dolcemorte, 'nothing nasty'
+[Tue Jul 24 21:27:49 2001] Dolcemorte tells you, '~,~'
+[Tue Jul 24 21:28:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 21:28:01 2001] USER TEXT: I might need a GM over at my naggy raid.. I dont want another Ninja Looting incident... but just incase 
+[Tue Jul 24 21:28:01 2001] Players in EverQuest:
+[Tue Jul 24 21:28:01 2001] ---------------------------
+[Tue Jul 24 21:28:01 2001] [51 Cavalier] Neoknight (Human) <Tolkien's Revenge> ZONE: soldungb (USER PID ASCZMBW)
+[Tue Jul 24 21:28:01 2001] There is 1 player in EverQuest.
+[Tue Jul 24 21:28:02 2001] Swiftmoor GMSAYS, 'deleting Inoria, requested character restoration. told to try when Lirus is on and gave hours. Also made note for DSR'
+[Tue Jul 24 21:28:06 2001] Logging to 'eqlog.txt' is now *ON*.
+[Tue Jul 24 21:28:12 2001] Dolcemorte tells you, 'na i was gona ask a  smart ass quiestoin to a  gm thou....'
+[Tue Jul 24 21:28:12 2001] Syloc GMSAYS, 'anyone know how to fix someone that doesn't see the animations for duck, sit, feign death, attack...?'
+[Tue Jul 24 21:28:12 2001] Kezia GMSAYS, 'and on that note... im outta here.. will someone please take my appy =)'
+[Tue Jul 24 21:28:19 2001] Dolcemorte tells you, 'arse... sorrry'
+[Tue Jul 24 21:28:19 2001] Swiftmoor GMSAYS, 'pulling Perefouetard'
+[Tue Jul 24 21:28:24 2001] Theobrin GMSAYS, 'deleting labien finally'
+[Tue Jul 24 21:28:31 2001] Swiftmoor GMSAYS, 'goodnight'
+[Tue Jul 24 21:28:35 2001] Syloc GMSAYS, 'Night Kezia!'
+[Tue Jul 24 21:28:43 2001] You told Neoknight, 'Neoknight is not online at this time.'
+[Tue Jul 24 21:28:45 2001] Kezia GMSAYS, 'GNIte all!'
+[Tue Jul 24 21:28:51 2001] Theobrin GMSAYS, 'night Kezia'
+[Tue Jul 24 21:28:55 2001] Kezia GMSAYS, 'someone pick up my appy pleawe =)'
+[Tue Jul 24 21:28:58 2001] You told Neoknight, 'Neoknight is not online at this time.'
+[Tue Jul 24 21:28:59 2001] Swiftmoor GMSAYS, 'I read that if they log off completely, zone out and back in or something that it fixes the problem'
+[Tue Jul 24 21:28:59 2001] Kezia GMSAYS, 'HUUUUGGGGGS to all'
+[Tue Jul 24 21:29:03 2001] Dolcemorte tells you, 'just somone telling labien... that his corpse is bugged in ToV. and somone can see it so they cant help... but  problem is you cant let anyone drag your corpse in ToV or they get agroed and die.. so its kinda hard for us to get his corpse.'
+[Tue Jul 24 21:29:07 2001] Syloc GMSAYS, 'ok'
+[Tue Jul 24 21:29:15 2001] It begins to rain.
+[Tue Jul 24 21:29:21 2001] You told Dolcemorte, 'have whoever it is petition'
+[Tue Jul 24 21:29:29 2001] Dolcemorte tells you, 'that was the answer from the gm...'
+[Tue Jul 24 21:29:44 2001] You told Dolcemorte, 'which GM'
+[Tue Jul 24 21:29:49 2001] Searching zones for corpse of that name....
+[Tue Jul 24 21:29:58 2001] You told Dolcemorte, 'Labien has no corpse'
+[Tue Jul 24 21:30:03 2001] You told Neoknight, 'Neoknight is not online at this time.'
+[Tue Jul 24 21:30:07 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Jul 24 21:30:08 2001] CHECKING IN
+[Tue Jul 24 21:30:14 2001] You GMSAY, 'Neoknight unavail 21'
+[Tue Jul 24 21:30:16 2001] You GMSAY, 'Neoknight unavail 1'
+[Tue Jul 24 21:30:30 2001] You feel the spirit of Norrath enter you.
+[Tue Jul 24 21:30:34 2001] Dolcemorte tells you, 'bleh nm.. im tring to complain and they summon it.. waste off 200pp'
+[Tue Jul 24 21:30:35 2001] Players in EverQuest:
+[Tue Jul 24 21:30:35 2001] ---------------------------
+[Tue Jul 24 21:30:35 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Tue Jul 24 21:30:35 2001] * Guide *[50 Ranger] Syloc (Wood Elf) <Keepers of Morell Thule> ZONE: freportn (USER PID CUGBXL2)
+[Tue Jul 24 21:30:35 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: freportn (USER PID HR6C7H5)
+[Tue Jul 24 21:30:35 2001] * Apprentice Guide *[20 Paladin] Theobrin (Dwarf) ZONE: nektulos (USER PID GP528CN)
+[Tue Jul 24 21:30:35 2001] There are 4 players in EverQuest.
+[Tue Jul 24 21:30:48 2001] Syloc tells the guild, 'Esp, want to take Swiftmoor or want me to take him?'
+[Tue Jul 24 21:31:10 2001] You say to your guild, 'I'm willing, but if you like, no matter )'
+[Tue Jul 24 21:31:20 2001] Dolcemorte tells you, 'he says theobrin but he was talking to a gm gm'
+[Tue Jul 24 21:31:27 2001] Theobrin GMSAYS, 'appy looking for friends'
+[Tue Jul 24 21:31:32 2001] You GMSAY, 'I gotcha'
+[Tue Jul 24 21:31:35 2001] You GMSAY, 'zone'
+[Tue Jul 24 21:31:36 2001] Theobrin GMSAYS, 'cool 8)'
+[Tue Jul 24 21:31:38 2001] Teleporting to theobrin.
+[Tue Jul 24 21:31:38 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 21:32:21 2001] Syloc tells the guild, 'oops, I meant Theobrin, I have Swiftmoor now'
+[Tue Jul 24 21:32:23 2001] You have entered Nektulos Forest.
+[Tue Jul 24 21:32:25 2001] Syloc GMSAYS, 'hehe'
+[Tue Jul 24 21:32:28 2001] Garbash shouts, 'wtb SPIDER silks....send tells'
+[Tue Jul 24 21:32:30 2001] Theobrin beams a smile at Espranza.
+[Tue Jul 24 21:32:37 2001] Theobrin says, 'my favorite halfling'
+[Tue Jul 24 21:32:43 2001] Dolcemorte tells you, 'so have you guys taken fay yet?'
+[Tue Jul 24 21:32:58 2001] You told Dolcemorte, 'nah working on setting it up'
+[Tue Jul 24 21:33:07 2001] You invite Theobrin to join your group.
+[Tue Jul 24 21:33:08 2001] Theobrin beams a smile at Espranza.
+[Tue Jul 24 21:33:16 2001] You have formed the group.
+[Tue Jul 24 21:33:19 2001] You told Dolcemorte, 'getting more friends'
+[Tue Jul 24 21:33:21 2001] You tell your party, 'hiya!'
+[Tue Jul 24 21:33:24 2001] Theobrin tells the group, 'hiya'
+[Tue Jul 24 21:33:29 2001] Theobrin tells the group, 'thanks for mentoring me 8)'
+[Tue Jul 24 21:33:34 2001] Theobrin GMSAYS, 'pulling neoknight'
+[Tue Jul 24 21:33:47 2001] Dolcemorte tells you, 'heh ill make a army of lvl 1s to help.. and ill amke sure we are all gnomes'
+[Tue Jul 24 21:33:53 2001] You tell your party, 'yer a joy!'
+[Tue Jul 24 21:33:57 2001] Garbash shouts, 'wtb SPIDER silks....send tells'
+[Tue Jul 24 21:34:00 2001] You told Dolcemorte, 'oooh!'
+[Tue Jul 24 21:34:07 2001] Swiftmoor GMSAYS, 'deleting Perefouetard, wanted loc of friend's corpse.'
+[Tue Jul 24 21:34:10 2001] You say to your guild, 'You taking Swifty?'
+[Tue Jul 24 21:34:16 2001] Tormas kneels before Espranza in humility and reverence.
+[Tue Jul 24 21:34:17 2001] Tormas says, 'wow'
+[Tue Jul 24 21:34:21 2001] Tormas says, 'GM kewl'
+[Tue Jul 24 21:34:22 2001] Theobrin says, 'hiya'
+[Tue Jul 24 21:34:25 2001] Uumuur auctions, 'looking to buy a walrus tooth'
+[Tue Jul 24 21:34:27 2001] Tormas bows before Theobrin.
+[Tue Jul 24 21:34:30 2001] Tormas says, 'guide too eh'
+[Tue Jul 24 21:34:33 2001] Tormas says, 'sweet'
+[Tue Jul 24 21:34:37 2001] Fivin auctions, 'wts 5 spider silks'
+[Tue Jul 24 21:34:38 2001] You say, 'heh just a guide, me'
+[Tue Jul 24 21:34:54 2001] Swiftmoor GMSAYS, 'is there a over-seas player base on this server that anyone has noticed?'
+[Tue Jul 24 21:34:54 2001] Tormas says, 'Hail, Espranza'
+[Tue Jul 24 21:34:57 2001] Tormas says, 'oops'
+[Tue Jul 24 21:35:01 2001] Tormas says, 'hard to be a guide?'
+[Tue Jul 24 21:35:11 2001] You say, 'Depends how much ya like helping people'
+[Tue Jul 24 21:35:15 2001] Theobrin says, 'nah, just a bit of patientce'
+[Tue Jul 24 21:35:28 2001] Theobrin attempts to speel, and fails miserably.
+[Tue Jul 24 21:35:29 2001] Swiftmoor GMSAYS, 'pulling Masarik'
+[Tue Jul 24 21:35:37 2001] You GMSAY, 'Lots of French people on this server'
+[Tue Jul 24 21:35:46 2001] You giggle at Tormas.
+[Tue Jul 24 21:35:46 2001] Tormas says, 'hehe well take care, anything i can help u 2 with now?'
+[Tue Jul 24 21:35:52 2001] Tormas grabs hold of Espranza and begins to dance with her.
+[Tue Jul 24 21:35:53 2001] You say, 'Nah, just looking around'
+[Tue Jul 24 21:35:55 2001] Theobrin GMSAYS, 'i've noticed that, when i'm on in early afternoon'
+[Tue Jul 24 21:35:56 2001] Tormas says, 'k'
+[Tue Jul 24 21:35:58 2001] You beam a smile at Tormas.
+[Tue Jul 24 21:36:01 2001] Swiftmoor GMSAYS, 'ok, I seem to have noticed. My server has a lot of Taiwanese'
+[Tue Jul 24 21:36:05 2001] Tormas says, 'take care and GL Theobrin'
+[Tue Jul 24 21:36:09 2001] You GMSAY, 'Mine has a lot of Japanese'
+[Tue Jul 24 21:36:11 2001] Theobrin says, 'thank ya'
+[Tue Jul 24 21:36:11 2001] Syloc GMSAYS, 'My server has a lot of germans'
+[Tue Jul 24 21:36:18 2001] Tormas bow to both GM and guide.
+[Tue Jul 24 21:36:49 2001] Theobrin GMSAYS, 'checking in neoknight, unavail'
+[Tue Jul 24 21:36:53 2001] Searching for a_leatherfoot_raider00.
+[Tue Jul 24 21:36:54 2001] Could not locate player with that name.
+[Tue Jul 24 21:37:01 2001] You GMSAY, 'how many times was that?'
+[Tue Jul 24 21:37:16 2001] Theobrin GMSAYS, '2 now'
+[Tue Jul 24 21:37:52 2001] You tell your party, 'get some yellows so we can go exploring'
+[Tue Jul 24 21:37:54 2001] Theobrin GMSAYS, 'he's doing a naggy raid, i would presume they have finished buffing him and he's camped to preserve buffs'
+[Tue Jul 24 21:38:05 2001] Theobrin tells the group, 'hehe i'll try'
+[Tue Jul 24 21:38:10 2001] Swiftmoor GMSAYS, 'escalating Masarik, corpse is stuck and can't be pulled or rezed'
+[Tue Jul 24 21:38:19 2001] You GMSAY, 'well we can't be babysitting either'
+[Tue Jul 24 21:38:20 2001] Sodar auctions, 'WTB Vials of Viscous Mana  IIII Spider Silks'
+[Tue Jul 24 21:38:25 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 21:38:25 2001] USER TEXT: my corpse is stuck 
+[Tue Jul 24 21:38:26 2001] Players in EverQuest:
+[Tue Jul 24 21:38:26 2001] ---------------------------
+[Tue Jul 24 21:38:26 2001] [52 Reaver] Masarik (Iksar) <Triune> ZONE: sebilis (USER PID BQ0QJD0)
+[Tue Jul 24 21:38:26 2001] There is 1 player in EverQuest.
+[Tue Jul 24 21:38:36 2001] UNDOING CHECK OUT
+[Tue Jul 24 21:38:41 2001] Treybadeaux shouts, 'SWEET GOD SHE'S Fine !'
+[Tue Jul 24 21:38:46 2001] You say to your guild, 'who has Swiftmoor?'
+[Tue Jul 24 21:38:52 2001] Syloc tells the guild, 'I do'
+[Tue Jul 24 21:38:55 2001] Uumuur auctions, 'look for a walrus tooth'
+[Tue Jul 24 21:39:02 2001] You say to your guild, 'take him to Sebilis....'
+[Tue Jul 24 21:39:08 2001] You say to your guild, 'we can bring appies on yellows now'
+[Tue Jul 24 21:39:11 2001] Syloc tells the guild, 'ok'
+[Tue Jul 24 21:39:26 2001] Syloc GMSAYS, 'zone'
+[Tue Jul 24 21:39:54 2001] Ziltin says out of character, 'Looking to Buy Decent piercing weapon for Necro newbie )'
+[Tue Jul 24 21:40:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 21:40:37 2001] USER TEXT: I might need a GM over at my naggy raid.. I dont want another Ninja Looting incident... but just incase 
+[Tue Jul 24 21:40:38 2001] Players in EverQuest:
+[Tue Jul 24 21:40:38 2001] ---------------------------
+[Tue Jul 24 21:40:38 2001] There are no players in EverQuest that match those who filters.
+[Tue Jul 24 21:40:44 2001] Theobrin tells the group, 'i hear you are getting tells from people in my last big pet with Kezia?'
+[Tue Jul 24 21:40:46 2001] Dolcemorte tells you, 'hay... are cleric died getting labiesn corpse.. he has a complant.. would you send him a tell in a moment so ehe can tell you?'
+[Tue Jul 24 21:40:55 2001] You GMSAY, 'Neoknight unavail 3 ****flush****'
+[Tue Jul 24 21:40:58 2001] DELETING THIS PETITION
+[Tue Jul 24 21:41:02 2001] You tell your party, 'the ToV corpse?'
+[Tue Jul 24 21:41:07 2001] Theobrin tells the group, 'yeah'
+[Tue Jul 24 21:41:10 2001] Gzal auctions, 'WTS MED BRONZE girdle AC 7 14pp'
+[Tue Jul 24 21:41:12 2001] Gzal auctions, 'WTS charred gauntlets AC 7 DEX+3 INT+5 270pp'
+[Tue Jul 24 21:41:12 2001] Ziltin says out of character, 'Or looking to buy !hb for necro'
+[Tue Jul 24 21:41:14 2001] You told Dolcemorte, 'rather get a petition'
+[Tue Jul 24 21:41:15 2001] Players in EverQuest:
+[Tue Jul 24 21:41:15 2001] ---------------------------
+[Tue Jul 24 21:41:15 2001] * Guide *[50 Ranger] Syloc (Wood Elf) <Keepers of Morell Thule> ZONE: sebilis (USER PID CUGBXL2)
+[Tue Jul 24 21:41:15 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: nektulos (USER PID AUGBQH4)
+[Tue Jul 24 21:41:15 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: freportn (USER PID HR6C7H5)
+[Tue Jul 24 21:41:15 2001] * Apprentice Guide *[20 Paladin] Theobrin (Dwarf) ZONE: nektulos (USER PID GP528CN)
+[Tue Jul 24 21:41:15 2001] There are 4 players in EverQuest.
+[Tue Jul 24 21:41:16 2001] Gzal auctions, 'WTS Tower guards blade AC5 16-36 200pp'
+[Tue Jul 24 21:41:24 2001] Dolcemorte tells you, 'so you want him to petition he has a complaint?'
+[Tue Jul 24 21:41:29 2001] Uumuur auctions, 'looking for a decent piercing weapon'
+[Tue Jul 24 21:41:32 2001] Syloc tells the guild, 'when the corpse is visibly at the safe point, but really isn't. Where do you usually pull them?'
+[Tue Jul 24 21:42:00 2001] You say to your guild, 'I don't. It is usually stuck in a wall - pull it from the wall and it'll disappear from the zone. The one at the zone is a ghost.'
+[Tue Jul 24 21:42:12 2001] You told Dolcemorte, 'or use feedback...'
+[Tue Jul 24 21:42:28 2001] Espranza saved.
+[Tue Jul 24 21:42:54 2001] Theobrin GMSAYS, 'pulling relad'
+[Tue Jul 24 21:43:00 2001] Swiftmoor GMSAYS, 'pulling Relad...... or imagining I am'
+[Tue Jul 24 21:43:06 2001] Swiftmoor GMSAYS, 'Zoning!!'
+[Tue Jul 24 21:43:09 2001] You GMSAY, 'pull THEN announce!'
+[Tue Jul 24 21:43:29 2001] Theobrin GMSAYS, 'really? was originally told to announce then pull'
+[Tue Jul 24 21:43:34 2001] Theobrin GMSAYS, 'alright, np'
+[Tue Jul 24 21:43:57 2001] You GMSAY, 'with a jumpy queue and jumpy guides, best to be sure'
+[Tue Jul 24 21:43:58 2001] Gzal shouts, 'givin away some Med bronze to newbies send tell'
+[Tue Jul 24 21:44:08 2001] Theobrin GMSAYS, 'alright'
+[Tue Jul 24 21:44:40 2001] Dolcemorte tells you, 'ok labien just petitioned.'
+[Tue Jul 24 21:44:41 2001] Theobrin tells the group, 'if a cyclops is camping sister island, is there anything we can do?'
+[Tue Jul 24 21:44:46 2001] You tell your party, 'no'
+[Tue Jul 24 21:44:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 21:44:49 2001] USER TEXT: would like to talk to a guide about getting a policy reguarding temple of veeshan policy including corpse summoning.  This is due to a recent incedent with corpse dragging aggros and is something that needs to be looked into..
+[Tue Jul 24 21:44:49 2001] Players in EverQuest:
+[Tue Jul 24 21:44:49 2001] ---------------------------
+[Tue Jul 24 21:44:49 2001] [ANON (57 Preserver)] Labien (Half Elf) ZONE: templeveeshan (USER PID FNFGLSM)
+[Tue Jul 24 21:44:49 2001] There is 1 player in EverQuest.
+[Tue Jul 24 21:45:02 2001] Theobrin tells the group, 'didn't think so, but figured i'd check'
+[Tue Jul 24 21:45:09 2001] You say to your guild, 'Did Kezia say something about ToV corpses?'
+[Tue Jul 24 21:45:20 2001] You say to your guild, 'because I just got a complaint about our policy'
+[Tue Jul 24 21:45:49 2001] Gzal auctions, 'WTS charred gauntlets AC 7 DEX+3 INT+5 270pp'
+[Tue Jul 24 21:45:51 2001] Gzal auctions, 'WTS bladed Thulian Claws 5-19 150pp'
+[Tue Jul 24 21:46:17 2001] Artious tells you, 'me tinks the FD is broken again'
+[Tue Jul 24 21:46:26 2001] You GMSAY, 'Did Kezia or another senior make some statement about corpses in ToV?'
+[Tue Jul 24 21:46:34 2001] Theobrin GMSAYS, 'yes'
+[Tue Jul 24 21:46:45 2001] You GMSAY, 'what was it?'
+[Tue Jul 24 21:46:59 2001] Togtog says, '=)'
+[Tue Jul 24 21:47:02 2001] Togtog bows before Espranza.
+[Tue Jul 24 21:47:03 2001] Togtog waves at Espranza.
+[Tue Jul 24 21:47:04 2001] You say, 'hiya Togtog!'
+[Tue Jul 24 21:47:06 2001] Vengentz shouts, 'Muhahaha my brothers!  I have returned from the human lands!  I have done great evil in our FAthers name!'
+[Tue Jul 24 21:47:14 2001] Theobrin GMSAYS, 'if its resable/targetable by other players, its not stuck in walls and therefore not touchable by gms'
+[Tue Jul 24 21:47:17 2001] Vinye shouts, 'can someone give me a sow so i can get my corpse?'
+[Tue Jul 24 21:47:22 2001] Theobrin GMSAYS, 'since it is CS restricted'
+[Tue Jul 24 21:47:47 2001] You GMSAY, 'hmmm... but this seems to have been a corpse in the wall, shadowed at safe spot'
+[Tue Jul 24 21:48:16 2001] Theobrin GMSAYS, 'she went over there to investigate and said it wasn't'
+[Tue Jul 24 21:48:17 2001] Vinye shouts, 'can someone give me a sow at the gate, i'm on a CR'
+[Tue Jul 24 21:48:29 2001] You GMSAY, 'okay, she would know'
+[Tue Jul 24 21:48:42 2001] Vengentz auctions, 'WTS Blackened crystalline robe....going cheap!'
+[Tue Jul 24 21:49:29 2001] Theobrin GMSAYS, 'hehe that was a long drawn out ordeal, but she was directly overseeing the whole thing'
+[Tue Jul 24 21:49:30 2001] You told Labien, 'Hail, Labien! Guide Espranza here. Senior Guide Kezia went over and determined this wasn't a corpse-in-the-wall problem - in these cases, we cannot touch the corpse at all.'
+[Tue Jul 24 21:49:50 2001] You GMSAY, 'just want to make sure it doesn't look like we don't talk here )'
+[Tue Jul 24 21:49:53 2001] Labien tells you, 'even if the people who zone in cannot see the corpse IE me and anyone else'
+[Tue Jul 24 21:49:57 2001] Labien tells you, '?'
+[Tue Jul 24 21:50:17 2001] Labien tells you, 'if everyone in the zone zones out then in then no one can see it and then it matches policy and can be summoned'
+[Tue Jul 24 21:50:34 2001] You told Labien, 'Well, Kezia checked it out... and nobody knows policy better than her.'
+[Tue Jul 24 21:50:50 2001] Labien tells you, 'lagging bad for a second hun BRB if i LD'
+[Tue Jul 24 21:50:56 2001] You told Labien, 'okay'
+[Tue Jul 24 21:51:27 2001] Syloc GMSAYS, 'zone'
+[Tue Jul 24 21:51:32 2001] Swiftmoor GMSAYS, 'zone soon'
+[Tue Jul 24 21:52:05 2001] Coldtear shouts, 'any1 know where library is in neriak?'
+[Tue Jul 24 21:52:38 2001] Espranza saved.
+[Tue Jul 24 21:52:43 2001] Theobrin GMSAYS, 'zoning'
+[Tue Jul 24 21:53:34 2001] You told Labien, 'Labien is not online at this time.'
+[Tue Jul 24 21:54:17 2001] You GMSAY, '<note> Labien FNFGLSM says because of aggro issues etc., our policy on not moving corpses in CS restricted zones is unfair.'
+[Tue Jul 24 21:54:48 2001] DELETING THIS PETITION
+[Tue Jul 24 21:55:31 2001] Syloc GMSAYS, 'What happened Esp/'
+[Tue Jul 24 21:55:35 2001] Syloc GMSAYS, '?'
+[Tue Jul 24 21:55:44 2001] Salix auctions, 'WTB Stacks of bonechips'
+[Tue Jul 24 21:56:05 2001] You GMSAY, 'someone just complaining about our policy, specifically our policy on CS actions in restricted zones'
+[Tue Jul 24 21:56:17 2001] Labien tells you, 'back... '
+[Tue Jul 24 21:56:28 2001] You told Labien, 'Anyway, if you'd like to talk policy over with the people who make it, send mail to eqmail@station.sony.com and explain why you think it is wrong. Policies can be changed.'
+[Tue Jul 24 21:56:38 2001] Theobrin tells the group, '<note badname> Buymystuff : FVXJL1N'
+[Tue Jul 24 21:56:39 2001] You told Labien, 'I did leave feedback on your behalf though.'
+[Tue Jul 24 21:56:40 2001] Labien tells you, 'but first let me see something'
+[Tue Jul 24 21:56:47 2001] Syloc GMSAYS, 'oh'
+[Tue Jul 24 21:56:47 2001] You told Labien, 'okay'
+[Tue Jul 24 21:57:17 2001] Uthandar shouts, 'can a dark brother or sister bind me back home??'
+[Tue Jul 24 21:57:25 2001] Labien tells you, 'if i got evryone to camp out and come back all of them would not have seen my corpse.. 'cause all who zoned in, logged in or rezzed in could not see it..'
+[Tue Jul 24 21:57:30 2001] Labien tells you, 'then you could have summoned it'
+[Tue Jul 24 21:57:44 2001] Labien tells you, 'so... why not before having to have everyone do that..'
+[Tue Jul 24 21:58:04 2001] Labien tells you, 'if there isnt a problem in policy i wont write that but i think its just mis-communication'
+[Tue Jul 24 21:58:06 2001] Syloc GMSAYS, 'did you guys read about the possible new spells for Luclin?'
+[Tue Jul 24 21:58:09 2001] You told Labien, 'I wasn't there and Kezia isn't on now, so I personally can't see what the problem was'
+[Tue Jul 24 21:58:12 2001] You GMSAY, 'yup'
+[Tue Jul 24 21:58:16 2001] Swiftmoor GMSAYS, 'nope'
+[Tue Jul 24 21:58:20 2001] Swiftmoor GMSAYS, 'where was that?'
+[Tue Jul 24 21:58:28 2001] Labien tells you, 'they said if one person in the zone can see it they cant do a thing'
+[Tue Jul 24 21:58:29 2001] Syloc GMSAYS, 'I read it on castersrealm'
+[Tue Jul 24 21:58:39 2001] Salix auctions, 'WTB Stacks of bonechips'
+[Tue Jul 24 21:58:44 2001] Swiftmoor GMSAYS, 'ah, I only go there for class info and spell lists.'
+[Tue Jul 24 21:58:48 2001] Labien tells you, 'if you would have came here you would have not seen it here and had to summoned '
+[Tue Jul 24 21:58:48 2001] You told Labien, 'I have to rely on Kezia's judgement here.'
+[Tue Jul 24 21:58:48 2001] Uthandar shouts, 'Can a dark Brother or Sister please bind me back home???'
+[Tue Jul 24 21:58:53 2001] Swiftmoor GMSAYS, 'anything interresting?'
+[Tue Jul 24 21:59:00 2001] Theobrin GMSAYS, 'its interesting but if even one spell makes it to final version unaltered i'd be surprised'
+[Tue Jul 24 21:59:04 2001] Syloc GMSAYS, 'Wizards may be getting a pet'
+[Tue Jul 24 21:59:05 2001] Swiftmoor GMSAYS, 'better yet, I'll read it now'
+[Tue Jul 24 21:59:05 2001] Sodar auctions, 'WTB Spider Silk III Vials of Viscous Mana'
+[Tue Jul 24 21:59:08 2001] Labien tells you, 'all im saying is just one port to the customer could have solved this whole incident'
+[Tue Jul 24 21:59:12 2001] Labien tells you, 'just 30seconds'
+[Tue Jul 24 21:59:15 2001] Labien tells you, 'or less!'
+[Tue Jul 24 21:59:28 2001] Swiftmoor GMSAYS, '<prays for something good for rangers>'
+[Tue Jul 24 21:59:38 2001] Labien tells you, 'but instead she ordered a friend to die'
+[Tue Jul 24 21:59:41 2001] Syloc GMSAYS, 'nothing stood out for rangers'
+[Tue Jul 24 21:59:41 2001] Labien tells you, 'and refused to rez them'
+[Tue Jul 24 21:59:44 2001] Theobrin GMSAYS, 'hehe rangers make out like bandits'
+[Tue Jul 24 21:59:48 2001] Swiftmoor GMSAYS, 'figures'
+[Tue Jul 24 22:00:06 2001] Syloc GMSAYS, 'necros have a undead slow line, druids get a "corpse preservation" spell... no idea what that does'
+[Tue Jul 24 22:00:20 2001] You told Labien, 'It is our policy not to even enter restricted zones like that except in the direst of circumstance'
+[Tue Jul 24 22:00:20 2001] Swiftmoor GMSAYS, 'oh cool, Stonebrunt Mts are live on Test'
+[Tue Jul 24 22:00:30 2001] Labien tells you, 'im normally very calm and easy going here we have met many times in HS... but Friends > me in this game in my mind i hate when a friend has to die for me for something i cannot control'
+[Tue Jul 24 22:00:30 2001] Syloc GMSAYS, 'new line for enchanters, no idea what that does either'
+[Tue Jul 24 22:00:49 2001] Salix auctions, 'WTB Stacks of bonechips 3pp each'
+[Tue Jul 24 22:00:59 2001] Syloc GMSAYS, 'shaman get some cool spells, that's what I play. lower lvl version of bear form and some great group spells'
+[Tue Jul 24 22:01:00 2001] Theobrin GMSAYS, 'i wonder whats up with the lvl 60 complete heal'
+[Tue Jul 24 22:01:02 2001] Labien tells you, 'Was a classic corpse stuck..   everyone at the zone in could even see it there (if they zoned in)'
+[Tue Jul 24 22:01:16 2001] Salix says out of character, 'Want to BUY'
+[Tue Jul 24 22:01:20 2001] Swiftmoor GMSAYS, 'I'm not seeing it there anywhere :/'
+[Tue Jul 24 22:01:29 2001] Labien tells you, 'if anyone drags a corpse they aggro 3 mobs that quad for 400+'
+[Tue Jul 24 22:01:32 2001] Swiftmoor GMSAYS, 'ok way down there'
+[Tue Jul 24 22:01:36 2001] Theobrin GMSAYS, 'ya'
+[Tue Jul 24 22:01:36 2001] Labien tells you, 'reguardless of faction'
+[Tue Jul 24 22:01:52 2001] You told Labien, 'Well, that's how the zone was designed.'
+[Tue Jul 24 22:02:16 2001] Labien tells you, 'exactally.. !! thats it!'
+[Tue Jul 24 22:02:17 2001] Theobrin GMSAYS, 'if the lvl 39 CH gets nerfed, thats gonna be a huge change to gameplay'
+[Tue Jul 24 22:02:21 2001] Labien tells you, 'you said the magic words!'
+[Tue Jul 24 22:02:36 2001] You told Labien, 'what, that the zone was designed to make corpse dragging difficult?'
+[Tue Jul 24 22:02:39 2001] Labien tells you, 'ok then why when i said i could not drag or see my corpse did she tell me to have someone near drag it'
+[Tue Jul 24 22:02:39 2001] Syloc GMSAYS, 'I bet it's just quicker cast time'
+[Tue Jul 24 22:02:48 2001] Theobrin GMSAYS, 'no more mana, longer casting'
+[Tue Jul 24 22:02:49 2001] Espranza saved.
+[Tue Jul 24 22:02:56 2001] Labien tells you, 'and i said they will die 4 times'
+[Tue Jul 24 22:02:57 2001] Syloc GMSAYS, 'really? that bites'
+[Tue Jul 24 22:02:57 2001] Theobrin GMSAYS, 'the lvl60 one is'
+[Tue Jul 24 22:03:01 2001] Swiftmoor GMSAYS, 'Celestial Remedy would be huge'
+[Tue Jul 24 22:03:05 2001] Labien tells you, 'but she said to do it and if they die she wouldnt rez'
+[Tue Jul 24 22:03:13 2001] You told Labien, 'dragging works if it's clear to there... I can't second guess a senior who handled this.'
+[Tue Jul 24 22:03:15 2001] Syloc GMSAYS, 'group complete heal maybe?'
+[Tue Jul 24 22:03:17 2001] Labien tells you, 'but i could not help it. i was AT the spot of my corpse... =( '
+[Tue Jul 24 22:03:25 2001] Theobrin GMSAYS, 'group ch is already live'
+[Tue Jul 24 22:03:28 2001] Swiftmoor GMSAYS, 'don't they already have that?'
+[Tue Jul 24 22:03:29 2001] Labien tells you, 'its not clear i told her that 10 times'
+[Tue Jul 24 22:03:30 2001] Syloc GMSAYS, 'oh, hehe'
+[Tue Jul 24 22:03:31 2001] Levite shouts, 'OCH'
+[Tue Jul 24 22:03:38 2001] Levite shouts, 'feel for 600 dmg'
+[Tue Jul 24 22:03:44 2001] Labien tells you, 'uuug im sure you see my frustration'
+[Tue Jul 24 22:03:45 2001] Syloc GMSAYS, '(doesn't play a cleric)'
+[Tue Jul 24 22:04:16 2001] Swiftmoor GMSAYS, 'wow, a true DoT. I'm liking the cleric stuff so far'
+[Tue Jul 24 22:04:23 2001] You told Labien, 'I do, but I also know Kezia, and I know she follows the rules as closely as anyone can. So your problem isn't with her, it is with the rules.'
+[Tue Jul 24 22:04:43 2001] Theobrin GMSAYS, 'no way that will stay, clerics with undead dots is reasonable, but not a general purpose'
+[Tue Jul 24 22:04:52 2001] Swiftmoor GMSAYS, 'yeah I know it'
+[Tue Jul 24 22:04:55 2001] Labien tells you, 'aye but look at the rules.... ( if someone can see the corpse and is consented and CAN drag it you cant help)  '
+[Tue Jul 24 22:05:00 2001] Swiftmoor GMSAYS, 'and what's up with the sentinel spell?'
+[Tue Jul 24 22:05:04 2001] Labien tells you, 'but this zone is designed to Kill people who drag'
+[Tue Jul 24 22:05:05 2001] Theobrin GMSAYS, 'i play a cleric as my main, and i would complain about that'
+[Tue Jul 24 22:05:17 2001] Theobrin GMSAYS, 'hehe newbie spam utility'
+[Tue Jul 24 22:05:26 2001] Labien tells you, '? should update policys to the new areas that are added'
+[Tue Jul 24 22:05:30 2001] You told Labien, 'the rules aren't that specific, but they are VERY specific about what we can do in restricted zones - which is not much.'
+[Tue Jul 24 22:05:46 2001] Theobrin GMSAYS, 'all incarnations of sentinel should be removed or seriously altered'
+[Tue Jul 24 22:05:55 2001] Vinye auctions, '20 bone chips for sale'
+[Tue Jul 24 22:06:18 2001] Swiftmoor GMSAYS, 'naw, I love using the staff of observers to keep an eye on other groups activities.'
+[Tue Jul 24 22:06:25 2001] You GMSAY, 'LOL!'
+[Tue Jul 24 22:06:32 2001] Theobrin GMSAYS, 'your group doesn't hate you for it?'
+[Tue Jul 24 22:06:45 2001] Swiftmoor GMSAYS, 'example...'
+[Tue Jul 24 22:06:50 2001] Salix auctions, 'WTB Stacks of bonechips 3pp each'
+[Tue Jul 24 22:06:56 2001] Theobrin GMSAYS, 'had a chanter do that once, the whole group was lagged out and subsequently killed by it'
+[Tue Jul 24 22:07:07 2001] You GMSAY, 'yeah I would hate someone who did that.'
+[Tue Jul 24 22:07:21 2001] You feel the spirit of Norrath enter you.
+[Tue Jul 24 22:07:36 2001] Swiftmoor GMSAYS, 'guard room in HK, cast it by the steps leading to the warrior room and you know when the mobs pop or when they are coming up to take a gob or train'
+[Tue Jul 24 22:08:07 2001] Theobrin GMSAYS, 'pulling sdori'
+[Tue Jul 24 22:08:08 2001] Zrax auctions, 'anyone selling a cheap castsr's staff?'
+[Tue Jul 24 22:08:11 2001] Swiftmoor GMSAYS, 'an actuall practical use for the spell'
+[Tue Jul 24 22:08:31 2001] Charas auctions, 'WTS Ruined Totem Staff | Glowing Wooden Crook | Shiney Brass Shield'
+[Tue Jul 24 22:08:39 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 22:08:40 2001] USER TEXT: report submitted for malicious KS'ing by Gluin...  
+[Tue Jul 24 22:08:40 2001] Players in EverQuest:
+[Tue Jul 24 22:08:40 2001] ---------------------------
+[Tue Jul 24 22:08:40 2001] [30 Monk] Sdori (Human) ZONE: southkarana (USER PID DVEFC4K)
+[Tue Jul 24 22:08:40 2001] There is 1 player in EverQuest.
+[Tue Jul 24 22:08:42 2001] Theobrin GMSAYS, 'escalated and checked in sdori, ks, incedent, didn't contact'
+[Tue Jul 24 22:08:49 2001] UNDOING CHECK OUT
+[Tue Jul 24 22:08:53 2001] Players in EverQuest:
+[Tue Jul 24 22:08:53 2001] ---------------------------
+[Tue Jul 24 22:08:53 2001] * Apprentice Guide *[20 Paladin] Theobrin (Dwarf) ZONE: ecommons (USER PID GP528CN)
+[Tue Jul 24 22:08:53 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: burningwood (USER PID HR6C7H5)
+[Tue Jul 24 22:08:53 2001] * Guide *[50 Ranger] Syloc (Wood Elf) <Keepers of Morell Thule> ZONE: burningwood (USER PID CUGBXL2)
+[Tue Jul 24 22:08:53 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: nektulos (USER PID AUGBQH4)
+[Tue Jul 24 22:08:53 2001] There are 4 players in EverQuest.
+[Tue Jul 24 22:09:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 22:09:09 2001] USER TEXT: report submitted for malicious KS'ing by Gluin...  
+[Tue Jul 24 22:09:10 2001] Players in EverQuest:
+[Tue Jul 24 22:09:10 2001] ---------------------------
+[Tue Jul 24 22:09:10 2001] [30 Monk] Sdori (Human) ZONE: southkarana (USER PID DVEFC4K)
+[Tue Jul 24 22:09:10 2001] There is 1 player in EverQuest.
+[Tue Jul 24 22:09:10 2001] Charas auctions, 'WTS Ruined Totem Staff | Glowing Wooden Crook | Shiney Brass Shield'
+[Tue Jul 24 22:09:18 2001] Theobrin GMSAYS, 'zoning'
+[Tue Jul 24 22:09:26 2001] Players in EverQuest:
+[Tue Jul 24 22:09:26 2001] ---------------------------
+[Tue Jul 24 22:09:26 2001] [52 Wanderer] Gluin (Wood Elf) <Revered Souls> ZONE: southkarana (USER PID GVJLKJG)
+[Tue Jul 24 22:09:26 2001] There is 1 player in EverQuest.
+[Tue Jul 24 22:09:37 2001] Swiftmoor GMSAYS, 'self only mana regen is a nice idea for chanters'
+[Tue Jul 24 22:09:41 2001] Vengentz shouts, 'Salix Rox!!!'
+[Tue Jul 24 22:09:57 2001] You told Sdori, 'Hail, Sdori! Guide Espranza here. What should the GM look for in the report?'
+[Tue Jul 24 22:10:01 2001] Sodar shouts, 'why?'
+[Tue Jul 24 22:10:02 2001] Theobrin GMSAYS, 'like they need it, with mana taps/dots, they almost don't have to med'
+[Tue Jul 24 22:10:02 2001] Syloc GMSAYS, 'is it better than clarity?'
+[Tue Jul 24 22:10:04 2001] Charas auctions, 'WTS Ruined Totem Staff | Glowing Wooden Crook | Shiney Brass Shield'
+[Tue Jul 24 22:10:07 2001] Neophyte Halle begins to cast a spell. (Skin like Wood)
+[Tue Jul 24 22:10:19 2001] Salix auctions, 'WTB Stacks of bonechips 3pp each , bring them to Monolith and get a SoW'
+[Tue Jul 24 22:10:23 2001] Theobrin GMSAYS, 'erm zoning now'
+[Tue Jul 24 22:10:28 2001] Vengentz shouts, 'Cause I say so!!'
+[Tue Jul 24 22:10:32 2001] Swiftmoor GMSAYS, 'it's level 54 so I would hope so'
+[Tue Jul 24 22:10:43 2001] You GMSAY, 'I thought it odd that they give druids group versions of the armor buffs at the same level they get the self only ones'
+[Tue Jul 24 22:10:50 2001] Sodar shouts, 'Lol i dont exactly believe lvl 8's :P'
+[Tue Jul 24 22:10:51 2001] Vengentz says out of character, 'hehe'
+[Tue Jul 24 22:11:08 2001] Vengentz shouts, 'You better!!'
+[Tue Jul 24 22:11:09 2001] Syloc GMSAYS, 'I hope the grow spell goes live finally'
+[Tue Jul 24 22:11:10 2001] Swiftmoor GMSAYS, 'they get skin like wood at level 9?'
+[Tue Jul 24 22:11:16 2001] Sodar shouts, 'Lol'
+[Tue Jul 24 22:11:16 2001] Salix says out of character, 'Why ? a newbie would be the most honest player'
+[Tue Jul 24 22:11:18 2001] Sdori tells you, 'report is under Gluin ... used Starfire spell to kill my mob..   he's lvl 52 and threatened that he would...  and he did :(   uncalled for i would say :)'
+[Tue Jul 24 22:11:21 2001] Charas auctions, 'WTS Ruined Totem Staff | Glowing Wooden Crook | Shiney Brass Shield'
+[Tue Jul 24 22:11:24 2001] Syloc GMSAYS, 'that's a level 1 spells'
+[Tue Jul 24 22:11:26 2001] Vengentz says out of character, 'one day I will be strong!!!'
+[Tue Jul 24 22:11:32 2001] You told Sdori, 'which mob was it?'
+[Tue Jul 24 22:11:40 2001] Sodar says out of character, 'thats nice Vengentz....i was JK Salix'
+[Tue Jul 24 22:11:43 2001] Sdori tells you, 'aviak rook i believe'
+[Tue Jul 24 22:11:50 2001] You GMSAY, 'the group SLN at 49 was the one I noticed'
+[Tue Jul 24 22:11:56 2001] You told Sdori, 'wow, that's bizarre'
+[Tue Jul 24 22:12:09 2001] You told Sdori, 'I'll get a GM to read it'
+[Tue Jul 24 22:12:09 2001] Swiftmoor GMSAYS, 'yeah that does seem odd'
+[Tue Jul 24 22:12:12 2001] Theobrin GMSAYS, 'hehe clerics won't be the primare hp/ac buffers anymore'
+[Tue Jul 24 22:12:22 2001] Theobrin GMSAYS, 'primary'
+[Tue Jul 24 22:12:30 2001] You GMSAY, 'leave Sdori, gotta get a GM to read a report'
+[Tue Jul 24 22:12:34 2001] UNDOING CHECK OUT
+[Tue Jul 24 22:12:39 2001] Vengentz says out of character, 'and I will come looking for Choo!!'
+[Tue Jul 24 22:12:42 2001] Players in EverQuest:
+[Tue Jul 24 22:12:42 2001] ---------------------------
+[Tue Jul 24 22:12:42 2001] [52 Wanderer] Gluin (Wood Elf) <Revered Souls> ZONE: southkarana (USER PID GVJLKJG)
+[Tue Jul 24 22:12:42 2001] There is 1 player in EverQuest.
+[Tue Jul 24 22:12:44 2001] Vengentz says out of character, 'hahah'
+[Tue Jul 24 22:12:44 2001] Salix auctions, 'WTB Stacks of bonechips 3pp each , bring them to Monolith and get a SoW and Skin Like Steel'
+[Tue Jul 24 22:12:48 2001] Swiftmoor GMSAYS, 'good! lol'
+[Tue Jul 24 22:12:51 2001] Sdori tells you, 'thank you...  was not a big deal until i saw that he was lvl 52 .. sorry to bother'
+[Tue Jul 24 22:12:54 2001] Sodar says out of character, 'go looking for my 44 warrior'
+[Tue Jul 24 22:13:00 2001] Espranza saved.
+[Tue Jul 24 22:13:04 2001] Sodar says out of character, 'i love to duel SK's with him)'
+[Tue Jul 24 22:13:10 2001] Theobrin GMSAYS, 'pulled gladrael'
+[Tue Jul 24 22:13:13 2001] Swiftmoor GMSAYS, 'oh wow, there is nothign for rangers'
+[Tue Jul 24 22:13:25 2001] Vultan says out of character, 'take the pissing contest to /tell please'
+[Tue Jul 24 22:13:26 2001] Theobrin GMSAYS, 'there is, nothing for pallies'
+[Tue Jul 24 22:13:29 2001] Syloc GMSAYS, 'I think SK's got it kind of bad too'
+[Tue Jul 24 22:13:35 2001] Vengentz says out of character, 'Don't make me bring my mage on!'
+[Tue Jul 24 22:13:40 2001] You GMSAY, 'they haven't done hybrid stuff yet'
+[Tue Jul 24 22:13:45 2001] It will take you about 30 seconds to prepare your camp.
+[Tue Jul 24 22:13:45 2001] Syloc GMSAYS, 'ah'
+[Tue Jul 24 22:13:49 2001] It will take about 25 more seconds to prepare your camp.
+[Tue Jul 24 22:13:50 2001] You GMSAY, 'camping to chat'
+[Tue Jul 24 22:13:54 2001] It will take about 20 more seconds to prepare your camp.
+[Tue Jul 24 22:13:54 2001] You tell your party, 'be right back Theo'
+[Tue Jul 24 22:13:59 2001] It will take about 15 more seconds to prepare your camp.
+[Tue Jul 24 22:14:01 2001] Sodar says out of character, 'bah! now ill do it in OOC to make you mad :P'
+[Tue Jul 24 22:14:04 2001] It will take about 10 more seconds to prepare your camp.
+[Tue Jul 24 22:14:06 2001] Theobrin tells the group, 'alright'
+[Tue Jul 24 22:14:07 2001] Vultan says out of character, 'gotta love /ignore..'
+[Tue Jul 24 22:14:09 2001] It will take about 5 more seconds to prepare your camp.
+[Tue Jul 24 22:14:15 2001] You disband your party.
+[Tue Jul 24 22:22:57 2001] Welcome to EverQuest!
+[Tue Jul 24 22:22:57 2001] You have entered Nektulos Forest.
+[Tue Jul 24 22:23:01 2001] You GMSAY, 'back'
+[Tue Jul 24 22:23:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 22:23:07 2001] USER TEXT: report submitted for malicious KS'ing by Gluin...  
+[Tue Jul 24 22:23:07 2001] Players in EverQuest:
+[Tue Jul 24 22:23:07 2001] ---------------------------
+[Tue Jul 24 22:23:07 2001] [30 Monk] Sdori (Human) ZONE: southkarana (USER PID DVEFC4K)
+[Tue Jul 24 22:23:07 2001] There is 1 player in EverQuest.
+[Tue Jul 24 22:23:15 2001] Syloc GMSAYS, 'Yay!'
+[Tue Jul 24 22:23:23 2001] Tormas says out of character, 'pos 1190, neg 161'
+[Tue Jul 24 22:23:33 2001] Swiftmoor GMSAYS, '/cheer'
+[Tue Jul 24 22:23:40 2001] You told Sdori, 'Hail, Sdori! Guide Espranza back again. The GM checked the report and said he couldn't find anything actionable in it. Is the KSing still going on?'
+[Tue Jul 24 22:24:06 2001] Sdori tells you, 'not at the moment..    thanks for looking into it '
+[Tue Jul 24 22:24:17 2001] You told Sdori, 'okay, let me know if he starts again.'
+[Tue Jul 24 22:24:20 2001] DELETING THIS PETITION
+[Tue Jul 24 22:24:27 2001] Sdori tells you, 'ok.. thank you :)'
+[Tue Jul 24 22:24:27 2001] You say to your guild, 'Theo still up for grabs?'
+[Tue Jul 24 22:24:31 2001] Players in EverQuest:
+[Tue Jul 24 22:24:31 2001] ---------------------------
+[Tue Jul 24 22:24:31 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: nektulos (USER PID AUGBQH4)
+[Tue Jul 24 22:24:31 2001] * Apprentice Guide *[20 Paladin] Theobrin (Dwarf) ZONE: freportw (USER PID GP528CN)
+[Tue Jul 24 22:24:31 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: burningwood (USER PID HR6C7H5)
+[Tue Jul 24 22:24:31 2001] * Guide *[50 Ranger] Syloc (Wood Elf) <Keepers of Morell Thule> ZONE: burningwood (USER PID CUGBXL2)
+[Tue Jul 24 22:24:31 2001] There are 4 players in EverQuest.
+[Tue Jul 24 22:24:34 2001] Syloc tells the guild, 'yep'
+[Tue Jul 24 22:24:35 2001] Swiftmoor GMSAYS, 'is this a typical night?'
+[Tue Jul 24 22:24:39 2001] You GMSAY, 'zone'
+[Tue Jul 24 22:24:42 2001] Teleporting to theobrin.
+[Tue Jul 24 22:24:43 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 22:25:14 2001] a bat has been slain by Binnon!
+[Tue Jul 24 22:25:19 2001] You have entered West Freeport.
+[Tue Jul 24 22:25:25 2001] Swiftmoor GMSAYS, 'couple weeks'
+[Tue Jul 24 22:25:33 2001] You invite Theobrin to join your group.
+[Tue Jul 24 22:25:36 2001] Theobrin GMSAYS, 'hehe first time i've seen ya'
+[Tue Jul 24 22:25:37 2001] You have formed the group.
+[Tue Jul 24 22:25:41 2001] You tell your party, 'hiya!'
+[Tue Jul 24 22:25:44 2001] Theobrin tells the group, 'welcome back 8)'
+[Tue Jul 24 22:25:54 2001] Swiftmoor GMSAYS, 'yeah, I tend to put a lot of hours in at once'
+[Tue Jul 24 22:26:09 2001] Swiftmoor GMSAYS, '2 saturdays ago I put in 11 hours'
+[Tue Jul 24 22:26:11 2001] Theobrin tells the group, 'hey do ya think i could trouble you for a ride to lake of illomen?'
+[Tue Jul 24 22:26:12 2001] You beam a smile at Theobrin.
+[Tue Jul 24 22:26:14 2001] Theobrin GMSAYS, 'yikes'
+[Tue Jul 24 22:26:18 2001] You tell your party, 'no problem'
+[Tue Jul 24 22:26:19 2001] Theobrin bows before Espranza.
+[Tue Jul 24 22:26:19 2001] You GMSAY, 'zone'
+[Tue Jul 24 22:26:24 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 22:27:08 2001] You have entered Lake of Ill Omen.
+[Tue Jul 24 22:27:08 2001] You have formed the group.
+[Tue Jul 24 22:27:13 2001] Kanlaorf says out of character, 'Free ultravision at entrance to WM while mana lasts.  Poke me.'
+[Tue Jul 24 22:27:30 2001] You tell your party, 'ready?'
+[Tue Jul 24 22:27:32 2001] Theobrin GMSAYS, 'zoning to  a new land'
+[Tue Jul 24 22:27:36 2001] Summoning theobrin.
+[Tue Jul 24 22:29:01 2001] Syloc GMSAYS, 'zone'
+[Tue Jul 24 22:29:17 2001] Players on EverQuest:
+[Tue Jul 24 22:29:17 2001] ---------------------------
+[Tue Jul 24 22:29:17 2001] There are no players in Lake of Ill Omen that match those who filters.
+[Tue Jul 24 22:29:21 2001] Players in EverQuest:
+[Tue Jul 24 22:29:21 2001] ---------------------------
+[Tue Jul 24 22:29:21 2001] * Apprentice Guide *[20 Paladin] Theobrin (Dwarf) ZONE: lakeofillomen (USER PID GP528CN)
+[Tue Jul 24 22:29:21 2001] There is 1 player in EverQuest.
+[Tue Jul 24 22:30:00 2001] Theobrin tells the group, 'thanks 8)'
+[Tue Jul 24 22:30:08 2001] You tell your party, 'np'
+[Tue Jul 24 22:30:21 2001] Stumpyy shouts, 'what are goblin bracers for'
+[Tue Jul 24 22:30:30 2001] Insenchant says out of character, 'goblins'
+[Tue Jul 24 22:30:35 2001] Hungryboy shouts, 'Hold up goblin pants'
+[Tue Jul 24 22:30:38 2001] Raashid says out of character, 'lol'
+[Tue Jul 24 22:30:40 2001] Zarik shouts, 'to fix there crooked teeth'
+[Tue Jul 24 22:30:42 2001] Saluron shouts, 'Quest Items'
+[Tue Jul 24 22:30:42 2001] Stumpyy says out of character, 'QUEST?'
+[Tue Jul 24 22:30:52 2001] Theobrin tells the group, 'hehe i've spent 3 weeks trying to get out here, but every time i get close, i get sommoned away 8)'
+[Tue Jul 24 22:31:03 2001] Stumpyy shouts, 'what quest'
+[Tue Jul 24 22:31:09 2001] You tell your party, 'oooh sorry ('
+[Tue Jul 24 22:31:32 2001] Theobrin tells the group, 'hehe its all good, i've learned a lot of new paths'
+[Tue Jul 24 22:31:58 2001] Raashid says out of character, 'anyone TPing close to Queynos?'
+[Tue Jul 24 22:32:09 2001] Kanlaorf says out of character, 'Close to qeynos is a relative term.  LOL'
+[Tue Jul 24 22:32:20 2001] Raashid says out of character, 'ah closest probably Tox'
+[Tue Jul 24 22:32:38 2001] Swiftmoor GMSAYS, 'pulling Galit'
+[Tue Jul 24 22:32:41 2001] Theobrin tells the group, 'hehe thought i've seen most of this zone, but never been out here'
+[Tue Jul 24 22:32:43 2001] Raashid says out of character, 'anyone TPing to Toxxulia?'
+[Tue Jul 24 22:32:48 2001] You GMSAY, 'grr I almost got that one )'
+[Tue Jul 24 22:32:56 2001] Theobrin GMSAYS, 'hehe'
+[Tue Jul 24 22:33:01 2001] Swiftmoor GMSAYS, 'almost don't count :P'
+[Tue Jul 24 22:33:15 2001] Syloc GMSAYS, 'afk a min'
+[Tue Jul 24 22:33:20 2001] Swiftmoor GMSAYS, 'anyone know anything about Cobalt armor?'
+[Tue Jul 24 22:33:34 2001] Theobrin GMSAYS, 'except in horseshoes and tactical nuclear weapons 8)'
+[Tue Jul 24 22:33:41 2001] Theobrin GMSAYS, 'some'
+[Tue Jul 24 22:33:51 2001] You GMSAY, 'my warrior has the gaunts'
+[Tue Jul 24 22:33:56 2001] Aryante GMSAYS, 'and handgrenades Theo, don't forget those'
+[Tue Jul 24 22:34:07 2001] You GMSAY, 'they sucketh but hey, they're cobalt.'
+[Tue Jul 24 22:34:17 2001] Aryante GMSAYS, 'Oh, And good morning everyone'
+[Tue Jul 24 22:34:17 2001] You GMSAY, 'same AC as my BP'
+[Tue Jul 24 22:34:20 2001] Theobrin GMSAYS, '/snap true true'
+[Tue Jul 24 22:34:23 2001] Swiftmoor GMSAYS, 'pet is saying boots and gloves both proc a STR buff but don't stack'
+[Tue Jul 24 22:34:28 2001] You GMSAY, 'hello again, Aryante!'
+[Tue Jul 24 22:34:36 2001] You GMSAY, 'yes, they'r right'
+[Tue Jul 24 22:34:40 2001] Theobrin GMSAYS, 'hiya aryante'
+[Tue Jul 24 22:34:43 2001] Swiftmoor GMSAYS, 'Hello Aryante'
+[Tue Jul 24 22:34:51 2001] Aryante tells the guild, 'I hate playing on my laptop'
+[Tue Jul 24 22:35:07 2001] You say to your guild, 'I didn't even know there were laptops that could play EQ'
+[Tue Jul 24 22:35:13 2001] Aryante tells the guild, 'I hope they figure out what the other problem is soon :('
+[Tue Jul 24 22:35:28 2001] Shalindar shouts, 'Lvl 21 Enchantress LFG'
+[Tue Jul 24 22:35:29 2001] Aryante tells the guild, 'hehe, lucky for me there is, or who knows when I'd get in to play, or guide. :)'
+[Tue Jul 24 22:35:53 2001] Izzu shouts, 'buysing bonechips 5pp per stack'
+[Tue Jul 24 22:35:54 2001] Wavedancer says out of character, '22-25 snark group, looking for healer'
+[Tue Jul 24 22:36:13 2001] Aryante GMSAYS, 'someone tell me why, as soon as I get logged on to guide, THAT'S when the kids all start demanding breakfast'
+[Tue Jul 24 22:36:24 2001] You GMSAY, 'where do you live???'
+[Tue Jul 24 22:36:27 2001] Theobrin GMSAYS, 'lol, i'm hungry'
+[Tue Jul 24 22:36:29 2001] Swiftmoor GMSAYS, 'Murphy's Law'
+[Tue Jul 24 22:36:33 2001] Aryante tells the guild, 'GErmany'
+[Tue Jul 24 22:36:33 2001] Syloc GMSAYS, 'back'
+[Tue Jul 24 22:36:37 2001] Syloc GMSAYS, 'Hi Aryante!'
+[Tue Jul 24 22:36:50 2001] Aryante GMSAYS, 'hiya Syloc'
+[Tue Jul 24 22:36:51 2001] Theobrin GMSAYS, 'pulled kurts'
+[Tue Jul 24 22:36:55 2001] You say to your guild, 'I didn't know you were German!'
+[Tue Jul 24 22:37:15 2001] Espranza saved.
+[Tue Jul 24 22:37:32 2001] Shalindar shouts, 'Lvl 22 Enchantress LFG'
+[Tue Jul 24 22:37:55 2001] Hungryboy shouts, 'DING 23'
+[Tue Jul 24 22:37:58 2001] Theobrin GMSAYS, 'kurts died while zoning, corpse not where he died'
+[Tue Jul 24 22:38:02 2001] Shalindar shouts, 'Gratz'
+[Tue Jul 24 22:38:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 22:38:03 2001] USER TEXT: died while zoning, body not here to rez
+[Tue Jul 24 22:38:04 2001] Players in EverQuest:
+[Tue Jul 24 22:38:04 2001] ---------------------------
+[Tue Jul 24 22:38:04 2001] [ANON (55 Templar)] Kurts (Halfling) ZONE: soldungb (USER PID FY8UB47)
+[Tue Jul 24 22:38:04 2001] There is 1 player in EverQuest.
+[Tue Jul 24 22:38:08 2001] Sentow says out of character, 'Wooo!  Congo rats!'
+[Tue Jul 24 22:38:09 2001] Searching zones for corpse of that name....
+[Tue Jul 24 22:38:13 2001] Crimsonflare shouts, 'Congrats!'
+[Tue Jul 24 22:38:14 2001] Searching zones for corpse of that name....
+[Tue Jul 24 22:38:14 2001] Corpse: Kurts's corpse0 in zone: lavastorm
+[Tue Jul 24 22:38:22 2001] GM TEXT: Theobrin: told him we would investigate
+[Tue Jul 24 22:38:34 2001] You tell your party, 'did you look for his corpse with /sea?'
+[Tue Jul 24 22:38:36 2001] Izzu shouts, 'heading to city gate to buy bonechips make your way there 5pp per'
+[Tue Jul 24 22:38:44 2001] Sentow says out of character, 'Any Monks looking for the Sarnak Crypt Raider?'
+[Tue Jul 24 22:38:53 2001] Theobrin tells the group, 'yup'
+[Tue Jul 24 22:38:56 2001] Sorethumb shouts, 'anyone need a rez?'
+[Tue Jul 24 22:39:00 2001] You tell your party, 'and?'
+[Tue Jul 24 22:39:02 2001] Theobrin tells the group, 'its in lavastorm'
+[Tue Jul 24 22:39:07 2001] Aryante tells the guild, 'I'm not, hehe. I"m just libing here for 3 years. My husband is in the army'
+[Tue Jul 24 22:39:16 2001] You say to your guild, 'ah'
+[Tue Jul 24 22:39:17 2001] Aryante tells the guild, 'err, living :)'
+[Tue Jul 24 22:39:22 2001] You tell your party, 'well let's go look'
+[Tue Jul 24 22:39:25 2001] You tell your party, 'what do we do?'
+[Tue Jul 24 22:39:36 2001] Theobrin tells the group, '/zone lavastorm'
+[Tue Jul 24 22:39:41 2001] You GMSAY, 'zone'
+[Tue Jul 24 22:39:47 2001] Sentow says out of character, 'Waitasec... which class is it that needs the drop from the crypt raider?'
+[Tue Jul 24 22:39:50 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 22:40:17 2001] You have entered Lavastorm Mountains.
+[Tue Jul 24 22:40:18 2001] You have formed the group.
+[Tue Jul 24 22:40:24 2001] Swiftmoor GMSAYS, 'deleting Galit, noted complaint about cobalt boots and gauntlet effects not stacking'
+[Tue Jul 24 22:40:43 2001] You tell your party, 'ready?'
+[Tue Jul 24 22:40:47 2001] Theobrin GMSAYS, 'zone'
+[Tue Jul 24 22:40:54 2001] Summoning theobrin.
+[Tue Jul 24 22:41:15 2001] Swiftmoor GMSAYS, 'afk a quick minute'
+[Tue Jul 24 22:41:48 2001] Shadowbreaze says, 'Hail, Espranza'
+[Tue Jul 24 22:41:51 2001] You bow before Shadowbreaze.
+[Tue Jul 24 22:41:55 2001] You say, 'hello!'
+[Tue Jul 24 22:41:58 2001] Shadowbreaze bows before Espranza.
+[Tue Jul 24 22:42:18 2001] Shadowbreaze says, 'What brings a GM out here?'
+[Tue Jul 24 22:42:24 2001] You say, 'this dead haffer here'
+[Tue Jul 24 22:42:55 2001] You tell your party, 'now what?'
+[Tue Jul 24 22:42:57 2001] Swiftmoor GMSAYS, 'back'
+[Tue Jul 24 22:43:14 2001] Shadowbreaze says, 'I take it he got lost in LS and had you help him find it?'
+[Tue Jul 24 22:43:19 2001] Theobrin tells the group, 'well its at the safe spot so he did die while zoning right?'
+[Tue Jul 24 22:43:26 2001] You tell your party, 'so it seems'
+[Tue Jul 24 22:43:38 2001] You say, 'something like that )'
+[Tue Jul 24 22:43:54 2001] Theobrin tells the group, 'thats a rezable occasion right?'
+[Tue Jul 24 22:44:00 2001] You tell your party, 'is it?'
+[Tue Jul 24 22:44:10 2001] Swiftmoor GMSAYS, 'all that talk about food made me hungry. Curses'
+[Tue Jul 24 22:44:13 2001] Shadowbreaze says, 'You like being a GM?'
+[Tue Jul 24 22:44:18 2001] You say, 'I love it )'
+[Tue Jul 24 22:44:19 2001] Syloc GMSAYS, 'hehe'
+[Tue Jul 24 22:44:23 2001] Theobrin says, 'me too'
+[Tue Jul 24 22:44:31 2001] Teleporting to kurt's corpse0.
+[Tue Jul 24 22:44:37 2001] Shadowbreaze says, 'You guys go out hunting any?'
+[Tue Jul 24 22:44:37 2001] Teleporting to kurts's corpse0.
+[Tue Jul 24 22:44:44 2001] Theobrin tells the group, 'i think so, i could look it up, but i recall seing it done before'
+[Tue Jul 24 22:45:02 2001] You tell your party, 'it is'
+[Tue Jul 24 22:45:05 2001] You tell your party, 'so now what?'
+[Tue Jul 24 22:45:06 2001] Swiftmoor GMSAYS, 'zoning to DL soon'
+[Tue Jul 24 22:45:13 2001] You say, 'we only guide'
+[Tue Jul 24 22:45:16 2001] You say, 'no hunting allowed'
+[Tue Jul 24 22:45:27 2001] Shadowbreaze says, 'So how do you lvl up?'
+[Tue Jul 24 22:45:35 2001] You say, 'length of service'
+[Tue Jul 24 22:45:46 2001] You told Kurts, 'Ready for a rez?'
+[Tue Jul 24 22:45:49 2001] Theobrin tells the group, 'i really don't like the P&P'
+[Tue Jul 24 22:45:54 2001] Shadowbreaze says, 'Explain.'
+[Tue Jul 24 22:46:05 2001] Kurts tells you, 'yes please )'
+[Tue Jul 24 22:46:16 2001] You say, 'we get buffed up in levels depending on how long we've been guiding'
+[Tue Jul 24 22:46:20 2001] Swiftmoor GMSAYS, 'pulling Silditika'
+[Tue Jul 24 22:46:33 2001] DELETING THIS PETITION
+[Tue Jul 24 22:46:52 2001] Aryante GMSAYS, 'Ok, back'
+[Tue Jul 24 22:46:58 2001] Shadowbreaze says, 'So all you are allowed to do is guide?'
+[Tue Jul 24 22:47:16 2001] Aryante tells the guild, 'I know, it was longer than 2 minutes, but they each wanted something different for breakfast'
+[Tue Jul 24 22:47:50 2001] Aryante GMSAYS, 'I'll squish you some oatmeal through the modem, ok Swifmoor :)'
+[Tue Jul 24 22:47:54 2001] Kurts thanks Espranza heartily.
+[Tue Jul 24 22:47:58 2001] You say, 'yup'
+[Tue Jul 24 22:48:03 2001] Kurts says, 'thanks)'
+[Tue Jul 24 22:48:09 2001] You say, 'you are a cute hobbit!'
+[Tue Jul 24 22:48:20 2001] Tichinde shouts, 'need tp to e karana'
+[Tue Jul 24 22:48:28 2001] Theobrin tells the group, 'heh its not real clear'
+[Tue Jul 24 22:48:30 2001] Shadowbreaze gags at the footstools.
+[Tue Jul 24 22:48:35 2001] Swiftmoor GMSAYS, 'uhhh, you have DSL or cable?'
+[Tue Jul 24 22:48:45 2001] Swiftmoor GMSAYS, 'not sure 56k can handle it'
+[Tue Jul 24 22:48:54 2001] Theobrin GMSAYS, 'i'm gonna have to do a burrito run soon methinks'
+[Tue Jul 24 22:49:02 2001] Aryante GMSAYS, 'Just IDSN,'
+[Tue Jul 24 22:49:29 2001] Theobrin tells the group, 'so it is resable?'
+[Tue Jul 24 22:49:34 2001] You tell your party, 'yup'
+[Tue Jul 24 22:49:40 2001] Swiftmoor GMSAYS, 'hmm, you think that's safe?'
+[Tue Jul 24 22:49:45 2001] You tell your party, 'if they're found dead at the zonein, we usually rez'
+[Tue Jul 24 22:50:00 2001] Kurts begins to cast a spell. (Shield of Words)
+[Tue Jul 24 22:50:09 2001] Aryante GMSAYS, 'well, I've done it before with ice cream <giggle>'
+[Tue Jul 24 22:50:12 2001] Shadowbreaze says, 'Theobrin haven't we meet before?'
+[Tue Jul 24 22:50:14 2001] You tell your party, 'wanna go back to the Lake?'
+[Tue Jul 24 22:50:18 2001] Kurts begins to cast a spell. (Shield of Words)
+[Tue Jul 24 22:50:25 2001] Espranza saved.
+[Tue Jul 24 22:50:26 2001] You feel the favor of the gods upon you.
+[Tue Jul 24 22:50:27 2001] Swiftmoor GMSAYS, 'well I'll take some of that then.'
+[Tue Jul 24 22:50:28 2001] Dionysis waves at Espranza.
+[Tue Jul 24 22:50:29 2001] Theobrin says, 'its possible i was hanging out at neriak's entrance earlier'
+[Tue Jul 24 22:50:30 2001] You giggle at Kurts.
+[Tue Jul 24 22:50:30 2001] Kurts begins to cast a spell. (Symbol of Marzin)
+[Tue Jul 24 22:50:31 2001] You thank Kurts heartily.
+[Tue Jul 24 22:50:35 2001] Swiftmoor GMSAYS, 'sounds like you have experience with that'
+[Tue Jul 24 22:50:36 2001] A mystic symbol flashes before your eyes.
+[Tue Jul 24 22:50:40 2001] Kurts says, '=)'
+[Tue Jul 24 22:50:41 2001] You say, 'No need Kurts'
+[Tue Jul 24 22:50:43 2001] Kurts begins to cast a spell. (Heroism)
+[Tue Jul 24 22:50:45 2001] You say, 'Monsters like me'
+[Tue Jul 24 22:50:47 2001] You feel heroic.
+[Tue Jul 24 22:51:01 2001] Kurts says, 'hehe least i could do, thanks again'
+[Tue Jul 24 22:51:03 2001] Kurts says, 'lol'
+[Tue Jul 24 22:51:04 2001] Shadowbreaze says, 'No I think I met you in Lake of Rathe.'
+[Tue Jul 24 22:51:06 2001] You say, 'be well!'
+[Tue Jul 24 22:51:08 2001] Kurts begins to cast a spell. (Symbol of Marzin)
+[Tue Jul 24 22:51:11 2001] You wave goodbye to Kurts.
+[Tue Jul 24 22:51:13 2001] Kurts is cloaked in a shimmer of glowing symbols.
+[Tue Jul 24 22:51:14 2001] You GMSAY, 'zone'
+[Tue Jul 24 22:51:17 2001] Swiftmoor GMSAYS, 'what skill level is below average?'
+[Tue Jul 24 22:51:18 2001] Kurts says, 'and you M'Lady'
+[Tue Jul 24 22:51:21 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 22:52:11 2001] Bishope shouts, 'Cleric and Chanter on ledge in fort looking for a tank or two!  Send me a tell...  Low to mid 20s!'
+[Tue Jul 24 22:52:16 2001] You have entered Lake of Ill Omen.
+[Tue Jul 24 22:52:16 2001] You have formed the group.
+[Tue Jul 24 22:52:43 2001] Aryante GMSAYS, 'no, sorry, plain vanilla. But I put on a little hot fudge, to add flavor :)'
+[Tue Jul 24 22:52:59 2001] Bishope says out of character, 'Cleric and Chanter on ledge in fort looking for a tank or two!  Send me a tell...  Low to mid 20s!'
+[Tue Jul 24 22:53:02 2001] You tell your party, 'want a life back to the lake?'
+[Tue Jul 24 22:53:11 2001] You tell your party, 'lift....'
+[Tue Jul 24 22:53:18 2001] Grayward says out of character, 'can shamans tank?'
+[Tue Jul 24 22:53:18 2001] Syloc GMSAYS, 'you know the globe of Norrath in Skyshrine, there's a chain of some small islands all by themselves west of Odus'
+[Tue Jul 24 22:53:22 2001] Saluron shouts, 'Sarnak Fort Group Seeks Enybody Send Tells!!!'
+[Tue Jul 24 22:53:26 2001] Phuntic says out of character, 'sorta, yes'
+[Tue Jul 24 22:53:28 2001] Kanlaorf says out of character, 'Tank is a relative term...'
+[Tue Jul 24 22:53:33 2001] Bishope says out of character, 'If you wanna, Gray,  sure!'
+[Tue Jul 24 22:53:36 2001] Grayward says out of character, 'how bout a 49 shaman?'
+[Tue Jul 24 22:53:39 2001] Grayward says out of character, 'hehe'
+[Tue Jul 24 22:53:53 2001] Kanlaorf says out of character, 'They can take a beating, but there are MUCh better alternatives.'
+[Tue Jul 24 22:53:55 2001] You GMSAY, 'buncha things on that globe'
+[Tue Jul 24 22:54:07 2001] Theobrin GMSAYS, 'i want to see it 8)'
+[Tue Jul 24 22:54:08 2001] Grayward says out of character, 'hmmm it would be hard to keep my bloodgill camp and be there too...'
+[Tue Jul 24 22:54:08 2001] Swiftmoor GMSAYS, 'cool. Sounds like someone was reading the Ask Brad column'
+[Tue Jul 24 22:54:13 2001] Phuntic says out of character, 'lets just say thyre' better at tanking thatn say, oh, ench'
+[Tue Jul 24 22:54:15 2001] You GMSAY, 'appie restricted zone'
+[Tue Jul 24 22:54:16 2001] Syloc GMSAYS, 'hehe, yep'
+[Tue Jul 24 22:54:24 2001] Luminite says out of character, './bonk'
+[Tue Jul 24 22:54:24 2001] You GMSAY, 'yup, read that )'
+[Tue Jul 24 22:54:29 2001] Kanlaorf says out of character, 'Yeah, what Phun said... LOL'
+[Tue Jul 24 22:54:49 2001] Syloc GMSAYS, 'I'm assuming that Velious is that big ugly island on the opposite side of the globe'
+[Tue Jul 24 22:54:55 2001] Grayward says out of character, 'i try and tank these bloodies here, cuz my pet cant take a whole lot'
+[Tue Jul 24 22:54:58 2001] Aryante GMSAYS, '*Gathers the light around her and crosses the world!*'
+[Tue Jul 24 22:54:59 2001] You GMSAY, 'perhaps not'
+[Tue Jul 24 22:55:02 2001] You feel the spirit of Norrath enter you.
+[Tue Jul 24 22:55:03 2001] Grayward says out of character, 'but then again i am soloin hehe'
+[Tue Jul 24 22:55:08 2001] Kanlaorf says out of character, 'I'd prob take a ranger or pally as a tank over a shaman, though (that is, ye take take them over someone such as meself)'
+[Tue Jul 24 22:55:17 2001] Stumpyy shouts, 'PC on fp bp'
+[Tue Jul 24 22:55:41 2001] Stumpyy shouts, 'pc on fine playe brest plate'
+[Tue Jul 24 22:55:47 2001] Theobrin GMSAYS, 'hehe you could take me there for a 'training session' 8)'
+[Tue Jul 24 22:55:55 2001] Tytus says out of character, 'Is it just me, or does everyone say NP four times much more in real life now than they did before playing EQ.'
+[Tue Jul 24 22:55:56 2001] Phuntic shouts, 'normally 10pp / 1 ac'
+[Tue Jul 24 22:56:00 2001] You GMSAY, 'no I couldn't )'
+[Tue Jul 24 22:56:07 2001] It begins to rain.
+[Tue Jul 24 22:56:08 2001] Gaiasis says out of character, 'what about crafted?'
+[Tue Jul 24 22:56:12 2001] Theobrin GMSAYS, '/sniff alright'
+[Tue Jul 24 22:56:17 2001] Bishope says out of character, 'Cleric, Monk, and Chanter on ledge in fort looking for a couple more!  Send me a tell...  Low to mid 20s!'
+[Tue Jul 24 22:56:24 2001] You GMSAY, 'what level is your highest play char?'
+[Tue Jul 24 22:56:24 2001] Theobrin GMSAYS, '8)'
+[Tue Jul 24 22:56:25 2001] Swiftmoor GMSAYS, 'get a druid to Evac you there on your play character. It takes you right there.'
+[Tue Jul 24 22:56:30 2001] Theobrin GMSAYS, '53'
+[Tue Jul 24 22:56:38 2001] You GMSAY, 'geez, just go there yourself'
+[Tue Jul 24 22:56:43 2001] Swiftmoor GMSAYS, 'lol'
+[Tue Jul 24 22:56:46 2001] Syloc GMSAYS, 'my highest is 51'
+[Tue Jul 24 22:56:54 2001] Theobrin GMSAYS, 'hehe noway, my play char is seriosly kos out there'
+[Tue Jul 24 22:57:10 2001] You GMSAY, 'all chars are'
+[Tue Jul 24 22:57:16 2001] Theobrin GMSAYS, 'not to mention he's mostly retired now'
+[Tue Jul 24 22:57:17 2001] Syriis shouts, 'backdoor group needs a melee to fill the lase open spot'
+[Tue Jul 24 22:57:19 2001] Theobrin GMSAYS, 'skyshrine?'
+[Tue Jul 24 22:57:35 2001] You GMSAY, 'Skyfire'
+[Tue Jul 24 22:57:36 2001] Aryante tells the guild, 'is falling under the world and dying considered a rezable bug? (if they fell under the world because they  jumped off the ship right as it zoned?'
+[Tue Jul 24 22:57:41 2001] Skaldara begins to cast a spell. (Burst of Flame)
+[Tue Jul 24 22:57:59 2001] You say to your guild, 'oooh dunno, if I see them dead beneath the world I rez'
+[Tue Jul 24 22:58:03 2001] Theobrin GMSAYS, 'oh, misunderstood that'
+[Tue Jul 24 22:58:14 2001] Skaldara begins to cast a spell. (Drowsy)
+[Tue Jul 24 22:58:20 2001] Skaldara begins to cast a spell. (Burst of Flame)
+[Tue Jul 24 22:58:43 2001] Aryante tells the guild, 'well, it's weird because I can't see them under the world. '
+[Tue Jul 24 22:58:47 2001] Swiftmoor GMSAYS, 'ok serious question time'
+[Tue Jul 24 22:59:00 2001] Syloc GMSAYS, 'ok'
+[Tue Jul 24 22:59:04 2001] You say to your guild, 'where are they?'
+[Tue Jul 24 22:59:09 2001] Swiftmoor GMSAYS, 'this mage only practiced in specialization for conjur, and it never went above 50'
+[Tue Jul 24 22:59:12 2001] Theobrin GMSAYS, 'allways meant to take my char out to skyfire, but one of my grouping buddies is terrified of dragons, so never went'
+[Tue Jul 24 22:59:13 2001] Aryante tells the guild, 'but every time I try to goto his corpse, it says I'm beneath the world and moves me back to the safe zone <giggle>'
+[Tue Jul 24 22:59:22 2001] You say to your guild, 'bah, rezzem'
+[Tue Jul 24 22:59:24 2001] Syloc GMSAYS, 'you have to train in everything to advance past 50 in one skill'
+[Tue Jul 24 22:59:32 2001] Swiftmoor GMSAYS, 'that was my guess'
+[Tue Jul 24 22:59:42 2001] Pueducul says out of character, 'looking for more to the north of the windmill 16-21 '
+[Tue Jul 24 22:59:47 2001] Aryante tells the guild, 'ok, <giggle>'
+[Tue Jul 24 23:00:06 2001] Swiftmoor GMSAYS, 'so here's a problem I have with this.  When you put in a point, it gets set at the level that is equal to your level right?'
+[Tue Jul 24 23:00:19 2001] Theobrin GMSAYS, 'pulling sharpie'
+[Tue Jul 24 23:00:29 2001] Swiftmoor GMSAYS, 'meaning praticing a new language at level 50 would give you a skill of 50 in that language right?'
+[Tue Jul 24 23:00:34 2001] You GMSAY, 'right'
+[Tue Jul 24 23:01:14 2001] Swiftmoor GMSAYS, 'ok so here's the problem. He's level 52. Once he puts in that last practice point into a specialize skill, it's going to be the main one isn't it?'
+[Tue Jul 24 23:01:27 2001] You GMSAY, 'LOL!'
+[Tue Jul 24 23:01:32 2001] You GMSAY, 'not a clue'
+[Tue Jul 24 23:01:42 2001] Syloc GMSAYS, 'what's a email address for feedback?'
+[Tue Jul 24 23:01:52 2001] You GMSAY, 'eqmail@station.sony.com'
+[Tue Jul 24 23:02:07 2001] Theobrin GMSAYS, 'hehe he'll have to do quest to reset his specialize then'
+[Tue Jul 24 23:02:12 2001] Swiftmoor GMSAYS, 'eqfeeback@station.sony.com'
+[Tue Jul 24 23:02:23 2001] Espranza saved.
+[Tue Jul 24 23:02:23 2001] Saluron shouts, 'Sarnak fort group seeks enyone'
+[Tue Jul 24 23:02:31 2001] Shaimus shouts, 'what lvl'
+[Tue Jul 24 23:04:24 2001] Aryante tells the guild, 'well, now I feel better this morning.'
+[Tue Jul 24 23:05:35 2001] Syloc GMSAYS, 'zone'
+[Tue Jul 24 23:05:50 2001] Luminite shouts, 'Lv 26 chanter lfg'
+[Tue Jul 24 23:07:19 2001] It is 11 AM on Thursday, the 12th day of October, of the year 3210.
+[Tue Jul 24 23:07:19 2001] Earth Time: Tue Jul 24 23:07:19 2001
+[Tue Jul 24 23:08:04 2001] Daimon shouts, 'can anyone rez here?>'
+[Tue Jul 24 23:08:10 2001] Aryante GMSAYS, '*Gathers the light around her and crosses the world!*'
+[Tue Jul 24 23:08:32 2001] Syloc GMSAYS, 'zone'
+[Tue Jul 24 23:08:54 2001] Luminite shouts, 'Lv 26 chanter lfg'
+[Tue Jul 24 23:09:08 2001] Mersia says out of character, 'does anyone know how much Drakkel forged weapons run?'
+[Tue Jul 24 23:09:16 2001] Syloc GMSAYS, 'lol, got out with about 100 hp left'
+[Tue Jul 24 23:09:42 2001] Swiftmoor GMSAYS, 'can you practice a specialize beyond 50 if it's your main?'
+[Tue Jul 24 23:09:43 2001] Syloc GMSAYS, 'was moving some guy in swamp of no hope, he hits hard'
+[Tue Jul 24 23:09:59 2001] Saluron shouts, 'Fort Group Looking for People'
+[Tue Jul 24 23:10:04 2001] Stumpyy shouts, 'ding lvl 18'
+[Tue Jul 24 23:10:07 2001] Kaywyne auctions, 'WTB Port to WC...will donate'
+[Tue Jul 24 23:10:10 2001] Saluron shouts, 'Gratz'
+[Tue Jul 24 23:10:11 2001] Beezerarc shouts, 'grats'
+[Tue Jul 24 23:10:11 2001] Shalindar says out of character, 'Gratz'
+[Tue Jul 24 23:10:18 2001] Kanlaorf says out of character, 'gratz'
+[Tue Jul 24 23:10:24 2001] Aryante GMSAYS, 'ummm, yes, er no, uhhh, I don't know <giggle>'
+[Tue Jul 24 23:10:26 2001] You GMSAY, 'no idea, Swift - but I'd think not'
+[Tue Jul 24 23:10:34 2001] Swiftmoor GMSAYS, 'ok'
+[Tue Jul 24 23:10:36 2001] You GMSAY, 'I think you can only practice to 49'
+[Tue Jul 24 23:10:40 2001] Aryante GMSAYS, 'helpful, aren't I. :)'
+[Tue Jul 24 23:10:40 2001] Grayward says out of character, 'anyone wanna port a shammy to NK so he can pick up his new 49 spells'
+[Tue Jul 24 23:10:41 2001] Swiftmoor GMSAYS, 'ok'
+[Tue Jul 24 23:10:46 2001] Swiftmoor GMSAYS, 'absolutely'
+[Tue Jul 24 23:11:00 2001] Grayward says out of character, 'i have plenty of the shiny stuff to go round'
+[Tue Jul 24 23:11:18 2001] Gaiasis says out of character, 'hook a brother up then!'
+[Tue Jul 24 23:11:37 2001] Gaiasis says out of character, 'haha'
+[Tue Jul 24 23:11:38 2001] Theobrin GMSAYS, 'can people have surnames removed because they want? p&p gives specific reasons they can be allowed to change but doesn't specify if that includes removal'
+[Tue Jul 24 23:11:53 2001] Grayward says out of character, 'do ye have a port fer me? '
+[Tue Jul 24 23:11:53 2001] Swiftmoor GMSAYS, 'same rules apply don't they?'
+[Tue Jul 24 23:11:58 2001] Syloc GMSAYS, 'no, only for those specific reasons'
+[Tue Jul 24 23:12:05 2001] Theobrin GMSAYS, 'thats what i thought'
+[Tue Jul 24 23:12:21 2001] Gaiasis says out of character, 'no not for another 17 lvls'
+[Tue Jul 24 23:12:35 2001] Espranza saved.
+[Tue Jul 24 23:12:55 2001] Grayward says out of character, 'but i dont wanna take a boat....they are so...30 levels ago hehe'
+[Tue Jul 24 23:13:04 2001] Gaiasis says out of character, 'hahaha '
+[Tue Jul 24 23:13:08 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 23:13:09 2001] USER TEXT: can you have starn go back to position for i can sell
+[Tue Jul 24 23:13:09 2001] Players in EverQuest:
+[Tue Jul 24 23:13:09 2001] ---------------------------
+[Tue Jul 24 23:13:09 2001] [50 Warrior] Verdox (Barbarian) <Coeur de Lion> ZONE: everfrost (USER PID FZVVPZK)
+[Tue Jul 24 23:13:09 2001] There is 1 player in EverQuest.
+[Tue Jul 24 23:13:14 2001] Kanlaorf says out of character, 'LOL'
+[Tue Jul 24 23:13:28 2001] Kanlaorf says out of character, 'sometimes they are faster than finding a port, though... LOL'
+[Tue Jul 24 23:13:32 2001] Grayward says out of character, '*sigh* i guess i dont have much choice'
+[Tue Jul 24 23:13:37 2001] Kaywyne says out of character, 'And who says shammy's are humble...LOL'
+[Tue Jul 24 23:13:41 2001] Your protection fades.
+[Tue Jul 24 23:13:47 2001] You told Verdox, 'Hail, Verdox! Guide Espranza here. Are you there with Starn now?'
+[Tue Jul 24 23:13:51 2001] Swiftmoor GMSAYS, 'deleting Silditika.  Helped him with specialize problems'
+[Tue Jul 24 23:13:54 2001] Grayward says out of character, 'i could always keep the bloodgills blood runnin, but i ran outa fish scales too'
+[Tue Jul 24 23:13:56 2001] Syloc GMSAYS, 'Who had petiton about a human having graphic problems when sitting?'
+[Tue Jul 24 23:13:58 2001] Gaiasis shouts, 'can anyone cast breeze?'
+[Tue Jul 24 23:14:04 2001] Gaiasis shouts, 'i will donate'
+[Tue Jul 24 23:14:05 2001] Verdox tells you, 'no had to run back to ig to fight'
+[Tue Jul 24 23:14:05 2001] Theobrin GMSAYS, 'i did'
+[Tue Jul 24 23:14:08 2001] Grayward says out of character, 'hehe im jokin with ya honest'
+[Tue Jul 24 23:14:12 2001] Syloc GMSAYS, 'Do you remember what zone he was in?'
+[Tue Jul 24 23:14:13 2001] Theobrin GMSAYS, 'don't remember his name now tho'
+[Tue Jul 24 23:14:16 2001] Theobrin GMSAYS, 'velk'
+[Tue Jul 24 23:14:19 2001] Swiftmoor GMSAYS, 'I just realized, I've been in all Kunark zones I'm allowed in :)'
+[Tue Jul 24 23:14:22 2001] Syloc GMSAYS, 'Ok, was it Trapps?'
+[Tue Jul 24 23:14:32 2001] Swiftmoor GMSAYS, 'read it was Velk'
+[Tue Jul 24 23:14:34 2001] Verdox tells you, 'he was at norht tower'
+[Tue Jul 24 23:14:38 2001] Theobrin GMSAYS, 'no clue'
+[Tue Jul 24 23:14:39 2001] Luminite shouts, 'lv 26 chanter lfg'
+[Tue Jul 24 23:14:43 2001] Syloc GMSAYS, 'ok'
+[Tue Jul 24 23:14:56 2001] You told Verdox, 'okay I'll check him out. thanks!'
+[Tue Jul 24 23:14:59 2001] You GMSAY, 'zone'
+[Tue Jul 24 23:15:06 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 23:15:41 2001] You have entered Everfrost.
+[Tue Jul 24 23:15:41 2001] Angelize shouts, 'Looking for my shaman...... Funny looking Barb guy with a spear.... paying 10pp for his whereabouts =)>'
+[Tue Jul 24 23:15:42 2001] You have formed the group.
+[Tue Jul 24 23:15:52 2001] It begins to snow.
+[Tue Jul 24 23:16:03 2001] Theobrin GMSAYS, 'you couldn't pay me to play an erudite melee'
+[Tue Jul 24 23:16:22 2001] Gallice shouts, 'i think i found him but i would like my 10pp in advance'
+[Tue Jul 24 23:16:26 2001] Swiftmoor GMSAYS, 'same reason people play gnome warriors'
+[Tue Jul 24 23:16:29 2001] Jambolina shouts, 'LOL'
+[Tue Jul 24 23:16:37 2001] Angelize says out of character, 'Ummm bring him to me first'
+[Tue Jul 24 23:16:41 2001] Verdox tells you, 'he is at 2381, n3733'
+[Tue Jul 24 23:16:44 2001] Swiftmoor GMSAYS, 'oh misread that'
+[Tue Jul 24 23:16:45 2001] Tariden says out of character, 'hello Espranza =)'
+[Tue Jul 24 23:16:46 2001] You feel the spirit of Norrath enter you.
+[Tue Jul 24 23:16:48 2001] Your feet leave the ground.
+[Tue Jul 24 23:16:54 2001] Swiftmoor GMSAYS, 'dunno, how is an erudite's WIS?'
+[Tue Jul 24 23:16:55 2001] Angelize says out of character, 'Hi hun *hugs*'
+[Tue Jul 24 23:17:00 2001] Gallice shouts, 'ok but i think hes getting lost'
+[Tue Jul 24 23:17:03 2001] Searching for starn00.
+[Tue Jul 24 23:17:03 2001] Could not locate player with that name.
+[Tue Jul 24 23:17:04 2001] Verdox tells you, 'just behind tower'
+[Tue Jul 24 23:17:07 2001] You told Verdox, 'thanks'
+[Tue Jul 24 23:17:08 2001] Syloc GMSAYS, 'zone'
+[Tue Jul 24 23:17:12 2001] Players in EverQuest:
+[Tue Jul 24 23:17:12 2001] ---------------------------
+[Tue Jul 24 23:17:12 2001] [50 Warrior] Verdox (Barbarian) <Coeur de Lion> ZONE: everfrost (USER PID FZVVPZK)
+[Tue Jul 24 23:17:12 2001] There is 1 player in EverQuest.
+[Tue Jul 24 23:17:12 2001] Verdox tells you, 'np'
+[Tue Jul 24 23:17:17 2001] Zxylan says out of character, 'ack its Esp run everybody :) hide your surnames '
+[Tue Jul 24 23:17:18 2001] Teleporting to verdox.
+[Tue Jul 24 23:17:19 2001] Angelize says out of character, 'Well for him being home and getting lost I should smack him hehe'
+[Tue Jul 24 23:17:22 2001] Theobrin GMSAYS, 'bout same as human i think'
+[Tue Jul 24 23:17:24 2001] Verdox waves at Espranza.
+[Tue Jul 24 23:17:26 2001] You say, 'Hail, Starn Bearjumper'
+[Tue Jul 24 23:17:27 2001] You say, 'Hail, Starn Bearjumper'
+[Tue Jul 24 23:17:31 2001] Starn Bearjumper says 'Rogues like you don't have any place in my shop..now make way for welcome customers'
+[Tue Jul 24 23:17:32 2001] Angelize says out of character, 'Why there is no LAVA close lol'
+[Tue Jul 24 23:17:37 2001] Verdox says, 'lol'
+[Tue Jul 24 23:17:37 2001] You say, 'sigh'
+[Tue Jul 24 23:17:43 2001] You begin to sneak...
+[Tue Jul 24 23:17:43 2001] You are as quiet as a cat stalking its prey.
+[Tue Jul 24 23:17:50 2001] Starn Bearjumper says 'I am not open for business right now'
+[Tue Jul 24 23:17:51 2001] Swiftmoor GMSAYS, 'I guess because they'd have to go to Odus to play one.'
+[Tue Jul 24 23:18:00 2001] You say, 'well, I don't know where he is supposed to go'
+[Tue Jul 24 23:18:11 2001] Jambolina says out of character, 'any rezzing clerics in the zone?'
+[Tue Jul 24 23:18:14 2001] You say, 'I'll have to kill him - he'll respawn in a few moments'
+[Tue Jul 24 23:18:22 2001] Verdox says, 'ok'
+[Tue Jul 24 23:18:22 2001] Theobrin GMSAYS, 'yup'
+[Tue Jul 24 23:18:33 2001] You GMSAY, '<note> Killing Starn Bearjumper - wouldn't sell, dunno where he lives'
+[Tue Jul 24 23:18:35 2001] Killing Starn_Bearjumper00.
+[Tue Jul 24 23:18:35 2001] Starn Bearjumper says 'My comrades will avenge my death.'
+[Tue Jul 24 23:18:38 2001] You say, 'buh bye'
+[Tue Jul 24 23:18:45 2001] You say, 'He'll be back in a bit'
+[Tue Jul 24 23:18:47 2001] Angelize shouts, 'so why is the servers best GM in the zone?'
+[Tue Jul 24 23:18:50 2001] Verdox says, 'thanks :)'
+[Tue Jul 24 23:18:50 2001] DELETING THIS PETITION
+[Tue Jul 24 23:18:56 2001] Bungwa says out of character, 'night crich'
+[Tue Jul 24 23:18:57 2001] You told angelize, 'hiya!'
+[Tue Jul 24 23:19:02 2001] Angelize tells you, 'Hi =)'
+[Tue Jul 24 23:19:10 2001] Verdox thanks Espranza heartily.
+[Tue Jul 24 23:19:14 2001] You GMSAY, 'zone'
+[Tue Jul 24 23:19:17 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 23:19:37 2001] You have entered Sunset Home.
+[Tue Jul 24 23:19:37 2001] You have formed the group.
+[Tue Jul 24 23:19:45 2001] Swiftmoor GMSAYS, 'DL on this server is A LOT different then my play server'
+[Tue Jul 24 23:19:50 2001] Angelize tells you, 'how ya been?'
+[Tue Jul 24 23:19:54 2001] You GMSAY, 'how so?'
+[Tue Jul 24 23:20:03 2001] You told Angelize, 'gotta cold... how are you? see you're back on'
+[Tue Jul 24 23:20:09 2001] Swiftmoor GMSAYS, 'well, the lowest I ever see it there is about 85'
+[Tue Jul 24 23:20:14 2001] Angelize tells you, 'Yeah got a new CC lol'
+[Tue Jul 24 23:20:15 2001] Swiftmoor GMSAYS, 'right now there's 34 here'
+[Tue Jul 24 23:20:22 2001] Angelize tells you, 'I got one to just a flu bug'
+[Tue Jul 24 23:20:34 2001] Swiftmoor GMSAYS, 'play server I've seen it as high as 140'
+[Tue Jul 24 23:20:41 2001] Aryante GMSAYS, 'maybe it's a difference in times'
+[Tue Jul 24 23:20:59 2001] Aryante GMSAYS, 'more people are sleeping now on this server than on your server?'
+[Tue Jul 24 23:21:13 2001] You told Angelize, 'I hate colds... flus are even worse!'
+[Tue Jul 24 23:21:20 2001] Swiftmoor GMSAYS, 'perhaps. Seems like a huge difference.'
+[Tue Jul 24 23:21:24 2001] Angelize tells you, 'yeah kids keep passing it back'
+[Tue Jul 24 23:21:31 2001] Swiftmoor GMSAYS, 'but it is a whole new world over here'
+[Tue Jul 24 23:22:07 2001] Swiftmoor GMSAYS, 'Must be the Taiwanese people on my server. '
+[Tue Jul 24 23:22:33 2001] You told Angelize, 'same - got this one from my son'
+[Tue Jul 24 23:22:34 2001] Swiftmoor GMSAYS, 'about opposite of america, and they have huge numbers'
+[Tue Jul 24 23:22:39 2001] Aryante GMSAYS, 'you never know, I know quite a few people on my server from Japan :)'
+[Tue Jul 24 23:23:26 2001] Swiftmoor GMSAYS, 'oh man it can be such a chore grouping with them sometimes if they can't speak english to wel'
+[Tue Jul 24 23:23:52 2001] Angelize tells you, 'my neice and nephew gave it to my kids and they gave it to me and my daughter is sick again lol'
+[Tue Jul 24 23:24:06 2001] Aryante GMSAYS, 'there were a couple who we grouped with every day, it was great. (but they stopped playing :(   )'
+[Tue Jul 24 23:24:08 2001] You told Angelize, 'sigh... what a drag - and in summer, too'
+[Tue Jul 24 23:24:22 2001] Aryante GMSAYS, 'man, no one plays a human rogue either. wonder why?'
+[Tue Jul 24 23:24:31 2001] Swiftmoor GMSAYS, 'bummer. I've known some good ones, but they really outleveled me'
+[Tue Jul 24 23:24:41 2001] Angelize tells you, 'Yeah sucks cause I know I will get it again. This one has giving me bad migrains'
+[Tue Jul 24 23:24:43 2001] Swiftmoor GMSAYS, 'WOW, I never thought of that one'
+[Tue Jul 24 23:25:18 2001] You told Angelize, 'well I better get over this one soon. it's in the throat, I can't talk'
+[Tue Jul 24 23:25:29 2001] Theobrin GMSAYS, 'pulled grumbler'
+[Tue Jul 24 23:25:30 2001] Swiftmoor GMSAYS, 'I thought an erudin paladin was rare'
+[Tue Jul 24 23:25:35 2001] Angelize tells you, 'thats where mine was yesterday'
+[Tue Jul 24 23:26:30 2001] You told Angelize, 'I just plain hate them.'
+[Tue Jul 24 23:26:31 2001] Swiftmoor GMSAYS, 'pulling Tempmagmol'
+[Tue Jul 24 23:26:47 2001] Angelize tells you, 'yeah but better that now then in fall'
+[Tue Jul 24 23:27:47 2001] You told Angelize, 'yeah, I'll get one then too'
+[Tue Jul 24 23:27:55 2001] Swiftmoor GMSAYS, 'is the animation bug limited to humans or all races?'
+[Tue Jul 24 23:27:59 2001] Syloc GMSAYS, 'zone'
+[Tue Jul 24 23:28:14 2001] You GMSAY, 'seen it for all races. didn't they fix it?'
+[Tue Jul 24 23:28:19 2001] Syloc GMSAYS, 'I've only heard of human so far'
+[Tue Jul 24 23:28:19 2001] Angelize tells you, 'Dont say that'
+[Tue Jul 24 23:28:36 2001] You told Angelize, 'heh well, it's what happens to me anyway'
+[Tue Jul 24 23:28:48 2001] You GMSAY, 'okay, I've seen it for haffers and elves'
+[Tue Jul 24 23:28:55 2001] Swiftmoor GMSAYS, 'got a dwarf here with a limp arm, espectially while sitting'
+[Tue Jul 24 23:29:01 2001] You feel as if you are about to fall.
+[Tue Jul 24 23:29:07 2001] You feel as if you are about to fall.
+[Tue Jul 24 23:29:08 2001] Angelize tells you, 'lol kids'
+[Tue Jul 24 23:29:13 2001] You can no longer levitate.
+[Tue Jul 24 23:29:16 2001] Angelize tells you, 'I will get one too'
+[Tue Jul 24 23:29:39 2001] You told Angelize, 'how old are your kids?'
+[Tue Jul 24 23:29:44 2001] Espranza saved.
+[Tue Jul 24 23:29:50 2001] Theobrin GMSAYS, 'stuck corpse in ToV'
+[Tue Jul 24 23:29:56 2001] Angelize tells you, '8 6 and 3 she will be 4 on the 13 of Aug'
+[Tue Jul 24 23:30:08 2001] You told Angelize, 'mine are a little older'
+[Tue Jul 24 23:30:27 2001] You GMSAY, 'well, what to do about corpse.'
+[Tue Jul 24 23:30:29 2001] Aryante GMSAYS, 'I'll let you do it Espranza, as the most seniorest guide here :)'
+[Tue Jul 24 23:30:49 2001] You GMSAY, 'I'm no senior'
+[Tue Jul 24 23:30:54 2001] You GMSAY, 'we're all equal'
+[Tue Jul 24 23:31:01 2001] Aryante GMSAYS, 'no, but you are older than me <giggle>'
+[Tue Jul 24 23:31:07 2001] Players in EverQuest:
+[Tue Jul 24 23:31:07 2001] ---------------------------
+[Tue Jul 24 23:31:07 2001] * Guide *[50 Ranger] Syloc (Wood Elf) <Keepers of Morell Thule> ZONE: erudsxing (USER PID CUGBXL2)
+[Tue Jul 24 23:31:07 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Tue Jul 24 23:31:07 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID CUUWSSL)
+[Tue Jul 24 23:31:07 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: dreadlands (USER PID HR6C7H5)
+[Tue Jul 24 23:31:07 2001] * Apprentice Guide *[20 Paladin] Theobrin (Dwarf) ZONE: lavastorm (USER PID GP528CN)
+[Tue Jul 24 23:31:07 2001] There are 5 players in EverQuest.
+[Tue Jul 24 23:31:14 2001] Theobrin GMSAYS, 'hehe go for it Espranza'
+[Tue Jul 24 23:31:17 2001] You GMSAY, 'Syloc and I started the same week'
+[Tue Jul 24 23:31:29 2001] Aryante GMSAYS, 'oh, then Syloc can do it. :)'
+[Tue Jul 24 23:31:40 2001] You GMSAY, 'I can do it )'
+[Tue Jul 24 23:31:41 2001] Syloc GMSAYS, 'do what? the ToV corpse?'
+[Tue Jul 24 23:31:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 23:31:43 2001] USER TEXT: body traped in wall I beleive.
+[Tue Jul 24 23:31:43 2001] Players in EverQuest:
+[Tue Jul 24 23:31:43 2001] ---------------------------
+[Tue Jul 24 23:31:44 2001] [60 High Priest] Grumbler (Dwarf) <Relentless Ascension> ZONE: templeveeshan (USER PID AR08AUG)
+[Tue Jul 24 23:31:44 2001] There is 1 player in EverQuest.
+[Tue Jul 24 23:31:54 2001] You GMSAY, 'grr'
+[Tue Jul 24 23:31:55 2001] Aryante GMSAYS, 'I just don't want to get in trouble <giggle>'
+[Tue Jul 24 23:32:02 2001] Theobrin GMSAYS, 'pulled nemesisfa'
+[Tue Jul 24 23:32:08 2001] You GMSAY, 'yeah Lancet posted about this and Kezia did her bit'
+[Tue Jul 24 23:32:17 2001] You GMSAY, 'now I don't know what's right'
+[Tue Jul 24 23:32:29 2001] Swiftmoor GMSAYS, 'thought I read this in the P&P somewhere'
+[Tue Jul 24 23:32:38 2001] Theobrin GMSAYS, 'you talking about what kezia said earlier tonight?'
+[Tue Jul 24 23:32:41 2001] You GMSAY, 'yeah'
+[Tue Jul 24 23:32:43 2001] Aryante GMSAYS, 'I thought the P&P said go in, get it out, then leave, right away'
+[Tue Jul 24 23:33:07 2001] Theobrin GMSAYS, 'seperate situation, kezia verified corpse wasn't stuck'
+[Tue Jul 24 23:33:15 2001] Swiftmoor GMSAYS, 'deleting Tempmagmol, animation problems'
+[Tue Jul 24 23:33:22 2001] Aryante GMSAYS, 'oh, I see. that could be a problem'
+[Tue Jul 24 23:33:40 2001] Aryante GMSAYS, 'What if, you go anon, and go in and look again, in case it's a new corpse that is stuck?'
+[Tue Jul 24 23:33:42 2001] You GMSAY, '5.6.2 says we can remove things from walls'
+[Tue Jul 24 23:33:51 2001] Searching zones for corpse of that name....
+[Tue Jul 24 23:33:51 2001] Corpse: Grumbler's corpse0 in zone: templeveeshan
+[Tue Jul 24 23:34:03 2001] You GMSAY, '<note> Heading into ToV to unstick a corpse'
+[Tue Jul 24 23:34:05 2001] You GMSAY, 'zone'
+[Tue Jul 24 23:34:10 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 23:35:26 2001] Quistar says out of character, 'pulls in 1 min'
+[Tue Jul 24 23:35:26 2001] Aelini says out of character, 'fm'
+[Tue Jul 24 23:35:33 2001] You have entered Temple of Veeshan.
+[Tue Jul 24 23:35:34 2001] You have formed the group.
+[Tue Jul 24 23:35:38 2001] Theobrin GMSAYS, 'pulling lani'
+[Tue Jul 24 23:35:39 2001] Aryante GMSAYS, 'well, I know that the P&P says, but on the boards, they were saying that the seniorest (is that a word) person should do it, so if Lirus is on, he goes in, if a senior is the highest on, he oes in, etc.'
+[Tue Jul 24 23:35:48 2001] Quistar says out of character, 'Pulling!'
+[Tue Jul 24 23:35:56 2001] Teleporting to grumbler's corpse0.
+[Tue Jul 24 23:36:18 2001] Theobrin GMSAYS, 'pulled lani'
+[Tue Jul 24 23:36:27 2001] Quistar says out of character, 'Inc a raging wyvern and some more'
+[Tue Jul 24 23:36:35 2001] Tungari says out of character, 'Target is [ a raging wyvern ]'
+[Tue Jul 24 23:36:37 2001] Teleporting to Grumbler's corpse0 (-1425.68, -66.31, -17.50).
+[Tue Jul 24 23:36:41 2001] Toomba says out of character, 'Malo'ing [ a raging wyvern ]'
+[Tue Jul 24 23:36:41 2001] Chonnom says out of character, 'OOS a raging wyvern LET:S DEBUFF'
+[Tue Jul 24 23:36:42 2001] Jestero says out of character, '[ a raging wyvern ] tashed'
+[Tue Jul 24 23:36:42 2001] Theobrin GMSAYS, 'lani is a disputed spawn'
+[Tue Jul 24 23:36:42 2001] Swiftmoor GMSAYS, 'says, CS Reps can only go in for the following reasons. One of them is to Remove a corpse that is stuck on an object.'
+[Tue Jul 24 23:36:47 2001] Chargr pokes Espranza.
+[Tue Jul 24 23:36:48 2001] Chargr says, 'heh'
+[Tue Jul 24 23:36:49 2001] Toomba says out of character, 'Slowing [ a raging wyvern ]'
+[Tue Jul 24 23:36:50 2001] You GMSAY, 'zoning out - corpse not stuck'
+[Tue Jul 24 23:36:52 2001] Jestero says out of character, 'a raging wyvern crippeld.'
+[Tue Jul 24 23:36:57 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 23:37:36 2001] You have entered Sunset Home.
+[Tue Jul 24 23:37:37 2001] You have formed the group.
+[Tue Jul 24 23:37:49 2001] Theobrin GMSAYS, 'pulled korlon'
+[Tue Jul 24 23:38:00 2001] USER TEXT: body traped in wall I beleive.
+[Tue Jul 24 23:38:04 2001] Theobrin GMSAYS, 'nother camp dispute/ks escalating'
+[Tue Jul 24 23:38:17 2001] Aryante GMSAYS, 'same camp? or another one?'
+[Tue Jul 24 23:38:23 2001] You told Grumbler, 'Hail, Grumbler! Guide Espranza here. Your corpse does not appear to be stuck in anything...'
+[Tue Jul 24 23:38:25 2001] Aryante GMSAYS, '*Gathers the light around her and crosses the world!*'
+[Tue Jul 24 23:38:28 2001] DELETING THIS PETITION
+[Tue Jul 24 23:38:32 2001] Theobrin GMSAYS, 'probably'
+[Tue Jul 24 23:38:38 2001] Theobrin GMSAYS, 'both are in tim'
+[Tue Jul 24 23:38:44 2001] Grumbler tells you, 'Ahh, must have been able to /tar it, sorry I couldnt report they found it, I am slightly dead'
+[Tue Jul 24 23:38:52 2001] Grumbler tells you, 'Thank you so much for you time.'
+[Tue Jul 24 23:39:06 2001] You told Grumbler, 'you're welcome. be well!'
+[Tue Jul 24 23:39:26 2001] You GMSAY, 'someone working on Korlon or a related petition?'
+[Tue Jul 24 23:39:47 2001] Aryante GMSAYS, 'I'm on Lani, who has issues with the great oowomp, is that the same issue as Korlon?'
+[Tue Jul 24 23:39:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 23:39:56 2001] USER TEXT: there are a couple of people here trying to KS my camp
+[Tue Jul 24 23:39:56 2001] Players in EverQuest:
+[Tue Jul 24 23:39:56 2001] ---------------------------
+[Tue Jul 24 23:39:56 2001] [43 Necromancer] Korlon (Gnome) <Sword of Shadow> ZONE: timorous (USER PID FVMQ7LA)
+[Tue Jul 24 23:39:56 2001] There is 1 player in EverQuest.
+[Tue Jul 24 23:40:03 2001] You GMSAY, 'is Korlon there?'
+[Tue Jul 24 23:40:12 2001] You GMSAY, 'zone'
+[Tue Jul 24 23:40:15 2001] You GMSAY, 'and hiding'
+[Tue Jul 24 23:40:20 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 23:41:18 2001] You have entered Timorous Deep.
+[Tue Jul 24 23:41:18 2001] You have formed the group.
+[Tue Jul 24 23:41:26 2001] Espranza is now Invisible.
+[Tue Jul 24 23:41:26 2001] You are now anonymous.
+[Tue Jul 24 23:41:47 2001] Teleporting to korlon.
+[Tue Jul 24 23:41:50 2001] Aryante GMSAYS, 'looks like right now, they are waiting for the spawn to pop. should I wait and see what happens when it does?'
+[Tue Jul 24 23:42:02 2001] Swiftmoor GMSAYS, 'is there a mob in Kedge named Phinny?'
+[Tue Jul 24 23:42:03 2001] You GMSAY, 'okay, this is oolomop'
+[Tue Jul 24 23:42:04 2001] Korlon begins to cast a spell. (Allure of Death)
+[Tue Jul 24 23:42:08 2001] Korlon looks sick.
+[Tue Jul 24 23:42:11 2001] You GMSAY, 'Korlorn is for yuou then Aryante'
+[Tue Jul 24 23:42:11 2001] Theobrin GMSAYS, 'yes swiftmoor'
+[Tue Jul 24 23:42:15 2001] UNDOING CHECK OUT
+[Tue Jul 24 23:42:21 2001] Swiftmoor GMSAYS, 'odd, a player has that name'
+[Tue Jul 24 23:42:24 2001] Players in EverQuest:
+[Tue Jul 24 23:42:24 2001] ---------------------------
+[Tue Jul 24 23:42:24 2001] * Guide *[ANON (52 Rake)] Espranza (Halfling) ZONE: timorous (USER PID AUGBQH4)
+[Tue Jul 24 23:42:24 2001] * Guide *[ANON (50 Cleric)] Aryante (High Elf) ZONE: timorous (USER PID CUUWSSL)
+[Tue Jul 24 23:42:24 2001] * Guide *[50 Ranger] Syloc (Wood Elf) <Keepers of Morell Thule> ZONE: erudsxing (USER PID CUGBXL2)
+[Tue Jul 24 23:42:24 2001] * Apprentice Guide *[20 Monk] Swiftmoor (Iksar) ZONE: dreadlands (USER PID HR6C7H5)
+[Tue Jul 24 23:42:24 2001] * Apprentice Guide *[20 Paladin] Theobrin (Dwarf) ZONE: lavastorm (USER PID GP528CN)
+[Tue Jul 24 23:42:24 2001] There are 5 players in EverQuest.
+[Tue Jul 24 23:42:28 2001] Aryante GMSAYS, 'ok'
+[Tue Jul 24 23:42:31 2001] Theobrin GMSAYS, 'well thats his nickname'
+[Tue Jul 24 23:42:31 2001] Teleporting to aryante.
+[Tue Jul 24 23:42:40 2001] Swiftmoor GMSAYS, 'ok that's what I thought'
+[Tue Jul 24 23:42:42 2001] Theobrin GMSAYS, 'his full name is huge'
+[Tue Jul 24 23:42:55 2001] Swiftmoor GMSAYS, 'so is a nickname of a mob a violation?'
+[Tue Jul 24 23:42:59 2001] Aryante tells the guild, '/em wonders which group was here first'
+[Tue Jul 24 23:43:07 2001] You GMSAY, 'depends on the mob'
+[Tue Jul 24 23:43:13 2001] You GMSAY, 'the really famous ones...'
+[Tue Jul 24 23:43:18 2001] Swiftmoor GMSAYS, 'Phinny in Kedge'
+[Tue Jul 24 23:43:25 2001] Players in EverQuest:
+[Tue Jul 24 23:43:25 2001] ---------------------------
+[Tue Jul 24 23:43:25 2001] [ANON (26 Necromancer)] Phinny (Dark Elf) ZONE: lakeofillomen (USER PID ERL8MZ8)
+[Tue Jul 24 23:43:25 2001] There is 1 player in EverQuest.
+[Tue Jul 24 23:43:36 2001] You GMSAY, 'I don't think that's bad'
+[Tue Jul 24 23:43:44 2001] Swiftmoor GMSAYS, 'I didn't either'
+[Tue Jul 24 23:43:51 2001] Korlon begins to cast a spell. (Dooming Darkness)
+[Tue Jul 24 23:43:52 2001] Qartum begins to cast a spell. (Stun)
+[Tue Jul 24 23:43:58 2001] Korlon begins to cast a spell. (Drain Spirit)
+[Tue Jul 24 23:43:59 2001] Swiftmoor GMSAYS, 'Ofury sound like a bad surname?'
+[Tue Jul 24 23:44:01 2001] Lani begins to cast a spell. (Ensnare)
+[Tue Jul 24 23:44:02 2001] You say to your guild, 'aryante, bag your sword'
+[Tue Jul 24 23:44:04 2001] Korlon staggers.
+[Tue Jul 24 23:44:04 2001] Korlon says, 'Ahhh, I feel much better now...'
+[Tue Jul 24 23:44:07 2001] You say to your guild, 'it's a light source'
+[Tue Jul 24 23:44:07 2001] Korlon begins to cast a spell. (Drain Spirit)
+[Tue Jul 24 23:44:08 2001] Lani begins to cast a spell. (Firestrike)
+[Tue Jul 24 23:44:11 2001] Swiftmoor GMSAYS, 'NM it is with the first name'
+[Tue Jul 24 23:44:12 2001] Korlon staggers.
+[Tue Jul 24 23:44:13 2001] Korlon says, 'Ahhh, I feel much better now...'
+[Tue Jul 24 23:44:15 2001] Korlon begins to cast a spell. (Drain Spirit)
+[Tue Jul 24 23:44:17 2001] Lani begins to cast a spell. (Firestrike)
+[Tue Jul 24 23:44:21 2001] Korlon staggers.
+[Tue Jul 24 23:44:21 2001] Korlon says, 'Ahhh, I feel much better now...'
+[Tue Jul 24 23:44:38 2001] Aryante tells the guild, 'doh'
+[Tue Jul 24 23:44:49 2001] You no longer have a target.
+[Tue Jul 24 23:44:56 2001] Korlon says, 'give it up, there is no point to this, you guys are bring a**es you know this right?'
+[Tue Jul 24 23:44:59 2001] Korlon begins to cast a spell. (Allure of Death)
+[Tue Jul 24 23:45:02 2001] Korlon looks sick.
+[Tue Jul 24 23:45:11 2001] You say to your guild, 'sounds like they can't share.'
+[Tue Jul 24 23:45:15 2001] You say to your guild, 'just make 'em.'
+[Tue Jul 24 23:45:22 2001] Aryante tells the guild, 'looks like both groups attacked it at once'
+[Tue Jul 24 23:45:25 2001] Korlon says, 'just wait until i am finished like everyone else, quit being babies about it'
+[Tue Jul 24 23:45:44 2001] You say to your guild, 'set a rotation'
+[Tue Jul 24 23:45:47 2001] Korlon says, 'Hail'
+[Tue Jul 24 23:45:51 2001] Aryante tells the guild, 'they hate when you make em share <giggle>'
+[Tue Jul 24 23:45:57 2001] Qartum begins to cast a spell. (Stun)
+[Tue Jul 24 23:45:59 2001] You say to your guild, 'yeah well, thems the rules'
+[Tue Jul 24 23:46:04 2001] Korlon says, 'yes you do'
+[Tue Jul 24 23:46:15 2001] Qartum begins to cast a spell. (Stun)
+[Tue Jul 24 23:46:20 2001] Qartum begins to cast a spell. (Yaulp II)
+[Tue Jul 24 23:46:26 2001] Souq says, 'no one shares this spawn'
+[Tue Jul 24 23:46:38 2001] Korlon says, 'do you know the meaing of camped ?'
+[Tue Jul 24 23:46:44 2001] Aryante says, 'greetings Citizens, what seems to be the problem here?'
+[Tue Jul 24 23:46:45 2001] Ogre Wise One begins to cast a spell. (Light Healing)
+[Tue Jul 24 23:46:47 2001] Theobrin GMSAYS, 'afk a sec, nature callin'
+[Tue Jul 24 23:46:49 2001] Lani says, 'sure i do it all the time'
+[Tue Jul 24 23:46:56 2001] Korlon says, 'these 2 sre trying to steal my camp'
+[Tue Jul 24 23:47:01 2001] Qartum begins to cast a spell. (Stun)
+[Tue Jul 24 23:47:04 2001] Lani bows before Aryante.
+[Tue Jul 24 23:47:06 2001] Swiftmoor GMSAYS, 'Syloc LD. I am groupless'
+[Tue Jul 24 23:47:16 2001] Grayward says out of character, 'night'
+[Tue Jul 24 23:47:17 2001] Korlon says, 'i have been here for hours now, and they move iinn and KS me'
+[Tue Jul 24 23:47:20 2001] Korlon says, 'Target is going to be the Death of Me !'
+[Tue Jul 24 23:47:20 2001] Korlon begins to cast a spell. (Feign Death)
+[Tue Jul 24 23:47:21 2001] Souq says out of character, 'nighty'
+[Tue Jul 24 23:47:22 2001] Korlon dies.
+[Tue Jul 24 23:47:24 2001] Grayward says out of character, 'err sorry'
+[Tue Jul 24 23:47:31 2001] Qartum begins to cast a spell. (Yaulp II)
+[Tue Jul 24 23:47:31 2001] Qartum lets loose a mighty yaulp.
+[Tue Jul 24 23:47:35 2001] Lani says, 'no one is trying to steal the camp'
+[Tue Jul 24 23:47:38 2001] Korlon says, 'ask anyone in my guild, or Souq here'
+[Tue Jul 24 23:47:44 2001] Souq says, 'Heddo'
+[Tue Jul 24 23:47:45 2001] Korlon says, 'uh uh'
+[Tue Jul 24 23:47:48 2001] Lani says, 'we asked u nicely to share the camp'
+[Tue Jul 24 23:47:53 2001] Qartum says, 'i have the /log'
+[Tue Jul 24 23:47:57 2001] Aryante says, 'so, let me get this right, you have been sitting here killing the oowomp, and they came in and just started killing stuff? OR did they ask if they could share the camp with you?'
+[Tue Jul 24 23:48:06 2001] Korlon says, 'and i told you if you let me finish i would let you have it'
+[Tue Jul 24 23:48:08 2001] Lani says, 'u said to am all i have to say to you is BAH druid'
+[Tue Jul 24 23:48:08 2001] Korlon says, 'correct'
+[Tue Jul 24 23:48:17 2001] Korlon says, 'they came in and just started killing him'
+[Tue Jul 24 23:48:20 2001] Searching for faydedar00.
+[Tue Jul 24 23:48:20 2001] Could not locate player with that name.
+[Tue Jul 24 23:48:21 2001] Swiftmoor GMSAYS, 'deleting Bishope, reported bad names'
+[Tue Jul 24 23:48:24 2001] Lani says, 'no'
+[Tue Jul 24 23:48:31 2001] Lani says, 'that is not how it happened'
+[Tue Jul 24 23:48:34 2001] Qartum says, 'ma'am...the first timewe did not see them here...'
+[Tue Jul 24 23:48:50 2001] Korlon says, 'noone shouted for a camp check or nothing, all of a sudden i see oowomp moving away and them killing him'
+[Tue Jul 24 23:48:51 2001] Lani says, 'the camp was full spawn'
+[Tue Jul 24 23:48:52 2001] Qartum says, 'after they accused us of KSing we asked to share teh spawn'
+[Tue Jul 24 23:48:53 2001] Korlon says, 'then this all starts'
+[Tue Jul 24 23:49:14 2001] Korlon says, 'ive only been here for about 4 hours or so'
+[Tue Jul 24 23:49:17 2001] Aryante says, 'ok, I understand.'
+[Tue Jul 24 23:49:22 2001] Korlon says, 'next time shout for a camp check'
+[Tue Jul 24 23:49:26 2001] Lani says, 'and Korlon i dont appreciate you cussing at me either'
+[Tue Jul 24 23:49:33 2001] Korlon says, 'i never cussed'
+[Tue Jul 24 23:49:35 2001] Theobrin GMSAYS, 'pulled mesas'
+[Tue Jul 24 23:49:39 2001] Souq says, 'That was me '
+[Tue Jul 24 23:49:44 2001] Lani says, 'no u only called us asses'
+[Tue Jul 24 23:49:45 2001] Korlon says, 'heh'
+[Tue Jul 24 23:49:54 2001] Korlon says, 'correct i said you were acting like them'
+[Tue Jul 24 23:49:56 2001] Aryante says, 'Well, here's what we can do about it. You two groupes will need to share the spawn. '
+[Tue Jul 24 23:50:11 2001] Qartum says, 'i asked to alternate spawns...'
+[Tue Jul 24 23:50:24 2001] Lani says, 'let me tell u something i am a grown adult and i have kids of my own'
+[Tue Jul 24 23:50:25 2001] Aryante says, 'you know, take turns. <giggle>'
+[Tue Jul 24 23:50:37 2001] Lani says, 'that is all we are asking'
+[Tue Jul 24 23:50:37 2001] Qartum says, 'heh he..is that like alternate?'
+[Tue Jul 24 23:50:51 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 23:50:52 2001] USER TEXT: i lost my body 25 minutes ago and others see my body and i dont
+[Tue Jul 24 23:50:52 2001] Players in EverQuest:
+[Tue Jul 24 23:50:52 2001] ---------------------------
+[Tue Jul 24 23:50:52 2001] [3 Rogue] Armeo (Half Elf) ZONE: erudsxing (USER PID EUMXBFB)
+[Tue Jul 24 23:50:52 2001] There is 1 player in EverQuest.
+[Tue Jul 24 23:50:58 2001] Lani says, 'i have done it many times here'
+[Tue Jul 24 23:50:59 2001] Searching zones for corpse of that name....
+[Tue Jul 24 23:51:00 2001] Corpse: Armeo's corpse0 in zone: erudsxing
+[Tue Jul 24 23:51:02 2001] You GMSAY, 'zone'
+[Tue Jul 24 23:51:09 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 23:51:37 2001] You have entered Erud's Crossing.
+[Tue Jul 24 23:51:37 2001] You have formed the group.
+[Tue Jul 24 23:51:44 2001] You are no longer anonymous.
+[Tue Jul 24 23:51:45 2001] You no longer have a target.
+[Tue Jul 24 23:51:53 2001] Labotnus shouts, 'its not deserted, you just cant find the casino'
+[Tue Jul 24 23:52:00 2001] Teleporting to armeo's corpse0.
+[Tue Jul 24 23:52:11 2001] Teleporting to Armeo's corpse0 (-1095.00, 2815.00, -27.20).
+[Tue Jul 24 23:52:16 2001] Your Location is -1130.00, 2824.00, -293.66
+[Tue Jul 24 23:52:31 2001] You have become better at Swimming! (115)
+[Tue Jul 24 23:52:44 2001] Dolcemorte tells you, 'also.. in WW the velium hounds root and snare land .. but take no effect.. not sure if thats suppose to happen or a bugO_o'
+[Tue Jul 24 23:52:49 2001] Theobrin GMSAYS, 'mesas corpse possibly under world'
+[Tue Jul 24 23:52:50 2001] You told Armeo, 'Hail, Armeo! Guide Espranza here. How did you lose y our corpse?'
+[Tue Jul 24 23:52:56 2001] Your feet leave the ground.
+[Tue Jul 24 23:53:03 2001] Armeo tells you, 'zombie sailors'
+[Tue Jul 24 23:53:20 2001] You told Armeo, 'your corpse is in the water - I will bring it to the docks'
+[Tue Jul 24 23:53:21 2001] You GMSAY, 'zone'
+[Tue Jul 24 23:53:25 2001] Player is beneath the world in erudsxing at -32000.000000, -32000.000000, -32765.294922, moving to safe point.
+[Tue Jul 24 23:53:30 2001] Armeo tells you, 'thanx'
+[Tue Jul 24 23:53:41 2001] Summoning armeo's corpse0.
+[Tue Jul 24 23:53:44 2001] You GMSAY, 'zone'
+[Tue Jul 24 23:53:47 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 23:54:15 2001] You have entered Sunset Home.
+[Tue Jul 24 23:54:16 2001] You have formed the group.
+[Tue Jul 24 23:54:31 2001] DELETING THIS PETITION
+[Tue Jul 24 23:54:35 2001] You told Armeo, 'be well!'
+[Tue Jul 24 23:54:45 2001] Armeo tells you, 'wait up'
+[Tue Jul 24 23:54:47 2001] Swiftmoor GMSAYS, 'zoning'
+[Tue Jul 24 23:54:56 2001] Theobrin GMSAYS, 'zone'
+[Tue Jul 24 23:54:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Jul 24 23:55:02 2001] USER TEXT: wheres my corpse ?? ..... think it got moved or something
+[Tue Jul 24 23:55:03 2001] Players in EverQuest:
+[Tue Jul 24 23:55:03 2001] ---------------------------
+[Tue Jul 24 23:55:03 2001] [ANON (48 Druid)] Mesas (Wood Elf) ZONE: everfrost (USER PID HYYFXEF)
+[Tue Jul 24 23:55:03 2001] There is 1 player in EverQuest.
+[Tue Jul 24 23:55:10 2001] Searching zones for corpse of that name....
+[Tue Jul 24 23:55:11 2001] Corpse: Mesas's corpse0 in zone: everfrost
+[Tue Jul 24 23:55:13 2001] You GMSAY, 'zone'
+[Tue Jul 24 23:55:17 2001] Syloc GMSAYS, 'oh, back. hehe'
+[Tue Jul 24 23:55:17 2001] Armeo tells you, 'may i inspect you too?'
+[Tue Jul 24 23:55:19 2001] LOADING, PLEASE WAIT...
+[Tue Jul 24 23:56:01 2001] You have entered Everfrost.
+[Tue Jul 24 23:56:01 2001] You have formed the group.
+[Tue Jul 24 23:56:19 2001] Teleporting to mesas's corpse0.
+[Tue Jul 24 23:56:41 2001] Swiftmoor GMSAYS, 'got disconnected'
+[Tue Jul 24 23:56:46 2001] You told Mesas, 'Hail, Mesas! Guide Espranza here. Your corpse is clearly visible. How did you die?'
+[Tue Jul 24 23:56:49 2001] Krayzii shouts, 'if anyone sees my corpse could they pls send me a tell?'
+[Tue Jul 24 23:57:40 2001] Theobrin GMSAYS, 'would the name 'tell' be considered bad?'
+[Tue Jul 24 23:57:50 2001] Mesas tells you, 'the mc s killed me i was in dog form ? ... cant find the corpse thou'
+[Tue Jul 24 23:57:51 2001] Syloc GMSAYS, 'is someone working on Korlon?'
+[Tue Jul 24 23:58:00 2001] Theobrin GMSAYS, 'arayante'
+[Tue Jul 24 23:58:00 2001] Swiftmoor GMSAYS, 'LOL, I don't see why it would be'
+[Tue Jul 24 23:58:15 2001] The spirit leaves you.
+[Tue Jul 24 23:58:17 2001] Swiftmoor GMSAYS, 'my guide went LD'
+[Tue Jul 24 23:58:23 2001] Theobrin GMSAYS, 'what about treybadeaux?'
+[Tue Jul 24 23:58:26 2001] Syloc GMSAYS, 'That was me'
+[Tue Jul 24 23:58:32 2001] Swiftmoor GMSAYS, 'there ya are'
+[Tue Jul 24 23:58:53 2001] Syloc GMSAYS, 'I'll come get you'
+[Tue Jul 24 23:58:56 2001] Syloc GMSAYS, 'zone'
+[Tue Jul 24 23:58:56 2001] You told Mesas, 'well, it's around. Perhaps you could find a bard to help? There is also an item you can buy, the chipped bone rod, which can help you find your corpse.'
+[Tue Jul 24 23:58:56 2001] Swiftmoor GMSAYS, 'ok'
+[Tue Jul 24 23:58:56 2001] Theobrin GMSAYS, '/em knows its french but not sure what it means'
+[Tue Jul 24 23:59:16 2001] Mesas tells you, 'you can see it ??'
+[Tue Jul 24 23:59:16 2001] Swiftmoor GMSAYS, 'what class?'
+[Tue Jul 24 23:59:47 2001] Swiftmoor GMSAYS, 'I can look it up if you want?'
+[Tue Jul 24 23:59:53 2001] You told Mesas, 'I can, yes'
+[Tue Jul 24 23:59:58 2001] Teleporting to Mesas's corpse0 (959.14, -2330.00, -91.28).
+[Wed Jul 25 00:00:08 2001] You feel the spirit of Norrath enter you.
+[Wed Jul 25 00:00:11 2001] Mesas tells you, 'ok sorry to bother you '
+[Wed Jul 25 00:00:14 2001] Theobrin GMSAYS, 'hehe would be cool, but totally your call'
+[Wed Jul 25 00:00:17 2001] You told Mesas, 'no worries. be well!'
+[Wed Jul 25 00:00:20 2001] DELETING THIS PETITION
+[Wed Jul 25 00:00:36 2001] Swiftmoor GMSAYS, 'ok I'm not doing anything else. Give me a minute'
+[Wed Jul 25 00:00:52 2001] The mystic symbol fades.
+[Wed Jul 25 00:01:02 2001] Tishany begins to cast a spell. (Frost Rift)
+[Wed Jul 25 00:01:27 2001] Jaxus GMSAYS, 'Hi all'
+[Wed Jul 25 00:01:28 2001] Aryante GMSAYS, 'ok, they are all sorted out now. And of course the guy doing the camp was not happy with me but <shrug>'
+[Wed Jul 25 00:01:33 2001] Aryante GMSAYS, 'HIya Jaxus'
+[Wed Jul 25 00:01:36 2001] Theobrin GMSAYS, 'hey jaxus'
+[Wed Jul 25 00:01:36 2001] You GMSAY, 'hiya Jax'
+[Wed Jul 25 00:01:40 2001] Swiftmoor GMSAYS, 'Hello Jaxus'
+[Wed Jul 25 00:01:42 2001] Jaxus GMSAYS, '=)'
+[Wed Jul 25 00:01:49 2001] Jeanine says out of character, 'what's a dark assasin, just curious it came up on track'
+[Wed Jul 25 00:01:50 2001] You GMSAY, 'yeah but c'mon, you're at a camp four hours, you should share'
+[Wed Jul 25 00:01:51 2001] Mesas tells you, 'found it but i died in the snow .... whats up whit that >>.?'
+[Wed Jul 25 00:02:04 2001] Syloc GMSAYS, 'I had something odd happen, guy died on the boat so I was going to pull his corpse to the safe point in zone. Got the message The corpse is too far away to summon. I had to get up next to it, like if I was using /corpse to drag it....'
+[Wed Jul 25 00:02:06 2001] You told Mesas, 'that I don't know - did you go link dead?'
+[Wed Jul 25 00:02:14 2001] Tetman says out of character, 'he for a quest I believe 55th lvl mob'
+[Wed Jul 25 00:02:15 2001] Theobrin GMSAYS, 'hehe i allways just group with the other person in situations like that'
+[Wed Jul 25 00:02:20 2001] Kastorr says out of character, 'lvl 45-50 npc...quest related'
+[Wed Jul 25 00:02:25 2001] Jeanine says out of character, 'Ok thanks =)'
+[Wed Jul 25 00:02:30 2001] Syloc GMSAYS, 'I got it almost to the shore when it all of a sudden disappeared, and it went to the dock by itself'
+[Wed Jul 25 00:02:49 2001] You GMSAY, 'who was this?'
+[Wed Jul 25 00:02:54 2001] You GMSAY, 'Syloc?'
+[Wed Jul 25 00:02:57 2001] Swiftmoor GMSAYS, 'lol, nifty'
+[Wed Jul 25 00:02:57 2001] Aryante GMSAYS, 'that is very strange'
+[Wed Jul 25 00:03:07 2001] Syloc GMSAYS, 'It was a corpse for Armeo'
+[Wed Jul 25 00:03:17 2001] You GMSAY, 'I just pulled that one from the drink'
+[Wed Jul 25 00:03:37 2001] Syloc GMSAYS, 'I went LD while working on it'
+[Wed Jul 25 00:03:44 2001] You GMSAY, 'then it was me'
+[Wed Jul 25 00:03:58 2001] Kastorr auctions, 'WTS Cold Iron Morningstar 9 dam 35 dly'
+[Wed Jul 25 00:04:09 2001] Syloc GMSAYS, 'hehe, that's odd. I couldn't move it unless i was next to it. You summoned it to the dock then?'
+[Wed Jul 25 00:04:13 2001] Swiftmoor GMSAYS, 'ok well I can't find a french to english translator'
+[Wed Jul 25 00:04:27 2001] You GMSAY, 'yes, I did. The corpse was floating on the surface'
+[Wed Jul 25 00:04:28 2001] Theobrin GMSAYS, 'hehe thanks anyhow'
+[Wed Jul 25 00:04:36 2001] You GMSAY, 'and whenever we go there, we get put on the bottom'
+[Wed Jul 25 00:04:37 2001] Syloc GMSAYS, 'hehe, cool. that's funny'
+[Wed Jul 25 00:04:49 2001] You GMSAY, 'but if you compared locs, the corpse was above'
+[Wed Jul 25 00:05:01 2001] Kalyni auctions, 'WTS HQ bear pelt 20pp'
+[Wed Jul 25 00:05:28 2001] Syloc GMSAYS, 'right, I had to swim up to the top to drag it, because summon didn't work farther than a couple yards from the coprse'
+[Wed Jul 25 00:05:52 2001] Kastorr shouts, 'mammoth rib bone for shammi quest on corpse by megans tower'
+[Wed Jul 25 00:06:05 2001] Your feet leave the ground.
+[Wed Jul 25 00:06:07 2001] Espranza saved.
+[Wed Jul 25 00:06:09 2001] You GMSAY, 'zone'
+[Wed Jul 25 00:06:16 2001] LOADING, PLEASE WAIT...
+[Wed Jul 25 00:06:46 2001] You have entered Sunset Home.
+[Wed Jul 25 00:06:47 2001] You have formed the group.
+[Wed Jul 25 00:06:56 2001] It begins to rain.
+[Wed Jul 25 00:07:09 2001] Theobrin GMSAYS, '/summon theobrin 8)'
+[Wed Jul 25 00:07:38 2001] Aryante GMSAYS, 'where do you want to be summoned to Theo?'
+[Wed Jul 25 00:07:44 2001] Theobrin GMSAYS, 'where yer at'
+[Wed Jul 25 00:08:12 2001] Aryante GMSAYS, 'td, but I can go somewhere else'
+[Wed Jul 25 00:08:21 2001] Theobrin GMSAYS, 'nah thats where i wanted to go'
+[Wed Jul 25 00:09:04 2001] Aryante GMSAYS, 'ok, say the magic words'
+[Wed Jul 25 00:09:08 2001] Theobrin GMSAYS, 'zone'
+[Wed Jul 25 00:09:27 2001] Jaxus hugs Espranza.
+[Wed Jul 25 00:09:33 2001] You hug Jaxus.
+[Wed Jul 25 00:09:34 2001] Jaxus floats above the ground.
+[Wed Jul 25 00:09:37 2001] You say, 'hiya Jaxus!'
+[Wed Jul 25 00:09:39 2001] Jaxus beams a smile at Espranza.
+[Wed Jul 25 00:09:42 2001] Jaxus says, 'Hi! =)'
+[Wed Jul 25 00:09:45 2001] Jaxus grabs hold of Espranza and begins to dance with her.
+[Wed Jul 25 00:09:54 2001] You beam a smile at Jaxus.
+[Wed Jul 25 00:09:59 2001] You say, 'How have you been?'
+[Wed Jul 25 00:10:05 2001] You can no longer levitate.
+[Wed Jul 25 00:10:25 2001] You no longer feel blessed.
+[Wed Jul 25 00:10:29 2001] Jaxus says, 'Pretty good, just finished a raid not too long ago. Won a nice cloak that dropped of Inny'
+[Wed Jul 25 00:10:43 2001] Your heroism fades.
+[Wed Jul 25 00:10:53 2001] You say, 'oh wow! won a set of eroded leather gloves in Kael, have to find out what gems they use now./'
+[Wed Jul 25 00:11:08 2001] Jaxus says, 'nice!'
+[Wed Jul 25 00:11:11 2001] Jaxus says, '=)'
+[Wed Jul 25 00:11:12 2001] Swiftmoor GMSAYS, 'pulling Dollaan'
+[Wed Jul 25 00:11:18 2001] Jaxus cheers at Espranza.
+[Wed Jul 25 00:11:22 2001] Aryante tells the guild, 'it's too quiet here.'
+[Wed Jul 25 00:11:52 2001] You say to your guild, 'heh'
+[Wed Jul 25 00:11:53 2001] Jaxus says, 'It was pretty wild, Innoruuk was gravity fluxing me all over the place'
+[Wed Jul 25 00:11:55 2001] It is 9 AM on Friday, the 13th day of October, of the year 3210.
+[Wed Jul 25 00:11:55 2001] Earth Time: Wed Jul 25 00:11:55 2001
+[Wed Jul 25 00:12:09 2001] You GMSAY, 'well, it's time for bed now :( see yall soon!'
+[Wed Jul 25 00:12:14 2001] It will take you about 30 seconds to prepare your camp.
+[Wed Jul 25 00:12:18 2001] It will take about 25 more seconds to prepare your camp.
+[Wed Jul 25 00:12:21 2001] You GMSAY, 'been sick, no more late nights.'
+[Wed Jul 25 00:12:23 2001] It will take about 20 more seconds to prepare your camp.
+[Wed Jul 25 00:12:26 2001] Swiftmoor GMSAYS, 'Goodnight Espranza'
+[Wed Jul 25 00:12:27 2001] Aryante GMSAYS, 'good night Espranza Sleep well'
+[Wed Jul 25 00:12:27 2001] Theobrin GMSAYS, 'good night espranza'
+[Wed Jul 25 00:12:28 2001] Syloc GMSAYS, 'Night Espranza!'
+[Wed Jul 25 00:12:28 2001] It will take about 15 more seconds to prepare your camp.
+[Wed Jul 25 00:12:29 2001] Jaxus comforts Espranza.
+[Wed Jul 25 00:12:33 2001] It will take about 10 more seconds to prepare your camp.
+[Wed Jul 25 00:12:38 2001] It will take about 5 more seconds to prepare your camp.
+[Wed Jul 25 00:12:45 2001] You disband your party.

@@ -1,0 +1,763 @@
+[Tue Aug 14 04:33:00 2001] Welcome to EverQuest!
+[Tue Aug 14 04:33:00 2001] You have entered Sunset Home.
+[Tue Aug 14 04:33:00 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Account security is the user's responsibility. Please keep your password secure. Sharing accounts is in violation of the EverQuest User Agreement and Software License and can lead to disciplinary action.
+[Tue Aug 14 04:33:00 2001] GUILD MOTD: Kezia - Have you hugged your apprentice today?
+[Tue Aug 14 04:33:03 2001] Players in EverQuest:
+[Tue Aug 14 04:33:03 2001] ---------------------------
+[Tue Aug 14 04:33:03 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Tue Aug 14 04:33:03 2001] There is 1 player in EverQuest.
+[Tue Aug 14 04:33:05 2001] You GMSAY, 'hiya all'
+[Tue Aug 14 04:33:33 2001] You GMSAY, '<note gm> Rezzes for this morning's connectivity hiccouph authorized by GM Crayson in chat.'
+[Tue Aug 14 04:33:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 04:33:35 2001] USER TEXT: i died in the frontier mountain zone and i need help recovering my corpse because my body because when i had died  i had been stuck in a mountain mayb by a bug it would b a great help if u could assist me
+[Tue Aug 14 04:33:36 2001] Players in EverQuest:
+[Tue Aug 14 04:33:36 2001] ---------------------------
+[Tue Aug 14 04:33:36 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 04:33:46 2001] Searching zones for corpse of that name....
+[Tue Aug 14 04:33:47 2001] Corpse: Wolfro's corpse0 in zone: frontiermtns
+[Tue Aug 14 04:33:49 2001] You GMSAY, 'zone'
+[Tue Aug 14 04:33:55 2001] LOADING, PLEASE WAIT...
+[Tue Aug 14 04:36:33 2001] Welcome to EverQuest!
+[Tue Aug 14 04:36:33 2001] You have entered Frontier Mountains.
+[Tue Aug 14 04:36:33 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Account security is the user's responsibility. Please keep your password secure. Sharing accounts is in violation of the EverQuest User Agreement and Software License and can lead to disciplinary action.
+[Tue Aug 14 04:36:34 2001] GUILD MOTD: Kezia - Have you hugged your apprentice today?
+[Tue Aug 14 04:36:36 2001] Players in EverQuest:
+[Tue Aug 14 04:36:36 2001] ---------------------------
+[Tue Aug 14 04:36:36 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: frontiermtns (USER PID AUGBQH4)
+[Tue Aug 14 04:36:36 2001] There is 1 player in EverQuest.
+[Tue Aug 14 04:36:41 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 04:36:41 2001] USER TEXT: i died in the frontier mountain zone and i need help recovering my corpse because my body because when i had died  i had been stuck in a mountain mayb by a bug it would b a great help if u could assist me
+[Tue Aug 14 04:36:42 2001] Players in EverQuest:
+[Tue Aug 14 04:36:42 2001] ---------------------------
+[Tue Aug 14 04:36:42 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 04:36:48 2001] Teleporting to wolfro's corpse0.
+[Tue Aug 14 04:37:10 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Aug 14 04:37:11 2001] CHECKING IN
+[Tue Aug 14 04:37:12 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 04:37:13 2001] USER TEXT: request for GM rez in Velketors
+[Tue Aug 14 04:37:13 2001] Players in EverQuest:
+[Tue Aug 14 04:37:13 2001] ---------------------------
+[Tue Aug 14 04:37:13 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 04:37:19 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Aug 14 04:37:20 2001] CHECKING IN
+[Tue Aug 14 04:37:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 04:37:22 2001] USER TEXT: hmm i keep getting disconnected, and this is really getting anoying
+[Tue Aug 14 04:37:22 2001] Players in EverQuest:
+[Tue Aug 14 04:37:22 2001] ---------------------------
+[Tue Aug 14 04:37:22 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 04:37:28 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Tue Aug 14 04:37:30 2001] CHECKING IN
+[Tue Aug 14 04:37:35 2001] Players in EverQuest:
+[Tue Aug 14 04:37:35 2001] ---------------------------
+[Tue Aug 14 04:37:35 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: frontiermtns (USER PID AUGBQH4)
+[Tue Aug 14 04:37:35 2001] There is 1 player in EverQuest.
+[Tue Aug 14 04:37:43 2001] You GMSAY, 'back... crashed'
+[Tue Aug 14 04:37:46 2001] Players on EverQuest:
+[Tue Aug 14 04:37:46 2001] ---------------------------
+[Tue Aug 14 04:37:46 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:37:46 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:37:46 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:37:46 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:37:46 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:37:46 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:37:46 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:38:53 2001] It begins to rain.
+[Tue Aug 14 04:39:01 2001] Players on EverQuest:
+[Tue Aug 14 04:39:01 2001] ---------------------------
+[Tue Aug 14 04:39:01 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:01 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:01 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:01 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:01 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:01 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:01 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:01 2001] Players on EverQuest:
+[Tue Aug 14 04:39:01 2001] ---------------------------
+[Tue Aug 14 04:39:02 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:02 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:02 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:02 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:02 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:02 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:02 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:02 2001] Players on EverQuest:
+[Tue Aug 14 04:39:02 2001] ---------------------------
+[Tue Aug 14 04:39:02 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:02 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:02 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:02 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:02 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:02 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:02 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:03 2001] Players on EverQuest:
+[Tue Aug 14 04:39:03 2001] ---------------------------
+[Tue Aug 14 04:39:03 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:03 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:03 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:03 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:03 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:03 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:03 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:03 2001] Players on EverQuest:
+[Tue Aug 14 04:39:03 2001] ---------------------------
+[Tue Aug 14 04:39:03 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:03 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:03 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:03 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:03 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:03 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:03 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:04 2001] Players on EverQuest:
+[Tue Aug 14 04:39:04 2001] ---------------------------
+[Tue Aug 14 04:39:04 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:04 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:04 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:04 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:04 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:04 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:04 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:04 2001] Players on EverQuest:
+[Tue Aug 14 04:39:04 2001] ---------------------------
+[Tue Aug 14 04:39:04 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:04 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:04 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:04 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:04 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:04 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:04 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:05 2001] Players on EverQuest:
+[Tue Aug 14 04:39:05 2001] ---------------------------
+[Tue Aug 14 04:39:05 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:05 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:05 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:05 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:05 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:05 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:05 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:05 2001] Players on EverQuest:
+[Tue Aug 14 04:39:05 2001] ---------------------------
+[Tue Aug 14 04:39:05 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:05 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:05 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:05 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:05 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:05 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:06 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:06 2001] Players on EverQuest:
+[Tue Aug 14 04:39:06 2001] ---------------------------
+[Tue Aug 14 04:39:06 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:06 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:06 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:06 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:06 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:06 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:06 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:07 2001] Players on EverQuest:
+[Tue Aug 14 04:39:07 2001] ---------------------------
+[Tue Aug 14 04:39:07 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:07 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:07 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:07 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:07 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:07 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:07 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:07 2001] Players on EverQuest:
+[Tue Aug 14 04:39:07 2001] ---------------------------
+[Tue Aug 14 04:39:07 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:07 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:07 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:07 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:07 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:07 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:07 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:08 2001] Players on EverQuest:
+[Tue Aug 14 04:39:08 2001] ---------------------------
+[Tue Aug 14 04:39:08 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:08 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:08 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:08 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:08 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:08 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:08 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:08 2001] Players on EverQuest:
+[Tue Aug 14 04:39:08 2001] ---------------------------
+[Tue Aug 14 04:39:08 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:08 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:08 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:08 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:08 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:08 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:08 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:09 2001] Players on EverQuest:
+[Tue Aug 14 04:39:09 2001] ---------------------------
+[Tue Aug 14 04:39:09 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:09 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:09 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:09 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:09 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:09 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:09 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:09 2001] Players on EverQuest:
+[Tue Aug 14 04:39:09 2001] ---------------------------
+[Tue Aug 14 04:39:09 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:09 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:09 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:09 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:09 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:09 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:09 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:10 2001] Players on EverQuest:
+[Tue Aug 14 04:39:10 2001] ---------------------------
+[Tue Aug 14 04:39:10 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:10 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:10 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:10 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:10 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:10 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:10 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:10 2001] Players on EverQuest:
+[Tue Aug 14 04:39:10 2001] ---------------------------
+[Tue Aug 14 04:39:10 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:10 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:10 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:10 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:10 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:10 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:11 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:11 2001] Players on EverQuest:
+[Tue Aug 14 04:39:11 2001] ---------------------------
+[Tue Aug 14 04:39:11 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:11 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:11 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:11 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:11 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:11 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:11 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:12 2001] Players on EverQuest:
+[Tue Aug 14 04:39:12 2001] ---------------------------
+[Tue Aug 14 04:39:12 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:12 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:12 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:12 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:12 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:12 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:12 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:12 2001] Players on EverQuest:
+[Tue Aug 14 04:39:12 2001] ---------------------------
+[Tue Aug 14 04:39:12 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:12 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:12 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:12 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:12 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:12 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:12 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:13 2001] Players on EverQuest:
+[Tue Aug 14 04:39:13 2001] ---------------------------
+[Tue Aug 14 04:39:13 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:13 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:13 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:13 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:13 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:13 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:13 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:13 2001] Players on EverQuest:
+[Tue Aug 14 04:39:13 2001] ---------------------------
+[Tue Aug 14 04:39:13 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:13 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:13 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:13 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:13 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:13 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:13 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:39:14 2001] Players on EverQuest:
+[Tue Aug 14 04:39:14 2001] ---------------------------
+[Tue Aug 14 04:39:14 2001] [46 Monk] Zopok (Iksar) <Travelers in Mist>
+[Tue Aug 14 04:39:14 2001] [26 Warrior] Vhatphair (Ogre) <Faucheurs Noirs>
+[Tue Aug 14 04:39:14 2001] [ANONYMOUS] Reiky  <Faucheurs Noirs>
+[Tue Aug 14 04:39:14 2001] [29 Wizard] Lisette (High Elf) <Legions of Valhalla>
+[Tue Aug 14 04:39:14 2001] [31 Warrior] Gargual (Troll)
+[Tue Aug 14 04:39:14 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue Aug 14 04:39:14 2001] There are 6 players in Frontier Mountains.
+[Tue Aug 14 04:40:17 2001] ERROR: Couldn't get safe coords for cshome, unable to zone.
+
+[Tue Aug 14 04:40:51 2001] Welcome to EverQuest!
+[Tue Aug 14 04:40:51 2001] You have entered Frontier Mountains.
+[Tue Aug 14 04:40:51 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Account security is the user's responsibility. Please keep your password secure. Sharing accounts is in violation of the EverQuest User Agreement and Software License and can lead to disciplinary action.
+[Tue Aug 14 04:40:52 2001] GUILD MOTD: Kezia - Have you hugged your apprentice today?
+[Tue Aug 14 04:40:53 2001] Rynara GMSAYS, 'did you pull the FM guy out yet?'
+[Tue Aug 14 04:40:55 2001] It begins to rain.
+[Tue Aug 14 04:41:00 2001] You GMSAY, 'hi Ryn'
+[Tue Aug 14 04:41:05 2001] Rynara GMSAYS, 'hiya'
+[Tue Aug 14 04:41:07 2001] You GMSAY, 'His corpse is retrievable'
+[Tue Aug 14 04:41:12 2001] You GMSAY, 'I keep crashing - sorry'
+[Tue Aug 14 04:41:21 2001] Rynara GMSAYS, 'ok deleting his pet then'
+[Tue Aug 14 04:41:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 04:41:27 2001] USER TEXT: request for GM rez in Velketors
+[Tue Aug 14 04:41:27 2001] Players in EverQuest:
+[Tue Aug 14 04:41:27 2001] ---------------------------
+[Tue Aug 14 04:41:27 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 04:41:31 2001] UNDOING CHECK OUT
+[Tue Aug 14 04:41:34 2001] You were hit by non-melee for 6 dmg.
+[Tue Aug 14 04:41:34 2001] YOU were injured by falling.
+[Tue Aug 14 04:41:40 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 04:41:40 2001] USER TEXT: request for GM rez in Velketors
+[Tue Aug 14 04:41:40 2001] Players in EverQuest:
+[Tue Aug 14 04:41:40 2001] ---------------------------
+[Tue Aug 14 04:41:40 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 04:41:44 2001] DELETING THIS PETITION
+[Tue Aug 14 04:41:53 2001] Rynara GMSAYS, 'you crashing alot?'
+[Tue Aug 14 04:42:00 2001] You GMSAY, 'I would have come earlier but I was crashing on my play server too'
+[Tue Aug 14 04:42:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 04:42:04 2001] USER TEXT: can someone help me?
+[Tue Aug 14 04:42:05 2001] Players in EverQuest:
+[Tue Aug 14 04:42:05 2001] ---------------------------
+[Tue Aug 14 04:42:05 2001] [3 Bard] Kegeryen (Wood Elf) ZONE: butcher (USER PID FZM376W)
+[Tue Aug 14 04:42:05 2001] There is 1 player in EverQuest.
+[Tue Aug 14 04:42:10 2001] You GMSAY, 'I crash every time I zone now'
+[Tue Aug 14 04:42:36 2001] Rynara GMSAYS, 'hmm ok let me try zoning see what happens'
+[Tue Aug 14 04:42:41 2001] You told Kegeryen, 'Hail, Kegeryen! Guide Espranza here. How may I help you?'
+[Tue Aug 14 04:42:41 2001] Rynara GMSAYS, 'zone'
+[Tue Aug 14 04:43:00 2001] Players in EverQuest:
+[Tue Aug 14 04:43:00 2001] ---------------------------
+[Tue Aug 14 04:43:00 2001] * Senior Guide *[55 Blackguard] Rynara (Human) <Keepers of Morell Thule> ZONE: oot (USER PID CSRJPKB)
+[Tue Aug 14 04:43:00 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: frontiermtns (USER PID AUGBQH4)
+[Tue Aug 14 04:43:00 2001] There are 2 players in EverQuest.
+[Tue Aug 14 04:43:35 2001] Rynara GMSAYS, 'zone'
+[Tue Aug 14 04:44:05 2001] Searching zones for corpse of that name....
+[Tue Aug 14 04:44:06 2001] Rynara GMSAYS, 'zone'
+[Tue Aug 14 04:44:08 2001] You GMSAY, 'zone'
+[Tue Aug 14 04:44:16 2001] LOADING, PLEASE WAIT...
+[Tue Aug 14 04:44:46 2001] You have entered Butcherblock Mountains.
+[Tue Aug 14 04:44:51 2001] You GMSAY, 'woohoo! made it'
+[Tue Aug 14 04:44:58 2001] Rynara GMSAYS, 'yay!'
+[Tue Aug 14 04:44:59 2001] Teleporting to kegeryen.
+[Tue Aug 14 04:45:00 2001] LOADING, PLEASE WAIT...
+[Tue Aug 14 04:45:29 2001] You have entered Greater Faydark.
+[Tue Aug 14 04:45:32 2001] Teleporting to kegeryen.
+[Tue Aug 14 04:45:46 2001] orc pawn says 'You shall have all the Crushbone orc legions on your tail for my death! 
+[Tue Aug 14 04:45:47 2001] You GMSAY, 'accidental zone...'
+[Tue Aug 14 04:45:50 2001] Kegeryen says, '\'
+[Tue Aug 14 04:45:58 2001] Kegeryen says, 'can you help me'
+[Tue Aug 14 04:46:09 2001] You say, 'Hail, Kegeryen! Guide Espranza here. How may I help you?'
+[Tue Aug 14 04:46:10 2001] Balfazer shouts, 'i'm looking for free healing & buffs at the orc lift - PLEASE'
+[Tue Aug 14 04:46:18 2001] Rynara GMSAYS, 'you zoned and still here =)'
+[Tue Aug 14 04:46:26 2001] Kegeryen says, 'ok i was going with a friend to a person in BB'
+[Tue Aug 14 04:46:31 2001] You GMSAY, 'maybe it calmed down... hope so'
+[Tue Aug 14 04:46:35 2001] You say, 'okay'
+[Tue Aug 14 04:46:52 2001] Kegeryen says, 'and i was running along with all my stuff and money and a dwarf guard  ran up to me screaming something and killed me'
+[Tue Aug 14 04:46:54 2001] Kegeryen says, 'Hail, Espranza'
+[Tue Aug 14 04:46:55 2001] Rynara GMSAYS, 'I thought the server was supposed to be down for maintenence this morning'
+[Tue Aug 14 04:47:04 2001] You GMSAY, 'moved until tomorrow....'
+[Tue Aug 14 04:47:06 2001] Kegeryen says, 'and that was yesterday'
+[Tue Aug 14 04:47:29 2001] You say, 'A dwarf guard? That was probably a bandit.'
+[Tue Aug 14 04:47:37 2001] Rynara GMSAYS, 'yeah the patch was moved to tomorrow but I read they were bringing down some servers this morning, oh well'
+[Tue Aug 14 04:47:40 2001] Kegeryen says, 'no it was a dwarf guard in BB'
+[Tue Aug 14 04:47:55 2001] You GMSAY, 'they slipped a patch in, but didn't bring down the servers that I know of'
+[Tue Aug 14 04:48:34 2001] You say, 'Do you have the song Chords of Dissonance?'
+[Tue Aug 14 04:48:42 2001] Kegeryen says, 'yeah but it wasn't playing'
+[Tue Aug 14 04:48:52 2001] You say, 'Were you playing any songs?'
+[Tue Aug 14 04:48:53 2001] Kegeryen says, 'i was playing what was it vigor'
+[Tue Aug 14 04:49:11 2001] You say, 'Ah.'
+[Tue Aug 14 04:49:20 2001] Kegeryen says, 'the Jaxan's Jig o' Vigor'
+[Tue Aug 14 04:49:28 2001] Kegeryen says, 'so what happened'
+[Tue Aug 14 04:49:33 2001] Rynara GMSAYS, 'zone'
+[Tue Aug 14 04:49:43 2001] You say, 'I don't know... do you remember which guard it was?'
+[Tue Aug 14 04:49:45 2001] Kegeryen hugs Espranza.
+[Tue Aug 14 04:49:47 2001] Saleenah shouts, 'wait her and sit'
+[Tue Aug 14 04:49:53 2001] DELETING THIS PETITION
+[Tue Aug 14 04:49:54 2001] Kegeryen says, 'i can remember'
+[Tue Aug 14 04:49:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 04:49:55 2001] USER TEXT: The crash killed me and I probably don't have that long to get rezzed need help
+[Tue Aug 14 04:49:55 2001] Players in EverQuest:
+[Tue Aug 14 04:49:55 2001] ---------------------------
+[Tue Aug 14 04:49:55 2001] [40 Ranger] Kalais (Half Elf) <Hunters of the Undead> ZONE: nektulos (USER PID DW64RBD)
+[Tue Aug 14 04:49:55 2001] There is 1 player in EverQuest.
+[Tue Aug 14 04:50:01 2001] Kegeryen says, 'if someone protects me from them'
+[Tue Aug 14 04:50:03 2001] Searching zones for corpse of that name....
+[Tue Aug 14 04:50:04 2001] Corpse: Kalais's corpse0 in zone: soldungb
+[Tue Aug 14 04:50:05 2001] Kegeryen is looking at your equipment...
+[Tue Aug 14 04:50:21 2001] You told Kalais, 'Hail, Kalais! Guide Espranza here. I'll be right there for ya!'
+[Tue Aug 14 04:50:27 2001] Kalais tells you, 'thanks'
+[Tue Aug 14 04:50:38 2001] Kalais tells you, 'zoning into lava in a sec'
+[Tue Aug 14 04:50:57 2001] Kegeryen says, 'i can find my way back i just need the guards gone'
+[Tue Aug 14 04:51:04 2001] You say, 'I cannot protect you from NPCs, but I know of no guards who have anything against bards.'
+[Tue Aug 14 04:51:13 2001] You say, 'Not on this continent, at least.'
+[Tue Aug 14 04:51:17 2001] Kegeryen says, 'could it religion'
+[Tue Aug 14 04:51:23 2001] Kegeryen says, 'i am agnostic'
+[Tue Aug 14 04:51:39 2001] You say, 'No, agnostic doesn't provoke strong feelings from guards.'
+[Tue Aug 14 04:51:44 2001] Kegeryen says, 'ok'
+[Tue Aug 14 04:51:51 2001] Kegeryen says, 'so can you help me?'
+[Tue Aug 14 04:52:09 2001] You say, 'You mean, to get your equipment back?'
+[Tue Aug 14 04:52:12 2001] Kegeryen says, 'yeah'
+[Tue Aug 14 04:52:20 2001] Kegeryen says, 'my money isn't a big thing i can get that back'
+[Tue Aug 14 04:52:25 2001] Kegeryen says, 'but i had some good stuff'
+[Tue Aug 14 04:52:34 2001] You say, 'We cannot reimburse anything lost on a character less than level 6 - Verant policy.'
+[Tue Aug 14 04:52:42 2001] You say, 'What was lost?'
+[Tue Aug 14 04:53:14 2001] Kegeryen says, 'chainmail feet, legionaire bracers, tattered skull cap,tattered gloves,war hammer'
+[Tue Aug 14 04:53:20 2001] Ahmitta says out of character, 'need a sow'
+[Tue Aug 14 04:53:28 2001] Koralin says out of character, 'I'll sow ya'
+[Tue Aug 14 04:53:35 2001] Koralin says out of character, 'But I'm drunk'
+[Tue Aug 14 04:53:41 2001] Ahmitta says out of character, 'were at?'
+[Tue Aug 14 04:53:41 2001] Koralin says out of character, 'Where we meet?'
+[Tue Aug 14 04:53:46 2001] Koralin says out of character, 'FElwithe?'
+[Tue Aug 14 04:53:50 2001] You say, 'That sounds like stuff it would have taken you a good deal of work to earn at your level.'
+[Tue Aug 14 04:53:57 2001] Kegeryen says, 'yes it did'
+[Tue Aug 14 04:54:04 2001] Kegeryen says, 'and now i have to do it all over'
+[Tue Aug 14 04:54:07 2001] Kegeryen says, 'thanks anyways'
+[Tue Aug 14 04:54:10 2001] Kegeryen hugs Espranza.
+[Tue Aug 14 04:54:12 2001] You say, 'I wish we could get it back for you.'
+[Tue Aug 14 04:54:15 2001] You no longer have a target.
+[Tue Aug 14 04:54:15 2001] Kegeryen says, 'may i go now'
+[Tue Aug 14 04:54:16 2001] You sigh, clearly disappointed.
+[Tue Aug 14 04:54:25 2001] You say, 'Yes, be well and good luck!'
+[Tue Aug 14 04:54:28 2001] You wave goodbye to Kegeryen.
+[Tue Aug 14 04:54:30 2001] You GMSAY, 'zone'
+[Tue Aug 14 04:54:33 2001] LOADING, PLEASE WAIT...
+[Tue Aug 14 04:54:56 2001] You have entered Nagafen's Lair.
+[Tue Aug 14 04:55:02 2001] Conano begins to cast a spell. (Blizzard Blast)
+[Tue Aug 14 04:55:03 2001] Kalais begins to cast a spell. (Healing)
+[Tue Aug 14 04:55:06 2001] Falakar feels much better.
+[Tue Aug 14 04:55:07 2001] Greater kobold shaman pet staggers as spirits of frost slam against them.
+[Tue Aug 14 04:55:07 2001] greater kobold shaman pet has been slain by Conano!
+[Tue Aug 14 04:55:09 2001] Teleporting to Kalais's corpse0.
+[Tue Aug 14 04:55:11 2001] Kalais begins to cast a spell. (Healing)
+[Tue Aug 14 04:55:17 2001] Kalais begins to cast a spell. (Healing)
+[Tue Aug 14 04:55:26 2001] Kalais begins to cast a spell. (Snare)
+[Tue Aug 14 04:55:27 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Tue Aug 14 04:55:27 2001] Teleporting to kalais.
+[Tue Aug 14 04:55:34 2001] Summoning kalais's corpse.
+[Tue Aug 14 04:55:35 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Tue Aug 14 04:55:35 2001] greater kobold shaman begins to cast a spell. (Healing)
+[Tue Aug 14 04:55:36 2001] Summoning kalais's corpse0.
+[Tue Aug 14 04:55:38 2001] Greater kobold shaman feels much faster.
+[Tue Aug 14 04:55:44 2001] Conano says, 'eeps a GM RUN FOR YOUR LIVES'
+[Tue Aug 14 04:55:46 2001] You told Kalais, 'ready for a rez>'
+[Tue Aug 14 04:55:47 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Tue Aug 14 04:55:48 2001] You told Kalais, 'ready for a rez?'
+[Tue Aug 14 04:55:50 2001] Kalais tells you, 'yes '
+[Tue Aug 14 04:55:51 2001] Greater kobold feels much better.
+[Tue Aug 14 04:55:52 2001] Kalais tells you, 'thanks'
+[Tue Aug 14 04:55:55 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Tue Aug 14 04:55:59 2001] Greater kobold feels much better.
+[Tue Aug 14 04:55:59 2001] Summoning kalais's corpse0.
+[Tue Aug 14 04:56:03 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Tue Aug 14 04:56:03 2001] Kalais tells you, 'what happen?'
+[Tue Aug 14 04:56:07 2001] Greater kobold feels much better.
+[Tue Aug 14 04:56:11 2001] greater kobold shaman begins to cast a spell. (Regeneration)
+[Tue Aug 14 04:56:15 2001] Conano says, 'pullem back he keeps gtting healed'
+[Tue Aug 14 04:56:17 2001] Greater kobold begins to regenerate.
+[Tue Aug 14 04:56:17 2001] You told Kalais, 'just moved it somewhere a little safer'
+[Tue Aug 14 04:56:17 2001] Conano lets loose a mighty yaulp.
+[Tue Aug 14 04:56:23 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Tue Aug 14 04:56:24 2001] Players in EverQuest:
+[Tue Aug 14 04:56:24 2001] ---------------------------
+[Tue Aug 14 04:56:24 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 04:56:26 2001] Greater kobold shaman pet feels much faster.
+[Tue Aug 14 04:56:27 2001] DELETING THIS PETITION
+[Tue Aug 14 04:56:28 2001] Kalais tells you, 'no I mean with server'
+[Tue Aug 14 04:56:29 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 04:56:29 2001] USER TEXT: problem with one guy zantoo he is stealing mobs camped!
+[Tue Aug 14 04:56:29 2001] Players in EverQuest:
+[Tue Aug 14 04:56:29 2001] ---------------------------
+[Tue Aug 14 04:56:29 2001] [11 Rogue] Nathacha (Wood Elf) <L'envol du Phoenix> ZONE: crushbone (USER PID HUEJRF2)
+[Tue Aug 14 04:56:29 2001] There is 1 player in EverQuest.
+[Tue Aug 14 04:56:37 2001] Falakar Scores a critical hit!(124)
+[Tue Aug 14 04:56:39 2001] You told Kalais, 'Oh, we lost our connection to the Internet again'
+[Tue Aug 14 04:56:41 2001] Conano lets loose a mighty yaulp.
+[Tue Aug 14 04:56:41 2001] greater kobold has been slain by Falakar!
+[Tue Aug 14 04:56:49 2001] Kalais tells you, 'lol'
+[Tue Aug 14 04:56:49 2001] Conano says, 'nice crit'
+[Tue Aug 14 04:56:50 2001] Players in EverQuest:
+[Tue Aug 14 04:56:50 2001] ---------------------------
+[Tue Aug 14 04:56:50 2001] [12 Druid] Zantoo (Wood Elf) ZONE: crushbone (USER PID GZB6QM2)
+[Tue Aug 14 04:56:50 2001] There is 1 player in EverQuest.
+[Tue Aug 14 04:56:53 2001] Falakar says, 'thanx'
+[Tue Aug 14 04:57:06 2001] You told Kalais, 'heh... wish it didn't happen but it does. Oh well - have a good day!'
+[Tue Aug 14 04:57:09 2001] You GMSAY, 'zone and hiding'
+[Tue Aug 14 04:57:13 2001] LOADING, PLEASE WAIT...
+[Tue Aug 14 04:57:35 2001] You have entered Crushbone.
+[Tue Aug 14 04:57:35 2001] Llanno begins to cast a spell. (Burn)
+[Tue Aug 14 04:57:39 2001] Espranza is now Invisible.
+[Tue Aug 14 04:57:39 2001] You are now anonymous.
+[Tue Aug 14 04:57:43 2001] Druv begins to cast a spell. (Root)
+[Tue Aug 14 04:57:45 2001] Orc centurion adheres to the ground.
+[Tue Aug 14 04:57:51 2001] Druv begins to cast a spell. (Fire Bolt)
+[Tue Aug 14 04:57:53 2001] Saleenah begins to cast a spell. (Ignite)
+[Tue Aug 14 04:57:56 2001] Zantoo auctions, 'wts screaming mace 75pp'
+[Tue Aug 14 04:57:57 2001] Druv begins to cast a spell. (Fire Bolt)
+[Tue Aug 14 04:57:59 2001] Teleporting to zantoo.
+[Tue Aug 14 04:58:03 2001] Druv begins to cast a spell. (Fire Bolt)
+[Tue Aug 14 04:58:03 2001] You begin to sneak...
+[Tue Aug 14 04:58:03 2001] You are as quiet as a cat stalking its prey.
+[Tue Aug 14 04:58:07 2001] Teleporting to zantoo.
+[Tue Aug 14 04:58:15 2001] Fandyan begins to cast a spell. (Yaulp)
+[Tue Aug 14 04:58:15 2001] Fandyan lets loose a mighty yaulp.
+[Tue Aug 14 04:58:16 2001] Players in EverQuest:
+[Tue Aug 14 04:58:16 2001] ---------------------------
+[Tue Aug 14 04:58:16 2001] [11 Rogue] Nathacha (Wood Elf) <L'envol du Phoenix> ZONE: crushbone (USER PID HUEJRF2)
+[Tue Aug 14 04:58:16 2001] There is 1 player in EverQuest.
+[Tue Aug 14 04:58:21 2001] Teleporting to nathacha.
+[Tue Aug 14 04:58:40 2001] USER TEXT: problem with one guy zantoo he is stealing mobs camped!
+[Tue Aug 14 04:59:09 2001] You told Nathacha, 'Hail, Nathacha! Guide Espranza here. Is Zantoo still being a problem?'
+[Tue Aug 14 04:59:17 2001] Players in EverQuest:
+[Tue Aug 14 04:59:17 2001] ---------------------------
+[Tue Aug 14 04:59:17 2001] * Guide *[ANON (52 Rake)] Espranza (Halfling) ZONE: crushbone (USER PID AUGBQH4)
+[Tue Aug 14 04:59:17 2001] * Senior Guide *[55 Blackguard] Rynara (Human) <Keepers of Morell Thule> ZONE: crushbone (USER PID CSRJPKB)
+[Tue Aug 14 04:59:17 2001] There are 2 players in EverQuest.
+[Tue Aug 14 04:59:19 2001] Sajon shouts, 'lvl 11 wiz LFG'
+[Tue Aug 14 04:59:30 2001] You say to your guild, 'um, hi, Rynara... who are you here for?'
+[Tue Aug 14 04:59:55 2001] Rynara tells the guild, 'on a pet about the zone being unstable, whats up?'
+[Tue Aug 14 04:59:57 2001] It begins to rain.
+[Tue Aug 14 05:00:02 2001] You say to your guild, 'I'm investigating Zantoo Ksing'
+[Tue Aug 14 05:00:20 2001] Rynara tells the guild, 'yikes he is right in front of me, leaving now'
+[Tue Aug 14 05:00:23 2001] You say to your guild, 'just wanted to make sure we weren't on the same pet...'
+[Tue Aug 14 05:00:28 2001] Nathacha tells you, 'he didn't care of what i'm saying but he's gone...i don't like this kind of guys it's a problem of education))'
+[Tue Aug 14 05:00:42 2001] You told Nathacha, 'Was he taking stuff from this hill?'
+[Tue Aug 14 05:00:44 2001] Rynara GMSAYS, 'zone'
+[Tue Aug 14 05:01:20 2001] Rynara tells the guild, 'he came up to me and was asking how I got my name and swords lol'
+[Tue Aug 14 05:01:28 2001] Zantoo auctions, 'wts screaming mace 75pp'
+[Tue Aug 14 05:01:29 2001] You say to your guild, 'heh'
+[Tue Aug 14 05:01:34 2001] Nathacha tells you, 'he looted the trainer...i camp trainer for a friend for a long time hope he has not the shield'
+[Tue Aug 14 05:01:47 2001] Nathacha tells you, 'he's back here'
+[Tue Aug 14 05:01:50 2001] Rynara tells the guild, 'ok Im gone, sorry if I flubbed your investigation'
+[Tue Aug 14 05:01:54 2001] Nathacha says, 'Hail, Zantoo'
+[Tue Aug 14 05:01:55 2001] You say to your guild, 'no worries'
+[Tue Aug 14 05:02:02 2001] You say to your guild, 'Zantoo is being pretty brazen'
+[Tue Aug 14 05:02:03 2001] Nathacha says, 'trainer is camped!! again'
+[Tue Aug 14 05:02:19 2001] Rynara tells the guild, 'whats he doing?'
+[Tue Aug 14 05:02:41 2001] You say to your guild, 'nothing yet - he's lurking on the trainer hill'
+[Tue Aug 14 05:02:55 2001] You say to your guild, 'a rogue is waiting for the trainer, she says he came and stole it last time'
+[Tue Aug 14 05:03:06 2001] You say to your guild, 'just waiting to see if he takes what she aggroes'
+[Tue Aug 14 05:03:26 2001] The spirit leaves you.
+[Tue Aug 14 05:03:29 2001] Rynara tells the guild, 'ok'
+[Tue Aug 14 05:03:50 2001] orc trainer says 'Death!!  Death to all who oppose the Crushbone orcs!! 
+[Tue Aug 14 05:04:52 2001] orc trainer has been slain by Nathacha!
+[Tue Aug 14 05:04:52 2001] orc trainer says 'You shall have all the Crushbone orc legions on your tail for my death! 
+[Tue Aug 14 05:05:03 2001] You say to your guild, 'well, he didn't KS'
+[Tue Aug 14 05:05:16 2001] Rynara tells the guild, 'maybe a one time thing'
+[Tue Aug 14 05:05:24 2001] You told Nathacha, 'He left you alone; I guess things are okay now?'
+[Tue Aug 14 05:05:30 2001] Zeartul shouts, 'can you guys tone down all the trains?'
+[Tue Aug 14 05:05:33 2001] Nathacha tells you, 'yes thx))'
+[Tue Aug 14 05:05:42 2001] Rynara tells the guild, 'or cause I was there he is behaving'
+[Tue Aug 14 05:06:10 2001] You told Nathacha, 'okay, let me know if there's a problem again. If he would like to camp the trainer, too, you two should work out a sharing agreement.'
+[Tue Aug 14 05:06:15 2001] You say to your guild, 'whatever works )'
+[Tue Aug 14 05:06:19 2001] Smurvin says out of character, 'Can anyone tell me who i give the stuff into to get the screaming mace?'
+[Tue Aug 14 05:06:20 2001] DELETING THIS PETITION
+[Tue Aug 14 05:06:22 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 05:06:22 2001] USER TEXT: question
+[Tue Aug 14 05:06:22 2001] Players in EverQuest:
+[Tue Aug 14 05:06:22 2001] ---------------------------
+[Tue Aug 14 05:06:22 2001] [30 Enchanter] Bigb (Human) <Hand of the Shadows> ZONE: eastwastes (USER PID HXUQV7M)
+[Tue Aug 14 05:06:22 2001] There is 1 player in EverQuest.
+[Tue Aug 14 05:06:29 2001] Nathacha tells you, 'and sorry to anoy you with these child things)'
+[Tue Aug 14 05:06:37 2001] You told Bigb, 'Hail, Bigb! Guide Espranza here. How may I help you?'
+[Tue Aug 14 05:06:40 2001] You told Nathacha, 'no trouble at all!'
+[Tue Aug 14 05:07:08 2001] You told Nathacha, 'be well, and good day.'
+[Tue Aug 14 05:07:16 2001] Nathacha tells you, 'you too=)'
+[Tue Aug 14 05:07:22 2001] Bigb tells you, 'i was just wondering if Gynok Moltor still spawns in Befallen, he drops a platinum ring?'
+[Tue Aug 14 05:07:30 2001] Fandyan shouts, 'are you camping the zone?'
+[Tue Aug 14 05:07:35 2001] You told Bigb, 'Yes, he still spawns.'
+[Tue Aug 14 05:07:44 2001] Nathacha shouts, 'trainer camped'
+[Tue Aug 14 05:07:45 2001] Espranza saved.
+[Tue Aug 14 05:07:55 2001] DELETING THIS PETITION
+[Tue Aug 14 05:07:58 2001] Druv says, '30m'
+[Tue Aug 14 05:07:59 2001] Fandyan says, 'Hail, Saleenah'
+[Tue Aug 14 05:07:59 2001] Bigb tells you, 'ok i heard from some friendsd that they havent seen him since a patch changed things there but thanks'
+[Tue Aug 14 05:08:01 2001] Espranza is now Visible.
+[Tue Aug 14 05:08:03 2001] You are no longer anonymous.
+[Tue Aug 14 05:08:05 2001] You stop sneaking.
+[Tue Aug 14 05:08:05 2001] You feel the spirit of Z surround you.
+[Tue Aug 14 05:08:08 2001] You feel the spirit of Norrath enter you.
+[Tue Aug 14 05:08:14 2001] Zantoo auctions, 'ac 3 str 1 dex 3ac 1 '
+[Tue Aug 14 05:08:17 2001] Sajon says, 'Hail, Saleenah'
+[Tue Aug 14 05:08:18 2001] You told Bigb, 'He does :) just have to be patient. Be well!'
+[Tue Aug 14 05:08:20 2001] Fandyan begins to cast a spell. (Holy Armor)
+[Tue Aug 14 05:08:20 2001] Llanno begins to cast a spell. (Summon Bandages)
+[Tue Aug 14 05:08:21 2001] You GMSAY, 'zone'
+[Tue Aug 14 05:08:24 2001] LOADING, PLEASE WAIT...
+[Tue Aug 14 05:08:42 2001] You have entered Sunset Home.
+[Tue Aug 14 05:08:49 2001] You hug Rynara.
+[Tue Aug 14 05:09:09 2001] Rynara shouts, 'hey shorty'
+[Tue Aug 14 05:09:15 2001] You shout, 'heh'
+[Tue Aug 14 05:10:00 2001] You say to your guild, 'did you cut down the queue? I saw 20 on the web page but only three when I finally got on'
+[Tue Aug 14 05:10:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 05:10:07 2001] USER TEXT: to let you all know the vendor at druid ring in Lava is above the cave in Sol B so no one can sell
+[Tue Aug 14 05:10:07 2001] Players in EverQuest:
+[Tue Aug 14 05:10:07 2001] ---------------------------
+[Tue Aug 14 05:10:07 2001] [40 Ranger] Kalais (Half Elf) <Hunters of the Undead> ZONE: lavastorm (USER PID DW64RBD)
+[Tue Aug 14 05:10:07 2001] There is 1 player in EverQuest.
+[Tue Aug 14 05:10:21 2001] Rynara tells the guild, 'nope you were here before I was'
+[Tue Aug 14 05:10:48 2001] You told Kalais, 'Hail, Kalais! Guide Espranza here again. What a misbehaving vixen... I'll have words with her. Thanks!'
+[Tue Aug 14 05:10:53 2001] Rynara tells the guild, 'weird I saw 5 in the queue according to the web page'
+[Tue Aug 14 05:10:55 2001] You say to your guild, 'Must have been a magical SWAT fairy'
+[Tue Aug 14 05:11:09 2001] Rynara tells the guild, 'hehe yep maybe'
+[Tue Aug 14 05:11:10 2001] Kalais tells you, 'np thought you all should no heard people complaining'
+[Tue Aug 14 05:11:13 2001] You say to your guild, 'I had to wait fifteen minutes getting authorization for rezzes...'
+[Tue Aug 14 05:11:21 2001] You told Kalais, 'okay, thanks! I'm on it.'
+[Tue Aug 14 05:11:23 2001] You GMSAY, 'zone'
+[Tue Aug 14 05:11:26 2001] LOADING, PLEASE WAIT...
+[Tue Aug 14 05:11:47 2001] You have entered Lavastorm Mountains.
+[Tue Aug 14 05:11:51 2001] Your feet leave the ground.
+[Tue Aug 14 05:12:07 2001] DELETING THIS PETITION
+[Tue Aug 14 05:12:39 2001] Rynara tells the guild, 'resses for what?'
+[Tue Aug 14 05:12:57 2001] You say to your guild, 'Several servers lost connectivity this morning'
+[Tue Aug 14 05:13:07 2001] Darkrainger tells you, 'hi'
+[Tue Aug 14 05:13:09 2001] You say to your guild, 'dumping people left and right'
+[Tue Aug 14 05:13:11 2001] You told Darkrainger, 'hiya!'
+[Tue Aug 14 05:13:23 2001] Darkrainger tells you, 'Can you help me?'
+[Tue Aug 14 05:13:25 2001] You say to your guild, 'GM Crayson authorized rezzes.'
+[Tue Aug 14 05:13:34 2001] You told Darkrainger, 'please petition, Darkrainger!'
+[Tue Aug 14 05:13:43 2001] Rynara tells the guild, 'oh ok'
+[Tue Aug 14 05:14:12 2001] You say, 'Come home, Tisiana!'
+[Tue Aug 14 05:14:14 2001] Tisiana says 'Guards!! Guards!! 
+[Tue Aug 14 05:14:14 2001] Tisiana feels a bit dispelled.
+[Tue Aug 14 05:14:14 2001] Tisiana hits YOU for 54 points of damage.
+[Tue Aug 14 05:14:14 2001] Tisiana bashes YOU for 48 points of damage.
+[Tue Aug 14 05:14:16 2001] Tisiana hits YOU for 63 points of damage.
+[Tue Aug 14 05:14:16 2001] Tisiana hits YOU for 58 points of damage.
+[Tue Aug 14 05:14:17 2001] Veena says out of character, 'you suck!'
+[Tue Aug 14 05:14:29 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue Aug 14 05:14:29 2001] USER TEXT: espranza
+[Tue Aug 14 05:14:30 2001] Players in EverQuest:
+[Tue Aug 14 05:14:30 2001] ---------------------------
+[Tue Aug 14 05:14:30 2001] [44 Warrior] Darkrainger (Ogre) <Brothers> ZONE: ecommons (USER PID DY3T1QV)
+[Tue Aug 14 05:14:30 2001] There is 1 player in EverQuest.
+[Tue Aug 14 05:14:41 2001] You told Darkrainger, 'Hail, Darkrainger! How may I help you?'
+[Tue Aug 14 05:14:54 2001] Tisiana hits YOU for 45 points of damage.
+[Tue Aug 14 05:14:57 2001] Your target is too far away, get closer!
+[Tue Aug 14 05:15:00 2001] Tisiana blinks a few times.
+[Tue Aug 14 05:15:01 2001] You can't use that command right now...
+[Tue Aug 14 05:15:01 2001] Tisiana blinks a few times.
+[Tue Aug 14 05:15:01 2001] You can't use that command right now...
+[Tue Aug 14 05:15:01 2001] Tisiana blinks a few times.
+[Tue Aug 14 05:15:01 2001] Tisiana blinks a few times.
+[Tue Aug 14 05:15:02 2001] Tisiana blinks a few times.
+[Tue Aug 14 05:15:02 2001] Tisiana blinks a few times.
+[Tue Aug 14 05:15:02 2001] Tisiana blinks a few times.
+[Tue Aug 14 05:15:08 2001] You no longer have a target.
+[Tue Aug 14 05:15:08 2001] You no longer have a target.
+[Tue Aug 14 05:15:08 2001] You no longer have a target.
+[Tue Aug 14 05:15:10 2001] Tisiana says 'Hello there Espranza, how about a nice Spell: Thorncoat?'
+[Tue Aug 14 05:15:10 2001] You no longer have a target.
+[Tue Aug 14 05:15:10 2001] You no longer have a target.
+[Tue Aug 14 05:15:13 2001] Espranza saved.
+[Tue Aug 14 05:15:21 2001] Darkrainger tells you, 'ya.. My friend pachunhwang have died in negafen's'
+[Tue Aug 14 05:15:39 2001] You told Darkrainger, 'a very dangerous place, that'
+[Tue Aug 14 05:15:50 2001] Players in EverQuest:
+[Tue Aug 14 05:15:50 2001] ---------------------------
+[Tue Aug 14 05:15:50 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 05:15:50 2001] Darkrainger tells you, 'but binding point is located at nox area ('
+[Tue Aug 14 05:16:10 2001] You told Darkrainger, 'he bound at nox? YIKES! Why would he ever do that?'
+[Tue Aug 14 05:16:39 2001] Darkrainger tells you, 'on raid..('
+[Tue Aug 14 05:16:54 2001] Searching zones for corpse of that name....
+[Tue Aug 14 05:16:54 2001] Corpse: Pachunhwang's corpse0 in zone: permafrost
+[Tue Aug 14 05:17:12 2001] You told Darkrainger, 'the only corpse of his I see is in Permafrost'
+[Tue Aug 14 05:17:44 2001] You told Darkrainger, 'He is unable to log in because he will die?'
+[Tue Aug 14 05:18:10 2001] Darkrainger tells you, 'ya'
+[Tue Aug 14 05:18:27 2001] You told Darkrainger, 'are you able to talk to him outside of game, or in another character>'
+[Tue Aug 14 05:18:29 2001] You told Darkrainger, 'are you able to talk to him outside of game, or in another character?'
+[Tue Aug 14 05:18:43 2001] USER TEXT: espranza
+[Tue Aug 14 05:18:58 2001] Darkrainger tells you, 'I can talk to him off line'
+[Tue Aug 14 05:19:31 2001] You no longer have a target.
+[Tue Aug 14 05:19:31 2001] You no longer have a target.
+[Tue Aug 14 05:19:43 2001] You no longer have a target.
+[Tue Aug 14 05:19:43 2001] You no longer have a target.
+[Tue Aug 14 05:19:48 2001] You GMSAY, 'zone'
+[Tue Aug 14 05:19:52 2001] LOADING, PLEASE WAIT...
+[Tue Aug 14 05:20:14 2001] You have entered Nagafen's Lair.
+[Tue Aug 14 05:20:29 2001] You told Darkrainger, 'okay, tell him to log in now and I'll yank him out.'
+[Tue Aug 14 05:20:29 2001] Conano begins to cast a spell. (Greater Healing)
+[Tue Aug 14 05:20:29 2001] greater kobold shaman begins to cast a spell. (Cancel Magic)
+[Tue Aug 14 05:20:33 2001] Falakar feels a bit dispelled.
+[Tue Aug 14 05:20:33 2001] Falakar feels much better.
+[Tue Aug 14 05:20:33 2001] greater kobold shaman begins to cast a spell. (Tagar's Insects)
+[Tue Aug 14 05:20:38 2001] Falakar yawns.
+[Tue Aug 14 05:20:38 2001] greater kobold shaman begins to cast a spell. (Cancel Magic)
+[Tue Aug 14 05:20:39 2001] Kalais begins to cast a spell. (Careless Lightning)
+[Tue Aug 14 05:20:41 2001] Falakar feels a bit dispelled.
+[Tue Aug 14 05:20:44 2001] You GMSAY, 'rezone'
+[Tue Aug 14 05:20:44 2001] Kalais begins to cast a spell. (CallOfSkyEffect)
+[Tue Aug 14 05:20:45 2001] LOADING, PLEASE WAIT...
+[Tue Aug 14 05:21:05 2001] You have entered Lavastorm Mountains.
+[Tue Aug 14 05:21:13 2001] Players in EverQuest:
+[Tue Aug 14 05:21:13 2001] ---------------------------
+[Tue Aug 14 05:21:13 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 05:21:16 2001] Players in EverQuest:
+[Tue Aug 14 05:21:16 2001] ---------------------------
+[Tue Aug 14 05:21:16 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 05:21:17 2001] Players in EverQuest:
+[Tue Aug 14 05:21:17 2001] ---------------------------
+[Tue Aug 14 05:21:17 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 05:21:19 2001] Players in EverQuest:
+[Tue Aug 14 05:21:19 2001] ---------------------------
+[Tue Aug 14 05:21:19 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 05:21:22 2001] Players in EverQuest:
+[Tue Aug 14 05:21:22 2001] ---------------------------
+[Tue Aug 14 05:21:22 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 05:21:24 2001] Players in EverQuest:
+[Tue Aug 14 05:21:24 2001] ---------------------------
+[Tue Aug 14 05:21:24 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 05:21:26 2001] Friends currently on EverQuest:
+[Tue Aug 14 05:21:26 2001] ---------------------------------
+[Tue Aug 14 05:21:28 2001] Summoning Pachunhwang.
+[Tue Aug 14 05:21:33 2001] Players in EverQuest:
+[Tue Aug 14 05:21:33 2001] ---------------------------
+[Tue Aug 14 05:21:33 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 05:21:40 2001] You told Darkrainger, 'is he coming in now?'
+[Tue Aug 14 05:21:43 2001] Darkrainger tells you, 'Maybe he can log in after 2 hours'
+[Tue Aug 14 05:21:46 2001] Players in EverQuest:
+[Tue Aug 14 05:21:46 2001] ---------------------------
+[Tue Aug 14 05:21:46 2001] There are no players in EverQuest that match those who filters.
+[Tue Aug 14 05:21:52 2001] You told Darkrainger, 'he can't log in now?'
+[Tue Aug 14 05:22:08 2001] Darkrainger tells you, 'He have a meeting now'
+[Tue Aug 14 05:22:19 2001] You told Darkrainger, 'okay, please repetition when he is reayd'
+[Tue Aug 14 05:22:22 2001] DELETING THIS PETITION
+[Tue Aug 14 05:22:37 2001] Rynara GMSAYS, 'zone'
+[Tue Aug 14 05:22:38 2001] Darkrainger tells you, 'ok thank you )'
+[Tue Aug 14 05:22:42 2001] You told Darkrainger, 'be well!'
+[Tue Aug 14 05:22:53 2001] Darkrainger tells you, 'yep )'
+[Tue Aug 14 05:24:06 2001] Jaysen says, 'you my bish now =p'
+[Tue Aug 14 05:24:10 2001] Veena says, 'aye'
+[Tue Aug 14 05:24:12 2001] Rynara GMSAYS, 'why do you think someone could not loot one bag on their corpse?'
+[Tue Aug 14 05:24:15 2001] Veena kneels down.
+[Tue Aug 14 05:24:20 2001] Your feet leave the ground.
+[Tue Aug 14 05:24:32 2001] You GMSAY, 'no room?'
+[Tue Aug 14 05:24:47 2001] Rynara GMSAYS, 'no he has a friend holding all other bags'
+[Tue Aug 14 05:24:49 2001] You no longer have a target.
+[Tue Aug 14 05:24:50 2001] You no longer have a target.
+[Tue Aug 14 05:24:50 2001] You no longer have a target.
+[Tue Aug 14 05:24:58 2001] You GMSAY, 'lag?'
+[Tue Aug 14 05:25:19 2001] Rynara GMSAYS, 'he tried zoning and trying again, no luck'
+[Tue Aug 14 05:25:23 2001] Players in EverQuest:
+[Tue Aug 14 05:25:23 2001] ---------------------------
+[Tue Aug 14 05:25:23 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: lavastorm (USER PID AUGBQH4)
+[Tue Aug 14 05:25:23 2001] * Senior Guide *[55 Blackguard] Rynara (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID CSRJPKB)
+[Tue Aug 14 05:25:23 2001] There are 2 players in EverQuest.
+[Tue Aug 14 05:25:35 2001] You GMSAY, 'hmmm.'
+[Tue Aug 14 05:25:46 2001] You GMSAY, 'when I've had that problem, it's been lag.'
+[Tue Aug 14 05:26:03 2001] Rynara GMSAYS, 'weird'
+[Tue Aug 14 05:26:27 2001] You GMSAY, 'maybe he could camp to desktop and back, or reboot the machine'
+[Tue Aug 14 05:26:41 2001] You GMSAY, 'the only thing I could suggest - :/'
+[Tue Aug 14 05:27:01 2001] Rynara GMSAYS, 'yeah I cant think of anything'
+[Tue Aug 14 05:28:10 2001] It is 6 PM on Wednesday, the 25th day of December, of the year 3211.
+[Tue Aug 14 05:28:10 2001] Earth Time: Tue Aug 14 05:28:10 2001
+[Tue Aug 14 05:28:38 2001] You GMSAY, 'well, I should sleep some... my second all nighter. Last night to reach 55 on my main, tonight ... tailoring.'
+[Tue Aug 14 05:28:53 2001] Rynara GMSAYS, 'ok night *hugs*'
+[Tue Aug 14 05:29:01 2001] You GMSAY, 'see ya!'
+[Tue Aug 14 05:29:03 2001] It will take you about 30 seconds to prepare your camp.
+[Tue Aug 14 05:29:07 2001] It will take about 25 more seconds to prepare your camp.
+[Tue Aug 14 05:29:12 2001] It will take about 20 more seconds to prepare your camp.
+[Tue Aug 14 05:29:18 2001] It will take about 15 more seconds to prepare your camp.
+[Tue Aug 14 05:29:19 2001] Rynara GMSAYS, 'its a lore item lol'
+[Tue Aug 14 05:29:23 2001] It will take about 10 more seconds to prepare your camp.
+[Tue Aug 14 05:29:23 2001] You GMSAY, 'OH'
+[Tue Aug 14 05:29:28 2001] It will take about 5 more seconds to prepare your camp.
+[Tue Aug 14 05:29:29 2001] You GMSAY, 'duh! shoulda thought of that'
+[Tue Aug 14 05:29:30 2001] You abandon your preparations to camp.
+[Tue Aug 14 05:29:33 2001] It will take you about 30 seconds to prepare your camp.
+[Tue Aug 14 05:29:37 2001] It will take about 25 more seconds to prepare your camp.
+[Tue Aug 14 05:29:42 2001] It will take about 20 more seconds to prepare your camp.
+[Tue Aug 14 05:29:43 2001] Rynara GMSAYS, 'yep asked what message he was getting'
+[Tue Aug 14 05:29:47 2001] It will take about 15 more seconds to prepare your camp.
+[Tue Aug 14 05:29:52 2001] It will take about 10 more seconds to prepare your camp.
+[Tue Aug 14 05:29:57 2001] It will take about 5 more seconds to prepare your camp.

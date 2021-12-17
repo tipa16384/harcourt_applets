@@ -1,0 +1,933 @@
+[Fri Feb 15 20:59:18 2002] Welcome to EverQuest!
+[Fri Feb 15 20:59:18 2002] You have entered Sunset Home.
+[Fri Feb 15 20:59:22 2002] Players in EverQuest:
+[Fri Feb 15 20:59:22 2002] ---------------------------
+[Fri Feb 15 20:59:22 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Fri Feb 15 20:59:22 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: sro (USER PID CW1ECN5)
+[Fri Feb 15 20:59:22 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: innothule (USER PID HU7F5NG)
+[Fri Feb 15 20:59:22 2002] There are 3 players in EverQuest.
+[Fri Feb 15 20:59:28 2002] You GMSAY, 'hello all!'
+[Fri Feb 15 20:59:29 2002] Kedian GMSAYS, 'hes claiming that FD is failing everytime, at a skill of 190.  it hasn't failed for me, and im having him demonstrate it for me, and its not failing'
+[Fri Feb 15 20:59:36 2002] Lirus GMSAYS, 'hi espranza!'
+[Fri Feb 15 20:59:59 2002] You GMSAY, 'any of those reds name changes?'
+[Fri Feb 15 20:59:59 2002] Kedian GMSAYS, 'heya esp'
+[Fri Feb 15 21:00:05 2002] You GMSAY, 'hey you two )'
+[Fri Feb 15 21:00:11 2002] Lirus GMSAYS, 'dunno'
+[Fri Feb 15 21:00:15 2002] Lirus GMSAYS, 'just got back from lunch'
+[Fri Feb 15 21:00:16 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:00:17 2002] USER TEXT: hi, my friend albireo (55wiz) get stuck while she is rezzed by cleric and can't enter the game, that ocurred about 10hours ago, and can't login still (
+[Fri Feb 15 21:00:17 2002] Players in EverQuest:
+[Fri Feb 15 21:00:17 2002] ---------------------------
+[Fri Feb 15 21:00:17 2002] [52 Illusionist] Jihun (High Elf) <Celestial Sphere> ZONE: greatdivide (USER PID BX8P7P0)
+[Fri Feb 15 21:00:17 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:00:21 2002] UNDOING CHECK OUT
+[Fri Feb 15 21:00:22 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:00:23 2002] USER TEXT: I was switching out my weapons and got some lag and somehow I gave my Stave of shielding to pet!?!? I dont know how this happened since it was in the corner of the screen and not near pet is there anyway to get this back or am I screwed ?
+[Fri Feb 15 21:00:23 2002] Players in EverQuest:
+[Fri Feb 15 21:00:23 2002] ---------------------------
+[Fri Feb 15 21:00:23 2002] [43 Beastlord] Gatorr (Troll) ZONE: bazaar (USER PID BRZ31FV)
+[Fri Feb 15 21:00:23 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:00:29 2002] UNDOING CHECK OUT
+[Fri Feb 15 21:00:33 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:00:34 2002] USER TEXT: hi my main was sent to luclin by accident and i cant get on him because i dont have luclin can un please bring him back to south karana were he was--please send a tell back A.S.A.P
+[Fri Feb 15 21:00:34 2002] Players in EverQuest:
+[Fri Feb 15 21:00:34 2002] ---------------------------
+[Fri Feb 15 21:00:34 2002] [16 Druid] Terwer (Half Elf) ZONE: ecommons (USER PID GZGAQ4X)
+[Fri Feb 15 21:00:34 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:00:39 2002] UNDOING CHECK OUT
+[Fri Feb 15 21:00:41 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:00:42 2002] USER TEXT: i have a second acct wife ld cant get back on says she has active char pls help
+[Fri Feb 15 21:00:42 2002] Players in EverQuest:
+[Fri Feb 15 21:00:42 2002] ---------------------------
+[Fri Feb 15 21:00:42 2002] [ANON (51 Wanderer)] Kelcen (Wood Elf) ZONE: gfaydark (USER PID AXAFVAJ)
+[Fri Feb 15 21:00:42 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:00:52 2002] Kedian GMSAYS, 'I dont know either...ive bumed up some item stuff...theres one guy you might considered talking to esp, he wants a res I told him no, now he wants to talk to lirus...'
+[Fri Feb 15 21:01:11 2002] You told Kelcen, 'Hail, Kelcen! Senior Guide Espranza here. Is the character still listed as active?'
+[Fri Feb 15 21:01:23 2002] You GMSAY, 'do you have a pet on it?'
+[Fri Feb 15 21:01:40 2002] Kedian GMSAYS, 'yeah, its one of the reds'
+[Fri Feb 15 21:01:46 2002] You GMSAY, 'which one?'
+[Fri Feb 15 21:02:09 2002] Kedian GMSAYS, 'I dont recall the name, the text is something about demanding a res...'
+[Fri Feb 15 21:02:23 2002] You GMSAY, 'okay I'll go through them after I finish with this pet'
+[Fri Feb 15 21:02:56 2002] You GMSAY, 'Kelcen unavail x2 - online but not talking to me'
+[Fri Feb 15 21:03:00 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Fri Feb 15 21:03:01 2002] CHECKING IN
+[Fri Feb 15 21:03:03 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:03:20 2002] USER TEXT: hi my main was sent to luclin by accident and i cant get on him because i dont have luclin can un please bring him back to south karana were he was--please send a tell back A.S.A.P
+[Fri Feb 15 21:03:20 2002] Players in EverQuest:
+[Fri Feb 15 21:03:20 2002] ---------------------------
+[Fri Feb 15 21:03:20 2002] [16 Druid] Terwer (Half Elf) ZONE: ecommons (USER PID GZGAQ4X)
+[Fri Feb 15 21:03:20 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:03:26 2002] UNDOING CHECK OUT
+[Fri Feb 15 21:03:28 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:03:29 2002] USER TEXT: I was switching out my weapons and got some lag and somehow I gave my Stave of shielding to pet!?!? I dont know how this happened since it was in the corner of the screen and not near pet is there anyway to get this back or am I screwed ?
+[Fri Feb 15 21:03:30 2002] Players in EverQuest:
+[Fri Feb 15 21:03:30 2002] ---------------------------
+[Fri Feb 15 21:03:30 2002] [43 Beastlord] Gatorr (Troll) ZONE: bazaar (USER PID BRZ31FV)
+[Fri Feb 15 21:03:30 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:03:33 2002] UNDOING CHECK OUT
+[Fri Feb 15 21:03:34 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:03:35 2002] USER TEXT: hi, my friend albireo (55wiz) get stuck while she is rezzed by cleric and can't enter the game, that ocurred about 10hours ago, and can't login still (
+[Fri Feb 15 21:03:35 2002] Players in EverQuest:
+[Fri Feb 15 21:03:35 2002] ---------------------------
+[Fri Feb 15 21:03:35 2002] [52 Illusionist] Jihun (High Elf) <Celestial Sphere> ZONE: greatdivide (USER PID BX8P7P0)
+[Fri Feb 15 21:03:35 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:03:38 2002] UNDOING CHECK OUT
+[Fri Feb 15 21:03:49 2002] You GMSAY, 'none like that, they must have logged or Lirus got it'
+[Fri Feb 15 21:03:55 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:03:55 2002] USER TEXT: can I get a rez due to LD death? 
+[Fri Feb 15 21:03:56 2002] Players in EverQuest:
+[Fri Feb 15 21:03:56 2002] ---------------------------
+[Fri Feb 15 21:03:56 2002] [ANON (50 Shaman)] Uggamugga (Troll) ZONE: dreadlands (USER PID CT9KSCS)
+[Fri Feb 15 21:03:56 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:04:33 2002] You told Uggamugga, 'Hail, Uggamugga! Senior Guide Espranza here. Alas, since link deaths are rarely a bug at the server side, we cannot offer rezzes for them. I'm sorry.'
+[Fri Feb 15 21:04:35 2002] DELETING THIS PETITION
+[Fri Feb 15 21:04:36 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:04:37 2002] USER TEXT: i just camped and patched and when i came back in i fell though the earth and took 670 damage and am stuck ATM
+[Fri Feb 15 21:04:37 2002] Players in EverQuest:
+[Fri Feb 15 21:04:37 2002] ---------------------------
+[Fri Feb 15 21:04:37 2002] [ANON (55 Beguiler)] Templora (High Elf) ZONE: fieldofbone (USER PID CQ50QB3)
+[Fri Feb 15 21:04:37 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:04:54 2002] You told Templora, 'Hail, Templora! Senior Guide Espranza here. Are you still stuck?'
+[Fri Feb 15 21:05:04 2002] Searching for templora.
+[Fri Feb 15 21:05:04 2002] Player is in zone fieldofbone at x = 1977 y = -24 z = -172.
+[Fri Feb 15 21:05:18 2002] Templora tells you, 'actually i started wondering and yes i am stuck '
+[Fri Feb 15 21:05:31 2002] You told Templora, 'one moment - I'll be right there'
+[Fri Feb 15 21:05:33 2002] You GMSAY, 'zone'
+[Fri Feb 15 21:05:44 2002] LOADING, PLEASE WAIT...
+[Fri Feb 15 21:06:24 2002] You have entered Field of Bone.
+[Fri Feb 15 21:06:28 2002] Your Location is -1684.00, 1617.00, -56.34
+[Fri Feb 15 21:06:38 2002] Summoning templora.
+[Fri Feb 15 21:06:48 2002] Templora tells you, 'thanx'
+[Fri Feb 15 21:06:57 2002] Templora tells you, 'that was weird,'
+[Fri Feb 15 21:07:05 2002] You GMSAY, '<note> Templora CQ50QB3 stuck under world in FoB, summoned her out'
+[Fri Feb 15 21:07:14 2002] You told Templora, 'yeah, it can happen here more than usual'
+[Fri Feb 15 21:07:22 2002] You told Templora, 'I'm glad you're okay.'
+[Fri Feb 15 21:07:25 2002] Templora tells you, 'thanx for the help'
+[Fri Feb 15 21:07:26 2002] DELETING THIS PETITION
+[Fri Feb 15 21:07:30 2002] You told Templora, 'anytime - be well!'
+[Fri Feb 15 21:07:31 2002] Templora bows before Espranza.
+[Fri Feb 15 21:07:37 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:07:38 2002] USER TEXT: my guild has been approved and I was told to petition to have it created, so here I am....
+[Fri Feb 15 21:07:38 2002] Players in EverQuest:
+[Fri Feb 15 21:07:38 2002] ---------------------------
+[Fri Feb 15 21:07:38 2002] [ANON (58 Preserver)] Mamamia (Halfling) ZONE: templeveeshan (USER PID DNWFT5E)
+[Fri Feb 15 21:07:38 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:08:10 2002] You GMSAY, '<note badname> Mamamia DNWFT5E - phrase. Level 58 though.'
+[Fri Feb 15 21:08:38 2002] Talenoss begins to cast a spell. (Spirit of Wolf)
+[Fri Feb 15 21:08:46 2002] Talenoss begins to cast a spell. (Raging Strength)
+[Fri Feb 15 21:08:54 2002] Talenoss begins to cast a spell. (Rising Dexterity)
+[Fri Feb 15 21:08:56 2002] You GMSAY, 'esc mamamia while I do an inquite'
+[Fri Feb 15 21:08:56 2002] Kedian GMSAYS, '<< zone >>'
+[Fri Feb 15 21:09:00 2002] STATUS UPGRADED TO URGENT
+[Fri Feb 15 21:09:01 2002] CHECKING IN
+[Fri Feb 15 21:09:02 2002] Talenoss begins to cast a spell. (Regeneration)
+[Fri Feb 15 21:09:14 2002] That station id has no soul mark information associated with it.  To add use /praise or /warn.
+[Fri Feb 15 21:09:15 2002] Lirus GMSAYS, 'i am probably not gonna change it esp...just a head's up'
+[Fri Feb 15 21:09:15 2002] Talenoss begins to cast a spell. (Cannibalize)
+[Fri Feb 15 21:09:16 2002] Vosamobrenel begins to cast a spell. (Minor Healing)
+[Fri Feb 15 21:09:22 2002] You GMSAY, 'wasn't asking you to'
+[Fri Feb 15 21:09:25 2002] Lirus GMSAYS, 'k)'
+[Fri Feb 15 21:09:28 2002] Talenoss begins to cast a spell. (Cannibalize)
+[Fri Feb 15 21:09:31 2002] You GMSAY, 'just noting it per policy'
+[Fri Feb 15 21:09:32 2002] Vosamobrenel begins to cast a spell. (Frost Rift)
+[Fri Feb 15 21:09:35 2002] Raithh begins to cast a spell. (Lifetap)
+[Fri Feb 15 21:09:36 2002] Lirus GMSAYS, 'ok)'
+[Fri Feb 15 21:09:49 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:09:49 2002] USER TEXT: my guild has been approved and I was told to petition to have it created, so here I am....
+[Fri Feb 15 21:09:49 2002] Players in EverQuest:
+[Fri Feb 15 21:09:49 2002] ---------------------------
+[Fri Feb 15 21:09:49 2002] [ANON (58 Preserver)] Mamamia (Halfling) ZONE: templeveeshan (USER PID DNWFT5E)
+[Fri Feb 15 21:09:49 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:10:13 2002] You told Mamamia, 'Hail, Mamamia! Senior Guide Espranza here. You have received the email from Verant approving your guild?'
+[Fri Feb 15 21:10:30 2002] Mamamia tells you, 'yes'
+[Fri Feb 15 21:10:58 2002] You told Mamamia, 'do you have ten people with you now who will be members of it?'
+[Fri Feb 15 21:11:30 2002] Mamamia tells you, 'I was told I did not need them all to be here since I got all of them into the guild creation screen.  The instructions specifically say that'
+[Fri Feb 15 21:11:46 2002] Raithh begins to cast a spell. (Leering Corpse)
+[Fri Feb 15 21:11:49 2002] Mamamia tells you, 'although I supposed I could scrounge up 10 real quick if you insist.  They wont be the true members though'
+[Fri Feb 15 21:11:53 2002] Kedian GMSAYS, '<< zone >>'
+[Fri Feb 15 21:12:05 2002] Reporting last 10 lines in chat display concerning Mamamia.
+[Fri Feb 15 21:12:08 2002] Raithh begins to cast a spell. (Lifetap)
+[Fri Feb 15 21:12:31 2002] Zzinga begins to cast a spell. (Frost Rift)
+[Fri Feb 15 21:12:42 2002] You GMSAY, 'Lirus, Mamamia wants his guild created. Could you read the report I just made on him or her? I need to know what to do.'
+[Fri Feb 15 21:12:48 2002] Lirus GMSAYS, 'k'
+[Fri Feb 15 21:13:09 2002] You feel the spirit of Norrath enter you.
+[Fri Feb 15 21:13:12 2002] a large scorpion has been slain by Zzinga!
+[Fri Feb 15 21:13:24 2002] Raithh begins to cast a spell. (Lifetap)
+[Fri Feb 15 21:13:43 2002] Jarkoriz shouts, 'Target train to guards if i make it'
+[Fri Feb 15 21:14:02 2002] Lirus GMSAYS, 'i would tell em that the guild cannot be formed unless they have 10 willing players to join the guild at the time of creation'
+[Fri Feb 15 21:14:16 2002] You GMSAY, 'okay'
+[Fri Feb 15 21:14:45 2002] You told Mamamia, 'Okay, I just talked to the GM, and he says you need to have ten people who will be joining the guild at the time of creation with you.'
+[Fri Feb 15 21:23:47 2002] Welcome to EverQuest!
+[Fri Feb 15 21:23:47 2002] You have entered Field of Bone.
+[Fri Feb 15 21:23:54 2002] You GMSAY, 'back...'
+[Fri Feb 15 21:23:59 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:23:59 2002] USER TEXT: my guild has been approved and I was told to petition to have it created, so here I am....
+[Fri Feb 15 21:23:59 2002] Players in EverQuest:
+[Fri Feb 15 21:23:59 2002] ---------------------------
+[Fri Feb 15 21:23:59 2002] [ANON (58 Preserver)] Mamamia (Halfling) ZONE: templeveeshan (USER PID DNWFT5E)
+[Fri Feb 15 21:23:59 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:24:09 2002] Lirus GMSAYS, 'welcome back'
+[Fri Feb 15 21:24:19 2002] Lirus GMSAYS, 'doing a walkout'
+[Fri Feb 15 21:24:34 2002] You told Mamamia, 'I'm sorry, I crashed. Could you repetition when you have ten people who will become guildmembers available?'
+[Fri Feb 15 21:24:37 2002] You GMSAY, 'k'
+[Fri Feb 15 21:24:45 2002] Mamamia tells you, 'I have them here now'
+[Fri Feb 15 21:24:53 2002] Players on EverQuest:
+[Fri Feb 15 21:24:53 2002] ---------------------------
+[Fri Feb 15 21:24:53 2002] There are no players in The Field of Bone that match those who filters.
+[Fri Feb 15 21:24:56 2002] Players in EverQuest:
+[Fri Feb 15 21:24:56 2002] ---------------------------
+[Fri Feb 15 21:24:56 2002] [ANON (58 Preserver)] Mamamia (Halfling) ZONE: templeveeshan (USER PID DNWFT5E)
+[Fri Feb 15 21:24:56 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:25:13 2002] You GMSAY, 'arg. permission to count his ten future guildies in TOV?'
+[Fri Feb 15 21:25:50 2002] Draclaw says out of character, 'ding level 9'
+[Fri Feb 15 21:25:51 2002] Kedian GMSAYS, 'That player petitoned the other day for a count...first he didnt understand he needed to be counted, then I also explain that we can't count him in tov'
+[Fri Feb 15 21:25:57 2002] Jarkoriz says out of character, 'Congrats'
+[Fri Feb 15 21:25:59 2002] Greyward says out of character, 'grats'
+[Fri Feb 15 21:26:01 2002] You told Mamamia, 'you *would* have to be in a zone I can't go to without good reason... be a moment while I get permission from the GM.'
+[Fri Feb 15 21:26:11 2002] Mamamia tells you, 'ahh, thank you'
+[Fri Feb 15 21:26:18 2002] Zzinga says, 'Hail, scalebone skeleton'
+[Fri Feb 15 21:26:30 2002] You GMSAY, 'yeah, mentioned I would have to get permission from the GM.'
+[Fri Feb 15 21:26:51 2002] You GMSAY, 'placing it back in the queue until Lirus returns.'
+[Fri Feb 15 21:26:53 2002] CHECKING IN
+[Fri Feb 15 21:26:58 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:26:59 2002] USER TEXT: lirus
+[Fri Feb 15 21:26:59 2002] Players in EverQuest:
+[Fri Feb 15 21:26:59 2002] ---------------------------
+[Fri Feb 15 21:26:59 2002] [38 Ranger] Rhallick (Wood Elf) ZONE: crushbone (USER PID GY407QD)
+[Fri Feb 15 21:26:59 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:27:14 2002] You told Rhallick, 'Hail, Rhallick! Senior Guide Espranza here. How may I help you?'
+[Fri Feb 15 21:27:15 2002] Players in EverQuest:
+[Fri Feb 15 21:27:15 2002] ---------------------------
+[Fri Feb 15 21:27:15 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: sro (USER PID CW1ECN5)
+[Fri Feb 15 21:27:15 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: fieldofbone (USER PID B4KJ6E7)
+[Fri Feb 15 21:27:15 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: shadowhaven (USER PID HU7F5NG)
+[Fri Feb 15 21:27:15 2002] There are 3 players in EverQuest.
+[Fri Feb 15 21:27:23 2002] Lirus GMSAYS, 'back'
+[Fri Feb 15 21:27:42 2002] You GMSAY, 'Mamamia wants his guild counted, he is in ToV'
+[Fri Feb 15 21:27:53 2002] Lirus GMSAYS, 'k'
+[Fri Feb 15 21:28:15 2002] You GMSAY, 'it's the yellow pet if you're available to make the guild now'
+[Fri Feb 15 21:29:11 2002] Rhallick tells you, 'in a fight'
+[Fri Feb 15 21:29:22 2002] You told Rhallick, 'ok'
+[Fri Feb 15 21:31:07 2002] Rhallick tells you, 'sorry.....i had problems gettin luclin up and runnin.....when i finally got up and runnin...this character was dead...all my stuff is gone...just discovered it today'
+[Fri Feb 15 21:31:24 2002] Players in EverQuest:
+[Fri Feb 15 21:31:24 2002] ---------------------------
+[Fri Feb 15 21:31:24 2002] [38 Ranger] Rhallick (Wood Elf) ZONE: crushbone (USER PID GY407QD)
+[Fri Feb 15 21:31:24 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:31:30 2002] Searching zones for corpse of that name....
+[Fri Feb 15 21:31:38 2002] You told Rhallick, 'how long has it been since you died?'
+[Fri Feb 15 21:32:31 2002] Rhallick tells you, 'that's just it...i dont know....i didnt die in game play...i was alive last time i played this character and had all my stuff'
+[Fri Feb 15 21:32:48 2002] You told Rhallick, 'when did you last play the character, then?'
+[Fri Feb 15 21:32:59 2002] You were hit by non-melee for 143 dmg.
+[Fri Feb 15 21:32:59 2002] YOU were injured by falling.
+[Fri Feb 15 21:33:04 2002] Rhallick tells you, 'i havent played this character for at least 2 mths...was makin alts'
+[Fri Feb 15 21:33:54 2002] Espranza saved.
+[Fri Feb 15 21:34:01 2002] You GMSAY, 'Lirus, this person said they were having computer troubles with Luclin, and hasn't played the character in two months, came back to a dead and naked body with no corpse.'
+[Fri Feb 15 21:34:18 2002] Rhallick tells you, 'then i loaded luclin and i've been playin it for almost a month i think....i just logged this character back on today after awhile and omg i was naked...lol...no stuff'
+[Fri Feb 15 21:34:31 2002] You GMSAY, 'there's no way anything over two weeks can be reimbursed under any circumstance?'
+[Fri Feb 15 21:35:05 2002] Lirus GMSAYS, 'right'
+[Fri Feb 15 21:35:10 2002] Lirus GMSAYS, 'legup kit('
+[Fri Feb 15 21:35:36 2002] You told Rhallick, 'I don't believe character records are kept over two weeks. All I can do is ask the GM to provide you with a leg up kit, which contains minimal armor and weapons in order to get you playing again.'
+[Fri Feb 15 21:35:58 2002] Lirus GMSAYS, 'gorde unavail x 1'
+[Fri Feb 15 21:36:08 2002] Rhallick tells you, 'i lost all my ivy armor.....i worked hard for all that stuff....this sucks'
+[Fri Feb 15 21:36:22 2002] You told Rhallick, 'would you like a leg up kit'
+[Fri Feb 15 21:36:40 2002] Raemi shouts, 'twign you can stop runnin i got it'
+[Fri Feb 15 21:37:05 2002] Kedian GMSAYS, '<< zone >>'
+[Fri Feb 15 21:37:32 2002] Rhallick tells you, 'i got all my stuff off of an alt just to play this character...now he's naked....what is a leg up kit??'
+[Fri Feb 15 21:37:55 2002] You told Rhallick, 'minimal armor and weapons so that you have something to work with.'
+[Fri Feb 15 21:38:34 2002] Kedian GMSAYS, '<< zone >>'
+[Fri Feb 15 21:38:41 2002] Rhallick tells you, 'u mean like cloth armor and newbie weapon?'
+[Fri Feb 15 21:38:42 2002] Sythrax guardian regards you indifferently -- You could probably win this fight.
+[Fri Feb 15 21:39:10 2002] You told Rhallick, 'no, stuff more or less appropriate to your level. Given you're a ranger, a full set of some chain armor and a weapon.'
+[Fri Feb 15 21:39:15 2002] You say, 'Hail, Sythrax guardian'
+[Fri Feb 15 21:39:34 2002] Gharg Oberbord glowers at you dubiously -- You could probably win this fight.
+[Fri Feb 15 21:39:40 2002] Rhallick tells you, 'that would be really nice'
+[Fri Feb 15 21:39:40 2002] Gharg Oberbord looks friendly.
+[Fri Feb 15 21:39:41 2002] Kedian GMSAYS, '<< zone >>'
+[Fri Feb 15 21:39:43 2002] Gharg Oberbord glowers at you dubiously -- You could probably win this fight.
+[Fri Feb 15 21:40:00 2002] You told Rhallick, 'okay, I'll notify the GM...'
+[Fri Feb 15 21:40:00 2002] Lendien tells you, 'hey ya, haven't seen u on in awhile'
+[Fri Feb 15 21:40:00 2002] Rhallick tells you, 'beggars cant be choosers'
+[Fri Feb 15 21:40:13 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Fri Feb 15 21:40:14 2002] GM TEXT: Espranza: Knows now his stuff is lost, would like a leg-up kit.
+[Fri Feb 15 21:40:14 2002] Rhallick tells you, 'has this happened alot??'
+[Fri Feb 15 21:40:16 2002] Gharg Oberbord laughs heartily at one of the skeletons. '
+[Fri Feb 15 21:40:17 2002] STATUS UPGRADED TO URGENT
+[Fri Feb 15 21:40:17 2002] STATUS UPGRADED TO EMERGENCY
+[Fri Feb 15 21:40:25 2002] You GMSAY, 'esc Rhallick, needs a leg up kit'
+[Fri Feb 15 21:40:27 2002] CHECKING IN
+[Fri Feb 15 21:40:35 2002] You told Lendien, 'Hello!'
+[Fri Feb 15 21:40:41 2002] Peetur shouts, 'anyone know what to do with the two pieces of torn note?'
+[Fri Feb 15 21:40:54 2002] servant of Sythrax says 'Fetch? Kill? Clean? Dig? '
+[Fri Feb 15 21:41:00 2002] You told Rhallick, 'Not really... but it happens enough so that the GM can make leg up kits, anyway'
+[Fri Feb 15 21:41:02 2002] Lendien tells you, 'how are u doing?'
+[Fri Feb 15 21:41:08 2002] You told Lendien, 'tired, mostly...'
+[Fri Feb 15 21:41:16 2002] Seleucus says out of character, 'make into one piece maybe'
+[Fri Feb 15 21:41:17 2002] Lendien tells you, 'aww, lots of pet's?'
+[Fri Feb 15 21:41:36 2002] You told Lendien, 'oh, I meant on my play server. Guiding is a welcome relief :)'
+[Fri Feb 15 21:41:41 2002] You say, 'Hail, Gharg Oberbord'
+[Fri Feb 15 21:41:42 2002] You say, 'Hail, Gharg Oberbord'
+[Fri Feb 15 21:41:43 2002] You say, 'Hail, Gharg Oberbord'
+[Fri Feb 15 21:41:44 2002] Lendien tells you, 'ahh'
+[Fri Feb 15 21:41:44 2002] Peetur says out of character, 'i got them from iskar bandits'
+[Fri Feb 15 21:41:57 2002] Lendien tells you, 'what class do u play?'
+[Fri Feb 15 21:42:10 2002] You told Lendien, 'bunches'
+[Fri Feb 15 21:42:16 2002] Lendien tells you, 'primary?'
+[Fri Feb 15 21:42:19 2002] Rhallick tells you, 'just out of curiosity....how the heck can i die if im not even logged on playin??????'
+[Fri Feb 15 21:42:32 2002] Seleucus says out of character, 'don't quote me   think it goes to a monk quest for iksars'
+[Fri Feb 15 21:42:33 2002] You told Rhallick, 'I imagine someone logged you in without you knowing'
+[Fri Feb 15 21:42:47 2002] Peetur says out of character, 'i hope so, for i am a monk'
+[Fri Feb 15 21:42:50 2002] Rhallick tells you, 'u mean hacked my account!!??'
+[Fri Feb 15 21:42:57 2002] Moshikan shouts, 'does any one know what field bone is'
+[Fri Feb 15 21:43:06 2002] You told Rhallick, 'I can't think of any other explanation.'
+[Fri Feb 15 21:43:22 2002] You told Rhallick, 'were you at your bind point?'
+[Fri Feb 15 21:43:32 2002] You told Lendien, 'My mains are warrior, rogue, druid and SK'
+[Fri Feb 15 21:44:02 2002] Rhallick tells you, 'ummm...not sure....ended up at west fp'
+[Fri Feb 15 21:44:05 2002] Espranza saved.
+[Fri Feb 15 21:44:18 2002] You told Rhallick, 'type /charinfo and see if it says West Freeport'
+[Fri Feb 15 21:44:24 2002] Lendien tells you, 'sigh.....'
+[Fri Feb 15 21:44:36 2002] Lendien tells you, 'i should of made a rogue'
+[Fri Feb 15 21:44:36 2002] You told Lendien, 'hmm?'
+[Fri Feb 15 21:44:45 2002] Rhallick tells you, 'yes....wfp'
+[Fri Feb 15 21:44:50 2002] You told Lendien, 'rogues are fun :) probably my favoritist class'
+[Fri Feb 15 21:45:01 2002] Kedian tells the guild, 'any word on when they are going to take fungus and maidens off the CSR list?'
+[Fri Feb 15 21:45:03 2002] Lendien tells you, 'i like my ranger, but people don't like us ('
+[Fri Feb 15 21:45:07 2002] Lirus tells the guild, 'nope('
+[Fri Feb 15 21:45:09 2002] You say to your guild, 'I don't know that they are'
+[Fri Feb 15 21:45:16 2002] Lirus tells the guild, 'if i'm online.....just go Kedian'
+[Fri Feb 15 21:45:21 2002] You told Lendien, 'my guild is ranger heavy'
+[Fri Feb 15 21:45:26 2002] Lirus tells the guild, 'don't bother asking me for those zone'
+[Fri Feb 15 21:45:28 2002] Lirus tells the guild, 'zones'
+[Fri Feb 15 21:45:47 2002] Lirus GMSAYS, 'afk quickly, rogue's room'
+[Fri Feb 15 21:46:11 2002] You told kedian, 'you have to ask anyway :( even though it makes no sense.'
+[Fri Feb 15 21:47:00 2002] servant of Sythrax begins to cast a spell. (BarbedBones)
+[Fri Feb 15 21:47:10 2002] Rhallick tells you, 'can i give the stuff to my alt that i took all my stuff i have now off of?'
+[Fri Feb 15 21:47:20 2002] You say to your guild, 'umbral I can see, with the entrance to Vex Thal and all that near and the fact that it is a planes level zone... but I've been all through FG - what's to see? the porter to Twilight?'
+[Fri Feb 15 21:47:50 2002] You told Rhallick, 'if you like...'
+[Fri Feb 15 21:48:13 2002] You GMSAY, 'zone'
+[Fri Feb 15 21:48:19 2002] LOADING, PLEASE WAIT...
+[Fri Feb 15 21:48:50 2002] Lirus tells the guild, 'hehe'
+[Fri Feb 15 21:48:59 2002] You have entered Twilight.
+[Fri Feb 15 21:49:01 2002] Kedian GMSAYS, 'bak'
+[Fri Feb 15 21:49:12 2002] Your feet leave the ground.
+[Fri Feb 15 21:49:13 2002] You feel the spirit of Norrath enter you.
+[Fri Feb 15 21:49:40 2002] Kedian tells the guild, 'dun know if this went though before I went ld: do we know when fungus and maidens are going to be taken off csr list?'
+[Fri Feb 15 21:49:49 2002] Lirus tells the guild, 'soon i hope'
+[Fri Feb 15 21:50:31 2002] Xavier Sendorn regards you indifferently -- he appears to be quite formidable.
+[Fri Feb 15 21:50:35 2002] You say, 'Hail, Xavier Sendorn'
+[Fri Feb 15 21:50:35 2002] Xavier Sendorn nods at Espranza. ''Hey there!'' '
+[Fri Feb 15 21:50:40 2002] Xavier Sendorn looks friendly.
+[Fri Feb 15 21:50:41 2002] Xavier Sendorn judges you amiably -- he appears to be quite formidable.
+[Fri Feb 15 21:50:47 2002] You say, 'Hail, Xavier Sendorn'
+[Fri Feb 15 21:50:48 2002] Xavier Sendorn nods at Espranza. ''Hey there!'' '
+[Fri Feb 15 21:50:51 2002] You no longer have a target.
+[Fri Feb 15 21:50:51 2002] You no longer have a target.
+[Fri Feb 15 21:50:59 2002] You say, 'Hail, Lara Trueseer'
+[Fri Feb 15 21:50:59 2002] Lara Trueseer grimaces in pain. ''The visions are so strong they hurt...please make them stop..'' '
+[Fri Feb 15 21:51:06 2002] You say, 'what visions'
+[Fri Feb 15 21:51:06 2002] Lara Trueseer says 'I keep getting these random visions of places unknown to me. Perhaps you could help me with a cure. '
+[Fri Feb 15 21:51:11 2002] You say, 'what cure'
+[Fri Feb 15 21:51:18 2002] You say, 'I will help find a cure'
+[Fri Feb 15 21:51:18 2002] Lara Trueseer says 'Ah my thanks! For doing this I can reward you with pieces of a set of armor for enchanters. Are you an enchanter? '
+[Fri Feb 15 21:51:31 2002] You say, 'I am an enchanter'
+[Fri Feb 15 21:51:32 2002] Lara Trueseer says 'Very good. I have a cap, robe, sleeves, pants, shawl, and bracer.  My friend Xavier has the rest just ask him about armor. '
+[Fri Feb 15 21:51:49 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 21:51:50 2002] USER TEXT: got some bugged mobs in Village, help plz
+[Fri Feb 15 21:51:50 2002] Players in EverQuest:
+[Fri Feb 15 21:51:50 2002] ---------------------------
+[Fri Feb 15 21:51:50 2002] [60 Warlord] Galit (Barbarian) <Triune> ZONE: velketor (USER PID AWB35F8)
+[Fri Feb 15 21:51:50 2002] There is 1 player in EverQuest.
+[Fri Feb 15 21:52:06 2002] You told Galit, 'Hail, Galit! Senior Guide Espranza here. How are they bugged?'
+[Fri Feb 15 21:52:08 2002] Lendien tells you, 'sorry, LD ('
+[Fri Feb 15 21:52:11 2002] You say, 'Hail, Bolli Hillfoot'
+[Fri Feb 15 21:52:11 2002] Bolli Hillfoot looks at Espranzaand smirks. ''I be Bolli and it's sure an honor to meet such a fine person such as yourself! I have plenty of deals for any stealthy types'' '
+[Fri Feb 15 21:52:17 2002] Galit tells you, 'they pop, spin around and depop'
+[Fri Feb 15 21:52:19 2002] You say, 'what sort of deals?'
+[Fri Feb 15 21:52:19 2002] Bolli Hillfoot says 'Ah Espranzayou fancy yerself to be a rogue.  Well I can cut ya a deal on some armor if you be wantin' some. '
+[Fri Feb 15 21:52:22 2002] Galit tells you, 'including Tpos Icepaw'
+[Fri Feb 15 21:52:33 2002] You told Galit, 'ugh. Well, let me see what I can do'
+[Fri Feb 15 21:52:41 2002] You GMSAY, 'zone'
+[Fri Feb 15 21:52:45 2002] Teleporting to galit.
+[Fri Feb 15 21:52:46 2002] LOADING, PLEASE WAIT...
+[Fri Feb 15 21:53:15 2002] You have entered Velketor's Labyrinth.
+[Fri Feb 15 21:53:16 2002] Kella begins to cast a spell. (Invisibility)
+[Fri Feb 15 21:53:20 2002] Sumiko begins to cast a spell. (Dazzle)
+[Fri Feb 15 21:53:21 2002] Sosoca begins to cast a spell. (Screaming Terror)
+[Fri Feb 15 21:53:21 2002] Laerill fades away.
+[Fri Feb 15 21:53:25 2002] Yenadil begins to cast a spell. (Remedy)
+[Fri Feb 15 21:53:25 2002] Sumiko begins to cast a spell. (Tashania)
+[Fri Feb 15 21:53:26 2002] Kella begins to cast a spell. (Invisibility)
+[Fri Feb 15 21:53:29 2002] Sumiko begins to cast a spell. (Dazzle)
+[Fri Feb 15 21:53:32 2002] Yenadil begins to cast a spell. (Celestial Healing)
+[Fri Feb 15 21:53:33 2002] an Icepaw kobold priest begins to cast a spell. (Spirit of Wolf)
+[Fri Feb 15 21:53:33 2002] Searching for tpos_icepaw00.
+[Fri Feb 15 21:53:33 2002] Could not locate player with that name.
+[Fri Feb 15 21:53:35 2002] Kella begins to cast a spell. (Invisibility)
+[Fri Feb 15 21:53:37 2002] an Icepaw kobold begins to cast a spell. (Spirit of Wolf)
+[Fri Feb 15 21:53:40 2002] Sumiko begins to cast a spell. (Tashania)
+[Fri Feb 15 21:53:40 2002] Moxit begins to cast a spell. (Breath of Ro)
+[Fri Feb 15 21:53:43 2002] Sumiko begins to cast a spell. (Shiftless Deeds)
+[Fri Feb 15 21:53:44 2002] Sosoca begins to cast a spell. (Invoke Death)
+[Fri Feb 15 21:54:18 2002] Yenadil says out of character, 'Necro's I am oom, please feed me.'
+[Fri Feb 15 21:54:19 2002] Sosoca begins to cast a spell. (Ignite Bones)
+[Fri Feb 15 21:54:25 2002] You say, 'where are the buggy mobs?'
+[Fri Feb 15 21:54:27 2002] Moxit begins to cast a spell. (Fury of Air)
+[Fri Feb 15 21:54:27 2002] Sumiko begins to cast a spell. (Shiftless Deeds)
+[Fri Feb 15 21:54:29 2002] an Icepaw kobold begins to cast a spell. (Spirit of Wolf)
+[Fri Feb 15 21:54:30 2002] Yenadil begins to cast a spell. (Celestial Healing)
+[Fri Feb 15 21:54:31 2002] an Icepaw kobold warrior has been slain by Venare!
+[Fri Feb 15 21:54:31 2002] Galit says, 'follow'
+[Fri Feb 15 21:54:32 2002] Laerill says, 'Hail, an Icepaw kobold'
+[Fri Feb 15 21:54:36 2002] Sumiko begins to cast a spell. (Dazzle)
+[Fri Feb 15 21:54:37 2002] an Icepaw kobold begins to cast a spell. (Inner Fire)
+[Fri Feb 15 21:54:39 2002] Cydmab begins to cast a spell. (Summon Orb)
+[Fri Feb 15 21:54:42 2002] Kenja says out of character, 'None fer ye. :-P'
+[Fri Feb 15 21:54:42 2002] Galit says, 'one pops here'
+[Fri Feb 15 21:54:42 2002] Sumiko begins to cast a spell. (Boon of the Garou)
+[Fri Feb 15 21:54:46 2002] Lirus GMSAYS, 'zone'
+[Fri Feb 15 21:54:48 2002] Cydmab begins to cast a spell. (Manifest Elements)
+[Fri Feb 15 21:54:49 2002] Yenadil says out of character, 'Bahx0r'
+[Fri Feb 15 21:54:49 2002] Galit says, 'other here'
+[Fri Feb 15 21:54:53 2002] Icepaw kobold begins to cast a spell. (Alacrity)
+[Fri Feb 15 21:54:57 2002] Kenja says out of character, '^ ^'
+[Fri Feb 15 21:54:57 2002] Matteos says out of character, '52 ranger LFG'
+[Fri Feb 15 21:55:03 2002] Sosoca says out of character, 'hi kenja =)'
+[Fri Feb 15 21:55:05 2002] Yenadil says out of character, 'You've alwasy been mean to me Kenja'
+[Fri Feb 15 21:55:13 2002] Kenja says out of character, 'Hello Sosoca. ^ ^'
+[Fri Feb 15 21:55:23 2002] Breezen says out of character, 'kenja mean to someon naaaa'
+[Fri Feb 15 21:55:23 2002] Venare begins to cast a spell. (LifetapEffectNormal)
+[Fri Feb 15 21:55:23 2002] Yenadil says out of character, 'Ever since that night in MM when you mooned me'
+[Fri Feb 15 21:55:32 2002] Venare begins to cast a spell. (LifetapEffectNormal)
+[Fri Feb 15 21:55:33 2002] Kella begins to cast a spell. (Curse of the Spirits)
+[Fri Feb 15 21:55:38 2002] Cydmab begins to cast a spell. (Burnout IV)
+[Fri Feb 15 21:55:38 2002] Moxit begins to cast a spell. (Girdle of Karana)
+[Fri Feb 15 21:55:39 2002] Venare begins to cast a spell. (LifetapEffectNormal)
+[Fri Feb 15 21:55:40 2002] Kedian GMSAYS, 'this guy pets about a drake summoning ppl into a lava pit in tov, so they have a few corpses down there. one of you wanna take it?'
+[Fri Feb 15 21:55:45 2002] an Icepaw kobold priest begins to cast a spell. (Inner Fire)
+[Fri Feb 15 21:55:46 2002] Lobab begins to cast a spell. (ElementalMasteryStrike)
+[Fri Feb 15 21:55:48 2002] Cydmab begins to cast a spell. (Malosini)
+[Fri Feb 15 21:55:49 2002] Kella begins to cast a spell. (Curse of the Spirits)
+[Fri Feb 15 21:55:51 2002] Yenadil begins to cast a spell. (Remedy)
+[Fri Feb 15 21:55:53 2002] Moxit begins to cast a spell. (Girdle of Karana)
+[Fri Feb 15 21:55:56 2002] Cydmab begins to cast a spell. (Sirocco)
+[Fri Feb 15 21:56:00 2002] Sumiko begins to cast a spell. (Color Flux)
+[Fri Feb 15 21:56:05 2002] Cydmab begins to cast a spell. (Shock of Fiery Blades)
+[Fri Feb 15 21:56:05 2002] Lobab begins to cast a spell. (ElementalMasteryStrike)
+[Fri Feb 15 21:56:06 2002] Venare begins to cast a spell. (LifetapEffectNormal)
+[Fri Feb 15 21:56:06 2002] an Icepaw kobold begins to cast a spell. (Spirit Strike)
+[Fri Feb 15 21:56:09 2002] You GMSAY, 'you can take it as far as I am concerned... up to Lirus I guess'
+[Fri Feb 15 21:56:09 2002] Kella begins to cast a spell. (Cannibalize IV)
+[Fri Feb 15 21:56:11 2002] Teleporting to #Tpos_Icepaw00 (633.00, -145.00, -150.90).
+[Fri Feb 15 21:56:15 2002] Ssolaria begins to cast a spell. (Draught of Fire)
+[Fri Feb 15 21:56:24 2002] Ssolaria begins to cast a spell. (Draught of Fire)
+[Fri Feb 15 21:56:26 2002] Cobiax begins to cast a spell. (Eye of Zomm)
+[Fri Feb 15 21:56:30 2002] Kedian GMSAYS, 'k, lirus?'
+[Fri Feb 15 21:56:30 2002] Tpos Icepaw begins to cast a spell. (Banshee Aura)
+[Fri Feb 15 21:56:35 2002] Tpos Icepaw is surrounded by a shrieking aura.
+[Fri Feb 15 21:56:38 2002] Matteos says out of character, '52 ranger LFG'
+[Fri Feb 15 21:56:42 2002] Lirus GMSAYS, 'umm sure..what are we talking about?'
+[Fri Feb 15 21:56:54 2002] Kedian GMSAYS, 'this guy pets about a drake summoning ppl into a lava pit in tov, so they have a few corpses down there. one of you wanna take it?'
+[Fri Feb 15 21:57:07 2002] Lirus GMSAYS, 'i will i suppose)'
+[Fri Feb 15 21:57:12 2002] Galit tells you, 'u find them?'
+[Fri Feb 15 21:57:19 2002] Kedian GMSAYS, 'daggen's pet'
+[Fri Feb 15 21:57:21 2002] You told Galit, 'yeah, bunch of them behind the zone line'
+[Fri Feb 15 21:57:31 2002] Galit tells you, 'thought so =)'
+[Fri Feb 15 21:57:41 2002] You told Galit, 'all except Tpos I can deal with.'
+[Fri Feb 15 21:57:53 2002] Cobiax begins to cast a spell. (Eye of Zomm)
+[Fri Feb 15 21:58:02 2002] Galit tells you, 'aye u would have to ask for a confirmation to kill a named mob =) i know it all hehe'
+[Fri Feb 15 21:58:17 2002] Galit tells you, 'i should become a GM =p'
+[Fri Feb 15 21:58:21 2002] You told Galit, 'heh'
+[Fri Feb 15 21:58:44 2002] Kedian GMSAYS, '<< zone >>'
+[Fri Feb 15 21:59:08 2002] You GMSAY, 'have maybe a dozen mobs behind the zone line in Velks; one of them is Tpos Icepaw...'
+[Fri Feb 15 21:59:24 2002] Lirus GMSAYS, 'kill all but him, i'll gate him'
+[Fri Feb 15 21:59:26 2002] Lendien tells you, 'sorry, but ya, i wish i made a rogue'
+[Fri Feb 15 21:59:28 2002] Lirus GMSAYS, 'zone'
+[Fri Feb 15 21:59:34 2002] Killing an_icy_watcher01.
+[Fri Feb 15 21:59:34 2002] an icy watcher says 'Another rended body for the master! '
+[Fri Feb 15 21:59:38 2002] Killing a_crystalline_gargoyle08.
+[Fri Feb 15 21:59:38 2002] a crystalline gargoyle says 'Another rended body for the master! '
+[Fri Feb 15 21:59:41 2002] Killing a_crystal_gargoyle04.
+[Fri Feb 15 21:59:41 2002] a crystal gargoyle says 'Another rended body for the master! '
+[Fri Feb 15 21:59:44 2002] Killing a_crystalline_gargoyle06.
+[Fri Feb 15 21:59:44 2002] a crystalline gargoyle says 'Another rended body for the master! '
+[Fri Feb 15 21:59:48 2002] Killing a_crystal_gargoyle03.
+[Fri Feb 15 21:59:48 2002] a crystal gargoyle says 'Another rended body for the master! '
+[Fri Feb 15 21:59:52 2002] Killing an_Icepaw_champion00.
+[Fri Feb 15 21:59:52 2002] an Icepaw champion lets out a fearsome warcry! '
+[Fri Feb 15 21:59:59 2002] Killing an_Icepaw_prophet06.
+[Fri Feb 15 22:00:00 2002] an Icepaw prophet lets out a fearsome warcry! '
+[Fri Feb 15 22:00:13 2002] Beari begins to cast a spell. (Ensnare)
+[Fri Feb 15 22:00:16 2002] Galit tells you, 'might be a garg there also'
+[Fri Feb 15 22:00:29 2002] You told Galit, 'oh I found a bunch of things here'
+[Fri Feb 15 22:00:34 2002] Galit tells you, 'hehe'
+[Fri Feb 15 22:00:37 2002] Killing an_Icepaw_prophet02.
+[Fri Feb 15 22:00:37 2002] an Icepaw prophet lets out a fearsome warcry! '
+[Fri Feb 15 22:00:53 2002] Matteos says out of character, '52 ranger LFG'
+[Fri Feb 15 22:00:57 2002] You told Galit, 'all except Tpos now dead. GM Lirus will deal with Tpos seperately.'
+[Fri Feb 15 22:01:05 2002] Galit tells you, 'ok'
+[Fri Feb 15 22:01:26 2002] GUIDE TEXT APPENDED FROM CHATLINE
+[Fri Feb 15 22:01:27 2002] GM TEXT: Espranza: Kill them all, except #Tpos_Icepaw00, who needs a GM's love.
+[Fri Feb 15 22:01:34 2002] I don't see anyone by that name around here...
+[Fri Feb 15 22:01:36 2002] I don't see anyone by that name around here...
+[Fri Feb 15 22:02:03 2002] You GMSAY, 'Why is Tpos Icepaw's name #Tpos_Icepaw00, with the # sign?'
+[Fri Feb 15 22:02:06 2002] STATUS UPGRADED TO URGENT
+[Fri Feb 15 22:02:06 2002] STATUS UPGRADED TO EMERGENCY
+[Fri Feb 15 22:02:15 2002] You GMSAY, 'esc Galit - Tpos needs a ride home.'
+[Fri Feb 15 22:02:15 2002] Lirus tells you, 'to not show on showeq'
+[Fri Feb 15 22:02:17 2002] CHECKING IN
+[Fri Feb 15 22:02:20 2002] Kronake shouts, '52 war lfg'
+[Fri Feb 15 22:02:27 2002] You told Lirus, 'ahhhh'
+[Fri Feb 15 22:02:40 2002] Matteos begins to cast a spell. (Strength of Earth)
+[Fri Feb 15 22:02:45 2002] Lirus GMSAYS, 'zone'
+[Fri Feb 15 22:02:48 2002] Matteos begins to cast a spell. (Feet like Cat)
+[Fri Feb 15 22:02:58 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 22:02:58 2002] USER TEXT: Need a GM to come summon please, We had a small bug here that caused a drake to summon ppl into the lava pit.
+[Fri Feb 15 22:02:59 2002] Players in EverQuest:
+[Fri Feb 15 22:02:59 2002] ---------------------------
+[Fri Feb 15 22:02:59 2002] [60 Assassin] Daggen (Halfling) <Fury's Edge> ZONE: templeveeshan (USER PID DR2R9PC)
+[Fri Feb 15 22:02:59 2002] There is 1 player in EverQuest.
+[Fri Feb 15 22:03:01 2002] UNDOING CHECK OUT
+[Fri Feb 15 22:03:03 2002] Players in EverQuest:
+[Fri Feb 15 22:03:03 2002] ---------------------------
+[Fri Feb 15 22:03:03 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: velketor (USER PID CW1ECN5)
+[Fri Feb 15 22:03:03 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: erudnext (USER PID HU7F5NG)
+[Fri Feb 15 22:03:03 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: velketor (USER PID B4KJ6E7)
+[Fri Feb 15 22:03:03 2002] There are 3 players in EverQuest.
+[Fri Feb 15 22:03:11 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 22:03:12 2002] USER TEXT: want to get married
+[Fri Feb 15 22:03:12 2002] Players in EverQuest:
+[Fri Feb 15 22:03:12 2002] ---------------------------
+[Fri Feb 15 22:03:12 2002] [60 Hierophant] Gosuu (Wood Elf) <Happy Funtime Elves> ZONE: overthere (USER PID CYXW1NE)
+[Fri Feb 15 22:03:12 2002] There is 1 player in EverQuest.
+[Fri Feb 15 22:03:20 2002] Espranza saved.
+[Fri Feb 15 22:03:31 2002] Kedian tells the guild, '<note kill> a_shark03 in erudnext, beached shark, didnt want to go back into the water'
+[Fri Feb 15 22:03:32 2002] Lirus says, 'group wit me doggie'
+[Fri Feb 15 22:03:32 2002] Tpos Icepaw says 'Grouping with Lirus.'
+[Fri Feb 15 22:03:35 2002] Lirus begins to cast a spell. (GMGate)
+[Fri Feb 15 22:03:35 2002] #Tpos Icepaw Gates.
+[Fri Feb 15 22:03:50 2002] You beam a smile at Lirus.
+[Fri Feb 15 22:04:15 2002] Lirus GMSAYS, 'zone'
+[Fri Feb 15 22:04:18 2002] You told Galit, 'you should have a tpos icepaw on your hands now'
+[Fri Feb 15 22:04:23 2002] Matteos says out of character, '52 ranger LFG'
+[Fri Feb 15 22:04:25 2002] Galit tells you, 'yup thx alot =)'
+[Fri Feb 15 22:05:01 2002] Schythe begins to cast a spell. (Cannibalize III)
+[Fri Feb 15 22:05:07 2002] Kronake shouts, '52 war lfg'
+[Fri Feb 15 22:05:14 2002] You told Gosuu, 'Hail, Gosuu! Senior Guide Espranza here. How may I help you?'
+[Fri Feb 15 22:05:17 2002] Matteos says out of character, '52 ranger LFG'
+[Fri Feb 15 22:05:17 2002] Lirus tells you, 'many of the velious named mobs have a # in front of em to throw off show eq folks so that they cannot see which named are up'
+[Fri Feb 15 22:05:56 2002] Gosuu tells you, 'Hola..lol..anyway how do you go about getting married? I know a girl who wants to get married to me, and I wish to share her last name'
+[Fri Feb 15 22:05:57 2002] You told Lirus, 'I don't see how that would stop them - they'd just see the name with the #...'
+[Fri Feb 15 22:06:04 2002] Lirus tells you, 'nope, something with coding'
+[Fri Feb 15 22:06:12 2002] Lirus tells you, 'i dunno the logistics of it'
+[Fri Feb 15 22:06:27 2002] You told Lirus, 'anything to stop showeq cheaters is okay in my book'
+[Fri Feb 15 22:06:33 2002] Demani says out of character, 'camp check please'
+[Fri Feb 15 22:06:38 2002] Sosoca says out of character, 'pit'
+[Fri Feb 15 22:06:39 2002] Yatim says out of character, 'rw'
+[Fri Feb 15 22:06:43 2002] Sadia says out of character, 'FW'
+[Fri Feb 15 22:06:47 2002] Demani says out of character, 'woot yat'
+[Fri Feb 15 22:06:54 2002] Lirus tells you, 'hehe i love the mobs in hateplane called show_eq_users_suck'
+[Fri Feb 15 22:06:57 2002] Yatim says out of character, 'hey )'
+[Fri Feb 15 22:07:15 2002] Demani stares dreamily at Damalen, completely lost in his eyes.
+[Fri Feb 15 22:07:51 2002] You told Gosuu, 'well, since getting married is a roleplay sorta thing, you can do it however you like. I can change your surname at any time... if you would like a guide to officiate, though, you would need to give us a week's notice so that a guide can ...'
+[Fri Feb 15 22:08:02 2002] You told Gosuu, 'have the opportunity to volunteer to do it.'
+[Fri Feb 15 22:08:07 2002] Matteos shouts, 'Ranger 52 LFG'
+[Fri Feb 15 22:08:11 2002] Demani says out of character, 'that's all that's camped then?'
+[Fri Feb 15 22:08:27 2002] Cydmab says out of character, 'village/castle'
+[Fri Feb 15 22:08:29 2002] Gosuu tells you, 'well the girl is Legenea '
+[Fri Feb 15 22:08:32 2002] Yenadil says out of character, 'pit'
+[Fri Feb 15 22:08:53 2002] You told Gosuu, 'okay'
+[Fri Feb 15 22:09:01 2002] Gosuu tells you, 'if you need to ask her im sure lol'
+[Fri Feb 15 22:09:13 2002] You told Gosuu, 'do you just want your last name changed?'
+[Fri Feb 15 22:09:21 2002] Gosuu tells you, 'yes sir'
+[Fri Feb 15 22:09:27 2002] You told Gosuu, 'to what?'
+[Fri Feb 15 22:09:44 2002] Matteos begins to cast a spell. (Call of Earth)
+[Fri Feb 15 22:09:47 2002] Matteos's body is surrounded by the Call of Earth.
+[Fri Feb 15 22:09:50 2002] Matteos begins to cast a spell. (Strength of Nature)
+[Fri Feb 15 22:09:52 2002] Gosuu tells you, 'Galatical'
+[Fri Feb 15 22:09:55 2002] Matteos's body is strengthened by nature.
+[Fri Feb 15 22:09:57 2002] You GMSAY, 'zone'
+[Fri Feb 15 22:10:01 2002] Teleporting to gosuu.
+[Fri Feb 15 22:10:02 2002] LOADING, PLEASE WAIT...
+[Fri Feb 15 22:10:48 2002] You have entered The Overthere.
+[Fri Feb 15 22:10:54 2002] Gosuu waves at Espranza.
+[Fri Feb 15 22:10:55 2002] Tunnan begins to cast a spell. (Summon Food)
+[Fri Feb 15 22:11:01 2002] Silveran begins to cast a spell. (Engulfing Darkness)
+[Fri Feb 15 22:11:03 2002] Tunnan begins to cast a spell. (Summon Drink)
+[Fri Feb 15 22:11:03 2002] Nuvil shouts, 'ledge Group Seeks More'
+[Fri Feb 15 22:11:06 2002] You say, 'heh... your last name was a bad name anyway'
+[Fri Feb 15 22:11:07 2002] Havorn shouts, 'group looking for more in 30s'
+[Fri Feb 15 22:11:11 2002] Gosuu shrugs at Espranza.
+[Fri Feb 15 22:11:12 2002] Tunnan begins to cast a spell. (Summon Food)
+[Fri Feb 15 22:11:16 2002] You have changed Goduu's last name to Galatical.
+[Fri Feb 15 22:11:18 2002] Gosuu laughs at Espranza.
+[Fri Feb 15 22:11:20 2002] Tunnan begins to cast a spell. (Summon Drink)
+[Fri Feb 15 22:11:20 2002] Dominicula begins to cast a spell. (Healing)
+[Fri Feb 15 22:11:27 2002] Tunnan begins to cast a spell. (Summon Food)
+[Fri Feb 15 22:11:29 2002] You have changed Gosuu's last name to Galatical.
+[Fri Feb 15 22:11:34 2002] Tunnan begins to cast a spell. (Summon Drink)
+[Fri Feb 15 22:11:42 2002] Gosuu cheers at Espranza.
+[Fri Feb 15 22:11:42 2002] Tunnan begins to cast a spell. (Summon Food)
+[Fri Feb 15 22:11:45 2002] Gosuu cheers at Espranza.
+[Fri Feb 15 22:11:50 2002] Tunnan begins to cast a spell. (Summon Drink)
+[Fri Feb 15 22:11:54 2002] Rhallick tells you, 'thank u for everything.....that was very cool of u guys to do that'
+[Fri Feb 15 22:11:54 2002] Kaboptic begins to cast a spell. (Quickness)
+[Fri Feb 15 22:11:59 2002] Tunnan begins to cast a spell. (Summon Food)
+[Fri Feb 15 22:11:59 2002] You GMSAY, '<note name> Gosuu CYXW1NE last name changed to Galatical by request'
+[Fri Feb 15 22:12:01 2002] Gosuu says, 'thank you'
+[Fri Feb 15 22:12:04 2002] Gosuu grabs hold of Espranza and begins to dance with her.
+[Fri Feb 15 22:12:05 2002] You told Rhallick, 'anytime!'
+[Fri Feb 15 22:12:08 2002] Tunnan begins to cast a spell. (Summon Drink)
+[Fri Feb 15 22:12:10 2002] You say, 'There ya go - be well!'
+[Fri Feb 15 22:12:15 2002] Silveran begins to cast a spell. (Engulfing Darkness)
+[Fri Feb 15 22:12:17 2002] Tunnan begins to cast a spell. (Summon Food)
+[Fri Feb 15 22:12:21 2002] DELETING THIS PETITION
+[Fri Feb 15 22:12:21 2002] Papaace shouts, 'group of three looking for more send tell'
+[Fri Feb 15 22:12:32 2002] Gosuu says, 'if you ned a buff espranza'
+[Fri Feb 15 22:12:33 2002] Gosuu says, 'let me know'
+[Fri Feb 15 22:12:40 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:12:45 2002] Tunnan begins to cast a spell. (Summon Drink)
+[Fri Feb 15 22:12:50 2002] Havorn shouts, 'group looking for one more to make full group'
+[Fri Feb 15 22:12:51 2002] You say, 'I'll be okay, I think'
+[Fri Feb 15 22:12:52 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:12:54 2002] Tunnan begins to cast a spell. (Summon Food)
+[Fri Feb 15 22:12:58 2002] Gosuu laughs at Espranza.
+[Fri Feb 15 22:13:04 2002] You say, 'Protection of the Glades makes my skin itch'
+[Fri Feb 15 22:13:05 2002] Tunnan begins to cast a spell. (Summon Drink)
+[Fri Feb 15 22:13:10 2002] Nuvil shouts, 'ledge Group Seeks More'
+[Fri Feb 15 22:13:12 2002] Gosuu says, 'Yeah i know the feeling'
+[Fri Feb 15 22:13:15 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 22:13:15 2002] USER TEXT: i cant see my spell bar in fullscreen. How do i get it back?
+[Fri Feb 15 22:13:16 2002] Players in EverQuest:
+[Fri Feb 15 22:13:16 2002] ---------------------------
+[Fri Feb 15 22:13:16 2002] [12 Shadow Knight] Naeldur (Iksar) <Mithril Ankh> ZONE: cabeast (USER PID CT7RBPQ)
+[Fri Feb 15 22:13:16 2002] There is 1 player in EverQuest.
+[Fri Feb 15 22:13:17 2002] Tunnan begins to cast a spell. (Summon Food)
+[Fri Feb 15 22:13:18 2002] You say, 'I can imagine :)'
+[Fri Feb 15 22:13:23 2002] Gosuu says, 'nice mana regen to it'
+[Fri Feb 15 22:13:25 2002] Tunnan begins to cast a spell. (Summon Drink)
+[Fri Feb 15 22:13:35 2002] You say, 'I don't believe in mana'
+[Fri Feb 15 22:13:37 2002] Gosuu says, 'I do have a question'
+[Fri Feb 15 22:13:40 2002] Gosuu laughs at Espranza.
+[Fri Feb 15 22:13:42 2002] Tunnan says, 'I just wish I still had my C3'
+[Fri Feb 15 22:13:49 2002] Tunnan begins to cast a spell. (Summon Food)
+[Fri Feb 15 22:13:55 2002] You say, 'just melee!'
+[Fri Feb 15 22:13:59 2002] Gosuu says, 'ah'
+[Fri Feb 15 22:14:00 2002] You say, 'what question?'
+[Fri Feb 15 22:14:02 2002] Rukur auctions, 'WTS Dusty Breast plate AC22 Sta5 Hp20'
+[Fri Feb 15 22:14:17 2002] Tunnan says, 'I had C3,PoG and Symbol and was killing everything'
+[Fri Feb 15 22:14:24 2002] Gosuu says, 'to become a gm, do you just fill out that form'
+[Fri Feb 15 22:14:24 2002] Tunnan begins to cast a spell. (Summon Drink)
+[Fri Feb 15 22:14:25 2002] Silveran begins to cast a spell. (Engulfing Darkness)
+[Fri Feb 15 22:14:28 2002] A stoneglint cockatrice is engulfed by darkness.
+[Fri Feb 15 22:14:32 2002] Tunnan begins to cast a spell. (Summon Food)
+[Fri Feb 15 22:14:35 2002] Gosuu says, 'cause i pretty much know all of norrath'
+[Fri Feb 15 22:14:39 2002] You say, 'at guideapp.everquest.com?'
+[Fri Feb 15 22:14:39 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:14:42 2002] Gosuu says, 'yeah'
+[Fri Feb 15 22:14:54 2002] You say, 'fill that out, and it will be graded and eventually you will hear back.'
+[Fri Feb 15 22:15:00 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:15:01 2002] a stoneglint cockatrice died.
+[Fri Feb 15 22:15:03 2002] Wora feels much better.
+[Fri Feb 15 22:15:07 2002] Gosuu says, 'I know you didn't make a perfect score'
+[Fri Feb 15 22:15:13 2002] Gosuu says, 'that test is tough'
+[Fri Feb 15 22:15:25 2002] You say, 'you know *I* didn't make a perfect score :) probably not'
+[Fri Feb 15 22:15:27 2002] Merryholly says out of character, 'mud pit group seeks one member!'
+[Fri Feb 15 22:15:37 2002] Merryholly hugs Espranza.
+[Fri Feb 15 22:15:41 2002] Gosuu says, 'well'
+[Fri Feb 15 22:15:42 2002] You say, 'yeah my main was 30 when I did that test'
+[Fri Feb 15 22:15:46 2002] Gosuu says, 'hehe'
+[Fri Feb 15 22:15:54 2002] Wora shouts, 'paying for a sow at the mudpit'
+[Fri Feb 15 22:15:56 2002] You say, 'I thought I was so uber'
+[Fri Feb 15 22:16:07 2002] Gosuu says, 'i think im uber, but apparently not'
+[Fri Feb 15 22:16:08 2002] Azii says out of character, '36 mage lfg'
+[Fri Feb 15 22:16:09 2002] Karka shouts, 'WoRa!!! ~~~~~'
+[Fri Feb 15 22:16:10 2002] Gosuu laughs at Espranza.
+[Fri Feb 15 22:16:24 2002] You say, 'Skyshrine armor looks like pajamas'
+[Fri Feb 15 22:16:29 2002] Tunnan begins to cast a spell. (Skin like Rock)
+[Fri Feb 15 22:16:35 2002] Gosuu says, 'this is skyshrine armor?'
+[Fri Feb 15 22:16:43 2002] You say, 'looks like it'
+[Fri Feb 15 22:16:53 2002] Gosuu says, 'now i know you didnt make a 100 on it hehe'
+[Fri Feb 15 22:16:55 2002] Varg Stonebelly shouts 'Da Bloated Belly is be coming soon!  Barsh faster if you has to go! '
+[Fri Feb 15 22:17:02 2002] You say, 'guess not :( what is it then?'
+[Fri Feb 15 22:17:03 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:17:05 2002] Gosuu says, 'tov'
+[Fri Feb 15 22:17:12 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:17:19 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:17:24 2002] Silveran watches as his controlled incarnation of death attacks a stoneglint cockatrice.
+[Fri Feb 15 22:17:27 2002] You say, 'Woven grass?'
+[Fri Feb 15 22:17:27 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:17:35 2002] Gosuu says, 'no thats the other set'
+[Fri Feb 15 22:17:43 2002] Gosuu says, 'theres 2 sets i think'
+[Fri Feb 15 22:17:51 2002] Gosuu says, 'woven grass and nature walkers'
+[Fri Feb 15 22:17:57 2002] You say, 'Kael armor'
+[Fri Feb 15 22:18:05 2002] You say, 'same diff'
+[Fri Feb 15 22:18:05 2002] Dominicula begins to cast a spell. (Symbol of Transal)
+[Fri Feb 15 22:18:07 2002] Gosuu says, 'you dont have to shout it'
+[Fri Feb 15 22:18:09 2002] Silveran begins to cast a spell. (Feign Death)
+[Fri Feb 15 22:18:10 2002] Gosuu says, 'hehe'
+[Fri Feb 15 22:18:14 2002] Gosuu says, 'i want to sound uber'
+[Fri Feb 15 22:18:15 2002] Dominicula begins to cast a spell. (Courage)
+[Fri Feb 15 22:18:16 2002] Gosuu flexes at Espranza.
+[Fri Feb 15 22:18:25 2002] Dominicula begins to cast a spell. (Holy Armor)
+[Fri Feb 15 22:18:32 2002] Dominicula begins to cast a spell. (Center)
+[Fri Feb 15 22:18:32 2002] Silveran begins to cast a spell. (Engulfing Darkness)
+[Fri Feb 15 22:18:35 2002] Redarrow shouts, 'Lvl 31 Bard LFG!'
+[Fri Feb 15 22:18:35 2002] You say, 'well I think it's more impressive'
+[Fri Feb 15 22:18:43 2002] Gosuu says, 'im green'
+[Fri Feb 15 22:18:45 2002] You say, 'everyone usually goes for dragon faction'
+[Fri Feb 15 22:18:52 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:18:59 2002] Gosuu says, 'hehe'
+[Fri Feb 15 22:19:00 2002] USER TEXT: i cant see my spell bar in fullscreen. How do i get it back?
+[Fri Feb 15 22:19:02 2002] Merryholly hugs Gosuu.
+[Fri Feb 15 22:19:03 2002] Lirus GMSAYS, 'zone'
+[Fri Feb 15 22:19:05 2002] Silveran begins to cast a spell. (Engulfing Darkness)
+[Fri Feb 15 22:19:10 2002] Merryholly says, 'well I still think your cute!'
+[Fri Feb 15 22:19:17 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:19:17 2002] Gosuu says, 'thanks..'
+[Fri Feb 15 22:19:18 2002] You told Naeldur, 'Hail, Naeldur! Senior Guide Espranza here. Try ALT-S...'
+[Fri Feb 15 22:19:22 2002] Gosuu says, 'well espranza'
+[Fri Feb 15 22:19:25 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:19:29 2002] Gosuu says, 'i better be off to visit my counter part'
+[Fri Feb 15 22:19:30 2002] You say, 'Well, I'll let you alone now'
+[Fri Feb 15 22:19:36 2002] You say, 'be well and congratulations!'
+[Fri Feb 15 22:19:37 2002] Gosuu says, 'she is irritating me'
+[Fri Feb 15 22:19:38 2002] Merryholly begins to cast a spell. (Healing)
+[Fri Feb 15 22:19:38 2002] Gosuu says, 'hehe'
+[Fri Feb 15 22:19:41 2002] Gosuu says, 'thanks'
+[Fri Feb 15 22:19:44 2002] You wave goodbye to Gosuu.
+[Fri Feb 15 22:19:46 2002] Wora shouts, 'paying for SOW at mudpit'
+[Fri Feb 15 22:19:46 2002] Your feet leave the ground.
+[Fri Feb 15 22:20:07 2002] Azii says out of character, '36 mage lfg'
+[Fri Feb 15 22:20:17 2002] You say to your guild, 'hmmm... Kael druid armor is ALSO green.'
+[Fri Feb 15 22:20:41 2002] You say to your guild, 'thought it was standard chain look.'
+[Fri Feb 15 22:20:54 2002] Espranza saved.
+[Fri Feb 15 22:21:08 2002] DELETING THIS PETITION
+[Fri Feb 15 22:21:52 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:52 2002] You can't use that command right now...
+[Fri Feb 15 22:21:52 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:53 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:53 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:53 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:53 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:54 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:54 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:54 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:54 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:55 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:55 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:55 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:55 2002] Your feet leave the ground.
+[Fri Feb 15 22:21:56 2002] Your feet leave the ground.
+[Fri Feb 15 22:22:59 2002] Lirus GMSAYS, 'making my goal posts again'
+[Fri Feb 15 22:23:09 2002] Lirus GMSAYS, 'i crash to desktop when i die, so bear with me hehe'
+[Fri Feb 15 22:23:10 2002] You GMSAY, '?'
+[Fri Feb 15 22:23:16 2002] Lirus GMSAYS, 'for tommorow's gnomeball'
+[Fri Feb 15 22:23:21 2002] You GMSAY, 'oooh'
+[Fri Feb 15 22:23:27 2002] You GMSAY, 'you were serious!'
+[Fri Feb 15 22:23:32 2002] Lawnar shouts, 'Im Porting  back to WC  Who want to go back .. Plz meet me  at SF entrance'
+[Fri Feb 15 22:23:35 2002] Lirus GMSAYS, 'aye)'
+[Fri Feb 15 22:24:12 2002] Kedian GMSAYS, 'lol 'lirus has been slain by lirus''
+[Fri Feb 15 22:24:18 2002] Cairn says out of character, '32 shaman looking for group'
+[Fri Feb 15 22:24:49 2002] Lawnar shouts, 'Im Porting  back to WC  Who want to go back .. Plz meet me  at SF entrance  I will  departure 5 min !!'
+[Fri Feb 15 22:25:21 2002] Rukur auctions, 'WTS Dusty Breast plate AC22 Sta5 Hp20'
+[Fri Feb 15 22:26:02 2002] Cairn says out of character, '32 shaman looking for group'
+[Fri Feb 15 22:26:14 2002] Angoleye shouts, 'Ledge grp looking for more members 28 and up send tell'
+[Fri Feb 15 22:26:44 2002] Lawnar shouts, 'Im Porting  back to WC  Who want to go back .. Plz meet me  at SF entrance   Will port 3 min later  !'
+[Fri Feb 15 22:27:09 2002] The spirit leaves you.
+[Fri Feb 15 22:28:03 2002] Lawnar shouts, 'send me a tell if u ar coming '
+[Fri Feb 15 22:28:43 2002] You GMSAY, 'off to the little rogue's room, Lirus better not have left the toilet seat up this time....'
+[Fri Feb 15 22:28:51 2002] Lirus GMSAYS, 'har!'
+[Fri Feb 15 22:29:08 2002] Rukur auctions, 'WTS Dusty Breast plate AC22 Sta5 Hp20'
+[Fri Feb 15 22:29:54 2002] Lawnar shouts, 'Porting .. good luck everyone  bye.'
+[Fri Feb 15 22:30:26 2002] Angoleye shouts, 'Ledge grp LF more 2 spots open lvl 28 and up send tell'
+[Fri Feb 15 22:30:39 2002] Azii says out of character, '36 mage lfg'
+[Fri Feb 15 22:30:56 2002] Lirus GMSAYS, 'yay finally set back up'
+[Fri Feb 15 22:31:04 2002] Espranza saved.
+[Fri Feb 15 22:31:19 2002] You GMSAY, 'back'
+[Fri Feb 15 22:31:31 2002] Players in EverQuest:
+[Fri Feb 15 22:31:31 2002] ---------------------------
+[Fri Feb 15 22:31:31 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Feb 15 22:31:31 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: cshome (USER PID HU7F5NG)
+[Fri Feb 15 22:31:31 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: overthere (USER PID B4KJ6E7)
+[Fri Feb 15 22:31:31 2002] There are 3 players in EverQuest.
+[Fri Feb 15 22:31:34 2002] Rukur auctions, 'WTS Dusty Breast plate AC22 Sta5 Hp20'
+[Fri Feb 15 22:31:35 2002] Lirus GMSAYS, 'wb'
+[Fri Feb 15 22:31:38 2002] You GMSAY, 'zone'
+[Fri Feb 15 22:31:43 2002] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Fri Feb 15 22:31:43 2002] Your Belt of Translocation begins to glow.
+[Fri Feb 15 22:31:44 2002] LOADING, PLEASE WAIT...
+[Fri Feb 15 22:32:06 2002] You have entered Sunset Home.
+[Fri Feb 15 22:32:12 2002] You feel the spirit of Norrath enter you.
+[Fri Feb 15 22:32:36 2002] Lirus cheers at Espranza.
+[Fri Feb 15 22:32:44 2002] You wave at Lirus.
+[Fri Feb 15 22:32:52 2002] Lirus tells the guild, 'soo espranza, you were in escondido and didn't come say hi *sniffle*'
+[Fri Feb 15 22:32:52 2002] You say, 'can we have the PoA sky instead?'
+[Fri Feb 15 22:32:57 2002] You say to your guild, 'I'm a worm'
+[Fri Feb 15 22:33:06 2002] Lirus says, 'hmm not sure i know that one'
+[Fri Feb 15 22:33:21 2002] You say to your guild, 'I'll be sure to stop by next time'
+[Fri Feb 15 22:33:41 2002] Lirus tells the guild, 'you better =D'
+[Fri Feb 15 22:33:58 2002] Changing Espranza to race: Barbarian.
+[Fri Feb 15 22:33:58 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Fri Feb 15 22:33:58 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Fri Feb 15 22:34:00 2002] Lirus tells the guild, 'how long were ya in town?'
+[Fri Feb 15 22:34:07 2002] Lirus whistles at Espranza appreciatively.
+[Fri Feb 15 22:34:10 2002] You say to your guild, 'just the weekend'
+[Fri Feb 15 22:34:14 2002] You feel as if you are about to fall.
+[Fri Feb 15 22:34:20 2002] You feel as if you are about to fall.
+[Fri Feb 15 22:34:26 2002] You can no longer levitate.
+[Fri Feb 15 22:34:37 2002] Kedian says, 'heh'
+[Fri Feb 15 22:34:37 2002] Lirus tells the guild, 'ahh'
+[Fri Feb 15 22:34:43 2002] You're not scaring anyone.
+[Fri Feb 15 22:34:50 2002] You giggle at Lirus.
+[Fri Feb 15 22:34:51 2002] You point at Lirus. Yeah you!
+[Fri Feb 15 22:34:55 2002] You roll on the floor laughing at Lirus.
+[Fri Feb 15 22:35:13 2002] Your target is too far away, get closer!
+[Fri Feb 15 22:35:21 2002] You say, 'switch things a little :)'
+[Fri Feb 15 22:35:35 2002] Changing Espranza to race: Barbarian.
+[Fri Feb 15 22:35:35 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Fri Feb 15 22:35:36 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Fri Feb 15 22:35:41 2002] Lirus cheers at Espranza.
+[Fri Feb 15 22:36:00 2002] You no longer have a target.
+[Fri Feb 15 22:36:00 2002] You no longer have a target.
+[Fri Feb 15 22:36:01 2002] Kedian says, 'uhhg...thats a bad one :/'
+[Fri Feb 15 22:36:02 2002] You say, 'there'
+[Fri Feb 15 22:36:04 2002] Lirus says, 'hehe'
+[Fri Feb 15 22:36:34 2002] You say, 'I swear with these man boobs, I still look like a girl'
+[Fri Feb 15 22:36:44 2002] Lirus laughs at Espranza.
+[Fri Feb 15 22:36:48 2002] Kedian says, 'lol'
+[Fri Feb 15 22:36:57 2002] Lirus says, 'mmmmm manboobs'
+[Fri Feb 15 22:37:02 2002] You emit a low rumble and then roar like a lion!
+[Fri Feb 15 22:37:07 2002] Lirus emits a low rumble and then roars like a lion!
+[Fri Feb 15 22:37:14 2002] Kedian squeeks.
+[Fri Feb 15 22:37:27 2002] Lirus says, 'this chick is buff'
+[Fri Feb 15 22:37:34 2002] Lirus emits a low rumble and then roars like a lion!
+[Fri Feb 15 22:37:41 2002] Kedian whistles at Lirus appreciatively.
+[Fri Feb 15 22:37:42 2002] Requesting to change Lirus's height from 7 to 5.
+[Fri Feb 15 22:37:47 2002] Lirus beams a smile at Espranza.
+[Fri Feb 15 22:38:00 2002] Lirus tells the guild, 'i wish my boobs stuck out straight like this'
+[Fri Feb 15 22:38:09 2002] Lirus tells the guild, 'lol'
+[Fri Feb 15 22:38:16 2002] You say to your guild, 'get a hard leather bustier'
+[Fri Feb 15 22:38:22 2002] You say to your guild, 'works for her'
+[Fri Feb 15 22:38:26 2002] Lirus tells the guild, 'they are uber expensive)'
+[Fri Feb 15 22:38:33 2002] Lirus tells the guild, 'lol true'
+[Fri Feb 15 22:39:16 2002] Espranza thinks these are EXACTLY the sorts of things players think we do up here all the time.
+[Fri Feb 15 22:39:35 2002] Lirus tells the guild, 'you guys coming to server meeting tommorow?'
+[Fri Feb 15 22:39:51 2002] You say to your guild, 'heh I think I had better be there'
+[Fri Feb 15 22:39:51 2002] Kedian tells the guild, 'yeah'
+[Fri Feb 15 22:39:58 2002] Lirus tells the guild, 'hehe'
+[Fri Feb 15 22:40:06 2002] You say to your guild, 'my first as senior'
+[Fri Feb 15 22:40:11 2002] Lirus tells the guild, 'ahh cool'
+[Fri Feb 15 22:40:26 2002] Lirus tells the guild, 'esp you going to e3 this year?'
+[Fri Feb 15 22:40:38 2002] You say to your guild, 'is it in monterey?'
+[Fri Feb 15 22:40:46 2002] Lirus tells the guild, 'no it's in LA'
+[Fri Feb 15 22:40:51 2002] You say to your guild, 'probably not, then'
+[Fri Feb 15 22:41:01 2002] Lirus tells the guild, 'moneterey northern ca?'
+[Fri Feb 15 22:41:02 2002] You say to your guild, 'I don't like computer shows much.'
+[Fri Feb 15 22:41:04 2002] You say to your guild, 'yeah'
+[Fri Feb 15 22:41:40 2002] You say to your guild, 'esp shows with a bunch of teenage kids running around.'
+[Fri Feb 15 22:41:52 2002] Lirus tells the guild, 'supposed to be 18 +'
+[Fri Feb 15 22:42:03 2002] You say to your guild, 'and supposed to be in the industry too'
+[Fri Feb 15 22:42:08 2002] Lirus tells the guild, 'aye which you are)'
+[Fri Feb 15 22:42:11 2002] Espranza saved.
+[Fri Feb 15 22:42:25 2002] You say to your guild, 'I don't even have a job... I suppose I could say I'm a guide...'
+[Fri Feb 15 22:42:29 2002] Lirus tells the guild, 'aye'
+[Fri Feb 15 22:43:20 2002] You say to your guild, 'well, I think I would rather try for a fan faire if I was going to travel for something liek this'
+[Fri Feb 15 22:43:21 2002] Lirus tells the guild, 'i will go for the first day probably, not worth going all 3 days'
+[Fri Feb 15 22:43:25 2002] Lirus tells the guild, '*nod*'
+[Fri Feb 15 22:43:32 2002] Lirus tells the guild, 'i am thinking about going to the seattle one'
+[Fri Feb 15 22:43:43 2002] You say to your guild, 'I love Seattle, was born near there.'
+[Fri Feb 15 22:44:03 2002] Lirus tells the guild, 'very cool, i have only been in the airport so would be nice to see the city'
+[Fri Feb 15 22:44:21 2002] Kedian tells the guild, 'take rain gear'
+[Fri Feb 15 22:44:24 2002] Lirus tells the guild, 'hehe'
+[Fri Feb 15 22:44:24 2002] You say to your guild, 'it's real clean. Make sure you get to the fisherman's wharf'
+[Fri Feb 15 22:44:39 2002] Lirus tells the guild, 'cool will do'
+[Fri Feb 15 22:44:55 2002] Lirus tells the guild, 'probably gonna stay with some guildmates of mine, they should know the way around'
+[Fri Feb 15 22:44:57 2002] You say to your guild, 'just bunches of things to see'
+[Fri Feb 15 22:45:09 2002] You say to your guild, 'you wouldn't be going as a GM then?'
+[Fri Feb 15 22:45:12 2002] Lirus tells the guild, 'nah'
+[Fri Feb 15 22:45:22 2002] You say to your guild, 'they'll know you anyway'
+[Fri Feb 15 22:45:32 2002] Lirus tells the guild, 'yeah some already do'
+[Fri Feb 15 22:45:46 2002] You say to your guild, 'I mean the Sony people will. Your guildmates suspect?'
+[Fri Feb 15 22:45:59 2002] Lirus GMSAYS, 'some of my guildmates know from seeing me at previous fanfaires'
+[Fri Feb 15 22:46:21 2002] You say to your guild, 'ahh... I dunno if I've ever spotted a GM playing on EMarr'
+[Fri Feb 15 22:46:33 2002] You say to your guild, 'I've spotted bunches of regular old guides'
+[Fri Feb 15 22:46:34 2002] Lirus GMSAYS, 'not sure if i know any who do either'
+[Fri Feb 15 22:46:55 2002] Lirus GMSAYS, 'popular server seems to be Xegony'
+[Fri Feb 15 22:46:59 2002] Lirus GMSAYS, 'and sullon'
+[Fri Feb 15 22:47:07 2002] You must be on the 1st menu screen to leave GM mode.
+[Fri Feb 15 22:47:16 2002] You say to your guild, 'I can understand Sullon...'
+[Fri Feb 15 22:47:43 2002] Lirus tells the guild, 'dunno why xegony...just a high amount of em on there i guess, they tried to get me to move my characters over'
+[Fri Feb 15 22:47:50 2002] Lirus tells the guild, 'but i don't wanna be on Xegony'
+[Fri Feb 15 22:47:56 2002] You say to your guild, 'ugh... no equip...'
+[Fri Feb 15 22:48:14 2002] Lirus tells the guild, 'if i wanted i could probably move with my equip, since some people on my play server know i am a gm'
+[Fri Feb 15 22:48:22 2002] Lirus tells the guild, 'they do a good job of keeping hush hush though'
+[Fri Feb 15 22:48:23 2002] You say to your guild, 'I want to move my characters off of Fennin and put them all on EMarr'
+[Fri Feb 15 22:48:35 2002] Lirus tells the guild, 'is that where you are playing now?'
+[Fri Feb 15 22:48:48 2002] You say to your guild, 'yeah, haven't been back on Fennin since my guild broke up'
+[Fri Feb 15 22:48:57 2002] Lirus tells the guild, 'what level are ya on emarr now?'
+[Fri Feb 15 22:49:06 2002] You say to your guild, 'my highest is 58'
+[Fri Feb 15 22:49:17 2002] Lirus tells the guild, 'nice'
+[Fri Feb 15 22:49:25 2002] You say to your guild, '60 will be nice.'
+[Fri Feb 15 22:49:31 2002] Lirus tells the guild, 'aye huge burden lifted'
+[Fri Feb 15 22:49:33 2002] You say to your guild, '58 just means, two more till 60.'
+[Fri Feb 15 22:49:57 2002] You say to your guild, 'my guild would much rather all druids be 60 for PotG.'
+[Fri Feb 15 22:50:16 2002] Lirus tells the guild, 'i hardly play anymore, i would really just be going to hang out with people i know really, cause the events are alotta fun'
+[Fri Feb 15 22:50:20 2002] Lirus tells the guild, 'aye'
+[Fri Feb 15 22:50:30 2002] Lirus tells the guild, 'no guild will ever complain about having all 60s hehe'
+[Fri Feb 15 22:50:54 2002] You say to your guild, 'I played DAoC for a couple months, I really needed the break from EQ. When I came back I joined a big guild and am having more fun.'
+[Fri Feb 15 22:50:57 2002] RETRIEVING PETITION...PLEASE WAIT
+[Fri Feb 15 22:50:57 2002] USER TEXT: Somethign starge just happened I was in trade, other person hit cancel and one of my bags didn't arived abck from trade window. can you help?
+[Fri Feb 15 22:50:58 2002] Players in EverQuest:
+[Fri Feb 15 22:50:58 2002] ---------------------------
+[Fri Feb 15 22:50:58 2002] [ANON (25 Druid)] Bufy (Wood Elf) ZONE: freportw (USER PID BQ3P8RR)
+[Fri Feb 15 22:50:58 2002] There is 1 player in EverQuest.
+[Fri Feb 15 22:51:01 2002] UNDOING CHECK OUT
+[Fri Feb 15 22:51:21 2002] Lirus tells the guild, 'husband keeps talking bout picking up doac, since a few gms we know play and could get into a good guild fairly easily'
+[Fri Feb 15 22:51:28 2002] Lirus tells the guild, 'but i dunno if i wanna spend the money on it'
+[Fri Feb 15 22:51:36 2002] You say to your guild, 'it doesn't really last that long'
+[Fri Feb 15 22:51:43 2002] Lirus tells the guild, '80 bucks for the software and then the monethly fees'
+[Fri Feb 15 22:51:47 2002] You say to your guild, 'the high level game is excrutiating'
+[Fri Feb 15 22:51:52 2002] Lirus tells the guild, 'yeah i beta's it for about a week'
+[Fri Feb 15 22:51:55 2002] Lirus tells the guild, 'that was plenty for me'
+[Fri Feb 15 22:52:02 2002] Lirus tells the guild, 'i heard they have dragons in now?'
+[Fri Feb 15 22:52:17 2002] You say to your guild, 'yeah, they have added "epic" zones - ie planes.'
+[Fri Feb 15 22:52:21 2002] Espranza saved.
+[Fri Feb 15 22:52:22 2002] Lirus tells the guild, 'ahh'
+[Fri Feb 15 22:53:21 2002] You GMSAY, 'is that human model bug in Velks fixed yet?'
+[Fri Feb 15 22:53:24 2002] Lirus tells the guild, 'i think i'm gonna take off, feeling like poo, and anxious to get home and go to sleep)'
+[Fri Feb 15 22:53:31 2002] Lirus GMSAYS, 'not that i have heard'
+[Fri Feb 15 22:53:34 2002] You say to your guild, 'okay, see ya tomorrow!'
+[Fri Feb 15 22:53:38 2002] Lirus tells the guild, 'yep yep)'
+[Fri Feb 15 22:53:44 2002] You wave goodbye to Lirus.
+[Fri Feb 15 22:53:47 2002] Lirus hugs Espranza.
+[Fri Feb 15 22:53:51 2002] Lirus hugs Kedian.
+[Fri Feb 15 22:54:16 2002] Players in EverQuest:
+[Fri Feb 15 22:54:16 2002] ---------------------------
+[Fri Feb 15 22:54:16 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Fri Feb 15 22:54:16 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: cshome (USER PID HU7F5NG)
+[Fri Feb 15 22:54:16 2002] There are 2 players in EverQuest.
+[Fri Feb 15 22:54:27 2002] Changing Espranza to race: Halfling.
+[Fri Feb 15 22:54:27 2002] Espranza is now able to kill anyone (or be killed) as if they were an NPC.
+[Fri Feb 15 22:54:28 2002] You are now able to kill anyone (or be killed) as if you were an NPC.
+[Fri Feb 15 22:54:54 2002] Players in EverQuest:
+[Fri Feb 15 22:54:54 2002] ---------------------------
+[Fri Feb 15 22:54:54 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Fri Feb 15 22:54:54 2002] * Guide *[51 Disciple] Kedian (Human) <Keepers of Dreams> ZONE: cshome (USER PID HU7F5NG)
+[Fri Feb 15 22:54:54 2002] There are 2 players in EverQuest.
+[Fri Feb 15 22:54:57 2002] Players on EverQuest:
+[Fri Feb 15 22:54:57 2002] ---------------------------
+[Fri Feb 15 22:54:57 2002] * GM * [51 Disciple] Kedian (Human) <Keepers of Dreams>
+[Fri Feb 15 22:54:57 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Fri Feb 15 22:54:57 2002] There are 2 players in Sunset Home.
+[Fri Feb 15 22:55:29 2002] Kedian tells the guild, 'see ya lirus'
+[Fri Feb 15 22:57:57 2002] You say to your guild, 'well, it's dead here tonight... I guess I'll be off as well...'
+[Fri Feb 15 22:58:00 2002] It will take you about 30 seconds to prepare your camp.
+[Fri Feb 15 22:58:04 2002] It will take about 25 more seconds to prepare your camp.
+[Fri Feb 15 22:58:08 2002] Kedian tells the guild, 'I'm thinkin about bailing soon as well'
+[Fri Feb 15 22:58:09 2002] It will take about 20 more seconds to prepare your camp.
+[Fri Feb 15 22:58:10 2002] You say to your guild, 'I'm done being mad at the idiots in my guild'
+[Fri Feb 15 22:58:14 2002] It will take about 15 more seconds to prepare your camp.
+[Fri Feb 15 22:58:18 2002] You say to your guild, 'nice to see you again, Kedian!'
+[Fri Feb 15 22:58:19 2002] It will take about 10 more seconds to prepare your camp.
+[Fri Feb 15 22:58:21 2002] Kedian tells the guild, 'lol, I hear that'
+[Fri Feb 15 22:58:24 2002] It will take about 5 more seconds to prepare your camp.
+[Fri Feb 15 22:58:27 2002] Kedian tells the guild, 'aye, see ya tommarow'

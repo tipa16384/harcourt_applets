@@ -1,0 +1,597 @@
+[Sat Aug 11 04:39:48 2001] Welcome to EverQuest!
+[Sat Aug 11 04:39:48 2001] You have entered Sunset Home.
+[Sat Aug 11 04:39:48 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Account security is the user's responsibility. Please keep your password secure. Sharing accounts is in violation of the EverQuest User Agreement and Software License and can lead to disciplinary action.
+[Sat Aug 11 04:39:49 2001] GUILD MOTD: Kezia - Have you hugged your apprentice today?
+[Sat Aug 11 04:39:52 2001] Players in EverQuest:
+[Sat Aug 11 04:39:52 2001] ---------------------------
+[Sat Aug 11 04:39:52 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sat Aug 11 04:39:52 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Morell Thule> ZONE: najena (USER PID GUGBHE6)
+[Sat Aug 11 04:39:53 2001] There are 2 players in EverQuest.
+[Sat Aug 11 04:39:57 2001] You GMSAY, 'boo'
+[Sat Aug 11 04:40:06 2001] Larsot GMSAYS, 'boo hoo'
+[Sat Aug 11 04:40:13 2001] You GMSAY, 'hoo doo'
+[Sat Aug 11 04:40:21 2001] Larsot GMSAYS, 'you doo voo doo'
+[Sat Aug 11 04:40:30 2001] You GMSAY, 'you remind me of the babe'
+[Sat Aug 11 04:40:59 2001] Larsot GMSAYS, 'thankyou  :D'
+[Sat Aug 11 04:41:11 2001] You GMSAY, 'heh - you don't know the song, then?'
+[Sat Aug 11 04:41:25 2001] Larsot GMSAYS, 'not sure'
+[Sat Aug 11 04:41:43 2001] You GMSAY, 'ever see the movie Labyrinth? With David Bowie as the Goblin King?'
+[Sat Aug 11 04:41:56 2001] Larsot GMSAYS, 'aye, LONGGGGGGGGGG time ago'
+[Sat Aug 11 04:42:01 2001] It begins to rain.
+[Sat Aug 11 04:42:20 2001] You GMSAY, 'been slow here, then?'
+[Sat Aug 11 04:42:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 11 04:42:26 2001] USER TEXT: I am locked behind a broked door that an NPC opened in Runnyeye..Can i get some assistance out of here
+[Sat Aug 11 04:42:27 2001] Players in EverQuest:
+[Sat Aug 11 04:42:27 2001] ---------------------------
+[Sat Aug 11 04:42:27 2001] [54 Rake] Hokksin (Halfling) <Crimson Mist> ZONE: runnyeye (USER PID BTB1LJ7) LFG
+[Sat Aug 11 04:42:27 2001] There is 1 player in EverQuest.
+[Sat Aug 11 04:42:32 2001] Larsot GMSAYS, 'was 13 pets when I logged on'
+[Sat Aug 11 04:42:36 2001] You GMSAY, 'zone'
+[Sat Aug 11 04:42:41 2001] Teleporting to hokksin.
+[Sat Aug 11 04:42:41 2001] LOADING, PLEASE WAIT...
+[Sat Aug 11 04:43:13 2001] You have entered Liberated Citadel of Runnyeye.
+[Sat Aug 11 04:43:22 2001] Hokksin waves at Espranza.
+[Sat Aug 11 04:43:27 2001] You say, 'this one?'
+[Sat Aug 11 04:43:33 2001] Hokksin says, 'aye'
+[Sat Aug 11 04:43:37 2001] a Pickclaw mindripper begins to cast a spell. (Rune I)
+[Sat Aug 11 04:43:47 2001] Teleporting to a_Pickclaw_mindripper00.
+[Sat Aug 11 04:44:13 2001] You told Hokksin, 'Okay, are you sneak hiding?'
+[Sat Aug 11 04:44:18 2001] Hokksin tells you, 'no'
+[Sat Aug 11 04:44:24 2001] You told Hokksin, 'probably don't need to'
+[Sat Aug 11 04:44:27 2001] Summoning hokksin.
+[Sat Aug 11 04:44:29 2001] a Pickclaw Ambushbaiter begins to cast a spell. (Hide in a can)
+[Sat Aug 11 04:44:29 2001] a Pickclaw mindripper begins to cast a spell. (Quickness)
+[Sat Aug 11 04:44:35 2001] Hokksin thanks Espranza heartily.
+[Sat Aug 11 04:44:38 2001] Hokksin tells you, 'thank you '
+[Sat Aug 11 04:44:39 2001] You bow before Hokksin.
+[Sat Aug 11 04:44:42 2001] You told Hokksin, 'you're welcome!'
+[Sat Aug 11 04:44:45 2001] DELETING THIS PETITION
+[Sat Aug 11 04:44:47 2001] Hokksin waves goodbye to Espranza.
+[Sat Aug 11 04:44:50 2001] You wave goodbye to Hokksin.
+[Sat Aug 11 04:44:52 2001] a Pickclaw Fleshburner begins to cast a spell. (O'Keils Radiation)
+[Sat Aug 11 04:45:08 2001] Players in EverQuest:
+[Sat Aug 11 04:45:08 2001] ---------------------------
+[Sat Aug 11 04:45:08 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: runnyeye (USER PID AUGBQH4)
+[Sat Aug 11 04:45:08 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Morell Thule> ZONE: najena (USER PID GUGBHE6)
+[Sat Aug 11 04:45:08 2001] There are 2 players in EverQuest.
+[Sat Aug 11 04:45:08 2001] a Pickclaw Ambushbaiter begins to cast a spell. (Hide in a can)
+[Sat Aug 11 04:45:12 2001] a Pickclaw Fleshburner begins to cast a spell. (Shock of Frost)
+[Sat Aug 11 04:45:16 2001] You GMSAY, 'zone'
+[Sat Aug 11 04:45:17 2001] a Pickclaw Fleshburner begins to cast a spell. (Flame Shock)
+[Sat Aug 11 04:45:20 2001] Teleporting to larsot.
+[Sat Aug 11 04:45:21 2001] LOADING, PLEASE WAIT...
+[Sat Aug 11 04:45:45 2001] You have entered Najena.
+[Sat Aug 11 04:45:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 11 04:45:51 2001] USER TEXT: our cleric, Evilhoot, looted some Elder Spiritists Gauntlets in Karnor, then he gone LD and did not came back, don't know if he wanted to steal it or just had problem but the whole group would like to roll for this item
+[Sat Aug 11 04:45:51 2001] Players in EverQuest:
+[Sat Aug 11 04:45:51 2001] ---------------------------
+[Sat Aug 11 04:45:51 2001] [52 Disciple] Kongfu (Iksar) <Compagnons de l`Aube> ZONE: dreadlands (USER PID DPHWF6R)
+[Sat Aug 11 04:45:51 2001] There is 1 player in EverQuest.
+[Sat Aug 11 04:45:56 2001] Rathyl died.
+[Sat Aug 11 04:45:56 2001] Rathyl says 'Foolish children.  My magic surpasses the boundaries of life and death. 
+[Sat Aug 11 04:45:58 2001] Ikrog says, 'Interesting as I've been here a while and noone else but Noonie.  Hmmm.... heh'
+[Sat Aug 11 04:46:30 2001] Larsot GMSAYS, 'what you do to Raythl?'
+[Sat Aug 11 04:46:31 2001] You say, 'hi!'
+[Sat Aug 11 04:46:34 2001] You GMSAY, 'nothing'
+[Sat Aug 11 04:46:41 2001] Larsot GMSAYS, 'hehe J/K  :D'
+[Sat Aug 11 04:46:47 2001] You GMSAY, 'he was killed by someone else?'
+[Sat Aug 11 04:47:02 2001] Larsot GMSAYS, 'aye, not sure who dot'd him though'
+[Sat Aug 11 04:47:22 2001] Linara Parlone begins to cast a spell. (Alacrity)
+[Sat Aug 11 04:47:34 2001] Linara Parlone begins to cast a spell. (Alacrity)
+[Sat Aug 11 04:47:54 2001] a mist elemental begins to cast a spell. (AirElementalInvisibility)
+[Sat Aug 11 04:48:08 2001] Ikrog says, 'A GM-Fest.  I am Honored to attend'
+[Sat Aug 11 04:48:15 2001] You opened the locked door with your magic GM key.
+[Sat Aug 11 04:48:20 2001] You opened the locked door with your magic GM key.
+[Sat Aug 11 04:48:26 2001] Larsot GMSAYS, 'how we handle ninja loot pets?'
+[Sat Aug 11 04:48:33 2001] You GMSAY, 'es gaunts?'
+[Sat Aug 11 04:48:41 2001] Larsot GMSAYS, 'yup, thats the one'
+[Sat Aug 11 04:48:46 2001] a mist elemental begins to cast a spell. (AirElementalInvisibility)
+[Sat Aug 11 04:48:58 2001] You GMSAY, 'how would you suggest?'
+[Sat Aug 11 04:49:02 2001] a necromancer begins to cast a spell. (Banshee Aura)
+[Sat Aug 11 04:49:43 2001] Larsot GMSAYS, 'I would make a note of his name since they supposedly got a /report done and let Lirus handle it'
+[Sat Aug 11 04:50:34 2001] You GMSAY, 'that's the way, except we get a GM from chat'
+[Sat Aug 11 04:50:39 2001] Ikrog begins to cast a spell. (Endure Cold)
+[Sat Aug 11 04:50:43 2001] You GMSAY, '8.1.5 in the P&P'
+[Sat Aug 11 04:50:46 2001] Ikrog begins to cast a spell. (Endure Cold)
+[Sat Aug 11 04:50:50 2001] Larsot GMSAYS, 'but looter is not online now?!?'
+[Sat Aug 11 04:51:02 2001] Ikrog begins to cast a spell. (Vampiric Embrace)
+[Sat Aug 11 04:51:08 2001] You GMSAY, 'they can find his PID from his character name'
+[Sat Aug 11 04:51:14 2001] USER TEXT: our cleric, Evilhoot, looted some Elder Spiritists Gauntlets in Karnor, then he gone LD and did not came back, don't know if he wanted to steal it or just had problem but the whole group would like to roll for this item
+[Sat Aug 11 04:51:18 2001] Ikrog begins to cast a spell. (Grim Aura)
+[Sat Aug 11 04:51:30 2001] Larsot GMSAYS, 'then what?'
+[Sat Aug 11 04:51:34 2001] Ikrog begins to cast a spell. (Siphon Strength)
+[Sat Aug 11 04:51:35 2001] Rathyl reincarnate begins to cast a spell. (IceBoneFrostBurst)
+[Sat Aug 11 04:51:42 2001] You GMSAY, 'the P&P says to escalate it to a GM'
+[Sat Aug 11 04:51:50 2001] Rathyl reincarnate begins to cast a spell. (IceBoneFrostBurst)
+[Sat Aug 11 04:51:54 2001] You GMSAY, 'Lirus won't be on for several hours, so we go get another'
+[Sat Aug 11 04:52:02 2001] Rathyl reincarnate begins to cast a spell. (IceBoneFrostBurst)
+[Sat Aug 11 04:52:03 2001] Ikrog begins to cast a spell. (VampEmbraceShadow)
+[Sat Aug 11 04:52:14 2001] Rathyl reincarnate begins to cast a spell. (IceBoneFrostBurst)
+[Sat Aug 11 04:52:20 2001] Ikrog begins to cast a spell. (VampEmbraceShadow)
+[Sat Aug 11 04:52:20 2001] Ikrog beams a smile at Rathyl reincarnate.
+[Sat Aug 11 04:52:20 2001] Ikrog says, 'Ahhh, I feel much better now...'
+[Sat Aug 11 04:52:32 2001] You GMSAY, 'want me to talk to them?'
+[Sat Aug 11 04:52:33 2001] Rathyl reincarnate begins to cast a spell. (IceBoneFrostBurst)
+[Sat Aug 11 04:52:34 2001] a magician begins to cast a spell. (Shield of Fire)
+[Sat Aug 11 04:52:42 2001] a magician begins to cast a spell. (Shield of Fire)
+[Sat Aug 11 04:52:43 2001] Feerd says out of character, 'GM's GM's From On High..... They are here, I dont' know why'
+[Sat Aug 11 04:52:46 2001] Rathyl reincarnate begins to cast a spell. (IceBoneFrostBurst)
+[Sat Aug 11 04:52:52 2001] Larsot GMSAYS, 'ahh ok, i see it in P&P now'
+[Sat Aug 11 04:53:09 2001] Larsot GMSAYS, 'sure, i want to learn the right way to go about it'
+[Sat Aug 11 04:53:22 2001] a necromancer begins to cast a spell. (Banshee Aura)
+[Sat Aug 11 04:53:22 2001] a necromancer begins to cast a spell. (Banshee Aura)
+[Sat Aug 11 04:53:23 2001] Ikrog begins to cast a spell. (Lifedraw)
+[Sat Aug 11 04:53:27 2001] You told Feerd, 'Feerd, my deard, what shall we do? we aren't so many, only two'
+[Sat Aug 11 04:53:29 2001] You GMSAY, 'zone'
+[Sat Aug 11 04:53:31 2001] Ikrog begins to cast a spell. (Engulfing Darkness)
+[Sat Aug 11 04:53:32 2001] Teleporting to kongfu.
+[Sat Aug 11 04:53:33 2001] LOADING, PLEASE WAIT...
+[Sat Aug 11 04:53:59 2001] You have entered Karnor's Castle.
+[Sat Aug 11 04:53:59 2001]  (Verses of Victory)
+[Sat Aug 11 04:54:03 2001] Kirru Scores a critical hit!(45)
+[Sat Aug 11 04:54:04 2001] Misao's song ends.
+[Sat Aug 11 04:54:04 2001] Misao's song ends.
+[Sat Aug 11 04:54:04 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:54:04 2001] It begins to rain.
+[Sat Aug 11 04:54:06 2001] Kirry begins to cast a spell. (Swift like the Wind)
+[Sat Aug 11 04:54:09 2001] Misao's song ends.
+[Sat Aug 11 04:54:09 2001] Misao's song ends.
+[Sat Aug 11 04:54:09 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:54:12 2001] A drolvarg sentry is bound by strands of solid music.
+[Sat Aug 11 04:54:13 2001] Misao's song ends.
+[Sat Aug 11 04:54:13 2001] Misao's song ends.
+[Sat Aug 11 04:54:13 2001] A missed note brings Misao's song to a close!
+[Sat Aug 11 04:54:14 2001] Misao's song ends.
+[Sat Aug 11 04:54:14 2001] a drolvarg sentry has been slain by Misao!
+[Sat Aug 11 04:54:14 2001] Misao feels much faster.
+[Sat Aug 11 04:54:17 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:54:27 2001] You told Kongfu, 'Hail, Kongfu! Guide Espranza here. Has Evilhoot returned?'
+[Sat Aug 11 04:54:33 2001] Larsot GMSAYS, 'so we gather info on one pet and delete the other?'
+[Sat Aug 11 04:54:34 2001]  (Selo`s Accelerando)
+[Sat Aug 11 04:54:35 2001] Players in EverQuest:
+[Sat Aug 11 04:54:35 2001] ---------------------------
+[Sat Aug 11 04:54:35 2001] There are no players in EverQuest that match those who filters.
+[Sat Aug 11 04:54:38 2001] Kongfu tells you, 'not yet ('
+[Sat Aug 11 04:54:54 2001] Misao says out of character, 'inc Kirry'
+[Sat Aug 11 04:54:58 2001] You told Kongfu, 'did you make a report showing him looting the item?'
+[Sat Aug 11 04:55:03 2001] Misao says out of character, 'inc a drolvarg sentry'
+[Sat Aug 11 04:55:06 2001] Your protection fades.
+[Sat Aug 11 04:55:11 2001] Kongfu tells you, 'no ('
+[Sat Aug 11 04:55:13 2001] Rashel begins to cast a spell. (Celestial Healing)
+[Sat Aug 11 04:55:14 2001] Kirry begins to cast a spell. (Enthrall)
+[Sat Aug 11 04:55:16 2001] You GMSAY, 'we only need one - yours made a report though?'
+[Sat Aug 11 04:55:17 2001] Misao's song ends.
+[Sat Aug 11 04:55:17 2001] Misao's song ends.
+[Sat Aug 11 04:55:17 2001] A drolvarg sentry has been enthralled.
+[Sat Aug 11 04:55:17 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:55:19 2001] **A Magic Die is rolled by Maxom.
+[Sat Aug 11 04:55:19 2001] **It could have been any number from 0 to 100, but this time it turned up a 21.
+[Sat Aug 11 04:55:20 2001] A drolvarg guardian is bound by strands of solid music.
+[Sat Aug 11 04:55:20 2001] Kirry begins to cast a spell. (Enthrall)
+[Sat Aug 11 04:55:22 2001] Misao's song ends.
+[Sat Aug 11 04:55:22 2001] Misao's song ends.
+[Sat Aug 11 04:55:22 2001]  (Verses of Victory)
+[Sat Aug 11 04:55:23 2001] Kirru Scores a critical hit!(30)
+[Sat Aug 11 04:55:23 2001] A drolvarg sentry has been enthralled.
+[Sat Aug 11 04:55:26 2001] Misao's song ends.
+[Sat Aug 11 04:55:26 2001] Misao's song ends.
+[Sat Aug 11 04:55:26 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:55:28 2001] Kirry begins to cast a spell. (Tashania)
+[Sat Aug 11 04:55:29 2001] A drolvarg guardian glances nervously about.
+[Sat Aug 11 04:55:30 2001] Misao's song ends.
+[Sat Aug 11 04:55:30 2001] Misao's song ends.
+[Sat Aug 11 04:55:30 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:55:32 2001] Kirru Scores a critical hit!(37)
+[Sat Aug 11 04:55:32 2001] Kirry begins to cast a spell. (Shiftless Deeds)
+[Sat Aug 11 04:55:33 2001] A drolvarg guardian is bound by strands of solid music.
+[Sat Aug 11 04:55:34 2001] Misao's song ends.
+[Sat Aug 11 04:55:34 2001] Misao's song ends.
+[Sat Aug 11 04:55:34 2001]  (Verses of Victory)
+[Sat Aug 11 04:55:38 2001] Misao's song ends.
+[Sat Aug 11 04:55:38 2001] Misao's song ends.
+[Sat Aug 11 04:55:39 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:55:42 2001] A drolvarg guardian's blood boils.
+[Sat Aug 11 04:55:43 2001] Misao's song ends.
+[Sat Aug 11 04:55:43 2001] Misao's song ends.
+[Sat Aug 11 04:55:43 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:55:45 2001] Larsot GMSAYS, 'not sure who did the /report. I asked him if someone in group did a /report is all'
+[Sat Aug 11 04:55:45 2001] Kirry begins to cast a spell. (Enthrall)
+[Sat Aug 11 04:55:45 2001] Misao's song ends.
+[Sat Aug 11 04:55:45 2001] Misao's song ends.
+[Sat Aug 11 04:55:46 2001]  (Verses of Victory)
+[Sat Aug 11 04:55:48 2001] A drolvarg sentry has been enthralled.
+[Sat Aug 11 04:55:48 2001] A drolvarg guardian's blood boils.
+[Sat Aug 11 04:55:49 2001] Misao's song ends.
+[Sat Aug 11 04:55:49 2001] Misao's song ends.
+[Sat Aug 11 04:55:49 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:55:52 2001] Kirry begins to cast a spell. (Enthrall)
+[Sat Aug 11 04:55:53 2001] Misao's song ends.
+[Sat Aug 11 04:55:53 2001] Misao's song ends.
+[Sat Aug 11 04:55:53 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:55:53 2001] Feerd tells you, 'Two of you is more than me... I look up to you, don't you see?'
+[Sat Aug 11 04:55:54 2001] A drolvarg sentry has been enthralled.
+[Sat Aug 11 04:55:56 2001] A drolvarg guardian is bound by strands of solid music.
+[Sat Aug 11 04:55:57 2001] Misao's song ends.
+[Sat Aug 11 04:55:57 2001] Misao's song ends.
+[Sat Aug 11 04:55:57 2001]  (Verses of Victory)
+[Sat Aug 11 04:56:00 2001] Misao's song ends.
+[Sat Aug 11 04:56:00 2001] Misao's song ends.
+[Sat Aug 11 04:56:01 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:56:01 2001] Rashel begins to cast a spell. (Celestial Healing)
+[Sat Aug 11 04:56:02 2001] Gaira Scores a critical hit!(32)
+[Sat Aug 11 04:56:04 2001] Misao's song ends.
+[Sat Aug 11 04:56:04 2001] Misao's song ends.
+[Sat Aug 11 04:56:04 2001] You GMSAY, 'ah, well we should find out who and on whom'
+[Sat Aug 11 04:56:05 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:56:05 2001] Gaira's body is covered with a soft glow.
+[Sat Aug 11 04:56:08 2001] A drolvarg guardian is bound by strands of solid music.
+[Sat Aug 11 04:56:09 2001] Misao's song ends.
+[Sat Aug 11 04:56:09 2001] Misao's song ends.
+[Sat Aug 11 04:56:09 2001]  (Verses of Victory)
+[Sat Aug 11 04:56:11 2001] Misao's song ends.
+[Sat Aug 11 04:56:11 2001] Misao's song ends.
+[Sat Aug 11 04:56:12 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:56:13 2001] Larsot GMSAYS, 'ok, asking now'
+[Sat Aug 11 04:56:16 2001] Players in EverQuest:
+[Sat Aug 11 04:56:16 2001] ---------------------------
+[Sat Aug 11 04:56:16 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: karnor (USER PID AUGBQH4)
+[Sat Aug 11 04:56:16 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Morell Thule> ZONE: najena (USER PID GUGBHE6)
+[Sat Aug 11 04:56:16 2001] There are 2 players in EverQuest.
+[Sat Aug 11 04:56:18 2001] Misao's song ends.
+[Sat Aug 11 04:56:19 2001] Gaira Scores a critical hit!(27)
+[Sat Aug 11 04:56:22 2001] Kirry begins to cast a spell. (Enthrall)
+[Sat Aug 11 04:56:22 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:56:24 2001] A drolvarg sentry has been enthralled.
+[Sat Aug 11 04:56:24 2001] Gaira Scores a critical hit!(27)
+[Sat Aug 11 04:56:25 2001] A drolvarg sentry is bound by strands of solid music.
+[Sat Aug 11 04:56:26 2001] Misao's song ends.
+[Sat Aug 11 04:56:26 2001]  (Verses of Victory)
+[Sat Aug 11 04:56:30 2001] Misao's song ends.
+[Sat Aug 11 04:56:31 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:56:33 2001] You told Feerd, 'being outnumbered is no fun, poof look again - only one'
+[Sat Aug 11 04:56:35 2001] Misao's song ends.
+[Sat Aug 11 04:56:35 2001] Kirru Scores a critical hit!(23)
+[Sat Aug 11 04:56:35 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:56:39 2001] Misao's song ends.
+[Sat Aug 11 04:56:39 2001]  (Verses of Victory)
+[Sat Aug 11 04:56:40 2001] Kirru Scores a critical hit!(23)
+[Sat Aug 11 04:56:44 2001] Misao's song ends.
+[Sat Aug 11 04:56:44 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:56:48 2001] Misao's song ends.
+[Sat Aug 11 04:56:49 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:56:53 2001] Misao's song ends.
+[Sat Aug 11 04:56:53 2001]  (Verses of Victory)
+[Sat Aug 11 04:56:57 2001] Misao's song ends.
+[Sat Aug 11 04:56:57 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:56:59 2001] Didi begins to cast a spell. (Spirit of Wolf)
+[Sat Aug 11 04:57:01 2001] Misao's song ends.
+[Sat Aug 11 04:57:01 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:57:03 2001] Kongfu is surrounded by a brief lupine aura.
+[Sat Aug 11 04:57:04 2001] Misao's song ends.
+[Sat Aug 11 04:57:04 2001]  (Verses of Victory)
+[Sat Aug 11 04:57:08 2001] Misao's song ends.
+[Sat Aug 11 04:57:09 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:57:11 2001] Didi begins to cast a spell. (Spirit of Wolf)
+[Sat Aug 11 04:57:15 2001] Atlain is surrounded by a brief lupine aura.
+[Sat Aug 11 04:57:19 2001] Misao's song ends.
+[Sat Aug 11 04:57:19 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:57:22 2001] A drolvarg sentry is bound by strands of solid music.
+[Sat Aug 11 04:57:23 2001] Misao's song ends.
+[Sat Aug 11 04:57:23 2001]  (Verses of Victory)
+[Sat Aug 11 04:57:24 2001] Didi begins to cast a spell. (Spirit of Wolf)
+[Sat Aug 11 04:57:24 2001] Rashel begins to cast a spell. (Celestial Healing)
+[Sat Aug 11 04:57:26 2001] Kirru Scores a critical hit!(54)
+[Sat Aug 11 04:57:27 2001] Players in EverQuest:
+[Sat Aug 11 04:57:27 2001] ---------------------------
+[Sat Aug 11 04:57:27 2001] There are no players in EverQuest that match those who filters.
+[Sat Aug 11 04:57:27 2001] Misao's song ends.
+[Sat Aug 11 04:57:27 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:57:28 2001] Didi is surrounded by a brief lupine aura.
+[Sat Aug 11 04:57:28 2001] Gaira's body is covered with a soft glow.
+[Sat Aug 11 04:57:32 2001] Misao's song ends.
+[Sat Aug 11 04:57:33 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:57:36 2001] A drolvarg sentry is bound by strands of solid music.
+[Sat Aug 11 04:57:36 2001] Misao's song ends.
+[Sat Aug 11 04:57:36 2001] Atlain begins to cast a spell. (Arch Shielding)
+[Sat Aug 11 04:57:36 2001]  (Verses of Victory)
+[Sat Aug 11 04:57:41 2001] Misao's song ends.
+[Sat Aug 11 04:57:41 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:57:45 2001] Misao's song ends.
+[Sat Aug 11 04:57:45 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:57:48 2001] A drolvarg sentry is bound by strands of solid music.
+[Sat Aug 11 04:57:48 2001] Misao's song ends.
+[Sat Aug 11 04:57:49 2001]  (Verses of Victory)
+[Sat Aug 11 04:57:52 2001] Misao's song ends.
+[Sat Aug 11 04:57:53 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:57:56 2001] A drolvarg sentry's blood boils.
+[Sat Aug 11 04:57:57 2001] Misao's song ends.
+[Sat Aug 11 04:57:57 2001] A missed note brings Misao's song to a close!
+[Sat Aug 11 04:57:57 2001] Larsot GMSAYS, 'he says Kongfu did the /report Evilhoot'
+[Sat Aug 11 04:57:57 2001] Misao's song ends.
+[Sat Aug 11 04:57:58 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 04:58:01 2001] Atlain begins to cast a spell. (Steelskin)
+[Sat Aug 11 04:58:02 2001] Misao's song ends.
+[Sat Aug 11 04:58:02 2001]  (Verses of Victory)
+[Sat Aug 11 04:58:03 2001] Rashel begins to cast a spell. (Celestial Healing)
+[Sat Aug 11 04:58:04 2001] Misao's song ends.
+[Sat Aug 11 04:58:04 2001]  (Cantata of Replenishment)
+[Sat Aug 11 04:58:05 2001] Atlain's skin gleams like steel.
+[Sat Aug 11 04:58:07 2001] Kirru's body is covered with a soft glow.
+[Sat Aug 11 04:58:09 2001] You GMSAY, 'Kongfu denies it'
+[Sat Aug 11 04:58:22 2001] Larsot GMSAYS, 'great  :('
+[Sat Aug 11 04:58:24 2001] You GMSAY, 'I'll go look'
+[Sat Aug 11 04:58:28 2001] STATUS UPGRADED TO URGENT
+[Sat Aug 11 04:58:29 2001] CHECKING IN
+[Sat Aug 11 04:58:31 2001] Vangeliss hugs Espranza.
+[Sat Aug 11 04:58:31 2001]  (Selo`s Accelerando)
+[Sat Aug 11 04:58:32 2001] Larsot GMSAYS, 'ok'
+[Sat Aug 11 04:58:33 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Aug 11 04:58:37 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Aug 11 04:58:38 2001] You GMSAY, 'camping to chat'
+[Sat Aug 11 04:58:42 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Aug 11 04:58:47 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Aug 11 04:58:47 2001] You GMSAY, 'might want to come here and hang out'
+[Sat Aug 11 04:58:52 2001] It will take about 10 more seconds to prepare your camp.
+[Sat Aug 11 04:58:54 2001] Larsot GMSAYS, 'karnors?'
+[Sat Aug 11 04:58:57 2001] It will take about 5 more seconds to prepare your camp.
+[Sat Aug 11 04:58:58 2001] You GMSAY, 'aye'
+[Sat Aug 11 04:59:02 2001] You GMSAY, 'goto kongfu'
+[Sat Aug 11 04:59:02 2001] Larsot GMSAYS, '~~ZONE~~'
+[Sat Aug 11 05:06:40 2001] Welcome to EverQuest!
+[Sat Aug 11 05:06:40 2001] You have entered Karnor's Castle.
+[Sat Aug 11 05:06:40 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Account security is the user's responsibility. Please keep your password secure. Sharing accounts is in violation of the EverQuest User Agreement and Software License and can lead to disciplinary action.
+[Sat Aug 11 05:06:40 2001] GUILD MOTD: Kezia - Have you hugged your apprentice today?
+[Sat Aug 11 05:06:43 2001] It begins to rain.
+[Sat Aug 11 05:06:44 2001] You GMSAY, 'no report'
+[Sat Aug 11 05:06:51 2001] Larsot GMSAYS, 'figures'
+[Sat Aug 11 05:06:57 2001] Pobi says, 'Hail, Espranza'
+[Sat Aug 11 05:07:02 2001] Pobi says, 'Hail, Larsot'
+[Sat Aug 11 05:07:03 2001] You GMSAY, 'just leave a note for the GM in your DSR I guess'
+[Sat Aug 11 05:07:05 2001] Sareliane says, 'Hail, Larsot'
+[Sat Aug 11 05:07:07 2001] Pobi bows before Larsot.
+[Sat Aug 11 05:07:10 2001] You say, 'Hiya Pobi!'
+[Sat Aug 11 05:07:11 2001] Larsot GMSAYS, 'ok'
+[Sat Aug 11 05:07:12 2001] Pobi bows before Espranza.
+[Sat Aug 11 05:07:23 2001] Chocoba is looking at your equipment...
+[Sat Aug 11 05:07:26 2001] Pobi says, '=)'
+[Sat Aug 11 05:07:40 2001] You say, 'when I see an ogre staring at me I feel all weird'
+[Sat Aug 11 05:07:42 2001] You feel different.
+[Sat Aug 11 05:07:47 2001] You say, 'Agh! It happened again!'
+[Sat Aug 11 05:07:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 11 05:07:53 2001] USER TEXT: our cleric, Evilhoot, looted some Elder Spiritists Gauntlets in Karnor, then he gone LD and did not came back, don't know if he wanted to steal it or just had problem but the whole group would like to roll for this item
+[Sat Aug 11 05:07:53 2001] Players in EverQuest:
+[Sat Aug 11 05:07:53 2001] ---------------------------
+[Sat Aug 11 05:07:53 2001] [52 Disciple] Kongfu (Iksar) <Compagnons de l`Aube> ZONE: dreadlands (USER PID DPHWF6R)
+[Sat Aug 11 05:07:53 2001] There is 1 player in EverQuest.
+[Sat Aug 11 05:08:07 2001] Pobi says, 'Hehe'
+[Sat Aug 11 05:08:09 2001] Pobi says, 'No'
+[Sat Aug 11 05:08:18 2001] Pobi says, 'Hmm'
+[Sat Aug 11 05:08:31 2001] You told Kongfu, 'Hail, Kongfu! Guide Espranza here. Without a report we can do little, but I will be leaving all this information for Lirus to investigate when he gets on.'
+[Sat Aug 11 05:08:51 2001] Larsot GMSAYS, '<note issue> Maxom and Kongfu both accuse Evilhoot of Ninja looting a pair of ES gloves without rolling for them.'
+[Sat Aug 11 05:08:55 2001] Kongfu tells you, 'ok, thanks anyway ('
+[Sat Aug 11 05:08:58 2001] Chomp, chomp, chomp...  Luvi takes a bite from a Roots.
+[Sat Aug 11 05:09:19 2001] Pobi begins to cast a spell. (Strength of the Kunzar)
+[Sat Aug 11 05:09:28 2001] Luvi says out of character, 'can anyone rez me at the zone pls?'
+[Sat Aug 11 05:09:29 2001] Pobi looks stronger.
+[Sat Aug 11 05:09:33 2001] You GMSAY, '<note gm> A cleric named Evilhoot looted some Elder Spiritist Gauntlets and then went Link Dead and did not return. Group would have liked to roll on them. No PID available, no report text either.'
+[Sat Aug 11 05:09:39 2001] Yuba was injured by falling.
+[Sat Aug 11 05:09:51 2001] Sareliane begins to cast a spell. (Spirit of Wolf)
+[Sat Aug 11 05:09:51 2001] You told Kongfu, 'I'd keep an eye out for him in the future...'
+[Sat Aug 11 05:09:55 2001] Larsot waves goodbye to everyone.
+[Sat Aug 11 05:09:56 2001] Luvi is surrounded by a brief lupine aura.
+[Sat Aug 11 05:09:57 2001] Larsot GMSAYS, '~~ZONE~~'
+[Sat Aug 11 05:09:59 2001] Your illusion fades.
+[Sat Aug 11 05:09:59 2001] You feel a bit dispelled.
+[Sat Aug 11 05:10:00 2001] You no longer have a target.
+[Sat Aug 11 05:10:00 2001] You no longer have a target.
+[Sat Aug 11 05:10:04 2001] DELETING THIS PETITION
+[Sat Aug 11 05:10:13 2001] Kirry begins to cast a spell. (Enthrall)
+[Sat Aug 11 05:10:14 2001] A drolvarg sentry is bound by strands of solid music.
+[Sat Aug 11 05:10:15 2001] a drolvarg sentry has been slain by Gaira!
+[Sat Aug 11 05:10:15 2001] Misao's song ends.
+[Sat Aug 11 05:10:15 2001] Misao's song ends.
+[Sat Aug 11 05:10:15 2001] A drolvarg sentry has been enthralled.
+[Sat Aug 11 05:10:16 2001]  (Cantata of Replenishment)
+[Sat Aug 11 05:10:20 2001] Kirry begins to cast a spell. (Reoccurring Amnesia)
+[Sat Aug 11 05:10:50 2001] Kongfu tells you, 'ok thanks'
+[Sat Aug 11 05:10:54 2001] spectral caller begins to cast a spell. (Inner Fire)
+[Sat Aug 11 05:10:58 2001] spectral caller begins to cast a spell. (Spirit of Wolf)
+[Sat Aug 11 05:10:58 2001] You say to your guild, 'VSR up'
+[Sat Aug 11 05:11:22 2001] Venril Sathirs remains begins to cast a spell. (Shieldskin)
+[Sat Aug 11 05:11:25 2001] Venril Sathirs remains's skin is covered in a mystic glow.
+[Sat Aug 11 05:11:26 2001] spectral caller begins to cast a spell. (Inner Fire)
+[Sat Aug 11 05:11:28 2001] You say to your guild, 'VS is a boy lizard; how come his remains are clearly those of a girl?'
+[Sat Aug 11 05:11:33 2001] Hwayoung says out of character, '52 shaman and 51 mage LFG'
+[Sat Aug 11 05:11:37 2001] Kongfu tells you, 'someone from the group have a log about what happened, can it help ?'
+[Sat Aug 11 05:11:46 2001] Venril Sathirs remains begins to cast a spell. (Grim Aura)
+[Sat Aug 11 05:11:58 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:12:24 2001] You told Kongfu, 'logs cannot be used as evidence, but if you like, you can send the relevant portions to Lirus at msudnik@station.sony.com. Again, they can't be used as proof because they are too easy to falsify.'
+[Sat Aug 11 05:12:30 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:12:32 2001] Larsot tells the guild, 'good question'
+[Sat Aug 11 05:12:50 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:12:54 2001] spectral curate begins to cast a spell. (Valor)
+[Sat Aug 11 05:13:08 2001] Larsot tells the guild, 'then VS remaind turns into a skeleton, then into another version of VS that looks the same'
+[Sat Aug 11 05:13:15 2001] Kongfu tells you, 'ok, nm as he had zoned when the item got looted anyway ('
+[Sat Aug 11 05:13:22 2001] You told Kongfu, 'ah'
+[Sat Aug 11 05:13:36 2001] You say to your guild, 'VSR turns into a phantom, then into VS'
+[Sat Aug 11 05:13:42 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:13:44 2001] You say to your guild, 'fought the remains a few times )'
+[Sat Aug 11 05:13:50 2001] Larsot tells the guild, 'aye, your right'
+[Sat Aug 11 05:13:50 2001] You opened the locked door with your magic GM key.
+[Sat Aug 11 05:13:58 2001] Maxom says out of character, 'Group need enchanter or bard'
+[Sat Aug 11 05:14:07 2001] Larsot tells the guild, 'same here. Faydedar is all my druid needs for epic  :('
+[Sat Aug 11 05:14:12 2001] You say to your guild, 'ditto'
+[Sat Aug 11 05:14:15 2001] You opened the locked door with your magic GM key.
+[Sat Aug 11 05:14:28 2001] Larsot tells the guild, 'tried it once and it was a massacre on my guild  :('
+[Sat Aug 11 05:14:30 2001] Redmiraju says out of character, '52 shaman and 51 mage looking for group will be a greate group i bet'
+[Sat Aug 11 05:14:34 2001] You say to your guild, 'um, ditto again'
+[Sat Aug 11 05:14:40 2001] You say to your guild, 'you sure you're not me?'
+[Sat Aug 11 05:14:42 2001] Larsot tells the guild, 'lol'
+[Sat Aug 11 05:14:51 2001] Larsot tells the guild, 'dont think so  :P'
+[Sat Aug 11 05:15:07 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:15:13 2001] You say to your guild, 'We heard Fay was Naggy level'
+[Sat Aug 11 05:15:18 2001] Larsot tells the guild, 'i guess the secret is high level tanks to get and hold agro'
+[Sat Aug 11 05:15:19 2001] You say to your guild, 'turns out he's much worse'
+[Sat Aug 11 05:15:31 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:15:34 2001] You say to your guild, 'so we turned out ready to fight Naggy and were ruldely awakened'
+[Sat Aug 11 05:15:39 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:15:48 2001] Larsot tells the guild, 'he went straight foe the casters and wiped them all out before tanks even could hit him'
+[Sat Aug 11 05:16:11 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:16:11 2001] You say to your guild, 'your casters were sitting? any of them?'
+[Sat Aug 11 05:16:18 2001] Larsot tells the guild, 'nope'
+[Sat Aug 11 05:16:23 2001] You say to your guild, 'tanks were?'
+[Sat Aug 11 05:16:38 2001] Larsot tells the guild, 'I had them standing underwater in the tunnel'
+[Sat Aug 11 05:16:43 2001] Espranza saved.
+[Sat Aug 11 05:16:45 2001] Larsot tells the guild, 'nobody was sitting'
+[Sat Aug 11 05:16:52 2001] You say to your guild, 'tanks should have been sitting'
+[Sat Aug 11 05:17:03 2001] You say to your guild, 'Fay would go straight to them then'
+[Sat Aug 11 05:17:05 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Aug 11 05:17:06 2001] USER TEXT: I would like to request a marriage
+[Sat Aug 11 05:17:06 2001] Players in EverQuest:
+[Sat Aug 11 05:17:06 2001] ---------------------------
+[Sat Aug 11 05:17:06 2001] [20 Monk] Souliwarr (Human) ZONE: warrens (USER PID GVKSKS5)
+[Sat Aug 11 05:17:06 2001] There is 1 player in EverQuest.
+[Sat Aug 11 05:17:09 2001] Larsot tells the guild, 'good idea'
+[Sat Aug 11 05:17:27 2001] You say to your guild, 'that's what we did - unfortunately our main tank died and the others not long after'
+[Sat Aug 11 05:17:33 2001] Luvi says out of character, 'can anyone rez me at the zone please?'
+[Sat Aug 11 05:17:37 2001] You say to your guild, 'had him pretty far down, too'
+[Sat Aug 11 05:18:07 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:18:09 2001] Larsot tells the guild, 'wow, we only got him down 1/4 health before we all died...then he was bugged and didnt leave the oasis for 8 hours  :('
+[Sat Aug 11 05:18:19 2001] You told Souliwarr, 'Hail, Souliwarr! Guide Espranza here. When and where would you like your marriage to be?'
+[Sat Aug 11 05:18:19 2001] spectral caller begins to cast a spell. (Spirit of Wolf)
+[Sat Aug 11 05:18:39 2001] You say to your guild, 'well, because your tanks didn't get aggro...'
+[Sat Aug 11 05:18:43 2001] spectral caller begins to cast a spell. (Spirit of Wolf)
+[Sat Aug 11 05:18:51 2001] You say to your guild, 'I went back and trained Fay to the inn to kill him'
+[Sat Aug 11 05:18:58 2001] You say to your guild, 'ate a second death for that'
+[Sat Aug 11 05:18:59 2001] Souliwarr tells you, 'In unrest at 8:00 PM Est time'
+[Sat Aug 11 05:19:05 2001]  (Verses of Victory)
+[Sat Aug 11 05:19:07 2001] You told Souliwarr, 'today?'
+[Sat Aug 11 05:19:08 2001] spectral caller begins to cast a spell. (Inner Fire)
+[Sat Aug 11 05:19:08 2001] spectral curate begins to cast a spell. (Valor)
+[Sat Aug 11 05:19:08 2001]  (Selo`s Accelerando)
+[Sat Aug 11 05:19:11 2001] Larsot tells the guild, 'aye, but he supposed to swim away after 2 hours to get killed by Iksar Master'
+[Sat Aug 11 05:19:11 2001] spectral curate begins to cast a spell. (Smite)
+[Sat Aug 11 05:19:16 2001] Souliwarr tells you, 'oh No on Friday'
+[Sat Aug 11 05:19:17 2001] You say to your guild, 'no, not triggered'
+[Sat Aug 11 05:19:21 2001] Misao says out of character, 'inc spectral curate'
+[Sat Aug 11 05:19:35 2001] Larsot tells the guild, 'really, i thought both versions did that'
+[Sat Aug 11 05:19:36 2001] spectral caller begins to cast a spell. (Spirit of Wolf)
+[Sat Aug 11 05:19:39 2001]  (Largo`s Absonant Binding)
+[Sat Aug 11 05:19:42 2001] You say to your guild, 'nope. just the real one.'
+[Sat Aug 11 05:19:44 2001] spectral caller begins to cast a spell. (Spirit of Wolf)
+[Sat Aug 11 05:19:57 2001] You told Souliwarr, 'A week from yesterday, then?'
+[Sat Aug 11 05:20:17 2001] Souliwarr tells you, 'No I mean in 2 days LOL Sunday'
+[Sat Aug 11 05:20:19 2001] Larsot tells the guild, 'sigh  :('
+[Sat Aug 11 05:20:24 2001] spectral caller begins to cast a spell. (Inner Fire)
+[Sat Aug 11 05:20:24 2001] spectral curate begins to cast a spell. (Valor)
+[Sat Aug 11 05:20:28 2001] You told Souliwarr, 'heh :) okay!'
+[Sat Aug 11 05:20:35 2001] Souliwarr tells you, '=) Thanks'
+[Sat Aug 11 05:21:00 2001] spectral caller begins to cast a spell. (Spirit Strike)
+[Sat Aug 11 05:21:08 2001] You told Souliwarr, 'we can't guarantee a guide will be able to perform the service, it may be too busy. So you should have a player cleric standing by in case we cannot do it. We should be able to change last names though.'
+[Sat Aug 11 05:21:09 2001] Misao says out of character, 'inc a drolvarg sentry'
+[Sat Aug 11 05:21:25 2001] You told Souliwarr, 'Who are you marrying?'
+[Sat Aug 11 05:21:42 2001] Souliwarr tells you, 'Guiardianstorm'
+[Sat Aug 11 05:21:50 2001] You told Souliwarr, 'okay!'
+[Sat Aug 11 05:21:57 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:22:00 2001] Souliwarr tells you, '=)'
+[Sat Aug 11 05:22:23 2001] You GMSAY, '<note wedding> Marriage of Souliwarr to Guiardianstorm, Sunday, 5:00pm PDT, in Unrest.'
+[Sat Aug 11 05:22:28 2001] You feel the spirit of Norrath enter you.
+[Sat Aug 11 05:22:28 2001] Your feet leave the ground.
+[Sat Aug 11 05:22:28 2001] caller of Sathir begins to cast a spell. (Inner Fire)
+[Sat Aug 11 05:22:29 2001] spectral caller begins to cast a spell. (Quickness)
+[Sat Aug 11 05:22:31 2001] You feel the spirit of Z surround you.
+[Sat Aug 11 05:22:32 2001] DELETING THIS PETITION
+[Sat Aug 11 05:22:41 2001] Solat shouts, '48 Paladin LFG'
+[Sat Aug 11 05:22:49 2001] spectral curate begins to cast a spell. (Valor)
+[Sat Aug 11 05:22:49 2001] You say to your guild, 'did you have good resist gear?'
+[Sat Aug 11 05:23:11 2001]  (Cantata of Replenishment)
+[Sat Aug 11 05:23:17 2001] You opened the locked door with your magic GM key.
+[Sat Aug 11 05:23:23 2001] Larsot tells the guild, 'aye'
+[Sat Aug 11 05:23:35 2001] Your feet leave the ground.
+[Sat Aug 11 05:23:35 2001] Your feet leave the ground.
+[Sat Aug 11 05:23:36 2001] Your feet leave the ground.
+[Sat Aug 11 05:23:36 2001] Your feet leave the ground.
+[Sat Aug 11 05:23:37 2001] Your feet leave the ground.
+[Sat Aug 11 05:23:37 2001] Your feet leave the ground.
+[Sat Aug 11 05:23:38 2001] Your feet leave the ground.
+[Sat Aug 11 05:23:58 2001] Players in EverQuest:
+[Sat Aug 11 05:23:58 2001] ---------------------------
+[Sat Aug 11 05:23:58 2001] [53 Cavalier] Cputamer (Dwarf) <Unbroken Power> ZONE: velketor (USER PID CZFV46U)
+[Sat Aug 11 05:23:58 2001] [55 Conjurer] Mikami (High Elf) <Brothers> ZONE: velketor (USER PID HVQCJ7N)
+[Sat Aug 11 05:23:58 2001] [ANON (55 Templar)] Enrudaru (Dwarf) ZONE: velketor (USER PID GVBUEMW)
+[Sat Aug 11 05:23:58 2001] [59 Outrider] Zelon (Half Elf) <Royal Jesters> ZONE: velketor (USER PID DP60LFT)
+[Sat Aug 11 05:23:58 2001] [ANON (56 Templar)] Cincin (Human) ZONE: velketor (USER PID EPXWNBW)
+[Sat Aug 11 05:23:58 2001] [52 Pathfinder] Thabit (Wood Elf) <Legions of Valhalla> ZONE: velketor (USER PID ATK0DSU)
+[Sat Aug 11 05:23:58 2001] [51 Reaver] Ebonez (Human) <Unbroken Power> ZONE: velketor (USER PID FSTA0HA)
+[Sat Aug 11 05:23:58 2001] [57 Templar] Namolla (Dark Elf) <Brothers> ZONE: velketor (USER PID DWZZ4LZ)
+[Sat Aug 11 05:23:58 2001] [51 Cavalier] Mwells (Half Elf) ZONE: velketor (USER PID DSBLEX1)
+[Sat Aug 11 05:23:58 2001] [54 Champion] Cannbinol (Troll) <Improbus Odium> ZONE: velketor (USER PID DU2KVU3)
+[Sat Aug 11 05:23:58 2001] [55 Beguiler] Kaymar (Erudite) <Random Acts> ZONE: velketor (USER PID APLYCP0)
+[Sat Aug 11 05:23:58 2001] [ANON (47 Cleric)] Kanter (Dark Elf) ZONE: velketor (USER PID DWWCQ77)
+[Sat Aug 11 05:23:58 2001] [ANON (52 Wanderer)] Strana (Wood Elf) ZONE: velketor (USER PID BPKG9F6)
+[Sat Aug 11 05:23:58 2001] [ANON (52 Elementalist)] Surara (High Elf) ZONE: velketor (USER PID DW5DLQZ)
+[Sat Aug 11 05:23:58 2001] [58 Blackguard] Lazuel (Dark Elf) <Royal Jesters> ZONE: velketor (USER PID FYFMT56)
+[Sat Aug 11 05:23:58 2001] [54 Elementalist] Fikten (Gnome) <Exiled Elite> ZONE: velketor (USER PID HW9B6XQ)
+[Sat Aug 11 05:23:58 2001] [55 Evoker] Alhazred (Erudite) <Magic Incorporated> ZONE: velketor (USER PID FSUQLM1)
+[Sat Aug 11 05:23:58 2001] [51 Heretic] Swalou (Dark Elf) <Royal Jesters> ZONE: velketor (USER PID HXAFSM6)
+[Sat Aug 11 05:23:58 2001] [51 Minstrel] Nardi (Half Elf) <Royal Jesters> ZONE: velketor (USER PID BUWKA9B)
+[Sat Aug 11 05:23:58 2001] There are 19 players in EverQuest.
+[Sat Aug 11 05:24:05 2001] You GMSAY, 'zone'
+[Sat Aug 11 05:24:13 2001] LOADING, PLEASE WAIT...
+[Sat Aug 11 05:24:47 2001] You have entered Cobaltscar.
+[Sat Aug 11 05:25:00 2001] Your feet leave the ground.
+[Sat Aug 11 05:25:02 2001] Players on EverQuest:
+[Sat Aug 11 05:25:02 2001] ---------------------------
+[Sat Aug 11 05:25:02 2001] [ANONYMOUS] Gradiant  <Thunderwalkers>
+[Sat Aug 11 05:25:02 2001] [58 Master] Draiguisge (Iksar) <Thunderwalkers>
+[Sat Aug 11 05:25:02 2001] [52 Mystic] Bluudson (Barbarian)
+[Sat Aug 11 05:25:02 2001] [ANONYMOUS] Dromedary  <Knights of Arcane Lore>
+[Sat Aug 11 05:25:02 2001] [56 Evoker] Calelin (Human) <Legions of Valhalla>
+[Sat Aug 11 05:25:02 2001] [59 Defiler] Varscorn (Iksar) <Heroic Few>
+[Sat Aug 11 05:25:02 2001] [49 Wizard] Axana (Human) <L'envol du Phoenix>
+[Sat Aug 11 05:25:02 2001] [ANONYMOUS] Robo  <Royal Jesters>
+[Sat Aug 11 05:25:02 2001] [56 Evoker] Madangbal (High Elf) <Royal Jesters>
+[Sat Aug 11 05:25:02 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sat Aug 11 05:25:02 2001] There are 10 players in Cobalt Scar.
+[Sat Aug 11 05:25:10 2001] Varscorn auctions, 'WTB Teleport or TL to West Commons'
+[Sat Aug 11 05:25:14 2001] You say to your guild, 'what guild name did you vote for?'
+[Sat Aug 11 05:25:20 2001] You think you are heading NorthWest.
+[Sat Aug 11 05:25:23 2001] You think you are heading West.
+[Sat Aug 11 05:25:45 2001] Larsot tells the guild, 'Morell Justice, it was my idea  :P'
+[Sat Aug 11 05:25:51 2001] You say to your guild, 'oh :)'
+[Sat Aug 11 05:25:59 2001] You say to your guild, 'lot of people liked that one'
+[Sat Aug 11 05:26:07 2001] a siren enticer begins to cast a spell. (Feedback)
+[Sat Aug 11 05:26:07 2001] a siren enticer begins to cast a spell. (Feedback)
+[Sat Aug 11 05:26:07 2001] a siren enticer begins to cast a spell. (Feedback)
+[Sat Aug 11 05:26:27 2001] You GMSAY, 'zone'
+[Sat Aug 11 05:26:31 2001] LOADING, PLEASE WAIT...
+[Sat Aug 11 05:26:56 2001] You have entered Siren's Grotto.
+[Sat Aug 11 05:26:57 2001] Larsot GMSAYS, '~~ZONE~~'
+[Sat Aug 11 05:27:02 2001] Players on EverQuest:
+[Sat Aug 11 05:27:02 2001] ---------------------------
+[Sat Aug 11 05:27:02 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sat Aug 11 05:27:02 2001] There is 1 player in Siren's Grotto.
+[Sat Aug 11 05:27:24 2001] a servant manatee regards you indifferently -- it appears to be quite formidable.
+[Sat Aug 11 05:27:37 2001] Players in EverQuest:
+[Sat Aug 11 05:27:37 2001] ---------------------------
+[Sat Aug 11 05:27:37 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: sirens (USER PID AUGBQH4)
+[Sat Aug 11 05:27:37 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Morell Thule> ZONE: cshome (USER PID GUGBHE6)
+[Sat Aug 11 05:27:37 2001] There are 2 players in EverQuest.
+[Sat Aug 11 05:27:56 2001] You have become better at Swimming! (123)
+[Sat Aug 11 05:30:22 2001] an icy servant begins to cast a spell. (FrostElementalAura)
+[Sat Aug 11 05:31:52 2001] a watery servant scowls at you, ready to attack -- it appears to be quite formidable.
+[Sat Aug 11 05:31:55 2001] a neriad maiden regards you indifferently -- it appears to be quite formidable.
+[Sat Aug 11 05:32:17 2001] Larsot GMSAYS, '<note issue> Gave Galacktik (DYM3NUY) GM Res for under world death'
+[Sat Aug 11 05:32:21 2001] You have become better at Swimming! (124)
+[Sat Aug 11 05:32:52 2001] It is 7 PM on Saturday, the 21st day of October, of the year 3211.
+[Sat Aug 11 05:32:52 2001] Earth Time: Sat Aug 11 05:32:52 2001
+[Sat Aug 11 05:32:58 2001] You GMSAY, 'well, I'm off, then'
+[Sat Aug 11 05:33:05 2001] You GMSAY, 'see you soon!'
+[Sat Aug 11 05:33:09 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Aug 11 05:33:12 2001] Larsot GMSAYS, 'aye, me too in about 10 minutes'
+[Sat Aug 11 05:33:13 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Aug 11 05:33:18 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Aug 11 05:33:18 2001] Larsot GMSAYS, 'see you later  :)'
+[Sat Aug 11 05:33:23 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Aug 11 05:33:28 2001] It will take about 10 more seconds to prepare your camp.
+[Sat Aug 11 05:33:33 2001] It will take about 5 more seconds to prepare your camp.

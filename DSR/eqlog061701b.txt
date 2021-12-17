@@ -1,0 +1,672 @@
+[Sun Jun 17 21:53:30 2001] Logging to 'eqlog.txt' is now *ON*.
+[Sun Jun 17 21:53:33 2001] Players in EverQuest:
+[Sun Jun 17 21:53:33 2001] ---------------------------
+[Sun Jun 17 21:53:33 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jun 17 21:53:33 2001] * Guide *[ANON (25 Shadow Knight)] Scarbrood (Troll) ZONE: lakeofillomen (USER PID AUGCJVW)
+[Sun Jun 17 21:53:33 2001] * Guide *[ANON (25 Shadow Knight)] Scaletail (Troll) ZONE: lakeofillomen (USER PID GUGCBSY)
+[Sun Jun 17 21:53:33 2001] * Apprentice Guide *[20 Shadow Knight] Devynn (Dark Elf) ZONE: dreadlands (USER PID AQK2PHH)
+[Sun Jun 17 21:53:33 2001] There are 4 players in EverQuest.
+[Sun Jun 17 21:53:33 2001] Scaletail GMSAYS, 'Heya'
+[Sun Jun 17 21:53:37 2001] Devynn GMSAYS, 'Greets'
+[Sun Jun 17 21:53:38 2001] Scarbrood GMSAYS, 'hiyas'
+[Sun Jun 17 21:53:48 2001] You GMSAY, 'oh hey - a raid'
+[Sun Jun 17 21:53:58 2001] Scaletail GMSAYS, 'Damn... he LoH'
+[Sun Jun 17 21:53:59 2001] You GMSAY, 'am I too late or am I taking queue'
+[Sun Jun 17 21:54:14 2001] You GMSAY, 'answers that )'
+[Sun Jun 17 21:54:33 2001] You GMSAY, 'Devynn, who are you with?'
+[Sun Jun 17 21:54:36 2001] Players in EverQuest:
+[Sun Jun 17 21:54:36 2001] ---------------------------
+[Sun Jun 17 21:54:36 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jun 17 21:54:36 2001] * Guide *[ANON (25 Shadow Knight)] Scarbrood (Troll) ZONE: lakeofillomen (USER PID AUGCJVW)
+[Sun Jun 17 21:54:36 2001] * Guide *[ANON (25 Shadow Knight)] Scaletail (Troll) ZONE: lakeofillomen (USER PID GUGCBSY)
+[Sun Jun 17 21:54:36 2001] * Apprentice Guide *[20 Shadow Knight] Devynn (Dark Elf) ZONE: dreadlands (USER PID AQK2PHH)
+[Sun Jun 17 21:54:36 2001] There are 4 players in EverQuest.
+[Sun Jun 17 21:54:56 2001] Devynn GMSAYS, 'I'm fixing to head out for the night'
+[Sun Jun 17 21:55:00 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 21:55:01 2001] USER TEXT: hello there i got a GM res done in DL earlier but when i zoned in there was no GM.My xp is back but my body is still gone.I've petitioned for hours today and no help,thanks in advance )
+[Sun Jun 17 21:55:01 2001] Players in EverQuest:
+[Sun Jun 17 21:55:01 2001] ---------------------------
+[Sun Jun 17 21:55:01 2001] [ANON (36 Wizard)] Fujitsu (Human) ZONE: ecommons (USER PID FT1WAG3)
+[Sun Jun 17 21:55:01 2001] There is 1 player in EverQuest.
+[Sun Jun 17 21:55:02 2001] Devynn GMSAYS, 'I'm on my own right now tho'
+[Sun Jun 17 21:55:08 2001] Devynn GMSAYS, 'just finishing up this petition'
+[Sun Jun 17 21:55:50 2001] You GMSAY, '<note badname> Fujitsu FT1WAG3'
+[Sun Jun 17 21:56:01 2001] Searching zones for corpse of that name....
+[Sun Jun 17 21:56:01 2001] Corpse: Fujitsu's corpse0 in zone: dreadlands
+[Sun Jun 17 21:56:06 2001] You GMSAY, 'zone'
+[Sun Jun 17 21:56:12 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 21:56:55 2001] You have entered Dreadlands.
+[Sun Jun 17 21:57:01 2001] Screams says out of character, 'donating for a 90+rez at larnors zone-will supply the mana for the rez'
+[Sun Jun 17 21:57:05 2001] Scarbrood GMSAYS, 'They Killed me!!!'
+[Sun Jun 17 21:57:16 2001] Teleporting to Fujitsu's corpse0.
+[Sun Jun 17 21:57:26 2001] Searching zones for corpse of that name....
+[Sun Jun 17 21:57:35 2001] Devynn GMSAYS, 'Escing Treborc to red, needs GM to probably verify Semperfidelis is stuck in game or asleep and /kick him'
+[Sun Jun 17 21:57:42 2001] Sparafacile says out of character, 'looking for tp to CS for CR pls'
+[Sun Jun 17 21:57:42 2001] Corpse: Fujitsu's corpse0 in zone: dreadlands
+[Sun Jun 17 21:57:50 2001] Flix says out of character, 'i would spar but am a lowly mage :('
+[Sun Jun 17 21:57:51 2001] Devynn GMSAYS, 'Ok, nite all, nice meeting you Espranza, briefly as it may have been'
+[Sun Jun 17 21:57:55 2001] Sparafacile says out of character, 'is ok thanks flix'
+[Sun Jun 17 21:57:55 2001] Scarbrood GMSAYS, 'night Devynn'
+[Sun Jun 17 21:57:58 2001] Sparafacile says out of character, '/sad'
+[Sun Jun 17 21:58:12 2001] Sparafacile says out of character, 'was about to ding and dead twice now /sigh'
+[Sun Jun 17 21:58:13 2001] You told Fujitsu, 'Hail, Fujitsu! Guide Espranza here. Did you get your rez?'
+[Sun Jun 17 21:58:17 2001] Devynn GMSAYS, 'heh, 11 hours 45 mins of guiding since Frday'
+[Sun Jun 17 21:58:30 2001] Roselyne says out of character, 'oof sorry to hear that spar'
+[Sun Jun 17 21:58:36 2001] Fujitsu tells you, 'sure did but no body,lol'
+[Sun Jun 17 21:58:40 2001] Fonnan says out of character, 'ill tp you to GD but im not tping to CS last 2 ports there i died when zoning in due to the drakes huge agro range'
+[Sun Jun 17 21:58:40 2001] Sparafacile says out of character, 'looking for tp to CS for CR Please'
+[Sun Jun 17 21:58:40 2001] Scarbrood GMSAYS, 'heh thats it?'
+[Sun Jun 17 21:58:52 2001] Sarnak Mystic GMSAYS, 'ack they got me!'
+[Sun Jun 17 21:58:52 2001] Raznar the Angry GMSAYS, 'sec'
+[Sun Jun 17 21:58:53 2001] Raznar the Angry GMSAYS, 'we will go again'
+[Sun Jun 17 21:58:53 2001] Sparafacile says out of character, 'camo works btw'
+[Sun Jun 17 21:58:55 2001] Summoning fujitsu.
+[Sun Jun 17 21:58:58 2001] You told Fujitsu, 'okay here you go'
+[Sun Jun 17 21:59:17 2001] Methodus says out of character, 'have someone invis you while your casting'
+[Sun Jun 17 21:59:19 2001] Fonnan says out of character, 'really i cast my tp therefore i cant enivs when tping\'
+[Sun Jun 17 21:59:40 2001] Fonnan says out of character, 'still doesnt work'
+[Sun Jun 17 21:59:41 2001] Wenorm says out of character, 'lvl 41 warrior LFG'
+[Sun Jun 17 21:59:41 2001] Sarnak Mystic GMSAYS, 'Thanks for letting me tag along Lirus. I love sarnaks, so I'm always game for any sarnak quests!'
+[Sun Jun 17 21:59:41 2001] Flix says out of character, 'you have to have sombody else cast invs on you'
+[Sun Jun 17 21:59:44 2001] Methodus says out of character, 'ive done it'
+[Sun Jun 17 21:59:54 2001] You point at Fujitsu. Yeah you!
+[Sun Jun 17 21:59:56 2001] Birdru shouts, 'Ruins group looking for healer type - please send tells'
+[Sun Jun 17 21:59:58 2001] Fujitsu kneels before Espranza in humility and reverence.
+[Sun Jun 17 22:00:00 2001] DELETING THIS PETITION
+[Sun Jun 17 22:00:03 2001] You bow before Fujitsu.
+[Sun Jun 17 22:00:04 2001] Fujitsu tells you, 'thank u so much'
+[Sun Jun 17 22:00:05 2001] Balvaras shouts, '44 Bard LFG'
+[Sun Jun 17 22:00:07 2001] You GMSAY, 'zone'
+[Sun Jun 17 22:00:10 2001] You told Fujitsu, 'anytime'
+[Sun Jun 17 22:00:12 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 22:00:34 2001] You have entered Sunset Home.
+[Sun Jun 17 22:01:24 2001] You GMSAY, '<note badname> Templerknight EWT6QQJ'
+[Sun Jun 17 22:01:31 2001] Scarbrood waves at Espranza.
+[Sun Jun 17 22:01:39 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 22:01:39 2001] USER TEXT: while enchanting a bar of platnum I got lagged and the bar I was enchanting disapeared when lag was over
+[Sun Jun 17 22:01:40 2001] Players in EverQuest:
+[Sun Jun 17 22:01:40 2001] ---------------------------
+[Sun Jun 17 22:01:40 2001] [47 Enchanter] Utalin (Dark Elf) <Hall of Heroes> ZONE: ecommons (USER PID HXTVMZL)
+[Sun Jun 17 22:01:40 2001] There is 1 player in EverQuest.
+[Sun Jun 17 22:02:05 2001] You told Utalin, 'Hail, Utalin! Guide Espranza here. The bar is definitely nowhere in your inventory?'
+[Sun Jun 17 22:02:05 2001] Utalin tells you, 'Sorry, I am A.F.K. (Away From Keyboard) right now.'
+[Sun Jun 17 22:02:25 2001] Utalin tells you, 'sorry for afk let me check one more time'
+[Sun Jun 17 22:02:43 2001] You wave at Scarbrood.
+[Sun Jun 17 22:02:45 2001] You say, 'hi ugly!'
+[Sun Jun 17 22:02:45 2001] Utalin tells you, 'no it is gone'
+[Sun Jun 17 22:02:52 2001] Utalin tells you, 'and owner is mad..'
+[Sun Jun 17 22:03:06 2001] Scarbrood says, 'Hi small one'
+[Sun Jun 17 22:03:22 2001] Players on EverQuest:
+[Sun Jun 17 22:03:22 2001] ---------------------------
+[Sun Jun 17 22:03:22 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sun Jun 17 22:03:22 2001] There is 1 player in Sunset Home.
+[Sun Jun 17 22:03:27 2001] You say, 'lag....'
+[Sun Jun 17 22:03:47 2001] Utalin tells you, 'thinks I ganking her..'
+[Sun Jun 17 22:04:13 2001] You told Utalin, 'yeah, no doubt'
+[Sun Jun 17 22:04:38 2001] Utalin tells you, 'it was a pretty long lagg.. about 8 secs'
+[Sun Jun 17 22:04:38 2001] Scarbrood says, 'Yeah'
+[Sun Jun 17 22:04:38 2001] You told Utalin, 'weren't you grouped?'
+[Sun Jun 17 22:04:38 2001] Utalin tells you, 'it didn't drop either, cause I'm playing my buds char and wright next to him and didn't see anything drop'
+[Sun Jun 17 22:04:40 2001] Utalin tells you, 'that's who I'm grouped with ...'
+[Sun Jun 17 22:04:40 2001] Utalin tells you, 'myself..'
+[Sun Jun 17 22:04:51 2001] Utalin tells you, 'not on other group member either..'
+[Sun Jun 17 22:05:36 2001] You told Utalin, 'well, there is nothing I can do about it. If you would like to petition the GM about it, you can petition him tomorrow between the hours of four and 11pm Pacific time... he might be able to check the logs and see what happened.'
+[Sun Jun 17 22:05:42 2001] Utalin tells you, 'do you have like a log or something that logs all that stuff?'
+[Sun Jun 17 22:05:55 2001] Utalin tells you, 'ok.. '
+[Sun Jun 17 22:06:10 2001] You told Utalin, 'I think there is a log, but only GMs can look at it.'
+[Sun Jun 17 22:06:16 2001] You say, 'sorry petitions'
+[Sun Jun 17 22:06:19 2001] DELETING THIS PETITION
+[Sun Jun 17 22:06:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 22:06:22 2001] USER TEXT: died twice can't see my first body,others can
+[Sun Jun 17 22:06:22 2001] Players in EverQuest:
+[Sun Jun 17 22:06:22 2001] ---------------------------
+[Sun Jun 17 22:06:22 2001] [ANON (30 Druid)] Templerknight (Halfling) ZONE: warslikswood (USER PID EWT6QQJ)
+[Sun Jun 17 22:06:22 2001] There is 1 player in EverQuest.
+[Sun Jun 17 22:06:24 2001] Utalin tells you, 'hehe figures.. LOL thanks'
+[Sun Jun 17 22:06:38 2001] You told Utalin, 'be well!'
+[Sun Jun 17 22:06:39 2001] Scarbrood says, 'heh'
+[Sun Jun 17 22:07:37 2001] You told Templerknight, 'Hail, Templerknight! Guide Espranza here. Try logging out and back in again - all the way to the desktop. That often helps.'
+[Sun Jun 17 22:08:00 2001] Templerknight tells you, 'yes  i did that    right to desk top'
+[Sun Jun 17 22:08:16 2001] Utalin tells you, 'btw I was in the middle of casting enchant pp when I lagged maybe that's why it dropped.. or whatever it did'
+[Sun Jun 17 22:08:18 2001] You told Templerknight, 'ah okay, let me have a look.'
+[Sun Jun 17 22:08:40 2001] You told Utalin, 'I don't know... I don't see why it would have dropped.'
+[Sun Jun 17 22:09:16 2001] Searching zones for corpse of that name....
+[Sun Jun 17 22:09:25 2001] Corpse: Templerknight's corpse0 in zone: dalnir
+[Sun Jun 17 22:09:31 2001] You GMSAY, 'zone'
+[Sun Jun 17 22:09:38 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 22:10:47 2001] You have entered Dalnir.
+[Sun Jun 17 22:10:58 2001] Akaver says, 'Hail Espranza'
+[Sun Jun 17 22:11:05 2001] Teleporting to templerknight's corpse0.
+[Sun Jun 17 22:11:17 2001] You told Akaver, 'hi!'
+[Sun Jun 17 22:11:20 2001] Fresheez tells you, 'What can you do If a guy gets stuck in a glitch and dies?'
+[Sun Jun 17 22:11:20 2001] a kly believer begins to cast a spell. (Inner Fire)
+[Sun Jun 17 22:11:28 2001] Summoning Templerknight's corpse0.
+[Sun Jun 17 22:11:39 2001] a kly acolyte begins to cast a spell. (Inner Fire)
+[Sun Jun 17 22:11:39 2001] a kly believer begins to cast a spell. (Inner Fire)
+[Sun Jun 17 22:11:42 2001] a coerced erudite begins to cast a spell. (Banshee Aura)
+[Sun Jun 17 22:11:47 2001] You told Fresheez, 'If I can verify it, I can rez. If not, I cannot.'
+[Sun Jun 17 22:11:53 2001] a kly invoker begins to cast a spell. (O'Keils Radiation)
+[Sun Jun 17 22:11:53 2001] Summoning Templerknight's corpse0.
+[Sun Jun 17 22:12:00 2001] Fresheez tells you, 'Can you verify something like that?'
+[Sun Jun 17 22:12:01 2001] a coerced tier`dal begins to cast a spell. (Banshee Aura)
+[Sun Jun 17 22:12:05 2001] a coerced dwarf begins to cast a spell. (Bravery)
+[Sun Jun 17 22:12:05 2001] a kly invoker begins to cast a spell. (O'Keils Radiation)
+[Sun Jun 17 22:12:12 2001] You told Templerknight, 'Hail, Templerknight! Pulled your body from the wall in which it was stuck.'
+[Sun Jun 17 22:12:14 2001] Fresheez tells you, 'Like my position of death or something?'
+[Sun Jun 17 22:12:17 2001] a coerced dwarf begins to cast a spell. (Bravery)
+[Sun Jun 17 22:12:17 2001] a kly invoker begins to cast a spell. (O'Keils Radiation)
+[Sun Jun 17 22:12:29 2001] a kly invoker begins to cast a spell. (O'Keils Radiation)
+[Sun Jun 17 22:12:40 2001] You told Fresheez, 'sometimes. please petition with all the details and I'll see what I can do.'
+[Sun Jun 17 22:12:41 2001] a kly invoker begins to cast a spell. (O'Keils Radiation)
+[Sun Jun 17 22:12:43 2001] DELETING THIS PETITION
+[Sun Jun 17 22:12:48 2001] You told Fresheez, 'nm I see it'
+[Sun Jun 17 22:12:52 2001] Fresheez tells you, 'I will wait my turn, just wanted to know before I waited..ya know?'
+[Sun Jun 17 22:13:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 22:13:55 2001] USER TEXT: I just got stuck in the ceiling in paw and died...anything you can do?
+[Sun Jun 17 22:13:55 2001] Players in EverQuest:
+[Sun Jun 17 22:13:55 2001] ---------------------------
+[Sun Jun 17 22:13:55 2001] [36 Ranger] Fresheez (Human) <Clan StarDragon> ZONE: paw (USER PID CVY3PDH)
+[Sun Jun 17 22:13:56 2001] There is 1 player in EverQuest.
+[Sun Jun 17 22:14:13 2001] You told Fresheez, 'Hail, Fresheez! Guide Espranza here :) let me go have a look.'
+[Sun Jun 17 22:14:15 2001] You GMSAY, 'zone'
+[Sun Jun 17 22:14:26 2001] Searching zones for corpse of that name....
+[Sun Jun 17 22:14:27 2001] Templerknight says, 'thank you'
+[Sun Jun 17 22:14:32 2001] Corpse: Fresheez's corpse1 in zone: paw
+[Sun Jun 17 22:14:35 2001] You beam a smile at Templerknight.
+[Sun Jun 17 22:14:36 2001] an iksar prisoner begins to cast a spell. (Grim Aura)
+[Sun Jun 17 22:14:37 2001] Fresheez tells you, 'Cool Thanks bro..I cant even see my body..lucky I know where it is'
+[Sun Jun 17 22:14:38 2001] An iksar prisoner's hand is covered with a dull aura.
+[Sun Jun 17 22:14:41 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 22:15:39 2001] You have entered Lair of the Splitpaw.
+[Sun Jun 17 22:16:06 2001] Teleporting to fresheez's corpse0.
+[Sun Jun 17 22:16:36 2001] Teleporting to fresheez's corpse0.
+[Sun Jun 17 22:16:40 2001] Summoning Fresheez's corpse0.
+[Sun Jun 17 22:17:03 2001] Conquestedor says, 'hello my queen'
+[Sun Jun 17 22:17:06 2001] Conquestedor kneels before Espranza in humility and reverence.
+[Sun Jun 17 22:17:12 2001] A Lteth Mas Gnoll was pierced by thorns.
+[Sun Jun 17 22:17:13 2001] A Tesch Mas Gnoll was pierced by thorns.
+[Sun Jun 17 22:17:14 2001] You beam a smile at Conquestedor.
+[Sun Jun 17 22:17:15 2001] A Lteth Mas Gnoll was pierced by thorns.
+[Sun Jun 17 22:17:16 2001] A Tesch Mas Gnoll was pierced by thorns.
+[Sun Jun 17 22:17:19 2001] A Tesch Mas Gnoll was pierced by thorns.
+[Sun Jun 17 22:17:21 2001] A Lteth Mas Gnoll was pierced by thorns.
+[Sun Jun 17 22:17:21 2001] Teleporting to fresheez's corpse1.
+[Sun Jun 17 22:17:21 2001] A Lteth Mas Gnoll was pierced by thorns.
+[Sun Jun 17 22:17:39 2001] You told Fresheez, 'okay, looks like you were stuck on a rock'
+[Sun Jun 17 22:17:42 2001] Qartum begins to cast a spell. (Healing)
+[Sun Jun 17 22:17:43 2001] Fresheez tells you, 'yep...'
+[Sun Jun 17 22:17:44 2001] Fonnan tells you, 'hi i have a question can you answer it plz'
+[Sun Jun 17 22:17:45 2001] You told Fresheez, 'the second time anyway'
+[Sun Jun 17 22:17:50 2001] Fresheez tells you, 'Couldnt move'
+[Sun Jun 17 22:17:52 2001] Kastorr begins to cast a spell. (Gate)
+[Sun Jun 17 22:17:53 2001] Fresheez tells you, 'hehe'
+[Sun Jun 17 22:18:11 2001] You told Fresheez, 'so, you get one free rez. the other one, I can't do anything about.'
+[Sun Jun 17 22:18:17 2001] Summoning Fresheez's corpse1.
+[Sun Jun 17 22:18:20 2001] Fresheez tells you, 'No problem...I'll deal with it'
+[Sun Jun 17 22:18:25 2001] You told Fresheez, 'ready?'
+[Sun Jun 17 22:18:27 2001] Fresheez tells you, 'yep'
+[Sun Jun 17 22:18:36 2001] a Tesch Mas Gnoll says '<BBAAaaaarrrkkk!!> This is our home now!  Begone, or the legions of TornEar shall slay you all! 
+[Sun Jun 17 22:18:36 2001] a Tesch Mas Gnoll says 'Filthy Humans like you must die!'
+[Sun Jun 17 22:18:36 2001] a Tesch Mas Gnoll says '<BBAAaaaarrrkkk!!> This is our home now!  Begone, or the legions of TornEar shall slay you all! 
+[Sun Jun 17 22:18:36 2001] a Tesch Mas Gnoll says 'Filthy Humans like you must die!'
+[Sun Jun 17 22:18:41 2001] Fresheez tells you, 'Thanks'
+[Sun Jun 17 22:19:01 2001] You told Fresheez, 'anytime'
+[Sun Jun 17 22:19:04 2001] DELETING THIS PETITION
+[Sun Jun 17 22:19:07 2001] You GMSAY, 'zone'
+[Sun Jun 17 22:19:10 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 22:19:31 2001] You have entered Sunset Home.
+[Sun Jun 17 22:19:40 2001] Fresheez tells you, 'I sure appreciate it...It really would have hurt if you couldnt verify it)'
+[Sun Jun 17 22:20:00 2001] You told Fresheez, 'oh, that one I've seen'
+[Sun Jun 17 22:20:16 2001] The spirit leaves you.
+[Sun Jun 17 22:20:41 2001] You told Fresheez, 'we do try to help whenever we possibly can :) it feels good!'
+[Sun Jun 17 22:20:45 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 22:20:46 2001] USER TEXT: hail game masters. me and my compainions are on a journey to lvl 60 and we have run low on ale and many are starving . we wish to call apone thee for gnome cookies and dwarvish ale
+[Sun Jun 17 22:20:46 2001] Players in EverQuest:
+[Sun Jun 17 22:20:46 2001] ---------------------------
+[Sun Jun 17 22:20:46 2001] [59 Evoker] Dolcemorte (Erudite) <Thunderwalkers> ZONE: charasis (USER PID FQL6SPS)
+[Sun Jun 17 22:20:46 2001] There is 1 player in EverQuest.
+[Sun Jun 17 22:20:54 2001] Fresheez tells you, 'In this penalty level...I'm glad you could)'
+[Sun Jun 17 22:21:03 2001] You feel the spirit of Norrath enter you.
+[Sun Jun 17 22:21:04 2001] Your feet leave the ground.
+[Sun Jun 17 22:21:20 2001] Fresheez tells you, 'I sure feel good...heh let me tell ya'
+[Sun Jun 17 22:21:26 2001] You told Fresheez, 'heh wonderful'
+[Sun Jun 17 22:21:30 2001] Fonnan tells you, 'wow thank you for all the help answering my one question'
+[Sun Jun 17 22:21:42 2001] You told Fonnan, 'Ah, I'm sorry - not ignoring you, just busy'
+[Sun Jun 17 22:21:51 2001] You told Fonnan, 'actually I started typing that before your tell'
+[Sun Jun 17 22:22:10 2001] Llara the Mysterious says 'Hello there Espranza, how about a nice Wedding Cake?'
+[Sun Jun 17 22:22:12 2001] Llara the Mysterious tells you, 'That'll be 0 money per Gnome Sandwich'.
+[Sun Jun 17 22:22:15 2001] You give 0 money to Llara the Mysterious.
+[Sun Jun 17 22:22:17 2001] Llara the Mysterious tells you, 'That'll be 0 money per Valtron's Finest Brew'.
+[Sun Jun 17 22:22:20 2001] You give 0 money to Llara the Mysterious.
+[Sun Jun 17 22:22:21 2001] You no longer have a target.
+[Sun Jun 17 22:22:21 2001] You no longer have a target.
+[Sun Jun 17 22:22:23 2001] Espranza saved.
+[Sun Jun 17 22:22:46 2001] Fonnan tells you, 'k my lvl 40 oger friend died on cazic on a raid 3 days ago i was wondering sence he hasnt been online how long it will last'
+[Sun Jun 17 22:23:09 2001] You told Fonnan, 'four more days'
+[Sun Jun 17 22:23:16 2001] Fonnan tells you, 'k thx'
+[Sun Jun 17 22:23:29 2001] You told Fonnan, 'be well!'
+[Sun Jun 17 22:23:32 2001] USER TEXT: hail game masters. me and my compainions are on a journey to lvl 60 and we have run low on ale and many are starving . we wish to call apone thee for gnome cookies and dwarvish ale
+[Sun Jun 17 22:23:33 2001] Fonnan tells you, 'you to'
+[Sun Jun 17 22:23:41 2001] Players in EverQuest:
+[Sun Jun 17 22:23:41 2001] ---------------------------
+[Sun Jun 17 22:23:41 2001] [59 Evoker] Dolcemorte (Erudite) <Thunderwalkers> ZONE: charasis (USER PID FQL6SPS)
+[Sun Jun 17 22:23:41 2001] There is 1 player in EverQuest.
+[Sun Jun 17 22:23:44 2001] You GMSAY, 'zone'
+[Sun Jun 17 22:23:47 2001] Teleporting to dolcemorte.
+[Sun Jun 17 22:23:48 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 22:24:16 2001] You have entered The Howling Stones.
+[Sun Jun 17 22:24:21 2001] Labien begins to cast a spell. (Scoriae)
+[Sun Jun 17 22:24:23 2001] Fogel begins to cast a spell. (Stun)
+[Sun Jun 17 22:24:25 2001] A bottomless devourer is stunned.
+[Sun Jun 17 22:24:25 2001] A bottomless devourer was pierced by thorns.
+[Sun Jun 17 22:24:28 2001] Dolcemorte begins to cast a spell. (Tishan's Discord)
+[Sun Jun 17 22:24:36 2001] Dolcemorte bows before Espranza.
+[Sun Jun 17 22:24:38 2001] A bottomless devourer is burnt by the wrath of the heavens.
+[Sun Jun 17 22:24:38 2001] a bottomless devourer has been slain by Fogel!
+[Sun Jun 17 22:24:40 2001] Dolcemorte says, 'hail m'
+[Sun Jun 17 22:24:41 2001] You say, 'I am renaming this guild'
+[Sun Jun 17 22:24:43 2001] Fogel emits a low rumble and then roars at Espranza.
+[Sun Jun 17 22:24:43 2001] Fyroth cheers at Espranza.
+[Sun Jun 17 22:24:46 2001] Dolcemorte says, 'heh'
+[Sun Jun 17 22:24:49 2001] You say, 'Henceforth you are "The Sleepless"'
+[Sun Jun 17 22:24:49 2001] Labien says, 'Gah!'
+[Sun Jun 17 22:24:54 2001] Fogel says, 'rofl'
+[Sun Jun 17 22:24:55 2001] Labien says, 'lol'
+[Sun Jun 17 22:24:57 2001] Fyroth says, 'lol'
+[Sun Jun 17 22:25:00 2001] DELETING THIS PETITION
+[Sun Jun 17 22:25:02 2001] Fogel says, 'Got any bacon?'
+[Sun Jun 17 22:25:14 2001] Fyroth says, 'hahah Fogel'
+[Sun Jun 17 22:25:17 2001] Espranza saved.
+[Sun Jun 17 22:25:18 2001] You bow before Dolcemorte.
+[Sun Jun 17 22:25:20 2001] You say, 'be well!'
+[Sun Jun 17 22:25:25 2001] Dolcemorte says, 'thank ye m'lady:)_'
+[Sun Jun 17 22:25:26 2001] Labien hugs Espranza.
+[Sun Jun 17 22:25:27 2001] Fogel says, 'bye!'
+[Sun Jun 17 22:25:28 2001] You say, 'and sleep sometimes!'
+[Sun Jun 17 22:25:28 2001] Labien bows before Espranza.
+[Sun Jun 17 22:25:29 2001] You no longer have a target.
+[Sun Jun 17 22:25:29 2001] Fyroth says, 'Thx Esp:)'
+[Sun Jun 17 22:25:30 2001] You wave goodbye to everyone.
+[Sun Jun 17 22:25:31 2001] You GMSAY, 'zone'
+[Sun Jun 17 22:25:33 2001] Dolcemorte says, 'i shale call apone thee tomarrownight:)'
+[Sun Jun 17 22:25:33 2001] Fogel laughs.
+[Sun Jun 17 22:25:38 2001] Fogel says, 'lol'
+[Sun Jun 17 22:25:38 2001] You say, 'heh'
+[Sun Jun 17 22:25:40 2001] Fyroth says, 'what Sleep stand for?'
+[Sun Jun 17 22:25:42 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 22:26:02 2001] You have entered Sunset Home.
+[Sun Jun 17 22:26:07 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 22:26:07 2001] USER TEXT: question about trains
+[Sun Jun 17 22:26:07 2001] Players in EverQuest:
+[Sun Jun 17 22:26:07 2001] ---------------------------
+[Sun Jun 17 22:26:08 2001] [ANON (19 Shaman)] Noumou (Barbarian) ZONE: blackburrow (USER PID DUEJ4YC)
+[Sun Jun 17 22:26:08 2001] There is 1 player in EverQuest.
+[Sun Jun 17 22:26:20 2001] You told Noumou, 'Hail, Noumou! Guide Espranza here. How may I help you?'
+[Sun Jun 17 22:26:38 2001] Noumou tells you, 'just let me get somewhere a little safer'
+[Sun Jun 17 22:26:56 2001] You told Noumou, 'okay'
+[Sun Jun 17 22:28:04 2001] Noumou tells you, 'i saw a conversation re trains ,and that someone would get their account closed for starting them , im curious as to why that would be, as trains are naturally created by the game'
+[Sun Jun 17 22:28:22 2001] You told Noumou, 'false, nobody gets their account closed for starting a train.'
+[Sun Jun 17 22:28:41 2001] You told Noumou, 'intentionally training someone with the intent of killing them is cause for warning and perhaps suspension'
+[Sun Jun 17 22:28:58 2001] Noumou tells you, 'then why would 2 gm's tell someone to stop creating them or else'
+[Sun Jun 17 22:29:36 2001] You told Noumou, 'if they are found to be deliberately starting them, then that is a different matter.'
+[Sun Jun 17 22:29:51 2001] You told Noumou, 'If they just keep doing it through bad tactics. no difference.'
+[Sun Jun 17 22:30:25 2001] You told Noumou, 'People have a right to not be trained'
+[Sun Jun 17 22:30:55 2001] You told Noumou, 'but we don't just up and ban people, we inform them what they are doing is interfering with others'
+[Sun Jun 17 22:31:06 2001] You told Noumou, 'and only then do we think about warning.'
+[Sun Jun 17 22:31:09 2001] Noumou tells you, 'but if the possibility of creating trains is there and it is not a desired effect then why blame the users , why not patch the ability out of the game, when i was a younger player i loved trains for the xp'
+[Sun Jun 17 22:31:10 2001] DELETING THIS PETITION
+[Sun Jun 17 22:31:26 2001] You told Noumou, 'again, it is the matter of intention or not.'
+[Sun Jun 17 22:31:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 22:31:30 2001] USER TEXT: would like thank guide dev... for trying to help me earlier... i managed to log on yaaaa )
+[Sun Jun 17 22:31:30 2001] Players in EverQuest:
+[Sun Jun 17 22:31:30 2001] ---------------------------
+[Sun Jun 17 22:31:30 2001] [38 Necromancer] Fold (Dark Elf) <Leaders of Honor> ZONE: rathemtn (USER PID GQQ8EZT)
+[Sun Jun 17 22:31:30 2001] There is 1 player in EverQuest.
+[Sun Jun 17 22:31:56 2001] You GMSAY, '<note issue> Fold GQQ8EZT wishes to thank Devynn for all his help!'
+[Sun Jun 17 22:32:10 2001] You told Fold, 'Hail, Fold! Guide Espranza here. I'll pass that along! Thanks!'
+[Sun Jun 17 22:32:20 2001] DELETING THIS PETITION
+[Sun Jun 17 22:32:33 2001] Noumou tells you, 'when i was a younger player it was to easy up top but too dangerous to venture below-too far to run to zone, trains solved that problem'
+[Sun Jun 17 22:32:54 2001] You told Noumou, 'not everyone enjoys them quite as much.'
+[Sun Jun 17 22:33:09 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 22:33:09 2001] USER TEXT: yalum has fallen to his death while zoneing, he fell from my head, can you please rez him
+[Sun Jun 17 22:33:09 2001] Players in EverQuest:
+[Sun Jun 17 22:33:10 2001] ---------------------------
+[Sun Jun 17 22:33:10 2001] [53 Disciple] Samin (Human) <Thunderwalkers> ZONE: lakeofillomen (USER PID CTGSL46)
+[Sun Jun 17 22:33:10 2001] There is 1 player in EverQuest.
+[Sun Jun 17 22:33:30 2001] Noumou tells you, 'but a little common sense says stand to one side and dont attack if you dont want to join in'
+[Sun Jun 17 22:33:31 2001] Searching zones for corpse of that name....
+[Sun Jun 17 22:33:50 2001] You feel as if you are about to fall.
+[Sun Jun 17 22:33:56 2001] You feel as if you are about to fall.
+[Sun Jun 17 22:34:02 2001] You can no longer levitate.
+[Sun Jun 17 22:34:37 2001] You told Noumou, 'If someone is causing trains again and again, killing people, then it is hurting the gameplay of others.'
+[Sun Jun 17 22:34:55 2001] You told Noumou, 'the occasional train is a known danger, of course.'
+[Sun Jun 17 22:35:54 2001] Noumou tells you, 'this particular person was advertising the train 2 mins before starting it then letting everyone know it was on the way, some people were complaing he was taking too long starting the train ?'
+[Sun Jun 17 22:35:57 2001] You told Samin, 'Hail, Samin! Guide Espranza here. I see no corpse for Yalum - did he get a rez or loot it?'
+[Sun Jun 17 22:36:03 2001] Espranza saved.
+[Sun Jun 17 22:36:20 2001] Samin tells you, 'he got a rez didnt want to wait, thx for replying'
+[Sun Jun 17 22:36:52 2001] You told Noumou, 'Well, I wasn't there, so I can't comment on the situation.'
+[Sun Jun 17 22:36:57 2001] You told Samin, 'Okay, be well!'
+[Sun Jun 17 22:37:02 2001] DELETING THIS PETITION
+[Sun Jun 17 22:37:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 22:37:05 2001] USER TEXT: Umm, Hello all. I seem to have awken into your private retreat. Could you do me the favor of putting a mortal rogue where he belongs? (ooc I am in a GM reserved area HELP) 8)
+[Sun Jun 17 22:37:05 2001] Players in EverQuest:
+[Sun Jun 17 22:37:05 2001] ---------------------------
+[Sun Jun 17 22:37:05 2001] [ANON (40 Rogue)] Nathomin (Dark Elf) ZONE: crystal (USER PID HUQXDNL)
+[Sun Jun 17 22:37:05 2001] There is 1 player in EverQuest.
+[Sun Jun 17 22:37:09 2001] Raznar the Angry GMSAYS, 'hehe im down)'
+[Sun Jun 17 22:37:12 2001] You GMSAY, 'zone'
+[Sun Jun 17 22:37:22 2001] Teleporting to nathomin.
+[Sun Jun 17 22:37:22 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 22:58:58 2001] Logging to 'eqlog.txt' is now *ON*.
+[Sun Jun 17 22:59:05 2001] Nathomin pleads with Espranza desperately.
+[Sun Jun 17 22:59:06 2001] You say, 'went link dead coming here ('
+[Sun Jun 17 22:59:11 2001] You GMSAY, 'back'
+[Sun Jun 17 22:59:13 2001] Nathomin says, 'oh'
+[Sun Jun 17 22:59:15 2001] Nathomin says, 'Sory hon'
+[Sun Jun 17 22:59:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 22:59:20 2001] USER TEXT: Umm, Hello all. I seem to have awken into your private retreat. Could you do me the favor of putting a mortal rogue where he belongs? (ooc I am in a GM reserved area HELP) 8)
+[Sun Jun 17 22:59:20 2001] Players in EverQuest:
+[Sun Jun 17 22:59:20 2001] ---------------------------
+[Sun Jun 17 22:59:20 2001] [ANON (40 Rogue)] Nathomin (Dark Elf) ZONE: crystal (USER PID HUQXDNL)
+[Sun Jun 17 22:59:20 2001] There is 1 player in EverQuest.
+[Sun Jun 17 22:59:26 2001] You say, 'oh no worries'
+[Sun Jun 17 22:59:27 2001] Players on EverQuest:
+[Sun Jun 17 22:59:27 2001] ---------------------------
+[Sun Jun 17 22:59:27 2001] [ANONYMOUS] Tunan  <Blackgrass Raiders>
+[Sun Jun 17 22:59:27 2001] [42 Paladin] Donador (Human) <Tolkien's Revenge>
+[Sun Jun 17 22:59:28 2001] [ANONYMOUS] Draconisnaga  <Magic Incorporated>
+[Sun Jun 17 22:59:28 2001] [39 Magician] Viagrilon (High Elf) <Crimson Mist>
+[Sun Jun 17 22:59:28 2001] [ANONYMOUS] Qilladara  <Magic Incorporated>
+[Sun Jun 17 22:59:28 2001] [39 Shaman] Zallon (Barbarian)
+[Sun Jun 17 22:59:28 2001] [45 Ranger] Genaldar (Human) <Tolkien's Revenge>
+[Sun Jun 17 22:59:28 2001] [ANONYMOUS] Thornbush  <Tolkien's Revenge>
+[Sun Jun 17 22:59:28 2001] [35 Enchanter] Malaehi (Dwarf) <Coeur de Lion>
+[Sun Jun 17 22:59:28 2001] [ANONYMOUS] Nathomin  <House T`Vlos>
+[Sun Jun 17 22:59:28 2001] [32 Necromancer] Sivas (Iksar)
+[Sun Jun 17 22:59:28 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sun Jun 17 22:59:28 2001] There are 12 players in Crystal Caverns.
+[Sun Jun 17 22:59:34 2001] Nathomin says, 'Um, any chancve of getting a worthles rogue out of here?'
+[Sun Jun 17 22:59:37 2001] You say, 'where do yuo want to go?'
+[Sun Jun 17 22:59:39 2001] Nathomin regards you indifferently -- he appears to be quite formidable.
+[Sun Jun 17 22:59:47 2001] Nathomin says, 'Nek would be lovely miss'
+[Sun Jun 17 23:00:15 2001] Nathomin says, 'And many thanks for being so quick'
+[Sun Jun 17 23:00:16 2001] You say, 'well, I meant - where in CC'
+[Sun Jun 17 23:00:20 2001] Nathomin says, 'oh'
+[Sun Jun 17 23:00:23 2001] Nathomin says, 'Town'
+[Sun Jun 17 23:00:35 2001] You say, 'if I can find it... I know! how about the zone, that's easy'
+[Sun Jun 17 23:00:38 2001] You GMSAY, 'zone'
+[Sun Jun 17 23:00:42 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 23:01:14 2001] You have entered Crystal Caverns.
+[Sun Jun 17 23:01:24 2001] Summoning Nathomin.
+[Sun Jun 17 23:01:31 2001] Sivas shouts, 'necro and enchanter looking for more.'
+[Sun Jun 17 23:01:32 2001] You say, 'there ya go'
+[Sun Jun 17 23:01:36 2001] Nathomin says, 'Thank you thank you thanlk you '
+[Sun Jun 17 23:01:38 2001] DELETING THIS PETITION
+[Sun Jun 17 23:01:40 2001] You bow before Nathomin.
+[Sun Jun 17 23:01:43 2001] You say, 'be well!'
+[Sun Jun 17 23:01:45 2001] Nathomin thanks Espranza heartily.
+[Sun Jun 17 23:01:45 2001] You wave goodbye to Nathomin.
+[Sun Jun 17 23:01:46 2001] You GMSAY, 'zone'
+[Sun Jun 17 23:01:48 2001] Nathomin waves at Espranza.
+[Sun Jun 17 23:01:49 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 23:02:11 2001] You have entered Sunset Home.
+[Sun Jun 17 23:02:17 2001] Players in EverQuest:
+[Sun Jun 17 23:02:17 2001] ---------------------------
+[Sun Jun 17 23:02:17 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jun 17 23:02:17 2001] There is 1 player in EverQuest.
+[Sun Jun 17 23:02:25 2001] Players in EverQuest:
+[Sun Jun 17 23:02:25 2001] ---------------------------
+[Sun Jun 17 23:02:25 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jun 17 23:02:25 2001] There is 1 player in EverQuest.
+[Sun Jun 17 23:02:31 2001] You GMSAY, 'come now, you didn't leave me here alone'
+[Sun Jun 17 23:02:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 23:02:50 2001] USER TEXT: there is Two Garadains popped in EW
+[Sun Jun 17 23:02:51 2001] Players in EverQuest:
+[Sun Jun 17 23:02:51 2001] ---------------------------
+[Sun Jun 17 23:02:51 2001] [56 Myrmidon] Senaleb (Human) <Reviction> ZONE: eastwastes (USER PID FN6JP5A)
+[Sun Jun 17 23:02:51 2001] There is 1 player in EverQuest.
+[Sun Jun 17 23:03:31 2001] You told Senaleb, 'Hail, Senaleb! Guide Espranza here. Which Garadain?'
+[Sun Jun 17 23:03:42 2001] Senaleb tells you, 'the one in EW'
+[Sun Jun 17 23:03:48 2001] Senaleb tells you, 'for Coldain Ring Quest'
+[Sun Jun 17 23:03:59 2001] You told Senaleb, 'well, there are two brothers... oh that one. Are you right there?'
+[Sun Jun 17 23:04:12 2001] Senaleb tells you, 'the one at the hut'
+[Sun Jun 17 23:04:19 2001] Senaleb tells you, 'want me to meet you there'
+[Sun Jun 17 23:04:31 2001] You told Senaleb, 'let me know when you get there, I'll just port straight to you'
+[Sun Jun 17 23:05:03 2001] DELETING THIS PETITION
+[Sun Jun 17 23:05:05 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 23:05:06 2001] USER TEXT: want to get married.
+[Sun Jun 17 23:05:06 2001] Players in EverQuest:
+[Sun Jun 17 23:05:06 2001] ---------------------------
+[Sun Jun 17 23:05:06 2001] [59 Evoker] Dolcemorte (Erudite) <Thunderwalkers> ZONE: charasis (USER PID FQL6SPS)
+[Sun Jun 17 23:05:06 2001] There is 1 player in EverQuest.
+[Sun Jun 17 23:05:21 2001] You told Dolcemorte, 'Hail, Dolce! Guide Espranza here. This... this is so sudden...'
+[Sun Jun 17 23:05:32 2001] Dolcemorte tells you, 'hehe '
+[Sun Jun 17 23:05:52 2001] You told Dolcemorte, 'why would I want to marry someone who was only 59 though! REALLY!'
+[Sun Jun 17 23:06:01 2001] Dolcemorte tells you, 'hah '
+[Sun Jun 17 23:06:10 2001] Dolcemorte tells you, 'im higher den u'
+[Sun Jun 17 23:06:28 2001] You told Dolcemorte, 'well of course you are, you have to support me when we're married'
+[Sun Jun 17 23:06:31 2001] DELETING THIS PETITION
+[Sun Jun 17 23:06:33 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 17 23:06:34 2001] USER TEXT: please check into my problem
+[Sun Jun 17 23:06:34 2001] Players in EverQuest:
+[Sun Jun 17 23:06:34 2001] ---------------------------
+[Sun Jun 17 23:06:34 2001] [51 Wanderer] Chargr (Halfling) <Thunderwalkers> ZONE: innothule (USER PID ESH93US)
+[Sun Jun 17 23:06:34 2001] There is 1 player in EverQuest.
+[Sun Jun 17 23:06:48 2001] You told Chargr, 'Hail Chargr! Guide Espranza here. How may I help you?'
+[Sun Jun 17 23:06:52 2001] Dolcemorte tells you, 'hah im a poor wizard '
+[Sun Jun 17 23:07:22 2001] You told Dolcemorte, 'heh well... better get a desk job. No hubbie of mine is going to be going off blowing things up.'
+[Sun Jun 17 23:07:32 2001] Dolcemorte tells you, 'ermmm thats all i do good'
+[Sun Jun 17 23:07:42 2001] You told Dolcemorte, 'that's ALL you do good?'
+[Sun Jun 17 23:07:47 2001] You told Dolcemorte, 'sigh... virgins...'
+[Sun Jun 17 23:07:51 2001] Dolcemorte tells you, 'hah'
+[Sun Jun 17 23:08:10 2001] Senaleb tells you, 'just had to send me a tell when i was by the bridge didn't ya lol'
+[Sun Jun 17 23:08:19 2001] Dolcemorte tells you, 'ok so i lied'
+[Sun Jun 17 23:08:27 2001] You told Senaleb, 'hah sorry... if you like I can find it.'
+[Sun Jun 17 23:08:35 2001] You told Senaleb, 'Just being lazy.'
+[Sun Jun 17 23:08:39 2001] Senaleb tells you, 'naw...i'll make it'
+[Sun Jun 17 23:08:52 2001] Senaleb tells you, 'i am following Johnny Quest here.'
+[Sun Jun 17 23:09:08 2001] You told Senaleb, 'heh'
+[Sun Jun 17 23:10:00 2001] Dolcemorte tells you, 'so when we gona get married heh:)?'
+[Sun Jun 17 23:10:05 2001] Senaleb tells you, 'okie i'm here'
+[Sun Jun 17 23:10:20 2001] You told Dolcemorte, 'well... I don't think it would work... halfling like me...'
+[Sun Jun 17 23:10:26 2001] Chargr tells you, 'you get my reply before i went ld?'
+[Sun Jun 17 23:10:26 2001] Dolcemorte tells you, 'i dont mind'
+[Sun Jun 17 23:10:37 2001] You told Chargr, 'No, could you send it again?'
+[Sun Jun 17 23:10:42 2001] You told Chargr, 'one moment though'
+[Sun Jun 17 23:10:43 2001] You GMSAY, 'zone'
+[Sun Jun 17 23:10:47 2001] Teleporting to senaleb.
+[Sun Jun 17 23:10:48 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 23:11:39 2001] You have entered Eastern Wastes.
+[Sun Jun 17 23:11:54 2001] Senaleb says, 'haha sneaky lil Esp'
+[Sun Jun 17 23:11:56 2001] Dolcemorte tells you, 'and cant spell:") taller'
+[Sun Jun 17 23:11:58 2001] Chargr tells you, 'i am working on my epic foraging for peices for hardend mixture part. I have been here for 3 days 6 hours first day 7 next day 3 already today my foraging skill is 156 this whole quest should only take avg 4 hours'
+[Sun Jun 17 23:12:05 2001] Senaleb says, 'ok we screwed up quest'
+[Sun Jun 17 23:12:21 2001] You say, 'one moemnt please'
+[Sun Jun 17 23:12:23 2001] Senaleb says, 'each handed into a different Garadain'
+[Sun Jun 17 23:12:32 2001] Tegamyen says, 'yeah. long story short. trying to MQ with 2 mobs with same name..  = bad'
+[Sun Jun 17 23:12:38 2001] Chargr tells you, 'my character was restored and i have been non stop foraging other rangers and druids that have done this say this part never took them this long what is going on with this'
+[Sun Jun 17 23:12:40 2001] Tegamyen says, 'this is a bug no doubt though'
+[Sun Jun 17 23:13:13 2001] Senaleb says, 'nice dress'
+[Sun Jun 17 23:13:14 2001] Chargr tells you, 'some of them said their skill was lower than mine and they got this peice in 2 hours and less'
+[Sun Jun 17 23:13:20 2001] Senaleb is looking at your equipment...
+[Sun Jun 17 23:13:21 2001] You told Chargr, 'Ah, that I can't answer...'
+[Sun Jun 17 23:13:27 2001] Tegamyen says, 'my swords do that too.  just wish I had cool blue thing'
+[Sun Jun 17 23:13:33 2001] You told Chargr, 'you will have to talk to the GM about it...'
+[Sun Jun 17 23:13:33 2001] Tegamyen takes a bite from a Roots.
+[Sun Jun 17 23:13:35 2001] Chargr tells you, 'well i think i am bugged this is redicoulos'
+[Sun Jun 17 23:13:43 2001] Searching for Garadain_Glacierbane00.
+[Sun Jun 17 23:13:44 2001] Could not locate player with that name.
+[Sun Jun 17 23:13:44 2001] Chargr tells you, 'duh thats why i am petitioning'
+[Sun Jun 17 23:13:56 2001] You told Chargr, 'The GM, though, is not online'
+[Sun Jun 17 23:14:12 2001] You told Chargr, 'could you repetition tomorrow after about 4pm Pacific time?'
+[Sun Jun 17 23:14:13 2001] Chargr tells you, 'this whole quest is taking me over 20 hours to get this far'
+[Sun Jun 17 23:14:17 2001] Senaleb says, 'Esrpranza VS Garadain in a battle to the death'
+[Sun Jun 17 23:14:17 2001] Chargr tells you, 'in game'
+[Sun Jun 17 23:14:19 2001] Searching for Garadain_Glacierbane01.
+[Sun Jun 17 23:14:19 2001] Player is in zone eastwastes at x = -2714 y = -391 z = 181.
+[Sun Jun 17 23:14:23 2001] Searching for Garadain_Glacierbane02.
+[Sun Jun 17 23:14:23 2001] Player is in zone eastwastes at x = -2714 y = -391 z = 182.
+[Sun Jun 17 23:14:24 2001] Deaen Greyforge begins to cast a spell. (Daring)
+[Sun Jun 17 23:14:26 2001] You say, 'okay'
+[Sun Jun 17 23:14:27 2001] Garadain Glacierbane looks daring.
+[Sun Jun 17 23:14:35 2001] Senaleb says, 'hey could u imagine...quad would hurt'
+[Sun Jun 17 23:14:37 2001] Chargr tells you, 'um i dont live around gm hours i play late night sheez forget it'
+[Sun Jun 17 23:14:39 2001] Tegamyen makes a rude gesture at Garadain Glacierbane.
+[Sun Jun 17 23:14:43 2001] You say, 'looks like you have two of the respawned mobs here'
+[Sun Jun 17 23:14:55 2001] Tegamyen gasps at Garadain Glacierbane in astonishment.
+[Sun Jun 17 23:14:57 2001] Dolcemorte tells you, 'bah was only gona marry ye for the power anyways'
+[Sun Jun 17 23:15:00 2001] You told Chargr, 'sorry... send mail to msudnik@station.sony.com then... she's the GM'
+[Sun Jun 17 23:15:02 2001] Senaleb says, 'yeah'
+[Sun Jun 17 23:15:11 2001] Chargr tells you, 'yeah i know lirus's email'
+[Sun Jun 17 23:15:16 2001] You told Chargr, 'perhaps she can help you?'
+[Sun Jun 17 23:15:18 2001] Dolcemorte tells you, 'all that niffty DT and such'
+[Sun Jun 17 23:15:19 2001] Senaleb says, 'i think it screwed up assist too'
+[Sun Jun 17 23:15:21 2001] Hilor auctions, 'WTB WTTF Crushed Flame Emerald'
+[Sun Jun 17 23:15:25 2001] You told Dolcemorte, 'heh'
+[Sun Jun 17 23:15:26 2001] Hilor auctions, 'WTS sarnak hide mask ac6 str5 all/all'
+[Sun Jun 17 23:15:28 2001] Senaleb says, 'cause i was targeted /assist '
+[Sun Jun 17 23:15:55 2001] You say, 'well, all I can do is kill them both'
+[Sun Jun 17 23:15:58 2001] Garadain Glacierbane looks your way apprehensively -- he appears to be quite formidable.
+[Sun Jun 17 23:16:02 2001] Tegamyen says, 'well as you can see. every so often, one turns a bit. that probably mistargeted'
+[Sun Jun 17 23:16:03 2001] Senaleb says, 'but what about my quest items'
+[Sun Jun 17 23:16:06 2001] You say, 'not sure I should do that though'
+[Sun Jun 17 23:16:13 2001] Senaleb says, 'the coldain blanket and broken axe'
+[Sun Jun 17 23:16:15 2001] You say, 'have you tried talking to both of them?'
+[Sun Jun 17 23:16:22 2001] Senaleb says, 'yeah they both hail'
+[Sun Jun 17 23:16:25 2001] Tegamyen says, 'both are the exact same npc'
+[Sun Jun 17 23:16:26 2001] Senaleb says, 'Hail Garadain Glacierbane'
+[Sun Jun 17 23:16:29 2001] Tegamyen says, 'with same quests loaded'
+[Sun Jun 17 23:16:29 2001] Senaleb says, 'Hail Garadain Glacierbane'
+[Sun Jun 17 23:16:29 2001] Garadain Glacierbane says 'Hrmff, what's this? A spy sent from the giant heathens, or the selfrighteous wurms perhaps? Either way, you'd be no [friend] of the great Coldain. 
+[Sun Jun 17 23:16:29 2001] Garadain Glacierbane says 'Hrmff, what's this? A spy sent from the giant heathens, or the selfrighteous wurms perhaps? Either way, you'd be no [friend] of the great Coldain. 
+[Sun Jun 17 23:16:36 2001] Tegamyen says, 'I am your friend'
+[Sun Jun 17 23:16:36 2001] Garadain Glacierbane says 'A friend, you say? That remains to be seen. Much more to being a friend of the Coldain than just sayin' so. Anyway, I'm too [tired] to argue about it. I haven't slept in days. 
+[Sun Jun 17 23:16:41 2001] Tegamyen says, 'why are you tired'
+[Sun Jun 17 23:16:41 2001] Garadain Glacierbane says 'Did I say tired? Exhausted is more like it. Ever since that blizzard last week I haven't slept a wink. I came back from huntin' snow orcs to find that my [blanket] had blown away and now I'm just too tired to rustle up a new one. 
+[Sun Jun 17 23:16:46 2001] Tegamyen says, 'what blanket'
+[Sun Jun 17 23:16:46 2001] Garadain Glacierbane says 'Not just any old blanket, mind ye, mine was made of the finest tundra kodiak hides and snow panther skins, two of each. When I was wrapped up in it ya couldn't see me a bit, no, I blended right into the snow, I did. Say, if you be a friend, here's yer chance to prove it. Sew me up a new blanket so I can get some rest. 
+[Sun Jun 17 23:16:50 2001] Tegamyen says, 'what nephew'
+[Sun Jun 17 23:16:50 2001] Garadain Glacierbane says 'My nephew, Boridain, keeps running away from home to kill a bothersome [beast], thinking this will prove to all of Thurgadin that he is a great hunter. Every time he does this my sister gets hysterical and I am sent out to find him. 
+[Sun Jun 17 23:16:52 2001] Senaleb says, 'weird'
+[Sun Jun 17 23:16:53 2001] Tegamyen says, 'what beast'
+[Sun Jun 17 23:16:53 2001] Garadain Glacierbane says 'A rabid tundra kodiak has been feeding on our people for weeks now. If Boridain ever stumbled across the critter I doubt he'd stand a chance. I have a solution, but it would require the [assistance] of an outsider. 
+[Sun Jun 17 23:16:58 2001] Tegamyen says, 'what assistance'
+[Sun Jun 17 23:16:58 2001] Garadain Glacierbane says 'I'm taking a liking to you stranger. Your eagerness to help us will not go unnoticed. Find my nephew and give him this axe. It should keep him from hurting himself. Return to me with the ring and proof that he is safe. 
+[Sun Jun 17 23:17:01 2001] Tegamyen says, 'what mission'
+[Sun Jun 17 23:17:01 2001] Garadain Glacierbane says 'A Coldain... A very important Coldain, has been abducted by the Rygorr. He was gathering information that is imperative to our victory over the brainless heathens. You must find him before he is killed and escort him to safety. Return to me with proof that Corbin Blackwell is safe. 
+[Sun Jun 17 23:17:05 2001] Tegamyen says, 'I am ready'
+[Sun Jun 17 23:17:05 2001] Garadain Glacierbane says 'Very well, Tegamyen , give me the Adamantite ring and I will give you the marching orders. Once the orders are given to Gloradin in the next hut, we will be underway. You then must follow me to what will be our battleground. I must warn you, I will hold your ring until the head of Chief Ry`gorr is given to me. If we fail, all will be lost... for both of us. 
+[Sun Jun 17 23:17:11 2001] Tegamyen says, 'see.. same quests :)'
+[Sun Jun 17 23:17:21 2001] Senaleb says, 'nephew'
+[Sun Jun 17 23:17:21 2001] Garadain Glacierbane says 'My nephew, Boridain, keeps running away from home to kill a bothersome [beast], thinking this will prove to all of Thurgadin that he is a great hunter. Every time he does this my sister gets hysterical and I am sent out to find him. 
+[Sun Jun 17 23:17:28 2001] Senaleb says, 'beast'
+[Sun Jun 17 23:17:28 2001] Garadain Glacierbane says 'A rabid tundra kodiak has been feeding on our people for weeks now. If Boridain ever stumbled across the critter I doubt he'd stand a chance. I have a solution, but it would require the [assistance] of an outsider. 
+[Sun Jun 17 23:17:30 2001] You say, 'each choose one NPC then'
+[Sun Jun 17 23:17:33 2001] Tegamyen says, 'here's a good one'
+[Sun Jun 17 23:17:40 2001] Senaleb says, 'but'
+[Sun Jun 17 23:17:42 2001] DELETING THIS PETITION
+[Sun Jun 17 23:17:44 2001] Tegamyen says, 'I have killed your nephew'
+[Sun Jun 17 23:17:44 2001] Garadain Glacierbane says 'My nephew, Boridain, keeps running away from home to kill a bothersome [beast], thinking this will prove to all of Thurgadin that he is a great hunter. Every time he does this my sister gets hysterical and I am sent out to find him. 
+[Sun Jun 17 23:17:44 2001] Senaleb says, 'if you hail they both Hail'
+[Sun Jun 17 23:17:45 2001] Garadain Glacierbane says 'Hrmff, what's this? A spy sent from the giant heathens, or the selfrighteous wurms perhaps? Either way, you'd be no [friend] of the great Coldain. 
+[Sun Jun 17 23:17:59 2001] You say, 'target just one though'
+[Sun Jun 17 23:18:05 2001] Tegamyen says, 'kill the top one'
+[Sun Jun 17 23:18:15 2001] You say, 'you sure?'
+[Sun Jun 17 23:18:17 2001] Senaleb says, 'Nephew'
+[Sun Jun 17 23:18:17 2001] Garadain Glacierbane says 'My nephew, Boridain, keeps running away from home to kill a bothersome [beast], thinking this will prove to all of Thurgadin that he is a great hunter. Every time he does this my sister gets hysterical and I am sent out to find him. 
+[Sun Jun 17 23:18:34 2001] You say, 'I'd better not'
+[Sun Jun 17 23:18:38 2001] Tegamyen says, 'either way all items are lost'
+[Sun Jun 17 23:18:51 2001] Tegamyen says, 'one item to each one. useless'
+[Sun Jun 17 23:18:51 2001] Senaleb says, 'am i screwed getting my stuff back esp?'
+[Sun Jun 17 23:18:51 2001] Tegamyen says, 'and no GM's on'
+[Sun Jun 17 23:18:58 2001] Tegamyen says, 'while guides are helpful, not very much with items :('
+[Sun Jun 17 23:19:15 2001] You say, 'Well, when people ask about quests, I'm supposed to refer them to the producer's letter'
+[Sun Jun 17 23:19:30 2001] Senaleb says, 'but this is a game bug'
+[Sun Jun 17 23:19:31 2001] You say, 'Have you read the latest one?'
+[Sun Jun 17 23:19:31 2001] Garadain Glacierbane says 'Very well, Espranza , give me the Adamantite ring and I will give you the marching orders. Once the orders are given to Gloradin in the next hut, we will be underway. You then must follow me to what will be our battleground. I must warn you, I will hold your ring until the head of Chief Ry`gorr is given to me. If we fail, all will be lost... for both of us. 
+[Sun Jun 17 23:19:33 2001] Senaleb says, '2 garadains ?'
+[Sun Jun 17 23:19:42 2001] You say, 'Have you read the latest one?'
+[Sun Jun 17 23:19:42 2001] Garadain Glacierbane says 'Very well, Espranza , give me the Adamantite ring and I will give you the marching orders. Once the orders are given to Gloradin in the next hut, we will be underway. You then must follow me to what will be our battleground. I must warn you, I will hold your ring until the head of Chief Ry`gorr is given to me. If we fail, all will be lost... for both of us. 
+[Sun Jun 17 23:19:45 2001] You say, 'wild'
+[Sun Jun 17 23:19:58 2001] Senaleb says, 'Give me my stuff back Garadain'
+[Sun Jun 17 23:20:01 2001] Senaleb says, 'you murderer'
+[Sun Jun 17 23:20:10 2001] Daggen whistles at Espranza appreciatively.
+[Sun Jun 17 23:20:12 2001] Daggen grabs hold of Espranza and begins to dance with her.
+[Sun Jun 17 23:20:13 2001] You say, 'you can't continue with the quest?'
+[Sun Jun 17 23:20:20 2001] Senaleb says, 'nope'
+[Sun Jun 17 23:20:22 2001] You bow before Daggen.
+[Sun Jun 17 23:20:26 2001] Tegamyen says, 'not sure. last one i read was some bout account security and how the pass the blame onto consumers instead of staff'
+[Sun Jun 17 23:20:26 2001] Garadain Glacierbane says 'Very well, Tegamyen , give me the Adamantite ring and I will give you the marching orders. Once the orders are given to Gloradin in the next hut, we will be underway. You then must follow me to what will be our battleground. I must warn you, I will hold your ring until the head of Chief Ry`gorr is given to me. If we fail, all will be lost... for both of us. 
+[Sun Jun 17 23:20:29 2001] Senaleb says, 'gotta have one ring to do next part'
+[Sun Jun 17 23:20:30 2001] You say, 'Hey. it's the Heroic Fewer GL!'
+[Sun Jun 17 23:20:35 2001] Senaleb says, 'he should have gotten a ring'
+[Sun Jun 17 23:20:35 2001] You wave at Daggen.
+[Sun Jun 17 23:20:48 2001] Senaleb says, 'he turned in Blanket'
+[Sun Jun 17 23:20:48 2001] Garadain Glacierbane says 'Not just any old blanket, mind ye, mine was made of the finest tundra kodiak hides and snow panther skins, two of each. When I was wrapped up in it ya couldn't see me a bit, no, I blended right into the snow, I did. Say, if you be a friend, here's yer chance to prove it. Sew me up a new blanket so I can get some rest. 
+[Sun Jun 17 23:20:51 2001] Tegamyen says, 'here's what happened EXACTLY'
+[Sun Jun 17 23:20:53 2001] Daggen says, 'heh, Heroic "Fewer" ?'
+[Sun Jun 17 23:20:59 2001] You giggle at Daggen.
+[Sun Jun 17 23:21:09 2001] You feel the spirit of Norrath enter you.
+[Sun Jun 17 23:21:10 2001] Your feet leave the ground.
+[Sun Jun 17 23:21:30 2001] Tegamyen says, 'to start quest.. you need 2 HQ tundra kodiak pelts. and 2 HQ couger skins combined in sew kit to make coldain hunting blanket'
+[Sun Jun 17 23:21:30 2001] Garadain Glacierbane says 'Not just any old blanket, mind ye, mine was made of the finest tundra kodiak hides and snow panther skins, two of each. When I was wrapped up in it ya couldn't see me a bit, no, I blended right into the snow, I did. Say, if you be a friend, here's yer chance to prove it. Sew me up a new blanket so I can get some rest. 
+[Sun Jun 17 23:21:33 2001] You say, 'Okay, I don't want to kill a quest NPC'
+[Sun Jun 17 23:21:36 2001] Tegamyen says, 'stupid Garadain Glacierbane'
+[Sun Jun 17 23:21:40 2001] Daggen says, 'gotta run sit and wait for nobody to spawn. :('
+[Sun Jun 17 23:21:45 2001] Daggen says, 'g'luck here'
+[Sun Jun 17 23:21:48 2001] Espranza saved.
+[Sun Jun 17 23:21:57 2001] Tegamyen says, 'anyways. the HQ tundra kodiak pelts are ultra rare'
+[Sun Jun 17 23:22:00 2001] Deaen Greyforge begins to cast a spell. (Daring)
+[Sun Jun 17 23:22:02 2001] Deaen Greyforge looks daring.
+[Sun Jun 17 23:22:04 2001] Tegamyen says, 'so I combined em in my kit to make the blanket'
+[Sun Jun 17 23:22:05 2001] Garadain Glacierbane says 'Not just any old blanket, mind ye, mine was made of the finest tundra kodiak hides and snow panther skins, two of each. When I was wrapped up in it ya couldn't see me a bit, no, I blended right into the snow, I did. Say, if you be a friend, here's yer chance to prove it. Sew me up a new blanket so I can get some rest. 
+[Sun Jun 17 23:22:05 2001] Garadain Glacierbane says 'Not just any old blanket, mind ye, mine was made of the finest tundra kodiak hides and snow panther skins, two of each. When I was wrapped up in it ya couldn't see me a bit, no, I blended right into the snow, I did. Say, if you be a friend, here's yer chance to prove it. Sew me up a new blanket so I can get some rest. 
+[Sun Jun 17 23:22:10 2001] Tegamyen says, 'stup up gara'
+[Sun Jun 17 23:22:12 2001] Tegamyen says, 'shut'
+[Sun Jun 17 23:22:16 2001] Deaen Greyforge begins to cast a spell. (Daring)
+[Sun Jun 17 23:22:24 2001] You say, 'All I can do is leave a note for the GM.'
+[Sun Jun 17 23:22:29 2001] You say, 'She'll know what to do.'
+[Sun Jun 17 23:22:35 2001] Senaleb says, 'ok'
+[Sun Jun 17 23:22:36 2001] Deaen Greyforge begins to cast a spell. (Daring)
+[Sun Jun 17 23:22:38 2001] Tegamyen says, 'then I handed in blanket to one and for copper ring'
+[Sun Jun 17 23:22:38 2001] Garadain Glacierbane says 'Not just any old blanket, mind ye, mine was made of the finest tundra kodiak hides and snow panther skins, two of each. When I was wrapped up in it ya couldn't see me a bit, no, I blended right into the snow, I did. Say, if you be a friend, here's yer chance to prove it. Sew me up a new blanket so I can get some rest. 
+[Sun Jun 17 23:22:38 2001] Garadain Glacierbane says 'Not just any old blanket, mind ye, mine was made of the finest tundra kodiak hides and snow panther skins, two of each. When I was wrapped up in it ya couldn't see me a bit, no, I blended right into the snow, I did. Say, if you be a friend, here's yer chance to prove it. Sew me up a new blanket so I can get some rest. 
+[Sun Jun 17 23:22:39 2001] A coldain warrior looks daring.
+[Sun Jun 17 23:22:43 2001] Senaleb says, 'thank u '
+[Sun Jun 17 23:22:58 2001] Senaleb says, 'anyway u can log what happened '
+[Sun Jun 17 23:23:02 2001] Senaleb says, 'for lirus'
+[Sun Jun 17 23:23:17 2001] Senaleb says, 'like how we turned in stuff to an NPC or is that stuff only lirus can check'
+[Sun Jun 17 23:23:18 2001] Tegamyen says, 'then senaleb handed in his axe early . so I was going to MQ ring 3(humans huh) .. '
+[Sun Jun 17 23:23:18 2001] You GMSAY, '<note gm> Garadain Glacierbane in Eastern Wastes has doubly spawned and eaten quest items - needs resetting or something'
+[Sun Jun 17 23:23:35 2001] You say, 'okay, I just left a note for Lirus'
+[Sun Jun 17 23:23:40 2001] Tegamyen says, 'but we couldn't hand to same one :('
+[Sun Jun 17 23:23:42 2001] Tegamyen says, 'thanks'
+[Sun Jun 17 23:23:50 2001] Senaleb says, 'thanks Espranza'
+[Sun Jun 17 23:23:56 2001] You say, 'Give another petition to him tomorrow after 4pm - he'll have read the note then.'
+[Sun Jun 17 23:24:06 2001] Senaleb says, 'we just missed lirus by like 3 minutes too'
+[Sun Jun 17 23:24:08 2001] Garadain Glacierbane says 'Hrmff, what's this? A spy sent from the giant heathens, or the selfrighteous wurms perhaps? Either way, you'd be no [friend] of the great Coldain. 
+[Sun Jun 17 23:24:09 2001] Senaleb says, 'he was on when i petitioned'
+[Sun Jun 17 23:24:09 2001] Tegamyen says, 'not getting hopes up. back to mindless camping for HQ tundra kodiak pelts'
+[Sun Jun 17 23:24:13 2001] You say, 'doh!'
+[Sun Jun 17 23:24:24 2001] Senaleb says, 'just missed him'
+[Sun Jun 17 23:24:27 2001] Tegamyen says, 'yeah sen. they force him to log at certain time'
+[Sun Jun 17 23:24:35 2001] You say, 'they do'
+[Sun Jun 17 23:24:36 2001] Tegamyen says, 'armen missed him like that for epic'
+[Sun Jun 17 23:24:40 2001] Senaleb says, 'aye'
+[Sun Jun 17 23:24:42 2001] Tegamyen takes a bite from a Berries.
+[Sun Jun 17 23:24:50 2001] Senaleb says, 'Sony..HRMPH'
+[Sun Jun 17 23:24:54 2001] Tegamyen says, 'oh well. you have a good night Espranza'
+[Sun Jun 17 23:24:54 2001] You say, 'okay, be well and good luck.'
+[Sun Jun 17 23:24:58 2001] You no longer have a target.
+[Sun Jun 17 23:24:58 2001] You wave goodbye to everyone.
+[Sun Jun 17 23:24:58 2001] Senaleb waves at Espranza.
+[Sun Jun 17 23:24:59 2001] You GMSAY, 'zone'
+[Sun Jun 17 23:25:02 2001] LOADING, PLEASE WAIT...
+[Sun Jun 17 23:25:27 2001] You have entered Sunset Home.
+[Sun Jun 17 23:25:45 2001] You GMSAY, 'sorry lurkers, camping - kedge raid going on'
+[Sun Jun 17 23:25:47 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Jun 17 23:25:51 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Jun 17 23:25:56 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Jun 17 23:26:02 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Jun 17 23:26:07 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Jun 17 23:26:12 2001] It will take about 5 more seconds to prepare your camp.

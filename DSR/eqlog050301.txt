@@ -1,0 +1,956 @@
+[Thu May 03 21:40:45 2001] Welcome to EverQuest!
+[Thu May 03 21:40:45 2001] You have entered Sunset Home.
+[Thu May 03 21:40:55 2001] You GMSAY, 'hullo! sorry I'm late, had to pick up my daughter'
+[Thu May 03 21:40:58 2001] Players in EverQuest:
+[Thu May 03 21:40:58 2001] ---------------------------
+[Thu May 03 21:40:58 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu May 03 21:40:58 2001] * Guide *[50 Monk]  (Human) <Keepers of Morell Thule> ZONE:  (USER PID AUGBAB8)
+[Thu May 03 21:40:58 2001] * Guide *[50 Cleric] Synder (Dark Elf) <Keepers of Morell Thule> ZONE: gfaydark (USER PID AUUWF46)
+[Thu May 03 21:40:58 2001] There are 3 players in EverQuest.
+[Thu May 03 21:41:09 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 03 21:41:10 2001] USER TEXT: this is my second petition ... But no GM are on... Can anyone help me?
+[Thu May 03 21:41:10 2001] Players in EverQuest:
+[Thu May 03 21:41:10 2001] ---------------------------
+[Thu May 03 21:41:10 2001] [6 Paladin] Deliops (Human) <Destinys Disciples> ZONE: gfaydark (USER PID AXV8HUA)
+[Thu May 03 21:41:10 2001] There is 1 player in EverQuest.
+[Thu May 03 21:41:54 2001] You feel as if you are about to fall.
+[Thu May 03 21:42:00 2001] You feel as if you are about to fall.
+[Thu May 03 21:42:06 2001] You can no longer levitate.
+[Thu May 03 21:42:15 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu May 03 21:42:16 2001] CHECKING IN
+[Thu May 03 21:42:18 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 03 21:42:44 2001] Spell particle effects are currently ON.
+[Thu May 03 21:44:08 2001] You GMSAY, 'I am getting massive lag and don't even know if anyone can hear this'
+[Thu May 03 21:44:11 2001] You GMSAY, 'relogging'
+[Thu May 03 21:44:17 2001] It will take you about 30 seconds to prepare your camp.
+[Thu May 03 21:44:21 2001] It will take about 25 more seconds to prepare your camp.
+[Thu May 03 21:44:26 2001] It will take about 20 more seconds to prepare your camp.
+[Thu May 03 21:44:31 2001] It will take about 15 more seconds to prepare your camp.
+[Thu May 03 21:44:36 2001] It will take about 10 more seconds to prepare your camp.
+[Thu May 03 21:44:41 2001] It will take about 5 more seconds to prepare your camp.
+[Thu May 03 21:48:11 2001] Welcome to EverQuest!
+[Thu May 03 21:48:11 2001] You have entered Sunset Home.
+[Thu May 03 21:48:15 2001] It begins to rain.
+[Thu May 03 21:48:15 2001] You GMSAY, 'back'
+[Thu May 03 21:48:24 2001] Players in EverQuest:
+[Thu May 03 21:48:24 2001] ---------------------------
+[Thu May 03 21:48:24 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu May 03 21:48:24 2001] [ANON (255 Unknown)]  (Iksar) ZONE:  (USER PID AVT8TQN)
+[Thu May 03 21:48:24 2001] * Guide *[50 Monk]  (Human) <Keepers of Morell Thule> ZONE:  (USER PID AUGBAB8)
+[Thu May 03 21:48:24 2001] * Guide *[50 Cleric] Synder (Dark Elf) <Keepers of Morell Thule> ZONE: gfaydark (USER PID AUUWF46)
+[Thu May 03 21:48:24 2001] There are 4 players in EverQuest.
+[Thu May 03 21:49:00 2001] You say, 'we miss you'
+[Thu May 03 21:49:00 2001] Llara the Mysterious says 'I miss you too, Espranza ! But don't worry about me. I am in a good place now, watching over all of you.' 
+[Thu May 03 21:49:14 2001] You say, 'what happened to you?'
+[Thu May 03 21:49:19 2001] You say, 'who are you?'
+[Thu May 03 21:49:19 2001] Llara the Mysterious says 'I am Llara. I was a guide on Erollisi Marr some time ago. I passed away shortly after becoming an apprentice trainer. My rebirth came from the help of Valtron. He is that stinky little dorf always running around Norrath. Valtron held a memorial service on Erollisi Marr shortly after I passed away. It was truly a beautiful event. Many people showed up to honor my passage.' Llara smiles... 
+[Thu May 03 21:49:26 2001] Ealar tells you, 'if you get a chance quick could you tell me how many pet's are ebfore mine in the que?  just need an aprox eta'
+[Thu May 03 21:49:36 2001] You must be on the 1st menu screen to leave GM mode.
+[Thu May 03 21:49:46 2001] Players in EverQuest:
+[Thu May 03 21:49:46 2001] ---------------------------
+[Thu May 03 21:49:46 2001] [58 Beguiler] Ealar (High Elf) <Circle of the Unseen> ZONE: dreadlands (USER PID ASX2WMZ)
+[Thu May 03 21:49:46 2001] There is 1 player in EverQuest.
+[Thu May 03 21:50:00 2001] You told Ealar, 'about three'
+[Thu May 03 21:50:02 2001] Players in EverQuest:
+[Thu May 03 21:50:02 2001] ---------------------------
+[Thu May 03 21:50:02 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu May 03 21:50:02 2001] * Guide *[50 Monk]  (Human) <Keepers of Morell Thule> ZONE:  (USER PID AUGBAB8)
+[Thu May 03 21:50:02 2001] * Guide *[50 Cleric] Synder (Dark Elf) <Keepers of Morell Thule> ZONE: gfaydark (USER PID AUUWF46)
+[Thu May 03 21:50:02 2001] There are 3 players in EverQuest.
+[Thu May 03 21:50:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 03 21:50:04 2001] USER TEXT: Greetings! sorry to bother you but i seem to be stuck in the GM guide loc room. i have no idea how i got here, i just loged on and was in it.
+[Thu May 03 21:50:04 2001] Players in EverQuest:
+[Thu May 03 21:50:04 2001] ---------------------------
+[Thu May 03 21:50:04 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 21:50:06 2001] Ealar tells you, 'thank you'
+[Thu May 03 21:50:12 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu May 03 21:50:14 2001] CHECKING IN
+[Thu May 03 21:50:16 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 03 21:50:17 2001] USER TEXT: went LD zoning into OT brought me back in oasis when i got back on
+[Thu May 03 21:50:17 2001] Players in EverQuest:
+[Thu May 03 21:50:17 2001] ---------------------------
+[Thu May 03 21:50:17 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 21:50:21 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu May 03 21:50:22 2001] CHECKING IN
+[Thu May 03 21:50:24 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 03 21:50:25 2001] USER TEXT: something is very wrong with server tonight..everyone keeps goin LD....i didnt even have any lag...just BAM!....froze or something...i wasnt even fighting anything...got back on and im dead....i was runnin in sol b..i dont know if i fell in lava
+[Thu May 03 21:50:25 2001] Players in EverQuest:
+[Thu May 03 21:50:25 2001] ---------------------------
+[Thu May 03 21:50:25 2001] [45 Rogue] Meaty (Dark Elf) <Happy Funtime Elves> ZONE: cabeast (USER PID AQQ5KNS)
+[Thu May 03 21:50:25 2001] There is 1 player in EverQuest.
+[Thu May 03 21:50:35 2001] Searching zones for corpse of that name....
+[Thu May 03 21:50:36 2001] Corpse: Meaty's corpse0 in zone: soldungb
+[Thu May 03 21:50:38 2001] You GMSAY, 'zone'
+[Thu May 03 21:50:40 2001] Players in EverQuest:
+[Thu May 03 21:50:40 2001] ---------------------------
+[Thu May 03 21:50:40 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu May 03 21:50:40 2001] * Guide *[50 Monk]  (Human) <Keepers of Morell Thule> ZONE:  (USER PID AUGBAB8)
+[Thu May 03 21:50:40 2001] * Guide *[50 Cleric] Synder (Dark Elf) <Keepers of Morell Thule> ZONE: gfaydark (USER PID AUUWF46)
+[Thu May 03 21:50:40 2001] There are 3 players in EverQuest.
+[Thu May 03 21:50:48 2001] LOADING, PLEASE WAIT...
+[Thu May 03 21:51:13 2001] You have entered Nagafen's Lair.
+[Thu May 03 21:51:28 2001] Obni tells you, 'the weird LD stuff seems to be starting to happen again, do you think MT is likely to be going down please?'
+[Thu May 03 21:51:31 2001] You must first select a target for this spell!
+[Thu May 03 21:51:33 2001] You are invulnerable.
+[Thu May 03 21:51:36 2001] Teleporting to Meaty's corpse0.
+[Thu May 03 21:51:40 2001] Synder GMSAYS, 'well I am sorry but I must get going need sleep for work in the morning...be well esparanza the queue has been like this most of the night I wish I could stay but I must log...good luck'
+[Thu May 03 21:51:50 2001] You GMSAY, 'noticing any weird LD problems?'
+[Thu May 03 21:51:59 2001] You told Obni, 'I don't know; I lagged out just a minute ago myself'
+[Thu May 03 21:52:34 2001] Synder GMSAYS, 'I went LD a bit ago but I lost my cable signal, and CB zoned some out of the zone but I looked and all zones are up..so I dont know'
+[Thu May 03 21:52:37 2001] Your invulnerability fades.
+[Thu May 03 21:52:49 2001] Obni tells you, 'thanks - hope it clears up'
+[Thu May 03 21:52:55 2001] You told Obni, 'me too'
+[Thu May 03 21:53:03 2001] You say to your guild, 'hmmm....'
+[Thu May 03 21:53:07 2001] USER TEXT: something is very wrong with server tonight..everyone keeps goin LD....i didnt even have any lag...just BAM!....froze or something...i wasnt even fighting anything...got back on and im dead....i was runnin in sol b..i dont know if i fell in lava
+[Thu May 03 21:53:10 2001] Synder GMSAYS, 'and that little spike we just had probably didn't help the queue any either'
+[Thu May 03 21:53:22 2001] Syrous begins to cast a spell. (Feign Death)
+[Thu May 03 21:53:23 2001] Syrous dies.
+[Thu May 03 21:53:40 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:53:41 2001] Syrous shouts, 'train to GM heh'
+[Thu May 03 21:53:41 2001] You told Meaty, 'Hail, Meaty! Guide Espranza here. I don't know about the LD problem... wish I did. Your corpse is not far from the zone in Sol B and is not in lava, at least.'
+[Thu May 03 21:53:44 2001] DELETING THIS PETITION
+[Thu May 03 21:53:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 03 21:53:47 2001] USER TEXT: died to bug
+[Thu May 03 21:53:47 2001] Players in EverQuest:
+[Thu May 03 21:53:47 2001] ---------------------------
+[Thu May 03 21:53:47 2001] [58 Beguiler] Ealar (High Elf) <Circle of the Unseen> ZONE: dreadlands (USER PID ASX2WMZ)
+[Thu May 03 21:53:47 2001] There is 1 player in EverQuest.
+[Thu May 03 21:53:48 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 21:54:01 2001] You told Ealar, 'Hail, Ealar! Guide Espranza here. How may I help you?'
+[Thu May 03 21:54:10 2001] Searching for lord_nagafen00.
+[Thu May 03 21:54:10 2001] Could not locate player with that name.
+[Thu May 03 21:54:10 2001] Meaty tells you, 'i didnt get killed'
+[Thu May 03 21:54:28 2001] Teleporting to meaty's corpse0.
+[Thu May 03 21:54:31 2001] Ealar tells you, 'died from a levitate bug, dealing with air elemental and bard song stacking.  are you familar with this bug (feature whatever, just wana know if I have to explain it)'
+[Thu May 03 21:54:31 2001] Meaty tells you, 'my green lag bar just disappered'
+[Thu May 03 21:54:40 2001] You told Meaty, 'you have a corpse here...'
+[Thu May 03 21:54:42 2001] Meaty tells you, 'the whole thing just completly crashed'
+[Thu May 03 21:54:59 2001] Syrous begins to cast a spell. (Dooming Darkness)
+[Thu May 03 21:54:59 2001] Meaty tells you, 'im saying i wasnt fighting anything..nothing killed me'
+[Thu May 03 21:55:08 2001] Syrous's blood boils.
+[Thu May 03 21:55:12 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Thu May 03 21:55:12 2001] greater kobold says 'Your actions and history are a personal affront to all I stand for.'
+[Thu May 03 21:55:16 2001] Solusek kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:55:17 2001] Syrous begins to cast a spell. (Feign Death)
+[Thu May 03 21:55:20 2001] Syrous begins to cast a spell. (Feign Death)
+[Thu May 03 21:55:22 2001] Syrous dies.
+[Thu May 03 21:55:24 2001] Yuliann's blood boils.
+[Thu May 03 21:55:26 2001] Syrous says, 'arg, go away!'
+[Thu May 03 21:55:32 2001] Solusek kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:55:39 2001] You told Meaty, 'something killed you...'
+[Thu May 03 21:55:52 2001] You told Meaty, 'it might have been that with lag you couldn't see what did it'
+[Thu May 03 21:56:15 2001] You told Ealar, 'No, I am not familiar with that bug.'
+[Thu May 03 21:56:15 2001] Meaty tells you, 'i wasn not figthing..nor was i near any mobs'
+[Thu May 03 21:56:22 2001] Meaty tells you, 'there was no train'
+[Thu May 03 21:56:33 2001] Players in EverQuest:
+[Thu May 03 21:56:33 2001] ---------------------------
+[Thu May 03 21:56:33 2001] [ANON (63 Unknown)]  (Unknown) ZONE:  (USER PID ATLJ2G2)
+[Thu May 03 21:56:33 2001] [ANON (255 Unknown)]  (Iksar) ZONE:  (USER PID AUKMVWS)
+[Thu May 03 21:56:33 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: soldungb (USER PID AUGBQH4)
+[Thu May 03 21:56:33 2001] There are 3 players in EverQuest.
+[Thu May 03 21:56:35 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:56:41 2001] You GMSAY, 'Lirus, are you on?'
+[Thu May 03 21:56:43 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 21:56:51 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:57:03 2001] Ealar tells you, 'ok. how it works is I cast air elemental on myself,  causing me to get the ability levitate (inherent from the illusion).  then the bard song (or even reguar levitate) is cast on me, causing me to have both spells up, with the same effect..'
+[Thu May 03 21:57:13 2001] You told Ealar, 'okay'
+[Thu May 03 21:57:19 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:57:26 2001] Ealar tells you, 'as elvitate while stacked.  when the second one cast on me fades,  I loose levitate, even tho air elemental is still up and I should be levitating'
+[Thu May 03 21:57:27 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Thu May 03 21:57:27 2001] greater kobold says 'Your actions and history are a personal affront to all I stand for.'
+[Thu May 03 21:57:30 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Thu May 03 21:57:30 2001] greater kobold says 'Your foul deeds have earned my contempt.'
+[Thu May 03 21:57:51 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:58:03 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:58:11 2001] Solusek kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:58:15 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Thu May 03 21:58:15 2001] greater kobold says 'Filthy Dark Elves like you must die!'
+[Thu May 03 21:58:16 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Thu May 03 21:58:16 2001] greater kobold says 'Dark Elves like you are better left dead than alive.'
+[Thu May 03 21:58:16 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Thu May 03 21:58:16 2001] greater kobold says 'It's Dark Elves like you who have ruined your own lands, You'll not ruin mine!'
+[Thu May 03 21:58:16 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Thu May 03 21:58:16 2001] greater kobold says 'It's Dark Elves like you who have ruined your own lands, You'll not ruin mine!'
+[Thu May 03 21:58:19 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:58:23 2001] Solusek kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:58:27 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 21:58:31 2001] Solusek kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:58:34 2001] You told Ealar, 'okay... you knew about this bug before, then?'
+[Thu May 03 21:58:35 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:58:35 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:58:43 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:58:43 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 21:58:47 2001] Solusek kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:58:48 2001] Ealar tells you, 'yes, this is a reported bug that has been on the bug board several times'
+[Thu May 03 21:58:51 2001] Ealar tells you, 'sec zone train'
+[Thu May 03 21:58:51 2001] greater kobold shaman begins to cast a spell. (Companion Spirit)
+[Thu May 03 21:58:51 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 21:58:59 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:59:07 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:59:07 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:59:14 2001] Meaty tells you, 'im telling you as a paying customer something very bad happened that was not player related....im bound in kunark...still in hell level 3...and...im a cop in NJ and work nights and dont get alot of playtime...this was not my fault sir'
+[Thu May 03 21:59:15 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 21:59:23 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 21:59:23 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:59:26 2001] Ealar tells you, ''
+[Thu May 03 21:59:31 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:59:31 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 21:59:31 2001] Solusek kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 21:59:39 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 21:59:56 2001] You told Ealar, 'is there some way I can tell independently that this bug caused you to die?'
+[Thu May 03 22:00:01 2001] Ealar tells you, 'while I knew about the bug, I have no way to stop the bard from casting levitate on me, and sinec bard song has a short duration I have no control over my air elemental becoming thus bug'
+[Thu May 03 22:00:33 2001] You told Meaty, 'I'm sorry, I can't rez for deaths caused by or related to lag.'
+[Thu May 03 22:00:34 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:00:38 2001] Solusek kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:00:40 2001] Ealar tells you, 'thats going to be tricky, perhaps you could take my word for it?  I dont know what type of logging features you have but this isnt the sole reason I died if this bug dosent  count as enough'
+[Thu May 03 22:00:42 2001] greater kobold shaman begins to cast a spell. (Companion Spirit)
+[Thu May 03 22:00:42 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:00:50 2001] Solusek kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:00:52 2001] Meaty tells you, 'i had no lag'
+[Thu May 03 22:00:54 2001] Ealar tells you, 'this is the reason the other reasons where caused tho'
+[Thu May 03 22:00:58 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:01:02 2001] Hoonis says out of character, '40 monk LFG'
+[Thu May 03 22:01:06 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 22:01:14 2001] Hoonis says out of character, 'wohhh only one here'
+[Thu May 03 22:01:14 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 22:01:14 2001] Solusek kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:01:16 2001] Hoonis says out of character, 'lol'
+[Thu May 03 22:01:20 2001] Meaty tells you, 'can ya at least bring me back to the zone'
+[Thu May 03 22:01:22 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 22:01:26 2001] Solusek kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:01:26 2001] Players on EverQuest:
+[Thu May 03 22:01:26 2001] ---------------------------
+[Thu May 03 22:01:26 2001] There are no players in Nagafen's Lair that match those who filters.
+[Thu May 03 22:01:30 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 22:01:35 2001] Players in EverQuest:
+[Thu May 03 22:01:35 2001] ---------------------------
+[Thu May 03 22:01:35 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 22:01:41 2001] Players on EverQuest:
+[Thu May 03 22:01:41 2001] ---------------------------
+[Thu May 03 22:01:41 2001] There are no players in Nagafen's Lair that match those who filters.
+[Thu May 03 22:01:43 2001] Espranza saved.
+[Thu May 03 22:01:43 2001] Players on EverQuest:
+[Thu May 03 22:01:43 2001] ---------------------------
+[Thu May 03 22:01:43 2001] [ANONYMOUS] Hoonis  <Heroic Few>
+[Thu May 03 22:01:43 2001] * GM * [50 Rogue] Espranza (Halfling) <Keepers of Morell Thule>
+[Thu May 03 22:01:43 2001] There are 2 players in Nagafen's Lair.
+[Thu May 03 22:01:55 2001] Players in EverQuest:
+[Thu May 03 22:01:55 2001] ---------------------------
+[Thu May 03 22:01:55 2001] [45 Rogue] Meaty (Dark Elf) <Happy Funtime Elves> ZONE: cabeast (USER PID AQQ5KNS)
+[Thu May 03 22:01:55 2001] There is 1 player in EverQuest.
+[Thu May 03 22:02:11 2001] You told Meaty, 'I'm sorry, I can't do that. I wish I could.'
+[Thu May 03 22:02:20 2001] Meaty tells you, 'why not?'
+[Thu May 03 22:02:40 2001] You told Meaty, 'because I have no way of independently verifying you died due to a bug.'
+[Thu May 03 22:02:54 2001] You told Ealar, 'let me look at your corpse and see if I can see anything fishy.'
+[Thu May 03 22:02:57 2001] Meaty tells you, 'yes you can'
+[Thu May 03 22:03:04 2001] Ealar tells you, 'my corpse was caused by 2 thigns.  first, I was dumped into the lava, and when I had 2 sup heals sucessfully land upon me I was 'protected'.. since I'm not pvp it is hard for the rules of discord to be taking effect on me.  the second ...'
+[Thu May 03 22:03:04 2001] You told Meaty, 'how?'
+[Thu May 03 22:03:30 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:03:33 2001] Meaty tells you, 'you can ask valkryhis..i was in her group......we all met outside and zoned in '
+[Thu May 03 22:03:38 2001] greater kobold shaman begins to cast a spell. (Companion Spirit)
+[Thu May 03 22:03:54 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:04:02 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 22:04:03 2001] Ealar tells you, 'reason is, when the port when off, I was left behind due to this 'protected' status, again the rules of discord taking effect on 2 blue players doesnt work.  and all in all, I would never had been in the lava if levitate had not faded even'
+[Thu May 03 22:04:06 2001] Ealar tells you, 'with air elemental up'
+[Thu May 03 22:04:10 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 22:04:25 2001] Ealar tells you, '(I droped air elemental in a effort to recast it, which makes it even harder to prove I guess hehe)'
+[Thu May 03 22:04:25 2001] Morydwen tells you, 'hail hail probleme with active caracter'
+[Thu May 03 22:04:30 2001] You told Ealar, 'being in the lava is like swimming; people can't cast on you from outside it'
+[Thu May 03 22:04:43 2001] You GMSAY, 'zone'
+[Thu May 03 22:04:46 2001] Caamoleon says, 'whats the deal with the zone? is it ok to be here?'
+[Thu May 03 22:04:48 2001] Searching for ealar.
+[Thu May 03 22:04:48 2001] Player is in zone karnor at x = 125 y = 371 z = 3.
+[Thu May 03 22:04:49 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:04:53 2001] Searching zones for corpse of that name....
+[Thu May 03 22:04:53 2001] Greater kobold shaman feels much faster.
+[Thu May 03 22:04:53 2001] Corpse: Ealar's corpse0 in zone: soldungb
+[Thu May 03 22:04:58 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:04:58 2001] Meaty tells you, 'im not making this stuff up...i only petition when i die due to some bug that is not player related'
+[Thu May 03 22:05:01 2001] Greater kobold feels much faster.
+[Thu May 03 22:05:05 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:05:09 2001] Greater kobold feels much faster.
+[Thu May 03 22:05:13 2001] greater kobold shaman begins to cast a spell. (Companion Spirit)
+[Thu May 03 22:05:16 2001] You are invulnerable.
+[Thu May 03 22:05:17 2001] Teleporting to Ealar's corpse0.
+[Thu May 03 22:05:21 2001] You can't cast spells while invulnerable!
+[Thu May 03 22:05:27 2001] Aaneka GMSAYS, 'can anyone zone into skyfire or field of bone'
+[Thu May 03 22:05:35 2001] Teleporting to imp_protector00 (-667.00, 134.00, -82.80).
+[Thu May 03 22:05:39 2001] Players in EverQuest:
+[Thu May 03 22:05:39 2001] ---------------------------
+[Thu May 03 22:05:39 2001] * Guide *[1 Warrior] Aaneka (Dwarf) ZONE: kaladima (USER PID ANUGSAB)
+[Thu May 03 22:05:39 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: soldungb (USER PID AUGBQH4)
+[Thu May 03 22:05:39 2001] There are 2 players in EverQuest.
+[Thu May 03 22:05:39 2001] Ealar tells you, 'the reason I died is caused by this levitate bug.  not to mention I *also* had the bard song from the bard boots on along with the normal bard song up, along with air elemental.  but I could get into a loophole about how it was a 'bug' that'
+[Thu May 03 22:05:56 2001] You GMSAY, 'you mean, is it possible for anyone to?'
+[Thu May 03 22:05:57 2001] Ealar tells you, 'the rules of discord randomly took effect in this situation, even tho I am still bound by the laws of discord.'
+[Thu May 03 22:06:02 2001] Caamoleon shouts, 'hoonis whats going on with the zone?'
+[Thu May 03 22:06:05 2001] lava guardian begins to cast a spell. (FireElementalAura)
+[Thu May 03 22:06:17 2001] lava guardian begins to cast a spell. (FireElementalAura)
+[Thu May 03 22:06:19 2001] Your invulnerability fades.
+[Thu May 03 22:06:25 2001] You told Ealar, 'you can't cast spells on swimming people unless you're swimming'
+[Thu May 03 22:06:29 2001] You GMSAY, 'I can check it out'
+[Thu May 03 22:06:39 2001] Summoning Ealar's corpse0.
+[Thu May 03 22:06:46 2001] Aaneka GMSAYS, 'also check out field of bone'
+[Thu May 03 22:06:50 2001] Ealar tells you, 'zone'
+[Thu May 03 22:06:51 2001] You GMSAY, 'okay - zone'
+[Thu May 03 22:07:37 2001] lava guardian begins to cast a spell. (FireElementalAura)
+[Thu May 03 22:07:56 2001] ERROR: Couldn't get safe coords for fieldofbone, unable to zone.
+
+[Thu May 03 22:08:04 2001] You GMSAY, 'no go on the field of bone'
+[Thu May 03 22:08:14 2001] You GMSAY, 'zone'
+[Thu May 03 22:08:33 2001] lava guardian begins to cast a spell. (FireElementalAura)
+[Thu May 03 22:08:33 2001] Lava guardian begins to radiate.
+[Thu May 03 22:09:16 2001] Ealar tells you, 'anyway, thats not the main point, altho I could probably get in a long (and waste both of our time doing so) argument about the 'you are protected (by the laws of discord)' message, I wont.  the fact remains, I had 2 forms of levitate up,..'
+[Thu May 03 22:09:31 2001] You GMSAY, 'nor skyfire - lemme try a random zone'
+[Thu May 03 22:09:32 2001] You GMSAY, 'zone'
+[Thu May 03 22:10:20 2001] lava guardian begins to cast a spell. (FireElementalAura)
+[Thu May 03 22:10:21 2001] Lava guardian begins to radiate.
+[Thu May 03 22:10:37 2001] ERROR: Couldn't get safe coords for lavastorm, unable to zone.
+
+[Thu May 03 22:10:48 2001] You GMSAY, 'I can't zone anywhere. let me try it manually.'
+[Thu May 03 22:10:50 2001] Players in EverQuest:
+[Thu May 03 22:10:50 2001] ---------------------------
+[Thu May 03 22:10:50 2001] * Guide *[1 Warrior] Aaneka (Dwarf) ZONE: firiona (USER PID ANUGSAB)
+[Thu May 03 22:10:50 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: soldungb (USER PID AUGBQH4)
+[Thu May 03 22:10:50 2001] There are 2 players in EverQuest.
+[Thu May 03 22:11:03 2001] You GMSAY, 'how is it you're buffed as a guide but are only level 1?'
+[Thu May 03 22:11:34 2001] Ealar tells you, 'ah, do you see the clerics corpse next to me.  she was also protected because of bard song fading.  she had boot levitate up and bard song, when the bard song was cut off we both fell.  I am not sure how this could be loged, but we both..'
+[Thu May 03 22:11:36 2001] You told Ealar, 'You're corpse was in the lava in high elf form near efreeti; I've removed it from the lava. I believe what you've told me, but cannot verify it.'
+[Thu May 03 22:11:36 2001] lava guardian begins to cast a spell. (FireElementalAura)
+[Thu May 03 22:11:45 2001] Ealar tells you, 'bleh hehe'
+[Thu May 03 22:11:45 2001] You told Ealar, 'name of the cleric?'
+[Thu May 03 22:12:07 2001] Aaneka GMSAYS, 'I'm in EQ ops'
+[Thu May 03 22:12:09 2001] You feel the spirit of Norrath enter you.
+[Thu May 03 22:12:10 2001] Your feet leave the ground.
+[Thu May 03 22:12:12 2001] You GMSAY, 'ah'
+[Thu May 03 22:12:30 2001] Ealar tells you, 'hehe k,  any chance you could save us time since our group just got locked out of solb and put our corpses at zone or something?'
+[Thu May 03 22:13:04 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:13:11 2001] You told Ealar, 'sec solb seems to be down or something - I'm trapped in here'
+[Thu May 03 22:13:18 2001] LOADING, PLEASE WAIT...
+[Thu May 03 22:37:32 2001] Welcome to EverQuest!
+[Thu May 03 22:37:32 2001] You have entered Lavastorm Mountains.
+[Thu May 03 22:37:32 2001] MESSAGE OF THE DAY: Once again we are gathering a party to protect and serve the lands. Scribes are now taking applications to become a Volenteer Guide. To join the EverQuest Guide Program you may apply at guideapp.everquest.com. Good luck!
+[Thu May 03 22:37:37 2001] Hhawk gains a flash of insight.
+[Thu May 03 22:37:41 2001] Hhawk begins to cast a spell. (Clarity)
+[Thu May 03 22:37:42 2001] Players in EverQuest:
+[Thu May 03 22:37:42 2001] ---------------------------
+[Thu May 03 22:37:42 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: lavastorm (USER PID AUGBQH4)
+[Thu May 03 22:37:42 2001] * Guide *[1 Warrior] Aaneka (Dwarf) ZONE: skyfire (USER PID ANUGSAB)
+[Thu May 03 22:37:42 2001] * GM-Lead Admin *[60 Sorcerer] Maevianiu (Gnome) ZONE: soldunga (USER PID AWJ61NT)
+[Thu May 03 22:37:42 2001] There are 3 players in EverQuest.
+[Thu May 03 22:37:44 2001] Valkyris says, 'Hiya!'
+[Thu May 03 22:37:45 2001] Valkyris looks tranquil.
+[Thu May 03 22:37:47 2001] You GMSAY, 'hiya'
+[Thu May 03 22:37:51 2001] Lirus GMSAYS, 'heya'
+[Thu May 03 22:37:51 2001] Njaal says, 'in chat the GMs insisted they would not bounce the whole server complex'
+[Thu May 03 22:37:54 2001] You GMSAY, 'when MT comes back, can I rez?'
+[Thu May 03 22:37:59 2001] Lirus GMSAYS, 'yes'
+[Thu May 03 22:38:03 2001] Xetulous GMSAYS, 'Hehe'
+[Thu May 03 22:38:05 2001] You GMSAY, 'also, the motd has a misspelling'
+[Thu May 03 22:38:10 2001] MESSAGE OF THE DAY: Once again we are gathering a party to protect and serve the lands. Scribes are now taking applications to become a Volenteer Guide. To join the EverQuest Guide Program you may apply at guideapp.everquest.com. Good luck!
+[Thu May 03 22:38:12 2001] Lirus GMSAYS, 'where?'
+[Thu May 03 22:38:13 2001] Hhawk begins to cast a spell. (Insight)
+[Thu May 03 22:38:18 2001] Valkyris looks wise.
+[Thu May 03 22:38:20 2001] You GMSAY, 'Volunteer, not Volenteer'
+[Thu May 03 22:38:22 2001] Valkyris says, 'Is SolB down?'
+[Thu May 03 22:38:23 2001] Hhawk begins to cast a spell. (Insight)
+[Thu May 03 22:38:26 2001] Njaal says, 'The ops guy actually got mad at the suggestion LOL'
+[Thu May 03 22:38:27 2001] Njaal looks wise.
+[Thu May 03 22:38:27 2001] Valkyris begins to cast a spell. (Greater Healing)
+[Thu May 03 22:38:28 2001] Lirus GMSAYS, 'oops'
+[Thu May 03 22:38:31 2001] Valkyris feels much better.
+[Thu May 03 22:38:36 2001] You say, 'system coming down in fifteen'
+[Thu May 03 22:38:39 2001] Xetulous GMSAYS, 'Hehe depends on the language'
+[Thu May 03 22:38:41 2001] You say, 'they're going to reboot'
+[Thu May 03 22:38:44 2001] Xetulous GMSAYS, 'Jk'
+[Thu May 03 22:38:46 2001] Players in EverQuest:
+[Thu May 03 22:38:46 2001] ---------------------------
+[Thu May 03 22:38:46 2001] [ANON (255 Unknown)]  (Iksar) ZONE:  (USER PID APSESCY)
+[Thu May 03 22:38:46 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AWF6DF3)
+[Thu May 03 22:38:46 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: lavastorm (USER PID AUGBQH4)
+[Thu May 03 22:38:46 2001] There are 3 players in EverQuest.
+[Thu May 03 22:38:54 2001] Valkyris says, 'What the ETA ?'
+[Thu May 03 22:38:57 2001] Njaal says, 'Verant forgets this game is played by a ton of coders, get used to being second-guessed  :)'
+[Thu May 03 22:38:57 2001] You no longer have a target.
+[Thu May 03 22:39:02 2001] You say, 'be down for about five'
+[Thu May 03 22:39:05 2001] Hoonis hugs Valkyris.
+[Thu May 03 22:39:11 2001] Hhawk says, 'glad we had that fight won when the crash came'
+[Thu May 03 22:39:12 2001] Valkyris says, 'Thats not so bad...'
+[Thu May 03 22:39:14 2001] You say, 'best to log off now'
+[Thu May 03 22:39:15 2001] Njaal says, 'minutes or hours?  :)'
+[Thu May 03 22:39:18 2001] Aldanus tells you, 'will it be coming back up soon?'
+[Thu May 03 22:39:18 2001] You say, 'minutes'
+[Thu May 03 22:39:19 2001] Valkyris hugs Hoonis.
+[Thu May 03 22:39:21 2001] You told Aldanus, 'yes'
+[Thu May 03 22:39:21 2001] Njaal says, 'cool'
+[Thu May 03 22:39:26 2001] Valkyris says, 'I can live with that! =)'
+[Thu May 03 22:39:26 2001] Njaal thanks Espranza heartily.
+[Thu May 03 22:39:27 2001] Angelize tells you, 'Hi hun please ask Lirus to take my last name away before the wedding :)'
+[Thu May 03 22:39:30 2001] Hhawk says, 'minutes'
+[Thu May 03 22:39:30 2001] Valkyris hugs Espranza.
+[Thu May 03 22:39:32 2001] Njaal waves goodbye to Espranza.
+[Thu May 03 22:39:33 2001] Aldanus tells you, 'ok thanks '
+[Thu May 03 22:39:44 2001] Valkyris begins to cast a spell. (Valor)
+[Thu May 03 22:39:47 2001] You told Angelize, 'has to be done all at once....'
+[Thu May 03 22:39:47 2001] You feel valorous.
+[Thu May 03 22:39:50 2001] Meaty tells you, 'i told ya it was all messed up...please help me before server comes down..please!!!'
+[Thu May 03 22:39:54 2001] Valkyris beams a smile at Espranza.
+[Thu May 03 22:40:05 2001] Hhawk says, 'hope rest made it out alive'
+[Thu May 03 22:40:06 2001] Angelize tells you, 'Darn he wont be on will he lol'
+[Thu May 03 22:40:06 2001] You told Meaty, 'I crash when I zone'
+[Thu May 03 22:40:18 2001] You told Angelize, 'not that early but I will leave a note for him'
+[Thu May 03 22:40:26 2001] You GMSAY, 'attempting to zone'
+[Thu May 03 22:40:28 2001] Angelize tells you, 'Thanks your great :)'
+[Thu May 03 22:40:33 2001] Valkyris says, 'Yeah it was baaaaad'
+[Thu May 03 22:40:34 2001] LOADING, PLEASE WAIT...
+[Thu May 03 22:41:04 2001] You have entered Nagafen's Lair.
+[Thu May 03 22:41:07 2001] Khael says, 'um, who else we missing?'
+[Thu May 03 22:41:13 2001] You GMSAY, 'yay! zoned!'
+[Thu May 03 22:41:15 2001] Ealar says, '.'
+[Thu May 03 22:41:17 2001] Khael says, 'just you and tulipe right'
+[Thu May 03 22:41:20 2001] Players in EverQuest:
+[Thu May 03 22:41:20 2001] ---------------------------
+[Thu May 03 22:41:20 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 22:41:23 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:41:25 2001] Ealar says, 'yep'
+[Thu May 03 22:41:28 2001] Tulipe says, 'yep'
+[Thu May 03 22:41:28 2001] Lirus hugs Espranza.
+[Thu May 03 22:41:28 2001] Ealar begins to cast a spell. (Wonderous Rapidity)
+[Thu May 03 22:41:30 2001] Ealar says, 'there'
+[Thu May 03 22:41:31 2001] Khael says, 'okay logging'
+[Thu May 03 22:41:35 2001] Lirus begins to move with wondrous rapidity.
+[Thu May 03 22:41:37 2001] You wave at Lirus.
+[Thu May 03 22:41:38 2001] Khael says, 'is there an ETA lirus?'
+[Thu May 03 22:41:38 2001] Ealar says, 'now go solo naggy before servers go down'
+[Thu May 03 22:41:39 2001] Ealar giggles at Lirus.
+[Thu May 03 22:41:44 2001] Rudis says, 'hehe cool my corps is back '
+[Thu May 03 22:41:47 2001] Ealar says, 'thanks espranza'
+[Thu May 03 22:41:51 2001] Ealar hugs Espranza.
+[Thu May 03 22:41:55 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:42:01 2001] Ealar wave goodbye.
+[Thu May 03 22:42:04 2001] You say, 'wish I could have helped more, I crashed while trying to zone and couldn't get back on'
+[Thu May 03 22:42:07 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:42:09 2001] Ealar says, 'hehee'
+[Thu May 03 22:42:11 2001] Rudis says, 'gm lirus: this is the 4 th time i petitioneed cose corps are in wall ('
+[Thu May 03 22:42:11 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:42:15 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 22:42:22 2001] Rudis says, 'i done a bugg request too '
+[Thu May 03 22:42:23 2001] greater kobold shaman begins to cast a spell. (Inner Fire)
+[Thu May 03 22:42:26 2001] Aaeweien says, 'I want to petition this helmet'
+[Thu May 03 22:42:27 2001] greater kobold shaman begins to cast a spell. (Spirit of Wolf)
+[Thu May 03 22:42:30 2001] Rudis says, 'and always in bugg room'
+[Thu May 03 22:42:32 2001] Greater kobold shaman is surrounded by a brief lupine aura.
+[Thu May 03 22:42:35 2001] Lirus says, 'Rudis, can you see your corpse now?'
+[Thu May 03 22:42:39 2001] MESSAGE OF THE DAY: Once again we are gathering a party to protect and serve the lands. Scribes are now taking applications to become a Volenteer Guide. To join the EverQuest Guide Program you may apply at guideapp.everquest.com. Good luck!
+[Thu May 03 22:42:41 2001] Rudis says, 'when u die near wall '
+[Thu May 03 22:42:46 2001] Rudis says, 'yes'
+[Thu May 03 22:42:48 2001] Aaeweien says, 'it's toooo ugly'
+[Thu May 03 22:43:19 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:43:19 2001] Tulipe says, 'huu. naggy lair is empty? :)'
+[Thu May 03 22:43:24 2001] You told Meaty, 'Your corpse is not far from the zone...'
+[Thu May 03 22:43:27 2001] Lirus shrugs unknowingly.
+[Thu May 03 22:43:51 2001] Solusek kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:43:55 2001] Meaty tells you, 'but know you there  was a bug'
+[Thu May 03 22:44:01 2001] You GMSAY, 'zoning and trying to answer some pets before system goes down'
+[Thu May 03 22:44:03 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:44:03 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:44:03 2001] Solusek kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:44:07 2001] Meaty tells you, 'err now you know there was a bug'
+[Thu May 03 22:44:11 2001] LOADING, PLEASE WAIT...
+[Thu May 03 22:44:30 2001] You have entered Sunset Home.
+[Thu May 03 22:45:05 2001] You GMSAY, 'zone'
+[Thu May 03 22:45:10 2001] LOADING, PLEASE WAIT...
+[Thu May 03 22:45:37 2001] You have entered Nagafen's Lair.
+[Thu May 03 22:45:41 2001] Greater kobold feels much better.
+[Thu May 03 22:45:41 2001] Rudis begins to cast a spell. (Shiftless Deeds)
+[Thu May 03 22:45:46 2001] greater kobold shaman begins to cast a spell. (Light Healing)
+[Thu May 03 22:45:46 2001] Greater kobold slows down.
+[Thu May 03 22:45:48 2001] Greater kobold feels better.
+[Thu May 03 22:45:51 2001] Summoning meaty's corpse0.
+[Thu May 03 22:45:54 2001] greater kobold shaman begins to cast a spell. (Healing)
+[Thu May 03 22:45:57 2001] Greater kobold feels much better.
+[Thu May 03 22:45:59 2001] Lirus comforts Hoonis.
+[Thu May 03 22:46:02 2001] You told Meaty, 'ready?'
+[Thu May 03 22:46:02 2001] greater kobold shaman begins to cast a spell. (Regeneration)
+[Thu May 03 22:46:08 2001] Greater kobold begins to regenerate.
+[Thu May 03 22:46:10 2001] Meaty tells you, 'yes sir'
+[Thu May 03 22:46:14 2001] greater kobold shaman begins to cast a spell. (Light Healing)
+[Thu May 03 22:46:14 2001] Rudis says, 'not very fun to play here with so lots of bug ('
+[Thu May 03 22:46:14 2001] You told Meaty, 'sir?'
+[Thu May 03 22:46:16 2001] Greater kobold feels better.
+[Thu May 03 22:46:22 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Thu May 03 22:46:23 2001] Players in EverQuest:
+[Thu May 03 22:46:23 2001] ---------------------------
+[Thu May 03 22:46:23 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 22:46:26 2001] Greater kobold feels much better.
+[Thu May 03 22:46:26 2001] Players in EverQuest:
+[Thu May 03 22:46:26 2001] ---------------------------
+[Thu May 03 22:46:26 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 22:46:28 2001] Players in EverQuest:
+[Thu May 03 22:46:28 2001] ---------------------------
+[Thu May 03 22:46:28 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 22:46:30 2001] Players in EverQuest:
+[Thu May 03 22:46:30 2001] ---------------------------
+[Thu May 03 22:46:30 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 22:46:30 2001] greater kobold shaman begins to cast a spell. (Healing)
+[Thu May 03 22:46:32 2001] Players in EverQuest:
+[Thu May 03 22:46:32 2001] ---------------------------
+[Thu May 03 22:46:32 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 22:46:33 2001] Greater kobold feels much better.
+[Thu May 03 22:46:35 2001] Rudis says, 'anyway good luck to u gm lirus and esperanza'
+[Thu May 03 22:46:37 2001] Players in EverQuest:
+[Thu May 03 22:46:37 2001] ---------------------------
+[Thu May 03 22:46:37 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 22:46:38 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Thu May 03 22:46:42 2001] Solvon begins to cast a spell. (Clinging Darkness)
+[Thu May 03 22:46:42 2001] Greater kobold feels much better.
+[Thu May 03 22:46:43 2001] Lirus says, 'Thanks Rudis'
+[Thu May 03 22:46:44 2001] You say, 'thanks, we're gonna need it'
+[Thu May 03 22:46:46 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Thu May 03 22:46:48 2001] Solvon begins to cast a spell. (Dooming Darkness)
+[Thu May 03 22:46:48 2001] Players in EverQuest:
+[Thu May 03 22:46:48 2001] ---------------------------
+[Thu May 03 22:46:48 2001] [45 Rogue] Meaty (Dark Elf) <Happy Funtime Elves> ZONE: soldungb (USER PID AQQ5KNS)
+[Thu May 03 22:46:48 2001] There is 1 player in EverQuest.
+[Thu May 03 22:46:50 2001] Greater kobold feels much better.
+[Thu May 03 22:46:54 2001] Solvon begins to cast a spell. (Dooming Darkness)
+[Thu May 03 22:46:54 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Thu May 03 22:46:58 2001] Greater kobold feels much better.
+[Thu May 03 22:47:00 2001] Rudis says, 'any eta for morell ??'
+[Thu May 03 22:47:01 2001] Solvon begins to cast a spell. (Dooming Darkness)
+[Thu May 03 22:47:02 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Thu May 03 22:47:06 2001] Greater kobold feels much better.
+[Thu May 03 22:47:07 2001] You GMSAY, 'rezzed Meaty AQQ5KNS died to the same bug that got me in Sol B'
+[Thu May 03 22:47:08 2001] Hoonis says, 'WTH DAMMIT'
+[Thu May 03 22:47:10 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Thu May 03 22:47:10 2001] Rudis begins to cast a spell. (Entrance)
+[Thu May 03 22:47:11 2001] Hoonis says, 'STOP HEALING IT'
+[Thu May 03 22:47:14 2001] Greater kobold feels much better.
+[Thu May 03 22:47:17 2001] Lirus says, 'Nope, sorry('
+[Thu May 03 22:47:18 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:47:19 2001] Rudis begins to cast a spell. (Entrance)
+[Thu May 03 22:47:21 2001] Greater kobold shaman feels much faster.
+[Thu May 03 22:47:21 2001] Hoonis says, 'sigh'
+[Thu May 03 22:47:21 2001] Greater kobold has been entranced.
+[Thu May 03 22:47:22 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu May 03 22:47:23 2001] Solvon begins to cast a spell. (Siphon Life)
+[Thu May 03 22:47:30 2001] greater kobold shaman begins to cast a spell. (Greater Healing)
+[Thu May 03 22:47:30 2001] You GMSAY, 'zone'
+[Thu May 03 22:47:31 2001] Rudis begins to cast a spell. (Entrance)
+[Thu May 03 22:47:34 2001] Greater kobold feels much better.
+[Thu May 03 22:47:34 2001] Solvon begins to cast a spell. (Life Leech)
+[Thu May 03 22:47:37 2001] LOADING, PLEASE WAIT...
+[Thu May 03 22:47:56 2001] You have entered Sunset Home.
+[Thu May 03 22:48:05 2001] You no longer have a target.
+[Thu May 03 22:48:08 2001] Players in EverQuest:
+[Thu May 03 22:48:08 2001] ---------------------------
+[Thu May 03 22:48:08 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu May 03 22:48:08 2001] There is 1 player in EverQuest.
+[Thu May 03 22:48:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 03 22:48:14 2001] Players in EverQuest:
+[Thu May 03 22:48:14 2001] ---------------------------
+[Thu May 03 22:48:14 2001] There are no players in EverQuest that match those who filters.
+[Thu May 03 22:48:33 2001] You GMSAY, 'dang que lock'
+[Thu May 03 22:48:37 2001] Meaty tells you, 'thank you sir'
+[Thu May 03 22:48:42 2001] You GMSAY, 'I'm a girl!'
+[Thu May 03 22:48:50 2001] Obni tells you, 'do we know how long MT will be down?'
+[Thu May 03 22:49:00 2001] You told Obni, 'just minutes - it's just a reboot'
+[Thu May 03 22:49:06 2001] You GMSAY, 'mistell that last'
+[Thu May 03 22:49:11 2001] You told Meaty, 'I'm a girl!'
+[Thu May 03 22:49:30 2001] Obni tells you, 'thank you!'
+[Thu May 03 22:49:36 2001] You no longer have a target.
+[Thu May 03 22:49:43 2001] It will take you about 30 seconds to prepare your camp.
+[Thu May 03 22:49:47 2001] It will take about 25 more seconds to prepare your camp.
+[Thu May 03 22:49:48 2001] You GMSAY, 'camping to clear que lock'
+[Thu May 03 22:49:52 2001] Lirus GMSAYS, 'k'
+[Thu May 03 22:49:52 2001] It will take about 20 more seconds to prepare your camp.
+[Thu May 03 22:49:58 2001] It will take about 15 more seconds to prepare your camp.
+[Thu May 03 22:50:00 2001] You GMSAY, 'Headrush just got in as a name'
+[Thu May 03 22:50:03 2001] It will take about 10 more seconds to prepare your camp.
+[Thu May 03 22:50:07 2001] Vurtrue tells you, 'Hi love know not spos to send tell .. but I havn't much time 8) is me bod still in Kithchor woods having trouble finding it'
+[Thu May 03 22:50:07 2001] You GMSAY, 'couldn't stop it'
+[Thu May 03 22:50:08 2001] It will take about 5 more seconds to prepare your camp.
+[Thu May 03 22:50:12 2001] You feel as if you are about to fall.
+[Thu May 03 22:50:33 2001] Welcome to EverQuest!
+[Thu May 03 22:50:33 2001] You have entered Sunset Home.
+[Thu May 03 22:50:33 2001] MESSAGE OF THE DAY: Once again we are gathering a party to protect and serve the lands. Scribes are now taking applications to become a Volenteer Guide. To join the EverQuest Guide Program you may apply at guideapp.everquest.com. Good luck!
+[Thu May 03 22:50:37 2001] You feel as if you are about to fall.
+[Thu May 03 22:50:39 2001] Sethtai tells you, 'is the server going down'
+[Thu May 03 22:50:42 2001] You told Sethtai, 'yes'
+[Thu May 03 22:50:43 2001] You can no longer levitate.
+[Thu May 03 22:50:51 2001] You told Sethtai, 'please find a safe place and log out'
+[Thu May 03 22:50:55 2001] You GMSAY, 'that didn't work'
+[Thu May 03 22:50:57 2001] Sethtai tells you, 'i wasnt informed when i logged in'
+[Thu May 03 22:51:07 2001] It will take you about 30 seconds to prepare your camp.
+[Thu May 03 22:51:11 2001] It will take about 25 more seconds to prepare your camp.
+[Thu May 03 22:51:16 2001] It will take about 20 more seconds to prepare your camp.
+[Thu May 03 22:51:20 2001] You told Sethtai, 'well... better find someplace quick...'
+[Thu May 03 22:51:21 2001] It will take about 15 more seconds to prepare your camp.
+[Thu May 03 22:51:27 2001] It will take about 10 more seconds to prepare your camp.
+[Thu May 03 22:51:32 2001] It will take about 5 more seconds to prepare your camp.
+[Thu May 03 22:51:33 2001] You told Sethtai, 'this is an emergency reboot'
+[Thu May 03 23:54:49 2001] Welcome to EverQuest!
+[Thu May 03 23:54:49 2001] You have entered Sunset Home.
+[Thu May 03 23:54:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 03 23:54:57 2001] USER TEXT: need help died in seb 
+[Thu May 03 23:54:57 2001] Players in EverQuest:
+[Thu May 03 23:54:57 2001] ---------------------------
+[Thu May 03 23:54:57 2001] [55 Myrmidon] Tuvwen (Half Elf) <Clan of Morning Star> ZONE: firiona (USER PID AXL9BLM)
+[Thu May 03 23:54:57 2001] There is 1 player in EverQuest.
+[Thu May 03 23:55:14 2001] You told Tuvwen, 'Hail, Tuvwen! Guide Espranza here. How did you die?'
+[Thu May 03 23:55:15 2001] Players in EverQuest:
+[Thu May 03 23:55:15 2001] ---------------------------
+[Thu May 03 23:55:15 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu May 03 23:55:15 2001] [ANON (223 High Priest)]  (Unknown) ZONE:  (USER PID AQW48FC)
+[Thu May 03 23:55:15 2001] There are 2 players in EverQuest.
+[Thu May 03 23:55:23 2001] You GMSAY, 'any GMs?'
+[Thu May 03 23:55:32 2001] Tuvwen tells you, 'coming back from that 1018 error'
+[Thu May 03 23:55:42 2001] You GMSAY, 'zone'
+[Thu May 03 23:55:45 2001] LOADING, PLEASE WAIT...
+[Thu May 03 23:56:14 2001] You have entered Ruins of Sebilis.
+[Thu May 03 23:56:21 2001] Daegh waves at Espranza.
+[Thu May 03 23:56:25 2001] You wave at Daegh.
+[Thu May 03 23:56:27 2001] Daegh kneels before Espranza in humility and reverence.
+[Thu May 03 23:56:33 2001] Teleporting to Tuvwen's corpse0.
+[Thu May 03 23:56:36 2001] Leodinus tells you, 'hehehe...how long will it take for karnor to repop?'
+[Thu May 03 23:56:49 2001] You told Leodinus, 'dunno'
+[Thu May 03 23:57:01 2001] You told Tuvwen, 'your corpse is naked, already been looted'
+[Thu May 03 23:57:05 2001] Trapps shouts, 'lvl 52 Pal lfg'
+[Thu May 03 23:57:11 2001] Tuvwen tells you, 'no '
+[Thu May 03 23:57:19 2001] You told Tuvwen, 'must be buggy then'
+[Thu May 03 23:57:20 2001] Saball shouts, 'geez how do i get out of here'
+[Thu May 03 23:57:34 2001] Tuvwen tells you, 'ok i know i didnt loot it '
+[Thu May 03 23:57:38 2001] Teleporting to daegh.
+[Thu May 03 23:57:48 2001] Daegh says, 'yep but hopefully a GM is going to help /'
+[Thu May 03 23:57:52 2001] Cecilia tells you, 'um.. why is lguk empty?'
+[Thu May 03 23:57:52 2001] Summoning Tuvwen's corpse0.
+[Thu May 03 23:58:06 2001] You told Cecilia, 'to stop people from dying when they come back'
+[Thu May 03 23:58:07 2001] Daegh beams a smile at Bayleo.
+[Thu May 03 23:58:12 2001] You no longer have a target.
+[Thu May 03 23:58:13 2001] Cecilia tells you, 'ah i see'
+[Thu May 03 23:58:16 2001] Bayleo says, 'hmm'
+[Thu May 03 23:58:19 2001] Summoning Tuvwen.
+[Thu May 03 23:58:20 2001] Futsau says out of character, 'level 50 necromancer seeks group. get to know me, I am a sweetheart'
+[Thu May 03 23:58:20 2001] Cecilia tells you, 'when are things gonna start spawning?'
+[Thu May 03 23:58:27 2001] You told Cecilia, 'probably when they normally would'
+[Thu May 03 23:58:36 2001] Bayleo comforts Futsau.
+[Thu May 03 23:58:36 2001] Cecilia tells you, 'what do u mean?'
+[Thu May 03 23:58:41 2001] Trapps says, 'lag'
+[Thu May 03 23:58:44 2001] You told Cecilia, 'few minutes'
+[Thu May 03 23:58:54 2001] Cecilia tells you, 'are they gonna all spawn together?!'
+[Thu May 03 23:58:58 2001] Saball shouts, 'now im going to die'
+[Thu May 03 23:59:00 2001] Trapps says, 'how do we get out?'
+[Thu May 03 23:59:01 2001] You told Tuvwen, 'I don't know'
+[Thu May 03 23:59:05 2001] Teleporting to saball.
+[Thu May 03 23:59:07 2001] Tuvwen tells you, 'thank you very much '
+[Thu May 03 23:59:08 2001] Saball has been slain by a pox scarab!
+[Thu May 03 23:59:15 2001] Teleporting to tuvwen.
+[Thu May 03 23:59:21 2001] Summoning saball's corpse0.
+[Thu May 03 23:59:40 2001] Players in EverQuest:
+[Thu May 03 23:59:40 2001] ---------------------------
+[Thu May 03 23:59:40 2001] [50 Warrior] Saball (Barbarian) <Citizens of Halas> ZONE: freporte (USER PID APFRWRE)
+[Thu May 03 23:59:40 2001] There is 1 player in EverQuest.
+[Thu May 03 23:59:42 2001] Trapps says, 'im NOT charging the porthal'
+[Thu May 03 23:59:49 2001] DELETING THIS PETITION
+[Thu May 03 23:59:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 03 23:59:51 2001] USER TEXT: i need help out of here
+[Thu May 03 23:59:51 2001] Players in EverQuest:
+[Thu May 03 23:59:51 2001] ---------------------------
+[Thu May 03 23:59:51 2001] [50 Warrior]  (Barbarian) ZONE:  (USER PID APFRWRE)
+[Thu May 03 23:59:51 2001] There is 1 player in EverQuest.
+[Thu May 03 23:59:56 2001] DELETING THIS PETITION
+[Thu May 03 23:59:57 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu May 03 23:59:58 2001] USER TEXT: When Seb zone crash i lost my body will you help plz?
+[Thu May 03 23:59:58 2001] Players in EverQuest:
+[Thu May 03 23:59:58 2001] ---------------------------
+[Thu May 03 23:59:58 2001] [ANON (54 Illusionist)] Vulpinuss (High Elf) ZONE: skyfire (USER PID ANL62CX)
+[Thu May 03 23:59:58 2001] There is 1 player in EverQuest.
+[Fri May 04 00:00:10 2001] Trapps says out of character, 'looking for a tp    p'
+[Fri May 04 00:00:11 2001] Summoning vulpinuss's corpse0.
+[Fri May 04 00:00:12 2001] Daegh tells you, 'dont mean to spam, but you proly didnt get my petiton in person heh, my corpse is in d2 if it can help u, thx anyway for being here so fast, thx a lot'
+[Fri May 04 00:00:26 2001] Summoning daegh's corpse0.
+[Fri May 04 00:00:34 2001] DELETING THIS PETITION
+[Fri May 04 00:00:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri May 04 00:00:37 2001] USER TEXT: Hello, I died deep in Sebilis because of zone crash, I badly need a summon corpse and a rez, its been 3 hours now the troubles begin... please help, I beg you, I just want my corpse, my exp... and sleep :/
+[Fri May 04 00:00:37 2001] Players in EverQuest:
+[Fri May 04 00:00:37 2001] ---------------------------
+[Fri May 04 00:00:37 2001] [57 Preserver] Daegh (Wood Elf) <Pandore> ZONE: sebilis (USER PID ASD7GUY)
+[Fri May 04 00:00:37 2001] There is 1 player in EverQuest.
+[Fri May 04 00:00:41 2001] DELETING THIS PETITION
+[Fri May 04 00:00:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri May 04 00:00:42 2001] USER TEXT: I fell off the boat due to some bug, when I was standing still (second time in same place) and was eaten by plague sharks before I could catch up, can you retrieve my corpse?
+[Fri May 04 00:00:43 2001] Players in EverQuest:
+[Fri May 04 00:00:43 2001] ---------------------------
+[Fri May 04 00:00:43 2001] [16 Warrior] Tukaram (Barbarian) ZONE: erudsxing (USER PID AY9FY9G)
+[Fri May 04 00:00:43 2001] There is 1 player in EverQuest.
+[Fri May 04 00:00:47 2001] Daegh thanks Espranza heartily.
+[Fri May 04 00:00:50 2001] Trapps says out of character, 'lag'
+[Fri May 04 00:00:51 2001] Saball tells you, 'can u tp me out of here'
+[Fri May 04 00:00:55 2001] Searching zones for corpse of that name....
+[Fri May 04 00:00:55 2001] Corpse: Tukaram's corpse0 in zone: erudsxing
+[Fri May 04 00:01:17 2001] You GMSAY, 'zone'
+[Fri May 04 00:01:19 2001] Daegh waves at Vulpinuss.
+[Fri May 04 00:01:21 2001] LOADING, PLEASE WAIT...
+[Fri May 04 00:01:43 2001] You have entered Erud's Crossing.
+[Fri May 04 00:02:00 2001] Summoning Tukaram's corpse0.
+[Fri May 04 00:02:11 2001] DELETING THIS PETITION
+[Fri May 04 00:02:37 2001] You GMSAY, 'zone'
+[Fri May 04 00:02:42 2001] LOADING, PLEASE WAIT...
+[Fri May 04 00:03:07 2001] You have entered Ruins of Sebilis.
+[Fri May 04 00:03:14 2001] Tukaram tells you, 'thank you so much, little lady'
+[Fri May 04 00:03:18 2001] Bayleo begins to cast a spell. (Healing)
+[Fri May 04 00:03:23 2001] Vulpinuss begins to cast a spell. (Clarity II)
+[Fri May 04 00:03:24 2001] You told Tukaram, 'sorry it had to happen!'
+[Fri May 04 00:03:38 2001] Tukaram tells you, 'CAn I explain this bug so you can get it looked at?'
+[Fri May 04 00:03:58 2001] froglok jin shaman begins to cast a spell. (Inner Fire)
+[Fri May 04 00:04:01 2001] Froglok jin shaman's body pulses with energy.
+[Fri May 04 00:04:06 2001] You told Tukaram, 'please use the /bug command - it is ready daily by the QA people'
+[Fri May 04 00:04:07 2001] froglok jin shaman begins to cast a spell. (Inner Fire)
+[Fri May 04 00:04:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri May 04 00:04:26 2001] USER TEXT: thank you
+[Fri May 04 00:04:27 2001] Players in EverQuest:
+[Fri May 04 00:04:27 2001] ---------------------------
+[Fri May 04 00:04:27 2001] [ANON (54 Illusionist)] Vulpinuss (High Elf) ZONE: sebilis (USER PID ANL62CX)
+[Fri May 04 00:04:27 2001] There is 1 player in EverQuest.
+[Fri May 04 00:04:27 2001] Tukaram tells you, 'alright, didn't know aobut that :)'
+[Fri May 04 00:04:48 2001] froglok jin shaman begins to cast a spell. (Inner Fire)
+[Fri May 04 00:04:59 2001] You told Tukaram, 'no problem :)'
+[Fri May 04 00:05:00 2001] froglok jin shaman begins to cast a spell. (Inner Fire)
+[Fri May 04 00:05:03 2001] A leprous scarab's body pulses with energy.
+[Fri May 04 00:05:08 2001] You told Vulpinuss, 'you're welcome )'
+[Fri May 04 00:05:15 2001] DELETING THIS PETITION
+[Fri May 04 00:05:16 2001] Vulpinuss tells you, ')'
+[Fri May 04 00:05:37 2001] froglok bok wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri May 04 00:05:37 2001] froglok bok wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri May 04 00:05:41 2001] Froglok bok wizard begins to radiate.
+[Fri May 04 00:05:49 2001] froglok ilis wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri May 04 00:05:56 2001] You say, 'Hail Mixeur's corpse'
+[Fri May 04 00:05:57 2001] froglok ilis wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri May 04 00:06:01 2001] You say, 'Hail Karekano's corpse'
+[Fri May 04 00:06:05 2001] froglok ilis wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri May 04 00:06:11 2001] Teleporting to vulpinuss.
+[Fri May 04 00:06:17 2001] Cecilia tells you, 'are we gonna get a warning on when things are going to spawn? and are the mobs all going to spawn together?'
+[Fri May 04 00:06:21 2001] Summoning Mixeur's corpse0.
+[Fri May 04 00:06:28 2001] Summoning karekano's corpse0.
+[Fri May 04 00:06:34 2001] Vulpinuss tells you, 'hehe max body'
+[Fri May 04 00:06:34 2001] Futsau begins to cast a spell. (Covetous Subversion)
+[Fri May 04 00:06:37 2001] Vulpinuss twitches.
+[Fri May 04 00:06:38 2001] You told Cecilia, 'I don't know'
+[Fri May 04 00:06:46 2001] Futsau begins to cast a spell. (Covetous Subversion)
+[Fri May 04 00:06:47 2001] Players in EverQuest:
+[Fri May 04 00:06:47 2001] ---------------------------
+[Fri May 04 00:06:47 2001] There are no players in EverQuest that match those who filters.
+[Fri May 04 00:06:48 2001] Vulpinuss tells you, 'sorry wrong tell'
+[Fri May 04 00:06:49 2001] Vulpinuss twitches.
+[Fri May 04 00:06:55 2001] Players in EverQuest:
+[Fri May 04 00:06:55 2001] ---------------------------
+[Fri May 04 00:06:55 2001] There are no players in EverQuest that match those who filters.
+[Fri May 04 00:06:59 2001] Futsau begins to cast a spell. (Covetous Subversion)
+[Fri May 04 00:07:08 2001] Summoning Jestero's corpse0.
+[Fri May 04 00:07:16 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri May 04 00:07:16 2001] USER TEXT: i am missing a large empty crate and 3 kolbolt molers when i loged back in what happend
+[Fri May 04 00:07:17 2001] Players in EverQuest:
+[Fri May 04 00:07:17 2001] ---------------------------
+[Fri May 04 00:07:17 2001] [11 Cleric] Chantele (Erudite) ZONE: paineel (USER PID AZELG2X)
+[Fri May 04 00:07:17 2001] There is 1 player in EverQuest.
+[Fri May 04 00:07:49 2001] Wulinsong tells you, 'corpse sense by song,point deep into rock,may i get help for get corpse back? thanks'
+[Fri May 04 00:07:55 2001] You told Chantele, 'Hail, Chantele! Guide Espranza here. Please petition tomorrow for reimbursement, the GM is off for the night. Thanks!'
+[Fri May 04 00:07:58 2001] Vulpinuss begins to cast a spell. (Gate)
+[Fri May 04 00:08:05 2001] Chantele tells you, 'ok ty'
+[Fri May 04 00:08:06 2001] Listra cheers at Bayleo.
+[Fri May 04 00:08:09 2001] You told Wulinsong, 'please petition, thank you.'
+[Fri May 04 00:08:09 2001] Listra says, '54 grats!'
+[Fri May 04 00:08:13 2001] DELETING THIS PETITION
+[Fri May 04 00:08:18 2001] Wulinsong tells you, 'thanks'
+[Fri May 04 00:08:51 2001] You told kidney, 'you look just like my play rogue - right down to the ry'gorr armor. it's uncanny!'
+[Fri May 04 00:08:56 2001] Listra giggles at Bayleo.
+[Fri May 04 00:09:08 2001] Players in EverQuest:
+[Fri May 04 00:09:08 2001] ---------------------------
+[Fri May 04 00:09:08 2001] [50 Warrior] Saball (Barbarian) <Citizens of Halas> ZONE: sebilis (USER PID APFRWRE)
+[Fri May 04 00:09:08 2001] There is 1 player in EverQuest.
+[Fri May 04 00:09:10 2001] Kidney tells you, 'you remember me?'
+[Fri May 04 00:09:19 2001] Listra says, 'having fun esp.. being th only guide on?'
+[Fri May 04 00:09:21 2001] Kidney tells you, 'i play a cleric<yobittyx'
+[Fri May 04 00:09:24 2001] You told Kidney, 'um, no... you just look like my rogue!'
+[Fri May 04 00:09:31 2001] You say, 'nuthin' but fun!'
+[Fri May 04 00:09:40 2001] You say, 'they double my pay for this though'
+[Fri May 04 00:09:43 2001] Listra says, 'always is.. how many in the Q?'
+[Fri May 04 00:09:51 2001] You say, 'too bad I volunteer...'
+[Fri May 04 00:09:54 2001] Maxius begins to cast a spell. (See Invisible)
+[Fri May 04 00:09:58 2001] Bayleo says, 'What's zero x 2 again?'
+[Fri May 04 00:09:59 2001] Maxius begins to cast a spell. (See Invisible)
+[Fri May 04 00:09:59 2001] Listra says, 'you should get free cookies or something'
+[Fri May 04 00:09:59 2001] Trapps says, 'man my connection is bad....anyone else?'
+[Fri May 04 00:10:06 2001] You told Kidney, 'oh! hi!'
+[Fri May 04 00:10:10 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri May 04 00:10:11 2001] USER TEXT: corpse sense by song,point deep into rock of blackburrow, may i get  help for corpse recover? thanks
+[Fri May 04 00:10:11 2001] Players in EverQuest:
+[Fri May 04 00:10:11 2001] ---------------------------
+[Fri May 04 00:10:11 2001] [8 Bard] Wulinsong (Half Elf) ZONE: blackburrow (USER PID AW40DNR)
+[Fri May 04 00:10:11 2001] There is 1 player in EverQuest.
+[Fri May 04 00:10:12 2001] Kidney tells you, 'hi hehe'
+[Fri May 04 00:10:17 2001] Searching zones for corpse of that name....
+[Fri May 04 00:10:17 2001] Corpse: Wulinsong's corpse0 in zone: blackburrow
+[Fri May 04 00:10:20 2001] You GMSAY, 'zone'
+[Fri May 04 00:10:24 2001] Kidney tells you, 'yobi is 55 now'
+[Fri May 04 00:10:24 2001] Listra says, 'mines jumping around a bit but nothing major'
+[Fri May 04 00:10:29 2001] You feel the spirit of Z surround you.
+[Fri May 04 00:10:29 2001] You feel the spirit of Z surround you.
+[Fri May 04 00:10:30 2001] LOADING, PLEASE WAIT...
+[Fri May 04 00:10:52 2001] You have entered Blackburrow.
+[Fri May 04 00:10:56 2001] Kriskana begins to cast a spell. (Spirit of Wolf)
+[Fri May 04 00:11:09 2001] Vacheata regards you indifferently -- You could probably win this fight.
+[Fri May 04 00:11:18 2001] Teleporting to wulinsong's corpse0.
+[Fri May 04 00:11:28 2001] Vacheata shouts, 'looking for tp to freeport, commens area. willing to donate'
+[Fri May 04 00:11:45 2001] Summoning Wulinsong's corpse0.
+[Fri May 04 00:12:04 2001] You told Wulinsong, 'Hail, Wulinsong! Guide Espranza here. Your corpse has been pulled from the wall.'
+[Fri May 04 00:12:05 2001] Wulinsong bows before Espranza.
+[Fri May 04 00:12:14 2001] You beam a smile at Wulinsong.
+[Fri May 04 00:12:16 2001] Wulinsong says, 'thanks,great one'
+[Fri May 04 00:12:22 2001] You say, 'nay. not great'
+[Fri May 04 00:12:24 2001] Wulinsong kneels before Espranza in humility and reverence.
+[Fri May 04 00:12:31 2001] DELETING THIS PETITION
+[Fri May 04 00:12:37 2001] You GMSAY, 'zone'
+[Fri May 04 00:12:40 2001] LOADING, PLEASE WAIT...
+[Fri May 04 00:12:59 2001] You have entered Sunset Home.
+[Fri May 04 00:13:21 2001] You say, 'Hail Llara the Mysterious'
+[Fri May 04 00:13:21 2001] Llara the Mysterious says 'might you be an [apprentice] or a [guide]?' Llara then grins evilly... 
+[Fri May 04 00:13:26 2001] You say, 'I am a guide'
+[Fri May 04 00:13:26 2001] Llara the Mysterious cracks her whip in Espranza 's direction and says, 'Well, if you are a guide, then what the heck are you doing here!?! Get to work on the queue, it's not going to be under 20 all day!' 
+[Fri May 04 00:13:37 2001] You say, 'I am an apprentice'
+[Fri May 04 00:13:37 2001] Llara the Mysterious says 'Welcome to the Guide Program, Espranza . I am sure you will enjoy your time here. Do not worry about being only an apprentice right now, Im sure that in time you will be ready for promotion. This is truly the best place to be in the world.  Good luck to you, Espranza !' 
+[Fri May 04 00:13:47 2001] You say, 'who are you'
+[Fri May 04 00:13:47 2001] Llara the Mysterious says 'I am Llara. I was a guide on Erollisi Marr some time ago. I passed away shortly after becoming an apprentice trainer. My rebirth came from the help of Valtron. He is that stinky little dorf always running around Norrath. Valtron held a memorial service on Erollisi Marr shortly after I passed away. It was truly a beautiful event. Many people showed up to honor my passage.' Llara smiles... 
+[Fri May 04 00:13:57 2001] You say, 'I play on Erollisi Marr. I met you.'
+[Fri May 04 00:14:01 2001] You say, 'I miss you'
+[Fri May 04 00:14:01 2001] Llara the Mysterious says 'I miss you too, Espranza ! But don't worry about me. I am in a good place now, watching over all of you.' 
+[Fri May 04 00:14:15 2001] You say, 'Hail Patchious'
+[Fri May 04 00:14:20 2001] You say, 'who are you'
+[Fri May 04 00:14:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri May 04 00:14:23 2001] USER TEXT: hello Becuse of the LD thing not the down time I was killed in SEB and now my group and everyone is gone can I pls get my stuff back and put at the zone so i can go to bed and go to work tomorrow
+[Fri May 04 00:14:23 2001] Players in EverQuest:
+[Fri May 04 00:14:23 2001] ---------------------------
+[Fri May 04 00:14:23 2001] [50 Monk] Shoalin (Iksar) <Ordo Novus> ZONE: gfaydark (USER PID ARU09MB)
+[Fri May 04 00:14:23 2001] There is 1 player in EverQuest.
+[Fri May 04 00:14:31 2001] You GMSAY, 'zone'
+[Fri May 04 00:14:35 2001] LOADING, PLEASE WAIT...
+[Fri May 04 00:15:09 2001] You have entered Ruins of Sebilis.
+[Fri May 04 00:15:12 2001] Mabupsa says, 'oo'
+[Fri May 04 00:15:20 2001] Espranza is back again. hmmph.
+[Fri May 04 00:15:27 2001] Chunha says, 'mabupsa nim?'
+[Fri May 04 00:15:29 2001] Chunha regards you indifferently -- what would you like your tombstone to say?
+[Fri May 04 00:15:32 2001] Chunha says, 'annolana nim?'
+[Fri May 04 00:15:37 2001] Maxius's spell fizzles!
+[Fri May 04 00:15:38 2001] Maxius begins to cast a spell. (See Invisible)
+[Fri May 04 00:15:42 2001] Listra cheers at Yobittyx.
+[Fri May 04 00:15:47 2001] Teleporting to shoalin's corpse0.
+[Fri May 04 00:15:54 2001] Teleporting to chunha.
+[Fri May 04 00:15:56 2001] Annolana says, 'huk dul kyot da'
+[Fri May 04 00:16:02 2001] Bayleo says, 'oi vey'
+[Fri May 04 00:16:05 2001] Summoning shoalin's corpse0.
+[Fri May 04 00:16:14 2001] Yobittyx begins to cast a spell. (Heroic Bond)
+[Fri May 04 00:16:16 2001] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri May 04 00:16:17 2001] DELETING THIS PETITION
+[Fri May 04 00:16:18 2001] Bayleo's eyes gleam with heroic resolution.
+[Fri May 04 00:16:18 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri May 04 00:16:19 2001] USER TEXT: my corpse dont find at sebil
+[Fri May 04 00:16:19 2001] Players in EverQuest:
+[Fri May 04 00:16:19 2001] ---------------------------
+[Fri May 04 00:16:19 2001] [51 Wanderer] Jayounboho (Halfling) <Royal Jesters> ZONE: karnor (USER PID AVYD3NW)
+[Fri May 04 00:16:19 2001] There is 1 player in EverQuest.
+[Fri May 04 00:16:24 2001] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri May 04 00:16:29 2001] Summoning jayounboho's corpse0.
+[Fri May 04 00:16:50 2001] Maxius begins to cast a spell. (Vocarate: Water)
+[Fri May 04 00:16:52 2001]  (Illusion: Dark Elf)
+[Fri May 04 00:16:54 2001] Players in EverQuest:
+[Fri May 04 00:16:54 2001] ---------------------------
+[Fri May 04 00:16:54 2001] [51 Wanderer] Jayounboho (Halfling) <Royal Jesters> ZONE: sebilis (USER PID AVYD3NW)
+[Fri May 04 00:16:54 2001] There is 1 player in EverQuest.
+[Fri May 04 00:16:58 2001] Lazie's image shimmers.
+[Fri May 04 00:17:03 2001] Lobtik says 'Guarding with my life..oh splendid one.'
+[Fri May 04 00:17:08 2001] DELETING THIS PETITION
+[Fri May 04 00:17:10 2001] Shoalin shouts, 'thanks gm'
+[Fri May 04 00:17:12 2001] Maxius begins to cast a spell. (Burnout III)
+[Fri May 04 00:17:36 2001] Gosu tells you, 'hello sommon plz'
+[Fri May 04 00:17:41 2001] Players in EverQuest:
+[Fri May 04 00:17:41 2001] ---------------------------
+[Fri May 04 00:17:41 2001] [57 Master] Gosu (Iksar) <Power of Peace> ZONE: sebilis (USER PID AV19M8Q)
+[Fri May 04 00:17:41 2001] There is 1 player in EverQuest.
+[Fri May 04 00:17:47 2001] Teleporting to shoalin.
+[Fri May 04 00:17:50 2001] Bayleo begins to cast a spell. (Feet like Cat)
+[Fri May 04 00:17:50 2001] Listra says, 'Hail Listra'
+[Fri May 04 00:17:51 2001] Shoalin says, 'Hail Chunha'
+[Fri May 04 00:17:53 2001] Summoning gosu.
+[Fri May 04 00:17:55 2001] Bayleo looks more agile.
+[Fri May 04 00:18:35 2001] Players in EverQuest:
+[Fri May 04 00:18:35 2001] ---------------------------
+[Fri May 04 00:18:35 2001] There are no players in EverQuest that match those who filters.
+[Fri May 04 00:18:39 2001] It is futile to consider the dead...
+[Fri May 04 00:18:40 2001] You say, 'Hail Fanlain's corpse'
+[Fri May 04 00:18:45 2001] Teleporting to gosu.
+[Fri May 04 00:18:49 2001] Gosu hugs Annolana.
+[Fri May 04 00:18:50 2001] Maxius feels protected from fire and ice.
+[Fri May 04 00:18:53 2001] Summoning fanlain's corpse0.
+[Fri May 04 00:18:59 2001] Annolana begins to cast a spell. (Shadow)
+[Fri May 04 00:19:00 2001] Shoalin tells you, 'fanlain was in are group and he died to i dont know if he will be back yet he might have went to bed , I dont know if there is anything you can do just letting you know and thanks for your help'
+[Fri May 04 00:19:10 2001] You told Shoalin, 'his corpse is now at the zone'
+[Fri May 04 00:19:16 2001] Shoalin tells you, 'wee thanks'
+[Fri May 04 00:19:27 2001] You told Shoalin, 'doing the best I can )'
+[Fri May 04 00:19:32 2001] Shoalin tells you, 'Thanks'
+[Fri May 04 00:19:33 2001] froglok jin shaman begins to cast a spell. (Spirit of Wolf)
+[Fri May 04 00:19:43 2001] You opened the locked door with your magic GM key.
+[Fri May 04 00:19:58 2001] Shoalin tells you, 'bet you love being a guide on MT =) '
+[Fri May 04 00:20:16 2001] You told Shoalin, 'I feel complete only when I'm answering petitions )'
+[Fri May 04 00:20:27 2001] myconid adept begins to cast a spell. (Yaulp IV)
+[Fri May 04 00:20:38 2001] Shoalin tells you, 'hehe i mean for all the crashes and then the petitions after wards hehe'
+[Fri May 04 00:21:00 2001] You told Shoalin, 'well, someone's gotta do it )'
+[Fri May 04 00:22:10 2001] Teleporting to Gosu (255.00,  16.00,  39.75).
+[Fri May 04 00:22:19 2001] Listra says, 'hehe esp your back again? O.o'
+[Fri May 04 00:22:22 2001] Mabupsa says, 'thx'
+[Fri May 04 00:22:37 2001] You say, 'if there is anyone who is stuck here, I'll take you out - limited time offer only'
+[Fri May 04 00:22:55 2001] Saball tells you, 'i need to go'
+[Fri May 04 00:23:04 2001] Saball says, 'where do i sighn up'
+[Fri May 04 00:23:08 2001] You told Saball, 'okay'
+[Fri May 04 00:23:11 2001] You GMSAY, 'zone'
+[Fri May 04 00:23:13 2001] Chunha was injured by falling.
+[Fri May 04 00:23:18 2001] LOADING, PLEASE WAIT...
+[Fri May 04 00:23:46 2001] You have entered Trakanon's Teeth.
+[Fri May 04 00:23:56 2001] Summoning saball.
+[Fri May 04 00:24:08 2001] It is 4 PM on Saturday, the 21st day of June, of the year 3206.
+[Fri May 04 00:24:08 2001] Earth Time: Fri May 04 00:24:08 2001
+[Fri May 04 00:24:41 2001] Saball tells you, 'thanks'
+[Fri May 04 00:24:46 2001] You say, 'sorry I can never remember how to get to the exit zone'
+[Fri May 04 00:24:46 2001] Saball bows.
+[Fri May 04 00:24:51 2001] You bow before Saball.
+[Fri May 04 00:24:55 2001] You say, 'be well!'
+[Fri May 04 00:24:58 2001] You GMSAY, 'zone'
+[Fri May 04 00:25:01 2001] Saball bows.
+[Fri May 04 00:25:02 2001] You feel the spirit of Z surround you.
+[Fri May 04 00:25:03 2001] LOADING, PLEASE WAIT...
+[Fri May 04 00:25:21 2001] You have entered Sunset Home.
+[Fri May 04 00:25:35 2001] You GMSAY, 'zone'
+[Fri May 04 00:25:38 2001] LOADING, PLEASE WAIT...
+[Fri May 04 00:26:02 2001] You have entered Karnor's Castle.
+[Fri May 04 00:26:06 2001] Sparafacile says, 'hello again'
+[Fri May 04 00:26:30 2001] Searching for venril_sathir00.
+[Fri May 04 00:26:30 2001] Could not locate player with that name.
+[Fri May 04 00:27:01 2001] Jave's eyes glow violet.
+[Fri May 04 00:27:03 2001] You say, 'looks like it repopped'
+[Fri May 04 00:27:08 2001] You GMSAY, 'zone'
+[Fri May 04 00:27:08 2001] Sparafacile begins to cast a spell. (Ultravision)
+[Fri May 04 00:27:11 2001] Jave says, 'oh'
+[Fri May 04 00:27:14 2001] You feel the spirit of Z surround you.
+[Fri May 04 00:27:15 2001] LOADING, PLEASE WAIT...
+[Fri May 04 00:27:36 2001] You have entered Sunset Home.
+[Fri May 04 00:28:18 2001] You GMSAY, '<note issue> Morell-Thule was having severe problems and was brought down for about an hour. I spent the remainder of my shift either in chat or clearing Sebilis of corpses.'
+[Fri May 04 00:28:38 2001] You GMSAY, 'night all'
+[Fri May 04 00:28:43 2001] It will take you about 30 seconds to prepare your camp.
+[Fri May 04 00:28:47 2001] It will take about 25 more seconds to prepare your camp.
+[Fri May 04 00:28:52 2001] It will take about 20 more seconds to prepare your camp.
+[Fri May 04 00:28:53 2001] Players in EverQuest:
+[Fri May 04 00:28:53 2001] ---------------------------
+[Fri May 04 00:28:53 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Fri May 04 00:28:53 2001] There is 1 player in EverQuest.
+[Fri May 04 00:28:58 2001] It will take about 15 more seconds to prepare your camp.
+[Fri May 04 00:29:03 2001] It will take about 10 more seconds to prepare your camp.
+[Fri May 04 00:29:08 2001] It will take about 5 more seconds to prepare your camp.

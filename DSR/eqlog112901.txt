@@ -1,0 +1,1145 @@
+[Thu Nov 29 21:32:46 2001] Welcome to EverQuest!
+[Thu Nov 29 21:32:46 2001] You have entered Sunset Home.
+[Thu Nov 29 21:32:49 2001] Players in EverQuest:
+[Thu Nov 29 21:32:49 2001] ---------------------------
+[Thu Nov 29 21:32:49 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 21:32:49 2001] * Guide *[53 Mystic] Ngoc (Ogre) <Keepers of Dreams> ZONE: southkarana (USER PID FUGBDWQ)
+[Thu Nov 29 21:32:49 2001] * Apprentice Guide *[20 Wizard] Correllan (Gnome) ZONE: lakerathe (USER PID AYM1PPY)
+[Thu Nov 29 21:32:49 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: chardok (USER PID CW1ECN5)
+[Thu Nov 29 21:32:49 2001] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: chardok (USER PID HU7F5NG)
+[Thu Nov 29 21:32:49 2001] There are 5 players in EverQuest.
+[Thu Nov 29 21:33:00 2001] Correllan GMSAYS, 'okay will catch everyone tomorrow..have a good night'
+[Thu Nov 29 21:33:01 2001] You GMSAY, 'hiya - sorry I'm late - patch caught me by surprise'
+[Thu Nov 29 21:33:07 2001] Players in EverQuest:
+[Thu Nov 29 21:33:07 2001] ---------------------------
+[Thu Nov 29 21:33:07 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 21:33:07 2001] * Guide *[53 Mystic] Ngoc (Ogre) <Keepers of Dreams> ZONE: southkarana (USER PID FUGBDWQ)
+[Thu Nov 29 21:33:07 2001] * Apprentice Guide *[20 Wizard] Correllan (Gnome) ZONE: lakerathe (USER PID AYM1PPY)
+[Thu Nov 29 21:33:07 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: chardok (USER PID CW1ECN5)
+[Thu Nov 29 21:33:07 2001] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: chardok (USER PID HU7F5NG)
+[Thu Nov 29 21:33:07 2001] There are 5 players in EverQuest.
+[Thu Nov 29 21:33:07 2001] Lirus GMSAYS, 'hi esp!'
+[Thu Nov 29 21:33:13 2001] Lirus GMSAYS, 'laters C'
+[Thu Nov 29 21:33:14 2001] You GMSAY, 'night Correllan!'
+[Thu Nov 29 21:33:16 2001] Correllan GMSAYS, 'heya esp'
+[Thu Nov 29 21:33:16 2001] Lirus GMSAYS, 'zone'
+[Thu Nov 29 21:33:38 2001] Correllan GMSAYS, 'sorry i missed ya...first i have seen ya since i got  my training from ya'
+[Thu Nov 29 21:33:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 21:33:44 2001] USER TEXT: que
+[Thu Nov 29 21:33:44 2001] Players in EverQuest:
+[Thu Nov 29 21:33:44 2001] ---------------------------
+[Thu Nov 29 21:33:44 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 29 21:34:02 2001] You GMSAY, 'eh, sorry - been tired a lot recently'
+[Thu Nov 29 21:34:05 2001] Kedian GMSAYS, 'hiya Esp!'
+[Thu Nov 29 21:34:06 2001] You GMSAY, 'not been real well'
+[Thu Nov 29 21:34:14 2001] You GMSAY, 'heya Ked!'
+[Thu Nov 29 21:34:29 2001] You hug Lirus.
+[Thu Nov 29 21:34:29 2001] Correllan GMSAYS, 'np....hey were can i file my report if the thursday reports section doesn't have one for appies?'
+[Thu Nov 29 21:34:38 2001] Correllan GMSAYS, 'sorry to hear that esp'
+[Thu Nov 29 21:34:38 2001] Ngoc GMSAYS, '<NOTE BADNAME> Falkrist Wontsowyou, wasn't online to get PID.'
+[Thu Nov 29 21:34:57 2001] You GMSAY, 'it does, Corellan. Set your view to two weeks messages instead of one.'
+[Thu Nov 29 21:35:02 2001] Correllan GMSAYS, 'i added flakrist to my report with a pid earlier this eveing'
+[Thu Nov 29 21:35:08 2001] Kedian GMSAYS, '<< zone >>'
+[Thu Nov 29 21:35:12 2001] Lirus GMSAYS, 'zone'
+[Thu Nov 29 21:35:18 2001] Correllan GMSAYS, 'ahhh okay will do'
+[Thu Nov 29 21:35:18 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu Nov 29 21:35:20 2001] CHECKING IN
+[Thu Nov 29 21:35:24 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 21:35:25 2001] USER TEXT: The Vendor Ginglin Toxfodder is missing
+[Thu Nov 29 21:35:25 2001] Players in EverQuest:
+[Thu Nov 29 21:35:25 2001] ---------------------------
+[Thu Nov 29 21:35:25 2001] [ANON (24 Rogue)] Atrecia (Barbarian) ZONE: northkarana (USER PID FWQ4K0X)
+[Thu Nov 29 21:35:25 2001] There is 1 player in EverQuest.
+[Thu Nov 29 21:35:27 2001] Ngoc GMSAYS, 'was it for a bad name as well?'
+[Thu Nov 29 21:35:32 2001] Correllan GMSAYS, 'logging again catch you all later'
+[Thu Nov 29 21:35:32 2001] You GMSAY, 'zone'
+[Thu Nov 29 21:35:37 2001] LOADING, PLEASE WAIT...
+[Thu Nov 29 21:36:06 2001] You have entered Northern Plains of Karana.
+[Thu Nov 29 21:36:09 2001] Jadeney begins to cast a spell. (Lifespike)
+[Thu Nov 29 21:36:11 2001] Jadeney staggers.
+[Thu Nov 29 21:36:11 2001] Jadeney beams a smile at a scythe beetle.
+[Thu Nov 29 21:36:11 2001] Jadeney says, 'Ahhh, I feel much better now...'
+[Thu Nov 29 21:36:17 2001] Correllan GMSAYS, 'yes it ws i had a petition for it...took the pid and name down and made a note f it attacjed it to my report and going to list it in the bad names section when i log'
+[Thu Nov 29 21:36:20 2001] Searching for ginglin_toxfodder00.
+[Thu Nov 29 21:36:20 2001] Could not locate player with that name.
+[Thu Nov 29 21:36:20 2001] Jadeney begins to cast a spell. (Lifespike)
+[Thu Nov 29 21:36:22 2001] Jadeney staggers.
+[Thu Nov 29 21:36:23 2001] Jadeney beams a smile at a scythe beetle.
+[Thu Nov 29 21:36:23 2001] Jadeney says, 'Ahhh, I feel much better now...'
+[Thu Nov 29 21:36:25 2001] Searching for ginlin_toxfodder00.
+[Thu Nov 29 21:36:26 2001] Ngoc GMSAYS, 'ok'
+[Thu Nov 29 21:36:26 2001] Could not locate player with that name.
+[Thu Nov 29 21:36:30 2001] Searching for giglin_toxfodder00.
+[Thu Nov 29 21:36:31 2001] Could not locate player with that name.
+[Thu Nov 29 21:36:31 2001] Jadeney's spell fizzles!
+[Thu Nov 29 21:36:33 2001] Jadeney begins to cast a spell. (Lifespike)
+[Thu Nov 29 21:36:34 2001] You feel the spirit of Norrath enter you.
+[Thu Nov 29 21:36:35 2001] Jadeney staggers.
+[Thu Nov 29 21:36:36 2001] Jadeney beams a smile at a scythe beetle.
+[Thu Nov 29 21:36:36 2001] Jadeney says, 'Ahhh, I feel much better now...'
+[Thu Nov 29 21:36:48 2001] You think you are heading South.
+[Thu Nov 29 21:36:51 2001] You think you are heading West.
+[Thu Nov 29 21:36:53 2001] Kedian GMSAYS, 'ok folks, im going to head out. Have a good evening, and welcome back Lirus'
+[Thu Nov 29 21:36:53 2001] Ngoc GMSAYS, 'kostia unavailable'
+[Thu Nov 29 21:37:01 2001] You think you are heading South.
+[Thu Nov 29 21:37:05 2001] You think you are heading East.
+[Thu Nov 29 21:37:06 2001] Lirus GMSAYS, 'thanks kedian...have a good night'
+[Thu Nov 29 21:37:13 2001] You think you are heading West.
+[Thu Nov 29 21:37:18 2001] You GMSAY, 'zone'
+[Thu Nov 29 21:37:28 2001] LOADING, PLEASE WAIT...
+[Thu Nov 29 21:38:00 2001] You have entered Western Plains of Karana.
+[Thu Nov 29 21:38:10 2001] Searching for ginglin_toxfodder00.
+[Thu Nov 29 21:38:11 2001] Could not locate player with that name.
+[Thu Nov 29 21:38:15 2001] Searching for giglin_toxfodder00.
+[Thu Nov 29 21:38:15 2001] Could not locate player with that name.
+[Thu Nov 29 21:38:17 2001] You think you are heading North.
+[Thu Nov 29 21:38:37 2001] You say, 'Hail, Ryshon Hunsti'
+[Thu Nov 29 21:38:37 2001] Ryshon Hunsti says 'Hello, Espranza . What brings you to the Karanas? Do you seek [enlightenment]? 
+[Thu Nov 29 21:38:44 2001] You say, 'I seek enlightenment'
+[Thu Nov 29 21:38:45 2001] Ryshon Hunsti says 'Ahh, I could see by the look in your eyes that you are looking for something more than just enlightenment. Perhaps you are looking for a [sword] crafted by a noble man. 
+[Thu Nov 29 21:38:50 2001] You say, 'what sword'
+[Thu Nov 29 21:38:51 2001] Ryshon Hunsti says 'It is not just a sword my friend. It is much more than that. This sword carries with it a special [power], something unlike anything else within this realm. 
+[Thu Nov 29 21:38:55 2001] You say, 'what power'
+[Thu Nov 29 21:38:55 2001] Ryshon Hunsti says 'It is an instrument fashioned together by noble man. It is said to be blessed by the gods themselves. Only a man whose bloodline comes from nobility may wield it. Do you seek the [sword of nobility]? 
+[Thu Nov 29 21:42:36 2001] Andyk tells you, 'i hate to bother you but i have a question    i got the new patch but now have no sound any ideas on how to fix it ?'
+[Thu Nov 29 21:42:55 2001] You told Andyk, 'hmmm....'
+[Thu Nov 29 21:43:16 2001] You told Andyk, 'have you checked your sound options?'
+[Thu Nov 29 21:43:33 2001] Andyk tells you, 'under general?'
+[Thu Nov 29 21:43:44 2001] You told Andyk, 'yup'
+[Thu Nov 29 21:44:14 2001] Andyk tells you, 'yeah it dosent seem to make a difference'
+[Thu Nov 29 21:44:36 2001] You GMSAY, 'any reports on sound not working after the patch?'
+[Thu Nov 29 21:44:45 2001] You told Andyk, 'let me ask others...'
+[Thu Nov 29 21:45:04 2001] Andyk tells you, 'k thamks'
+[Thu Nov 29 21:45:07 2001] Ngoc GMSAYS, 'I haven't had any'
+[Thu Nov 29 21:45:46 2001] Azrieal auctions, 'WTS Dmg 21 delay 40 proc haste. 800p'
+[Thu Nov 29 21:46:00 2001] Andyk tells you, 'i asked lirus he wasnt sure told me to call tech support'
+[Thu Nov 29 21:46:19 2001] You told Andyk, 'heh... I just asked him... he didn't answer me...'
+[Thu Nov 29 21:46:36 2001] You told Andyk, 'Sound works for me and the other guide online...'
+[Thu Nov 29 21:46:52 2001] You told Andyk, 'I guess I can only suggest you talk to tech support, as Lirus suggested'
+[Thu Nov 29 21:47:23 2001] Andyk tells you, 'figures im the weird one lol  thanks for your time'
+[Thu Nov 29 21:47:45 2001] You GMSAY, 'I am looking for the poison merchant in West Karana, unable to find him... Now as a rogue I should know his name - but I don't remember exactly what it is - Giglin Toxfodder doesn't work'
+[Thu Nov 29 21:47:53 2001] You told Andyk, 'good luck with it!!'
+[Thu Nov 29 21:48:05 2001] Espranza saved.
+[Thu Nov 29 21:48:17 2001] Searching for giglin_toxfodder00.
+[Thu Nov 29 21:48:17 2001] Could not locate player with that name.
+[Thu Nov 29 21:48:21 2001] Ngoc GMSAYS, 'hmm...I don't use him so I don't know his name'
+[Thu Nov 29 21:48:23 2001] Wildary shouts, 'ww check'
+[Thu Nov 29 21:48:50 2001] You GMSAY, 'I try to avoid coming to WK since my rogue is usually in Velious or Kunark'
+[Thu Nov 29 21:49:00 2001] Lirus GMSAYS, 'gindlin toxfodder?'
+[Thu Nov 29 21:49:07 2001] Searching for gindlin_toxfodder00.
+[Thu Nov 29 21:49:07 2001] Player is in zone qey2hh1 at x = -2823 y = -13058 z = 28.
+[Thu Nov 29 21:49:10 2001] You GMSAY, 'bingo'
+[Thu Nov 29 21:49:13 2001] Teleporting to Gindlin_Toxfodder00 (-2822.00, -13057.00,  28.61).
+[Thu Nov 29 21:49:22 2001] Ngoc GMSAYS, 'who is in charge of quests and events on our server now?'
+[Thu Nov 29 21:49:28 2001] You GMSAY, 'Devynn'
+[Thu Nov 29 21:49:31 2001] You GMSAY, 'quests anyway'
+[Thu Nov 29 21:49:46 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:50:18 2001] Gindlin Toxfodder says 'I don't have time for that now'
+[Thu Nov 29 21:50:34 2001] Gindlin Toxfodder says 'Time to die! 
+[Thu Nov 29 21:50:34 2001] Gindlin Toxfodder feels a bit dispelled.
+[Thu Nov 29 21:50:34 2001] Gindlin Toxfodder punches YOU for 77 points of damage.
+[Thu Nov 29 21:50:36 2001] Gindlin Toxfodder punches YOU for 19 points of damage.
+[Thu Nov 29 21:50:50 2001] Gindlin Toxfodder kicks YOU for 16 points of damage.
+[Thu Nov 29 21:50:53 2001] Gindlin Toxfodder punches YOU for 19 points of damage.
+[Thu Nov 29 21:50:53 2001] Gindlin Toxfodder punches YOU for 19 points of damage.
+[Thu Nov 29 21:50:54 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:50:55 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:50:55 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:50:55 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:50:56 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:01 2001] Gindlin Toxfodder says 'Can't you see I'm doing something here?'
+[Thu Nov 29 21:51:11 2001] Gindlin Toxfodder says 'Time to die! 
+[Thu Nov 29 21:51:11 2001] Gindlin Toxfodder feels a bit dispelled.
+[Thu Nov 29 21:51:14 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:14 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:14 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:15 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:17 2001] Gindlin Toxfodder says 'I will see you DEAD before I sell anything to you!'
+[Thu Nov 29 21:51:18 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:18 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:19 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:19 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:20 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:20 2001] Gindlin Toxfodder blinks a few times.
+[Thu Nov 29 21:51:24 2001] Gindlin Toxfodder says 'Hi there Espranza, just browsing?  Have you seen the An Old Delivered Book I just got in?'
+[Thu Nov 29 21:51:26 2001] You no longer have a target.
+[Thu Nov 29 21:51:30 2001] Espranza saved.
+[Thu Nov 29 21:52:12 2001] You told Atrecia, 'Hail, Atrecia! Guide Espranza here. Gindlin Toxfodder is back in his hut. He was quite rude to me, said he would see me DEAD before he sold to me, but we're friends now and he's back in business.'
+[Thu Nov 29 21:52:15 2001] DELETING THIS PETITION
+[Thu Nov 29 21:52:16 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 21:52:17 2001] USER TEXT: que
+[Thu Nov 29 21:52:17 2001] Players in EverQuest:
+[Thu Nov 29 21:52:17 2001] ---------------------------
+[Thu Nov 29 21:52:17 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 29 21:52:26 2001] Atrecia tells you, 'thank you  VERY kindly : )'
+[Thu Nov 29 21:52:27 2001] You GMSAY, 'Kostia unavail 3 ****flush****'
+[Thu Nov 29 21:52:31 2001] You told Atrecia, 'anytime!'
+[Thu Nov 29 21:52:34 2001] DELETING THIS PETITION
+[Thu Nov 29 21:52:35 2001] Atrecia tells you, 'another gold star for the GMs'
+[Thu Nov 29 21:52:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 21:52:36 2001] USER TEXT: Excuse me. For some reason my Selo's with a drum is going slower than an equal level sow. Could you help me please?
+[Thu Nov 29 21:52:36 2001] Players in EverQuest:
+[Thu Nov 29 21:52:36 2001] ---------------------------
+[Thu Nov 29 21:52:36 2001] [25 Bard] Chazan (Half Elf) ZONE: everfrost (USER PID CTHMTFP)
+[Thu Nov 29 21:52:36 2001] There is 1 player in EverQuest.
+[Thu Nov 29 21:52:40 2001] You told Atrecia, 'heh'
+[Thu Nov 29 21:53:23 2001] You GMSAY, 'anyone heard anything about a slowdown in Selo's with the patch?'
+[Thu Nov 29 21:53:39 2001] It begins to rain.
+[Thu Nov 29 21:54:11 2001] You GMSAY, 'I know I came in even, 27 bard and 52 druid, in a race once...'
+[Thu Nov 29 21:54:14 2001] Players in EverQuest:
+[Thu Nov 29 21:54:14 2001] ---------------------------
+[Thu Nov 29 21:54:14 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: ecommons (USER PID CW1ECN5)
+[Thu Nov 29 21:54:14 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: qey2hh1 (USER PID AUGBQH4)
+[Thu Nov 29 21:54:14 2001] * Guide *[53 Mystic] Ngoc (Ogre) <Keepers of Dreams> ZONE: southkarana (USER PID FUGBDWQ)
+[Thu Nov 29 21:54:14 2001] There are 3 players in EverQuest.
+[Thu Nov 29 21:55:06 2001] You told Chazan, 'Hail, Chazan! Guide Espranza here. I haven't heard of any problem - the SoW aside, have you noticed any speed difference in general?'
+[Thu Nov 29 21:55:30 2001] Chazan tells you, 'Well, I just logged off an on again. Let me see for a second.'
+[Thu Nov 29 21:56:01 2001] Chazan tells you, 'Nope. Still getting our run.'
+[Thu Nov 29 21:56:22 2001] Chazan tells you, 'I'm not encumbered or anything.'
+[Thu Nov 29 21:56:24 2001] You told Chazan, 'well, I have a 27 bard, I'll have to check it out....'
+[Thu Nov 29 21:56:43 2001] Chazan tells you, 'Thanks. I wonder if my guy is bugged.'
+[Thu Nov 29 21:56:44 2001] You told Chazan, 'none of the other guides have noticed anything though.'
+[Thu Nov 29 21:57:26 2001] You told Chazan, 'does running seem slower to you in general, or only when you're racing someone?'
+[Thu Nov 29 21:57:49 2001] Chazan tells you, 'Yeah. Its like Im encumbered, but Im not.'
+[Thu Nov 29 21:58:00 2001] You told Chazan, 'k, coming to you -- one moment'
+[Thu Nov 29 21:58:01 2001] You GMSAY, 'zone'
+[Thu Nov 29 21:58:05 2001] Teleporting to chazan.
+[Thu Nov 29 21:58:05 2001] LOADING, PLEASE WAIT...
+[Thu Nov 29 21:58:36 2001] You have entered Everfrost.
+[Thu Nov 29 21:58:41 2001] It begins to snow.
+[Thu Nov 29 21:58:50 2001] Chazan says, 'Hail, Espranza'
+[Thu Nov 29 21:58:55 2001] You say, 'stop the song and restart it, please'
+[Thu Nov 29 21:58:56 2001] Korlon auctions, 'WTB Necro spell; Chilling Embrace'
+[Thu Nov 29 21:58:59 2001] Chazan's song ends.
+[Thu Nov 29 21:58:59 2001] Chazan's song ends.
+[Thu Nov 29 21:59:02 2001] Korlon says out of character, 'wrong button sorry'
+[Thu Nov 29 21:59:06 2001]  (Selo`s Accelerando)
+[Thu Nov 29 21:59:13 2001] You beam a smile at Chazan.
+[Thu Nov 29 21:59:21 2001] Chazan blushes.
+[Thu Nov 29 21:59:22 2001] You say, 'okay run somewhere....'
+[Thu Nov 29 21:59:23 2001] Mauren says out of character, 'back'
+[Thu Nov 29 21:59:40 2001] Richardak auctions, 'WTB Spiderling silks .'
+[Thu Nov 29 21:59:52 2001] You told Chazan, 'you're moving at bard speed'
+[Thu Nov 29 21:59:52 2001] Chazan says, 'What do you think?'
+[Thu Nov 29 22:00:10 2001] You told Chazan, 'looks normal for a bard your level to me, anyway'
+[Thu Nov 29 22:00:13 2001] Chazan tells you, 'Really? Then why are my friends outrunning me with 27th level shaman sow?'
+[Thu Nov 29 22:00:25 2001] Lees auctions, 'wts werewolf hide cloak send tells with offer'
+[Thu Nov 29 22:00:28 2001] You told Chazan, 'shaman sow faster than druid...'
+[Thu Nov 29 22:00:42 2001] Chazan tells you, 'True, but Selo;'s should be faster than that'
+[Thu Nov 29 22:01:05 2001] You told Chazan, 'I'm not sure when you get equal to that... I raced my 27 bard with a 50+ druid once'
+[Thu Nov 29 22:01:22 2001] You told Chazan, 'eh... but it does look like you are running at bard speed though'
+[Thu Nov 29 22:01:24 2001] Chazan tells you, 'Well, this guys has been faster than my friends Sow for many levels. But for some reason today it is slower.'
+[Thu Nov 29 22:01:44 2001] Lees shouts, 'pc on werewolf hide cloak pls'
+[Thu Nov 29 22:01:56 2001] You told Chazan, 'I have super SOW on...'
+[Thu Nov 29 22:01:57 2001] The spirit leaves you.
+[Thu Nov 29 22:02:08 2001] Chazan tells you, 'Cam you cast a lower level version and compare?'
+[Thu Nov 29 22:02:10 2001] You told Chazan, 'race me!'
+[Thu Nov 29 22:02:20 2001] Lucilla shouts, 'lvl 18enc LFG'
+[Thu Nov 29 22:02:33 2001] Fullscreen Transparent Polygons are now OFF
+[Thu Nov 29 22:02:37 2001] Fullscreen Transparent Polygons are now ON
+[Thu Nov 29 22:02:50 2001] Chazan tells you, 'I look a little faster.'
+[Thu Nov 29 22:02:52 2001] You told Chazan, 'I am unsowed...'
+[Thu Nov 29 22:03:08 2001] Chazan tells you, 'hang a sec'
+[Thu Nov 29 22:03:13 2001] Chazan's song ends.
+[Thu Nov 29 22:03:13 2001] Chazan's song ends.
+[Thu Nov 29 22:03:27 2001] Chazan tells you, 'Now Ive got no enhance ments. Lets race now.'
+[Thu Nov 29 22:03:33 2001] Ngoc GMSAYS, 'Can we do anything about a group who waited for a spawn for 2 hours and someone else came in and grabbed it?'
+[Thu Nov 29 22:03:34 2001] You told Chazan, 'you ARE playing a drum, right?'
+[Thu Nov 29 22:03:42 2001] Chazan tells you, 'Yep.'
+[Thu Nov 29 22:03:46 2001] You GMSAY, 'first hit owns it'
+[Thu Nov 29 22:03:50 2001] You told Chazan, 'k...'
+[Thu Nov 29 22:04:02 2001] Chazan tells you, 'Your killing me.'
+[Thu Nov 29 22:04:06 2001] You told Chazan, 'looks like you're lagging though...'
+[Thu Nov 29 22:04:23 2001] Chazan tells you, 'My lag meter is at zero.'
+[Thu Nov 29 22:04:23 2001] You told Chazan, 'I wonder if some of this armor.... blah'
+[Thu Nov 29 22:04:30 2001] ice boned skeleton says 'Areeeeewwwww 
+[Thu Nov 29 22:04:30 2001] ice boned skeleton says 'I really hate Bards like you!'
+[Thu Nov 29 22:04:33 2001] ice boned skeleton begins to cast a spell. (IceBoneFrostBurst)
+[Thu Nov 29 22:04:45 2001] ice boned skeleton begins to cast a spell. (IceBoneFrostBurst)
+[Thu Nov 29 22:04:49 2001] Chazan lets loose a great bellow. (Brusco`s Boastful Bellow)
+[Thu Nov 29 22:04:53 2001] Chazan's song ends.
+[Thu Nov 29 22:04:53 2001] Chazan's song ends.
+[Thu Nov 29 22:04:54 2001]  (Selo`s Consonant Chain)
+[Thu Nov 29 22:04:57 2001] Ice boned skeleton is surrounded by chains of music.
+[Thu Nov 29 22:04:58 2001] ice boned skeleton begins to cast a spell. (IceBoneFrostBurst)
+[Thu Nov 29 22:05:01 2001] You say, 'I wonder if there are some bards he likes....'
+[Thu Nov 29 22:05:03 2001] Chazan's song ends abruptly.
+[Thu Nov 29 22:05:03 2001] Chazan's song ends.
+[Thu Nov 29 22:05:07 2001] Chazan tells you, 'Look how slow Im swinging.'
+[Thu Nov 29 22:05:08 2001] You feel the spirit of Norrath enter you.
+[Thu Nov 29 22:05:11 2001] Chazan lets loose a great bellow. (Brusco`s Boastful Bellow)
+[Thu Nov 29 22:05:14 2001] Chazan's song ends.
+[Thu Nov 29 22:05:14 2001] Chazan's song ends.
+[Thu Nov 29 22:05:14 2001]  (Selo`s Consonant Chain)
+[Thu Nov 29 22:05:23 2001] Chazan's song ends abruptly.
+[Thu Nov 29 22:05:23 2001] Chazan's song ends.
+[Thu Nov 29 22:05:32 2001]  (Selo`s Consonant Chain)
+[Thu Nov 29 22:05:35 2001] Ice boned skeleton is surrounded by chains of music.
+[Thu Nov 29 22:05:39 2001] Chazan's song ends.
+[Thu Nov 29 22:05:39 2001] Chazan's song ends.
+[Thu Nov 29 22:05:40 2001]  (Selo`s Consonant Chain)
+[Thu Nov 29 22:05:42 2001] Ice boned skeleton is surrounded by chains of music.
+[Thu Nov 29 22:05:43 2001] ice boned skeleton has been slain by Chazan!
+[Thu Nov 29 22:05:48 2001] Chazan's song ends abruptly.
+[Thu Nov 29 22:05:49 2001] Chazan's song ends.
+[Thu Nov 29 22:05:53 2001] Chazan tells you, 'Did I look like I was swinging slow to you?'
+[Thu Nov 29 22:05:53 2001] You shrug at Chazan.
+[Thu Nov 29 22:06:03 2001] You told Chazan, 'I don't know how fast you usually swing'
+[Thu Nov 29 22:06:14 2001] Lees shouts, 'anyone got a pc on a werewolf jide cloak '
+[Thu Nov 29 22:06:17 2001] Chazan tells you, 'No, I dont mean my delay, I meant my actual arm movements.'
+[Thu Nov 29 22:06:27 2001] You told Chazan, 'not really'
+[Thu Nov 29 22:06:41 2001] Chazan tells you, 'My delay looks fine. But my actual arms on my screen looked like they were going in slow motion.'
+[Thu Nov 29 22:06:50 2001] Lees says out of character, 'anyone need banker'
+[Thu Nov 29 22:06:52 2001] You told Chazan, 'oh no, I didn't notice that'
+[Thu Nov 29 22:07:03 2001] ice boned skeleton says 'Areeeeewwwww 
+[Thu Nov 29 22:07:03 2001] ice boned skeleton says 'Bards like you always bring out the worst in me!'
+[Thu Nov 29 22:07:05 2001] ice boned skeleton begins to cast a spell. (IceBoneFrostBurst)
+[Thu Nov 29 22:07:08 2001] Chazan tells you, 'Hm. And when I run, it looks like slow motion too. Just like I was really encumbered or something.'
+[Thu Nov 29 22:07:10 2001] You told Chazan, 'I don't know what the problem might be'
+[Thu Nov 29 22:07:10 2001] Chazan lets loose a great bellow. (Brusco`s Boastful Bellow)
+[Thu Nov 29 22:07:11 2001] Chazan's song ends abruptly.
+[Thu Nov 29 22:07:11 2001] Chazan's song ends.
+[Thu Nov 29 22:07:12 2001] Chazan lets loose a great bellow. (Brusco`s Boastful Bellow)
+[Thu Nov 29 22:07:16 2001] Chazan's song ends.
+[Thu Nov 29 22:07:16 2001] Chazan's song ends.
+[Thu Nov 29 22:07:16 2001] Chazan lets loose a great bellow. (Brusco`s Boastful Bellow)
+[Thu Nov 29 22:07:18 2001] ice boned skeleton begins to cast a spell. (IceBoneFrostBurst)
+[Thu Nov 29 22:07:19 2001] Chazan's song ends.
+[Thu Nov 29 22:07:19 2001] Chazan's song ends.
+[Thu Nov 29 22:07:19 2001]  (Selo`s Consonant Chain)
+[Thu Nov 29 22:07:23 2001] Ice boned skeleton is surrounded by chains of music.
+[Thu Nov 29 22:07:23 2001] Chazan's song ends.
+[Thu Nov 29 22:07:23 2001] Chazan's song ends.
+[Thu Nov 29 22:07:23 2001]  (Selo`s Consonant Chain)
+[Thu Nov 29 22:07:24 2001] Chazan's song ends.
+[Thu Nov 29 22:07:24 2001] Chazan's song ends.
+[Thu Nov 29 22:07:24 2001]  (Anthem de Arms)
+[Thu Nov 29 22:07:28 2001] Chazan's song ends.
+[Thu Nov 29 22:07:28 2001] Chazan's song ends.
+[Thu Nov 29 22:07:28 2001] Chazan lets loose a great bellow. (Brusco`s Boastful Bellow)
+[Thu Nov 29 22:07:31 2001] Lees auctions, 'wts charred guardian shield 600pp '
+[Thu Nov 29 22:07:32 2001] Chazan's song ends.
+[Thu Nov 29 22:07:32 2001] Chazan's song ends.
+[Thu Nov 29 22:07:32 2001]  (Selo`s Consonant Chain)
+[Thu Nov 29 22:07:35 2001] You say, 'looks like you're fighting normally'
+[Thu Nov 29 22:07:35 2001] ice boned skeleton has been slain by Chazan!
+[Thu Nov 29 22:07:41 2001] Chazan's song ends abruptly.
+[Thu Nov 29 22:07:41 2001] Chazan's song ends.
+[Thu Nov 29 22:07:53 2001] You say, 'it also looks like you're lagging'
+[Thu Nov 29 22:07:53 2001] Chazan tells you, 'The weird part is when we both ran with no enhancements you were way faster.'
+[Thu Nov 29 22:07:59 2001] You told Chazan, 'that is weird'
+[Thu Nov 29 22:08:13 2001] Chazan tells you, 'In what way does it look like Im lagging?'
+[Thu Nov 29 22:08:19 2001] You told Chazan, 'looked like the game wanted to put you way ahead but kept correcting itself'
+[Thu Nov 29 22:08:36 2001] You told Chazan, 'so you would appear to pass me, then be yanked back'
+[Thu Nov 29 22:08:40 2001] Espranza saved.
+[Thu Nov 29 22:08:40 2001] Chazan tells you, 'Yeah. You were jumping around on my screen as well....insted of moving smoothly.'
+[Thu Nov 29 22:09:00 2001] You told Chazan, 'how about the mobs? they moving smoothly?'
+[Thu Nov 29 22:09:04 2001] Chazan tells you, 'Still lag or no lag, it should have me moving the correct speed.'
+[Thu Nov 29 22:09:10 2001] Chazan tells you, 'Yeah, they are fine.'
+[Thu Nov 29 22:09:17 2001] Lucilla shouts, 'lvl 18enc LFG'
+[Thu Nov 29 22:09:27 2001] You told Chazan, 'well, the client programs keeps your position, and then tells the server where you are every so often'
+[Thu Nov 29 22:09:53 2001] Chazan tells you, 'Shouldnt the client then be able to update correctly without lag affecting it?'
+[Thu Nov 29 22:10:07 2001] Ngoc GMSAYS, 'Jacrail says he has lost all confidence in the GM system'
+[Thu Nov 29 22:10:10 2001] You told Chazan, 'that's why you appear to be running smoothly to yourself'
+[Thu Nov 29 22:10:17 2001] Lirus GMSAYS, 'what did we do now'
+[Thu Nov 29 22:10:26 2001] Chazan tells you, 'yeah. Hm even my jump is in slow motion to myself.'
+[Thu Nov 29 22:10:28 2001] Ngoc GMSAYS, 'hehe....what we didn't do is more like it'
+[Thu Nov 29 22:10:40 2001] You told Chazan, 'but I think everyone around you will see you jumping around'
+[Thu Nov 29 22:10:46 2001] Ngoc GMSAYS, 'told him we couldn't do anything about the group running in and grabbing the spawn he waited 2 hours for'
+[Thu Nov 29 22:10:47 2001] Chazan tells you, 'It takes 4 full seconds to complete the jump on my screen.'
+[Thu Nov 29 22:10:52 2001] You told Chazan, 'not here'
+[Thu Nov 29 22:10:56 2001] You told Chazan, 'looks normal'
+[Thu Nov 29 22:11:07 2001] Lirus GMSAYS, '....not sure what to say about that'
+[Thu Nov 29 22:11:12 2001] Chazan tells you, 'What do you think. I cant really keep playing like this.'
+[Thu Nov 29 22:11:13 2001] Ngoc GMSAYS, 'hehe'
+[Thu Nov 29 22:11:48 2001] You told Chazan, 'well... I don't know, this is new to me. It sounds like it may be a problem with your system, though I wouldn't stake my life on that.'
+[Thu Nov 29 22:12:05 2001] You told Chazan, 'I think there *is* a problem here'
+[Thu Nov 29 22:12:05 2001] Chazan tells you, 'what do you think I should do?'
+[Thu Nov 29 22:12:16 2001] You told Chazan, 'contact tech support, they may have seen this before'
+[Thu Nov 29 22:12:29 2001] Chazan tells you, 'Hm. Is that in game or out?'
+[Thu Nov 29 22:12:33 2001] Lirus GMSAYS, 'zone'
+[Thu Nov 29 22:12:36 2001] You told Chazan, 'out..'
+[Thu Nov 29 22:12:41 2001] Chazan tells you, 'A phone number?'
+[Thu Nov 29 22:13:05 2001] You told Chazan, 'there is a tech support forum on www.EverquestLive.com, you could try there'
+[Thu Nov 29 22:13:16 2001] You told Chazan, 'also, in Chat, is a tech support chat channel as well'
+[Thu Nov 29 22:13:33 2001] Chazan tells you, 'K. I have another computer right next to me. So, I can stay connected and try stuff.'
+[Thu Nov 29 22:13:58 2001] You told Chazan, 'and the telephone number you can call is 1-858-537-0898'
+[Thu Nov 29 22:14:10 2001] Lirus GMSAYS, 'zone'
+[Thu Nov 29 22:14:24 2001] Chazan tells you, 'K. I'll give it a try.'
+[Thu Nov 29 22:14:35 2001] Chazan tells you, 'Thanks for your help.'
+[Thu Nov 29 22:15:05 2001] You GMSAY, '<note bug> Chazan CTHMTFP, a bard, runs slower than he is supposed to. It looks like his client is having problems; he keeps jumping forward and back as the server and client sync.'
+[Thu Nov 29 22:15:13 2001] You told Chazan, 'I hope I *was* some help... '
+[Thu Nov 29 22:15:18 2001] DELETING THIS PETITION
+[Thu Nov 29 22:15:24 2001] Chazan tells you, 'Well, you told me what it wasn't. :)'
+[Thu Nov 29 22:15:30 2001] Lirus GMSAYS, 'hmmm'
+[Thu Nov 29 22:15:32 2001] You told Chazan, 'good luck, and the next time we race, I wanna see you win'
+[Thu Nov 29 22:15:36 2001] Lirus GMSAYS, 'did you suggest he reboot?'
+[Thu Nov 29 22:15:41 2001] You GMSAY, 'he tried that'
+[Thu Nov 29 22:15:45 2001] Chazan tells you, 'me too. :) '
+[Thu Nov 29 22:15:48 2001] Chazan bows before Espranza.
+[Thu Nov 29 22:15:52 2001] Lirus GMSAYS, 'hrmmm...<---stumped'
+[Thu Nov 29 22:15:52 2001] You told Chazan, 'Lirus suggests rebooting - you tried that, right?'
+[Thu Nov 29 22:15:57 2001] You GMSAY, 'aye, me too'
+[Thu Nov 29 22:16:06 2001] Chazan tells you, 'Yeah. :( But I can try again. I suppose.'
+[Thu Nov 29 22:16:09 2001] You GMSAY, 'told him to contact tech support. it's weird watching him run.'
+[Thu Nov 29 22:16:22 2001] You GMSAY, 'I outran him without Spirit of Norrath on.'
+[Thu Nov 29 22:16:22 2001] Lirus GMSAYS, '*nod*'
+[Thu Nov 29 22:16:30 2001] You no longer have a target.
+[Thu Nov 29 22:16:31 2001] You wave goodbye to everyone.
+[Thu Nov 29 22:16:36 2001] You GMSAY, 'zone'
+[Thu Nov 29 22:16:37 2001] Chazan waves at Espranza.
+[Thu Nov 29 22:16:40 2001] You begin casting Sunset Home. (Sunset Home)
+[Thu Nov 29 22:16:40 2001] Your Belt of Translocation begins to glow.
+[Thu Nov 29 22:16:41 2001] LOADING, PLEASE WAIT...
+[Thu Nov 29 22:17:01 2001] You have entered Sunset Home.
+[Thu Nov 29 22:17:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 22:17:05 2001] USER TEXT: faah que is in solb.....the name is unappropriate
+[Thu Nov 29 22:17:06 2001] Players in EverQuest:
+[Thu Nov 29 22:17:06 2001] ---------------------------
+[Thu Nov 29 22:17:06 2001] [51 Elementalist] Dizwar (Dark Elf) <Exiled Elite> ZONE: soldungb (USER PID AUQKT9Q)
+[Thu Nov 29 22:17:06 2001] There is 1 player in EverQuest.
+[Thu Nov 29 22:17:14 2001] Players in EverQuest:
+[Thu Nov 29 22:17:14 2001] ---------------------------
+[Thu Nov 29 22:17:14 2001] [39 Monk] Faah (Human) ZONE: soldungb (USER PID BXXEQNT)
+[Thu Nov 29 22:17:14 2001] There is 1 player in EverQuest.
+[Thu Nov 29 22:17:28 2001] You GMSAY, 'oh here's a NASTY name... Faah Que'
+[Thu Nov 29 22:17:34 2001] You GMSAY, 'going to verify...'
+[Thu Nov 29 22:17:36 2001] You GMSAY, 'zone'
+[Thu Nov 29 22:17:37 2001] Lirus GMSAYS, 'ohhh is he on?'
+[Thu Nov 29 22:17:40 2001] You GMSAY, 'aye'
+[Thu Nov 29 22:17:54 2001] LOADING, PLEASE WAIT...
+[Thu Nov 29 22:18:23 2001] You have entered Nagafen's Lair.
+[Thu Nov 29 22:18:29 2001] Espranza is now Invisible.
+[Thu Nov 29 22:18:29 2001] You are now anonymous.
+[Thu Nov 29 22:18:38 2001] Teleporting to faah.
+[Thu Nov 29 22:18:38 2001] greater kobold shaman has been slain by Faah!
+[Thu Nov 29 22:18:43 2001] Nich's blood boils.
+[Thu Nov 29 22:18:47 2001] Solusek kobold shaman begins to cast a spell. (Spirit Strike)
+[Thu Nov 29 22:18:49 2001] Tariskatt begins to cast a spell. (Celestial Healing)
+[Thu Nov 29 22:18:51 2001] lava duct crawler has been slain by Nich!
+[Thu Nov 29 22:18:51 2001] Nich's blood boils.
+[Thu Nov 29 22:18:51 2001] You GMSAY, 'oh yes, that's his name alright'
+[Thu Nov 29 22:18:53 2001] Nich's body is covered with a soft glow.
+[Thu Nov 29 22:19:04 2001] Nich's blood boils.
+[Thu Nov 29 22:19:07 2001] You GMSAY, 'esc Dizwar to red - class 1 name violation'
+[Thu Nov 29 22:19:13 2001] Nich's blood boils.
+[Thu Nov 29 22:19:20 2001] Lirus GMSAYS, 'gonna go ninja nerf'
+[Thu Nov 29 22:19:24 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Nov 29 22:19:27 2001] STATUS UPGRADED TO URGENT
+[Thu Nov 29 22:19:28 2001] STATUS UPGRADED TO EMERGENCY
+[Thu Nov 29 22:19:28 2001] CHECKING IN
+[Thu Nov 29 22:19:29 2001] Menludarja begins to cast a spell. (Snare)
+[Thu Nov 29 22:19:31 2001] Nich's blood boils.
+[Thu Nov 29 22:19:38 2001] Menludarja begins to cast a spell. (Ensnare)
+[Thu Nov 29 22:19:40 2001] Tariskatt begins to cast a spell. (Complete Healing)
+[Thu Nov 29 22:19:41 2001] Teleporting to Faah (-538.00, -239.00, -71.20).
+[Thu Nov 29 22:19:45 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Thu Nov 29 22:19:49 2001] Cneeky begins to cast a spell. (Greater Shielding)
+[Thu Nov 29 22:19:52 2001] You begin to sneak...
+[Thu Nov 29 22:19:52 2001] You are as quiet as a herd of running elephants.
+[Thu Nov 29 22:19:59 2001] Ruwin begins to cast a spell. (Careless Lightning)
+[Thu Nov 29 22:19:59 2001] Pynkyand begins to cast a spell. (Valor)
+[Thu Nov 29 22:19:59 2001] Tryn begins to cast a spell. (Lifedraw)
+[Thu Nov 29 22:20:04 2001] You begin to sneak...
+[Thu Nov 29 22:20:04 2001] You have become better at Sneak! (54)
+[Thu Nov 29 22:20:04 2001] You are as quiet as a cat stalking its prey.
+[Thu Nov 29 22:20:05 2001] Ruwin begins to cast a spell. (Careless Lightning)
+[Thu Nov 29 22:20:06 2001] Tryn begins to cast a spell. (Lifedraw)
+[Thu Nov 29 22:20:10 2001] Cneeky begins to cast a spell. (Screaming Terror)
+[Thu Nov 29 22:20:15 2001] Pynkyand begins to cast a spell. (Greater Healing)
+[Thu Nov 29 22:20:17 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Thu Nov 29 22:20:18 2001] Tryn begins to cast a spell. (Siphon Strength)
+[Thu Nov 29 22:20:20 2001] Tryn beams a smile at Solusek kobold shaman.
+[Thu Nov 29 22:20:20 2001] Tryn says, 'Ahhh, I feel much better now...'
+[Thu Nov 29 22:20:22 2001] Lirus says, 'Hail, Faah'
+[Thu Nov 29 22:20:23 2001] Ruwin begins to cast a spell. (Careless Lightning)
+[Thu Nov 29 22:20:23 2001] sonic bat begins to cast a spell. (SonicScream)
+[Thu Nov 29 22:20:25 2001] Solusek kobold shaman begins to cast a spell. (Cancel Magic)
+[Thu Nov 29 22:20:32 2001] Espranza is now Visible.
+[Thu Nov 29 22:20:36 2001] Pynkyand begins to cast a spell. (Root)
+[Thu Nov 29 22:20:37 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Thu Nov 29 22:20:38 2001] Cneeky begins to cast a spell. (Screaming Terror)
+[Thu Nov 29 22:20:38 2001] Rastle begins to cast a spell. (Tashani)
+[Thu Nov 29 22:20:38 2001] sonic bat begins to cast a spell. (SonicScream)
+[Thu Nov 29 22:20:41 2001] Tryn begins to cast a spell. (Lifedraw)
+[Thu Nov 29 22:20:41 2001] Rastle begins to cast a spell. (Tepid Deeds)
+[Thu Nov 29 22:20:43 2001] Cdarie begins to cast a spell. (Yaulp II)
+[Thu Nov 29 22:20:46 2001] Ruwin begins to cast a spell. (Careless Lightning)
+[Thu Nov 29 22:20:48 2001] Cdarie begins to cast a spell. (Root)
+[Thu Nov 29 22:20:49 2001] Shwizer says out of character, 'camp check'
+[Thu Nov 29 22:20:49 2001] Cneeky begins to cast a spell. (Screaming Terror)
+[Thu Nov 29 22:20:49 2001] Solusek kobold shaman begins to cast a spell. (Cancel Magic)
+[Thu Nov 29 22:20:49 2001] Tryn begins to cast a spell. (Lifedraw)
+[Thu Nov 29 22:20:53 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Thu Nov 29 22:20:53 2001] sonic bat begins to cast a spell. (SonicScream)
+[Thu Nov 29 22:20:54 2001] Nich says out of character, 'ldc'
+[Thu Nov 29 22:20:54 2001] Pynkyand begins to cast a spell. (Greater Healing)
+[Thu Nov 29 22:20:54 2001] Cdarie begins to cast a spell. (Root)
+[Thu Nov 29 22:20:56 2001] Tryn begins to cast a spell. (Lifedraw)
+[Thu Nov 29 22:20:57 2001] Ruwin begins to cast a spell. (Careless Lightning)
+[Thu Nov 29 22:20:59 2001] Solusek kobold shaman begins to cast a spell. (Tagar's Insects)
+[Thu Nov 29 22:21:03 2001] Shwizer says out of character, 'is E-lord open'
+[Thu Nov 29 22:21:06 2001] sonic bat begins to cast a spell. (SonicScream)
+[Thu Nov 29 22:21:07 2001] Celeine begins to cast a spell. (LifetapEffectNormal)
+[Thu Nov 29 22:21:14 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu Nov 29 22:21:15 2001] You told dizwar, 'Hail, Dizwar! Guide Espranza here. Thanks for the news on Mr. Que's name... it's been changed...'
+[Thu Nov 29 22:21:16 2001] Greater kobold shaman feels much faster.
+[Thu Nov 29 22:21:18 2001] You are no longer anonymous.
+[Thu Nov 29 22:21:18 2001] Ruwin begins to cast a spell. (Careless Lightning)
+[Thu Nov 29 22:21:19 2001] You no longer have a target.
+[Thu Nov 29 22:21:20 2001] sonic bat begins to cast a spell. (SonicScream)
+[Thu Nov 29 22:21:25 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 22:21:25 2001] USER TEXT: i got killed in lavastorm because of lagging troubles
+[Thu Nov 29 22:21:25 2001] Players in EverQuest:
+[Thu Nov 29 22:21:25 2001] ---------------------------
+[Thu Nov 29 22:21:25 2001] [24 Necromancer] Aaladven (Dark Elf) ZONE: lakeofillomen (USER PID CT1HKR2)
+[Thu Nov 29 22:21:25 2001] There is 1 player in EverQuest.
+[Thu Nov 29 22:21:26 2001] Celeine begins to cast a spell. (LifetapEffectNormal)
+[Thu Nov 29 22:21:31 2001] Dizwar tells you, 'thank you'
+[Thu Nov 29 22:21:36 2001] Tryn begins to cast a spell. (Lifedraw)
+[Thu Nov 29 22:21:36 2001] Ruwin begins to cast a spell. (Careless Lightning)
+[Thu Nov 29 22:21:37 2001] Opaleye begins to cast a spell. (Stun)
+[Thu Nov 29 22:21:39 2001] Pynkyand begins to cast a spell. (Stun)
+[Thu Nov 29 22:21:39 2001] sonic bat begins to cast a spell. (SonicScream)
+[Thu Nov 29 22:21:41 2001] Cneeky begins to cast a spell. (Screaming Terror)
+[Thu Nov 29 22:21:41 2001] Ramda begins to cast a spell. (Celestial Healing)
+[Thu Nov 29 22:21:44 2001] You told Dizwar, 'thank you very much for bringing it to us!'
+[Thu Nov 29 22:21:44 2001] Ruwin begins to cast a spell. (Careless Lightning)
+[Thu Nov 29 22:21:46 2001] You GMSAY, 'zone'
+[Thu Nov 29 22:21:48 2001] You stop sneaking.
+[Thu Nov 29 22:21:48 2001] You begin casting Sunset Home. (Sunset Home)
+[Thu Nov 29 22:21:48 2001] Your Belt of Translocation begins to glow.
+[Thu Nov 29 22:21:50 2001] LOADING, PLEASE WAIT...
+[Thu Nov 29 22:22:10 2001] You have entered Sunset Home.
+[Thu Nov 29 22:22:29 2001] Players in EverQuest:
+[Thu Nov 29 22:22:29 2001] ---------------------------
+[Thu Nov 29 22:22:29 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 22:22:29 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: soldungb (USER PID CW1ECN5)
+[Thu Nov 29 22:22:29 2001] * Guide *[53 Mystic] Ngoc (Ogre) <Keepers of Dreams> ZONE: southkarana (USER PID FUGBDWQ)
+[Thu Nov 29 22:22:29 2001] There are 3 players in EverQuest.
+[Thu Nov 29 22:23:02 2001] USER TEXT: i got killed in lavastorm because of lagging troubles
+[Thu Nov 29 22:23:47 2001] You told Aaladven, 'Hail, Aaladven! Guide Espranza here. Lag is usually caused by congestion in the internet, beyond our control, and therefore is not something we can rez for. I'm sorry.'
+[Thu Nov 29 22:23:54 2001] Searching zones for corpse of that name....
+[Thu Nov 29 22:23:54 2001] Corpse: Aaladven's corpse0 in zone: lavastorm
+[Thu Nov 29 22:24:08 2001] Aaladven tells you, 'but it was frozen'
+[Thu Nov 29 22:24:25 2001] Aaladven tells you, 'i was frozen and couldn't move'
+[Thu Nov 29 22:24:54 2001] Lirus GMSAYS, 'zone'
+[Thu Nov 29 22:24:59 2001] You told Aaladven, 'When the lag *is* something in the EQ servers, it usually happens to hundreds of people at once. Let me go look at your corpse and see if I can find something unusual.'
+[Thu Nov 29 22:25:01 2001] You GMSAY, 'zone'
+[Thu Nov 29 22:25:04 2001] Ngoc GMSAYS, 'can yuou check a report for me Lirus?'
+[Thu Nov 29 22:25:07 2001] LOADING, PLEASE WAIT...
+[Thu Nov 29 22:25:31 2001] You have entered Lavastorm Mountains.
+[Thu Nov 29 22:25:42 2001] Teleporting to aaladven's corpse0.
+[Thu Nov 29 22:26:04 2001] You told Aaladven, 'what killed you?'
+[Thu Nov 29 22:26:10 2001] Ngoc GMSAYS, 'Can you check a report under the name Luane for me Lirus?  It's in regards to that stealing of spawn incident'
+[Thu Nov 29 22:26:26 2001] Aaladven tells you, 'like five things i couldn't tell'
+[Thu Nov 29 22:26:34 2001] You told Aaladven, 'those gypsies?'
+[Thu Nov 29 22:26:40 2001] Lirus GMSAYS, 'sure'
+[Thu Nov 29 22:26:45 2001] Tizina begins to cast a spell. (Feedback)
+[Thu Nov 29 22:26:49 2001] Aaladven tells you, 'maybe not sure'
+[Thu Nov 29 22:27:10 2001] Iyaint shouts, 'anyone want to help me kill an inferno goblin in SolA? i'll pay 50plat if you could.. ;/'
+[Thu Nov 29 22:27:23 2001] You told Aaladven, 'ah, I think you ran afoul of the enchantress there'
+[Thu Nov 29 22:27:24 2001] Tizina begins to cast a spell. (Alacrity)
+[Thu Nov 29 22:27:29 2001] Tizina feels much faster.
+[Thu Nov 29 22:27:44 2001] Tizina begins to cast a spell. (Feedback)
+[Thu Nov 29 22:28:00 2001] Aaladven tells you, 'i was running back from temple of ro and game froze and then it stops and i was dead'
+[Thu Nov 29 22:28:08 2001] You told Aaladven, 'it looks like you may have been stunned and killed?'
+[Thu Nov 29 22:28:18 2001] Muchi shouts, 'heya guys what ya up to?'
+[Thu Nov 29 22:28:24 2001] Tizina begins to cast a spell. (Alacrity)
+[Thu Nov 29 22:28:28 2001] Jengo Smirt feels much faster.
+[Thu Nov 29 22:28:30 2001] Aaladven tells you, 'nope'
+[Thu Nov 29 22:28:56 2001] Lirus GMSAYS, 'nothing of consequence in the report. Mistier said engage or step aside'
+[Thu Nov 29 22:29:15 2001] You told Aaladven, 'well... we can't rez for lag crashes... but it's strange anything bugged you at that level. There's a hostile necromancer nearby...'
+[Thu Nov 29 22:29:26 2001] Ngoc GMSAYS, 'ok...'
+[Thu Nov 29 22:29:38 2001] Aaladven tells you, 'yep i freeze a lot'
+[Thu Nov 29 22:30:07 2001] You were hit by non-melee for 105 dmg.
+[Thu Nov 29 22:30:07 2001] YOU were injured by falling.
+[Thu Nov 29 22:30:27 2001] You told Aaladven, 'You should look at that...'
+[Thu Nov 29 22:30:42 2001] Aaladven tells you, 'how long  does it take for corpse to dissapear?'
+[Thu Nov 29 22:31:14 2001] You told Aaladven, '24 hours of online time, one week offline, and somewhere between that if you have time on and offline.'
+[Thu Nov 29 22:31:41 2001] DELETING THIS PETITION
+[Thu Nov 29 22:32:08 2001] Ngoc GMSAYS, 'night all'
+[Thu Nov 29 22:32:08 2001] Aaladven tells you, 'ok if i log now will i be able to get it tomorrow if i am in lake of ill omen'
+[Thu Nov 29 22:32:13 2001] Ngoc GMSAYS, 'I'm taking off'
+[Thu Nov 29 22:32:17 2001] Lirus GMSAYS, 'gnight ngoc)'
+[Thu Nov 29 22:32:29 2001] You GMSAY, 'I've noticed that some mob skins are different for me - like the crystal gargoyles in Velks have a granite pattern, and the kobolds in steamfont have a different coat...'
+[Thu Nov 29 22:32:33 2001] You told Aaladven, 'yup'
+[Thu Nov 29 22:32:37 2001] You GMSAY, 'Night, Ngoc!'
+[Thu Nov 29 22:32:51 2001] Aaladven tells you, 'ok thanks anyways'
+[Thu Nov 29 22:33:01 2001] You told Aaladven, 'good luck!'
+[Thu Nov 29 22:33:05 2001] Your feet leave the ground.
+[Thu Nov 29 22:33:06 2001] Lirus GMSAYS, 'your textures sound like they are off'
+[Thu Nov 29 22:33:23 2001] You GMSAY, 'I still see Velious armors...'
+[Thu Nov 29 22:33:26 2001] You feel the spirit of Z surround you.
+[Thu Nov 29 22:34:29 2001] You GMSAY, 'I wonder if it's because I use a Voodoo 4, not one of the cards listed in that poll...'
+[Thu Nov 29 22:34:45 2001] You GMSAY, 'what vid card should I use for Luclin?'
+[Thu Nov 29 22:35:15 2001] Lirus GMSAYS, 'geforce 2 or better'
+[Thu Nov 29 22:35:26 2001] You GMSAY, 'I better upgrade then'
+[Thu Nov 29 22:35:35 2001] Espranza saved.
+[Thu Nov 29 22:35:38 2001] You GMSAY, 'only use Voodoo cuz I know EQ was originally designed for Glide'
+[Thu Nov 29 22:35:39 2001] Lirus GMSAYS, '*nod* me too'
+[Thu Nov 29 22:35:43 2001] Lirus GMSAYS, 'yeah'
+[Thu Nov 29 22:35:52 2001] Lirus GMSAYS, 'they are gonna throw lotsa people for a loop though'
+[Thu Nov 29 22:36:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 22:36:02 2001] USER TEXT: I was told to petition if I dont want a surname anymore
+[Thu Nov 29 22:36:02 2001] Players in EverQuest:
+[Thu Nov 29 22:36:02 2001] ---------------------------
+[Thu Nov 29 22:36:02 2001] [ANON (57 Templar)] Klail (Dark Elf) ZONE: sirens (USER PID GY3FXPF)
+[Thu Nov 29 22:36:02 2001] There is 1 player in EverQuest.
+[Thu Nov 29 22:36:02 2001] Lirus GMSAYS, 'dx8 doesn't support voodoo cards'
+[Thu Nov 29 22:36:09 2001] You GMSAY, 'I use DX8'
+[Thu Nov 29 22:36:18 2001] Lirus GMSAYS, 'so they are scrambling to write new drivers for it'
+[Thu Nov 29 22:36:20 2001] You GMSAY, 'works with mine'
+[Thu Nov 29 22:36:25 2001] Lirus GMSAYS, 'so people can use their cards'
+[Thu Nov 29 22:36:36 2001] You GMSAY, 'or maybe that's kinda my problem with the textures'
+[Thu Nov 29 22:36:44 2001] You GMSAY, 'anyway, I'll go to Geforce'
+[Thu Nov 29 22:36:53 2001] Lirus GMSAYS, 'all i know is there is talk that many voodoo owners...inclduing myself are gonna be left in the cold if they don't make some drivers'
+[Thu Nov 29 22:37:35 2001] You told Klail, 'Hail, Klail! Guide Espranza here. You want your surname removed?'
+[Thu Nov 29 22:37:42 2001] You GMSAY, 'hmm... well that is uncool'
+[Thu Nov 29 22:37:46 2001] Klail tells you, 'Yea '
+[Thu Nov 29 22:37:55 2001] You told Klail, 'okay, I'll pass your request along to Lirus'
+[Thu Nov 29 22:38:11 2001] Klail tells you, 'Tring to cut down on tells for rev and it doesnt help'
+[Thu Nov 29 22:38:11 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Nov 29 22:38:12 2001] GM TEXT: Espranza: Wants his surname removed, no new surname needed.
+[Thu Nov 29 22:38:14 2001] STATUS UPGRADED TO URGENT
+[Thu Nov 29 22:38:14 2001] STATUS UPGRADED TO EMERGENCY
+[Thu Nov 29 22:38:22 2001] You GMSAY, 'esc Klail, wants surname removed.'
+[Thu Nov 29 22:38:25 2001] CHECKING IN
+[Thu Nov 29 22:38:45 2001] Klail tells you, 'Thx'
+[Thu Nov 29 22:39:10 2001] You GMSAY, 'my eyes are going bad... I can barely read text on the screen anymore... doctor says trifocals are my only answer'
+[Thu Nov 29 22:40:49 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 22:40:49 2001] USER TEXT: I recently created a guild and im waiting for the e-mail to come but the people that originally approved the guild have logged can i invite them as they get back on or have i messed the whole thing up
+[Thu Nov 29 22:40:50 2001] Players in EverQuest:
+[Thu Nov 29 22:40:50 2001] ---------------------------
+[Thu Nov 29 22:40:50 2001] [19 Druid] Turles (Wood Elf) ZONE: gfaydark (USER PID HT679X1)
+[Thu Nov 29 22:40:50 2001] There is 1 player in EverQuest.
+[Thu Nov 29 22:41:37 2001] You told Turles, 'Hail, Turles! Guide Espranza here. When you get the email, gather together ten people who will be joining your guild, and petition for a guide to verify those people, then Lirus will create your guild.'
+[Thu Nov 29 22:41:53 2001] DELETING THIS PETITION
+[Thu Nov 29 22:42:03 2001] Turles tells you, 'so it does not have to be the original 10 who approved it?'
+[Thu Nov 29 22:42:20 2001] You told Turles, 'no, but it should be 10 people who are joining the guild.'
+[Thu Nov 29 22:42:28 2001] Turles tells you, 'ok thank you sir'
+[Thu Nov 29 22:42:32 2001] You told Turles, 'sure thing'
+[Thu Nov 29 22:42:40 2001] You feel the spirit of Norrath enter you.
+[Thu Nov 29 22:42:47 2001] You GMSAY, '... and don't call me sir...'
+[Thu Nov 29 22:42:56 2001] You GMSAY, 'grrr. bugs me.'
+[Thu Nov 29 22:43:18 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 22:43:18 2001] USER TEXT: gm remove surname and change
+[Thu Nov 29 22:43:19 2001] Players in EverQuest:
+[Thu Nov 29 22:43:19 2001] ---------------------------
+[Thu Nov 29 22:43:19 2001] [57 Preserver] Faustina (Wood Elf) <Black Claws> ZONE: greatdivide (USER PID AUH58B2)
+[Thu Nov 29 22:43:19 2001] There is 1 player in EverQuest.
+[Thu Nov 29 22:43:40 2001] You told Faustina, 'Hail, Faustina! Guide Espranza here. What surname would you like?'
+[Thu Nov 29 22:44:03 2001] Faustina tells you, 'i'd like it changed back to my origianal surname of Estrellita'
+[Thu Nov 29 22:44:16 2001] You told Faustina, 'Okay, I'll pass your request along to Lirus.'
+[Thu Nov 29 22:44:22 2001] Faustina tells you, 'thanks'
+[Thu Nov 29 22:44:26 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Nov 29 22:44:27 2001] GM TEXT: Espranza: Would like her surname changed to Estrellita
+[Thu Nov 29 22:44:29 2001] STATUS UPGRADED TO URGENT
+[Thu Nov 29 22:44:30 2001] STATUS UPGRADED TO EMERGENCY
+[Thu Nov 29 22:44:31 2001] CHECKING IN
+[Thu Nov 29 22:44:44 2001] You GMSAY, 'esc Faustina - wants surname changed to Estrellita.'
+[Thu Nov 29 22:45:02 2001] You feel as if you are about to fall.
+[Thu Nov 29 22:45:08 2001] You feel as if you are about to fall.
+[Thu Nov 29 22:45:10 2001] You can no longer levitate.
+[Thu Nov 29 22:45:44 2001] Espranza saved.
+[Thu Nov 29 22:46:25 2001] Colandayen says out of character, 'Hello Urein )'
+[Thu Nov 29 22:46:34 2001] Urein says out of character, 'Hello'
+[Thu Nov 29 22:46:45 2001] Urein says out of character, 'So wat u hunting'
+[Thu Nov 29 22:47:52 2001] Players in EverQuest:
+[Thu Nov 29 22:47:52 2001] ---------------------------
+[Thu Nov 29 22:47:52 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: lavastorm (USER PID AUGBQH4)
+[Thu Nov 29 22:47:52 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: stonebrunt (USER PID CW1ECN5)
+[Thu Nov 29 22:47:52 2001] There are 2 players in EverQuest.
+[Thu Nov 29 22:48:02 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 22:48:03 2001] USER TEXT: I married Tingurin Kinsiayer last time I was on, and would like my name changed please
+[Thu Nov 29 22:48:03 2001] Players in EverQuest:
+[Thu Nov 29 22:48:03 2001] ---------------------------
+[Thu Nov 29 22:48:03 2001] [ANON (29 Warrior)] Meeghan (Barbarian) ZONE: southkarana (USER PID FYQ48KV)
+[Thu Nov 29 22:48:03 2001] There is 1 player in EverQuest.
+[Thu Nov 29 22:48:15 2001] Huggi auctions, 'WTS nathsar greatsword 17/30 2hs +10 str - 500pp'
+[Thu Nov 29 22:48:35 2001] You told Meeghan, 'Hail, Meeghan! Guide Espranza here. You would like your last name changed to Kinslayer?'
+[Thu Nov 29 22:48:46 2001] Moiridin tells you, 'May I ask a question?  Is it considered a misuse of @partition if I ask for statistical info. (IE how many characters on ea.) about the servers?'
+[Thu Nov 29 22:49:03 2001] Meeghan tells you, 'aye, but tiss Kinsiayer'
+[Thu Nov 29 22:49:22 2001] You told Moiridin, 'It's not a misuse per se, but it's not information we have or could give out if we did....'
+[Thu Nov 29 22:49:42 2001] You told Meeghan, 'Ah, okay... I'll escalate your petition to Lirus. If not answered tonight, please petition again tomorrow.'
+[Thu Nov 29 22:49:44 2001] Moiridin tells you, 'OK, thanks.  I'm curious but I didn't want to break the rules.'
+[Thu Nov 29 22:50:04 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Nov 29 22:50:05 2001] GM TEXT: Espranza: Would like last name changed to Kinsiayer - just like that, it's not a misspelling.
+[Thu Nov 29 22:50:05 2001] GM TEXT: Espranza: Would like last name changed to Kinsiayer - just like that, it's not a misspelling.
+[Thu Nov 29 22:50:12 2001] Meeghan tells you, 'thank ye.'
+[Thu Nov 29 22:50:16 2001] You GMSAY, 'esc Meeghan, wants last name changed to Kinsiayer'
+[Thu Nov 29 22:50:21 2001] STATUS UPGRADED TO URGENT
+[Thu Nov 29 22:50:21 2001] STATUS UPGRADED TO EMERGENCY
+[Thu Nov 29 22:50:23 2001] CHECKING IN
+[Thu Nov 29 22:50:28 2001] You told Meeghan, 'be well!'
+[Thu Nov 29 22:50:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 22:50:36 2001] USER TEXT: I zoned from CoM and ended up somewhere near zone to FoB??????
+[Thu Nov 29 22:50:37 2001] Players in EverQuest:
+[Thu Nov 29 22:50:37 2001] ---------------------------
+[Thu Nov 29 22:50:37 2001] [42 Magician] Beezerarc (Gnome) <Utopian Guard> ZONE: emeraldjungle (USER PID CZU96B6)
+[Thu Nov 29 22:50:37 2001] There is 1 player in EverQuest.
+[Thu Nov 29 22:51:01 2001] You told Beezerarc, 'Hail, Beezerarc! Guide Espranza here. Were you very low on health when you zoned?'
+[Thu Nov 29 22:51:18 2001] Beezerarc tells you, 'yes'
+[Thu Nov 29 22:51:26 2001] You told Beezerarc, 'that sometimes happens...'
+[Thu Nov 29 22:51:41 2001] Beezerarc tells you, 'well, I can't find my way back and want to be back at CoM'
+[Thu Nov 29 22:51:42 2001] Dratier GMSAYS, 'Hello everyone'
+[Thu Nov 29 22:51:48 2001] Lirus GMSAYS, 'heya drat'
+[Thu Nov 29 22:51:55 2001] You GMSAY, 'Hello, Dratier!'
+[Thu Nov 29 22:52:39 2001] You told Beezerarc, 'What happened was that /pr guy had a zoning bug coming out of CoM... waiting for him to also request a new last name...'
+[Thu Nov 29 22:52:49 2001] You told Beezerarc, 'mistell...'
+[Thu Nov 29 22:52:59 2001] You told Beezerarc, 'well partial mistell'
+[Thu Nov 29 22:53:09 2001] Dratier GMSAYS, 'zoning home'
+[Thu Nov 29 22:53:26 2001] You told Beezerarc, 'What happened was that you had a zoning bug coming out of CoM when you were low on health'
+[Thu Nov 29 22:53:40 2001] Beezerarc tells you, 'ok, plz put me back at zone'
+[Thu Nov 29 22:54:21 2001] You told Beezerarc, 'the thing is, the bug is that you should have died, but the game is in an undetermined state and places you at the safe point to the zone'
+[Thu Nov 29 22:54:36 2001] You told Beezerarc, 'and doesn't mark you as dead...'
+[Thu Nov 29 22:54:40 2001] Beezerarc tells you, 'no, I had 2 bubbles of hp, I should not have died'
+[Thu Nov 29 22:54:50 2001] You told Beezerarc, 'were things on you as you were zoning?'
+[Thu Nov 29 22:55:01 2001] Beezerarc tells you, 'my normal stuff'
+[Thu Nov 29 22:55:01 2001] Yumenoteki tells you, 'hi hi'
+[Thu Nov 29 22:55:15 2001] You told Yumenoteki, 'hey! Tekikun!'
+[Thu Nov 29 22:55:20 2001] Players in EverQuest:
+[Thu Nov 29 22:55:20 2001] ---------------------------
+[Thu Nov 29 22:55:20 2001] [1 Monk] Yumenoteki (Human) ZONE: qeynos (USER PID DPE42NE)
+[Thu Nov 29 22:55:20 2001] There is 1 player in EverQuest.
+[Thu Nov 29 22:55:27 2001] Yumenoteki tells you, 'how you doing?'
+[Thu Nov 29 22:55:36 2001] You told Yumenoteki, 'pretty good - lemme summon you to CSHome'
+[Thu Nov 29 22:55:37 2001] You GMSAY, 'zone'
+[Thu Nov 29 22:55:40 2001] You begin casting Sunset Home. (Sunset Home)
+[Thu Nov 29 22:55:40 2001] Your Belt of Translocation begins to glow.
+[Thu Nov 29 22:55:41 2001] LOADING, PLEASE WAIT...
+[Thu Nov 29 22:56:02 2001] You have entered Sunset Home.
+[Thu Nov 29 22:56:11 2001] You GMSAY, 'inc Yumenoteki, needs rebuffing'
+[Thu Nov 29 22:56:15 2001] Summoning Yumenoteki.
+[Thu Nov 29 22:56:38 2001] Yumenoteki says, 'hiya!'
+[Thu Nov 29 22:56:45 2001] You cheer at Yumenoteki.
+[Thu Nov 29 22:56:48 2001] Yumenoteki cheers.
+[Thu Nov 29 22:56:49 2001] Players on EverQuest:
+[Thu Nov 29 22:56:49 2001] ---------------------------
+[Thu Nov 29 22:56:49 2001] [1 Monk] Yumenoteki (Human)
+[Thu Nov 29 22:56:49 2001] * GM * [51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams>
+[Thu Nov 29 22:56:49 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Nov 29 22:56:49 2001] There are 3 players in Sunset Home.
+[Thu Nov 29 22:56:53 2001] You say, 'please go anon'
+[Thu Nov 29 22:56:58 2001] Players on EverQuest:
+[Thu Nov 29 22:56:58 2001] ---------------------------
+[Thu Nov 29 22:56:58 2001] [1 Monk] Yumenoteki (Human)
+[Thu Nov 29 22:56:58 2001] * GM * [51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams>
+[Thu Nov 29 22:56:58 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Nov 29 22:56:58 2001] There are 3 players in Sunset Home.
+[Thu Nov 29 22:57:00 2001] Yumenoteki says, 'anything exciting happen while I temporarily went away?'
+[Thu Nov 29 22:57:03 2001] Players on EverQuest:
+[Thu Nov 29 22:57:03 2001] ---------------------------
+[Thu Nov 29 22:57:03 2001] [ANONYMOUS] Yumenoteki 
+[Thu Nov 29 22:57:03 2001] * GM * [51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams>
+[Thu Nov 29 22:57:03 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Nov 29 22:57:03 2001] There are 3 players in Sunset Home.
+[Thu Nov 29 22:57:14 2001] You say, 'same old same old'
+[Thu Nov 29 22:57:20 2001] Yumenoteki says, 'heh heh'
+[Thu Nov 29 22:57:20 2001] Dratier waves at Yumenoteki.
+[Thu Nov 29 22:57:23 2001] Yumenoteki says, 'cool'
+[Thu Nov 29 22:57:25 2001] Yumenoteki bows.
+[Thu Nov 29 22:57:29 2001] You say, 'I am sorry to hear of your grandmother's death'
+[Thu Nov 29 22:57:29 2001] Yumenoteki says, 'hiya Dratier'
+[Thu Nov 29 22:57:40 2001] Dratier says, 'Hello Yumenoteki'
+[Thu Nov 29 22:57:41 2001] Yumenoteki says, 'aye ... '
+[Thu Nov 29 22:57:53 2001] Yumenoteki says, 'it was a bit unexpected ... I had hoped she would last until my second visit'
+[Thu Nov 29 22:58:01 2001] You GMSAY, 'Lirus, could you rebuff Yume please?'
+[Thu Nov 29 22:58:03 2001] Yumenoteki says, 'but she passed away before I could return'
+[Thu Nov 29 22:58:14 2001] Yumenoteki says, 'she was very depressed when I left back for the states originally'
+[Thu Nov 29 22:58:14 2001] Lirus GMSAYS, 'yeqh sec'
+[Thu Nov 29 22:58:25 2001] You say, 'Aye, much the same happened when my mother passed on'
+[Thu Nov 29 22:58:25 2001] Yumenoteki says, 'and failed to eat & drink '
+[Thu Nov 29 22:58:46 2001] Yumenoteki says, 'I guess old folks get lonely if they don't feel like they have company '
+[Thu Nov 29 22:58:53 2001] Yumenoteki says, 'sad to hear that'
+[Thu Nov 29 22:59:06 2001] Yumenoteki says, 'when did she pass away?'
+[Thu Nov 29 22:59:12 2001] You say, '1990'
+[Thu Nov 29 22:59:23 2001] You say, 'She was in New Hampshire, me in California'
+[Thu Nov 29 22:59:24 2001] Yumenoteki says, 'were you able to meet her before she passed away?'
+[Thu Nov 29 22:59:32 2001] Yumenoteki says, 'ah ... cross country is tough also'
+[Thu Nov 29 22:59:36 2001] You say, 'Yes, but I wasn't able to be there when she died.'
+[Thu Nov 29 23:00:03 2001] Yumenoteki says, 'same as me then ... my mom didn't want to tell me since she knew I'd hop on a plane and go back'
+[Thu Nov 29 23:00:19 2001] Yumenoteki says, 'luckily the company I work for is family oriented'
+[Thu Nov 29 23:00:35 2001] Yumenoteki says, 'so they understand when people have to go on those types of trips'
+[Thu Nov 29 23:00:48 2001] Lirus GMSAYS, 'zone'
+[Thu Nov 29 23:00:52 2001] You told Beezerarc, 'I cannot port you back to the City of Mist, but on the bright side - you weren't killed when you zoned...'
+[Thu Nov 29 23:00:55 2001] DELETING THIS PETITION
+[Thu Nov 29 23:01:06 2001] You say, 'There is something kind of new'
+[Thu Nov 29 23:01:08 2001] Yumenoteki says, 'my wife was surprised I wasn't too sad.  '
+[Thu Nov 29 23:01:18 2001] You say, 'Now people can have their surnames changed anytime they like'
+[Thu Nov 29 23:01:18 2001] Yumenoteki says, 'oh?'
+[Thu Nov 29 23:01:28 2001] Yumenoteki says, 'heh heh ... nice :)'
+[Thu Nov 29 23:01:30 2001] You say, 'So a lot of people petition for that now.'
+[Thu Nov 29 23:01:34 2001] Beezerarc tells you, 'that is BS, I should not have been killed when I had 2 bubs of hp left'
+[Thu Nov 29 23:01:40 2001] Yumenoteki says, 'did they give the ability to guides?'
+[Thu Nov 29 23:01:47 2001] Lirus says, 'how long ya been in yum?'
+[Thu Nov 29 23:01:48 2001] Yumenoteki says, 'heh heh ... sneaky rogues'
+[Thu Nov 29 23:01:50 2001] You told Beezerarc, 'While you zone, you are still able to be attacked for a few seconds'
+[Thu Nov 29 23:01:57 2001] Yumenoteki says, 'ummm ... since Tuesday I think'
+[Thu Nov 29 23:02:11 2001] Yumenoteki says, 'I got e-mail on Monday eve ... so I thought I'd be buffed by you again :)'
+[Thu Nov 29 23:02:11 2001] Lirus says, 'umm giving ya 1 for now'
+[Thu Nov 29 23:02:19 2001] Lirus says, 'if ye need more levels have a senior bark at me'
+[Thu Nov 29 23:02:19 2001] Yumenoteki says, 'can you set me back to 50? ;)'
+[Thu Nov 29 23:02:30 2001] Yumenoteki says, 'I like making the natives think I'm a newbie'
+[Thu Nov 29 23:02:32 2001] Yumenoteki says, 'heh heh'
+[Thu Nov 29 23:02:33 2001] Lirus says, 'sure'
+[Thu Nov 29 23:02:39 2001] Yumenoteki says, 'thanks'
+[Thu Nov 29 23:02:44 2001] Lirus says, 'want a title or surname?'
+[Thu Nov 29 23:02:45 2001] Players in EverQuest:
+[Thu Nov 29 23:02:45 2001] ---------------------------
+[Thu Nov 29 23:02:45 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Thu Nov 29 23:02:45 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 23:02:45 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Nov 29 23:02:45 2001] There are 3 players in EverQuest.
+[Thu Nov 29 23:02:51 2001] Yumenoteki has joined your guild.
+[Thu Nov 29 23:02:51 2001] Yumenoteki is now a regular member of your guild.
+[Thu Nov 29 23:02:55 2001] You say to your guild, 'hiya!'
+[Thu Nov 29 23:03:01 2001] Lirus tells the guild, 'hey hey'
+[Thu Nov 29 23:03:04 2001] Lirus tells the guild, 'welcome back!'
+[Thu Nov 29 23:03:05 2001] You say, 'Make his last name Nekojanai'
+[Thu Nov 29 23:03:05 2001] Dratier tells the guild, 'Hello'
+[Thu Nov 29 23:03:08 2001] Yumenoteki says, 'I think I'll choose something to remember my grandmother ... but I need to confirm her name first'
+[Thu Nov 29 23:03:11 2001] Yumenoteki says, 'heh heh'
+[Thu Nov 29 23:03:14 2001] Yumenoteki tells the guild, 'hiya'
+[Thu Nov 29 23:03:20 2001] Lirus says, 'ok, just lemme know'
+[Thu Nov 29 23:03:27 2001] Yumenoteki says, 'thanks'
+[Thu Nov 29 23:03:32 2001] Yumenoteki says, 'perfect timing, eh?'
+[Thu Nov 29 23:03:38 2001] Lirus goes back to creating upteen million items that some idjut lost in ec.
+[Thu Nov 29 23:03:43 2001] Yumenoteki says, 'just got my game computer back up'
+[Thu Nov 29 23:03:47 2001] Lirus says, 'sweet'
+[Thu Nov 29 23:03:49 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 23:03:49 2001] USER TEXT: I need help I did a quest for a soulfire and I didnt get one 
+[Thu Nov 29 23:03:49 2001] Players in EverQuest:
+[Thu Nov 29 23:03:49 2001] ---------------------------
+[Thu Nov 29 23:03:49 2001] [52 Cavalier] Smekal (Human) <Elven Elite> ZONE: paw (USER PID GU8QMDZ)
+[Thu Nov 29 23:03:50 2001] There is 1 player in EverQuest.
+[Thu Nov 29 23:04:09 2001] Yumenoteki says, 'so do regular guides have last name power now also?  or still Senior+?'
+[Thu Nov 29 23:04:15 2001] You say, 'Still Senior+'
+[Thu Nov 29 23:04:20 2001] You say, 'Gives Lirus something to do'
+[Thu Nov 29 23:04:29 2001] Yumenoteki says, 'hmmm ... that makes Lirus and all the Seniors extra busy then'
+[Thu Nov 29 23:04:39 2001] Lirus says, 'hehe aye'
+[Thu Nov 29 23:04:39 2001] Yumenoteki says, 'of course, regular guides may abuse it'
+[Thu Nov 29 23:04:50 2001] Lirus says, 'i gotta replace 8 10 slot bags full of crap'
+[Thu Nov 29 23:04:54 2001] Lirus says, 'one item at a time'
+[Thu Nov 29 23:04:57 2001] Yumenoteki says, 'wow'
+[Thu Nov 29 23:04:59 2001] Lirus says, 'talk about a pain in the ass'
+[Thu Nov 29 23:05:01 2001] Dratier says, 'Eww'
+[Thu Nov 29 23:05:02 2001] Yumenoteki says, 'how did that happen?'
+[Thu Nov 29 23:05:14 2001] Lirus says, 'people going LD with crap in trade window'
+[Thu Nov 29 23:05:25 2001] Yumenoteki says, 'is that officially a bug now?'
+[Thu Nov 29 23:05:31 2001] Lirus says, 'yes and no'
+[Thu Nov 29 23:05:36 2001] You say, 'changes to the policy...'
+[Thu Nov 29 23:05:40 2001] Lirus says, 'it is i suppose but very prevantable'
+[Thu Nov 29 23:05:56 2001] USER TEXT: I need help I did a quest for a soulfire and I didnt get one 
+[Thu Nov 29 23:06:01 2001] Yumenoteki says, 'looks like @home is going LD tommorrow'
+[Thu Nov 29 23:06:07 2001] Espranza saved.
+[Thu Nov 29 23:06:14 2001] Espranza is glad, for once, that she's dialup.
+[Thu Nov 29 23:06:21 2001] Lirus says, 'hehe'
+[Thu Nov 29 23:06:21 2001] Yumenoteki says, 'the creditors are trying to screw up the AT&T deal'
+[Thu Nov 29 23:06:35 2001] Yumenoteki says, 'I curse whenever my DSL is down ...'
+[Thu Nov 29 23:06:42 2001] Yumenoteki says, 'and that happens way too often'
+[Thu Nov 29 23:06:43 2001] You GMSAY, 'anyone know of any bugs with the Soulfire quest?'
+[Thu Nov 29 23:06:47 2001] Lirus GMSAYS, 'nope'
+[Thu Nov 29 23:06:51 2001] Dratier GMSAYS, 'Nope'
+[Thu Nov 29 23:06:59 2001] Yumenoteki says, 'wow ... zero queue'
+[Thu Nov 29 23:07:28 2001] You GMSAY, 'is this a quest that requires a high faction or some other subtle thing that could invisibly sour the end of the quest?'
+[Thu Nov 29 23:07:38 2001] Lirus GMSAYS, 'ally faction'
+[Thu Nov 29 23:08:02 2001] Lirus GMSAYS, 'zone'
+[Thu Nov 29 23:08:40 2001] You told Smekal, 'Hail, Smekal! Guide Espranza here. How may I help you?'
+[Thu Nov 29 23:09:56 2001] Faustina tells you, 'sorry to bother you, but i'd like to cancel my previous request to change my surname....sorry about the inconveineince (sp?)'
+[Thu Nov 29 23:09:58 2001] Smekal tells you, 'I did a quest for a Soulfire I turned all the stuff into Bro hail Except one item I was supposed to gie him before I gave the others '
+[Thu Nov 29 23:10:13 2001] STATUS UPGRADED TO URGENT
+[Thu Nov 29 23:10:15 2001] CHECKING IN
+[Thu Nov 29 23:10:25 2001] You GMSAY, 'faustina wants to cancel her surname request'
+[Thu Nov 29 23:10:27 2001] You told Faustina, 'okay'
+[Thu Nov 29 23:10:33 2001] You GMSAY, 'so - deleting faustina'
+[Thu Nov 29 23:10:35 2001] Yumenoteki says, 'time to go get my equipment ;)'
+[Thu Nov 29 23:10:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 23:10:38 2001] USER TEXT: gm remove surname and change
+[Thu Nov 29 23:10:38 2001] Players in EverQuest:
+[Thu Nov 29 23:10:38 2001] ---------------------------
+[Thu Nov 29 23:10:38 2001] [57 Preserver] Faustina (Wood Elf) <Black Claws> ZONE: tox (USER PID AUH58B2)
+[Thu Nov 29 23:10:38 2001] There is 1 player in EverQuest.
+[Thu Nov 29 23:10:40 2001] DELETING THIS PETITION
+[Thu Nov 29 23:10:51 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 23:10:51 2001] USER TEXT: I need help I did a quest for a soulfire and I didnt get one 
+[Thu Nov 29 23:10:52 2001] Players in EverQuest:
+[Thu Nov 29 23:10:52 2001] ---------------------------
+[Thu Nov 29 23:10:52 2001] [52 Cavalier] Smekal (Human) <Elven Elite> ZONE: paw (USER PID GU8QMDZ)
+[Thu Nov 29 23:10:52 2001] There is 1 player in EverQuest.
+[Thu Nov 29 23:11:08 2001] Smekal tells you, 'all the items needed to go to him regardless The quest didnt tell me that I need to give hime a note'
+[Thu Nov 29 23:11:31 2001] You told Smekal, 'I see....'
+[Thu Nov 29 23:11:43 2001] Dratier floats above the ground.
+[Thu Nov 29 23:11:48 2001] Dratier begins to cast a spell. (Contraction)
+[Thu Nov 29 23:11:50 2001] Dratier shrinks.
+[Thu Nov 29 23:11:59 2001] You GMSAY, 'Lirus, the soulfire quest person says he didn't know he was supposed to give the guy the note before the other items...'
+[Thu Nov 29 23:12:09 2001] Lirus GMSAYS, 'k.....'
+[Thu Nov 29 23:12:16 2001] You GMSAY, 'so he gave him the items and then the note, and didn't get the sword'
+[Thu Nov 29 23:12:22 2001] You GMSAY, 'what should I do?'
+[Thu Nov 29 23:12:24 2001] Lirus GMSAYS, 'he did it incorrectly'
+[Thu Nov 29 23:12:28 2001] You GMSAY, 'aye'
+[Thu Nov 29 23:12:35 2001] You GMSAY, 'outta luck?'
+[Thu Nov 29 23:12:39 2001] Lirus GMSAYS, 'tell him the quest was not done as it was intended and you are very sorry('
+[Thu Nov 29 23:12:41 2001] Lirus GMSAYS, 'yeah'
+[Thu Nov 29 23:12:43 2001] You GMSAY, 'okay'
+[Thu Nov 29 23:12:56 2001] Smekal tells you, 'I did everything but give him one note before the other yet he still got all the items he needed to get the sword'
+[Thu Nov 29 23:13:06 2001] Lirus GMSAYS, 'heading out for the night, if rodetta shows up have her go to chat and grab a gm to help her with her problem'
+[Thu Nov 29 23:13:35 2001] You told Smekal, 'I asked the GM about this, he said that the quest was performed incorrectly, and though he is very sorry, it will need to be done again.'
+[Thu Nov 29 23:13:38 2001] Dratier GMSAYS, 'Okay, night Lirus.'
+[Thu Nov 29 23:13:41 2001] You GMSAY, 'night!'
+[Thu Nov 29 23:13:49 2001] DELETING THIS PETITION
+[Thu Nov 29 23:14:13 2001] Ugloc Drinkbringa says 'Hi there Yumenoteki, just browsing?  Have you seen the Tunic of the Wanderer I just got in?'
+[Thu Nov 29 23:14:24 2001] You say, 'you could have come back as a halfling, you know'
+[Thu Nov 29 23:14:26 2001] Smekal tells you, 'your kidding the items cant be given back to me It took days of work and organization to get it all'
+[Thu Nov 29 23:14:47 2001] You told Smekal, 'I'm just passing along what was told to me'
+[Thu Nov 29 23:15:14 2001] Players in EverQuest:
+[Thu Nov 29 23:15:14 2001] ---------------------------
+[Thu Nov 29 23:15:14 2001] [52 Cavalier] Smekal (Human) <Elven Elite> ZONE: paw (USER PID GU8QMDZ)
+[Thu Nov 29 23:15:14 2001] There is 1 player in EverQuest.
+[Thu Nov 29 23:15:17 2001] Smekal tells you, 'no chance of getting the items back at least?'
+[Thu Nov 29 23:15:38 2001] You GMSAY, '<note> Smekal GU8QMDZ turned in items in the wrong order for the Soulfire quest and did not get the sword.'
+[Thu Nov 29 23:15:53 2001] You told Smekal, 'I'm sorry, no...'
+[Thu Nov 29 23:16:16 2001] Espranza saved.
+[Thu Nov 29 23:16:16 2001] You cheer at Yumenoteki.
+[Thu Nov 29 23:16:26 2001] Yumenoteki says, 'heh heh'
+[Thu Nov 29 23:16:29 2001] You GMSAY, 'hey you don't need to be anon anymore, Yume'
+[Thu Nov 29 23:16:32 2001] Players in EverQuest:
+[Thu Nov 29 23:16:32 2001] ---------------------------
+[Thu Nov 29 23:16:32 2001] [ANON (50 Monk)] Yumenoteki (Human) ZONE: cshome (USER PID DPE42NE)
+[Thu Nov 29 23:16:32 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 23:16:32 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Nov 29 23:16:32 2001] There are 3 players in EverQuest.
+[Thu Nov 29 23:16:38 2001] You no longer have a target.
+[Thu Nov 29 23:16:46 2001] Players in EverQuest:
+[Thu Nov 29 23:16:46 2001] ---------------------------
+[Thu Nov 29 23:16:46 2001] [ANON (50 Monk)] Yumenoteki (Human) ZONE: cshome (USER PID DPE42NE)
+[Thu Nov 29 23:16:46 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 23:16:46 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Nov 29 23:16:46 2001] There are 3 players in EverQuest.
+[Thu Nov 29 23:16:51 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 29 23:16:51 2001] USER TEXT: i am having baaad graphical problems, i was wondering if you could help or tell me if you have been having similar reports
+[Thu Nov 29 23:16:51 2001] Players in EverQuest:
+[Thu Nov 29 23:16:51 2001] ---------------------------
+[Thu Nov 29 23:16:51 2001] [51 Mystic] Lopez (Barbarian) <United Guardians> ZONE: dreadlands (USER PID AZMYPQ8)
+[Thu Nov 29 23:16:51 2001] There is 1 player in EverQuest.
+[Thu Nov 29 23:17:06 2001] You say, 'Can you see /pr, Yume?'
+[Thu Nov 29 23:17:08 2001] Yumenoteki says, 'did Dratier log off for the night?'
+[Thu Nov 29 23:17:09 2001] Players in EverQuest:
+[Thu Nov 29 23:17:09 2001] ---------------------------
+[Thu Nov 29 23:17:09 2001] [ANON (50 Monk)] Yumenoteki (Human) ZONE: cshome (USER PID DPE42NE)
+[Thu Nov 29 23:17:09 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 23:17:09 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Nov 29 23:17:09 2001] There are 3 players in EverQuest.
+[Thu Nov 29 23:17:16 2001] You say, 'no, he's on'
+[Thu Nov 29 23:17:26 2001] You say, 'can you zone?'
+[Thu Nov 29 23:17:27 2001] Yumenoteki says, 'hmmm ... maybe not'
+[Thu Nov 29 23:17:32 2001] Yumenoteki says, 'I believe so ... '
+[Thu Nov 29 23:17:39 2001] Yumenoteki says, 'zoning paineel'
+[Thu Nov 29 23:17:50 2001] Yumenoteki tells the guild, 'nope'
+[Thu Nov 29 23:17:53 2001] Players in EverQuest:
+[Thu Nov 29 23:17:53 2001] ---------------------------
+[Thu Nov 29 23:17:53 2001] [ANON (50 Monk)] Yumenoteki (Human) ZONE: cshome (USER PID DPE42NE)
+[Thu Nov 29 23:17:53 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 23:17:53 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Nov 29 23:17:53 2001] There are 3 players in EverQuest.
+[Thu Nov 29 23:18:01 2001] You say to your guild, 'I'll zone you'
+[Thu Nov 29 23:18:03 2001] You GMSAY, 'zone'
+[Thu Nov 29 23:18:06 2001] LOADING, PLEASE WAIT...
+[Thu Nov 29 23:18:27 2001] You have entered The Arena.
+[Thu Nov 29 23:18:33 2001] Dwid says out of character, 'heh me an dadi got schooled '
+[Thu Nov 29 23:18:34 2001] Summoning yumenoteki.
+[Thu Nov 29 23:18:57 2001] You told Lopez, 'Hail, Lopez! Guide Espranza here. I'm not having any graphical problems - what sort are you experiencing?'
+[Thu Nov 29 23:18:59 2001] Players in EverQuest:
+[Thu Nov 29 23:18:59 2001] ---------------------------
+[Thu Nov 29 23:19:00 2001] [ANON (50 Monk)] Yumenoteki (Human) ZONE: arena (USER PID DPE42NE)
+[Thu Nov 29 23:19:00 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: arena (USER PID AUGBQH4)
+[Thu Nov 29 23:19:00 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Nov 29 23:19:00 2001] There are 3 players in EverQuest.
+[Thu Nov 29 23:19:09 2001] You say to your guild, 'you're not guide flagged, Yume'
+[Thu Nov 29 23:19:13 2001] You feel the spirit of Norrath enter you.
+[Thu Nov 29 23:19:20 2001] Spell particle effects are currently ON.
+[Thu Nov 29 23:19:31 2001] You say to your guild, 'turn anon off'
+[Thu Nov 29 23:19:43 2001] You say to your guild, 'hmm... green name'
+[Thu Nov 29 23:19:48 2001] You GMSAY, 'can you read this?'
+[Thu Nov 29 23:19:49 2001] Players in EverQuest:
+[Thu Nov 29 23:19:49 2001] ---------------------------
+[Thu Nov 29 23:19:49 2001] [50 Monk] Yumenoteki (Human) <Keepers of Dreams> ZONE: arena (USER PID DPE42NE)
+[Thu Nov 29 23:19:49 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: arena (USER PID AUGBQH4)
+[Thu Nov 29 23:19:49 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Nov 29 23:19:49 2001] There are 3 players in EverQuest.
+[Thu Nov 29 23:19:52 2001] Yumenoteki tells the guild, 'aye ... but it doesn't say guide ...'
+[Thu Nov 29 23:19:59 2001] Lopez tells you, 'i just d/l directx8 and the ground is dissapering, walls are popping up and disapering, very wierd'
+[Thu Nov 29 23:20:01 2001] You say to your guild, 'did you see /pr?'
+[Thu Nov 29 23:20:02 2001] Yumenoteki tells the guild, 'I'll just drop by tommorrow and get everything fixed up'
+[Thu Nov 29 23:20:06 2001] Yumenoteki tells the guild, 'nope :('
+[Thu Nov 29 23:20:13 2001] You say to your guild, 'can you zone now?'
+[Thu Nov 29 23:20:24 2001] Yumenoteki tells the guild, 'did you see me type in /pr?'
+[Thu Nov 29 23:20:28 2001] You say to your guild, 'nope'
+[Thu Nov 29 23:20:33 2001] Lopez tells you, 'have you heard of anyone else having similar problems?'
+[Thu Nov 29 23:20:35 2001] Yumenoteki tells the guild, 'not a good sign'
+[Thu Nov 29 23:20:42 2001] Yumenoteki tells the guild, 'ok ... attempting to zone'
+[Thu Nov 29 23:20:52 2001] Yumenoteki tells the guild, 'LOL ... watch me be perma-banned for using guide commands'
+[Thu Nov 29 23:20:56 2001] You say to your guild, 'heh'
+[Thu Nov 29 23:21:08 2001] Yumenoteki tells the guild, 'nope ... it reports zone is down'
+[Thu Nov 29 23:21:08 2001] You say to your guild, 'okay returning to cshome... will bring ya back up'
+[Thu Nov 29 23:21:13 2001] Yumenoteki tells the guild, 'thanks'
+[Thu Nov 29 23:21:13 2001] You GMSAY, 'zone'
+[Thu Nov 29 23:21:15 2001] You have entered an Arena (PvP) area.
+[Thu Nov 29 23:21:16 2001] LOADING, PLEASE WAIT...
+[Thu Nov 29 23:21:36 2001] You have entered Sunset Home.
+[Thu Nov 29 23:21:46 2001] Summoning Yumenoteki.
+[Thu Nov 29 23:22:21 2001] You told Lopez, 'no, I haven't - but I will include the description of your problems in my shift report so that people will be aware of them.'
+[Thu Nov 29 23:22:35 2001] Yumenoteki tells the guild, 'well ... not much I can do then ... I'll see you all later :)'
+[Thu Nov 29 23:22:40 2001] Yumenoteki tells the guild, 'no wonder the queue looked so empty'
+[Thu Nov 29 23:22:44 2001] You GMSAY, '<note> Lopez AZMYPQ8 is reporting severe graphical problems after installing DX8'
+[Thu Nov 29 23:22:51 2001] Yumenoteki begins to cast a spell. (Contraction)
+[Thu Nov 29 23:22:53 2001] Yumenoteki shrinks.
+[Thu Nov 29 23:22:54 2001] You say, 'Night Yumenoteki - and welcome back!'
+[Thu Nov 29 23:22:58 2001] Yumenoteki says, 'thanks'
+[Thu Nov 29 23:23:03 2001] Yumenoteki hugs Espranza.
+[Thu Nov 29 23:23:05 2001] DELETING THIS PETITION
+[Thu Nov 29 23:23:10 2001] You bow before Yumenoteki.
+[Thu Nov 29 23:23:11 2001] Lopez tells you, 'ok thanks for your time'
+[Thu Nov 29 23:23:12 2001] Yumenoteki says, 'nice to be back in an extended family again :)'
+[Thu Nov 29 23:23:20 2001] You told Lopez, 'sure thing - and good luck!'
+[Thu Nov 29 23:23:26 2001] Dratier tells the guild, 'See, you later Yumen.'
+[Thu Nov 29 23:23:27 2001] Yumenoteki says, 'heh heh ... I must be one of the few to not get my levels =)'
+[Thu Nov 29 23:23:28 2001] You say, 'heh... well this is one of the best'
+[Thu Nov 29 23:23:34 2001] Yumenoteki tells the guild, 'nice seeing you Dratier'
+[Thu Nov 29 23:23:37 2001] Yumenoteki says, 'aye'
+[Thu Nov 29 23:23:52 2001] Yumenoteki says, 'my friends on RZ told me the server is empty now that DAoC is out'
+[Thu Nov 29 23:23:56 2001] Dratier tells the guild, 'I hope you get this fixed soon'
+[Thu Nov 29 23:23:58 2001] Yumenoteki says, 'I haven't had any time to play'
+[Thu Nov 29 23:24:06 2001] Yumenoteki tells the guild, 'me too :)'
+[Thu Nov 29 23:24:11 2001] You say, 'People are returning to EQ'
+[Thu Nov 29 23:24:13 2001] Yumenoteki says, 'but I'm glad I have time to guide again'
+[Thu Nov 29 23:24:15 2001] Yumenoteki says, 'yes'
+[Thu Nov 29 23:24:17 2001] You say, 'DAoC is just the flavor of the day'
+[Thu Nov 29 23:24:25 2001] Yumenoteki says, 'especially since Shadows is coming out'
+[Thu Nov 29 23:24:32 2001] Yumenoteki says, 'I hear it has it's own short comings'
+[Thu Nov 29 23:24:32 2001] You say, 'I'm really excited by that'
+[Thu Nov 29 23:24:38 2001] Yumenoteki says, 'but Sony is finally listening'
+[Thu Nov 29 23:24:39 2001] You say, 'oh, I play DAoC'
+[Thu Nov 29 23:24:45 2001] Yumenoteki says, 'really?'
+[Thu Nov 29 23:24:51 2001] You say, 'yeah, have one high level character there'
+[Thu Nov 29 23:24:55 2001] Yumenoteki says, 'cool'
+[Thu Nov 29 23:25:01 2001] You say, 'and one midlevel and a few low levels'
+[Thu Nov 29 23:25:03 2001] Yumenoteki says, 'do you enjoy PvP battle?'
+[Thu Nov 29 23:25:11 2001] You say, 'Well... it's fun'
+[Thu Nov 29 23:25:17 2001] You say, 'But ultimately pointless'
+[Thu Nov 29 23:25:19 2001] Yumenoteki says, 'it is ... if it's constructive'
+[Thu Nov 29 23:25:28 2001] You say, 'We harrass their gates, they do the same for us'
+[Thu Nov 29 23:25:36 2001] You say, 'then we trash talk each other on CamelotVault'
+[Thu Nov 29 23:25:39 2001] Yumenoteki says, 'heh heh ... if you defend a realm .. or take over another realm ;)'
+[Thu Nov 29 23:25:48 2001] You say, 'You can't take over another realm'
+[Thu Nov 29 23:25:56 2001] Yumenoteki says, 'exactly the problem'
+[Thu Nov 29 23:26:24 2001] You say, 'so basically, when you hunt in the frontier, you have to guard against invaders as well as mobs'
+[Thu Nov 29 23:26:25 2001] Yumenoteki says, 'if you *could* take over another realm for a month, that would make the game more interesting'
+[Thu Nov 29 23:26:41 2001] You say, 'but you know when they're near'
+[Thu Nov 29 23:26:54 2001] Yumenoteki says, 'I heard archers were powerful in that game'
+[Thu Nov 29 23:26:58 2001] You say, 'Was killed today while returning to Hibernia from the frontier'
+[Thu Nov 29 23:27:09 2001] You say, 'Aye, but they're nerfing them now'
+[Thu Nov 29 23:27:21 2001] You say, 'They wield the nerf stick with a heavy hand'
+[Thu Nov 29 23:27:23 2001] Yumenoteki says, 'aye ... wish they would make archery better in EQ'
+[Thu Nov 29 23:27:32 2001] Yumenoteki says, 'it was a bit unbalanced'
+[Thu Nov 29 23:27:35 2001] Yumenoteki says, 'as in AC'
+[Thu Nov 29 23:27:54 2001] You say, 'As long as they don't nerf bards and enchanters...'
+[Thu Nov 29 23:28:12 2001] You say, 'But I'm gonna be all over Luclin when it comes out'
+[Thu Nov 29 23:28:27 2001] Yumenoteki says, 'I read we were having more events lately too'
+[Thu Nov 29 23:28:33 2001] Lopez tells you, 'i know we aren't supposed to send tells directly to you, but just for reference's sake, i turned of directx8 and the problems went away'
+[Thu Nov 29 23:28:38 2001] You say, 'We had a couple of weeks of continual events'
+[Thu Nov 29 23:28:41 2001] You say, 'That was fun'
+[Thu Nov 29 23:28:49 2001] Yumenoteki says, 'and now everyone is burnt out?'
+[Thu Nov 29 23:28:53 2001] You told Lopez, 'okay, I'll add that to my report'
+[Thu Nov 29 23:29:07 2001] You say, 'I dunno, I don't do many quests these days'
+[Thu Nov 29 23:29:07 2001] Yumenoteki says, 'heh heh ... right before Halloween was when my life was interesting.'
+[Thu Nov 29 23:29:13 2001] You say, 'Quest Troupe kinda burnt me out'
+[Thu Nov 29 23:29:41 2001] Yumenoteki says, 'the PvP battle here is interesting ... I like ticking off players since they expect mobs to just stand there taking damage'
+[Thu Nov 29 23:29:55 2001] Yumenoteki says, 'on RZ we learned quickly to constantly move'
+[Thu Nov 29 23:30:01 2001] You say, 'the monster pc thing?'
+[Thu Nov 29 23:30:07 2001] Yumenoteki says, 'yes'
+[Thu Nov 29 23:30:09 2001] You say, 'they removed that for awhile'
+[Thu Nov 29 23:30:18 2001] You say, 'unless they just started it up again.'
+[Thu Nov 29 23:30:26 2001] Yumenoteki says, 'hmmmm ... RZ?  or here?'
+[Thu Nov 29 23:30:35 2001] You say, 'on live servers'
+[Thu Nov 29 23:30:43 2001] Dratier is surrounded by a brief aura.
+[Thu Nov 29 23:30:45 2001] You say, 'last I heard it was Test only'
+[Thu Nov 29 23:31:16 2001] Players in EverQuest:
+[Thu Nov 29 23:31:16 2001] ---------------------------
+[Thu Nov 29 23:31:16 2001] [50 Monk] Yumenoteki (Human) <Keepers of Dreams> ZONE: cshome (USER PID DPE42NE)
+[Thu Nov 29 23:31:16 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 23:31:16 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Nov 29 23:31:16 2001] There are 3 players in EverQuest.
+[Thu Nov 29 23:31:25 2001] Players in EverQuest:
+[Thu Nov 29 23:31:25 2001] ---------------------------
+[Thu Nov 29 23:31:25 2001] [50 Monk] Yumenoteki (Human) <Keepers of Dreams> ZONE: cshome (USER PID DPE42NE)
+[Thu Nov 29 23:31:25 2001] There is 1 player in EverQuest.
+[Thu Nov 29 23:31:37 2001] You say, 'agh... you'd best go anon again'
+[Thu Nov 29 23:31:41 2001] Yumenoteki says, 'ah ... I thought they were allowing only PvP servers to become NPC'
+[Thu Nov 29 23:31:42 2001] Espranza saved.
+[Thu Nov 29 23:31:53 2001] Yumenoteki says, 'lots of petitions?'
+[Thu Nov 29 23:32:05 2001] Yumenoteki says, 'I'd best be off since I can not help you both'
+[Thu Nov 29 23:32:11 2001] You say, 'no, just that it doesn't say guide next to your name, but you're in cshome'
+[Thu Nov 29 23:32:12 2001] Yumenoteki tells the guild, 'night Dratier'
+[Thu Nov 29 23:32:17 2001] Yumenoteki says, 'ah'
+[Thu Nov 29 23:32:27 2001] Yumenoteki says, 'heh heh ... ok, I'll see you around Espranza'
+[Thu Nov 29 23:32:28 2001] Dratier tells the guild, 'Night Yumen. Was nice to meet you'
+[Thu Nov 29 23:32:30 2001] You say, 'I should be gone too, not feeling well lately'
+[Thu Nov 29 23:32:33 2001] You bow before Yumenoteki.
+[Thu Nov 29 23:32:34 2001] Yumenoteki says, 'make sure you don't play too many games'
+[Thu Nov 29 23:32:36 2001] Yumenoteki bows before Espranza.
+[Thu Nov 29 23:32:53 2001] You say to your guild, 'oyasumi nasai, tekikun.... jaa mata ne'
+[Thu Nov 29 23:32:57 2001] Yumenoteki tells the guild, 'I'll be seeing everyone around ... I want to teach everyone to survive falling down the hole'
+[Thu Nov 29 23:33:14 2001] Yumenoteki tells the guild, 'hai ... mata ne ... ogenki ni'
+[Thu Nov 29 23:33:20 2001] Dratier tells the guild, 'Yea. I want to learn that.'
+[Thu Nov 29 23:33:21 2001] You say to your guild, 'anata mo'
+[Thu Nov 29 23:33:44 2001] Yumenoteki tells the guild, 'be well and may your travels be in peace'
+[Thu Nov 29 23:34:40 2001] Players in EverQuest:
+[Thu Nov 29 23:34:40 2001] ---------------------------
+[Thu Nov 29 23:34:40 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 23:34:40 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Nov 29 23:34:40 2001] There are 2 players in EverQuest.
+[Thu Nov 29 23:34:49 2001] Teleporting to dratier.
+[Thu Nov 29 23:35:04 2001] You begin casting Contraction. (Contraction)
+[Thu Nov 29 23:35:04 2001] Your Collar of Contraction begins to glow.
+[Thu Nov 29 23:35:06 2001] You feel smaller.
+[Thu Nov 29 23:35:06 2001] You begin casting Contraction. (Contraction)
+[Thu Nov 29 23:35:06 2001] Your Collar of Contraction begins to glow.
+[Thu Nov 29 23:35:08 2001] You feel smaller.
+[Thu Nov 29 23:35:09 2001] You begin casting Contraction. (Contraction)
+[Thu Nov 29 23:35:09 2001] Your Collar of Contraction begins to glow.
+[Thu Nov 29 23:35:11 2001] You feel smaller.
+[Thu Nov 29 23:35:21 2001] Espranza wants to look tiny, too.
+[Thu Nov 29 23:35:32 2001] Dratier says, 'You do'
+[Thu Nov 29 23:35:44 2001] You say, 'you look like a ken doll'
+[Thu Nov 29 23:35:52 2001] Dratier says, 'Hehe'
+[Thu Nov 29 23:35:52 2001] You say, 'I look like an overstuffed plush toy'
+[Thu Nov 29 23:36:12 2001] Dratier's image shimmers.
+[Thu Nov 29 23:36:36 2001] You say, 'well, eat fiery death'
+[Thu Nov 29 23:36:42 2001] You say, 'take that!'
+[Thu Nov 29 23:36:42 2001] You're not scaring anyone.
+[Thu Nov 29 23:36:50 2001] You say, 'and that!'
+[Thu Nov 29 23:36:50 2001] Dratier says, 'Ouch'
+[Thu Nov 29 23:36:54 2001] You're not scaring anyone.
+[Thu Nov 29 23:37:09 2001] You beam a smile at Dratier.
+[Thu Nov 29 23:37:25 2001] Players in EverQuest:
+[Thu Nov 29 23:37:25 2001] ---------------------------
+[Thu Nov 29 23:37:25 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 23:37:25 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Nov 29 23:37:25 2001] There are 2 players in EverQuest.
+[Thu Nov 29 23:37:33 2001] Dratier says, 'Ahh, Have to check on someones corpse.'
+[Thu Nov 29 23:37:38 2001] Dratier GMSAYS, 'zoning'
+[Thu Nov 29 23:38:02 2001] Players in EverQuest:
+[Thu Nov 29 23:38:02 2001] ---------------------------
+[Thu Nov 29 23:38:02 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: necropolis (USER PID EU7FU02)
+[Thu Nov 29 23:38:02 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 29 23:38:02 2001] There are 2 players in EverQuest.
+[Thu Nov 29 23:38:23 2001] You GMSAY, 'well, I think I will be off....'
+[Thu Nov 29 23:38:32 2001] You GMSAY, 'laters, Dratier!'
+[Thu Nov 29 23:38:34 2001] It will take you about 30 seconds to prepare your camp.
+[Thu Nov 29 23:38:38 2001] It will take about 25 more seconds to prepare your camp.
+[Thu Nov 29 23:38:43 2001] It will take about 20 more seconds to prepare your camp.
+[Thu Nov 29 23:38:44 2001] Dratier GMSAYS, 'See ya Esp.'
+[Thu Nov 29 23:38:48 2001] It will take about 15 more seconds to prepare your camp.
+[Thu Nov 29 23:38:53 2001] It will take about 10 more seconds to prepare your camp.
+[Thu Nov 29 23:38:58 2001] It will take about 5 more seconds to prepare your camp.

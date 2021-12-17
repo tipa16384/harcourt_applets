@@ -1,0 +1,2202 @@
+[Wed Jan 02 16:49:47 2002] Welcome to EverQuest!
+[Wed Jan 02 16:49:47 2002] You have entered Sunset Home.
+[Wed Jan 02 16:49:48 2002] GUILD MOTD: Espranza - Happy New Year!
+[Wed Jan 02 16:49:51 2002] Players in EverQuest:
+[Wed Jan 02 16:49:51 2002] ---------------------------
+[Wed Jan 02 16:49:51 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Wed Jan 02 16:49:51 2002] * Guide *[51 Disciple] Larsot (Iksar) <Keepers of Dreams> ZONE: permafrost (USER PID GUGBHE6)
+[Wed Jan 02 16:49:51 2002] There are 2 players in EverQuest.
+[Wed Jan 02 16:49:57 2002] You GMSAY, 'hiya all!'
+[Wed Jan 02 16:50:04 2002] You GMSAY, 'well, Hiya Larsot!'
+[Wed Jan 02 16:50:06 2002] Players in EverQuest:
+[Wed Jan 02 16:50:06 2002] ---------------------------
+[Wed Jan 02 16:50:06 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Wed Jan 02 16:50:06 2002] * Guide *[51 Disciple] Larsot (Iksar) <Keepers of Dreams> ZONE: permafrost (USER PID GUGBHE6)
+[Wed Jan 02 16:50:06 2002] There are 2 players in EverQuest.
+[Wed Jan 02 16:50:17 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 16:50:17 2002] USER TEXT: Teadyn needs help in Maidens eye he must be LD and he is bound in a terrible spot pile of bodies
+[Wed Jan 02 16:50:18 2002] Players in EverQuest:
+[Wed Jan 02 16:50:18 2002] ---------------------------
+[Wed Jan 02 16:50:18 2002] [29 Druid] Luladien (Wood Elf) ZONE: netherbian (USER PID GYCEQPB)
+[Wed Jan 02 16:50:18 2002] There is 1 player in EverQuest.
+[Wed Jan 02 16:50:26 2002] Searching zones for corpse of that name....
+[Wed Jan 02 16:50:26 2002] Corpse: Teadyn's corpse0 in zone: kithicor
+[Wed Jan 02 16:50:27 2002] Corpse: Teadyn's corpse9 in zone: maiden
+[Wed Jan 02 16:50:30 2002] Larsot GMSAYS, 'well hello Espranza  :)'
+[Wed Jan 02 16:50:54 2002] You GMSAY, '<note gm> Headed to Maiden's Eye for a bind loop problem'
+[Wed Jan 02 16:50:58 2002] You GMSAY, 'zone'
+[Wed Jan 02 16:51:02 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 16:51:53 2002] Insenchant shouts, 'camp check ?'
+[Wed Jan 02 16:51:54 2002] Dalamaru shouts, 'Enchanters!'
+[Wed Jan 02 16:52:02 2002] You have entered The Maiden's Eye.
+[Wed Jan 02 16:52:05 2002] Insenchant says out of character, 'haha anyone camping aliens ?'
+[Wed Jan 02 16:52:16 2002] Teleporting to treadyn's corpse0.
+[Wed Jan 02 16:52:18 2002] Insenchant says out of character, 'claimed pls) ty'
+[Wed Jan 02 16:52:18 2002] Teleporting to treadyn's corpse01.
+[Wed Jan 02 16:52:21 2002] Teleporting to treadyn's corpse1.
+[Wed Jan 02 16:52:23 2002] Teleporting to treadyn's corpse9.
+[Wed Jan 02 16:52:30 2002] Teleporting to teadyn's corpse9.
+[Wed Jan 02 16:52:46 2002] Players in EverQuest:
+[Wed Jan 02 16:52:46 2002] ---------------------------
+[Wed Jan 02 16:52:46 2002] [51 Wanderer] Teadyn (Wood Elf) <Crimson Mist> ZONE: maiden (USER PID CSH8296) LFG
+[Wed Jan 02 16:52:46 2002] There is 1 player in EverQuest.
+[Wed Jan 02 16:52:47 2002] Matsui says, 'Casting Divine Liight on Cisneros'
+[Wed Jan 02 16:52:51 2002] Booting Teadyn.
+[Wed Jan 02 16:53:04 2002] Larsot GMSAYS, 'I have to leave for work now Espranza, sorry for having to leave you with an active que  :('
+[Wed Jan 02 16:53:16 2002] You GMSAY, 'no worries, have a good time and see ya later'
+[Wed Jan 02 16:53:25 2002] Cisneros is looking at your equipment...
+[Wed Jan 02 16:53:29 2002] Larsot GMSAYS, 'aye, have a good day :)'
+[Wed Jan 02 16:53:46 2002] Hewah says out of character, '55 mage lfg'
+[Wed Jan 02 16:53:59 2002] You GMSAY, '<note> Kicked Teadyn CSH8296 - he was standing in a pile of his bodies at the Dawnshroud zone of Maiden's Eye'
+[Wed Jan 02 16:54:12 2002] Hewah begins to cast a spell. (Summon Ring of Flight)
+[Wed Jan 02 16:54:13 2002] Matsui says out of character, 'Need Groups at the zone to keep Teadyn alive, if you care about anther player'
+[Wed Jan 02 16:54:23 2002] Matsui begins to cast a spell. (Celestial Healing)
+[Wed Jan 02 16:54:23 2002] Matsui says, 'Casting Celestial Healing on Cisneros'
+[Wed Jan 02 16:54:27 2002] Cisneros's body is covered with a soft glow.
+[Wed Jan 02 16:54:27 2002] Hewah begins to cast a spell. (Summon Ring of Flight)
+[Wed Jan 02 16:54:34 2002] You say, 'He's kicked now'
+[Wed Jan 02 16:54:40 2002] Hewah begins to cast a spell. (Summon Ring of Flight)
+[Wed Jan 02 16:54:42 2002] Matsui says out of character, 'It's ok he is gone'
+[Wed Jan 02 16:54:44 2002] You say, 'That is wonderful of you to show such concern'
+[Wed Jan 02 16:55:04 2002] Hewah says, 'Hail'
+[Wed Jan 02 16:55:11 2002] Matsui says, ''
+[Wed Jan 02 16:55:14 2002] You told Wanedan, 'Wanedan is not online at this time.'
+[Wed Jan 02 16:55:16 2002] Matsui begins to cast a spell. (Complete Healing)
+[Wed Jan 02 16:55:16 2002] Matsui says, 'Casting Complete Healing on Cisneros , please remain still.'
+[Wed Jan 02 16:55:18 2002] DELETING THIS PETITION
+[Wed Jan 02 16:55:21 2002] You GMSAY, 'zone'
+[Wed Jan 02 16:55:25 2002] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Wed Jan 02 16:55:25 2002] Your Belt of Translocation begins to glow.
+[Wed Jan 02 16:55:25 2002] Cisneros is completely healed.
+[Wed Jan 02 16:55:26 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 16:55:48 2002] You have entered Sunset Home.
+[Wed Jan 02 16:55:52 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 16:55:53 2002] USER TEXT: cave in DSP seems to be mega bugged
+[Wed Jan 02 16:55:53 2002] Players in EverQuest:
+[Wed Jan 02 16:55:53 2002] ---------------------------
+[Wed Jan 02 16:55:53 2002] [54 Reaver] Fluxurak (Ogre) <Blackgrass Raiders> ZONE: dawnshroud (USER PID BTTDFQB)
+[Wed Jan 02 16:55:53 2002] There is 1 player in EverQuest.
+[Wed Jan 02 16:56:21 2002] You told Fluxurak, 'Hail, Fluxurak! Senior Guide Espranza here. How is the cave bugged?'
+[Wed Jan 02 16:56:43 2002] Fluxurak tells you, 'LOL!!! always, just as I get rez'
+[Wed Jan 02 16:57:33 2002] Fluxurak tells you, 'It's spawning 50 mobs on top of itself.. we broke the outside, then tried to get a single from inside, and there were like 20 stacked... it's insanely bugged...'
+[Wed Jan 02 16:57:34 2002] You told Fluxurak, 'Sorry... are you there at the buggy part?'
+[Wed Jan 02 16:57:57 2002] Fluxurak tells you, 'otw back now wait till ya see this'
+[Wed Jan 02 16:58:17 2002] You told Fluxurak, 'Actually I think another guide reported it earlier, but I would like to see it...'
+[Wed Jan 02 16:59:22 2002] You feel as if you are about to fall.
+[Wed Jan 02 16:59:24 2002] Fluxurak tells you, 'ok, back at caves'
+[Wed Jan 02 16:59:29 2002] You feel as if you are about to fall.
+[Wed Jan 02 16:59:29 2002] You GMSAY, 'zone'
+[Wed Jan 02 16:59:31 2002] You can no longer levitate.
+[Wed Jan 02 16:59:35 2002] Teleporting to fluxurak.
+[Wed Jan 02 16:59:36 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 17:00:20 2002] You have entered The Dawnshroud Peaks.
+[Wed Jan 02 17:00:32 2002] Your feet leave the ground.
+[Wed Jan 02 17:01:19 2002] You say, 'inside there?'
+[Wed Jan 02 17:01:25 2002] Darhiss says, 'want to watch me'
+[Wed Jan 02 17:01:31 2002] Fluxurak says, 'yup, you see that mess?'
+[Wed Jan 02 17:01:36 2002] Darhiss says, 'i can pull one and fd, there will be a line about 10 miles long )'
+[Wed Jan 02 17:01:42 2002] You say, 'there's two stacked in there...'
+[Wed Jan 02 17:01:43 2002] Keldium tells you, 'i sent in a petition and i ran out of room typing.......could i just tell u the rest?'
+[Wed Jan 02 17:01:48 2002] Fluxurak says, 'nonono'
+[Wed Jan 02 17:01:51 2002] Fluxurak says, 'there's 20'
+[Wed Jan 02 17:01:54 2002] You told Keldium, 'when I get to yours, on another now'
+[Wed Jan 02 17:01:57 2002] Devynn GMSAYS, 'Heya Esp'
+[Wed Jan 02 17:01:57 2002] Fluxurak says, 'try pulling =)'
+[Wed Jan 02 17:02:03 2002] You say, 'I won't be able to rez you if you die'
+[Wed Jan 02 17:02:03 2002] Devynn GMSAYS, 'ZONING...Passing through the veil of death....'
+[Wed Jan 02 17:02:03 2002] Keldium tells you, 'ok, thank you.. :)  '
+[Wed Jan 02 17:02:07 2002] You GMSAY, 'heya'
+[Wed Jan 02 17:02:15 2002] You say, 'so don't do anything dangerous'
+[Wed Jan 02 17:02:22 2002] Andyk shouts, 'lvl 33 ranger looking for group'
+[Wed Jan 02 17:03:03 2002] Players in EverQuest:
+[Wed Jan 02 17:03:03 2002] ---------------------------
+[Wed Jan 02 17:03:03 2002] * Guide *[52 Disciple] Devynn (Human) <Keepers of Dreams> ZONE: cshome (USER PID BUGCNEC)
+[Wed Jan 02 17:03:03 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: dawnshroud (USER PID B4KJ6E7)
+[Wed Jan 02 17:03:03 2002] There are 2 players in EverQuest.
+[Wed Jan 02 17:03:35 2002] Andyk shouts, 'lvl 33 ranger looking for group'
+[Wed Jan 02 17:04:04 2002] Teleporting to fluxurak.
+[Wed Jan 02 17:04:14 2002] You say, 'doubled mobs all through the caves'
+[Wed Jan 02 17:04:27 2002] Devynn GMSAYS, 'So, Esp, how's it feel to be a senior now? :)'
+[Wed Jan 02 17:04:34 2002] You GMSAY, 'you'll find out :)'
+[Wed Jan 02 17:04:37 2002] Fluxurak says, 'sigh, are you allowed to heal at least since I got my own rez? =p'
+[Wed Jan 02 17:04:38 2002] Devynn GMSAYS, 'hehe'
+[Wed Jan 02 17:04:39 2002] Darhiss says, 'so how many mobs are in there?'
+[Wed Jan 02 17:04:47 2002] Devynn GMSAYS, 'I'm sure it feels different for everyone :)'
+[Wed Jan 02 17:04:53 2002] You say, 'well I haven't seen 20 stacked...'
+[Wed Jan 02 17:05:02 2002] Darhiss says, 'want to watch me in there?'
+[Wed Jan 02 17:05:03 2002] You GMSAY, 'did you get my hour hand-off?'
+[Wed Jan 02 17:05:03 2002] Fluxurak says, 'there's more than just double... they're stacked DEEP.. there was 6 alone at front b4 we broke'
+[Wed Jan 02 17:05:07 2002] You say, 'okay'
+[Wed Jan 02 17:05:14 2002] Devynn GMSAYS, 'Yep, I did, thanks for the explanation :)'
+[Wed Jan 02 17:05:21 2002] Darhiss says, 'k'
+[Wed Jan 02 17:05:24 2002] Fluxurak says, 'back up ody'
+[Wed Jan 02 17:06:10 2002] Teleporting to darhiss.
+[Wed Jan 02 17:06:15 2002] A Sambata Tribal Gatherer grunts at you and rushes in to attack. 
+[Wed Jan 02 17:06:15 2002] A Sambata Tribal Gatherer says 'Scumsuckers have no place in our realm!'
+[Wed Jan 02 17:06:15 2002] A Sambata Tribal Gatherer grunts at you and rushes in to attack. 
+[Wed Jan 02 17:06:15 2002] A Sambata Tribal Gatherer says 'Scumsuckers have no place in our realm!'
+[Wed Jan 02 17:06:43 2002] Nazbag GMSAYS, 'slackers!'
+[Wed Jan 02 17:06:50 2002] You GMSAY, 'just got on myself'
+[Wed Jan 02 17:06:50 2002] Devynn GMSAYS, 'BAH! I just got on!'
+[Wed Jan 02 17:07:10 2002] Nazbag GMSAYS, 'either of you pumped about doing a wedding?'
+[Wed Jan 02 17:07:19 2002] Devynn GMSAYS, 'I don't have any scripts :/'
+[Wed Jan 02 17:07:31 2002] You say, 'well... it's buggy'
+[Wed Jan 02 17:07:32 2002] Devynn GMSAYS, 'Dearly beslutted.....'
+[Wed Jan 02 17:07:34 2002] Darhiss says, 'i cant get past the kos one, but deep in the cave there are like 20 stacked on each other ('
+[Wed Jan 02 17:07:36 2002] You say, 'I'll report it'
+[Wed Jan 02 17:07:40 2002] Darhiss says, 'thanx )'
+[Wed Jan 02 17:07:43 2002] Devynn GMSAYS, 'oh sorry, that's my play guild...hehe'
+[Wed Jan 02 17:07:59 2002] Nazbag GMSAYS, 'I'll tell them that we'll have to see then, I know I wont be available or I would do it'
+[Wed Jan 02 17:08:01 2002] Fluxurak begins to cast a spell. (Dooming Darkness)
+[Wed Jan 02 17:08:05 2002] Devynn GMSAYS, 'Esp, you investigating the 50 sambata's in a cave in dawnshroud?'
+[Wed Jan 02 17:08:11 2002] You GMSAY, 'yeah'
+[Wed Jan 02 17:08:15 2002] Devynn GMSAYS, 'what time is it Nazzy?'
+[Wed Jan 02 17:08:22 2002] Nazbag GMSAYS, 'about an hour'
+[Wed Jan 02 17:08:27 2002] Devynn GMSAYS, 'you handling Odysel's death too?'
+[Wed Jan 02 17:08:34 2002] Nazbag GMSAYS, 'I killed 60 Sambatas yesterday'
+[Wed Jan 02 17:08:42 2002] Devynn GMSAYS, 'what a bug'
+[Wed Jan 02 17:08:44 2002] You GMSAY, 'I know, I read your DSR'
+[Wed Jan 02 17:08:51 2002] Devynn GMSAYS, 'yeah, I did too'
+[Wed Jan 02 17:08:54 2002] You GMSAY, 'looks like that didn't fix anything'
+[Wed Jan 02 17:09:07 2002] Karkaradon tells you, 'Hi, please i m bloqued in Velketor, i can t move, i m at Fake wall'
+[Wed Jan 02 17:09:14 2002] Devynn GMSAYS, 'Esp, I'll esc Odysel's death up to you, he died cause of those 50 mobs'
+[Wed Jan 02 17:09:15 2002] Sambata Tribal Worker  grunts at you and rushes in to attack. 
+[Wed Jan 02 17:09:20 2002] You GMSAY, 'I'm not rezzing'
+[Wed Jan 02 17:09:22 2002] Andyk shouts, 'lvl 33 ranger looking for group'
+[Wed Jan 02 17:09:27 2002] Devynn GMSAYS, 'ok, I'll talk to him then'
+[Wed Jan 02 17:09:32 2002] Nazbag GMSAYS, 'Liliun is the wedding, I'll set it yellow'
+[Wed Jan 02 17:09:42 2002] Jonober begins to cast a spell. (AirElementalStrike)
+[Wed Jan 02 17:09:54 2002] You told Karkaradon, 'did you petition?'
+[Wed Jan 02 17:09:54 2002] Jonober begins to cast a spell. (AirElementalStrike)
+[Wed Jan 02 17:09:58 2002] Fluxurak begins to cast a spell. (Invoke Fear)
+[Wed Jan 02 17:10:00 2002] Sambata Tribal Hunter looks very afraid.
+[Wed Jan 02 17:10:05 2002] Fluxurak begins to cast a spell. (Dooming Darkness)
+[Wed Jan 02 17:10:09 2002] Sambata Tribal Worker  is engulfed by darkness.
+[Wed Jan 02 17:10:12 2002] Fluxurak begins to cast a spell. (Invoke Fear)
+[Wed Jan 02 17:10:15 2002] Sambata Tribal Worker  looks very afraid.
+[Wed Jan 02 17:10:15 2002] Sambata Tribal Worker  has been slain by Fluxurak!
+[Wed Jan 02 17:10:15 2002] Sambata Triba's corpse falls lifelessly to the ground... 
+[Wed Jan 02 17:10:16 2002] Karkaradon tells you, 'please i really need log '
+[Wed Jan 02 17:10:20 2002] Jonober begins to cast a spell. (AirElementalStrike)
+[Wed Jan 02 17:10:20 2002] You say, 'Well, it's buggy, I strongly advise you to hunt elsewhere.'
+[Wed Jan 02 17:10:22 2002] Caamoleon tells you, 'i was told to talk to a senior guide about a certain matter.....by one of the other guides....do you have a moment?'
+[Wed Jan 02 17:10:23 2002] Nazbag GMSAYS, 'Darhiss is petitioning about them too espie'
+[Wed Jan 02 17:10:33 2002] Andyk shouts, 'lvl 33 ranger looking for group'
+[Wed Jan 02 17:10:37 2002] You GMSAY, 'well... tell them it's buggy and not to hunt there'
+[Wed Jan 02 17:10:38 2002] Jonober begins to cast a spell. (AirElementalStrike)
+[Wed Jan 02 17:10:43 2002] Devynn GMSAYS, 'lol'
+[Wed Jan 02 17:10:53 2002] Espranza saved.
+[Wed Jan 02 17:11:08 2002] You GMSAY, 'unless someone wants to volunteer to sit here and make sure they don't double up'
+[Wed Jan 02 17:11:10 2002] Devynn GMSAYS, '*groans* Someone ninja looted general in kith for epic piece'
+[Wed Jan 02 17:11:29 2002] Jonober begins to cast a spell. (AirElementalInvisibility)
+[Wed Jan 02 17:11:32 2002] Karkaradon tells you, 'Lol one another guys is bloqued'
+[Wed Jan 02 17:11:44 2002] Karkaradon tells you, '2 guys is bloqued now'
+[Wed Jan 02 17:11:46 2002] You told Karkaradon, 'petition and I'll be right there'
+[Wed Jan 02 17:11:57 2002] You told Caamoleon, 'please petition and I'll be with you as soon as possibnle.'
+[Wed Jan 02 17:12:07 2002] Fluxurak begins to cast a spell. (Dooming Darkness)
+[Wed Jan 02 17:12:12 2002] Your Location is 1103.34, -1786.78, 114.28
+[Wed Jan 02 17:12:35 2002] You can no longer levitate.
+[Wed Jan 02 17:12:48 2002] You GMSAY, '<note bug> The Sambata caverns at 1100 -1800 in Dawnshroud Peaks are spawning mobs right on top of each other, making the place deadly.'
+[Wed Jan 02 17:12:58 2002] DELETING THIS PETITION
+[Wed Jan 02 17:13:03 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 17:13:04 2002] USER TEXT: is there anyway to fix my right click wihthout reboots?
+[Wed Jan 02 17:13:04 2002] Players in EverQuest:
+[Wed Jan 02 17:13:04 2002] ---------------------------
+[Wed Jan 02 17:13:04 2002] [51 Cavalier] Gamanin (Human) <United Guardians> ZONE: velketor (USER PID AV524EU)
+[Wed Jan 02 17:13:04 2002] There is 1 player in EverQuest.
+[Wed Jan 02 17:13:06 2002] Jonober begins to cast a spell. (AirElementalStrike)
+[Wed Jan 02 17:13:08 2002] Sambata Tribal Hunter grunts at you and rushes in to attack. 
+[Wed Jan 02 17:13:10 2002] Caamoleon tells you, 'done'
+[Wed Jan 02 17:13:22 2002] You told Caamoleon, 'okay, be with you as soon as I can.'
+[Wed Jan 02 17:13:24 2002] Jonober begins to cast a spell. (AirElementalStrike)
+[Wed Jan 02 17:13:27 2002] Caamoleon tells you, 'np, thank you'
+[Wed Jan 02 17:13:33 2002] Devynn tells the guild, '<issue> Mada ASY3272 said that Purinsesu <no pid> ninja looted the piece off the general for the rogue epic that he was trying to complete'
+[Wed Jan 02 17:13:39 2002] Jonober begins to cast a spell. (AirElementalStrike)
+[Wed Jan 02 17:14:01 2002] Odysel begins to cast a spell. (Shield of Lava)
+[Wed Jan 02 17:14:08 2002] You told Gamanin, 'Hail, Gamanin! Senior Guide Espranza here. What is the problem with your right click?'
+[Wed Jan 02 17:14:10 2002] Odysel begins to cast a spell. (Shield of Lava)
+[Wed Jan 02 17:14:13 2002] Devynn GMSAYS, 'Mada is mine, going to chat to have a report checked'
+[Wed Jan 02 17:14:18 2002] You GMSAY, 'k'
+[Wed Jan 02 17:14:20 2002] Gamanin tells you, 'don't work atm'
+[Wed Jan 02 17:14:36 2002] Gamanin tells you, 'was but it stopped'
+[Wed Jan 02 17:14:45 2002] You told Gamanin, 'does rebooting usually fix it?'
+[Wed Jan 02 17:15:26 2002] Gamanin tells you, 'has happened before but never worked unless i wait like 30min before i log on again'
+[Wed Jan 02 17:15:49 2002] Andyk shouts, 'lvl 33 ranger looking for group'
+[Wed Jan 02 17:16:10 2002] Gamanin tells you, 'is there a place to turn rightclick on or off or anything?'
+[Wed Jan 02 17:16:18 2002] You told Gamanin, 'I'm not familiar with the problem; it sounds as if this could be a technical issue specific to your machine.'
+[Wed Jan 02 17:17:02 2002] DELETING THIS PETITION
+[Wed Jan 02 17:17:04 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 17:17:04 2002] USER TEXT: i just fell for 10k damage zoning out of nurga into fm and died :(
+[Wed Jan 02 17:17:04 2002] Players in EverQuest:
+[Wed Jan 02 17:17:04 2002] ---------------------------
+[Wed Jan 02 17:17:04 2002] [52 Disciple] Slytherfyst (Iksar) <Altruistic Valorians> ZONE: shadowhaven (USER PID CNFKN6C)
+[Wed Jan 02 17:17:04 2002] There is 1 player in EverQuest.
+[Wed Jan 02 17:17:23 2002] Chomp, chomp, chomp...  Andyk takes a bite from a Wild Crimson Berries.
+[Wed Jan 02 17:17:31 2002] Gamanin tells you, 'so there isn't a way to shut being able to right click on and off'
+[Wed Jan 02 17:18:07 2002] You told Gamanin, 'not that I know of... I can't imagine why someone would want to turn it off...'
+[Wed Jan 02 17:18:15 2002] Gamanin tells you, 'hehe'
+[Wed Jan 02 17:18:58 2002] You told Gamanin, 'Has anything in your system changed recently?'
+[Wed Jan 02 17:19:09 2002] Gamanin tells you, 'added ram and a new video card'
+[Wed Jan 02 17:19:25 2002] Gamanin tells you, 'but happened before that'
+[Wed Jan 02 17:20:12 2002] You told Slytherfyst, 'Hail, Slytherfyst! Senior Guide Espranza here. Can you scroll back to where you zoned and fell for 10K and, making sure these lines are within the last ten lines of your chat window, type /report Slytherfyst and let me know you've done i'
+[Wed Jan 02 17:20:14 2002] Chomp, chomp, chomp...  Andyk takes a bite from a Roots.
+[Wed Jan 02 17:20:30 2002] The spirit leaves you.
+[Wed Jan 02 17:20:33 2002] Gamanin tells you, 'is there another way to open a bag other then right click?'
+[Wed Jan 02 17:20:38 2002] You told Gamanin, 'Hmm... well, you'll have to contact tech support, they may be able to help where I cannot.'
+[Wed Jan 02 17:20:50 2002] Vurtrue tells you, 'did you get promoted?.'
+[Wed Jan 02 17:20:54 2002] You told Gamanin, 'not that I know of'
+[Wed Jan 02 17:20:55 2002] You told Vurtrue, 'yup!'
+[Wed Jan 02 17:21:00 2002] Gamanin tells you, 'dang ok thx anyhoo'
+[Wed Jan 02 17:21:01 2002] Vurtrue tells you, '!! Gratz 8).'
+[Wed Jan 02 17:21:06 2002] Slytherfyst tells you, 'k done'
+[Wed Jan 02 17:21:11 2002] You told Gamanin, 'good luck on it, has to be frustrating'
+[Wed Jan 02 17:21:14 2002] You told Vurtrue, 'thanks )'
+[Wed Jan 02 17:21:23 2002] Gamanin tells you, 'i am ml in group and leader hehe'
+[Wed Jan 02 17:21:31 2002] Espranza saved.
+[Wed Jan 02 17:21:34 2002] Gamanin tells you, 'without right click'
+[Wed Jan 02 17:21:46 2002] You told Gamanin, 'oh, ouch :)'
+[Wed Jan 02 17:21:51 2002] You told Gamanin, 'errr :('
+[Wed Jan 02 17:22:00 2002] DELETING THIS PETITION
+[Wed Jan 02 17:22:04 2002] Andyk says, 'Hail, Luladien'
+[Wed Jan 02 17:22:12 2002] Devynn GMSAYS, 'back'
+[Wed Jan 02 17:22:14 2002] Players in EverQuest:
+[Wed Jan 02 17:22:14 2002] ---------------------------
+[Wed Jan 02 17:22:14 2002] There are no players in EverQuest that match those who filters.
+[Wed Jan 02 17:22:18 2002] Players in EverQuest:
+[Wed Jan 02 17:22:18 2002] ---------------------------
+[Wed Jan 02 17:22:18 2002] [1 Rogue] Karadek (Dwarf) ZONE: butcher (USER PID FQJJRE8)
+[Wed Jan 02 17:22:18 2002] [53 Rake] Patofnaud (Wood Elf) <Karma> ZONE: southkarana (USER PID DM8TL3U)
+[Wed Jan 02 17:22:18 2002] [ANON (27 Rogue)] Karka (Dark Elf) ZONE: dalnir (USER PID CWJMB30)
+[Wed Jan 02 17:22:18 2002] [53 Illusionist] Karie (Dark Elf) <Reapers of Sorrow> ZONE: shadowhaven (USER PID CPRE3N0)
+[Wed Jan 02 17:22:18 2002] [16 Beastlord] Qogh (Vah Shir) <Karma> ZONE: lakeofillomen (USER PID BQKV3UE)
+[Wed Jan 02 17:22:18 2002] [60 Warlord] Kardenzer (Barbarian) <Fury's Edge> ZONE: acrylia (USER PID GXQDY6C)
+[Wed Jan 02 17:22:18 2002] [58 Luminary] Karadan (Barbarian) <Crimson Mist> ZONE: velketor (USER PID GR3D7SL)
+[Wed Jan 02 17:22:18 2002] [51 Mystic] Karoes (Barbarian) <Legions of Valhalla> ZONE: greatdivide (USER PID GYW3YRG)
+[Wed Jan 02 17:22:18 2002] There are 8 players in EverQuest.
+[Wed Jan 02 17:22:32 2002] You GMSAY, 'now I have to go to chat - brb'
+[Wed Jan 02 17:22:32 2002] Nazbag GMSAYS, 'Chrome is another Mada petition for you Devyn'
+[Wed Jan 02 17:22:57 2002] Devynn GMSAYS, 'oh joy, thanks...lol'
+[Wed Jan 02 17:23:04 2002] It will take you about 30 seconds to prepare your camp.
+[Wed Jan 02 17:23:09 2002] It will take about 25 more seconds to prepare your camp.
+[Wed Jan 02 17:23:14 2002] It will take about 20 more seconds to prepare your camp.
+[Wed Jan 02 17:23:16 2002] You told Slytherfyst, 'I'll be right back, have to go to chat for a GM'
+[Wed Jan 02 17:23:19 2002] It will take about 15 more seconds to prepare your camp.
+[Wed Jan 02 17:23:24 2002] It will take about 10 more seconds to prepare your camp.
+[Wed Jan 02 17:23:30 2002] It will take about 5 more seconds to prepare your camp.
+[Wed Jan 02 17:38:55 2002] Welcome to EverQuest!
+[Wed Jan 02 17:38:55 2002] You have entered The Dawnshroud Peaks.
+[Wed Jan 02 17:38:55 2002] Nazbag GMSAYS, 'Carrie says she wont camp it'
+[Wed Jan 02 17:38:57 2002] GUILD MOTD: Espranza - Happy New Year!
+[Wed Jan 02 17:39:02 2002] Players in EverQuest:
+[Wed Jan 02 17:39:02 2002] ---------------------------
+[Wed Jan 02 17:39:02 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: dawnshroud (USER PID B4KJ6E7)
+[Wed Jan 02 17:39:02 2002] * Guide *[52 Disciple] Devynn (Human) <Keepers of Dreams> ZONE: cshome (USER PID BUGCNEC)
+[Wed Jan 02 17:39:02 2002] * Guide *[54 Mystic] Nazbag (Ogre) <Keepers of Dreams> ZONE: blackburrow (USER PID EUUV5HS)
+[Wed Jan 02 17:39:02 2002] There are 3 players in EverQuest.
+[Wed Jan 02 17:39:05 2002] Devynn GMSAYS, 'I've done it 3 times already for other clerics in our guild'
+[Wed Jan 02 17:39:05 2002] You GMSAY, 'back'
+[Wed Jan 02 17:39:09 2002] Players in EverQuest:
+[Wed Jan 02 17:39:09 2002] ---------------------------
+[Wed Jan 02 17:39:09 2002] [52 Disciple] Slytherfyst (Iksar) <Altruistic Valorians> ZONE: shadowhaven (USER PID CNFKN6C)
+[Wed Jan 02 17:39:09 2002] There is 1 player in EverQuest.
+[Wed Jan 02 17:39:09 2002] Nazbag GMSAYS, 'WB'
+[Wed Jan 02 17:39:11 2002] Luladien begins to cast a spell. (Skin like Steel)
+[Wed Jan 02 17:39:13 2002] Andyk begins to cast a spell. (Eyes of the Cat)
+[Wed Jan 02 17:39:20 2002] You GMSAY, 'I just finished a ragefire camp this morning, btw'
+[Wed Jan 02 17:39:25 2002] You GMSAY, 'my guild's first'
+[Wed Jan 02 17:39:40 2002] You GMSAY, 'I've been sleeping with a telephone the past two nights'
+[Wed Jan 02 17:39:43 2002] Devynn GMSAYS, 'reds are surname change requests'
+[Wed Jan 02 17:39:48 2002] Nazbag GMSAYS, 'I told her I would sit there and keep her company but the way our server works the list is amile long and its got rules that working people cant follow'
+[Wed Jan 02 17:39:52 2002] Andyk begins to cast a spell. (Eyes of the Cat)
+[Wed Jan 02 17:39:53 2002] Devynn GMSAYS, 'lol, my wife's cleric just needs rage for her epic'
+[Wed Jan 02 17:39:59 2002] You feel the spirit of Norrath enter you.
+[Wed Jan 02 17:40:01 2002] Devynn GMSAYS, 'and my druid just needs Fay for her epic'
+[Wed Jan 02 17:40:12 2002] You GMSAY, 'I have my druid epic :) warrior epic next'
+[Wed Jan 02 17:40:15 2002] Andyk begins to cast a spell. (Eyes of the Cat)
+[Wed Jan 02 17:40:19 2002] You GMSAY, 'and then rogue epic!'
+[Wed Jan 02 17:40:20 2002] Devynn GMSAYS, 'BAH! Epic hog! lol'
+[Wed Jan 02 17:40:43 2002] You told slytherfyst, 'Hail! Senior Guide Espranza here. GM Mheii says I should rez you - let me get to your body'
+[Wed Jan 02 17:40:49 2002] Nazbag GMSAYS, 'most of Unity had their cleric epics before there was a log jam thank god'
+[Wed Jan 02 17:40:55 2002] Slytherfyst tells you, 'great :)'
+[Wed Jan 02 17:41:03 2002] You GMSAY, 'as far as I know, there are no other female halfling warriors with their epics on emarr'
+[Wed Jan 02 17:41:09 2002] You GMSAY, 'so I want to be the first'
+[Wed Jan 02 17:41:26 2002] Searching zones for corpse of that name....
+[Wed Jan 02 17:41:26 2002] Corpse: Slytherfyst's corpse0 in zone: frontiermtns
+[Wed Jan 02 17:41:29 2002] You GMSAY, 'zone'
+[Wed Jan 02 17:41:32 2002] Devynn GMSAYS, 'I'm the only halfling druid in my guild...hehe'
+[Wed Jan 02 17:41:40 2002] Fluxurak shouts, 'train to ME!'
+[Wed Jan 02 17:41:42 2002] Nazbag GMSAYS, 'what server are you on Devynn?'
+[Wed Jan 02 17:41:47 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 17:42:48 2002] You have entered Frontier Mountains.
+[Wed Jan 02 17:43:00 2002] Teleporting to slytherfyst's corpse0.
+[Wed Jan 02 17:43:13 2002] You told Slytherfyst, 'ready for a rez?'
+[Wed Jan 02 17:43:21 2002] Slytherfyst tells you, 'yep'
+[Wed Jan 02 17:43:39 2002] Devynn GMSAYS, 'ZONING...Passing through the veil of death....'
+[Wed Jan 02 17:43:55 2002] Bimma shouts, 'Looking for more at the giant fort'
+[Wed Jan 02 17:44:15 2002] Players in EverQuest:
+[Wed Jan 02 17:44:15 2002] ---------------------------
+[Wed Jan 02 17:44:15 2002] [52 Disciple] Slytherfyst (Iksar) <Altruistic Valorians> ZONE: frontiermtns (USER PID CNFKN6C)
+[Wed Jan 02 17:44:15 2002] There is 1 player in EverQuest.
+[Wed Jan 02 17:44:21 2002] Balkinid says out of character, 'Sword to left in hut'
+[Wed Jan 02 17:44:37 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 17:44:45 2002] Slytherfyst says, 'thanks a bunch :)'
+[Wed Jan 02 17:44:50 2002] You are no longer invigorated.
+[Wed Jan 02 17:44:52 2002] You say, 'how did you get all the way here?'
+[Wed Jan 02 17:45:22 2002] Slytherfyst says, 'dropped from the sky random spot had it happen in everfrost before and that was a nightmare'
+[Wed Jan 02 17:45:50 2002] You GMSAY, '<note> Slytherfyst CNFKN6C zoned out of Nurga and fell for 10K death. Reported it, GM Mheii in chat authorized a rez.'
+[Wed Jan 02 17:46:06 2002] Slytherfyst says, 'thanks again :)'
+[Wed Jan 02 17:46:07 2002] You say, 'Well, best of luck - be well!'
+[Wed Jan 02 17:46:08 2002] You no longer have a target.
+[Wed Jan 02 17:46:09 2002] You wave goodbye to everyone.
+[Wed Jan 02 17:46:11 2002] You GMSAY, 'zone'
+[Wed Jan 02 17:46:14 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 17:46:15 2002] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Wed Jan 02 17:46:15 2002] Your Belt of Translocation begins to glow.
+[Wed Jan 02 17:46:16 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 17:46:41 2002] You have entered Sunset Home.
+[Wed Jan 02 17:46:53 2002] You are no longer invigorated.
+[Wed Jan 02 17:47:16 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 17:47:16 2002] USER TEXT: i need to speak with a senior guide...before he leaves.....i have gone through like 3 others...that told me too....so plz let me speak with him...it concerns a matter of the new titles and the surname...thank you
+[Wed Jan 02 17:47:17 2002] Players in EverQuest:
+[Wed Jan 02 17:47:17 2002] ---------------------------
+[Wed Jan 02 17:47:17 2002] [60 Grandmaster] Caamoleon (Human) ZONE: commons (USER PID HXBJ8NB)
+[Wed Jan 02 17:47:17 2002] There is 1 player in EverQuest.
+[Wed Jan 02 17:47:30 2002] You GMSAY, 'Espranza is a GIRL'S name.'
+[Wed Jan 02 17:47:57 2002] GM TEXT: Devynn: would like his surname removed
+[Wed Jan 02 17:48:07 2002] You GMSAY, 'zone'
+[Wed Jan 02 17:48:13 2002] Teleporting to caamoleon.
+[Wed Jan 02 17:48:14 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 17:48:35 2002] a giant spider died.
+[Wed Jan 02 17:48:43 2002] You have entered West Commonlands.
+[Wed Jan 02 17:48:46 2002] Minijojo begins to cast a spell. (Wind of the North)
+[Wed Jan 02 17:48:46 2002] Aanzi shouts, 'TP to Cazic, DL, Gfay, Iceclad, Nek, NK, Tox. '
+[Wed Jan 02 17:48:52 2002] Teleporting to caamoleon.
+[Wed Jan 02 17:48:54 2002] Minijojo discorporates in a portal of wind.
+[Wed Jan 02 17:48:54 2002] Tarrk discorporates in a portal of wind.
+[Wed Jan 02 17:48:54 2002] Tantrim waves at Azarian.
+[Wed Jan 02 17:49:03 2002] Daevdien says out of character, 'Looking for portal to Butcherblock please'
+[Wed Jan 02 17:49:05 2002] You have changed Caamoleon's last name to .
+[Wed Jan 02 17:49:09 2002] Weisz shouts, 'can anybody donate some food '
+[Wed Jan 02 17:49:09 2002] Daevdien says, 'Anyone willing to tp to Butcherblock Mountains?'
+[Wed Jan 02 17:49:27 2002] You GMSAY, '<note name> Caamoleon HXBJ8NB last name removed by request.'
+[Wed Jan 02 17:49:28 2002] Tantrim begins to cast a spell. (Clarity)
+[Wed Jan 02 17:49:33 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 17:49:35 2002] Daevdien kneels before Espranza in humility and reverence.
+[Wed Jan 02 17:49:43 2002] Elias hugs Espranza.
+[Wed Jan 02 17:49:50 2002] You are no longer invigorated.
+[Wed Jan 02 17:49:50 2002] You say, 'hello all!'
+[Wed Jan 02 17:49:52 2002] Elias beams a smile at Espranza.
+[Wed Jan 02 17:49:52 2002] Caamoleon says, 'hello espranza'
+[Wed Jan 02 17:49:57 2002] Elias stares dreamily at Espranza, completely lost in her eyes.
+[Wed Jan 02 17:50:02 2002] You say, 'anyone porting to cshome?'
+[Wed Jan 02 17:50:08 2002] Daevdien says, 'Anyone willing to tp to Butcherblock Mountains?'
+[Wed Jan 02 17:50:12 2002] Caamoleon says, 'lol'
+[Wed Jan 02 17:50:12 2002] Daevdien says out of character, 'Looking for portal to Butcherblock please'
+[Wed Jan 02 17:50:14 2002] Caamoleon says, 'ohh me me'
+[Wed Jan 02 17:50:16 2002] Elias says, 'I wish I could, I would take you'
+[Wed Jan 02 17:50:21 2002] Nuvil says, 'Hail, Daevdien'
+[Wed Jan 02 17:50:22 2002] Elias beams a smile at Espranza.
+[Wed Jan 02 17:50:22 2002] You say, 'sigh'
+[Wed Jan 02 17:50:24 2002] Caamoleon kneels before Espranza in humility and reverence.
+[Wed Jan 02 17:50:28 2002] Nuvil says, 'can u clarity?'
+[Wed Jan 02 17:50:31 2002] Caleisto beams a smile at Espranza.
+[Wed Jan 02 17:50:32 2002] You say, 'takes me like three hours to get a port these days.'
+[Wed Jan 02 17:50:32 2002] Daevdien says, 'Yes'
+[Wed Jan 02 17:50:36 2002] Elias says, 'no, I mean, I would pay so I could take you =)'
+[Wed Jan 02 17:50:38 2002] Nuvil says, 'can i bum one?'
+[Wed Jan 02 17:50:40 2002] Caamoleon says, 'heh'
+[Wed Jan 02 17:50:42 2002] Gromler auctions, 'wtb druid drop spells 54+'
+[Wed Jan 02 17:50:45 2002] Caleisto giggles at Espranza.
+[Wed Jan 02 17:50:48 2002] DELETING THIS PETITION
+[Wed Jan 02 17:50:50 2002] Daevdien says, 'can you tp to BB?'
+[Wed Jan 02 17:50:54 2002] Ankalagon begins to cast a spell. (Circle of Surefall Glade)
+[Wed Jan 02 17:50:57 2002] You say, 'well, I poofed your last name, Caam'
+[Wed Jan 02 17:50:58 2002] Nuvil says, 'yeah sure can'
+[Wed Jan 02 17:50:58 2002] Daevdien says, 'heh'
+[Wed Jan 02 17:50:59 2002] Caamoleon says, 'nice title you got for yourself there'
+[Wed Jan 02 17:51:12 2002] You say, 'people kept thinking I was a halfling'
+[Wed Jan 02 17:51:19 2002] Caamoleon says, 'oh wow, you are the coolest'
+[Wed Jan 02 17:51:21 2002] Caamoleon says, 'now the title will be great'
+[Wed Jan 02 17:51:21 2002] Daevdien begins to cast a spell. (Clarity)
+[Wed Jan 02 17:51:21 2002] Nuvil looks tranquil.
+[Wed Jan 02 17:51:21 2002] Caamoleon says, 'my tag wont span the whole screen :)'
+[Wed Jan 02 17:51:23 2002] Caamoleon hugs Espranza.
+[Wed Jan 02 17:51:24 2002] Daevdien begins to cast a spell. (Augmentation)
+[Wed Jan 02 17:51:24 2002] Devynn GMSAYS, 'well, that was fun'
+[Wed Jan 02 17:51:25 2002] Nuvil thanks Daevdien heartily.
+[Wed Jan 02 17:51:26 2002] Caamoleon says, 'hehe...thnx esp :)'
+[Wed Jan 02 17:51:26 2002] Nuvil's body pulses with energy.
+[Wed Jan 02 17:51:26 2002] Elias tells you, 'not going to other server yet? or will you later when they give you the Senior guide status (or what ever it is called)'
+[Wed Jan 02 17:51:28 2002] You GMSAY, '?'
+[Wed Jan 02 17:51:28 2002] Arriell begins to cast a spell. (Wind of the South)
+[Wed Jan 02 17:51:29 2002] Canedeorum begins to cast a spell. (Foliage Shield)
+[Wed Jan 02 17:51:32 2002] Cannable tells you, 'i petitioned and the gm that came to me left with out helping me whats the deal'
+[Wed Jan 02 17:51:32 2002] Lianny begins to cast a spell. (Spirit of Wolf)
+[Wed Jan 02 17:51:33 2002] Nuvil says, 'wanna go to BB?'
+[Wed Jan 02 17:51:37 2002] Hyteria is surrounded by a brief lupine aura.
+[Wed Jan 02 17:51:37 2002] Caamoleon waves at Espranza.
+[Wed Jan 02 17:51:37 2002] Aanzi shouts, 'TP to Cazic, DL, Gfay, Iceclad, Nek, NK, Tox. '
+[Wed Jan 02 17:51:37 2002] Arriell discorporates in a portal of wind.
+[Wed Jan 02 17:51:37 2002] Azarian discorporates in a portal of wind.
+[Wed Jan 02 17:51:37 2002] Juig discorporates in a portal of wind.
+[Wed Jan 02 17:51:38 2002] Devynn GMSAYS, 'went LD while zoning to dawnshroud'
+[Wed Jan 02 17:51:40 2002] Aryel kneels before Ravton in humility and reverence.
+[Wed Jan 02 17:51:41 2002] Taikwan shouts, 'lvl 10 Monk LFG'
+[Wed Jan 02 17:51:45 2002] Caamoleon tells you, 'thank you much.......good day to you now :)'
+[Wed Jan 02 17:51:45 2002] You told Elias, 'I'm a full senior, and I'm staying on MT after all'
+[Wed Jan 02 17:51:49 2002] Raahvin pokes Caleisto.
+[Wed Jan 02 17:51:49 2002] Daevdien says, 'yes please...Im trying to get to Kunark'
+[Wed Jan 02 17:51:50 2002] Elias says, 'you did look into your mirror this morning Espranza didnt you?'
+[Wed Jan 02 17:51:50 2002] Gromler auctions, 'wts inferno of Al'kabor and form of howler dropspe'
+[Wed Jan 02 17:51:52 2002] Gromler auctions, 'wts flawed flame emeralds'
+[Wed Jan 02 17:51:53 2002] You told Caamoleon, 'and to you'
+[Wed Jan 02 17:51:54 2002] Gromler auctions, 'SElling Black sapphire and Jakinth resist gems'
+[Wed Jan 02 17:51:55 2002] Elias tells you, 'woot'
+[Wed Jan 02 17:51:56 2002] orc pawn says 'Centurions!! Attack!! 
+[Wed Jan 02 17:51:56 2002] orc pawn says 'It's Wood Elves like you who have ruined your own lands. You'll not ruin mine!'
+[Wed Jan 02 17:51:57 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 17:51:57 2002] Gromler auctions, 'wts diamond for resists gear please send tells'
+[Wed Jan 02 17:51:59 2002] Gromler shouts, 'wtb improved superior camo for druid paying well!'
+[Wed Jan 02 17:52:01 2002] orc pawn has been slain by Nuvil!
+[Wed Jan 02 17:52:01 2002] orc pawn says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. 
+[Wed Jan 02 17:52:02 2002] Hyteria waves at Lianny.
+[Wed Jan 02 17:52:05 2002] Lianny waves goodbye to Hyteria.
+[Wed Jan 02 17:52:09 2002] Caamoleon says, 'mean druid ther elol'
+[Wed Jan 02 17:52:09 2002] You are no longer invigorated.
+[Wed Jan 02 17:52:12 2002] Caamoleon says, 'there even'
+[Wed Jan 02 17:52:19 2002] You told Cannable, 'What was the problem, and who was the GM?'
+[Wed Jan 02 17:52:20 2002] Daevdien begins to cast a spell. (Gift of Magic)
+[Wed Jan 02 17:52:20 2002] You no longer have a target.
+[Wed Jan 02 17:52:23 2002] Caamoleon says, 'don't take no lip from no orcs'
+[Wed Jan 02 17:52:25 2002] Nuvil appears to be staring into nothingness.
+[Wed Jan 02 17:52:32 2002] Nuvil thanks Daevdien heartily.
+[Wed Jan 02 17:52:36 2002] You GMSAY, 'did someone have dealings with Cannable?'
+[Wed Jan 02 17:52:37 2002] Lianny begins to cast a spell. (Spirit of Wolf)
+[Wed Jan 02 17:52:37 2002] Nuvil says, 'can u insight?'
+[Wed Jan 02 17:52:41 2002] Lianny is surrounded by a brief lupine aura.
+[Wed Jan 02 17:52:51 2002] Devynn GMSAYS, 'Yeah, sent her a tell before I went LD'
+[Wed Jan 02 17:52:53 2002] Pollu auctions, 'WTS Crystal Chitin Shield AC20 +9 WIS +40 mana 6k'
+[Wed Jan 02 17:53:11 2002] You GMSAY, 'complaining you came and left without helping... you're on it now, then?'
+[Wed Jan 02 17:53:16 2002] Your feet leave the ground.
+[Wed Jan 02 17:53:18 2002] Devynn GMSAYS, 'yep'
+[Wed Jan 02 17:53:26 2002] Weisz shouts, 'are there any guilds for level 8  wiz'
+[Wed Jan 02 17:53:42 2002] You GMSAY, 'silly bird he is. hasn't learned patience.'
+[Wed Jan 02 17:53:54 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 17:53:55 2002] USER TEXT: I would like to have my surname changed to Wabbithugger if that is possible
+[Wed Jan 02 17:53:55 2002] Players in EverQuest:
+[Wed Jan 02 17:53:55 2002] ---------------------------
+[Wed Jan 02 17:53:55 2002] [51 Champion] Mothball (Wood Elf) ZONE: karnor (USER PID BQPHF92)
+[Wed Jan 02 17:53:55 2002] There is 1 player in EverQuest.
+[Wed Jan 02 17:53:56 2002] Paos auctions, 'WTS Wurmslayer, Centi warhammer, Centi spear'
+[Wed Jan 02 17:54:00 2002] Devynn GMSAYS, 'no joke, was getting tells from him before we got to his petition'
+[Wed Jan 02 17:54:19 2002] You GMSAY, 'order sent order answered...'
+[Wed Jan 02 17:54:30 2002] Cannable tells you, 'ok some one wanted to see what i was selling i hit cancel trade and the bag ether droped to ground or trade i asked ganyan the one that ended up with my stuff he is back '
+[Wed Jan 02 17:54:30 2002] You GMSAY, 'but try explaining that'
+[Wed Jan 02 17:54:40 2002] Pollu auctions, 'WTS Crystal Chitin Shield AC20 +9 WIS +40 mana 6k'
+[Wed Jan 02 17:54:41 2002] Devynn GMSAYS, 'lol, yeah'
+[Wed Jan 02 17:54:46 2002] You told Cannable, 'Devynn went link dead and crashed while zoning, he'll be right with you.'
+[Wed Jan 02 17:54:49 2002] Salvarian says out of character, 'WTB port to DL'
+[Wed Jan 02 17:55:00 2002] You GMSAY, 'zone'
+[Wed Jan 02 17:55:04 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 17:55:35 2002] Musiq says out of character, 'grp need a healer'
+[Wed Jan 02 17:55:41 2002] You have entered Karnor's Castle.
+[Wed Jan 02 17:55:48 2002] Teleporting to mothball.
+[Wed Jan 02 17:55:51 2002] Toppie shouts, 'TRAIN to ZONE !'
+[Wed Jan 02 17:55:52 2002] Toppie shouts, 'TRAIN to ZONE !'
+[Wed Jan 02 17:55:53 2002] Aredhel says out of character, 'LCY claimed'
+[Wed Jan 02 17:55:54 2002] Toppie shouts, 'TRAIN to ZONE !'
+[Wed Jan 02 17:55:56 2002] Mothball bows before Espranza.
+[Wed Jan 02 17:55:56 2002] Toppie shouts, 'TRAIN to ZONE !'
+[Wed Jan 02 17:55:56 2002] Kharnov begins to cast a spell. (Spirit of Wolf)
+[Wed Jan 02 17:56:01 2002] Kyed is surrounded by a brief lupine aura.
+[Wed Jan 02 17:56:03 2002] You say, 'Wabbithugger?'
+[Wed Jan 02 17:56:08 2002] Mothball says, 'please'
+[Wed Jan 02 17:56:08 2002] Rhowne begins to cast a spell. (Vampiric Embrace)
+[Wed Jan 02 17:56:08 2002] You must be on the 1st menu screen to leave GM mode.
+[Wed Jan 02 17:56:09 2002] You must be on the 1st menu screen to leave GM mode.
+[Wed Jan 02 17:56:11 2002] You giggle at Mothball.
+[Wed Jan 02 17:56:12 2002] Mothball says, 'I like Wabbits'
+[Wed Jan 02 17:56:14 2002] Rhowne's hands begin to glow.
+[Wed Jan 02 17:56:16 2002] You say, 'okay....!'
+[Wed Jan 02 17:56:21 2002] Mothball says, 'hehe'
+[Wed Jan 02 17:56:29 2002] You have changed Mothball's last name to Wabbithugger.
+[Wed Jan 02 17:56:30 2002] Drrako says, 'Oh crap the shrub elf again hehe'
+[Wed Jan 02 17:56:37 2002] Mothball hugs Espranza.
+[Wed Jan 02 17:56:42 2002] You say, 'You will not evade me.'
+[Wed Jan 02 17:56:45 2002] Mothball says, 'you did it!'
+[Wed Jan 02 17:56:50 2002] Brytar gives Esperanza a pedicure cause she really needs it.
+[Wed Jan 02 17:56:51 2002] Mothball says, 'thank you much'
+[Wed Jan 02 17:56:55 2002] You say, 'Now she thinks I'm a wabbit... sigh'
+[Wed Jan 02 17:56:56 2002] Mothball bows before Espranza.
+[Wed Jan 02 17:57:01 2002] Musiq shouts, 'camp check?'
+[Wed Jan 02 17:57:05 2002] You beam a smile at Mothball.
+[Wed Jan 02 17:57:08 2002] Mentorg says out of character, 'tower'
+[Wed Jan 02 17:57:10 2002] Rhowne says, 'Hehe'
+[Wed Jan 02 17:57:11 2002] Mothball gives Espranza some carrots.
+[Wed Jan 02 17:57:13 2002] Enlil shouts, 'jarcrap rotting at LM'
+[Wed Jan 02 17:57:14 2002] Drrako says out of character, 'Hands/ WL'
+[Wed Jan 02 17:57:15 2002] Briggnak says out of character, 'RCY'
+[Wed Jan 02 17:57:16 2002] Mothball says, 'fafner!'
+[Wed Jan 02 17:57:21 2002] Mothball says, 'look at my new name!'
+[Wed Jan 02 17:57:23 2002] You GMSAY, '<note name> Mothball BQPHF92 granted last name Wabbithugger'
+[Wed Jan 02 17:57:24 2002] Fafner says, 'Hi sweety!'
+[Wed Jan 02 17:57:25 2002] Mothball hugs Fafner.
+[Wed Jan 02 17:57:27 2002] Spomo says out of character, 'LCY'
+[Wed Jan 02 17:57:34 2002] DELETING THIS PETITION
+[Wed Jan 02 17:57:43 2002] You GMSAY, 'who had Lilun?'
+[Wed Jan 02 17:57:47 2002] Kyed says, 'inc'
+[Wed Jan 02 17:57:48 2002] Players in EverQuest:
+[Wed Jan 02 17:57:48 2002] ---------------------------
+[Wed Jan 02 17:57:48 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: karnor (USER PID B4KJ6E7)
+[Wed Jan 02 17:57:48 2002] * Guide *[52 Disciple] Devynn (Human) <Keepers of Dreams> ZONE: dawnshroud (USER PID BUGCNEC)
+[Wed Jan 02 17:57:48 2002] There are 2 players in EverQuest.
+[Wed Jan 02 17:57:52 2002] Fafner begins to cast a spell. (Turgur's Insects)
+[Wed Jan 02 17:57:55 2002] You GMSAY, 'did naz leave?'
+[Wed Jan 02 17:57:59 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 17:58:00 2002] USER TEXT: Corple has dissapeard and appears to be bugged and can not be located in Misty Thicket
+[Wed Jan 02 17:58:00 2002] Players in EverQuest:
+[Wed Jan 02 17:58:00 2002] ---------------------------
+[Wed Jan 02 17:58:00 2002] [6 Druid] Onefop (Halfling) ZONE: misty (USER PID B1M564V)
+[Wed Jan 02 17:58:00 2002] There is 1 player in EverQuest.
+[Wed Jan 02 17:58:01 2002] Kharnov begins to cast a spell. (Stinging Swarm)
+[Wed Jan 02 17:58:02 2002] Fafner begins to cast a spell. (Turgur's Insects)
+[Wed Jan 02 17:58:04 2002] Devynn GMSAYS, 'dunno'
+[Wed Jan 02 17:58:08 2002] Devynn GMSAYS, 'LD maybe?'
+[Wed Jan 02 17:58:08 2002] Kharnov begins to cast a spell. (Ensnare)
+[Wed Jan 02 17:58:30 2002] Fafner begins to cast a spell. (Gate)
+[Wed Jan 02 17:58:39 2002] Fafner begins to cast a spell. (Chloroplast)
+[Wed Jan 02 17:58:46 2002] You GMSAY, 'I play a halfling... well, several halflings... and I know of no NPC in Misty named Corple... any ideas?'
+[Wed Jan 02 17:58:53 2002] Rhowne begins to cast a spell. (VampEmbraceShadow)
+[Wed Jan 02 17:59:11 2002] Aredhel begins to cast a spell. (Strength of Nature)
+[Wed Jan 02 17:59:23 2002] spectral caller begins to cast a spell. (Spirit of Wolf)
+[Wed Jan 02 17:59:31 2002] Devynn tells the guild, '<issue> Cannable G23b9YH was showing his items to a potential buyer, he canceled the trade and the bag dropped to the ground, Ganyan stole the gear, fine plate bp, coller, belt, and a 6 slot bag'
+[Wed Jan 02 17:59:33 2002] Fafner says out of character, 'Lvl 51 warrior (Mothball) and shaman (me) seek group'
+[Wed Jan 02 17:59:45 2002] Devynn GMSAYS, 'no idea Esp, never heard of him/her'
+[Wed Jan 02 17:59:59 2002] spectral caller begins to cast a spell. (Alacrity)
+[Wed Jan 02 18:00:35 2002] You told Onefop, 'Hail, Onefop! Senior Guide Espranza here. I must confess I have never heard of an NPC named Corple. Why do you seek him (or her)?'
+[Wed Jan 02 18:00:52 2002] Tompoe says out of character, 'camp check pls'
+[Wed Jan 02 18:00:58 2002] Toppie says out of character, 'Tower'
+[Wed Jan 02 18:00:58 2002] Drrako says out of character, 'HAnds/WL'
+[Wed Jan 02 18:01:03 2002] Fafner says out of character, 'Lvl 51 warrior (Mothball) and shaman (me) seek group'
+[Wed Jan 02 18:01:14 2002] Onefop tells you, 'I am new and I am ok mistake in messagfe'
+[Wed Jan 02 18:01:20 2002] Ledao says out of character, 'RCY'
+[Wed Jan 02 18:01:32 2002] You told Onefop, 'okay - good luck and be well!'
+[Wed Jan 02 18:01:34 2002] DELETING THIS PETITION
+[Wed Jan 02 18:01:35 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 18:01:36 2002] USER TEXT: my game will not let me loot my corpse 
+[Wed Jan 02 18:01:36 2002] Players in EverQuest:
+[Wed Jan 02 18:01:36 2002] ---------------------------
+[Wed Jan 02 18:01:36 2002] [15 Druid] Lilyweed (Wood Elf) <Kingdom of Steel> ZONE: oasis (USER PID BX5RDR7)
+[Wed Jan 02 18:01:36 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:01:50 2002] Psychlos tells you, 'i need help please'
+[Wed Jan 02 18:01:52 2002] Fafner says out of character, 'Lvl 51 warrior (Mothball) and shaman (me) seek group - or will form group at enterance'
+[Wed Jan 02 18:02:44 2002] You told Psychlos, 'please petition and someone will be with you as soon as possible.'
+[Wed Jan 02 18:02:51 2002] Searching zones for corpse of that name....
+[Wed Jan 02 18:02:56 2002] Searching zones for corpse of that name....
+[Wed Jan 02 18:03:14 2002] spectral caller begins to cast a spell. (Alacrity)
+[Wed Jan 02 18:03:37 2002] You told Lilyweed, 'Hail, Lilyweed! Senior Guide Espranza here. Were you able to loot your corpse?'
+[Wed Jan 02 18:04:32 2002] Devynn GMSAYS, 'Grandma on the phone, semi afk'
+[Wed Jan 02 18:04:38 2002] Knight of Sathir begins to cast a spell. (Shieldskin)
+[Wed Jan 02 18:05:04 2002] Alviri says out of character, 'lvl 51 bard lfg'
+[Wed Jan 02 18:05:43 2002] You told Lilyweed, 'Hail, Lilyweed! Senior Guide Espranza here. Were you able to loot your corpse?'
+[Wed Jan 02 18:05:46 2002] Espranza saved.
+[Wed Jan 02 18:05:46 2002] You feel as if you are about to fall.
+[Wed Jan 02 18:05:52 2002] You feel as if you are about to fall.
+[Wed Jan 02 18:05:58 2002] You can no longer levitate.
+[Wed Jan 02 18:06:22 2002] Lilyweed tells you, 'Yes thanks you for asking'
+[Wed Jan 02 18:06:41 2002] You told Lilyweed, 'okay, good luck and be well!'
+[Wed Jan 02 18:06:42 2002] DELETING THIS PETITION
+[Wed Jan 02 18:06:43 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 18:06:43 2002] USER TEXT: hello, we were told to petition about having a GM conduct a wedding today, weve been planning for a very long time and are nearing readiness in sol temple. We would please like a GM if possible, thank you:)
+[Wed Jan 02 18:06:44 2002] Players in EverQuest:
+[Wed Jan 02 18:06:44 2002] ---------------------------
+[Wed Jan 02 18:06:44 2002] [58 Blackguard] Dubb (Halfling) <Temple of Dawn> ZONE: soltemple (USER PID FQ772T3)
+[Wed Jan 02 18:06:44 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:06:55 2002] Lilyweed tells you, 'as to you)'
+[Wed Jan 02 18:07:18 2002] You GMSAY, 'did Naz say he was going to do a wedding?'
+[Wed Jan 02 18:07:38 2002] You GMSAY, 'sigh.'
+[Wed Jan 02 18:07:49 2002] You GMSAY, 'hidden and zoning to see if they're really ready'
+[Wed Jan 02 18:07:51 2002] Espranza is now Invisible.
+[Wed Jan 02 18:07:51 2002] You are now anonymous.
+[Wed Jan 02 18:07:52 2002] Devynn GMSAYS, 'Naz said he would let them know we might not be available'
+[Wed Jan 02 18:07:57 2002] Teleporting to dubb.
+[Wed Jan 02 18:07:58 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 18:08:14 2002] Wallaren says out of character, 'ooo...eyeballs!'
+[Wed Jan 02 18:08:22 2002] You have entered Temple of Solusek Ro.
+[Wed Jan 02 18:08:31 2002] Narina says out of character, 'beer and spinnies coming up'
+[Wed Jan 02 18:08:36 2002] Espranza is now Visible.
+[Wed Jan 02 18:08:38 2002] Devynn GMSAYS, 'ZONING...Passing through the veil of death....'
+[Wed Jan 02 18:08:39 2002] Liliun pokes Dubb.
+[Wed Jan 02 18:08:40 2002] You are no longer anonymous.
+[Wed Jan 02 18:08:42 2002] Wallaren begins to cast a spell. (Eye of Zomm)
+[Wed Jan 02 18:08:46 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:08:50 2002] Cephas shouts, 'All praise Innoruuk, our lord and creator!'
+[Wed Jan 02 18:08:52 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:08:56 2002] a seeker begins to cast a spell. (Valor)
+[Wed Jan 02 18:08:58 2002] You are no longer invigorated.
+[Wed Jan 02 18:08:59 2002] Cobbyl shouts, 'GAWE'
+[Wed Jan 02 18:09:00 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:00 2002] Romar Sunto begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:02 2002] Dubb says out of character, '/gasp'
+[Wed Jan 02 18:09:04 2002] Cobbyl shouts, 'GAW even'
+[Wed Jan 02 18:09:04 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:05 2002] Sevin begins to cast a spell. (Gather Shadows)
+[Wed Jan 02 18:09:08 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:10 2002] Sevin steps into the shadows and disappears.
+[Wed Jan 02 18:09:10 2002] Cobbyl shouts, 'Who let Cephas out of his cage?'
+[Wed Jan 02 18:09:11 2002] Sianne says, ''
+[Wed Jan 02 18:09:14 2002] You say, 'Gaw?'
+[Wed Jan 02 18:09:16 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:23 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:09:28 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:31 2002] Cephas shouts, 'congratz lillun and dubb if im late'
+[Wed Jan 02 18:09:32 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:32 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:32 2002] Dubb says, 'Hail, Espranza'
+[Wed Jan 02 18:09:38 2002] You say, 'hello!'
+[Wed Jan 02 18:09:40 2002] Renladarasstoe says, 'damn lag'
+[Wed Jan 02 18:09:41 2002] Dubb says out of character, 'just in time, Cephas'
+[Wed Jan 02 18:09:43 2002] Liliun hugs Narina.
+[Wed Jan 02 18:09:45 2002] Wallaren's spell fizzles!
+[Wed Jan 02 18:09:46 2002] Wallaren's spell fizzles!
+[Wed Jan 02 18:09:46 2002] Anax shouts, 'About time the ringbearer got here'
+[Wed Jan 02 18:09:47 2002] Mazer says out of character, 'just the GM is late'
+[Wed Jan 02 18:09:47 2002] You say, 'what's going on here? some sort of wedding?'
+[Wed Jan 02 18:09:47 2002] Wallaren's spell fizzles!
+[Wed Jan 02 18:09:48 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:48 2002] Solomen begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:49 2002] Wallaren begins to cast a spell. (Eye of Zomm)
+[Wed Jan 02 18:09:52 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:52 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:56 2002] a seeker begins to cast a spell. (Valor)
+[Wed Jan 02 18:09:56 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:09:58 2002] Sevin shouts, 'Uber in the houuse   '
+[Wed Jan 02 18:09:58 2002] Renladarasstoe says, 'yep'
+[Wed Jan 02 18:10:00 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:03 2002] You no longer have a target.
+[Wed Jan 02 18:10:04 2002] a seeker begins to cast a spell. (Valor)
+[Wed Jan 02 18:10:04 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:05 2002] Cobbyl says, 'hi, gm person :o)'
+[Wed Jan 02 18:10:06 2002] Narina lights a firework.
+[Wed Jan 02 18:10:06 2002] Betelgeuse begins to cast a spell. (Eye of Zomm)
+[Wed Jan 02 18:10:08 2002] You say, 'hiya'
+[Wed Jan 02 18:10:11 2002] Cobbyl hugs Espranza.
+[Wed Jan 02 18:10:12 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:12 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:12 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:13 2002] Narina says, 'Hail, Espranza'
+[Wed Jan 02 18:10:16 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:19 2002] Exidor says, 'Wedding?  I thought this was singles night'
+[Wed Jan 02 18:10:20 2002] Vurgo begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:24 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:25 2002] Wallaren says, 'lol'
+[Wed Jan 02 18:10:26 2002] Narina's spell fizzles!
+[Wed Jan 02 18:10:31 2002] You say, 'that's what I thought, too. Come away with me, Exidor!'
+[Wed Jan 02 18:10:31 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:32 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:35 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:37 2002] Cobbyl says, 'LOL'
+[Wed Jan 02 18:10:39 2002] Narina says, 'gonna drop party  packs on the ground'
+[Wed Jan 02 18:10:40 2002] Dubb gasps at Espranza in astonishment.
+[Wed Jan 02 18:10:47 2002] Narina says, 'Feel free to pick one up'
+[Wed Jan 02 18:10:47 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:10:49 2002] Exidor following Espranza.
+[Wed Jan 02 18:10:50 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:10:51 2002] Blaize the Radiant begins to cast a spell. (Valor)
+[Wed Jan 02 18:10:53 2002] Valron says, 'My invitation said something about naked Wood Elves'
+[Wed Jan 02 18:10:54 2002] Dubb says, 'party packs!'
+[Wed Jan 02 18:10:58 2002] Naladiena hugs Narina.
+[Wed Jan 02 18:11:02 2002] Betelgeuse begins to cast a spell. (Eye of Zomm)
+[Wed Jan 02 18:11:03 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:11:03 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:11:07 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:11:07 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:11:07 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:11:08 2002] You say, 'Exidor and I have some things to discuss... there's a room up and in back I think...'
+[Wed Jan 02 18:11:11 2002] Narina says, 'Hiya Nala'
+[Wed Jan 02 18:11:11 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:11:15 2002] Phycos was injured by falling.
+[Wed Jan 02 18:11:20 2002] a seeker begins to cast a spell. (Valor)
+[Wed Jan 02 18:11:21 2002] Naladiena says, 'hi hon.'
+[Wed Jan 02 18:11:26 2002] Dubb says, 'Hail, Phycos'
+[Wed Jan 02 18:11:27 2002] Blaize the Radiant begins to cast a spell. (Valor)
+[Wed Jan 02 18:11:28 2002] Grimolkin cheers at Phycos.
+[Wed Jan 02 18:11:29 2002] Exidor kisses Espranza's hand.
+[Wed Jan 02 18:11:35 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:11:35 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:11:35 2002] Phycos says, 'mmm a party and no one got boose for the barbarian.'
+[Wed Jan 02 18:11:39 2002] Cobbyl is looking at your equipment...
+[Wed Jan 02 18:11:48 2002] Mazer begins to cast a spell. (Clarity II)
+[Wed Jan 02 18:11:50 2002] Renladarasstoe was knocked unconcious by phycos landing on him.
+[Wed Jan 02 18:11:51 2002] You no longer have a target.
+[Wed Jan 02 18:11:51 2002] You no longer have a target.
+[Wed Jan 02 18:11:51 2002] Narina says, 'I got booze for the Barbarian'
+[Wed Jan 02 18:11:51 2002] You no longer have a target.
+[Wed Jan 02 18:11:51 2002] Cephas looks very tranquil.
+[Wed Jan 02 18:11:53 2002] Dubb says, 'somebody get fathead some booze=P'
+[Wed Jan 02 18:11:56 2002] Narina says, 'And  Spinnies'
+[Wed Jan 02 18:11:58 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:12:02 2002] Wallaren says, 'better give him 2'
+[Wed Jan 02 18:12:03 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:12:03 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:12:07 2002] Edaena was injured by falling.
+[Wed Jan 02 18:12:08 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:12:08 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:12:08 2002] Cobbyl is looking at your equipment...
+[Wed Jan 02 18:12:09 2002] Liliun hugs Espranza.
+[Wed Jan 02 18:12:09 2002] Kayri was injured by falling.
+[Wed Jan 02 18:12:09 2002] Renladarasstoe says, '2 kegs'
+[Wed Jan 02 18:12:11 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:12:11 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:12:15 2002] Glug, glug, glug...  Dubb takes a swig of Summoned: Ale.
+[Wed Jan 02 18:12:15 2002] Vilissia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:12:15 2002] a seeker begins to cast a spell. (Valor)
+[Wed Jan 02 18:12:15 2002] Genni begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:12:16 2002] Sevin says, 'oops  sorry lalo  wrong tell  hehehe'
+[Wed Jan 02 18:12:19 2002] Ostorm begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:12:20 2002] Wallaren's spell fizzles!
+[Wed Jan 02 18:12:20 2002] You are no longer invigorated.
+[Wed Jan 02 18:12:20 2002] Wallaren's spell fizzles!
+[Wed Jan 02 18:12:22 2002] Wallaren's spell fizzles!
+[Wed Jan 02 18:12:22 2002] Wallaren begins to cast a spell. (Eye of Zomm)
+[Wed Jan 02 18:12:23 2002] Glug, glug, glug...  Breezen takes a swig of Mushroom Wheat Porter.
+[Wed Jan 02 18:12:24 2002] Sevin hugs Aryel.
+[Wed Jan 02 18:12:25 2002] Aryel jumps into Sevin's arms and kisses him all over.
+[Wed Jan 02 18:12:26 2002] Glug, glug, glug...  Breezen takes a swig of Mushroom Wheat Porter.
+[Wed Jan 02 18:12:26 2002] Liliun hugs Dubb.
+[Wed Jan 02 18:12:27 2002] a ward of ro begins to cast a spell. (FireElementalAura)
+[Wed Jan 02 18:12:27 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:12:27 2002] Narina says out of character, 'Dropping party packs at my feet feel free to pick them up'
+[Wed Jan 02 18:12:31 2002] You say, 'Well, I hope you will consent to have a humble shrub elf bard to do your wedding'
+[Wed Jan 02 18:12:32 2002] Dubb grabs hold of Liliun and begins to dance with her.
+[Wed Jan 02 18:12:32 2002] Sevin whistles at Aryel appreciatively.
+[Wed Jan 02 18:12:34 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:12:39 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:12:40 2002] Betelgeuse begins to cast a spell. (Eye of Zomm)
+[Wed Jan 02 18:12:43 2002] Devynn tells the guild, '<bug> Some players mentioned that when zoning out of chardok, it would put them all the way across the zone near the dreadlands zone line in burning woods.'
+[Wed Jan 02 18:12:49 2002] Naladiena looks around for her party pack.
+[Wed Jan 02 18:12:50 2002] Liliun says, 'Hehe, we would be honored )'
+[Wed Jan 02 18:12:53 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:12:55 2002] Liliun bows before Espranza.
+[Wed Jan 02 18:12:59 2002] Valron says out of character, '<--- isn't getting anywhere near a summoned bag :)'
+[Wed Jan 02 18:13:00 2002] Renladarasstoe says, 'ohh cake'
+[Wed Jan 02 18:13:03 2002] Ostorm begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:13:10 2002] Exidor says, 'Phycos man, you have no hair'
+[Wed Jan 02 18:13:11 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:13:13 2002] You GMSAY, 'they really have been working on this wedding. I guess I'll do it...'
+[Wed Jan 02 18:13:17 2002] Narina says out of character, 'No summoned bags tonight'
+[Wed Jan 02 18:13:19 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:13:19 2002] Roda taps Grim on the shoulder.
+[Wed Jan 02 18:13:21 2002] Breezen hugs Sianne.
+[Wed Jan 02 18:13:22 2002] Renladarasstoe says, 'your going bald Phyc'
+[Wed Jan 02 18:13:23 2002] DELETING THIS PETITION
+[Wed Jan 02 18:13:26 2002] Breezen hugs Sianne.
+[Wed Jan 02 18:13:27 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:13:29 2002] Devynn GMSAYS, 'I'd do it if that script site was still up'
+[Wed Jan 02 18:13:30 2002] Naladiena hugs Phycos.
+[Wed Jan 02 18:13:31 2002] Sianne says out of character, 'back'
+[Wed Jan 02 18:13:33 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:13:34 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:13:37 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:13:37 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:13:38 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:13:41 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:13:43 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:13:45 2002] Dubb cheers at Phycos.
+[Wed Jan 02 18:13:47 2002] Cobbyl burps.
+[Wed Jan 02 18:13:47 2002] Cephas says, 'Hail, Blaize the Radiant'
+[Wed Jan 02 18:13:47 2002] You GMSAY, 'scripts? We don't need no steeeenking scripts.'
+[Wed Jan 02 18:13:47 2002] Blaize the Radiant says 'Hail, faithful one. I am Blaize the Radiant. Brother Gavel and I are well known among clerics for our forging skills, but special payment is required for our services. Special [ingots and icons] given to our members have been lost, and we will reward whoever retrieves them for us. 
+[Wed Jan 02 18:13:48 2002] Dubb thanks Phycos heartily.
+[Wed Jan 02 18:13:49 2002] Breezen says out of character, 'wb hon )'
+[Wed Jan 02 18:13:54 2002] Liliun waves at Phycos.
+[Wed Jan 02 18:13:55 2002] Dubb beams a smile at Liliun.
+[Wed Jan 02 18:13:56 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:13:57 2002] Sianne says out of character, 'thx'
+[Wed Jan 02 18:13:59 2002] Lord Lyfyx of Burwood begins to cast a spell. (Daring)
+[Wed Jan 02 18:14:03 2002] Chomp, chomp, chomp...  Wallaren takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:03 2002] Chomp, chomp, chomp...  Wallaren takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:04 2002] Chomp, chomp, chomp...  Wallaren takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:04 2002] Chomp, chomp, chomp...  Wallaren takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:04 2002] Chomp, chomp, chomp...  Wallaren takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:05 2002] Chomp, chomp, chomp...  Wallaren takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:05 2002] You no longer have a target.
+[Wed Jan 02 18:14:06 2002] Betelgeuse begins to cast a spell. (Eye of Zomm)
+[Wed Jan 02 18:14:10 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:11 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:11 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:11 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:12 2002] Spell particle effects are currently OFF.
+[Wed Jan 02 18:14:12 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:14:16 2002] Server side MSG filtering is *ON*
+[Wed Jan 02 18:14:17 2002] Chomp, chomp, chomp...  Dubb takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:18 2002] Chomp, chomp, chomp...  Dubb takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:18 2002] a seeker begins to cast a spell. (Valor)
+[Wed Jan 02 18:14:18 2002] Romar Sunto begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:14:19 2002] Chomp, chomp, chomp...  Dubb takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:19 2002] Chomp, chomp, chomp...  Dubb takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:20 2002] Chomp, chomp, chomp...  Dubb takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:21 2002] Chomp, chomp, chomp...  Dubb takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:21 2002] Chomp, chomp, chomp...  Valron takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:21 2002] Chomp, chomp, chomp...  Valron takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:21 2002] Chomp, chomp, chomp...  Dubb takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:22 2002] Liliun hugs Dubb.
+[Wed Jan 02 18:14:23 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:14:23 2002] Chomp, chomp, chomp...  Valron takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:23 2002] Chomp, chomp, chomp...  Valron takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:23 2002] Chomp, chomp, chomp...  Valron takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:24 2002] Chomp, chomp, chomp...  Valron takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:24 2002] Chomp, chomp, chomp...  Valron takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:25 2002] Edaena says, 'oops'
+[Wed Jan 02 18:14:25 2002] Chomp, chomp, chomp...  Valron takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:25 2002] Chomp, chomp, chomp...  Valron takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:25 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:14:26 2002] Chomp, chomp, chomp...  Valron takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:14:26 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:14:27 2002] Devynn GMSAYS, 'LOL, I do!'
+[Wed Jan 02 18:14:30 2002] Cobbyl is drunk.
+[Wed Jan 02 18:14:31 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:14:34 2002] Dryleaf bonks Eye of Betelgeuse on the head!
+[Wed Jan 02 18:14:34 2002] You say, 'Is it okay I just set up my options for a raid?'
+[Wed Jan 02 18:14:34 2002] Vilissia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:14:34 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:14:36 2002] Anax is too.
+[Wed Jan 02 18:14:38 2002] Glug, glug, glug...  Valron takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:40 2002] Glug, glug, glug...  Valron takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:41 2002] Dubb says, 'hehe yes'
+[Wed Jan 02 18:14:42 2002] Glug, glug, glug...  Valron takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:42 2002] Lord Lyfyx of Burwood begins to cast a spell. (Daring)
+[Wed Jan 02 18:14:44 2002] Glug, glug, glug...  Valron takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:46 2002] Glug, glug, glug...  Valron takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:47 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:14:47 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:14:48 2002] Glug, glug, glug...  Valron takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:49 2002] Glug, glug, glug...  Valron takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:50 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:14:54 2002] Glug, glug, glug...  Wallaren takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:57 2002] Narina begins to cast a spell. (Summon Coldstone)
+[Wed Jan 02 18:14:57 2002] Dubb says, 'i got everything off mostly'
+[Wed Jan 02 18:14:58 2002] Glug, glug, glug...  Valron takes a swig of Summoned: Ale.
+[Wed Jan 02 18:14:58 2002] Lord Lyfyx of Burwood begins to cast a spell. (Daring)
+[Wed Jan 02 18:15:01 2002] Glug, glug, glug...  Valron takes a swig of Summoned: Ale.
+[Wed Jan 02 18:15:03 2002] Glug, glug, glug...  Valron takes a swig of Summoned: Ale.
+[Wed Jan 02 18:15:06 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:06 2002] Solomen begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:07 2002] You say, 'Hey big guy, let's get rid of the riff raff and enjoy a lava bath together...'
+[Wed Jan 02 18:15:12 2002] Glug, glug, glug...  Wallaren takes a swig of Summoned: Ale.
+[Wed Jan 02 18:15:14 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:18 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:20 2002] Glug, glug, glug...  Aryel takes a drink from a Fuzzlecutter Formula 5000.
+[Wed Jan 02 18:15:21 2002] Linamar was injured by falling.
+[Wed Jan 02 18:15:22 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:22 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:22 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:23 2002] Devynn tells the guild, '<issue> Mukarrn <DQDMSGS> had a bag full of items up to about 1k pp and was taking something out of the bag and went LD. When he got back, all his bags were gone.'
+[Wed Jan 02 18:15:24 2002] Exidor says, 'Anytime little one'
+[Wed Jan 02 18:15:30 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:34 2002] Romar Sunto begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:34 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:36 2002] Archeilus GMSAYS, 'Evening folks :)'
+[Wed Jan 02 18:15:38 2002] Narina says, 'Nala you ever notice we are always a guest but never a bride lol'
+[Wed Jan 02 18:15:38 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:38 2002] A ward of ro begins to radiate.
+[Wed Jan 02 18:15:40 2002] Devynn GMSAYS, 'Evening'
+[Wed Jan 02 18:15:42 2002] A ward of ro begins to radiate.
+[Wed Jan 02 18:15:43 2002] Cobbyl says, 'Well, I AM the only single hobbit in the room - and Im much better looking than Ex'
+[Wed Jan 02 18:15:45 2002] Betelgeuse begins to cast a spell. (Eye of Zomm)
+[Wed Jan 02 18:15:46 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:15:50 2002] Naladiena says, 'I know..and i am getting old.'
+[Wed Jan 02 18:15:50 2002] You GMSAY, 'hi, Archie!'
+[Wed Jan 02 18:15:50 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:54 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:15:54 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:16:02 2002] Archeilus GMSAYS, 'how is everyone this evening?'
+[Wed Jan 02 18:16:03 2002] Devynn GMSAYS, 'I'll come group ya as soon as I get a response on this petition :)'
+[Wed Jan 02 18:16:06 2002] You say, 'Dubbs is single until I marry him, right?'
+[Wed Jan 02 18:16:07 2002] Boxxer whistles at Naladiena appreciatively.
+[Wed Jan 02 18:16:08 2002] Narina says, 'You I am 60 Darn it call me old maid Nari lol'
+[Wed Jan 02 18:16:08 2002] Grimolkin begins to cast a spell. (Bobbing Corpse)
+[Wed Jan 02 18:16:09 2002] Archeilus GMSAYS, 'okay dokey =)'
+[Wed Jan 02 18:16:10 2002] Grimolkin's skin shrivels.
+[Wed Jan 02 18:16:10 2002] You say, 'So he's fair game'
+[Wed Jan 02 18:16:14 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:16:16 2002] Devynn GMSAYS, 'Glad to see an appy come to help out :)'
+[Wed Jan 02 18:16:18 2002] Nadini bonks Espranza on the head!
+[Wed Jan 02 18:16:18 2002] Vurgo begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:16:18 2002] Romar Sunto begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:16:21 2002] Dubb ducks behind Liliun.
+[Wed Jan 02 18:16:21 2002] Naladiena blushes at Boxxer.
+[Wed Jan 02 18:16:22 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:16:22 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:16:22 2002] You say, 'ouch!'
+[Wed Jan 02 18:16:25 2002] Nadini chuckles at Espranza.
+[Wed Jan 02 18:16:26 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:16:32 2002] Archeilus GMSAYS, 'Hmmm, darn it ... zoning ... brb'
+[Wed Jan 02 18:16:33 2002] Renladarasstoe says, 'hard  on yoursef Nar'
+[Wed Jan 02 18:16:33 2002] Cobbyl says, 'But Im better looking - and besides, he's a fatty'
+[Wed Jan 02 18:16:33 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:16:34 2002] Vilissia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:16:34 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:16:34 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:16:37 2002] Phycos says, 'nope he's mine until i walk him down the aisle and give him away to the bride...'
+[Wed Jan 02 18:16:37 2002] Archeilus GMSAYS, 'err wrong key'
+[Wed Jan 02 18:16:38 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:16:41 2002] Devynn GMSAYS, 'lol'
+[Wed Jan 02 18:16:46 2002] Devynn GMSAYS, 'ZONING...Passing through the veil of death....'
+[Wed Jan 02 18:16:49 2002] Nadini says, 'LOL'
+[Wed Jan 02 18:16:51 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:16:53 2002] Fikten says, 'LOL'
+[Wed Jan 02 18:16:53 2002] Dubb says, 'hehe, i belong to phycos?'
+[Wed Jan 02 18:16:53 2002] Liliun says, 'Hehe, should I duck?'
+[Wed Jan 02 18:16:53 2002] Cephas says, 'Claiming right of prima nocta with bride'
+[Wed Jan 02 18:16:54 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:17:05 2002] Nadini says, 'Duck Liliun lol'
+[Wed Jan 02 18:17:05 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:17:05 2002] Chomp, chomp, chomp...  Linamar takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:17:07 2002] Glug, glug, glug...  Linamar takes a swig of Summoned: Ale.
+[Wed Jan 02 18:17:10 2002] Cobbyl says, 'WHO let Cephas in?'
+[Wed Jan 02 18:17:14 2002] Glug, glug, glug...  Linamar takes a swig of Summoned: Ale.
+[Wed Jan 02 18:17:15 2002] You say, 'pssst, Dubb - why marry a humie when you could have a real Rivervale rogue!'
+[Wed Jan 02 18:17:15 2002] Naladiena says, 'Narina we just should have went out and mingled more in our younger days.'
+[Wed Jan 02 18:17:16 2002] Dubb bonks Cephas on the head!
+[Wed Jan 02 18:17:16 2002] Chomp, chomp, chomp...  Linamar takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:17:18 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:17:18 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:17:19 2002] Glug, glug, glug...  Aryel takes a swig of Fish Wine.
+[Wed Jan 02 18:17:20 2002] Glug, glug, glug...  Aryel takes a swig of Fish Wine.
+[Wed Jan 02 18:17:21 2002] Glug, glug, glug...  Aryel takes a swig of Fish Wine.
+[Wed Jan 02 18:17:21 2002] Glug, glug, glug...  Aryel takes a swig of Fish Wine.
+[Wed Jan 02 18:17:25 2002] Narina says, 'yeah really'
+[Wed Jan 02 18:17:25 2002] Glug, glug, glug...  Aryel takes a swig of Fish Wine.
+[Wed Jan 02 18:17:26 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:17:26 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:17:29 2002] Liliun gasps at Espranza in astonishment.
+[Wed Jan 02 18:17:30 2002] Ostorm begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:17:30 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:17:33 2002] Liliun chuckles at Espranza.
+[Wed Jan 02 18:17:37 2002] Nadini bonks Espranza on the head!
+[Wed Jan 02 18:17:39 2002] You can't use that command right now...
+[Wed Jan 02 18:17:39 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:39 2002] You can't use that command right now...
+[Wed Jan 02 18:17:39 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:39 2002] You can't use that command right now...
+[Wed Jan 02 18:17:39 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:40 2002] Cobbyl says, 'And that's how the wedding was ruined by the GM :oP'
+[Wed Jan 02 18:17:40 2002] You can't use that command right now...
+[Wed Jan 02 18:17:40 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:40 2002] You can't use that command right now...
+[Wed Jan 02 18:17:40 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:40 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:41 2002] You can't use that command right now...
+[Wed Jan 02 18:17:41 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:41 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:41 2002] You can't use that command right now...
+[Wed Jan 02 18:17:41 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:42 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:42 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:17:42 2002] You can't use that command right now...
+[Wed Jan 02 18:17:42 2002] You can't use that command right now...
+[Wed Jan 02 18:17:42 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:43 2002] You can't use that command right now...
+[Wed Jan 02 18:17:43 2002] You can't use that command right now...
+[Wed Jan 02 18:17:43 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:43 2002] You can't use that command right now...
+[Wed Jan 02 18:17:43 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:44 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:44 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:44 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:45 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:45 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:45 2002] Your feet leave the ground.
+[Wed Jan 02 18:17:46 2002] Nadini says, 'Lmao '
+[Wed Jan 02 18:17:47 2002] Liliun says, 'hehe )'
+[Wed Jan 02 18:17:49 2002] Narina says, 'Instead of mingling with gobbies we should have hit the Neriak Bars'
+[Wed Jan 02 18:17:50 2002] a ward of ro begins to cast a spell. (FireElementalAura)
+[Wed Jan 02 18:17:50 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:17:50 2002] You say, 'much nicer'
+[Wed Jan 02 18:17:50 2002] Glug, glug, glug...  Naladiena takes a swig of Summoned: Ale.
+[Wed Jan 02 18:17:58 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:18:01 2002] Wardan begins to cast a spell. (Grow)
+[Wed Jan 02 18:18:03 2002] Glug, glug, glug...  Boxxer takes a swig of Short Ale.
+[Wed Jan 02 18:18:06 2002] Cobbyl begins to spin.
+[Wed Jan 02 18:18:12 2002] Betelgeuse begins to cast a spell. (Bonds of Force)
+[Wed Jan 02 18:18:12 2002] Dubb says, 'if she weren't such a good enchanter, i would have her be a rogue=P'
+[Wed Jan 02 18:18:13 2002] You say, 'Dubb, would you switch places with Liliun please?'
+[Wed Jan 02 18:18:15 2002] a seeker begins to cast a spell. (Wrath)
+[Wed Jan 02 18:18:15 2002] a seeker says 'Time to die Betelgeus'
+[Wed Jan 02 18:18:15 2002] a seeker says 'Gnomes like you are better left dead than alive.'
+[Wed Jan 02 18:18:15 2002] a seeker says 'Time to die Betelgeus'
+[Wed Jan 02 18:18:15 2002] a seeker says 'Gnomes have no place in our realm!'
+[Wed Jan 02 18:18:17 2002] Renladarasstoe bonks Cobbyl on the head!
+[Wed Jan 02 18:18:18 2002] Dubb says, 'sure'
+[Wed Jan 02 18:18:22 2002] Ostorm begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:18:23 2002] Nadini says, 'Oh no '
+[Wed Jan 02 18:18:24 2002] Dubb says, 'eep, dead gnome'
+[Wed Jan 02 18:18:27 2002] Naladiena says, 'ouch.'
+[Wed Jan 02 18:18:29 2002] You say, 'Tradition, ya nkow'
+[Wed Jan 02 18:18:32 2002] Wardan grows taller.
+[Wed Jan 02 18:18:32 2002] Dubb says, 'hehe'
+[Wed Jan 02 18:18:34 2002] Lord Searfire begins to cast a spell. (Daring)
+[Wed Jan 02 18:18:34 2002] Liliun says, 'Hehe'
+[Wed Jan 02 18:18:35 2002] Cobbyl says, 'The only good gnome :oP'
+[Wed Jan 02 18:18:38 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:18:38 2002] Wardan begins to cast a spell. (Grow)
+[Wed Jan 02 18:18:43 2002] Evey says out of character, 'WOOT I not the only MOMO here tonight'
+[Wed Jan 02 18:18:43 2002] Renladarasstoe says, 'hmmmm'
+[Wed Jan 02 18:18:46 2002] a ward of ro begins to cast a spell. (FireElementalAura)
+[Wed Jan 02 18:18:49 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:18:49 2002] Exidor says, 'So that must be whats being served at the reception?'
+[Wed Jan 02 18:18:51 2002] Naladiena waves at Grimolkin.
+[Wed Jan 02 18:18:52 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:18:52 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:18:55 2002] Espranza saved.
+[Wed Jan 02 18:18:58 2002] Nadini says out of character, 'LOL'
+[Wed Jan 02 18:18:58 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:18:59 2002] Sianne says, 'lol'
+[Wed Jan 02 18:19:04 2002] Boxxer sits on the warm gnome couch of Betelgeuse.
+[Wed Jan 02 18:19:06 2002] You are no longer invigorated.
+[Wed Jan 02 18:19:10 2002] You no longer have a target.
+[Wed Jan 02 18:19:10 2002] Renladarasstoe says out of character, 'well we can have roast gnome for a wedding dinner'
+[Wed Jan 02 18:19:10 2002] You no longer have a target.
+[Wed Jan 02 18:19:10 2002] You no longer have a target.
+[Wed Jan 02 18:19:10 2002] Dryleaf says, 'gnome on a stick, yummy :)'
+[Wed Jan 02 18:19:15 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:19:17 2002] Dubb beams a smile at Espranza.
+[Wed Jan 02 18:19:17 2002] Nadini says, 'hehe'
+[Wed Jan 02 18:19:18 2002] The spirit leaves you.
+[Wed Jan 02 18:19:19 2002] Cobbyl says, 'Isnt Dubb gonna have to jump to kiss the bride?'
+[Wed Jan 02 18:19:26 2002] Chomp, chomp, chomp...  Linamar takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:19:26 2002] Chomp, chomp, chomp...  Linamar takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:19:27 2002] Espranza takes out a book and clasps it to her chest reverently.
+[Wed Jan 02 18:19:27 2002] Chomp, chomp, chomp...  Linamar takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:19:27 2002] Glug, glug, glug...  Linamar takes a swig of Summoned: Ale.
+[Wed Jan 02 18:19:28 2002] Glug, glug, glug...  Linamar takes a swig of Summoned: Ale.
+[Wed Jan 02 18:19:29 2002] Glug, glug, glug...  Linamar takes a swig of Summoned: Ale.
+[Wed Jan 02 18:19:31 2002] Nadini says, 'Just lev him up '
+[Wed Jan 02 18:19:35 2002] Wallaren says out of character, 'ok, ill jump in the lava now and be nice and dione by the time ceromony is over'
+[Wed Jan 02 18:19:37 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:19:38 2002] Exidor says, 'Depends on the kiss '
+[Wed Jan 02 18:19:39 2002] Cobbyl begins to spin.
+[Wed Jan 02 18:19:41 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:19:45 2002] Renladarasstoe says out of character, 'good'
+[Wed Jan 02 18:19:45 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:19:49 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:19:50 2002] Espranza reads the title - "1001 Practical Jokes" - and grins to herself.
+[Wed Jan 02 18:19:57 2002] Glug, glug, glug...  Aryel takes a swig of Fish Wine.
+[Wed Jan 02 18:19:58 2002] Vilissia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:19:58 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:19:59 2002] Liliun lights a firework.
+[Wed Jan 02 18:19:59 2002] Archeilus GMSAYS, 'pulling Cisneros'
+[Wed Jan 02 18:20:00 2002] Glug, glug, glug...  Aryel takes a swig of Fish Wine.
+[Wed Jan 02 18:20:00 2002] Glug, glug, glug...  Aryel takes a swig of Fish Wine.
+[Wed Jan 02 18:20:04 2002] Glug, glug, glug...  Aryel takes a swig of Fish Wine.
+[Wed Jan 02 18:20:05 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:20:07 2002] Players on EverQuest:
+[Wed Jan 02 18:20:07 2002] ---------------------------
+[Wed Jan 02 18:20:07 2002] [53 Illusionist] Liliun (High Elf) <Temple of Dawn>
+[Wed Jan 02 18:20:07 2002] There is 1 player in Temple of Solusek Ro.
+[Wed Jan 02 18:20:08 2002] Dubb says, 'hehe'
+[Wed Jan 02 18:20:11 2002] Grimolkin says, 'I like my knome medium rare '
+[Wed Jan 02 18:20:13 2002] Dubb pretends not to be nervous.
+[Wed Jan 02 18:20:14 2002] Devynn GMSAYS, 'ZONING...Passing through the veil of death....'
+[Wed Jan 02 18:20:17 2002] You told liliun, 'are you agnostic?'
+[Wed Jan 02 18:20:19 2002] Glug, glug, glug...  Fikten takes a swig of Short Ale.
+[Wed Jan 02 18:20:20 2002] Chomp, chomp, chomp...  Boxxer takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:20:22 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:20:22 2002] Solomen begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:20:22 2002] Liliun tells you, 'Yes'
+[Wed Jan 02 18:20:25 2002] You can no longer levitate.
+[Wed Jan 02 18:20:29 2002] Kayri auctions, 'here'
+[Wed Jan 02 18:20:34 2002] You told Liliun, 'heh okay'
+[Wed Jan 02 18:20:37 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:20:37 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:20:41 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:20:41 2002] Chomp, chomp, chomp...  Dryleaf takes a bite from a Berries.
+[Wed Jan 02 18:20:47 2002] Wallaren pulls out a marker and gets ready for orders...who wants the drum sticks?
+[Wed Jan 02 18:20:48 2002] You say, 'Friends, may I have your attention please?'
+[Wed Jan 02 18:20:49 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:20:53 2002] Wardan pokes himself.
+[Wed Jan 02 18:20:53 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:20:53 2002] Romar Sunto begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:20:57 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:21:00 2002] Roda begins to cast a spell. (Resurrection)
+[Wed Jan 02 18:21:01 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:21:08 2002] Sianne hugs Breezen.
+[Wed Jan 02 18:21:13 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:21:13 2002] Breezen hugs Sianne.
+[Wed Jan 02 18:21:16 2002] Archeilus GMSAYS, 'last name request do we just escalate them since you are here Esp?'
+[Wed Jan 02 18:21:25 2002] Anax begins to cast a spell. (Divine Might)
+[Wed Jan 02 18:21:26 2002] Nadini likes the drum sticks.
+[Wed Jan 02 18:21:28 2002] Devynn GMSAYS, 'Yeah, give Esp all the work! hehe'
+[Wed Jan 02 18:21:41 2002] Romar Sunto begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:21:41 2002] You say, 'Please be seated, and in respect to the couple here, and to Solusek Ro whose temple this is, please remove your weapons'
+[Wed Jan 02 18:21:45 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:21:45 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:21:49 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:21:57 2002] Vilissia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:21:57 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:21:57 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:22:00 2002] Roda begins to cast a spell. (Superior Healing)
+[Wed Jan 02 18:22:01 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:22:09 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:22:17 2002] Cobbyl says, 'Dont put it in a No Rent bag, Val :oP'
+[Wed Jan 02 18:22:18 2002] Darkrok begins to cast a spell. (Strength of Earth)
+[Wed Jan 02 18:22:26 2002] Darkrok disarms Valron.
+[Wed Jan 02 18:22:28 2002] Darkrok looks stronger.
+[Wed Jan 02 18:22:32 2002] You say, 'We are gathered here, in this place of fire, to celebrate another sort of fire, the fires of love.'
+[Wed Jan 02 18:22:33 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:22:33 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:22:33 2002] Cobbyl laffs.
+[Wed Jan 02 18:22:37 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:22:41 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:22:42 2002] Roda says out of character, 'Sianne,   we meet again.'
+[Wed Jan 02 18:22:45 2002] Vilissia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:22:45 2002] Genni begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:22:47 2002] Roda begins to cast a spell. (Superior Healing)
+[Wed Jan 02 18:22:49 2002] Ostorm begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:22:50 2002] Breezen shouts, 'RODA'
+[Wed Jan 02 18:22:50 2002] Sianne says out of character, 'hi roda )'
+[Wed Jan 02 18:22:59 2002] Cobbyl shouts, 'Sh...wedding is starting'
+[Wed Jan 02 18:23:02 2002] You say, 'And so it is very appropriate that Dubb and Luiliun have brought us here today, for today they forge their love in the fires unquenchable,'
+[Wed Jan 02 18:23:04 2002] Roda says out of character, 'Breezen, too? '
+[Wed Jan 02 18:23:09 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:23:24 2002] Nadini wipes a tear from her eye.
+[Wed Jan 02 18:23:31 2002] Anax burps.
+[Wed Jan 02 18:23:33 2002] You say, 'They quench it in water from the rains that fall on dtstant mountains'
+[Wed Jan 02 18:23:36 2002] Cobbyl begins to bawl uncontrollably.
+[Wed Jan 02 18:23:37 2002] Cephas keeps a straight face.
+[Wed Jan 02 18:23:38 2002] Glug, glug, glug...  Aryel takes a swig of Red Wine.
+[Wed Jan 02 18:23:38 2002] Devynn tells the guild, '<note> Colandayen went link dead while zoning into west commons, logged back on and died from falling, corpse was under the world, ressed him for bug death.'
+[Wed Jan 02 18:23:39 2002] Glug, glug, glug...  Aryel takes a swig of Red Wine.
+[Wed Jan 02 18:23:40 2002] Glug, glug, glug...  Aryel takes a swig of Red Wine.
+[Wed Jan 02 18:23:42 2002] Glug, glug, glug...  Aryel takes a swig of Red Wine.
+[Wed Jan 02 18:23:45 2002] Glug, glug, glug...  Aryel takes a swig of Red Wine.
+[Wed Jan 02 18:23:46 2002] Glug, glug, glug...  Aryel takes a swig of Red Wine.
+[Wed Jan 02 18:23:48 2002] Cobbyl smacks Cephas.
+[Wed Jan 02 18:23:48 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:23:52 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:23:52 2002] You say, 'and they create a thing from this noise and fury that will last when noise and fury are no more.'
+[Wed Jan 02 18:23:55 2002] Wallaren hands Cobbyl a hanky.
+[Wed Jan 02 18:23:56 2002] Genni begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:23:59 2002] Exidor wonders if the reception will be open bar.
+[Wed Jan 02 18:23:59 2002] Wardan bonks Cobbyl on the head!
+[Wed Jan 02 18:24:00 2002] Ostorm begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:24:03 2002] Cobbyl thanks Wallaren.
+[Wed Jan 02 18:24:12 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:24:13 2002] Various stares dreamily at Phycos, completely lost in his eyes.
+[Wed Jan 02 18:24:28 2002] a ward of ro begins to cast a spell. (FireElementalAura)
+[Wed Jan 02 18:24:30 2002] Cephas hugs Blaize the Radiant.
+[Wed Jan 02 18:24:31 2002] Archeilus GMSAYS, 'Escalating Cisneros ... Last Name Removal'
+[Wed Jan 02 18:24:46 2002] Breezen says, 'watcht it phycos she still looking for sacrifices'
+[Wed Jan 02 18:24:52 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:24:52 2002] Archeilus GMSAYS, 'pulling Trilesta'
+[Wed Jan 02 18:24:57 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:25:04 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:25:04 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:25:04 2002] Roda wonders if she'll get a date or the reception.
+[Wed Jan 02 18:25:08 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:25:14 2002] You say, 'Dubb, Daddy Bristlebane smiles upon you this day. You have spent a lifetime doing deeds of derring and mischief, and he wishes you only well from now on'
+[Wed Jan 02 18:25:24 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:25:25 2002] Dubb beams a smile at Espranza.
+[Wed Jan 02 18:25:28 2002] You say, 'and so he has bent your path toward the enchantress Liliun!'
+[Wed Jan 02 18:25:34 2002] Nadini wonders who daddy bristlebane is.
+[Wed Jan 02 18:25:36 2002] Vilissia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:25:36 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:25:36 2002] Solomen begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:25:36 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:25:52 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:26:04 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:26:04 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:26:08 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:26:10 2002] You say, 'Liliun, though you choose not to follow any of the higher powers of this land, still you have found a higher power to server nonetheless, that of love.'
+[Wed Jan 02 18:26:12 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:26:24 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:26:24 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:26:24 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:26:32 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:26:34 2002] You say, 'And so you have come here, both of you, to make public the commitment you have already shown one another.'
+[Wed Jan 02 18:26:44 2002] Glug, glug, glug...  Wallaren takes a swig of Summoned: Ale.
+[Wed Jan 02 18:26:58 2002] Nadini wipes more tears away with Dryleafs leaf.
+[Wed Jan 02 18:27:00 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:27:04 2002] a ward of ro begins to cast a spell. (FireElementalAura)
+[Wed Jan 02 18:27:12 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:27:16 2002] Vilissia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:27:16 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:27:17 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:27:20 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:27:20 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:27:24 2002] Chomp, chomp, chomp...  Cobbyl takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:27:26 2002] Kayri asks Dryleaf for a leaf.
+[Wed Jan 02 18:27:29 2002] Mazer wonders if that makes him Wetleaf now.
+[Wed Jan 02 18:27:36 2002] Glug, glug, glug...  Wallaren takes a swig of Summoned: Ale.
+[Wed Jan 02 18:27:40 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:27:40 2002] You say, 'Dubb, do you take Liliun as your honored wife, to have and to hold her, in peace and battle, sickness and health, and to follow her wherever she may roam, until death do you part?'
+[Wed Jan 02 18:27:41 2002] Dryleaf changes his name to wetleaf.
+[Wed Jan 02 18:27:48 2002] Aryel slips her hand into Sevin's.
+[Wed Jan 02 18:27:48 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:27:48 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:27:52 2002] Dubb says, 'I do =)'
+[Wed Jan 02 18:27:55 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:28:00 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:28:07 2002] Genni begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:28:10 2002] Nadini says, 'Awww :)'
+[Wed Jan 02 18:28:11 2002] Ostorm begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:28:13 2002] Dryleaf hands out dry leafs to all.
+[Wed Jan 02 18:28:21 2002] Boxxer starts to cry.
+[Wed Jan 02 18:28:22 2002] Devynn tells the guild, '<issue> Kostia <F361MB1> was the one trading with Mukarrn'
+[Wed Jan 02 18:28:23 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:28:25 2002] Evey wipes a tear from her cheek.
+[Wed Jan 02 18:28:25 2002] Mazer takes one.
+[Wed Jan 02 18:28:32 2002] Nadini now they all wet leaves for sure 
+[Wed Jan 02 18:28:35 2002] You say, 'Liliun, do you take Dubb as your honored husband, to have and to hold him, in peace and in battle, sickness and health, and to follow him where he may wander, until death do you part?'
+[Wed Jan 02 18:28:40 2002] Exidor begins to nod off again.
+[Wed Jan 02 18:28:44 2002] Liliun says, 'I do =)'
+[Wed Jan 02 18:29:01 2002] You say, 'And those friends who have come here today to witness these vows...'
+[Wed Jan 02 18:29:03 2002] Nadini says, 'Awwwww *sniff* :)'
+[Wed Jan 02 18:29:05 2002] Wallaren kicks Exidor.
+[Wed Jan 02 18:29:08 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:29:11 2002] Ostorm begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:29:12 2002] Edaena starts to cry.
+[Wed Jan 02 18:29:13 2002] Espranza saved.
+[Wed Jan 02 18:29:16 2002] Aryel tackles Sevin and tickles him.
+[Wed Jan 02 18:29:20 2002] Evey cries over Edaena.
+[Wed Jan 02 18:29:23 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:29:29 2002] You say, 'Do you promise to help Dubb and Liliun to keep these vows they have sworn with all your power, friendship, might and love?'
+[Wed Jan 02 18:29:34 2002] Nadini separates Aryel and Sevin.
+[Wed Jan 02 18:29:53 2002] Cobbyl says, 'I do - and a promise to keep Dubb away from the cake'
+[Wed Jan 02 18:29:54 2002] Nadini says, 'I promise'
+[Wed Jan 02 18:29:57 2002] Evey says, 'I do =)'
+[Wed Jan 02 18:29:58 2002] Hexian GMSAYS, 'Hello everyone, how are you all doing this fine evening?'
+[Wed Jan 02 18:29:58 2002] Phycos says, 'yup'
+[Wed Jan 02 18:29:59 2002] Renladarasstoe says, 'I do'
+[Wed Jan 02 18:30:03 2002] Mazer says, 'I do'
+[Wed Jan 02 18:30:03 2002] Aryel grabs Sevin's hand and won't let go.
+[Wed Jan 02 18:30:03 2002] Devynn GMSAYS, 'Hexian!'
+[Wed Jan 02 18:30:07 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:30:10 2002] You say, 'Yay!'
+[Wed Jan 02 18:30:11 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:30:11 2002] Fikten says, 'yep I do ) '
+[Wed Jan 02 18:30:11 2002] Ssolaria says, 'I do'
+[Wed Jan 02 18:30:15 2002] Wallaren says, 'i do'
+[Wed Jan 02 18:30:15 2002] a ward of ro begins to cast a spell. (FireElementalAura)
+[Wed Jan 02 18:30:16 2002] Dubb kicks Cobbyl.
+[Wed Jan 02 18:30:16 2002] Roda says, 'ditto'
+[Wed Jan 02 18:30:18 2002] Hexian GMSAYS, 'Hello Devynn'
+[Wed Jan 02 18:30:18 2002] Dryleaf says, 'just go to phycos away from dubb and they'll be fine'
+[Wed Jan 02 18:30:19 2002] Grimolkin says, 'I will also help '
+[Wed Jan 02 18:30:19 2002] Devynn GMSAYS, 'omw to get you Hexian'
+[Wed Jan 02 18:30:19 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:30:22 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:30:22 2002] Breezen says, 'i do'
+[Wed Jan 02 18:30:23 2002] Cobbyl says, 'Oww'
+[Wed Jan 02 18:30:23 2002] Lalo says, 'I do'
+[Wed Jan 02 18:30:23 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:30:23 2002] Wardan says, 'me too'
+[Wed Jan 02 18:30:25 2002] Nadini says, 'hehe'
+[Wed Jan 02 18:30:26 2002] Betelgeuse shouts, in an unknown tongue, 'sure I will help'
+[Wed Jan 02 18:30:33 2002] Hexian GMSAYS, 'okie dokie'
+[Wed Jan 02 18:30:36 2002] Cobbyl cheers at Dubb.
+[Wed Jan 02 18:30:37 2002] Cobbyl cheers at Liliun.
+[Wed Jan 02 18:30:38 2002] Kayri promises.
+[Wed Jan 02 18:30:38 2002] You say, 'Then by the power granted me by Daddy Bristlebane and all the lesser gods, I know pronounce you Husband and Wife!'
+[Wed Jan 02 18:30:39 2002] Cephas says, 'all prais inno...er.. uh.. i do...'
+[Wed Jan 02 18:30:39 2002] Archeilus GMSAYS, 'Evening Hexian'
+[Wed Jan 02 18:30:40 2002] Grimolkin bonks Betelgeuse on the head!
+[Wed Jan 02 18:30:43 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:30:43 2002] You say, 'You may kiss one another'
+[Wed Jan 02 18:30:45 2002] You no longer have a target.
+[Wed Jan 02 18:30:46 2002] Liliun cheers.
+[Wed Jan 02 18:30:46 2002] Roda giggles at Betelgeuse.
+[Wed Jan 02 18:30:46 2002] You cheer.
+[Wed Jan 02 18:30:48 2002] You feel the spirit of Z surround you.
+[Wed Jan 02 18:30:48 2002] You feel the spirit of Z surround you.
+[Wed Jan 02 18:30:49 2002] You feel the spirit of Z surround you.
+[Wed Jan 02 18:30:49 2002] Dubb blushes at Espranza.
+[Wed Jan 02 18:30:52 2002] Dubb cheers.
+[Wed Jan 02 18:30:52 2002] Darkrok cheers.
+[Wed Jan 02 18:30:56 2002] Vilissia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:30:56 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:30:56 2002] Solomen begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:30:56 2002] Gardern begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:30:56 2002] Nadini shouts, 'CHEERS!!!!!!'
+[Wed Jan 02 18:30:57 2002] Hexian GMSAYS, 'Greetings Archeilus'
+[Wed Jan 02 18:30:58 2002] Lalo gives a round of applause.
+[Wed Jan 02 18:30:58 2002] Liliun kisses Dubb.
+[Wed Jan 02 18:30:59 2002] Dubb stares dreamily at Liliun, completely lost in her eyes.
+[Wed Jan 02 18:30:59 2002] Renladarasstoe says, 'do we get to kill them if they break that promise'
+[Wed Jan 02 18:31:00 2002] Anax says, 'Mush'
+[Wed Jan 02 18:31:04 2002] Nadini claps happily for Liliun - hurray!
+[Wed Jan 02 18:31:05 2002] Liliun lights a firework.
+[Wed Jan 02 18:31:06 2002] Nadini cheers at Liliun.
+[Wed Jan 02 18:31:06 2002] Liliun hugs Dubb.
+[Wed Jan 02 18:31:06 2002] Cenena shouts, 'Cheer!!!'
+[Wed Jan 02 18:31:07 2002] Wallaren begins to cast a spell. (Eye of Zomm)
+[Wed Jan 02 18:31:08 2002] Naladiena claps her hands together - hurray!
+[Wed Jan 02 18:31:08 2002] Boxxer says out of character, 'Hip Hip'
+[Wed Jan 02 18:31:09 2002] Evey shouts, 'WOOOT GRATZ You two''
+[Wed Jan 02 18:31:10 2002] Phycos shouts, 'cheers the hobbit and the lady!'
+[Wed Jan 02 18:31:10 2002] Breezen cheers.
+[Wed Jan 02 18:31:11 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:31:11 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:12 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:12 2002] Cephas shouts, 'CONGRATS to the HAPPY COUPLE!!!'
+[Wed Jan 02 18:31:12 2002] Roda throws her runed circlet up in the air.
+[Wed Jan 02 18:31:12 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:13 2002] Grimolkin cheers at Dubb.
+[Wed Jan 02 18:31:13 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:13 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:14 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:14 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:15 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:16 2002] Liliun lights a firework.
+[Wed Jan 02 18:31:16 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:16 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:16 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:16 2002] Grimolkin cheers at Liliun.
+[Wed Jan 02 18:31:17 2002] Renladarasstoe cheers.
+[Wed Jan 02 18:31:17 2002] Dubb kisses Liliun.
+[Wed Jan 02 18:31:17 2002] Cenena shouts, 'Yay!!!'
+[Wed Jan 02 18:31:18 2002] Liliun stares dreamily at Dubb, completely lost in his eyes.
+[Wed Jan 02 18:31:18 2002] Nadini claps happily for Dubb - hurray!
+[Wed Jan 02 18:31:20 2002] Cenena cheers.
+[Wed Jan 02 18:31:20 2002] Nadini cheers at Dubb.
+[Wed Jan 02 18:31:22 2002] Roda shouts, 'WHOOOOT'
+[Wed Jan 02 18:31:23 2002] Aryel hugs and kisses Sevin.
+[Wed Jan 02 18:31:23 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:31:23 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:31:23 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:31:23 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:31:24 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:31:24 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:31:24 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:24 2002] Aryel hugs and kisses Sevin.
+[Wed Jan 02 18:31:24 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:31:24 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:31:24 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:31:24 2002] Aryel hugs and kisses Sevin.
+[Wed Jan 02 18:31:24 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:31:25 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:31:25 2002] Aryel hugs and kisses Sevin.
+[Wed Jan 02 18:31:25 2002] Glug, glug, glug...  Cobbyl takes a swig of Summoned: Ale.
+[Wed Jan 02 18:31:25 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:25 2002] Aryel hugs and kisses Sevin.
+[Wed Jan 02 18:31:26 2002] Aryel hugs and kisses Sevin.
+[Wed Jan 02 18:31:26 2002] Cenena cheers.
+[Wed Jan 02 18:31:26 2002] Valron cheers.
+[Wed Jan 02 18:31:26 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:27 2002] Grimolkin shouts, 'Woot!'
+[Wed Jan 02 18:31:27 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:27 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:31:28 2002] Valron cheers.
+[Wed Jan 02 18:31:28 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:28 2002] Valron cheers.
+[Wed Jan 02 18:31:29 2002] Valron cheers.
+[Wed Jan 02 18:31:29 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:30 2002] Valron cheers.
+[Wed Jan 02 18:31:30 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:30 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:31 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:31 2002] Zunii whoooooo hoooooo 
+[Wed Jan 02 18:31:31 2002] Dubb thanks Phycos heartily.
+[Wed Jan 02 18:31:31 2002] Valron cheers.
+[Wed Jan 02 18:31:32 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:32 2002] Glug, glug, glug...  Cenena takes a swig of Brandy.
+[Wed Jan 02 18:31:32 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:32 2002] Glug, glug, glug...  Cenena takes a swig of Brandy.
+[Wed Jan 02 18:31:32 2002] Glug, glug, glug...  Cenena takes a swig of Brandy.
+[Wed Jan 02 18:31:33 2002] Glug, glug, glug...  Cenena takes a swig of Brandy.
+[Wed Jan 02 18:31:33 2002] Glug, glug, glug...  Cenena takes a swig of Brandy.
+[Wed Jan 02 18:31:34 2002] Mazer cheers.
+[Wed Jan 02 18:31:34 2002] Glug, glug, glug...  Cenena takes a swig of Brandy.
+[Wed Jan 02 18:31:34 2002] Glug, glug, glug...  Cenena takes a swig of Brandy.
+[Wed Jan 02 18:31:34 2002] Valron cheers.
+[Wed Jan 02 18:31:34 2002] Chomp, chomp, chomp...  Renladarasstoe takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:31:35 2002] Romar Sunto begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:31:36 2002] Dryleaf wants his booze now.
+[Wed Jan 02 18:31:38 2002] Evey cheers at Liliun.
+[Wed Jan 02 18:31:38 2002] Aryel hugs and kisses Sevin.
+[Wed Jan 02 18:31:38 2002] You light a firework.
+[Wed Jan 02 18:31:38 2002] Aryel hugs and kisses Sevin.
+[Wed Jan 02 18:31:38 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:31:39 2002] Aryel hugs and kisses Sevin.
+[Wed Jan 02 18:31:41 2002] Darkrok begins to cast a spell. (Turtle Skin)
+[Wed Jan 02 18:31:43 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:31:43 2002] Glug, glug, glug...  Cenena takes a swig of Brandy.
+[Wed Jan 02 18:31:43 2002] Glug, glug, glug...  Cenena takes a swig of Brandy.
+[Wed Jan 02 18:31:43 2002] Boxxer gets in the kiss the bride line yet again...
+[Wed Jan 02 18:31:44 2002] Renladarasstoe says, 'well i ate toomuch'
+[Wed Jan 02 18:31:44 2002] Glug, glug, glug...  Cenena takes a swig of Brandy.
+[Wed Jan 02 18:31:45 2002] You say, 'Will either of you need your last name changed?'
+[Wed Jan 02 18:31:45 2002] Mazer cheers at Liliun.
+[Wed Jan 02 18:31:47 2002] Betelgeuse begins to cast a spell. (Eye of Zomm)
+[Wed Jan 02 18:31:50 2002] Renladarasstoe shouts, 'WHERE BEER'
+[Wed Jan 02 18:31:51 2002] Romar Sunto begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:31:51 2002] Darkrok's skin looks greener.
+[Wed Jan 02 18:31:53 2002] Liliun says, 'I am'
+[Wed Jan 02 18:31:54 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:31:56 2002] Valron shouts, 'Congrats to Dubb and Liliun!!!'
+[Wed Jan 02 18:31:56 2002] Mazer cheers at Dubb.
+[Wed Jan 02 18:31:57 2002] Glug, glug, glug...  Grimolkin takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:02 2002] Glug, glug, glug...  Grimolkin takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:03 2002] Ssolaria hugs Various.
+[Wed Jan 02 18:32:04 2002] Cobbyl shouts, 'Here, here!'
+[Wed Jan 02 18:32:04 2002] Nadini says, 'Change it to Miss Lilliuns Husband '
+[Wed Jan 02 18:32:06 2002] Renladarasstoe shouts, 'GRATS you two'
+[Wed Jan 02 18:32:07 2002] Vira begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:32:07 2002] You say, 'to O`Boyce?'
+[Wed Jan 02 18:32:11 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:32:11 2002] Roda says, 'that's sweet, Mr. Liliun'
+[Wed Jan 02 18:32:15 2002] Liliun says, 'Yes )'
+[Wed Jan 02 18:32:19 2002] Nadini says, 'hehe Mr Liliun '
+[Wed Jan 02 18:32:20 2002] Cobbyl says, 'Mr. Liliun?'
+[Wed Jan 02 18:32:21 2002] Chomp, chomp, chomp...  Linamar takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:32:21 2002] Chomp, chomp, chomp...  Linamar takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:32:22 2002] Chomp, chomp, chomp...  Linamar takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:32:23 2002] Sultin begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:32:24 2002] Chomp, chomp, chomp...  Linamar takes a bite from a Summoned: Cake.
+[Wed Jan 02 18:32:25 2002] Glug, glug, glug...  Linamar takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:26 2002] Liliun says, 'hehe'
+[Wed Jan 02 18:32:26 2002] Vilissia begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:32:26 2002] Joyce begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:32:26 2002] You have changed Liliun's last name to O`Boyce.
+[Wed Jan 02 18:32:27 2002] Glug, glug, glug...  Linamar takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:28 2002] Glug, glug, glug...  Linamar takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:30 2002] Glug, glug, glug...  Linamar takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:31 2002] Narina begins to cast a spell. (Bristlebane's Bundle)
+[Wed Jan 02 18:32:32 2002] Glug, glug, glug...  Grimolkin takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:33 2002] Dubb shouts, 'Thank you, Espranza, and everyone else.  You've made us very happy. :)'
+[Wed Jan 02 18:32:35 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:32:35 2002] Wallaren cheers.
+[Wed Jan 02 18:32:37 2002] Glug, glug, glug...  Wallaren takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:37 2002] Glug, glug, glug...  Wallaren takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:38 2002] Glug, glug, glug...  Wallaren takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:38 2002] Glug, glug, glug...  Wallaren takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:38 2002] Glug, glug, glug...  Wallaren takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:39 2002] Glug, glug, glug...  Grimolkin takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:39 2002] Cobbyl hugs Liliun.
+[Wed Jan 02 18:32:44 2002] Glug, glug, glug...  Grimolkin takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:45 2002] Cobbyl kicks Dubb.
+[Wed Jan 02 18:32:45 2002] You say, 'Congratulations, you two!'
+[Wed Jan 02 18:32:46 2002] Dubb begins to spin.
+[Wed Jan 02 18:32:50 2002] Glug, glug, glug...  Grimolkin takes a swig of Summoned: Ale.
+[Wed Jan 02 18:32:50 2002] a seeker begins to cast a spell. (Valor)
+[Wed Jan 02 18:32:52 2002] Liliun shouts, 'Thank you all <sniff>'
+[Wed Jan 02 18:32:52 2002] You say, 'I hope you are very happy together.'
+[Wed Jan 02 18:32:52 2002] Dubb says, 'woooooha'
+[Wed Jan 02 18:32:55 2002] Liliun thanks Espranza heartily.
+[Wed Jan 02 18:32:57 2002] Liliun bows before Espranza.
+[Wed Jan 02 18:32:58 2002] You no longer have a target.
+[Wed Jan 02 18:32:58 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:32:59 2002] You wave goodbye to everyone.
+[Wed Jan 02 18:33:01 2002] You GMSAY, 'zone'
+[Wed Jan 02 18:33:02 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:33:03 2002] a keeper begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jan 02 18:33:03 2002] Phycos shouts, 'cheer some more.'
+[Wed Jan 02 18:33:05 2002] Glug, glug, glug...  Edaena takes a swig of Brandy.
+[Wed Jan 02 18:33:05 2002] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Wed Jan 02 18:33:05 2002] Your Belt of Translocation begins to glow.
+[Wed Jan 02 18:33:05 2002] Dubb thanks Betelgeuse heartily.
+[Wed Jan 02 18:33:06 2002] Narina says, 'Dropping Cake Ale and Fireworks'
+[Wed Jan 02 18:33:06 2002] Glug, glug, glug...  Edaena takes a swig of Brandy.
+[Wed Jan 02 18:33:06 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 18:33:28 2002] You have entered Sunset Home.
+[Wed Jan 02 18:33:34 2002] Players in EverQuest:
+[Wed Jan 02 18:33:34 2002] ---------------------------
+[Wed Jan 02 18:33:34 2002] [58 Blackguard] Dubb (Halfling) <Temple of Dawn> ZONE: soltemple (USER PID FQ772T3)
+[Wed Jan 02 18:33:34 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:33:39 2002] It begins to rain.
+[Wed Jan 02 18:33:42 2002] Players in EverQuest:
+[Wed Jan 02 18:33:42 2002] ---------------------------
+[Wed Jan 02 18:33:42 2002] [53 Illusionist] Liliun (High Elf) <Temple of Dawn> ZONE: soltemple (USER PID EU5304H)
+[Wed Jan 02 18:33:42 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:33:53 2002] Exidor tells you, 'Hey what about our date?   hehe'
+[Wed Jan 02 18:34:05 2002] You GMSAY, '<note> Married Dubb FQ772T3 and Liliun EU5304H'
+[Wed Jan 02 18:34:07 2002] Hexian GMSAYS, 'pulling broo'
+[Wed Jan 02 18:34:08 2002] Psychlos tells you, 'i petitioned but nuthing'
+[Wed Jan 02 18:34:18 2002] You told Exidor, 'In the temple of Lagosek Ro?'
+[Wed Jan 02 18:34:21 2002] You feel the spirit of Norrath enter you.
+[Wed Jan 02 18:34:38 2002] Exidor tells you, 'good point'
+[Wed Jan 02 18:34:53 2002] Hexian GMSAYS, 'escalating broo (harassment, of a sort)'
+[Wed Jan 02 18:34:59 2002] You GMSAY, '<note name> Lilun EU5304H granted the name of her husband, O`Boyce'
+[Wed Jan 02 18:35:13 2002] You GMSAY, 'hiya all who came in during the wedding )'
+[Wed Jan 02 18:35:14 2002] Players in EverQuest:
+[Wed Jan 02 18:35:14 2002] ---------------------------
+[Wed Jan 02 18:35:14 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Wed Jan 02 18:35:14 2002] * Guide *[52 Disciple] Devynn (Human) <Keepers of Dreams> ZONE: rivervale (USER PID BUGCNEC)
+[Wed Jan 02 18:35:14 2002] * Apprentice Guide *[20 Druid] Hexian (Wood Elf) ZONE: rivervale (USER PID F4PGZAE)
+[Wed Jan 02 18:35:14 2002] * Apprentice Guide *[20 Bard] Archeilus (Human) ZONE: fieldofbone (USER PID BRM4BGJ)
+[Wed Jan 02 18:35:14 2002] There are 4 players in EverQuest.
+[Wed Jan 02 18:35:22 2002] Archeilus GMSAYS, 'any cake left over?'
+[Wed Jan 02 18:35:30 2002] Hexian GMSAYS, 'pulling daevdien'
+[Wed Jan 02 18:35:32 2002] You GMSAY, 'they had a mage summoning stuff'
+[Wed Jan 02 18:35:32 2002] Devynn GMSAYS, 'Dearly Beslutted, we are gathered here today....'
+[Wed Jan 02 18:35:43 2002] Archeilus GMSAYS, 'ahh the cheap cake ;)'
+[Wed Jan 02 18:35:51 2002] You GMSAY, 'someone on Psychios?'
+[Wed Jan 02 18:35:59 2002] Devynn GMSAYS, 'just got esced up'
+[Wed Jan 02 18:36:01 2002] Archeilus GMSAYS, 'yes m'am'
+[Wed Jan 02 18:36:02 2002] Devynn GMSAYS, 'I think'
+[Wed Jan 02 18:36:05 2002] You GMSAY, 'impatient nits.'
+[Wed Jan 02 18:36:09 2002] You GMSAY, 'ahem. sorry.'
+[Wed Jan 02 18:36:10 2002] Devynn GMSAYS, 'oh, no that was Broo'
+[Wed Jan 02 18:36:12 2002] Archeilus GMSAYS, 'he hasnt responded yet'
+[Wed Jan 02 18:36:24 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 18:36:26 2002] USER TEXT: Can i get my last name removed pls
+[Wed Jan 02 18:36:26 2002] Players in EverQuest:
+[Wed Jan 02 18:36:26 2002] ---------------------------
+[Wed Jan 02 18:36:26 2002] [55 Master] Cisneros (Human) <Altruistic Valorians> ZONE: maiden (USER PID HQ0K4TL)
+[Wed Jan 02 18:36:26 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:37:13 2002] You GMSAY, '<note gm> Headed to Maiden's Eye to remove a last name'
+[Wed Jan 02 18:37:17 2002] You GMSAY, 'zone'
+[Wed Jan 02 18:37:23 2002] Teleporting to cisneros.
+[Wed Jan 02 18:37:23 2002] Archeilus GMSAYS, 'Psychlos Unavailble x1'
+[Wed Jan 02 18:37:24 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 18:38:10 2002] You have entered The Maiden's Eye.
+[Wed Jan 02 18:38:15 2002] Hexian GMSAYS, 'deleting daevdien (resolved)'
+[Wed Jan 02 18:38:22 2002] Archeilus GMSAYS, 'pulling Mohon'
+[Wed Jan 02 18:38:28 2002] Players in EverQuest:
+[Wed Jan 02 18:38:28 2002] ---------------------------
+[Wed Jan 02 18:38:28 2002] [55 Master] Cisneros (Human) <Altruistic Valorians> ZONE: maiden (USER PID HQ0K4TL)
+[Wed Jan 02 18:38:28 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:38:34 2002] Hexian GMSAYS, 'pulling thumpre'
+[Wed Jan 02 18:38:34 2002] Nizinki begins to cast a spell. (Overwhelming Splendor)
+[Wed Jan 02 18:38:39 2002] You have changed Cisneros's last name to .
+[Wed Jan 02 18:38:43 2002] Teleporting to cisneros.
+[Wed Jan 02 18:38:49 2002] You GMSAY, 'zone'
+[Wed Jan 02 18:38:52 2002] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Wed Jan 02 18:38:52 2002] Your Belt of Translocation begins to glow.
+[Wed Jan 02 18:38:54 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 18:39:16 2002] You have entered Sunset Home.
+[Wed Jan 02 18:39:24 2002] GM TEXT: Archeilus: Cisneros would like to have his last name removed, Says it is to long with his guild name.
+[Wed Jan 02 18:39:26 2002] Devynn GMSAYS, 'Broo is mine, camping to chat to verify a report'
+[Wed Jan 02 18:39:44 2002] You told Cisneros, 'Hail, Cisneros! Senior Guide Espranza here. I removed your last name for you!'
+[Wed Jan 02 18:39:49 2002] Cisneros tells you, 'thank u!'
+[Wed Jan 02 18:39:54 2002] You told Cisneros, 'sure thing'
+[Wed Jan 02 18:40:10 2002] Cisneros tells you, 'thanks much )'
+[Wed Jan 02 18:40:10 2002] You GMSAY, '<note name> Cisneros HQ0K4TL last name removed by request.'
+[Wed Jan 02 18:40:14 2002] DELETING THIS PETITION
+[Wed Jan 02 18:40:17 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 18:40:18 2002] USER TEXT: i died in the water and i have no idea of where my corpse is
+[Wed Jan 02 18:40:18 2002] Players in EverQuest:
+[Wed Jan 02 18:40:18 2002] ---------------------------
+[Wed Jan 02 18:40:18 2002] [29 Shaman] Psychlos (Barbarian) ZONE: lakerathe (USER PID FYK9CMJ)
+[Wed Jan 02 18:40:18 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:40:22 2002] UNDOING CHECK OUT
+[Wed Jan 02 18:40:28 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 18:40:28 2002] USER TEXT: My fiance and I were hoping to be able to get hitched in the next couple of hours, I talked to a gm about a week ago, said to petition about an hour before. Wanted wedding in solosek temple. Awaiting an answer )
+[Wed Jan 02 18:40:28 2002] Players in EverQuest:
+[Wed Jan 02 18:40:28 2002] ---------------------------
+[Wed Jan 02 18:40:28 2002] [53 Illusionist] Liliun (High Elf) <Temple of Dawn> ZONE: soltemple (USER PID EU5304H)
+[Wed Jan 02 18:40:28 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:40:48 2002] DELETING THIS PETITION
+[Wed Jan 02 18:40:51 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 18:40:58 2002] USER TEXT: why are the graphics all messed up on the boat
+[Wed Jan 02 18:40:58 2002] Players in EverQuest:
+[Wed Jan 02 18:40:58 2002] ---------------------------
+[Wed Jan 02 18:40:58 2002] [1 Paladin] Anigmas (High Elf) ZONE: oot (USER PID HVQWYG5)
+[Wed Jan 02 18:40:58 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:41:12 2002] UNDOING CHECK OUT
+[Wed Jan 02 18:41:14 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 18:41:14 2002] USER TEXT: I wish to use the surname Javelin but it is rejected
+[Wed Jan 02 18:41:15 2002] Players in EverQuest:
+[Wed Jan 02 18:41:15 2002] ---------------------------
+[Wed Jan 02 18:41:15 2002] [ANON (35 Rogue)] Sargh (Dark Elf) ZONE: shadowhaven (USER PID DQPGXW4)
+[Wed Jan 02 18:41:15 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:41:44 2002] You told Sargh, 'Hail, Sargh! Senior Guide Espranza here. You want Javelin as a last name?'
+[Wed Jan 02 18:41:57 2002] Sargh tells you, 'Greetings, aye'
+[Wed Jan 02 18:42:18 2002] You told Sargh, 'okay - don't run off - coming to you'
+[Wed Jan 02 18:42:20 2002] You GMSAY, 'zone'
+[Wed Jan 02 18:42:24 2002] Teleporting to sargh.
+[Wed Jan 02 18:42:25 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 18:43:22 2002] You have entered Shadow Haven.
+[Wed Jan 02 18:43:38 2002] Sargh bows before Espranza.
+[Wed Jan 02 18:43:44 2002] You have changed Sargh's last name to Javelin.
+[Wed Jan 02 18:44:00 2002] Hexian GMSAYS, 'psychlos is back online, and sending me tells'
+[Wed Jan 02 18:44:06 2002] Sargh thanks Espranza heartily.
+[Wed Jan 02 18:44:08 2002] Hexian GMSAYS, 'pulling coldeyez'
+[Wed Jan 02 18:44:14 2002] You say, 'there ya go!'
+[Wed Jan 02 18:44:16 2002] Archeilus GMSAYS, 'pulling Cilnyilea'
+[Wed Jan 02 18:44:21 2002] Sargh says, 'Thank you milady'
+[Wed Jan 02 18:44:34 2002] You GMSAY, '<note name> Sargh DQPGXW4 granted last name Javelin'
+[Wed Jan 02 18:44:37 2002] You bow before Sargh.
+[Wed Jan 02 18:44:47 2002] Talor says 'Don't you Dark Elves have your own merchants?  Whatever, I'm not selling anything to you!'
+[Wed Jan 02 18:44:50 2002] Verte says 'Don't you Dark Elves have your own merchants?  Whatever, I'm not selling anything to you!'
+[Wed Jan 02 18:44:58 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:45:04 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:45:05 2002] You no longer have a target.
+[Wed Jan 02 18:45:06 2002] You no longer have a target.
+[Wed Jan 02 18:45:08 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:45:17 2002] Spell particle effects are currently OFF.
+[Wed Jan 02 18:45:19 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:45:28 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:45:38 2002] Spell particle effects are currently ON.
+[Wed Jan 02 18:45:40 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:45:49 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:45:53 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:45:57 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:46:02 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:46:06 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:46:10 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:46:12 2002] Kilvar tells you, 'Hi, sorry, to bother you, but is Zelorxia the GM for this server?'
+[Wed Jan 02 18:46:13 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:46:19 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:46:32 2002] You told Kilvar, 'no, Lirus is'
+[Wed Jan 02 18:46:35 2002] You are no longer invigorated.
+[Wed Jan 02 18:46:39 2002] Bubdar says out of character, 'Donating for TP/TL to WC area'
+[Wed Jan 02 18:46:39 2002] Archeilus GMSAYS, 'Esp if a player turns in their Book of Discord by accident, is there a way they can get it reset?'
+[Wed Jan 02 18:46:40 2002] DELETING THIS PETITION
+[Wed Jan 02 18:46:54 2002] Kilvar tells you, 'darn, any idea what server she is on? LOL'
+[Wed Jan 02 18:46:57 2002] Ganbaba was injured by falling.
+[Wed Jan 02 18:47:12 2002] You GMSAY, 'Petition for Lirus or send them to Contact Your GM. Actually, I think she wants all PK switch resets done via email nowadays.'
+[Wed Jan 02 18:47:24 2002] Archeilus GMSAYS, 'okay dokey'
+[Wed Jan 02 18:47:32 2002] You told Kilvar, 'She's on holiday right now, we expect her back tomorrow.'
+[Wed Jan 02 18:47:43 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 18:47:44 2002] USER TEXT: entering field of bone zone and falling in blue space to my death. no body insight on rentry
+[Wed Jan 02 18:47:44 2002] Players in EverQuest:
+[Wed Jan 02 18:47:44 2002] ---------------------------
+[Wed Jan 02 18:47:44 2002] [10 Warrior] Mohon (Iksar) <Wraith Lords> ZONE: fieldofbone (USER PID A5RDV99)
+[Wed Jan 02 18:47:44 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:47:52 2002] Searching zones for corpse of that name....
+[Wed Jan 02 18:47:53 2002] Corpse: Mohon's corpse0 in zone: fieldofbone
+[Wed Jan 02 18:47:55 2002] You GMSAY, 'zone'
+[Wed Jan 02 18:48:01 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 18:48:54 2002] Devynn tells the guild, 'Esp, you have the appies?'
+[Wed Jan 02 18:48:59 2002] You have entered Field of Bone.
+[Wed Jan 02 18:49:05 2002] You say to your guild, 'no'
+[Wed Jan 02 18:49:08 2002] Zelark shouts, 'JOIN MY GUILD IM AT THE PIT II WILL MAKE U AN OFFICER '
+[Wed Jan 02 18:49:09 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 18:49:16 2002] Meron begins to cast a spell. (Flame Bolt)
+[Wed Jan 02 18:49:23 2002] Meron begins to cast a spell. (Flame Bolt)
+[Wed Jan 02 18:49:23 2002] You are no longer invigorated.
+[Wed Jan 02 18:49:24 2002] Devynn tells the guild, 'kk'
+[Wed Jan 02 18:49:25 2002] Hexian GMSAYS, 'Invite me now'
+[Wed Jan 02 18:49:27 2002] Phuzzi says out of character, 'so I can be the president of nothin'
+[Wed Jan 02 18:49:31 2002] Meron begins to cast a spell. (Flame Bolt)
+[Wed Jan 02 18:49:34 2002] Devynn GMSAYS, 'ZONING...Passing through the veil of death....'
+[Wed Jan 02 18:49:37 2002] Teleporting to mohon's corpse0.
+[Wed Jan 02 18:49:51 2002] You told Mohon, 'Hail, Mohon! Senior Guide Espranza here. Ready for a rez?'
+[Wed Jan 02 18:50:05 2002] Torturedfantasy says out of character, 'what kind of guild '
+[Wed Jan 02 18:50:26 2002] Players in EverQuest:
+[Wed Jan 02 18:50:26 2002] ---------------------------
+[Wed Jan 02 18:50:26 2002] [10 Warrior] Mohon (Iksar) <Wraith Lords> ZONE: fieldofbone (USER PID A5RDV99)
+[Wed Jan 02 18:50:26 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:50:28 2002] Mohon tells you, 'yes please'
+[Wed Jan 02 18:51:02 2002] Archeilus GMSAYS, '<NOTE GM> Cilynyilea (C4URZYS) accidently changed herself to Player Killer and would like to know a way to return back to the path of rightous.  Had her email Lirus.'
+[Wed Jan 02 18:51:06 2002] You say, 'loot up, and I'll get you out.'
+[Wed Jan 02 18:51:26 2002] Devynn GMSAYS, 'What's Thumpre?'
+[Wed Jan 02 18:51:37 2002] Hexian GMSAYS, 'vender reset i think'
+[Wed Jan 02 18:52:00 2002] Devynn GMSAYS, 'ZONING...Passing through the veil of death....'
+[Wed Jan 02 18:52:10 2002] Teleporting to a_heartsting_scorpion13 (238.00, 142.00, -36.80).
+[Wed Jan 02 18:52:15 2002] Summoning mohon.
+[Wed Jan 02 18:52:26 2002] Mohon bows before Espranza.
+[Wed Jan 02 18:52:36 2002] Archeilus GMSAYS, 'pulling Roanon'
+[Wed Jan 02 18:52:42 2002] You GMSAY, '<note> Mohon A5RDV99 fell beneath the world and died; rezzed him.'
+[Wed Jan 02 18:52:44 2002] You bow before Mohon.
+[Wed Jan 02 18:52:46 2002] You say, 'be well!'
+[Wed Jan 02 18:52:51 2002] DELETING THIS PETITION
+[Wed Jan 02 18:52:51 2002] Mohon tells you, 'how did i get out here?'
+[Wed Jan 02 18:52:56 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 18:52:57 2002] USER TEXT: i died in the water and i have no idea of where my corpse is
+[Wed Jan 02 18:52:57 2002] Players in EverQuest:
+[Wed Jan 02 18:52:57 2002] ---------------------------
+[Wed Jan 02 18:52:57 2002] [29 Shaman] Psychlos (Barbarian) ZONE: southkarana (USER PID FYK9CMJ)
+[Wed Jan 02 18:52:57 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:53:02 2002] Mohon nods at Espranza.
+[Wed Jan 02 18:53:06 2002] Torturedfantasy says out of character, 'make petioners do quest to join ect ect '
+[Wed Jan 02 18:53:08 2002] You told Mohon, 'magic guide powers...'
+[Wed Jan 02 18:53:16 2002] Mohon tells you, '??'
+[Wed Jan 02 18:53:21 2002] Zelark shouts, 'after its made'
+[Wed Jan 02 18:53:21 2002] Phuzzi says out of character, 'pay them'
+[Wed Jan 02 18:53:38 2002] Sizzlyik auctions, 'WTB Wu's cloak and belt'
+[Wed Jan 02 18:53:41 2002] Searching zones for corpse of that name....
+[Wed Jan 02 18:53:41 2002] Corpse: Psychlos's corpse0 in zone: lakerathe
+[Wed Jan 02 18:53:44 2002] You GMSAY, 'zone'
+[Wed Jan 02 18:53:48 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 18:54:22 2002] Dyce shouts, 'where are you?'
+[Wed Jan 02 18:54:28 2002] You have entered Lake Rathetear.
+[Wed Jan 02 18:54:36 2002] Devynn GMSAYS, 'Misty thicket'
+[Wed Jan 02 18:54:55 2002] Hexian GMSAYS, 'oh oh oh thats where i am headed'
+[Wed Jan 02 18:55:10 2002] Mohon tells you, 'could u possably do that again? pls'
+[Wed Jan 02 18:55:20 2002] You told Mohon, 'you fell there again?'
+[Wed Jan 02 18:55:22 2002] Searching zones for corpse of that name....
+[Wed Jan 02 18:55:22 2002] Corpse: Mohon's corpse0 in zone: fieldofbone
+[Wed Jan 02 18:55:27 2002] Lymm says, 'luvly shade of toe nail paint me lady'
+[Wed Jan 02 18:55:30 2002] You told Mohon, 'or you didn't finish looting...'
+[Wed Jan 02 18:55:37 2002] Hexian GMSAYS, 'Okay this person has bad graphics problems while on boats.... note this as a bug, or is there a simply fix for this?'
+[Wed Jan 02 18:55:39 2002] You say, 'thankee'
+[Wed Jan 02 18:55:48 2002] Devynn GMSAYS, 'note as bug, never heard of it'
+[Wed Jan 02 18:55:50 2002] You GMSAY, 'send them to tech support'
+[Wed Jan 02 18:55:50 2002] Mohon tells you, 'no bad skell killed me apon rentry'
+[Wed Jan 02 18:56:13 2002] Archeilus GMSAYS, 'Escalating Roanon, Merchant reset requires in West Karana: Gindlin Toxfodder but is unavailable'
+[Wed Jan 02 18:56:15 2002] Eradikkater tells you, 'you didn't just kill my gnome Rykas did you?? I don't see him here...'
+[Wed Jan 02 18:56:28 2002] You told Eradikkater, 'nooo.... I didn't kill anything'
+[Wed Jan 02 18:56:31 2002] Hexian GMSAYS, 'Okay, I hadn't heard of this, but I thought I would ask before sending them to re-install zone files, and then going to tech support if that didn't help'
+[Wed Jan 02 18:56:45 2002] Eradikkater tells you, 'I hear him casting, must be near :)'
+[Wed Jan 02 18:56:46 2002] You GMSAY, 'or ask them to reboot'
+[Wed Jan 02 18:57:04 2002] Teleporting to psychlos's corpse0.
+[Wed Jan 02 18:57:09 2002] Searching zones for corpse of that name....
+[Wed Jan 02 18:57:17 2002] Archeilus GMSAYS, 'pulling Eltoponoir'
+[Wed Jan 02 18:57:17 2002] USER TEXT: i died in the water and i have no idea of where my corpse is
+[Wed Jan 02 18:57:30 2002] Searching zones for corpse of that name....
+[Wed Jan 02 18:57:45 2002] You told Psychlos, 'Hail, Psychlos! Senior Guide Espranza here. Were you able to find your corpse?'
+[Wed Jan 02 18:57:54 2002] Psychlos tells you, 'yes thank you'
+[Wed Jan 02 18:57:57 2002] Archeilus GMSAYS, 'man they need to implement /alias for names ;P'
+[Wed Jan 02 18:58:11 2002] You told Psychlos, 'wonderful - I came here to look for it but couldn't find it!'
+[Wed Jan 02 18:58:13 2002] You told Psychlos, 'be well.'
+[Wed Jan 02 18:58:16 2002] DELETING THIS PETITION
+[Wed Jan 02 18:58:23 2002] Psychlos tells you, 'as of you )'
+[Wed Jan 02 18:58:28 2002] Lymm begins to cast a spell. (Sense the Dead)
+[Wed Jan 02 18:58:38 2002] Archeilus GMSAYS, 'Lirus to be back on the 3rd (tomorrow) correct?'
+[Wed Jan 02 18:58:48 2002] You told Mohon, 'I'm sorry; the whole place as dangerous. At least you'll be able to get your corpse...'
+[Wed Jan 02 18:58:58 2002] You GMSAY, 'I guess.'
+[Wed Jan 02 18:59:12 2002] You GMSAY, 'we asked her where she was, no reply...'
+[Wed Jan 02 18:59:20 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 18:59:30 2002] USER TEXT: gindlin toxfodder merchant in WK is missing from his usual spot
+[Wed Jan 02 18:59:30 2002] Players in EverQuest:
+[Wed Jan 02 18:59:30 2002] ---------------------------
+[Wed Jan 02 18:59:30 2002] [35 Rogue] Rhyll (Half Elf) <Light and Dark Alliance> ZONE: sro (USER PID DQJEBG9)
+[Wed Jan 02 18:59:30 2002] There is 1 player in EverQuest.
+[Wed Jan 02 18:59:30 2002] Archeilus GMSAYS, 'probably enjoying life ;)'
+[Wed Jan 02 18:59:41 2002] Psychlos begins to cast a spell. (Regeneration)
+[Wed Jan 02 18:59:50 2002] Psychlos begins to cast a spell. (Raging Strength)
+[Wed Jan 02 18:59:51 2002] You GMSAY, 'zone'
+[Wed Jan 02 18:59:56 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 19:00:38 2002] Devynn tells the guild, '<bug> Katha_Firespinner00 was out of place, could not get her back in place, had to /kill her'
+[Wed Jan 02 19:00:45 2002] You have entered Western Plains of Karana.
+[Wed Jan 02 19:00:46 2002] Eradikkater tells you, 'I don't suppose I could get you to reset him, since you are here already :)'
+[Wed Jan 02 19:00:59 2002] Hexian GMSAYS, 'pulling cholla'
+[Wed Jan 02 19:01:02 2002] Devynn GMSAYS, 'Esp! You yellow vendor reseting petiton stealer!'
+[Wed Jan 02 19:01:05 2002] You told Eradikkater, 'I'm no longer there actually; petition...'
+[Wed Jan 02 19:01:09 2002] Players in EverQuest:
+[Wed Jan 02 19:01:09 2002] ---------------------------
+[Wed Jan 02 19:01:09 2002] * Apprentice Guide *[20 Druid] Hexian (Wood Elf) ZONE: misty (USER PID F4PGZAE)
+[Wed Jan 02 19:01:09 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: qey2hh1 (USER PID B4KJ6E7)
+[Wed Jan 02 19:01:09 2002] * Guide *[52 Disciple] Devynn (Human) <Keepers of Dreams> ZONE: ecommons (USER PID BUGCNEC)
+[Wed Jan 02 19:01:09 2002] * Apprentice Guide *[20 Bard] Archeilus (Human) ZONE: firiona (USER PID BRM4BGJ)
+[Wed Jan 02 19:01:09 2002] There are 4 players in EverQuest.
+[Wed Jan 02 19:01:13 2002] Archeilus GMSAYS, 'Pulling Puxan'
+[Wed Jan 02 19:01:20 2002] You GMSAY, 'um, this was yours?'
+[Wed Jan 02 19:01:20 2002] Eradikkater tells you, 'ok, thanks anyway.'
+[Wed Jan 02 19:01:43 2002] You GMSAY, 'you can have it, I was gonna grab some appies to help though'
+[Wed Jan 02 19:01:50 2002] Devynn GMSAYS, 'lol, no, it's ok'
+[Wed Jan 02 19:01:57 2002] Devynn GMSAYS, 'just joking hun :)'
+[Wed Jan 02 19:01:58 2002] Archeilus GMSAYS, 'escalating Puxan, KS'ing'
+[Wed Jan 02 19:02:07 2002] Hexian GMSAYS, 'you guys are in Firiona right?'
+[Wed Jan 02 19:02:07 2002] Devynn GMSAYS, 'I get a fun one'
+[Wed Jan 02 19:02:09 2002] You GMSAY, 'see? you would have missed a KS petition'
+[Wed Jan 02 19:02:15 2002] You GMSAY, 'you know you would have hated that'
+[Wed Jan 02 19:02:16 2002] Archeilus GMSAYS, 'I am'
+[Wed Jan 02 19:02:17 2002] Devynn GMSAYS, 'Bah! :P'
+[Wed Jan 02 19:02:23 2002] Kazap says out of character, '9 wizzy lfg'
+[Wed Jan 02 19:02:29 2002] Hexian GMSAYS, 'Do you see the soulbinder around there?'
+[Wed Jan 02 19:02:37 2002] Devynn GMSAYS, 'Anon and invis for investigation'
+[Wed Jan 02 19:02:37 2002] Archeilus GMSAYS, 'want me to look?'
+[Wed Jan 02 19:02:48 2002] Devynn GMSAYS, 'ZONING...Passing through the veil of death....'
+[Wed Jan 02 19:02:52 2002] Hexian GMSAYS, 'I just got a petition that is wasn't there'
+[Wed Jan 02 19:03:14 2002] You GMSAY, 'Archeilus or Hexian, want to reset this vendor?'
+[Wed Jan 02 19:03:22 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:03:27 2002] Hexian GMSAYS, 'I will, he just went LD'
+[Wed Jan 02 19:03:29 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:03:35 2002] You GMSAY, 'heh... say zone'
+[Wed Jan 02 19:03:36 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:03:43 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:03:45 2002] Hexian GMSAYS, 'yeah let me tell this person first'
+[Wed Jan 02 19:03:48 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:03:58 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:04:05 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:04:16 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:04:21 2002] Hexian GMSAYS, 'deleting cholla... and then Zoning'
+[Wed Jan 02 19:04:27 2002] Devynn GMSAYS, 'oh fun, AC camp KSing'
+[Wed Jan 02 19:04:29 2002] You are no longer invigorated.
+[Wed Jan 02 19:04:33 2002] Hexian GMSAYS, 'ouch'
+[Wed Jan 02 19:04:52 2002] Summoning hexian.
+[Wed Jan 02 19:04:54 2002] Kazap says out of character, 'anyone seeking ghoul messenger?'
+[Wed Jan 02 19:05:12 2002] Devynn GMSAYS, '54 mage vs 51 sk'
+[Wed Jan 02 19:05:46 2002] You say, 'okay, pull roanon'
+[Wed Jan 02 19:05:49 2002] UNDOING CHECK OUT
+[Wed Jan 02 19:06:00 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:06:05 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:06:17 2002] Hexian GMSAYS, 'My guild spent a week there in Sro camping AC, we only only got 2 pairs of Jboot we were KSed so much'
+[Wed Jan 02 19:06:18 2002] You are no longer invigorated.
+[Wed Jan 02 19:06:30 2002] You say, 'now, mister future guide, tell me what you would do if you were a full guide.'
+[Wed Jan 02 19:06:30 2002] Archeilus GMSAYS, 'back *glares at his connection*'
+[Wed Jan 02 19:06:32 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:06:37 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:06:43 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:06:56 2002] You say, 'if you need to use any guide commands, just tell me and I'll do the,.'
+[Wed Jan 02 19:06:58 2002] You are no longer invigorated.
+[Wed Jan 02 19:06:59 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:07:03 2002] Archeilus GMSAYS, 'Pulling Barqis'
+[Wed Jan 02 19:07:04 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:07:09 2002] Hexian says, 'I would /goto gindlin toxfodder00'
+[Wed Jan 02 19:07:09 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:07:21 2002] Hexian says, 'i think that is it'
+[Wed Jan 02 19:07:22 2002] You are no longer invigorated.
+[Wed Jan 02 19:07:22 2002] You say, 'underscore between the names...'
+[Wed Jan 02 19:07:28 2002] Hexian says, 'oh yeah'
+[Wed Jan 02 19:07:31 2002] Hexian says, 'that too'
+[Wed Jan 02 19:07:34 2002] Teleporting to gindlin_toxfodder00.
+[Wed Jan 02 19:07:37 2002] Summoning hexian.
+[Wed Jan 02 19:07:51 2002] You say, 'Well, there he is. Now what?'
+[Wed Jan 02 19:07:51 2002] Hexian waves at Gindlin Toxfodder.
+[Wed Jan 02 19:08:06 2002] Hexian says, 'memory blur first, to see if that works'
+[Wed Jan 02 19:08:16 2002] Gindlin Toxfodder blinks a few times.
+[Wed Jan 02 19:08:24 2002] You say, 'using guide arms'
+[Wed Jan 02 19:08:28 2002] You say, 'but no effect'
+[Wed Jan 02 19:08:39 2002] You look at Gindlin Toxfodder, completely puzzled.
+[Wed Jan 02 19:08:41 2002] Hexian says, 'So now we need to know where he goes'
+[Wed Jan 02 19:08:48 2002] Hexian says, 'You know?'
+[Wed Jan 02 19:08:52 2002] You say, 'well as a rogue... yeah'
+[Wed Jan 02 19:09:11 2002] Hexian says, 'your too fast for me'
+[Wed Jan 02 19:09:14 2002] Hexian says, 'hehehe'
+[Wed Jan 02 19:09:15 2002] You say, 'he lives in this hut'
+[Wed Jan 02 19:09:26 2002] Teleporting to Gindlin_Toxfodder00 (-2881.00, -12980.00,  36.01).
+[Wed Jan 02 19:09:39 2002] Summoning hexian.
+[Wed Jan 02 19:09:42 2002] Hexian says, 'So cancel magic X2 on him them memory blur a bunch'
+[Wed Jan 02 19:09:50 2002] You are invulnerable.
+[Wed Jan 02 19:09:53 2002] You say, 'oops'
+[Wed Jan 02 19:09:56 2002] You sigh at Gindlin Toxfodder.
+[Wed Jan 02 19:09:57 2002] Hexian says, 'Then I mean'
+[Wed Jan 02 19:10:12 2002] Hexian says, 'hehehe Ring of escape?'
+[Wed Jan 02 19:10:34 2002] You say, 'I have to wait for it to wear off now'
+[Wed Jan 02 19:10:40 2002] Hexian says, 'hehehe okay'
+[Wed Jan 02 19:10:50 2002] Espranza saved.
+[Wed Jan 02 19:10:52 2002] Devynn GMSAYS, 'woot, problem solved itself'
+[Wed Jan 02 19:10:53 2002] Your invulnerability fades.
+[Wed Jan 02 19:10:56 2002] Gindlin Toxfodder says 'Time to die! 
+[Wed Jan 02 19:10:56 2002] Gindlin Toxfodder feels a bit dispelled.
+[Wed Jan 02 19:10:56 2002] Gindlin Toxfodder punches YOU for 36 points of damage.
+[Wed Jan 02 19:10:56 2002] Gindlin Toxfodder punches YOU for 81 points of damage.
+[Wed Jan 02 19:10:57 2002] Devynn GMSAYS, 'ZONING...Passing through the veil of death....'
+[Wed Jan 02 19:10:58 2002] Gindlin Toxfodder punches YOU for 19 points of damage.
+[Wed Jan 02 19:10:59 2002] You say, 'ouch'
+[Wed Jan 02 19:11:00 2002] Gindlin Toxfodder punches YOU for 72 points of damage.
+[Wed Jan 02 19:11:00 2002] Gindlin Toxfodder punches YOU for 60 points of damage.
+[Wed Jan 02 19:11:02 2002] You say, 'oooh'
+[Wed Jan 02 19:11:05 2002] Gindlin Toxfodder punches YOU for 19 points of damage.
+[Wed Jan 02 19:11:07 2002] Hexian GMSAYS, 'Thats always good to hear'
+[Wed Jan 02 19:11:08 2002] Gindlin Toxfodder punches YOU for 85 points of damage.
+[Wed Jan 02 19:11:08 2002] You say, 'blur him, right?'
+[Wed Jan 02 19:11:09 2002] Gindlin Toxfodder blinks a few times.
+[Wed Jan 02 19:11:22 2002] Hexian says, 'After you pull him back to his spot.. hehehe'
+[Wed Jan 02 19:11:27 2002] You say, 'ooh :)'
+[Wed Jan 02 19:11:33 2002] Gindlin Toxfodder says 'Time to die! 
+[Wed Jan 02 19:11:33 2002] Gindlin Toxfodder feels a bit dispelled.
+[Wed Jan 02 19:11:33 2002] Gindlin Toxfodder punches YOU for 44 points of damage.
+[Wed Jan 02 19:11:48 2002] Gindlin Toxfodder punches YOU for 72 points of damage.
+[Wed Jan 02 19:11:48 2002] Gindlin Toxfodder bashes YOU for 17 points of damage.
+[Wed Jan 02 19:11:50 2002] Gindlin Toxfodder punches YOU for 19 points of damage.
+[Wed Jan 02 19:11:58 2002] Gindlin Toxfodder punches YOU for 52 points of damage.
+[Wed Jan 02 19:12:00 2002] Gindlin Toxfodder punches YOU for 31 points of damage.
+[Wed Jan 02 19:12:00 2002] Gindlin Toxfodder punches YOU for 81 points of damage.
+[Wed Jan 02 19:12:03 2002] Gindlin Toxfodder punches YOU for 52 points of damage.
+[Wed Jan 02 19:12:05 2002] Gindlin Toxfodder punches YOU for 23 points of damage.
+[Wed Jan 02 19:12:08 2002] Gindlin Toxfodder punches YOU for 40 points of damage.
+[Wed Jan 02 19:12:08 2002] Hexian says, 'blur now'
+[Wed Jan 02 19:12:09 2002] Gindlin Toxfodder blinks a few times.
+[Wed Jan 02 19:12:10 2002] Devynn GMSAYS, 'Arch, you get regrouped with Esp yet?'
+[Wed Jan 02 19:12:14 2002] You no longer have a target.
+[Wed Jan 02 19:12:15 2002] Gindlin Toxfodder says 'Hi there Espranza, just browsing?  Have you seen the An Old Delivered Book I just got in?'
+[Wed Jan 02 19:12:15 2002] You no longer have a target.
+[Wed Jan 02 19:12:16 2002] You no longer have a target.
+[Wed Jan 02 19:12:20 2002] Espranza saved.
+[Wed Jan 02 19:12:23 2002] Hexian says, 'Well done M'lady'
+[Wed Jan 02 19:12:29 2002] You say, 'you'll be doing it soon'
+[Wed Jan 02 19:12:29 2002] Archeilus GMSAYS, 'No i havent yet'
+[Wed Jan 02 19:12:34 2002] Devynn GMSAYS, 'ok, omw'
+[Wed Jan 02 19:12:41 2002] Archeilus GMSAYS, 'okay dokey'
+[Wed Jan 02 19:12:42 2002] You say, 'anyway tell them it's all done now'
+[Wed Jan 02 19:12:58 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 19:12:58 2002] USER TEXT: you just had two people get sucked up to luclin from NK without stones
+[Wed Jan 02 19:12:59 2002] Players in EverQuest:
+[Wed Jan 02 19:12:59 2002] ---------------------------
+[Wed Jan 02 19:12:59 2002] [40 Monk] Garad (Human) ZONE: ecommons (USER PID AWWJ3S8)
+[Wed Jan 02 19:12:59 2002] There is 1 player in EverQuest.
+[Wed Jan 02 19:13:22 2002] a farmer has been slain by a lioness!
+[Wed Jan 02 19:13:22 2002] a farmer says 'My comrades will avenge my death.'
+[Wed Jan 02 19:14:18 2002] Hexian GMSAYS, 'okay all done now.'
+[Wed Jan 02 19:14:33 2002] Hexian GMSAYS, 'deleting Roanon (veder is now reset'
+[Wed Jan 02 19:14:50 2002] Hexian GMSAYS, 'pulling dysonanent'
+[Wed Jan 02 19:15:21 2002] The spirit leaves you.
+[Wed Jan 02 19:15:46 2002] Archeilus GMSAYS, '<NOTE ISSUE> Barqis (AXMGY9M) is noting extreme lag when fighting, has everything turned down (PD, Sky, CLipping), Lord Rak in CoM'
+[Wed Jan 02 19:17:18 2002] Archeilus GMSAYS, 'pulling Kostia'
+[Wed Jan 02 19:17:43 2002] You GMSAY, 'did he turn off spell effects?'
+[Wed Jan 02 19:18:00 2002] Archeilus GMSAYS, 'yeah he said he had it all off'
+[Wed Jan 02 19:18:13 2002] You GMSAY, 'he was playing in... . in the nude?'
+[Wed Jan 02 19:18:19 2002] Archeilus GMSAYS, 'eve asked if he had serverfliter on'
+[Wed Jan 02 19:18:25 2002] Archeilus GMSAYS, 'oh my Esp'
+[Wed Jan 02 19:18:51 2002] Devynn GMSAYS, 'Nude? *covers himself*'
+[Wed Jan 02 19:18:52 2002] You GMSAY, 'well, hey, maybe it would reduce lag'
+[Wed Jan 02 19:19:01 2002] Archeilus GMSAYS, 'lol'
+[Wed Jan 02 19:19:11 2002] Archeilus GMSAYS, 'and made sure he was shaved completely?'
+[Wed Jan 02 19:19:18 2002] Archeilus GMSAYS, 'to reduce air drag?'
+[Wed Jan 02 19:19:23 2002] Hexian GMSAYS, 'well you know there is less wind resistance'
+[Wed Jan 02 19:19:36 2002] Devynn GMSAYS, 'lol'
+[Wed Jan 02 19:19:36 2002] You GMSAY, 'sir, every man experiences lag now and again, it's entirely natural and nothing to be concerned about.'
+[Wed Jan 02 19:19:39 2002] Draze Slashyn shouts 'Come out of that house, Linaya Sowlin!!  I am waiting!  It is time for you to die! 
+[Wed Jan 02 19:19:51 2002] Devynn GMSAYS, 'I know my druid runs faster when I...erm...nm'
+[Wed Jan 02 19:20:06 2002] Archeilus GMSAYS, 'aye that was the jist of it all'
+[Wed Jan 02 19:20:10 2002] Hexian GMSAYS, 'hehehehe NOT ME!!! I swear............. who did you hear that from.... its not true i swear!'
+[Wed Jan 02 19:20:16 2002] Devynn tells the guild, 'ROFL'
+[Wed Jan 02 19:20:52 2002] You say to your guild, 'reasons why it is really unlikely espranza made guide in the first place : number 16.'
+[Wed Jan 02 19:21:03 2002] Devynn tells the guild, 'LOL'
+[Wed Jan 02 19:21:22 2002] Hexian GMSAYS, 'escalating Dysonanent (mercenaries stuck in a cliff, seem to be spawning there)'
+[Wed Jan 02 19:21:30 2002] Devynn GMSAYS, 'sounds like fun'
+[Wed Jan 02 19:21:33 2002] You say to your guild, 'did you know three other guides have asked to be trained for promtion?'
+[Wed Jan 02 19:21:37 2002] You say to your guild, 'besides you?'
+[Wed Jan 02 19:21:47 2002] Devynn tells the guild, 'I know Cazza has'
+[Wed Jan 02 19:21:50 2002] Devynn tells the guild, 'and Dal'
+[Wed Jan 02 19:21:54 2002] You say to your guild, 'and now Kilm'
+[Wed Jan 02 19:22:08 2002] You feel the spirit of Norrath enter you.
+[Wed Jan 02 19:22:10 2002] Devynn tells the guild, 'wonder what's up with all the people wanting to be seniors'
+[Wed Jan 02 19:22:16 2002] Hexian GMSAYS, 'pulling eradikkater'
+[Wed Jan 02 19:22:21 2002] You say to your guild, 'I guess they figure if I could do it...'
+[Wed Jan 02 19:22:30 2002] Espranza saved.
+[Wed Jan 02 19:22:32 2002] You say to your guild, 'they won't like the longer hours.'
+[Wed Jan 02 19:22:55 2002] Devynn tells the guild, 'hehe, I did it cause frankly, I'm getting bored just being a guide, I want more'
+[Wed Jan 02 19:23:12 2002] Aanzi shouts, 'what wizzy gate goes to west commons?'
+[Wed Jan 02 19:23:32 2002] Naturano says out of character, 'commons'
+[Wed Jan 02 19:23:52 2002] You say to your guild, 'I have no idea why I did. I like the extra jobs.'
+[Wed Jan 02 19:24:04 2002] Hexian GMSAYS, 'we do not change first names, unless they violate policy correct?'
+[Wed Jan 02 19:24:09 2002] You GMSAY, 'correct'
+[Wed Jan 02 19:24:25 2002] USER TEXT: you just had two people get sucked up to luclin from NK without stones
+[Wed Jan 02 19:24:26 2002] Hexian GMSAYS, 'okay. glad to hear it..... since I just told someone that... hehehe'
+[Wed Jan 02 19:24:43 2002] You GMSAY, 'it's in the P&P - read Rynara's note about that'
+[Wed Jan 02 19:24:52 2002] You GMSAY, 'most questions can be answered there'
+[Wed Jan 02 19:25:14 2002] You say to your guild, 'do you like making guides feel bad?'
+[Wed Jan 02 19:25:19 2002] You say to your guild, 'I had to do that already.'
+[Wed Jan 02 19:25:45 2002] Devynn tells the guild, 'I don't have a problem with it if it needs to be done'
+[Wed Jan 02 19:25:56 2002] You say to your guild, 'it needed to be done.'
+[Wed Jan 02 19:26:23 2002] You say to your guild, 'but I can see that being a senior on MT - and I am staying - will mean I have few friends among the guides after awhile.'
+[Wed Jan 02 19:26:40 2002] Hexian GMSAYS, 'anyone here familiar with the mage epic quest? This person says they can not find Rykas, they can bonk him on the head, but can not see him... What should I tell him?'
+[Wed Jan 02 19:26:42 2002] Sdaen tells you, 'any sightings of Lirus???'
+[Wed Jan 02 19:26:54 2002] You GMSAY, 'esc it'
+[Wed Jan 02 19:26:55 2002] Devynn tells the guild, 'Nah, I'm not worried about it'
+[Wed Jan 02 19:26:57 2002] You told Sdaen, 'none until tomorrow'
+[Wed Jan 02 19:27:06 2002] Devynn tells the guild, 'My really good friends are Ryn and Kez'
+[Wed Jan 02 19:27:15 2002] Sdaen tells you, 'ok so if I did the contact GM thing she will contact me about it?'
+[Wed Jan 02 19:27:29 2002] You told Sdaen, 'that just sends her email - from then, it's up to her.'
+[Wed Jan 02 19:27:38 2002] Hexian GMSAYS, 'okay, one second'
+[Wed Jan 02 19:27:42 2002] Sdaen tells you, 'ok'
+[Wed Jan 02 19:27:58 2002] You told Garad, 'Garad is not online at this time.'
+[Wed Jan 02 19:28:05 2002] You GMSAY, 'garad unavail x1'
+[Wed Jan 02 19:28:07 2002] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Jan 02 19:28:08 2002] CHECKING IN
+[Wed Jan 02 19:28:24 2002] Archeilus GMSAYS, 'pulling Mimeaux'
+[Wed Jan 02 19:28:24 2002] Hexian GMSAYS, 'escalating Eradikkater (mage epic problem)'
+[Wed Jan 02 19:28:33 2002] Hexian GMSAYS, 'pulling semmy'
+[Wed Jan 02 19:28:36 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 19:28:37 2002] USER TEXT: Hi. I need that silly gnome Rykas in lake Rathtear reset please. I hear him casting, but he's nowhere to be found. I think he crawled in a hole to hide from me :)
+[Wed Jan 02 19:28:37 2002] Players in EverQuest:
+[Wed Jan 02 19:28:37 2002] ---------------------------
+[Wed Jan 02 19:28:37 2002] [45 Magician] Eradikkater (Erudite) <Echelon> ZONE: lakerathe (USER PID FXBN7PH)
+[Wed Jan 02 19:28:37 2002] There is 1 player in EverQuest.
+[Wed Jan 02 19:28:43 2002] You GMSAY, 'zone'
+[Wed Jan 02 19:28:47 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:28:54 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 19:29:26 2002] You have entered Lake Rathetear.
+[Wed Jan 02 19:29:30 2002] Devynn tells the guild, '<bug> Several mercenaries were spawning in the walls in wakening lands, I /killed them so they would respawn normally'
+[Wed Jan 02 19:29:31 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:29:44 2002] You are no longer invigorated.
+[Wed Jan 02 19:29:49 2002] Searching for rykas00.
+[Wed Jan 02 19:29:49 2002] Player is in zone lakerathe at x = 934 y = -712 z = -48.
+[Wed Jan 02 19:29:51 2002] Teleporting to Rykas00 (934.00, -712.00, -48.20).
+[Wed Jan 02 19:30:18 2002] Rykas feels a bit dispelled.
+[Wed Jan 02 19:30:18 2002] Rykas begins to cast a spell. (Blaze)
+[Wed Jan 02 19:30:22 2002] You feel your skin ignite.  You have taken 124 points of damage.
+[Wed Jan 02 19:30:25 2002] Rykas punches YOU for 14 points of damage.
+[Wed Jan 02 19:30:27 2002] Rykas punches YOU for 14 points of damage.
+[Wed Jan 02 19:30:29 2002] Eradikkater waves at Espranza.
+[Wed Jan 02 19:30:29 2002] Rykas blinks a few times.
+[Wed Jan 02 19:30:30 2002] Rykas begins to cast a spell. (Blaze)
+[Wed Jan 02 19:30:32 2002] Williv says out of character, 'yup he has the staff killed me with it =('
+[Wed Jan 02 19:30:34 2002] You feel your skin ignite.  You have taken 225 points of damage.
+[Wed Jan 02 19:30:35 2002] Rykas blinks a few times.
+[Wed Jan 02 19:30:35 2002] Rykas blinks a few times.
+[Wed Jan 02 19:30:35 2002] You can't use that command right now...
+[Wed Jan 02 19:30:35 2002] Rykas blinks a few times.
+[Wed Jan 02 19:30:36 2002] You can't use that command right now...
+[Wed Jan 02 19:30:36 2002] Rykas blinks a few times.
+[Wed Jan 02 19:30:36 2002] Rykas blinks a few times.
+[Wed Jan 02 19:30:37 2002] You can't use that command right now...
+[Wed Jan 02 19:30:37 2002] Rykas blinks a few times.
+[Wed Jan 02 19:30:37 2002] You can't use that command right now...
+[Wed Jan 02 19:30:37 2002] Rykas blinks a few times.
+[Wed Jan 02 19:30:37 2002] Konraz says out of character, 'heh'
+[Wed Jan 02 19:30:38 2002] Rykas blinks a few times.
+[Wed Jan 02 19:30:40 2002] Rykas begins to cast a spell. (Inferno Shield)
+[Wed Jan 02 19:30:42 2002] You point at Rykas. Yeah you!
+[Wed Jan 02 19:30:43 2002] Rykas is enveloped by flame.
+[Wed Jan 02 19:30:53 2002] Eradikkater says, 'Hail, Rykas'
+[Wed Jan 02 19:30:55 2002] You say, 'he was just in the water'
+[Wed Jan 02 19:31:00 2002] Williv says out of character, 'of course his 179 dd helped him'
+[Wed Jan 02 19:31:02 2002] Eradikkater bonks Rykas on the head!
+[Wed Jan 02 19:31:07 2002] Konraz says out of character, 'eek'
+[Wed Jan 02 19:31:08 2002] You say, 'Hail, Rykas'
+[Wed Jan 02 19:31:08 2002] Rykas says 'Greetings, Espranza, I am Rykas, chronicler of knowledge.  I have journeyed all throughout the lands of Norrath, and I have learned many tales of adventure from people I have encountered during my travels.  I have learned of legends known and unknown to most mortals. Are you in search of knowledge? 
+[Wed Jan 02 19:31:10 2002] Eradikkater says, 'I looked there :('
+[Wed Jan 02 19:31:17 2002] Eradikkater says, 'Hail, Rykas'
+[Wed Jan 02 19:31:17 2002] Rykas says 'Greetings, Eradikkater, I am Rykas, chronicler of knowledge.  I have journeyed all throughout the lands of Norrath, and I have learned many tales of adventure from people I have encountered during my travels.  I have learned of legends known and unknown to most mortals. Are you in search of knowledge? 
+[Wed Jan 02 19:31:18 2002] Archeilus GMSAYS, 'Escalating Mimeaux, Slitlickter (DXD2PZD) ... vulger name violation'
+[Wed Jan 02 19:31:21 2002] You say, 'I am in search of Phat Lewts'
+[Wed Jan 02 19:31:21 2002] Rykas says 'A small task is needed if you wish to learn more.  Do you wish to learn the tale of Magi'kot? 
+[Wed Jan 02 19:31:22 2002] Eradikkater says, 'thanks.'
+[Wed Jan 02 19:31:35 2002] Eradikkater says, 'lol'
+[Wed Jan 02 19:31:41 2002] DELETING THIS PETITION
+[Wed Jan 02 19:31:45 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 19:31:46 2002] USER TEXT: name violation Slitlicker
+[Wed Jan 02 19:31:46 2002] Players in EverQuest:
+[Wed Jan 02 19:31:46 2002] ---------------------------
+[Wed Jan 02 19:31:46 2002] There are no players in EverQuest that match those who filters.
+[Wed Jan 02 19:31:51 2002] Players in EverQuest:
+[Wed Jan 02 19:31:51 2002] ---------------------------
+[Wed Jan 02 19:31:51 2002] [2 Shaman] Slitlicker (Vah Shir) ZONE: shadeweaver (USER PID DXD2PZD)
+[Wed Jan 02 19:31:51 2002] [40 Necromancer] Slithle (Erudite) <Clan Silvermoon> ZONE: rathemtn (USER PID CXXKVD4)
+[Wed Jan 02 19:31:51 2002] There are 2 players in EverQuest.
+[Wed Jan 02 19:31:57 2002] You GMSAY, 'zone'
+[Wed Jan 02 19:32:04 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 19:33:17 2002] You have entered Shadeweaver's Thicket.
+[Wed Jan 02 19:33:27 2002] Wildebeast begins to cast a spell. (Summon Warder)
+[Wed Jan 02 19:33:29 2002] Archeilus GMSAYS, 'mage you cant though'
+[Wed Jan 02 19:33:29 2002] Players in EverQuest:
+[Wed Jan 02 19:33:29 2002] ---------------------------
+[Wed Jan 02 19:33:29 2002] [2 Shaman] Slitlicker (Vah Shir) ZONE: shadeweaver (USER PID DXD2PZD)
+[Wed Jan 02 19:33:29 2002] [40 Necromancer] Slithle (Erudite) <Clan Silvermoon> ZONE: rathemtn (USER PID CXXKVD4)
+[Wed Jan 02 19:33:29 2002] There are 2 players in EverQuest.
+[Wed Jan 02 19:33:35 2002] Archeilus GMSAYS, 'since its a spell'
+[Wed Jan 02 19:33:37 2002] Espranza is now Invisible.
+[Wed Jan 02 19:33:37 2002] You are now anonymous.
+[Wed Jan 02 19:33:37 2002] Wildebeast summons forth a beastial warder.
+[Wed Jan 02 19:33:40 2002] Devynn tells the guild, 'unless you don't scribe it...lol'
+[Wed Jan 02 19:33:42 2002] Teleporting to slitlicker.
+[Wed Jan 02 19:33:44 2002] a Xakra silkworm has been slain by Slitlicker!
+[Wed Jan 02 19:33:44 2002] Archeilus GMSAYS, 'well guess you could before you scribed it'
+[Wed Jan 02 19:34:04 2002] You have changed slitlicker's name to Siltik.
+[Wed Jan 02 19:34:14 2002] a Xakra silkworm has been slain by Siltik!
+[Wed Jan 02 19:34:32 2002] Archeilus GMSAYS, 'Pulling Monarc'
+[Wed Jan 02 19:34:46 2002] You GMSAY, '<note name> Slitlicker BP0J5P2 changed to Siltik; they can repetition for a permanent one in three days.'
+[Wed Jan 02 19:35:30 2002] Lunis auctions, 'WTB, or Trade for Polished Ultak, send tells plz'
+[Wed Jan 02 19:35:35 2002] Lunarcat auctions, 'WTB HQ Hopper HIdes'
+[Wed Jan 02 19:35:41 2002] You told Siltik, 'Hail, Senior Guide Espranza here. Your name was obscene and has been changed. You may petition within three days time for a permanent one if this one does not suit you.'
+[Wed Jan 02 19:35:46 2002] DELETING THIS PETITION
+[Wed Jan 02 19:36:08 2002] Hexian GMSAYS, 'Can GMs make someone's epic un destoryable?'
+[Wed Jan 02 19:36:15 2002] Devynn GMSAYS, 'nope'
+[Wed Jan 02 19:36:29 2002] a Xakra silkworm has been slain by Siltik!
+[Wed Jan 02 19:36:29 2002] Soul Mark added to file successfully.
+[Wed Jan 02 19:36:35 2002] Devynn GMSAYS, 'and if it's destroyed, GMs don't have to reimburse it either'
+[Wed Jan 02 19:36:51 2002] Torabus shouts, 'does anyone have any food i can have?'
+[Wed Jan 02 19:37:01 2002] a needle clawe's corpse collapses to the ground in a lifeless heap. 
+[Wed Jan 02 19:37:11 2002] Devynn GMSAYS, 'just tell them to turn off Fast Destroy so they get a conformation message before they destroy something'
+[Wed Jan 02 19:37:15 2002] Saving soulmark information to server.
+[Wed Jan 02 19:37:16 2002] Siltik begins to cast a spell. (Inner Fire)
+[Wed Jan 02 19:37:34 2002] You GMSAY, 'zone'
+[Wed Jan 02 19:37:39 2002] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Wed Jan 02 19:37:39 2002] Your Belt of Translocation begins to glow.
+[Wed Jan 02 19:37:40 2002] LOADING, PLEASE WAIT...
+[Wed Jan 02 19:38:10 2002] You have entered Sunset Home.
+[Wed Jan 02 19:38:27 2002] You are no longer anonymous.
+[Wed Jan 02 19:38:27 2002] You no longer have a target.
+[Wed Jan 02 19:39:48 2002] Hexian GMSAYS, '<NOTE FEEDBACK>Semmy DU9EFK4, thinks epic weapons should not be able to be destroyed, and characters also for that matter'
+[Wed Jan 02 19:39:59 2002] Devynn GMSAYS, '*groans* Not Semmy'
+[Wed Jan 02 19:40:30 2002] The jig sends energy zinging through your body.
+[Wed Jan 02 19:40:43 2002] Archeilus GMSAYS, 'well they should put a checkbox by the characters so if that is selected and you hit delete then that assures you are sure you wanting to do this instead of doing it by accident'
+[Wed Jan 02 19:40:47 2002] You are no longer invigorated.
+[Wed Jan 02 19:41:00 2002] You GMSAY, 'a dialog box comes up to confirm, Arch'
+[Wed Jan 02 19:41:00 2002] Devynn GMSAYS, 'it has a conformation box for deletion of characters'
+[Wed Jan 02 19:41:00 2002] Archeilus GMSAYS, 'Pulling Blapmop'
+[Wed Jan 02 19:41:07 2002] Archeilus GMSAYS, 'true true'
+[Wed Jan 02 19:41:38 2002] Hexian GMSAYS, 'this person is just full of "helpfull" ways to make everquest better...... for them.'
+[Wed Jan 02 19:41:41 2002] Archeilus GMSAYS, 'havent deleted characters in a few years'
+[Wed Jan 02 19:41:58 2002] Devynn tells the guild, 'LOL, Semmy is anything but helpful, but I'm not gonna say that'
+[Wed Jan 02 19:42:01 2002] You GMSAY, 'mage epic is non destroyable'
+[Wed Jan 02 19:42:10 2002] Archeilus GMSAYS, 'after it is scribed'
+[Wed Jan 02 19:42:30 2002] You GMSAY, 'oh, that's what that conversation was, just caught bits.'
+[Wed Jan 02 19:42:46 2002] Archeilus GMSAYS, 'yeah since it is a spell, soon as you get it you can destroy it'
+[Wed Jan 02 19:42:54 2002] Archeilus GMSAYS, 'but then you might as well shoot yourself for doing that'
+[Wed Jan 02 19:43:14 2002] Archeilus GMSAYS, 'not literally, but a good slap would work'
+[Wed Jan 02 19:43:14 2002] You GMSAY, 'failing my epic would have made me quit the game'
+[Wed Jan 02 19:43:28 2002] Hexian GMSAYS, 'deleting semmy (got to love it)'
+[Wed Jan 02 19:43:54 2002] Hexian GMSAYS, 'pulling garad'
+[Wed Jan 02 19:44:13 2002] It begins to rain.
+[Wed Jan 02 19:45:03 2002] Siltik tells you, 'thank you i wasnt very happy with the name either. it was a joke.'
+[Wed Jan 02 19:45:21 2002] You told Siltik, 'then why didn't you just delete the character?'
+[Wed Jan 02 19:46:39 2002] Siltik tells you, 'i already started messing around with quests and didnt want to start over. even though im a low lvl char. but thank you for changing it. :)'
+[Wed Jan 02 19:46:55 2002] You told Siltik, 'you're welcome... well, be well and good luck in your quests'
+[Wed Jan 02 19:47:04 2002] Hexian GMSAYS, 'deleting Garad, (playing on Robble now)'
+[Wed Jan 02 19:47:06 2002] Siltik tells you, 'thank you'
+[Wed Jan 02 19:47:15 2002] You GMSAY, 'Ms. S. Licker thanked me for ninja nerfing her name'
+[Wed Jan 02 19:47:29 2002] Archeilus GMSAYS, 'hahah'
+[Wed Jan 02 19:47:32 2002] Hexian GMSAYS, 'What did she expect?'
+[Wed Jan 02 19:48:11 2002] You GMSAY, 'I don't have to talk to them first about rule 1 and 2 naming policy violations, I can nerf now, explain later.'
+[Wed Jan 02 19:48:33 2002] Espranza saved.
+[Wed Jan 02 19:48:38 2002] Hexian GMSAYS, '"wow, you are very creative. Here is a medal for your disgusting use of your name. *cheer*"'
+[Wed Jan 02 19:49:02 2002] You GMSAY, 'I try to think how people will see them when they go for a group'
+[Wed Jan 02 19:49:11 2002] Devynn GMSAYS, 'lol'
+[Wed Jan 02 19:49:18 2002] Hexian GMSAYS, 'Future Ex-wife?'
+[Wed Jan 02 19:49:25 2002] Players in EverQuest:
+[Wed Jan 02 19:49:25 2002] ---------------------------
+[Wed Jan 02 19:49:25 2002] [ANON (1 Rogue)] Iluanie (Wood Elf) ZONE: crushbone (USER PID GW1H5V0)
+[Wed Jan 02 19:49:25 2002] [1 Warrior] Jinora (Barbarian) ZONE: everfrost (USER PID F3H32X5)
+[Wed Jan 02 19:49:25 2002] [1 Warrior] Rhondo (Human) ZONE: qeynos2 (USER PID E1PDC5P)
+[Wed Jan 02 19:49:25 2002] [1 Warrior] Tobash (Vah Shir) ZONE: shadeweaver (USER PID AT5ZWX6)
+[Wed Jan 02 19:49:25 2002] [1 Rogue] Tumdaorf (Halfling) ZONE: misty (USER PID B1AXJ6H)
+[Wed Jan 02 19:49:25 2002] [1 Warrior] Jelce (Barbarian) ZONE: everfrost (USER PID D448V1G)
+[Wed Jan 02 19:49:25 2002] [1 Monk] Goorny (Human) ZONE: freportn (USER PID DVNTLY2)
+[Wed Jan 02 19:49:25 2002] [1 Enchanter] Khryshna (Dark Elf) ZONE: nektulos (USER PID FQ110LN)
+[Wed Jan 02 19:49:25 2002] [1 Magician] Mizgomeza (Dark Elf) ZONE: neriakb (USER PID G2Q42ZC)
+[Wed Jan 02 19:49:25 2002] [ANON (1 Beastlord)] Sakanle (Iksar) ZONE: fieldofbone (USER PID BTK5GH9)
+[Wed Jan 02 19:49:25 2002] [1 Warrior] Erickson (Ogre) ZONE: innothule (USER PID HUYW7JX)
+[Wed Jan 02 19:49:25 2002] [1 Beastlord] Sheline (Vah Shir) ZONE: sharvahl (USER PID CPRQATT)
+[Wed Jan 02 19:49:25 2002] [1 Cleric] Damce (Human) ZONE: freportw (USER PID ASCZMBW)
+[Wed Jan 02 19:49:25 2002] [1 Necromancer] Dalovebug (Dark Elf) ZONE: nektulos (USER PID D1ATLZ1)
+[Wed Jan 02 19:49:25 2002] [1 Necromancer] Scalbone (Iksar) ZONE: fieldofbone (USER PID FU2TG0X)
+[Wed Jan 02 19:49:25 2002] [1 Cleric] Bodhissvaha (Human) ZONE: freportn (USER PID DN2L25U)
+[Wed Jan 02 19:49:25 2002] [1 Beastlord] Sunasha (Vah Shir) ZONE: sharvahl (USER PID DU87QJ0)
+[Wed Jan 02 19:49:25 2002] [1 Warrior] Mussiakisouskus (Human) ZONE: freportw (USER PID C11UNY3)
+[Wed Jan 02 19:49:25 2002] [1 Necromancer] Darkale (Erudite) ZONE: paineel (USER PID CW80TTD)
+[Wed Jan 02 19:49:25 2002] [1 Cleric] Miespie (High Elf) ZONE: felwithea (USER PID FUA1AFQ)
+[Wed Jan 02 19:49:25 2002] Your who request was cut short..too many players.
+[Wed Jan 02 19:49:38 2002] Hexian GMSAYS, 'hehehe'
+[Wed Jan 02 19:49:55 2002] Archeilus GMSAYS, 'Hmmm, darn it ... zoning ... brb'
+[Wed Jan 02 19:51:12 2002] Hexian GMSAYS, 'I'm goint to run into a zone, I just know it.. so Its not my fault if I don't call it.... I can never find the zone lines in the karanas'
+[Wed Jan 02 19:51:41 2002] Hexian GMSAYS, 'oh that tree looked like it,, but no'
+[Wed Jan 02 19:51:49 2002] Hexian GMSAYS, 'mabey this one?'
+[Wed Jan 02 19:52:03 2002] Hexian GMSAYS, 'nope'
+[Wed Jan 02 19:53:46 2002] Archeilus GMSAYS, 'hehe fun judging zone lines on a boat is fun'
+[Wed Jan 02 19:54:15 2002] Hexian GMSAYS, 'pulling olema'
+[Wed Jan 02 19:54:54 2002] Archeilus GMSAYS, 'pulling Zelark'
+[Wed Jan 02 19:55:59 2002] Devynn GMSAYS, 'what's up with the Reiok pet?'
+[Wed Jan 02 19:56:32 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 19:56:32 2002] USER TEXT: i dont think thats right for that dude to be named earnhardt (after the racer taht died) kinda offends me..since he was one of my favorrites....i dont want him to know i was complaining about it, but its not right. needs to stick with fantasy
+[Wed Jan 02 19:56:33 2002] Players in EverQuest:
+[Wed Jan 02 19:56:33 2002] ---------------------------
+[Wed Jan 02 19:56:33 2002] [60 Grandmaster] Caamoleon (Human) ZONE: sebilis (USER PID HXBJ8NB) LFG
+[Wed Jan 02 19:56:33 2002] There is 1 player in EverQuest.
+[Wed Jan 02 19:56:54 2002] UNDOING CHECK OUT
+[Wed Jan 02 19:56:57 2002] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jan 02 19:56:58 2002] USER TEXT: someone has aggroed nubs blackgranite. can you reset him so he will buy and sell again?\
+[Wed Jan 02 19:56:58 2002] Players in EverQuest:
+[Wed Jan 02 19:56:58 2002] ---------------------------
+[Wed Jan 02 19:56:58 2002] [22 Magician] Thracos (Erudite) <Norrath Gatekeepers> ZONE: lakeofillomen (USER PID FXV35BY)
+[Wed Jan 02 19:56:58 2002] There is 1 player in EverQuest.
+[Wed Jan 02 19:57:01 2002] UNDOING CHECK OUT
+[Wed Jan 02 19:58:21 2002] You GMSAY, 'well, I'm headed out...'
+[Wed Jan 02 19:58:29 2002] Devynn GMSAYS, 'Yeah, my time to head out too'
+[Wed Jan 02 19:58:30 2002] Archeilus GMSAYS, 'have a good evening Esp!'
+[Wed Jan 02 19:58:32 2002] You GMSAY, 'nice seeing y'all again!'
+[Wed Jan 02 19:58:40 2002] Archeilus GMSAYS, 'd'oh that means we gotta go too'
+[Wed Jan 02 19:58:41 2002] You GMSAY, 'Im tired from two days of ragefire'
+[Wed Jan 02 19:58:42 2002] Espranza saved.
+[Wed Jan 02 19:58:43 2002] Devynn GMSAYS, 'I got a BL I gotta go level'
+[Wed Jan 02 19:58:48 2002] Hexian GMSAYS, 'and you as well'
+[Wed Jan 02 19:58:49 2002] It will take you about 30 seconds to prepare your camp.
+[Wed Jan 02 19:58:53 2002] It will take about 25 more seconds to prepare your camp.
+[Wed Jan 02 19:58:56 2002] You abandon your preparations to camp.
+[Wed Jan 02 19:59:01 2002] It will take you about 30 seconds to prepare your camp.
+[Wed Jan 02 19:59:01 2002] Devynn GMSAYS, 'Nite Hexian, Archeilus'
+[Wed Jan 02 19:59:05 2002] It will take about 25 more seconds to prepare your camp.
+[Wed Jan 02 19:59:06 2002] Devynn tells the guild, 'Nite Esp :)'
+[Wed Jan 02 19:59:10 2002] It will take about 20 more seconds to prepare your camp.
+[Wed Jan 02 19:59:13 2002] Archeilus GMSAYS, 'night folks, heading out as well'
+[Wed Jan 02 19:59:15 2002] It will take about 15 more seconds to prepare your camp.
+[Wed Jan 02 19:59:20 2002] It will take about 10 more seconds to prepare your camp.
+[Wed Jan 02 19:59:25 2002] It will take about 5 more seconds to prepare your camp.

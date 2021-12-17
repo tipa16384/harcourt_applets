@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DOCTYPE LESSON SYSTEM "leslet.dtd" -->
+
+<lesson>
+
+<page title="Introduction">
+
+<paragraph heading="Introduction">
+
+Translating an algorithm from an abstract process to a computer
+program requires the use of a programming language. In this module,
+we'll look at the basic elements of a C++ program, its syntax,
+symbols, and use.
+
+</paragraph>
+
+<paragraph>
+
+We'll write a program that produces a report on the number
+of turtles found in a lake, based upon survey data. But first,
+let's take a look at the rules that all C++ programs must
+follow.
+
+</paragraph>
+
+<picture src="mod2d.jpg" align="center"/>
+
+</page>
+
+<page title="C++ basics">
+
+<paragraph>
+
+A C++ program is a collection of one or more functions. A function
+is a separate fragment of a program that typically performs a
+single task and optionally returns a result to the invoking
+function.
+
+</paragraph>
+
+<picture src="mod2e.gif" align="center"/>
+
+<paragraph>
+
+In the special case of the main() function, the invoker is the
+operating system itself, and the result returned by main() indicates
+whether or not the C++ program ran without error.
+
+</paragraph>
+
+<paragraph>
+
+There must always be one function named main() in a complete
+C++ program. (Libraries, collections of functions, do not need
+a main() function as they are not executable in themselves.)
+
+</paragraph>
+
+<paragraph>
+
+Execution always begins with the first statement in the main()
+function, and then continues sequentially from there. We call this
+the 'flow of execution'.
+
+</paragraph>
+
+<paragraph>
+
+Any other functions in your program are subprograms, and are
+not executed until they are called.
+
+</paragraph>
+
+</page>
+
+<page title="A C++ Program">
+
+<paragraph>
+
+Here is the main() function from a C++ program with three
+functions (main(), percent() and total()).
+
+</paragraph>
+
+<picture src="mod2a.gif" align="left"/>
+
+</page>
+
+<page title="Rest of Program">
+
+<paragraph>
+Here are the two functions total(), which takes two integers
+and returns the sum, and percent(), which takes two integers
+and returns a percentage as a floating point number.
+</paragraph>
+
+<picture src="mod2b.gif" align="left"/>
+</page>
+
+<page title="The Result">
+
+<paragraph>
+
+Running the program starts the execution at the first statement
+in function main(), where the variable "painted" is initialized
+with the number of painted turtles in the survey, and continues
+until the main() program returns to the operating system with
+the "no error" result, zero.
+
+</paragraph>
+
+<picture src="mod2c.gif" align="center"/>
+
+<paragraph heading="Review">
+Look over the program and then try and answer the following
+questions. Click and hold the mouse button over the gray circles
+for possible answers. The source code is available by following the
+link below.
+</paragraph>
+
+<link url="hello.cpp">
+Discovery Channel: Turtles
+</link>
+
+<quiz>
+
+<answer>
+The two functions total() and percent() return different types
+of results; total returns an int (a whole number) and percent
+returns a float (a floating point number). Why was this done?
+How would the program change if both functions had returned integers?
+
+<ifselect>
+The nature of the data - a count of turtles - is naturally an integer
+since we do not count partial turtles. So as long as we're talking
+turtles, an integer is entirely appropriate. However, the percentage
+of each species of turtle would most usually be a real number. An
+integer returned from percent() would be inaccurate due to round-off
+errors.
+</ifselect>
+
+</answer>
+
+<answer>
+Are there any parts of the program which could be made more
+efficient by the use of an additional function?
+
+<ifselect>
+The statements that start with "cout &lt;&lt;" are similar enough
+that they would be good candidates to be replaced with calls to
+a single function that displayed the same information in a more
+general way.
+</ifselect>
+
+</answer>
+
+<answer>
+How could this program be extended to support an additional
+species of turtle, the snapping turtle? How would this
+affect the functions?
+
+<ifselect>
+The program could be extended by adding a new variable to
+hold a count of snapping turtles. An additional parameter to
+the total() function would be needed, and another "cout" line
+would become necessary to show the addition turtle species.
+You might wonder if we could generalize the program to handle
+any number of turtle species, and you'd be right... but that's
+for later.
+</ifselect>
+
+</answer>
+
+
+
+</quiz>
+
+</page>
+
+
+</lesson>

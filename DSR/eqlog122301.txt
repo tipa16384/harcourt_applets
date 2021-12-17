@@ -1,0 +1,988 @@
+[Sun Dec 23 01:37:24 2001] Welcome to EverQuest!
+[Sun Dec 23 01:37:24 2001] You have entered Sunset Home.
+[Sun Dec 23 01:37:24 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! EverQuest is a dynamic game. As such, the manual that came with your game may be out of date. For the latest game information, please see www.everquest.com or the file EQManual_Supplement.txt.
+[Sun Dec 23 01:37:25 2001] GUILD MOTD: Lirus - Happy Holidays!
+[Sun Dec 23 01:37:28 2001] Players in EverQuest:
+[Sun Dec 23 01:37:28 2001] ---------------------------
+[Sun Dec 23 01:37:28 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sun Dec 23 01:37:28 2001] * Guide *[ANON (53 Illusionist)] Kaweewee (High Elf) ZONE: cshome (USER PID GUUWCLQ)
+[Sun Dec 23 01:37:28 2001] There are 2 players in EverQuest.
+[Sun Dec 23 01:37:37 2001] You GMSAY, 'Hiya, Kaweewee!'
+[Sun Dec 23 01:37:45 2001] Kaweewee GMSAYS, 'heya'
+[Sun Dec 23 01:37:54 2001] You GMSAY, 'did you know you were anon?'
+[Sun Dec 23 01:37:55 2001] Kaweewee GMSAYS, 'glad yuore here'
+[Sun Dec 23 01:38:01 2001] Kaweewee GMSAYS, 'got a question'
+[Sun Dec 23 01:38:02 2001] You GMSAY, 'what's up?'
+[Sun Dec 23 01:38:05 2001] Players in EverQuest:
+[Sun Dec 23 01:38:05 2001] ---------------------------
+[Sun Dec 23 01:38:05 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sun Dec 23 01:38:05 2001] * Guide *[ANON (53 Illusionist)] Kaweewee (High Elf) ZONE: cshome (USER PID GUUWCLQ)
+[Sun Dec 23 01:38:05 2001] There are 2 players in EverQuest.
+[Sun Dec 23 01:38:11 2001] Teleporting to kaweewee.
+[Sun Dec 23 01:38:14 2001] Kaweewee GMSAYS, 'was doin a invest'
+[Sun Dec 23 01:38:16 2001] Players in EverQuest:
+[Sun Dec 23 01:38:16 2001] ---------------------------
+[Sun Dec 23 01:38:16 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sun Dec 23 01:38:16 2001] * Guide *[53 Illusionist] Kaweewee (High Elf) <Keepers of Dreams> ZONE: cshome (USER PID GUUWCLQ)
+[Sun Dec 23 01:38:16 2001] There are 2 players in EverQuest.
+[Sun Dec 23 01:38:23 2001] You cheer at Kaweewee.
+[Sun Dec 23 01:38:54 2001] Kaweewee GMSAYS, 'heres the deal. Guy that has petitioned in the past, nice guy , asked about a guy makin trains. I watched the guy pull 4 mobs and die from them. '
+[Sun Dec 23 01:39:19 2001] You GMSAY, 'he pulled mobs and died each time?'
+[Sun Dec 23 01:39:22 2001] Kaweewee GMSAYS, 'then the guy who petitoned tried to camp and died by a train'
+[Sun Dec 23 01:39:23 2001] You GMSAY, 'ouch'
+[Sun Dec 23 01:39:51 2001] Kaweewee GMSAYS, 'guy who was accused died from a train he pulled AFTER he told my guy, " watch this train "'
+[Sun Dec 23 01:40:16 2001] Kaweewee GMSAYS, 'i feel bad for the guy who originally petitioned'
+[Sun Dec 23 01:40:17 2001] You GMSAY, 'do you think he meant it in a joking way, like he died three times already'
+[Sun Dec 23 01:40:38 2001] Kaweewee GMSAYS, 'no, he didnt die 3 times. only once from 4 mobs he tried to pull'
+[Sun Dec 23 01:41:15 2001] You GMSAY, 'do you think he intended to get the petitioner killed?'
+[Sun Dec 23 01:41:58 2001] Kaweewee GMSAYS, 'i wasnt there so i didnt see it. but who knows. The guy who petitioned, Sybastian, is a nice fellow'
+[Sun Dec 23 01:42:42 2001] You GMSAY, 'did you talk to the person pulling the mobs?'
+[Sun Dec 23 01:42:51 2001] Kaweewee GMSAYS, 'not yet'
+[Sun Dec 23 01:43:02 2001] You GMSAY, 'well, get their side of the story'
+[Sun Dec 23 01:43:10 2001] You GMSAY, 'so far it doesn't sound warnable'
+[Sun Dec 23 01:43:24 2001] You GMSAY, 'but the person needs to be told to be more careful pulling mobs!'
+[Sun Dec 23 01:44:45 2001] Kaweewee GMSAYS, 'ok. train guy hasnt got his corpse yet so it wasnt his train'
+[Sun Dec 23 01:45:59 2001] You GMSAY, 'HAH! Lirus changed every NPC in CSHome into a barbarian'
+[Sun Dec 23 01:46:15 2001] You GMSAY, 'she has way too much time'
+[Sun Dec 23 01:46:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 01:46:18 2001] USER TEXT: Need help, stucking in room in Thurg and cant move out
+[Sun Dec 23 01:46:18 2001] Players in EverQuest:
+[Sun Dec 23 01:46:18 2001] ---------------------------
+[Sun Dec 23 01:46:18 2001] [56 Luminary] Gurok (Ogre) <Legions of Valhalla> ZONE: thurgadina (USER PID BTK0HCB)
+[Sun Dec 23 01:46:18 2001] There is 1 player in EverQuest.
+[Sun Dec 23 01:46:40 2001] You told Gurok, 'Hail, Gurok! Senior Guide Espranza here. Are you still stuck?'
+[Sun Dec 23 01:46:44 2001] Players in EverQuest:
+[Sun Dec 23 01:46:44 2001] ---------------------------
+[Sun Dec 23 01:46:44 2001] There are no players in EverQuest that match those who filters.
+[Sun Dec 23 01:46:56 2001] Ugloc Drinkbringa says 'Welcome to my shop, Espranza. You would probably find a Sandals of Humility handy'
+[Sun Dec 23 01:46:57 2001] Kaweewee GMSAYS, 'hehe'
+[Sun Dec 23 01:46:59 2001] Gurok tells you, 'yes i am a shammy but cant cast here, says you must stand up to cast'
+[Sun Dec 23 01:47:02 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Cap of the Wanderer'.
+[Sun Dec 23 01:47:06 2001] Ugloc Drinkbringa tells you, 'You already have that Lore Item on your person or in the bank.  You cannot have more than one of a particular Lore Item at a time.'
+[Sun Dec 23 01:47:09 2001] You no longer have a target.
+[Sun Dec 23 01:47:10 2001] Espranza saved.
+[Sun Dec 23 01:47:20 2001] You told Gurok, 'okay, I'll be right there'
+[Sun Dec 23 01:47:21 2001] You GMSAY, 'zone'
+[Sun Dec 23 01:47:23 2001] Teleporting to gurok.
+[Sun Dec 23 01:47:24 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 01:48:06 2001] You have entered The City of Thurgadin.
+[Sun Dec 23 01:48:13 2001] Kaweewee GMSAYS, 'welp im outtie. have fun'
+[Sun Dec 23 01:48:26 2001] Summoning Gurok.
+[Sun Dec 23 01:48:31 2001] You GMSAY, 'laters'
+[Sun Dec 23 01:48:32 2001] Gurok tells you, 'thank you )'
+[Sun Dec 23 01:48:36 2001] You told Gurok, 'sure thing!'
+[Sun Dec 23 01:48:38 2001] DELETING THIS PETITION
+[Sun Dec 23 01:48:56 2001] Players in EverQuest:
+[Sun Dec 23 01:48:56 2001] ---------------------------
+[Sun Dec 23 01:48:56 2001] [56 Luminary] Gurok (Ogre) <Legions of Valhalla> ZONE: thurgadina (USER PID BTK0HCB)
+[Sun Dec 23 01:48:56 2001] There is 1 player in EverQuest.
+[Sun Dec 23 01:49:14 2001] You GMSAY, '<note> Pulled Gurok BTK0HCB from a small room in Thurgadin (he's an ogre)'
+[Sun Dec 23 01:49:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 01:49:23 2001] USER TEXT: how would i go about getting my surname removed and getting a new one?
+[Sun Dec 23 01:49:23 2001] Players in EverQuest:
+[Sun Dec 23 01:49:23 2001] ---------------------------
+[Sun Dec 23 01:49:23 2001] [49 Enchanter] Erostelia (High Elf) <Legions of Valhalla> ZONE: karnor (USER PID HV2ALCG)
+[Sun Dec 23 01:49:23 2001] There is 1 player in EverQuest.
+[Sun Dec 23 01:49:59 2001] You told Erostelia, 'Hail, Erostelia! Senior Guide Espranza here. Well, first you find a senior guide, then you tell her what you want your surname to be, and then she changes it ;)'
+[Sun Dec 23 01:50:07 2001] Erostelia tells you, ':)'
+[Sun Dec 23 01:50:19 2001] Erostelia tells you, 'is it possible to just get it removed so i could think about my name?'
+[Sun Dec 23 01:50:23 2001] You feel the spirit of Norrath enter you.
+[Sun Dec 23 01:50:37 2001] You told Erostelia, 'you don't have any ideas yet?'
+[Sun Dec 23 01:50:39 2001] Gurok begins to cast a spell. (Strength)
+[Sun Dec 23 01:50:49 2001] Erostelia tells you, 'not really but i dont like the one i have ::)'
+[Sun Dec 23 01:51:03 2001] You told Erostelia, 'okay one moment'
+[Sun Dec 23 01:51:04 2001] You GMSAY, 'zone'
+[Sun Dec 23 01:51:07 2001] Teleporting to erostelia.
+[Sun Dec 23 01:51:08 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 01:51:34 2001] You have entered Karnor's Castle.
+[Sun Dec 23 01:51:41 2001] Teleporting to erostelia.
+[Sun Dec 23 01:51:45 2001] Modanal begins to cast a spell. (Turgur's Insects)
+[Sun Dec 23 01:51:49 2001] Aredhel begins to cast a spell. (Jolt)
+[Sun Dec 23 01:51:55 2001] Modanal begins to cast a spell. (Turgur's Insects)
+[Sun Dec 23 01:51:58 2001] You have changed Erostelia's last name to .
+[Sun Dec 23 01:51:58 2001] A drolvarg guardian yawns.
+[Sun Dec 23 01:52:01 2001] Modanal begins to cast a spell. (Superior Healing)
+[Sun Dec 23 01:52:02 2001] Erostelia tells you, 'that was fast :)'
+[Sun Dec 23 01:52:06 2001] Nemesisfa feels much better.
+[Sun Dec 23 01:52:08 2001] You told Erostelia, 'yup yup'
+[Sun Dec 23 01:52:10 2001] Erostelia tells you, 'thank you much :)'
+[Sun Dec 23 01:52:10 2001] Aredhel begins to cast a spell. (Ensnare)
+[Sun Dec 23 01:52:12 2001] A drolvarg guardian has been ensnared.
+[Sun Dec 23 01:52:15 2001] You told Erostelia, 'sure thing'
+[Sun Dec 23 01:52:25 2001] Jasonal begins to cast a spell. (Resolution)
+[Sun Dec 23 01:52:28 2001] Nemesisfa looks resolute.
+[Sun Dec 23 01:52:31 2001] Jasonal begins to cast a spell. (Symbol of Pinzarn)
+[Sun Dec 23 01:52:36 2001] Nemesisfa is cloaked in a shimmer of glowing symbols.
+[Sun Dec 23 01:52:36 2001] You GMSAY, '<note> Removed Erostelia HV2ALCG last name at her request.'
+[Sun Dec 23 01:52:37 2001] Xabea shouts, 'lvl 51 war lfg.'
+[Sun Dec 23 01:52:46 2001] DELETING THIS PETITION
+[Sun Dec 23 01:52:47 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 01:52:48 2001] USER TEXT: in need of corpse retrieval out of castle crush please i think i fell in the pool of blood at the main door, i cannot click on my corpse to retrieve it
+[Sun Dec 23 01:52:48 2001] Players in EverQuest:
+[Sun Dec 23 01:52:48 2001] ---------------------------
+[Sun Dec 23 01:52:48 2001] [24 Warrior] Palwenna (Half Elf) ZONE: gfaydark (USER PID E1FQFHC)
+[Sun Dec 23 01:52:48 2001] There is 1 player in EverQuest.
+[Sun Dec 23 01:52:48 2001] Modanal begins to cast a spell. (Harnessing of Spirit)
+[Sun Dec 23 01:52:53 2001] Darkoutlaw begins to cast a spell. (Root)
+[Sun Dec 23 01:53:02 2001] Xabea shouts, 'lvl 51 war lfg.'
+[Sun Dec 23 01:53:05 2001] Nemesisfa shouts, 'Hello Espranza :)'
+[Sun Dec 23 01:53:06 2001] Teebor says out of character, '49 warrior lfg'
+[Sun Dec 23 01:53:15 2001] You told Palwenna, 'Hail, Palwenna! Senior Guide Espranza here. One moment, let me look at it.'
+[Sun Dec 23 01:53:18 2001] Searching zones for corpse of that name....
+[Sun Dec 23 01:53:18 2001] Corpse: Palwenna's corpse0 in zone: crushbone
+[Sun Dec 23 01:53:19 2001] spectral caller begins to cast a spell. (Quickness)
+[Sun Dec 23 01:53:23 2001] You GMSAY, 'zone'
+[Sun Dec 23 01:53:24 2001] Aredhel begins to cast a spell. (Feet like Cat)
+[Sun Dec 23 01:53:25 2001] Palwenna tells you, 'oh thank you )'
+[Sun Dec 23 01:53:34 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 01:54:04 2001] You have entered Crushbone.
+[Sun Dec 23 01:54:12 2001] Teleporting to palwenna's corpse0.
+[Sun Dec 23 01:54:19 2001] It begins to rain.
+[Sun Dec 23 01:54:23 2001] Teleporting to palwenna's corpse0.
+[Sun Dec 23 01:54:39 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Sun Dec 23 02:01:48 2001] Welcome to EverQuest!
+[Sun Dec 23 02:01:48 2001] You have entered Crushbone.
+[Sun Dec 23 02:01:48 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! EverQuest is a dynamic game. As such, the manual that came with your game may be out of date. For the latest game information, please see www.everquest.com or the file EQManual_Supplement.txt.
+[Sun Dec 23 02:01:49 2001] GUILD MOTD: Lirus - Happy Holidays!
+[Sun Dec 23 02:01:53 2001] It begins to rain.
+[Sun Dec 23 02:01:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 02:01:55 2001] USER TEXT: in need of corpse retrieval out of castle crush please i think i fell in the pool of blood at the main door, i cannot click on my corpse to retrieve it
+[Sun Dec 23 02:01:55 2001] Players in EverQuest:
+[Sun Dec 23 02:01:55 2001] ---------------------------
+[Sun Dec 23 02:01:55 2001] [24 Warrior] Palwenna (Half Elf) ZONE: gfaydark (USER PID E1FQFHC)
+[Sun Dec 23 02:01:55 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:02:00 2001] royal guard begins to cast a spell. (AirElementalInvisibility)
+[Sun Dec 23 02:02:09 2001] Kirn begins to cast a spell. (Invoke Lightning)
+[Sun Dec 23 02:02:12 2001] Kirn begins to cast a spell. (Invoke Lightning)
+[Sun Dec 23 02:02:17 2001] Kirn begins to cast a spell. (Invoke Lightning)
+[Sun Dec 23 02:02:20 2001] orc oracle begins to cast a spell. (Burst of Flame)
+[Sun Dec 23 02:02:24 2001] orc oracle begins to cast a spell. (Tainted Breath)
+[Sun Dec 23 02:02:26 2001] Kirn begins to cast a spell. (Invoke Lightning)
+[Sun Dec 23 02:02:31 2001] Kirn begins to cast a spell. (Invoke Lightning)
+[Sun Dec 23 02:02:32 2001] orc oracle begins to cast a spell. (Tainted Breath)
+[Sun Dec 23 02:02:33 2001] You told Palwenna, 'Hail, Palwenna! Sorry, I went link dead. Your corpse is retrievable, you will have to dive for it. It's partially in the wall, so I'll pull it free from the wall.'
+[Sun Dec 23 02:02:40 2001] orc oracle begins to cast a spell. (Sicken)
+[Sun Dec 23 02:02:43 2001] Searching zones for corpse of that name....
+[Sun Dec 23 02:02:43 2001] Corpse: Palwenna's corpse0 in zone: crushbone
+[Sun Dec 23 02:02:51 2001] Palwenna tells you, 'thank you much but my friend has retrieved it for me )'
+[Sun Dec 23 02:02:55 2001] Kirn begins to cast a spell. (Invoke Lightning)
+[Sun Dec 23 02:02:56 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Sun Dec 23 02:03:00 2001] You told Palwenna, 'oh yeah, just noticed that ;)'
+[Sun Dec 23 02:03:00 2001] orc oracle begins to cast a spell. (Tainted Breath)
+[Sun Dec 23 02:03:05 2001] You told Palwenna, 'okay, good luck then!'
+[Sun Dec 23 02:03:08 2001] DELETING THIS PETITION
+[Sun Dec 23 02:03:08 2001] Palwenna tells you, 'i appreciate your help )'
+[Sun Dec 23 02:03:08 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Sun Dec 23 02:03:08 2001] orc oracle begins to cast a spell. (Walking Sleep)
+[Sun Dec 23 02:03:12 2001] orc oracle begins to cast a spell. (Spirit Strike)
+[Sun Dec 23 02:03:14 2001] You GMSAY, 'zone'
+[Sun Dec 23 02:03:19 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Sun Dec 23 02:03:19 2001] Your Belt of Translocation begins to glow.
+[Sun Dec 23 02:03:20 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 02:03:39 2001] You have entered Sunset Home.
+[Sun Dec 23 02:03:46 2001] It begins to rain.
+[Sun Dec 23 02:05:09 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 02:05:09 2001] USER TEXT: um, how do i turn off my horse if the icon is gone?  i tried to recast but it won't let me, and i can't camp if i can't sit lol
+[Sun Dec 23 02:05:10 2001] Players in EverQuest:
+[Sun Dec 23 02:05:10 2001] ---------------------------
+[Sun Dec 23 02:05:10 2001] [60 High Priest] Kuroni (Human) <Triune> ZONE: dreadlands (USER PID BYF4WCQ)
+[Sun Dec 23 02:05:10 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:05:42 2001] You told Kuroni, 'Hail, Kuroni! Senior Guide Espranza here. Try zoning...'
+[Sun Dec 23 02:06:04 2001] Kuroni tells you, 'LOL i'm in DL and gore's up... very kos'
+[Sun Dec 23 02:06:14 2001] Kuroni tells you, 'i'll just quit out :)'
+[Sun Dec 23 02:06:49 2001] You told Kuroni, 'sorry, only suggestion I had...'
+[Sun Dec 23 02:06:53 2001] Kuroni tells you, 'thanks :)'
+[Sun Dec 23 02:06:56 2001] You told Kuroni, 'be well!'
+[Sun Dec 23 02:06:59 2001] Kuroni tells you, 'thought there might be some other way :)'
+[Sun Dec 23 02:07:07 2001] You told Kuroni, 'Wish I had a horse to try it out'
+[Sun Dec 23 02:07:09 2001] Kuroni tells you, 'you too :)  '
+[Sun Dec 23 02:07:17 2001] DELETING THIS PETITION
+[Sun Dec 23 02:07:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 02:07:19 2001] USER TEXT: i am working on the ghoulbane sword quest and the second NPC in it will not answer to hail... and his name has a ! at the beginning of it
+[Sun Dec 23 02:07:19 2001] Players in EverQuest:
+[Sun Dec 23 02:07:19 2001] ---------------------------
+[Sun Dec 23 02:07:19 2001] [25 Paladin] Rainerdays (Human) <Template of Shadows> ZONE: butcher (USER PID BU7C1ZG)
+[Sun Dec 23 02:07:19 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:07:33 2001] Kuroni tells you, 'i finally broke down and bought one... you can med while you travel so it's worth the money!'
+[Sun Dec 23 02:07:54 2001] You told Rainerdays, 'Hail, Rainerdays! Senior Guide Espranza here. That quest NPC has been disabled, that's why it has a '!' in front of its name. The quest is not working at this time.'
+[Sun Dec 23 02:08:08 2001] You told Kuroni, 'Unfortunately, my play characters are rather poor.'
+[Sun Dec 23 02:08:21 2001] You told Kuroni, 'and they don't give guides horses to play with... :('
+[Sun Dec 23 02:08:30 2001] Kuroni tells you, 'it took me 59 levels before i had over 800pp :)'
+[Sun Dec 23 02:08:43 2001] You told Kuroni, 'sounds familiar!'
+[Sun Dec 23 02:08:46 2001] DELETING THIS PETITION
+[Sun Dec 23 02:08:54 2001] Rainerdays tells you, 'any idea when it will be working.. and is there a way i can get the pedant so i can contunie the quest'
+[Sun Dec 23 02:09:26 2001] Kuroni tells you, 'i got lucky on a few rolls in velks when the items were new so i was able to sell them'
+[Sun Dec 23 02:10:06 2001] You told Kuroni, 'I have so many characters I can almost always find one who can use what I get...'
+[Sun Dec 23 02:10:26 2001] You told Rainerdays, 'I don't know when... there will be an announcement in a patch message when it is working again, I'm sure.'
+[Sun Dec 23 02:10:44 2001] Kuroni tells you, 'LOL I was loyal to this one for a long time.. now i just play 2 others, and i'm still not as dedicated to them'
+[Sun Dec 23 02:11:14 2001] Rainerdays tells you, 'okay'
+[Sun Dec 23 02:11:27 2001] You told Kuroni, 'playing just one is the only way to really get stuff done, I've found.'
+[Sun Dec 23 02:11:32 2001] Kuroni tells you, 'i figured if i got to 60 with one, then i could afford to do more things by killing bigger mobs'
+[Sun Dec 23 02:11:44 2001] Rainerdays tells you, 'thank you for helping.. '
+[Sun Dec 23 02:11:49 2001] You told Rainerdays, 'be well!'
+[Sun Dec 23 02:12:07 2001] Rainerdays tells you, 'take care'
+[Sun Dec 23 02:12:09 2001] Kuroni tells you, 'yes, it is.. just have to stick with it, and take short breaks on another character when you get burned out'
+[Sun Dec 23 02:12:15 2001] You told Kuroni, 'yup yup'
+[Sun Dec 23 02:12:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 02:12:21 2001] USER TEXT: i though when oyu summoned food and dirnk it was supposed to create one more each lvl when you summoned it
+[Sun Dec 23 02:12:22 2001] Players in EverQuest:
+[Sun Dec 23 02:12:22 2001] ---------------------------
+[Sun Dec 23 02:12:22 2001] [10 Magician] Ifilk (High Elf) ZONE: gfaydark (USER PID CU4GQ6L)
+[Sun Dec 23 02:12:22 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:12:57 2001] Kuroni tells you, 'btw, i talked to you the other day about my faction on my druid.. i managed to quest her back to amiable with tunare... but it's going to take a while to get the PoG faction back :('
+[Sun Dec 23 02:13:06 2001] You told Ifilk, 'Hail, Ifilk! Senior Guide Espranza here. No, the spells will only ever give you one of each. You will get better spells later on.'
+[Sun Dec 23 02:13:22 2001] You told Kuroni, 'but it is possible?'
+[Sun Dec 23 02:13:36 2001] Ifilk tells you, 'oh, ok( thanks'
+[Sun Dec 23 02:13:42 2001] Espranza saved.
+[Sun Dec 23 02:13:45 2001] You told Ifilk, 'be well!'
+[Sun Dec 23 02:13:47 2001] DELETING THIS PETITION
+[Sun Dec 23 02:13:50 2001] Kuroni tells you, 'yes, i think so... i have to get to indifferent or better with skyshrine faction, then there's a quest from SS to WL'
+[Sun Dec 23 02:13:57 2001] Ifilk tells you, 'you too thanks'
+[Sun Dec 23 02:14:09 2001] You told Kuroni, 'Ah, I know that one...'
+[Sun Dec 23 02:14:14 2001] Players in EverQuest:
+[Sun Dec 23 02:14:14 2001] ---------------------------
+[Sun Dec 23 02:14:14 2001] [1 Paladin] Muidianaya (Half Elf) ZONE: qeynos2 (USER PID FW0EG1E)
+[Sun Dec 23 02:14:14 2001] [1 Enchanter] Sellerz (High Elf) ZONE: gfaydark (USER PID GXQZ174)
+[Sun Dec 23 02:14:14 2001] [ANON (1 Enchanter)] Sadeni (Human) ZONE: ecommons (USER PID CTYPN0Y)
+[Sun Dec 23 02:14:14 2001] [1 Beastlord] Fairfang (Vah Shir) ZONE: sharvahl (USER PID DWCHT6P)
+[Sun Dec 23 02:14:14 2001] [1 Wizard] Saeelr (Dark Elf) ZONE: nektulos (USER PID GYP1VV5)
+[Sun Dec 23 02:14:14 2001] [ANON (1 Warrior)] Tjorvmelker (Vah Shir) ZONE: sharvahl (USER PID DP0E5R8)
+[Sun Dec 23 02:14:14 2001] [ANON (1 Wizard)] Shadinja (Erudite) ZONE: tox (USER PID FUWKRE7)
+[Sun Dec 23 02:14:14 2001] [1 Warrior] Mullainiel (Wood Elf) ZONE: gfaydark (USER PID BXU4E9G)
+[Sun Dec 23 02:14:14 2001] [1 Rogue] Ratal (Vah Shir) ZONE: sharvahl (USER PID HZ7LFFW)
+[Sun Dec 23 02:14:14 2001] [1 Beastlord] Kethora (Vah Shir) ZONE: sharvahl (USER PID ET6KGUS)
+[Sun Dec 23 02:14:14 2001] [1 Magician] Trumor (High Elf) ZONE: gfaydark (USER PID BZW4LL5)
+[Sun Dec 23 02:14:14 2001] [ANON (1 Warrior)] Gagmek (Ogre) ZONE: innothule (USER PID HQKY95D)
+[Sun Dec 23 02:14:14 2001] [1 Shadow Knight] Rigancy (Dark Elf) ZONE: neriakc (USER PID DW7RM7X)
+[Sun Dec 23 02:14:14 2001] [1 Warrior] Galweyenae (Wood Elf) ZONE: gfaydark (USER PID FXV35BY)
+[Sun Dec 23 02:14:14 2001] [1 Warrior] Jaggier (Vah Shir) ZONE: sharvahl (USER PID BYK675C)
+[Sun Dec 23 02:14:14 2001] [1 Beastlord] Sraisa (Vah Shir) ZONE: sharvahl (USER PID CZPVX92)
+[Sun Dec 23 02:14:14 2001] [1 Beastlord] Blackkitty (Vah Shir) ZONE: sharvahl (USER PID CZKXPUR)
+[Sun Dec 23 02:14:14 2001] [1 Monk] Changho (Human) ZONE: gfaydark (USER PID F5ELSHC)
+[Sun Dec 23 02:14:14 2001] [ANON (1 Wizard)] Fberain (Human) ZONE: qeytoqrg (USER PID GX5LWJQ)
+[Sun Dec 23 02:14:14 2001] There are 19 players in EverQuest.
+[Sun Dec 23 02:14:27 2001] Kuroni tells you, 'that's the tunarian court.. i think that's the same as PoG'
+[Sun Dec 23 02:14:30 2001] Players in EverQuest:
+[Sun Dec 23 02:14:30 2001] ---------------------------
+[Sun Dec 23 02:14:30 2001] [2 Druid] Ravenof (Half Elf) ZONE: qeytoqrg (USER PID B1Z2KDQ)
+[Sun Dec 23 02:14:30 2001] [2 Ranger] Sokin (Half Elf) ZONE: qeytoqrg (USER PID AZ49BGA)
+[Sun Dec 23 02:14:30 2001] [2 Beastlord] Peurdy (Vah Shir) ZONE: sharvahl (USER PID CNFKLRG)
+[Sun Dec 23 02:14:30 2001] [2 Enchanter] Holycaman (High Elf) ZONE: gfaydark (USER PID H1AR91K)
+[Sun Dec 23 02:14:30 2001] [2 Necromancer] Divada (Dark Elf) ZONE: nektulos (USER PID B13MF7G)
+[Sun Dec 23 02:14:30 2001] There are 5 players in EverQuest.
+[Sun Dec 23 02:14:43 2001] Players in EverQuest:
+[Sun Dec 23 02:14:43 2001] ---------------------------
+[Sun Dec 23 02:14:43 2001] [3 Druid] Viront (Halfling) ZONE: misty (USER PID H23P3N4)
+[Sun Dec 23 02:14:43 2001] [3 Cleric] Takaqxx (Dark Elf) <Hit and Run> ZONE: freporte (USER PID HT1DV1D)
+[Sun Dec 23 02:14:43 2001] [3 Monk] Comodo (Iksar) ZONE: fieldofbone (USER PID FVT3YLK)
+[Sun Dec 23 02:14:43 2001] [3 Druid] Kabeiros (Half Elf) ZONE: misty (USER PID DSVJQJZ)
+[Sun Dec 23 02:14:43 2001] [3 Shadow Knight] Bordor (Human) ZONE: ecommons (USER PID AXRE8Y3)
+[Sun Dec 23 02:14:43 2001] [3 Beastlord] Tinala (Vah Shir) ZONE: ecommons (USER PID FW9ZP9X)
+[Sun Dec 23 02:14:43 2001] [3 Warrior] Kzinti (Vah Shir) ZONE: sharvahl (USER PID D3QAUP9)
+[Sun Dec 23 02:14:43 2001] [3 Ranger] Legallas (Wood Elf) ZONE: gfaydark (USER PID BXSGDW7)
+[Sun Dec 23 02:14:43 2001] [3 Bard] Kalnar (Vah Shir) ZONE: sharvahl (USER PID DUBXY7F)
+[Sun Dec 23 02:14:43 2001] There are 9 players in EverQuest.
+[Sun Dec 23 02:14:49 2001] Kuroni tells you, 'if not, i'll have to figure out another way to do it lol'
+[Sun Dec 23 02:15:05 2001] You told Kuroni, 'I think there are very few factions that can't be raised.'
+[Sun Dec 23 02:15:06 2001] Kuroni tells you, 'i was just worried about not being able to finish my epic.'
+[Sun Dec 23 02:15:15 2001] Players in EverQuest:
+[Sun Dec 23 02:15:15 2001] ---------------------------
+[Sun Dec 23 02:15:15 2001] [60 High Priest] Kuroni (Human) <Triune> ZONE: dreadlands (USER PID BYF4WCQ)
+[Sun Dec 23 02:15:15 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:15:20 2001] You told Kuroni, 'yeah'
+[Sun Dec 23 02:15:42 2001] Players in EverQuest:
+[Sun Dec 23 02:15:42 2001] ---------------------------
+[Sun Dec 23 02:15:42 2001] [4 Cleric] Aryela (High Elf) ZONE: felwithea (USER PID DVLBEPW)
+[Sun Dec 23 02:15:42 2001] [4 Monk] Xaroixz (Iksar) ZONE: swampofnohope (USER PID GWZGYDS)
+[Sun Dec 23 02:15:42 2001] [4 Cleric] Madith (Halfling) ZONE: rivervale (USER PID E39PKDS)
+[Sun Dec 23 02:15:42 2001] [4 Necromancer] Seeping (Gnome) ZONE: akanon (USER PID GYLRARF)
+[Sun Dec 23 02:15:42 2001] [4 Necromancer] Darkenight (Dark Elf) ZONE: nektulos (USER PID G3GQL68)
+[Sun Dec 23 02:15:42 2001] [4 Shadow Knight] Bonechopper (Human) ZONE: nro (USER PID DZK56QM)
+[Sun Dec 23 02:15:42 2001] [4 Rogue] Hysper (Vah Shir) ZONE: misty (USER PID GPVKMVF)
+[Sun Dec 23 02:15:42 2001] [4 Shaman] Thetom (Ogre) ZONE: feerrott (USER PID CZ4W1CH)
+[Sun Dec 23 02:15:42 2001] There are 8 players in EverQuest.
+[Sun Dec 23 02:15:42 2001] Kuroni tells you, 'i heard it was hard to get tunare faction up, but it wasn't too bad.. 2 hours in crushbone and 600 muffins.'
+[Sun Dec 23 02:15:48 2001] You told Kuroni, 'heh'
+[Sun Dec 23 02:15:56 2001] Players in EverQuest:
+[Sun Dec 23 02:15:56 2001] ---------------------------
+[Sun Dec 23 02:15:56 2001] [5 Rogue] Secta (Vah Shir) ZONE: shadeweaver (USER PID BV8XWYW)
+[Sun Dec 23 02:15:56 2001] [5 Shaman] Saibi (Vah Shir) ZONE: shadeweaver (USER PID FXCNL2F)
+[Sun Dec 23 02:15:56 2001] [5 Beastlord] Serina (Vah Shir) ZONE: sharvahl (USER PID BNY7TWN)
+[Sun Dec 23 02:15:56 2001] [5 Druid] Afrodo (Halfling) ZONE: misty (USER PID C2EJKH1)
+[Sun Dec 23 02:15:56 2001] [5 Beastlord] Tisu (Vah Shir) ZONE: sharvahl (USER PID HVSEKWA)
+[Sun Dec 23 02:15:56 2001] [5 Warrior] Bloodspurr (Ogre) ZONE: feerrott (USER PID B4Z9D19)
+[Sun Dec 23 02:15:56 2001] [5 Ranger] Ailbe (Wood Elf) ZONE: gfaydark (USER PID A0KLZ4D)
+[Sun Dec 23 02:15:56 2001] [5 Necromancer] Scads (Iksar) <Night Runners> ZONE: fieldofbone (USER PID GU1RU0K)
+[Sun Dec 23 02:15:56 2001] [5 Beastlord] Bengor (Vah Shir) ZONE: sharvahl (USER PID CPJ5PZK)
+[Sun Dec 23 02:15:56 2001] [5 Beastlord] Sandobealo (Vah Shir) ZONE: sharvahl (USER PID ASAZ4UM)
+[Sun Dec 23 02:15:56 2001] [ANON (5 Druid)] Whitejusin (Wood Elf) ZONE: gfaydark (USER PID FV5DGLZ)
+[Sun Dec 23 02:15:56 2001] [5 Beastlord] Catpawsz (Vah Shir) <Clan Silvermoon> ZONE: shadeweaver (USER PID E5BYJX4)
+[Sun Dec 23 02:15:56 2001] There are 12 players in EverQuest.
+[Sun Dec 23 02:16:09 2001] Kuroni tells you, 'but i still think it's a bug... i shouldn't have had that faction hit'
+[Sun Dec 23 02:16:20 2001] You told Kuroni, 'I did report it as an issue.'
+[Sun Dec 23 02:16:24 2001] Players in EverQuest:
+[Sun Dec 23 02:16:24 2001] ---------------------------
+[Sun Dec 23 02:16:24 2001] [6 Necromancer] Geff (Human) ZONE: ecommons (USER PID FZPV98N)
+[Sun Dec 23 02:16:24 2001] [6 Beastlord] Honoris (Vah Shir) ZONE: shadeweaver (USER PID EVT8TQN)
+[Sun Dec 23 02:16:24 2001] [6 Beastlord] Kudok (Vah Shir) ZONE: shadeweaver (USER PID BRPLBGL)
+[Sun Dec 23 02:16:24 2001] [6 Beastlord] Vonkettig (Vah Shir) ZONE: shadeweaver (USER PID CXN0V7U)
+[Sun Dec 23 02:16:24 2001] [6 Beastlord] Meoth (Vah Shir) <Hand of the Shadows> ZONE: shadeweaver (USER PID HP0YBQS)
+[Sun Dec 23 02:16:24 2001] [6 Warrior] Siladora (Barbarian) ZONE: everfrost (USER PID GZMZ57Y)
+[Sun Dec 23 02:16:24 2001] [6 Warrior] Rtais (Vah Shir) ZONE: shadeweaver (USER PID EY33BA4)
+[Sun Dec 23 02:16:24 2001] [6 Beastlord] Sslyn (Iksar) ZONE: lakeofillomen (USER PID CNMLP6M)
+[Sun Dec 23 02:16:24 2001] [6 Magician] Degrera (Dark Elf) ZONE: nektulos (USER PID FXCJ8JJ)
+[Sun Dec 23 02:16:24 2001] There are 9 players in EverQuest.
+[Sun Dec 23 02:16:36 2001] Players in EverQuest:
+[Sun Dec 23 02:16:36 2001] ---------------------------
+[Sun Dec 23 02:16:36 2001] [7 Ranger] Shadoy (Wood Elf) <Disciples of Discipline> ZONE: rivervale (USER PID AVRNWTF)
+[Sun Dec 23 02:16:36 2001] [7 Beastlord] Kleetus (Troll) ZONE: innothule (USER PID CRKRLPM)
+[Sun Dec 23 02:16:36 2001] [7 Beastlord] Treeshka (Iksar) ZONE: fieldofbone (USER PID DQ97B0M)
+[Sun Dec 23 02:16:36 2001] [7 Paladin] Iricaprotos (Human) <Order of the Chosen Few> ZONE: qeynos (USER PID BXGABPW)
+[Sun Dec 23 02:16:36 2001] [7 Necromancer] Carstein (Dark Elf) ZONE: nektulos (USER PID E2SXTK1)
+[Sun Dec 23 02:16:36 2001] [7 Bard] Sativasong (Wood Elf) ZONE: gfaydark (USER PID G23B9YH)
+[Sun Dec 23 02:16:36 2001] [7 Monk] Drakarn (Iksar) ZONE: fieldofbone (USER PID HXMJJ29)
+[Sun Dec 23 02:16:36 2001] [7 Wizard] Ninadien (High Elf) ZONE: gfaydark (USER PID G0K3F54)
+[Sun Dec 23 02:16:36 2001] [7 Beastlord] Zyelos (Vah Shir) <Temple of Dawn> ZONE: sharvahl (USER PID FP39859)
+[Sun Dec 23 02:16:36 2001] [7 Shaman] Sleipnir (Barbarian) ZONE: everfrost (USER PID FYWZPRL)
+[Sun Dec 23 02:16:36 2001] [7 Cleric] Hannion (High Elf) ZONE: gfaydark (USER PID FY2PY31)
+[Sun Dec 23 02:16:36 2001] [7 Enchanter] Mystx (High Elf) ZONE: gfaydark (USER PID GVZY9V3)
+[Sun Dec 23 02:16:36 2001] [ANON (7 Beastlord)] Bengoli (Vah Shir) ZONE: shadeweaver (USER PID EWVBVTB)
+[Sun Dec 23 02:16:36 2001] [ANON (7 Warrior)] Dunk (Ogre) ZONE: nektulos (USER PID CSBL4U7)
+[Sun Dec 23 02:16:36 2001] [7 Necromancer] Sikekil (Iksar) ZONE: fieldofbone (USER PID C2TDE90)
+[Sun Dec 23 02:16:36 2001] [ANON (7 Ranger)] Ithildin (Half Elf) ZONE: gfaydark (USER PID G12CJU6)
+[Sun Dec 23 02:16:36 2001] [ANON (7 Beastlord)] Kajani (Vah Shir) ZONE: sharvahl (USER PID CP6VKHS)
+[Sun Dec 23 02:16:36 2001] [7 Beastlord] Riao (Vah Shir) ZONE: shadeweaver (USER PID CSNRNG5)
+[Sun Dec 23 02:16:36 2001] There are 18 players in EverQuest.
+[Sun Dec 23 02:16:47 2001] Kuroni tells you, 'i've been spreading the word to whoever i can so if it happens to anyone else they can report it as well'
+[Sun Dec 23 02:17:27 2001] You told Kuroni, 'Best to use the /bug command - that bypasses our shift reports and sends it straight to the people who fix the bugs.'
+[Sun Dec 23 02:17:32 2001] Players in EverQuest:
+[Sun Dec 23 02:17:32 2001] ---------------------------
+[Sun Dec 23 02:17:32 2001] [8 Shadow Knight] Nven (Dark Elf) ZONE: nektulos (USER PID CVKGZJ7)
+[Sun Dec 23 02:17:32 2001] [ANON (8 Rogue)] Lolove (Wood Elf) ZONE: gfaydark (USER PID FV34W6M)
+[Sun Dec 23 02:17:32 2001] [8 Necromancer] Kaeliah (Dark Elf) ZONE: neriakc (USER PID BW9EYRD)
+[Sun Dec 23 02:17:32 2001] [8 Necromancer] Dellectra (Erudite) ZONE: warrens (USER PID EXKKJBE)
+[Sun Dec 23 02:17:32 2001] [8 Warrior] Bemani (Wood Elf) ZONE: gfaydark (USER PID F12D5BJ)
+[Sun Dec 23 02:17:32 2001] [8 Druid] Sagekitten (Wood Elf) ZONE: qey2hh1 (USER PID DQW1PZH)
+[Sun Dec 23 02:17:32 2001] [8 Wizard] Dystucter (High Elf) ZONE: qey2hh1 (USER PID ET6KGL8)
+[Sun Dec 23 02:17:32 2001] [8 Beastlord] Kanguran (Barbarian) ZONE: everfrost (USER PID EZNRUDU)
+[Sun Dec 23 02:17:32 2001] [ANON (8 Bard)] Pijari (Vah Shir) ZONE: sharvahl (USER PID EP6VSLQ)
+[Sun Dec 23 02:17:32 2001] [8 Necromancer] Chafant (Iksar) ZONE: lakeofillomen (USER PID B1PSB2L)
+[Sun Dec 23 02:17:32 2001] [8 Necromancer] Trepidae (Dark Elf) <Random Acts> ZONE: nektulos (USER PID EQGD13H)
+[Sun Dec 23 02:17:32 2001] [8 Beastlord] Shayli (Vah Shir) ZONE: everfrost (USER PID HXXQLZ5)
+[Sun Dec 23 02:17:32 2001] [8 Beastlord] Tabaabble (Vah Shir) ZONE: shadeweaver (USER PID FQ2HSHY)
+[Sun Dec 23 02:17:32 2001] [ANON (8 Bard)] Bakshan (Vah Shir) ZONE: nro (USER PID HWYXVBV)
+[Sun Dec 23 02:17:32 2001] [8 Cleric] Rezinya (High Elf) ZONE: kaladimb (USER PID CQQ7ZQD)
+[Sun Dec 23 02:17:32 2001] There are 15 players in EverQuest.
+[Sun Dec 23 02:17:49 2001] Kuroni tells you, 'i know of one other person that got transferred to this server that had it happen, but i don't know the name.'
+[Sun Dec 23 02:18:14 2001] Kuroni tells you, 'i did that the minute it happened.  i hope they look into it'
+[Sun Dec 23 02:18:20 2001] You told Hail,, 'Hail, is not online at this time.'
+[Sun Dec 23 02:18:30 2001] You told Rezinya, 'Hail, Rezinya! Senior Guide Espranza here. Were you aware that first names cannot be phrases?'
+[Sun Dec 23 02:18:41 2001] You told Kuroni, 'me, too - faction issues are the worst.'
+[Sun Dec 23 02:18:56 2001] Kuroni tells you, 'yes.. i was ready to stop playing when that happened lol'
+[Sun Dec 23 02:19:47 2001] You told Kuroni, 'The only thing that could have made me stop playing is if I made a mistake on my epic and had to do it all over again.'
+[Sun Dec 23 02:19:54 2001] You told Kuroni, 'Luckily it went smoothly.'
+[Sun Dec 23 02:20:10 2001] Players in EverQuest:
+[Sun Dec 23 02:20:10 2001] ---------------------------
+[Sun Dec 23 02:20:10 2001] [8 Cleric] Rezinya (High Elf) ZONE: kaladimb (USER PID CQQ7ZQD)
+[Sun Dec 23 02:20:10 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:20:23 2001] Kuroni tells you, 'LOL that wouldn't be good either... what character of yours has their epic?'
+[Sun Dec 23 02:20:40 2001] You told Kuroni, 'druid - warrior is partway there, rogue has a ways to go'
+[Sun Dec 23 02:20:43 2001] Kuroni tells you, 'OMG horses don't disappear when you go invis! i can't get rid of it lol'
+[Sun Dec 23 02:20:48 2001] You told Kuroni, 'heh'
+[Sun Dec 23 02:21:02 2001] Players in EverQuest:
+[Sun Dec 23 02:21:02 2001] ---------------------------
+[Sun Dec 23 02:21:02 2001] [8 Cleric] Rezinya (High Elf) ZONE: kaladimb (USER PID CQQ7ZQD)
+[Sun Dec 23 02:21:02 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:21:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 02:21:06 2001] USER TEXT: hello. I would like my last name to be Portsferplat, rejected by auto rejecter.  Was hoping i could still get it.
+[Sun Dec 23 02:21:06 2001] Players in EverQuest:
+[Sun Dec 23 02:21:07 2001] ---------------------------
+[Sun Dec 23 02:21:07 2001] [26 Druid] Falkos (Wood Elf) <Exiled Elite> ZONE: lakeofillomen (USER PID AUQKT9Q)
+[Sun Dec 23 02:21:07 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:21:15 2001] Kuroni tells you, 'oh wait, it does go away, it just looks like i'm riding it still'
+[Sun Dec 23 02:21:30 2001] Kuroni tells you, 'no, it doesn't.. how weird'
+[Sun Dec 23 02:21:31 2001] You told Falkos, 'Hail, Falkos! Senior Guide Espranza here. Phrases are not allowed in names.'
+[Sun Dec 23 02:21:39 2001] Falkos tells you, '-=-('
+[Sun Dec 23 02:21:46 2001] You told Falkos, 'sorry...'
+[Sun Dec 23 02:21:52 2001] Players in EverQuest:
+[Sun Dec 23 02:21:52 2001] ---------------------------
+[Sun Dec 23 02:21:52 2001] [8 Cleric] Rezinya (High Elf) ZONE: kaladimb (USER PID CQQ7ZQD)
+[Sun Dec 23 02:21:52 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:21:54 2001] You GMSAY, 'zone'
+[Sun Dec 23 02:21:59 2001] Teleporting to rezinya.
+[Sun Dec 23 02:21:59 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 02:22:31 2001] You have entered North Kaladim.
+[Sun Dec 23 02:23:00 2001] DELETING THIS PETITION
+[Sun Dec 23 02:23:26 2001] You wave at Rezinya.
+[Sun Dec 23 02:23:27 2001] Players in EverQuest:
+[Sun Dec 23 02:23:27 2001] ---------------------------
+[Sun Dec 23 02:23:27 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: kaladimb (USER PID B4KJ6E7)
+[Sun Dec 23 02:23:27 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:24:02 2001] You say, 'Hello, Rezinya!'
+[Sun Dec 23 02:24:05 2001] Rezinya tells you, 'So my name is a problem?'
+[Sun Dec 23 02:24:11 2001] You told Rezinya, 'it's a phrase...'
+[Sun Dec 23 02:24:18 2001] You told Rezinya, 'it's been petitioned a few times.'
+[Sun Dec 23 02:24:50 2001] Rezinya tells you, 'I've only been playing for like 5 hours and I've already got petitions, great...'
+[Sun Dec 23 02:25:15 2001] Rezinya tells you, 'So what do we do?'
+[Sun Dec 23 02:25:22 2001] You told Rezinya, 'Could you choose a new name?'
+[Sun Dec 23 02:25:31 2001] Rezinya tells you, 'Right now?'
+[Sun Dec 23 02:25:57 2001] You told Rezinya, 'if you could; otherwise I could change it to something temporary and you could have some time to think about it.'
+[Sun Dec 23 02:26:34 2001] Rezinya tells you, 'Yea, could you give me some time, I haven't a clue what I'd change it to.'
+[Sun Dec 23 02:26:44 2001] You have changed Rezinya's name to Reinya.
+[Sun Dec 23 02:27:03 2001] You told Reinya, 'There, I changed it to Reinya - just removed the z'
+[Sun Dec 23 02:27:20 2001] You told Rezinya, 'Rezinya is not online at this time.'
+[Sun Dec 23 02:27:27 2001] Your protection fades.
+[Sun Dec 23 02:27:27 2001] You told Reinya, 'I'll put a note on your account so you can petition for a new name when you think of one.'
+[Sun Dec 23 02:27:34 2001] Reinya tells you, 'Alright, and do I petion when I have a permanant choice ready?'
+[Sun Dec 23 02:27:39 2001] Reinya tells you, 'K'
+[Sun Dec 23 02:27:41 2001] Players in EverQuest:
+[Sun Dec 23 02:27:41 2001] ---------------------------
+[Sun Dec 23 02:27:41 2001] [8 Cleric] Reinya (High Elf) ZONE: kaladimb (USER PID CQQ7ZQD)
+[Sun Dec 23 02:27:41 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:27:47 2001] You told Reinya, 'good luck!'
+[Sun Dec 23 02:28:09 2001] Reinya tells you, 'Thanks'
+[Sun Dec 23 02:28:12 2001] Reinya begins to cast a spell. (Courage)
+[Sun Dec 23 02:28:14 2001] Reinya looks courageous.
+[Sun Dec 23 02:28:18 2001] Reinya begins to cast a spell. (Courage)
+[Sun Dec 23 02:28:20 2001] Reinya looks courageous.
+[Sun Dec 23 02:28:23 2001] Reinya begins to cast a spell. (Courage)
+[Sun Dec 23 02:28:26 2001] Reinya looks courageous.
+[Sun Dec 23 02:28:27 2001] Soul Mark added to file successfully.
+[Sun Dec 23 02:28:29 2001] Reinya begins to cast a spell. (Courage)
+[Sun Dec 23 02:28:31 2001] You wave goodbye to Reinya.
+[Sun Dec 23 02:28:31 2001] Reinya looks courageous.
+[Sun Dec 23 02:28:32 2001] You GMSAY, 'zone'
+[Sun Dec 23 02:28:35 2001] Reinya begins to cast a spell. (Courage)
+[Sun Dec 23 02:28:35 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Sun Dec 23 02:28:35 2001] Your Belt of Translocation begins to glow.
+[Sun Dec 23 02:28:36 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 02:28:56 2001] You have entered Sunset Home.
+[Sun Dec 23 02:29:08 2001] Players in EverQuest:
+[Sun Dec 23 02:29:08 2001] ---------------------------
+[Sun Dec 23 02:29:08 2001] [8 Cleric] Reinya (High Elf) ZONE: kaladimb (USER PID CQQ7ZQD)
+[Sun Dec 23 02:29:08 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:29:09 2001] It begins to rain.
+[Sun Dec 23 02:30:15 2001] You GMSAY, '<note> Rezinya CQQ7ZQD given the temporary first name Reinya until he can think of one that doesn't violate policy. Soulmarked to that effect.'
+[Sun Dec 23 02:30:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 02:30:22 2001] USER TEXT: there is an invisble brute attacking my group mate and I. please help
+[Sun Dec 23 02:30:22 2001] Players in EverQuest:
+[Sun Dec 23 02:30:22 2001] ---------------------------
+[Sun Dec 23 02:30:22 2001] [ANON (23 Cleric)] Winyion (Human) ZONE: warslikswood (USER PID EYWQ8C5)
+[Sun Dec 23 02:30:22 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:30:41 2001] You told Winyion, 'Hail, Winyion! Senior Guide Espranza here. I'll be right there!'
+[Sun Dec 23 02:30:45 2001] Winyion tells you, 'ok'
+[Sun Dec 23 02:30:48 2001] Winyion tells you, 'thank you'
+[Sun Dec 23 02:30:51 2001] Teleporting to winyion.
+[Sun Dec 23 02:30:52 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 02:32:54 2001] You have entered Warsliks Woods.
+[Sun Dec 23 02:33:11 2001] You say, 'It's not still attacking?'
+[Sun Dec 23 02:33:17 2001] Players in EverQuest:
+[Sun Dec 23 02:33:17 2001] ---------------------------
+[Sun Dec 23 02:33:17 2001] [ANON (23 Cleric)] Winyion (Human) ZONE: warslikswood (USER PID EYWQ8C5)
+[Sun Dec 23 02:33:17 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:33:43 2001] Winyion says, 'its not that one'
+[Sun Dec 23 02:33:43 2001] You say, 'Was it a skulking brute?'
+[Sun Dec 23 02:33:46 2001] Winyion says, 'yes'
+[Sun Dec 23 02:33:55 2001] Teleporting to a_skulking_brute00.
+[Sun Dec 23 02:34:00 2001] Teleporting to a_skulking_brute01.
+[Sun Dec 23 02:34:05 2001] Teleporting to a_skulking_brute02.
+[Sun Dec 23 02:34:10 2001] Killing a_skulking_brute02.
+[Sun Dec 23 02:34:22 2001] Killing a_skulking_brute12.
+[Sun Dec 23 02:34:26 2001] Killing a_skulking_brute09.
+[Sun Dec 23 02:34:32 2001] Killing a_goblin_warrior14.
+[Sun Dec 23 02:34:38 2001] Killing a_goblin_soothsayer05.
+[Sun Dec 23 02:34:52 2001] You told Winyion, 'It should be gone now.'
+[Sun Dec 23 02:35:01 2001] Winyion tells you, 'ok, thank you =o)'
+[Sun Dec 23 02:35:09 2001] You GMSAY, '<note> Killed several mobs beneath the world in Warslicks Wood.'
+[Sun Dec 23 02:35:15 2001] You told Winyion, 'sure thing!'
+[Sun Dec 23 02:35:23 2001] DELETING THIS PETITION
+[Sun Dec 23 02:35:30 2001] Players in EverQuest:
+[Sun Dec 23 02:35:30 2001] ---------------------------
+[Sun Dec 23 02:35:30 2001] [9 Druid] Edberlor (Half Elf) ZONE: everfrost (USER PID E2TE82Q)
+[Sun Dec 23 02:35:30 2001] [9 Cleric] Shytane (High Elf) ZONE: gfaydark (USER PID CVTJ9AU)
+[Sun Dec 23 02:35:30 2001] [9 Rogue] Kahles (Halfling) ZONE: misty (USER PID ERKRUNP)
+[Sun Dec 23 02:35:30 2001] [9 Shaman] Croixrouge (Barbarian) ZONE: freportw (USER PID AZUYAEX)
+[Sun Dec 23 02:35:30 2001] [ANON (9 Warrior)] Satathu (Vah Shir) ZONE: ecommons (USER PID FYP39C7)
+[Sun Dec 23 02:35:30 2001] [9 Wizard] Phantomia (Erudite) ZONE: ecommons (USER PID AWLETRH)
+[Sun Dec 23 02:35:30 2001] [9 Ranger] Kemuvian (Half Elf) ZONE: ecommons (USER PID EW0GW3R)
+[Sun Dec 23 02:35:30 2001] [9 Warrior] Evolushin (Half Elf) <Utopian Guard> ZONE: crushbone (USER PID AS3LN57)
+[Sun Dec 23 02:35:30 2001] [ANON (9 Enchanter)] Arachdeus (Dark Elf) ZONE: lavastorm (USER PID HXE2F61)
+[Sun Dec 23 02:35:30 2001] [9 Beastlord] Dorgan (Vah Shir) ZONE: sharvahl (USER PID CT709SU)
+[Sun Dec 23 02:35:30 2001] There are 10 players in EverQuest.
+[Sun Dec 23 02:35:40 2001] Players in EverQuest:
+[Sun Dec 23 02:35:40 2001] ---------------------------
+[Sun Dec 23 02:35:40 2001] [10 Bard] Zoliminou (Vah Shir) ZONE: shadeweaver (USER PID ETLUBL4)
+[Sun Dec 23 02:35:40 2001] [ANON (10 Cleric)] Dismistres (Dark Elf) ZONE: freportw (USER PID G04GUBK)
+[Sun Dec 23 02:35:40 2001] [10 Beastlord] Bogga (Troll) ZONE: oasis (USER PID BZL05H8)
+[Sun Dec 23 02:35:40 2001] [10 Druid] Dicembar (Halfling) ZONE: commons (USER PID GZEL7NP)
+[Sun Dec 23 02:35:40 2001] [10 Warrior] Basano (Barbarian) ZONE: ecommons (USER PID CV313VS)
+[Sun Dec 23 02:35:40 2001] [10 Paladin] Esraem (Human) ZONE: ecommons (USER PID GVL7SZR)
+[Sun Dec 23 02:35:40 2001] [10 Magician] Ifilk (High Elf) ZONE: crushbone (USER PID CU4GQ6L)
+[Sun Dec 23 02:35:40 2001] [ANON (10 Necromancer)] Mnemosyn (Dark Elf) ZONE: lavastorm (USER PID CWFJ2WN)
+[Sun Dec 23 02:35:40 2001] There are 8 players in EverQuest.
+[Sun Dec 23 02:35:58 2001] Players in EverQuest:
+[Sun Dec 23 02:35:58 2001] ---------------------------
+[Sun Dec 23 02:35:58 2001] [11 Enchanter] Aethina (High Elf) ZONE: ecommons (USER PID A2EDCTX)
+[Sun Dec 23 02:35:58 2001] [11 Enchanter] Venlaree (Dark Elf) ZONE: oasis (USER PID CYD3RUH)
+[Sun Dec 23 02:35:58 2001] [11 Bard] Aalil (Wood Elf) ZONE: qey2hh1 (USER PID HZ7LFFW)
+[Sun Dec 23 02:35:58 2001] [11 Bard] Scandalan (Wood Elf) <Fist and Flame> ZONE: crushbone (USER PID HRSLPHB)
+[Sun Dec 23 02:35:58 2001] [11 Ranger] Khayautik (Wood Elf) <Fist and Flame> ZONE: crushbone (USER PID H2Q4CDL)
+[Sun Dec 23 02:35:58 2001] [11 Druid] Forestguardian (Wood Elf) <Fist and Flame> ZONE: crushbone (USER PID F11VUUD)
+[Sun Dec 23 02:35:58 2001] [11 Ranger] Eldorick (Human) ZONE: blackburrow (USER PID HP1Q1B7)
+[Sun Dec 23 02:35:58 2001] [ANON (11 Warrior)] Taxxin (Ogre) ZONE: blackburrow (USER PID DS1QSEC)
+[Sun Dec 23 02:35:58 2001] [11 Shadow Knight] Baugoss (Ogre) <Ordo Tenebrae> ZONE: ecommons (USER PID HZM4G0Q)
+[Sun Dec 23 02:35:58 2001] [11 Monk] Chongus (Iksar) ZONE: cabeast (USER PID AYSSLYW)
+[Sun Dec 23 02:35:58 2001] [11 Rogue] Vertiblade (Vah Shir) ZONE: shadeweaver (USER PID AXF48GK) LFG
+[Sun Dec 23 02:35:58 2001] [11 Enchanter] Fazzadar (Erudite) ZONE: ecommons (USER PID A1T66XC)
+[Sun Dec 23 02:35:58 2001] [11 Druid] Muluven (Wood Elf) <Libertas Norrath> ZONE: freportn (USER PID D5CVBA3)
+[Sun Dec 23 02:35:58 2001] There are 13 players in EverQuest.
+[Sun Dec 23 02:36:34 2001] You feel the spirit of Norrath enter you.
+[Sun Dec 23 02:36:37 2001] You feel the spirit of Z surround you.
+[Sun Dec 23 02:37:26 2001] You GMSAY, 'zone'
+[Sun Dec 23 02:37:29 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 02:37:57 2001] You have entered Crushbone.
+[Sun Dec 23 02:38:10 2001] Teleporting to forestguardian.
+[Sun Dec 23 02:38:12 2001] Forestguardian begins to cast a spell. (Ignite)
+[Sun Dec 23 02:38:22 2001] Forestguardian's spell fizzles!
+[Sun Dec 23 02:38:23 2001] Forestguardian begins to cast a spell. (Ignite)
+[Sun Dec 23 02:38:29 2001]  (Hymn of Restoration)
+[Sun Dec 23 02:38:32 2001] Scandalan's song ends abruptly.
+[Sun Dec 23 02:38:32 2001] Scandalan's song ends.
+[Sun Dec 23 02:38:34 2001] Khayautik begins to cast a spell. (Flame Lick)
+[Sun Dec 23 02:38:36 2001] Khayautik begins to cast a spell. (Flame Lick)
+[Sun Dec 23 02:38:38 2001] Orc slaver is surrounded by flickering flames.
+[Sun Dec 23 02:38:48 2001]  (Hymn of Restoration)
+[Sun Dec 23 02:38:49 2001] orc slaver died.
+[Sun Dec 23 02:38:49 2001] orc slaver says 'You shall have all the Crushbone orc legions on your tail for my death! 
+[Sun Dec 23 02:39:12 2001] Khayautik begins to cast a spell. (Flame Lick)
+[Sun Dec 23 02:39:16 2001] Scandalan's song ends abruptly.
+[Sun Dec 23 02:39:16 2001] Scandalan's song ends.
+[Sun Dec 23 02:39:23 2001] Rondo Dunfire has been slain by Khayautik!
+[Sun Dec 23 02:39:23 2001] Rondo Dunfire says 'You shall soon feel the daggers of the Butcherblock Bandits upon your back!! 
+[Sun Dec 23 02:39:32 2001] orc slaver has been slain by Khayautik!
+[Sun Dec 23 02:39:32 2001] orc slaver says 'You shall have all the Crushbone orc legions on your tail for my death! 
+[Sun Dec 23 02:39:55 2001] Scandalan lowers her head and mourns the loss of Rondo Dunfire.
+[Sun Dec 23 02:40:07 2001] You told Hail,, 'Hail, is not online at this time.'
+[Sun Dec 23 02:40:19 2001] orc centurion says 'Hail, Emperor Crush!! 
+[Sun Dec 23 02:40:24 2001] You told Forestguardian, 'Hail, Forestguardian. Senior Guide Espranza here. Were you aware that the naming policy prohibits titles as names?'
+[Sun Dec 23 02:40:28 2001] orc centurion has been slain by Forestguardian!
+[Sun Dec 23 02:40:28 2001] orc centurion says 'You shall have all the Crushbone orc legions on your tail for my death! 
+[Sun Dec 23 02:41:01 2001] Forestguardian tells you, 'there is a problem with my name?'
+[Sun Dec 23 02:41:02 2001]  (Hymn of Restoration)
+[Sun Dec 23 02:41:09 2001] Khayautik begins to cast a spell. (Flame Lick)
+[Sun Dec 23 02:41:16 2001] You told Forestguardian, 'It's a title... and titles aren't allowed in names.'
+[Sun Dec 23 02:41:23 2001] a dwarven slave has been slain by Khayautik!
+[Sun Dec 23 02:41:23 2001] a dwarven slav's corpse says 'My comrades will avenge my death.'
+[Sun Dec 23 02:41:38 2001] Scandalan hugs Espranza.
+[Sun Dec 23 02:41:46 2001] You beam a smile at Scandalan.
+[Sun Dec 23 02:41:47 2001] Forestguardian tells you, 'how is it a title?'
+[Sun Dec 23 02:41:57 2001] You told Forestguardian, 'You are a forest guardian?'
+[Sun Dec 23 02:42:05 2001] Cathreen cheers at Espranza.
+[Sun Dec 23 02:42:16 2001] Scandalan lowers her head and mourns the loss of a dwarven slav.
+[Sun Dec 23 02:42:19 2001] Forestguardian tells you, 'a protector of things in the forest'
+[Sun Dec 23 02:42:35 2001] You told Forestguardian, 'right - so that's a title, or perhaps a job description, but not a name.'
+[Sun Dec 23 02:43:02 2001] Forestguardian tells you, 'perhaps, my 10 year old daughter came up with the name'
+[Sun Dec 23 02:43:02 2001] Khayautik begins to cast a spell. (Flame Lick)
+[Sun Dec 23 02:43:20 2001] You told Forestguardian, 'It's a nice name, just one that violates policy.'
+[Sun Dec 23 02:43:29 2001] You told Forestguardian, 'Could you choose a new one? I can change it for you.'
+[Sun Dec 23 02:44:26 2001] Forestguardian tells you, 'can I have a little time to come up with a new one  even 10 minutes would be helpful'
+[Sun Dec 23 02:44:44 2001] You told Forestguardian, 'okay, let me know when you come up with one.'
+[Sun Dec 23 02:45:03 2001] Players in EverQuest:
+[Sun Dec 23 02:45:03 2001] ---------------------------
+[Sun Dec 23 02:45:03 2001] [11 Druid] Forestguardian (Wood Elf) <Fist and Flame> ZONE: crushbone (USER PID F11VUUD)
+[Sun Dec 23 02:45:03 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:45:22 2001] You GMSAY, '<note badname> Forestguardian F11VUUD - waiting for her to choose a new one.'
+[Sun Dec 23 02:45:25 2001] You must be on the 1st menu screen to leave GM mode.
+[Sun Dec 23 02:45:37 2001] Players in EverQuest:
+[Sun Dec 23 02:45:37 2001] ---------------------------
+[Sun Dec 23 02:45:37 2001] [12 Magician] Liliz (High Elf) ZONE: nektulos (USER PID DUZ9F91)
+[Sun Dec 23 02:45:37 2001] [12 Cleric] Nomades (Human) ZONE: ecommons (USER PID A1WWVNP)
+[Sun Dec 23 02:45:37 2001] [12 Enchanter] Cennyyen (High Elf) <Magician Elite> ZONE: commons (USER PID FW0EG1E)
+[Sun Dec 23 02:45:37 2001] [12 Ranger] Lonne (Wood Elf) ZONE: oasis (USER PID FS2V4XP)
+[Sun Dec 23 02:45:37 2001] [12 Paladin] Tverdal (High Elf) ZONE: crushbone (USER PID D4D1T3U)
+[Sun Dec 23 02:45:37 2001] [ANON (12 Magician)] Aeyon (Erudite) ZONE: oot (USER PID FVMQ7LA)
+[Sun Dec 23 02:45:37 2001] [12 Magician] Eldon (High Elf) ZONE: ecommons (USER PID FN0WV9G)
+[Sun Dec 23 02:45:37 2001] There are 7 players in EverQuest.
+[Sun Dec 23 02:45:44 2001] Players in EverQuest:
+[Sun Dec 23 02:45:44 2001] ---------------------------
+[Sun Dec 23 02:45:44 2001] [13 Paladin] Omaga (Dwarf) <Libertas Norrath> ZONE: freportw (USER PID C384047)
+[Sun Dec 23 02:45:44 2001] [13 Cleric] Drammoth (Dark Elf) ZONE: sro (USER PID B317T0J)
+[Sun Dec 23 02:45:44 2001] [13 Druid] Badxtae (Wood Elf) ZONE: qey2hh1 (USER PID G385735)
+[Sun Dec 23 02:45:44 2001] [ANON (13 Warrior)] Roem (Half Elf) ZONE: oasis (USER PID FWAXV2E)
+[Sun Dec 23 02:45:44 2001] [13 Necromancer] Zyklone (Gnome) <Libertas Norrath> ZONE: crushbone (USER PID BTTVB2V)
+[Sun Dec 23 02:45:44 2001] [13 Magician] Arcanuss (Human) <Mystical Lightfighters> ZONE: northkarana (USER PID GZRD3P6)
+[Sun Dec 23 02:45:44 2001] [13 Druid] Hollee (Wood Elf) <Fist and Flame> ZONE: crushbone (USER PID GXQC7VM)
+[Sun Dec 23 02:45:44 2001] [ANON (13 Druid)] Valfoc (Halfling) ZONE: blackburrow (USER PID CU15H12)
+[Sun Dec 23 02:45:44 2001] [ANON (13 Warrior)] Milth (Dwarf) ZONE: gfaydark (USER PID B174S7X)
+[Sun Dec 23 02:45:44 2001] There are 9 players in EverQuest.
+[Sun Dec 23 02:45:56 2001] Players in EverQuest:
+[Sun Dec 23 02:45:56 2001] ---------------------------
+[Sun Dec 23 02:45:56 2001] [14 Magician] Stallen (High Elf) ZONE: lfaydark (USER PID F30QFVJ)
+[Sun Dec 23 02:45:56 2001] [ANON (14 Monk)] Daemonsoul (Human) ZONE: sro (USER PID HXHKG9C)
+[Sun Dec 23 02:45:56 2001] [14 Warrior] Freedm (Barbarian) ZONE: oasis (USER PID BQZ9HX9)
+[Sun Dec 23 02:45:56 2001] [14 Shaman] Dakotawolf (Barbarian) ZONE: everfrost (USER PID E39BWBB)
+[Sun Dec 23 02:45:56 2001] [14 Beastlord] Tokal (Vah Shir) ZONE: felwithea (USER PID ANKNNSP)
+[Sun Dec 23 02:45:56 2001] There are 5 players in EverQuest.
+[Sun Dec 23 02:46:03 2001] Players in EverQuest:
+[Sun Dec 23 02:46:03 2001] ---------------------------
+[Sun Dec 23 02:46:03 2001] [15 Beastlord] Goliyath (Vah Shir) ZONE: sharvahl (USER PID CRBPAC4)
+[Sun Dec 23 02:46:03 2001] [15 Ranger] Ggojang (Half Elf) ZONE: oasis (USER PID CVXZAF9)
+[Sun Dec 23 02:46:03 2001] [15 Beastlord] Jikarr (Vah Shir) ZONE: hollowshade (USER PID BP9VZSS)
+[Sun Dec 23 02:46:03 2001] [ANON (15 Shadow Knight)] Inferior (Ogre) ZONE: nro (USER PID CYT4NZ3)
+[Sun Dec 23 02:46:03 2001] [15 Shadow Knight] Marccus (Iksar) ZONE: fieldofbone (USER PID H2ECEP5)
+[Sun Dec 23 02:46:03 2001] There are 5 players in EverQuest.
+[Sun Dec 23 02:46:11 2001] Players in EverQuest:
+[Sun Dec 23 02:46:11 2001] ---------------------------
+[Sun Dec 23 02:46:11 2001] [16 Warrior] Yojassi (Ogre) ZONE: nro (USER PID FYLR1R9)
+[Sun Dec 23 02:46:11 2001] [16 Warrior] Ahtae (Halfling) ZONE: oasis (USER PID AW102GM)
+[Sun Dec 23 02:46:11 2001] [16 Paladin] Raynes (High Elf) ZONE: oasis (USER PID CUJ4ZP6)
+[Sun Dec 23 02:46:11 2001] [ANON (16 Beastlord)] Beastbear (Ogre) ZONE: oasis (USER PID AUFH5YH)
+[Sun Dec 23 02:46:11 2001] [16 Enchanter] Qenefreedom (High Elf) ZONE: southkarana (USER PID GXS9JED)
+[Sun Dec 23 02:46:11 2001] There are 5 players in EverQuest.
+[Sun Dec 23 02:46:19 2001] Players in EverQuest:
+[Sun Dec 23 02:46:19 2001] ---------------------------
+[Sun Dec 23 02:46:19 2001] [ANON (17 Cleric)] Merill (Halfling) ZONE: lakeofillomen (USER PID E13DEQY)
+[Sun Dec 23 02:46:19 2001] [ANON (17 Cleric)] Relendes (Dwarf) ZONE: bazaar (USER PID AS1139U)
+[Sun Dec 23 02:46:19 2001] [17 Necromancer] Abielien (Erudite) ZONE: timorous (USER PID DWX8XNQ)
+[Sun Dec 23 02:46:19 2001] [17 Ranger] Deciusmus (Half Elf) <Utopian Guard> ZONE: qrg (USER PID H1HFWP8)
+[Sun Dec 23 02:46:19 2001] [17 Magician] Loknar (Erudite) ZONE: oasis (USER PID FZUW40M)
+[Sun Dec 23 02:46:19 2001] [17 Enchanter] Karmic (High Elf) ZONE: overthere (USER PID EZVTYU7) LFG
+[Sun Dec 23 02:46:19 2001] [17 Druid] Valkerye (Wood Elf) <Echelon> ZONE: northkarana (USER PID EUAGVAK)
+[Sun Dec 23 02:46:19 2001] [17 Beastlord] Desmoratus (Vah Shir) ZONE: paludal (USER PID HVGTS4H)
+[Sun Dec 23 02:46:19 2001] There are 8 players in EverQuest.
+[Sun Dec 23 02:46:29 2001] Players in EverQuest:
+[Sun Dec 23 02:46:29 2001] ---------------------------
+[Sun Dec 23 02:46:29 2001] [ANON (18 Druid)] Parfit (Halfling) ZONE: crushbone (USER PID ESZQKCQ)
+[Sun Dec 23 02:46:29 2001] [18 Druid] Bizzett (Halfling) <Random Acts> ZONE: ecommons (USER PID GUURCN1)
+[Sun Dec 23 02:46:29 2001] [18 Druid] Itcey (Wood Elf) <Restless Virtues> ZONE: northkarana (USER PID HU0LRUH)
+[Sun Dec 23 02:46:29 2001] [18 Beastlord] Zrae (Vah Shir) ZONE: hollowshade (USER PID DTS3PBH)
+[Sun Dec 23 02:46:29 2001] [18 Rogue] Backie (Dwarf) ZONE: oasis (USER PID BXYY863)
+[Sun Dec 23 02:46:29 2001] There are 5 players in EverQuest.
+[Sun Dec 23 02:46:34 2001] Players in EverQuest:
+[Sun Dec 23 02:46:34 2001] ---------------------------
+[Sun Dec 23 02:46:34 2001] [19 Shaman] Chihotan (Barbarian) <Sixteenth Notes> ZONE: eastkarana (USER PID E0QGGKL)
+[Sun Dec 23 02:46:34 2001] [19 Shadow Knight] Kanea (Dark Elf) <Celestial Sphere> ZONE: nro (USER PID HXZ42YF)
+[Sun Dec 23 02:46:34 2001] [19 Beastlord] Tiggrafangse (Vah Shir) <Clan Silvermoon> ZONE: shadeweaver (USER PID AVBXYS4)
+[Sun Dec 23 02:46:34 2001] [ANON (19 Necromancer)] Chocolate (Dark Elf) ZONE: overthere (USER PID ESX3GKR)
+[Sun Dec 23 02:46:34 2001] [ANON (19 Cleric)] Naedine (Dark Elf) ZONE: nektulos (USER PID FZNYMH3)
+[Sun Dec 23 02:46:34 2001] There are 5 players in EverQuest.
+[Sun Dec 23 02:46:43 2001] Players in EverQuest:
+[Sun Dec 23 02:46:43 2001] ---------------------------
+[Sun Dec 23 02:46:43 2001] [ANON (20 Shadow Knight)] Imon (Dark Elf) ZONE: oasis (USER PID H2EJ0K1)
+[Sun Dec 23 02:46:43 2001] [ANON (20 Cleric)] Castro (Dark Elf) ZONE: ecommons (USER PID FU9KLHZ)
+[Sun Dec 23 02:46:43 2001] [20 Druid] Darkmyst (Wood Elf) <Elven Magic> ZONE: butcher (USER PID E172NCR)
+[Sun Dec 23 02:46:43 2001] [20 Druid] Markuslefier (Wood Elf) <Compagnons de l`Aube> ZONE: lakeofillomen (USER PID HYNGLDY)
+[Sun Dec 23 02:46:43 2001] There are 4 players in EverQuest.
+[Sun Dec 23 02:46:53 2001] Players in EverQuest:
+[Sun Dec 23 02:46:53 2001] ---------------------------
+[Sun Dec 23 02:46:53 2001] [21 Monk] Faate (Human) ZONE: firiona (USER PID AZEH5GN)
+[Sun Dec 23 02:46:53 2001] [21 Ranger] Anigel (Wood Elf) <Compagnons de l`Aube> ZONE: gfaydark (USER PID CYW9C4T)
+[Sun Dec 23 02:46:53 2001] [21 Shadow Knight] Ragnorf (Human) ZONE: highkeep (USER PID H385F67)
+[Sun Dec 23 02:46:53 2001] [21 Shadow Knight] Drizzut (Dark Elf) <Revered Souls> ZONE: southkarana (USER PID HVJ6PNV)
+[Sun Dec 23 02:46:53 2001] [21 Druid] Moraxus (Wood Elf) ZONE: lakerathe (USER PID DYXJL82)
+[Sun Dec 23 02:46:53 2001] [21 Beastlord] Stargaze (Vah Shir) ZONE: paludal (USER PID BX7VXXN)
+[Sun Dec 23 02:46:53 2001] [21 Warrior] Rulix (Dwarf) <Ordo Tenebrae> ZONE: lakeofillomen (USER PID BYYTTUQ)
+[Sun Dec 23 02:46:53 2001] [21 Shaman] Seymour (Barbarian) ZONE: southkarana (USER PID EWW5K78)
+[Sun Dec 23 02:46:53 2001] There are 8 players in EverQuest.
+[Sun Dec 23 02:47:02 2001] You GMSAY, 'zone'
+[Sun Dec 23 02:47:06 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 02:47:53 2001] You have entered Southern Plains of Karana.
+[Sun Dec 23 02:47:58 2001] That is not a valid command.  Please use /help.
+[Sun Dec 23 02:48:03 2001] Espranza is now Invisible.
+[Sun Dec 23 02:48:03 2001] You are now anonymous.
+[Sun Dec 23 02:48:07 2001] Teleporting to drizzut.
+[Sun Dec 23 02:48:11 2001] Drizzut begins to cast a spell. (Lifespike)
+[Sun Dec 23 02:48:14 2001] Drizzut begins to cast a spell. (Lifespike)
+[Sun Dec 23 02:48:16 2001] Drizzut staggers.
+[Sun Dec 23 02:48:17 2001] Drizzut beams a smile at a putrid skeleton.
+[Sun Dec 23 02:48:17 2001] Drizzut says, 'Ahhh, I feel much better now...'
+[Sun Dec 23 02:48:22 2001] Drizzut says, 'die skellies die'
+[Sun Dec 23 02:48:26 2001] a putrid skele says 'Bertoxxuloussss.. shall find you. 
+[Sun Dec 23 02:48:32 2001] Drizzut says, 'u have no place here'
+[Sun Dec 23 02:48:35 2001] You have changed Drizzut's last name to  .
+[Sun Dec 23 02:48:37 2001] Drizzut begins to cast a spell. (Clinging Darkness)
+[Sun Dec 23 02:48:39 2001] Drizzut begins to cast a spell. (Clinging Darkness)
+[Sun Dec 23 02:48:41 2001] A putrid skeleton is surrounded by darkness.
+[Sun Dec 23 02:48:47 2001] Players in EverQuest:
+[Sun Dec 23 02:48:47 2001] ---------------------------
+[Sun Dec 23 02:48:47 2001] [21 Shadow Knight] Drizzut (Dark Elf) <Revered Souls> ZONE: southkarana (USER PID HVJ6PNV)
+[Sun Dec 23 02:48:47 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:48:55 2001] a putrid skele says 'Bertoxxuloussss.. shall find you. 
+[Sun Dec 23 02:49:06 2001] Istark shouts, 'Treant groop seeking 1 more. Prefer a chanter or cleric, but will take any'
+[Sun Dec 23 02:49:15 2001] You GMSAY, '<note> Drizzut Dourden (HVJ6PNV) had his last name spaced, he can petition for a new one.'
+[Sun Dec 23 02:49:23 2001] Espranza is now Visible.
+[Sun Dec 23 02:49:24 2001] You are no longer anonymous.
+[Sun Dec 23 02:49:29 2001] a putrid skele says 'Bertoxxuloussss.. shall find you. 
+[Sun Dec 23 02:50:10 2001] You told Drizzut, 'Hail, Drizzut! Senior Guide Espranza here. Drizzt Do'urden is the name of a famous dark elf; he wouldn't appreciate you using his family name.'
+[Sun Dec 23 02:50:15 2001] a skeleton has been slain by Drizzut!
+[Sun Dec 23 02:50:33 2001] You told Drizzut, 'Hence, I have removed your last name. Please petition when you find one more acceptable.'
+[Sun Dec 23 02:50:56 2001] Drizzut tells you, 'why, i have taken after dourden, he is a hero to me'
+[Sun Dec 23 02:51:05 2001] It begins to rain.
+[Sun Dec 23 02:51:17 2001] You told Drizzut, 'Honor him best by making your own name in the world, then'
+[Sun Dec 23 02:51:38 2001] Drizzut tells you, 'do u do this to everyone'
+[Sun Dec 23 02:52:13 2001] You told Drizzut, 'To those who choose names so similar to famous personages as Drizzt'
+[Sun Dec 23 02:52:31 2001] You told Drizzut, 'and even then, usually only after being petitioned by a player, as yours was.'
+[Sun Dec 23 02:53:00 2001] Players in EverQuest:
+[Sun Dec 23 02:53:00 2001] ---------------------------
+[Sun Dec 23 02:53:00 2001] [11 Druid] Forestguardian (Wood Elf) <Fist and Flame> ZONE: crushbone (USER PID F11VUUD)
+[Sun Dec 23 02:53:00 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:53:12 2001] You told forestguardian, 'have you thought of a new name?'
+[Sun Dec 23 02:53:16 2001] Drizzut tells you, 'i have done now wrong, i have treated all fairly, i have given my life to people that i would have let die for wrongs against me and this is how i am repaid'
+[Sun Dec 23 02:53:25 2001] Your feet leave the ground.
+[Sun Dec 23 02:53:28 2001] Forestguardian tells you, 'not yet '
+[Sun Dec 23 02:53:39 2001] Drizzut tells you, 'i will change my last name'
+[Sun Dec 23 02:53:47 2001] You told Drizzut, 'what would you like to change it to?'
+[Sun Dec 23 02:53:48 2001] Forestguardian tells you, 'do you have any suggestions?'
+[Sun Dec 23 02:53:55 2001] Drizzut tells you, 'i am not sure'
+[Sun Dec 23 02:54:14 2001] Istark shouts, 'Treant group lf 1 more. Healer or enchanter desired.'
+[Sun Dec 23 02:54:22 2001] Drizzut tells you, 'bringer of death'
+[Sun Dec 23 02:54:34 2001] You told Drizzut, 'that's a title, I can't change it to a title.'
+[Sun Dec 23 02:54:50 2001] You told Forestguardian, 'Something from nature, perhaps - the name of a tree or flower?'
+[Sun Dec 23 02:54:54 2001] Drizzut tells you, 'lifebringer'
+[Sun Dec 23 02:55:08 2001] Teleporting to drizzut.
+[Sun Dec 23 02:55:20 2001] Drizzut tells you, 'i have one request'
+[Sun Dec 23 02:55:20 2001] Forestguardian tells you, 'I am trying to think of one '
+[Sun Dec 23 02:55:25 2001] You have changed Drizzut's last name to Lifebringer.
+[Sun Dec 23 02:55:32 2001] Teleporting to Drizzut (2583.00, 904.00, -31.28).
+[Sun Dec 23 02:55:38 2001] You told Drizzut, 'Done'
+[Sun Dec 23 02:55:48 2001] Players in EverQuest:
+[Sun Dec 23 02:55:48 2001] ---------------------------
+[Sun Dec 23 02:55:48 2001] [21 Shadow Knight] Drizzut (Dark Elf) <Revered Souls> ZONE: southkarana (USER PID HVJ6PNV)
+[Sun Dec 23 02:55:48 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:56:09 2001] You GMSAY, '<note> Drizzut HVJ6PNV last named changed to Lifebringer'
+[Sun Dec 23 02:56:15 2001] Drizzut tells you, 'that is to know who petitioned me and what they said, on my name i swear not to do anything harmful or contact them'
+[Sun Dec 23 02:56:27 2001] Drizzut tells you, 'unless they make first contact'
+[Sun Dec 23 02:56:36 2001] You told Drizzut, 'I can't do that...'
+[Sun Dec 23 02:56:39 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 02:56:39 2001] USER TEXT: my wep has a problem
+[Sun Dec 23 02:56:39 2001] Players in EverQuest:
+[Sun Dec 23 02:56:39 2001] ---------------------------
+[Sun Dec 23 02:56:39 2001] [1 Warrior] Jaggier (Vah Shir) ZONE: ecommons (USER PID BYK675C)
+[Sun Dec 23 02:56:39 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:56:45 2001] Drizzut tells you, 'so be it'
+[Sun Dec 23 02:56:53 2001] You told Jaggier, 'Hail, Jaggier! Senior Guide Espranza here. How may I help you?'
+[Sun Dec 23 02:57:21 2001] Drizzut tells you, 'can u tell me what the person said, i deserve that much'
+[Sun Dec 23 02:57:46 2001] You told Drizzut, 'We keep petitions confidential so that people will feel comfortable petitioning.'
+[Sun Dec 23 02:57:51 2001] Zykar says out of character, 'anyone got brother qwinn on track?'
+[Sun Dec 23 02:57:54 2001] Players in EverQuest:
+[Sun Dec 23 02:57:54 2001] ---------------------------
+[Sun Dec 23 02:57:54 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: southkarana (USER PID B4KJ6E7)
+[Sun Dec 23 02:57:54 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:57:55 2001] Istark shouts, 'Treant group lf 1 more. Healer or enchanter desired.'
+[Sun Dec 23 02:58:03 2001] Players in EverQuest:
+[Sun Dec 23 02:58:03 2001] ---------------------------
+[Sun Dec 23 02:58:03 2001] [23 Wizard] Istark (Human) <Blackgrass Raiders> ZONE: southkarana (USER PID FSZSB0L)
+[Sun Dec 23 02:58:03 2001] There is 1 player in EverQuest.
+[Sun Dec 23 02:58:05 2001] Istark shouts, 'But hell, we'll take anything :)'
+[Sun Dec 23 02:58:09 2001] Drizzut tells you, 'aye, i can understand that'
+[Sun Dec 23 02:58:23 2001] You told Drizzut, 'You've been very reasonable and kind, thank you!'
+[Sun Dec 23 02:58:25 2001] Drizzut tells you, 'i will show no injustice or wrong '
+[Sun Dec 23 02:58:36 2001] Wode shouts, 'looking for bull elephant and charger shaman drops TY:)'
+[Sun Dec 23 02:59:07 2001] Gatorr says out of character, 'Qwinn was up a few hours ago not sure where he is now'
+[Sun Dec 23 02:59:18 2001] Zykar says out of character, 'thanks'
+[Sun Dec 23 02:59:25 2001] Gatorr says out of character, 'np'
+[Sun Dec 23 02:59:33 2001] Espranza saved.
+[Sun Dec 23 02:59:38 2001] You told Jaggier, 'Hail, Jaggier! Senior Guide Espranza here. How may I help you?'
+[Sun Dec 23 02:59:42 2001] Players in EverQuest:
+[Sun Dec 23 02:59:42 2001] ---------------------------
+[Sun Dec 23 02:59:42 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: southkarana (USER PID B4KJ6E7)
+[Sun Dec 23 02:59:42 2001] There is 1 player in EverQuest.
+[Sun Dec 23 03:00:03 2001] Jaggier tells you, 'my spear says 20 hp but when i put it on i dont have 20hp'
+[Sun Dec 23 03:00:18 2001] Jaggier tells you, 'getting rezzed'
+[Sun Dec 23 03:00:24 2001] Jaggier tells you, 'i died'
+[Sun Dec 23 03:00:29 2001] Players in EverQuest:
+[Sun Dec 23 03:00:29 2001] ---------------------------
+[Sun Dec 23 03:00:29 2001] [1 Warrior] Jaggier (Vah Shir) ZONE: sharvahl (USER PID BYK675C)
+[Sun Dec 23 03:00:29 2001] There is 1 player in EverQuest.
+[Sun Dec 23 03:00:32 2001] Jaggier tells you, 'will that fix it?'
+[Sun Dec 23 03:00:53 2001] You told Jaggier, 'What spear is this?'
+[Sun Dec 23 03:01:10 2001] Searching zones for corpse of that name....
+[Sun Dec 23 03:01:10 2001] Corpse: Jaggier's corpse0 in zone: ecommons
+[Sun Dec 23 03:01:18 2001] Drizzut tells you, 'i have now stated my name to the guild i belong to i will make my mark on the world'
+[Sun Dec 23 03:01:31 2001] Jaggier tells you, 'okay i zoned'
+[Sun Dec 23 03:01:44 2001] You told Drizzut, 'I look forward to hearing of the adventures of Drizzut Lifebringer!'
+[Sun Dec 23 03:02:09 2001] Drizzut tells you, 'i will cya later, i will now call u friend'
+[Sun Dec 23 03:02:14 2001] You told Drizzut, 'and I you'
+[Sun Dec 23 03:02:20 2001] You told Drizzut, 'though our races war'
+[Sun Dec 23 03:02:30 2001] Jaggier tells you, 'my spear still wont show the hp'
+[Sun Dec 23 03:02:37 2001] You told Jaggier, 'which spear is it?'
+[Sun Dec 23 03:02:55 2001] Drizzut tells you, 'let it be know i have never eaten a  hafling'
+[Sun Dec 23 03:02:55 2001] Jaggier tells you, 'harpoon of the depths'
+[Sun Dec 23 03:03:07 2001] You told Drizzut, 'heh... so noted'
+[Sun Dec 23 03:03:16 2001] Jaggier tells you, 'dmg 8 dly25 dex2 hp20'
+[Sun Dec 23 03:03:53 2001] You told Jaggier, 'have you looked at your hit points both before and after wielding the harpoon?'
+[Sun Dec 23 03:04:02 2001] Jaggier tells you, 'yes'
+[Sun Dec 23 03:04:11 2001] You told Jaggier, 'and they are the same?'
+[Sun Dec 23 03:04:28 2001] Drizzut shouts, 'i am Drizzut Lifebringer, i will help u if i can, just ask'
+[Sun Dec 23 03:04:31 2001] Jaggier tells you, 'yes my hp doesnt go up at all'
+[Sun Dec 23 03:04:45 2001] You told Jaggier, 'okay, I'll note it as an issue and it will be looked into.'
+[Sun Dec 23 03:04:49 2001] Leife shouts, 'how about 1kpp for me? ;)'
+[Sun Dec 23 03:04:58 2001] Jaggier tells you, 'my chipped velium amulets hp is working fine...'
+[Sun Dec 23 03:05:05 2001] Finiefreedom says out of character, 'woot yeah'
+[Sun Dec 23 03:05:06 2001] Drizzut shouts, 'i am not that rich, maybe 8pp'
+[Sun Dec 23 03:05:11 2001] Jaggier tells you, 'but my spear...not'
+[Sun Dec 23 03:05:17 2001] You feel as if you are about to fall.
+[Sun Dec 23 03:05:22 2001] Leife shouts, 'hehe, if you don't want 8 pp, i'll take it!'
+[Sun Dec 23 03:05:23 2001] You feel as if you are about to fall.
+[Sun Dec 23 03:05:29 2001] You GMSAY, '<note bug> Jaggier BYK675C, a level 1 Vah Shir warrior, reports that his harpoon of the depths is not adding 20 hp as it ought to.'
+[Sun Dec 23 03:05:29 2001] You can no longer levitate.
+[Sun Dec 23 03:05:36 2001] Zykar says out of character, 'Brother Qwinn at n3888 p1020'
+[Sun Dec 23 03:05:46 2001] Jaggier tells you, 'okay thanx'
+[Sun Dec 23 03:05:48 2001] You told Jaggier, 'Perhas it is level related, but I don't know for sure. I have added it to my shift report, though.'
+[Sun Dec 23 03:05:48 2001] Morley Murrain shouts 'Wraiths to my aid! 
+[Sun Dec 23 03:05:49 2001] Markus Cachexia shouts 'Undead legions assist me! 
+[Sun Dec 23 03:05:51 2001] DELETING THIS PETITION
+[Sun Dec 23 03:05:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 23 03:05:53 2001] USER TEXT: I died in the lake of ill omen.....at loc n1024,n1170 but my corpse is not there
+[Sun Dec 23 03:05:53 2001] Players in EverQuest:
+[Sun Dec 23 03:05:53 2001] ---------------------------
+[Sun Dec 23 03:05:53 2001] [40 Ranger] Treborc (Human) <Disciples of Discipline> ZONE: lakeofillomen (USER PID FZAB217)
+[Sun Dec 23 03:05:53 2001] There is 1 player in EverQuest.
+[Sun Dec 23 03:05:59 2001] Searching zones for corpse of that name....
+[Sun Dec 23 03:05:59 2001] Corpse: Treborc's corpse0 in zone: lakeofillomen
+[Sun Dec 23 03:06:04 2001] You GMSAY, 'zone'
+[Sun Dec 23 03:06:08 2001] Jaggier tells you, 'k thanx'
+[Sun Dec 23 03:06:09 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 03:07:10 2001] Toopik auctions, 'WTS Gimpy Bard wep.  9/19 6 cha 2int 5sv mag.  1hp. Sarmonithes Partisan.'
+[Sun Dec 23 03:07:17 2001] You have entered Lake of Ill Omen.
+[Sun Dec 23 03:07:30 2001] Teleporting to treborc's corpse0.
+[Sun Dec 23 03:07:34 2001] Your feet leave the ground.
+[Sun Dec 23 03:07:39 2001] Forestguardian tells you, 'How will my friends know my new name?'
+[Sun Dec 23 03:07:54 2001] You told Forestguardian, 'you can tell them...'
+[Sun Dec 23 03:08:02 2001] You told Forestguardian, 'have you thought of one?'
+[Sun Dec 23 03:08:47 2001] You told Treborc, 'Hail, Treborc! Senior Guide Espranza here. Your corpse is visible, all though very, very wet. If you have trouble finding it, perhaps a bard, necromancer or shadow knight could help?'
+[Sun Dec 23 03:08:54 2001] DELETING THIS PETITION
+[Sun Dec 23 03:09:12 2001] Forestguardian tells you, 'Would forestmaiden be acceptable?'
+[Sun Dec 23 03:09:16 2001] Treborc tells you, 'lol...thnks'
+[Sun Dec 23 03:09:21 2001] You told Treborc, 'be well!'
+[Sun Dec 23 03:09:25 2001] You told Forestguardian, 'Again, that's a title.'
+[Sun Dec 23 03:09:49 2001] You told Forestguardian, 'Dryadia?'
+[Sun Dec 23 03:09:53 2001] Bylo says out of character, 'folow me'
+[Sun Dec 23 03:10:07 2001] Forestguardian tells you, 'what plant does it represent?'
+[Sun Dec 23 03:10:22 2001] You told Forestguardian, 'Dryads are tree spirits.'
+[Sun Dec 23 03:10:49 2001] Forestguardian tells you, 'that would be a good name, thank you.'
+[Sun Dec 23 03:10:55 2001] You GMSAY, 'zone'
+[Sun Dec 23 03:10:59 2001] Teleporting to forestguardian.
+[Sun Dec 23 03:11:00 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 03:11:20 2001] You have entered Crushbone.
+[Sun Dec 23 03:11:21 2001] Ithildin chuckles merrily.
+[Sun Dec 23 03:11:27 2001] It begins to rain.
+[Sun Dec 23 03:11:34 2001] You have changed Forestguardian's name to Dryadia.
+[Sun Dec 23 03:11:41 2001] You say, 'Hail, Dryadia'
+[Sun Dec 23 03:11:54 2001] Players in EverQuest:
+[Sun Dec 23 03:11:54 2001] ---------------------------
+[Sun Dec 23 03:11:54 2001] [11 Druid] Dryadia (Wood Elf) <Fist and Flame> ZONE: crushbone (USER PID F11VUUD)
+[Sun Dec 23 03:11:54 2001] There is 1 player in EverQuest.
+[Sun Dec 23 03:11:57 2001] Dryadia tells you, 'thank you'
+[Sun Dec 23 03:12:13 2001] You GMSAY, '<note> Changed Forestguardian's name to Dryadia F11VUUD'
+[Sun Dec 23 03:12:23 2001] You say, 'And, it's easier to type...'
+[Sun Dec 23 03:12:26 2001] You say, 'be well!'
+[Sun Dec 23 03:12:31 2001] You bow before Dryadia.
+[Sun Dec 23 03:12:42 2001] Dryadia kneels before Scandalan in humility and reverence.
+[Sun Dec 23 03:12:45 2001] You giggle at Dryadia.
+[Sun Dec 23 03:12:47 2001] Dryadia kneels before Espranza in humility and reverence.
+[Sun Dec 23 03:12:49 2001] You wave goodbye to Dryadia.
+[Sun Dec 23 03:12:52 2001] You GMSAY, 'zone'
+[Sun Dec 23 03:12:53 2001] Dryadia waves at Espranza.
+[Sun Dec 23 03:12:55 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Sun Dec 23 03:12:55 2001] Your Belt of Translocation begins to glow.
+[Sun Dec 23 03:12:56 2001] LOADING, PLEASE WAIT...
+[Sun Dec 23 03:13:14 2001] You have entered Sunset Home.
+[Sun Dec 23 03:13:21 2001] It begins to rain.
+[Sun Dec 23 03:13:51 2001] Players in EverQuest:
+[Sun Dec 23 03:13:51 2001] ---------------------------
+[Sun Dec 23 03:13:51 2001] [22 Paladin] Rukur (Dwarf) ZONE: ecommons (USER PID GXEPWGN)
+[Sun Dec 23 03:13:51 2001] [ANON (22 Necromancer)] Iymril (Dark Elf) ZONE: overthere (USER PID GSAWKAT)
+[Sun Dec 23 03:13:51 2001] [22 Necromancer] Nemasis (Dark Elf) <Knights  of  the  Abyss> ZONE: southkarana (USER PID GM6K2C3)
+[Sun Dec 23 03:13:51 2001] [22 Beastlord] Stargaze (Vah Shir) ZONE: paludal (USER PID BX7VXXN)
+[Sun Dec 23 03:13:51 2001] [22 Beastlord] Gatorr (Troll) <Crimson Mist> ZONE: southkarana (USER PID BRZ31FV)
+[Sun Dec 23 03:13:51 2001] There are 5 players in EverQuest.
+[Sun Dec 23 03:13:58 2001] Players in EverQuest:
+[Sun Dec 23 03:13:58 2001] ---------------------------
+[Sun Dec 23 03:13:58 2001] [23 Druid] Svipdag (Human) <Utopian Guard> ZONE: eastkarana (USER PID CX812FK)
+[Sun Dec 23 03:13:58 2001] [ANON (23 Cleric)] Winyion (Human) ZONE: warslikswood (USER PID EYWQ8C5)
+[Sun Dec 23 03:13:58 2001] [23 Warrior] Tondria (Barbarian) <Hunters of Darkness> ZONE: highkeep (USER PID H1GYD3T)
+[Sun Dec 23 03:13:58 2001] [23 Enchanter] Nialyss (Erudite) ZONE: lakerathe (USER PID ET8N6Z3)
+[Sun Dec 23 03:13:58 2001] [ANON (23 Rogue)] Prozyon (Vah Shir) ZONE: lakeofillomen (USER PID GZUWG25)
+[Sun Dec 23 03:13:58 2001] [23 Warrior] Dardoleke (Dwarf) <Compagnons de l`Aube> ZONE: lakeofillomen (USER PID C46JXHB) LFG
+[Sun Dec 23 03:13:58 2001] [23 Wizard] Istark (Human) <Blackgrass Raiders> ZONE: southkarana (USER PID FSZSB0L)
+[Sun Dec 23 03:13:58 2001] [23 Paladin] Darmin (Half Elf) <Blackgrass Raiders> ZONE: southkarana (USER PID F5APAG3)
+[Sun Dec 23 03:13:58 2001] [23 Wizard] Carnalspirit (Human) <Template of Shadows> ZONE: southkarana (USER PID B3YEK5C)
+[Sun Dec 23 03:13:58 2001] [23 Enchanter] Trilight (High Elf) ZONE: highkeep (USER PID DWRDKJW)
+[Sun Dec 23 03:13:58 2001] There are 10 players in EverQuest.
+[Sun Dec 23 03:14:08 2001] Players in EverQuest:
+[Sun Dec 23 03:14:08 2001] ---------------------------
+[Sun Dec 23 03:14:08 2001] [ANON (24 Druid)] Mordetth (Wood Elf) ZONE: stonebrunt (USER PID HTP96KW)
+[Sun Dec 23 03:14:08 2001] [ANON (24 Druid)] Frreed (Halfling) ZONE: southkarana (USER PID B2SYA2V)
+[Sun Dec 23 03:14:08 2001] [24 Paladin] Steelhelm (Dwarf) <Rise of the Phoenix> ZONE: highkeep (USER PID ERR2X44)
+[Sun Dec 23 03:14:08 2001] [24 Monk] Zelox (Iksar) ZONE: warslikswood (USER PID BR6E5JE)
+[Sun Dec 23 03:14:08 2001] [24 Warrior] Palwenna (Half Elf) ZONE: gfaydark (USER PID E1FQFHC)
+[Sun Dec 23 03:14:08 2001] There are 5 players in EverQuest.
+[Sun Dec 23 03:14:18 2001] Players in EverQuest:
+[Sun Dec 23 03:14:18 2001] ---------------------------
+[Sun Dec 23 03:14:18 2001] [25 Paladin] Rainerdays (Human) <Template of Shadows> ZONE: butcher (USER PID BU7C1ZG)
+[Sun Dec 23 03:14:18 2001] [ANON (25 Druid)] Tiggili (Halfling) ZONE: firiona (USER PID CV38S6D)
+[Sun Dec 23 03:14:18 2001] There are 2 players in EverQuest.
+[Sun Dec 23 03:14:23 2001] Players in EverQuest:
+[Sun Dec 23 03:14:23 2001] ---------------------------
+[Sun Dec 23 03:14:23 2001] [26 Bard] Zarah (Wood Elf) ZONE: butcher (USER PID FXCNL2F)
+[Sun Dec 23 03:14:23 2001] [ANON (26 Wizard)] Quazor (Human) ZONE: highkeep (USER PID AW61ZFS)
+[Sun Dec 23 03:14:23 2001] [26 Shaman] Wode (Barbarian) <Champions of the Light> ZONE: southkarana (USER PID EWW224B)
+[Sun Dec 23 03:14:23 2001] [26 Necromancer] Bunyip (Erudite) <Sphere of Legends> ZONE: southkarana (USER PID AVW694W)
+[Sun Dec 23 03:14:23 2001] [26 Warrior] Ztart (Human) ZONE: eastwastes (USER PID AXXAJKU)
+[Sun Dec 23 03:14:23 2001] [26 Cleric] Tippani (Halfling) <The Forgotten> ZONE: lakeofillomen (USER PID HTHUZS6)
+[Sun Dec 23 03:14:23 2001] [26 Ranger] Faelx (Wood Elf) <Disciples of Discipline> ZONE: eastkarana (USER PID G31JX1Q)
+[Sun Dec 23 03:14:23 2001] There are 7 players in EverQuest.
+[Sun Dec 23 03:14:31 2001] Players in EverQuest:
+[Sun Dec 23 03:14:31 2001] ---------------------------
+[Sun Dec 23 03:14:31 2001] [27 Cleric] Anders (Dwarf) <Titan Lords> ZONE: rathemtn (USER PID BV5CY35)
+[Sun Dec 23 03:14:31 2001] [ANON (27 Rogue)] Trixxii (Gnome) ZONE: overthere (USER PID FN2PSVB)
+[Sun Dec 23 03:14:31 2001] [ANON (27 Druid)] Rvaras (Wood Elf) ZONE: lakeofillomen (USER PID CVSSJTD)
+[Sun Dec 23 03:14:31 2001] [ANON (27 Cleric)] Msytra (Dark Elf) ZONE: nektulos (USER PID HYASXY9)
+[Sun Dec 23 03:14:31 2001] [27 Monk] Jyralda (Human) <Knights of Arcane Lore> ZONE: netherbian (USER PID HSPSBUD)
+[Sun Dec 23 03:14:31 2001] [27 Rogue] Sharena (Wood Elf) <Knights of Arcane Lore> ZONE: netherbian (USER PID DU1L9SD)
+[Sun Dec 23 03:14:31 2001] [27 Shadow Knight] Sasuliki (Iksar) <Wraith Lords> ZONE: lakeofillomen (USER PID GUNV155)
+[Sun Dec 23 03:14:31 2001] There are 7 players in EverQuest.
+[Sun Dec 23 03:14:39 2001] Players in EverQuest:
+[Sun Dec 23 03:14:39 2001] ---------------------------
+[Sun Dec 23 03:14:39 2001] [28 Cleric] Ddori (High Elf) <Brothers> ZONE: overthere (USER PID AWWEZMV)
+[Sun Dec 23 03:14:39 2001] [28 Paladin] Dimmit (Human) ZONE: highkeep (USER PID BNY6XT8)
+[Sun Dec 23 03:14:39 2001] [28 Paladin] Lelron (Human) <Libertas Norrath> ZONE: lakeofillomen (USER PID GZAS5R2)
+[Sun Dec 23 03:14:39 2001] [28 Rogue] Mintjula (Wood Elf) ZONE: southkarana (USER PID CUGPKZ9)
+[Sun Dec 23 03:14:39 2001] [28 Paladin] Edenique (Dwarf) <Hunters of Darkness> ZONE: lakeofillomen (USER PID H2TDWB0)
+[Sun Dec 23 03:14:39 2001] [28 Rogue] Majell (Wood Elf) ZONE: highkeep (USER PID APRQYHP)
+[Sun Dec 23 03:14:39 2001] There are 6 players in EverQuest.
+[Sun Dec 23 03:14:46 2001] Players in EverQuest:
+[Sun Dec 23 03:14:46 2001] ---------------------------
+[Sun Dec 23 03:14:46 2001] [29 Druid] Tilius (Wood Elf) <Leaders of Honor> ZONE: lakeofillomen (USER PID GY9ZP0H)
+[Sun Dec 23 03:14:46 2001] [ANON (29 Druid)] Leife (Wood Elf) ZONE: southkarana (USER PID HNV5505)
+[Sun Dec 23 03:14:46 2001] [ANON (29 Cleric)] Madchas (Dark Elf) ZONE: paw (USER PID CYTQF7Z)
+[Sun Dec 23 03:14:46 2001] There are 3 players in EverQuest.
+[Sun Dec 23 03:14:52 2001] Players in EverQuest:
+[Sun Dec 23 03:14:52 2001] ---------------------------
+[Sun Dec 23 03:14:52 2001] [ANON (30 Rogue)] Hootey (Halfling) ZONE: overthere (USER PID AVWGBDH)
+[Sun Dec 23 03:14:52 2001] [ANON (30 Druid)] Ciscoe (Half Elf) ZONE: freportw (USER PID CVUTUYS)
+[Sun Dec 23 03:14:52 2001] [30 Warrior] Voil (Troll) ZONE: feerrott (USER PID G3QCTTP)
+[Sun Dec 23 03:14:52 2001] [ANON (30 Enchanter)] Frizzel (High Elf) ZONE: ecommons (USER PID BVV6CL3)
+[Sun Dec 23 03:14:52 2001] [30 Druid] Oberonw (Human) <Menestrels> ZONE: greatdivide (USER PID GUEVHHN)
+[Sun Dec 23 03:14:52 2001] [30 Shaman] Kinrad (Barbarian) <Bellatorae Mysticus> ZONE: thurgadina (USER PID EXQA9Z8)
+[Sun Dec 23 03:14:52 2001] [30 Druid] Dauntefierro (Halfling) <Hunters of Darkness> ZONE: ecommons (USER PID D25N7RB)
+[Sun Dec 23 03:14:52 2001] [30 Warrior] Artak (Barbarian) ZONE: rathemtn (USER PID HZPDUKZ)
+[Sun Dec 23 03:14:52 2001] [30 Monk] Jongcang (Human) <Elder Servitor> ZONE: warslikswood (USER PID EUT3FYH)
+[Sun Dec 23 03:14:52 2001] [30 Paladin] Skmall (Dwarf) ZONE: mistmoore (USER PID HWCN8GG)
+[Sun Dec 23 03:14:52 2001] [30 Necromancer] Cholonge (Dark Elf) ZONE: paw (USER PID DV9ET7B)
+[Sun Dec 23 03:14:52 2001] [30 Wizard] Mendregon (Erudite) ZONE: qey2hh1 (USER PID FUYU97C)
+[Sun Dec 23 03:14:52 2001] [ANON (30 Cleric)] Tsadrin (Dark Elf) ZONE: nektulos (USER PID HWA1ED3)
+[Sun Dec 23 03:14:52 2001] [30 Monk] Crontab (Human) ZONE: highkeep (USER PID HN0L2ZA)
+[Sun Dec 23 03:14:52 2001] There are 14 players in EverQuest.
+[Sun Dec 23 03:15:42 2001] You feel the spirit of Norrath enter you.
+[Sun Dec 23 03:16:49 2001] Players in EverQuest:
+[Sun Dec 23 03:16:49 2001] ---------------------------
+[Sun Dec 23 03:16:49 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sun Dec 23 03:16:49 2001] There is 1 player in EverQuest.
+[Sun Dec 23 03:16:53 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Dec 23 03:16:57 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Dec 23 03:17:02 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Dec 23 03:17:07 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Dec 23 03:17:12 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Dec 23 03:17:17 2001] It will take about 5 more seconds to prepare your camp.

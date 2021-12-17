@@ -1,0 +1,1529 @@
+[Mon Dec 24 17:07:55 2001] Welcome to EverQuest!
+[Mon Dec 24 17:07:55 2001] You have entered Sunset Home.
+[Mon Dec 24 17:07:59 2001] Players in EverQuest:
+[Mon Dec 24 17:07:59 2001] ---------------------------
+[Mon Dec 24 17:07:59 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Mon Dec 24 17:07:59 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: fungusgrove (USER PID CW1ECN5)
+[Mon Dec 24 17:07:59 2001] * Guide *[ANON (35 Magician)] Goodiegiver (Gnome) ZONE: commons (USER PID HUGBLZN)
+[Mon Dec 24 17:07:59 2001] There are 3 players in EverQuest.
+[Mon Dec 24 17:08:00 2001] It begins to rain.
+[Mon Dec 24 17:08:03 2001] You GMSAY, 'hiya!'
+[Mon Dec 24 17:08:12 2001] You have changed Espranza's last name to the Shrub Elf.
+[Mon Dec 24 17:08:19 2001] Lirus GMSAYS, 'hiya!'
+[Mon Dec 24 17:08:23 2001] You GMSAY, 'need help?'
+[Mon Dec 24 17:08:26 2001] Lirus GMSAYS, 'yeah'
+[Mon Dec 24 17:08:29 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 17:08:30 2001] USER TEXT: i cant seem to hand my pet a weapon it keeps asking me if I want to drop it on the ground
+[Mon Dec 24 17:08:30 2001] Players in EverQuest:
+[Mon Dec 24 17:08:30 2001] ---------------------------
+[Mon Dec 24 17:08:30 2001] [14 Magician] Ashlie (High Elf) ZONE: northkarana (USER PID ESSQWDW)
+[Mon Dec 24 17:08:30 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:08:33 2001] Lirus GMSAYS, 'was handing out goodies didn't see the que'
+[Mon Dec 24 17:08:38 2001] Goodiegiver GMSAYS, 'I'll log back to Rimedear, too'
+[Mon Dec 24 17:09:28 2001] Goodiegiver2 GMSAYS, 'hiya'
+[Mon Dec 24 17:09:34 2001] You told Ashlie, 'Hail, Ashlie! Senior Guide Espranza here. Try giving it to the pet by clicking on its name, I find that works really well.'
+[Mon Dec 24 17:09:38 2001] Players in EverQuest:
+[Mon Dec 24 17:09:38 2001] ---------------------------
+[Mon Dec 24 17:09:38 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Mon Dec 24 17:09:38 2001] * Guide *[ANON (35 Magician)] Goodiegiver2 (Gnome) ZONE: butcher (USER PID FUGB78G)
+[Mon Dec 24 17:09:38 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: fungusgrove (USER PID CW1ECN5)
+[Mon Dec 24 17:09:38 2001] * Guide *[ANON (35 Magician)] Goodiegiver (Gnome) ZONE: commons (USER PID HUGBLZN)
+[Mon Dec 24 17:09:38 2001] There are 4 players in EverQuest.
+[Mon Dec 24 17:09:45 2001] You GMSAY, 'Hello, Goodies!'
+[Mon Dec 24 17:10:02 2001] You GMSAY, 'Before we do more goodie giving, could we crunch the queue a little?'
+[Mon Dec 24 17:10:09 2001] Ashlie tells you, 'i tried everything .. finally gave up ... thanks '
+[Mon Dec 24 17:10:14 2001] Lirus GMSAYS, 'yeah'
+[Mon Dec 24 17:10:21 2001] Lirus GMSAYS, 'well goodies can stay'
+[Mon Dec 24 17:10:24 2001] You told Ashlie, 'okay, best of luck'
+[Mon Dec 24 17:10:27 2001] Lirus GMSAYS, 'i'll get it down'
+[Mon Dec 24 17:10:27 2001] DELETING THIS PETITION
+[Mon Dec 24 17:10:28 2001] Goodiegiver2 GMSAYS, '/cheer'
+[Mon Dec 24 17:10:28 2001] Ashlie tells you, 'thx'
+[Mon Dec 24 17:10:33 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 17:10:34 2001] USER TEXT: gm where is my body?
+[Mon Dec 24 17:10:34 2001] Players in EverQuest:
+[Mon Dec 24 17:10:34 2001] ---------------------------
+[Mon Dec 24 17:10:34 2001] [35 Shadow Knight] Mordorian (Human) <Titan Lords> ZONE: dawnshroud (USER PID FZJPHYN)
+[Mon Dec 24 17:10:34 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:10:38 2001] Searching zones for corpse of that name....
+[Mon Dec 24 17:10:58 2001] You told Mordorian, 'Hail, Mordorian! Senior Guide Espranza here. Have you found your corpse?'
+[Mon Dec 24 17:11:01 2001] Rimedear GMSAYS, 'Ah, poo... I'm gueue locked... brb'
+[Mon Dec 24 17:11:08 2001] Mordorian tells you, 'yes i did thank you'
+[Mon Dec 24 17:11:28 2001] You GMSAY, '/em uses great restraint and doesn't change Mordorian's name'
+[Mon Dec 24 17:11:46 2001] You told Mordorian, 'Wonderful news! Happy holidays and be well!'
+[Mon Dec 24 17:11:50 2001] DELETING THIS PETITION
+[Mon Dec 24 17:11:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 17:11:53 2001] USER TEXT: Client crashed to desktop causing my demise in The crypt od dalnir
+[Mon Dec 24 17:11:53 2001] Players in EverQuest:
+[Mon Dec 24 17:11:53 2001] ---------------------------
+[Mon Dec 24 17:11:53 2001] There are no players in EverQuest that match those who filters.
+[Mon Dec 24 17:11:53 2001] Mordorian tells you, 'when i got rezzed i was near body-after rez i was a little ways away for some reason'
+[Mon Dec 24 17:12:02 2001] You told Mordorian, 'ah, okay'
+[Mon Dec 24 17:12:07 2001] Mordorian tells you, 'thanks and you too!'
+[Mon Dec 24 17:12:13 2001] You GMSAY, 'Atrecia unavail x1'
+[Mon Dec 24 17:12:16 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Dec 24 17:12:17 2001] CHECKING IN
+[Mon Dec 24 17:12:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 17:12:19 2001] USER TEXT: my spellbook seems to consume my mouse cursor!!
+[Mon Dec 24 17:12:20 2001] Players in EverQuest:
+[Mon Dec 24 17:12:20 2001] ---------------------------
+[Mon Dec 24 17:12:20 2001] [54 Heretic] Shadowcry (Dark Elf) ZONE: gukbottom (USER PID DXCKVTC)
+[Mon Dec 24 17:12:20 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:12:59 2001] You told Shadowcry, 'Hail, Shadowcry! Senior Guide Espranza here. Still having problems with your mose and the spell book?'
+[Mon Dec 24 17:13:33 2001] Shadowcry tells you, 'sec killing =)'
+[Mon Dec 24 17:13:46 2001] Players in EverQuest:
+[Mon Dec 24 17:13:46 2001] ---------------------------
+[Mon Dec 24 17:13:46 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID HUGBLZN)
+[Mon Dec 24 17:13:46 2001] * Guide *[ANON (35 Magician)] Goodiegiver2 (Gnome) ZONE: commons (USER PID FUGB78G)
+[Mon Dec 24 17:13:46 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Mon Dec 24 17:13:46 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: fungusgrove (USER PID CW1ECN5)
+[Mon Dec 24 17:13:46 2001] There are 4 players in EverQuest.
+[Mon Dec 24 17:13:55 2001] Teleporting to rimedear.
+[Mon Dec 24 17:14:04 2001] Teleporting to rimedear.
+[Mon Dec 24 17:14:08 2001] Lirus GMSAYS, 'zone'
+[Mon Dec 24 17:14:12 2001] Teleporting to rimedear.
+[Mon Dec 24 17:14:22 2001] Rimedear says, 'Hail, Espranza'
+[Mon Dec 24 17:14:26 2001] You say, 'I like the distinguished older look'
+[Mon Dec 24 17:14:31 2001] Shadowcry tells you, 'seems my mouse disapears when i open my spell book'
+[Mon Dec 24 17:14:34 2001] You say, 'hiya!'
+[Mon Dec 24 17:14:43 2001] You told Shadowcry, 'have you tried rebooting?'
+[Mon Dec 24 17:14:49 2001] Shadowcry tells you, 'yup'
+[Mon Dec 24 17:15:00 2001] You told Shadowcry, 'Are you having any other video issues?'
+[Mon Dec 24 17:15:35 2001] Rimedear says, 'Oh my, this pet is trying to kill a soulbinder'
+[Mon Dec 24 17:15:43 2001] You say, 'if they can do it...'
+[Mon Dec 24 17:15:49 2001] You say, 'won't drop anything'
+[Mon Dec 24 17:15:55 2001] You say, 'nor give exp'
+[Mon Dec 24 17:16:29 2001] Rimedear says, 'Yup, they found that out'
+[Mon Dec 24 17:16:55 2001] Shadowcry tells you, 'any idea?'
+[Mon Dec 24 17:17:00 2001] You say, 'why are they petitioning?'
+[Mon Dec 24 17:17:35 2001] You told Shadowcry, 'Perhaps its a technical issue, in which case contacting tech support would be best. Have you tried changing video modes by using F10 to go into windowed mode before opening the spellbook?'
+[Mon Dec 24 17:17:41 2001] DELETING THIS PETITION
+[Mon Dec 24 17:17:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 17:17:43 2001] USER TEXT: I was on my way to Sebilis,TPed into EJ to go there.. And now O cant move or type or anything when I log in on my warrior..but every other zone is fine I zone in like 7 seconds can you please help me get him out of there? I wont go back I promis
+[Mon Dec 24 17:17:43 2001] Players in EverQuest:
+[Mon Dec 24 17:17:43 2001] ---------------------------
+[Mon Dec 24 17:17:43 2001] [40 Rogue] Javalinia (Wood Elf) <Titan Lords> ZONE: lavastorm (USER PID BXXEQNT) LFG
+[Mon Dec 24 17:17:43 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:17:44 2001] Rimedear says, 'Cause they're gOoFy'
+[Mon Dec 24 17:17:48 2001] You say, 'heh'
+[Mon Dec 24 17:17:59 2001] Espranza saved.
+[Mon Dec 24 17:18:08 2001] Shadowcry tells you, 'nope doesn't work, just tried'
+[Mon Dec 24 17:18:44 2001] Lirus GMSAYS, 'zone'
+[Mon Dec 24 17:18:52 2001] You told Shadowcry, 'Hmmph. Well, tech support is the way to go then. You can contact them through Chat, email, on the web or by phone, but coverage is spotty these days.'
+[Mon Dec 24 17:19:06 2001] Shadowcry tells you, 'spotty?'
+[Mon Dec 24 17:19:20 2001] You told Javalinia, 'Hail, Javalinia! Senior Guide Espranza here. Who is your warrior?'
+[Mon Dec 24 17:19:28 2001] Javalinia tells you, 'Etenies =)'
+[Mon Dec 24 17:19:44 2001] You told Shadowcry, 'Very light coverage during Christmas.'
+[Mon Dec 24 17:19:51 2001] Shadowcry tells you, 'oo of course'
+[Mon Dec 24 17:20:23 2001] Shadowcry tells you, 'i was surprised by your quick response'
+[Mon Dec 24 17:20:25 2001] Shadowcry tells you, 'thx for ur time'
+[Mon Dec 24 17:20:30 2001] You told Shadowcry, 'I would check the tech support forums on the EQ web site to see if someone has similar problems.'
+[Mon Dec 24 17:20:35 2001] Rimedear GMSAYS, '~-~-~ Zoning ~-~-~'
+[Mon Dec 24 17:20:38 2001] You told Shadowcry, 'no worries! Happy Holidays!'
+[Mon Dec 24 17:20:59 2001] You told Javalinia, 'Could you log him or her in? I'll go to her and see if I can find something wrong...'
+[Mon Dec 24 17:21:38 2001] Javalinia tells you, 'Yes but it takes sooo long to see anything and then I cant move or see if I had a tell or type or anything '
+[Mon Dec 24 17:21:52 2001] You told Javalinia, 'I'll keep an eye out for you.'
+[Mon Dec 24 17:22:13 2001] Lirus GMSAYS, 'zone'
+[Mon Dec 24 17:22:18 2001] Javalinia tells you, 'Then what shall I do?...I wont be able to see if you talking to me'
+[Mon Dec 24 17:22:32 2001] You told Javalinia, 'I just want to come to you and see if I can see something wrong.'
+[Mon Dec 24 17:23:47 2001] Lirus GMSAYS, 'zone'
+[Mon Dec 24 17:23:58 2001] Javalinia tells you, 'If you cant see anything wrong then still how will I get him out?...that is the only zone that it has done this I zone into every other zone in like 7 seconds.'
+[Mon Dec 24 17:24:13 2001] You told Javalinia, 'I'll ask the GM to help'
+[Mon Dec 24 17:24:35 2001] You GMSAY, 'esc Javalinia, it's mine, she's trying something'
+[Mon Dec 24 17:24:38 2001] STATUS UPGRADED TO URGENT
+[Mon Dec 24 17:24:39 2001] CHECKING IN
+[Mon Dec 24 17:24:41 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 17:24:41 2001] USER TEXT: I am getting a ton of problems with the ships is there something I can do... a few pieces are see through and it makes me scared and seasick
+[Mon Dec 24 17:24:42 2001] Players in EverQuest:
+[Mon Dec 24 17:24:42 2001] ---------------------------
+[Mon Dec 24 17:24:42 2001] [28 Warrior] Bregga (Dwarf) <Norrath Gatekeepers> ZONE: freporte (USER PID HZZC23G)
+[Mon Dec 24 17:24:42 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:25:17 2001] Javalinia tells you, 'Seriously every zone but that one is ok but I cant get him to move or type.. I wont be able to see if I am attacked or killed or anything'
+[Mon Dec 24 17:25:28 2001] You told Javalinia, 'which zone is it?'
+[Mon Dec 24 17:25:35 2001] Javalinia tells you, 'Emerald Jungle'
+[Mon Dec 24 17:25:45 2001] UNDOING CHECK OUT
+[Mon Dec 24 17:25:53 2001] You told Javalinia, 'druid port in?'
+[Mon Dec 24 17:25:57 2001] Javalinia tells you, 'Yes'
+[Mon Dec 24 17:25:57 2001] Players in EverQuest:
+[Mon Dec 24 17:25:57 2001] ---------------------------
+[Mon Dec 24 17:25:57 2001] [40 Rogue] Javalinia (Wood Elf) <Titan Lords> ZONE: lavastorm (USER PID BXXEQNT) LFG
+[Mon Dec 24 17:25:57 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:26:08 2001] You told Javalinia, 'log him or her in, I'll help...'
+[Mon Dec 24 17:26:29 2001] You GMSAY, 'zone'
+[Mon Dec 24 17:26:34 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 17:28:38 2001] You have entered The Emerald Jungle.
+[Mon Dec 24 17:28:59 2001] Players in EverQuest:
+[Mon Dec 24 17:28:59 2001] ---------------------------
+[Mon Dec 24 17:28:59 2001] [40 Rogue] Javalinia (Wood Elf) <Titan Lords> ZONE: lavastorm (USER PID BXXEQNT) LFG
+[Mon Dec 24 17:28:59 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:29:19 2001] You were hit by non-melee for 10000 dmg.
+[Mon Dec 24 17:29:19 2001] You have been knocked unconscious!
+[Mon Dec 24 17:29:19 2001] YOU were injured by falling.
+[Mon Dec 24 17:29:19 2001] You have fallen to your death!
+[Mon Dec 24 17:29:20 2001] YOU were injured by falling.
+[Mon Dec 24 17:29:20 2001] You have fallen to your death!
+[Mon Dec 24 17:29:21 2001] Returning to home point, please wait...
+[Mon Dec 24 17:29:22 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 17:30:42 2001] You have entered Firiona Vie.
+[Mon Dec 24 17:30:51 2001] You GMSAY, 'zoned rezoning'
+[Mon Dec 24 17:30:59 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 17:32:43 2001] You have entered The Emerald Jungle.
+[Mon Dec 24 17:32:54 2001] Teleporting to espranza's corpse0.
+[Mon Dec 24 17:33:07 2001] You no longer have a target.
+[Mon Dec 24 17:33:08 2001] Espranza saved.
+[Mon Dec 24 17:33:17 2001] You regain some experience from resurrection.
+[Mon Dec 24 17:33:17 2001] You have gained a level! Welcome to level 54!
+[Mon Dec 24 17:33:17 2001] You are being resurrected...
+[Mon Dec 24 17:33:29 2001] Javalinia tells you, 'How long should I log him on for since I wont know when your done checking to see if there is a problem?'
+[Mon Dec 24 17:33:52 2001] You told Javalinia, 'about a minute or so'
+[Mon Dec 24 17:34:32 2001] Rimedear GMSAYS, 'Going anon/invis for investigation'
+[Mon Dec 24 17:34:35 2001] Javalinia tells you, 'Okay camping and logging Etenies'
+[Mon Dec 24 17:34:39 2001] You told Javalinia, 'okay'
+[Mon Dec 24 17:34:53 2001] You no longer have a target.
+[Mon Dec 24 17:34:58 2001] Espranza saved.
+[Mon Dec 24 17:35:00 2001] You feel the spirit of Norrath enter you.
+[Mon Dec 24 17:35:00 2001] You feel the spirit of Norrath enter you.
+[Mon Dec 24 17:35:01 2001] You feel the spirit of Z surround you.
+[Mon Dec 24 17:35:03 2001] Your feet leave the ground.
+[Mon Dec 24 17:35:28 2001] It begins to rain.
+[Mon Dec 24 17:35:34 2001] Players in EverQuest:
+[Mon Dec 24 17:35:34 2001] ---------------------------
+[Mon Dec 24 17:35:34 2001] [60 Warlord] Etenies (Dwarf) ZONE: emeraldjungle (USER PID BXXEQNT)
+[Mon Dec 24 17:35:34 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:35:38 2001] Teleporting to etenies.
+[Mon Dec 24 17:35:41 2001] Teleporting to etenies.
+[Mon Dec 24 17:35:46 2001] Teleporting to etenies.
+[Mon Dec 24 17:35:49 2001] Teleporting to etenies.
+[Mon Dec 24 17:35:52 2001] Teleporting to etenies.
+[Mon Dec 24 17:35:54 2001] Teleporting to etenies.
+[Mon Dec 24 17:35:58 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:03 2001] Lirus GMSAYS, 'zone'
+[Mon Dec 24 17:36:06 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:08 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:10 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:11 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:12 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:13 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:15 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:16 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:18 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:20 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:23 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:25 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:30 2001] Players in EverQuest:
+[Mon Dec 24 17:36:30 2001] ---------------------------
+[Mon Dec 24 17:36:30 2001] [60 Warlord] Etenies (Dwarf) ZONE: emeraldjungle (USER PID BXXEQNT)
+[Mon Dec 24 17:36:30 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:36:36 2001] Summoning etenies.
+[Mon Dec 24 17:36:46 2001] Teleporting to etenies.
+[Mon Dec 24 17:36:55 2001] Players in EverQuest:
+[Mon Dec 24 17:36:55 2001] ---------------------------
+[Mon Dec 24 17:36:55 2001] [60 Warlord] Etenies (Dwarf) ZONE: emeraldjungle (USER PID BXXEQNT)
+[Mon Dec 24 17:36:55 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:37:04 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:13 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:14 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:18 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:24 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:28 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:30 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:34 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:35 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:37 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:39 2001] Teleporting to etenies.
+[Mon Dec 24 17:37:56 2001] Teleporting to etenies.
+[Mon Dec 24 17:38:00 2001] Players in EverQuest:
+[Mon Dec 24 17:38:00 2001] ---------------------------
+[Mon Dec 24 17:38:00 2001] [60 Warlord] Etenies (Dwarf) ZONE: emeraldjungle (USER PID BXXEQNT)
+[Mon Dec 24 17:38:00 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:38:09 2001] Rimedear GMSAYS, '<NOTE BADNAME> Hashesh AZNX1AV'
+[Mon Dec 24 17:38:16 2001] You GMSAY, 'agh esc that one'
+[Mon Dec 24 17:38:24 2001] Players in EverQuest:
+[Mon Dec 24 17:38:24 2001] ---------------------------
+[Mon Dec 24 17:38:24 2001] [60 Warlord] Etenies (Dwarf) ZONE: emeraldjungle (USER PID BXXEQNT)
+[Mon Dec 24 17:38:24 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:38:32 2001] Teleporting to etenies.
+[Mon Dec 24 17:38:34 2001] Rimedear GMSAYS, 'I saw it myself'
+[Mon Dec 24 17:38:54 2001] Players in EverQuest:
+[Mon Dec 24 17:38:54 2001] ---------------------------
+[Mon Dec 24 17:38:54 2001] [19 Beastlord] Hashesh (Vah Shir) ZONE: ecommons (USER PID AZNX1AV)
+[Mon Dec 24 17:38:54 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:39:05 2001] Teleporting to etenies.
+[Mon Dec 24 17:39:08 2001] Players in EverQuest:
+[Mon Dec 24 17:39:08 2001] ---------------------------
+[Mon Dec 24 17:39:08 2001] [60 Warlord] Etenies (Dwarf) ZONE: emeraldjungle (USER PID BXXEQNT)
+[Mon Dec 24 17:39:08 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:39:39 2001] You GMSAY, 'zone'
+[Mon Dec 24 17:39:42 2001] Teleporting to hashesh.
+[Mon Dec 24 17:39:43 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 17:40:23 2001] a skeleton has been slain by Gobobn!
+[Mon Dec 24 17:40:24 2001] Drasyre auctions, 'WTS glowing black sword'
+[Mon Dec 24 17:40:31 2001] You have entered East Commonlands.
+[Mon Dec 24 17:40:32 2001] Rdili auctions, 'gloves, 12AC 9STA 6int/wis 20hp,20 mana'
+[Mon Dec 24 17:40:34 2001] Rdili auctions, 'coldain skin gloves 3k'
+[Mon Dec 24 17:40:39 2001] Rdili auctions, 'Coldain skin boots, +8 int, +8 wis, +35 mana, 2AC'
+[Mon Dec 24 17:40:47 2001] Searching zones for corpse of that name....
+[Mon Dec 24 17:40:49 2001] Doane auctions, 'wts flayed boots 8ac 6 str 2 int (NEC SHD) 200pp'
+[Mon Dec 24 17:41:02 2001] Shaksimag auctions, 'WTS shaded blade, crystalline eye, dire wolf fur cloak, knuckle duster, footpads of the tiger, WTB netted kelp/loam encrusted/mq'd thurg caster pants, send tell'
+[Mon Dec 24 17:41:06 2001] Nanlinn auctions, 'Necro Research Spells: Call of Bones, Harmshield, Haunting Corpse (level 24 pet), Vampiric Curse, Renew Bones; 30 pp each'
+[Mon Dec 24 17:41:07 2001] Nanlinn auctions, 'Kodiak Claws 7/30 1hs - 30pp; Frozen Long Sword 7/26 1hs - 50 pp; Crystal Fiber 8/28 1hs - 70pp; Orc Fang Earring - +3 AC, +15 HP, +3 STR - 50 pp; Cougar Claw Earring - +4 AC, +3 STR, +2 DEX - 400 pp'
+[Mon Dec 24 17:41:24 2001] Feli begins to cast a spell. (Summon Horse)
+[Mon Dec 24 17:41:41 2001] You told Hashesh, 'Hail, Senior Guide Espranza here. Names that refer to drugs such as hashish are not allowed by our naming guidelines that may be found on the EQ web site.'
+[Mon Dec 24 17:41:42 2001] Drasyre auctions, 'WTS glowing black sword'
+[Mon Dec 24 17:41:45 2001] Strongfist auctions, '<< SELLING >> 10charge sow potions 100pp each send tells plz'
+[Mon Dec 24 17:41:48 2001] Temparr auctions, 'WTS Groaning Mace 23/44 2hb wis5 str5 mana40 Looks cool 1k | MoSS 19/29 1hb int 10 SK only 1,3k | Centi Warspear 20/30 2hp ac5 str5 sta5 1,2k | Earthen Gauntlets ac10 str5 200pp | Neck piece ac2 int3 wis3 chr3 150pp'
+[Mon Dec 24 17:41:52 2001] You wave at Hashesh.
+[Mon Dec 24 17:42:02 2001] Drasyre auctions, 'WTS centi warhammer 15 32 5str 5sta 2wis 1hb'
+[Mon Dec 24 17:42:04 2001] Nanlinn begins to cast a spell. (Invoke Shadow)
+[Mon Dec 24 17:42:06 2001] Hashesh tells you, 'I tried to get it changed GM told me i couldnt =)'
+[Mon Dec 24 17:42:10 2001] Spheer auctions, 'WTS Massive Velium Brawl Stick 32/37 wt:3.6 all except bard'
+[Mon Dec 24 17:42:11 2001] Shaksimag auctions, 'WTS shaded blade, crystalline eye, dire wolf fur cloak, knuckle duster, footpads of the tiger, WTB netted kelp/loam encrusted/mq'd thurg caster pants, send tell'
+[Mon Dec 24 17:42:17 2001] Hashesh waves at Espranza.
+[Mon Dec 24 17:42:17 2001] Rdili auctions, 'gloves, 12AC 9STA 6int/wis 20hp,20 mana'
+[Mon Dec 24 17:42:22 2001] Jobekn says 'Changing position, Master.'
+[Mon Dec 24 17:42:23 2001] Dodoro auctions, 'WTS Large Fineplate Bracer ac 9 100pp, send tells'
+[Mon Dec 24 17:42:24 2001] You told hashesh, 'Well, you can - in fact must. Do you have a new name in mind?'
+[Mon Dec 24 17:42:24 2001] Rdili auctions, 'Coldain skin boots, +8 int, +8 wis, +35 mana, 2AC'
+[Mon Dec 24 17:42:26 2001] Jalaska auctions, 'WTS hardened bone spear 12 25 str 15 rog sham war bard rng.'
+[Mon Dec 24 17:42:26 2001] Hashesh tells you, 'my brother named it =('
+[Mon Dec 24 17:42:27 2001] Jalaska auctions, 'WTS harness of grey flesh 12 ac 5 sta hp mana 20 sv cold 10'
+[Mon Dec 24 17:42:29 2001] Drasyre auctions, 'WTS glowing black sword'
+[Mon Dec 24 17:42:31 2001] Drasyre auctions, 'WTS centi warhammer 15 32 5str 5sta 2wis 1hb'
+[Mon Dec 24 17:42:41 2001] Nanlinn auctions, 'Necro Research Spells: Call of Bones, Harmshield, Haunting Corpse (level 24 pet), Vampiric Curse, Renew Bones; 30 pp each'
+[Mon Dec 24 17:42:42 2001] Glamdrin auctions, 'WTB paladin pants for 52pp'
+[Mon Dec 24 17:42:43 2001] Nanlinn auctions, 'Kodiak Claws 7/30 1hs - 30pp; Frozen Long Sword 7/26 1hs - 50 pp; Crystal Fiber 8/28 1hs - 70pp; Orc Fang Earring - +3 AC, +15 HP, +3 STR - 50 pp; Cougar Claw Earring - +4 AC, +3 STR, +2 DEX - 400 pp'
+[Mon Dec 24 17:42:50 2001] You GMSAY, 'heh... he says his brother named it.'
+[Mon Dec 24 17:42:56 2001] Hashesh tells you, 'well '
+[Mon Dec 24 17:42:58 2001] Doane auctions, 'wts flayed boots 8ac 6 str 2 int (NEC SHD) 200pp'
+[Mon Dec 24 17:43:03 2001] Spheer auctions, 'WTS Granite Face Grinder 29/36 str+10 wis+10 int+10 Bst,Shm<,Shd,Pal,War'
+[Mon Dec 24 17:43:07 2001] Jobekn says 'Following you, Master.'
+[Mon Dec 24 17:43:11 2001] Tump auctions, '<SELLING>  Belt of the Cenobite---Glowing Black Sword---Blade of Xalgoz---Black Iron Crown---Gatorscale Sleeves----Platinum Tiara               Send Tells'
+[Mon Dec 24 17:43:16 2001] Hashesh tells you, 'Thomas if it is avaliable'
+[Mon Dec 24 17:43:16 2001] Shaksimag hugs Espranza.
+[Mon Dec 24 17:43:21 2001] Shaksimag says, 'Merry Christmas Halfling'
+[Mon Dec 24 17:43:26 2001] Shaksimag points at Espranza. Yeah you!
+[Mon Dec 24 17:43:26 2001] You told Hashesh, 'I doubt it, but I'll try'
+[Mon Dec 24 17:43:28 2001] Ouli shouts, 'lvl 7 Beastlord LFG'
+[Mon Dec 24 17:43:30 2001] You say, 'Shrub Elf.'
+[Mon Dec 24 17:43:31 2001] Hashesh tells you, 'old cats name )'
+[Mon Dec 24 17:43:33 2001] Spheer auctions, 'WTS Lammy 7500p'
+[Mon Dec 24 17:43:34 2001] Hashesh tells you, 'hehe'
+[Mon Dec 24 17:43:39 2001] Shaksimag says, 'No no, Halfling, silly'
+[Mon Dec 24 17:43:41 2001] Drasyre says, 'lol'
+[Mon Dec 24 17:43:48 2001] Ouli shouts, 'lvl 7 Beastlord LFG'
+[Mon Dec 24 17:43:49 2001] You have changed Hashesh's name to Thomas.
+[Mon Dec 24 17:43:50 2001] Lirus GMSAYS, 'leaving in 15 minutes, anyone need anything?'
+[Mon Dec 24 17:43:53 2001] Dodoro auctions, 'WTS Large Fineplate Bracer ac 9 100pp, send tells'
+[Mon Dec 24 17:43:55 2001] Miyon auctions, 'WTB Good 2hs'
+[Mon Dec 24 17:43:56 2001] Tump auctions, '<SELLING>  Belt of the Cenobite---Glowing Black Sword---Blade of Xalgoz---Black Iron Crown---Gatorscale Sleeves----Platinum Tiara---Cone of the Mystics----Platnum Dragon Totem               Send Tells'
+[Mon Dec 24 17:43:58 2001] You GMSAY, 'a hug?'
+[Mon Dec 24 17:44:07 2001] You told Hashesh, 'nope, didn't work'
+[Mon Dec 24 17:44:08 2001] Hashesh tells you, 'or any variation of Kenwind'
+[Mon Dec 24 17:44:18 2001] Lirus GMSAYS, '/HUGS'
+[Mon Dec 24 17:44:19 2001] You have changed Hashesh's name to Kenwind.
+[Mon Dec 24 17:44:19 2001] The name 'Hashesh' had been added to the list of invalid names and cannot be used ever again.
+[Mon Dec 24 17:44:20 2001] Lirus GMSAYS, '=)'
+[Mon Dec 24 17:44:22 2001] Hashesh tells you, 'have 2 chars Kenind and Kenwinds'
+[Mon Dec 24 17:44:29 2001] Drasyre shouts, 'do bst's pets get bigger at dif caster lvlvs?'
+[Mon Dec 24 17:44:31 2001] Hashesh tells you, 'oops Kenwind'
+[Mon Dec 24 17:44:33 2001] You GMSAY, 'heh merry christmas, Lirus!'
+[Mon Dec 24 17:44:41 2001] Ramelinx shouts, 'lol'
+[Mon Dec 24 17:44:44 2001] Hashesh tells you, 'maybe Kenwynd'
+[Mon Dec 24 17:44:44 2001] Drasyre shouts, 'err lvls'
+[Mon Dec 24 17:44:45 2001] You told Hashesh, 'Kenwind seems to be used.'
+[Mon Dec 24 17:44:46 2001] Lirus GMSAYS, 'thanks Espranza, Merry Christmas to ye as well'
+[Mon Dec 24 17:44:48 2001] You told Hashesh, 'okay'
+[Mon Dec 24 17:44:55 2001] Nanlinn auctions, 'Necro Research Spells: Call of Bones, Harmshield, Haunting Corpse (level 24 pet), Vampiric Curse, Renew Bones; 30 pp each'
+[Mon Dec 24 17:44:56 2001] You have changed Hashesh's name to Kenwynd.
+[Mon Dec 24 17:44:56 2001] The name 'Hashesh' had been added to the list of invalid names and cannot be used ever again.
+[Mon Dec 24 17:44:58 2001] Nanlinn auctions, 'Kodiak Claws 7/30 1hs - 30pp; Frozen Long Sword 7/26 1hs - 50 pp; Crystal Fiber 8/28 1hs - 70pp; Orc Fang Earring - +3 AC, +15 HP, +3 STR - 50 pp; Cougar Claw Earring - +4 AC, +3 STR, +2 DEX - 400 pp'
+[Mon Dec 24 17:44:58 2001] Kenwynd tells you, 'right i have Kenwind and Kemwinds'
+[Mon Dec 24 17:44:58 2001] Lirus GMSAYS, 'zone'
+[Mon Dec 24 17:45:01 2001] You say, 'Hail, Kenwynd'
+[Mon Dec 24 17:45:04 2001] Drasyre shouts, 'bad question?'
+[Mon Dec 24 17:45:06 2001] Calvaron shouts, 'i got  great items for sell at second torch for melee levels 18 to 30'
+[Mon Dec 24 17:45:07 2001] Tump auctions, '<SELLING>  Belt of the Cenobite---Glowing Black Sword---Blade of Xalgoz---Black Iron Crown---Gatorscale Sleeves----Platinum Tiara---Cone of the Mystics----Platnum Dragon Totem     Looking to trade for a Centi Longsword            Send Tells'
+[Mon Dec 24 17:45:07 2001] Kenwynd tells you, 'ty =)'
+[Mon Dec 24 17:45:08 2001] Conano auctions, 'WTS Coterie Armor. Skullcap, Boots, Cloak, Wristband, Gloves, Legs. Also Coterie Longsword. Make offer.  || Shrink potions 10 charge --200pp'
+[Mon Dec 24 17:45:09 2001] Players in EverQuest:
+[Mon Dec 24 17:45:09 2001] ---------------------------
+[Mon Dec 24 17:45:09 2001] [19 Beastlord] Kenwynd (Vah Shir) ZONE: ecommons (USER PID AZNX1AV)
+[Mon Dec 24 17:45:09 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:45:19 2001] Ouli shouts, 'lvl 7 Beastlord LFG'
+[Mon Dec 24 17:45:23 2001] Kenwynd hugs Espranza.
+[Mon Dec 24 17:45:24 2001] Drasyre auctions, 'WTS glowing black sword'
+[Mon Dec 24 17:45:25 2001] Shaksimag mourns the loss of a great name.
+[Mon Dec 24 17:45:25 2001] Drasyre auctions, 'WTS centi warhammer 15 32 5str 5sta 2wis 1hb'
+[Mon Dec 24 17:45:25 2001] Doane auctions, 'wts flayed boots 8ac 6 str 2 int (NEC SHD) 200pp'
+[Mon Dec 24 17:45:37 2001] Spheer auctions, 'WTS Lammy 7500p'
+[Mon Dec 24 17:45:38 2001] You GMSAY, '<note> Hashesh AZNX1AV name changed to Kenwynd. He said a GM told him he could not change his name before...'
+[Mon Dec 24 17:45:46 2001] You say, 'Your warder is confused'
+[Mon Dec 24 17:45:53 2001] Rdili auctions, 'gloves, 12AC 9STA 6int/wis 20hp,20 mana'
+[Mon Dec 24 17:45:55 2001] Diebold begins to cast a spell. (Center)
+[Mon Dec 24 17:45:55 2001] Spheer auctions, 'WTS Granite Face Grinder 29/36 str+10 wis+10 int+10 Bst,Shm<,Shd,Pal,War'
+[Mon Dec 24 17:45:55 2001] Rdili auctions, 'coldain skin gloves 3k'
+[Mon Dec 24 17:45:56 2001] Rimedear GMSAYS, 'Hmmm!!'
+[Mon Dec 24 17:45:56 2001] Trevaine auctions, 'WTS Silvery Belt of Contention 10ac4str5int5wis27HASTE'
+[Mon Dec 24 17:45:58 2001] Trevaine auctions, 'WTS Breath of Harmony 10dmg18dly + Effect'
+[Mon Dec 24 17:45:58 2001] Lirus GMSAYS, '?'
+[Mon Dec 24 17:45:59 2001] Kenwynd is surrounded by a divine aura.
+[Mon Dec 24 17:46:01 2001] Spheer auctions, 'WTS Massive Velium Brawl Stick 32/37 wt:3.6 all except bard'
+[Mon Dec 24 17:46:01 2001] Kenwynd says, 'they arent very smart =)'
+[Mon Dec 24 17:46:01 2001] Trevaine auctions, 'WTS Symphonic Saber 11dmg23dly10cha5int + Proc'
+[Mon Dec 24 17:46:03 2001] Diebold begins to cast a spell. (Spirit Armor)
+[Mon Dec 24 17:46:04 2001] Trevaine auctions, 'WTS Sludged Girdle 8ac5cha5int20hp10m'
+[Mon Dec 24 17:46:06 2001] Trevaine auctions, 'WTS Hardened Clay Bracelet 5ac5str5agi5sta5dex'
+[Mon Dec 24 17:46:09 2001] Trevaine auctions, 'WTS Crystalline Short Sword 12dmg24dly4str6int6cha4agi'
+[Mon Dec 24 17:46:09 2001] Kenwynd is coated in translucent armor.
+[Mon Dec 24 17:46:11 2001] Ouli shouts, 'lvl 7 Beastlord LFG'
+[Mon Dec 24 17:46:12 2001] Trevaine auctions, 'WTS Thick Banded Belt 8ac15str'
+[Mon Dec 24 17:46:13 2001] Kenwynd says, 'gwt lost alot =)'
+[Mon Dec 24 17:46:13 2001] Trevaine auctions, 'WTS Kobold Jester Crown 15ac30cha5agiNEG30intNEG5dex'
+[Mon Dec 24 17:46:14 2001] Daxian auctions, 'WTS Kobold Jesters Crown'
+[Mon Dec 24 17:46:16 2001] Daxian auctions, 'WTS Golden Bracer AC5 int7 str7'
+[Mon Dec 24 17:46:17 2001] Daxian auctions, 'WTS Fixation Of Ro DRU drop spell'
+[Mon Dec 24 17:46:19 2001] Shaksimag auctions, 'WTS shaded blade, crystalline eye, dire wolf fur cloak, knuckle duster, footpads of the tiger, WTB netted kelp/loam encrusted/mq'd thurg caster pants, send tell'
+[Mon Dec 24 17:46:19 2001] Diebold begins to cast a spell. (Center)
+[Mon Dec 24 17:46:27 2001] Players in EverQuest:
+[Mon Dec 24 17:46:27 2001] ---------------------------
+[Mon Dec 24 17:46:27 2001] There are no players in EverQuest that match those who filters.
+[Mon Dec 24 17:46:44 2001] Players in EverQuest:
+[Mon Dec 24 17:46:44 2001] ---------------------------
+[Mon Dec 24 17:46:44 2001] [60 Warlord] Etenies (Dwarf) ZONE: emeraldjungle (USER PID BXXEQNT)
+[Mon Dec 24 17:46:44 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:46:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 17:46:58 2001] Players in EverQuest:
+[Mon Dec 24 17:46:58 2001] ---------------------------
+[Mon Dec 24 17:46:58 2001] There are no players in EverQuest that match those who filters.
+[Mon Dec 24 17:47:07 2001] Drasyre auctions, 'WTS glowing black sword'
+[Mon Dec 24 17:47:15 2001] Mokhwa auctions, 'WTS CoT'
+[Mon Dec 24 17:47:18 2001] Mokhwa auctions, 'Stained Cloth Mask ac6 cha4 hp20 mana20 SvD5 SdP5'
+[Mon Dec 24 17:47:21 2001] Mokhwa auctions, 'WTS Lockjaw Hide Vesk ac12 sta5'
+[Mon Dec 24 17:47:23 2001] Mokhwa auctions, 'WTS Wu's fighting Sleeves'
+[Mon Dec 24 17:47:25 2001] Mokhwa auctions, 'WTB Shining Metallic Robe'
+[Mon Dec 24 17:47:26 2001] You GMSAY, 'queue locked, brb'
+[Mon Dec 24 17:47:30 2001] It will take you about 30 seconds to prepare your camp.
+[Mon Dec 24 17:47:34 2001] Players in EverQuest:
+[Mon Dec 24 17:47:34 2001] ---------------------------
+[Mon Dec 24 17:47:34 2001] * Guide *[ANON (35 Magician)] Goodiegiver2 (Gnome) ZONE: sharvahl (USER PID FUGB78G)
+[Mon Dec 24 17:47:34 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: echo (USER PID CW1ECN5)
+[Mon Dec 24 17:47:34 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: ecommons (USER PID B4KJ6E7)
+[Mon Dec 24 17:47:34 2001] * Guide *[ANON (51 Rake)] Rimedear (Halfling) ZONE: ecommons (USER PID HUGBLZN)
+[Mon Dec 24 17:47:34 2001] There are 4 players in EverQuest.
+[Mon Dec 24 17:47:34 2001] It will take about 25 more seconds to prepare your camp.
+[Mon Dec 24 17:47:39 2001] It will take about 20 more seconds to prepare your camp.
+[Mon Dec 24 17:47:39 2001] Huyngung auctions, 'WTS Thunder etched gauntlet AC20 str6 wis4 int4 svall2'
+[Mon Dec 24 17:47:43 2001] Huyngung auctions, 'WTS diamond wedding band ac2 dex3 wis5 int3 mana svfc5'
+[Mon Dec 24 17:47:44 2001] It will take about 15 more seconds to prepare your camp.
+[Mon Dec 24 17:47:45 2001] Huyngung auctions, 'WTB di'zok imperial katana'
+[Mon Dec 24 17:47:46 2001] Huyngung auctions, 'WTB argent protector or polished shaidin naginata'
+[Mon Dec 24 17:47:48 2001] You feel as if you are about to fall.
+[Mon Dec 24 17:47:49 2001] It will take about 10 more seconds to prepare your camp.
+[Mon Dec 24 17:47:54 2001] You feel as if you are about to fall.
+[Mon Dec 24 17:47:54 2001] It will take about 5 more seconds to prepare your camp.
+[Mon Dec 24 17:47:54 2001] Nanlinn auctions, 'Necro Research Spells: Call of Bones, Harmshield, Haunting Corpse (level 24 pet), Vampiric Curse, Renew Bones; 30 pp each'
+[Mon Dec 24 17:47:57 2001] Nanlinn auctions, 'Kodiak Claws 7/30 1hs - 30pp; Frozen Long Sword 7/26 1hs - 50 pp; Crystal Fiber 8/28 1hs - 70pp; Orc Fang Earring - +3 AC, +15 HP, +3 STR - 50 pp; Cougar Claw Earring - +4 AC, +3 STR, +2 DEX - 400 pp'
+[Mon Dec 24 17:48:00 2001] You can no longer levitate.
+[Mon Dec 24 17:50:03 2001] Daxian auctions, 'WTS Kobold Jesters Crown'
+[Mon Dec 24 17:50:03 2001] Daxian auctions, 'WTS Spider Fur Gloves AC4 INT3 Mana35 CR2'
+[Mon Dec 24 17:50:03 2001] Daxian auctions, 'WTS Scars Of Sigil MAG drop spell'
+[Mon Dec 24 17:50:03 2001] Huyngung auctions, 'WTS Thunder etched gauntlet AC20 str6 wis4 int4 svall2'
+[Mon Dec 24 17:50:03 2001] Huyngung auctions, 'WTS worked dragon skin mask  ac10 cha8 svf4'
+[Mon Dec 24 17:50:03 2001] Huyngung auctions, 'WTS CC gauntlet AC20 str10 mana35'
+[Mon Dec 24 17:50:12 2001] You have entered East Commonlands.
+[Mon Dec 24 17:50:28 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 17:50:28 2001] USER TEXT: I have a serious problem, I LD'd after entering Droga and ended up somewhere else
+[Mon Dec 24 17:50:29 2001] Players in EverQuest:
+[Mon Dec 24 17:50:29 2001] ---------------------------
+[Mon Dec 24 17:50:29 2001] [47 Shadow Knight] Makmaul (Troll) <War Criminals> ZONE: droga (USER PID HW8ZQTV)
+[Mon Dec 24 17:50:29 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:50:29 2001] Doane auctions, 'wts flayed boots 8ac 6 str 2 int (NEC SHD) 200pp'
+[Mon Dec 24 17:50:31 2001] Shadysalesman auctions, 'WTS Crystal Chitin Gaunts '
+[Mon Dec 24 17:50:37 2001] Searching zones for corpse of that name....
+[Mon Dec 24 17:50:43 2001] Kenwynd tells you, 'doh pets name will change right =)'
+[Mon Dec 24 17:50:52 2001] You told Kenwynd, 'once you resummon it'
+[Mon Dec 24 17:50:54 2001] Kenwynd giggles at Hashesh`s warder.
+[Mon Dec 24 17:51:02 2001] Kenwynd begins to cast a spell. (Summon Warder)
+[Mon Dec 24 17:51:06 2001] Kenwynd tells you, 'ok =)'
+[Mon Dec 24 17:51:14 2001] Kenwynd summons forth a beastial warder.
+[Mon Dec 24 17:51:21 2001] Kenwynd hugs Kenwynd`s warder.
+[Mon Dec 24 17:51:34 2001] Kenwynd begins to cast a spell. (Spirit of Khaliz)
+[Mon Dec 24 17:51:41 2001] Aeliel begins to cast a spell. (Spirit of Wolf)
+[Mon Dec 24 17:51:43 2001] Players in EverQuest:
+[Mon Dec 24 17:51:43 2001] ---------------------------
+[Mon Dec 24 17:51:43 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: ecommons (USER PID B4KJ6E7)
+[Mon Dec 24 17:51:43 2001] * Guide *[ANON (35 Magician)] Goodiegiver2 (Gnome) ZONE: sharvahl (USER PID FUGB78G)
+[Mon Dec 24 17:51:43 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: echo (USER PID CW1ECN5)
+[Mon Dec 24 17:51:43 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: ecommons (USER PID HUGBLZN)
+[Mon Dec 24 17:51:43 2001] There are 4 players in EverQuest.
+[Mon Dec 24 17:52:05 2001] Players in EverQuest:
+[Mon Dec 24 17:52:05 2001] ---------------------------
+[Mon Dec 24 17:52:05 2001] [60 Warlord] Etenies (Dwarf) ZONE: emeraldjungle (USER PID BXXEQNT)
+[Mon Dec 24 17:52:05 2001] There is 1 player in EverQuest.
+[Mon Dec 24 17:52:07 2001] Shaksimag auctions, 'WTS shaded blade, crystalline eye, dire wolf fur cloak, knuckle duster, footpads of the tiger, WTB netted kelp/loam encrusted/mq'd thurg caster pants, send tell'
+[Mon Dec 24 17:52:13 2001] Nanlinn auctions, 'Necro Research Spells: Call of Bones, Harmshield, Haunting Corpse (level 24 pet), Vampiric Curse, Renew Bones; 30 pp each'
+[Mon Dec 24 17:52:17 2001] Nanlinn auctions, 'Kodiak Claws 7/30 1hs - 30pp; Frozen Long Sword 7/26 1hs - 50 pp; Crystal Fiber 8/28 1hs - 70pp; Orc Fang Earring - +3 AC, +15 HP, +3 STR - 50 pp; Cougar Claw Earring - +4 AC, +3 STR, +2 DEX - 400 pp'
+[Mon Dec 24 17:52:24 2001] Spheer auctions, 'WTS Lammy 7500p'
+[Mon Dec 24 17:52:28 2001] Thoruk auctions, 'WTS Dizork wristsnapper 10/18 ac 5 chr,int,agil+7 primary secondary and range 1hdb Bard only will consider trades'
+[Mon Dec 24 17:52:30 2001] Spheer auctions, 'WTS Granite Face Grinder 29/36 str+10 wis+10 int+10 Bst,Shm<,Shd,Pal,War'
+[Mon Dec 24 17:52:32 2001] You GMSAY, 'Lirus, since you're still on, could you kick etenies off? She's stuck in the zone Emerald Jungle.'
+[Mon Dec 24 17:52:34 2001] Bungwa tells you, 'merry norrath christmas'
+[Mon Dec 24 17:52:44 2001] You told Bungwa, 'merry real life christmas!'
+[Mon Dec 24 17:52:56 2001] Doane auctions, 'wts flayed boots 8ac 6 str 2 int (NEC SHD) 200pp'
+[Mon Dec 24 17:52:57 2001] Spheer auctions, 'WTS Massive Velium Brawl Stick 32/37 wt:3.6 all except bard'
+[Mon Dec 24 17:52:59 2001] Tump waves at Espranza.
+[Mon Dec 24 17:53:02 2001] Dodoro auctions, 'WTS Large Fineplate Bracer ac 9 100pp, send tells'
+[Mon Dec 24 17:53:03 2001] Jalaska auctions, 'WTS hardened bone spear 12 25 str 15 rog sham war bard rng.'
+[Mon Dec 24 17:53:04 2001] Drasyre says, 'Hail, Tump'
+[Mon Dec 24 17:53:06 2001] Jalaska auctions, 'WTS harness of grey flesh 12 ac 5 sta hp mana 20 sv cold 10'
+[Mon Dec 24 17:53:06 2001] Bungwa tells you, 'yes...and to you also'
+[Mon Dec 24 17:53:07 2001] You wave at Tump.
+[Mon Dec 24 17:53:08 2001] Jalaska auctions, 'wts shissar scaled bp 30 ac 15 dex agi 35 mana hp.'
+[Mon Dec 24 17:53:11 2001] Jalaska auctions, 'WTS shissar scaled boots 10 ac 5 str 5 dex 5 agi '
+[Mon Dec 24 17:53:12 2001] Tump wishes Es a merry christmas.
+[Mon Dec 24 17:53:14 2001] Jalaska auctions, 'WTS  shissar scale gloves 12 ac 5 wis 5 int 40hp 50mana bsl'
+[Mon Dec 24 17:53:18 2001] Drasyre says, 'silly lil halfling elf type thing )'
+[Mon Dec 24 17:53:19 2001] Jalaska auctions, 'WTS diamond 500 pp '
+[Mon Dec 24 17:53:20 2001] You say, 'And to you, Tump!'
+[Mon Dec 24 17:53:21 2001] Dodoro auctions, 'WTS Large Fineplate Bracer ac 9 100pp, send tells'
+[Mon Dec 24 17:53:21 2001] Jalaska auctions, 'WTS bone braced buckle ac 25 10 str 10 wis 55 hp 55 mana'
+[Mon Dec 24 17:53:28 2001] Jobies auctions, 'wts spined dragon claws 1hs 10/21 4kp || SSOY 1hs 75dd 1kp || Braided ivy vords || WTB warrior uber  shoulder,arm,face items'
+[Mon Dec 24 17:53:31 2001] You say, 'I'm not a halfling, I'm a shrub elf.'
+[Mon Dec 24 17:53:37 2001] Drasyre says, 'explain'
+[Mon Dec 24 17:53:37 2001] Shaksimag auctions, 'WTS shaded blade, crystalline eye, dire wolf fur cloak, knuckle duster, footpads of the tiger, WTB netted kelp/loam encrusted/mq'd thurg caster pants, send tell'
+[Mon Dec 24 17:53:40 2001] You say, 'We look like halflings, but we're not.'
+[Mon Dec 24 17:53:45 2001] Nanlinn auctions, 'Necro Research Spells: Call of Bones, Harmshield, Haunting Corpse (level 24 pet), Vampiric Curse, Renew Bones; 30 pp each'
+[Mon Dec 24 17:53:48 2001] Nanlinn auctions, 'Kodiak Claws 7/30 1hs - 30pp; Frozen Long Sword 7/26 1hs - 50 pp; Crystal Fiber 8/28 1hs - 70pp; Orc Fang Earring - +3 AC, +15 HP, +3 STR - 50 pp; Cougar Claw Earring - +4 AC, +3 STR, +2 DEX - 400 pp'
+[Mon Dec 24 17:53:48 2001] Calvaron shouts, 'Got great Items for a level 18 melee to 30, come stop by and take a look and also I got a Crystal Covered Shroud for any monks or casters'
+[Mon Dec 24 17:53:55 2001] Drasyre says, '....'
+[Mon Dec 24 17:54:02 2001] Calvaron shouts, 'at second torch'
+[Mon Dec 24 17:54:08 2001] Shaksimag pets Espranza.
+[Mon Dec 24 17:54:13 2001] Shaksimag giggles at Espranza.
+[Mon Dec 24 17:54:14 2001] Espranza purrs.
+[Mon Dec 24 17:54:20 2001] Shaksimag hands Espranza a candy cane.
+[Mon Dec 24 17:54:25 2001] You say, 'Hey, your last name is a phrase......'
+[Mon Dec 24 17:54:33 2001] Shaksimag says, 'So is yours!'
+[Mon Dec 24 17:54:35 2001] Shaksimag auctions, 'WTS shaded blade, crystalline eye, dire wolf fur cloak, knuckle duster, footpads of the tiger, WTB netted kelp/loam encrusted/mq'd thurg caster pants, send tell'
+[Mon Dec 24 17:54:43 2001] Doane auctions, 'wts flayed boots 8ac 6 str 2 int (NEC SHD) 200pp'
+[Mon Dec 24 17:54:44 2001] Drasyre says, 'heh'
+[Mon Dec 24 17:54:45 2001] You say, 'no, mine's a title, and anyway guides have different rules'
+[Mon Dec 24 17:54:51 2001] Huyngung auctions, 'WTS Thunder etched gauntlet AC20 str6 wis4 int4 svall2'
+[Mon Dec 24 17:54:52 2001] Wizzly shouts, 'lvl 7 wizard lfg'
+[Mon Dec 24 17:54:53 2001] Huyngung auctions, 'WTS worked dragon skin mask  ac10 cha8 svf4'
+[Mon Dec 24 17:54:55 2001] Huyngung auctions, 'WTB argent protector or polished shaidin naginata'
+[Mon Dec 24 17:54:56 2001] Drasyre says, 'now she'll make you change it'
+[Mon Dec 24 17:54:57 2001] Huyngung auctions, 'WTB sol SK spell'
+[Mon Dec 24 17:55:02 2001] Shaksimag says, 'Aww its christmas, let it slide'
+[Mon Dec 24 17:55:03 2001] Lirus GMSAYS, 'sure'
+[Mon Dec 24 17:55:05 2001] You say, 'I hate being the bad name fairy'
+[Mon Dec 24 17:55:11 2001] Feli begins to cast a spell. (Common Gate)
+[Mon Dec 24 17:55:13 2001] Shaksimag says, 'I've been good all year'
+[Mon Dec 24 17:55:15 2001] Ralaan auctions, 'WTS Runed Frost Blade 34dmg 49dly 75hp 10svcold'
+[Mon Dec 24 17:55:17 2001] Ralaan auctions, 'WTS ToUD -10cha 5int 10mana 5svdis/mag pri/sec'
+[Mon Dec 24 17:55:17 2001] Drasyre says, 'lol'
+[Mon Dec 24 17:55:18 2001] Feli fades away.
+[Mon Dec 24 17:55:18 2001] Lirus GMSAYS, 'she is gone'
+[Mon Dec 24 17:55:19 2001] Ralaan auctions, 'WTS Fighting Baton 400pp'
+[Mon Dec 24 17:55:23 2001] You say, 'well... but when I see ya next, gonna have to change it.'
+[Mon Dec 24 17:55:28 2001] You GMSAY, 'okay, thanks'
+[Mon Dec 24 17:55:37 2001] Shaksimag says, 'I'll try to avoid you =)'
+[Mon Dec 24 17:55:37 2001] Tump says, 'Espranza, can I ask you in a tell something?'
+[Mon Dec 24 17:55:43 2001] You say, 'heh'
+[Mon Dec 24 17:55:44 2001] Shaksimag says, 'Dont stalk me though plz'
+[Mon Dec 24 17:55:45 2001] Loldari auctions, 'WTS Wu's Quivering Staff 23/28 2hb'
+[Mon Dec 24 17:55:47 2001] Loldari auctions, 'WTS Bloodpoint 10/21 5str 10svp svd eff:80 lifetap'
+[Mon Dec 24 17:55:50 2001] Loldari auctions, 'WTS Lamentation 9/19 6str 6sta 20hp'
+[Mon Dec 24 17:55:51 2001] Loldari auctions, 'WTS Goranga Idol 8ac 4dex 3sta 25hp ,1 weight '
+[Mon Dec 24 17:55:54 2001] Loldari auctions, 'WTT Small crafted for regular crafted send tell'
+[Mon Dec 24 17:55:58 2001] You say, 'oh you'd probably enjoy it.'
+[Mon Dec 24 17:56:02 2001] You say, 'Sure, Tump.'
+[Mon Dec 24 17:56:10 2001] Goodiegiver2 GMSAYS, 'well i need to go, merry christmas you guys 8)'
+[Mon Dec 24 17:56:14 2001] Lirus GMSAYS, 'same here'
+[Mon Dec 24 17:56:16 2001] Shaksimag says, 'of course i was, if you followed me i'd get gm rezzes all the time and never have to be lfg!'
+[Mon Dec 24 17:56:19 2001] You GMSAY, 'Merry Christmas, Goodie and Lirus!'
+[Mon Dec 24 17:56:19 2001] Dodoro auctions, 'WTS Large Fineplate Bracer ac 9 100pp, send tells'
+[Mon Dec 24 17:56:20 2001] Spheer auctions, 'WTS Massive Velium Brawl Stick 32/37 wt:3.6 all except bard'
+[Mon Dec 24 17:56:21 2001] Goodiegiver2 GMSAYS, '/wave'
+[Mon Dec 24 17:56:22 2001] Lirus GMSAYS, 'Merry Christmas!'
+[Mon Dec 24 17:56:24 2001] Spheer auctions, 'WTS Granite Face Grinder 29/36 str+10 wis+10 int+10 Bst,Shm<,Shd,Pal,War'
+[Mon Dec 24 17:56:29 2001] Shaksimag says, 'i would'
+[Mon Dec 24 17:56:30 2001] Tump tells you, 'Would it be possible to get the S in surname capitalized?'
+[Mon Dec 24 17:56:30 2001] Spheer auctions, 'WTS Lammy 7500p'
+[Mon Dec 24 17:56:31 2001] You say, 'In your dreams!'
+[Mon Dec 24 17:56:34 2001] Shaksimag auctions, 'WTS shaded blade, crystalline eye, dire wolf fur cloak, knuckle duster, footpads of the tiger, WTB netted kelp/loam encrusted/mq'd thurg caster pants, send tell'
+[Mon Dec 24 17:56:40 2001] Oakroot shouts, 'Anybody have a good 1hb for a druid for under 40pp?'
+[Mon Dec 24 17:56:46 2001] Shaksimag says, 'and you're the keeper of them'
+[Mon Dec 24 17:56:50 2001] You told Tump, 'no, because you can't make a last name into a title, like Le Stump.'
+[Mon Dec 24 17:56:58 2001] You say, 'One of them!'
+[Mon Dec 24 17:56:58 2001] Nanlinn auctions, 'Necro Research Spells: Call of Bones, Harmshield, Haunting Corpse (level 24 pet), Vampiric Curse, Renew Bones; 30 pp each'
+[Mon Dec 24 17:57:02 2001] Nanlinn auctions, 'Kodiak Claws 7/30 1hs - 30pp; Frozen Long Sword 7/26 1hs - 50 pp; Crystal Fiber 8/28 1hs - 70pp; Orc Fang Earring - +3 AC, +15 HP, +3 STR - 50 pp; Cougar Claw Earring - +4 AC, +3 STR, +2 DEX - 400 pp'
+[Mon Dec 24 17:57:04 2001] Tump tells you, 'Okies, just wanted ta ask  )'
+[Mon Dec 24 17:57:09 2001] Shaksimag says, 'Woh... i thought only my mom knew about THAT one lol'
+[Mon Dec 24 17:57:13 2001] You told Tump, 'no problems.'
+[Mon Dec 24 17:57:17 2001] Zinx is looking at your equipment...
+[Mon Dec 24 17:57:20 2001] Shaksimag lets Espranza know that he was JUST KIDDING!
+[Mon Dec 24 17:57:24 2001] Jalaska auctions, 'WTS hardened bone spear 12 25 str 15 rog sham war bard rng.'
+[Mon Dec 24 17:57:24 2001] Mokhwa auctions, 'WTS CoT'
+[Mon Dec 24 17:57:25 2001] Jalaska auctions, 'WTS harness of grey flesh 12 ac 5 sta hp mana 20 sv cold 10'
+[Mon Dec 24 17:57:26 2001] Mokhwa auctions, 'WTB Shining Metallic Robe'
+[Mon Dec 24 17:57:27 2001] Teral shouts, 'seeking sow or tp for corpse run to NK please'
+[Mon Dec 24 17:57:27 2001] Jalaska auctions, 'wts shissar scaled bp 30 ac 15 dex agi 35 mana hp.'
+[Mon Dec 24 17:57:28 2001] Enrudaru auctions, 'WTS Hand of the Reaper'
+[Mon Dec 24 17:57:29 2001] Jalaska auctions, 'WTS  shissar scale gloves 12 ac 5 wis 5 int 40hp 50mana bsl'
+[Mon Dec 24 17:57:30 2001] Huyngung auctions, 'WTS Thunder etched gauntlet AC20 str6 wis4 int4 svall2'
+[Mon Dec 24 17:57:31 2001] Jalaska auctions, 'WTS diamond 500 pp '
+[Mon Dec 24 17:57:33 2001] Huyngung auctions, 'WTS worked dragon skin mask  ac10 cha8 svf4'
+[Mon Dec 24 17:57:35 2001] Huyngung auctions, 'WTS CC gauntlet AC20 str10 mana35'
+[Mon Dec 24 17:57:37 2001] USER TEXT: I have a serious problem, I LD'd after entering Droga and ended up somewhere else
+[Mon Dec 24 17:57:37 2001] Mokhwa auctions, 'WTS CoT'
+[Mon Dec 24 17:57:40 2001] Mokhwa auctions, 'WTB Shining Metallic Robe'
+[Mon Dec 24 17:57:41 2001] Huyngung auctions, 'WTB argent protector or polished shaidin naginata'
+[Mon Dec 24 17:57:41 2001] Mokhwa auctions, 'WTS Wu's fighting Sleeves'
+[Mon Dec 24 17:57:44 2001] Doane auctions, 'wts flayed boots 8ac 6 str 2 int (NEC SHD) 200pp'
+[Mon Dec 24 17:57:44 2001] Mokhwa auctions, 'Stained Cloth Mask ac6 cha4 hp20 mana20 SvD5 SdP5'
+[Mon Dec 24 17:57:46 2001] Huyngung auctions, 'WTB di'zok imperial katana'
+[Mon Dec 24 17:57:46 2001] Dodoro auctions, 'WTS Large Fineplate Bracer ac 9 100pp, send tells'
+[Mon Dec 24 17:57:49 2001] You told Makmaul, 'Hail, Makmaul! Senior Guide Espranza here. How may I help you?'
+[Mon Dec 24 17:58:03 2001] Huyngung bonks Espranza on the head!
+[Mon Dec 24 17:58:05 2001] Makmaul tells you, 'Hi :)'
+[Mon Dec 24 17:58:05 2001] Espranza looks better in Luclin.
+[Mon Dec 24 17:58:08 2001] You told Makmaul, 'hi!'
+[Mon Dec 24 17:58:14 2001] Lirus BROADCASTS, 'Happy Holidays to all from Sony Online Entertainment and the Guide Staff! *note* We will be short staffed from today till the 2nd of January, so any issues will have to be handled then. Stay safe Morell Thule!'
+[Mon Dec 24 17:58:15 2001] Huyngung bonks Espranza on the head!
+[Mon Dec 24 17:58:16 2001] You say, 'No guide bonking on Christmas!'
+[Mon Dec 24 17:58:20 2001] Torii auctions, 'wts obsidian bead hoops 2 of em '
+[Mon Dec 24 17:58:20 2001] Ahiah shouts, 'DING13!!'
+[Mon Dec 24 17:58:24 2001] Enrudaru auctions, 'WTS Hand of the Reaper'
+[Mon Dec 24 17:58:35 2001] Huyngung bonks Espranza on the head!
+[Mon Dec 24 17:58:38 2001] You say, 'Hugs only until the new year.'
+[Mon Dec 24 17:58:48 2001] Huyngung says, 'Lol '
+[Mon Dec 24 17:58:48 2001] Makmaul tells you, 'Um I don't really know what happened to me, I just ended up in a different place where I don't want to be '
+[Mon Dec 24 17:58:49 2001] Shaksimag says, 'Look out Huyngung... she goina git you'
+[Mon Dec 24 17:58:51 2001] You say, '2002 is a palindrome year, you know'
+[Mon Dec 24 17:58:56 2001] Dodoro auctions, 'WTS Large Fineplate Bracer ac 9 100pp, send tells'
+[Mon Dec 24 17:58:56 2001] Huyngung begins to cast a spell. (Feign Death)
+[Mon Dec 24 17:58:57 2001] Huyngung slained by Espranza.
+[Mon Dec 24 17:58:57 2001] Huyngung says, 'My dady will avange my death'
+[Mon Dec 24 17:58:58 2001] Huyngung dies.
+[Mon Dec 24 17:59:01 2001] Drasyre says, 'can I have a hug?'
+[Mon Dec 24 17:59:02 2001] Thoruk auctions, 'WTS Dizork wristsnapper 10/18 ac 5 chr,int,agil+7 primary secondary and range 1hdb Bard only will consider trades''
+[Mon Dec 24 17:59:05 2001] You panic at the sight of Huyngung.
+[Mon Dec 24 17:59:14 2001] You told Makmaul, 'Are you still there?'
+[Mon Dec 24 17:59:14 2001] Drasyre hugs Espranza.
+[Mon Dec 24 17:59:14 2001] Dodoro auctions, 'WTS Large Fineplate Bracer ac 9 100pp, send tells'
+[Mon Dec 24 17:59:14 2001] Conano auctions, 'WTS Coterie Armor. Skullcap, Boots, Cloak, Wristband, Gloves, Legs. Also Coterie Longsword. Make offer.  || Shrink potions 10 charge --200pp'
+[Mon Dec 24 17:59:15 2001] Shaksimag pokes Huyngung.
+[Mon Dec 24 17:59:24 2001] You hug Drasyre.
+[Mon Dec 24 17:59:24 2001] Shaksimag says, 'Shes alive!'
+[Mon Dec 24 17:59:25 2001] Makmaul tells you, 'yes'
+[Mon Dec 24 17:59:27 2001] Redglen auctions, 'WTS Fighting Baton (Mnk Bst).'
+[Mon Dec 24 17:59:28 2001] Shaksimag thanks Espranza heartily.
+[Mon Dec 24 17:59:29 2001] Teral shouts, 'seeking sow or TP for corpse run to NK please'
+[Mon Dec 24 17:59:29 2001] Huyngung begins to cast a spell. (Shroud of Death)
+[Mon Dec 24 17:59:31 2001] Enrudaru auctions, 'WTS Hand of the Reaper : AC 5 Cha -30 Int 15 Mana 20 SVM 10'
+[Mon Dec 24 17:59:32 2001] Huyngung's hands are covered by a nimbus of deathly darkness.
+[Mon Dec 24 17:59:32 2001] You told Makmaul, 'okay, I'll be right there.'
+[Mon Dec 24 17:59:32 2001] Tump waves at Espranza.
+[Mon Dec 24 17:59:34 2001] You no longer have a target.
+[Mon Dec 24 17:59:35 2001] Huyngung begins to cast a spell. (Feign Death)
+[Mon Dec 24 17:59:36 2001] Huyngung slained by Shaksimag.
+[Mon Dec 24 17:59:36 2001] Huyngung says, 'My dady will avange my death'
+[Mon Dec 24 17:59:37 2001] Tump waves at Drasyre.
+[Mon Dec 24 17:59:37 2001] Huyngung dies.
+[Mon Dec 24 17:59:38 2001] Makmaul tells you, 'k'
+[Mon Dec 24 17:59:46 2001] Shaksimag lowers his head and mourns the loss of Huyngung.
+[Mon Dec 24 17:59:47 2001] Shaksimag cries over Huyngung.
+[Mon Dec 24 17:59:48 2001] Ralaan auctions, 'WTS Runed Frost Blade 34dmg 49dly 75hp 10svcold'
+[Mon Dec 24 17:59:48 2001] Drasyre says, 'no hug?'
+[Mon Dec 24 17:59:49 2001] Ralaan auctions, 'WTS MoBS 9dmg 24dly 5str/wis/agi 2ac 5svpos/dis'
+[Mon Dec 24 17:59:49 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:49 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:50 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:50 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:50 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:51 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:51 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:52 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:52 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:52 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:53 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:53 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:53 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:54 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:54 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:55 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:55 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:55 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:56 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:56 2001] You say, 'Well, off to spread joy, cheer, and a fanatical devotion to the naming policies to other peopl.'
+[Mon Dec 24 17:59:57 2001] Shaksimag says, 'Woh woh woh'
+[Mon Dec 24 17:59:57 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:57 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:57 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:58 2001] Huyngung's hand is covered with a dull aura.
+[Mon Dec 24 17:59:59 2001] Shaksimag says, 'Stop stop stop'
+[Mon Dec 24 18:00:04 2001] Shaksimag says, 'LOL'
+[Mon Dec 24 18:00:07 2001] Redglen auctions, 'WTS Fighting Baton (Mnk Bst).'
+[Mon Dec 24 18:00:08 2001] You say, 'Be well, all, and Merry Christmas!'
+[Mon Dec 24 18:00:08 2001] Huyngung says, 'he he '
+[Mon Dec 24 18:00:13 2001] You GMSAY, 'zone'
+[Mon Dec 24 18:00:15 2001] Mokhwa auctions, 'WTS CoT'
+[Mon Dec 24 18:00:15 2001] Drasyre says, 'come on I wanna hug rom a gm!'
+[Mon Dec 24 18:00:16 2001] Espranza saved.
+[Mon Dec 24 18:00:16 2001]  (Cassindra`s Chorus of Clarity)
+[Mon Dec 24 18:00:17 2001] Mokhwa auctions, 'Stained Cloth Mask ac6 cha4 hp20 mana20 SvD5 SdP5'
+[Mon Dec 24 18:00:18 2001] Huyngung says, 'yeah little lady '
+[Mon Dec 24 18:00:19 2001] Drasyre says, 'err from'
+[Mon Dec 24 18:00:20 2001] Mokhwa auctions, 'WTS Lockjaw Hide Vesk ac12 sta5'
+[Mon Dec 24 18:00:24 2001] You hug Drasyre.
+[Mon Dec 24 18:00:27 2001] Jobies auctions, 'wts spined dragon claws 1hs 10/21 3kp || SSOY 1hs 75dd 1kp || Braided ivy vords || WTB warrior uber  shoulder,arm,face items'
+[Mon Dec 24 18:00:28 2001] Teleporting to makmaul.
+[Mon Dec 24 18:00:28 2001] Drasyre says, 'woohoo'
+[Mon Dec 24 18:00:29 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 18:01:17 2001] You have entered Mines of Droga.
+[Mon Dec 24 18:01:21 2001] Makmaul says, 'Hi'
+[Mon Dec 24 18:01:27 2001] You say, 'hmm'
+[Mon Dec 24 18:02:08 2001] You say, 'What happened, exactly.'
+[Mon Dec 24 18:02:20 2001] You say, 'You went link dead upon entering?'
+[Mon Dec 24 18:02:24 2001] Teleporting to Makmaul (-262.00, 1256.00, -250.91).
+[Mon Dec 24 18:02:26 2001] Makmaul says, 'yeah!'
+[Mon Dec 24 18:02:38 2001] You say, 'did you move before you FD's?'
+[Mon Dec 24 18:02:42 2001] Rimedear GMSAYS, '~-~-~ Zoning ~-~-~'
+[Mon Dec 24 18:02:50 2001] Makmaul says, 'What do you mean?'
+[Mon Dec 24 18:02:58 2001] a goblin interrogator begins to cast a spell. (Banshee Aura)
+[Mon Dec 24 18:03:03 2001] You say, 'Did you log in and FD right away? Or did you move around?'
+[Mon Dec 24 18:03:06 2001] a goblin flamedrowser begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Dec 24 18:03:19 2001] You no longer have a target.
+[Mon Dec 24 18:03:26 2001] You say, 'Well, I suppose that doesn't matter.'
+[Mon Dec 24 18:03:27 2001] Makmaul says, 'well the spider attacked so I had to when I got back in'
+[Mon Dec 24 18:03:35 2001] You say, 'Did you come in from FM or Nurga?'
+[Mon Dec 24 18:03:42 2001] Makmaul says, 'FM'
+[Mon Dec 24 18:03:43 2001] a goblin plaguebringer begins to cast a spell. (Quickness)
+[Mon Dec 24 18:03:55 2001] a goblin interrogator begins to cast a spell. (Steelskin)
+[Mon Dec 24 18:04:00 2001] Players in EverQuest:
+[Mon Dec 24 18:04:00 2001] ---------------------------
+[Mon Dec 24 18:04:00 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: paludal (USER PID HUGBLZN)
+[Mon Dec 24 18:04:00 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: droga (USER PID B4KJ6E7)
+[Mon Dec 24 18:04:00 2001] There are 2 players in EverQuest.
+[Mon Dec 24 18:04:01 2001] Makmaul says, 'I don't even know where I am :('
+[Mon Dec 24 18:04:09 2001] You say, 'Kinda deep'
+[Mon Dec 24 18:04:24 2001] a goblin flamedrowser begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Dec 24 18:04:24 2001] a goblin legate begins to cast a spell. (Valor)
+[Mon Dec 24 18:04:27 2001] A goblin legate looks valorous.
+[Mon Dec 24 18:04:28 2001] A goblin boneslaver begins to radiate.
+[Mon Dec 24 18:04:47 2001] You say, 'Well, it's Christmas... I'll bring you back to the zone...'
+[Mon Dec 24 18:04:50 2001] You GMSAY, 'zone'
+[Mon Dec 24 18:05:00 2001] You were hit by non-melee for 148 dmg.
+[Mon Dec 24 18:05:00 2001] YOU were injured by falling.
+[Mon Dec 24 18:05:05 2001] a goblin boneslaver begins to cast a spell. (Leatherskin)
+[Mon Dec 24 18:05:11 2001] You say, 'hah didn't make it far...'
+[Mon Dec 24 18:05:32 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 18:05:51 2001] You have entered Sunset Home.
+[Mon Dec 24 18:05:55 2001] You GMSAY, 'rezone'
+[Mon Dec 24 18:05:57 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 18:06:39 2001] You have entered Mines of Droga.
+[Mon Dec 24 18:06:40 2001] a goblin mosstrooper begins to cast a spell. (Grim Aura)
+[Mon Dec 24 18:07:05 2001] Summoning makmaul.
+[Mon Dec 24 18:07:16 2001] Makmaul says, 'THANK YOU'
+[Mon Dec 24 18:07:16 2001] You say, 'The zone is the way I am pointed'
+[Mon Dec 24 18:07:17 2001] You no longer have a target.
+[Mon Dec 24 18:07:19 2001] You point straight ahead.
+[Mon Dec 24 18:07:27 2001] Makmaul says, 'that way?'
+[Mon Dec 24 18:07:29 2001] You say, 'Aye'
+[Mon Dec 24 18:07:36 2001] You say, 'the other is the dungeon'
+[Mon Dec 24 18:07:40 2001] Makmaul says, 'Gosh thanks!'
+[Mon Dec 24 18:07:44 2001] You say, 'Gobbie right around the corner though'
+[Mon Dec 24 18:07:54 2001] Makmaul says, 'hehe 1 is fine :)~'
+[Mon Dec 24 18:07:59 2001] Makmaul cheers at Espranza.
+[Mon Dec 24 18:08:06 2001] You say, 'Well, I'll let you get on with your goblin ownage'
+[Mon Dec 24 18:08:15 2001] You say, 'Merry Christmas!'
+[Mon Dec 24 18:08:19 2001] Makmaul says, 'me leaving hehe'
+[Mon Dec 24 18:08:19 2001] a goblin mosstrooper begins to cast a spell. (Harm Touch)
+[Mon Dec 24 18:08:24 2001] Makmaul begins to cast a spell. (Lifedraw)
+[Mon Dec 24 18:08:27 2001] Makmaul beams a smile at a goblin mosstrooper.
+[Mon Dec 24 18:08:27 2001] Makmaul says, 'Ahhh, I feel much better now...'
+[Mon Dec 24 18:08:29 2001] Makmaul begins to cast a spell. (Engulfing Darkness)
+[Mon Dec 24 18:08:32 2001] A goblin mosstrooper is engulfed by darkness.
+[Mon Dec 24 18:08:35 2001] Makmaul begins to cast a spell. (Lifedraw)
+[Mon Dec 24 18:08:38 2001] Makmaul beams a smile at a goblin mosstrooper.
+[Mon Dec 24 18:08:38 2001] Makmaul says, 'Ahhh, I feel much better now...'
+[Mon Dec 24 18:08:41 2001] Makmaul begins to cast a spell. (Heat Blood)
+[Mon Dec 24 18:08:43 2001] A goblin mosstrooper's blood simmers.
+[Mon Dec 24 18:08:46 2001] a goblin mosstrooper begins to cast a spell. (Scream of Hate)
+[Mon Dec 24 18:08:47 2001] Makmaul begins to cast a spell. (Siphon Strength)
+[Mon Dec 24 18:08:49 2001] A goblin mosstrooper weakens.
+[Mon Dec 24 18:08:49 2001] Makmaul beams a smile at a goblin mosstrooper.
+[Mon Dec 24 18:08:49 2001] Makmaul says, 'Ahhh, I feel much better now...'
+[Mon Dec 24 18:08:54 2001] a goblin mosstrooper says 'I'll teach you to interfere with me Makmaul'
+[Mon Dec 24 18:08:56 2001] Makmaul begins to cast a spell. (Lifedraw)
+[Mon Dec 24 18:08:59 2001] Makmaul beams a smile at a goblin mosstrooper.
+[Mon Dec 24 18:08:59 2001] Makmaul says, 'Ahhh, I feel much better now...'
+[Mon Dec 24 18:09:07 2001] Makmaul begins to cast a spell. (Lifedraw)
+[Mon Dec 24 18:09:10 2001] Makmaul beams a smile at a goblin mosstrooper.
+[Mon Dec 24 18:09:10 2001] Makmaul says, 'Ahhh, I feel much better now...'
+[Mon Dec 24 18:09:28 2001] Makmaul says, 'hehe'
+[Mon Dec 24 18:09:34 2001] a goblin mosstrooper has been slain by Makmaul!
+[Mon Dec 24 18:09:34 2001] a goblin mosst's corpse says 'My comrades will avenge my death.'
+[Mon Dec 24 18:09:45 2001] Makmaul says, 'never coming in here again'
+[Mon Dec 24 18:09:46 2001] You GMSAY, '<note> Makmaul HW8ZQTV said he went link dead as he came into Droga and ended up somewhere very deep in the dungeon. He FD'd immediately and petitioned; gave him the benefit of the doubt and brought him to zone.'
+[Mon Dec 24 18:09:54 2001] DELETING THIS PETITION
+[Mon Dec 24 18:09:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 18:09:57 2001] USER TEXT: I was on my way to Sebilis,TPed into EJ to go there.. And now O cant move or type or anything when I log in on my warrior..but every other zone is fine I zone in like 7 seconds can you please help me get him out of there? I wont go back I promis
+[Mon Dec 24 18:09:57 2001] Players in EverQuest:
+[Mon Dec 24 18:09:57 2001] ---------------------------
+[Mon Dec 24 18:09:57 2001] There are no players in EverQuest that match those who filters.
+[Mon Dec 24 18:10:03 2001] Players in EverQuest:
+[Mon Dec 24 18:10:03 2001] ---------------------------
+[Mon Dec 24 18:10:03 2001] There are no players in EverQuest that match those who filters.
+[Mon Dec 24 18:10:06 2001] UNDOING CHECK OUT
+[Mon Dec 24 18:10:08 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 18:10:08 2001] USER TEXT: I submited a petiton earlier concerning a problem with a GM rez last night when there was server crash.
+[Mon Dec 24 18:10:08 2001] Players in EverQuest:
+[Mon Dec 24 18:10:08 2001] ---------------------------
+[Mon Dec 24 18:10:08 2001] [56 Knight] Eltoponoir (Human) <Leaders of Honor> ZONE: shadowhaven (USER PID HTZQ45F)
+[Mon Dec 24 18:10:08 2001] There is 1 player in EverQuest.
+[Mon Dec 24 18:10:10 2001] Players in EverQuest:
+[Mon Dec 24 18:10:10 2001] ---------------------------
+[Mon Dec 24 18:10:10 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: droga (USER PID B4KJ6E7)
+[Mon Dec 24 18:10:10 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: paludal (USER PID HUGBLZN)
+[Mon Dec 24 18:10:10 2001] There are 2 players in EverQuest.
+[Mon Dec 24 18:10:26 2001] You told Eltoponoir, 'Hail, Eltoponoir! Senior Guide Espranza here. How may I help you?'
+[Mon Dec 24 18:10:44 2001] Players on EverQuest:
+[Mon Dec 24 18:10:44 2001] ---------------------------
+[Mon Dec 24 18:10:44 2001] [51 Champion] Xoriz (Iksar) <Altruistic Valorians>
+[Mon Dec 24 18:10:44 2001] [47 Druid] Martilena (Wood Elf) <Altruistic Valorians>
+[Mon Dec 24 18:10:44 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Dec 24 18:10:44 2001] There are 3 players in Temple of Droga.
+[Mon Dec 24 18:12:12 2001] Eltoponoir tells you, 'I petitione earlier about a problem with losing exp on A GM rez last night, the GM earleir said he would pass it on up to Admin GM, acelerate it or something.'
+[Mon Dec 24 18:13:00 2001] You told Eltoponoir, 'Ah, GM Lirus has just logged off for Christmas Eve...'
+[Mon Dec 24 18:13:05 2001] Searching zones for corpse of that name....
+[Mon Dec 24 18:13:16 2001] Eltoponoir tells you, 'ouch'
+[Mon Dec 24 18:14:02 2001] You told Eltoponoir, 'If you go to the EQ web site and choose the Contact Your GM link, you can send Lirus email and perhaps she can help you offline.'
+[Mon Dec 24 18:14:54 2001] You GMSAY, '<note gm> Eltoponoir HTZQ45F says she did not get exp back from a CS rez last night and was told to repetition for Lirus, directed him to the Contact Your GM page.'
+[Mon Dec 24 18:15:00 2001] DELETING THIS PETITION
+[Mon Dec 24 18:15:02 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 18:15:03 2001] USER TEXT: i started to do a trade with a ring of mine and it poffed
+[Mon Dec 24 18:15:03 2001] Players in EverQuest:
+[Mon Dec 24 18:15:03 2001] ---------------------------
+[Mon Dec 24 18:15:03 2001] [15 Monk] Ssirax (Iksar) ZONE: frontiermtns (USER PID F1AQEGM)
+[Mon Dec 24 18:15:03 2001] There is 1 player in EverQuest.
+[Mon Dec 24 18:15:16 2001] Rimedear GMSAYS, 'Oops, yep, he petitioned earlier, I told em to come back'
+[Mon Dec 24 18:15:51 2001] You GMSAY, 'yeah, unfortunately, for him, it's Christmas Eve ...'
+[Mon Dec 24 18:15:53 2001] You feel the spirit of Norrath enter you.
+[Mon Dec 24 18:16:00 2001] You GMSAY, 'a no exp rez at 56 HURTS.'
+[Mon Dec 24 18:16:08 2001] Eltoponoir tells you, 'Ok. it has to do with not getting any exp back when GM Hexian rezed me because of party wipe out.  The other GM earlier suggested that the maintainence/hard crash of system may have caused the rez to not giving me back exp.'
+[Mon Dec 24 18:16:33 2001] Martilena says out of character, 'hello'
+[Mon Dec 24 18:16:37 2001] Eltoponoir tells you, 'all last night as a result of server lock'
+[Mon Dec 24 18:16:41 2001] Espranza saved.
+[Mon Dec 24 18:16:43 2001] Rimedear GMSAYS, 'What's up with Javalinia?'
+[Mon Dec 24 18:16:51 2001] You told Eltoponoir, 'It's hard to say - but in any event, it's something that only GM Lirus can unravel.'
+[Mon Dec 24 18:16:58 2001] Players in EverQuest:
+[Mon Dec 24 18:16:58 2001] ---------------------------
+[Mon Dec 24 18:16:58 2001] There are no players in EverQuest that match those who filters.
+[Mon Dec 24 18:17:13 2001] You GMSAY, 'alt char stuck in the zone.'
+[Mon Dec 24 18:17:23 2001] You GMSAY, 'probably not coming back, guess I'll unavail it.'
+[Mon Dec 24 18:17:25 2001] Eltoponoir tells you, 'OK, I will send message on Sony site.'
+[Mon Dec 24 18:17:27 2001] Players in EverQuest:
+[Mon Dec 24 18:17:27 2001] ---------------------------
+[Mon Dec 24 18:17:27 2001] There are no players in EverQuest that match those who filters.
+[Mon Dec 24 18:17:31 2001] You told Eltoponoir, 'okay, good luck!'
+[Mon Dec 24 18:17:49 2001] USER TEXT: i started to do a trade with a ring of mine and it poffed
+[Mon Dec 24 18:18:12 2001] You told Ssirax, 'Hail, Ssirax! Senior Guide Espranza here. It poofed? Just when you started the trade?'
+[Mon Dec 24 18:18:14 2001] Players on EverQuest:
+[Mon Dec 24 18:18:14 2001] ---------------------------
+[Mon Dec 24 18:18:14 2001] [51 Champion] Xoriz (Iksar) <Altruistic Valorians>
+[Mon Dec 24 18:18:14 2001] [47 Druid] Martilena (Wood Elf) <Altruistic Valorians>
+[Mon Dec 24 18:18:14 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Dec 24 18:18:14 2001] There are 3 players in Temple of Droga.
+[Mon Dec 24 18:18:21 2001] Teleporting to martilena.
+[Mon Dec 24 18:18:25 2001] Xoriz is resistant to fire.
+[Mon Dec 24 18:18:29 2001] a goblin rockchanter begins to cast a spell. (Greater Healing)
+[Mon Dec 24 18:18:30 2001] You wave at Martilena.
+[Mon Dec 24 18:18:32 2001] Martilena begins to cast a spell. (Snare)
+[Mon Dec 24 18:18:37 2001] a goblin rockchanter begins to cast a spell. (Wrath)
+[Mon Dec 24 18:18:41 2001] a goblin rockchanter begins to cast a spell. (Greater Healing)
+[Mon Dec 24 18:18:41 2001] Martilena waves goodbye to her sow as well.
+[Mon Dec 24 18:18:47 2001] Martilena begins to cast a spell. (Fury of Air)
+[Mon Dec 24 18:18:49 2001] a goblin rockchanter begins to cast a spell. (Wrath)
+[Mon Dec 24 18:18:52 2001] a goblin rockchanter begins to cast a spell. (Wrath)
+[Mon Dec 24 18:18:57 2001] a goblin rockchanter begins to cast a spell. (Greater Healing)
+[Mon Dec 24 18:19:02 2001] Martilena begins to cast a spell. (Fury of Air)
+[Mon Dec 24 18:19:28 2001] You say, 'Hello!'
+[Mon Dec 24 18:19:31 2001] Players in EverQuest:
+[Mon Dec 24 18:19:31 2001] ---------------------------
+[Mon Dec 24 18:19:31 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID HUGBLZN)
+[Mon Dec 24 18:19:31 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: droga (USER PID B4KJ6E7)
+[Mon Dec 24 18:19:31 2001] There are 2 players in EverQuest.
+[Mon Dec 24 18:19:35 2001] Martilena says, 'hello:)'
+[Mon Dec 24 18:20:02 2001] Rimedear GMSAYS, 'Quedan UA 1 / 3'
+[Mon Dec 24 18:21:15 2001] You no longer have a target.
+[Mon Dec 24 18:21:30 2001] You GMSAY, 'Ssirax online but unresponsive - unavail x1'
+[Mon Dec 24 18:21:32 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Dec 24 18:21:34 2001] CHECKING IN
+[Mon Dec 24 18:21:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 18:21:36 2001] USER TEXT: I was on my way to Sebilis,TPed into EJ to go there.. And now O cant move or type or anything when I log in on my warrior..but every other zone is fine I zone in like 7 seconds can you please help me get him out of there? I wont go back I promis
+[Mon Dec 24 18:21:37 2001] Players in EverQuest:
+[Mon Dec 24 18:21:37 2001] ---------------------------
+[Mon Dec 24 18:21:37 2001] There are no players in EverQuest that match those who filters.
+[Mon Dec 24 18:21:40 2001] STATUS DOWNGRADED TO NORMAL
+[Mon Dec 24 18:21:48 2001] You GMSAY, 'Javalinia unavail x1'
+[Mon Dec 24 18:21:51 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Dec 24 18:21:52 2001] CHECKING IN
+[Mon Dec 24 18:21:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 18:21:55 2001] USER TEXT: hello i lost a cresent blade of luclin about 1 week ago. nothing has been done yet. i was wondering if i could talk to a GM or someone about it
+[Mon Dec 24 18:21:56 2001] Players in EverQuest:
+[Mon Dec 24 18:21:56 2001] ---------------------------
+[Mon Dec 24 18:21:56 2001] [ANON (14 Druid)] Huin (Halfling) ZONE: oasis (USER PID BWSNPR7)
+[Mon Dec 24 18:21:56 2001] There is 1 player in EverQuest.
+[Mon Dec 24 18:22:19 2001] You told Ssyris, 'Ssyris is not online at this time.'
+[Mon Dec 24 18:22:31 2001] You told Huin, 'Hail, Ssyris! Senior Guide Espranza here. How was the blade lost?'
+[Mon Dec 24 18:22:34 2001] Rimedear GMSAYS, 'Escalated Quedan, experience loss after crash'
+[Mon Dec 24 18:22:42 2001] a goblin plaguebringer begins to cast a spell. (Quickness)
+[Mon Dec 24 18:22:46 2001] You GMSAY, 'esc to whom?'
+[Mon Dec 24 18:23:02 2001] Rimedear GMSAYS, 'Probably Lirus, can you give exp back?'
+[Mon Dec 24 18:23:03 2001] a goblin plaguebringer begins to cast a spell. (Quickness)
+[Mon Dec 24 18:23:10 2001] You GMSAY, 'Lirus is gone for the night'
+[Mon Dec 24 18:23:25 2001] You GMSAY, 'and I have no more powers in that regard than you...'
+[Mon Dec 24 18:23:30 2001] Rimedear GMSAYS, 'Oh, nuts... guess I missed that.  Okay, I'll tell him'
+[Mon Dec 24 18:24:21 2001] a goblin plaguebringer begins to cast a spell. (Quickness)
+[Mon Dec 24 18:24:25 2001] a goblin bonecharmer begins to cast a spell. (Banshee Aura)
+[Mon Dec 24 18:25:24 2001] Facial features accepted.
+[Mon Dec 24 18:25:56 2001] You GMSAY, 'ssyris online but again unavail x1'
+[Mon Dec 24 18:26:00 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Dec 24 18:26:01 2001] CHECKING IN
+[Mon Dec 24 18:26:02 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 18:26:03 2001] USER TEXT: Kadmer Queetzall and Seps stole my kill, please discipline them
+[Mon Dec 24 18:26:03 2001] Players in EverQuest:
+[Mon Dec 24 18:26:03 2001] ---------------------------
+[Mon Dec 24 18:26:03 2001] [29 Bard] Jamms (Half Elf) <Blackgrass Raiders> ZONE: southkarana (USER PID HUCD8JX)
+[Mon Dec 24 18:26:03 2001] There is 1 player in EverQuest.
+[Mon Dec 24 18:26:03 2001] a goblin plaguebringer begins to cast a spell. (Quickness)
+[Mon Dec 24 18:26:34 2001] Players in EverQuest:
+[Mon Dec 24 18:26:34 2001] ---------------------------
+[Mon Dec 24 18:26:34 2001] [ANON (26 Paladin)] Kadmer (Dwarf) ZONE: southkarana (USER PID FWRG3GG)
+[Mon Dec 24 18:26:34 2001] There is 1 player in EverQuest.
+[Mon Dec 24 18:26:38 2001] Players in EverQuest:
+[Mon Dec 24 18:26:38 2001] ---------------------------
+[Mon Dec 24 18:26:38 2001] [22 Paladin] Seps (Half Elf) <Legions of the Gods> ZONE: southkarana (USER PID B1AXJ6H)
+[Mon Dec 24 18:26:38 2001] There is 1 player in EverQuest.
+[Mon Dec 24 18:26:44 2001] You GMSAY, 'anon for investigation'
+[Mon Dec 24 18:26:47 2001] Espranza is now Invisible.
+[Mon Dec 24 18:26:47 2001] You are now anonymous.
+[Mon Dec 24 18:26:49 2001] You GMSAY, 'zone'
+[Mon Dec 24 18:26:53 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 18:27:31 2001] Seps says out of character, 'Can someone please help me track a cycs please wiil donate'
+[Mon Dec 24 18:27:31 2001] Swatster shouts, 'Lvl 18 Ranger LFG '
+[Mon Dec 24 18:27:31 2001] Seps shouts, 'ganger?'
+[Mon Dec 24 18:27:32 2001] Bosx shouts, 'jingle?"'
+[Mon Dec 24 18:27:37 2001] Swatster shouts, 'Drunk'
+[Mon Dec 24 18:27:37 2001] You have entered Southern Plains of Karana.
+[Mon Dec 24 18:27:37 2001] Swatster shouts, 'Sorry'
+[Mon Dec 24 18:27:43 2001] Bosx shouts, 'lol'
+[Mon Dec 24 18:28:13 2001] Swatster shouts, 'Im not as drunk as i am you think officer'
+[Mon Dec 24 18:28:21 2001] Facial features accepted.
+[Mon Dec 24 18:28:33 2001] You begin to sneak...
+[Mon Dec 24 18:28:34 2001] You are as quiet as a herd of running elephants.
+[Mon Dec 24 18:28:38 2001] Teleporting to jamms.
+[Mon Dec 24 18:28:54 2001] You begin to sneak...
+[Mon Dec 24 18:28:54 2001] You are as quiet as a herd of running elephants.
+[Mon Dec 24 18:29:05 2001] USER TEXT: Kadmer Queetzall and Seps stole my kill, please discipline them
+[Mon Dec 24 18:29:08 2001] Ssilo auctions, 'WTS RMBracer 4ac 3str 5wis 400 each 700 for pair'
+[Mon Dec 24 18:29:10 2001] Teleporting to kadmer.
+[Mon Dec 24 18:29:10 2001] Swatster says out of character, 'Everyone shoud get drunk its the holliday season'
+[Mon Dec 24 18:29:15 2001] You begin to sneak...
+[Mon Dec 24 18:29:16 2001] You are as quiet as a herd of running elephants.
+[Mon Dec 24 18:29:16 2001] You have become better at Sneak! (55)
+[Mon Dec 24 18:29:32 2001] You begin to sneak...
+[Mon Dec 24 18:29:32 2001] You are as quiet as a herd of running elephants.
+[Mon Dec 24 18:29:36 2001] Bulwar shouts, 'lvl 20 warrior lfg'
+[Mon Dec 24 18:29:42 2001] Players on EverQuest:
+[Mon Dec 24 18:29:42 2001] ---------------------------
+[Mon Dec 24 18:29:42 2001] [22 Paladin] Seps (Half Elf) <Legions of the Gods>
+[Mon Dec 24 18:29:42 2001] There is 1 player in South Karana.
+[Mon Dec 24 18:29:44 2001] Teleporting to seps.
+[Mon Dec 24 18:30:14 2001] a Tesch Mas Gnoll says 'I'll teach you to interfere with me Queetzall'
+[Mon Dec 24 18:30:16 2001] Sennyilea wonders how to HIT.
+[Mon Dec 24 18:30:23 2001] Sennyilea begins to cast a spell. (Root)
+[Mon Dec 24 18:30:25 2001] A Tesch Mas Gnoll adheres to the ground.
+[Mon Dec 24 18:30:27 2001] You told Jamms, 'Hail, Jamms! Senior Guide Espranza here. How did they steal your kill? What were you killing?'
+[Mon Dec 24 18:30:31 2001] a Tesch Mas Gnoll says 'I'll teach you to interfere with me Queetzall'
+[Mon Dec 24 18:30:40 2001] Balok auctions, 'WTS 10 dose SOW potion'
+[Mon Dec 24 18:30:41 2001] Shuglin begins to cast a spell. (Healing)
+[Mon Dec 24 18:30:43 2001] Fearsumone begins to cast a spell. (Allure of Death)
+[Mon Dec 24 18:30:44 2001] Sennyilea feels much better.
+[Mon Dec 24 18:30:46 2001] Otubok`s warder begins to cast a spell. (SOBEffect)
+[Mon Dec 24 18:30:48 2001] a Tesch Mas Gnoll has been slain by Otubok`s warder!
+[Mon Dec 24 18:30:48 2001] a Tesch Mas Gn's corpse says 'My comrades will avenge my death.'
+[Mon Dec 24 18:30:48 2001] Shuglin begins to cast a spell. (Healing)
+[Mon Dec 24 18:30:48 2001] Kadmer shouts, 'Can someone give me Loc of Aviaks?'
+[Mon Dec 24 18:30:51 2001] Sennyilea feels much better.
+[Mon Dec 24 18:30:56 2001] Jamms tells you, 'At the time I had a gnoll and a cyclops on me... After I finished the gnoll, I started kiting the cyclops'
+[Mon Dec 24 18:31:03 2001] Samuval shouts, '16 Necro LFG'
+[Mon Dec 24 18:31:05 2001] Faraneb shouts, 'just a sec, bout to run through'
+[Mon Dec 24 18:31:16 2001] Swatster shouts, 'Neg 6500 pos1200'
+[Mon Dec 24 18:31:23 2001] Bosx shouts, '-6662.60, +1440.86 for aviask'
+[Mon Dec 24 18:31:26 2001] Faraneb shouts, 'yup'
+[Mon Dec 24 18:31:27 2001] Jamms tells you, 'After a couple of hits from Brusco's Boastfull Bellows, they came up and started trying to kill it.'
+[Mon Dec 24 18:31:43 2001] Jamms tells you, 'That was after someone shouted that there was a cyclops near Paw'
+[Mon Dec 24 18:31:45 2001] Sennyilea gets nervous if people keep calling her babe;)
+[Mon Dec 24 18:31:49 2001] You told Jamms, 'They may not have known you were kiting it'
+[Mon Dec 24 18:31:57 2001] You told Jamms, 'or perhaps they thought they were saving you'
+[Mon Dec 24 18:32:01 2001] Jamms tells you, 'I had said twice on the shout channel that I had it'
+[Mon Dec 24 18:32:07 2001] Jamms tells you, 'And once on the ooc channel'
+[Mon Dec 24 18:32:13 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:32:13 2001] It begins to rain.
+[Mon Dec 24 18:32:16 2001] a Tesch Mas Gnoll says 'I'll teach you to interfere with me Queetzall'
+[Mon Dec 24 18:32:17 2001] Jamms tells you, 'And in say, I told them I had and to back of'
+[Mon Dec 24 18:32:21 2001] Otubok's spell fizzles!
+[Mon Dec 24 18:32:22 2001] Otubok's spell fizzles!
+[Mon Dec 24 18:32:23 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:32:27 2001] Kruldex begins to cast a spell. (Shield of Lava)
+[Mon Dec 24 18:32:29 2001] Otubok`s warder begins to cast a spell. (SOBEffect)
+[Mon Dec 24 18:32:31 2001] Otubok's spell fizzles!
+[Mon Dec 24 18:32:32 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:32:34 2001] Jamms tells you, 'After they killed it, they were claiming they had gotten it first'
+[Mon Dec 24 18:32:41 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:32:41 2001] Sennyilea begins to cast a spell. (Desist)
+[Mon Dec 24 18:32:47 2001] Sennyilea begins to cast a spell. (Root)
+[Mon Dec 24 18:32:48 2001] Shuglin begins to cast a spell. (Greater Healing)
+[Mon Dec 24 18:33:02 2001] Jamms tells you, 'One of them claims he didnt know and started apologizing.'
+[Mon Dec 24 18:33:03 2001] Otubok`s warder begins to cast a spell. (SOBEffect)
+[Mon Dec 24 18:33:05 2001] a Tesch Mas Gn's corpse says 'My comrades will avenge my death.'
+[Mon Dec 24 18:33:26 2001] Sennyilea gets her knife out for another notch.
+[Mon Dec 24 18:33:40 2001] You told Jamms, 'And you don't accept that?'
+[Mon Dec 24 18:33:51 2001] Kruldex says out of character, 'Lookin for quillmane for epic, if you see him or track him, please let me know'
+[Mon Dec 24 18:33:51 2001] Jamms tells you, 'You can even ask istark that the cyclops was mine.. I dont him to go zone after it got on us.'
+[Mon Dec 24 18:34:03 2001] Searching for quillmane00.
+[Mon Dec 24 18:34:04 2001] Could not locate player with that name.
+[Mon Dec 24 18:34:11 2001] Jamms tells you, 'I accepted from the single one that apologized. The other were too arrogant to apologize'
+[Mon Dec 24 18:34:18 2001] Sennyilea knows she is deeply in debt with Otubok.
+[Mon Dec 24 18:34:34 2001] Balok auctions, 'WTS 10 dose SOW potion'
+[Mon Dec 24 18:34:35 2001] Jamms tells you, 'Err, I told Istark to go zone when the cyclops was on me'
+[Mon Dec 24 18:34:35 2001] Otubok blushes at Sennyilea.
+[Mon Dec 24 18:34:47 2001] You told Jamms, 'It sounds like an honest mistake; they probably did KS, but I can't warn them for something when it appears they didn't deliberately do it. I will speak to them, though.'
+[Mon Dec 24 18:34:53 2001] Espranza is now Visible.
+[Mon Dec 24 18:34:56 2001] You are no longer anonymous.
+[Mon Dec 24 18:34:58 2001] You no longer have a target.
+[Mon Dec 24 18:35:01 2001] USER TEXT: Kadmer Queetzall and Seps stole my kill, please discipline them
+[Mon Dec 24 18:35:02 2001] Sennyilea hugs Otubok so much she accidently breaks his ribcage, oops.
+[Mon Dec 24 18:35:14 2001] Jamms tells you, 'They did deliberately do it.. I told them as soon as they showed up, that I had it'
+[Mon Dec 24 18:35:17 2001] You told Jamms, 'which one apologized?'
+[Mon Dec 24 18:35:20 2001] Jamms tells you, 'Seps'
+[Mon Dec 24 18:36:05 2001] Otubok gots bigger feet.
+[Mon Dec 24 18:36:05 2001] You told Queetzall, 'Hail, Queetzall! Senior Guide Espranza here. Did you attack a cyclops you knew was being kited by a bard?'
+[Mon Dec 24 18:36:06 2001] Queetzall tells you, 'Sorry, I am A.F.K. (Away From Keyboard) right now.'
+[Mon Dec 24 18:36:07 2001] Sennyilea has lost her mind..can she have yours?
+[Mon Dec 24 18:36:24 2001] Jangles GMSAYS, 'jangle bells jangle bells, jangle all the way!'
+[Mon Dec 24 18:36:28 2001] Jangles GMSAYS, 'heyas'
+[Mon Dec 24 18:36:29 2001] You told Kadmer, 'Hail, Kadmer! Senior Guide Espranza here. Did you attack a cyclops you knew was being kited by a bard?'
+[Mon Dec 24 18:36:31 2001] Players in EverQuest:
+[Mon Dec 24 18:36:31 2001] ---------------------------
+[Mon Dec 24 18:36:31 2001] * Guide *[ANON (50 Bard)] Jangles (Wood Elf) ZONE: shadeweaver (USER PID BUUXHKW)
+[Mon Dec 24 18:36:31 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: southkarana (USER PID B4KJ6E7)
+[Mon Dec 24 18:36:31 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID HUGBLZN)
+[Mon Dec 24 18:36:31 2001] There are 3 players in EverQuest.
+[Mon Dec 24 18:36:32 2001] Otubok begins to cast a spell. (Strengthen)
+[Mon Dec 24 18:36:34 2001] Otubok`s warder looks stronger.
+[Mon Dec 24 18:36:36 2001] Rimedear GMSAYS, 'Hi Sav'
+[Mon Dec 24 18:36:40 2001] Otubok begins to cast a spell. (Spirit of Bear)
+[Mon Dec 24 18:36:40 2001] You GMSAY, 'Hello!'
+[Mon Dec 24 18:36:44 2001] Jangles GMSAYS, 'bsst! wrong'
+[Mon Dec 24 18:36:45 2001] Otubok`s warder is surrounded by a brief ursine aura.
+[Mon Dec 24 18:36:47 2001] Jangles GMSAYS, 'Antarg'
+[Mon Dec 24 18:36:50 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:36:50 2001] Seps begins to cast a spell. (Flash of Light)
+[Mon Dec 24 18:36:53 2001] Rimedear GMSAYS, 'ah, nurts'
+[Mon Dec 24 18:36:58 2001] Queetzall tells you, 'No not on purpose, Our group leader yelled for help, and wil killed it'
+[Mon Dec 24 18:36:58 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:37:19 2001] Jangles GMSAYS, 'Lirus said we could play these til boxing day right?'
+[Mon Dec 24 18:37:21 2001] Kadmer tells you, 'No sir a man was runing from the Cyclops yelling for help when my group stepped into help then someone came in around halfway through the figh tand calimed it was theres'
+[Mon Dec 24 18:37:21 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:37:26 2001] You told Queetzall, 'The bard is quite upset about it.'
+[Mon Dec 24 18:37:27 2001] Queetzall tells you, 'Sorry, I am A.F.K. (Away From Keyboard) right now.'
+[Mon Dec 24 18:37:27 2001] Rimedear GMSAYS, 'Yeppers'
+[Mon Dec 24 18:37:27 2001] Otubok`s warder says 'Sorry, Master..calming down.'
+[Mon Dec 24 18:37:33 2001] Jangles GMSAYS, 'k cool'
+[Mon Dec 24 18:37:37 2001] Jangles GMSAYS, 'zone'
+[Mon Dec 24 18:37:37 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:37:43 2001] Sennyilea begins to cast a spell. (Desist)
+[Mon Dec 24 18:37:45 2001] A Tesch Mas Gnoll is stunned.
+[Mon Dec 24 18:37:46 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:37:52 2001] Queetzall tells you, 'Talk to seps, as far as I know it was ours.'
+[Mon Dec 24 18:37:52 2001] You told Kadmer, 'Hmmm... okay. Thanks.'
+[Mon Dec 24 18:37:54 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:37:58 2001] Kadmer tells you, 'Anytime'
+[Mon Dec 24 18:38:00 2001] Otubok begins to cast a spell. (Keshuval's Rejuvination)
+[Mon Dec 24 18:38:06 2001] Otubok begins to cast a spell. (Keshuval's Rejuvination)
+[Mon Dec 24 18:38:09 2001] You told Queetzall, 'It sounds like an honest mistake...'
+[Mon Dec 24 18:38:09 2001] Queetzall tells you, 'Sorry, I am A.F.K. (Away From Keyboard) right now.'
+[Mon Dec 24 18:38:17 2001] Otubok begins to cast a spell. (Keshuval's Rejuvination)
+[Mon Dec 24 18:38:25 2001] Otubok begins to cast a spell. (Drowsy)
+[Mon Dec 24 18:38:26 2001] Queetzall tells you, 'If we did, it wasn't on purpose, and nobody said anything at the time to the contrary.'
+[Mon Dec 24 18:38:29 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:38:41 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:38:44 2001] Jangles GMSAYS, 'how goes it?'
+[Mon Dec 24 18:38:47 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:38:48 2001] Sennyilea begins to cast a spell. (Root)
+[Mon Dec 24 18:38:52 2001] Rimedear GMSAYS, 'Espranza, I have to go... you'll be okay?'
+[Mon Dec 24 18:38:52 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:38:56 2001] You told Jamms, 'I've talked to them, they say someone yelled for help, so they killed it, then you came in and said you had it after it was too late.'
+[Mon Dec 24 18:38:58 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:38:59 2001] You GMSAY, 'I'm off soon too.'
+[Mon Dec 24 18:39:03 2001] Jangles GMSAYS, 'I'll come in with Antarg and handle the queue'
+[Mon Dec 24 18:39:06 2001] You GMSAY, 'Church and Xmas Eve stuff.'
+[Mon Dec 24 18:39:06 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:39:06 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:39:06 2001] Sennyilea begins to cast a spell. (Root)
+[Mon Dec 24 18:39:10 2001] Jangles GMSAYS, 'camping'
+[Mon Dec 24 18:39:11 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:39:13 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:39:14 2001] Jamms tells you, 'I can send you the log if you want. Its pretty recent'
+[Mon Dec 24 18:39:15 2001] Rimedear GMSAYS, 'Thanks Ant'
+[Mon Dec 24 18:39:16 2001] Jangles GMSAYS, 'christmas day here :)'
+[Mon Dec 24 18:39:17 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:39:21 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:39:23 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:39:30 2001] Jamms tells you, 'I log everything just incase something like this happens'
+[Mon Dec 24 18:39:33 2001] a Tesch Mas Gn's corpse says 'My comrades will avenge my death.'
+[Mon Dec 24 18:39:50 2001] Sennyilea begins to cast a spell. (Root)
+[Mon Dec 24 18:39:56 2001] Sennyilea begins to cast a spell. (Root)
+[Mon Dec 24 18:39:57 2001] You told Jamms, 'We can't take logs as evidence. It really does not sound as if they had any other motive than trying to help.'
+[Mon Dec 24 18:40:06 2001] DELETING THIS PETITION
+[Mon Dec 24 18:40:08 2001] Bosx shouts, 'hang overs are very bad ladies and gentlemen'
+[Mon Dec 24 18:40:08 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:09 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 18:40:10 2001] USER TEXT: ghoulbane quest
+[Mon Dec 24 18:40:10 2001] Players in EverQuest:
+[Mon Dec 24 18:40:10 2001] ---------------------------
+[Mon Dec 24 18:40:10 2001] [ANON (39 Druid)] Malerian (Wood Elf) ZONE: butcher (USER PID BP7A9F0)
+[Mon Dec 24 18:40:10 2001] There is 1 player in EverQuest.
+[Mon Dec 24 18:40:13 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:14 2001] Jamms tells you, 'I did tell them I didnt need the help.'
+[Mon Dec 24 18:40:19 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:22 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:24 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:24 2001] You told Malerian, 'Hail, Malerian! Senior Guide Espranza here. How may I help you?'
+[Mon Dec 24 18:40:25 2001] Antarg GMSAYS, 'k'
+[Mon Dec 24 18:40:29 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:29 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:30 2001] Augibash shouts, 'arnt you supposed to get drunk on christmas eve? now?'
+[Mon Dec 24 18:40:30 2001] Jamms tells you, 'And I never yelled for help'
+[Mon Dec 24 18:40:34 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:35 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:39 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:40 2001] Sennyilea shouts, 'thats new years'
+[Mon Dec 24 18:40:40 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:45 2001] Otubok begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:47 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:48 2001] You told Jamms, 'it perhaps wasn't noticed... I think it was someone else who thought the cyclops was after them who asked for help.'
+[Mon Dec 24 18:40:52 2001] Seps begins to cast a spell. (Light Healing)
+[Mon Dec 24 18:40:59 2001] Jamms tells you, 'Ask Istark -- The cyclops was on me while I was kiting a gnoll'
+[Mon Dec 24 18:41:00 2001] Bosx shouts, 'went clubbin last night woot'
+[Mon Dec 24 18:41:08 2001] Malerian tells you, 'several of us have noted that the ghoulbane quest doesn't work...is this temporary or permanent?'
+[Mon Dec 24 18:41:09 2001] Rimedear GMSAYS, 'Bah, half of those are UA anyway... good night and rotsa ruck'
+[Mon Dec 24 18:41:09 2001] Augibash shouts, 'woot i dont care'
+[Mon Dec 24 18:41:14 2001] Delerious shouts, 'lol'
+[Mon Dec 24 18:41:16 2001] Jamms tells you, 'Noone was around -- Just me and Istark'
+[Mon Dec 24 18:41:17 2001] You GMSAY, 'night, Rime'
+[Mon Dec 24 18:41:18 2001] Bosx shouts, 'wasnt talking to you woot'
+[Mon Dec 24 18:41:19 2001] Antarg GMSAYS, 'later Rime'
+[Mon Dec 24 18:41:23 2001] Swatster shouts, 'Woot that was rude'
+[Mon Dec 24 18:41:25 2001] Delerious shouts, 'again lol'
+[Mon Dec 24 18:41:26 2001] Antarg GMSAYS, 'merry christmas :)'
+[Mon Dec 24 18:41:27 2001] Augibash shouts, 'well who does care?'
+[Mon Dec 24 18:41:30 2001] Kadmer shouts, 'Need loc of spires'
+[Mon Dec 24 18:41:31 2001] Saeva says out of character, 'camp check'
+[Mon Dec 24 18:41:36 2001] Bosx shouts, 'dont care if anyone cares'
+[Mon Dec 24 18:41:36 2001] Augibash shouts, 'say woot if you care that box wend clubbin'
+[Mon Dec 24 18:41:48 2001] Faraneb shouts, 'woot'
+[Mon Dec 24 18:41:51 2001] You told Jamms, 'well, again, it does not seem anything malicious was meant, and I have talked to them about it.'
+[Mon Dec 24 18:41:54 2001] Delerious shouts, 'Weeee'
+[Mon Dec 24 18:41:54 2001] Bosx shouts, 'ha'
+[Mon Dec 24 18:41:56 2001] Delerious shouts, 'oops '
+[Mon Dec 24 18:42:02 2001] You told Jamms, 'So I'm certain they won't do it again.'
+[Mon Dec 24 18:42:04 2001] Your feet leave the ground.
+[Mon Dec 24 18:42:07 2001] Faraneb shouts, 'i went too'
+[Mon Dec 24 18:42:10 2001] Rimedear GMSAYS, 'and a Merry Christmas to you!  2 1/4 hours away here yet'
+[Mon Dec 24 18:42:25 2001] Players in EverQuest:
+[Mon Dec 24 18:42:25 2001] ---------------------------
+[Mon Dec 24 18:42:25 2001] * Guide *[50 Ranger] Antarg (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Mon Dec 24 18:42:25 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: southkarana (USER PID B4KJ6E7)
+[Mon Dec 24 18:42:25 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID HUGBLZN)
+[Mon Dec 24 18:42:25 2001] There are 3 players in EverQuest.
+[Mon Dec 24 18:42:31 2001] Jamms tells you, 'They may be more content on it.. I just want to know how they are going to make up for it'
+[Mon Dec 24 18:43:15 2001] Antarg GMSAYS, 'Es'
+[Mon Dec 24 18:43:22 2001] You told Jamms, 'it seems an honest mistake; can't you just kill another cyclops?'
+[Mon Dec 24 18:43:24 2001] You GMSAY, 'yes?'
+[Mon Dec 24 18:43:29 2001] Antarg GMSAYS, 'before ya go, can I get you to change a pretty serious badname?'
+[Mon Dec 24 18:43:30 2001] Saeva says out of character, 'Grizzleknot out and about'
+[Mon Dec 24 18:43:37 2001] You GMSAY, 'oh sure, what one?'
+[Mon Dec 24 18:43:50 2001] Antarg GMSAYS, 'Bookakee, or Japanese Bukkakee, means group sex'
+[Mon Dec 24 18:44:01 2001] You GMSAY, 'In Japanese?'
+[Mon Dec 24 18:44:05 2001] Kruldex says out of character, 'Anyone want him? or shall i smack him about in hopes of the flying horse?'
+[Mon Dec 24 18:44:12 2001] Antarg GMSAYS, 'yeah, confirmed it last night with a japanese speaking friend'
+[Mon Dec 24 18:44:15 2001] Jamms tells you, 'They dont seem to be that common around South Karana... And I know it wasn't a mistake. They say me kiting it, they saw my msgs that it wasnt mine, and they said they had it first which is total BS'
+[Mon Dec 24 18:44:15 2001] UNDOING CHECK OUT
+[Mon Dec 24 18:44:46 2001] You told Jamms, 'if they do it again, let me or another guide know.'
+[Mon Dec 24 18:44:47 2001] Rhysel says out of character, 'can any near Spires please SOW for a donation ??'
+[Mon Dec 24 18:44:53 2001] Players in EverQuest:
+[Mon Dec 24 18:44:53 2001] ---------------------------
+[Mon Dec 24 18:44:53 2001] [48 Magician] Bookakee (Gnome) <Ronins> ZONE: dreadlands (USER PID AZPX9KQ)
+[Mon Dec 24 18:44:53 2001] There is 1 player in EverQuest.
+[Mon Dec 24 18:44:53 2001] Jamms tells you, 'There was a druid there that was healing me, that was all I needed.'
+[Mon Dec 24 18:44:56 2001] Jamms tells you, 'I will.'
+[Mon Dec 24 18:44:59 2001] Espranza saved.
+[Mon Dec 24 18:45:17 2001] You told Jamms, 'if we can see for ourselves what is happening, it helps a lot.'
+[Mon Dec 24 18:45:19 2001] Seps says out of character, 'donating for someone to track a cyc for me'
+[Mon Dec 24 18:45:26 2001] You GMSAY, 'level 48...'
+[Mon Dec 24 18:45:29 2001] You GMSAY, 'yikes'
+[Mon Dec 24 18:45:34 2001] You GMSAY, 'zone'
+[Mon Dec 24 18:45:38 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 18:46:43 2001] Arinor shouts, 'NE Ruins looing for one more.. '
+[Mon Dec 24 18:46:44 2001] Dianwei says out of character, 'looking for tp or tl to GD plz'
+[Mon Dec 24 18:46:52 2001] You have entered Dreadlands.
+[Mon Dec 24 18:46:59 2001] Espranza is now Invisible.
+[Mon Dec 24 18:46:59 2001] You are now anonymous.
+[Mon Dec 24 18:47:02 2001] Teleporting to bookakee.
+[Mon Dec 24 18:47:06 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:47:13 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:47:19 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:47:26 2001] Espranza is now Visible.
+[Mon Dec 24 18:47:27 2001] Arinor shouts, 'NE Ruins group Looking for more'
+[Mon Dec 24 18:47:28 2001] You are no longer anonymous.
+[Mon Dec 24 18:47:29 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:47:36 2001] Bungwa begins to cast a spell. (Shield of Thorns)
+[Mon Dec 24 18:47:43 2001] Bungwa begins to cast a spell. (Ensnare)
+[Mon Dec 24 18:47:45 2001] Lillaen begins to cast a spell. (Complete Healing)
+[Mon Dec 24 18:47:49 2001] Bungwa begins to cast a spell. (Fixation of Ro)
+[Mon Dec 24 18:47:56 2001] Bungwa begins to cast a spell. (Shield of Thorns)
+[Mon Dec 24 18:47:59 2001] Jalyna begins to cast a spell. (Holy Might)
+[Mon Dec 24 18:48:08 2001] You told Bookakee, 'Hail, Bookakee! Senior Guide Espranza here. We've gotten a petition that says your first name means something obscene in Japanese.'
+[Mon Dec 24 18:48:14 2001] Djeen auctions, 'WTS ebon mace 19 24'
+[Mon Dec 24 18:48:16 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:48:20 2001] Jalyna says, 'The Avatars are here.'
+[Mon Dec 24 18:48:26 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:48:34 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:48:39 2001] a drachnid widow has been slain by Labtik!
+[Mon Dec 24 18:48:40 2001] Bookakee tells you, 'my name is Japanese..it translates to splash'
+[Mon Dec 24 18:48:49 2001] Jalyna bows before Espranza.
+[Mon Dec 24 18:48:50 2001] Bungwa is looking at your equipment...
+[Mon Dec 24 18:48:55 2001] Jalyna begins to cast a spell. (Holy Might)
+[Mon Dec 24 18:48:57 2001] Bungwa says, 'Hail, Espranza'
+[Mon Dec 24 18:49:03 2001] You told Bookakee, 'aye, but is it slang for something else?'
+[Mon Dec 24 18:49:06 2001] Bungwa begins to cast a spell. (Ensnare)
+[Mon Dec 24 18:49:07 2001] Bookakee tells you, 'if it is obscene, i would hate for it to offend anyone'
+[Mon Dec 24 18:49:07 2001] a drachnid webmaster begins to cast a spell. (Ignite)
+[Mon Dec 24 18:49:12 2001] Wescam says out of character, 'looking for a melee'
+[Mon Dec 24 18:49:13 2001] Bungwa begins to cast a spell. (Fixation of Ro)
+[Mon Dec 24 18:49:15 2001] Bookakee says, 'Hail, Espranza'
+[Mon Dec 24 18:49:16 2001] Lillaen begins to cast a spell. (Superior Healing)
+[Mon Dec 24 18:49:19 2001] You say, 'Hello!'
+[Mon Dec 24 18:49:19 2001] You no longer have a target.
+[Mon Dec 24 18:49:21 2001] Jalyna feels much better.
+[Mon Dec 24 18:49:23 2001] a drachnid webmaster begins to cast a spell. (Burst of Fire)
+[Mon Dec 24 18:49:26 2001] Bwah says out of character, 'Any Druid or Ranger LFG?'
+[Mon Dec 24 18:49:35 2001] Jalyna says, 'Enjoy your day tomrorow.'
+[Mon Dec 24 18:49:38 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:49:41 2001] Bungwa says, 'might i say you are a beautiful hafling'
+[Mon Dec 24 18:49:47 2001] You say, 'Shrub Elf.'
+[Mon Dec 24 18:49:50 2001] You giggle.
+[Mon Dec 24 18:50:00 2001] Waren Scores a critical hit!(119)
+[Mon Dec 24 18:50:02 2001] You can no longer levitate.
+[Mon Dec 24 18:50:11 2001] It begins to snow.
+[Mon Dec 24 18:50:14 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:50:18 2001] Bungwa begins to cast a spell. (Fixation of Ro)
+[Mon Dec 24 18:50:20 2001] A stonegazer cockatrice is surrounded by an outline of cold flame.
+[Mon Dec 24 18:50:22 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:50:29 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:50:30 2001] You GMSAY, 'he says it just means splash... which could very well be slang for something else.'
+[Mon Dec 24 18:50:42 2001] Lillaen begins to cast a spell. (Superior Healing)
+[Mon Dec 24 18:50:47 2001] Waren feels much better.
+[Mon Dec 24 18:51:04 2001] Antarg GMSAYS, 'this is offensive, but would you like me to tell you the absolute acurate meaning? it means group sex yes'
+[Mon Dec 24 18:51:12 2001] Valkrados shouts, 'what's going to happen to eq's economy when everyone has all the items they need'
+[Mon Dec 24 18:51:13 2001] A drolvarg rager's blood boils.
+[Mon Dec 24 18:51:13 2001] Bungwa says out of character, 'oh god of karana please stop the snow'
+[Mon Dec 24 18:51:15 2001] Antarg GMSAYS, 'but it's when about 100 guys... you know all over one chicks face'
+[Mon Dec 24 18:51:17 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:51:25 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:51:26 2001] You GMSAY, 'ouch'
+[Mon Dec 24 18:51:29 2001] Jalyna shouts, 'We appeal to the avatar to allow the snow to cease.'
+[Mon Dec 24 18:51:30 2001] Bungwa begins to cast a spell. (Ensnare)
+[Mon Dec 24 18:51:32 2001] A drolvarg rager has been ensnared.
+[Mon Dec 24 18:51:34 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:51:40 2001] Bungwa begins to cast a spell. (Fixation of Ro)
+[Mon Dec 24 18:51:47 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:51:53 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:51:54 2001] You told Bookakee, 'Okay, I've talked with someone who knows Japanese, and he said it means splash literally but means something quite obscene as well.'
+[Mon Dec 24 18:51:54 2001] Bookakee tells you, 'do i need to petition a name change? i don't want anyone offended if it means something ELSE in japanese'
+[Mon Dec 24 18:51:58 2001] Bungwa begins to cast a spell. (Ensnare)
+[Mon Dec 24 18:52:00 2001] A drolvarg gnasher has been ensnared.
+[Mon Dec 24 18:52:03 2001] Bungwa begins to cast a spell. (Fixation of Ro)
+[Mon Dec 24 18:52:06 2001] A drolvarg gnasher is surrounded by an outline of cold flame.
+[Mon Dec 24 18:52:10 2001] You told Bookakee, 'I can change your name for you. Do you have something in mind?'
+[Mon Dec 24 18:52:26 2001] Searching zones for corpse of that name....
+[Mon Dec 24 18:52:33 2001] Dianwei says out of character, 'looking for tp or tl to GD plz. will donate'
+[Mon Dec 24 18:52:44 2001] Bungwa begins to cast a spell. (Shield of Thorns)
+[Mon Dec 24 18:52:47 2001] Jalyna is surrounded by a thorny barrier.
+[Mon Dec 24 18:52:48 2001] A Mystic Voice shouts 'The portal to Luclin will become active in five minutes. Please begin gathering at the Spires if you wish to make the journey. 
+[Mon Dec 24 18:52:50 2001] Bookakee tells you, 'is Book ok? everyone calls me that anyways'
+[Mon Dec 24 18:52:57 2001] a drolvarg gnasher has been slain by Waren!
+[Mon Dec 24 18:53:02 2001] Bungwa begins to cast a spell. (Ensnare)
+[Mon Dec 24 18:53:03 2001] You told Bookakee, 'it's fine but may be taken - let me check'
+[Mon Dec 24 18:53:08 2001] You have changed Bookakee's name to Book.
+[Mon Dec 24 18:53:09 2001] Linor Scores a critical hit!(85)
+[Mon Dec 24 18:53:10 2001] Bungwa begins to cast a spell. (Fixation of Ro)
+[Mon Dec 24 18:53:13 2001] Bookakee tells you, 'if not, then Booka is fine'
+[Mon Dec 24 18:53:15 2001] Lillaen begins to cast a spell. (Complete Healing)
+[Mon Dec 24 18:53:19 2001] You have changed Bookakee's name to Booka.
+[Mon Dec 24 18:53:19 2001] The name 'Bookakee' had been added to the list of invalid names and cannot be used ever again.
+[Mon Dec 24 18:53:28 2001] Lillaen begins to cast a spell. (Superior Healing)
+[Mon Dec 24 18:53:35 2001] You told Bookakee, 'Booka is also taken'
+[Mon Dec 24 18:53:38 2001] Lillaen begins to cast a spell. (Greater Healing)
+[Mon Dec 24 18:53:41 2001] Antarg GMSAYS, 'yeah I know, someone petted about it late last night and for some reason my log didnt get their PID, I neednt mention how upset the person was'
+[Mon Dec 24 18:53:47 2001] Bookakee tells you, 'as well as Book?'
+[Mon Dec 24 18:53:50 2001] You told Bookakee, 'aye'
+[Mon Dec 24 18:53:58 2001] You feel the spirit of Norrath enter you.
+[Mon Dec 24 18:54:04 2001] Lillaen begins to cast a spell. (Greater Healing)
+[Mon Dec 24 18:54:06 2001] Bungwa begins to cast a spell. (Ensnare)
+[Mon Dec 24 18:54:08 2001] Linor goes into a berserker frenzy!
+[Mon Dec 24 18:54:08 2001] A drolvarg gnasher has been ensnared.
+[Mon Dec 24 18:54:12 2001] Bungwa begins to cast a spell. (Fixation of Ro)
+[Mon Dec 24 18:54:12 2001] Lillaen begins to cast a spell. (Complete Healing)
+[Mon Dec 24 18:54:14 2001] A drolvarg gnasher is surrounded by an outline of cold flame.
+[Mon Dec 24 18:54:17 2001] Bookakee tells you, 'can i have a temporary one and request a change later when i think of one?'
+[Mon Dec 24 18:54:22 2001] Linor is completely healed.
+[Mon Dec 24 18:54:22 2001] Linor is no longer berserk.
+[Mon Dec 24 18:54:23 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:54:30 2001] Fendil says out of character, '47 Paladin LFG'
+[Mon Dec 24 18:54:31 2001] You told Bookakee, 'okay'
+[Mon Dec 24 18:54:33 2001] Bookakee begins to cast a spell. (Blaze)
+[Mon Dec 24 18:54:33 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:54:36 2001] Linor Scores a critical hit!(39)
+[Mon Dec 24 18:54:41 2001] Linor Scores a critical hit!(34)
+[Mon Dec 24 18:54:50 2001] Bookakee tells you, 'will i be flagged as able to request one?'
+[Mon Dec 24 18:54:54 2001] A Mystic Voice shouts 'As a reminder, the portal will become active in three minutes. 
+[Mon Dec 24 18:54:55 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:54:58 2001] You have changed Bookakee's name to Beeko.
+[Mon Dec 24 18:55:02 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:55:11 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:55:13 2001] You have changed Bookakee's name to Beekor.
+[Mon Dec 24 18:55:20 2001] Bungwa begins to cast a spell. (Ensnare)
+[Mon Dec 24 18:55:22 2001] A drolvarg rager has been ensnared.
+[Mon Dec 24 18:55:26 2001] A drolvarg rager's blood boils.
+[Mon Dec 24 18:55:26 2001] Bungwa begins to cast a spell. (Fixation of Ro)
+[Mon Dec 24 18:55:27 2001] You told Beekor, 'yup, just petition.'
+[Mon Dec 24 18:55:29 2001] A drolvarg rager is surrounded by an outline of cold flame.
+[Mon Dec 24 18:55:31 2001] Beekor tells you, 'thank you'
+[Mon Dec 24 18:55:32 2001] You say, 'Hail, Beekor'
+[Mon Dec 24 18:55:38 2001] Players in EverQuest:
+[Mon Dec 24 18:55:38 2001] ---------------------------
+[Mon Dec 24 18:55:38 2001] [48 Magician] Beekor (Gnome) <Ronins> ZONE: dreadlands (USER PID AZPX9KQ)
+[Mon Dec 24 18:55:38 2001] There is 1 player in EverQuest.
+[Mon Dec 24 18:55:38 2001] Fendil says out of character, '47 Paladin LFG'
+[Mon Dec 24 18:55:56 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:55:57 2001] A Mystic Voice shouts 'Two minutes till teleportation. Please be prepared to step inside the circle of Spires. 
+[Mon Dec 24 18:56:01 2001] Wanlayen shouts, '45th level Mage LFG'
+[Mon Dec 24 18:56:03 2001] Ryei tells you, 'hello :-) lirus changed my altern's name... he told me that u can change it to a better name to me... can u do it?'
+[Mon Dec 24 18:56:11 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:56:11 2001] A drolvarg gnasher's blood boils.
+[Mon Dec 24 18:56:14 2001] Beekor begins to cast a spell. (Blaze)
+[Mon Dec 24 18:56:17 2001] Tanilie shouts, 'Lvl 45 Cleric LFG send tell please.'
+[Mon Dec 24 18:56:18 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:56:22 2001] Fendil says out of character, '47 Paladin LFG'
+[Mon Dec 24 18:56:23 2001] Bungwa begins to cast a spell. (Engulfing Roots)
+[Mon Dec 24 18:56:24 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:56:31 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:56:32 2001] a drolvarg rager has been slain by Waren!
+[Mon Dec 24 18:56:33 2001] Lillaen begins to cast a spell. (Superior Healing)
+[Mon Dec 24 18:56:37 2001] Linor Scores a critical hit!(23)
+[Mon Dec 24 18:56:37 2001] A drolvarg gnasher's blood boils.
+[Mon Dec 24 18:56:37 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:56:38 2001] Jalyna feels much better.
+[Mon Dec 24 18:56:42 2001] Lillaen begins to cast a spell. (Extinguish Fatigue)
+[Mon Dec 24 18:56:44 2001] Beekor begins to cast a spell. (Shock of Swords)
+[Mon Dec 24 18:56:45 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:56:46 2001] Jalyna looks energized.
+[Mon Dec 24 18:56:48 2001] You GMSAY, '<note> Bookakee AZPX9KQ given temp name Beekor, name was very offensive in Japanese. Soulmarked so he can choose a new one at a later time.'
+[Mon Dec 24 18:56:49 2001] A drolvarg gnasher's blood boils.
+[Mon Dec 24 18:56:50 2001] A drolvarg gnasher is lacerated by steel.
+[Mon Dec 24 18:56:50 2001] a drolvarg gnasher has been slain by Beekor!
+[Mon Dec 24 18:56:53 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:57:00 2001] Bungwa begins to cast a spell. (Fixation of Ro)
+[Mon Dec 24 18:57:00 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:57:00 2001] You told Ryei, 'Please petition about it... be with you shortly.'
+[Mon Dec 24 18:57:01 2001] A Mystic Voice shouts 'One minute till teleportation. Please be prepared to step inside the circle of Spires. 
+[Mon Dec 24 18:57:02 2001] Lillaen's spell fizzles!
+[Mon Dec 24 18:57:02 2001] A drolvarg rager is surrounded by an outline of cold flame.
+[Mon Dec 24 18:57:03 2001] Lillaen begins to cast a spell. (Complete Healing)
+[Mon Dec 24 18:57:06 2001] Labtik begins to cast a spell. (WaterElementalAttack)
+[Mon Dec 24 18:57:07 2001] Linor Scores a critical hit!(34)
+[Mon Dec 24 18:57:19 2001] Ryei tells you, 'u can change it right? ill get my altern if u can do it'
+[Mon Dec 24 18:57:34 2001] Tanilie shouts, 'Lvl 45 Cleric LFG send tell please.'
+[Mon Dec 24 18:57:35 2001] Espranza saved.
+[Mon Dec 24 18:57:47 2001] Antarg GMSAYS, 'thanks'
+[Mon Dec 24 18:57:48 2001] A Mystic Voice shouts 'The portal to Luclin is about to become active. Please stand inside the circle of Spires and have a shard upon your person. 
+[Mon Dec 24 18:57:52 2001] You told Ryei, 'yes, I can change names but I need you to petition and I need to see if Lirus added a note saying you could to your account.'
+[Mon Dec 24 18:57:57 2001] Players in EverQuest:
+[Mon Dec 24 18:57:57 2001] ---------------------------
+[Mon Dec 24 18:57:57 2001] [48 Magician] Beekor (Gnome) <Ronins> ZONE: dreadlands (USER PID AZPX9KQ)
+[Mon Dec 24 18:57:57 2001] There is 1 player in EverQuest.
+[Mon Dec 24 18:58:02 2001] Ryei tells you, 'k'
+[Mon Dec 24 18:58:08 2001] Ryei tells you, 'brb with altern'
+[Mon Dec 24 18:58:21 2001] Wanlayen shouts, '45th level Mage LFG'
+[Mon Dec 24 18:59:21 2001] Soul Mark added to file successfully.
+[Mon Dec 24 18:59:22 2001] A Mystic Voice shouts 'In approximately 15 minutes the Spires will once again become active. 
+[Mon Dec 24 18:59:58 2001] Facial features accepted.
+[Mon Dec 24 19:00:10 2001] Valkrados shouts, 'looking for a tp to wc will clarity insight brilliance and haste your group if needbe'
+[Mon Dec 24 19:00:40 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 19:00:41 2001] USER TEXT: wanna change my name... cause lirus told me i could
+[Mon Dec 24 19:00:41 2001] Players in EverQuest:
+[Mon Dec 24 19:00:41 2001] ---------------------------
+[Mon Dec 24 19:00:41 2001] [14 Rogue] Raagestabber (Halfling) ZONE: commons (USER PID GVS65YS)
+[Mon Dec 24 19:00:41 2001] There is 1 player in EverQuest.
+[Mon Dec 24 19:00:54 2001] UNDOING CHECK OUT
+[Mon Dec 24 19:00:57 2001] A Mystic Voice shouts 'In approximately 15 minutes the Spires will once again become active. 
+[Mon Dec 24 19:01:21 2001] Saving soulmark information to server.
+[Mon Dec 24 19:01:28 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Dec 24 19:01:28 2001] USER TEXT: wanna change my name... cause lirus told me i could
+[Mon Dec 24 19:01:28 2001] Players in EverQuest:
+[Mon Dec 24 19:01:28 2001] ---------------------------
+[Mon Dec 24 19:01:28 2001] [ANON (14 Rogue)] Raagestabber (Halfling) ZONE: commons (USER PID GVS65YS)
+[Mon Dec 24 19:01:28 2001] There is 1 player in EverQuest.
+[Mon Dec 24 19:01:38 2001] Antarg GMSAYS, 'zone'
+[Mon Dec 24 19:01:54 2001] You told Raagestabber, 'Hail, Senior Guide Espranza here. Okay, he said you could have one. Let me come to you - one moment please.'
+[Mon Dec 24 19:01:55 2001] You GMSAY, 'zone'
+[Mon Dec 24 19:01:58 2001] Teleporting to raagestabber.
+[Mon Dec 24 19:01:59 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 19:02:28 2001] Gaffan auctions, 'WTB Large Soiled Bag'
+[Mon Dec 24 19:02:33 2001] You have entered West Commonlands.
+[Mon Dec 24 19:02:44 2001] Teleporting to raagestabber.
+[Mon Dec 24 19:02:47 2001] Baash shouts, 'lvl 12 tank looking for derv group'
+[Mon Dec 24 19:02:52 2001] an orc centurion says 'You shall bleed!! All hail the Deathfist!! 
+[Mon Dec 24 19:02:52 2001] an orc centurion says 'It's Halflings like you who have ruined your own lands. You'll not ruin mine!'
+[Mon Dec 24 19:02:54 2001] Teleporting to raagestabber.
+[Mon Dec 24 19:02:59 2001] Antarg GMSAYS, 'zone'
+[Mon Dec 24 19:03:07 2001] Feemee says out of character, 'come on over, baash'
+[Mon Dec 24 19:03:11 2001] Raagestabber tells you, 'no idea what name i get :-( sec'
+[Mon Dec 24 19:03:22 2001] You told Raagestabber, 'heh... no idea?'
+[Mon Dec 24 19:03:30 2001] Raagestabber tells you, 'just a litle'
+[Mon Dec 24 19:04:02 2001] Evilb auctions, 'WTS Twilight Cloth Shoulders AC6 Dex2 Int4 Mana10 Int casters Only'
+[Mon Dec 24 19:04:02 2001] DELETING THIS PETITION
+[Mon Dec 24 19:04:11 2001] Facial features accepted.
+[Mon Dec 24 19:04:17 2001] Raagestabber tells you, 'ill tell a list of names... u try then by order'
+[Mon Dec 24 19:04:24 2001] You told Raagestabber, 'just one at a time please'
+[Mon Dec 24 19:04:37 2001] Raagestabber tells you, 'Ragestabbe'
+[Mon Dec 24 19:04:44 2001] Raagestabber tells you, 'ragestabb'
+[Mon Dec 24 19:04:47 2001] Evilb auctions, 'WTS Hardened Clay Bracer AC5 Str5 Sta5 Dex5 Agi5'
+[Mon Dec 24 19:04:48 2001] Raagestabber tells you, 'ragestab'
+[Mon Dec 24 19:04:53 2001] Evilb auctions, 'WTS Talisman of Wistfulness AC2 Cha3 Wis3 Int3 '
+[Mon Dec 24 19:04:55 2001] You have changed Raagestabber's name to Ragestabbe.
+[Mon Dec 24 19:04:57 2001] Raagestabber tells you, 'pocketstabber'
+[Mon Dec 24 19:05:02 2001] Raagestabber tells you, 'pocketstabb'
+[Mon Dec 24 19:05:04 2001] Ziukaka says out of character, 'anyone want to camp druids with me?'
+[Mon Dec 24 19:05:05 2001] Raagestabber tells you, 'pocketstab'
+[Mon Dec 24 19:05:06 2001] Evilb auctions, 'WTS Shield of Immaculate AC25 Str10 SvD25 Effect Cure Disease Paly only'
+[Mon Dec 24 19:05:12 2001] You have changed Raagestabber's name to Ragestabb.
+[Mon Dec 24 19:05:18 2001] Raagestabber tells you, 'see if any will do'
+[Mon Dec 24 19:05:26 2001] You have changed Raagestabber's name to Ragestab.
+[Mon Dec 24 19:05:42 2001] You have changed Raagestabber's name to Pocketstabber.
+[Mon Dec 24 19:05:54 2001] Valkrados auctions, 'WTS sorcerous bowl and plat diamond ring send tells'
+[Mon Dec 24 19:06:04 2001] Raagestabber tells you, 'so?'
+[Mon Dec 24 19:06:05 2001] Saldor shouts, 'looking for port and lev to DL'
+[Mon Dec 24 19:06:06 2001] You have changed Raagestabber's name to Pocketstabb.
+[Mon Dec 24 19:06:15 2001] You told Raagestabber, 'trying... :/'
+[Mon Dec 24 19:06:18 2001] Raagestabber tells you, 'k'
+[Mon Dec 24 19:06:20 2001] Ziukaka shouts, 'paying for port to DL'
+[Mon Dec 24 19:06:23 2001] a giant spider has been slain by Raagestabber!
+[Mon Dec 24 19:06:34 2001] You have changed Raagestabber's name to Ragestabbe.
+[Mon Dec 24 19:06:40 2001] You have changed Raagestabber's name to Ragestabb.
+[Mon Dec 24 19:06:45 2001] Antarg GMSAYS, 'zone'
+[Mon Dec 24 19:06:49 2001] You have changed Raagestabber's name to Ragestab.
+[Mon Dec 24 19:07:00 2001] You have changed Raagestabber's name to Pocketstab.
+[Mon Dec 24 19:07:18 2001] Saldor shouts, 'looking for lev and port to DL please'
+[Mon Dec 24 19:07:19 2001] Glamdrin shouts, 'Anyone wanna port me to NK ?'
+[Mon Dec 24 19:07:24 2001] You say, 'Nothing is working... you'll have to petition when you see GM Lirus on, I think.'
+[Mon Dec 24 19:07:31 2001] Valkrados auctions, 'WTS 4 str 4 wis veil 185pp || 4 wis 2 str ring 200pp || 4 str 2 wis ring 185pp || 4 int 2 str earing 175pp || 3 str 3 dex ring 125pp || 6 wis ring 200pp || 7 dex 7 agi necklace 150pp || 7 dex 5 cha ring 125pp || 7 cha 5 dex ring 100pp send tells'
+[Mon Dec 24 19:07:38 2001] Valkrados auctions, 'WTS sorcerous bowl and plat diamond ring send tells'
+[Mon Dec 24 19:07:45 2001] Raagestabber says, 'i think its not working cause those names cant be'
+[Mon Dec 24 19:07:52 2001] Raagestabber says, 'try a simple name'
+[Mon Dec 24 19:08:02 2001] Sundaay says out of character, 'can i get a sow at the ring plz?'
+[Mon Dec 24 19:08:02 2001] Moraxus shouts, 'Whats the name of that vail?'
+[Mon Dec 24 19:08:06 2001] Raagestabber says, 'like litlerogue'
+[Mon Dec 24 19:08:09 2001] Soulston says out of character, 'Looking For Tp or TL GD plz I will donation '
+[Mon Dec 24 19:08:16 2001] Raagestabber says, 'if it works not your fault :-)'
+[Mon Dec 24 19:08:17 2001] You have changed Raagestabber's name to Ragerstabber.
+[Mon Dec 24 19:08:28 2001] Raagestabber tells you, 'brb'
+[Mon Dec 24 19:08:29 2001] Klaz auctions, 'WTS Velium Battle Axe 30/40 2hs 5k'
+[Mon Dec 24 19:08:50 2001] Ziukaka shouts, 'paying for port to DL'
+[Mon Dec 24 19:08:55 2001] Saldor shouts, 'looking for port and levitate to DL please will donate'
+[Mon Dec 24 19:08:56 2001] Sipyr auctions, 'WTB Cursd tizmak armor. '
+[Mon Dec 24 19:09:10 2001] Glamdrin auctions, 'WTS permafrost crystal used for dying , WTB paladin pants for 52pp'
+[Mon Dec 24 19:09:10 2001] You have changed Raagestabber's name to Ragestab.
+[Mon Dec 24 19:09:28 2001] Soulston says out of character, 'Looking For Tp or TL GD plz I will donation '
+[Mon Dec 24 19:09:49 2001] You have changed Raagestabber's name to Stabrager.
+[Mon Dec 24 19:09:56 2001] Soulston says out of character, 'Looking For Tp or TL GD plz I will donation '
+[Mon Dec 24 19:10:30 2001] Players in EverQuest:
+[Mon Dec 24 19:10:30 2001] ---------------------------
+[Mon Dec 24 19:10:30 2001] * Guide *[50 Ranger] Antarg (Half Elf) <Keepers of Dreams> ZONE: shadowhaven (USER PID BUUXHKW)
+[Mon Dec 24 19:10:30 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID B4KJ6E7)
+[Mon Dec 24 19:10:30 2001] There are 2 players in EverQuest.
+[Mon Dec 24 19:10:41 2001] Fubanchi auctions, '--->SELLING<--- Crimson Robe of Alendine - 12ac 15dex 15int 50hp 50mana - 20k'
+[Mon Dec 24 19:10:56 2001] Ziukaka shouts, 'paying for port to DL'
+[Mon Dec 24 19:11:10 2001] Players in EverQuest:
+[Mon Dec 24 19:11:10 2001] ---------------------------
+[Mon Dec 24 19:11:10 2001] [ANON (14 Rogue)] Raagestabber (Halfling) ZONE: commons (USER PID GVS65YS)
+[Mon Dec 24 19:11:10 2001] There is 1 player in EverQuest.
+[Mon Dec 24 19:11:23 2001] Soulston says out of character, 'Looking For Tp or TL GD plz I will donation '
+[Mon Dec 24 19:11:46 2001] Raagestabber tells you, 'sorry back'
+[Mon Dec 24 19:11:49 2001] You GMSAY, '<note gm> Raagestabber GVS65YS was given a temp name by Lirus, but I can't change it to a permanent one. Advising to contact Lirus via Contact Your GM.'
+[Mon Dec 24 19:11:57 2001] Soulston says out of character, 'Looking For Tp or TL GD plz I will donation '
+[Mon Dec 24 19:11:59 2001] Mahs says out of character, 'Looking for tp to GD will pay'
+[Mon Dec 24 19:12:06 2001] Raagestabber tells you, 'so ?'
+[Mon Dec 24 19:12:17 2001] You told Raagestabber, 'okay, I can't find anything that works. You'll have to contact Lirus through the Contact Your GM link on the EQ web page.'
+[Mon Dec 24 19:12:18 2001] Antarg GMSAYS, 'Seniors cant change GM given names or is it a bug?'
+[Mon Dec 24 19:12:28 2001] You GMSAY, 'beats me, I'm new to all this.'
+[Mon Dec 24 19:12:33 2001] Raagestabber tells you, ':-('
+[Mon Dec 24 19:12:37 2001] Espranza saved.
+[Mon Dec 24 19:12:49 2001] Sipyr auctions, 'WTS Fist of Horn. Fighting baton. Azule sleeve. Crown of Froglok king'
+[Mon Dec 24 19:12:58 2001] Raagestabber tells you, 'please tell lirus to dont put a week to change it.. cause i cant find him'
+[Mon Dec 24 19:12:59 2001] Ziukaka shouts, 'looking for partner to kill druid guys, so somone to break it'
+[Mon Dec 24 19:13:10 2001] Raagestabber tells you, 'tell him that i have to change this ugly name that he gave me :-)'
+[Mon Dec 24 19:13:12 2001] You told Raagestabber, 'That's why you should use the Contact Your GM link.'
+[Mon Dec 24 19:13:23 2001] Raagestabber tells you, 'where is it?'
+[Mon Dec 24 19:13:36 2001] Glamdrin auctions, 'WTS permafrost crystal used for dying , WTB paladin pants for 52pp'
+[Mon Dec 24 19:13:38 2001] You told Raagestabber, 'off the EQ web page - www.everquestlive.com - along the left side.'
+[Mon Dec 24 19:13:50 2001] Raagestabber tells you, 'ok... ill try thanks'
+[Mon Dec 24 19:13:56 2001] Raagestabber tells you, 'btw your a pretty lady :-)'
+[Mon Dec 24 19:13:59 2001] Sevin says out of character, 'seeking a port to Sky Fire please.  will pay'
+[Mon Dec 24 19:14:00 2001] Antarg GMSAYS, 'sigh'
+[Mon Dec 24 19:14:01 2001] Ziron says out of character, 'alalalalalaalalalalala'
+[Mon Dec 24 19:14:03 2001] You told Raagestabber, 'best of luck and Merry Christmas. Thanks ;)'
+[Mon Dec 24 19:14:04 2001] You blush at Raagestabber.
+[Mon Dec 24 19:14:05 2001] Antarg GMSAYS, 'bushfires everywhere'
+[Mon Dec 24 19:14:05 2001] Raagestabber blinks at Espranza in disbelief.
+[Mon Dec 24 19:14:09 2001] Mahs says out of character, 'Looking for tp to GD will pay'
+[Mon Dec 24 19:14:11 2001] Raagestabber tells you, 'u 2'
+[Mon Dec 24 19:14:14 2001] You wave goodbye to Raagestabber.
+[Mon Dec 24 19:14:15 2001] Raagestabber tells you, 'merry x-mas'
+[Mon Dec 24 19:14:16 2001] You GMSAY, 'zone'
+[Mon Dec 24 19:14:16 2001] Fubanchi auctions, '--->SELLING<--- Crimson Robe of Alendine - 12ac 15dex 15int 50hp 50mana - 20k'
+[Mon Dec 24 19:14:18 2001] Ziron auctions, 'wts babs 200p 24 atk 39dly'
+[Mon Dec 24 19:14:18 2001] Raagestabber waves goodbye to Espranza.
+[Mon Dec 24 19:14:19 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Mon Dec 24 19:14:19 2001] Your Belt of Translocation begins to glow.
+[Mon Dec 24 19:14:20 2001] LOADING, PLEASE WAIT...
+[Mon Dec 24 19:14:39 2001] You have entered Sunset Home.
+[Mon Dec 24 19:14:45 2001] It begins to rain.
+[Mon Dec 24 19:15:05 2001] Facial features accepted.
+[Mon Dec 24 19:15:40 2001] You GMSAY, 'okay, I am really off. Merry Day After Christmas, Antarg!'
+[Mon Dec 24 19:15:46 2001] Antarg GMSAYS, 'as to you!'
+[Mon Dec 24 19:15:57 2001] You GMSAY, 'oh wait, it is still Christmas there, isn't it?'
+[Mon Dec 24 19:16:04 2001] Antarg GMSAYS, 'yeah, about 2pm'
+[Mon Dec 24 19:16:19 2001] You GMSAY, 'heh okay, well enjoy the rest of your holiday and I will see you soon. Good night!'
+[Mon Dec 24 19:16:27 2001] It will take you about 30 seconds to prepare your camp.
+[Mon Dec 24 19:16:27 2001] Antarg GMSAYS, 'night'
+[Mon Dec 24 19:16:31 2001] It will take about 25 more seconds to prepare your camp.
+[Mon Dec 24 19:16:36 2001] It will take about 20 more seconds to prepare your camp.
+[Mon Dec 24 19:16:41 2001] It will take about 15 more seconds to prepare your camp.
+[Mon Dec 24 19:16:46 2001] It will take about 10 more seconds to prepare your camp.
+[Mon Dec 24 19:16:51 2001] It will take about 5 more seconds to prepare your camp.

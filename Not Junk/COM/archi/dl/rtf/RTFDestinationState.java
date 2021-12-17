@@ -1,0 +1,1 @@
+package COM.archi.dl.rtf;public final class RTFDestinationState{	public static final RTFDestinationState NORMAL = new RTFDestinationState();	public static final RTFDestinationState SKIP = new RTFDestinationState();		private RTFDestinationState() {}	} // end class RTFDestinationState

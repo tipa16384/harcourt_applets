@@ -1,0 +1,2308 @@
+[Tue May 08 20:47:32 2001] Welcome to EverQuest!
+[Tue May 08 20:47:32 2001] You have entered Eastern Wastes.
+[Tue May 08 20:47:45 2001] Players in EverQuest:
+[Tue May 08 20:47:45 2001] ---------------------------
+[Tue May 08 20:47:45 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AR0G24R)
+[Tue May 08 20:47:45 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: eastwastes (USER PID AUGBQH4)
+[Tue May 08 20:47:45 2001] * Guide *[50 Shaman] Ngoc (Ogre) <Keepers of Morell Thule> ZONE: freportn (USER PID AUGBDWQ)
+[Tue May 08 20:47:45 2001] * Guide *[50 Shadow Knight] Bruus (Troll) <Keepers of Morell Thule> ZONE: thurgadinb (USER PID AU7FMX4)
+[Tue May 08 20:47:45 2001] * Guide *[50 Shaman] Nazbag (Ogre) <Keepers of Morell Thule> ZONE: timorous (USER PID AUUV5HS)
+[Tue May 08 20:47:45 2001] * Guide *[50 Druid] Eryndale (Wood Elf) <Keepers of Morell Thule> ZONE: wakening (USER PID AUGB05J)
+[Tue May 08 20:47:45 2001] * Guide *[50 Monk] Narcomi (Human) <Keepers of Morell Thule> ZONE: timorous (USER PID AUGBAB8)
+[Tue May 08 20:47:45 2001] There are 7 players in EverQuest.
+[Tue May 08 20:47:49 2001] You GMSAY, 'hullo!'
+[Tue May 08 20:48:00 2001] Nazbag GMSAYS, 'wow, full house. '
+[Tue May 08 20:48:10 2001] You GMSAY, 'woohoo, look at the petition list!'
+[Tue May 08 20:48:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 20:48:21 2001] USER TEXT: hey there... I just turned in the preserved box of kromiff heads and did not get the prayer shawl or faction.. is this a bug..?
+[Tue May 08 20:48:21 2001] Players in EverQuest:
+[Tue May 08 20:48:21 2001] ---------------------------
+[Tue May 08 20:48:21 2001] [41 Cleric] Bakinleaf (Dwarf) ZONE: thurgadina (USER PID AQVGMRB)
+[Tue May 08 20:48:21 2001] There is 1 player in EverQuest.
+[Tue May 08 20:48:30 2001] Nazbag GMSAYS, 'Espranza, tell me what was the best thing you learned as an apprentice, and what was the worst?'
+[Tue May 08 20:48:51 2001] Eryndale GMSAYS, 'deleting ax1ky1t unavaliable 3 times'
+[Tue May 08 20:48:54 2001] You GMSAY, 'best thing I learned as an apprentice was to enjoy my work. The worst thing I learned was that some people are real jerks.'
+[Tue May 08 20:49:27 2001] Eryndale GMSAYS, 'i am so glad you said that Esp. i was just thinking the same thing'
+[Tue May 08 20:49:28 2001] Ngoc GMSAYS, 'anyone know if GD is down?'
+[Tue May 08 20:49:45 2001] You GMSAY, 'how did you answer, Eryn?'
+[Tue May 08 20:50:13 2001] Eryndale GMSAYS, 'as sticky sweet as i could be!!!!'
+[Tue May 08 20:50:18 2001] You GMSAY, 'heh'
+[Tue May 08 20:50:28 2001] Nazbag GMSAYS, 'personally, I think that the best thing I ever did was the simulations I did with Garret one night'
+[Tue May 08 20:50:45 2001] You GMSAY, 'ah, but you said the best thing I ever learned'
+[Tue May 08 20:50:57 2001] Nazbag GMSAYS, 'the worst was finding out how many people really whine about trivial  things'
+[Tue May 08 20:50:58 2001] The spirit leaves you.
+[Tue May 08 20:51:12 2001] Elfren shouts, 'is GD zone down?'
+[Tue May 08 20:51:14 2001] You GMSAY, 'the best thing I ever did was being an apprentice and dancing among the legs of a hill giant'
+[Tue May 08 20:51:17 2001] Putok says out of character, 'yup'
+[Tue May 08 20:51:18 2001] You feel the spirit of Norrath enter you.
+[Tue May 08 20:51:18 2001] Myela shouts, 'yes'
+[Tue May 08 20:51:18 2001] Your feet leave the ground.
+[Tue May 08 20:51:19 2001] Ktee shouts, 'Yes'
+[Tue May 08 20:51:23 2001] You GMSAY, 'with Dimmy'
+[Tue May 08 20:51:23 2001] Nazbag GMSAYS, 'LOL'
+[Tue May 08 20:51:45 2001] You GMSAY, 'and if you know Dimmy, you know why that was the best. It was my first day with the program.'
+[Tue May 08 20:52:06 2001] Eryndale GMSAYS, 'oh Nazbag i had the WORST one last night. all ticked off about all the bad names that we guides are giving out. wanted the email address to complain about us not doing anything about it'
+[Tue May 08 20:52:21 2001] You GMSAY, 'he's the one who taught me about having fun. it helps during the bad petitions.'
+[Tue May 08 20:52:29 2001] Bruus GMSAYS, 'great divide is not listed on server list it appears to be down'
+[Tue May 08 20:52:31 2001] Ngoc GMSAYS, 'damn...need to relog...be right back'
+[Tue May 08 20:52:33 2001] Nazbag GMSAYS, 'someone sent me a petition the other day with 15 bad names'
+[Tue May 08 20:52:40 2001] Ngoc GMSAYS, 'I noticed that'
+[Tue May 08 20:52:45 2001] USER TEXT: hey there... I just turned in the preserved box of kromiff heads and did not get the prayer shawl or faction.. is this a bug..?
+[Tue May 08 20:53:20 2001] Nazbag GMSAYS, 'I put a seuggestion in the laboritory for names'
+[Tue May 08 20:53:28 2001] Nazbag GMSAYS, 'a way to /namelog'
+[Tue May 08 20:53:38 2001] Nazbag GMSAYS, 'so that the GM could look at a list and just changet hem'
+[Tue May 08 20:53:43 2001] You told Bakinleaf, 'Hail, Bakinleaf! Guide Espranza here. I don't know for sure... it sounds like your faction was too low, or you gave it to the wrong person, or you didn't press "combine" in the box before you turned it in.'
+[Tue May 08 20:53:47 2001] Ngoc GMSAYS, 'ok...need to find a GM about GD being down'
+[Tue May 08 20:53:50 2001] Ngoc GMSAYS, 'logging'
+[Tue May 08 20:53:55 2001] Ngoc GMSAYS, 'be back'
+[Tue May 08 20:53:58 2001] Nazbag GMSAYS, 'okies ngok'
+[Tue May 08 20:53:58 2001] You told Bakinleaf, 'Could that have been a reason?'
+[Tue May 08 20:54:04 2001] You GMSAY, 'anyone tried going there?'
+[Tue May 08 20:54:10 2001] Eryndale GMSAYS, 'kael is down too it seems'
+[Tue May 08 20:54:20 2001] Zones in EverQuest:
+[Tue May 08 20:54:20 2001] ---------------------------
+[Tue May 08 20:54:20 2001] ZONE: lakerathe is UP.
+[Tue May 08 20:54:20 2001] ZONE: lfaydark is UP.
+[Tue May 08 20:54:20 2001] ZONE: kaesora is UP.
+[Tue May 08 20:54:20 2001] ZONE: oggok is UP.
+[Tue May 08 20:54:20 2001] ZONE: iceclad is UP.
+[Tue May 08 20:54:20 2001] ZONE: mischiefplane is UP.
+[Tue May 08 20:54:20 2001] ZONE: skyshrine is UP.
+[Tue May 08 20:54:20 2001] ZONE: kurn is UP.
+[Tue May 08 20:54:20 2001] ZONE: eastwastes is UP.
+[Tue May 08 20:54:20 2001] ZONE: templeveeshan is UP.
+[Tue May 08 20:54:20 2001] ZONE: wakening is UP.
+[Tue May 08 20:54:20 2001] ZONE: cshome is UP.
+[Tue May 08 20:54:20 2001] ZONE: northkarana is UP.
+[Tue May 08 20:54:20 2001] ZONE: timorous is UP.
+[Tue May 08 20:54:20 2001] ZONE: crystal is UP.
+[Tue May 08 20:54:20 2001] ZONE: growthplane is UP.
+[Tue May 08 20:54:20 2001] ZONE: frontiermtns is UP.
+[Tue May 08 20:54:20 2001] ZONE: veeshan is UP.
+[Tue May 08 20:54:20 2001] ZONE: cazicthule is UP.
+[Tue May 08 20:54:20 2001] ZONE: sebilis is UP.
+[Tue May 08 20:54:20 2001] ZONE: citymist is UP.
+[Tue May 08 20:54:20 2001] ZONE: thurgadina is UP.
+[Tue May 08 20:54:20 2001] ZONE: lakeofillomen is UP.
+[Tue May 08 20:54:20 2001] ZONE: charasis is UP.
+[Tue May 08 20:54:20 2001] ZONE: droga is UP.
+[Tue May 08 20:54:20 2001] ZONE: thurgadinb is UP.
+[Tue May 08 20:54:20 2001] ZONE: sirens is UP.
+[Tue May 08 20:54:20 2001] ZONE: firiona is UP.
+[Tue May 08 20:54:20 2001] ZONE: frozenshadow is UP.
+[Tue May 08 20:54:20 2001] ZONE: velketor is UP.
+[Tue May 08 20:54:20 2001] ZONE: swampofnohope is UP.
+[Tue May 08 20:54:20 2001] ZONE: warslikswood is UP.
+[Tue May 08 20:54:20 2001] ZONE: skyfire is UP.
+[Tue May 08 20:54:20 2001] ZONE: overthere is UP.
+[Tue May 08 20:54:20 2001] ZONE: cabeast is UP.
+[Tue May 08 20:54:20 2001] ZONE: dalnir is UP.
+[Tue May 08 20:54:20 2001] ZONE: fieldofbone is UP.
+[Tue May 08 20:54:20 2001] ZONE: nurga is UP.
+[Tue May 08 20:54:20 2001] ZONE: cabwest is UP.
+[Tue May 08 20:54:20 2001] ZONE: oot is UP.
+[Tue May 08 20:54:20 2001] ZONE: chardok is UP.
+[Tue May 08 20:54:20 2001] ZONE: sleeper is UP.
+[Tue May 08 20:54:20 2001] ZONE: hole is UP.
+[Tue May 08 20:54:20 2001] ZONE: dreadlands is UP.
+[Tue May 08 20:54:20 2001] ZONE: trakanon is UP.
+[Tue May 08 20:54:20 2001] ZONE: cobaltscar is UP.
+[Tue May 08 20:54:20 2001] ZONE: emeraldjungle is UP.
+[Tue May 08 20:54:20 2001] ZONE: akanon is UP.
+[Tue May 08 20:54:20 2001] ZONE: burningwood is UP.
+[Tue May 08 20:54:20 2001] ZONE: karnor is UP.
+[Tue May 08 20:54:20 2001] ZONE: warrens is UP.
+[Tue May 08 20:54:20 2001] ZONE: qcat is UP.
+[Tue May 08 20:54:20 2001] ZONE: cauldron is UP.
+[Tue May 08 20:54:20 2001] ZONE: unrest is UP.
+[Tue May 08 20:54:20 2001] ZONE: crushbone is UP.
+[Tue May 08 20:54:20 2001] ZONE: misty is UP.
+[Tue May 08 20:54:20 2001] ZONE: steamfont is UP.
+[Tue May 08 20:54:20 2001] ZONE: kaladima is UP.
+[Tue May 08 20:54:20 2001] ZONE: befallen is UP.
+[Tue May 08 20:54:20 2001] ZONE: kithicor is UP.
+[Tue May 08 20:54:20 2001] ZONE: paw is UP.
+[Tue May 08 20:54:20 2001] ZONE: soltemple is UP.
+[Tue May 08 20:54:20 2001] ZONE: tox is UP.
+[Tue May 08 20:54:20 2001] ZONE: sro is UP.
+[Tue May 08 20:54:20 2001] ZONE: permafrost is UP.
+[Tue May 08 20:54:20 2001] ZONE: kaladimb is UP.
+[Tue May 08 20:54:20 2001] ZONE: felwithea is UP.
+[Tue May 08 20:54:20 2001] ZONE: erudnext is UP.
+[Tue May 08 20:54:20 2001] ZONE: fearplane is UP.
+[Tue May 08 20:54:20 2001] ZONE: kedge is UP.
+[Tue May 08 20:54:20 2001] ZONE: felwitheb is UP.
+[Tue May 08 20:54:20 2001] ZONE: guktop is UP.
+[Tue May 08 20:54:20 2001] ZONE: southkarana is UP.
+[Tue May 08 20:54:20 2001] ZONE: blackburrow is UP.
+[Tue May 08 20:54:20 2001] ZONE: rivervale is UP.
+[Tue May 08 20:54:20 2001] ZONE: rathemtn is UP.
+[Tue May 08 20:54:20 2001] ZONE: grobb is UP.
+[Tue May 08 20:54:20 2001] ZONE: neriakc is UP.
+[Tue May 08 20:54:20 2001] ZONE: qeytoqrg is UP.
+[Tue May 08 20:54:20 2001] ZONE: airplane is UP.
+[Tue May 08 20:54:20 2001] ZONE: neriakb is UP.
+[Tue May 08 20:54:20 2001] ZONE: gukbottom is UP.
+[Tue May 08 20:54:20 2001] ZONE: innothule is UP.
+[Tue May 08 20:54:20 2001] ZONE: neriaka is UP.
+[Tue May 08 20:54:20 2001] ZONE: arena is UP.
+[Tue May 08 20:54:21 2001] ZONE: lavastorm is UP.
+[Tue May 08 20:54:21 2001] ZONE: eastkarana is UP.
+[Tue May 08 20:54:21 2001] ZONE: nektulos is UP.
+[Tue May 08 20:54:21 2001] ZONE: mistmoore is UP.
+[Tue May 08 20:54:21 2001] ZONE: oasis is UP.
+[Tue May 08 20:54:21 2001] ZONE: soldungb is UP.
+[Tue May 08 20:54:21 2001] ZONE: nro is UP.
+[Tue May 08 20:54:21 2001] ZONE: hateplane is UP.
+[Tue May 08 20:54:21 2001] ZONE: freporte is UP.
+[Tue May 08 20:54:21 2001] ZONE: feerrott is UP.
+[Tue May 08 20:54:21 2001] ZONE: freportw is UP.
+[Tue May 08 20:54:21 2001] ZONE: erudsxing is UP.
+[Tue May 08 20:54:21 2001] ZONE: halas is UP.
+[Tue May 08 20:54:21 2001] ZONE: paineel is UP.
+[Tue May 08 20:54:21 2001] ZONE: erudnint is UP.
+[Tue May 08 20:54:21 2001] ZONE: butcher is UP.
+[Tue May 08 20:54:21 2001] ZONE: everfrost is UP.
+[Tue May 08 20:54:21 2001] ZONE: commons is UP.
+[Tue May 08 20:54:21 2001] ZONE: ecommons is UP.
+[Tue May 08 20:54:21 2001] ZONE: kerraridge is UP.
+[Tue May 08 20:54:21 2001] ZONE: freportn is UP.
+[Tue May 08 20:54:21 2001] ZONE: qey2hh1 is UP.
+[Tue May 08 20:54:21 2001] ZONE: beholder is UP.
+[Tue May 08 20:54:21 2001] ZONE: highpass is UP.
+[Tue May 08 20:54:21 2001] ZONE: qeynos2 is UP.
+[Tue May 08 20:54:21 2001] ZONE: qeynos is UP.
+[Tue May 08 20:54:21 2001] ZONE: runnyeye is UP.
+[Tue May 08 20:54:21 2001] ZONE: highkeep is UP.
+[Tue May 08 20:54:21 2001] ZONE: qrg is UP.
+[Tue May 08 20:54:21 2001] There are 114 zone servers up.
+[Tue May 08 20:54:22 2001] Eryndale GMSAYS, 'zoning to kael to see if i can get in'
+[Tue May 08 20:54:57 2001] Bakinleaf tells you, 'thanx.. I forgot to give the other shawl too..'
+[Tue May 08 20:55:09 2001] Eryndale GMSAYS, 'keal is down yall'
+[Tue May 08 20:55:18 2001] You told Bakinleaf, 'ah... have you tried giving it to him?'
+[Tue May 08 20:55:20 2001] Eryndale GMSAYS, 'i mean kael'
+[Tue May 08 20:55:21 2001] Narcomi GMSAYS, 'k.'
+[Tue May 08 20:55:24 2001] Bakinleaf tells you, 'but do U know if theres a bug in kael about turning in coldain heads?'
+[Tue May 08 20:55:33 2001] You told Bakinleaf, 'I don't know of any.'
+[Tue May 08 20:55:36 2001] Bakinleaf tells you, 'no.. I dont have it..'
+[Tue May 08 20:55:38 2001] Bruus GMSAYS, 'ok hopefully Ngoc finds a gm fast we gonna get loading in a few'
+[Tue May 08 20:55:47 2001] You GMSAY, 'yup...'
+[Tue May 08 20:55:55 2001] Nazbag GMSAYS, 'and darn it all, I ahve to log at 9'
+[Tue May 08 20:55:59 2001] Eryndale GMSAYS, 'i have the petition. there was a guild raid going on at the time'
+[Tue May 08 20:56:10 2001] You GMSAY, 'oh dear'
+[Tue May 08 20:56:14 2001] DELETING THIS PETITION
+[Tue May 08 20:56:15 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 20:56:16 2001] USER TEXT: help im in a room with no doors a wall says 716-882-32 please help
+[Tue May 08 20:56:16 2001] Players in EverQuest:
+[Tue May 08 20:56:16 2001] ---------------------------
+[Tue May 08 20:56:16 2001] [15 Wizard] Orren (Gnome) ZONE: warrens (USER PID AXKU6P7)
+[Tue May 08 20:56:16 2001] There is 1 player in EverQuest.
+[Tue May 08 20:56:21 2001] Bakinleaf tells you, 'I turned in 30 heads and got my storm giant faction up to amiabl but the storm giant didnt go up.. but said it went up..?'
+[Tue May 08 20:56:35 2001] You told Orren, 'Hail, Orren! Guide Espranza here. Are you still stuck?'
+[Tue May 08 20:56:56 2001] Bakinleaf tells you, 'opps.. I got my storm up.. but frost didnt go up..'
+[Tue May 08 20:56:59 2001] You told Bakinleaf, 'there are three giant factions... some are harder to raise than others...'
+[Tue May 08 20:56:59 2001] Orren tells you, 'im fine i realized i could gate out but it was wierd'
+[Tue May 08 20:57:15 2001] You told Orren, 'yeah, it's annoying when that happens. be well!'
+[Tue May 08 20:57:17 2001] DELETING THIS PETITION
+[Tue May 08 20:57:18 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 20:57:19 2001] USER TEXT: we were fighting in Keal and then the zone went down WHY? and can we all that died because of it be rezed
+[Tue May 08 20:57:19 2001] Players in EverQuest:
+[Tue May 08 20:57:19 2001] ---------------------------
+[Tue May 08 20:57:19 2001] [8 Monk] Wilim (Human) <Elder Spirits> ZONE: commons (USER PID ANN25KV)
+[Tue May 08 20:57:19 2001] There is 1 player in EverQuest.
+[Tue May 08 20:57:36 2001] Espranza saved.
+[Tue May 08 20:58:04 2001] Bakinleaf tells you, 'I asked afew friends.. and they said both storm and frost should have gone up together'
+[Tue May 08 20:58:04 2001] Orren tells you, 'i was in a room with no doors but im fine thanks be the gods of norrath praise karana and u lord'
+[Tue May 08 20:58:05 2001] You GMSAY, 'another Kael petition'
+[Tue May 08 20:58:06 2001] You told Wilim, 'Hail, Wilim! Guide Espranza here. We're getting a GM in to look at it. Anyone who died because of the zone going down will almost certainly be rezzed.'
+[Tue May 08 20:58:07 2001] Bakinleaf tells you, 'I asked afew friends.. and they said both storm and frost should have gone up together'
+[Tue May 08 20:58:13 2001] Bakinleaf tells you, 'im laggin.. sorry'
+[Tue May 08 20:58:21 2001] Orren tells you, 'thans for responding though'
+[Tue May 08 20:58:25 2001] Wilim tells you, 'why is the zone crashing?'
+[Tue May 08 20:58:44 2001] You told Bakinleaf, 'tis okay. hmmm... well, I'm not familiar with the quest in (err) in question...'
+[Tue May 08 20:58:46 2001] Narcomi GMSAYS, 'zoning'
+[Tue May 08 20:59:03 2001] Eryndale GMSAYS, 'i will take all the kael pets when it is back up'
+[Tue May 08 20:59:05 2001] You told Wilim, 'wish I knew. probably some software problem. how deep were you into the zone?'
+[Tue May 08 20:59:13 2001] Nazbag GMSAYS, 'ok guys, im goign to camp'
+[Tue May 08 20:59:20 2001] You GMSAY, 'okay, escalating Wilim for you, already talked to him though so you don't need to'
+[Tue May 08 20:59:25 2001] STATUS UPGRADED TO URGENT
+[Tue May 08 20:59:26 2001] CHECKING IN
+[Tue May 08 20:59:31 2001] Eryndale GMSAYS, 'okie dokie Nazbag. see you soon'
+[Tue May 08 20:59:33 2001] Bakinleaf tells you, 'K.. then I will keep tryin.. then I guess'
+[Tue May 08 20:59:35 2001] Bruus GMSAYS, 'see ya naz'
+[Tue May 08 20:59:37 2001] You GMSAY, 'Night, Naz!'
+[Tue May 08 20:59:38 2001] Nazbag GMSAYS, 'night everyone thanks for the input on the training'
+[Tue May 08 20:59:38 2001] Players in EverQuest:
+[Tue May 08 20:59:38 2001] ---------------------------
+[Tue May 08 20:59:38 2001] [ANON (255 Unknown)]  (Iksar) ZONE:  (USER PID AUG1Q2A)
+[Tue May 08 20:59:38 2001] [ANON (255 Unknown)]  (Iksar) ZONE:  (USER PID AWJCPDY)
+[Tue May 08 20:59:38 2001] * Guide *[50 Monk] Narcomi (Human) <Keepers of Morell Thule> ZONE: charasis (USER PID AUGBAB8)
+[Tue May 08 20:59:38 2001] * Guide *[50 Shaman] Ngoc (Ogre) <Keepers of Morell Thule> ZONE: freportn (USER PID AUGBDWQ)
+[Tue May 08 20:59:38 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: eastwastes (USER PID AUGBQH4)
+[Tue May 08 20:59:38 2001] * Guide *[50 Shadow Knight] Bruus (Troll) <Keepers of Morell Thule> ZONE: thurgadinb (USER PID AU7FMX4)
+[Tue May 08 20:59:38 2001] * Guide *[50 Shaman] Nazbag (Ogre) <Keepers of Morell Thule> ZONE: timorous (USER PID AUUV5HS)
+[Tue May 08 20:59:38 2001] * Guide *[50 Druid] Eryndale (Wood Elf) <Keepers of Morell Thule> ZONE: wakening (USER PID AUGB05J)
+[Tue May 08 20:59:38 2001] There are 8 players in EverQuest.
+[Tue May 08 20:59:40 2001] Eryndale GMSAYS, 'ok thanks'
+[Tue May 08 20:59:52 2001] Wilim tells you, 'we had a pull spot in the hall just past the mid point we were pulling from the tunnel that leads to the temple'
+[Tue May 08 20:59:56 2001] Bakinleaf tells you, 'do U know GD zone is down..?'
+[Tue May 08 21:00:09 2001] You told Bakinleaf, 'If you think there might be a bug in the quest, send email to eqtesting@station.sony.com, or use the /bug command.'
+[Tue May 08 21:00:17 2001] Bakinleaf tells you, 'k'
+[Tue May 08 21:00:17 2001] You told Bakinleaf, 'yup, working on it.'
+[Tue May 08 21:00:24 2001] Bakinleaf tells you, 'thnx..'
+[Tue May 08 21:00:35 2001] Ngoc GMSAYS, 'back'
+[Tue May 08 21:00:37 2001] You told Wilim, 'Pretty good! Well, we'll try to get you back as soon as we can.'
+[Tue May 08 21:00:42 2001] Players in EverQuest:
+[Tue May 08 21:00:42 2001] ---------------------------
+[Tue May 08 21:00:42 2001] [ANON (255 Unknown)]  (Iksar) ZONE:  (USER PID AN1BCPA)
+[Tue May 08 21:00:42 2001] * Guide *[50 Monk] Narcomi (Human) <Keepers of Morell Thule> ZONE: charasis (USER PID AUGBAB8)
+[Tue May 08 21:00:42 2001] * Guide *[50 Shaman] Ngoc (Ogre) <Keepers of Morell Thule> ZONE: freportn (USER PID AUGBDWQ)
+[Tue May 08 21:00:42 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: eastwastes (USER PID AUGBQH4)
+[Tue May 08 21:00:42 2001] * Guide *[50 Shadow Knight] Bruus (Troll) <Keepers of Morell Thule> ZONE: thurgadinb (USER PID AU7FMX4)
+[Tue May 08 21:00:42 2001] * Guide *[50 Shaman] Nazbag (Ogre) <Keepers of Morell Thule> ZONE: timorous (USER PID AUUV5HS)
+[Tue May 08 21:00:42 2001] * Guide *[50 Druid] Eryndale (Wood Elf) <Keepers of Morell Thule> ZONE: wakening (USER PID AUGB05J)
+[Tue May 08 21:00:42 2001] There are 7 players in EverQuest.
+[Tue May 08 21:00:43 2001] Eryndale GMSAYS, 'wb hun'
+[Tue May 08 21:00:50 2001] You GMSAY, 'hiya, Ngoc! What's the news'
+[Tue May 08 21:00:53 2001] Eryndale GMSAYS, 'yall just got a tell that gfay is down too'
+[Tue May 08 21:00:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 21:00:54 2001] USER TEXT: I can't log onto my main. Says Najena not available
+[Tue May 08 21:00:54 2001] Players in EverQuest:
+[Tue May 08 21:00:54 2001] ---------------------------
+[Tue May 08 21:00:54 2001] [34 Rogue] Pickk (Halfling) <Tolkien's Revenge> ZONE:  (USER PID AS7BCXB)
+[Tue May 08 21:00:54 2001] There is 1 player in EverQuest.
+[Tue May 08 21:01:08 2001] Ngoc GMSAYS, 'they are aware of the zones being down'
+[Tue May 08 21:01:09 2001] You GMSAY, 'maybe Najena as well - zoning to see'
+[Tue May 08 21:01:14 2001] Eryndale GMSAYS, 'do we know how many zones in all ?'
+[Tue May 08 21:01:14 2001] You GMSAY, 'zone'
+[Tue May 08 21:01:17 2001] Ngoc GMSAYS, 'they are working on it....no ETA'
+[Tue May 08 21:01:19 2001] ERROR: Couldn't get safe coords for najena, unable to zone.
+
+[Tue May 08 21:01:21 2001] Ngoc GMSAYS, 'nope'
+[Tue May 08 21:01:28 2001] You GMSAY, 'can't get to Najena either'
+[Tue May 08 21:01:29 2001] Bruus GMSAYS, 'uhhohh I smell a reset coming'
+[Tue May 08 21:01:29 2001] Narcomi GMSAYS, 'zoning'
+[Tue May 08 21:02:01 2001] Wilim tells you, 'too bad you can not bring back the corpses of the giants we killed so we know if they had any good loot'
+[Tue May 08 21:02:29 2001] You told Wilim, 'how many unlooted corpses did you have? (And no, they're probably gone forever)'
+[Tue May 08 21:02:36 2001] Players in EverQuest:
+[Tue May 08 21:02:36 2001] ---------------------------
+[Tue May 08 21:02:36 2001] There are no players in EverQuest that match those who filters.
+[Tue May 08 21:02:40 2001] STATUS UPGRADED TO URGENT
+[Tue May 08 21:02:48 2001] Eryndale GMSAYS, 'upgrading atns92a to yellow for me.'
+[Tue May 08 21:02:49 2001] You GMSAY, 'escalating Procure; Najena is down...'
+[Tue May 08 21:02:52 2001] CHECKING IN
+[Tue May 08 21:02:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 21:02:55 2001] USER TEXT: i was in kael fighting and something happened and cant get in the zone anymore
+[Tue May 08 21:02:55 2001] Players in EverQuest:
+[Tue May 08 21:02:55 2001] ---------------------------
+[Tue May 08 21:02:55 2001] [49 Warrior] Vigor (Barbarian) <Unbroken Power> ZONE: citymist (USER PID AYB7V34)
+[Tue May 08 21:02:55 2001] There is 1 player in EverQuest.
+[Tue May 08 21:03:14 2001] You feel as if you are about to fall.
+[Tue May 08 21:03:20 2001] You feel as if you are about to fall.
+[Tue May 08 21:03:27 2001] You can no longer levitate.
+[Tue May 08 21:03:29 2001] You told Vigor, 'Hail, Vigor! Guide Espranza here. Kael is down; we're working on it and will rez anyone who died because of it... I'll let you know when it comes back up.'
+[Tue May 08 21:03:31 2001] STATUS UPGRADED TO URGENT
+[Tue May 08 21:03:32 2001] CHECKING IN
+[Tue May 08 21:03:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 21:03:36 2001] USER TEXT: is the great divide not working?
+[Tue May 08 21:03:36 2001] Players in EverQuest:
+[Tue May 08 21:03:36 2001] ---------------------------
+[Tue May 08 21:03:36 2001] [10 Shaman] Shoalo (Barbarian) ZONE: qeynos2 (USER PID AN7XG68)
+[Tue May 08 21:03:36 2001] There is 1 player in EverQuest.
+[Tue May 08 21:03:36 2001] Eryndale GMSAYS, 'checking on gd. zone'
+[Tue May 08 21:03:44 2001] Wilim tells you, 'we had 1 green add and the 1 giant we had downed the other we had not finished killing'
+[Tue May 08 21:03:57 2001] Vigor tells you, 'thanks'
+[Tue May 08 21:04:00 2001] Ngoc GMSAYS, 'I think about 20 zones are down'
+[Tue May 08 21:04:04 2001] You told Shoalo, 'Hail, Shoalo! Guide Espranza here. Great Divide seems to be down... I'll let you know when it comes back up.'
+[Tue May 08 21:04:07 2001] STATUS UPGRADED TO URGENT
+[Tue May 08 21:04:15 2001] You GMSAY, 'escing Shoalo - GD zone'
+[Tue May 08 21:04:18 2001] CHECKING IN
+[Tue May 08 21:04:22 2001] Shoalo tells you, 'if you would thanks'
+[Tue May 08 21:04:24 2001] You told Vigor, 'anytime!'
+[Tue May 08 21:04:27 2001] Vigor tells you, '=p'
+[Tue May 08 21:04:27 2001] You told Shoalo, 'sure will!'
+[Tue May 08 21:04:31 2001] Wilim tells you, 'BTW this is a alt incase you are wondering'
+[Tue May 08 21:04:35 2001] Eryndale GMSAYS, 'yes, gd is down also'
+[Tue May 08 21:04:40 2001] You told Wilim, 'I guessed that )'
+[Tue May 08 21:04:57 2001] Ngoc GMSAYS, 'what is up with MT?'
+[Tue May 08 21:05:01 2001] Anyaria shouts, 'hi lokie  hi elfren'
+[Tue May 08 21:05:07 2001] Players in EverQuest:
+[Tue May 08 21:05:07 2001] ---------------------------
+[Tue May 08 21:05:07 2001] * Guide *[50 Monk] Narcomi (Human) <Keepers of Morell Thule> ZONE: timorous (USER PID AUGBAB8)
+[Tue May 08 21:05:07 2001] * Guide *[50 Shaman] Ngoc (Ogre) <Keepers of Morell Thule> ZONE: freportn (USER PID AUGBDWQ)
+[Tue May 08 21:05:07 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: eastwastes (USER PID AUGBQH4)
+[Tue May 08 21:05:07 2001] * Guide *[50 Shadow Knight] Bruus (Troll) <Keepers of Morell Thule> ZONE: thurgadinb (USER PID AU7FMX4)
+[Tue May 08 21:05:07 2001] * Guide *[50 Druid] Eryndale (Wood Elf) <Keepers of Morell Thule> ZONE: wakening (USER PID AUGB05J)
+[Tue May 08 21:05:07 2001] There are 5 players in EverQuest.
+[Tue May 08 21:05:09 2001] Ngoc GMSAYS, 'getting frustrating'
+[Tue May 08 21:05:17 2001] Wilim tells you, 'hehehe sorry i just always make sure =)'
+[Tue May 08 21:05:18 2001] You GMSAY, 'think of how the players feel'
+[Tue May 08 21:05:23 2001] Ngoc GMSAYS, 'players are really frustrated too'
+[Tue May 08 21:05:28 2001] Elfren shouts, 'Hello Anyaria and Lokmir'
+[Tue May 08 21:05:30 2001] You GMSAY, 'they have to live here )'
+[Tue May 08 21:05:39 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 21:05:40 2001] USER TEXT: you seriously need to look into drop rates for shaman armor :( 4 plane of growth raids and not a single shaman piece, all other clases have had at least 3 drops in same time
+[Tue May 08 21:05:40 2001] Players in EverQuest:
+[Tue May 08 21:05:40 2001] ---------------------------
+[Tue May 08 21:05:40 2001] [56 Luminary] Jraik (Iksar) <Triune> ZONE: skyshrine (USER PID AVW6YME)
+[Tue May 08 21:05:40 2001] There is 1 player in EverQuest.
+[Tue May 08 21:05:41 2001] Wilim tells you, 'you ever raided Keal?'
+[Tue May 08 21:05:45 2001] You told Wilim, 'yup'
+[Tue May 08 21:05:45 2001] Lokmir shouts, 'hello Elfren and Anyaria'
+[Tue May 08 21:05:51 2001] You told Wilim, 'not so deep though'
+[Tue May 08 21:06:02 2001] USER TEXT: you seriously need to look into drop rates for shaman armor :( 4 plane of growth raids and not a single shaman piece, all other clases have had at least 3 drops in same time
+[Tue May 08 21:06:20 2001] Wilim tells you, 'well we are trying to get some of the silk and stuff we took a look at the arena area last night'
+[Tue May 08 21:06:43 2001] Wilim tells you, 'in a way seems easier to get into than the temple area'
+[Tue May 08 21:07:08 2001] You told Jraik, 'Hail, Jraik! Guide Espranza here. I don't have any control over the drop rate; you can use the /feedback command to ask Verant to look at the armor drop rates if you like... feedbacks are read every day.'
+[Tue May 08 21:07:08 2001] Narcomi GMSAYS, 'najena is down too'
+[Tue May 08 21:07:12 2001] You GMSAY, 'yup'
+[Tue May 08 21:07:39 2001] You told Wilim, 'Well, the arena is the favorite place... temple area has some really nasty giants though.'
+[Tue May 08 21:07:46 2001] Espranza saved.
+[Tue May 08 21:07:50 2001] Ngoc GMSAYS, 'doh....gfay is down'
+[Tue May 08 21:08:03 2001] You GMSAY, 'too bad we can't broadcast...'
+[Tue May 08 21:08:08 2001] Jraik tells you, 'hehe and never responded too :( its just sooooo unfair, i have spent days of my life, seen friends get full suits of poG armor and havent even seen a single drop for my class, and since im Iksar i cant use Kunark armor so im just sol'
+[Tue May 08 21:08:12 2001] Narcomi GMSAYS, 'hmm i have a feeling im going to get disconnected...  boat zones are usually not far behind'
+[Tue May 08 21:08:15 2001] Wilim tells you, 'our problem with the arena is the raid puller has not yet figured out how to pull the arena right'
+[Tue May 08 21:08:22 2001] Jraik tells you, 'thanks for the response , ill try /feedback'
+[Tue May 08 21:08:23 2001] Ngoc GMSAYS, 'hehe...guess not'
+[Tue May 08 21:08:24 2001] Narcomi GMSAYS, 'zoning to CSHOME for safety'
+[Tue May 08 21:08:26 2001] Ngoc GMSAYS, 'gfay is up'
+[Tue May 08 21:08:28 2001] You told Jraik, 'At least you get all the nice stuff in Hate...'
+[Tue May 08 21:08:42 2001] You told Jraik, 'anytime! be well!'
+[Tue May 08 21:09:04 2001] You told Wilim, 'I would have thought the Arena pull was the most documented one... but they're all really nasty.'
+[Tue May 08 21:09:28 2001] Wilim tells you, 'you know of any sites that list how to pull the arena'
+[Tue May 08 21:09:31 2001] DELETING THIS PETITION
+[Tue May 08 21:09:50 2001] Ngoc GMSAYS, 'when a zone goes down, do they send the player back to their bind spot?'
+[Tue May 08 21:09:54 2001] Narcomi GMSAYS, 'no'
+[Tue May 08 21:09:55 2001] Tarudor shouts, 'LVL 40 Tank Lookin Fer A Group!'
+[Tue May 08 21:09:58 2001] You told Wilim, 'Not offhand... couldn't say if I did. Rogues aren't very good at pulling...'
+[Tue May 08 21:10:02 2001] Narcomi GMSAYS, 'disconnects them'
+[Tue May 08 21:10:05 2001] Ngoc GMSAYS, 'interesting'
+[Tue May 08 21:10:07 2001] You GMSAY, 'they get disconnected and they can't log in'
+[Tue May 08 21:10:16 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 21:10:16 2001] USER TEXT: I have a question about an account my friend has....
+[Tue May 08 21:10:17 2001] Players in EverQuest:
+[Tue May 08 21:10:17 2001] ---------------------------
+[Tue May 08 21:10:17 2001] [15 Warrior] Qualda (Iksar) <The Scaled Brotherhood> ZONE: fieldofbone (USER PID AV1CB31)
+[Tue May 08 21:10:17 2001] There is 1 player in EverQuest.
+[Tue May 08 21:10:21 2001] Ngoc GMSAYS, 'got one that said they are back at their bind spot'
+[Tue May 08 21:10:28 2001] Ngoc GMSAYS, 'Zoning'
+[Tue May 08 21:10:35 2001] You told Qualda, 'Hail, Qualda! Guide Espranza here. How may I help you?'
+[Tue May 08 21:10:55 2001] You feel the spirit of Norrath enter you.
+[Tue May 08 21:10:56 2001] Your feet leave the ground.
+[Tue May 08 21:11:01 2001] Wilim tells you, 'ahh but you could tell me a site you are just forbidden to give me direct info on  how to pull it =P'
+[Tue May 08 21:11:25 2001] Wilim tells you, 'hehehehe that is if you knew a site'
+[Tue May 08 21:11:27 2001] Qualda tells you, 'I was wondering....a friend of mine is going to want to trade his everquest charactor for my diablo 2 charactor....is there a way to move his charactor onto my account?'
+[Tue May 08 21:11:32 2001] Tarudor says out of character, 'anyone know whats up with GD zone?'
+[Tue May 08 21:11:33 2001] Eryndale GMSAYS, 'zoning'
+[Tue May 08 21:11:46 2001] Suzzi says out of character, 'it's down tar.'
+[Tue May 08 21:11:50 2001] Tiffani says out of character, 'Zones have been crashing all over'
+[Tue May 08 21:11:54 2001] Bordael GMSAYS, 'hi all! Lead GM Bordael here'
+[Tue May 08 21:12:03 2001] Bordael GMSAYS, 'there were a number of zones down not too long ago, all are back up'
+[Tue May 08 21:12:04 2001] Issuldur says out of character, 'Kael just went back up'
+[Tue May 08 21:12:08 2001] You told Wilim, 'well... I think it's better if you figure it out yourself anyway... my guild is slowly learning our way through some tough zones and learning how is a lot of fun (even though we die a lot)'
+[Tue May 08 21:12:14 2001] Players in EverQuest:
+[Tue May 08 21:12:14 2001] ---------------------------
+[Tue May 08 21:12:14 2001] * Guide *[50 Druid] Eryndale (Wood Elf) <Keepers of Morell Thule> ZONE: kael (USER PID AUGB05J)
+[Tue May 08 21:12:14 2001] * Guide *[50 Shaman] Ngoc (Ogre) <Keepers of Morell Thule> ZONE: soldunga (USER PID AUGBDWQ)
+[Tue May 08 21:12:14 2001] * GM-Lead Admin *[60 High Priest] Bordael (Gnome) ZONE: hole (USER PID AVT1N7B)
+[Tue May 08 21:12:14 2001] * Guide *[50 Monk] Narcomi (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBAB8)
+[Tue May 08 21:12:14 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: eastwastes (USER PID AUGBQH4)
+[Tue May 08 21:12:14 2001] * Guide *[50 Shadow Knight] Bruus (Troll) <Keepers of Morell Thule> ZONE: thurgadinb (USER PID AU7FMX4)
+[Tue May 08 21:12:14 2001] There are 6 players in EverQuest.
+[Tue May 08 21:12:17 2001] Bordael GMSAYS, 'I wanted to let you know about it, as resses are authorized in those zones for any deaths from the outage'
+[Tue May 08 21:12:17 2001] Ngoc GMSAYS, 'hehe....cool'
+[Tue May 08 21:12:22 2001] Bordael GMSAYS, 'zones included:'
+[Tue May 08 21:12:24 2001] You GMSAY, 'wonderful!'
+[Tue May 08 21:12:34 2001] You GMSAY, 'which zones were they?'
+[Tue May 08 21:12:39 2001] Bordael GMSAYS, 'west wastes, great divide, gfaydar, kael, dragons necropolis, najena and sol a'
+[Tue May 08 21:12:48 2001] Eryndale GMSAYS, 'kael is up, i am rezing'
+[Tue May 08 21:12:52 2001] Bordael GMSAYS, 'ok'
+[Tue May 08 21:12:59 2001] Bruus GMSAYS, 'thanks Bordael!'
+[Tue May 08 21:13:05 2001] Bordael GMSAYS, 'also res anyone who tried to zone in to escape a monster'
+[Tue May 08 21:13:18 2001] Bordael GMSAYS, 'and died, like someone in wakening running to the kael zone, etc.'
+[Tue May 08 21:13:18 2001] Players in EverQuest:
+[Tue May 08 21:13:18 2001] ---------------------------
+[Tue May 08 21:13:18 2001] There are no players in EverQuest that match those who filters.
+[Tue May 08 21:13:31 2001] Wilim tells you, 'yes i know just wish i could get a invicble ring and figure it out instead of loading please wait well that didn't work then try again LOADING PLEASE WAIT..... that didn't work ether'
+[Tue May 08 21:13:31 2001] Jyssa shouts, 'train to zone look out'
+[Tue May 08 21:14:05 2001] Bordael GMSAYS, 'thanks for holdin down the fort!'
+[Tue May 08 21:14:14 2001] You told Wilim, 'become friends with a cleric with his or her epic!'
+[Tue May 08 21:14:15 2001] Bordael GMSAYS, 'I gots ta scoot, paper work is a waitin =P'
+[Tue May 08 21:14:17 2001] Bordael GMSAYS, '/wave'
+[Tue May 08 21:14:19 2001] Bordael GMSAYS, '<poofs>'
+[Tue May 08 21:14:20 2001] Bruus GMSAYS, 'hehe'
+[Tue May 08 21:14:26 2001] You told Qualda, 'Sorry, we cannot move characters among accounts...'
+[Tue May 08 21:14:34 2001] Tarudor shouts, 'LVL 40 Tank Lookin Fer A Group!'
+[Tue May 08 21:14:35 2001] Qualda tells you, 'ok...thank you'
+[Tue May 08 21:14:43 2001] Wilim tells you, 'hehehe that means get to know a RA or thunderwalker cleric'
+[Tue May 08 21:14:43 2001] You told Qualda, 'you're welcome! be well!'
+[Tue May 08 21:14:47 2001] Qualda tells you, 'you too'
+[Tue May 08 21:14:54 2001] Wilim tells you, 'or RJ'
+[Tue May 08 21:15:12 2001] Ngoc GMSAYS, 'how coe we don't have shrink anymore?'
+[Tue May 08 21:15:18 2001] Narcomi GMSAYS, 'ant legs'
+[Tue May 08 21:15:22 2001] Ngoc GMSAYS, 'no more'
+[Tue May 08 21:15:24 2001] Narcomi GMSAYS, 'on your collar, target yourself'
+[Tue May 08 21:15:24 2001] Bruus GMSAYS, 'we's got better now'
+[Tue May 08 21:15:27 2001] You told Wilim, 'well... if you need to, you need to...'
+[Tue May 08 21:15:30 2001] Narcomi GMSAYS, 'oh'
+[Tue May 08 21:15:35 2001] Ngoc GMSAYS, 'check your collar'
+[Tue May 08 21:15:39 2001] Ngoc GMSAYS, 'no effect anymore'
+[Tue May 08 21:15:46 2001] You GMSAY, 'they removed it'
+[Tue May 08 21:15:48 2001] Narcomi GMSAYS, 'oh i know'
+[Tue May 08 21:15:55 2001] Narcomi GMSAYS, 'because we could shrink anyone'
+[Tue May 08 21:16:02 2001] You GMSAY, 'just use your gnome stone'
+[Tue May 08 21:16:03 2001] Narcomi GMSAYS, 'they are fixing it to be self only'
+[Tue May 08 21:16:07 2001] Ngoc GMSAYS, 'yeah...but where is our replacement?'
+[Tue May 08 21:16:09 2001] Narcomi GMSAYS, 'zoning'
+[Tue May 08 21:16:19 2001] Ngoc GMSAYS, 'gnome stone on ogres still makes us big'
+[Tue May 08 21:16:22 2001] DELETING THIS PETITION
+[Tue May 08 21:16:23 2001] Bruus GMSAYS, 'ya gotta turn in to a wretched gnoom'
+[Tue May 08 21:16:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 21:16:26 2001] USER TEXT: i died due to zone crash i need a rez plz
+[Tue May 08 21:16:27 2001] Players in EverQuest:
+[Tue May 08 21:16:27 2001] ---------------------------
+[Tue May 08 21:16:27 2001] [44 Warrior] Hanoken (Dwarf) <Unbroken Power> ZONE: kael (USER PID AYE80DB)
+[Tue May 08 21:16:27 2001] There is 1 player in EverQuest.
+[Tue May 08 21:16:32 2001] STATUS UPGRADED TO URGENT
+[Tue May 08 21:16:35 2001] CHECKING IN
+[Tue May 08 21:16:40 2001] Tarudor shouts, 'LVL 40 Tank Lookin Fer A Group!'
+[Tue May 08 21:16:41 2001] You GMSAY, 'escing another for you Eryn'
+[Tue May 08 21:16:42 2001] Wilim tells you, 'hehehe  i know  if i am bothering you you can tell me that you have to get back to work but  it is fun talking to guides from time to time'
+[Tue May 08 21:16:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 21:16:44 2001] USER TEXT: i need help
+[Tue May 08 21:16:45 2001] Players in EverQuest:
+[Tue May 08 21:16:45 2001] ---------------------------
+[Tue May 08 21:16:45 2001] [18 Monk] Keming (Human) ZONE: ecommons (USER PID AY9QDTX)
+[Tue May 08 21:16:45 2001] There is 1 player in EverQuest.
+[Tue May 08 21:16:57 2001] You told Wilim, 'I'm still working... I can multitask...! I like chatting.'
+[Tue May 08 21:17:00 2001] Sdace shouts, 'Level 32 Shaman LFG too'
+[Tue May 08 21:17:15 2001] You told Keming, 'Hail, Keming! Guide Espranza here. How may I help you?'
+[Tue May 08 21:17:31 2001] Eryndale GMSAYS, 'crap, i rez's them and someone pulled Watchman vedravik and anothre giant onto them'
+[Tue May 08 21:17:31 2001] Keming tells you, 'okay here is the deal, a friend and i were making a trade'
+[Tue May 08 21:17:36 2001] Tiffani says out of character, 'Maybe starting another orc group. 43rd SK and 39 wizz so far'
+[Tue May 08 21:17:38 2001] You GMSAY, 'mem blur '
+[Tue May 08 21:17:43 2001] You GMSAY, 'just keep blurring'
+[Tue May 08 21:17:45 2001] Ngoc GMSAYS, 'ouch'
+[Tue May 08 21:17:50 2001] Keming tells you, 'things went way wrong when a guard step in front of us'
+[Tue May 08 21:17:53 2001] Ngoc GMSAYS, 'Firespinner ok for a surname?'
+[Tue May 08 21:17:56 2001] You GMSAY, 'sure'
+[Tue May 08 21:17:56 2001] Espranza saved.
+[Tue May 08 21:18:10 2001] Keming tells you, 'he clicked GIVE and now the guard has all my stuff'
+[Tue May 08 21:18:12 2001] Ngoc GMSAYS, 'that's what I thought....filter doesn't accept it'
+[Tue May 08 21:18:18 2001] Wilim tells you, 'hehehe me too  but i had a question  is your server as laggy and as pron to go down as MT is?'
+[Tue May 08 21:18:18 2001] You told Keming, 'Oh yuk...'
+[Tue May 08 21:18:26 2001] You told Wilim, 'no, MT is special.'
+[Tue May 08 21:18:29 2001] Keming tells you, 'can you do anything'
+[Tue May 08 21:18:34 2001] Wilim tells you, 'HAHAHAHA'
+[Tue May 08 21:18:47 2001] You told Keming, 'you could kill the guard, he should have your stuff'
+[Tue May 08 21:18:55 2001] Bruus GMSAYS, 'seems the name filter cares not for two part names I had a similar pet a few minutes ago.'
+[Tue May 08 21:19:04 2001] Keming tells you, 'you sure'
+[Tue May 08 21:19:22 2001] Ngoc GMSAYS, 'Zoning'
+[Tue May 08 21:19:23 2001] Keming tells you, 'i dont think i can'
+[Tue May 08 21:19:38 2001] You told Keming, 'they usually do. Otherwise, you'll have to petition Thursday when Lirus (our GM) is on, with a list of the things lost.'
+[Tue May 08 21:19:56 2001] Keming tells you, 'can you help me kill him?'
+[Tue May 08 21:19:57 2001] Wilim tells you, 'now that fits there'
+[Tue May 08 21:20:14 2001] You told Keming, 'If I kill him, there will be no corpse...'
+[Tue May 08 21:20:18 2001] You told Keming, '?'
+[Tue May 08 21:20:32 2001] Keming tells you, 'okay well what level are they'
+[Tue May 08 21:20:40 2001] You told Keming, 'I don't know - is it a gate guard?'
+[Tue May 08 21:20:43 2001] Wilim tells you, 'well i get to try to log in and  get told i am dead'
+[Tue May 08 21:20:51 2001] Keming tells you, 'guard Reskin'
+[Tue May 08 21:20:59 2001] You told Wilim, 'A guide is there rezzing'
+[Tue May 08 21:21:06 2001] Wilim tells you, 'cool thanks'
+[Tue May 08 21:21:14 2001] You told Keming, 'Is he red to you?'
+[Tue May 08 21:21:26 2001] Keming tells you, 'yes'
+[Tue May 08 21:21:46 2001] You told Keming, 'you could ask someone in the zone (who you trust, I hope) to come kill him for you.'
+[Tue May 08 21:21:48 2001] Keming tells you, 'but i have a group of four'
+[Tue May 08 21:21:55 2001] Jyssa shouts, 'train to zone look out'
+[Tue May 08 21:21:57 2001] You GMSAY, 'zone'
+[Tue May 08 21:22:01 2001] You told Keming, 'sec - zoning'
+[Tue May 08 21:22:03 2001] Teleporting to keming.
+[Tue May 08 21:22:04 2001] LOADING, PLEASE WAIT...
+[Tue May 08 21:22:30 2001] Nothanks auctions, 'WTS good magic 1HB 10dmg 34 delay 100pp'
+[Tue May 08 21:22:30 2001] Bloodcloud auctions, 'Paying 20pp for Words of Suffering'
+[Tue May 08 21:22:32 2001] You have entered East Commonlands.
+[Tue May 08 21:22:33 2001] Wsaber begins to cast a spell. (Summon Drink)
+[Tue May 08 21:22:35 2001] Juicebox auctions, 'Stiletto Bloodclaw, MAGIC PIERCE, 6/23, Proc: Blodclaw'
+[Tue May 08 21:22:37 2001] Kaycee auctions, 'WTS words of discernment'
+[Tue May 08 21:22:39 2001] Narcomi GMSAYS, 'talk about being on the ball.'
+[Tue May 08 21:22:40 2001] Tweila auctions, 'WTB a Savant's Cap'
+[Tue May 08 21:22:42 2001] Ngoc GMSAYS, 'hehe'
+[Tue May 08 21:22:44 2001] Xaviermaximus auctions, 'WTS Spilt Paw Belt 5AC +5vs Poison'
+[Tue May 08 21:22:45 2001] Guard Reskin regards you indifferently -- You could probably win this fight.
+[Tue May 08 21:22:45 2001] Eryndale GMSAYS, 'yes, i think so'
+[Tue May 08 21:22:45 2001] Tharkis auctions, 'WTS Runed Circlet +4 wis int 4AC, Woe and Envy set (cheap), Crystal Fiber, Ebon Razor, Scorched Pauldron.  Send tell for stats and prices.  Selling cheap'
+[Tue May 08 21:22:46 2001] Xaviermaximus auctions, 'WTS Split Paw Tunic 9AC +10vspoison 15pp'
+[Tue May 08 21:22:46 2001] Juicebox auctions, 'WTB Ravenscale armour, legs or arms... pls send tells'
+[Tue May 08 21:22:47 2001] Kaser says 'Following Master.'
+[Tue May 08 21:22:48 2001] Narcomi GMSAYS, 'should have them all handled'
+[Tue May 08 21:22:48 2001] Xaviermaximus auctions, 'WTS neck item 5ac 4str small races only'
+[Tue May 08 21:22:48 2001] Ngoc GMSAYS, 'ok'
+[Tue May 08 21:22:48 2001] Guard Reskin says 'That's it, swine!  You're outta here! 
+[Tue May 08 21:22:49 2001] a spiderling has been slain by Guard Reskin!
+[Tue May 08 21:22:52 2001] Keming says, 'Hail Espranza'
+[Tue May 08 21:22:54 2001] DELETING THIS PETITION
+[Tue May 08 21:22:54 2001] Enodriew auctions, 'Selling Obisidian shard, foreman's tunic, send tells'
+[Tue May 08 21:22:55 2001] Sarenak auctions, 'WTS Drakkel Forged Hammer, 2HB, 22dmg, 50dly - 150pp'
+[Tue May 08 21:22:57 2001] Ngoc GMSAYS, 'cool...I'm out of htis zone'
+[Tue May 08 21:22:57 2001] You say, 'Hi!'
+[Tue May 08 21:23:01 2001] Diona auctions, 'WTS Ykesha war club-2k springwood club-2k sentry gauntlets 4k'
+[Tue May 08 21:23:03 2001] You say, 'I can't help you kill him.'
+[Tue May 08 21:23:07 2001] Nekemasa auctions, 'WTS robe of the elements, 9 AC 4 INT 5 SV cold and fire, magician only, 400pp'
+[Tue May 08 21:23:13 2001] You feel the spirit of Norrath enter you.
+[Tue May 08 21:23:14 2001] Your feet leave the ground.
+[Tue May 08 21:23:16 2001] Lash auctions, 'WTTF Crystal Covered Shroud, Fighting Batons, and Wolf Hide Slippers or 2 Dwarven Saps'
+[Tue May 08 21:23:16 2001] Guard Reskin says 'That's it, swine!  You're outta here! 
+[Tue May 08 21:23:24 2001] Huyngung shouts, 'PC warm '
+[Tue May 08 21:23:25 2001] Laquarius auctions, 'WTS 2 Giant treeflayer 10 dmg 41 dly magic 30pp'
+[Tue May 08 21:23:28 2001] Niguran auctions, 'WTS int8 str8 Neck '
+[Tue May 08 21:23:28 2001] Aphotic auctions, 'WTS Mace of the shadowed soul 19 29 10int SK only'
+[Tue May 08 21:23:30 2001] Borthif auctions, 'WTS 2h practice sword,,,,  ye auld ball hammer,,,, sarnak claws send tells pls'
+[Tue May 08 21:23:30 2001] Nekemasa auctions, 'WTS ulthork collar, uber monk collar, 7 AC 30 HP, 800pp'
+[Tue May 08 21:23:33 2001] Keming shouts, 'paying 20plat for someone to kill guard Reskin'
+[Tue May 08 21:23:36 2001] Yobittyx tells you, 'can a gm give consent?'
+[Tue May 08 21:23:36 2001] Enodriew auctions, 'Selling Obisidian shard, foreman's tunic, send tells'
+[Tue May 08 21:23:38 2001] Dunncan begins to cast a spell. (Minor Healing)
+[Tue May 08 21:23:38 2001] Players on EverQuest:
+[Tue May 08 21:23:38 2001] ---------------------------
+[Tue May 08 21:23:38 2001] [18 Monk] Keming (Human)
+[Tue May 08 21:23:38 2001] There is 1 player in East Commonlands.
+[Tue May 08 21:23:44 2001] Samoiel begins to cast a spell. (Skin like Steel)
+[Tue May 08 21:23:48 2001] You told Yobittyx, 'for?'
+[Tue May 08 21:23:48 2001] Keming tells you, 'well see if anyone is interested'
+[Tue May 08 21:23:50 2001] Ngoc GMSAYS, 'Zoning'
+[Tue May 08 21:23:51 2001] Ilenea auctions, '<Selling> +3 wis earrings, +3 Str Earrings, +4 Int Necklaces, and +5 Agi Rings send tells name is spelled ilenea'
+[Tue May 08 21:23:52 2001] Borthif auctions, 'WTS 2h practice sword,,,,  ye auld ball hammer,,,, sarnak claws send tells pls'
+[Tue May 08 21:23:52 2001] Samoiel begins to cast a spell. (Spirit of Wolf)
+[Tue May 08 21:23:54 2001] Niguran auctions, 'WTS int8 str8 Slot : Neck'
+[Tue May 08 21:23:56 2001] Yobittyx tells you, 'draging a body'
+[Tue May 08 21:24:00 2001] Niguran auctions, 'WTB Silver Plate Leggings and Ranger Good Boots )'
+[Tue May 08 21:24:06 2001] Caleryn auctions, 'WTS Mithril Staff Magic 2HB 28 dmg 45 dly Warrior only'
+[Tue May 08 21:24:07 2001] Samoiel begins to cast a spell. (Skin like Steel)
+[Tue May 08 21:24:07 2001] Nothanks auctions, 'WTS good magic 1HB 10dmg 34 delay 100pp'
+[Tue May 08 21:24:08 2001] Guard Reskin says 'That's it, swine!  You're outta here! 
+[Tue May 08 21:24:12 2001] You told Yobittyx, 'I cannot help with corpse retrieval, I'm sorry'
+[Tue May 08 21:24:34 2001] You told Keming, 'If you do get someone to help, and Reskin does have your stuff, that person will be able to loot - so make sure you can trust them.'
+[Tue May 08 21:24:35 2001] a black wolf has been slain by Jedipimp!
+[Tue May 08 21:24:38 2001] Ilenea auctions, '<Selling> +3 wis earrings, +3 Str Earrings, +4 Int Necklaces, and +5 Agi Rings send tells name is spelled ilenea'
+[Tue May 08 21:24:38 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 21:24:39 2001] Players in EverQuest:
+[Tue May 08 21:24:39 2001] ---------------------------
+[Tue May 08 21:24:39 2001] [50 Warrior] Vigor (Barbarian) <Unbroken Power> ZONE: kael (USER PID AYB7V34)
+[Tue May 08 21:24:39 2001] There is 1 player in EverQuest.
+[Tue May 08 21:24:42 2001] Tharkis auctions, 'WTS Runed Circlet +4 wis int 4AC, Woe and Envy set (cheap), Crystal Fiber, Ebon Razor, Scorched Pauldron.  Send tell for stats and prices.  Selling cheap'
+[Tue May 08 21:24:43 2001] Labien auctions, 'WTS Essence of Dol 1hb 10dmg 28dly weight .1 Great monk item only 600pp!'
+[Tue May 08 21:24:44 2001] Yobittyx tells you, 'i think she fell asleep hehe'
+[Tue May 08 21:24:46 2001] Nothanks auctions, 'WTS charred boots looks nice black plate boots'
+[Tue May 08 21:24:47 2001] Vallos auctions, 'WTT WTB Bloodpoint, or Lamentation'
+[Tue May 08 21:24:48 2001] Keming tells you, 'i told him i get the loot'
+[Tue May 08 21:24:54 2001] Kikomon auctions, 'WTS/WTT Rokyls Channelling Crystal 10ac 50hp 50mana (secondary/int casters only)'
+[Tue May 08 21:24:55 2001] Labien says out of character, 'Looking for a Smith that can do Fine Plate armors...'
+[Tue May 08 21:24:56 2001] Caleryn auctions, 'WTS Mithril Staff Magic 2HB 28 dmg 45 dly Warrior only'
+[Tue May 08 21:24:59 2001] Kikomon auctions, 'WTS Ulthork tusk | Ulthork bracers | kodiak claws'
+[Tue May 08 21:25:06 2001] Niguran auctions, 'WTS PD todem hp30 mana50 )'
+[Tue May 08 21:25:07 2001] Saeladil auctions, 'WTS Orb of TIshan (nice for Int Casters/Bards), Singing Steel Gaunts, Arms, (bard only), Lizardscale Cloak, Velium Diamond Wedding Rings +8 all saves (nice for raids)'
+[Tue May 08 21:25:11 2001] You told Keming, 'do you trust him?'
+[Tue May 08 21:25:13 2001] Niguran auctions, 'WTB Silver Plate Leggings and Ranger Good Boots )'
+[Tue May 08 21:25:17 2001] Xebariz auctions, 'WTS Bloodstained Fang 9/32, 75pp'
+[Tue May 08 21:25:17 2001] Niguran auctions, 'WTS int8 str8 Slot : Neck'
+[Tue May 08 21:25:18 2001] Keming tells you, 'i gues'
+[Tue May 08 21:25:21 2001] Chevrick shouts, 'what good is a kodiak claw??'
+[Tue May 08 21:25:24 2001] Narcomi GMSAYS, 'zoning'
+[Tue May 08 21:25:24 2001] Nothanks auctions, 'WTS charred boots looks nice black plate boots ac 6 agi3 sv F P 5 Magic '
+[Tue May 08 21:25:24 2001] Guard Reskin says 'That's it, swine!  You're outta here! 
+[Tue May 08 21:25:25 2001] a fire beetle has been slain by Guard Reskin!
+[Tue May 08 21:25:27 2001] Velsaron auctions, 'WTT Velium War hammer for Velium Staff or another good staff a wizard can use send tells please..'
+[Tue May 08 21:25:29 2001] Keming tells you, 'its not that freat of stuff'
+[Tue May 08 21:25:32 2001] Keming says, 'Hail Kaycee'
+[Tue May 08 21:25:33 2001] Klye auctions, 'WTB SoS, IFS or tranquil staff'
+[Tue May 08 21:25:35 2001] Sirvix shouts, 'PC on mith legs plz'
+[Tue May 08 21:25:42 2001] Samoht auctions, '<BUYING> Sebilite Scale Boots or Sentry Boots'
+[Tue May 08 21:25:42 2001] Nothanks auctions, 'WTS charred boots looks nice black plate boots ac 6 agi3 sv F P 5 Magic 150pp'
+[Tue May 08 21:25:45 2001] Ilenea auctions, '<Selling> +3 wis earrings, +3 Str Earrings, +4 Int Necklaces, and +5 Agi Rings send tells name is spelled ilenea'
+[Tue May 08 21:25:50 2001] You GMSAY, 'I think my petition que is broke...'
+[Tue May 08 21:25:53 2001] Caleryn auctions, 'WTS Mithril Staff Magic 2HB 28 dmg 45 dly Warrior only'
+[Tue May 08 21:25:54 2001] Tharkis auctions, 'WTS Runed Circlet +4 wis int 4AC, Woe and Envy set (cheap), Crystal Fiber, Ebon Razor, Scorched Pauldron.  Send tell for stats and prices.  Selling cheap'
+[Tue May 08 21:25:58 2001] Keming says, 'take that bitch down'
+[Tue May 08 21:25:59 2001] Mucmuc auctions, 'WTB necro word SUFFERING'
+[Tue May 08 21:26:03 2001] Vallos auctions, 'WTS Froglok bonecasters robe 17k'
+[Tue May 08 21:26:05 2001] Saeladil auctions, 'WTS Orb of TIshan (nice for Int Casters/Bards), Singing Steel Gaunts, Arms, (bard only), Lizardscale Cloak, Velium Diamond Wedding Rings +8 all saves (nice for raids)'
+[Tue May 08 21:26:05 2001] Gnimm auctions, 'WTS Ulthork Hide Arms AC8 Dex - 3 Wis3'
+[Tue May 08 21:26:06 2001] Vallos auctions, 'WTS golden Chitten Bracer 5ac 5agi 5int 4k'
+[Tue May 08 21:26:09 2001] Aphotic auctions, 'WTS Mace of the shadowed soul 19 29 10int SK only'
+[Tue May 08 21:26:10 2001] Vallos auctions, 'WTS Adamantite Epaulets 9ac 7wis'
+[Tue May 08 21:26:13 2001] Ilenea auctions, '<Selling> +3 wis earrings, +3 Str Earrings, +4 Int Necklaces, and +5 Agi Rings send tells name is spelled ilenea'
+[Tue May 08 21:26:16 2001] Juicebox auctions, 'Rusty Spiked Shoulderpads, AC3,Str+5, -10 SVmagic,15pp'
+[Tue May 08 21:26:21 2001] Ngoc GMSAYS, 'mine too...nothing on it'
+[Tue May 08 21:26:24 2001] Lash auctions, 'WTTF Crystal Covered Shroud, Fighting Batons, and Wolf Hide Slippers or 2 Dwarven Saps'
+[Tue May 08 21:26:28 2001] Enodriew auctions, 'Selling Obisidian shard, foreman's tunic, send tells'
+[Tue May 08 21:26:35 2001] Kaycee begins to cast a spell. (Center)
+[Tue May 08 21:26:36 2001] You GMSAY, 'there is a pet from Vigor I had pulled and then it went away...'
+[Tue May 08 21:26:38 2001] Niguran auctions, 'WTB Silver Plate Leggings and Ranger Good Boots )'
+[Tue May 08 21:26:41 2001] Evilhoot auctions, 'WTT for WIS'
+[Tue May 08 21:26:43 2001] Kaycee begins to cast a spell. (Spirit Armor)
+[Tue May 08 21:26:49 2001] Saeladil auctions, 'WTB Wu Stick, Knuckle DUster, FBSS'
+[Tue May 08 21:26:52 2001] Tharkis auctions, 'WTS Runed Circlet +4 wis int 4AC, Woe and Envy set (cheap and Necro's can equipt it), Crystal Fiber, Ebon Razor, Scorched Pauldron.  Send tell for stats and prices.  Selling cheap'
+[Tue May 08 21:26:52 2001] Kaycee begins to cast a spell. (Symbol of Transal)
+[Tue May 08 21:26:56 2001] Narcomi GMSAYS, 'i grabbed it and deleated as i had just finished rezing him'
+[Tue May 08 21:26:57 2001] Eryndale GMSAYS, 'oops zones. zoneing back'
+[Tue May 08 21:26:57 2001] Juicebox auctions, 'WTB Ravenscale armour, legs or arms... pls send tells'
+[Tue May 08 21:26:58 2001] Ngoc GMSAYS, 'yeah...me too'
+[Tue May 08 21:26:59 2001] Saeladil auctions, 'WTS Orb of TIshan (nice for Int Casters/Bards), Singing Steel Gaunts, Arms, (bard only), Lizardscale Cloak, Velium Diamond Wedding Rings +8 all saves (nice for raids)'
+[Tue May 08 21:27:06 2001] Samoht auctions, '<BUYING> Sebilite Scale Boots or Sentry Boots'
+[Tue May 08 21:27:10 2001] Kaycee begins to cast a spell. (Stun)
+[Tue May 08 21:27:19 2001] Ilenea auctions, '<Selling> +3 wis earrings, +3 Str Earrings, +4 Int Necklaces, and +5 Agi Rings send tells name is spelled ilenea'
+[Tue May 08 21:27:24 2001] Kaycee begins to cast a spell. (Yaulp)
+[Tue May 08 21:27:26 2001] Tharkis auctions, 'WTS Runed Circlet +4 wis int 4AC Head slot, Woe and Envy set (cheap and Necro's can equipt it), Crystal Fiber, Ebon Razor, Scorched Pauldron.  Send tell for stats and prices.  Selling cheap'
+[Tue May 08 21:27:29 2001] Lash auctions, 'WTTF Crystal Covered Shroud, Fighting Batons, and Wolf Hide Slippers or 2 Dwarven Saps'
+[Tue May 08 21:27:33 2001] Wappy's spell fizzles!
+[Tue May 08 21:27:34 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:27:35 2001] Aphotic auctions, 'WTS Mace of the shadowed soul 19 29 10int SK only'
+[Tue May 08 21:27:35 2001] You GMSAY, 'just watching over something'
+[Tue May 08 21:27:36 2001] Kovas auctions, 'WTS DF belt'
+[Tue May 08 21:27:37 2001] Jhenna auctions, 'Buying Lambent Vambraces and Greaves, 5ac 55hp rings'
+[Tue May 08 21:27:45 2001] Gnimm auctions, 'WTS Axe of the Iron Back Dmg 16 Dly37 Magic'
+[Tue May 08 21:27:47 2001] Ngoc GMSAYS, '<NOTE BADNAME> Sirvix, AYSLKXL.'
+[Tue May 08 21:27:47 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:27:50 2001] Xebariz auctions, 'WTS Platinum Jasper Ring, +6 WIS, 250pp'
+[Tue May 08 21:27:50 2001] Kaycee says, 'watch for slate'
+[Tue May 08 21:27:51 2001] Ossory auctions, 'WTS Clay Guardian Shield'
+[Tue May 08 21:27:52 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:27:56 2001] Ceowulf auctions, 'WTB totemic legs'
+[Tue May 08 21:27:57 2001] You GMSAY, 'someone gave a guard all their stuff by accident'
+[Tue May 08 21:27:57 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:28:02 2001] Kaycee says, 'dont waste'
+[Tue May 08 21:28:07 2001] Laquarius auctions, 'WTS Lambent Stone 20pp'
+[Tue May 08 21:28:07 2001] Bloodcloud auctions, 'Paying 20pp for Words of Suffering'
+[Tue May 08 21:28:08 2001] Klye auctions, 'WTB purple headband and red sash'
+[Tue May 08 21:28:08 2001] Kaycee begins to cast a spell. (Yaulp)
+[Tue May 08 21:28:12 2001] Nothanks auctions, 'WTS good magic 1HB 10dmg 34 delay 100pp'
+[Tue May 08 21:28:13 2001] Mucmuc auctions, 'WTS Splitpaw gloves AC dex and wis 9pp'
+[Tue May 08 21:28:14 2001] Kaycee begins to cast a spell. (Yaulp)
+[Tue May 08 21:28:15 2001] You GMSAY, 'so I advised them to find someone to kill the guard for them'
+[Tue May 08 21:28:22 2001] Xebariz auctions, 'WTS Bamboo Bo Stick, 2HB, 8/20, Monk Only, 120pp'
+[Tue May 08 21:28:26 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:28:28 2001] Midraal auctions, 'WTS bag of ulthork come ask me to see at frist tourch | wts totemic gloves 11 ac 5 itn shamen only  | harpoon of depths |ice tooth claw | walrus touth | '
+[Tue May 08 21:28:32 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:28:34 2001] Kaycee begins to cast a spell. (Yaulp)
+[Tue May 08 21:28:34 2001] Ngoc GMSAYS, 'how by accident?'
+[Tue May 08 21:28:34 2001] Sarenak auctions, 'WTS Drakkel Forged Hammer, 2HB, 22dmg, 50dly - 150pp'
+[Tue May 08 21:28:36 2001] Ossory auctions, 'WTS Clay Guardian Shield'
+[Tue May 08 21:28:37 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:28:42 2001] Yobittyx tells you, 'thanks hun'
+[Tue May 08 21:28:45 2001] Hinobi auctions, 'WTS Torque of Hoar Frost (+10HP +10MANA +20SV COLD)'
+[Tue May 08 21:28:45 2001] Midraal auctions, 'WTS bag of ulthork come ask me to see at frist tourch | wts totemic gloves 11 ac 5 itn shamen only  | harpoon of depths |ice tooth claw | walrus touth | '
+[Tue May 08 21:28:47 2001] Kikomon auctions, 'WTS Ulthork tusk | Ulthork bracers | kodiak claws'
+[Tue May 08 21:28:50 2001] Ceowulf auctions, 'WTB totemic legs'
+[Tue May 08 21:28:51 2001] Kikomon auctions, 'WTS/WTT Rokyls Channelling Crystal 10ac 50hp 50mana (secondary/int casters only)'
+[Tue May 08 21:28:56 2001] You GMSAY, 'guard walked between two people as they were trading items'
+[Tue May 08 21:28:57 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:28:57 2001] Aphotic auctions, 'WTS Mace of the shadowed soul 19 29 10int SK only'
+[Tue May 08 21:28:59 2001] Kaycee begins to cast a spell. (Yaulp)
+[Tue May 08 21:29:08 2001] Jhenna's song ends.
+[Tue May 08 21:29:08 2001] Jhenna's song ends.
+[Tue May 08 21:29:09 2001] Genadiel auctions, 'WTS molten cloak'
+[Tue May 08 21:29:12 2001] Nothanks auctions, 'WTS good magic 1HB 10dmg 34 delay 100pp'
+[Tue May 08 21:29:14 2001] Saeladil auctions, 'WTS Orb of TIshan (nice for Int Casters/Bards), Singing Steel Gaunts, Arms, (bard only), Lizardscale Cloak, Velium Diamond Wedding Rings +8 all saves (nice for raids)'
+[Tue May 08 21:29:16 2001] Guard Reskin's corpse says 'My comrades will avenge my death.'
+[Tue May 08 21:29:23 2001] Saeladil auctions, 'WTB Wu Stick, Knuckle DUster, FBSS'
+[Tue May 08 21:29:24 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:29:26 2001] Kaycee feels better.
+[Tue May 08 21:29:27 2001] Ulthor auctions, 'wts sebelite scale neck ac 8 40 mana some saves...500pp'
+[Tue May 08 21:29:28 2001] Ngoc GMSAYS, 'haha'
+[Tue May 08 21:29:29 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:29:31 2001] Kaycee feels better.
+[Tue May 08 21:29:32 2001] Kaycee says, '20pp'
+[Tue May 08 21:29:33 2001] You say, 'Did he have your stuff?'
+[Tue May 08 21:29:37 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:29:39 2001] Kaycee feels better.
+[Tue May 08 21:29:42 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:29:44 2001] Keming says, 'did not have'
+[Tue May 08 21:29:44 2001] Kaycee feels better.
+[Tue May 08 21:29:49 2001] Wappy begins to cast a spell. (Light Healing)
+[Tue May 08 21:29:51 2001] Kaycee feels better.
+[Tue May 08 21:29:52 2001] Klye auctions, 'WTB SoS, IFS or tranquil staff'
+[Tue May 08 21:29:56 2001] Blux auctions, 'WTS Lots Of 55hp ac5 Rings Send TEll'
+[Tue May 08 21:29:58 2001] Keming says, 'waste of plat'
+[Tue May 08 21:30:01 2001] Keming says, 'crap'
+[Tue May 08 21:30:04 2001] Aphotic auctions, 'WTS Mace of the shadowed soul 19 29 10int SK only'
+[Tue May 08 21:30:08 2001] You told Keming, 'Dang... well, petition Thursday when Lirus is on...'
+[Tue May 08 21:30:10 2001] Juicebox auctions, 'Rusty Spiked Shoulderpads, AC3,Str+5, -10 SVmagic,15pp'
+[Tue May 08 21:30:13 2001] Ssassy shouts, 'need an enchanter will pay u good'
+[Tue May 08 21:30:16 2001] Keming says, 'thanks'
+[Tue May 08 21:30:18 2001] Eryndale GMSAYS, 'zoning'
+[Tue May 08 21:30:20 2001] Juicebox auctions, 'WTB Ravenscale armour, legs or arms... pls send tells'
+[Tue May 08 21:30:20 2001] Hinobi auctions, 'WTS Torque of Hoar Frost  (+10 HP ,  +10MANA , +20 SV COLD)'
+[Tue May 08 21:30:21 2001] Kaycee says, 'half back'
+[Tue May 08 21:30:25 2001] Darkmorte auctions, 'WTB Summon corpse spell.'
+[Tue May 08 21:30:25 2001] Ceowulf auctions, 'WTB totemic legs'
+[Tue May 08 21:30:25 2001] You told Keming, 'after 3pm Pacific time.'
+[Tue May 08 21:30:26 2001] Keming says, 'sorry'
+[Tue May 08 21:30:30 2001] Kaycee says, 'np'
+[Tue May 08 21:30:30 2001]  (Selo`s Accelerando)
+[Tue May 08 21:30:33 2001] Brantoc auctions, 'wings o bat said to be a potent ingredient in many spells tell me'
+[Tue May 08 21:30:34 2001] Lash auctions, 'Looking for 2 Fighting batons, an essence of dol, 2 dwarven saps, and wolf fur slippers...send tells'
+[Tue May 08 21:30:35 2001] Deemon auctions, 'WTS Crystalline Eye +30hp +30mana +10svm +10svf +10svc secondary | Icetooth's Claw 11dmg 29dly 1hs | Fine Plate Greaves 12ac Vembraces 11ac Gauntles 10ac Bracer 9ac'
+[Tue May 08 21:30:36 2001] Kaycee says, 'call me again'
+[Tue May 08 21:30:38 2001] Samoht auctions, '<BUYING> Sebilite Scale Boots or Sentry Boots'
+[Tue May 08 21:30:45 2001] Nothanks auctions, 'WTS good magic 1HB 10dmg 34 delay 100pp'
+[Tue May 08 21:30:47 2001] Jhenna auctions, 'Buying Lambent Vambraces and Greaves, 5ac 55hp rings'
+[Tue May 08 21:30:47 2001] Albo says out of character, 'who was selling that neck peice to me before my comp locked up'
+[Tue May 08 21:30:48 2001] Cyzix shouts, 'train to nek'
+[Tue May 08 21:30:51 2001] Ulthor auctions, 'wts sebelite scale neck ac 8 40 mana some saves...500pp'
+[Tue May 08 21:30:53 2001] You say, 'Wish that had worked...'
+[Tue May 08 21:30:54 2001] Keming tells you, 'so how does that work'
+[Tue May 08 21:30:57 2001] Blux auctions, 'WTS Molten CLoak ac4 INT4 WIS4'
+[Tue May 08 21:31:02 2001] Saeladil auctions, 'WTS Orb of TIshan (nice for Int Casters/Bards), Singing Steel Gaunts, Arms, (bard only), Lizardscale Cloak, Velium Diamond Wedding Rings +8 all saves (nice for raids)'
+[Tue May 08 21:31:03 2001] Anirak auctions, 'WTS golden chitin bracer 5ac 5agi 5int'
+[Tue May 08 21:31:05 2001] Saeladil auctions, 'WTB Wu Stick, Knuckle DUster, FBSS'
+[Tue May 08 21:31:05 2001] Anirak auctions, 'WTS cane of harmony 12/25 4str4dex8int8cha, mnk only'
+[Tue May 08 21:31:07 2001] You told Keming, 'sometimes NPCs keep the stuff you give them.'
+[Tue May 08 21:31:08 2001] Nothanks auctions, 'WTS gro mask 30pp'
+[Tue May 08 21:31:08 2001] Dunncan begins to cast a spell. (Minor Healing)
+[Tue May 08 21:31:14 2001] You told Keming, 'What did you lose?'
+[Tue May 08 21:31:18 2001] Anirak auctions, 'WTS darkmail gaunts 10ac 5dex 50mana'
+[Tue May 08 21:31:20 2001] Anirak auctions, 'WTS wraith bone hammer 8/26 5str 2int 2wis'
+[Tue May 08 21:31:22 2001] Velsaron auctions, 'WTT Velium War hammer for Velium Staff or another good staff a wizard can use send tells please..'
+[Tue May 08 21:31:22 2001] Anirak auctions, 'WTS shaman 51+ spell: talisman of Ja'
+[Tue May 08 21:31:25 2001] Ongin auctions, 'WTB ring mail boots or other small magic boots'
+[Tue May 08 21:31:34 2001] Kikomon auctions, 'WTS/WTT Rokyls Channelling Crystal 10ac 50hp 50mana (secondary/int casters only)'
+[Tue May 08 21:31:40 2001] Midraal auctions, 'WTS bag of ulthork come ask me to see at frist tourch | wts totemic gloves 11 ac 5 itn shamen only  | harpoon of depths |ice tooth claw | walrus touth | CCS'
+[Tue May 08 21:31:41 2001] Kikomon auctions, 'WTS Ulthork tusk | Ulthork bracers | kodiak claws'
+[Tue May 08 21:31:45 2001] Sicero auctions, 'WTS Darkmail Gauntlets, 10AC, 5dex, 50mana'
+[Tue May 08 21:31:45 2001] Quedan auctions, 'WTS Cone of the mystics 5k, Golden Bracer 3k, Black Sapphires'
+[Tue May 08 21:31:47 2001] Nothanks auctions, 'WTS gro mask 30pp ac 3 dex 7 cha neg 9'
+[Tue May 08 21:31:49 2001] Xebariz auctions, 'WTS Iron Bound Tome, 7/38, +6 AC, +5 Mana, +5 Magic/Fire Resistance, Effect:Cancel Magic---500pp'
+[Tue May 08 21:31:51 2001] Anirak auctions, 'WTS orc fang earrings, moonstone rings'
+[Tue May 08 21:31:51 2001] Ongin auctions, 'WTB ring mail boots or other small magic boots'
+[Tue May 08 21:31:52 2001] Players in EverQuest:
+[Tue May 08 21:31:52 2001] ---------------------------
+[Tue May 08 21:31:52 2001] [18 Monk] Keming (Human) ZONE: ecommons (USER PID AY9QDTX)
+[Tue May 08 21:31:52 2001] There is 1 player in EverQuest.
+[Tue May 08 21:31:53 2001] Anirak auctions, 'WTS STAFF OF DREAD GAZE, 6int40m, CLICK: invoke fear'
+[Tue May 08 21:31:55 2001] Keming tells you, 'i lost a banded cloak, mail, bracer, and a fine steel short sword, and a kite shield'
+[Tue May 08 21:31:56 2001] Anirak auctions, 'WTS mithril 2hander 21/40 with 3402266244erm haste'
+[Tue May 08 21:31:57 2001] Kaycee auctions, 'WTS words of discernment'
+[Tue May 08 21:32:09 2001] Velsaron auctions, 'WTT Velium War hammer for Velium Staff or another good staff a wizard can use send tells please..'
+[Tue May 08 21:32:12 2001] Nothanks auctions, 'WTS good magic 1HB 10dmg 34 delay 100pp'
+[Tue May 08 21:32:12 2001] Doledor auctions, 'WTS hultork hide gloves ac 8 char-3 int +3 40pp'
+[Tue May 08 21:32:23 2001] Juicebox auctions, 'Rusty Spiked Shoulderpads, AC3,Str+5, -10 SVmagic,15pp'
+[Tue May 08 21:32:28 2001]  (Selo`s Accelerando)
+[Tue May 08 21:32:30 2001] Juicebox auctions, 'WTB Ravenscale armour, legs or arms... pls send tells'
+[Tue May 08 21:32:35 2001] You GMSAY, '<note gm> Keming AY9QDTX lost a banded cloak, mail, bracer, FS short sword and a kite shield by accidentally giving stuff to a guard who walked between him and another player.'
+[Tue May 08 21:32:37 2001] Espranza saved.
+[Tue May 08 21:32:42 2001] Neehigh auctions, 'WTB gift of xev lvl 51 mage spell'
+[Tue May 08 21:32:43 2001] Narcomi GMSAYS, '<note bug> Nikademus AV5TYN0 was looting his corpse when gfaydark crashed (verified) and was disconnected before looting his sewing kit.  His corpse decayed and he will petition on thursday for GM Lirus to check about reimbursing his large sewing kit.'
+[Tue May 08 21:32:44 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:32:45 2001] Keming is looking at your equipment...
+[Tue May 08 21:32:46 2001] Kigek auctions, 'WTS Grizzly Bear Skin'
+[Tue May 08 21:32:56 2001] You told Keming, 'Okay, I've left a note for the GM - but do repetition Thursday for reimbursal.'
+[Tue May 08 21:33:00 2001] Keming says, 'sorry thought you sent last tell'
+[Tue May 08 21:33:03 2001] Blux auctions, 'WTS Shiny Metalic Robe'
+[Tue May 08 21:33:10 2001] Deacurie auctions, 'WTS YABH. magic 1h blunt 4 dmg 27 dly 1ac 2 str 4 hp.'
+[Tue May 08 21:33:20 2001] Aphotic auctions, 'WTS Mace of the shadowed soul 19 29 10int SK only'
+[Tue May 08 21:33:24 2001] Blux shouts, 'any DROOD 50+ intesrted in making 4k send me a tell'
+[Tue May 08 21:33:28 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:33:30 2001] Deemon auctions, 'WTS Crystalline Eye +30hp +30mana +10svm +10svf +10svc secondary | Icetooth's Claw 11dmg 29dly 1hs | Fine Plate Greaves 12ac Vembraces 11ac Gauntles 10ac Bracer 9ac'
+[Tue May 08 21:33:31 2001] Kigek auctions, 'WTS Large Banded BP 15pp'
+[Tue May 08 21:33:33 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:33:33 2001] Blux auctions, 'WTS BAT FANG HEAD BAND ac2 wis3 int3'
+[Tue May 08 21:33:34 2001] Kigek auctions, 'WTS Grizzly Bear Skin'
+[Tue May 08 21:33:34 2001] Keming tells you, 'i lost a banded cloak, mail, bracer, and a fine steel short s'
+[Tue May 08 21:33:36 2001] Quedan auctions, 'WTS Cone of the mystics 5k, Golden Bracer 3k, Black Sapphires, Spell Sunstrike'
+[Tue May 08 21:33:36 2001] Eibrab says, 'hey'
+[Tue May 08 21:33:41 2001] Keming tells you, 'okay thanks'
+[Tue May 08 21:33:41 2001] Wappy hugs Eibrab.
+[Tue May 08 21:33:41 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:33:46 2001] Tegro says out of character, 'can anyone give me a sow out of kindness?'
+[Tue May 08 21:33:47 2001] Eibrab hugs Wappy.
+[Tue May 08 21:33:49 2001] Keming tells you, 'what is GM name'
+[Tue May 08 21:33:49 2001] You told Keming, 'yup, you told me :) I included that in my note to the GM.'
+[Tue May 08 21:33:52 2001] Samoht auctions, '<BUYING> Sebilite Scale Boots or Sentry Boots'
+[Tue May 08 21:33:54 2001] You told Keming, 'Lirus'
+[Tue May 08 21:33:55 2001] Doledor auctions, 'WTS hultork hide gloves ac 8 char-3 int +3 40pp'
+[Tue May 08 21:33:55 2001] Ulthor auctions, 'wts sebelite scale neck ac 8 40 mana some saves...500pp'
+[Tue May 08 21:33:57 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:34:00 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:34:00 2001] Deemon auctions, 'WTS Crystalline Eye +30hp +30mana +10svm +10svf +10svc secondary | Icetooth's Claw 11dmg 29dly 1hs | Fine Plate Greaves 12ac Vembraces 11ac Gauntles 10ac Bracer 9ac | Silver-Plated Bracer 7ac +5svp +5svd'
+[Tue May 08 21:34:01 2001] Xebariz auctions, 'WTS Silvered Fire Emerald Ring, +3 STR/DEX, 160pp'
+[Tue May 08 21:34:02 2001] You told Keming, 'But petition even if you don't see him on.'
+[Tue May 08 21:34:03 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:34:04 2001] Balthamael auctions, 'WTB creasted mm shield'
+[Tue May 08 21:34:05 2001] Keming tells you, 'also a bronze main guech'
+[Tue May 08 21:34:06 2001] Vyxxen begins to cast a spell. (Summon Dagger)
+[Tue May 08 21:34:07 2001] Blux auctions, 'WTS Shiny Metalic Robe'
+[Tue May 08 21:34:07 2001] Kigek auctions, 'WTS Large Banded BP 15pp'
+[Tue May 08 21:34:09 2001] You told Keming, 'okay'
+[Tue May 08 21:34:12 2001] Kigek auctions, 'WTS Grizzly Bear Skin'
+[Tue May 08 21:34:13 2001] Keming tells you, 'cant remember how to spell'
+[Tue May 08 21:34:15 2001] Kikomon auctions, 'WTS Ulthork tusk | Ulthork bracers | kodiak claws'
+[Tue May 08 21:34:18 2001] Kikomon auctions, 'WTS/WTT Rokyls Channelling Crystal 10ac 50hp 50mana (secondary/int casters only)'
+[Tue May 08 21:34:21 2001] Shameful auctions, 'WTS Mace of Shadowed Soul. 5000pp CASH or trades.'
+[Tue May 08 21:34:22 2001] You GMSAY, '<note gm> Add a bronze main gauche to that list'
+[Tue May 08 21:34:22 2001] Keming tells you, 'wappy did it LOL'
+[Tue May 08 21:34:22 2001] Narcomi GMSAYS, '<note badname> Justbe Trutuurskool (Just be true to your school). player was not online when i pulled petition to get his account info.'
+[Tue May 08 21:34:24 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:34:27 2001] Kigek auctions, 'WTS Grizzly Bear Skin'
+[Tue May 08 21:34:27 2001] Mynasa auctions, 'WTS S Rawhide Sleeves 4ac 3pp'
+[Tue May 08 21:34:29 2001] Kigek auctions, 'WTS Large Banded BP 15pp'
+[Tue May 08 21:34:29 2001] Blux auctions, 'WTS Molten CLoak ac4 INT4 WIS4'
+[Tue May 08 21:34:31 2001] Deemon auctions, 'WTS Crystalline Eye +30hp +30mana +10svm +10svf +10svc secondary | Icetooth's Claw 11dmg 29dly 1hs | Fine Plate Greaves 12ac Vembraces 11ac Gauntles 10ac Bracer 9ac | Silver-Plated Bracer 7ac +5svp +5svd'
+[Tue May 08 21:34:31 2001] Players in EverQuest:
+[Tue May 08 21:34:31 2001] ---------------------------
+[Tue May 08 21:34:31 2001] [17 Paladin] Wappy (Dwarf) ZONE: ecommons (USER PID AZCUUCS)
+[Tue May 08 21:34:31 2001] There is 1 player in EverQuest.
+[Tue May 08 21:34:32 2001] Balthamael auctions, 'WTB creasted mm shield'
+[Tue May 08 21:34:34 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:34:36 2001] Tegro says out of character, 'can anyone give me a sow out of kindness?'
+[Tue May 08 21:34:37 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:34:40 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:34:42 2001] Keming tells you, 'thanks again'
+[Tue May 08 21:34:42 2001] Kigek auctions, 'WTS Large Banded BP 15pp'
+[Tue May 08 21:34:55 2001] Gelini auctions, 'WTS 30 bone chips, lego pads, stack of bat wings'
+[Tue May 08 21:34:55 2001] You GMSAY, '<note gm> Wappy AZCUUCS was the one who gave the items....'
+[Tue May 08 21:34:55 2001] Narcomi GMSAYS, 'i assume hes too low lvl to notice the difference between giving something to NPC or Player.'
+[Tue May 08 21:34:58 2001] Tegro says out of character, 'i need to get my corpse at oggok'
+[Tue May 08 21:35:01 2001] Sarenak auctions, 'WTS Drakkel Forged Hammer, 2HB, 22dmg, 50dly - 150pp'
+[Tue May 08 21:35:03 2001] Keming tells you, 'sorry what was GM name again'
+[Tue May 08 21:35:04 2001] Aphotic auctions, 'WTS Mace of the shadowed soul 19 29 10int SK only'
+[Tue May 08 21:35:08 2001] Eryndale GMSAYS, 'zoneing'
+[Tue May 08 21:35:08 2001] You feel as if you are about to fall.
+[Tue May 08 21:35:11 2001] You told Keming, 'Lirus'
+[Tue May 08 21:35:12 2001] Kigek auctions, 'WTS Grizzly Bear Skin'
+[Tue May 08 21:35:13 2001] Velsaron auctions, 'WTT Velium War hammer for Velium Staff or another good staff a wizard can use send tells please..'
+[Tue May 08 21:35:14 2001] You feel as if you are about to fall.
+[Tue May 08 21:35:15 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:35:18 2001] You can no longer levitate.
+[Tue May 08 21:35:19 2001] Vyxxen begins to cast a spell. (Elementalkin: Earth)
+[Tue May 08 21:35:21 2001] Aaral auctions, 'WTB molten claok'
+[Tue May 08 21:35:27 2001] Boraron auctions, 'WTB pal vel spell wave of healing & divine strength'
+[Tue May 08 21:35:29 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:35:30 2001] Keming tells you, 'on Thursday or tomarrow'
+[Tue May 08 21:35:30 2001] Boraron auctions, 'WTB + WIS ring and earrings. give tell'
+[Tue May 08 21:35:31 2001] Kigek auctions, 'WTS Large Banded BP 15pp'
+[Tue May 08 21:35:32 2001] Parthar says 'Greetings Sundorak you look like you could use a Vaashar's Sweet Revege'
+[Tue May 08 21:35:34 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:35:35 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:35:40 2001] Doledor auctions, 'WTS hultork hide gloves ac 8 char-3 int +3 40pp'
+[Tue May 08 21:35:41 2001] Gaffy says, 'sorry/tell '
+[Tue May 08 21:35:45 2001] Ongin auctions, 'w'
+[Tue May 08 21:35:48 2001] Shameful auctions, 'WTS Sentient Armor.  SK only.'
+[Tue May 08 21:35:48 2001] Gaffy says, 'sorry was stuck'
+[Tue May 08 21:35:49 2001] Midraal auctions, 'WTS bag of ulthork come ask me to see at frist tourch | wts totemic gloves 11 ac 5 itn shamen only  | harpoon of depths |ice tooth claw | walrus touth | CCS'
+[Tue May 08 21:35:52 2001] Gamof auctions, '**BUYING** Medicine Totem; Blue Diamonds; Ravenscale'
+[Tue May 08 21:35:52 2001] Tegro says out of character, 'can anyone sow please?'
+[Tue May 08 21:35:53 2001] Samoht auctions, '<BUYING> Sebilite Scale Boots or Sentry Boots'
+[Tue May 08 21:35:53 2001] Gaffy begins to cast a spell. (See Invisible)
+[Tue May 08 21:35:55 2001] Guard Reskin says 'That's it, swine!  You're outta here! 
+[Tue May 08 21:35:56 2001] Linara auctions, 'WTS runed bone fork (+10 sv magic, +10 sv fire, +10 sv cold for range slot). war, rng, shd, brd, rog. 700pp.'
+[Tue May 08 21:35:58 2001] Gaffy begins to cast a spell. (Resistant Skin)
+[Tue May 08 21:36:00 2001] Juicebox auctions, 'Rusty Spiked Shoulderpads, AC3,Str+5, -10 SVmagic,15pp'
+[Tue May 08 21:36:03 2001] Gaffy's skin shines.
+[Tue May 08 21:36:05 2001] Klye auctions, 'WTB SoS, IFS or tranquil staff'
+[Tue May 08 21:36:06 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:36:06 2001] Gaffy begins to cast a spell. (Shielding)
+[Tue May 08 21:36:07 2001] It will take you about 30 seconds to prepare your camp.
+[Tue May 08 21:36:07 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:36:08 2001] Quedan auctions, 'WTS Cone of the mystics 5k, Golden Bracer 3k, Black Sapphires, Spell Sunstrike'
+[Tue May 08 21:36:08 2001] Keming says, 'you told them about your sins yet'
+[Tue May 08 21:36:10 2001] Balthamael auctions, 'WTB creasted mm shield'
+[Tue May 08 21:36:11 2001] It will take about 25 more seconds to prepare your camp.
+[Tue May 08 21:36:15 2001] You GMSAY, 'relogging to clear que bug'
+[Tue May 08 21:36:16 2001] It will take about 20 more seconds to prepare your camp.
+[Tue May 08 21:36:21 2001] Players in EverQuest:
+[Tue May 08 21:36:21 2001] ---------------------------
+[Tue May 08 21:36:21 2001] * Guide *[50 Druid] Eryndale (Wood Elf) <Keepers of Morell Thule> ZONE: lavastorm (USER PID AUGB05J)
+[Tue May 08 21:36:21 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AT6J632)
+[Tue May 08 21:36:21 2001] * Guide *[50 Monk] Narcomi (Human) <Keepers of Morell Thule> ZONE: gfaydark (USER PID AUGBAB8)
+[Tue May 08 21:36:21 2001] * Guide *[50 Shaman] Ngoc (Ogre) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBDWQ)
+[Tue May 08 21:36:21 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: ecommons (USER PID AUGBQH4)
+[Tue May 08 21:36:21 2001] * Guide *[50 Shadow Knight] Bruus (Troll) <Keepers of Morell Thule> ZONE: thurgadinb (USER PID AU7FMX4)
+[Tue May 08 21:36:21 2001] There are 6 players in EverQuest.
+[Tue May 08 21:36:21 2001] Boraron auctions, 'WTB pal vel spell wave of healing & divine strength'
+[Tue May 08 21:36:21 2001] It will take about 15 more seconds to prepare your camp.
+[Tue May 08 21:36:23 2001] Boraron auctions, 'WTB + WIS ring and earrings. give tell'
+[Tue May 08 21:36:26 2001] It will take about 10 more seconds to prepare your camp.
+[Tue May 08 21:36:26 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:36:31 2001] It will take about 5 more seconds to prepare your camp.
+[Tue May 08 21:36:34 2001] Sergeant Slate says 'Condition report soldier! 
+[Tue May 08 21:36:34 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:36:34 2001] Darkmorte auctions, 'WTB Summon corpse spell'
+[Tue May 08 21:36:35 2001] Gaffy says, 'sins oh  oh, what is going on'
+[Tue May 08 21:36:35 2001] Shameful auctions, 'WTS Mithril 2 Hander. 3000pp CASH or trades'
+[Tue May 08 21:36:35 2001] Kigek auctions, 'WTS Grizzly Bear Skin'
+[Tue May 08 21:36:36 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:37:05 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:37:05 2001] Mucmuc auctions, 'WTS Splitpaw gloves AC dex and wis 9pp'
+[Tue May 08 21:37:05 2001] Albo auctions, 'Also trading the loop for items'
+[Tue May 08 21:37:05 2001] Vallos auctions, 'WTS Students Homework (rangeslot) 3int 15mana 10MR'
+[Tue May 08 21:37:05 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:37:05 2001] Vallos auctions, 'WTS Sarnak Arcane Fettish 2dex 5cha 6int 1.8k'
+[Tue May 08 21:37:05 2001] Darkmorte says out of character, 'My research at 95'
+[Tue May 08 21:37:05 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:37:05 2001] Vallos auctions, 'WTS Impskin gloves 2ac 5int 10mana 3k'
+[Tue May 08 21:37:05 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:37:05 2001] Vallos auctions, 'WTS Froglok bonecasters robe 17k'
+[Tue May 08 21:37:07 2001] You have entered East Commonlands.
+[Tue May 08 21:37:11 2001] Linara auctions, 'WTS singing steel vambraces'
+[Tue May 08 21:37:14 2001] Xandy auctions, 'WTS Foremans tunic, Bloodstaind fang'
+[Tue May 08 21:37:14 2001] Narcomi GMSAYS, 'zoning'
+[Tue May 08 21:37:16 2001] Aaral says out of character, 'mine is 189 on my necro'
+[Tue May 08 21:37:24 2001] Anirak auctions, 'WTS master wu's trance stick 7/18 proc smite'
+[Tue May 08 21:37:26 2001] Anirak auctions, 'WTS golden chitin bracer 5ac 5agi 5int'
+[Tue May 08 21:37:29 2001] Anirak auctions, 'WTS cane of harmony 12/25 4str4dex8int8cha, mnk only'
+[Tue May 08 21:37:30 2001] You GMSAY, 'still bugged - restarting EQ this time'
+[Tue May 08 21:37:34 2001] It will take you about 30 seconds to prepare your camp.
+[Tue May 08 21:37:38 2001] It will take about 25 more seconds to prepare your camp.
+[Tue May 08 21:37:38 2001] Eibrab says, 'what happened?'
+[Tue May 08 21:37:38 2001] Quedan auctions, 'WTS Cone of the mystics 5k, Golden Bracer 3k, Black Sapphires'
+[Tue May 08 21:37:40 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:37:42 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:37:43 2001] It will take about 20 more seconds to prepare your camp.
+[Tue May 08 21:37:45 2001] Keming says, 'okay im logging'
+[Tue May 08 21:37:48 2001] It will take about 15 more seconds to prepare your camp.
+[Tue May 08 21:37:48 2001] Shameful auctions, 'WTS Mace of Shadowed Soul. 5000pp CASH or trades.'
+[Tue May 08 21:37:52 2001] Boraron auctions, 'WTB pal vel spell wave of healing & divine strength'
+[Tue May 08 21:37:53 2001] It will take about 10 more seconds to prepare your camp.
+[Tue May 08 21:37:54 2001] Boraron auctions, 'WTB + WIS ring and earrings. give tell'
+[Tue May 08 21:37:56 2001] Keming says, 'i will speak with you all later'
+[Tue May 08 21:37:57 2001] Anirak auctions, 'WTS wraith bone hammer 8/26 5str 2int 2wis'
+[Tue May 08 21:37:58 2001] It will take about 5 more seconds to prepare your camp.
+[Tue May 08 21:38:00 2001] Anirak auctions, 'WTS shaman 51+ spell: talisman of Ja'
+[Tue May 08 21:39:59 2001] Welcome to EverQuest!
+[Tue May 08 21:39:59 2001] You have entered East Commonlands.
+[Tue May 08 21:40:02 2001] Boraron auctions, 'WTB pal vel spell wave of healing & divine strength'
+[Tue May 08 21:40:02 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:40:03 2001] Boraron auctions, 'WTB + WIS ring and earrings. give tell'
+[Tue May 08 21:40:04 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:40:10 2001] You GMSAY, 'much better!'
+[Tue May 08 21:40:13 2001] Anirak auctions, 'WTS cane of tranquil 11/25 war, mnk'
+[Tue May 08 21:40:15 2001] Anirak auctions, 'WTS magician 44 49 pet spells'
+[Tue May 08 21:40:17 2001] Anirak auctions, 'WTS rokyl's channelling crystal 10ac 50hp 50mana'
+[Tue May 08 21:40:18 2001] Mikol auctions, 'WTS Kodiak claws 7/30 '
+[Tue May 08 21:40:24 2001] Xebariz auctions, 'WTS Bamboo Bo Stick, 2HB, 8/20, 120pp'
+[Tue May 08 21:40:28 2001] Anirak auctions, 'WTS loam encrusted choker 3ac 4str 3cha 10mana 5sv-cld'
+[Tue May 08 21:40:30 2001] You feel the spirit of Norrath enter you.
+[Tue May 08 21:40:31 2001] Anirak auctions, 'WTS paw of opolla 9ac 9agi 9wis 5stm 5mana'
+[Tue May 08 21:40:31 2001] Your feet leave the ground.
+[Tue May 08 21:40:33 2001] Ngoc GMSAYS, 'nothing on queue'
+[Tue May 08 21:40:34 2001] Anirak auctions, 'WTS helm of rile, 6ac 9str 5agi'
+[Tue May 08 21:40:37 2001] You GMSAY, 'nope'
+[Tue May 08 21:40:38 2001] Kigek auctions, 'WTS Large Banded BP 15pp'
+[Tue May 08 21:40:40 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:40:42 2001] Linamar auctions, 'WTS Full set of Banded Armor'
+[Tue May 08 21:40:46 2001] Ngoc GMSAYS, 'Zoning'
+[Tue May 08 21:40:46 2001] Deemon auctions, 'WTS Crystalline Eye +30hp +30mana +10svm +10svf +10svc secondary | Icetooth's Claw 11dmg 29dly 1hs | Fine Plate Greaves 12ac Gauntles 10ac Bracer 9ac | Silver-Plated Bracer 7ac +5svp +5svd'
+[Tue May 08 21:40:54 2001] Lanlawen auctions, 'WTS sebilite scale gloves 12 ac +4 agi +4 int +2 sv disease +2 sv magic'
+[Tue May 08 21:40:55 2001] You GMSAY, 'Bruus, get a chat GM to give us a quest!'
+[Tue May 08 21:40:58 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:40:59 2001] Ngoc GMSAYS, 'hehe'
+[Tue May 08 21:41:00 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:41:01 2001] Mikol auctions, 'WTS crystal fiber 8/26 magic either hand 75pp'
+[Tue May 08 21:41:05 2001] Bruus GMSAYS, 'hehe'
+[Tue May 08 21:41:06 2001] Anirak auctions, 'WTS loam encrusted choker 3ac 4str 3cha 10mana 5sv-cld'
+[Tue May 08 21:41:08 2001] Anirak auctions, 'WTS paw of opolla 9ac 9agi 9wis 5stm 5mana'
+[Tue May 08 21:41:10 2001] Anirak auctions, 'WTS helm of rile, 6ac 9str 5agi'
+[Tue May 08 21:41:14 2001] Ngoc GMSAYS, 'let's do an invasion'
+[Tue May 08 21:41:17 2001] Ngoc GMSAYS, 'I miss those days'
+[Tue May 08 21:41:21 2001] Lanlawen auctions, 'WTS sebilite scale gloves 12 ac +4 agi +4 int +2 sv disease +2 sv magic'
+[Tue May 08 21:41:23 2001] Boraron auctions, 'WTB pal vel spell wave of healing & divine strength'
+[Tue May 08 21:41:24 2001] Ngoc GMSAYS, 'Ash used to give us those all the time'
+[Tue May 08 21:41:25 2001] Boraron auctions, 'WTB cleric quest armor (gloves and arms)give tell.'
+[Tue May 08 21:41:27 2001] Shameful auctions, 'WTS Mithril 2 Hander. 3000pp CASH or trades'
+[Tue May 08 21:41:30 2001] Anirak auctions, 'WTS cone of mystic 5int 5wis 50mana 5ac'
+[Tue May 08 21:41:30 2001] You GMSAY, 'I remember'
+[Tue May 08 21:41:30 2001] Vallos auctions, 'WTS shinney metalic robe 10ac 9int 8CR 8FR 6k'
+[Tue May 08 21:41:32 2001] Anirak auctions, 'WTS polsihed obsidian axe 33/48 proc fear'
+[Tue May 08 21:41:32 2001] Vallos auctions, 'WTS Students Homework (rangeslot) 3int 15mana 10MR'
+[Tue May 08 21:41:34 2001] Anirak auctions, 'WTS wurmslayer'
+[Tue May 08 21:41:35 2001] Vallos auctions, 'WTS Impskin gloves 2ac 5int 10mana 3k'
+[Tue May 08 21:41:36 2001] Vallos auctions, 'WTS Froglok bonecasters robe 17k'
+[Tue May 08 21:41:39 2001] Vallos auctions, 'WTS runed cowl 9int 5 wis head piece 5k'
+[Tue May 08 21:41:39 2001] Bruus GMSAYS, 'all invasions above level 15 are not available currently :('
+[Tue May 08 21:41:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 21:41:42 2001] USER TEXT: narcomi sir could u send me a tell when u can.......i have a problem thanx
+[Tue May 08 21:41:42 2001] Players in EverQuest:
+[Tue May 08 21:41:42 2001] ---------------------------
+[Tue May 08 21:41:42 2001] [2 Warrior] Shortlegs (Dwarf) ZONE: freportw (USER PID AWFCP9U)
+[Tue May 08 21:41:42 2001] There is 1 player in EverQuest.
+[Tue May 08 21:41:43 2001] Eryndale GMSAYS, 'i dont. i want to do an invasion'
+[Tue May 08 21:41:43 2001] Lanlawen auctions, 'WTS sebilite scale gloves 12 ac +4 agi +4 int +2 sv disease +2 sv magic'
+[Tue May 08 21:41:51 2001] Ngoc GMSAYS, 'why not?'
+[Tue May 08 21:41:53 2001] You GMSAY, 'narcomi, this pet's for you'
+[Tue May 08 21:41:56 2001] STATUS UPGRADED TO URGENT
+[Tue May 08 21:41:56 2001] Mikol auctions, 'WTS Kodiak claws 7/30 magic look like wolverine claws'
+[Tue May 08 21:41:57 2001] Ngoc GMSAYS, 'what happened to the invasions?'
+[Tue May 08 21:41:58 2001] Gelini auctions, 'WTS 30 bone chips, lego pads, stack of bat wings'
+[Tue May 08 21:42:02 2001] Narcomi GMSAYS, 'k'
+[Tue May 08 21:42:03 2001] Quedan auctions, 'WTS Cone of the mystics, Golden Bracer, Black Sapphires, Spell Sunstrike'
+[Tue May 08 21:42:04 2001] Kigek auctions, 'WTS Large Banded BP 15pp'
+[Tue May 08 21:42:05 2001] You GMSAY, 'escalating Shortlegs for Narcomi'
+[Tue May 08 21:42:05 2001] Mikol auctions, 'WTS crystal fiber 8/26 magic either hand 75pp'
+[Tue May 08 21:42:06 2001] Kigek auctions, 'WTS Grizzly Bear Skin'
+[Tue May 08 21:42:06 2001] CHECKING IN
+[Tue May 08 21:42:18 2001] Juicebox shouts, 'PC on Ulthork Hide Boots'
+[Tue May 08 21:42:23 2001] Deemon auctions, 'WTS Crystalline Eye +30hp +30mana +10svm +10svf +10svc secondary | Icetooth's Claw 11dmg 29dly 1hs | Fine Plate Greaves 12ac Gauntles 10ac Bracer 9ac | Silver-Plated Bracer 7ac +5svp +5svd'
+[Tue May 08 21:42:23 2001] Boraron auctions, 'WTB + WIS ring and earrings. give tell'
+[Tue May 08 21:42:25 2001] Albo auctions, 'WTS or trade a Forest Loop'
+[Tue May 08 21:42:26 2001] Boraron auctions, 'WTB cleric quest armor (gloves and arms)give tell.'
+[Tue May 08 21:42:27 2001] Gwyld begins to cast a spell. (Snare)
+[Tue May 08 21:42:28 2001] Logancreed auctions, 'WTS Cloak of the Rygorr Oracle - Ac6 Int2 Wis2 Mana10 Cr10 Mr5 - all/all - 1500pp or best offer'
+[Tue May 08 21:42:30 2001] Aaral auctions, 'want to buy a molten claok'
+[Tue May 08 21:42:30 2001] Hidious auctions, 'WTB FS LEGS or close send tells plz'
+[Tue May 08 21:42:32 2001] Lanlawen auctions, 'WTS sebilite scale gloves 12 ac +4 agi +4 int +2 sv disease +2 sv magic'
+[Tue May 08 21:42:32 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:42:33 2001] Prien auctions, 'WTB SoS, IFS or tranquil staff'
+[Tue May 08 21:42:33 2001] Linamar auctions, 'WTS Full lset of Banded armor'
+[Tue May 08 21:42:35 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:42:35 2001] Logancreed auctions, 'WTS Velium Round Shield - Ac15 Cr10'
+[Tue May 08 21:42:36 2001] Gwyld begins to cast a spell. (Flame Lick)
+[Tue May 08 21:42:37 2001] A giant spider is surrounded by flickering flames.
+[Tue May 08 21:42:43 2001] Velsaron auctions, 'WTT Velium War hammer for Velium Staff or another good staff a wizard can use send tells please..'
+[Tue May 08 21:42:45 2001] Sicero auctions, 'WTB Ivy Etched Armor'
+[Tue May 08 21:42:47 2001] Gamof auctions, '**BUYING** Blue Diamonds, Ravenscale Armor'
+[Tue May 08 21:42:50 2001] Lanlawen auctions, 'WTS sebilite scale gloves 12 ac +4 agi +4 int +2 sv disease +2 sv magic'
+[Tue May 08 21:42:51 2001] Wediel says out of character, 'wtb gamofs arse'
+[Tue May 08 21:42:54 2001] Deemon auctions, 'WTS Crystalline Eye +30hp +30mana +10svm +10svf +10svc secondary | Icetooth's Claw 11dmg 29dly 1hs | Fine Plate Greaves 12ac Gauntles 10ac Bracer 9ac | Silver-Plated Bracer 7ac +5svp +5svd | Bronze Collar 6ac'
+[Tue May 08 21:42:57 2001] You GMSAY, 'I was actually in the zone when a GM event started the other week (on my play server) - I was so excited! My first! Of course I couldn't take part...'
+[Tue May 08 21:42:59 2001] Gamof says out of character, '!'
+[Tue May 08 21:43:00 2001] Aphotic auctions, 'WTS Mace of the shadowed soul 19 29 10int SK only'
+[Tue May 08 21:43:02 2001] Samoht auctions, '<BUYING> Sebilite Scale Boots or Sentry Boots'
+[Tue May 08 21:43:04 2001] Labien auctions, 'WTS essence of dol ONLY 600pp || Crystaline belt 1200pp'
+[Tue May 08 21:43:04 2001] Kogbender shouts, 'PC onUlthrok hide head peice'
+[Tue May 08 21:43:09 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:43:10 2001] Albo auctions, 'WTS Forest Loop or trade for mage or warior stuff'
+[Tue May 08 21:43:12 2001] Kigek auctions, 'WTS Grizzly Bear Skin'
+[Tue May 08 21:43:14 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:43:17 2001] Balthamael auctions, 'WTB creasted mm shield'
+[Tue May 08 21:43:20 2001] Xebariz auctions, 'WTS Iron Bound Tome, 7/38, +6 AC, +5 Mana, +5 Magic/Fire Resistance, Effect:Cancel Magic ---500pp'
+[Tue May 08 21:43:25 2001] Shameful auctions, 'WTS Mithril 2 Hander. 3000pp CASH or trades'
+[Tue May 08 21:43:30 2001] Narcomi GMSAYS, 'zoning'
+[Tue May 08 21:43:33 2001] Linara auctions, 'WTS runed bone fork (+10 sv magic, +10 sv fire, +10 sv cold for range slot). war, rng, shd, brd, rog. 700pp.'
+[Tue May 08 21:43:39 2001] Narcomi GMSAYS, 'no im not'
+[Tue May 08 21:43:40 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:43:43 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:43:47 2001] Lanlawen auctions, 'WTS sebilite scale gloves 12 ac +4 agi +4 int +2 sv disease +2 sv magic'
+[Tue May 08 21:43:49 2001] Griftar tells you, 'well i wanted to ask a 50 rogue a question but seems your only one on 8P'
+[Tue May 08 21:43:51 2001] Xebariz auctions, 'WTS Stone Thunder, 10/34 ---250pp'
+[Tue May 08 21:43:54 2001] Albo auctions, 'WTS Forest Loop or trade for mage or warior stuff'
+[Tue May 08 21:44:02 2001] Balthamael auctions, 'WTB creasted mm shield'
+[Tue May 08 21:44:09 2001] Mucmuc auctions, 'WTS Splitpaw gloves AC dex and wis 9pp'
+[Tue May 08 21:44:10 2001] Linara auctions, 'WTS singing steel vambraces'
+[Tue May 08 21:44:10 2001] Kigek auctions, 'WTS Grizzly Bear Skin'
+[Tue May 08 21:44:11 2001] Samoht auctions, '<BUYING> Sebilite Scale Boots or Sentry Boots'
+[Tue May 08 21:44:11 2001] Eryndale GMSAYS, 'can i go and look at a spell someone says they bought for a lvl 61. and class none? it is smite'
+[Tue May 08 21:44:12 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:44:15 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:44:15 2001] You told Griftar, 'well, I'm probably not allowed to answer it! What's your question?'
+[Tue May 08 21:44:20 2001] Narcomi GMSAYS, 'lakeofillomen went down right?'
+[Tue May 08 21:44:22 2001] Xebariz auctions, 'WTS Bamboo Silvered Fire Emerald Ring, +3 Dex/Str ---160pp'
+[Tue May 08 21:44:26 2001] Boraron auctions, 'WTB cleric quest armor (gloves and arms)give tell.'
+[Tue May 08 21:44:28 2001] Boraron auctions, 'WTB pal vel spell wave of healing & divine strength'
+[Tue May 08 21:44:29 2001] Juicebox auctions, 'WTB Ravenscale armour, legs or arms... pls send tells'
+[Tue May 08 21:44:30 2001] Boraron auctions, 'WTB + WIS ring and earrings. give tell'
+[Tue May 08 21:44:33 2001] You GMSAY, 'what class are they?'
+[Tue May 08 21:44:34 2001] Griftar tells you, 'your not allowed to answer it 8) its on a skill cap'
+[Tue May 08 21:44:36 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:44:37 2001] Ngoc GMSAYS, 'hehe'
+[Tue May 08 21:44:37 2001] Kigek auctions, 'WTS Large Banded BP 15pp'
+[Tue May 08 21:44:37 2001] Velsaron auctions, 'WTT Velium War hammer for Velium Staff or another good staff a wizard can use send tells please..'
+[Tue May 08 21:44:40 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:44:41 2001] Lanlawen auctions, 'WTS sebilite scale gloves 12 ac +4 agi +4 int +2 sv disease +2 sv magic'
+[Tue May 08 21:44:42 2001] Balthamael auctions, 'WTB creasted mm shield'
+[Tue May 08 21:44:42 2001] Logancreed auctions, 'WTS Cloak of the Rygorr Oracle - Ac6 Int2 Wis2 Mana10 Cr10 Mr5 - all/all - 1500pp or best offer'
+[Tue May 08 21:44:44 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:44:44 2001] Ngoc GMSAYS, 'I thought smite was a low level spell'
+[Tue May 08 21:44:44 2001] Logancreed auctions, 'WTS Velium Round Shield - Ac15 Cr10'
+[Tue May 08 21:44:46 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:44:47 2001] Kigek auctions, 'WTS Grizzly Bear Skin'
+[Tue May 08 21:44:51 2001] Albo auctions, 'WTS Forest Loop or trade for mage or warior stuff... WTS/T PGT.... wts bronze girdle'
+[Tue May 08 21:44:51 2001] You GMSAY, 'it is, like a 14 cleric spell'
+[Tue May 08 21:44:52 2001] Tharkis auctions, 'WTS Scorched Pauldron, large race only +10 Sta shoulder slot.  Silvery Plate Bracer, Woe and Envy (Necro, Rog, Warrior, SK), Runed Circlet +4 Wis Int AC4, Crystal Fiber'
+[Tue May 08 21:44:52 2001] Deemon auctions, 'WTS Crystalline Eye +30hp +30mana +10svm +10svf +10svc secondary | Icetooth's Claw 11dmg 29dly 1hs | Fine Plate Greaves 12ac Gauntles 10ac Bracer 9ac | Silver-Plated Bracer 7ac +5svp +5svd | Bronze Collar 6ac'
+[Tue May 08 21:44:54 2001] Kigek auctions, 'WTS Large Banded BP 15pp'
+[Tue May 08 21:44:55 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:44:58 2001] Eryndale GMSAYS, 'enchanter. i am going to take a look at it. zoning'
+[Tue May 08 21:44:59 2001] Narcomi GMSAYS, 'zoning'
+[Tue May 08 21:45:01 2001] Bruus GMSAYS, 'hehe smnite is a cleric spell and a low level one all spells not usable by the class read as level 61 and class none'
+[Tue May 08 21:45:02 2001] Lanlawen auctions, 'WTS sebilite scale gloves 12 ac +4 agi +4 int +2 sv disease +2 sv magic'
+[Tue May 08 21:45:11 2001] Samoht auctions, '<BUYING> Sebilite Scale Boots or Sentry Boots'
+[Tue May 08 21:45:12 2001] Shameful auctions, 'WTS Mace of Shadowed Soul. 5000pp CASH or trades.'
+[Tue May 08 21:45:13 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:45:14 2001] Eryndale GMSAYS, 'oh. hehe ok'
+[Tue May 08 21:45:14 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:45:15 2001] Labien auctions, 'WTS essence of dol ONLY 600pp || Crystaline belt 1200pp'
+[Tue May 08 21:45:16 2001] Tharkis auctions, 'WTS Scorched Pauldron, large race only +10 Sta shoulder slot.  Silver-plated Bracer, Woe and Envy (Necro, Rog, Warrior, SK), Runed Circlet +4 Wis Int AC4, Crystal Fiber'
+[Tue May 08 21:45:18 2001] You told Griftar, 'nope, probably can't.'
+[Tue May 08 21:45:24 2001] Kigek auctions, 'WTS Obsidian Bead Hoop 2ac 3int 3agi'
+[Tue May 08 21:45:26 2001] Albo auctions, 'WTS Forest Loop or trade for mage or warior stuff... WTS/T PGT.... wts small bronze girdle'
+[Tue May 08 21:45:26 2001] Kigek auctions, 'WTB Large Bronze Sleeves'
+[Tue May 08 21:45:28 2001] Kigek auctions, 'WTS Kodiak Claws 7dmg 30del'
+[Tue May 08 21:45:32 2001] Vallos auctions, 'WTS Adamantite Epaulets 9ac 7wis'
+[Tue May 08 21:45:34 2001] Vallos auctions, 'WTT WTB Bloodpoint, or Lamentation'
+[Tue May 08 21:45:36 2001] You GMSAY, 'zone'
+[Tue May 08 21:45:41 2001] LOADING, PLEASE WAIT...
+[Tue May 08 21:46:17 2001] a sabertooth tiger died.
+[Tue May 08 21:46:18 2001] You have entered Lake of Ill Omen.
+[Tue May 08 21:46:28 2001] You GMSAY, 'lake of ill omen is up'
+[Tue May 08 21:46:37 2001] Narcomi GMSAYS, 'did it crash with the rest of them?'
+[Tue May 08 21:46:43 2001] Narcomi GMSAYS, 'was it one of the zones that went down?'
+[Tue May 08 21:46:44 2001] You GMSAY, 'wasn't on the list'
+[Tue May 08 21:46:45 2001] Bruus GMSAYS, 'wait I am wrong dammit maybe look into it a bit more eryn and I will come seetoo'
+[Tue May 08 21:46:53 2001] Prindan shouts, 'lvl 24 druid lfg'
+[Tue May 08 21:47:02 2001] You GMSAY, 'we can't look at player items'
+[Tue May 08 21:47:06 2001] You GMSAY, 'get a GM'
+[Tue May 08 21:47:08 2001] Bruus GMSAYS, 'and tell them I apologize for maybe steering you wrong'
+[Tue May 08 21:47:18 2001] Ngoc GMSAYS, 'if a class can't use it, then it will say CANNOT USE on it'
+[Tue May 08 21:47:24 2001] Bruus GMSAYS, 'ahh thanks esp :)'
+[Tue May 08 21:47:25 2001] Eryndale GMSAYS, 'zone'
+[Tue May 08 21:47:30 2001] You GMSAY, 'there was a Developer's Corner thing about it'
+[Tue May 08 21:47:38 2001] You GMSAY, 'apparently some do not say CANNOT USE'
+[Tue May 08 21:47:51 2001] Ngoc GMSAYS, 'yeah....those weird few'
+[Tue May 08 21:48:13 2001] Ngoc GMSAYS, 'you guys know that the Rat ear pie recipe is not working?'
+[Tue May 08 21:48:20 2001] Ngoc GMSAYS, 'the one for the quest'
+[Tue May 08 21:48:24 2001] You GMSAY, 'dang, and I was hungry too.'
+[Tue May 08 21:48:30 2001] You GMSAY, 'when did it stop working?'
+[Tue May 08 21:48:49 2001] Shoull says out of character, '25 druid LFG'
+[Tue May 08 21:48:52 2001] Ngoc GMSAYS, 'don't now...but it wasn't working Sunday'
+[Tue May 08 21:49:02 2001] Ngoc GMSAYS, 'maybe they fixed it with this patch, but I doubt it'
+[Tue May 08 21:49:07 2001] You GMSAY, 'never tried it, I just killed Vin Moltor...'
+[Tue May 08 21:49:09 2001] Rycerz shouts, 'lvl 29 pally LFG'
+[Tue May 08 21:49:34 2001] Narcomi GMSAYS, 'im going to log'
+[Tue May 08 21:49:35 2001] Ngoc GMSAYS, 'hehe...'
+[Tue May 08 21:49:36 2001] Bruus GMSAYS, 'Poor Vin Moltor what he do to you boohoohooo'
+[Tue May 08 21:49:38 2001] Shoull says out of character, '25 druid LFG'
+[Tue May 08 21:49:39 2001] Narcomi GMSAYS, 'nite nite =)'
+[Tue May 08 21:49:43 2001] You GMSAY, 'he acted all huffity'
+[Tue May 08 21:49:48 2001] Bruus GMSAYS, 'LOL'
+[Tue May 08 21:49:48 2001] You GMSAY, 'Night, Narc!'
+[Tue May 08 21:50:04 2001] Ngoc GMSAYS, 'night Narc'
+[Tue May 08 21:50:09 2001] You GMSAY, 'putting on airs and living in a sewer! well, I just had to kill him.'
+[Tue May 08 21:50:12 2001] Ngoc GMSAYS, 'ok...let's do a quest'
+[Tue May 08 21:50:28 2001] Ngoc GMSAYS, 'I want to do the toll bridge one'
+[Tue May 08 21:50:33 2001] You GMSAY, 'get a GM'
+[Tue May 08 21:50:42 2001] Eryndale GMSAYS, 'i want to do a quest!!!!!!'
+[Tue May 08 21:51:03 2001] You GMSAY, 'we don't even have a senior to do becomes...'
+[Tue May 08 21:51:14 2001] Shoull says out of character, '25 druid LFG'
+[Tue May 08 21:51:22 2001] Expyr shouts, 'ledge is camped'
+[Tue May 08 21:51:58 2001] Shoull says out of character, '25 druid LFG'
+[Tue May 08 21:52:01 2001] Grangor auctions, 'WTB Small Bronze armor | WTS Giant Tree Flayer'
+[Tue May 08 21:52:20 2001] Itchiie shouts, 'any sarnak groups out there want a cleric?'
+[Tue May 08 21:52:21 2001] Stejas auctions, 'WTS words of allure and enlightenment '
+[Tue May 08 21:52:27 2001] Itchiie auctions, 'WTB Words Dominion|Dimension|Transcendence|Coersion'
+[Tue May 08 21:52:31 2001] Itchiie auctions, 'WTB Face, Legs and Feet for 21cleric.  100-200pp range'
+[Tue May 08 21:52:57 2001] Teleporting to a_bloodgill_goblin00.
+[Tue May 08 21:52:58 2001] Grevyth begins to cast a spell. (Torbas Acid Blast)
+[Tue May 08 21:53:06 2001] Grevyth begins to cast a spell. (Torbas Acid Blast)
+[Tue May 08 21:53:10 2001] Teleporting to a_bloodgill_goblin01.
+[Tue May 08 21:53:13 2001] a bloodgill goblin has been slain by Synesis!
+[Tue May 08 21:53:19 2001] Teleporting to a_bloodgill_goblin01.
+[Tue May 08 21:53:20 2001] You feel as if you are about to fall.
+[Tue May 08 21:53:22 2001] Teleporting to a_bloodgill_goblin02.
+[Tue May 08 21:53:22 2001] You can no longer levitate.
+[Tue May 08 21:53:23 2001] Bagwell shouts, 'WM group looking for a tank 17-21'
+[Tue May 08 21:53:30 2001] Teleporting to a_bloodgill_goblin03.
+[Tue May 08 21:53:38 2001] Teleporting to a_bloodgill_goblin04.
+[Tue May 08 21:53:40 2001] Teleporting to a_bloodgill_goblin05.
+[Tue May 08 21:53:47 2001] Teleporting to a_bloodgill_goblin06.
+[Tue May 08 21:53:50 2001] Teleporting to a_bloodgill_goblin07.
+[Tue May 08 21:53:52 2001] Teleporting to a_bloodgill_goblin08.
+[Tue May 08 21:53:59 2001] You no longer have a target.
+[Tue May 08 21:54:02 2001] You feel the spirit of Norrath enter you.
+[Tue May 08 21:54:03 2001] Your feet leave the ground.
+[Tue May 08 21:54:16 2001] Eryndale GMSAYS, '<bad name> jonbonjovi  aq9743b'
+[Tue May 08 21:54:29 2001] You GMSAY, 'someone should tell his mom.'
+[Tue May 08 21:54:30 2001] Grevyth begins to cast a spell. (Torbas Acid Blast)
+[Tue May 08 21:55:05 2001] Teleporting to Astral_Projection00 (-806.00, -541.00,  79.24).
+[Tue May 08 21:55:10 2001] Astral Projection says 'Welcome to my shop Espranza'
+[Tue May 08 21:55:13 2001] You no longer have a target.
+[Tue May 08 21:55:13 2001] Espranza saved.
+[Tue May 08 21:55:35 2001] Players in EverQuest:
+[Tue May 08 21:55:35 2001] ---------------------------
+[Tue May 08 21:55:35 2001] [ANON (23 Druid)] Kaelynn (Wood Elf) ZONE: highkeep (USER PID AU4L0TZ)
+[Tue May 08 21:55:35 2001] [52 Elementalist] Sussie (High Elf) <Unbroken Power> ZONE: kael (USER PID AU9B8DE)
+[Tue May 08 21:55:35 2001] [52 Elementalist] Babdabus (Gnome) <Unbroken Power> ZONE: kael (USER PID ARYAVKZ)
+[Tue May 08 21:55:35 2001] [51 Vicar] Rietveld (High Elf) <Unbroken Power> ZONE: kael (USER PID AR8NZR1)
+[Tue May 08 21:55:35 2001] [54 Cavalier] Colladil (Human) <Unbroken Power> ZONE: kael (USER PID AX3KXNQ)
+[Tue May 08 21:55:35 2001] [51 Elementalist] Willam (High Elf) <Elder Spirits> ZONE: kael (USER PID ANN25KV)
+[Tue May 08 21:55:35 2001] [53 Wanderer] Emiliee (Human) <Protectors of Lore> ZONE: kael (USER PID AYNZ41H)
+[Tue May 08 21:55:35 2001] [52 Cavalier] Daeadin (Human) <Unbroken Power> ZONE: kael (USER PID ARQGRE5)
+[Tue May 08 21:55:35 2001] [54 Elementalist] Dollaan (Human) <Unbroken Power> ZONE: kael (USER PID ATNS92A)
+[Tue May 08 21:55:35 2001] [44 Warrior] Hanoken (Dwarf) <Unbroken Power> ZONE: kael (USER PID AYE80DB)
+[Tue May 08 21:55:35 2001] There are 10 players in EverQuest.
+[Tue May 08 21:55:45 2001] You GMSAY, 'zone'
+[Tue May 08 21:55:49 2001] LOADING, PLEASE WAIT...
+[Tue May 08 21:56:17 2001] Dollaan says out of character, 'im a monk now'
+[Tue May 08 21:56:17 2001] Rietveld says out of character, 'lol'
+[Tue May 08 21:56:19 2001] You have entered Kael Drakkal.
+[Tue May 08 21:56:22 2001] Rietveld says out of character, 'where is my axe anyways'
+[Tue May 08 21:56:41 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 21:56:41 2001] USER TEXT: after completing one of the broodmother's quests in the great divide, she seems to have developed a fondness for a coldain tracking wolf and is following it around. Could you reset her so the next person who comes isn't frustrated?
+[Tue May 08 21:56:41 2001] Players in EverQuest:
+[Tue May 08 21:56:41 2001] ---------------------------
+[Tue May 08 21:56:41 2001] [ANON (55 Beguiler)] Grumpyz (Erudite) ZONE: greatdivide (USER PID APQF0S5)
+[Tue May 08 21:56:41 2001] There is 1 player in EverQuest.
+[Tue May 08 21:56:54 2001] Dollaan says out of character, 'was fun lets come here more often'
+[Tue May 08 21:56:56 2001] Sussie says out of character, 'stats on leggings'
+[Tue May 08 21:57:06 2001] You told Grumpyz, 'Hail, Grumpyz! Guide Espranza here. I'll go have a talk with her.'
+[Tue May 08 21:57:10 2001] Bruus GMSAYS, 'zone'
+[Tue May 08 21:57:11 2001] You GMSAY, 'zone'
+[Tue May 08 21:57:13 2001] Grumpyz tells you, 'Great, thanks!'
+[Tue May 08 21:57:16 2001] LOADING, PLEASE WAIT...
+[Tue May 08 21:57:48 2001] You have entered The Great Divide.
+[Tue May 08 21:58:02 2001] Searching for a_shardwurm_broodmother00.
+[Tue May 08 21:58:02 2001] Could not locate player with that name.
+[Tue May 08 21:58:23 2001] Sovin says out of character, 'im  ALWAYS nice,, well most always'
+[Tue May 08 21:58:27 2001] You told Grumpyz, 'are you near her now?'
+[Tue May 08 21:58:31 2001] Ralaan auctions, 'WTS Shardtooth's Flayed Skin 14ac 35HP 35mana. 2.5k'
+[Tue May 08 21:58:37 2001] Sovin says out of character, 'well sometimes'
+[Tue May 08 21:58:41 2001] Grumpyz tells you, 'I can see her... I can run over to her if you like.'
+[Tue May 08 21:58:49 2001] Teleporting to grumpyz.
+[Tue May 08 21:58:56 2001] Vermillon shouts, 'kodiak 2 needs a healer type and one other'
+[Tue May 08 21:58:58 2001] Grumpyz tells you, 'just a min, I'll give you the loc'
+[Tue May 08 21:59:02 2001] Caleisto says out of character, 'i remember how mean you were to me the last we met Sovin...'
+[Tue May 08 21:59:03 2001] You told Grumpyz, 'I'mhere, thanks!'
+[Tue May 08 21:59:09 2001] Grumpyz tells you, 'ah, there you are!'
+[Tue May 08 21:59:12 2001] Shardwurm broodmother blinks a few times.
+[Tue May 08 21:59:13 2001] You can't use that command right now...
+[Tue May 08 21:59:13 2001] Shardwurm broodmother blinks a few times.
+[Tue May 08 21:59:14 2001] You can't use that command right now...
+[Tue May 08 21:59:14 2001] Shardwurm broodmother blinks a few times.
+[Tue May 08 21:59:14 2001] You can't use that command right now...
+[Tue May 08 21:59:14 2001] Shardwurm broodmother blinks a few times.
+[Tue May 08 21:59:14 2001] You can't use that command right now...
+[Tue May 08 21:59:14 2001] You can't use that command right now...
+[Tue May 08 21:59:15 2001] Shardwurm broodmother blinks a few times.
+[Tue May 08 21:59:15 2001] Grumpyz welcomes Espranza warmly.
+[Tue May 08 21:59:16 2001] Bruus GMSAYS, 'zone '
+[Tue May 08 21:59:19 2001] Renren shouts, 'Caleisto, you always hold SUCH a grudge :)'
+[Tue May 08 21:59:19 2001] Vermillon says out of character, 'I'll spank him for you'
+[Tue May 08 21:59:26 2001] You told Grumpyz, 'well, that didn't work'
+[Tue May 08 21:59:30 2001] Pyronius shouts, 'Hey caleisto'
+[Tue May 08 21:59:31 2001] A coldain tracking wolf blinks a few times.
+[Tue May 08 21:59:31 2001] You can't use that command right now...
+[Tue May 08 21:59:31 2001] A coldain tracking wolf blinks a few times.
+[Tue May 08 21:59:32 2001] A coldain tracking wolf blinks a few times.
+[Tue May 08 21:59:32 2001] A coldain tracking wolf blinks a few times.
+[Tue May 08 21:59:32 2001] You can't use that command right now...
+[Tue May 08 21:59:32 2001] A coldain tracking wolf blinks a few times.
+[Tue May 08 21:59:33 2001] A coldain tracking wolf blinks a few times.
+[Tue May 08 21:59:33 2001] Sovin says out of character, 'mean??? me ??? nooo you have me confused Caleisto    OH WAIT'
+[Tue May 08 21:59:37 2001] You told Grumpyz, 'nor that'
+[Tue May 08 21:59:40 2001] Callun says out of character, 'hello renren'
+[Tue May 08 21:59:40 2001] Sovin says out of character, 'if i get a spanken for being bad'
+[Tue May 08 21:59:40 2001] Grumpyz tells you, 'from previous experience, her 'master' has to be killed.'
+[Tue May 08 21:59:44 2001] Sovin says out of character, 'forget being good'
+[Tue May 08 21:59:50 2001] You told Grumpyz, 'yeah, but then she'll poof, too'
+[Tue May 08 21:59:50 2001] Renren shouts, 'Hi, Callun!!'
+[Tue May 08 21:59:51 2001] Grumpyz tells you, 'I would kill it, but I like the coldain, and they like me =)'
+[Tue May 08 21:59:51 2001] Eryndale GMSAYS, '<note issue> Magikhan  AQQ62GH reports that he lost a watercrystal staff when kael crashed <confirmed>. will repetition on thursday'
+[Tue May 08 21:59:52 2001] Vermillon says out of character, 'spank spank'
+[Tue May 08 22:00:00 2001] You told Grumpyz, 'well, I guess there's no help for it...'
+[Tue May 08 22:00:07 2001] Grumpyz tells you, 'hmm... I saw 2 guides do it and she didn't..'
+[Tue May 08 22:00:13 2001] You GMSAY, 'killing a coldain tracking wolf, has shardwurm broodmum for a pet'
+[Tue May 08 22:00:17 2001] Killing a_coldain_tracking_wolf14.
+[Tue May 08 22:00:22 2001] Grumpyz tells you, 'there might be a trick... agro her, then kill the master or something'
+[Tue May 08 22:00:27 2001] You told Grumpyz, 'well, too late now'
+[Tue May 08 22:00:35 2001] Grumpyz tells you, 'well, at least she'll be back later for someone else =)'
+[Tue May 08 22:00:36 2001] You told Grumpyz, 'I killed the wolf and she poofed...'
+[Tue May 08 22:00:39 2001] You told Grumpyz, 'yup - thanks!'
+[Tue May 08 22:00:40 2001] Grumpyz tells you, 'yeah.'
+[Tue May 08 22:00:46 2001] Grumpyz tells you, 'thank you!'
+[Tue May 08 22:00:51 2001] You told Grumpyz, 'be well!'
+[Tue May 08 22:00:55 2001] DELETING THIS PETITION
+[Tue May 08 22:00:57 2001] Grumpyz tells you, 'you too. Good night!'
+[Tue May 08 22:01:03 2001] You GMSAY, 'zone'
+[Tue May 08 22:01:06 2001] LOADING, PLEASE WAIT...
+[Tue May 08 22:01:41 2001] You have entered Kael Drakkal.
+[Tue May 08 22:01:58 2001] Rietveld says out of character, 'in the ars'
+[Tue May 08 22:01:58 2001] Colladil says out of character, 'DL please if possible'
+[Tue May 08 22:02:07 2001] Dollaan says out of character, 'had fun all'
+[Tue May 08 22:02:16 2001] Dollaan says out of character, 'lets do this again real soon'
+[Tue May 08 22:02:23 2001] Rietveld says out of character, 'we giving up'
+[Tue May 08 22:02:28 2001] Eryndale GMSAYS, 'ok yall, i need to go. it is late. i had fun tonight. thanks yall. see you soon!!!'
+[Tue May 08 22:02:28 2001] Babdabus says out of character, 'Camping Brb'
+[Tue May 08 22:02:34 2001] You GMSAY, 'night Eryn!'
+[Tue May 08 22:02:36 2001] Dollaan says out of character, 'k anybody else need to camp?'
+[Tue May 08 22:02:40 2001] Dollaan says out of character, 'lets wait for them'
+[Tue May 08 22:02:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 22:02:43 2001] USER TEXT: i died from a spawn named kizdean gix in west commons after he groed on me, i ran to the befallen zone and when i got there instead of zoneing in i fell back out side of the opening in and kizdean still tryed to kill me and i was un able to zone
+[Tue May 08 22:02:43 2001] Players in EverQuest:
+[Tue May 08 22:02:43 2001] ---------------------------
+[Tue May 08 22:02:43 2001] [10 Druid] Blitt (Halfling) ZONE: freportw (USER PID AP24ASX)
+[Tue May 08 22:02:43 2001] There is 1 player in EverQuest.
+[Tue May 08 22:02:48 2001] Ngoc GMSAYS, 'night Eryn'
+[Tue May 08 22:02:53 2001] Bruus GMSAYS, 'zone'
+[Tue May 08 22:02:59 2001] Bruus GMSAYS, 'night eryn I wilil email you'
+[Tue May 08 22:02:59 2001] You GMSAY, 'zone'
+[Tue May 08 22:03:02 2001] LOADING, PLEASE WAIT...
+[Tue May 08 22:03:26 2001] Romancegray auctions, 'WTS SSOY 8/24 Effect Ykesha 1500pp'
+[Tue May 08 22:03:26 2001] Petitpas auctions, 'WTS Foreman Skull Cap Ac 8 Str 4 Dex Sta 2 Svc 10 '
+[Tue May 08 22:03:27 2001] You have entered West Commonlands.
+[Tue May 08 22:03:39 2001] LOADING, PLEASE WAIT...
+[Tue May 08 22:04:05 2001] Xandy auctions, 'WTS Foremans tunic 200pp, Spider fang choker 300pp, Bloodsteind fang 30pp, Tizmak leggings 20pp'
+[Tue May 08 22:04:05 2001] Xban shouts, '12 paladin lfg'
+[Tue May 08 22:04:05 2001] Shameful auctions, 'WTS Mithril 2 Hander. 3000pp CASH or trades'
+[Tue May 08 22:04:05 2001] Lanlawen auctions, 'WTS sebilite scale gloves 12 ac +4 agi +4 int +2 sv disease +2 sv magic\'
+[Tue May 08 22:04:06 2001] You have entered East Commonlands.
+[Tue May 08 22:04:11 2001] Aakiro auctions, 'WTS donals vambraces - (cleric only kunark armor), runic carver, kunzar cloak, helm of the rile, oracle robe'
+[Tue May 08 22:04:12 2001] Searching zones for corpse of that name....
+[Tue May 08 22:04:12 2001] Corpse: Blitt's corpse0 in zone: commons
+[Tue May 08 22:04:18 2001] Samoht auctions, '<BUYING> Sebilite Scale Boots or Sentry Boots'
+[Tue May 08 22:04:19 2001] You GMSAY, 'AGHH! REZONING!'
+[Tue May 08 22:04:20 2001] Mucmuc auctions, 'WTB 34 lvl necro pet spell'
+[Tue May 08 22:04:22 2001] Trint auctions, 'WTS Obsidian Bead Hoop - 2AC +3int +3agi'
+[Tue May 08 22:04:22 2001] Mucmuc auctions, 'WTB necro word SUFFERING'
+[Tue May 08 22:04:24 2001] LOADING, PLEASE WAIT...
+[Tue May 08 22:04:48 2001] You have entered West Commonlands.
+[Tue May 08 22:04:57 2001] Teleporting to blitt's corpse0.
+[Tue May 08 22:05:32 2001] USER TEXT: i died from a spawn named kizdean gix in west commons after he groed on me, i ran to the befallen zone and when i got there instead of zoneing in i fell back out side of the opening in and kizdean still tryed to kill me and i was un able to zone
+[Tue May 08 22:06:14 2001] Petitpas auctions, 'WTS Foreman Skull Cap Ac 8 Str 4 Dex Sta 2 Svc 10 '
+[Tue May 08 22:06:51 2001] A missed note brings Ziljin's song to a close!
+[Tue May 08 22:06:51 2001] Ziljin's song ends.
+[Tue May 08 22:06:52 2001] A missed note brings Ziljin's song to a close!
+[Tue May 08 22:06:53 2001] Ziljin's song ends.
+[Tue May 08 22:06:53 2001]  (Hymn of Restoration)
+[Tue May 08 22:06:59 2001] You told Blitt, 'Hail, Blitt! Guide Espranza here. Your body isn't at the zone... did you try to run away to escape Gix?'
+[Tue May 08 22:07:25 2001] Ziljin's song ends.
+[Tue May 08 22:07:25 2001] Ziljin's song ends.
+[Tue May 08 22:07:25 2001]  (Selo`s Accelerando)
+[Tue May 08 22:07:43 2001] Your protection fades.
+[Tue May 08 22:08:26 2001] Annatar auctions, 'wtb GLs'
+[Tue May 08 22:08:40 2001] Ngoc GMSAYS, 'holy cow...where did all these petitions come from?'
+[Tue May 08 22:08:41 2001] Players in EverQuest:
+[Tue May 08 22:08:41 2001] ---------------------------
+[Tue May 08 22:08:41 2001] [10 Druid] Blitt (Halfling) ZONE: commons (USER PID AP24ASX)
+[Tue May 08 22:08:41 2001] There is 1 player in EverQuest.
+[Tue May 08 22:08:47 2001] Teleporting to blitt.
+[Tue May 08 22:09:11 2001] You feel the spirit of Norrath enter you.
+[Tue May 08 22:09:11 2001] Your feet leave the ground.
+[Tue May 08 22:09:21 2001] Mouse control activated.  Use right mouse button.
+[Tue May 08 22:09:33 2001] Sippas shouts, 'buffing sowing for donations at druid ring for donations'
+[Tue May 08 22:10:08 2001] You told Blitt, 'Hail, Blitt! Guide Espranza here. Your body isn't at the zone... did you try to run away to escape Gix?'
+[Tue May 08 22:10:16 2001] Blitt tells you, 'yeah'
+[Tue May 08 22:10:21 2001] Blitt tells you, 'of corse'
+[Tue May 08 22:10:28 2001] Emperial tells you, 'can u answer my petition since u are close ?'
+[Tue May 08 22:10:31 2001] You told Blitt, ':) but you were behind the zone line?'
+[Tue May 08 22:10:40 2001] Blitt tells you, 'but every time i tryed to zone i fell froim the sky right out side of befallen'
+[Tue May 08 22:10:43 2001] You told Emperial, 'I'm working on another petition at the moment... is it an emergency?'
+[Tue May 08 22:10:51 2001] Blitt tells you, 'i should be i never zoned'
+[Tue May 08 22:10:54 2001] Teleporting to blitt's corpse0.
+[Tue May 08 22:11:03 2001] You told Blitt, 'try zoning now'
+[Tue May 08 22:11:11 2001] Emperial tells you, 'Heh to me it is and i dont understand what happend'
+[Tue May 08 22:11:18 2001] Searching zones for corpse of that name....
+[Tue May 08 22:11:18 2001] Corpse: Emperial's corpse0 in zone: kithicor
+[Tue May 08 22:11:28 2001] Players in EverQuest:
+[Tue May 08 22:11:28 2001] ---------------------------
+[Tue May 08 22:11:28 2001] [10 Druid] Blitt (Halfling) ZONE: befallen (USER PID AP24ASX)
+[Tue May 08 22:11:28 2001] There is 1 player in EverQuest.
+[Tue May 08 22:11:39 2001] Blitt tells you, 'well it worked now would have been cooler if it worked earlyer'
+[Tue May 08 22:11:39 2001] Willam says out of character, 'can we hit the mist please i have to bank'
+[Tue May 08 22:11:44 2001] Blitt tells you, 'zoning back'
+[Tue May 08 22:11:52 2001] You told Emperial, 'I'll get to your petition as soon as I can'
+[Tue May 08 22:11:53 2001] Petitpas auctions, 'WTS Foreman Skull Cap Ac 8 Str 4 Dex Sta 2 Svc 10 '
+[Tue May 08 22:11:58 2001] Emperial tells you, 'okay thx u'
+[Tue May 08 22:12:15 2001] Wasaabi auctions, 'Paw of Opalla'
+[Tue May 08 22:12:23 2001] Blitt tells you, 'what do you think happened'
+[Tue May 08 22:12:37 2001] Blitt is looking at your equipment...
+[Tue May 08 22:12:38 2001] You told Blitt, 'No idea... I was hoping whatever had happened would still be happening...'
+[Tue May 08 22:12:57 2001] Blitt tells you, 'well i wish i had normally zoned'
+[Tue May 08 22:13:09 2001] You told Blitt, 'that would have been best'
+[Tue May 08 22:13:24 2001] You told Blitt, 'but without any idea what happened, I cannot rez. I'm sorry.'
+[Tue May 08 22:13:32 2001] DELETING THIS PETITION
+[Tue May 08 22:13:33 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 22:13:34 2001] USER TEXT: I just lost a week worth of exp and i was meming spells when cleric caster rez on me... I guess i did not hit yes in time and now it wont let me get rezzed what do i do ?
+[Tue May 08 22:13:34 2001] Players in EverQuest:
+[Tue May 08 22:13:34 2001] ---------------------------
+[Tue May 08 22:13:34 2001] [31 Paladin] Emperial (Half Elf) <Magic Masters> ZONE: kithicor (USER PID ARTWWH7)
+[Tue May 08 22:13:34 2001] There is 1 player in EverQuest.
+[Tue May 08 22:13:35 2001] Blitt is looking at your equipment...
+[Tue May 08 22:13:36 2001] Gamof auctions, '**BUYING** Blue Diamonds, Ravenscale Armor'
+[Tue May 08 22:13:52 2001] Blitt tells you, 'well hmm'
+[Tue May 08 22:13:59 2001] Blitt tells you, 'thats even worse'
+[Tue May 08 22:14:08 2001] You told Emperial, 'Hail, Emperial! Guide Espranza here. The cleric didn't ask you if you were ready for a rez?'
+[Tue May 08 22:14:16 2001] Emperial tells you, 'no'
+[Tue May 08 22:14:30 2001] USER TEXT: I just lost a week worth of exp and i was meming spells when cleric caster rez on me... I guess i did not hit yes in time and now it wont let me get rezzed what do i do ?
+[Tue May 08 22:14:32 2001] Emperial tells you, 'he just zoned in and casted it'
+[Tue May 08 22:14:39 2001] Emperial tells you, 'and i was memming spells from death'
+[Tue May 08 22:14:49 2001] You told Emperial, 'what happens when someone tries to rez you now?'
+[Tue May 08 22:14:53 2001] Blitt tells you, 'mabe it was the mob would that make any sence'
+[Tue May 08 22:15:02 2001] Emperial tells you, 'its says i can not be rezzed more then once'
+[Tue May 08 22:15:18 2001] Espranza saved.
+[Tue May 08 22:15:25 2001] You told Blitt, 'I don't think so... how much health did you have when you tried to zone?'
+[Tue May 08 22:15:32 2001] Blitt tells you, 'half'
+[Tue May 08 22:15:41 2001] Blitt tells you, 'i tryed like twice there were people arround'
+[Tue May 08 22:15:49 2001] You told Emperial, 'then I doubt I can help... my rez has the same restrictions...'
+[Tue May 08 22:15:52 2001] Collynp auctions, 'WTS Topaz'
+[Tue May 08 22:15:54 2001] Emerest says out of character, 'Who or what is Kizdean Gix?'
+[Tue May 08 22:15:54 2001] Collynp auctions, 'WTS 2 light stones '
+[Tue May 08 22:15:59 2001] Blitt tells you, 'some like halfelf guy or somthen '
+[Tue May 08 22:16:01 2001] Gamof auctions, '**BUYING** Blue Diamonds, Ravenscale Armor'
+[Tue May 08 22:16:03 2001] Gamof auctions, '**BUYING** Sebilite Scale Legs OR Ry`Gorr Legs'
+[Tue May 08 22:16:07 2001] Emperial tells you, 'can u atleast try see what happends please...'
+[Tue May 08 22:16:14 2001] Caramia auctions, 'WTB hi quality bear skins/pelts, 15 pp'
+[Tue May 08 22:16:17 2001] Caramia auctions, 'WTB gls, 7 pp and a valor buff...'
+[Tue May 08 22:16:19 2001] Emperial tells you, 'its a week worth of exp'
+[Tue May 08 22:16:24 2001] Ngoc GMSAYS, 'ok..I have to log...getting too sleepy...night all'
+[Tue May 08 22:16:24 2001] Emperial tells you, 'heh i will pay you =P'
+[Tue May 08 22:16:32 2001] You told Emperial, 'heh you can't pay me'
+[Tue May 08 22:16:34 2001] Caramia auctions, 'WTB silk swatches, 1 pp ea.'
+[Tue May 08 22:16:37 2001] You GMSAY, 'night Ngoc!'
+[Tue May 08 22:16:38 2001] Players in EverQuest:
+[Tue May 08 22:16:38 2001] ---------------------------
+[Tue May 08 22:16:38 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: commons (USER PID AUGBQH4)
+[Tue May 08 22:16:38 2001] * Guide *[50 Shaman] Ngoc (Ogre) <Keepers of Morell Thule> ZONE: fieldofbone (USER PID AUGBDWQ)
+[Tue May 08 22:16:38 2001] * Guide *[50 Shadow Knight] Bruus (Troll) <Keepers of Morell Thule> ZONE: cshome (USER PID AU7FMX4)
+[Tue May 08 22:16:38 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AT6J632)
+[Tue May 08 22:16:38 2001] There are 4 players in EverQuest.
+[Tue May 08 22:16:57 2001] Blitt tells you, 'what should i do?'
+[Tue May 08 22:16:59 2001] You told Blitt, 'So you weren't really low on hits either...'
+[Tue May 08 22:17:02 2001] Emperial tells you, 'its not fair that Gamof a 54 cleric casted when i was not ready so i lose on a week'
+[Tue May 08 22:17:08 2001] Bruus GMSAYS, 'night'
+[Tue May 08 22:17:14 2001] Blitt tells you, 'oh heck no he was barly out side the zone'
+[Tue May 08 22:17:16 2001] You told Blitt, 'All I can suggest is either find someone to give you a rez, or just loot and move on...'
+[Tue May 08 22:17:25 2001] Blitt tells you, 'i wasnt able to zone several times'
+[Tue May 08 22:17:48 2001] Blitt tells you, 'well thats really lame but alright i guess'
+[Tue May 08 22:17:48 2001] You told Blitt, 'I believe you, but the rules I have to follow insist that I can independently verify what happened'
+[Tue May 08 22:18:16 2001] You told Blitt, 'be well! and best of luck!'
+[Tue May 08 22:18:19 2001] Emperial tells you, 'you still there ?'
+[Tue May 08 22:18:29 2001] You told Emperial, 'yes, sorry... people keep sending me tells.'
+[Tue May 08 22:18:39 2001] Grymwar shouts, 'derve group LF healer type. '
+[Tue May 08 22:18:49 2001] Emperial tells you, 'Can u try maybe the restriction is only to that one cleric'
+[Tue May 08 22:19:01 2001] Caramia auctions, 'WTB hi quality bear skins/pelts, 15 pp'
+[Tue May 08 22:19:03 2001] Caramia auctions, 'WTB gls, 7 pp and a valor buff...'
+[Tue May 08 22:19:07 2001] Emperial tells you, 'Caus eim sure EQ is smart enough to figure that something like this would happen'
+[Tue May 08 22:19:30 2001] You told Emperial, 'let me go look at your corpse'
+[Tue May 08 22:19:34 2001] Fanlain raises an eyebrow at Eglath.
+[Tue May 08 22:19:35 2001] Emperial tells you, 'okay'
+[Tue May 08 22:19:40 2001] You GMSAY, 'zoning'
+[Tue May 08 22:19:49 2001] LOADING, PLEASE WAIT...
+[Tue May 08 22:20:15 2001] You have entered Kithicor Woods.
+[Tue May 08 22:20:23 2001] Emperial waves at Espranza.
+[Tue May 08 22:20:42 2001] You told Emperial, 'now, the way I understand it, you can be rezzed until you accept one... '
+[Tue May 08 22:20:48 2001] You told Emperial, 'but we'll try...'
+[Tue May 08 22:21:08 2001] You GMSAY, 'can someone do an inquire for me?'
+[Tue May 08 22:21:10 2001] Emperial tells you, 'okay wel gamof tried again and he said My corpse cant be ressed twice'
+[Tue May 08 22:21:16 2001] You told Emperial, 'sec... have to check on something...'
+[Tue May 08 22:21:19 2001] Bruus GMSAYS, 'yup'
+[Tue May 08 22:21:21 2001] Emperial tells you, 'trying is good okay'
+[Tue May 08 22:21:28 2001] Bruus GMSAYS, 'go ahead'
+[Tue May 08 22:21:31 2001] You feel as if you are about to fall.
+[Tue May 08 22:21:34 2001] You GMSAY, 'okay, inquire Emperial ARTWWH7'
+[Tue May 08 22:21:37 2001] You feel as if you are about to fall.
+[Tue May 08 22:21:44 2001] You can no longer levitate.
+[Tue May 08 22:22:30 2001] Sosumptu begins to cast a spell. (Invisibility versus Undead)
+[Tue May 08 22:22:34 2001] Sosumptu fades a little.
+[Tue May 08 22:22:38 2001] You told Emperial, 'just checking your records...'
+[Tue May 08 22:22:49 2001] Emperial tells you, 'okay'
+[Tue May 08 22:22:53 2001] You GMSAY, 'anything on him?'
+[Tue May 08 22:23:01 2001] You GMSAY, 'don't want to be scammed out of a rez'
+[Tue May 08 22:23:08 2001] Emperial tells you, 'Records on what gamofs attempt ?'
+[Tue May 08 22:23:21 2001] Bruus GMSAYS, 'ok On aug 20 2000 his character was rebuilt after last patch disaster by Ashlanne.'
+[Tue May 08 22:23:24 2001] Bruus GMSAYS, 'more'
+[Tue May 08 22:23:28 2001] You told Emperial, 'sec'
+[Tue May 08 22:23:31 2001] Emperial tells you, 'k'
+[Tue May 08 22:23:56 2001] You GMSAY, 'nothing bad though?'
+[Tue May 08 22:24:07 2001] Bruus GMSAYS, 'on Jan 19 this year player was reimbursed silver plated legs and crested helm for account problems again.  And nope no negative items'
+[Tue May 08 22:24:12 2001] You GMSAY, 'okay'
+[Tue May 08 22:24:18 2001] You told Emperial, 'okay, let's try'
+[Tue May 08 22:24:20 2001] You were unable to restore the corpse to life, but you may have success with a later attempt.
+[Tue May 08 22:24:20 2001] Emperial tells you, 'ok'
+[Tue May 08 22:24:29 2001] You told Emperial, 'nope, didn't work for me either'
+[Tue May 08 22:24:36 2001] Bruus GMSAYS, 'Lirus's is listed as a warning though and not a note'
+[Tue May 08 22:24:39 2001] Emperial tells you, '*cries*'
+[Tue May 08 22:24:43 2001] You sigh at Emperial.
+[Tue May 08 22:24:47 2001] Emperial tells you, 'what can possibly be wrong ?'
+[Tue May 08 22:24:47 2001] You comfort Emperial.
+[Tue May 08 22:25:13 2001] You told Emperial, 'The cleric should have warned you about the rez first'
+[Tue May 08 22:25:23 2001] Emperial tells you, 'So u mean I can make a cleric a level 60 dies loses his level i rez him with out him knowing and he will never get his exp back ?'
+[Tue May 08 22:26:04 2001] Emperial tells you, 'this is a bunch of crap eh ?'
+[Tue May 08 22:26:07 2001] You told Emperial, 'I know that if you have the inventory screen or the book up, you can miss the message'
+[Tue May 08 22:26:11 2001] Emperial tells you, 'this cant be right'
+[Tue May 08 22:26:22 2001] Pynkyand says, 'all hail the brave and mighty espranza'
+[Tue May 08 22:26:26 2001] Emperial tells you, 'yeah iw as memming spells'
+[Tue May 08 22:26:26 2001] You told Emperial, 'that's why usually clerics ask people to get ready before they give a rez'
+[Tue May 08 22:26:29 2001] Pynkyand bows before Espranza.
+[Tue May 08 22:26:29 2001] Brane says, 'Doing a great job... keep it up Espranza'
+[Tue May 08 22:26:32 2001] Brane bows before Espranza.
+[Tue May 08 22:26:33 2001] You say, 'thank you!'
+[Tue May 08 22:26:35 2001] You no longer have a target.
+[Tue May 08 22:26:36 2001] Brane says, 'later'
+[Tue May 08 22:26:38 2001] You wave.
+[Tue May 08 22:26:54 2001] Emperial tells you, 'THIS IS SO STUPID'
+[Tue May 08 22:27:01 2001] You told Emperial, 'it's happened to me; lost a rez at 52 in Fear.'
+[Tue May 08 22:27:01 2001] Emperial tells you, 'why does the bad stuff always happend to em'
+[Tue May 08 22:27:10 2001] You told Emperial, 'I'm sorry - I did try...'
+[Tue May 08 22:27:19 2001] You told Emperial, 'have you logged out since?'
+[Tue May 08 22:27:35 2001] Emperial tells you, 'Yeah well at one time lirus she banned my account for ever and it took a week worth of E-mails to show her she was wrong and get my stuff back'
+[Tue May 08 22:27:40 2001] Emperial tells you, 'nope i have not logged'
+[Tue May 08 22:27:50 2001] Emperial tells you, 'shall i try to camp and come back ?'
+[Tue May 08 22:27:50 2001] You told Emperial, 'try logging all the way out and coming back in'
+[Tue May 08 22:27:59 2001] You told Emperial, 'I'll try rezzing you again when you get back'
+[Tue May 08 22:28:06 2001] Emperial tells you, 'u mean to reenter my account password and stuff ?'
+[Tue May 08 22:28:13 2001] You told Emperial, 'straight to the desktop'
+[Tue May 08 22:28:19 2001] Emperial tells you, 'okay BRB'
+[Tue May 08 22:28:24 2001] You told Emperial, 'no guarantees, but it's worth a shot'
+[Tue May 08 22:28:28 2001] Emperial tells you, 'aye'
+[Tue May 08 22:28:40 2001] Atlain kneels before Espranza in humility and reverence.
+[Tue May 08 22:28:44 2001] Emperial tells you, 'brb dont leve me '
+[Tue May 08 22:28:45 2001] Atlain begins to cast a spell. (Harvest)
+[Tue May 08 22:28:51 2001] Bruus tells you, 'You signed up for the Queen of the desert quest right?'
+[Tue May 08 22:28:55 2001] You told Bruus, 'yup'
+[Tue May 08 22:28:55 2001] Atlain's casting is interrupted!
+[Tue May 08 22:28:55 2001] Atlain gathers glowing blue strands of mana.
+[Tue May 08 22:29:12 2001] You say, 'Atlain, is there someone in your guild named Waldo?'
+[Tue May 08 22:29:36 2001] Atlain says, 'let me see'
+[Tue May 08 22:29:45 2001] Boddan begins to cast a spell. (Spirit of Wolf)
+[Tue May 08 22:30:02 2001] Boddan begins to cast a spell. (Thorncoat)
+[Tue May 08 22:30:03 2001] You GMSAY, '<note issue> Emperial ARTWWH7 had his nose in his spell book when someone tried to rez him - and lost out on the rez and now cannot be rezzed at all. Even I tried.'
+[Tue May 08 22:30:08 2001] Atlain says, 'do we have a Waldo in are guild ?'
+[Tue May 08 22:30:25 2001] You say, 'Because two Heinlein short novels - Waldo and Magic, Incorporated - are usually sold together.'
+[Tue May 08 22:30:25 2001] Boddan begins to cast a spell. (Skin like Nature)
+[Tue May 08 22:30:44 2001] Espranza saved.
+[Tue May 08 22:31:20 2001] Boddan begins to cast a spell. (Skin like Nature)
+[Tue May 08 22:31:38 2001] Boddan begins to cast a spell. (Storm Strength)
+[Tue May 08 22:32:12 2001] Atlain says, 'i dont think so never seen one'
+[Tue May 08 22:32:22 2001] You say, 'someone should make one then.'
+[Tue May 08 22:32:27 2001] You say, 'it's just too perfect.'
+[Tue May 08 22:32:33 2001] Fanlain says, 'Hail Espranza'
+[Tue May 08 22:32:43 2001] You say, 'Hi!'
+[Tue May 08 22:32:51 2001] It begins to rain.
+[Tue May 08 22:32:55 2001] Atlain says, 'lol ok ill see if we can find one lol'
+[Tue May 08 22:33:02 2001] You told Emperial, 'Ready for another try?'
+[Tue May 08 22:33:06 2001] Emperial tells you, 'yes'
+[Tue May 08 22:33:09 2001] Emperial tells you, 'fire away'
+[Tue May 08 22:33:17 2001] Emperial tells you, 'WOHOOO'
+[Tue May 08 22:33:23 2001] You told Emperial, 'agh!'
+[Tue May 08 22:33:25 2001] Emperial tells you, 'i love u so much'
+[Tue May 08 22:33:31 2001] You told Emperial, 'you and everyone else!'
+[Tue May 08 22:33:33 2001] Atlain begins to cast a spell. (Manaskin)
+[Tue May 08 22:33:35 2001] Emperial bows before Espranza.
+[Tue May 08 22:33:38 2001] Atlain's skin gleams with an incandescent glow.
+[Tue May 08 22:33:43 2001] You told Emperial, 'okay, grats!'
+[Tue May 08 22:33:44 2001] Emperial tells you, 'i will now find another GM to bug with my problems'
+[Tue May 08 22:33:51 2001] Emperial tells you, 'thx u thx u'
+[Tue May 08 22:33:51 2001] You told Emperial, 'heh'
+[Tue May 08 22:33:59 2001] You told Emperial, 'glad it worked for you'
+[Tue May 08 22:34:12 2001] Emperial tells you, 'thx u heh u saved a week of me =P'
+[Tue May 08 22:34:14 2001] Emperial hugs Espranza.
+[Tue May 08 22:34:18 2001] Anandrana begins to cast a spell. (Invisibility)
+[Tue May 08 22:34:19 2001] You GMSAY, 'I had Emperial log all the way out and in again and a rez worked'
+[Tue May 08 22:34:30 2001] Anandrana begins to cast a spell. (Invisibility)
+[Tue May 08 22:34:34 2001] Bruus GMSAYS, 'huh?'
+[Tue May 08 22:34:37 2001] You GMSAY, 'so I'm going to soulmark him in case this was a scam for future guides'
+[Tue May 08 22:34:40 2001] Emperial tells you, 'well there goes my night heh'
+[Tue May 08 22:34:42 2001] Atlain bows before Espranza.
+[Tue May 08 22:34:47 2001] Atlain waves goodbye to Espranza.
+[Tue May 08 22:34:49 2001] You wave goodbye to Atlain.
+[Tue May 08 22:34:52 2001] Bruus GMSAYS, 'as in a res on same body?'
+[Tue May 08 22:35:01 2001] Emperial tells you, 'thx u for not telling me tuff luck'
+[Tue May 08 22:35:12 2001] You GMSAY, 'rez didn't work until he logged all the way out and in again'
+[Tue May 08 22:35:23 2001] You told Emperial, 'oh dang! that's what I meant to say.'
+[Tue May 08 22:35:30 2001] Emperial tells you, 'hehehe'
+[Tue May 08 22:35:35 2001] You told Emperial, 'wait - let me kill you and then you petition and then I'll say tuff luck...'
+[Tue May 08 22:35:39 2001] Bruus GMSAYS, 'should include that in yer report sounds dangerous'
+[Tue May 08 22:35:44 2001] You GMSAY, 'I will'
+[Tue May 08 22:35:45 2001] Emperial tells you, 'Well now time to see if i can get 10k for my sword and buy me a FBSS'
+[Tue May 08 22:35:50 2001] Emperial tells you, 'NO'
+[Tue May 08 22:36:03 2001] You told Emperial, 'heh - be well!'
+[Tue May 08 22:36:05 2001] Emperial tells you, 'i will fight u to the death heh j/k i will run tell i die'
+[Tue May 08 22:36:13 2001] Bruus GMSAYS, 'hehe and back to your quest it is yours now you set the time and date thast YOU want to run it :)'
+[Tue May 08 22:36:15 2001] You told Emperial, 'make up your mind!'
+[Tue May 08 22:36:26 2001] You GMSAY, 'oooh just like Quest Troupe!'
+[Tue May 08 22:36:26 2001] Emperial tells you, 'thx again Mlady'
+[Tue May 08 22:36:30 2001] Emperial bows before Espranza.
+[Tue May 08 22:36:30 2001] You bow.
+[Tue May 08 22:36:30 2001] You no longer have a target.
+[Tue May 08 22:36:32 2001] You wave goodbye to everyone.
+[Tue May 08 22:36:48 2001] Bruus GMSAYS, 'please post a reply to the thread I have there for scheduling on that quest thread'
+[Tue May 08 22:36:54 2001] You GMSAY, 'okay'
+[Tue May 08 22:37:44 2001] Bruus GMSAYS, 'cool I will be posting quests like that from now on and having the quests that one person can do solo so scheduling is easy once in a while :)'
+[Tue May 08 22:37:58 2001] You GMSAY, '<note issue> Emperial ARTWWH7 had his nose in his spellbook and lost out on a rez. I tried and it failed - I had him camp to desktop and come back on, and the rez worked. So there is a bug in rez and he got a free GM rez from it. Soulmarking him...'
+[Tue May 08 22:38:15 2001] You GMSAY, '... soulmarking him in case he tries to exploit this bug later.'
+[Tue May 08 22:38:25 2001] You GMSAY, '<note issue> ... soulmarking him in case he tries to exploit this bug later.'
+[Tue May 08 22:38:31 2001] DELETING THIS PETITION
+[Tue May 08 22:40:17 2001] Bruus tells the guild, '<note issue> Lawlas (AXZ7BZU) dropped bag on ground and it dissapeared told him items dropped on ground cannot be returned'
+[Tue May 08 22:40:46 2001] Soul Mark added to file successfully.
+[Tue May 08 22:40:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 22:40:53 2001] USER TEXT: i died 2 wks ago and 2 min after i died my comp crashed. by the time i got the comp fixed my corpse had rotted and now i have nothing can you help me please?!
+[Tue May 08 22:40:54 2001] Players in EverQuest:
+[Tue May 08 22:40:54 2001] ---------------------------
+[Tue May 08 22:40:54 2001] [ANON (16 Warrior)] Ramora (Half Elf) ZONE: ecommons (USER PID AYKR35X)
+[Tue May 08 22:40:54 2001] There is 1 player in EverQuest.
+[Tue May 08 22:41:19 2001] Espranza saved.
+[Tue May 08 22:42:06 2001] You told Ramora, 'Hail, Ramora! Guide Espranza here. You will have to repetition Thursday through Monday, 4pm to 11pm Pacific time, and GM Lirus will be able to help get you re-equipped.'
+[Tue May 08 22:42:09 2001] DELETING THIS PETITION
+[Tue May 08 22:42:10 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 22:42:11 2001] USER TEXT: ive been asking around for days , and yet i still have this lingering question ... what is the minimum level for being able to use Epic
+[Tue May 08 22:42:11 2001] Players in EverQuest:
+[Tue May 08 22:42:11 2001] ---------------------------
+[Tue May 08 22:42:11 2001] [ANON (41 Enchanter)] Isabeel (High Elf) ZONE: highkeep (USER PID ATRFBJH)
+[Tue May 08 22:42:11 2001] There is 1 player in EverQuest.
+[Tue May 08 22:42:29 2001] Knarl says, 'Hail Espranza'
+[Tue May 08 22:42:43 2001] You told Isabeel, 'Hail, Isabeel! Guide Espranza here. I don't know for sure, but since the quest NPCs won't talk to you before 50, I would imagine 50 would be the lower limit.'
+[Tue May 08 22:43:13 2001] DELETING THIS PETITION
+[Tue May 08 22:43:14 2001] Isabeel tells you, 'hmm , ya ive been told 50 and 51 ... and even planer level 46 even'
+[Tue May 08 22:43:14 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 22:43:14 2001] USER TEXT: Hello, I've lost about 2 gnoll fangs.  It happened when I died and came back to get my corpse.  I didn't think they were supposed to disappear.  Could you please help me?
+[Tue May 08 22:43:15 2001] Players in EverQuest:
+[Tue May 08 22:43:15 2001] ---------------------------
+[Tue May 08 22:43:15 2001] [ANON (4 Ranger)] Azurelight (Half Elf) ZONE: qeynos (USER PID AYC7YYP)
+[Tue May 08 22:43:15 2001] There is 1 player in EverQuest.
+[Tue May 08 22:43:40 2001] You told Isabeel, 'I doubt it's 46; but I don't know for sure. Since you can't get it before 50, though...'
+[Tue May 08 22:44:02 2001] Isabeel tells you, 'it wont poof at level 50 if i tried right ? hehe'
+[Tue May 08 22:44:23 2001] You GMSAY, 'I've gotten petition about people losing gnoll fangs after they died - any word on what causes this?'
+[Tue May 08 22:44:43 2001] You told Isabeel, 'You might turn in all your items and then not get your epic back.'
+[Tue May 08 22:44:46 2001] Bruus GMSAYS, 'nope'
+[Tue May 08 22:44:48 2001] You told Isabeel, 'best not to chance it.'
+[Tue May 08 22:44:54 2001] You GMSAY, 'but you've heard of this?'
+[Tue May 08 22:44:55 2001] Players in EverQuest:
+[Tue May 08 22:44:55 2001] ---------------------------
+[Tue May 08 22:44:55 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: kithicor (USER PID AUGBQH4)
+[Tue May 08 22:44:55 2001] * Guide *[50 Shadow Knight] Bruus (Troll) <Keepers of Morell Thule> ZONE: cshome (USER PID AU7FMX4)
+[Tue May 08 22:44:55 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AT6J632)
+[Tue May 08 22:44:55 2001] There are 3 players in EverQuest.
+[Tue May 08 22:45:00 2001] Isabeel tells you, 'chance it at what level then hehe'
+[Tue May 08 22:45:07 2001] You told Isabeel, '50 or better.'
+[Tue May 08 22:45:20 2001] You feel the spirit of Norrath enter you.
+[Tue May 08 22:45:21 2001] Your feet leave the ground.
+[Tue May 08 22:45:41 2001] It is 12 PM on Saturday, the 28th day of September, of the year 3206.
+[Tue May 08 22:45:41 2001] Earth Time: Tue May 08 22:45:41 2001
+[Tue May 08 22:45:49 2001] Bruus GMSAYS, 'yes I have it came up last week and I had no explanation then either and forgot to check back as to any resolve if any'
+[Tue May 08 22:46:08 2001] Bruus GMSAYS, 'one of the other guides had a pet about it'
+[Tue May 08 22:47:04 2001] You told Azurelight, 'Hail, Azurelight! Guide Espranza here. I've heard of this happening, but have no idea why or how... if you really need these reimbursed, you'll have to talk to the GM when he's on Thursday through Monday.'
+[Tue May 08 22:47:40 2001] Azurelight tells you, 'OK, thanks.  Is this due to the new patch do you know?'
+[Tue May 08 22:48:01 2001] You told Azurelight, 'no, it's been happening for awhile. It doesn't happen all the time... but sometimes it does.'
+[Tue May 08 22:48:08 2001] DELETING THIS PETITION
+[Tue May 08 22:48:33 2001] You GMSAY, '<note bug> Sometimes gnoll fangs disappear off of corpses.'
+[Tue May 08 22:48:36 2001] Azurelight tells you, 'OK, thanks.  Me and my friend both had it happen tonight with gnoll fangs and rabid wolf pelts.  Thanks again.'
+[Tue May 08 22:48:53 2001] You told Azurelight, 'you're welcome. I've noted this as a bug in my shift report.'
+[Tue May 08 22:49:09 2001] Players in EverQuest:
+[Tue May 08 22:49:09 2001] ---------------------------
+[Tue May 08 22:49:09 2001] There are no players in EverQuest that match those who filters.
+[Tue May 08 22:49:13 2001] Players in EverQuest:
+[Tue May 08 22:49:13 2001] ---------------------------
+[Tue May 08 22:49:13 2001] [55 Evoker] Bracus (Dark Elf) <Heroic Few> ZONE: hateplane (USER PID AVGTS4H)
+[Tue May 08 22:49:13 2001] There is 1 player in EverQuest.
+[Tue May 08 22:49:16 2001] Azurelight tells you, 'have a nice night (morning hehehe)'
+[Tue May 08 22:49:20 2001] Bruus tells the guild, '<note badname> corwinofamber (AYHMGZB)'
+[Tue May 08 22:49:22 2001] You told Azurelight, 'you too!'
+[Tue May 08 22:49:37 2001] You say to your guild, 'how often have I seen that name!'
+[Tue May 08 22:50:09 2001] You're not scaring anyone.
+[Tue May 08 22:50:17 2001] Bruus tells the guild, '<note badname> Billunderwood (AUQLHRU)'
+[Tue May 08 22:50:20 2001] You're not scaring anyone.
+[Tue May 08 22:50:35 2001] Your target is too far away, get closer!
+[Tue May 08 22:50:47 2001] You're not scaring anyone.
+[Tue May 08 22:50:58 2001] You're not scaring anyone.
+[Tue May 08 22:51:09 2001] Your target is too far away, get closer!
+[Tue May 08 22:51:23 2001] You're not scaring anyone.
+[Tue May 08 22:51:34 2001] You're not scaring anyone.
+[Tue May 08 22:51:50 2001] Bruus GMSAYS, 'ok thats all for me Esp time for sleep'
+[Tue May 08 22:51:50 2001] You're not scaring anyone.
+[Tue May 08 22:51:54 2001] Espranza saved.
+[Tue May 08 22:51:55 2001] You GMSAY, 'okay, goodnight!'
+[Tue May 08 22:52:01 2001] Players in EverQuest:
+[Tue May 08 22:52:01 2001] ---------------------------
+[Tue May 08 22:52:01 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: kithicor (USER PID AUGBQH4)
+[Tue May 08 22:52:01 2001] * Guide *[50 Shadow Knight] Bruus (Troll) <Keepers of Morell Thule> ZONE: cshome (USER PID AU7FMX4)
+[Tue May 08 22:52:01 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AT6J632)
+[Tue May 08 22:52:01 2001] There are 3 players in EverQuest.
+[Tue May 08 22:52:13 2001] Bruus GMSAYS, 'see ya :) you take care'
+[Tue May 08 22:52:17 2001] You GMSAY, 'you too!'
+[Tue May 08 22:52:21 2001] Players on EverQuest:
+[Tue May 08 22:52:21 2001] ---------------------------
+[Tue May 08 22:52:21 2001] [19 Paladin] Geronamo (Half Elf) <  Protectors of the Unknown  >
+[Tue May 08 22:52:21 2001] [ANONYMOUS] Arondell  <Wanderers of the Realm>
+[Tue May 08 22:52:21 2001] [55 Outrider] Treesoul (Wood Elf) <Thunderwalkers>
+[Tue May 08 22:52:21 2001] [ANONYMOUS] Ramdar 
+[Tue May 08 22:52:21 2001] [ANONYMOUS] Siricos  <Order of the White Hand>
+[Tue May 08 22:52:21 2001] [ANONYMOUS] Izreeal  <Order of the White Hand>
+[Tue May 08 22:52:21 2001] * GM * [50 Rogue] Espranza (Halfling) <Keepers of Morell Thule>
+[Tue May 08 22:52:21 2001] There are 7 players in Kithicor Forest.
+[Tue May 08 22:53:44 2001] You're not scaring anyone.
+[Tue May 08 22:53:57 2001] You GMSAY, 'zone'
+[Tue May 08 22:54:01 2001] LOADING, PLEASE WAIT...
+[Tue May 08 22:54:25 2001] You have entered Rivervale.
+[Tue May 08 22:55:20 2001] Mayor Gubbin begins to cast a spell. (Shield of Brambles)
+[Tue May 08 22:55:53 2001] Your feet leave the ground.
+[Tue May 08 22:55:53 2001] You can't use that command right now...
+[Tue May 08 22:55:53 2001] Your feet leave the ground.
+[Tue May 08 22:55:54 2001] Your feet leave the ground.
+[Tue May 08 22:55:54 2001] Your feet leave the ground.
+[Tue May 08 22:55:55 2001] Your feet leave the ground.
+[Tue May 08 22:55:55 2001] Your feet leave the ground.
+[Tue May 08 22:55:55 2001] Your feet leave the ground.
+[Tue May 08 22:55:55 2001] Your feet leave the ground.
+[Tue May 08 22:55:55 2001] Your feet leave the ground.
+[Tue May 08 22:55:56 2001] Your feet leave the ground.
+[Tue May 08 22:55:56 2001] Your feet leave the ground.
+[Tue May 08 22:55:56 2001] Your feet leave the ground.
+[Tue May 08 22:55:57 2001] Your feet leave the ground.
+[Tue May 08 22:55:57 2001] Your feet leave the ground.
+[Tue May 08 22:56:25 2001] You can no longer levitate.
+[Tue May 08 22:56:39 2001] You are currently bound in: The Hole
+[Tue May 08 22:56:59 2001] Trevis auctions, 'Payin 2p per Morning Dew'
+[Tue May 08 22:57:22 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 22:57:23 2001] USER TEXT: I have done a /report on warrissa for saying in ooc that someone was "the perfect height to eat her out"
+[Tue May 08 22:57:23 2001] Players in EverQuest:
+[Tue May 08 22:57:23 2001] ---------------------------
+[Tue May 08 22:57:23 2001] [ANON (3 Druid)] Tudaine (Wood Elf) ZONE: gfaydark (USER PID APGZ4VS)
+[Tue May 08 22:57:23 2001] There is 1 player in EverQuest.
+[Tue May 08 22:58:02 2001] You told Tudaine, 'Hail, Tudaine! Guide Espranza here. I'll get a guide to read the report.'
+[Tue May 08 22:58:08 2001] Tudaine tells you, 'Thanks'
+[Tue May 08 22:58:20 2001] Players in EverQuest:
+[Tue May 08 22:58:20 2001] ---------------------------
+[Tue May 08 22:58:20 2001] [55 Myrmidon] Chunha (Ogre) <Royal Jesters> ZONE: dreadlands (USER PID ASGYH1Q)
+[Tue May 08 22:58:20 2001] [1 Warrior]  (Dark Elf) ZONE:  (USER PID AY2GMLG)
+[Tue May 08 22:58:20 2001] [ANON (22 Warrior)] Arondell (Barbarian) ZONE: highpass (USER PID AYW4V9Z)
+[Tue May 08 22:58:20 2001] [56 Myrmidon] Machlor (Halfling) <Thunderwalkers> ZONE: rivervale (USER PID AVJXMFW)
+[Tue May 08 22:58:20 2001] [12 Warrior]  (Barbarian) <Hand of the Shadows> ZONE:  (USER PID AX7N2W0)
+[Tue May 08 22:58:20 2001] [4 Warrior]  (Dwarf) ZONE:  (USER PID AXBYS20)
+[Tue May 08 22:58:20 2001] [53 Champion] Sharpie (Dwarf) ZONE: ecommons (USER PID APG0RW2)
+[Tue May 08 22:58:20 2001] [50 Warrior] Listra (Wood Elf) <Mercurians of Norrath> ZONE: freportw (USER PID ARKSRNT)
+[Tue May 08 22:58:20 2001] [17 Warrior] Benaman (Barbarian) <Tuath na Sgiath> ZONE: southkarana (USER PID AXGJ29Q)
+[Tue May 08 22:58:20 2001] [19 Warrior] Mogney (Ogre) ZONE: overthere (USER PID AX69WGB)
+[Tue May 08 22:58:20 2001] [19 Warrior] Tukaram (Barbarian) ZONE: highpass (USER PID AY9FY9G)
+[Tue May 08 22:58:20 2001] [4 Warrior]  (Human) ZONE:  (USER PID ARZSKQL)
+[Tue May 08 22:58:20 2001] [19 Warrior] Deajang (Barbarian) <Travelers in Mist> ZONE: lakerathe (USER PID AUWPFJN)
+[Tue May 08 22:58:20 2001] [57 Myrmidon] Nalyanaa (Dark Elf) ZONE: ecommons (USER PID AYNALR4)
+[Tue May 08 22:58:20 2001] [23 Warrior] Fadara (Human) <Hunters of the Undead> ZONE: firiona (USER PID AWWLGRG)
+[Tue May 08 22:58:20 2001] [52 Champion] Fenny (Halfling) ZONE: firiona (USER PID AQ1VHHW)
+[Tue May 08 22:58:20 2001] [12 Warrior] Kabzeel (Barbarian) ZONE: blackburrow (USER PID AVJ5XJD)
+[Tue May 08 22:58:20 2001] [56 Myrmidon] Ralon (Ogre) <Thunderwalkers> ZONE: charasis (USER PID AQCU8J4)
+[Tue May 08 22:58:20 2001] [ANON (28 Warrior)]  (Wood Elf) ZONE:  (USER PID AZVH8S3)
+[Tue May 08 22:58:20 2001] [58 Myrmidon] Auspex (Ogre) <Relentless Ascension> ZONE: dreadlands (USER PID ATCK149)
+[Tue May 08 22:58:20 2001] Your who request was cut short..too many players.
+[Tue May 08 22:58:27 2001] Players in EverQuest:
+[Tue May 08 22:58:27 2001] ---------------------------
+[Tue May 08 22:58:27 2001] [1 Bard] Warrissa (Wood Elf) ZONE: gfaydark (USER PID ASMSA7F)
+[Tue May 08 22:58:27 2001] There is 1 player in EverQuest.
+[Tue May 08 22:59:23 2001] Mayor Gubbin begins to cast a spell. (Firefist)
+[Tue May 08 22:59:31 2001] STATUS UPGRADED TO URGENT
+[Tue May 08 22:59:32 2001] CHECKING IN
+[Tue May 08 22:59:47 2001] That station id has no soul mark information associated with it.  To add use /praise or /warn.
+[Tue May 08 22:59:58 2001] It will take you about 30 seconds to prepare your camp.
+[Tue May 08 23:00:03 2001] It will take about 25 more seconds to prepare your camp.
+[Tue May 08 23:00:08 2001] It will take about 20 more seconds to prepare your camp.
+[Tue May 08 23:00:13 2001] It will take about 15 more seconds to prepare your camp.
+[Tue May 08 23:00:18 2001] It will take about 10 more seconds to prepare your camp.
+[Tue May 08 23:00:24 2001] It will take about 5 more seconds to prepare your camp.
+[Tue May 08 23:12:40 2001] Welcome to EverQuest!
+[Tue May 08 23:12:40 2001] You have entered Rivervale.
+[Tue May 08 23:12:47 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:12:48 2001] USER TEXT: I have done a /report on warrissa for saying in ooc that someone was "the perfect height to eat her out"
+[Tue May 08 23:12:48 2001] Players in EverQuest:
+[Tue May 08 23:12:48 2001] ---------------------------
+[Tue May 08 23:12:48 2001] [ANON (3 Druid)] Tudaine (Wood Elf) ZONE: gfaydark (USER PID APGZ4VS)
+[Tue May 08 23:12:48 2001] There is 1 player in EverQuest.
+[Tue May 08 23:12:53 2001] Players in EverQuest:
+[Tue May 08 23:12:53 2001] ---------------------------
+[Tue May 08 23:12:53 2001] There are no players in EverQuest that match those who filters.
+[Tue May 08 23:13:00 2001] UNDOING CHECK OUT
+[Tue May 08 23:13:13 2001] Players in EverQuest:
+[Tue May 08 23:13:13 2001] ---------------------------
+[Tue May 08 23:13:13 2001] [ANON (45 Druid)] Cerridwen (Wood Elf) ZONE: gfaydark (USER PID ASMSA7F)
+[Tue May 08 23:13:13 2001] There is 1 player in EverQuest.
+[Tue May 08 23:13:45 2001] Players in EverQuest:
+[Tue May 08 23:13:45 2001] ---------------------------
+[Tue May 08 23:13:45 2001] [ANON (45 Druid)] Cerridwen (Wood Elf) ZONE: gfaydark (USER PID ASMSA7F)
+[Tue May 08 23:13:45 2001] There is 1 player in EverQuest.
+[Tue May 08 23:13:57 2001] You say, 'Hail, Cerridwen! Guide Espranza here.'
+[Tue May 08 23:14:09 2001] You told Cerridwen, 'Hail, Cerridwen! Guide Espranza here.'
+[Tue May 08 23:14:10 2001] Players in EverQuest:
+[Tue May 08 23:14:10 2001] ---------------------------
+[Tue May 08 23:14:10 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: rivervale (USER PID AUGBQH4)
+[Tue May 08 23:14:10 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AT6J632)
+[Tue May 08 23:14:10 2001] There are 2 players in EverQuest.
+[Tue May 08 23:14:15 2001] Cerridwen tells you, 'hello :)'
+[Tue May 08 23:14:39 2001] You told Cerridwen, 'hi... I'm afraid I have to give you a warning for use of vulgar language against Tudaine.'
+[Tue May 08 23:14:59 2001] Cerridwen tells you, 'i didnt use anything vulgar against that person though...'
+[Tue May 08 23:15:27 2001] You told Cerridwen, 'We can track people among different characters. Well, Tudaine reported the text, and the GM verified it.'
+[Tue May 08 23:15:41 2001] You told Cerridwen, 'Maybe it wasnt against that person, but it was ooc.'
+[Tue May 08 23:15:49 2001] Cerridwen tells you, 'ok'
+[Tue May 08 23:15:58 2001] You told Cerridwen, 'please don't let it happen again.'
+[Tue May 08 23:16:02 2001] Cerridwen tells you, 'ok'
+[Tue May 08 23:16:04 2001] Mayor Gubbin begins to cast a spell. (Shield of Brambles)
+[Tue May 08 23:16:08 2001] You told Cerridwen, 'thank you, and be well!'
+[Tue May 08 23:16:20 2001] Cerridwen tells you, 'aye ye too :)'
+[Tue May 08 23:16:51 2001] Soul Mark added to file successfully.
+[Tue May 08 23:17:11 2001] You GMSAY, '<note warning> Warrissa ASMSA7F Vulgar language over an open channel. Reported and verified.'
+[Tue May 08 23:17:15 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:17:16 2001] USER TEXT: I have done a /report on warrissa for saying in ooc that someone was "the perfect height to eat her out"
+[Tue May 08 23:17:16 2001] Players in EverQuest:
+[Tue May 08 23:17:16 2001] ---------------------------
+[Tue May 08 23:17:16 2001] [ANON (3 Druid)] Tudaine (Wood Elf) ZONE: gfaydark (USER PID APGZ4VS)
+[Tue May 08 23:17:16 2001] There is 1 player in EverQuest.
+[Tue May 08 23:17:20 2001] Crimsonberry begins to cast a spell. (Ring of Butcher)
+[Tue May 08 23:17:41 2001] Taven begins to cast a spell. (Hammer of Wrath)
+[Tue May 08 23:18:01 2001] You told Tudaine, 'Okay, all taken care of. Be well! I inadvertently told this person that you reported it (thought it was a tell to you until I reread your petition), so if this person bugs you about it, let me know.'
+[Tue May 08 23:18:08 2001] DELETING THIS PETITION
+[Tue May 08 23:18:10 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:18:10 2001] USER TEXT: there is a level 20+ (Genadiel) purposely creating huge trains in west FP - then training all the guards to kill all the mobs (rendering the newbie area useless for newbies)
+[Tue May 08 23:18:11 2001] Players in EverQuest:
+[Tue May 08 23:18:11 2001] ---------------------------
+[Tue May 08 23:18:11 2001] [ANON (5 Druid)] Zoki (Halfling) ZONE: freportw (USER PID AU88AGN)
+[Tue May 08 23:18:11 2001] There is 1 player in EverQuest.
+[Tue May 08 23:18:16 2001] STATUS UPGRADED TO URGENT
+[Tue May 08 23:18:17 2001] CHECKING IN
+[Tue May 08 23:18:18 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:18:19 2001] USER TEXT: a group of merchants are not selling, Barthal, Moran Smith, Solani Dayadil, Bassanio Weekin, and Gahna Salbeen
+[Tue May 08 23:18:19 2001] Players in EverQuest:
+[Tue May 08 23:18:19 2001] ---------------------------
+[Tue May 08 23:18:19 2001] [28 Druid] Circa (Wood Elf) ZONE: qeynos (USER PID APCBR8A)
+[Tue May 08 23:18:19 2001] There is 1 player in EverQuest.
+[Tue May 08 23:18:19 2001] Taven begins to cast a spell. (Endure Poison)
+[Tue May 08 23:18:19 2001] Tudaine tells you, 'Thank you so much I really appreciate it =)'
+[Tue May 08 23:18:24 2001] You told Tudaine, 'be well!'
+[Tue May 08 23:18:37 2001] Bisounours begins to cast a spell. (Gate)
+[Tue May 08 23:19:13 2001] You told Circa, 'Hail, Circa! Guide Espranza here. I believe these are the merchants in South Qeynos who hold a little merchant pow-wow each day. They should return to their places on their own in a little while - if not, let me know.'
+[Tue May 08 23:19:13 2001] Trevis auctions, 'Payin 2p per Morning Dew'
+[Tue May 08 23:19:27 2001] Players in EverQuest:
+[Tue May 08 23:19:27 2001] ---------------------------
+[Tue May 08 23:19:27 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: rivervale (USER PID AUGBQH4)
+[Tue May 08 23:19:27 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AT6J632)
+[Tue May 08 23:19:27 2001] There are 2 players in EverQuest.
+[Tue May 08 23:19:46 2001] STATUS UPGRADED TO URGENT
+[Tue May 08 23:19:47 2001] CHECKING IN
+[Tue May 08 23:19:49 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:19:50 2001] USER TEXT: there is a level 20+ (Genadiel) purposely creating huge trains in west FP - then training all the guards to kill all the mobs (rendering the newbie area useless for newbies)
+[Tue May 08 23:19:50 2001] Players in EverQuest:
+[Tue May 08 23:19:50 2001] ---------------------------
+[Tue May 08 23:19:50 2001] [ANON (5 Druid)] Zoki (Halfling) ZONE: freportw (USER PID AU88AGN)
+[Tue May 08 23:19:50 2001] There is 1 player in EverQuest.
+[Tue May 08 23:20:00 2001] You GMSAY, 'zone and anon for investigation'
+[Tue May 08 23:20:09 2001] You GMSAY, 'zone freportw'
+[Tue May 08 23:20:16 2001] LOADING, PLEASE WAIT...
+[Tue May 08 23:20:45 2001] You have entered West Freeport.
+[Tue May 08 23:20:49 2001] Espranza is now Invisible.
+[Tue May 08 23:20:49 2001] You are now anonymous.
+[Tue May 08 23:20:54 2001] USER TEXT: there is a level 20+ (Genadiel) purposely creating huge trains in west FP - then training all the guards to kill all the mobs (rendering the newbie area useless for newbies)
+[Tue May 08 23:20:59 2001] Players on EverQuest:
+[Tue May 08 23:20:59 2001] ---------------------------
+[Tue May 08 23:20:59 2001] [ANONYMOUS] Genadiel  <Fallen Gods>
+[Tue May 08 23:20:59 2001] There is 1 player in West Freeport.
+[Tue May 08 23:21:04 2001] Teleporting to genadiel.
+[Tue May 08 23:21:07 2001] You begin to sneak...
+[Tue May 08 23:21:07 2001] You are as quiet as a cat stalking its prey.
+[Tue May 08 23:21:14 2001] Deathfist Pawn says 'Centurions!! Attack!! 
+[Tue May 08 23:21:14 2001] Deathfist Pawn says 'Half Elves have no place in our realm!'
+[Tue May 08 23:21:14 2001] Dunncan says out of character, 'anyone?'
+[Tue May 08 23:21:22 2001] Players on EverQuest:
+[Tue May 08 23:21:22 2001] ---------------------------
+[Tue May 08 23:21:22 2001] [ANONYMOUS] Genadiel  <Fallen Gods>
+[Tue May 08 23:21:22 2001] There is 1 player in West Freeport.
+[Tue May 08 23:21:24 2001] Players in EverQuest:
+[Tue May 08 23:21:24 2001] ---------------------------
+[Tue May 08 23:21:24 2001] [ANON (39 Wizard)] Genadiel (Human) ZONE: freportw (USER PID AXSG5JZ)
+[Tue May 08 23:21:24 2001] There is 1 player in EverQuest.
+[Tue May 08 23:21:32 2001] Maggika says out of character, 'get a breathe underwater spell from someone'
+[Tue May 08 23:21:32 2001] Deathfist Pawn has been slain by Genadiel!
+[Tue May 08 23:21:32 2001] Deathfist Pawn says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. 
+[Tue May 08 23:21:33 2001] Deathfist Pawn says 'Centurions!! Attack!! 
+[Tue May 08 23:21:33 2001] Deathfist Pawn says 'I shall rid the land of another infamous villain.'
+[Tue May 08 23:21:44 2001] Players in EverQuest:
+[Tue May 08 23:21:44 2001] ---------------------------
+[Tue May 08 23:21:44 2001] [ANON (5 Druid)] Zoki (Halfling) ZONE: freportw (USER PID AU88AGN)
+[Tue May 08 23:21:44 2001] There is 1 player in EverQuest.
+[Tue May 08 23:21:46 2001] a decaying skeleton has been slain by Mandavi!
+[Tue May 08 23:22:10 2001] Nins says out of character, 'or find 39+ necro for summon corpse'
+[Tue May 08 23:22:19 2001] USER TEXT: there is a level 20+ (Genadiel) purposely creating huge trains in west FP - then training all the guards to kill all the mobs (rendering the newbie area useless for newbies)
+[Tue May 08 23:22:25 2001] Lupoman says out of character, 'need enduring breath will give to ya'
+[Tue May 08 23:22:29 2001] Teerak says out of character, 'where did you die?'
+[Tue May 08 23:22:41 2001] Players in EverQuest:
+[Tue May 08 23:22:41 2001] ---------------------------
+[Tue May 08 23:22:41 2001] [ANON (39 Wizard)] Genadiel (Human) ZONE: ecommons (USER PID AXSG5JZ)
+[Tue May 08 23:22:41 2001] There is 1 player in EverQuest.
+[Tue May 08 23:23:06 2001] You told Zoki, 'Hail, Zoki! Guide Espranza here. Genadiel has left now. Let me know if you have any further problems.'
+[Tue May 08 23:23:08 2001] DELETING THIS PETITION
+[Tue May 08 23:23:11 2001] Emerest shouts, 'Binds, buffs and heals at Gate!  Until I run out of Mana!'
+[Tue May 08 23:23:14 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:23:15 2001] USER TEXT: a group of merchants are not selling, Barthal, Moran Smith, Solani Dayadil, Bassanio Weekin, and Gahna Salbeen
+[Tue May 08 23:23:15 2001] Players in EverQuest:
+[Tue May 08 23:23:15 2001] ---------------------------
+[Tue May 08 23:23:15 2001] [28 Druid] Circa (Wood Elf) ZONE: qeynos (USER PID APCBR8A)
+[Tue May 08 23:23:15 2001] There is 1 player in EverQuest.
+[Tue May 08 23:23:20 2001] You GMSAY, 'zone'
+[Tue May 08 23:23:25 2001] LOADING, PLEASE WAIT...
+[Tue May 08 23:23:52 2001] Smawl auctions, 'WTB Runed Totem Staff'
+[Tue May 08 23:23:54 2001] You have entered South Qeynos.
+[Tue May 08 23:23:59 2001] You are no longer anonymous.
+[Tue May 08 23:24:07 2001] Edvard Tommels begins to cast a spell. (Firefist)
+[Tue May 08 23:24:12 2001] Redheg auctions, 'WTS SHARPENING STONES  Good Deals send tell'
+[Tue May 08 23:24:25 2001] Tudaine tells you, 'Is Cerridwen that person I reported?'
+[Tue May 08 23:24:31 2001] Yestura Rhamrey begins to cast a spell. (Cadeau of Flame)
+[Tue May 08 23:24:36 2001] You told Tudaine, 'why do you ask?'
+[Tue May 08 23:24:46 2001] Tudaine tells you, 'she is doing emotes on me and trying to duel me'
+[Tue May 08 23:24:48 2001] Solani Dayadil says 'I don't have time for that now'
+[Tue May 08 23:24:51 2001] Tudaine tells you, 'and i have never heard of the name before'
+[Tue May 08 23:24:54 2001] Circa says, 'tehehe hi :P'
+[Tue May 08 23:25:01 2001] Redheg auctions, 'WTS bone chip stacks send tell'
+[Tue May 08 23:25:01 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:01 2001] You can't use that command right now...
+[Tue May 08 23:25:01 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:02 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:04 2001] You can't use that command right now...
+[Tue May 08 23:25:04 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:04 2001] You can't use that command right now...
+[Tue May 08 23:25:04 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:08 2001] Jestero tells you, 'heya espranza.'
+[Tue May 08 23:25:11 2001] You told Jestero, 'hi!'
+[Tue May 08 23:25:13 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Tue May 08 23:25:16 2001] Circa says, 'they attack someone?'
+[Tue May 08 23:25:20 2001] Barthal says 'I don't have time for that now'
+[Tue May 08 23:25:22 2001] Auto attack on.
+[Tue May 08 23:25:22 2001] Solani Dayadil says 'Guards!! Guards!! 
+[Tue May 08 23:25:22 2001] You slash Solani Dayadil for 7 points of damage.
+[Tue May 08 23:25:22 2001] You slash Solani Dayadil for 25 points of damage.
+[Tue May 08 23:25:22 2001] Solani Dayadil hits YOU for 86 points of damage.
+[Tue May 08 23:25:22 2001] Solani Dayadil hits YOU for 45 points of damage.
+[Tue May 08 23:25:22 2001] Solani Dayadil bashes YOU for 41 points of damage.
+[Tue May 08 23:25:22 2001] Auto attack off.
+[Tue May 08 23:25:23 2001] Port Authority Officer shouts 'Here ye, here ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! 
+[Tue May 08 23:25:23 2001] Jestero tells you, 'I didn't get from ur ress. ago few days. by 1018 bug death.'
+[Tue May 08 23:25:26 2001] Solani Dayadil hits YOU for 58 points of damage.
+[Tue May 08 23:25:27 2001] You can't use that command right now...
+[Tue May 08 23:25:27 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:27 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:28 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:28 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:33 2001] Auto attack on.
+[Tue May 08 23:25:33 2001] Bassanio Weekin says 'Guards!! Guards!! 
+[Tue May 08 23:25:33 2001] You slash Bassanio Weekin for 18 points of damage.
+[Tue May 08 23:25:33 2001] You slash Bassanio Weekin for 23 points of damage.
+[Tue May 08 23:25:33 2001] Bassanio Weekin hits YOU for 45 points of damage.
+[Tue May 08 23:25:33 2001] Bassanio Weekin kicks YOU for 48 points of damage.
+[Tue May 08 23:25:33 2001] Auto attack off.
+[Tue May 08 23:25:34 2001] You can't use that command right now...
+[Tue May 08 23:25:34 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:35 2001] You can't use that command right now...
+[Tue May 08 23:25:35 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:35 2001] You can't use that command right now...
+[Tue May 08 23:25:35 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:36 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:36 2001] You can't use that command right now...
+[Tue May 08 23:25:36 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:36 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:36 2001] You can't use that command right now...
+[Tue May 08 23:25:36 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:37 2001] Bassanio Weekin blinks a few times.
+[Tue May 08 23:25:37 2001] Auto attack on.
+[Tue May 08 23:25:37 2001] Your target is too far away, get closer!
+[Tue May 08 23:25:37 2001] Your target is too far away, get closer!
+[Tue May 08 23:25:37 2001] Auto attack off.
+[Tue May 08 23:25:44 2001] Solani Dayadil says 'I don't have time for that now'
+[Tue May 08 23:25:47 2001] Bassanio Weekin says 'I don't have time for that now'
+[Tue May 08 23:25:48 2001] Jestero tells you, 'that's mean blocked my ding ('
+[Tue May 08 23:25:49 2001] Auto attack on.
+[Tue May 08 23:25:49 2001] Solani Dayadil says 'Guards!! Guards!! 
+[Tue May 08 23:25:49 2001] You slash Solani Dayadil for 20 points of damage.
+[Tue May 08 23:25:49 2001] You slash Solani Dayadil for 17 points of damage.
+[Tue May 08 23:25:49 2001] Solani Dayadil hits YOU for 45 points of damage.
+[Tue May 08 23:25:49 2001] Auto attack off.
+[Tue May 08 23:25:52 2001] You can't use that command right now...
+[Tue May 08 23:25:52 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:52 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:52 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:52 2001] You can't use that command right now...
+[Tue May 08 23:25:53 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:53 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:53 2001] Solani Dayadil blinks a few times.
+[Tue May 08 23:25:58 2001] Circa says, 'Hail Solani Dayadil'
+[Tue May 08 23:25:58 2001] Jestero tells you, 'I waited lirus about it . for 20hours.'
+[Tue May 08 23:25:59 2001] Gahna Salbeen says 'Can't you see I'm doing something here?'
+[Tue May 08 23:25:59 2001] Circa says, 'Hail Solani Dayadil'
+[Tue May 08 23:25:59 2001] Solani Dayadil says 'If you are a fellow merchant, I must warn you of the inevitable tax increase.  Antonius Bayle is soon to make a [deal] with the people of Surefall Glade. 
+[Tue May 08 23:26:02 2001] Solani Dayadil says 'Catch me some other time, I am working on something else now.'
+[Tue May 08 23:26:03 2001] Jestero tells you, 'too sick ;).'
+[Tue May 08 23:26:07 2001] Circa bonks Solani Dayadil on the head!
+[Tue May 08 23:26:11 2001] You told Jestero, 'sec'
+[Tue May 08 23:26:17 2001] Auto attack on.
+[Tue May 08 23:26:18 2001] You can't see your target from here.
+[Tue May 08 23:26:18 2001] You can't see your target from here.
+[Tue May 08 23:26:21 2001] Moran Smith says 'Guards!! Guards!! 
+[Tue May 08 23:26:21 2001] You slash Moran Smith for 12 points of damage.
+[Tue May 08 23:26:21 2001] You slash Moran Smith for 18 points of damage.
+[Tue May 08 23:26:21 2001] Moran Smith slashes YOU for 100 points of damage.
+[Tue May 08 23:26:21 2001] Moran Smith slashes YOU for 45 points of damage.
+[Tue May 08 23:26:21 2001] Moran Smith kicks YOU for 41 points of damage.
+[Tue May 08 23:26:22 2001] Auto attack off.
+[Tue May 08 23:26:23 2001] Moran Smith blinks a few times.
+[Tue May 08 23:26:23 2001] You can't use that command right now...
+[Tue May 08 23:26:23 2001] Moran Smith blinks a few times.
+[Tue May 08 23:26:24 2001] Moran Smith slashes YOU for 68 points of damage.
+[Tue May 08 23:26:24 2001] You can't use that command right now...
+[Tue May 08 23:26:24 2001] Moran Smith blinks a few times.
+[Tue May 08 23:26:24 2001] You can't use that command right now...
+[Tue May 08 23:26:24 2001] Moran Smith blinks a few times.
+[Tue May 08 23:26:25 2001] You can't use that command right now...
+[Tue May 08 23:26:25 2001] Moran Smith blinks a few times.
+[Tue May 08 23:26:25 2001] Moran Smith blinks a few times.
+[Tue May 08 23:26:25 2001] You can't use that command right now...
+[Tue May 08 23:26:25 2001] Moran Smith blinks a few times.
+[Tue May 08 23:26:32 2001] Moran Smith says 'Can't you see I'm doing something here?'
+[Tue May 08 23:26:39 2001] Bassanio Weekin says 'Can't you see I'm doing something here?'
+[Tue May 08 23:26:43 2001] Solani Dayadil says 'Catch me some other time, I am working on something else now.'
+[Tue May 08 23:27:03 2001] You told Circa, 'Really hate to have to kill them...'
+[Tue May 08 23:27:11 2001] Circa tells you, 'doh u have to kill em?'
+[Tue May 08 23:27:28 2001] You told Circa, 'I don't want to. Going to give them a little more time.'
+[Tue May 08 23:27:42 2001] Players in EverQuest:
+[Tue May 08 23:27:42 2001] ---------------------------
+[Tue May 08 23:27:42 2001] [ANON (45 Druid)] Cerridwen (Wood Elf) ZONE: gfaydark (USER PID ASMSA7F)
+[Tue May 08 23:27:42 2001] There is 1 player in EverQuest.
+[Tue May 08 23:27:48 2001] You GMSAY, 'zone'
+[Tue May 08 23:27:52 2001] Teleporting to Cerridwen.
+[Tue May 08 23:27:52 2001] LOADING, PLEASE WAIT...
+[Tue May 08 23:28:23 2001] You have entered Greater Faydark.
+[Tue May 08 23:28:29 2001] Manlatil auctions, 'WTS CB belts, 5 for 2 pp, send tells'
+[Tue May 08 23:28:37 2001] UNDOING CHECK OUT
+[Tue May 08 23:28:44 2001] Sabreena auctions, 'WTB BAT WINGS AND LOTS OF THEM,SEND ME A TELL:)'
+[Tue May 08 23:28:46 2001] Cerridwen beams a smile at Espranza.
+[Tue May 08 23:28:58 2001] Guard Rainstrider says 'For the defense of Kelethin!! 
+[Tue May 08 23:28:58 2001] Guard Fireblight says 'For the defense of Kelethin!! 
+[Tue May 08 23:28:58 2001] Guard Rainstrider says 'For the protection of all Fier'Dal, there shall be no mercy for your kind. 
+[Tue May 08 23:29:00 2001] You told cerridwen, 'Hail, Cerridwen - please don't bug that person.'
+[Tue May 08 23:29:04 2001] Cerridwen tells you, 'ok'
+[Tue May 08 23:29:12 2001] You told Cerridwen, 'thanks.'
+[Tue May 08 23:29:19 2001] Tudaine auctions, 'WTB someoen to smash Sabreena's shift key'
+[Tue May 08 23:29:24 2001] Tudaine auctions, 'jk =)'
+[Tue May 08 23:29:41 2001] Tudaine auctions, 'i have some bat wings at the bank'
+[Tue May 08 23:29:41 2001] You told Tudaine, 'Shouldn't be a problem anymore.'
+[Tue May 08 23:29:47 2001] Tudaine tells you, 'Thank you again =)'
+[Tue May 08 23:29:51 2001] You told Tudaine, 'anytime...'
+[Tue May 08 23:30:00 2001] Tudaine tells you, 'will probably go to bed pretty soon, have a good night ;)'
+[Tue May 08 23:30:05 2001] You told Tudaine, 'night!'
+[Tue May 08 23:30:10 2001] Sabreena says out of character, 'be at the bank:)'
+[Tue May 08 23:30:20 2001] Crimsonberry auctions, 'WTS Druid only Chitin 12AC  9Dex, Sta, Agi'
+[Tue May 08 23:30:41 2001] Prismatic auctions, 'WTS raw silk armor 1pp per ac'
+[Tue May 08 23:31:06 2001] You told Jestero, 'Hi, Jestero! Sorry it took so long to get back to you - I prefer petitions, easier to keep track of things.'
+[Tue May 08 23:31:14 2001] You told Jestero, 'Is there something I can help you with?'
+[Tue May 08 23:31:32 2001] Jestero tells you, 'hm that's mean u can't back exp ?'
+[Tue May 08 23:31:40 2001] Searching zones for corpse of that name....
+[Tue May 08 23:31:56 2001] You told Jestero, 'Not without a corpse, and even than all I can do is a rez.'
+[Tue May 08 23:32:19 2001] You told Jestero, 'was that the time when the servers reset?'
+[Tue May 08 23:32:42 2001] Jestero tells you, 'nope.'
+[Tue May 08 23:32:53 2001] Jestero tells you, 'that was ago 5days.'
+[Tue May 08 23:32:59 2001] Jestero tells you, 'and I talked with lirus.'
+[Tue May 08 23:33:03 2001] Vurtrue shouts, 'making cheeper jewlry from 5pp to 250pp'
+[Tue May 08 23:33:08 2001] You told Jestero, 'He couldn't do anything about it?'
+[Tue May 08 23:33:12 2001] Jestero tells you, 'yes.'
+[Tue May 08 23:33:33 2001] You told Jestero, 'oh well, it was worth a shot.'
+[Tue May 08 23:33:42 2001] Manlatil says out of character, '250pp for a piece of jewelry!  Has to be some mighty fine jewels there'
+[Tue May 08 23:34:06 2001] Sabreena auctions, 'WTB BAT WINGS AND LOTS OF THEM,SEND ME A TELL:)'
+[Tue May 08 23:34:16 2001] Zaldakin auctions, 'WTS 8 CB belts for 7 pp'
+[Tue May 08 23:34:20 2001] Vurtrue says out of character, 'acually not that is way cheeper than the neck I got on..goes fro 900pp +'
+[Tue May 08 23:34:24 2001] Jestero tells you, 'I need tell to EQ programer about it.'
+[Tue May 08 23:34:32 2001] Jestero tells you, 'sigh.'
+[Tue May 08 23:35:20 2001] Jestero tells you, 'what can i do ;).'
+[Tue May 08 23:35:24 2001] You told Jestero, 'use the /bug command, then... that gets back to the programmers.'
+[Tue May 08 23:35:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:35:27 2001] USER TEXT: I just fell in Dalnir for 10000 hps
+[Tue May 08 23:35:27 2001] Players in EverQuest:
+[Tue May 08 23:35:27 2001] ---------------------------
+[Tue May 08 23:35:27 2001] [37 Cleric] Dalamaru (Dwarf) <Natural Sanction> ZONE: overthere (USER PID AVXPLTJ)
+[Tue May 08 23:35:27 2001] There is 1 player in EverQuest.
+[Tue May 08 23:35:27 2001] Jestero tells you, 'I spend 24hours more.'
+[Tue May 08 23:35:37 2001] You told Jestero, ''
+[Tue May 08 23:35:49 2001] The spirit leaves you.
+[Tue May 08 23:35:58 2001] Jestero tells you, 'btw lirus can't do anything with corpse too'
+[Tue May 08 23:36:02 2001] Uildaan auctions, 'WTB banded shoulders'
+[Tue May 08 23:36:11 2001] Vurtrue shouts, 'making cheeper jewlry from 5pp to 250pp name your stats'
+[Tue May 08 23:36:18 2001] You told Dalamaru, 'Hail, Dalamaru! Guide Espranza here. I'll check it out. Could you get the 10000 damage text on your text window and do a /report Dalamaru please?'
+[Tue May 08 23:36:20 2001] Jestero tells you, 'zone )'
+[Tue May 08 23:36:21 2001] You feel the spirit of Norrath enter you.
+[Tue May 08 23:36:21 2001] Your feet leave the ground.
+[Tue May 08 23:36:24 2001] Dalamaru tells you, 'yes'
+[Tue May 08 23:36:31 2001] Tudaine auctions, 'WTB cb belts'
+[Tue May 08 23:36:40 2001] You told Dalamaru, 'thanks, do that and I'll get a GM to look at it.'
+[Tue May 08 23:36:50 2001] Dalamaru tells you, 'it says i only may report once'
+[Tue May 08 23:36:57 2001] You told Dalamaru, 'you already have reported?'
+[Tue May 08 23:37:02 2001] Dalamaru tells you, 'yeah'
+[Tue May 08 23:37:11 2001] You told Dalamaru, 'no problem then - be right back.'
+[Tue May 08 23:37:16 2001] STATUS UPGRADED TO URGENT
+[Tue May 08 23:37:17 2001] CHECKING IN
+[Tue May 08 23:37:20 2001] You GMSAY, 'brb'
+[Tue May 08 23:37:24 2001] It will take you about 30 seconds to prepare your camp.
+[Tue May 08 23:37:29 2001] It will take about 25 more seconds to prepare your camp.
+[Tue May 08 23:37:34 2001] It will take about 20 more seconds to prepare your camp.
+[Tue May 08 23:37:39 2001] It will take about 15 more seconds to prepare your camp.
+[Tue May 08 23:37:44 2001] It will take about 10 more seconds to prepare your camp.
+[Tue May 08 23:37:50 2001] It will take about 5 more seconds to prepare your camp.
+[Tue May 08 23:47:02 2001] Adrun shouts, 'gratz'
+[Tue May 08 23:47:07 2001] You have entered Greater Faydark.
+[Tue May 08 23:47:09 2001] Kahnibus says out of character, 'on an upper level'
+[Tue May 08 23:47:12 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:47:13 2001] USER TEXT: I just fell in Dalnir for 10000 hps
+[Tue May 08 23:47:13 2001] Players in EverQuest:
+[Tue May 08 23:47:13 2001] ---------------------------
+[Tue May 08 23:47:13 2001] [37 Cleric] Dalamaru (Dwarf) <Natural Sanction> ZONE: overthere (USER PID AVXPLTJ)
+[Tue May 08 23:47:13 2001] There is 1 player in EverQuest.
+[Tue May 08 23:47:18 2001] Ravenwyde auctions, 'WTB essence of moonlight and swirling mist send tells please =)'
+[Tue May 08 23:47:28 2001] Solarqueen shouts, 'gratz'
+[Tue May 08 23:47:31 2001] You told Dalamaru, 'Sorry that took so long. The GM verified your report - let me get to Dalnir.'
+[Tue May 08 23:47:35 2001] You GMSAY, 'zone'
+[Tue May 08 23:47:37 2001] Players in EverQuest:
+[Tue May 08 23:47:37 2001] ---------------------------
+[Tue May 08 23:47:37 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AR8NZR1)
+[Tue May 08 23:47:37 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: gfaydark (USER PID AUGBQH4)
+[Tue May 08 23:47:37 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AT6J632)
+[Tue May 08 23:47:37 2001] There are 3 players in EverQuest.
+[Tue May 08 23:47:38 2001] Gondolfin says out of character, 'Binding at the orc lift for donations.'
+[Tue May 08 23:47:41 2001] LOADING, PLEASE WAIT...
+[Tue May 08 23:48:06 2001] You have entered Dalnir.
+[Tue May 08 23:48:13 2001] Searching zones for corpse of that name....
+[Tue May 08 23:48:13 2001] Corpse: Dalamaru's corpse0 in zone: dalnir
+[Tue May 08 23:48:32 2001] Teleporting to Dalamaru's corpse0.
+[Tue May 08 23:48:42 2001] Chargr cheers at Espranza.
+[Tue May 08 23:48:44 2001] You have not received any tells, so you cannot reply.
+[Tue May 08 23:48:51 2001] You told Dalamaru, 'Ready for a rez?'
+[Tue May 08 23:48:56 2001] Dalamaru tells you, 'sure am'
+[Tue May 08 23:49:01 2001] Rieekan says, 'ooo its snack time'
+[Tue May 08 23:49:06 2001] Rieekan grins evilly at Espranza.
+[Tue May 08 23:49:14 2001] Chargr drools all over Espranza.
+[Tue May 08 23:49:21 2001] You say, 'I have some brother halflings right here to protect me!'
+[Tue May 08 23:49:40 2001] Dalamaru says, 'Hail Espranza'
+[Tue May 08 23:49:43 2001] Dalamaru thanks Espranza heartily.
+[Tue May 08 23:49:44 2001] You wave at Dalamaru.
+[Tue May 08 23:49:48 2001] Chargr says, '<<<<<< will work for elderspirit armor'
+[Tue May 08 23:49:48 2001] Rieekan cheers at Dalamaru.
+[Tue May 08 23:49:55 2001] You told Dalamaru, 'Are you with these people?'
+[Tue May 08 23:50:00 2001] Dalamaru tells you, 'yes thanks'
+[Tue May 08 23:50:01 2001] a coerced iksar begins to cast a spell. (Banshee Aura)
+[Tue May 08 23:50:01 2001] a kly evoker begins to cast a spell. (O'Keils Radiation)
+[Tue May 08 23:50:04 2001] You told Dalamaru, 'okay! be well!'
+[Tue May 08 23:50:06 2001] DELETING THIS PETITION
+[Tue May 08 23:50:08 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:50:08 2001] USER TEXT: buddy here fell for 10,000 points
+[Tue May 08 23:50:08 2001] Players in EverQuest:
+[Tue May 08 23:50:08 2001] ---------------------------
+[Tue May 08 23:50:08 2001] [51 Wanderer] Chargr (Halfling) <Thunderwalkers> ZONE: dalnir (USER PID ASH93US)
+[Tue May 08 23:50:08 2001] There is 1 player in EverQuest.
+[Tue May 08 23:50:11 2001] Rieekan thanks Espranza heartily.
+[Tue May 08 23:50:13 2001] Dalamaru tells you, 'and you too'
+[Tue May 08 23:50:18 2001] Chargr begins to cast a spell. (Storm Strength)
+[Tue May 08 23:50:20 2001] You say, 'Okay, got your petition Chargr!'
+[Tue May 08 23:50:23 2001] DELETING THIS PETITION
+[Tue May 08 23:50:23 2001] You feel stronger.
+[Tue May 08 23:50:25 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:50:26 2001] USER TEXT: bad name: kahnibus (cannabis)
+[Tue May 08 23:50:26 2001] Players in EverQuest:
+[Tue May 08 23:50:26 2001] ---------------------------
+[Tue May 08 23:50:26 2001] [ANON (3 Druid)] Tudaine (Wood Elf) ZONE: gfaydark (USER PID APGZ4VS)
+[Tue May 08 23:50:26 2001] There is 1 player in EverQuest.
+[Tue May 08 23:50:27 2001] Chargr beams a smile at Espranza.
+[Tue May 08 23:50:37 2001] Players in EverQuest:
+[Tue May 08 23:50:37 2001] ---------------------------
+[Tue May 08 23:50:37 2001] [6 Druid] Kahnibus (Wood Elf) ZONE: gfaydark (USER PID AN5YNFB)
+[Tue May 08 23:50:37 2001] There is 1 player in EverQuest.
+[Tue May 08 23:50:54 2001] Chargr says, 'thanks for the assistance'
+[Tue May 08 23:50:55 2001] You told Tudaine, 'Hello again, Tudaine! Guide Espranza here. Bad name noted. Thanks!'
+[Tue May 08 23:50:58 2001] You say, 'anytime!'
+[Tue May 08 23:51:01 2001] Rieekan says, 'thanks '
+[Tue May 08 23:51:02 2001] Dalamaru begins to cast a spell. (Valor)
+[Tue May 08 23:51:09 2001] Dalamaru begins to cast a spell. (Guard)
+[Tue May 08 23:51:16 2001] Dalamaru begins to cast a spell. (Symbol of Pinzarn)
+[Tue May 08 23:51:23 2001] You GMSAY, '<note badname> Kahnibus AN5YNFB'
+[Tue May 08 23:51:24 2001] Dalamaru begins to cast a spell. (Armor of Protection)
+[Tue May 08 23:51:31 2001] DELETING THIS PETITION
+[Tue May 08 23:51:33 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:51:34 2001] USER TEXT: a group of merchants are not selling, Barthal, Moran Smith, Solani Dayadil, Bassanio Weekin, and Gahna Salbeen
+[Tue May 08 23:51:34 2001] Players in EverQuest:
+[Tue May 08 23:51:34 2001] ---------------------------
+[Tue May 08 23:51:34 2001] [28 Druid] Circa (Wood Elf) ZONE: qeytoqrg (USER PID APCBR8A)
+[Tue May 08 23:51:34 2001] There is 1 player in EverQuest.
+[Tue May 08 23:51:37 2001] You GMSAY, 'zone'
+[Tue May 08 23:51:40 2001] LOADING, PLEASE WAIT...
+[Tue May 08 23:52:09 2001] You have entered South Qeynos.
+[Tue May 08 23:52:14 2001] It begins to rain.
+[Tue May 08 23:52:40 2001] Port Authority Officer shouts 'Here ye, here ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! 
+[Tue May 08 23:52:43 2001] USER TEXT: a group of merchants are not selling, Barthal, Moran Smith, Solani Dayadil, Bassanio Weekin, and Gahna Salbeen
+[Tue May 08 23:53:05 2001] Kasine Paegra begins to cast a spell. (Yaulp IV)
+[Tue May 08 23:53:17 2001] Moran Smith says 'Hi there Espranza, just browsing?  Have you seen the Raw Silk Wristbands I just got in?'
+[Tue May 08 23:53:17 2001] Sardinha shouts, 'I am looking for the place to buy Sickness spell..please help'
+[Tue May 08 23:53:17 2001] You no longer have a target.
+[Tue May 08 23:53:18 2001] Espranza saved.
+[Tue May 08 23:53:22 2001] You no longer have a target.
+[Tue May 08 23:53:22 2001] Bassanio Weekin says 'Welcome to my shop Espranza, you would probably find a Bottle handy'
+[Tue May 08 23:53:25 2001] Espranza saved.
+[Tue May 08 23:53:43 2001] You told Circa, 'Hail, Circa! Guide Espranza again. Well, they went back to their places on their own. Be well!'
+[Tue May 08 23:53:45 2001] DELETING THIS PETITION
+[Tue May 08 23:53:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Tue May 08 23:53:47 2001] USER TEXT: died in lava...seems to not be a way out
+[Tue May 08 23:53:47 2001] Players in EverQuest:
+[Tue May 08 23:53:47 2001] ---------------------------
+[Tue May 08 23:53:47 2001] [56 Master] Prien (Iksar) <Thunderwalkers> ZONE: cabeast (USER PID APXD40Z)
+[Tue May 08 23:53:47 2001] There is 1 player in EverQuest.
+[Tue May 08 23:53:50 2001] Circa tells you, 'ty :)'
+[Tue May 08 23:53:52 2001] You GMSAY, 'zone'
+[Tue May 08 23:53:57 2001] Searching zones for corpse of that name....
+[Tue May 08 23:53:57 2001] Corpse: Prien's corpse0 in zone: soldungb
+[Tue May 08 23:54:02 2001] LOADING, PLEASE WAIT...
+[Tue May 08 23:54:27 2001] You have entered Nagafen's Lair.
+[Tue May 08 23:54:34 2001] You feel the spirit of Norrath enter you.
+[Tue May 08 23:54:35 2001] Your feet leave the ground.
+[Tue May 08 23:54:57 2001] You are invulnerable.
+[Tue May 08 23:55:04 2001] Teleporting to Prien's corpse0.
+[Tue May 08 23:55:25 2001] Teleporting to imp_protector00 (-650.00, 114.00, -81.88).
+[Tue May 08 23:55:58 2001] Your invulnerability fades.
+[Tue May 08 23:56:06 2001] Teleporting to imp_protector00 (-650.00, 114.00, -81.88).
+[Tue May 08 23:56:20 2001] Summoning Prien's corpse0.
+[Tue May 08 23:56:39 2001] You told Prien, 'Hail, Prien! Guide Espranza here. I've pulled your corpse from the lava...'
+[Tue May 08 23:56:49 2001] Prien tells you, 'ahh thank you'
+[Tue May 08 23:56:57 2001] You told Prien, 'you're welcome!'
+[Tue May 08 23:57:00 2001] DELETING THIS PETITION
+[Tue May 08 23:57:10 2001] You GMSAY, 'zone'
+[Tue May 08 23:57:13 2001] LOADING, PLEASE WAIT...
+[Tue May 08 23:57:32 2001] You have entered Sunset Home.
+[Tue May 08 23:58:41 2001] It is 12 PM on Sunday, the 1st day of October, of the year 3206.
+[Tue May 08 23:58:41 2001] Earth Time: Tue May 08 23:58:41 2001
+[Wed May 09 00:00:40 2001] Prien tells you, 'they had to zone out i guess...any chance its by zone? =)'
+[Wed May 09 00:01:20 2001] You told Prien, 'No, it's near the pit you fell into.'
+[Wed May 09 00:01:31 2001] Prien tells you, 'k'
+[Wed May 09 00:01:47 2001] You told Prien, 'I put it as close to bugs as possible... you don't have to deal with ALL the mobs...'
+[Wed May 09 00:02:03 2001] You told Prien, 'but rules require me to leave it where you died as near as possible.'
+[Wed May 09 00:02:25 2001] Prien tells you, 'cool,  agroed the mobs so i couldnt get off my gate potion =)'
+[Wed May 09 00:02:46 2001] You told Prien, 'agh... and FD didn't work?'
+[Wed May 09 00:03:05 2001] Prien tells you, 'naa didnt clear'
+[Wed May 09 00:03:14 2001] You told Prien, 'dang.'
+[Wed May 09 00:03:18 2001] Players in EverQuest:
+[Wed May 09 00:03:18 2001] ---------------------------
+[Wed May 09 00:03:18 2001] [ANON (52 Vicar)] Awewenu (High Elf) ZONE: soldungb (USER PID AQ335RP)
+[Wed May 09 00:03:18 2001] [ANON (53 Wanderer)] Zeddiculis (Wood Elf) ZONE: soldungb (USER PID AS3RQTG)
+[Wed May 09 00:03:18 2001] [47 Shadow Knight] Kifael (Dark Elf) <Temple of Dawn> ZONE: soldungb (USER PID AU6JU9A)
+[Wed May 09 00:03:18 2001] [47 Enchanter] Hhawk (High Elf) <Temple of Dawn> ZONE: soldungb (USER PID ASBBZLU)
+[Wed May 09 00:03:18 2001] [45 Shaman] Warlor (Barbarian) <Temple of Dawn> ZONE: soldungb (USER PID AVWNX67)
+[Wed May 09 00:03:18 2001] [60 High Priest] Buffoon (Halfling) <Thunderwalkers> ZONE: soldungb (USER PID ARJ8TY4)
+[Wed May 09 00:03:18 2001] [55 Preserver] Mesotron (Wood Elf) <Thunderwalkers> ZONE: soldungb (USER PID AP9WVJ4)
+[Wed May 09 00:03:18 2001] [54 Minstrel] Rikzat (Half Elf) <Thunderwalkers> ZONE: soldungb (USER PID AW9B3C8)
+[Wed May 09 00:03:18 2001] [54 Mystic] Kohos (Troll) <Circle of the Unseen> ZONE: soldungb (USER PID APSYD9Z)
+[Wed May 09 00:03:18 2001] [43 Cleric] Romancegray (Dwarf) <Power of Peace> ZONE: soldungb (USER PID AVFNYN4)
+[Wed May 09 00:03:18 2001] [42 Druid] Sopdru (Wood Elf) <Kingdom of Steel> ZONE: soldungb (USER PID AV6SWAN)
+[Wed May 09 00:03:18 2001] [42 Monk] Gzone (Iksar) ZONE: soldungb (USER PID AUL8EBR)
+[Wed May 09 00:03:18 2001] [35 Wizard] Malaari (High Elf) <Legions of Valhalla> ZONE: soldungb (USER PID AX0EHEA)
+[Wed May 09 00:03:18 2001] [ANON (46 Cleric)] Esskatt (High Elf) ZONE: soldungb (USER PID AS81YVG)
+[Wed May 09 00:03:18 2001] [42 Rogue] Tempmagmol (Dwarf) ZONE: soldungb (USER PID AZK17A3)
+[Wed May 09 00:03:18 2001] [ANON (58 Master)] Lytic (Iksar) ZONE: soldungb (USER PID ASUQ7FT)
+[Wed May 09 00:03:18 2001] [46 Shadow Knight] Huyngung (Dark Elf) <Exiled Elite> ZONE: soldungb (USER PID AWRGU7U)
+[Wed May 09 00:03:18 2001] [44 Cleric] Koharu (High Elf) ZONE: soldungb (USER PID AZRUEYY)
+[Wed May 09 00:03:18 2001] [47 Warrior] Caeorn (Human) <Fortitude Vindcit> ZONE: soldungb (USER PID ASJ4SKL)
+[Wed May 09 00:03:18 2001] [38 Magician] Eben (Erudite) ZONE: soldungb (USER PID ANC8BAW)
+[Wed May 09 00:03:18 2001] There are 20 players in EverQuest.
+[Wed May 09 00:03:44 2001] You told Prien, 'I noticed Efreeti was all nice and cleared when I was there.'
+[Wed May 09 00:04:17 2001] Players in EverQuest:
+[Wed May 09 00:04:17 2001] ---------------------------
+[Wed May 09 00:04:17 2001] * Guide *[50 Rogue] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Wed May 09 00:04:17 2001] [ANON (255 Unknown)]  (Unknown) ZONE:  (USER PID AT6J632)
+[Wed May 09 00:04:17 2001] There are 2 players in EverQuest.
+[Wed May 09 00:04:20 2001] Prien tells you, 'hehe yea i seem to have bad luck in solb...didnt know about that whole in floor'
+[Wed May 09 00:04:33 2001] You told Prien, 'always gets someone.'
+[Wed May 09 00:04:54 2001] You told Prien, 'raid leader should have warned... oh well. be well, and best of luck!'
+[Wed May 09 00:05:30 2001] Prien tells you, 'thanks for helping'
+[Wed May 09 00:05:35 2001] You told Prien, 'anytime!'
+[Wed May 09 00:05:39 2001] You GMSAY, 'night all!'
+[Wed May 09 00:05:43 2001] It will take you about 30 seconds to prepare your camp.
+[Wed May 09 00:05:47 2001] It will take about 25 more seconds to prepare your camp.
+[Wed May 09 00:05:52 2001] It will take about 20 more seconds to prepare your camp.
+[Wed May 09 00:05:58 2001] It will take about 15 more seconds to prepare your camp.
+[Wed May 09 00:06:03 2001] It will take about 10 more seconds to prepare your camp.
+[Wed May 09 00:06:08 2001] It will take about 5 more seconds to prepare your camp.

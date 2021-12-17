@@ -1,0 +1,92 @@
+<HTML>
+
+<HEAD>
+<TITLE>Riemann Sum Java Applet</TITLE>
+</HEAD>
+
+<BODY>
+
+<H2>Riemann Sum Java Applet</H2>
+
+To use this applet you must have a Java and JavaScript aware browser such as <A HREF="http://home.netscape.com/comprod/mirror/client_download.html">Netscape 3.0</A>
+
+<BR><BR>
+
+The Riemann Sum approximates the integral of f(x) from x = 0 to 1. 
+Use the + and - buttons below to increase and decrease the size of dx, the base of the rectangles.
+
+<BR><BR>
+
+<TABLE BORDER=1 CELLPADDING=2>
+
+<TR>
+
+<TD COLSPAN=3 ALIGN="center">
+<FORM NAME="functionForm">
+f(x) = <INPUT TYPE="text" SIZE=40 NAME="functionFld" VALUE="log(7 * x + 7) + cos(7 * x)">
+<INPUT TYPE="button" VALUE="Draw y=f(x)" NAME="drawBtn" onClick="drawFunction();">
+</TD>
+
+<TD ALIGN="center">
+Tops: <SELECT NAME="tops" onChange="changeTops();">
+<OPTION VALUE="Constant, Random point">Constant (Riemann Sum)
+<OPTION VALUE="Constant, Left point">Constant (Left point Riemann Sum)
+<OPTION VALUE="Constant, Mid-point">Constant (Mid-point Rule)
+<OPTION VALUE="Linear">Linear (Trapezoid Rule)
+<OPTION VALUE="Quadratic">Quadratic (Simpson's Rule)
+</SELECT>
+</TD>
+
+</FORM>
+
+</TR>
+
+<TR>
+
+<TD COLSPAN=4>
+<applet name="RiemannApplet" codebase="." archive="Riemann.jar" code="Riemann.class" width=640 height=420>
+</applet>
+</TD>
+
+</TR>
+
+</TABLE>
+
+<BR>
+
+<HR>
+
+<A HREF="Riemann.java">Riemann source</A>
+<BR>
+<A HREF="ZFunction.java">ZFunction source</A>
+
+<P>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- make non-javascript aware browsers not get confused
+
+	function drawFunction()
+	{
+		document.RiemannApplet.drawFunction(document.functionForm.functionFld.value);
+	}
+	
+	function changeTops()
+	{
+		for(var i=0; i < document.functionForm.tops.length; i++)
+		{
+			if(document.functionForm.tops.options[i].selected)
+			{
+				document.RiemannApplet.changeTops(document.functionForm.tops.options[i].value);
+			}
+		}
+	}
+
+// -->
+
+</SCRIPT>
+
+
+</BODY>
+
+</HTML>

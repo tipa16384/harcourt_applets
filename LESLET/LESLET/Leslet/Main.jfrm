@@ -1,0 +1,25 @@
+Metrowerks RAD Data V 1
+BeginClasses
+    {9BE3D9E0-166E-11D1-B2D8-0060081C5489} "#base-object-class"
+    {5FA17216-8612-11D1-B2AD-006008A5C0A5} "Main"
+EndClasses
+BeginObject Leslet.Main "Main"
+    BeginProperties
+        size = "400, 500"
+        background = white
+        enabled = True
+        layout = None
+        foreground = black
+        location = "0, 0"
+        cursor = Default
+        font = Dialog-PLAIN-12
+    EndProperties
+    BeginInternalProperties
+        UseSwing 11 = 0
+        IsApplet 11 = -1
+        InfoInFiles 11 = -1
+        Description 8 = "A mini lesson player to be included within an HTML page."
+        Title 8 = Leslet
+        HTML_FileName 8 = Leslet.Main.html
+    EndInternalProperties
+EndObject

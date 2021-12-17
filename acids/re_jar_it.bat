@@ -1,0 +1,1 @@
+jar -cv0f acidsbases.jar AcidsBases.class beaker.GIF Chemical.class ckc/awt/BorderPanel.class ckc/awt/DataPoint.class ckc/awt/DataSet.class ckc/awt/ErrFrame.class ckc/awt/FramedPanel.class ckc/awt/StringUtil.class com/symantec/itools/awt/GridBagConstraintsD.class ImageLabel.class ResourceLoader.class SpacerCanvas.class test.htm

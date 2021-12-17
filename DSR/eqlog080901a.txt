@@ -1,0 +1,2106 @@
+[Thu Aug 09 20:29:59 2001] Welcome to EverQuest!
+[Thu Aug 09 20:29:59 2001] You have entered Sunset Home.
+[Thu Aug 09 20:29:59 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Account security is the user's responsibility. Please keep your password secure. Sharing accounts is in violation of the EverQuest User Agreement and Software License and can lead to disciplinary action.
+[Thu Aug 09 20:30:00 2001] GUILD MOTD: Kezia - Have you hugged your apprentice today?
+[Thu Aug 09 20:30:20 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 20:31:07 2001] Players in EverQuest:
+[Thu Aug 09 20:31:07 2001] ---------------------------
+[Thu Aug 09 20:31:08 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: kaladima (USER PID BSQ3K8R)
+[Thu Aug 09 20:31:08 2001] * Guide *[53 Mystic] Ngoc (Ogre) <Keepers of Morell Thule> ZONE: rathemtn (USER PID FUGBDWQ)
+[Thu Aug 09 20:31:08 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu Aug 09 20:31:08 2001] There are 3 players in EverQuest.
+[Thu Aug 09 20:31:10 2001] You GMSAY, 'hiya all!'
+[Thu Aug 09 20:31:18 2001] Ngoc GMSAYS, 'hey Esp'
+[Thu Aug 09 20:31:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 20:31:38 2001] USER TEXT: I'd like to have an apostrophe in my name please
+[Thu Aug 09 20:31:38 2001] Players in EverQuest:
+[Thu Aug 09 20:31:38 2001] ---------------------------
+[Thu Aug 09 20:31:38 2001] [25 Rogue] Ailu (Dark Elf) ZONE: crushbone (USER PID EQGD13H)
+[Thu Aug 09 20:31:38 2001] There is 1 player in EverQuest.
+[Thu Aug 09 20:31:54 2001] You told Ailu, 'Hail, Ailu! Guide Espranza here. In your last name?'
+[Thu Aug 09 20:32:30 2001] Ailu tells you, 'hmm, shoulda had the word apostrophe in there somewhere...I think I must need another shot of caffeine'
+[Thu Aug 09 20:32:57 2001] You told Ailu, 'What is your last name now and how would you like it to read?'
+[Thu Aug 09 20:33:30 2001] Ailu tells you, 'actually I never took one, was waiting for the okay for an apostrophe :)'
+[Thu Aug 09 20:33:52 2001] Ailu tells you, 'I'd like it to read N'tykk'
+[Thu Aug 09 20:34:00 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 20:34:00 2001] Ngoc GMSAYS, 'we leav'
+[Thu Aug 09 20:34:00 2001] You told Ailu, 'okay, what would you like it to be?'
+[Thu Aug 09 20:34:00 2001] Mersi GMSAYS, 'huh?'
+[Thu Aug 09 20:34:00 2001] Ailu tells you, 'N'tykk'
+[Thu Aug 09 20:34:12 2001] You told Ailu, 'lagging - sorry'
+[Thu Aug 09 20:34:24 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Aug 09 20:34:26 2001] GM TEXT: Espranza: would like the last name N'tykk
+[Thu Aug 09 20:34:29 2001] STATUS UPGRADED TO URGENT
+[Thu Aug 09 20:34:29 2001] STATUS UPGRADED TO EMERGENCY
+[Thu Aug 09 20:34:38 2001] You GMSAY, 'escalating Ailu for surname'
+[Thu Aug 09 20:34:39 2001] Ngoc GMSAYS, 'oh..hehe...nothing'
+[Thu Aug 09 20:34:39 2001] Ailu tells you, 'heh, aren't we all? =)'
+[Thu Aug 09 20:34:42 2001] CHECKING IN
+[Thu Aug 09 20:34:54 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 20:35:05 2001] You told Ailu, 'I've escalated your petition for the senior guide to handl - she'll be right with you!'
+[Thu Aug 09 20:35:12 2001] Ailu tells you, 'thanks@'
+[Thu Aug 09 20:35:38 2001] You feel the spirit of Z surround you.
+[Thu Aug 09 20:37:32 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 20:38:11 2001] Players in EverQuest:
+[Thu Aug 09 20:38:11 2001] ---------------------------
+[Thu Aug 09 20:38:11 2001] [57 Preserver] Gosuu (Wood Elf) ZONE: necropolis (USER PID CYXW1NE)
+[Thu Aug 09 20:38:11 2001] [ANON (60 High Priest)] Kyorlin (Dark Elf) ZONE: necropolis (USER PID CPHFBN5)
+[Thu Aug 09 20:38:11 2001] [57 Templar] Bikk (Dwarf) <Relentless Ascension> ZONE: necropolis (USER PID HW4LE0D)
+[Thu Aug 09 20:38:11 2001] [56 Evoker] Ozuden (Erudite) <Relentless Ascension> ZONE: necropolis (USER PID BQGDPXF)
+[Thu Aug 09 20:38:11 2001] [55 Templar] Cadsuane (Dark Elf) <Relentless Ascension> ZONE: necropolis (USER PID FRPD52Z)
+[Thu Aug 09 20:38:11 2001] [60 Sorcerer] Rulu (Erudite) <Relentless Ascension> ZONE: necropolis (USER PID FRUFTVR)
+[Thu Aug 09 20:38:11 2001] [56 Luminary] Traktur (Ogre) <Relentless Ascension> ZONE: necropolis (USER PID HQ9Q4JN)
+[Thu Aug 09 20:38:12 2001] [60 Warlock] Draekk (Dark Elf) <Relentless Ascension> ZONE: necropolis (USER PID HS69NWH)
+[Thu Aug 09 20:38:12 2001] [60 High Priest] Khain (High Elf) <Relentless Ascension> ZONE: necropolis (USER PID GP80G89)
+[Thu Aug 09 20:38:12 2001] [ANON (60 High Priest)] Dardolek (Dwarf) ZONE: necropolis (USER PID DPB1ZU9)
+[Thu Aug 09 20:38:12 2001] [60 High Priest] Xazy (Dark Elf) <Relentless Ascension> ZONE: necropolis (USER PID BU4H9FJ)
+[Thu Aug 09 20:38:12 2001] [58 Outrider] Ayerish (Half Elf) <Relentless Ascension> ZONE: necropolis (USER PID EQTF0MA)
+[Thu Aug 09 20:38:12 2001] [55 Evoker] Alhazred (Erudite) <Magic Incorporated> ZONE: necropolis (USER PID FSUQLM1)
+[Thu Aug 09 20:38:12 2001] [58 Preserver] Aeras (Wood Elf) ZONE: necropolis (USER PID APSRYLF)
+[Thu Aug 09 20:38:12 2001] [60 High Priest] Grumbler (Dwarf) <Relentless Ascension> ZONE: necropolis (USER PID AR08AUG)
+[Thu Aug 09 20:38:12 2001] [60 High Priest] Aarathor (Dwarf) <Relentless Ascension> ZONE: necropolis (USER PID GPNGP97)
+[Thu Aug 09 20:38:12 2001] [60 Oracle] Sorthaz (Iksar) ZONE: necropolis (USER PID HQH175H)
+[Thu Aug 09 20:38:12 2001] [ANON (60 Sorcerer)] Anglaranna (High Elf) ZONE: necropolis (USER PID DR2S38N)
+[Thu Aug 09 20:38:12 2001] [55 Master] Ryba (Human) <Relentless Ascension> ZONE: necropolis (USER PID AYHWUTX)
+[Thu Aug 09 20:38:12 2001] [60 Warlord] Togtog (Ogre) ZONE: necropolis (USER PID GN1AAWY)
+[Thu Aug 09 20:38:12 2001] Your who request was cut short..too many players.
+[Thu Aug 09 20:38:40 2001] Players in EverQuest:
+[Thu Aug 09 20:38:40 2001] ---------------------------
+[Thu Aug 09 20:38:41 2001] There are no players in EverQuest that match those who filters.
+[Thu Aug 09 20:38:49 2001] Players in EverQuest:
+[Thu Aug 09 20:38:49 2001] ---------------------------
+[Thu Aug 09 20:38:49 2001] There are no players in EverQuest that match those who filters.
+[Thu Aug 09 20:38:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 20:38:56 2001] USER TEXT: Im a lvl 17 SK my 9th lvl spell the first one o got Life tap is STILL fizzleing 9 out of every 10 times i have been casting these 9th lvl spells for 8 solid lvls now ans still 9 out of 10 the fizzle why. I got a 51 necro and new spell took 1 lvl
+[Thu Aug 09 20:38:56 2001] Players in EverQuest:
+[Thu Aug 09 20:38:56 2001] ---------------------------
+[Thu Aug 09 20:38:56 2001] [17 Shadow Knight] Kragun (Human) <United Guardians> ZONE: lakeofillomen (USER PID FTS3XAK)
+[Thu Aug 09 20:38:56 2001] There is 1 player in EverQuest.
+[Thu Aug 09 20:39:42 2001] Mersi tells the guild, 'wonder where Lirus is... it feels like he should be back by now hehe'
+[Thu Aug 09 20:40:03 2001] Espranza saved.
+[Thu Aug 09 20:40:14 2001] You told Kragun, 'Hail, Kragun! Guide Espranza here. Have you been gaining skill in the spell skill for that spell?'
+[Thu Aug 09 20:40:39 2001] You wave at Mersi.
+[Thu Aug 09 20:40:42 2001] Kragun tells you, 'of course i have thats a silyl question to me since i got a lvl 51 necro\'
+[Thu Aug 09 20:40:45 2001] Mersi waves at Espranza.
+[Thu Aug 09 20:40:45 2001] You say, 'hiya Mersi!'
+[Thu Aug 09 20:40:49 2001] Mersi says, 'Hey)'
+[Thu Aug 09 20:41:07 2001] You told Kragun, 'I know, I'm just trying to think of reasons why you would fizzle so much.'
+[Thu Aug 09 20:41:07 2001] Kragun tells you, 'i can understand my pet spell having problems i dont cast that 25 times every battle\'
+[Thu Aug 09 20:41:23 2001] You say, 'How are you this evening?'
+[Thu Aug 09 20:41:28 2001] Mersi says, 'well enough hehe'
+[Thu Aug 09 20:42:03 2001] You told Kragun, 'I can't think of any special reason - I have a level 23 SK who doesn't not often fizzle that spell.'
+[Thu Aug 09 20:42:04 2001] Kragun tells you, 'but my lvl 9 life tap i cant even use my lvl 15 life tap that will never go off i have gone throught yes not kidding here 10 full bars not bubs bars of mana and never casted my lvl 15 life tap\'
+[Thu Aug 09 20:42:12 2001] You say, 'on a pet... just a moment'
+[Thu Aug 09 20:42:13 2001] Mersi says, 'you?'
+[Thu Aug 09 20:42:17 2001] You say, 'old'
+[Thu Aug 09 20:42:20 2001] You say, 'really old'
+[Thu Aug 09 20:42:26 2001] Mersi says, 'lol'
+[Thu Aug 09 20:42:38 2001] Ngoc tells the guild, 'yeah...he's scheduled to be back soon'
+[Thu Aug 09 20:43:06 2001] You GMSAY, 'anyone know why a 17 SK would have a bad time with lifetap? spell skill for that spell maxed.'
+[Thu Aug 09 20:43:16 2001] You GMSAY, 'I have a 23 SK who can cast lifetap all day no problem'
+[Thu Aug 09 20:43:31 2001] Ngoc GMSAYS, 'depends on his wis or int'
+[Thu Aug 09 20:43:39 2001] Ngoc GMSAYS, 'if low then he will fizzle a lot'
+[Thu Aug 09 20:43:41 2001] Mersi tells the guild, 'int'
+[Thu Aug 09 20:43:48 2001] You GMSAY, 'he's a human...'
+[Thu Aug 09 20:43:51 2001] Kragun tells you, 'i will admit that my lvl 9 life tap has gotten a tad better lately but if my lvl 15 life tap i cant bother to cast yet is going to do waht lvl 9 has there really is not point ion playing a sk since they apparntly cant cast worth a crap and '
+[Thu Aug 09 20:43:52 2001] Mersi tells the guild, 'Sks use int like pure casters'
+[Thu Aug 09 20:43:53 2001] You GMSAY, 'mine's a DE'
+[Thu Aug 09 20:44:04 2001] Mersi GMSAYS, 'ask him what his int is'
+[Thu Aug 09 20:44:39 2001] You GMSAY, 'wouldn't that only affect his mana pool?'
+[Thu Aug 09 20:44:46 2001] You GMSAY, 'not success / failure?'
+[Thu Aug 09 20:44:57 2001] Ngoc GMSAYS, 'it affects fizzles too'
+[Thu Aug 09 20:45:03 2001] Ngoc GMSAYS, 'just like pallies'
+[Thu Aug 09 20:45:06 2001] You told Kragun, 'What is your intelligence?'
+[Thu Aug 09 20:46:02 2001] Mersi GMSAYS, 'anyone know what else someone can do if they can't log in a char? hes tried del char files and zone files'
+[Thu Aug 09 20:46:02 2001] Your feet leave the ground.
+[Thu Aug 09 20:46:16 2001] Kragun tells you, 'ok this battle it appears to be 4 out of every 5 casts it goes off not very god if you ask me for a 9 lvl old spell\'
+[Thu Aug 09 20:46:19 2001] You GMSAY, 'get a GM to check his character out'
+[Thu Aug 09 20:46:38 2001] Ngoc GMSAYS, 'he get kicked at char select screen?'
+[Thu Aug 09 20:47:05 2001] You told Kragun, 'What is your int?'
+[Thu Aug 09 20:47:10 2001] Ngoc GMSAYS, 'anyone know if sir Lucan's skeleton is on a timer?'
+[Thu Aug 09 20:47:13 2001] Mersi GMSAYS, 'yes'
+[Thu Aug 09 20:47:15 2001] Mersi GMSAYS, 'no'
+[Thu Aug 09 20:47:21 2001] Mersi GMSAYS, 'respectively)'
+[Thu Aug 09 20:47:22 2001] Ngoc GMSAYS, 'it isn't on a timer then?'
+[Thu Aug 09 20:47:30 2001] Mersi GMSAYS, 'no. I don't know'
+[Thu Aug 09 20:47:35 2001] Ngoc GMSAYS, 'hehe...ok'
+[Thu Aug 09 20:47:52 2001] Ngoc GMSAYS, 'hmm....only one char or all chars?'
+[Thu Aug 09 20:47:55 2001] Kragun tells you, 'my INT is 90'
+[Thu Aug 09 20:48:04 2001] Mersi GMSAYS, 'only one, Ngoc'
+[Thu Aug 09 20:48:18 2001] Ngoc GMSAYS, 'what zone?'
+[Thu Aug 09 20:48:29 2001] You told Kragun, 'The other guides feel you need a higher intelligence to cast reliably as an SK'
+[Thu Aug 09 20:48:32 2001] DELETING THIS PETITION
+[Thu Aug 09 20:48:33 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 20:48:34 2001] USER TEXT: i would like to transfer my leadership to my alt charc. So i am going to transfer leadership to my friend then he shall give it to me.
+[Thu Aug 09 20:48:34 2001] Players in EverQuest:
+[Thu Aug 09 20:48:34 2001] ---------------------------
+[Thu Aug 09 20:48:34 2001] [18 Warrior] Halamark (Dwarf) <Sharp Shards> ZONE: overthere (USER PID DZGCX7D)
+[Thu Aug 09 20:48:34 2001] There is 1 player in EverQuest.
+[Thu Aug 09 20:48:45 2001] Mersi GMSAYS, 'he is petitioning from another... Great divide. Name is Brujabuena and he isn't a primary English speaker'
+[Thu Aug 09 20:48:57 2001] Kragun tells you, 'well crap that kinda stinks then my str or agi fade and we arnt the greatest tanks as it is\'
+[Thu Aug 09 20:49:14 2001] Ngoc GMSAYS, 'well, if he hit the velious patch button already and still gets kicked, then he will need Lirus to walk his char out of the zone.'
+[Thu Aug 09 20:49:31 2001] You told Kragun, 'Many SK specific items increase both, so with time your skill and int will increase'
+[Thu Aug 09 20:49:52 2001] You told Halamark, 'Hail, Halamark! Guide Espranza here. That sounds like it would work. Can I help you with anything else?'
+[Thu Aug 09 20:50:04 2001] Halamark tells you, 'ya i need to ge to east commons'
+[Thu Aug 09 20:50:13 2001] Espranza saved.
+[Thu Aug 09 20:50:18 2001] Halamark tells you, 'I dont know how to transfer leadership'
+[Thu Aug 09 20:50:30 2001] Kragun tells you, 'again that stinks. I am not growing fond of sk's at all they casting stinks my meele stinks and i am extemely twinked'
+[Thu Aug 09 20:50:33 2001] List of commands
+[Thu Aug 09 20:50:33 2001] --------------------------------------------------------------------------------
+[Thu Aug 09 20:50:33 2001]   /guildsay
+[Thu Aug 09 20:50:33 2001]   /guildinvite
+[Thu Aug 09 20:50:33 2001]   /guildremove
+[Thu Aug 09 20:50:33 2001]   /guilddelete
+[Thu Aug 09 20:50:33 2001]   /guildstatus
+[Thu Aug 09 20:50:33 2001]   /guildleader
+[Thu Aug 09 20:50:33 2001]   /guildwar
+[Thu Aug 09 20:50:33 2001]   /guildpeace
+[Thu Aug 09 20:50:33 2001]   /guildmotd
+[Thu Aug 09 20:50:41 2001] Only the guild leader may transfer membership to an officer.
+[Thu Aug 09 20:51:02 2001] Halamark tells you, 'o god'
+[Thu Aug 09 20:51:05 2001] Halamark tells you, 'oops sorry'
+[Thu Aug 09 20:51:13 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 20:51:15 2001] Halamark tells you, 'So what shall i do?'
+[Thu Aug 09 20:51:21 2001] You told Kragun, 'Perhaps you should try a race with a higher base intelligence?'
+[Thu Aug 09 20:51:33 2001] You told Halamark, 'You can only transfer leadership to another officer'
+[Thu Aug 09 20:51:45 2001] Halamark tells you, 'how what do i type'
+[Thu Aug 09 20:51:55 2001] Ngoc GMSAYS, 'anyone know why Sir Lucan's skeleton would de-spawn in mid fight?'
+[Thu Aug 09 20:52:06 2001] You told Halamark, '/guildleader name, where name is the name of the officer you want to transfer to'
+[Thu Aug 09 20:52:16 2001] You told Halamark, 'you will become officer, your friend the leader'
+[Thu Aug 09 20:52:28 2001] Kragun tells you, 'perhaps \'
+[Thu Aug 09 20:52:28 2001] The spirit leaves you.
+[Thu Aug 09 20:52:31 2001] You told Halamark, 'then you just do the same on your other character (who should be an officer)'
+[Thu Aug 09 20:52:46 2001] You told Kragun, 'With level, of course, spells get easier even with low int.'
+[Thu Aug 09 20:52:48 2001] DELETING THIS PETITION
+[Thu Aug 09 20:52:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 20:52:51 2001] USER TEXT: I was slain on the Bloated Belly by an undead Marine at the port in Over There.  I "was" on the barge in a crawl space where I had to crouch down.  I get all the way back to the barge and the corpse is not there .
+[Thu Aug 09 20:52:51 2001] Players in EverQuest:
+[Thu Aug 09 20:52:51 2001] ---------------------------
+[Thu Aug 09 20:52:51 2001] [13 Warrior] Tahutamous (Dwarf) ZONE: timorous (USER PID HW647X3)
+[Thu Aug 09 20:52:51 2001] There is 1 player in EverQuest.
+[Thu Aug 09 20:52:59 2001] Hameka GMSAYS, 'hello... Guide Hameka here... Is Lirus on tonight by chance?'
+[Thu Aug 09 20:53:06 2001] You GMSAY, 'expected later'
+[Thu Aug 09 20:53:15 2001] Searching zones for corpse of that name....
+[Thu Aug 09 20:53:15 2001] Corpse: Tahutamous's corpse1 in zone: timorous
+[Thu Aug 09 20:53:16 2001] Corpse: Tahutamous's corpse0 in zone: overthere
+[Thu Aug 09 20:53:28 2001] Kragun tells you, 'yes but at this rate i cant even try to cast my lvl 15 spels till i am lvl 25 and even then its only a 1 in 5 chance it will work\'
+[Thu Aug 09 20:53:47 2001] You told Tahutamous, 'Hail, Tahutamous! Guide Espranza here. Your corpse is probably at the zone out point for the boat. I will bring it to land for you.'
+[Thu Aug 09 20:53:50 2001] Hameka GMSAYS, 'ok perhaps I will pop in later... any idea how long?  All I am needing is my surname if approved <G>...'
+[Thu Aug 09 20:53:58 2001] Players in EverQuest:
+[Thu Aug 09 20:53:58 2001] ---------------------------
+[Thu Aug 09 20:53:58 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: thurgadina (USER PID BSQ3K8R)
+[Thu Aug 09 20:53:58 2001] * Guide *[50 Cleric] Hameka (Dwarf) ZONE: everfrost (USER PID BUGBT2L)
+[Thu Aug 09 20:53:58 2001] * Guide *[53 Mystic] Ngoc (Ogre) <Keepers of Morell Thule> ZONE: rathemtn (USER PID FUGBDWQ)
+[Thu Aug 09 20:53:58 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu Aug 09 20:53:58 2001] There are 4 players in EverQuest.
+[Thu Aug 09 20:54:12 2001] You GMSAY, 'a senior is online ya know'
+[Thu Aug 09 20:54:22 2001] Hameka GMSAYS, 'oh yes I just noticed <G>'
+[Thu Aug 09 20:54:24 2001] Ngoc GMSAYS, '<NOTE BUG> Sir Lucan's skeleton de-spawned in mid fight.  Player said it was down to half health and rooted when it de-spawned.'
+[Thu Aug 09 20:54:34 2001] You GMSAY, 'zone'
+[Thu Aug 09 20:54:41 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 20:55:30 2001] You have entered The Overthere.
+[Thu Aug 09 20:55:33 2001] Halamark shouts, 'SOME ONE PLEASE GET ME OUT OF HERE'
+[Thu Aug 09 20:55:38 2001] Ciktin shouts, '?'
+[Thu Aug 09 20:55:48 2001] Merryholly shouts, 'where are yo bound?'
+[Thu Aug 09 20:55:51 2001] Halamark shouts, 'i need to get out of over there and around the neriak area'
+[Thu Aug 09 20:55:54 2001] Baramaf says out of character, 'ask one of the nice armored dark elves walking around'
+[Thu Aug 09 20:55:55 2001] Teleporting to tahutamous's corpse0.
+[Thu Aug 09 20:56:01 2001] You have become better at Swimming! (122)
+[Thu Aug 09 20:56:03 2001] You feel the spirit of Norrath enter you.
+[Thu Aug 09 20:56:04 2001] Halamark shouts, 'iam bound in frepeport'
+[Thu Aug 09 20:56:11 2001] Halamark shouts, 'please help me'
+[Thu Aug 09 20:56:23 2001] Varg Stonebelly shouts 'Da Bloated Belly is be coming soon!  Barsh faster if you has to go! 
+[Thu Aug 09 20:56:24 2001] Draccon says out of character, 'use yell '
+[Thu Aug 09 20:56:26 2001] Ciktin shouts, 'hehe let teh nice goons get u back to fp...'
+[Thu Aug 09 20:56:30 2001] Xemical says out of character, 'better start runnin'
+[Thu Aug 09 20:57:00 2001] Halamark shouts, 'can i get a levaitate near docks but away from guards?'
+[Thu Aug 09 20:57:09 2001] Hameka GMSAYS, 'is it too busy right now to perhaps get my surname?'
+[Thu Aug 09 20:57:20 2001] Halamark tells you, 'Is it possible for 2 leaders?'
+[Thu Aug 09 20:57:24 2001] Lirus GMSAYS, 'heya all'
+[Thu Aug 09 20:57:27 2001] Lirus GMSAYS, 'hameka come to me'
+[Thu Aug 09 20:57:28 2001] Ngoc GMSAYS, 'hi Lirus'
+[Thu Aug 09 20:57:31 2001] Hameka GMSAYS, 'hello Lirus'
+[Thu Aug 09 20:57:37 2001] You told Halamark, 'no, just one'
+[Thu Aug 09 20:57:39 2001] Hameka GMSAYS, 'Zoning......'
+[Thu Aug 09 20:57:41 2001] You GMSAY, 'Hi Lirus'
+[Thu Aug 09 20:58:04 2001] Zildrax tells you, 'Your name keeps changing. *chuckles*'
+[Thu Aug 09 20:58:12 2001] You told Zildrax, 'my name????'
+[Thu Aug 09 20:58:17 2001] You told Zildrax, 'does not'
+[Thu Aug 09 20:58:17 2001] Zildrax tells you, 'Your last name hehe'
+[Thu Aug 09 20:58:26 2001] Halamark says, 'hi there'
+[Thu Aug 09 20:58:30 2001] You told Zildrax, 'been daggerdancer for awhile now'
+[Thu Aug 09 20:58:32 2001] You say, 'hi!'
+[Thu Aug 09 20:58:38 2001] Qmanorus begins to cast a spell. (Burnout)
+[Thu Aug 09 20:58:38 2001] Camembert auctions, 'WTB an ancient coin from off the scorpiki scrounger'
+[Thu Aug 09 20:58:39 2001] You feel as if you are about to fall.
+[Thu Aug 09 20:58:39 2001] Nephratyri auctions, 'Buying Words of Possession, Refuge, Radiance'
+[Thu Aug 09 20:58:39 2001] Zildrax tells you, 'heheh, last time I saw you in person was awhile ago'
+[Thu Aug 09 20:58:40 2001] Summoning tahutamous's corpse0.
+[Thu Aug 09 20:58:40 2001] Halamark says, 'how can i get out of here alive?'
+[Thu Aug 09 20:58:45 2001] You feel as if you are about to fall.
+[Thu Aug 09 20:58:47 2001] Tahutamous tells you, 'may be running low on time and I'm bare ... no weapons for landing on OverThere'
+[Thu Aug 09 20:58:51 2001] You can no longer levitate.
+[Thu Aug 09 20:58:55 2001] You say, 'I cannot help you with that, alas'
+[Thu Aug 09 20:59:02 2001] Zildrax tells you, 'you had a "the somthing" for a last name, not sure exactly what it was'
+[Thu Aug 09 20:59:03 2001] Halamark says, 'can u levitate me?'
+[Thu Aug 09 20:59:21 2001] Sanuuan begins to cast a spell. (Locate Corpse)
+[Thu Aug 09 20:59:36 2001] Ngoc GMSAYS, 'Zoning'
+[Thu Aug 09 20:59:39 2001] You say, 'I'm a rogue, I have no buffs'
+[Thu Aug 09 20:59:43 2001] Your Location is 3455.69, 1817.28, -98.52
+[Thu Aug 09 20:59:56 2001] Halamark says, 'then what is a good way out?'
+[Thu Aug 09 21:00:07 2001] You told Tahutamous, 'Hail, Tahutamous! Your corpse is on the beach at pos 3455 pos 1817'
+[Thu Aug 09 21:00:16 2001] Halamark tells you, 'Nm'
+[Thu Aug 09 21:00:17 2001] DELETING THIS PETITION
+[Thu Aug 09 21:00:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 21:00:51 2001] USER TEXT: mordin of mordin's meats in thurg needs to be reset AGAIN =) 
+[Thu Aug 09 21:00:51 2001] Players in EverQuest:
+[Thu Aug 09 21:00:51 2001] ---------------------------
+[Thu Aug 09 21:00:51 2001] [ANON (35 Wizard)] Bangle (Erudite) ZONE: thurgadina (USER PID BX9SY96)
+[Thu Aug 09 21:00:51 2001] There is 1 player in EverQuest.
+[Thu Aug 09 21:00:56 2001] You GMSAY, 'zone'
+[Thu Aug 09 21:01:05 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 21:01:50 2001] You have entered The City of Thurgadin.
+[Thu Aug 09 21:01:57 2001] Ngoc GMSAYS, 'killing things under the world in FOB'
+[Thu Aug 09 21:02:01 2001] Teleporting to bangle.
+[Thu Aug 09 21:02:13 2001] You say, 'hiya'
+[Thu Aug 09 21:02:15 2001] Bangle bows before Espranza.
+[Thu Aug 09 21:02:35 2001] Searching for mordin00.
+[Thu Aug 09 21:02:35 2001] Could not locate player with that name.
+[Thu Aug 09 21:02:36 2001] Tahutamous tells you, 'almost there .... whats up ???'
+[Thu Aug 09 21:02:46 2001] You told Tahutamous, 'mistell?'
+[Thu Aug 09 21:02:55 2001] You told Bangle, 'do you know where he is off to?'
+[Thu Aug 09 21:03:04 2001] Bangle tells you, 'couldn't find him.'
+[Thu Aug 09 21:03:20 2001] Tahutamous tells you, 'Where is it >'
+[Thu Aug 09 21:03:28 2001] You told Tahutamous, 'Hail, Tahutamous! Your corpse is on the beach at pos 3455 pos 1817'
+[Thu Aug 09 21:04:21 2001] Bangle tells you, 'he's at the bridge.'
+[Thu Aug 09 21:04:24 2001] Mersi GMSAYS, 'oops.. LDed'
+[Thu Aug 09 21:04:28 2001] Lirus GMSAYS, 'mersi'
+[Thu Aug 09 21:04:32 2001] Lirus GMSAYS, 'come invite hameka'
+[Thu Aug 09 21:04:37 2001] Mersi GMSAYS, 'ok)'
+[Thu Aug 09 21:04:43 2001] Hameka GMSAYS, 'oh cool thanks'
+[Thu Aug 09 21:04:47 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 21:04:54 2001] Bangle tells you, 'found him.'
+[Thu Aug 09 21:05:33 2001] You told Bangle, 'I think if I try to bring him back, I'll be killed - so I'm just going to kill him. He'll be back in 10 minutes.'
+[Thu Aug 09 21:05:40 2001] Lirus tells the guild, 'welcome'
+[Thu Aug 09 21:05:41 2001] Bangle tells you, 'ok.'
+[Thu Aug 09 21:05:42 2001] You GMSAY, 'Killing Mordin Frostcleaver - I don't feel like dying.'
+[Thu Aug 09 21:05:45 2001] Killing Mordin_Frostcleaver00.
+[Thu Aug 09 21:05:46 2001] Mordin Frostcleaver says 'My comrades will avenge my death.'
+[Thu Aug 09 21:05:53 2001] Hameka tells the guild, 'well hello there everone!!!!!!'
+[Thu Aug 09 21:05:54 2001] Ngoc GMSAYS, 'hehe......'
+[Thu Aug 09 21:05:57 2001] Ngoc tells the guild, 'hello'
+[Thu Aug 09 21:05:58 2001] DELETING THIS PETITION
+[Thu Aug 09 21:05:58 2001] Alier begins to cast a spell. (Translocate: Tox)
+[Thu Aug 09 21:06:01 2001] You say to your guild, 'hiya!'
+[Thu Aug 09 21:06:18 2001] Bangle tells you, 'thank you.'
+[Thu Aug 09 21:06:47 2001] You told Bangle, 'you're welcome! Be well!'
+[Thu Aug 09 21:06:53 2001] Bangle tells you, '=) '
+[Thu Aug 09 21:06:57 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 21:06:58 2001] USER TEXT: Invisible Bandit is killing me in the pit
+[Thu Aug 09 21:06:58 2001] Players in EverQuest:
+[Thu Aug 09 21:06:58 2001] ---------------------------
+[Thu Aug 09 21:06:58 2001] [12 Monk] Zeriux (Iksar) ZONE: fieldofbone (USER PID FYC5LPY)
+[Thu Aug 09 21:06:58 2001] There is 1 player in EverQuest.
+[Thu Aug 09 21:07:04 2001] You GMSAY, 'zone'
+[Thu Aug 09 21:07:09 2001] Teleporting to zeriux.
+[Thu Aug 09 21:07:11 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 21:07:51 2001] Mersi tells the guild, 'any good training pets for guides, please take Hameka =)'
+[Thu Aug 09 21:07:53 2001] You have entered Field of Bone.
+[Thu Aug 09 21:08:27 2001] Hameka tells the guild, 'oh I can't stay for now ...so sorry to say.... I just dropped in to get my surname and guild ....'
+[Thu Aug 09 21:08:34 2001] Mersi tells the guild, 'ah) oky'
+[Thu Aug 09 21:08:37 2001] You say to your guild, 'welcome Hameka!'
+[Thu Aug 09 21:08:43 2001] You say, 'is the bandit still around?'
+[Thu Aug 09 21:08:48 2001] Mersi tells the guild, 'bienvenidas'
+[Thu Aug 09 21:09:06 2001] You say, 'what was the sort of bandit it was?'
+[Thu Aug 09 21:09:10 2001] Zeriux says, 'It was invisible, hasn't attacked me since I dead'
+[Thu Aug 09 21:09:10 2001] Fillinn says, 'their was no bandit that i saw'
+[Thu Aug 09 21:09:16 2001] You say, 'just an iksar bandit?'
+[Thu Aug 09 21:09:17 2001] decaying skeleton has been slain by Zeriux!
+[Thu Aug 09 21:09:24 2001] Zeriux says, 'Iksar Bandit, same flavor that roams the pits'
+[Thu Aug 09 21:09:32 2001] Hameka tells the guild, 'I will be back in the morning at 9 am ..... my daughter is visiting til the 21st so evenings are a bit filled up... after that I will prob come in the evenings too for extra training...'
+[Thu Aug 09 21:09:39 2001] It begins to rain.
+[Thu Aug 09 21:09:40 2001] Fillinn says, 'i tried to heal him and a bandit killed him '
+[Thu Aug 09 21:09:42 2001] Zeriux says, 'must have feel underneath'
+[Thu Aug 09 21:09:42 2001] Searching for an_iksar_bandit00.
+[Thu Aug 09 21:09:42 2001] Player is in zone fieldofbone at x = 87 y = 164 z = -44.
+[Thu Aug 09 21:09:46 2001] You say, 'I'll look for it'
+[Thu Aug 09 21:09:47 2001] Teleporting to an_Iksar_bandit00 ( 66.00, 117.00, -28.30).
+[Thu Aug 09 21:09:54 2001] Hinobi auctions, 'WTB Port/Translocate to BB or Commons'
+[Thu Aug 09 21:10:04 2001] Ngoc tells the guild, 'ok....it's raining and I can't see a thing so I'll stop after 8 kills'
+[Thu Aug 09 21:10:19 2001] Teleporting to an_iksar_bandit00.
+[Thu Aug 09 21:10:22 2001] Teleporting to an_iksar_bandit01.
+[Thu Aug 09 21:10:38 2001] Teleporting to an_iksar_bandit02.
+[Thu Aug 09 21:10:40 2001] Teleporting to an_iksar_bandit03.
+[Thu Aug 09 21:10:44 2001] Teleporting to an_iksar_bandit04.
+[Thu Aug 09 21:10:47 2001] Teleporting to an_iksar_bandit05.
+[Thu Aug 09 21:10:48 2001] Hameka GMSAYS, 'byeee everyone,...... may the Que be nice and quiet for you this night....'
+[Thu Aug 09 21:10:51 2001] Teleporting to an_iksar_bandit06.
+[Thu Aug 09 21:10:53 2001] Lirus GMSAYS, 'gnight hameka'
+[Thu Aug 09 21:10:54 2001] You GMSAY, 'later!'
+[Thu Aug 09 21:10:58 2001] Teleporting to an_iksar_bandit07.
+[Thu Aug 09 21:11:01 2001] Mersi GMSAYS, 'night Hameka'
+[Thu Aug 09 21:11:05 2001] Ngoc GMSAYS, 'Night Hameka'
+[Thu Aug 09 21:11:24 2001] Teleporting to an_iksar_bandit08.
+[Thu Aug 09 21:11:39 2001] Teleporting to an_iksar_bandit09.
+[Thu Aug 09 21:11:42 2001] Teleporting to an_iksar_bandit10.
+[Thu Aug 09 21:11:44 2001] Teleporting to an_iksar_bandit11.
+[Thu Aug 09 21:11:52 2001] Teleporting to an_iksar_bandit00.
+[Thu Aug 09 21:11:54 2001] Teleporting to an_iksar_bandit01.
+[Thu Aug 09 21:11:58 2001] Teleporting to an_iksar_bandit02.
+[Thu Aug 09 21:12:01 2001] Teleporting to an_iksar_bandit03.
+[Thu Aug 09 21:12:20 2001] Teleporting to an_iksar_bandit04.
+[Thu Aug 09 21:12:22 2001] Teleporting to an_iksar_bandit05.
+[Thu Aug 09 21:12:27 2001] Teleporting to an_iksar_bandit06.
+[Thu Aug 09 21:12:56 2001] Hinobi auctions, 'WTB Port/Translocate to BB or Commons'
+[Thu Aug 09 21:13:37 2001] Tanata auctions, 'WTS Banded Coif and Ringmale coat '
+[Thu Aug 09 21:14:02 2001] Mersi GMSAYS, 'afk a sec'
+[Thu Aug 09 21:14:14 2001] You told Zeriux, 'Hail, Zeriux! Guide Espranza here. It seems as if your bandit has popped back into the upper world...'
+[Thu Aug 09 21:15:03 2001] Zeriux tells you, 'Good deal, as long as he can't get anybody else ... that is incredible frustrating when you die from something you can't see'
+[Thu Aug 09 21:15:03 2001] You told Zeriux, 'Should he seek you again, please tell me right away and I will try to get here before he kills you.'
+[Thu Aug 09 21:15:12 2001] You told Zeriux, 'Aye, I agree'
+[Thu Aug 09 21:15:16 2001] Zeriux tells you, 'Good deal. Thank you'
+[Thu Aug 09 21:15:21 2001] You told Zeriux, 'be well!'
+[Thu Aug 09 21:15:26 2001] DELETING THIS PETITION
+[Thu Aug 09 21:15:29 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 21:15:30 2001] USER TEXT: yeah sorry to bother you but since the world went down the other night i have gone ld 6 times everytime i am on, I am on cable and hardly ever have that. Wondering if anyone else is having probs
+[Thu Aug 09 21:15:30 2001] Players in EverQuest:
+[Thu Aug 09 21:15:30 2001] ---------------------------
+[Thu Aug 09 21:15:30 2001] [ANON (42 Paladin)] Felinie (High Elf) ZONE: rathemtn (USER PID GYE53FM)
+[Thu Aug 09 21:15:30 2001] There is 1 player in EverQuest.
+[Thu Aug 09 21:15:34 2001] Zeriux tells you, 'You too. Thanks again'
+[Thu Aug 09 21:24:40 2001] Spyyte says out of character, 'thx, lol'
+[Thu Aug 09 21:24:45 2001] You have entered Field of Bone.
+[Thu Aug 09 21:24:45 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Account security is the user's responsibility. Please keep your password secure. Sharing accounts is in violation of the EverQuest User Agreement and Software License and can lead to disciplinary action.
+[Thu Aug 09 21:24:47 2001] GUILD MOTD: Kezia - Have you hugged your apprentice today?
+[Thu Aug 09 21:24:52 2001] You GMSAY, 'back...'
+[Thu Aug 09 21:25:01 2001] Mersi GMSAYS, 'yes Ngoc'
+[Thu Aug 09 21:25:02 2001] Lirus GMSAYS, 'yes ngoc'
+[Thu Aug 09 21:25:15 2001] Ngoc GMSAYS, 'Is that considered a verified bug?'
+[Thu Aug 09 21:25:16 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 21:25:17 2001] USER TEXT: You guys lost my corpse again
+[Thu Aug 09 21:25:17 2001] Players in EverQuest:
+[Thu Aug 09 21:25:17 2001] ---------------------------
+[Thu Aug 09 21:25:17 2001] [13 Warrior] Tahutamous (Dwarf) ZONE: oot (USER PID HW647X3)
+[Thu Aug 09 21:25:17 2001] There is 1 player in EverQuest.
+[Thu Aug 09 21:25:48 2001] Ngoc GMSAYS, 'as in, if someone gets stuck there and gets killed by an NPC, is it rezzable?'
+[Thu Aug 09 21:26:12 2001] Lirus GMSAYS, 'hmm..i would say no, and rp it, but then again i'm probably an ass'
+[Thu Aug 09 21:26:19 2001] Ngoc GMSAYS, 'hehhee'
+[Thu Aug 09 21:26:20 2001] Lirus GMSAYS, 'go around the rock dummy..'
+[Thu Aug 09 21:26:29 2001] Ngoc GMSAYS, 'haha'
+[Thu Aug 09 21:26:39 2001] Searching zones for corpse of that name....
+[Thu Aug 09 21:26:39 2001] Corpse: Tahutamous's corpse1 in zone: timorous
+[Thu Aug 09 21:26:40 2001] Corpse: Tahutamous's corpse1 in zone: overthere
+[Thu Aug 09 21:26:43 2001] You GMSAY, 'zone'
+[Thu Aug 09 21:26:51 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 21:27:38 2001] Mersi tells the guild, 'any suggestions for a new last name / title for me?)'
+[Thu Aug 09 21:27:38 2001] Ngoc tells the guild, 'Bocoop?'
+[Thu Aug 09 21:27:43 2001] Mersi tells the guild, '/sigh'
+[Thu Aug 09 21:27:44 2001] You have entered The Overthere.
+[Thu Aug 09 21:27:52 2001] Ngoc tells the guild, 'hehe...'
+[Thu Aug 09 21:27:55 2001] Mersi tells the guild, 'the players would get mad at me cause then my name would be a phrase'
+[Thu Aug 09 21:27:58 2001] Ngoc tells the guild, 'Ok ok....'
+[Thu Aug 09 21:28:00 2001] Sekkle auctions, 'WTS Wrath Bone Hammer ( 8/26, +5str, +2wis, +2int) SEND TELLS PLZ'
+[Thu Aug 09 21:28:04 2001] Lirus tells the guild, 'Miss Thang'
+[Thu Aug 09 21:28:04 2001] It begins to rain.
+[Thu Aug 09 21:28:05 2001] Mersi tells the guild, 'and its "Beaucoup" =)'
+[Thu Aug 09 21:28:07 2001] Teleporting to tahumatous's corpse0.
+[Thu Aug 09 21:28:18 2001] Teleporting to tahumatous's corpse1.
+[Thu Aug 09 21:28:21 2001] Mersi tells the guild, 'Mersi of the Shoe'
+[Thu Aug 09 21:28:21 2001] Ngoc tells the guild, 'hehe...I know'
+[Thu Aug 09 21:28:27 2001] Aravek shouts, '35 Cleric looking for a group.'
+[Thu Aug 09 21:28:37 2001] Lirus tells the guild, 'Lirus's second girlfriend after Rynara'
+[Thu Aug 09 21:28:37 2001] Ngoc tells the guild, 'Mersi the Moustached?'
+[Thu Aug 09 21:28:43 2001] Ngoc tells the guild, 'hahaha'
+[Thu Aug 09 21:28:43 2001] Mersi tells the guild, 'lol Lirus'
+[Thu Aug 09 21:28:50 2001] Lirus tells the guild, '=)'
+[Thu Aug 09 21:28:50 2001] Mersi tells the guild, 'too long'
+[Thu Aug 09 21:28:57 2001] Mersi tells the guild, 'and I don't have a moustache'
+[Thu Aug 09 21:29:10 2001] Sekkle auctions, 'WTS Wrath Bone Hammer ( 8/26, +5str, +2wis, +2int) SEND TELLS PLZ'
+[Thu Aug 09 21:29:22 2001] Searching zones for corpse of that name....
+[Thu Aug 09 21:29:22 2001] Corpse: Tahutamous's corpse1 in zone: overthere
+[Thu Aug 09 21:29:22 2001] Corpse: Tahutamous's corpse1 in zone: timorous
+[Thu Aug 09 21:29:29 2001] Teleporting to tahutamous's corpse0.
+[Thu Aug 09 21:29:33 2001] Ngoc tells the guild, 'hehe....Mersi the Muscles of Morell Thule'
+[Thu Aug 09 21:29:35 2001] Your Location is 3448.26, 1805.93, -91.26
+[Thu Aug 09 21:29:37 2001] Lirus GMSAYS, 'zone sec...thinking of a name for ya mers'
+[Thu Aug 09 21:29:39 2001] Mersi tells the guild, 'lol'
+[Thu Aug 09 21:29:41 2001] Iegil says out of character, 'porting Tox, BB, WC, NK'
+[Thu Aug 09 21:29:44 2001] Ngoc GMSAYS, 'Garbash....surname request'
+[Thu Aug 09 21:30:05 2001] Venomos says out of character, 'enuff already ... i command the rain to stop'
+[Thu Aug 09 21:30:21 2001] Sanuuan says out of character, 'no way'
+[Thu Aug 09 21:30:30 2001] You told Tahutamous, 'Hail, Tahutamous! Guide Espranza here. Your body is on the beach on the safe side of the city walls - loc is pos 3448 pos 1805'
+[Thu Aug 09 21:30:34 2001] Iegil says out of character, 'wow,  what druid spell is that?'
+[Thu Aug 09 21:30:38 2001] Stizeus says out of character, 'wow a high lvl druid here :)'
+[Thu Aug 09 21:30:39 2001] Tiktak says out of character, '57'
+[Thu Aug 09 21:30:41 2001] Nathanius begins to cast a spell. (Bind Affinity)
+[Thu Aug 09 21:30:41 2001] Sanuuan says out of character, 'no kidding'
+[Thu Aug 09 21:30:55 2001] Sekkle auctions, 'WTS Wrath Bone Hammer ( 8/26, +5str, +2wis, +2int) SEND TELLS PLZ'
+[Thu Aug 09 21:31:07 2001] Nathanius begins to cast a spell. (Major Shielding)
+[Thu Aug 09 21:31:10 2001] Sekkle shouts, 'lvl 17 shamn LFG at mudpitt'
+[Thu Aug 09 21:31:10 2001] Merryholly says out of character, 'bah, thats not anything important.. lets shee a druid stop a snow storm 8P'
+[Thu Aug 09 21:31:21 2001] Tahutamous tells you, 'just where is the "safe" side of that place !!?!?!?!???'
+[Thu Aug 09 21:31:39 2001] Nathanius bows before Espranza.
+[Thu Aug 09 21:31:44 2001] You told Tahutamous, 'the side outside the city walls - nowhere within is safe for you'
+[Thu Aug 09 21:31:52 2001] Nathanius chants and letters form over his head.
+[Thu Aug 09 21:31:53 2001] Nathanius concentrates and the letters fall to the ground.
+[Thu Aug 09 21:31:55 2001] DELETING THIS PETITION
+[Thu Aug 09 21:31:57 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 21:31:57 2001] USER TEXT: did the dire wolf hide cloak get nerfed?
+[Thu Aug 09 21:31:57 2001] Players in EverQuest:
+[Thu Aug 09 21:31:57 2001] ---------------------------
+[Thu Aug 09 21:31:57 2001] [50 Ranger] Aenaorn (Human) <United Guardians> ZONE: eastwastes (USER PID EX2PGMT)
+[Thu Aug 09 21:31:58 2001] There is 1 player in EverQuest.
+[Thu Aug 09 21:32:11 2001] Axer begins to cast a spell. (Dark Pact)
+[Thu Aug 09 21:32:17 2001] Sekkle auctions, 'WTS Wrath Bone Hammer ( 8/26, +5str, +2wis, +2int) SEND TELLS PLZ'
+[Thu Aug 09 21:32:21 2001] You GMSAY, 'any recent changes to an item known as "dire wolf hide cloak" that anyone is aware of?'
+[Thu Aug 09 21:32:21 2001] Nathanius smiles as the letters form the word 'Espranza'
+[Thu Aug 09 21:32:29 2001] Mersi GMSAYS, 'not that i know of'
+[Thu Aug 09 21:32:29 2001] Ngoc GMSAYS, 'Not I'
+[Thu Aug 09 21:32:34 2001] Thorre says out of character, '36 cleric looking for a group'
+[Thu Aug 09 21:32:38 2001] You GMSAY, 'thanks'
+[Thu Aug 09 21:32:54 2001] Ngoc GMSAYS, 'but Verant never tells me anything'
+[Thu Aug 09 21:32:55 2001] Tahutamous tells you, 'the only place Ive been on that isle is the wharf  is that the side you are talking about ??'
+[Thu Aug 09 21:32:55 2001] Nathanius begins to cast a spell. (Elemental Shield)
+[Thu Aug 09 21:33:09 2001] You told Aenaorn, 'Hail, Aenaorn! Guide Espranza here. Nobody here knows of any recent changes to that item... what is the problem with it?'
+[Thu Aug 09 21:33:25 2001] Aenaorn tells you, 'cant find the red globs you need for it'
+[Thu Aug 09 21:33:53 2001] Sekkle auctions, 'WTS Wrath Bone Hammer ( 8/26, +5str, +2wis, +2int) SEND TELLS PLZ'
+[Thu Aug 09 21:33:58 2001] Aenaorn tells you, 'been runnin aorun EW for awhil now without seein any'
+[Thu Aug 09 21:34:13 2001] You told Tahutamous, 'Ah... I was speaking of the one in the Overthere, do you have another one that has been lost?'
+[Thu Aug 09 21:34:32 2001] Lirus GMSAYS, 'ranger turned in wrong gems'
+[Thu Aug 09 21:34:34 2001] Furryfeets shouts, '17 druid mage and wizzie looking for tank...send tells to Xanthum'
+[Thu Aug 09 21:34:37 2001] Ngoc GMSAYS, 'doh'
+[Thu Aug 09 21:34:46 2001] Ngoc GMSAYS, 'thanks for looking into it'
+[Thu Aug 09 21:34:52 2001] Ngoc GMSAYS, 'want to tell him or me?'
+[Thu Aug 09 21:34:53 2001] Xanthum shouts, 'yeah uh please =P'
+[Thu Aug 09 21:35:11 2001] Lirus GMSAYS, 'I told him'
+[Thu Aug 09 21:35:21 2001] Ngoc GMSAYS, 'hehe...ok'
+[Thu Aug 09 21:35:21 2001] Tahutamous tells you, 'no we are on the same page  I take it that the side where the docks are is the "safe" side '
+[Thu Aug 09 21:35:26 2001] Ngoc GMSAYS, 'what gems did he turn in?'
+[Thu Aug 09 21:35:27 2001] You told Aenaorn, 'They are fairly rare, but again, we don't know of any changes to that.'
+[Thu Aug 09 21:35:29 2001] Xanthum says out of character, 'We are searching for a fine young mudwrestler to take on the Sarnaks in their little wee bikini's'
+[Thu Aug 09 21:35:31 2001] Aenaorn tells you, 'k'
+[Thu Aug 09 21:35:46 2001] You told Tahutamous, 'Oh no, the docks are very dangerous. Don't go there.'
+[Thu Aug 09 21:35:46 2001] Tiktak says out of character, 'LOL XAnthum :)'
+[Thu Aug 09 21:35:52 2001] Lirus GMSAYS, 'he turned in flawed fire emerald'
+[Thu Aug 09 21:35:52 2001] Sekkle auctions, 'WTS Wrath Bone Hammer ( 8/26, +5str, +2wis, +2int) SEND TELLS PLZ'
+[Thu Aug 09 21:35:56 2001] Ngoc GMSAYS, 'doh'
+[Thu Aug 09 21:35:58 2001] You told Tahutamous, 'swim off the boat and land outside the city walls.'
+[Thu Aug 09 21:36:03 2001] Lirus GMSAYS, 'and needed crushed'
+[Thu Aug 09 21:36:03 2001] Ngoc GMSAYS, 'he said crushed'
+[Thu Aug 09 21:36:08 2001] STATUS UPGRADED TO URGENT
+[Thu Aug 09 21:36:11 2001] DELETING THIS PETITION
+[Thu Aug 09 21:36:24 2001] Nathanius begins to cast a spell. (Invisibility)
+[Thu Aug 09 21:36:34 2001] Wavedancer says out of character, 'group 30-36 looking for second tank to complete group'
+[Thu Aug 09 21:36:40 2001] Lirus GMSAYS, 'if he would have turned in crushed it would have worked hehe'
+[Thu Aug 09 21:36:40 2001] Ngoc GMSAYS, 'and he even said he went through the dialogue to be sure'
+[Thu Aug 09 21:37:05 2001] Sarkoraz auctions, 'looking for a port to the commons or there abouts'
+[Thu Aug 09 21:37:10 2001] Wavedancer says out of character, 'or tank lite'
+[Thu Aug 09 21:37:24 2001] You GMSAY, 'zone'
+[Thu Aug 09 21:37:30 2001] Wavedancer says out of character, 'someone to assist our warrior. . . '
+[Thu Aug 09 21:37:33 2001] ERROR: Couldn't get safe coords for cshom, unable to zone.
+
+[Thu Aug 09 21:37:38 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 21:38:03 2001] You have entered Sunset Home.
+[Thu Aug 09 21:38:08 2001] Players in EverQuest:
+[Thu Aug 09 21:38:08 2001] ---------------------------
+[Thu Aug 09 21:38:08 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu Aug 09 21:38:08 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: kael (USER PID CW1ECN5)
+[Thu Aug 09 21:38:08 2001] * Guide *[53 Mystic] Ngoc (Ogre) <Keepers of Morell Thule> ZONE: paw (USER PID FUGBDWQ)
+[Thu Aug 09 21:38:08 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID BSQ3K8R)
+[Thu Aug 09 21:38:08 2001] There are 4 players in EverQuest.
+[Thu Aug 09 21:38:24 2001] You say to your guild, 'getting massive lag tonight...'
+[Thu Aug 09 21:38:34 2001] Mersi tells the guild, 'me too.. I was getting worse last night though'
+[Thu Aug 09 21:38:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 21:38:43 2001] USER TEXT: Lirus hey there finally was able to get on the dame time :) Did you not get my E-mail Ive been having pronlems with it
+[Thu Aug 09 21:38:43 2001] Players in EverQuest:
+[Thu Aug 09 21:38:43 2001] ---------------------------
+[Thu Aug 09 21:38:43 2001] [31 Paladin] Rhyanne (Half Elf) ZONE: iceclad (USER PID CSKQAW5)
+[Thu Aug 09 21:38:43 2001] There is 1 player in EverQuest.
+[Thu Aug 09 21:38:53 2001] Lirus GMSAYS, 'hehe he is pissed'
+[Thu Aug 09 21:38:58 2001] Lirus GMSAYS, 'zone'
+[Thu Aug 09 21:39:52 2001] You GMSAY, 'Lirus, someone named Rhyanne looks like you've been corresponding with them? Or they sent you an email?'
+[Thu Aug 09 21:39:58 2001] Ngoc tells the guild, 'luckily I'm getting none'
+[Thu Aug 09 21:40:03 2001] Lirus GMSAYS, 'regarding?'
+[Thu Aug 09 21:40:17 2001] Ngoc GMSAYS, 'hehe...they always say they've talked to Lirus'
+[Thu Aug 09 21:40:22 2001] You GMSAY, 'not sure, petition makes it sound like you know what they are talking about. I'll talk with them, then.'
+[Thu Aug 09 21:40:50 2001] You told Rhyanne, 'Hail, Rhyanne! Guide Espranza here. May I tell Lirus what this petition is regarding?'
+[Thu Aug 09 21:41:08 2001] Lirus GMSAYS, 'zone'
+[Thu Aug 09 21:41:42 2001] Rhyanne tells you, 'hi she should know its in reguards to my Shaman epic shield Rhionn'
+[Thu Aug 09 21:42:14 2001] You GMSAY, 'Rhyanne says this is in regards to the shaman epic shield Rhionn?'
+[Thu Aug 09 21:42:42 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 21:43:16 2001] You GMSAY, 'Rhyanne says this is in regards to the shaman epic shield Rhionn?'
+[Thu Aug 09 21:43:22 2001] The spirit leaves you.
+[Thu Aug 09 21:43:26 2001] You feel the spirit of Norrath enter you.
+[Thu Aug 09 21:43:58 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Aug 09 21:43:59 2001] GM TEXT: Espranza: Says this petition regards correspondece s/he has had with you regarding the shaman epic shield, Rhionn
+[Thu Aug 09 21:44:01 2001] STATUS UPGRADED TO URGENT
+[Thu Aug 09 21:44:02 2001] STATUS UPGRADED TO EMERGENCY
+[Thu Aug 09 21:44:12 2001] You told Rhyanne, 'Is this regarding a reimbursement?'
+[Thu Aug 09 21:44:58 2001] Rhyanne tells you, 'yes Rhionn my Shaman lost his epic shield Shield of falsehood'
+[Thu Aug 09 21:45:20 2001] Mersi GMSAYS, 'player corpse was at  .00, .00 loc... rezed for falling for 10k'
+[Thu Aug 09 21:45:22 2001] Lirus GMSAYS, 'that ranger is trying to guilt me into feeling bad now'
+[Thu Aug 09 21:45:29 2001] Mersi GMSAYS, 'ack Lirus =('
+[Thu Aug 09 21:45:33 2001] Ngoc GMSAYS, 'hhaha'
+[Thu Aug 09 21:45:35 2001] Mersi GMSAYS, 'oops'
+[Thu Aug 09 21:45:42 2001] You told Rhyanne, 'how was it lost?'
+[Thu Aug 09 21:45:45 2001] Mersi GMSAYS, 'I don't think here is a safe place'
+[Thu Aug 09 21:45:49 2001] Lirus GMSAYS, 'he was like you reimbursed kohos for a failed shaman epic...i was like ?!?!?!?!'
+[Thu Aug 09 21:46:02 2001] Lirus GMSAYS, 'Some people's kids.....'
+[Thu Aug 09 21:46:08 2001] You say to your guild, 'Mersi, all corpses I've ever looked at start out at .00 .00'
+[Thu Aug 09 21:46:13 2001] Lirus GMSAYS, 'don't believe everything ya watch on TV kid..'
+[Thu Aug 09 21:46:36 2001] Mersi GMSAYS, 'not the ones that I have seen... lemme check something.. Lirus how much would a monk have to fall for to die?'
+[Thu Aug 09 21:46:50 2001] Mersi GMSAYS, 'nm.. EK should work'
+[Thu Aug 09 21:46:53 2001] Ngoc GMSAYS, 'how much ever hp they have'
+[Thu Aug 09 21:47:02 2001] Lirus GMSAYS, 'anything over 700 ish will up to 10k if i recall'
+[Thu Aug 09 21:47:05 2001] Mersi GMSAYS, 'hehe I meant with safe fall counted in'
+[Thu Aug 09 21:47:14 2001] Lirus GMSAYS, 'gorge in OT'
+[Thu Aug 09 21:47:39 2001] Rhyanne tells you, 'died - retrieved corpse with items shield was last to pick up didnt noticed that no room was open til to late When clicked it simply disappeared no message nor did it grop on the ground'
+[Thu Aug 09 21:47:51 2001] Mersi GMSAYS, 'ok lirus, can you kill me? I want to see if my corpse will be at a 00 loc'
+[Thu Aug 09 21:48:00 2001] Lirus GMSAYS, 'kill you here?'
+[Thu Aug 09 21:48:10 2001] Mersi GMSAYS, 'wherever.. suppose cshome would be better'
+[Thu Aug 09 21:48:12 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Aug 09 21:48:13 2001] GM TEXT: Espranza: was looting corpse and shield poofed when she ran out of room.
+[Thu Aug 09 21:48:35 2001] Espranza saved.
+[Thu Aug 09 21:48:51 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Aug 09 21:48:52 2001] GM TEXT: Espranza: the shaman epic shield is what she is referring to.
+[Thu Aug 09 21:49:25 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Aug 09 21:49:26 2001] GM TEXT: Espranza: Lost her shaman epic shield when she was looting corpse, ran out of room, and it poofed.
+[Thu Aug 09 21:49:29 2001] CHECKING IN
+[Thu Aug 09 21:49:47 2001] You GMSAY, 'escalating Rhyanne - seeks reimbursment for a lost interim epic reward.'
+[Thu Aug 09 21:49:51 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 21:49:55 2001] USER TEXT: gm
+[Thu Aug 09 21:49:55 2001] Players in EverQuest:
+[Thu Aug 09 21:49:55 2001] ---------------------------
+[Thu Aug 09 21:49:55 2001] [10 Cleric] Dapious (Dwarf) ZONE: commons (USER PID HUDF25Y)
+[Thu Aug 09 21:49:55 2001] There is 1 player in EverQuest.
+[Thu Aug 09 21:49:58 2001] You told Rhyanne, 'Okay, I have escalated it to Lirus'
+[Thu Aug 09 21:50:06 2001] Rhyanne tells you, 'thk you :)'
+[Thu Aug 09 21:50:09 2001] Mersi GMSAYS, 'ok headed to CS home.. I want to see if Esp is right'
+[Thu Aug 09 21:50:14 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 21:50:16 2001] Rhyanne tells you, 'good to see you again'
+[Thu Aug 09 21:50:28 2001] You told Rhyanne, 'be well and good luck!'
+[Thu Aug 09 21:50:32 2001] Rhyanne tells you, 'TY'
+[Thu Aug 09 21:50:43 2001] You told Dapious, 'Hail, Dapious! Guide Espranza here. How may I help you?'
+[Thu Aug 09 21:51:07 2001] Dapious tells you, 'corpse was in a wall...but anpther player got it for me thanks :)'
+[Thu Aug 09 21:51:29 2001] You told Dapious, 'Okay, wonderful! Be well!'
+[Thu Aug 09 21:51:31 2001] DELETING THIS PETITION
+[Thu Aug 09 21:51:33 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 21:51:36 2001] USER TEXT: i cant find my corpse.
+[Thu Aug 09 21:51:36 2001] Players in EverQuest:
+[Thu Aug 09 21:51:36 2001] ---------------------------
+[Thu Aug 09 21:51:36 2001] [ANON (47 Magician)] Qandaien (High Elf) ZONE: lavastorm (USER PID FWCWH76)
+[Thu Aug 09 21:51:36 2001] There is 1 player in EverQuest.
+[Thu Aug 09 21:51:36 2001] Dapious tells you, 'thanks again'
+[Thu Aug 09 21:52:02 2001] You told Dapious, 'anytime'
+[Thu Aug 09 21:52:09 2001] Searching zones for corpse of that name....
+[Thu Aug 09 21:52:09 2001] Corpse: Qandaien's corpse0 in zone: soldungb
+[Thu Aug 09 21:52:10 2001] Ngoc GMSAYS, 'ok all...time for nighty night'
+[Thu Aug 09 21:52:16 2001] Mersi GMSAYS, 'night Ngoc'
+[Thu Aug 09 21:52:17 2001] Ngoc GMSAYS, 'night all'
+[Thu Aug 09 21:52:18 2001] You GMSAY, 'night Ngoc!'
+[Thu Aug 09 21:52:46 2001] Lirus GMSAYS, 'gnight ngoc'
+[Thu Aug 09 21:52:56 2001] You GMSAY, 'zone'
+[Thu Aug 09 21:53:01 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 21:53:31 2001] You have entered Nagafen's Lair.
+[Thu Aug 09 21:53:35 2001] Bloodkin waves goodbye to greater kobold.
+[Thu Aug 09 21:53:43 2001] Qandaien says, 'Hail, Espranza'
+[Thu Aug 09 21:53:43 2001] Lirus GMSAYS, '*bangs head againt the wall*'
+[Thu Aug 09 21:53:44 2001] A missed note brings Falickuli's song to a close!
+[Thu Aug 09 21:53:45 2001] Qartum begins to cast a spell. (Greater Healing)
+[Thu Aug 09 21:53:45 2001] A missed note brings Falickuli's song to a close!
+[Thu Aug 09 21:53:47 2001] You GMSAY, '?'
+[Thu Aug 09 21:53:48 2001] Qandaien feels much better.
+[Thu Aug 09 21:53:48 2001] greater kobold died.
+[Thu Aug 09 21:54:06 2001] Teleporting to qandaien's corpse0.
+[Thu Aug 09 21:54:12 2001] Flador begins to cast a spell. (Superior Healing)
+[Thu Aug 09 21:54:13 2001] Summoning Qandaien's corpse0.
+[Thu Aug 09 21:54:15 2001] sonic bat begins to cast a spell. (SonicScream)
+[Thu Aug 09 21:54:15 2001] Solusek kobold shaman begins to cast a spell. (Quickness)
+[Thu Aug 09 21:54:15 2001] Lirus GMSAYS, 'just petitioners....whine whine whine...i trusted someone who jacked me...why can't you do anything...i messed up my quest...why can't you reimburse me?'
+[Thu Aug 09 21:54:29 2001] Kililaena Scores a critical hit!(34)
+[Thu Aug 09 21:54:39 2001] Mersi GMSAYS, 'Mersi begins casting a spell.'
+[Thu Aug 09 21:54:47 2001] Mersi GMSAYS, 'Lirus feels soothed.'
+[Thu Aug 09 21:54:47 2001] Lirus GMSAYS, 'i dropped my crap on the ground...why can't i have it back'
+[Thu Aug 09 21:54:50 2001] Kililaena waves at Espranza.
+[Thu Aug 09 21:54:52 2001] Lirus GMSAYS, '*feels better*'
+[Thu Aug 09 21:54:58 2001] Vyrance grabs hold of Espranza and begins to dance with her.
+[Thu Aug 09 21:55:07 2001] Desdinova says out of character, 'WOOT Esparanza'
+[Thu Aug 09 21:55:07 2001] You told Qandaien, 'Hail, Qandaien! Guide Espranza here. I've pulled your corpse from the wall, you should be able to get to it now.'
+[Thu Aug 09 21:55:14 2001] Tennin begins to cast a spell. (Shield of the Magi)
+[Thu Aug 09 21:55:16 2001] You told Qandaien, 'desdinova hiya Des!'
+[Thu Aug 09 21:55:17 2001] Desdinova waves at Espranza.
+[Thu Aug 09 21:55:34 2001] Mersi GMSAYS, 'you need to go buy some shoes, Lirus)'
+[Thu Aug 09 21:55:39 2001] Lirus GMSAYS, 'agreed'
+[Thu Aug 09 21:55:41 2001] You wave at Qandaien.
+[Thu Aug 09 21:55:41 2001] Qandaien tells you, 'i cant see it?.'
+[Thu Aug 09 21:55:44 2001] Lirus GMSAYS, 'this dude is giving me grey jair'
+[Thu Aug 09 21:55:46 2001] Lirus GMSAYS, 'hair'
+[Thu Aug 09 21:55:48 2001] Alaru begins to cast a spell. (Remedy)
+[Thu Aug 09 21:55:49 2001] You told Qandaien, 'try logging out and back in'
+[Thu Aug 09 21:55:51 2001] Qandaien's wounds fade away.
+[Thu Aug 09 21:56:01 2001] Teleporting to qandaien's corpse0.
+[Thu Aug 09 21:56:03 2001] Lirus GMSAYS, '"i demand satisfaction"...'
+[Thu Aug 09 21:56:04 2001] Tennin begins to cast a spell. (Clarity II)
+[Thu Aug 09 21:56:05 2001] Tarrek begins to cast a spell. (Endure Magic)
+[Thu Aug 09 21:56:08 2001] Tarrek is protected from magic.
+[Thu Aug 09 21:56:10 2001] You say, 'type /assist Espranza'
+[Thu Aug 09 21:56:14 2001] Lirus GMSAYS, 'I pay 10 dollars a month blah blah blah'
+[Thu Aug 09 21:56:22 2001] Solusek kobold shaman begins to cast a spell. (Quickness)
+[Thu Aug 09 21:56:26 2001] You say, 'and then if it targets your corpse, type /loot'
+[Thu Aug 09 21:56:46 2001] Mersi GMSAYS, 'he handed in the wrong gems.. That isn't SOE's fault.. its his'
+[Thu Aug 09 21:57:01 2001] Lirus GMSAYS, 'yes, and he finaly realized that'
+[Thu Aug 09 21:57:03 2001] Meznya says, 'consent me'
+[Thu Aug 09 21:57:04 2001] You GMSAY, 'zone'
+[Thu Aug 09 21:57:06 2001] Mersi GMSAYS, 'he needs some logic classes'
+[Thu Aug 09 21:57:08 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 21:57:28 2001] You have entered Sunset Home.
+[Thu Aug 09 21:57:39 2001] DELETING THIS PETITION
+[Thu Aug 09 21:57:41 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 21:57:41 2001] Lirus GMSAYS, 'mersi'
+[Thu Aug 09 21:57:42 2001] USER TEXT: I was just killed by a iksar bandit that is under the ground in the FOB can someone rez me or at least kill this bandit under the ground
+[Thu Aug 09 21:57:42 2001] Players in EverQuest:
+[Thu Aug 09 21:57:42 2001] ---------------------------
+[Thu Aug 09 21:57:42 2001] [11 Monk] Zarsh (Iksar) <Striders of the Dark> ZONE: fieldofbone (USER PID DZN2HVW)
+[Thu Aug 09 21:57:42 2001] There is 1 player in EverQuest.
+[Thu Aug 09 21:57:44 2001] Mersi GMSAYS, 'yes?'
+[Thu Aug 09 21:57:50 2001] Lirus GMSAYS, 'what does Das`Tier mean in german?'
+[Thu Aug 09 21:57:50 2001] You GMSAY, 'zone'
+[Thu Aug 09 21:58:03 2001] Mersi GMSAYS, 'uh.. The something'
+[Thu Aug 09 21:58:03 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 21:58:41 2001] You have entered Field of Bone.
+[Thu Aug 09 21:58:50 2001] Lirus GMSAYS, 'I have been in a bad mood all day and need some)'
+[Thu Aug 09 21:59:18 2001] You GMSAY, 'the animal'
+[Thu Aug 09 21:59:27 2001] Mersi GMSAYS, 'uh... well... I am not sure if you have them in the states.. but there is a good place called "Shoe Warehouse" or something like that... Payforless sucks'
+[Thu Aug 09 21:59:28 2001] Zarsh tells you, 'hey '
+[Thu Aug 09 21:59:29 2001] Preticus shouts, 'lvl 14 monk, lfg or partner for yellows and red'
+[Thu Aug 09 21:59:40 2001] You told Zarsh, 'looking for that bandit'
+[Thu Aug 09 21:59:55 2001] Zarsh tells you, 'ok can I get a exp rez after you find it?'
+[Thu Aug 09 21:59:57 2001] Mersi GMSAYS, 'I also buy shoes at the transit, aldos, brown's... almost everywhere)'
+[Thu Aug 09 22:00:04 2001] Lirus GMSAYS, 'hehe'
+[Thu Aug 09 22:00:17 2001] You told Zarsh, 'it's unlikely, but let me see what I find'
+[Thu Aug 09 22:00:25 2001] Teleporting to an_iksar_bandit00.
+[Thu Aug 09 22:00:46 2001] Teleporting to an_iksar_bandit01.
+[Thu Aug 09 22:01:01 2001] You told Zarsh, 'it was "an iksar bandit"?'
+[Thu Aug 09 22:01:03 2001] an Iksar bandit has been slain by a scaled wolf hunter!
+[Thu Aug 09 22:01:08 2001] Teleporting to an_iksar_bandit02.
+[Thu Aug 09 22:01:16 2001] Teleporting to an_iksar_bandit03.
+[Thu Aug 09 22:01:19 2001] Zarsh tells you, 'yes it is probly some where close to my corpse'
+[Thu Aug 09 22:01:25 2001] Teleporting to an_iksar_bandit04.
+[Thu Aug 09 22:01:29 2001] Zarsh tells you, 'this has happend to me twice today'
+[Thu Aug 09 22:01:31 2001] Mersi GMSAYS, 'Velious question.. do you have to do anything other than put in the key and installing? this guy did and it still says its not enabled'
+[Thu Aug 09 22:01:35 2001] Lirus GMSAYS, 'I am being summoned to the Nameless, my new cover *cry*'
+[Thu Aug 09 22:01:45 2001] Lirus GMSAYS, 'cya in a few'
+[Thu Aug 09 22:02:01 2001] You GMSAY, 'sec, could you pop me below the world in fob please?'
+[Thu Aug 09 22:02:08 2001] Mersi GMSAYS, 'hehe hes gone'
+[Thu Aug 09 22:02:14 2001] You GMSAY, 'too fast for me'
+[Thu Aug 09 22:02:21 2001] Teleporting to an_iksar_bandit05.
+[Thu Aug 09 22:02:25 2001] Teleporting to an_iksar_bandit06.
+[Thu Aug 09 22:02:58 2001] Teleporting to bonecrawler00.
+[Thu Aug 09 22:03:01 2001] Teleporting to bonecrawler01.
+[Thu Aug 09 22:03:06 2001] Teleporting to bonecrawler02.
+[Thu Aug 09 22:03:09 2001] Teleporting to bonecrawler03.
+[Thu Aug 09 22:03:36 2001] Teleporting to bonecrawler04.
+[Thu Aug 09 22:03:39 2001] Teleporting to bonecrawler05.
+[Thu Aug 09 22:03:42 2001] Teleporting to bonecrawler06.
+[Thu Aug 09 22:03:44 2001] Teleporting to bonecrawler07.
+[Thu Aug 09 22:03:54 2001] Mouse control activated.  Use right mouse button.
+[Thu Aug 09 22:03:55 2001] Mouse control deactivated.
+[Thu Aug 09 22:03:58 2001] Mouse control activated.  Use right mouse button.
+[Thu Aug 09 22:04:19 2001] Moeshyn auctions, 'WTS ulthork hide gloves - AC8, cha-3, int+3, 50pp'
+[Thu Aug 09 22:04:42 2001] Moeshyn auctions, 'WTS ulthork hide gloves - AC8, cha-3, int+3, wt1.5, 50pp'
+[Thu Aug 09 22:05:06 2001] Volisius begins to cast a spell. (Siphon Strength)
+[Thu Aug 09 22:05:10 2001] Teleporting to carrion_shredder00.
+[Thu Aug 09 22:05:12 2001] Xsist auctions, 'WTS 2 fighting batons'
+[Thu Aug 09 22:05:13 2001] Teleporting to carrion_shredder01.
+[Thu Aug 09 22:05:21 2001] Teleporting to carrion_shredder02.
+[Thu Aug 09 22:05:24 2001] Teleporting to carrion_shredder03.
+[Thu Aug 09 22:05:56 2001] Teleporting to carrion_shredder04.
+[Thu Aug 09 22:05:59 2001] Teleporting to carrion_shredder05.
+[Thu Aug 09 22:06:02 2001] Teleporting to carrion_shredder06.
+[Thu Aug 09 22:06:04 2001] Teleporting to carrion_shredder07.
+[Thu Aug 09 22:06:18 2001] Teleporting to carrion_shredder08.
+[Thu Aug 09 22:06:21 2001] Teleporting to carrion_shredder09.
+[Thu Aug 09 22:06:24 2001] Teleporting to carrion_shredder10.
+[Thu Aug 09 22:06:27 2001] Teleporting to carrion_shredder11.
+[Thu Aug 09 22:06:55 2001] Lupusark says, 'Hail, Espranza'
+[Thu Aug 09 22:07:07 2001] You say, 'hiya'
+[Thu Aug 09 22:07:12 2001] Teleporting to carrion_shredder12.
+[Thu Aug 09 22:07:13 2001] Lupusark says, 'how are you today'
+[Thu Aug 09 22:07:15 2001] Teleporting to carrion_shredder13.
+[Thu Aug 09 22:07:57 2001] Spyyte shouts, 'ding 5'
+[Thu Aug 09 22:08:26 2001] Teleporting to carrion_shredder14.
+[Thu Aug 09 22:08:31 2001] Lupusark tells you, 'I hope I am not that bad of company > : )'
+[Thu Aug 09 22:08:32 2001] Teleporting to carrion_shredder15.
+[Thu Aug 09 22:08:44 2001] You told Lupusark, 'heh no, just trying to find something beneath the world'
+[Thu Aug 09 22:08:50 2001] Teleporting to carrion_shredder16.
+[Thu Aug 09 22:08:53 2001] Teleporting to carrion_shredder17.
+[Thu Aug 09 22:08:55 2001] Teleporting to carrion_shredder18.
+[Thu Aug 09 22:08:58 2001] Teleporting to carrion_shredder19.
+[Thu Aug 09 22:09:14 2001] Espranza saved.
+[Thu Aug 09 22:09:15 2001] Teleporting to a_iksar_bandit00.
+[Thu Aug 09 22:09:15 2001] Lupusark tells you, 'hmm but ye day is not too hectic'
+[Thu Aug 09 22:09:27 2001] You told Lupusark, 'today? not especially.'
+[Thu Aug 09 22:09:34 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 22:09:37 2001] Teleporting to iksar_bandit00.
+[Thu Aug 09 22:09:45 2001] Teleporting to an_iksar_bandit00.
+[Thu Aug 09 22:09:53 2001] Teleporting to an_iksar_bandit01.
+[Thu Aug 09 22:09:58 2001] Teleporting to an_iksar_bandit03.
+[Thu Aug 09 22:10:00 2001] Teleporting to an_iksar_bandit02.
+[Thu Aug 09 22:10:04 2001] Teleporting to an_iksar_bandit04.
+[Thu Aug 09 22:10:16 2001] Teleporting to an_iksar_bandit05.
+[Thu Aug 09 22:10:18 2001] Teleporting to an_iksar_bandit06.
+[Thu Aug 09 22:10:20 2001] Teleporting to an_iksar_bandit07.
+[Thu Aug 09 22:10:22 2001] Teleporting to an_iksar_bandit08.
+[Thu Aug 09 22:10:49 2001] You told Zarsh, 'I'm sorry, I just cannot find that silly bandit. send me a tell if he attacks again so I can get him in the act, please.'
+[Thu Aug 09 22:10:52 2001] DELETING THIS PETITION
+[Thu Aug 09 22:10:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 22:10:55 2001] USER TEXT: is there any way that i can take a PVP character and make him NON-PVP again?
+[Thu Aug 09 22:10:56 2001] Players in EverQuest:
+[Thu Aug 09 22:10:56 2001] ---------------------------
+[Thu Aug 09 22:10:56 2001] [30 Druid] Xeilus (Wood Elf) ZONE: iceclad (USER PID FV9PAVQ)
+[Thu Aug 09 22:10:56 2001] There is 1 player in EverQuest.
+[Thu Aug 09 22:11:06 2001] You GMSAY, 'zone'
+[Thu Aug 09 22:11:10 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 22:11:31 2001] You have entered Sunset Home.
+[Thu Aug 09 22:12:02 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 22:13:53 2001] You GMSAY, 'is Lirus returning tonight?'
+[Thu Aug 09 22:13:55 2001] Players in EverQuest:
+[Thu Aug 09 22:13:55 2001] ---------------------------
+[Thu Aug 09 22:13:55 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: ecommons (USER PID BSQ3K8R)
+[Thu Aug 09 22:13:55 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu Aug 09 22:13:55 2001] There are 2 players in EverQuest.
+[Thu Aug 09 22:13:59 2001] Mersi GMSAYS, 'should be.. but might not'
+[Thu Aug 09 22:15:06 2001] Lirus GMSAYS, 'back'
+[Thu Aug 09 22:15:23 2001] Mersi GMSAYS, 'Lirus, Rinna Lightshadow hits too hard =('
+[Thu Aug 09 22:15:24 2001] You told Xeilus, 'Hail, Xeilus! Guide Espranza here. GM Lirus can do that for you, but he may require a quest of you. I'll escalate your petition to him.'
+[Thu Aug 09 22:15:30 2001] STATUS UPGRADED TO URGENT
+[Thu Aug 09 22:15:31 2001] STATUS UPGRADED TO EMERGENCY
+[Thu Aug 09 22:15:33 2001] Lirus GMSAYS, 'who is that?'
+[Thu Aug 09 22:15:35 2001] Xeilus tells you, 'thanx!'
+[Thu Aug 09 22:15:46 2001] Mersi GMSAYS, 'cleric NPC in commons who I reset.. but she reset me too'
+[Thu Aug 09 22:15:47 2001] You GMSAY, 'escalating Xeilus for PvP flag removal'
+[Thu Aug 09 22:15:51 2001] CHECKING IN
+[Thu Aug 09 22:15:55 2001] Lirus GMSAYS, 'hehe'
+[Thu Aug 09 22:16:18 2001] You GMSAY, 'was your corpse at .00 .00?'
+[Thu Aug 09 22:16:26 2001] Mersi GMSAYS, 'dammit I forgot to check'
+[Thu Aug 09 22:16:38 2001] Mersi GMSAYS, 'but I went to it)'
+[Thu Aug 09 22:17:27 2001] Mersi GMSAYS, 'yes it was.. zut.. I was hoping that was a good way to check bugged ones'
+[Thu Aug 09 22:17:45 2001] Lirus GMSAYS, 'you guys and your violence'
+[Thu Aug 09 22:17:52 2001] You GMSAY, 'Aye, I thought so too, so I started doing tests'
+[Thu Aug 09 22:17:55 2001] Lirus GMSAYS, 'should try sweet talking em and using charm like me)'
+[Thu Aug 09 22:17:58 2001] Mersi GMSAYS, 'violence? what violence)'
+[Thu Aug 09 22:18:02 2001] Lirus GMSAYS, 'it's the eyepatch i tell ye'
+[Thu Aug 09 22:18:06 2001] Mersi GMSAYS, 'we don't have charm, Lirus'
+[Thu Aug 09 22:18:12 2001] Lirus GMSAYS, 'not charm like the spell'
+[Thu Aug 09 22:18:23 2001] Lirus GMSAYS, 'mojo...like austin powers'
+[Thu Aug 09 22:18:28 2001] Mersi GMSAYS, '/sigh'
+[Thu Aug 09 22:18:31 2001] Lirus GMSAYS, 'eheh'
+[Thu Aug 09 22:18:43 2001] Mersi GMSAYS, 'well.. I could have just killed her.. but thought she might be a quest npc'
+[Thu Aug 09 22:18:48 2001] Lirus GMSAYS, 'hehe'
+[Thu Aug 09 22:19:01 2001] Mersi GMSAYS, 'and shes red to me at 53'
+[Thu Aug 09 22:19:08 2001] Mersi GMSAYS, 'zone'
+[Thu Aug 09 22:20:44 2001] Mersi GMSAYS, 'there... new vambs'
+[Thu Aug 09 22:20:52 2001] Mersi GMSAYS, 'that work'
+[Thu Aug 09 22:21:08 2001] It begins to rain.
+[Thu Aug 09 22:21:32 2001] The spirit leaves you.
+[Thu Aug 09 22:21:50 2001] You feel the spirit of Norrath enter you.
+[Thu Aug 09 22:22:02 2001] Espranza saved.
+[Thu Aug 09 22:22:25 2001] Mersi GMSAYS, 'oops... did Lirus LD?'
+[Thu Aug 09 22:22:35 2001] Players in EverQuest:
+[Thu Aug 09 22:22:35 2001] ---------------------------
+[Thu Aug 09 22:22:35 2001] * Senior Guide *[53 Disciple] Mersi (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID BSQ3K8R)
+[Thu Aug 09 22:22:35 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu Aug 09 22:22:35 2001] There are 2 players in EverQuest.
+[Thu Aug 09 22:22:43 2001] You GMSAY, 'dunno'
+[Thu Aug 09 22:23:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 22:23:36 2001] USER TEXT: IllegalDta
+[Thu Aug 09 22:23:37 2001] Players in EverQuest:
+[Thu Aug 09 22:23:37 2001] ---------------------------
+[Thu Aug 09 22:23:37 2001] [15 Warrior] Raulor (Barbarian) ZONE: qeynos (USER PID EUMXBFB)
+[Thu Aug 09 22:23:37 2001] There is 1 player in EverQuest.
+[Thu Aug 09 22:23:49 2001] You told Raulor, 'Hail, Raulor! Guide Espranza here. How may I help you?'
+[Thu Aug 09 22:23:49 2001] It is 1 AM on Tuesday, the 24th day of September, of the year 3211.
+[Thu Aug 09 22:23:49 2001] Earth Time: Thu Aug 09 22:23:49 2001
+[Thu Aug 09 22:24:27 2001] Raulor tells you, 'i was just wondering, in the next expansion do i get to play the cat people form kerra isle?'
+[Thu Aug 09 22:25:16 2001] You told Raulor, 'They are relatives, but they have a different look, more like tigers.'
+[Thu Aug 09 22:25:30 2001] Raulor tells you, 'cool thanks'
+[Thu Aug 09 22:26:00 2001] You told Raulor, 'anytime! be well.'
+[Thu Aug 09 22:26:01 2001] DELETING THIS PETITION
+[Thu Aug 09 22:27:36 2001] You must stand up and be still to wave.
+[Thu Aug 09 22:27:38 2001] You wave at Mersi.
+[Thu Aug 09 22:27:46 2001] Mersi curtsies before Espranza..
+[Thu Aug 09 22:27:50 2001] You beam a smile at Mersi.
+[Thu Aug 09 22:28:16 2001] You say, 'I've been meaning to ask - any other odd jobs you guys have lying around I could do?'
+[Thu Aug 09 22:28:24 2001] You're not scaring anyone.
+[Thu Aug 09 22:28:27 2001] Mersi says, 'hehe not just yet'
+[Thu Aug 09 22:28:41 2001] You say, 'Am I doing better these days?'
+[Thu Aug 09 22:28:50 2001] You have become better at Intimidation! (114)
+[Thu Aug 09 22:29:01 2001] Mersi says, 'I think so hehe but I cannot speak for the other seniors'
+[Thu Aug 09 22:29:34 2001] You say, 'felt I was doing so badly, but nobody has had to speak with about anything for awhile, so I'm hoping for the best'
+[Thu Aug 09 22:29:50 2001] Mersi says, 'we need more appies.. are you supposed to be asking Lancet for them?'
+[Thu Aug 09 22:29:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 22:29:57 2001] USER TEXT: I just got screwed and died in Guk because of the bug, or something screen popping up while i was trying to FD....is there a way to shut that off? permentantly grr
+[Thu Aug 09 22:29:57 2001] Players in EverQuest:
+[Thu Aug 09 22:29:57 2001] ---------------------------
+[Thu Aug 09 22:29:57 2001] [48 Necromancer] Venix (Iksar) ZONE: everfrost (USER PID HY4EJF1)
+[Thu Aug 09 22:29:57 2001] There is 1 player in EverQuest.
+[Thu Aug 09 22:30:03 2001] You say, 'no, he gives them to me'
+[Thu Aug 09 22:30:10 2001] You say, 'haven't had any since Tessia'
+[Thu Aug 09 22:30:15 2001] Mersi says, 'ah'
+[Thu Aug 09 22:30:31 2001] Mersi says, 'must ask the other about that.. maybe there is a reason'
+[Thu Aug 09 22:30:50 2001] You say, 'be nice to have more'
+[Thu Aug 09 22:31:03 2001] You say, 'do you play a monk in game?'
+[Thu Aug 09 22:31:42 2001] You say, 'petitioner says there is a bug if a screen pops up while you're trying to FD, it fails'
+[Thu Aug 09 22:32:36 2001] Espranza saved.
+[Thu Aug 09 22:32:53 2001] You told Venix, 'Hail, Venix! Guide Espranza here. How may I help you?'
+[Thu Aug 09 22:33:44 2001] Mersi says, 'strange.. no I don't, but my brother does.. I play a chanter,  a rogue, a wizzy and a cleric'
+[Thu Aug 09 22:34:14 2001] Mersi says, 'what does he mean, a screen?'
+[Thu Aug 09 22:34:21 2001] You say, 'waiting on his reply now'
+[Thu Aug 09 22:34:40 2001] Lirus GMSAYS, 'rhyanne is unavail =('
+[Thu Aug 09 22:35:06 2001] Lirus GMSAYS, 'I am going to log and do some paperwork. Will see you guys tommorow =D'
+[Thu Aug 09 22:35:08 2001] You told Venix, 'Hail, Venix! Guide Espranza here. How may I help you?'
+[Thu Aug 09 22:35:11 2001] You GMSAY, 'night Lirus!'
+[Thu Aug 09 22:35:13 2001] Mersi GMSAYS, 'oky... bye Lirus)'
+[Thu Aug 09 22:35:18 2001] Mersi GMSAYS, 'remember your shoes'
+[Thu Aug 09 22:35:36 2001] You say, 'Sounds like a line from a Phish song...'
+[Thu Aug 09 22:35:50 2001] Mersi says, 'phish? never heard of them'
+[Thu Aug 09 22:35:54 2001] Venix tells you, 'nothing really...jus realized what it was.   i was trying to FD and it clicked help... -_-.  and that program doesn't even work.  so i died while screen was up . Is there a way to remove the help link since it doesn't even work?'
+[Thu Aug 09 22:35:57 2001] You say, 'REALLY???'
+[Thu Aug 09 22:36:17 2001] Mersi says, 'really... am afraid I like celtic and jazz and swing, mostly)'
+[Thu Aug 09 22:36:41 2001] You say, 'I like those too'
+[Thu Aug 09 22:36:46 2001] You say, 'I like most everything'
+[Thu Aug 09 22:37:02 2001] Mersi says, 'hehe I don't like country & western or rap'
+[Thu Aug 09 22:37:04 2001] You told Venix, 'Are you using the Velious UI?'
+[Thu Aug 09 22:37:08 2001] Mersi says, 'or opera)'
+[Thu Aug 09 22:37:13 2001] Venix tells you, 'UI?'
+[Thu Aug 09 22:37:21 2001] You say, 'Do you like light opera like Les Miserable?'
+[Thu Aug 09 22:37:26 2001] You say, 'Do you like light opera like Les Miserables?'
+[Thu Aug 09 22:37:41 2001] Mersi says, 'I don't know.. last time I saw it I was in 4th grade'
+[Thu Aug 09 22:37:56 2001] Espranza feels older.
+[Thu Aug 09 22:38:01 2001] Mersi says, 'lol'
+[Thu Aug 09 22:38:12 2001] Mersi says, 'I am 19... everyone feels old compared to me'
+[Thu Aug 09 22:38:28 2001] Mersi says, 'but I feel old as well...'
+[Thu Aug 09 22:38:40 2001] You told Venix, 'User Interface - like when you hut F10 to change views'
+[Thu Aug 09 22:38:53 2001] You say, 'at 19, I was married'
+[Thu Aug 09 22:39:09 2001] Mersi says, 'lol I don't even have a BF any more)'
+[Thu Aug 09 22:39:21 2001] Mersi says, 'so no marriage in the near future for me...'
+[Thu Aug 09 22:39:28 2001] You say, 'don't hurry things! '
+[Thu Aug 09 22:39:33 2001] Mersi says, 'am in University, studying philosophy and languages'
+[Thu Aug 09 22:39:59 2001] Venix tells you, 'zoned slow -_-.   64mb ram does that'
+[Thu Aug 09 22:40:29 2001] You told Venix, 'you are in the mode with solid border around the screen, with buttons?'
+[Thu Aug 09 22:40:45 2001] Venix tells you, 'yeah, can't stand the other modes =P'
+[Thu Aug 09 22:41:05 2001] You told Venix, 'ah. in that case I don't think you can get rid of the buttons...'
+[Thu Aug 09 22:41:07 2001] DELETING THIS PETITION
+[Thu Aug 09 22:41:21 2001] You say, 'his problem was that he keeps accidentally hitting the HELP button.'
+[Thu Aug 09 22:41:29 2001] Mersi says, 'ack'
+[Thu Aug 09 22:41:35 2001] Mersi says, 'he has help turned on? hehe'
+[Thu Aug 09 22:42:02 2001] You say, 'he uses the old UI'
+[Thu Aug 09 22:42:03 2001] Venix tells you, '-_- okie, thx narf'
+[Thu Aug 09 22:42:18 2001] Mersi says, 'I used to as well.. and never hit help buttons'
+[Thu Aug 09 22:43:10 2001] Espranza saved.
+[Thu Aug 09 22:43:23 2001] You told Venix, 'Venix is not online at this time.'
+[Thu Aug 09 22:45:54 2001] Players in EverQuest:
+[Thu Aug 09 22:45:54 2001] ---------------------------
+[Thu Aug 09 22:45:54 2001] [45 Warrior] Broozer (Barbarian) <Hall of Heroes> ZONE: hole (USER PID CZF8PLP)
+[Thu Aug 09 22:45:54 2001] [52 Pathfinder] Abracadavre (Half Elf) <Hall of Heroes> ZONE: hole (USER PID GQAZ2EM)
+[Thu Aug 09 22:45:54 2001] [1 Rogue] Entrecote (Halfling) ZONE: hole (USER PID FVLZ4RA)
+[Thu Aug 09 22:45:54 2001] [58 Evoker] Codil (Human) <Hall of Heroes> ZONE: hole (USER PID GST3TFM)
+[Thu Aug 09 22:45:54 2001] [48 Cleric] Wolfimus (Dark Elf) <Hall of Heroes> ZONE: hole (USER PID HSCV67H)
+[Thu Aug 09 22:45:54 2001] [56 Beguiler] Aaein (Dark Elf) <Hall of Heroes> ZONE: hole (USER PID AU15AY4)
+[Thu Aug 09 22:45:54 2001] [55 Master] Bookam (Human) <Hall of Heroes> ZONE: hole (USER PID FQHVB52)
+[Thu Aug 09 22:45:54 2001] [55 Master] Caamoleon (Human) <Hall of Heroes> ZONE: hole (USER PID HXBJ8NB)
+[Thu Aug 09 22:45:54 2001] [49 Cleric] Karist (Human) <Rise of the Phoenix> ZONE: hole (USER PID BNZXZLT)
+[Thu Aug 09 22:45:54 2001] [45 Enchanter] Entrancing (High Elf) <Hall of Heroes> ZONE: hole (USER PID HQZZB1K)
+[Thu Aug 09 22:45:54 2001] [52 Elementalist] Polard (Gnome) <Hall of Heroes> ZONE: hole (USER PID DPGA3Z4)
+[Thu Aug 09 22:45:54 2001] [48 Ranger] Pipswich (Wood Elf) <Hall of Heroes> ZONE: hole (USER PID BU87KPC)
+[Thu Aug 09 22:45:54 2001] [47 Warrior] Fener (Barbarian) <Hall of Heroes> ZONE: hole (USER PID HXQGNBH)
+[Thu Aug 09 22:45:54 2001] [ANON (55 Master)] Hahdook (Human) ZONE: hole (USER PID DQKRCHS)
+[Thu Aug 09 22:45:54 2001] [54 Cavalier] Lenena (Human) <Hall of Heroes> ZONE: hole (USER PID FQY69J2)
+[Thu Aug 09 22:45:54 2001] [ANON (55 Templar)] Sdaras (High Elf) ZONE: hole (USER PID GSKMCQW)
+[Thu Aug 09 22:45:54 2001] [55 Templar] Veena (Dark Elf) <Hall of Heroes> ZONE: hole (USER PID AVNQTJC)
+[Thu Aug 09 22:45:54 2001] [ANON (53 Wanderer)] Dymlos (Wood Elf) ZONE: hole (USER PID BVG7C9C)
+[Thu Aug 09 22:45:54 2001] [55 Myrmidon] Xxein (Dark Elf) <Hall of Heroes> ZONE: hole (USER PID CSVHTC4)
+[Thu Aug 09 22:45:54 2001] [53 Reaver] Seriban (Iksar) <Hall of Heroes> ZONE: hole (USER PID FRFK6M8)
+[Thu Aug 09 22:45:54 2001] Your who request was cut short..too many players.
+[Thu Aug 09 22:46:06 2001] Players in EverQuest:
+[Thu Aug 09 22:46:06 2001] ---------------------------
+[Thu Aug 09 22:46:06 2001] There are no players in EverQuest that match those who filters.
+[Thu Aug 09 22:46:08 2001] You GMSAY, 'zone'
+[Thu Aug 09 22:46:17 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 22:47:02 2001] You have entered Necropolis.
+[Thu Aug 09 22:48:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 22:48:53 2001] USER TEXT: Transportation problem
+[Thu Aug 09 22:48:53 2001] Players in EverQuest:
+[Thu Aug 09 22:48:53 2001] ---------------------------
+[Thu Aug 09 22:48:53 2001] [27 Bard] Tell (Human) <Guardians of Truth> ZONE: oasis (USER PID EV8PW41)
+[Thu Aug 09 22:48:53 2001] There is 1 player in EverQuest.
+[Thu Aug 09 22:49:28 2001] You told Tell, 'Hail, Tell! Guide Espranza here. How may I help you?'
+[Thu Aug 09 22:51:01 2001] Tell tells you, 'Hail, and thank you for the quick response. I have trouble taking a boat to BB, I zone so slow, by the time I zone in, the boat is heading back to the ocean of tears, is there a way to fix this, aside from getting a tP?'
+[Thu Aug 09 22:51:32 2001] a Chetari neophyte begins to cast a spell. (Banshee Aura)
+[Thu Aug 09 22:53:28 2001] Players in EverQuest:
+[Thu Aug 09 22:53:28 2001] ---------------------------
+[Thu Aug 09 22:53:28 2001] [27 Bard] Tell (Human) <Guardians of Truth> ZONE: oasis (USER PID EV8PW41)
+[Thu Aug 09 22:53:28 2001] There is 1 player in EverQuest.
+[Thu Aug 09 22:53:36 2001] You told Tell, 'You're in Oasis now?'
+[Thu Aug 09 22:54:25 2001] Tell tells you, 'Aye, just got off the barge'
+[Thu Aug 09 22:54:31 2001] a phase spider begins to cast a spell. (Scareling Step)
+[Thu Aug 09 22:55:03 2001] a phase spider begins to cast a spell. (Scareling Step)
+[Thu Aug 09 22:55:08 2001] You told Tell, 'you've never been able to take the boat, or just at certain times?'
+[Thu Aug 09 22:56:01 2001] Tell tells you, 'Just to BB it seems, I guess because the actaul trip between zones is so short right there, by the time I load in, I'm zoning back into Ocean of tears'
+[Thu Aug 09 22:57:21 2001] You told Tell, 'the only thing I can suggest is upgrading your system so that you zone more quickly; we can only port people across if the boats aren't working properly.'
+[Thu Aug 09 22:57:27 2001] a phase spider begins to cast a spell. (Scareling Step)
+[Thu Aug 09 22:57:30 2001] Espranza saved.
+[Thu Aug 09 22:57:47 2001] DELETING THIS PETITION
+[Thu Aug 09 22:58:04 2001] Tell tells you, 'My thanks, just wondering if there was an alternate route'
+[Thu Aug 09 22:58:26 2001] You told Tell, 'Be well!'
+[Thu Aug 09 22:58:29 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 22:58:30 2001] USER TEXT: My character, Hayatsuma, is glitched. I tried to zone into warrens from Paineel, and it crashed. Every time i try to go in with him, it crashes right away. can you help?
+[Thu Aug 09 22:58:30 2001] Players in EverQuest:
+[Thu Aug 09 22:58:30 2001] ---------------------------
+[Thu Aug 09 22:58:30 2001] [8 Magician] Shinje (High Elf) ZONE: gfaydark (USER PID AZS0G1Z)
+[Thu Aug 09 22:58:30 2001] There is 1 player in EverQuest.
+[Thu Aug 09 22:58:34 2001] The spirit leaves you.
+[Thu Aug 09 22:58:43 2001] Tell tells you, 'Likewise, thank you'
+[Thu Aug 09 22:59:07 2001] Rhyanne tells you, 'I never heard from Lirus'
+[Thu Aug 09 22:59:23 2001] a phase spider begins to cast a spell. (Scareling Step)
+[Thu Aug 09 22:59:39 2001] You told Rhyanne, 'When he came to help you, he could not find you online.'
+[Thu Aug 09 22:59:59 2001] a Chetari Dustshaper begins to cast a spell. (Banshee Aura)
+[Thu Aug 09 23:00:04 2001] A Chetari Dustshaper is surrounded by a shrieking aura.
+[Thu Aug 09 23:00:17 2001] Rhyanne tells you, 'hmm was he looking for Rhionn or Rhyanne?'
+[Thu Aug 09 23:00:32 2001] You told Rhyanne, 'I don't know'
+[Thu Aug 09 23:00:43 2001] Mersi tells the guild, 'Esp, do you know anything about lay hands?'
+[Thu Aug 09 23:00:43 2001] Rhyanne tells you, 'lol ok '
+[Thu Aug 09 23:00:48 2001] You told Rhyanne, 'Just passing along what he told me'
+[Thu Aug 09 23:00:53 2001] You say to your guild, 'a little, why?'
+[Thu Aug 09 23:01:12 2001] Mersi tells the guild, 'is it possible that it fail twice in a row for a level 11 pally?'
+[Thu Aug 09 23:01:22 2001] Rhyanne tells you, 'hmm np Well its Rhionn that lost the shield 54 Shaman'
+[Thu Aug 09 23:01:27 2001] You told Shinje, 'Hail, Shinje! Guide Espranza here. Have you been able to go into the Warrens on that computer before?'
+[Thu Aug 09 23:01:31 2001] Mersi tells the guild, 'he hits it, and it stays down but he doesn't get any hp'
+[Thu Aug 09 23:01:39 2001] Shinje tells you, 'Never tried before'
+[Thu Aug 09 23:01:49 2001] You say to your guild, 'does he target himself first?'
+[Thu Aug 09 23:01:52 2001] a phase spider begins to cast a spell. (Scareling Step)
+[Thu Aug 09 23:01:59 2001] a Chetari neophyte begins to cast a spell. (Grim Aura)
+[Thu Aug 09 23:02:03 2001] A Chetari neophyte's hand is covered with a dull aura.
+[Thu Aug 09 23:02:09 2001] You told Shinje, 'Log out of the game and try running the Optional Patch and see if that helps.'
+[Thu Aug 09 23:02:14 2001] Mersi tells the guild, 'yes he does'
+[Thu Aug 09 23:02:21 2001] Shinje tells you, 'What does that do?'
+[Thu Aug 09 23:02:37 2001] You told Shinje, 'It will download the Warrens zone to your computer.'
+[Thu Aug 09 23:02:46 2001] You say to your guild, 'is he being hit at the time?'
+[Thu Aug 09 23:02:53 2001] Shinje tells you, 'Ok, i'll try that, thank you.'
+[Thu Aug 09 23:03:13 2001] Mersi tells the guild, 'it gives him the message that he is attemping to lay hands...'
+[Thu Aug 09 23:03:25 2001] You told Shinje, 'good luck!'
+[Thu Aug 09 23:03:28 2001] DELETING THIS PETITION
+[Thu Aug 09 23:03:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 23:03:30 2001] Shinje tells you, 'Thanks'
+[Thu Aug 09 23:03:31 2001] USER TEXT: hey gm i just got started and i was hoping u would try and help me alittle
+[Thu Aug 09 23:03:31 2001] Players in EverQuest:
+[Thu Aug 09 23:03:31 2001] ---------------------------
+[Thu Aug 09 23:03:31 2001] [1 Warrior] Stuporer (Barbarian) ZONE: everfrost (USER PID AT3MTG9)
+[Thu Aug 09 23:03:31 2001] There is 1 player in EverQuest.
+[Thu Aug 09 23:04:15 2001] You say to your guild, 'perhaps he is being interrupted...'
+[Thu Aug 09 23:04:20 2001] You say to your guild, 'all I can think of'
+[Thu Aug 09 23:04:40 2001] Mersi tells the guild, 'then why would the button not pop up again though?'
+[Thu Aug 09 23:04:56 2001] Mersi tells the guild, 'and he doesn't get an interrupt message'
+[Thu Aug 09 23:05:24 2001] You say to your guild, 'my only real exp has been with the SK harm touch'
+[Thu Aug 09 23:05:30 2001] Mersi tells the guild, 'aye'
+[Thu Aug 09 23:05:48 2001] You say to your guild, 'and that is usually unresisted, but does work well when I target myself...'
+[Thu Aug 09 23:05:50 2001] Mersi tells the guild, 'its been happening for a week or two.. gonna bug it'
+[Thu Aug 09 23:05:56 2001] Mersi tells the guild, 'lol'
+[Thu Aug 09 23:05:57 2001] You say to your guild, 'cool'
+[Thu Aug 09 23:06:59 2001] You told Stuporer, 'Hail, Stuporer! Guide Espranza here. How may I help you?'
+[Thu Aug 09 23:08:05 2001] Espranza saved.
+[Thu Aug 09 23:08:15 2001] You GMSAY, 'petition: hey gm i just got started and i was hoping u would try and help me alittle'
+[Thu Aug 09 23:08:21 2001] Mersi GMSAYS, 'hehe'
+[Thu Aug 09 23:08:31 2001] Mersi GMSAYS, 'check his name as well'
+[Thu Aug 09 23:08:51 2001] You GMSAY, 'stuporer aye - NOT a newbie'
+[Thu Aug 09 23:08:57 2001] You GMSAY, 'don't care what he says'
+[Thu Aug 09 23:09:37 2001] You GMSAY, 'hasn't responded to me, so back to the queue he goes'
+[Thu Aug 09 23:09:43 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu Aug 09 23:09:45 2001] CHECKING IN
+[Thu Aug 09 23:09:47 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 23:09:47 2001] USER TEXT: we having a problem with the ass/sup spawn???
+[Thu Aug 09 23:09:47 2001] Players in EverQuest:
+[Thu Aug 09 23:09:47 2001] ---------------------------
+[Thu Aug 09 23:09:47 2001] [ANON (28 Rogue)] Envei (Wood Elf) ZONE: gukbottom (USER PID EP9KF0U)
+[Thu Aug 09 23:09:47 2001] There is 1 player in EverQuest.
+[Thu Aug 09 23:10:03 2001] You told Envei, 'Hail, Envei! Guide Espranza here. How may I help you?'
+[Thu Aug 09 23:10:44 2001] Envei tells you, 'jus outa curiosity wondering if the ass in the ass/sup room could possibly be bugged .. hasnt been seen in 5 hours'
+[Thu Aug 09 23:11:10 2001] You told Envei, 'I don't believe so, but I will note it in my shift report just in case.'
+[Thu Aug 09 23:11:26 2001] Envei tells you, 'and i shall sit and wait...'
+[Thu Aug 09 23:11:34 2001] You GMSAY, '<note issue> Assassin in LGuk apparently not spawning often enough. Doubt it's a bug, but just in case.'
+[Thu Aug 09 23:11:35 2001] Envei tells you, '=) thank you'
+[Thu Aug 09 23:11:41 2001] You told Envei, 'you're welcome - good luck!'
+[Thu Aug 09 23:11:43 2001] DELETING THIS PETITION
+[Thu Aug 09 23:11:45 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 23:11:46 2001] USER TEXT: hey gm i just got started and i was hoping u would try and help me alittle
+[Thu Aug 09 23:11:46 2001] Players in EverQuest:
+[Thu Aug 09 23:11:46 2001] ---------------------------
+[Thu Aug 09 23:11:46 2001] [1 Warrior] Stuporer (Barbarian) ZONE: everfrost (USER PID AT3MTG9)
+[Thu Aug 09 23:11:46 2001] There is 1 player in EverQuest.
+[Thu Aug 09 23:11:56 2001] Mersi GMSAYS, 'alright, time for me to camp) getting tired'
+[Thu Aug 09 23:12:15 2001] You GMSAY, 'okay, goodnight!'
+[Thu Aug 09 23:12:22 2001] Mersi GMSAYS, 'night)'
+[Thu Aug 09 23:12:39 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu Aug 09 23:12:41 2001] CHECKING IN
+[Thu Aug 09 23:13:14 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 23:13:14 2001] USER TEXT: hey gm i just got started and i was hoping u would try and help me alittle
+[Thu Aug 09 23:13:15 2001] Players in EverQuest:
+[Thu Aug 09 23:13:15 2001] ---------------------------
+[Thu Aug 09 23:13:15 2001] [1 Warrior] Stuporer (Barbarian) ZONE: everfrost (USER PID AT3MTG9)
+[Thu Aug 09 23:13:15 2001] There is 1 player in EverQuest.
+[Thu Aug 09 23:13:21 2001] You told Stuporer, 'Hail, Stuporer! Guide Espranza here. How may I help you?'
+[Thu Aug 09 23:13:22 2001] a Chetari Dustshaper begins to cast a spell. (Banshee Aura)
+[Thu Aug 09 23:13:27 2001] A Chetari Dustshaper is surrounded by a shrieking aura.
+[Thu Aug 09 23:14:45 2001] You GMSAY, 'zone'
+[Thu Aug 09 23:14:55 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 23:15:27 2001] Megaeron shouts, 'ig to snow flake'
+[Thu Aug 09 23:15:29 2001] You have entered Everfrost.
+[Thu Aug 09 23:15:39 2001] Nunnen says out of character, 'Quit hunting them if ya cant take them'
+[Thu Aug 09 23:15:59 2001] Native says out of character, 'e'
+[Thu Aug 09 23:16:01 2001] You feel the spirit of Norrath enter you.
+[Thu Aug 09 23:16:02 2001] Your feet leave the ground.
+[Thu Aug 09 23:16:07 2001] Espranza is now Invisible.
+[Thu Aug 09 23:16:07 2001] You are now anonymous.
+[Thu Aug 09 23:16:14 2001] Teleporting to stuporer.
+[Thu Aug 09 23:16:15 2001] Xabbii shouts, 'if you train your IG over me while im medding after fighting mine i am going to be pissed'
+[Thu Aug 09 23:16:19 2001] Megaeron shouts, 'no joke people'
+[Thu Aug 09 23:16:37 2001] Mcmartin says out of character, 'who can not hold thier IG???'
+[Thu Aug 09 23:16:44 2001] Espranza is now Visible.
+[Thu Aug 09 23:16:46 2001] You are no longer anonymous.
+[Thu Aug 09 23:17:09 2001] You say, 'Hello, Stuporer! Guide Espranza here. How may I help you?'
+[Thu Aug 09 23:17:21 2001] Stuporer says, 'give me a torch lol'
+[Thu Aug 09 23:17:27 2001] Stuporer says, 'i realy need 1'
+[Thu Aug 09 23:17:33 2001] Najnajs is looking at your equipment...
+[Thu Aug 09 23:17:45 2001] You say, 'I've none to give'
+[Thu Aug 09 23:17:54 2001] Najnajs says, 'why is your name green?'
+[Thu Aug 09 23:17:58 2001] You say, 'Perhaps another player could help you with one?'
+[Thu Aug 09 23:18:01 2001] Megaeron shouts, 'lose ig'
+[Thu Aug 09 23:18:05 2001] Stuporer says, 'o'
+[Thu Aug 09 23:18:09 2001] Stuporer says, 'well thx ne ways'
+[Thu Aug 09 23:18:10 2001] You say, 'I am a guide - you petitioned, and I answered.'
+[Thu Aug 09 23:18:31 2001] Najnajs says, 'I do not like guides'
+[Thu Aug 09 23:18:44 2001] DELETING THIS PETITION
+[Thu Aug 09 23:18:58 2001] Stuporer says, 'whos the little ninja with the 2 realy tight swords?'
+[Thu Aug 09 23:19:16 2001] Stuporer says, 'he looks tight'
+[Thu Aug 09 23:19:18 2001] You look at Stuporer, completely puzzled.
+[Thu Aug 09 23:19:32 2001] Meowmix shouts, 'wants to buy fungus '
+[Thu Aug 09 23:19:37 2001] Native shouts, 'Gonna try and solo a IG training to perma zone watch out lol'
+[Thu Aug 09 23:19:53 2001] You say, 'Well, good luck, Stuporer!'
+[Thu Aug 09 23:20:03 2001] You GMSAY, 'zone'
+[Thu Aug 09 23:20:08 2001] You feel the spirit of Z surround you.
+[Thu Aug 09 23:20:09 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 23:20:30 2001] You have entered Sunset Home.
+[Thu Aug 09 23:21:31 2001] It is 9 PM on Tuesday, the 24th day of September, of the year 3211.
+[Thu Aug 09 23:21:31 2001] Earth Time: Thu Aug 09 23:21:31 2001
+[Thu Aug 09 23:22:38 2001] Players in EverQuest:
+[Thu Aug 09 23:22:38 2001] ---------------------------
+[Thu Aug 09 23:22:38 2001] [39 Cleric] Hvyarms (Dwarf) <Relic Hunters> ZONE: droga (USER PID BUKH7MK)
+[Thu Aug 09 23:22:38 2001] [55 Defiler] Izzu (Iksar) <Thunderwalkers> ZONE: droga (USER PID FS3A6NJ)
+[Thu Aug 09 23:22:38 2001] [38 Monk] Shakkar (Iksar) <Relic Hunters> ZONE: droga (USER PID AYXBMJW)
+[Thu Aug 09 23:22:38 2001] [ANON (51 Wanderer)] Tumble (Halfling) ZONE: droga (USER PID HSBSPEF)
+[Thu Aug 09 23:22:38 2001] [37 Ranger] Lendien (Wood Elf) <Relic Hunters> ZONE: droga (USER PID GURN4RM)
+[Thu Aug 09 23:22:38 2001] [45 Paladin] Collyn (Human) <Relic Hunters> ZONE: droga (USER PID ER278EN)
+[Thu Aug 09 23:22:38 2001] [38 Cleric] Shwizer (Dwarf) <Relic Hunters> ZONE: droga (USER PID AX2X7Y6)
+[Thu Aug 09 23:22:38 2001] [40 Monk] Silentheart (Iksar) <Relic Hunters> ZONE: droga (USER PID GUFNYJR)
+[Thu Aug 09 23:22:38 2001] [43 Paladin] Moosi (Human) <Relic Hunters> ZONE: droga (USER PID EVSV3F6)
+[Thu Aug 09 23:22:38 2001] There are 9 players in EverQuest.
+[Thu Aug 09 23:22:52 2001] Players in EverQuest:
+[Thu Aug 09 23:22:52 2001] ---------------------------
+[Thu Aug 09 23:22:52 2001] [52 Vicar] Rietveld (High Elf) <Unbroken Power> ZONE: frozenshadow (USER PID BR8NZR1)
+[Thu Aug 09 23:22:52 2001] There is 1 player in EverQuest.
+[Thu Aug 09 23:22:55 2001] You GMSAY, 'zone'
+[Thu Aug 09 23:22:58 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 23:23:33 2001] You have entered Tower of Frozen Shadow.
+[Thu Aug 09 23:23:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 23:23:54 2001] USER TEXT: cannot find my corpse in befallen.  I beleive it is in a wall near entrance zone
+[Thu Aug 09 23:23:54 2001] Players in EverQuest:
+[Thu Aug 09 23:23:54 2001] ---------------------------
+[Thu Aug 09 23:23:54 2001] [11 Cleric] Dizdee (Dwarf) ZONE: befallen (USER PID EXRXGHM)
+[Thu Aug 09 23:23:54 2001] There is 1 player in EverQuest.
+[Thu Aug 09 23:24:02 2001] You opened the locked door with your magic GM key.
+[Thu Aug 09 23:24:41 2001] Searching zones for corpse of that name....
+[Thu Aug 09 23:24:41 2001] Corpse: Dizdee's corpse0 in zone: befallen
+[Thu Aug 09 23:24:44 2001] You GMSAY, 'zone'
+[Thu Aug 09 23:24:50 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 23:25:17 2001] Ritualist of T`Vyl died.
+[Thu Aug 09 23:25:17 2001] You have entered Befallen.
+[Thu Aug 09 23:25:41 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:25:43 2001] Teleporting to dizdee's corpse0.
+[Thu Aug 09 23:25:50 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:25:52 2001] Dizdee says, 'Hail, Espranza'
+[Thu Aug 09 23:25:52 2001] Summoning Dizdee's corpse0.
+[Thu Aug 09 23:25:57 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:26:04 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:26:04 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:26:04 2001] Dizdee bows before Espranza.
+[Thu Aug 09 23:26:12 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:26:15 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:26:23 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:26:24 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:26:30 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:26:30 2001] You say, 'I see you have found it - wonderful!'
+[Thu Aug 09 23:26:33 2001] You say, 'be well'
+[Thu Aug 09 23:26:34 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:26:36 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:26:37 2001] You wave goodbye to Dizdee.
+[Thu Aug 09 23:26:46 2001] Dizdee says, 'no i didnt'
+[Thu Aug 09 23:26:57 2001] Teleporting to Dizdee's corpse0 (-81.00,  25.14,   2.50).
+[Thu Aug 09 23:27:07 2001] Dizdee tells you, 'I have not found it... '
+[Thu Aug 09 23:27:07 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:27:11 2001] You say, 'is that it by your feet?'
+[Thu Aug 09 23:27:15 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:27:20 2001] a dark follower begins to cast a spell. (Clinging Darkness)
+[Thu Aug 09 23:27:24 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:27:25 2001] a dark follower begins to cast a spell. (Lifetap)
+[Thu Aug 09 23:27:28 2001] Dizdee says, 'I dont see it'
+[Thu Aug 09 23:27:29 2001] a dark follower begins to cast a spell. (Lifetap)
+[Thu Aug 09 23:27:32 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:27:34 2001] Hissanth says, 'Hail, Dizdee's corpse'
+[Thu Aug 09 23:27:40 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:27:42 2001] You say, 'target me and type /assist'
+[Thu Aug 09 23:27:50 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:27:51 2001] You say, 'then /loot'
+[Thu Aug 09 23:27:53 2001] a dark follower begins to cast a spell. (Engulfing Darkness)
+[Thu Aug 09 23:27:54 2001] Hissanth begins to cast a spell. (Spirit of the Howler)
+[Thu Aug 09 23:27:54 2001] Gogy is looking at your equipment...
+[Thu Aug 09 23:27:57 2001] a dark follower begins to cast a spell. (Clinging Darkness)
+[Thu Aug 09 23:27:58 2001] A missed note brings Keluen's song to a close!
+[Thu Aug 09 23:27:58 2001] a reanimated servant pet begins to cast a spell. (EarthElementalAttack)
+[Thu Aug 09 23:28:01 2001] a dark follower begins to cast a spell. (Poison Bolt)
+[Thu Aug 09 23:28:05 2001] a dark follower begins to cast a spell. (Heat Blood)
+[Thu Aug 09 23:28:08 2001] a dark follower says 'I have pledged my life and death to the Dark Lady, but before my pledge has been fulfilled, I will send another to their eternal grave! 
+[Thu Aug 09 23:28:08 2001] a dark follower says 'Humans have no place in our realm!'
+[Thu Aug 09 23:28:13 2001] a dark follower begins to cast a spell. (Disease Cloud)
+[Thu Aug 09 23:28:17 2001] a dark follower begins to cast a spell. (Clinging Darkness)
+[Thu Aug 09 23:28:19 2001] DELETING THIS PETITION
+[Thu Aug 09 23:28:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 23:28:22 2001] USER TEXT: I am in a GM room and cant get out hehe help mee
+[Thu Aug 09 23:28:22 2001] Players in EverQuest:
+[Thu Aug 09 23:28:22 2001] ---------------------------
+[Thu Aug 09 23:28:22 2001] [45 Cleric] Deduster (Halfling) <Magic Incorporated> ZONE: soldungb (USER PID BSNAKG8)
+[Thu Aug 09 23:28:22 2001] There is 1 player in EverQuest.
+[Thu Aug 09 23:28:23 2001] Dizdee tells you, 'thank you  :-)  '
+[Thu Aug 09 23:28:28 2001] You told Dizdee, 'anytime!'
+[Thu Aug 09 23:28:30 2001] You GMSAY, 'zone'
+[Thu Aug 09 23:28:34 2001] Teleporting to deduster.
+[Thu Aug 09 23:28:34 2001] Tarb begins to cast a spell. (Superior Healing)
+[Thu Aug 09 23:28:36 2001] a dark follower begins to cast a spell. (Lifetap)
+[Thu Aug 09 23:28:37 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 23:29:05 2001] You have entered Nagafen's Lair.
+[Thu Aug 09 23:29:17 2001] Deduster says, 'Hail, Espranza'
+[Thu Aug 09 23:29:17 2001] You say, 'this is a new one...'
+[Thu Aug 09 23:29:19 2001] You say, 'hiya'
+[Thu Aug 09 23:29:21 2001] You GMSAY, 'zone'
+[Thu Aug 09 23:29:22 2001] Dizdee tells you, 'never did see it...   :-(     Ahh well.. may your work load be light on this fine evening  :-) '
+[Thu Aug 09 23:29:25 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 23:29:47 2001] You have entered Sunset Home.
+[Thu Aug 09 23:30:18 2001] You feel as if you are about to fall.
+[Thu Aug 09 23:30:25 2001] You feel as if you are about to fall.
+[Thu Aug 09 23:30:31 2001] You GMSAY, 'zone'
+[Thu Aug 09 23:30:31 2001] You can no longer levitate.
+[Thu Aug 09 23:30:35 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 23:31:03 2001] You have entered Nagafen's Lair.
+[Thu Aug 09 23:31:10 2001] Summoning deduster.
+[Thu Aug 09 23:31:18 2001] DELETING THIS PETITION
+[Thu Aug 09 23:31:19 2001] Deduster says, 'thnx'
+[Thu Aug 09 23:31:25 2001] You beam a smile at Deduster.
+[Thu Aug 09 23:31:27 2001] You wave goodbye to Deduster.
+[Thu Aug 09 23:31:29 2001] You GMSAY, 'zone'
+[Thu Aug 09 23:31:32 2001] LOADING, PLEASE WAIT...
+[Thu Aug 09 23:31:52 2001] You have entered Sunset Home.
+[Thu Aug 09 23:32:45 2001] It begins to rain.
+[Thu Aug 09 23:32:55 2001] You told Dizdee, 'be well and thanks for the kind words!'
+[Thu Aug 09 23:33:32 2001] Dizdee tells you, 'welcome  :-) '
+[Thu Aug 09 23:36:49 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 23:36:49 2001] USER TEXT: just reported fiffas..dont know who she is umm but isnt'a that harrassment?? lol
+[Thu Aug 09 23:36:50 2001] Players in EverQuest:
+[Thu Aug 09 23:36:50 2001] ---------------------------
+[Thu Aug 09 23:36:50 2001] [ANON (42 Paladin)] Felinie (High Elf) ZONE: rathemtn (USER PID GYE53FM)
+[Thu Aug 09 23:36:50 2001] There is 1 player in EverQuest.
+[Thu Aug 09 23:38:06 2001] You told Felinie, 'Hail, Felinie! Guide Espranza here. Before I find a GM to read the report, what was this person saying?'
+[Thu Aug 09 23:38:37 2001] Felinie tells you, 'umm i sent a report about her..just said (she in this guild i just rejoined ) and asked her if she new me and she went crazy LOL'
+[Thu Aug 09 23:38:50 2001] Felinie tells you, 'then logged'
+[Thu Aug 09 23:39:10 2001] You told Felinie, 'how do you mean, went crazy?'
+[Thu Aug 09 23:39:17 2001] Felinie tells you, 'saying crazy stuff i dunno just ...didnt know what to do'
+[Thu Aug 09 23:39:39 2001] Felinie tells you, 'umm saying she will come after me if i ever talk about her and someone again just off the wall stuff'
+[Thu Aug 09 23:39:50 2001] You told Felinie, 'was this in tells?'
+[Thu Aug 09 23:39:54 2001] Felinie tells you, 'yes'
+[Thu Aug 09 23:40:32 2001] Felinie tells you, 'never have any weird things like taht happen to me LOL'
+[Thu Aug 09 23:40:39 2001] Felinie tells you, 'i was surprised is all'
+[Thu Aug 09 23:40:46 2001] Felinie tells you, 'didn't know how to handle it'
+[Thu Aug 09 23:40:55 2001] You told Felinie, 'Please put her on /ignore, for starters'
+[Thu Aug 09 23:41:01 2001] Felinie tells you, 'k will do :)'
+[Thu Aug 09 23:41:09 2001] You told Felinie, 'I will have a GM look at the report and see if we need to take further action'
+[Thu Aug 09 23:41:49 2001] Felinie tells you, 'k thanks..dont want to cause probs just odd i have played game for almost a year with no problems..told some in the guild about it..maybie they will take care of it..thanks'
+[Thu Aug 09 23:42:17 2001] You told Felinie, 'be well'
+[Thu Aug 09 23:42:21 2001] Espranza saved.
+[Thu Aug 09 23:42:21 2001] Felinie tells you, 'you also'
+[Thu Aug 09 23:42:26 2001] USER TEXT: just reported fiffas..dont know who she is umm but isnt'a that harrassment?? lol
+[Thu Aug 09 23:43:22 2001] Players in EverQuest:
+[Thu Aug 09 23:43:22 2001] ---------------------------
+[Thu Aug 09 23:43:22 2001] There are no players in EverQuest that match those who filters.
+[Thu Aug 09 23:44:13 2001] You GMSAY, '<note issue> Fiffas was reported for "going crazy" in tells to Felinie GYE53FM, advised her to /ignore. Fiffas was not online to grab PID.'
+[Thu Aug 09 23:44:18 2001] DELETING THIS PETITION
+[Thu Aug 09 23:47:29 2001] It is 5 AM on Wednesday, the 25th day of September, of the year 3211.
+[Thu Aug 09 23:47:29 2001] Earth Time: Thu Aug 09 23:47:29 2001
+[Thu Aug 09 23:49:54 2001] It is 6 AM on Wednesday, the 25th day of September, of the year 3211.
+[Thu Aug 09 23:49:54 2001] Earth Time: Thu Aug 09 23:49:54 2001
+[Thu Aug 09 23:52:57 2001] Espranza saved.
+[Thu Aug 09 23:54:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 23:54:38 2001] USER TEXT: Hi im having trouble with my guild, just wanted to ask a few questions
+[Thu Aug 09 23:54:38 2001] Players in EverQuest:
+[Thu Aug 09 23:54:38 2001] ---------------------------
+[Thu Aug 09 23:54:38 2001] [ANON (35 Enchanter)] Quantum (Erudite) ZONE: eastwastes (USER PID FS0VU16)
+[Thu Aug 09 23:54:38 2001] There is 1 player in EverQuest.
+[Thu Aug 09 23:54:52 2001] You told Quantum, 'Hail, Quantum! Guide Espranza here. How may I help you?'
+[Thu Aug 09 23:55:26 2001] The spirit leaves you.
+[Thu Aug 09 23:55:35 2001] You feel the spirit of Norrath enter you.
+[Thu Aug 09 23:56:13 2001] Quantum tells you, 'ok, i started a guild in the chat room, right? then filled out the charter and submitted the form thing, and it has been sitting in the Guild menu for id say about 5 hours now and it needs to be afirmed by a GM or sumthin'
+[Thu Aug 09 23:57:37 2001] You told Quantum, 'That can take a couple of days, Quantum.'
+[Thu Aug 09 23:57:43 2001] DELETING THIS PETITION
+[Thu Aug 09 23:57:49 2001] Quantum tells you, 'ahh man! why that long?'
+[Thu Aug 09 23:58:52 2001] You told Quantum, 'They have a lot of guilds to verify - hundreds each day!'
+[Thu Aug 09 23:58:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Aug 09 23:59:00 2001] USER TEXT: Uhh, is warrens supposed to be a blue box with a wall with numbers on it?
+[Thu Aug 09 23:59:00 2001] Players in EverQuest:
+[Thu Aug 09 23:59:00 2001] ---------------------------
+[Thu Aug 09 23:59:00 2001] [1 Shadow Knight] Hayatsuma (Erudite) ZONE: warrens (USER PID AZS0G1Z)
+[Thu Aug 09 23:59:00 2001] There is 1 player in EverQuest.
+[Thu Aug 09 23:59:48 2001] Quantum tells you, 'oh, ok well, after it has been varyfied, then what do i do? i lost my EQ manuel so im doing this off what someone told me'
+[Fri Aug 10 00:00:15 2001] You told Hayatsuma, 'Hail, Hayatsuma! Guide Espranza here. No, I don't suppose it should look quite like that... have you been able to go to the warrens before?'
+[Fri Aug 10 00:00:44 2001] Hayatsuma tells you, 'First time. Im the character that Shinje petitioned for.'
+[Fri Aug 10 00:00:57 2001] You told Quantum, 'if you choose the HELP option in Chat, it should list the complete steps for making a guild.'
+[Fri Aug 10 00:01:21 2001] You told Hayatsuma, 'ah, then you have dowloaded the patch. Okay, let me unstick you.'
+[Fri Aug 10 00:01:25 2001] You GMSAY, 'zone'
+[Fri Aug 10 00:01:28 2001] Hayatsuma tells you, 'Ok, thanks'
+[Fri Aug 10 00:01:29 2001] LOADING, PLEASE WAIT...
+[Fri Aug 10 00:01:59 2001] You have entered The Warrens.
+[Fri Aug 10 00:02:09 2001] Aryante GMSAYS, 'Good morning. Do you need help or should I go play? <giggle>'
+[Fri Aug 10 00:02:22 2001] You GMSAY, 'doing okay, just finishing these up and logging'
+[Fri Aug 10 00:02:27 2001] Summoning hayatsuma.
+[Fri Aug 10 00:02:35 2001] DELETING THIS PETITION
+[Fri Aug 10 00:02:37 2001] Hayatsuma says, 'Hail, Espranza'
+[Fri Aug 10 00:02:44 2001] Hayatsuma says, 'Thanks.'
+[Fri Aug 10 00:02:45 2001] Aryante GMSAYS, 'I think they are getting ahead of you <giggle>'
+[Fri Aug 10 00:02:49 2001] You say, 'I'd not advise staying here, you're still a little young'
+[Fri Aug 10 00:02:51 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 00:02:52 2001] USER TEXT: There seems to be a bug in Iceclad and Tower of Frozen Shadow which cuases me and others not to see any animations besides running.  I'm a human monk if that has anything to do with it.  Just curious if it's a known bug.
+[Fri Aug 10 00:02:52 2001] Players in EverQuest:
+[Fri Aug 10 00:02:52 2001] ---------------------------
+[Fri Aug 10 00:02:52 2001] [35 Monk] Rendok (Human) ZONE: frozenshadow (USER PID BQX0U7E)
+[Fri Aug 10 00:02:52 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:03:01 2001] Hayatsuma says, 'Yeah, i just wanted to check it out'
+[Fri Aug 10 00:03:12 2001] You GMSAY, 'these just came all at once'
+[Fri Aug 10 00:03:13 2001] Hayatsuma says, 'Thank you again'
+[Fri Aug 10 00:03:15 2001] You GMSAY, 'been really slow'
+[Fri Aug 10 00:03:17 2001] You say, 'be well!'
+[Fri Aug 10 00:03:21 2001] Hayatsuma says, 'You too'
+[Fri Aug 10 00:03:32 2001] Hayatsuma says, 'How do i get out? Hehe'
+[Fri Aug 10 00:03:41 2001] You told Rendok, 'Hail, Rendok! Guide Espranza here. Aye, it's a known bug.'
+[Fri Aug 10 00:03:43 2001] You no longer have a target.
+[Fri Aug 10 00:03:44 2001] You point straight ahead.
+[Fri Aug 10 00:03:57 2001] Hayatsuma says, 'Thanks, bye'
+[Fri Aug 10 00:03:59 2001] DELETING THIS PETITION
+[Fri Aug 10 00:04:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 00:04:02 2001] USER TEXT: A human named Sviety asked me to see my weapon in trade window and i said sure.She said sure i can imbue it and make a 40dd on it.Im not dumb and said no and now she goes like this in ec!
+[Fri Aug 10 00:04:02 2001] Players in EverQuest:
+[Fri Aug 10 00:04:02 2001] ---------------------------
+[Fri Aug 10 00:04:02 2001] [45 Shaman] Bumbek (Troll) <Legions of Valhalla> ZONE: ecommons (USER PID GXEPWGN)
+[Fri Aug 10 00:04:02 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:04:03 2001] Rendok tells you, 'any solutions?  I have a group member who doesn't have problems seeing it but I and others do'
+[Fri Aug 10 00:04:03 2001] Aryante GMSAYS, 'hehe, that happens to me, they all come right when I'm planning on logging. It's like the players have some weird 6th sense'
+[Fri Aug 10 00:04:09 2001] You GMSAY, 'heh yeah'
+[Fri Aug 10 00:04:42 2001] You told Rendok, 'it'll just have to wait for a patch. Human male animations are bad in many zones - either missing or incorrect.'
+[Fri Aug 10 00:05:02 2001] You GMSAY, 'zone'
+[Fri Aug 10 00:05:06 2001] LOADING, PLEASE WAIT...
+[Fri Aug 10 00:05:39 2001] Chaotice auctions, 'BUYING DEATH FIST BELTS'
+[Fri Aug 10 00:05:39 2001] Chaotice auctions, 'BUYING DEATH FIST BELTS'
+[Fri Aug 10 00:05:40 2001] Dalamaru says out of character, 'Donating Well for a port to Great Divide have tooth Please dont make me take the boat!'
+[Fri Aug 10 00:05:40 2001] Tummee auctions, 'WTS Black Marble'
+[Fri Aug 10 00:05:40 2001] Raskall auctions, 'WTB DF belts 1pp per belt send tells'
+[Fri Aug 10 00:05:40 2001] Pandamoniam says out of character, 'Anyone up to do a rescue on a 53 war stuck in a dungeon?...Pretty plz?'
+[Fri Aug 10 00:05:42 2001] Raskall shouts, 'Level 9 Rogue LF Orc group'
+[Fri Aug 10 00:05:42 2001] Tummee auctions, 'WTS Dragonhide Belt ac6 sta10 weight0'
+[Fri Aug 10 00:05:42 2001] You have entered East Commonlands.
+[Fri Aug 10 00:05:44 2001] Kililaena auctions, 'WTB cold resist items crown froglok king, vox brac'
+[Fri Aug 10 00:05:45 2001] Raskall auctions, 'WTT for a PGT send tells'
+[Fri Aug 10 00:05:50 2001] Espranza is now Invisible.
+[Fri Aug 10 00:05:50 2001] You are now anonymous.
+[Fri Aug 10 00:05:52 2001] You GMSAY, 'hidden'
+[Fri Aug 10 00:06:00 2001] Tummee auctions, 'WTS Noble's Walking Staff 8/19 1hb 2str 2wis 2int'
+[Fri Aug 10 00:06:01 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:06:01 2001] Futsau auctions, 'Turning of the Unnatural, Tumultous Str. 50pp each'
+[Fri Aug 10 00:06:08 2001] Dadoomz auctions, 'WTB Crushed Onyx Sapphires'
+[Fri Aug 10 00:06:08 2001] Dalamaru says out of character, 'Donating Well for a port to Great Divide have tooth Please dont make me take the boat!'
+[Fri Aug 10 00:06:26 2001] Notacc says out of character, 'porting to NK, gfay and tox, 10pp a seat, send tell'
+[Fri Aug 10 00:06:28 2001] Federico shouts, 'does rabies ever wear off?'
+[Fri Aug 10 00:06:28 2001] Evey shouts, 'PC on Bo Stick =)'
+[Fri Aug 10 00:06:32 2001] Tinamou auctions, 'WTS Black Alloy Coif 8AC 6Str 6 All Saves 300pp'
+[Fri Aug 10 00:06:35 2001] Zakhran auctions, 'WTS stein of moggok 5dex 10int 10hp 25svdis'
+[Fri Aug 10 00:06:35 2001] Tinamou auctions, 'WTS Black Alloy Longsword 1HS 10 29 Pri Sec 50pp'
+[Fri Aug 10 00:06:36 2001] Pahpah says out of character, 'can someone heal me at inn 2?'
+[Fri Aug 10 00:06:38 2001] Ecence shouts, 'Yeah.. in a WHILE'
+[Fri Aug 10 00:06:38 2001] Sabellic auctions, 'WTS MOTQ 20/40 2hp +5 WIS, STR, SVC, Pally'
+[Fri Aug 10 00:06:38 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:06:42 2001] Kammy auctions, 'master jeweler taking order on platinum and velium '
+[Fri Aug 10 00:06:44 2001] Tiair auctions, 'wts 65mana/65hp necklace'
+[Fri Aug 10 00:06:51 2001] Dalamaru says out of character, 'Donating Well for a port to Great Divide have tooth Please dont make me take the boat!'
+[Fri Aug 10 00:06:52 2001] Valyr says out of character, 'just ask kindly for a cure disease'
+[Fri Aug 10 00:06:54 2001] Federico shouts, 'oh    crap'
+[Fri Aug 10 00:07:04 2001] USER TEXT: A human named Sviety asked me to see my weapon in trade window and i said sure.She said sure i can imbue it and make a 40dd on it.Im not dumb and said no and now she goes like this in ec!
+[Fri Aug 10 00:07:05 2001] Kammy auctions, 'master jeweler taking order on platinum and velium '
+[Fri Aug 10 00:07:09 2001] Players in EverQuest:
+[Fri Aug 10 00:07:10 2001] ---------------------------
+[Fri Aug 10 00:07:10 2001] [ANON (1 Monk)] Sviety (Human) ZONE: ecommons (USER PID GR2VX42)
+[Fri Aug 10 00:07:10 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:07:10 2001] Dadoomz auctions, 'WTB Crushed Onyx Sapphires'
+[Fri Aug 10 00:07:13 2001] Krippla auctions, 'WTS Lost Staff of the Scorned 11DMG 24DLY 2HB EFFECT : NEK PORTAL, WIZARD ONLY, Awesome Evac that costs NO MANA!!!'
+[Fri Aug 10 00:07:16 2001] Teleporting to sviety.
+[Fri Aug 10 00:07:16 2001] Sabellic auctions, 'WTS MOTQ 20/40 2hp +5 WIS, STR, SVC, Pally'
+[Fri Aug 10 00:07:18 2001] Dalamaru says out of character, 'Donating Well for a port to Great Divide have tooth Please dont make me take the boat!'
+[Fri Aug 10 00:07:18 2001] Vyyo auctions, '<SELLING> Shimmering Terror Hide Boots || Iksar Scaled Gloves || Feathered Legs || Trakanasuar Legs || Beer Stained Coldain Tunic || Seb Scale Neck || Charred Guardian Shield || Cleric Quest BP || Anchient Seahorse Hide Cloak || Icepaw War Claw'
+[Fri Aug 10 00:07:18 2001] Kammy auctions, 'eb mace dmg 8 delay 28 100p'
+[Fri Aug 10 00:07:18 2001] Sabellic auctions, 'WTS CCS 12ac +4str,wis,int +10 SVC'
+[Fri Aug 10 00:07:21 2001] Sabellic auctions, 'WTS Icetooth Claws 11/29 1hs'
+[Fri Aug 10 00:07:23 2001] Sabellic auctions, 'WTS Helm of Rile 6ac +9 STR +5 AGI, IKS ONLY'
+[Fri Aug 10 00:07:25 2001] Holymule auctions, 'WTS deepwater boots 21ac effect: endure magic PAL only'
+[Fri Aug 10 00:07:26 2001] Sabellic auctions, 'WTB WTTF Monk gear and Sarnak Hide Mask'
+[Fri Aug 10 00:07:27 2001] Kammy auctions, 'idol of the thorned 15k worth 25k +'
+[Fri Aug 10 00:07:31 2001] Vyyo auctions, '<SELLING> Mitril Staff || Crafted Arms || Gauntlets of the Black || Crafted Bracers || Crystalline Eye || Spider Fur Cloak || Seb Scale Mantle || Bone Mask of the Jarsath || Mucilaginous Girdle || Finely Crafted Velium Ring'
+[Fri Aug 10 00:07:31 2001] Sithangel auctions, 'WTS lvl39 Necro Research spells, 34Invoke Fear'
+[Fri Aug 10 00:07:33 2001] Sithangel auctions, 'WTS LaomEncrustedChoker ac3 str4 cha3 svc5'
+[Fri Aug 10 00:07:34 2001] Kammy auctions, 'essence of dol 400p'
+[Fri Aug 10 00:07:35 2001] Zarathus auctions, 'WTS Dark Ember wis5 str2 hp/mana 20 svf 13dmg 32dl'
+[Fri Aug 10 00:07:42 2001] Sithangel auctions, 'WTS Crystalized Blade 13/31 1HS 400pp OBO'
+[Fri Aug 10 00:07:43 2001] Vyyo auctions, '<SELLING> Diamond || Jancith || Black Saphire || Nephrite'
+[Fri Aug 10 00:07:45 2001] Sithangel auctions, 'WTS PlatinumAmberRings +4STR send tells'
+[Fri Aug 10 00:07:46 2001] Kammy auctions, 'sacrificial dagger 500p'
+[Fri Aug 10 00:07:50 2001] Kammy auctions, 'fbss 8k'
+[Fri Aug 10 00:07:53 2001] Sithangel auctions, 'WTS TurtleShell Helm ac5 str3 all/all'
+[Fri Aug 10 00:07:53 2001] Holymule auctions, 'WTS jstick 9/24 1hb 4str/wis/int  effect: tashani'
+[Fri Aug 10 00:07:56 2001] Sithangel auctions, 'WTS BurynaiLegionGi ac14 dex2 hp15 m25 CLR only'
+[Fri Aug 10 00:07:56 2001] Biznardette auctions, 'WTS formans skull cap str4 dex2 sta2 cr10 ac8'
+[Fri Aug 10 00:07:56 2001] Kammy auctions, 'springwood club 2k'
+[Fri Aug 10 00:07:58 2001] Biznardette auctions, 'WTS gloomwater harpoon 9/31 4str 25 hits'
+[Fri Aug 10 00:08:00 2001] Dalamaru says out of character, 'Donating Well for a port to Great Divide have tooth Please dont make me take the boat!'
+[Fri Aug 10 00:08:02 2001] Kammy auctions, 'ykeshan war club 2k'
+[Fri Aug 10 00:08:05 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:08:06 2001] Kammy auctions, 'moonstone ring 50p'
+[Fri Aug 10 00:08:07 2001] Uaelr auctions, 'WTB a Spider Fur Cloak! send tells please!'
+[Fri Aug 10 00:08:07 2001] Tiair auctions, 'wts 65mana/65hp necklace'
+[Fri Aug 10 00:08:08 2001] Krippla auctions, 'WTS Lost Staff of the Scorned 11DMG 24DLY 2HB EFFECT : NEK PORTAL, WIZARD ONLY, Awesome Evac that costs NO MANA!!!'
+[Fri Aug 10 00:08:10 2001] Darkrainger says out of character, 'WTS Icetooth tell me'
+[Fri Aug 10 00:08:14 2001] Kililaena auctions, 'WTB cold resist items crown froglok king, vox brac'
+[Fri Aug 10 00:08:14 2001] Kammy auctions, 'ac 5 55 hp ring 300p'
+[Fri Aug 10 00:08:16 2001] Dikken auctions, 'WTB Small Bronze BP, Legs, Boots'
+[Fri Aug 10 00:08:16 2001] Players in EverQuest:
+[Fri Aug 10 00:08:16 2001] ---------------------------
+[Fri Aug 10 00:08:16 2001] [ANON (51 Vicar)] Khrakin (Dwarf) ZONE: ecommons (USER PID FRA8LKU)
+[Fri Aug 10 00:08:16 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:08:20 2001] Players in EverQuest:
+[Fri Aug 10 00:08:20 2001] ---------------------------
+[Fri Aug 10 00:08:20 2001] [ANON (51 Vicar)] Khrakin (Dwarf) ZONE: ecommons (USER PID FRA8LKU)
+[Fri Aug 10 00:08:20 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:08:23 2001] Teffas auctions, 'WTB lamentation'
+[Fri Aug 10 00:08:24 2001] Bobde auctions, 'WTS HQ bear skin'
+[Fri Aug 10 00:08:24 2001] Eshrem auctions, 'WTB batskull headband and a bracelet of woven grass ////'
+[Fri Aug 10 00:08:27 2001] Eshrem auctions, '14 magic resistance ring ....1k only !!!'
+[Fri Aug 10 00:08:31 2001] Kammy auctions, 'batskull earring 500p'
+[Fri Aug 10 00:08:31 2001] Eshrem auctions, 'WTS sheer bone mask !!'
+[Fri Aug 10 00:08:31 2001] Dalamaru says out of character, 'Donating Well for a port to Great Divide have tooth Please dont make me take the boat!'
+[Fri Aug 10 00:08:36 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:08:37 2001] Pandamoniam says out of character, 'Anyone up to do a rescue on a 53 war stuck in a dungeon?...Pretty plz?'
+[Fri Aug 10 00:08:39 2001] Tiair auctions, 'wtt for sash of dragonborn'
+[Fri Aug 10 00:08:41 2001] Tiair auctions, 'wts 65mana/65hp necklace'
+[Fri Aug 10 00:08:42 2001] Biznardette auctions, 'WTS ry gorr arms ac11 agi3 hp10 cr5 mr 3'
+[Fri Aug 10 00:08:45 2001] Torahdane auctions, 'WTS Crustecean BP '
+[Fri Aug 10 00:08:50 2001] Harbinjer says out of character, 'no!'
+[Fri Aug 10 00:08:50 2001] Kammy auctions, 'braided chich cords ac 2 4 int 8 hp belt 500p'
+[Fri Aug 10 00:08:53 2001] You told Bumbek, 'Hail, Bumbek! Guide Espranza here. You were very wise! I'll be keeping an eye on her...'
+[Fri Aug 10 00:08:57 2001] Dadoomz auctions, 'WTB Crushed Onyx Sapphires'
+[Fri Aug 10 00:09:07 2001] Kammy auctions, 'serated bone dirk  300p'
+[Fri Aug 10 00:09:09 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:09:11 2001] Darkrainger says out of character, 'WTS Icetooth claw 11 29 1 hs tell me'
+[Fri Aug 10 00:09:15 2001] USER TEXT: A human named Sviety asked me to see my weapon in trade window and i said sure.She said sure i can imbue it and make a 40dd on it.Im not dumb and said no and now she goes like this in ec!
+[Fri Aug 10 00:09:19 2001] Bumbek tells you, 'Hehe thx.I dont like that kind of people )'
+[Fri Aug 10 00:09:20 2001] Players in EverQuest:
+[Fri Aug 10 00:09:20 2001] ---------------------------
+[Fri Aug 10 00:09:20 2001] [ANON (1 Monk)] Sviety (Human) ZONE: freportw (USER PID GR2VX42)
+[Fri Aug 10 00:09:20 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:09:24 2001] Raskall auctions, 'WTT for a PGT send tells'
+[Fri Aug 10 00:09:24 2001] Kammy auctions, 'crude stein 200p'
+[Fri Aug 10 00:09:25 2001] Slianteller auctions, 'WTS giant snakespine belt 4ac 5agi and vs p 50pp'
+[Fri Aug 10 00:09:27 2001] Raskall shouts, 'Level 9 Rogue LF Orc group'
+[Fri Aug 10 00:09:28 2001] Ezalra shouts, 'TREMBLE weak races of Norrath for the time of the TierDal has COME!'
+[Fri Aug 10 00:09:31 2001] Raskall auctions, 'WTB DF belts 1pp per belt send tells'
+[Fri Aug 10 00:09:33 2001] Tummee auctions, 'WTS Noble's Walking Staff 8/19 1hb 2str 2wis 2int'
+[Fri Aug 10 00:09:37 2001] Tummee auctions, 'WTS Dragonhide Belt ac6 sta10 weight0'
+[Fri Aug 10 00:09:42 2001] Tummee auctions, 'WTS Black Marble'
+[Fri Aug 10 00:09:44 2001] Krippla auctions, 'WTS Lost Staff of the Scorned 11DMG 24DLY 2HB EFFECT : NEK PORTAL, WIZARD ONLY, Awesome Evac that costs NO MANA!!!'
+[Fri Aug 10 00:09:44 2001] Harbinjer shouts, 'sing it soul sister'
+[Fri Aug 10 00:09:45 2001] Kammy auctions, 'tbb 5k'
+[Fri Aug 10 00:09:48 2001] Kammy auctions, 'redd belt 5k'
+[Fri Aug 10 00:09:48 2001] Dalamaru says out of character, 'Donating Well for a port to Great Divide have tooth Please dont make me take the boat!'
+[Fri Aug 10 00:09:51 2001] Kammy auctions, 'smr 5k'
+[Fri Aug 10 00:09:54 2001] Kammy auctions, 'fbss 8k'
+[Fri Aug 10 00:09:56 2001] Sabellic shouts, '*bites off Ezalra's head with his sharp iksar teeth*'
+[Fri Aug 10 00:10:00 2001] Kammy auctions, 'shroud of nature 5k'
+[Fri Aug 10 00:10:01 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:10:05 2001] Vyyo auctions, '<SELLING> Shimmering Terror Hide Boots || Iksar Scaled Gloves || Feathered Legs || Trakanasuar Legs || Beer Stained Coldain Tunic || Seb Scale Neck || Charred Guardian Shield || Cleric Quest BP || Anchient Seahorse Hide Cloak || Icepaw War Claw'
+[Fri Aug 10 00:10:10 2001] Vyyo auctions, '<SELLING> Mitril Staff || Crafted Arms || Gauntlets of the Black || Crafted Bracers || Crystalline Eye || Spider Fur Cloak || Seb Scale Mantle || Bone Mask of the Jarsath || Mucilaginous Girdle || Finely Crafted Velium Ring'
+[Fri Aug 10 00:10:11 2001] Valyr shouts, 'baah.. those who feel they have to BOAST ussually have nothing to boast about !'
+[Fri Aug 10 00:10:15 2001] Vyyo auctions, '<SELLING> Diamond || Jancith || Black Saphire || Nephrite'
+[Fri Aug 10 00:10:22 2001] Kanion shouts, 'be quiet ezalra, wanna fite me? hehe jk'
+[Fri Aug 10 00:10:23 2001] Ahenobarbus shouts, '8th SK looking for orc group'
+[Fri Aug 10 00:10:26 2001] Nantukon shouts, 'OMG killer skels at tunnel entrance!!!'
+[Fri Aug 10 00:10:27 2001] Ezalra shouts, 'HA! Where are your CAMPS encroaching across Norrath?'
+[Fri Aug 10 00:10:35 2001] Federico shouts, 'can some one please cast a cure spell on me, I have rabies!'
+[Fri Aug 10 00:10:36 2001] Pandamoniam says out of character, 'Anyone up to do a rescue on a 53 war stuck in a dungeon?...Pretty plz?'
+[Fri Aug 10 00:10:36 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:10:39 2001] You GMSAY, 'Sviety (GR2VX42) level 1 monk was claiming she could imbue people's weapons with a DD spell. Was seen in the company of Khrakin FRA8LKU 51 cleric.'
+[Fri Aug 10 00:10:40 2001] Kammy auctions, 'cistal covered shroud 400p'
+[Fri Aug 10 00:10:41 2001] Tiair auctions, 'wts 65mana/65hp necklace'
+[Fri Aug 10 00:10:44 2001] Kammy auctions, 'oracle robe 500p'
+[Fri Aug 10 00:10:47 2001] Glaidia shouts, '8 war LFG'
+[Fri Aug 10 00:10:48 2001] Harbinjer shouts, 'some times I feel the need to roast but have nothing to roast about'
+[Fri Aug 10 00:10:52 2001] Zarathus auctions, 'WTS Dark Ember wis5 str2 hp/mana 20 svf 13dmg 32dl'
+[Fri Aug 10 00:10:52 2001] Kammy auctions, '55 hp 55 mana necklass 800p'
+[Fri Aug 10 00:10:58 2001] Dadoomz auctions, 'WTB Crushed Onyx Sapphires'
+[Fri Aug 10 00:11:01 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:11:04 2001] Tiair auctions, 'wts 65mana/65hp necklace'
+[Fri Aug 10 00:11:06 2001] Aryante GMSAYS, 'And people believed her?'
+[Fri Aug 10 00:11:12 2001] Holymule auctions, 'WTS deepwater boots 21ac effect: endure magic PAL only'
+[Fri Aug 10 00:11:12 2001] Krippla auctions, 'WTS Lost Staff of the Scorned 11DMG 24DLY 2HB EFFECT : NEK PORTAL, WIZARD ONLY, Awesome Evac that costs NO MANA!!!'
+[Fri Aug 10 00:11:17 2001] Torahdane auctions, 'WTS Crustecean BP '
+[Fri Aug 10 00:11:19 2001] Kanion shouts, 'ive never one a battle before not one ARGHHHH'
+[Fri Aug 10 00:11:20 2001] Sithangel shouts, 'Is Sergeant SLates spawn point random?'
+[Fri Aug 10 00:11:21 2001] Elias says out of character, 'looking for a port to GD, will donate '
+[Fri Aug 10 00:11:23 2001] Zakhran auctions, 'WTS stein of moggok 5dex 10int 10hp 25svdis'
+[Fri Aug 10 00:11:25 2001] Valyr says out of character, 'simple things amuse the simple mind... Quellios once said = )'
+[Fri Aug 10 00:11:26 2001] Kammy auctions, 'sludged gridle 1500p'
+[Fri Aug 10 00:11:29 2001] Darkhound auctions, 'WTS 6 Slot 10Weight Reduction Packs 20pp each'
+[Fri Aug 10 00:11:35 2001] Raskall shouts, '~mimics Ezalras voice~ HA! Where are your CAMPS encroaching across Norrath?'
+[Fri Aug 10 00:11:36 2001] Darkhound auctions, 'WTB LQ Bear Skins 3pp each'
+[Fri Aug 10 00:11:37 2001] Uaelr auctions, 'WTB a Spider Fur Cloak! send tells please!'
+[Fri Aug 10 00:11:38 2001] Harbinjer says out of character, 'like crack?'
+[Fri Aug 10 00:11:41 2001] Kammy auctions, 'e bsleeve 450p'
+[Fri Aug 10 00:11:41 2001] Darkhound auctions, 'WTB Spider Silk 1pp each and Silk Swatches for 2pp'
+[Fri Aug 10 00:11:52 2001] Kanion says out of character, 'hahahahaha'
+[Fri Aug 10 00:11:54 2001] Kadran auctions, 'WTS SC spear, sbd, crystalline robes'
+[Fri Aug 10 00:11:57 2001] Darkhound auctions, 'WTS Golden Bracer 5 AC 7 STR 7 INT'
+[Fri Aug 10 00:12:01 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:12:02 2001] Slianteller auctions, 'SELLING batskull earrings also willing to trade 1 for a forsest loops send tells'
+[Fri Aug 10 00:12:04 2001] Tiair auctions, 'wts 65mana/65hp necklace'
+[Fri Aug 10 00:12:04 2001] You GMSAY, 'Sviety (GR2VX42) level 1 monk was claiming she could imbue people's weapons with a DD spell. Was seen in the company of Khrakin FRA8LKU 51 cleric.'
+[Fri Aug 10 00:12:05 2001] Tinamou auctions, 'WTS Black Alloy Coif 8AC 6Str 6 All Saves 300pp'
+[Fri Aug 10 00:12:19 2001] Darkhound auctions, 'WTS Ulthork Hide Arms 8 AC -3 DEX 3 WIS'
+[Fri Aug 10 00:12:23 2001] Dadoomz auctions, 'WTB Crushed Onyx Sapphires'
+[Fri Aug 10 00:12:26 2001] Holymule auctions, 'WTS jstick 9/24 1hb 4str4wis4int  proc: tashani'
+[Fri Aug 10 00:12:28 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:12:33 2001] Aryante GMSAYS, '*Gathers the Light around her and crosses the World*'
+[Fri Aug 10 00:12:36 2001] Tummee auctions, 'WTS Noble's Walking Staff 8/19 1hb 2str 2wis 2int'
+[Fri Aug 10 00:12:36 2001] Holymule auctions, 'WTS deepwater boots 21ac effect: endure magic PAL only'
+[Fri Aug 10 00:12:41 2001] Zakhran auctions, 'WTS GreenSilkenDrape AC8 dex9 Sta9 INT3 svPsn 15'
+[Fri Aug 10 00:12:41 2001] Zarathus auctions, 'WTS Dark Ember wis5 str2 hp/mana 20 svf 13dmg 32dl'
+[Fri Aug 10 00:12:49 2001] Holymule auctions, 'WTS frost blade 2hs 34/49 2hs 75hp 15svc war/pal/sk'
+[Fri Aug 10 00:12:51 2001] Stizn auctions, 'WTB Robe of the Keeper'
+[Fri Aug 10 00:12:58 2001] Pandamoniam says out of character, 'Anyone up to do a rescue on a 53 war stuck in a dungeon?...Pretty plz?'
+[Fri Aug 10 00:13:04 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:13:07 2001] Tiair auctions, 'wts 65mana/65hp necklace'
+[Fri Aug 10 00:13:11 2001] Holymule auctions, 'WTS sainy's claws 6/19 1hp 10ac 3int pri/sec bard only'
+[Fri Aug 10 00:13:13 2001] Kanion says out of character, 'ill help ya! im lvl 4 hehehehe'
+[Fri Aug 10 00:13:15 2001] Dromedary auctions, 'WTS Lupine armband 3 str, 3 agi'
+[Fri Aug 10 00:13:18 2001] Dromedary auctions, 'BUYING 55+ Druid Dropped Spells'
+[Fri Aug 10 00:13:22 2001] Dromedary auctions, 'WTS 2 Black Sapphires'
+[Fri Aug 10 00:13:25 2001] Dromedary auctions, 'WTS Totem of Warrior Spirit str3 wis3 hp10 RANGE'
+[Fri Aug 10 00:13:31 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:13:33 2001] Sabellic has emerged victorious in a duel to the death!
+[Fri Aug 10 00:13:33 2001] Tiair auctions, 'wts 65mana/65hp necklace'
+[Fri Aug 10 00:13:35 2001] Dromedary auctions, 'WTS 54 Cleric Spell: Reckoning'
+[Fri Aug 10 00:13:37 2001] Rendall says out of character, 'gte him a cleric a necro and hes oke.'
+[Fri Aug 10 00:13:49 2001] Rendall says out of character, 'or a monk and a mage!!'
+[Fri Aug 10 00:13:54 2001] Elias says out of character, 'paying 100pp for port to GD'
+[Fri Aug 10 00:13:55 2001] Dromedary auctions, 'WTS Jacinth (2)'
+[Fri Aug 10 00:13:57 2001] Dromedary auctions, 'WTS Paw of Opolla'
+[Fri Aug 10 00:13:58 2001] Kario auctions, 'WTB cracked darkwood shield paying 150pp'
+[Fri Aug 10 00:13:59 2001] Tiair auctions, 'wts JLS, 1hs, 16/30, war only'
+[Fri Aug 10 00:14:00 2001] Rendall says out of character, 'to sumon him out of there'
+[Fri Aug 10 00:14:03 2001] Raskall auctions, 'WTB DF belts 1pp per belt send tells'
+[Fri Aug 10 00:14:03 2001] You GMSAY, 'zone'
+[Fri Aug 10 00:14:06 2001] LOADING, PLEASE WAIT...
+[Fri Aug 10 00:14:27 2001] You have entered Sunset Home.
+[Fri Aug 10 00:14:32 2001] DELETING THIS PETITION
+[Fri Aug 10 00:14:34 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 00:14:35 2001] USER TEXT: Sviety
+[Fri Aug 10 00:14:35 2001] Players in EverQuest:
+[Fri Aug 10 00:14:35 2001] ---------------------------
+[Fri Aug 10 00:14:35 2001] [ANON (51 Vicar)] Khrakin (Dwarf) ZONE: ecommons (USER PID FRA8LKU)
+[Fri Aug 10 00:14:35 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:14:42 2001] Aryante tells the guild, 'were people actually believing that this monk could imbue their weapons?'
+[Fri Aug 10 00:14:57 2001] You told Khrakin, 'Hail, Khrakin! Guide Espranza here. How may I help you?'
+[Fri Aug 10 00:15:06 2001] Khrakin tells you, 'I just got robbed'
+[Fri Aug 10 00:15:07 2001] You say to your guild, 'what's worse. Khrakin just petitioned the monk...'
+[Fri Aug 10 00:15:14 2001] You told Khrakin, 'How?'
+[Fri Aug 10 00:16:05 2001] Aryante GMSAYS, 'oops, walked the wrong way and zoned. zoning back now'
+[Fri Aug 10 00:16:14 2001] Khrakin tells you, 'A character by the name of Sviety told me she could imbue my hammer that I had which wa sa dark ember.  After questioning her and she had friends who swore for her I gave it to her.  She told me to follow her to FP to the forge. '
+[Fri Aug 10 00:16:41 2001] Khrakin tells you, 'I got leary of it and asked for it back, she just said follow and wouldn;t do it.  I think she handed it to someone else, ran into the tunnel and then logged off'
+[Fri Aug 10 00:17:18 2001] You told Khrakin, 'this is the second report... one moment please'
+[Fri Aug 10 00:17:24 2001] Aryante GMSAYS, 'do you have any idea where in rivervale Meeka Diggs is supposed to be? Or should I just /kill her?'
+[Fri Aug 10 00:17:24 2001] Khrakin tells you, 'Thank you.'
+[Fri Aug 10 00:18:05 2001] Khrakin tells you, 'Unfortunatly I didn;t get the name of the person she handed it to.'
+[Fri Aug 10 00:19:15 2001] You GMSAY, 'just kill ehr'
+[Fri Aug 10 00:19:50 2001] Players in EverQuest:
+[Fri Aug 10 00:19:50 2001] ---------------------------
+[Fri Aug 10 00:19:50 2001] [ANON (1 Shadow Knight)] Dreatluord (Human) ZONE: ecommons (USER PID GR2VX42)
+[Fri Aug 10 00:19:50 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:19:56 2001] Aryante GMSAYS, 'hehe A nice little halfling showed me where she's supposed to be. Lets see if I can get her there without dying. :)'
+[Fri Aug 10 00:20:12 2001] You GMSAY, 'ary, please shadow dreatluord'
+[Fri Aug 10 00:20:26 2001] Aryante GMSAYS, 'ok, where is he?'
+[Fri Aug 10 00:20:34 2001] You GMSAY, 'ecommons - scammer with new name'
+[Fri Aug 10 00:21:11 2001] Khrakin tells you, 'Zoning back to FP out of EC to try to clear chat spam'
+[Fri Aug 10 00:21:28 2001] Aryante GMSAYS, 'ok, I'll go do that then. I'll just /kill Meeka then, rather than drag her all over rivervale <giggle>'
+[Fri Aug 10 00:22:01 2001] Aryante GMSAYS, '*Gathers the Light around her and crosses the World*'
+[Fri Aug 10 00:22:58 2001] Aryante GMSAYS, 'hiding'
+[Fri Aug 10 00:23:08 2001] You GMSAY, 'okay I'm going for a GM'
+[Fri Aug 10 00:23:14 2001] Khrakin tells you, 'Ok, now someone named Dreatluord just sent me a tell saying someone gave them my weapon'
+[Fri Aug 10 00:23:23 2001] Aryante GMSAYS, 'wyhat am I watching for from him?'
+[Fri Aug 10 00:23:25 2001] You told Khrakin, 'it is the same person'
+[Fri Aug 10 00:23:29 2001] You GMSAY, 'scam attempts'
+[Fri Aug 10 00:23:35 2001] STATUS UPGRADED TO URGENT
+[Fri Aug 10 00:23:37 2001] CHECKING IN
+[Fri Aug 10 00:23:41 2001] Khrakin tells you, 'They are saying they are lost in EC'
+[Fri Aug 10 00:23:44 2001] You told Khrakin, 'Log everything please'
+[Fri Aug 10 00:23:51 2001] Khrakin tells you, 'How do I do that?'
+[Fri Aug 10 00:24:29 2001] You told Khrakin, 'type /log'
+[Fri Aug 10 00:24:33 2001] It will take you about 30 seconds to prepare your camp.
+[Fri Aug 10 00:24:35 2001] You abandon your preparations to camp.
+[Fri Aug 10 00:24:38 2001] It will take you about 30 seconds to prepare your camp.
+[Fri Aug 10 00:24:41 2001] You GMSAY, 'camping for GM'
+[Fri Aug 10 00:24:42 2001] It will take about 25 more seconds to prepare your camp.
+[Fri Aug 10 00:24:45 2001] Khrakin tells you, 'They are mocking me now'
+[Fri Aug 10 00:24:47 2001] It will take about 20 more seconds to prepare your camp.
+[Fri Aug 10 00:24:53 2001] It will take about 15 more seconds to prepare your camp.
+[Fri Aug 10 00:24:58 2001] Espranza saved.
+[Fri Aug 10 00:24:58 2001] It will take about 10 more seconds to prepare your camp.
+[Fri Aug 10 00:24:59 2001] You told Khrakin, 'keep a record'
+[Fri Aug 10 00:25:00 2001] Khrakin tells you, 'They said they sold it'
+[Fri Aug 10 00:25:03 2001] It will take about 5 more seconds to prepare your camp.
+[Fri Aug 10 00:31:34 2001] Welcome to EverQuest!
+[Fri Aug 10 00:31:34 2001] You have entered Sunset Home.
+[Fri Aug 10 00:31:34 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Account security is the user's responsibility. Please keep your password secure. Sharing accounts is in violation of the EverQuest User Agreement and Software License and can lead to disciplinary action.
+[Fri Aug 10 00:31:35 2001] GUILD MOTD: Kezia - Have you hugged your apprentice today?
+[Fri Aug 10 00:31:41 2001] You GMSAY, 'back'
+[Fri Aug 10 00:31:44 2001] You GMSAY, 'how is it going?'
+[Fri Aug 10 00:32:02 2001] Aryante GMSAYS, 'The guy told The dwearf that he'd sold the weapon for 3k and then he logged'
+[Fri Aug 10 00:32:29 2001] Players in EverQuest:
+[Fri Aug 10 00:32:29 2001] ---------------------------
+[Fri Aug 10 00:32:29 2001] There are no players in EverQuest that match those who filters.
+[Fri Aug 10 00:32:39 2001] You GMSAY, 'scammer not on right now - well, gm on the way'
+[Fri Aug 10 00:33:17 2001] Aryante GMSAYS, 'he told the guy he sold it to someone in his guild,'
+[Fri Aug 10 00:33:29 2001] You GMSAY, 'yeah well we're gonna catch this guy'
+[Fri Aug 10 00:33:49 2001] Players on EverQuest:
+[Fri Aug 10 00:33:49 2001] ---------------------------
+[Fri Aug 10 00:33:49 2001] There are no players in Sunset Home that match those who filters.
+[Fri Aug 10 00:34:16 2001] Aryante GMSAYS, 'I hope so. I hope he comes back on soon. so we can mess him up, <giggle> <jk>'
+[Fri Aug 10 00:35:14 2001] Players in EverQuest:
+[Fri Aug 10 00:35:14 2001] ---------------------------
+[Fri Aug 10 00:35:14 2001] There are no players in EverQuest that match those who filters.
+[Fri Aug 10 00:35:30 2001] Players in EverQuest:
+[Fri Aug 10 00:35:30 2001] ---------------------------
+[Fri Aug 10 00:35:30 2001] There are no players in EverQuest that match those who filters.
+[Fri Aug 10 00:35:32 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 00:35:33 2001] USER TEXT: i need a giudes help please
+[Fri Aug 10 00:35:33 2001] Players in EverQuest:
+[Fri Aug 10 00:35:33 2001] ---------------------------
+[Fri Aug 10 00:35:33 2001] [31 Rogue] Ollie (Dwarf) ZONE: highkeep (USER PID HWCFQQ0)
+[Fri Aug 10 00:35:33 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:35:43 2001] Khrakin tells you, 'Welcome back.'
+[Fri Aug 10 00:35:47 2001] You told Ollie, 'Hail, Ollie! Guide Espranza here. How may I help you?'
+[Fri Aug 10 00:35:51 2001] You told Khrakin, 'waiting on a GM'
+[Fri Aug 10 00:35:55 2001] Khrakin tells you, 'Whew'
+[Fri Aug 10 00:36:11 2001] Khrakin tells you, 'Aryante witnessed what he said to me in EC'
+[Fri Aug 10 00:36:17 2001] Khrakin tells you, 'Before he logged off that is'
+[Fri Aug 10 00:36:27 2001] Khrakin tells you, 'I also have it in log'
+[Fri Aug 10 00:37:00 2001] You told Khrakin, 'we have his account info'
+[Fri Aug 10 00:37:43 2001] Ollie tells you, 'im hoping you can , i went link dead , there have been spikes all night and i was hoping i might be able to get a rez seeing how it was because of linkdeath my grp can verify what happened'
+[Fri Aug 10 00:37:47 2001] Khrakin tells you, 'Wonderful.  Am I going to be able to get my Dark Ember back?'
+[Fri Aug 10 00:37:59 2001] Odyean GMSAYS, 'Greetings GM Odyean here'
+[Fri Aug 10 00:38:06 2001] You GMSAY, 'Hiya Odyean!'
+[Fri Aug 10 00:38:07 2001] Odyean GMSAYS, 'how can I help you all =)'
+[Fri Aug 10 00:38:12 2001] Aryante GMSAYS, 'Greetings'
+[Fri Aug 10 00:38:19 2001] You GMSAY, 'We have a scammer - who is logged now - but we wondered if you could help anyway'
+[Fri Aug 10 00:38:31 2001] Odyean GMSAYS, 'ok what was he doing to scam?'
+[Fri Aug 10 00:38:36 2001] Khrakin tells you, 'And is there anyway you can see what guild he is in?  He said his guild needed the hammer, but that may have been a lie as well'
+[Fri Aug 10 00:38:53 2001] You told Ollie, 'I'm sorry, we cannot rez for deaths caused by link death or lag.'
+[Fri Aug 10 00:38:56 2001] DELETING THIS PETITION
+[Fri Aug 10 00:39:36 2001] You GMSAY, 'okay, first this monk says she can imbue weapons with a 40dd proc and gets petitioned for that by a skeptical person'
+[Fri Aug 10 00:39:44 2001] The spirit leaves you.
+[Fri Aug 10 00:39:54 2001] You GMSAY, 'so I go there and see her going somewhere with a cleric named Khrakin'
+[Fri Aug 10 00:40:26 2001] You GMSAY, 'I soon get the petition from Khrakin you see in the queue'
+[Fri Aug 10 00:40:37 2001] Ollie tells you, 'i understand but it hardly seems right if link death caused the death ,and 5 other can attest to the fact that it was a conncetion problem '
+[Fri Aug 10 00:40:39 2001] You GMSAY, 'evidently he fell for it, gave her his dark ember'
+[Fri Aug 10 00:40:51 2001] You told Ollie, 'Aye, but it is Verant policy.'
+[Fri Aug 10 00:41:07 2001] You GMSAY, 'He asked for it back, but she handed it off and logged.'
+[Fri Aug 10 00:41:26 2001] Odyean GMSAYS, 'ok did this player /report it?'
+[Fri Aug 10 00:41:26 2001] You GMSAY, 'very soon after, a new character with a dewd name, Aryante would know, with the same PID was in EC'
+[Fri Aug 10 00:41:32 2001] Ollie tells you, 'because of ppl gaming the system i know'
+[Fri Aug 10 00:41:38 2001] Ollie tells you, 'thanks'
+[Fri Aug 10 00:41:48 2001] You told Ollie, 'wish I could /'
+[Fri Aug 10 00:41:51 2001] You told Ollie, 'be well though'
+[Fri Aug 10 00:42:02 2001] Espranza saved.
+[Fri Aug 10 00:42:04 2001] You GMSAY, 'Let me see if he can get a report'
+[Fri Aug 10 00:42:29 2001] You told Khrakin, 'Hail, Khrakin! Guide Espranza here. Can you scroll back in your chat buffer and see where the monk said she could imbue your weapon?'
+[Fri Aug 10 00:42:55 2001] Khrakin tells you, 'It is already disapeared thanks to the EC auction stuff'
+[Fri Aug 10 00:43:05 2001] Khrakin tells you, 'I do have it on screen shot some of it though'
+[Fri Aug 10 00:43:07 2001] You GMSAY, 'it was in EC, he can't make a report due to spam'
+[Fri Aug 10 00:43:14 2001] You GMSAY, 'says he has a SS though'
+[Fri Aug 10 00:43:26 2001] Odyean GMSAYS, '=( we cant use Screenshots as Evidence =('
+[Fri Aug 10 00:43:26 2001] Aryante GMSAYS, 'might not be able to get /report, we were in Ecom and getting spammed a lot. But the new guy was named Dreatluord'
+[Fri Aug 10 00:43:45 2001] You GMSAY, 'anyway, new guy taunted him and said he sold the weapon'
+[Fri Aug 10 00:43:53 2001] You GMSAY, 'did you get any of that, Aryante?'
+[Fri Aug 10 00:44:12 2001] You GMSAY, 'the PID of the scammer is GR2VX42'
+[Fri Aug 10 00:44:18 2001] Aryante GMSAYS, 'I have the taunting part, want me to ?report it?'
+[Fri Aug 10 00:44:21 2001] It begins to rain.
+[Fri Aug 10 00:44:23 2001] Khrakin tells you, 'I can remember pretty much what was said'
+[Fri Aug 10 00:44:26 2001] Odyean GMSAYS, 'yes please'
+[Fri Aug 10 00:44:49 2001] You told Khrakin, 'we're trying to amass proof for the GM - unfortunately, screenshots and recollections aren't proof enough'
+[Fri Aug 10 00:44:56 2001] You told Khrakin, 'Aryante has some stuff though'
+[Fri Aug 10 00:45:14 2001] Odyean GMSAYS, 'afk a moment'
+[Fri Aug 10 00:45:44 2001] Khrakin tells you, 'Even a screen shot?  Can you dupe those?'
+[Fri Aug 10 00:45:54 2001] You told Khrakin, 'they are too easily falsified.'
+[Fri Aug 10 00:45:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 00:45:56 2001] USER TEXT: npcs are blocking the way to fishes ale in sq
+[Fri Aug 10 00:45:56 2001] Players in EverQuest:
+[Fri Aug 10 00:45:56 2001] ---------------------------
+[Fri Aug 10 00:45:56 2001] [ANON (8 Warrior)] Obudar (Barbarian) ZONE: qeynos (USER PID BY82331)
+[Fri Aug 10 00:45:56 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:46:02 2001] Khrakin tells you, 'I guess you could if you were good with graphics and all'
+[Fri Aug 10 00:46:06 2001] You GMSAY, 'zone'
+[Fri Aug 10 00:46:11 2001] Teleporting to obudar.
+[Fri Aug 10 00:46:12 2001] LOADING, PLEASE WAIT...
+[Fri Aug 10 00:46:50 2001] You have entered South Qeynos.
+[Fri Aug 10 00:46:56 2001] Lieutenant Arathur begins to cast a spell. (Valor)
+[Fri Aug 10 00:47:04 2001] Guard Beren says 'Yes, sir! 
+[Fri Aug 10 00:47:19 2001] Khrakin tells you, 'Well, Aryante saw where he admited to selling it'
+[Fri Aug 10 00:47:24 2001] Aryante GMSAYS, 'it's going to take more than one report, since it's in between the spam, sorry.'
+[Fri Aug 10 00:47:30 2001] Aryante GMSAYS, '*Gathers the Light around her and crosses the World*'
+[Fri Aug 10 00:47:32 2001] You feel the spirit of Norrath enter you.
+[Fri Aug 10 00:47:32 2001] Khrakin tells you, 'And I still have where he said that he had my weapon'
+[Fri Aug 10 00:47:36 2001] Obudar says, 'aww viola'
+[Fri Aug 10 00:47:42 2001] You told Khrakin, 'report that'
+[Fri Aug 10 00:47:42 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Fri Aug 10 00:47:42 2001] Obudar says, 'on same quest?'
+[Fri Aug 10 00:48:00 2001] McNeal Jocub says 'Welcome to my shop Obudar, you would probably find a Fire Beetle Leg handy'
+[Fri Aug 10 00:48:04 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:48:05 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:48:05 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:48:05 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:48:06 2001] Phantoma begins to cast a spell. (Spirit of Wolf)
+[Fri Aug 10 00:48:07 2001] Khrakin tells you, 'How'
+[Fri Aug 10 00:48:10 2001] Violaruth is surrounded by a brief lupine aura.
+[Fri Aug 10 00:48:26 2001] You told Khrakin, 'make sure the text is within the last ten lines of your chat window, then type /report khrakin'
+[Fri Aug 10 00:48:26 2001] Phantoma bites Obudar on the leg!
+[Fri Aug 10 00:48:35 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:48:35 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:48:35 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:48:35 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:48:39 2001] Trumpy Irontoe says 'Outta my way, ya big lummox! 
+[Fri Aug 10 00:48:39 2001] Bruno Barstomper says 'Yeah.  Yeah.  I hope you fall in,  you little creep. 
+[Fri Aug 10 00:48:42 2001] Aryante GMSAYS, '*Gathers the Light around her and crosses the World*'
+[Fri Aug 10 00:48:46 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:48:50 2001] Violaruth says, 'gift'
+[Fri Aug 10 00:48:56 2001] Trumpy Irontoe says '<BURP!>  Heh heh..  Enjoy that one, boys! 
+[Fri Aug 10 00:49:02 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:49:02 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:49:02 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:49:03 2001] McNeal Jocub says 'Here you go then.  Don't go tellin' no Guards where that came from.  I would hate to rid myself of a good paying customer. 
+[Fri Aug 10 00:49:03 2001] You told Obudar, 'Hail, Obudar! Guide Espranza here. Seems as if they have left the entrance...'
+[Fri Aug 10 00:49:04 2001] DELETING THIS PETITION
+[Fri Aug 10 00:49:07 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 00:49:09 2001] USER TEXT: freee meeeeee im stuckkkkkkk in frenzieeed room jeje come see =|
+[Fri Aug 10 00:49:09 2001] Players in EverQuest:
+[Fri Aug 10 00:49:09 2001] ---------------------------
+[Fri Aug 10 00:49:09 2001] [49 Necromancer] Venix (Iksar) ZONE: gukbottom (USER PID HY4EJF1)
+[Fri Aug 10 00:49:09 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:49:16 2001] You GMSAY, 'zone'
+[Fri Aug 10 00:49:16 2001] Obudar tells you, 'yes chased some ranger'
+[Fri Aug 10 00:49:18 2001] Phantoma's spell fizzles!
+[Fri Aug 10 00:49:19 2001] Phantoma begins to cast a spell. (Dexterous Aura)
+[Fri Aug 10 00:49:21 2001] Teleporting to venix.
+[Fri Aug 10 00:49:22 2001] LOADING, PLEASE WAIT...
+[Fri Aug 10 00:49:53 2001] You have entered Ruins of Old Guk.
+[Fri Aug 10 00:50:06 2001] Teleporting to venix.
+[Fri Aug 10 00:50:19 2001] Players in EverQuest:
+[Fri Aug 10 00:50:19 2001] ---------------------------
+[Fri Aug 10 00:50:19 2001] [49 Necromancer] Venix (Iksar) ZONE: everfrost (USER PID HY4EJF1)
+[Fri Aug 10 00:50:19 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:50:24 2001] Jarmal says, 'Hail'
+[Fri Aug 10 00:50:25 2001] Searching zones for corpse of that name....
+[Fri Aug 10 00:50:25 2001] Corpse: Venix's corpse0 in zone: gukbottom
+[Fri Aug 10 00:50:28 2001] Aryante GMSAYS, '*Gathers the Light around her and crosses the World*'
+[Fri Aug 10 00:50:28 2001] Jarmal says, 'Hail, Espranza'
+[Fri Aug 10 00:50:29 2001] You say, 'hiya'
+[Fri Aug 10 00:50:35 2001] Jarmal says, 'he gated =p'
+[Fri Aug 10 00:50:49 2001] You say, 'oh good, was afraid he died!'
+[Fri Aug 10 00:51:09 2001] Jarmal says, 'nah i would have saved him =D'
+[Fri Aug 10 00:51:19 2001] You told Venix, 'Hail, Venix! Guide Espranza here. I came just too late to make it so you didn't have to gate... ah well, at least you're alive.'
+[Fri Aug 10 00:51:21 2001] DELETING THIS PETITION
+[Fri Aug 10 00:52:03 2001] Khrakin tells you, 'I have 1 more snipet I can report and then the rest is in my chat log'
+[Fri Aug 10 00:52:06 2001] Jarmal says, 'how do you get one of those anons =p'
+[Fri Aug 10 00:52:11 2001] Aryante GMSAYS, '*Gathers the Light around her and crosses the World*'
+[Fri Aug 10 00:52:14 2001] You are no longer anonymous.
+[Fri Aug 10 00:52:15 2001] You no longer have a target.
+[Fri Aug 10 00:52:20 2001] You say, 'oops'
+[Fri Aug 10 00:52:26 2001] Jarmal grins evilly at Espranza.
+[Fri Aug 10 00:52:33 2001] You say, 'thanks for reminding me...'
+[Fri Aug 10 00:52:35 2001] You say, 'be well!'
+[Fri Aug 10 00:52:36 2001] You no longer have a target.
+[Fri Aug 10 00:52:37 2001] You wave goodbye to everyone.
+[Fri Aug 10 00:52:39 2001] You GMSAY, 'zone'
+[Fri Aug 10 00:52:41 2001] LOADING, PLEASE WAIT...
+[Fri Aug 10 00:53:02 2001] You have entered Sunset Home.
+[Fri Aug 10 00:53:12 2001] It begins to rain.
+[Fri Aug 10 00:53:17 2001] Odyean GMSAYS, 'ok i see three reports were made please make sure they report as much as possable.'
+[Fri Aug 10 00:53:38 2001] You GMSAY, 'Khrakin just reported some with name Khrakin'
+[Fri Aug 10 00:53:50 2001] Odyean GMSAYS, 'ok. I saw one report..'
+[Fri Aug 10 00:54:20 2001] You GMSAY, 'this may be a new one'
+[Fri Aug 10 00:54:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 00:54:23 2001] USER TEXT: DID the enchanter pet component tiny daggers  get patched to qyenos is so where are they
+[Fri Aug 10 00:54:24 2001] Players in EverQuest:
+[Fri Aug 10 00:54:24 2001] ---------------------------
+[Fri Aug 10 00:54:24 2001] [4 Enchanter] Surmezlot (Erudite) ZONE: qeynos (USER PID EYXJQ6J)
+[Fri Aug 10 00:54:24 2001] There is 1 player in EverQuest.
+[Fri Aug 10 00:54:25 2001] Aryante GMSAYS, 'Ok, I just did reports with all the stuff I saw him say before he logged.'
+[Fri Aug 10 00:54:26 2001] You GMSAY, 'perhaps not'
+[Fri Aug 10 00:55:32 2001] Aryante GMSAYS, 'hope it helps'
+[Fri Aug 10 00:55:47 2001] You told Surmezlot, 'Hail, Surmezalot! Guide Espranza here. Check the vendors carefully - someone near your guild will have your supplies.'
+[Fri Aug 10 00:55:52 2001] Odyean GMSAYS, 'ok Checking them now'
+[Fri Aug 10 00:56:01 2001] Khrakin tells you, 'I hate being a bother but any idea when the GM will be coming on?  I wanted to log almost an hour ago.  Getting very sleepy. heh'
+[Fri Aug 10 00:56:11 2001] You GMSAY, '<note badname> Surmezalot (EYXJQ6J)'
+[Fri Aug 10 00:56:13 2001] Aryante tells the guild, 'you know what makes me mad about these scammers. A lot of them are taking in younger players who just don't know better. It makes me mad when people mess with kids.'
+[Fri Aug 10 00:56:19 2001] You told Khrakin, 'GM is investigating now'
+[Fri Aug 10 00:56:25 2001] Khrakin tells you, 'Great, thanks'
+[Fri Aug 10 00:56:28 2001] You say to your guild, 'I really hate this stuff'
+[Fri Aug 10 00:56:41 2001] You say to your guild, 'scammers I mean'
+[Fri Aug 10 00:56:50 2001] Players in EverQuest:
+[Fri Aug 10 00:56:50 2001] ---------------------------
+[Fri Aug 10 00:56:50 2001] There are no players in EverQuest that match those who filters.
+[Fri Aug 10 00:56:56 2001] DELETING THIS PETITION
+[Fri Aug 10 00:57:10 2001] Aryante tells the guild, 'I still like my husband's idea. Have the GM's change the surnames of people like this, so everyone knows what they are.'
+[Fri Aug 10 00:57:30 2001] Aryante tells the guild, 'give them names like Dreatluord Scamsalot, or Freddy the KS'er, <giggle>'
+[Fri Aug 10 00:58:26 2001] You say to your guild, 'they would just delete the character and start again'
+[Fri Aug 10 00:58:55 2001] Aryante tells the guild, 'true, but if you could some how stick it on all their high level main characters, that could be fun <giggle>'
+[Fri Aug 10 01:00:00 2001] You say to your guild, 'they'd buy a new account and do it again. they just plain don't care.'
+[Fri Aug 10 01:00:20 2001] Aryante tells the guild, 'ok, so I have a mean streak in me. But I just can't understand why people act that way.'
+[Fri Aug 10 01:00:51 2001] You say to your guild, 'of course you can;'t - neither can I'
+[Fri Aug 10 01:03:10 2001] Aryante tells the guild, 'I guess if we were the type of people who did understand, we probably wouldn't be guides <giggle>'
+[Fri Aug 10 01:03:33 2001] Espranza saved.
+[Fri Aug 10 01:04:15 2001] You say to your guild, 'aye'
+[Fri Aug 10 01:04:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 01:04:38 2001] USER TEXT: Hail.  Something is getting majorly screwed up with Lay Hands in Sol B.  Two pallys (me included) tried to LH our enchanter.  According to the log, she died before we cast it.  But our LH is spent, and that shouldn't have happened.
+[Fri Aug 10 01:04:38 2001] Players in EverQuest:
+[Fri Aug 10 01:04:38 2001] ---------------------------
+[Fri Aug 10 01:04:38 2001] [43 Paladin] Asarnil (High Elf) <League of Honor> ZONE: freportw (USER PID FU44P8A)
+[Fri Aug 10 01:04:38 2001] There is 1 player in EverQuest.
+[Fri Aug 10 01:05:42 2001] You told Asarnil, 'Hail, Asarnil! Guide Espranza here. I've heard of this a couple of times today - I'll log it as a bug and hope that Verant fixes it as soon as possible.'
+[Fri Aug 10 01:06:17 2001] Asarnil tells you, 'IS there anything that can be done?  She is in a penalty lvl and I died because my LH got spent and coudln't LH myself later.'
+[Fri Aug 10 01:06:35 2001] You GMSAY, '<note bug> Asarnil FU55P8A reports LH goes off but doesn't return HP'
+[Fri Aug 10 01:06:59 2001] Aryante GMSAYS, 'Someone else was having that problem a few weeks ago'
+[Fri Aug 10 01:08:40 2001] You told Asarnil, 'I'm sorry, I can't rez for that, due to how hard that would be to prove - but it whas been reported and will hopefully not be a problem as soon as they can fix it.'
+[Fri Aug 10 01:08:43 2001] Aryante GMSAYS, 'so what can be done about scammers anyway?'
+[Fri Aug 10 01:09:24 2001] Asarnil tells you, 'this is the fifth time I've reported something like this.  Three times it has happened in Sol B.  It's not hard to prove because I can take a screenshot of the log just as it happened.'
+[Fri Aug 10 01:09:25 2001] You GMSAY, 'up to the GM'
+[Fri Aug 10 01:09:46 2001] DELETING THIS PETITION
+[Fri Aug 10 01:10:02 2001] Asarnil tells you, 'I'm not the only person who cast Lay Hands.  Another pally in group also LH.'
+[Fri Aug 10 01:10:09 2001] Odyean GMSAYS, 'ok I will be right back i need to go to Tallon Zek to talk to our friend the Scammer.... he deleted all characters here and is online there'
+[Fri Aug 10 01:10:30 2001] Aryante GMSAYS, 'how rude :('
+[Fri Aug 10 01:10:33 2001] You told Asarnil, 'This is not the kind of thing we can rez for - all I can do is log it as a bug.'
+[Fri Aug 10 01:11:09 2001] Odyean GMSAYS, 'BRB'
+[Fri Aug 10 01:11:37 2001] You GMSAY, '<note gm> Odyean came on to assist us with a scammer - under various names - PID GR2VX42. Details in comments section.'
+[Fri Aug 10 01:11:52 2001] Asarnil tells you, 'I don't mean to take this out on you, but how many times does it have to get logged before something gets done?'
+[Fri Aug 10 01:12:26 2001] Asarnil tells you, 'Believe me, I do understand you're bound by rules as a guide.'
+[Fri Aug 10 01:13:09 2001] You told Asarnil, 'well, I know a senior guide logged it earlier today, I'm logging it now... I think they'll understand it is a problem.'
+[Fri Aug 10 01:13:10 2001] Aryante tells the guild, 'my husband has an interesting theory on this scammer guy. I wonder if there is a way to find out who he handed hammer to.'
+[Fri Aug 10 01:13:18 2001] You say to your guild, 'I'm sure there is'
+[Fri Aug 10 01:13:29 2001] You say to your guild, 'I've heard all trades are logged.'
+[Fri Aug 10 01:14:08 2001] Espranza saved.
+[Fri Aug 10 01:14:24 2001] Aryante tells the guild, 'it would be interesting to check the log and see if he really got the 3kpp he claimed he got, or if he just handed the hammer off to someone (or if he handed the money off to someone, and who he gave it to.)'
+[Fri Aug 10 01:15:57 2001] You say to your guild, 'I have to go to sleep but want to see this through'
+[Fri Aug 10 01:16:09 2001] Aryante tells the guild, 'husband thinks this guy goes to a server, scams some good items, hands them to a friend then deletes all his characters on that server and moves onto another one, and then they sell the items on Ebay.'
+[Fri Aug 10 01:17:51 2001] You say to your guild, 'sounds reasonable'
+[Fri Aug 10 01:19:38 2001] You say to your guild, 'wonder if Khrakin will get his weapon back'
+[Fri Aug 10 01:20:21 2001] Aryante tells the guild, 'with the new reimbursal policy? probably not, which is a shame :( But I guess we can always hope.'
+[Fri Aug 10 01:20:35 2001] You say to your guild, 'just afraid he'll have to pay the sucker tax'
+[Fri Aug 10 01:21:51 2001] Aryante tells the guild, 'see, that's what bugs me the most, usually the ones who fall for scams like this is the young players.'
+[Fri Aug 10 01:22:04 2001] Aryante tells the guild, 'and then these poor little kids are just out of luck'
+[Fri Aug 10 01:24:29 2001] The spirit leaves you.
+[Fri Aug 10 01:24:34 2001] You say to your guild, 'Khrakin waiting patiently - well, let's hope for the best anyway'
+[Fri Aug 10 01:24:40 2001] You feel the spirit of Norrath enter you.
+[Fri Aug 10 01:24:42 2001] Espranza saved.
+[Fri Aug 10 01:25:23 2001] Aryante tells the guild, 'you did warn him he might not get it back, right?'
+[Fri Aug 10 01:25:32 2001] You say to your guild, 'aye'
+[Fri Aug 10 01:25:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 01:25:37 2001] USER TEXT: I have a bit of a problem in lavastorm, a very green mob killed me as if there were a dot on me, and I don;t see how
+[Fri Aug 10 01:25:38 2001] Players in EverQuest:
+[Fri Aug 10 01:25:38 2001] ---------------------------
+[Fri Aug 10 01:25:38 2001] [28 Rogue] Macck (Halfling) <Guardians of Truth> ZONE: kithicor (USER PID HWCFQQ0)
+[Fri Aug 10 01:25:38 2001] There is 1 player in EverQuest.
+[Fri Aug 10 01:25:56 2001] You told Macck, 'Hail, Macck! Guide Espranza here. What killed you?'
+[Fri Aug 10 01:26:11 2001] Macck tells you, 'a fire elemental, it didn't say I was burned or anything'
+[Fri Aug 10 01:26:25 2001] Macck tells you, 'I turned off auto, and he missed me and my health dropped like a stone'
+[Fri Aug 10 01:26:32 2001] Macck tells you, 'it was really weird'
+[Fri Aug 10 01:26:57 2001] You told Macck, 'were you near a goblin camp at all?'
+[Fri Aug 10 01:27:27 2001] Macck tells you, 'no, and I didn;t see any dots in the buff window'
+[Fri Aug 10 01:27:39 2001] Macck tells you, 'I don;t think hykallen was up either'
+[Fri Aug 10 01:28:05 2001] You told Macck, 'sounds like you were harm touched or something'
+[Fri Aug 10 01:28:23 2001] Macck tells you, 'but nothing there can harm touch'
+[Fri Aug 10 01:28:28 2001] Macck tells you, 'no sk's there'
+[Fri Aug 10 01:28:36 2001] Aryante GMSAYS, '*Gathers the Light around her and crosses the World*'
+[Fri Aug 10 01:28:49 2001] Macck tells you, 'the ele on hit me for about 80points of damage altogether'
+[Fri Aug 10 01:29:02 2001] You told Macck, 'at your level I don't think elementals are much danger.'
+[Fri Aug 10 01:29:17 2001] You told Macck, 'can you scroll back and see in your chat window if you can find out any more?'
+[Fri Aug 10 01:29:23 2001] Macck tells you, 'neither did i, I was nearly full health, just looking for poison ingredients'
+[Fri Aug 10 01:29:26 2001] You told Macck, 'It also sounds like you may have been in lava'
+[Fri Aug 10 01:29:44 2001] Macck tells you, 'that may have been it, but no message appeared'
+[Fri Aug 10 01:30:12 2001] Macck tells you, 'all it has is mellee'
+[Fri Aug 10 01:30:19 2001] You told Macck, 'it won't if you have a lot of filters turned on '
+[Fri Aug 10 01:30:28 2001] Aryante tells the guild, 'will the GM come back and tell us what she decided?'
+[Fri Aug 10 01:30:48 2001] You say to your guild, 'said she would'
+[Fri Aug 10 01:31:13 2001] Macck tells you, 'I have other's hits, others misses and auction turned off that 's it'
+[Fri Aug 10 01:31:22 2001] Aryante tells the guild, 'I hope she does soon before you fall asleep <giggle>'
+[Fri Aug 10 01:31:37 2001] You told Macck, 'not damage shields?'
+[Fri Aug 10 01:31:49 2001] Macck tells you, 'no, DS is on'
+[Fri Aug 10 01:32:16 2001] You told Macck, 'serverfilter turned on?'
+[Fri Aug 10 01:32:32 2001] Macck tells you, 'I don;t think I was in lava, because I was on a hilltop'
+[Fri Aug 10 01:32:40 2001] Macck tells you, 'serverfilter is not on'
+[Fri Aug 10 01:32:44 2001] Macck tells you, 'zone'
+[Fri Aug 10 01:33:01 2001] Aryante GMSAYS, 'you talk to Felinie earlier about her being harrased?'
+[Fri Aug 10 01:33:43 2001] You GMSAY, 'Aye, harasser wasn't on so no PID, report filed was going to get a GM to read it on the way out'
+[Fri Aug 10 01:34:43 2001] You told Macck, 'I can't think of anything else. If the necro didn't get you and neither did lava...'
+[Fri Aug 10 01:34:58 2001] Aryante GMSAYS, 'well, she says she just logged in again, and was imediately harassed again by a different person (did another report I think) '
+[Fri Aug 10 01:35:11 2001] Macck tells you, 'like I said, my health just dropped like a stone, it was only melee with an ele'
+[Fri Aug 10 01:35:16 2001] Espranza saved.
+[Fri Aug 10 01:35:44 2001] Macck tells you, 'if you can't do anything, you can't do anything.....'
+[Fri Aug 10 01:36:02 2001] You told Macck, 'just trying to get enough info so I can report this to the people who check these things out'
+[Fri Aug 10 01:36:37 2001] Macck tells you, 'I am going to try and locate my corpse and see if it's in lava'
+[Fri Aug 10 01:36:57 2001] You GMSAY, '<note bug> Macck HWVFQQ0 was killed by a fire elemental in Lavastorm in a few seconds - and he's a 28 rogue. Said it looked like he was dotted. Doesn't think it was the necro, was on top of a hill so no lava.'
+[Fri Aug 10 01:36:59 2001] Macck tells you, 'it just takes a very long time to hide sneak thru inkie territory'
+[Fri Aug 10 01:37:07 2001] You told Macck, 'I can check on your corpse'
+[Fri Aug 10 01:37:15 2001] You GMSAY, 'zone'
+[Fri Aug 10 01:37:18 2001] Macck tells you, 'oki'
+[Fri Aug 10 01:37:19 2001] Searching zones for corpse of that name....
+[Fri Aug 10 01:37:20 2001] Corpse: Macck's corpse0 in zone: lavastorm
+[Fri Aug 10 01:37:24 2001] LOADING, PLEASE WAIT...
+[Fri Aug 10 01:38:21 2001] You have entered Lavastorm Mountains.
+[Fri Aug 10 01:38:27 2001] Macck tells you, 'getting poison ingredients is soooo painful'
+[Fri Aug 10 01:38:32 2001] Teleporting to macck's corpse0.
+[Fri Aug 10 01:38:39 2001] You told Macck, 'I'm a rogue and also play one'
+[Fri Aug 10 01:38:43 2001] You told Macck, 'I'm here a lot'
+[Fri Aug 10 01:38:58 2001] You told Macck, 'you're not in lava'
+[Fri Aug 10 01:39:14 2001] Macck tells you, 'my make poison is up to 53, it's costly'
+[Fri Aug 10 01:39:25 2001] Macck tells you, 'I iidn't think I was'
+[Fri Aug 10 01:39:30 2001] You told Macck, 'aye - are you a master potter?'
+[Fri Aug 10 01:39:35 2001] Aryante GMSAYS, 'I'd believe it. I've had my 40th level rogue go down 2 bubbles fighting one fire elemental. I think they have a fire damage shield that doesn't show up, but you take damage every time you hit them. (very annoying)'
+[Fri Aug 10 01:39:40 2001] Macck tells you, 'that is what I am working on next'
+[Fri Aug 10 01:40:01 2001] Macck tells you, 'the vials are too expensive'
+[Fri Aug 10 01:40:08 2001] You told Macck, 'yup'
+[Fri Aug 10 01:40:14 2001] Macck tells you, 'hey, can you make poisons with 10 charges?'
+[Fri Aug 10 01:40:15 2001] You told Macck, 'suspensions are a necessary evil'
+[Fri Aug 10 01:40:48 2001] You told Macck, 'The other guide says that her 40 rogue can lose two bubbles on an elementals DS.'
+[Fri Aug 10 01:41:01 2001] You told Macck, 'it doesn't show up on damage shield though.'
+[Fri Aug 10 01:41:08 2001] You told Macck, 'I just kill the drakes :/'
+[Fri Aug 10 01:41:15 2001] You told Macck, 'and basilisks'
+[Fri Aug 10 01:41:18 2001] Macck tells you, 'but I would have got a message that said you are burned'
+[Fri Aug 10 01:41:23 2001] Macck tells you, 'he aggroed me'
+[Fri Aug 10 01:41:29 2001] Macck tells you, 'I didn;t attack him'
+[Fri Aug 10 01:41:51 2001] a fire elemental begins to cast a spell. (FireElementalAura)
+[Fri Aug 10 01:41:54 2001] Macck tells you, 'that's all I kill are the bassies and drakes'
+[Fri Aug 10 01:42:36 2001] Macck tells you, 'I am getting some bad lag, I might go ld, if I do sorry'
+[Fri Aug 10 01:43:41 2001] You told Macck, 'well, I've submitted all the info you've given me with the bug report... I wish you well and hope we can find out what happened.'
+[Fri Aug 10 01:43:43 2001] DELETING THIS PETITION
+[Fri Aug 10 01:43:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 01:43:46 2001] USER TEXT: Could you speak to the "suicidal" Coneeb, who feels its his right to leave multiple corpses at the gate?  ;)
+[Fri Aug 10 01:43:47 2001] Players in EverQuest:
+[Fri Aug 10 01:43:47 2001] ---------------------------
+[Fri Aug 10 01:43:47 2001] [3 Necromancer] Ezalra (Dark Elf) <War Criminals> ZONE: freportw (USER PID CX6KWHQ)
+[Fri Aug 10 01:43:47 2001] There is 1 player in EverQuest.
+[Fri Aug 10 01:43:54 2001] You GMSAY, 'zone'
+[Fri Aug 10 01:44:01 2001] LOADING, PLEASE WAIT...
+[Fri Aug 10 01:44:37 2001] Ezalra shouts, 'Were I not hunted like a DOG here milady, surely...but as it is so, I must leave you to your own capable devices.'
+[Fri Aug 10 01:44:41 2001] You have entered West Freeport.
+[Fri Aug 10 01:44:55 2001] Ezalra begins to cast a spell. (Lifetap)
+[Fri Aug 10 01:45:18 2001] Macck tells you, 'is there a way to make 10 charge poisons instead of 1?'
+[Fri Aug 10 01:45:34 2001] You told Macck, 'no... too bad, too'
+[Fri Aug 10 01:45:42 2001] Aryante GMSAYS, 'Is it normal for a frenzied leech to wander through the city of FV and kill people?'
+[Fri Aug 10 01:45:48 2001] You GMSAY, 'yes'
+[Fri Aug 10 01:45:56 2001] Aryante GMSAYS, 'that's what I thought'
+[Fri Aug 10 01:46:07 2001] Macck tells you, 'aww, one more question, can you put a different poison on both your blades or will only one work?'
+[Fri Aug 10 01:46:14 2001] Guard Munden says 'Stand where you are, scum!! 
+[Fri Aug 10 01:46:14 2001] Guard Jacsen says 'Die, dog!! 
+[Fri Aug 10 01:46:14 2001] Deathfist Pawn says 'Centurions!! Attack!! 
+[Fri Aug 10 01:46:14 2001] Guard Jacsen says 'Let your death be a warning to all who dare oppose the Freeport Militia! 
+[Fri Aug 10 01:46:14 2001] Deathfist Pawn says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. 
+[Fri Aug 10 01:46:37 2001] Khrakin tells you, 'I am sorry to bother you again, but do you have any word yet?  I have not heard from GM Odyean for some time now.'
+[Fri Aug 10 01:46:48 2001] You told Macck, 'Just the most recent one'
+[Fri Aug 10 01:47:03 2001] You told Khrakin, 'Your scammer fled to another server'
+[Fri Aug 10 01:47:06 2001] Macck tells you, 'double aww, oh well, it was a nice thought hehehehehe'
+[Fri Aug 10 01:47:08 2001] You told Khrakin, 'Odyean followed him'
+[Fri Aug 10 01:47:15 2001] Khrakin tells you, 'Wow!'
+[Fri Aug 10 01:47:30 2001] Khrakin tells you, 'Ebayer you think?'
+[Fri Aug 10 01:47:36 2001] You told Khrakin, 'No clue'
+[Fri Aug 10 01:47:50 2001] Docteur auctions, 'WTS Sarnak Emblazened Tabard Ac 14 Svm 10 Hp 10 '
+[Fri Aug 10 01:47:56 2001] You told Khrakin, 'But anyway that's where Odyean is'
+[Fri Aug 10 01:47:56 2001] Docteur auctions, 'WTB Celestial Healing'
+[Fri Aug 10 01:48:02 2001] USER TEXT: Could you speak to the "suicidal" Coneeb, who feels its his right to leave multiple corpses at the gate?  ;)
+[Fri Aug 10 01:48:06 2001] Searching zones for corpse of that name....
+[Fri Aug 10 01:48:08 2001] Khrakin tells you, 'Amazing what you guys can see.  You really are all knowing. heh'
+[Fri Aug 10 01:48:19 2001] You told Khrakin, 'GMs can - we can't'
+[Fri Aug 10 01:49:17 2001] Khrakin tells you, 'Even so.  Amazing.  GM Oldyean told me he was going to get my hammer back for me.  I guess I have to wait for him though.'
+[Fri Aug 10 01:49:53 2001] You told Khrakin, 'he said that? wonderful! Aryante and I were worried.'
+[Fri Aug 10 01:50:04 2001] Macck tells you, 'whew, dragoon almost got me'
+[Fri Aug 10 01:50:12 2001] Thanalyn tells you, 'wanna help me to kill Sir Lucan for my Pally Quest?'
+[Fri Aug 10 01:50:19 2001] Khrakin tells you, 'He said he would get it back earlier.  I am hoping it will be true.'
+[Fri Aug 10 01:51:13 2001] You told Thanalyn, 'I'm a guide, not allowed... good luck though'
+[Fri Aug 10 01:51:42 2001] Thanalyn tells you, 'hehe i know i was just playing...its next to immpossible with out tons of help'
+[Fri Aug 10 01:51:43 2001] Docteur auctions, 'WTB Celestial Healing'
+[Fri Aug 10 01:51:50 2001] Players in EverQuest:
+[Fri Aug 10 01:51:50 2001] ---------------------------
+[Fri Aug 10 01:51:50 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: freportw (USER PID AUGBQH4)
+[Fri Aug 10 01:51:50 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID CUUWSSL)
+[Fri Aug 10 01:51:50 2001] There are 2 players in EverQuest.
+[Fri Aug 10 01:52:43 2001] Searching zones for corpse of that name....
+[Fri Aug 10 01:53:05 2001] You told Ezalra, 'Hail, Ezalra! Guide Espranza here. I don't see any Coneeb corpses around, I guess they didn't stay.'
+[Fri Aug 10 01:53:08 2001] DELETING THIS PETITION
+[Fri Aug 10 01:53:55 2001] Thanalyn begins to cast a spell. (Symbol of Ryltan)
+[Fri Aug 10 01:53:55 2001] You GMSAY, 'zone'
+[Fri Aug 10 01:53:59 2001] LOADING, PLEASE WAIT...
+[Fri Aug 10 01:54:20 2001] You have entered Sunset Home.
+[Fri Aug 10 01:55:17 2001] Khrakin tells you, 'Please, if you speak with him, please tell him I depseratly need to log off here and am waiting on his return.  Thanks again for all your help this evening.'
+[Fri Aug 10 01:55:21 2001] Aryante tells the guild, 'to quote a famous person "I hate waiting"'
+[Fri Aug 10 01:55:54 2001] It begins to rain.
+[Fri Aug 10 01:56:44 2001] Macck tells you, 'guess that's a no?'
+[Fri Aug 10 01:56:46 2001] Aryante GMSAYS, 'going afk for a minute, brb'
+[Fri Aug 10 01:58:30 2001] You told Macck, 'I'm sorry, I must have missed your question. If it concerned a rez, no, I cannot grant one. You apparently were killed by a monster.'
+[Fri Aug 10 01:58:57 2001] Macck tells you, 'sorry to take up your time. thanks for answering my questions'
+[Fri Aug 10 01:59:43 2001] Aryante GMSAYS, 'ok, I"m back'
+[Fri Aug 10 01:59:45 2001] You told Macck, 'anytime... as always, I hope your luck is better in the days to come.'
+[Fri Aug 10 01:59:48 2001] You GMSAY, 'wb!'
+[Fri Aug 10 01:59:57 2001] Odyean GMSAYS, 'Greetings again =)'
+[Fri Aug 10 02:00:04 2001] You told Khrakin, 'Good luck, Khrakin'
+[Fri Aug 10 02:00:09 2001] You told Khrakin, 'WAIT'
+[Fri Aug 10 02:00:15 2001] You told Khrakin, 'Odyean just returned'
+[Fri Aug 10 02:00:18 2001] You GMSAY, 'Hiya!'
+[Fri Aug 10 02:00:19 2001] Khrakin tells you, 'I got it back.  Thanks again for everything'
+[Fri Aug 10 02:00:28 2001] You told Khrakin, 'Oh good! be well!'
+[Fri Aug 10 02:00:29 2001] Aryante GMSAYS, 'Hi again'
+[Fri Aug 10 02:00:32 2001] Khrakin tells you, 'You too'
+[Fri Aug 10 02:00:33 2001] You say to your guild, 'Khrakin got it back'
+[Fri Aug 10 02:00:35 2001] Odyean GMSAYS, '=)'
+[Fri Aug 10 02:00:39 2001] You GMSAY, 'what happened?'
+[Fri Aug 10 02:00:44 2001] Aryante tells the guild, 'Yay!'
+[Fri Aug 10 02:00:47 2001] You GMSAY, 'Ary and I are breathlessly waiting'
+[Fri Aug 10 02:00:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 10 02:00:51 2001] USER TEXT: Sviety
+[Fri Aug 10 02:00:51 2001] Players in EverQuest:
+[Fri Aug 10 02:00:51 2001] ---------------------------
+[Fri Aug 10 02:00:51 2001] [ANON (51 Vicar)] Khrakin (Dwarf) ZONE: freportw (USER PID FRA8LKU)
+[Fri Aug 10 02:00:51 2001] There is 1 player in EverQuest.
+[Fri Aug 10 02:00:54 2001] DELETING THIS PETITION
+[Fri Aug 10 02:01:24 2001] Macck tells you, 'one more thing that was odd too if you have time'
+[Fri Aug 10 02:01:28 2001] Odyean GMSAYS, 'Shared account issue basically. Friend had access to the account and used it to trade scam.... the player on tallon had no idea what happened but while i was talking to them Phoned there friend and then learned everthing.'
+[Fri Aug 10 02:02:10 2001] You told Macck, 'sure'
+[Fri Aug 10 02:02:16 2001] Aryante GMSAYS, 'I hope he gets himself a new friend.'
+[Fri Aug 10 02:02:21 2001] Odyean GMSAYS, 'Zoning'
+[Fri Aug 10 02:02:26 2001] Macck tells you, 'when I logged out last night I was at the zone to lava in najena'
+[Fri Aug 10 02:02:38 2001] Macck tells you, 'when I logged in today I was in the middle of the zone'
+[Fri Aug 10 02:02:43 2001] Macck tells you, 'in najena'
+[Fri Aug 10 02:02:43 2001] The spirit leaves you.
+[Fri Aug 10 02:03:04 2001] You told Macck, 'I've heard of that happening before, with people who logged at the zone'
+[Fri Aug 10 02:03:24 2001] You say to your guild, 'agh! too tired to do DSR... but must...'
+[Fri Aug 10 02:03:38 2001] Aryante tells the guild, 'you can do it, I know you can :)'
+[Fri Aug 10 02:03:51 2001] You say to your guild, 'Bristlebane give me strength'
+[Fri Aug 10 02:03:55 2001] Macck tells you, 'just thought I would mention it'
+[Fri Aug 10 02:03:55 2001] You can't use that command right now...
+[Fri Aug 10 02:03:55 2001] Your feet leave the ground.
+[Fri Aug 10 02:03:58 2001] You feel the spirit of Norrath enter you.
+[Fri Aug 10 02:04:01 2001] Odyean GMSAYS, 'ok guys I need to head out and do paper work on this issue.'
+[Fri Aug 10 02:04:06 2001] You told Macck, 'I'll note that in my shift report'
+[Fri Aug 10 02:04:15 2001] You GMSAY, 'thank you so much for your time!'
+[Fri Aug 10 02:04:21 2001] You GMSAY, 'one less scammer to trouble us'
+[Fri Aug 10 02:04:30 2001] Aryante GMSAYS, 'Yes, thanks for coming. :)'
+[Fri Aug 10 02:04:33 2001] Players in EverQuest:
+[Fri Aug 10 02:04:33 2001] ---------------------------
+[Fri Aug 10 02:04:33 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Fri Aug 10 02:04:33 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID CUUWSSL)
+[Fri Aug 10 02:04:33 2001] There are 2 players in EverQuest.
+[Fri Aug 10 02:04:39 2001] Teleporting to aryante.
+[Fri Aug 10 02:04:49 2001] Espranza saved.
+[Fri Aug 10 02:04:50 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:53 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:53 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:53 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:54 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:54 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:54 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:54 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:55 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:55 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:55 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:56 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:56 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:56 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:56 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:57 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:57 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:57 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:57 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:57 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:58 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:58 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:58 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:59 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:04:59 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:00 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:00 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:00 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:00 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:00 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:01 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:01 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:01 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:02 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:02 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:03 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:03 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:05 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:06 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:06 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:06 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:06 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:08 2001] You have entered an Arena (PvP) area.
+[Fri Aug 10 02:05:13 2001] Odyean GMSAYS, 'later all! =)'
+[Fri Aug 10 02:05:16 2001] You GMSAY, 'night'
+[Fri Aug 10 02:05:22 2001] You can no longer levitate.
+[Fri Aug 10 02:05:25 2001] You no longer have a target.
+[Fri Aug 10 02:05:33 2001] Players in EverQuest:
+[Fri Aug 10 02:05:33 2001] ---------------------------
+[Fri Aug 10 02:05:33 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Fri Aug 10 02:05:33 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Morell Thule> ZONE: cshome (USER PID CUUWSSL)
+[Fri Aug 10 02:05:33 2001] There are 2 players in EverQuest.
+[Fri Aug 10 02:05:34 2001] Aryante GMSAYS, 'See ya!'
+[Fri Aug 10 02:05:40 2001] You say, 'I'm off too'
+[Fri Aug 10 02:05:46 2001] Aryante says, 'Hail, Espranza'
+[Fri Aug 10 02:05:52 2001] Aryante says, 'good night :)'
+[Fri Aug 10 02:05:52 2001] You wave at Aryante.
+[Fri Aug 10 02:05:59 2001] It will take you about 30 seconds to prepare your camp.
+[Fri Aug 10 02:06:00 2001] Aryante waves goodbye to Espranza.
+[Fri Aug 10 02:06:01 2001] You say, 'night!'
+[Fri Aug 10 02:06:03 2001] It will take about 25 more seconds to prepare your camp.
+[Fri Aug 10 02:06:06 2001] You say, 'we done good today'
+[Fri Aug 10 02:06:08 2001] It will take about 20 more seconds to prepare your camp.
+[Fri Aug 10 02:06:13 2001] It will take about 15 more seconds to prepare your camp.
+[Fri Aug 10 02:06:16 2001] You say, 'thanks for your help!'
+[Fri Aug 10 02:06:17 2001] Aryante says, 'well, you did all the work <giggle>'
+[Fri Aug 10 02:06:19 2001] It will take about 10 more seconds to prepare your camp.
+[Fri Aug 10 02:06:24 2001] It will take about 5 more seconds to prepare your camp.
+[Fri Aug 10 02:06:28 2001] You say, 'Odyean did all the work...'

@@ -1,0 +1,69 @@
+/*
+	Load Circuit applet.
+*/
+import java.awt.*;
+import java.applet.*;
+
+public class Main extends Applet
+{
+	boolean crippleware = false;
+	
+	public void init()
+	{
+		// the Mac implementation of the JVM is flawed; take note.
+		
+		String s = System.getProperty("os.name");
+		System.out.println("os.name = \""+s+"\"");
+		crippleware = s.startsWith("M");
+		
+		GraphInfo info = new GraphInfo();
+		
+		System.out.println("Main - setting parameters");
+		info.setParameters( this );
+		
+		setLayout( new BorderLayout() );
+
+			// is CC1
+
+		CC1 cc = new CC1(this,info);
+		add( cc, BorderLayout.CENTER );
+	
+		this.setBackground( Color.white );
+		
+		validate();
+		repaint();
+
+	
+    	//System.out.println("Applet Main.setStub("+stub+")");
+	}
+
+    public String[][] getParameterInfo()
+    {
+		return GraphInfo.paramList;
+    }
+
+	public String getAppletInfo()
+	{
+		return( "Circuits 1 [7.07.1999] by Archipelago Productions" );
+	}
+	
+	// must we run with crippled functionality -- on the Macintosh?
+	
+	public boolean isCrippled()
+	{
+		return crippleware;
+	}
+	
+	// find the applet that contains this component.
+	
+	public static Main getApplet( Component c )
+	{
+		while( c != null && !(c instanceof Applet) )
+		{
+			c = c.getParent();
+		}
+		
+		return (Main) c;
+	}
+}
+

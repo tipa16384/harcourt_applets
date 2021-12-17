@@ -1,0 +1,518 @@
+[Sun Dec 30 04:28:47 2001] Welcome to EverQuest!
+[Sun Dec 30 04:28:47 2001] You have entered Sanctus Seru.
+[Sun Dec 30 04:28:53 2001] Players in EverQuest:
+[Sun Dec 30 04:28:53 2001] ---------------------------
+[Sun Dec 30 04:28:53 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: sseru (USER PID B4KJ6E7)
+[Sun Dec 30 04:28:53 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:28:57 2001] You GMSAY, 'hullo anyone'
+[Sun Dec 30 04:29:02 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 30 04:29:03 2001] USER TEXT: pls help ... i lost an item when conducting a trade with another player
+[Sun Dec 30 04:29:03 2001] Players in EverQuest:
+[Sun Dec 30 04:29:03 2001] ---------------------------
+[Sun Dec 30 04:29:03 2001] [57 Knight] Rudyard (Half Elf) <Leaders of Honor> ZONE: velketor (USER PID GUUUPBP)
+[Sun Dec 30 04:29:03 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:29:59 2001] You told Rudyard, 'Hail, Rudyard! Senior Guide Espranza here. You must talk to the GM about items lost in trades; if you go to the EQ web page at www.everquestlive.com and follow the Contact Your GM link on the left, you can ask GM Lirus to help you.'
+[Sun Dec 30 04:30:02 2001] DELETING THIS PETITION
+[Sun Dec 30 04:30:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 30 04:30:04 2001] USER TEXT: how do you become a GM or a guide?
+[Sun Dec 30 04:30:05 2001] Players in EverQuest:
+[Sun Dec 30 04:30:05 2001] ---------------------------
+[Sun Dec 30 04:30:05 2001] [ANON (16 Enchanter)] Justiced (Dark Elf) ZONE: feerrott (USER PID D3YAL2Y)
+[Sun Dec 30 04:30:05 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:30:46 2001] Rudyard tells you, 'is that the only way?'
+[Sun Dec 30 04:31:06 2001] You told Justiced, 'Hail, Justiced! Senior Guide Espranza here. To become a guide (like me), go to guideapp.everquest.com and fill out the application. To become a GM, you must already live in or be willing to move to San Diego, and apply for the job normally.'
+[Sun Dec 30 04:31:25 2001] Justiced tells you, 'oh ok'
+[Sun Dec 30 04:31:28 2001] You told Rudyard, 'Lirus will be back from winter break next Thursday; you can re-petition then, if you like.'
+[Sun Dec 30 04:31:28 2001] Justiced tells you, 'thnx alot'
+[Sun Dec 30 04:31:39 2001] You told Justiced, 'sure thing! good luck!'
+[Sun Dec 30 04:31:40 2001] DELETING THIS PETITION
+[Sun Dec 30 04:31:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 30 04:31:42 2001] USER TEXT: Need to know if najena is down, i have 2 accounts and 2 char who zoned in there and crashed, cat get back
+[Sun Dec 30 04:31:42 2001] Players in EverQuest:
+[Sun Dec 30 04:31:42 2001] ---------------------------
+[Sun Dec 30 04:31:42 2001] [1 Monk] Mulasome (Human) ZONE: ecommons (USER PID C37EMC0)
+[Sun Dec 30 04:31:42 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:31:54 2001] Zones in EverQuest:
+[Sun Dec 30 04:31:54 2001] ---------------------------
+[Sun Dec 30 04:31:54 2001] ZONE: maiden is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: scarlet is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: grimling is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: sseru is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: sharvahl is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: dawnshroud is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: hollowshade is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: griegsend is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: echo is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: thegrey is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: nexus is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: akheva is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: letalis is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: tenebrous is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: netherbian is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: arena2 is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: bazaar is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: ssratemple is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: katta is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: fungusgrove is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: shadowhaven is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: thedeep is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: paludal is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: umbral is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: twilight is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: mseru is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: vexthal is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: shadeweaver is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: acrylia is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: lfaydark is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: oggok is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: lakerathe is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: kurn is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: kaesora is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: necropolis is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: westwastes is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: greatdivide is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: kael is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: gfaydark is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: cshome is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: najena is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: northkarana is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: mischiefplane is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: skyshrine is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: soldunga is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: eastwastes is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: wakening is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: crystal is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: iceclad is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: growthplane is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: thurgadinb is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: thurgadina is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: sirens is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: frozenshadow is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: templeveeshan is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: dalnir is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: lakeofillomen is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: veeshan is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: frontiermtns is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: cazicthule is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: swampofnohope is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: sebilis is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: cabwest is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: charasis is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: droga is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: timorous is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: chardok is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: cabeast is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: velketor is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: overthere is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: warslikswood is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: citymist is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: firiona is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: skyfire is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: nurga is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: fieldofbone is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: oot is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: trakanon is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: stonebrunt is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: hole is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: burningwood is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: warrens is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: sleeper is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: cobaltscar is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: dreadlands is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: karnor is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: emeraldjungle is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: akanon is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: qcat is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: cauldron is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: unrest is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: misty is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: kithicor is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: paw is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: befallen is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: tox is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: soltemple is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: crushbone is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: kedge is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: steamfont is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: blackburrow is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: southkarana is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: kaladima is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: permafrost is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: fearplane is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: rivervale is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: guktop is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: felwithea is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: kaladimb is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: sro is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: felwitheb is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: erudnext is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: qeytoqrg is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: grobb is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: rathemtn is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: gukbottom is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: arena is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: lavastorm is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: neriakc is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: innothule is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: eastkarana is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: neriaka is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: neriakb is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: airplane is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: nektulos is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: oasis is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: soldungb is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: nro is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: freportw is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: freporte is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: halas is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: erudnint is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: mistmoore is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: hateplane is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: commons is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: ecommons is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: erudsxing is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: feerrott is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: freportn is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: butcher is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: everfrost is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: paineel is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: beholder is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: qey2hh1 is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: highkeep is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: kerraridge is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: highpass is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: runnyeye is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: qeynos is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: qeynos2 is UP.
+[Sun Dec 30 04:31:54 2001] ZONE: qrg is UP.
+[Sun Dec 30 04:31:54 2001] There are 151 zone servers up.
+[Sun Dec 30 04:31:58 2001] Justiced tells you, 'so its www.guideapp.everquest.com right'
+[Sun Dec 30 04:32:05 2001] Rudyard tells you, 'i can get ahold of him now through everquestlive?'
+[Sun Dec 30 04:32:13 2001] You told Justiced, 'no, just guideapp.everquest.com'
+[Sun Dec 30 04:32:26 2001] You told Rudyard, 'You can send him mail...'
+[Sun Dec 30 04:32:30 2001] Justiced tells you, 'ok'
+[Sun Dec 30 04:32:36 2001] Justiced tells you, '/thank'
+[Sun Dec 30 04:32:40 2001] Rudyard tells you, 'ok through the site correct'
+[Sun Dec 30 04:32:40 2001] You told Rudyard, 'I don't know when he'll get to it.'
+[Sun Dec 30 04:32:43 2001] You told Rudyard, 'right'
+[Sun Dec 30 04:32:48 2001] You told Justiced, 'sure thing!'
+[Sun Dec 30 04:33:02 2001] Rudyard tells you, 'well could you mark it down for the record that i spoke with ya ... i really worried about it'
+[Sun Dec 30 04:33:11 2001] You told Rudyard, 'sure - what did you lose?'
+[Sun Dec 30 04:33:21 2001] Rudyard tells you, '5k'
+[Sun Dec 30 04:33:26 2001] You told Rudyard, 'just money?'
+[Sun Dec 30 04:33:44 2001] Rudyard tells you, 'other player got the money ... i was trading for a cloak of shadows'
+[Sun Dec 30 04:34:00 2001] Jezziff tells you, 'could u assist me in WC lands or drop a little tell on an annoying punk?'
+[Sun Dec 30 04:34:10 2001] You told Jezziff, 'please petition, thanks'
+[Sun Dec 30 04:34:24 2001] You told Rudyard, 'Who was the other player?'
+[Sun Dec 30 04:34:29 2001] Rudyard tells you, 'valors'
+[Sun Dec 30 04:34:29 2001] Justiced tells you, 'can i ask what the perks are to the job?'
+[Sun Dec 30 04:34:34 2001] Rudyard tells you, 'he is petitioning too'
+[Sun Dec 30 04:35:13 2001] Rudyard tells you, 'i kinda am wearing temporary armor atm till i can get this resolved'
+[Sun Dec 30 04:35:17 2001] You told Justiced, 'sure - you get to help people who are having problems, act in the occasional GM events, and explore the world when there are no petitions to answer.'
+[Sun Dec 30 04:35:50 2001] Jezziff tells you, 'did u get that okay? '
+[Sun Dec 30 04:36:02 2001] Justiced tells you, 'those are the perks? lol what i ment was do you get anything for it?'
+[Sun Dec 30 04:36:07 2001] You told Jezziff, 'working on another petition atm... I'll be right with you.'
+[Sun Dec 30 04:36:14 2001] You told Justiced, 'like, money? no'
+[Sun Dec 30 04:36:17 2001] Jezziff tells you, 'thankyou '
+[Sun Dec 30 04:36:19 2001] You told Justiced, 'nothing tangible.'
+[Sun Dec 30 04:36:27 2001] Justiced tells you, 'ohhh that suxx'
+[Sun Dec 30 04:36:29 2001] Rudyard tells you, 'valors said that he would be back on later'
+[Sun Dec 30 04:36:39 2001] Justiced tells you, 'but still sounds fun'
+[Sun Dec 30 04:36:45 2001] You told Rudyard, 'GM Lirus won't be on for several days...'
+[Sun Dec 30 04:36:51 2001] You told Justiced, 'it is fun!'
+[Sun Dec 30 04:37:10 2001] Players in EverQuest:
+[Sun Dec 30 04:37:10 2001] ---------------------------
+[Sun Dec 30 04:37:10 2001] [57 Knight] Rudyard (Half Elf) <Leaders of Honor> ZONE: velketor (USER PID GUUUPBP)
+[Sun Dec 30 04:37:10 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:37:13 2001] Rudyard tells you, 'ya i know /sigh ... ok well i guess i will just wait and hope for the best'
+[Sun Dec 30 04:37:13 2001] Players on EverQuest:
+[Sun Dec 30 04:37:13 2001] ---------------------------
+[Sun Dec 30 04:37:13 2001] There are no players in Sanctus Seru that match those who filters.
+[Sun Dec 30 04:37:15 2001] Players in EverQuest:
+[Sun Dec 30 04:37:15 2001] ---------------------------
+[Sun Dec 30 04:37:15 2001] There are no players in EverQuest that match those who filters.
+[Sun Dec 30 04:37:20 2001] Justiced tells you, 'you like the power dont ya hehehehehe'
+[Sun Dec 30 04:38:05 2001] You GMSAY, '<note gm> Rudyard GUUUPBP was trading 5K for a Cloak of Shadows with Valors (no PID available), Valors got the 5K but Rudyard did not get cloak. Referred him to Contact Your GM.'
+[Sun Dec 30 04:38:10 2001] You told Justiced, 'there is no power...'
+[Sun Dec 30 04:38:21 2001] You told Justiced, 'it's a customer service volunteer position.'
+[Sun Dec 30 04:38:35 2001] Justiced tells you, 'oh ok'
+[Sun Dec 30 04:38:42 2001] Centurion Praedico shouts 'The teeth, the claws, no eyes, no  eyes!  Somebody help me.. ahhhhhhhhh! 
+[Sun Dec 30 04:39:03 2001] You told Rudyard, 'Okay, I left a note for Lirus. You should definitely use Contact Your GM, though.'
+[Sun Dec 30 04:39:06 2001] USER TEXT: Need to know if najena is down, i have 2 accounts and 2 char who zoned in there and crashed, cat get back
+[Sun Dec 30 04:39:16 2001] Rudyard tells you, 'will do'
+[Sun Dec 30 04:39:18 2001] Espranza saved.
+[Sun Dec 30 04:39:35 2001] Rudyard tells you, 'thanks for help'
+[Sun Dec 30 04:39:55 2001] You told Mulasome, 'Hail, Mulasome! Senior Guide Espranza here. Najena is up... try deleting the najena.* files in your EQ folder, repatching and trying again, that may help.'
+[Sun Dec 30 04:40:01 2001] You told Rudyard, 'sure thing - and good luck!'
+[Sun Dec 30 04:40:02 2001] Players in EverQuest:
+[Sun Dec 30 04:40:02 2001] ---------------------------
+[Sun Dec 30 04:40:02 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: sseru (USER PID B4KJ6E7)
+[Sun Dec 30 04:40:02 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:40:05 2001] DELETING THIS PETITION
+[Sun Dec 30 04:40:07 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 30 04:40:08 2001] USER TEXT: Hello, I was running through WK just now and suddenly i slipped under the world.  Could someone please help me. Thank you
+[Sun Dec 30 04:40:08 2001] Players in EverQuest:
+[Sun Dec 30 04:40:08 2001] ---------------------------
+[Sun Dec 30 04:40:08 2001] [58 Blackguard] Yucan (Half Elf) <Hall of Heroes> ZONE: qey2hh1 (USER PID BX7P1LD)
+[Sun Dec 30 04:40:08 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:40:18 2001] Rudyard tells you, '... ok ... say what you think my chances are of getting it back?'
+[Sun Dec 30 04:40:27 2001] You told Yucan, 'Hail, Yucan! Senior Guide Espranza here. Still stuck beneath the world?'
+[Sun Dec 30 04:40:33 2001] Mulasome tells you, 'heh already done no help :('
+[Sun Dec 30 04:40:35 2001] Yucan tells you, 'yes i am =o\'
+[Sun Dec 30 04:40:48 2001] You told Rudyard, 'that's entirely up to Lirus; I know he'll help as much as he can, though.'
+[Sun Dec 30 04:40:54 2001] You told Yucan, 'I'll be right there!'
+[Sun Dec 30 04:40:56 2001] Rudyard tells you, 'ok thx again'
+[Sun Dec 30 04:41:00 2001] Yucan tells you, 'thank you so much'
+[Sun Dec 30 04:41:17 2001] Mulasome tells you, 'i now have 3 char in najena stuck'
+[Sun Dec 30 04:41:18 2001] You told Mulasome, 'Try deleting the charname_43.opt files for the characters and trying again...'
+[Sun Dec 30 04:41:21 2001] You told Mulasome, 'ouch'
+[Sun Dec 30 04:41:31 2001] You told Mulasome, 'you deleted all the najena files?'
+[Sun Dec 30 04:41:45 2001] You told Mulasome, 'zoning... one moment'
+[Sun Dec 30 04:41:47 2001] You GMSAY, 'zone'
+[Sun Dec 30 04:41:50 2001] Teleporting to yucan.
+[Sun Dec 30 04:41:51 2001] LOADING, PLEASE WAIT...
+[Sun Dec 30 04:42:38 2001] You have entered Western Plains of Karana.
+[Sun Dec 30 04:42:52 2001] Teleporting to yucan.
+[Sun Dec 30 04:43:01 2001] Teleporting to yucan.
+[Sun Dec 30 04:43:33 2001] You say, 'so what seems to be the problem? ;)'
+[Sun Dec 30 04:43:45 2001] Teleporting to a_bandit00.
+[Sun Dec 30 04:43:49 2001] Summoning yucan.
+[Sun Dec 30 04:43:56 2001] Mulasome tells you, 'yup 3 but have not tried the char files'
+[Sun Dec 30 04:44:04 2001] Yucan says, 'thanks very much'
+[Sun Dec 30 04:44:05 2001] Yucan bows before Espranza.
+[Sun Dec 30 04:44:06 2001] You told Mulasome, 'try those...'
+[Sun Dec 30 04:44:11 2001] You no longer have a target.
+[Sun Dec 30 04:44:12 2001] You bow.
+[Sun Dec 30 04:44:35 2001] You GMSAY, '<note> Yucan BX7P1LD stuck beneath the world in WK, fished him out'
+[Sun Dec 30 04:44:39 2001] Your feet leave the ground.
+[Sun Dec 30 04:44:40 2001] You feel the spirit of Norrath enter you.
+[Sun Dec 30 04:44:44 2001] Mulasome tells you, 'wil do'
+[Sun Dec 30 04:44:48 2001] DELETING THIS PETITION
+[Sun Dec 30 04:44:51 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 30 04:44:51 2001] USER TEXT: theres a really annoying person spamming the shout line, he is threatning to kill me after several people told him to shut up, I am one of them, he has a train which can hurt me
+[Sun Dec 30 04:44:51 2001] Players in EverQuest:
+[Sun Dec 30 04:44:51 2001] ---------------------------
+[Sun Dec 30 04:44:51 2001] [24 Warrior] Jezziff (Human) <United Ale Drinkers> ZONE: commons (USER PID D1T7G3Q)
+[Sun Dec 30 04:44:51 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:45:01 2001] You GMSAY, 'hiding and zoning'
+[Sun Dec 30 04:45:03 2001] Espranza is now Invisible.
+[Sun Dec 30 04:45:03 2001] You are now anonymous.
+[Sun Dec 30 04:45:07 2001] LOADING, PLEASE WAIT...
+[Sun Dec 30 04:45:41 2001] You have entered West Commonlands.
+[Sun Dec 30 04:46:02 2001] Players on EverQuest:
+[Sun Dec 30 04:46:02 2001] ---------------------------
+[Sun Dec 30 04:46:02 2001] [24 Warrior] Jezziff (Human) <United Ale Drinkers>
+[Sun Dec 30 04:46:02 2001] There is 1 player in West Commonlands.
+[Sun Dec 30 04:46:07 2001] Teleporting to jezziff.
+[Sun Dec 30 04:46:40 2001] Players on EverQuest:
+[Sun Dec 30 04:46:40 2001] ---------------------------
+[Sun Dec 30 04:46:40 2001] [ANONYMOUS] Numendil 
+[Sun Dec 30 04:46:40 2001] [ANONYMOUS] Vienna 
+[Sun Dec 30 04:46:40 2001] [54 Cavalier] Famdar (High Elf) <Tycoon>
+[Sun Dec 30 04:46:40 2001] [ANONYMOUS] Issunbousi  <Tycoon>
+[Sun Dec 30 04:46:40 2001] [13 Druid] Falok (Halfling) <Freeport Tavern>
+[Sun Dec 30 04:46:40 2001] [ANONYMOUS] Mynor 
+[Sun Dec 30 04:46:40 2001] [ANONYMOUS] Mononoph 
+[Sun Dec 30 04:46:40 2001] [ANONYMOUS] Sumeragi 
+[Sun Dec 30 04:46:40 2001] [11 Wizard] Zattena (Gnome) < Seekers of the Golden Crest >
+[Sun Dec 30 04:46:40 2001] [35 Warrior] Kharlkuhlinayn (Human) <Echelon>
+[Sun Dec 30 04:46:40 2001] [24 Warrior] Jezziff (Human) <United Ale Drinkers>
+[Sun Dec 30 04:46:40 2001] [11 Druid] Warrdaddie (Halfling)
+[Sun Dec 30 04:46:40 2001] [14 Warrior] Basano (Barbarian)
+[Sun Dec 30 04:46:40 2001] [ANONYMOUS] Violetz  <Black Claws>
+[Sun Dec 30 04:46:40 2001] [60 Warlord] Sinedan (Barbarian) <Fury's Edge>
+[Sun Dec 30 04:46:40 2001] [53 Wanderer] Tanlina (Halfling) LFG
+[Sun Dec 30 04:46:40 2001] [38 Paladin] Zekes (Dwarf) <Revered Souls>
+[Sun Dec 30 04:46:40 2001] [32 Druid] Dauntefierro (Halfling) <Hunters of Darkness>
+[Sun Dec 30 04:46:40 2001] [51 Disciple] Zaksis (Iksar) LFG
+[Sun Dec 30 04:46:40 2001] [10 Ranger] Tracyn (Human)
+[Sun Dec 30 04:46:40 2001] There are 20 players in West Commonlands.
+[Sun Dec 30 04:46:48 2001] Tracyn begins to cast a spell. (Skin like Wood)
+[Sun Dec 30 04:46:55 2001] Players in EverQuest:
+[Sun Dec 30 04:46:55 2001] ---------------------------
+[Sun Dec 30 04:46:55 2001] [1 Rogue] Laugher (Wood Elf) ZONE: gfaydark (USER PID AT642H3)
+[Sun Dec 30 04:46:55 2001] [1 Beastlord] Kitternia (Vah Shir) ZONE: sharvahl (USER PID GT5RA01)
+[Sun Dec 30 04:46:55 2001] [1 Warrior] Grazil (Troll) ZONE: innothule (USER PID F5RE68R)
+[Sun Dec 30 04:46:55 2001] [1 Bard] Yhillie (Half Elf) ZONE: freportn (USER PID FZPXX12)
+[Sun Dec 30 04:46:55 2001] [1 Ranger] Gilthorn (Wood Elf) ZONE: gfaydark (USER PID DPA7PAQ)
+[Sun Dec 30 04:46:55 2001] [1 Shadow Knight] Renlaan (Human) ZONE: freportw (USER PID E1W74ST)
+[Sun Dec 30 04:46:55 2001] [1 Monk] Mulasome (Human) ZONE: ecommons (USER PID C37EMC0)
+[Sun Dec 30 04:46:55 2001] [1 Warrior] Manuvwen (Half Elf) ZONE: gfaydark (USER PID CZUTJZR)
+[Sun Dec 30 04:46:55 2001] There are 8 players in EverQuest.
+[Sun Dec 30 04:46:55 2001] Tracyn begins to cast a spell. (Endure Fire)
+[Sun Dec 30 04:47:07 2001] Players in EverQuest:
+[Sun Dec 30 04:47:07 2001] ---------------------------
+[Sun Dec 30 04:47:07 2001] [2 Beastlord] Hilea (Barbarian) ZONE: halas (USER PID CQUXUX9)
+[Sun Dec 30 04:47:07 2001] [2 Necromancer] Tirya (Dark Elf) ZONE: neriakb (USER PID GT4W1TV)
+[Sun Dec 30 04:47:07 2001] [2 Bard] Slavia (Human) <Renaissance> ZONE: freportn (USER PID GTH4V6X)
+[Sun Dec 30 04:47:07 2001] [2 Rogue] Cathee (Vah Shir) ZONE: sharvahl (USER PID BV5S5RU)
+[Sun Dec 30 04:47:07 2001] [2 Bard] Hanesa (Human) ZONE: ecommons (USER PID D1CEJHE)
+[Sun Dec 30 04:47:07 2001] [2 Beastlord] Kagaz (Troll) ZONE: innothule (USER PID FYFHLD0)
+[Sun Dec 30 04:47:07 2001] [2 Shaman] Fayanna (Iksar) ZONE: fieldofbone (USER PID GU1MLL9)
+[Sun Dec 30 04:47:07 2001] [2 Warrior] Bruto (Ogre) ZONE: oggok (USER PID GVZY9V3)
+[Sun Dec 30 04:47:07 2001] There are 8 players in EverQuest.
+[Sun Dec 30 04:47:17 2001] Players in EverQuest:
+[Sun Dec 30 04:47:17 2001] ---------------------------
+[Sun Dec 30 04:47:17 2001] [3 Warrior] Alexender (Human) ZONE: everfrost (USER PID FX8PTRN)
+[Sun Dec 30 04:47:17 2001] [3 Bard] Furysinger (Vah Shir) ZONE: sharvahl (USER PID BXYXLM4)
+[Sun Dec 30 04:47:17 2001] [3 Monk] Garv (Iksar) ZONE: fieldofbone (USER PID EXDV3MG)
+[Sun Dec 30 04:47:17 2001] [3 Warrior] Nurigo (Human) ZONE: freportw (USER PID E39NQDE)
+[Sun Dec 30 04:47:17 2001] There are 4 players in EverQuest.
+[Sun Dec 30 04:47:27 2001] Players in EverQuest:
+[Sun Dec 30 04:47:27 2001] ---------------------------
+[Sun Dec 30 04:47:27 2001] [4 Enchanter] Ianenie (High Elf) ZONE: freportw (USER PID B41ZSX8)
+[Sun Dec 30 04:47:27 2001] [4 Cleric] Reveurr (Dwarf) ZONE: butcher (USER PID F0WYSCD)
+[Sun Dec 30 04:47:27 2001] [4 Monk] Cocotte (Human) ZONE: ecommons (USER PID CXR7BRK)
+[Sun Dec 30 04:47:27 2001] [4 Beastlord] Nobul (Vah Shir) ZONE: shadeweaver (USER PID AVW694W)
+[Sun Dec 30 04:47:27 2001] [4 Wizard] Chaoticblaze (High Elf) ZONE: felwithea (USER PID D0X8NYM)
+[Sun Dec 30 04:47:27 2001] [4 Cleric] Dorini (Halfling) ZONE: rivervale (USER PID BYK0M9V)
+[Sun Dec 30 04:47:27 2001] [4 Druid] Kitof (Wood Elf) <Elven Corporation> ZONE: ecommons (USER PID HX9LWZW)
+[Sun Dec 30 04:47:27 2001] [4 Beastlord] Bexe (Vah Shir) ZONE: shadeweaver (USER PID AUN8U93)
+[Sun Dec 30 04:47:27 2001] [4 Bard] Naddaru (Wood Elf) ZONE: gfaydark (USER PID H5RVLE2)
+[Sun Dec 30 04:47:27 2001] [4 Rogue] Yaon (Vah Shir) ZONE: shadeweaver (USER PID B4CX136)
+[Sun Dec 30 04:47:27 2001] There are 10 players in EverQuest.
+[Sun Dec 30 04:47:35 2001] Players in EverQuest:
+[Sun Dec 30 04:47:35 2001] ---------------------------
+[Sun Dec 30 04:47:35 2001] [5 Paladin] Arendil (Human) ZONE: ecommons (USER PID GS0385K)
+[Sun Dec 30 04:47:35 2001] [5 Beastlord] Lunarcat (Vah Shir) ZONE: sharvahl (USER PID DS5ENGU)
+[Sun Dec 30 04:47:35 2001] [5 Warrior] Dayzee (Halfling) ZONE: gfaydark (USER PID CRX7YGQ)
+[Sun Dec 30 04:47:35 2001] [5 Wizard] Mistiffy (High Elf) ZONE: butcher (USER PID H0X84N7)
+[Sun Dec 30 04:47:35 2001] [5 Ranger] Deinleyn (Wood Elf) <Norrath Gatekeepers> ZONE: gfaydark (USER PID AX78ALM)
+[Sun Dec 30 04:47:35 2001] [5 Bard] Wegen (Wood Elf) ZONE: gfaydark (USER PID H40CLS7)
+[Sun Dec 30 04:47:35 2001] There are 6 players in EverQuest.
+[Sun Dec 30 04:47:44 2001] Players in EverQuest:
+[Sun Dec 30 04:47:44 2001] ---------------------------
+[Sun Dec 30 04:47:44 2001] [6 Cleric] Garve (High Elf) <Elven Corporation> ZONE: ecommons (USER PID GPUTTPW)
+[Sun Dec 30 04:47:44 2001] [6 Beastlord] Solmate (Vah Shir) ZONE: sharvahl (USER PID BQF5D7W)
+[Sun Dec 30 04:47:44 2001] [6 Shaman] Msbehaveing (Barbarian) ZONE: qeytoqrg (USER PID HU0LRUH)
+[Sun Dec 30 04:47:44 2001] [6 Druid] Shalya (Wood Elf) ZONE: crushbone (USER PID F1PAW71)
+[Sun Dec 30 04:47:44 2001] [6 Bard] Geenii (Vah Shir) ZONE: sharvahl (USER PID DQQS2KC)
+[Sun Dec 30 04:47:44 2001] [6 Beastlord] Catybenke (Vah Shir) ZONE: shadeweaver (USER PID ES4FDCA)
+[Sun Dec 30 04:47:44 2001] [ANON (6 Druid)] Azelie (Wood Elf) ZONE: butcher (USER PID B26SGPK)
+[Sun Dec 30 04:47:44 2001] [6 Rogue] Aardorr (Vah Shir) ZONE: ecommons (USER PID HRNHHKZ)
+[Sun Dec 30 04:47:44 2001] [ANON (6 Ranger)] Wandyrar (Wood Elf) ZONE: gfaydark (USER PID E5RE3GR)
+[Sun Dec 30 04:47:44 2001] [6 Magician] Gannymede (High Elf) ZONE: gfaydark (USER PID GWXD33K)
+[Sun Dec 30 04:47:44 2001] [6 Druid] Megen (Wood Elf) ZONE: everfrost (USER PID B4M8VUU)
+[Sun Dec 30 04:47:44 2001] [6 Beastlord] Rakka (Vah Shir) ZONE: sharvahl (USER PID GWXJ2XD)
+[Sun Dec 30 04:47:44 2001] [6 Beastlord] Gbath (Vah Shir) ZONE: shadeweaver (USER PID DQMGGTP)
+[Sun Dec 30 04:47:44 2001] There are 13 players in EverQuest.
+[Sun Dec 30 04:47:57 2001] Players in EverQuest:
+[Sun Dec 30 04:47:57 2001] ---------------------------
+[Sun Dec 30 04:47:57 2001] [7 Bard] Solochur (Half Elf) ZONE: qeynos2 (USER PID AW8L91P)
+[Sun Dec 30 04:47:57 2001] [7 Bard] Dijynn (Vah Shir) ZONE: sharvahl (USER PID FNKNC81)
+[Sun Dec 30 04:47:57 2001] [7 Paladin] Isythien (High Elf) ZONE: qeytoqrg (USER PID CWB02VV)
+[Sun Dec 30 04:47:57 2001] [ANON (7 Druid)] Sweetswift (Halfling) ZONE: butcher (USER PID EU1XFU9)
+[Sun Dec 30 04:47:57 2001] [7 Beastlord] Eldritck (Vah Shir) ZONE: sharvahl (USER PID H2ECEP5)
+[Sun Dec 30 04:47:57 2001] [7 Monk] Juunn (Iksar) ZONE: fieldofbone (USER PID BSWUP44)
+[Sun Dec 30 04:47:57 2001] [7 Beastlord] Revalan (Iksar) ZONE: fieldofbone (USER PID BSBVCNV)
+[Sun Dec 30 04:47:57 2001] There are 7 players in EverQuest.
+[Sun Dec 30 04:48:06 2001] Players in EverQuest:
+[Sun Dec 30 04:48:06 2001] ---------------------------
+[Sun Dec 30 04:48:06 2001] [8 Warrior] Chunsang (Half Elf) ZONE: gfaydark (USER PID HVC24CD)
+[Sun Dec 30 04:48:06 2001] [8 Rogue] Sandalar (Barbarian) ZONE: blackburrow (USER PID H4M7UMN)
+[Sun Dec 30 04:48:06 2001] [ANON (8 Wizard)] Misskittie (Dark Elf) ZONE: neriaka (USER PID DYNDQAE)
+[Sun Dec 30 04:48:06 2001] [ANON (8 Beastlord)] Jupitor (Vah Shir) ZONE: everfrost (USER PID CPE6N77)
+[Sun Dec 30 04:48:06 2001] [8 Paladin] Namana (High Elf) ZONE: gfaydark (USER PID D234MRA)
+[Sun Dec 30 04:48:06 2001] [8 Necromancer] Alacon (Erudite) <Clan of Zoit> ZONE: freporte (USER PID GQPH2E8)
+[Sun Dec 30 04:48:06 2001] [8 Beastlord] Caanuuk (Vah Shir) ZONE: shadeweaver (USER PID AXUTG01)
+[Sun Dec 30 04:48:06 2001] [8 Shadow Knight] Nighterr (Human) ZONE: ecommons (USER PID GX02PTP)
+[Sun Dec 30 04:48:06 2001] [ANON (8 Necromancer)] Moonrazor (Dark Elf) ZONE: ecommons (USER PID DUU6VB5)
+[Sun Dec 30 04:48:06 2001] [8 Beastlord] Milkcan (Vah Shir) ZONE: shadeweaver (USER PID BY8VMP4)
+[Sun Dec 30 04:48:06 2001] [ANON (8 Warrior)] Zulmog (Ogre) ZONE: nektulos (USER PID FNQN8YQ)
+[Sun Dec 30 04:48:06 2001] There are 11 players in EverQuest.
+[Sun Dec 30 04:48:19 2001] Zekes says out of character, 'Can anyone here go to the wizzy spires in NK and meet a friend of mine and take him here? I'll pay'
+[Sun Dec 30 04:49:10 2001] You told Jezziff, 'Hail, Jezziff! Senior Guide Espranza here. Well, he seems to have stopped. Who was it?'
+[Sun Dec 30 04:49:36 2001] Jezziff tells you, 'yeah he logged off, lemmi scroll up to get the proper spelling of his name '
+[Sun Dec 30 04:49:37 2001] Falok begins to cast a spell. (Harmony)
+[Sun Dec 30 04:49:43 2001] Falok begins to cast a spell. (Flame Lick)
+[Sun Dec 30 04:49:53 2001] Falok begins to cast a spell. (Snare)
+[Sun Dec 30 04:49:53 2001] Jezziff tells you, 'Felah'
+[Sun Dec 30 04:49:55 2001] Orc centurion has been ensnared.
+[Sun Dec 30 04:50:07 2001] Players in EverQuest:
+[Sun Dec 30 04:50:07 2001] ---------------------------
+[Sun Dec 30 04:50:07 2001] There are no players in EverQuest that match those who filters.
+[Sun Dec 30 04:50:17 2001] You told Jezziff, 'okay, I'll keep an eye out for him.'
+[Sun Dec 30 04:50:27 2001] Jezziff tells you, 'thankyou '
+[Sun Dec 30 04:50:31 2001] Espranza is now Visible.
+[Sun Dec 30 04:50:32 2001] You are no longer anonymous.
+[Sun Dec 30 04:50:38 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Sun Dec 30 04:50:45 2001] You told Jezziff, 'be well!'
+[Sun Dec 30 04:50:46 2001] DELETING THIS PETITION
+[Sun Dec 30 04:50:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 30 04:50:48 2001] USER TEXT: the monk master says there is a blue headband, but when asking for the quest, he tells me that there arent anymore.  why doesnt the quest start properly?
+[Sun Dec 30 04:50:49 2001] Players in EverQuest:
+[Sun Dec 30 04:50:49 2001] ---------------------------
+[Sun Dec 30 04:50:49 2001] [21 Monk] Rijecis (Human) <The Tears of Veeshan> ZONE: qeynos2 (USER PID DWKBL84)
+[Sun Dec 30 04:50:49 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:50:54 2001] Jezziff tells you, 'you as well'
+[Sun Dec 30 04:50:58 2001] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Sun Dec 30 04:51:23 2001] Mulasome tells you, 'ack the same :( all najena files and char files deleted still the same'
+[Sun Dec 30 04:51:45 2001] Players in EverQuest:
+[Sun Dec 30 04:51:45 2001] ---------------------------
+[Sun Dec 30 04:51:45 2001] [17 Enchanter] Fenoiel (Human) <Legions of Valhalla> ZONE: najena (USER PID DSZV7P8)
+[Sun Dec 30 04:51:45 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:51:50 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Sun Dec 30 04:51:53 2001] Orc centurion's body pulses with energy.
+[Sun Dec 30 04:51:58 2001] You told Mulasome, 'is Fenoiel one of your characters?'
+[Sun Dec 30 04:52:10 2001] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Sun Dec 30 04:52:14 2001] Orc centurion is surrounded by a brief lupine aura.
+[Sun Dec 30 04:52:21 2001] orc centurion says 'Centurions!! Attack!! 
+[Sun Dec 30 04:52:21 2001] Orc centurion is surrounded by flickering flames.
+[Sun Dec 30 04:52:36 2001] Mulasome tells you, 'hehe yup just tried to zone in whit him ,crashed'
+[Sun Dec 30 04:52:48 2001] Zekes auctions, 'WTS Velium Swiftblade 1hs 5 24 eff:  haste'
+[Sun Dec 30 04:52:50 2001] Zekes auctions, 'WTS Flamesong 1hs 10 24 proc: 80dd'
+[Sun Dec 30 04:52:53 2001] Zekes auctions, 'WTB Small size Banded BP, legs and boots'
+[Sun Dec 30 04:52:53 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Sun Dec 30 04:53:02 2001] Zekes says out of character, 'Can anyone here go to the wizzy spires in NK and meet a friend of mine and take him here? I'll pay'
+[Sun Dec 30 04:53:05 2001] Mulasome tells you, 'on the other comp'
+[Sun Dec 30 04:53:17 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Sun Dec 30 04:53:23 2001] Falok begins to cast a spell. (Snare)
+[Sun Dec 30 04:53:25 2001] orc oracle says 'You shall bleed!! All hail the Deathfist!! 
+[Sun Dec 30 04:53:25 2001] Orc oracle has been ensnared.
+[Sun Dec 30 04:53:33 2001] orc oracle begins to cast a spell. (Frost Rift)
+[Sun Dec 30 04:53:37 2001] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Sun Dec 30 04:53:45 2001] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Sun Dec 30 04:53:58 2001] You told Mulasome, 'aye... well, you'll have to get a GM to help you, I've exhausted my ideas... the Contact Your GM link on www.everquest.com is the best way to get in touch with the GM.'
+[Sun Dec 30 04:54:06 2001] USER TEXT: the monk master says there is a blue headband, but when asking for the quest, he tells me that there arent anymore.  why doesnt the quest start properly?
+[Sun Dec 30 04:54:25 2001] Mulasome tells you, '9ok thnx anyway :)'
+[Sun Dec 30 04:54:58 2001] You told Rijecis, 'Hail, Rijecis! Senior Guide Espranza; you'll have to ask a more experienced monk for help. It sounds though as if the quest is working...'
+[Sun Dec 30 04:55:02 2001] You told Mulasome, 'good luck!'
+[Sun Dec 30 04:55:04 2001] DELETING THIS PETITION
+[Sun Dec 30 04:55:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Dec 30 04:55:06 2001] USER TEXT: Me Again, found another big horse bug if you wanna hear about it and add to your reports )
+[Sun Dec 30 04:55:06 2001] Players in EverQuest:
+[Sun Dec 30 04:55:06 2001] ---------------------------
+[Sun Dec 30 04:55:06 2001] [ANON (57 Defiler)] Azmokar (Dark Elf) ZONE: thegrey (USER PID DVKLDE6)
+[Sun Dec 30 04:55:06 2001] There is 1 player in EverQuest.
+[Sun Dec 30 04:55:19 2001] Rijecis tells you, 'more experienced monks say it doesnt'
+[Sun Dec 30 04:55:21 2001] Mulasome tells you, 'thnx'
+[Sun Dec 30 04:55:49 2001] You told Azmokar, 'Hail, Azmokar! Senior Guide Espranza here. Heh.. okay, what's the new bug?'
+[Sun Dec 30 04:55:54 2001] Azmokar tells you, 'hehe'
+[Sun Dec 30 04:55:59 2001] Azmokar tells you, 'well, its a zoning thing'
+[Sun Dec 30 04:56:01 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Sun Dec 30 04:56:13 2001] Azmokar tells you, 'I was in the zone marus seru, on my way for the first time to the grey to hunt with guild'
+[Sun Dec 30 04:56:21 2001] orc oracle begins to cast a spell. (Spirit of Wolf)
+[Sun Dec 30 04:56:31 2001] Rijecis tells you, 'as does various web sites.  eveyone i have asked says it is broken, if i want a blue headband i need to kill a master'
+[Sun Dec 30 04:56:41 2001] Azmokar tells you, 'im on my horse, and zone in, and after zoning, im still in merus seru, only on the side of the zone on which I SHOULD be on letis or whetever you call it )'
+[Sun Dec 30 04:57:03 2001] Azmokar tells you, 'thought it was just a fluk so zoned back, was in Merus seru like I should be, then tried again and same thing'
+[Sun Dec 30 04:57:04 2001] You told Rijecis, 'Then it doesn't, I guess... I really am not familiar with those quests. You can use the /feedback or /bug commands to send this along to the developers, but if the NPCs are given relevant text, it probably works like that.'
+[Sun Dec 30 04:57:12 2001] Lastathren auctions, 'WTS bronze bracer, 7 ac'
+[Sun Dec 30 04:57:25 2001] You can no longer levitate.
+[Sun Dec 30 04:57:28 2001] Azmokar tells you, 'then I zoned again, but tried dismounted, and I zoned fine'
+[Sun Dec 30 04:57:31 2001] You told Azmokar, 'just that zone?'
+[Sun Dec 30 04:57:35 2001] Azmokar tells you, 'aye, so far'
+[Sun Dec 30 04:57:40 2001] Rijecis tells you, 'thank you for your time'
+[Sun Dec 30 04:57:42 2001] You told Azmokar, 'okay, I'll report it...'
+[Sun Dec 30 04:57:45 2001] Azmokar tells you, 'ok thanks )'
+[Sun Dec 30 04:57:46 2001] You told Rijecis, 'good luck!'
+[Sun Dec 30 04:58:27 2001] You GMSAY, '<note bug> Azmokar DVKLDE6 can't zone into Marus Seru on his horse; he goes right past the zone.'
+[Sun Dec 30 04:58:30 2001] DELETING THIS PETITION
+[Sun Dec 30 04:58:36 2001] You GMSAY, 'clear, I'm out.'
+[Sun Dec 30 04:58:39 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Dec 30 04:58:44 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Dec 30 04:58:49 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Dec 30 04:58:52 2001] orc oracle begins to cast a spell. (Inner Fire)
+[Sun Dec 30 04:58:54 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Dec 30 04:58:55 2001] Orc oracle's body pulses with energy.
+[Sun Dec 30 04:58:59 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Dec 30 04:59:04 2001] It will take about 5 more seconds to prepare your camp.

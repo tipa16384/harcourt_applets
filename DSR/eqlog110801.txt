@@ -1,0 +1,1766 @@
+[Thu Nov 08 21:14:40 2001] Welcome to EverQuest!
+[Thu Nov 08 21:14:40 2001] You have entered Sunset Home.
+[Thu Nov 08 21:14:43 2001] Players in EverQuest:
+[Thu Nov 08 21:14:43 2001] ---------------------------
+[Thu Nov 08 21:14:43 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Nov 08 21:14:43 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Thu Nov 08 21:14:43 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: oot (USER PID HUGBLZN)
+[Thu Nov 08 21:14:43 2001] * Apprentice Guide *[20 Monk] Kedian (Human) ZONE: misty (USER PID CPB01Y1)
+[Thu Nov 08 21:14:43 2001] There are 4 players in EverQuest.
+[Thu Nov 08 21:14:48 2001] You GMSAY, 'Hiya all!'
+[Thu Nov 08 21:14:50 2001] It is 8 PM on Sunday, the 1st day of June, of the year 3216.
+[Thu Nov 08 21:14:50 2001] Earth Time: Thu Nov 08 21:14:50 2001
+[Thu Nov 08 21:15:00 2001] Rimedear GMSAYS, 'Hello Espranza!'
+[Thu Nov 08 21:15:06 2001] You GMSAY, 'doh, sorry for lateness, got lost trying to get out of guk'
+[Thu Nov 08 21:15:08 2001] Kedian GMSAYS, 'Heya Esp!'
+[Thu Nov 08 21:15:09 2001] Lirus GMSAYS, 'hi esp!'
+[Thu Nov 08 21:15:26 2001] You GMSAY, 'gonna change to the daytime shifts'
+[Thu Nov 08 21:16:08 2001] You GMSAY, 'Lirus, everyone loves the MPC stuff'
+[Thu Nov 08 21:16:13 2001] Kedian GMSAYS, '<< zone >>'
+[Thu Nov 08 21:17:14 2001] Lirus GMSAYS, 'hehe yeah the MPC is cool'
+[Thu Nov 08 21:17:22 2001] Lirus GMSAYS, 'i have not tried it yet'
+[Thu Nov 08 21:17:28 2001] Lirus GMSAYS, 'but people do seem happy about it'
+[Thu Nov 08 21:17:41 2001] You GMSAY, 'and I met the first returnee from DAoC... I think we're about to see a flood of returnees'
+[Thu Nov 08 21:18:14 2001] Lirus GMSAYS, 'good, daoc sucks'
+[Thu Nov 08 21:18:40 2001] You wave at Lirus.
+[Thu Nov 08 21:18:42 2001] You poke Lirus.
+[Thu Nov 08 21:19:33 2001] You GMSAY, 'been slow all night?'
+[Thu Nov 08 21:19:41 2001] Rimedear GMSAYS, 'Not really'
+[Thu Nov 08 21:19:53 2001] Llara the Mysterious says 'Hello there Espranza, how about a nice Wedding Cake?'
+[Thu Nov 08 21:19:55 2001] Llara the Mysterious tells you, 'That'll be 0 money per Valtron's Finest Brew'.
+[Thu Nov 08 21:19:57 2001] Kedian GMSAYS, 'its been a steady stream of stuff comming in'
+[Thu Nov 08 21:19:58 2001] You give 0 money to Llara the Mysterious.
+[Thu Nov 08 21:20:00 2001] Llara the Mysterious tells you, 'That'll be 0 money per Gnome Sandwich'.
+[Thu Nov 08 21:20:02 2001] You give 0 money to Llara the Mysterious.
+[Thu Nov 08 21:20:03 2001] You no longer have a target.
+[Thu Nov 08 21:20:03 2001] You no longer have a target.
+[Thu Nov 08 21:20:03 2001] You no longer have a target.
+[Thu Nov 08 21:20:09 2001] Espranza saved.
+[Thu Nov 08 21:20:26 2001] You GMSAY, 'well... nothing NOW... I'm off to cause trouble...'
+[Thu Nov 08 21:20:35 2001] Players in EverQuest:
+[Thu Nov 08 21:20:35 2001] ---------------------------
+[Thu Nov 08 21:20:35 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 21:20:48 2001] Players in EverQuest:
+[Thu Nov 08 21:20:48 2001] ---------------------------
+[Thu Nov 08 21:20:48 2001] [58 Preserver] Naresisekwon (Wood Elf) <Brothers> ZONE: westwastes (USER PID CXHY6PT)
+[Thu Nov 08 21:20:48 2001] There is 1 player in EverQuest.
+[Thu Nov 08 21:20:59 2001] Players in EverQuest:
+[Thu Nov 08 21:20:59 2001] ---------------------------
+[Thu Nov 08 21:20:59 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 21:21:03 2001] Players in EverQuest:
+[Thu Nov 08 21:21:03 2001] ---------------------------
+[Thu Nov 08 21:21:03 2001] [58 Evoker] Oreiane (High Elf) <Reviction> ZONE: sebilis (USER PID AYYGTYG)
+[Thu Nov 08 21:21:03 2001] [59 Beguiler] Ambnesia (High Elf) <Vision of Sages> ZONE: sebilis (USER PID BSTHBFK)
+[Thu Nov 08 21:21:03 2001] [56 Evoker] Salop (High Elf) <Altruistic Valorians> ZONE: sebilis (USER PID FVMCLXV)
+[Thu Nov 08 21:21:03 2001] [59 Evoker] Aumadar (Erudite) <Reviction> ZONE: sebilis (USER PID GX4J3Q7)
+[Thu Nov 08 21:21:03 2001] [59 Templar] Goldmane (Dwarf) <Temple of Dawn> ZONE: sebilis (USER PID GP7CPAG)
+[Thu Nov 08 21:21:03 2001] [60 Phantasmist] Fanlain (High Elf) <Reviction> ZONE: sebilis (USER PID BS7UZ4T)
+[Thu Nov 08 21:21:03 2001] [56 Outrider] Exidor (Wood Elf) <Temple of Dawn> ZONE: sebilis (USER PID FYGLA55)
+[Thu Nov 08 21:21:03 2001] [ANON (52 Channeler)] Ssolaria (High Elf) ZONE: sebilis (USER PID DWKEW0A)
+[Thu Nov 08 21:21:03 2001] [51 Cavalier] Zarik (Half Elf) <Honorbound Elite> ZONE: sebilis (USER PID FYKP615)
+[Thu Nov 08 21:21:03 2001] [55 Myrmidon] Meakkon (Halfling) <Legions of Valhalla> ZONE: sebilis (USER PID GYVHT70)
+[Thu Nov 08 21:21:03 2001] [55 Beguiler] Sadia (High Elf) <Temple of Dawn> ZONE: sebilis (USER PID HRZR3SG)
+[Thu Nov 08 21:21:03 2001] [53 Vicar] Linamar (High Elf) ZONE: sebilis (USER PID BV8XWYW)
+[Thu Nov 08 21:21:03 2001] There are 12 players in EverQuest.
+[Thu Nov 08 21:21:04 2001] Kedian GMSAYS, 'Uhhht ohh...esp is on the loose!'
+[Thu Nov 08 21:21:13 2001] You GMSAY, 'ph33r the haffer'
+[Thu Nov 08 21:21:29 2001] You GMSAY, '12 people in seb...'
+[Thu Nov 08 21:21:44 2001] Players in EverQuest:
+[Thu Nov 08 21:21:44 2001] ---------------------------
+[Thu Nov 08 21:21:44 2001] [ANON (59 Myrmidon)] Seigfreid (Dwarf) ZONE: velketor (USER PID AWY5H5R)
+[Thu Nov 08 21:21:44 2001] [ANON (48 Enchanter)] Fenari (High Elf) ZONE: velketor (USER PID CS81YVG)
+[Thu Nov 08 21:21:44 2001] [57 Preserver] Pachunhwang (Wood Elf) <Brothers> ZONE: velketor (USER PID EU3HM54) LFG
+[Thu Nov 08 21:21:44 2001] [60 Warlord] Bilibo (Dwarf) <Thunderwalkers> ZONE: velketor (USER PID ANTZ454)
+[Thu Nov 08 21:21:44 2001] [57 Troubadour] Kungtari (Half Elf) <Celestial Sphere> ZONE: velketor (USER PID BZG9MJG)
+[Thu Nov 08 21:21:44 2001] [58 Templar] Senelar (Human) <Altruistic Valorians> ZONE: velketor (USER PID ANEDFK9)
+[Thu Nov 08 21:21:44 2001] [56 Master] Tetman (Human) <Coeur de Lion> ZONE: velketor (USER PID FN0MPPP)
+[Thu Nov 08 21:21:44 2001] [52 Champion] Zechz (Wood Elf) <Ronins> ZONE: velketor (USER PID FRXLJN0)
+[Thu Nov 08 21:21:44 2001] [52 Vicar] Solarianne (High Elf) <The Tears of Veeshan> ZONE: velketor (USER PID CVY3NMW)
+[Thu Nov 08 21:21:44 2001] [53 Channeler] Ennya (High Elf) <The Tears of Veeshan> ZONE: velketor (USER PID FWQ4K0X)
+[Thu Nov 08 21:21:44 2001] [55 Templar] Bakinleaf (Dwarf) ZONE: velketor (USER PID GQVGMRB)
+[Thu Nov 08 21:21:44 2001] [56 Master] Palou (Iksar) <AnDarim> ZONE: velketor (USER PID BPHR38V)
+[Thu Nov 08 21:21:44 2001] [53 Disciple] Muawijhe (Iksar) <Reviction> ZONE: velketor (USER PID GP0X5EG)
+[Thu Nov 08 21:21:44 2001] [52 Elementalist] Kilashandra (High Elf) <Crystal Order> ZONE: velketor (USER PID HWZ166V)
+[Thu Nov 08 21:21:44 2001] [52 Champion] Hoddadd (Barbarian) <Enchanted Steel> ZONE: velketor (USER PID GYV8SDX)
+[Thu Nov 08 21:21:44 2001] [56 Templar] Eclipt (Dwarf) <Emergence> ZONE: velketor (USER PID FQP5MWR)
+[Thu Nov 08 21:21:44 2001] [59 Knight] Joyland (Human) <Travelers in Mist> ZONE: velketor (USER PID CY9U1HG)
+[Thu Nov 08 21:21:44 2001] [56 Outrider] Reepicheep (Wood Elf) <Enchanted Steel> ZONE: velketor (USER PID AUPWFLP)
+[Thu Nov 08 21:21:44 2001] [ANON (58 Master)] Pokerface (Human) ZONE: velketor (USER PID DTXDH8H)
+[Thu Nov 08 21:21:44 2001] [59 Luminary] Peridot (Barbarian) <Brothers> ZONE: velketor (USER PID HV2AK4Y)
+[Thu Nov 08 21:21:44 2001] Your who request was cut short..too many players.
+[Thu Nov 08 21:21:48 2001] Players in EverQuest:
+[Thu Nov 08 21:21:48 2001] ---------------------------
+[Thu Nov 08 21:21:48 2001] [31 Wizard] Countryboy (Erudite) <Revered Souls> ZONE: northkarana (USER PID CZE2MNV)
+[Thu Nov 08 21:21:48 2001] There is 1 player in EverQuest.
+[Thu Nov 08 21:21:53 2001] Players in EverQuest:
+[Thu Nov 08 21:21:53 2001] ---------------------------
+[Thu Nov 08 21:21:53 2001] [53 Disciple] Highexpress (Iksar) ZONE: velketor (USER PID HXSKH3P)
+[Thu Nov 08 21:21:53 2001] [ANON (59 Myrmidon)] Seigfreid (Dwarf) ZONE: velketor (USER PID AWY5H5R)
+[Thu Nov 08 21:21:53 2001] [ANON (48 Enchanter)] Fenari (High Elf) ZONE: velketor (USER PID CS81YVG)
+[Thu Nov 08 21:21:53 2001] [57 Preserver] Pachunhwang (Wood Elf) <Brothers> ZONE: velketor (USER PID EU3HM54) LFG
+[Thu Nov 08 21:21:53 2001] [60 Warlord] Bilibo (Dwarf) <Thunderwalkers> ZONE: velketor (USER PID ANTZ454)
+[Thu Nov 08 21:21:53 2001] [57 Troubadour] Kungtari (Half Elf) <Celestial Sphere> ZONE: velketor (USER PID BZG9MJG)
+[Thu Nov 08 21:21:53 2001] [58 Templar] Senelar (Human) <Altruistic Valorians> ZONE: velketor (USER PID ANEDFK9)
+[Thu Nov 08 21:21:53 2001] [56 Master] Tetman (Human) <Coeur de Lion> ZONE: velketor (USER PID FN0MPPP)
+[Thu Nov 08 21:21:53 2001] [52 Champion] Zechz (Wood Elf) <Ronins> ZONE: velketor (USER PID FRXLJN0)
+[Thu Nov 08 21:21:53 2001] [52 Vicar] Solarianne (High Elf) <The Tears of Veeshan> ZONE: velketor (USER PID CVY3NMW)
+[Thu Nov 08 21:21:53 2001] [53 Channeler] Ennya (High Elf) <The Tears of Veeshan> ZONE: velketor (USER PID FWQ4K0X)
+[Thu Nov 08 21:21:53 2001] [55 Templar] Bakinleaf (Dwarf) ZONE: velketor (USER PID GQVGMRB)
+[Thu Nov 08 21:21:53 2001] [56 Master] Palou (Iksar) <AnDarim> ZONE: velketor (USER PID BPHR38V)
+[Thu Nov 08 21:21:53 2001] [53 Disciple] Muawijhe (Iksar) <Reviction> ZONE: velketor (USER PID GP0X5EG)
+[Thu Nov 08 21:21:53 2001] [52 Elementalist] Kilashandra (High Elf) <Crystal Order> ZONE: velketor (USER PID HWZ166V)
+[Thu Nov 08 21:21:53 2001] [52 Champion] Hoddadd (Barbarian) <Enchanted Steel> ZONE: velketor (USER PID GYV8SDX)
+[Thu Nov 08 21:21:53 2001] [56 Templar] Eclipt (Dwarf) <Emergence> ZONE: velketor (USER PID FQP5MWR)
+[Thu Nov 08 21:21:53 2001] [59 Knight] Joyland (Human) <Travelers in Mist> ZONE: velketor (USER PID CY9U1HG)
+[Thu Nov 08 21:21:53 2001] [56 Outrider] Reepicheep (Wood Elf) <Enchanted Steel> ZONE: velketor (USER PID AUPWFLP)
+[Thu Nov 08 21:21:53 2001] [ANON (58 Master)] Pokerface (Human) ZONE: velketor (USER PID DTXDH8H)
+[Thu Nov 08 21:21:53 2001] Your who request was cut short..too many players.
+[Thu Nov 08 21:22:04 2001] You GMSAY, 'too many to count in Velks. Loot is BETTER in OS. Go figger.'
+[Thu Nov 08 21:22:06 2001] Kedian GMSAYS, 'hehe, nothing like a busy night in seb'
+[Thu Nov 08 21:22:30 2001] You GMSAY, 'countryboy online... longtime bad name...'
+[Thu Nov 08 21:23:10 2001] Kedian GMSAYS, 'Pulling Romanoy'
+[Thu Nov 08 21:23:23 2001] Players in EverQuest:
+[Thu Nov 08 21:23:23 2001] ---------------------------
+[Thu Nov 08 21:23:23 2001] [ANON (29 Druid)] Athinna (Wood Elf) ZONE: commons (USER PID FQ3RF80)
+[Thu Nov 08 21:23:23 2001] [ANON (60 Hierophant)] Prodo (Halfling) ZONE: commons (USER PID CYCU9SS)
+[Thu Nov 08 21:23:23 2001] [52 Champion] Caeorn (Human) <Elven Elite> ZONE: commons (USER PID HSJ4SKL)
+[Thu Nov 08 21:23:23 2001] [50 Shaman] Foramce (Barbarian) <Rise of the Phoenix> ZONE: commons (USER PID DPSDQG6)
+[Thu Nov 08 21:23:23 2001] [54 Champion] Tudann (Barbarian) <Thunderwalkers> ZONE: commons (USER PID GXQ1PR0)
+[Thu Nov 08 21:23:23 2001] [60 Hierophant] Labien (Half Elf) <Thunderwalkers> ZONE: commons (USER PID FNFGLSM)
+[Thu Nov 08 21:23:23 2001] [ANON (32 Druid)] Ganoldar (Wood Elf) ZONE: commons (USER PID HXEM9EX)
+[Thu Nov 08 21:23:23 2001] [45 Warrior] Klinget (Human) <The Tears of Veeshan> ZONE: commons (USER PID BY6UELU)
+[Thu Nov 08 21:23:23 2001] [12 Paladin] Shykhan (Half Elf) <League of Honor> ZONE: commons (USER PID DWAQYNP)
+[Thu Nov 08 21:23:23 2001] [51 Cavalier] Blabberpuss (Human) <Titan Lords> ZONE: commons (USER PID DPN77X2)
+[Thu Nov 08 21:23:23 2001] [20 Wizard] Maitlin (Human) <Random Acts> ZONE: commons (USER PID HNARXAK)
+[Thu Nov 08 21:23:23 2001] [54 Vicar] Athon (Dwarf) <Thunderwalkers> ZONE: commons (USER PID CUA01GG)
+[Thu Nov 08 21:23:23 2001] [ANON (39 Paladin)] Emperial (Half Elf) ZONE: commons (USER PID HRTWWH7)
+[Thu Nov 08 21:23:23 2001] [15 Ranger] Ronster (Human) <Wraith Lords> ZONE: commons (USER PID AUJNW5T)
+[Thu Nov 08 21:23:23 2001] [ANON (40 Druid)] Ukayla (Wood Elf) ZONE: commons (USER PID BUVU7CT)
+[Thu Nov 08 21:23:23 2001] [20 Druid] Dreamyeyes (Human) ZONE: commons (USER PID FV4VV4L)
+[Thu Nov 08 21:23:23 2001] [ANON (5 Wizard)] Tdawn (Dark Elf) ZONE: commons (USER PID HTFWAA9)
+[Thu Nov 08 21:23:23 2001] [11 Rogue] Csensure (Gnome) <Titan Lords> ZONE: commons (USER PID DTFY4AQ)
+[Thu Nov 08 21:23:23 2001] [ANON (13 Monk)] Noboyuki (Human) ZONE: commons (USER PID GX3S6X2)
+[Thu Nov 08 21:23:23 2001] [10 Druid] Gongji (Wood Elf) ZONE: commons (USER PID F31JVDC)
+[Thu Nov 08 21:23:23 2001] Your who request was cut short..too many players.
+[Thu Nov 08 21:23:30 2001] Players in EverQuest:
+[Thu Nov 08 21:23:30 2001] ---------------------------
+[Thu Nov 08 21:23:30 2001] [60 Grandmaster] Mastere (Human) <Triune> ZONE: ecommons (USER PID DRSZN6L)
+[Thu Nov 08 21:23:30 2001] [48 Warrior] Sundorak (Dwarf) <Nature's Fury> ZONE: ecommons (USER PID EYXYW3A)
+[Thu Nov 08 21:23:30 2001] [22 Monk] Leenaa (Human) <Dark Legend> ZONE: ecommons (USER PID DPC3VUM)
+[Thu Nov 08 21:23:30 2001] [7 Wizard] Balavar (Human) ZONE: ecommons (USER PID GV7KP2T)
+[Thu Nov 08 21:23:30 2001] [45 Bard] Faldwyn (Half Elf) <Leaders of Honor> ZONE: ecommons (USER PID GNKPACZ)
+[Thu Nov 08 21:23:30 2001] [31 Druid] Weryen (Wood Elf) <Bellatorae Mysticus> ZONE: ecommons (USER PID AWF0SK7)
+[Thu Nov 08 21:23:30 2001] [ANON (29 Warrior)] Quigle (Dwarf) ZONE: ecommons (USER PID HXGQ6LY)
+[Thu Nov 08 21:23:30 2001] [25 Warrior] Selinn (Barbarian) ZONE: ecommons (USER PID FZAS2D1)
+[Thu Nov 08 21:23:30 2001] [39 Shaman] Erzatz (Barbarian) <Compagnons de l`Aube> ZONE: ecommons (USER PID EYGBUR3)
+[Thu Nov 08 21:23:30 2001] [45 Ranger] Meone (Wood Elf) <Titan Lords> ZONE: ecommons (USER PID DVS4D9N)
+[Thu Nov 08 21:23:30 2001] [8 Enchanter] Xanlipus (Gnome) ZONE: ecommons (USER PID E4T0B23)
+[Thu Nov 08 21:23:30 2001] [12 Rogue] Kelem (Half Elf) <Enchanted Steel> ZONE: ecommons (USER PID CYYR9YS)
+[Thu Nov 08 21:23:30 2001] [4 Shadow Knight] Anark (Dark Elf) ZONE: ecommons (USER PID AUH3P64)
+[Thu Nov 08 21:23:30 2001] [51 Illusionist] Aerial (High Elf) <United Guardians> ZONE: ecommons (USER PID HW3MX05)
+[Thu Nov 08 21:23:30 2001] [10 Shaman] Anjelica (Barbarian) ZONE: ecommons (USER PID HZUT0GT)
+[Thu Nov 08 21:23:30 2001] [11 Druid] Elliossi (Wood Elf) ZONE: ecommons (USER PID HZ6TQDF)
+[Thu Nov 08 21:23:30 2001] [56 Preserver] Aaedaen (Wood Elf) <Company of Shadows> ZONE: ecommons (USER PID DNYRC16)
+[Thu Nov 08 21:23:30 2001] [11 Warrior] Garmog (Ogre) <Temple of Dawn> ZONE: ecommons (USER PID APT2Z53)
+[Thu Nov 08 21:23:30 2001] [ANON (5 Wizard)] Solstis (Gnome) ZONE: ecommons (USER PID HR2YKUL)
+[Thu Nov 08 21:23:30 2001] [44 Monk] Renalan (Human) <Altruistic Valorians> ZONE: ecommons (USER PID BNVDR8Z)
+[Thu Nov 08 21:23:30 2001] Your who request was cut short..too many players.
+[Thu Nov 08 21:23:40 2001] Players in EverQuest:
+[Thu Nov 08 21:23:40 2001] ---------------------------
+[Thu Nov 08 21:23:40 2001] [ANON (57 Preserver)] Wenwen (Wood Elf) ZONE: rivervale (USER PID FPSESCY)
+[Thu Nov 08 21:23:40 2001] [52 Wanderer] Druin (Wood Elf) <Titan Lords> ZONE: rivervale (USER PID DWA44RM)
+[Thu Nov 08 21:23:40 2001] [ANON (10 Rogue)] Aslaan (Halfling) ZONE: rivervale (USER PID CP5VC76)
+[Thu Nov 08 21:23:40 2001] [1 Rogue] Neiffon (Halfling) ZONE: rivervale (USER PID AYV6H35)
+[Thu Nov 08 21:23:40 2001] There are 4 players in EverQuest.
+[Thu Nov 08 21:23:49 2001] You GMSAY, 'ah, off to rivervale then - ZONE!'
+[Thu Nov 08 21:23:53 2001] LOADING, PLEASE WAIT...
+[Thu Nov 08 21:24:19 2001] You have entered Rivervale.
+[Thu Nov 08 21:24:35 2001] Thekela Meepup begins to cast a spell. (Yaulp IV)
+[Thu Nov 08 21:24:35 2001] Thekela Meepup lets loose a mighty yaulp.
+[Thu Nov 08 21:25:16 2001] Players on EverQuest:
+[Thu Nov 08 21:25:16 2001] ---------------------------
+[Thu Nov 08 21:25:16 2001] [ANONYMOUS] Spinblade 
+[Thu Nov 08 21:25:16 2001] [2 Rogue] Marox (Halfling)
+[Thu Nov 08 21:25:16 2001] [9 Shaman] Klip (Barbarian)
+[Thu Nov 08 21:25:16 2001] [35 Druid] Matea (Wood Elf) <Temple of Dawn>
+[Thu Nov 08 21:25:16 2001] [ANONYMOUS] Aslaan 
+[Thu Nov 08 21:25:16 2001] [1 Rogue] Neiffon (Halfling)
+[Thu Nov 08 21:25:16 2001] [52 Wanderer] Druin (Wood Elf) <Titan Lords>
+[Thu Nov 08 21:25:16 2001] [ANONYMOUS] Wenwen  <Thunderwalkers>
+[Thu Nov 08 21:25:16 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Nov 08 21:25:16 2001] There are 9 players in Rivervale.
+[Thu Nov 08 21:25:26 2001] Druin begins to cast a spell. (Skin like Nature)
+[Thu Nov 08 21:25:32 2001] Neiffon's skin shimmers with divine power.
+[Thu Nov 08 21:25:36 2001] Druin begins to cast a spell. (Circle of Toxxulia)
+[Thu Nov 08 21:25:39 2001] Druin nods at Neiffon.
+[Thu Nov 08 21:25:50 2001] Neiffon giggles at Druin.
+[Thu Nov 08 21:25:52 2001] Druin creates a mystic portal.
+[Thu Nov 08 21:25:52 2001] Neiffon creates a mystic portal.
+[Thu Nov 08 21:26:23 2001] Sabine cheers at Espranza.
+[Thu Nov 08 21:26:28 2001] You boggle at Sabine, shaking your head and looking confused.
+[Thu Nov 08 21:26:31 2001] You say, 'Sister!'
+[Thu Nov 08 21:26:43 2001] Sabine says, 'Heya babe!  We lookin good I think!'
+[Thu Nov 08 21:26:48 2001] You say, 'you know it!'
+[Thu Nov 08 21:26:50 2001] Kedian GMSAYS, 'Pulling Rightous'
+[Thu Nov 08 21:27:00 2001] Rimedear GMSAYS, 'Oh, it's way past my bedtime, Esp can you take Kedian?'
+[Thu Nov 08 21:27:05 2001] You GMSAY, 'yuppers'
+[Thu Nov 08 21:27:09 2001] Sabine says, 'What brings you home?'
+[Thu Nov 08 21:27:20 2001] Rimedear GMSAYS, 'Good night'
+[Thu Nov 08 21:27:20 2001] Espranza saved.
+[Thu Nov 08 21:27:31 2001] You say, 'Visiting the folks, chatting it up with some old flames...'
+[Thu Nov 08 21:27:33 2001] You say, 'you?'
+[Thu Nov 08 21:27:41 2001] Rimedear GMSAYS, 'Believe me, Guiding is a lot easier with the tools.  '
+[Thu Nov 08 21:27:44 2001] The trade has been cancelled.
+[Thu Nov 08 21:27:46 2001] Matea begins to cast a spell. (Ring of Misty)
+[Thu Nov 08 21:27:48 2001] Sabine says, 'Brewing )'
+[Thu Nov 08 21:27:53 2001] You say, 'Nah, when you've had Voltron's you can't go back'
+[Thu Nov 08 21:28:00 2001] Sabine says, 'lol'
+[Thu Nov 08 21:28:03 2001] You say, 'Brewing is one of my favorite past times'
+[Thu Nov 08 21:28:05 2001] Glug, glug, glug...  Sabine takes a swig of Valtron's Finest Brew.
+[Thu Nov 08 21:28:10 2001] You say, 'second only to getting smashed'
+[Thu Nov 08 21:28:11 2001] Chomp, chomp, chomp...  Sabine takes a bite from a Gnome Sandwich.
+[Thu Nov 08 21:28:26 2001] You say, 'Twas a brave gnome died to make that sandwhich'
+[Thu Nov 08 21:28:27 2001] Sabine says, 'Delicious sis!  You got it down to an artform )'
+[Thu Nov 08 21:28:33 2001] You thank Sabine heartily.
+[Thu Nov 08 21:28:37 2001] You blush at Sabine.
+[Thu Nov 08 21:28:41 2001] Kedian GMSAYS, 'Rightous pets abuot mobs possibly being under the world.'
+[Thu Nov 08 21:28:50 2001] Kedian GMSAYS, 'Pulling Kriilop'
+[Thu Nov 08 21:28:57 2001] You say, 'I find the brew brings out the oily texture of the gnome'
+[Thu Nov 08 21:29:02 2001] Mayor Gubbin begins to cast a spell. (Firefist)
+[Thu Nov 08 21:29:05 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 21:29:06 2001] USER TEXT: Hi, i am here fighting a dread widow, but i can not see it ..I have see in vis on as well, is this an error in the game.  Please help if possible
+[Thu Nov 08 21:29:06 2001] Players in EverQuest:
+[Thu Nov 08 21:29:06 2001] ---------------------------
+[Thu Nov 08 21:29:06 2001] [57 Knight] Rightous (Half Elf) <Leaders of Honor> ZONE: dreadlands (USER PID GXD0HHX)
+[Thu Nov 08 21:29:06 2001] There is 1 player in EverQuest.
+[Thu Nov 08 21:29:06 2001] Sabine says, 'Hmm its nightime, what do you say you and I go smash some of the undead threating our lovely town!'
+[Thu Nov 08 21:29:24 2001] Sabine says, 'Twins of Rivervalle cant be stopped!'
+[Thu Nov 08 21:29:30 2001] You say, 'Ah, nothing would please me better - but the duty of those lazy gods drags me away.'
+[Thu Nov 08 21:29:37 2001] You say, 'It was nice to meet a twin!'
+[Thu Nov 08 21:29:38 2001] Sabine says, 'Bah'
+[Thu Nov 08 21:29:42 2001] You shrug at Sabine.
+[Thu Nov 08 21:29:47 2001] You say, 'eh, what can you do.'
+[Thu Nov 08 21:29:52 2001] Sabine says, 'Take me with and we will smash the gods!'
+[Thu Nov 08 21:29:57 2001] Mayor Gubbin begins to cast a spell. (Shield of Brambles)
+[Thu Nov 08 21:29:59 2001] You say, 'Now that is tempting!'
+[Thu Nov 08 21:30:06 2001] Kedian GMSAYS, 'Kriilo pets about the same mob in Dl being under the world. deleting'
+[Thu Nov 08 21:30:17 2001] Sabine ponders Espranza. What is going on with her?
+[Thu Nov 08 21:30:20 2001] You say, 'An invisible spider in Dreadlands though - I'd best bop.'
+[Thu Nov 08 21:30:25 2001] You wave goodbye to Sabine.
+[Thu Nov 08 21:30:27 2001] You GMSAY, 'zone'
+[Thu Nov 08 21:30:30 2001] You say, 'be well!'
+[Thu Nov 08 21:30:32 2001] Sabine says, 'Ok hun!'
+[Thu Nov 08 21:30:37 2001] You feel the spirit of Z surround you.
+[Thu Nov 08 21:30:38 2001] You feel the spirit of Z surround you.
+[Thu Nov 08 21:30:38 2001] Sabine says, 'Lets bash together sometime'
+[Thu Nov 08 21:30:39 2001] LOADING, PLEASE WAIT...
+[Thu Nov 08 21:31:23 2001] You have entered Dreadlands.
+[Thu Nov 08 21:31:31 2001] Teleporting to rightous.
+[Thu Nov 08 21:31:33 2001] Rightous's spell fizzles!
+[Thu Nov 08 21:31:34 2001] Rightous begins to cast a spell. (Symbol of Pinzarn)
+[Thu Nov 08 21:31:37 2001] You say, 'hiya'
+[Thu Nov 08 21:31:39 2001] Kriilo is cloaked in a shimmer of glowing symbols.
+[Thu Nov 08 21:31:40 2001] Rightous says, 'nice weps :)'
+[Thu Nov 08 21:31:40 2001] Kriilo says, 'hi'
+[Thu Nov 08 21:31:50 2001] You say, 'thanks! is it dead, or do you have it targeted?'
+[Thu Nov 08 21:32:06 2001] Fresheez auctions, 'WTS/T Diamond, crushed jaundice gem,'
+[Thu Nov 08 21:32:09 2001] Larque auctions, 'Drakkel Icerever 24/40 30 DD plus 10 Bonus dmg'
+[Thu Nov 08 21:32:13 2001] Kriilo says, 'we dont know were its at'
+[Thu Nov 08 21:32:25 2001] Kriilo says, 'i couldnt get a target on it'
+[Thu Nov 08 21:32:32 2001] Rightous says, 'what weps are those..they look cool :)'
+[Thu Nov 08 21:32:34 2001] You say, 'okay - drachnid widow though?'
+[Thu Nov 08 21:32:47 2001] You say, 'they are celestial swords! given by the gods to their servants.'
+[Thu Nov 08 21:32:50 2001] You feel the spirit of Norrath enter you.
+[Thu Nov 08 21:33:04 2001] Searching for a_drachnid_widow00.
+[Thu Nov 08 21:33:04 2001] Player is in zone dreadlands at x = 2044 y = -1800 z = 188.
+[Thu Nov 08 21:33:05 2001] Rightous says, 'i like the graphic :)'
+[Thu Nov 08 21:33:15 2001] Rightous says, 'dread widow'
+[Thu Nov 08 21:33:16 2001] You say, 'yeah, me too :)'
+[Thu Nov 08 21:33:18 2001] Kriilo says, 'dread widow'
+[Thu Nov 08 21:33:28 2001] You say, 'dread widow? oh dear'
+[Thu Nov 08 21:33:33 2001] Searching for dread_widow00.
+[Thu Nov 08 21:33:34 2001] Could not locate player with that name.
+[Thu Nov 08 21:33:39 2001] Kedian GMSAYS, 'Xxein stuck under the world in thurgadina'
+[Thu Nov 08 21:33:42 2001] Searching for a_dread_widow00.
+[Thu Nov 08 21:33:42 2001] Player is in zone dreadlands at x = 219 y = -5767 z = -204.
+[Thu Nov 08 21:33:47 2001] Rightous says, 'used HT on me ..killed its pet, then it goes invis :('
+[Thu Nov 08 21:33:47 2001] Kedian GMSAYS, 'Pulling gedwyn'
+[Thu Nov 08 21:33:48 2001] Teleporting to a_dread_widow00 (219.00, -5768.00, -204.37).
+[Thu Nov 08 21:33:57 2001] You GMSAY, 'Lirus, need you for this one'
+[Thu Nov 08 21:34:07 2001] GM TEXT: Kedian: Sounds like the mob may be under the world.
+[Thu Nov 08 21:34:20 2001] USER TEXT: Hi, i am here fighting a dread widow, but i can not see it ..I have see in vis on as well, is this an error in the game.  Please help if possible
+[Thu Nov 08 21:34:54 2001] Talonblaze shouts, 'North Wall needs one more for group.'
+[Thu Nov 08 21:35:06 2001] Kedian GMSAYS, '<note badname> Anarchangelelf (FV5YKWJ)'
+[Thu Nov 08 21:35:17 2001] You told Rightous, 'Okay, she's under the world all right. I can't just kill her 'cause she's the dread widow! so I'm going to get Lirus here to fix her.'
+[Thu Nov 08 21:35:42 2001] Rightous tells you, 'hehe she just appeared to us..new HT tho :(.  Thanks for all the help :)'
+[Thu Nov 08 21:35:48 2001] Kedian GMSAYS, 'Pulling morganas'
+[Thu Nov 08 21:35:58 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Nov 08 21:35:59 2001] GM TEXT: Kedian: Sounds like the mob may be under the world.  Espranza: It's the dread widow, if I remember correctly, a level 50 mob that drops a nice caster item, so I can't kill her. Could you gate her home, please?
+[Thu Nov 08 21:36:06 2001] STATUS UPGRADED TO EMERGENCY
+[Thu Nov 08 21:36:06 2001] This petition is already at highest urgency.
+[Thu Nov 08 21:36:19 2001] You GMSAY, 'esc Rightous - dread widow in Dreadlands needs a trip home.'
+[Thu Nov 08 21:36:21 2001] Talonblaze shouts, 'Anyone LFG?'
+[Thu Nov 08 21:36:22 2001] CHECKING IN
+[Thu Nov 08 21:36:29 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 21:36:30 2001] USER TEXT: i seam to be stuck beneith the world, its tried to move me twice but no such luck. can i get some help.. and a 3rd time now
+[Thu Nov 08 21:36:30 2001] Players in EverQuest:
+[Thu Nov 08 21:36:30 2001] ---------------------------
+[Thu Nov 08 21:36:30 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 21:36:36 2001] Baluru says out of character, 'easiest way is /who lfg'
+[Thu Nov 08 21:36:57 2001] Players in EverQuest:
+[Thu Nov 08 21:36:57 2001] ---------------------------
+[Thu Nov 08 21:36:57 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 21:37:03 2001] Talonblaze says out of character, 'Noone hardly does the command'
+[Thu Nov 08 21:37:06 2001] Players in EverQuest:
+[Thu Nov 08 21:37:06 2001] ---------------------------
+[Thu Nov 08 21:37:06 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 21:37:14 2001] You GMSAY, 'xxein unavail 1'
+[Thu Nov 08 21:37:18 2001] CHECKING IN
+[Thu Nov 08 21:37:20 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 21:37:21 2001] USER TEXT: i seam to be stuck beneith the world, its tried to move me twice but no such luck. can i get some help.. and a 3rd time now
+[Thu Nov 08 21:37:21 2001] Players in EverQuest:
+[Thu Nov 08 21:37:21 2001] ---------------------------
+[Thu Nov 08 21:37:21 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 21:37:22 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu Nov 08 21:37:24 2001] CHECKING IN
+[Thu Nov 08 21:38:11 2001] Teleporting to a_voracious_brute11 (-304.00, -4129.00,  44.00).
+[Thu Nov 08 21:38:17 2001] Pidd says out of character, '/who chiken slayer:    Pidd(ANONYMOUS)<Protectors of the Unknown>'
+[Thu Nov 08 21:38:21 2001] Searching for a_dread_widoe00.
+[Thu Nov 08 21:38:21 2001] Could not locate player with that name.
+[Thu Nov 08 21:38:27 2001] Searching for a_dread_widow00.
+[Thu Nov 08 21:38:27 2001] Player is in zone dreadlands at x = 210 y = -5771 z = -204.
+[Thu Nov 08 21:38:30 2001] Talonblaze says out of character, 'LOL'
+[Thu Nov 08 21:38:32 2001] Perefouetard says out of character, 'LOL'
+[Thu Nov 08 21:38:34 2001] Your target is out of range, get closer!
+[Thu Nov 08 21:38:43 2001] Tickles says out of character, 'liar =\'
+[Thu Nov 08 21:38:47 2001] Rastle says out of character, '41 chanter lfg'
+[Thu Nov 08 21:38:55 2001] Erinnys shouts, '46 wiz LFG'
+[Thu Nov 08 21:39:07 2001] Mikalova shouts, '33 bard looking for group'
+[Thu Nov 08 21:39:19 2001] Kedian GMSAYS, 'Morganas pets about the Emergance dual guild leader thing. escalating to red'
+[Thu Nov 08 21:39:21 2001] Klinget says out of character, 'warrior of 45 seasons LFG'
+[Thu Nov 08 21:39:39 2001] You GMSAY, 'doh! forgot! ZONE!!!!'
+[Thu Nov 08 21:39:41 2001] Teleporting to Kedian.
+[Thu Nov 08 21:39:42 2001] LOADING, PLEASE WAIT...
+[Thu Nov 08 21:40:15 2001] You have entered Butcherblock Mountains.
+[Thu Nov 08 21:40:21 2001] It begins to rain.
+[Thu Nov 08 21:40:22 2001] You invite Kedian to join your group.
+[Thu Nov 08 21:40:34 2001] You have formed the group.
+[Thu Nov 08 21:40:36 2001] Kedian tells the group, 'hiya'
+[Thu Nov 08 21:40:37 2001] You tell your party, 'hiya!'
+[Thu Nov 08 21:40:38 2001] Kedian tells the group, '<note mentor> Espranza'
+[Thu Nov 08 21:40:40 2001] Lirus GMSAYS, 'hehe'
+[Thu Nov 08 21:40:49 2001] Kedian tells the group, 'haven't seen ya in a while, hows it going?'
+[Thu Nov 08 21:40:55 2001] Kedian GMSAYS, 'Pulling Sinman'
+[Thu Nov 08 21:41:00 2001] You tell your party, 'pretty good! and how are you?'
+[Thu Nov 08 21:41:11 2001] Players in EverQuest:
+[Thu Nov 08 21:41:11 2001] ---------------------------
+[Thu Nov 08 21:41:11 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 21:41:49 2001] Kedian tells the group, 'goin good. Get to take my test on saturday *whee* :)'
+[Thu Nov 08 21:41:57 2001] You tell your party, 'yay!'
+[Thu Nov 08 21:42:01 2001] You tell your party, 'I know you'll do well.'
+[Thu Nov 08 21:42:07 2001] Kedian tells the group, 'thanks :)'
+[Thu Nov 08 21:42:13 2001] You tell your party, 'that'll make it - two weeks?'
+[Thu Nov 08 21:42:19 2001] Kedian tells the group, 'exactly'
+[Thu Nov 08 21:42:25 2001] You tell your party, 'that's fast!'
+[Thu Nov 08 21:42:50 2001] Players on EverQuest:
+[Thu Nov 08 21:42:50 2001] ---------------------------
+[Thu Nov 08 21:42:50 2001] [5 Rogue] Sindarian (Half Elf)
+[Thu Nov 08 21:42:50 2001] [ANONYMOUS] Sairu 
+[Thu Nov 08 21:42:50 2001] [ANONYMOUS] Canya 
+[Thu Nov 08 21:42:50 2001] [7 Warrior] Karthanon (Dwarf)
+[Thu Nov 08 21:42:50 2001] [6 Warrior] Banien (Dwarf)
+[Thu Nov 08 21:42:50 2001] * GM * [20 Monk] Kedian (Human)
+[Thu Nov 08 21:42:50 2001] [ANONYMOUS] Deivox 
+[Thu Nov 08 21:42:50 2001] [ANONYMOUS] Lellarin 
+[Thu Nov 08 21:42:50 2001] [ANONYMOUS] Haldark  <Daishan>
+[Thu Nov 08 21:42:50 2001] [19 Druid] Bimma (Wood Elf) <Enchanted Steel>
+[Thu Nov 08 21:42:50 2001] [55 Conjurer] Lothhar (Dark Elf) <Order of the White Hand>
+[Thu Nov 08 21:42:50 2001] [12 Paladin] Metrick (Dwarf)
+[Thu Nov 08 21:42:50 2001] [9 Cleric] Jarthakk (High Elf) <Legions of the Gods>
+[Thu Nov 08 21:42:50 2001] [29 Druid] Lwena (Half Elf) <  Protectors of the Unknown  >
+[Thu Nov 08 21:42:50 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Nov 08 21:42:51 2001] There are 15 players in Butcherblock Mountains.
+[Thu Nov 08 21:42:51 2001] Players on EverQuest:
+[Thu Nov 08 21:42:51 2001] ---------------------------
+[Thu Nov 08 21:42:51 2001] [5 Rogue] Sindarian (Half Elf)
+[Thu Nov 08 21:42:51 2001] [ANONYMOUS] Sairu 
+[Thu Nov 08 21:42:51 2001] [ANONYMOUS] Canya 
+[Thu Nov 08 21:42:51 2001] [7 Warrior] Karthanon (Dwarf)
+[Thu Nov 08 21:42:51 2001] [6 Warrior] Banien (Dwarf)
+[Thu Nov 08 21:42:51 2001] * GM * [20 Monk] Kedian (Human)
+[Thu Nov 08 21:42:51 2001] [ANONYMOUS] Deivox 
+[Thu Nov 08 21:42:51 2001] [ANONYMOUS] Lellarin 
+[Thu Nov 08 21:42:51 2001] [ANONYMOUS] Haldark  <Daishan>
+[Thu Nov 08 21:42:51 2001] [19 Druid] Bimma (Wood Elf) <Enchanted Steel>
+[Thu Nov 08 21:42:51 2001] [55 Conjurer] Lothhar (Dark Elf) <Order of the White Hand>
+[Thu Nov 08 21:42:51 2001] [12 Paladin] Metrick (Dwarf)
+[Thu Nov 08 21:42:52 2001] [9 Cleric] Jarthakk (High Elf) <Legions of the Gods>
+[Thu Nov 08 21:42:52 2001] [29 Druid] Lwena (Half Elf) <  Protectors of the Unknown  >
+[Thu Nov 08 21:42:52 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Nov 08 21:42:52 2001] There are 15 players in Butcherblock Mountains.
+[Thu Nov 08 21:42:52 2001] Players on EverQuest:
+[Thu Nov 08 21:42:52 2001] ---------------------------
+[Thu Nov 08 21:42:52 2001] [5 Rogue] Sindarian (Half Elf)
+[Thu Nov 08 21:42:52 2001] [ANONYMOUS] Sairu 
+[Thu Nov 08 21:42:53 2001] [ANONYMOUS] Canya 
+[Thu Nov 08 21:42:53 2001] [7 Warrior] Karthanon (Dwarf)
+[Thu Nov 08 21:42:53 2001] [6 Warrior] Banien (Dwarf)
+[Thu Nov 08 21:42:53 2001] * GM * [20 Monk] Kedian (Human)
+[Thu Nov 08 21:42:53 2001] [ANONYMOUS] Deivox 
+[Thu Nov 08 21:42:53 2001] [ANONYMOUS] Lellarin 
+[Thu Nov 08 21:42:53 2001] [ANONYMOUS] Haldark  <Daishan>
+[Thu Nov 08 21:42:53 2001] [19 Druid] Bimma (Wood Elf) <Enchanted Steel>
+[Thu Nov 08 21:42:53 2001] [55 Conjurer] Lothhar (Dark Elf) <Order of the White Hand>
+[Thu Nov 08 21:42:53 2001] [12 Paladin] Metrick (Dwarf)
+[Thu Nov 08 21:42:53 2001] [9 Cleric] Jarthakk (High Elf) <Legions of the Gods>
+[Thu Nov 08 21:42:53 2001] [29 Druid] Lwena (Half Elf) <  Protectors of the Unknown  >
+[Thu Nov 08 21:42:53 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Nov 08 21:42:53 2001] There are 15 players in Butcherblock Mountains.
+[Thu Nov 08 21:43:08 2001] You disband your party.
+[Thu Nov 08 21:50:13 2001] Welcome to EverQuest!
+[Thu Nov 08 21:50:13 2001] You have entered Butcherblock Mountains.
+[Thu Nov 08 21:50:22 2001] You GMSAY, 'I do so love my desktop wallpaper'
+[Thu Nov 08 21:50:27 2001] You invite Kedian to join your group.
+[Thu Nov 08 21:50:36 2001] You have formed the group.
+[Thu Nov 08 21:50:37 2001] Kedian tells the group, 'wb'
+[Thu Nov 08 21:50:40 2001] Players in EverQuest:
+[Thu Nov 08 21:50:40 2001] ---------------------------
+[Thu Nov 08 21:50:40 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 21:50:45 2001] You tell your party, 'hi!'
+[Thu Nov 08 21:50:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 21:50:52 2001] USER TEXT: i seam to be stuck beneith the world, its tried to move me twice but no such luck. can i get some help.. and a 3rd time now
+[Thu Nov 08 21:50:53 2001] Players in EverQuest:
+[Thu Nov 08 21:50:53 2001] ---------------------------
+[Thu Nov 08 21:50:53 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 21:50:58 2001] You GMSAY, 'xxein unavail 2'
+[Thu Nov 08 21:51:01 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu Nov 08 21:51:02 2001] CHECKING IN
+[Thu Nov 08 21:51:24 2001] Kedian tells the group, 'feel like tossing a few test questions my way?'
+[Thu Nov 08 21:51:26 2001] Glisse Bluesea shouts 'The Maiden's Voyage has departed the outpost at Firiona Vie.  Please be ready to board the shuttles shortly, if you desire to make the journey to Kunark. 
+[Thu Nov 08 21:51:39 2001] You tell your party, 'first, have any questions?'
+[Thu Nov 08 21:51:57 2001] Kedian tells the group, 'not really'
+[Thu Nov 08 21:52:15 2001] You tell your party, 'what are these swords for?'
+[Thu Nov 08 21:52:24 2001] Espranza points to her sparky swords.
+[Thu Nov 08 21:52:41 2001] Kedian tells the group, 'gate and to provide a distraction to draw attention to yourself'
+[Thu Nov 08 21:52:54 2001] You tell your party, 'they're for whacking bugs!'
+[Thu Nov 08 21:53:08 2001] You tell your party, 'and also those things you say'
+[Thu Nov 08 21:53:20 2001] You tell your party, 'when can we summon a player, and to where?'
+[Thu Nov 08 21:53:48 2001] Kedian tells the group, 'we can summon players who are stuck in a wall/geometry, who are in a dev box, or who are lost at sea'
+[Thu Nov 08 21:53:58 2001] You tell your party, 'and where do we summon them?'
+[Thu Nov 08 21:54:10 2001] Kedian tells the group, 'wall/geometry ppl goto the closest unstuck spot'
+[Thu Nov 08 21:54:24 2001] Kedian tells the group, 'dev box and loast at sea goto zone safespot'
+[Thu Nov 08 21:54:38 2001] You tell your party, 'what if the zone safe spot is horrendously dangerous?'
+[Thu Nov 08 21:54:46 2001] You tell your party, 'for instance, howling stones'
+[Thu Nov 08 21:55:19 2001] Kedian tells the group, 'find a spot near there that isint dangerous'
+[Thu Nov 08 21:55:27 2001] Garrwin auctions, 'wts crystallin belt ac 5 +3 wis +3agi +10hps .'
+[Thu Nov 08 21:55:30 2001] Garrwin auctions, 'Wts Crystallized Blade 13dam 31dly 1hs PAL SHD only. '
+[Thu Nov 08 21:55:31 2001] You tell your party, 'do you know of one, in HS?'
+[Thu Nov 08 21:55:45 2001] Fielnam shouts, 'anyone porting to WC?'
+[Thu Nov 08 21:55:56 2001] Kedian tells the group, 'hrmm, not really...I suppose its like kedge, there is no such thing as a safe spot in those zones'
+[Thu Nov 08 21:56:04 2001] You tell your party, 'it's tricky.'
+[Thu Nov 08 21:56:12 2001] Kedian tells the group, 'summon them to the zone-in then?'
+[Thu Nov 08 21:56:20 2001] You tell your party, 'same place'
+[Thu Nov 08 21:56:35 2001] You tell your party, 'puts you in the middle of two oozes and within range of two wandering skeletons'
+[Thu Nov 08 21:56:36 2001] Karthanon says out of character, 'How do I use the bind wound skill after purchasing bandages?'
+[Thu Nov 08 21:56:46 2001] Karthanon says out of character, 'Sorry, Newbie question'
+[Thu Nov 08 21:56:47 2001] Aeliya begins to cast a spell. (Spirit of Wolf)
+[Thu Nov 08 21:57:01 2001] Lothhar says out of character, 'have your target targeted and hit the bind wound hot key'
+[Thu Nov 08 21:57:03 2001] Kinesist says out of character, 'target yourself first'
+[Thu Nov 08 21:57:20 2001] Kedian tells the group, 'well, I dont want to put them there, that would be using our powers to put a player in intentional danger'
+[Thu Nov 08 21:57:29 2001] Karthanon says out of character, 'And how do you target self first?'
+[Thu Nov 08 21:57:34 2001] Lothhar says out of character, 'hit F1'
+[Thu Nov 08 21:57:37 2001] Kinesist says out of character, 'F!'
+[Thu Nov 08 21:57:41 2001] Kinesist says out of character, 'F1'
+[Thu Nov 08 21:57:50 2001] Karthanon says out of character, 'Thank you all. Sorry for the interruption.'
+[Thu Nov 08 21:57:56 2001] Kedian tells the group, 'so..where would we put them?'
+[Thu Nov 08 21:58:00 2001] Kedian GMSAYS, 'PUlling Aludair'
+[Thu Nov 08 21:58:12 2001] You tell your party, 'wherever the Chat GM, or the GM online, tells us to'
+[Thu Nov 08 21:58:18 2001] You tell your party, 'some problems we can't solve'
+[Thu Nov 08 21:58:30 2001] You tell your party, 'what is the only time we can rez in a CSR zone?'
+[Thu Nov 08 21:58:39 2001] Bimma shouts, 'can someone by a 2000 new yamaha shuttle motors to make the shutles MOVE!!'
+[Thu Nov 08 21:58:55 2001] Kedian tells the group, 'when we have approval from a GM'
+[Thu Nov 08 21:59:17 2001] Kedian tells the group, 'so, for HS and kedge...we have to get instructions from a GM as to where to put them?'
+[Thu Nov 08 21:59:35 2001] Garrwin auctions, 'wts crystallin belt ac 5 +3 wis +3agi +10hps .'
+[Thu Nov 08 21:59:38 2001] Pandamoniam begins to cast a spell. (Bind Affinity)
+[Thu Nov 08 21:59:55 2001] You tell your party, 'whenever you think it might be a bad situation, you pass it to a senior or the GM. If none are on, get one from chat.'
+[Thu Nov 08 22:00:18 2001] Espranza saved.
+[Thu Nov 08 22:00:28 2001] Kedian tells the group, 'ok..so when all else fails, contact your.....SENIOR! :)'
+[Thu Nov 08 22:00:28 2001] Pandamoniam begins to cast a spell. (Ring of Karana)
+[Thu Nov 08 22:00:34 2001] You tell your party, 'you got it :)'
+[Thu Nov 08 22:01:08 2001] You tell your party, 'let's say you get buffed next week, you're 50, I'm 54, and a petition comes in requiring a presence in a CSR zone and no seniors or GMs are online. What do you do?'
+[Thu Nov 08 22:01:20 2001] You tell your party, 'we both being online together'
+[Thu Nov 08 22:01:42 2001] Garrwin auctions, 'Wts Crystallized Blade 13dam 31dly 1hs PAL SHD only. '
+[Thu Nov 08 22:02:26 2001] Kedian tells the group, 'well, levels aren't supposed to have any "rank" significance.  Though I would ask if you wanted to handle and allow me to accompany since you have more experience'
+[Thu Nov 08 22:02:38 2001] Lirus GMSAYS, 'afk a few toggle off'
+[Thu Nov 08 22:02:42 2001] You GMSAY, 'k'
+[Thu Nov 08 22:03:02 2001] You tell your party, 'you were right - I have no more seniority than you. If you got the petition, you should handle it.'
+[Thu Nov 08 22:03:16 2001] Sunndance auctions, 'WTS dusty bloodstained gloves 2ac 25mana pure caster only 90p'
+[Thu Nov 08 22:03:25 2001] Kedian tells the group, 'Do you require a surname change?'
+[Thu Nov 08 22:03:35 2001] You tell your party, 'My presence in the CSR zone wouldn't be necessary, or even allowed, as I was not on a petition.'
+[Thu Nov 08 22:03:36 2001] Aeliya auctions, 'Selling Blackened Iron Legplates AC8'
+[Thu Nov 08 22:03:36 2001] Druiade shouts, 'anyone know what lvl chessboards are'
+[Thu Nov 08 22:03:39 2001] You tell your party, 'me? why?'
+[Thu Nov 08 22:03:46 2001] Aeliya auctions, 'Selling Blackened Iron Legplates AC7 sorry'
+[Thu Nov 08 22:03:59 2001] Metrick shouts, 'i dont know but their pussies'
+[Thu Nov 08 22:04:13 2001] Aeliya auctions, 'Selling Blackened Iron Gloves AC6'
+[Thu Nov 08 22:04:29 2001] Kedian tells the group, 'Well, you did say next week...that would be my first week as a full guide, my understanding is we should be grouped with another, more experienced guide when possible during that time'
+[Thu Nov 08 22:04:29 2001] Aeliya begins to cast a spell. (Spirit of Wolf)
+[Thu Nov 08 22:04:39 2001] Bimma shouts, 'what does the morning dew do?'
+[Thu Nov 08 22:04:40 2001] Aeliya begins to cast a spell. (Strength of Earth)
+[Thu Nov 08 22:04:41 2001] You tell your party, 'yup'
+[Thu Nov 08 22:04:54 2001] Metrick shouts, 'oops shouldent have said it that way how about no compition'
+[Thu Nov 08 22:04:58 2001] Garrwin auctions, 'wtb halfling armor  helm,feet,back,shoulder,arms.. send tells.'
+[Thu Nov 08 22:05:04 2001] You tell your party, 'but that doesn't mean I could come with you to a CSR zone.'
+[Thu Nov 08 22:05:05 2001] Glisse Bluesea shouts 'The Maiden's Voyage is now ready to be boarded.  Please form an orderly line to the shuttles, and remember, no pushing! 
+[Thu Nov 08 22:05:14 2001] You tell your party, 'one guide goes in, does the job, gets out'
+[Thu Nov 08 22:05:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:05:54 2001] USER TEXT: i seam to be stuck beneith the world, its tried to move me twice but no such luck. can i get some help.. and a 3rd time now
+[Thu Nov 08 22:05:55 2001] Players in EverQuest:
+[Thu Nov 08 22:05:55 2001] ---------------------------
+[Thu Nov 08 22:05:55 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 22:06:06 2001] You GMSAY, 'buh bye, Xxein! Unavail x 3'
+[Thu Nov 08 22:06:06 2001] Kedian tells the group, 'ok, that makes sence'
+[Thu Nov 08 22:06:11 2001] Bimma shouts, 'who bought the motor for the shuttles?'
+[Thu Nov 08 22:06:12 2001] DELETING THIS PETITION
+[Thu Nov 08 22:06:14 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:06:14 2001] USER TEXT: please repop druid vendor in commons or make her come back :)  several people have been waiting for her return.  Thank you
+[Thu Nov 08 22:06:14 2001] Players in EverQuest:
+[Thu Nov 08 22:06:14 2001] ---------------------------
+[Thu Nov 08 22:06:15 2001] [24 Druid] Sounder (Human) <Clan Silvermoon> ZONE: commons (USER PID CPRQATT)
+[Thu Nov 08 22:06:15 2001] There is 1 player in EverQuest.
+[Thu Nov 08 22:06:19 2001] Bimma shouts, 'they are moving'
+[Thu Nov 08 22:06:20 2001] Garrwin auctions, 'wtb halfling armor  helm,feet,back,shoulder,arms.. send tells.'
+[Thu Nov 08 22:06:23 2001] You tell your party, 'okay, are you on a pet?'
+[Thu Nov 08 22:06:33 2001] Sunndance auctions, 'WTS dusty bloodstained gloves 2ac 25mana pure caster only 90p'
+[Thu Nov 08 22:06:42 2001] Kedian tells the group, 'yeah..just a sec, closing it now'
+[Thu Nov 08 22:06:47 2001] STATUS UPGRADED TO URGENT
+[Thu Nov 08 22:06:48 2001] CHECKING IN
+[Thu Nov 08 22:06:52 2001] Fielnam says out of character, 'any druids out there porting to WC?'
+[Thu Nov 08 22:06:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:06:53 2001] USER TEXT: I understand from lirus that I must petition to get guildleader status moved.  Onec upon a time I was leader of MI and I moved that leadership o another account to become head of Emergence  I would like to make sure that is done 
+[Thu Nov 08 22:06:53 2001] Players in EverQuest:
+[Thu Nov 08 22:06:53 2001] ---------------------------
+[Thu Nov 08 22:06:53 2001] [57 Evoker] Alhazred (Erudite) <Emergence> ZONE: cobaltscar (USER PID FSUQLM1)
+[Thu Nov 08 22:06:53 2001] There is 1 player in EverQuest.
+[Thu Nov 08 22:07:01 2001] Kedian GMSAYS, 'Aludair requests wedding specificly from Lirus, and needs surname change for it. escalating to red'
+[Thu Nov 08 22:07:05 2001] UNDOING CHECK OUT
+[Thu Nov 08 22:07:12 2001] Taru says out of character, 'anyone selliing newbie rogue armor?'
+[Thu Nov 08 22:07:14 2001] Kedian tells the group, 'ok, out of pet'
+[Thu Nov 08 22:07:18 2001] Bimma shouts, 'BYE'
+[Thu Nov 08 22:07:20 2001] Sunndance auctions, 'WTS dusty bloodstained gloves 2ac 25mana pure caster only 90p'
+[Thu Nov 08 22:07:21 2001] You tell your party, 'did he and Lirus arrange this?'
+[Thu Nov 08 22:07:45 2001] Kedian tells the group, 'dont really know, I told him it will be some time before lirus responds to his petition'
+[Thu Nov 08 22:07:52 2001] You tell your party, 'Lirus won't do it'
+[Thu Nov 08 22:08:05 2001] You tell your party, 'though she would change the names'
+[Thu Nov 08 22:08:15 2001] Aeliya begins to cast a spell. (Feet like Cat)
+[Thu Nov 08 22:08:18 2001] Kedian tells the group, 'k, ill drop it to yellow then'
+[Thu Nov 08 22:08:23 2001] Aeliya begins to cast a spell. (Feet like Cat)
+[Thu Nov 08 22:08:38 2001] You tell your party, 'or just tell them that unless they arranged it with Lirus well in advance, it isn't going to happen'
+[Thu Nov 08 22:08:49 2001] You tell your party, 'give them Lirus' email if they would like to discuss it with her'
+[Thu Nov 08 22:09:21 2001] You tell your party, 'anyway, at your leisure, pull Sounder'
+[Thu Nov 08 22:09:31 2001] Kedian GMSAYS, 'Pulling Sounder'
+[Thu Nov 08 22:09:48 2001] You tell your party, 'now lead me through it - you give the orders, I'll do what you say'
+[Thu Nov 08 22:10:13 2001] Kedian tells the group, 'ok, I would contact the person to see if the vendor is still missing, it may have wandered back to its spot'
+[Thu Nov 08 22:10:18 2001] Kedian tells the group, 'I'll do that now'
+[Thu Nov 08 22:10:28 2001] Espranza saved.
+[Thu Nov 08 22:10:43 2001] You nod at Kedian.
+[Thu Nov 08 22:10:56 2001] Fielnam shouts, 'boat'
+[Thu Nov 08 22:11:17 2001] a Krag chick has been slain by Guard Haendar!
+[Thu Nov 08 22:11:34 2001] Kedian waits.....
+[Thu Nov 08 22:11:57 2001] You tell your party, 'I just usually go there, check it out, reset if needed, and then contact'
+[Thu Nov 08 22:12:47 2001] Kedian tells the group, 'ok, lets /zone commons'
+[Thu Nov 08 22:12:52 2001] You GMSAY, 'zone'
+[Thu Nov 08 22:12:55 2001] LOADING, PLEASE WAIT...
+[Thu Nov 08 22:13:22 2001] You have entered West Commonlands.
+[Thu Nov 08 22:13:22 2001] You have formed the group.
+[Thu Nov 08 22:13:26 2001] You tell your party, 'ready?'
+[Thu Nov 08 22:13:29 2001] Kedian GMSAYS, '<< zone >>'
+[Thu Nov 08 22:13:31 2001] Summoning kedian.
+[Thu Nov 08 22:14:53 2001] You tap your foot impatiently.
+[Thu Nov 08 22:15:04 2001] Sounder shouts, 'does anyone know the name of the druid merchant?'
+[Thu Nov 08 22:15:07 2001] Kedian tells the group, 'I dont know the name of the merchant :/'
+[Thu Nov 08 22:15:11 2001] Sanlaenae shouts, 'Moonwhisper'
+[Thu Nov 08 22:15:12 2001] You tell your party, 'then ask'
+[Thu Nov 08 22:15:17 2001] Sanlaenae shouts, 'or something like that'
+[Thu Nov 08 22:15:19 2001] Kedian tells the group, 'hehe, as you can see..I did :)'
+[Thu Nov 08 22:15:19 2001] Sounder shouts, 'thank you'
+[Thu Nov 08 22:15:23 2001] You tell your party, 'it's slea pinewhisper'
+[Thu Nov 08 22:15:27 2001] You tell your party, 'ask a guide'
+[Thu Nov 08 22:15:27 2001] Sanlaenae shouts, 'np'
+[Thu Nov 08 22:15:36 2001] Sanlaenae shouts, 'was over by the lake when i saw her'
+[Thu Nov 08 22:15:44 2001] Kedian tells the group, 'ok, lets /goto Slea_Pinewhisper00'
+[Thu Nov 08 22:15:52 2001] Teleporting to slea_pinewhisper00.
+[Thu Nov 08 22:15:56 2001] Summoning Kedian.
+[Thu Nov 08 22:16:05 2001] Narcesis says out of character, 'could someone port me to WL or CS please?'
+[Thu Nov 08 22:16:11 2001] Torahdane is looking at your equipment...
+[Thu Nov 08 22:16:20 2001] Kedian tells the group, 'ok, we can see she is out of place, lets see if she is closed for bussiness..'
+[Thu Nov 08 22:16:59 2001] Kedian tells the group, 'right click on her to see if we get the "im busy now message"'
+[Thu Nov 08 22:17:06 2001] You tell your party, 'she's out of place'
+[Thu Nov 08 22:17:08 2001] You feel the spirit of Norrath enter you.
+[Thu Nov 08 22:17:10 2001] Kedian tells the group, 'if shes opens up, then she is still working'
+[Thu Nov 08 22:17:24 2001] Slea Pinewhisper says 'Catch me some other time, I am working on something else now.'
+[Thu Nov 08 22:17:28 2001] Torturedone says out of character, 'lookin for port to gd..'
+[Thu Nov 08 22:17:33 2001] Kedian tells the group, 'ok, shes closed. hit mem blur on her a few times'
+[Thu Nov 08 22:17:33 2001] Shykhan shouts, 'DING!'
+[Thu Nov 08 22:17:37 2001] You can't use that command right now...
+[Thu Nov 08 22:17:37 2001] Kedian blinks a few times.
+[Thu Nov 08 22:17:37 2001] Kedian blinks a few times.
+[Thu Nov 08 22:17:40 2001] You can't use that command right now...
+[Thu Nov 08 22:17:40 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:17:40 2001] You can't use that command right now...
+[Thu Nov 08 22:17:40 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:17:41 2001] You can't use that command right now...
+[Thu Nov 08 22:17:41 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:17:41 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:17:41 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:17:42 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:17:42 2001] Kedian tells the group, 'thats me :)'
+[Thu Nov 08 22:17:46 2001] Pardus shouts, 'grats'
+[Thu Nov 08 22:17:54 2001] You tell your party, 'you needed to feel it for yourself... or something'
+[Thu Nov 08 22:17:56 2001] Slea Pinewhisper says 'I am not open for business right now'
+[Thu Nov 08 22:18:05 2001] You tell your party, 'that never works, incidentally, for merchants'
+[Thu Nov 08 22:18:08 2001] Kedian tells the group, 'ok, looks like we may have to move her the hard way...the merchants union will hear aobut this'
+[Thu Nov 08 22:18:13 2001] You beam a smile at Slea Pinewhisper.
+[Thu Nov 08 22:18:17 2001] You tell your party, 'okay, so how?'
+[Thu Nov 08 22:18:24 2001] Slea Pinewhisper says 'I don't have time for that now'
+[Thu Nov 08 22:18:44 2001] Kedian tells the group, 'ok, this is a long run, come here, dispell her..run back to the druid ring'
+[Thu Nov 08 22:18:57 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:18:58 2001] Kedian tells the group, 'druid ring is infront of me'
+[Thu Nov 08 22:18:59 2001] Moren says out of character, 'I see a white pear with red linings...I think my eyes are getting bad..'
+[Thu Nov 08 22:19:06 2001] Slea Pinewhisper says 'Guards!! Guards!! 
+[Thu Nov 08 22:19:06 2001] Slea Pinewhisper feels a bit dispelled.
+[Thu Nov 08 22:19:06 2001] Slea Pinewhisper punches YOU for 86 points of damage.
+[Thu Nov 08 22:19:06 2001] Slea Pinewhisper kicks YOU for 41 points of damage.
+[Thu Nov 08 22:19:08 2001] Slea Pinewhisper punches YOU for 114 points of damage.
+[Thu Nov 08 22:19:14 2001] Moren says out of character, 'nm it's Gag'
+[Thu Nov 08 22:19:22 2001] Roleo says, 'what lvl could i get in it?'
+[Thu Nov 08 22:19:24 2001] Kedian tells the group, 'when you arrive, dispell her alot untill she stops attacking'
+[Thu Nov 08 22:19:25 2001] Torturedone hugs Soph.
+[Thu Nov 08 22:19:26 2001] Soph grabs hold of Torturedone and begins to dance with him.
+[Thu Nov 08 22:19:29 2001] Soph cheers at Torturedone.
+[Thu Nov 08 22:19:29 2001] Roleo's song ends.
+[Thu Nov 08 22:19:30 2001] Kedian tells the group, 'er memblur alot'
+[Thu Nov 08 22:19:30 2001] You tell your party, 'dispell?'
+[Thu Nov 08 22:19:33 2001] Slea Pinewhisper bashes YOU for 46 points of damage.
+[Thu Nov 08 22:19:35 2001] Slea Pinewhisper punches YOU for 127 points of damage.
+[Thu Nov 08 22:19:35 2001] Slea Pinewhisper punches YOU for 81 points of damage.
+[Thu Nov 08 22:19:36 2001] You can't use that command right now...
+[Thu Nov 08 22:19:36 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:19:36 2001] You can't use that command right now...
+[Thu Nov 08 22:19:37 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:19:37 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:19:37 2001] You can't use that command right now...
+[Thu Nov 08 22:19:37 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:19:37 2001] You can't use that command right now...
+[Thu Nov 08 22:19:38 2001] You can't use that command right now...
+[Thu Nov 08 22:19:38 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:19:38 2001] Slea Pinewhisper blinks a few times.
+[Thu Nov 08 22:19:39 2001] Gagaran says out of character, 'bah 8p'
+[Thu Nov 08 22:19:45 2001] Torturedone grabs hold of Soph and begins to dance with him.
+[Thu Nov 08 22:19:46 2001] Slea Pinewhisper says 'Greetings Sounder you look like you could use a Golden Pendant'
+[Thu Nov 08 22:19:47 2001] Torturedone cheers at Soph.
+[Thu Nov 08 22:19:47 2001] Soph says, 'this yer uberpimpin alt? =)'
+[Thu Nov 08 22:19:55 2001] You tell your party, 'there ya go'
+[Thu Nov 08 22:19:57 2001] Kedian tells the group, 'and she is open for business again'
+[Thu Nov 08 22:20:01 2001] You tell your party, 'yay!'
+[Thu Nov 08 22:20:03 2001] Torturedone says, 'Nah, BF char'
+[Thu Nov 08 22:20:07 2001] Soph says, 'aah hehe'
+[Thu Nov 08 22:20:08 2001] Skytracker auctions, 'selling Bracer of the Forlorn...  +3 wis ...'
+[Thu Nov 08 22:20:08 2001] Torturedone says, 'O_o'
+[Thu Nov 08 22:20:10 2001] Kedian tells the group, 'now contact the player tell them merchant has been replaced'
+[Thu Nov 08 22:20:17 2001] Haloke bows before Espranza.
+[Thu Nov 08 22:20:18 2001] Torturedone says, 'get me a group!!! =p'
+[Thu Nov 08 22:20:20 2001] Haloke cheers at Espranza.
+[Thu Nov 08 22:20:22 2001] Torturedone points at Soph. Yeah you!
+[Thu Nov 08 22:20:23 2001] You tell your party, 'works for me'
+[Thu Nov 08 22:20:27 2001] Kedian tells the group, 'I have done that now'
+[Thu Nov 08 22:20:29 2001] Ganoldar bows before Moren.
+[Thu Nov 08 22:20:31 2001] Solarstar begins to cast a spell. (See Invisible)
+[Thu Nov 08 22:20:33 2001] You bow before Haloke.
+[Thu Nov 08 22:20:37 2001] Soph says, 'lol  im camping bedroom if you wanna come with =)'
+[Thu Nov 08 22:20:41 2001] Araushnaee says out of character, 'donating 100pp for port to Cobalt Scar'
+[Thu Nov 08 22:20:42 2001] Haloke bows before Kedian.
+[Thu Nov 08 22:20:45 2001] Haloke cheers at Kedian.
+[Thu Nov 08 22:20:45 2001] Sil Silverstar begins to cast a spell. (Skin like Rock)
+[Thu Nov 08 22:20:53 2001] Kedian waves at Haloke.
+[Thu Nov 08 22:20:54 2001] Torturedone says, 'lguk? -_-'
+[Thu Nov 08 22:20:55 2001] You tell your party, 'then we make a spectacular finish!'
+[Thu Nov 08 22:20:58 2001] Please type a valid zone name after your command.
+[Thu Nov 08 22:20:59 2001] Soph says, 'mine lol'
+[Thu Nov 08 22:21:02 2001] You GMSAY, 'zone'
+[Thu Nov 08 22:21:03 2001] Torturedone says, 'all green ;('
+[Thu Nov 08 22:21:05 2001] Kedian tells the group, 'so, howd I do? :)'
+[Thu Nov 08 22:21:06 2001] Haloke says, '=)'
+[Thu Nov 08 22:21:09 2001] Torturedone says, '<---59'
+[Thu Nov 08 22:21:09 2001] Moren begins to cast a spell. (Clarity)
+[Thu Nov 08 22:21:10 2001] You feel the spirit of Z surround you.
+[Thu Nov 08 22:21:11 2001] You feel the spirit of Z surround you.
+[Thu Nov 08 22:21:11 2001] You feel the spirit of Z surround you.
+[Thu Nov 08 22:21:12 2001] LOADING, PLEASE WAIT...
+[Thu Nov 08 22:21:32 2001] You have entered Sunset Home.
+[Thu Nov 08 22:21:32 2001] You have formed the group.
+[Thu Nov 08 22:22:01 2001] You tell your party, 'you did fine :) write down the name of that merchant, you'll see her a lot.'
+[Thu Nov 08 22:22:44 2001] You tell your party, 'bathroom break, brb'
+[Thu Nov 08 22:22:52 2001] Kedian tells the group, 'k, thanks for the quiz :)'
+[Thu Nov 08 22:22:56 2001] Kedian GMSAYS, 'Pulling alhazred'
+[Thu Nov 08 22:25:31 2001] Angelize tells you, 'Your on late lol'
+[Thu Nov 08 22:26:56 2001] You tell your party, 'back'
+[Thu Nov 08 22:27:00 2001] Kedian tells the group, 'wb'
+[Thu Nov 08 22:27:02 2001] You told Angelize, 'this is my regular shift!'
+[Thu Nov 08 22:27:05 2001] Angelize tells you, 'Esp'
+[Thu Nov 08 22:27:29 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:27:29 2001] USER TEXT: this is screwed
+[Thu Nov 08 22:27:29 2001] Players in EverQuest:
+[Thu Nov 08 22:27:29 2001] ---------------------------
+[Thu Nov 08 22:27:29 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 22:27:35 2001] Angelize tells you, 'I am so tired i have no idea why I am here lol'
+[Thu Nov 08 22:27:39 2001] You tell your party, 'Xxein petitioned again... gone again'
+[Thu Nov 08 22:27:51 2001] You told Angelize, 'um... glad to see you back on this character again!'
+[Thu Nov 08 22:27:56 2001] UNDOING CHECK OUT
+[Thu Nov 08 22:28:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:28:02 2001] USER TEXT: May we have the time from Lirus for a wedding between Tuvwen and Aludair . npw
+[Thu Nov 08 22:28:03 2001] Players in EverQuest:
+[Thu Nov 08 22:28:03 2001] ---------------------------
+[Thu Nov 08 22:28:03 2001] [55 Preserver] Aludair (Wood Elf) <Triune> ZONE: dreadlands (USER PID FVKUZWP)
+[Thu Nov 08 22:28:03 2001] There is 1 player in EverQuest.
+[Thu Nov 08 22:28:04 2001] It is 9 PM on Monday, the 2nd day of June, of the year 3216.
+[Thu Nov 08 22:28:04 2001] Earth Time: Thu Nov 08 22:28:04 2001
+[Thu Nov 08 22:28:13 2001] Angelize tells you, 'Well just for the night I dont get to play much and it wil change in Jan'
+[Thu Nov 08 22:28:55 2001] Angelize tells you, 'err will. I need to sleep but have to wind down a little'
+[Thu Nov 08 22:29:03 2001] You told Aludair, 'Hail, Aludair! Guide Espranze here. Lirus won't have the time to marry you tonight - if you require the GM to perform the service, you should arrange things in advance to be sure she is free. Her email is msudnik@soe.sony.com.'
+[Thu Nov 08 22:29:16 2001] You told Angelize, 'how has life been treating you?'
+[Thu Nov 08 22:29:34 2001] Kedian tells the group, 'can you see if Alhazred has a soulmark as guild leader of emergence?'
+[Thu Nov 08 22:29:37 2001] Angelize tells you, 'Ok hehe I work for a theme park now. And you?'
+[Thu Nov 08 22:29:48 2001] You told Angelize, 'unemployed :('
+[Thu Nov 08 22:29:49 2001] You tell your party, 'sure'
+[Thu Nov 08 22:29:52 2001] DELETING THIS PETITION
+[Thu Nov 08 22:30:01 2001] Players in EverQuest:
+[Thu Nov 08 22:30:01 2001] ---------------------------
+[Thu Nov 08 22:30:01 2001] [57 Evoker] Alhazred (Erudite) <Emergence> ZONE: cobaltscar (USER PID FSUQLM1)
+[Thu Nov 08 22:30:01 2001] There is 1 player in EverQuest.
+[Thu Nov 08 22:30:05 2001] Angelize tells you, 'Oh btw my safe add is AngelEyes7373@iwon.com'
+[Thu Nov 08 22:30:24 2001] Angelize tells you, 'Doh wrong tell'
+[Thu Nov 08 22:30:38 2001] Angelize tells you, 'See need sleep'
+[Thu Nov 08 22:30:42 2001] You told Angelize, 'previously safe addy...'
+[Thu Nov 08 22:30:56 2001] Kedian tells the group, 'or Magic incorporated...hes trying to move leadership and its giving him a headache...'
+[Thu Nov 08 22:31:09 2001] You tell your party, 'Alhazred was reimbursed for things twice and was given a quest reward once, nothing else here'
+[Thu Nov 08 22:31:12 2001] Saving soulmark information to server.
+[Thu Nov 08 22:31:26 2001] Kedian tells the group, 'ok, thanks'
+[Thu Nov 08 22:31:27 2001] You tell your party, 'esc to red and let them know to petition again if Lirus does not get to it tonight'
+[Thu Nov 08 22:31:39 2001] Espranza saved.
+[Thu Nov 08 22:31:42 2001] Angelize tells you, 'No still safe lol my mother in law dont have access to it lol'
+[Thu Nov 08 22:31:47 2001] You told Angelize, 'heh'
+[Thu Nov 08 22:31:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:31:49 2001] USER TEXT: this is screwed
+[Thu Nov 08 22:31:49 2001] Players in EverQuest:
+[Thu Nov 08 22:31:49 2001] ---------------------------
+[Thu Nov 08 22:31:49 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 22:31:53 2001] STATUS UPGRADED TO URGENT
+[Thu Nov 08 22:31:54 2001] CHECKING IN
+[Thu Nov 08 22:31:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:31:56 2001] USER TEXT: went to step of barge onto boat for FV and fell thru gang plank  now swimming in zone and lost can u help?
+[Thu Nov 08 22:31:56 2001] Players in EverQuest:
+[Thu Nov 08 22:31:56 2001] ---------------------------
+[Thu Nov 08 22:31:56 2001] [29 Druid] Lwena (Half Elf) <  Protectors of the Unknown  > ZONE: butcher (USER PID DU522A0)
+[Thu Nov 08 22:31:56 2001] There is 1 player in EverQuest.
+[Thu Nov 08 22:32:05 2001] UNDOING CHECK OUT
+[Thu Nov 08 22:32:07 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:32:08 2001] USER TEXT: Greetings...i want to report a monk name Ethromist. He pulled the whole Derv 2 camp then FD and nearly our whole group got killed...and then he log of. Thank you
+[Thu Nov 08 22:32:08 2001] Players in EverQuest:
+[Thu Nov 08 22:32:08 2001] ---------------------------
+[Thu Nov 08 22:32:08 2001] [13 Cleric] Noelia (High Elf) ZONE: nro (USER PID GWK1172)
+[Thu Nov 08 22:32:08 2001] There is 1 player in EverQuest.
+[Thu Nov 08 22:32:26 2001] Players in EverQuest:
+[Thu Nov 08 22:32:26 2001] ---------------------------
+[Thu Nov 08 22:32:26 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 22:32:28 2001] Angelize tells you, 'I give it to my friends here so I can get email that she dont need to see'
+[Thu Nov 08 22:32:29 2001] Players in EverQuest:
+[Thu Nov 08 22:32:29 2001] ---------------------------
+[Thu Nov 08 22:32:29 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 22:32:45 2001] You told Angelize, 'ahhh'
+[Thu Nov 08 22:33:14 2001] You told Noelia, 'Hail, Noelia! Guide Espranza here. Without him being online, there's little I can do. Should he return, though, let me know right away!'
+[Thu Nov 08 22:33:16 2001] Angelize tells you, 'Hubby uses it for his porn crap'
+[Thu Nov 08 22:33:38 2001] Noelia tells you, 'thank you very much. i'll surely do so'
+[Thu Nov 08 22:33:39 2001] You told Angelize, 'lol! you let him get porn at home?'
+[Thu Nov 08 22:33:46 2001] You told Noelia, 'be well and good luck!'
+[Thu Nov 08 22:33:47 2001] Angelize tells you, 'yes lol I watch it too'
+[Thu Nov 08 22:33:51 2001] DELETING THIS PETITION
+[Thu Nov 08 22:33:51 2001] Noelia tells you, 'ty:)'
+[Thu Nov 08 22:34:01 2001] You told Angelize, 'well as long as it's for both of you...'
+[Thu Nov 08 22:34:04 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:34:05 2001] USER TEXT: this is screwed
+[Thu Nov 08 22:34:08 2001] Players in EverQuest:
+[Thu Nov 08 22:34:08 2001] ---------------------------
+[Thu Nov 08 22:34:08 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 22:34:08 2001] Angelize tells you, 'lol'
+[Thu Nov 08 22:34:15 2001] UNDOING CHECK OUT
+[Thu Nov 08 22:34:28 2001] You tell your party, 'Lwena is another petition you'll want to walk me through'
+[Thu Nov 08 22:34:39 2001] Players on EverQuest:
+[Thu Nov 08 22:34:39 2001] ---------------------------
+[Thu Nov 08 22:34:39 2001] There are no players in Sunset Home that match those who filters.
+[Thu Nov 08 22:34:41 2001] Players in EverQuest:
+[Thu Nov 08 22:34:41 2001] ---------------------------
+[Thu Nov 08 22:34:41 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 22:34:55 2001] Noelia tells you, 'He is online now my lord'
+[Thu Nov 08 22:35:00 2001] Angelize tells you, 'Camping out if I cant keep messages straight I should not be here lol'
+[Thu Nov 08 22:35:07 2001] Kedian GMSAYS, 'Pulling Lwena'
+[Thu Nov 08 22:35:11 2001] Players in EverQuest:
+[Thu Nov 08 22:35:11 2001] ---------------------------
+[Thu Nov 08 22:35:11 2001] [ANON (41 Shadow Knight)] Ethromist (Human) ZONE: oasis (USER PID FU9KLHZ)
+[Thu Nov 08 22:35:11 2001] There is 1 player in EverQuest.
+[Thu Nov 08 22:35:25 2001] You told Noelia, 'so he is. I think I might watch over his shoulder...'
+[Thu Nov 08 22:35:28 2001] You GMSAY, 'zone and hiding'
+[Thu Nov 08 22:35:40 2001] LOADING, PLEASE WAIT...
+[Thu Nov 08 22:36:06 2001] You have entered Oasis of Marr.
+[Thu Nov 08 22:36:06 2001] You have formed the group.
+[Thu Nov 08 22:36:09 2001] You must target a player to turn invisible first.
+[Thu Nov 08 22:36:24 2001] You GMSAY, '<note badname> Clampedshut FYK9CMJ'
+[Thu Nov 08 22:36:31 2001] Players in EverQuest:
+[Thu Nov 08 22:36:31 2001] ---------------------------
+[Thu Nov 08 22:36:31 2001] [ANON (41 Shadow Knight)] Ethromist (Human) ZONE: sro (USER PID FU9KLHZ)
+[Thu Nov 08 22:36:31 2001] There is 1 player in EverQuest.
+[Thu Nov 08 22:36:37 2001] You GMSAY, 'zone'
+[Thu Nov 08 22:36:40 2001] LOADING, PLEASE WAIT...
+[Thu Nov 08 22:37:06 2001] You have entered Southern Desert of Ro.
+[Thu Nov 08 22:37:06 2001] You have formed the group.
+[Thu Nov 08 22:37:13 2001] Espranza is now Invisible.
+[Thu Nov 08 22:37:13 2001] You are now anonymous.
+[Thu Nov 08 22:37:20 2001] Players on EverQuest:
+[Thu Nov 08 22:37:20 2001] ---------------------------
+[Thu Nov 08 22:37:20 2001] [ANONYMOUS] Ethromist 
+[Thu Nov 08 22:37:20 2001] There is 1 player in South Ro.
+[Thu Nov 08 22:37:24 2001] Teleporting to ethromist.
+[Thu Nov 08 22:37:30 2001] You begin to sneak...
+[Thu Nov 08 22:37:31 2001] You are as quiet as a cat stalking its prey.
+[Thu Nov 08 22:38:01 2001] Kedian GMSAYS, 'Lwena was lost at sea, gated out. deleting'
+[Thu Nov 08 22:38:09 2001] Ethromist begins to cast a spell. (Engulfing Darkness)
+[Thu Nov 08 22:38:15 2001] Ethromist begins to cast a spell. (Fear)
+[Thu Nov 08 22:38:16 2001] Kedian GMSAYS, 'Pulling Clampedshut'
+[Thu Nov 08 22:38:24 2001] Evilb begins to cast a spell. (Greater Healing)
+[Thu Nov 08 22:38:30 2001] Ethromist begins to cast a spell. (Siphon Strength)
+[Thu Nov 08 22:38:32 2001] Ethromist beams a smile at a sand giant.
+[Thu Nov 08 22:38:32 2001] Ethromist says, 'Ahhh, I feel much better now...'
+[Thu Nov 08 22:39:17 2001] Evilb begins to cast a spell. (Root)
+[Thu Nov 08 22:39:20 2001] Evilb begins to cast a spell. (Root)
+[Thu Nov 08 22:39:22 2001] A sand giant adheres to the ground.
+[Thu Nov 08 22:39:26 2001] Evilb begins to cast a spell. (Greater Healing)
+[Thu Nov 08 22:39:33 2001] Evilb begins to cast a spell. (Greater Healing)
+[Thu Nov 08 22:39:43 2001] Evilb begins to cast a spell. (Daring)
+[Thu Nov 08 22:39:57 2001] Players in EverQuest:
+[Thu Nov 08 22:39:57 2001] ---------------------------
+[Thu Nov 08 22:39:57 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 22:40:08 2001] Players in EverQuest:
+[Thu Nov 08 22:40:08 2001] ---------------------------
+[Thu Nov 08 22:40:08 2001] [ANON (41 Shadow Knight)] Ethromist (Human) ZONE: sro (USER PID FU9KLHZ)
+[Thu Nov 08 22:40:08 2001] There is 1 player in EverQuest.
+[Thu Nov 08 22:40:12 2001] Teleporting to ethromist.
+[Thu Nov 08 22:40:13 2001] Evilb begins to cast a spell. (Daring)
+[Thu Nov 08 22:40:16 2001] Ethromist begins to cast a spell. (Fear)
+[Thu Nov 08 22:40:25 2001] Ethromist is not in a guild.
+[Thu Nov 08 22:40:26 2001] Ethromist begins to cast a spell. (VampEmbraceShadow)
+[Thu Nov 08 22:40:26 2001] Ethromist beams a smile at a sand giant.
+[Thu Nov 08 22:40:26 2001] Ethromist says, 'Ahhh, I feel much better now...'
+[Thu Nov 08 22:40:50 2001] Ethromist begins to cast a spell. (VampEmbraceShadow)
+[Thu Nov 08 22:41:23 2001] Teleporting to Ethromist (-150.70, 482.31, -18.50).
+[Thu Nov 08 22:41:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:41:36 2001] USER TEXT: this is screwed
+[Thu Nov 08 22:41:36 2001] Players in EverQuest:
+[Thu Nov 08 22:41:36 2001] ---------------------------
+[Thu Nov 08 22:41:36 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 22:41:38 2001] UNDOING CHECK OUT
+[Thu Nov 08 22:41:40 2001] Kedian GMSAYS, 'clampedshut pets about a name change'
+[Thu Nov 08 22:41:46 2001] Kedian GMSAYS, 'Pulling Zafin'
+[Thu Nov 08 22:43:09 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Nov 08 22:43:09 2001] USER TEXT: this is screwed
+[Thu Nov 08 22:43:09 2001] Players in EverQuest:
+[Thu Nov 08 22:43:09 2001] ---------------------------
+[Thu Nov 08 22:43:09 2001] There are no players in EverQuest that match those who filters.
+[Thu Nov 08 22:43:12 2001] UNDOING CHECK OUT
+[Thu Nov 08 22:43:26 2001] Espranza is now Visible.
+[Thu Nov 08 22:43:27 2001] Kedian GMSAYS, 'Zafin pets about missing a charcter'
+[Thu Nov 08 22:43:30 2001] You are no longer anonymous.
+[Thu Nov 08 22:43:40 2001] You GMSAY, 'he should try it in an arena'
+[Thu Nov 08 22:44:06 2001] Kedian GMSAYS, '?'
+[Thu Nov 08 22:44:35 2001] You GMSAY, 'if he keeps missing him... nm... joke'
+[Thu Nov 08 22:44:43 2001] Kedian GMSAYS, 'ahh, I get it'
+[Thu Nov 08 22:44:58 2001] Kedian GMSAYS, 'kinda like when those ppl pet about getting killed by a bug....darn firebeetles'
+[Thu Nov 08 22:45:31 2001] Praiodan says out of character, 'Need help Alissea?'
+[Thu Nov 08 22:45:40 2001] Antarg GMSAYS, 'Greetings and Salutations'
+[Thu Nov 08 22:45:45 2001] Kedian GMSAYS, 'Heya Antarg!'
+[Thu Nov 08 22:45:46 2001] You GMSAY, 'Hiya Antarg!'
+[Thu Nov 08 22:45:53 2001] Kedian GMSAYS, '<< zone >>'
+[Thu Nov 08 22:45:55 2001] Antarg GMSAYS, 'whats up? :)'
+[Thu Nov 08 22:46:08 2001] You GMSAY, 'just hangin' and chillin''
+[Thu Nov 08 22:46:33 2001] You GMSAY, 'and coming for you'
+[Thu Nov 08 22:46:35 2001] You GMSAY, 'zone'
+[Thu Nov 08 22:46:37 2001] Teleporting to antarg.
+[Thu Nov 08 22:46:37 2001] LOADING, PLEASE WAIT...
+[Thu Nov 08 22:47:07 2001] Glisse Bluesea shouts 'The Maiden's Voyage has departed the outpost at Firiona Vie.  Please be ready to board the shuttles shortly, if you desire to make the journey to Kunark. 
+[Thu Nov 08 22:47:12 2001] You have entered Butcherblock Mountains.
+[Thu Nov 08 22:47:13 2001] You have formed the group.
+[Thu Nov 08 22:47:19 2001] It begins to rain.
+[Thu Nov 08 22:47:30 2001] You invite Antarg to join your group.
+[Thu Nov 08 22:47:36 2001] Antarg gives es a chocy cookie.
+[Thu Nov 08 22:47:39 2001] Antarg has joined the group.
+[Thu Nov 08 22:47:42 2001] Kedian cheers at Antarg.
+[Thu Nov 08 22:47:53 2001] You tell your party, 'don't need to be anon'
+[Thu Nov 08 22:47:55 2001] Kedian tells the group, 'heya Antarg, hows it goin?'
+[Thu Nov 08 22:48:04 2001] Antarg tells the group, 'forgot to turn it off :)'
+[Thu Nov 08 22:48:06 2001] Antarg tells the group, 'good good'
+[Thu Nov 08 22:48:23 2001] Shorkhan begins to cast a spell. (Minor Healing)
+[Thu Nov 08 22:48:28 2001] Antarg tells the group, 'hoping I can get tested this weekend sometime :)'
+[Thu Nov 08 22:48:40 2001] Kedian tells the group, 'I think we all are :)'
+[Thu Nov 08 22:49:00 2001] Antarg tells the group, 'what you got your played at now? :)'
+[Thu Nov 08 22:49:07 2001] Kedian tells the group, '6 days till deadline of SoL'
+[Thu Nov 08 22:49:20 2001] Antarg tells the group, 'deadline?'
+[Thu Nov 08 22:49:35 2001] Kedian tells the group, '3days, 23 hours and 27 minutes'
+[Thu Nov 08 22:49:54 2001] Kedian tells the group, 'yeah, the 15th is the last day to try and get SoL from the guide site'
+[Thu Nov 08 22:49:56 2001] Antarg tells the group, 'oh, SoL, I dun really care about getting that free or not... I just wanna be a full guide :)'
+[Thu Nov 08 22:50:17 2001] Kedian tells the group, 'true, sol is just a perk...a nice one at that :)'
+[Thu Nov 08 22:50:24 2001] Antarg tells the group, 'SoL is only gonna be about $25-$40 Australian, doesnt really bother me :)'
+[Thu Nov 08 22:50:30 2001] You tell your party, 'but if you don't get it, you'll be SOL...'
+[Thu Nov 08 22:50:36 2001] Players on EverQuest:
+[Thu Nov 08 22:50:36 2001] ---------------------------
+[Thu Nov 08 22:50:36 2001] There are no players in Butcherblock Mountains that match those who filters.
+[Thu Nov 08 22:50:37 2001] Kedian tells the group, 'hehe'
+[Thu Nov 08 22:50:39 2001] Players in EverQuest:
+[Thu Nov 08 22:50:39 2001] ---------------------------
+[Thu Nov 08 22:50:39 2001] [59 Myrmidon] Xxein (Dark Elf) <Hall of Heroes> ZONE: greatdivide (USER PID CSVHTC4)
+[Thu Nov 08 22:50:39 2001] There is 1 player in EverQuest.
+[Thu Nov 08 22:50:41 2001] You GMSAY, 'zone'
+[Thu Nov 08 22:50:44 2001] Kedian tells the group, 'im a poor college student :/'
+[Thu Nov 08 22:50:45 2001] You told xxein, 'wait there!'
+[Thu Nov 08 22:50:48 2001] Teleporting to xxein.
+[Thu Nov 08 22:50:49 2001] LOADING, PLEASE WAIT...
+[Thu Nov 08 22:51:26 2001] You have entered The Great Divide.
+[Thu Nov 08 22:51:26 2001] You have formed the group.
+[Thu Nov 08 22:51:31 2001] Antarg tells the group, 'unfortunately yes'
+[Thu Nov 08 22:51:31 2001] It begins to snow.
+[Thu Nov 08 22:51:41 2001] Arrelon says out of character, 'lookin for port or TL to Nro or WC plz will doante'
+[Thu Nov 08 22:51:51 2001] Antarg tells the group, 'federal election tomorrow as a matter of fact :)'
+[Thu Nov 08 22:51:54 2001] Arrelon says out of character, 'lookin for port or TL to Nro or WC plz will donate'
+[Thu Nov 08 22:51:54 2001] Player is beneath the world in greatdivide at -32000.000000, -32000.000000, -32765.355469, moving to safe point.
+[Thu Nov 08 22:51:57 2001] Antarg tells the group, 'I get to vote for the first time :)'
+[Thu Nov 08 22:52:15 2001] Lirus GMSAYS, 'back'
+[Thu Nov 08 22:52:20 2001] Kedian GMSAYS, 'wb lirus'
+[Thu Nov 08 22:52:21 2001] You GMSAY, 'welcome back!'
+[Thu Nov 08 22:52:22 2001] Antarg GMSAYS, 'eep Lirus'
+[Thu Nov 08 22:52:28 2001] Lirus GMSAYS, 'hehe'
+[Thu Nov 08 22:52:42 2001] Antarg GMSAYS, 'hey Lirus, did you get the email off the french dude? not sure if I translated it all right :)'
+[Thu Nov 08 22:52:42 2001] Lirus GMSAYS, 'zone'
+[Thu Nov 08 22:53:24 2001] Antarg tells the group, 'for all I know I could have told him "to have sex with my mother, email msudnik@soe.sony.com"'
+[Thu Nov 08 22:53:31 2001] You tell your party, 'heh'
+[Thu Nov 08 22:53:44 2001] Antarg tells the group, 'although I'm sure I didnt :)'
+[Thu Nov 08 22:53:46 2001] Kedian tells the group, 'lirus is yer mother?!?  :p'
+[Thu Nov 08 22:54:04 2001] Lirus GMSAYS, 'what french dude?'
+[Thu Nov 08 22:54:08 2001] Summoning Xxein.
+[Thu Nov 08 22:54:11 2001] Antarg GMSAYS, 'pulling Apacrypha'
+[Thu Nov 08 22:54:22 2001] Antarg GMSAYS, 'Kumar*sneeze*'
+[Thu Nov 08 22:54:25 2001] Xxein says, 'i keep crashing'
+[Thu Nov 08 22:54:31 2001] You say, 'I just moved you a little'
+[Thu Nov 08 22:54:38 2001] You say, 'you were at the safe point'
+[Thu Nov 08 22:54:38 2001] Xxein says, 'keep  getting pushed under the world as well'
+[Thu Nov 08 22:54:45 2001] Antarg GMSAYS, 'somethin happened to his Gatorscale sleeves, noted in my DSR for yesterday'
+[Thu Nov 08 22:54:50 2001] You say, 'I've been looking for you for hours'
+[Thu Nov 08 22:54:55 2001] Xxein says, 'yes as soon as i start running i move a few feet and it pushes me back'
+[Thu Nov 08 22:54:55 2001] Lirus GMSAYS, 'ok'
+[Thu Nov 08 22:54:56 2001] You say, 'trying to catch you when you were on'
+[Thu Nov 08 22:55:01 2001] You say, 'try now'
+[Thu Nov 08 22:55:03 2001] Xxein says, 'i keep crashing to desktop, '
+[Thu Nov 08 22:55:27 2001] Teleporting to Xxein (-7931.00, -731.00, -692.39).
+[Thu Nov 08 22:55:39 2001] You feel the spirit of Norrath enter you.
+[Thu Nov 08 22:55:41 2001] Antarg GMSAYS, '/petition Kedian is stalking me and wont go away!'
+[Thu Nov 08 22:55:55 2001] Kedian GMSAYS, 'Muhhhaaaaa!'
+[Thu Nov 08 22:56:06 2001] You GMSAY, 'Lirus, this guy is at the safe point in GD and whenever he tries to move from it, he goes LD and is moved back to the safe point'
+[Thu Nov 08 22:56:20 2001] You GMSAY, 'I just shifted him a few feet to see if that helped and it didn't'
+[Thu Nov 08 22:56:26 2001] Lirus GMSAYS, 'try summoning him somewhere else in zone'
+[Thu Nov 08 22:56:28 2001] Lirus GMSAYS, 'hmm'
+[Thu Nov 08 22:56:49 2001] You GMSAY, 'he's been trying to move from this point for hours.'
+[Thu Nov 08 22:56:56 2001] Karist auctions, 'WTS: JB ARMS'
+[Thu Nov 08 22:56:59 2001] Antarg GMSAYS, 'heh, ! is attacking people now :)'
+[Thu Nov 08 22:56:59 2001] Karist auctions, 'WTS: Loam Encrusted Collar 100pp'
+[Thu Nov 08 22:57:01 2001] Karist auctions, 'PAYING TO LOOT SHARD WURM BILE'
+[Thu Nov 08 22:57:21 2001] You GMSAY, 'can I try summoning him to a different zone?'
+[Thu Nov 08 22:58:21 2001] Antarg GMSAYS, 'Deleting Apacrypha'
+[Thu Nov 08 22:58:50 2001] Antarg tells the group, 'hey Es, when ya not busy, how about a little quiz?'
+[Thu Nov 08 22:58:59 2001] Kedian tells the group, 'lol :)'
+[Thu Nov 08 22:59:23 2001] You tell your party, 'threw Ked some stumpers earlier, as soon as I get Xxein squared away, you're on!'
+[Thu Nov 08 22:59:33 2001] Palou says out of character, 'Looking for a port to DL'
+[Thu Nov 08 22:59:39 2001] Antarg tells the group, 'woot!'
+[Thu Nov 08 22:59:42 2001] Kedian tells the group, 'yeah, they were meanies too'
+[Thu Nov 08 23:00:17 2001] Antarg tells the group, 'in the mean time, lets harras some players near the dorf town'
+[Thu Nov 08 23:00:28 2001] Kedian tells the group, '*whoot*'
+[Thu Nov 08 23:00:41 2001] Antarg tells the group, 'how about a roleplayed shoving match?'
+[Thu Nov 08 23:00:53 2001] Lirus GMSAYS, 'time for me to go folks'
+[Thu Nov 08 23:00:56 2001] Lirus GMSAYS, 'cya tommorow'
+[Thu Nov 08 23:01:00 2001] Antarg GMSAYS, '/wave'
+[Thu Nov 08 23:01:01 2001] Palou says out of character, 'Looking for a port or TL to Dreadlands'
+[Thu Nov 08 23:01:01 2001] Kedian GMSAYS, 'see ya Lirus'
+[Thu Nov 08 23:01:04 2001] You GMSAY, 'laters Lirus!'
+[Thu Nov 08 23:01:07 2001] Lirus GMSAYS, 'take care'
+[Thu Nov 08 23:01:30 2001] Espranza saved.
+[Thu Nov 08 23:02:31 2001] You tell your party, 'you notice Lirus didn't give me permission to zone Xxein, should he return, but DID implicitly give me permission to move him else where in the zone'
+[Thu Nov 08 23:02:46 2001] You tell your party, 'so if he comes back I'm bringing him to the thurg zone'
+[Thu Nov 08 23:03:15 2001] Palou says out of character, 'Looking for a port or TL to dreadlands please'
+[Thu Nov 08 23:03:32 2001] Antarg tells the group, 'OH my god, I killed Kedian'
+[Thu Nov 08 23:03:34 2001] Kedian tells the group, 'yeah, I noticed she didnt say 'no', she didnt say anythin at all....that would leave me to believe she missed the question'
+[Thu Nov 08 23:03:55 2001] You tell your party, 'meanwhile, Antarg, tell me the duties of the communications team, the policy team, the personell team and the SWAT team, please'
+[Thu Nov 08 23:04:13 2001] Antarg tells the group, 'sir yes sir!'
+[Thu Nov 08 23:04:18 2001] Kedian tells the group, 'hehe, I think antarg just passed out after reading that question..'
+[Thu Nov 08 23:04:44 2001] You tell your party, 'and also, who can be on them?'
+[Thu Nov 08 23:04:44 2001] Antarg tells the group, 'Communications team is resposible for offical messages to the public on behalf of the CS and Guide Program'
+[Thu Nov 08 23:04:46 2001] Palou says out of character, 'Looking for a port or TL to Dreadlands'
+[Thu Nov 08 23:04:55 2001] You tell your party, 'yup'
+[Thu Nov 08 23:05:20 2001] Dratier GMSAYS, 'Hello everyone'
+[Thu Nov 08 23:05:25 2001] You GMSAY, 'hiya Dratier!'
+[Thu Nov 08 23:05:28 2001] Kedian GMSAYS, 'HIya Dratier'
+[Thu Nov 08 23:05:48 2001] Antarg tells the group, 'The Policy team is resposible for writing the law, making sure that common problems have proceedures for solving and generally fixing any discrepincies'
+[Thu Nov 08 23:06:00 2001] You tell your party, 'yup'
+[Thu Nov 08 23:07:00 2001] Antarg tells the group, 'personell team manage and keep track of any members of the program, also they recieve transfer requests and resignations'
+[Thu Nov 08 23:07:07 2001] You tell your party, 'uh huh :)'
+[Thu Nov 08 23:07:09 2001] Ryme auctions, 'Paying well for MQ of Thurg or SS Plate Helm'
+[Thu Nov 08 23:07:15 2001] Ryme auctions, 'Dire Wolf-Hide Cloak 8ac 6str 6sta 35hp all all 0.5 weight 3k'
+[Thu Nov 08 23:08:09 2001] Antarg tells the group, 'SWAT are fellow guides the "server wide assistance? team" do not have fixed servers to guide on like normal guides but are instead designed to assist any servers in need'
+[Thu Nov 08 23:08:28 2001] You tell your party, 'that's not quite correct'
+[Thu Nov 08 23:08:38 2001] Bookakee shouts, 'oooooh feral kodiak..i WILL get my revenge on ALL of you!!'
+[Thu Nov 08 23:08:46 2001] Antarg tells the group, 'three out of four... not entirely bad? :)'
+[Thu Nov 08 23:08:50 2001] Antarg tells the group, 'what did I get wrong?'
+[Thu Nov 08 23:08:58 2001] Bangle says out of character, 'lol...tis what i'm doing atm =) '
+[Thu Nov 08 23:09:25 2001] Antarg tells the group, 'Kedian just told me SWAT guides have a home server :)'
+[Thu Nov 08 23:09:31 2001] You tell your party, 'SWAT guides are assigned their own servers, plus one or more other servers. They are required to spend six hours on their home server and six hours assisting on their assigned servers'
+[Thu Nov 08 23:09:41 2001] You tell your party, 'Kedian is not to be helping!'
+[Thu Nov 08 23:09:49 2001] You tell your party, 'unless he;s going to your testing with you'
+[Thu Nov 08 23:10:00 2001] Antarg tells the group, 'he can if he wants :)'
+[Thu Nov 08 23:10:03 2001] You tell your party, 'heh'
+[Thu Nov 08 23:10:18 2001] Kedian tells the group, 'bah, I offer assistance where need, just like a normal guide should'
+[Thu Nov 08 23:10:35 2001] You tell your party, 'corpse stuck in the wall of ToV, you, Mersi and Lirus are online. What do you do?'
+[Thu Nov 08 23:10:50 2001] Antarg tells the group, 'goto Lirus first, since ToV is CS Restricted'
+[Thu Nov 08 23:11:05 2001] You tell your party, 'nuh uh'
+[Thu Nov 08 23:11:10 2001] You tell your party, 'trick question'
+[Thu Nov 08 23:11:17 2001] Antarg tells the group, 'wait'
+[Thu Nov 08 23:11:25 2001] Antarg tells the group, 'I wouldnt be handling that pet :)'
+[Thu Nov 08 23:11:40 2001] You tell your party, 'why not?'
+[Thu Nov 08 23:11:40 2001] Antarg tells the group, 'plus they fixed corpse in wall bug :)'
+[Thu Nov 08 23:11:40 2001] Espranza saved.
+[Thu Nov 08 23:11:59 2001] Bangle says out of character, 'Donating for 1 STR buff and 2 Sows at velks cave.'
+[Thu Nov 08 23:11:59 2001] You tell your party, 'getting warmer - you'd advise them to try the /corpse command first.'
+[Thu Nov 08 23:12:09 2001] You tell your party, 'THEN you would escalate to Lirus, as the most senior.'
+[Thu Nov 08 23:12:16 2001] Antarg tells the group, 'alright'
+[Thu Nov 08 23:12:25 2001] Antarg tells the group, 'I was kinda on the right path, forgot about the fix'
+[Thu Nov 08 23:12:39 2001] You tell your party, 'that's why it was a trick question - the answer would have been different last week.'
+[Thu Nov 08 23:13:06 2001] Antarg tells the group, 'a guides duty is to keep upto date with changes... I should have known'
+[Thu Nov 08 23:13:49 2001] You tell your party, 'you're rescuing someone lost at sea in OOT. You bring them to the docks, per procedure, and a cyclops comes up and kills them. The dead player starts sending you nasty tells. What do you do?'
+[Thu Nov 08 23:13:50 2001] Antarg tells the group, 'but my proceedure was correct for last week right? :)'
+[Thu Nov 08 23:13:56 2001] You tell your party, 'for last week :)'
+[Thu Nov 08 23:14:37 2001] Kedian tells the group, 'I would be a little concerned if somone who was dead started talking to me :)'
+[Thu Nov 08 23:14:51 2001] Antarg tells the group, 'first of all, theres not usually cyclops near the docks, secondly, since I didnt rez them, they got there on their own... in a polite way, tell them "bad luck"'
+[Thu Nov 08 23:15:12 2001] You tell your party, 'sometimes people train the cyclopses to the docks'
+[Thu Nov 08 23:15:45 2001] Dratier GMSAYS, 'zoning'
+[Thu Nov 08 23:15:46 2001] You tell your party, 'what if they continued to yell at you, and demanded a rez?'
+[Thu Nov 08 23:16:33 2001] Antarg tells the group, 'well, since theres nothing I can do, try to calm them down by explaining proceedure and then break off contact ASAP'
+[Thu Nov 08 23:17:12 2001] Antarg tells the group, 'if they still continue, then you need to tell them outright "no" :)'
+[Thu Nov 08 23:17:28 2001] You tell your party, 'pretty much. a good way of diverting them is to give them eqcs@soe.sony.com - they can complain about us there.'
+[Thu Nov 08 23:17:33 2001] Antarg tells the group, 'after that it becomes guide harrasment'
+[Thu Nov 08 23:17:39 2001] You tell your party, 'know that if they do your logs will be asked for.'
+[Thu Nov 08 23:17:54 2001] You tell your party, 'so always follow procedure.'
+[Thu Nov 08 23:18:11 2001] You tell your party, 'I would not ever warn them for guide harassment for something like that'
+[Thu Nov 08 23:18:13 2001] Antarg tells the group, 'my logs are rarely ever clean of messing around when theres no pets, do they care? :)'
+[Thu Nov 08 23:18:17 2001] You tell your party, 'that just makes things worse.'
+[Thu Nov 08 23:18:24 2001] Antarg tells the group, 'well'
+[Thu Nov 08 23:18:38 2001] Antarg tells the group, 'never warn a player against them doing something to you, best to get someone else to do that'
+[Thu Nov 08 23:18:41 2001] You tell your party, 'a good rule is: assume a senior will be reading your logs after every shift.'
+[Thu Nov 08 23:19:06 2001] You tell your party, 'never warn a player for guide harassment unless someone says for you to.'
+[Thu Nov 08 23:19:25 2001] You tell your party, 'you /report and get a GM to read it - and then and only then - if they say to - warn them.'
+[Thu Nov 08 23:19:27 2001] Antarg tells the group, 'so general messing around, jumping off high places for the fun of it can get us in trouble? :)'
+[Thu Nov 08 23:19:42 2001] You tell your party, 'warning is a powerful tool, don't use it unless you absiolutely must.'
+[Thu Nov 08 23:20:04 2001] You tell your party, 'if there is a petition in the queue and you're fooling around - that's not good.'
+[Thu Nov 08 23:20:12 2001] You tell your party, 'if the queue is empty, go for it.'
+[Thu Nov 08 23:20:39 2001] Antarg tells the group, 'actually Es, I just said that it becomes Guide Harrasment, which proceedure means it needs to be delt with by a senior or GM :)'
+[Thu Nov 08 23:21:01 2001] You tell your party, 'we've had guides who were pretty free with warning people for guide harassment.'
+[Thu Nov 08 23:21:17 2001] You tell your party, 'if a senior of a GM says to warn them, you're covered.'
+[Thu Nov 08 23:21:35 2001] Antarg tells the group, 'I have a no getty me into trouble policy'
+[Thu Nov 08 23:21:50 2001] Espranza saved.
+[Thu Nov 08 23:21:58 2001] Antarg tells the group, 'if a player is doing something against the rules to me, I do nothing and let someone else handle concequences :)'
+[Thu Nov 08 23:22:27 2001] You tell your party, 'just follow procedure at all times.'
+[Thu Nov 08 23:22:31 2001] Antarg tells the group, 'thats not saying I wont stick up for myself :)'
+[Thu Nov 08 23:22:31 2001] You were hit by non-melee for 79 dmg.
+[Thu Nov 08 23:22:31 2001] YOU were injured by falling.
+[Thu Nov 08 23:22:44 2001] You tell your party, 'don't get into arguments with players...'
+[Thu Nov 08 23:22:53 2001] Antarg tells the group, 'isnt proceedure the same as my no getty into trouble policy?'
+[Thu Nov 08 23:23:12 2001] You tell your party, 'pretty much :)'
+[Thu Nov 08 23:23:28 2001] Antarg tells the group, 'sorry long day, I'm not stating what I mean properly :)'
+[Thu Nov 08 23:23:34 2001] You were hit by non-melee for 1 dmg.
+[Thu Nov 08 23:23:34 2001] YOU were injured by falling.
+[Thu Nov 08 23:23:52 2001] Kedian tells the group, 'thats ok antarg, all guides are mind readers, remember? :)'
+[Thu Nov 08 23:23:55 2001] Antarg tells the group, 'I'm the type, who doesnt complain to someones face, some may call me a coward, others may call me smart :)'
+[Thu Nov 08 23:24:15 2001] You tell your party, 'someone says that they are being attacked by an elder shardwurm they cannot see in GD. You go there and find not one but two elder shardwurms, and the shardwurm broodmother. What do you do?'
+[Thu Nov 08 23:24:54 2001] Antarg tells the group, 'I dont know the spawns in GD sorry, whats supposed to be there?'
+[Thu Nov 08 23:25:01 2001] Liilly says out of character, '36 druid LFG please'
+[Thu Nov 08 23:25:05 2001] You tell your party, 'all these mobs would be found beneath the world'
+[Thu Nov 08 23:25:20 2001] You tell your party, 'and they do not belong there.'
+[Thu Nov 08 23:25:38 2001] Antarg tells the group, 'creatures can attack from beneath the world? or only when they agro and then somehow make it below the world?'
+[Thu Nov 08 23:25:54 2001] You tell your party, 'they can attack from beneath the world'
+[Thu Nov 08 23:26:10 2001] Antarg tells the group, 'well thats fairly easy'
+[Thu Nov 08 23:26:20 2001] You tell your party, 'a hundred petitions about invisible monsters in DL and FoB would convince anyone :)'
+[Thu Nov 08 23:26:45 2001] Kedian tells the group, 'I think antarg and I have been on a few house cleaning sessions under fob'
+[Thu Nov 08 23:26:49 2001] Antarg tells the group, '/goto Elder shardwurm00-whatever until you end up below the world :)'
+[Thu Nov 08 23:27:10 2001] You were hit by non-melee for 93 dmg.
+[Thu Nov 08 23:27:10 2001] YOU were injured by falling.
+[Thu Nov 08 23:27:16 2001] Antarg tells the group, 'unless they are rare spawns, we /kill them on sight dont we?'
+[Thu Nov 08 23:27:17 2001] You tell your party, 'and then?'
+[Thu Nov 08 23:27:25 2001] You tell your party, 'so you would kill them?'
+[Thu Nov 08 23:27:29 2001] Kelcen shouts, 'wurms to thurg'
+[Thu Nov 08 23:27:35 2001] Antarg tells the group, 'yep...'
+[Thu Nov 08 23:28:11 2001] You tell your party, 'the shardwurm broodmother is a once a day spawn for the kromriff military leggins quest'
+[Thu Nov 08 23:28:21 2001] Antarg tells the group, 'as I said, I dunno the spawns and hope that I'm not expected to be since we arnt allowed over there :)'
+[Thu Nov 08 23:28:21 2001] You tell your party, 'we don't touch her - we get a GM for her - we can kill the elders.'
+[Thu Nov 08 23:29:13 2001] Antarg tells the group, 'ahh alright'
+[Thu Nov 08 23:29:13 2001] You tell your party, 'well it is expected we have a good knowledge of the zones on our own. Verant won't tell us the broodmum is a rare spawn.'
+[Thu Nov 08 23:29:30 2001] You tell your party, 'but they will let us know what we did wrong if we kill it.'
+[Thu Nov 08 23:29:48 2001] Antarg tells the group, 'fine line...'
+[Thu Nov 08 23:30:04 2001] Antarg tells the group, 'guess I'll start pulling maps :)'
+[Thu Nov 08 23:30:06 2001] Kedian tells the group, 'id be a little concerned about killing the ancients too...they drop spells and shardwum eyes (rare drop)..'
+[Thu Nov 08 23:30:08 2001] You tell your party, 'it's our job to learn all the monsters in all the zones.'
+[Thu Nov 08 23:30:20 2001] You tell your party, 'yeah, but they are bugged mobs <50, so we're allowed.'
+[Thu Nov 08 23:30:39 2001] You tell your party, 'for instance, tonight I found the dread widow beneath the world in DL.'
+[Thu Nov 08 23:30:40 2001] Antarg tells the group, 'so anything under 50 is usually fine?'
+[Thu Nov 08 23:30:48 2001] You tell your party, 'unless it's a quest mob'
+[Thu Nov 08 23:30:58 2001] You tell your party, 'if there's a question about it - ask.'
+[Thu Nov 08 23:31:08 2001] Antarg tells the group, 'actually, with track it should make it a bit easier'
+[Thu Nov 08 23:31:22 2001] You tell your party, 'the dread widow in DL is a rare spawn, so I esc'd it to Lirus to handle.'
+[Thu Nov 08 23:31:32 2001] You feel the spirit of Norrath enter you.
+[Thu Nov 08 23:31:54 2001] Antarg tells the group, 'so what do we do if these creatures are attacking players?'
+[Thu Nov 08 23:32:00 2001] Espranza saved.
+[Thu Nov 08 23:32:11 2001] You tell your party, 'leave the zone'
+[Thu Nov 08 23:32:20 2001] You tell your party, 'being killed by a monster is not a bug.'
+[Thu Nov 08 23:32:33 2001] You tell your party, 'but if you stick around people will tend to blame you.'
+[Thu Nov 08 23:33:08 2001] Antarg tells the group, 'I hope these are ment to be hard, other wise I'm totally lost :)'
+[Thu Nov 08 23:33:17 2001] You tell your party, 'yes these are meant to be hard!'
+[Thu Nov 08 23:33:23 2001] Kedian GMSAYS, 'Pulling metro'
+[Thu Nov 08 23:33:29 2001] You tell your party, 'these are the kinds of things we do every day though'
+[Thu Nov 08 23:33:32 2001] Antarg GMSAYS, 'bleh take it :)'
+[Thu Nov 08 23:33:48 2001] You were hit by non-melee for 76 dmg.
+[Thu Nov 08 23:33:48 2001] YOU were injured by falling.
+[Thu Nov 08 23:33:51 2001] You tell your party, 'the real test isn't this hard'
+[Thu Nov 08 23:34:31 2001] Antarg tells the group, 'in the real test, we wont be asked to reference the PnP by number will we?'
+[Thu Nov 08 23:34:40 2001] You tell your party, 'I never took the test'
+[Thu Nov 08 23:34:57 2001] Antarg tells the group, 'you were around before it?'
+[Thu Nov 08 23:34:59 2001] You tell your party, 'I kinda predated a lot of things'
+[Thu Nov 08 23:35:17 2001] Kedian tells the group, 'in otherwords...esp is OLD!  :p'
+[Thu Nov 08 23:35:24 2001] You tell your party, 'creeeak'
+[Thu Nov 08 23:35:51 2001] Kedian tells the group, 'need to see about getting her a wheelchair of guidance :)'
+[Thu Nov 08 23:36:09 2001] You tell your party, 'the first name approval screen comes up - a rogue wants the name wickeddagger. Approve or deny it?'
+[Thu Nov 08 23:36:22 2001] Antarg tells the group, 'deny...'
+[Thu Nov 08 23:36:25 2001] You tell your party, 'why?'
+[Thu Nov 08 23:36:36 2001] Antarg tells the group, 'two words, also isnt high fantasy'
+[Thu Nov 08 23:37:05 2001] You tell your party, 'two words isn't illegal - actually, descriptive first names are explicity allowed in first names and encouraged in last names.'
+[Thu Nov 08 23:37:45 2001] You tell your party, 'you should approve it.'
+[Thu Nov 08 23:38:11 2001] You tell your party, 'these are a lot harder than the ones I gave Kedian.'
+[Thu Nov 08 23:38:14 2001] You tell your party, 'Sorry...'
+[Thu Nov 08 23:38:21 2001] Antarg tells the group, 'no I apreciate it'
+[Thu Nov 08 23:38:32 2001] Antarg tells the group, 'as long as you dont think any less of me :)'
+[Thu Nov 08 23:38:36 2001] You tell your party, 'Not at all'
+[Thu Nov 08 23:38:53 2001] You tell your party, 'especially since I already filled out your appy eval form'
+[Thu Nov 08 23:38:53 2001] Antarg tells the group, 'naming policy has been giving me alot of problems actually'
+[Thu Nov 08 23:39:08 2001] You were hit by non-melee for 8 dmg.
+[Thu Nov 08 23:39:08 2001] YOU were injured by falling.
+[Thu Nov 08 23:39:21 2001] Antarg tells the group, 'I read it and read it, unfortunately I'm not a lawyer :)'
+[Thu Nov 08 23:39:29 2001] You tell your party, 'when in doubt, approve.'
+[Thu Nov 08 23:39:40 2001] Antarg tells the group, 'can always be fixed later...'
+[Thu Nov 08 23:40:23 2001] Antarg tells the group, 'we dont deny names that can potentially be used in combo with a surname to make vulgar sentances either right?'
+[Thu Nov 08 23:40:31 2001] You tell your party, 'a warrior petitions and says his kick skill has been stuck at 149 for five levels; EQ Stratics says his cap is 210. He thinks it's broken. What do you do?'
+[Thu Nov 08 23:40:48 2001] You tell your party, 'right, they have to actually choose the surname that makes it bad.'
+[Thu Nov 08 23:41:08 2001] Kedian GMSAYS, 'pullin paridox'
+[Thu Nov 08 23:41:20 2001] Antarg tells the group, 'has he been using kick for the last 5 levels? :)'
+[Thu Nov 08 23:41:31 2001] You tell your party, 'he uses it exclusively. he's a gnome.'
+[Thu Nov 08 23:41:58 2001] Antarg tells the group, 'gnome warrior... lol... but anyhow, I play a warrior, not noticed any limitations on kick...'
+[Thu Nov 08 23:42:06 2001] You tell your party, 'what level are you?'
+[Thu Nov 08 23:42:10 2001] Espranza saved.
+[Thu Nov 08 23:42:11 2001] Antarg tells the group, '30'
+[Thu Nov 08 23:42:14 2001] Kedian GMSAYS, '*whoot* 4days play time'
+[Thu Nov 08 23:42:19 2001] Antarg tells the group, 'havnt been checking really'
+[Thu Nov 08 23:42:21 2001] You GMSAY, 'grats :)'
+[Thu Nov 08 23:42:31 2001] You tell your party, 'well, how do you answer the petition, then?'
+[Thu Nov 08 23:42:36 2001] Antarg tells the group, 'it capped at 150 til 40 like rangers?'
+[Thu Nov 08 23:42:57 2001] Antarg tells the group, 'err rangers taunts'
+[Thu Nov 08 23:43:14 2001] You tell your party, 'it's capped at 149 until 51, when it rises to its new cap.'
+[Thu Nov 08 23:43:20 2001] Antarg tells the group, 'well, firstly I'd ask on /pr wether this is actually a feature or a bug'
+[Thu Nov 08 23:43:40 2001] You tell your party, 'it's as designed -- they're too low and have reached the pre-51 cap.'
+[Thu Nov 08 23:43:40 2001] Antarg tells the group, 'since I now know (some warrior I am :))'
+[Thu Nov 08 23:44:02 2001] Antarg tells the group, 'well that would consitute a spoiler'
+[Thu Nov 08 23:44:08 2001] You tell your party, 'would it?'
+[Thu Nov 08 23:44:21 2001] You were hit by non-melee for 164 dmg.
+[Thu Nov 08 23:44:21 2001] YOU were injured by falling.
+[Thu Nov 08 23:44:22 2001] Antarg tells the group, 'so tell the player it's working as intended and suggest he ask another warrior'
+[Thu Nov 08 23:44:29 2001] You tell your party, 'that's a good answer'
+[Thu Nov 08 23:44:37 2001] You were hit by non-melee for 111 dmg.
+[Thu Nov 08 23:44:37 2001] YOU were injured by falling.
+[Thu Nov 08 23:44:38 2001] You were hit by non-melee for 52 dmg.
+[Thu Nov 08 23:44:38 2001] YOU were injured by falling.
+[Thu Nov 08 23:44:39 2001] Kedian tells the group, 'hehe, I love it.."Its working as intended" :)'
+[Thu Nov 08 23:44:51 2001] You tell your party, 'right - NEVER use those particular words'
+[Thu Nov 08 23:45:08 2001] Antarg tells the group, 'hehehe, I know :)'
+[Thu Nov 08 23:45:27 2001] Antarg tells the group, 'it's as bad as saying "it's all in your head, shutup"'
+[Thu Nov 08 23:45:57 2001] You tell your party, 'how would you reset the merchant at the druid ring in West Commonlands?'
+[Thu Nov 08 23:46:06 2001] You tell your party, 'she's out of position and won't sell'
+[Thu Nov 08 23:46:17 2001] Antarg tells the group, 'WC?'
+[Thu Nov 08 23:46:21 2001] You tell your party, 'yeah'
+[Thu Nov 08 23:46:23 2001] Kedian tells the group, 'heh, did you guys read the patch message this morning? I was rolling in my chair laughing.."Monks can now train mend again"'
+[Thu Nov 08 23:46:35 2001] You tell your party, 'monks don't even use that'
+[Thu Nov 08 23:46:42 2001] You tell your party, 'they probably didn't even notice'
+[Thu Nov 08 23:46:59 2001] Kedian tells the group, 'mend? I use it all the time'
+[Thu Nov 08 23:47:02 2001] Antarg tells the group, 'hmm, well, the druids around it would be too low to agro on you, so, agro the merchant... pull it back into it's place and mem blur about 10 times'
+[Thu Nov 08 23:47:06 2001] You tell your party, 'I was kidding'
+[Thu Nov 08 23:47:10 2001] Kedian tells the group, 'haha, ok'
+[Thu Nov 08 23:47:12 2001] Kedian tells the group, 'doh'
+[Thu Nov 08 23:47:16 2001] You tell your party, 'how would you find the merchant?'
+[Thu Nov 08 23:48:03 2001] Antarg tells the group, 'well I know where the ring is, not sure on the name... I could run there, or I could ask the player "which merchant" without trying to find unknowledgable :)'
+[Thu Nov 08 23:48:20 2001] You tell your party, 'ask kedian what her name is :)'
+[Thu Nov 08 23:48:32 2001] Antarg tells the group, 'whats the tree huggers name?'
+[Thu Nov 08 23:48:42 2001] Kedian tells the group, 'and I can tell you since I have it written on my handy notes: Slea Pinewhisper'
+[Thu Nov 08 23:48:55 2001] You tell your party, 'so now how do you find her?'
+[Thu Nov 08 23:49:01 2001] Antarg tells the group, '/zone to WC'
+[Thu Nov 08 23:49:10 2001] Antarg tells the group, '/find Slea Pinewhisper'
+[Thu Nov 08 23:49:13 2001] Antarg tells the group, '/goto'
+[Thu Nov 08 23:49:24 2001] You no longer have a target.
+[Thu Nov 08 23:49:29 2001] Searching for a coldain tracking wolf.
+[Thu Nov 08 23:49:29 2001] Could not locate player with that name.
+[Thu Nov 08 23:49:49 2001] You tell your party, '/find slea_pinewhisper00'
+[Thu Nov 08 23:50:40 2001] Antarg tells the group, 'ahh alright'
+[Thu Nov 08 23:51:11 2001] You tell your party, 'what command would you use to zone to west karana?'
+[Thu Nov 08 23:52:20 2001] Espranza saved.
+[Thu Nov 08 23:52:22 2001] Antarg tells the group, '/zone qeyhh1?'
+[Thu Nov 08 23:52:29 2001] Antarg tells the group, 'somethin like that :)'
+[Thu Nov 08 23:52:41 2001] Players in EverQuest:
+[Thu Nov 08 23:52:41 2001] ---------------------------
+[Thu Nov 08 23:52:41 2001] [15 Necromancer] Waynewolf (Human) <Nectar of Isolation> ZONE: qey2hh1 (USER PID AXEQW1C)
+[Thu Nov 08 23:52:41 2001] [17 Ranger] Cono (Human) ZONE: qey2hh1 (USER PID A2F54Q4)
+[Thu Nov 08 23:52:41 2001] [30 Necromancer] Nianque (Dark Elf) <Enchanted Steel> ZONE: qey2hh1 (USER PID BXH8043)
+[Thu Nov 08 23:52:41 2001] [14 Druid] Singultus (Wood Elf) ZONE: qey2hh1 (USER PID D0HGTRP)
+[Thu Nov 08 23:52:41 2001] [ANON (35 Paladin)] Delimar (Human) ZONE: qey2hh1 (USER PID BZNN0L4)
+[Thu Nov 08 23:52:41 2001] [20 Rogue] Kallaorf (Barbarian) <Tuath na Sgiath> ZONE: qey2hh1 (USER PID FVS8SD1)
+[Thu Nov 08 23:52:41 2001] [17 Ranger] Brynden (Half Elf) <Utopian Guard> ZONE: qey2hh1 (USER PID B4FFYEM)
+[Thu Nov 08 23:52:41 2001] [18 Paladin] Raadian (Half Elf) ZONE: qey2hh1 (USER PID HUJMZX5)
+[Thu Nov 08 23:52:41 2001] [34 Necromancer] Sanlaenae (Dark Elf) <Enchanted Steel> ZONE: qey2hh1 (USER PID HZL1S74)
+[Thu Nov 08 23:52:41 2001] [ANON (19 Warrior)] Fairuza (Human) ZONE: qey2hh1 (USER PID EUF8RQS)
+[Thu Nov 08 23:52:41 2001] [13 Ranger] Shaladorn (Human) ZONE: qey2hh1 (USER PID AVLYT5D)
+[Thu Nov 08 23:52:41 2001] [ANON (17 Shaman)] Tokie (Barbarian) ZONE: qey2hh1 (USER PID C0YBYZ5)
+[Thu Nov 08 23:52:41 2001] There are 12 players in EverQuest.
+[Thu Nov 08 23:52:49 2001] You tell your party, '/zone qey2hh1'
+[Thu Nov 08 23:52:55 2001] Players in EverQuest:
+[Thu Nov 08 23:52:55 2001] ---------------------------
+[Thu Nov 08 23:52:55 2001] * Guide *[ANON (51 Pathfinder)] Dratier (Wood Elf) ZONE: ecommons (USER PID EU7FU02)
+[Thu Nov 08 23:52:55 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: greatdivide (USER PID AUGBQH4)
+[Thu Nov 08 23:52:55 2001] * Apprentice Guide *[20 Monk] Kedian (Human) ZONE: butcher (USER PID CPB01Y1)
+[Thu Nov 08 23:52:55 2001] * Apprentice Guide *[20 Ranger] Antarg (Half Elf) ZONE: butcher (USER PID FQ8BDYQ)
+[Thu Nov 08 23:52:55 2001] There are 4 players in EverQuest.
+[Thu Nov 08 23:53:07 2001] Antarg tells the group, 'geesh, I've failed nearly everyone :('
+[Thu Nov 08 23:53:22 2001] You tell your party, 'no you haven't'
+[Thu Nov 08 23:53:41 2001] You tell your party, 'but you could have looked that up in your P&P'
+[Thu Nov 08 23:54:00 2001] Antarg tells the group, 'hmm, I thought I had a time limit :)'
+[Thu Nov 08 23:54:09 2001] Antarg tells the group, 'I can do that :)'
+[Thu Nov 08 23:54:25 2001] You tell your party, 'there's always time to read the P&P!'
+[Thu Nov 08 23:54:37 2001] You tell your party, 'okay, let's try a couple more...'
+[Thu Nov 08 23:54:42 2001] Kelcen begins to cast a spell. (Circle of Cobalt Scar)
+[Thu Nov 08 23:55:31 2001] You tell your party, 'how do you zone to the safe point of the zone you're in?'
+[Thu Nov 08 23:56:05 2001] Antarg tells the group, 'just /zone as if you were zoning into the zone dont you?'
+[Thu Nov 08 23:56:23 2001] You tell your party, 'that USED to work, no longer does. I /zone to cshome and back.'
+[Thu Nov 08 23:56:26 2001] Antarg tells the group, 'or do you need to zone out and back in first?'
+[Thu Nov 08 23:56:29 2001] Antarg tells the group, 'okay'
+[Thu Nov 08 23:56:30 2001] You tell your party, 'right'
+[Thu Nov 08 23:56:47 2001] Antarg tells the group, 'question'
+[Thu Nov 08 23:56:49 2001] You tell your party, 'sure'
+[Thu Nov 08 23:56:59 2001] Antarg tells the group, 'why do we get items that procs CShome gate... when we can just /zone?'
+[Thu Nov 08 23:57:12 2001] Kedian tells the group, 'good question, ive wondered that myself'
+[Thu Nov 08 23:57:24 2001] You tell your party, 'the belt gives the gate effect, it looks cooler'
+[Thu Nov 08 23:57:51 2001] You tell your party, 'I use it when I don't want to set up a Spirit of Z zone'
+[Thu Nov 08 23:58:16 2001] You tell your party, 'all our other teleport items just gate to bind'
+[Thu Nov 08 23:58:47 2001] Antarg tells the group, 'how you get up there? safe fall?'
+[Thu Nov 08 23:59:09 2001] Kedian tells the group, 'might be a good idea to bind at teh zone-in if your going to be summoning ppl/corpses to the zone-in'
+[Thu Nov 08 23:59:31 2001] Antarg tells the group, 'that could work...'
+[Thu Nov 08 23:59:44 2001] Antarg tells the group, 'sometimes it's not good though'
+[Fri Nov 09 00:00:00 2001] Kedian tells the group, 'why? its less typing, and no loading time'
+[Fri Nov 09 00:00:10 2001] Antarg tells the group, 'like if your in a CS restricted zone, where mobs cast huge AE's? you could get yourself in a bind death loop'
+[Fri Nov 09 00:00:39 2001] You tell your party, 'never bind yourself in a CSR zone'
+[Fri Nov 09 00:00:43 2001] Rosebird has emerged victorious in a duel to the death!
+[Fri Nov 09 00:00:52 2001] Kedian tells the group, 'I dont think those are bindable zones'
+[Fri Nov 09 00:00:55 2001] Antarg tells the group, 'my point :)'
+[Fri Nov 09 00:01:31 2001] You tell your party, 'you can bind in Fear'
+[Fri Nov 09 00:01:35 2001] You tell your party, 'doesn't mean you should'
+[Fri Nov 09 00:01:56 2001] Antarg tells the group, 'this upcoming test is scaring the hell outta me :)'
+[Fri Nov 09 00:02:07 2001] Antarg tells the group, 'we get second chances right?'
+[Fri Nov 09 00:02:17 2001] You tell your party, 'oh dear, Antarg'
+[Fri Nov 09 00:02:25 2001] You tell your party, 'the test is not this hard'
+[Fri Nov 09 00:02:30 2001] Espranza saved.
+[Fri Nov 09 00:02:34 2001] You tell your party, 'keep the P&P by your side and you'll pass easily'
+[Fri Nov 09 00:02:45 2001] Antarg tells the group, 'alright, thanks :)'
+[Fri Nov 09 00:03:01 2001] It begins to snow.
+[Fri Nov 09 00:03:06 2001] Antarg tells the group, 'so the test allows us time to review the P&P?'
+[Fri Nov 09 00:03:57 2001] Kedian tells the group, 'I have a question...on the guide board they mentioned a tool 'vmon' said it wasnt working...now its working again, what is 'vmon'?'
+[Fri Nov 09 00:04:13 2001] You tell your party, 'yes you can read the P&P'
+[Fri Nov 09 00:04:22 2001] You tell your party, 'Vmon is a senior+ - only application'
+[Fri Nov 09 00:04:33 2001] You tell your party, 'it monitors the queue from outside the game'
+[Fri Nov 09 00:04:34 2001] Antarg tells the group, 'whats it do? or not allowed to tell us?'
+[Fri Nov 09 00:04:39 2001] Antarg tells the group, 'cool :)'
+[Fri Nov 09 00:05:00 2001] Kedian tells the group, 'hrmm, thats neat...so they can leave it running in the background and login if things get out of control'
+[Fri Nov 09 00:05:01 2001] You tell your party, 'you can hear about senior tools if you like...!'
+[Fri Nov 09 00:05:10 2001] You tell your party, 'yup, that's why they have it'
+[Fri Nov 09 00:05:18 2001] Antarg tells the group, 'what other tools they have?'
+[Fri Nov 09 00:05:27 2001] Sairus begins to cast a spell. (Invigorate)
+[Fri Nov 09 00:05:50 2001] You tell your party, 'they have a different look to the guide boards than guides- do'
+[Fri Nov 09 00:05:59 2001] You tell your party, 'one that allows them many more options'
+[Fri Nov 09 00:06:11 2001] Antarg tells the group, 'those boards are pretty bad :)'
+[Fri Nov 09 00:06:32 2001] Antarg tells the group, 'new ones look much better though'
+[Fri Nov 09 00:06:50 2001] Kedian tells the group, 'do you know of a way to change the password to your guide board account?  they gave me a crazy one and id like to have it set to one I can remember'
+[Fri Nov 09 00:06:58 2001] Antarg tells the group, 'ditto'
+[Fri Nov 09 00:07:00 2001] You tell your party, 'no, it cannot be changed'
+[Fri Nov 09 00:07:04 2001] You tell your party, 'learn to love it'
+[Fri Nov 09 00:07:21 2001] Antarg tells the group, 'I only ever saw it once as I copyed and pasted it :)'
+[Fri Nov 09 00:07:29 2001] You feel the spirit of Norrath enter you.
+[Fri Nov 09 00:07:47 2001] Kedian tells the group, 'same here...I kept the email though, incase I reformat (which I do alot)'
+[Fri Nov 09 00:07:47 2001] Antarg tells the group, 'and why are the boards on HTTPS? are we REALLY that paranoid? :)'
+[Fri Nov 09 00:07:55 2001] You tell your party, 'they've been hacked'
+[Fri Nov 09 00:08:10 2001] You tell your party, 'so yeah - they don't want that to happen again'
+[Fri Nov 09 00:08:11 2001] Antarg tells the group, 'jebus... some people need a life :)'
+[Fri Nov 09 00:08:25 2001] Antarg GMSAYS, 'pulling Tryn'
+[Fri Nov 09 00:08:30 2001] Players in EverQuest:
+[Fri Nov 09 00:08:30 2001] ---------------------------
+[Fri Nov 09 00:08:30 2001] * Guide *[50 Ranger] Dratier (Wood Elf) <Keepers of Dreams> ZONE: ecommons (USER PID EU7FU02)
+[Fri Nov 09 00:08:30 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: greatdivide (USER PID AUGBQH4)
+[Fri Nov 09 00:08:30 2001] * Apprentice Guide *[20 Monk] Kedian (Human) ZONE: butcher (USER PID CPB01Y1)
+[Fri Nov 09 00:08:30 2001] * Apprentice Guide *[20 Ranger] Antarg (Half Elf) ZONE: butcher (USER PID FQ8BDYQ)
+[Fri Nov 09 00:08:30 2001] There are 4 players in EverQuest.
+[Fri Nov 09 00:08:35 2001] It is 6 AM on Wednesday, the 4th day of June, of the year 3216.
+[Fri Nov 09 00:08:35 2001] Earth Time: Fri Nov 09 00:08:35 2001
+[Fri Nov 09 00:08:57 2001] You tell your party, 'Antarg, you'll easily pass the test. Don't worry about it.'
+[Fri Nov 09 00:09:18 2001] You tell your party, 'I really just wanted to show you and Kedian the kind of things full guides face.'
+[Fri Nov 09 00:09:20 2001] Antarg tells the group, 'thanks, I get nervous when I really wanna do something :)'
+[Fri Nov 09 00:09:51 2001] You tell your party, 'you should have known the proper format for the /find command - I would review those.'
+[Fri Nov 09 00:10:06 2001] Syrason says out of character, 'anyone know what loc is tizmaks camp plz?'
+[Fri Nov 09 00:10:35 2001] Antarg GMSAYS, 'any known problem with corpses getting stuck and unpullable with LD deaths?'
+[Fri Nov 09 00:10:56 2001] You GMSAY, 'maybe - have puller and pullee camp to desktop and come back'
+[Fri Nov 09 00:10:58 2001] You were hit by non-melee for 20 dmg.
+[Fri Nov 09 00:10:58 2001] YOU were injured by falling.
+[Fri Nov 09 00:12:40 2001] Espranza saved.
+[Fri Nov 09 00:13:23 2001] Dratier GMSAYS, 'Arggg, Went LD'
+[Fri Nov 09 00:13:32 2001] You were hit by non-melee for 109 dmg.
+[Fri Nov 09 00:13:32 2001] YOU were injured by falling.
+[Fri Nov 09 00:13:34 2001] You GMSAY, 'yuk!'
+[Fri Nov 09 00:13:47 2001] Antarg tells the group, 'lol :)'
+[Fri Nov 09 00:16:20 2001] Antarg tells the group, 'we're encouraged to try to cheer up the petitionees by telling them you've been in similar situations to them right?'
+[Fri Nov 09 00:16:33 2001] Antarg tells the group, 'petitioners'
+[Fri Nov 09 00:16:38 2001] Snakae says out of character, 'the things i do to practice archery'
+[Fri Nov 09 00:17:09 2001] Cremator shouts, 'train'
+[Fri Nov 09 00:17:29 2001] Antarg tells the group, 'as long as it's not complaining about Varent or Sony in anyway :)'
+[Fri Nov 09 00:17:48 2001] Fenari says out of character, '48 chanter LFG'
+[Fri Nov 09 00:17:59 2001] You tell your party, 'sure'
+[Fri Nov 09 00:18:12 2001] You tell your party, 'anything to make the players feel good and that we're trying our best to help them'
+[Fri Nov 09 00:18:22 2001] Antarg tells the group, 'and that we understand'
+[Fri Nov 09 00:18:35 2001] You tell your party, 'we're players first, guides second'
+[Fri Nov 09 00:18:35 2001] Dratier GMSAYS, 'zoing'
+[Fri Nov 09 00:18:45 2001] You tell your party, 'always look at things from the player side'
+[Fri Nov 09 00:18:47 2001] Antarg tells the group, 'alot of players dont know that :)'
+[Fri Nov 09 00:18:51 2001] You tell your party, 'but follow our procedure'
+[Fri Nov 09 00:19:02 2001] You tell your party, 'and when they do, they treat us better'
+[Fri Nov 09 00:19:05 2001] You tell your party, 'usually'
+[Fri Nov 09 00:19:17 2001] Antarg tells the group, 'yeah, I've found that'
+[Fri Nov 09 00:19:48 2001] Kedian tells the group, 'sometimes we have to do things that as a player, I would be really upset about..'
+[Fri Nov 09 00:19:51 2001] Antarg tells the group, 'I reckon, we should restrict EQ to people who have worked on tech support help lines... we'd have the best customers :)'
+[Fri Nov 09 00:20:19 2001] You tell your party, 'they would hardly ever petition'
+[Fri Nov 09 00:20:27 2001] You tell your party, 'most petitions are for things players could handle.'
+[Fri Nov 09 00:20:28 2001] Kedian GMSAYS, 'Pulling Gaiasis'
+[Fri Nov 09 00:21:02 2001] It is 10 AM on Wednesday, the 4th day of June, of the year 3216.
+[Fri Nov 09 00:21:02 2001] Earth Time: Fri Nov 09 00:21:02 2001
+[Fri Nov 09 00:21:11 2001] You GMSAY, 'zone'
+[Fri Nov 09 00:21:17 2001] You begin casting Sunset Home. (Sunset Home)
+[Fri Nov 09 00:21:17 2001] Your Belt of Translocation begins to glow.
+[Fri Nov 09 00:21:18 2001] LOADING, PLEASE WAIT...
+[Fri Nov 09 00:21:37 2001] You have entered Sunset Home.
+[Fri Nov 09 00:21:38 2001] You have formed the group.
+[Fri Nov 09 00:22:32 2001] Dratier GMSAYS, 'zoning a/i'
+[Fri Nov 09 00:23:01 2001] You tell your party, 'when you make full guide, what's the first thing you're gonna do?'
+[Fri Nov 09 00:23:12 2001] You tell your party, 'or first place you go'
+[Fri Nov 09 00:23:21 2001] Antarg tells the group, 'first thing I'm gonna do? wait for a yellow pet to fix :)'
+[Fri Nov 09 00:23:39 2001] Antarg GMSAYS, 'deleting Tryn, too lazy to camp to desktop so he got a rez :)'
+[Fri Nov 09 00:23:39 2001] Kedian tells the group, 'Well, we should allready be in cshome, lirus will hand us a note and we go turn it into the quarter master'
+[Fri Nov 09 00:24:07 2001] You tell your party, 'no no... is there any zone you've been dying to explore?'
+[Fri Nov 09 00:24:58 2001] Kedian tells the group, 'DN is basicly the only place I haven't been thats not CSR'
+[Fri Nov 09 00:25:02 2001] Antarg tells the group, 'probably Kael :)'
+[Fri Nov 09 00:25:18 2001] You tell your party, 'I'
+[Fri Nov 09 00:25:19 2001] Antarg tells the group, 'I like Giants :)'
+[Fri Nov 09 00:25:29 2001] You tell your party, 'I've thoroughly explored DN :)'
+[Fri Nov 09 00:25:39 2001] You tell your party, 'AND Kael'
+[Fri Nov 09 00:25:49 2001] Players in EverQuest:
+[Fri Nov 09 00:25:49 2001] ---------------------------
+[Fri Nov 09 00:25:49 2001] * Guide *[ANON (51 Pathfinder)] Dratier (Wood Elf) ZONE: karnor (USER PID EU7FU02)
+[Fri Nov 09 00:25:49 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Fri Nov 09 00:25:49 2001] * Apprentice Guide *[20 Monk] Kedian (Human) ZONE: butcher (USER PID CPB01Y1)
+[Fri Nov 09 00:25:49 2001] * Apprentice Guide *[20 Ranger] Antarg (Half Elf) ZONE: butcher (USER PID FQ8BDYQ)
+[Fri Nov 09 00:25:49 2001] There are 4 players in EverQuest.
+[Fri Nov 09 00:25:53 2001] Antarg tells the group, 'might sound a bit boring'
+[Fri Nov 09 00:25:59 2001] Kedian tells the group, 'ive been in there once, it was a mess...our (only) cleric died like 5 times...most of it was trying to get back to Dn cuz you cant bind in there'
+[Fri Nov 09 00:26:00 2001] Antarg tells the group, 'but my main is KoS in Kael :)'
+[Fri Nov 09 00:26:13 2001] You tell your party, 'you can bind outside'
+[Fri Nov 09 00:26:21 2001] You tell your party, 'which is okay unless you're KOS to dragons'
+[Fri Nov 09 00:26:27 2001] Kedian tells the group, 'well, theres those crazy wolves out there'
+[Fri Nov 09 00:26:38 2001] You tell your party, 'there are dangers. true'
+[Fri Nov 09 00:27:01 2001] Antarg tells the group, 'they the dread wolves or somethin like that? got chased while running to Thurg the otherday'
+[Fri Nov 09 00:27:04 2001] Mombbing tells you, 'My name is changed. My name is Mombbang. but now mombbing. Why my name is changed?'
+[Fri Nov 09 00:27:20 2001] You told Mombbing, 'who changed it?'
+[Fri Nov 09 00:27:29 2001] Players in EverQuest:
+[Fri Nov 09 00:27:29 2001] ---------------------------
+[Fri Nov 09 00:27:29 2001] [57 Myrmidon] Mombbing (Barbarian) <Celestial Sphere> ZONE: velketor (USER PID DXJLX1F)
+[Fri Nov 09 00:27:29 2001] There is 1 player in EverQuest.
+[Fri Nov 09 00:27:35 2001] Antarg tells the group, 'BTW, Royal Frosted Velium armor is cool :)'
+[Fri Nov 09 00:27:39 2001] Mombbing tells you, 'Maybe Lirus'
+[Fri Nov 09 00:28:22 2001] Antarg tells the group, 'I just wish something I could use would drop :)'
+[Fri Nov 09 00:28:43 2001] You told Mombbing, 'Lirus changed your name because it sounded obscene. You may petition for a new name of your choosing when Lirus is on - Thursday through Monday, 3pm to 11pm Pacific time.'
+[Fri Nov 09 00:28:45 2001] Antarg tells the group, 'always dropping gaunts, and I am -NOT- gonna replace my Silver Chitin Handwraps with them :)'
+[Fri Nov 09 00:28:54 2001] Dratier GMSAYS, 'Unanon now'
+[Fri Nov 09 00:29:14 2001] Saving soulmark information to server.
+[Fri Nov 09 00:30:18 2001] Antarg GMSAYS, 'found an error in PnP appendix D, The following are the EQ and real names of some people you may encounter:'
+[Fri Nov 09 00:30:29 2001] Antarg GMSAYS, 'Aradune - Brad McQuaid'
+[Fri Nov 09 00:30:34 2001] Antarg GMSAYS, 'he left last month :)'
+[Fri Nov 09 00:30:53 2001] You GMSAY, 'or was encouraged to leave. how do you report errors in the P&P?'
+[Fri Nov 09 00:31:29 2001] Dratier GMSAYS, 'Hmm, I am not sure who you report PnP errors to'
+[Fri Nov 09 00:31:32 2001] Antarg GMSAYS, 'policies-varent@soe.sony.com'
+[Fri Nov 09 00:31:43 2001] Kedian tells the group, '"or was encouraged to leave...", sounds like esp might have the inside story..'
+[Fri Nov 09 00:31:44 2001] Espranza saved.
+[Fri Nov 09 00:32:26 2001] You tell your party, 'it's all just rumors, I won't be responsible for spreadig them'
+[Fri Nov 09 00:32:32 2001] Kedian tells the group, 'ahh, ok'
+[Fri Nov 09 00:33:16 2001] You tell your party, 'before Faydwer existed, where did newbie dwarves start?'
+[Fri Nov 09 00:33:17 2001] Antarg tells the group, 'okay, I've split the zone listing from my PnP printout.. gonna pin them on the corkboard behind my monitor'
+[Fri Nov 09 00:33:37 2001] Dratier GMSAYS, 'zoning'
+[Fri Nov 09 00:33:55 2001] Kedian tells the group, 'hehe, thats pre-release...no fair :p'
+[Fri Nov 09 00:33:57 2001] Antarg tells the group, 'no clue on that one...'
+[Fri Nov 09 00:34:00 2001] You tell your party, 'heh'
+[Fri Nov 09 00:34:05 2001] You tell your party, 'rivervale'
+[Fri Nov 09 00:34:15 2001] You tell your party, 'I doubt that'll be asked'
+[Fri Nov 09 00:34:16 2001] Kedian tells the group, 'eww...no wonder they moved :p'
+[Fri Nov 09 00:34:19 2001] Antarg tells the group, 'shoulda known, all the inbred races spawn there :)'
+[Fri Nov 09 00:34:23 2001] You tell your party, 'HEY'
+[Fri Nov 09 00:34:30 2001] Antarg tells the group, 'oops ;)'
+[Fri Nov 09 00:34:46 2001] You tell your party, 'Dear Seniors, I'd like to retract my appy evals for Kedian and Antarg....'
+[Fri Nov 09 00:34:53 2001] Kedian tells the group, 'lol'
+[Fri Nov 09 00:35:10 2001] You tell your party, 'what are the duties of a guide?'
+[Fri Nov 09 00:35:31 2001] Antarg tells the group, 'to uphold the spirit of the PnP!'
+[Fri Nov 09 00:35:38 2001] Mombbing tells you, 'Hmm Lirus changed my named with back my items. I no heard from him  when i met him'
+[Fri Nov 09 00:35:57 2001] Mombbing tells you, 'Obscane <-- no heard from him'
+[Fri Nov 09 00:36:00 2001] You told Mombbing, 'he left a note on your account, saying you can get a new name'
+[Fri Nov 09 00:36:13 2001] Kedian tells the group, 'first is to respond to petitions in the queue, participate in answer circles, participate in dynamic quests and contribute to the guide boards'
+[Fri Nov 09 00:36:23 2001] Kedian tells the group, 'which reminds me, we haven't had an answer circle yet..'
+[Fri Nov 09 00:36:29 2001] Antarg tells the group, 'ditto'
+[Fri Nov 09 00:36:47 2001] You tell your party, 'mentor apprentices, post shift reports covering all we do...'
+[Fri Nov 09 00:36:48 2001] Mombbing tells you, 'i saying want new name? or Lirus saying that?'
+[Fri Nov 09 00:37:09 2001] You told Mombbing, 'Lirus said, you can petition him for a new name if you dont wish to keep Mombbing.'
+[Fri Nov 09 00:37:12 2001] Falkos tells you, 'do you know if the ability to play as monsters on pvp servers is up again?'
+[Fri Nov 09 00:37:26 2001] You told Falkos, 'I didn't know it was taken down!'
+[Fri Nov 09 00:37:37 2001] Falkos tells you, 'heh, yea, like from the get go'
+[Fri Nov 09 00:37:39 2001] You tell your party, 'I did an answer circle in Rivervale this evening'
+[Fri Nov 09 00:37:51 2001] You told Falkos, 'I know a lot of people who were using it'
+[Fri Nov 09 00:37:53 2001] Kedian tells the group, 'and you didnt invite us?'
+[Fri Nov 09 00:38:03 2001] You tell your party, 'make your own answer circle!'
+[Fri Nov 09 00:38:04 2001] Falkos tells you, 'so the button is on the char select screen?'
+[Fri Nov 09 00:38:27 2001] You told Falkos, 'I believe so - haven't yet done it myself.'
+[Fri Nov 09 00:38:37 2001] Antarg tells the group, 'can we get a summon to qeynos south then? :)'
+[Fri Nov 09 00:38:38 2001] Falkos tells you, 'ok thanks, i'll have to go try it out'
+[Fri Nov 09 00:38:52 2001] You told Falkos, 'people have been havng fun with it'
+[Fri Nov 09 00:38:58 2001] Kedian tells the group, 'well, I did answer a few questions from players in rivervale earler while waiting for lirus to arive...dont know if thats an "answer circle" though'
+[Fri Nov 09 00:39:04 2001] You tell your party, 'it is'
+[Fri Nov 09 00:39:16 2001] Falkos tells you, 'sounds like alot of fun, a VERY good way to make Artificial Intelligence'
+[Fri Nov 09 00:39:21 2001] Antarg tells the group, 'oh well, then I have participated in one :)'
+[Fri Nov 09 00:39:21 2001] You tell your party, 'any time where you're interacting with people is'
+[Fri Nov 09 00:39:30 2001] You told Falkos, 'yeah, but the MPCs start hunting each other'
+[Fri Nov 09 00:39:36 2001] Falkos tells you, 'heh'
+[Fri Nov 09 00:40:19 2001] Antarg tells the group, 'I seriously need to study my P&P again'
+[Fri Nov 09 00:40:23 2001] You tell your party, 'I suppose it CAN be like, "Hail all within the sound of my voice, gather ye for a tale from the home of the gods!'
+[Fri Nov 09 00:40:29 2001] You tell your party, 'but I never see that'
+[Fri Nov 09 00:40:42 2001] You tell your party, 'I just go up to people and start talking to them'
+[Fri Nov 09 00:41:18 2001] Antarg tells the group, 'a player asked me how I got up somewhere earlier, I told 'em I flew :)'
+[Fri Nov 09 00:41:29 2001] Kedian tells the group, 'its easier for ppl to pay attention to you too...no one notices me except for a few people who see the green name'
+[Fri Nov 09 00:41:35 2001] Antarg tells the group, 'AvatarKnockback :)'
+[Fri Nov 09 00:41:37 2001] You tell your party, 'Antarg Twinkletoes'
+[Fri Nov 09 00:41:54 2001] Espranza saved.
+[Fri Nov 09 00:41:59 2001] Antarg tells the group, 'any idea what my title will be? :)'
+[Fri Nov 09 00:42:12 2001] Antarg tells the group, 'I'll probably wind up with 'Antarg the Nervous"'
+[Fri Nov 09 00:42:13 2001] You tell your party, 'unfortunately, you will be able to choose your own title'
+[Fri Nov 09 00:42:25 2001] Antarg tells the group, 'but thats no fun'
+[Fri Nov 09 00:42:27 2001] You tell your party, 'well fortunately for you, maybe'
+[Fri Nov 09 00:42:35 2001] Kedian tells the group, 'I can't think of a real good title'
+[Fri Nov 09 00:42:37 2001] Antarg tells the group, 'I want to be given one :)'
+[Fri Nov 09 00:42:44 2001] You tell your party, 'I don't have a title'
+[Fri Nov 09 00:42:53 2001] Antarg tells the group, 'ooh'
+[Fri Nov 09 00:43:03 2001] Kedian tells the group, 'Kedian the Titleless'
+[Fri Nov 09 00:43:04 2001] You tell your party, 'I used to be "the Innocent" and then "the Hopeless" but now I just do without one'
+[Fri Nov 09 00:43:08 2001] Antarg tells the group, 'hows "Antarg the ambitious"? spelled correctly ofcourse'
+[Fri Nov 09 00:43:18 2001] You tell your party, 'that's correctly spelled'
+[Fri Nov 09 00:43:41 2001] You feel the spirit of Norrath enter you.
+[Fri Nov 09 00:43:53 2001] You tell your party, 'Kedian the Kind, Antarg the Angry'
+[Fri Nov 09 00:43:58 2001] Antarg tells the group, 'sorry, America's lack of 'u' always confuses me :)'
+[Fri Nov 09 00:44:00 2001] You tell your party, 'I like alliteration'
+[Fri Nov 09 00:44:16 2001] You tell your party, 'why use colour when color is clear?'
+[Fri Nov 09 00:44:39 2001] Antarg tells the group, 'coz I was taught to spell it colour :)'
+[Fri Nov 09 00:44:48 2001] Kedian tells the group, 'bah, is it store or stow?'
+[Fri Nov 09 00:45:08 2001] Kedian tells the group, 'I ate breakfast vs I breakfasted'
+[Fri Nov 09 00:45:13 2001] You tell your party, 'yeah well, you're all clinging to the bottom of the world for dear life, we can forgive you your errours.'
+[Fri Nov 09 00:45:23 2001] Kedian tells the group, 'LOL'
+[Fri Nov 09 00:45:32 2001] Antarg tells the group, 'I truely hate my country :)'
+[Fri Nov 09 00:45:34 2001] Antarg tells the group, 'but dont tell Trikk I said that'
+[Fri Nov 09 00:45:41 2001] You tell your party, 'I wouldn't dare'
+[Fri Nov 09 00:45:52 2001] You tell your party, 'stow is a nautical term'
+[Fri Nov 09 00:46:11 2001] Antarg tells the group, 'if you'll excuse the language... the bastards are trying to make me pay $400/month for internet access'
+[Fri Nov 09 00:46:11 2001] You tell your party, 'breakfasted implies a more ritualistic meal'
+[Fri Nov 09 00:46:32 2001] Antarg tells the group, 'breakfasted... sounds like you broke a fast :)'
+[Fri Nov 09 00:46:45 2001] You tell your party, 'um... that IS the origin of the word...'
+[Fri Nov 09 00:46:48 2001] Kedian tells the group, 'or implies your british (or some derevation there of)'
+[Fri Nov 09 00:46:55 2001] Antarg tells the group, 'oh right'
+[Fri Nov 09 00:47:03 2001] You tell your party, 'breakfasted - like lunched - is a neologism'
+[Fri Nov 09 00:47:10 2001] You tell your party, 'ate breakfast is more correct'
+[Fri Nov 09 00:47:39 2001] Antarg tells the group, 'like I ate more of, instead of I ate morer'
+[Fri Nov 09 00:47:54 2001] You tell your party, 'well, morer isn't a word.'
+[Fri Nov 09 00:47:58 2001] Kedian tells the group, 'you speak more goodly now'
+[Fri Nov 09 00:48:02 2001] Antarg tells the group, 'exactly :)'
+[Fri Nov 09 00:48:15 2001] You tell your party, 'don't verb nouns'
+[Fri Nov 09 00:48:37 2001] Antarg tells the group, 'I flunked 3rd grade english :)'
+[Fri Nov 09 00:48:44 2001] You tell your party, 'I hate my language'
+[Fri Nov 09 00:48:57 2001] Antarg tells the group, 'dropped out of the 4th grade :) seriously, I havnt been to school since year 4'
+[Fri Nov 09 00:49:02 2001] Antarg tells the group, 'didnt hurt me none :)'
+[Fri Nov 09 00:49:05 2001] You tell your party, 'I thought I could learn Japanese and be free... but no. Japanese borrows heavily from English.'
+[Fri Nov 09 00:49:27 2001] Taru tells you, 'can i ask you a rogue question'
+[Fri Nov 09 00:49:32 2001] Kedian tells the group, 'yes, but that you can blame on the british...'
+[Fri Nov 09 00:49:56 2001] Antarg tells the group, 'I learned Klingon, coz I'm a freak :)'
+[Fri Nov 09 00:49:57 2001] You told Taru, 'if it doesn't give away any trade secrets ... :)'
+[Fri Nov 09 00:50:20 2001] You tell your party, 'Oh that's quite *cough*geek*cough* interesting!'
+[Fri Nov 09 00:50:22 2001] Taru tells you, 'nope i wanted to know if i can wear studded or reinforced leather'
+[Fri Nov 09 00:50:29 2001] Kedian tells the group, 'I took german class, cuz everyone else took spanish'
+[Fri Nov 09 00:50:30 2001] Antarg tells the group, 'my main aim in life... to save enough money for ridge implants ;)'
+[Fri Nov 09 00:50:43 2001] Antarg GMSAYS, 'pulling Nuumen'
+[Fri Nov 09 00:51:20 2001] Mombbing tells you, 'Only Lirus can change name?'
+[Fri Nov 09 00:51:29 2001] You told Taru, 'we're chain classes, we can wear anything short of plate.'
+[Fri Nov 09 00:51:33 2001] Antarg tells the group, 'whats the proceedure for using the Paineel key? put it on the cursor, mouse over the rock and press u right?'
+[Fri Nov 09 00:51:40 2001] You tell your party, 'yup.'
+[Fri Nov 09 00:51:42 2001] Kedian tells the group, 'yeah'
+[Fri Nov 09 00:51:46 2001] You told Mombbing, 'Lirus, or a senior guide.'
+[Fri Nov 09 00:51:58 2001] Mombbing tells you, 'ok )'
+[Fri Nov 09 00:52:04 2001] Espranza saved.
+[Fri Nov 09 00:52:10 2001] Kedian tells the group, 'I wouldnt mind also exploring the hole'
+[Fri Nov 09 00:52:24 2001] You tell your party, 'I took German because I lived in a French Canadian village and everyone else was taking French.'
+[Fri Nov 09 00:52:25 2001] Antarg tells the group, 'yeah, never been to the hole'
+[Fri Nov 09 00:52:37 2001] You tell your party, 'I should have taken French.'
+[Fri Nov 09 00:52:55 2001] Taru tells you, 'one more thing i have been bugging this guy in kaladim about mudtoes  i can't seem to figure it out '
+[Fri Nov 09 00:53:05 2001] Antarg GMSAYS, 'deleting Nuumen, resolved :)'
+[Fri Nov 09 00:53:35 2001] You told Taru, 'ah, quests and such are things you will have to discover on your own or by asking other players. I have pledged to keep my knowledge of such things secret.'
+[Fri Nov 09 00:53:36 2001] Kedian tells the group, 'not to poke fun, but the french language uses nasal passages for alot of the noises...so when somone speaks in french they use their whole face to speak, not just their mouth...'
+[Fri Nov 09 00:53:43 2001] Taru tells you, 'i hvae tried everything'
+[Fri Nov 09 00:54:08 2001] Taru tells you, 'not even a clue'
+[Fri Nov 09 00:54:39 2001] Antarg tells the group, 'I got stuck with a french pet last night... I ended up getting very creative :)'
+[Fri Nov 09 00:55:19 2001] Kedian tells the group, 'how many years of German did you take, esp?'
+[Fri Nov 09 00:55:50 2001] You tell your party, 'ich hat drei Jahren Deutsch studieren'
+[Fri Nov 09 00:56:16 2001] You told Taru, 'You will have to ask another, I'm afraid...'
+[Fri Nov 09 00:56:23 2001] Dratier GMSAYS, 'Ok, I am out of here for the night'
+[Fri Nov 09 00:56:25 2001] Taru tells you, 'np thanks'
+[Fri Nov 09 00:56:27 2001] Antarg tells the group, 'question, will we get in trouble if we're discuss our play chars with a SWAT person and then find out they are from our play server?'
+[Fri Nov 09 00:56:29 2001] You told Taru, 'be well!'
+[Fri Nov 09 00:56:31 2001] Antarg GMSAYS, 'later Dratier'
+[Fri Nov 09 00:56:34 2001] Taru tells you, 'you too'
+[Fri Nov 09 00:56:43 2001] You tell your party, 'only discuss your play characters and server with MT guides'
+[Fri Nov 09 00:56:55 2001] Antarg tells the group, 'alrighty'
+[Fri Nov 09 00:56:59 2001] You tell your party, 'so - don't talk about them with SWAT or QT or visiting GMs...'
+[Fri Nov 09 00:57:11 2001] Kedian tells the group, 'not too bad, I only had 2 years...but spent some time as an exchange student'
+[Fri Nov 09 00:57:11 2001] You GMSAY, 'Bye, Drats!'
+[Fri Nov 09 00:57:23 2001] Antarg tells the group, 'Ich Trofe!'
+[Fri Nov 09 00:57:24 2001] You tell your party, 'that counts for a lot more than school learning does'
+[Fri Nov 09 00:57:46 2001] Kedian tells the group, 'hehe, yeah...one of the former GMs from my play server stoped by the other day..'
+[Fri Nov 09 00:57:58 2001] Antarg tells the group, 'Dey?'
+[Fri Nov 09 00:58:33 2001] Kedian tells the group, 'and lili from teh training session is a sr on my play server'
+[Fri Nov 09 00:58:33 2001] Antarg tells the group, 'do GM's get promotions too? like a GM-Admin become a GM-Lead?'
+[Fri Nov 09 00:58:49 2001] You tell your party, 'sure they get promotions... like any other paying job'
+[Fri Nov 09 00:59:05 2001] Antarg tells the group, 'sorry, never had a paying job :)'
+[Fri Nov 09 00:59:10 2001] Antarg tells the group, 'well thats a lie'
+[Fri Nov 09 00:59:22 2001] Kedian tells the group, 'what? payed jobs get promoted??....I'll have to talk to my boss about this..'
+[Fri Nov 09 00:59:31 2001] Antarg tells the group, 'I do webpages for people... but thats more of a self employed thing :)'
+[Fri Nov 09 00:59:46 2001] Kedian tells the group, 'hehe, whatta know..I do web pages for ppl too :)'
+[Fri Nov 09 00:59:51 2001] Antarg tells the group, 'cant complain about $60-$90/hour :)'
+[Fri Nov 09 01:00:06 2001] You tell your party, '40 hours a week, every week?'
+[Fri Nov 09 01:00:17 2001] Antarg tells the group, 'no'
+[Fri Nov 09 01:00:22 2001] Antarg tells the group, 'only when I'm actually working'
+[Fri Nov 09 01:00:28 2001] Antarg tells the group, 'like 10 hours a week at most'
+[Fri Nov 09 01:00:28 2001] Kedian tells the group, 'im part time, school does that to ya'
+[Fri Nov 09 01:00:28 2001] You tell your party, 'And that's aussie dollars, so that's about $5-10/hour american'
+[Fri Nov 09 01:00:35 2001] Antarg tells the group, 'uhh no'
+[Fri Nov 09 01:00:39 2001] You tell your party, ':)'
+[Fri Nov 09 01:00:41 2001] Kedian tells the group, 'lol'
+[Fri Nov 09 01:00:41 2001] Antarg tells the group, 'Australian dolar = 50 US cents'
+[Fri Nov 09 01:00:45 2001] You tell your party, 'KIDDING'
+[Fri Nov 09 01:00:46 2001] You tell your party, 'sheesh'
+[Fri Nov 09 01:00:50 2001] Antarg tells the group, '$45 US :)'
+[Fri Nov 09 01:00:58 2001] Kedian tells the group, 'cheap labor'
+[Fri Nov 09 01:01:07 2001] Antarg tells the group, 'how much you charge Kedian? :)'
+[Fri Nov 09 01:01:30 2001] Kedian tells the group, 'my time bills at $120/hr, but I dont get payed anything near that much'
+[Fri Nov 09 01:01:49 2001] Antarg tells the group, 'I had a job like that'
+[Fri Nov 09 01:02:00 2001] Antarg tells the group, 'ended up quitting and all my clients followed me anyhow :)'
+[Fri Nov 09 01:02:13 2001] Espranza saved.
+[Fri Nov 09 01:02:46 2001] Antarg tells the group, 'can we request work references for our time in EQCS?'
+[Fri Nov 09 01:02:46 2001] Kedian tells the group, 'hehe, well..im an applications developer, so I actualy do all the brain work behind a web site (transaction processing, etc).  I haven't actauly done any real html in along time'
+[Fri Nov 09 01:03:01 2001] You tell your party, 'you aren't in EQCS'
+[Fri Nov 09 01:03:10 2001] You tell your party, 'so no'
+[Fri Nov 09 01:03:13 2001] Antarg tells the group, 'basically we are :)'
+[Fri Nov 09 01:03:18 2001] Antarg tells the group, 'I mean the work we're doing'
+[Fri Nov 09 01:03:28 2001] You tell your party, 'no, you can't use that as a reference'
+[Fri Nov 09 01:03:37 2001] Antarg tells the group, 'doh :)'
+[Fri Nov 09 01:03:47 2001] You tell your party, 'this was discussed on the guide boards awhile back'
+[Fri Nov 09 01:03:56 2001] You tell your party, 'GMs can, we can't'
+[Fri Nov 09 01:04:08 2001] Antarg tells the group, 'coz I have work references from my former GM at wireplay'
+[Fri Nov 09 01:04:34 2001] Antarg tells the group, 'doesnt really bother me, but it would have been nice :)'
+[Fri Nov 09 01:04:42 2001] Kedian tells the group, 'Well, you can use other people as charcter refrences, so long as the association is not made via soe'
+[Fri Nov 09 01:04:53 2001] You tell your party, 'but you don't even know the people'
+[Fri Nov 09 01:05:19 2001] Antarg tells the group, 'I could probably get a reference for my work ethics off fellow guides'
+[Fri Nov 09 01:05:47 2001] You tell your party, 'it's just the whole accountability thing.'
+[Fri Nov 09 01:05:55 2001] You tell your party, 'the guide program is run by players, not SOE'
+[Fri Nov 09 01:06:08 2001] Antarg tells the group, 'I know :)'
+[Fri Nov 09 01:06:19 2001] Antarg tells the group, 'in Australia'
+[Fri Nov 09 01:06:20 2001] You tell your party, 'so it's like saying, my player guild thinks I'd be a great mechanic.'
+[Fri Nov 09 01:06:54 2001] Antarg tells the group, 'we're legally allowed to present documents by former work mates/people who have observed my work'
+[Fri Nov 09 01:07:20 2001] You tell your party, 'in america, personal references are fine'
+[Fri Nov 09 01:07:24 2001] You tell your party, 'people ignore them though'
+[Fri Nov 09 01:07:33 2001] Antarg tells the group, 'they actually work here :)'
+[Fri Nov 09 01:07:33 2001] You tell your party, 'only professional references are really sought after'
+[Fri Nov 09 01:07:40 2001] Kedian tells the group, '*nod* thats what interviews are for'
+[Fri Nov 09 01:08:05 2001] Antarg tells the group, 'I actually volenteer alot of my time'
+[Fri Nov 09 01:08:22 2001] You tell your party, 'I would love to be able to use my guide time to further my career.'
+[Fri Nov 09 01:08:34 2001] You tell your party, 'I think the only thing that would help me for is to get a GM job.'
+[Fri Nov 09 01:08:34 2001] Antarg tells the group, 'would be nice'
+[Fri Nov 09 01:08:56 2001] Antarg tells the group, 'well if they do expand to Australia, I hope I will be given an opportunity to apply :)'
+[Fri Nov 09 01:09:02 2001] It begins to rain.
+[Fri Nov 09 01:09:05 2001] You tell your party, 'come to America'
+[Fri Nov 09 01:09:11 2001] Antarg tells the group, 'I would'
+[Fri Nov 09 01:09:15 2001] Antarg tells the group, 'cant get a visa'
+[Fri Nov 09 01:09:19 2001] Antarg tells the group, 'tried :)'
+[Fri Nov 09 01:09:25 2001] Kedian tells the group, 'bah, why not?'
+[Fri Nov 09 01:09:41 2001] Antarg tells the group, 'well, I have nothing to offer the company :)'
+[Fri Nov 09 01:09:42 2001] You tell your party, 'get a student visa, overstay it, in 2 years apply for immigration'
+[Fri Nov 09 01:09:44 2001] Antarg tells the group, 'err country'
+[Fri Nov 09 01:09:56 2001] Antarg tells the group, 'I'm not a student :)'
+[Fri Nov 09 01:10:02 2001] Kedian tells the group, 'so..become one'
+[Fri Nov 09 01:10:40 2001] You tell your party, 'my flute teacher came over from Switzerland that way'
+[Fri Nov 09 01:11:09 2001] Antarg tells the group, 'I guess I could 'tour' with my band :)'
+[Fri Nov 09 01:12:04 2001] Antarg tells the group, 'we're not terrible, released a top 50 single last year :)'
+[Fri Nov 09 01:12:14 2001] You tell your party, 'truly?'
+[Fri Nov 09 01:12:23 2001] Espranza saved.
+[Fri Nov 09 01:12:31 2001] Antarg tells the group, 'ya, Australian top 50, not as hard to do as in the US'
+[Fri Nov 09 01:12:45 2001] You tell your party, 'sounds pretty durn impressive to me'
+[Fri Nov 09 01:12:57 2001] Kedian tells the group, 'kinda makes it easy when theres only 49 bands.... :p'
+[Fri Nov 09 01:13:05 2001] You tell your party, 'heh'
+[Fri Nov 09 01:13:06 2001] Antarg tells the group, 'bah, bite me ;)'
+[Fri Nov 09 01:14:07 2001] Antarg tells the group, 'people dont really go for 60s/70s pop anymore though'
+[Fri Nov 09 01:14:30 2001] You tell your party, 'splt enz, crowded house... what are the other Oz bands?'
+[Fri Nov 09 01:14:44 2001] Antarg tells the group, 'Midnight Oil'
+[Fri Nov 09 01:14:48 2001] Antarg tells the group, 'Savage Garden'
+[Fri Nov 09 01:14:54 2001] You tell your party, 'Midnight Oil yeah'
+[Fri Nov 09 01:14:55 2001] Antarg tells the group, 'Human Nature'
+[Fri Nov 09 01:15:01 2001] Antarg tells the group, 'Inxs'
+[Fri Nov 09 01:15:11 2001] Antarg tells the group, 'Cold Chisel'
+[Fri Nov 09 01:15:16 2001] You tell your party, 'not heard of that one'
+[Fri Nov 09 01:15:21 2001] You tell your party, 'Men At Work'
+[Fri Nov 09 01:15:27 2001] Antarg tells the group, 'Men at work yes'
+[Fri Nov 09 01:15:39 2001] Antarg tells the group, 'those dudes that sung Great Southern land'
+[Fri Nov 09 01:15:51 2001] You feel the spirit of Z surround you.
+[Fri Nov 09 01:15:55 2001] Antarg tells the group, 'little river band'
+[Fri Nov 09 01:16:08 2001] You tell your party, 'hey I loved them when I was younger'
+[Fri Nov 09 01:16:15 2001] Antarg tells the group, 'who?'
+[Fri Nov 09 01:16:24 2001] You tell your party, 'Little River Band'
+[Fri Nov 09 01:16:28 2001] Antarg tells the group, 'the wiggles :)'
+[Fri Nov 09 01:16:33 2001] Antarg tells the group, 'they're great :)'
+[Fri Nov 09 01:16:40 2001] You tell your party, 'never heard of them but I like the name'
+[Fri Nov 09 01:16:42 2001] Antarg tells the group, 'ever heard of John Farnhem?'
+[Fri Nov 09 01:16:50 2001] You tell your party, 'nope'
+[Fri Nov 09 01:16:57 2001] Antarg tells the group, 'Wiggles are the Barney of the music world here :)'
+[Fri Nov 09 01:17:03 2001] You tell your party, 'LOL!'
+[Fri Nov 09 01:17:10 2001] You tell your party, 'okay I might pass on them, then'
+[Fri Nov 09 01:17:19 2001] Antarg tells the group, 'Cochroaches?'
+[Fri Nov 09 01:17:27 2001] Kedian tells the group, 'what? you dont like barney?'
+[Fri Nov 09 01:17:36 2001] Antarg tells the group, 'I wanna shoot barney :)'
+[Fri Nov 09 01:17:43 2001] Kedian tells the group, 'bah! meanie!'
+[Fri Nov 09 01:17:46 2001] You tell your party, 'not quite sure what wine goes with purple meat'
+[Fri Nov 09 01:17:53 2001] Antarg tells the group, '... gulp'
+[Fri Nov 09 01:17:58 2001] Antarg tells the group, 'david bowie'
+[Fri Nov 09 01:18:03 2001] You tell your party, 'he's not aussie'
+[Fri Nov 09 01:18:11 2001] Antarg tells the group, 'he started his career here :)'
+[Fri Nov 09 01:18:18 2001] You tell your party, 'he's a brit'
+[Fri Nov 09 01:18:27 2001] Kedian tells the group, 'so..he wized up and moved out? :)'
+[Fri Nov 09 01:18:34 2001] Antarg tells the group, 'yes thank god'
+[Fri Nov 09 01:18:57 2001] Antarg tells the group, 'Crowded house is half new zealanders though'
+[Fri Nov 09 01:19:03 2001] Antarg tells the group, 'we claim them as ours though :)'
+[Fri Nov 09 01:19:08 2001] You tell your party, 'I knew I was on thin ice with them'
+[Fri Nov 09 01:19:20 2001] You tell your party, 'but I have to admit I'm not up on the Aussie pop scene'
+[Fri Nov 09 01:19:31 2001] Antarg tells the group, 'ever heard of Taxiride?'
+[Fri Nov 09 01:19:35 2001] You feel the spirit of Norrath enter you.
+[Fri Nov 09 01:19:37 2001] You tell your party, 'nope'
+[Fri Nov 09 01:19:51 2001] Antarg tells the group, 'pfft, they are only one of the GREATEST bands in Australian history'
+[Fri Nov 09 01:19:59 2001] Antarg tells the group, 'Tina Arena?'
+[Fri Nov 09 01:20:02 2001] You tell your party, 'do they have trading cards?'
+[Fri Nov 09 01:20:13 2001] Antarg tells the group, 'no, we're not americans :)'
+[Fri Nov 09 01:20:46 2001] You tell your party, 'if they were a good band they'd have trading cards.'
+[Fri Nov 09 01:20:55 2001] You tell your party, 'with little sticks of gum in each package'
+[Fri Nov 09 01:21:00 2001] Antarg tells the group, 'never has an Australian band had trading cards :)'
+[Fri Nov 09 01:21:32 2001] Kedian tells the group, 'hrmm..lets see, good bands have trading cards, no ausie band has had a trading card...'
+[Fri Nov 09 01:21:39 2001] Antarg tells the group, 'Australian Crawl?'
+[Fri Nov 09 01:21:54 2001] You tell your party, 'that's a silly name'
+[Fri Nov 09 01:22:18 2001] Antarg tells the group, 'I still cant believe you've never heard of John Farnham'
+[Fri Nov 09 01:22:30 2001] Antarg tells the group, 'he was that guy who was singing with Oliver in the opening ceremony'
+[Fri Nov 09 01:22:31 2001] You tell your party, 'I will be AFK while I kick myself inthe head'
+[Fri Nov 09 01:22:33 2001] Espranza saved.
+[Fri Nov 09 01:22:41 2001] Antarg tells the group, 'has an absolutely AWESOME voice'
+[Fri Nov 09 01:22:51 2001] You tell your party, 'opening ceremony of what?'
+[Fri Nov 09 01:23:00 2001] Antarg tells the group, 'last years sydney olympics'
+[Fri Nov 09 01:23:07 2001] You tell your party, 'ah'
+[Fri Nov 09 01:23:26 2001] You tell your party, 'missed those'
+[Fri Nov 09 01:23:33 2001] Antarg tells the group, 'you know... Dare to dream... dare to flyyyyy.... dare to riiiise.... find the strength to set my spirit free'
+[Fri Nov 09 01:23:41 2001] Antarg tells the group, 'bah :)'
+[Fri Nov 09 01:23:43 2001] You tell your party, 'my TV only gets one channel'
+[Fri Nov 09 01:24:11 2001] Kedian tells the group, 'ok, when antarg starts singing to us in chat, that means its time to log :)'
+[Fri Nov 09 01:24:12 2001] You tell your party, 'mostly use it for movies'
+[Fri Nov 09 01:24:18 2001] It is 8 AM on Thursday, the 5th day of June, of the year 3216.
+[Fri Nov 09 01:24:18 2001] Earth Time: Fri Nov 09 01:24:18 2001
+[Fri Nov 09 01:24:22 2001] You tell your party, 'heh'
+[Fri Nov 09 01:24:36 2001] You tell your party, 'it's an hour and a half past my shift-time, so I think it's time for bed'
+[Fri Nov 09 01:24:45 2001] You tell your party, 'I really had fun tonight'
+[Fri Nov 09 01:24:45 2001] Antarg tells the group, 'dont make me send you mp3's'
+[Fri Nov 09 01:24:47 2001] Kedian tells the group, 'serously though, I think im gonna head out'
+[Fri Nov 09 01:24:57 2001] Antarg tells the group, 'I can play the guitar, but I'm seriously a bad singer'
+[Fri Nov 09 01:25:08 2001] You tell your party, 'I play flute'
+[Fri Nov 09 01:25:13 2001] You tell your party, 'let's get together'
+[Fri Nov 09 01:25:20 2001] Kedian tells the group, 'and I play bass cl'
+[Fri Nov 09 01:25:25 2001] Antarg tells the group, 'what songs you know?'
+[Fri Nov 09 01:25:34 2001] You tell your party, 'mostly classical and modern'
+[Fri Nov 09 01:25:45 2001] You tell your party, 'modern-clasical I mean'
+[Fri Nov 09 01:25:46 2001] Antarg tells the group, 'hmm, we could probably put a band together if it was worth the effort :)'
+[Fri Nov 09 01:25:47 2001] Kedian tells the group, '*nod* highschool band stuff'
+[Fri Nov 09 01:26:03 2001] Antarg tells the group, 'the MT server band!'
+[Fri Nov 09 01:26:07 2001] You tell your party, 'yeah!'
+[Fri Nov 09 01:26:28 2001] You tell your party, 'We could do instrumental renditions of John Fanham tunes'
+[Fri Nov 09 01:26:34 2001] Antarg tells the group, 'yeah!'
+[Fri Nov 09 01:26:59 2001] Antarg tells the group, 'Your the voice try and understand it, make a noise and make it clear-errrrerrrerrr-errrerrr'
+[Fri Nov 09 01:27:20 2001] You tell your party, 'do that peter frampton - talking guitar thing'
+[Fri Nov 09 01:27:23 2001] Kedian tells the group, 'ok, now its really time to leave :p'
+[Fri Nov 09 01:27:28 2001] Kedian tells the group, 'see ya guys later :)'
+[Fri Nov 09 01:27:34 2001] You tell your party, 'night Keds'
+[Fri Nov 09 01:27:47 2001] Antarg tells the group, 'going anon to camp :)'
+[Fri Nov 09 01:27:55 2001] You tell your party, 'Oh antarg, I have your title'
+[Fri Nov 09 01:27:55 2001] Kedian has left the group.
+[Fri Nov 09 01:28:04 2001] Antarg tells the group, 'whats that?'
+[Fri Nov 09 01:28:06 2001] You tell your party, 'Antarg the Aussie'
+[Fri Nov 09 01:28:12 2001] Antarg tells the group, 'that works :)'
+[Fri Nov 09 01:28:20 2001] You tell your party, 'little patriotic title for ya'
+[Fri Nov 09 01:28:34 2001] Antarg tells the group, 'catch ya later and thanks for pointing out my blind spots :)'
+[Fri Nov 09 01:28:48 2001] You tell your party, 'next time I see you will probably be in CSHome... good luck!'
+[Fri Nov 09 01:28:57 2001] Antarg tells the group, 'good luck to you also!'
+[Fri Nov 09 01:29:02 2001] It will take you about 30 seconds to prepare your camp.
+[Fri Nov 09 01:29:06 2001] It will take about 25 more seconds to prepare your camp.
+[Fri Nov 09 01:29:09 2001] Antarg tells the group, 'I need it more though :)'
+[Fri Nov 09 01:29:11 2001] It will take about 20 more seconds to prepare your camp.
+[Fri Nov 09 01:29:12 2001] Antarg GMSAYS, '/wave'
+[Fri Nov 09 01:29:16 2001] It will take about 15 more seconds to prepare your camp.
+[Fri Nov 09 01:29:21 2001] It will take about 10 more seconds to prepare your camp.
+[Fri Nov 09 01:29:22 2001] Your group has been disbanded.
+[Fri Nov 09 01:29:26 2001] It will take about 5 more seconds to prepare your camp.

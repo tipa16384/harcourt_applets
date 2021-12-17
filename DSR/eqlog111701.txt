@@ -1,0 +1,2304 @@
+[Sat Nov 17 14:41:07 2001] Welcome to EverQuest!
+[Sat Nov 17 14:41:07 2001] You have entered Sunset Home.
+[Sat Nov 17 14:41:07 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Congratulations to Fury's Edge on their victory at the Test of Tactics III. They will be moving onto test server later to compete. Goodluck!
+[Sat Nov 17 14:41:10 2001] It begins to rain.
+[Sat Nov 17 14:41:16 2001] Players in EverQuest:
+[Sat Nov 17 14:41:16 2001] ---------------------------
+[Sat Nov 17 14:41:16 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Nov 17 14:41:16 2001] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Sat Nov 17 14:41:16 2001] * Guide *[50 Ranger] Antarg (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Sat Nov 17 14:41:16 2001] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: soldungb (USER PID HU7F5NG)
+[Sat Nov 17 14:41:16 2001] There are 4 players in EverQuest.
+[Sat Nov 17 14:41:21 2001] Players on EverQuest:
+[Sat Nov 17 14:41:21 2001] ---------------------------
+[Sat Nov 17 14:41:21 2001] * GM * [50 Ranger] Antarg (Half Elf) <Keepers of Dreams>
+[Sat Nov 17 14:41:21 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Nov 17 14:41:21 2001] <LINKDEAD>[1 Wizard] Correllan (Gnome)
+[Sat Nov 17 14:41:21 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Nov 17 14:41:21 2001] There are 4 players in Sunset Home.
+[Sat Nov 17 14:41:25 2001] You GMSAY, 'hiya'
+[Sat Nov 17 14:41:32 2001] Lancet GMSAYS, 'hi'
+[Sat Nov 17 14:41:37 2001] You GMSAY, 'someone didn't unpack their CSHome files...'
+[Sat Nov 17 14:41:41 2001] You feel the spirit of Norrath enter you.
+[Sat Nov 17 14:41:54 2001] Antarg GMSAYS, 'wasnt me! :)'
+[Sat Nov 17 14:41:55 2001] Kedian GMSAYS, 'hiya esp'
+[Sat Nov 17 14:42:07 2001] Kedian GMSAYS, 'Corellan was on earler..'
+[Sat Nov 17 14:42:11 2001] Lancet GMSAYS, 'looks like it i will have to log to change his name in system he added an r when he remade char'
+[Sat Nov 17 14:42:20 2001] You GMSAY, 'when did you become a lizard, Lancet?'
+[Sat Nov 17 14:42:33 2001] Lancet GMSAYS, 'when i came back'
+[Sat Nov 17 14:42:38 2001] You GMSAY, 'hmmph'
+[Sat Nov 17 14:42:44 2001] You GMSAY, 'did you even CONSIDER being a halfling?'
+[Sat Nov 17 14:42:57 2001] You cheer at Antarg.
+[Sat Nov 17 14:43:01 2001] Lancet GMSAYS, 'lol my m,ain is a h'ling'
+[Sat Nov 17 14:43:10 2001] Kedian GMSAYS, 'bah, halflings cant see anything...I feel sorry for the banker in cshome, we cant even see her :/'
+[Sat Nov 17 14:43:15 2001] You GMSAY, 'well.....! My main is a halfling!'
+[Sat Nov 17 14:43:16 2001] Antarg GMSAYS, 'lancet can you check with the GM wether there was a lag issue in paw when you go? someone pets about there entire group going LD'
+[Sat Nov 17 14:43:30 2001] Players in EverQuest:
+[Sat Nov 17 14:43:30 2001] ---------------------------
+[Sat Nov 17 14:43:30 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Nov 17 14:43:30 2001] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Sat Nov 17 14:43:30 2001] * Guide *[50 Ranger] Antarg (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Sat Nov 17 14:43:30 2001] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: soldungb (USER PID HU7F5NG)
+[Sat Nov 17 14:43:30 2001] There are 4 players in EverQuest.
+[Sat Nov 17 14:43:40 2001] Espranza wonders where the training team is....!
+[Sat Nov 17 14:43:53 2001] Lancet GMSAYS, 'ok but if zone did not go down we do niothing'
+[Sat Nov 17 14:44:20 2001] Antarg GMSAYS, 'okay doesnt look it... guess we do nothing then :)'
+[Sat Nov 17 14:44:31 2001] Lancet GMSAYS, 'inc'
+[Sat Nov 17 14:45:07 2001] Lancet says, 'hiya'
+[Sat Nov 17 14:45:08 2001] You say, 'go anon please'
+[Sat Nov 17 14:45:11 2001] You say, 'and hello!'
+[Sat Nov 17 14:45:13 2001] Dalios says, 'Hullo'
+[Sat Nov 17 14:45:14 2001] Lirus GMSAYS, 'hey hey'
+[Sat Nov 17 14:45:14 2001] Players on EverQuest:
+[Sat Nov 17 14:45:15 2001] ---------------------------
+[Sat Nov 17 14:45:15 2001] [1 Bard] Dalios (Half Elf)
+[Sat Nov 17 14:45:15 2001] * GM * [50 Ranger] Antarg (Half Elf) <Keepers of Dreams>
+[Sat Nov 17 14:45:15 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Nov 17 14:45:15 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Nov 17 14:45:15 2001] There are 4 players in Sunset Home.
+[Sat Nov 17 14:45:19 2001] Lancet GMSAYS, 'hiya'
+[Sat Nov 17 14:45:20 2001] Antarg GMSAYS, 'hey Lirus'
+[Sat Nov 17 14:45:21 2001] Players on EverQuest:
+[Sat Nov 17 14:45:21 2001] ---------------------------
+[Sat Nov 17 14:45:21 2001] [ANONYMOUS] Dalios 
+[Sat Nov 17 14:45:21 2001] * GM * [50 Ranger] Antarg (Half Elf) <Keepers of Dreams>
+[Sat Nov 17 14:45:21 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Nov 17 14:45:21 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Nov 17 14:45:21 2001] There are 4 players in Sunset Home.
+[Sat Nov 17 14:45:21 2001] Kedian GMSAYS, 'hiya lirus'
+[Sat Nov 17 14:45:28 2001] Kedian GMSAYS, '<< zone >>'
+[Sat Nov 17 14:45:28 2001] You GMSAY, 'Hi Lirus!'
+[Sat Nov 17 14:45:46 2001] You say, 'just waiting on Rodetta now'
+[Sat Nov 17 14:45:56 2001] You say, 'Corellan did not unpack the zone files'
+[Sat Nov 17 14:45:58 2001] Rodetta tells you, 'Hail, Espranza. I have arrived for my robing.'
+[Sat Nov 17 14:45:58 2001] Lancet GMSAYS, 'lirus can you access guide board without loging off'
+[Sat Nov 17 14:46:03 2001] Summoning Rodetta.
+[Sat Nov 17 14:46:06 2001] You say, 'inc'
+[Sat Nov 17 14:46:10 2001] Dalios says, 'Ah.'
+[Sat Nov 17 14:46:13 2001] Lirus GMSAYS, 'normally yes but my client is set up funky-ass'
+[Sat Nov 17 14:46:24 2001] Lirus GMSAYS, 'so i dunno bout today...i can try...whatcha need?'
+[Sat Nov 17 14:46:24 2001] Lancet GMSAYS, 'ok ill take care of it'
+[Sat Nov 17 14:46:31 2001] You say, 'Hi, Rodetta! Please go anon'
+[Sat Nov 17 14:46:38 2001] Players on EverQuest:
+[Sat Nov 17 14:46:38 2001] ---------------------------
+[Sat Nov 17 14:46:38 2001] [1 Shadow Knight] Rodetta (Erudite)
+[Sat Nov 17 14:46:38 2001] * GM * [50 Monk] Kedian (Human) <Keepers of Dreams>
+[Sat Nov 17 14:46:38 2001] <LINKDEAD>[1 Wizard] Correllan (Gnome)
+[Sat Nov 17 14:46:38 2001] [ANONYMOUS] Dalios 
+[Sat Nov 17 14:46:38 2001] * GM * [50 Ranger] Antarg (Half Elf) <Keepers of Dreams>
+[Sat Nov 17 14:46:38 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Nov 17 14:46:38 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Nov 17 14:46:38 2001] There are 7 players in Sunset Home.
+[Sat Nov 17 14:46:40 2001] Rodetta says, 'done'
+[Sat Nov 17 14:46:41 2001] Players on EverQuest:
+[Sat Nov 17 14:46:41 2001] ---------------------------
+[Sat Nov 17 14:46:41 2001] [ANONYMOUS] Rodetta 
+[Sat Nov 17 14:46:41 2001] * GM * [50 Monk] Kedian (Human) <Keepers of Dreams>
+[Sat Nov 17 14:46:41 2001] <LINKDEAD>[1 Wizard] Correllan (Gnome)
+[Sat Nov 17 14:46:41 2001] [ANONYMOUS] Dalios 
+[Sat Nov 17 14:46:41 2001] * GM * [50 Ranger] Antarg (Half Elf) <Keepers of Dreams>
+[Sat Nov 17 14:46:41 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Nov 17 14:46:41 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Nov 17 14:46:41 2001] There are 7 players in Sunset Home.
+[Sat Nov 17 14:46:44 2001] Kedian drolls on the new appys :)
+[Sat Nov 17 14:46:47 2001] Lirus GMSAYS, 'i can do it'
+[Sat Nov 17 14:46:57 2001] Dalios hands a cloth to Kedian.
+[Sat Nov 17 14:47:04 2001] Lancet GMSAYS, 'add an r in correllan name and update it made new char and had to add an r'
+[Sat Nov 17 14:47:09 2001] Rodetta says, 'You place, it's... White. so very white :)'
+[Sat Nov 17 14:47:26 2001] Lancet GMSAYS, 'was corellan now correllan'
+[Sat Nov 17 14:47:28 2001] Faelinn GMSAYS, 'hiya'
+[Sat Nov 17 14:47:31 2001] Faelinn GMSAYS, 'Zoning... '
+[Sat Nov 17 14:47:35 2001] Dalios is tempted to adjust brightness on his monitor.
+[Sat Nov 17 14:47:39 2001] Kedian says, 'yes, Espranza makes us clean it with our tooth brushes'
+[Sat Nov 17 14:47:57 2001] You say, 'it's the only way to train appies'
+[Sat Nov 17 14:48:01 2001] You say, 'You'll enjoy it'
+[Sat Nov 17 14:48:05 2001] Faelinn hugs Espranza.
+[Sat Nov 17 14:48:11 2001] You GMSAY, 'hiya Fae!'
+[Sat Nov 17 14:48:11 2001] Dalios says, 'Faelinn! =)'
+[Sat Nov 17 14:48:18 2001] Faelinn says, 'Hi :)'
+[Sat Nov 17 14:48:20 2001] Faelinn GMSAYS, '=DDD'
+[Sat Nov 17 14:48:31 2001] Rodetta says, 'Hello'
+[Sat Nov 17 14:48:32 2001] Faelinn says, 'Hi there, welcome :)'
+[Sat Nov 17 14:48:35 2001] You feel the spirit of Z surround you.
+[Sat Nov 17 14:48:35 2001] Faelinn bows before Rodetta.
+[Sat Nov 17 14:48:36 2001] Rodetta says, 'oh shoot, doorbell. sec'
+[Sat Nov 17 14:48:44 2001] Faelinn says, 'Hello again ;)'
+[Sat Nov 17 14:48:54 2001] Faelinn sticks her tongue out at Kedian.
+[Sat Nov 17 14:48:55 2001] Kedian GMSAYS, 'Vermella pets about a new surname: Sylvannis'
+[Sat Nov 17 14:49:03 2001] Faelinn turns an icy glare upon Antarg.
+[Sat Nov 17 14:49:05 2001] You GMSAY, 'sounds good to me'
+[Sat Nov 17 14:49:08 2001] Faelinn giggles.
+[Sat Nov 17 14:49:18 2001] Rodetta says, 'Back'
+[Sat Nov 17 14:49:27 2001] Antarg GMSAYS, 'hey, how come we didnt get a senior on our buffing day? no fair!'
+[Sat Nov 17 14:49:36 2001] You GMSAY, 'Lancet wasn't back yet'
+[Sat Nov 17 14:49:42 2001] Lancet GMSAYS, 'i was on vaction'
+[Sat Nov 17 14:50:07 2001] Faelinn begins to cast a spell. (Contraction)
+[Sat Nov 17 14:50:09 2001] Faelinn shrinks.
+[Sat Nov 17 14:50:10 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 14:50:15 2001] You GMSAY, 'I'm sorry if a poor, short guide wasn't enough for you (sob)'
+[Sat Nov 17 14:50:17 2001] Lancet says, 'feel free to look around it will be a few mins'
+[Sat Nov 17 14:50:48 2001] Faelinn GMSAYS, 'hey is there a way in game i can change text color or do i have to have another proggy to do it?'
+[Sat Nov 17 14:50:55 2001] Rodetta says, 'is it safe for me to hail or talk to anyone up here?'
+[Sat Nov 17 14:51:04 2001] Lancet says, 'sure'
+[Sat Nov 17 14:51:04 2001] You say, 'sure'
+[Sat Nov 17 14:51:06 2001] Kedian GMSAYS, '/usercolor help'
+[Sat Nov 17 14:51:09 2001] Faelinn GMSAYS, 'ty'
+[Sat Nov 17 14:51:10 2001] You say, 'hey, go find Llara'
+[Sat Nov 17 14:51:12 2001] Espranza saved.
+[Sat Nov 17 14:51:17 2001] You say, 'and tell her you're an apprentice'
+[Sat Nov 17 14:51:37 2001] Antarg GMSAYS, 'zoning! someone hold onto my pants for me!'
+[Sat Nov 17 14:52:11 2001] Kedian GMSAYS, 'Starqui pets about missing items from inventory'
+[Sat Nov 17 14:52:24 2001] Lancet GMSAYS, 'loging to icq to help appy with cshome files'
+[Sat Nov 17 14:52:38 2001] You say, 'Hail'
+[Sat Nov 17 14:52:39 2001] Llara the Mysterious says 'might you be an [apprentice] or a [guide]?' Llara then grins evilly... 
+[Sat Nov 17 14:52:40 2001] You say, 'Hail, Llara the Mysterious'
+[Sat Nov 17 14:52:50 2001] You say, 'Oh, I'm a guide'
+[Sat Nov 17 14:52:53 2001] Llara the Mysterious cracks her whip in Espranza 's direction and says, 'Well, if you are a guide, then what the heck are you doing here!?! Get to work on the queue, it's not going to be under 20 all day!' 
+[Sat Nov 17 14:52:57 2001] You say, 'Bah!'
+[Sat Nov 17 14:53:05 2001] You say, 'we miss you'
+[Sat Nov 17 14:53:05 2001] Llara the Mysterious says 'I miss you, too, Espranza ! But don't worry about me. I am in a good place now, watching over all of you.' 
+[Sat Nov 17 14:53:12 2001] Rodetta says, 'Hail, Llara the Mysterious'
+[Sat Nov 17 14:53:12 2001] Llara the Mysterious says 'might you be an [apprentice] or a [guide]?' Llara then grins evilly... 
+[Sat Nov 17 14:53:18 2001] Rodetta says, 'I am an apprentice'
+[Sat Nov 17 14:53:18 2001] Llara the Mysterious says 'Welcome to the Guide Program, Rodetta . I am sure you will enjoy your time here. Do not worry about being only an apprentice right now, I'm sure that in time you will be ready for promotion. This is truly the best place to be in the world.  Good luck to you, Rodetta !' 
+[Sat Nov 17 14:53:31 2001] Rodetta says, 'ahh, hello'
+[Sat Nov 17 14:53:31 2001] Llara the Mysterious says 'might you be an [apprentice] or a [guide]?' Llara then grins evilly... 
+[Sat Nov 17 14:53:37 2001] You say, 'there's a story about her I will tell'
+[Sat Nov 17 14:54:30 2001] Antarg GMSAYS, 'zoning! someone hold onto my pants for me!'
+[Sat Nov 17 14:56:12 2001] Dalios shouts, 'Seeking a halfling zip by at high speed is almost funny... Pumping those arms and legs frantically..'
+[Sat Nov 17 14:56:26 2001] You shout, 'just you wait, when I catch up to you!'
+[Sat Nov 17 14:56:30 2001] Your feet leave the ground.
+[Sat Nov 17 14:56:43 2001] Lirus GMSAYS, 'hidden for investigation'
+[Sat Nov 17 14:56:52 2001] Kilm GMSAYS, 'Hi yas all '
+[Sat Nov 17 14:56:55 2001] You shout, 'any rash words you want to retract?'
+[Sat Nov 17 14:56:59 2001] Kedian GMSAYS, 'hiya kilm'
+[Sat Nov 17 14:56:59 2001] You GMSAY, 'Hiya Kilm!'
+[Sat Nov 17 14:57:03 2001] Faelinn GMSAYS, 'yay :)'
+[Sat Nov 17 14:57:06 2001] Antarg shouts, 'your tormenting Es? oh no... you'd best find a good place to hide!'
+[Sat Nov 17 14:57:07 2001] You shout, 'Ph33r the H4lf3r!'
+[Sat Nov 17 14:57:12 2001] Kilm GMSAYS, 'Lirus, when your done.. message me please :) '
+[Sat Nov 17 14:57:17 2001] Summoning Dalios.
+[Sat Nov 17 14:57:35 2001] Dolcemorte tells you, 'hello'
+[Sat Nov 17 14:57:42 2001] You told Dolcemorte, 'hiya Dolce!'
+[Sat Nov 17 14:57:42 2001] Kedian GMSAYS, 'Gortex pets about missing an item'
+[Sat Nov 17 14:57:43 2001] Players on EverQuest:
+[Sat Nov 17 14:57:43 2001] ---------------------------
+[Sat Nov 17 14:57:43 2001] There are no players in Sunset Home that match those who filters.
+[Sat Nov 17 14:57:46 2001] Players in EverQuest:
+[Sat Nov 17 14:57:46 2001] ---------------------------
+[Sat Nov 17 14:57:46 2001] [ANON (60 Sorcerer)] Dolcemorte (Erudite) ZONE: droga (USER PID FQL6SPS)
+[Sat Nov 17 14:57:46 2001] There is 1 player in EverQuest.
+[Sat Nov 17 14:58:14 2001] Dolcemorte tells you, 'how are ya doing?'
+[Sat Nov 17 14:58:14 2001] You say, 'hmmm!'
+[Sat Nov 17 14:58:18 2001] You giggle at Dalios.
+[Sat Nov 17 14:58:21 2001] Dalios shouts, 'How do you folks stay sane up here? ;)'
+[Sat Nov 17 14:58:29 2001] Antarg shouts, 'we dont'
+[Sat Nov 17 14:58:29 2001] You shout, 'um...'
+[Sat Nov 17 14:58:39 2001] You say, 'We mostly go about in the world'
+[Sat Nov 17 14:58:49 2001] Dalios shouts, 'All these WHITE walls.. are they padded for Guide prtection?'
+[Sat Nov 17 14:58:51 2001] You say, 'We don't spend much time here, actuallyt'
+[Sat Nov 17 14:58:57 2001] Faelinn shouts, 'heh'
+[Sat Nov 17 14:59:11 2001] Faelinn says, 'someone talk in say real quick pls'
+[Sat Nov 17 14:59:12 2001] Dalios says, 'I figured as much..'
+[Sat Nov 17 14:59:12 2001] You say, 'I need a new title'
+[Sat Nov 17 14:59:15 2001] Faelinn says, 'ok'
+[Sat Nov 17 14:59:19 2001] Antarg says, 'me too :)'
+[Sat Nov 17 14:59:21 2001] Faelinn says, 'crap same as shouts'
+[Sat Nov 17 14:59:26 2001] You say, 'Everyone has such clever ones'
+[Sat Nov 17 14:59:40 2001] You say, 'Well, I have one for you Antarg'
+[Sat Nov 17 14:59:43 2001] Antarg says, 'mines gonna be The Troubled when I can get my hands on Lirus'
+[Sat Nov 17 14:59:43 2001] You say, 'the Aussie'
+[Sat Nov 17 14:59:49 2001] Dalios says, 'Espranza NOT Esmerelda?'
+[Sat Nov 17 14:59:52 2001] You say, 'How about the Touched?'
+[Sat Nov 17 14:59:58 2001] Dalios says, 'That's a good one.'
+[Sat Nov 17 14:59:58 2001] You say, 'No, Espranza!'
+[Sat Nov 17 15:00:04 2001] Antarg says, 'needs to go with Kedians :)'
+[Sat Nov 17 15:00:23 2001] You say, 'mine should be "the Evil"'
+[Sat Nov 17 15:00:32 2001] Dalios says, 'Espranza the Bubble Maker?'
+[Sat Nov 17 15:00:38 2001] Kedian begins to cast a spell. (Contraction)
+[Sat Nov 17 15:00:40 2001] Kedian shrinks.
+[Sat Nov 17 15:00:40 2001] Sivy GMSAYS, 'heya all'
+[Sat Nov 17 15:00:41 2001] You say, 'the Bubble Maker? eh'
+[Sat Nov 17 15:00:44 2001] You GMSAY, 'Hiya Sivy!'
+[Sat Nov 17 15:00:47 2001] Lirus GMSAYS, 'hi sivy'
+[Sat Nov 17 15:00:50 2001] Dalios looks innocent.
+[Sat Nov 17 15:00:54 2001] Antarg says, 'psst watch this :)'
+[Sat Nov 17 15:00:56 2001] You can no longer levitate.
+[Sat Nov 17 15:00:56 2001] You feel a bit dispelled.
+[Sat Nov 17 15:01:00 2001] Dalios bats his blue eyes.
+[Sat Nov 17 15:01:01 2001] Antarg runs.
+[Sat Nov 17 15:01:04 2001] Spell particle effects are currently ON.
+[Sat Nov 17 15:01:09 2001] Sivy says, 'ello appies :)'
+[Sat Nov 17 15:01:18 2001] Kedian floats above the ground.
+[Sat Nov 17 15:01:19 2001] You say, 'missing one'
+[Sat Nov 17 15:01:23 2001] Espranza saved.
+[Sat Nov 17 15:01:23 2001] Dalios says, 'Augh..another inkie!'
+[Sat Nov 17 15:01:23 2001] Rodetta says, 'sure, you guy's can fly, but i can jump!'
+[Sat Nov 17 15:01:28 2001] Sivy is surrounded by a brief aura.
+[Sat Nov 17 15:01:36 2001] Sivy says, 'inkies the way to go ;)'
+[Sat Nov 17 15:01:37 2001] You GMSAY, 'Okay, I need a new title'
+[Sat Nov 17 15:01:44 2001] Sivy GMSAYS, 'me too'
+[Sat Nov 17 15:01:44 2001] You GMSAY, 'Daggerdancer is getting dull'
+[Sat Nov 17 15:01:49 2001] Antarg GMSAYS, 'me three :)'
+[Sat Nov 17 15:01:54 2001] Dalios says, 'I've yet to see a Troll or Ogre Guide...ever'
+[Sat Nov 17 15:01:57 2001] Sivy GMSAYS, 'get a GM on '
+[Sat Nov 17 15:02:00 2001] You say, 'we have two ogres'
+[Sat Nov 17 15:02:00 2001] Sivy GMSAYS, 'i want my name changed'
+[Sat Nov 17 15:02:04 2001] Sivy GMSAYS, 'to Sivy the Cookie Thief'
+[Sat Nov 17 15:02:07 2001] Faelinn GMSAYS, 'someone shout something please'
+[Sat Nov 17 15:02:08 2001] Rodetta says, 'what's an inkie?'
+[Sat Nov 17 15:02:08 2001] Kilm GMSAYS, 'hmm Espranza Lotte' :) '
+[Sat Nov 17 15:02:10 2001] Antarg says, 'what you guys think... the Troubled or the Trouble Makee?'
+[Sat Nov 17 15:02:14 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:02:15 2001] Sivy shouts, 'shout something for fea'
+[Sat Nov 17 15:02:17 2001] Sivy shouts, '=P'
+[Sat Nov 17 15:02:18 2001] You say, 'the Touched'
+[Sat Nov 17 15:02:21 2001] Faelinn shouts, 'ty'
+[Sat Nov 17 15:02:23 2001] Dalios says, 'Anyone planning to play a kittykat with expansion?'
+[Sat Nov 17 15:02:31 2001] Sivy says, 'everyone dalios'
+[Sat Nov 17 15:02:38 2001] Dalios says, 'As their Guide?'
+[Sat Nov 17 15:02:45 2001] Faelinn says, 'Maybe'
+[Sat Nov 17 15:02:48 2001] You say, 'I'm a haffer and I'll stay a haffer'
+[Sat Nov 17 15:02:57 2001] Sivy says, 'blah blah'
+[Sat Nov 17 15:02:59 2001] Sivy says, 'hairy feet'
+[Sat Nov 17 15:03:03 2001] Sivy giggles.
+[Sat Nov 17 15:03:04 2001] Dalios says, 'I'll have to recreate my Guide on a new account when I become full, ya?'
+[Sat Nov 17 15:03:09 2001] Antarg's image shimmers.
+[Sat Nov 17 15:03:12 2001] Sivy says, 'no'
+[Sat Nov 17 15:03:13 2001] You say, 'they copy it over'
+[Sat Nov 17 15:03:19 2001] Antarg says, 'no it gets copied over'
+[Sat Nov 17 15:03:19 2001] Faelinn auctions, 'someone auc something pls :)'
+[Sat Nov 17 15:03:24 2001] Kilm GMSAYS, 'zone'
+[Sat Nov 17 15:03:25 2001] Sivy auctions, 'wtb faelinn'
+[Sat Nov 17 15:03:30 2001] Faelinn auctions, 'ty'
+[Sat Nov 17 15:03:32 2001] Antarg auctions, 'WTS some cool GM swords!'
+[Sat Nov 17 15:03:42 2001] Dalios auctions, 'WTB toenail clippers for a hafling..'
+[Sat Nov 17 15:03:43 2001] Sivy says, 'hehe esp this is weird'
+[Sat Nov 17 15:03:44 2001] Kedian auctions, 'WTS Umbrella'
+[Sat Nov 17 15:03:51 2001] You say, 'Espranza the Teacher?'
+[Sat Nov 17 15:03:56 2001] Sivy says, 'seems like yesterday i was here '
+[Sat Nov 17 15:03:57 2001] You say, 'too plain'
+[Sat Nov 17 15:04:03 2001] Sivy says, 'KILM!'
+[Sat Nov 17 15:04:04 2001] Antarg says, 'Espranza The Irate'
+[Sat Nov 17 15:04:05 2001] Sivy says, 'heya :)'
+[Sat Nov 17 15:04:06 2001] Kedian says out of character, 'give them an electric shaver too, Dalios :)'
+[Sat Nov 17 15:04:10 2001] Kilm says, 'Hi yas'
+[Sat Nov 17 15:04:14 2001] You wave at Kilm.
+[Sat Nov 17 15:04:22 2001] Dalios says out of character, 'Footsie shaver?'
+[Sat Nov 17 15:04:23 2001] Kilm hugs Espranza.
+[Sat Nov 17 15:04:24 2001] Kilm hugs Espranza.
+[Sat Nov 17 15:04:24 2001] Kilm hugs Espranza.
+[Sat Nov 17 15:04:24 2001] Kilm hugs Espranza.
+[Sat Nov 17 15:04:24 2001] Kilm hugs Espranza.
+[Sat Nov 17 15:04:26 2001] You say, 'the Short Tempered'
+[Sat Nov 17 15:04:34 2001] You say, 'or just the Short, for short'
+[Sat Nov 17 15:04:48 2001] You say, 'or, the Tall'
+[Sat Nov 17 15:04:49 2001] Antarg says, 'the bearded'
+[Sat Nov 17 15:04:51 2001] Rahaven tells the guild, 'heyas, all'
+[Sat Nov 17 15:04:56 2001] Antarg GMSAYS, 'heya Rah!'
+[Sat Nov 17 15:04:57 2001] Sivy GMSAYS, 'RAHAVEN'
+[Sat Nov 17 15:04:58 2001] You say to your guild, 'hiya!'
+[Sat Nov 17 15:04:59 2001] Faelinn GMSAYS, 'OMG'
+[Sat Nov 17 15:05:01 2001] Sivy GMSAYS, 'WHERE HAVE YOU BEEN'
+[Sat Nov 17 15:05:02 2001] Kedian GMSAYS, 'hiya rahavaen'
+[Sat Nov 17 15:05:02 2001] Lirus GMSAYS, 'hi rahaven'
+[Sat Nov 17 15:05:03 2001] Dalios says, 'Short AND Short Tempered? Talk about getting the short end of the stick..'
+[Sat Nov 17 15:05:03 2001] Rahaven tells the guild, 'Hey :)'
+[Sat Nov 17 15:05:03 2001] Faelinn GMSAYS, 'he lives'
+[Sat Nov 17 15:05:04 2001] Sivy GMSAYS, 'YOU SILLY DE'
+[Sat Nov 17 15:05:15 2001] Dalios hides.
+[Sat Nov 17 15:05:16 2001] Rahaven GMSAYS, 'heheh.. hey Siv. :)'
+[Sat Nov 17 15:05:24 2001] Rahaven GMSAYS, 'The road goes ever on and on... zoning home'
+[Sat Nov 17 15:05:29 2001] You say, 'Espranza the Troll'
+[Sat Nov 17 15:05:41 2001] Antarg says, 'naw'
+[Sat Nov 17 15:05:43 2001] Faelinn says, 'I miss Abba :( My partner in crime'
+[Sat Nov 17 15:05:43 2001] Rodetta says, 'so what's this key for? and what's that scroll for? come on, no paint on the walls is leaving me unstimulated!'
+[Sat Nov 17 15:05:45 2001] Antarg says, 'yer not that pretty :)'
+[Sat Nov 17 15:06:02 2001] Rahaven tells the guild, 'Grats to the new guides :)'
+[Sat Nov 17 15:06:10 2001] Kedian tells the guild, 'thanks :)'
+[Sat Nov 17 15:06:12 2001] Sivy tells the guild, 'comere rah'
+[Sat Nov 17 15:06:13 2001] Antarg tells the guild, 'thanks'
+[Sat Nov 17 15:06:25 2001] Antarg GMSAYS, 'wish I could wear the robes'
+[Sat Nov 17 15:06:27 2001] You invite Rahaven to join your group.
+[Sat Nov 17 15:06:29 2001] You have formed the group.
+[Sat Nov 17 15:06:32 2001] You invite Rodetta to join your group.
+[Sat Nov 17 15:06:36 2001] You invite Dalios to join your group.
+[Sat Nov 17 15:06:37 2001] Rodetta has joined the group.
+[Sat Nov 17 15:06:40 2001] Sivy GMSAYS, 'you can'
+[Sat Nov 17 15:06:43 2001] Faelinn tells you, 'have you seen the contact board? Feldorins not on it. Rynara told me not to say anything because maybe Feld didnt get the email yet but i fiugre youre safe'
+[Sat Nov 17 15:06:44 2001] Dalios has joined the group.
+[Sat Nov 17 15:06:45 2001] Rahaven tells the group, 'nice to meet you, Rodetta'
+[Sat Nov 17 15:06:54 2001] Rodetta tells the group, 'you as well.'
+[Sat Nov 17 15:06:57 2001] Rahaven tells the group, 'well met, Dalios'
+[Sat Nov 17 15:06:57 2001] Sivy GMSAYS, 'robes are all/all'
+[Sat Nov 17 15:06:59 2001] Dalios tells the group, 'Hullo.'
+[Sat Nov 17 15:07:00 2001] Sivy GMSAYS, 'here anyway'
+[Sat Nov 17 15:07:14 2001] You told Faelinn, 'yeah, I look at the contact board a lot..'
+[Sat Nov 17 15:07:18 2001] Kilm hugs Faelinn.
+[Sat Nov 17 15:07:18 2001] Kilm hugs Faelinn.
+[Sat Nov 17 15:07:18 2001] Kilm hugs Faelinn.
+[Sat Nov 17 15:07:18 2001] Kilm hugs Faelinn.
+[Sat Nov 17 15:07:18 2001] Sivy cheers at Rahaven.
+[Sat Nov 17 15:07:18 2001] Kilm hugs Faelinn.
+[Sat Nov 17 15:07:19 2001] Antarg GMSAYS, 'nope'
+[Sat Nov 17 15:07:20 2001] Kedian GMSAYS, 'look agian sivy...'
+[Sat Nov 17 15:07:21 2001] Sivy says, 'DE brother!'
+[Sat Nov 17 15:07:22 2001] Rahaven beams a smile at Sivy.
+[Sat Nov 17 15:07:30 2001] Faelinn tells you, 'I gueess he got a lot of neg on evals'
+[Sat Nov 17 15:07:33 2001] Sivy GMSAYS, 'err nm than'
+[Sat Nov 17 15:07:37 2001] Faelinn hugs Kilm.
+[Sat Nov 17 15:07:37 2001] Faelinn hugs Kilm.
+[Sat Nov 17 15:07:38 2001] Faelinn hugs Kilm.
+[Sat Nov 17 15:07:38 2001] Rahaven tells the guild, 'Grats, Sivy :) let's keep it in guild so we don't disturb the appies'
+[Sat Nov 17 15:07:38 2001] Faelinn hugs Kilm.
+[Sat Nov 17 15:07:39 2001] Faelinn hugs Kilm.
+[Sat Nov 17 15:07:39 2001] Faelinn hugs Kilm.
+[Sat Nov 17 15:07:41 2001] Faelinn beams a smile at Kilm.
+[Sat Nov 17 15:07:45 2001] You tell your party, 'Rahaven joins us today as a new member of the training team'
+[Sat Nov 17 15:07:47 2001] Kedian GMSAYS, 'they are only worn by ppl who have robe graphics...ogres, trolls, woodies, halfers, and half elves dont have a robe graphic'
+[Sat Nov 17 15:07:51 2001] Sivy tells the guild, 'they are still waiting on more rah '
+[Sat Nov 17 15:07:52 2001] Faelinn hugs Rahaven.
+[Sat Nov 17 15:07:55 2001] Faelinn says, 'Hi Rah :)'
+[Sat Nov 17 15:07:57 2001] Faelinn says, 'Missed you!'
+[Sat Nov 17 15:08:03 2001] Rahaven tells the guild, 'Ah. :) ok'
+[Sat Nov 17 15:08:11 2001] Dalios says, '.'
+[Sat Nov 17 15:08:15 2001] Rahaven hugs Faelinn.
+[Sat Nov 17 15:08:24 2001] You tell your party, 'we're waiting for Correlan to figure out his zone file problem'
+[Sat Nov 17 15:08:34 2001] Rahaven tells the group, 'Wasn't that long ago that I sat here, waiting to see what Espie would say :)'
+[Sat Nov 17 15:08:36 2001] Faelinn tells you, 'That wand looks like a big ol phallice'
+[Sat Nov 17 15:08:47 2001] You told Faelinn, 'Fae!!!!'
+[Sat Nov 17 15:08:51 2001] Faelinn tells you, 'WHAT'
+[Sat Nov 17 15:08:57 2001] Your feet leave the ground.
+[Sat Nov 17 15:09:01 2001] Faelinn tells you, 'LOOK'
+[Sat Nov 17 15:09:02 2001] Dalios tells the group, ''
+[Sat Nov 17 15:09:03 2001] You say, 'I'm sorry Fae'
+[Sat Nov 17 15:09:06 2001] You say, 'I have to do this'
+[Sat Nov 17 15:09:08 2001] Faelinn tells you, 'its phallic'
+[Sat Nov 17 15:09:12 2001] Summoning faelinn.
+[Sat Nov 17 15:09:20 2001] Faelinn shouts, 'but it does look like one!'
+[Sat Nov 17 15:09:22 2001] Sivy says, 'hahahahaha'
+[Sat Nov 17 15:09:24 2001] Faelinn shouts, 'admit it lol'
+[Sat Nov 17 15:09:32 2001] You shout, 'Dirty mind!'
+[Sat Nov 17 15:09:38 2001] Faelinn shouts, 'heh'
+[Sat Nov 17 15:09:57 2001] Dalios says, 'What looks like what?'
+[Sat Nov 17 15:09:57 2001] Antarg tells the guild, 'how I go about getting a race change? I wanna wear the robes :)'
+[Sat Nov 17 15:10:07 2001] Rahaven tells the guild, 'Anyone can wear robes :)'
+[Sat Nov 17 15:10:08 2001] You say to your guild, 'gonna pull an Abba, huh?'
+[Sat Nov 17 15:10:10 2001] Faelinn shouts, 'i was telling her that flowers look like little angels, theyre so pretty'
+[Sat Nov 17 15:10:14 2001] Antarg tells the guild, 'I cant :)'
+[Sat Nov 17 15:10:20 2001] Kedian tells the guild, 'did abba change his race?'
+[Sat Nov 17 15:10:24 2001] You say to your guild, 'twice'
+[Sat Nov 17 15:10:27 2001] Faelinn says, 'you should be able to theyre all all'
+[Sat Nov 17 15:10:28 2001] Rahaven tells the guild, 'yes, a few times :)'
+[Sat Nov 17 15:10:28 2001] Kedian tells the guild, 'lol'
+[Sat Nov 17 15:10:31 2001] Dalios hands Espranza her script: Help me Obi Wan Kenobi.. You're my only hope.. (Its the hair do...heehee..)
+[Sat Nov 17 15:10:33 2001] Rodetta grabs hold of Antarg and begins to dance with him.
+[Sat Nov 17 15:10:36 2001] Faelinn says, 'Abba changed his name again'
+[Sat Nov 17 15:10:38 2001] Kedian tells the guild, 'he was a troll wasn't he?'
+[Sat Nov 17 15:10:44 2001] You say, 'Dalios, I really dislike having to dunk people'
+[Sat Nov 17 15:10:45 2001] Faelinn says, 'Its now Abbadabba the Easy Amuser :)'
+[Sat Nov 17 15:10:48 2001] You say to your guild, 'originally a gnome'
+[Sat Nov 17 15:10:52 2001] Antarg tells the guild, 'it a total new char or just have to beg Lirus?'
+[Sat Nov 17 15:11:01 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:02 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:02 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:03 2001] You say to your guild, 'get approval from a senior'
+[Sat Nov 17 15:11:03 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:03 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:03 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:04 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:04 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:05 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:05 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:06 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:06 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:07 2001] Antarg floats above the ground.
+[Sat Nov 17 15:11:09 2001] You say to your guild, 'then beg  Lirus'
+[Sat Nov 17 15:11:14 2001] Antarg tells the guild, 'bah, too much work :)'
+[Sat Nov 17 15:11:25 2001] Faelinn says, 'OOOO a firecracker!!!!'
+[Sat Nov 17 15:11:29 2001] Faelinn says, 'Mommy :('
+[Sat Nov 17 15:11:29 2001] You feel the spirit of Z surround you.
+[Sat Nov 17 15:11:32 2001] You feel the spirit of Z surround you.
+[Sat Nov 17 15:11:33 2001] Espranza saved.
+[Sat Nov 17 15:11:34 2001] Faelinn begins to cast a spell. (Contraction)
+[Sat Nov 17 15:11:36 2001] Faelinn is surrounded by a brief aura.
+[Sat Nov 17 15:11:37 2001] Faelinn floats above the ground.
+[Sat Nov 17 15:11:41 2001] Rodetta says, 'what is that?'
+[Sat Nov 17 15:11:43 2001] You feel the spirit of Z surround you.
+[Sat Nov 17 15:11:48 2001] Faelinn feels a bit dispelled.
+[Sat Nov 17 15:11:48 2001] Faelinn feels a bit dispelled.
+[Sat Nov 17 15:11:49 2001] Faelinn feels a bit dispelled.
+[Sat Nov 17 15:11:49 2001] Faelinn feels a bit dispelled.
+[Sat Nov 17 15:11:51 2001] You say, 'Darn minefields!'
+[Sat Nov 17 15:11:54 2001] Faelinn says, 'HAPPY NEW YEAR!'
+[Sat Nov 17 15:11:55 2001] Dalios says, 'Am I at a Naggy raid? ;)'
+[Sat Nov 17 15:11:56 2001] You feel the spirit of Z surround you.
+[Sat Nov 17 15:12:02 2001] Sivy says, 'guide raid!'
+[Sat Nov 17 15:12:10 2001] Sivy floats above the ground.
+[Sat Nov 17 15:12:14 2001] Sivy begins to cast a spell. (Contraction)
+[Sat Nov 17 15:12:16 2001] Sivy shrinks.
+[Sat Nov 17 15:12:22 2001] Faelinn says, 'Sivy you look really cool when youre on fire'
+[Sat Nov 17 15:12:27 2001] You feel different.
+[Sat Nov 17 15:12:36 2001] Your illusion fades.
+[Sat Nov 17 15:12:36 2001] Sivy says, 'is that a compliment? lol'
+[Sat Nov 17 15:12:41 2001] Faelinn says, 'yes lol '
+[Sat Nov 17 15:12:41 2001] Sivy feels a bit dispelled.
+[Sat Nov 17 15:12:53 2001] Faelinn says, 'BAH'
+[Sat Nov 17 15:12:54 2001] You no longer have a target.
+[Sat Nov 17 15:12:55 2001] Sivy says, 'lol'
+[Sat Nov 17 15:12:57 2001] Sivy says, 'you love doing that ;)'
+[Sat Nov 17 15:12:59 2001] Sivy floats above the ground.
+[Sat Nov 17 15:13:00 2001] Sivy floats above the ground.
+[Sat Nov 17 15:13:00 2001] Sivy floats above the ground.
+[Sat Nov 17 15:13:00 2001] Sivy floats above the ground.
+[Sat Nov 17 15:13:00 2001] Kilm begins to cast a spell. (Contraction)
+[Sat Nov 17 15:13:01 2001] Sivy floats above the ground.
+[Sat Nov 17 15:13:02 2001] Sivy floats above the ground.
+[Sat Nov 17 15:13:03 2001] Antarg says, 'I do :)'
+[Sat Nov 17 15:13:04 2001] Dalios says, 'Any word from the other Appie?'
+[Sat Nov 17 15:13:09 2001] Sivy feels a bit dispelled.
+[Sat Nov 17 15:13:13 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:13:14 2001] You say, 'He's been LD here a couple of times'
+[Sat Nov 17 15:13:19 2001] You say, 'Lancet is off chasing him down'
+[Sat Nov 17 15:13:26 2001] Sivy blinks a few times.
+[Sat Nov 17 15:13:30 2001] Antarg feels a bit dispelled.
+[Sat Nov 17 15:13:31 2001] Rahaven GMSAYS, 'On the positive side, after some budget adjustments and tedious RMA work, I'm Luclin Compatible (tm)'
+[Sat Nov 17 15:13:31 2001] Sivy feels a bit dispelled.
+[Sat Nov 17 15:13:33 2001] Sivy feels a bit dispelled.
+[Sat Nov 17 15:13:34 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:13:37 2001] You GMSAY, 'grats!'
+[Sat Nov 17 15:13:39 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:13:40 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:13:41 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:13:41 2001] Rahaven tells the guild, 'thanks :)'
+[Sat Nov 17 15:13:52 2001] Sivy GMSAYS, 'woot rah! :)'
+[Sat Nov 17 15:13:58 2001] Sivy GMSAYS, 'where are the luclin reqs?'
+[Sat Nov 17 15:14:00 2001] Antarg begins to cast a spell. (Contraction)
+[Sat Nov 17 15:14:00 2001] Faelinn GMSAYS, 'im probably not i wonder if ill still be able to run it'
+[Sat Nov 17 15:14:02 2001] Antarg shrinks.
+[Sat Nov 17 15:14:05 2001] Sivy GMSAYS, 'ill probably ned to upgrade too =('
+[Sat Nov 17 15:14:19 2001] You say, 'I seriously need help with my last name...'
+[Sat Nov 17 15:14:29 2001] Kilm GMSAYS, 'the bright side is that computer components are cheap :) '
+[Sat Nov 17 15:14:31 2001] You can no longer levitate.
+[Sat Nov 17 15:14:38 2001] Faelinn says, 'the Dragoon '
+[Sat Nov 17 15:14:41 2001] Sivy says, 'Espranza of Hairy Feet'
+[Sat Nov 17 15:14:41 2001] You say, 'the Linkdead?'
+[Sat Nov 17 15:14:43 2001] Faelinn says, 'or Zytl'
+[Sat Nov 17 15:15:00 2001] Rodetta was injured by falling.
+[Sat Nov 17 15:15:02 2001] You say, 'really would have to be Dragoon Espranza'
+[Sat Nov 17 15:15:09 2001] You say, 'can't do that'
+[Sat Nov 17 15:15:21 2001] Faelinn says, 'that would be funny'
+[Sat Nov 17 15:15:28 2001] Kilm is surrounded by a brief aura.
+[Sat Nov 17 15:15:28 2001] Antarg says, 'cant half tell this is a slow day can you?'
+[Sat Nov 17 15:15:30 2001] You say, 'yeah'
+[Sat Nov 17 15:15:30 2001] Rahaven tells the group, 'so what servers are you guys from?'
+[Sat Nov 17 15:15:36 2001] You tell your party, 'EMarr'
+[Sat Nov 17 15:15:40 2001] Rodetta waves his hands in the air like he just dont care.
+[Sat Nov 17 15:15:42 2001] Rodetta stands on her tip-toes and does a dance of joy!
+[Sat Nov 17 15:15:44 2001] Players in EverQuest:
+[Sat Nov 17 15:15:44 2001] ---------------------------
+[Sat Nov 17 15:15:44 2001] * Guide *[50 Enchanter] Rahaven (Dark Elf) <Keepers of Dreams> ZONE: cshome (USER PID FU7FYKJ)
+[Sat Nov 17 15:15:44 2001] * Guide *[54 Pathfinder] Kilm (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUWN74)
+[Sat Nov 17 15:15:44 2001] * Guide *[50 Warrior] Sivy (Dark Elf) <Keepers of Dreams> ZONE: cshome (USER PID AU7F86Y)
+[Sat Nov 17 15:15:44 2001] * Guide *[50 Ranger] Antarg (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Sat Nov 17 15:15:44 2001] * Guide *[50 Enchanter] Faelinn (High Elf) <Keepers of Dreams> ZONE: cshome (USER PID FUUW3D0)
+[Sat Nov 17 15:15:44 2001] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: cshome (USER PID HU7F5NG)
+[Sat Nov 17 15:15:44 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Nov 17 15:15:44 2001] There are 7 players in EverQuest.
+[Sat Nov 17 15:15:47 2001] Rahaven tells the group, 'I'm from Karana :)'
+[Sat Nov 17 15:15:55 2001] Rodetta tells the group, 'Tribunal'
+[Sat Nov 17 15:15:56 2001] Sivy says, 'HE/'
+[Sat Nov 17 15:15:56 2001] Faelinn says: STAND BACK IM GONNA SNEEZE!.
+[Sat Nov 17 15:15:57 2001] Faelinn sneezes all over the place..
+[Sat Nov 17 15:15:57 2001] Dalios tells the group, 'veeshan'
+[Sat Nov 17 15:15:58 2001] Faelinn wipes her nose..
+[Sat Nov 17 15:16:02 2001] Faelinn giggles.
+[Sat Nov 17 15:16:02 2001] Sivy says, 'is there something your not telling us rodetta?'
+[Sat Nov 17 15:16:10 2001] Antarg says, 'can I show them... the pillar?'
+[Sat Nov 17 15:16:19 2001] You say, 'after today, it's gonna be Espranza the Typer'
+[Sat Nov 17 15:16:55 2001] Rahaven says, 'I'm thinking of hiring a couple of Troll Sk's and going into the money lending business'
+[Sat Nov 17 15:16:55 2001] Antarg floats above the ground.
+[Sat Nov 17 15:17:03 2001] Antarg feels a bit dispelled.
+[Sat Nov 17 15:17:04 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:17:11 2001] Kedian begins to cast a spell. (Sunset Home)
+[Sat Nov 17 15:17:12 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:17:12 2001] You say, 'Espranza the Trollkin'
+[Sat Nov 17 15:17:12 2001] Kedian fades away.
+[Sat Nov 17 15:17:14 2001] Rodetta says, 'sorry sivy, what's that? was away.'
+[Sat Nov 17 15:17:15 2001] Sivy says, 'hmm why cant ked be dispelled'
+[Sat Nov 17 15:17:16 2001] You say, 'like, a little troll'
+[Sat Nov 17 15:17:26 2001] Sivy says, 'lol nothing rodetta :)'
+[Sat Nov 17 15:17:34 2001] Rahaven chuckles at Kedian.
+[Sat Nov 17 15:17:39 2001] You feel the spirit of Norrath enter you.
+[Sat Nov 17 15:17:47 2001] Sivy says, 'yay for ugly robes!!'
+[Sat Nov 17 15:18:00 2001] Antarg shouts, 'muwhahaha'
+[Sat Nov 17 15:18:04 2001] Kilm says, 'hehe fits the Inkies! :) '
+[Sat Nov 17 15:18:08 2001] You say, 'Espranza the That's Not Funny'
+[Sat Nov 17 15:18:22 2001] Kilm snickers softly at Rahaven.
+[Sat Nov 17 15:18:24 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:18:31 2001] Rahaven grins evilly.
+[Sat Nov 17 15:18:38 2001] You say, 'Espranza the Stoic'
+[Sat Nov 17 15:18:39 2001] Sivy's image shimmers.
+[Sat Nov 17 15:18:43 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:18:43 2001] You say, 'Espranza the Calm'
+[Sat Nov 17 15:18:49 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:18:50 2001] Kedian begins to cast a spell. (Sunset Home)
+[Sat Nov 17 15:18:50 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:18:51 2001] Kedian fades away.
+[Sat Nov 17 15:18:51 2001] You say, 'Espranza the Sheep'
+[Sat Nov 17 15:18:55 2001] You have become better at Swimming! (113)
+[Sat Nov 17 15:19:05 2001] Rahaven says, 'Sorry, we're not supposed to bring up her record'
+[Sat Nov 17 15:19:10 2001] Kilm says, 'Espanza is some form of cappachino ?:) '
+[Sat Nov 17 15:19:19 2001] You say, 'It's a common name where I live'
+[Sat Nov 17 15:19:19 2001] Kedian begins to cast a spell. (Contraction)
+[Sat Nov 17 15:19:21 2001] Kedian shrinks.
+[Sat Nov 17 15:19:30 2001] Rahaven says, 'Meaning hope I believe, in spanish'
+[Sat Nov 17 15:19:33 2001] You say, 'yup'
+[Sat Nov 17 15:19:38 2001] Kilm says, 'ahhh '
+[Sat Nov 17 15:19:46 2001] Rodetta says, 'Lets play, HALFLING JUMPING!'
+[Sat Nov 17 15:19:46 2001] Kedian is surrounded by a brief aura.
+[Sat Nov 17 15:19:46 2001] You say, 'So I used to be "the Hopeless"'
+[Sat Nov 17 15:19:48 2001] Rahaven says, 'Three very common names. Fe, Esperanza, and Caridad. Faith, Hope, and Charity'
+[Sat Nov 17 15:19:49 2001] Sivy says, 'Espranza the Hopeful'
+[Sat Nov 17 15:19:52 2001] Llara the Mysterious says 'Hi there Antarg, just browsing?  Have you seen the Wedding Cake I just got in?'
+[Sat Nov 17 15:19:55 2001] Lancet GMSAYS, 'back'
+[Sat Nov 17 15:20:11 2001] You GMSAY, 'WB Lancet!'
+[Sat Nov 17 15:20:14 2001] Sivy GMSAYS, 'wb lance'
+[Sat Nov 17 15:20:17 2001] You GMSAY, 'we need some new last names here'
+[Sat Nov 17 15:20:21 2001] Kilm GMSAYS, 'Hi yas Lance :) '
+[Sat Nov 17 15:20:27 2001] Sivy GMSAYS, 'lance can you change my title to the Cookie Thief?'
+[Sat Nov 17 15:20:32 2001] Lancet GMSAYS, 'hope he has it right this time'
+[Sat Nov 17 15:20:42 2001] Lancet GMSAYS, 'hold on '
+[Sat Nov 17 15:20:53 2001] Lancet GMSAYS, 'lirus i took care of anme'
+[Sat Nov 17 15:20:54 2001] Rodetta says, 'You guy's trying to get me drunk? i've had 6 brews given to me since i got here!'
+[Sat Nov 17 15:20:59 2001] Glug, glug, glug...  Rodetta takes a swig of Valtron's Finest Brew.
+[Sat Nov 17 15:21:00 2001] Glug, glug, glug...  Rodetta takes a swig of Valtron's Finest Brew.
+[Sat Nov 17 15:21:00 2001] Glug, glug, glug...  Rodetta takes a swig of Valtron's Finest Brew.
+[Sat Nov 17 15:21:01 2001] Glug, glug, glug...  Rodetta takes a swig of Valtron's Finest Brew.
+[Sat Nov 17 15:21:06 2001] Rahaven chuckles.
+[Sat Nov 17 15:21:08 2001] You say, 'ah, that's enough drinking'
+[Sat Nov 17 15:21:11 2001] You say, 'no more of that please'
+[Sat Nov 17 15:21:25 2001] Sivy says, 'btw guides never drink in front of players'
+[Sat Nov 17 15:21:28 2001] Sivy says, 'well one is ok '
+[Sat Nov 17 15:21:28 2001] Rahaven says, 'Actually, we take those to pass out to players on certain occassions :)'
+[Sat Nov 17 15:21:30 2001] Sivy says, 'but not drunk'
+[Sat Nov 17 15:21:37 2001] Players on EverQuest:
+[Sat Nov 17 15:21:37 2001] ---------------------------
+[Sat Nov 17 15:21:37 2001] [ANONYMOUS] Correllan 
+[Sat Nov 17 15:21:37 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Nov 17 15:21:37 2001] * GM * [50 Enchanter] Rahaven (Dark Elf) <Keepers of Dreams>
+[Sat Nov 17 15:21:37 2001] * GM * [54 Pathfinder] Kilm (Wood Elf) <Keepers of Dreams>
+[Sat Nov 17 15:21:37 2001] * GM * [50 Warrior] Sivy (Dark Elf) <Keepers of Dreams>
+[Sat Nov 17 15:21:37 2001] * GM * [50 Ranger] Antarg (Half Elf) <Keepers of Dreams>
+[Sat Nov 17 15:21:37 2001] * GM * [50 Enchanter] Faelinn (High Elf) <Keepers of Dreams>
+[Sat Nov 17 15:21:37 2001] [ANONYMOUS] Rodetta 
+[Sat Nov 17 15:21:37 2001] * GM * [50 Monk] Kedian (Human) <Keepers of Dreams>
+[Sat Nov 17 15:21:37 2001] [ANONYMOUS] Dalios 
+[Sat Nov 17 15:21:37 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Nov 17 15:21:37 2001] There are 11 players in Sunset Home.
+[Sat Nov 17 15:21:41 2001] Rahaven says, 'The guides are used to giving them to appies, for that use'
+[Sat Nov 17 15:21:41 2001] Dalios says, 'She's not a Guide...yet...actuallt. ;)'
+[Sat Nov 17 15:21:43 2001] Espranza saved.
+[Sat Nov 17 15:21:47 2001] Kedian's image shimmers.
+[Sat Nov 17 15:21:51 2001] Kedian feels a bit dispelled.
+[Sat Nov 17 15:21:57 2001] Players on EverQuest:
+[Sat Nov 17 15:21:57 2001] ---------------------------
+[Sat Nov 17 15:21:57 2001] [ANONYMOUS] Correllan 
+[Sat Nov 17 15:21:57 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Nov 17 15:21:57 2001] * GM * [50 Enchanter] Rahaven (Dark Elf) <Keepers of Dreams>
+[Sat Nov 17 15:21:57 2001] * GM * [54 Pathfinder] Kilm (Wood Elf) <Keepers of Dreams>
+[Sat Nov 17 15:21:57 2001] * GM * [50 Warrior] Sivy (Dark Elf) <Keepers of Dreams>
+[Sat Nov 17 15:21:57 2001] * GM * [50 Ranger] Antarg (Half Elf) <Keepers of Dreams>
+[Sat Nov 17 15:21:57 2001] * GM * [50 Enchanter] Faelinn (High Elf) <Keepers of Dreams>
+[Sat Nov 17 15:21:57 2001] [ANONYMOUS] Rodetta 
+[Sat Nov 17 15:21:57 2001] * GM * [50 Monk] Kedian (Human) <Keepers of Dreams>
+[Sat Nov 17 15:21:57 2001] [ANONYMOUS] Dalios 
+[Sat Nov 17 15:21:57 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Nov 17 15:21:57 2001] There are 11 players in Sunset Home.
+[Sat Nov 17 15:22:09 2001] Sivy says, 'if your here your a guide ;P'
+[Sat Nov 17 15:22:10 2001] Teleporting to corellan.
+[Sat Nov 17 15:22:11 2001] Sivy says, 'not full'
+[Sat Nov 17 15:22:16 2001] Sivy says, 'or just a naughty player!'
+[Sat Nov 17 15:22:17 2001] Teleporting to correllan.
+[Sat Nov 17 15:22:20 2001] You invite Correllan to join your group.
+[Sat Nov 17 15:22:21 2001] Lancet shouts, 'esp wru'
+[Sat Nov 17 15:22:27 2001] Correllan has joined the group.
+[Sat Nov 17 15:22:28 2001] Lancet says, 'oh'
+[Sat Nov 17 15:22:31 2001] You say, 'heh'
+[Sat Nov 17 15:22:36 2001] Rahaven tells the group, 'welcome, Corellan'
+[Sat Nov 17 15:22:38 2001] Lancet says, 'heres your last one'
+[Sat Nov 17 15:22:38 2001] Sivy says, 'gnome!'
+[Sat Nov 17 15:22:41 2001] Correllan says, 'thanks and sorry about my lateness'
+[Sat Nov 17 15:22:46 2001] Sivy's image shimmers.
+[Sat Nov 17 15:22:50 2001] You told lancet, 'staying for training?'
+[Sat Nov 17 15:23:04 2001] Lancet tells you, 'ill be here'
+[Sat Nov 17 15:23:08 2001] You invite Lancet to join your group.
+[Sat Nov 17 15:23:12 2001] Sivy shouts, 'put away your valuables, there is a gnome in the zone'
+[Sat Nov 17 15:23:13 2001] Lancet has joined the group.
+[Sat Nov 17 15:23:18 2001] You tell your party, 'hey we're all here!'
+[Sat Nov 17 15:23:23 2001] Rahaven tells the group, 'afk a sex'
+[Sat Nov 17 15:23:27 2001] Sivy snickers softly at Correllan.
+[Sat Nov 17 15:23:28 2001] Rahaven tells the group, 'er... sec'
+[Sat Nov 17 15:23:30 2001] You say, 'Lancet, can you change my last name to the Imp, please?'
+[Sat Nov 17 15:23:32 2001] Lancet says, 'SEX BAH'
+[Sat Nov 17 15:24:01 2001] Sivy says, 'change mine to the Cookie Thief, pwease?'
+[Sat Nov 17 15:24:11 2001] You thank Lancet heartily.
+[Sat Nov 17 15:24:11 2001] Rahaven tells the group, 'back'
+[Sat Nov 17 15:24:16 2001] You tell your party, 'good sex?'
+[Sat Nov 17 15:24:27 2001] Rahaven tells the group, 'Well, good is as good does :)'
+[Sat Nov 17 15:24:36 2001] The spirit leaves you.
+[Sat Nov 17 15:24:40 2001] You tell your party, 'let's gather in one place'
+[Sat Nov 17 15:24:53 2001] Rahaven tells the group, 'where at, Esp?'
+[Sat Nov 17 15:25:00 2001] Summoning rahaven.
+[Sat Nov 17 15:25:02 2001] Summoning rodetta.
+[Sat Nov 17 15:25:05 2001] Summoning dalios.
+[Sat Nov 17 15:25:09 2001] Sivy GMSAYS, 'thankies :)'
+[Sat Nov 17 15:25:09 2001] Summoning correllan.
+[Sat Nov 17 15:25:18 2001] You tell your party, 'how about here?'
+[Sat Nov 17 15:25:37 2001] Rahaven tells the group, 'Oh, a gnome.. yumm. I mean, how nice'
+[Sat Nov 17 15:25:44 2001] You tell your party, 'welcome, all of you, to Morell-Thule!'
+[Sat Nov 17 15:25:46 2001] Rahaven chuckles at Correllan.
+[Sat Nov 17 15:25:55 2001] Correllan chuckles too.
+[Sat Nov 17 15:25:57 2001] Sivy tells the guild, 'only 3?'
+[Sat Nov 17 15:25:59 2001] You say to your guild, 'aye'
+[Sat Nov 17 15:26:04 2001] Kedian fades away.
+[Sat Nov 17 15:26:15 2001] You tell your party, 'Make sure you have your log turned on - you can use the /log command to turn it on'
+[Sat Nov 17 15:26:24 2001] Rahaven tells the guild, 'Try not to scare these please. Took us forever to straighten out that last batch ;)'
+[Sat Nov 17 15:26:26 2001] You tell your party, 'If you should go link dead, remember to turn your log back on'
+[Sat Nov 17 15:26:36 2001] Antarg tells the guild, 'only took two weeks!'
+[Sat Nov 17 15:26:40 2001] Sivy tells the guild, 'lol'
+[Sat Nov 17 15:26:45 2001] Kedian tells the guild, 'yeah, the last batch was a group of rebels..'
+[Sat Nov 17 15:26:47 2001] You tell your party, 'we always log all our shifts as we guide'
+[Sat Nov 17 15:26:56 2001] Sivy tells the guild, 'that reminds me'
+[Sat Nov 17 15:27:01 2001] Sivy tells the guild, 'did feldorin get dropped?'
+[Sat Nov 17 15:27:17 2001] You tell your party, 'They will also be invaluable whenyou come to fill out your daily shift report, or DSR'
+[Sat Nov 17 15:27:18 2001] Sivy tells the guild, 'he logged on today with no access to the guide site and no guide name'
+[Sat Nov 17 15:27:19 2001] Faelinn tells the guild, 'so how about those yankees?'
+[Sat Nov 17 15:27:33 2001] Sivy tells the guild, 'hint taken'
+[Sat Nov 17 15:27:35 2001] Kilm tells the guild, 'go D-Backs :) '
+[Sat Nov 17 15:27:41 2001] You tell your party, 'you should be sure to fill out a shift report after each shift as a guide, including this one.'
+[Sat Nov 17 15:27:42 2001] Sivy tells the guild, '/kill kilm'
+[Sat Nov 17 15:27:44 2001] Sivy tells the guild, '=X'
+[Sat Nov 17 15:27:44 2001] Rahaven tells the guild, 'Speculation is futile ;) We check the boards for official info'
+[Sat Nov 17 15:28:04 2001] You tell your party, 'Congratulations again! You have been selected from the many to become apprentice guides here on Morell-Thule!'
+[Sat Nov 17 15:28:06 2001] Sivy says, 'i like being this small'
+[Sat Nov 17 15:28:17 2001] Sivy says, 'goes good with the title'
+[Sat Nov 17 15:28:19 2001] Sivy smirks mischieviously.
+[Sat Nov 17 15:28:29 2001] You tell your party, 'You've met Senior Guide Lancet, and you will meet GM Lirus sometime soon.'
+[Sat Nov 17 15:28:37 2001] Antarg says, 'Espranza the pimp?'
+[Sat Nov 17 15:28:39 2001] Antarg says, 'err imp?'
+[Sat Nov 17 15:28:51 2001] You tell your party, 'Together with Senior Guides Kezia, Rynara and Mersi, they comprise the Server Management Team, or SMT.'
+[Sat Nov 17 15:28:51 2001] Sivy says, 'esp there are going to be a lotta gimp jokes ;p'
+[Sat Nov 17 15:28:53 2001] Antarg ducks.
+[Sat Nov 17 15:28:57 2001] You say, 'Not for long.'
+[Sat Nov 17 15:29:01 2001] You say, 'Lava hurts.'
+[Sat Nov 17 15:29:05 2001] Sivy says, 'doh =X'
+[Sat Nov 17 15:29:19 2001] Lancet says, 'ok guys let her do her thing no unnessery spaming'
+[Sat Nov 17 15:29:41 2001] You tell your party, 'I am Guide Espranza, together with Guides Rahaven, Abbadabba, and Senior Guide Mersi, we're the training team.'
+[Sat Nov 17 15:30:00 2001] Rahaven tells the group, 'howdy :)'
+[Sat Nov 17 15:30:01 2001] You tell your party, 'It's our job to tell you all you need to know to become comfortable with the guiding process here on MT.'
+[Sat Nov 17 15:30:25 2001] Sivy tells the guild, 'it rained when we were appies'
+[Sat Nov 17 15:30:30 2001] Correllan tells the group, 'hi'
+[Sat Nov 17 15:30:36 2001] Rahaven tells the guild, 'that was a sign, I think ;)'
+[Sat Nov 17 15:30:41 2001] Sivy tells the guild, 'tell me about it'
+[Sat Nov 17 15:30:45 2001] Dolcemorte tells you, 'so did ya hear about how tw got scrued in ToT yet heh'
+[Sat Nov 17 15:30:54 2001] Rahaven tells the guild, 'it said: you need to do your laudry'
+[Sat Nov 17 15:31:01 2001] Sivy tells the guild, 'rofl'
+[Sat Nov 17 15:31:04 2001] Kedian GMSAYS, 'Marle would like surname removed'
+[Sat Nov 17 15:31:07 2001] You tell your party, 'For the duration of this orientation, you will be anonymous. After that you will ALWAYS be visible, as long as your apprenticeship lasts, but for now we do not want you to be interrupted with /tells from players.'
+[Sat Nov 17 15:31:12 2001] You told Dolcemorte, 'no, what happened?'
+[Sat Nov 17 15:31:17 2001] You told Dolcemorte, 'noticed FE won'
+[Sat Nov 17 15:31:21 2001] Antarg says, 'jeebus Sivy'
+[Sat Nov 17 15:31:25 2001] Lancet GMSAYS, 'ok'
+[Sat Nov 17 15:31:26 2001] Sivy says, 'yessem?'
+[Sat Nov 17 15:31:35 2001] Dolcemorte tells you, 'Well want to hear long story or short story?'
+[Sat Nov 17 15:31:35 2001] Antarg says, 'that IS small :)'
+[Sat Nov 17 15:31:44 2001] Sivy says, 'your small!'
+[Sat Nov 17 15:31:44 2001] You tell your party, 'Please write down your questions. I will periodically stop and ask for them. This will make your orientation go that much faster!'
+[Sat Nov 17 15:31:46 2001] Sivy bonks Antarg on the head!
+[Sat Nov 17 15:31:50 2001] You told Dolcemorte, 'I have time, training appies now'
+[Sat Nov 17 15:31:53 2001] Espranza saved.
+[Sat Nov 17 15:31:53 2001] Lancet GMSAYS, 'zoning'
+[Sat Nov 17 15:32:28 2001] You tell your party, 'I am sure you have read the myriad documents I sent to you. Foremost among them are the Customer Service guidelines, (AKA Policies and Procedures, most often known as P&P)'
+[Sat Nov 17 15:32:30 2001] Dolcemorte tells you, 'Ok. We all get summoned Lirus goes over rules.. says 1 fight wins all.. i ask ooc are you sure... rules says 2 of 3.. she says yes 1 fight wins all... i ask her the same question in tells... are you sure rules says 2 out of 3... she says y'
+[Sat Nov 17 15:32:34 2001] Dolcemorte tells you, 'yes.. we fight.. Tw wins.'
+[Sat Nov 17 15:32:46 2001] Dolcemorte tells you, 'Fe complain... then it becomes winner of 2 out of 3 battles'
+[Sat Nov 17 15:32:50 2001] Antarg kicks sivy.
+[Sat Nov 17 15:32:57 2001] Antarg says, 'eep! a flea!'
+[Sat Nov 17 15:32:59 2001] Dolcemorte tells you, 'we all biotch.. nothing happens have to fight 2 out of 3'
+[Sat Nov 17 15:33:03 2001] You tell your party, 'Take these to heart. These are the Word from Above, and we take them very seriously. Most every question has an answer somewhere in the P&P.'
+[Sat Nov 17 15:33:06 2001] Sivy steals all da c00kies from antarg.
+[Sat Nov 17 15:33:16 2001] You told Dolcemorte, 'hmmmm'
+[Sat Nov 17 15:33:17 2001] Dolcemorte tells you, 'we lost 2nd round.. heh got owned.. 3rd roudn comes about we fight good.. equally thru the entire round'
+[Sat Nov 17 15:33:32 2001] You tell your party, 'I can't stress enough the tenets in the Apprentice Guidelines...'
+[Sat Nov 17 15:33:36 2001] You tell your party, 'Always be polite'
+[Sat Nov 17 15:33:38 2001] Dolcemorte tells you, 'But towards the end i find 2 FE behind a spirs medding.. i tell lirus this she says that you are aloud behind the spirs'
+[Sat Nov 17 15:33:40 2001] You tell your party, 'Never ignore a petition'
+[Sat Nov 17 15:33:46 2001] Antarg's image shimmers.
+[Sat Nov 17 15:33:50 2001] You tell your party, 'Never respond to /ooc's or shouts'
+[Sat Nov 17 15:33:55 2001] Dolcemorte tells you, 'we lost that fight by 3 people'
+[Sat Nov 17 15:33:57 2001] You tell your party, 'Roleplay whenever possible'
+[Sat Nov 17 15:34:08 2001] You tell your party, 'Which means, even if you aren't a halfling, pretend you were.'
+[Sat Nov 17 15:34:09 2001] Dolcemorte tells you, 'And in reality those 2 people should have been DTed and Tw should have been givin 2 extra poitns'
+[Sat Nov 17 15:34:17 2001] Dolcemorte tells you, 'And we would have still won 2 out of 3 battles'
+[Sat Nov 17 15:34:18 2001] Correllan tells the group, 'lol'
+[Sat Nov 17 15:34:26 2001] Lancet GMSAYS, 'zoning'
+[Sat Nov 17 15:34:37 2001] You tell your party, 'and track your activities and the things you learn in a notebook, which you should keep near you always. That last is very important!'
+[Sat Nov 17 15:34:49 2001] You told Dolcemorte, 'Wish I'd been there :('
+[Sat Nov 17 15:35:11 2001] Dolcemorte tells you, 'Mona is writing a letter containing all this info so we might get a rematch im not sure thou'
+[Sat Nov 17 15:35:18 2001] You tell your party, 'You came into CSHome today with the most important tools for guiding, which are your game knowledge and your common sense!'
+[Sat Nov 17 15:35:25 2001] You told Dolcemorte, 'good luck - mean that'
+[Sat Nov 17 15:35:31 2001] Antarg tells the guild, 'hey its not hazing to summon other full guides into objects right? :)'
+[Sat Nov 17 15:35:40 2001] You say to your guild, 'if you have their consent'
+[Sat Nov 17 15:35:44 2001] Faelinn tells the guild, 'depends on how the other person feels about it '
+[Sat Nov 17 15:35:46 2001] You say to your guild, 'hazing is - you don't'
+[Sat Nov 17 15:35:46 2001] Sivy GMSAYS, 'ut oh antarg ;)'
+[Sat Nov 17 15:35:49 2001] Lancet tells the group, 'hehe'
+[Sat Nov 17 15:35:58 2001] Faelinn tells the guild, 'like me, i dont care, but i do not care for being summoned to lava'
+[Sat Nov 17 15:35:59 2001] Sivy tells the guild, 'damn /pr'
+[Sat Nov 17 15:36:07 2001] Antarg tells the guild, 'so if we're running around playing pranks on each other it's fine?'
+[Sat Nov 17 15:36:18 2001] Lancet tells the guild, 'no summoning without  otheres ok'
+[Sat Nov 17 15:36:20 2001] Faelinn tells the guild, 'as long as its not upsetting the other person yeah'
+[Sat Nov 17 15:36:42 2001] You tell your party, 'You also get a couple of new commands to use - /pr, which you'll learn more of when Lirus buffs you, and /searchcorpse, which finds people's dead bodies and is something you'll be doing a lot of.'
+[Sat Nov 17 15:37:17 2001] You tell your party, '/pr is our guide chat channel. If you don't know the answer to a question, use /pr to ask - usually someone will know.'
+[Sat Nov 17 15:37:18 2001] Dolcemorte tells you, 'but Wasnt really Lirus's falt that she didnt know the rules.. she was informed late that she was going to be leading the event.'
+[Sat Nov 17 15:37:30 2001] Sivy is surrounded by a brief aura.
+[Sat Nov 17 15:37:31 2001] Dolcemorte tells you, 'we just want a fair chance at it you know:('
+[Sat Nov 17 15:37:34 2001] You tell your party, 'And as always, feel free to ask questions! We love questions!'
+[Sat Nov 17 15:37:42 2001] You told Dolcemorte, 'I think you deserve one...!'
+[Sat Nov 17 15:37:43 2001] Kedian tells the guild, 'heh, look at the /who all GM, theres a GM event in cshome!'
+[Sat Nov 17 15:38:01 2001] Sivy tells the guild, 'LOL'
+[Sat Nov 17 15:38:09 2001] You tell your party, 'If you don't get an answer right away, just shift-up arrow and ask again in a few seconds'
+[Sat Nov 17 15:38:21 2001] Antarg tells the guild, 'lets play swat the appies! :)'
+[Sat Nov 17 15:38:26 2001] You tell your party, 'guides are often zoning, or on a petition, and might not have seen your question just then.'
+[Sat Nov 17 15:38:30 2001] Agaden GMSAYS, 'hello all'
+[Sat Nov 17 15:38:38 2001] Lancet GMSAYS, 'hiya'
+[Sat Nov 17 15:38:38 2001] Rahaven GMSAYS, 'Heyas Agie :)'
+[Sat Nov 17 15:38:51 2001] Sivy GMSAYS, 'hiyas aga :)'
+[Sat Nov 17 15:38:53 2001] Kedian GMSAYS, 'whoever just pulled marlee, I think he petitioned earler abuot removing a surname...(just fyi)'
+[Sat Nov 17 15:38:55 2001] You tell your party, 'If the guides don't know the answer to an issue, tell the petitioner this is an issue new to us, and that you will enter it into your status report to get further guidance on the issue.'
+[Sat Nov 17 15:39:00 2001] Kedian GMSAYS, 'hiya agaden'
+[Sat Nov 17 15:39:08 2001] Sivy GMSAYS, 'ag come to cs home! the appies are here!'
+[Sat Nov 17 15:39:10 2001] You tell your party, 'The post it and ask around. You'll be surprised what you can learn from other guides!'
+[Sat Nov 17 15:39:10 2001] Lancet GMSAYS, 'its done'
+[Sat Nov 17 15:39:13 2001] Antarg tells the guild, 'anyone know what language Sanamambinche is? :)'
+[Sat Nov 17 15:39:14 2001] Agaden GMSAYS, 'ack!'
+[Sat Nov 17 15:39:30 2001] Rahaven tells the guild, 'it's spanglish :)'
+[Sat Nov 17 15:39:33 2001] Espranza pauses and props up a sign reading "Happy Fun Question Time" against the gleaming walls.
+[Sat Nov 17 15:39:36 2001] Antarg tells the guild, 'you speak it?'
+[Sat Nov 17 15:39:38 2001] You tell your party, 'Any questions?'
+[Sat Nov 17 15:39:40 2001] Agaden tells the guild, 'are we allowed in there when the appies are there?'
+[Sat Nov 17 15:39:45 2001] You say to your guild, 'yes'
+[Sat Nov 17 15:39:47 2001] Faelinn tells the guild, 'Rahaven? speak spanish? noooo'
+[Sat Nov 17 15:39:49 2001] Rodetta tells the group, 'no, not yet.'
+[Sat Nov 17 15:39:51 2001] Agaden tells the guild, 'cool :)'
+[Sat Nov 17 15:39:51 2001] Rahaven tells the guild, 'it's a form of spanish spoken by second generation'
+[Sat Nov 17 15:39:51 2001] Sivy tells the guild, 'its nice to see esp with the happy fun question time sign again'
+[Sat Nov 17 15:39:52 2001] Correllan tells the group, 'yes'
+[Sat Nov 17 15:39:54 2001] You say to your guild, 'but don't bug the appies'
+[Sat Nov 17 15:39:57 2001] Antarg tells the guild, 'got a spanish pet'
+[Sat Nov 17 15:39:59 2001] You tell your party, 'Correllan?'
+[Sat Nov 17 15:40:07 2001] Agaden tells the guild, 'I promise, I will not distract them...muwahahahahahah'
+[Sat Nov 17 15:40:08 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 15:40:11 2001] Rahaven tells the guild, 'I'm fluent. What do you need?'
+[Sat Nov 17 15:40:17 2001] Agaden GMSAYS, 'Time to get the heck outta Dodge!  Zone!'
+[Sat Nov 17 15:40:21 2001] Antarg tells the guild, 'can you handle this one? no contact yet'
+[Sat Nov 17 15:40:27 2001] Correllan tells the group, 'at what point do we begin to use the g key for our petitions ..do we have to downlaod something r is i part of our buffing'
+[Sat Nov 17 15:40:29 2001] Rahaven tells the guild, 'let me see it.. put it back :)'
+[Sat Nov 17 15:40:40 2001] Dalios tells the group, 'None here.'
+[Sat Nov 17 15:40:54 2001] You tell your party, 'At some point during today's training, Lirus will buff you and you'll be able to see the queue and talk on /pr.'
+[Sat Nov 17 15:40:54 2001] Sivy feels a bit dispelled.
+[Sat Nov 17 15:41:01 2001] Antarg feels a bit dispelled.
+[Sat Nov 17 15:41:02 2001] Correllan tells the group, 'ok'
+[Sat Nov 17 15:41:05 2001] Antarg floats above the ground.
+[Sat Nov 17 15:41:14 2001] Rahaven tells the guild, 'What's teh pet, Antarg?'
+[Sat Nov 17 15:41:23 2001] Antarg tells the guild, 'Marle'
+[Sat Nov 17 15:41:25 2001] Dalios tells the group, 'Oh wait, have one. '
+[Sat Nov 17 15:41:29 2001] You tell your party, 'okay :)'
+[Sat Nov 17 15:41:33 2001] Antarg tells the guild, 'I put it back in, someone must have picked itu p'
+[Sat Nov 17 15:41:33 2001] Rahaven tells the guild, 'I do'nt see it.. did you check it back in?'
+[Sat Nov 17 15:41:40 2001] Dalios tells the group, 'How long will we be here tonight? '
+[Sat Nov 17 15:41:56 2001] Kedian tells the guild, 'I saw it pop back in..I think someone KSed it...'
+[Sat Nov 17 15:41:59 2001] You tell your party, 'I would say another hour and a half will finish us up here'
+[Sat Nov 17 15:42:02 2001] Rahaven tells the guild, 'Gotcha. Anyone need me to speak to Marle, let me know'
+[Sat Nov 17 15:42:03 2001] Espranza saved.
+[Sat Nov 17 15:42:12 2001] Faelinn tells the guild, 'hiya agaden :)'
+[Sat Nov 17 15:42:28 2001] You stand on your tip-toes and do a dance of joy!
+[Sat Nov 17 15:42:32 2001] Dalios tells the group, 'Alright.'
+[Sat Nov 17 15:42:35 2001] Agaden tells the guild, 'lol, 9 guides, 3 appies....we win! :)'
+[Sat Nov 17 15:42:41 2001] You say to your guild, 'LOL!'
+[Sat Nov 17 15:42:45 2001] Lancet GMSAYS, 'marle taken care of'
+[Sat Nov 17 15:42:47 2001] Kilm tells the guild, 'I always win :) '
+[Sat Nov 17 15:42:56 2001] Agaden GMSAYS, 'I guess Lancet speaks Spanish too'
+[Sat Nov 17 15:42:56 2001] Antarg tells the guild, 'thanks Lancet'
+[Sat Nov 17 15:43:02 2001] You tell your party, 'okay, if there are no further questions - Rahaven, would you like to give the Appie Quiz?'
+[Sat Nov 17 15:43:10 2001] Sivy tells the guild, 'como estas?'
+[Sat Nov 17 15:43:15 2001] Antarg says, 'like my surname Es?'
+[Sat Nov 17 15:43:17 2001] Agaden GMSAYS, 'Now, if only we had someone in addition to Mersi who spoke French!'
+[Sat Nov 17 15:43:19 2001] Kedian fades away.
+[Sat Nov 17 15:43:23 2001] Espranza takes down the Happy Fun Question time sign and puts up the Quiz Time sign!
+[Sat Nov 17 15:43:24 2001] Rahaven tells you, 'I don't have mine printed out, Esp... I didn't knwo we had incoming appies today'
+[Sat Nov 17 15:43:28 2001] You say, 'It's perfect!'
+[Sat Nov 17 15:43:30 2001] Kilm tells the guild, 'estoy muy bien ?'
+[Sat Nov 17 15:43:31 2001] Lancet GMSAYS, 'why would i need to speak span she speaks perfect eng'
+[Sat Nov 17 15:43:33 2001] You told Rahaven, 'agh! okay'
+[Sat Nov 17 15:43:42 2001] Rahaven tells the group, 'Uhm.. '
+[Sat Nov 17 15:43:47 2001] Antarg tells the guild, 'oops sorry Es, didnt think you started'
+[Sat Nov 17 15:43:51 2001] You told Rahaven, 'ask them where an apprentice may not go'
+[Sat Nov 17 15:43:53 2001] Rahaven tells the group, 'Ok, what's the third letter in teh word Appie?'
+[Sat Nov 17 15:44:01 2001] Correllan tells the group, 'not a timed quiz is it?'
+[Sat Nov 17 15:44:02 2001] Lancet tells the group, 'z'
+[Sat Nov 17 15:44:02 2001] Antarg GMSAYS, 'she petted in spanish :)'
+[Sat Nov 17 15:44:03 2001] You bonk Rahaven on the head!
+[Sat Nov 17 15:44:09 2001] Agaden tells the guild, 'ok, someone summon antarg out of cs home...... :)'
+[Sat Nov 17 15:44:15 2001] Rodetta tells the group, 'p?'
+[Sat Nov 17 15:44:17 2001] Correllan tells the group, 'pp'
+[Sat Nov 17 15:44:19 2001] Correllan tells the group, 'p'
+[Sat Nov 17 15:44:20 2001] Rahaven tells the group, 'Just kidding. Where is it that an apprentice may not go?'
+[Sat Nov 17 15:44:31 2001] Rahaven tells you, 'thanks Esp :)'
+[Sat Nov 17 15:44:31 2001] Lancet tells the group, 'to the bathroom'
+[Sat Nov 17 15:44:32 2001] Rodetta tells the group, 'dungeons and cs limited'
+[Sat Nov 17 15:44:35 2001] Correllan tells the group, 'any of the dungeons or velious'
+[Sat Nov 17 15:44:36 2001] You told Rahaven, 'np :)'
+[Sat Nov 17 15:44:45 2001] Dalios tells the group, 'Limited/Restricted Zones..'
+[Sat Nov 17 15:44:57 2001] It begins to rain.
+[Sat Nov 17 15:45:00 2001] Rahaven tells the group, 'Aye, that's fairly it. there are 2 exceptions to that rule... do you knwo them?'
+[Sat Nov 17 15:45:12 2001] Agaden tells the guild, 'I wonder if this many people will be on when I do my ACTUAL shift tomorrow! lol'
+[Sat Nov 17 15:45:16 2001] Rodetta tells the group, 'waylay dungeons you have to walk through. Blackburrow, and.....'
+[Sat Nov 17 15:45:23 2001] Rodetta tells the group, 'cant remember other'
+[Sat Nov 17 15:45:27 2001] Dalios tells the group, 'To pass through to get to another zone.. or.. there on a pet..'
+[Sat Nov 17 15:45:27 2001] Correllan tells the group, 'bb and runnyeye to pass thru to another zone but first yu must announce you are passing thru them,'
+[Sat Nov 17 15:45:28 2001] Rahaven tells the group, 'Good, that's one of them.'
+[Sat Nov 17 15:45:54 2001] You told Rahaven, 'the next question is, when may an apprentice be online?'
+[Sat Nov 17 15:46:01 2001] Rahaven tells the group, 'yes, perfectly correct :) Verant has further defined zones to be appie restricted if they are new content. Keep that in mind, as we roll into Luclin'
+[Sat Nov 17 15:46:05 2001] Agaden tells the guild, 'are the appies taking the greens now?'
+[Sat Nov 17 15:46:09 2001] You say to your guild, 'not yet'
+[Sat Nov 17 15:46:22 2001] Rahaven tells the group, 'When may an apprentice be online?'
+[Sat Nov 17 15:46:24 2001] Kedian tells the guild, 'I think we get to make some fake pets for them...so think of some good ones :)'
+[Sat Nov 17 15:46:29 2001] Agaden tells the guild, 'okie, just checking...did not want ta have me kneecaps broken! :)'
+[Sat Nov 17 15:46:30 2001] Lancet has gone Linkdead.
+[Sat Nov 17 15:46:30 2001] Lancet has left the group.
+[Sat Nov 17 15:46:32 2001] Rodetta tells the group, 'when another full guide is on.'
+[Sat Nov 17 15:46:34 2001] Dalios tells the group, 'When they're with a full Guide'
+[Sat Nov 17 15:46:40 2001] Correllan tells the group, 'only when a full guide or senoir is on'
+[Sat Nov 17 15:46:45 2001] Antarg GMSAYS, 'escalating Claremont, PvP flag reset request'
+[Sat Nov 17 15:46:46 2001] Agaden tells the guild, 'lol'
+[Sat Nov 17 15:46:56 2001] Agaden tells the guild, 'afk a moment or two'
+[Sat Nov 17 15:47:10 2001] Dalios tells the group, 'Log in, see if there is a Guide or higher to accompany you.. if not, you must log off..'
+[Sat Nov 17 15:47:10 2001] You told Rahaven, 'the next, when you get to it, is "Ask how they think GMs relate to Guides"'
+[Sat Nov 17 15:47:24 2001] Rahaven tells the group, 'that's correct, all of you. Define it as a G+, because you may guide with anyone who can take responsibility for you, above guide.. What do you do if you log on and there's no guide on the WHO GM?'
+[Sat Nov 17 15:47:30 2001] Sivy begins to cast a spell. (Contraction)
+[Sat Nov 17 15:47:32 2001] Sivy shrinks.
+[Sat Nov 17 15:47:50 2001] Rodetta tells the group, 'try the /pr?'
+[Sat Nov 17 15:47:56 2001] Dalios tells the group, 'See if there is a response on /pr?'
+[Sat Nov 17 15:47:56 2001] Correllan tells the group, 'announce yourself over /pr to find out if there is one in anon'
+[Sat Nov 17 15:48:00 2001] Rahaven tells the guild, 'yes! very good. A guide could be anon'
+[Sat Nov 17 15:48:13 2001] Espranza is impresed! These are all SUPER GUIDES!
+[Sat Nov 17 15:48:13 2001] Rahaven tells the group, 'Next, could you tell me how GM's relate to Guides?'
+[Sat Nov 17 15:48:32 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 15:48:36 2001] Dalios tells the group, 'We're all on same team, they aren't our bosses.'
+[Sat Nov 17 15:48:37 2001] Rodetta tells the group, 'gm's are hired by verant, and have more power over the server, and can reset zones.'
+[Sat Nov 17 15:48:37 2001] Correllan tells the group, 'relate as in how?'
+[Sat Nov 17 15:48:37 2001] Sivy GMSAYS, 'yay lirus!'
+[Sat Nov 17 15:49:00 2001] Faelinn GMSAYS, 'Zoning... '
+[Sat Nov 17 15:49:03 2001] Dalios tells the group, 'We answer to Senior Guides, not GMs..'
+[Sat Nov 17 15:49:05 2001] Rahaven tells the group, 'Well, considering our work relationship Correllan :)'
+[Sat Nov 17 15:49:06 2001] Correllan tells the group, 'gm is the highest one of all and guides there are many of the,m'
+[Sat Nov 17 15:49:11 2001] You say to your guild, 'Antarg, I sense thee are a wee bit touched!'
+[Sat Nov 17 15:49:43 2001] Antarg tells the guild, 'I 'ate you, I 'ate yer dog and en I 'ate tha mess he left behind... yaaah ya heard me'
+[Sat Nov 17 15:49:46 2001] Correllan tells the group, 'okay we all work together but aren't being controlled by the gm...he isn't our boss'
+[Sat Nov 17 15:49:51 2001] Sivy's image shimmers.
+[Sat Nov 17 15:49:52 2001] You tell your party, 'she...'
+[Sat Nov 17 15:49:55 2001] Sivy begins to cast a spell. (Contraction)
+[Sat Nov 17 15:49:57 2001] Sivy shrinks.
+[Sat Nov 17 15:50:00 2001] Rahaven tells the group, 'Dalios is correct, and so are the rest of you to some extent. Guides are under the purview, or supervision, of the guide program- meaning, your seniors. We're partners to the GM'
+[Sat Nov 17 15:50:00 2001] Correllan tells the group, 'opps my bad she'
+[Sat Nov 17 15:50:07 2001] Faelinn tells the guild, 'eww :('
+[Sat Nov 17 15:50:12 2001] You tell your party, 'the guide program is entirely volunteer run'
+[Sat Nov 17 15:50:26 2001] Agaden tells the guild, 'what, do I smell?  Everyone left me! :(('
+[Sat Nov 17 15:50:35 2001] Antarg GMSAYS, 'hey Lirus, can I bug ya now? :)'
+[Sat Nov 17 15:50:36 2001] Faelinn tells the guild, 'i wanted to go home :)'
+[Sat Nov 17 15:50:36 2001] You tell your party, 'our chain of command does not include the GM - it's appie, guide, senior, elder and so on'
+[Sat Nov 17 15:50:40 2001] Faelinn tells the guild, 'i needed to relax'
+[Sat Nov 17 15:50:43 2001] Rahaven tells the guild, 'Heyas, Lirus :)'
+[Sat Nov 17 15:50:53 2001] You tell your party, 'GMs can give us the Official word on things'
+[Sat Nov 17 15:51:04 2001] Rahaven tells the group, 'so.. we take problems in the guide program to our seniors'
+[Sat Nov 17 15:51:27 2001] You tell your party, 'and they take them to the elder'
+[Sat Nov 17 15:51:40 2001] Rahaven nods at Espranza, smiling.
+[Sat Nov 17 15:51:59 2001] You tell your party, 'so if you have questions about guiding that a guide can't answer ---- ask your .... ?'
+[Sat Nov 17 15:52:01 2001] Agaden tells the guild, 'Hey Rahaven, you funtioning in your official new capacity as part of the training team?'
+[Sat Nov 17 15:52:10 2001] Rahaven tells the guild, 'aye, buddy :)'
+[Sat Nov 17 15:52:12 2001] Espranza saved.
+[Sat Nov 17 15:52:15 2001] Faelinn tells the guild, 'heh someone trying to name themselves poopy again'
+[Sat Nov 17 15:52:15 2001] You no longer have a target.
+[Sat Nov 17 15:52:16 2001] You tap your foot impatiently.
+[Sat Nov 17 15:52:18 2001] Correllan tells the group, 'senior or anoye else that is on over the pr channel'
+[Sat Nov 17 15:52:19 2001] Dalios tells the group, 'Senior?'
+[Sat Nov 17 15:52:23 2001] You tell your party, 'Senior, right!'
+[Sat Nov 17 15:52:26 2001] Agaden tells the guild, 'lol'
+[Sat Nov 17 15:52:37 2001] Rahaven applauds Dalios's performance.
+[Sat Nov 17 15:52:40 2001] Faelinn tells the guild, 'Poop, poopies, poopeys lol'
+[Sat Nov 17 15:52:51 2001] You tell your party, 'If you need anything guide related, let the seniors know!'
+[Sat Nov 17 15:53:04 2001] Agaden tells the guild, 'you should approve it, let them enter the world, then go to them and ask if, by chance, they need some toilet paper'
+[Sat Nov 17 15:53:07 2001] You tell your party, 'The SMT email address is MorellThuleSeniors@yahoogroups.com'
+[Sat Nov 17 15:53:11 2001] Faelinn tells the guild, 'ROFL'
+[Sat Nov 17 15:53:21 2001] Kedian GMSAYS, '<< zone >>'
+[Sat Nov 17 15:53:28 2001] Rahaven tells the group, 'you'll find we've a great sense of teamwork here, on Morell Thule- a real family feeling, we all work very well together.'
+[Sat Nov 17 15:53:30 2001] Dalios tells the group, 'Which we got in an email attachment.. ;)'
+[Sat Nov 17 15:53:32 2001] You tell your party, 'If you have trouble posting your DSRs, send them to Mersi at Mersi2001@yahoo.com'
+[Sat Nov 17 15:53:40 2001] Agaden tells the guild, 'goldween is an interesting name too'
+[Sat Nov 17 15:53:47 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 15:53:51 2001] You tell your party, 'did you read the document on posting your DSR?'
+[Sat Nov 17 15:54:14 2001] Correllan tells the group, 'yes'
+[Sat Nov 17 15:54:16 2001] Rodetta tells the group, 'yes, but i dont think i'l understand it till i see it.'
+[Sat Nov 17 15:54:21 2001] Dalios tells the group, 'The gist of it, yes.'
+[Sat Nov 17 15:54:22 2001] Correllan tells the group, 'not that i totally understood it'
+[Sat Nov 17 15:54:42 2001] You tell your party, 'I'll try to make it clearer, let me know later what parts were hard to understand'
+[Sat Nov 17 15:54:51 2001] Correllan agrees with rodetta.
+[Sat Nov 17 15:55:04 2001] You tell your party, 'any questions at this time?'
+[Sat Nov 17 15:55:19 2001] Espranza raises the Happy Fun Question time sign once again.
+[Sat Nov 17 15:55:27 2001] Dalios shakes his head.
+[Sat Nov 17 15:55:28 2001] Correllan tells the group, 'non from me at this time'
+[Sat Nov 17 15:55:28 2001] Espranza consigns the Quiz Time sign to the cupboard.
+[Sat Nov 17 15:55:33 2001] Rodetta tells the group, 'None.'
+[Sat Nov 17 15:55:49 2001] Agaden tells the guild, 'uh oh, esp is adlibbing again :)'
+[Sat Nov 17 15:55:55 2001] You tell your party, 'okay!'
+[Sat Nov 17 15:56:00 2001] Antarg GMSAYS, 'zoning! someone hold onto my pants for me!'
+[Sat Nov 17 15:56:09 2001] You say to your guild, 'I think you might need a bath...'
+[Sat Nov 17 15:56:16 2001] Rahaven GMSAYS, 'Ok. That's scary :)'
+[Sat Nov 17 15:56:24 2001] You tell your party, 'okay, let's cover the DO's and DON'Ts of guiding.'
+[Sat Nov 17 15:56:37 2001] Agaden GMSAYS, 'I just wonder how many pairs of pants he loses in a week!'
+[Sat Nov 17 15:56:46 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 15:56:53 2001] You told Rahaven, 'we'll alternate - me first - your DO is - DO explore the world as much as possible'
+[Sat Nov 17 15:56:58 2001] Faelinn GMSAYS, 'someone please tape my motuh shut before i comment on that :)'
+[Sat Nov 17 15:57:04 2001] You tell your party, 'DO ask questions as often as possible!'
+[Sat Nov 17 15:57:06 2001] Rahaven tells you, 'Goit it'
+[Sat Nov 17 15:57:15 2001] Agaden GMSAYS, '/em goes in search of Faelinn with his duct tape'
+[Sat Nov 17 15:57:21 2001] Rahaven tells the group, 'DO explore the world as much as possible'
+[Sat Nov 17 15:57:35 2001] You told Rahaven, 'um, I wasn't finished... I'll let you know when :)'
+[Sat Nov 17 15:57:39 2001] Rahaven tells you, 'LOL'
+[Sat Nov 17 15:58:05 2001] Rahaven chuckles and bows to Espranza.
+[Sat Nov 17 15:58:07 2001] Rynara shouts, 'Hi honey Im home!'
+[Sat Nov 17 15:58:09 2001] Rahaven tells the group, 'halflings first'
+[Sat Nov 17 15:58:10 2001] You tell your party, 'Back to the questions thing there... we guides are asked to evaluate your performance, and often all we have to go on are your questions and your chatter over /pr'
+[Sat Nov 17 15:58:15 2001] Kedian GMSAYS, '<< zone >>'
+[Sat Nov 17 15:58:17 2001] You shout, 'Rynara!'
+[Sat Nov 17 15:58:21 2001] Kilm shouts, 'hey Rynara :) '
+[Sat Nov 17 15:58:33 2001] Rynara waves at Espranza.
+[Sat Nov 17 15:58:36 2001] Rynara waves at Rahaven.
+[Sat Nov 17 15:58:38 2001] Rynara waves at Dalios.
+[Sat Nov 17 15:58:38 2001] You invite Rynara to join your group.
+[Sat Nov 17 15:58:40 2001] Antarg tells the guild, 'still alright to pull greens?'
+[Sat Nov 17 15:58:41 2001] Rynara waves at Correllan.
+[Sat Nov 17 15:58:44 2001] Rynara waves at Rodetta.
+[Sat Nov 17 15:58:45 2001] Correllan waves at Rynara.
+[Sat Nov 17 15:58:46 2001] Rahaven hugs Rynara.
+[Sat Nov 17 15:58:46 2001] Rynara waves at Kilm.
+[Sat Nov 17 15:58:48 2001] Kilm hugs Rynara.
+[Sat Nov 17 15:58:49 2001] Kilm hugs Rynara.
+[Sat Nov 17 15:58:49 2001] Kilm hugs Rynara.
+[Sat Nov 17 15:58:49 2001] Kilm hugs Rynara.
+[Sat Nov 17 15:58:49 2001] Kilm hugs Rynara.
+[Sat Nov 17 15:58:51 2001] Rynara has joined the group.
+[Sat Nov 17 15:58:54 2001] You tell your party, 'Hi, Rynara!'
+[Sat Nov 17 15:59:00 2001] Rodetta says, 'if you guy's see me turning or walking a pace forward or backward every now and again, it's just to clear a sound bug i'm experiencing. sorry to inturupt.'
+[Sat Nov 17 15:59:01 2001] Rynara tells the group, 'weee a party!'
+[Sat Nov 17 15:59:04 2001] Rahaven tells the group, 'welcome, Ryn :)'
+[Sat Nov 17 15:59:10 2001] You tell your party, 'This is Senior Guide Rynara!'
+[Sat Nov 17 15:59:20 2001] You tell your party, 'you'll be taking your test from her later on :)'
+[Sat Nov 17 15:59:29 2001] Rynara tells the group, 'Hi all and welcome to MT!'
+[Sat Nov 17 15:59:34 2001] Agaden gasps at Rynara in astonishment.
+[Sat Nov 17 15:59:46 2001] Correllan tells the group, 'ty'
+[Sat Nov 17 15:59:55 2001] Antarg GMSAYS, 'player fell in ToV, they cant /corpse or summon the corpse, any senior+ want this?'
+[Sat Nov 17 15:59:57 2001] Rynara bonks Kilm on the head!
+[Sat Nov 17 16:00:12 2001] You told Rahaven, 'your next DON't - when I tell you - is don't explore any dungeons'
+[Sat Nov 17 16:00:13 2001] Kilm snickers softly at Rynara.
+[Sat Nov 17 16:00:18 2001] You tell your party, 'continuing on...'
+[Sat Nov 17 16:00:24 2001] Rynara GMSAYS, 'why dont you go Antarg =)'
+[Sat Nov 17 16:00:28 2001] Rahaven GMSAYS, '*sniff sniff* that's our Antarg, all grown up!'
+[Sat Nov 17 16:00:34 2001] Agaden GMSAYS, 'lol'
+[Sat Nov 17 16:00:37 2001] You tell your party, 'DO participate in answer circles!'
+[Sat Nov 17 16:00:43 2001] Antarg GMSAYS, 'alright sounds fun :)'
+[Sat Nov 17 16:00:48 2001] Rynara tells the group, 'Lirus here?'
+[Sat Nov 17 16:00:56 2001] You tell your party, 'Answer circles are informal little gatherings where we answer questions for players who happen upon us'
+[Sat Nov 17 16:00:59 2001] You say to your guild, 'yes, Ryn'
+[Sat Nov 17 16:01:05 2001] Agaden GMSAYS, 'seems like just yesterday we was changing his...heyy, wait a minute! '
+[Sat Nov 17 16:01:06 2001] Sivy GMSAYS, '<Insert clever zone message here> ZONE!'
+[Sat Nov 17 16:01:22 2001] You tell your party, 'We try to have those in safe places where players won't be in any danger.'
+[Sat Nov 17 16:01:28 2001] You tell your party, 'Remember, though - we never group with players!'
+[Sat Nov 17 16:01:32 2001] You told Rahaven, 'yours'
+[Sat Nov 17 16:01:39 2001] Antarg GMSAYS, '<note> zoning to ToV to fix a stuck corpse'
+[Sat Nov 17 16:01:49 2001] Antarg GMSAYS, 'zoning! someone hold onto my pants for me!'
+[Sat Nov 17 16:02:05 2001] Rahaven tells the group, 'DON'T explore any dungeons'
+[Sat Nov 17 16:02:17 2001] Rahaven tells the group, 'this doesn't mean you can't enter a dungeon...'
+[Sat Nov 17 16:02:22 2001] Espranza saved.
+[Sat Nov 17 16:02:37 2001] You told Rahaven, 'your next one is: don't run, create or participate in historical quests - go into detail about what that means.'
+[Sat Nov 17 16:02:40 2001] Rahaven tells the group, 'you may do so, under the guidance of a mentoring G+, in order to learn more about what you will be doing later'
+[Sat Nov 17 16:02:55 2001] Rahaven tells you, 'Got it. Done here :)'
+[Sat Nov 17 16:03:27 2001] You tell your party, 'DON'T handle exploit, abuse, or harassment issues - these get escalated without contact to full guides (escalated to yellow).'
+[Sat Nov 17 16:03:40 2001] You tell your party, 'Sometimes the petitions are vague, and you may contact them inadvertently'
+[Sat Nov 17 16:03:46 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 16:04:01 2001] You tell your party, 'Don't worry about that, it happens - but break off contact and escalate once you know it is something for a full guide to investigate'
+[Sat Nov 17 16:04:13 2001] You told Rahaven, 'yours'
+[Sat Nov 17 16:04:15 2001] Rahaven tells the group, 'DON'T run, create, or participate in historical quests'
+[Sat Nov 17 16:04:58 2001] You told Rahaven, 'next one is - don't speak for the guide program by posting in any public forum'
+[Sat Nov 17 16:05:00 2001] Rahaven tells the group, 'I know you've read some on this already, in your PnP. While you may roleplay here, in fact you are strongly encouraged to... historical quests we stay away from'
+[Sat Nov 17 16:05:15 2001] Rahaven tells the group, 'In fact, now that you're in the guide program...'
+[Sat Nov 17 16:05:19 2001] You told Rahaven, 'remind them that this is both here and on their home server... ah nm'
+[Sat Nov 17 16:05:38 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 16:05:41 2001] Rahaven tells the group, 'you must avoid any zone where a historical event or quest is taking place, in your home server-'
+[Sat Nov 17 16:05:43 2001] You told rynara, 'could you give me a small "the" in my title?'
+[Sat Nov 17 16:05:49 2001] Antarg GMSAYS, 'zoning! someone hold onto my pants for me!'
+[Sat Nov 17 16:05:53 2001] Rynara tells you, 'sure'
+[Sat Nov 17 16:05:56 2001] You told Rynara, 'thanks!'
+[Sat Nov 17 16:06:13 2001] Rahaven tells the group, 'Better safe than wrong. We do get to participate or act in small invasions here, and miniquests, as guide-actors, and most of us consider that to be a great compensation for it'
+[Sat Nov 17 16:06:14 2001] Agaden tells the guild, 'You know, transparent mode would be much more usefull if they let you resize all the boxes and, for guides, if they removed the spell icon boxes.'
+[Sat Nov 17 16:06:31 2001] Rahaven tells you, 'done'
+[Sat Nov 17 16:06:46 2001] Kilm tells the guild, 'make a race/class with no spells :) '
+[Sat Nov 17 16:06:57 2001] Agaden tells the guild, 'too late for that now! lol'
+[Sat Nov 17 16:07:14 2001] You tell your party, 'DON'T reprimand the players! This is for full guides to do, unless you're told otherwise. And don't reprimand guides, either... this is for seniors to do!'
+[Sat Nov 17 16:07:19 2001] You told Rahaven, 'yours'
+[Sat Nov 17 16:07:22 2001] Rahaven tells the group, 'DON'T speak for the guide program by posting in any public forum'
+[Sat Nov 17 16:07:38 2001] Agaden tells the guild, 'at least we have another gnome coming through the ranks...TOO many tall people here'
+[Sat Nov 17 16:07:39 2001] You told Rahaven, 'next one is don't tell anyone you are a guide'
+[Sat Nov 17 16:07:47 2001] Rahaven tells the group, 'now, you're part of the official Veran CS team. There is a team that specifically handles that'
+[Sat Nov 17 16:07:54 2001] Adeus tells you, 'Salutations, Espranzae ^_^'
+[Sat Nov 17 16:07:55 2001] Rahaven tells you, 'done'
+[Sat Nov 17 16:07:59 2001] You told Adeus, 'Hi!'
+[Sat Nov 17 16:08:36 2001] You tell your party, 'DON'T give warnings to players! If a customer is irking you, give it over to a full guide. We live to take them off your hands, and we will issue any needed warnings should they persist.'
+[Sat Nov 17 16:08:42 2001] You told Rahaven, 'yours'
+[Sat Nov 17 16:08:47 2001] Agaden tells the guild, 'I think I shall go explore stonebrunt for a bit'
+[Sat Nov 17 16:09:06 2001] Antarg tells the guild, 'every time I try I get a pet that needs me to zone out :)'
+[Sat Nov 17 16:09:10 2001] Rahaven tells the group, 'DON'T tell anyone you're a guide. This is what we refer to as Real Life Roleplay mode :) You will get friends and guildmembers asking where you are- you may not disclose you're a guide'
+[Sat Nov 17 16:09:13 2001] Rahaven tells you, 'done'
+[Sat Nov 17 16:09:18 2001] Agaden GMSAYS, 'Time to get the heck outta Dodge!  Zone!'
+[Sat Nov 17 16:09:23 2001] Rynara tells the guild, 'having a problem?'
+[Sat Nov 17 16:09:23 2001] You tell your party, 'heh... real life roleplay...'
+[Sat Nov 17 16:09:24 2001] Sivy GMSAYS, '<Insert clever zone message here> ZONE!'
+[Sat Nov 17 16:09:42 2001] Dalios raises his hand.
+[Sat Nov 17 16:09:48 2001] You tell your party, 'You can tell us about your play server and your characters, but only us'
+[Sat Nov 17 16:09:57 2001] Rahaven tells the group, 'yes, Dalios'
+[Sat Nov 17 16:09:59 2001] You tell your party, 'Guides on other servers shouldn't even know you are a guide'
+[Sat Nov 17 16:10:33 2001] You say to your guild, 'Lirus, could you buff the appies please?'
+[Sat Nov 17 16:10:38 2001] Agaden tells the guild, 'hehe, my problem with this zone is that I have no clue where anything is...this is the first time I have been in it'
+[Sat Nov 17 16:10:51 2001] Rynara tells the guild, 'ahhh hehe ok'
+[Sat Nov 17 16:10:54 2001] Lirus tells the guild, 'yes in a few minutes or do they need it right now?'
+[Sat Nov 17 16:10:58 2001] Dalios tells the group, 'The RL bit, how does that apply with housemates or neighbors? If they're over at your house, will be awfully hard to lie about what you're doing...'
+[Sat Nov 17 16:11:02 2001] You say to your guild, 'we're to that point now'
+[Sat Nov 17 16:11:16 2001] You tell your party, 'If they play EQ, you can't tell them'
+[Sat Nov 17 16:11:21 2001] Agaden tells the guild, 'I'll come "buff" the appies! :)'
+[Sat Nov 17 16:11:26 2001] Lirus tells the guild, 'alright zone'
+[Sat Nov 17 16:11:27 2001] You tell your party, 'if they don't play EQ, just say you're playing EQ'
+[Sat Nov 17 16:11:38 2001] You tell your party, 'they don't need to know what a guide is'
+[Sat Nov 17 16:11:38 2001] Rynara tells the guild, '*bonk* Agaden'
+[Sat Nov 17 16:11:52 2001] Agaden tells the guild, 'ouch!'
+[Sat Nov 17 16:11:59 2001] You tell your party, 'although, my kids know I'm a guide, and my daughter DOES play EQ'
+[Sat Nov 17 16:12:21 2001] Rahaven tells the group, 'as does my wife, of course- but not my brother, who does play'
+[Sat Nov 17 16:12:30 2001] You tell your party, 'some people are just going to know. it's very important, though, that the guides and GMs on your play server not know'
+[Sat Nov 17 16:12:32 2001] Espranza saved.
+[Sat Nov 17 16:12:37 2001] Rynara tells you, 'I dont let my daughter play anything but the tutorial lol'
+[Sat Nov 17 16:12:39 2001] Agaden tells the guild, 'what is the level range for stonebrunt?'
+[Sat Nov 17 16:12:47 2001] Rahaven tells the guild, 'I think up to 25'
+[Sat Nov 17 16:12:53 2001] You tell your party, 'as them knowing could be construed as you wanting special privileges'
+[Sat Nov 17 16:12:58 2001] Antarg tells the guild, 'I thought it was 25-35?'
+[Sat Nov 17 16:12:58 2001] You told Rynara, ':)'
+[Sat Nov 17 16:13:03 2001] Dalios tells the group, 'I'm just worried about the friends who play EQ.. That way, if I said 'I am a Guide, stop glancing at my screen' it would be a valid reason for privacy.. wouldn't tell them my name or which server, of course..'
+[Sat Nov 17 16:13:07 2001] Kilm tells the guild, 'you still get exp at 29 there '
+[Sat Nov 17 16:13:07 2001] Rahaven tells the guild, 'no, there's lower mobs at the entrance'
+[Sat Nov 17 16:13:36 2001] You tell your party, 'you shouldn't let them know you're a guide'
+[Sat Nov 17 16:13:45 2001] Correllan is shocked to silence.
+[Sat Nov 17 16:13:52 2001] Dalios tells the group, 'Then how do you suggest I do that?'
+[Sat Nov 17 16:13:52 2001] Antarg GMSAYS, 'zoning! someone hold onto my pants for me!'
+[Sat Nov 17 16:13:55 2001] Rahaven tells the group, 'It's tough, Dalios. but if someone knows you're a guide, next thing someone posts, or boasts, they know a guide.. so on and so on'
+[Sat Nov 17 16:14:01 2001] Rodetta feels a weird feeling over his back.
+[Sat Nov 17 16:14:08 2001] Rahaven tells the group, 'my friend is a guide. And he said...'
+[Sat Nov 17 16:14:40 2001] Dalios tells the group, 'Well, I could easily tell them not to EVER divulge it.'
+[Sat Nov 17 16:14:42 2001] Agaden tells the guild, 'I might have to have my pally travel over here and have a looksy'
+[Sat Nov 17 16:14:47 2001] Correllan bows before Lirus.
+[Sat Nov 17 16:14:54 2001] Lirus bows before Rodetta.
+[Sat Nov 17 16:14:58 2001] Lirus bows before Correllan.
+[Sat Nov 17 16:15:00 2001] Rodetta cheers at Lirus.
+[Sat Nov 17 16:15:11 2001] You tell your party, 'Letting people know you are a guide is a serious infraction - best just to keep it quiet.'
+[Sat Nov 17 16:15:20 2001] Lirus bows before Dalios.
+[Sat Nov 17 16:15:21 2001] Dalios tells the group, 'Alright.'
+[Sat Nov 17 16:15:22 2001] Lirus says, 'Howdy'
+[Sat Nov 17 16:15:30 2001] You tell your party, 'My daughter's boyfriend plays EQ - and he doesn't know I'm a guide.'
+[Sat Nov 17 16:15:31 2001] Rynara tells the group, 'Dalios the fact remains that you are to not let your friends know your a guide. Those are the rules that are given us and we do our best to abide by them =)'
+[Sat Nov 17 16:15:32 2001] Rahaven tells the group, 'And you might need to find creative ways to do it, Dalios. it is difficult sometimes'
+[Sat Nov 17 16:15:44 2001] Kedian GMSAYS, 'Dardolek pets about removing a surname'
+[Sat Nov 17 16:15:54 2001] Lirus says, 'I'm GM Lirus, server GM fer Morell, please ta meet ye, now gotta go, scuse my briefness'
+[Sat Nov 17 16:16:00 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 16:16:02 2001] You wave at Lirus.
+[Sat Nov 17 16:16:02 2001] Rahaven says, 'Heyas Lirus'
+[Sat Nov 17 16:16:04 2001] Dalios tells the group, 'Well, how are you able to tell your daughter you're a Guide, then?'
+[Sat Nov 17 16:16:08 2001] You GMSAY, 'can you read this?'
+[Sat Nov 17 16:16:19 2001] Agaden GMSAYS, 'aye'
+[Sat Nov 17 16:16:21 2001] Faelinn GMSAYS, 'no'
+[Sat Nov 17 16:16:22 2001] You tell your party, 'Because it would be impossible for her not to'
+[Sat Nov 17 16:16:23 2001] Agaden GMSAYS, 'hehe, oops'
+[Sat Nov 17 16:16:26 2001] Rynara tells the group, 'immediate family is different'
+[Sat Nov 17 16:16:33 2001] Agaden GMSAYS, '/bonk agaden'
+[Sat Nov 17 16:16:41 2001] You tell your party, 'she knows, though, that it is private and confidential'
+[Sat Nov 17 16:16:44 2001] Dalios tells the group, 'Exactly, so roomates are alright?'
+[Sat Nov 17 16:16:51 2001] Rodetta tells the group, 'i think all you can do is do your best. if you have family members who find out, that's one thing, but they dont want us telling everyone. we have to just do our best.'
+[Sat Nov 17 16:17:03 2001] Antarg tells the guild, 'do I get to do a fake pet? :)'
+[Sat Nov 17 16:17:12 2001] Rynara tells you, 'groans'
+[Sat Nov 17 16:17:34 2001] Kedian GMSAYS, '<< zone >>'
+[Sat Nov 17 16:17:36 2001] Dalios fades away.
+[Sat Nov 17 16:17:37 2001] You told Rynara, 'ehh you know, this is the very first time I've had someone quiz me on who can know before'
+[Sat Nov 17 16:17:42 2001] Rynara tells the group, 'yes Rodetta'
+[Sat Nov 17 16:17:44 2001] Rodetta says, 'LOL, he gated :)'
+[Sat Nov 17 16:17:53 2001] You no longer have a target.
+[Sat Nov 17 16:17:53 2001] Agaden tells the guild, 'let me guess...."I zoned and now I don't have any pants!"?'
+[Sat Nov 17 16:17:54 2001] You sigh, clearly disappointed.
+[Sat Nov 17 16:18:02 2001] Antarg tells the guild, 'yep!'
+[Sat Nov 17 16:18:02 2001] Rahaven tells the group, 'that's a good analogy, Rodetta. think of it as necessary that your being a guide remain anonymous- and that the ability to remain so, may well determine your being able to remain a guide'
+[Sat Nov 17 16:18:10 2001] You GMSAY, 'summoning Dalios'
+[Sat Nov 17 16:18:13 2001] Dalios tells the group, 'Uhhh.. Accidently right clicked that staff'
+[Sat Nov 17 16:18:14 2001] Summoning Dalios.
+[Sat Nov 17 16:18:22 2001] Rahaven tells the group, 'summoned'
+[Sat Nov 17 16:18:48 2001] Dalios tells the group, 'I missed the analogy...'
+[Sat Nov 17 16:18:50 2001] Rahaven tells the guild, 'sorry Esp, didn't see yours in time'
+[Sat Nov 17 16:18:56 2001] You say to your guild, 'no worries'
+[Sat Nov 17 16:18:56 2001] Dalios tells the group, 'Boy was that embarassing..'
+[Sat Nov 17 16:18:59 2001] Rodetta tells the group, 'i think all you can do is do your best. if you have family members who find out, that's one thing, but they dont want us telling everyone. we have to just do our best.'
+[Sat Nov 17 16:19:05 2001] Rynara tells you, 'this guy will be a problem I could tell from IRC. He questioned me about the time training took tonight. I explained then he still felt my answer wasnt enough so he asked in IRC training'
+[Sat Nov 17 16:19:18 2001] Rynara tells you, 'they told him ask your senior LOL'
+[Sat Nov 17 16:19:23 2001] You told Rynara, 'and he has asked me'
+[Sat Nov 17 16:19:26 2001] You told Rynara, 'LOL!'
+[Sat Nov 17 16:19:32 2001] You told Rynara, 'maybe he should ask Semiramis!'
+[Sat Nov 17 16:19:38 2001] Rynara tells you, 'hehe'
+[Sat Nov 17 16:19:40 2001] Dalios GMSAYS, 'Test'
+[Sat Nov 17 16:19:44 2001] Faelinn GMSAYS, 'hiya'
+[Sat Nov 17 16:19:46 2001] You tell your party, 'okay to continue on'
+[Sat Nov 17 16:19:49 2001] Lirus GMSAYS, 'hi hi'
+[Sat Nov 17 16:19:50 2001] Agaden GMSAYS, 'yayyy'
+[Sat Nov 17 16:19:55 2001] Rahaven tells the group, 'you are now Clark Kent, folks. You need to keep the fact you're superman secret ;)'
+[Sat Nov 17 16:20:00 2001] Kilm GMSAYS, 'Welcome to Morell-Thule Dalios '
+[Sat Nov 17 16:20:08 2001] You tell your party, 'I think you all realize what a large responsibility joining the ranks of the guide program is.'
+[Sat Nov 17 16:20:08 2001] Sivy GMSAYS, 'heyas =)'
+[Sat Nov 17 16:20:10 2001] Sivy GMSAYS, '<Insert clever zone message here> ZONE!'
+[Sat Nov 17 16:20:20 2001] Dalios GMSAYS, 'Thankie.'
+[Sat Nov 17 16:20:36 2001] You tell your party, 'Sure, we do have a good time, but we always remember that the customer and the petitions come first, and it is important to ALWAYS give good customer service first and foremost.'
+[Sat Nov 17 16:20:42 2001] Correllan GMSAYS, 'hi'
+[Sat Nov 17 16:20:49 2001] Lancet GMSAYS, 'back cable went out'
+[Sat Nov 17 16:20:51 2001] Faelinn GMSAYS, 'hi correllan'
+[Sat Nov 17 16:20:54 2001] Rahaven tells the guild, 'greetings, Correllan, and welcome'
+[Sat Nov 17 16:20:54 2001] Agaden GMSAYS, 'howdy!'
+[Sat Nov 17 16:20:56 2001] Kilm GMSAYS, 'Welcome to Morell-Thule Correllan'
+[Sat Nov 17 16:21:04 2001] You tell your party, 'Roleplay your heart out, and always be friendly. If a player gets to you, ask a Guide to take over... or as a guide, ask another guide or a senior guide to take over.'
+[Sat Nov 17 16:21:11 2001] Agaden tells the guild, 'pssst, Rahaven...twas in guild! :)'
+[Sat Nov 17 16:21:13 2001] Antarg tells the guild, 'lagging like a pregnent pig'
+[Sat Nov 17 16:21:19 2001] Rahaven tells the guild, 'that's cause I'm old and slow :)'
+[Sat Nov 17 16:21:26 2001] You tell your party, 'There is no shame in asking another member of the tram to take over when a player is pushing your buttons.'
+[Sat Nov 17 16:21:27 2001] Agaden tells the guild, 'heh'
+[Sat Nov 17 16:21:36 2001] Agaden GMSAYS, 'wb Lancet'
+[Sat Nov 17 16:21:40 2001] Rynara tells the guild, 'lol Sivy I like your name'
+[Sat Nov 17 16:21:45 2001] You tell your party, 'Remember, to the players, we ARE SOE, and we must be careful to represent ourselves as such.'
+[Sat Nov 17 16:21:45 2001] Sivy tells the guild, 'thx ;)'
+[Sat Nov 17 16:21:56 2001] You tell your party, 'Are there any questions before we move along to the queue?'
+[Sat Nov 17 16:21:58 2001] Antarg tells the guild, '<-- is The Touched :)'
+[Sat Nov 17 16:22:04 2001] You say to your guild, 'fake petition time, guys'
+[Sat Nov 17 16:22:06 2001] Correllan tells the group, 'yes one'
+[Sat Nov 17 16:22:10 2001] Dalios tells the group, 'Nope.'
+[Sat Nov 17 16:22:12 2001] Antarg tells the guild, 'ooh :)'
+[Sat Nov 17 16:22:13 2001] Agaden tells the guild, 'all of us?'
+[Sat Nov 17 16:22:20 2001] You say to your guild, 'all guides please post ONE fake petition - try to make them real petitions'
+[Sat Nov 17 16:22:25 2001] You say to your guild, 'but not too hard'
+[Sat Nov 17 16:22:31 2001] Agaden tells the guild, 'okie'
+[Sat Nov 17 16:22:31 2001] Sivy tells the guild, 'i petted about falling in lava'
+[Sat Nov 17 16:22:33 2001] You tell your party, 'Correllan?'
+[Sat Nov 17 16:22:41 2001] Espranza saved.
+[Sat Nov 17 16:22:43 2001] Correllan tells the group, 'back tot he quest...is the historical quest the ones like we had at halloween or are they more like the occasional ones by the gms'
+[Sat Nov 17 16:22:47 2001] Antarg tells the guild, 'I petted getting stuck in a wall'
+[Sat Nov 17 16:22:58 2001] Correllan tells the group, 'or both'
+[Sat Nov 17 16:22:59 2001] Kedian tells the guild, 'petted about no boats'
+[Sat Nov 17 16:23:16 2001] You tell your party, 'Historical quests are those that further the plot of the game'
+[Sat Nov 17 16:23:23 2001] Agaden tells the guild, '"I fell off the boat and now I can't get back on!"'
+[Sat Nov 17 16:23:27 2001] Faelinn tells the guild, 'i petitioned about Rahven being mean and dressing funny'
+[Sat Nov 17 16:23:29 2001] You tell your party, 'Like those involving Firiona Vie, or Al'Kabor and such'
+[Sat Nov 17 16:23:39 2001] Rahaven tells the guild, 'Swim, damn it !'
+[Sat Nov 17 16:23:43 2001] Agaden tells the guild, 'hehe, actually, maybe I should zone to a place that has a boat in it! lol'
+[Sat Nov 17 16:23:48 2001] Antarg tells the guild, 'I've never got a pet complaining about people dressing funny'
+[Sat Nov 17 16:23:48 2001] Kilm tells the guild, 'Psst Faelinn.. all Inkies are that way :) '
+[Sat Nov 17 16:23:48 2001] Agaden GMSAYS, 'Time to get the heck outta Dodge!  Zone!'
+[Sat Nov 17 16:23:53 2001] Correllan tells the group, 'okay i am not sure i have actually seen one..lol..but will definitey look out for them now and avoid'
+[Sat Nov 17 16:23:55 2001] Faelinn tells the guild, 'bwaaahahaha'
+[Sat Nov 17 16:24:08 2001] Sivy GMSAYS, 'i cant see half the names on the green pets'
+[Sat Nov 17 16:24:14 2001] You tell your party, 'They're fun :) when you become full guide you can observe and sometimes participate in them as well.'
+[Sat Nov 17 16:24:14 2001] Faelinn GMSAYS, 'same'
+[Sat Nov 17 16:24:17 2001] Antarg GMSAYS, 'ditto'
+[Sat Nov 17 16:24:22 2001] Rodetta tells the group, 'i'd imagine we'l hear about them, either here or on the board.'
+[Sat Nov 17 16:24:23 2001] Correllan tells the group, 'ok'
+[Sat Nov 17 16:24:31 2001] Lancet GMSAYS, 'agaden please come up wioth a new zone msg everytime i see that one i think your loging'
+[Sat Nov 17 16:24:38 2001] You tell your party, 'As a full guide, of course, we get to join in on the regular ol' GM events whenever there is the time and inclination'
+[Sat Nov 17 16:24:50 2001] Agaden tells the guild, 'oh, can you ammend my pet to say that I lost a leg in the war, hence I cannot swim?'
+[Sat Nov 17 16:24:56 2001] Rynara GMSAYS, 'uh oh Lancet is here...RUN!'
+[Sat Nov 17 16:24:58 2001] You tell your party, 'Actually, historical quests are nearly never announced ahead of time'
+[Sat Nov 17 16:24:59 2001] Rahaven tells the guild, 'LOL Agie :)'
+[Sat Nov 17 16:25:08 2001] Rahaven tells the group, 'brief afk folks'
+[Sat Nov 17 16:25:17 2001] Antarg tells the guild, 'use your tongue as a propeller'
+[Sat Nov 17 16:25:20 2001] You tell your party, 'Any other questions?'
+[Sat Nov 17 16:25:29 2001] Agaden tells the guild, 'You know, I am just not THAT talented!'
+[Sat Nov 17 16:25:32 2001] Lancet GMSAYS, 'thats right you have been slack and let this server run to hell im back to whiop it into shape'
+[Sat Nov 17 16:25:33 2001] Rodetta tells the group, 'nope.'
+[Sat Nov 17 16:25:47 2001] Rynara GMSAYS, 'bah go clean the pool'
+[Sat Nov 17 16:25:48 2001] You tell your party, 'okay, let's move to the queue then'
+[Sat Nov 17 16:25:54 2001] Faelinn GMSAYS, '=O'
+[Sat Nov 17 16:26:02 2001] Agaden GMSAYS, 'I think I saw something floating in there a bit ago, fyi'
+[Sat Nov 17 16:26:09 2001] You tell your party, 'if you haven't already, press the G key to go into GUIDE mode'
+[Sat Nov 17 16:26:10 2001] Kilm GMSAYS, '*puts 5 plat on Rynara* '
+[Sat Nov 17 16:26:16 2001] Lancet GMSAYS, 'yum dinner'
+[Sat Nov 17 16:26:22 2001] You tell your party, 'and from there, click on the PETITION button to bring up the queue'
+[Sat Nov 17 16:26:35 2001] Faelinn GMSAYS, 'bleh :/'
+[Sat Nov 17 16:26:46 2001] Agaden GMSAYS, 'Snickers bar! :)'
+[Sat Nov 17 16:26:57 2001] You tell your party, 'You'll see a bunch of red petitions - these are things such as name changes, reimbursements and such that require a senior guide or a GM to handle.'
+[Sat Nov 17 16:27:01 2001] Lancet GMSAYS, 'nope babe ruth'
+[Sat Nov 17 16:27:07 2001] Rynara snickers at the lizard.
+[Sat Nov 17 16:27:25 2001] You tell your party, 'Beneath these are green petitions - these are petitions that have not yet been dealt with. As apprentices, you will answer only green petitions.'
+[Sat Nov 17 16:27:39 2001] Sivy tells the guild, 'should i be Sivy cookie thief or Sivy the Thief of Cookies'
+[Sat Nov 17 16:27:46 2001] Sivy tells the guild, 'or Sivy the Cookie Thief'
+[Sat Nov 17 16:27:49 2001] Antarg tells the guild, 'the latter'
+[Sat Nov 17 16:27:51 2001] Rodetta tells the group, 'actually, i dont see any at all.'
+[Sat Nov 17 16:27:53 2001] You tell your party, 'Yellow petitions are those that require a full guide or better to handle - things like stuck corpses, harassment or abuse issues and the like'
+[Sat Nov 17 16:27:53 2001] Antarg tells the guild, 'middle one'
+[Sat Nov 17 16:27:57 2001] Agaden tells the guild, 'I like Sivy the Thief of Cookies'
+[Sat Nov 17 16:27:58 2001] Rynara tells the guild, 'nope it cant too close to my name *grins*'
+[Sat Nov 17 16:28:06 2001] You tell your party, 'Ah, did you press the G button?'
+[Sat Nov 17 16:28:10 2001] You tell your party, 'key I mean?'
+[Sat Nov 17 16:28:21 2001] Rodetta tells the group, 'yup, i pressed g, then clicked petition. it says 0 in queue.'
+[Sat Nov 17 16:28:23 2001] Antarg tells the guild, 'I need a cool place to bind'
+[Sat Nov 17 16:28:37 2001] You look at Rodetta, completely puzzled.
+[Sat Nov 17 16:28:39 2001] Agaden GMSAYS, 'Is there a way to change your sound card selection?'
+[Sat Nov 17 16:28:54 2001] Espranza thinks hard. Her hair begins to frizz.
+[Sat Nov 17 16:28:59 2001] Rodetta tells the group, 'tried it a few times, in two diff video modes.'
+[Sat Nov 17 16:28:59 2001] Lancet GMSAYS, 'dont think so only vid card'
+[Sat Nov 17 16:29:07 2001] You tell your party, 'You can see /pr text though?'
+[Sat Nov 17 16:29:07 2001] Rynara tells the group, 'Rodetta can you see the yellow test in /pr?'
+[Sat Nov 17 16:29:10 2001] Agaden GMSAYS, 'ok, that is what I was thinking, but wanted to be sure'
+[Sat Nov 17 16:29:15 2001] You tell your party, 'what she said'
+[Sat Nov 17 16:29:25 2001] You GMSAY, 'Can you read this, Rodetta?'
+[Sat Nov 17 16:29:27 2001] Sivy GMSAYS, 'can someone change my name to Sivy the Thief of Cookies?'
+[Sat Nov 17 16:29:29 2001] Sivy GMSAYS, ':)'
+[Sat Nov 17 16:29:31 2001] Rodetta tells the group, 'cant see any, but i can talk on it, if you heard me'
+[Sat Nov 17 16:29:33 2001] Rynara GMSAYS, 'no'
+[Sat Nov 17 16:29:40 2001] Kedian GMSAYS, 'you can change your soundcard by changing the wave out setting in your windows control panel...I thinkthats the only way'
+[Sat Nov 17 16:29:41 2001] Agaden GMSAYS, 'too close to Ryn's'
+[Sat Nov 17 16:29:43 2001] Dalios GMSAYS, 'Cookie Monster?'
+[Sat Nov 17 16:29:43 2001] Rynara tells the guild, 'Sivy I said you cant have the name'
+[Sat Nov 17 16:29:45 2001] Lancet GMSAYS, 'and they say i am mean'
+[Sat Nov 17 16:30:00 2001] Espranza has an emergency AFK and will be right back.
+[Sat Nov 17 16:30:17 2001] Rynara tells the guild, 'Lirus Rodetta cant see queue or /pr'
+[Sat Nov 17 16:30:18 2001] Rodetta tells the group, 'maybe while she's gone, i'l try camping and comming back in.'
+[Sat Nov 17 16:30:19 2001] Kilm GMSAYS, '/snicker'
+[Sat Nov 17 16:30:38 2001] Sivy GMSAYS, 'could i have Sivy The Cookie Thief than?'
+[Sat Nov 17 16:30:47 2001] Lirus GMSAYS, 'ok ask her if that is the account she signed up to be a guide with'
+[Sat Nov 17 16:30:52 2001] Rynara GMSAYS, 'no'
+[Sat Nov 17 16:30:54 2001] Lancet tells the guild, 'sounds lile a messed up flag'
+[Sat Nov 17 16:31:00 2001] Sivy GMSAYS, 'lol ok'
+[Sat Nov 17 16:31:04 2001] Rodetta has left the group.
+[Sat Nov 17 16:31:49 2001] Antarg tells the guild, 'Kunark is just plain wierd, whats with all the walking plants?'
+[Sat Nov 17 16:32:03 2001] Agaden tells the guild, 'how about "Sivy the Cooke Bearer"?  Just always make sure you have cookies with you!'
+[Sat Nov 17 16:32:32 2001] Kilm GMSAYS, 'zone '
+[Sat Nov 17 16:32:46 2001] Kedian GMSAYS, '<< zone >>'
+[Sat Nov 17 16:32:46 2001] Lancet's image shimmers.
+[Sat Nov 17 16:32:51 2001] Espranza saved.
+[Sat Nov 17 16:32:55 2001] Rodetta GMSAYS, 'woot! it works.'
+[Sat Nov 17 16:32:55 2001] Rynara says, 'rodetta are you on the account you signed up with to be a guide?'
+[Sat Nov 17 16:33:14 2001] Rodetta says, 'yup, and it all works now.'
+[Sat Nov 17 16:33:20 2001] Agaden GMSAYS, 'WooT!'
+[Sat Nov 17 16:33:24 2001] Rynara says, 'great'
+[Sat Nov 17 16:33:41 2001] Rodetta says, 'esp back yet? i need back to the group.'
+[Sat Nov 17 16:34:11 2001] Rynara says, 'no'
+[Sat Nov 17 16:34:31 2001] Faelinn GMSAYS, 'bah'
+[Sat Nov 17 16:34:39 2001] Faelinn GMSAYS, 'see you guys later im outta here'
+[Sat Nov 17 16:34:42 2001] Faelinn GMSAYS, 'night :)'
+[Sat Nov 17 16:34:47 2001] Rahaven tells the group, 'sorry about that :P back'
+[Sat Nov 17 16:34:50 2001] Kedian GMSAYS, 'see ya faelinn'
+[Sat Nov 17 16:34:50 2001] Lirus GMSAYS, 'later Fae'
+[Sat Nov 17 16:34:51 2001] Lancet GMSAYS, 'night'
+[Sat Nov 17 16:34:52 2001] Rodetta says, 'alright, i have one quick question. after this is done today,  will we be bound here so we can come back? or are we kicked out till we get full guide?'
+[Sat Nov 17 16:34:52 2001] Sivy GMSAYS, 'night night'
+[Sat Nov 17 16:34:53 2001] Rynara GMSAYS, 'night Faelinn'
+[Sat Nov 17 16:34:55 2001] You tell your party, 'back as well'
+[Sat Nov 17 16:35:04 2001] You tell your party, 'you're kicked out :)'
+[Sat Nov 17 16:35:05 2001] Rynara says, 'kicked out =)'
+[Sat Nov 17 16:35:06 2001] Agaden GMSAYS, 'nite fael'
+[Sat Nov 17 16:35:12 2001] You invite Rodetta to join your group.
+[Sat Nov 17 16:35:16 2001] Rodetta has joined the group.
+[Sat Nov 17 16:35:17 2001] Rahaven says, 'You will return in a blaze of glory when you make full Guide'
+[Sat Nov 17 16:35:24 2001] Espranza feels MUCH BETTER.
+[Sat Nov 17 16:35:39 2001] Rodetta does too. i can see the queue now.
+[Sat Nov 17 16:35:51 2001] You tell your party, 'okay :)'
+[Sat Nov 17 16:36:06 2001] Correllan tells the group, 'okay question....once we click on a petition then the only way to leave it is by completing escalatiing it or basically taking care of it or is there a way to view it then leave and move on to the next one?'
+[Sat Nov 17 16:36:21 2001] You tell your party, 'you can use UNDO CHECOUT'
+[Sat Nov 17 16:36:27 2001] Agaden tells the guild, 'You have got to make sure one of them takes katrotat...petting about being replaced in group after going ld! lol'
+[Sat Nov 17 16:36:43 2001] Rynara tells the group, 'but.....'
+[Sat Nov 17 16:36:46 2001] You say to your guild, 'handle the real pets for now please'
+[Sat Nov 17 16:36:49 2001] You tell your party, 'yes, but'
+[Sat Nov 17 16:36:55 2001] You tell your party, 'but you should always handle the petitions'
+[Sat Nov 17 16:36:57 2001] Agaden GMSAYS, 'okie, I shall take that one'
+[Sat Nov 17 16:37:01 2001] Rynara tells the group, 'we dont pick and choose petitions, if you pull one then answer it =)'
+[Sat Nov 17 16:37:17 2001] You tell your party, 'We answer EVERY petition'
+[Sat Nov 17 16:37:36 2001] Correllan tells the group, 'okay but as in the case of escalating the one on up to a senior for the exploits and harrassments is what i meant to leave for'
+[Sat Nov 17 16:37:42 2001] Rahaven tells the group, 'and we answer them in the order they come in :)'
+[Sat Nov 17 16:37:50 2001] You tell your party, 'you escalate those to yellow for guides, not red for seniors.'
+[Sat Nov 17 16:37:58 2001] Antarg tells the guild, 'ick that was a BAD time for lev to wear off'
+[Sat Nov 17 16:38:07 2001] Correllan tells the group, 'okay my bad '
+[Sat Nov 17 16:38:13 2001] You tell your party, 'and once escalated, you use CHECK IN to put it back in the queue'
+[Sat Nov 17 16:38:29 2001] Antarg GMSAYS, 'zoning! someone hold onto my pants for me!'
+[Sat Nov 17 16:38:37 2001] Correllan tells the group, 'okay then that takes you out so you can move on tp the next one'
+[Sat Nov 17 16:38:48 2001] You tell your party, 'yes, but you handled it - you escalated it'
+[Sat Nov 17 16:38:56 2001] You tell your party, 'and then you can move to the next'
+[Sat Nov 17 16:39:06 2001] Correllan tells the group, 'ok'
+[Sat Nov 17 16:39:11 2001] Lancet says, '\'
+[Sat Nov 17 16:39:28 2001] You say, 'We don't love you anymore, Lancet. We love Rynara now.'
+[Sat Nov 17 16:39:52 2001] Rahaven says, 'Yes. She brought cookies'
+[Sat Nov 17 16:39:53 2001] Lancet says, 'ok be that way i know where im not wanted '
+[Sat Nov 17 16:40:03 2001] Lancet GMSAYS, 'log night to everyone but esp'
+[Sat Nov 17 16:40:04 2001] Rynara laughs.
+[Sat Nov 17 16:40:04 2001] You tell your party, 'okay, to pull a petition, type /pr Pulling Antarg (for instance)'
+[Sat Nov 17 16:40:07 2001] You GMSAY, 'LOL!'
+[Sat Nov 17 16:40:13 2001] You GMSAY, 'Night Lancet!'
+[Sat Nov 17 16:40:17 2001] Rynara GMSAYS, 'night Lancet'
+[Sat Nov 17 16:40:19 2001] Agaden tells the guild, 'lol, nmite lancet'
+[Sat Nov 17 16:40:19 2001] Lirus GMSAYS, 'gnight lancet'
+[Sat Nov 17 16:40:19 2001] Kedian GMSAYS, 'hehe, see ya lance'
+[Sat Nov 17 16:40:25 2001] Rahaven tells the guild, 'Nite'
+[Sat Nov 17 16:40:30 2001] Sivy GMSAYS, 'night night'
+[Sat Nov 17 16:40:32 2001] Correllan GMSAYS, 'nite lancet and ty for your help earlier'
+[Sat Nov 17 16:40:32 2001] You tell your party, 'and then click on it to take it.'
+[Sat Nov 17 16:40:45 2001] You tell your party, 'If lots of people are trying to take the petition all at once, sometimes two people might get it'
+[Sat Nov 17 16:40:46 2001] Kilm GMSAYS, 'zone'
+[Sat Nov 17 16:41:10 2001] You tell your party, 'in that case it helps to know who else has it :) so always announce when you pull a petition (a pet), or in fact whenever you do anything with it.'
+[Sat Nov 17 16:41:15 2001] Rahaven tells the group, 'Be careful with Abbadabba. That little gnome is a petition thief :)'
+[Sat Nov 17 16:41:21 2001] You tell your party, 'Rodetta, could you pull Antarg please?'
+[Sat Nov 17 16:41:33 2001] Rodetta GMSAYS, 'Pulling antarg'
+[Sat Nov 17 16:41:47 2001] You tell your party, 'Dalios, could you pull Kedian?'
+[Sat Nov 17 16:41:50 2001] Kedian GMSAYS, '<< zone >>'
+[Sat Nov 17 16:41:50 2001] Antarg GMSAYS, 'oww, not so hard!'
+[Sat Nov 17 16:41:54 2001] You tell your party, 'And Correllan, Rahaven?'
+[Sat Nov 17 16:41:56 2001] Agaden tells the guild, 'lol'
+[Sat Nov 17 16:42:02 2001] Rynara tells the guild, 'haha'
+[Sat Nov 17 16:42:08 2001] Correllan GMSAYS, 'pulling rahaven'
+[Sat Nov 17 16:42:09 2001] Dalios GMSAYS, 'Pulling Kedian gently'
+[Sat Nov 17 16:42:17 2001] Agaden GMSAYS, 'lol'
+[Sat Nov 17 16:42:21 2001] Rahaven tells the group, 'I do'nt see a Correllan petition?'
+[Sat Nov 17 16:42:28 2001] Rahaven tells the group, 'oh.. nm :)'
+[Sat Nov 17 16:42:36 2001] You bonk Rahaven on the head!
+[Sat Nov 17 16:42:40 2001] Antarg GMSAYS, 'ding!'
+[Sat Nov 17 16:42:46 2001] Rahaven rubs his head..
+[Sat Nov 17 16:42:50 2001] Rynara GMSAYS, 'ummm grats?'
+[Sat Nov 17 16:42:54 2001] You tell your party, 'Pulling a petition opens up the petition screen'
+[Sat Nov 17 16:43:01 2001] Espranza saved.
+[Sat Nov 17 16:43:14 2001] Agaden GMSAYS, 'someone smack Antarg...he is hunting again!'
+[Sat Nov 17 16:43:22 2001] You tell your party, 'you'll find it's best to read petitions against a white background - we have been thoughtfully provided with one here in CSHome'
+[Sat Nov 17 16:43:50 2001] You tell your party, '... or you can stare at the ground, which is what I do :)'
+[Sat Nov 17 16:43:53 2001] Antarg GMSAYS, 'zoning! someone hold onto my pants for me!'
+[Sat Nov 17 16:43:59 2001] Antarg GMSAYS, 'zoning to GD, may go LD'
+[Sat Nov 17 16:44:13 2001] You tell your party, 'You'll see a column of buttons and a column of other data'
+[Sat Nov 17 16:44:21 2001] Rahaven tells the group, 'which has led many players to the belief that guides worship trees'
+[Sat Nov 17 16:44:26 2001] You tell your party, 'this should be familiar to you from the queue trainer tool'
+[Sat Nov 17 16:44:36 2001] Rahaven covers his head.
+[Sat Nov 17 16:44:41 2001] Correllan tells the group, 'yes'
+[Sat Nov 17 16:45:15 2001] You tell your party, 'at the bottom is the petition text and a /who all PID, where PID is the PID of the petitioner'
+[Sat Nov 17 16:45:23 2001] Kedian tells the guild, 'who pulled my pet? (was zoneing)'
+[Sat Nov 17 16:45:32 2001] You tell your party, 'this will show them on whatever character they are playing, even if they changed characters'
+[Sat Nov 17 16:45:57 2001] You tell your party, 'if it says "not found" - they are not in game (on that account anyway) and we mark it unavailable and return it to the queue'
+[Sat Nov 17 16:46:01 2001] Correllan tells the group, 'not sure what you mean there'
+[Sat Nov 17 16:46:09 2001] You tell your party, 'do a /who Espranza all'
+[Sat Nov 17 16:46:13 2001] Players in EverQuest:
+[Sat Nov 17 16:46:13 2001] ---------------------------
+[Sat Nov 17 16:46:13 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Nov 17 16:46:13 2001] There is 1 player in EverQuest.
+[Sat Nov 17 16:46:25 2001] You tell your party, 'at the end of my info is USER PID AUGBQH4'
+[Sat Nov 17 16:46:32 2001] You tell your party, 'now do /who AUGBQH4 all'
+[Sat Nov 17 16:46:54 2001] You tell your party, 'and you'll see me again. If I were to log out and make a new character, I would still have the same PID'
+[Sat Nov 17 16:47:04 2001] You tell your party, 'It's the unique identifier for the account'
+[Sat Nov 17 16:47:18 2001] Correllan tells the group, 'okay'
+[Sat Nov 17 16:47:20 2001] Rahaven tells the guild, 'Is everyone else getting heavy lakets?'
+[Sat Nov 17 16:47:25 2001] Sivy was injured by falling.
+[Sat Nov 17 16:47:28 2001] Rahaven tells the guild, 'lag packets?'
+[Sat Nov 17 16:47:40 2001] Kedian tells the guild, 'no lag here'
+[Sat Nov 17 16:47:45 2001] You tell your party, 'okay, let's move on to the fun answering petitions time :)'
+[Sat Nov 17 16:47:46 2001] Rynara tells the guild, 'nope'
+[Sat Nov 17 16:47:54 2001] Kilm tells the guild, 'not for me '
+[Sat Nov 17 16:47:54 2001] Agaden tells the guild, 'actually, (quite a surprise for me) I am not lagging too bac'
+[Sat Nov 17 16:47:57 2001] Agaden tells the guild, 'er, bad'
+[Sat Nov 17 16:47:59 2001] You tell your party, 'Always remember to introduce yourself when making contact'
+[Sat Nov 17 16:48:01 2001] Kedian tells the guild, 'do you want Alidaur (a real pet) left for the appys, Esp?'
+[Sat Nov 17 16:48:29 2001] You tell your party, 'I usually say, "Hail, Soandso! Guide Espranza here" followed by something appropriate'
+[Sat Nov 17 16:48:36 2001] You say to your guild, 'no, take the real greens for now'
+[Sat Nov 17 16:48:42 2001] You say to your guild, 'we're gonna be on fakes for awhile'
+[Sat Nov 17 16:48:50 2001] Kedian tells the guild, 'k'
+[Sat Nov 17 16:48:51 2001] Lirus GMSAYS, 'antarg are you on?'
+[Sat Nov 17 16:49:12 2001] You tell your party, 'if the petition is vague, I might say, "Hail, Soandso! Guide Espranza here. How may I help you?"'
+[Sat Nov 17 16:49:23 2001] Agaden GMSAYS, 'he was zoning into GD...thought he might go LD'
+[Sat Nov 17 16:49:28 2001] You tell your party, 'if they petitioned about something specific, like they were stuck in the wall, I might say'
+[Sat Nov 17 16:49:28 2001] Sivy GMSAYS, 'someone pull my pet!'
+[Sat Nov 17 16:49:33 2001] Sivy GMSAYS, ':p'
+[Sat Nov 17 16:49:33 2001] Agaden GMSAYS, 'aparently, he did'
+[Sat Nov 17 16:49:47 2001] You tell your party, 'Hail, Soandso! Guide Espranza here. Are you still stuck in the wall?'
+[Sat Nov 17 16:50:03 2001] Correllan tells the group, 'lol'
+[Sat Nov 17 16:50:03 2001] You tell your party, 'Rodetta, could you read your petition to us, please?'
+[Sat Nov 17 16:50:13 2001] Rahaven whistles innocently.
+[Sat Nov 17 16:50:21 2001] Rodetta tells the group, 'LOL, you just did. he's stuck in a wall (but linkdead now)'
+[Sat Nov 17 16:50:33 2001] Agaden GMSAYS, '"Highelfprincess" would not be allowed as a surname, correct?'
+[Sat Nov 17 16:50:34 2001] Correllan looks around also innocently.
+[Sat Nov 17 16:50:43 2001] Rynara GMSAYS, 'correct'
+[Sat Nov 17 16:50:45 2001] Espranza is missing something...
+[Sat Nov 17 16:50:48 2001] Agaden GMSAYS, 'thankie'
+[Sat Nov 17 16:50:49 2001] Rahaven GMSAYS, 'Title'
+[Sat Nov 17 16:50:56 2001] Kedian hands Espranza something...
+[Sat Nov 17 16:51:07 2001] You tell your party, 'oh, I get it :)'
+[Sat Nov 17 16:51:12 2001] You tell your party, 'who is the petitioner?'
+[Sat Nov 17 16:51:18 2001] Rodetta tells the group, 'my petition was from antarg saying he was stuck in a wall, but i cant get ahold of him now, cause he ldead'
+[Sat Nov 17 16:51:21 2001] Agaden GMSAYS, 'that is what I was thinking'
+[Sat Nov 17 16:51:36 2001] You tell your party, 'okay, since he is unavailable, click UNAVAILABLE once and then CHECK IN'
+[Sat Nov 17 16:51:42 2001] Sivy GMSAYS, '<Insert clever zone message here> ZONE!'
+[Sat Nov 17 16:51:52 2001] You tell your party, 'then announce over /pr, Antarg unavailable #1'
+[Sat Nov 17 16:52:05 2001] Rodetta GMSAYS, 'Antarg Unavailable #1'
+[Sat Nov 17 16:52:09 2001] Rodetta tells the group, 'like they didn't know :)'
+[Sat Nov 17 16:52:18 2001] Rynara GMSAYS, 'afk a moment'
+[Sat Nov 17 16:52:29 2001] Dolcemorte tells you, 'come visit me and give me ale!'
+[Sat Nov 17 16:52:30 2001] You tell your party, 'if we get up to three times unavailable, (making sure we gave them sufficient time to get back online), we delete it - and note that over /pr as well'
+[Sat Nov 17 16:52:35 2001] You told Dolcemorte, 'bah! training!'
+[Sat Nov 17 16:52:44 2001] Dolcemorte tells you, 'Dolce drunk>>>>>>training'
+[Sat Nov 17 16:52:58 2001] You told Dolcemorte, 'put you int he drunk tank I will'
+[Sat Nov 17 16:53:08 2001] You tell your party, 'Okay, Dalios - could you read your petition?'
+[Sat Nov 17 16:53:11 2001] Espranza saved.
+[Sat Nov 17 16:53:23 2001] Dolcemorte tells you, 'heh... you sure your not drunk... that made no since'
+[Sat Nov 17 16:53:26 2001] Dalios tells the group, 'sure.'
+[Sat Nov 17 16:53:39 2001] You told Dolcemorte, 'I don't drink. I just enjoy the aroma'
+[Sat Nov 17 16:53:44 2001] Dolcemorte tells you, 'hah'
+[Sat Nov 17 16:54:03 2001] Dalios tells the group, 'Kedian - Help me, I've been sitting here at the docks forever, and the boat hasn't come yet.'
+[Sat Nov 17 16:54:19 2001] Players in EverQuest:
+[Sat Nov 17 16:54:19 2001] ---------------------------
+[Sat Nov 17 16:54:19 2001] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: cshome (USER PID HU7F5NG)
+[Sat Nov 17 16:54:19 2001] There is 1 player in EverQuest.
+[Sat Nov 17 16:54:26 2001] You say to your guild, 'you here, Kedian?'
+[Sat Nov 17 16:54:31 2001] Kedian tells the guild, 'yep'
+[Sat Nov 17 16:54:39 2001] You say to your guild, 'your pet is up :)'
+[Sat Nov 17 16:54:44 2001] Kedian begins to cast a spell. (Contraction)
+[Sat Nov 17 16:54:45 2001] Dolcemorte tells you, 'fm'
+[Sat Nov 17 16:54:52 2001] Kedian tells the guild, '*whoot*'
+[Sat Nov 17 16:54:59 2001] Rahaven tells the group, 'tell him not to be so cheap and pay for a tp ;)'
+[Sat Nov 17 16:55:02 2001] You say, 'okay, speak to Kedian in /say so we can hear your conversation'
+[Sat Nov 17 16:55:07 2001] Rahaven tells the group, 'just kidding'
+[Sat Nov 17 16:55:09 2001] Agaden GMSAYS, 'Lirus, what was Sunmina's surname?'
+[Sat Nov 17 16:55:21 2001] You say, 'first introduce yourself'
+[Sat Nov 17 16:55:25 2001] Dolcemorte tells you, 'bah wrong tell'
+[Sat Nov 17 16:55:25 2001] Lirus GMSAYS, 'she doesn't have one'
+[Sat Nov 17 16:55:26 2001] Rahaven covers his head.
+[Sat Nov 17 16:55:28 2001] Rynara GMSAYS, 'goodnight all, I need to log'
+[Sat Nov 17 16:55:33 2001] You GMSAY, 'Night Ryn!'
+[Sat Nov 17 16:55:34 2001] Lirus GMSAYS, 'goodnight ryn)'
+[Sat Nov 17 16:55:37 2001] Agaden GMSAYS, 'she says you just took heres'
+[Sat Nov 17 16:55:37 2001] Kedian GMSAYS, 'see ya Rynara'
+[Sat Nov 17 16:55:37 2001] Rahaven tells the guild, 'Night Ryn'
+[Sat Nov 17 16:55:39 2001] Kilm GMSAYS, 'be safe Rynara *hugs* '
+[Sat Nov 17 16:55:39 2001] Dalios says, 'Hullo, Kedian.. I'm Apprentice Guide Dalios.. Are you still waiting for the boat at docks?'
+[Sat Nov 17 16:55:39 2001] Agaden GMSAYS, 'nite ryn'
+[Sat Nov 17 16:55:52 2001] Correllan GMSAYS, 'nite ryn'
+[Sat Nov 17 16:56:04 2001] Rynara says, 'I think you mean hello not hullo'
+[Sat Nov 17 16:56:09 2001] Rynara grins.
+[Sat Nov 17 16:56:11 2001] Kedian says, 'Yes I am. The boat hasnt come in along time, ive been waiting forever!'
+[Sat Nov 17 16:56:14 2001] Dalios meant Hullo. ;) =P.
+[Sat Nov 17 16:56:23 2001] Rynara says, 'please dont use hullo'
+[Sat Nov 17 16:56:49 2001] Rahaven says, 'Ryn means don't use Hullo ;) we're supposed to be professional in our approach, even if we do rp :)'
+[Sat Nov 17 16:56:50 2001] Rynara tells you, 'grrrrrr'
+[Sat Nov 17 16:56:51 2001] You say, 'he's been waiting at the docks in Toxxulia for HOURS'
+[Sat Nov 17 16:56:53 2001] Dalios GMSAYS, 'Anyone know if the boat in Overthere isn't working properly? (Play along.)'
+[Sat Nov 17 16:56:56 2001] You told Rynara, 'heh'
+[Sat Nov 17 16:56:58 2001] It begins to rain.
+[Sat Nov 17 16:57:16 2001] Dalios GMSAYS, 'Anyone know if the boat in Toxx isn't working properly? (Play along.)'
+[Sat Nov 17 16:57:19 2001] Agaden GMSAYS, 'I do not believe there are any problems...I can go check it if you wish'
+[Sat Nov 17 16:57:24 2001] Rynara tells you, 'teach him well Esp, he will need it'
+[Sat Nov 17 16:57:31 2001] You told Rynara, 'I will do my best'
+[Sat Nov 17 16:57:33 2001] Agaden GMSAYS, 'Boat in toxx?'
+[Sat Nov 17 16:57:40 2001] Antarg GMSAYS, 'okay, who wants to help me beat up my ISP?'
+[Sat Nov 17 16:57:52 2001] You GMSAY, 'there are docks there, I once got a petition from someone who wanted to know why the boats weren't working'
+[Sat Nov 17 16:57:54 2001] Rahaven GMSAYS, 'me. If you hold mine down for me to kick after'
+[Sat Nov 17 16:57:57 2001] Kilm GMSAYS, 'No boats in Tox.. he mean erudin ?'
+[Sat Nov 17 16:58:08 2001] Antarg GMSAYS, 'deal!'
+[Sat Nov 17 16:58:09 2001] Rahaven GMSAYS, 'Erud's Crossing'
+[Sat Nov 17 16:58:12 2001] You GMSAY, 'I had to break it to them that no boats came to that dock. No, he meant Tox!'
+[Sat Nov 17 16:58:20 2001] Agaden GMSAYS, 'heeh'
+[Sat Nov 17 16:58:23 2001] Correllan GMSAYS, 'if he is waiting at the docks in toxx that is the canoe not a boat'
+[Sat Nov 17 16:58:27 2001] Rynara has left the group.
+[Sat Nov 17 16:58:37 2001] Rahaven GMSAYS, 'LOL! You're kidding'
+[Sat Nov 17 16:58:37 2001] Dalios says, 'To Kedian: Are you at Overthere dock? (Says so in petition..)'
+[Sat Nov 17 16:58:53 2001] Kedian says, 'I happened to have been in ot at the time, so I suppose I could be waiting for that boat'
+[Sat Nov 17 16:59:31 2001] Dalios says, 'To Kedian: I'm sorry, I don't follow.. are you still waiting for the boat, or no?'
+[Sat Nov 17 16:59:42 2001] Kedian says, 'yes, I am still waiting for the boat'
+[Sat Nov 17 16:59:57 2001] You tell your party, 'ask how long he has been waiting'
+[Sat Nov 17 17:00:10 2001] Dalios says, 'To Kedian: How long have you been waiting?'
+[Sat Nov 17 17:00:34 2001] You tell your party, 'remember, you can always ask other guides through group or /pr for help answering petitions'
+[Sat Nov 17 17:00:34 2001] Kedian says, 'about an hour, and I keep going link dead too :/'
+[Sat Nov 17 17:00:47 2001] Dalios tells the group, 'I did.. ;)'
+[Sat Nov 17 17:01:16 2001] You tell your party, 'well he may have missed the boat... in more way than one, poor Ked...'
+[Sat Nov 17 17:01:19 2001] Agaden GMSAYS, 'hey, what are the chances of doing an event later tonight?'
+[Sat Nov 17 17:01:23 2001] Rahaven tells the group, 'heheh'
+[Sat Nov 17 17:01:27 2001] You tell your party, 'or the boat may really be broken'
+[Sat Nov 17 17:01:32 2001] Dalios says, 'To Kedian: I'm not aware of any problems with the boat at the moment, perhaps you missed it while linkdead?'
+[Sat Nov 17 17:01:42 2001] Antarg GMSAYS, 'yeah that would be neat'
+[Sat Nov 17 17:01:52 2001] Kedian says, 'I might have, can you port me to oasis anyway?'
+[Sat Nov 17 17:02:13 2001] Agaden GMSAYS, 'himubu unav x 2'
+[Sat Nov 17 17:02:28 2001] You tell your party, 'if you know the boats are working, then ask them to be patient'
+[Sat Nov 17 17:02:30 2001] Dalios says, 'To Kedian: I'm sorry, but I'm unable to do that. Surely the boat will be along soon. Are you the only one waiting for it at docks?'
+[Sat Nov 17 17:02:37 2001] You tell your party, 'if you don't know, send a guide out to check on it'
+[Sat Nov 17 17:02:44 2001] Kedian says, 'I think im the only one here'
+[Sat Nov 17 17:03:07 2001] Agaden GMSAYS, 'ok, La'Suicidal would also be not allowed, as it implies a title, correct?'
+[Sat Nov 17 17:03:08 2001] Rahaven tells the guild, 'Kedian, I'm sorry you're stuck so long there. I can't really tp you to Oasis, but I may have a number you can call for more help in this matter'
+[Sat Nov 17 17:03:10 2001] Dalios says, 'Then odds are you missed it, else there would be quite a buildup there of people waiting.'
+[Sat Nov 17 17:03:12 2001] You GMSAY, 'aye'
+[Sat Nov 17 17:03:17 2001] Rahaven tells the guild, '1-800-dr00d'
+[Sat Nov 17 17:03:21 2001] Kedian tells the guild, 'lol'
+[Sat Nov 17 17:03:21 2001] Espranza saved.
+[Sat Nov 17 17:03:35 2001] Kedian says, 'Ok, thank you for your time'
+[Sat Nov 17 17:03:39 2001] Kilm GMSAYS, 'the himubu, he messaged me and there was no pets..so I wnet and unstuck him from the room.. he may have petititon while I LD zoning into GD... but he was out of the room last I checked Aga.'
+[Sat Nov 17 17:03:41 2001] Agaden GMSAYS, 'lirus, did you change a few peeps names in ToV?  This is the second one I have gotten from there in as many minutes'
+[Sat Nov 17 17:03:56 2001] You tell your party, 'now announce /pr deleting Kedian and then DELETE'
+[Sat Nov 17 17:04:03 2001] Agaden GMSAYS, 'ok, can you delete it for me?'
+[Sat Nov 17 17:04:11 2001] Kilm says, 'pr I sure could'
+[Sat Nov 17 17:04:18 2001] Kilm GMSAYS, 'I sure could'
+[Sat Nov 17 17:04:21 2001] Dalios GMSAYS, 'Deleting  Kedian(from queue..)'
+[Sat Nov 17 17:04:32 2001] You tell your party, 'Correllan, could you read your petition please?'
+[Sat Nov 17 17:04:35 2001] Rahaven chuckles.
+[Sat Nov 17 17:04:39 2001] Correllan tells the group, 'sure'
+[Sat Nov 17 17:04:53 2001] You tell your party, 'meanwhile, Rodetta and Dalios, could you pull the next two pets from the queue?'
+[Sat Nov 17 17:05:07 2001] You tell your party, 'remember to announce it'
+[Sat Nov 17 17:05:13 2001] Rodetta GMSAYS, 'pulling kilm'
+[Sat Nov 17 17:05:19 2001] Correllan tells the group, 'UHM like this guy ? his name is Garfield. Ism't that some cat in a cartoon'
+[Sat Nov 17 17:05:23 2001] Kilm GMSAYS, ':=) '
+[Sat Nov 17 17:05:29 2001] Correllan tells the group, 'opps and yes i forgot to announce it..lol'
+[Sat Nov 17 17:05:37 2001] Dalios GMSAYS, 'Pulling Agaden(sorry Sivy)'
+[Sat Nov 17 17:05:47 2001] Rahaven tells the group, 'Esp meant the new pulls, Correllan :) You only annponce when you pull it'
+[Sat Nov 17 17:05:56 2001] Correllan tells the group, 'wait i announced when i first pulled his petition i don't announce it agai do i?'
+[Sat Nov 17 17:06:08 2001] Correllan tells the group, 'okay..lol...'
+[Sat Nov 17 17:06:51 2001] Dalios GMSAYS, '(Heheheh.. How do you fall off a boat in Stonebrunt?) ;) Yes, I know...its a simulation..'
+[Sat Nov 17 17:07:06 2001] Agaden GMSAYS, 'I petitioned from the wrong zone! :(((('
+[Sat Nov 17 17:07:12 2001] You GMSAY, 'that's the boat from Toxxulia'
+[Sat Nov 17 17:07:16 2001] You GMSAY, ':)'
+[Sat Nov 17 17:07:18 2001] Agaden tells the guild, 'LOL'
+[Sat Nov 17 17:07:19 2001] Antarg GMSAYS, 'didnt you know? we guides have boats... just like horses in upcoming Luclin'
+[Sat Nov 17 17:07:49 2001] Dalios GMSAYS, 'Oh yeah? Well Appie Guides get flying carpets.. ;) j/k'
+[Sat Nov 17 17:08:03 2001] Agaden GMSAYS, 'btw, if you say "swim, dammit!", I am going to smack Rahaven'
+[Sat Nov 17 17:08:04 2001] Antarg GMSAYS, 'actually you get cruise missiles'
+[Sat Nov 17 17:08:06 2001] Rodetta says, '(afk for a short sec)'
+[Sat Nov 17 17:08:07 2001] Kedian GMSAYS, 'yeah, they are called guides wearing robes'
+[Sat Nov 17 17:08:12 2001] Rahaven tells the group, 'Correllan, go ahead and contact your petitioner'
+[Sat Nov 17 17:08:17 2001] You tell your party, 'Correllan? Did you read your pet aloud yet?'
+[Sat Nov 17 17:08:26 2001] Correllan tells the group, 'yes'
+[Sat Nov 17 17:08:30 2001] Correllan tells the group, 'again?'
+[Sat Nov 17 17:08:32 2001] You tell your party, 'oh nm'
+[Sat Nov 17 17:08:36 2001] You tell your party, 'I see it'
+[Sat Nov 17 17:08:49 2001] You tell your party, 'Is Garfield a bad name?'
+[Sat Nov 17 17:09:30 2001] Correllan says, 'while not a bad name it is the name of a cartoon character....however since it is a first name and he as it as a name eq must have allowed it'
+[Sat Nov 17 17:09:30 2001] You tell your party, 'Garfield is a real name, after all'
+[Sat Nov 17 17:09:42 2001] Agaden tells the guild, 'well, I HAVE had pets about falling off the boat! '
+[Sat Nov 17 17:09:54 2001] You tell your party, 'we guides approve first names, but sometimes some slip through'
+[Sat Nov 17 17:10:02 2001] Rodetta says, '(back)'
+[Sat Nov 17 17:10:06 2001] Rahaven tells the group, 'absolutely. I n fact, it's in Wuthering Heights'
+[Sat Nov 17 17:10:13 2001] Kilm says, 'welcome back :) '
+[Sat Nov 17 17:10:17 2001] Antarg GMSAYS, '/petition I was running across OT when my lev suddenly vanished! no warnings or anything!'
+[Sat Nov 17 17:10:21 2001] You tell your party, 'just because a name is used in something popular doesn't mean it can never be used'
+[Sat Nov 17 17:10:24 2001] Correllan tells the group, 'hi  i am apprentice guide correllan how may i assist you'
+[Sat Nov 17 17:10:38 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 17:10:49 2001] You tell your party, 'who was the petitioner again?'
+[Sat Nov 17 17:10:49 2001] Agaden GMSAYS, 'Flap like a birdy! :)'
+[Sat Nov 17 17:10:51 2001] Rahaven tells the group, 'Uhm... well this dude? His name is Garfield. My name was Scoobydoo and they made me change it'
+[Sat Nov 17 17:10:59 2001] Antarg GMSAYS, 'this happened to me 10 minutes ago BTW :)'
+[Sat Nov 17 17:11:07 2001] Antarg GMSAYS, '*hugs CS rez*'
+[Sat Nov 17 17:11:25 2001] You say to your guild, 'start leaving greens'
+[Sat Nov 17 17:11:26 2001] Agaden GMSAYS, 'HAH!!!!!  I was JUST contacted by someone who fell off the boat in TD!!!!!'
+[Sat Nov 17 17:11:36 2001] You say to your guild, 'I want them to do a round of real greens before we boot them out'
+[Sat Nov 17 17:11:49 2001] Sivy GMSAYS, 'this is horrible service, my pets been up there forever! ;)'
+[Sat Nov 17 17:11:50 2001] You say to your guild, 'so sivy and antarg pets are going bye bye'
+[Sat Nov 17 17:11:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Nov 17 17:11:54 2001] USER TEXT: I fell in the lava and died, can you help?!
+[Sat Nov 17 17:11:54 2001] Players in EverQuest:
+[Sat Nov 17 17:11:54 2001] ---------------------------
+[Sat Nov 17 17:11:54 2001] * Guide *[50 Warrior] Sivy (Dark Elf) <Keepers of Dreams> ZONE: arena (USER PID AU7F86Y)
+[Sat Nov 17 17:11:54 2001] There is 1 player in EverQuest.
+[Sat Nov 17 17:11:58 2001] Antarg GMSAYS, 'hey'
+[Sat Nov 17 17:11:59 2001] UNDOING CHECK OUT
+[Sat Nov 17 17:12:12 2001] You say to your guild, 'oh, okay, I'll leave them SIGH'
+[Sat Nov 17 17:12:12 2001] Antarg GMSAYS, 'it's christmas in EQ'
+[Sat Nov 17 17:12:17 2001] Correllan tells the group, 'i am not sure as to why they made you change it but would certainly be glad to check into it for you. as for the others name it is a proper name and not offensive therfore allowed by eq'
+[Sat Nov 17 17:12:19 2001] Rahaven tells the guild, 'LOL'
+[Sat Nov 17 17:12:37 2001] Rahaven tells the group, 'Oh. Ok. Can I change my name to Scrappydoo then?'
+[Sat Nov 17 17:12:45 2001] You tell your party, 'Scoobydoo would be a far worse name - no way that could be construed as a good name'
+[Sat Nov 17 17:12:56 2001] Antarg tells the guild, 'hows tha new appies going?'
+[Sat Nov 17 17:13:00 2001] Agaden GMSAYS, 'this person logged off ON THE BOAT'
+[Sat Nov 17 17:13:11 2001] You tell your party, 'I would point out that the name Garfield on a Vah'Shir would be treated differently'
+[Sat Nov 17 17:13:27 2001] Correllan tells the group, 'ok'
+[Sat Nov 17 17:13:31 2001] Espranza saved.
+[Sat Nov 17 17:13:31 2001] Agaden tells the guild, 'and wanted me to come get him/her when they logged in and fell off'
+[Sat Nov 17 17:13:35 2001] Dalios tells the group, 'why so?'
+[Sat Nov 17 17:13:48 2001] You tell your party, 'because it is the name of a cartoon cat, Vah'Shir are cats...'
+[Sat Nov 17 17:13:48 2001] Rodetta tells the group, 'Vah`Shir are cat people :)'
+[Sat Nov 17 17:13:50 2001] Correllan tells the group, 'the vah shir are cat people'
+[Sat Nov 17 17:14:00 2001] Rahaven tells the group, 'so then you have intent ;)'
+[Sat Nov 17 17:14:02 2001] Antarg tells the guild, 'cool a named shardwurm :)'
+[Sat Nov 17 17:14:25 2001] Antarg tells the guild, 'love htis pathing :)'
+[Sat Nov 17 17:14:34 2001] Dalios tells the group, 'So you're saying.. Britnie Speers is illegal?'
+[Sat Nov 17 17:14:38 2001] You tell your party, 'yes'
+[Sat Nov 17 17:14:44 2001] You tell your party, 'but Brittney would be okay'
+[Sat Nov 17 17:14:46 2001] Rahaven tells the group, 'John, if you would be lucky to get it, would be legal. John surnamed Lennon would not be'
+[Sat Nov 17 17:15:02 2001] Antarg GMSAYS, 'zoning! someone hold onto my pants for me!'
+[Sat Nov 17 17:15:12 2001] Rahaven tells the group, 'and, alternate spellings are also banned'
+[Sat Nov 17 17:15:21 2001] You tell your party, 'backward spellings, what have you'
+[Sat Nov 17 17:15:22 2001] Dalios tells the group, 'We've got her and members of NSync on Veeshan in the uber guild..lol'
+[Sat Nov 17 17:15:34 2001] You tell your party, 'heh...'
+[Sat Nov 17 17:15:39 2001] You tell your party, 'well, they're bad names'
+[Sat Nov 17 17:15:54 2001] Rahaven tells the group, 'there is, however, a grandfathering clause'
+[Sat Nov 17 17:15:54 2001] You tell your party, 'and being level 60 and in a uber guild is no protection'
+[Sat Nov 17 17:16:01 2001] Correllan tells the group, 'i have seen three variations to scoobiedoo on my server also'
+[Sat Nov 17 17:16:13 2001] Rahaven tells the group, 'meaning, there might have been a GM authorized case in a soulmark'
+[Sat Nov 17 17:16:37 2001] Correllan tells the group, 'ok'
+[Sat Nov 17 17:16:38 2001] You tell your party, 'okay, let's discuss procedure for bad names'
+[Sat Nov 17 17:16:55 2001] You tell your party, 'once you have determined it is a bad name, you can escalate it to red for a senior or GMs attention'
+[Sat Nov 17 17:17:12 2001] You tell your party, 'also, note it as a bad name in your DSR and be sure to include the PID and the reason it is bad'
+[Sat Nov 17 17:17:23 2001] Agaden tells the guild, 'I think Sivy's and Antargs pets are bad luck..no one else it petitioning!'
+[Sat Nov 17 17:17:37 2001] You tell your party, 'contact the person who reported them and thank them for their petition.'
+[Sat Nov 17 17:17:46 2001] You tell your party, 'and then delete the petition.'
+[Sat Nov 17 17:18:16 2001] You tell your party, 'a lot of times people petitioner other people's names because they are angry with them'
+[Sat Nov 17 17:18:35 2001] Rodetta tells the group, 'uhm, you said to escilate it to red, then delete it?'
+[Sat Nov 17 17:18:35 2001] Correllan tells the group, 'hello rahaven this is apprentice guide correllan again thank you for your petition. we have taken it to a higher lvla nd will be taken care of have a good day'
+[Sat Nov 17 17:18:36 2001] You tell your party, 'so we just thank them and move on ... :)'
+[Sat Nov 17 17:18:40 2001] You tell your party, 'doh...'
+[Sat Nov 17 17:18:50 2001] You tell your party, 'I esc to red only if a GM or senior is on'
+[Sat Nov 17 17:18:50 2001] Rahaven tells the group, 'yes.. also, people who've had a name changed go into a crusade vs names'
+[Sat Nov 17 17:19:02 2001] You tell your party, 'otherwise I just note it and delete it'
+[Sat Nov 17 17:19:07 2001] You tell your party, 'just do one or the other :)'
+[Sat Nov 17 17:19:24 2001] Dalios tells the group, 'afk moment..restroom'
+[Sat Nov 17 17:19:25 2001] Correllan tells the group, 'okay for now shal i just delete his?'
+[Sat Nov 17 17:19:26 2001] You tell your party, 'since Lirus is online, I would esc to red and NOT delete'
+[Sat Nov 17 17:19:35 2001] You tell your party, 'but since this is a fake pet, just note it and delete it'
+[Sat Nov 17 17:19:49 2001] Correllan tells the group, 'hehe..ok'
+[Sat Nov 17 17:19:58 2001] You say to your guild, 'leave greens please'
+[Sat Nov 17 17:20:16 2001] You tell your party, 'Rodetta, do you have a petition?'
+[Sat Nov 17 17:20:22 2001] Correllan tells the group, 'my petition screen going haywire'
+[Sat Nov 17 17:20:26 2001] Rodetta tells the group, 'yes, another name violation'
+[Sat Nov 17 17:20:27 2001] You tell your party, 'that happens'
+[Sat Nov 17 17:20:31 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 17:20:40 2001] You tell your party, 'okay, could you handle it as we just discussed, then?'
+[Sat Nov 17 17:20:51 2001] Rodetta tells the group, 'certainlyt'
+[Sat Nov 17 17:21:15 2001] You no longer have a target.
+[Sat Nov 17 17:21:45 2001] Rodetta tells the group, 'done.'
+[Sat Nov 17 17:21:52 2001] You tell your party, 'who was the petitioner?'
+[Sat Nov 17 17:21:56 2001] Rodetta tells the group, 'Kilm'
+[Sat Nov 17 17:22:06 2001] You say to your guild, 'Kilm, how did Rodetta do on that pet?'
+[Sat Nov 17 17:22:21 2001] Rahaven floats above the ground.
+[Sat Nov 17 17:22:42 2001] Kilm tells the guild, 'excellent'
+[Sat Nov 17 17:22:57 2001] You tell your party, 'okay, well if you've handled it, then either esc to red or note it and delete, and announce over /pr'
+[Sat Nov 17 17:23:03 2001] You say to your guild, 'cool :)'
+[Sat Nov 17 17:23:09 2001] Rodetta tells the group, 'ahh, right, forgot to announce it.'
+[Sat Nov 17 17:23:14 2001] Rodetta GMSAYS, 'Deleting Kilm from queue.'
+[Sat Nov 17 17:23:21 2001] You GMSAY, 'ouch! poor kilm'
+[Sat Nov 17 17:23:24 2001] Agaden tells the guild, 'She had an excellent teacher :)'
+[Sat Nov 17 17:23:28 2001] You GMSAY, 'Kilm, we hardly knew ye'
+[Sat Nov 17 17:23:36 2001] Kilm GMSAYS, 'lol '
+[Sat Nov 17 17:23:40 2001] You tell your party, 'Dalios, can you read your petition?'
+[Sat Nov 17 17:23:40 2001] Rodetta says, '(gotta grab supper, be right back)'
+[Sat Nov 17 17:23:41 2001] Espranza saved.
+[Sat Nov 17 17:23:58 2001] You tell your party, 'we'll be doing real petitions after this'
+[Sat Nov 17 17:24:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Nov 17 17:24:01 2001] USER TEXT: help! I got stuck in a wall and I cant get out!
+[Sat Nov 17 17:24:01 2001] Players in EverQuest:
+[Sat Nov 17 17:24:02 2001] ---------------------------
+[Sat Nov 17 17:24:02 2001] * Guide *[50 Ranger] Antarg (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Sat Nov 17 17:24:02 2001] There is 1 player in EverQuest.
+[Sat Nov 17 17:24:16 2001] You GMSAY, 'deleting Antarg, we don't handle ranger petitions'
+[Sat Nov 17 17:24:17 2001] Correllan tells the group, 'k'
+[Sat Nov 17 17:24:18 2001] DELETING THIS PETITION
+[Sat Nov 17 17:24:20 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Nov 17 17:24:21 2001] USER TEXT: I fell in the lava and died, can you help?!
+[Sat Nov 17 17:24:21 2001] Players in EverQuest:
+[Sat Nov 17 17:24:21 2001] ---------------------------
+[Sat Nov 17 17:24:21 2001] * Guide *[50 Warrior] Sivy (Dark Elf) <Keepers of Dreams> ZONE: arena (USER PID AU7F86Y)
+[Sat Nov 17 17:24:21 2001] There is 1 player in EverQuest.
+[Sat Nov 17 17:24:26 2001] Lirus GMSAYS, '!'
+[Sat Nov 17 17:24:29 2001] Antarg GMSAYS, 'pfft! stinkin halfings'
+[Sat Nov 17 17:24:29 2001] You GMSAY, 'deleting Sivy, dark elves can burn.'
+[Sat Nov 17 17:24:29 2001] Rahaven GMSAYS, 'hey!'
+[Sat Nov 17 17:24:36 2001] DELETING THIS PETITION
+[Sat Nov 17 17:24:37 2001] Lirus GMSAYS, './kill espranza'
+[Sat Nov 17 17:25:51 2001] Agaden tells the guild, 'hehe, lirus'
+[Sat Nov 17 17:25:52 2001] You tell your party, 'Dalios, do you have a petition?'
+[Sat Nov 17 17:26:02 2001] Lirus tells the guild, '/grin'
+[Sat Nov 17 17:26:14 2001] You say to your guild, 'hey you future mentors, watch Dalios...'
+[Sat Nov 17 17:26:24 2001] Lirus tells the guild, 'k...what's up with him?'
+[Sat Nov 17 17:26:26 2001] Rahaven begins to cast a spell. (Contraction)
+[Sat Nov 17 17:26:28 2001] Rahaven shrinks.
+[Sat Nov 17 17:26:29 2001] Agaden tells the guild, '?  You think there may be trouble?'
+[Sat Nov 17 17:26:45 2001] You say to your guild, 'heh doesn't seem to have the guide attitude. Nothing concrete, just watch him...'
+[Sat Nov 17 17:26:50 2001] Rahaven tells the guild, '/agree Esperanza'
+[Sat Nov 17 17:26:51 2001] Lirus tells the guild, 'will do'
+[Sat Nov 17 17:26:56 2001] Rodetta tells the group, 'hehe, i think this is where we take into consideration the /kick ing of sleeping players :)'
+[Sat Nov 17 17:27:04 2001] Agaden tells the guild, 'hmmmm, another one to watch'
+[Sat Nov 17 17:27:17 2001] You tell your party, 'well let's move on, then'
+[Sat Nov 17 17:27:22 2001] Correllan tells the group, 'lol'
+[Sat Nov 17 17:27:29 2001] You tell your party, 'Rodetta, could you pull Scian from the queue?'
+[Sat Nov 17 17:27:31 2001] Antarg GMSAYS, 'Greetings, I am Guide Antarg, Espranza you are now being officially warned for the offense off <Ranger Abuse> you will be contacted and promptly executed in the next few days'
+[Sat Nov 17 17:27:32 2001] You tell your party, 'this is a real petition'
+[Sat Nov 17 17:27:40 2001] Rodetta GMSAYS, 'Pulling Scian'
+[Sat Nov 17 17:27:42 2001] Kilm GMSAYS, 'ok.. gotta go... ... have a dinner to go too :) be safe all and welcome to MT you Apprentices :) '
+[Sat Nov 17 17:27:42 2001] You GMSAY, 'I'm a rogue. You're a ranger.'
+[Sat Nov 17 17:27:48 2001] You GMSAY, 'what are you gonna do.'
+[Sat Nov 17 17:27:54 2001] Correllan GMSAYS, 'ty'
+[Sat Nov 17 17:27:56 2001] You GMSAY, 'laters Kilm!'
+[Sat Nov 17 17:27:58 2001] Agaden GMSAYS, 'he is going to run to the trees!'
+[Sat Nov 17 17:28:03 2001] Rahaven tells the group, 'it's important- you've seen us do it- to let everyone know if you need to afk.. doing it on PR. if your afk is extended, log and come baclk'
+[Sat Nov 17 17:28:08 2001] Rodetta tells the group, 'hmm, interesting, he's a PK, and wants to turn back. Player Scian'
+[Sat Nov 17 17:28:32 2001] Antarg GMSAYS, 'attack my mutant animal friends!'
+[Sat Nov 17 17:28:33 2001] Rahaven tells the group, 'we have procedures to cover that, Rodetta :)'
+[Sat Nov 17 17:28:34 2001] You tell your party, 'okay, contact him and tell him you'll escalate this to the GM,'
+[Sat Nov 17 17:28:40 2001] Kedian's eyes gleam and then go dark.
+[Sat Nov 17 17:28:44 2001] You tell your party, 'The GM handles PK- things'
+[Sat Nov 17 17:28:52 2001] You tell your party, 'then escalate to red and announce it over /pr'
+[Sat Nov 17 17:29:07 2001] Agaden GMSAYS, 'They have all been told that MT is the BEST server, right?'
+[Sat Nov 17 17:29:19 2001] You GMSAY, 'I'm sure they knew that coming in.'
+[Sat Nov 17 17:29:20 2001] Sivy GMSAYS, '<Insert clever zone message here> ZONE!'
+[Sat Nov 17 17:29:22 2001] Rahaven tells the group, 'if the GM isn't on, you can give Lirus's hours- THU-MON 3 EST - 11 '
+[Sat Nov 17 17:29:31 2001] You tell your party, '3 PST - 11 actually'
+[Sat Nov 17 17:29:37 2001] Dalios tells the group, 'Back'
+[Sat Nov 17 17:29:38 2001] Rahaven tells the group, 'er.. PST sorry. Thanks Esp'
+[Sat Nov 17 17:29:53 2001] Rodetta GMSAYS, 'Checked Scian back in, escilated to red, undo-pk request.'
+[Sat Nov 17 17:30:01 2001] You tell your party, 'wb Dalios!'
+[Sat Nov 17 17:30:05 2001] Correllan tells the group, 'lirus is on though he eve has his own pet up..lol'
+[Sat Nov 17 17:30:09 2001] You tell your party, 'Dalios, do you have a petition?'
+[Sat Nov 17 17:30:10 2001] Rahaven tells the group, 'you can also direct them to send email, using the main webpage if they can't be on during those hours'
+[Sat Nov 17 17:30:15 2001] Dalios tells you, 'Would it be possible for me to take off? I've got some things I need to do RL.'
+[Sat Nov 17 17:30:34 2001] You told Dalios, 'um, okay... gate out then before you log'
+[Sat Nov 17 17:30:42 2001] Correllan tells the group, 'k'
+[Sat Nov 17 17:30:43 2001] You told Dalios, 'and let me or a senior know when you can finish training'
+[Sat Nov 17 17:30:58 2001] Dalios tells you, 'What else is there for me to cover?'
+[Sat Nov 17 17:31:06 2001] You told Dalios, 'more petitions'
+[Sat Nov 17 17:31:09 2001] You told Dalios, 'and filing the DSR'
+[Sat Nov 17 17:31:20 2001] Antarg tells the guild, 'hmm thunder storm, risk of my computer dying horribly... nothing in the queue... should leave... but queue might get busy when I leave!'
+[Sat Nov 17 17:31:23 2001] Dalios tells you, 'Ok, thanks..'
+[Sat Nov 17 17:31:27 2001] You tell your party, 'Correllan, could you pull Dardolek please?'
+[Sat Nov 17 17:31:33 2001] Correllan tells the group, 'yes'
+[Sat Nov 17 17:31:34 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Nov 17 17:31:34 2001] Agaden tells the guild, 'lol'
+[Sat Nov 17 17:31:35 2001] USER TEXT: Help!  I fell off the boat and now I can't get back on!
+[Sat Nov 17 17:31:35 2001] Players in EverQuest:
+[Sat Nov 17 17:31:35 2001] ---------------------------
+[Sat Nov 17 17:31:35 2001] * Guide *[50 Enchanter] Agaden (Gnome) <Keepers of Dreams> ZONE: butcher (USER PID DUUV1ZA)
+[Sat Nov 17 17:31:35 2001] There is 1 player in EverQuest.
+[Sat Nov 17 17:31:38 2001] DELETING THIS PETITION
+[Sat Nov 17 17:31:45 2001] Correllan GMSAYS, 'pulling dardolek'
+[Sat Nov 17 17:31:48 2001] You GMSAY, 'deleting Agaden because gnomes are too chewy'
+[Sat Nov 17 17:31:49 2001] Dalios says, 'I've got to run, folks.. was nice meeting you all.. I should be back online tomorrow..'
+[Sat Nov 17 17:31:53 2001] Rahaven tells the group, 'good job :)'
+[Sat Nov 17 17:31:53 2001] You say to your guild, 'all done with the fake pets'
+[Sat Nov 17 17:31:55 2001] Agaden GMSAYS, 'ack!'
+[Sat Nov 17 17:32:03 2001] You tell your party, 'be well, Dalios!'
+[Sat Nov 17 17:32:04 2001] Kedian tells the guild, 'well, with 11 ppl on /who all gm, I think we will beable to handle it :)'
+[Sat Nov 17 17:32:09 2001] Agaden tells the guild, 'we gnomes melt in your mouth, not in your hands!'
+[Sat Nov 17 17:32:16 2001] You tell your party, 'make sure you announce you're zoning before you gate'
+[Sat Nov 17 17:32:17 2001] Rahaven tells the group, 'make sure you gate out of CS before logging, Dalios :) See you soon'
+[Sat Nov 17 17:32:22 2001] Correllan tells the group, 'ahhh do i really have to marry these dwarves...lol'
+[Sat Nov 17 17:32:31 2001] Dalios tells the group, 'zone'
+[Sat Nov 17 17:32:36 2001] You tell your party, 'Correllan, what is the petition?'
+[Sat Nov 17 17:32:37 2001] Dalios fades away.
+[Sat Nov 17 17:32:37 2001] Correllan tells the group, '60 lvl high preist wanting to get married'
+[Sat Nov 17 17:32:37 2001] Faelinn GMSAYS, 'bleh :) hi again'
+[Sat Nov 17 17:32:48 2001] Agaden GMSAYS, 'Faelinn has no life :)'
+[Sat Nov 17 17:32:55 2001] Faelinn GMSAYS, 'my guildees are being ignorant actually'
+[Sat Nov 17 17:32:56 2001] Sivy GMSAYS, 'faeeee! :) wb'
+[Sat Nov 17 17:32:57 2001] Antarg tells the guild, 'gonna do any events tonight? :)'
+[Sat Nov 17 17:33:00 2001] Rahaven tells the group, 'Good.. there's a place in our guild board for weddings'
+[Sat Nov 17 17:33:07 2001] Faelinn GMSAYS, 'and i have probably more of a life then youve ever known :)_'
+[Sat Nov 17 17:33:10 2001] Rahaven tells the group, 'we need to know when, who, where..'
+[Sat Nov 17 17:33:18 2001] Correllan tells the group, 'says would like to get married in the north wing'
+[Sat Nov 17 17:33:23 2001] Sivy GMSAYS, 'fae did you tell red i said hi?'
+[Sat Nov 17 17:33:25 2001] Correllan tells the group, 'ok'
+[Sat Nov 17 17:33:26 2001] Agaden GMSAYS, 'hehe'
+[Sat Nov 17 17:33:29 2001] Faelinn GMSAYS, 'she wasnt on'
+[Sat Nov 17 17:33:29 2001] You say to your guild, 'no more fake pets please'
+[Sat Nov 17 17:33:32 2001] Rahaven tells the group, 'surname change if needed, good or bad alignment, and wether they want a witness or a ceremony performed'
+[Sat Nov 17 17:33:42 2001] Sivy GMSAYS, '=('
+[Sat Nov 17 17:33:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Nov 17 17:33:45 2001] Sivy GMSAYS, 'my pet isnt fake'
+[Sat Nov 17 17:33:46 2001] USER TEXT: Espranza must die for talking crap!
+[Sat Nov 17 17:33:46 2001] Players in EverQuest:
+[Sat Nov 17 17:33:46 2001] ---------------------------
+[Sat Nov 17 17:33:46 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: paineel (USER PID CW1ECN5)
+[Sat Nov 17 17:33:46 2001] There is 1 player in EverQuest.
+[Sat Nov 17 17:33:46 2001] Sivy tells the guild, 'err my pet isnt fake'
+[Sat Nov 17 17:33:46 2001] Faelinn GMSAYS, 'theyre same as i am, bart and red'
+[Sat Nov 17 17:33:51 2001] Espranza saved.
+[Sat Nov 17 17:33:53 2001] Agaden GMSAYS, 'You have ignorant guildies too?'
+[Sat Nov 17 17:33:54 2001] You GMSAY, 'warning Lirus for guide harassment'
+[Sat Nov 17 17:33:55 2001] Rahaven tells the group, 'We ask they give us advance notice to prepare'
+[Sat Nov 17 17:33:56 2001] Kedian tells the guild, '/petition Sivy is flooding the pet queue'
+[Sat Nov 17 17:33:56 2001] Antarg GMSAYS, 'deleting Sivy, irrellevent'
+[Sat Nov 17 17:34:01 2001] Dalios has left the group.
+[Sat Nov 17 17:34:09 2001] Faelinn GMSAYS, 'none of us really play much heh'
+[Sat Nov 17 17:34:22 2001] Faelinn GMSAYS, 'nothin to do anymore :/'
+[Sat Nov 17 17:34:26 2001] DELETING THIS PETITION
+[Sat Nov 17 17:34:44 2001] Players in EverQuest:
+[Sat Nov 17 17:34:44 2001] ---------------------------
+[Sat Nov 17 17:34:44 2001] * Guide *[50 Enchanter] Faelinn (High Elf) <Keepers of Dreams> ZONE: highpass (USER PID FUUW3D0)
+[Sat Nov 17 17:34:44 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: paineel (USER PID CW1ECN5)
+[Sat Nov 17 17:34:45 2001] * Guide *[50 Ranger] Antarg (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Sat Nov 17 17:34:45 2001] * Guide *[50 Warrior] Sivy (Dark Elf) <Keepers of Dreams> ZONE: arena (USER PID AU7F86Y)
+[Sat Nov 17 17:34:45 2001] * Guide *[50 Monk] Kedian (Human) <Keepers of Dreams> ZONE: cshome (USER PID HU7F5NG)
+[Sat Nov 17 17:34:45 2001] * Apprentice Guide *[ANON (20 Shadow Knight)] Rodetta (Erudite) ZONE: cshome (USER PID DY6ZLSX)
+[Sat Nov 17 17:34:45 2001] * Guide *[50 Enchanter] Agaden (Gnome) <Keepers of Dreams> ZONE: butcher (USER PID DUUV1ZA)
+[Sat Nov 17 17:34:45 2001] * Apprentice Guide *[ANON (20 Wizard)] Correllan (Gnome) ZONE: cshome (USER PID AYM1PPY)
+[Sat Nov 17 17:34:45 2001] * Guide *[50 Enchanter] Rahaven (Dark Elf) <Keepers of Dreams> ZONE: cshome (USER PID FU7FYKJ)
+[Sat Nov 17 17:34:45 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Nov 17 17:34:45 2001] There are 10 players in EverQuest.
+[Sat Nov 17 17:34:48 2001] Sivy GMSAYS, 'bart is a meanie'
+[Sat Nov 17 17:34:50 2001] Rahaven tells the guild, 'Welcome back, Lynn the Fae'
+[Sat Nov 17 17:34:54 2001] Sivy GMSAYS, 'and my pet > antarg'
+[Sat Nov 17 17:34:58 2001] Antarg GMSAYS, 'lunch is read'
+[Sat Nov 17 17:35:02 2001] Faelinn tells the guild, 'hi rah'
+[Sat Nov 17 17:35:04 2001] Antarg GMSAYS, 'ready'
+[Sat Nov 17 17:35:08 2001] Antarg GMSAYS, 'back soon'
+[Sat Nov 17 17:35:12 2001] You GMSAY, 'laters'
+[Sat Nov 17 17:35:17 2001] Rodetta tells you, 'can i grab another one while we're waiting?'
+[Sat Nov 17 17:35:23 2001] Agaden GMSAYS, 'see ya antarg'
+[Sat Nov 17 17:35:25 2001] Rahaven tells the group, 'this lag is killing me.'
+[Sat Nov 17 17:35:31 2001] Faelinn GMSAYS, 'dont let the door hit ya on the butt antarg'
+[Sat Nov 17 17:35:36 2001] You told Rodetta, 'nah, let's finish up here and then you can take all the pets you like'
+[Sat Nov 17 17:35:46 2001] Rodetta tells you, 'cool.'
+[Sat Nov 17 17:36:06 2001] Correllan tells the group, 'looking for info on a quick marriage in toV during a raid '
+[Sat Nov 17 17:36:08 2001] Faelinn GMSAYS, 'heh *crickets*'
+[Sat Nov 17 17:36:13 2001] You tell your party, 'we can't go in ToV'
+[Sat Nov 17 17:36:25 2001] Rahaven tells the group, 'insane. With eth AoE in that place ... '
+[Sat Nov 17 17:36:31 2001] Rahaven tells the group, 'it's a CS limited'
+[Sat Nov 17 17:36:32 2001] You tell your party, 'if they really want to get married there, get them to get a player cleric to perform it'
+[Sat Nov 17 17:36:44 2001] You tell your party, 'and then to let us know afterward for name changes and the like'
+[Sat Nov 17 17:37:01 2001] Faelinn GMSAYS, 'is it ok to take greens or are we leaving them?'
+[Sat Nov 17 17:37:01 2001] Correllan tells the group, 'okay'
+[Sat Nov 17 17:37:08 2001] You GMSAY, 'leaving them'
+[Sat Nov 17 17:37:12 2001] Faelinn GMSAYS, 'okie dokie'
+[Sat Nov 17 17:37:23 2001] You GMSAY, 'just stare at them wistfully for awhile, remembering what it was like when you were an apprentice'
+[Sat Nov 17 17:37:35 2001] You GMSAY, 'and some mean, nasty, wizened old guide took the pet you had your eye on'
+[Sat Nov 17 17:37:36 2001] Rodetta tells the group, 'the anti-pk guy i just did has a followup question, am i allowed to respond?'
+[Sat Nov 17 17:37:37 2001] Kedian GMSAYS, 'hehe, that wasn't too long ago either'
+[Sat Nov 17 17:37:40 2001] Faelinn GMSAYS, 'i still have that appy urge to power pet :)'
+[Sat Nov 17 17:37:40 2001] You told Rodetta, 'sure'
+[Sat Nov 17 17:37:43 2001] Rahaven GMSAYS, 'why, that's exactly what she did then :)'
+[Sat Nov 17 17:37:48 2001] Agaden GMSAYS, 'lol'
+[Sat Nov 17 17:37:58 2001] Agaden GMSAYS, 'hey, weren't you the nasty old guide, Esp? :)'
+[Sat Nov 17 17:38:05 2001] You GMSAY, 'that would be me'
+[Sat Nov 17 17:38:12 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 17:38:18 2001] Kedian GMSAYS, 'your saying that in the past tense, agaden....'
+[Sat Nov 17 17:38:32 2001] Rahaven tells the group, 'yes, Rodetta'
+[Sat Nov 17 17:38:46 2001] Rahaven tells the group, 'Go ahead.. if it's something needing a lot of followup, we can ask them to petition again'
+[Sat Nov 17 17:39:16 2001] Rahaven tells the group, 'it really depends on the petition volume.'
+[Sat Nov 17 17:39:19 2001] Rodetta tells the group, 'he just wanted to know how long it was going to take, but i didn't know if i was supposed to ignore all tells, or just the first time ones.'
+[Sat Nov 17 17:39:43 2001] You tell your party, 'tell him that Lirus will handle it as soon as he can'
+[Sat Nov 17 17:39:56 2001] You tell your party, 'BTW, Lirus is a gal in real life, playing a male character'
+[Sat Nov 17 17:39:59 2001] Rahaven tells the group, 'We answer tels.. while I was here, with you, someone sent me a tel they were drowining in Tim Deep. I asked them to petition, politely'
+[Sat Nov 17 17:40:23 2001] Lirus GMSAYS, 'zone'
+[Sat Nov 17 17:40:47 2001] You tell your party, 'Correllan, are you done with the wedding petition?'
+[Sat Nov 17 17:40:48 2001] Rodetta tells the group, 'hehe, hold your breath and type really fast :)'
+[Sat Nov 17 17:41:09 2001] Correllan tells the group, 'esp he is wanting a guide to do the cerimony there but has his guild there to watch and witness after wards he wants her surname changed to ofthehood'
+[Sat Nov 17 17:41:20 2001] Correllan tells the group, 'lol'
+[Sat Nov 17 17:41:21 2001] You tell your party, 'okay several things wrong'
+[Sat Nov 17 17:41:35 2001] Sivy GMSAYS, 'someone /goto me'
+[Sat Nov 17 17:41:39 2001] Rahaven tells the group, 'lol I'd say'
+[Sat Nov 17 17:41:41 2001] You tell your party, 'first - if we're in a CSR zone, it's because we're working on a petition'
+[Sat Nov 17 17:41:45 2001] Lirus GMSAYS, 'who esc'd scian?'
+[Sat Nov 17 17:41:50 2001] You tell your party, 'and we get in and get out'
+[Sat Nov 17 17:41:55 2001] Kedian GMSAYS, '<< zone >>'
+[Sat Nov 17 17:42:02 2001] You say to your guild, 'one of the appies did'
+[Sat Nov 17 17:42:04 2001] Rodetta GMSAYS, 'I did.'
+[Sat Nov 17 17:42:07 2001] Correllan tells the group, 'ok'
+[Sat Nov 17 17:42:08 2001] Lirus GMSAYS, 'ahh ok'
+[Sat Nov 17 17:42:15 2001] You tell your party, 'secondly, ofthehood is a bad surname'
+[Sat Nov 17 17:42:20 2001] Agaden tells the guild, 'Lirus is a meanie...scaring the appies'
+[Sat Nov 17 17:42:26 2001] Rahaven tells the group, 'titles aren't allowed in names, for one'
+[Sat Nov 17 17:42:38 2001] Correllan tells the group, 'okay he just send a tell changing it he wants to take her surname ..will inform him of the first'
+[Sat Nov 17 17:42:45 2001] Rahaven tells the group, 'neither are phrases, though descriptive compounds are ok'
+[Sat Nov 17 17:42:49 2001] Thegreatajax tells you, 'plz help me, i accidentally fell of the ship'
+[Sat Nov 17 17:42:56 2001] Agaden tells the guild, 'hmmm, what should I have for dinner tonight?'
+[Sat Nov 17 17:42:57 2001] Players in EverQuest:
+[Sat Nov 17 17:42:57 2001] ---------------------------
+[Sat Nov 17 17:42:57 2001] [5 Ranger] Thegreatajax (Wood Elf) <Fire Knights> ZONE: oot (USER PID HUNEC7R)
+[Sat Nov 17 17:42:57 2001] There is 1 player in EverQuest.
+[Sat Nov 17 17:43:08 2001] You GMSAY, '<note badname> Thegreatajax HUNEC7R'
+[Sat Nov 17 17:43:13 2001] You told Thegreatajax, 'please petition, thanks!'
+[Sat Nov 17 17:43:30 2001] Thegreatajax tells you, 'pleasehelp'
+[Sat Nov 17 17:43:42 2001] You say to your guild, 'please note that Dalios had to leave, and has not completed training'
+[Sat Nov 17 17:43:49 2001] Faelinn GMSAYS, 'Zoning... '
+[Sat Nov 17 17:43:54 2001] You say to your guild, 'will try to arrange with him offline a time to finish it'
+[Sat Nov 17 17:44:02 2001] Espranza saved.
+[Sat Nov 17 17:44:13 2001] Agaden tells the guild, 'I think I shall have KFC tonight'
+[Sat Nov 17 17:44:29 2001] Lirus tells the guild, 'ok esp'
+[Sat Nov 17 17:44:35 2001] You told Thegreatajax, 'type /petition I accidentally fell of the ship and we will be with you as soon as possible'
+[Sat Nov 17 17:45:03 2001] Correllan tells the group, 'okay he is talking to her brb'
+[Sat Nov 17 17:45:11 2001] Rahaven GMSAYS, 'The great Ajax is doing the round of guides, asking for help w/o petitioning'
+[Sat Nov 17 17:45:22 2001] Agaden GMSAYS, 'lol'
+[Sat Nov 17 17:45:24 2001] Correllan tells the group, 'her surname is sanamambinche'
+[Sat Nov 17 17:45:24 2001] Rahaven GMSAYS, 'In case someone else gets the tel :)'
+[Sat Nov 17 17:45:28 2001] You GMSAY, 'I told him to petition'
+[Sat Nov 17 17:45:37 2001] Agaden GMSAYS, 'he just petitioned..what is the problem?'
+[Sat Nov 17 17:45:37 2001] Rahaven tells the group, 'bad surname, offensive'
+[Sat Nov 17 17:45:41 2001] You GMSAY, 'and there is his petition'
+[Sat Nov 17 17:45:45 2001] Correllan tells the group, 'would you really like to take this one esp..lol....'
+[Sat Nov 17 17:45:47 2001] Rahaven tells the group, 'fell off the boat :)'
+[Sat Nov 17 17:45:52 2001] Rahaven GMSAYS, 'fell off the boat'
+[Sat Nov 17 17:45:58 2001] You say to your guild, 'okay, pull some pets please, try to leave two greens'
+[Sat Nov 17 17:46:35 2001] You tell your party, 'Correl, I can take it - esc to yellow'
+[Sat Nov 17 17:46:56 2001] Rodetta tells the group, 'lol, look at new pet, name is thegreatajax'
+[Sat Nov 17 17:47:00 2001] Correllan tells the group, 'ri am going to move you up to another guide for better assistance'
+[Sat Nov 17 17:47:02 2001] Rahaven says, 'Hail'
+[Sat Nov 17 17:47:07 2001] You tell your party, 'oops :)'
+[Sat Nov 17 17:47:08 2001] Rahaven tells the group, 'how about that'
+[Sat Nov 17 17:47:12 2001] Rahaven says, 'Lag'
+[Sat Nov 17 17:47:35 2001] You tell your party, 'some other guide will handle it'
+[Sat Nov 17 17:47:45 2001] Antarg GMSAYS, 'back'
+[Sat Nov 17 17:47:46 2001] You tell your party, 'announce over /pr that you esced it and why'
+[Sat Nov 17 17:47:51 2001] Correllan GMSAYS, 'esc dardolek'
+[Sat Nov 17 17:47:56 2001] You tell your party, '... and why'
+[Sat Nov 17 17:48:04 2001] You tell your party, 'did you append text?'
+[Sat Nov 17 17:48:06 2001] Correllan GMSAYS, 'opps already taken care of'
+[Sat Nov 17 17:48:09 2001] Antarg floats above the ground.
+[Sat Nov 17 17:48:10 2001] Antarg is surrounded by a brief aura.
+[Sat Nov 17 17:48:33 2001] Agaden GMSAYS, 'geeze, that was fast antarg'
+[Sat Nov 17 17:48:36 2001] You tell your party, 'always append text to escalated petitions except for those abuse or harassment petitions for which you do not contact'
+[Sat Nov 17 17:48:46 2001] Correllan tells the group, 'append text no i didn't '
+[Sat Nov 17 17:48:52 2001] You tell your party, 'okay, well next time...'
+[Sat Nov 17 17:49:00 2001] Antarg GMSAYS, 'food just doesnt last as long as it use to'
+[Sat Nov 17 17:49:00 2001] Correllan tells the group, 'okay that adds all of my note on it right'
+[Sat Nov 17 17:49:01 2001] Rahaven tells the group, 'yes.. if you see a name on the abuse or harrasment ones, do a /who and catch the pid if you can, that also helps to append'
+[Sat Nov 17 17:49:06 2001] You tell your party, 'Lirus once killed every guide online for not appending...'
+[Sat Nov 17 17:49:16 2001] Correllan tells the group, 'ok'
+[Sat Nov 17 17:49:44 2001] You tell your party, 'okay, well if everyone is out of the queue...'
+[Sat Nov 17 17:49:49 2001] You tell your party, 'right?'
+[Sat Nov 17 17:49:50 2001] Correllan tells the group, 'is out'
+[Sat Nov 17 17:50:00 2001] Rodetta is out.
+[Sat Nov 17 17:50:11 2001] You tell your party, 'Then - any more questions we can answer for you?'
+[Sat Nov 17 17:50:11 2001] Faelinn tells the guild, 'lirus'
+[Sat Nov 17 17:50:20 2001] Correllan tells the group, 'now do we announce esc before or after we take and check out?'
+[Sat Nov 17 17:50:24 2001] Lirus tells the guild, '?'
+[Sat Nov 17 17:50:25 2001] You tell your party, 'Remember that you will be posting a DSR for this training shift'
+[Sat Nov 17 17:50:31 2001] You tell your party, 'I usually pull then announce'
+[Sat Nov 17 17:50:36 2001] Faelinn tells the guild, 'when will SOL be available in France?'
+[Sat Nov 17 17:50:38 2001] Correllan tells the group, 'okay'
+[Sat Nov 17 17:50:40 2001] You tell your party, 'just to make sure I got the one I was trying for'
+[Sat Nov 17 17:50:47 2001] Lirus tells the guild, 'ubi soft says the 3rd'
+[Sat Nov 17 17:50:49 2001] Rodetta tells the group, 'right, the DSR, i still dont have a template. is there one on the site?'
+[Sat Nov 17 17:50:57 2001] Faelinn tells the guild, 'ok'
+[Sat Nov 17 17:51:02 2001] Agaden tells the guild, 'when do we get to download it?'
+[Sat Nov 17 17:51:06 2001] Rahaven tells the group, 'there is a template on the website, under links'
+[Sat Nov 17 17:51:06 2001] Kedian tells the guild, 'I read something that they were trying to get it released everywhere the same day..'
+[Sat Nov 17 17:51:07 2001] Antarg tells the guild, 'ahh lirus, while ya not busy. would it be possible to get reraced to Human? :)'
+[Sat Nov 17 17:51:11 2001] You tell your party, 'You can post DSRs without EQGSR'
+[Sat Nov 17 17:51:19 2001] You tell your party, 'the information is what is important'
+[Sat Nov 17 17:51:19 2001] Rahaven tells the group, 'if you see someone's template you like, ask them for it :)'
+[Sat Nov 17 17:51:26 2001] Kedian GMSAYS, '<< zone >>'
+[Sat Nov 17 17:51:40 2001] Correllan tells the group, 'yes thats my biggest problem how do we do the dsrs i need to go over that again'
+[Sat Nov 17 17:51:41 2001] You say to your guild, 'you meant halfling, Antarg?'
+[Sat Nov 17 17:51:49 2001] Agaden GMSAYS, '*sigh* I pulled Thegreatajax :((('
+[Sat Nov 17 17:51:54 2001] Antarg tells the guild, 'Lancet said I could bug ya when ya not busy :)'
+[Sat Nov 17 17:52:02 2001] Rodetta GMSAYS, 'fun one?'
+[Sat Nov 17 17:52:10 2001] You tell your party, 'okay, DSRs...'
+[Sat Nov 17 17:52:11 2001] Agaden GMSAYS, 'fell off the boat :)'
+[Sat Nov 17 17:52:23 2001] Rahaven tells the guild, 'what's a halfling?'
+[Sat Nov 17 17:52:24 2001] You tell your party, 'do you need help with EQGSR, or the whole idea of DSRs?'
+[Sat Nov 17 17:52:28 2001] You say to your guild, 'the uber race'
+[Sat Nov 17 17:52:33 2001] Antarg tells the guild, 'ugliest race in EQ'
+[Sat Nov 17 17:52:34 2001] Agaden tells the guild, 'we do not summon peeps when they fall off the boat, right?  '
+[Sat Nov 17 17:52:38 2001] Rodetta tells the group, 'whole idea.'
+[Sat Nov 17 17:52:41 2001] Correllan tells the group, 'sorry but basically the whole idea'
+[Sat Nov 17 17:52:45 2001] Rahaven tells the guild, 'Oh, in Neriak we call them Canned Goods :)'
+[Sat Nov 17 17:52:49 2001] Agaden tells the guild, 'halfings are the eq equivilant of mutts'
+[Sat Nov 17 17:52:54 2001] You say to your guild, 'we summon them to the nearest dock'
+[Sat Nov 17 17:53:01 2001] Rahaven tells the guild, 'Or meat on the hoof :)'
+[Sat Nov 17 17:53:04 2001] You say to your guild, 'but not to cross zones'
+[Sat Nov 17 17:53:08 2001] Agaden GMSAYS, 'Time to get the heck outta Dodge!  Zone!'
+[Sat Nov 17 17:53:08 2001] Rodetta tells the group, 'maybe now that we have site access we might be able to figure it out ourselves.'
+[Sat Nov 17 17:53:08 2001] Correllan tells the group, 'i know i can get the eqgsr once i have access tot he websirte and downlaod it'
+[Sat Nov 17 17:53:29 2001] You tell your party, 'Okay, well, if you look at your apprentice manual, it says the information needed for your shift report'
+[Sat Nov 17 17:53:31 2001] Correllan tells the group, 'thats true'
+[Sat Nov 17 17:53:48 2001] Rahaven tells the group, 'it's important that you read that posting guide Esp wrote, and look at the boards...'
+[Sat Nov 17 17:53:57 2001] Agaden tells the guild, 'I ALWAYS get that one wrong! :('
+[Sat Nov 17 17:54:01 2001] Rahaven tells the group, 'we want you to post in the right place, the right way, EQGSR or no'
+[Sat Nov 17 17:54:08 2001] Kedian tells the guild, 'afk a sec'
+[Sat Nov 17 17:54:12 2001] Espranza saved.
+[Sat Nov 17 17:54:16 2001] You tell your party, 'if you haven't got EQGSR to work, just take the notes you've kept and write one based on that'
+[Sat Nov 17 17:54:18 2001] Correllan tells the group, 'ok'
+[Sat Nov 17 17:54:34 2001] You tell your party, 'the posting guide is something I wrote to tell people where and how to post the DSR'
+[Sat Nov 17 17:55:03 2001] You tell your party, 'once you get to the guide board, just follow the directions and you should have your bearings'
+[Sat Nov 17 17:55:22 2001] You tell your party, 'for today, you'll be posting under the apprentices section for Saturday.'
+[Sat Nov 17 17:55:34 2001] Correllan tells the group, 'ok'
+[Sat Nov 17 17:55:41 2001] Rodetta tells the group, 'k, maybe i'l go take a look at that now.'
+[Sat Nov 17 17:55:51 2001] You tell your party, 'any other questions?'
+[Sat Nov 17 17:56:00 2001] Rodetta tells the group, 'nope.'
+[Sat Nov 17 17:56:09 2001] Correllan tells the group, 'i think i am good '
+[Sat Nov 17 17:56:13 2001] You tell your party, 'okay!'
+[Sat Nov 17 17:56:25 2001] Correllan tells the group, 'bad actually till i get used to this but ...lol..'
+[Sat Nov 17 17:56:34 2001] You tell your party, 'Then on behalf of the guides and the SMT of Morell-Thule, I'd like to formally welcome you into the MT guide family!'
+[Sat Nov 17 17:56:40 2001] Rodetta tells the group, 'so, we just gate back, then head off wherever?'
+[Sat Nov 17 17:56:43 2001] Antarg begins to cast a spell. (Contraction)
+[Sat Nov 17 17:56:45 2001] Antarg shrinks.
+[Sat Nov 17 17:56:46 2001] Correllan tells the group, 'ty'
+[Sat Nov 17 17:56:47 2001] Rahaven cheers at Correllan.
+[Sat Nov 17 17:56:51 2001] Rahaven cheers at Rodetta.
+[Sat Nov 17 17:56:55 2001] You GMSAY, 'Welcome, new apprentices!'
+[Sat Nov 17 17:56:57 2001] Correllan bows before Rahaven.
+[Sat Nov 17 17:57:01 2001] Antarg GMSAYS, 'woo grats!'
+[Sat Nov 17 17:57:10 2001] Rodetta cheers at Espranza.
+[Sat Nov 17 17:57:11 2001] Rahaven tells the group, 'i look forward to mentoring you... feel free to ask anything you like'
+[Sat Nov 17 17:57:12 2001] Antarg GMSAYS, 'now... who wants to be tormented first? :)'
+[Sat Nov 17 17:57:13 2001] Rodetta cheers at Rahaven.
+[Sat Nov 17 17:57:17 2001] Agaden GMSAYS, 'WOOT!!!!'
+[Sat Nov 17 17:57:19 2001] You tell your party, 'now, /pr zone, click your heels together three times, and gate away'
+[Sat Nov 17 17:57:23 2001] You tell your party, 'and work on the queue!'
+[Sat Nov 17 17:57:31 2001] You tell your party, 'oh, and once you gate, drop /anon'
+[Sat Nov 17 17:57:37 2001] Correllan GMSAYS, 'thanks all for the fun and laughter looking forward to working with you all'
+[Sat Nov 17 17:57:41 2001] Rodetta GMSAYS, 'Train to zone, wait, my MPD's dont count as a train....'
+[Sat Nov 17 17:57:41 2001] Correllan tells the group, 'okay'
+[Sat Nov 17 17:57:43 2001] Rodetta fades away.
+[Sat Nov 17 17:57:58 2001] Correllan GMSAYS, 'zone'
+[Sat Nov 17 17:58:00 2001] Agaden GMSAYS, '*sigh* Anyone feel like conducting a wedding in ToV in the north wing?  Can we even DO a wedding in ToV??'
+[Sat Nov 17 17:58:00 2001] Correllan fades away.
+[Sat Nov 17 17:58:05 2001] You GMSAY, 'no, we cannot'
+[Sat Nov 17 17:58:07 2001] Rahaven GMSAYS, 'We cannot'
+[Sat Nov 17 17:58:16 2001] You GMSAY, 'and, we require a week's advance notice'
+[Sat Nov 17 17:58:22 2001] Agaden GMSAYS, 'who escalated dardolek?'
+[Sat Nov 17 17:58:23 2001] Rahaven GMSAYS, 'Essential PnP work only, then we leave'
+[Sat Nov 17 17:58:31 2001] You GMSAY, 'and even then we cannot guarantee someone will be available'
+[Sat Nov 17 17:58:34 2001] Antarg tells the guild, 'gotta question, would I get in trouble if I install EQ on my other PC and use it to goto chat on my guide account without leaving the game on this computer?'
+[Sat Nov 17 17:58:35 2001] Rahaven GMSAYS, 'They have several issues, Agie'
+[Sat Nov 17 17:58:43 2001] Faelinn tells the guild, 'no'
+[Sat Nov 17 17:58:47 2001] You say to your guild, 'feel free'
+[Sat Nov 17 17:58:47 2001] Rahaven tells the group, 'that's ideal, Antarg'
+[Sat Nov 17 17:58:51 2001] Rahaven tells the guild, 'that's ideal, Antarg'
+[Sat Nov 17 17:58:54 2001] Antarg tells the guild, 'k great'
+[Sat Nov 17 17:59:06 2001] Faelinn tells the guild, 'i wish i could do that instead of logging to get GM for reports'
+[Sat Nov 17 17:59:17 2001] Agaden tells the guild, 'would you be able to do that while still logged in on another comp?'
+[Sat Nov 17 17:59:22 2001] Correllan tells the group, 'okay i guess i am disbanding  but if okay i am staying on for a while to watch and listen if thats okay'
+[Sat Nov 17 17:59:25 2001] Faelinn tells the guild, 'yeah'
+[Sat Nov 17 17:59:25 2001] Rahaven says, 'Was I that difficult, or worse? :)'
+[Sat Nov 17 17:59:36 2001] Rahaven chuckles at Espranza.
+[Sat Nov 17 17:59:37 2001] Faelinn tells the guild, 'just into chat though'
+[Sat Nov 17 17:59:39 2001] You tell your party, 'No, you must always be grouped wiht a guide'
+[Sat Nov 17 17:59:40 2001] Antarg tells the guild, 'just not able to log into another character'
+[Sat Nov 17 17:59:45 2001] Faelinn tells the guild, 'eight'
+[Sat Nov 17 17:59:50 2001] Faelinn tells the guild, '*right'
+[Sat Nov 17 17:59:52 2001] Rodetta GMSAYS, 'i'm supposed to get rid of all my equipment, but can i keep my paineel key?'
+[Sat Nov 17 17:59:54 2001] You tell your party, 'and if you're on MT in your guide avatar, you should be working on the queue'
+[Sat Nov 17 17:59:56 2001] Rahaven tells the group, 'yes, any mentor. Not just the training staff'
+[Sat Nov 17 18:00:00 2001] Correllan tells the group, 'ohhh okay i'm sorry i knew one had to be on '
+[Sat Nov 17 18:00:02 2001] Antarg GMSAYS, 'wont need it'
+[Sat Nov 17 18:00:03 2001] You GMSAY, 'delete everything except your appie stick'
+[Sat Nov 17 18:00:28 2001] You say, 'you were fine, Rahaven!'
+[Sat Nov 17 18:00:35 2001] You say, 'but do print out the script for next time'
+[Sat Nov 17 18:00:52 2001] You say, 'I would have sent mail earlier, but with Lancet back, it's him who handles that'
+[Sat Nov 17 18:00:54 2001] Kedian tells the guild, 'back'
+[Sat Nov 17 18:01:02 2001] Agaden GMSAYS, 'oh, and remember...if Rahaven asks you to go to Neriak with him, DO NOT GO!!!  He does some strange things in there!'
+[Sat Nov 17 18:01:03 2001] Rahaven says, 'I will, Esp. I'm almost computerless, rebuilding slowly'
+[Sat Nov 17 18:01:07 2001] Correllan GMSAYS, 'anyone have the time to torment err mean mentor me for a while?'
+[Sat Nov 17 18:01:09 2001] You say, 'I was just filling in for him while he was gone'
+[Sat Nov 17 18:01:21 2001] Rahaven says, 'I didn't get any email, I was surprised. I do check that daily'
+[Sat Nov 17 18:01:24 2001] You say to your guild, 'someone mentor Correllan please!'
+[Sat Nov 17 18:01:28 2001] Kedian GMSAYS, 'sure correllan, antarg and I will tourture you :p'
+[Sat Nov 17 18:01:31 2001] Correllan GMSAYS, 'okay...making that note now'
+[Sat Nov 17 18:01:35 2001] Kedian GMSAYS, '<< zone >>'
+[Sat Nov 17 18:01:38 2001] You say, 'I emailed after IRC training this morning'
+[Sat Nov 17 18:01:47 2001] You say, 'You may have it waiting for you'
+[Sat Nov 17 18:01:50 2001] Rahaven says, 'Ah.. I checked this morning, not sice. I'll check later'
+[Sat Nov 17 18:01:58 2001] Faelinn GMSAYS, 'afk a min'
+[Sat Nov 17 18:01:58 2001] Correllan tells the group, 'is it safe to group with them two....lol'
+[Sat Nov 17 18:02:01 2001] You say, 'I had to find out from Lancet which appies showed for IRC training yesterday'
+[Sat Nov 17 18:02:04 2001] You tell your party, 'no, not at all'
+[Sat Nov 17 18:02:07 2001] You tell your party, 'be very scared'
+[Sat Nov 17 18:02:10 2001] Rahaven says, 'I agree with your assessment by the way'
+[Sat Nov 17 18:02:17 2001] Rodetta GMSAYS, 'pulling siuan'
+[Sat Nov 17 18:02:23 2001] Correllan tells the group, 'i will thanks disbanding to join kedian'
+[Sat Nov 17 18:02:24 2001] Agaden GMSAYS, 'I know this sounds strange, but would we marry brothers?'
+[Sat Nov 17 18:02:25 2001] You say, 'Rodetta has the stuff'
+[Sat Nov 17 18:02:27 2001] You tell your party, 'see ya!'
+[Sat Nov 17 18:02:35 2001] You GMSAY, 'yes, we are non - judgemental'
+[Sat Nov 17 18:02:35 2001] Correllan has left the group.
+[Sat Nov 17 18:02:42 2001] Antarg GMSAYS, 'same sex marrages are permitted :)'
+[Sat Nov 17 18:02:42 2001] Correllan GMSAYS, 'okay ready for invite'
+[Sat Nov 17 18:02:46 2001] Rahaven says, 'Aye, Correllan will too, if he applies himself. the will is there'
+[Sat Nov 17 18:02:47 2001] You say, 'Correllan may work out'
+[Sat Nov 17 18:02:53 2001] Rahaven says, 'Dallios, I doubt'
+[Sat Nov 17 18:02:57 2001] You say, 'Dalios will have to prove himself'
+[Sat Nov 17 18:02:59 2001] Agaden GMSAYS, 'YOU may not be judgemental! :)'
+[Sat Nov 17 18:03:31 2001] You say, 'but, it's our job to prepare them as well as we can'
+[Sat Nov 17 18:03:37 2001] Your protection fades.
+[Sat Nov 17 18:03:43 2001] Rahaven says, 'Absolutely. I never gave up on Feldorin'
+[Sat Nov 17 18:03:44 2001] You say, 'it's up to them to do what it takes to be promoted'
+[Sat Nov 17 18:04:11 2001] Rahaven says, 'Mmm.. and I felt cocky first night'
+[Sat Nov 17 18:04:15 2001] Rahaven says, 'We'll see'
+[Sat Nov 17 18:04:16 2001] You say, 'now explain to me about Feldorin some more. I did not recommend him - I turned in NR because I felt I did not know him enough'
+[Sat Nov 17 18:04:22 2001] Espranza saved.
+[Sat Nov 17 18:04:34 2001] You say, 'and I guess he was roundly trounced by everyone else'
+[Sat Nov 17 18:04:42 2001] You say, 'but he always seemed friendly enough to me...'
+[Sat Nov 17 18:04:43 2001] Rahaven says, 'Feldorin, I think, lacked the ability to deal with people effectively'
+[Sat Nov 17 18:05:04 2001] You begin casting Contraction. (Contraction)
+[Sat Nov 17 18:05:04 2001] Your Collar of Contraction begins to glow.
+[Sat Nov 17 18:05:05 2001] You feel smaller.
+[Sat Nov 17 18:05:10 2001] Agaden GMSAYS, '<note name change> Dardolek wishes to marry Revaeb in WC on friday, Nov 23.'
+[Sat Nov 17 18:05:28 2001] Rahaven says, 'The other guides probably noticed. In fact, I think there was some friction with the other appies as well'
+[Sat Nov 17 18:05:31 2001] You say, 'well, it must have been something quite serious'
+[Sat Nov 17 18:05:44 2001] You say, 'usually they just let them forge ahead for another few weeks'
+[Sat Nov 17 18:05:48 2001] You say, 'but he was booted'
+[Sat Nov 17 18:05:56 2001] Rodetta GMSAYS, 'Deleting Siuan from queue, problem solved with re-patch.'
+[Sat Nov 17 18:06:03 2001] Rahaven says, 'Until the timer runs, aye. Could be... I have been away for a week'
+[Sat Nov 17 18:06:12 2001] You say, 'Rodetta is a two week promotion, see if I'm wrong'
+[Sat Nov 17 18:06:28 2001] Rahaven says, 'LOL.. no bets. You were right on the last appie set'
+[Sat Nov 17 18:06:50 2001] You say, 'I can usually judge them'
+[Sat Nov 17 18:07:12 2001] Rahaven says, 'I'm going to log out, Esp.. lag is murdering me.'
+[Sat Nov 17 18:07:12 2001] Rodetta tells the group, 'If we delete a petition, it's really gone, right? is it stored anywhere else incase the issue resurfaces or something?'
+[Sat Nov 17 18:07:16 2001] Correllan GMSAYS, 'zoning'
+[Sat Nov 17 18:07:16 2001] Kedian GMSAYS, '<< zone >>'
+[Sat Nov 17 18:07:22 2001] You say, 'okay - thanks for the much needed help today!'
+[Sat Nov 17 18:07:24 2001] Sivy GMSAYS, 'someone come to me'
+[Sat Nov 17 18:07:24 2001] Sivy GMSAYS, 'this is wacky'
+[Sat Nov 17 18:07:26 2001] You tell your party, 'no, it;s gone'
+[Sat Nov 17 18:07:28 2001] Sivy GMSAYS, 'im passed the zone line in arena'
+[Sat Nov 17 18:07:32 2001] Antarg GMSAYS, 'OMW'
+[Sat Nov 17 18:07:35 2001] Rahaven says, 'I'll be more help next time ;) promise'
+[Sat Nov 17 18:07:39 2001] You tell your party, 'if you delete one by accident, ask the player to repetition'
+[Sat Nov 17 18:07:43 2001] You say, 'okay !'
+[Sat Nov 17 18:07:44 2001] Rahaven hugs Espranza.
+[Sat Nov 17 18:07:48 2001] Rahaven GMSAYS, 'night, friends..'
+[Sat Nov 17 18:07:48 2001] You wave goodbye to Rahaven.
+[Sat Nov 17 18:07:53 2001] You GMSAY, 'night Rahaven!'
+[Sat Nov 17 18:07:55 2001] Rahaven GMSAYS, 'Lag is killing me here'
+[Sat Nov 17 18:07:58 2001] Rahaven has gone Linkdead.
+[Sat Nov 17 18:07:59 2001] Rahaven has left the group.
+[Sat Nov 17 18:08:01 2001] Sivy GMSAYS, 'g'night rah :)'
+[Sat Nov 17 18:08:04 2001] Agaden GMSAYS, 'nite rah'
+[Sat Nov 17 18:08:04 2001] Correllan GMSAYS, 'nite and thank you '
+[Sat Nov 17 18:08:25 2001] Faelinn GMSAYS, 'night rah'
+[Sat Nov 17 18:08:26 2001] You GMSAY, 'zone'
+[Sat Nov 17 18:08:27 2001] Lirus GMSAYS, 'night rahaven'
+[Sat Nov 17 18:08:29 2001] Lirus GMSAYS, 'we missed you'
+[Sat Nov 17 18:08:33 2001] Teleporting to rodetta.
+[Sat Nov 17 18:08:34 2001] LOADING, PLEASE WAIT...
+[Sat Nov 17 18:09:00 2001] You have entered Toxxulia Forest.
+[Sat Nov 17 18:09:00 2001] You have formed the group.
+[Sat Nov 17 18:09:07 2001] Players on EverQuest:
+[Sat Nov 17 18:09:07 2001] ---------------------------
+[Sat Nov 17 18:09:07 2001] [ANONYMOUS] Lilamazon  <Faveo Sulum Ipsemet Ascio>
+[Sat Nov 17 18:09:07 2001] [1 Enchanter] Mytylene (Erudite)
+[Sat Nov 17 18:09:07 2001] * GM * [20 Shadow Knight] Rodetta (Erudite)
+[Sat Nov 17 18:09:07 2001] [ANONYMOUS] Farnight 
+[Sat Nov 17 18:09:07 2001] [4 Necromancer] Ilivina (Erudite)
+[Sat Nov 17 18:09:07 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Nov 17 18:09:07 2001] There are 6 players in Toxxulia Forest.
+[Sat Nov 17 18:09:11 2001] Agaden GMSAYS, 'ohhhh, yeah...we DID miss him!  /em remembers to fix the range finder on his spells'
+[Sat Nov 17 18:09:24 2001] Players in EverQuest:
+[Sat Nov 17 18:09:24 2001] ---------------------------
+[Sat Nov 17 18:09:24 2001] [ANON (54 Heretic)] Lilandraa (Dark Elf) ZONE: skyfire (USER PID GPQ21HY)
+[Sat Nov 17 18:09:24 2001] [ANON (30 Warrior)] Lilamazon (Half Elf) ZONE: tox (USER PID DYWV441)
+[Sat Nov 17 18:09:24 2001] [18 Cleric] Lillaen (High Elf) ZONE: unrest (USER PID CSMAF42)
+[Sat Nov 17 18:09:24 2001] There are 3 players in EverQuest.
+[Sat Nov 17 18:09:36 2001] Antarg tells the guild, 'okay this zone name bug is annoying'
+[Sat Nov 17 18:09:37 2001] You GMSAY, '<note badname> Lilamazon DYWV441 - title'
+[Sat Nov 17 18:09:42 2001] Lirus GMSAYS, 'i figured out why sometimes buffs are lost when zoning at low health'
+[Sat Nov 17 18:09:48 2001] You GMSAY, 'why?'
+[Sat Nov 17 18:09:55 2001] Teleporting to rodetta.
+[Sat Nov 17 18:10:01 2001] You feel the spirit of Norrath enter you.
+[Sat Nov 17 18:10:03 2001] You feel the spirit of Z surround you.
+[Sat Nov 17 18:10:08 2001] You will now auto-follow Rodetta.
+[Sat Nov 17 18:10:08 2001] *WARNING*: Do NOT use around lava, water, cliffs, or other dangerous areas because you WILL fall into them. You have been warned.
+[Sat Nov 17 18:10:08 2001] Also, auto-follow works best in wide open areas with low lag.  Twisty areas, lag, and other factors may cause auto-follow to fail.
+[Sat Nov 17 18:10:10 2001] Antarg tells the guild, 'Lirus'
+[Sat Nov 17 18:10:20 2001] Antarg tells the guild, 'got a tell from Dolcemorte'
+[Sat Nov 17 18:10:20 2001] Espranza is being very sneaky.
+[Sat Nov 17 18:10:24 2001] Faelinn tells the guild, 'me too'
+[Sat Nov 17 18:10:36 2001] You begin to sneak...
+[Sat Nov 17 18:10:36 2001] You have become better at Sneak! (52)
+[Sat Nov 17 18:10:36 2001] You are as quiet as a cat stalking its prey.
+[Sat Nov 17 18:10:46 2001] Rodetta says, 'lol'
+[Sat Nov 17 18:10:47 2001] You boggle at Rodetta, shaking your head and looking confused.
+[Sat Nov 17 18:10:52 2001] Lirus GMSAYS, 'When you zone you are calculated with no buffs and no gear. ie: if you have more hp in gear and buffs than you do normal HP, the game actually thinks you died, and in essence you did, but it does not produce a corpse and you do not lose exp, just your'
+[Sat Nov 17 18:10:58 2001] You tell your party, 'oops! not sneaky enough!'
+[Sat Nov 17 18:10:59 2001] Lirus GMSAYS, 'since technically "you died"'
+[Sat Nov 17 18:11:01 2001] Rodetta says, 'are we allowed to buy a damned compass :)'
+[Sat Nov 17 18:11:07 2001] Lirus tells the guild, 'what does he want?'
+[Sat Nov 17 18:11:09 2001] You say, 'heh... you have money?'
+[Sat Nov 17 18:11:13 2001] Antarg tells the guild, 'quote "In your Personal opinion Do you believe MT ToT should be redone due to the fact that Lirus had a short period of time to go over the rules and was not ready to head the event and that caused meny to misunderstandings?'
+[Sat Nov 17 18:11:14 2001] Rodetta says, 'no :('
+[Sat Nov 17 18:11:17 2001] Agaden GMSAYS, 'I have ready that somewhere before....'
+[Sat Nov 17 18:11:18 2001] You say to your guild, 'he wants to bitch about the TOT3'
+[Sat Nov 17 18:11:26 2001] You are no longer auto-following Rodetta.
+[Sat Nov 17 18:11:27 2001] Lirus tells the guild, 'tell him you have no comment please'
+[Sat Nov 17 18:11:41 2001] Antarg tells the guild, 'my reply... "I fully support Lirus's actions" or no comment?'
+[Sat Nov 17 18:11:48 2001] Agaden tells the guild, 'lol, he is politicing'
+[Sat Nov 17 18:11:55 2001] It begins to rain.
+[Sat Nov 17 18:11:58 2001] Lirus tells the guild, 'just say you cannot comment'
+[Sat Nov 17 18:12:01 2001] a fire beetle has been slain by an Erudin Emissary!
+[Sat Nov 17 18:12:07 2001] Antarg tells the guild, 'done'
+[Sat Nov 17 18:13:31 2001] Agaden tells the guild, 'just a quick guess here...Dolcemorte was on the LOSING team, right?'
+[Sat Nov 17 18:13:52 2001] Faelinn tells the guild, 'ya'
+[Sat Nov 17 18:13:59 2001] You say to your guild, 'I doubt he'd be petitioning if they won :)'
+[Sat Nov 17 18:14:22 2001] Agaden tells the guild, 'I was being sarcastic.....I REALLY need to work on that!'
+[Sat Nov 17 18:15:00 2001] Antarg tells the guild, 'wow, I'm zoning -extremely- fast today'
+[Sat Nov 17 18:15:34 2001] You say to your guild, 'I'm going to log, I have some stuff to do today. Can someone group Rodetta?'
+[Sat Nov 17 18:15:42 2001] Antarg tells the guild, 'sure'
+[Sat Nov 17 18:15:43 2001] Sivy GMSAYS, 'I WILL'
+[Sat Nov 17 18:15:46 2001] Sivy tells the guild, 'I WILL'
+[Sat Nov 17 18:15:48 2001] Sivy GMSAYS, 'dumb pr'
+[Sat Nov 17 18:15:52 2001] You say to your guild, 'heh... well....'
+[Sat Nov 17 18:15:55 2001] Antarg tells the guild, 'go ahead Sivy'
+[Sat Nov 17 18:15:56 2001] Sivy tells the guild, 'I WANT TO EAT THE APPIE!'
+[Sat Nov 17 18:16:00 2001] Sivy tells the guild, 'woot ;)'
+[Sat Nov 17 18:16:08 2001] You tell your party, 'Rodetta, I must go, Sivy will mentor you for awhile'
+[Sat Nov 17 18:16:10 2001] Neptate says out of character, 'ahhh, my beautiful homeland'
+[Sat Nov 17 18:16:11 2001] Agaden GMSAYS, 'I pulled the dolce morte pet'
+[Sat Nov 17 18:16:16 2001] Rodetta tells the group, 'no problem.'
+[Sat Nov 17 18:16:22 2001] Correllan GMSAYS, 'okay beat me too it..lol'
+[Sat Nov 17 18:16:23 2001] Sivy GMSAYS, '<Insert clever zone message here> ZONE!'
+[Sat Nov 17 18:16:25 2001] Rodetta tells the group, 'thank you foreverything. i will see you next time.'
+[Sat Nov 17 18:16:26 2001] Agaden GMSAYS, 'get ready for teh esc Lirus'
+[Sat Nov 17 18:16:27 2001] You tell your party, 'nice to meet you and hope to be seeing a lot of you in the next few weeks!'
+[Sat Nov 17 18:16:34 2001] Neptate says out of character, 'hrmmm, more populated then usual though'
+[Sat Nov 17 18:16:36 2001] Players on EverQuest:
+[Sat Nov 17 18:16:36 2001] ---------------------------
+[Sat Nov 17 18:16:36 2001] [ANONYMOUS] Kanae  <Legacy of the Nameless>
+[Sat Nov 17 18:16:36 2001] [9 Ranger] Furyrayne (Wood Elf)
+[Sat Nov 17 18:16:36 2001] [35 Druid] Treessa (Wood Elf)
+[Sat Nov 17 18:16:36 2001] [22 Druid] Narus (Halfling) <Legacy of the Nameless>
+[Sat Nov 17 18:16:36 2001] [ANONYMOUS] Menfer  <Legions of the Gods>
+[Sat Nov 17 18:16:36 2001] [48 Monk] Drrako (Iksar) <Lunacy>
+[Sat Nov 17 18:16:36 2001] [30 Wizard] Neptate (Erudite)
+[Sat Nov 17 18:16:36 2001] [29 Enchanter] Eternia (High Elf) <Revered Souls>
+[Sat Nov 17 18:16:36 2001] [30 Druid] Sdaen (Wood Elf) <Revered Souls>
+[Sat Nov 17 18:16:36 2001] [1 Enchanter] Mytylene (Erudite)
+[Sat Nov 17 18:16:36 2001] [4 Necromancer] Ilivina (Erudite)
+[Sat Nov 17 18:16:36 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Nov 17 18:16:36 2001] There are 12 players in Toxxulia Forest.
+[Sat Nov 17 18:16:37 2001] Rodetta tells the group, 'hehe, you certainly will :)'
+[Sat Nov 17 18:16:41 2001] You tell your party, 'night!'
+[Sat Nov 17 18:16:42 2001] You disband your party.
+[Sat Nov 17 18:16:42 2001] Your group has been disbanded.
+[Sat Nov 17 18:16:44 2001] You GMSAY, 'zone'
+[Sat Nov 17 18:16:45 2001] Furyrayne says out of character, 'plz may i get a bind at the ent to erdrn'
+[Sat Nov 17 18:16:48 2001] You stop sneaking.
+[Sat Nov 17 18:16:48 2001] You begin casting Sunset Home. (Sunset Home)
+[Sat Nov 17 18:16:48 2001] Your Belt of Translocation begins to glow.
+[Sat Nov 17 18:16:49 2001] LOADING, PLEASE WAIT...
+[Sat Nov 17 18:17:09 2001] You have entered Sunset Home.
+[Sat Nov 17 18:17:13 2001] It begins to rain.
+[Sat Nov 17 18:17:28 2001] You GMSAY, 'night all!'
+[Sat Nov 17 18:17:31 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Nov 17 18:17:34 2001] Agaden GMSAYS, 'nite Esp!'
+[Sat Nov 17 18:17:35 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Nov 17 18:17:40 2001] Sivy GMSAYS, 'Good night esp :)'
+[Sat Nov 17 18:17:40 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Nov 17 18:17:41 2001] Faelinn GMSAYS, 'night Dragoon Espranza'
+[Sat Nov 17 18:17:41 2001] Rodetta GMSAYS, 'pulling denak'
+[Sat Nov 17 18:17:45 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Nov 17 18:17:49 2001] You GMSAY, ':)'
+[Sat Nov 17 18:17:50 2001] It will take about 10 more seconds to prepare your camp.
+[Sat Nov 17 18:17:51 2001] Correllan GMSAYS, 'nite espa nd thanks for your wisdom tonight'
+[Sat Nov 17 18:17:55 2001] It will take about 5 more seconds to prepare your camp.
+[Sat Nov 17 18:17:56 2001] Agaden GMSAYS, 'Lirus, you still here?'
+[Sat Nov 17 18:17:58 2001] You GMSAY, 'see you all again soon'

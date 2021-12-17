@@ -1,0 +1,461 @@
+[Fri Oct 12 09:08:27 2001] Welcome to EverQuest!
+[Fri Oct 12 09:08:27 2001] You have entered Sunset Home.
+[Fri Oct 12 09:08:37 2001] Oraden GMSAYS, 'Greets all, Guide Oraden reporting from the Ghost-realm'
+[Fri Oct 12 09:08:42 2001] You GMSAY, 'hiya!'
+[Fri Oct 12 09:08:45 2001] Logging to 'eqlog.txt' is now *ON*.
+[Fri Oct 12 09:08:46 2001] Players in EverQuest:
+[Fri Oct 12 09:08:46 2001] ---------------------------
+[Fri Oct 12 09:08:46 2001] * Guide *[50 Ranger] Aelorian (Half Elf) ZONE: soldungb (USER PID GUUW6YG)
+[Fri Oct 12 09:08:46 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: cshome (USER PID HUUXAGY)
+[Fri Oct 12 09:08:46 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Fri Oct 12 09:08:46 2001] There are 3 players in EverQuest.
+[Fri Oct 12 09:08:51 2001] Aelorian GMSAYS, 'hi '
+[Fri Oct 12 09:08:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Oct 12 09:08:57 2001] USER TEXT: Hello, I just died in sebilis while server crashed and so did my whole group... i could use a rez please.
+[Fri Oct 12 09:08:58 2001] Players in EverQuest:
+[Fri Oct 12 09:08:58 2001] ---------------------------
+[Fri Oct 12 09:08:58 2001] [52 Illusionist] Senarye (Dark Elf) <Pandore> ZONE: dreadlands (USER PID BNQPMCC)
+[Fri Oct 12 09:08:58 2001] There is 1 player in EverQuest.
+[Fri Oct 12 09:09:04 2001] You GMSAY, 'did the server crash?'
+[Fri Oct 12 09:09:08 2001] Aelorian GMSAYS, 'did we get authorisation?'
+[Fri Oct 12 09:09:19 2001] Oraden GMSAYS, 'ok, full story, yes some zones were reset, no resurrections are not authorized, it was an EXTERNAL fault that caused the drops.'
+[Fri Oct 12 09:09:50 2001] You GMSAY, 'oh good, I get to be Ms. Popularity again.'
+[Fri Oct 12 09:09:51 2001] Oraden GMSAYS, 'reading between the lines.... they exploited and crashed mischiefplane and cause other zones to hiccup'
+[Fri Oct 12 09:10:02 2001] The spirit leaves you.
+[Fri Oct 12 09:10:08 2001] You feel the spirit of Norrath enter you.
+[Fri Oct 12 09:10:41 2001] Aelorian GMSAYS, 'summoned corpse out of Geometry'
+[Fri Oct 12 09:10:45 2001] Oraden GMSAYS, 'aye, I was nearly SURE that with the results from /server it would be rez authorized. =( but, as I said reading between the lines it sounds like an exploit gone wrong.'
+[Fri Oct 12 09:11:36 2001] Aelorian GMSAYS, 'bah...  so now we get to tell people all over ...that we can't ress  :('
+[Fri Oct 12 09:13:15 2001] You told Senarye, 'Hail, Senarye! Guide Espranza here. We asked the GM and they said rezzes were not authorized... we expected a different answer but our hands are tied. I'm sorry.'
+[Fri Oct 12 09:13:20 2001] DELETING THIS PETITION
+[Fri Oct 12 09:13:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Oct 12 09:13:23 2001] USER TEXT: i died with almost my whole group in Sebilis and we failed the CR because the rescue team went LD and our monk who survived went LD too while doing it and died too...please help us
+[Fri Oct 12 09:13:23 2001] Players in EverQuest:
+[Fri Oct 12 09:13:24 2001] ---------------------------
+[Fri Oct 12 09:13:24 2001] [52 Pathfinder] Isaaceastwood (Wood Elf) <Compagnons de l`Aube> ZONE: greatdivide (USER PID CSUZ8LV)
+[Fri Oct 12 09:13:24 2001] There is 1 player in EverQuest.
+[Fri Oct 12 09:13:53 2001] Senarye tells you, 'May i know why rez are not authorized when you know sebilis crashed if not the whole server?'
+[Fri Oct 12 09:14:13 2001] You told Senarye, 'Apparently some players deliberately crashed it.'
+[Fri Oct 12 09:14:53 2001] Senarye tells you, '/sigh'
+[Fri Oct 12 09:16:00 2001] Aelorian GMSAYS, 'del claorn  very understanding about us can't do anything ... <-- like this guy'
+[Fri Oct 12 09:16:31 2001] You told Isaaceastwood, 'Hail, Isaaceastwood! Guide Espranza here. We asked the GM, and they said that rezzes were not authorized. We didn't expect that answer, but apparently some players deliberately crashed the zone. I'm sorry.'
+[Fri Oct 12 09:17:03 2001] Isaaceastwood tells you, 'how could anyone crashed deliberately a zone? i don't understand'
+[Fri Oct 12 09:18:31 2001] You told Isaaceastwood, 'There are ways, but they didn't tell us how, only that it was deliberately caused and that we cannot rez for it.'
+[Fri Oct 12 09:18:35 2001] DELETING THIS PETITION
+[Fri Oct 12 09:18:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Oct 12 09:18:38 2001] USER TEXT: i die durring massive linkdead i was running in trakanon teeth without aggroing any mobs my target baox was empty , don't think it's due to a normal game session.
+[Fri Oct 12 09:18:38 2001] Players in EverQuest:
+[Fri Oct 12 09:18:38 2001] ---------------------------
+[Fri Oct 12 09:18:38 2001] [ANON (54 Illusionist)] Mandranir (High Elf) ZONE: commons (USER PID AWSNK7R)
+[Fri Oct 12 09:18:38 2001] There is 1 player in EverQuest.
+[Fri Oct 12 09:18:40 2001] Oraden GMSAYS, 'Ghosting from one ZONE to the next  ...'
+[Fri Oct 12 09:18:48 2001] Oraden GMSAYS, 'ignore that, wrong hotkey'
+[Fri Oct 12 09:18:56 2001] You GMSAY, 'no, now you must zone.'
+[Fri Oct 12 09:18:57 2001] Espranza saved.
+[Fri Oct 12 09:18:59 2001] Players in EverQuest:
+[Fri Oct 12 09:19:00 2001] ---------------------------
+[Fri Oct 12 09:19:00 2001] * Guide *[50 Ranger] Aelorian (Half Elf) ZONE: lavastorm (USER PID GUUW6YG)
+[Fri Oct 12 09:19:00 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: cshome (USER PID HUUXAGY)
+[Fri Oct 12 09:19:00 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Fri Oct 12 09:19:00 2001] There are 3 players in EverQuest.
+[Fri Oct 12 09:19:00 2001] Aelorian GMSAYS, 'hehe'
+[Fri Oct 12 09:19:41 2001] You GMSAY, '<note all> Server hiccough caused widespread link death in certain zones, rezzes were ***not*** authorized.'
+[Fri Oct 12 09:19:43 2001] Isaaceastwood tells you, 'i cant believe that...it was not only Sebilis that crashed...when i went back online i saw that many members of my guild went LD too and they weren't in Sebilis'
+[Fri Oct 12 09:21:11 2001] You told Isaaceastwood, 'I am just telling you what the GMs told us. I don't know exactly what happened and we certainly would like to rez those affected, but the GMs say it was deliberately caused so there is little we can do.'
+[Fri Oct 12 09:21:43 2001] Aelorian GMSAYS, 'which is odd since we have LDs from all over...thought that would at least be grounds for CSress '
+[Fri Oct 12 09:22:22 2001] Oraden GMSAYS, 'most likely one major hub router got flooded, or had the power kicked off for a second... =('
+[Fri Oct 12 09:22:51 2001] You GMSAY, 'yeah, having funn explaining how it was widespread LD but we can't rez for it. The trouble is because I don't understand myself.'
+[Fri Oct 12 09:22:52 2001] Isaaceastwood tells you, 'great...and we pay fort that kind of service? ('
+[Fri Oct 12 09:22:58 2001] USER TEXT: i die durring massive linkdead i was running in trakanon teeth without aggroing any mobs my target baox was empty , don't think it's due to a normal game session.
+[Fri Oct 12 09:23:28 2001] Aelorian GMSAYS, 'nods '
+[Fri Oct 12 09:23:29 2001] You told Isaaceastwood, 'Nothing would give me more joy than being able to rez those affected. I'm sorry...'
+[Fri Oct 12 09:23:52 2001] Isaaceastwood tells you, 'yes i know that you cant do anything...that is not against you that i am angry ('
+[Fri Oct 12 09:24:03 2001] Aelorian GMSAYS, 'just got a hostile one....he's blowing off steam...can't say I blame him .... deleted anyway...'
+[Fri Oct 12 09:24:21 2001] Oraden GMSAYS, 'there are internet "hubs" where most traffic goes thru... say for instance all traffic to japan has to go thru the hubs around the landline to japan, some one kicks a power cord and for 5-10 seconds no traffic to/from japan ;)'
+[Fri Oct 12 09:24:38 2001] You GMSAY, 'wouldn't we rez for that?'
+[Fri Oct 12 09:24:58 2001] You GMSAY, 'I mean... it doesn't cost them anything...'
+[Fri Oct 12 09:25:54 2001] Aelorian GMSAYS, 'del tinvarine'
+[Fri Oct 12 09:25:57 2001] Oraden GMSAYS, 'If it were my company I might if I could prove a major outage, but it's their policy not to. *shrug*'
+[Fri Oct 12 09:26:15 2001] You told Mandranir, 'Hail, Mandranir! Guide Espranza here. Although many people went LD, the GMs say that it was not due to any kind of problem at Verant, and therefore we do not have authorization to rez for it. I'm sorry.'
+[Fri Oct 12 09:26:29 2001] Aelorian GMSAYS, 'nods...but it opens the door for ress abuse'
+[Fri Oct 12 09:26:50 2001] Aelorian GMSAYS, 'how do you disprove that it wasn't  the game'
+[Fri Oct 12 09:26:54 2001] You GMSAY, 'I'd rather have rez be abused occasionally so blameless people would not suffer.'
+[Fri Oct 12 09:27:02 2001] Aelorian GMSAYS, 'nods ...I know...'
+[Fri Oct 12 09:27:22 2001] Mandranir tells you, 'where can i have a printable version of the GM ruling for rez ?'
+[Fri Oct 12 09:27:22 2001] Oraden GMSAYS, 'aye, to my mind the exp penalty is silly.... but they didnt' ask my opinion ;)'
+[Fri Oct 12 09:27:24 2001] Aelorian GMSAYS, 'but /shrugs ...this one goes on my report as /bonehead decision'
+[Fri Oct 12 09:28:17 2001] You told Mandranir, 'A printable version? It was told to one of our guides by a GM in chat. You could camp to chat and ask them, but as far as I know it doesn't exist in printable form anywhere.'
+[Fri Oct 12 09:28:51 2001] You GMSAY, 'I don't mind the exp penalty. every game has that or something similar and for good reason.'
+[Fri Oct 12 09:28:54 2001] Aelorian GMSAYS, '<note> bonehead decision apprx 9am Severs had hiccups which caused server wide LDs and deaths. Oddly CSress was not authorised'
+[Fri Oct 12 09:28:59 2001] Aelorian GMSAYS, ':)'
+[Fri Oct 12 09:29:00 2001] Mandranir tells you, 'so there is no real rulling for rez roblem ?'
+[Fri Oct 12 09:29:05 2001] Oraden tells the guild, 'hehe'
+[Fri Oct 12 09:29:10 2001] Aelorian GMSAYS, 'not in EQ though'
+[Fri Oct 12 09:29:15 2001] Mandranir tells you, 'so there is no real rulling for rez problem ?'
+[Fri Oct 12 09:29:33 2001] Espranza saved.
+[Fri Oct 12 09:29:46 2001] You told Mandranir, 'there is, but it was not posted publicly.'
+[Fri Oct 12 09:29:54 2001] You told Mandranir, 'as far as I know, anyway.'
+[Fri Oct 12 09:29:59 2001] Aelorian GMSAYS, 'the original "xp penalty" was for classes like the ranger because they were SUPPOSED to be 100arrior + 100 25846340ruid'
+[Fri Oct 12 09:30:11 2001] Aelorian GMSAYS, 'but that was too much...so they "toned" it down'
+[Fri Oct 12 09:30:17 2001] Oraden GMSAYS, 'I meant the exp penalty for death'
+[Fri Oct 12 09:30:22 2001] You GMSAY, 'oh, thought uyou were talking about the death penalty.'
+[Fri Oct 12 09:30:28 2001] You GMSAY, 'the hybrid thing was silly.'
+[Fri Oct 12 09:30:32 2001] Aelorian GMSAYS, 'nods...death penalty also '
+[Fri Oct 12 09:30:38 2001] Mandranir tells you, 'so custumers can't know if they r in their right when petitioning ?'
+[Fri Oct 12 09:31:09 2001] You told Mandranir, 'It's our job to find out, so when it happened, we asked, and that is what they told us.'
+[Fri Oct 12 09:31:31 2001] Oraden GMSAYS, 'aye, the hybrid penalty was kinda odd... I agree in some respects.... but when halfling druids took 90 percent and wood elf rangers took 140 percent .... it just made no sense ;)'
+[Fri Oct 12 09:31:40 2001] You GMSAY, 'All three MMORPGs I've played have some sort of death penalty; Camelot, Kingdom of the Winds and EQ.'
+[Fri Oct 12 09:32:07 2001] Aelorian GMSAYS, 'as i said...the "original" xp penalty was from Beta 1...'
+[Fri Oct 12 09:32:20 2001] DELETING THIS PETITION
+[Fri Oct 12 09:32:40 2001] You GMSAY, 'well, Ms. Popularity is finished with her pets...'
+[Fri Oct 12 09:32:41 2001] Mandranir tells you, 'so when lots of people came ld  in all norrath at the same time it's not due to verant ? there was like 5 people in TT can't tell me  it's due to the players.'
+[Fri Oct 12 09:33:03 2001] Oraden tells the guild, 'aye, but I have always thought penalizing death was silly.... you DIED.... now you have to SUFFER ?? it's not like you die and appear in the same spot, full health, full equip, spells memmed..... death is a pain in the tush to start with.... losing exp is'
+[Fri Oct 12 09:33:16 2001] Aelorian GMSAYS, 'back when the original hybrids were really 150the power over "pure" classes'
+[Fri Oct 12 09:33:23 2001] Oraden tells the guild, 'idiotic.... you LEARN when you die.... "don't do THAT again" ....'
+[Fri Oct 12 09:33:37 2001] Aelorian GMSAYS, 'SKs were necros with big swords and armor...'
+[Fri Oct 12 09:33:40 2001] You told Mandranir, 'Verant said it was not their fault (I don't work for them, so I must rely on what they tell me), and therefore they won't authorize rezzes.'
+[Fri Oct 12 09:33:59 2001] Aelorian GMSAYS, 'and rangers had LOTS of dots + warrior abilities '
+[Fri Oct 12 09:34:31 2001] You say to your guild, 'aye, but I have to point out that at the levels where it really huurts, you get 56 3.077886e-301xp rezzes most of the time. Camelot's penalty, while seemingly less severe, is not.'
+[Fri Oct 12 09:34:55 2001] Mandranir tells you, 'and do they authorize summon corpse because when i die without ahaving aggroed any mobs i think it's not my fault. '
+[Fri Oct 12 09:35:19 2001] Oraden tells the guild, 'aye, i hear it's 5minimum... and 10 25846340f you don't pretty much IMMEDIATELY get a rez.... and clerics CANNOT rez themselves... ouch.'
+[Fri Oct 12 09:35:38 2001] Oraden tells the guild, 'but on the other hand... you can level backwards =)'
+[Fri Oct 12 09:35:48 2001] You told Mandranir, 'There is nothing we can do. If you would like to speak to Verant about this directly, you may write them at eqcs@soe.sony.com.'
+[Fri Oct 12 09:35:48 2001] Aelorian GMSAYS, 'that's when the rangers were called a "god" class..  of course Brad being one didn't help :)'
+[Fri Oct 12 09:35:49 2001] Oraden tells the guild, 'err... cant level backwards'
+[Fri Oct 12 09:36:21 2001] Aelorian GMSAYS, 'then in beta 2, they "nerfed" rangers and other hybrids...but still kept the xp penalty'
+[Fri Oct 12 09:36:24 2001] You say to your guild, 'right... also... what would happen if in EQ it cost you 100pp every time you died and didn't get rezzed?'
+[Fri Oct 12 09:36:37 2001] You say to your guild, 'and you only had five minutes to get rezzed?'
+[Fri Oct 12 09:36:39 2001] Aelorian GMSAYS, 'hybrids were still deemed "too powerful"'
+[Fri Oct 12 09:36:51 2001] Aelorian GMSAYS, 'and when it went live.... :) '
+[Fri Oct 12 09:36:57 2001] Oraden tells the guild, 'well.... no one would survive to be level 50 .... everyone would die of con loss by level 10 ;)'
+[Fri Oct 12 09:37:02 2001] Aelorian GMSAYS, 'the rest is history '
+[Fri Oct 12 09:37:09 2001] Mandranir tells you, 'ok thanks for answering a bored customer. have a nice day.'
+[Fri Oct 12 09:37:13 2001] You say to your guild, 'this is the case in Camelot. EQ's penalty is light.'
+[Fri Oct 12 09:37:24 2001] You told Mandranir, 'be well, and again, I apologize.'
+[Fri Oct 12 09:37:46 2001] Mandranir tells you, 'not ur fault just a stupid rule'
+[Fri Oct 12 09:37:47 2001] Oraden tells the guild, 'to my mind camelot is too harsh (it's intended as a PvP environment) ...'
+[Fri Oct 12 09:37:47 2001] Aelorian GMSAYS, 'Gathers his will and strides through the planes. *Zone*'
+[Fri Oct 12 09:37:52 2001] You say to your guild, 'the cost is scaled to be painful at whatever your level.'
+[Fri Oct 12 09:38:06 2001] You say to your guild, 'PvP deaths don't accrue any penalty.'
+[Fri Oct 12 09:38:19 2001] Aelorian stares dreamily at Espranza, completely lost in her eyes.
+[Fri Oct 12 09:38:30 2001] Oraden tells the guild, 'but EQ would be about right.... if they didn't have exp loss.... corpse recovery is a MAJOR pain.... even with revive it would still be a huge pain'
+[Fri Oct 12 09:38:40 2001] Aelorian cries over Espranza.
+[Fri Oct 12 09:38:43 2001] Aelorian pleads with Espranza desperately.
+[Fri Oct 12 09:38:53 2001] It begins to rain.
+[Fri Oct 12 09:38:59 2001] Aelorian groans at the sight of Espranza.
+[Fri Oct 12 09:39:04 2001] Aelorian grovels before Espranza.
+[Fri Oct 12 09:39:22 2001] You GMSAY, 'Syloc is no longer a guide...'
+[Fri Oct 12 09:39:31 2001] You say, 'Hiya!'
+[Fri Oct 12 09:39:33 2001] Aelorian GMSAYS, '?'
+[Fri Oct 12 09:39:46 2001] Oraden tells the guild, 'but I do really like how they handle coins.... all the cash drops as copper, gets autosplit amoung those WANTING a split... and the coins automagically "coin up" in your pouch.... no more dumping tons of copper while hunting HGs in Rath Mtns ;)'
+[Fri Oct 12 09:39:52 2001] Aelorian GMSAYS, 'what do you mean...discharged?'
+[Fri Oct 12 09:39:52 2001] You GMSAY, 'doing the weekly hours and just noticed Syloc was no longer in the MT contacts'
+[Fri Oct 12 09:39:56 2001] Oraden GMSAYS, '?????'
+[Fri Oct 12 09:40:09 2001] Espranza saved.
+[Fri Oct 12 09:40:18 2001] You say to your guild, 'on the other hand, you can't make change :) I've been playing Camelot for months now.'
+[Fri Oct 12 09:40:29 2001] You GMSAY, 'Dunno... but he's not on the list.'
+[Fri Oct 12 09:40:55 2001] Oraden tells the guild, 'yikes'
+[Fri Oct 12 09:41:52 2001] Aelorian wags his tail like a puppy dog.
+[Fri Oct 12 09:42:02 2001] Oraden tells the guild, 'hehe, i finally broke down and printed out the GM roster, and the SWAT roster.... and the program contacts lists....'
+[Fri Oct 12 09:42:10 2001] Ugloc Drinkbringa says 'Greetings Aelorian you look like you could use a Leggings of the Wanderer'
+[Fri Oct 12 09:42:43 2001] Aelorian invites you to join a group.
+[Fri Oct 12 09:42:43 2001] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Fri Oct 12 09:42:48 2001] You say to your guild, 'contacts will be changing what with the new candies coming in'
+[Fri Oct 12 09:42:49 2001] You notify Aelorian that you agree to join the group.
+[Fri Oct 12 09:42:49 2001] You have joined the group.
+[Fri Oct 12 09:42:54 2001] Aelorian GMSAYS, 'Gathers his will and strides through the planes. *Zone*'
+[Fri Oct 12 09:42:57 2001] You tell your party, 'Hiya!'
+[Fri Oct 12 09:43:14 2001] Oraden has joined the group.
+[Fri Oct 12 09:43:29 2001] Aelorian tells the group, 'hmnnss where do you get velius armor '
+[Fri Oct 12 09:43:48 2001] Aelorian tells the group, 'ohh..wait...that I think I have'
+[Fri Oct 12 09:43:58 2001] Oraden tells the group, 'aye, but I mainly just wanted the "permanent" lists .... and I need to update and organize my ICQ again ;)'
+[Fri Oct 12 09:44:11 2001] Oraden tells the group, 'velious armor is on patchious'
+[Fri Oct 12 09:44:27 2001] You tell your party, 'we don't get velious plate, but velious chain is there... no velious leather afaik, except for netted.'
+[Fri Oct 12 09:44:35 2001] Oraden tells the group, 'this is the gold chainmail ... i am not sure if I switch outfits this week or not ;)'
+[Fri Oct 12 09:45:00 2001] Aelorian tells the group, 'nopes... velius chain for us is brown :)'
+[Fri Oct 12 09:45:05 2001] Aelorian tells the group, 'manboobs!'
+[Fri Oct 12 09:45:37 2001] Aelorian GMSAYS, 'del falgur'
+[Fri Oct 12 09:46:08 2001] The spirit leaves you.
+[Fri Oct 12 09:47:48 2001] Oraden tells the group, 'aye, time for a new look... black chain or green chain?'
+[Fri Oct 12 09:48:11 2001] You tell your party, 'black...!'
+[Fri Oct 12 09:48:18 2001] You nod at Oraden.
+[Fri Oct 12 09:48:21 2001] You feel the spirit of Norrath enter you.
+[Fri Oct 12 09:48:52 2001] You tell your party, 'or go around unclothed save for your appie stick'
+[Fri Oct 12 09:48:59 2001] You tell your party, 'confuse people'
+[Fri Oct 12 09:49:36 2001] Oraden tells the group, 'thought about that, just having the minimum equipment on me, most of it in inventory slots rather than equiped ;)'
+[Fri Oct 12 09:49:40 2001] Aelorian tells the group, 'hheeh'
+[Fri Oct 12 09:49:47 2001] Aelorian GMSAYS, 'Gathers his will and strides through the planes. *Zone*'
+[Fri Oct 12 09:50:02 2001] Quartermaster says 'Welcome to my shop Oraden, you would probably find a Words of Ceremony handy'
+[Fri Oct 12 09:50:14 2001] Gailen Sterrelar says 'Hi there Oraden, just browsing?  Have you seen the Fired Breastplate of Honor I just got in?'
+[Fri Oct 12 09:50:21 2001] Al`eik K`vorr says 'Hi there Oraden, just browsing?  Have you seen the Twisted Boots of Despair I just got in?'
+[Fri Oct 12 09:50:44 2001] Espranza saved.
+[Fri Oct 12 09:51:14 2001] Aelorian tells the group, 'hmnss I wanted  "Farts and is Propelled by Gaz Powah!"  but I think that would not looked too good in PR :)'
+[Fri Oct 12 09:51:25 2001] Oraden tells the group, 'hmm... no black chain.... where black chain SHOULD be is the stuff that looks like gold platemail (which I like the best so far, but I want to give each set a good trial before I make up my mind.'
+[Fri Oct 12 09:51:40 2001] Salorin Gladerunner says 'Welcome to my shop Oraden, you would probably find a Verdant Chain Sleeves handy'
+[Fri Oct 12 09:52:07 2001] Aelorian tells the group, 'you mean onyx graphics?'
+[Fri Oct 12 09:52:35 2001] Aelorian tells the group, 'I'd KILL to get onyx armor :)'
+[Fri Oct 12 09:53:35 2001] You tell your party, 'what does it look like?'
+[Fri Oct 12 09:53:41 2001] You tell your party, 'I don't think I have ever seen it.'
+[Fri Oct 12 09:54:22 2001] Aelorian tells the group, 'Velious black chain...but with VERY nice highlights... its black and silver with red piping '
+[Fri Oct 12 09:55:23 2001] Al`eik K`vorr says 'Hello there Oraden, how about a nice Boots of Tranquility?'
+[Fri Oct 12 09:55:26 2001] You tell your party, 'mmmm'
+[Fri Oct 12 09:55:39 2001] Aelorian tells the group, 'its a NToV drop :)'
+[Fri Oct 12 09:55:47 2001] You tell your party, 'wish Allakhazam still kept the fashion page up to date'
+[Fri Oct 12 09:55:47 2001] Aelorian tells the group, 'ranger wearable :)'
+[Fri Oct 12 09:55:54 2001] You tell your party, 'you have some?'
+[Fri Oct 12 09:55:59 2001] Aelorian tells the group, 'no ('
+[Fri Oct 12 09:56:05 2001] Aelorian tells the group, 'not yet '
+[Fri Oct 12 09:56:08 2001] You tell your party, 'heh'
+[Fri Oct 12 09:56:29 2001] Aelorian tells the group, 'so far only MS / Magister doing NTov'
+[Fri Oct 12 09:56:45 2001] Aelorian tells the group, 'the rest of us need to get to sleepers to equip before we hit it'
+[Fri Oct 12 09:57:36 2001] You tell your party, 'hmm.... hey you guys just got a friend of mine, Hormer...'
+[Fri Oct 12 09:57:46 2001] Aelorian tells the group, 'heh'
+[Fri Oct 12 09:57:52 2001] Oraden tells the group, '*shudder* I am not in that LEAGUE.... to me Sebilis or CoM or the outskirts of Kael would be scary, CS and SG are maybe's .... think I need to spend some time on Seafuries go get to about level 54 before I go for the hard spots ;)'
+[Fri Oct 12 09:57:54 2001] Aelorian tells the group, 'what he done this time?'
+[Fri Oct 12 09:57:58 2001] You tell your party, 'there goes out level 60 warrior, now we have to make another one.'
+[Fri Oct 12 09:58:33 2001] Aelorian tells the group, 'hehe well trust me Ora... at least you are pre 55..'
+[Fri Oct 12 09:58:47 2001] Aelorian tells the group, 'that means you WILL get your 220 def the "easy" wa'
+[Fri Oct 12 09:58:49 2001] Aelorian tells the group, 'that means you WILL get your 220 def the "easy" way'
+[Fri Oct 12 09:58:56 2001] Pickk tells you, 'is it ok to pick the guildmasters pockets from ontop of the roof for my epic?'
+[Fri Oct 12 09:58:59 2001] You tell your party, 'as opposed to being whacked?'
+[Fri Oct 12 09:59:04 2001] Oraden tells the group, 'aye, my biggest is 51 enc, next is a lowly 26 druid'
+[Fri Oct 12 09:59:18 2001] You told Pickk, 'can he attack you if aggroed?'
+[Fri Oct 12 09:59:18 2001] Aelorian tells the group, 'at the moment ...I have to let the dorfs in EW sodomise me for hours on end :)'
+[Fri Oct 12 09:59:31 2001] Pickk tells you, 'yeah but you get a good head start'
+[Fri Oct 12 09:59:36 2001] Aelorian tells the group, 'well....being whack is good...'
+[Fri Oct 12 09:59:48 2001] Aelorian tells the group, 'but being whacked AND get xp....that's better'
+[Fri Oct 12 09:59:49 2001] Your target is out of range, get closer!
+[Fri Oct 12 10:00:01 2001] You told Pickk, 'I would have to say that sounds like an exploit.'
+[Fri Oct 12 10:00:12 2001] Pickk tells you, 'ok fair enough'
+[Fri Oct 12 10:00:28 2001] You told Pickk, 'just have SOW on and a clear path to the zone :)'
+[Fri Oct 12 10:00:35 2001] Pickk tells you, 'haha. Im not even using sow'
+[Fri Oct 12 10:00:42 2001] Oraden tells the group, 'nay, enc, my combat skills are maxxed.... my things now are getting to level 54 for C2 and some better crowd control spells, and trying to find a guild big enough to help me finish my epic... about 37 25846340one, but my guild is pretty much never going to be '
+[Fri Oct 12 10:00:51 2001] Oraden tells the group, 'one where you can get help on epic quests'
+[Fri Oct 12 10:01:10 2001] Aelorian tells the group, 'nods ..'
+[Fri Oct 12 10:01:12 2001] You tell your party, 'epics are the death of too many smaller guilds.'
+[Fri Oct 12 10:01:19 2001] Aelorian tells the group, 'you Fear capable?'
+[Fri Oct 12 10:01:20 2001] Espranza saved.
+[Fri Oct 12 10:01:24 2001] You tell your party, 'I like in Camelot you can mostly solo your epic.'
+[Fri Oct 12 10:01:43 2001] Oraden tells the group, 'think I am going to have to join an uber and be a faceless mass.... the family style guild was great... but when the best members quit EQ or the guild.... time to move on.... been putting it off for a month or two...'
+[Fri Oct 12 10:02:18 2001] You tell your party, 'it happened to my guild, we had to change from being a friendly guild to being at least a semi-raiding guild to do our epics.'
+[Fri Oct 12 10:02:36 2001] You tell your party, 'as it is, we are closely allied with a similar guild in order to accomplish these things.'
+[Fri Oct 12 10:02:52 2001] Oraden tells the group, 'been to fear once.... was a nice 6 hour corpse recovery then another guild raid started just as we finally got some help getting the plane cracked.... *shudder* on the bright side I have insidious robe, pants, gloves, sleeves.... just need the halo, but'
+[Fri Oct 12 10:03:09 2001] Oraden tells the group, 'will probably have to get slippers and 2 bracers to get "last piece rule" on the halo ;)'
+[Fri Oct 12 10:03:15 2001] You tell your party, 'sounds like you spend a lot of time in Hate'
+[Fri Oct 12 10:03:48 2001] Oraden tells the group, 'went every day or twice a day for almost a month.... and steadily lost exp and cash.... '
+[Fri Oct 12 10:04:13 2001] Abbadabba GMSAYS, 'Abbadabba Doo ! ! ! has arrived..'
+[Fri Oct 12 10:04:17 2001] Players in EverQuest:
+[Fri Oct 12 10:04:17 2001] ---------------------------
+[Fri Oct 12 10:04:17 2001] * Apprentice Guide *[20 Warrior] Abbadabba (Gnome) ZONE: dreadlands (USER PID AV59QRF)
+[Fri Oct 12 10:04:17 2001] * Guide *[50 Ranger] Aelorian (Half Elf) ZONE: eastkarana (USER PID GUUW6YG)
+[Fri Oct 12 10:04:17 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: cshome (USER PID HUUXAGY)
+[Fri Oct 12 10:04:17 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Fri Oct 12 10:04:17 2001] There are 4 players in EverQuest.
+[Fri Oct 12 10:04:20 2001] Abbadabba GMSAYS, 'Heya Guys ! ! '
+[Fri Oct 12 10:04:32 2001] Aelorian GMSAYS, 'Gathers his will and strides through the planes. *Zone*'
+[Fri Oct 12 10:04:34 2001] You GMSAY, 'sheesh, STILL an apprentice! When are they gonna give you your account?'
+[Fri Oct 12 10:04:41 2001] Oraden tells the group, 'the rule seems to be "cleric get all jewelry, clerics get all gems till they all get one, and clerics all need 5-10 peridot from everyone" ... not to mention paying for one or two shares in a gate stone.'
+[Fri Oct 12 10:04:55 2001] Abbadabba GMSAYS, 'I dont know lol but i sure wish i WASENT an appie ! !! '
+[Fri Oct 12 10:05:27 2001] Abbadabba GMSAYS, 'i check my Email every like 10 minutes in HOPE that it will be there and everytime i get Shut down lol'
+[Fri Oct 12 10:05:31 2001] Abbadabba has joined the group.
+[Fri Oct 12 10:05:40 2001] Oraden GMSAYS, 'bah, enjoy it while it lasts.... there are times I wish I could just handle greenies and not have to do investigations and check bugged corpses ;)'
+[Fri Oct 12 10:05:47 2001] You tell your party, 'that is not how we do it. People pay a fee up front and we pay clerics and wizards and necros from it.'
+[Fri Oct 12 10:05:56 2001] You tell your party, 'all gems and cash loots are randomed.'
+[Fri Oct 12 10:06:04 2001] Pickk tells you, 'roselien aren't you in Luncay?'
+[Fri Oct 12 10:06:06 2001] You tell your party, 'hiya Abba!'
+[Fri Oct 12 10:06:14 2001] You told Pickk, 'mistell :)'
+[Fri Oct 12 10:06:19 2001] Aelorian GMSAYS, 'wait till you have to do the "soandso just called me bitch!...that's sexual harrasment...DO something!"'
+[Fri Oct 12 10:06:24 2001] Pickk tells you, 'oops. sry'
+[Fri Oct 12 10:06:26 2001] Abbadabba tells the group, 'Hiya ).. sorry i ditched you last night Esp i had to work,'
+[Fri Oct 12 10:06:44 2001] You tell your party, 'my tender ego has been irreperably bruised.'
+[Fri Oct 12 10:06:58 2001] Aelorian tells the group, 'hmnss i 'll need to do appie reports later'
+[Fri Oct 12 10:07:02 2001] Oraden tells the group, 'saw one raid try that... /random 1-6 for which group. then /random 1-6 for which person.... if you came up again it got re rolled... clerics had kittens "we spend so much on peridot" ....'
+[Fri Oct 12 10:07:29 2001] Aelorian tells the group, 'where you want to go abbab?'
+[Fri Oct 12 10:07:37 2001] You tell your party, 'we do reimburse them for dots.'
+[Fri Oct 12 10:07:57 2001] Oraden tells the group, 'i nearly had a FIT when I found out what the values on the looted gems/jewelry were.... 167pp for a sapphire necklace.... BS am I giving them first crack at planar gems, and paying for peridots, AND letting them get all the cash loots....'
+[Fri Oct 12 10:08:01 2001] You tell your party, 'considering cleric armor rots in hate anyway....'
+[Fri Oct 12 10:08:05 2001] Abbadabba tells the group, 'i will stay here there is no where to go hehe'
+[Fri Oct 12 10:08:36 2001] Aelorian tells the group, 'I can drag you to some god forsaken place ....and you go "wtf??!..where am i??!" hehe'
+[Fri Oct 12 10:08:50 2001] Abbadabba tells the group, 'ok do that =)..'
+[Fri Oct 12 10:08:53 2001] Abbadabba tells the group, 'hehe'
+[Fri Oct 12 10:08:58 2001] Aelorian tells the group, 'okies... hold on '
+[Fri Oct 12 10:09:03 2001] Aelorian GMSAYS, 'Gathers his will and strides through the planes. *Zone*'
+[Fri Oct 12 10:09:15 2001] Oraden tells the group, 'aye, and the next person that says "vampire essence" when they meant to say "vampire dust, rogue poison component" I will .... grr...'
+[Fri Oct 12 10:09:35 2001] Abbadabba tells the group, 'lol /calms Oraden down'
+[Fri Oct 12 10:09:49 2001] You tell your party, 'Abba, you outworked Rahaven this week - you had 24:05, he had 23:20'
+[Fri Oct 12 10:09:57 2001] You tell your party, 'Rahaven has been slacking.'
+[Fri Oct 12 10:09:59 2001] Abbadabba GMSAYS, 'W00t hehe'
+[Fri Oct 12 10:10:06 2001] Abbadabba tells the group, 'yup yup yup hehe'
+[Fri Oct 12 10:10:07 2001] Oraden tells the group, 'three times I won a roll for "vampire essence" ... and got the DUST.... essence is for EPIC... dust is useless ;)'
+[Fri Oct 12 10:10:19 2001] Abbadabba GMSAYS, 'pulling Ineas'
+[Fri Oct 12 10:11:00 2001] Aelorian tells the group, 'nods '
+[Fri Oct 12 10:11:12 2001] Aelorian tells the group, 'vampire essense was a pain ..'
+[Fri Oct 12 10:11:18 2001] Oraden tells the group, 'then there was the time I picked up the pants.... no one else wanted to roll for them.... and I didn't have them.... 3 pulls later... halo.... but I wasn't allowed to roll for it... "you got a planar drop this trip already" ... grr'
+[Fri Oct 12 10:11:25 2001] You tell your party, 'has anyone worked with Daphadil or Jerazol this week?'
+[Fri Oct 12 10:11:30 2001] Abbadabba GMSAYS, 'Deleting Ineas handleds'
+[Fri Oct 12 10:11:30 2001] Aelorian tells the group, 'my guild had to clear hate like 7 times each time to get one'
+[Fri Oct 12 10:11:35 2001] Oraden tells the group, 'not i'
+[Fri Oct 12 10:11:50 2001] You tell your party, 'we got the epic essence our first time in Hate...'
+[Fri Oct 12 10:11:56 2001] Espranza saved.
+[Fri Oct 12 10:11:57 2001] You tell your party, 'I think we've gotten it only once since.'
+[Fri Oct 12 10:12:02 2001] Aelorian tells the group, 'bleah...lucky'
+[Fri Oct 12 10:12:07 2001] Oraden tells the group, 'hmm... in 10+ clearings of the first floor... zero essences'
+[Fri Oct 12 10:12:36 2001] You tell your party, 'anyone seen Synder or Eryndale?'
+[Fri Oct 12 10:12:51 2001] Abbadabba tells the group, 'Ya Espranze i haven't Seen my little buddy Rahaven in about a week almost where has he gone lol / looks under the bed and in hideing places.'
+[Fri Oct 12 10:13:01 2001] Aelorian GMSAYS, 'getting shadowslaad'
+[Fri Oct 12 10:13:13 2001] Abbadabba GMSAYS, 'Getting sumtin to drink'
+[Fri Oct 12 10:13:17 2001] You tell your party, 'oh Rahaven is just a slacker. You know what we do with slackers, don't ya. We promote them.'
+[Fri Oct 12 10:13:27 2001] Oraden tells the group, 'and till the "randomized" the apperance of the Wrath of Ssisser or whatever... it looked like I was NEVER getting the serpent head.... now at least there is a minimal chance it might appear.... think I will leave that to 4th to last ;)'
+[Fri Oct 12 10:14:04 2001] Abbadabba tells the group, 'LOL'
+[Fri Oct 12 10:14:26 2001] Aelorian GMSAYS, 'Gathers his will and strides through the planes. *Zone*'
+[Fri Oct 12 10:14:34 2001] Oraden tells the group, 'bah.... then how come it took a month to promote me.... hehe... I hit 35 hours before I hit the week and a half.... took 2 more weeks to get tested... and 4 agonizing DAYS to get my guide account... and then the password didn't work ;)'
+[Fri Oct 12 10:15:34 2001] Abbadabba tells the group, 'TRUST me oraden i am going thru thos AGONIZING days hehe i hit 2 days so far ....'
+[Fri Oct 12 10:16:40 2001] Abbadabba tells the group, 'past test and everything now has been 2days so far. i Want to get it before tuesday and wensday come because then i can get buffed otherwise even with my account i cant do anything untill Lirus again on Thursday hehe'
+[Fri Oct 12 10:16:58 2001] Aelorian tells the group, 'takes about 3 days'
+[Fri Oct 12 10:17:00 2001] Oraden tells the group, 'yep, current schedule.... spectral librarian, cazel, wraith of jaxion, faliea goldenwing, impaler tzilug, essence, serpents head, King Kong, Ghost of kindle, prince of chardok, vessel drozlin, verina tomb ;)'
+[Fri Oct 12 10:18:19 2001] Oraden tells the group, 'aelorian did you HAVE to do jeb's seal first or will collaboration get you the rewards from the four masters? (nadia gave me the 4 dull gems, but I didn't ask her for a bag, and havent fully completed any of the 4 parts)'
+[Fri Oct 12 10:18:23 2001] Aelorian GMSAYS, 'summoned Shadowslaad out of dev room'
+[Fri Oct 12 10:18:30 2001] Abbadabba tells the group, 'Ok i need some last advise on my Surname please hehehe =)...'
+[Fri Oct 12 10:19:07 2001] Oraden tells the group, 'the Mystic? the Mystical?'
+[Fri Oct 12 10:19:13 2001] Abbadabba tells the group, 'Abbadabba Doo =)... or    Abbadabba The AnkleBitter =)... or if they would let me  Abbadabba Doo The AnkleBitter?.'
+[Fri Oct 12 10:19:32 2001] Abbadabba tells the group, 'uuuuuoo the Mystic i like that ring hehe'
+[Fri Oct 12 10:19:42 2001] You tell your party, 'okay... final new appie candidate confirmed...'
+[Fri Oct 12 10:19:45 2001] Abbadabba tells the group, 'has that ring to is Abbadabba The Mystic'
+[Fri Oct 12 10:19:50 2001] You tell your party, 'gonna be five new appies this week.'
+[Fri Oct 12 10:19:58 2001] Abbadabba tells the group, 'Wow.'
+[Fri Oct 12 10:20:01 2001] Aelorian tells the group, 'oh joy'
+[Fri Oct 12 10:20:11 2001] You tell your party, 'anyone interested in becoming a trainer, Oraden?'
+[Fri Oct 12 10:20:37 2001] Oraden tells the group, 'sweet.... but is it just me or does it seem like 50142461104f the candidates don't show.... and no matter how many/fast we add guides from the appies we seem to hold steady at 30 guides .... =('
+[Fri Oct 12 10:20:57 2001] You tell your party, 'actually from the last batch only one didn't show'
+[Fri Oct 12 10:21:07 2001] Oraden tells the group, 'hmm.... been thinking about SWAT and Grading Team... but being assistant trainer wouldn't be too bad.'
+[Fri Oct 12 10:21:09 2001] You tell your party, 'and from this one, they all confirmed.'
+[Fri Oct 12 10:21:20 2001] Oraden tells the group, 'think I still have the logs from when you and Kaweewee trained me ;)'
+[Fri Oct 12 10:21:21 2001] Abbadabba GMSAYS, 'Pulling Bubbyy'
+[Fri Oct 12 10:21:29 2001] You tell your party, 'they changed the training script.'
+[Fri Oct 12 10:21:58 2001] You tell your party, 'I remember we had this one candidate with the email address "tupac thug passion 66 99". Heh... wonder what happened to him.'
+[Fri Oct 12 10:22:14 2001] Abbadabba tells the group, 'lol...'
+[Fri Oct 12 10:22:17 2001] Aelorian tells the group, 'hhe is that legal?'
+[Fri Oct 12 10:22:31 2001] Oraden tells the group, 'hmm... put me down as strongly interested for an assistant trainer job... think you are about the best trainer around ;)'
+[Fri Oct 12 10:22:31 2001] Espranza saved.
+[Fri Oct 12 10:22:52 2001] You tell your party, 'heh thanks... but I do IRC training now, too, and that takes a lot of time.'
+[Fri Oct 12 10:23:12 2001] You tell your party, 'I pretty much got Lancet's job when he left.'
+[Fri Oct 12 10:23:33 2001] Oraden tells the group, 'aye, saw that one on the candidate emails on contacts once... thought "oh, this isn't going to be fun" .... can hardly imagine the face of the SMT person that had to type that email address into the "first contact" message ;)'
+[Fri Oct 12 10:23:42 2001] You tell your party, 'um, that was me'
+[Fri Oct 12 10:23:59 2001] You tell your party, 'and the candidate was someone with the unlikely name "Abbadabba"'
+[Fri Oct 12 10:24:03 2001] Oraden tells the group, 'sounds like they grooming you for SR ;)'
+[Fri Oct 12 10:24:22 2001] Oraden tells the group, 'really.... abbadabba is tupac?'
+[Fri Oct 12 10:24:24 2001] The spirit leaves you.
+[Fri Oct 12 10:24:27 2001] You feel the spirit of Norrath enter you.
+[Fri Oct 12 10:24:44 2001] Abbadabba tells the group, 'lol that was my Email yes lol'
+[Fri Oct 12 10:24:45 2001] You tell your party, 'Oraden - I volunteered....'
+[Fri Oct 12 10:24:55 2001] You tell your party, 'full guides can volunteer for stuff'
+[Fri Oct 12 10:24:59 2001] Oraden tells the group, 'would never have guessed ;)'
+[Fri Oct 12 10:25:21 2001] Abbadabba tells the group, 'my email now is ptown6184 =)....'
+[Fri Oct 12 10:25:41 2001] Abbadabba GMSAYS, 'deleted bubbyy'
+[Fri Oct 12 10:25:43 2001] Oraden tells the group, 'aye, I have been thinking about SWAT and Grading.... had to confirm that joining swat wouldn't mean I had to leave MT first... and need to make full guide + 3 months to apply ;)'
+[Fri Oct 12 10:26:16 2001] Abbadabba tells the group, 'i wana get my guide account before tommrorw appie trainging that way i could be up there as a guide =)..'
+[Fri Oct 12 10:26:40 2001] Aelorian GMSAYS, 'Gathers his will and strides through the planes. *Zone*'
+[Fri Oct 12 10:27:04 2001] Abbadabba GMSAYS, 'pull'
+[Fri Oct 12 10:27:05 2001] Oraden tells the group, 'hehe.... aye, happened that way for me.... I got buffed to full guide, and sat at one end of CSHome getting dressed while Espy trained some new appies at the other end ;)'
+[Fri Oct 12 10:27:42 2001] Abbadabba tells the group, 'that would be GREAT hehe'
+[Fri Oct 12 10:28:04 2001] You tell your party, 'Tessia did the same thing... she got buffed and then had to handle a BUNCH of yellow petitions, right off'
+[Fri Oct 12 10:28:19 2001] Oraden tells the group, 'twas terrifying.... suddenly _I_ was supposed to have answers when the appies asked.... *shudder*'
+[Fri Oct 12 10:29:32 2001] Oraden tells the group, 'but since I joined as an appie it seems like we have had nearly every appie do very well, and most have been getting full guide FAST..... hardest part is getting the full guides to send back so many evaluations ;)'
+[Fri Oct 12 10:30:18 2001] Abbadabba GMSAYS, 'Guys this guy was in oasis and while he was fighting SG's he was saying that he was raping them and when he got hit he would say i shove my sword up your ass SG the petitioner has reports but the guy is not doing it anymore'
+[Fri Oct 12 10:30:54 2001] Aelorian tells the group, 'the only other reason is... that you have a lore item on you'
+[Fri Oct 12 10:30:57 2001] You GMSAY, 'if he has reports, someone has to go read them and perhaps warn'
+[Fri Oct 12 10:30:58 2001] Oraden GMSAYS, 'escalate it to red, and I will go have Chat GM verify the report.'
+[Fri Oct 12 10:31:09 2001] You tell your party, 'esc to yellow'
+[Fri Oct 12 10:31:10 2001] Abbadabba GMSAYS, 'Ok,.'
+[Fri Oct 12 10:31:27 2001] You tell your party, 'red is for senior+ only'
+[Fri Oct 12 10:31:48 2001] Oraden tells the group, 'hmm... thought reports that need verify go to red till they come back from chat (case a SWAT GM happens by ;)'
+[Fri Oct 12 10:32:15 2001] You tell your party, 'nope, not if a guide is handling it'
+[Fri Oct 12 10:32:23 2001] You tell your party, 'red means out of our hands, we do nothing'
+[Fri Oct 12 10:32:36 2001] Abbadabba GMSAYS, 'there it is'
+[Fri Oct 12 10:32:46 2001] You tell your party, 'Pull Balof :)'
+[Fri Oct 12 10:32:56 2001] Abbadabba tells the group, 'NOOOOOO BALOF ! !  !'
+[Fri Oct 12 10:33:05 2001] Abbadabba tells the group, 'lol'
+[Fri Oct 12 10:33:06 2001] Espranza saved.
+[Fri Oct 12 10:33:10 2001] Aelorian GMSAYS, 'hehehe'
+[Fri Oct 12 10:33:24 2001] You GMSAY, 'Aelorian couldn't stop himself last night...'
+[Fri Oct 12 10:33:31 2001] Aelorian GMSAYS, 'I am on a pet :) lets see who's the lucky one '
+[Fri Oct 12 10:33:42 2001] Aelorian GMSAYS, 'but...but...its a PET.../whine'
+[Fri Oct 12 10:33:43 2001] You GMSAY, 'no no, no new Balof.'
+[Fri Oct 12 10:33:57 2001] Oraden tells the group, 'camping to chat to check this report, ..... sounds familiar....'
+[Fri Oct 12 10:34:16 2001] Oraden GMSAYS, 'Nimon, yellow, Oraden, camping to verifiy report'
+[Fri Oct 12 10:34:22 2001] Oraden GMSAYS, 'Going into the Ghost-realm till I return again.'
+[Fri Oct 12 10:34:35 2001] Abbadabba GMSAYS, 'pulling Ramious'
+[Fri Oct 12 10:34:57 2001] Oraden has left the group.
+[Fri Oct 12 10:35:39 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Oct 12 10:35:40 2001] USER TEXT: since when can you not rez the loser of a duel?
+[Fri Oct 12 10:35:40 2001] Players in EverQuest:
+[Fri Oct 12 10:35:40 2001] ---------------------------
+[Fri Oct 12 10:35:40 2001] [ANON (60 Grave Lord)] Artious (Human) ZONE: templeveeshan (USER PID FXHL0PN)
+[Fri Oct 12 10:35:40 2001] There is 1 player in EverQuest.
+[Fri Oct 12 10:36:09 2001] You told Artious, 'Hail, Artious! Guide Espranza here. You only have eight minutes to rez after a duel... it has always been very short.'
+[Fri Oct 12 10:36:32 2001] You tell your party, 'Traded my trak tooth for a FBSS last night... was that a good trade?'
+[Fri Oct 12 10:36:48 2001] Artious tells you, 'he died, and got clicked on when he came out the other end.  I dont think that takes 8 minutes.../sigh'
+[Fri Oct 12 10:37:12 2001] You told Artious, 'hmm... that DOES seem very short. Was there any sort of message?'
+[Fri Oct 12 10:37:30 2001] Abbadabba tells the group, 'what is your play server and your lvl class main?.'
+[Fri Oct 12 10:37:32 2001] Artious tells you, 'well, Im not a cleric, so I dont know of those messages'
+[Fri Oct 12 10:37:37 2001] Abbadabba GMSAYS, 'delete Ramious'
+[Fri Oct 12 10:37:49 2001] Artious tells you, 'he just said he got a Too Old message'
+[Fri Oct 12 10:38:04 2001] You tell your party, 'me? EM and character in question is a 38 rogue with small dragonbone shard as main piercer'
+[Fri Oct 12 10:38:16 2001] You told Artious, 'and it was less than eight minutes?'
+[Fri Oct 12 10:38:32 2001] Artious tells you, 'ToV's just a long way to run when you cant get a rez.   Im certain it was less than 8 minutes'
+[Fri Oct 12 10:38:59 2001] Artious tells you, 'although I do plan to duel here more often now, just for that reason'
+[Fri Oct 12 10:39:27 2001] You told Artious, 'that seems far too short. I will report it as a bug...'
+[Fri Oct 12 10:39:44 2001] Abbadabba GMSAYS, 'Deleted parinmsu '
+[Fri Oct 12 10:39:53 2001] You told Artious, 'who was the person who couldn't be rezzed?'
+[Fri Oct 12 10:40:01 2001] Artious tells you, 'etenies'
+[Fri Oct 12 10:40:47 2001] Artious tells you, 'a troublesome little dorf warrior.   I'd prefer his body be delivered to the lap of Bertoxxulous for proper disposal, although Im sure that's not an option'
+[Fri Oct 12 10:40:59 2001] Searching zones for corpse of that name....
+[Fri Oct 12 10:41:00 2001] Corpse: Etenies's corpse0 in zone: templeveeshan
+[Fri Oct 12 10:41:15 2001] Abbadabba GMSAYS, 'pulling'
+[Fri Oct 12 10:41:38 2001] You told Artious, 'I can only suggest the cleric and etenies both camp out and come back in, though if it has already been 8 minutes I doubt that will help. How long was it?'
+[Fri Oct 12 10:41:58 2001] Aelorian GMSAYS, 'Oraden is doing Nimon?'
+[Fri Oct 12 10:42:05 2001] You GMSAY, 'yup'
+[Fri Oct 12 10:42:10 2001] Artious tells you, 'It's been over 8 minutes at this point, we've been thinking it over for awhile before I petitioned'
+[Fri Oct 12 10:42:18 2001] Oraden GMSAYS, 'Greets all, Guide Oraden reporting from the Ghost-realm'
+[Fri Oct 12 10:42:22 2001] You GMSAY, 'wb'
+[Fri Oct 12 10:42:57 2001] You told Artious, 'erk... well, I will file a bug report, as I said... I'm not sure what else I can offer, my rez has the same limitations as a cleric rez...'
+[Fri Oct 12 10:42:57 2001] Abbadabba GMSAYS, 'Welcome Back'
+[Fri Oct 12 10:43:17 2001] Players in EverQuest:
+[Fri Oct 12 10:43:17 2001] ---------------------------
+[Fri Oct 12 10:43:17 2001] [60 Warlord] Etenies (Dwarf) <Altruistic Valorians> ZONE: sirens (USER PID BXXEQNT)
+[Fri Oct 12 10:43:17 2001] There is 1 player in EverQuest.
+[Fri Oct 12 10:43:42 2001] Espranza saved.
+[Fri Oct 12 10:43:53 2001] Artious tells you, 'outch.....that's not cool ( '
+[Fri Oct 12 10:43:57 2001] Aelorian GMSAYS, 'Gathers his will and strides through the planes. *Zone*'
+[Fri Oct 12 10:44:07 2001] You GMSAY, '<note bug> Etenies BXXEQNT lost a duel in the Temple of Veeshan and was rezzed as soon as he zoned back to his bind point, but the corpse was already too old, wasn't more than a minute or so.'
+[Fri Oct 12 10:44:09 2001] Abbadabba GMSAYS, 'deleting Trance'
+[Fri Oct 12 10:44:24 2001] DELETING THIS PETITION
+[Fri Oct 12 10:44:28 2001] Your protection fades.
+[Fri Oct 12 10:45:00 2001] You told Artious, 'I see he is already in Siren's so he's just minutes away... I reported it as a bug, hopefully the GM will be able to shed some light on it.'
+[Fri Oct 12 10:45:15 2001] Phrozen tells you, 'sry to bug you....do u have to be lvl 50 before u can get your lockopick skill over 200?'
+[Fri Oct 12 10:45:42 2001] You told Phrozen, 'have to be level 51, actually'
+[Fri Oct 12 10:45:57 2001] Phrozen tells you, 'u do ...ok thanks much'
+[Fri Oct 12 10:46:05 2001] You told Phrozen, 'no problem. be well!'
+[Fri Oct 12 10:46:20 2001] You feel the spirit of Z surround you.
+[Fri Oct 12 10:48:59 2001] You GMSAY, 'okay, I'm off! See y'all later!'
+[Fri Oct 12 10:49:01 2001] Hameka GMSAYS, 'good morning everyone...'
+[Fri Oct 12 10:49:04 2001] It will take you about 30 seconds to prepare your camp.
+[Fri Oct 12 10:49:04 2001] Aelorian GMSAYS, 'laters '
+[Fri Oct 12 10:49:07 2001] You GMSAY, 'hiya Hameka!'
+[Fri Oct 12 10:49:08 2001] Players in EverQuest:
+[Fri Oct 12 10:49:08 2001] ---------------------------
+[Fri Oct 12 10:49:08 2001] * Guide *[50 Cleric] Hameka (Dwarf) <Keepers of Dreams> ZONE: commons (USER PID BUGBT2L)
+[Fri Oct 12 10:49:08 2001] * Guide *[50 Ranger] Aelorian (Half Elf) ZONE: lakeofillomen (USER PID GUUW6YG)
+[Fri Oct 12 10:49:08 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: cshome (USER PID HUUXAGY)
+[Fri Oct 12 10:49:08 2001] * Apprentice Guide *[20 Warrior] Abbadabba (Gnome) ZONE: dreadlands (USER PID AV59QRF)
+[Fri Oct 12 10:49:08 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Fri Oct 12 10:49:08 2001] There are 5 players in EverQuest.
+[Fri Oct 12 10:49:08 2001] It will take about 25 more seconds to prepare your camp.
+[Fri Oct 12 10:49:12 2001] Aelorian GMSAYS, 'hi hi hameka!'
+[Fri Oct 12 10:49:13 2001] It will take about 20 more seconds to prepare your camp.
+[Fri Oct 12 10:49:14 2001] You GMSAY, 'sorry to wave and run...'
+[Fri Oct 12 10:49:18 2001] It will take about 15 more seconds to prepare your camp.
+[Fri Oct 12 10:49:23 2001] Oraden GMSAYS, 'Greets Hameka'
+[Fri Oct 12 10:49:23 2001] It will take about 10 more seconds to prepare your camp.
+[Fri Oct 12 10:49:24 2001] Hameka GMSAYS, 'byeee Espranze... was nice to breeze by yah ;)   '
+[Fri Oct 12 10:49:29 2001] It will take about 5 more seconds to prepare your camp.

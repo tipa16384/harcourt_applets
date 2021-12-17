@@ -1,0 +1,992 @@
+[Wed Jul 25 23:01:39 2001] Welcome to EverQuest!
+[Wed Jul 25 23:01:39 2001] You have entered Sunset Home.
+[Wed Jul 25 23:01:39 2001] GUILD MOTD: Kezia - DO NOT take the Petition from Myztro it is bugged and WILL crash you to desk top.  GM Survalli investigated and cannot get it out of the Queue. Please tell the appies not to take it either. =)
+[Wed Jul 25 23:01:42 2001] It begins to rain.
+[Wed Jul 25 23:01:45 2001] Players in EverQuest:
+[Wed Jul 25 23:01:45 2001] ---------------------------
+[Wed Jul 25 23:01:45 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Wed Jul 25 23:01:45 2001] * Guide *[50 Monk] Yumenoteki (Human) <Keepers of Morell Thule> ZONE: cshome (USER PID HT3SRT4)
+[Wed Jul 25 23:01:45 2001] There are 2 players in EverQuest.
+[Wed Jul 25 23:01:55 2001] You GMSAY, 'konbanya tekikun'
+[Wed Jul 25 23:02:01 2001] Yumenoteki GMSAYS, 'konbawa'
+[Wed Jul 25 23:02:08 2001] Yumenoteki GMSAYS, 'dropping by?'
+[Wed Jul 25 23:02:11 2001] You GMSAY, 'yeah'
+[Wed Jul 25 23:02:12 2001] Yumenoteki GMSAYS, 'it's been crazy tonight'
+[Wed Jul 25 23:02:22 2001] Yumenoteki GMSAYS, 'I was wondering where all the appies were'
+[Wed Jul 25 23:02:24 2001] You GMSAY, 'looks like you have it under control BYE BYE'
+[Wed Jul 25 23:02:31 2001] Yumenoteki GMSAYS, 'LOL'
+[Wed Jul 25 23:02:36 2001] You GMSAY, '/em HURRIDELY logs out after looking at the queue'
+[Wed Jul 25 23:02:45 2001] Yumenoteki GMSAYS, 'ROFL ... night'
+[Wed Jul 25 23:02:45 2001] You GMSAY, 'you know usually it's slow when I come by at night'
+[Wed Jul 25 23:02:53 2001] You GMSAY, 'KIDDING! I'm on the queue'
+[Wed Jul 25 23:02:57 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:02:57 2001] USER TEXT: ok i have goten introuble for swearing and this person keeps swearing at me im sick of it 
+[Wed Jul 25 23:02:58 2001] Players in EverQuest:
+[Wed Jul 25 23:02:58 2001] ---------------------------
+[Wed Jul 25 23:02:58 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 25 23:02:58 2001] Yumenoteki GMSAYS, 'heh heh ... thanks'
+[Wed Jul 25 23:03:03 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Jul 25 23:03:05 2001] CHECKING IN
+[Wed Jul 25 23:03:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:03:07 2001] USER TEXT: i was bound in north qeynos last night but my bind point didnt get reset.
+[Wed Jul 25 23:03:07 2001] Players in EverQuest:
+[Wed Jul 25 23:03:07 2001] ---------------------------
+[Wed Jul 25 23:03:07 2001] [24 Shaman] Mystis (Iksar) <Black Cauldron> ZONE: lakeofillomen (USER PID CQ9743B)
+[Wed Jul 25 23:03:07 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:03:09 2001] Yumenoteki GMSAYS, 'some of them are about to be deleted for unavail 3'
+[Wed Jul 25 23:03:25 2001] Yumenoteki GMSAYS, 'GM dropped by earlier to help also ... he brought it down to 20'
+[Wed Jul 25 23:03:28 2001] You GMSAY, 'that'll speed things up. How long have you been on?'
+[Wed Jul 25 23:03:31 2001] You feel the spirit of Z surround you.
+[Wed Jul 25 23:03:36 2001] Yumenoteki GMSAYS, 'almost 3 hours'
+[Wed Jul 25 23:03:45 2001] Yumenoteki GMSAYS, 'queue was up to 4 columns'
+[Wed Jul 25 23:03:49 2001] You GMSAY, 'yikes'
+[Wed Jul 25 23:04:09 2001] You GMSAY, 'I'd ask to join SWAT but I fear I would just end up at MT all the time anyway'
+[Wed Jul 25 23:04:29 2001] Yumenoteki GMSAYS, 'heh heh'
+[Wed Jul 25 23:04:35 2001] Yumenoteki GMSAYS, 'what does it require to join SWAT?'
+[Wed Jul 25 23:04:40 2001] You GMSAY, 'not a clie'
+[Wed Jul 25 23:04:42 2001] You GMSAY, 'not a clue'
+[Wed Jul 25 23:04:49 2001] You GMSAY, 'just a random joke'
+[Wed Jul 25 23:05:11 2001] Yumenoteki GMSAYS, 'ah ... I inquired ... they asked if I was serious ... so I said, no, but I wanted to know the requirements'
+[Wed Jul 25 23:05:20 2001] You GMSAY, 'they occasionally post a "join SWAT" notice; I think you have to have been a guide for six months and be willing to give six hours to your server AND six hours to SWAT'
+[Wed Jul 25 23:05:31 2001] STATUS UPGRADED TO URGENT
+[Wed Jul 25 23:05:33 2001] STATUS DOWNGRADED TO NORMAL
+[Wed Jul 25 23:05:33 2001] Yumenoteki GMSAYS, 'wow'
+[Wed Jul 25 23:05:44 2001] You GMSAY, 'some or all of that could be wrong, but that's how I remember it'
+[Wed Jul 25 23:05:52 2001] Yumenoteki GMSAYS, 'perhaps not ... I can barely do 6 hours currently due to the job'
+[Wed Jul 25 23:06:25 2001] You GMSAY, 'I'm not sure about the six months of service needed, might only be one - but I do know they still expect you to keep up the shift on your home server.'
+[Wed Jul 25 23:06:28 2001] Yumenoteki GMSAYS, 'some of my coworkers are 1. slacking off 2. vacationing 3. permanently on vacation in their brain'
+[Wed Jul 25 23:06:33 2001] You GMSAY, 'heh'
+[Wed Jul 25 23:07:12 2001] Yumenoteki GMSAYS, 'zoning'
+[Wed Jul 25 23:07:29 2001] You told Mystis, 'Hail, Cripler! Guide Espranza here. I'm not sure why it seems binds don't take sometimes - but next time you receive a bind, type in /charinfo and make sure it says you're bound in the correct zone.'
+[Wed Jul 25 23:07:35 2001] DELETING THIS PETITION
+[Wed Jul 25 23:07:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:07:37 2001] USER TEXT: uumuur
+[Wed Jul 25 23:07:38 2001] Players in EverQuest:
+[Wed Jul 25 23:07:38 2001] ---------------------------
+[Wed Jul 25 23:07:38 2001] [4 Warrior] Skrabb (Ogre) ZONE: ecommons (USER PID AXKT9XM)
+[Wed Jul 25 23:07:38 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:07:49 2001] Mystis tells you, 'ok thanks.  I will)'
+[Wed Jul 25 23:07:59 2001] You told Skrabb, 'Hail, Skrabb! Guide Espranza here. How may I help you? Your petition was rather... ummm.. vague'
+[Wed Jul 25 23:08:03 2001] You told Mystis, 'okay, be well!'
+[Wed Jul 25 23:08:15 2001] Yumenoteki GMSAYS, 'hey Espranza ... check ithis out'
+[Wed Jul 25 23:08:17 2001] You GMSAY, '<note bug> Sometimes bind doesn't work.'
+[Wed Jul 25 23:08:22 2001] You GMSAY, 'zone'
+[Wed Jul 25 23:08:23 2001] Skrabb tells you, 'petitions oh i think i was reporting rude language'
+[Wed Jul 25 23:08:25 2001] Yumenoteki GMSAYS, 'a player stuck on the "safe" point and totally bugged'
+[Wed Jul 25 23:08:31 2001] Teleporting to yumenoteki.
+[Wed Jul 25 23:08:32 2001] LOADING, PLEASE WAIT...
+[Wed Jul 25 23:09:05 2001] You have entered Tower of Frozen Shadow.
+[Wed Jul 25 23:09:23 2001] Yumenoteki GMSAYS, 'this guy was on the zone in point'
+[Wed Jul 25 23:09:26 2001] You say, 'Hiya!'
+[Wed Jul 25 23:09:34 2001] Yumenoteki GMSAYS, 'and he was stuck mid-air'
+[Wed Jul 25 23:09:38 2001] You told Skrabb, 'Who said what?'
+[Wed Jul 25 23:09:46 2001] Yumenoteki GMSAYS, 'he can't fight ... or do much right now'
+[Wed Jul 25 23:09:53 2001] Yumenoteki says, 'are you able to zone?'
+[Wed Jul 25 23:09:55 2001] You GMSAY, 'is he alive?'
+[Wed Jul 25 23:09:58 2001] Ssyn says, 'yes'
+[Wed Jul 25 23:10:01 2001] Ssyn says, 'i zoned into here'
+[Wed Jul 25 23:10:04 2001] You GMSAY, 'apparently'
+[Wed Jul 25 23:10:08 2001] Ssyn says, 'it was doing this in iceclad'
+[Wed Jul 25 23:10:11 2001] Yumenoteki says, 'ah ... you were in another zone?'
+[Wed Jul 25 23:10:18 2001] Yumenoteki GMSAYS, '<note: Ssyn may be bugged'
+[Wed Jul 25 23:10:19 2001] Skrabb tells you, 'i've forgotten at this pint. but it was along the lines of "fuck" ever since i've gotten petitioned i figured turn abouts fair play so im petitioning everyone i see that cusses.. maybe get some rule changes if you guys get a flood of report'
+[Wed Jul 25 23:10:23 2001] Yumenoteki says, 'hmmmm'
+[Wed Jul 25 23:10:32 2001] an angry chef begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jul 25 23:10:34 2001] You told Skrabb, 'did you do a report on this person?'
+[Wed Jul 25 23:10:35 2001] Yumenoteki says, 'not healthy for you'
+[Wed Jul 25 23:10:43 2001] Skrabb tells you, 'yeah i did /report i thought :('
+[Wed Jul 25 23:10:48 2001] an angry chef begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jul 25 23:10:49 2001] You told Skrabb, 'on which name?'
+[Wed Jul 25 23:10:51 2001] Ssyn says, 'everything works just my character shows no action'
+[Wed Jul 25 23:10:55 2001] Ssyn says, 'cept being able to run'
+[Wed Jul 25 23:11:01 2001] Yumenoteki GMSAYS, 'we've had a large number of petitions today about folks getting stuck between zones'
+[Wed Jul 25 23:11:11 2001] Yumenoteki says, 'are you able to damage things?'
+[Wed Jul 25 23:11:11 2001] You GMSAY, 'did you note that as an issue?'
+[Wed Jul 25 23:11:15 2001] Ssyn says, 'yes and take dmg'
+[Wed Jul 25 23:11:24 2001] Yumenoteki GMSAYS, 'yes ... it will be in my report'
+[Wed Jul 25 23:11:27 2001] Skrabb tells you, 'can you tell me what the petition said" i think the last one was on a uumuur or something'
+[Wed Jul 25 23:11:49 2001] You told Skrabb, 'I'd have to log into chat and find a server to read the report'
+[Wed Jul 25 23:12:00 2001] Yumenoteki says, 'can you do FD again?  you appeared mid-air last time'
+[Wed Jul 25 23:12:06 2001] You told Skrabb, 'but for that I need the name the report was filed on. Uumuur?'
+[Wed Jul 25 23:12:09 2001] Ssyn says, 'k'
+[Wed Jul 25 23:12:10 2001] USER TEXT: uumuur
+[Wed Jul 25 23:12:15 2001] Ssyn says, 'there i did'
+[Wed Jul 25 23:12:26 2001] Yumenoteki says, 'hmmm ... were you successful?'
+[Wed Jul 25 23:12:27 2001] Players in EverQuest:
+[Wed Jul 25 23:12:27 2001] ---------------------------
+[Wed Jul 25 23:12:27 2001] [7 Necromancer] Uumuur (Dark Elf) ZONE: nektulos (USER PID EU98XJ8)
+[Wed Jul 25 23:12:27 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:12:28 2001] Ssyn says, 'yes'
+[Wed Jul 25 23:12:32 2001] Ssyn says, 'armor guy walked right by'
+[Wed Jul 25 23:12:44 2001] Yumenoteki says, 'hmmm ... I just FD and I didn't fall to ground either'
+[Wed Jul 25 23:12:50 2001] Skrabb tells you, 'if the petition just said uumuur he said soemthing bout bunch of skeletons and they'd have your ass or something close to those words'
+[Wed Jul 25 23:12:57 2001] Ssyn says, 'cna u fight'
+[Wed Jul 25 23:12:59 2001] Skrabb tells you, 'but ASS was the word i petitioned over'
+[Wed Jul 25 23:12:59 2001] You GMSAY, 'looks like there's something wrong. didn't I read this was happening in Velks?'
+[Wed Jul 25 23:13:21 2001] Yumenoteki says, 'it appears to be a monk thing'
+[Wed Jul 25 23:13:26 2001] You told Skrabb, 'Well, that isn't the level of language we usually warn for...'
+[Wed Jul 25 23:13:28 2001] Yumenoteki says, 'I'm not falling to ground or sitting either'
+[Wed Jul 25 23:13:34 2001] You're not scaring anyone.
+[Wed Jul 25 23:13:37 2001] You say, 'My instill doubt still works'
+[Wed Jul 25 23:13:40 2001] Skrabb tells you, 'and shit is?'
+[Wed Jul 25 23:13:46 2001] Yumenoteki says, 'Espranza .. can you sit?'
+[Wed Jul 25 23:13:49 2001] You told Skrabb, 'no... were you warned?'
+[Wed Jul 25 23:13:55 2001] Ssyn says, 'himm'
+[Wed Jul 25 23:13:55 2001] Yumenoteki says, 'hmmm'
+[Wed Jul 25 23:13:56 2001] You say, 'can you?'
+[Wed Jul 25 23:13:58 2001] Yumenoteki says, 'nope'
+[Wed Jul 25 23:13:58 2001] Skrabb tells you, 'yes by lirus over saying "buy my shit"'
+[Wed Jul 25 23:14:09 2001] Yumenoteki says, 'it says sit for me right now'
+[Wed Jul 25 23:14:13 2001] Ssyn says, 'the others in my gorup were not effected either'
+[Wed Jul 25 23:14:13 2001] Yumenoteki says, 'but it shows standing'
+[Wed Jul 25 23:14:19 2001] You say, 'maybe it's just hummies'
+[Wed Jul 25 23:14:28 2001] Yumenoteki says, 'aye'
+[Wed Jul 25 23:14:45 2001] Ssyn says, 'yeah i am the only one in my gorup'
+[Wed Jul 25 23:14:47 2001] STATUS UPGRADED TO URGENT
+[Wed Jul 25 23:14:47 2001] Ssyn says, 'gorup'
+[Wed Jul 25 23:14:48 2001] Yumenoteki GMSAYS, 'note: Syn's issue seems to affect human monks ... no sitting, no standing, no action in SoV'
+[Wed Jul 25 23:14:50 2001] CHECKING IN
+[Wed Jul 25 23:14:51 2001] Ssyn says, 'group'
+[Wed Jul 25 23:14:52 2001] Ssyn says, 'hehe'
+[Wed Jul 25 23:14:58 2001] Yumenoteki says, 'heh heh'
+[Wed Jul 25 23:15:11 2001] Saving soulmark information to server.
+[Wed Jul 25 23:15:33 2001] Skrabb tells you, 'i figured if shit was worthy of a warning then ass should be too since their around the same area'
+[Wed Jul 25 23:15:40 2001] You told Skrabb, 'I will find a GM to read the report in a little bit, and if the GM feels it warrants a warning, I will take action'
+[Wed Jul 25 23:15:45 2001] an angry chef begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jul 25 23:15:49 2001] Yumenoteki says, 'well ... at least your gameplay is not affected, unless you're looking at yourself'
+[Wed Jul 25 23:15:54 2001] Yumenoteki says, 'I will report it being bugged'
+[Wed Jul 25 23:15:54 2001] Players in EverQuest:
+[Wed Jul 25 23:15:54 2001] ---------------------------
+[Wed Jul 25 23:15:54 2001] [7 Necromancer] Uumuur (Dark Elf) ZONE: nektulos (USER PID EU98XJ8)
+[Wed Jul 25 23:15:54 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:16:00 2001] Yumenoteki says, 'have you filed a /bug report?'
+[Wed Jul 25 23:16:01 2001] an angry chef begins to cast a spell. (O'Keils Flickering Flame)
+[Wed Jul 25 23:16:01 2001] Ssyn says, 'any ideas ...ok ill keep playing'
+[Wed Jul 25 23:16:04 2001] Ssyn says, 'nope'
+[Wed Jul 25 23:16:17 2001] Yumenoteki says, 'no ideas ... but it was fine before the patch, correct?'
+[Wed Jul 25 23:16:18 2001] You no longer have a target.
+[Wed Jul 25 23:16:18 2001] You no longer have a target.
+[Wed Jul 25 23:16:22 2001] Skrabb tells you, 'ok well my account should be sending plenty of rude language reports if i can't say "shit" then no one can say anything'
+[Wed Jul 25 23:16:34 2001] Ssyn says, 'i think it is humans cause my buddy said he played my human druid and he was bugged'
+[Wed Jul 25 23:16:35 2001] You told Skrabb, 'thank you for your petition and be well!'
+[Wed Jul 25 23:16:45 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:16:45 2001] Skrabb tells you, 'yeah night '
+[Wed Jul 25 23:16:46 2001] USER TEXT: Mob dies in tree can not loot
+[Wed Jul 25 23:16:46 2001] Players in EverQuest:
+[Wed Jul 25 23:16:46 2001] ---------------------------
+[Wed Jul 25 23:16:46 2001] [ANON (43 Cleric)] Eileena (Human) ZONE: rathemtn (USER PID EZMZZ8N)
+[Wed Jul 25 23:16:46 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:16:55 2001] Yumenoteki says, 'aye ... that is how I will report it then'
+[Wed Jul 25 23:17:11 2001] Yumenoteki says, 'I wonder if Barbarians are also affected'
+[Wed Jul 25 23:17:20 2001] You told Eileena, 'Hail, Eileena! Guide Espranza here. Unfortunately, we have no ways of moving monster corpses :('
+[Wed Jul 25 23:17:22 2001] Ssyn says, 'nah my friend is barb war with us he was fine'
+[Wed Jul 25 23:17:30 2001] Yumenoteki says, 'so Great Dive and Frozenshadows so far?'
+[Wed Jul 25 23:17:40 2001] Eileena tells you, 'ok we leved up thanks'
+[Wed Jul 25 23:17:42 2001] You GMSAY, 'go check out velks'
+[Wed Jul 25 23:17:47 2001] Ssyn says, 'i dunno about great divide i just know tofs '
+[Wed Jul 25 23:17:52 2001] Yumenoteki GMSAYS, 'ok'
+[Wed Jul 25 23:17:56 2001] You told Eileena, 'okay! good thinking! be well'
+[Wed Jul 25 23:18:00 2001] DELETING THIS PETITION
+[Wed Jul 25 23:18:00 2001] Ssyn says, 'friend informed me he brought my human dru here and he was bugged also in here'
+[Wed Jul 25 23:18:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:18:02 2001] USER TEXT: Hello, my other character, gwaerone, camped in Crystal Caverns last night, and how when I try to play him, i go to character seleciton screen and select him, then it loads, and keeps loading, it never leaves that loading screen
+[Wed Jul 25 23:18:02 2001] Players in EverQuest:
+[Wed Jul 25 23:18:02 2001] ---------------------------
+[Wed Jul 25 23:18:02 2001] [13 Bard] Raluine (Half Elf) ZONE: nro (USER PID DV6TJWN)
+[Wed Jul 25 23:18:02 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:18:04 2001] Eileena tells you, 'you too thanks'
+[Wed Jul 25 23:18:06 2001] Yumenoteki says, 'zoning'
+[Wed Jul 25 23:18:16 2001] You wave goodbye to Ssyn.
+[Wed Jul 25 23:18:16 2001] Yumenoteki GMSAYS, 'what's the full name of velks?'
+[Wed Jul 25 23:18:22 2001] Ssyn says, 'k thank you both'
+[Wed Jul 25 23:18:22 2001] Players in EverQuest:
+[Wed Jul 25 23:18:22 2001] ---------------------------
+[Wed Jul 25 23:18:22 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 25 23:18:27 2001] You GMSAY, 'velketor'
+[Wed Jul 25 23:18:28 2001] Ssyn says, 'if u get any word lemme know'
+[Wed Jul 25 23:18:30 2001] You GMSAY, 'zone'
+[Wed Jul 25 23:18:34 2001] LOADING, PLEASE WAIT...
+[Wed Jul 25 23:19:02 2001] You have entered Velketor's Labyrinth.
+[Wed Jul 25 23:19:02 2001]  (Niv`s Melody of Preservation)
+[Wed Jul 25 23:19:04 2001] Jarn begins to cast a spell. (EarthElementalStrike)
+[Wed Jul 25 23:19:06 2001]  (McVaxius` Rousing Rondo)
+[Wed Jul 25 23:19:10 2001] Yumenoteki GMSAYS, 'I'm fine here'
+[Wed Jul 25 23:19:10 2001]  (Cantata of Replenishment)
+[Wed Jul 25 23:19:12 2001] You say, 'guess they fixed it here'
+[Wed Jul 25 23:19:13 2001] Bezshan begins to cast a spell. (Turgur's Insects)
+[Wed Jul 25 23:19:14 2001]  (McVaxius` Rousing Rondo)
+[Wed Jul 25 23:19:16 2001] Jarn begins to cast a spell. (EarthElementalStrike)
+[Wed Jul 25 23:19:16 2001] Lenena shouts, 'ANy Tanks wanna show me How its done.......need one at right side'
+[Wed Jul 25 23:19:19 2001]  (Niv`s Melody of Preservation)
+[Wed Jul 25 23:19:19 2001] a crystalline devourer begins to cast a spell. (AirElementalInvisibility)
+[Wed Jul 25 23:19:22 2001] Jarn begins to cast a spell. (EarthElementalStrike)
+[Wed Jul 25 23:19:23 2001] a crystalline devourer begins to cast a spell. (AirElementalInvisibility)
+[Wed Jul 25 23:19:24 2001]  (Cantata of Replenishment)
+[Wed Jul 25 23:19:26 2001] Yumenoteki GMSAYS, 'guess it broke in other locations then'
+[Wed Jul 25 23:19:28 2001] Jarn begins to cast a spell. (EarthElementalStrike)
+[Wed Jul 25 23:19:29 2001] Bezshan begins to cast a spell. (Cannibalize III)
+[Wed Jul 25 23:19:31 2001] You GMSAY, 'sigh'
+[Wed Jul 25 23:19:32 2001]  (McVaxius` Rousing Rondo)
+[Wed Jul 25 23:19:32 2001] Draiguisge begins to cast a spell. (Captain Nalots Quickening)
+[Wed Jul 25 23:19:34 2001] Yumenoteki goes poink!
+[Wed Jul 25 23:19:34 2001] Yumenoteki GMSAYS, 'zoning'
+[Wed Jul 25 23:19:35 2001] Bezshan begins to cast a spell. (Cannibalize III)
+[Wed Jul 25 23:19:35 2001] USER TEXT: Hello, my other character, gwaerone, camped in Crystal Caverns last night, and how when I try to play him, i go to character seleciton screen and select him, then it loads, and keeps loading, it never leaves that loading screen
+[Wed Jul 25 23:19:38 2001] Jarn begins to cast a spell. (EarthElementalStrike)
+[Wed Jul 25 23:19:40 2001] Bezshan begins to cast a spell. (Cannibalize III)
+[Wed Jul 25 23:19:40 2001]  (Cantata of Replenishment)
+[Wed Jul 25 23:19:43 2001] Yalilae begins to cast a spell. (Char)
+[Wed Jul 25 23:19:44 2001] Jarn begins to cast a spell. (EarthElementalStrike)
+[Wed Jul 25 23:19:44 2001]  (McVaxius` Rousing Rondo)
+[Wed Jul 25 23:19:48 2001] Bezshan begins to cast a spell. (Cannibalize III)
+[Wed Jul 25 23:19:49 2001]  (Niv`s Melody of Preservation)
+[Wed Jul 25 23:19:51 2001] Yalilae begins to cast a spell. (Char)
+[Wed Jul 25 23:19:53 2001] Bezshan begins to cast a spell. (Cannibalize III)
+[Wed Jul 25 23:19:53 2001]  (Cantata of Replenishment)
+[Wed Jul 25 23:19:55 2001] Jarn begins to cast a spell. (EarthElementalStrike)
+[Wed Jul 25 23:19:58 2001] Bezshan begins to cast a spell. (Cannibalize III)
+[Wed Jul 25 23:19:59 2001] Yalilae begins to cast a spell. (Char)
+[Wed Jul 25 23:19:59 2001]  (McVaxius` Rousing Rondo)
+[Wed Jul 25 23:20:04 2001]  (Niv`s Melody of Preservation)
+[Wed Jul 25 23:20:08 2001]  (Cantata of Replenishment)
+[Wed Jul 25 23:20:10 2001] Jarn begins to cast a spell. (EarthElementalStrike)
+[Wed Jul 25 23:20:13 2001] Myztro's song ends.
+[Wed Jul 25 23:20:16 2001]  (McVaxius` Rousing Rondo)
+[Wed Jul 25 23:20:17 2001] Jarn begins to cast a spell. (EarthElementalStrike)
+[Wed Jul 25 23:20:18 2001] Myztro's song ends.
+[Wed Jul 25 23:20:20 2001]  (Cantata of Replenishment)
+[Wed Jul 25 23:20:25 2001] Huyngung begins to cast a spell. (Turtle Skin)
+[Wed Jul 25 23:20:26 2001] You told Raluine, 'Hail, Raluine! Guide Espranza here. Have you tried removing the files beginning with the word crystal in your EverQuest folder and repatching?'
+[Wed Jul 25 23:20:40 2001] Huyngung begins to cast a spell. (Turtle Skin)
+[Wed Jul 25 23:20:41 2001] Raluine tells you, 'no I havent yet'
+[Wed Jul 25 23:20:43 2001] This spell does not work here.
+[Wed Jul 25 23:20:44 2001] Bezshan begins to cast a spell. (Furious Strength)
+[Wed Jul 25 23:20:47 2001] Players on EverQuest:
+[Wed Jul 25 23:20:47 2001] ---------------------------
+[Wed Jul 25 23:20:47 2001] [57 Master] Draiguisge (Iksar) <Thunderwalkers>
+[Wed Jul 25 23:20:47 2001] [56 Evoker] Zalex (Erudite) <Unbroken Power>
+[Wed Jul 25 23:20:47 2001] [51 Vicar] Medicx (Human) <Unbroken Power>
+[Wed Jul 25 23:20:47 2001] [60 Warlord] Jibu (Dwarf) <Royal Jesters>
+[Wed Jul 25 23:20:47 2001] [55 Conjurer] Dollaan (Human) <Unbroken Power>
+[Wed Jul 25 23:20:47 2001] [56 Defiler] Jaekyu (Unknown) <Royal Jesters>
+[Wed Jul 25 23:20:47 2001] [52 Vicar] Sinna (High Elf) <Thunderwalkers>
+[Wed Jul 25 23:20:47 2001] [57 Preserver] Aeras (Wood Elf)
+[Wed Jul 25 23:20:47 2001] [57 Myrmidon] Machlor (Halfling) <Thunderwalkers>
+[Wed Jul 25 23:20:47 2001] [56 Beguiler] Ucan (Dark Elf) <Heroic Few>
+[Wed Jul 25 23:20:47 2001] [ANONYMOUS] Jayounboho  <Royal Jesters>
+[Wed Jul 25 23:20:47 2001] [57 Master] Figgs (Iksar) <Heroic Few>
+[Wed Jul 25 23:20:47 2001] [ANONYMOUS] Figgil 
+[Wed Jul 25 23:20:47 2001] [52 Cavalier] Lenena (Human) <Hall of Heroes>
+[Wed Jul 25 23:20:47 2001] [59 Outrider] Zelon (Half Elf) <Royal Jesters>
+[Wed Jul 25 23:20:47 2001] [54 Illusionist] Fanlain (High Elf) <Legacy of the Nameless>
+[Wed Jul 25 23:20:47 2001] [56 Conjurer] Yalilae (High Elf) <Reviction>
+[Wed Jul 25 23:20:47 2001] [58 Luminary] Isazo (Iksar) <Reviction>
+[Wed Jul 25 23:20:47 2001] [51 Reaver] Mallic (Iksar)
+[Wed Jul 25 23:20:47 2001] [55 Myrmidon] Sharpie (Dwarf) <Hall of Heroes>
+[Wed Jul 25 23:20:47 2001] [54 Vicar] Feaddor (Human)
+[Wed Jul 25 23:20:47 2001] [52 Champion] Ralstaan (Barbarian) <Mercurians of Norrath>
+[Wed Jul 25 23:20:47 2001] [55 Master] Ryba (Human) <Relentless Ascension>
+[Wed Jul 25 23:20:47 2001] [54 Reaver] Huyngung (Dark Elf) <Royal Jesters>
+[Wed Jul 25 23:20:47 2001] [56 Myrmidon] Nogari (Barbarian) <Royal Jesters>
+[Wed Jul 25 23:20:47 2001] [59 Beguiler] Alainu (High Elf) <Triune>
+[Wed Jul 25 23:20:47 2001] [57 Conjurer] Niguran (High Elf) <Royal Jesters>
+[Wed Jul 25 23:20:47 2001] [54 Mystic] Bezshan (Barbarian)
+[Wed Jul 25 23:20:47 2001] [56 Luminary] Kella (Barbarian) <Triune>
+[Wed Jul 25 23:20:47 2001] [58 Knight] Sirvax (Dwarf) <Heroic Few>
+[Wed Jul 25 23:20:47 2001] [57 Troubadour] Myztro (Unknown)
+[Wed Jul 25 23:20:47 2001] [55 Beguiler] Uumyen (Erudite) <Relentless Ascension>
+[Wed Jul 25 23:20:47 2001] [ANONYMOUS] Sdaras  <Hall of Heroes>
+[Wed Jul 25 23:20:47 2001] [52 Wanderer] Malazar (Half Elf) <Hall of Heroes>
+[Wed Jul 25 23:20:47 2001] [57 Conjurer] Sueden (High Elf) <Heroic Few>
+[Wed Jul 25 23:20:47 2001] [52 Rake] Alys (Dark Elf)
+[Wed Jul 25 23:20:47 2001] [47 Wizard] Jessilia (Erudite) <Thunderwalkers>
+[Wed Jul 25 23:20:47 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Wed Jul 25 23:20:47 2001] There are 38 players in Velketor's Labyrinth.
+[Wed Jul 25 23:20:55 2001] Bezshan begins to cast a spell. (Deftness)
+[Wed Jul 25 23:20:56 2001] Huyngung begins to cast a spell. (Turtle Skin)
+[Wed Jul 25 23:21:03 2001] Raluine tells you, 'figured I would petition first'
+[Wed Jul 25 23:21:06 2001] You told Raluine, 'could you try that please? That often solves these sorts of problems.'
+[Wed Jul 25 23:21:13 2001] Huyngung begins to cast a spell. (Turtle Skin)
+[Wed Jul 25 23:21:13 2001] Friends currently on EverQuest:
+[Wed Jul 25 23:21:13 2001] ---------------------------------
+[Wed Jul 25 23:21:16 2001] List of Friends
+[Wed Jul 25 23:21:16 2001] -----------------
+[Wed Jul 25 23:21:16 2001] Kiksar
+[Wed Jul 25 23:21:16 2001] Boodah
+[Wed Jul 25 23:21:16 2001] Qithal
+[Wed Jul 25 23:21:16 2001] Vdien
+[Wed Jul 25 23:21:16 2001] Gubbern
+[Wed Jul 25 23:21:16 2001] Meirin
+[Wed Jul 25 23:21:16 2001] Tuluvdar
+[Wed Jul 25 23:21:16 2001] Tutonka
+[Wed Jul 25 23:21:16 2001] Katna
+[Wed Jul 25 23:21:16 2001] Jonka
+[Wed Jul 25 23:21:16 2001] Plaffle
+[Wed Jul 25 23:21:16 2001] Jumjum
+[Wed Jul 25 23:21:16 2001] Synzei
+[Wed Jul 25 23:21:16 2001] Kraagaoth
+[Wed Jul 25 23:21:16 2001] Tatiri
+[Wed Jul 25 23:21:16 2001] Rellic
+[Wed Jul 25 23:21:16 2001] Larainy
+[Wed Jul 25 23:21:16 2001] Laodorf
+[Wed Jul 25 23:21:16 2001] Lilass
+[Wed Jul 25 23:21:16 2001] Linkinn
+[Wed Jul 25 23:21:16 2001] Zildrax
+[Wed Jul 25 23:21:16 2001] Choto
+[Wed Jul 25 23:21:16 2001] inthabut
+[Wed Jul 25 23:21:16 2001] Stradivarius
+[Wed Jul 25 23:21:16 2001] Lilyenn
+[Wed Jul 25 23:21:16 2001] You have 25 friend(s).
+[Wed Jul 25 23:21:20 2001] Lenena shouts, 'ANy Tanks wanna show me How its done.......need one at right side'
+[Wed Jul 25 23:21:20 2001] Raluine tells you, 'but why would it just do that< didnt freeze while zoning or anything'
+[Wed Jul 25 23:21:24 2001] Oraden GMSAYS, 'Hail, Any Guide+ on willing to tutor an APP?'
+[Wed Jul 25 23:21:25 2001] a crystalline devourer begins to cast a spell. (AirElementalInvisibility)
+[Wed Jul 25 23:21:28 2001] You GMSAY, 'sure thing'
+[Wed Jul 25 23:21:28 2001] Jessilia is looking at your equipment...
+[Wed Jul 25 23:21:35 2001] Yumenoteki GMSAYS, 'hiya!'
+[Wed Jul 25 23:21:36 2001] Huyngung begins to cast a spell. (Turtle Skin)
+[Wed Jul 25 23:21:38 2001] Oraden GMSAYS, 'going off anon'
+[Wed Jul 25 23:21:48 2001] You told Raluine, 'it might not be the problem, but it often is... one moment please, zoning'
+[Wed Jul 25 23:21:49 2001] You GMSAY, 'zone'
+[Wed Jul 25 23:21:50 2001] Yumenoteki GMSAYS, 'aren't you supposed to be having your exam soon?'
+[Wed Jul 25 23:21:52 2001] Teleporting to oraden.
+[Wed Jul 25 23:21:53 2001] LOADING, PLEASE WAIT...
+[Wed Jul 25 23:22:27 2001] You have entered Field of Bone.
+[Wed Jul 25 23:22:33 2001] You invite Oraden to join your group.
+[Wed Jul 25 23:22:38 2001] You have formed the group.
+[Wed Jul 25 23:22:45 2001] Oraden tells the group, 'greets'
+[Wed Jul 25 23:22:45 2001] You say to your guild, 'he'll be giving the exams soon :)'
+[Wed Jul 25 23:22:47 2001] You no longer have a target.
+[Wed Jul 25 23:22:52 2001] You tell your party, 'yer blue'
+[Wed Jul 25 23:22:54 2001] Yumenoteki tells the guild, 'aye ... I think so also'
+[Wed Jul 25 23:23:00 2001] Oraden tells the group, '??'
+[Wed Jul 25 23:23:06 2001] You tell your party, 'you're still anon'
+[Wed Jul 25 23:23:11 2001] Yumenoteki GMSAYS, 'frozenshadows and another zone ... human issue'
+[Wed Jul 25 23:23:17 2001] You tell your party, 'there ya go'
+[Wed Jul 25 23:23:25 2001] Oraden GMSAYS, 'ACK...'
+[Wed Jul 25 23:23:33 2001] You told Raluine, 'If you could try that, let me know if it works or not.'
+[Wed Jul 25 23:23:36 2001] DELETING THIS PETITION
+[Wed Jul 25 23:23:38 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:23:39 2001] USER TEXT: Can you explain the ghetto purple inventory slot labels to me please?
+[Wed Jul 25 23:23:39 2001] Players in EverQuest:
+[Wed Jul 25 23:23:39 2001] ---------------------------
+[Wed Jul 25 23:23:39 2001] [8 Warrior] Khylith (Iksar) ZONE: fieldofbone (USER PID FQXVDRU)
+[Wed Jul 25 23:23:39 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:23:46 2001] Raluine tells you, 'ok I think I will do it when I log though'
+[Wed Jul 25 23:23:48 2001] Oraden GMSAYS, 'pulling ballidar'
+[Wed Jul 25 23:23:53 2001] You told Raluine, 'okay, good luck!'
+[Wed Jul 25 23:23:57 2001] Raluine tells you, 'it will probably work'
+[Wed Jul 25 23:24:08 2001] You told Raluine, 'if not, then petition again.'
+[Wed Jul 25 23:24:10 2001] Raluine tells you, 'but I am just sick of doing that all the time'
+[Wed Jul 25 23:24:28 2001] Raluine tells you, 'and this time all he did was camp like normal'
+[Wed Jul 25 23:24:44 2001] You told Khylith, 'Khylith is not online at this time.'
+[Wed Jul 25 23:24:57 2001] You told Khylith, 'Khylith is not online at this time.'
+[Wed Jul 25 23:25:08 2001] Oraden GMSAYS, 'deleting ballidar unavail'
+[Wed Jul 25 23:25:13 2001] You told Raluine, 'It happens to me sometimes in Skyshrine and the Great Divide.'
+[Wed Jul 25 23:25:18 2001] You told Khylith, 'Khylith is not online at this time.'
+[Wed Jul 25 23:25:19 2001] Oraden GMSAYS, 'pulling medwyen'
+[Wed Jul 25 23:25:22 2001] Players in EverQuest:
+[Wed Jul 25 23:25:22 2001] ---------------------------
+[Wed Jul 25 23:25:22 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 25 23:25:26 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Jul 25 23:25:26 2001] CHECKING IN
+[Wed Jul 25 23:25:28 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:25:28 2001] Yumenoteki GMSAYS, 'there's a few unavails '
+[Wed Jul 25 23:25:29 2001] USER TEXT: ok i have goten introuble for swearing and this person keeps swearing at me im sick of it 
+[Wed Jul 25 23:25:29 2001] Players in EverQuest:
+[Wed Jul 25 23:25:29 2001] ---------------------------
+[Wed Jul 25 23:25:29 2001] There are no players in EverQuest that match those who filters.
+[Wed Jul 25 23:25:36 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Wed Jul 25 23:25:47 2001] You GMSAY, 'Shankya unavail 3 ****flush****'
+[Wed Jul 25 23:25:49 2001] DELETING THIS PETITION
+[Wed Jul 25 23:25:51 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:25:52 2001] USER TEXT: hello, how do i complete the last step of the guild creation?
+[Wed Jul 25 23:25:52 2001] Players in EverQuest:
+[Wed Jul 25 23:25:52 2001] ---------------------------
+[Wed Jul 25 23:25:52 2001] [7 Shadow Knight] Xaranaz (Iksar) ZONE: fieldofbone (USER PID HUYW7JX)
+[Wed Jul 25 23:25:52 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:25:55 2001] Yumenoteki tells the guild, 'out of the appies ... I think Oraden has the best potential as a guide.  We have a few guides that like to screw around'
+[Wed Jul 25 23:26:02 2001] Raluine tells you, 'ok well thanks'
+[Wed Jul 25 23:26:09 2001] You told Raluine, 'anytime, hope it helps.'
+[Wed Jul 25 23:26:11 2001] Oraden GMSAYS, 'we can't FORCE a guild leader change can we?'
+[Wed Jul 25 23:26:18 2001] You GMSAY, 'absolutely not.'
+[Wed Jul 25 23:26:26 2001] You GMSAY, 'the guild leader of record OWNS the guild.'
+[Wed Jul 25 23:26:31 2001] Yumenoteki GMSAYS, 'I prefer to drop them from dreadlands myself'
+[Wed Jul 25 23:26:31 2001] Oraden GMSAYS, 'if the guild leader wont log on... *shrug* ... right?'
+[Wed Jul 25 23:26:38 2001] You GMSAY, 'right, unfortunately.'
+[Wed Jul 25 23:26:42 2001] Yumenoteki GMSAYS, 'right'
+[Wed Jul 25 23:26:44 2001] Players on EverQuest:
+[Wed Jul 25 23:26:44 2001] ---------------------------
+[Wed Jul 25 23:26:44 2001] [9 Monk] Tictacc (Iksar)
+[Wed Jul 25 23:26:44 2001] [6 Monk] Somachi (Iksar)
+[Wed Jul 25 23:26:44 2001] [51 Illusionist] Utalin (Dark Elf) <Crimson Mist>
+[Wed Jul 25 23:26:44 2001] [21 Monk] Ssmak (Iksar)
+[Wed Jul 25 23:26:44 2001] [5 Magician] Mildayan (Dark Elf) <The Scaled Brotherhood>
+[Wed Jul 25 23:26:44 2001] [48 Shaman] Yeishinu (Iksar)
+[Wed Jul 25 23:26:44 2001] [8 Necromancer] Stizeus (Iksar) <United Guardians>
+[Wed Jul 25 23:26:44 2001] [14 Shadow Knight] Xexar (Iksar)
+[Wed Jul 25 23:26:44 2001] [10 Shaman] Zabraiz (Iksar)
+[Wed Jul 25 23:26:44 2001] [7 Monk] Ignozaal (Iksar)
+[Wed Jul 25 23:26:44 2001] [7 Shadow Knight] Xaranaz (Iksar)
+[Wed Jul 25 23:26:44 2001] [13 Monk] Cabazitk (Iksar) <The Scaled Brotherhood>
+[Wed Jul 25 23:26:44 2001] [26 Shadow Knight] Esclava (Dark Elf) <Black Claws>
+[Wed Jul 25 23:26:44 2001] [17 Monk] Xorraiz (Iksar) <Striders of the Dark>
+[Wed Jul 25 23:26:44 2001] [15 Monk] Amaranthiv (Iksar)
+[Wed Jul 25 23:26:44 2001] [1 Necromancer] Musikhan (Iksar)
+[Wed Jul 25 23:26:44 2001] [9 Monk] Radakast (Iksar)
+[Wed Jul 25 23:26:45 2001] [3 Monk] Paakaula (Iksar)
+[Wed Jul 25 23:26:45 2001] * GM * [20 Monk] Oraden (Human)
+[Wed Jul 25 23:26:45 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Wed Jul 25 23:26:45 2001] There are 20 players in The Field of Bone.
+[Wed Jul 25 23:26:52 2001] USER TEXT: hello, how do i complete the last step of the guild creation?
+[Wed Jul 25 23:26:56 2001] Yumenoteki GMSAYS, 'sometimes if they send e-mail'
+[Wed Jul 25 23:27:03 2001] Yumenoteki GMSAYS, 'we can soulmark a new guild leader'
+[Wed Jul 25 23:27:05 2001] You GMSAY, 'I asked Lirus about that'
+[Wed Jul 25 23:27:19 2001] You GMSAY, 'no not Lirus - some other GM'
+[Wed Jul 25 23:27:29 2001] The spirit leaves you.
+[Wed Jul 25 23:27:44 2001] You GMSAY, 'when I asked if all they could do was to make a new guild, he didn't answer, but he did say that don't reassign the guild to someone else'
+[Wed Jul 25 23:27:50 2001] You feel the spirit of Norrath enter you.
+[Wed Jul 25 23:27:52 2001] You feel the spirit of Z surround you.
+[Wed Jul 25 23:28:09 2001] You say to your guild, 'yeah, I saw the thing from Kezia about guides who don't answer pets.'
+[Wed Jul 25 23:28:18 2001] UNDOING CHECK OUT
+[Wed Jul 25 23:28:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:28:21 2001] USER TEXT: hello, how do i complete the last step of the guild creation?
+[Wed Jul 25 23:28:22 2001] Players in EverQuest:
+[Wed Jul 25 23:28:22 2001] ---------------------------
+[Wed Jul 25 23:28:22 2001] [7 Shadow Knight] Xaranaz (Iksar) ZONE: fieldofbone (USER PID HUYW7JX)
+[Wed Jul 25 23:28:22 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:29:01 2001] You told Xaranaz, 'Hail, Iinan! Guide Espranza here. Have you received the confirmation letter from Verant?'
+[Wed Jul 25 23:29:14 2001] Your feet leave the ground.
+[Wed Jul 25 23:29:24 2001] Yumenoteki tells the guild, 'aye ... you haven't noticed it?'
+[Wed Jul 25 23:29:43 2001] You say to your guild, 'I confess I don't keep tabs on what the other guides are doing'
+[Wed Jul 25 23:29:56 2001] Oraden GMSAYS, 'aye my thought "make a new guild" ... hehe ;)'
+[Wed Jul 25 23:30:05 2001] Yumenoteki tells the guild, 'heh heh ... no, but I'm sure you can tell if the queue is going down after handling 5 petitions yourself'
+[Wed Jul 25 23:30:22 2001] You say to your guild, 'yeah... I guess I should keep better track.'
+[Wed Jul 25 23:30:24 2001] Yumenoteki GMSAYS, 'exactly what it comes down to unfortunately'
+[Wed Jul 25 23:30:59 2001] Yumenoteki tells the guild, 'like earlier ... as soon as the GM showed up, the queue went from 40s to 20s ...'
+[Wed Jul 25 23:31:08 2001] Oraden GMSAYS, 'deleting medwyen'
+[Wed Jul 25 23:31:16 2001] Yumenoteki tells the guild, 'just like now ... when Oraden showed up ... we quickly went down'
+[Wed Jul 25 23:31:25 2001] You say to your guild, 'he just scares petitions'
+[Wed Jul 25 23:31:35 2001] Yumenoteki tells the guild, 'LOL'
+[Wed Jul 25 23:31:35 2001] Oraden GMSAYS, 'pulling drawdon'
+[Wed Jul 25 23:31:56 2001] You say to your guild, 'mark my words - five months, we'll be calling him Senior Oraden'
+[Wed Jul 25 23:32:17 2001] Ssmak says out of character, 'wow do iskars start at 38sv fire?'
+[Wed Jul 25 23:32:18 2001] Oraden GMSAYS, 'rofl... pet: have a question about an item i got and why it don't have an ablity (sic) it should have.'
+[Wed Jul 25 23:32:31 2001] Espranza saved.
+[Wed Jul 25 23:32:36 2001] You GMSAY, 'heh'
+[Wed Jul 25 23:32:36 2001] Yumenoteki tells the guild, 'aye ... but unfortunately, he'll be on another server'
+[Wed Jul 25 23:32:40 2001] Sssiner shouts, 'ive got +38'
+[Wed Jul 25 23:32:42 2001] You say to your guild, 'aye ('
+[Wed Jul 25 23:33:07 2001] Ssmak says out of character, 'cool didnt even notice tell now hehe'
+[Wed Jul 25 23:33:27 2001] Oraden GMSAYS, 'tell, can you hook me up with some monk stuff'
+[Wed Jul 25 23:33:37 2001] Yumenoteki tells the guild, 'LOL ... '
+[Wed Jul 25 23:33:37 2001] Oraden GMSAYS, 'reply please do a /who all GM'
+[Wed Jul 25 23:33:40 2001] Yumenoteki GMSAYS, 'LOL'
+[Wed Jul 25 23:33:45 2001] Oraden GMSAYS, 'tell why?'
+[Wed Jul 25 23:33:53 2001] Sssiner shouts, 'lvl 8 monk lfg'
+[Wed Jul 25 23:33:55 2001] Sssiner shouts, 'at pit'
+[Wed Jul 25 23:34:08 2001] Yumenoteki GMSAYS, 'before the new monk armor ... I used to look like a level 1'
+[Wed Jul 25 23:34:15 2001] You GMSAY, 'just tell the truth - there is nothing you have players can use.'
+[Wed Jul 25 23:34:21 2001] Yumenoteki GMSAYS, 'so folks would say ... why are you naked?'
+[Wed Jul 25 23:34:31 2001] Sssiner shouts, 'lvl 8 monk lfg in pit'
+[Wed Jul 25 23:34:38 2001] Summoning oraden.
+[Wed Jul 25 23:34:54 2001] You tell your party, 'big monkey'
+[Wed Jul 25 23:35:00 2001] Oraden GMSAYS, 'ahh... son of kong ;)'
+[Wed Jul 25 23:35:33 2001] You GMSAY, 'Iinan online as an alt but not responding - unavail 3 - ***flush***'
+[Wed Jul 25 23:35:38 2001] DELETING THIS PETITION
+[Wed Jul 25 23:35:39 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:35:40 2001] USER TEXT: Can you explain the ghetto purple inventory slot labels to me please?
+[Wed Jul 25 23:35:40 2001] Players in EverQuest:
+[Wed Jul 25 23:35:40 2001] ---------------------------
+[Wed Jul 25 23:35:40 2001] [51 Vicar] Qucian (Dark Elf) <Temple of Dawn> ZONE: overthere (USER PID FQXVDRU)
+[Wed Jul 25 23:35:40 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:35:56 2001] Sssiner shouts, 'lvl 8 monk lfg at pit'
+[Wed Jul 25 23:36:24 2001] Oraden GMSAYS, 'wanted glowing black stone to be magic.. so he could punch with it if he had to.... explained it's not a weapon, magic flag wouldn't make it hit.'
+[Wed Jul 25 23:36:27 2001] You told Qucian, 'Hail, Khylith! Guide Espranza here. That color is a display issue that came about with the patch; it is known and they are working on a solution.'
+[Wed Jul 25 23:36:38 2001] Qucian tells you, 'ok, thanks.  )'
+[Wed Jul 25 23:36:42 2001] You told Qucian, 'be well!'
+[Wed Jul 25 23:36:44 2001] DELETING THIS PETITION
+[Wed Jul 25 23:36:45 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:36:46 2001] USER TEXT: i want to change my surname 
+[Wed Jul 25 23:36:46 2001] Players in EverQuest:
+[Wed Jul 25 23:36:46 2001] ---------------------------
+[Wed Jul 25 23:36:46 2001] [ANON (22 Ranger)] Khien (Wood Elf) ZONE: commons (USER PID DVF0PBE)
+[Wed Jul 25 23:36:46 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:36:52 2001] Yumenoteki GMSAYS, 'I had to perform a wedding earlier ... *sigh*'
+[Wed Jul 25 23:36:53 2001] You GMSAY, 'zone'
+[Wed Jul 25 23:36:59 2001] LOADING, PLEASE WAIT...
+[Wed Jul 25 23:37:23 2001] Ailu auctions, 'buying spiderling silks, LQ and MQ bear pelts'
+[Wed Jul 25 23:37:23 2001] a will o wisp died.
+[Wed Jul 25 23:37:25 2001] You have entered West Commonlands.
+[Wed Jul 25 23:37:25 2001] You have formed the group.
+[Wed Jul 25 23:37:25 2001] Oraden GMSAYS, 'deleting drawdon'
+[Wed Jul 25 23:37:29 2001] Renadas says out of character, 'letter on gix at n403 n714'
+[Wed Jul 25 23:37:35 2001] Teleporting to khien.
+[Wed Jul 25 23:37:42 2001] Ceel Moonwhisper begins to cast a spell. (Firefist)
+[Wed Jul 25 23:37:53 2001] Oraden GMSAYS, 'aww.. i was excited... got to preform my first wedding earlier today.'
+[Wed Jul 25 23:38:02 2001] Oraden GMSAYS, 'pulling deciduan'
+[Wed Jul 25 23:38:09 2001] You told Khien, 'Hail, Khien! Guide Espranza here. Why do you want to change your surname?'
+[Wed Jul 25 23:38:15 2001] Noumou says out of character, 'has someones killed gix'
+[Wed Jul 25 23:38:27 2001] Khien tells you, 'coz wasnt my idea...'
+[Wed Jul 25 23:38:32 2001] Docteur auctions, 'WTS Velium Etched Stone Mace'
+[Wed Jul 25 23:38:51 2001] Haer says out of character, 'gix is one mean customer'
+[Wed Jul 25 23:39:12 2001] You told Khien, 'we can only change surnames under very few conditions - such as, it violates the name guidelines (yours doesn't), or you get married.'
+[Wed Jul 25 23:39:13 2001] Noumou says out of character, 'you should see what pops after you kill gix'
+[Wed Jul 25 23:39:13 2001] Oraden GMSAYS, 'hmm... zoned into the hole by accident with lev on.... and then didn't have lev on and fell for 10k... bug or does hole strip off buffs like plane of air?'
+[Wed Jul 25 23:39:24 2001] You GMSAY, 'hole strips lev'
+[Wed Jul 25 23:39:26 2001] Yumenoteki GMSAYS, 'strips'
+[Wed Jul 25 23:39:29 2001] Haer says out of character, 'is it that vytil dragoon guy?'
+[Wed Jul 25 23:39:44 2001] Yumenoteki GMSAYS, 'zoning'
+[Wed Jul 25 23:39:44 2001] Khien tells you, 'hmmm..then i cant change my surname>?'
+[Wed Jul 25 23:39:57 2001] Noumou says out of character, 'yep, he reeks havoc on everyone'
+[Wed Jul 25 23:40:11 2001] You told Khien, 'Not according to the rules.'
+[Wed Jul 25 23:40:13 2001] Yumenoteki tells the guild, 'so the Quest troope was stressful, eh?'
+[Wed Jul 25 23:40:14 2001] Haer says out of character, 'oh yeah, his pet destroyed me'
+[Wed Jul 25 23:40:22 2001] Bodmon says out of character, 'LF tp to velius send tells pls'
+[Wed Jul 25 23:40:30 2001] Khien tells you, 'okie...well thx anyway...'
+[Wed Jul 25 23:40:32 2001] You say to your guild, 'Sometimes. Historic quests were always fun.'
+[Wed Jul 25 23:40:36 2001] You told Khien, 'be well!'
+[Wed Jul 25 23:40:37 2001] DELETING THIS PETITION
+[Wed Jul 25 23:40:38 2001] Noumou says out of character, 'if gix is dead he'll be on the loose now'
+[Wed Jul 25 23:40:42 2001] Khien tells you, 'bye'
+[Wed Jul 25 23:40:54 2001] Yumenoteki tells the guild, 'having 20 players vs 1 quester doesn't seem fair :)'
+[Wed Jul 25 23:41:13 2001] Bodmon says out of character, 'looking for tp to velius send tells pls '
+[Wed Jul 25 23:41:13 2001] You say to your guild, 'but the day to day playing of a persistent historical character was just a constant rush of "what do I have to do for you to give me something"'
+[Wed Jul 25 23:41:30 2001] You say to your guild, 'or, "what do you drop if I kill you"'
+[Wed Jul 25 23:41:33 2001] You feel as if you are about to fall.
+[Wed Jul 25 23:41:39 2001] You feel as if you are about to fall.
+[Wed Jul 25 23:41:42 2001] Yumenoteki tells the guild, '1cp and a tarnished dagger'
+[Wed Jul 25 23:41:44 2001] You say to your guild, 'QT was okay - it was the PLAYERS.'
+[Wed Jul 25 23:41:45 2001] You can no longer levitate.
+[Wed Jul 25 23:41:57 2001] Stewe shouts, 'Thanks to whoever friggin killed Kizdean'
+[Wed Jul 25 23:42:13 2001] Haer says out of character, 'dragoon is out now?'
+[Wed Jul 25 23:42:17 2001] Yumenoteki tells the guild, 'ah ... too much greed'
+[Wed Jul 25 23:42:18 2001] Stewe shouts, 'Yep'
+[Wed Jul 25 23:42:24 2001] You GMSAY, 'Skrabb was one I was saving - it's someone who has a grudge against someone who petitioned him about bad language'
+[Wed Jul 25 23:42:24 2001] Pinekone says out of character, 'I kill him'
+[Wed Jul 25 23:42:25 2001] Haer says out of character, 'woo....bad stuff'
+[Wed Jul 25 23:42:26 2001] Stewe says out of character, 'I had to run and zone'
+[Wed Jul 25 23:42:34 2001] You GMSAY, 'so he petitions every bad word he sees anyone use'
+[Wed Jul 25 23:42:34 2001] Oraden GMSAYS, 'guy with corpse in hole (level 18)  your kiddin me, do you know how i can get my body back?'
+[Wed Jul 25 23:42:35 2001] Stewe says out of character, 'His pet is even'
+[Wed Jul 25 23:42:36 2001] Yumenoteki GMSAYS, 'ah ...'
+[Wed Jul 25 23:42:38 2001] Stewe says out of character, 'And he's red'
+[Wed Jul 25 23:42:59 2001] Haer says out of character, 'dont let the color fool you, gix is BLUE to me and i didnt stand a chance'
+[Wed Jul 25 23:42:59 2001] Yumenoteki GMSAYS, 'heh heh ...he got warned, eh?  '
+[Wed Jul 25 23:43:05 2001] Jaysen says out of character, 'if his pet is even you are too low for that guy Lol'
+[Wed Jul 25 23:43:07 2001] Stewe says out of character, 'I know'
+[Wed Jul 25 23:43:13 2001] Yumenoteki GMSAYS, 'first thing he did when I contacted him was, "Ok, what did I do now?"'
+[Wed Jul 25 23:43:14 2001] Stewe says out of character, 'Indigo Brotherhood mobs are all miscons'
+[Wed Jul 25 23:43:18 2001] Starbriteskye says out of character, 'don't complain so much could have been worse.. you could have been running from him and a HG could have been blocking the zone..'
+[Wed Jul 25 23:43:18 2001] You say to your guild, 'and then, the QMs add a new "lewt mob" for players to guarantee every quest ends with phat lewt.'
+[Wed Jul 25 23:43:18 2001] Stewe says out of character, 'Verant likes it that way'
+[Wed Jul 25 23:43:24 2001] Stewe says out of character, 'They're meant to be mighty warriors'
+[Wed Jul 25 23:43:31 2001] You GMSAY, 'yeah, he has a language warning'
+[Wed Jul 25 23:43:41 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:43:41 2001] USER TEXT: Why does the shuttle to FV from BB always announce the shuttles are leaving 10 minutes before they actually do?
+[Wed Jul 25 23:43:41 2001] Players in EverQuest:
+[Wed Jul 25 23:43:41 2001] ---------------------------
+[Wed Jul 25 23:43:41 2001] [25 Monk] Gossomer (Human) <United Guardians> ZONE: butcher (USER PID BW1XTBS)
+[Wed Jul 25 23:43:41 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:43:46 2001] Ailadenae shouts, 'WTB better robe than  Green silken'
+[Wed Jul 25 23:43:48 2001] Oraden GMSAYS, 'wished deciduan luck on his cr... deleting decid'
+[Wed Jul 25 23:43:50 2001] Stewe says out of character, 'I like it myself..fun when you RP to be a member of the Indigo Brotherhood...and claim you're a miscon when you're level 57, and tell the lowbie you're level 17'
+[Wed Jul 25 23:43:58 2001] Yumenoteki GMSAYS, 'LOL ... tarnished weapons are good'
+[Wed Jul 25 23:44:08 2001] Kitihi shouts, 'who is dragoon zytl and why is his pet running blindly about?'
+[Wed Jul 25 23:44:16 2001] Yumenoteki tells the guild, 'man ... Oraden is fast'
+[Wed Jul 25 23:44:25 2001] Stewe shouts, 'That's a mean dark elf'
+[Wed Jul 25 23:44:28 2001] You say to your guild, 'hey, I'm answering some too ya know!'
+[Wed Jul 25 23:44:29 2001] Noumou shouts, 'i would run if i was you'
+[Wed Jul 25 23:44:37 2001] Oraden GMSAYS, 'ok... need some opinions... THIS IS A TEST....'
+[Wed Jul 25 23:44:38 2001] Yumenoteki tells the guild, 'LOL ... I know ...'
+[Wed Jul 25 23:44:40 2001] Yumenoteki GMSAYS, 'ok'
+[Wed Jul 25 23:44:40 2001] Pinekone says out of character, 'haha I snared pet killing him '
+[Wed Jul 25 23:44:45 2001] Kitihi shouts, 'what lvl is he?'
+[Wed Jul 25 23:44:52 2001] Huydun shouts, 'he's up there'
+[Wed Jul 25 23:44:52 2001] Kitihi shouts, 'his pet conned green'
+[Wed Jul 25 23:44:54 2001] Oraden GMSAYS, 'without the (zoning) part is that a clear zoning message?'
+[Wed Jul 25 23:44:55 2001] Noumou shouts, 'thanks pinekone'
+[Wed Jul 25 23:45:09 2001] Huydun shouts, 'dont go by that, dragoons always miscon'
+[Wed Jul 25 23:45:13 2001] Yumenoteki GMSAYS, 'nope'
+[Wed Jul 25 23:45:24 2001] You GMSAY, 'with "ok... need some opinions... THIS IS A TEST..."? That's a little vague.'
+[Wed Jul 25 23:45:24 2001] Oraden GMSAYS, 'bummer... =('
+[Wed Jul 25 23:45:27 2001] Kazir shouts, 'i dunno but just killed his pet'
+[Wed Jul 25 23:45:41 2001] Yumenoteki GMSAYS, 'when you zone, you're not zoned until you appear in another zone'
+[Wed Jul 25 23:45:41 2001] Oraden tells the group, 'rofl'
+[Wed Jul 25 23:45:56 2001] You tell your party, 'hej'
+[Wed Jul 25 23:45:58 2001] Pinekone says out of character, 'haha I snared'
+[Wed Jul 25 23:45:58 2001] You tell your party, 'heh'
+[Wed Jul 25 23:46:09 2001] Yumenoteki GMSAYS, 'then again, I guess there's multiple ways to look at your question'
+[Wed Jul 25 23:46:11 2001] Pinekone says out of character, 'tracking Z now'
+[Wed Jul 25 23:46:16 2001] Yumenoteki tells the guild, 'I like cshome ... nice quiet zone'
+[Wed Jul 25 23:46:29 2001] Kazir shouts, 'what lvl is he?'
+[Wed Jul 25 23:46:33 2001] Seraphyna begins to cast a spell. (Ignite)
+[Wed Jul 25 23:46:37 2001] Lobal tells you, 'do you knwo spawn time on avatar in CT?'
+[Wed Jul 25 23:46:40 2001] Seraphyna begins to cast a spell. (Ignite)
+[Wed Jul 25 23:46:42 2001] You say to your guild, 'I like searching around for a quiet but scenic dungeon in which to answer petitions.'
+[Wed Jul 25 23:46:43 2001] Meryl shouts, 'WTB tp to NK'
+[Wed Jul 25 23:46:45 2001] Huydun shouts, 'i dunno off the top of my head, higher than gix though'
+[Wed Jul 25 23:46:52 2001] You told Lobal, 'No, I do not... sorry...'
+[Wed Jul 25 23:46:57 2001] Yumenoteki tells the guild, 'kedge is nice unless they're having a raid'
+[Wed Jul 25 23:47:05 2001] Noumou says out of character, 'around 38 i think'
+[Wed Jul 25 23:47:08 2001] Oraden GMSAYS, 'ok... how about "ghosting from one zone to the next" ?'
+[Wed Jul 25 23:47:10 2001] Kazir shouts, 'well his pet sucks, hehe'
+[Wed Jul 25 23:47:12 2001] You say to your guild, 'bubbly sound gets to me. I like the Hole or Kaesora.'
+[Wed Jul 25 23:47:13 2001] Yumenoteki tells the guild, 'plus you get to work on your swiming skills'
+[Wed Jul 25 23:47:16 2001] Isobar says out of character, 'zytl?'
+[Wed Jul 25 23:47:17 2001] Kitihi shouts, 'hey gix cons blue to me should i take him?'
+[Wed Jul 25 23:47:22 2001] Wyndal shouts, 'Zytl is level 35'
+[Wed Jul 25 23:47:24 2001] Kromaxium shouts, 'ehehe no'
+[Wed Jul 25 23:47:24 2001] You GMSAY, 'that could work'
+[Wed Jul 25 23:47:24 2001] Isobar says out of character, 'hes underconned'
+[Wed Jul 25 23:47:26 2001] Yumenoteki tells the guild, 'ah ... I guide without sound'
+[Wed Jul 25 23:47:28 2001] Kazir shouts, 'someone needs to tell him to buy a better pet'
+[Wed Jul 25 23:47:29 2001] Espranza saved.
+[Wed Jul 25 23:47:34 2001] Huydun shouts, 'nope, gix is a miscon'
+[Wed Jul 25 23:47:52 2001] Seraphyna says out of character, 'he is a SK, their pets are always way lower than they are'
+[Wed Jul 25 23:48:00 2001] You say to your guild, 'Howling Stones is nice sometimes, but it's too bright. Chardok is another nice one.'
+[Wed Jul 25 23:48:06 2001] Yumenoteki GMSAYS, 'did you know the hackers had some of the CS commands for a bit, before they got banned?'
+[Wed Jul 25 23:48:08 2001] Isobar says out of character, 'ya'
+[Wed Jul 25 23:48:21 2001] Yumenoteki tells the guild, 'aye ... I like water since in full text mode, the colors look OK'
+[Wed Jul 25 23:48:26 2001] You GMSAY, 'news to me. thought we had a specialized client.'
+[Wed Jul 25 23:48:39 2001] Yumenoteki GMSAYS, 'they figured out how to get /zone to work'
+[Wed Jul 25 23:48:40 2001] Oraden GMSAYS, 'i had heard it...'
+[Wed Jul 25 23:48:50 2001] You say to your guild, 'try Siren's Grotto.'
+[Wed Jul 25 23:48:58 2001] USER TEXT: Why does the shuttle to FV from BB always announce the shuttles are leaving 10 minutes before they actually do?
+[Wed Jul 25 23:49:09 2001] Oraden GMSAYS, 'all a matter of making sure you pass the right packets to the server to get processes to work.'
+[Wed Jul 25 23:49:16 2001] Kitihi says out of character, 'what class is Gix?'
+[Wed Jul 25 23:49:19 2001] Yumenoteki tells the guild, 'where is that?'
+[Wed Jul 25 23:49:20 2001] Isobar says out of character, 'SK'
+[Wed Jul 25 23:49:34 2001] You told Gossomer, 'Hail, Gossomer! Guide Espranza here. It's been my experience that when the caller announces the shuttles are leaving, they usually are.'
+[Wed Jul 25 23:49:37 2001] Yumenoteki GMSAYS, 'aye ... '
+[Wed Jul 25 23:49:45 2001] You say to your guild, 'sirens or sirensgrotto'
+[Wed Jul 25 23:49:46 2001] Yumenoteki GMSAYS, 'speedhack is irritating on the PvP games I play'
+[Wed Jul 25 23:49:53 2001] Yumenoteki GMSAYS, 'zoning'
+[Wed Jul 25 23:49:56 2001] You say to your guild, 'between Cobalt Scar and Western Wastes'
+[Wed Jul 25 23:50:06 2001] Oraden GMSAYS, 'i think GMs have a different client... but I had not heard there was a guide client (just a guide account)'
+[Wed Jul 25 23:50:09 2001] Gossomer tells you, 'usually it is true except for the shuttle to FV... if you hang around there for a while you will see.'
+[Wed Jul 25 23:50:10 2001] Seraphyna begins to cast a spell. (Ignite)
+[Wed Jul 25 23:50:28 2001] You GMSAY, 'zone'
+[Wed Jul 25 23:50:29 2001] Gossomer tells you, 'thanks for getting back to me'
+[Wed Jul 25 23:50:32 2001] LOADING, PLEASE WAIT...
+[Wed Jul 25 23:51:01 2001] You have entered Butcherblock Mountains.
+[Wed Jul 25 23:51:02 2001] You have formed the group.
+[Wed Jul 25 23:51:11 2001] Yumenoteki GMSAYS, 'or they lagged you when you were near them'
+[Wed Jul 25 23:51:13 2001] Teleporting to magnus_boran00.
+[Wed Jul 25 23:51:15 2001] Gossomer tells you, 'the shuttle is announced as the Boat from Freeport arrives.. but it doesn not leave for 10 minutes or so.'
+[Wed Jul 25 23:51:39 2001] You told Gossomer, 'agh, I just missed the boats :('
+[Wed Jul 25 23:51:46 2001] Yumenoteki GMSAYS, 'zoned'
+[Wed Jul 25 23:51:46 2001] You told Gossomer, 'I'll make note of it. Thanks!'
+[Wed Jul 25 23:52:19 2001] Oraden GMSAYS, 'playing a PvP with a hack is about the same as editing data files in single player games... why bother to play if you always win'
+[Wed Jul 25 23:52:19 2001] You GMSAY, '<note issue> Petitioner claims the dock cryer in Butcherblock isn't synced up with the actual leaving of the shuttles for Timorous Deep'
+[Wed Jul 25 23:52:25 2001] Oraden GMSAYS, 'pulling kindachi'
+[Wed Jul 25 23:52:28 2001] DELETING THIS PETITION
+[Wed Jul 25 23:52:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Wed Jul 25 23:52:30 2001] USER TEXT: I was waiting on the shuttles in timorous, on my way to the boat, when I fell through it for some reason and wound up in the water just as shuttle was approaching the boat... couldn't board the boat from underneath, either
+[Wed Jul 25 23:52:30 2001] Players in EverQuest:
+[Wed Jul 25 23:52:30 2001] ---------------------------
+[Wed Jul 25 23:52:30 2001] [22 Bard] Kindachi (Half Elf) <Freeport Tavern> ZONE: timorous (USER PID GZCPCNQ)
+[Wed Jul 25 23:52:30 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:52:35 2001] UNDOING CHECK OUT
+[Wed Jul 25 23:52:38 2001] You GMSAY, 'sorry'
+[Wed Jul 25 23:52:41 2001] Yumenoteki GMSAYS, 'actually ... I think the reason behind that is ...'
+[Wed Jul 25 23:52:53 2001] Yumenoteki GMSAYS, 'so you have time to run to the boats'
+[Wed Jul 25 23:52:55 2001] Oraden GMSAYS, 'take it... hehe... i have done my appie bit... ;)'
+[Wed Jul 25 23:53:21 2001] You GMSAY, 'no, it's not like that on my play server. My non-porters take the boat a LOT.'
+[Wed Jul 25 23:53:34 2001] Oraden GMSAYS, 'while i am waiting for account info and getting buffed i am gonna enjoy chatting... '
+[Wed Jul 25 23:53:48 2001] Yumenoteki tells the guild, 'LOL'
+[Wed Jul 25 23:53:55 2001] Yumenoteki GMSAYS, 'chatting?  going to chat?'
+[Wed Jul 25 23:54:02 2001] Yumenoteki GMSAYS, 'boy ... are you going to learn'
+[Wed Jul 25 23:54:04 2001] Yumenoteki GMSAYS, 'zoning'
+[Wed Jul 25 23:54:34 2001] Oraden GMSAYS, 'was the thing that was brought up most... i tended to be too "gung ho" about clearing off pets.... that i needed to slow down and think first... ;)'
+[Wed Jul 25 23:54:49 2001] You GMSAY, 'on your test?'
+[Wed Jul 25 23:55:14 2001] Yumenoteki GMSAYS, 'what's the name of the boat in TD to firona vie?'
+[Wed Jul 25 23:55:22 2001] Oraden GMSAYS, 'on everything... too quick to want to warn... to quick to deny rez or to give rez or to assume facts...'
+[Wed Jul 25 23:55:26 2001] You GMSAY, 'Maidens Voyage'
+[Wed Jul 25 23:55:41 2001] Oraden tells the group, 'beat me too it ;)'
+[Wed Jul 25 23:55:42 2001] Yumenoteki GMSAYS, '?'
+[Wed Jul 25 23:55:51 2001] You GMSAY, 'Maidens Voyage'
+[Wed Jul 25 23:56:14 2001] Yumenoteki GMSAYS, 'too quick?'
+[Wed Jul 25 23:56:31 2001] Players in EverQuest:
+[Wed Jul 25 23:56:31 2001] ---------------------------
+[Wed Jul 25 23:56:31 2001] [7 Necromancer] Uumuur (Dark Elf) ZONE: nektulos (USER PID EU98XJ8)
+[Wed Jul 25 23:56:31 2001] There is 1 player in EverQuest.
+[Wed Jul 25 23:56:49 2001] Oraden GMSAYS, 'yeah... wanted to warn for guide harassment after only a third petition.... things like that.'
+[Wed Jul 25 23:57:02 2001] You say to your guild, 'well, speed is not the sole quality of a good guide'
+[Wed Jul 25 23:57:07 2001] Glisse Bluesea shouts 'The Maiden's Voyage has departed the outpost at Firiona Vie.  Please be ready to board the shuttles shortly, if you desire to make the journey to Kunark. 
+[Wed Jul 25 23:57:10 2001] Yumenoteki GMSAYS, 'you?'
+[Wed Jul 25 23:57:12 2001] Oraden GMSAYS, 'ever see the movie "say anything" with john cusack?'
+[Wed Jul 25 23:57:19 2001] You GMSAY, 'nope'
+[Wed Jul 25 23:57:25 2001] Yumenoteki tells the guild, 'patience is the biggest thing ... and empathy ... for me that is'
+[Wed Jul 25 23:58:04 2001] You say to your guild, 'heh... when he said "told them good luck with cr"...'
+[Wed Jul 25 23:58:05 2001] Oraden GMSAYS, 'there is a sceen where john is guarding the keys at a high school party (no drunk drivers policy) ...'
+[Wed Jul 25 23:58:06 2001] Yumenoteki tells the guild, 'I don't give soulmarks unless player is unrepentant ... it actually takes a bit'
+[Wed Jul 25 23:58:28 2001] You say to your guild, 'I'll soulmark exploiters right away'
+[Wed Jul 25 23:58:29 2001] Oraden GMSAYS, 'this super hyper guy jumps him and begs for his keys....'
+[Wed Jul 25 23:59:27 2001] Oraden GMSAYS, 'and john grabs him and shouts right in his face "chill... you MUST CHILL... I have HIDDEN your KEYS..." .... that was sort of the message i got... '
+[Wed Jul 25 23:59:48 2001] List of Friends
+[Wed Jul 25 23:59:48 2001] -----------------
+[Wed Jul 25 23:59:48 2001] Kiksar
+[Wed Jul 25 23:59:48 2001] Boodah
+[Wed Jul 25 23:59:48 2001] Qithal
+[Wed Jul 25 23:59:48 2001] Vdien
+[Wed Jul 25 23:59:48 2001] Gubbern
+[Wed Jul 25 23:59:48 2001] Meirin
+[Wed Jul 25 23:59:48 2001] Tuluvdar
+[Wed Jul 25 23:59:48 2001] Tutonka
+[Wed Jul 25 23:59:48 2001] Katna
+[Wed Jul 25 23:59:48 2001] Jonka
+[Wed Jul 25 23:59:48 2001] Plaffle
+[Wed Jul 25 23:59:48 2001] Jumjum
+[Wed Jul 25 23:59:48 2001] Synzei
+[Wed Jul 25 23:59:48 2001] Kraagaoth
+[Wed Jul 25 23:59:48 2001] Tatiri
+[Wed Jul 25 23:59:48 2001] Rellic
+[Wed Jul 25 23:59:48 2001] Larainy
+[Wed Jul 25 23:59:48 2001] Laodorf
+[Wed Jul 25 23:59:48 2001] Lilass
+[Wed Jul 25 23:59:48 2001] Linkinn
+[Wed Jul 25 23:59:48 2001] Zildrax
+[Wed Jul 25 23:59:48 2001] Choto
+[Wed Jul 25 23:59:48 2001] inthabut
+[Wed Jul 25 23:59:48 2001] Stradivarius
+[Wed Jul 25 23:59:48 2001] Lilyenn
+[Wed Jul 25 23:59:48 2001] You have 25 friend(s).
+[Wed Jul 25 23:59:55 2001] Lilyenn is no longer your friend.
+[Thu Jul 26 00:00:00 2001] Stradivarius is no longer your friend.
+[Thu Jul 26 00:00:08 2001] inthabut is no longer your friend.
+[Thu Jul 26 00:00:13 2001] Choto is no longer your friend.
+[Thu Jul 26 00:00:18 2001] Zildrax is no longer your friend.
+[Thu Jul 26 00:00:22 2001] Linkinn is no longer your friend.
+[Thu Jul 26 00:00:23 2001] Yumenoteki GMSAYS, 'heh heh'
+[Thu Jul 26 00:00:31 2001] Lilass is no longer your friend.
+[Thu Jul 26 00:00:33 2001] List of Friends
+[Thu Jul 26 00:00:33 2001] -----------------
+[Thu Jul 26 00:00:33 2001] Kiksar
+[Thu Jul 26 00:00:33 2001] Boodah
+[Thu Jul 26 00:00:33 2001] Qithal
+[Thu Jul 26 00:00:33 2001] Vdien
+[Thu Jul 26 00:00:33 2001] Gubbern
+[Thu Jul 26 00:00:33 2001] Meirin
+[Thu Jul 26 00:00:33 2001] Tuluvdar
+[Thu Jul 26 00:00:33 2001] Tutonka
+[Thu Jul 26 00:00:33 2001] Katna
+[Thu Jul 26 00:00:33 2001] Jonka
+[Thu Jul 26 00:00:33 2001] Plaffle
+[Thu Jul 26 00:00:33 2001] Jumjum
+[Thu Jul 26 00:00:33 2001] Synzei
+[Thu Jul 26 00:00:33 2001] Kraagaoth
+[Thu Jul 26 00:00:33 2001] Tatiri
+[Thu Jul 26 00:00:33 2001] Rellic
+[Thu Jul 26 00:00:33 2001] Larainy
+[Thu Jul 26 00:00:33 2001] Laodorf
+[Thu Jul 26 00:00:33 2001] You have 18 friend(s).
+[Thu Jul 26 00:00:39 2001] Oraden GMSAYS, 'guess you had to see the movie... ;)'
+[Thu Jul 26 00:00:47 2001] Yumenoteki GMSAYS, 'aye'
+[Thu Jul 26 00:00:57 2001] Yumenoteki tells the guild, 'whoa ... our tools don't work on boat anymore'
+[Thu Jul 26 00:01:05 2001] Espranza saved.
+[Thu Jul 26 00:01:06 2001] You say to your guild, 'I reported that awhile ago )'
+[Thu Jul 26 00:01:06 2001] Jaxus GMSAYS, 'Hi guys'
+[Thu Jul 26 00:01:12 2001] You GMSAY, 'heya Jaxus!'
+[Thu Jul 26 00:01:13 2001] Yumenoteki GMSAYS, 'hiya Jaxus'
+[Thu Jul 26 00:01:19 2001] Oraden GMSAYS, 'greets jaxus'
+[Thu Jul 26 00:01:19 2001] Jaxus GMSAYS, '=)'
+[Thu Jul 26 00:01:29 2001] Jaxus GMSAYS, 'How goes it?'
+[Thu Jul 26 00:01:37 2001] Oraden GMSAYS, 'passed my test ;)'
+[Thu Jul 26 00:01:43 2001] You GMSAY, 'Jaxus, before you get all settled in, could you get a GM to read a report on Uumuur?'
+[Thu Jul 26 00:01:44 2001] Jaxus GMSAYS, 'Grats =)'
+[Thu Jul 26 00:01:45 2001] Yumenoteki tells the guild, 'I guess they were prepping for the bard modification'
+[Thu Jul 26 00:01:54 2001] Yumenoteki GMSAYS, 'heh heh'
+[Thu Jul 26 00:02:01 2001] Your feet leave the ground.
+[Thu Jul 26 00:02:11 2001] Yumenoteki GMSAYS, 'whoa ... I fell through boat'
+[Thu Jul 26 00:02:13 2001] Jaxus GMSAYS, 'sure, what will he be looking for?'
+[Thu Jul 26 00:02:24 2001] You GMSAY, 'someone saying "ass" I believe'
+[Thu Jul 26 00:02:33 2001] Jaxus GMSAYS, 'lol ok...'
+[Thu Jul 26 00:02:35 2001] You GMSAY, 'someone reported it as offensive'
+[Thu Jul 26 00:02:48 2001] You no longer have a target.
+[Thu Jul 26 00:02:50 2001] You no longer have a target.
+[Thu Jul 26 00:03:13 2001] Jaxus GMSAYS, '*rolls his eyes* ok logging in a sec =)'
+[Thu Jul 26 00:03:29 2001] You GMSAY, 'I don't think it's warnable but I said I would get the pet read'
+[Thu Jul 26 00:03:32 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:16 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:16 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:16 2001] You can't use that command right now...
+[Thu Jul 26 00:04:16 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:18 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:18 2001] You can't use that command right now...
+[Thu Jul 26 00:04:18 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:18 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:19 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:19 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:19 2001] You can't use that command right now...
+[Thu Jul 26 00:04:19 2001] You can't use that command right now...
+[Thu Jul 26 00:04:20 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:20 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:20 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:20 2001] Jaxus GMSAYS, 'brb'
+[Thu Jul 26 00:04:20 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:21 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:21 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:21 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:45 2001] Your feet leave the ground.
+[Thu Jul 26 00:04:46 2001] You feel the spirit of Norrath enter you.
+[Thu Jul 26 00:05:00 2001] Searching for captains_skiff00.
+[Thu Jul 26 00:05:00 2001] Could not locate player with that name.
+[Thu Jul 26 00:07:53 2001] Yumenoteki GMSAYS, 'tommorrow is early work so I must be off'
+[Thu Jul 26 00:08:14 2001] You GMSAY, 'okay, oyasumi'
+[Thu Jul 26 00:08:28 2001] Players in EverQuest:
+[Thu Jul 26 00:08:28 2001] ---------------------------
+[Thu Jul 26 00:08:28 2001] * Apprentice Guide *[20 Monk] Oraden (Human) ZONE: fieldofbone (USER PID ATWFJ36)
+[Thu Jul 26 00:08:28 2001] * Guide *[50 Monk] Yumenoteki (Human) <Keepers of Morell Thule> ZONE: firiona (USER PID HT3SRT4)
+[Thu Jul 26 00:08:28 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: butcher (USER PID AUGBQH4)
+[Thu Jul 26 00:08:28 2001] There are 3 players in EverQuest.
+[Thu Jul 26 00:08:30 2001] Yumenoteki GMSAYS, 'oyasuminasai ... espranza-chan'
+[Thu Jul 26 00:08:35 2001] Yumenoteki GMSAYS, 'ogenki de ne'
+[Thu Jul 26 00:08:37 2001] Yumenoteki GMSAYS, 'jya ne'
+[Thu Jul 26 00:08:43 2001] You GMSAY, 'okagesama de'
+[Thu Jul 26 00:08:55 2001] Edaena says out of character, 'anyone porting to lavastorm?'
+[Thu Jul 26 00:10:59 2001] Glisse Bluesea shouts 'The Maiden's Voyage is now ready to be boarded.  Please form an orderly line to the shuttles, and remember, no pushing! 
+[Thu Jul 26 00:11:15 2001] Espranza saved.
+[Thu Jul 26 00:11:16 2001] Edaena says out of character, 'anyone porting to lavastorm?'
+[Thu Jul 26 00:11:40 2001] Players in EverQuest:
+[Thu Jul 26 00:11:40 2001] ---------------------------
+[Thu Jul 26 00:11:40 2001] * Apprentice Guide *[20 Monk] Oraden (Human) ZONE: fieldofbone (USER PID ATWFJ36)
+[Thu Jul 26 00:11:40 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: butcher (USER PID AUGBQH4)
+[Thu Jul 26 00:11:40 2001] There are 2 players in EverQuest.
+[Thu Jul 26 00:12:06 2001] Teleporting to Captains_Skiff00 (452.00, 3787.00, -13.00).
+[Thu Jul 26 00:12:18 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:18 2001] You can't use that command right now...
+[Thu Jul 26 00:12:18 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:19 2001] You can't use that command right now...
+[Thu Jul 26 00:12:19 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:19 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:19 2001] You can't use that command right now...
+[Thu Jul 26 00:12:19 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:19 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:20 2001] You can't use that command right now...
+[Thu Jul 26 00:12:20 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:20 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:20 2001] You can't use that command right now...
+[Thu Jul 26 00:12:20 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:21 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:21 2001] You can't use that command right now...
+[Thu Jul 26 00:12:21 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:21 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:21 2001] You can't use that command right now...
+[Thu Jul 26 00:12:21 2001] You can't use that command right now...
+[Thu Jul 26 00:12:22 2001] You can't use that command right now...
+[Thu Jul 26 00:12:22 2001] You can't use that command right now...
+[Thu Jul 26 00:12:22 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:22 2001] You can't use that command right now...
+[Thu Jul 26 00:12:22 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:23 2001] You can't use that command right now...
+[Thu Jul 26 00:12:23 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:23 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:23 2001] You can't use that command right now...
+[Thu Jul 26 00:12:23 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:24 2001] You can't use that command right now...
+[Thu Jul 26 00:12:24 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:24 2001] You can't use that command right now...
+[Thu Jul 26 00:12:24 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:24 2001] You can't use that command right now...
+[Thu Jul 26 00:12:24 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:25 2001] Your feet leave the ground.
+[Thu Jul 26 00:12:25 2001] You can't use that command right now...
+[Thu Jul 26 00:12:25 2001] Your feet leave the ground.
+[Thu Jul 26 00:13:03 2001] Players in EverQuest:
+[Thu Jul 26 00:13:03 2001] ---------------------------
+[Thu Jul 26 00:13:03 2001] [25 Monk] Gossomer (Human) <United Guardians> ZONE: lakeofillomen (USER PID BW1XTBS)
+[Thu Jul 26 00:13:03 2001] There is 1 player in EverQuest.
+[Thu Jul 26 00:13:25 2001] LOADING, PLEASE WAIT...
+[Thu Jul 26 00:14:01 2001] You have entered Timorous Deep.
+[Thu Jul 26 00:14:01 2001] You have formed the group.
+[Thu Jul 26 00:14:10 2001] You GMSAY, 'surprise zone'
+[Thu Jul 26 00:14:51 2001] It begins to rain.
+[Thu Jul 26 00:14:57 2001] Oraden GMSAYS, 'hehe... me too.... kurnark zone line always sneak up on me'
+[Thu Jul 26 00:15:16 2001] You told Gossomer, 'Hail, Gossomer! Guide Espranza here. The messages seem to come at the right times - first comes the one when it is leaving Firiona Vie, the second when it arrives at Butcherblock Mountains'
+[Thu Jul 26 00:15:22 2001] Jaxus GMSAYS, 'back, GM said there was no report from that person.'
+[Thu Jul 26 00:15:40 2001] You GMSAY, 'okay, thanks for checking'
+[Thu Jul 26 00:15:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 26 00:15:43 2001] USER TEXT: uumuur
+[Thu Jul 26 00:15:43 2001] Players in EverQuest:
+[Thu Jul 26 00:15:43 2001] ---------------------------
+[Thu Jul 26 00:15:43 2001] [5 Warrior] Skrabb (Ogre) ZONE: najena (USER PID AXKT9XM)
+[Thu Jul 26 00:15:43 2001] There is 1 player in EverQuest.
+[Thu Jul 26 00:15:51 2001] Jaxus GMSAYS, 'no problem'
+[Thu Jul 26 00:16:25 2001] Gossomer tells you, 'ok thanks.... '
+[Thu Jul 26 00:16:46 2001] Oraden GMSAYS, 'too bad no one on for becomes... got enough to do a quick event :)'
+[Thu Jul 26 00:16:59 2001] You GMSAY, 'Skrabb AXKT9XM said that since he was warned for using a bad word in a public channel, he would be reporting and petitioning on every example of this from somewhere else. His report on Uumuur didn't go through.'
+[Thu Jul 26 00:17:03 2001] DELETING THIS PETITION
+[Thu Jul 26 00:17:28 2001] You GMSAY, 'more than just doing becomes, have to copy the chars over and that requires a GM to do.'
+[Thu Jul 26 00:18:00 2001] Jaxus GMSAYS, 'Tell him next time to get something better then ass, the GM wants an X-rated short story.'
+[Thu Jul 26 00:18:06 2001] Oraden GMSAYS, 'doesn't that strike anyone else as, well... vendictive, petty, small-minded, intractable, and just generally anoying? *grin*'
+[Thu Jul 26 00:18:15 2001] You GMSAY, 'ya know, I just don't know what to do about those pets.'
+[Thu Jul 26 00:18:31 2001] Glairb Stonebelly shouts 'Too bad, you missed da Bloated Belly.  It be back soon, though! 
+[Thu Jul 26 00:18:38 2001] You GMSAY, 'yes, Oraden... but we can't change what we do base on what the players seem to us.'
+[Thu Jul 26 00:18:51 2001] You GMSAY, 'everyone gets the same level of customer service.'
+[Thu Jul 26 00:19:13 2001] You GMSAY, 'whether or not they like it :)'
+[Thu Jul 26 00:19:51 2001] Oraden GMSAYS, 'oh i agree... but i would mention my view to the player... that his first warning should be his last... and that it was just a warning and should be viewed as a learning event not a reason to fight the world. ;)'
+[Thu Jul 26 00:20:10 2001] You GMSAY, 'I try to avoid arguments with players.'
+[Thu Jul 26 00:20:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Jul 26 00:20:48 2001] USER TEXT: In Crushbone I waited for rondo dunfire to spawn. when he finally did he suddenly vanished along with the slave he spawns beside.
+[Thu Jul 26 00:20:49 2001] Players in EverQuest:
+[Thu Jul 26 00:20:49 2001] ---------------------------
+[Thu Jul 26 00:20:49 2001] [12 Rogue] Daevyn (Wood Elf) ZONE: crushbone (USER PID BYE9RD5)
+[Thu Jul 26 00:20:49 2001] There is 1 player in EverQuest.
+[Thu Jul 26 00:21:13 2001] You GMSAY, 'zone'
+[Thu Jul 26 00:21:19 2001] LOADING, PLEASE WAIT...
+[Thu Jul 26 00:21:44 2001] You have entered Crushbone.
+[Thu Jul 26 00:21:44 2001] Daevyn shouts, 'if you happen to come across rondo dunfire and kill him.... I need his tongue'
+[Thu Jul 26 00:21:44 2001] You have formed the group.
+[Thu Jul 26 00:21:52 2001] Searching for rondo_dunfire00.
+[Thu Jul 26 00:21:53 2001] Could not locate player with that name.
+[Thu Jul 26 00:22:52 2001] Teleporting to daevyn.
+[Thu Jul 26 00:23:02 2001] You wave at Daevyn.
+[Thu Jul 26 00:23:06 2001] Daevyn says, 'Hail, Espranza'
+[Thu Jul 26 00:23:22 2001] You told Daevyn, 'Hail, Daevyn! Guide Espranza here... I don't see that dwarf annywhere around.'
+[Thu Jul 26 00:23:31 2001] You told Daevyn, 'It's not possible someone pulled him?'
+[Thu Jul 26 00:23:48 2001] Countryboy shouts, 'is there a TR group?'
+[Thu Jul 26 00:24:06 2001] Daevyn tells you, 'he spawned the suddenly vanished...Countryboy was backing me up for the spawn he saw it too'
+[Thu Jul 26 00:24:32 2001] You GMSAY, 'wow... level 12 rogue in crystal chitin and gnome skin... pretty hard dungeons for such a low level character.'
+[Thu Jul 26 00:24:58 2001] Oraden GMSAYS, 'he's just really talented espranza ;)'
+[Thu Jul 26 00:25:08 2001] You GMSAY, 'I'm certain that's it'
+[Thu Jul 26 00:25:21 2001] You feel as if you are about to fall.
+[Thu Jul 26 00:25:23 2001] You told Daevyn, 'Okay, I'll report it in my shift report, someone will have to check on his spawn.'
+[Thu Jul 26 00:25:27 2001] You feel as if you are about to fall.
+[Thu Jul 26 00:25:33 2001] Daevyn tells you, 'I just need his tongue...lol   I have all the others'
+[Thu Jul 26 00:25:34 2001] You can no longer levitate.
+[Thu Jul 26 00:26:02 2001] You GMSAY, '<note issue> Rondo Dunfire spawned in Crushbone and then vanished; wasn't pulled or anything. Needed for a quest.'
+[Thu Jul 26 00:26:06 2001] Yelowstar begins to cast a spell. (Light Healing)
+[Thu Jul 26 00:26:15 2001] You told Daevyn, 'Okay, I left a note for someone to check up on him.'
+[Thu Jul 26 00:26:21 2001] DELETING THIS PETITION
+[Thu Jul 26 00:26:28 2001] Daevyn tells you, 'thanks for your time'
+[Thu Jul 26 00:26:31 2001] You told Daevyn, 'be well!'
+[Thu Jul 26 00:26:33 2001] You wave goodbye to Daevyn.
+[Thu Jul 26 00:26:34 2001] You GMSAY, 'zone'
+[Thu Jul 26 00:26:38 2001] Daevyn waves goodbye to Espranza.
+[Thu Jul 26 00:26:42 2001] LOADING, PLEASE WAIT...
+[Thu Jul 26 00:27:05 2001] You have entered Sunset Home.
+[Thu Jul 26 00:27:05 2001] You have formed the group.
+[Thu Jul 26 00:30:01 2001] You GMSAY, 'well, I officially deem the queue "cleared"...'
+[Thu Jul 26 00:30:09 2001] You GMSAY, 'in celebration I am going to sleep.'
+[Thu Jul 26 00:30:14 2001] Oraden GMSAYS, 'zoned (late again... kunark zonelines)'
+[Thu Jul 26 00:30:28 2001] Oraden GMSAYS, '*cheer espranza*'
+[Thu Jul 26 00:30:34 2001] You GMSAY, 'night all!'
+[Thu Jul 26 00:30:41 2001] You say to your guild, 'Oraden is all yours, Matey!'
+[Thu Jul 26 00:30:43 2001] Oraden GMSAYS, '*wave* Be well and walk in beauty Espranza.'
+[Thu Jul 26 00:30:46 2001] It will take you about 30 seconds to prepare your camp.
+[Thu Jul 26 00:30:48 2001] Oraden tells the group, '*bow*'
+[Thu Jul 26 00:30:49 2001] Your group has been disbanded.
+[Thu Jul 26 00:30:50 2001] It will take about 25 more seconds to prepare your camp.
+[Thu Jul 26 00:30:52 2001] You GMSAY, 'I will certainly try, friend!'
+[Thu Jul 26 00:30:55 2001] It will take about 20 more seconds to prepare your camp.
+[Thu Jul 26 00:30:57 2001] Players in EverQuest:
+[Thu Jul 26 00:30:57 2001] ---------------------------
+[Thu Jul 26 00:30:57 2001] * Guide *[50 Rogue] Jaxus (Dark Elf) <Keepers of Morell Thule> ZONE: eastwastes (USER PID DUGA6TS)
+[Thu Jul 26 00:30:57 2001] * Apprentice Guide *[20 Monk] Oraden (Human) ZONE: firiona (USER PID ATWFJ36)
+[Thu Jul 26 00:30:57 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Thu Jul 26 00:30:57 2001] There are 3 players in EverQuest.
+[Thu Jul 26 00:31:00 2001] It will take about 15 more seconds to prepare your camp.
+[Thu Jul 26 00:31:05 2001] It will take about 10 more seconds to prepare your camp.
+[Thu Jul 26 00:31:10 2001] It will take about 5 more seconds to prepare your camp.
+[Thu Jul 26 00:31:16 2001] Oraden GMSAYS, 'jaxus you want to come pick me up....'

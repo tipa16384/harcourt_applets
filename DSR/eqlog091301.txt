@@ -1,0 +1,474 @@
+[Thu Sep 13 06:53:58 2001] Welcome to EverQuest!
+[Thu Sep 13 06:53:58 2001] You have entered Sunset Home.
+[Thu Sep 13 06:53:58 2001] MESSAGE OF THE DAY: Welcome to Morell Thule!  Please note that GM's and guides will NEVER ask for your password in game or otherwise.
+[Thu Sep 13 06:54:00 2001] Players in EverQuest:
+[Thu Sep 13 06:54:00 2001] ---------------------------
+[Thu Sep 13 06:54:00 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Sep 13 06:54:00 2001] There is 1 player in EverQuest.
+[Thu Sep 13 06:54:07 2001] You GMSAY, 'hiya!'
+[Thu Sep 13 06:54:12 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 13 06:54:12 2001] USER TEXT: WTF is up with invisible stuff in LGUK killing my controled pet
+[Thu Sep 13 06:54:12 2001] Players in EverQuest:
+[Thu Sep 13 06:54:12 2001] ---------------------------
+[Thu Sep 13 06:54:12 2001] [ANON (45 Necromancer)] Lome (Dark Elf) ZONE: gukbottom (USER PID CWJMB30)
+[Thu Sep 13 06:54:12 2001] There is 1 player in EverQuest.
+[Thu Sep 13 06:54:48 2001] You told Lome, 'Hail, Lome! Guide Espranza here. Do you recall the exact name of the monster that was attacking your pet?'
+[Thu Sep 13 06:56:03 2001] Lome tells you, 'no.. it aggroed thru the floor.. it was a ghoul knight.. not sure if wan or zan or what.. but, it aggroed thru the floor. I know this because once the pet was finished.. 10 more came from downstairs at us and killed me'
+[Thu Sep 13 06:56:43 2001] You told Lome, 'I'll look around and see if I can find it...'
+[Thu Sep 13 06:56:46 2001] STATUS UPGRADED TO URGENT
+[Thu Sep 13 06:56:47 2001] CHECKING IN
+[Thu Sep 13 06:56:49 2001] You GMSAY, 'zone'
+[Thu Sep 13 06:56:52 2001] LOADING, PLEASE WAIT...
+[Thu Sep 13 06:57:18 2001] You have entered Ruins of Old Guk.
+[Thu Sep 13 06:57:35 2001] Searching for a_wan_ghoul_knight00.
+[Thu Sep 13 06:57:36 2001] Could not locate player with that name.
+[Thu Sep 13 06:57:38 2001] Searching for a_wan_ghoul_knight01.
+[Thu Sep 13 06:57:39 2001] Player is in zone gukbottom at x = 602 y = -612 z = -164.
+[Thu Sep 13 06:57:40 2001] Lome tells you, 'we were in the tower.. cleared the entry level. I parked pet and we were medding up to move on when it happened'
+[Thu Sep 13 06:57:49 2001] Teleporting to a_wan_ghoul_knight01.
+[Thu Sep 13 06:57:57 2001] Evilblys begins to cast a spell. (Greater Healing)
+[Thu Sep 13 06:57:59 2001] Teleporting to a_wan_ghoul_knight02.
+[Thu Sep 13 06:58:02 2001] Teleporting to a_wan_ghoul_knight03.
+[Thu Sep 13 06:58:04 2001] Teleporting to a_wan_ghoul_knight04.
+[Thu Sep 13 06:58:08 2001] Evilblys begins to cast a spell. (Invisibility versus Undead)
+[Thu Sep 13 06:58:09 2001] Teleporting to a_wan_ghoul_knight05.
+[Thu Sep 13 06:58:12 2001] Teleporting to a_wan_ghoul_knight06.
+[Thu Sep 13 06:58:14 2001] Teleporting to a_wan_ghoul_knight06.
+[Thu Sep 13 06:58:16 2001] Teleporting to a_wan_ghoul_knight07.
+[Thu Sep 13 06:58:18 2001] Teleporting to a_wan_ghoul_knight08.
+[Thu Sep 13 06:58:19 2001] an urd ghoul wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Thu Sep 13 06:58:23 2001] an urd ghoul wizard begins to cast a spell. (O'Keils Radiation)
+[Thu Sep 13 06:58:24 2001] Teleporting to a_wan_ghoul_knight09.
+[Thu Sep 13 06:58:28 2001] Teleporting to a_wan_ghoul_knight10.
+[Thu Sep 13 06:58:35 2001] Teleporting to a_wan_ghoul_knight11.
+[Thu Sep 13 06:58:41 2001] Teleporting to a_wan_ghoul_knight12.
+[Thu Sep 13 06:58:47 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 13 06:58:47 2001] USER TEXT: excuse me
+[Thu Sep 13 06:58:48 2001] Players in EverQuest:
+[Thu Sep 13 06:58:48 2001] ---------------------------
+[Thu Sep 13 06:58:48 2001] [53 Elementalist] Densita (High Elf) <Travelers in Mist> ZONE: freportw (USER PID BUP3A2Z)
+[Thu Sep 13 06:58:48 2001] There is 1 player in EverQuest.
+[Thu Sep 13 06:59:01 2001] You told Densita, 'Hail, Densita! Guide Espranza here. How may I help you?'
+[Thu Sep 13 06:59:02 2001] Players on EverQuest:
+[Thu Sep 13 06:59:02 2001] ---------------------------
+[Thu Sep 13 06:59:02 2001] [60 Crusader] Fininbird (High Elf)
+[Thu Sep 13 06:59:02 2001] [ANONYMOUS] Sumeragi 
+[Thu Sep 13 06:59:02 2001] [ANONYMOUS] Stagechamp  <Sixteenth Notes>
+[Thu Sep 13 06:59:02 2001] [ANONYMOUS] Stagechop 
+[Thu Sep 13 06:59:02 2001] [ANONYMOUS] Mizosan 
+[Thu Sep 13 06:59:02 2001] [47 Warrior] Potan (Half Elf) <Phantom Knights>
+[Thu Sep 13 06:59:02 2001] [46 Paladin] Ranpei (Dwarf) <Phantom Knights>
+[Thu Sep 13 06:59:02 2001] [45 Cleric] Amestilo (Human) <Phantom Knights>
+[Thu Sep 13 06:59:02 2001] [36 Druid] Sattimo (Halfling) <Phantom Knights>
+[Thu Sep 13 06:59:02 2001] [ANONYMOUS] Evilblys  <House Rea`Morda>
+[Thu Sep 13 06:59:02 2001] [52 Disciple] Jonwoo (Iksar) <Leaders of Honor>
+[Thu Sep 13 06:59:02 2001] [ANONYMOUS] Lome  <Leaders of Honor>
+[Thu Sep 13 06:59:02 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Sep 13 06:59:02 2001] There are 13 players in Lower Guk.
+[Thu Sep 13 06:59:13 2001] Players in EverQuest:
+[Thu Sep 13 06:59:13 2001] ---------------------------
+[Thu Sep 13 06:59:13 2001] There are no players in EverQuest that match those who filters.
+[Thu Sep 13 06:59:19 2001] Densita tells you, 'ok i want help'
+[Thu Sep 13 06:59:20 2001] Players in EverQuest:
+[Thu Sep 13 06:59:20 2001] ---------------------------
+[Thu Sep 13 06:59:20 2001] There are no players in EverQuest that match those who filters.
+[Thu Sep 13 06:59:41 2001] Ranpei begins to cast a spell. (Stun)
+[Thu Sep 13 06:59:46 2001] Ranpei begins to cast a spell. (Yaulp II)
+[Thu Sep 13 06:59:54 2001] Sattimo begins to cast a spell. (Drones of Doom)
+[Thu Sep 13 06:59:59 2001] Amestilo begins to cast a spell. (Banish Undead)
+[Thu Sep 13 07:00:03 2001] Densita tells you, 'where?'
+[Thu Sep 13 07:00:28 2001] You told Lome, 'I can't find any froggies that look like they're bugged... I'll report it as an odd aggro issue and see if anyone else has heard of something similar.'
+[Thu Sep 13 07:00:33 2001] You told Densita, 'How may I help you?'
+[Thu Sep 13 07:00:43 2001] Lome tells you, 'k thnx'
+[Thu Sep 13 07:00:45 2001] Sattimo begins to cast a spell. (Shield of Brambles)
+[Thu Sep 13 07:00:49 2001] You feel as if you are about to fall.
+[Thu Sep 13 07:00:50 2001] Players in EverQuest:
+[Thu Sep 13 07:00:50 2001] ---------------------------
+[Thu Sep 13 07:00:50 2001] [ANON (45 Necromancer)] Lome (Dark Elf) ZONE: gukbottom (USER PID CWJMB30)
+[Thu Sep 13 07:00:50 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:00:50 2001] Amestilo begins to cast a spell. (Celestial Healing)
+[Thu Sep 13 07:00:54 2001] a tal ghoul wizard begins to cast a spell. (O'Keils Radiation)
+[Thu Sep 13 07:00:55 2001] You feel as if you are about to fall.
+[Thu Sep 13 07:00:55 2001] Densita tells you, 'horgurdar is my sword..run a way'
+[Thu Sep 13 07:00:58 2001] Amestilo begins to cast a spell. (Greater Healing)
+[Thu Sep 13 07:00:58 2001] Ranpei begins to cast a spell. (Stun)
+[Thu Sep 13 07:01:01 2001] You can no longer levitate.
+[Thu Sep 13 07:01:07 2001] Sattimo begins to cast a spell. (Ensnare)
+[Thu Sep 13 07:01:12 2001] Lome tells you, 'if something can aggro thru barriers, is it the beast or the structure that is bugged?'
+[Thu Sep 13 07:01:14 2001] Ranpei begins to cast a spell. (Stun)
+[Thu Sep 13 07:01:16 2001] Sattimo begins to cast a spell. (Ensnare)
+[Thu Sep 13 07:01:23 2001] Sattimo begins to cast a spell. (Shield of Brambles)
+[Thu Sep 13 07:01:30 2001] Ranpei begins to cast a spell. (Stun)
+[Thu Sep 13 07:01:33 2001] You GMSAY, '<note> Lome CWJMB30 reports his parked pet aggroed stuff from another floor in Lower Guk.'
+[Thu Sep 13 07:01:34 2001] Sattimo begins to cast a spell. (Drones of Doom)
+[Thu Sep 13 07:01:39 2001] Amestilo begins to cast a spell. (Celestial Healing)
+[Thu Sep 13 07:01:47 2001] Densita tells you, 'now he is here have'
+[Thu Sep 13 07:01:49 2001] Ranpei begins to cast a spell. (Stun)
+[Thu Sep 13 07:01:49 2001] You told Lome, 'It would depend on what happened...'
+[Thu Sep 13 07:01:56 2001] Ranpei begins to cast a spell. (Yaulp II)
+[Thu Sep 13 07:02:04 2001] Ranpei begins to cast a spell. (Stun)
+[Thu Sep 13 07:02:14 2001] You told Densita, 'I don't understand.'
+[Thu Sep 13 07:02:17 2001] Players in EverQuest:
+[Thu Sep 13 07:02:17 2001] ---------------------------
+[Thu Sep 13 07:02:17 2001] [53 Elementalist] Densita (High Elf) <Travelers in Mist> ZONE: freportw (USER PID BUP3A2Z)
+[Thu Sep 13 07:02:17 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:02:40 2001] DELETING THIS PETITION
+[Thu Sep 13 07:02:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 13 07:02:42 2001] USER TEXT: WTF is up with invisible stuff in LGUK killing my controled pet
+[Thu Sep 13 07:02:42 2001] Players in EverQuest:
+[Thu Sep 13 07:02:42 2001] ---------------------------
+[Thu Sep 13 07:02:42 2001] [ANON (45 Necromancer)] Lome (Dark Elf) ZONE: gukbottom (USER PID CWJMB30)
+[Thu Sep 13 07:02:42 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:02:43 2001] DELETING THIS PETITION
+[Thu Sep 13 07:02:45 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 13 07:02:45 2001] USER TEXT: Hail, wouldnt the name Darkoutlaw be a name that needs to be changed? cus its a phrase and all
+[Thu Sep 13 07:02:45 2001] Players in EverQuest:
+[Thu Sep 13 07:02:45 2001] ---------------------------
+[Thu Sep 13 07:02:45 2001] [55 Beguiler] Kelmore (High Elf) <Thunderwalkers> ZONE: greatdivide (USER PID HNZYKQ0)
+[Thu Sep 13 07:02:45 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:02:57 2001] Players in EverQuest:
+[Thu Sep 13 07:02:57 2001] ---------------------------
+[Thu Sep 13 07:02:57 2001] [17 Necromancer] Zoah (Dark Elf) <Destinys Disciples> ZONE: oasis (USER PID DXYVAJ7)
+[Thu Sep 13 07:02:57 2001] [54 Vicar] Marvelous (Dark Elf) ZONE: freportw (USER PID DPYDZF1)
+[Thu Sep 13 07:02:57 2001] [27 Enchanter] Calystra (Dark Elf) <Chaos Harvesters> ZONE: neriakb (USER PID ET6EF5Q)
+[Thu Sep 13 07:02:57 2001] [6 Cleric] Jobel (Dark Elf) ZONE: neriaka (USER PID ETLNHVU)
+[Thu Sep 13 07:02:57 2001] [10 Magician] Taoshin (Dark Elf) <Sharp Shards> ZONE: ecommons (USER PID HUD606D)
+[Thu Sep 13 07:02:57 2001] [1 Wizard] Hasu (Dark Elf) ZONE: neriakc (USER PID H0MEN1Q)
+[Thu Sep 13 07:02:57 2001] [46 Necromancer] Cyndrome (Dark Elf) <Restless Virtues> ZONE: overthere (USER PID GQGUEUN)
+[Thu Sep 13 07:02:57 2001] [35 Wizard] Daimon (Dark Elf) <Kingdom of Steel> ZONE: overthere (USER PID GVS65YS)
+[Thu Sep 13 07:02:57 2001] [20 Wizard] Petkrane (Dark Elf) <La cage aux trolls> ZONE: lakeofillomen (USER PID CVZUQMT)
+[Thu Sep 13 07:02:57 2001] [52 Heretic] Sildaan (Dark Elf) <Thunderwalkers> ZONE: greatdivide (USER PID AQPXLYD)
+[Thu Sep 13 07:02:57 2001] [54 Channeler] Sizzlen (Dark Elf) <Reviction> ZONE: ecommons (USER PID GQHTS1L)
+[Thu Sep 13 07:02:57 2001] [27 Necromancer] Mumraah (Dark Elf) ZONE: freporte (USER PID GU08366)
+[Thu Sep 13 07:02:57 2001] [31 Shadow Knight] Urein (Dark Elf) <Elysian Heros> ZONE: ecommons (USER PID FUDD7ZM)
+[Thu Sep 13 07:02:57 2001] [31 Shadow Knight] Darkmystic (Dark Elf) <Faucheurs Noirs> ZONE: dalnir (USER PID GTS25DM)
+[Thu Sep 13 07:02:57 2001] [23 Cleric] Keeyan (Dark Elf) <Phantom Knights> ZONE: lakeofillomen (USER PID CSUZ89F)
+[Thu Sep 13 07:02:57 2001] [ANON (14 Necromancer)] Phyrra (Dark Elf) ZONE: neriakb (USER PID DZXQV33)
+[Thu Sep 13 07:02:57 2001] [4 Wizard] Volarin (Dark Elf) ZONE: nektulos (USER PID CVN467A)
+[Thu Sep 13 07:02:57 2001] [ANON (57 Defiler)] Danze (Dark Elf) ZONE: neriaka (USER PID EYYWLXS)
+[Thu Sep 13 07:02:57 2001] [ANON (32 Necromancer)] Nixa (Dark Elf) ZONE: dalnir (USER PID DTRE04M)
+[Thu Sep 13 07:02:57 2001] [49 Shadow Knight] Aphyon (Dark Elf) <Order of the White Hand> ZONE: greatdivide (USER PID HU89VKQ) LFG
+[Thu Sep 13 07:02:57 2001] Your who request was cut short..too many players.
+[Thu Sep 13 07:03:06 2001] Players in EverQuest:
+[Thu Sep 13 07:03:06 2001] ---------------------------
+[Thu Sep 13 07:03:06 2001] [ANON (35 Paladin)] Darkoutlaw (Human) ZONE: greatdivide (USER PID DYKWM21)
+[Thu Sep 13 07:03:06 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:03:17 2001] You GMSAY, '<note badname> Darkoutlaw DYKWM21'
+[Thu Sep 13 07:04:06 2001] You told Kelmore, 'Hail, Kelmore! Guide Espranza here. Yes, it is a bad name, but with so few people who can change names, it is often a long time before one gets changed unless it's really offensive. I've noted this one, though, and will add it to my report.'
+[Thu Sep 13 07:04:11 2001] DELETING THIS PETITION
+[Thu Sep 13 07:04:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 13 07:04:14 2001] USER TEXT: Well.. I went through a part in Icewell now I cant get out of it, Im stuck. Hehe if you could please help me it would be greatly appreciated
+[Thu Sep 13 07:04:14 2001] Players in EverQuest:
+[Thu Sep 13 07:04:14 2001] ---------------------------
+[Thu Sep 13 07:04:14 2001] [6 Warrior] Roofas (Ogre) ZONE: thurgadinb (USER PID AN9F66F)
+[Thu Sep 13 07:04:14 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:04:21 2001] a yun ghoul wizard begins to cast a spell. (Steelskin)
+[Thu Sep 13 07:04:23 2001] You GMSAY, 'zone'
+[Thu Sep 13 07:04:28 2001] LOADING, PLEASE WAIT...
+[Thu Sep 13 07:12:38 2001] Welcome to EverQuest!
+[Thu Sep 13 07:12:38 2001] You have entered Icewell Keep.
+[Thu Sep 13 07:12:38 2001] MESSAGE OF THE DAY: Welcome to Morell Thule!  Please note that GM's and guides will NEVER ask for your password in game or otherwise.
+[Thu Sep 13 07:12:41 2001] Players in EverQuest:
+[Thu Sep 13 07:12:41 2001] ---------------------------
+[Thu Sep 13 07:12:41 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: thurgadinb (USER PID AUGBQH4)
+[Thu Sep 13 07:12:41 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:12:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 13 07:12:47 2001] USER TEXT: Well.. I went through a part in Icewell now I cant get out of it, Im stuck. Hehe if you could please help me it would be greatly appreciated
+[Thu Sep 13 07:12:47 2001] Players in EverQuest:
+[Thu Sep 13 07:12:47 2001] ---------------------------
+[Thu Sep 13 07:12:47 2001] [6 Warrior] Roofas (Ogre) ZONE: thurgadinb (USER PID AN9F66F)
+[Thu Sep 13 07:12:47 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:12:56 2001] Teleporting to roofas.
+[Thu Sep 13 07:13:04 2001] Summoning Roofas.
+[Thu Sep 13 07:13:10 2001] Roofas thanks Espranza heartily.
+[Thu Sep 13 07:13:18 2001] You say, 'crashed coming here but finally made it!'
+[Thu Sep 13 07:13:24 2001] Roofas says, 'Thank you very much!'
+[Thu Sep 13 07:13:29 2001] You say, 'you're welcome!'
+[Thu Sep 13 07:13:41 2001] DELETING THIS PETITION
+[Thu Sep 13 07:13:50 2001] You GMSAY, 'zone'
+[Thu Sep 13 07:13:53 2001] You beam a smile at Roofas.
+[Thu Sep 13 07:13:54 2001] You wave goodbye to Roofas.
+[Thu Sep 13 07:13:58 2001] You begin casting Sunset Home. (Sunset Home)
+[Thu Sep 13 07:13:58 2001] Your Belt of Translocation begins to glow.
+[Thu Sep 13 07:13:59 2001] LOADING, PLEASE WAIT...
+[Thu Sep 13 07:14:20 2001] You have entered Sunset Home.
+[Thu Sep 13 07:14:49 2001] You feel smaller.
+[Thu Sep 13 07:14:56 2001] You no longer have a target.
+[Thu Sep 13 07:15:04 2001] Roofas tells you, 'Thanks again!'
+[Thu Sep 13 07:15:09 2001] You told Roofas, 'you're welcome!'
+[Thu Sep 13 07:15:40 2001] It will take you about 30 seconds to prepare your camp.
+[Thu Sep 13 07:15:44 2001] It will take about 25 more seconds to prepare your camp.
+[Thu Sep 13 07:15:46 2001] You abandon your preparations to camp.
+[Thu Sep 13 07:15:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 13 07:15:48 2001] USER TEXT: gm need your advice /help
+[Thu Sep 13 07:15:48 2001] Players in EverQuest:
+[Thu Sep 13 07:15:48 2001] ---------------------------
+[Thu Sep 13 07:15:49 2001] [ANON (34 Ranger)] Bonthan (Human) ZONE: eastwastes (USER PID EX0UZ2L)
+[Thu Sep 13 07:15:49 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:16:03 2001] You told Bonthan, 'Hail, Bonthan! Guide Espranza here. How may I help you?'
+[Thu Sep 13 07:16:06 2001] Searching zones for corpse of that name....
+[Thu Sep 13 07:16:36 2001] Bonthan tells you, 'ok i was playing last nite and this group let me in high level all in 45+ '
+[Thu Sep 13 07:17:04 2001] Bonthan tells you, 'they were being all frks to me not letingme lot and just talking junk'
+[Thu Sep 13 07:17:21 2001] Bonthan tells you, 'telling me i shouldnt be here at my level  i am 34 '
+[Thu Sep 13 07:17:29 2001] Bonthan tells you, 'saying i dont get to loot '
+[Thu Sep 13 07:17:29 2001] You feel the spirit of Norrath enter you.
+[Thu Sep 13 07:17:49 2001] Bonthan tells you, 'saying they will just let me sit and get killed'
+[Thu Sep 13 07:18:00 2001] Bonthan tells you, 'well i was just about to disband'
+[Thu Sep 13 07:18:00 2001] You told Bonthan, 'why didn't you leave the group and join another?'
+[Thu Sep 13 07:18:13 2001] Bonthan tells you, 'and the cheif poped'
+[Thu Sep 13 07:18:38 2001] Bonthan tells you, 'and 2 of them got killed and he was at half health but feared'
+[Thu Sep 13 07:18:46 2001] Bonthan tells you, 'so i chased him around '
+[Thu Sep 13 07:19:01 2001] Bonthan tells you, 'and killed him'
+[Thu Sep 13 07:19:15 2001] Bonthan tells you, 'he droped the Tunic of ry forr'
+[Thu Sep 13 07:19:23 2001] Bonthan tells you, 'goor'
+[Thu Sep 13 07:19:29 2001] Bonthan tells you, 'u know'
+[Thu Sep 13 07:19:33 2001] You told Bonthan, 'yup.'
+[Thu Sep 13 07:19:38 2001] Bonthan tells you, 'and i looted it'
+[Thu Sep 13 07:19:57 2001] Bonthan tells you, 'well then all of them came back and said i had to give it up to one of them'
+[Thu Sep 13 07:20:03 2001] Bonthan tells you, 'they said roll for it '
+[Thu Sep 13 07:20:16 2001] Bonthan tells you, 'i said get lost and went on my way'
+[Thu Sep 13 07:20:25 2001] Bonthan tells you, 'the said i was a cheat '
+[Thu Sep 13 07:20:42 2001] Bonthan tells you, 'they said they were going to get me kicked off the ssever'
+[Thu Sep 13 07:20:53 2001] You told Bonthan, 'Another guide got this petition last night. They rolled and Deemore was the winner.'
+[Thu Sep 13 07:20:58 2001] Bonthan tells you, 'and called me all sorts of names shouting threw the zone '
+[Thu Sep 13 07:21:19 2001] You told Bonthan, 'Did you tell this to the guide who was trying to talk to you last night?'
+[Thu Sep 13 07:21:22 2001] Bonthan tells you, 'LOL well they didnt see what heppened before'
+[Thu Sep 13 07:21:31 2001] Bonthan tells you, 'I logged and went to bed'
+[Thu Sep 13 07:21:41 2001] Bonthan tells you, 'so i just want to do the right thing '
+[Thu Sep 13 07:22:22 2001] Bonthan tells you, 'but i fell those guys were playing UNFAIR and i feel i should just keep it since they ere either drunk '
+[Thu Sep 13 07:22:33 2001] Bonthan tells you, 'or just being plain rude to me for NO reason'
+[Thu Sep 13 07:23:28 2001] Polpe tells you, 'ayie an ig hitting under the earth.  haha'
+[Thu Sep 13 07:23:30 2001] You told Bonthan, 'If it was me, I would have just disbanded and let them sink or swim on their own. By staying in the group even though they were being so abusive to you, you sort of implicitly agreed to their looting rules.'
+[Thu Sep 13 07:23:34 2001] Bonthan tells you, 'so what shuld i do .....or what wuld u do'
+[Thu Sep 13 07:23:36 2001] Players in EverQuest:
+[Thu Sep 13 07:23:36 2001] ---------------------------
+[Thu Sep 13 07:23:36 2001] [ANON (53 Wanderer)] Polpe (Wood Elf) ZONE: everfrost (USER PID CNCLTE6)
+[Thu Sep 13 07:23:36 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:23:46 2001] You told Bonthan, 'one moment please - zoning'
+[Thu Sep 13 07:23:50 2001] You GMSAY, 'zone'
+[Thu Sep 13 07:23:53 2001] Teleporting to polpe.
+[Thu Sep 13 07:23:54 2001] LOADING, PLEASE WAIT...
+[Thu Sep 13 07:24:23 2001] You have entered Everfrost.
+[Thu Sep 13 07:24:26 2001] It begins to snow.
+[Thu Sep 13 07:24:28 2001] Teleporting to an_ice_giant00.
+[Thu Sep 13 07:24:31 2001] Teleporting to an_ice_giant01.
+[Thu Sep 13 07:24:33 2001] Teleporting to an_ice_giant02.
+[Thu Sep 13 07:24:33 2001] Player is beneath the world in everfrost at 1728.000000, -5813.000000, -383.842712, moving to safe point.
+[Thu Sep 13 07:24:52 2001] You told Polpe, 'are you killing the invisible IG?'
+[Thu Sep 13 07:24:56 2001] Polpe tells you, 'I wish...'
+[Thu Sep 13 07:25:01 2001] Killing an_ice_giant02.
+[Thu Sep 13 07:25:05 2001] You told Polpe, 'it's dead now'
+[Thu Sep 13 07:25:06 2001] Polpe tells you, 'i have to zone its too much,,.'
+[Thu Sep 13 07:25:09 2001] Polpe tells you, 'ok..'
+[Thu Sep 13 07:25:23 2001] Polpe tells you, 'thx'
+[Thu Sep 13 07:25:43 2001] You GMSAY, '<note> Killed an ice giant in the act of Druicide in Everfrost.'
+[Thu Sep 13 07:25:46 2001] Teleporting to polpe.
+[Thu Sep 13 07:25:46 2001] Bonthan tells you, 'they siad i got nothing '
+[Thu Sep 13 07:25:52 2001] Bonthan tells you, 'and they said if was FFA'
+[Thu Sep 13 07:26:18 2001] Polpe tells you, 'a trick gone bad =pp'
+[Thu Sep 13 07:26:31 2001] You told Polpe, 'you were trying to quad giants? eeeek!'
+[Thu Sep 13 07:26:37 2001] Polpe tells you, 'ya,  done it b4...'
+[Thu Sep 13 07:26:49 2001] Bonthan tells you, 'so can u please add to the pition logg what my side of story id'
+[Thu Sep 13 07:26:52 2001] Polpe tells you, 'this time was bad hehehhe'
+[Thu Sep 13 07:27:26 2001] You told Bonthan, 'I'll add it to the petition report from last night; but what you do with the tunic is up to you.'
+[Thu Sep 13 07:27:38 2001] Polpe tells you, 'if u dont get emall at once your in trouble..'
+[Thu Sep 13 07:27:53 2001] Bonthan tells you, 'but i am not ging to get kicked off ???'
+[Thu Sep 13 07:27:57 2001] You told Polpe, 'they're melee range is just so huge'
+[Thu Sep 13 07:28:06 2001] Bonthan tells you, 'i am a honest player'
+[Thu Sep 13 07:28:11 2001] Polpe tells you, 'I know.'
+[Thu Sep 13 07:28:17 2001] Polpe tells you, 'its a risk..'
+[Thu Sep 13 07:28:20 2001] You told Bonthan, 'no, why, did a guide or GM say you were going to be kicked off?'
+[Thu Sep 13 07:28:22 2001] Bonthan tells you, 'but hose guys were jerks'
+[Thu Sep 13 07:28:25 2001] Polpe tells you, 'but hey.,  3 blues )'
+[Thu Sep 13 07:28:34 2001] You told Polpe, 'heh'
+[Thu Sep 13 07:28:42 2001] Bonthan tells you, 'no thye said i would be and all sorts of other stuff'
+[Thu Sep 13 07:29:07 2001] Bonthan tells you, 'using profane language '
+[Thu Sep 13 07:29:25 2001] Polpe tells you, 'haha not enough to cast sow..'
+[Thu Sep 13 07:29:28 2001] Bonthan tells you, 'is there any way to look at the text all of it from when i joined group'
+[Thu Sep 13 07:29:38 2001] You told Polpe, 'Ugh; hope you have enough to cast GATE'
+[Thu Sep 13 07:29:44 2001] Polpe tells you, 'this is the worst I have ever done..'
+[Thu Sep 13 07:29:53 2001] You told Bonthan, 'No, we have no records at all of what was said.'
+[Thu Sep 13 07:30:00 2001] Polpe tells you, 'i ambound here, ahahah'
+[Thu Sep 13 07:30:06 2001] You told Polpe, 'oh sheesh!'
+[Thu Sep 13 07:30:46 2001] You told Bonthan, 'I'll add your side of the story to the report.'
+[Thu Sep 13 07:30:50 2001] DELETING THIS PETITION
+[Thu Sep 13 07:30:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 13 07:30:52 2001] USER TEXT: i was wondering if my /report of noxxon abusing me through emotes was acted upon... thanks
+[Thu Sep 13 07:30:52 2001] Players in EverQuest:
+[Thu Sep 13 07:30:52 2001] ---------------------------
+[Thu Sep 13 07:30:52 2001] [18 Enchanter] Aylliah (Erudite) ZONE: ecommons (USER PID AYV6H35)
+[Thu Sep 13 07:30:52 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:31:20 2001] You told Aylliah, 'Hail, Aylliah! Guide Espranza here. I don't know... was this yesterday?'
+[Thu Sep 13 07:31:28 2001] Polpe tells you, 'as far as this goes.  if anyone else comes by  I have to give them one(ig) in fairness.  So doing this is rarew.  but wheni can, I go for it).,'
+[Thu Sep 13 07:32:10 2001] You told Polpe, 'a little danger adds excitement!'
+[Thu Sep 13 07:32:21 2001] Aylliah tells you, 'no it was 2 days ago i think'
+[Thu Sep 13 07:32:23 2001] Polpe tells you, 'Sure does.  Thx for your help.'
+[Thu Sep 13 07:32:28 2001] You told Polpe, 'sure thing'
+[Thu Sep 13 07:32:48 2001] Aylliah tells you, 'anyway this guy who i never met before named noxxon started spamming /rude's at me... and he challenged me to a duel (im 18 ench hes a 53 mage, can you say sad?)'
+[Thu Sep 13 07:33:02 2001] You told Aylliah, 'I don't know... the guide who took your petition would have handled it then.'
+[Thu Sep 13 07:33:07 2001] DELETING THIS PETITION
+[Thu Sep 13 07:33:07 2001] Aylliah tells you, 'i reported him using that new command and i wondered if it covered emotes like /rude gesture'
+[Thu Sep 13 07:33:08 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 13 07:33:09 2001] USER TEXT: Im having a bit of problems
+[Thu Sep 13 07:33:09 2001] Players in EverQuest:
+[Thu Sep 13 07:33:09 2001] ---------------------------
+[Thu Sep 13 07:33:09 2001] [17 Necromancer] Zoah (Dark Elf) <Destinys Disciples> ZONE: timorous (USER PID DXYVAJ7)
+[Thu Sep 13 07:33:09 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:33:24 2001] You told Aylliah, 'Any text you see on your screen would have been captured.'
+[Thu Sep 13 07:33:30 2001] Aylliah tells you, 'oh... well when i reported and petitoined'
+[Thu Sep 13 07:33:37 2001] You told Zoah, 'Hail, Zoah! Guide Espranza here. How may I help you?'
+[Thu Sep 13 07:33:45 2001] Aylliah tells you, 'i logged off a few minutes later'
+[Thu Sep 13 07:34:00 2001] You told Aylliah, 'so a guide never was able to talk to you?'
+[Thu Sep 13 07:34:07 2001] Aylliah tells you, 'and when i came back on, today, i noticed that it wasnt on que any more. so does that mean it was handled, or does it mean that it was just cleared and ignored'
+[Thu Sep 13 07:34:17 2001] Zoah tells you, 'some of my spell effects arent working, quite important ones like such as, ill cast my pet spell..and it wont fizzle..but there wont be my skelly'
+[Thu Sep 13 07:34:26 2001] Aylliah tells you, 'no, there were no guides/gms on at the time, i waited a few minutes, about a half hour total i think. no guides came on and i was sleepy so i logged'
+[Thu Sep 13 07:34:27 2001] Espranza saved.
+[Thu Sep 13 07:34:44 2001] You told Aylliah, 'I don't know, not being there, but you were probably marked unavailable after trying to talk to you for more than ten minutes, which is policy.'
+[Thu Sep 13 07:35:02 2001] Aylliah tells you, 'oh. doh :('
+[Thu Sep 13 07:35:12 2001] You told Zoah, 'try camping and coming back in and see if that fixes it.'
+[Thu Sep 13 07:35:26 2001] Zoah tells you, 'tried'
+[Thu Sep 13 07:35:27 2001] Aylliah tells you, 'i really wanted him to get in trouble for doing that to me. oh well im sure hell screw up and get in trouble with someone else'
+[Thu Sep 13 07:35:34 2001] Aylliah tells you, 'good luck to you'
+[Thu Sep 13 07:35:41 2001] You told Aylliah, 'And to you...'
+[Thu Sep 13 07:35:55 2001] You told Zoah, 'Which other spells?'
+[Thu Sep 13 07:36:03 2001] Zoah tells you, 'most all others'
+[Thu Sep 13 07:36:09 2001] Zoah tells you, 'but theyll work'
+[Thu Sep 13 07:36:28 2001] You told Zoah, 'you just don't see the spell effects?'
+[Thu Sep 13 07:36:40 2001] Zoah tells you, 'sometimes i do..sometimes i dont..'
+[Thu Sep 13 07:36:47 2001] Zoah tells you, 'want to see?'
+[Thu Sep 13 07:36:53 2001] You told Zoah, 'sure - brt'
+[Thu Sep 13 07:36:54 2001] You GMSAY, 'zone'
+[Thu Sep 13 07:36:57 2001] Teleporting to zoah.
+[Thu Sep 13 07:36:57 2001] LOADING, PLEASE WAIT...
+[Thu Sep 13 07:37:35 2001] You have entered Timorous Deep.
+[Thu Sep 13 07:37:52 2001] Teleporting to zoah.
+[Thu Sep 13 07:38:09 2001] Dalharil GMSAYS, 'Vendui'
+[Thu Sep 13 07:38:17 2001] You GMSAY, 'konnichiha'
+[Thu Sep 13 07:38:19 2001] Zoah begins to cast a spell. (Dark Pact)
+[Thu Sep 13 07:38:22 2001] Zoah looks sick.
+[Thu Sep 13 07:38:26 2001] Zoah begins to cast a spell. (Restless Bones)
+[Thu Sep 13 07:38:34 2001] Zoah tells you, 'well that one worked'
+[Thu Sep 13 07:38:35 2001] Zoah animates an undead servant.
+[Thu Sep 13 07:38:40 2001] Poeswift auctions, 'wts Ivy Etched (chest)'
+[Thu Sep 13 07:38:42 2001] You told Zoah, 'and so did that one...'
+[Thu Sep 13 07:38:44 2001] Zoah tells you, 'well shoot..when ya come they work....'
+[Thu Sep 13 07:38:48 2001] You told Zoah, 'heh'
+[Thu Sep 13 07:38:48 2001] Garekn says 'As you wish, oh great one.'
+[Thu Sep 13 07:38:51 2001] Zoah begins to cast a spell. (Restless Bones)
+[Thu Sep 13 07:39:00 2001] Zoah animates an undead servant.
+[Thu Sep 13 07:39:04 2001] Zoah tells you, 'bah'
+[Thu Sep 13 07:39:06 2001] You giggle at Zoah.
+[Thu Sep 13 07:39:11 2001] You apologize to Zoah whole-heartedly.
+[Thu Sep 13 07:39:15 2001] Dalharil GMSAYS, 'has it been quiet this morning?'
+[Thu Sep 13 07:39:17 2001] Zoah shrugs at Espranza.
+[Thu Sep 13 07:39:20 2001] You GMSAY, 'pretty much.'
+[Thu Sep 13 07:39:30 2001] Zoah tells you, 'oh was the spell list fixed in neriak?'
+[Thu Sep 13 07:39:32 2001] You say, 'See? I made it allll better!'
+[Thu Sep 13 07:39:38 2001] Zoah says, 'surely did'
+[Thu Sep 13 07:39:42 2001] Zoah cheers at Espranza.
+[Thu Sep 13 07:39:46 2001] You told Zoah, 'I wasn't aware there was a problem with it.'
+[Thu Sep 13 07:40:16 2001] Zoah tells you, 'well in the enchanter guild in neriak it says some of the spells **which i know arent even close to being that high** well it says there for lvl 61'
+[Thu Sep 13 07:40:35 2001] You told Zoah, 'oh, I think they fixed those, yes.'
+[Thu Sep 13 07:40:42 2001] Zoah tells you, 'ahh good'
+[Thu Sep 13 07:40:45 2001] Zoah tells you, 'finally 8)'
+[Thu Sep 13 07:40:52 2001] Zoah begins to cast a spell. (Dark Pact)
+[Thu Sep 13 07:40:54 2001] You told Zoah, 'but if you find some baddies, let us know'
+[Thu Sep 13 07:40:55 2001] Zoah looks sick.
+[Thu Sep 13 07:40:59 2001] Zoah tells you, 'will do'
+[Thu Sep 13 07:41:00 2001] DELETING THIS PETITION
+[Thu Sep 13 07:41:03 2001] You beam a smile at Zoah.
+[Thu Sep 13 07:41:05 2001] You wave goodbye to Zoah.
+[Thu Sep 13 07:41:07 2001] You GMSAY, 'zone'
+[Thu Sep 13 07:41:08 2001] Zoah tells you, 'oh'
+[Thu Sep 13 07:41:11 2001] Zoah tells you, 'before you go'
+[Thu Sep 13 07:41:18 2001] Zoah tells you, 'can i inspect?'
+[Thu Sep 13 07:41:20 2001] Espranza raises her eyebrow at Zoah, questionaingly.
+[Thu Sep 13 07:41:29 2001] Zoah pleads with Espranza desperately.
+[Thu Sep 13 07:41:30 2001] You told Zoah, 'heh sure, but don't ask for stats'
+[Thu Sep 13 07:41:34 2001] Zoah tells you, 'surely'
+[Thu Sep 13 07:41:35 2001] Zoah is looking at your equipment...
+[Thu Sep 13 07:41:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 13 07:41:49 2001] USER TEXT: last night I fell into what appeared to be water and now I see no water (SOL B)  Any ideas?
+[Thu Sep 13 07:41:49 2001] Players in EverQuest:
+[Thu Sep 13 07:41:49 2001] ---------------------------
+[Thu Sep 13 07:41:49 2001] [44 Magician] Iinadan (High Elf) <Hunters of the Undead> ZONE: soldungb (USER PID FYD1LVP)
+[Thu Sep 13 07:41:49 2001] There is 1 player in EverQuest.
+[Thu Sep 13 07:41:55 2001] You GMSAY, 'zone'
+[Thu Sep 13 07:42:01 2001] Dalharil GMSAYS, 'Moving through the veil that divides the lands...'
+[Thu Sep 13 07:42:15 2001] You say, 'gotta go...'
+[Thu Sep 13 07:42:17 2001] You wave goodbye to Zoah.
+[Thu Sep 13 07:42:23 2001] You feel the spirit of Z surround you.
+[Thu Sep 13 07:42:23 2001] Zoah says, 'byeee!'
+[Thu Sep 13 07:42:23 2001] You feel the spirit of Z surround you.
+[Thu Sep 13 07:42:24 2001] LOADING, PLEASE WAIT...
+[Thu Sep 13 07:42:50 2001] You have entered Nagafen's Lair.
+[Thu Sep 13 07:42:50 2001] Jindalre begins to cast a spell. (Tashani)
+[Thu Sep 13 07:42:51 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Thu Sep 13 07:42:51 2001] greater kobold says 'Grrrrr.  Bark.  Bark.  Grrrrr. 
+[Thu Sep 13 07:42:51 2001] greater kobold says 'Filthy Scumsuckers like you must die!'
+[Thu Sep 13 07:42:55 2001] Jindalre begins to cast a spell. (Enthrall)
+[Thu Sep 13 07:42:58 2001] Yangwenli begins to cast a spell. (Quickness)
+[Thu Sep 13 07:42:58 2001] Teleporting to iinaden.
+[Thu Sep 13 07:43:05 2001] Teleporting to iinadan.
+[Thu Sep 13 07:43:06 2001] sonic bat begins to cast a spell. (SonicScream)
+[Thu Sep 13 07:43:09 2001] Yangwenli begins to cast a spell. (Root)
+[Thu Sep 13 07:43:09 2001] Jindalre begins to cast a spell. (Discordant Mind)
+[Thu Sep 13 07:43:13 2001] Searching zones for corpse of that name....
+[Thu Sep 13 07:43:16 2001] Iinadan says, 'hello'
+[Thu Sep 13 07:43:17 2001] Jindalre begins to cast a spell. (Discordant Mind)
+[Thu Sep 13 07:43:21 2001] Searching zones for corpse of that name....
+[Thu Sep 13 07:43:21 2001] Corpse: Iinadan's corpse0 in zone: soldungb
+[Thu Sep 13 07:43:25 2001] You say, 'hiya!'
+[Thu Sep 13 07:43:26 2001] Yangwenli begins to cast a spell. (Root)
+[Thu Sep 13 07:43:30 2001] Teleporting to iinadan's corpse0.
+[Thu Sep 13 07:43:31 2001] Jindalre begins to cast a spell. (Color Flux)
+[Thu Sep 13 07:43:38 2001] greater kobold shaman begins to cast a spell. (Quickness)
+[Thu Sep 13 07:43:43 2001] Your feet leave the ground.
+[Thu Sep 13 07:43:54 2001] Teleporting to iinadan.
+[Thu Sep 13 07:44:00 2001] Yangwenli begins to cast a spell. (Root)
+[Thu Sep 13 07:44:01 2001] Ledrole bows before Espranza.
+[Thu Sep 13 07:44:05 2001] Jindalre begins to cast a spell. (Color Flux)
+[Thu Sep 13 07:44:05 2001] Yangwenli begins to cast a spell. (Greater Healing)
+[Thu Sep 13 07:44:17 2001] Ledrole says out of character, 'who need rez 90 '
+[Thu Sep 13 07:44:18 2001] You told Iinadan, 'Hello, Iinadan! Your corpse is still in the water and is retrievable'
+[Thu Sep 13 07:44:20 2001] Jindalre begins to cast a spell. (Color Flux)
+[Thu Sep 13 07:44:25 2001] Jindalre begins to cast a spell. (Enthrall)
+[Thu Sep 13 07:44:30 2001] DELETING THIS PETITION
+[Thu Sep 13 07:44:30 2001] Iinadan tells you, 'so there is WAter in this zone?'
+[Thu Sep 13 07:44:33 2001] Jindalre begins to cast a spell. (Memory Blur)
+[Thu Sep 13 07:44:35 2001] You told Iinadan, 'yup'
+[Thu Sep 13 07:44:36 2001] Yangwenli begins to cast a spell. (Greater Healing)
+[Thu Sep 13 07:44:44 2001] Jindalre begins to cast a spell. (Discordant Mind)
+[Thu Sep 13 07:44:46 2001] Iinadan tells you, 'everyone telling me that there is none...BAh'
+[Thu Sep 13 07:44:48 2001] Yangwenli begins to cast a spell. (Root)
+[Thu Sep 13 07:44:49 2001] Iinadan tells you, 'thank you'
+[Thu Sep 13 07:44:55 2001] You told Iinadan, 'heh... there is...!'
+[Thu Sep 13 07:44:59 2001] You bow before Iinadan.
+[Thu Sep 13 07:45:01 2001] You wave goodbye to Iinadan.
+[Thu Sep 13 07:45:03 2001] You GMSAY, 'zone'
+[Thu Sep 13 07:45:03 2001] Denday begins to cast a spell. (Root)
+[Thu Sep 13 07:45:06 2001] You begin casting Sunset Home. (Sunset Home)
+[Thu Sep 13 07:45:06 2001] Your Belt of Translocation begins to glow.
+[Thu Sep 13 07:45:07 2001] LOADING, PLEASE WAIT...
+[Thu Sep 13 07:45:26 2001] You have entered Sunset Home.
+[Thu Sep 13 07:45:35 2001] Players on EverQuest:
+[Thu Sep 13 07:45:35 2001] ---------------------------
+[Thu Sep 13 07:45:35 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Sep 13 07:45:35 2001] There is 1 player in Sunset Home.
+[Thu Sep 13 07:45:36 2001] Players in EverQuest:
+[Thu Sep 13 07:45:36 2001] ---------------------------
+[Thu Sep 13 07:45:36 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Sep 13 07:45:36 2001] * Guide *[52 Heretic] Dalharil (Dark Elf) <Keepers of Dreams> ZONE: fieldofbone (USER PID CUGA29A)
+[Thu Sep 13 07:45:36 2001] There are 2 players in EverQuest.
+[Thu Sep 13 07:47:34 2001] You say to your guild, 'I just got on to clear up the queue, now that you're here there is nothing to do! Much joy and good wishes I'm sending to you, but I've dishes and laundry to be washed anew.'
+[Thu Sep 13 07:47:43 2001] It will take you about 30 seconds to prepare your camp.
+[Thu Sep 13 07:47:47 2001] It will take about 25 more seconds to prepare your camp.
+[Thu Sep 13 07:47:49 2001] Dalharil tells the guild, '= )  hehe.. Thank you'
+[Thu Sep 13 07:47:52 2001] It will take about 20 more seconds to prepare your camp.
+[Thu Sep 13 07:47:57 2001] It will take about 15 more seconds to prepare your camp.
+[Thu Sep 13 07:47:59 2001] Dalharil tells the guild, 'I was held up by traffic again this morning  =('
+[Thu Sep 13 07:48:02 2001] It will take about 10 more seconds to prepare your camp.
+[Thu Sep 13 07:48:05 2001] You say to your guild, 'ugh'
+[Thu Sep 13 07:48:07 2001] It will take about 5 more seconds to prepare your camp.
+[Thu Sep 13 07:48:07 2001] Dalharil tells the guild, 'Have fun with those dishes and laundry'
+[Thu Sep 13 07:48:11 2001] You say to your guild, 'oh, I will'

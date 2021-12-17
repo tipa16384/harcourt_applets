@@ -1,0 +1,2189 @@
+[Sat Dec 22 11:11:23 2001] Welcome to EverQuest!
+[Sat Dec 22 11:11:23 2001] You have entered Rivervale.
+[Sat Dec 22 11:11:23 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! EverQuest is a dynamic game. As such, the manual that came with your game may be out of date. For the latest game information, please see www.everquest.com or the file EQManual_Supplement.txt.
+[Sat Dec 22 11:11:29 2001] Players in EverQuest:
+[Sat Dec 22 11:11:29 2001] ---------------------------
+[Sat Dec 22 11:11:29 2001] There are no players in EverQuest that match those who filters.
+[Sat Dec 22 11:11:39 2001] Players on EverQuest:
+[Sat Dec 22 11:11:39 2001] ---------------------------
+[Sat Dec 22 11:11:39 2001] [6 Druid] Cettin (Halfling)
+[Sat Dec 22 11:11:39 2001] [14 Druid] Atrith (Halfling)
+[Sat Dec 22 11:11:39 2001] [52 Wanderer] Prepin (Halfling)
+[Sat Dec 22 11:11:39 2001] [40 Druid] Findog (Halfling) <Unbroken Power>
+[Sat Dec 22 11:11:39 2001] [8 Druid] Skyi (Halfling)
+[Sat Dec 22 11:11:39 2001] [ANONYMOUS] Kurina 
+[Sat Dec 22 11:11:39 2001] [1 Rogue] Espranza (Halfling)
+[Sat Dec 22 11:11:39 2001] There are 7 players in Rivervale.
+[Sat Dec 22 11:11:58 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Dec 22 11:12:02 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Dec 22 11:12:07 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Dec 22 11:12:12 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Dec 22 11:12:18 2001] It will take about 10 more seconds to prepare your camp.
+[Sat Dec 22 11:12:23 2001] It will take about 5 more seconds to prepare your camp.
+[Sat Dec 22 14:06:26 2001] Welcome to EverQuest!
+[Sat Dec 22 14:06:26 2001] You have entered Sunset Home.
+[Sat Dec 22 14:06:26 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! EverQuest is a dynamic game. As such, the manual that came with your game may be out of date. For the latest game information, please see www.everquest.com or the file EQManual_Supplement.txt.
+[Sat Dec 22 14:06:29 2001] GUILD MOTD: Lirus - Drink milk
+[Sat Dec 22 14:06:31 2001] Players in EverQuest:
+[Sat Dec 22 14:06:31 2001] ---------------------------
+[Sat Dec 22 14:06:31 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 14:06:31 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: soldunga (USER PID BUUWN74)
+[Sat Dec 22 14:06:31 2001] There are 2 players in EverQuest.
+[Sat Dec 22 14:06:40 2001] You GMSAY, 'hiya'
+[Sat Dec 22 14:06:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:06:56 2001] USER TEXT: Hi GM. I died in SolA in the lava. How can i get my corpse back ??
+[Sat Dec 22 14:06:56 2001] Players in EverQuest:
+[Sat Dec 22 14:06:56 2001] ---------------------------
+[Sat Dec 22 14:06:56 2001] [25 Druid] Poilras (Halfling) <Gardiens de Norrath> ZONE: lavastorm (USER PID HYK63KA)
+[Sat Dec 22 14:06:56 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:06:59 2001] Kilm GMSAYS, 'Hi yas Espanza :=) '
+[Sat Dec 22 14:07:06 2001] Searching zones for corpse of that name....
+[Sat Dec 22 14:07:19 2001] Kilm GMSAYS, 'and congrats :) '
+[Sat Dec 22 14:07:23 2001] You told Poilras, 'Hail, Poilras! Senior Guide Espranza here. Have you found your corpse?'
+[Sat Dec 22 14:07:27 2001] You GMSAY, 'thanks!'
+[Sat Dec 22 14:07:44 2001] Poilras tells you, 'Yes, i did. thks a lot for your help )'
+[Sat Dec 22 14:08:02 2001] You told Poilras, 'Wonderful news! Be well.'
+[Sat Dec 22 14:08:04 2001] DELETING THIS PETITION
+[Sat Dec 22 14:08:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:08:06 2001] USER TEXT: I have a question
+[Sat Dec 22 14:08:06 2001] Players in EverQuest:
+[Sat Dec 22 14:08:06 2001] ---------------------------
+[Sat Dec 22 14:08:06 2001] [36 Magician] Llanno (High Elf) ZONE: frontiermtns (USER PID HW8W70F)
+[Sat Dec 22 14:08:06 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:08:17 2001] Kilm GMSAYS, 'since your hear let me send you a petition lol '
+[Sat Dec 22 14:08:17 2001] You told Llanno, 'Hail, Llanno! Senior Guide Espranza here. How may I help you?'
+[Sat Dec 22 14:08:22 2001] Valors tells you, 'please answer my petition, been waiting over a week to talk to a senior guide or gm =p'
+[Sat Dec 22 14:08:26 2001] You GMSAY, 'um, okay, about what?'
+[Sat Dec 22 14:08:44 2001] You GMSAY, 'if it's name changes, I dunno if I can do that'
+[Sat Dec 22 14:08:49 2001] Llanno tells you, 'I was wondering why it's taking so long to fix the bug with my bolt graphic'
+[Sat Dec 22 14:08:49 2001] Kilm GMSAYS, 'two names :) '
+[Sat Dec 22 14:08:56 2001] You have changed the Imp's last name to .
+[Sat Dec 22 14:09:04 2001] Kilm GMSAYS, 'lol ok, I will just include in DSR then '
+[Sat Dec 22 14:09:08 2001] You have changed Espranza's last name to the Imp.
+[Sat Dec 22 14:09:19 2001] You GMSAY, 'oh I can'
+[Sat Dec 22 14:09:21 2001] You GMSAY, 'pass them up'
+[Sat Dec 22 14:09:24 2001] Kilm GMSAYS, 'ones a surname '
+[Sat Dec 22 14:09:28 2001] You feel as if you are about to fall.
+[Sat Dec 22 14:09:30 2001] You GMSAY, 'surnames are easy'
+[Sat Dec 22 14:09:34 2001] You feel as if you are about to fall.
+[Sat Dec 22 14:09:40 2001] You can no longer levitate.
+[Sat Dec 22 14:09:44 2001] Llanno tells you, 'All my mage friends and I can't see the bolt graphic that gets emitted when we cast cinder bolt or any other bolt spell'
+[Sat Dec 22 14:10:03 2001] You told Llanno, 'I know that they are working on it, I don't know why it's taking so long. They are aware of the problem, though.'
+[Sat Dec 22 14:10:07 2001] Llanno tells you, 'It was on the EQ site listed as a bug and still hasn't been fixed'
+[Sat Dec 22 14:10:25 2001] Kilm GMSAYS, 'there ya go :) '
+[Sat Dec 22 14:10:41 2001] You GMSAY, '<note> Llanno HW8W70F concerned that his bolt graphics aren't showing and it isn't being fixed quickly enough'
+[Sat Dec 22 14:11:07 2001] You told Llanno, 'okay, I noted it in my shift report; they will have it fixed as soon as they can!'
+[Sat Dec 22 14:11:11 2001] DELETING THIS PETITION
+[Sat Dec 22 14:11:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:11:13 2001] USER TEXT: bad name Griizz mastarr and Oakfather.
+[Sat Dec 22 14:11:14 2001] Players in EverQuest:
+[Sat Dec 22 14:11:14 2001] ---------------------------
+[Sat Dec 22 14:11:14 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: soldunga (USER PID BUUWN74)
+[Sat Dec 22 14:11:14 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:11:20 2001] Llanno tells you, 'alright, thanks'
+[Sat Dec 22 14:11:29 2001] You told Llanno, 'be well and watch the patch messages ;)'
+[Sat Dec 22 14:11:29 2001] Llanno tells you, 'I was gettig concerned'
+[Sat Dec 22 14:11:37 2001] Llanno tells you, 'er getting'
+[Sat Dec 22 14:12:11 2001] You GMSAY, 'does Griizz master have any negative connotations?'
+[Sat Dec 22 14:12:23 2001] Kilm GMSAYS, 'Didn't check , sorry '
+[Sat Dec 22 14:12:37 2001] Lirus GMSAYS, 'hey hey'
+[Sat Dec 22 14:12:45 2001] You GMSAY, 'Lirus!!! Hi!'
+[Sat Dec 22 14:13:03 2001] Kilm GMSAYS, 'Lirus !'
+[Sat Dec 22 14:13:03 2001] Lirus GMSAYS, 'how goes?'
+[Sat Dec 22 14:13:04 2001] Players in EverQuest:
+[Sat Dec 22 14:13:04 2001] ---------------------------
+[Sat Dec 22 14:13:04 2001] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Sat Dec 22 14:13:04 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: commons (USER PID CW1ECN5)
+[Sat Dec 22 14:13:04 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 14:13:04 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: soldunga (USER PID BUUWN74)
+[Sat Dec 22 14:13:04 2001] There are 4 players in EverQuest.
+[Sat Dec 22 14:13:16 2001] Kilm GMSAYS, 'goes good  :) '
+[Sat Dec 22 14:13:18 2001] Lancet GMSAYS, 'hello ppl and you to lirus'
+[Sat Dec 22 14:13:21 2001] You GMSAY, 'well, I have two bad names and not sure if thay are bad'
+[Sat Dec 22 14:13:24 2001] Lirus GMSAYS, 'heya Lancet'
+[Sat Dec 22 14:13:29 2001] Lirus GMSAYS, 'which names?'
+[Sat Dec 22 14:13:29 2001] You GMSAY, 'Griizz Masstarr and Oakfather'
+[Sat Dec 22 14:13:46 2001] Lirus GMSAYS, 'surname on first is bad and Oakfather is also bad'
+[Sat Dec 22 14:13:58 2001] You GMSAY, 'okay... I'll take care of them (gulp)'
+[Sat Dec 22 14:14:04 2001] You GMSAY, 'can you buff me first?'
+[Sat Dec 22 14:14:04 2001] Lirus GMSAYS, '*takes the leash off espranza...go get em *'
+[Sat Dec 22 14:14:08 2001] Lirus GMSAYS, '=D'
+[Sat Dec 22 14:14:10 2001] Lirus GMSAYS, 'sure'
+[Sat Dec 22 14:14:12 2001] Lancet GMSAYS, 'hehe  if you need help holler'
+[Sat Dec 22 14:14:23 2001] Lirus GMSAYS, 'zone'
+[Sat Dec 22 14:14:29 2001] Players on EverQuest:
+[Sat Dec 22 14:14:29 2001] ---------------------------
+[Sat Dec 22 14:14:29 2001] There are no players in Sunset Home that match those who filters.
+[Sat Dec 22 14:14:31 2001] Players in EverQuest:
+[Sat Dec 22 14:14:31 2001] ---------------------------
+[Sat Dec 22 14:14:31 2001] [21 Beastlord] Griizz (Ogre) ZONE: oasis (USER PID ARUYVWT)
+[Sat Dec 22 14:14:31 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:15:04 2001] Lirus GMSAYS, 'yknow who i need to bust today?'
+[Sat Dec 22 14:15:04 2001] You wave at Lirus.
+[Sat Dec 22 14:15:05 2001] Salvie GMSAYS, 'hey all. '
+[Sat Dec 22 14:15:09 2001] Lirus GMSAYS, 'hi salvie'
+[Sat Dec 22 14:15:10 2001] You GMSAY, 'hiya Salvie'
+[Sat Dec 22 14:15:12 2001] Lirus says, 'whut level?'
+[Sat Dec 22 14:15:19 2001] Lancet GMSAYS, 'who'
+[Sat Dec 22 14:15:22 2001] Lirus GMSAYS, 'Rulu'
+[Sat Dec 22 14:15:23 2001] You say, 'I dunno, they just said I needed to be buffed'
+[Sat Dec 22 14:15:28 2001] Salvie GMSAYS, 'Hey congrats on the promotion Espranza'
+[Sat Dec 22 14:15:28 2001] You say, 'my level is fine...'
+[Sat Dec 22 14:15:30 2001] Kilm GMSAYS, 'I have a silly question '
+[Sat Dec 22 14:15:31 2001] You GMSAY, 'thanks!'
+[Sat Dec 22 14:15:41 2001] You say, 'but I have the senior commands...'
+[Sat Dec 22 14:15:46 2001] Lancet GMSAYS, 'hehe ok oh remember dase wanting name change'
+[Sat Dec 22 14:15:46 2001] Kilm GMSAYS, 'can players go from SOL faces to old style faces at will ?'
+[Sat Dec 22 14:15:49 2001] Lirus GMSAYS, 'I have taken away her surnames on her other characters before but now she has Rulu Lirusbait'
+[Sat Dec 22 14:15:55 2001] Lirus GMSAYS, 'no kilm'
+[Sat Dec 22 14:15:59 2001] Lirus says, 'hmmm'
+[Sat Dec 22 14:16:05 2001] You say, 'Maybe I'm all set, then'
+[Sat Dec 22 14:16:13 2001] Lirus says, 'who buffed your level?'
+[Sat Dec 22 14:16:18 2001] Players in EverQuest:
+[Sat Dec 22 14:16:18 2001] ---------------------------
+[Sat Dec 22 14:16:18 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Sat Dec 22 14:16:18 2001] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Sat Dec 22 14:16:18 2001] * Guide *[50 Warrior] Salvie (Barbarian) <Keepers of Dreams> ZONE: oot (USER PID CUUVYEU)
+[Sat Dec 22 14:16:18 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 14:16:18 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: soldunga (USER PID BUUWN74)
+[Sat Dec 22 14:16:18 2001] There are 5 players in EverQuest.
+[Sat Dec 22 14:16:22 2001] Kilm GMSAYS, 'thanks Lirus, need to escalate it to you then if they want to change ?'
+[Sat Dec 22 14:16:26 2001] You say, 'um, you did, couple months ago'
+[Sat Dec 22 14:16:29 2001] Lirus GMSAYS, 'no'
+[Sat Dec 22 14:16:30 2001] Espranza saved.
+[Sat Dec 22 14:16:37 2001] Lirus GMSAYS, 'just tell em they need to do trial and error'
+[Sat Dec 22 14:16:45 2001] Lirus GMSAYS, 'and switch back and forth between old and new models'
+[Sat Dec 22 14:16:53 2001] Lirus GMSAYS, 'till they get what old face they are looking for'
+[Sat Dec 22 14:16:59 2001] Lancet GMSAYS, 'lirus remember DAse'
+[Sat Dec 22 14:16:59 2001] Kilm GMSAYS, 'thanks '
+[Sat Dec 22 14:17:07 2001] Lirus GMSAYS, 'no...wtf is dase?'
+[Sat Dec 22 14:17:09 2001] You say, 'Well, I guess I'll just go de-Masstaarr someone'
+[Sat Dec 22 14:17:15 2001] Lirus says, 'cool cool'
+[Sat Dec 22 14:17:20 2001] You say, 'thanks!'
+[Sat Dec 22 14:17:28 2001] Lirus cheers at Espranza.
+[Sat Dec 22 14:17:32 2001] Lancet GMSAYS, 'the  one who said his name was bad in swidish'
+[Sat Dec 22 14:17:33 2001] You say, 'oh, who is the leader of our guild?'
+[Sat Dec 22 14:17:37 2001] Lirus GMSAYS, 'oh yeah'
+[Sat Dec 22 14:17:43 2001] Lirus GMSAYS, 'what is he up to now?'
+[Sat Dec 22 14:17:49 2001] Lirus says, 'I am'
+[Sat Dec 22 14:17:55 2001] You say, 'Could you make me an officer?'
+[Sat Dec 22 14:17:57 2001] Lirus says, 'and almost all other seniors'
+[Sat Dec 22 14:18:04 2001] Lancet GMSAYS, 'same thing but turns out hes right it does mwean what he says'
+[Sat Dec 22 14:18:12 2001] You are now an officer of the guild.
+[Sat Dec 22 14:18:15 2001] You say, 'thanks!'
+[Sat Dec 22 14:18:24 2001] Lirus GMSAYS, 'oh really? how do you know Lancet?'
+[Sat Dec 22 14:18:25 2001] USER TEXT: bad name Griizz mastarr and Oakfather.
+[Sat Dec 22 14:18:29 2001] Players in EverQuest:
+[Sat Dec 22 14:18:29 2001] ---------------------------
+[Sat Dec 22 14:18:29 2001] [21 Beastlord] Griizz (Ogre) ZONE: oasis (USER PID ARUYVWT)
+[Sat Dec 22 14:18:29 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:18:31 2001] Lirus beams a smile at Espranza.
+[Sat Dec 22 14:18:31 2001] You GMSAY, 'zone'
+[Sat Dec 22 14:18:34 2001] Lirus says, 'np'
+[Sat Dec 22 14:18:35 2001] Teleporting to griizz.
+[Sat Dec 22 14:18:36 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 14:19:09 2001] Rack Stonebelly shouts 'Da Bloated Belly be leaving da Overdere now! 
+[Sat Dec 22 14:19:09 2001] You have entered Oasis of Marr.
+[Sat Dec 22 14:19:12 2001] Alavar shouts, 'thanx for the SOW!'
+[Sat Dec 22 14:19:18 2001] Lirus GMSAYS, 'i didn't have a problem changing it but wanted some sort of proof first'
+[Sat Dec 22 14:19:21 2001] Lancet GMSAYS, 'yes and i tolsd him not till i can prove its bad'
+[Sat Dec 22 14:19:25 2001] Espranza is now Invisible.
+[Sat Dec 22 14:19:25 2001] You are now anonymous.
+[Sat Dec 22 14:19:28 2001] Lirus GMSAYS, '*nod*'
+[Sat Dec 22 14:19:30 2001] Teleporting to griizz.
+[Sat Dec 22 14:19:32 2001] Coaltiger begins to cast a spell. (Spirit of Lightning)
+[Sat Dec 22 14:19:34 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:19:35 2001] Coaltiger`s warder is imbued with the spirit of lightning.
+[Sat Dec 22 14:19:37 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:19:40 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:19:41 2001] Espranza is now Visible.
+[Sat Dec 22 14:19:43 2001] You are no longer anonymous.
+[Sat Dec 22 14:19:44 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:19:47 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:19:50 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:19:50 2001] You wave at Griizz.
+[Sat Dec 22 14:19:52 2001] Vrantik begins to cast a spell. (Light Healing)
+[Sat Dec 22 14:19:53 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:19:58 2001] Griizz says, 'greetings'
+[Sat Dec 22 14:19:59 2001] Coaltiger begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:19:59 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:20:02 2001] Coaltiger's body pulses with energy.
+[Sat Dec 22 14:20:02 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:20:04 2001] You say, 'Hiya!'
+[Sat Dec 22 14:20:04 2001] Coaltiger 's eyes gleam blood red.
+[Sat Dec 22 14:20:06 2001] Coaltiger`s warder begins to cast a spell. (SOLEffect)
+[Sat Dec 22 14:20:09 2001] Griizz says, 'Player_0001 here, how may you not help me?'
+[Sat Dec 22 14:20:10 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:20:13 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:20:16 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:20:19 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:20:23 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:20:26 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:20:30 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:20:33 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:20:33 2001] Tamuyen shouts, '21 cleric lfg for DW crocs'
+[Sat Dec 22 14:20:36 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:20:37 2001] You told griizz, 'Hi, Senior Guide Espranza here... we like to reserve titles like master for gm rewards and such...'
+[Sat Dec 22 14:20:39 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:20:46 2001] Haytebringer is looking at your equipment...
+[Sat Dec 22 14:20:48 2001] Coaltiger`s warder begins to cast a spell. (SOLEffect)
+[Sat Dec 22 14:20:56 2001] Griizz tells you, '<nods> Cool...'
+[Sat Dec 22 14:20:56 2001] You told Griizz, 'would you mind picking a new last name?'
+[Sat Dec 22 14:21:02 2001] Griizz tells you, 'Annnddd, why are you telling me this?'
+[Sat Dec 22 14:21:04 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:21:07 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:21:11 2001] You told Griizz, 'because your last name is a title'
+[Sat Dec 22 14:21:15 2001] Griizz tells you, 'Eh?'
+[Sat Dec 22 14:21:20 2001] Griizz tells you, 'How is it a title?'
+[Sat Dec 22 14:21:24 2001] You told Griizz, 'Master...'
+[Sat Dec 22 14:21:29 2001] Griizz tells you, 'Yes?'
+[Sat Dec 22 14:21:40 2001] Griizz tells you, 'Master is a title... my last name is not "master" is it?'
+[Sat Dec 22 14:21:42 2001] Forgynorg says out of character, 'who here hates the windows key'
+[Sat Dec 22 14:21:43 2001] Coaltiger`s warder begins to cast a spell. (SOLEffect)
+[Sat Dec 22 14:21:50 2001] You told Griizz, 'Master is a title, and misspellings of it count.'
+[Sat Dec 22 14:21:51 2001] Faumeren says out of character, 'lol yup'
+[Sat Dec 22 14:21:52 2001] Coaltiger`s warder begins to cast a spell. (SOLEffect)
+[Sat Dec 22 14:21:54 2001] Coaltiger says out of character, 'lol i do badly'
+[Sat Dec 22 14:21:56 2001] Khirah says out of character, 'not me, i pulled mine off the keyboard'
+[Sat Dec 22 14:21:58 2001] Tamuyen says out of character, 'what windows key?'
+[Sat Dec 22 14:22:01 2001] Griizz tells you, 'I would find my last name difficult to relate to any english word'
+[Sat Dec 22 14:22:03 2001] Raile says out of character, 'lol.'
+[Sat Dec 22 14:22:07 2001] Forgynorg says out of character, 'on your key board'
+[Sat Dec 22 14:22:08 2001] Griizz tells you, 'That is a subjective opinion of yours'
+[Sat Dec 22 14:22:11 2001] Coaltiger`s warder begins to cast a spell. (SOLEffect)
+[Sat Dec 22 14:22:18 2001] Tamuyen says out of character, 'the keys on the keyboard?'
+[Sat Dec 22 14:22:18 2001] Griizz tells you, 'Mastarr is very much different from master'
+[Sat Dec 22 14:22:21 2001] Kilm GMSAYS, 'zone'
+[Sat Dec 22 14:22:23 2001] Griizz begins to cast a spell. (Inner Fire)
+[Sat Dec 22 14:22:24 2001] Khirah says out of character, 'yep'
+[Sat Dec 22 14:22:26 2001] Griizz's body pulses with energy.
+[Sat Dec 22 14:22:30 2001] Exanori says out of character, 'the key next to the any key?'
+[Sat Dec 22 14:22:34 2001] Tamuyen says out of character, 'theres nothing wrong with it'
+[Sat Dec 22 14:22:39 2001] Coaltiger`s warder begins to cast a spell. (SOLEffect)
+[Sat Dec 22 14:22:42 2001] You told Griizz, 'It's pronounced identically, and anyone looking at it would think "Grizz Master" without a moment's thought.'
+[Sat Dec 22 14:22:43 2001] Tamuyen says out of character, 'o that key lol'
+[Sat Dec 22 14:22:51 2001] Coaltiger`s warder begins to cast a spell. (SOLEffect)
+[Sat Dec 22 14:22:57 2001] Griizz tells you, 'Perhaps, another subjective opinion'
+[Sat Dec 22 14:22:57 2001] Tamuyen says out of character, 'heh the one next to the ALT button'
+[Sat Dec 22 14:23:04 2001] Griizz tells you, 'In my view, it means something other than that'
+[Sat Dec 22 14:23:06 2001] Coaltiger`s warder begins to cast a spell. (SOLEffect)
+[Sat Dec 22 14:23:08 2001] You told Griizz, 'Perhaps, but one which the GM shares.'
+[Sat Dec 22 14:23:09 2001] Griizz begins to cast a spell. (Strengthen)
+[Sat Dec 22 14:23:11 2001] Griizz looks stronger.
+[Sat Dec 22 14:23:16 2001] Coaltiger begins to cast a spell. (Strengthen)
+[Sat Dec 22 14:23:16 2001] Griizz tells you, 'THE gm shares?'
+[Sat Dec 22 14:23:24 2001] Griizz tells you, 'You suggest I should respect you (your opinion)?'
+[Sat Dec 22 14:23:31 2001] Coaltiger`s warder says 'Guarding with my life..oh splendid one.'
+[Sat Dec 22 14:23:32 2001] Coaltiger tightens the leash on her cat.
+[Sat Dec 22 14:23:33 2001] Griizz tells you, 'What reason have I to respect such a GM?'
+[Sat Dec 22 14:23:53 2001] You told Griizz, 'I suggest you find a new last name, or I will change it to a blank and you can petition for a new one later.'
+[Sat Dec 22 14:24:09 2001] Griizz tells you, 'Unfortunately, that didnt scare me as much as you intended it to'
+[Sat Dec 22 14:24:12 2001] Griizz tells you, 'Sorry to inform you'
+[Sat Dec 22 14:24:13 2001] Lirus GMSAYS, 'anyone doing anything cool during the holidays?'
+[Sat Dec 22 14:24:16 2001] Griizz tells you, 'Ok, let me search for a new one'
+[Sat Dec 22 14:24:24 2001] Griizz tells you, 'I have many "bags of names" to filter through'
+[Sat Dec 22 14:24:26 2001] You have changed Griizz's last name to  .
+[Sat Dec 22 14:24:28 2001] Tamuyen says out of character, 'can anyoen breeze or clearity at docks?'
+[Sat Dec 22 14:24:31 2001] Coaltiger`s warder begins to cast a spell. (SOLEffect)
+[Sat Dec 22 14:24:35 2001] You told Griizz, 'okay, just petition when you have a new one.'
+[Sat Dec 22 14:24:45 2001] You told Griizz, 'be well!'
+[Sat Dec 22 14:24:47 2001] You GMSAY, 'zone'
+[Sat Dec 22 14:24:49 2001] Salvie GMSAYS, 'Collecting mad amounts of presents?? Christmas and my birthday is tommorrow. so I allways make out like a bandit. heheh'
+[Sat Dec 22 14:24:51 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Sat Dec 22 14:24:51 2001] Your Belt of Translocation begins to glow.
+[Sat Dec 22 14:24:51 2001] Griizz tells you, 'Sorry I picked a last name that I liked :)'
+[Sat Dec 22 14:24:52 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 14:25:17 2001] You have entered Sunset Home.
+[Sat Dec 22 14:25:27 2001] Players in EverQuest:
+[Sat Dec 22 14:25:27 2001] ---------------------------
+[Sat Dec 22 14:25:27 2001] [21 Beastlord] Griizz (Ogre) ZONE: oasis (USER PID ARUYVWT)
+[Sat Dec 22 14:25:27 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:25:57 2001] Lirus GMSAYS, 'wow kilm sounds awesome'
+[Sat Dec 22 14:26:07 2001] Lirus GMSAYS, 'i have never been snowshoeing but sounds wonderful'
+[Sat Dec 22 14:26:12 2001] You GMSAY, '<note> Griizz Masstaar ARUYVWT has had his last name changed to a space since my objection to his last name was a subjective opinion that he didn't share.'
+[Sat Dec 22 14:26:15 2001] Lirus GMSAYS, 'as long as it has a fireplace...'
+[Sat Dec 22 14:26:25 2001] Lirus GMSAYS, 'zone'
+[Sat Dec 22 14:26:30 2001] Players in EverQuest:
+[Sat Dec 22 14:26:30 2001] ---------------------------
+[Sat Dec 22 14:26:30 2001] [6 Druid] Oakfather (Wood Elf) ZONE: ecommons (USER PID D08LHD5)
+[Sat Dec 22 14:26:30 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:26:34 2001] You GMSAY, 'zone'
+[Sat Dec 22 14:26:37 2001] Teleporting to oakfather.
+[Sat Dec 22 14:26:37 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 14:27:09 2001] Ebbali auctions, 'Selling Bloodstained Tunic. AC 13, wis + 4, agi + 4'
+[Sat Dec 22 14:27:09 2001] Gristleback auctions, 'Shaman only Spear 12,19 with wisdom and a Spirit Strike proc.  possibly the best spear until epic'
+[Sat Dec 22 14:27:09 2001] Huxley auctions, 'WTS FLAYED SKIN leggings AC12/+5DEX/+15HP NEC/SHD'
+[Sat Dec 22 14:27:09 2001] Huxley auctions, 'WTS Frozen Mantle [AC6 Mana+10] All All - 20pp'
+[Sat Dec 22 14:27:09 2001] Magisterumbrae auctions, '--->SELLING<--- Crimson Robe of Alendine - 12ac 15dex 15int 50hp 50mana - 25k obo || Netted Kelp Cloak, Bracer, Cap, Arms || Golden Diamond Mask - 1k || Soul Reaver - 6str 6int 25hp 25mana 10svs disease +3% to Channeling nec only - 5k'
+[Sat Dec 22 14:27:09 2001] Magisterumbrae auctions, '--->BUYING<--- Night Shade Wreath'
+[Sat Dec 22 14:27:16 2001] a fire beetle died.
+[Sat Dec 22 14:27:17 2001] You have entered East Commonlands.
+[Sat Dec 22 14:27:18 2001] Damjiun auctions, 'WTS mylorks gift 25/43 +5 dex +10HP bounus 4 1Kpp'
+[Sat Dec 22 14:27:19 2001] Gristleback auctions, 'AC22 breastplate with Stamina and HP. . . .400pp'
+[Sat Dec 22 14:27:21 2001] Xabassis auctions, 'wts blackend alloy longsword|| sap of piety || '
+[Sat Dec 22 14:27:26 2001] Racor auctions, 'WTS Silver Swiftblade 2HS 16/24 Ranger 2K'
+[Sat Dec 22 14:27:31 2001] Racor auctions, 'WTS BA Coif 8AC +6 Str +6 all saves 500pp'
+[Sat Dec 22 14:27:33 2001] Players in EverQuest:
+[Sat Dec 22 14:27:33 2001] ---------------------------
+[Sat Dec 22 14:27:33 2001] [6 Druid] Oakfather (Wood Elf) ZONE: ecommons (USER PID D08LHD5)
+[Sat Dec 22 14:27:33 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:27:33 2001] Ebbali auctions, 'Selling Piercing weapon 10/22 int + 5. Rogue, warrior, caster'
+[Sat Dec 22 14:27:36 2001] Gristleback auctions, 'range slot with CR 10.   10pp'
+[Sat Dec 22 14:27:43 2001] Akloun auctions, 'SELLING shining star of light 6 28  effect cleanse  pally and cleric'
+[Sat Dec 22 14:27:46 2001] Rudyard auctions, 'WTS shieldstorm ac15 2hs 10dex/agi 5sv all'
+[Sat Dec 22 14:27:46 2001] Zukanaz auctions, 'WTS Carved Dragonbone Spear 2h Piercer 25dmg 30delay 8str 5wis 1vs all .'
+[Sat Dec 22 14:27:47 2001] Charlea shouts, 'Need a TP? 10pp a seat, send tells'
+[Sat Dec 22 14:27:55 2001] Gristleback auctions, 'Jagged Blade of Mourning 4k'
+[Sat Dec 22 14:28:00 2001] You told Oakfather, 'Hail, Oakfather! Senior Guide Espranza here. May I talk to you about your name for a moment?'
+[Sat Dec 22 14:28:02 2001] Huxley auctions, 'WTS FLAYED SKIN leggings AC12/+5DEX/+15HP NEC/SHD'
+[Sat Dec 22 14:28:08 2001] Rudyard auctions, 'WTS shieldstorm ac15 2hs 10dex/agi 5sv all'
+[Sat Dec 22 14:28:09 2001] Nighteye shouts, 'WTB deathfist belts at orc 2...paying ok!'
+[Sat Dec 22 14:28:13 2001] Nighteye auctions, 'WTS Flayed skin boots 8ac 6str 2int 100 pp.'
+[Sat Dec 22 14:28:13 2001] Xabassis auctions, 'wts blackend alloy longsword|| sap of piety || '
+[Sat Dec 22 14:28:19 2001] Ebbali auctions, 'Selling Crystalline Robe. 400 pp.'
+[Sat Dec 22 14:28:21 2001] Magisterumbrae auctions, '--->SELLING<--- Crimson Robe of Alendine - 12ac 15dex 15int 50hp 50mana - 25k obo || Netted Kelp Cloak, Bracer, Cap, Arms || Golden Diamond Mask - 1k || Soul Reaver - 6str 6int 25hp 25mana 10svs disease +3% to Channeling nec only - 5k'
+[Sat Dec 22 14:28:25 2001] Gristleback auctions, 'all/all snare device with 2 charges.  May save your life so you can flee.  10pp'
+[Sat Dec 22 14:28:25 2001] Damjiun auctions, 'WTS mylorks gift 25/43 +5 dex +10HP bounus 4 1Kpp'
+[Sat Dec 22 14:28:27 2001] Aramanth auctions, 'WTB monk stuff'
+[Sat Dec 22 14:28:27 2001] Magisterumbrae auctions, '--->LOOKING FOR<--- Elder Spiritist's Greaves - guild vaults maybe? i'll pay cash'
+[Sat Dec 22 14:28:29 2001] Magisterumbrae auctions, '--->BUYING<--- Night Shade Wreath'
+[Sat Dec 22 14:28:37 2001] Drrako auctions, 'WTTF Purple Headband'
+[Sat Dec 22 14:28:40 2001] Aubron auctions, 'BUYING Elder Spiritist Breasplate & Greaves'
+[Sat Dec 22 14:28:43 2001] Aubron auctions, 'BUYING Square Helm'
+[Sat Dec 22 14:28:45 2001] Synderella auctions, 'Selling Crystal Covered Shroud AC 12 Str 4 Wis 4 Int 4 SvC 10'
+[Sat Dec 22 14:28:47 2001] Aubron auctions, 'BUYING Small Bricks of Acrylia - paying 100pp each'
+[Sat Dec 22 14:28:47 2001] Synderella auctions, 'Selling Crustacean Shell Bracer, AC 9 Str 5 Sta 5 Cha -5'
+[Sat Dec 22 14:28:51 2001] Aubron auctions, 'BUYING Small Pieces of Acrylia (stackables) - paying 1k per stack or 50pp each'
+[Sat Dec 22 14:28:52 2001] Synderella auctions, 'Selling Gatorscale Sleeves, AC 6 int 4 hp 15'
+[Sat Dec 22 14:28:56 2001] Aubron auctions, 'BUYING Flawless Rockhopper Hides - paying 100pp each'
+[Sat Dec 22 14:28:56 2001] Mallanroh auctions, 'WTS Lizard scale mantle, wis+3 int+3'
+[Sat Dec 22 14:28:57 2001] Aramanth auctions, 'WTB monk stuff send tells plz'
+[Sat Dec 22 14:28:59 2001] Nebanezzar auctions, 'WTS Platinum Tiara Ac 3 Hp 35 Mana 50 only 400pp'
+[Sat Dec 22 14:28:59 2001] Raxat auctions, 'WTS Serrated Bone Dirk 250pp'
+[Sat Dec 22 14:29:01 2001] Aubron auctions, 'BUYING Superb Rockhopper Hides - paying 75pp each'
+[Sat Dec 22 14:29:02 2001] Huxley auctions, 'WTS FLAYED SKIN leggings AC12/+5DEX/+15HP NEC/SHD'
+[Sat Dec 22 14:29:04 2001] Gamani auctions, 'WTS Stave Of Shielding'
+[Sat Dec 22 14:29:05 2001] Mallanroh auctions, 'WTS Blackened Crystaline robe'
+[Sat Dec 22 14:29:07 2001] Magisterumbrae auctions, '--->SELLING<--- Crimson Robe of Alendine - 12ac 15dex 15int 50hp 50mana - 25k obo || Netted Kelp Cloak, Bracer, Cap, Arms || Golden Diamond Mask - 1k || Soul Reaver - 6str 6int 25hp 25mana 10svs disease +3% to Channeling nec only - 5k'
+[Sat Dec 22 14:29:07 2001] Gamani auctions, 'WTS Lammy'
+[Sat Dec 22 14:29:07 2001] Oakfather tells you, 'Can I help you'
+[Sat Dec 22 14:29:09 2001] Qtii auctions, 'WTS handmade backpacks 10 slot, 10% wt reduction'
+[Sat Dec 22 14:29:09 2001] Damjiun auctions, 'WTS mylorks gift 25/43 +5 dex +10HP bounus 4 1Kpp'
+[Sat Dec 22 14:29:09 2001] Magisterumbrae auctions, '--->LOOKING FOR<--- Elder Spiritist's Greaves - guild vaults maybe? i'll pay cash'
+[Sat Dec 22 14:29:10 2001] Daelette auctions, 'WTS Icetooth claws 200 pp'
+[Sat Dec 22 14:29:10 2001] Players in EverQuest:
+[Sat Dec 22 14:29:10 2001] ---------------------------
+[Sat Dec 22 14:29:10 2001] [6 Druid] Oakfather (Wood Elf) ZONE: ecommons (USER PID D08LHD5)
+[Sat Dec 22 14:29:10 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:29:11 2001] Magisterumbrae auctions, '--->BUYING<--- Night Shade Wreath'
+[Sat Dec 22 14:29:11 2001] Aubron auctions, 'Acrylia Studded Cloak - AC 7 +10 WIS +5 DEX +3 STR - very light - 4500pp'
+[Sat Dec 22 14:29:13 2001] Daelette auctions, 'WTS Circlet of vallon AC 18 SV poi dis mag 9 , 10 Kpp'
+[Sat Dec 22 14:29:15 2001] Mallanroh auctions, 'WTS Worm eaten gloves, int+3 cha-3 svfire-1 necro '
+[Sat Dec 22 14:29:16 2001] Daelette auctions, 'WTS chitin hand wraps AC5 3 all SV effect haste, 6kpp'
+[Sat Dec 22 14:29:18 2001] Ebbali auctions, 'Selling Hero Bracer. Ac 9, str + 10, sv poison disease + 5'
+[Sat Dec 22 14:29:19 2001] Players on EverQuest:
+[Sat Dec 22 14:29:19 2001] ---------------------------
+[Sat Dec 22 14:29:19 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 14:29:19 2001] There is 1 player in East Commonlands.
+[Sat Dec 22 14:29:19 2001] Daelette auctions, 'WTS mind worm fang , glowing black sword 2Kpp each'
+[Sat Dec 22 14:29:22 2001] Daelette auctions, 'WTS Blue diamond Necklace 3Kpp'
+[Sat Dec 22 14:29:23 2001] Teleporting to oakfather.
+[Sat Dec 22 14:29:25 2001] Daelette auctions, 'WTS Stained cloth mask CHA 4 Hp mana 20 sv poi dis 5 '
+[Sat Dec 22 14:29:29 2001] Ilyo auctions, 'WTS Defiance 9 19 10ac 6str 8dex 1hs '
+[Sat Dec 22 14:29:29 2001] Togmok shouts, 'orc1 need a healer and some others come come we kill orcs'
+[Sat Dec 22 14:29:37 2001] Booley shouts, 'WTB COINS'
+[Sat Dec 22 14:29:38 2001] Qtii begins to cast a spell. (Choke)
+[Sat Dec 22 14:29:47 2001] Booley auctions, 'WTB COINS'
+[Sat Dec 22 14:29:49 2001] You told Oakfather, 'Hello! Oakfather is a title, and titles aren't allowed by our naming guidelines.'
+[Sat Dec 22 14:29:54 2001] Lancet GMSAYS, 'lirus let me know when you free'
+[Sat Dec 22 14:29:57 2001] Mallanroh auctions, 'WTS CCS'
+[Sat Dec 22 14:29:57 2001] You told Oakfather, 'Could you choose a new first name, please?'
+[Sat Dec 22 14:29:58 2001] Lirus GMSAYS, 'ok'
+[Sat Dec 22 14:29:59 2001] Reidulv auctions, 'WTS Crystalline Belt Ac5 Wis3 Agi3 Hp10 400pp'
+[Sat Dec 22 14:30:02 2001] You feel the spirit of Norrath enter you.
+[Sat Dec 22 14:30:06 2001] Togmok shouts, 'orc1 need a healer and some others come come we kill orcs'
+[Sat Dec 22 14:30:09 2001] Ebbali auctions, 'Selling Crystalline Robe. 400 pp.'
+[Sat Dec 22 14:30:15 2001] Oakfather tells you, 'How do I do that?'
+[Sat Dec 22 14:30:17 2001] Gristleback auctions, 'AC22 Breastplate with Sta 5, and HP 20.  300pp'
+[Sat Dec 22 14:30:20 2001] Akloun auctions, 'SELLING screaming mace 8,35..effect screaming mace'
+[Sat Dec 22 14:30:22 2001] Kilm GMSAYS, 'zone'
+[Sat Dec 22 14:30:24 2001] Guard Tolus says 'That's it, swine!  You're outta here! 
+[Sat Dec 22 14:30:24 2001] Guard Tolus says 'I shall rid the land of another infamous villain!'
+[Sat Dec 22 14:30:25 2001] Ssirax auctions, 'WTS Plantum Armband 3str 3 wis CHEEP!!!'
+[Sat Dec 22 14:30:26 2001] Etenies waves at Espranza.
+[Sat Dec 22 14:30:31 2001] You told Oakfather, 'Just tell me what new name you would like, and I will change it for you'
+[Sat Dec 22 14:30:34 2001] Etenies hugs Espranza.
+[Sat Dec 22 14:30:35 2001] Etenies hugs Espranza.
+[Sat Dec 22 14:30:37 2001] You wave at Etenies.
+[Sat Dec 22 14:30:37 2001] Gristleback auctions, 'Orb with Eye of zomm effect for sale. . . '
+[Sat Dec 22 14:30:38 2001] Magisterumbrae auctions, '--->SELLING<--- Crimson Robe of Alendine - 12ac 15dex 15int 50hp 50mana - 25k obo || Netted Kelp Cloak, Bracer, Cap, Arms || Golden Diamond Mask - 1k || Soul Reaver - 6str 6int 25hp 25mana 10svs disease +3% to Channeling nec only - 5k'
+[Sat Dec 22 14:30:38 2001] Ebbali auctions, 'Selling Hero Bracer. Ac 9, str + 10, sv poison disease + 5'
+[Sat Dec 22 14:30:38 2001] Aramanth says out of character, 'horse where?'
+[Sat Dec 22 14:30:40 2001] Etenies shrugs at Guard Tolus.
+[Sat Dec 22 14:30:41 2001] Magisterumbrae auctions, '--->LOOKING FOR<--- Elder Spiritist's Greaves - guild vaults maybe? i'll pay cash'
+[Sat Dec 22 14:30:45 2001] Etenies ponders Guard Tolus. What is going on with him?
+[Sat Dec 22 14:30:49 2001] Reidulv auctions, 'WTS Crystalline Belt Ac5 Wis3 Agi3 Hp10 400pp'
+[Sat Dec 22 14:30:49 2001] Racor auctions, 'WTS Silver Swiftblade 2HS 16/24 Ranger 2K'
+[Sat Dec 22 14:30:50 2001] You say, 'I don't think he likes you'
+[Sat Dec 22 14:30:52 2001] Racor auctions, 'WTS Hero Bracer 800pp'
+[Sat Dec 22 14:30:53 2001] Etenies says, '=/'
+[Sat Dec 22 14:30:54 2001] Racor auctions, 'WTS BA Coif 8AC +6 Str +6 all saves 500pp'
+[Sat Dec 22 14:30:56 2001] Racor auctions, 'WTS BABS 2HS 24/39 150pp'
+[Sat Dec 22 14:30:56 2001] Carnis says out of character, 'anyone porting to DL?'
+[Sat Dec 22 14:30:58 2001] Lirus GMSAYS, 'ok lancet i'm free'
+[Sat Dec 22 14:30:58 2001] Booley auctions, 'WTB COINS'
+[Sat Dec 22 14:30:58 2001] Nebanezzar auctions, 'WTS Platinum Tiara Ac 3 Hp 35 Mana 50 only 400pp'
+[Sat Dec 22 14:31:02 2001] Aramanth auctions, 'WTB monk stuff send tells plz'
+[Sat Dec 22 14:31:05 2001] Etenies says, 'riptose! =X'
+[Sat Dec 22 14:31:09 2001] Lancet GMSAYS, 'goto me pls'
+[Sat Dec 22 14:31:11 2001] Bojman auctions, 'WTS robe of oracle'
+[Sat Dec 22 14:31:11 2001] Innkeep Juna says 'Greetings, Ebbali. You look like you could use a Rusty Long Sword'
+[Sat Dec 22 14:31:11 2001] Lirus GMSAYS, 'zone'
+[Sat Dec 22 14:31:15 2001] Rudyard auctions, 'WTS shieldstorm ac15 2hs 10dex/agi 5sv all'
+[Sat Dec 22 14:31:16 2001] Booley auctions, 'WTB COINS'
+[Sat Dec 22 14:31:20 2001] Innkeep Leo says 'Hello there, Ebbali. How about a nice Rusty Mace?'
+[Sat Dec 22 14:31:20 2001] Etenies says, 'He is hurting his self Lol'
+[Sat Dec 22 14:31:22 2001] Oakfather tells you, 'I just want something that sounds naturey'
+[Sat Dec 22 14:31:26 2001] Aubron auctions, 'Acrylia Studded Cloak - AC 7 +10 WIS +5 DEX +3 STR - very light - 4k'
+[Sat Dec 22 14:31:32 2001] Raladin auctions, 'WTS Peacebringer, 20l'
+[Sat Dec 22 14:31:32 2001] Reidulv auctions, 'WTS Crystalline Belt Ac5 Wis3 Agi3 Hp10 400pp'
+[Sat Dec 22 14:31:35 2001] Ebbali auctions, 'Selling 5ac, + 55 HP ring'
+[Sat Dec 22 14:31:38 2001] Ssirax auctions, 'WTS Plantum Armband 3str 3 wis CHEEP!!!'
+[Sat Dec 22 14:31:40 2001] Etenies hugs Espranza.
+[Sat Dec 22 14:31:41 2001] Etenies waves at Espranza.
+[Sat Dec 22 14:31:44 2001] You told Oakfather, 'Sure, that's fine - just have to avoid titles when doing so'
+[Sat Dec 22 14:31:47 2001] Damjiun auctions, 'WTS mylorks gift 25/43 +5 dex +10HP bounus 4 1Kpp'
+[Sat Dec 22 14:31:50 2001] Tinna shouts, 'WTB Tp to Surefall Glade Please Send Tells'
+[Sat Dec 22 14:31:56 2001] Ebbali auctions, 'Selling Bloodstained Tunic. AC 13, wis + 4, agi + 4'
+[Sat Dec 22 14:31:57 2001] Aramanth auctions, 'WTB monk stuff send tells plz'
+[Sat Dec 22 14:31:57 2001] Ilyo auctions, 'WTS Defiance 9 19 10ac 6str 8dex 1hs '
+[Sat Dec 22 14:31:58 2001] Gamani auctions, 'WTS Stave Of Shielding'
+[Sat Dec 22 14:32:02 2001] Gamani auctions, 'WTS Lammy'
+[Sat Dec 22 14:32:04 2001] You told Oakfather, 'Oakroot?'
+[Sat Dec 22 14:32:18 2001] Oakfather tells you, 'Sounds good to me'
+[Sat Dec 22 14:32:23 2001] Nighteye shouts, 'WTB DF BELTS AT ORC 2!!!'
+[Sat Dec 22 14:32:25 2001] You told Oakfather, 'let's try that'
+[Sat Dec 22 14:32:25 2001] Ectrader auctions, '<WTS> Obulus Death Shroud ( Ac 10, +3 Str, + 5 Sta, + 3 Wis, + 25 Mana, + 1 Sv F / D / C / P / M )....send tells plz'
+[Sat Dec 22 14:32:32 2001] You have changed Oakfather's name to Oakroot.
+[Sat Dec 22 14:32:35 2001] Gristleback auctions, '5,21 CR 10.  Can be put in range.  10pp'
+[Sat Dec 22 14:32:37 2001] Gristleback auctions, 'Dragon Choker AC8, Str5, HP30, FR10, Cr/Pr/MR 5'
+[Sat Dec 22 14:32:37 2001] You cheer at Oakroot.
+[Sat Dec 22 14:32:40 2001] Gristleback auctions, 'Sabertooth Amulet is Shaman only 300pp'
+[Sat Dec 22 14:32:44 2001] Gristleback auctions, 'Sabertooth Amulet AC4, Sta5, INt5, MR15 See Invis.'
+[Sat Dec 22 14:32:45 2001] Huxley auctions, 'WTS FLAYED SKIN leggings AC12/+5DEX/+15HP NEC/SHD'
+[Sat Dec 22 14:32:46 2001] Gristleback auctions, 'Crystalline Silk Net.  2 charges of Snare  15pp'
+[Sat Dec 22 14:32:46 2001] Raladin auctions, 'WTS Peacebringer, 20kpp'
+[Sat Dec 22 14:32:47 2001] You told Oakfather, 'Oakfather is not online at this time.'
+[Sat Dec 22 14:32:48 2001] Oakroot tells you, 'Cool'
+[Sat Dec 22 14:32:48 2001] Magisterumbrae auctions, '--->SELLING<--- Crimson Robe of Alendine - 12ac 15dex 15int 50hp 50mana - 25k obo || Netted Kelp Cloak, Bracer, Cap, Arms || Golden Diamond Mask - 1k || Soul Reaver - 6str 6int 25hp 25mana 10svs disease +3% to Channeling nec only - 5k'
+[Sat Dec 22 14:32:50 2001] Rudyard auctions, 'WTS shieldstorm ac15 2hs 10dex/agi 5sv all'
+[Sat Dec 22 14:32:51 2001] Players in EverQuest:
+[Sat Dec 22 14:32:51 2001] ---------------------------
+[Sat Dec 22 14:32:51 2001] [6 Druid] Oakroot (Wood Elf) ZONE: ecommons (USER PID D08LHD5)
+[Sat Dec 22 14:32:51 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:32:51 2001] Lirus GMSAYS, 'out'
+[Sat Dec 22 14:32:52 2001] Magisterumbrae auctions, '--->LOOKING FOR<--- Elder Spiritist's Greaves - guild vaults maybe? i'll pay cash'
+[Sat Dec 22 14:32:57 2001] Ectrader auctions, '<WTS> Hooded Black Cloak ( Ac 10, + 5 Str, + 45 Hp )....send tells plz'
+[Sat Dec 22 14:32:57 2001] Bologar auctions, 'WTS 1h pierce 8/25, dmg bonus 1, str 2, hp 10'
+[Sat Dec 22 14:32:59 2001] Balkinid auctions, 'WTS Hero Bracer 9 AC STR 10 SVP 5 SVM 5'
+[Sat Dec 22 14:33:03 2001] Lancet GMSAYS, 'you cheat?'
+[Sat Dec 22 14:33:04 2001] Ectrader auctions, '<WTS> Obulus Death Shroud ( Ac 10, +3 Str, + 5 Sta, + 3 Wis, + 25 Mana, + 1 Sv F / D / C / P / M )....send tells plz'
+[Sat Dec 22 14:33:05 2001] Lirus GMSAYS, 'no'
+[Sat Dec 22 14:33:09 2001] You GMSAY, '<note> Oakfather D08LHD5 has had his name changed to Oakroot'
+[Sat Dec 22 14:33:09 2001] Oakroot tells you, 'That isn't considered a title?'
+[Sat Dec 22 14:33:14 2001] You told Oakroot, 'nope'
+[Sat Dec 22 14:33:17 2001] Lirus GMSAYS, 'i know how to do it though...will try with other heights'
+[Sat Dec 22 14:33:19 2001] Xabassis auctions, 'wts blackend alloy longsword|| sap of piety || '
+[Sat Dec 22 14:33:19 2001] Damjiun auctions, 'WTS mylorks gift 25/43 +5 dex +10HP bounus 4 1Kpp'
+[Sat Dec 22 14:33:21 2001] Bologar auctions, 'WTS 1h pierce 8/25, dmg bonus 1, str 2, hp 10'
+[Sat Dec 22 14:33:24 2001] Sarothias auctions, 'WTS a few bags by torch 2'
+[Sat Dec 22 14:33:25 2001] You told Oakroot, 'you can have descriptive names'
+[Sat Dec 22 14:33:28 2001] Lancet GMSAYS, 'had player stuck in here for 10 mins and i cant get out also'
+[Sat Dec 22 14:33:30 2001] Archimede auctions, 'WTS Argent Defender 33 49 mana 20 2 HS'
+[Sat Dec 22 14:33:33 2001] Qtii auctions, 'WTS handmade backpacks 10 slot, 10% wt reduction'
+[Sat Dec 22 14:33:33 2001] Ssirax auctions, 'WTS Plantum Armband 3str 3 wis CHEEP!!!'
+[Sat Dec 22 14:33:35 2001] DELETING THIS PETITION
+[Sat Dec 22 14:33:36 2001] Ssirax auctions, 'WTS Celium Short Sword 1hs 10/24 5svC 5svM procs 12 dd'
+[Sat Dec 22 14:33:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:33:38 2001] USER TEXT: i need help with broken faction, gotta talk to lirus or a senior guide
+[Sat Dec 22 14:33:39 2001] Players in EverQuest:
+[Sat Dec 22 14:33:39 2001] ---------------------------
+[Sat Dec 22 14:33:39 2001] [59 Myrmidon] Valors (Barbarian) ZONE: velketor (USER PID FYB7V34)
+[Sat Dec 22 14:33:39 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:33:39 2001] Trevallion auctions, 'wts banded chest armor 15 ac for 10pp send tells'
+[Sat Dec 22 14:33:39 2001] Lirus GMSAYS, 'ok height 5 now...gonna try'
+[Sat Dec 22 14:33:46 2001] You say, 'be well!'
+[Sat Dec 22 14:33:46 2001] Oakroot tells you, 'Cool, didn't really know that'
+[Sat Dec 22 14:33:48 2001] Lirus GMSAYS, 'that worked too'
+[Sat Dec 22 14:33:49 2001] Huxley auctions, 'WTS FLAYED SKIN leggings AC12/+5DEX/+15HP NEC/SHD'
+[Sat Dec 22 14:33:49 2001] UNDOING CHECK OUT
+[Sat Dec 22 14:33:51 2001] You bow before Oakroot.
+[Sat Dec 22 14:33:51 2001] Bologar auctions, 'WTS 1h pierce 8/25, dmg bonus 1, str 2, hp 10'
+[Sat Dec 22 14:33:52 2001] Lirus GMSAYS, 'let's try height 3'
+[Sat Dec 22 14:33:53 2001] Oakroot tells you, 'Thanksw'
+[Sat Dec 22 14:33:55 2001] Bestesbulzibar auctions, 'WTS Glowing black stone +9int +10svm or will trade for silver chitin hand wraps'
+[Sat Dec 22 14:33:55 2001] You GMSAY, 'zone'
+[Sat Dec 22 14:33:56 2001] Synderella auctions, 'Selling Crystal Covered Shroud AC 12 Str 4 Wis 4 Int 4 SvC 10'
+[Sat Dec 22 14:33:58 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Sat Dec 22 14:33:58 2001] Your Belt of Translocation begins to glow.
+[Sat Dec 22 14:33:58 2001] Nipsee auctions, 'WTB Mag leg and shoulder items'
+[Sat Dec 22 14:33:58 2001] Synderella auctions, 'Selling Crustacean Shell Bracer, AC 9 Str 5 Sta 5 Cha -5'
+[Sat Dec 22 14:33:59 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 14:47:59 2001] Welcome to EverQuest!
+[Sat Dec 22 14:47:59 2001] You have entered Sunset Home.
+[Sat Dec 22 14:47:59 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! EverQuest is a dynamic game. As such, the manual that came with your game may be out of date. For the latest game information, please see www.everquest.com or the file EQManual_Supplement.txt.
+[Sat Dec 22 14:48:01 2001] GUILD MOTD: Lirus - Drink milk
+[Sat Dec 22 14:48:09 2001] You GMSAY, 'yay, made it back'
+[Sat Dec 22 14:48:16 2001] Players in EverQuest:
+[Sat Dec 22 14:48:16 2001] ---------------------------
+[Sat Dec 22 14:48:16 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 14:48:16 2001] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Sat Dec 22 14:48:16 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: sseru (USER PID CW1ECN5)
+[Sat Dec 22 14:48:16 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: karnor (USER PID BUUWN74)
+[Sat Dec 22 14:48:16 2001] * Guide *[50 Warrior] Salvie (Barbarian) <Keepers of Dreams> ZONE: oot (USER PID CUUVYEU)
+[Sat Dec 22 14:48:16 2001] There are 5 players in EverQuest.
+[Sat Dec 22 14:48:21 2001] Lirus GMSAYS, 'wb'
+[Sat Dec 22 14:48:32 2001] Lirus GMSAYS, 'anyone manage to get /wincolor working?'
+[Sat Dec 22 14:48:39 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:48:39 2001] USER TEXT: I need to speak to the gm head of reembercements
+[Sat Dec 22 14:48:39 2001] Players in EverQuest:
+[Sat Dec 22 14:48:39 2001] ---------------------------
+[Sat Dec 22 14:48:39 2001] [10 Monk] Drasyre (Iksar) ZONE: ecommons (USER PID AU8DYJT)
+[Sat Dec 22 14:48:39 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:48:44 2001] UNDOING CHECK OUT
+[Sat Dec 22 14:48:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:48:47 2001] USER TEXT: i was leader of my guild and lost my tag during a bug - need to be restored as leader
+[Sat Dec 22 14:48:47 2001] Players in EverQuest:
+[Sat Dec 22 14:48:47 2001] ---------------------------
+[Sat Dec 22 14:48:47 2001] [50 Bard] Troubadil (Wood Elf) <Light and Dark Alliance> ZONE: shadowhaven (USER PID AQEEZTX)
+[Sat Dec 22 14:48:47 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:48:49 2001] Lirus GMSAYS, 'i swear i am using the correct format but i keep getting error like whatever i'm doing is oncorrect'
+[Sat Dec 22 14:48:50 2001] UNDOING CHECK OUT
+[Sat Dec 22 14:48:52 2001] Lirus GMSAYS, 'incorrect'
+[Sat Dec 22 14:48:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:48:53 2001] USER TEXT: I need to speak to the gm head of reembercements
+[Sat Dec 22 14:48:53 2001] Players in EverQuest:
+[Sat Dec 22 14:48:53 2001] ---------------------------
+[Sat Dec 22 14:48:53 2001] [10 Monk] Drasyre (Iksar) ZONE: ecommons (USER PID AU8DYJT)
+[Sat Dec 22 14:48:53 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:48:58 2001] UNDOING CHECK OUT
+[Sat Dec 22 14:49:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:49:02 2001] USER TEXT: Loss  of guild TAG (guild name The Avant  Guard) and I am supposed to be the leader
+[Sat Dec 22 14:49:02 2001] Players in EverQuest:
+[Sat Dec 22 14:49:02 2001] ---------------------------
+[Sat Dec 22 14:49:02 2001] [53 Wanderer] Windias (Wood Elf) ZONE: butcher (USER PID DW7EQ9K)
+[Sat Dec 22 14:49:02 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:49:06 2001] Lancet GMSAYS, 'rofl guy says he read naming policy so at this time wants to change first name  lol he did not read it too good or he would know we dont change first names unless they violate'
+[Sat Dec 22 14:49:17 2001] Lirus GMSAYS, 'aye'
+[Sat Dec 22 14:49:33 2001] Lancet GMSAYS, 'does anyone know how to make a server crash?'
+[Sat Dec 22 14:49:42 2001] You told Windias, 'Hail, Windias! Senior Guide Espranza here. Your guild name was "The Avant Guard", spelled like that?'
+[Sat Dec 22 14:49:43 2001] Windias tells you, 'Sorry, I am A.F.K. (Away From Keyboard) right now.'
+[Sat Dec 22 14:49:49 2001] Lirus GMSAYS, 'nope'
+[Sat Dec 22 14:49:55 2001] Windias tells you, 'aye'
+[Sat Dec 22 14:49:59 2001] You GMSAY, 'drive it while drunk?'
+[Sat Dec 22 14:50:29 2001] You told Windias, 'okay, I'll pass this along to the GM. Did your guild have more than 10 active members?'
+[Sat Dec 22 14:50:29 2001] Lancet GMSAYS, 'pls find out and go crash the guide board server over and over till they give us back the opld boards i HATE the new one'
+[Sat Dec 22 14:50:36 2001] Windias tells you, 'aye'
+[Sat Dec 22 14:50:42 2001] Windias tells you, '3 of us lost our tags\'
+[Sat Dec 22 14:50:45 2001] You told Windias, 'okay, I'll pass it along, then'
+[Sat Dec 22 14:50:55 2001] Lirus GMSAYS, 'hehe you don't like ezboard?'
+[Sat Dec 22 14:50:56 2001] Windias tells you, 'but I am the  leader, so there in lies the problem'
+[Sat Dec 22 14:50:59 2001] Windias tells you, 'thank you much\'
+[Sat Dec 22 14:51:13 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sat Dec 22 14:51:14 2001] GM TEXT: Espranza: Lost the tag to the guild "The Avant Guard", spelled as written... he was the leader.
+[Sat Dec 22 14:51:16 2001] STATUS UPGRADED TO URGENT
+[Sat Dec 22 14:51:16 2001] STATUS UPGRADED TO EMERGENCY
+[Sat Dec 22 14:51:31 2001] Lancet GMSAYS, 'what ezboard want i dont like is have to just to 15 boards to find out whats going on'
+[Sat Dec 22 14:51:40 2001] You GMSAY, 'esc Windias, lost guild tag and leadership of his guild "The Avant Guard"'
+[Sat Dec 22 14:51:42 2001] CHECKING IN
+[Sat Dec 22 14:51:44 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:51:45 2001] USER TEXT: Loss  of guild TAG (guild name The Avant  Guard) and I am supposed to be the leader
+[Sat Dec 22 14:51:45 2001] Players in EverQuest:
+[Sat Dec 22 14:51:45 2001] ---------------------------
+[Sat Dec 22 14:51:45 2001] [53 Wanderer] Windias (Wood Elf) ZONE: butcher (USER PID DW7EQ9K)
+[Sat Dec 22 14:51:45 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:51:47 2001] UNDOING CHECK OUT
+[Sat Dec 22 14:51:49 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:51:50 2001] USER TEXT: while lirus is on, i'll try this petition for the 4th time. My rogue lost all his gear a while ago and i still haven't been helped.
+[Sat Dec 22 14:51:50 2001] Players in EverQuest:
+[Sat Dec 22 14:51:50 2001] ---------------------------
+[Sat Dec 22 14:51:50 2001] There are no players in EverQuest that match those who filters.
+[Sat Dec 22 14:52:07 2001] Players in EverQuest:
+[Sat Dec 22 14:52:07 2001] ---------------------------
+[Sat Dec 22 14:52:07 2001] There are no players in EverQuest that match those who filters.
+[Sat Dec 22 14:52:07 2001] Salvie GMSAYS, 'Does verant still email guild leaders once there guilds have been approved?'
+[Sat Dec 22 14:52:10 2001] Lancet GMSAYS, 'befor you loged on scrolled down the page and was done'
+[Sat Dec 22 14:52:23 2001] Players in EverQuest:
+[Sat Dec 22 14:52:23 2001] ---------------------------
+[Sat Dec 22 14:52:23 2001] There are no players in EverQuest that match those who filters.
+[Sat Dec 22 14:52:29 2001] You GMSAY, 'Khirah unavail x2'
+[Sat Dec 22 14:52:32 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Dec 22 14:52:33 2001] CHECKING IN
+[Sat Dec 22 14:52:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 14:52:37 2001] USER TEXT: Greetings, "Griizz ..." here... Espranza conveniently changed my surname to nothing, so as to not allow me to customize it personally as 99.99 percent of the rest of EQ's population get to do...contrary to her promise, she logged 5 minutes later
+[Sat Dec 22 14:52:37 2001] Players in EverQuest:
+[Sat Dec 22 14:52:37 2001] ---------------------------
+[Sat Dec 22 14:52:37 2001] [22 Beastlord] Griizz (Ogre) ZONE: oggok (USER PID ARUYVWT)
+[Sat Dec 22 14:52:37 2001] There is 1 player in EverQuest.
+[Sat Dec 22 14:52:41 2001] Lancet GMSAYS, 'yes they email them'
+[Sat Dec 22 14:52:47 2001] Salvie GMSAYS, 'thats what I thought.'
+[Sat Dec 22 14:53:05 2001] Lancet GMSAYS, 'they can check status in chat on guild'
+[Sat Dec 22 14:53:06 2001] You told Griizz, 'Hail, Griizz! Senior Guide Espranza here. I didn't log, I crashed, but am back now. Have you decided upon a new last name?'
+[Sat Dec 22 14:53:15 2001] Griizz tells you, 'Greetings!!'
+[Sat Dec 22 14:53:18 2001] Griizz tells you, 'Yes'
+[Sat Dec 22 14:53:24 2001] You told Griizz, 'What shall it be?'
+[Sat Dec 22 14:53:33 2001] Griizz tells you, 'I have, after much careful thought, decided upon "Masttarr"'
+[Sat Dec 22 14:53:58 2001] Kilm GMSAYS, 'esc bandipus character restoration request.'
+[Sat Dec 22 14:54:10 2001] You told Griizz, 'Ah. Unfortunately, that still violates our naming policy, which you can find upon the EQ website.'
+[Sat Dec 22 14:54:57 2001] Griizz tells you, 'I dont recall reading the statement "If the surname you pick is a name you like, you may not have it" .. <scratches his chin>  .. a bit odd....'
+[Sat Dec 22 14:55:02 2001] Salvie GMSAYS, 'Pretty much what I was telling him but I figured I should check too make sure. Havnet done a a guild in literally years'
+[Sat Dec 22 14:55:10 2001] Griizz tells you, 'Hmm.. alright.. <looks around, confused>'
+[Sat Dec 22 14:55:49 2001] Griizz tells you, 'How about Mastor?'
+[Sat Dec 22 14:56:01 2001] You told Griizz, 'I don't believe I said you couldn't have a name you liked, merely that you could not have one that violated the naming guidelines, specifically the one concerning titles, and the one concerning misspellings of names that violate the guideline'
+[Sat Dec 22 14:56:06 2001] Griizz tells you, 'No wait, that's too close heh.. Masttorr?'
+[Sat Dec 22 14:56:22 2001] You told Griizz, 'No, it won't be Master or any permutation of that.'
+[Sat Dec 22 14:56:35 2001] Griizz tells you, 'Any combination of given letters could be interpreted as a "misspelling" of a word... '
+[Sat Dec 22 14:56:45 2001] You GMSAY, 'Gosh, I love being able to change last names! It's so much fun! grrrrr'
+[Sat Dec 22 14:57:00 2001] Griizz tells you, 'I am not intending it to be'
+[Sat Dec 22 14:57:16 2001] Lirus GMSAYS, 'brb checking a faction issue'
+[Sat Dec 22 14:57:32 2001] You told Griizz, 'Anything that a normal person would look at and immediately think "Master" isn't going to pass.'
+[Sat Dec 22 14:57:41 2001] Griizz tells you, 'Are you a normal person?'
+[Sat Dec 22 14:57:46 2001] You told Griizz, 'I try to be'
+[Sat Dec 22 14:57:50 2001] Griizz tells you, 'Ahh..'
+[Sat Dec 22 14:58:09 2001] Lancet GMSAYS, 'ok ppl what doi want fior dinner wifes gone im all alone  so give me a hint '
+[Sat Dec 22 14:58:16 2001] Griizz tells you, 'I try to be a normal person as well, and that name didnt immediatly appear to convey "master"'
+[Sat Dec 22 14:58:19 2001] You GMSAY, 'Japanese.'
+[Sat Dec 22 14:58:29 2001] Espranza saved.
+[Sat Dec 22 14:58:38 2001] Lancet GMSAYS, 'naw hate raw fish'
+[Sat Dec 22 14:58:39 2001] Griizz tells you, 'I heard you can add commas in a surname, is that correct?'
+[Sat Dec 22 14:58:48 2001] Lirus00 GMSAYS, '<--Lirus'
+[Sat Dec 22 14:58:49 2001] Windias tells you, 'is it possible to get an ETA on assistance?'
+[Sat Dec 22 14:58:52 2001] You told Griizz, 'no, you can have one apostrophe though.'
+[Sat Dec 22 14:58:59 2001] Lancet GMSAYS, 'lirus is a raw fish>?'
+[Sat Dec 22 14:59:01 2001] Griizz tells you, 'Oh yes that's what I meant'
+[Sat Dec 22 14:59:04 2001] Salvie GMSAYS, 'How can you hate Sushi....Heathen!!'
+[Sat Dec 22 14:59:04 2001] Lirus00 GMSAYS, 'huh?'
+[Sat Dec 22 14:59:16 2001] Lancet GMSAYS, 'ok give me tuna'
+[Sat Dec 22 14:59:18 2001] Lirus00 GMSAYS, 'i was just saying i'm on this new character'
+[Sat Dec 22 14:59:25 2001] Lirus00 GMSAYS, 'checking some dude's faction if ya needed me'
+[Sat Dec 22 14:59:28 2001] Lirus00 GMSAYS, 'zone'
+[Sat Dec 22 14:59:32 2001] Lancet GMSAYS, 'lol i know it was just timing is all'
+[Sat Dec 22 14:59:46 2001] You told Windias, 'As soon as possible. If it's a petition the GM must do, he has a few he is working on.'
+[Sat Dec 22 14:59:46 2001] Windias tells you, 'Sorry, I am A.F.K. (Away From Keyboard) right now.'
+[Sat Dec 22 14:59:50 2001] Griizz tells you, 'Can I have the surname Lowrd?  '
+[Sat Dec 22 15:00:21 2001] Players on EverQuest:
+[Sat Dec 22 15:00:21 2001] ---------------------------
+[Sat Dec 22 15:00:21 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:00:21 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:00:21 2001] There are 2 players in Sunset Home.
+[Sat Dec 22 15:00:22 2001] Players on EverQuest:
+[Sat Dec 22 15:00:22 2001] ---------------------------
+[Sat Dec 22 15:00:22 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:00:22 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:00:22 2001] There are 2 players in Sunset Home.
+[Sat Dec 22 15:00:23 2001] Players on EverQuest:
+[Sat Dec 22 15:00:23 2001] ---------------------------
+[Sat Dec 22 15:00:23 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:00:23 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:00:23 2001] There are 2 players in Sunset Home.
+[Sat Dec 22 15:00:23 2001] Players on EverQuest:
+[Sat Dec 22 15:00:23 2001] ---------------------------
+[Sat Dec 22 15:00:24 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:00:24 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:00:24 2001] There are 2 players in Sunset Home.
+[Sat Dec 22 15:00:24 2001] Players on EverQuest:
+[Sat Dec 22 15:00:25 2001] ---------------------------
+[Sat Dec 22 15:00:25 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:00:25 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:00:25 2001] There are 2 players in Sunset Home.
+[Sat Dec 22 15:00:25 2001] You told Griizz, 'hmm... okay let me ask the other guides if it is different enough from Lord....'
+[Sat Dec 22 15:00:39 2001] Griizz tells you, 'Lord?? <gasps>  Never thought of that...'
+[Sat Dec 22 15:00:51 2001] You GMSAY, 'Last name "Lowrd" for Griizz... different enough from Lord?'
+[Sat Dec 22 15:00:59 2001] You told Griizz, 'uh huh'
+[Sat Dec 22 15:01:15 2001] Windias tells you, 'ok, my guildmate tried the other night, waited 2 hours and finally camped'
+[Sat Dec 22 15:01:18 2001] Lancet GMSAYS, 'close call'
+[Sat Dec 22 15:01:21 2001] Players in EverQuest:
+[Sat Dec 22 15:01:21 2001] ---------------------------
+[Sat Dec 22 15:01:21 2001] * GM-Admin *[59 Myrmidon] Lirus00 (Barbarian) ZONE: kael (USER PID CW1ECN5)
+[Sat Dec 22 15:01:21 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 15:01:21 2001] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Sat Dec 22 15:01:21 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: karnor (USER PID BUUWN74)
+[Sat Dec 22 15:01:21 2001] * Guide *[50 Warrior] Salvie (Barbarian) <Keepers of Dreams> ZONE: oot (USER PID CUUVYEU)
+[Sat Dec 22 15:01:21 2001] There are 5 players in EverQuest.
+[Sat Dec 22 15:01:28 2001] Lirus00 GMSAYS, 'i would not grant'
+[Sat Dec 22 15:01:34 2001] You GMSAY, 'k'
+[Sat Dec 22 15:01:42 2001] Lirus00 GMSAYS, 'be hesitant to take away'
+[Sat Dec 22 15:01:45 2001] Lirus00 GMSAYS, 'but not to grant'
+[Sat Dec 22 15:01:54 2001] Lirus00 GMSAYS, 'better to deny something and nip it in the bud'
+[Sat Dec 22 15:02:01 2001] You told Griizz, 'GM and other senior say it's too close to Lord.'
+[Sat Dec 22 15:02:02 2001] Griizz tells you, 'The very first time I saw your name, it reminded me immediatly of the english word "Football"... I personally think it violates the naming policy'
+[Sat Dec 22 15:02:13 2001] Griizz tells you, 'Ok...'
+[Sat Dec 22 15:02:26 2001] You told Griizz, 'Football as a name wouldn't violate policy, by the way'
+[Sat Dec 22 15:02:44 2001] Salvie GMSAYS, 'zoning'
+[Sat Dec 22 15:03:24 2001] Griizz tells you, 'Can my surname be "Gm'espranza"?'
+[Sat Dec 22 15:03:30 2001] Kilm GMSAYS, 'zone'
+[Sat Dec 22 15:03:33 2001] You told Griizz, 'heh no....'
+[Sat Dec 22 15:03:40 2001] Griizz tells you, 'Ohh...'
+[Sat Dec 22 15:03:58 2001] Players in EverQuest:
+[Sat Dec 22 15:03:58 2001] ---------------------------
+[Sat Dec 22 15:03:58 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: akanon (USER PID BUUWN74)
+[Sat Dec 22 15:03:58 2001] * Guide *[50 Warrior] Salvie (Barbarian) <Keepers of Dreams> ZONE: bazaar (USER PID CUUVYEU)
+[Sat Dec 22 15:03:58 2001] * GM-Admin *[59 Myrmidon] Lirus00 (Barbarian) ZONE: kael (USER PID CW1ECN5)
+[Sat Dec 22 15:03:58 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 15:03:58 2001] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Sat Dec 22 15:03:58 2001] There are 5 players in EverQuest.
+[Sat Dec 22 15:04:26 2001] DELETING THIS PETITION
+[Sat Dec 22 15:04:29 2001] Lancet GMSAYS, 'zoning TOV buged cor'
+[Sat Dec 22 15:04:33 2001] Salvie GMSAYS, 'Zoning into ToV for corpse'
+[Sat Dec 22 15:05:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:05:07 2001] USER TEXT: I died deep in tov an my body got moved to zone an is stuck in the wall.     Logangreed an one other guildy has same problem
+[Sat Dec 22 15:05:07 2001] Players in EverQuest:
+[Sat Dec 22 15:05:07 2001] ---------------------------
+[Sat Dec 22 15:05:07 2001] [60 Assassin] Mada (Barbarian) <Thunderwalkers> ZONE: templeveeshan (USER PID ASY3272)
+[Sat Dec 22 15:05:07 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:05:13 2001] Griizz tells you, '.. how about "Lourd"? That doesnt seem to convey the word "lord" as much'
+[Sat Dec 22 15:05:38 2001] You told Griizz, 'Just as closely as Lowrd...'
+[Sat Dec 22 15:05:54 2001] You GMSAY, 'Are either of you looking for Mada's corpse in ToV?'
+[Sat Dec 22 15:05:58 2001] Griizz tells you, 'Yes, your opinion might be correct...'
+[Sat Dec 22 15:06:03 2001] Griizz tells you, 'Fine how about Lourde ?'
+[Sat Dec 22 15:06:10 2001] Salvie GMSAYS, 'No looking for corpse of Drakoth'
+[Sat Dec 22 15:06:10 2001] Lancet GMSAYS, 'ZONING'
+[Sat Dec 22 15:06:21 2001] You GMSAY, 'esc Mada for you too, then'
+[Sat Dec 22 15:06:24 2001] STATUS UPGRADED TO URGENT
+[Sat Dec 22 15:06:26 2001] CHECKING IN
+[Sat Dec 22 15:06:42 2001] Griizz tells you, 'By the way, why did you make my name a blank?'
+[Sat Dec 22 15:06:55 2001] Lancet GMSAYS, 'they have that too looks like'
+[Sat Dec 22 15:07:01 2001] Lancet GMSAYS, 'ZONING'
+[Sat Dec 22 15:07:04 2001] You told Griizz, 'I made it a blank so you would have to go through a senior or a GM to have it changed.'
+[Sat Dec 22 15:07:12 2001] Salvie GMSAYS, 'Zoning out'
+[Sat Dec 22 15:07:21 2001] Griizz tells you, 'yes... but why?'
+[Sat Dec 22 15:07:25 2001] Griizz tells you, 'No one else has to do that'
+[Sat Dec 22 15:07:41 2001] Griizz tells you, 'That seems to be quite unfair...'
+[Sat Dec 22 15:07:47 2001] You told Griizz, 'Because you wouldn't come up with an acceptable surname, and I had other petitions to work on.'
+[Sat Dec 22 15:08:06 2001] Players on EverQuest:
+[Sat Dec 22 15:08:06 2001] ---------------------------
+[Sat Dec 22 15:08:06 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:06 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:06 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:06 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:07 2001] Players on EverQuest:
+[Sat Dec 22 15:08:07 2001] ---------------------------
+[Sat Dec 22 15:08:07 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:07 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:07 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:07 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:08 2001] Players on EverQuest:
+[Sat Dec 22 15:08:08 2001] ---------------------------
+[Sat Dec 22 15:08:08 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:08 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:08 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:08 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:09 2001] Players on EverQuest:
+[Sat Dec 22 15:08:09 2001] ---------------------------
+[Sat Dec 22 15:08:09 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:09 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:09 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:09 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:09 2001] Players on EverQuest:
+[Sat Dec 22 15:08:09 2001] ---------------------------
+[Sat Dec 22 15:08:09 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:09 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:09 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:09 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:10 2001] Players on EverQuest:
+[Sat Dec 22 15:08:10 2001] ---------------------------
+[Sat Dec 22 15:08:10 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:10 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:10 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:10 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:11 2001] Players on EverQuest:
+[Sat Dec 22 15:08:11 2001] ---------------------------
+[Sat Dec 22 15:08:11 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:11 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:11 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:11 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:12 2001] Players on EverQuest:
+[Sat Dec 22 15:08:12 2001] ---------------------------
+[Sat Dec 22 15:08:12 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:12 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:12 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:12 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:12 2001] Players on EverQuest:
+[Sat Dec 22 15:08:12 2001] ---------------------------
+[Sat Dec 22 15:08:12 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:12 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:12 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:12 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:13 2001] Players on EverQuest:
+[Sat Dec 22 15:08:13 2001] ---------------------------
+[Sat Dec 22 15:08:13 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:13 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:13 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:13 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:15 2001] Players on EverQuest:
+[Sat Dec 22 15:08:15 2001] ---------------------------
+[Sat Dec 22 15:08:15 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:15 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:15 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:15 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:16 2001] Players on EverQuest:
+[Sat Dec 22 15:08:16 2001] ---------------------------
+[Sat Dec 22 15:08:16 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:16 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:16 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:16 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:17 2001] Players on EverQuest:
+[Sat Dec 22 15:08:17 2001] ---------------------------
+[Sat Dec 22 15:08:17 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:17 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:17 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:17 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:18 2001] Players on EverQuest:
+[Sat Dec 22 15:08:18 2001] ---------------------------
+[Sat Dec 22 15:08:18 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:18 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:18 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:18 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:19 2001] Players on EverQuest:
+[Sat Dec 22 15:08:19 2001] ---------------------------
+[Sat Dec 22 15:08:19 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:19 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:19 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:19 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:19 2001] Players on EverQuest:
+[Sat Dec 22 15:08:19 2001] ---------------------------
+[Sat Dec 22 15:08:19 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:19 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:19 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:19 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:20 2001] Players on EverQuest:
+[Sat Dec 22 15:08:20 2001] ---------------------------
+[Sat Dec 22 15:08:20 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:20 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:20 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:20 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:21 2001] Players on EverQuest:
+[Sat Dec 22 15:08:21 2001] ---------------------------
+[Sat Dec 22 15:08:21 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:21 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:21 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:21 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:22 2001] Players on EverQuest:
+[Sat Dec 22 15:08:22 2001] ---------------------------
+[Sat Dec 22 15:08:22 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:22 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:22 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:22 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:08:23 2001] Players on EverQuest:
+[Sat Dec 22 15:08:23 2001] ---------------------------
+[Sat Dec 22 15:08:23 2001] * GM * [50 Warrior] Salvie (Barbarian) <Keepers of Dreams>
+[Sat Dec 22 15:08:23 2001] * GM * [57 Master] Lancet (Iksar) <Keepers of Dreams>
+[Sat Dec 22 15:08:23 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:08:23 2001] There are 3 players in Sunset Home.
+[Sat Dec 22 15:15:09 2001] Welcome to EverQuest!
+[Sat Dec 22 15:15:10 2001] You have entered Sunset Home.
+[Sat Dec 22 15:15:10 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! EverQuest is a dynamic game. As such, the manual that came with your game may be out of date. For the latest game information, please see www.everquest.com or the file EQManual_Supplement.txt.
+[Sat Dec 22 15:15:11 2001] GUILD MOTD: Lirus - Happy Holidays!
+[Sat Dec 22 15:15:14 2001] It begins to rain.
+[Sat Dec 22 15:15:18 2001] You GMSAY, 'sigh... back again'
+[Sat Dec 22 15:15:28 2001] Players on EverQuest:
+[Sat Dec 22 15:15:28 2001] ---------------------------
+[Sat Dec 22 15:15:28 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sat Dec 22 15:15:28 2001] There is 1 player in Sunset Home.
+[Sat Dec 22 15:15:32 2001] Players in EverQuest:
+[Sat Dec 22 15:15:32 2001] ---------------------------
+[Sat Dec 22 15:15:32 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 15:15:32 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: sseru (USER PID CW1ECN5)
+[Sat Dec 22 15:15:32 2001] There are 2 players in EverQuest.
+[Sat Dec 22 15:15:46 2001] You GMSAY, 'everyone else get kicked?'
+[Sat Dec 22 15:15:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:15:49 2001] USER TEXT: cant loot corpse
+[Sat Dec 22 15:15:49 2001] Players in EverQuest:
+[Sat Dec 22 15:15:49 2001] ---------------------------
+[Sat Dec 22 15:15:49 2001] [ANON (53 Pathfinder)] Stallone (Half Elf) ZONE: karnor (USER PID GPSGLC6)
+[Sat Dec 22 15:15:49 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:15:55 2001] Searching zones for corpse of that name....
+[Sat Dec 22 15:15:55 2001] Corpse: Stallone's corpse0 in zone: karnor
+[Sat Dec 22 15:16:11 2001] Lirus GMSAYS, 'nope'
+[Sat Dec 22 15:16:26 2001] You told Stallone, 'Hail, Stallone! Guide Espranza here. Have you tried the /corpse command?'
+[Sat Dec 22 15:16:42 2001] Stallone tells you, 'i even had a gmhere to help me'
+[Sat Dec 22 15:17:01 2001] Stallone tells you, 'but problem, still here, i cant see more than text on my corpse'
+[Sat Dec 22 15:17:14 2001] Stallone tells you, 'other players can, and i cant loot'
+[Sat Dec 22 15:17:26 2001] You told Stallone, 'oh? I've seen that before. One moment...'
+[Sat Dec 22 15:17:28 2001] Stallone tells you, 'to me it looks like its stuck under ground'
+[Sat Dec 22 15:17:34 2001] Stallone tells you, 'ok'
+[Sat Dec 22 15:17:39 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 15:18:14 2001] You have entered Karnor's Castle.
+[Sat Dec 22 15:18:20 2001] Teleporting to stallone's corpse0.
+[Sat Dec 22 15:18:26 2001] Griizz tells you, 'Welcome back.'
+[Sat Dec 22 15:18:28 2001] Stallone says, 'Hail, Espranza'
+[Sat Dec 22 15:18:28 2001] Summoning Stallone's corpse0.
+[Sat Dec 22 15:18:43 2001] It begins to rain.
+[Sat Dec 22 15:18:45 2001] You say, 'target me, type /assist, and then type /loot'
+[Sat Dec 22 15:18:48 2001] Zzaxe shouts, 'Looking for EXP rezz'
+[Sat Dec 22 15:18:51 2001] Jaykay begins to cast a spell. (Greater Healing)
+[Sat Dec 22 15:18:51 2001] You told Griizz, 'hello again...'
+[Sat Dec 22 15:19:04 2001] You say, 'No luck?'
+[Sat Dec 22 15:19:08 2001] Griizz tells you, 'May I have the surname "Warder" please?'
+[Sat Dec 22 15:19:08 2001] Your protection fades.
+[Sat Dec 22 15:19:15 2001] Jaykay begins to cast a spell. (Shifting Shield)
+[Sat Dec 22 15:19:19 2001] Stallone tells you, 'no '
+[Sat Dec 22 15:19:22 2001] Jaykay begins to cast a spell. (Greater Healing)
+[Sat Dec 22 15:19:22 2001] You told Stallone, 'hmmm'
+[Sat Dec 22 15:19:29 2001] Jaykay begins to cast a spell. (Talisman of Tnarg)
+[Sat Dec 22 15:19:30 2001] You told Griizz, 'That's still a title.'
+[Sat Dec 22 15:19:37 2001] Jaykay begins to cast a spell. (Health)
+[Sat Dec 22 15:19:44 2001] Rightous tells you, 'you look cool :)'
+[Sat Dec 22 15:19:46 2001] You GMSAY, 'Lirus, do you have a moment?'
+[Sat Dec 22 15:19:48 2001] Stallone tells you, 'can u raise it in the air ?'
+[Sat Dec 22 15:19:52 2001] Rightous says out of character, '59 Paladin LFG'
+[Sat Dec 22 15:19:56 2001] You told Rightous, 'thanks! My Christmas outfit'
+[Sat Dec 22 15:20:00 2001] Rightous tells you, 'hehe :)'
+[Sat Dec 22 15:20:03 2001] You told Stallone, 'that won't help, I've seen this before'
+[Sat Dec 22 15:20:05 2001] Griizz tells you, 'Any word could be considered a title... ok what about "Warrder"?'
+[Sat Dec 22 15:20:10 2001] Stallone tells you, 'ok'
+[Sat Dec 22 15:20:32 2001] Zzaxe says, 'Hail, Renladarasstoe'
+[Sat Dec 22 15:20:36 2001] Zzaxe says, 'Quantums corpse'
+[Sat Dec 22 15:20:36 2001] Renladarasstoe says, 'i can rez all hold on'
+[Sat Dec 22 15:20:40 2001] You told Stallone, 'I'm going to have to pass this to the GM...'
+[Sat Dec 22 15:20:45 2001] Stallone tells you, 'had lupine dagger wolf form on when it happened, happened in tower, ppl dragged it there'
+[Sat Dec 22 15:20:56 2001] Gwaro waves at Zzaxe.
+[Sat Dec 22 15:20:57 2001] Stallone tells you, 'ok, hope he gets here zone, ive been here long'
+[Sat Dec 22 15:21:02 2001] Gwaro waves at Quantum.
+[Sat Dec 22 15:21:03 2001] Players in EverQuest:
+[Sat Dec 22 15:21:03 2001] ---------------------------
+[Sat Dec 22 15:21:03 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: karnor (USER PID B4KJ6E7)
+[Sat Dec 22 15:21:03 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: sseru (USER PID CW1ECN5)
+[Sat Dec 22 15:21:03 2001] There are 2 players in EverQuest.
+[Sat Dec 22 15:21:08 2001] Renladarasstoe begins to cast a spell. (Resurrection)
+[Sat Dec 22 15:21:22 2001] Renladarasstoe says, 'next'
+[Sat Dec 22 15:21:24 2001] You GMSAY, 'Lirus, when you have a moment, could you look at this corpse?'
+[Sat Dec 22 15:21:24 2001] Quantum says, 'Thanks a million'
+[Sat Dec 22 15:21:27 2001] Renladarasstoe says, 'np'
+[Sat Dec 22 15:21:32 2001] Gwaro is looking at your equipment...
+[Sat Dec 22 15:21:56 2001] Stallone begins to cast a spell. (Spirit of Wolf)
+[Sat Dec 22 15:21:58 2001] Rightous begins to cast a spell. (Daring)
+[Sat Dec 22 15:22:08 2001] You told Griizz, 'How about "Jones"?'
+[Sat Dec 22 15:22:10 2001] Rightous begins to cast a spell. (Daring)
+[Sat Dec 22 15:22:16 2001] Correllan tells you, 'hey got a second?'
+[Sat Dec 22 15:22:18 2001] Griizz tells you, 'Why?'
+[Sat Dec 22 15:22:18 2001] Jaykay begins to cast a spell. (Talisman of Tnarg)
+[Sat Dec 22 15:22:21 2001] Rightous 0.
+[Sat Dec 22 15:22:24 2001] Rightous )
+[Sat Dec 22 15:22:26 2001] Jaykay begins to cast a spell. (Nimble)
+[Sat Dec 22 15:22:29 2001] You told Griizz, 'Just a non-violating kind of name'
+[Sat Dec 22 15:22:34 2001] Griizz tells you, 'Is the surname "Warrder" acceptable?'
+[Sat Dec 22 15:22:35 2001] Jaykay begins to cast a spell. (Rising Dexterity)
+[Sat Dec 22 15:22:35 2001] You told Correllan, 'Heya, Correllan! Grats!'
+[Sat Dec 22 15:22:41 2001] Rightous says, 'if ya need to cana up & i can just use helm on ya '
+[Sat Dec 22 15:22:44 2001] You told Griizz, 'no, it's just "Warder" with an extra 'r''
+[Sat Dec 22 15:22:45 2001] Correllan tells you, 'ty..lol..now if i can only get in...rofl'
+[Sat Dec 22 15:22:52 2001] Players in EverQuest:
+[Sat Dec 22 15:22:52 2001] ---------------------------
+[Sat Dec 22 15:22:52 2001] [1 Wizard] Correllan (Gnome) ZONE: akanon (USER PID AYM1PPY)
+[Sat Dec 22 15:22:52 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:22:55 2001] Rightous bows before Jaykay.
+[Sat Dec 22 15:23:00 2001] Rightous says, 'ok :)'
+[Sat Dec 22 15:23:01 2001] You told Correllan, 'don't you have a new guide account?'
+[Sat Dec 22 15:23:01 2001] Rasza says out of character, 'lvl 55 monk lfg here seb or chardok'
+[Sat Dec 22 15:23:07 2001] Correllan tells you, 'i got my email from james'
+[Sat Dec 22 15:23:08 2001] Rightous says out of character, '59 Paladin LFG'
+[Sat Dec 22 15:23:21 2001] You GMSAY, 'esc Stallone - corpse is severely bugged - needs GM help'
+[Sat Dec 22 15:23:33 2001] Renladarasstoe says, 'thanks'
+[Sat Dec 22 15:23:34 2001] Quantum says, 'all i got man'
+[Sat Dec 22 15:23:38 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sat Dec 22 15:23:38 2001] GM TEXT: Espranza: only the name appears, no corpse, can be targeted and dragged but not looted.
+[Sat Dec 22 15:23:39 2001] Griizz tells you, 'How about Worder?'
+[Sat Dec 22 15:23:40 2001] STATUS UPGRADED TO URGENT
+[Sat Dec 22 15:23:41 2001] STATUS UPGRADED TO EMERGENCY
+[Sat Dec 22 15:23:46 2001] CHECKING IN
+[Sat Dec 22 15:24:13 2001] Lirus GMSAYS, 'sure esp one sec'
+[Sat Dec 22 15:24:17 2001] Correllan tells you, 'not a new account number all i got from him was the new log in name and password what do i put for account number when i edit my registration info'
+[Sat Dec 22 15:24:18 2001] Renladarasstoe begins to cast a spell. (Resurrection)
+[Sat Dec 22 15:24:19 2001] You told Stallone, 'Okay, I've passed it along to the GM, he will be here shortly'
+[Sat Dec 22 15:24:26 2001] Stallone tells you, 'ok'
+[Sat Dec 22 15:24:32 2001] You told Correllan, 'log in with the new login name and password'
+[Sat Dec 22 15:24:38 2001] Stallone tells you, 'thanks and bye'
+[Sat Dec 22 15:24:47 2001] Etenies says out of character, '/hug Espranza'
+[Sat Dec 22 15:24:48 2001] Griizz tells you, 'How about Worder?'
+[Sat Dec 22 15:25:08 2001] Correllan tells you, 'okay i tried and it wouldn't let me...i forget what the message said....okay will try again'
+[Sat Dec 22 15:25:20 2001] Renladarasstoe says, 'thank you'
+[Sat Dec 22 15:25:21 2001] Correllan tells you, 'camping '
+[Sat Dec 22 15:25:22 2001] You told Griizz, 'Hmm... let me ask'
+[Sat Dec 22 15:25:26 2001] Correllan tells you, 'camping to try again'
+[Sat Dec 22 15:25:28 2001] Renladarasstoe begins to cast a spell. (Celestial Healing)
+[Sat Dec 22 15:25:50 2001] You GMSAY, 'Griizz Worder? How is that? It's kind of different from Warder'
+[Sat Dec 22 15:25:56 2001] Jaykay begins to cast a spell. (Cannibalize)
+[Sat Dec 22 15:25:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:25:57 2001] USER TEXT: how do I work the alternative advancment ?
+[Sat Dec 22 15:25:57 2001] Players in EverQuest:
+[Sat Dec 22 15:25:57 2001] ---------------------------
+[Sat Dec 22 15:25:57 2001] [51 Pathfinder] Mattiahs (Wood Elf) <Faveo Sulum Ipsemet Ascio> ZONE: najena (USER PID DNM1UVP)
+[Sat Dec 22 15:25:57 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:26:02 2001] Lirus GMSAYS, 'it's not bad'
+[Sat Dec 22 15:26:02 2001] Rightous begins to cast a spell. (Daring)
+[Sat Dec 22 15:26:03 2001] Stallone says out of character, 'first time ever with no trains, maybe the GM being here )'
+[Sat Dec 22 15:26:03 2001] Quantum begins to cast a spell. (Radiant Visage)
+[Sat Dec 22 15:26:04 2001] UNDOING CHECK OUT
+[Sat Dec 22 15:26:08 2001] Quantum's face glows radiantly.
+[Sat Dec 22 15:26:10 2001] You GMSAY, 'okay, cool - finally'
+[Sat Dec 22 15:26:12 2001] Etenies says out of character, '*jinx'
+[Sat Dec 22 15:26:13 2001] Quantum begins to cast a spell. (Intellectual Superiority)
+[Sat Dec 22 15:26:14 2001] Rightous begins to cast a spell. (Daring)
+[Sat Dec 22 15:26:17 2001] Quantum's mind sharpens.
+[Sat Dec 22 15:26:19 2001] Quantum begins to cast a spell. (Clarity)
+[Sat Dec 22 15:26:20 2001] You told Griizz, 'GM agrees, Worder is fine. Be right there.'
+[Sat Dec 22 15:26:21 2001] Renladarasstoe begins to cast a spell. (Celestial Healing)
+[Sat Dec 22 15:26:23 2001] Quantum looks tranquil.
+[Sat Dec 22 15:26:24 2001] Jaykay begins to cast a spell. (Cannibalize)
+[Sat Dec 22 15:26:25 2001] Quantum's body is covered with a soft glow.
+[Sat Dec 22 15:26:25 2001] Rightous begins to cast a spell. (Daring)
+[Sat Dec 22 15:26:25 2001] Quantum's spell fizzles!
+[Sat Dec 22 15:26:26 2001] Quantum begins to cast a spell. (Illusion: Werewolf)
+[Sat Dec 22 15:26:26 2001] You GMSAY, 'zone'
+[Sat Dec 22 15:26:29 2001] Quantum's image shimmers.
+[Sat Dec 22 15:26:30 2001] Teleporting to griizz.
+[Sat Dec 22 15:26:31 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 15:26:53 2001] You have entered Oggok.
+[Sat Dec 22 15:27:09 2001] You have changed Griizz's last name to Worder.
+[Sat Dec 22 15:27:17 2001] Rightous tells you, 'cool :)'
+[Sat Dec 22 15:27:19 2001] Players in EverQuest:
+[Sat Dec 22 15:27:19 2001] ---------------------------
+[Sat Dec 22 15:27:19 2001] [22 Beastlord] Griizz (Ogre) ZONE: oggok (USER PID ARUYVWT)
+[Sat Dec 22 15:27:19 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:27:23 2001] Rightous tells you, 'sorry wt..'
+[Sat Dec 22 15:27:29 2001] The spirit leaves you.
+[Sat Dec 22 15:27:41 2001] Lirus GMSAYS, 'esp you at that corpse?'
+[Sat Dec 22 15:27:53 2001] You GMSAY, '<note> Changed Griizz's ARUYVWT last name to Worder.'
+[Sat Dec 22 15:27:56 2001] You GMSAY, 'no, but I can be'
+[Sat Dec 22 15:28:05 2001] You GMSAY, 'it's at KC zone out'
+[Sat Dec 22 15:28:07 2001] Lirus GMSAYS, 'go there then lemme know when i need to come to you'
+[Sat Dec 22 15:28:07 2001] You GMSAY, 'zone'
+[Sat Dec 22 15:28:13 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 15:28:38 2001] You have entered Karnor's Castle.
+[Sat Dec 22 15:28:41 2001] Etenies says, 'Hail, Kobu'
+[Sat Dec 22 15:28:42 2001] Etenies says, 'Hail, Kobu'
+[Sat Dec 22 15:28:43 2001] Rightous says, 'you too :)'
+[Sat Dec 22 15:28:44 2001] Etenies says, 'Hail, Kobu'
+[Sat Dec 22 15:28:49 2001] You GMSAY, 'okay, there now'
+[Sat Dec 22 15:28:51 2001] You feel the spirit of Norrath enter you.
+[Sat Dec 22 15:28:53 2001] You feel the spirit of Z surround you.
+[Sat Dec 22 15:28:56 2001] Lirus GMSAYS, 'zone'
+[Sat Dec 22 15:29:13 2001] Evez says, 'Hail, Espranza'
+[Sat Dec 22 15:29:17 2001] You say, 'Hello!'
+[Sat Dec 22 15:29:21 2001] Renladarasstoe shouts, '49 Cleric and 53 SK looking for group or for people to join group send tells'
+[Sat Dec 22 15:29:28 2001] Etenies hugs Espranza.
+[Sat Dec 22 15:29:37 2001] Etenies hugs Lirus.
+[Sat Dec 22 15:29:40 2001] Ravarg says out of character, 'Druid 52 lfg'
+[Sat Dec 22 15:29:48 2001] Mitzilflik says out of character, '48 Wizard LFG'
+[Sat Dec 22 15:29:48 2001] Kobu blinks at Lirus in disbelief.
+[Sat Dec 22 15:29:50 2001] You say to your guild, 'he said he was in wolf form when he died'
+[Sat Dec 22 15:29:57 2001] Lirus hugs Etenies.
+[Sat Dec 22 15:30:00 2001] You say to your guild, 'stallone's corpse'
+[Sat Dec 22 15:30:06 2001] Lirus tells the guild, 'can he loot the corpse?'
+[Sat Dec 22 15:30:09 2001] You say to your guild, 'no'
+[Sat Dec 22 15:30:13 2001] Quantum says, 'Whats goin on here?'
+[Sat Dec 22 15:30:19 2001] Shangli says out of character, '54 Monk LFG'
+[Sat Dec 22 15:30:28 2001] Ravarg says out of character, 'Druid 52 lfg'
+[Sat Dec 22 15:30:31 2001] Evez says, 'What's up.'
+[Sat Dec 22 15:30:45 2001] Lirus says, 'stallone'
+[Sat Dec 22 15:30:49 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:30:49 2001] USER TEXT: how do I work the alternative advancment ?
+[Sat Dec 22 15:30:49 2001] Players in EverQuest:
+[Sat Dec 22 15:30:49 2001] ---------------------------
+[Sat Dec 22 15:30:49 2001] [51 Pathfinder] Mattiahs (Wood Elf) <Faveo Sulum Ipsemet Ascio> ZONE: najena (USER PID DNM1UVP)
+[Sat Dec 22 15:30:49 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:30:50 2001] Stallone says, 'yes'
+[Sat Dec 22 15:30:53 2001] Lirus says, 'Type /target stallone's corpse0'
+[Sat Dec 22 15:31:00 2001] Evez sits down for has rest time to regain mana.
+[Sat Dec 22 15:31:08 2001] Lirus says, 'got it on target?'
+[Sat Dec 22 15:31:19 2001] Stallone says, 'yes'
+[Sat Dec 22 15:31:29 2001] Ravarg begins to cast a spell. (Spirit of Wolf)
+[Sat Dec 22 15:31:30 2001] Lirus says, 'do you have a cleric to res you, or are you just going to loot?'
+[Sat Dec 22 15:31:40 2001] Stallone says, 'works'
+[Sat Dec 22 15:31:44 2001] Lirus says, 'ok'
+[Sat Dec 22 15:31:49 2001] You told Mattiahs, 'Hail, Mattiahs! Senior Guide Espranza here. Go to your inventory screen and hit the "ADV" button, that will bring up the alternate advancement screen.'
+[Sat Dec 22 15:31:50 2001] Lirus shrugs unknowingly.
+[Sat Dec 22 15:31:52 2001] DELETING THIS PETITION
+[Sat Dec 22 15:31:55 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:31:55 2001] USER TEXT: cant loot corpse
+[Sat Dec 22 15:31:55 2001] Players in EverQuest:
+[Sat Dec 22 15:31:55 2001] ---------------------------
+[Sat Dec 22 15:31:55 2001] [ANON (53 Pathfinder)] Stallone (Half Elf) ZONE: karnor (USER PID GPSGLC6)
+[Sat Dec 22 15:31:55 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:31:57 2001] Dawgrin begins to cast a spell. (Greater Healing)
+[Sat Dec 22 15:31:57 2001] Stallone says, 'thanks )'
+[Sat Dec 22 15:31:58 2001] You GMSAY, 'deleting stallone'
+[Sat Dec 22 15:31:59 2001] Lirus says, 'np'
+[Sat Dec 22 15:32:01 2001] DELETING THIS PETITION
+[Sat Dec 22 15:32:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:32:04 2001] USER TEXT: I'd like to have my surname of Vasean ganked. I was a very young and confused rogue when I made it and I'm afraid it means "kick me" in Swedish or something. =)
+[Sat Dec 22 15:32:04 2001] Players in EverQuest:
+[Sat Dec 22 15:32:04 2001] ---------------------------
+[Sat Dec 22 15:32:04 2001] [60 Assassin] Sarrick (Half Elf) <Reviction> ZONE: sebilis (USER PID EX47BAM)
+[Sat Dec 22 15:32:04 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:32:05 2001] Dawgrin begins to cast a spell. (Greater Healing)
+[Sat Dec 22 15:32:08 2001] Mattiahs tells you, 'yes figured out I was in the wrong display window thanks !'
+[Sat Dec 22 15:32:08 2001] Gwaro cheers at Lirus.
+[Sat Dec 22 15:32:12 2001] Evez begins to cast a spell. (Ice Comet)
+[Sat Dec 22 15:32:14 2001] You told Mattiahs, 'okay, be well!'
+[Sat Dec 22 15:32:26 2001] Mattiahs tells you, 'yes you too )'
+[Sat Dec 22 15:32:26 2001] Evez begins to cast a spell. (Harvest)
+[Sat Dec 22 15:32:31 2001] You told Sarrick, 'Hail, Sarrick! Senior Guide Espranza here. Still need surname ganking?'
+[Sat Dec 22 15:32:38 2001] Evez sits down for has rest time to regain mana.
+[Sat Dec 22 15:32:39 2001] Sarrick tells you, 'Yep =)'
+[Sat Dec 22 15:32:41 2001] Rightous begins to cast a spell. (Celestial Cleansing)
+[Sat Dec 22 15:32:45 2001] You told Sarrick, 'okay, I'll be right there'
+[Sat Dec 22 15:32:47 2001] You GMSAY, 'zone'
+[Sat Dec 22 15:32:50 2001] Evez says, 'Hail, Lirus'
+[Sat Dec 22 15:32:51 2001] Teleporting to Sarrick.
+[Sat Dec 22 15:32:51 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 15:33:32 2001] You have entered Ruins of Sebilis.
+[Sat Dec 22 15:33:45 2001] You told Sarrick, 'what new last name would you like?'
+[Sat Dec 22 15:33:46 2001] Sarrick waves at Espranza.
+[Sat Dec 22 15:33:46 2001] Inexor cheers at Espranza.
+[Sat Dec 22 15:33:50 2001] Rasor bows before Espranza.
+[Sat Dec 22 15:33:55 2001] Sarrick tells you, 'I'd just like no surname'
+[Sat Dec 22 15:33:56 2001] krup ghoul knight begins to cast a spell. (Grim Aura)
+[Sat Dec 22 15:34:03 2001] Espranza 's swords are prettier than Rasor's lightsabers.
+[Sat Dec 22 15:34:04 2001] Inexor says, 'welcome Espranza!'
+[Sat Dec 22 15:34:12 2001] You have changed Sarrick's last name to .
+[Sat Dec 22 15:34:16 2001] Sarrick thanks Espranza heartily.
+[Sat Dec 22 15:34:16 2001] froglok krup mage begins to cast a spell. (Barrier of Combustion)
+[Sat Dec 22 15:34:20 2001] Sarrick tells you, 'Thanks much =)'
+[Sat Dec 22 15:34:38 2001] You GMSAY, '<note> Deleted Sarrick's last name at his request EX47BAM'
+[Sat Dec 22 15:34:40 2001] Sarrick tells you, 'Can you gank Kytara's surname too? ;)'
+[Sat Dec 22 15:34:55 2001] You say, 'Ooooh Kytara... that's a bad last name.'
+[Sat Dec 22 15:35:00 2001] Inexor says, 'hehe'
+[Sat Dec 22 15:35:05 2001] Kytara is ashamed.
+[Sat Dec 22 15:35:07 2001] Inexor says, 'we knew you'd notice that'
+[Sat Dec 22 15:35:07 2001] Sarrick says, 'GANK!'
+[Sat Dec 22 15:35:13 2001] You say, 'Blame Sarrick. But it's true'
+[Sat Dec 22 15:35:17 2001] myconid adept begins to cast a spell. (Yaulp IV)
+[Sat Dec 22 15:35:26 2001] You say, 'Have a new name in mind?'
+[Sat Dec 22 15:35:29 2001] Kytara says, 'Correct me of my ill ways pls'
+[Sat Dec 22 15:35:36 2001] Kytara says, 'Nah, will go just single'
+[Sat Dec 22 15:35:44 2001] You have changed Kytara's last name to .
+[Sat Dec 22 15:35:52 2001] Players in EverQuest:
+[Sat Dec 22 15:35:52 2001] ---------------------------
+[Sat Dec 22 15:35:52 2001] [53 Wanderer] Kytara (Wood Elf) ZONE: sebilis (USER PID HPBAMQ0)
+[Sat Dec 22 15:35:52 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:35:53 2001] Kytara says, 'my thanks'
+[Sat Dec 22 15:35:56 2001] Kailypso thinks no GM going can correct Kytara of her ill ways.
+[Sat Dec 22 15:36:09 2001] You GMSAY, '<note> Nerfed Kytara HPBAMQ0 last name "Portbish"'
+[Sat Dec 22 15:36:09 2001] Kytara is a bad bad girl.
+[Sat Dec 22 15:36:11 2001] Rasor chuckles.
+[Sat Dec 22 15:36:15 2001] Sarrick thanks Espranza heartily.
+[Sat Dec 22 15:36:18 2001] You say, 'well, good luck!'
+[Sat Dec 22 15:36:19 2001] You no longer have a target.
+[Sat Dec 22 15:36:21 2001] You GMSAY, 'zone'
+[Sat Dec 22 15:36:22 2001] Sarrick says, 'Thanks again ;)'
+[Sat Dec 22 15:36:22 2001] You wave goodbye to everyone.
+[Sat Dec 22 15:36:25 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Sat Dec 22 15:36:25 2001] Your Belt of Translocation begins to glow.
+[Sat Dec 22 15:36:25 2001] Kytara says, 'be well'
+[Sat Dec 22 15:36:25 2001] Tommartin says, 'thnx'
+[Sat Dec 22 15:36:25 2001] Inexor thanks Espranza heartily.
+[Sat Dec 22 15:36:27 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 15:36:45 2001] You have entered Sunset Home.
+[Sat Dec 22 15:36:52 2001] It begins to rain.
+[Sat Dec 22 15:36:56 2001] DELETING THIS PETITION
+[Sat Dec 22 15:36:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:36:59 2001] USER TEXT: I went to show Tingling my weapon but when i hit cancel it dissapeared HELP it cost me so much HELP PLZ PLZ PLZ
+[Sat Dec 22 15:36:59 2001] Players in EverQuest:
+[Sat Dec 22 15:36:59 2001] ---------------------------
+[Sat Dec 22 15:36:59 2001] [ANON (41 Monk)] Kenoa (Human) ZONE: maiden (USER PID CZQ60C5)
+[Sat Dec 22 15:36:59 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:37:21 2001] You told Kenoa, 'Hail, Kenoa! Guide Espranza here. Have you checked your range slot?'
+[Sat Dec 22 15:37:35 2001] Players in EverQuest:
+[Sat Dec 22 15:37:35 2001] ---------------------------
+[Sat Dec 22 15:37:35 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 15:37:35 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 15:37:35 2001] There are 2 players in EverQuest.
+[Sat Dec 22 15:38:10 2001] Lirus GMSAYS, 'what level is player?'
+[Sat Dec 22 15:38:22 2001] You GMSAY, '?'
+[Sat Dec 22 15:38:27 2001] Lirus GMSAYS, 'nm'
+[Sat Dec 22 15:38:32 2001] You GMSAY, 'both those last name changes were at player request'
+[Sat Dec 22 15:38:36 2001] Lirus GMSAYS, 'i'm being retarded...reading appened GM text'
+[Sat Dec 22 15:38:55 2001] You GMSAY, 'ooh'
+[Sat Dec 22 15:39:13 2001] Lirus GMSAYS, 'sometimes the yellow text all blends together'
+[Sat Dec 22 15:39:49 2001] You GMSAY, 'when changing first names that violate policy, should I use the 'b' thingy?'
+[Sat Dec 22 15:40:40 2001] You GMSAY, 'Kenoa unavail x1, unresponsive'
+[Sat Dec 22 15:40:43 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Dec 22 15:40:44 2001] CHECKING IN
+[Sat Dec 22 15:40:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:40:46 2001] USER TEXT: stuck in lake in middle of zone
+[Sat Dec 22 15:40:46 2001] Players in EverQuest:
+[Sat Dec 22 15:40:46 2001] ---------------------------
+[Sat Dec 22 15:40:46 2001] [27 Monk] Irenaeus (Human) <Ancient Nemesis> ZONE: echo (USER PID D4ER0TL)
+[Sat Dec 22 15:40:46 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:41:13 2001] You told Irenaeus, 'Hail, Irenaeus! Senior Guide Espranza here. Are you still stuck?'
+[Sat Dec 22 15:41:17 2001] Players in EverQuest:
+[Sat Dec 22 15:41:17 2001] ---------------------------
+[Sat Dec 22 15:41:17 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 15:41:17 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 15:41:17 2001] There are 2 players in EverQuest.
+[Sat Dec 22 15:41:23 2001] Irenaeus tells you, 'no i got out thanks anyways )'
+[Sat Dec 22 15:41:29 2001] You told Irenaeus, 'okay, be well!'
+[Sat Dec 22 15:41:30 2001] DELETING THIS PETITION
+[Sat Dec 22 15:41:32 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:41:32 2001] USER TEXT: Tiamon Aroo is bugged in Shadeweaver's Thicket
+[Sat Dec 22 15:41:32 2001] Players in EverQuest:
+[Sat Dec 22 15:41:32 2001] ---------------------------
+[Sat Dec 22 15:41:32 2001] [6 Beastlord] Kudok (Vah Shir) ZONE: shadeweaver (USER PID BRPLBGL)
+[Sat Dec 22 15:41:32 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:41:48 2001] Irenaeus tells you, 'you too'
+[Sat Dec 22 15:41:52 2001] You GMSAY, 'Correllan is having trouble with his guide account'
+[Sat Dec 22 15:42:29 2001] You told Kudok, 'Hail, Kudok! Senior Guide Espranza here. How is Tiamon bugged?'
+[Sat Dec 22 15:42:38 2001] Players in EverQuest:
+[Sat Dec 22 15:42:38 2001] ---------------------------
+[Sat Dec 22 15:42:38 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 15:42:38 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 15:42:38 2001] There are 2 players in EverQuest.
+[Sat Dec 22 15:42:47 2001] Kudok tells you, 'he must've been attacked by someone and will not sell now'
+[Sat Dec 22 15:42:58 2001] Kudok tells you, 'he's been like that for most of the day'
+[Sat Dec 22 15:43:04 2001] You told Kudok, 'areyou with him now?'
+[Sat Dec 22 15:43:17 2001] Kudok tells you, 'no - very close to him though - one sec'
+[Sat Dec 22 15:43:23 2001] Kudok tells you, 'with him now'
+[Sat Dec 22 15:43:30 2001] You told Kudok, 'okay, one moment'
+[Sat Dec 22 15:43:32 2001] You GMSAY, 'zone'
+[Sat Dec 22 15:43:34 2001] Kudok tells you, 'ok'
+[Sat Dec 22 15:43:34 2001] Teleporting to kudok.
+[Sat Dec 22 15:43:35 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 15:44:45 2001] You have entered Shadeweaver's Thicket.
+[Sat Dec 22 15:44:54 2001] Kudok waves at Espranza.
+[Sat Dec 22 15:45:08 2001] Kudok says, 'hi'
+[Sat Dec 22 15:45:14 2001] You say, 'Hello, Kudok! Do you know where he is supposed to be?'
+[Sat Dec 22 15:45:21 2001] Tiamon Aroo says 'I don't have time for that now'
+[Sat Dec 22 15:45:22 2001] Spiritist Karina says 'When our companions are wounded, we must call to the spirits and ask for their aid. Kindred spirits are able to protect us and heal our wounds. 
+[Sat Dec 22 15:45:31 2001] Kudok tells you, 'yes - over in this building'
+[Sat Dec 22 15:45:45 2001] Kudok tells you, 'right here'
+[Sat Dec 22 15:45:45 2001] You told Kudok, 'okay'
+[Sat Dec 22 15:46:09 2001] Tiamon Aroo says 'Prepare to greet your ancestors filth! 
+[Sat Dec 22 15:46:09 2001] Tiamon Aroo feels a bit dispelled.
+[Sat Dec 22 15:46:09 2001] Spiritist Karina says 'Prepare to greet your ancestors filth! 
+[Sat Dec 22 15:46:09 2001] Spiritist Karina says 'It's Rogues like you that insult all of Norrath!'
+[Sat Dec 22 15:46:09 2001] Spiritist Karina says 'Prepare to greet your ancestors filth! 
+[Sat Dec 22 15:46:09 2001] Spiritist Karina says 'Rogues like you always bring out the worst in me!'
+[Sat Dec 22 15:46:10 2001] Spiritist Karina hits YOU for 269 points of damage.
+[Sat Dec 22 15:46:12 2001] Spiritist Karina hits YOU for 259 points of damage.
+[Sat Dec 22 15:46:12 2001] Tiamon Aroo slashes YOU for 6 points of damage.
+[Sat Dec 22 15:46:12 2001] Tiamon Aroo bashes YOU for 5 points of damage.
+[Sat Dec 22 15:46:15 2001] Spiritist Karina hits YOU for 259 points of damage.
+[Sat Dec 22 15:46:17 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 15:46:38 2001] You have entered Sunset Home.
+[Sat Dec 22 15:46:45 2001] You told Kudok, 'okay, let's try that again'
+[Sat Dec 22 15:46:50 2001] Kudok tells you, '8)'
+[Sat Dec 22 15:46:51 2001] You GMSAY, 'zone and rezone'
+[Sat Dec 22 15:46:55 2001] Teleporting to kudok.
+[Sat Dec 22 15:46:56 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 15:47:49 2001] You have entered Shadeweaver's Thicket.
+[Sat Dec 22 15:48:03 2001] Syslis shouts, '7 bard lfg'
+[Sat Dec 22 15:48:05 2001] You say, 'this is just getting worse'
+[Sat Dec 22 15:48:46 2001] Kudok says, 'yeah..2 of them out of place now'
+[Sat Dec 22 15:48:46 2001] Spiritist Karina says 'Never force a spirit to your aid. You will find that there are many that will come to your side. You need only ask. 
+[Sat Dec 22 15:48:47 2001] You GMSAY, '<note> Killing Tiamon Aroo and Spiritist Karina to reset them in Shadeweaver'
+[Sat Dec 22 15:48:54 2001] You GMSAY, 'oops, not Spiritist.'
+[Sat Dec 22 15:49:06 2001] You GMSAY, 'actually gonna try to reset again'
+[Sat Dec 22 15:49:24 2001] Tiamon Aroo feels a bit dispelled.
+[Sat Dec 22 15:49:32 2001] Tiamon Aroo says 'Those wretched vermin swarm to our city and trade routes in search of the refuse left by careless travelers who pass through these parts. They are just about useless and their stench brings bile to my throat. I would have set out to poison the whole lot of them if it was not for their unique [claws]. 
+[Sat Dec 22 15:49:32 2001] Tiamon Aroo blinks a few times.
+[Sat Dec 22 15:49:33 2001] You can't use that command right now...
+[Sat Dec 22 15:49:33 2001] Tiamon Aroo blinks a few times.
+[Sat Dec 22 15:49:33 2001] Tiamon Aroo blinks a few times.
+[Sat Dec 22 15:49:33 2001] You can't use that command right now...
+[Sat Dec 22 15:49:33 2001] Tiamon Aroo blinks a few times.
+[Sat Dec 22 15:49:34 2001] Tiamon Aroo blinks a few times.
+[Sat Dec 22 15:49:46 2001] You no longer have a target.
+[Sat Dec 22 15:49:46 2001] You no longer have a target.
+[Sat Dec 22 15:49:47 2001] Tiamon Aroo says 'Hi there Espranza, just browsing?  Have you seen the Thimble Mold I just got in?'
+[Sat Dec 22 15:49:49 2001] Espranza saved.
+[Sat Dec 22 15:49:50 2001] You GMSAY, 'oh I rule'
+[Sat Dec 22 15:49:54 2001] Tiamon Aroo says 'Hello there, Kudok. How about a nice Ivory Horn?'
+[Sat Dec 22 15:49:56 2001] You say, 'there you go!'
+[Sat Dec 22 15:49:59 2001] Kudok tells you, 'woo - thanks!'
+[Sat Dec 22 15:50:17 2001] You GMSAY, 'didn't have to kill anything, got them both home'
+[Sat Dec 22 15:50:25 2001] Lirus GMSAYS, 'good job'
+[Sat Dec 22 15:50:26 2001] DELETING THIS PETITION
+[Sat Dec 22 15:50:31 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:50:32 2001] USER TEXT: My corpse poofed and I lost my intiate cape and tablet how can i get them back without rerolling my character
+[Sat Dec 22 15:50:32 2001] Players in EverQuest:
+[Sat Dec 22 15:50:32 2001] ---------------------------
+[Sat Dec 22 15:50:32 2001] [2 Warrior] Cholla (Vah Shir) ZONE: sharvahl (USER PID BT7NQJL)
+[Sat Dec 22 15:50:32 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:51:14 2001] You told Cholla, 'Hail, Cholla! Senior Guide Espranza here. I'm afraid those items are lost; you will have to restart to get them.'
+[Sat Dec 22 15:51:18 2001] DELETING THIS PETITION
+[Sat Dec 22 15:51:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 15:51:20 2001] USER TEXT: I went to show Tingling my weapon but when i hit cancel it dissapeared HELP it cost me so much HELP PLZ PLZ PLZ
+[Sat Dec 22 15:51:20 2001] Players in EverQuest:
+[Sat Dec 22 15:51:20 2001] ---------------------------
+[Sat Dec 22 15:51:20 2001] [ANON (41 Monk)] Kenoa (Human) ZONE: maiden (USER PID CZQ60C5)
+[Sat Dec 22 15:51:20 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:51:25 2001] Cholla tells you, 'ack ok'
+[Sat Dec 22 15:51:34 2001] Cholla tells you, 'thanks'
+[Sat Dec 22 15:51:36 2001] You told Cholla, 'sorry... good luck though'
+[Sat Dec 22 15:52:48 2001] You told Kenoa, 'Hail, Kenoa! Senior Guide Espranza here. Could your weapon have been placed in your range slot?'
+[Sat Dec 22 15:53:11 2001] Players in EverQuest:
+[Sat Dec 22 15:53:11 2001] ---------------------------
+[Sat Dec 22 15:53:11 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: shadeweaver (USER PID B4KJ6E7)
+[Sat Dec 22 15:53:11 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 15:53:11 2001] There are 2 players in EverQuest.
+[Sat Dec 22 15:53:15 2001] Players in EverQuest:
+[Sat Dec 22 15:53:15 2001] ---------------------------
+[Sat Dec 22 15:53:15 2001] [9 Shadow Knight] Corrane (Dark Elf) ZONE: ecommons (USER PID HZLXJ88)
+[Sat Dec 22 15:53:15 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:53:33 2001] Kenoa tells you, 'no i have a Crystal there'
+[Sat Dec 22 15:53:42 2001] You told Kenoa, 'okay, which weapon was it?'
+[Sat Dec 22 15:53:45 2001] Lirus GMSAYS, 'sonofa!'
+[Sat Dec 22 15:53:48 2001] Lirus GMSAYS, 'que locked'
+[Sat Dec 22 15:53:51 2001] Kenoa tells you, 'Master Wu's Trance Stick'
+[Sat Dec 22 15:53:54 2001] Lirus GMSAYS, 'brb'
+[Sat Dec 22 15:53:57 2001] You GMSAY, 'eek'
+[Sat Dec 22 15:54:09 2001] You told Kenoa, 'okay, I'll pass this along to the GM to look into.'
+[Sat Dec 22 15:54:18 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sat Dec 22 15:54:19 2001] GM TEXT: Espranza: Lost Master Wu's Trance Stick.
+[Sat Dec 22 15:54:20 2001] STATUS UPGRADED TO URGENT
+[Sat Dec 22 15:54:21 2001] STATUS UPGRADED TO EMERGENCY
+[Sat Dec 22 15:54:31 2001] Kenoa tells you, 'How long till i get my weapon back'
+[Sat Dec 22 15:54:46 2001] You GMSAY, 'esc Kenoa, lost his trance stick in a canceled trade'
+[Sat Dec 22 15:54:48 2001] CHECKING IN
+[Sat Dec 22 15:55:07 2001] You told Kenoa, 'You'll have to talk to the GM when he gets to your petition...'
+[Sat Dec 22 15:55:33 2001] Players in EverQuest:
+[Sat Dec 22 15:55:33 2001] ---------------------------
+[Sat Dec 22 15:55:33 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: shadeweaver (USER PID B4KJ6E7)
+[Sat Dec 22 15:55:33 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:55:54 2001] Your feet leave the ground.
+[Sat Dec 22 15:56:04 2001] Kenoa tells you, 'any idea how long that will take'
+[Sat Dec 22 15:56:20 2001] You told Kenoa, 'He's going through them as quickly as he can'
+[Sat Dec 22 15:56:28 2001] Players in EverQuest:
+[Sat Dec 22 15:56:28 2001] ---------------------------
+[Sat Dec 22 15:56:28 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: shadeweaver (USER PID B4KJ6E7)
+[Sat Dec 22 15:56:28 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:56:48 2001] Kutash says out of character, 'what are poached hides for'
+[Sat Dec 22 15:56:59 2001] Kenoa tells you, 'ok thx for your help i really appreicate it'
+[Sat Dec 22 15:57:04 2001] Canarrn says out of character, 'wat places does nexxus take us too ?'
+[Sat Dec 22 15:57:05 2001] You told Kenoa, 'sure thing - good luck!'
+[Sat Dec 22 15:57:09 2001] Llyran says out of character, 'shoulders.. and then a great back item'
+[Sat Dec 22 15:57:36 2001] Llyran says out of character, 'Nexus goes to DL, NK, Gfay, Tox'
+[Sat Dec 22 15:57:56 2001] Cobbeth tells you, 'flix needs a world kick please'
+[Sat Dec 22 15:58:07 2001] Players in EverQuest:
+[Sat Dec 22 15:58:07 2001] ---------------------------
+[Sat Dec 22 15:58:07 2001] [60 Arch Mage] Flix (High Elf) <Thunderwalkers> ZONE: templeveeshan (USER PID BYZM53Y)
+[Sat Dec 22 15:58:07 2001] There is 1 player in EverQuest.
+[Sat Dec 22 15:58:16 2001] You told Cobbeth, 'what's wrong with him?'
+[Sat Dec 22 15:58:23 2001] Cobbeth tells you, '/shrug cant log back on'
+[Sat Dec 22 15:58:40 2001] Cobbeth tells you, 'he got dumped and is on server selection screen trying to relog and cant he says'
+[Sat Dec 22 15:58:47 2001] You told Flix, 'Hail, Flix! Senior Guide Espranza here. Do you need a kick?'
+[Sat Dec 22 15:58:51 2001] You told Cobbeth, 'How long has it been?'
+[Sat Dec 22 15:58:53 2001] Cobbeth tells you, 'we are in NTOV and very dangrous'
+[Sat Dec 22 15:58:58 2001] Cobbeth tells you, 'bout  10 min'
+[Sat Dec 22 15:59:02 2001] Cobbeth tells you, 'we are getting ready to move'
+[Sat Dec 22 15:59:05 2001] You told Cobbeth, 'has he tried rebooting?'
+[Sat Dec 22 15:59:07 2001] Groo McManus punches YOU for 193 points of damage.
+[Sat Dec 22 15:59:08 2001] Groo McManus punches YOU for 63 points of damage.
+[Sat Dec 22 15:59:08 2001] Cobbeth tells you, 'yep '
+[Sat Dec 22 15:59:09 2001] Groo McManus punches YOU for 217 points of damage.
+[Sat Dec 22 15:59:11 2001] Groo McManus punches YOU for 96 points of damage.
+[Sat Dec 22 15:59:12 2001] Groo McManus punches YOU for 63 points of damage.
+[Sat Dec 22 15:59:12 2001] Groo McManus punches YOU for 152 points of damage.
+[Sat Dec 22 15:59:13 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 15:59:32 2001] You have entered Sunset Home.
+[Sat Dec 22 15:59:46 2001] Cobbeth tells you, 'he let the comptuer shutdown for 5min and everything.. (im on phne with him)'
+[Sat Dec 22 16:00:13 2001] You told Cobbeth, 'okay, give it a couple more minutes and if he still doesn't blink out, I'll come by'
+[Sat Dec 22 16:00:15 2001] Players in EverQuest:
+[Sat Dec 22 16:00:15 2001] ---------------------------
+[Sat Dec 22 16:00:15 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 16:00:15 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 16:00:15 2001] There are 2 players in EverQuest.
+[Sat Dec 22 16:00:28 2001] You GMSAY, 'I was just attacked in Shadeweaver.'
+[Sat Dec 22 16:00:40 2001] Cobbeth tells you, 'k kinda hurry thou.. we are in NTOV and bout to move.. would suck to have to CR from here'
+[Sat Dec 22 16:00:48 2001] You GMSAY, 'Going back to see if I get attacked again - may be aggro from the merchant reset'
+[Sat Dec 22 16:01:03 2001] You GMSAY, 'zone'
+[Sat Dec 22 16:01:06 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 16:01:48 2001] Syslis shouts, '7 bard lfg'
+[Sat Dec 22 16:02:00 2001] You have entered Shadeweaver's Thicket.
+[Sat Dec 22 16:02:18 2001] Zentara shouts, 'lv6 worrior looking for group'
+[Sat Dec 22 16:02:20 2001] Teleporting to Groo_mcmanus00.
+[Sat Dec 22 16:02:28 2001] Groo McManus regards you indifferently -- he appears to be quite formidable.
+[Sat Dec 22 16:02:54 2001] Cobbeth tells you, 'ok shes dumped'
+[Sat Dec 22 16:03:06 2001] You told Cobbeth, 'cool, can she get back in?'
+[Sat Dec 22 16:03:11 2001] Cobbeth tells you, 'trying now'
+[Sat Dec 22 16:03:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 16:03:17 2001] USER TEXT: i'm for some reason not in my guild, Triune, when i logged in today
+[Sat Dec 22 16:03:18 2001] Players in EverQuest:
+[Sat Dec 22 16:03:18 2001] ---------------------------
+[Sat Dec 22 16:03:18 2001] [54 Minstrel] Melodyreaper (Half Elf) ZONE: commons (USER PID DN7BYRL)
+[Sat Dec 22 16:03:18 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:03:49 2001] You told Melodyreaper, 'Hail, Melodyreaper! Senior Guide Espranza here. Is there a guild officer on who can reinvite you?'
+[Sat Dec 22 16:04:02 2001] Melodyreaper tells you, 'they are in Temple of Veeshan kindove'
+[Sat Dec 22 16:05:01 2001] You told Melodyreaper, 'We've had some reports of people losing their guild tags, you just need to be reinvited. I will add this to my shift report, though.'
+[Sat Dec 22 16:05:07 2001] Melodyreaper tells you, 'ok thank you'
+[Sat Dec 22 16:05:28 2001] You GMSAY, '<note bug> Melodyreaper DN7BYRL lost her guild tag, suggested she get an invite from an officer.'
+[Sat Dec 22 16:05:31 2001] You told Melodyreaper, 'be well!'
+[Sat Dec 22 16:05:33 2001] DELETING THIS PETITION
+[Sat Dec 22 16:05:35 2001] Melodyreaper tells you, 'you too!'
+[Sat Dec 22 16:05:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 16:05:36 2001] USER TEXT: my weapons proc still doesnt work its been over 3 1/2 months...this really sucks.
+[Sat Dec 22 16:05:36 2001] Players in EverQuest:
+[Sat Dec 22 16:05:36 2001] ---------------------------
+[Sat Dec 22 16:05:36 2001] [ANON (34 Shaman)] Kreeze (Iksar) ZONE: guktop (USER PID CQ8MVYL)
+[Sat Dec 22 16:05:36 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:05:57 2001] You told Kreeze, 'Hail, Kreeze! Senior Guide Espranza here. Which weapon are you using?'
+[Sat Dec 22 16:06:00 2001] Players in EverQuest:
+[Sat Dec 22 16:06:00 2001] ---------------------------
+[Sat Dec 22 16:06:00 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: shadeweaver (USER PID B4KJ6E7)
+[Sat Dec 22 16:06:00 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 16:06:00 2001] There are 2 players in EverQuest.
+[Sat Dec 22 16:06:14 2001] Kreeze tells you, 'i am using the " Mortificator Staff" '
+[Sat Dec 22 16:06:30 2001] Korendar says, 'asd'
+[Sat Dec 22 16:06:34 2001] Lirus GMSAYS, 'esp'
+[Sat Dec 22 16:06:37 2001] You GMSAY, 'yes?'
+[Sat Dec 22 16:06:41 2001] Lirus GMSAYS, 'do you know when this kenoa dude lost his stick?'
+[Sat Dec 22 16:06:44 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:06:47 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:06:48 2001] Kreeze tells you, 'ive made many bug reports, but it has been like this for months and months...Really a bummer'
+[Sat Dec 22 16:06:51 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:06:54 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:06:55 2001] You GMSAY, 'he made it sound like it had just happened'
+[Sat Dec 22 16:06:57 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:06:58 2001] You GMSAY, 'I'll ask though'
+[Sat Dec 22 16:07:00 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:07:03 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:07:04 2001] Lirus GMSAYS, 'i got him now'
+[Sat Dec 22 16:07:06 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:07:07 2001] Lirus GMSAYS, 'he was unavail'
+[Sat Dec 22 16:07:10 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:07:12 2001] Players in EverQuest:
+[Sat Dec 22 16:07:12 2001] ---------------------------
+[Sat Dec 22 16:07:12 2001] [ANON (41 Monk)] Kenoa (Human) ZONE: dawnshroud (USER PID CZQ60C5)
+[Sat Dec 22 16:07:12 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:07:13 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:07:14 2001] Korendar says, 'fgh'
+[Sat Dec 22 16:07:16 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:07:18 2001] Korendar says, 'ert'
+[Sat Dec 22 16:07:19 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:07:23 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:07:26 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:07:32 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:07:35 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:07:38 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:07:41 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:07:45 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:07:48 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:07:51 2001] Llyran's spell fizzles!
+[Sat Dec 22 16:07:52 2001] Llyran begins to cast a spell. (Inner Fire)
+[Sat Dec 22 16:07:55 2001] Llyran's body pulses with energy.
+[Sat Dec 22 16:08:03 2001] You GMSAY, 'do you know anything about the mortificator staff? like if it procs, and what level?'
+[Sat Dec 22 16:08:13 2001] Llyran begins to cast a spell. (Summon Warder)
+[Sat Dec 22 16:08:30 2001] Lirus GMSAYS, 'i don't recall what level but the proc works'
+[Sat Dec 22 16:08:59 2001] You feel as if you are about to fall.
+[Sat Dec 22 16:09:01 2001] You GMSAY, 'okay, 34 shammy says it hasn't proced for months, probably just too low'
+[Sat Dec 22 16:09:05 2001] You feel as if you are about to fall.
+[Sat Dec 22 16:09:11 2001] You can no longer levitate.
+[Sat Dec 22 16:09:42 2001] It begins to rain.
+[Sat Dec 22 16:10:02 2001] You told Kreeze, 'You may be too low for the proc to work. The GM says the proc does work, so it is most likely a level issue.'
+[Sat Dec 22 16:10:04 2001] You feel the spirit of Norrath enter you.
+[Sat Dec 22 16:10:08 2001] DELETING THIS PETITION
+[Sat Dec 22 16:10:15 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 16:10:15 2001] USER TEXT: I am trying to do the quest for Brkoer Fahaar but when I hand him my slate like he requests he just hands it back saying he dont need it :(
+[Sat Dec 22 16:10:15 2001] Players in EverQuest:
+[Sat Dec 22 16:10:15 2001] ---------------------------
+[Sat Dec 22 16:10:15 2001] [7 Rogue] Sohei (Vah Shir) ZONE: sharvahl (USER PID EWVBVTB)
+[Sat Dec 22 16:10:15 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:10:39 2001] Kreeze tells you, 'no.im lvl 34 it procs at 30..but it's supposed to be a self buff..but it casts on the mobs. and they resist'
+[Sat Dec 22 16:11:10 2001] You told Sohei, 'Hail, Sohei! Senior Guide Espranza here. If he hands it back, saying he doesn't need it, then... that's not what he wants.'
+[Sat Dec 22 16:11:30 2001] Kreeze tells you, 'and i cant right click it to cast on me..it only procs during a fight.  but on the mobs   .'
+[Sat Dec 22 16:11:43 2001] You told Kreeze, 'What is the proc?'
+[Sat Dec 22 16:11:53 2001] Kreeze tells you, 'Mana Sink   a 58 wiz spell'
+[Sat Dec 22 16:11:58 2001] Espranza saved.
+[Sat Dec 22 16:12:13 2001] Sohei tells you, 'he says "if you find a citizen looking for work have them show me their slate" that is what i did'
+[Sat Dec 22 16:12:17 2001] Correllan GMSAYS, 'hey guess what??...i am here!!!..lol'
+[Sat Dec 22 16:12:19 2001] Players in EverQuest:
+[Sat Dec 22 16:12:19 2001] ---------------------------
+[Sat Dec 22 16:12:19 2001] * Guide *[20 Wizard] Correllan (Gnome) ZONE: gfaydark (USER PID AUUWKPN)
+[Sat Dec 22 16:12:19 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: shadeweaver (USER PID B4KJ6E7)
+[Sat Dec 22 16:12:19 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 16:12:19 2001] There are 3 players in EverQuest.
+[Sat Dec 22 16:12:24 2001] You GMSAY, 'woot!'
+[Sat Dec 22 16:12:28 2001] You GMSAY, 'can you /zone?'
+[Sat Dec 22 16:12:30 2001] Correllan GMSAYS, 'figured out the problem'
+[Sat Dec 22 16:12:34 2001] Correllan GMSAYS, 'zone'
+[Sat Dec 22 16:12:37 2001] Players in EverQuest:
+[Sat Dec 22 16:12:37 2001] ---------------------------
+[Sat Dec 22 16:12:37 2001] * Guide *[20 Wizard] Correllan (Gnome) ZONE: gfaydark (USER PID AUUWKPN)
+[Sat Dec 22 16:12:37 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: shadeweaver (USER PID B4KJ6E7)
+[Sat Dec 22 16:12:37 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 16:12:37 2001] There are 3 players in EverQuest.
+[Sat Dec 22 16:12:54 2001] You GMSAY, 'head to cshome and bug Lirus to buff ya'
+[Sat Dec 22 16:13:05 2001] Players in EverQuest:
+[Sat Dec 22 16:13:05 2001] ---------------------------
+[Sat Dec 22 16:13:05 2001] * Guide *[20 Wizard] Correllan (Gnome) ZONE: gfaydark (USER PID AUUWKPN)
+[Sat Dec 22 16:13:05 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: shadeweaver (USER PID B4KJ6E7)
+[Sat Dec 22 16:13:05 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 16:13:05 2001] There are 3 players in EverQuest.
+[Sat Dec 22 16:13:21 2001] Players in EverQuest:
+[Sat Dec 22 16:13:21 2001] ---------------------------
+[Sat Dec 22 16:13:21 2001] * Guide *[20 Wizard] Correllan (Gnome) ZONE: gfaydark (USER PID AUUWKPN)
+[Sat Dec 22 16:13:21 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: shadeweaver (USER PID B4KJ6E7)
+[Sat Dec 22 16:13:21 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 16:13:21 2001] There are 3 players in EverQuest.
+[Sat Dec 22 16:13:27 2001] You GMSAY, 'zone'
+[Sat Dec 22 16:13:30 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Sat Dec 22 16:13:30 2001] Your Belt of Translocation begins to glow.
+[Sat Dec 22 16:13:31 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 16:13:49 2001] You have entered Sunset Home.
+[Sat Dec 22 16:13:52 2001] Players in EverQuest:
+[Sat Dec 22 16:13:52 2001] ---------------------------
+[Sat Dec 22 16:13:52 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 16:13:52 2001] * Guide *[20 Wizard] Correllan (Gnome) ZONE: gfaydark (USER PID AUUWKPN)
+[Sat Dec 22 16:13:52 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 16:13:52 2001] There are 3 players in EverQuest.
+[Sat Dec 22 16:14:08 2001] You GMSAY, 'does the /zone command work for you, Correllan?'
+[Sat Dec 22 16:14:42 2001] Correllan GMSAYS, 'hmmm guess it does...lol....'
+[Sat Dec 22 16:14:53 2001] Players in EverQuest:
+[Sat Dec 22 16:14:53 2001] ---------------------------
+[Sat Dec 22 16:14:53 2001] * Guide *[20 Wizard] Correllan (Gnome) ZONE: cshome (USER PID AUUWKPN)
+[Sat Dec 22 16:14:53 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 16:14:53 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: maiden (USER PID CW1ECN5)
+[Sat Dec 22 16:14:53 2001] There are 3 players in EverQuest.
+[Sat Dec 22 16:14:58 2001] Teleporting to correllan.
+[Sat Dec 22 16:15:01 2001] Correllan GMSAYS, 'okay where should i go in here?'
+[Sat Dec 22 16:15:05 2001] You have invited Correllan to become a member of the guild.
+[Sat Dec 22 16:15:09 2001] Correllan has joined your guild.
+[Sat Dec 22 16:15:09 2001] Correllan is now a regular member of your guild.
+[Sat Dec 22 16:15:14 2001] You say to your guild, 'hiya Correllan!'
+[Sat Dec 22 16:15:25 2001] Correllan tells the guild, 'wow thanks...heheh'
+[Sat Dec 22 16:15:27 2001] You say to your guild, 'Lirus needs to buff you and give you a note'
+[Sat Dec 22 16:15:34 2001] Correllan tells the guild, 'ok'
+[Sat Dec 22 16:15:38 2001] You say to your guild, 'want a title?'
+[Sat Dec 22 16:15:42 2001] Kreeze tells you, 'any ideas?'
+[Sat Dec 22 16:16:05 2001] You told Kreeze, 'None... the GM says it is working so I'll have to go along with that. I'll add it to my shift report though.'
+[Sat Dec 22 16:16:18 2001] Correllan tells the guild, 'hmmmm lol...yea but gues i need to think on one ...also want to get a change in chracters to a human rnager...everyone keeps telling me rangers are an asset'
+[Sat Dec 22 16:16:23 2001] Kreeze tells you, 'okay thank you.. What GM says it is working?'
+[Sat Dec 22 16:16:27 2001] Kreeze tells you, 'Lirus?'
+[Sat Dec 22 16:16:27 2001] You told Kreeze, 'Lirus'
+[Sat Dec 22 16:16:34 2001] Lirus tells the guild, 'that is because rangers are the superior class'
+[Sat Dec 22 16:16:35 2001] Kreeze tells you, 'could i speak to him?'
+[Sat Dec 22 16:16:47 2001] You say to your guild, 'Halfling.'
+[Sat Dec 22 16:16:49 2001] Kreeze tells you, 'or her.'
+[Sat Dec 22 16:16:55 2001] You say to your guild, 'I think we're only doing halflings now.'
+[Sat Dec 22 16:17:03 2001] Correllan tells the guild, 'lol...ty ...i take it you approve of my choice'
+[Sat Dec 22 16:17:12 2001] Correllan tells the guild, 'ahhh...'
+[Sat Dec 22 16:17:30 2001] Lirus GMSAYS, 'zone'
+[Sat Dec 22 16:17:32 2001] You GMSAY, 'Lirus, Kreeze is saying the staff procs mana sink, a level 58 wizard spell, on the mob instead of on him.'
+[Sat Dec 22 16:18:12 2001] Players in EverQuest:
+[Sat Dec 22 16:18:12 2001] ---------------------------
+[Sat Dec 22 16:18:12 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: dawnshroud (USER PID CW1ECN5)
+[Sat Dec 22 16:18:12 2001] * Guide *[20 Wizard] Correllan (Gnome) <Keepers of Dreams> ZONE: cshome (USER PID AUUWKPN)
+[Sat Dec 22 16:18:12 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 16:18:12 2001] There are 3 players in EverQuest.
+[Sat Dec 22 16:18:21 2001] You GMSAY, 'Lirus, Kreeze is saying the staff procs mana sink, a level 58 wizard spell, on the mob instead of on him.'
+[Sat Dec 22 16:18:35 2001] Correllan tells the guild, 'guess i may as well answer a few also..lol'
+[Sat Dec 22 16:18:43 2001] You say to your guild, 'heh'
+[Sat Dec 22 16:18:51 2001] You told Kreeze, 'I'm asking him about it now'
+[Sat Dec 22 16:18:58 2001] Kreeze tells you, 'okay thank you'
+[Sat Dec 22 16:19:34 2001] You're not scaring anyone.
+[Sat Dec 22 16:20:10 2001] You GMSAY, 'is that the mortificator staff's intended effect?'
+[Sat Dec 22 16:20:33 2001] Players in EverQuest:
+[Sat Dec 22 16:20:33 2001] ---------------------------
+[Sat Dec 22 16:20:33 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: dawnshroud (USER PID CW1ECN5)
+[Sat Dec 22 16:20:33 2001] * Guide *[20 Wizard] Correllan (Gnome) <Keepers of Dreams> ZONE: cshome (USER PID AUUWKPN)
+[Sat Dec 22 16:20:33 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 16:20:33 2001] There are 3 players in EverQuest.
+[Sat Dec 22 16:21:11 2001] You told Kreeze, 'well, Lirus is busy right now; I'll just note this as an item bug and the development staff will look into it.'
+[Sat Dec 22 16:21:18 2001] Players in EverQuest:
+[Sat Dec 22 16:21:18 2001] ---------------------------
+[Sat Dec 22 16:21:18 2001] [34 Shaman] Kreeze (Iksar) <Guardians of Truth> ZONE: guktop (USER PID CQ8MVYL)
+[Sat Dec 22 16:21:18 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:21:30 2001] Kreeze tells you, 'okay, I really appreciate your help.  Thank You.'
+[Sat Dec 22 16:21:51 2001] Kreeze tells you, 'Safe and Prosperous journeys to you'
+[Sat Dec 22 16:21:56 2001] You GMSAY, '<note bug> Kreeze CQ8MVYL , a level 34 shaman, reports that his Mortificator's Staff procs Mana Sink on the monster rather than himself, and the monster always resists.'
+[Sat Dec 22 16:22:11 2001] You told Kreeze, 'And to you!'
+[Sat Dec 22 16:22:46 2001] You have changed Correllan's last name to the Cute.
+[Sat Dec 22 16:23:46 2001] Espranza saved.
+[Sat Dec 22 16:24:43 2001] It begins to rain.
+[Sat Dec 22 16:25:16 2001] You told Sohei, 'Well, I'm not familiar with the quest... I'll report it as an issue to be looked into.'
+[Sat Dec 22 16:25:46 2001] USER TEXT: I am trying to do the quest for Brkoer Fahaar but when I hand him my slate like he requests he just hands it back saying he dont need it :(
+[Sat Dec 22 16:26:06 2001] Sohei tells you, 'I was told to put ina petition after 5 pm my time cuz lirus would be on at 3 pm her time so i was doin as a guide told me to do :)'
+[Sat Dec 22 16:26:41 2001] You GMSAY, '<note issue> Sohei EVWBVTB reports that when he hands his slate to Brkoer Fahaar as requested, he just returns the slate saying he doesn't need it.'
+[Sat Dec 22 16:26:49 2001] Correllan GMSAYS, 'lirus i have a pet a guy says his loot no drop was supposed to be turned on  but after the last patch it got turned off he accidentally picked it up and wants to know if you would transefer it to the intended party.....'
+[Sat Dec 22 16:27:17 2001] Correllan GMSAYS, 'he says the each patch keeps resetting his no drop loot from on to off'
+[Sat Dec 22 16:27:43 2001] You told Sohei, 'well, I'll pass it along to her to check out...'
+[Sat Dec 22 16:27:53 2001] You GMSAY, 'esc Sohei - possibly broken quest.'
+[Sat Dec 22 16:27:59 2001] Sohei tells you, 'ty  sorry for the inconvenience'
+[Sat Dec 22 16:28:18 2001] Correllan GMSAYS, 'also you have time to buff me..so espranza can show me around??..lol'
+[Sat Dec 22 16:28:36 2001] Correllan tells the guild, 'better now pester too much my first day in ...rofl'
+[Sat Dec 22 16:28:54 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sat Dec 22 16:28:54 2001] GM TEXT: Espranza: Was advised by another guide to petition for you, so passing it along to check out. NPC is in Shar Vahl.
+[Sat Dec 22 16:28:55 2001] Correllan tells the guild, 'how about Correllan the Curious'
+[Sat Dec 22 16:28:57 2001] STATUS UPGRADED TO URGENT
+[Sat Dec 22 16:28:58 2001] STATUS UPGRADED TO EMERGENCY
+[Sat Dec 22 16:28:59 2001] CHECKING IN
+[Sat Dec 22 16:29:09 2001] You say to your guild, 'don't like being cute?'
+[Sat Dec 22 16:29:21 2001] You have changed Correllan's last name to the Curious.
+[Sat Dec 22 16:29:24 2001] Correllan tells the guild, 'Correllan the Cute?'
+[Sat Dec 22 16:29:29 2001] Correllan tells the guild, 'rofl'
+[Sat Dec 22 16:29:40 2001] Correllan tells the guild, 'Correllan the Corrupt'
+[Sat Dec 22 16:30:16 2001] You say to your guild, 'you hadn't looked at your last name...'
+[Sat Dec 22 16:30:35 2001] Correllan tells the guild, 'ahhhh ..lol..ty..will work for now'
+[Sat Dec 22 16:30:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 16:31:00 2001] USER TEXT: I accidentally gave my seal of Poren to the wrong NPC.  So I went back to Animist Poren to try to get another seal.  I gave him my Initiate's Cloak and he kept it.  Is there anyway I can get that Seal back to give it to the right person?
+[Sat Dec 22 16:31:00 2001] Players in EverQuest:
+[Sat Dec 22 16:31:00 2001] ---------------------------
+[Sat Dec 22 16:31:00 2001] [6 Beastlord] Kitn (Vah Shir) ZONE: sharvahl (USER PID AUN589B)
+[Sat Dec 22 16:31:00 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:31:06 2001] Correllan tells the guild, 'lirus must really be busy...did you see my message to her?'
+[Sat Dec 22 16:31:12 2001] You say to your guild, 'yes'
+[Sat Dec 22 16:31:34 2001] You say, 'She'll be here as soon as she can, I'm sure'
+[Sat Dec 22 16:31:40 2001] Correllan tells the guild, 'i know that no drops aren't transefered and he should have checked to make sure since he said he knew it before'
+[Sat Dec 22 16:31:47 2001] Correllan says, 'i understand'
+[Sat Dec 22 16:32:11 2001] You say to your guild, 'yeah no drop things aren't transferred, he's out of luck.'
+[Sat Dec 22 16:32:30 2001] Correllan says, 'okay will justt ell him...he will have to accept it...'
+[Sat Dec 22 16:32:41 2001] Correllan says, 'first 10 minutes on the job and a meanie already'
+[Sat Dec 22 16:32:55 2001] You say, 'heh'
+[Sat Dec 22 16:33:48 2001] Espranza saved.
+[Sat Dec 22 16:34:22 2001] You told Kitn, 'Hail, Kitn! Senior Guide Espranza here. Did the NPC ask for your Initiate's Cloak?'
+[Sat Dec 22 16:34:31 2001] Lirus GMSAYS, 'sorry crashed'
+[Sat Dec 22 16:34:39 2001] Correllan GMSAYS, 'np...lol...'
+[Sat Dec 22 16:34:51 2001] Kitn tells you, 'no, i had already done that part of the quest to earn the seal'
+[Sat Dec 22 16:35:00 2001] Kitn tells you, 'he had given me another cloak'
+[Sat Dec 22 16:35:07 2001] Lirus GMSAYS, 'zone'
+[Sat Dec 22 16:35:08 2001] Kitn tells you, 'the recruit's cloak'
+[Sat Dec 22 16:35:13 2001] Kitn tells you, 'and the seal'
+[Sat Dec 22 16:35:26 2001] Kitn tells you, 'it is the seal i am most concerned about'
+[Sat Dec 22 16:35:42 2001] You say to your guild, 'I'm going to have to make a vah shir... I am so clueless about their quests'
+[Sat Dec 22 16:36:45 2001] Lirus GMSAYS, 'zone'
+[Sat Dec 22 16:36:49 2001] You told Kitn, 'is it possible to get that back again?'
+[Sat Dec 22 16:37:04 2001] Correllan tells the guild, 'i have on already and am clueless too'
+[Sat Dec 22 16:37:07 2001] Kitn tells you, 'the seal?  I don't know'
+[Sat Dec 22 16:37:30 2001] You say, 'are you going to remake your char, Correllan?'
+[Sat Dec 22 16:37:44 2001] Correllan says, 'yes if lirus will permit it'
+[Sat Dec 22 16:37:52 2001] Lirus says, 'whatcha waiting fer den?'
+[Sat Dec 22 16:37:55 2001] Kitn tells you, 'that is why i gave him my initiate's cloak was to get the seal.  '
+[Sat Dec 22 16:37:57 2001] Correllan says, 'i would like a human ranger if not a problem..lol'
+[Sat Dec 22 16:38:04 2001] Lirus says, 'go for it'
+[Sat Dec 22 16:38:07 2001] Kitn tells you, 'that is how i got the seal the first time around'
+[Sat Dec 22 16:38:23 2001] Correllan says, 'camp and come back right'
+[Sat Dec 22 16:38:30 2001] Correllan says, 'lol'
+[Sat Dec 22 16:38:33 2001] You say to your guild, 'Lirus, how much do you know about the Vah Shir quests?'
+[Sat Dec 22 16:38:53 2001] Lirus tells the guild, 'a bit about the bard one and about the starting cloak quests'
+[Sat Dec 22 16:39:34 2001] You say to your guild, 'could you look at Kitn and tell me what to say....?'
+[Sat Dec 22 16:39:38 2001] STATUS UPGRADED TO URGENT
+[Sat Dec 22 16:39:39 2001] Lirus tells the guild, 'sure'
+[Sat Dec 22 16:39:39 2001] CHECKING IN
+[Sat Dec 22 16:39:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 16:39:53 2001] USER TEXT: How do you save your facepick after you have chosen the one you want 
+[Sat Dec 22 16:39:53 2001] Players in EverQuest:
+[Sat Dec 22 16:39:53 2001] ---------------------------
+[Sat Dec 22 16:39:53 2001] [24 Rogue] Kallaorf (Barbarian) <Tuath na Sgiath> ZONE: lakeofillomen (USER PID FVS8SD1)
+[Sat Dec 22 16:39:53 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:40:06 2001] Correllan tells you, 'okay back..lol'
+[Sat Dec 22 16:40:12 2001] Summoning correllan.
+[Sat Dec 22 16:40:33 2001] Lirus tells the guild, 'ask him if he has his acrylia slate and that if he gets another from the registrar if he can restart the cloak quest'
+[Sat Dec 22 16:40:43 2001] UNDOING CHECK OUT
+[Sat Dec 22 16:40:44 2001] Correllan has joined your guild.
+[Sat Dec 22 16:40:44 2001] Correllan is now a regular member of your guild.
+[Sat Dec 22 16:41:13 2001] Correllan GMSAYS, 'thanks'
+[Sat Dec 22 16:41:21 2001] You told Kitn, 'Do you have the Acrylia slate?'
+[Sat Dec 22 16:41:25 2001] Lirus GMSAYS, 'np'
+[Sat Dec 22 16:41:25 2001] Kitn tells you, 'yes'
+[Sat Dec 22 16:41:47 2001] You told Kitn, 'Can you restart the cloak quest with the registrar?'
+[Sat Dec 22 16:42:07 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 16:42:08 2001] USER TEXT: I accidentally gave my seal of Poren to the wrong NPC.  So I went back to Animist Poren to try to get another seal.  I gave him my Initiate's Cloak and he kept it.  Is there anyway I can get that Seal back to give it to the right person?
+[Sat Dec 22 16:42:08 2001] Players in EverQuest:
+[Sat Dec 22 16:42:08 2001] ---------------------------
+[Sat Dec 22 16:42:08 2001] [6 Beastlord] Kitn (Vah Shir) ZONE: sharvahl (USER PID AUN589B)
+[Sat Dec 22 16:42:08 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:42:14 2001] Correllan tells the guild, 'okay where do i find the quartermaster?'
+[Sat Dec 22 16:42:29 2001] You say, 'Buy one of everything he sells'
+[Sat Dec 22 16:42:30 2001] Quartermaster says 'Congratulations on your promotion, Correllan!  There are many people from whom to buy your new equipment.  Please collect your guide equipment from any of the folks who will speak with you. 
+[Sat Dec 22 16:42:38 2001] You say, 'also get at least one full set of armor'
+[Sat Dec 22 16:42:39 2001] Kitn tells you, 'i do not know'
+[Sat Dec 22 16:42:40 2001] Lirus tells the guild, 'correllan /goto quartermaster00'
+[Sat Dec 22 16:43:00 2001] Correllan tells the guild, 'lol..yea i keep forgetting i have the easy way of finding people now...lol'
+[Sat Dec 22 16:43:02 2001] Quartermaster says 'Welcome to my shop, Correllan. You would probably find a Cloak of Souls handy'
+[Sat Dec 22 16:43:02 2001] You told Kitn, 'The GM recommends you try that'
+[Sat Dec 22 16:43:06 2001] DELETING THIS PETITION
+[Sat Dec 22 16:43:09 2001] Kitn tells you, 'ok'
+[Sat Dec 22 16:43:11 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 16:43:11 2001] USER TEXT: i have made an error and need your assistance please
+[Sat Dec 22 16:43:11 2001] Players in EverQuest:
+[Sat Dec 22 16:43:11 2001] ---------------------------
+[Sat Dec 22 16:43:11 2001] There are no players in EverQuest that match those who filters.
+[Sat Dec 22 16:43:20 2001] You GMSAY, 'Vertiblade unavail x1'
+[Sat Dec 22 16:43:24 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Dec 22 16:43:26 2001] CHECKING IN
+[Sat Dec 22 16:43:31 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 16:43:32 2001] USER TEXT: I jumped off the boat in east freeport and couldn't submerge
+[Sat Dec 22 16:43:32 2001] Players in EverQuest:
+[Sat Dec 22 16:43:32 2001] ---------------------------
+[Sat Dec 22 16:43:32 2001] [ANON (14 Druid)] Harepie (Halfling) ZONE: nro (USER PID HXZN7AW)
+[Sat Dec 22 16:43:32 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:43:49 2001] Espranza saved.
+[Sat Dec 22 16:44:03 2001] You told Harepie, 'Hail, Harepie! Senior Guide Espranza here. How may I help you?'
+[Sat Dec 22 16:44:41 2001] Harepie tells you, 'Hail Good sir, I jumped off the boat in east freeport and couldnt submerge, so my corpse is in the ocean by the docks'
+[Sat Dec 22 16:44:56 2001] Harepie tells you, 'luckily a kind wizard has ported me to RO'
+[Sat Dec 22 16:45:04 2001] You told Harepie, 'you couldn't swim beneath the water?'
+[Sat Dec 22 16:45:35 2001] You GMSAY, 'okay, what sort of GM needs a horse to run around cshome...'
+[Sat Dec 22 16:45:37 2001] Harepie tells you, 'I could swim, but I couldnt come up for air'
+[Sat Dec 22 16:45:47 2001] You feel the spirit of Norrath enter you.
+[Sat Dec 22 16:45:49 2001] Lirus GMSAYS, 'heheh'
+[Sat Dec 22 16:45:53 2001] Harepie tells you, 'I think it must be a bug because things on the ship looked strange as well'
+[Sat Dec 22 16:46:02 2001] Lirus GMSAYS, 'it's my summoned horse'
+[Sat Dec 22 16:46:11 2001] Lirus GMSAYS, 'and  i can only have one here in cshome'
+[Sat Dec 22 16:46:33 2001] You told Harepie, 'it's usually because you were ducking, that can happen by accident'
+[Sat Dec 22 16:47:11 2001] DELETING THIS PETITION
+[Sat Dec 22 16:47:12 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 16:47:13 2001] USER TEXT: I zone crashed going to Sanctus Seru in Luclin and now my druid is stuck there
+[Sat Dec 22 16:47:13 2001] Players in EverQuest:
+[Sat Dec 22 16:47:13 2001] ---------------------------
+[Sat Dec 22 16:47:13 2001] [27 Paladin] Kiylan (High Elf) <Discordians> ZONE: netherbian (USER PID DXN0164)
+[Sat Dec 22 16:47:13 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:47:13 2001] Harepie tells you, 'probably'
+[Sat Dec 22 16:47:35 2001] You told Harepie, 'next time that happens, try hitting the 'D' key and see if it clears up'
+[Sat Dec 22 16:47:45 2001] Harepie tells you, 'ok thanks!'
+[Sat Dec 22 16:47:52 2001] You told Harepie, 'be well and good luck!'
+[Sat Dec 22 16:47:59 2001] Harepie tells you, 'you to!'
+[Sat Dec 22 16:48:44 2001] You told Kiylan, 'Hail, Kiylan! Senior Guide Espranza here. What is the name of your druid?'
+[Sat Dec 22 16:48:54 2001] Kiylan tells you, 'Krystena Willet'
+[Sat Dec 22 16:49:01 2001] Players in EverQuest:
+[Sat Dec 22 16:49:01 2001] ---------------------------
+[Sat Dec 22 16:49:01 2001] There are no players in EverQuest that match those who filters.
+[Sat Dec 22 16:49:15 2001] You told Kiylan, 'try logging to the desktop and trying again'
+[Sat Dec 22 16:49:38 2001] Kiylan tells you, 'i did i even rebooted and it won't let me in'
+[Sat Dec 22 16:50:14 2001] You GMSAY, 'Lirus, this person zone crashed going to sseru, can't get back in and has rebooted and waited.'
+[Sat Dec 22 16:50:43 2001] Kiylan tells you, 'everytime i zone anywhere's in Luclin it crashes'
+[Sat Dec 22 16:51:18 2001] Lirus GMSAYS, 'name?'
+[Sat Dec 22 16:51:37 2001] You GMSAY, 'Krystena'
+[Sat Dec 22 16:52:09 2001] Lirus GMSAYS, 'have her try rebooting, if that don't work petition again and esc to me'
+[Sat Dec 22 16:52:26 2001] You GMSAY, 'she did that'
+[Sat Dec 22 16:52:30 2001] You GMSAY, 'escing to you'
+[Sat Dec 22 16:52:37 2001] You GMSAY, 'esc Kiylan to Lirus'
+[Sat Dec 22 16:52:44 2001] You told Kiylan, 'okay, handing you over to the GM'
+[Sat Dec 22 16:52:48 2001] STATUS UPGRADED TO URGENT
+[Sat Dec 22 16:52:48 2001] STATUS UPGRADED TO EMERGENCY
+[Sat Dec 22 16:52:50 2001] Kiylan tells you, 'ok'
+[Sat Dec 22 16:52:50 2001] CHECKING IN
+[Sat Dec 22 16:52:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 16:52:53 2001] USER TEXT: Iyaint has the F word in his message thing when u inspect him i find it quite offensive
+[Sat Dec 22 16:52:54 2001] Players in EverQuest:
+[Sat Dec 22 16:52:54 2001] ---------------------------
+[Sat Dec 22 16:52:54 2001] [29 Warrior] Zaradane (Half Elf) ZONE: eastwastes (USER PID AY45LQH)
+[Sat Dec 22 16:52:54 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:53:00 2001] Correllan GMSAYS, 'vertiblade unavailable #2'
+[Sat Dec 22 16:53:37 2001] Lirus GMSAYS, 'zone'
+[Sat Dec 22 16:53:50 2001] Espranza saved.
+[Sat Dec 22 16:54:37 2001] You say, 'need a title again?'
+[Sat Dec 22 16:54:46 2001] Correllan says, 'yea i recon so..lol'
+[Sat Dec 22 16:55:36 2001] You say, 'What would you like?'
+[Sat Dec 22 16:55:57 2001] Correllan says, 'Correllan the Curious will do for now'
+[Sat Dec 22 16:56:07 2001] Correllan says, 'lol..curious about all this ...lol'
+[Sat Dec 22 16:56:12 2001] You have changed Correllan's last name to the Curious.
+[Sat Dec 22 16:56:14 2001] You no longer have a target.
+[Sat Dec 22 16:57:14 2001] Players in EverQuest:
+[Sat Dec 22 16:57:14 2001] ---------------------------
+[Sat Dec 22 16:57:14 2001] [36 Wizard] Iyaint (High Elf) ZONE: eastwastes (USER PID BUUT5VQ)
+[Sat Dec 22 16:57:14 2001] There is 1 player in EverQuest.
+[Sat Dec 22 16:57:17 2001] You GMSAY, 'zone'
+[Sat Dec 22 16:57:21 2001] Teleporting to iyaint.
+[Sat Dec 22 16:57:21 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 16:58:29 2001] You have entered Eastern Wastes.
+[Sat Dec 22 16:58:55 2001] Teleporting to iyaint.
+[Sat Dec 22 16:59:22 2001] You GMSAY, 'hey, Iyaint Notaxi is bad, huh?'
+[Sat Dec 22 17:00:09 2001] Correllan GMSAYS, 'would say so'
+[Sat Dec 22 17:00:54 2001] You GMSAY, 'I officially dont like changing names'
+[Sat Dec 22 17:01:47 2001] Iyaint begins to cast a spell. (Circle of Force)
+[Sat Dec 22 17:01:55 2001] Yargs says out of character, 'smallish train to bridge'
+[Sat Dec 22 17:02:11 2001] Iyaint begins to cast a spell. (Inferno Shock)
+[Sat Dec 22 17:02:18 2001] Iyaint begins to cast a spell. (Inferno Shock)
+[Sat Dec 22 17:02:30 2001] Correllan GMSAYS, 'esc Xurria epic quest items taken but nothing given back text appended'
+[Sat Dec 22 17:02:43 2001] Iyaint begins to cast a spell. (Gate)
+[Sat Dec 22 17:02:48 2001] Iyaint fades away.
+[Sat Dec 22 17:03:06 2001] Players in EverQuest:
+[Sat Dec 22 17:03:06 2001] ---------------------------
+[Sat Dec 22 17:03:06 2001] [36 Wizard] Iyaint (High Elf) ZONE: eastwastes (USER PID BUUT5VQ)
+[Sat Dec 22 17:03:06 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:03:11 2001] Teleporting to iyaint.
+[Sat Dec 22 17:03:16 2001] You wave at Iyaint.
+[Sat Dec 22 17:03:22 2001] Iyaint bows before Espranza.
+[Sat Dec 22 17:03:28 2001] Iyaint says, 'what's up my little friend?'
+[Sat Dec 22 17:03:39 2001] You say, 'Hello, Iyaint... I need to change your last name - it makes a phrase with your first name'
+[Sat Dec 22 17:03:50 2001] Iyaint says, 'hmm?'
+[Sat Dec 22 17:03:58 2001] Iyaint says, 'but i had it before the policy was changed?'
+[Sat Dec 22 17:04:00 2001] You say, 'I ain't no taxi...'
+[Sat Dec 22 17:04:20 2001] You say, 'The policy has always been no phrases'
+[Sat Dec 22 17:04:41 2001] Iyaint says, 'ahh ok, well, no one has ever said anything before so this is kind of out of the blue.'
+[Sat Dec 22 17:04:46 2001] Iyaint says, 'but that's fine, i don't argue. ;p'
+[Sat Dec 22 17:04:57 2001] You say, 'have any non phrase ideas in mind?'
+[Sat Dec 22 17:05:21 2001] You say, 'you've been petitioned about a dozen times, just never had a senior online at the same time...'
+[Sat Dec 22 17:05:22 2001] Iyaint says, 'well, honestly, i would like to change my first name then so it won't ever be a problem again.'
+[Sat Dec 22 17:05:30 2001] Iyaint says, 'is that ok?'
+[Sat Dec 22 17:05:40 2001] You say, 'let me ask...'
+[Sat Dec 22 17:05:41 2001] Players in EverQuest:
+[Sat Dec 22 17:05:41 2001] ---------------------------
+[Sat Dec 22 17:05:41 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: eastwastes (USER PID B4KJ6E7)
+[Sat Dec 22 17:05:41 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: sharvahl (USER PID CW1ECN5)
+[Sat Dec 22 17:05:41 2001] * Guide *[50 Ranger] Correllan (Human) <Keepers of Dreams> ZONE: cshome (USER PID AUUWKPN)
+[Sat Dec 22 17:05:41 2001] There are 3 players in EverQuest.
+[Sat Dec 22 17:05:50 2001] Iyaint says, 'because otherwise it would still be a phrase.'
+[Sat Dec 22 17:05:57 2001] You GMSAY, 'Lirus, Iyaint Nohtakzi wants to change both first and last names...'
+[Sat Dec 22 17:06:32 2001] Iyaint says, 'i would like to change it to Lukas, no one has it on this server and it fits well with my character when i roleplat.'
+[Sat Dec 22 17:07:04 2001] You say, 'Well, let's get rid of your last name'
+[Sat Dec 22 17:07:13 2001] You have changed Iyaint's last name to  .
+[Sat Dec 22 17:07:13 2001] Iyaint says, 'that's fine.'
+[Sat Dec 22 17:07:22 2001] Iyaint says, 'i just want to have my name as Lukas, no surname at all.'
+[Sat Dec 22 17:07:35 2001] Iyaint says, 'so when i do my AA experience i see Baron Lukas and such.'
+[Sat Dec 22 17:07:41 2001] You have changed Iyaint's name to Lukas.
+[Sat Dec 22 17:08:00 2001] Players on EverQuest:
+[Sat Dec 22 17:08:00 2001] ---------------------------
+[Sat Dec 22 17:08:00 2001] There are no players in Eastern Wastes that match those who filters.
+[Sat Dec 22 17:08:03 2001] Players in EverQuest:
+[Sat Dec 22 17:08:03 2001] ---------------------------
+[Sat Dec 22 17:08:03 2001] [36 Wizard] Iyaint (High Elf) ZONE: eastwastes (USER PID BUUT5VQ)
+[Sat Dec 22 17:08:03 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:08:11 2001] You say, 'It's in use'
+[Sat Dec 22 17:08:17 2001] Iyaint says, 'oh really? '
+[Sat Dec 22 17:08:26 2001] Espranza saved.
+[Sat Dec 22 17:08:31 2001] You say, 'or you've already changed it once...'
+[Sat Dec 22 17:08:31 2001] Iyaint says, 'ok, give me one moment...'
+[Sat Dec 22 17:08:40 2001] Iyaint says, 'nope, it's never been changed at all.'
+[Sat Dec 22 17:08:43 2001] Iyaint says, 'could i have Luke?'
+[Sat Dec 22 17:08:54 2001] You have changed Iyaint's name to Luke.
+[Sat Dec 22 17:08:59 2001] You say, 'Used...'
+[Sat Dec 22 17:09:08 2001] Iyaint says, 'wow...'
+[Sat Dec 22 17:09:10 2001] Iyaint says, 'Lucas?'
+[Sat Dec 22 17:09:27 2001] You have changed Iyaint's name to Lucas.
+[Sat Dec 22 17:09:38 2001] You say, 'I think common names have probably been used long ago'
+[Sat Dec 22 17:09:45 2001] Iyaint says, 'ahh, ok, one final moment then...'
+[Sat Dec 22 17:10:08 2001] Iyaint says, 'how about Fallen?'
+[Sat Dec 22 17:10:10 2001] Correllan tells the guild, 'what was your rogues name?'
+[Sat Dec 22 17:10:17 2001] Iyaint says, 'that would go well with this character.'
+[Sat Dec 22 17:10:18 2001] You say to your guild, '?? mine?'
+[Sat Dec 22 17:10:34 2001] Correllan tells the guild, 'opps missed the r..lol'
+[Sat Dec 22 17:10:50 2001] You say, 'That's kind of like a title...'
+[Sat Dec 22 17:10:58 2001] Lirus GMSAYS, 'ok esp'
+[Sat Dec 22 17:11:05 2001] Iyaint says, 'not allowed? ;/'
+[Sat Dec 22 17:11:16 2001] You say, 'we're trying to avoid titles as names'
+[Sat Dec 22 17:11:23 2001] Iyaint says, 'oh, no problem, how about Aero?'
+[Sat Dec 22 17:11:34 2001] You have changed Iyaint's name to Aero.
+[Sat Dec 22 17:11:34 2001] Iyaint says, 'by the way i'm sorry to take up your time.'
+[Sat Dec 22 17:11:39 2001] You say, 'no worries'
+[Sat Dec 22 17:11:43 2001] You say, 'Aero used too'
+[Sat Dec 22 17:11:48 2001] Iyaint says, 'jesus...'
+[Sat Dec 22 17:12:31 2001] Iyaint says, 'Ro?'
+[Sat Dec 22 17:12:35 2001] Iyaint says, 'that allowed?'
+[Sat Dec 22 17:12:52 2001] Lirus GMSAYS, 'zone'
+[Sat Dec 22 17:12:52 2001] Iyaint says, 'or Rei?'
+[Sat Dec 22 17:13:07 2001] You say, 'hmm... Rei is kind of common but I'll try'
+[Sat Dec 22 17:13:23 2001] You must enter a valid name to change to!
+[Sat Dec 22 17:13:42 2001] You say, 'not allowed'
+[Sat Dec 22 17:13:47 2001] You say, 'too short'
+[Sat Dec 22 17:13:49 2001] Iyaint says, 'how about Garr?'
+[Sat Dec 22 17:13:59 2001] You have changed Iyaint's name to Garr.
+[Sat Dec 22 17:14:10 2001] You say, 'not working...'
+[Sat Dec 22 17:14:24 2001] You GMSAY, 'Lirus, when I go to change Iyaint's first name'
+[Sat Dec 22 17:14:24 2001] Iyaint says, 'my lord, is anything available? ;p'
+[Sat Dec 22 17:14:33 2001] You GMSAY, 'it says it is changing it but doesn't'
+[Sat Dec 22 17:14:34 2001] Iyaint says, 'Reii?'
+[Sat Dec 22 17:14:44 2001] You have changed Iyaint's name to Reii.
+[Sat Dec 22 17:15:00 2001] Lirus GMSAYS, 'that means whatever name is taken'
+[Sat Dec 22 17:15:06 2001] Lirus GMSAYS, 'or will not pass filter for whatever reason'
+[Sat Dec 22 17:15:10 2001] Lirus GMSAYS, 'so they have to choose another'
+[Sat Dec 22 17:15:24 2001] You GMSAY, 'that's what i thought'
+[Sat Dec 22 17:15:28 2001] You say, 'Still not working...'
+[Sat Dec 22 17:15:32 2001] Iyaint says, 'why not?'
+[Sat Dec 22 17:15:39 2001] You say, 'Apparently it is also taken'
+[Sat Dec 22 17:15:49 2001] Iyaint says, 'Rai?'
+[Sat Dec 22 17:15:57 2001] You must enter a valid name to change to!
+[Sat Dec 22 17:16:03 2001] You say, 'Has to be at least four letters'
+[Sat Dec 22 17:16:09 2001] Iyaint says, 'ahh, gotcha, uhmm...'
+[Sat Dec 22 17:16:20 2001] Iyaint says, 'Taii?'
+[Sat Dec 22 17:16:26 2001] You have changed Iyaint's name to Taii.
+[Sat Dec 22 17:16:28 2001] Correllan GMSAYS, 'esc shaulthaen missing equipment and requesting leg up kit....text appended with much info'
+[Sat Dec 22 17:16:42 2001] You say, 'nope. This is weird.'
+[Sat Dec 22 17:16:55 2001] Iyaint says, 'what's wrong?'
+[Sat Dec 22 17:17:04 2001] You say, 'that so many names don't work ;)'
+[Sat Dec 22 17:17:16 2001] STATUS UPGRADED TO URGENT
+[Sat Dec 22 17:17:18 2001] Correllan GMSAYS, 'zoning to the twilight zone'
+[Sat Dec 22 17:17:21 2001] Iyaint says, 'Should I contact a senior guide or?'
+[Sat Dec 22 17:17:23 2001] You GMSAY, 'esc zaradane - is mine'
+[Sat Dec 22 17:17:28 2001] You say, 'I am a senior guide...'
+[Sat Dec 22 17:17:31 2001] CHECKING IN
+[Sat Dec 22 17:17:33 2001] Iyaint says, 'oh hehe'
+[Sat Dec 22 17:17:38 2001] Players in EverQuest:
+[Sat Dec 22 17:17:38 2001] ---------------------------
+[Sat Dec 22 17:17:38 2001] [36 Wizard] Iyaint (High Elf) ZONE: eastwastes (USER PID BUUT5VQ)
+[Sat Dec 22 17:17:38 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:17:42 2001] Iyaint says, 'i didn't mean that as a diss or anything/.'
+[Sat Dec 22 17:17:59 2001] Iyaint says, 'Raii?'
+[Sat Dec 22 17:18:01 2001] Saving soulmark information to server.
+[Sat Dec 22 17:18:14 2001] You have changed Iyaint's name to Raii.
+[Sat Dec 22 17:18:27 2001] Espranza saved.
+[Sat Dec 22 17:18:33 2001] You say, 'Sigh....'
+[Sat Dec 22 17:18:37 2001] Iyaint says, '?'
+[Sat Dec 22 17:18:49 2001] You say, 'Still not working. How about if we just try Yaint?'
+[Sat Dec 22 17:18:50 2001] Zaradane is looking at your equipment...
+[Sat Dec 22 17:18:54 2001] Players in EverQuest:
+[Sat Dec 22 17:18:54 2001] ---------------------------
+[Sat Dec 22 17:18:54 2001] * Guide *[50 Ranger] Correllan (Human) <Keepers of Dreams> ZONE: freporte (USER PID AUUWKPN)
+[Sat Dec 22 17:18:54 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: steamfont (USER PID BUUWN74)
+[Sat Dec 22 17:18:54 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: timorous (USER PID CW1ECN5)
+[Sat Dec 22 17:18:54 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: eastwastes (USER PID B4KJ6E7)
+[Sat Dec 22 17:18:54 2001] There are 4 players in EverQuest.
+[Sat Dec 22 17:19:06 2001] Iyaint says, 'ouch, i really dislike that name. ;/'
+[Sat Dec 22 17:19:17 2001] Iyaint says, 'Kaii?'
+[Sat Dec 22 17:19:22 2001] Iyaint says, 'is that a possibility?'
+[Sat Dec 22 17:19:24 2001] You have changed Iyaint's name to Kaii.
+[Sat Dec 22 17:19:41 2001] You say, 'Doesn't go through'
+[Sat Dec 22 17:19:53 2001] Iyaint says, 'why would Yaint go through then?'
+[Sat Dec 22 17:19:59 2001] You say, 'I don't know if it will'
+[Sat Dec 22 17:20:09 2001] You say, 'I was just suggesting it'
+[Sat Dec 22 17:20:22 2001] Iyaint says, 'well see if it works, otherwise something is wrong.'
+[Sat Dec 22 17:20:27 2001] You have changed Iyaint's name to Yaint.
+[Sat Dec 22 17:20:29 2001] Iyaint says, 'i don't want it as a name, i just want to see if it works.'
+[Sat Dec 22 17:20:41 2001] You say, 'huh... no change.'
+[Sat Dec 22 17:20:52 2001] You GMSAY, 'Lirus, I can't change this guys first name at all.'
+[Sat Dec 22 17:21:05 2001] Correllan GMSAYS, 'are we able to help if they turned in thier recruitment letter to the wrong person..person is vahshir and in luclin'
+[Sat Dec 22 17:21:12 2001] Lirus GMSAYS, 'what command are you using esp?'
+[Sat Dec 22 17:21:18 2001] You GMSAY, '/name oldname newname'
+[Sat Dec 22 17:21:24 2001] Iyaint says, 'so what's this mean? ;/'
+[Sat Dec 22 17:21:29 2001] You say, 'Asking the GM...'
+[Sat Dec 22 17:22:12 2001] Iyaint regards you indifferently -- You would probably win this fight..it's not certain though.
+[Sat Dec 22 17:22:13 2001] You are inspecting Iyaint.
+[Sat Dec 22 17:22:16 2001] Correllan tells the guild, 'lol...unfortunately no these are blessings from the gods of Norrath and we cannot share amongst the fair folks of the land'
+[Sat Dec 22 17:22:23 2001] You say, 'Nice inspect message...'
+[Sat Dec 22 17:22:28 2001] You feel the spirit of Norrath enter you.
+[Sat Dec 22 17:22:34 2001] Iyaint says, 'uhh, heh.'
+[Sat Dec 22 17:22:51 2001] Iyaint says, 'any idea of the problem?'
+[Sat Dec 22 17:23:41 2001] You say, 'None... so I guess you continue to be known as Iyaint. If you should think of a last name which will not violate the naming guidelines, petition to have it set, please.'
+[Sat Dec 22 17:23:54 2001] Players in EverQuest:
+[Sat Dec 22 17:23:54 2001] ---------------------------
+[Sat Dec 22 17:23:54 2001] [36 Wizard] Iyaint (High Elf) ZONE: eastwastes (USER PID BUUT5VQ)
+[Sat Dec 22 17:23:54 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:23:56 2001] Iyaint says, 'uhh, ok i guess.'
+[Sat Dec 22 17:24:01 2001] Iyaint says, 'i guess i'll see ya then.'
+[Sat Dec 22 17:24:09 2001] You GMSAY, '<note bug> Could not change Iyaint's first name.'
+[Sat Dec 22 17:24:31 2001] You GMSAY, '<note> Iyaint BUUT5VQ removed last name, Notakzi'
+[Sat Dec 22 17:24:34 2001] You say, 'be well!'
+[Sat Dec 22 17:24:42 2001] Lirus GMSAYS, 'some people are so F'ing dumb'
+[Sat Dec 22 17:24:45 2001] You GMSAY, 'zone'
+[Sat Dec 22 17:24:50 2001] You begin casting Sunset Home. Item Cast Time (1000) (Sunset Home)
+[Sat Dec 22 17:24:50 2001] Your Belt of Translocation begins to glow.
+[Sat Dec 22 17:24:50 2001] LOADING, PLEASE WAIT...
+[Sat Dec 22 17:25:09 2001] You have entered Sunset Home.
+[Sat Dec 22 17:25:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:25:22 2001] USER TEXT: Iyaint has the F word in his message thing when u inspect him i find it quite offensive
+[Sat Dec 22 17:25:22 2001] Players in EverQuest:
+[Sat Dec 22 17:25:22 2001] ---------------------------
+[Sat Dec 22 17:25:22 2001] [29 Warrior] Zaradane (Half Elf) ZONE: eastwastes (USER PID AY45LQH)
+[Sat Dec 22 17:25:22 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:25:24 2001] DELETING THIS PETITION
+[Sat Dec 22 17:25:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:25:27 2001] USER TEXT: i brought a buddy to a camp, and there is a guy here trying to ks everthing
+[Sat Dec 22 17:25:27 2001] Players in EverQuest:
+[Sat Dec 22 17:25:27 2001] ---------------------------
+[Sat Dec 22 17:25:27 2001] [51 Wanderer] Nosi (Halfling) <Altruistic Valorians> ZONE: commons (USER PID CNLLH0W)
+[Sat Dec 22 17:25:27 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:25:45 2001] You GMSAY, 'are you free, Correllan?'
+[Sat Dec 22 17:26:06 2001] Correllan GMSAYS, 'with a pet ...whats up..almost done'
+[Sat Dec 22 17:26:14 2001] You GMSAY, 'this petition is hilarious'
+[Sat Dec 22 17:26:14 2001] Kilm GMSAYS, 'zone'
+[Sat Dec 22 17:26:17 2001] Players in EverQuest:
+[Sat Dec 22 17:26:17 2001] ---------------------------
+[Sat Dec 22 17:26:17 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 17:26:17 2001] * Guide *[50 Ranger] Correllan (Human) <Keepers of Dreams> ZONE: freportw (USER PID AUUWKPN)
+[Sat Dec 22 17:26:17 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: steamfont (USER PID BUUWN74)
+[Sat Dec 22 17:26:17 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: timorous (USER PID CW1ECN5)
+[Sat Dec 22 17:26:17 2001] There are 4 players in EverQuest.
+[Sat Dec 22 17:26:29 2001] Correllan GMSAYS, 'okay on sec'
+[Sat Dec 22 17:26:41 2001] You GMSAY, 'a 51 druid says that someone is KSing him at a camp in West Commonlands'
+[Sat Dec 22 17:27:22 2001] You GMSAY, 'since you haven't done an investigation yet, I wondered if you would like this one'
+[Sat Dec 22 17:27:25 2001] You GMSAY, 'hiya Kilm!'
+[Sat Dec 22 17:27:43 2001] Players in EverQuest:
+[Sat Dec 22 17:27:43 2001] ---------------------------
+[Sat Dec 22 17:27:43 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: gfaydark (USER PID BUUWN74)
+[Sat Dec 22 17:27:43 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 17:27:43 2001] * Guide *[50 Ranger] Correllan (Human) <Keepers of Dreams> ZONE: freportw (USER PID AUUWKPN)
+[Sat Dec 22 17:27:43 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: timorous (USER PID CW1ECN5)
+[Sat Dec 22 17:27:43 2001] There are 4 players in EverQuest.
+[Sat Dec 22 17:27:45 2001] Correllan GMSAYS, 'okay'
+[Sat Dec 22 17:27:52 2001] Kilm GMSAYS, 'hi yas :) Fair Halfling Lady who loves gnomes :) '
+[Sat Dec 22 17:27:54 2001] Correllan GMSAYS, 'hiya kilm didn't see ya come in'
+[Sat Dec 22 17:27:54 2001] You GMSAY, 'esc Nosi for Correllan'
+[Sat Dec 22 17:27:57 2001] STATUS UPGRADED TO URGENT
+[Sat Dec 22 17:27:58 2001] CHECKING IN
+[Sat Dec 22 17:28:07 2001] Kilm GMSAYS, 'hi yas Corr :) just stopped in '
+[Sat Dec 22 17:28:15 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:28:15 2001] USER TEXT: heya, i deleted my chars on this account a few weeks agom and when i asked to get them back i was asked to petition in game....so here is the petition :)
+[Sat Dec 22 17:28:16 2001] Players in EverQuest:
+[Sat Dec 22 17:28:16 2001] ---------------------------
+[Sat Dec 22 17:28:16 2001] There are no players in EverQuest that match those who filters.
+[Sat Dec 22 17:28:30 2001] You GMSAY, 'Niddrym unavail 2'
+[Sat Dec 22 17:28:33 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Dec 22 17:28:34 2001] CHECKING IN
+[Sat Dec 22 17:28:34 2001] Correllan GMSAYS, 'okay'
+[Sat Dec 22 17:28:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:28:36 2001] USER TEXT: for some reason i cannot make arrows in my fletching kit
+[Sat Dec 22 17:28:36 2001] Players in EverQuest:
+[Sat Dec 22 17:28:36 2001] ---------------------------
+[Sat Dec 22 17:28:36 2001] [58 Myrmidon] Draxus (Dark Elf) <Ronins> ZONE: timorous (USER PID GNMDMW2)
+[Sat Dec 22 17:28:36 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:29:03 2001] You told Draxus, 'Hail, Draxus! Senior Guide Espranza here. How may I help you?'
+[Sat Dec 22 17:29:12 2001] Correllan GMSAYS, 'going anon and invis to join espranza'
+[Sat Dec 22 17:29:19 2001] You GMSAY, 'I'm not there'
+[Sat Dec 22 17:29:29 2001] Correllan GMSAYS, 'okay will go then myself..lol'
+[Sat Dec 22 17:29:29 2001] Lirus GMSAYS, '*bangs head on desk some*'
+[Sat Dec 22 17:29:38 2001] You GMSAY, '?'
+[Sat Dec 22 17:29:50 2001] Draxus tells you, 'for some reason i cant combine componenets in my fletching kit'
+[Sat Dec 22 17:29:54 2001] You say, 'Hail'
+[Sat Dec 22 17:29:56 2001] Lirus GMSAYS, 'just idiotic players who cannot accept responsibility for their own F-ups'
+[Sat Dec 22 17:30:03 2001] Lirus GMSAYS, 'and blame and yell at me'
+[Sat Dec 22 17:30:08 2001] You told Draxus, 'Have these components worked before?'
+[Sat Dec 22 17:30:09 2001] Lirus GMSAYS, 'and call things "bugs"'
+[Sat Dec 22 17:30:11 2001] Draxus tells you, 'ya'
+[Sat Dec 22 17:30:17 2001] Kilm GMSAYS, 'Watches Lirus and hopes one day he can help...... err not bang Lirus head on the desk that is :D '
+[Sat Dec 22 17:30:25 2001] Lirus GMSAYS, 'it's a bug that i left my singed scroll in the bank and turned in the wrong epic items'
+[Sat Dec 22 17:30:30 2001] Lirus GMSAYS, 'it's all MY fault'
+[Sat Dec 22 17:30:38 2001] Lirus GMSAYS, 'lol'
+[Sat Dec 22 17:30:41 2001] You told Draxus, 'could you check and make sure the items are what you think they are? Many times things have identical icons for different things.'
+[Sat Dec 22 17:31:04 2001] You GMSAY, 'sheesh, when I did my epic I double and triple checked things!'
+[Sat Dec 22 17:31:10 2001] Your feet leave the ground.
+[Sat Dec 22 17:31:11 2001] Lirus GMSAYS, 'i "know" i turned in the correct items..../replied, clearly that is not the case as the singed scroll is sitting in your bank at this very moment'
+[Sat Dec 22 17:31:11 2001] Draxus tells you, 'i just checked them, i have wood shaft, parabolic fletch, small nock, field pt tip'
+[Sat Dec 22 17:31:22 2001] Draxus tells you, 'combined them a million times   heh'
+[Sat Dec 22 17:31:29 2001] You told Draxus, 'yeah, those look fine to me.'
+[Sat Dec 22 17:31:29 2001] Lirus GMSAYS, '*proceeds to yelling in caps at Lirus*'
+[Sat Dec 22 17:31:35 2001] Kilm GMSAYS, 'Lirus, but iuts always our fault :) '
+[Sat Dec 22 17:31:48 2001] Draxus tells you, 'i can give you the kit & you can try if you want'
+[Sat Dec 22 17:31:51 2001] Lirus GMSAYS, 'needless to say they landed themselves a warning for GM harassment'
+[Sat Dec 22 17:31:54 2001] You told Draxus, 'heh no...'
+[Sat Dec 22 17:32:16 2001] You told Draxus, 'try zoning and see if it starts working.'
+[Sat Dec 22 17:32:25 2001] Kilm GMSAYS, 'doh'
+[Sat Dec 22 17:32:36 2001] Lirus GMSAYS, 'and still feel that because i gave them an answer they didn't want to hear and that THEY screwed up, that it's a bug and therefore my fault'
+[Sat Dec 22 17:32:43 2001] Draxus tells you, 'hmm, no zone close, although i did try combining before i zoned last time'
+[Sat Dec 22 17:32:56 2001] You told Draxus, 'try relogging?'
+[Sat Dec 22 17:33:07 2001] Kilm GMSAYS, 'its always our fault :) just have to accept the inevitable '
+[Sat Dec 22 17:33:10 2001] Lirus GMSAYS, 'hehe aye'
+[Sat Dec 22 17:33:13 2001] You told Draxus, 'Are you sure that's your fletching kit? Just to make sure'
+[Sat Dec 22 17:33:16 2001] Draxus tells you, 'i can try that, it will have to wait a few tho'
+[Sat Dec 22 17:33:20 2001] Lirus GMSAYS, 'but in this case it was SO clear on what was done wrong'
+[Sat Dec 22 17:33:26 2001] Draxus tells you, 'ya, it says fletching kit'
+[Sat Dec 22 17:33:31 2001] Lirus GMSAYS, 'and they STILL failed to own up to their actions'
+[Sat Dec 22 17:34:26 2001] Kilm GMSAYS, 'lol...sounds like some of my old high school firends and me back in the day... that was..100 years ago.. honestly ,medication helped :) '
+[Sat Dec 22 17:34:28 2001] You told Draxus, 'just trying to find reasons, because I hadn't heard that fletching is broken yet'
+[Sat Dec 22 17:34:28 2001] Lirus GMSAYS, 'here's another...'
+[Sat Dec 22 17:34:41 2001] Lirus GMSAYS, 'my corpse is bugged and this game is bugged'
+[Sat Dec 22 17:34:46 2001] Correllan GMSAYS, 'esp did you talk to him at all?'
+[Sat Dec 22 17:34:53 2001] You GMSAY, 'no, I made no contact'
+[Sat Dec 22 17:35:01 2001] Draxus tells you, 'probably need to log or something, i can try it after we kill faydedar'
+[Sat Dec 22 17:35:01 2001] Lirus GMSAYS, 'dude missed a res....and when cleric tried to res he got the corpse is too old message'
+[Sat Dec 22 17:35:05 2001] Espranza saved.
+[Sat Dec 22 17:35:09 2001] Lirus GMSAYS, 'fool already looted his corpse'
+[Sat Dec 22 17:35:18 2001] Lirus GMSAYS, 'all he had to do was camp or zone again and have cleric retry'
+[Sat Dec 22 17:35:22 2001] Lirus GMSAYS, '........*sigh*'
+[Sat Dec 22 17:35:28 2001] You told Draxus, 'okay, repetition if it is still broken'
+[Sat Dec 22 17:35:33 2001] Draxus tells you, 'will do'
+[Sat Dec 22 17:35:36 2001] DELETING THIS PETITION
+[Sat Dec 22 17:35:38 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:35:38 2001] USER TEXT: mmmmm lirus gave me the guild letter for beast lord when I am a rogue :(
+[Sat Dec 22 17:35:38 2001] Players in EverQuest:
+[Sat Dec 22 17:35:38 2001] ---------------------------
+[Sat Dec 22 17:35:38 2001] [7 Rogue] Sohei (Vah Shir) ZONE: sharvahl (USER PID EWVBVTB)
+[Sat Dec 22 17:35:38 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:35:47 2001] Correllan GMSAYS, 'okay looks to me like he is grouped and see nothing out of the ordinary going to watch a few more minutes to make sure'
+[Sat Dec 22 17:35:59 2001] You GMSAY, 'Esc Sohei to Lirus - you gave him guild letter for beast lord and he is a rogue'
+[Sat Dec 22 17:36:03 2001] STATUS UPGRADED TO URGENT
+[Sat Dec 22 17:36:04 2001] STATUS UPGRADED TO EMERGENCY
+[Sat Dec 22 17:36:06 2001] CHECKING IN
+[Sat Dec 22 17:36:07 2001] Lirus GMSAYS, 'what does he want now?'
+[Sat Dec 22 17:36:13 2001] Lirus GMSAYS, 'oh nm'
+[Sat Dec 22 17:36:24 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:36:24 2001] USER TEXT: my corpse is bugged
+[Sat Dec 22 17:36:25 2001] Players in EverQuest:
+[Sat Dec 22 17:36:25 2001] ---------------------------
+[Sat Dec 22 17:36:25 2001] [52 Channeler] Ryei (High Elf) ZONE: timorous (USER PID BUDL8NY)
+[Sat Dec 22 17:36:25 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:36:30 2001] Lirus GMSAYS, 'zone'
+[Sat Dec 22 17:36:38 2001] You told Ryei, 'Hail, Ryei! Senior Guide Espranza here. How may I help you?'
+[Sat Dec 22 17:36:41 2001] It begins to rain.
+[Sat Dec 22 17:37:14 2001] Ryei tells you, 'nm... just got what i wanted... dont need ya anymore.. thanks anyway ( it wasnt a xp loss then its fine  got my corpse already )'
+[Sat Dec 22 17:37:26 2001] You told Ryei, 'okay, be well!'
+[Sat Dec 22 17:37:28 2001] DELETING THIS PETITION
+[Sat Dec 22 17:37:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:37:30 2001] USER TEXT: heya, i deleted my chars on this account a few weeks agom and when i asked to get them back i was asked to petition in game....so here is the petition :)
+[Sat Dec 22 17:37:30 2001] Players in EverQuest:
+[Sat Dec 22 17:37:30 2001] ---------------------------
+[Sat Dec 22 17:37:30 2001] There are no players in EverQuest that match those who filters.
+[Sat Dec 22 17:37:40 2001] You GMSAY, 'Niddrym unavail x3'
+[Sat Dec 22 17:37:41 2001] Ryei tells you, 'thanks'
+[Sat Dec 22 17:37:44 2001] You GMSAY, '***flush***'
+[Sat Dec 22 17:37:46 2001] DELETING THIS PETITION
+[Sat Dec 22 17:37:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:37:48 2001] USER TEXT: The game frooze up and I died (
+[Sat Dec 22 17:37:48 2001] Players in EverQuest:
+[Sat Dec 22 17:37:48 2001] ---------------------------
+[Sat Dec 22 17:37:48 2001] [25 Cleric] Dalrez (Dwarf) ZONE: paw (USER PID CSGFB35)
+[Sat Dec 22 17:37:48 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:37:59 2001] Searching zones for corpse of that name....
+[Sat Dec 22 17:37:59 2001] Corpse: Dalrez's corpse0 in zone: paw
+[Sat Dec 22 17:39:12 2001] You told Dalrez, 'Hail, Dalrez! Senior Guide Espranza here. I am sorry, but we cannot rez for deaths caused by game freezes. However, if you know what you were doing when it froze, I will note it in my shift report.'
+[Sat Dec 22 17:39:21 2001] Correllan GMSAYS, 'deleting nosi conatact made trouble character logged and he didn;t wand to make trouble for him'
+[Sat Dec 22 17:40:32 2001] You GMSAY, 'watch for someone trying to get Osama bin Laden...'
+[Sat Dec 22 17:40:39 2001] Players in EverQuest:
+[Sat Dec 22 17:40:39 2001] ---------------------------
+[Sat Dec 22 17:40:39 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: sharvahl (USER PID CW1ECN5)
+[Sat Dec 22 17:40:39 2001] * Guide *[ANON (50 Ranger)] Correllan (Human) ZONE: commons (USER PID AUUWKPN)
+[Sat Dec 22 17:40:39 2001] * Guide *[54 Rake] Kilm (Barbarian) <Keepers of Dreams> ZONE: gfaydark (USER PID BUUWN74)
+[Sat Dec 22 17:40:39 2001] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Sat Dec 22 17:40:39 2001] There are 4 players in EverQuest.
+[Sat Dec 22 17:40:41 2001] Correllan GMSAYS, 'okay'
+[Sat Dec 22 17:41:10 2001] Correllan GMSAYS, 'there it went and denied'
+[Sat Dec 22 17:41:29 2001] Kilm GMSAYS, 'how creative '
+[Sat Dec 22 17:41:45 2001] DELETING THIS PETITION
+[Sat Dec 22 17:41:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:41:49 2001] USER TEXT: umm i just logged on   i have spells memerized   but when i whent to med i   see no spells in my book  this a bug or  some  new  low lvl thing ?
+[Sat Dec 22 17:41:49 2001] Players in EverQuest:
+[Sat Dec 22 17:41:49 2001] ---------------------------
+[Sat Dec 22 17:41:49 2001] [4 Necromancer] Seeping (Gnome) ZONE: steamfont (USER PID GYLRARF)
+[Sat Dec 22 17:41:49 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:42:49 2001] Kilm GMSAYS, 'ROFL'
+[Sat Dec 22 17:42:49 2001] You told Seeping, 'Hail, Seeping! Senior Guide Espranza here. Page through your spell book, your spells are there. When you change characters, the page you're on in your spell book isn't changed, so you're probably just on the wrong page.'
+[Sat Dec 22 17:42:54 2001] Lirus GMSAYS, '?'
+[Sat Dec 22 17:42:55 2001] You feel as if you are about to fall.
+[Sat Dec 22 17:43:01 2001] You feel as if you are about to fall.
+[Sat Dec 22 17:43:07 2001] You can no longer levitate.
+[Sat Dec 22 17:43:07 2001] Kilm GMSAYS, 'petition says..There is no way I should have died'
+[Sat Dec 22 17:43:40 2001] You GMSAY, 'I died when my rogue trainer asked me to practice my skills and I tried to pick his pocket'
+[Sat Dec 22 17:43:50 2001] You GMSAY, 'I probably should have gotten a rez'
+[Sat Dec 22 17:43:54 2001] Lirus GMSAYS, 'hehe'
+[Sat Dec 22 17:43:57 2001] Seeping tells you, 'yea i found them sry    to have botherd u '
+[Sat Dec 22 17:44:05 2001] You told Seeping, 'no worries - be well!'
+[Sat Dec 22 17:44:08 2001] DELETING THIS PETITION
+[Sat Dec 22 17:44:23 2001] You GMSAY, 'the other time was when my rogue turned into a lizzie in Rivervale'
+[Sat Dec 22 17:44:30 2001] Kilm GMSAYS, 'lol'
+[Sat Dec 22 17:44:35 2001] You GMSAY, 'dark elf worked, though!'
+[Sat Dec 22 17:44:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:44:47 2001] USER TEXT: I am having trouble when I open my inventory my screen starts flashing. It only happens on certain races.
+[Sat Dec 22 17:44:47 2001] Players in EverQuest:
+[Sat Dec 22 17:44:47 2001] ---------------------------
+[Sat Dec 22 17:44:47 2001] [27 Rogue] Shandil (Barbarian) ZONE: everfrost (USER PID DW8JBU6)
+[Sat Dec 22 17:44:47 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:44:55 2001] UNDOING CHECK OUT
+[Sat Dec 22 17:44:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Dec 22 17:44:58 2001] USER TEXT: ok this is screwed up
+[Sat Dec 22 17:44:58 2001] Players in EverQuest:
+[Sat Dec 22 17:44:58 2001] ---------------------------
+[Sat Dec 22 17:44:58 2001] [56 Defiler] Fammin (Erudite) <Temple of Dawn> ZONE: tox (USER PID APT2Z53)
+[Sat Dec 22 17:44:58 2001] There is 1 player in EverQuest.
+[Sat Dec 22 17:45:04 2001] UNDOING CHECK OUT
+[Sat Dec 22 17:45:06 2001] Espranza saved.
+[Sat Dec 22 17:45:10 2001] Kilm GMSAYS, 'lol My bard did that came out of DE form.. that general sure beat me with a ugly stick... I looked like ...welll A spot oin the road '
+[Sat Dec 22 17:45:22 2001] You GMSAY, 'heh'
+[Sat Dec 22 17:45:42 2001] You GMSAY, 'I have to go pick up my daughter now - laters all!'
+[Sat Dec 22 17:45:51 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Dec 22 17:45:55 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Dec 22 17:45:56 2001] Kilm GMSAYS, 'Laters Esp :) be safe '
+[Sat Dec 22 17:46:00 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Dec 22 17:46:05 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Dec 22 17:46:10 2001] It will take about 10 more seconds to prepare your camp.
+[Sat Dec 22 17:46:15 2001] It will take about 5 more seconds to prepare your camp.

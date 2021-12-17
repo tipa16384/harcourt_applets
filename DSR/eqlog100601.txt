@@ -1,0 +1,755 @@
+[Sat Oct 06 01:15:04 2001] Welcome to EverQuest!
+[Sat Oct 06 01:15:04 2001] You have entered Sunset Home.
+[Sat Oct 06 01:15:05 2001] Swiftmoor GMSAYS, 'try to get most of it cleared up'
+[Sat Oct 06 01:15:07 2001] Players in EverQuest:
+[Sat Oct 06 01:15:07 2001] ---------------------------
+[Sat Oct 06 01:15:07 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Oct 06 01:15:07 2001] * Guide *[51 Disciple] Swiftmoor (Iksar) ZONE: sebilis (USER PID EUUWZVJ)
+[Sat Oct 06 01:15:07 2001] * GM-Admin *[60 Phantasmist] Lydrea (Dark Elf) ZONE: gukbottom (USER PID GWWJWQA)
+[Sat Oct 06 01:15:07 2001] * Apprentice Guide *[ANON (20 Druid)] Lanalis (Wood Elf) ZONE: tox (USER PID BWNYRVF)
+[Sat Oct 06 01:15:07 2001] There are 4 players in EverQuest.
+[Sat Oct 06 01:15:10 2001] You GMSAY, 'hiya'
+[Sat Oct 06 01:15:16 2001] You GMSAY, 'saw the mess on the board'
+[Sat Oct 06 01:15:17 2001] Swiftmoor GMSAYS, 'but what do I tell people that didn't get any exp from my rez?'
+[Sat Oct 06 01:15:27 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Oct 06 01:15:28 2001] USER TEXT: Hail.  After the server crash I came back on to find my loot go. Usually I wouldnt care.  But we had just killed and looted a Strathbone Shell Shield.  That is a rare item.  I would appreciate it if I could get it back.
+[Sat Oct 06 01:15:28 2001] Players in EverQuest:
+[Sat Oct 06 01:15:28 2001] ---------------------------
+[Sat Oct 06 01:15:28 2001] There are no players in EverQuest that match those who filters.
+[Sat Oct 06 01:15:41 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sat Oct 06 01:15:41 2001] CHECKING IN
+[Sat Oct 06 01:15:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Oct 06 01:15:44 2001] USER TEXT: odyean
+[Sat Oct 06 01:15:44 2001] Players in EverQuest:
+[Sat Oct 06 01:15:44 2001] ---------------------------
+[Sat Oct 06 01:15:44 2001] [52 Channeler] Syrrus (Erudite) <Legions of Valhalla> ZONE: nro (USER PID FP7SN6V)
+[Sat Oct 06 01:15:44 2001] There is 1 player in EverQuest.
+[Sat Oct 06 01:15:52 2001] Lydrea GMSAYS, 'is the body still there or have they looted?'
+[Sat Oct 06 01:15:56 2001] You told Syrrus, 'Hail, Syrrus! Guide Espranza here. How may I help you?'
+[Sat Oct 06 01:16:06 2001] Swiftmoor GMSAYS, 'looted'
+[Sat Oct 06 01:16:19 2001] Players on EverQuest:
+[Sat Oct 06 01:16:19 2001] ---------------------------
+[Sat Oct 06 01:16:19 2001] There are no players in Sunset Home that match those who filters.
+[Sat Oct 06 01:16:21 2001] Players in EverQuest:
+[Sat Oct 06 01:16:21 2001] ---------------------------
+[Sat Oct 06 01:16:21 2001] There are no players in EverQuest that match those who filters.
+[Sat Oct 06 01:16:23 2001] Syrrus tells you, 'thx a guy rezz me in kaesora thx for your help'
+[Sat Oct 06 01:16:31 2001] You told Syrrus, 'okay! be well!'
+[Sat Oct 06 01:16:37 2001] You GMSAY, 'was there a server outage?'
+[Sat Oct 06 01:16:39 2001] Syrrus tells you, 'take care'
+[Sat Oct 06 01:16:41 2001] Lanalis GMSAYS, 'pulling Seanal'
+[Sat Oct 06 01:16:43 2001] DELETING THIS PETITION
+[Sat Oct 06 01:16:44 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Oct 06 01:16:44 2001] Lydrea GMSAYS, 'nothing we can do.  I can't see if there is exp on a corpse if its not there.'
+[Sat Oct 06 01:16:45 2001] USER TEXT: my friend was died in Lguk but warp corpse , we can not target  pls help
+[Sat Oct 06 01:16:45 2001] Players in EverQuest:
+[Sat Oct 06 01:16:45 2001] ---------------------------
+[Sat Oct 06 01:16:45 2001] [51 Vicar] Ixyxl (High Elf) <Phantom Knights> ZONE: gukbottom (USER PID BRTNQ79)
+[Sat Oct 06 01:16:45 2001] There is 1 player in EverQuest.
+[Sat Oct 06 01:17:07 2001] Lydrea GMSAYS, 'yes the server was dropped'
+[Sat Oct 06 01:17:07 2001] You told Ixyxl, 'Hail, Ixyxl! Guide Espranza here. Who has lost their corpse?'
+[Sat Oct 06 01:17:22 2001] Lanalis GMSAYS, 'What all are we reimbursing?'
+[Sat Oct 06 01:17:27 2001] You GMSAY, 'ah , that would explain the storm of petitions'
+[Sat Oct 06 01:17:28 2001] Swiftmoor GMSAYS, 'exp only.'
+[Sat Oct 06 01:17:36 2001] Ixyxl tells you, 'hello shes name Sterlay'
+[Sat Oct 06 01:17:36 2001] Swiftmoor GMSAYS, 'and only with a corpse'
+[Sat Oct 06 01:17:42 2001] Searching zones for corpse of that name....
+[Sat Oct 06 01:17:42 2001] Corpse: Sterlay's corpse0 in zone: gukbottom
+[Sat Oct 06 01:17:44 2001] You GMSAY, 'zone'
+[Sat Oct 06 01:17:49 2001] LOADING, PLEASE WAIT...
+[Sat Oct 06 01:18:15 2001] You have entered Ruins of Old Guk.
+[Sat Oct 06 01:18:23 2001] Teleporting to sterlay's corpse0.
+[Sat Oct 06 01:18:30 2001] Lanalis GMSAYS, 'IS unfortunate'
+[Sat Oct 06 01:18:32 2001] Players in EverQuest:
+[Sat Oct 06 01:18:32 2001] ---------------------------
+[Sat Oct 06 01:18:32 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: gukbottom (USER PID AUGBQH4)
+[Sat Oct 06 01:18:32 2001] * Guide *[51 Disciple] Swiftmoor (Iksar) ZONE: sebilis (USER PID EUUWZVJ)
+[Sat Oct 06 01:18:32 2001] * GM-Admin *[60 Phantasmist] Lydrea (Dark Elf) ZONE: gukbottom (USER PID GWWJWQA)
+[Sat Oct 06 01:18:32 2001] * Apprentice Guide *[20 Druid] Lanalis (Wood Elf) ZONE: tox (USER PID BWNYRVF)
+[Sat Oct 06 01:18:32 2001] There are 4 players in EverQuest.
+[Sat Oct 06 01:18:47 2001] You say, 'hmm... I just got this pettion'
+[Sat Oct 06 01:19:05 2001] You told Ixyxl, 'GM Lydrea has gotten the corpse from the wall... be well!'
+[Sat Oct 06 01:19:07 2001] You no longer have a target.
+[Sat Oct 06 01:19:08 2001] You bow.
+[Sat Oct 06 01:19:11 2001] DELETING THIS PETITION
+[Sat Oct 06 01:19:12 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Oct 06 01:19:12 2001] USER TEXT: swiftmoor just rezzed me a while ago after the crash and i just realized i didn't get my exp back
+[Sat Oct 06 01:19:12 2001] Players in EverQuest:
+[Sat Oct 06 01:19:12 2001] ---------------------------
+[Sat Oct 06 01:19:12 2001] [47 Warrior] Dianwei (Barbarian) <Lunacy> ZONE: innothule (USER PID BZGE68W)
+[Sat Oct 06 01:19:12 2001] There is 1 player in EverQuest.
+[Sat Oct 06 01:19:18 2001] You GMSAY, 'zone'
+[Sat Oct 06 01:19:20 2001] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Sat Oct 06 01:19:21 2001] You begin casting Sunset Home. (Sunset Home)
+[Sat Oct 06 01:19:21 2001] Your Belt of Translocation begins to glow.
+[Sat Oct 06 01:19:21 2001] Ixyxl tells you, 'oh ok thx'
+[Sat Oct 06 01:19:22 2001] LOADING, PLEASE WAIT...
+[Sat Oct 06 01:19:41 2001] You have entered Sunset Home.
+[Sat Oct 06 01:20:02 2001] You GMSAY, 'Swift, you were handling Dianwei's lack of experience on rez?'
+[Sat Oct 06 01:20:05 2001] Lydrea tells you, '=c)  the person is afk or something'
+[Sat Oct 06 01:20:05 2001] Searching zones for corpse of that name....
+[Sat Oct 06 01:20:10 2001] Ixyxl tells you, 'where har corpse?'
+[Sat Oct 06 01:20:21 2001] You told Ixyxl, 'it should be very near where she died'
+[Sat Oct 06 01:20:22 2001] Swiftmoor GMSAYS, 'LOL, not sure.'
+[Sat Oct 06 01:20:28 2001] Ixyxl tells you, 'ok'
+[Sat Oct 06 01:20:32 2001] You told Lydrea, 'Her friend Ixyxl was handling it'
+[Sat Oct 06 01:20:43 2001] Lydrea tells you, 'ok.  =c)'
+[Sat Oct 06 01:21:08 2001] Lydrea GMSAYS, 'I gotta go.  you guys take care.....  if there is anything you need find us in chat.  k?'
+[Sat Oct 06 01:21:08 2001] You GMSAY, 'I'm gonna give it to you, mentions you by name'
+[Sat Oct 06 01:21:15 2001] You GMSAY, 'esc Dianwei to Swiftmoor'
+[Sat Oct 06 01:21:19 2001] You GMSAY, 'later Lydrea!'
+[Sat Oct 06 01:21:21 2001] STATUS UPGRADED TO URGENT
+[Sat Oct 06 01:21:21 2001] CHECKING IN
+[Sat Oct 06 01:21:22 2001] Lanalis GMSAYS, 'Bye Lydrea'
+[Sat Oct 06 01:21:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Oct 06 01:21:23 2001] USER TEXT: I can hear sounds from other items in the game but don't hear sounds that I create ie my footsteps
+[Sat Oct 06 01:21:24 2001] Players in EverQuest:
+[Sat Oct 06 01:21:24 2001] ---------------------------
+[Sat Oct 06 01:21:24 2001] [49 Ranger] Bannas (Half Elf) <Tolkien's Revenge> ZONE: skyfire (USER PID AT2P7EY)
+[Sat Oct 06 01:21:24 2001] There is 1 player in EverQuest.
+[Sat Oct 06 01:21:28 2001] Lydrea GMSAYS, 'bye bye'
+[Sat Oct 06 01:21:30 2001] Swiftmoor GMSAYS, 'ok'
+[Sat Oct 06 01:21:35 2001] Swiftmoor GMSAYS, 'thanks Lydrea'
+[Sat Oct 06 01:21:42 2001] Ixyxl tells you, 'hmm still noting died spot'
+[Sat Oct 06 01:22:03 2001] You told Bannas, 'Hail, Bannas! Guide Espranza here. Have you checked your sound settings and adjusted them?'
+[Sat Oct 06 01:22:13 2001] You told Ixyxl, 'there were a few other corpses right around there.'
+[Sat Oct 06 01:22:14 2001] Bannas tells you, 'yeah have everyone elses sound'
+[Sat Oct 06 01:22:35 2001] Bannas tells you, 'had to redo my system today'
+[Sat Oct 06 01:22:37 2001] You told Ixyxl, 'if you can see a pile of other corpses, try camping out and coming back in again, you may be able to see it then.'
+[Sat Oct 06 01:22:52 2001] Ixyxl tells you, 'k'
+[Sat Oct 06 01:22:58 2001] You told Bannas, 'can you hear other people's footsteps?'
+[Sat Oct 06 01:23:06 2001] Bannas tells you, 'just can't hear me- yeah hear everyone else'
+[Sat Oct 06 01:23:20 2001] You told Bannas, 'hmmm... have you rebooted?'
+[Sat Oct 06 01:23:26 2001] Bannas tells you, 'yeah several times'
+[Sat Oct 06 01:23:38 2001] Swiftmoor GMSAYS, 'you have a group yet Lanalis?'
+[Sat Oct 06 01:23:47 2001] Lanalis GMSAYS, 'No, not yet'
+[Sat Oct 06 01:23:53 2001] You told Bannas, 'Well, try adjusting the sound settings, if that doesn't help, you'll probably have to call or write technical support.'
+[Sat Oct 06 01:24:01 2001] DELETING THIS PETITION
+[Sat Oct 06 01:24:02 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Oct 06 01:24:03 2001] USER TEXT: Just attempted to make an imbued northman veil.  First attempt yielded the forge complaining "This forge did not accept that combination of items, try another forge" - rearranging the items in the forge and combine failed (as always) / lost all.
+[Sat Oct 06 01:24:03 2001] Players in EverQuest:
+[Sat Oct 06 01:24:03 2001] ---------------------------
+[Sat Oct 06 01:24:03 2001] [ANON (36 Shaman)] Kanlaorf (Barbarian) ZONE: halas (USER PID AU88AGN)
+[Sat Oct 06 01:24:03 2001] There is 1 player in EverQuest.
+[Sat Oct 06 01:24:04 2001] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Sat Oct 06 01:24:11 2001] Bannas tells you, 'ah ok forgot who to ask'
+[Sat Oct 06 01:24:22 2001] Bannas tells you, 'thanks'
+[Sat Oct 06 01:24:26 2001] You told Bannas, 'okay, be well!'
+[Sat Oct 06 01:24:32 2001] Bannas tells you, 'you too'
+[Sat Oct 06 01:25:22 2001] Lanalis GMSAYS, 'deleting Seanalex'
+[Sat Oct 06 01:25:33 2001] Lanalis GMSAYS, 'pulling fenny'
+[Sat Oct 06 01:25:54 2001] Ixyxl tells you, 'relog but cannot see'
+[Sat Oct 06 01:26:17 2001] You told Kanlaorf, 'Hail, Kanlaorf! Guide Espranza here. When the forge complains it has the wrong combination of items, it means the items you put in do not correspond to any recipe it knows. When you press combine and you fail, that means you didn't have...'
+[Sat Oct 06 01:26:35 2001] You told Kanlaorf, 'sufficient skill to make the item. These were two separate things.'
+[Sat Oct 06 01:26:35 2001] Swiftmoor GMSAYS, 'espranza, can you throw a /guildinvite my way before you take off?'
+[Sat Oct 06 01:26:45 2001] Kanlaorf tells you, 'Yes, but the correct components WERE in the forge.'
+[Sat Oct 06 01:26:46 2001] You GMSAY, 'love to if I were an officer... but I'm not'
+[Sat Oct 06 01:27:13 2001] Swiftmoor GMSAYS, 'dang.  Stupid guild bug today removed me and Lirus'
+[Sat Oct 06 01:27:14 2001] Kanlaorf tells you, '(and, I was pointing out, that I have /never/ seen a succesful combine after an error, even if the item is trivial)'
+[Sat Oct 06 01:27:19 2001] Kanlaorf tells you, 'or beyond trivial'
+[Sat Oct 06 01:27:51 2001] You GMSAY, 'sheesh... well, you'll need a senior to help ya there.'
+[Sat Oct 06 01:27:51 2001] Kanlaorf tells you, 'the forge, for some reason, manages to not "'
+[Sat Oct 06 01:28:03 2001] Swiftmoor GMSAYS, '/shrug. oh well'
+[Sat Oct 06 01:28:07 2001] Kanlaorf tells you, 'manages to "not see" everything - rearranging them it then picks them up"'
+[Sat Oct 06 01:28:21 2001] Swiftmoor GMSAYS, 'I need to see you on more I guess. I thought you were lol'
+[Sat Oct 06 01:28:25 2001] Crayson GMSAYS, 'ok see ya later )'
+[Sat Oct 06 01:28:36 2001] Swiftmoor GMSAYS, 'Later Crayson, thanks for coming'
+[Sat Oct 06 01:28:40 2001] Kanlaorf tells you, 'it's a rather odd bug (perhaps a communication error between the server and the interface?)'
+[Sat Oct 06 01:28:45 2001] You told Kanlaorf, 'that is odd, I've never heard of that. I'll make a bug report on it - what items did you put into the forge?'
+[Sat Oct 06 01:28:51 2001] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Sat Oct 06 01:28:51 2001] Players in EverQuest:
+[Sat Oct 06 01:28:51 2001] ---------------------------
+[Sat Oct 06 01:28:51 2001] * Guide *[51 Disciple] Swiftmoor (Iksar) ZONE: tox (USER PID EUUWZVJ)
+[Sat Oct 06 01:28:51 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Oct 06 01:28:51 2001] * Apprentice Guide *[20 Druid] Lanalis (Wood Elf) ZONE: tox (USER PID BWNYRVF)
+[Sat Oct 06 01:28:51 2001] There are 3 players in EverQuest.
+[Sat Oct 06 01:29:38 2001] Kanlaorf tells you, 'smithy hammer, frost temper, large chainmail veil pattern, large leather mask, imbued ivory, one medium quality ring'
+[Sat Oct 06 01:29:48 2001] Espranza saved.
+[Sat Oct 06 01:29:51 2001] Kanlaorf tells you, '(six items total)'
+[Sat Oct 06 01:30:04 2001] Kanlaorf tells you, 'I got back the hammer'
+[Sat Oct 06 01:30:46 2001] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Sat Oct 06 01:31:15 2001] You GMSAY, '<note bug> Kanlaorf AU88AGN put the following items into the northman forge: smithy hammer, frost temper, large chainmail veil pattern, large leather mask, imbued ivory. one med. qual. ring - forge said does not combine, next time it combined, failed.'
+[Sat Oct 06 01:31:45 2001] You told Kanlaorf, 'Okay, I submitted a bug report on it. If you seek reimbursement, you will need to petition tomorrow when Lirus is online - 3pm to 11pm Pacific time.'
+[Sat Oct 06 01:31:52 2001] DELETING THIS PETITION
+[Sat Oct 06 01:31:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Oct 06 01:31:54 2001] USER TEXT: Yo need a rez sense your all of a sudden lock out just killed me in ToFS
+[Sat Oct 06 01:31:54 2001] Players in EverQuest:
+[Sat Oct 06 01:31:54 2001] ---------------------------
+[Sat Oct 06 01:31:54 2001] [ANON (50 Cleric)] Thorre (Dwarf) ZONE: frozenshadow (USER PID EQBRNQP)
+[Sat Oct 06 01:31:54 2001] There is 1 player in EverQuest.
+[Sat Oct 06 01:32:09 2001] Searching zones for corpse of that name....
+[Sat Oct 06 01:32:12 2001] Searching zones for corpse of that name....
+[Sat Oct 06 01:32:12 2001] Corpse: Thorre's corpse0 in zone: frozenshadow
+[Sat Oct 06 01:32:16 2001] Kanlaorf tells you, 'ick.  Ok - thanks - will try to do that...'
+[Sat Oct 06 01:32:23 2001] You told Kanlaorf, 'okay - good luck and be well!'
+[Sat Oct 06 01:32:25 2001] You GMSAY, 'zone'
+[Sat Oct 06 01:32:29 2001] LOADING, PLEASE WAIT...
+[Sat Oct 06 01:33:04 2001] You have entered Tower of Frozen Shadow.
+[Sat Oct 06 01:33:20 2001] Teleporting to thorre's corpse0.
+[Sat Oct 06 01:33:38 2001] Kanlaorf tells you, 'Oh well...'
+[Sat Oct 06 01:33:44 2001] Kanlaorf tells you, 'WT - sorry'
+[Sat Oct 06 01:33:49 2001] Lanalis GMSAYS, 'Espranza Do you know about the 7th coldain ring quest?'
+[Sat Oct 06 01:34:09 2001] You GMSAY, 'very little'
+[Sat Oct 06 01:34:15 2001] Summoning Thorre's corpse0.
+[Sat Oct 06 01:34:30 2001] You told Thorre, 'Hail, Thorre! Guide Espranza here. Ready for a rez?'
+[Sat Oct 06 01:34:55 2001] Lanalis GMSAYS, 'Pet says he gave a ring to one guy who was supposed to go to another to complete the quest. The second guy never spawned and he lost the ring...'
+[Sat Oct 06 01:35:36 2001] Thorre tells you, 'Yes hit it mate'
+[Sat Oct 06 01:35:36 2001] a shadow begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Oct 06 01:35:36 2001] Lanalis GMSAYS, 'Sound familiar at all?'
+[Sat Oct 06 01:35:51 2001] You GMSAY, 'we can't investigate quests - we don't have the tools. Have them send a message to eqtesting@station.sony.com and repetition when Lirus is online'
+[Sat Oct 06 01:36:07 2001] DELETING THIS PETITION
+[Sat Oct 06 01:36:07 2001] Lanalis GMSAYS, 'thanks'
+[Sat Oct 06 01:36:12 2001] Thorre says, 'Woot thanks mate'
+[Sat Oct 06 01:36:20 2001] You say, 'couldn't think of a safer place on this floor to rez'
+[Sat Oct 06 01:36:25 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Oct 06 01:36:26 2001] USER TEXT: when I looted my corpse after i died my shoulder item no longer had +int and is just ac1....!? I l have lost 6int... this does not make any sense..? I had 178int before I died now I only have 172, please help me
+[Sat Oct 06 01:36:26 2001] Players in EverQuest:
+[Sat Oct 06 01:36:26 2001] ---------------------------
+[Sat Oct 06 01:36:26 2001] [13 Magician] Syano (Erudite) ZONE: oasis (USER PID D2XUDFQ)
+[Sat Oct 06 01:36:26 2001] There is 1 player in EverQuest.
+[Sat Oct 06 01:36:29 2001] a shadow begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Oct 06 01:36:42 2001] Thorre says, 'Works for me i have gate'
+[Sat Oct 06 01:36:48 2001] You say, 'heh...'
+[Sat Oct 06 01:36:54 2001] Killing an_ancient_mummy06.
+[Sat Oct 06 01:37:05 2001] You say, 'loot quick please'
+[Sat Oct 06 01:37:14 2001] a shadow begins to cast a spell. (O'Keils Radiation)
+[Sat Oct 06 01:37:15 2001] Thorre says, 'Ok thanks for the ride'
+[Sat Oct 06 01:37:18 2001] a shadow begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Oct 06 01:37:18 2001] Thorre bows before Espranza.
+[Sat Oct 06 01:37:20 2001] Thorre begins to cast a spell. (Gate)
+[Sat Oct 06 01:37:25 2001] Thorre fades away.
+[Sat Oct 06 01:37:40 2001] You GMSAY, '<note> Killed an ancient mummy - had rezzed someone because of server outage and they were attacked.'
+[Sat Oct 06 01:37:52 2001] USER TEXT: when I looted my corpse after i died my shoulder item no longer had +int and is just ac1....!? I l have lost 6int... this does not make any sense..? I had 178int before I died now I only have 172, please help me
+[Sat Oct 06 01:37:59 2001] a shadow begins to cast a spell. (O'Keils Radiation)
+[Sat Oct 06 01:38:03 2001] a shadow begins to cast a spell. (O'Keils Radiation)
+[Sat Oct 06 01:38:07 2001] a shadow begins to cast a spell. (O'Keils Radiation)
+[Sat Oct 06 01:38:18 2001] You told Syano, 'Hail, Syano! Guide Espranza here. What shoulder item was this?'
+[Sat Oct 06 01:38:26 2001] You opened the locked door with your magic GM key.
+[Sat Oct 06 01:39:05 2001] Syano tells you, 'I cannot for the life of me remember what it was called but it gave me +20 or +30 to mana :-( and now it is only ac1? :-( how can that happen'
+[Sat Oct 06 01:39:41 2001] Swiftmoor GMSAYS, 'I'll never understand this, only 19 people in DL here'
+[Sat Oct 06 01:39:53 2001] You told Syano, 'without knowing what it was, I can't speculate...'
+[Sat Oct 06 01:40:07 2001] You GMSAY, '19 people too many. that zone will make you senseless and numb.'
+[Sat Oct 06 01:40:21 2001] Syano tells you, 'i have had it for ages - logged off and gone LD and i have never lost it before'
+[Sat Oct 06 01:40:29 2001] Swiftmoor GMSAYS, 'lol, sent 2 characters through here'
+[Sat Oct 06 01:40:29 2001] You opened the locked door with your magic GM key.
+[Sat Oct 06 01:40:37 2001] Swiftmoor GMSAYS, 'where would you suggest?'
+[Sat Oct 06 01:40:42 2001] You GMSAY, 'for the 40s?'
+[Sat Oct 06 01:40:48 2001] Syano tells you, 'i only have 172 int before i had 178 :-('
+[Sat Oct 06 01:40:59 2001] You GMSAY, 'dungeons.'
+[Sat Oct 06 01:41:06 2001] Swiftmoor GMSAYS, 'for a ranger?'
+[Sat Oct 06 01:41:09 2001] You GMSAY, 'Kaesora through 43, then Sol B.'
+[Sat Oct 06 01:41:21 2001] Syano tells you, 'I can understand if you cannot give me int - but would much appreciate it if you could explain what may have happened??'
+[Sat Oct 06 01:42:00 2001] You told Syano, 'I don't know, I have never heard of such a thing. You should repetition tomorrow when GM Lirus is on, perhaps he will be able to discover what happened. His hours are 3pm to 11pm Pacific time.'
+[Sat Oct 06 01:42:33 2001] Lanalis GMSAYS, 'Deleting Fenny will rePet when Lirus wakes'
+[Sat Oct 06 01:42:45 2001] Lanalis GMSAYS, 'Pulling Artak'
+[Sat Oct 06 01:42:45 2001] You GMSAY, 'What did Fenny want?'
+[Sat Oct 06 01:42:48 2001] Syano tells you, 'thank you kindly :-) Cannot believe this has happened is very strange, NM life goes on - thanks again friend :-)'
+[Sat Oct 06 01:43:08 2001] Espranza saved.
+[Sat Oct 06 01:43:08 2001] You told Syano, 'I'd be interested in knowing what happened as well. Be well!'
+[Sat Oct 06 01:43:11 2001] DELETING THIS PETITION
+[Sat Oct 06 01:43:12 2001] Lanalis GMSAYS, 'In a nutshell said he lost the 7th coldain ring because of a respawn bug'
+[Sat Oct 06 01:43:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Oct 06 01:43:13 2001] USER TEXT: where is my corpse??? im necro. but i cant locate corpse. why?
+[Sat Oct 06 01:43:13 2001] Players in EverQuest:
+[Sat Oct 06 01:43:13 2001] ---------------------------
+[Sat Oct 06 01:43:13 2001] [35 Druid] Oyaji (Halfling) <Sixteenth Notes> ZONE: rivervale (USER PID HPXHKDZ)
+[Sat Oct 06 01:43:13 2001] There is 1 player in EverQuest.
+[Sat Oct 06 01:43:17 2001] You GMSAY, 'ah'
+[Sat Oct 06 01:43:24 2001] Syano tells you, 'you too :-) byebye'
+[Sat Oct 06 01:43:40 2001] You GMSAY, 'she's a she.. I only know her because she is one of the few 50+ halfling warrior gals on this server, as I am on mine'
+[Sat Oct 06 01:44:23 2001] You opened the locked door with your magic GM key.
+[Sat Oct 06 01:44:48 2001] Priest Majes Medory begins to cast a spell. (Bravery)
+[Sat Oct 06 01:44:56 2001] Priest Majes Medory begins to cast a spell. (Bravery)
+[Sat Oct 06 01:44:58 2001] Searching zones for corpse of that name....
+[Sat Oct 06 01:44:59 2001] Corpse: Obachan's corpse0 in zone: iceclad
+[Sat Oct 06 01:45:28 2001] Lanalis GMSAYS, 'Ah, yes that is uncommon. I do not recall seeing one on my home server.'
+[Sat Oct 06 01:45:49 2001] Priest Majes Medory begins to cast a spell. (Bravery)
+[Sat Oct 06 01:45:53 2001] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Sat Oct 06 01:45:58 2001] Priest Majes Medory begins to cast a spell. (Bravery)
+[Sat Oct 06 01:46:04 2001] You GMSAY, 'zone'
+[Sat Oct 06 01:46:14 2001] LOADING, PLEASE WAIT...
+[Sat Oct 06 01:46:51 2001] You have entered Iceclad Ocean.
+[Sat Oct 06 01:47:01 2001] Teleporting to obachan's corpse0.
+[Sat Oct 06 01:47:14 2001] USER TEXT: where is my corpse??? im necro. but i cant locate corpse. why?
+[Sat Oct 06 01:47:17 2001] Onabe says, 'Hail, Espranza'
+[Sat Oct 06 01:47:24 2001] You say, 'Hello...'
+[Sat Oct 06 01:47:31 2001] Onabe says, 'she is relog'
+[Sat Oct 06 01:47:42 2001] Players on EverQuest:
+[Sat Oct 06 01:47:42 2001] ---------------------------
+[Sat Oct 06 01:47:42 2001] There are no players in Iceclad Ocean that match those who filters.
+[Sat Oct 06 01:47:45 2001] Players in EverQuest:
+[Sat Oct 06 01:47:45 2001] ---------------------------
+[Sat Oct 06 01:47:45 2001] [ANON (53 Vicar)] Onabe (Dwarf) ZONE: iceclad (USER PID AW8807V)
+[Sat Oct 06 01:47:45 2001] There is 1 player in EverQuest.
+[Sat Oct 06 01:47:45 2001] Obachan says, 'Hail, Espranza'
+[Sat Oct 06 01:47:56 2001] You say, 'I see you have found your corpse?'
+[Sat Oct 06 01:48:12 2001] Obachan is a member of Sixteenth Notes.
+[Sat Oct 06 01:48:16 2001] Obachan says, 'yes. i can see corpse > relog'
+[Sat Oct 06 01:48:19 2001] Obachan says, 'sorry'
+[Sat Oct 06 01:48:20 2001] Onabe is a member of Sixteenth Notes.
+[Sat Oct 06 01:48:24 2001] Obachan bows before Espranza.
+[Sat Oct 06 01:48:27 2001] You say, 'tis okay, be well!'
+[Sat Oct 06 01:48:29 2001] Lanalis GMSAYS, 'deleting Artak, noted thanks for report'
+[Sat Oct 06 01:48:30 2001] DELETING THIS PETITION
+[Sat Oct 06 01:48:32 2001] Obachan waves goodbye to Espranza.
+[Sat Oct 06 01:48:36 2001] You no longer have a target.
+[Sat Oct 06 01:48:36 2001] You wave goodbye to everyone.
+[Sat Oct 06 01:48:38 2001] You GMSAY, 'zone'
+[Sat Oct 06 01:48:40 2001] Onabe begins to cast a spell. (Resurrection)
+[Sat Oct 06 01:48:41 2001] You begin casting Sunset Home. (Sunset Home)
+[Sat Oct 06 01:48:41 2001] Your Belt of Translocation begins to glow.
+[Sat Oct 06 01:48:42 2001] LOADING, PLEASE WAIT...
+[Sat Oct 06 01:49:02 2001] You have entered Sunset Home.
+[Sat Oct 06 01:49:10 2001] Lanalis GMSAYS, 'When I came on there were 15'
+[Sat Oct 06 01:49:11 2001] Players in EverQuest:
+[Sat Oct 06 01:49:11 2001] ---------------------------
+[Sat Oct 06 01:49:11 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Oct 06 01:49:11 2001] * Guide *[51 Disciple] Swiftmoor (Iksar) ZONE: sebilis (USER PID EUUWZVJ)
+[Sat Oct 06 01:49:11 2001] * Apprentice Guide *[20 Druid] Lanalis (Wood Elf) ZONE: tox (USER PID BWNYRVF)
+[Sat Oct 06 01:49:11 2001] There are 3 players in EverQuest.
+[Sat Oct 06 01:49:37 2001] Swiftmoor GMSAYS, 'I saw upwards of 45 at one point I think'
+[Sat Oct 06 01:49:39 2001] You GMSAY, 'Lanalis, have you been working this past week but not posting your DSR?'
+[Sat Oct 06 01:49:51 2001] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Sat Oct 06 01:50:04 2001] Lanalis GMSAYS, 'No, have had bad luck catching guides awake.'
+[Sat Oct 06 01:50:28 2001] Lanalis GMSAYS, 'This is the earliest I have been on in awhile'
+[Sat Oct 06 01:50:32 2001] You GMSAY, 'ah, okay... have you talked with the seniors about this?'
+[Sat Oct 06 01:50:51 2001] Lanalis GMSAYS, '*nods* Mersi I believe'
+[Sat Oct 06 01:51:23 2001] You GMSAY, 'k... I'm usually awake at ridiculous hours my time, but I only log in if I see the queue needs help'
+[Sat Oct 06 01:51:51 2001] Leodinus tells you, '/dance'
+[Sat Oct 06 01:52:00 2001] You GMSAY, 'but if you would like to guide and no guides are scheduled when you can work, give me an ICQ message and maybe I can be on'
+[Sat Oct 06 01:52:02 2001] Lanalis GMSAYS, 'Ah, I usually try around 2 or 3 am PST'
+[Sat Oct 06 01:52:10 2001] You told Leodinus, 'hi leo'
+[Sat Oct 06 01:52:15 2001] Leodinus tells you, 'finally logged him in'
+[Sat Oct 06 01:52:21 2001] Leodinus tells you, '*tears up*..I'm so happy'
+[Sat Oct 06 01:52:23 2001] You told Leodinus, 'yay!'
+[Sat Oct 06 01:52:32 2001] Leodinus tells you, 'going to have to talk to tech. so I can log into GD'
+[Sat Oct 06 01:52:42 2001] Lanalis GMSAYS, 'Ok, but I am not that familiar with ICQ or IRC. Got them just for the guide program'
+[Sat Oct 06 01:52:42 2001] You GMSAY, 'when you answer Cheeop, call him Pyramid Man'
+[Sat Oct 06 01:52:47 2001] You feel the spirit of Norrath enter you.
+[Sat Oct 06 01:52:49 2001] Lanalis GMSAYS, 'pulling Cheeop'
+[Sat Oct 06 01:53:09 2001] You told Leodinus, 'I have problems logging into GD, too'
+[Sat Oct 06 01:53:14 2001] Leodinus tells you, 'bloody zone :('
+[Sat Oct 06 01:53:17 2001] You told Leodinus, 'I usually have to reboot, then log in'
+[Sat Oct 06 01:53:23 2001] Cheeop tells you, 'how come some gms and guides are in KoD and some aren't?'
+[Sat Oct 06 01:53:30 2001] Swiftmoor shrinks.
+[Sat Oct 06 01:53:34 2001] Swiftmoor cheers at Espranza.
+[Sat Oct 06 01:53:40 2001] You told Cheeop, 'some of us are more uber than others'
+[Sat Oct 06 01:53:46 2001] Lanalis GMSAYS, 'Hehe, ok'
+[Sat Oct 06 01:53:51 2001] Cheeop tells you, 'ones in guild = uber?'
+[Sat Oct 06 01:53:52 2001] Swiftmoor GMSAYS, 'hehe, seems like a good guy'
+[Sat Oct 06 01:54:06 2001] You told Cheeop, 'heh. actually some guild bug removed Swiftmoor.'
+[Sat Oct 06 01:54:14 2001] Cheeop tells you, 'what abolut lanalis'
+[Sat Oct 06 01:54:29 2001] You told Cheeop, 'Apprentices don't get into our exclusive guild!'
+[Sat Oct 06 01:54:29 2001] Players in EverQuest:
+[Sat Oct 06 01:54:29 2001] ---------------------------
+[Sat Oct 06 01:54:29 2001] * Guide *[51 Disciple] Swiftmoor (Iksar) ZONE: cshome (USER PID EUUWZVJ)
+[Sat Oct 06 01:54:29 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Oct 06 01:54:29 2001] * Apprentice Guide *[20 Druid] Lanalis (Wood Elf) ZONE: tox (USER PID BWNYRVF)
+[Sat Oct 06 01:54:29 2001] There are 3 players in EverQuest.
+[Sat Oct 06 01:54:40 2001] Cheeop tells you, 'oh i see, elitist =)'
+[Sat Oct 06 01:54:41 2001] Swiftmoor GMSAYS, 'NOOOO!!! my swimming skill got reset!'
+[Sat Oct 06 01:54:45 2001] You told Cheeop, 'yup'
+[Sat Oct 06 01:54:58 2001] You GMSAY, 'wow, been three months already, Swift? Grats on 51!'
+[Sat Oct 06 01:55:10 2001] Swiftmoor GMSAYS, 'it has. I'm surprised myself'
+[Sat Oct 06 01:55:43 2001] Swiftmoor GMSAYS, 'July, Aug, Sept.'
+[Sat Oct 06 01:56:01 2001] You GMSAY, 'I'm talking to myself in /guildsay but none of you can read it so nyah nyah nyah'
+[Sat Oct 06 01:56:09 2001] Swiftmoor GMSAYS, ':('
+[Sat Oct 06 01:56:21 2001] Swiftmoor GMSAYS, 'stupid server been causing problems all day.'
+[Sat Oct 06 01:56:31 2001] You GMSAY, 'I just said something you would have wanted to hear, too. But now you never will.'
+[Sat Oct 06 01:56:39 2001] Swiftmoor GMSAYS, 'first it's mass amounts of people getting removed from their guild'
+[Sat Oct 06 01:57:08 2001] Swiftmoor GMSAYS, 'then people are going LD and not being removed from the world, so there were a ton of worldkicks needed.'
+[Sat Oct 06 01:57:15 2001] Swiftmoor GMSAYS, 'all while Lirus was on lunch'
+[Sat Oct 06 01:57:28 2001] You feel smaller.
+[Sat Oct 06 01:57:29 2001] You feel smaller.
+[Sat Oct 06 01:57:30 2001] You feel smaller.
+[Sat Oct 06 01:57:31 2001] You feel smaller.
+[Sat Oct 06 01:57:31 2001] You feel smaller.
+[Sat Oct 06 01:57:32 2001] You feel smaller.
+[Sat Oct 06 01:57:35 2001] Players in EverQuest:
+[Sat Oct 06 01:57:35 2001] ---------------------------
+[Sat Oct 06 01:57:35 2001] * Guide *[51 Disciple] Swiftmoor (Iksar) ZONE: cshome (USER PID EUUWZVJ)
+[Sat Oct 06 01:57:35 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sat Oct 06 01:57:35 2001] * Apprentice Guide *[20 Druid] Lanalis (Wood Elf) ZONE: tox (USER PID BWNYRVF)
+[Sat Oct 06 01:57:35 2001] There are 3 players in EverQuest.
+[Sat Oct 06 01:57:40 2001] Teleporting to swiftmoor.
+[Sat Oct 06 01:57:46 2001] Swiftmoor GMSAYS, 'then I on the LAST pet before I was going to log off and go to bed, and the server crashed :('
+[Sat Oct 06 01:57:54 2001] You GMSAY, 'doh'
+[Sat Oct 06 01:58:10 2001] You GMSAY, 'you guys did a wonderful job with the queue'
+[Sat Oct 06 01:58:11 2001] Lanalis GMSAYS, 'escalating for corpse in wall in SolB'
+[Sat Oct 06 01:58:18 2001] Swiftmoor GMSAYS, 'on it'
+[Sat Oct 06 01:58:25 2001] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Sat Oct 06 01:59:00 2001] Cheeop tells you, 'was the guild bug in CS?'
+[Sat Oct 06 01:59:08 2001] Espranza saved.
+[Sat Oct 06 01:59:43 2001] You told Cheeop, 'dunno, a lot of people were dropped from their guilds (and we weren't immune; even Lirus got hit). But I wasn't on until I saw from outside the game that the queue was in trouble.'
+[Sat Oct 06 01:59:49 2001] Lanalis GMSAYS, 'Thanks, I only handled a few though.  Pulling tagard'
+[Sat Oct 06 02:00:09 2001] Cheeop tells you, 'our drusella raid was cut short by server crashing tonight =\'
+[Sat Oct 06 02:00:24 2001] You told Cheeop, 'yech'
+[Sat Oct 06 02:00:42 2001] You told Cheeop, 'sorry :( at least it's an easy raid, you can go back easy enough'
+[Sat Oct 06 02:00:56 2001] Cheeop tells you, 'so when lirus is dropped, ya hafta do what, pull vervain on or something?'
+[Sat Oct 06 02:01:16 2001] You told Cheeop, 'I don't think he was the guild leader, one of the seniors is.'
+[Sat Oct 06 02:01:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sat Oct 06 02:01:43 2001] USER TEXT: I was attempting to help friend recover corpse was diconnected and wound up dead here at bind point lost lvl too this is not right and my corpse is nowere to be found
+[Sat Oct 06 02:01:43 2001] Players in EverQuest:
+[Sat Oct 06 02:01:43 2001] ---------------------------
+[Sat Oct 06 02:01:43 2001] [24 Druid] Bolla (Wood Elf) <Guardians of Truth> ZONE: stonebrunt (USER PID GU6K26E)
+[Sat Oct 06 02:01:43 2001] There is 1 player in EverQuest.
+[Sat Oct 06 02:01:52 2001] Searching zones for corpse of that name....
+[Sat Oct 06 02:01:52 2001] Corpse: Bolla's corpse0 in zone: stonebrunt
+[Sat Oct 06 02:01:58 2001] UNDOING CHECK OUT
+[Sat Oct 06 02:02:08 2001] You GMSAY, 'zone'
+[Sat Oct 06 02:02:11 2001] LOADING, PLEASE WAIT...
+[Sat Oct 06 02:02:50 2001] You have entered Stonebrunt Mountains.
+[Sat Oct 06 02:02:59 2001] Teleporting to bolla's corpse0.
+[Sat Oct 06 02:04:03 2001] Lanalis GMSAYS, 'Deleting Tagard'
+[Sat Oct 06 02:04:51 2001] You GMSAY, 'Bolla's corpse is visible and retrievable.'
+[Sat Oct 06 02:05:07 2001] Lanalis GMSAYS, 'Ok, pulling it now'
+[Sat Oct 06 02:05:40 2001] Swiftmoor GMSAYS, 'Zoning *prays the port is open so he can zone safely*'
+[Sat Oct 06 02:06:10 2001] Swiftmoor GMSAYS, 'are you going to be on for a bit esp?'
+[Sat Oct 06 02:06:54 2001] You GMSAY, 'no, I'm going to sleep'
+[Sat Oct 06 02:06:56 2001] Swiftmoor GMSAYS, 'cause I'm heading out and going to bed.  So much for a quick shift to see what's going on'
+[Sat Oct 06 02:07:11 2001] You GMSAY, 'I can stay a little longer'
+[Sat Oct 06 02:07:12 2001] Swiftmoor GMSAYS, 'ok, clearing these last few real quick then'
+[Sat Oct 06 02:08:37 2001] Swiftmoor GMSAYS, 'ahh, a young halfling warrior making his way up'
+[Sat Oct 06 02:09:08 2001] Wealaasea bows before Espranza.
+[Sat Oct 06 02:09:13 2001] Wealaasea says, 'Is this panda yours?'
+[Sat Oct 06 02:09:28 2001] You say, 'none of them are'
+[Sat Oct 06 02:09:32 2001] You say, 'please feel free'
+[Sat Oct 06 02:10:11 2001] Swiftmoor GMSAYS, 'going anon/invis and zoning'
+[Sat Oct 06 02:10:44 2001] Heisenberg says out of character, 'has anyone noticed a ld issue?'
+[Sat Oct 06 02:11:06 2001] Lanalis GMSAYS, 'Swift can you stay awake long enough for me to finish this Pet? Still waiting for a reply'
+[Sat Oct 06 02:11:22 2001] Artak says out of character, 'yea'
+[Sat Oct 06 02:11:41 2001] Swiftmoor GMSAYS, 'Yeah, and even if you're not done, Esp will be here for a few minutes I think'
+[Sat Oct 06 02:11:50 2001] Heisenberg says out of character, 'hehe i guess all the others are "ld" right now'
+[Sat Oct 06 02:11:50 2001] Lanalis GMSAYS, 'Ok thanks'
+[Sat Oct 06 02:12:13 2001] Swiftmoor GMSAYS, 'so much for this anon/invis trip'
+[Sat Oct 06 02:12:54 2001] Espranza saved.
+[Sat Oct 06 02:12:59 2001] Swiftmoor GMSAYS, 'ok, that's it for me.  DSR when I wake up in about 14 hours!'
+[Sat Oct 06 02:13:15 2001] Swiftmoor GMSAYS, 'Goodnight you ladies.'
+[Sat Oct 06 02:13:24 2001] Lanalis GMSAYS, 'Good night swift'
+[Sat Oct 06 02:18:09 2001] Lanalis GMSAYS, 'Ok I think Bolla understands. Deleting.'
+[Sat Oct 06 02:18:42 2001] Lanalis GMSAYS, 'how long are you going to be up Espranza?'
+[Sat Oct 06 02:21:42 2001] Lanalis GMSAYS, 'How long you going to be awake Espran?'
+[Sat Oct 06 02:23:04 2001] Espranza saved.
+[Sat Oct 06 02:24:01 2001] Lanalis GMSAYS, '*grins*  Espranza?'
+[Sat Oct 06 02:24:02 2001] You GMSAY, 'falling asleep now...'
+[Sat Oct 06 02:24:05 2001] Lanalis GMSAYS, 'Hehe'
+[Sat Oct 06 02:24:15 2001] Lanalis GMSAYS, 'Ok, thank you. Good night'
+[Sat Oct 06 02:24:17 2001] You GMSAY, 'I'll come get you'
+[Sat Oct 06 02:24:18 2001] Players in EverQuest:
+[Sat Oct 06 02:24:18 2001] ---------------------------
+[Sat Oct 06 02:24:18 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: stonebrunt (USER PID AUGBQH4)
+[Sat Oct 06 02:24:18 2001] * Apprentice Guide *[ANON (20 Druid)] Lanalis (Wood Elf) ZONE: tox (USER PID BWNYRVF)
+[Sat Oct 06 02:24:18 2001] There are 2 players in EverQuest.
+[Sat Oct 06 02:24:25 2001] You GMSAY, 'we can finish these petitions'
+[Sat Oct 06 02:24:27 2001] You GMSAY, 'zone'
+[Sat Oct 06 02:24:29 2001] Teleporting to lanalis.
+[Sat Oct 06 02:24:30 2001] LOADING, PLEASE WAIT...
+[Sat Oct 06 02:24:56 2001] You have entered Toxxulia Forest.
+[Sat Oct 06 02:25:06 2001] You invite Lanalis to join your group.
+[Sat Oct 06 02:25:09 2001] Lanalis beams a smile at Espranza.
+[Sat Oct 06 02:25:10 2001] You have formed the group.
+[Sat Oct 06 02:25:18 2001] You tell your party, 'Hi! Nice to finally meet you!'
+[Sat Oct 06 02:25:19 2001] Lanalis tells the group, 'Ok lets finish'
+[Sat Oct 06 02:25:20 2001] You wave at Lanalis.
+[Sat Oct 06 02:25:25 2001] Lanalis tells the group, 'Good to meet you.'
+[Sat Oct 06 02:25:33 2001] It begins to rain.
+[Sat Oct 06 02:25:33 2001] You tell your party, 'agh! mouse not working'
+[Sat Oct 06 02:25:40 2001] You sigh at Lanalis.
+[Sat Oct 06 02:25:47 2001] Lanalis GMSAYS, 'pulling gzone'
+[Sat Oct 06 02:25:48 2001] You tell your party, 'someone must have sent me an ICQ message'
+[Sat Oct 06 02:26:05 2001] Lanalis tells the group, 'You can juggle that?'
+[Sat Oct 06 02:26:07 2001] Lanalis tells the group, 'Wow'
+[Sat Oct 06 02:26:18 2001] You tell your party, 'no, I just forgot to turn it off'
+[Sat Oct 06 02:26:26 2001] Lanalis tells the group, 'Ah'
+[Sat Oct 06 02:26:27 2001] You tell your party, 'so now my UI is bugged'
+[Sat Oct 06 02:26:45 2001] Lanalis tells the group, 'bah'
+[Sat Oct 06 02:27:37 2001] Salvander GMSAYS, 'morning all :)'
+[Sat Oct 06 02:27:52 2001] Lanalis GMSAYS, 'Hi Salvander'
+[Sat Oct 06 02:27:57 2001] You GMSAY, 'Salvander! Ohaiyou gozaimasu. Ogenki desu ka.'
+[Sat Oct 06 02:28:22 2001] Salvander GMSAYS, '<bows> even though I know no Japanese :)'
+[Sat Oct 06 02:28:25 2001] Lanalis GMSAYS, 'Genki des'
+[Sat Oct 06 02:28:35 2001] Lanalis GMSAYS, 'Hehe'
+[Sat Oct 06 02:28:42 2001] You GMSAY, 'Lanalis, nihongo de hanasemasu ka'
+[Sat Oct 06 02:29:04 2001] Salvander GMSAYS, 'Zoneing swift as the wind'
+[Sat Oct 06 02:29:17 2001] Lanalis GMSAYS, '*chuckles* Have just started and only had 4 classes.'
+[Sat Oct 06 02:29:45 2001] You GMSAY, 'ah, subarashii! gambatte!'
+[Sat Oct 06 02:30:03 2001] Salvander says, 'Hail, Lanalis'
+[Sat Oct 06 02:30:09 2001] Salvander says, 'Hail, Espranza'
+[Sat Oct 06 02:30:10 2001] Lanalis says, 'Hi there'
+[Sat Oct 06 02:30:14 2001] You invite Salvander to join your group.
+[Sat Oct 06 02:30:15 2001] The spirit leaves you.
+[Sat Oct 06 02:30:17 2001] Salvander has joined the group.
+[Sat Oct 06 02:30:24 2001] Lanalis waves at Salvander.
+[Sat Oct 06 02:30:34 2001] You tell your party, 'hullo!'
+[Sat Oct 06 02:30:38 2001] Lanalis chuckles at Salvander.
+[Sat Oct 06 02:30:42 2001] You say, 'my UI is bugged, I can't move my mouse'
+[Sat Oct 06 02:30:52 2001] Salvander tells the group, 'again :) '
+[Sat Oct 06 02:31:04 2001] You tell your party, 'must be ICQ... again'
+[Sat Oct 06 02:31:29 2001] You GMSAY, 'whoever pulled Imaginos, tell him that he is the one you warned him of'
+[Sat Oct 06 02:31:31 2001] Salvander tells the group, 'servers went down last night?'
+[Sat Oct 06 02:31:39 2001] You tell your party, 'they went down last night, aye'
+[Sat Oct 06 02:31:49 2001] Salvander floats above the ground.
+[Sat Oct 06 02:32:30 2001] Salvander GMSAYS, 'what is up with the name requests! boy some peeps'
+[Sat Oct 06 02:32:36 2001] You no longer have a target.
+[Sat Oct 06 02:33:24 2001] You told imaginos, 'Hail, Imaginos! Guide Espranza here. When I saw your petition, the clock struck twelve, and moondrops burst out at me from their hiding place.'
+[Sat Oct 06 02:33:45 2001] Imaginos tells you, 'Hey one sec am loggin on Desdinova brb'
+[Sat Oct 06 02:33:50 2001] Salvander tells the group, 'when did we get Lanalis on boared? :)'
+[Sat Oct 06 02:33:50 2001] You told Imaginos, 'heh'
+[Sat Oct 06 02:33:55 2001] Imaginos tells you, 'Hi btw:)'
+[Sat Oct 06 02:34:05 2001] Imaginos tells you, 'knewyou would answer if you saw name'
+[Sat Oct 06 02:34:10 2001] You told Imaginos, ':)'
+[Sat Oct 06 02:34:33 2001] Lanalis tells the group, 'You know, I do not remember when I started'
+[Sat Oct 06 02:34:41 2001] Salvander tells the group, ':)'
+[Sat Oct 06 02:34:44 2001] You GMSAY, 'Could someone ready Imaginos' petition to me?'
+[Sat Oct 06 02:34:50 2001] You GMSAY, 'read, I mean?'
+[Sat Oct 06 02:34:59 2001] Espranza saved.
+[Sat Oct 06 02:35:10 2001] Lanalis GMSAYS, 'deleting Gzone corpse recovered'
+[Sat Oct 06 02:35:10 2001] Salvander GMSAYS, 'he justs wants to ask how to kill lag, what to turn off and such'
+[Sat Oct 06 02:35:28 2001] Salvander GMSAYS, 'you working it?'
+[Sat Oct 06 02:35:29 2001] You GMSAY, 'ah'
+[Sat Oct 06 02:35:42 2001] You GMSAY, 'I would if I could pull it. I just like talking about BOC with him.'
+[Sat Oct 06 02:36:13 2001] Lanalis GMSAYS, 'pulling Imaginos then'
+[Sat Oct 06 02:36:21 2001] Salvander GMSAYS, 'ur mouse still KPd?'
+[Sat Oct 06 02:36:23 2001] Lanalis tells the group, 'Says..'
+[Sat Oct 06 02:36:29 2001] Lanalis says, 'Hail, Salvander'
+[Sat Oct 06 02:36:31 2001] You GMSAY, 'until I log.'
+[Sat Oct 06 02:36:36 2001] Desdinova tells you, 'OK my question is:) ihave most of the game stuff turned off,  show spell effects serverfilter is there anything else I can turn off to slow lag'
+[Sat Oct 06 02:36:41 2001] Lanalis tells the group, 'Heh'
+[Sat Oct 06 02:36:45 2001] Salvander tells the group, ':)'
+[Sat Oct 06 02:36:55 2001] You told Desdinova, 'sure, set the clip plane down... is it any particular zone?'
+[Sat Oct 06 02:37:14 2001] Lanalis tells the group, '"Have some questions on how to kill lag, by turning off things in the game"'
+[Sat Oct 06 02:37:19 2001] Desdinova tells you, 'no my comp went to hell, and am on one that is about half the power'
+[Sat Oct 06 02:37:28 2001] You tell your party, 'I'm talking with him now, just delete'
+[Sat Oct 06 02:37:49 2001] Lanalis tells the group, 'Ok'
+[Sat Oct 06 02:37:50 2001] Desdinova tells you, 'ok clip plane is down'
+[Sat Oct 06 02:38:05 2001] Lanalis GMSAYS, 'deleting Imag... Handled by Espran'
+[Sat Oct 06 02:38:21 2001] You told Desdinova, 'you can also turn the chat filters off - like others hits and so on'
+[Sat Oct 06 02:38:38 2001] Desdinova tells you, 'OK got that, so I have done all that I can to get lag down then'
+[Sat Oct 06 02:38:47 2001] You GMSAY, 'I really should turn in Imaginos/Desdinova's names as bad...'
+[Sat Oct 06 02:38:55 2001] Desdinova tells you, 'was wondring if there was anything I could do to turn eather effects off'
+[Sat Oct 06 02:38:56 2001] You GMSAY, 'but how could I do that to a fellow BOC fan...'
+[Sat Oct 06 02:39:06 2001] Lanalis tells the group, 'Hehe'
+[Sat Oct 06 02:39:18 2001] You told Desdinova, 'I think you have pretty much pared them to the bone'
+[Sat Oct 06 02:39:34 2001] You told Desdinova, 'setting the clip plane down was my old trick before I upgraded my computer'
+[Sat Oct 06 02:39:38 2001] Lanalis tells the group, 'I am going to hate myself for asking... BOC?'
+[Sat Oct 06 02:39:46 2001] You tell your party, '/boggle'
+[Sat Oct 06 02:39:55 2001] Desdinova tells you, 'LOL ok just wanted to check:) thanks my friend'
+[Sat Oct 06 02:39:57 2001] You tell your party, 'Blue Oyster Cult'
+[Sat Oct 06 02:40:08 2001] You told Desdinova, 'sure thing! be well!'
+[Sat Oct 06 02:40:13 2001] Desdinova tells you, 'you also:)'
+[Sat Oct 06 02:40:18 2001] Lanalis tells the group, '*is still puzzled*'
+[Sat Oct 06 02:40:25 2001] Lanalis tells the group, '*must not get out much*'
+[Sat Oct 06 02:40:28 2001] You tell your party, 'gah'
+[Sat Oct 06 02:40:46 2001] You tell your party, 'Salvander, you know of the greatest heavy metal band of the 70s, don't you?'
+[Sat Oct 06 02:41:02 2001] Lanalis tells the group, 'Motorbreath?'
+[Sat Oct 06 02:41:16 2001] Salvander tells the group, 'aye, only liked a few songs from them though...at 33 youd think I would like them more :)'
+[Sat Oct 06 02:41:43 2001] You tell your party, 'people who don't like BOC haven't heard anything but what's played on the radio'
+[Sat Oct 06 02:41:51 2001] Lanalis tells the group, 'Um There is a purple one also right?'
+[Sat Oct 06 02:42:01 2001] You tell your party, 'The album: Imaginos - is a masterpiece'
+[Sat Oct 06 02:42:25 2001] Salvander GMSAYS, 'yellow is mine'
+[Sat Oct 06 02:42:36 2001] Lanalis tells the group, '*blushes*'
+[Sat Oct 06 02:42:41 2001] Lanalis GMSAYS, 'pulling Mally'
+[Sat Oct 06 02:43:46 2001] You feel the spirit of Norrath enter you.
+[Sat Oct 06 02:44:15 2001] Salvander tells the group, 'thoses gnomemishes and brew...make sure you give to players, dontt drink or eat them Lanalis :)'
+[Sat Oct 06 02:44:18 2001] Salvander floats above the ground.
+[Sat Oct 06 02:44:20 2001] Salvander is surrounded by a brief aura.
+[Sat Oct 06 02:44:38 2001] Lanalis nods at Salvander.
+[Sat Oct 06 02:44:46 2001] Lanalis beams a smile at Salvander.
+[Sat Oct 06 02:44:54 2001] Salvander GMSAYS, 'Zoneing swift as the wind'
+[Sat Oct 06 02:44:58 2001] You tell your party, 'heh... I gave Abbadabba a stack each of gnome sandwiches and valtron's finest and had him pass them out in the EC tunnel last night'
+[Sat Oct 06 02:44:58 2001] Salvander shrinks.
+[Sat Oct 06 02:45:08 2001] Espranza saved.
+[Sat Oct 06 02:45:39 2001] Salvander tells the guild, 'hehe wonder what Id look like as a iskar ranger? :)'
+[Sat Oct 06 02:46:03 2001] You say to your guild, 'dunno... did you get a guide award to allow you to turn into one?'
+[Sat Oct 06 02:46:05 2001] Lanalis tells the group, 'Can one of you got to Mally's corpse in Oasis and see if it is visible and retrievable?'
+[Sat Oct 06 02:46:12 2001] You tell your party, 'sure'
+[Sat Oct 06 02:46:14 2001] You GMSAY, 'zone'
+[Sat Oct 06 02:46:16 2001] Searching zones for corpse of that name....
+[Sat Oct 06 02:46:17 2001] Corpse: Mally's corpse0 in zone: oasis
+[Sat Oct 06 02:46:20 2001] LOADING, PLEASE WAIT...
+[Sat Oct 06 02:46:46 2001] an orc priest has been slain by Zozik!
+[Sat Oct 06 02:46:47 2001] You have entered Oasis of Marr.
+[Sat Oct 06 02:46:47 2001] You have formed the group.
+[Sat Oct 06 02:46:53 2001] Shandriel begins to cast a spell. (Snare)
+[Sat Oct 06 02:46:54 2001] an orc warrior has been slain by Zozik!
+[Sat Oct 06 02:46:56 2001] Teleporting to mally's corpse0.
+[Sat Oct 06 02:47:01 2001] Goldwolf auctions, 'WTB GATORSCALE LEGGINS'
+[Sat Oct 06 02:47:01 2001] a deepwater goblin begins to cast a spell. (O'Keils Flickering Flame)
+[Sat Oct 06 02:47:02 2001] Salvander tells the group, 'so how do like it so far Lanalis'
+[Sat Oct 06 02:47:02 2001] Your feet leave the ground.
+[Sat Oct 06 02:47:06 2001] Goldwolf says out of character, 'LVL 13 druid LFG or partner'
+[Sat Oct 06 02:47:09 2001] Teleporting to Mally's corpse0 (-1016.00, -150.00, -135.68).
+[Sat Oct 06 02:47:16 2001] Lanalis tells the group, 'Not too bad. Wish I had more time.'
+[Sat Oct 06 02:47:19 2001] Tanbill says out of character, 'i hate specs lol'
+[Sat Oct 06 02:47:33 2001] You tell your party, 'his or her corpse is both visible and retrievable. it is also under water.'
+[Sat Oct 06 02:47:37 2001] Lanalis tells the group, '*wonders shouldnt the Pet be Yellow?*'
+[Sat Oct 06 02:47:46 2001] Lanalis tells the group, 'Ok thanks'
+[Sat Oct 06 02:47:48 2001] Gladewarden says out of character, 'doesnt everyone tanbill?'
+[Sat Oct 06 02:47:56 2001] Lanalis GMSAYS, 'pulling for Espran'
+[Sat Oct 06 02:48:07 2001] Ledar says out of character, 'specs dead'
+[Sat Oct 06 02:48:11 2001] Salvander tells the group, 'aye, that is always bad...I have two accounts that I play on, but I think I am going to drop them...havent played my play chrs in about a month'
+[Sat Oct 06 02:48:28 2001] Domabam shouts, '15 monk LFG'
+[Sat Oct 06 02:48:36 2001] You tell your party, 'have been playing Camelot a lot'
+[Sat Oct 06 02:48:42 2001] You tell your party, 'beats LFG'
+[Sat Oct 06 02:49:07 2001] Salvander tells the group, 'camalot any good? I was looking at that'
+[Sat Oct 06 02:49:17 2001] You tell your party, 'it's fun. a lot easier than EQ.'
+[Sat Oct 06 02:49:30 2001] You tell your party, 'making two levels a night is no big achievement.'
+[Sat Oct 06 02:49:38 2001] Salvander tells the group, 'wow'
+[Sat Oct 06 02:49:38 2001] Goldwolf auctions, 'WTS SILK SWATCHES'
+[Sat Oct 06 02:49:43 2001] Rack Stonebelly shouts 'Da Barrel Barge will be here soon soon! 
+[Sat Oct 06 02:49:49 2001] a Dervish Cutthroat begins to cast a spell. (Spirit of Wolf)
+[Sat Oct 06 02:49:49 2001] a Dervish Cutthroat begins to cast a spell. (Spirit of Wolf)
+[Sat Oct 06 02:50:02 2001] You tell your party, 'one level a night is about average if you get a good group.'
+[Sat Oct 06 02:50:16 2001] You tell your party, 'and they have randomly generated tasks for when you just have a few minutes.'
+[Sat Oct 06 02:50:19 2001] Lanalis GMSAYS, 'deleting Mally'
+[Sat Oct 06 02:50:24 2001] Xeross shouts, 'highway orc group lf more more tank!!!'
+[Sat Oct 06 02:50:49 2001] You tell your party, 'it's quite buggy though.'
+[Sat Oct 06 02:51:05 2001] Xeross begins to cast a spell. (Healing)
+[Sat Oct 06 02:51:11 2001] Shandriel begins to cast a spell. (Befriend Animal)
+[Sat Oct 06 02:51:16 2001] Shandriel begins to cast a spell. (Befriend Animal)
+[Sat Oct 06 02:51:19 2001] Agorn begins to cast a spell. (Gate)
+[Sat Oct 06 02:51:21 2001] Shandriel begins to cast a spell. (Befriend Animal)
+[Sat Oct 06 02:51:26 2001] Shandriel begins to cast a spell. (Befriend Animal)
+[Sat Oct 06 02:51:28 2001] Salvander tells the group, 'sounds inspireing'
+[Sat Oct 06 02:51:31 2001] an orc priest begins to cast a spell. (Furor)
+[Sat Oct 06 02:51:36 2001] a puma says 'That is not a legal target master.'
+[Sat Oct 06 02:51:36 2001] an orc warrior says 'Orc stomp, orc kill - orc weapons, your blood will spill. 
+[Sat Oct 06 02:51:36 2001] an orc warrior says 'It's Trolls like you who have ruined your own lands. You'll not ruin mine!'
+[Sat Oct 06 02:51:39 2001] an orc priest begins to cast a spell. (Smite)
+[Sat Oct 06 02:51:42 2001] Lanalis tells the group, 'I thought Camelot was still in Beta. Or are you a tester?'
+[Sat Oct 06 02:51:43 2001] an orc priest begins to cast a spell. (Healing)
+[Sat Oct 06 02:51:48 2001] Fildari begins to cast a spell. (Minor Healing)
+[Sat Oct 06 02:51:53 2001] You tell your party, 'I've been a beta tester since March'
+[Sat Oct 06 02:51:53 2001] Shandriel begins to cast a spell. (Snare)
+[Sat Oct 06 02:52:12 2001] Lanalis tells the group, 'Neat. So you like it?'
+[Sat Oct 06 02:52:20 2001] You tell your party, 'sometimes. sometimes no.'
+[Sat Oct 06 02:52:21 2001] Tanbill says out of character, 'looking for SG partner, 30ish druid or ranger'
+[Sat Oct 06 02:52:26 2001] You tell your party, 'it's just too easy.'
+[Sat Oct 06 02:52:33 2001] Lanalis tells the group, 'Hehe'
+[Sat Oct 06 02:52:40 2001] Lanalis tells the group, 'Hmmm'
+[Sat Oct 06 02:52:45 2001] You tell your party, 'no strategy required or needed.'
+[Sat Oct 06 02:52:52 2001] Lanalis tells the group, 'I have no idea where I am. *laughs*'
+[Sat Oct 06 02:53:07 2001] Lanalis tells the group, 'That do not sound like much fun'
+[Sat Oct 06 02:53:20 2001] You tell your party, 'I grew bored with it and stopped playing for awhile'
+[Sat Oct 06 02:53:28 2001] You tell your party, 'only back now because some friends got into beta'
+[Sat Oct 06 02:53:34 2001] Lanalis tells the group, 'They plan to fix that?'
+[Sat Oct 06 02:53:48 2001] You tell your party, 'I doubt it, it's the big attraction'
+[Sat Oct 06 02:53:54 2001] Lanalis tells the group, 'Ah'
+[Sat Oct 06 02:54:04 2001] Lanalis tells the group, 'Can you tell never been here before?'
+[Sat Oct 06 02:54:10 2001] You tell your party, 'the real game is in realm vs realm warfare'
+[Sat Oct 06 02:54:13 2001] Salvander tells the group, 'you need to turn run on hun...your alfully slow walking :)'
+[Sat Oct 06 02:54:22 2001] You tell your party, 'the PvE stuff is just to get you ready for it'
+[Sat Oct 06 02:54:27 2001] Fuerf auctions, 'WTS lvl 16 necro spell Hungry earth 15pp'
+[Sat Oct 06 02:54:36 2001] Lanalis tells the group, 'Interesting'
+[Sat Oct 06 02:54:46 2001] Lanalis tells the group, 'Does this dock go anywhere?'
+[Sat Oct 06 02:54:53 2001] You tell your party, 'yes'
+[Sat Oct 06 02:54:55 2001] Tanbill auctions, 'WTB Faded Velishoul Pages'
+[Sat Oct 06 02:54:57 2001] Salvander tells the group, 'over to Keran island'
+[Sat Oct 06 02:55:58 2001] Salvander tells the group, 'actually its a ridge on a mt range'
+[Sat Oct 06 02:56:07 2001] Pepero begins to cast a spell. (Engulfing Darkness)
+[Sat Oct 06 02:56:11 2001] Pynkyand auctions, 'wts chiped bone bracer wiz +5 (400PP)  ruined mithril bracer +3 str +5 wiz (500PP) imbued saphire (400PP) /willing to trade for all/'
+[Sat Oct 06 02:56:13 2001] Pepero begins to cast a spell. (Heat Blood)
+[Sat Oct 06 02:56:16 2001] Pepero begins to cast a spell. (Heat Blood)
+[Sat Oct 06 02:56:24 2001] Pepero begins to cast a spell. (Fear)
+[Sat Oct 06 02:56:42 2001] Lanalis tells the group, 'Hehe'
+[Sat Oct 06 02:56:44 2001] Salvander tells the group, 'there is the zone to it so you know'
+[Sat Oct 06 02:56:51 2001] Espranza saved.
+[Sat Oct 06 02:56:53 2001] Tanbill says out of character, 'looking for SG partner, 30ish druid or ranger'
+[Sat Oct 06 02:56:58 2001] Rack Stonebelly shouts 'Da Bloated Belly be leaving da Overdere now! 
+[Sat Oct 06 02:56:58 2001] Pepero begins to cast a spell. (Lifedraw)
+[Sat Oct 06 02:57:02 2001] Pepero begins to cast a spell. (Engulfing Darkness)
+[Sat Oct 06 02:57:04 2001] Lanalis tells the group, 'To Kerra?'
+[Sat Oct 06 02:57:07 2001] Pepero begins to cast a spell. (Heat Blood)
+[Sat Oct 06 02:57:08 2001] You tell your party, 'yeah'
+[Sat Oct 06 02:57:12 2001] Lanalis tells the group, 'Oh'
+[Sat Oct 06 02:57:13 2001] Pepero begins to cast a spell. (Fear)
+[Sat Oct 06 02:57:17 2001] Yizina auctions, 'WTB Chanter Research Spell Color Shift and Tepid Deeds'
+[Sat Oct 06 02:57:20 2001] You tell your party, 'I don't know if you can go there'
+[Sat Oct 06 02:57:30 2001] Salvander tells the group, 'aye its called kR I think, havent been there so long :)'
+[Sat Oct 06 02:57:32 2001] You tell your party, 'I remember Rynara pulled me out of it once when I was an appie'
+[Sat Oct 06 02:57:35 2001] Pepero begins to cast a spell. (Lifedraw)
+[Sat Oct 06 02:57:37 2001] Pepero staggers.
+[Sat Oct 06 02:57:38 2001] Pepero smiles.
+[Sat Oct 06 02:57:38 2001] Pepero says, 'Ahhh, I feel much better now...'
+[Sat Oct 06 02:57:39 2001] Tanbill auctions, 'WTB Enchanter research spell Feedback'
+[Sat Oct 06 02:57:54 2001] Lanalis tells the group, 'Heh, you tell I have never been to Odus?'
+[Sat Oct 06 02:58:04 2001] Xeross shouts, 'orc group lf more tank!!'
+[Sat Oct 06 02:58:12 2001] You tell your party, 'my first character was an erudite, shortly after my play server opened'
+[Sat Oct 06 02:58:13 2001] Salvander tells the group, 'hehe...going to FoB to check for mobs under the world...will pull Lanalis there for instruction once there'
+[Sat Oct 06 02:58:25 2001] You tell your party, 'back then Kerra Ridge was a busy place'
+[Sat Oct 06 02:58:33 2001] Salvander GMSAYS, 'Zoneing swift as the wind'
+[Sat Oct 06 02:58:54 2001] Lanalis GMSAYS, 'zoning when summoned'
+[Sat Oct 06 02:58:58 2001] You feel as if you are about to fall.
+[Sat Oct 06 02:59:04 2001] You feel as if you are about to fall.
+[Sat Oct 06 02:59:07 2001] You can no longer levitate.
+[Sat Oct 06 02:59:40 2001] Jasonal shouts, '16 cleric LFG'
+[Sat Oct 06 02:59:40 2001] Xeross shouts, 'orc group looking for more tank!!!'
+[Sat Oct 06 02:59:46 2001] Domabam shouts, '15 monk LFG'
+[Sat Oct 06 03:00:09 2001] Salvander GMSAYS, 'say the wors Lana'
+[Sat Oct 06 03:00:09 2001] Goldwolf auctions, 'WTS Silk Swtaches '
+[Sat Oct 06 03:00:14 2001] Lanalis tells the group, 'Kerra is the cat people place right?'
+[Sat Oct 06 03:00:20 2001] Lanalis GMSAYS, 'zooning'
+[Sat Oct 06 03:00:21 2001] You tell your party, 'aye'
+[Sat Oct 06 03:00:53 2001] Salvander GMSAYS, 'pulling lanalis to FoB under the world for instructions'
+[Sat Oct 06 03:01:11 2001] Lanalis tells the group, 'Wierd'
+[Sat Oct 06 03:01:13 2001] Salvander tells the group, 'see the skele there?'
+[Sat Oct 06 03:01:17 2001] Goldwolf says out of character, 'If You need to Be Cured From Rabies Or Poison Send me a tell Donations Varmly Accepted =) '
+[Sat Oct 06 03:01:20 2001] Lanalis tells the group, 'Yes'
+[Sat Oct 06 03:01:29 2001] Xeross shouts, 'orc group lf more tank!!!send tells'
+[Sat Oct 06 03:01:52 2001] Salvander tells the group, 'they get traped here and then hit players, and players can only run, so we have to clean them up'
+[Sat Oct 06 03:01:55 2001] Goldwolf auctions, 'WTS Silk Swtaches '
+[Sat Oct 06 03:02:16 2001] You tell your party, 'tell her how to get down there'
+[Sat Oct 06 03:02:17 2001] Lanalis tells the group, 'Killing them'
+[Sat Oct 06 03:02:20 2001] Tanbill says out of character, 'looking for SG partner, 30ish druid or ranger'
+[Sat Oct 06 03:02:30 2001] Lanalis tells the group, 'Lost you'
+[Sat Oct 06 03:02:36 2001] Salvander tells the group, 'hehe I bound here...I just gate ;)'
+[Sat Oct 06 03:02:52 2001] Salvander tells the group, 'just stay still u cant stay up with me :)'
+[Sat Oct 06 03:02:58 2001] Lanalis tells the group, 'Ok'
+[Sat Oct 06 03:03:04 2001] Elysia tells you, 'hi )'
+[Sat Oct 06 03:03:53 2001] You told Elysia, 'hello!'
+[Sat Oct 06 03:04:25 2001] Salvander tells the group, 'to get here, you have to do a find...just start on scorpions as the seem to be most here...so when your a guide you just type /find a_giant_scorpion00 then keep changeing the number till u find one down below'
+[Sat Oct 06 03:05:02 2001] Tanbill says out of character, 'looking for SG partner, 30ish druid or ranger'
+[Sat Oct 06 03:06:00 2001] Lanalis tells the group, 'What do you get when you do /find?'
+[Sat Oct 06 03:06:04 2001] Lanalis tells the group, 'An loc?'
+[Sat Oct 06 03:06:12 2001] Salvander tells the group, 'sorry, that is goto not find...still sleepy :)'
+[Sat Oct 06 03:06:29 2001] Lanalis tells the group, 'Oh ok. *smiles*'
+[Sat Oct 06 03:06:39 2001] Salvander tells the group, 'use /goto then the mob I said'
+[Sat Oct 06 03:07:01 2001] Espranza saved.
+[Sat Oct 06 03:07:03 2001] Salvander tells the group, 'im slow, cut me some slack...happens when were old...ehh espy? :)'
+[Sat Oct 06 03:07:17 2001] Lanalis tells the group, '33 is old?'
+[Sat Oct 06 03:07:28 2001] Salvander tells the group, 'it is in my house :)'
+[Sat Oct 06 03:07:35 2001] Lanalis tells the group, '*laughs*'
+[Sat Oct 06 03:07:41 2001] Mally says out of character, 'any necro could find my corpse?'
+[Sat Oct 06 03:07:43 2001] You tell your party, 'me old?'
+[Sat Oct 06 03:07:45 2001] You tell your party, 'I'm 40'
+[Sat Oct 06 03:08:13 2001] Mally says out of character, 'any necro or bard could help me find my corpse?'
+[Sat Oct 06 03:08:22 2001] You tell your party, 'and I'm still tarp as a shack'
+[Sat Oct 06 03:08:28 2001] Lanalis tells the group, 'No, I think the official number is 50, but that may change when I get closer. *grins*'
+[Sat Oct 06 03:09:12 2001] Tanbill says out of character, 'SG up'
+[Sat Oct 06 03:09:31 2001] Salvander tells the group, 'rdy to get out from down there? :)'
+[Sat Oct 06 03:09:34 2001] Tanbill says out of character, 'looking for SG partner, 30ish druid or ranger'
+[Sat Oct 06 03:09:47 2001] Lanalis tells the group, 'Sure. It just looks really wierd'
+[Sat Oct 06 03:09:52 2001] Mazingaz shouts, 'Lev 18 WAR LFG'
+[Sat Oct 06 03:10:17 2001] Salvander tells the group, 'u can for you knowledge...goto the water and then swim up to top also'
+[Sat Oct 06 03:10:30 2001] Tanbill says out of character, 'anyone wanna help me kill the SG?'
+[Sat Oct 06 03:10:47 2001] Lanalis tells the group, 'How do you know if something is below ground other than the way it looks?'
+[Sat Oct 06 03:11:08 2001] Goldwolf auctions, 'WTS Silk Swtaches '
+[Sat Oct 06 03:11:19 2001] Salvander tells the group, 'like I said...there are zones where it happens alot...just do a /goto command till you hit one'
+[Sat Oct 06 03:11:38 2001] You tell your party, 'soo soo minasan, atashi wa taihen nemui desu nee... oyasumi nasai... jaa mata ne'
+[Sat Oct 06 03:11:47 2001] You must be sitting to prepare to camp.
+[Sat Oct 06 03:11:47 2001] Mazingaz shouts, 'LEV 18 WAR LFG'
+[Sat Oct 06 03:11:48 2001] Lanalis tells the group, 'I take it this zone happens alot.'
+[Sat Oct 06 03:11:53 2001] You say to your guild, 'goodnight all!'
+[Sat Oct 06 03:11:58 2001] You GMSAY, 'night all!'
+[Sat Oct 06 03:12:06 2001] It will take you about 30 seconds to prepare your camp.
+[Sat Oct 06 03:12:10 2001] It will take about 25 more seconds to prepare your camp.
+[Sat Oct 06 03:12:11 2001] Salvander tells the group, 'happend in Velks lab the other week, that a player was getting hit at zone line by mobs...he gave me the name I did a goto and found 15 mobs stuck behind zoneline that I had to kill'
+[Sat Oct 06 03:12:13 2001] Goldwolf auctions, 'WTS Silk Swtaches '
+[Sat Oct 06 03:12:15 2001] It will take about 20 more seconds to prepare your camp.
+[Sat Oct 06 03:12:17 2001] Salvander tells the group, 'night!'
+[Sat Oct 06 03:12:20 2001] Lanalis GMSAYS, 'I got the good night part of that. hehe. Oyasumi nasi'
+[Sat Oct 06 03:12:20 2001] It will take about 15 more seconds to prepare your camp.
+[Sat Oct 06 03:12:25 2001] It will take about 10 more seconds to prepare your camp.
+[Sat Oct 06 03:12:30 2001] Tanbill says out of character, 'looking for SG partner, 30ish druid or ranger'
+[Sat Oct 06 03:12:30 2001] It will take about 5 more seconds to prepare your camp.
+[Sat Oct 06 03:12:36 2001] You disband your party.

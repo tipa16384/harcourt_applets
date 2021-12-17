@@ -1,0 +1,796 @@
+[Mon Mar 11 16:09:56 2002] Welcome to EverQuest!
+[Mon Mar 11 16:09:56 2002] You have entered Sunset Home.
+[Mon Mar 11 16:09:57 2002] GUILD MOTD: Lirus - I will be on vacation from March 20-31st.
+[Mon Mar 11 16:10:00 2002] Players in EverQuest:
+[Mon Mar 11 16:10:00 2002] ---------------------------
+[Mon Mar 11 16:10:00 2002] * Guide *[55 Luminary] Ngoc (Ogre) <Keepers of Dreams> ZONE: southkarana (USER PID FUGBDWQ)
+[Mon Mar 11 16:10:00 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Mon Mar 11 16:10:00 2002] * Apprentice Guide *[20 Warrior] Slayehn (Half Elf) ZONE: sro (USER PID D1A502Y)
+[Mon Mar 11 16:10:00 2002] * Apprentice Guide *[20 Monk] Seram (Human) ZONE: northkarana (USER PID HU4QRPJ)
+[Mon Mar 11 16:10:00 2002] * Guide *[52 Disciple] Larsot (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID GUGBHE6)
+[Mon Mar 11 16:10:00 2002] There are 5 players in EverQuest.
+[Mon Mar 11 16:10:03 2002] You GMSAY, 'hiya'
+[Mon Mar 11 16:10:06 2002] Ngoc GMSAYS, 'hy sp'
+[Mon Mar 11 16:10:13 2002] You GMSAY, 'server drop here too?'
+[Mon Mar 11 16:10:18 2002] Ngoc GMSAYS, 'any word on if rezzes are authorized?'
+[Mon Mar 11 16:10:22 2002] Seram GMSAYS, 'hello espranza and yes it idd'
+[Mon Mar 11 16:10:22 2002] Ngoc GMSAYS, 'big time drop'
+[Mon Mar 11 16:10:38 2002] You GMSAY, 'everyone got dropped on my server, I was in umbral :('
+[Mon Mar 11 16:10:42 2002] You GMSAY, 'lived though'
+[Mon Mar 11 16:10:44 2002] Zyryth GMSAYS, 'Rez's are authorized for the server drop, yes.'
+[Mon Mar 11 16:10:47 2002] Slayehn GMSAYS, 'Hiya Espranza'
+[Mon Mar 11 16:10:57 2002] Ngoc GMSAYS, 'ok...thanks'
+[Mon Mar 11 16:11:02 2002] You GMSAY, 'heya! well warm up the gloves and let's go to work :)'
+[Mon Mar 11 16:11:12 2002] You GMSAY, 'looking through reds...'
+[Mon Mar 11 16:11:13 2002] Ngoc GMSAYS, 'no doubt'
+[Mon Mar 11 16:11:14 2002] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 11 16:11:15 2002] USER TEXT: can i ask to Admin-GM about recovering account problem plz?
+[Mon Mar 11 16:11:15 2002] Players in EverQuest:
+[Mon Mar 11 16:11:15 2002] ---------------------------
+[Mon Mar 11 16:11:15 2002] [ANON (58 Knight)] Rosebird (High Elf) ZONE: ecommons (USER PID DWU0VQC)
+[Mon Mar 11 16:11:15 2002] There is 1 player in EverQuest.
+[Mon Mar 11 16:11:18 2002] UNDOING CHECK OUT
+[Mon Mar 11 16:11:20 2002] Ngoc GMSAYS, 'going to be really long night'
+[Mon Mar 11 16:11:20 2002] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 11 16:11:20 2002] USER TEXT: I need lirus to plz get on my main char Barak, whose is stuck and put him back to his bind point and summon his corpse there.Guide Agaden told me to mention that i followd the instuction givin to be about deleting files and it still hasnt helped
+[Mon Mar 11 16:11:21 2002] Players in EverQuest:
+[Mon Mar 11 16:11:21 2002] ---------------------------
+[Mon Mar 11 16:11:21 2002] [22 Paladin] Naawty (Half Elf) ZONE: commons (USER PID ENRSNR2)
+[Mon Mar 11 16:11:21 2002] There is 1 player in EverQuest.
+[Mon Mar 11 16:11:27 2002] UNDOING CHECK OUT
+[Mon Mar 11 16:11:29 2002] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 11 16:11:29 2002] USER TEXT: I cannot log on with my main character on my other account. Have talked to 5 gm's, and uninstalled everything and redid patches and talked to tech support. Tech support told me I have to have my servers gm log on to my account and walk my charao
+[Mon Mar 11 16:11:29 2002] Players in EverQuest:
+[Mon Mar 11 16:11:29 2002] ---------------------------
+[Mon Mar 11 16:11:29 2002] [ANON (41 Druid)] Jillyjill (Wood Elf) ZONE: commons (USER PID AY7NM2H)
+[Mon Mar 11 16:11:29 2002] There is 1 player in EverQuest.
+[Mon Mar 11 16:11:33 2002] UNDOING CHECK OUT
+[Mon Mar 11 16:11:35 2002] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 11 16:11:36 2002] USER TEXT: I am ready for my name change, as per Lirus' instructions.
+[Mon Mar 11 16:11:36 2002] Players in EverQuest:
+[Mon Mar 11 16:11:36 2002] ---------------------------
+[Mon Mar 11 16:11:36 2002] [ANON (17 Bard)] Zheis (Vah Shir) ZONE: oasis (USER PID HRLG2KK)
+[Mon Mar 11 16:11:36 2002] There is 1 player in EverQuest.
+[Mon Mar 11 16:11:44 2002] UNDOING CHECK OUT
+[Mon Mar 11 16:11:44 2002] Ngoc GMSAYS, 'Zoning'
+[Mon Mar 11 16:11:53 2002] Seram GMSAYS, 'what do i do with a rez request due to ld?'
+[Mon Mar 11 16:11:56 2002] Zyryth GMSAYS, 'Someone want to go hit seb, you can do a /shout if you want to have people tell you, you can pull their corpse and rez them. Same for Karnors'
+[Mon Mar 11 16:12:03 2002] You GMSAY, 'esc to yellow Seram'
+[Mon Mar 11 16:12:19 2002] Slayehn GMSAYS, 'Escalating Sziltor, killed in Burningwood from LD'
+[Mon Mar 11 16:12:26 2002] Saving soulmark information to server.
+[Mon Mar 11 16:12:40 2002] Slayehn GMSAYS, 'Pulling Reishi'
+[Mon Mar 11 16:12:43 2002] Players in EverQuest:
+[Mon Mar 11 16:12:43 2002] ---------------------------
+[Mon Mar 11 16:12:43 2002] * Guide *[55 Luminary] Ngoc (Ogre) <Keepers of Dreams> ZONE: unrest (USER PID FUGBDWQ)
+[Mon Mar 11 16:12:43 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Mon Mar 11 16:12:43 2002] * Apprentice Guide *[20 Warrior] Slayehn (Half Elf) ZONE: sro (USER PID D1A502Y)
+[Mon Mar 11 16:12:43 2002] * Apprentice Guide *[20 Monk] Seram (Human) ZONE: northkarana (USER PID HU4QRPJ)
+[Mon Mar 11 16:12:43 2002] * Guide *[52 Disciple] Larsot (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID GUGBHE6)
+[Mon Mar 11 16:12:43 2002] There are 5 players in EverQuest.
+[Mon Mar 11 16:12:50 2002] You GMSAY, 'I'll grab sebilis'
+[Mon Mar 11 16:12:52 2002] You GMSAY, 'zone'
+[Mon Mar 11 16:12:57 2002] Zyryth GMSAYS, 'For appies, inform the player that we are aware of the connection issues, its being worked on, and you will forward their pet on to a guide to help them out.'
+[Mon Mar 11 16:12:58 2002] LOADING, PLEASE WAIT...
+[Mon Mar 11 16:13:34 2002] You have entered Ruins of Sebilis.
+[Mon Mar 11 16:13:44 2002] This corpse's resurrection time will expire in 2 hour(s) 49 minute(s) 50 seconds.
+[Mon Mar 11 16:13:44 2002] This corpse will decay in 6 day(s) 23 hour(s) 49 minute(s) 50 seconds.
+[Mon Mar 11 16:13:45 2002] This corpse's resurrection time will expire in 2 hour(s) 49 minute(s) 49 seconds.
+[Mon Mar 11 16:13:45 2002] This corpse will decay in 6 day(s) 23 hour(s) 49 minute(s) 49 seconds.
+[Mon Mar 11 16:13:45 2002] This corpse's resurrection time will expire in 2 hour(s) 49 minute(s) 48 seconds.
+[Mon Mar 11 16:13:45 2002] This corpse will decay in 6 day(s) 23 hour(s) 49 minute(s) 48 seconds.
+[Mon Mar 11 16:13:46 2002] This corpse's resurrection time will expire in 2 hour(s) 49 minute(s) 48 seconds.
+[Mon Mar 11 16:13:46 2002] This corpse will decay in 6 day(s) 23 hour(s) 49 minute(s) 48 seconds.
+[Mon Mar 11 16:13:51 2002] You told Chumb, 'ready for a rez?'
+[Mon Mar 11 16:13:55 2002] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Mar 11 16:14:10 2002] Players on EverQuest:
+[Mon Mar 11 16:14:10 2002] ---------------------------
+[Mon Mar 11 16:14:10 2002] [56 Templar] Elara (Dark Elf) <Thunderwalkers>
+[Mon Mar 11 16:14:10 2002] [ANONYMOUS] Vanaelye  <Flames of Vengeance>
+[Mon Mar 11 16:14:10 2002] [60 Oracle] Bluudson (Barbarian) <Flames of Vengeance>
+[Mon Mar 11 16:14:10 2002] [ANONYMOUS] Silke 
+[Mon Mar 11 16:14:10 2002] [60 Warlord] Ashoo (Ogre) <Flames of Vengeance>
+[Mon Mar 11 16:14:10 2002] [ANONYMOUS] Raleigh 
+[Mon Mar 11 16:14:10 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Mar 11 16:14:10 2002] There are 7 players in Old Sebilis.
+[Mon Mar 11 16:14:16 2002] Chumb tells you, 'yup'
+[Mon Mar 11 16:14:19 2002] Slayehn GMSAYS, 'Escalating Reishi, LD death'
+[Mon Mar 11 16:14:25 2002] You shout, 'anyone here killed by the connection drop?'
+[Mon Mar 11 16:14:29 2002] Slayehn GMSAYS, 'Pulling Schadows'
+[Mon Mar 11 16:14:30 2002] Lirus GMSAYS, 'back'
+[Mon Mar 11 16:14:34 2002] You shout, 'or have people in their party who were?'
+[Mon Mar 11 16:14:37 2002] You GMSAY, 'wb Lirus'
+[Mon Mar 11 16:14:37 2002] Raleigh says out of character, 'Deemoore was'
+[Mon Mar 11 16:14:42 2002] Lirus GMSAYS, 'zone'
+[Mon Mar 11 16:14:44 2002] Summoning deemore's corpse0.
+[Mon Mar 11 16:14:45 2002] Lirus GMSAYS, 'thanks esp'
+[Mon Mar 11 16:14:47 2002] Lirus GMSAYS, 'was in chat'
+[Mon Mar 11 16:14:51 2002] Ashoo says out of character, 'dellboy dead'
+[Mon Mar 11 16:14:58 2002] Teleporting to raleigh.
+[Mon Mar 11 16:15:02 2002] Elara says out of character, 'we had 2 peeps die'
+[Mon Mar 11 16:15:09 2002] Raleigh says, 'droggle died also'
+[Mon Mar 11 16:15:09 2002] myconid adept begins to cast a spell. (Yaulp IV)
+[Mon Mar 11 16:15:18 2002] Seram GMSAYS, 'nother server death heh lots of these'
+[Mon Mar 11 16:15:18 2002] Larsot GMSAYS, 'well that was fun to say the least'
+[Mon Mar 11 16:15:18 2002] Lirus GMSAYS, 'if ya haven't guess ressed are authorized'
+[Mon Mar 11 16:15:25 2002] Elara says out of character, 'dellboy'
+[Mon Mar 11 16:15:34 2002] Larsot GMSAYS, 'anyone in Velks?'
+[Mon Mar 11 16:15:37 2002] Lirus GMSAYS, 'me'
+[Mon Mar 11 16:15:37 2002] Elara says out of character, 'xanita'
+[Mon Mar 11 16:15:37 2002] Teleporting to chumb's corpse0.
+[Mon Mar 11 16:15:38 2002] Raleigh says, 'err benlaorm'
+[Mon Mar 11 16:15:46 2002] Chumb thanks Espranza heartily.
+[Mon Mar 11 16:15:48 2002] Summoning droggle's corpse0.
+[Mon Mar 11 16:15:50 2002] Larsot GMSAYS, 'ok'
+[Mon Mar 11 16:15:55 2002] Summoning deemore's corpse0.
+[Mon Mar 11 16:16:00 2002] Zyryth GMSAYS, 'you doing Sebilis Espranza?'
+[Mon Mar 11 16:16:00 2002] Larsot GMSAYS, 'Sebilis is covered, is karnors now?'
+[Mon Mar 11 16:16:05 2002] Summoning dellboy's corpse0.
+[Mon Mar 11 16:16:07 2002] You GMSAY, 'got OS'
+[Mon Mar 11 16:16:16 2002] Searching zones for corpse of that name....
+[Mon Mar 11 16:16:19 2002] You no longer have a target.
+[Mon Mar 11 16:16:22 2002] Corpse: Dellboy's corpse0 in zone: sebilis
+[Mon Mar 11 16:16:24 2002] This corpse's resurrection time will expire in 2 hour(s) 56 minute(s) 30 seconds.
+[Mon Mar 11 16:16:24 2002] This corpse will decay in 6 day(s) 23 hour(s) 56 minute(s) 30 seconds.
+[Mon Mar 11 16:16:26 2002] This corpse's resurrection time will expire in 2 hour(s) 56 minute(s) 26 seconds.
+[Mon Mar 11 16:16:26 2002] This corpse will decay in 6 day(s) 23 hour(s) 56 minute(s) 26 seconds.
+[Mon Mar 11 16:16:31 2002] You told Droggle, 'ready for a rez>'
+[Mon Mar 11 16:16:31 2002] Larsot GMSAYS, '~~ZONE~~'
+[Mon Mar 11 16:16:32 2002] Ngoc GMSAYS, 'Zoning'
+[Mon Mar 11 16:16:34 2002] Droggle tells you, 'ya'
+[Mon Mar 11 16:16:38 2002] This corpse's resurrection time will expire in 2 hour(s) 34 minute(s) 39 seconds.
+[Mon Mar 11 16:16:38 2002] This corpse will decay in 6 day(s) 23 hour(s) 34 minute(s) 39 seconds.
+[Mon Mar 11 16:16:40 2002] This corpse's resurrection time will expire in 2 hour(s) 34 minute(s) 37 seconds.
+[Mon Mar 11 16:16:40 2002] This corpse will decay in 6 day(s) 23 hour(s) 34 minute(s) 37 seconds.
+[Mon Mar 11 16:16:46 2002] You told Dellboy, 'ready for a rez?'
+[Mon Mar 11 16:16:53 2002] Dellboy tells you, 'yes'
+[Mon Mar 11 16:16:55 2002] Zyryth GMSAYS, 'Esc yellow Ginni, corpse in sebilis'
+[Mon Mar 11 16:17:02 2002] Summoning ginni's corpse0.
+[Mon Mar 11 16:17:06 2002] This corpse's resurrection time will expire in 2 hour(s) 33 minute(s) 55 seconds.
+[Mon Mar 11 16:17:06 2002] This corpse will decay in 6 day(s) 23 hour(s) 33 minute(s) 55 seconds.
+[Mon Mar 11 16:17:06 2002] Zyryth GMSAYS, 'zone kael'
+[Mon Mar 11 16:17:08 2002] This corpse's resurrection time will expire in 2 hour(s) 33 minute(s) 54 seconds.
+[Mon Mar 11 16:17:09 2002] This corpse will decay in 6 day(s) 23 hour(s) 33 minute(s) 54 seconds.
+[Mon Mar 11 16:17:11 2002] You told Ginni, 'ready for a rez>'
+[Mon Mar 11 16:17:14 2002] You told Ginni, 'ready for a rez?'
+[Mon Mar 11 16:17:15 2002] Raleigh says out of character, 'Deemoore, Droggle, and Benlaorn need a rez in the Crypt please Espranza'
+[Mon Mar 11 16:17:16 2002] Ginni tells you, 'yes, please :)'
+[Mon Mar 11 16:17:26 2002] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Mar 11 16:17:26 2002] Summoning deemoore's corpse0.
+[Mon Mar 11 16:17:28 2002] Slayehn GMSAYS, 'Deleting Schadows, solved his own prob'
+[Mon Mar 11 16:17:34 2002] Lirus GMSAYS, 'zone'
+[Mon Mar 11 16:17:34 2002] You told Deemoore, 'ready for a rez?'
+[Mon Mar 11 16:17:40 2002] Slayehn GMSAYS, 'Pulling Daelaany'
+[Mon Mar 11 16:17:41 2002] Summoning Deemoore's corpse0.
+[Mon Mar 11 16:17:43 2002] Deemoore tells you, 'yes'
+[Mon Mar 11 16:17:43 2002] Dellboy thanks Espranza heartily.
+[Mon Mar 11 16:17:45 2002] Seram GMSAYS, 'OUHC LAG!'
+[Mon Mar 11 16:17:51 2002] Searching zones for corpse of that name....
+[Mon Mar 11 16:17:58 2002] Droggle says out of character, 'thanks miss'
+[Mon Mar 11 16:17:59 2002] Lirus GMSAYS, 'zone'
+[Mon Mar 11 16:18:09 2002] Searching zones for corpse of that name....
+[Mon Mar 11 16:18:14 2002] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 11 16:18:15 2002] USER TEXT: server crashed and i died!
+[Mon Mar 11 16:18:15 2002] Players in EverQuest:
+[Mon Mar 11 16:18:15 2002] ---------------------------
+[Mon Mar 11 16:18:15 2002] [50 Enchanter] Ginni (Gnome) <Triune> ZONE: sebilis (USER PID BYF4WCQ)
+[Mon Mar 11 16:18:15 2002] There is 1 player in EverQuest.
+[Mon Mar 11 16:18:16 2002] DELETING THIS PETITION
+[Mon Mar 11 16:18:17 2002] Seram GMSAYS, 'hehe the lag monster just backstabed me heh'
+[Mon Mar 11 16:18:19 2002] RETRIEVING PETITION...PLEASE WAIT
+[Mon Mar 11 16:18:20 2002] USER TEXT: Trapped in Chottal of crypt due to server crash 
+[Mon Mar 11 16:18:20 2002] Players in EverQuest:
+[Mon Mar 11 16:18:20 2002] ---------------------------
+[Mon Mar 11 16:18:20 2002] [56 Blackguard] Deemoore (Barbarian) <United Guardians> ZONE: sebilis (USER PID HXS8UH2)
+[Mon Mar 11 16:18:20 2002] There is 1 player in EverQuest.
+[Mon Mar 11 16:18:20 2002] Chumb cheers at Ginni.
+[Mon Mar 11 16:18:22 2002] DELETING THIS PETITION
+[Mon Mar 11 16:18:24 2002] Deemoore tells you, 'thanksa'
+[Mon Mar 11 16:18:25 2002] Raleigh tells you, 'is it possible to get ported to zone also? I was with the group that wiped so im down here FD by myself'
+[Mon Mar 11 16:18:25 2002] Ginni tells you, 'thank you )'
+[Mon Mar 11 16:18:26 2002] Droggle says, 'thanks ma'am'
+[Mon Mar 11 16:18:32 2002] Summoning raleigh.
+[Mon Mar 11 16:18:56 2002] Ngoc GMSAYS, 'Lirus, is it ok to move the corpses to zoneline befree rezzing?'
+[Mon Mar 11 16:19:04 2002] You GMSAY, 'yes, ngoc'
+[Mon Mar 11 16:19:11 2002] Players in EverQuest:
+[Mon Mar 11 16:19:11 2002] ---------------------------
+[Mon Mar 11 16:19:11 2002] [53 Champion] Benor (Barbarian) <Temple of Dawn> ZONE: fungusgrove (USER PID CV7GVN4)
+[Mon Mar 11 16:19:11 2002] [50 Enchanter] Benkin (Gnome) <Altruistic Valorians> ZONE: sharvahl (USER PID ARCHGRZ)
+[Mon Mar 11 16:19:11 2002] [ANON (59 Defiler)] Benradi (Gnome) ZONE: neriaka (USER PID CS8CK8U)
+[Mon Mar 11 16:19:11 2002] [57 Myrmidon] Benthorn (Human) <Echelon> ZONE: chardok (USER PID FUTJ89X)
+[Mon Mar 11 16:19:11 2002] [55 Myrmidon] Benlaorm (Barbarian) ZONE: firiona (USER PID CU0GURT)
+[Mon Mar 11 16:19:11 2002] [8 Magician] Bensell (Gnome) ZONE: steamfont (USER PID EXUQKCP)
+[Mon Mar 11 16:19:11 2002] There are 6 players in EverQuest.
+[Mon Mar 11 16:19:11 2002] Lirus GMSAYS, 'yep'
+[Mon Mar 11 16:19:14 2002] Raleigh tells you, 'Thank you kindly'
+[Mon Mar 11 16:19:16 2002] Ngoc GMSAYS, 'this group got wiped out deep in chardok'
+[Mon Mar 11 16:19:17 2002] Ngoc GMSAYS, 'ok'
+[Mon Mar 11 16:19:19 2002] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Mar 11 16:19:22 2002] Ngoc GMSAYS, 'thanks'
+[Mon Mar 11 16:19:22 2002] Zyryth GMSAYS, 'zoneing to charasis'
+[Mon Mar 11 16:19:24 2002] Summoning benlaorm's corpse0.
+[Mon Mar 11 16:19:26 2002] Raleigh says, 'did Ben get pulled?'
+[Mon Mar 11 16:19:32 2002] Raleigh says, 'yep'
+[Mon Mar 11 16:19:33 2002] Slayehn GMSAYS, 'Escalating Daelaany, stuck in the ground after zoniing into Great Divide'
+[Mon Mar 11 16:19:33 2002] You told Benlaorm, 'ready for a rez?'
+[Mon Mar 11 16:19:37 2002] Raleigh cheers at Espranza.
+[Mon Mar 11 16:19:43 2002] Slayehn GMSAYS, 'Pulling Karatek'
+[Mon Mar 11 16:19:45 2002] Benlaorm tells you, 'yep'
+[Mon Mar 11 16:19:52 2002] Seram GMSAYS, 'escalating another ld death from server crash shwizer's pet'
+[Mon Mar 11 16:19:55 2002] You can't reach that, get closer.
+[Mon Mar 11 16:19:56 2002] This corpse's resurrection time will expire in 2 hour(s) 56 minute(s) 42 seconds.
+[Mon Mar 11 16:19:56 2002] This corpse will decay in 6 day(s) 23 hour(s) 56 minute(s) 42 seconds.
+[Mon Mar 11 16:19:57 2002] This corpse's resurrection time will expire in 2 hour(s) 56 minute(s) 41 seconds.
+[Mon Mar 11 16:19:57 2002] This corpse will decay in 6 day(s) 23 hour(s) 56 minute(s) 41 seconds.
+[Mon Mar 11 16:20:04 2002] Summoning Silke's corpse0.
+[Mon Mar 11 16:20:10 2002] You told Silke, 'ready for a rez?'
+[Mon Mar 11 16:20:17 2002] Silke tells you, 'yes please ..'
+[Mon Mar 11 16:20:29 2002] Deemoore says out of character, 'camp check LOL'
+[Mon Mar 11 16:20:50 2002] You shout, 'send tells if you are dead or know someone who was whose corpses I have not yet pulled and rezzed please'
+[Mon Mar 11 16:20:54 2002] Seram GMSAYS, 'nother ld death trelf needs rez'
+[Mon Mar 11 16:20:54 2002] This corpse's resurrection time will expire in 3 hour(s) 0 minute(s) 0 seconds.
+[Mon Mar 11 16:20:54 2002] This corpse will decay in 6 day(s) 23 hour(s) 30 minute(s) 22 seconds.
+[Mon Mar 11 16:20:55 2002] This corpse's resurrection time will expire in 3 hour(s) 0 minute(s) 0 seconds.
+[Mon Mar 11 16:20:55 2002] This corpse will decay in 6 day(s) 23 hour(s) 30 minute(s) 22 seconds.
+[Mon Mar 11 16:20:56 2002] This corpse's resurrection time will expire in 3 hour(s) 0 minute(s) 0 seconds.
+[Mon Mar 11 16:20:56 2002] This corpse will decay in 6 day(s) 23 hour(s) 30 minute(s) 21 seconds.
+[Mon Mar 11 16:21:00 2002] Slayehn GMSAYS, 'Escalating Karatek, LD death'
+[Mon Mar 11 16:21:06 2002] Swiftmoor GMSAYS, 'ack, I'm back'
+[Mon Mar 11 16:21:11 2002] Summoning Zebot's corpse0.
+[Mon Mar 11 16:21:11 2002] Lirus GMSAYS, 'wb'
+[Mon Mar 11 16:21:13 2002] This corpse's resurrection time will expire in 3 hour(s) 0 minute(s) 0 seconds.
+[Mon Mar 11 16:21:13 2002] This corpse will decay in 6 day(s) 23 hour(s) 30 minute(s) 3 seconds.
+[Mon Mar 11 16:21:14 2002] This corpse's resurrection time will expire in 3 hour(s) 0 minute(s) 0 seconds.
+[Mon Mar 11 16:21:14 2002] This corpse will decay in 6 day(s) 23 hour(s) 30 minute(s) 2 seconds.
+[Mon Mar 11 16:21:20 2002] Froglok dar knight feels much faster.
+[Mon Mar 11 16:21:21 2002] Slayehn GMSAYS, 'Pulling Sydnee'
+[Mon Mar 11 16:21:24 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Mar 11 16:21:26 2002] This corpse is too old to be resurrected.
+[Mon Mar 11 16:21:26 2002] This corpse will decay in 4 day(s) 12 hour(s) 54 minute(s) 51 seconds.
+[Mon Mar 11 16:21:27 2002] This corpse is too old to be resurrected.
+[Mon Mar 11 16:21:27 2002] This corpse will decay in 4 day(s) 12 hour(s) 54 minute(s) 51 seconds.
+[Mon Mar 11 16:21:28 2002] This corpse is too old to be resurrected.
+[Mon Mar 11 16:21:28 2002] This corpse will decay in 4 day(s) 12 hour(s) 54 minute(s) 49 seconds.
+[Mon Mar 11 16:21:39 2002] Vanaelye tells you, 'got a tell for '
+[Mon Mar 11 16:21:39 2002] Droggle tells you, 'we had a druid named Jekar too, I am not sure if he signed back on or not, but when he does he prob will die'
+[Mon Mar 11 16:21:44 2002] froglok bok shaman begins to cast a spell. (Alacrity)
+[Mon Mar 11 16:21:45 2002] Seram GMSAYS, 'diengoria needs rez due to server fall'
+[Mon Mar 11 16:21:46 2002] Searching zones for corpse of that name....
+[Mon Mar 11 16:21:47 2002] Corpse: Jekar's corpse0 in zone: sebilis
+[Mon Mar 11 16:21:47 2002] Raleigh says out of character, 'Jekar is dead in crypt'
+[Mon Mar 11 16:21:54 2002] Teleporting to raleigh.
+[Mon Mar 11 16:21:54 2002] Silke tells you, 'thank  you ...'
+[Mon Mar 11 16:21:56 2002] Swiftmoor GMSAYS, 'no one doing howling stone yet right?'
+[Mon Mar 11 16:22:00 2002] Lirus GMSAYS, 'zone'
+[Mon Mar 11 16:22:03 2002] Lirus GMSAYS, 'going to chardok'
+[Mon Mar 11 16:22:05 2002] Deemoore tells you, 'jekar needs rezz'
+[Mon Mar 11 16:22:05 2002] Vanaelye tells you, 'nm ~ think you got Dellboy .'
+[Mon Mar 11 16:22:06 2002] Summoning jekar's corpse0.
+[Mon Mar 11 16:22:08 2002] Seram GMSAYS, '<note> Server crashed 1 billion petitions came in '
+[Mon Mar 11 16:22:12 2002] This corpse's resurrection time will expire in 2 hour(s) 57 minute(s) 30 seconds.
+[Mon Mar 11 16:22:12 2002] This corpse will decay in 6 day(s) 23 hour(s) 57 minute(s) 30 seconds.
+[Mon Mar 11 16:22:13 2002] This corpse's resurrection time will expire in 2 hour(s) 57 minute(s) 30 seconds.
+[Mon Mar 11 16:22:13 2002] This corpse will decay in 6 day(s) 23 hour(s) 57 minute(s) 30 seconds.
+[Mon Mar 11 16:22:14 2002] This corpse's resurrection time will expire in 2 hour(s) 57 minute(s) 28 seconds.
+[Mon Mar 11 16:22:14 2002] This corpse will decay in 6 day(s) 23 hour(s) 57 minute(s) 28 seconds.
+[Mon Mar 11 16:22:15 2002] Benlaorm says, 'Hail, Jekar's corpse'
+[Mon Mar 11 16:22:19 2002] You say, 'Jekar not online'
+[Mon Mar 11 16:22:19 2002] Ginni tells you, 'there is another in our group who is dead but not online.. would it be possible to summon him to the zone in here?'
+[Mon Mar 11 16:22:27 2002] You told Ginni, 'sure, who?'
+[Mon Mar 11 16:22:33 2002] Ginni tells you, 'Zeb something'
+[Mon Mar 11 16:22:38 2002] Lirus GMSAYS, 'big player drop but we didn't crash'
+[Mon Mar 11 16:22:40 2002] Ginni tells you, 'can't remember his name'
+[Mon Mar 11 16:22:43 2002] Players in EverQuest:
+[Mon Mar 11 16:22:43 2002] ---------------------------
+[Mon Mar 11 16:22:43 2002] [10 Enchanter] Zebus (Gnome) ZONE: gfaydark (USER PID HUT59HB)
+[Mon Mar 11 16:22:43 2002] There is 1 player in EverQuest.
+[Mon Mar 11 16:22:46 2002] Ginni tells you, 'Zebol maybe'
+[Mon Mar 11 16:22:50 2002] You told Ginni, 'where were you?'
+[Mon Mar 11 16:22:53 2002] Deemoore says, 'still shows in DL'
+[Mon Mar 11 16:22:54 2002] Searching zones for corpse of that name....
+[Mon Mar 11 16:23:00 2002] Ginni tells you, 'near the water by zone out'
+[Mon Mar 11 16:23:09 2002] Espranza saved.
+[Mon Mar 11 16:23:19 2002] This corpse's resurrection time will expire in 2 hour(s) 22 minute(s) 2 seconds.
+[Mon Mar 11 16:23:19 2002] This corpse will decay in 6 day(s) 23 hour(s) 22 minute(s) 2 seconds.
+[Mon Mar 11 16:23:20 2002] Raleigh says out of character, 'Im not sure if Polus died in Crypt Espranza....only one of our group unaccounted for'
+[Mon Mar 11 16:23:21 2002] This corpse's resurrection time will expire in 2 hour(s) 21 minute(s) 59 seconds.
+[Mon Mar 11 16:23:21 2002] This corpse will decay in 6 day(s) 23 hour(s) 21 minute(s) 59 seconds.
+[Mon Mar 11 16:23:25 2002] Slayehn GMSAYS, 'Esc Sydnee, LD death'
+[Mon Mar 11 16:23:29 2002] Teleporting to raleigh.
+[Mon Mar 11 16:23:41 2002] Benlaorm auctions, 'Polor gated'
+[Mon Mar 11 16:23:41 2002] Raleigh says out of character, 'NM he gated'
+[Mon Mar 11 16:23:43 2002] Lancet GMSAYS, 'HO HO HO MERRY XMAS'
+[Mon Mar 11 16:23:46 2002] Swiftmoor GMSAYS, 'if you see any Howling Stone deaths, let me know who and I'll take em'
+[Mon Mar 11 16:23:49 2002] Larsot GMSAYS, '~~ZONE~~'
+[Mon Mar 11 16:23:58 2002] Lirus GMSAYS, 'hi lancet'
+[Mon Mar 11 16:24:03 2002] You say, 'Hail, Dextor's corpse'
+[Mon Mar 11 16:24:10 2002] Ginni tells you, 'thanks :)'
+[Mon Mar 11 16:24:14 2002] Teleporting to raleigj.
+[Mon Mar 11 16:24:15 2002] Teleporting to raleigh.
+[Mon Mar 11 16:24:19 2002] You told Ginni, 'np )'
+[Mon Mar 11 16:24:23 2002] Summoning dextor's corpse0.
+[Mon Mar 11 16:24:25 2002] Swiftmoor GMSAYS, 'did you bring us gifts Santa Lancet?'
+[Mon Mar 11 16:24:25 2002] Billit says, 'Hail, Espranza'
+[Mon Mar 11 16:24:30 2002] This corpse's resurrection time will expire in 2 hour(s) 20 minute(s) 50 seconds.
+[Mon Mar 11 16:24:30 2002] This corpse will decay in 6 day(s) 23 hour(s) 20 minute(s) 50 seconds.
+[Mon Mar 11 16:24:37 2002] Benlaorm bows before Espranza.
+[Mon Mar 11 16:24:40 2002] You told Dextor, 'ready for a rez?'
+[Mon Mar 11 16:24:42 2002] Lancet GMSAYS, 'sure did wedding cake for all'
+[Mon Mar 11 16:24:44 2002] Billit says, 'my group is all dead here too!! :('
+[Mon Mar 11 16:24:47 2002] Dextor tells you, 'yes please'
+[Mon Mar 11 16:24:53 2002] You say, 'who was in your group?'
+[Mon Mar 11 16:24:59 2002] This corpse's resurrection time will expire in 3 hour(s) 0 minute(s) 0 seconds.
+[Mon Mar 11 16:24:59 2002] This corpse will decay in 6 day(s) 23 hour(s) 26 minute(s) 17 seconds.
+[Mon Mar 11 16:25:00 2002] This corpse's resurrection time will expire in 3 hour(s) 0 minute(s) 0 seconds.
+[Mon Mar 11 16:25:00 2002] This corpse will decay in 6 day(s) 23 hour(s) 26 minute(s) 16 seconds.
+[Mon Mar 11 16:25:03 2002] This corpse's resurrection time will expire in 2 hour(s) 54 minute(s) 40 seconds.
+[Mon Mar 11 16:25:03 2002] This corpse will decay in 6 day(s) 23 hour(s) 54 minute(s) 40 seconds.
+[Mon Mar 11 16:25:04 2002] This corpse's resurrection time will expire in 2 hour(s) 54 minute(s) 39 seconds.
+[Mon Mar 11 16:25:04 2002] This corpse will decay in 6 day(s) 23 hour(s) 54 minute(s) 39 seconds.
+[Mon Mar 11 16:25:09 2002] You told Jekar, 'ready for a rez>'
+[Mon Mar 11 16:25:11 2002] You told Jekar, 'ready for a rez?'
+[Mon Mar 11 16:25:12 2002] Billit says, 'Dextor , Kataria, Trevis'
+[Mon Mar 11 16:25:17 2002] Billit says, 'Worce'
+[Mon Mar 11 16:25:28 2002] Billit says, 'Amenalyn'
+[Mon Mar 11 16:25:29 2002] Dextor says, 'Amenalyn is logging on now .. she died too'
+[Mon Mar 11 16:25:31 2002] You told Jekar, 'ready for a rez?'
+[Mon Mar 11 16:25:34 2002] Slayehn GMSAYS, 'Esc Beylan, LD death in Nro'
+[Mon Mar 11 16:25:34 2002] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Mar 11 16:25:37 2002] Billit cheers at Espranza.
+[Mon Mar 11 16:25:40 2002] Searching zones for corpse of that name....
+[Mon Mar 11 16:25:40 2002] Corpse: Kataria's corpse0 in zone: sebilis
+[Mon Mar 11 16:25:42 2002] Jekar tells you, 'one min'
+[Mon Mar 11 16:25:47 2002] Summoning kataria's corpse0.
+[Mon Mar 11 16:25:49 2002] Lancet GMSAYS, 'ZONING'
+[Mon Mar 11 16:25:50 2002] Slayehn GMSAYS, 'Pulling Minweel'
+[Mon Mar 11 16:26:01 2002] This corpse's resurrection time will expire in 2 hour(s) 18 minute(s) 2 seconds.
+[Mon Mar 11 16:26:01 2002] This corpse will decay in 6 day(s) 23 hour(s) 18 minute(s) 2 seconds.
+[Mon Mar 11 16:26:03 2002] This corpse's resurrection time will expire in 2 hour(s) 17 minute(s) 59 seconds.
+[Mon Mar 11 16:26:03 2002] This corpse will decay in 6 day(s) 23 hour(s) 17 minute(s) 59 seconds.
+[Mon Mar 11 16:26:03 2002] This corpse's resurrection time will expire in 2 hour(s) 17 minute(s) 58 seconds.
+[Mon Mar 11 16:26:03 2002] This corpse will decay in 6 day(s) 23 hour(s) 17 minute(s) 58 seconds.
+[Mon Mar 11 16:26:04 2002] Dextor says, 'Amenalyn is online now'
+[Mon Mar 11 16:26:09 2002] You told Kataria, 'ready for a rez?'
+[Mon Mar 11 16:26:13 2002] Kataria tells you, 'aye'
+[Mon Mar 11 16:26:23 2002] Searching zones for corpse of that name....
+[Mon Mar 11 16:26:24 2002] Corpse: Trevis's corpse0 in zone: sebilis
+[Mon Mar 11 16:26:27 2002] Benlaorm auctions, 'Can u res Jekar?'
+[Mon Mar 11 16:26:32 2002] Teleporting to trevis's corpse0.
+[Mon Mar 11 16:26:37 2002] Jekar tells you, 'rdy'
+[Mon Mar 11 16:26:38 2002] You say out of character, 'he's not ready'
+[Mon Mar 11 16:26:42 2002] You say out of character, 'now he is'
+[Mon Mar 11 16:26:46 2002] Kataria tells you, 'thank you'
+[Mon Mar 11 16:26:47 2002] Teleporting to jekar's corpse0.
+[Mon Mar 11 16:26:48 2002] Deemoore pays for rezz.
+[Mon Mar 11 16:26:57 2002] Benlaorm auctions, 'k thx'
+[Mon Mar 11 16:26:59 2002] Teleporting to trevis's corpse0.
+[Mon Mar 11 16:27:01 2002] You say, 'Hail, Trevis's corpse'
+[Mon Mar 11 16:27:13 2002] You say, 'Hail, Amenalyn's corpse'
+[Mon Mar 11 16:27:22 2002] froglok jin shaman begins to cast a spell. (Alacrity)
+[Mon Mar 11 16:27:23 2002] Teleporting to deemoore.
+[Mon Mar 11 16:27:29 2002] Raleigh cheers at Jekar.
+[Mon Mar 11 16:27:35 2002] Summoning trevis's corpse0.
+[Mon Mar 11 16:27:36 2002] Benlaorm waves at Jekar.
+[Mon Mar 11 16:27:40 2002] This corpse's resurrection time will expire in 2 hour(s) 17 minute(s) 11 seconds.
+[Mon Mar 11 16:27:40 2002] This corpse will decay in 6 day(s) 23 hour(s) 17 minute(s) 11 seconds.
+[Mon Mar 11 16:27:41 2002] This corpse's resurrection time will expire in 2 hour(s) 17 minute(s) 9 seconds.
+[Mon Mar 11 16:27:41 2002] This corpse will decay in 6 day(s) 23 hour(s) 17 minute(s) 9 seconds.
+[Mon Mar 11 16:27:44 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Mar 11 16:27:46 2002] You told Trevis, 'ready for a rez?'
+[Mon Mar 11 16:27:50 2002] Slayehn GMSAYS, 'Esc Minweel, died from LD'
+[Mon Mar 11 16:27:52 2002] Billit cheers at Espranza.
+[Mon Mar 11 16:27:54 2002] Larsot GMSAYS, '~~ZONE~~'
+[Mon Mar 11 16:27:54 2002] Jekar says, 'one more time'
+[Mon Mar 11 16:27:58 2002] Trevis tells you, 'pls...who can say no? : ) '
+[Mon Mar 11 16:28:00 2002] Ngoc GMSAYS, 'going to DL for rezzes'
+[Mon Mar 11 16:28:01 2002] Deemoore says, 'have a warm welcome?'
+[Mon Mar 11 16:28:11 2002] Ngoc GMSAYS, 'Zoning'
+[Mon Mar 11 16:28:14 2002] Summoning amenalyn's corpse0.
+[Mon Mar 11 16:28:14 2002] Slayehn GMSAYS, 'Pulling Breenna'
+[Mon Mar 11 16:28:19 2002] This corpse's resurrection time will expire in 2 hour(s) 16 minute(s) 0 seconds.
+[Mon Mar 11 16:28:19 2002] This corpse will decay in 6 day(s) 23 hour(s) 16 minute(s) 0 seconds.
+[Mon Mar 11 16:28:19 2002] Deemoore says, 'thanks '
+[Mon Mar 11 16:28:20 2002] This corpse's resurrection time will expire in 2 hour(s) 16 minute(s) 0 seconds.
+[Mon Mar 11 16:28:20 2002] This corpse will decay in 6 day(s) 23 hour(s) 16 minute(s) 0 seconds.
+[Mon Mar 11 16:28:23 2002] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Mar 11 16:28:28 2002] You told Amenalyn, 'ready for a rez?'
+[Mon Mar 11 16:28:33 2002] Dextor says, 'just missing Amenalyn and Worce ?'
+[Mon Mar 11 16:28:39 2002] You say, 'Amenalyn not online'
+[Mon Mar 11 16:28:43 2002] Searching zones for corpse of that name....
+[Mon Mar 11 16:29:01 2002] Players on EverQuest:
+[Mon Mar 11 16:29:01 2002] ---------------------------
+[Mon Mar 11 16:29:01 2002] [53 Minstrel] Trevis (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:01 2002] [53 Vicar] Kaitlynx (Dark Elf) <Random Acts>
+[Mon Mar 11 16:29:01 2002] [53 Wanderer] Parin (Wood Elf)
+[Mon Mar 11 16:29:01 2002] [55 Preserver] Jekar (Wood Elf)
+[Mon Mar 11 16:29:01 2002] [53 Wanderer] Kataria (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:01 2002] [54 Cavalier] Dextor (Half Elf) <Echelon>
+[Mon Mar 11 16:29:01 2002] [51 Vicar] Billit (Dwarf) <Echelon>
+[Mon Mar 11 16:29:01 2002] [ANONYMOUS] Silke 
+[Mon Mar 11 16:29:01 2002] [55 Myrmidon] Benlaorm (Barbarian)
+[Mon Mar 11 16:29:01 2002] [56 Blackguard] Deemoore (Barbarian) <United Guardians>
+[Mon Mar 11 16:29:01 2002] [50 Enchanter] Ginni (Gnome) <Triune>
+[Mon Mar 11 16:29:01 2002] [55 Beguiler] Droggle (Gnome) <Company of Shadows>
+[Mon Mar 11 16:29:01 2002] [57 Beguiler] Dellboy (High Elf) <United Guardians>
+[Mon Mar 11 16:29:01 2002] [52 Champion] Chumb (Troll)
+[Mon Mar 11 16:29:01 2002] [ANONYMOUS] Vanaelye  <Flames of Vengeance>
+[Mon Mar 11 16:29:02 2002] [60 Oracle] Bluudson (Barbarian) <Flames of Vengeance>
+[Mon Mar 11 16:29:02 2002] [60 Warlord] Ashoo (Ogre) <Flames of Vengeance>
+[Mon Mar 11 16:29:02 2002] [ANONYMOUS] Raleigh 
+[Mon Mar 11 16:29:02 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Mar 11 16:29:02 2002] There are 19 players in Old Sebilis.
+[Mon Mar 11 16:29:02 2002] Players on EverQuest:
+[Mon Mar 11 16:29:02 2002] ---------------------------
+[Mon Mar 11 16:29:02 2002] [53 Minstrel] Trevis (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:02 2002] [53 Vicar] Kaitlynx (Dark Elf) <Random Acts>
+[Mon Mar 11 16:29:02 2002] [53 Wanderer] Parin (Wood Elf)
+[Mon Mar 11 16:29:02 2002] [55 Preserver] Jekar (Wood Elf)
+[Mon Mar 11 16:29:02 2002] [53 Wanderer] Kataria (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:02 2002] [54 Cavalier] Dextor (Half Elf) <Echelon>
+[Mon Mar 11 16:29:02 2002] [51 Vicar] Billit (Dwarf) <Echelon>
+[Mon Mar 11 16:29:02 2002] [ANONYMOUS] Silke 
+[Mon Mar 11 16:29:02 2002] [55 Myrmidon] Benlaorm (Barbarian)
+[Mon Mar 11 16:29:02 2002] [56 Blackguard] Deemoore (Barbarian) <United Guardians>
+[Mon Mar 11 16:29:02 2002] [50 Enchanter] Ginni (Gnome) <Triune>
+[Mon Mar 11 16:29:02 2002] [55 Beguiler] Droggle (Gnome) <Company of Shadows>
+[Mon Mar 11 16:29:02 2002] [57 Beguiler] Dellboy (High Elf) <United Guardians>
+[Mon Mar 11 16:29:02 2002] [52 Champion] Chumb (Troll)
+[Mon Mar 11 16:29:02 2002] [ANONYMOUS] Vanaelye  <Flames of Vengeance>
+[Mon Mar 11 16:29:02 2002] [60 Oracle] Bluudson (Barbarian) <Flames of Vengeance>
+[Mon Mar 11 16:29:02 2002] [60 Warlord] Ashoo (Ogre) <Flames of Vengeance>
+[Mon Mar 11 16:29:02 2002] [ANONYMOUS] Raleigh 
+[Mon Mar 11 16:29:02 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Mar 11 16:29:02 2002] There are 19 players in Old Sebilis.
+[Mon Mar 11 16:29:03 2002] Players on EverQuest:
+[Mon Mar 11 16:29:03 2002] ---------------------------
+[Mon Mar 11 16:29:03 2002] [53 Minstrel] Trevis (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:03 2002] [53 Vicar] Kaitlynx (Dark Elf) <Random Acts>
+[Mon Mar 11 16:29:03 2002] [53 Wanderer] Parin (Wood Elf)
+[Mon Mar 11 16:29:03 2002] [55 Preserver] Jekar (Wood Elf)
+[Mon Mar 11 16:29:03 2002] [53 Wanderer] Kataria (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:03 2002] [54 Cavalier] Dextor (Half Elf) <Echelon>
+[Mon Mar 11 16:29:03 2002] [51 Vicar] Billit (Dwarf) <Echelon>
+[Mon Mar 11 16:29:03 2002] [ANONYMOUS] Silke 
+[Mon Mar 11 16:29:03 2002] [55 Myrmidon] Benlaorm (Barbarian)
+[Mon Mar 11 16:29:03 2002] [56 Blackguard] Deemoore (Barbarian) <United Guardians>
+[Mon Mar 11 16:29:03 2002] [50 Enchanter] Ginni (Gnome) <Triune>
+[Mon Mar 11 16:29:03 2002] [55 Beguiler] Droggle (Gnome) <Company of Shadows>
+[Mon Mar 11 16:29:03 2002] [57 Beguiler] Dellboy (High Elf) <United Guardians>
+[Mon Mar 11 16:29:03 2002] [52 Champion] Chumb (Troll)
+[Mon Mar 11 16:29:03 2002] [ANONYMOUS] Vanaelye  <Flames of Vengeance>
+[Mon Mar 11 16:29:03 2002] [60 Oracle] Bluudson (Barbarian) <Flames of Vengeance>
+[Mon Mar 11 16:29:03 2002] [60 Warlord] Ashoo (Ogre) <Flames of Vengeance>
+[Mon Mar 11 16:29:03 2002] [ANONYMOUS] Raleigh 
+[Mon Mar 11 16:29:03 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Mar 11 16:29:03 2002] There are 19 players in Old Sebilis.
+[Mon Mar 11 16:29:03 2002] Players on EverQuest:
+[Mon Mar 11 16:29:03 2002] ---------------------------
+[Mon Mar 11 16:29:03 2002] [53 Minstrel] Trevis (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:03 2002] [53 Vicar] Kaitlynx (Dark Elf) <Random Acts>
+[Mon Mar 11 16:29:03 2002] [53 Wanderer] Parin (Wood Elf)
+[Mon Mar 11 16:29:03 2002] [55 Preserver] Jekar (Wood Elf)
+[Mon Mar 11 16:29:03 2002] [53 Wanderer] Kataria (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:03 2002] [54 Cavalier] Dextor (Half Elf) <Echelon>
+[Mon Mar 11 16:29:03 2002] [51 Vicar] Billit (Dwarf) <Echelon>
+[Mon Mar 11 16:29:03 2002] [ANONYMOUS] Silke 
+[Mon Mar 11 16:29:03 2002] [55 Myrmidon] Benlaorm (Barbarian)
+[Mon Mar 11 16:29:03 2002] [56 Blackguard] Deemoore (Barbarian) <United Guardians>
+[Mon Mar 11 16:29:03 2002] [50 Enchanter] Ginni (Gnome) <Triune>
+[Mon Mar 11 16:29:03 2002] [55 Beguiler] Droggle (Gnome) <Company of Shadows>
+[Mon Mar 11 16:29:03 2002] [57 Beguiler] Dellboy (High Elf) <United Guardians>
+[Mon Mar 11 16:29:03 2002] [52 Champion] Chumb (Troll)
+[Mon Mar 11 16:29:03 2002] [ANONYMOUS] Vanaelye  <Flames of Vengeance>
+[Mon Mar 11 16:29:03 2002] [60 Oracle] Bluudson (Barbarian) <Flames of Vengeance>
+[Mon Mar 11 16:29:03 2002] [60 Warlord] Ashoo (Ogre) <Flames of Vengeance>
+[Mon Mar 11 16:29:03 2002] [ANONYMOUS] Raleigh 
+[Mon Mar 11 16:29:03 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Mar 11 16:29:03 2002] There are 19 players in Old Sebilis.
+[Mon Mar 11 16:29:04 2002] Players on EverQuest:
+[Mon Mar 11 16:29:04 2002] ---------------------------
+[Mon Mar 11 16:29:04 2002] [53 Minstrel] Trevis (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:04 2002] [53 Vicar] Kaitlynx (Dark Elf) <Random Acts>
+[Mon Mar 11 16:29:04 2002] [53 Wanderer] Parin (Wood Elf)
+[Mon Mar 11 16:29:04 2002] [55 Preserver] Jekar (Wood Elf)
+[Mon Mar 11 16:29:04 2002] [53 Wanderer] Kataria (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:04 2002] [54 Cavalier] Dextor (Half Elf) <Echelon>
+[Mon Mar 11 16:29:04 2002] [51 Vicar] Billit (Dwarf) <Echelon>
+[Mon Mar 11 16:29:04 2002] [ANONYMOUS] Silke 
+[Mon Mar 11 16:29:04 2002] [55 Myrmidon] Benlaorm (Barbarian)
+[Mon Mar 11 16:29:04 2002] [56 Blackguard] Deemoore (Barbarian) <United Guardians>
+[Mon Mar 11 16:29:04 2002] [50 Enchanter] Ginni (Gnome) <Triune>
+[Mon Mar 11 16:29:04 2002] [55 Beguiler] Droggle (Gnome) <Company of Shadows>
+[Mon Mar 11 16:29:04 2002] [57 Beguiler] Dellboy (High Elf) <United Guardians>
+[Mon Mar 11 16:29:04 2002] [52 Champion] Chumb (Troll)
+[Mon Mar 11 16:29:04 2002] [ANONYMOUS] Vanaelye  <Flames of Vengeance>
+[Mon Mar 11 16:29:04 2002] [60 Oracle] Bluudson (Barbarian) <Flames of Vengeance>
+[Mon Mar 11 16:29:04 2002] [60 Warlord] Ashoo (Ogre) <Flames of Vengeance>
+[Mon Mar 11 16:29:04 2002] [ANONYMOUS] Raleigh 
+[Mon Mar 11 16:29:04 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Mar 11 16:29:04 2002] There are 19 players in Old Sebilis.
+[Mon Mar 11 16:29:04 2002] Players on EverQuest:
+[Mon Mar 11 16:29:04 2002] ---------------------------
+[Mon Mar 11 16:29:04 2002] [53 Minstrel] Trevis (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:04 2002] [53 Vicar] Kaitlynx (Dark Elf) <Random Acts>
+[Mon Mar 11 16:29:04 2002] [53 Wanderer] Parin (Wood Elf)
+[Mon Mar 11 16:29:04 2002] [55 Preserver] Jekar (Wood Elf)
+[Mon Mar 11 16:29:04 2002] [53 Wanderer] Kataria (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:04 2002] [54 Cavalier] Dextor (Half Elf) <Echelon>
+[Mon Mar 11 16:29:04 2002] [51 Vicar] Billit (Dwarf) <Echelon>
+[Mon Mar 11 16:29:04 2002] [ANONYMOUS] Silke 
+[Mon Mar 11 16:29:04 2002] [55 Myrmidon] Benlaorm (Barbarian)
+[Mon Mar 11 16:29:04 2002] [56 Blackguard] Deemoore (Barbarian) <United Guardians>
+[Mon Mar 11 16:29:04 2002] [50 Enchanter] Ginni (Gnome) <Triune>
+[Mon Mar 11 16:29:04 2002] [55 Beguiler] Droggle (Gnome) <Company of Shadows>
+[Mon Mar 11 16:29:04 2002] [57 Beguiler] Dellboy (High Elf) <United Guardians>
+[Mon Mar 11 16:29:04 2002] [52 Champion] Chumb (Troll)
+[Mon Mar 11 16:29:04 2002] [ANONYMOUS] Vanaelye  <Flames of Vengeance>
+[Mon Mar 11 16:29:04 2002] [60 Oracle] Bluudson (Barbarian) <Flames of Vengeance>
+[Mon Mar 11 16:29:04 2002] [60 Warlord] Ashoo (Ogre) <Flames of Vengeance>
+[Mon Mar 11 16:29:04 2002] [ANONYMOUS] Raleigh 
+[Mon Mar 11 16:29:04 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Mar 11 16:29:04 2002] There are 19 players in Old Sebilis.
+[Mon Mar 11 16:29:06 2002] Players on EverQuest:
+[Mon Mar 11 16:29:06 2002] ---------------------------
+[Mon Mar 11 16:29:06 2002] [53 Minstrel] Trevis (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:06 2002] [53 Vicar] Kaitlynx (Dark Elf) <Random Acts>
+[Mon Mar 11 16:29:06 2002] [53 Wanderer] Parin (Wood Elf)
+[Mon Mar 11 16:29:06 2002] [55 Preserver] Jekar (Wood Elf)
+[Mon Mar 11 16:29:06 2002] [53 Wanderer] Kataria (Wood Elf) <Echelon>
+[Mon Mar 11 16:29:06 2002] [54 Cavalier] Dextor (Half Elf) <Echelon>
+[Mon Mar 11 16:29:06 2002] [51 Vicar] Billit (Dwarf) <Echelon>
+[Mon Mar 11 16:29:06 2002] [ANONYMOUS] Silke 
+[Mon Mar 11 16:29:06 2002] [55 Myrmidon] Benlaorm (Barbarian)
+[Mon Mar 11 16:29:06 2002] [56 Blackguard] Deemoore (Barbarian) <United Guardians>
+[Mon Mar 11 16:29:06 2002] [50 Enchanter] Ginni (Gnome) <Triune>
+[Mon Mar 11 16:29:06 2002] [55 Beguiler] Droggle (Gnome) <Company of Shadows>
+[Mon Mar 11 16:29:06 2002] [57 Beguiler] Dellboy (High Elf) <United Guardians>
+[Mon Mar 11 16:29:06 2002] [52 Champion] Chumb (Troll)
+[Mon Mar 11 16:29:06 2002] [ANONYMOUS] Vanaelye  <Flames of Vengeance>
+[Mon Mar 11 16:29:06 2002] [60 Oracle] Bluudson (Barbarian) <Flames of Vengeance>
+[Mon Mar 11 16:29:06 2002] [60 Warlord] Ashoo (Ogre) <Flames of Vengeance>
+[Mon Mar 11 16:29:06 2002] [ANONYMOUS] Raleigh 
+[Mon Mar 11 16:29:06 2002] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Mar 11 16:29:06 2002] There are 19 players in Old Sebilis.
+[Mon Mar 11 16:29:09 2002] Dextor cheers at Amenalyn.
+[Mon Mar 11 16:29:10 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Mar 11 16:29:10 2002] Billit says, 'and me!! :('
+[Mon Mar 11 16:29:10 2002] Amenalyn tells you, 'aye.. thank you'
+[Mon Mar 11 16:34:57 2002] Deemoore says out of character, 'disco claimed'
+[Mon Mar 11 16:35:07 2002] Parin says out of character, 'camp check'
+[Mon Mar 11 16:35:07 2002] You have entered Ruins of Sebilis.
+[Mon Mar 11 16:35:08 2002] GUILD MOTD: Lirus - I will be on vacation from March 20-31st.
+[Mon Mar 11 16:35:11 2002] Ngoc GMSAYS, 'hehe...just got th message'
+[Mon Mar 11 16:35:12 2002] Vanaelye says out of character, 'c h e f .'
+[Mon Mar 11 16:35:14 2002] You say, 'bah'
+[Mon Mar 11 16:35:15 2002] Billit cheers at Espranza.
+[Mon Mar 11 16:35:18 2002] Dextor says out of character, 'Entrance is heavily Camped'
+[Mon Mar 11 16:35:18 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Mar 11 16:35:27 2002] Droggle says out of character, 'discos'
+[Mon Mar 11 16:35:32 2002] You say, 'everyone who wants to contribute to the Cable Modem for Espranza Fund, please let me know'
+[Mon Mar 11 16:35:34 2002] Dextor lowers his head and mourns the loss of Amenalyn.
+[Mon Mar 11 16:35:38 2002] Jekar says, 'Oooo nice weapons'
+[Mon Mar 11 16:35:39 2002] Parin says out of character, 'ok, claiming ng'
+[Mon Mar 11 16:35:39 2002] Billit says, 'hehe'
+[Mon Mar 11 16:35:39 2002] Kaitlynx says out of character, 'ya think Dextor?  =)'
+[Mon Mar 11 16:35:40 2002] Ngoc GMSAYS, 'anyn got seb yet?'
+[Mon Mar 11 16:35:43 2002] Seram GMSAYS, 'can someone please port me and group me i am in karans and getting lag here'
+[Mon Mar 11 16:35:43 2002] You GMSAY, 'I am'
+[Mon Mar 11 16:35:44 2002] Deemoore says out of character, 'need one melee'
+[Mon Mar 11 16:35:45 2002] Ginni says, 'Zeb is back online'
+[Mon Mar 11 16:35:45 2002] This corpse's resurrection time will expire in 2 hour(s) 8 minute(s) 34 seconds.
+[Mon Mar 11 16:35:45 2002] This corpse will decay in 6 day(s) 23 hour(s) 8 minute(s) 34 seconds.
+[Mon Mar 11 16:35:47 2002] This corpse's resurrection time will expire in 2 hour(s) 8 minute(s) 33 seconds.
+[Mon Mar 11 16:35:47 2002] This corpse will decay in 6 day(s) 23 hour(s) 8 minute(s) 33 seconds.
+[Mon Mar 11 16:35:52 2002] You told Amenalyn, 'ready for a rez?'
+[Mon Mar 11 16:35:52 2002] Parin says, 'Good.'
+[Mon Mar 11 16:35:54 2002] Droggle says, 'lol I wish I had service in area lol, got AOL =)'
+[Mon Mar 11 16:35:56 2002] Ngoc GMSAYS, 'ok'
+[Mon Mar 11 16:36:02 2002] Amenalyn tells you, 'aye.. thank you'
+[Mon Mar 11 16:36:05 2002] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Mar 11 16:36:15 2002] Summoning billit's corpse0.
+[Mon Mar 11 16:36:16 2002] Lirus GMSAYS, 'zone'
+[Mon Mar 11 16:36:18 2002] Slayehn GMSAYS, 'Deleting Dellboy, already got res.'
+[Mon Mar 11 16:36:20 2002] Billit cheers at Espranza.
+[Mon Mar 11 16:36:33 2002] Seram GMSAYS, 'esclating nother rez for zeboy'
+[Mon Mar 11 16:36:34 2002] Billit says, 'oh no!! please do again!!'
+[Mon Mar 11 16:36:34 2002] Silke cheers at Espranza.
+[Mon Mar 11 16:36:38 2002] You were unable to restore the corpse to life, but you may have success with a later attempt.
+[Mon Mar 11 16:36:40 2002] Slayehn GMSAYS, 'Pulling Woofman'
+[Mon Mar 11 16:36:44 2002] Trevis tells you, 'we have one of our groop, Worce, still needing rez pls'
+[Mon Mar 11 16:36:47 2002] You say, 'camp to server selection and come back'
+[Mon Mar 11 16:36:48 2002] Vanaelye`s familiar says 'As you wish, oh great one.'
+[Mon Mar 11 16:36:52 2002] You say, 'you're bugged now'
+[Mon Mar 11 16:36:52 2002] Billit says, 'thanks'
+[Mon Mar 11 16:36:59 2002] Searching zones for corpse of that name....
+[Mon Mar 11 16:36:59 2002] Corpse: Worce's corpse0 in zone: sebilis
+[Mon Mar 11 16:37:00 2002] Ginni says, 'Hail, Zebot's corpse'
+[Mon Mar 11 16:37:02 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Mar 11 16:37:06 2002] Summoning worce's corpse0.
+[Mon Mar 11 16:37:06 2002] Silke tells you, 'zebot is online now if u can rezz him please '
+[Mon Mar 11 16:37:10 2002] Larsot tells the guild, 'Espranze, Zebot needs a rez in your zone.'
+[Mon Mar 11 16:37:11 2002] This corpse's resurrection time will expire in 2 hour(s) 7 minute(s) 30 seconds.
+[Mon Mar 11 16:37:11 2002] This corpse will decay in 6 day(s) 23 hour(s) 7 minute(s) 30 seconds.
+[Mon Mar 11 16:37:13 2002] Ginni tells you, 'Zebot is back online'
+[Mon Mar 11 16:37:14 2002] This corpse's resurrection time will expire in 2 hour(s) 7 minute(s) 29 seconds.
+[Mon Mar 11 16:37:14 2002] This corpse will decay in 6 day(s) 23 hour(s) 7 minute(s) 29 seconds.
+[Mon Mar 11 16:37:15 2002] You say to your guild, 'k'
+[Mon Mar 11 16:37:20 2002] Chumb says, 'Res Zebot please'
+[Mon Mar 11 16:37:21 2002] You told Worce, 'ready for a rez?'
+[Mon Mar 11 16:37:23 2002] Lancet GMSAYS, 'ZONING'
+[Mon Mar 11 16:37:24 2002] You say, 'yes yes yes'
+[Mon Mar 11 16:37:27 2002] You say, 'sec please'
+[Mon Mar 11 16:37:28 2002] Worce tells you, 'Always :)'
+[Mon Mar 11 16:37:30 2002] Slayehn GMSAYS, 'Esc Woofman, grouped getting KS'd'
+[Mon Mar 11 16:37:39 2002] Parin says, 'Need some coffee, Espranza? :)'
+[Mon Mar 11 16:37:40 2002] Vanaelye bonks Espranza on the head!
+[Mon Mar 11 16:37:40 2002] This corpse's resurrection time will expire in 2 hour(s) 13 minute(s) 37 seconds.
+[Mon Mar 11 16:37:40 2002] This corpse will decay in 6 day(s) 23 hour(s) 13 minute(s) 37 seconds.
+[Mon Mar 11 16:37:41 2002] Lirus GMSAYS, 'zone sebilis'
+[Mon Mar 11 16:37:43 2002] This corpse's resurrection time will expire in 2 hour(s) 13 minute(s) 34 seconds.
+[Mon Mar 11 16:37:43 2002] This corpse will decay in 6 day(s) 23 hour(s) 13 minute(s) 34 seconds.
+[Mon Mar 11 16:37:44 2002] Lirus GMSAYS, 'oops'
+[Mon Mar 11 16:37:46 2002] Amenalyn thanks Espranza heartily.
+[Mon Mar 11 16:37:49 2002] You told Zebot, 'ready for a rez?'
+[Mon Mar 11 16:37:50 2002] Slayehn GMSAYS, 'Pulling Apothecarius'
+[Mon Mar 11 16:37:51 2002] Larsot GMSAYS, '~~ZONE~~'
+[Mon Mar 11 16:37:55 2002] Bluudson says, 'Hail, Deemoore'
+[Mon Mar 11 16:38:01 2002] Deemoore says, 'need group?'
+[Mon Mar 11 16:38:08 2002] You tap your foot as you look at Zebot impatiently.
+[Mon Mar 11 16:38:09 2002] Amenalyn whistles at Worce appreciatively.
+[Mon Mar 11 16:38:12 2002] You turn an icy glare upon Zebot.
+[Mon Mar 11 16:38:13 2002] Worce thanks Espranza heartily.
+[Mon Mar 11 16:38:13 2002] Jekar says, 'Oh no not Blud!!!'
+[Mon Mar 11 16:38:16 2002] You yawn rudely in Zebot's face.
+[Mon Mar 11 16:38:19 2002] Kataria whistles at Worce appreciatively.
+[Mon Mar 11 16:38:20 2002] Deemoore cheers at Lirus.
+[Mon Mar 11 16:38:22 2002] You told Zebot, 'ready for a rez?'
+[Mon Mar 11 16:38:23 2002] Silae GMSAYS, 'hello friends.. need some help with the pets tonight?'
+[Mon Mar 11 16:38:26 2002] Lirus GMSAYS, 'yes!'
+[Mon Mar 11 16:38:27 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Mar 11 16:38:29 2002] Worce cheers at Espranza.
+[Mon Mar 11 16:38:30 2002] Zebot tells you, 'aye'
+[Mon Mar 11 16:38:33 2002] Lancet GMSAYS, 'has there been a server crash today?'
+[Mon Mar 11 16:38:36 2002] Seram GMSAYS, 'PLEASE!'
+[Mon Mar 11 16:38:36 2002] Lirus GMSAYS, 'no'
+[Mon Mar 11 16:38:37 2002] Slayehn GMSAYS, 'Heya Silae'
+[Mon Mar 11 16:38:38 2002] Dextor cheers at Lirus.
+[Mon Mar 11 16:38:39 2002] Amenalyn whistles at Lirus appreciatively.
+[Mon Mar 11 16:38:40 2002] Worce says, 'Hail, Lirus'
+[Mon Mar 11 16:38:40 2002] Lirus GMSAYS, 'big drop thuogh'
+[Mon Mar 11 16:38:41 2002] You say, 'Quick! The Boss! Run!'
+[Mon Mar 11 16:38:45 2002] Lirus waves.
+[Mon Mar 11 16:38:47 2002] Silae GMSAYS, 'thought so..   ok, I'm pulling.. someone come get me when they can...'
+[Mon Mar 11 16:38:50 2002] Zyryth GMSAYS, 'big drop, rez's authorized'
+[Mon Mar 11 16:38:56 2002] Silae GMSAYS, 'got silke'
+[Mon Mar 11 16:38:57 2002] You say to your guild, 'some pick up the appies please'
+[Mon Mar 11 16:39:00 2002] Seram GMSAYS, 'i still need to be grouped as well'
+[Mon Mar 11 16:39:02 2002] Swiftmoor GMSAYS, 'when I logged back on there was a couple servers down'
+[Mon Mar 11 16:39:05 2002] You say to your guild, 'call out if you have one or are going for one'
+[Mon Mar 11 16:39:08 2002] Lancet GMSAYS, 'seram you esc a res do to server crash  whats the story?'
+[Mon Mar 11 16:39:10 2002] Slayehn GMSAYS, 'Esc Apothecarius, died from LD'
+[Mon Mar 11 16:39:10 2002] Silae GMSAYS, 'there's one still down too'
+[Mon Mar 11 16:39:15 2002] froglok bok wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Mar 11 16:39:19 2002] You say to your guild, 'they must be grouped to be answering pets'
+[Mon Mar 11 16:39:20 2002] Slayehn GMSAYS, 'Pulling Paddy'
+[Mon Mar 11 16:39:20 2002] Froglok bok wizard begins to radiate.
+[Mon Mar 11 16:39:24 2002] froglok bok wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Mar 11 16:39:37 2002] You GMSAY, 'appies, please stay off the queue if you are not grouped'
+[Mon Mar 11 16:39:44 2002] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Mar 11 16:39:44 2002] froglok bok shaman begins to cast a spell. (Alacrity)
+[Mon Mar 11 16:39:48 2002] Froglok bok shaman begins to radiate.
+[Mon Mar 11 16:39:51 2002] Players in EverQuest:
+[Mon Mar 11 16:39:51 2002] ---------------------------
+[Mon Mar 11 16:39:51 2002] * Guide *[52 Disciple] Swiftmoor (Iksar) <Keepers of Dreams> ZONE: sebilis (USER PID EUUWZVJ)
+[Mon Mar 11 16:39:51 2002] * Guide *[55 Luminary] Ngoc (Ogre) <Keepers of Dreams> ZONE: wakening (USER PID FUGBDWQ)
+[Mon Mar 11 16:39:51 2002] * Guide *[52 Disciple] Larsot (Iksar) <Keepers of Dreams> ZONE: sirens (USER PID GUGBHE6)
+[Mon Mar 11 16:39:51 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: sebilis (USER PID CW1ECN5)
+[Mon Mar 11 16:39:51 2002] * Senior Guide *[ANON (57 Master)] Lancet (Iksar) ZONE: cshome (USER PID E3FU8WH)
+[Mon Mar 11 16:39:51 2002] * Apprentice Guide *[20 Shadow Knight] Silae (Dark Elf) ZONE: timorous (USER PID FR5RD3M)
+[Mon Mar 11 16:39:51 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: sebilis (USER PID B4KJ6E7)
+[Mon Mar 11 16:39:51 2002] * Apprentice Guide *[20 Monk] Seram (Human) ZONE: northkarana (USER PID HU4QRPJ)
+[Mon Mar 11 16:39:51 2002] * Apprentice Guide *[20 Warrior] Slayehn (Half Elf) ZONE: sro (USER PID D1A502Y)
+[Mon Mar 11 16:39:51 2002] There are 9 players in EverQuest.
+[Mon Mar 11 16:40:00 2002] Seram GMSAYS, 'i am off.....'
+[Mon Mar 11 16:40:05 2002] Slayehn GMSAYS, 'Esc Paddy, died from LD'
+[Mon Mar 11 16:40:05 2002] Lancet GMSAYS, 'seram you esc a res do to server crash  whats the story?'
+[Mon Mar 11 16:40:06 2002] Lirus GMSAYS, 'zone'
+[Mon Mar 11 16:40:12 2002] Parin says, 'wee an iksar :D'
+[Mon Mar 11 16:40:27 2002] You GMSAY, 'any apprentices who ARE grouped?'
+[Mon Mar 11 16:40:29 2002] Silae GMSAYS, 'ok.. '
+[Mon Mar 11 16:40:30 2002] Lancet GMSAYS, 'we do not res for LD'
+[Mon Mar 11 16:40:41 2002] Billit cheers at Espranza.
+[Mon Mar 11 16:40:42 2002] Benlaorm Scores a critical hit!(81)
+[Mon Mar 11 16:40:47 2002] Trevis says, 'whos pulling?'
+[Mon Mar 11 16:40:50 2002] Jekar says, 'Not me'
+[Mon Mar 11 16:41:00 2002] Swiftmoor waves at Espranza.
+[Mon Mar 11 16:41:11 2002] Swiftmoor GMSAYS, 'Ugg, Lodizal KS'
+[Mon Mar 11 16:41:12 2002] Slayehn GMSAYS, 'I was....Ngoc just went LD'
+[Mon Mar 11 16:41:13 2002] You shout, 'Okay. If I missed anyone, that person should petition and I or someone else will be back.'
+[Mon Mar 11 16:41:26 2002] Billit says, 'ME ME!!!'
+[Mon Mar 11 16:41:27 2002] You say, 'Hey Swifty'
+[Mon Mar 11 16:41:34 2002] Billit cheers at Espranza.
+[Mon Mar 11 16:41:36 2002] You say, 'Cleric, Rez Thyself'
+[Mon Mar 11 16:41:40 2002] You say, 'ready?'
+[Mon Mar 11 16:41:42 2002] Billit bows before Espranza.
+[Mon Mar 11 16:41:46 2002] Deemoore yells for help from behind you and to the right.
+[Mon Mar 11 16:41:48 2002] froglok jin wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Mon Mar 11 16:41:54 2002] You told Billit, 'ready?'
+[Mon Mar 11 16:42:00 2002] Billit tells you, 'yes!!!'
+[Mon Mar 11 16:42:02 2002] Lancet GMSAYS, 'seram you there?'
+[Mon Mar 11 16:42:04 2002] Silae GMSAYS, 'so what happened, was there a server crash or just Sebilis?'
+[Mon Mar 11 16:42:08 2002] Slayehn GMSAYS, 'I'll need a group too when someone gets the chance now :('
+[Mon Mar 11 16:42:10 2002] Billit cheers at Espranza.
+[Mon Mar 11 16:42:13 2002] Seram GMSAYS, 'yea waiting for a group why?'
+[Mon Mar 11 16:42:13 2002] Dextor says, 'You shall bring me a Shrubber or I shall say NI again.'
+[Mon Mar 11 16:42:15 2002] You shout, 'Okay. If I missed anyone, that person should petition and I or someone else will be back.'
+[Mon Mar 11 16:42:18 2002] Lancet GMSAYS, 'seram you esc a res do to server crash  whats the story?'
+[Mon Mar 11 16:42:22 2002] Larsot GMSAYS, 'no server crash, just a massive player drop i think'
+[Mon Mar 11 16:42:22 2002] Zyryth GMSAYS, 'Player drop, rez's are authorized'
+[Mon Mar 11 16:42:30 2002] Deemoore says, 'ooc Lupins?'
+[Mon Mar 11 16:42:33 2002] Billit says out of character, 'THANK YOU!!!!'
+[Mon Mar 11 16:42:34 2002] Lancet GMSAYS, 'ah theres the answer'
+[Mon Mar 11 16:42:37 2002] Seram GMSAYS, 'let me check log....'
+[Mon Mar 11 16:42:41 2002] Amenalyn lowers her head and mourns the loss of Dextor.
+[Mon Mar 11 16:42:43 2002] Jekar says out of character, 'thank you GM'
+[Mon Mar 11 16:42:48 2002] Deemoore says, 'anyone need lupins?'
+[Mon Mar 11 16:42:51 2002] Lancet GMSAYS, 'never mind  we were just told'
+[Mon Mar 11 16:42:51 2002] You say to your guild, 'I can't take appies, I have to leave right away'
+[Mon Mar 11 16:42:53 2002] Seram GMSAYS, 'okies ohh i thought everyone knew about that my bad sorry'
+[Mon Mar 11 16:42:53 2002] Worce says out of character, 'Thx :)'
+[Mon Mar 11 16:42:56 2002] You say to your guild, 'someone PLEASE take them.'
+[Mon Mar 11 16:42:56 2002] The spirit leaves you.
+[Mon Mar 11 16:42:59 2002] Trevis says, 'just because some moistened bink hands you a sword, that makes you my King?!?!'
+[Mon Mar 11 16:42:59 2002] You feel the spirit of Norrath enter you.
+[Mon Mar 11 16:43:09 2002] Silae GMSAYS, 'okies..'
+[Mon Mar 11 16:43:15 2002] Swiftmoor tells the guild, 'I'd get em but working on Lodizal KS'
+[Mon Mar 11 16:43:15 2002] Amenalyn keeps oogling worce until he gets dressed.
+[Mon Mar 11 16:43:28 2002] You GMSAY, 'sorry apprentices. you'll have to log because no guide is willing to group with you and I must leave.'
+[Mon Mar 11 16:43:29 2002] Larsot GMSAYS, 'reses were authorized along time ago Lancet. We all got back on about same time'
+[Mon Mar 11 16:43:29 2002] Kelyx shouts, 'camp check please.  =)'
+[Mon Mar 11 16:43:29 2002] Dextor says, 'I'm not old'
+[Mon Mar 11 16:43:31 2002] Seram GMSAYS, 'yes heh server droped almost everyone not quite a crash though because people wereleft... rezes authorized i am sitting here'
+[Mon Mar 11 16:43:33 2002] Dextor says, 'I'm 37'
+[Mon Mar 11 16:43:46 2002] Larsot tells the guild, 'leaving in ten minutes for work'
+[Mon Mar 11 16:43:46 2002] Trevis says, 'a watery tart gives you a blade and that makes you my King?!?!'
+[Mon Mar 11 16:43:48 2002] Zyryth GMSAYS, 'zone'
+[Mon Mar 11 16:43:52 2002] froglok jin wizard begins to cast a spell. (Frost Shock)
+[Mon Mar 11 16:43:55 2002] You GMSAY, 'zone'
+[Mon Mar 11 16:43:57 2002] Lancet GMSAYS, 'ok i asked lirus said no xcrash oh well im stright now'
+[Mon Mar 11 16:43:57 2002] Seram GMSAYS, 'hmm so no one will group with us?'
+[Mon Mar 11 16:43:57 2002] froglok jin wizard begins to cast a spell. (Frost Shock)
+[Mon Mar 11 16:43:59 2002] LOADING, PLEASE WAIT...
+[Mon Mar 11 16:44:19 2002] You have entered Sunset Home.
+[Mon Mar 11 16:44:20 2002] Lancet GMSAYS, 'omw'
+[Mon Mar 11 16:44:21 2002] Lirus GMSAYS, 'yes i'm coming'
+[Mon Mar 11 16:44:30 2002] Seram GMSAYS, 'thanks lirus i owe you one'
+[Mon Mar 11 16:44:35 2002] Lancet GMSAYS, 'lirus ill get them'
+[Mon Mar 11 16:44:36 2002] Slayehn GMSAYS, 'thank you Lirus'
+[Mon Mar 11 16:44:40 2002] Larsot GMSAYS, '~~ZONE~~'
+[Mon Mar 11 16:45:09 2002] You GMSAY, 'sorry I can't stay, must pick up daughter in 10 minutes and she is 15 minutes away'
+[Mon Mar 11 16:45:10 2002] Lancet GMSAYS, 'lasrot and swift why dont you each have an appy?'
+[Mon Mar 11 16:45:30 2002] Lancet GMSAYS, 'ZONING'
+[Mon Mar 11 16:45:33 2002] Silae GMSAYS, 'want me to hit the SWAT board?'
+[Mon Mar 11 16:45:36 2002] Lirus GMSAYS, 'zone'
+[Mon Mar 11 16:45:40 2002] You GMSAY, 'be back later. don't go to SWAT board.'
+[Mon Mar 11 16:45:44 2002] It will take you about 30 seconds to prepare your camp.
+[Mon Mar 11 16:45:45 2002] Slayehn GMSAYS, 'Pulling Shears'
+[Mon Mar 11 16:45:48 2002] It will take about 25 more seconds to prepare your camp.
+[Mon Mar 11 16:45:50 2002] Lancet GMSAYS, 'for what'
+[Mon Mar 11 16:45:53 2002] It will take about 20 more seconds to prepare your camp.
+[Mon Mar 11 16:45:58 2002] It will take about 15 more seconds to prepare your camp.
+[Mon Mar 11 16:45:59 2002] Zyryth GMSAYS, 'No need to hit swat message boards, they already know'
+[Mon Mar 11 16:46:01 2002] Swiftmoor GMSAYS, 'working on Lodizal KS.  '
+[Mon Mar 11 16:46:02 2002] Players in EverQuest:
+[Mon Mar 11 16:46:02 2002] ---------------------------
+[Mon Mar 11 16:46:02 2002] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: timorous (USER PID CW1ECN5)
+[Mon Mar 11 16:46:02 2002] * Apprentice Guide *[20 Monk] Seram (Human) ZONE: sro (USER PID HU4QRPJ)
+[Mon Mar 11 16:46:02 2002] * Guide *[52 Disciple] Larsot (Iksar) <Keepers of Dreams> ZONE: thedeep (USER PID GUGBHE6)
+[Mon Mar 11 16:46:02 2002] * Senior Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID B4KJ6E7)
+[Mon Mar 11 16:46:02 2002] * Guide *[52 Disciple] Swiftmoor (Iksar) <Keepers of Dreams> ZONE: sebilis (USER PID EUUWZVJ)
+[Mon Mar 11 16:46:02 2002] * Senior Guide *[57 Master] Lancet (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID E3FU8WH)
+[Mon Mar 11 16:46:02 2002] * Apprentice Guide *[20 Shadow Knight] Silae (Dark Elf) ZONE: timorous (USER PID FR5RD3M)
+[Mon Mar 11 16:46:02 2002] * Apprentice Guide *[20 Warrior] Slayehn (Half Elf) ZONE: sro (USER PID D1A502Y)
+[Mon Mar 11 16:46:02 2002] There are 8 players in EverQuest.
+[Mon Mar 11 16:46:03 2002] It will take about 10 more seconds to prepare your camp.
+[Mon Mar 11 16:46:08 2002] It will take about 5 more seconds to prepare your camp.
+[Mon Mar 11 16:46:12 2002] Swiftmoor GMSAYS, 'Zoning to a better place, maybe with gnome sandwhiches!'
+[Mon Mar 11 16:46:12 2002] Lirus GMSAYS, 'no we have plenty of guides on'

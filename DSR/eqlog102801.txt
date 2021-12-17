@@ -1,0 +1,1669 @@
+[Sun Oct 28 11:00:27 2001] Welcome to EverQuest!
+[Sun Oct 28 11:00:27 2001] You have entered Sunset Home.
+[Sun Oct 28 11:00:27 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Strange events are happening in Norrath. Things are changing, the world is dynamic, and the future is uncertain. Please be aware things are not always what they seem.
+[Sun Oct 28 11:00:28 2001] GUILD MOTD: Lirus - Many events will be run Oct 26-31. If you have a good event/quest idea please email it to me at msudnik(at)soe.sony.com
+[Sun Oct 28 11:00:30 2001] Players in EverQuest:
+[Sun Oct 28 11:00:30 2001] ---------------------------
+[Sun Oct 28 11:00:30 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sun Oct 28 11:00:30 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Dreams> ZONE: oot (USER PID CUUWSSL)
+[Sun Oct 28 11:00:30 2001] * Guide *[52 Pathfinder] Aldorin (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Sun Oct 28 11:00:30 2001] * Guide *[52 Champion] Devynn (Dark Elf) <Keepers of Dreams> ZONE: gfaydark (USER PID BUGCNEC)
+[Sun Oct 28 11:00:30 2001] * Guide *[ANON (51 Pathfinder)] Savlyn (Human) ZONE: gfaydark (USER PID EUGBAB8)
+[Sun Oct 28 11:00:30 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID HUGBLZN)
+[Sun Oct 28 11:00:30 2001] * Guide *[50 Monk] Abbadabba (Human) <Keepers of Dreams> ZONE: cshome (USER PID AU7FEU6)
+[Sun Oct 28 11:00:30 2001] * Apprentice Guide *[20 Wizard] Disden (Erudite) ZONE: grobb (USER PID BYCTG7Q)
+[Sun Oct 28 11:00:30 2001] * Apprentice Guide *[20 Enchanter] Faelinn (High Elf) ZONE: oot (USER PID AWNWZJ9)
+[Sun Oct 28 11:00:30 2001] There are 9 players in EverQuest.
+[Sun Oct 28 11:00:40 2001] You GMSAY, 'hullo all'
+[Sun Oct 28 11:00:44 2001] Players in EverQuest:
+[Sun Oct 28 11:00:44 2001] ---------------------------
+[Sun Oct 28 11:00:44 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sun Oct 28 11:00:44 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Dreams> ZONE: oot (USER PID CUUWSSL)
+[Sun Oct 28 11:00:44 2001] * Guide *[52 Pathfinder] Aldorin (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Sun Oct 28 11:00:44 2001] * Guide *[52 Champion] Devynn (Dark Elf) <Keepers of Dreams> ZONE: gfaydark (USER PID BUGCNEC)
+[Sun Oct 28 11:00:44 2001] * Guide *[ANON (51 Pathfinder)] Savlyn (Human) ZONE: gfaydark (USER PID EUGBAB8)
+[Sun Oct 28 11:00:44 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID HUGBLZN)
+[Sun Oct 28 11:00:44 2001] * Guide *[50 Monk] Abbadabba (Human) <Keepers of Dreams> ZONE: cshome (USER PID AU7FEU6)
+[Sun Oct 28 11:00:44 2001] * Apprentice Guide *[20 Wizard] Disden (Erudite) ZONE: grobb (USER PID BYCTG7Q)
+[Sun Oct 28 11:00:44 2001] * Apprentice Guide *[20 Enchanter] Faelinn (High Elf) ZONE: oot (USER PID AWNWZJ9)
+[Sun Oct 28 11:00:44 2001] There are 9 players in EverQuest.
+[Sun Oct 28 11:00:44 2001] Devynn GMSAYS, 'heya Esp'
+[Sun Oct 28 11:00:48 2001] Faelinn GMSAYS, 'Hello, dragoon Zytl..'
+[Sun Oct 28 11:00:52 2001] Faelinn GMSAYS, '>:)'
+[Sun Oct 28 11:00:52 2001] Devynn GMSAYS, 'As I walk through the veil of death, I travel onward...'
+[Sun Oct 28 11:01:02 2001] Aryante GMSAYS, 'Hiya Espranza'
+[Sun Oct 28 11:01:04 2001] You say to your guild, 'I'm not a dragoon, I'm a Dragon!'
+[Sun Oct 28 11:01:10 2001] Rimedear GMSAYS, '~-~-~ Zoning ~-~-~'
+[Sun Oct 28 11:01:17 2001] Aryante tells the guild, 'Isn't it the same thing? <giggle>'
+[Sun Oct 28 11:01:21 2001] You GMSAY, 'I'm not a dragoon, I'm a DRAGON! ROOOOOAAAAARRRRRR!'
+[Sun Oct 28 11:01:25 2001] Devynn GMSAYS, 'ROFL'
+[Sun Oct 28 11:01:30 2001] Faelinn GMSAYS, 'ahahahah'
+[Sun Oct 28 11:01:32 2001] Disden GMSAYS, 'hey Esp hehe'
+[Sun Oct 28 11:01:37 2001] You must be on the 1st menu screen to leave GM mode.
+[Sun Oct 28 11:01:46 2001] Disden GMSAYS, '*runes and takes cover*'
+[Sun Oct 28 11:02:09 2001] You GMSAY, 'there were a LOT more petitions in the queue from the guide page, it looked like you were running an event and needed someone to bash the queue'
+[Sun Oct 28 11:02:30 2001] Faelinn GMSAYS, 'deleting fresus self resolved'
+[Sun Oct 28 11:02:35 2001] Aryante GMSAYS, 'you must have seen it just as 5 petitions poped up before the appys' grabbed them, hehehe'
+[Sun Oct 28 11:02:35 2001] Players in EverQuest:
+[Sun Oct 28 11:02:36 2001] ---------------------------
+[Sun Oct 28 11:02:36 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: chardok (USER PID HUGBLZN)
+[Sun Oct 28 11:02:36 2001] * Guide *[52 Champion] Devynn (Dark Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUGCNEC)
+[Sun Oct 28 11:02:36 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sun Oct 28 11:02:36 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Dreams> ZONE: oot (USER PID CUUWSSL)
+[Sun Oct 28 11:02:36 2001] * Guide *[52 Pathfinder] Aldorin (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Sun Oct 28 11:02:36 2001] * Guide *[51 Pathfinder] Savlyn (Human) <Keepers of Dreams> ZONE: gfaydark (USER PID EUGBAB8)
+[Sun Oct 28 11:02:36 2001] * Guide *[50 Monk] Abbadabba (Human) <Keepers of Dreams> ZONE: cshome (USER PID AU7FEU6)
+[Sun Oct 28 11:02:36 2001] * Apprentice Guide *[20 Wizard] Disden (Erudite) ZONE: grobb (USER PID BYCTG7Q)
+[Sun Oct 28 11:02:36 2001] * Apprentice Guide *[20 Enchanter] Faelinn (High Elf) ZONE: oot (USER PID AWNWZJ9)
+[Sun Oct 28 11:02:36 2001] There are 9 players in EverQuest.
+[Sun Oct 28 11:03:03 2001] Devynn tells the guild, 'Who all is gonna be here for a while? I'm gonna try to get another quest together'
+[Sun Oct 28 11:03:13 2001] Savlyn tells the guild, 'I will =)'
+[Sun Oct 28 11:03:18 2001] You say to your guild, 'I can be here for awhile'
+[Sun Oct 28 11:03:18 2001] Aldorin tells the guild, 'me'
+[Sun Oct 28 11:03:35 2001] Devynn tells the guild, 'Anyone else?'
+[Sun Oct 28 11:03:41 2001] Rimedear tells the guild, 'I can be'
+[Sun Oct 28 11:04:00 2001] Devynn tells the guild, 'ok, camping to see what I can find, be back in a bit :)'
+[Sun Oct 28 11:04:26 2001] Devynn tells the guild, 'Abba, you too?'
+[Sun Oct 28 11:04:43 2001] Aryante tells the guild, 'that elemental one sounds fun :)'
+[Sun Oct 28 11:05:01 2001] Disden GMSAYS, 'do we have anyone who can speak french?'
+[Sun Oct 28 11:05:11 2001] Devynn tells the guild, 'hehe, we could do a variation of that where instead of 3 actors we have 5 or 6'
+[Sun Oct 28 11:05:21 2001] Devynn GMSAYS, 'a bit Disden'
+[Sun Oct 28 11:05:27 2001] Aryante GMSAYS, 'umm, my mom, but she's not here <giggle>'
+[Sun Oct 28 11:05:41 2001] Devynn GMSAYS, 'they need someone to speak french?'
+[Sun Oct 28 11:05:44 2001] Aldorin GMSAYS, 'Mersi can'
+[Sun Oct 28 11:05:50 2001] Devynn GMSAYS, 'she's not here tho'
+[Sun Oct 28 11:05:52 2001] You GMSAY, 'My mom, could, too! And all my relatives on her side of the family.'
+[Sun Oct 28 11:05:59 2001] Disden GMSAYS, 'this person is trying really hard but can't speak english very well'
+[Sun Oct 28 11:06:07 2001] You GMSAY, 'just do the best you can'
+[Sun Oct 28 11:06:07 2001] Disden GMSAYS, 'he is talking about having his account unlocked'
+[Sun Oct 28 11:06:17 2001] Devynn GMSAYS, 'esc it up'
+[Sun Oct 28 11:06:27 2001] Disden GMSAYS, 'I could probably understand it better in french hehe'
+[Sun Oct 28 11:06:32 2001] Devynn GMSAYS, 'lol'
+[Sun Oct 28 11:06:56 2001] You GMSAY, 'WHO keeps changing the banker in CSHome?'
+[Sun Oct 28 11:07:01 2001] You GMSAY, 'Like I don't already know'
+[Sun Oct 28 11:07:01 2001] Devynn GMSAYS, 'Lirus :P'
+[Sun Oct 28 11:07:01 2001] Disden GMSAYS, 'escalate to red or yellow?'
+[Sun Oct 28 11:07:05 2001] Devynn GMSAYS, 'yellow'
+[Sun Oct 28 11:07:06 2001] Rimedear GMSAYS, '~-~-~ Zoning ~-~-~'
+[Sun Oct 28 11:07:27 2001] Aryante GMSAYS, 'why do we change the banker? hehehe'
+[Sun Oct 28 11:07:33 2001] Disden GMSAYS, 'esacalating Lescsorxiste to yellow, no append because I couldn't understand any of it'
+[Sun Oct 28 11:07:39 2001] Devynn GMSAYS, 'Lirus is bored...hehe'
+[Sun Oct 28 11:07:39 2001] You GMSAY, 'she was the only halfling NPC in CSHome'
+[Sun Oct 28 11:08:07 2001] Faelinn GMSAYS, 'pulling fadebe'
+[Sun Oct 28 11:08:09 2001] You GMSAY, 'now there are none'
+[Sun Oct 28 11:08:19 2001] Faelinn GMSAYS, 'ok whos pulling without announcing :)'
+[Sun Oct 28 11:08:23 2001] Aldorin GMSAYS, 'I am'
+[Sun Oct 28 11:08:27 2001] Devynn GMSAYS, 'hehe'
+[Sun Oct 28 11:08:29 2001] Aryante GMSAYS, 'it wasn't me :)'
+[Sun Oct 28 11:08:30 2001] Players in EverQuest:
+[Sun Oct 28 11:08:30 2001] ---------------------------
+[Sun Oct 28 11:08:30 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: burningwood (USER PID HUGBLZN)
+[Sun Oct 28 11:08:30 2001] * Guide *[52 Champion] Devynn (Dark Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUGCNEC)
+[Sun Oct 28 11:08:30 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sun Oct 28 11:08:30 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Dreams> ZONE: oot (USER PID CUUWSSL)
+[Sun Oct 28 11:08:30 2001] * Guide *[52 Pathfinder] Aldorin (Half Elf) <Keepers of Dreams> ZONE: cshome (USER PID BUUXHKW)
+[Sun Oct 28 11:08:30 2001] * Guide *[51 Pathfinder] Savlyn (Human) <Keepers of Dreams> ZONE: gfaydark (USER PID EUGBAB8)
+[Sun Oct 28 11:08:31 2001] * Guide *[50 Monk] Abbadabba (Human) <Keepers of Dreams> ZONE: cshome (USER PID AU7FEU6)
+[Sun Oct 28 11:08:31 2001] * Apprentice Guide *[20 Wizard] Disden (Erudite) ZONE: grobb (USER PID BYCTG7Q)
+[Sun Oct 28 11:08:31 2001] * Apprentice Guide *[20 Enchanter] Faelinn (High Elf) ZONE: oot (USER PID AWNWZJ9)
+[Sun Oct 28 11:08:31 2001] There are 9 players in EverQuest.
+[Sun Oct 28 11:08:32 2001] Faelinn GMSAYS, 'oh (shuts up promptly)'
+[Sun Oct 28 11:08:32 2001] Disden GMSAYS, 'wasn't me I didn't have it'
+[Sun Oct 28 11:08:41 2001] Disden GMSAYS, 'taking nianee'
+[Sun Oct 28 11:08:48 2001] Aldorin GMSAYS, '<note badname> Healingbarbie - EWAE2CQ - um, like, totally bad name'
+[Sun Oct 28 11:08:55 2001] You say, 'Abbadabba Do the Dew!'
+[Sun Oct 28 11:08:55 2001] Faelinn GMSAYS, 'haah'
+[Sun Oct 28 11:09:48 2001] Your strength fades.
+[Sun Oct 28 11:09:48 2001] Aryante GMSAYS, 'healingbarbi? that's different'
+[Sun Oct 28 11:09:50 2001] You GMSAY, 'so, anyone think I should include a little section on "How to post your shift report" in the new training materials?'
+[Sun Oct 28 11:10:05 2001] Aldorin GMSAYS, 'I thought that was covered?'
+[Sun Oct 28 11:10:06 2001] Your dexterity fades.
+[Sun Oct 28 11:10:18 2001] You GMSAY, 'not yet anyway'
+[Sun Oct 28 11:10:22 2001] Disden GMSAYS, 'would be useful, first time I had to do it, I was finding it difficult'
+[Sun Oct 28 11:10:23 2001] You feel the spirit of Z surround you.
+[Sun Oct 28 11:10:24 2001] Aldorin shouts, 'GNOME COMET'
+[Sun Oct 28 11:10:25 2001] Aldorin's image shimmers.
+[Sun Oct 28 11:10:30 2001] Espranza saved.
+[Sun Oct 28 11:10:34 2001] You feel the spirit of Z surround you.
+[Sun Oct 28 11:10:34 2001] You feel the spirit of Z surround you.
+[Sun Oct 28 11:10:35 2001] You feel the spirit of Z surround you.
+[Sun Oct 28 11:10:36 2001] Disden GMSAYS, 'maybe even a tutorial on how to use EQGSR'
+[Sun Oct 28 11:10:36 2001] You feel the spirit of Z surround you.
+[Sun Oct 28 11:10:37 2001] You feel the spirit of Z surround you.
+[Sun Oct 28 11:10:38 2001] You feel the spirit of Z surround you.
+[Sun Oct 28 11:10:38 2001] You feel the spirit of Z surround you.
+[Sun Oct 28 11:10:39 2001] You feel the spirit of Z surround you.
+[Sun Oct 28 11:10:40 2001] You feel the spirit of Z surround you.
+[Sun Oct 28 11:10:41 2001] Aryante GMSAYS, 'they do seem to be having difficulty with it huh?'
+[Sun Oct 28 11:10:45 2001] You GMSAY, 'EQGSR comes with one'
+[Sun Oct 28 11:11:02 2001] Faelinn GMSAYS, 'same here, not to mention my files for eqgsr were messed up thus leading to my confusion (yes i used the patch too) had to have Rah rewrite my cfg for me to get it to work properly'
+[Sun Oct 28 11:11:04 2001] Disden GMSAYS, 'oh *feels like an idiot*'
+[Sun Oct 28 11:11:09 2001] You GMSAY, 'well, I'll write up something and send it off to the seniors for approval'
+[Sun Oct 28 11:11:20 2001] Aldorin GMSAYS, 'I'm still using the EQGSR and template from a year ago when I first joined ):'
+[Sun Oct 28 11:11:41 2001] Faelinn GMSAYS, 'and its still not pulling my notes :)'
+[Sun Oct 28 11:11:42 2001] You GMSAY, 'If I could have gotten EQGSR I wouldn't have had to write my own'
+[Sun Oct 28 11:11:43 2001] Aldorin GMSAYS, 'still works.  although it does sign my name as "Aldorin <Keepers of Morell Thule>" which was the old guildtag.  oh well'
+[Sun Oct 28 11:12:02 2001] You GMSAY, 'of course, MY version is 11K'
+[Sun Oct 28 11:12:09 2001] You GMSAY, 'EQGSR is megabytes'
+[Sun Oct 28 11:12:14 2001] Devynn GMSAYS, 'leave Les up there, camping out, ICQing Mersi while I look at the quest stuff'
+[Sun Oct 28 11:12:25 2001] Faelinn GMSAYS, 'afk a few'
+[Sun Oct 28 11:14:18 2001] Ugloc Drinkbringa says 'Welcome to my shop Espranza, you would probably find a Wristguards of Humility handy'
+[Sun Oct 28 11:14:24 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Tunic of the Wanderer'.
+[Sun Oct 28 11:14:26 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Sleeves of the Wanderer'.
+[Sun Oct 28 11:14:31 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Armbands of Humility'.
+[Sun Oct 28 11:14:34 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Cap of the Wanderer'.
+[Sun Oct 28 11:14:39 2001] Ugloc Drinkbringa tells you, 'I'll give you absolutely nothing for the Guide Pack.'
+[Sun Oct 28 11:14:40 2001] You no longer have a target.
+[Sun Oct 28 11:14:41 2001] You no longer have a target.
+[Sun Oct 28 11:14:44 2001] Espranza saved.
+[Sun Oct 28 11:14:45 2001] Banker Yalon tells you, 'Welcome to my bank!'
+[Sun Oct 28 11:14:46 2001] You no longer have a target.
+[Sun Oct 28 11:14:46 2001] Banker Yalon tells you, 'Come back soon!'
+[Sun Oct 28 11:14:49 2001] Ugloc Drinkbringa says 'Hello there Espranza, how about a nice Leggings of Humility?'
+[Sun Oct 28 11:14:49 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Tunic of the Wanderer'.
+[Sun Oct 28 11:14:53 2001] You give 0 money to Ugloc Drinkbringa.
+[Sun Oct 28 11:14:54 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Leggings of the Wanderer'.
+[Sun Oct 28 11:14:55 2001] You give 0 money to Ugloc Drinkbringa.
+[Sun Oct 28 11:14:56 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Sleeves of the Wanderer'.
+[Sun Oct 28 11:14:58 2001] You give 0 money to Ugloc Drinkbringa.
+[Sun Oct 28 11:14:59 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Gloves of the Wanderer'.
+[Sun Oct 28 11:15:00 2001] You give 0 money to Ugloc Drinkbringa.
+[Sun Oct 28 11:15:01 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Wristguard of the Wanderer'.
+[Sun Oct 28 11:15:03 2001] You give 0 money to Ugloc Drinkbringa.
+[Sun Oct 28 11:15:04 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Boots of the Wanderer'.
+[Sun Oct 28 11:15:06 2001] You give 0 money to Ugloc Drinkbringa.
+[Sun Oct 28 11:15:06 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Cap of the Wanderer'.
+[Sun Oct 28 11:15:08 2001] You give 0 money to Ugloc Drinkbringa.
+[Sun Oct 28 11:15:09 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Chest Wraps of Humility'.
+[Sun Oct 28 11:15:21 2001] Ugloc Drinkbringa tells you, 'That'll be 0 money for the Sandals of Humility'.
+[Sun Oct 28 11:15:23 2001] You no longer have a target.
+[Sun Oct 28 11:15:26 2001] Espranza saved.
+[Sun Oct 28 11:15:30 2001] Aryante GMSAYS, 'my eqgsr seems to work ok, though I can't make it do really fancy stuffs.'
+[Sun Oct 28 11:15:57 2001] You no longer have a target.
+[Sun Oct 28 11:15:57 2001] You no longer have a target.
+[Sun Oct 28 11:16:02 2001] Aryante GMSAYS, '*Gathers the light around her and crosses the world!*'
+[Sun Oct 28 11:16:13 2001] You feel different.
+[Sun Oct 28 11:16:21 2001] Your illusion fades.
+[Sun Oct 28 11:17:05 2001] Disden GMSAYS, 'lag is terrible'
+[Sun Oct 28 11:17:31 2001] Rimedear GMSAYS, 'Oh, that Lesc** pet needs French?'
+[Sun Oct 28 11:17:39 2001] Disden GMSAYS, 'yeah'
+[Sun Oct 28 11:17:42 2001] You GMSAY, 'oui'
+[Sun Oct 28 11:17:47 2001] Aryante GMSAYS, 'yup, so you do french Rimedear?'
+[Sun Oct 28 11:17:48 2001] Aldorin GMSAYS, 'hmmm someone petitioned about intentional training, guess who they petitioned about'
+[Sun Oct 28 11:17:57 2001] Aldorin GMSAYS, 'this was in DL'
+[Sun Oct 28 11:18:00 2001] Disden GMSAYS, 'his name is the exorcist spelt a little differently in french ya know?'
+[Sun Oct 28 11:18:15 2001] Aldorin GMSAYS, 'yeah someone note it as a badname, it should be changed'
+[Sun Oct 28 11:18:35 2001] Aryante GMSAYS, 'if we all put it in our report, will it get changed faster?'
+[Sun Oct 28 11:18:43 2001] Disden GMSAYS, 'can you spell it for me *can't remember how* and I'll note it'
+[Sun Oct 28 11:18:47 2001] Aldorin GMSAYS, 'probably not :)'
+[Sun Oct 28 11:19:40 2001] Aldorin GMSAYS, 'they're petitioning about *gorenaire* training KC :)'
+[Sun Oct 28 11:19:46 2001] Faelinn GMSAYS, 'lol'
+[Sun Oct 28 11:19:56 2001] Aldorin GMSAYS, 'zoning'
+[Sun Oct 28 11:20:11 2001] Savlyn GMSAYS, 'Zoning'
+[Sun Oct 28 11:20:26 2001] Aryante GMSAYS, 'gorenaire is a familiar name for some reason'
+[Sun Oct 28 11:20:59 2001] Disden GMSAYS, 'anyone free to help me on a pet a mo?'
+[Sun Oct 28 11:20:59 2001] Faelinn GMSAYS, 'named dragon in DL'
+[Sun Oct 28 11:21:19 2001] Disden GMSAYS, 'nevermind'
+[Sun Oct 28 11:21:53 2001] Abbadabba GMSAYS, 'Guys i am so sorry i have been afk for about 5 mins my GF was chewing me out...'
+[Sun Oct 28 11:21:58 2001] Rimedear GMSAYS, 'Sorry, very little french, tres petite'
+[Sun Oct 28 11:22:09 2001] Abbadabba blushes at Espranza.
+[Sun Oct 28 11:22:09 2001] You wave at Abbadabba.
+[Sun Oct 28 11:22:11 2001] Abbadabba begins to cast a spell. (Contraction)
+[Sun Oct 28 11:22:13 2001] Abbadabba shrinks.
+[Sun Oct 28 11:22:22 2001] You say, 'makes it easier to see you'
+[Sun Oct 28 11:22:23 2001] Abbadabba says, 'Like the look?.'
+[Sun Oct 28 11:22:31 2001] Aldorin GMSAYS, 'what was she mad about?'
+[Sun Oct 28 11:22:31 2001] Faelinn GMSAYS, 'be back in a bit :) gotta go take advantage of the cheap sunday gas prices :)'
+[Sun Oct 28 11:22:31 2001] Aryante GMSAYS, 'ah, ya. I met him the other day on my play server. (ok, I know everyone says itsa she, but IT didn't have any dragon eggs to hand to my player, so she's convinced it's a HE, but anyway) that's why the name is familiar'
+[Sun Oct 28 11:22:43 2001] You say, 'not the green'
+[Sun Oct 28 11:22:44 2001] Abbadabba is surrounded by a brief aura.
+[Sun Oct 28 11:22:47 2001] It begins to rain.
+[Sun Oct 28 11:22:54 2001] Abbadabba says, 'ok what should i chane it gto'
+[Sun Oct 28 11:23:16 2001] You say, 'leather'
+[Sun Oct 28 11:23:23 2001] You say, 'talk to drinkbringa'
+[Sun Oct 28 11:23:28 2001] Ugloc Drinkbringa says 'Greetings Abbadabba you look like you could use a Tunic of the Wanderer'
+[Sun Oct 28 11:23:49 2001] You say, 'the first armors are velious leather'
+[Sun Oct 28 11:24:47 2001] You say, 'I like it with the velious ones on'
+[Sun Oct 28 11:24:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Oct 28 11:24:55 2001] USER TEXT: please spawn stormfeather because i want my eyepatch, thx
+[Sun Oct 28 11:24:56 2001] Players in EverQuest:
+[Sun Oct 28 11:24:56 2001] ---------------------------
+[Sun Oct 28 11:24:56 2001] [60 Assassin] Tempmagmol (Dwarf) <Fury's Edge> ZONE: iceclad (USER PID FZK17A3)
+[Sun Oct 28 11:24:56 2001] There is 1 player in EverQuest.
+[Sun Oct 28 11:24:56 2001] Abbadabba says, 'that one'
+[Sun Oct 28 11:25:05 2001] Abbadabba says, 'Watch brb'
+[Sun Oct 28 11:25:06 2001] You say, 'yeah'
+[Sun Oct 28 11:25:34 2001] Espranza saved.
+[Sun Oct 28 11:25:36 2001] You told Tempmagmol, 'Hail, Tempmagmol! Guide Espranza here. I do apologize, but we are unable to spawn any mobs whatsoever....'
+[Sun Oct 28 11:25:41 2001] DELETING THIS PETITION
+[Sun Oct 28 11:25:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Oct 28 11:25:44 2001] USER TEXT: i need help getting my corpse in the ocean
+[Sun Oct 28 11:25:44 2001] Players in EverQuest:
+[Sun Oct 28 11:25:44 2001] ---------------------------
+[Sun Oct 28 11:25:44 2001] [30 Bard] Yatim (Half Elf) <Elven Elite> ZONE: overthere (USER PID FYZU862)
+[Sun Oct 28 11:25:44 2001] There is 1 player in EverQuest.
+[Sun Oct 28 11:25:47 2001] Tempmagmol tells you, 'lol'
+[Sun Oct 28 11:25:47 2001] Searching zones for corpse of that name....
+[Sun Oct 28 11:25:48 2001] Corpse: Yatim's corpse0 in zone: timorous
+[Sun Oct 28 11:25:53 2001] Rimedear GMSAYS, 'I must go and twist some big bolts into my house, there just aren't enough antennas on it yet'
+[Sun Oct 28 11:25:57 2001] Tempmagmol tells you, 'i just wanted someone to feel my pain'
+[Sun Oct 28 11:25:58 2001] You told Tempmagmol, 'Well, I can spawn Dragoon Zytl, I guess....'
+[Sun Oct 28 11:26:10 2001] Tempmagmol tells you, 'oooo please do!'
+[Sun Oct 28 11:26:16 2001] Abbadabba tells the guild, 'there any quest going on?..'
+[Sun Oct 28 11:26:20 2001] You told Tempmagmol, 'He will, unfortunately, hunt you down and kill you'
+[Sun Oct 28 11:26:22 2001] You say to your guild, 'I wish'
+[Sun Oct 28 11:26:27 2001] Tempmagmol tells you, 'haha'
+[Sun Oct 28 11:26:29 2001] Rimedear GMSAYS, 'Or is Devynn off to get another quest?'
+[Sun Oct 28 11:26:31 2001] Abbadabba tells the guild, 'i need a quest hehe'
+[Sun Oct 28 11:26:42 2001] Aryante tells the guild, 'not yet, Dev said he'd try and get another one quickly'
+[Sun Oct 28 11:26:48 2001] You say to your guild, 'I spent SIX HOURS training appies and mentoring while you guys had fun!'
+[Sun Oct 28 11:26:48 2001] Aldorin tells the guild, 'I'm about to embark on KitchenQuest III: The Wrath of Cereal'
+[Sun Oct 28 11:26:58 2001] You told Tempmagmol, 'be well and good luck :)'
+[Sun Oct 28 11:27:03 2001] You GMSAY, 'zone'
+[Sun Oct 28 11:27:04 2001] Tempmagmol tells you, 'thanksd'
+[Sun Oct 28 11:27:07 2001] LOADING, PLEASE WAIT...
+[Sun Oct 28 11:27:52 2001] You have entered Timorous Deep.
+[Sun Oct 28 11:27:55 2001] Aldorin GMSAYS, 'hehee gore is on a massive rampage'
+[Sun Oct 28 11:27:59 2001] Teleporting to yatim's corpse0.
+[Sun Oct 28 11:28:00 2001] Savlyn tells the guild, 'Aryante you can do the next one I'll take the Appys'
+[Sun Oct 28 11:28:03 2001] Rimedear GMSAYS, 'Buzzing people as a pixie was a bit of fun'
+[Sun Oct 28 11:28:08 2001] Your feet leave the ground.
+[Sun Oct 28 11:28:19 2001] Aldorin GMSAYS, 'afk 1 min'
+[Sun Oct 28 11:28:23 2001] Abbadabba tells the guild, 'how did pixies go?.'
+[Sun Oct 28 11:28:28 2001] Aryante GMSAYS, 'speaking of Appys' did they all disapear or what? hehe'
+[Sun Oct 28 11:28:33 2001] Players in EverQuest:
+[Sun Oct 28 11:28:33 2001] ---------------------------
+[Sun Oct 28 11:28:33 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: timorous (USER PID AUGBQH4)
+[Sun Oct 28 11:28:33 2001] * Guide *[51 Pathfinder] Savlyn (Human) <Keepers of Dreams> ZONE: cshome (USER PID EUGBAB8)
+[Sun Oct 28 11:28:33 2001] * Guide *[52 Pathfinder] Aldorin (Half Elf) <Keepers of Dreams> ZONE: dreadlands (USER PID BUUXHKW)
+[Sun Oct 28 11:28:33 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Dreams> ZONE: timorous (USER PID CUUWSSL)
+[Sun Oct 28 11:28:33 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID HUGBLZN)
+[Sun Oct 28 11:28:33 2001] * Guide *[50 Monk] Abbadabba (Human) <Keepers of Dreams> ZONE: cshome (USER PID AU7FEU6)
+[Sun Oct 28 11:28:33 2001] There are 6 players in EverQuest.
+[Sun Oct 28 11:28:45 2001] You GMSAY, 'Fae logged for a few'
+[Sun Oct 28 11:28:57 2001] Sismelnok shouts, 'Oh that was mean'
+[Sun Oct 28 11:29:02 2001] USER TEXT: i need help getting my corpse in the ocean
+[Sun Oct 28 11:29:14 2001] Sismelnok shouts, 'Im a good Dark Elf'
+[Sun Oct 28 11:29:17 2001] You told Yatim, 'Hail, Yatim! Guide Espranza here. How did your corpse come to be in the ocean?'
+[Sun Oct 28 11:29:24 2001] a Vicious Raptor scowls at you, ready to attack -- it appears to be quite formidable.
+[Sun Oct 28 11:29:30 2001] Rimedear GMSAYS, 'We kept them up pretty late I think'
+[Sun Oct 28 11:29:31 2001] a Raptor scowls at you, ready to attack -- it appears to be quite formidable.
+[Sun Oct 28 11:29:42 2001] Yatim tells you, 'i was swimming back to ogre island after getting my corpse and a raptor attacked ('
+[Sun Oct 28 11:29:55 2001] Devynn tells the guild, 'back, Mersi isn't home to speak to this guy'
+[Sun Oct 28 11:29:56 2001] Rimedear GMSAYS, 'Those first few dozen are mind-numbingly difficult when you are new'
+[Sun Oct 28 11:29:57 2001] You told Yatim, 'oh, yuk'
+[Sun Oct 28 11:30:07 2001] Glairb Stonebelly shouts 'Too bad, you missed da Bloated Belly.  It be back soon, though! 
+[Sun Oct 28 11:30:09 2001] Xiarti shouts, 'Hey there Espranza, you cute little halfling. How are things going?'
+[Sun Oct 28 11:30:10 2001] Aldorin tells the guild, 'ooh I get to be the air elemental.  back in a sec'
+[Sun Oct 28 11:30:10 2001] Abbadabba tells the guild, 'QUEST MASTA ! ! '
+[Sun Oct 28 11:30:21 2001] Disden GMSAYS, 'Im back'
+[Sun Oct 28 11:30:24 2001] You say to your guild, 'huh? no quest for me?'
+[Sun Oct 28 11:30:25 2001] Xaxo shouts, 'Can someone give me the loc of the iceberg?'
+[Sun Oct 28 11:30:26 2001] Devynn tells the guild, 'ok, Savlyn, Espranza, Aldorin, Aryante, and Rimedear, check your email'
+[Sun Oct 28 11:30:29 2001] You say to your guild, '/frown'
+[Sun Oct 28 11:30:31 2001] You say to your guild, 'OH!'
+[Sun Oct 28 11:30:36 2001] Disden GMSAYS, 're-taking Nianee'
+[Sun Oct 28 11:30:38 2001] Abbadabba tells the guild, 'Ahhh no quest for me ! !!'
+[Sun Oct 28 11:30:40 2001] Devynn tells the guild, 'I've emailed NDCS to get character copies'
+[Sun Oct 28 11:30:47 2001] Devynn tells the guild, 'sorry Abba, only needs 5 actors :('
+[Sun Oct 28 11:30:47 2001] Yatim tells you, 'then i saw the closest island but couldnt make it'
+[Sun Oct 28 11:30:53 2001] Abbadabba tells the guild, 'ahhh /cry'
+[Sun Oct 28 11:30:54 2001] Disden GMSAYS, 'abba can you come and get me?'
+[Sun Oct 28 11:31:07 2001] Abbadabba GMSAYS, 'Sure...'
+[Sun Oct 28 11:31:07 2001] You told Yatim, 'Yes, I see your body there, being guarded by a raptor...'
+[Sun Oct 28 11:31:08 2001] Aryante tells the guild, 'ok, so I go check my email and it will tell me what to do?'
+[Sun Oct 28 11:31:12 2001] Yatim tells you, 'hehe'
+[Sun Oct 28 11:31:19 2001] Devynn tells the guild, 'it will have the quest description'
+[Sun Oct 28 11:31:25 2001] Adeus says out of character, 'Doh, Savlyn the Savvy rezzed me somewhere where i dont know where i am. /boggle'
+[Sun Oct 28 11:31:28 2001] You told Yatim, 'Alas, I cannot retrieve it for you... it is in the water, though, and as long as you don't touch land you should be able to get it'
+[Sun Oct 28 11:31:28 2001] Devynn tells the guild, 'and your part'
+[Sun Oct 28 11:31:39 2001] Aryante tells the guild, 'ok, I'm heading out to check my email, brb'
+[Sun Oct 28 11:31:40 2001] Abbadabba tells the guild, 'you gonna run a quest again later.. i havent done one today hehe'
+[Sun Oct 28 11:31:52 2001] Disden GMSAYS, 'hahaha I have played for 1 day 1 hour and 1 minute'
+[Sun Oct 28 11:31:55 2001] Devynn tells the guild, 'hehe, Abba, I've got one more to run for later'
+[Sun Oct 28 11:31:59 2001] Yatim tells you, 'k'
+[Sun Oct 28 11:32:01 2001] You no longer have a target.
+[Sun Oct 28 11:32:01 2001] Devynn tells the guild, 'probably be after Lirus gets here tho'
+[Sun Oct 28 11:32:02 2001] Yatim tells you, 'thanx anyway'
+[Sun Oct 28 11:32:07 2001] Raulor shouts, 'I H8 RIDING THE RUDDER'
+[Sun Oct 28 11:32:18 2001] You told Yatim, 'be well and good luck!'
+[Sun Oct 28 11:32:18 2001] Abbadabba tells the guild, 'ACK that is a long time from now'
+[Sun Oct 28 11:32:24 2001] Devynn tells the guild, 'it'll take up to an hour to get this one started'
+[Sun Oct 28 11:32:25 2001] Adeus shouts, 'I hate people who incorporate numbers with there words :)'
+[Sun Oct 28 11:32:35 2001] Devynn tells the guild, 'by the time it's over, Lirus will be here'
+[Sun Oct 28 11:32:37 2001] Raulor shouts, ':('
+[Sun Oct 28 11:32:38 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Oct 28 11:32:42 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Oct 28 11:32:46 2001] Rimedear GMSAYS, 'Hey!  I have email!  Looks like mediaone's email server got fixed about 6AM'
+[Sun Oct 28 11:32:47 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Oct 28 11:32:50 2001] Aldorin GMSAYS, 'back'
+[Sun Oct 28 11:32:52 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Oct 28 11:32:56 2001] Phyco shouts, 'is the Great O cammped?????'
+[Sun Oct 28 11:32:57 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Oct 28 11:33:01 2001] Xaxo shouts, 'I hate people that use symbols to make frowny faces'
+[Sun Oct 28 11:33:01 2001] Hobby says out of character, 'yes'
+[Sun Oct 28 11:33:02 2001] It will take about 5 more seconds to prepare your camp.
+[Sun Oct 28 11:33:04 2001] Devynn tells the guild, 'lol Rime, ok, camping out to keep watch on my email'
+[Sun Oct 28 11:38:24 2001] Savlyn tells the guild, 'Rimefdear you have a part in the quest'
+[Sun Oct 28 11:38:24 2001] Adeus says out of character, 'The Fire pot room is in the center of a Wizard Spire in the middle of the water.'
+[Sun Oct 28 11:38:24 2001] Aldorin tells the guild, 'it isn't?'
+[Sun Oct 28 11:38:24 2001] Adeus says out of character, 'The very SW corner of the zone/'
+[Sun Oct 28 11:38:24 2001] Rimedear tells the guild, 'Yep!  I be a Fire Elemental'
+[Sun Oct 28 11:38:24 2001] Xiarti says out of character, 'Doh 8)'
+[Sun Oct 28 11:38:28 2001] You have entered Timorous Deep.
+[Sun Oct 28 11:38:28 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Strange events are happening in Norrath. Things are changing, the world is dynamic, and the future is uncertain. Please be aware things are not always what they seem.
+[Sun Oct 28 11:38:29 2001] GUILD MOTD: Lirus - Many events will be run Oct 26-31. If you have a good event/quest idea please email it to me at msudnik(at)soe.sony.com
+[Sun Oct 28 11:38:33 2001] Savlyn tells the guild, 'Sweet I'm a water Elemental'
+[Sun Oct 28 11:38:33 2001] Marde GMSAYS, 'greetings all, can I hijack a mentor when someone has the time?'
+[Sun Oct 28 11:38:35 2001] You GMSAY, 'back'
+[Sun Oct 28 11:38:39 2001] You GMSAY, 'I'm a gnome'
+[Sun Oct 28 11:38:44 2001] You GMSAY, 'hiya Marde!'
+[Sun Oct 28 11:38:50 2001] Abbadabba GMSAYS, 'say the words Marde..'
+[Sun Oct 28 11:38:51 2001] You feel the spirit of Norrath enter you.
+[Sun Oct 28 11:38:58 2001] Savlyn tells the guild, 'This your Idea Espranza?'
+[Sun Oct 28 11:38:58 2001] Disden GMSAYS, 'hey Marde pleasure to meet you'
+[Sun Oct 28 11:39:00 2001] Marde GMSAYS, 'zone? :P'
+[Sun Oct 28 11:39:05 2001] Abbadabba GMSAYS, 'yes.. hehe'
+[Sun Oct 28 11:39:05 2001] Savlyn GMSAYS, 'Great little quest'
+[Sun Oct 28 11:39:15 2001] You GMSAY, 'anahl nathrak, uthvas vetta, dochyel dienday'
+[Sun Oct 28 11:40:19 2001] Rimedear tells the guild, 'This one good, lots of players in LOIO, I'm gonna get lynched as a bad thing'
+[Sun Oct 28 11:40:33 2001] You say to your guild, 'me want you dead'
+[Sun Oct 28 11:40:42 2001] Rimedear tells the guild, 'But they'll have to catch me first, muahhahahaha'
+[Sun Oct 28 11:40:44 2001] Disden GMSAYS, '<note bug> Nianee (EZU3S7X) took her level 19 enchanter Arrina, to Erudin to transfer her things to her new enchanter Nianee.  She dropped all the items in the 3rd room back in the inn, in erudin, near the library.'
+[Sun Oct 28 11:41:00 2001] You GMSAY, 'what's the bug?'
+[Sun Oct 28 11:41:03 2001] Aldorin GMSAYS, 'that doesn't sound like a bug'
+[Sun Oct 28 11:41:22 2001] You GMSAY, 'sounds like she dropped the item'
+[Sun Oct 28 11:41:37 2001] You GMSAY, 'or did she expect them to still be there when she swapped characters?'
+[Sun Oct 28 11:41:41 2001] Marde GMSAYS, 'pulling Chalderac'
+[Sun Oct 28 11:41:43 2001] Disden GMSAYS, '<note bug> at the time there was no one else in zone and when she came back as her new character she tried picking up the objects and as she did all the backpacks that were on the ground vanished'
+[Sun Oct 28 11:41:46 2001] Disden GMSAYS, 'I hadn't finished and just ran out of space'
+[Sun Oct 28 11:41:51 2001] Rimedear tells the guild, 'I found out how much fun Crushbone can be when running around trying NOT to be killed... jump out windows, lead them into mobs, climb trees and cast from above, lots of fun'
+[Sun Oct 28 11:41:54 2001] You GMSAY, 'not a bug'
+[Sun Oct 28 11:42:12 2001] You GMSAY, 'dropped items can be deleted at any moment'
+[Sun Oct 28 11:42:30 2001] Savlyn GMSAYS, 'Zoning'
+[Sun Oct 28 11:42:31 2001] Abbadabba GMSAYS, 'Traviling Onwrad ! ! ** ZONE**'
+[Sun Oct 28 11:42:52 2001] Rimedear GMSAYS, 'Let her down easy Disden, she lost em'
+[Sun Oct 28 11:42:53 2001] Aryante GMSAYS, 'Ok, I'm back, read the email and stuffs. '
+[Sun Oct 28 11:43:01 2001] Adeus says out of character, 'Loc for the Fire Pots is: Neg12238 pos4405'
+[Sun Oct 28 11:43:08 2001] Yatim says out of character, 'adeus!'
+[Sun Oct 28 11:43:10 2001] Xiarti says out of character, 'Ahh, thank you! Close by then 8)'
+[Sun Oct 28 11:43:19 2001] Disden GMSAYS, 'okay no problem.  I asked her to re-pet when lirus was on and gave her, the hours is that okay?'
+[Sun Oct 28 11:43:23 2001] Adeus says out of character, 'You made it Yatim!'
+[Sun Oct 28 11:43:24 2001] You GMSAY, 'no'
+[Sun Oct 28 11:43:26 2001] Aryante GMSAYS, '*Gathers the light around her and crosses the world!*'
+[Sun Oct 28 11:43:33 2001] You GMSAY, 'Lirus won't reimburse'
+[Sun Oct 28 11:43:49 2001] Delathan shouts, 'sometimes i think it faster to swim to ogre island than wait for this oasis boat to move'
+[Sun Oct 28 11:43:52 2001] Adeus says out of character, 'You'll see a Wizard Spire in the middle of the water, swim to the bottom and you'll see a square hole, swim into there and you'll hit the room'
+[Sun Oct 28 11:43:57 2001] You GMSAY, 'Just let her know we can't reimburse for deliberately dropped items.'
+[Sun Oct 28 11:44:02 2001] Xiarti says out of character, 'Thank you 8)'
+[Sun Oct 28 11:44:02 2001] Adeus says out of character, 'Each pot represents the land it TP's you to.'
+[Sun Oct 28 11:44:05 2001] Delathan says out of character, 'is it all underwater or something?'
+[Sun Oct 28 11:44:13 2001] Aldorin GMSAYS, 'DROPPED == GONE'
+[Sun Oct 28 11:44:17 2001] Disden GMSAYS, 'okay'
+[Sun Oct 28 11:44:20 2001] Adeus says out of character, 'when you swim into the Hole it drops you into a dry room.'
+[Sun Oct 28 11:44:36 2001] You can't use that command right now...
+[Sun Oct 28 11:44:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:36 2001] You can't use that command right now...
+[Sun Oct 28 11:44:37 2001] You can't use that command right now...
+[Sun Oct 28 11:44:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:37 2001] You can't use that command right now...
+[Sun Oct 28 11:44:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:38 2001] You can't use that command right now...
+[Sun Oct 28 11:44:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:38 2001] You can't use that command right now...
+[Sun Oct 28 11:44:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:39 2001] You can't use that command right now...
+[Sun Oct 28 11:44:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:40 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:40 2001] Adeus says out of character, 'don't ask me how that works :)'
+[Sun Oct 28 11:44:40 2001] You can't use that command right now...
+[Sun Oct 28 11:44:40 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:41 2001] You can't use that command right now...
+[Sun Oct 28 11:44:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:42 2001] You can't use that command right now...
+[Sun Oct 28 11:44:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:42 2001] You can't use that command right now...
+[Sun Oct 28 11:44:43 2001] You can't use that command right now...
+[Sun Oct 28 11:44:43 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:43 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:43 2001] You can't use that command right now...
+[Sun Oct 28 11:44:43 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:44 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:44 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:44 2001] Hobby says out of character, 'what lvl is raptor island-anyone know?'
+[Sun Oct 28 11:44:44 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:44 2001] You can't use that command right now...
+[Sun Oct 28 11:44:45 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:45 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:45 2001] You can't use that command right now...
+[Sun Oct 28 11:44:45 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:46 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:46 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:46 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:46 2001] You can't use that command right now...
+[Sun Oct 28 11:44:46 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:47 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:47 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:47 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:47 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:48 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:48 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:48 2001] You can't use that command right now...
+[Sun Oct 28 11:44:49 2001] You can't use that command right now...
+[Sun Oct 28 11:44:49 2001] You can't use that command right now...
+[Sun Oct 28 11:44:49 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:49 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:49 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:50 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:50 2001] You can't use that command right now...
+[Sun Oct 28 11:44:50 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:50 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:51 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:51 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:51 2001] You feel the spirit of Norrath enter you.
+[Sun Oct 28 11:44:51 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:52 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:52 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:52 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:52 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:53 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:53 2001] You can't use that command right now...
+[Sun Oct 28 11:44:53 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:53 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:53 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:54 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:54 2001] You can't use that command right now...
+[Sun Oct 28 11:44:54 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:54 2001] You can't use that command right now...
+[Sun Oct 28 11:44:55 2001] You can't use that command right now...
+[Sun Oct 28 11:44:55 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:55 2001] You can't use that command right now...
+[Sun Oct 28 11:44:55 2001] Your feet leave the ground.
+[Sun Oct 28 11:44:55 2001] Your feet leave the ground.
+[Sun Oct 28 11:45:10 2001] Xaxo says out of character, 'Does the Maiden's Voyage stop somewhere in Tim Deep before reaching Butcherblock again?'
+[Sun Oct 28 11:45:13 2001] Aryante tells the guild, 'now we wait for the characters to be copied over, right?'
+[Sun Oct 28 11:45:25 2001] You GMSAY, 'Bwuahahahaha! I rule!'
+[Sun Oct 28 11:45:25 2001] Adeus says out of character, 'Yes.'
+[Sun Oct 28 11:45:33 2001] Aldorin tells the guild, 'bard invis songs dont work *at all* without an instrument?'
+[Sun Oct 28 11:45:37 2001] You say to your guild, 'correct'
+[Sun Oct 28 11:45:46 2001] You say to your guild, 'wind instrument required'
+[Sun Oct 28 11:45:53 2001] Adeus says out of character, 'It stops, and a shuddle comes over from the Elven Outpost and brings you to the Elven Outpost.'
+[Sun Oct 28 11:45:57 2001] Your feet leave the ground.
+[Sun Oct 28 11:45:58 2001] Your feet leave the ground.
+[Sun Oct 28 11:45:58 2001] You can't use that command right now...
+[Sun Oct 28 11:45:58 2001] Your feet leave the ground.
+[Sun Oct 28 11:45:58 2001] Your feet leave the ground.
+[Sun Oct 28 11:45:58 2001] Your feet leave the ground.
+[Sun Oct 28 11:45:59 2001] Your feet leave the ground.
+[Sun Oct 28 11:45:59 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:00 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:00 2001] You can't use that command right now...
+[Sun Oct 28 11:46:00 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:01 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:01 2001] You can't use that command right now...
+[Sun Oct 28 11:46:01 2001] You can't use that command right now...
+[Sun Oct 28 11:46:01 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:05 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:05 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:05 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:07 2001] You can't use that command right now...
+[Sun Oct 28 11:46:07 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:07 2001] You can't use that command right now...
+[Sun Oct 28 11:46:08 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:08 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:08 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:09 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:09 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:09 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:10 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:10 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:11 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:12 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:12 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:13 2001] You can't use that command right now...
+[Sun Oct 28 11:46:13 2001] You can't use that command right now...
+[Sun Oct 28 11:46:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:46:14 2001] Yatim shouts, 'anyone camping raptor island?'
+[Sun Oct 28 11:46:15 2001] Marde GMSAYS, 'talking to a player reporting missing items, was looting a corpse as she got rezzed and the item she was looting vanished'
+[Sun Oct 28 11:46:27 2001] Adeus shouts, 'We can't take Raptor island :)'
+[Sun Oct 28 11:46:28 2001] Aldorin GMSAYS, 'that happened to a guildmate of mine'
+[Sun Oct 28 11:46:32 2001] Spiritwolfe shouts, 'Camp Check'
+[Sun Oct 28 11:46:36 2001] Aldorin GMSAYS, 'lost his Cloak of Flame'
+[Sun Oct 28 11:46:42 2001] You GMSAY, 'clerics should ask people if they are ready before rezzing'
+[Sun Oct 28 11:46:45 2001] Yatim shouts, 'i know if someone is campin it i can get my corpse'
+[Sun Oct 28 11:46:46 2001] Adeus shouts, 'Fire Pots are camped ;P'
+[Sun Oct 28 11:46:46 2001] Saeaddilzz says out of character, 'ring'
+[Sun Oct 28 11:46:46 2001] Hobby says out of character, 'oowomp'
+[Sun Oct 28 11:46:48 2001] Marde GMSAYS, 'wasnt on the corpse or in the inventory, that a clean loss due to bug?'
+[Sun Oct 28 11:46:50 2001] Aryante GMSAYS, 'ouch :('
+[Sun Oct 28 11:46:50 2001] Aldorin GMSAYS, 'GM Jaydrox reimbursed it though'
+[Sun Oct 28 11:46:57 2001] Adeus shouts, 'Just use the Invis song :)'
+[Sun Oct 28 11:47:01 2001] You GMSAY, 'I dunno, Marde - esc to red'
+[Sun Oct 28 11:47:06 2001] Yatim shouts, 'i need my corpse to do invis'
+[Sun Oct 28 11:47:06 2001] Devynn tells the guild, 'Ok, got the email about the characters being copied :)'
+[Sun Oct 28 11:47:12 2001] Adeus shouts, 'Oh...'
+[Sun Oct 28 11:47:14 2001] Siempre says out of character, 'hulking golra'
+[Sun Oct 28 11:47:19 2001] You say to your guild, 'who is gonna do the becomes?'
+[Sun Oct 28 11:47:20 2001] Xiarti says out of character, 'Cant you drag it?'
+[Sun Oct 28 11:47:22 2001] Delathan says out of character, 'if you at ogre island i can give you invis'
+[Sun Oct 28 11:47:26 2001] You feel the spirit of Norrath enter you.
+[Sun Oct 28 11:47:26 2001] You feel the spirit of Norrath enter you.
+[Sun Oct 28 11:47:27 2001] You feel the spirit of Norrath enter you.
+[Sun Oct 28 11:47:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:29 2001] You can't use that command right now...
+[Sun Oct 28 11:47:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:29 2001] You can't use that command right now...
+[Sun Oct 28 11:47:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:30 2001] You can't use that command right now...
+[Sun Oct 28 11:47:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:31 2001] Devynn tells the guild, 'I'll get swat once I'm sure the characters are done'
+[Sun Oct 28 11:47:31 2001] You can't use that command right now...
+[Sun Oct 28 11:47:31 2001] You can't use that command right now...
+[Sun Oct 28 11:47:31 2001] You can't use that command right now...
+[Sun Oct 28 11:47:32 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:32 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:32 2001] You can't use that command right now...
+[Sun Oct 28 11:47:32 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:33 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:33 2001] Disden GMSAYS, 'deleting Nianee resolved, let her down easy and informed that we couldn't reinburse due to deliberatly dropped items'
+[Sun Oct 28 11:47:33 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:33 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:33 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:33 2001] Yatim shouts, 'its a very long swim from ogre'
+[Sun Oct 28 11:47:34 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:34 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:34 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:34 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:34 2001] Rimedear GMSAYS, 'Yea!!  Loogging to become a wizard fire elemental'
+[Sun Oct 28 11:47:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:38 2001] Aryante tells the guild, 'wheee! I get to be a rock!'
+[Sun Oct 28 11:47:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:39 2001] Disden GMSAYS, 'taking linor'
+[Sun Oct 28 11:47:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:40 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:40 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:43 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:44 2001] Aldorin GMSAYS, 'Rime wait'
+[Sun Oct 28 11:47:44 2001] Your feet leave the ground.
+[Sun Oct 28 11:47:45 2001] Devynn tells the guild, 'check and see if you have them please'
+[Sun Oct 28 11:47:53 2001] Aldorin GMSAYS, 'wait till a swat GM is here to do the becomes, I think'
+[Sun Oct 28 11:47:55 2001] Xaxo says out of character, 'Argh! This stupid boat isn't moving'
+[Sun Oct 28 11:48:00 2001] Xiarti says out of character, 'Hehehe '
+[Sun Oct 28 11:48:01 2001] The spirit leaves you.
+[Sun Oct 28 11:48:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:03 2001] You can't use that command right now...
+[Sun Oct 28 11:48:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:03 2001] Yatim shouts, 'and the raptors are pretty nasty'
+[Sun Oct 28 11:48:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:04 2001] You can't use that command right now...
+[Sun Oct 28 11:48:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:05 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:05 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:05 2001] You can't use that command right now...
+[Sun Oct 28 11:48:05 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:07 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:07 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:07 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:07 2001] You can't use that command right now...
+[Sun Oct 28 11:48:08 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:08 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:08 2001] You can't use that command right now...
+[Sun Oct 28 11:48:08 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:09 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:09 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:09 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:10 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:10 2001] You can't use that command right now...
+[Sun Oct 28 11:48:10 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:10 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:11 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:11 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:11 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:11 2001] You can't use that command right now...
+[Sun Oct 28 11:48:12 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:12 2001] Rimedear GMSAYS, 'Well, why make HIM wait?'
+[Sun Oct 28 11:48:12 2001] Delathan shouts, 'to OT'
+[Sun Oct 28 11:48:12 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:12 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:13 2001] You can't use that command right now...
+[Sun Oct 28 11:48:14 2001] You can't use that command right now...
+[Sun Oct 28 11:48:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:14 2001] You can't use that command right now...
+[Sun Oct 28 11:48:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:15 2001] Devynn tells the guild, 'I can get a swat senior, several online on ICQ'
+[Sun Oct 28 11:48:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:16 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:16 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:16 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:48:20 2001] Aldorin tells the guild, 'ok'
+[Sun Oct 28 11:48:27 2001] Aldorin GMSAYS, 'ok I'll go check my character, brb'
+[Sun Oct 28 11:48:29 2001] Rimedear GMSAYS, 'Logging'
+[Sun Oct 28 11:48:30 2001] Aryante tells the guild, 'you want us to see if they are there and then come back as ourselves? or just go see and come back on as them?'
+[Sun Oct 28 11:48:31 2001] Espranza saved.
+[Sun Oct 28 11:48:36 2001] Devynn tells the guild, 'come back as them'
+[Sun Oct 28 11:48:48 2001] Savlyn GMSAYS, 'Zoning'
+[Sun Oct 28 11:48:54 2001] Aldorin tells the guild, 'camping'
+[Sun Oct 28 11:49:00 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Oct 28 11:49:04 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Oct 28 11:49:04 2001] You GMSAY, 'camping'
+[Sun Oct 28 11:49:06 2001] Aldorin GMSAYS, 'camping, coming back as... air elemental :)'
+[Sun Oct 28 11:49:09 2001] Aryante tells the guild, 'camping, be back short <giggle>'
+[Sun Oct 28 11:49:09 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Oct 28 11:49:14 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Oct 28 11:49:15 2001] Devynn tells the guild, 'hehe'
+[Sun Oct 28 11:49:19 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Oct 28 11:49:24 2001] It will take about 5 more seconds to prepare your camp.
+[Sun Oct 28 11:50:12 2001] Devynn tells the guild, 'it's kinda stupid the system they have, I email them, they email the gm'
+[Sun Oct 28 11:50:12 2001] Xiarti says out of character, 'Anyone know if any of the Firepots go to Kunark? 8)'
+[Sun Oct 28 11:50:12 2001] Devynn tells the guild, 'don't know why my email just doesn't go straight to the gms'
+[Sun Oct 28 11:50:14 2001] You have entered Timorous Deep.
+[Sun Oct 28 11:50:14 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Strange events are happening in Norrath. Things are changing, the world is dynamic, and the future is uncertain. Please be aware things are not always what they seem.
+[Sun Oct 28 11:50:14 2001] GUILD MOTD: Lirus - Many events will be run Oct 26-31. If you have a good event/quest idea please email it to me at msudnik(at)soe.sony.com
+[Sun Oct 28 11:50:20 2001] Lilye says out of character, 'yes'
+[Sun Oct 28 11:50:23 2001] You GMSAY, 'nope, not there'
+[Sun Oct 28 11:50:27 2001] Xiarti says out of character, 'Do you know..which? 8)'
+[Sun Oct 28 11:50:29 2001] Devynn GMSAYS, 'should be soon'
+[Sun Oct 28 11:50:35 2001] You can't use that command right now...
+[Sun Oct 28 11:50:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:37 2001] You can't use that command right now...
+[Sun Oct 28 11:50:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:39 2001] You can't use that command right now...
+[Sun Oct 28 11:50:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:40 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:40 2001] You can't use that command right now...
+[Sun Oct 28 11:50:40 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:40 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:43 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:43 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:43 2001] Lilye says out of character, 'nope'
+[Sun Oct 28 11:50:44 2001] You can't use that command right now...
+[Sun Oct 28 11:50:44 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:44 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:44 2001] Disden GMSAYS, 'I hate lag grrr'
+[Sun Oct 28 11:50:46 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:47 2001] Disden GMSAYS, 'anyway'
+[Sun Oct 28 11:50:57 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:57 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:57 2001] You can't use that command right now...
+[Sun Oct 28 11:50:57 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:58 2001] You can't use that command right now...
+[Sun Oct 28 11:50:58 2001] You can't use that command right now...
+[Sun Oct 28 11:50:58 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:58 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:58 2001] You can't use that command right now...
+[Sun Oct 28 11:50:58 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:59 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:59 2001] You can't use that command right now...
+[Sun Oct 28 11:50:59 2001] Your feet leave the ground.
+[Sun Oct 28 11:50:59 2001] You can't use that command right now...
+[Sun Oct 28 11:50:59 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:00 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:00 2001] You can't use that command right now...
+[Sun Oct 28 11:51:00 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:01 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:01 2001] You can't use that command right now...
+[Sun Oct 28 11:51:01 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:01 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:02 2001] You can't use that command right now...
+[Sun Oct 28 11:51:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:02 2001] Disden GMSAYS, 'If am playing on GMT time, say 6pm wednesday, and then log at 9pm'
+[Sun Oct 28 11:51:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:03 2001] You can't use that command right now...
+[Sun Oct 28 11:51:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:04 2001] You can't use that command right now...
+[Sun Oct 28 11:51:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:04 2001] You can't use that command right now...
+[Sun Oct 28 11:51:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:05 2001] You can't use that command right now...
+[Sun Oct 28 11:51:05 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:05 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:06 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:07 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:07 2001] Rimedear tells the guild, 'Same reason doctors don't answer their own phones'
+[Sun Oct 28 11:51:07 2001] You can't use that command right now...
+[Sun Oct 28 11:51:07 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:07 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:08 2001] You can't use that command right now...
+[Sun Oct 28 11:51:08 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:08 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:08 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:09 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:09 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:09 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:09 2001] Disden GMSAYS, 'that would be wednesdays shift'
+[Sun Oct 28 11:51:09 2001] You can't use that command right now...
+[Sun Oct 28 11:51:10 2001] You can't use that command right now...
+[Sun Oct 28 11:51:10 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:10 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:10 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:11 2001] You can't use that command right now...
+[Sun Oct 28 11:51:11 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:11 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:11 2001] You can't use that command right now...
+[Sun Oct 28 11:51:11 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:12 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:12 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:12 2001] You can't use that command right now...
+[Sun Oct 28 11:51:12 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:13 2001] You can't use that command right now...
+[Sun Oct 28 11:51:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:14 2001] You can't use that command right now...
+[Sun Oct 28 11:51:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:15 2001] Xiarti says out of character, 'Oh! They use the torches from each city!'
+[Sun Oct 28 11:51:15 2001] You can't use that command right now...
+[Sun Oct 28 11:51:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:16 2001] You can't use that command right now...
+[Sun Oct 28 11:51:16 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:16 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:16 2001] You can't use that command right now...
+[Sun Oct 28 11:51:16 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:17 2001] You can't use that command right now...
+[Sun Oct 28 11:51:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:17 2001] You can't use that command right now...
+[Sun Oct 28 11:51:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:18 2001] You can't use that command right now...
+[Sun Oct 28 11:51:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:19 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:19 2001] You can't use that command right now...
+[Sun Oct 28 11:51:19 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:19 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:20 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:20 2001] You can't use that command right now...
+[Sun Oct 28 11:51:20 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:20 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:21 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:21 2001] You can't use that command right now...
+[Sun Oct 28 11:51:21 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:21 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:22 2001] You can't use that command right now...
+[Sun Oct 28 11:51:22 2001] You can't use that command right now...
+[Sun Oct 28 11:51:22 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:22 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:22 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:23 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:23 2001] You can't use that command right now...
+[Sun Oct 28 11:51:23 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:23 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:24 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:24 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:24 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:24 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:24 2001] You can't use that command right now...
+[Sun Oct 28 11:51:25 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:25 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:25 2001] You can't use that command right now...
+[Sun Oct 28 11:51:25 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:26 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:26 2001] You can't use that command right now...
+[Sun Oct 28 11:51:26 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:26 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:27 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:27 2001] You can't use that command right now...
+[Sun Oct 28 11:51:27 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:27 2001] You can't use that command right now...
+[Sun Oct 28 11:51:27 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:28 2001] You can't use that command right now...
+[Sun Oct 28 11:51:28 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:28 2001] You can't use that command right now...
+[Sun Oct 28 11:51:28 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:30 2001] You can't use that command right now...
+[Sun Oct 28 11:51:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:30 2001] You can't use that command right now...
+[Sun Oct 28 11:51:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:31 2001] You can't use that command right now...
+[Sun Oct 28 11:51:31 2001] You can't use that command right now...
+[Sun Oct 28 11:51:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:31 2001] You can't use that command right now...
+[Sun Oct 28 11:51:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:32 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:32 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:33 2001] Your feet leave the ground.
+[Sun Oct 28 11:51:36 2001] Disden GMSAYS, 'but if I logged on at say 1am on thursday where its still wednesday PST time, then log at 3am thursday'
+[Sun Oct 28 11:51:37 2001] Devynn GMSAYS, 'ok, what's the question tho?'
+[Sun Oct 28 11:51:41 2001] Marde GMSAYS, 'escalating Chalderac - Red - missing items'
+[Sun Oct 28 11:51:44 2001] You GMSAY, 'all times on pacific time, all days pacific days'
+[Sun Oct 28 11:51:57 2001] Disden GMSAYS, 'would that still be wednesday'
+[Sun Oct 28 11:51:59 2001] Marde GMSAYS, 'pulling Kimoto'
+[Sun Oct 28 11:52:04 2001] Devynn GMSAYS, 'yes, all times are pacific times in refrence to the guide program'
+[Sun Oct 28 11:52:04 2001] You GMSAY, 'yes'
+[Sun Oct 28 11:52:13 2001] You can't use that command right now...
+[Sun Oct 28 11:52:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:14 2001] You can't use that command right now...
+[Sun Oct 28 11:52:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:14 2001] You can't use that command right now...
+[Sun Oct 28 11:52:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:15 2001] You can't use that command right now...
+[Sun Oct 28 11:52:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:15 2001] You can't use that command right now...
+[Sun Oct 28 11:52:16 2001] You can't use that command right now...
+[Sun Oct 28 11:52:16 2001] You can't use that command right now...
+[Sun Oct 28 11:52:16 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:16 2001] You can't use that command right now...
+[Sun Oct 28 11:52:16 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:17 2001] You can't use that command right now...
+[Sun Oct 28 11:52:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:18 2001] You can't use that command right now...
+[Sun Oct 28 11:52:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:18 2001] You can't use that command right now...
+[Sun Oct 28 11:52:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:19 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:19 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:19 2001] You can't use that command right now...
+[Sun Oct 28 11:52:19 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:19 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:20 2001] You can't use that command right now...
+[Sun Oct 28 11:52:20 2001] Rimedear GMSAYS, 'Doesn't California have this extra day between Tuesday and Wednesday for Television purposes?'
+[Sun Oct 28 11:52:20 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:20 2001] You can't use that command right now...
+[Sun Oct 28 11:52:20 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:21 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:21 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:21 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:21 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:22 2001] You can't use that command right now...
+[Sun Oct 28 11:52:22 2001] You can't use that command right now...
+[Sun Oct 28 11:52:22 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:22 2001] You can't use that command right now...
+[Sun Oct 28 11:52:22 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:22 2001] Disden GMSAYS, 'thats cool thanks'
+[Sun Oct 28 11:52:23 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:23 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:23 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:23 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:24 2001] You can't use that command right now...
+[Sun Oct 28 11:52:24 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:24 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:24 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:25 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:25 2001] Devynn GMSAYS, 'LOL'
+[Sun Oct 28 11:52:25 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:25 2001] You can't use that command right now...
+[Sun Oct 28 11:52:25 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:26 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:26 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:26 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:26 2001] Faelinn GMSAYS, 'you know ill tell ya, if gas stations, having aspirin and everything else imaginable, would start carrying Pamprin, the world would be a better place.'
+[Sun Oct 28 11:52:26 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:27 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:27 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:27 2001] Marde GMSAYS, 'escalating Kimoto, bad language report'
+[Sun Oct 28 11:52:27 2001] You can't use that command right now...
+[Sun Oct 28 11:52:27 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:27 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:28 2001] You can't use that command right now...
+[Sun Oct 28 11:52:28 2001] You can't use that command right now...
+[Sun Oct 28 11:52:28 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:28 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:30 2001] You can't use that command right now...
+[Sun Oct 28 11:52:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:31 2001] Aldorin GMSAYS, 'waaaah!  I don't have my quest character'
+[Sun Oct 28 11:52:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:32 2001] You can't use that command right now...
+[Sun Oct 28 11:52:32 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:32 2001] You can't use that command right now...
+[Sun Oct 28 11:52:32 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:32 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:33 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:33 2001] You can't use that command right now...
+[Sun Oct 28 11:52:33 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:33 2001] You can't use that command right now...
+[Sun Oct 28 11:52:33 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:34 2001] You can't use that command right now...
+[Sun Oct 28 11:52:34 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:34 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:35 2001] You can't use that command right now...
+[Sun Oct 28 11:52:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:36 2001] You can't use that command right now...
+[Sun Oct 28 11:52:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:36 2001] You can't use that command right now...
+[Sun Oct 28 11:52:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:37 2001] You can't use that command right now...
+[Sun Oct 28 11:52:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:37 2001] You can't use that command right now...
+[Sun Oct 28 11:52:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:38 2001] You can't use that command right now...
+[Sun Oct 28 11:52:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:52:41 2001] Xaxo shouts, 'Here I go, swimming across the ocean! I hope the fishies don't like the taste of gnome!'
+[Sun Oct 28 11:52:51 2001] Devynn GMSAYS, '*comfort Aldorin*'
+[Sun Oct 28 11:52:58 2001] Devynn GMSAYS, 'Give it time Aldorin'
+[Sun Oct 28 11:53:01 2001] You GMSAY, 'they carry ibuprofen though'
+[Sun Oct 28 11:53:02 2001] Aldorin GMSAYS, 'where's my air elemental? :('
+[Sun Oct 28 11:53:04 2001] Aldorin GMSAYS, 'ok'
+[Sun Oct 28 11:53:11 2001] Krewnic shouts, 'make that wood elf to as i will be joining u'
+[Sun Oct 28 11:53:12 2001] Faelinn GMSAYS, 'true'
+[Sun Oct 28 11:53:19 2001] Devynn GMSAYS, 'NDCS emails me to tell me they emailed the GM to get the copies done'
+[Sun Oct 28 11:53:22 2001] Aldorin GMSAYS, 'what is pamprin?'
+[Sun Oct 28 11:53:31 2001] You GMSAY, 'heh...'
+[Sun Oct 28 11:53:36 2001] Devynn GMSAYS, 'lol Aldorin'
+[Sun Oct 28 11:53:43 2001] Aldorin bonks Espranza on the head!
+[Sun Oct 28 11:53:44 2001] You say, 'almost made it to the top of the spear'
+[Sun Oct 28 11:53:44 2001] Faelinn GMSAYS, 'its a pain reliever .. of sorts.. made for.. women'
+[Sun Oct 28 11:53:59 2001] Disden GMSAYS, 'okay thats an answer I didn't want to know'
+[Sun Oct 28 11:54:01 2001] Aldorin floats above the ground.
+[Sun Oct 28 11:54:02 2001] You say, 'I can get on his head easily enough'
+[Sun Oct 28 11:54:04 2001] Faelinn GMSAYS, 'haah'
+[Sun Oct 28 11:54:11 2001] You can't use that command right now...
+[Sun Oct 28 11:54:11 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:11 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:11 2001] You can't use that command right now...
+[Sun Oct 28 11:54:11 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:12 2001] You can't use that command right now...
+[Sun Oct 28 11:54:12 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:12 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:13 2001] You can't use that command right now...
+[Sun Oct 28 11:54:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:13 2001] You can't use that command right now...
+[Sun Oct 28 11:54:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:13 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:14 2001] You can't use that command right now...
+[Sun Oct 28 11:54:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:14 2001] You can't use that command right now...
+[Sun Oct 28 11:54:14 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:15 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:16 2001] You can't use that command right now...
+[Sun Oct 28 11:54:16 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:16 2001] You can't use that command right now...
+[Sun Oct 28 11:54:16 2001] You can't use that command right now...
+[Sun Oct 28 11:54:16 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:17 2001] You can't use that command right now...
+[Sun Oct 28 11:54:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:17 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:18 2001] Faelinn tells you, 'you busy? want to be my happy mentor?'
+[Sun Oct 28 11:54:18 2001] You can't use that command right now...
+[Sun Oct 28 11:54:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:18 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:19 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:19 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:19 2001] You can't use that command right now...
+[Sun Oct 28 11:54:19 2001] You feel the spirit of Norrath enter you.
+[Sun Oct 28 11:54:20 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:21 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:21 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:22 2001] You can't use that command right now...
+[Sun Oct 28 11:54:22 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:22 2001] You can't use that command right now...
+[Sun Oct 28 11:54:22 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:23 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:29 2001] You told Faelinn, 'sure, say zone!'
+[Sun Oct 28 11:54:32 2001] Faelinn GMSAYS, 'Omg that was broken when I got here! *ZONE*'
+[Sun Oct 28 11:54:36 2001] Summoning Faelinn.
+[Sun Oct 28 11:54:37 2001] You can't use that command right now...
+[Sun Oct 28 11:54:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:38 2001] You can't use that command right now...
+[Sun Oct 28 11:54:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:38 2001] You can't use that command right now...
+[Sun Oct 28 11:54:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:39 2001] You can't use that command right now...
+[Sun Oct 28 11:54:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:39 2001] Aldorin floats above the ground.
+[Sun Oct 28 11:54:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:39 2001] You can't use that command right now...
+[Sun Oct 28 11:54:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:40 2001] You can't use that command right now...
+[Sun Oct 28 11:54:40 2001] You can't use that command right now...
+[Sun Oct 28 11:54:40 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:40 2001] Aldorin floats above the ground.
+[Sun Oct 28 11:54:40 2001] You can't use that command right now...
+[Sun Oct 28 11:54:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:41 2001] You can't use that command right now...
+[Sun Oct 28 11:54:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:41 2001] Aldorin floats above the ground.
+[Sun Oct 28 11:54:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:42 2001] Aldorin floats above the ground.
+[Sun Oct 28 11:54:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:43 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:43 2001] You can't use that command right now...
+[Sun Oct 28 11:54:43 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:44 2001] You can't use that command right now...
+[Sun Oct 28 11:54:44 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:44 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:45 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:45 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:45 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:46 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:46 2001] You can't use that command right now...
+[Sun Oct 28 11:54:46 2001] You can't use that command right now...
+[Sun Oct 28 11:54:46 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:47 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:47 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:47 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:48 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:48 2001] You can't use that command right now...
+[Sun Oct 28 11:54:48 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:48 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:49 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:49 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:49 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:49 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:50 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:50 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:50 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:54 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:55 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:55 2001] You can't use that command right now...
+[Sun Oct 28 11:54:55 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:55 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:55 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:56 2001] You can't use that command right now...
+[Sun Oct 28 11:54:56 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:56 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:56 2001] You can't use that command right now...
+[Sun Oct 28 11:54:56 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:57 2001] You can't use that command right now...
+[Sun Oct 28 11:54:57 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:57 2001] You can't use that command right now...
+[Sun Oct 28 11:54:57 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:58 2001] You can't use that command right now...
+[Sun Oct 28 11:54:58 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:58 2001] You can't use that command right now...
+[Sun Oct 28 11:54:58 2001] You can't use that command right now...
+[Sun Oct 28 11:54:59 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:59 2001] You can't use that command right now...
+[Sun Oct 28 11:54:59 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:59 2001] Your feet leave the ground.
+[Sun Oct 28 11:54:59 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:00 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:00 2001] You can't use that command right now...
+[Sun Oct 28 11:55:00 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:00 2001] You can't use that command right now...
+[Sun Oct 28 11:55:00 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:01 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:01 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:01 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:01 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:02 2001] You can't use that command right now...
+[Sun Oct 28 11:55:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:02 2001] You can't use that command right now...
+[Sun Oct 28 11:55:02 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:03 2001] You can't use that command right now...
+[Sun Oct 28 11:55:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:03 2001] You can't use that command right now...
+[Sun Oct 28 11:55:03 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:03 2001] You can't use that command right now...
+[Sun Oct 28 11:55:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:04 2001] Devynn GMSAYS, 'No it wasn't Faelinn, I saw you break it! :P'
+[Sun Oct 28 11:55:04 2001] Your feet leave the ground.
+[Sun Oct 28 11:55:18 2001] Disden GMSAYS, 'checking in linor Ux1 not replying to tells'
+[Sun Oct 28 11:55:20 2001] You invite Faelinn to join your group.
+[Sun Oct 28 11:55:35 2001] You have formed the group.
+[Sun Oct 28 11:55:37 2001] Aldorin GMSAYS, 'I got killed faster last night than I ever have before, in 54 levels'
+[Sun Oct 28 11:55:40 2001] Summoning Faelinn.
+[Sun Oct 28 11:55:41 2001] Disden GMSAYS, 'okay Im gonna log for awhile this lag is driving me crazy'
+[Sun Oct 28 11:55:45 2001] Marde GMSAYS, 'pulling Lingo'
+[Sun Oct 28 11:55:48 2001] Faelinn tells the group, 'holy graphic errors'
+[Sun Oct 28 11:55:52 2001] You tell your party, 'trying to get to the top of the spear'
+[Sun Oct 28 11:56:02 2001] Disden GMSAYS, 'couldn't have been faster than when my play char was in everfrost'
+[Sun Oct 28 11:56:04 2001] Aldorin GMSAYS, 'someone pulled a train PAST me which I didn't see, then my groupmate's like, "zone", so I run to the zone (this is in VL), I come around the corner, I see some statues, spiders.. and WHAM, dead in one hit'
+[Sun Oct 28 11:56:05 2001] Faelinn tells the group, 'im stuck lol'
+[Sun Oct 28 11:56:06 2001] Disden GMSAYS, 'err permafrost'
+[Sun Oct 28 11:56:09 2001] Marde GMSAYS, 'escalating Lingo, case of disruption'
+[Sun Oct 28 11:56:09 2001] Summoning Faelinn.
+[Sun Oct 28 11:56:16 2001] Glairb Stonebelly shouts 'Too bad, you missed da Bloated Belly.  It be back soon, though! 
+[Sun Oct 28 11:56:29 2001] You can't use that command right now...
+[Sun Oct 28 11:56:29 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:29 2001] You can't use that command right now...
+[Sun Oct 28 11:56:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:30 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:31 2001] You can't use that command right now...
+[Sun Oct 28 11:56:31 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:32 2001] Disden GMSAYS, 'it was like ahh whats in this room LOADING PLEASE WAIT...'
+[Sun Oct 28 11:56:32 2001] You can't use that command right now...
+[Sun Oct 28 11:56:32 2001] You can't use that command right now...
+[Sun Oct 28 11:56:32 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:33 2001] You can't use that command right now...
+[Sun Oct 28 11:56:33 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:33 2001] Marde GMSAYS, 'oh and a badname...'
+[Sun Oct 28 11:56:33 2001] You can't use that command right now...
+[Sun Oct 28 11:56:33 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:34 2001] You can't use that command right now...
+[Sun Oct 28 11:56:34 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:34 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:34 2001] You can't use that command right now...
+[Sun Oct 28 11:56:35 2001] You can't use that command right now...
+[Sun Oct 28 11:56:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:35 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:36 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:37 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:38 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:39 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:40 2001] You can't use that command right now...
+[Sun Oct 28 11:56:40 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:40 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:40 2001] You can't use that command right now...
+[Sun Oct 28 11:56:41 2001] You can't use that command right now...
+[Sun Oct 28 11:56:41 2001] You can't use that command right now...
+[Sun Oct 28 11:56:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:41 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:42 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:43 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:43 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:44 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:44 2001] Your feet leave the ground.
+[Sun Oct 28 11:56:44 2001] Disden GMSAYS, 'walked into Voxs room :o('
+[Sun Oct 28 11:56:48 2001] Faelinn says, 'lol'
+[Sun Oct 28 11:56:49 2001] Aldorin GMSAYS, 'lol'
+[Sun Oct 28 11:57:01 2001] Sivy GMSAYS, 'Hello All !'
+[Sun Oct 28 11:57:05 2001] Disden GMSAYS, 'anyway see you all in a few'
+[Sun Oct 28 11:57:07 2001] Faelinn GMSAYS, 'wb sivy :)'
+[Sun Oct 28 11:57:11 2001] Faelinn GMSAYS, 'bye dis'
+[Sun Oct 28 11:57:11 2001] Marde GMSAYS, '<note badname> Iamhardwoody'
+[Sun Oct 28 11:57:17 2001] Abbadabba GMSAYS, 'Traviling Onwrad ! ! ** ZONE**'
+[Sun Oct 28 11:57:17 2001] Faelinn GMSAYS, 'omg lol'
+[Sun Oct 28 11:57:18 2001] Aryante tells the guild, 'WB Sivy'
+[Sun Oct 28 11:57:22 2001] You GMSAY, 'say zone, sivy'
+[Sun Oct 28 11:57:25 2001] Faelinn GMSAYS, 'need to grab player ID too marde'
+[Sun Oct 28 11:57:27 2001] Sivy GMSAYS, 'zone'
+[Sun Oct 28 11:57:28 2001] Aryante GMSAYS, 'wb Sivy'
+[Sun Oct 28 11:57:30 2001] Summoning sivy.
+[Sun Oct 28 11:57:41 2001] Faelinn GMSAYS, 'pulling zardio'
+[Sun Oct 28 11:57:52 2001] Aryante tells the guild, 'will help if I get that in the right spot  where he can read it <giggle>'
+[Sun Oct 28 11:57:59 2001] Marde GMSAYS, 'think he logged'
+[Sun Oct 28 11:58:00 2001] Aldorin floats above the ground.
+[Sun Oct 28 11:58:04 2001] Marde GMSAYS, 'I'm sure it'll pop up again'
+[Sun Oct 28 11:58:14 2001] You can no longer levitate.
+[Sun Oct 28 11:58:20 2001] Aldorin GMSAYS, 'I'm on the hand'
+[Sun Oct 28 11:58:35 2001] You GMSAY, 'I'm having my colon cleaned'
+[Sun Oct 28 11:58:40 2001] Abbadabba GMSAYS, 'there supposed to be 2 dains up??'
+[Sun Oct 28 11:58:44 2001] Marde GMSAYS, 'pulling Linor'
+[Sun Oct 28 11:58:48 2001] Aldorin GMSAYS, 'I wonder if these are 10k falls'
+[Sun Oct 28 11:58:51 2001] Aldorin GMSAYS, 'TWO dains?? no'
+[Sun Oct 28 11:58:52 2001] Faelinn GMSAYS, 'im watching the graphical error causing espranza to appear as falling over and over and over.. its quite amusing, really..'
+[Sun Oct 28 11:58:54 2001] Devynn GMSAYS, '2 dains?'
+[Sun Oct 28 11:58:56 2001] You invite Sivy to join your group.
+[Sun Oct 28 11:59:04 2001] Abbadabba GMSAYS, 'Dain Forestreaver'
+[Sun Oct 28 11:59:05 2001] Sivy has joined the group.
+[Sun Oct 28 11:59:05 2001] You say to your guild, 'Al, wanna summon Sivy?'
+[Sun Oct 28 11:59:13 2001] Faelinn tells the group, 'arnt the keys in befallen?'
+[Sun Oct 28 11:59:14 2001] Sivy tells the group, 'ahh :)'
+[Sun Oct 28 11:59:17 2001] Faelinn tells the group, 'er'
+[Sun Oct 28 11:59:19 2001] Faelinn tells the group, 'no drop i mean'
+[Sun Oct 28 11:59:26 2001] Devynn GMSAYS, 'we'd need GM auth to /kill one of them'
+[Sun Oct 28 11:59:26 2001] You say to your guild, 'no, Fae'
+[Sun Oct 28 11:59:27 2001] Aldorin tells the guild, 'sure'
+[Sun Oct 28 11:59:31 2001] You tell your party, 'no, Fae'
+[Sun Oct 28 11:59:34 2001] Aldorin GMSAYS, 'Sivy you're zoning'
+[Sun Oct 28 11:59:34 2001] Faelinn tells the group, 'ok'
+[Sun Oct 28 11:59:39 2001] Abbadabba tells the guild, 'there are 2 up..'
+[Sun Oct 28 11:59:52 2001] Devynn tells the guild, 'camp to chat Abba and get auth from a gm'
+[Sun Oct 28 12:00:01 2001] Abbadabba tells the guild, 'ok'
+[Sun Oct 28 12:00:07 2001] Aldorin tells the guild, '2 dains... hmm... go to chat and get GM auth and /kill one'
+[Sun Oct 28 12:00:09 2001] Devynn tells the guild, 'or I can if you have appies'
+[Sun Oct 28 12:00:11 2001] You say, 'climbing things is a hobby of mine'
+[Sun Oct 28 12:00:17 2001] Espranza saved.
+[Sun Oct 28 12:00:20 2001] Aldorin says, 'hiyas Sivy'
+[Sun Oct 28 12:00:20 2001] Abbadabba tells the guild, 'naw i wana go hehe'
+[Sun Oct 28 12:00:24 2001] Aldorin tells the guild, 'ok Sivy is here'
+[Sun Oct 28 12:00:24 2001] Sivy says, 'heya!'
+[Sun Oct 28 12:00:26 2001] Devynn tells the guild, 'hehe, okies'
+[Sun Oct 28 12:00:31 2001] Aldorin says, 'you're on top of an iksar head'
+[Sun Oct 28 12:00:35 2001] You invite Aldorin to join your group.
+[Sun Oct 28 12:00:38 2001] Aldorin has joined the group.
+[Sun Oct 28 12:00:38 2001] Sivy GMSAYS, 'Pulling Lescsorxiste'
+[Sun Oct 28 12:00:40 2001] Abbadabba GMSAYS, 'Traviling Onwrad ! ! ** ZONE**'
+[Sun Oct 28 12:00:54 2001] Sivy tells the group, 'what do i do again if the person speaks french?'
+[Sun Oct 28 12:00:57 2001] Sivy tells the group, 'escalate to red?'
+[Sun Oct 28 12:01:00 2001] Marde GMSAYS, 'do we do anything for people getting killed while stuck on objects?'
+[Sun Oct 28 12:01:01 2001] You tell your party, 'speak to them in French'
+[Sun Oct 28 12:01:08 2001] You GMSAY, 'no'
+[Sun Oct 28 12:01:12 2001] Sivy tells the group, 'i cant speak french :p'
+[Sun Oct 28 12:01:14 2001] You GMSAY, 'we sure try to get there before they die'
+[Sun Oct 28 12:01:16 2001] Aldorin GMSAYS, 'when I was 5, the Guess Who board game had a disclaimer, "Game cards do not actually talk".  20 years later, the game is still being made, and still has that disclaimer'
+[Sun Oct 28 12:01:16 2001] Devynn GMSAYS, 'only if we can prove it, ie, corpse under the world'
+[Sun Oct 28 12:01:27 2001] Aldorin GMSAYS, 'how much longer, must we wait for a Guess Who game where the cards DO talk?'
+[Sun Oct 28 12:01:31 2001] Aldorin GMSAYS, 'can't be that hard'
+[Sun Oct 28 12:01:35 2001] Devynn GMSAYS, 'LOL Aldorin'
+[Sun Oct 28 12:01:46 2001] You GMSAY, 'Wow, the Guess Who will be in the bay area for a reunion tour soon'
+[Sun Oct 28 12:01:53 2001] Sivy tells the group, 'i cant speak french :p'
+[Sun Oct 28 12:01:57 2001] You GMSAY, 'I didn't even know they hard a board game'
+[Sun Oct 28 12:02:06 2001] You tell your party, 'then try to talk to them in very simple english'
+[Sun Oct 28 12:02:15 2001] Faelinn tells the group, 'see spot run'
+[Sun Oct 28 12:02:25 2001] Aldorin tells the group, '"me guide.  You player.  no rez"'
+[Sun Oct 28 12:02:28 2001] Faelinn tells the group, 'rofl'
+[Sun Oct 28 12:02:37 2001] Aldorin GMSAYS, 'zone'
+[Sun Oct 28 12:02:49 2001] Faelinn tells the group, '"no soup for you"'
+[Sun Oct 28 12:02:53 2001] Sivy tells the group, 'do any of you use EQGSR?'
+[Sun Oct 28 12:02:59 2001] Faelinn tells the group, 'i attempt to'
+[Sun Oct 28 12:03:05 2001] You tell your party, 'I don't'
+[Sun Oct 28 12:03:15 2001] Sivy tells the group, 'do i need to have the program on before i come into eq?'
+[Sun Oct 28 12:03:16 2001] Faelinn tells the group, 'mine was messed up when i got it though had someone rewrite my cfg file for me'
+[Sun Oct 28 12:03:19 2001] Faelinn tells the group, 'no'
+[Sun Oct 28 12:03:25 2001] Aldorin GMSAYS, 'anon and invis too'
+[Sun Oct 28 12:03:32 2001] Sivy tells the group, 'k hehe'
+[Sun Oct 28 12:05:19 2001] Devynn tells the guild, 'who is suppsoed to have a quest character that has time to go check and see if they have been copied?'
+[Sun Oct 28 12:05:35 2001] Aryante tells the guild, 'I can go check again'
+[Sun Oct 28 12:05:46 2001] Devynn tells the guild, 'okies, if they are there, log it on, otherwise come back :)'
+[Sun Oct 28 12:05:49 2001] Rimedear GMSAYS, '~-~-~ Zoning ~-~-~'
+[Sun Oct 28 12:06:00 2001] Abbadabba GMSAYS, 'Camping to chat for Auth brb'
+[Sun Oct 28 12:06:25 2001] Sivy GMSAYS, 'pulling Wandaarr'
+[Sun Oct 28 12:07:46 2001] Aldorin GMSAYS, 'French Guy is back.  what is his problem, btw?'
+[Sun Oct 28 12:08:08 2001] Devynn GMSAYS, 'hard to tell, I don't speak enough french, he doesn't speak enough english'
+[Sun Oct 28 12:08:16 2001] Faelinn GMSAYS, 'deleting zardio.. heh'
+[Sun Oct 28 12:08:19 2001] Aldorin GMSAYS, '<note badname> Lescsorxiste - GTS25DM - "The Exorcist" in French and mangled a little, but still a title'
+[Sun Oct 28 12:08:23 2001] Faelinn GMSAYS, 'pulling sixulaz'
+[Sun Oct 28 12:08:59 2001] Sivy GMSAYS, 'Lescsorxiste thinks his account is locked up or something? he says he keeps getting "error0016"'
+[Sun Oct 28 12:09:14 2001] Devynn GMSAYS, 'what's the error message?'
+[Sun Oct 28 12:09:14 2001] Faelinn GMSAYS, 'escalating sixulaz, no contact someone stalking and harassing him (talking through emotes  because hes on ignore etc)'
+[Sun Oct 28 12:09:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Oct 28 12:09:26 2001] USER TEXT: i'm in iskar in the overthere and this guy is stalking me. i put him on ignore list. he geting in the way as much as he can. he says i owe him money wen i don't  know him, and he's talking to me threw emotes. he's scaring me
+[Sun Oct 28 12:09:26 2001] Players in EverQuest:
+[Sun Oct 28 12:09:26 2001] ---------------------------
+[Sun Oct 28 12:09:26 2001] [ANON (17 Shadow Knight)] Sixulaz (Iksar) ZONE: overthere (USER PID HX3Y4F5)
+[Sun Oct 28 12:09:26 2001] There is 1 player in EverQuest.
+[Sun Oct 28 12:09:33 2001] You GMSAY, 'zone and hiding'
+[Sun Oct 28 12:09:37 2001] LOADING, PLEASE WAIT...
+[Sun Oct 28 12:10:14 2001] Raniin shouts, 'LVL 30 monk LFG'
+[Sun Oct 28 12:10:14 2001] a stonegazer cockatrice died.
+[Sun Oct 28 12:10:17 2001] You have entered The Overthere.
+[Sun Oct 28 12:10:17 2001] Masklinn shouts, 'sabretooth tigress mezzed, plz don't kit it'
+[Sun Oct 28 12:10:17 2001] You have formed the group.
+[Sun Oct 28 12:10:22 2001] Faelinn GMSAYS, 'nm'
+[Sun Oct 28 12:10:25 2001] Espranza is now Invisible.
+[Sun Oct 28 12:10:25 2001] You are now anonymous.
+[Sun Oct 28 12:10:25 2001] Faelinn GMSAYS, 'lol'
+[Sun Oct 28 12:10:28 2001] Nendienea shouts, 'lvl 14 druid lfg im new here so can someone get me if they accept me'
+[Sun Oct 28 12:10:36 2001] Teleporting to sixulaz.
+[Sun Oct 28 12:10:40 2001] a stonepeep cockatrice has been slain by Sixulaz!
+[Sun Oct 28 12:10:41 2001] You begin to sneak...
+[Sun Oct 28 12:10:41 2001] You are as quiet as a cat stalking its prey.
+[Sun Oct 28 12:10:45 2001] Faelinn GMSAYS, 'my question is whos account is he on if his is locked'
+[Sun Oct 28 12:10:49 2001] Teleporting to sixulaz.
+[Sun Oct 28 12:10:57 2001] Arrya begins to cast a spell. (Holy Armor)
+[Sun Oct 28 12:11:02 2001] Arrya begins to cast a spell. (Center)
+[Sun Oct 28 12:11:03 2001] USER TEXT: i'm in iskar in the overthere and this guy is stalking me. i put him on ignore list. he geting in the way as much as he can. he says i owe him money wen i don't  know him, and he's talking to me threw emotes. he's scaring me
+[Sun Oct 28 12:11:04 2001] Devynn GMSAYS, 'some people have more than one account....like me :)'
+[Sun Oct 28 12:11:05 2001] Ninarian says out of character, 'where is a good place for a lvl 34 rngr to get rich at'
+[Sun Oct 28 12:11:07 2001] Rimedear GMSAYS, 'No kidding'
+[Sun Oct 28 12:11:07 2001] Faelinn GMSAYS, 'unless he has two'
+[Sun Oct 28 12:11:13 2001] Faelinn GMSAYS, 'yes dev i am aware :)'
+[Sun Oct 28 12:11:18 2001] Timahh says out of character, 'the bank'
+[Sun Oct 28 12:11:20 2001] Aldorin GMSAYS, 'I want another account'
+[Sun Oct 28 12:11:20 2001] Xaard says out of character, 'rathe'
+[Sun Oct 28 12:11:25 2001] Aazien begins to cast a spell. (Heat Blood)
+[Sun Oct 28 12:11:27 2001] Devynn GMSAYS, 'you have one :P'
+[Sun Oct 28 12:11:27 2001] Arrya says, 'r u group with us bur?'
+[Sun Oct 28 12:11:28 2001] Burrack says, 'do again'
+[Sun Oct 28 12:11:37 2001] Tabibito says out of character, 'Fight HGs in rathe mtns'
+[Sun Oct 28 12:11:39 2001] Teleporting to sixulaz.
+[Sun Oct 28 12:11:39 2001] Llouis begins to cast a spell. (Invisibility)
+[Sun Oct 28 12:11:40 2001] Aazien begins to cast a spell. (Dark Pact)
+[Sun Oct 28 12:11:40 2001] Arrya begins to cast a spell. (Healing)
+[Sun Oct 28 12:11:41 2001] Grognasse says out of character, 'make a hold up at bank .'
+[Sun Oct 28 12:11:43 2001] Aazien looks sick.
+[Sun Oct 28 12:11:43 2001] Oogaboga feels much better.
+[Sun Oct 28 12:11:44 2001] Llouis fades away.
+[Sun Oct 28 12:11:46 2001] Arrya says, 'r u bugged?'
+[Sun Oct 28 12:11:47 2001] Devynn GMSAYS, 'man, 2 free acounnts not good enough for you now Ald?'
+[Sun Oct 28 12:11:50 2001] Erzatz says out of character, 'LOL'
+[Sun Oct 28 12:11:50 2001] Devynn GMSAYS, 'hehe'
+[Sun Oct 28 12:11:53 2001] Aldorin GMSAYS, 'well I'm still paying for my play account'
+[Sun Oct 28 12:11:55 2001] a sabertooth tigress has been slain by Xenarn!
+[Sun Oct 28 12:12:00 2001] Burrack says, 'invite agn'
+[Sun Oct 28 12:12:00 2001] Devynn GMSAYS, 'why?'
+[Sun Oct 28 12:12:03 2001] You GMSAY, 'you shouldn't be'
+[Sun Oct 28 12:12:03 2001] Aldorin GMSAYS, 'maybe I"ll just get them to give me another account instead of debilling this one'
+[Sun Oct 28 12:12:11 2001] Faelinn GMSAYS, 'two seperate accounts with the high level druid on one and the alts on another is rather convenient :)'
+[Sun Oct 28 12:12:11 2001] Sivy tells the group, 'what email would i give someone for a password problem?'
+[Sun Oct 28 12:12:11 2001] Aldorin GMSAYS, 'because I'm too stupid and/or lazy to call them and cancel billing'
+[Sun Oct 28 12:12:13 2001] Burrack says, 'k'
+[Sun Oct 28 12:12:24 2001] Faelinn tells the group, 'its in your book'
+[Sun Oct 28 12:12:26 2001] Aldorin tells the group, 'tell them to call tech support tomorrow, or eqtech@verant.com'
+[Sun Oct 28 12:12:27 2001] Devynn GMSAYS, 'don't call, do it from the account section of the EQ program'
+[Sun Oct 28 12:12:28 2001] You say, 'yeah'
+[Sun Oct 28 12:12:41 2001] Aldorin GMSAYS, 'I dont trust that as far as I can throw it'
+[Sun Oct 28 12:12:46 2001] Devynn GMSAYS, 'works for me'
+[Sun Oct 28 12:13:02 2001] Faelinn GMSAYS, 'they cant fix their password if the one they have isnt working..'
+[Sun Oct 28 12:13:10 2001] Sivy GMSAYS, 'Les logged off?'
+[Sun Oct 28 12:13:15 2001] You GMSAY, 'they're talking about two different things Fae'
+[Sun Oct 28 12:13:20 2001] Faelinn GMSAYS, 'ah i see'
+[Sun Oct 28 12:13:22 2001] Savlyn GMSAYS, 'Zoning'
+[Sun Oct 28 12:13:24 2001] Sivy GMSAYS, 'nm hes on..'
+[Sun Oct 28 12:13:24 2001] Devynn GMSAYS, 'sure they can Faelinn'
+[Sun Oct 28 12:13:32 2001] Aryante GMSAYS, 'ok, I put Klok G`rshai back where she belongs'
+[Sun Oct 28 12:13:32 2001] Sixulaz says, 'wandaarr keeps buging me'
+[Sun Oct 28 12:13:32 2001] Wandaarr shouts, 'what lvl do shms get the next DOT after tainted breath'
+[Sun Oct 28 12:13:34 2001] Llouis begins to cast a spell. (Flame Shock)
+[Sun Oct 28 12:13:36 2001] Burrack begins to cast a spell. (Disease Cloud)
+[Sun Oct 28 12:13:38 2001] Faelinn GMSAYS, 'i have to enter ,y password to get into account.'
+[Sun Oct 28 12:13:38 2001] Arrya begins to cast a spell. (Healing)
+[Sun Oct 28 12:13:39 2001] Sixulaz says, 'can u tell him to stop?'
+[Sun Oct 28 12:13:39 2001] Aryante says, 'Hail, Sixulaz'
+[Sun Oct 28 12:13:40 2001] Devynn GMSAYS, 'go to www.station.sony.com and go to the forgot password page'
+[Sun Oct 28 12:13:40 2001] You say to your guild, 'Ary, I was on this pet'
+[Sun Oct 28 12:13:41 2001] Faelinn GMSAYS, '*my'
+[Sun Oct 28 12:13:44 2001] Llouis begins to cast a spell. (Shock of Lightning)
+[Sun Oct 28 12:13:46 2001] You say to your guild, 'investigating'
+[Sun Oct 28 12:13:46 2001] Aryante says, 'tell who to stop?'
+[Sun Oct 28 12:13:47 2001] Oogaboga says out of character, '19'
+[Sun Oct 28 12:13:51 2001] Faelinn GMSAYS, 'well yeah, but that oih nm'
+[Sun Oct 28 12:13:54 2001] Sixulaz says, 'wandaarr'
+[Sun Oct 28 12:13:54 2001] You GMSAY, 'esc Sixulaz to Aryante'
+[Sun Oct 28 12:13:54 2001] Faelinn GMSAYS, 'ugh'
+[Sun Oct 28 12:13:57 2001] Schadows says out of character, '19'
+[Sun Oct 28 12:13:58 2001] CHECKING IN
+[Sun Oct 28 12:14:06 2001] Aryante tells the guild, 'I was just resetting the klok, I'll leave '
+[Sun Oct 28 12:14:07 2001] Llouis begins to cast a spell. (Flame Shock)
+[Sun Oct 28 12:14:08 2001] Burrack begins to cast a spell. (Disease Cloud)
+[Sun Oct 28 12:14:11 2001] You say to your guild, 'too late :)'
+[Sun Oct 28 12:14:12 2001] Arrya begins to cast a spell. (Healing)
+[Sun Oct 28 12:14:14 2001] You say to your guild, 'he saw you'
+[Sun Oct 28 12:14:16 2001] Llouis begins to cast a spell. (Shock of Lightning)
+[Sun Oct 28 12:14:23 2001] Arrya begins to cast a spell. (Healing)
+[Sun Oct 28 12:14:26 2001] Burrack feels much better.
+[Sun Oct 28 12:14:36 2001] Aryante tells the guild, 'sorry, Didn't know it's in the same spot :( I just saw the request to fix Iksar lady'
+[Sun Oct 28 12:14:38 2001] Aryante GMSAYS, '*Gathers the light around her and crosses the world!*'
+[Sun Oct 28 12:14:40 2001] Aryante Gathers the light around her and vanishes.
+[Sun Oct 28 12:14:40 2001] Aryante begins to cast a spell. (Sunset Home)
+[Sun Oct 28 12:14:41 2001] Aryante fades away.
+[Sun Oct 28 12:14:58 2001] Reiky begins to cast a spell. (Resolution)
+[Sun Oct 28 12:14:58 2001] Arrya begins to cast a spell. (Healing)
+[Sun Oct 28 12:14:59 2001] Players in EverQuest:
+[Sun Oct 28 12:14:59 2001] ---------------------------
+[Sun Oct 28 12:14:59 2001] [ANON (36 Enchanter)] Aeldwan (High Elf) ZONE: commons (USER PID DZXQV33)
+[Sun Oct 28 12:14:59 2001] [ANON (35 Shadow Knight)] Oogrr (Ogre) ZONE: cazicthule (USER PID FWFR4L6)
+[Sun Oct 28 12:14:59 2001] [15 Shaman] Wandaarr (Barbarian) <United Ale Drinkers> ZONE: overthere (USER PID DYD3W2S)
+[Sun Oct 28 12:14:59 2001] [30 Magician] Wanlayen (Gnome) <Hunters of Darkness> ZONE: iceclad (USER PID DY9HGSV)
+[Sun Oct 28 12:14:59 2001] [ANON (40 Druid)] Shotzie (Wood Elf) ZONE: overthere (USER PID BXU4CUN)
+[Sun Oct 28 12:14:59 2001] [40 Druid] Talonblaze (Wood Elf) <Wanderers of the Realm> ZONE: dreadlands (USER PID BUV6WZ3)
+[Sun Oct 28 12:14:59 2001] There are 6 players in EverQuest.
+[Sun Oct 28 12:15:02 2001] Aazien begins to cast a spell. (Heart Flutter)
+[Sun Oct 28 12:15:03 2001] Teleporting to wandaarr.
+[Sun Oct 28 12:15:03 2001] Llouis begins to cast a spell. (Force Shock)
+[Sun Oct 28 12:15:23 2001] Players in EverQuest:
+[Sun Oct 28 12:15:23 2001] ---------------------------
+[Sun Oct 28 12:15:23 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Dreams> ZONE: cshome (USER PID CUUWSSL)
+[Sun Oct 28 12:15:23 2001] * Guide *[51 Pathfinder] Savlyn (Human) <Keepers of Dreams> ZONE: cshome (USER PID EUGBAB8)
+[Sun Oct 28 12:15:23 2001] * Guide *[ANON (54 Rake)] Espranza (Halfling) ZONE: overthere (USER PID AUGBQH4)
+[Sun Oct 28 12:15:23 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: greatdivide (USER PID HUGBLZN)
+[Sun Oct 28 12:15:23 2001] * Guide *[52 Pathfinder] Aldorin (Half Elf) <Keepers of Dreams> ZONE: gfaydark (USER PID BUUXHKW)
+[Sun Oct 28 12:15:23 2001] * Apprentice Guide *[20 Cleric] Sivy (Dark Elf) ZONE: timorous (USER PID CQJ520T)
+[Sun Oct 28 12:15:23 2001] * Apprentice Guide *[20 Enchanter] Faelinn (High Elf) ZONE: timorous (USER PID AWNWZJ9)
+[Sun Oct 28 12:15:23 2001] * Guide *[ANON (52 Champion)] Devynn (Dark Elf) ZONE: cshome (USER PID BUGCNEC)
+[Sun Oct 28 12:15:23 2001] There are 8 players in EverQuest.
+[Sun Oct 28 12:15:35 2001] Faelinn tells you, 'sorry about that i have a hard time dealing with being chastised heh'
+[Sun Oct 28 12:15:44 2001] Faelinn tells you, 'pet peeve i supposed'
+[Sun Oct 28 12:16:10 2001] Lunarin begins to cast a spell. (Heat Blood)
+[Sun Oct 28 12:16:16 2001] Lunarin begins to cast a spell. (Fear)
+[Sun Oct 28 12:16:18 2001] Wandaarr begins to cast a spell. (Disempower)
+[Sun Oct 28 12:16:21 2001] You told Faelinn, 'I apologize, what happened?'
+[Sun Oct 28 12:16:22 2001] Sivy GMSAYS, 'lescsorxiste says,""FOOK verant stupid PB"'
+[Sun Oct 28 12:16:23 2001] Faelinn GMSAYS, '=O'
+[Sun Oct 28 12:16:23 2001] Lunarin begins to cast a spell. (Siphon Life)
+[Sun Oct 28 12:16:24 2001] Sivy GMSAYS, 'he wants US to give him his password :p'
+[Sun Oct 28 12:16:25 2001] Wandaarr begins to cast a spell. (Root)
+[Sun Oct 28 12:16:27 2001] Lunarin says, 'Ahhh, I feel much better now...'
+[Sun Oct 28 12:16:31 2001] Lunarin begins to cast a spell. (Siphon Life)
+[Sun Oct 28 12:16:40 2001] Lunarin begins to cast a spell. (Siphon Life)
+[Sun Oct 28 12:16:41 2001] Devynn GMSAYS, 'tell him we can't do that and give him tech support number'
+[Sun Oct 28 12:16:47 2001] Lunarin begins to cast a spell. (Fear)
+[Sun Oct 28 12:16:52 2001] Devynn GMSAYS, 'he'll need to call tech support/customer service'
+[Sun Oct 28 12:16:54 2001] Faelinn tells you, 'no not you sometimes i feel like one of the guides is chastising me, but its not important he probably isnt, just were not on the same page .. that happend'
+[Sun Oct 28 12:16:59 2001] Faelinn tells you, 'happens even'
+[Sun Oct 28 12:17:13 2001] Abbadabba GMSAYS, 'They are sending someone in for Dain..'
+[Sun Oct 28 12:17:14 2001] You told Faelinn, 'does this happen often?'
+[Sun Oct 28 12:17:20 2001] Devynn GMSAYS, 'figured they might...hehe'
+[Sun Oct 28 12:17:22 2001] Faelinn tells you, 'eh.. no i guess not'
+[Sun Oct 28 12:17:27 2001] Aryante GMSAYS, 'it would worry me to think that any volunteer guide could find out my password at any time'
+[Sun Oct 28 12:17:36 2001] Abbadabba GMSAYS, 'You should check this TOTALY not normal'
+[Sun Oct 28 12:17:38 2001] Devynn GMSAYS, 'same here Ary'
+[Sun Oct 28 12:17:40 2001] Aldorin GMSAYS, 'did he say "fook" ?'
+[Sun Oct 28 12:17:44 2001] Devynn GMSAYS, 'As I walk through the veil of death, I travel onward...'
+[Sun Oct 28 12:17:47 2001] Savlyn GMSAYS, 'Camping to see if Quest char is there'
+[Sun Oct 28 12:17:59 2001] Faelinn tells you, 'maybe its the PMS'
+[Sun Oct 28 12:18:03 2001] Faelinn tells you, '>:)'
+[Sun Oct 28 12:18:07 2001] You told Faelinn, 'because if you feel a guide is giving you a hard time, you should talk to the seniors - they'll make sure you're having no troubles with the full guides, or clear up misunderstandings'
+[Sun Oct 28 12:18:08 2001] Sivy GMSAYS, 'yes'
+[Sun Oct 28 12:18:09 2001] Rimedear GMSAYS, '~-~-~ Zoning ~-~-~'
+[Sun Oct 28 12:18:24 2001] You told Faelinn, ':) heh I know I'M hard to live with... and when me and my daighter... bah'
+[Sun Oct 28 12:18:28 2001] Faelinn tells you, 'i try to give it time because i take things wrong sometimes'
+[Sun Oct 28 12:18:36 2001] Dalean says out of character, 'any grp on ledge need a 33 druid'
+[Sun Oct 28 12:18:53 2001] Sivy GMSAYS, 'he also said raison instead of reason =X'
+[Sun Oct 28 12:18:58 2001] Faelinn tells you, 'especially when im on PMS lol'
+[Sun Oct 28 12:19:05 2001] Abbadabba GMSAYS, 'Both 60+ mobs aswell'
+[Sun Oct 28 12:19:05 2001] Raen  GMSAYS, 'Hello All Muhahahaha'
+[Sun Oct 28 12:19:09 2001] Aldorin GMSAYS, 'zoning'
+[Sun Oct 28 12:19:10 2001] You told Faelinn, 'heh... I KNOW how that goes'
+[Sun Oct 28 12:19:12 2001] Sivy GMSAYS, 'heya raen'
+[Sun Oct 28 12:19:13 2001] Players in EverQuest:
+[Sun Oct 28 12:19:13 2001] ---------------------------
+[Sun Oct 28 12:19:13 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID HUGBLZN)
+[Sun Oct 28 12:19:13 2001] * Guide *[ANON (35 Shaman)] Raen  (Iksar) ZONE: cshome (USER PID EUGBAB8)
+[Sun Oct 28 12:19:13 2001] * Guide *[ANON (52 Champion)] Devynn (Dark Elf) ZONE: thurgadinb (USER PID BUGCNEC)
+[Sun Oct 28 12:19:13 2001] * Guide *[50 Cleric] Aryante (High Elf) <Keepers of Dreams> ZONE: cshome (USER PID CUUWSSL)
+[Sun Oct 28 12:19:13 2001] * Guide *[50 Monk] Abbadabba (Human) <Keepers of Dreams> ZONE: thurgadinb (USER PID AU7FEU6)
+[Sun Oct 28 12:19:13 2001] * Guide *[ANON (54 Rake)] Espranza (Halfling) ZONE: overthere (USER PID AUGBQH4)
+[Sun Oct 28 12:19:13 2001] * Guide *[52 Pathfinder] Aldorin (Half Elf) <Keepers of Dreams> ZONE: gfaydark (USER PID BUUXHKW)
+[Sun Oct 28 12:19:13 2001] * Apprentice Guide *[20 Cleric] Sivy (Dark Elf) ZONE: timorous (USER PID CQJ520T)
+[Sun Oct 28 12:19:13 2001] * Apprentice Guide *[20 Enchanter] Faelinn (High Elf) ZONE: timorous (USER PID AWNWZJ9)
+[Sun Oct 28 12:19:13 2001] There are 9 players in EverQuest.
+[Sun Oct 28 12:19:14 2001] Devynn GMSAYS, 'quest characters copied'
+[Sun Oct 28 12:19:18 2001] Raen  GMSAYS, 'Yes'
+[Sun Oct 28 12:19:19 2001] Aryante GMSAYS, 'woot!'
+[Sun Oct 28 12:19:20 2001] Devynn GMSAYS, 'log them on if you aren't on a pet'
+[Sun Oct 28 12:19:21 2001] Rimedear GMSAYS, 'Logging'
+[Sun Oct 28 12:19:22 2001] Devynn GMSAYS, 'As I walk through the veil of death, I travel onward...'
+[Sun Oct 28 12:19:22 2001] Azratreides says out of character, '38 Paladin LFG'
+[Sun Oct 28 12:19:25 2001] You GMSAY, 'zone'
+[Sun Oct 28 12:19:34 2001] Espranza is now Visible.
+[Sun Oct 28 12:19:35 2001] You are no longer anonymous.
+[Sun Oct 28 12:19:37 2001] You stop sneaking.
+[Sun Oct 28 12:19:38 2001] You begin casting Sunset Home. (Sunset Home)
+[Sun Oct 28 12:19:38 2001] Your Belt of Translocation begins to glow.
+[Sun Oct 28 12:19:39 2001] LOADING, PLEASE WAIT...
+[Sun Oct 28 12:19:59 2001] You have entered Sunset Home.
+[Sun Oct 28 12:20:00 2001] You have formed the group.
+[Sun Oct 28 12:20:14 2001] You say to your guild, 'someone needs to mentor Sivy and Faelinn'
+[Sun Oct 28 12:20:22 2001] Devynn tells the guild, 'Abba can get them'
+[Sun Oct 28 12:20:23 2001] You told Faelinn, 'I;m about to be GNOME-ified!'
+[Sun Oct 28 12:20:27 2001] Faelinn tells you, 'lol'
+[Sun Oct 28 12:20:29 2001] Aldorin GMSAYS, 'sigh, first dolly the sheep, and now dain frostreaver IV'
+[Sun Oct 28 12:20:36 2001] You tell your party, 'getting my quest character, brb, Abba is gonna group with youze'
+[Sun Oct 28 12:20:43 2001] Aldorin GMSAYS, 'hey shouldn't one of them be dain frostreaver V?'
+[Sun Oct 28 12:20:45 2001] Aldorin tells the group, 'me too'
+[Sun Oct 28 12:20:47 2001] You tell your party, 'unless Aldorin isn't playing in the quets'
+[Sun Oct 28 12:20:50 2001] Aldorin GMSAYS, 'camping to my elemental la~'
+[Sun Oct 28 12:20:55 2001] Aldorin tells the group, 'I am playing'
+[Sun Oct 28 12:21:06 2001] Aldorin tells the group, 'I'm the air elemental.  YOu can NOT run a quest without an air elemental'
+[Sun Oct 28 12:21:09 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Oct 28 12:21:10 2001] Abbadabba GMSAYS, 'Ok i can grab appies since no quest *snif snif*..'
+[Sun Oct 28 12:21:13 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Oct 28 12:21:14 2001] Aldorin has left the group.
+[Sun Oct 28 12:21:17 2001] Faelinn has left the group.
+[Sun Oct 28 12:21:18 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Oct 28 12:21:20 2001] Your group has been disbanded.
+[Sun Oct 28 12:21:23 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Oct 28 12:21:28 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Oct 28 12:21:33 2001] It will take about 5 more seconds to prepare your camp.
+[Sun Oct 28 14:07:53 2001] Welcome to EverQuest!
+[Sun Oct 28 14:07:53 2001] You have entered Sunset Home.
+[Sun Oct 28 14:07:53 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Strange events are happening in Norrath. Things are changing, the world is dynamic, and the future is uncertain. Please be aware things are not always what they seem.
+[Sun Oct 28 14:07:54 2001] GUILD MOTD: Lirus - Many events will be run Oct 26-31. If you have a good event/quest idea please email it to me at msudnik(at)soe.sony.com
+[Sun Oct 28 14:07:57 2001] It begins to rain.
+[Sun Oct 28 14:08:00 2001] You GMSAY, 'hiya!'
+[Sun Oct 28 14:08:00 2001] Aldorin GMSAYS, 'um, the FV guards are NEVER KOS in wolf form, Sivy'
+[Sun Oct 28 14:08:00 2001] Lirus GMSAYS, 'we hear allll about it lass =)'
+[Sun Oct 28 14:08:01 2001] Rimedear says, 'Hail, Espranza'
+[Sun Oct 28 14:08:03 2001] Devynn GMSAYS, 'Hey Faelinn!'
+[Sun Oct 28 14:08:06 2001] Aldorin GMSAYS, 'WEREWOLF form is KOS, not wolf'
+[Sun Oct 28 14:08:09 2001] Rimedear says, 'Good job, dearie'
+[Sun Oct 28 14:08:09 2001] Lirus GMSAYS, 'heya esp'
+[Sun Oct 28 14:08:10 2001] Faelinn GMSAYS, '=O! hi!!'
+[Sun Oct 28 14:08:15 2001] Faelinn GMSAYS, 'lol :)'
+[Sun Oct 28 14:08:16 2001] Marde GMSAYS, 'pulling Hallorian'
+[Sun Oct 28 14:08:16 2001] Lirus GMSAYS, 'hi faelinn'
+[Sun Oct 28 14:08:21 2001] Devynn GMSAYS, 'gettin FAelinn'
+[Sun Oct 28 14:08:26 2001] Faelinn GMSAYS, 'savvys got me'
+[Sun Oct 28 14:08:29 2001] Aldorin GMSAYS, 'I've got to go... zoning home'
+[Sun Oct 28 14:08:31 2001] Devynn GMSAYS, 'nm then'
+[Sun Oct 28 14:08:34 2001] You GMSAY, 'well, off to take my kids pumpkin shopping'
+[Sun Oct 28 14:08:34 2001] Sivy GMSAYS, 'Aldorin, wolf form is kos to FB guards as well'
+[Sun Oct 28 14:08:41 2001] You GMSAY, 'thanks for the quest!'
+[Sun Oct 28 14:08:49 2001] Devynn GMSAYS, 'You're welcome :)'
+[Sun Oct 28 14:08:51 2001] Feldorin GMSAYS, 'If you wish to witness a second wedding, please come to the windmill and if your a full Guide, bring some Valtrons and cake'
+[Sun Oct 28 14:08:51 2001] Imaryn GMSAYS, 'zoning'
+[Sun Oct 28 14:08:53 2001] Sivy GMSAYS, 'FV*'
+[Sun Oct 28 14:08:58 2001] You wave goodbye to Rimedear.
+[Sun Oct 28 14:08:58 2001] Marde GMSAYS, 'Hallorian is being escalated, abuse, contacted me by tell and was informed to use petition'
+[Sun Oct 28 14:09:04 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Oct 28 14:09:07 2001] You GMSAY, 'laters all'
+[Sun Oct 28 14:09:08 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Oct 28 14:09:11 2001] Sivy GMSAYS, 'cyas esp'
+[Sun Oct 28 14:09:11 2001] Aldorin GMSAYS, 'good night guys :)'
+[Sun Oct 28 14:09:12 2001] Rimedear waves goodbye to Espranza.
+[Sun Oct 28 14:09:13 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Oct 28 14:09:17 2001] Devynn tells the guild, 'who's got the other appies? I need to head out also for a bit of a break'
+[Sun Oct 28 14:09:18 2001] Lirus GMSAYS, 'gnight aldorin'
+[Sun Oct 28 14:09:18 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Oct 28 14:09:19 2001] Devynn GMSAYS, 'As I walk through the veil of death, I travel onward...'
+[Sun Oct 28 14:09:23 2001] Sivy GMSAYS, 'night ald'
+[Sun Oct 28 14:09:23 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Oct 28 14:09:28 2001] It will take about 5 more seconds to prepare your camp.
+[Sun Oct 28 14:09:31 2001] Feldorin GMSAYS, 'If you wish to witness a second wedding, please come to the windmill and if your a full Guide, bring some Valtrons and cake'

@@ -1,0 +1,1869 @@
+[Thu Dec 13 21:03:46 2001] Welcome to EverQuest!
+[Thu Dec 13 21:03:46 2001] You have entered Sunset Home.
+[Thu Dec 13 21:03:51 2001] Players in EverQuest:
+[Thu Dec 13 21:03:51 2001] ---------------------------
+[Thu Dec 13 21:03:51 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: hollowshade (USER PID HUGBLZN)
+[Thu Dec 13 21:03:51 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Dec 13 21:03:51 2001] * Apprentice Guide *[20 Druid] Hexian (Wood Elf) ZONE: gfaydark (USER PID F4PGZAE)
+[Thu Dec 13 21:03:51 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: skyshrine (USER PID CW1ECN5)
+[Thu Dec 13 21:03:51 2001] * Apprentice Guide *[20 Shadow Knight] Rodetta (Erudite) ZONE: gfaydark (USER PID DY6ZLSX)
+[Thu Dec 13 21:03:51 2001] * Guide *[51 Pathfinder] Savlyn (Human) <Keepers of Dreams> ZONE: sseru (USER PID EUGBAB8)
+[Thu Dec 13 21:03:51 2001] There are 6 players in EverQuest.
+[Thu Dec 13 21:03:56 2001] You GMSAY, 'hello!'
+[Thu Dec 13 21:04:03 2001] Lirus GMSAYS, 'hiya espranza'
+[Thu Dec 13 21:04:09 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Dec 13 21:04:10 2001] USER TEXT: me and Ofelia where suppose to be getting married today in 10 mins and no one has gotten back to her about the petition after yesterday about a location or anything
+[Thu Dec 13 21:04:10 2001] Players in EverQuest:
+[Thu Dec 13 21:04:10 2001] ---------------------------
+[Thu Dec 13 21:04:10 2001] [20 Paladin] Rainerdays (Human) <Template of Shadows> ZONE: everfrost (USER PID BU7C1ZG)
+[Thu Dec 13 21:04:10 2001] There is 1 player in EverQuest.
+[Thu Dec 13 21:04:16 2001] Rodetta GMSAYS, 'PARTY :)'
+[Thu Dec 13 21:04:32 2001] Savlyn GMSAYS, 'Zoning'
+[Thu Dec 13 21:04:36 2001] You GMSAY, 'Petitioner says there was to be a wedding today; anyone doing weddings?'
+[Thu Dec 13 21:04:42 2001] Hexian GMSAYS, 'I hope we aren't going to start going LD every 3 mins like last night'
+[Thu Dec 13 21:04:45 2001] Players in EverQuest:
+[Thu Dec 13 21:04:45 2001] ---------------------------
+[Thu Dec 13 21:04:45 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: hollowshade (USER PID HUGBLZN)
+[Thu Dec 13 21:04:45 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Dec 13 21:04:45 2001] * Apprentice Guide *[20 Druid] Hexian (Wood Elf) ZONE: gfaydark (USER PID F4PGZAE)
+[Thu Dec 13 21:04:45 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: skyshrine (USER PID CW1ECN5)
+[Thu Dec 13 21:04:45 2001] * Apprentice Guide *[20 Shadow Knight] Rodetta (Erudite) ZONE: gfaydark (USER PID DY6ZLSX)
+[Thu Dec 13 21:04:45 2001] * Guide *[51 Pathfinder] Savlyn (Human) <Keepers of Dreams> ZONE: sseru (USER PID EUGBAB8)
+[Thu Dec 13 21:04:45 2001] There are 6 players in EverQuest.
+[Thu Dec 13 21:05:07 2001] Players in EverQuest:
+[Thu Dec 13 21:05:07 2001] ---------------------------
+[Thu Dec 13 21:05:07 2001] [22 Warrior] Ofelia (Barbarian) <Template of Shadows> ZONE: everfrost (USER PID H1PS0E2)
+[Thu Dec 13 21:05:07 2001] There is 1 player in EverQuest.
+[Thu Dec 13 21:05:13 2001] Players on EverQuest:
+[Thu Dec 13 21:05:13 2001] ---------------------------
+[Thu Dec 13 21:05:13 2001] There are no players in Sunset Home that match those who filters.
+[Thu Dec 13 21:05:15 2001] Players in EverQuest:
+[Thu Dec 13 21:05:15 2001] ---------------------------
+[Thu Dec 13 21:05:15 2001] [20 Paladin] Rainerdays (Human) <Template of Shadows> ZONE: everfrost (USER PID BU7C1ZG)
+[Thu Dec 13 21:05:15 2001] There is 1 player in EverQuest.
+[Thu Dec 13 21:05:23 2001] Rodetta GMSAYS, 'w're getting a bunch of pets from people with problems staying alive in Cazik Thule. Just took another one.'
+[Thu Dec 13 21:05:35 2001] Rodetta GMSAYS, 'they lock up when they enter the zone.'
+[Thu Dec 13 21:05:40 2001] You told Rainerdays, 'Hail, Rainerdays! Guide Espranza here. You petitioned yesterday that you were to be married today?'
+[Thu Dec 13 21:05:52 2001] Rainerdays tells you, 'yes she did'
+[Thu Dec 13 21:05:55 2001] Rodetta GMSAYS, 'once they reset, they're fine. it's just getting in that's the problem.'
+[Thu Dec 13 21:06:02 2001] You told Rainerdays, 'ah... and no guide has gotten back to you?'
+[Thu Dec 13 21:06:28 2001] Rainerdays tells you, 'not a one.. we where set for this time and nothing.. and i have been here all day'
+[Thu Dec 13 21:06:38 2001] You told Rainerdays, 'I'll do it, if you like'
+[Thu Dec 13 21:06:49 2001] Rainerdays tells you, 'cool thank you'
+[Thu Dec 13 21:06:53 2001] You told Rainerdays, 'okay :)'
+[Thu Dec 13 21:07:02 2001] Llara the Mysterious says 'Welcome to my shop, Espranza. You would probably find a Wedding Cake handy'
+[Thu Dec 13 21:07:05 2001] Llara the Mysterious tells you, 'That'll be 0 money per Wedding Cake'.
+[Thu Dec 13 21:07:08 2001] You give 0 money to Llara the Mysterious.
+[Thu Dec 13 21:07:10 2001] Llara the Mysterious tells you, 'That'll be 0 money per Valtron's Finest Brew'.
+[Thu Dec 13 21:07:13 2001] You give 0 money to Llara the Mysterious.
+[Thu Dec 13 21:07:14 2001] Rainerdays tells you, 'her name is Ofelia if you want to talk to her'
+[Thu Dec 13 21:07:14 2001] Llara the Mysterious tells you, 'That'll be 0 money per Birthday Cake'.
+[Thu Dec 13 21:07:15 2001] Lirus GMSAYS, 'anyone try zoning in?'
+[Thu Dec 13 21:07:17 2001] You give 0 money to Llara the Mysterious.
+[Thu Dec 13 21:07:18 2001] Llara the Mysterious tells you, 'That'll be 0 money per Gnome Sandwich'.
+[Thu Dec 13 21:07:20 2001] You give 0 money to Llara the Mysterious.
+[Thu Dec 13 21:07:21 2001] You no longer have a target.
+[Thu Dec 13 21:07:23 2001] You GMSAY, 'zone'
+[Thu Dec 13 21:07:24 2001] Espranza saved.
+[Thu Dec 13 21:07:25 2001] Teleporting to ofelia.
+[Thu Dec 13 21:07:27 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 21:08:08 2001] You have entered Everfrost.
+[Thu Dec 13 21:08:31 2001] Teleporting to ofelia.
+[Thu Dec 13 21:08:44 2001] You wave at Ofelia.
+[Thu Dec 13 21:08:45 2001] Ofelia says, 'Hail, Espranza'
+[Thu Dec 13 21:08:53 2001] Ultimateshadow shouts, 'paying for tp yo GD '
+[Thu Dec 13 21:08:54 2001] Ofelia waves at Espranza.
+[Thu Dec 13 21:09:00 2001] Angelize tells you, 'Hi hon hehe come take this geeks name '
+[Thu Dec 13 21:09:02 2001] Rainerdays tells you, 'errr wasnt a problem with it'
+[Thu Dec 13 21:09:04 2001] You say, 'Were you going to be married tonight?'
+[Thu Dec 13 21:09:05 2001] Lirus GMSAYS, 'zone'
+[Thu Dec 13 21:09:11 2001] Ofelia says, 'yes i was'
+[Thu Dec 13 21:09:18 2001] You told Angelize, 'whose?'
+[Thu Dec 13 21:09:29 2001] Angelize tells you, 'Snicketysnack '
+[Thu Dec 13 21:09:32 2001] You say, 'Well, if you still want to, I can do it!'
+[Thu Dec 13 21:09:37 2001] You told Angelize, 'what's wrong with it?'
+[Thu Dec 13 21:09:47 2001] Ofelia says, 'sure where do i need to go?'
+[Thu Dec 13 21:09:50 2001] Angelize tells you, 'nothing just giving ya hell'
+[Thu Dec 13 21:09:51 2001] Rodetta GMSAYS, 'lirus go LD? or invis?'
+[Thu Dec 13 21:09:56 2001] Rodetta GMSAYS, 'nm, i'm blind.'
+[Thu Dec 13 21:09:58 2001] You say, 'probably near your hubby... ;)'
+[Thu Dec 13 21:10:03 2001] Ofelia says, 'lol good idea'
+[Thu Dec 13 21:10:04 2001] You told Angelize, 'heh'
+[Thu Dec 13 21:10:11 2001] Angelize tells you, 'he is roleplaying though'
+[Thu Dec 13 21:10:20 2001] Angelize tells you, '*grin*'
+[Thu Dec 13 21:10:20 2001] Ofelia says, 'ok hes back at the river'
+[Thu Dec 13 21:10:28 2001] Espranza poofs.
+[Thu Dec 13 21:10:28 2001] Ofelia says, 'want me to lead?'
+[Thu Dec 13 21:10:30 2001] Teleporting to rainerdays.
+[Thu Dec 13 21:10:37 2001] You wave at Rainerdays.
+[Thu Dec 13 21:10:46 2001] Ultimateshadow shouts, 'paying for tp to GD for corpse run please'
+[Thu Dec 13 21:10:46 2001] Rainerdays says, 'Hail, Espranza'
+[Thu Dec 13 21:10:47 2001] You told ofelia, 'I can teleport :)'
+[Thu Dec 13 21:10:52 2001] Ofelia tells you, 'lol kewl'
+[Thu Dec 13 21:10:56 2001] You say, 'Well, I think Ofelia is on her way'
+[Thu Dec 13 21:11:07 2001] Rainerdays says, 'yes she is'
+[Thu Dec 13 21:11:13 2001] Angelize tells you, 'Well going to bed I will come chat longer asap =)'
+[Thu Dec 13 21:11:18 2001] Rodetta GMSAYS, 'were either of your two zones to CT?'
+[Thu Dec 13 21:11:21 2001] You told Angelize, 'okay!'
+[Thu Dec 13 21:11:24 2001] Players in EverQuest:
+[Thu Dec 13 21:11:24 2001] ---------------------------
+[Thu Dec 13 21:11:24 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: mseru (USER PID CW1ECN5)
+[Thu Dec 13 21:11:24 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: everfrost (USER PID AUGBQH4)
+[Thu Dec 13 21:11:24 2001] * Guide *[51 Rake] Rimedear (Halfling) <Keepers of Dreams> ZONE: hollowshade (USER PID HUGBLZN)
+[Thu Dec 13 21:11:24 2001] * Apprentice Guide *[20 Shadow Knight] Rodetta (Erudite) ZONE: gfaydark (USER PID DY6ZLSX)
+[Thu Dec 13 21:11:24 2001] There are 4 players in EverQuest.
+[Thu Dec 13 21:11:36 2001] Rainerdays says, 'thank you for doing this'
+[Thu Dec 13 21:11:41 2001] You say, 'More than glad to'
+[Thu Dec 13 21:12:03 2001] Turayn says out of character, 'How do you pay for a TP if you are goign for your corpse?'
+[Thu Dec 13 21:12:05 2001] You say, 'I'm even in my Christmas costume...!'
+[Thu Dec 13 21:12:12 2001] Rainerdays says, 'lol '
+[Thu Dec 13 21:12:15 2001] Rainerdays says, 'kewl'
+[Thu Dec 13 21:12:18 2001] Peredur says out of character, 'you keep extra funds in the bank'
+[Thu Dec 13 21:12:18 2001] Velenia says out of character, 'run to the bank first'
+[Thu Dec 13 21:12:20 2001] Aidafin says out of character, 'u dont, ehe.'
+[Thu Dec 13 21:12:21 2001] Branidar says out of character, 'people do keep money in the bank you know'
+[Thu Dec 13 21:12:25 2001] Vika says out of character, 'you go to the bank and get the money first?'
+[Thu Dec 13 21:12:39 2001] You say, 'Hello Ofelia!'
+[Thu Dec 13 21:12:40 2001] Turayn says out of character, 'Bank, whats that.  Hehe'
+[Thu Dec 13 21:12:44 2001] Ofelia says, 'Hail, Espranza'
+[Thu Dec 13 21:12:44 2001] Rainerdays grabs hold of Ofelia and begins to dance with her.
+[Thu Dec 13 21:12:45 2001] DELETING THIS PETITION
+[Thu Dec 13 21:12:52 2001] Players in EverQuest:
+[Thu Dec 13 21:12:52 2001] ---------------------------
+[Thu Dec 13 21:12:52 2001] [20 Paladin] Rainerdays (Human) <Template of Shadows> ZONE: everfrost (USER PID BU7C1ZG)
+[Thu Dec 13 21:12:52 2001] There is 1 player in EverQuest.
+[Thu Dec 13 21:12:53 2001] Palwenna says out of character, 'heres a tip for newbies.....always keep an extra weapon and some money in bank for corpse runs'
+[Thu Dec 13 21:12:57 2001] Players in EverQuest:
+[Thu Dec 13 21:12:57 2001] ---------------------------
+[Thu Dec 13 21:12:57 2001] [22 Warrior] Ofelia (Barbarian) <Template of Shadows> ZONE: everfrost (USER PID H1PS0E2)
+[Thu Dec 13 21:12:57 2001] There is 1 player in EverQuest.
+[Thu Dec 13 21:13:12 2001] Rimedear GMSAYS, 'Oh, can't keep eyes open any longer... good night all'
+[Thu Dec 13 21:13:14 2001] Turayn says out of character, 'Or train in hand to hand'
+[Thu Dec 13 21:13:16 2001] You GMSAY, '<note> Married Rainerdays BU7C1ZG and Ofelia H1PS0E2'
+[Thu Dec 13 21:13:18 2001] Lirus GMSAYS, 'gnight rime'
+[Thu Dec 13 21:13:23 2001] You GMSAY, 'night Rime!'
+[Thu Dec 13 21:13:25 2001] Palwenna says out of character, 'and that too'
+[Thu Dec 13 21:13:32 2001] Rodetta GMSAYS, 'has anyone tried getting into CT yet? i hate to bug ya, but i cant do it myself.'
+[Thu Dec 13 21:13:37 2001] You say, 'Okay, before we get started - may I ask which gods you worship, if any?'
+[Thu Dec 13 21:14:01 2001] Rainerdays says, 'i do but i cant remember which on i picked'
+[Thu Dec 13 21:14:07 2001] Ofelia says, 'ummm i dont remember '
+[Thu Dec 13 21:14:16 2001] You say, 'if you open your character screen, it's listed beneath your name'
+[Thu Dec 13 21:14:31 2001] You say, 'Mine, for instance, is Bristlebane'
+[Thu Dec 13 21:14:40 2001] Ofelia says, 'Rallos Zek..if thats right'
+[Thu Dec 13 21:14:42 2001] Chazan auctions, 'Looking for a port to EC or Dreadlands. Willing to donate.'
+[Thu Dec 13 21:14:48 2001] You say, 'Ah, the warrior god'
+[Thu Dec 13 21:14:58 2001] Ofelia says, 'ooo i picked a good one then'
+[Thu Dec 13 21:15:05 2001] Rainerdays says, 'Karana'
+[Thu Dec 13 21:15:08 2001] Branidar auctions, 'WTR a Glowing Backpack, 10 slot 100% Weight Reduction No Rent '
+[Thu Dec 13 21:15:14 2001] You say, 'And the god of storms!'
+[Thu Dec 13 21:15:30 2001] Players in EverQuest:
+[Thu Dec 13 21:15:30 2001] ---------------------------
+[Thu Dec 13 21:15:30 2001] [22 Warrior] Ofelia (Barbarian) <Template of Shadows> ZONE: everfrost (USER PID H1PS0E2)
+[Thu Dec 13 21:15:30 2001] There is 1 player in EverQuest.
+[Thu Dec 13 21:15:38 2001] You say, 'A good match!'
+[Thu Dec 13 21:15:46 2001] Ofelia says, 'thanks'
+[Thu Dec 13 21:15:53 2001] Rainerdays says, 'thank you '
+[Thu Dec 13 21:16:07 2001] Espranza closes her eyes and calms her spirit as she gathers together the forces that will unite this couple for all time.
+[Thu Dec 13 21:16:14 2001] Blaysheea shouts, 'would anyone like to group with a lvl 25 warrior in hunting Woolys?'
+[Thu Dec 13 21:16:33 2001] Turayn says out of character, 'I would but alas I am only level 8.'
+[Thu Dec 13 21:16:42 2001] You say, 'We gather here this day to bind you together; no longer will you walk separate roads,'
+[Thu Dec 13 21:16:49 2001] Chazan auctions, 'Looking for a port to EC or Dreadlands. Willing to donate.'
+[Thu Dec 13 21:17:01 2001] You say, 'but one road, wider, broader and deeper than the narrow paths you have heretofore trod.'
+[Thu Dec 13 21:17:39 2001] You say, 'Rainerdays, even your name conjures the image of a sky filled with clouds, thunder, lightning and power.'
+[Thu Dec 13 21:17:54 2001] Aidafin says out of character, 'EC is a 35min run from here with SoW,  i do it all the time.'
+[Thu Dec 13 21:18:03 2001] Ultimateshadow says out of character, 'need tp to iceclade for corpse run will pay well'
+[Thu Dec 13 21:18:14 2001] Espranza saved.
+[Thu Dec 13 21:18:15 2001] Lirus GMSAYS, 'anyone see a problem with the name Domno T`voxx?'
+[Thu Dec 13 21:18:21 2001] Chazan says out of character, 'true but its just a few seconds via port. '
+[Thu Dec 13 21:18:26 2001] You say, 'Such power can scarcely be chained, but it may be channeled, and that is your calling in life.'
+[Thu Dec 13 21:18:34 2001] Turayn says out of character, 'Not if you hit Kith at night and have to wait.'
+[Thu Dec 13 21:18:36 2001] Rodetta GMSAYS, 'yup, mob's name.'
+[Thu Dec 13 21:18:42 2001] Lirus GMSAYS, 'which mob?'
+[Thu Dec 13 21:18:42 2001] Aidafin says out of character, 'true but u will stay shouting for a port for 40minutes.'
+[Thu Dec 13 21:18:45 2001] Rodetta GMSAYS, 'well, close. Tovax Vmar.'
+[Thu Dec 13 21:18:48 2001] Aaedaen says out of character, 'nope just run the wall'
+[Thu Dec 13 21:18:48 2001] Velenia says out of character, 'what happened to the old days when people took the long way b/c it was exciting '
+[Thu Dec 13 21:18:52 2001] You say, 'Today you will harness your power to the will of this woman, Ofelia.'
+[Thu Dec 13 21:18:58 2001] Lirus GMSAYS, 'that's not very close....=)'
+[Thu Dec 13 21:18:58 2001] Aidafin says out of character, 'run thru rathe mountains'
+[Thu Dec 13 21:19:01 2001] Chazan says out of character, 'Yeah, but I can be hunting mammoth during that time.'
+[Thu Dec 13 21:19:03 2001] Lirus GMSAYS, '/bonk rodetta'
+[Thu Dec 13 21:19:08 2001] Rodetta GMSAYS, 'enough to spark a memory :)'
+[Thu Dec 13 21:19:11 2001] Lirus GMSAYS, 'hehe true'
+[Thu Dec 13 21:19:16 2001] Lirus GMSAYS, 'zone'
+[Thu Dec 13 21:19:24 2001] Aidafin says out of character, 'just trying to impart some wisdom, sorry :).'
+[Thu Dec 13 21:19:34 2001] You say, 'Ofelia, you are a warrior, of a long line of warriors, and you worship the god of battle. Rallos Zek guides your bow and lends strength to your arm.'
+[Thu Dec 13 21:19:39 2001] Rodetta GMSAYS, 'sinaelan unavail X1'
+[Thu Dec 13 21:19:52 2001] Chazan says out of character, 'No. You advice was well received and has merit. I appreciate the input.'
+[Thu Dec 13 21:20:05 2001] You say, 'Yet even such a one as he will bend toward the callings of love.'
+[Thu Dec 13 21:20:12 2001] Aidafin says out of character, 'there are two things that are almost impossible to get in this zone, one is a port two is a rezz.'
+[Thu Dec 13 21:20:25 2001] Fangg says out of character, 'you said a mouthfull there'
+[Thu Dec 13 21:20:31 2001] Aaedaen says out of character, 'so true and both will cost you plenty'
+[Thu Dec 13 21:20:35 2001] Rodetta GMSAYS, 'anyone know what zone banker tarson is in? possibly shadowhaven? my pet's logged out before i got to him, but he says the banker doesn't work.'
+[Thu Dec 13 21:20:44 2001] You say, 'Today, you will use your will and strength to embark upon a peace which will form your center, and strengthen you such as you have never before been strengthened.'
+[Thu Dec 13 21:20:51 2001] Lirus GMSAYS, 'don't recall sorry'
+[Thu Dec 13 21:20:55 2001] Rodetta GMSAYS, 'cyndrome is Unavail X1 offline.'
+[Thu Dec 13 21:21:21 2001] You say, 'Standing in the sight of Karana, Rallos Zek, and our great Daddy Bristlebane, who loves weddings as the marks of infinite jest,'
+[Thu Dec 13 21:21:30 2001] Ultimateshadow says out of character, 'if everyone wasnt such an ass'
+[Thu Dec 13 21:21:32 2001] Aaedaen says out of character, 'and now with me getting booted to desk top 50% of the time and the Lag taking me 10 min to zone you better make it well worth it for me to try and port'
+[Thu Dec 13 21:21:47 2001] Fangg says out of character, 'want to buy a white wolf pelt...only have 1 pp tho'
+[Thu Dec 13 21:22:03 2001] You say, 'and by the power granted to me by all the gods and goddesses of Norrath, I now call upon you to speak your vows to one another.'
+[Thu Dec 13 21:22:32 2001] You say, 'Rainerdays, do you take Ofelia to be your lawfully wedded wife, to have and hold her, in sickness and health, peace and battle, until death do you part?'
+[Thu Dec 13 21:22:40 2001] Rainerdays says, 'i do'
+[Thu Dec 13 21:22:43 2001] You beam a smile at Rainerdays.
+[Thu Dec 13 21:22:44 2001] You no longer have a target.
+[Thu Dec 13 21:22:52 2001] Nimmin says out of character, 'watch ye language'
+[Thu Dec 13 21:23:23 2001] You say, 'Ofelia, do you take Rainerdays to be your lawfully wedded husband, to have and hold him, in sickness and health, peace and battle, until death do you part?'
+[Thu Dec 13 21:23:30 2001] Ofelia says, 'i do'
+[Thu Dec 13 21:23:32 2001] You beam a smile at Ofelia.
+[Thu Dec 13 21:23:33 2001] You no longer have a target.
+[Thu Dec 13 21:23:54 2001] You say, 'Then by the power invested in me, I now pronounce you husband and wife!'
+[Thu Dec 13 21:23:55 2001] You no longer have a target.
+[Thu Dec 13 21:23:57 2001] You cheer.
+[Thu Dec 13 21:23:58 2001] You can't use that command right now...
+[Thu Dec 13 21:23:58 2001] Your feet leave the ground.
+[Thu Dec 13 21:23:58 2001] You can't use that command right now...
+[Thu Dec 13 21:23:58 2001] Your feet leave the ground.
+[Thu Dec 13 21:23:58 2001] You can't use that command right now...
+[Thu Dec 13 21:23:58 2001] Your feet leave the ground.
+[Thu Dec 13 21:23:58 2001] You can't use that command right now...
+[Thu Dec 13 21:23:59 2001] Your feet leave the ground.
+[Thu Dec 13 21:23:59 2001] Your feet leave the ground.
+[Thu Dec 13 21:23:59 2001] You can't use that command right now...
+[Thu Dec 13 21:23:59 2001] Your feet leave the ground.
+[Thu Dec 13 21:24:00 2001] You can't use that command right now...
+[Thu Dec 13 21:24:00 2001] You can't use that command right now...
+[Thu Dec 13 21:24:00 2001] You feel the spirit of Z surround you.
+[Thu Dec 13 21:24:00 2001] You feel the spirit of Z surround you.
+[Thu Dec 13 21:24:00 2001] Rodetta GMSAYS, 'anyone know about a blue hole in dreadlands that you can fall into? he fell into it, took 200 damage, then fell again.'
+[Thu Dec 13 21:24:00 2001] You can't use that command right now...
+[Thu Dec 13 21:24:01 2001] You feel the spirit of Z surround you.
+[Thu Dec 13 21:24:01 2001] You can't use that command right now...
+[Thu Dec 13 21:24:01 2001] You feel the spirit of Z surround you.
+[Thu Dec 13 21:24:01 2001] You can't use that command right now...
+[Thu Dec 13 21:24:01 2001] You feel the spirit of Z surround you.
+[Thu Dec 13 21:24:02 2001] You can't use that command right now...
+[Thu Dec 13 21:24:02 2001] You feel the spirit of Norrath enter you.
+[Thu Dec 13 21:24:02 2001] You feel the spirit of Norrath enter you.
+[Thu Dec 13 21:24:08 2001] You can no longer levitate.
+[Thu Dec 13 21:24:10 2001] Lirus GMSAYS, 'mmmmm nope'
+[Thu Dec 13 21:24:15 2001] You say, 'You may kill one another ;)'
+[Thu Dec 13 21:24:19 2001] You say, 'ER KISS!'
+[Thu Dec 13 21:24:21 2001] Ofelia says, 'lol'
+[Thu Dec 13 21:24:22 2001] You no longer have a target.
+[Thu Dec 13 21:24:26 2001] Rainerdays kisses his new wife Ofelia.
+[Thu Dec 13 21:24:28 2001] Lirus GMSAYS, 'afk gotta hit the restroom'
+[Thu Dec 13 21:24:28 2001] Espranza curses Bristlebane!
+[Thu Dec 13 21:24:37 2001] Ofelia kisses Rainerdays.
+[Thu Dec 13 21:24:39 2001] Rodetta GMSAYS, 'weird bug. caused a death. if he could lead you to it, is it worth an investigation?'
+[Thu Dec 13 21:24:40 2001] You say, 'I have some presents ;)'
+[Thu Dec 13 21:24:57 2001] Lirus GMSAYS, 'if he can reproduce then by all means go look'
+[Thu Dec 13 21:25:12 2001] Espranza saved.
+[Thu Dec 13 21:25:16 2001] Peredur auctions, 'WTS Gnoll Hide lariat 3/20 effect: stun 1hs 6pp'
+[Thu Dec 13 21:25:18 2001] Ofelia says, 'aww thank you'
+[Thu Dec 13 21:25:37 2001] Espranza saved.
+[Thu Dec 13 21:25:39 2001] You no longer have a target.
+[Thu Dec 13 21:25:42 2001] Rainerdays says, 'dont mean to interrupt.. i wasnt sure if you where given the new last name for us'
+[Thu Dec 13 21:25:53 2001] Rainerdays says, 'cool cake and beer..'
+[Thu Dec 13 21:25:58 2001] You say, 'Have you tried using the /surname command to set your last name, Ofelia?'
+[Thu Dec 13 21:26:05 2001] Ofelia says, 'no i havent'
+[Thu Dec 13 21:26:14 2001] You say, 'Then try typing /surname Phunku'
+[Thu Dec 13 21:26:29 2001] Ofelia says, 'but we dont want his last name'
+[Thu Dec 13 21:26:36 2001] You say, 'Ahhhh what name would you like?'
+[Thu Dec 13 21:26:36 2001] Rainerdays says, 'sorry that wasnt the last name we picked together'
+[Thu Dec 13 21:26:47 2001] Ofelia says, 'Stormerknights'
+[Thu Dec 13 21:26:53 2001] You GMSAY, 'Lirus, can you set a new last name for this couple?'
+[Thu Dec 13 21:27:15 2001] Espranza concentrates, trying to summon the GM.
+[Thu Dec 13 21:27:16 2001] Players in EverQuest:
+[Thu Dec 13 21:27:16 2001] ---------------------------
+[Thu Dec 13 21:27:16 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: oot (USER PID CW1ECN5)
+[Thu Dec 13 21:27:16 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: everfrost (USER PID AUGBQH4)
+[Thu Dec 13 21:27:16 2001] * Apprentice Guide *[20 Shadow Knight] Rodetta (Erudite) ZONE: gfaydark (USER PID DY6ZLSX)
+[Thu Dec 13 21:27:16 2001] There are 3 players in EverQuest.
+[Thu Dec 13 21:27:31 2001] Vashakir says out of character, 'Soloist to ramp....I hope'
+[Thu Dec 13 21:27:34 2001] You GMSAY, 'Rodetta, are you grouped?'
+[Thu Dec 13 21:27:40 2001] Rodetta GMSAYS, 'nope.'
+[Thu Dec 13 21:27:52 2001] You GMSAY, 'Oh, I will... one moment... unless you want to come here...'
+[Thu Dec 13 21:28:16 2001] You GMSAY, 'Lirus, can you give a last name to this newly-married couple?'
+[Thu Dec 13 21:28:17 2001] Lirus GMSAYS, 'sure esp'
+[Thu Dec 13 21:28:18 2001] Rainerdays says, 'Hail, Espranza'
+[Thu Dec 13 21:28:26 2001] You GMSAY, 'ah sorry for the dupe ;)'
+[Thu Dec 13 21:28:34 2001] You say, 'Lirus is on his way'
+[Thu Dec 13 21:28:34 2001] You no longer have a target.
+[Thu Dec 13 21:28:41 2001] Hiannahianna shouts, 'level 4 lfg/ looken for group'
+[Thu Dec 13 21:28:41 2001] Ofelia says, 'thank you'
+[Thu Dec 13 21:28:47 2001] Lirus GMSAYS, 'who needs change?'
+[Thu Dec 13 21:28:50 2001] You say, 'Stormerknights?'
+[Thu Dec 13 21:28:57 2001] Ofelia says, 'yes'
+[Thu Dec 13 21:29:07 2001] Rainerdays says, 'thank you very much for doing this'
+[Thu Dec 13 21:29:07 2001] You GMSAY, 'Ofelia and Rainerdays, I'm with them now. They wish the last name Stormerknights.'
+[Thu Dec 13 21:29:13 2001] You say, 'My pleasure!'
+[Thu Dec 13 21:29:15 2001] Lirus GMSAYS, 'zone'
+[Thu Dec 13 21:30:00 2001] Players in EverQuest:
+[Thu Dec 13 21:30:00 2001] ---------------------------
+[Thu Dec 13 21:30:00 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: everfrost (USER PID CW1ECN5)
+[Thu Dec 13 21:30:00 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: everfrost (USER PID AUGBQH4)
+[Thu Dec 13 21:30:00 2001] * Apprentice Guide *[20 Shadow Knight] Rodetta (Erudite) ZONE: gfaydark (USER PID DY6ZLSX)
+[Thu Dec 13 21:30:00 2001] There are 3 players in EverQuest.
+[Thu Dec 13 21:30:15 2001] You no longer have a target.
+[Thu Dec 13 21:30:17 2001] You no longer have a target.
+[Thu Dec 13 21:30:23 2001] Rodetta GMSAYS, 'hmm, this guys fell to his death from solid ground. if we find his corpse under the world or at safe-point, is that proof enough for a rez?'
+[Thu Dec 13 21:30:24 2001] You cheer at Lirus.
+[Thu Dec 13 21:30:34 2001] You GMSAY, 'a report is'
+[Thu Dec 13 21:30:37 2001] Rainerdays snaps to attention and salutes Lirus crisply.
+[Thu Dec 13 21:30:40 2001] You GMSAY, 'get him to report the fall'
+[Thu Dec 13 21:30:42 2001] Ofelia says, 'Hail, Lirus'
+[Thu Dec 13 21:30:44 2001] Gallath auctions, 'pretty face  too :)  ''
+[Thu Dec 13 21:30:47 2001] Rodetta GMSAYS, 'k.'
+[Thu Dec 13 21:30:52 2001] Khangore says out of character, 'Thanks'
+[Thu Dec 13 21:30:52 2001] Lirus says, 'Hullo'
+[Thu Dec 13 21:30:55 2001] You GMSAY, 'under the world is proof enough. Safe point sometimes is.'
+[Thu Dec 13 21:31:06 2001] Lirus cheers at Ofelia.
+[Thu Dec 13 21:31:08 2001] Lirus cheers at Rainerdays.
+[Thu Dec 13 21:31:14 2001] Rainerdays says, 'thank you for taking time to help us with are wedding'
+[Thu Dec 13 21:31:15 2001] Lirus GMSAYS, 'names changed'
+[Thu Dec 13 21:31:17 2001] You say, 'Many happy journeys to you both! I must leave now...!'
+[Thu Dec 13 21:31:20 2001] You no longer have a target.
+[Thu Dec 13 21:31:22 2001] You bow.
+[Thu Dec 13 21:31:23 2001] You wave goodbye to everyone.
+[Thu Dec 13 21:31:24 2001] Lirus says, 'Congratulations'
+[Thu Dec 13 21:31:26 2001] Rainerdays says, 'good luck hunting'
+[Thu Dec 13 21:31:26 2001] You GMSAY, 'zone'
+[Thu Dec 13 21:31:27 2001] Rodetta GMSAYS, 'oh shoot, he lagged out waiting for me to responde to his pet. got back just before i responded. no chat log.'
+[Thu Dec 13 21:31:27 2001] Ofelia says, 'thank you Espranza'
+[Thu Dec 13 21:31:31 2001] Teleporting to rodetta.
+[Thu Dec 13 21:31:32 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 21:32:11 2001] Hexitus shouts, 'any sow at the orc lift'
+[Thu Dec 13 21:32:21 2001] You have entered Greater Faydark.
+[Thu Dec 13 21:32:25 2001] You invite Rodetta to join your group.
+[Thu Dec 13 21:32:25 2001] Cesall says out of character, 'at what lvl do you start to lose exp?'
+[Thu Dec 13 21:32:32 2001] Surinya says out of character, '5th'
+[Thu Dec 13 21:32:33 2001] You have formed the group.
+[Thu Dec 13 21:32:36 2001] You tell your party, 'hiya!'
+[Thu Dec 13 21:32:44 2001] Rodetta GMSAYS, 'hiya.'
+[Thu Dec 13 21:32:46 2001] You tell your party, 'esc that one to me'
+[Thu Dec 13 21:32:46 2001] Sandroc says out of character, 'Looking for port to lavastorm plz, will donante'
+[Thu Dec 13 21:32:47 2001] Rodetta tells the group, 'hiya, i mean'
+[Thu Dec 13 21:32:56 2001] You were hit by non-melee for 27 dmg.
+[Thu Dec 13 21:32:56 2001] YOU were injured by falling.
+[Thu Dec 13 21:32:57 2001] Rodetta tells the group, 'lyeper.'
+[Thu Dec 13 21:33:11 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Dec 13 21:33:12 2001] USER TEXT: im stuck inbetween worlds or something i keep falling for hella dmg
+[Thu Dec 13 21:33:12 2001] Players in EverQuest:
+[Thu Dec 13 21:33:12 2001] ---------------------------
+[Thu Dec 13 21:33:12 2001] [ANON (42 Druid)] Lyeper (Wood Elf) ZONE: dreadlands (USER PID EP9KF0U)
+[Thu Dec 13 21:33:12 2001] There is 1 player in EverQuest.
+[Thu Dec 13 21:33:18 2001] Rodetta tells the group, 'way to much info the append. i'l run it past ya again.'
+[Thu Dec 13 21:33:18 2001] Searching zones for corpse of that name....
+[Thu Dec 13 21:33:18 2001] Corpse: Lyeper's corpse0 in zone: dreadlands
+[Thu Dec 13 21:33:26 2001] Pullias was injured by falling.
+[Thu Dec 13 21:33:26 2001] Pullias has fallen to his death!
+[Thu Dec 13 21:33:28 2001] Reyenangelis says out of character, 'looking for bind at orc lift, anyone please'
+[Thu Dec 13 21:33:29 2001] Gippwin auctions, 'WTS stacks of spider and spiderling silk send tell please'
+[Thu Dec 13 21:33:31 2001] Searching for lyeper's corpse0.
+[Thu Dec 13 21:33:31 2001] Could not locate player with that name.
+[Thu Dec 13 21:33:48 2001] You tell your party, 'well, let me go to DL and see what the corpse looks like.'
+[Thu Dec 13 21:33:51 2001] You GMSAY, 'zone'
+[Thu Dec 13 21:33:55 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 21:34:55 2001] Artulo auctions, 'wtb hq brute hide 10pp, misty acorn 2pp, plns pbl 2pp'
+[Thu Dec 13 21:34:55 2001] Charmlee shouts, '50 monk lfg'
+[Thu Dec 13 21:34:55 2001] Uanan auctions, 'WTB A Lammy! send tells please'
+[Thu Dec 13 21:34:55 2001] A Mystic Voice shouts 'As a reminder, the portal will become active in three minutes. 
+[Thu Dec 13 21:34:55 2001] a drachnid widow died.
+[Thu Dec 13 21:35:04 2001] You have entered Dreadlands.
+[Thu Dec 13 21:35:04 2001] You have formed the group.
+[Thu Dec 13 21:35:16 2001] Teleporting to lyeper's corpse0.
+[Thu Dec 13 21:35:34 2001] A Mystic Voice shouts 'Two minutes till teleportation. Please be prepared to step inside the circle of Spires. 
+[Thu Dec 13 21:35:41 2001] USER TEXT: im stuck inbetween worlds or something i keep falling for hella dmg
+[Thu Dec 13 21:35:47 2001] GM TEXT: 
+[Thu Dec 13 21:35:55 2001] Charmlee shouts, '50 Monk LFG'
+[Thu Dec 13 21:36:04 2001] You tell your party, 'okay, his body is just next to a fallen pillar outside KC...'
+[Thu Dec 13 21:36:07 2001] Lillaen begins to cast a spell. (Superior Healing)
+[Thu Dec 13 21:36:12 2001] Uanan auctions, 'WTS Jade Mace! send tells please'
+[Thu Dec 13 21:36:13 2001] You tell your party, 'so it doesn't LOOK bugged....'
+[Thu Dec 13 21:36:20 2001] Ryei auctions, 'Translocating to everywhere... even to bindpoint'
+[Thu Dec 13 21:36:31 2001] Rodetta tells the group, 'darn. this is a weird one.'
+[Thu Dec 13 21:36:38 2001] A Mystic Voice shouts 'One minute till teleportation. Please be prepared to step inside the circle of Spires. 
+[Thu Dec 13 21:36:39 2001] Uanan shouts, 'east ruin group looking for more'
+[Thu Dec 13 21:36:41 2001] You tell your party, 'wanna come here?'
+[Thu Dec 13 21:36:44 2001] Artulo auctions, 'wtb hq brute hide 10pp, misty acorn 2pp, plns pbl 2pp'
+[Thu Dec 13 21:36:47 2001] Rodetta GMSAYS, 'not at loc 0,0 or anything?'
+[Thu Dec 13 21:36:52 2001] You tell your party, 'nope'
+[Thu Dec 13 21:36:54 2001] Rodetta GMSAYS, 'darn, keep dong that'
+[Thu Dec 13 21:36:57 2001] Rodetta tells the group, 'sure.'
+[Thu Dec 13 21:36:58 2001] Lillaen begins to cast a spell. (Superior Healing)
+[Thu Dec 13 21:37:00 2001] You tell your party, 'say zone'
+[Thu Dec 13 21:37:02 2001] Rodetta GMSAYS, 'ZONEING (and dont you forget it)'
+[Thu Dec 13 21:37:03 2001] Summoning rodetta.
+[Thu Dec 13 21:37:06 2001] Ryei auctions, 'WTS Icetooth Claws --> 11/29 1hs!'
+[Thu Dec 13 21:37:26 2001] A Mystic Voice shouts 'The portal to Luclin is about to become active. Please stand inside the circle of Spires and have a shard upon your person. 
+[Thu Dec 13 21:38:10 2001] Rluen says out of character, 'looking for a tp to IC willing to donate, I am at the rings'
+[Thu Dec 13 21:38:12 2001] Charmlee shouts, '50 Monk LFG'
+[Thu Dec 13 21:38:30 2001] Searching for Lyeper's corpse0.
+[Thu Dec 13 21:38:31 2001] Player is in zone dreadlands at x = 1025 y = -2819 z = 24.
+[Thu Dec 13 21:38:38 2001] You point at Lyeper. Yeah you!
+[Thu Dec 13 21:38:40 2001] Rluen says out of character, 'looking for a tp to IC willing to donate, I am at the rings'
+[Thu Dec 13 21:38:44 2001] Artulo auctions, 'wtb hq brute hide 10pp, misty acorn 2pp, plns pbl 2pp'
+[Thu Dec 13 21:38:46 2001] Ryei auctions, 'Translocating to everywhere... even to bindpoint'
+[Thu Dec 13 21:38:53 2001] Rodetta tells the group, 'odd.'
+[Thu Dec 13 21:39:02 2001] A Mystic Voice shouts 'In approximately 15 minutes the Spires will once again become active. 
+[Thu Dec 13 21:39:10 2001] You tell your party, 'really wish he'd been able to file a report....'
+[Thu Dec 13 21:39:17 2001] Rodetta tells the group, 'no hidden holes in the ground.'
+[Thu Dec 13 21:39:25 2001] Lillaen begins to cast a spell. (Superior Healing)
+[Thu Dec 13 21:39:32 2001] Lirus GMSAYS, 'camping to do a character wipe'
+[Thu Dec 13 21:39:34 2001] Lirus GMSAYS, 'be right back'
+[Thu Dec 13 21:39:37 2001] You GMSAY, 'gulp'
+[Thu Dec 13 21:39:54 2001] Rodetta tells the group, 'wipe?'
+[Thu Dec 13 21:39:56 2001] You tell your party, 'so I don't know what we can do'
+[Thu Dec 13 21:40:04 2001] You tell your party, 'aye, Lirus is going to remove someone's characters'
+[Thu Dec 13 21:40:11 2001] Rodetta tells the group, 'punishment?'
+[Thu Dec 13 21:40:18 2001] You tell your party, 'Dunno, probably'
+[Thu Dec 13 21:40:20 2001] Dusein shouts, 'lvl 42 warrior LFG'
+[Thu Dec 13 21:40:28 2001] You tell your party, 'I'm going to return Lyeper to the queue'
+[Thu Dec 13 21:40:36 2001] Charmlee shouts, '50 Monk LFG'
+[Thu Dec 13 21:40:38 2001] A Mystic Voice shouts 'In approximately 15 minutes the Spires will once again become active. 
+[Thu Dec 13 21:40:38 2001] You tell your party, 'I can't rez without proof'
+[Thu Dec 13 21:40:41 2001] Artulo auctions, 'wtb hq brute hide 10pp, misty acorn 2pp, plns pbl 2pp'
+[Thu Dec 13 21:40:42 2001] Rluen says out of character, 'looking for a tp to IC willing to donate, I am at the rings'
+[Thu Dec 13 21:40:45 2001] Ryei auctions, 'Translocating to everywhere... even to bindpoint'
+[Thu Dec 13 21:40:49 2001] CHECKING IN
+[Thu Dec 13 21:40:57 2001] Uanan shouts, 'east ruins group looking for another Healer!'
+[Thu Dec 13 21:40:58 2001] Stig shouts, '44 shaman lfg'
+[Thu Dec 13 21:41:01 2001] Rodetta GMSAYS, 'well, the next one is even weirder. she hit a zone, and ended up comming to her bind point, dead.'
+[Thu Dec 13 21:41:02 2001] You GMSAY, 'returning Lyeper to the queue, couldn't see anything bugged with the corpse.'
+[Thu Dec 13 21:41:18 2001] You GMSAY, 'was she being attacked?'
+[Thu Dec 13 21:41:20 2001] Lillaen begins to cast a spell. (Gate)
+[Thu Dec 13 21:41:21 2001] Rubrik says out of character, '47 monk lfg'
+[Thu Dec 13 21:41:22 2001] Dusein shouts, 'lvl 42 warrior LFG'
+[Thu Dec 13 21:41:34 2001] Rodetta GMSAYS, 'nope, full health. body is in the zone she had left from.'
+[Thu Dec 13 21:41:42 2001] You GMSAY, 'which zone?'
+[Thu Dec 13 21:41:45 2001] Frynnde GMSAYS, 'zone'
+[Thu Dec 13 21:41:49 2001] Players in EverQuest:
+[Thu Dec 13 21:41:49 2001] ---------------------------
+[Thu Dec 13 21:41:49 2001] * Apprentice Guide *[20 Shadow Knight] Rodetta (Erudite) ZONE: dreadlands (USER PID DY6ZLSX)
+[Thu Dec 13 21:41:49 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: dreadlands (USER PID AUGBQH4)
+[Thu Dec 13 21:41:49 2001] There are 2 players in EverQuest.
+[Thu Dec 13 21:41:54 2001] Rodetta GMSAYS, 'maiden'
+[Thu Dec 13 21:42:09 2001] Rodetta GMSAYS, 'she's in dawnshroud right now.'
+[Thu Dec 13 21:42:15 2001] You GMSAY, 'okay esc that one and I'll check it out.'
+[Thu Dec 13 21:42:20 2001] You GMSAY, 'Tell Lyeper the sad news.'
+[Thu Dec 13 21:42:21 2001] Players in EverQuest:
+[Thu Dec 13 21:42:21 2001] ---------------------------
+[Thu Dec 13 21:42:21 2001] * Apprentice Guide *[20 Shadow Knight] Rodetta (Erudite) ZONE: dreadlands (USER PID DY6ZLSX)
+[Thu Dec 13 21:42:21 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: dreadlands (USER PID AUGBQH4)
+[Thu Dec 13 21:42:21 2001] There are 2 players in EverQuest.
+[Thu Dec 13 21:42:21 2001] Dusein says, 'A gm convention'
+[Thu Dec 13 21:42:22 2001] Valkrados auctions, 'WTS golden diamond mask 10fr 10cf 5 dr 5pr 3 mr 1k send tells'
+[Thu Dec 13 21:42:25 2001] Valkrados auctions, 'WTS ykesha war club 1hb 9 24 procs 70dd 1500pp send tells'
+[Thu Dec 13 21:42:27 2001] Rodetta GMSAYS, 'havn't contacted her yet, i'l leave it to you.'
+[Thu Dec 13 21:42:29 2001] Uanan auctions, 'WTB A Lammy! send tells please'
+[Thu Dec 13 21:42:37 2001] Rodetta GMSAYS, 'arriell'
+[Thu Dec 13 21:42:37 2001] Dhameon auctions, 'WTS Jaundiced Bone Vembracer'
+[Thu Dec 13 21:42:39 2001] Lyeper cheers at Rodetta.
+[Thu Dec 13 21:42:39 2001] Sonaddil shouts, 'lvl 41 pally lfg'
+[Thu Dec 13 21:42:44 2001] Dusein shouts, 'lvl 42 warrior LFG'
+[Thu Dec 13 21:42:44 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Dec 13 21:42:45 2001] USER TEXT: ok? had full life...  zoned from Maiden to Dawnshroud..  when i zoned in all my equipment was gone and spells..  as if i died in mid zone + lost my level?  what is goin on here?
+[Thu Dec 13 21:42:45 2001] Ryei auctions, 'WTS Icetooth Claws --> 11/29 1hs!'
+[Thu Dec 13 21:42:45 2001] Players in EverQuest:
+[Thu Dec 13 21:42:45 2001] ---------------------------
+[Thu Dec 13 21:42:45 2001] [50 Druid] Arriell (Wood Elf) <Revered Souls> ZONE: dawnshroud (USER PID ET3M8PQ)
+[Thu Dec 13 21:42:45 2001] There is 1 player in EverQuest.
+[Thu Dec 13 21:42:49 2001] Rluen says out of character, 'looking for a tp to IC willing to donate, I am at the rings'
+[Thu Dec 13 21:42:49 2001] Searching zones for corpse of that name....
+[Thu Dec 13 21:42:50 2001] Corpse: Arriell's corpse0 in zone: maiden
+[Thu Dec 13 21:42:52 2001] You GMSAY, 'zone'
+[Thu Dec 13 21:42:54 2001] Lickety auctions, 'WTS Black Pantherskin Tunic, BE Bracer'
+[Thu Dec 13 21:42:58 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 21:43:53 2001] You have entered The Maiden's Eye.
+[Thu Dec 13 21:43:53 2001] You have formed the group.
+[Thu Dec 13 21:44:35 2001] Keming says out of character, '52 monk LFG'
+[Thu Dec 13 21:45:42 2001] Teleporting to arriell's corpse0.
+[Thu Dec 13 21:46:03 2001] Tininae begins to cast a spell. (Superior Healing)
+[Thu Dec 13 21:46:08 2001] Nizinki feels much better.
+[Thu Dec 13 21:46:11 2001] You say, 'What happened?'
+[Thu Dec 13 21:46:16 2001] Sansisy says, 'Sareine you look like a little Devil hehe'
+[Thu Dec 13 21:46:22 2001] Nizinki begins to cast a spell. (Clarity)
+[Thu Dec 13 21:46:23 2001] Players on EverQuest:
+[Thu Dec 13 21:46:23 2001] ---------------------------
+[Thu Dec 13 21:46:23 2001] [55 Master] Vilexx (Iksar) <Reviction>
+[Thu Dec 13 21:46:23 2001] [59 Evoker] Salop (High Elf) <Altruistic Valorians>
+[Thu Dec 13 21:46:23 2001] [59 Preserver] Mepper (Halfling) <Altruistic Valorians>
+[Thu Dec 13 21:46:23 2001] [60 Oracle] Khelden (Barbarian) <Reviction>
+[Thu Dec 13 21:46:23 2001] [57 Templar] Tierman (Human) <Altruistic Valorians>
+[Thu Dec 13 21:46:23 2001] [60 Phantasmist] Nizinki (Erudite) <Altruistic Valorians>
+[Thu Dec 13 21:46:23 2001] [ANONYMOUS] Caramia  <Reviction>
+[Thu Dec 13 21:46:23 2001] [56 Revenant] Acidica (Dark Elf) <Reviction>
+[Thu Dec 13 21:46:23 2001] [57 Conjurer] Narcesis (Human) <The Forgotten>
+[Thu Dec 13 21:46:23 2001] [53 Champion] Hidious (Troll) <Lunacy>
+[Thu Dec 13 21:46:23 2001] [ANONYMOUS] Darlissa  <Lunacy>
+[Thu Dec 13 21:46:23 2001] [56 Conjurer] Kruldex (High Elf) <Reviction>
+[Thu Dec 13 21:46:23 2001] [56 Outrider] Pipswich (Unknown)
+[Thu Dec 13 21:46:23 2001] [57 Outrider] Skykam (Wood Elf) <Reviction>
+[Thu Dec 13 21:46:23 2001] [60 Virtuoso] Anania (Wood Elf)
+[Thu Dec 13 21:46:23 2001] [ANONYMOUS] Aryel  <The Forgotten>
+[Thu Dec 13 21:46:23 2001] [ANONYMOUS] Kriilo 
+[Thu Dec 13 21:46:23 2001] [ANONYMOUS] Lilavati  <The Tears of Veeshan>
+[Thu Dec 13 21:46:23 2001] [56 Defiler] Vivicide (Unknown) <The Tears of Veeshan>
+[Thu Dec 13 21:46:23 2001] [51 Pathfinder] Orestes (Wood Elf) <The Tears of Veeshan>
+[Thu Dec 13 21:46:23 2001] [60 High Priest] Lanlawen (High Elf) <Triune>
+[Thu Dec 13 21:46:23 2001] [56 Myrmidon] Silinius (Unknown) <Triune>
+[Thu Dec 13 21:46:23 2001] [60 Sorcerer] Yugy (Gnome) <Triune>
+[Thu Dec 13 21:46:23 2001] [58 Preserver] Durty (Wood Elf) <Triune>
+[Thu Dec 13 21:46:23 2001] [ANONYMOUS] Naleen  <Triune>
+[Thu Dec 13 21:46:23 2001] [56 Beguiler] Aleanya (Erudite) <Triune>
+[Thu Dec 13 21:46:23 2001] [51 Mystic] Sansisy (Iksar) <Titan Lords>
+[Thu Dec 13 21:46:23 2001] [ANONYMOUS] Tininae  <Titan Lords>
+[Thu Dec 13 21:46:23 2001] [51 Disciple] Moparian (Iksar) <Titan Lords>
+[Thu Dec 13 21:46:23 2001] [55 Preserver] Speedwalkerr (Unknown) <United Guardians>
+[Thu Dec 13 21:46:23 2001] [55 Troubadour] Gravee (Unknown) <Hall of Heroes>
+[Thu Dec 13 21:46:23 2001] [51 Cavalier] Blabberpuss (Human) <Titan Lords>
+[Thu Dec 13 21:46:23 2001] [54 Vicar] Solarianne (High Elf) <The Tears of Veeshan>
+[Thu Dec 13 21:46:23 2001] [56 Troubadour] Ryme (Iksar) <Altruistic Valorians>
+[Thu Dec 13 21:46:23 2001] [52 Disciple] Keming (Human) <Kingdom of Steel>
+[Thu Dec 13 21:46:23 2001] [54 Rake] Deemoore (Barbarian) <United Guardians>
+[Thu Dec 13 21:46:23 2001] [59 Defiler] Doomz (Human) <Altruistic Valorians>
+[Thu Dec 13 21:46:23 2001] [59 Templar] Mhalgrim (Dwarf) <Altruistic Valorians>
+[Thu Dec 13 21:46:23 2001] [53 Mystic] Spyritwalker (Iksar) <Titan Lords>
+[Thu Dec 13 21:46:23 2001] [51 Illusionist] Sareine (Human) <Titan Lords>
+[Thu Dec 13 21:46:23 2001] [ANONYMOUS] Medusarexei  <Thunderwalkers>
+[Thu Dec 13 21:46:23 2001] [ANONYMOUS] Klerica 
+[Thu Dec 13 21:46:23 2001] [ANONYMOUS] Maxreximux 
+[Thu Dec 13 21:46:23 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Dec 13 21:46:23 2001] There are 44 players in The Maiden's Eye.
+[Thu Dec 13 21:46:25 2001] Sareine begins to cast a spell. (Illusion: Iksar)
+[Thu Dec 13 21:46:26 2001] Ryme says, 'people training us like usual =/'
+[Thu Dec 13 21:46:33 2001] Sareine cheers at Sansisy.
+[Thu Dec 13 21:46:37 2001] Teleporting to Arriell's corpse0 (1004.19, 2041.00, -211.51).
+[Thu Dec 13 21:46:38 2001] Nizinki looks tranquil.
+[Thu Dec 13 21:46:40 2001] Moparian giggles at Sareine.
+[Thu Dec 13 21:46:43 2001] Ryme says, 'would you like names?  hehe'
+[Thu Dec 13 21:46:46 2001] You no longer have a target.
+[Thu Dec 13 21:47:04 2001] You say, 'I'm not here for that, just wondering how dangerous this zoneout is'
+[Thu Dec 13 21:47:05 2001] Sansisy says, 'i think they should make lizzies chanters '
+[Thu Dec 13 21:47:11 2001] Sareine says, 'my facepaint makes me look like a Seminole fan hehe'
+[Thu Dec 13 21:47:30 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:47:30 2001] Tierman begins to cast a spell. (Reviviscence)
+[Thu Dec 13 21:47:40 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 21:48:29 2001] You have entered The Dawnshroud Peaks.
+[Thu Dec 13 21:48:29 2001] You have formed the group.
+[Thu Dec 13 21:48:37 2001] You GMSAY, 'rezone'
+[Thu Dec 13 21:48:38 2001] Players in EverQuest:
+[Thu Dec 13 21:48:38 2001] ---------------------------
+[Thu Dec 13 21:48:38 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: dawnshroud (USER PID AUGBQH4)
+[Thu Dec 13 21:48:38 2001] * Apprentice Guide *[20 Shadow Knight] Rodetta (Erudite) ZONE: dreadlands (USER PID DY6ZLSX)
+[Thu Dec 13 21:48:38 2001] There are 2 players in EverQuest.
+[Thu Dec 13 21:48:38 2001] Rodetta GMSAYS, 'he took it well. he's not mad, just disapointed.'
+[Thu Dec 13 21:49:01 2001] You GMSAY, 'I wish we had more tools to tell what really happened...'
+[Thu Dec 13 21:49:05 2001] You GMSAY, 'zone'
+[Thu Dec 13 21:49:07 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 21:49:49 2001] Keming says out of character, '52 monk LFG'
+[Thu Dec 13 21:49:58 2001] You have entered The Maiden's Eye.
+[Thu Dec 13 21:50:01 2001] Spyritwalker says, 'thanks bro '
+[Thu Dec 13 21:50:05 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:50:09 2001] Sareine says, 'try again'
+[Thu Dec 13 21:50:10 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:50:17 2001] Sansisy begins to cast a spell. (Superior Healing)
+[Thu Dec 13 21:50:22 2001] Spyritwalker feels much better.
+[Thu Dec 13 21:50:22 2001] Tininae begins to cast a spell. (Superior Healing)
+[Thu Dec 13 21:50:24 2001] Sareine says, 'try again'
+[Thu Dec 13 21:50:32 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:50:35 2001] Sareine begins to cast a spell. (Clarity)
+[Thu Dec 13 21:50:35 2001] USER TEXT: ok? had full life...  zoned from Maiden to Dawnshroud..  when i zoned in all my equipment was gone and spells..  as if i died in mid zone + lost my level?  what is goin on here?
+[Thu Dec 13 21:50:37 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:50:41 2001] Tierman begins to cast a spell. (Reviviscence)
+[Thu Dec 13 21:50:44 2001] Tininae begins to cast a spell. (Superior Healing)
+[Thu Dec 13 21:50:44 2001] Sareine begins to cast a spell. (Clarity)
+[Thu Dec 13 21:50:46 2001] Tierman says, 'rezzing'
+[Thu Dec 13 21:50:48 2001] Salop's spell fizzles!
+[Thu Dec 13 21:50:49 2001] Teleporting to Arriell's corpse0 (1004.21, 2041.00, -211.51).
+[Thu Dec 13 21:50:50 2001] Chomp, chomp, chomp...  Ryme takes a bite from a Roots.
+[Thu Dec 13 21:50:53 2001] Sareine begins to cast a spell. (Clarity)
+[Thu Dec 13 21:50:58 2001] Sareine begins to cast a spell. (Clarity)
+[Thu Dec 13 21:50:59 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:50:59 2001] Ryme's song ends.
+[Thu Dec 13 21:50:59 2001] Ryme's song ends.
+[Thu Dec 13 21:51:00 2001] Ryme's hand is covered with a dull aura.
+[Thu Dec 13 21:51:02 2001]  (Cantata of Replenishment)
+[Thu Dec 13 21:51:04 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:51:07 2001] Ryme's song ends.
+[Thu Dec 13 21:51:07 2001] Ryme's song ends.
+[Thu Dec 13 21:51:08 2001] Sareine begins to cast a spell. (Clarity)
+[Thu Dec 13 21:51:10 2001] Mhalgrim begins to cast a spell. (Celestial Elixir)
+[Thu Dec 13 21:51:11 2001] You told Arriell, 'Hail, Arriell! Guide Espranza here. I see you just got a rez...'
+[Thu Dec 13 21:51:11 2001] Salop begins to cast a spell. (Harvest)
+[Thu Dec 13 21:51:11 2001] A missed note brings Ryme's song to a close!
+[Thu Dec 13 21:51:11 2001] Ryme's song ends.
+[Thu Dec 13 21:51:12 2001]  (Cantata of Replenishment)
+[Thu Dec 13 21:51:14 2001] Tininae begins to cast a spell. (Superior Healing)
+[Thu Dec 13 21:51:15 2001] Mepper begins to cast a spell. (Regrowth of the Grove)
+[Thu Dec 13 21:51:16 2001] Sansisy begins to cast a spell. (Superior Healing)
+[Thu Dec 13 21:51:21 2001] Salop's casting is interrupted!
+[Thu Dec 13 21:51:21 2001] Salop gathers glowing blue strands of mana.
+[Thu Dec 13 21:51:22 2001] You told Arriell, 'It's odd - your corpse isn't at the zone...'
+[Thu Dec 13 21:51:24 2001] Sareine begins to cast a spell. (Gift of Magic)
+[Thu Dec 13 21:51:33 2001] Sareine begins to cast a spell. (Gift of Magic)
+[Thu Dec 13 21:51:36 2001] You told Arriell, 'though it's fairly near'
+[Thu Dec 13 21:51:40 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:51:45 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:51:49 2001] Ryme says, 'Doomz you didnt fail feign that time grats )'
+[Thu Dec 13 21:51:50 2001] Sareine begins to cast a spell. (Gift of Magic)
+[Thu Dec 13 21:51:58 2001] Sareine begins to cast a spell. (Gift of Magic)
+[Thu Dec 13 21:52:04 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:52:06 2001] Arriell tells you, 'I zoned just aafter i got hit for 33 points of damage and it said loading please wait then i was dead ?'
+[Thu Dec 13 21:52:09 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:52:12 2001] Tierman begins to cast a spell. (Reviviscence)
+[Thu Dec 13 21:52:17 2001] Sareine begins to cast a spell. (Insight)
+[Thu Dec 13 21:52:21 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:52:25 2001] Sareine begins to cast a spell. (Insight)
+[Thu Dec 13 21:52:26 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:52:32 2001] Tierman begins to cast a spell. (Reviviscence)
+[Thu Dec 13 21:52:33 2001] Sareine begins to cast a spell. (Insight)
+[Thu Dec 13 21:52:37 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:52:42 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:52:42 2001] Malekitth shouts, '56 sk LFG =-)'
+[Thu Dec 13 21:53:03 2001] Mhalgrim begins to cast a spell. (Reviviscence)
+[Thu Dec 13 21:53:04 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:53:08 2001] Sareine begins to cast a spell. (Brilliance)
+[Thu Dec 13 21:53:10 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:53:17 2001] You told Arriell, 'there is a period of time between when you start zoning and by the time you are actually removed from the zone you left, when it is possible to be attacked.'
+[Thu Dec 13 21:53:20 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:53:24 2001] Mawlen GMSAYS, '20 druid lfg'
+[Thu Dec 13 21:53:24 2001] Tierman begins to cast a spell. (Reviviscence)
+[Thu Dec 13 21:53:25 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:53:31 2001] You GMSAY, 'I'll get ya in a sec'
+[Thu Dec 13 21:53:31 2001] Sareine begins to cast a spell. (Arch Shielding)
+[Thu Dec 13 21:53:36 2001] Puldain begins to cast a spell. (Divine Glory)
+[Thu Dec 13 21:53:37 2001] You GMSAY, 'Up in Luclin on a pet at,'
+[Thu Dec 13 21:53:39 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:53:39 2001] You GMSAY, 'atm'
+[Thu Dec 13 21:53:40 2001] Moparian hangs head in shame.
+[Thu Dec 13 21:53:44 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:53:45 2001] Puldain begins to cast a spell. (Symbol of Pinzarn)
+[Thu Dec 13 21:53:46 2001] Tininae emits a low rumble and then roars at Sareine.
+[Thu Dec 13 21:53:53 2001] Puldain begins to cast a spell. (Valor)
+[Thu Dec 13 21:53:54 2001] Sareine begins to cast a spell. (Adorning Grace)
+[Thu Dec 13 21:53:58 2001] Mawlen GMSAYS, 'lirus can come get me, espranza mean'
+[Thu Dec 13 21:54:00 2001] Puldain begins to cast a spell. (Instrument of Nife)
+[Thu Dec 13 21:54:01 2001] Arriell tells you, 'LOL ok but i had full life i zoned in got agroed by someone else's mob and zoned out imediately'
+[Thu Dec 13 21:54:04 2001] Players in EverQuest:
+[Thu Dec 13 21:54:04 2001] ---------------------------
+[Thu Dec 13 21:54:04 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: everfrost (USER PID CW1ECN5)
+[Thu Dec 13 21:54:04 2001] * Apprentice Guide *[ANON (20 Druid)] Mawlen (Wood Elf) ZONE: freportw (USER PID DUALYLP)
+[Thu Dec 13 21:54:04 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: maiden (USER PID AUGBQH4)
+[Thu Dec 13 21:54:04 2001] There are 3 players in EverQuest.
+[Thu Dec 13 21:54:05 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:54:09 2001] Sareine begins to cast a spell. (Group Resist Magic)
+[Thu Dec 13 21:54:09 2001] Puldain begins to cast a spell. (Divine Vigor)
+[Thu Dec 13 21:54:10 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:54:15 2001] Puldain begins to cast a spell. (Valor of Marr)
+[Thu Dec 13 21:54:19 2001] Keming says out of character, '52 monk LFG'
+[Thu Dec 13 21:54:19 2001] You told Arriell, 'When I got here all I saw was dead bodies'
+[Thu Dec 13 21:54:23 2001] Puldain begins to cast a spell. (Divine Glory)
+[Thu Dec 13 21:54:27 2001] You told Arriell, 'whatever came must have been some nasty'
+[Thu Dec 13 21:54:28 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:54:33 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:54:40 2001] Sareine begins to cast a spell. (Shadow)
+[Thu Dec 13 21:54:43 2001] Sansisy begins to cast a spell. (Harnessing of Spirit)
+[Thu Dec 13 21:54:46 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:54:49 2001] You told Arriell, 'or probably a bunch of some nasties...'
+[Thu Dec 13 21:54:50 2001] Sareine begins to cast a spell. (Shadow)
+[Thu Dec 13 21:54:51 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:55:01 2001] Sareine begins to cast a spell. (Shadow)
+[Thu Dec 13 21:55:02 2001] Sansisy begins to cast a spell. (Strength)
+[Thu Dec 13 21:55:02 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:55:04 2001] Vyrance says, 'Hail, Arriell'
+[Thu Dec 13 21:55:07 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:55:11 2001] Sansisy begins to cast a spell. (Agility)
+[Thu Dec 13 21:55:12 2001] Sareine begins to cast a spell. (Shadow)
+[Thu Dec 13 21:55:20 2001] Sansisy begins to cast a spell. (Stamina)
+[Thu Dec 13 21:55:23 2001] Sareine begins to cast a spell. (Shadow)
+[Thu Dec 13 21:55:23 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:55:26 2001] You told Arriell, 'Well... I'll note it in my log... I think you just got caught in someone else's train before the server removed you from this zone completely'
+[Thu Dec 13 21:55:26 2001] Vyrance says out of character, '53 Warrior LFG'
+[Thu Dec 13 21:55:28 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:55:30 2001] Sansisy begins to cast a spell. (Harnessing of Spirit)
+[Thu Dec 13 21:55:33 2001] Sareine begins to cast a spell. (Shadow)
+[Thu Dec 13 21:55:39 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:55:43 2001] Sansisy begins to cast a spell. (Stamina)
+[Thu Dec 13 21:55:44 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:55:51 2001] Arriell tells you, 'That happen after my death not before i didnt even have a group yet i zoned in and got hit by one mob for 33 points then it said loading please wait and your telling me that in that time one mob killed me in the zoning time exactly how '
+[Thu Dec 13 21:55:59 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:55:59 2001] Rodetta GMSAYS, 'least i finished with leyper before i LD.'
+[Thu Dec 13 21:56:00 2001] Arriell tells you, 'how long is that time ?'
+[Thu Dec 13 21:56:00 2001] Sansisy begins to cast a spell. (Harnessing of Spirit)
+[Thu Dec 13 21:56:01 2001] Nekekami begins to cast a spell. (Form of the Howler)
+[Thu Dec 13 21:56:04 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:56:07 2001] Nekekami turns into a wolf.
+[Thu Dec 13 21:56:09 2001] You GMSAY, 'Arriell ET3M8PQ was zoning from Maiden's to Dawn shroud at full health (though she was being attacked) and ended up dead.'
+[Thu Dec 13 21:56:14 2001] Sansisy begins to cast a spell. (Stamina)
+[Thu Dec 13 21:56:15 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:56:20 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:56:26 2001] Sansisy begins to cast a spell. (Harnessing of Spirit)
+[Thu Dec 13 21:56:27 2001] Nekekami begins to cast a spell. (Storm Strength)
+[Thu Dec 13 21:56:29 2001] Rodetta GMSAYS, 'ahh, the one thing she left out :)'
+[Thu Dec 13 21:56:36 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:56:40 2001] Sansisy begins to cast a spell. (Strength)
+[Thu Dec 13 21:56:42 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:56:45 2001] You told Arriell, 'I imagine it was more than one mob...'
+[Thu Dec 13 21:56:48 2001] Sansisy begins to cast a spell. (Stamina)
+[Thu Dec 13 21:56:52 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:56:57 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:57:02 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:57:04 2001] Doomz begins to cast a spell. (Summon Horse)
+[Thu Dec 13 21:57:09 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:57:10 2001] DELETING THIS PETITION
+[Thu Dec 13 21:57:10 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:57:16 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:57:16 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:57:20 2001] Darkhart says, 'Show off!!!'
+[Thu Dec 13 21:57:22 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:57:23 2001] Malekitth says out of character, '56 Shadowknight LFG '
+[Thu Dec 13 21:57:27 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:57:27 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:57:30 2001] You told Arriell, 'it managed to kill about a dozen people here.'
+[Thu Dec 13 21:57:31 2001] Nekekami begins to cast a spell. (Storm Strength)
+[Thu Dec 13 21:57:32 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:57:35 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:57:35 2001] Nekekami's casting is interrupted!
+[Thu Dec 13 21:57:36 2001] Rodetta GMSAYS, 'has that bug with the characters getting stuck and cant log on fixed yet? or are we still telling people to wait?'
+[Thu Dec 13 21:57:41 2001] Spyritwalker begins to cast a spell. (Superior Healing)
+[Thu Dec 13 21:57:42 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:57:44 2001] Nizinki begins to cast a spell. (Gift of Pure Thought)
+[Thu Dec 13 21:57:45 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:57:45 2001] Nekekami feels much better.
+[Thu Dec 13 21:57:47 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:57:49 2001] Nizinki looks very tranquil.
+[Thu Dec 13 21:57:49 2001] Tierman looks very tranquil.
+[Thu Dec 13 21:57:49 2001] Doomz looks very tranquil.
+[Thu Dec 13 21:57:50 2001] Nekekami says, 'o_O'
+[Thu Dec 13 21:57:51 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:57:54 2001] You GMSAY, 'the AMD bug has been reported fixed'
+[Thu Dec 13 21:57:57 2001] Nizinki begins to cast a spell. (Gift of Pure Thought)
+[Thu Dec 13 21:57:58 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:58:00 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:58:01 2001] Nizinki looks very tranquil.
+[Thu Dec 13 21:58:01 2001] Tierman looks very tranquil.
+[Thu Dec 13 21:58:01 2001] Doomz looks very tranquil.
+[Thu Dec 13 21:58:04 2001] Sareine begins to cast a spell. (Clarity)
+[Thu Dec 13 21:58:05 2001] Darkhart begins to cast a spell. (Arch Shielding)
+[Thu Dec 13 21:58:05 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:58:05 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:58:10 2001] Nizinki begins to cast a spell. (Gift of Pure Thought)
+[Thu Dec 13 21:58:11 2001] Nekekami looks tranquil.
+[Thu Dec 13 21:58:12 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:58:14 2001] Nizinki looks very tranquil.
+[Thu Dec 13 21:58:15 2001] Darkhart looks very tranquil.
+[Thu Dec 13 21:58:15 2001] Salop looks very tranquil.
+[Thu Dec 13 21:58:15 2001] Mhalgrim looks very tranquil.
+[Thu Dec 13 21:58:18 2001] Rodetta GMSAYS, 'so characters that cant log on are probably just broken zone files. K.'
+[Thu Dec 13 21:58:18 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:58:22 2001] Sareine begins to cast a spell. (Gift of Magic)
+[Thu Dec 13 21:58:22 2001] Tierman begins to cast a spell. (Gate)
+[Thu Dec 13 21:58:23 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:58:25 2001] Puldain says, 'thanks'
+[Thu Dec 13 21:58:27 2001] Nekekami appears to be staring into nothingness.
+[Thu Dec 13 21:58:27 2001] Tierman fades away.
+[Thu Dec 13 21:58:35 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:58:35 2001] Sareine begins to cast a spell. (Insight)
+[Thu Dec 13 21:58:36 2001] Arriell tells you, 'Hmm well either way that happened after i was already dead there were no other corpses here i have been waiting for a response for about 45 minute s'
+[Thu Dec 13 21:58:38 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:58:39 2001] Nekekami looks wise.
+[Thu Dec 13 21:58:40 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:58:45 2001] Nekekami says, 'thnx ^_^'
+[Thu Dec 13 21:58:49 2001] Sansisy begins to cast a spell. (Cannibalize II)
+[Thu Dec 13 21:58:51 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:58:56 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:59:00 2001] Nekekami begins to cast a spell. (Storm Strength)
+[Thu Dec 13 21:59:05 2001] Nekekami looks stronger.
+[Thu Dec 13 21:59:09 2001] You told Arriell, 'ah, I didn't know yours was from earlier... still... most don't know that you stay in the zone you're leaving for awhile...'
+[Thu Dec 13 21:59:17 2001] Keming says out of character, 'group looking for more'
+[Thu Dec 13 21:59:19 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:59:24 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:59:26 2001] Tininae begins to cast a spell. (Pack Chloroplast)
+[Thu Dec 13 21:59:30 2001] You told Arriell, 'However, I have added it to my shift report in case there is something fishy about this one.'
+[Thu Dec 13 21:59:33 2001] Players in EverQuest:
+[Thu Dec 13 21:59:33 2001] ---------------------------
+[Thu Dec 13 21:59:33 2001] * Apprentice Guide *[20 Shadow Knight] Rodetta (Erudite) ZONE: dreadlands (USER PID DY6ZLSX)
+[Thu Dec 13 21:59:33 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: everfrost (USER PID CW1ECN5)
+[Thu Dec 13 21:59:33 2001] * Apprentice Guide *[20 Druid] Mawlen (Wood Elf) ZONE: freportw (USER PID DUALYLP)
+[Thu Dec 13 21:59:33 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: maiden (USER PID AUGBQH4)
+[Thu Dec 13 21:59:33 2001] There are 4 players in EverQuest.
+[Thu Dec 13 21:59:41 2001] Nekekami pokes Sansisy.
+[Thu Dec 13 21:59:41 2001] Lirus GMSAYS, 'back'
+[Thu Dec 13 21:59:42 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 21:59:42 2001] Nekekami beams a smile at Sansisy.
+[Thu Dec 13 21:59:47 2001] Salop's hands are bathed in light.
+[Thu Dec 13 21:59:48 2001] Puldain begins to cast a spell. (Divine Glory)
+[Thu Dec 13 21:59:48 2001] You GMSAY, 'Welcome back!'
+[Thu Dec 13 21:59:55 2001] Puldain begins to cast a spell. (Divine Glory)
+[Thu Dec 13 21:59:57 2001] Arriell tells you, 'Besides Tarrek was on this side of the zone when this happened ande there was only one mob so please just fix this bug i'll get  my exp back just dont want it to happen again :)'
+[Thu Dec 13 22:00:00 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 22:00:03 2001] Puldain begins to cast a spell. (Divine Glory)
+[Thu Dec 13 22:00:05 2001] Salop's hands are bathed in light.
+[Thu Dec 13 22:00:07 2001] Espranza saved.
+[Thu Dec 13 22:00:11 2001] Puldain begins to cast a spell. (Divine Glory)
+[Thu Dec 13 22:00:11 2001] Sareine begins to cast a spell. (Group Resist Magic)
+[Thu Dec 13 22:00:18 2001] Puldain begins to cast a spell. (Divine Glory)
+[Thu Dec 13 22:00:20 2001] You told Arriell, 'I'll pass that along ;) I know I don't want to die from this either!'
+[Thu Dec 13 22:00:26 2001] Sareine begins to cast a spell. (Shadow)
+[Thu Dec 13 22:00:26 2001] Arriell tells you, 'LOL\'
+[Thu Dec 13 22:00:27 2001] Darkhart begins to cast a spell. (Invisibility)
+[Thu Dec 13 22:00:27 2001] Puldain begins to cast a spell. (Divine Glory)
+[Thu Dec 13 22:00:29 2001] You told Arriell, 'Be well, and best luck!'
+[Thu Dec 13 22:00:30 2001] Salop begins to cast a spell. (Halo of Light)
+[Thu Dec 13 22:00:30 2001] You no longer have a target.
+[Thu Dec 13 22:00:32 2001] Darkhart fades away.
+[Thu Dec 13 22:00:32 2001] You wave goodbye to everyone.
+[Thu Dec 13 22:00:34 2001] You GMSAY, 'zone'
+[Thu Dec 13 22:00:34 2001] Arriell tells you, 'Thanks :)'
+[Thu Dec 13 22:00:35 2001] Salop's hands are bathed in light.
+[Thu Dec 13 22:00:37 2001] Puldain begins to cast a spell. (Divine Glory)
+[Thu Dec 13 22:00:38 2001] Teleporting to rodetta.
+[Thu Dec 13 22:00:40 2001] Darkhart begins to cast a spell. (Invisibility)
+[Thu Dec 13 22:00:41 2001] Arriell begins to radiate with divine glory.
+[Thu Dec 13 22:00:45 2001] Puldain begins to cast a spell. (Divine Glory)
+[Thu Dec 13 22:00:47 2001] Mepper tells you, 'ack i didnt even SEE you here'
+[Thu Dec 13 22:00:48 2001] Sansisy begins to cast a spell. (Harnessing of Spirit)
+[Thu Dec 13 22:00:49 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 22:01:50 2001] a drolvarg rager died.
+[Thu Dec 13 22:01:50 2001] Bishope shouts, 'Amazing exp group looking for a replacement Cleric.  Send me a tell please.'
+[Thu Dec 13 22:01:50 2001] A Mystic Voice shouts 'The portal to Luclin will become active in five minutes. Please begin gathering at the Spires if you wish to make the journey. 
+[Thu Dec 13 22:01:58 2001] You have entered Dreadlands.
+[Thu Dec 13 22:01:58 2001] Uanan shouts, 'lookin for rez for 2 people! send tell please'
+[Thu Dec 13 22:01:58 2001] Sharnhorst says out of character, 'i want amazing xp'
+[Thu Dec 13 22:02:01 2001] Threndor shouts, 'but we already have a Cleric! ;)'
+[Thu Dec 13 22:02:03 2001] Teleporting to rodetta.
+[Thu Dec 13 22:02:04 2001] It begins to snow.
+[Thu Dec 13 22:02:05 2001] Lirus GMSAYS, 'if ya come across someone who has been stuck upwards of a week let me know i'll walk em out regardless'
+[Thu Dec 13 22:02:06 2001] You invite Rodetta to join your group.
+[Thu Dec 13 22:02:06 2001] Solth says out of character, 'me too'
+[Thu Dec 13 22:02:15 2001] You have formed the group.
+[Thu Dec 13 22:02:18 2001] Players in EverQuest:
+[Thu Dec 13 22:02:18 2001] ---------------------------
+[Thu Dec 13 22:02:18 2001] [59 Preserver] Mepper (Halfling) <Altruistic Valorians> ZONE: qrg (USER PID ARGYC74)
+[Thu Dec 13 22:02:18 2001] There is 1 player in EverQuest.
+[Thu Dec 13 22:02:24 2001] Artulo auctions, 'wtb hq brute hide 10pp, misty acorn 2pp, plns pbl 2pp'
+[Thu Dec 13 22:02:26 2001] You told Mepper, 'may I feel insulted? or ignored?'
+[Thu Dec 13 22:02:32 2001] You GMSAY, 'zone'
+[Thu Dec 13 22:02:35 2001] Teleporting to mawlen.
+[Thu Dec 13 22:02:36 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 22:03:21 2001] Havorn auctions, 'who GM'
+[Thu Dec 13 22:03:28 2001] You have entered West Freeport.
+[Thu Dec 13 22:03:28 2001] You have formed the group.
+[Thu Dec 13 22:03:29 2001] Guard Munden says 'Stand where you are, scum!! 
+[Thu Dec 13 22:03:29 2001] Guard Munden says 'I really hate Paladins like you!'
+[Thu Dec 13 22:03:29 2001] Guard Munden says 'Stand where you are, scum!! 
+[Thu Dec 13 22:03:29 2001] Guard Munden says 'Paladins like you always bring out the worst in me!'
+[Thu Dec 13 22:03:33 2001] It begins to rain.
+[Thu Dec 13 22:03:35 2001] Guard Mizraen says 'You're not welcome in Freeport. 
+[Thu Dec 13 22:03:35 2001] Guard Fralldo says 'You're not welcome in Freeport. 
+[Thu Dec 13 22:03:36 2001] Teleporting to mawlen.
+[Thu Dec 13 22:03:39 2001] You invite Mawlen to join your group.
+[Thu Dec 13 22:03:44 2001] Mawlen has joined the group.
+[Thu Dec 13 22:03:49 2001] Cyri says, 'Hail, Guard Fralldo'
+[Thu Dec 13 22:03:52 2001] You tell your party, 'Lucan raid....'
+[Thu Dec 13 22:04:05 2001] You tell your party, 'Hello, Mawlen!'
+[Thu Dec 13 22:04:06 2001] Koolag shouts, 'can anyone bind me at the gate please?'
+[Thu Dec 13 22:04:25 2001] Mawlen turns an icy glare upon Espranza.
+[Thu Dec 13 22:04:32 2001] You look at Mawlen, completely puzzled.
+[Thu Dec 13 22:04:32 2001] Dawgrin auctions, 'WTS  Charred Boots AC 6 AGI 3 SVF 5 SVP 5 | Otter Skin Sleeves AC 8 AGI 3 | Spider Fur CollarAC 10 STR 7 SVP 7 SVC 7 | Stiletto of the Bloodclaw 6/23 1hp effect: Bloodclaw | (2) Silver Emerald Rings AC2 SVF5'
+[Thu Dec 13 22:04:39 2001] Mawlen points at Espranza. Yeah you!
+[Thu Dec 13 22:04:41 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Dec 13 22:04:41 2001] USER TEXT: I am having a problem logging onto my main character...everytime I try and log in I get booted to the server selection screen
+[Thu Dec 13 22:04:41 2001] Players in EverQuest:
+[Thu Dec 13 22:04:41 2001] ---------------------------
+[Thu Dec 13 22:04:41 2001] There are no players in EverQuest that match those who filters.
+[Thu Dec 13 22:04:51 2001] You GMSAY, 'Sinaelan unavail x2'
+[Thu Dec 13 22:04:52 2001] Koolag shouts, 'can anyone bind me at the gate please?'
+[Thu Dec 13 22:04:53 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Thu Dec 13 22:04:54 2001] CHECKING IN
+[Thu Dec 13 22:04:56 2001] Cyri begins to cast a spell. (Spirit of Wolf)
+[Thu Dec 13 22:04:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Dec 13 22:04:57 2001] USER TEXT: dear sir my body now lays at the bottom of the ocen because the sister killed me while io was in the bottom of the boat nise that she can see threw walls but i lost my lvl and no idea where my body is plz help
+[Thu Dec 13 22:04:57 2001] Players in EverQuest:
+[Thu Dec 13 22:04:57 2001] ---------------------------
+[Thu Dec 13 22:04:57 2001] [ANON (7 Necromancer)] Bonesacks (Dark Elf) ZONE: nektulos (USER PID CZN29J8)
+[Thu Dec 13 22:04:57 2001] There is 1 player in EverQuest.
+[Thu Dec 13 22:04:58 2001] Mawlen tells you, 'you guys tore me apart on that message board =('
+[Thu Dec 13 22:05:00 2001] You feel the spirit of wolf enter you.
+[Thu Dec 13 22:05:03 2001] Cyri is surrounded by a brief lupine aura.
+[Thu Dec 13 22:05:05 2001] You told Mawlen, 'we did?'
+[Thu Dec 13 22:05:10 2001] Mawlen tells you, 'yes'
+[Thu Dec 13 22:05:17 2001] You told Mawlen, 'I apologize...'
+[Thu Dec 13 22:05:21 2001] Msytiique says out of character, 'sorry i was afk i can bind if you need me too'
+[Thu Dec 13 22:05:23 2001] You told Mawlen, 'in my replies????'
+[Thu Dec 13 22:05:28 2001] You told Mawlen, 'all I did was add info...'
+[Thu Dec 13 22:05:42 2001] Viagrilon says out of character, 'wtb port to bb, nk, dl'
+[Thu Dec 13 22:05:49 2001] Mawlen tells you, 'something like that could have been done in emails... al th bad names i posted, were like analyzed'
+[Thu Dec 13 22:06:00 2001] Mawlen tells you, 'ryanara mostly'
+[Thu Dec 13 22:06:03 2001] You told Mawlen, 'That wasn't me, that was Rynara'
+[Thu Dec 13 22:06:03 2001] Koolag says, 'not working????'
+[Thu Dec 13 22:06:14 2001] Deathfist Pawn says 'Centurions!! Attack!! 
+[Thu Dec 13 22:06:14 2001] Deathfist Pawn says 'It's High Elves like you who have ruined your own lands. You'll not ruin mine!'
+[Thu Dec 13 22:06:15 2001] Deathfist Pawn has been slain by Guard Lithnon!
+[Thu Dec 13 22:06:16 2001] Guard Lithnon says 'Let your death be a warning to all who dare oppose the Freeport Militia! 
+[Thu Dec 13 22:06:16 2001] Deathfist Pawn says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. 
+[Thu Dec 13 22:06:16 2001] Mawlen tells you, 'im really upset tho'
+[Thu Dec 13 22:06:26 2001] You told Mawlen, 'Have you sent mail to the SMT about it?'
+[Thu Dec 13 22:06:36 2001] Mawlen tells you, 'that makes 2 days straight that my DSR have gotten a REPLY'
+[Thu Dec 13 22:06:41 2001] Koolag says, 'can you wait a sec while i log real fast?'
+[Thu Dec 13 22:06:46 2001] UNDOING CHECK OUT
+[Thu Dec 13 22:06:54 2001] You told Mawlen, 'You shouldn't take it personally'
+[Thu Dec 13 22:07:02 2001] Mawlen tells you, 'but i do...'
+[Thu Dec 13 22:07:07 2001] The spirit leaves you.
+[Thu Dec 13 22:07:11 2001] Msytiique begins to cast a spell. (Thicken Mana)
+[Thu Dec 13 22:07:14 2001] Koolag says, 'hving probs'
+[Thu Dec 13 22:07:16 2001] Mawlen tells you, 'she said resins is not a bad name, i mean come on....'
+[Thu Dec 13 22:07:23 2001] Msytiique begins to cast a spell. (Thicken Mana)
+[Thu Dec 13 22:07:23 2001] Koolag says, 'brb'
+[Thu Dec 13 22:07:32 2001] Lirus GMSAYS, 'zone'
+[Thu Dec 13 22:07:42 2001] You told Mawlen, 'It's her call; just shrug and move on'
+[Thu Dec 13 22:07:56 2001] Mawlen tells you, 'thats a drug reference clear as day, and now i look like some jacka** on the board'
+[Thu Dec 13 22:08:03 2001] Aglaca begins to cast a spell. (Spirit of Wolf)
+[Thu Dec 13 22:08:20 2001] You told Mawlen, 'No you don't.'
+[Thu Dec 13 22:08:36 2001] Wengfu begins to cast a spell. (Bind Affinity)
+[Thu Dec 13 22:08:38 2001] Koolag says, 'much better'
+[Thu Dec 13 22:08:39 2001] Mawlen tells you, 'she said to put my shift times in the heading, they wont fit, so i put how many hours'
+[Thu Dec 13 22:08:42 2001] Koolag is bound to the area.
+[Thu Dec 13 22:08:49 2001] Wengfu says, 'have fun'
+[Thu Dec 13 22:08:57 2001] Koolag says, 'thanks'
+[Thu Dec 13 22:08:59 2001] Mawlen tells you, 'its not my fault i can only log on when there is a guide, and log off when they do =)'
+[Thu Dec 13 22:09:16 2001] You told Mawlen, 'you could have made separate shift reports for each shift, even a short one'
+[Thu Dec 13 22:09:27 2001] Mawlen tells you, 'i was on 6 times'
+[Thu Dec 13 22:09:39 2001] You told Mawlen, 'that's okay, six DSRs isn't a problem'
+[Thu Dec 13 22:10:08 2001] Mawlen tells you, 'thats why i didnt come on so much today'
+[Thu Dec 13 22:10:13 2001] You told Mawlen, 'I know Rynara, she never meant to make you look bad - and I know *I* certainly didn't'
+[Thu Dec 13 22:10:37 2001] Lirus GMSAYS, 'woo woo 45 mins left, till i can play =)'
+[Thu Dec 13 22:10:47 2001] Lirus GMSAYS, 'well hour and 30 i guess'
+[Thu Dec 13 22:10:53 2001] Rodetta GMSAYS, 'they let you play? :) what server?'
+[Thu Dec 13 22:10:55 2001] Lirus GMSAYS, 'gotta figure driving times'
+[Thu Dec 13 22:11:02 2001] You told Mawlen, 'and you shouldn't take it personally - really - a reply doesn't mean you're being punished or publicly shamed'
+[Thu Dec 13 22:11:07 2001] Lirus GMSAYS, 'hell yeah i play alot heh but i cannot say which server('
+[Thu Dec 13 22:11:18 2001] Rodetta GMSAYS, 'i know, just wanted to catch ya :)'
+[Thu Dec 13 22:11:20 2001] Mawlen tells you, 'im just hanging low for a bit, i got my 48+ hours, i know all the test answers, ill just wait until the test =)'
+[Thu Dec 13 22:11:24 2001] Rodetta GMSAYS, 'or try to.'
+[Thu Dec 13 22:11:26 2001] Lirus GMSAYS, '=)'
+[Thu Dec 13 22:11:31 2001] Lirus GMSAYS, 'keep me on my toes'
+[Thu Dec 13 22:11:41 2001] Gabar says out of character, 'when is the damage cap off ?'
+[Thu Dec 13 22:11:43 2001] Rodetta GMSAYS, 'heh, i wish.'
+[Thu Dec 13 22:11:53 2001] Ieniane says out of character, '20 '
+[Thu Dec 13 22:11:56 2001] You told Mawlen, 'Seniors reply to guide DSRs a lot, it's what they do.'
+[Thu Dec 13 22:11:56 2001] Mawlen tells you, 'a reply really stands out and causes people to say.. why the heck is he getting a reply on his dsr'
+[Thu Dec 13 22:12:08 2001] Gabar says out of character, 'ouch bummer'
+[Thu Dec 13 22:12:11 2001] You told Mawlen, 'aye, it does. and people are expected to read it.'
+[Thu Dec 13 22:12:21 2001] A missed note brings Rodann's song to a close!
+[Thu Dec 13 22:12:22 2001] Rodann's song ends.
+[Thu Dec 13 22:12:23 2001]  (Chant of Battle)
+[Thu Dec 13 22:12:26 2001] You told Mawlen, 'and thereby learn, in that case anyway, which names are bad and which aren't.'
+[Thu Dec 13 22:12:47 2001] You told Mawlen, 'most often replies are like, "yeah, that happened to me, too"'
+[Thu Dec 13 22:12:58 2001] You feel the spirit of Norrath enter you.
+[Thu Dec 13 22:13:04 2001] Lirus GMSAYS, 'zone'
+[Thu Dec 13 22:13:07 2001] Mawlen tells you, 'i dunno people to well, but she came across as a complete bi*** quite honestly, i can say she is cause i dont know her =('
+[Thu Dec 13 22:13:08 2001] Azratreides waves at Espranza.
+[Thu Dec 13 22:13:13 2001] Lendien tells you, 'hey, wanna see duels'
+[Thu Dec 13 22:13:20 2001] I don't see anyone by that name around here...
+[Thu Dec 13 22:13:28 2001] You told Lendien, 'something special about them?'
+[Thu Dec 13 22:13:34 2001] Espranza saved.
+[Thu Dec 13 22:13:43 2001] You told Mawlen, 'Welll.... she is a nice person.'
+[Thu Dec 13 22:13:51 2001] Mawlen tells you, 'im sure she is different and really nice and all, but it was frustrating to work so much and then feel like that is all'
+[Thu Dec 13 22:13:55 2001] Lendien tells you, 'warrior and ranger duel in arean'
+[Thu Dec 13 22:13:58 2001] You told Mawlen, 'But sometimes she can come across harshly.'
+[Thu Dec 13 22:14:23 2001] Msytiique begins to cast a spell. (Thicken Mana)
+[Thu Dec 13 22:14:24 2001] You told Lendien, 'hmm... warrior wins.'
+[Thu Dec 13 22:14:33 2001] Lendien tells you, 'i won'
+[Thu Dec 13 22:14:37 2001] Msytiique begins to cast a spell. (Thicken Mana)
+[Thu Dec 13 22:14:37 2001] Players in EverQuest:
+[Thu Dec 13 22:14:37 2001] ---------------------------
+[Thu Dec 13 22:14:37 2001] [ANON (57 Outrider)] Lendien (Wood Elf) ZONE: freportw (USER PID GURN4RM) LFG
+[Thu Dec 13 22:14:37 2001] There is 1 player in EverQuest.
+[Thu Dec 13 22:14:40 2001] Lendien tells you, 'i'm 2 and 0'
+[Thu Dec 13 22:14:47 2001] You told Lendien, 'hey cool! what level was the warrior?'
+[Thu Dec 13 22:14:50 2001] Lendien tells you, '56'
+[Thu Dec 13 22:14:55 2001] Mawlen shrugs at Espranza.
+[Thu Dec 13 22:14:58 2001] Lendien tells you, 'i'm 57'
+[Thu Dec 13 22:15:17 2001] Mawlen bonks Espranza on the head!
+[Thu Dec 13 22:15:17 2001] Mawlen bonks Espranza on the head!
+[Thu Dec 13 22:15:17 2001] Mawlen scroes a critical bonk! (6935)
+[Thu Dec 13 22:15:23 2001] You told Mawlen, 'well... again... if you think she was too harsh, you can talk to the SMT or bring it to the Elder Guide'
+[Thu Dec 13 22:15:36 2001] Grayvik's spell fizzles!
+[Thu Dec 13 22:15:37 2001] Grayvik begins to cast a spell. (Sense the Dead)
+[Thu Dec 13 22:15:42 2001] Mawlen tells you, 'no not that bad, just took me by suprise is all'
+[Thu Dec 13 22:16:18 2001] You told Mawlen, 'don't worry about it - I get them questioning my bad names all the time ;)'
+[Thu Dec 13 22:16:22 2001] Mawlen tells you, 'im better now, just needed to vent a little'
+[Thu Dec 13 22:16:25 2001] Wengfu auctions, 'WTB 54+ mage drop spells'
+[Thu Dec 13 22:16:30 2001] You told Mawlen, 'that's what I'm best at!'
+[Thu Dec 13 22:16:37 2001] Mawlen tells you, 'thank you'
+[Thu Dec 13 22:16:42 2001] You bow.
+[Thu Dec 13 22:16:43 2001] You smile.
+[Thu Dec 13 22:16:59 2001] Mawlen beams a smile at Espranza.
+[Thu Dec 13 22:17:07 2001] Rodetta GMSAYS, 'sorry i didn't announce that zone, got so much slowdown in the dreadlands forest i could barely type.'
+[Thu Dec 13 22:17:08 2001] Grayvik begins to cast a spell. (Cavorting Bones)
+[Thu Dec 13 22:17:15 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Dec 13 22:17:16 2001] USER TEXT: I need a surname change. Wife and I should have the same last names, right?
+[Thu Dec 13 22:17:16 2001] Players in EverQuest:
+[Thu Dec 13 22:17:16 2001] ---------------------------
+[Thu Dec 13 22:17:16 2001] [ANON (30 Shaman)] Tingurin (Barbarian) ZONE: oot (USER PID DUAJGN1)
+[Thu Dec 13 22:17:16 2001] There is 1 player in EverQuest.
+[Thu Dec 13 22:17:17 2001] Mawlen tells the group, 'bah'
+[Thu Dec 13 22:17:25 2001] Mawlen tells the group, 'i gotta get out of city, laaaggg'
+[Thu Dec 13 22:17:25 2001] Lirus GMSAYS, 'anyone check cazic yet?'
+[Thu Dec 13 22:17:36 2001] Rodetta GMSAYS, 'dont think so.'
+[Thu Dec 13 22:17:38 2001] You told Tingurin, 'Hail, Tingurin! Guide Espranza here. Which last names would you like?'
+[Thu Dec 13 22:17:42 2001] You GMSAY, 'I can after this petition.'
+[Thu Dec 13 22:18:04 2001] Tingurin tells you, 'I want to take her name. KINSLAYER. *smile*'
+[Thu Dec 13 22:18:19 2001] You told Tingurin, 'okay ;) I'll escalate it to GM Lirus.'
+[Thu Dec 13 22:18:21 2001] Mawlen has a question.
+[Thu Dec 13 22:18:30 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Dec 13 22:18:31 2001] GM TEXT: Espranza: Wants his wife's last name, Kinslayer
+[Thu Dec 13 22:18:31 2001] STATUS UPGRADED TO URGENT
+[Thu Dec 13 22:18:32 2001] STATUS UPGRADED TO EMERGENCY
+[Thu Dec 13 22:18:40 2001] Masaeryk GMSAYS, 'hello everyone'
+[Thu Dec 13 22:18:44 2001] You GMSAY, 'esc Tingurin - wants wife's last name, text appended'
+[Thu Dec 13 22:18:50 2001] CHECKING IN
+[Thu Dec 13 22:18:56 2001] You GMSAY, 'Hiya Masaeryk!'
+[Thu Dec 13 22:18:58 2001] Sephirothn says out of character, 'looking for a port or TL to GD '
+[Thu Dec 13 22:19:06 2001] Tstalian begins to cast a spell. (Spirit of Wolf)
+[Thu Dec 13 22:19:10 2001] Mawlen tells you, 'anyway you can give me like a mini test to see how i fare so far?'
+[Thu Dec 13 22:19:11 2001] Espranza looks significantly at Mawlen.
+[Thu Dec 13 22:19:18 2001] Tstalian begins to cast a spell. (Serpent Sight)
+[Thu Dec 13 22:19:24 2001] You told Mawlen, 'oh sure, lemme get Masa and check out CT'
+[Thu Dec 13 22:19:26 2001] You GMSAY, 'zone'
+[Thu Dec 13 22:19:28 2001] Tstalian begins to cast a spell. (Turtle Skin)
+[Thu Dec 13 22:19:30 2001] Teleporting to masaeryk.
+[Thu Dec 13 22:19:30 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 22:20:02 2001] You have entered Ak'Anon.
+[Thu Dec 13 22:20:02 2001] You have formed the group.
+[Thu Dec 13 22:20:06 2001] Tingurin tells you, 'did you get that? dunno if I got it sent before I zoned or not.'
+[Thu Dec 13 22:20:06 2001] Mawlen GMSAYS, 'can anyone summon me out of his city, im about to go LD if i dont get out of here'
+[Thu Dec 13 22:20:13 2001] Teleporting to masaeryk.
+[Thu Dec 13 22:20:16 2001] You invite Masaeryk to join your group.
+[Thu Dec 13 22:20:18 2001] Zapho the Ancient begins to cast a spell. (Cadeau of Flame)
+[Thu Dec 13 22:20:23 2001] Masaeryk has joined the group.
+[Thu Dec 13 22:20:23 2001] Zapho the Ancient is enveloped in a cadeau of flame.
+[Thu Dec 13 22:20:24 2001] You GMSAY, 'I will, one moment'
+[Thu Dec 13 22:20:30 2001] You GMSAY, 'where do you want to go?'
+[Thu Dec 13 22:20:38 2001] Mawlen GMSAYS, 'anywhere but a city'
+[Thu Dec 13 22:20:43 2001] You told Tingurin, 'you wanted the last name Kinslayer?'
+[Thu Dec 13 22:20:47 2001] You tell your party, 'hiya Masa!'
+[Thu Dec 13 22:20:49 2001] You GMSAY, 'zone'
+[Thu Dec 13 22:20:53 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 22:21:26 2001] You have entered Kithicor Woods.
+[Thu Dec 13 22:21:27 2001] You have formed the group.
+[Thu Dec 13 22:21:46 2001] You tell your party, 'say zone, Mawlen'
+[Thu Dec 13 22:21:52 2001] Mawlen GMSAYS, 'ZONE another four letter word'
+[Thu Dec 13 22:21:55 2001] Summoning mawlen.
+[Thu Dec 13 22:21:57 2001] Masaeryk GMSAYS, 'are there any guides on about 9 am PST?'
+[Thu Dec 13 22:22:03 2001] You GMSAY, 'I can be'
+[Thu Dec 13 22:22:12 2001] You GMSAY, 'usually there's other non-Espranza guides.'
+[Thu Dec 13 22:22:40 2001] Mawlen tells the group, 'this works'
+[Thu Dec 13 22:22:45 2001] Masaeryk tells you, 'gonna log hon, just got on to talk to Liru real quick, forgot to turn my log on.  having a bad night and need to get away from the game for now'
+[Thu Dec 13 22:22:46 2001] You say, 'should be fairly free of players ;)'
+[Thu Dec 13 22:23:03 2001] Mawlen tells the group, 'player number isnt what kills me'
+[Thu Dec 13 22:23:08 2001] You told Masaeryk, 'ah, okay - well, be well then and I'll see you soon!'
+[Thu Dec 13 22:23:14 2001] Mawlen tells the group, 'it seems cities i get all choppy'
+[Thu Dec 13 22:23:25 2001] Masaeryk GMSAYS, 'I will most likrly be on tomorrow morning, but dont go outta your way =)'
+[Thu Dec 13 22:23:28 2001] You tell your party, 'you probably have a minimal set up like I do'
+[Thu Dec 13 22:23:37 2001] Mawlen tells the group, 'very minimal'
+[Thu Dec 13 22:23:40 2001] Masaeryk GMSAYS, 'good nite you all.  take care'
+[Thu Dec 13 22:23:44 2001] Lirus GMSAYS, 'gnight mas'
+[Thu Dec 13 22:23:44 2001] You GMSAY, 'night!'
+[Thu Dec 13 22:23:46 2001] Mawlen tells the group, 'as in no longer meet requirements'
+[Thu Dec 13 22:23:52 2001] You tell your party, 'I barely do'
+[Thu Dec 13 22:24:08 2001] You tell your party, 'anyway, off to CT'
+[Thu Dec 13 22:24:09 2001] Mawlen tells the group, 'video card not even supported'
+[Thu Dec 13 22:24:15 2001] You tell your party, 'neither is mine'
+[Thu Dec 13 22:24:15 2001] Masaeryk has left the group.
+[Thu Dec 13 22:24:16 2001] You GMSAY, 'zone'
+[Thu Dec 13 22:24:23 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 22:24:58 2001] You have entered Lost Temple of CazicThule.
+[Thu Dec 13 22:24:58 2001] You have formed the group.
+[Thu Dec 13 22:25:02 2001] Players on EverQuest:
+[Thu Dec 13 22:25:02 2001] ---------------------------
+[Thu Dec 13 22:25:02 2001] [ANONYMOUS] Daelette 
+[Thu Dec 13 22:25:02 2001] [ANONYMOUS] Rugher  <Order of the Chosen Few>
+[Thu Dec 13 22:25:02 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Dec 13 22:25:02 2001] There are 3 players in Cazic-Thule.
+[Thu Dec 13 22:25:05 2001] Rodetta GMSAYS, 'any known issue where a character's log in point will move while he's offline? he logged out in a safe spot, then logged back in right under a KOS spawn, different location.'
+[Thu Dec 13 22:25:13 2001] Lirus GMSAYS, 'nope'
+[Thu Dec 13 22:25:17 2001] You GMSAY, 'me neither'
+[Thu Dec 13 22:25:23 2001] You GMSAY, 'zoned into CT okay, btw'
+[Thu Dec 13 22:25:30 2001] Rodetta GMSAYS, 'tonights the night for weird ones.'
+[Thu Dec 13 22:25:36 2001] Players on EverQuest:
+[Thu Dec 13 22:25:36 2001] ---------------------------
+[Thu Dec 13 22:25:36 2001] [ANONYMOUS] Daelette 
+[Thu Dec 13 22:25:36 2001] [ANONYMOUS] Rugher  <Order of the Chosen Few>
+[Thu Dec 13 22:25:36 2001] * GM * [54 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Dec 13 22:25:36 2001] There are 3 players in Cazic-Thule.
+[Thu Dec 13 22:25:43 2001] Daelette says, 'Hail, Espranza'
+[Thu Dec 13 22:25:49 2001] You GMSAY, 'two players in here with me, about usual for CT these days'
+[Thu Dec 13 22:25:53 2001] You say, 'Hello!'
+[Thu Dec 13 22:25:55 2001] Daelette bows before Espranza.
+[Thu Dec 13 22:25:59 2001] Daelette regards you indifferently -- You could probably win this fight.
+[Thu Dec 13 22:26:00 2001] Daelette says, 'hi'
+[Thu Dec 13 22:26:00 2001] You bow before Daelette.
+[Thu Dec 13 22:26:07 2001] Players in EverQuest:
+[Thu Dec 13 22:26:08 2001] ---------------------------
+[Thu Dec 13 22:26:08 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cazicthule (USER PID AUGBQH4)
+[Thu Dec 13 22:26:08 2001] [ANON (53 Cavalier)] Rugher (Dwarf) ZONE: cazicthule (USER PID BV3MU5H)
+[Thu Dec 13 22:26:08 2001] [ANON (18 Monk)] Daelette (Human) ZONE: cazicthule (USER PID EZZFADG)
+[Thu Dec 13 22:26:08 2001] There are 3 players in EverQuest.
+[Thu Dec 13 22:26:15 2001] Daelette says, 'u looking for something ?'
+[Thu Dec 13 22:26:35 2001] You say, 'GM wanted me to see if I could zone in - I guess some people have been having trouble with the zone'
+[Thu Dec 13 22:27:00 2001] Mawlen GMSAYS, '<note badname> hairyeyeball (a4d2ahm)'
+[Thu Dec 13 22:27:09 2001] Daelette says, 'well im here for few hours now and i had no problems zoning'
+[Thu Dec 13 22:27:15 2001] You say, 'me neither'
+[Thu Dec 13 22:27:24 2001] You say, 'so I guess it mustg have been something else'
+[Thu Dec 13 22:27:51 2001] Mawlen GMSAYS, 'del duthor, resolved'
+[Thu Dec 13 22:28:22 2001] Rodetta GMSAYS, 'uhm, is there an event going on? just saw a mob called Pidd of the Nexus.'
+[Thu Dec 13 22:28:22 2001] Mawlen GMSAYS, 'pulling pollu'
+[Thu Dec 13 22:28:46 2001] You GMSAY, 'some anon GM or QT was on earlier'
+[Thu Dec 13 22:29:18 2001] You GMSAY, 'I don't know why they came though'
+[Thu Dec 13 22:29:23 2001] Mawlen GMSAYS, 'esc pollu red  surname change request, text appended'
+[Thu Dec 13 22:29:41 2001] Rodetta GMSAYS, 'oh, wait, Pidd is a user. Of the Nexus is his surname.'
+[Thu Dec 13 22:29:43 2001] You GMSAY, 'I know some people got some item and - who knows - maybe a title when Luclin opened'
+[Thu Dec 13 22:30:13 2001] You tell your party, 'okay test time'
+[Thu Dec 13 22:30:21 2001] You tell your party, 'unofficial test time ;)'
+[Thu Dec 13 22:30:24 2001] Mawlen tells the group, 'you want us both to answer?'
+[Thu Dec 13 22:30:28 2001] Mawlen tells the group, 'ring in, what you want?'
+[Thu Dec 13 22:30:44 2001] You tell your party, 'heh... I dunno... we'll work it out.'
+[Thu Dec 13 22:30:45 2001] Rodetta tells the group, 'sec, gotta make a <note> first'
+[Thu Dec 13 22:30:50 2001] a lizard judicator begins to cast a spell. (Bravery)
+[Thu Dec 13 22:31:06 2001] a lizard judicator begins to cast a spell. (Bravery)
+[Thu Dec 13 22:31:14 2001] Mawlen GMSAYS, 'ok lirus we leaving the que for you =)'
+[Thu Dec 13 22:31:18 2001] Lirus GMSAYS, 'ok'
+[Thu Dec 13 22:31:22 2001] You GMSAY, 'no we aren't'
+[Thu Dec 13 22:31:28 2001] Mawlen GMSAYS, 'lol she said ok'
+[Thu Dec 13 22:31:29 2001] You GMSAY, 'queue comes before everything'
+[Thu Dec 13 22:31:33 2001] Lirus GMSAYS, 'heh'
+[Thu Dec 13 22:31:38 2001] You GMSAY, 'she can have the reds'
+[Thu Dec 13 22:31:43 2001] Lirus GMSAYS, 'zone'
+[Thu Dec 13 22:31:50 2001] Rodetta GMSAYS, 'fabi is unavail X1'
+[Thu Dec 13 22:32:26 2001] You tell your party, 'okay, you get a petition that says an invisible person named Tarbul or something is attacking people in East Karana. How do you handle it?'
+[Thu Dec 13 22:32:44 2001] Mawlen tells the group, 'well first i have a question'
+[Thu Dec 13 22:32:48 2001] You tell your party, 'okay'
+[Thu Dec 13 22:32:56 2001] Mawlen tells the group, 'if he is invis how can he attack and stay invis?'
+[Thu Dec 13 22:33:05 2001] Rodetta tells the group, 'hehe, that's the clue :)'
+[Thu Dec 13 22:33:23 2001] You tell your party, 'good question... any guesses?'
+[Thu Dec 13 22:33:32 2001] Mawlen tells the group, 'a bug?'
+[Thu Dec 13 22:33:39 2001] Lirus GMSAYS, 'zone'
+[Thu Dec 13 22:33:39 2001] Mawlen tells the group, 'mob beneath the world?'
+[Thu Dec 13 22:33:49 2001] You tell your party, 'beneath the world - especially in EK, yes'
+[Thu Dec 13 22:34:02 2001] You tell your party, 'so you suspect this mob is beneath the world. now what do you do?'
+[Thu Dec 13 22:34:17 2001] Mawlen tells the group, 'whos turn?'
+[Thu Dec 13 22:34:21 2001] You tell your party, 'anyone'
+[Thu Dec 13 22:34:27 2001] Mawlen tells the group, 'ok ill give my take..'
+[Thu Dec 13 22:34:30 2001] Rodetta tells the group, 'go ahead, i've got a pet.'
+[Thu Dec 13 22:34:34 2001] You tell your party, 'not being scored ...'
+[Thu Dec 13 22:35:03 2001] Espranza saved.
+[Thu Dec 13 22:35:21 2001] Mawlen tells the group, 'i would zone in, /goto the mob'
+[Thu Dec 13 22:35:48 2001] You tell your party, 'give me the exact commands you would use, if you could'
+[Thu Dec 13 22:35:50 2001] Mawlen tells the group, 'verify that it is beneath the world'
+[Thu Dec 13 22:36:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Dec 13 22:36:20 2001] USER TEXT: legionnire
+[Thu Dec 13 22:36:20 2001] Players in EverQuest:
+[Thu Dec 13 22:36:20 2001] ---------------------------
+[Thu Dec 13 22:36:20 2001] [ANON (37 Cleric)] Fabi (High Elf) ZONE: dawnshroud (USER PID CYXTR19)
+[Thu Dec 13 22:36:20 2001] There is 1 player in EverQuest.
+[Thu Dec 13 22:36:25 2001] UNDOING CHECK OUT
+[Thu Dec 13 22:36:38 2001] Mawlen tells the group, 'not finding EK in zone list'
+[Thu Dec 13 22:36:56 2001] You tell your party, 'it's zone name is eastkarana'
+[Thu Dec 13 22:36:57 2001] Mawlen tells the group, 'duh'
+[Thu Dec 13 22:37:07 2001] Mawlen tells the group, 'i would /zone eastkarana'
+[Thu Dec 13 22:37:19 2001] You tell your party, 'okay - that brings you to the safe point, on the wood bridge'
+[Thu Dec 13 22:37:27 2001] Mawlen tells the group, 'then i would /goto mobname0'
+[Thu Dec 13 22:37:53 2001] You tell your party, 'well, for Tarbul, how would you write that?'
+[Thu Dec 13 22:38:08 2001] Mawlen tells the group, 'ok /goto tarbul0'
+[Thu Dec 13 22:38:19 2001] You tell your party, 'monster not found'
+[Thu Dec 13 22:38:29 2001] You tell your party, 'Petitioners are often really bad with names'
+[Thu Dec 13 22:38:49 2001] Mawlen tells the group, 'hmm'
+[Thu Dec 13 22:38:57 2001] You tell your party, 'Tarbul is a named hill giant - his full name is Tarbul Earthstrider'
+[Thu Dec 13 22:39:10 2001] Mawlen tells the group, 'ok...'
+[Thu Dec 13 22:39:24 2001] Mawlen tells the group, 'so i would /goto tarbul_earthstrider0'
+[Thu Dec 13 22:39:34 2001] You tell your party, 'two 0's at the end'
+[Thu Dec 13 22:39:38 2001] You tell your party, 'one 0 for corpses'
+[Thu Dec 13 22:39:43 2001] Mawlen tells the group, 'oh yeah one for corpse'
+[Thu Dec 13 22:39:46 2001] Mawlen tells the group, 'so i would /goto tarbul_earthstrider00'
+[Thu Dec 13 22:39:59 2001] Rodetta tells the group, 'oops, think i messed that one up on my test :'
+[Thu Dec 13 22:40:01 2001] Rodetta tells the group, ':)'
+[Thu Dec 13 22:40:12 2001] You tell your party, 'okay, you see some business trying to port you to an impossible location, then it drops you right back at the safe point.'
+[Thu Dec 13 22:40:38 2001] Mawlen tells the group, 'this is when i throw my laptop out the window'
+[Thu Dec 13 22:40:45 2001] You tell your party, 'heh'
+[Thu Dec 13 22:41:07 2001] Mawlen tells the group, 'i would kill the darn guy'
+[Thu Dec 13 22:41:13 2001] Mawlen tells the group, 'but i cant'
+[Thu Dec 13 22:41:18 2001] You tell your party, 'why not?'
+[Thu Dec 13 22:41:27 2001] Mawlen tells the group, 'i dont have a GM's permission yet'
+[Thu Dec 13 22:41:44 2001] You tell your party, 'why do you need permission to kill a bugged mob?'
+[Thu Dec 13 22:41:52 2001] Mawlen tells the group, 'because he is a quest npc'
+[Thu Dec 13 22:42:00 2001] You tell your party, 'correct!'
+[Thu Dec 13 22:42:01 2001] Mawlen tells the group, 'thusly affecting gameplay'
+[Thu Dec 13 22:42:50 2001] You tell your party, 'okay, so you ask the GM, and the GM says to kill him. How do you do that?'
+[Thu Dec 13 22:42:54 2001] The spirit of wolf leaves you.
+[Thu Dec 13 22:43:12 2001] Mawlen tells the group, 'ok /kill tarbul_earthstrider00'
+[Thu Dec 13 22:43:25 2001] You tell your party, 'okay, that sounds good'
+[Thu Dec 13 22:43:33 2001] Mawlen tells the group, 'now i would make a note and include in my dsr under beasts killed'
+[Thu Dec 13 22:43:44 2001] You tell your party, 'yup'
+[Thu Dec 13 22:43:53 2001] Mawlen tells the group, 'then rynara would come along and post a reply'
+[Thu Dec 13 22:44:00 2001] a lizard justicar begins to cast a spell. (Bravery)
+[Thu Dec 13 22:44:07 2001] You tell your party, 'maybe so'
+[Thu Dec 13 22:44:36 2001] You tell your party, 'okay, let me think of another'
+[Thu Dec 13 22:45:13 2001] Espranza saved.
+[Thu Dec 13 22:45:52 2001] Rodetta GMSAYS, 'druid spell merchant in WC is outta place again.'
+[Thu Dec 13 22:46:06 2001] You tell your party, 'okay, someone has a stuck corpse in Sleeper's Tomb, and you're a level 50 full guide, and I'm on at the same time, a level 54 guide. No GM or senior is on. Who takes the petition?'
+[Thu Dec 13 22:46:18 2001] You GMSAY, 'esc it, I'll reset it'
+[Thu Dec 13 22:46:38 2001] Mawlen tells the group, 'you would because its a CSR restricted zone'
+[Thu Dec 13 22:47:20 2001] You tell your party, 'if you took the petition, you would. Being higher level does not give me superior rank,'
+[Thu Dec 13 22:47:39 2001] You tell your party, 'now if I were a senior or a GM, then I would take it.'
+[Thu Dec 13 22:47:59 2001] Mawlen tells the group, 'ok'
+[Thu Dec 13 22:47:59 2001] You tell your party, 'anyone wanna help me reset Slea?'
+[Thu Dec 13 22:48:10 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Dec 13 22:48:11 2001] USER TEXT: Might I get someone to respawn the druid in WC so I can buy spells the High lvl keep killing her Please sorry to bother you I was told I could ask
+[Thu Dec 13 22:48:11 2001] Players in EverQuest:
+[Thu Dec 13 22:48:11 2001] ---------------------------
+[Thu Dec 13 22:48:11 2001] [19 Druid] Leafybear (Wood Elf) <Clan StarDragon> ZONE: commons (USER PID ESGALV6)
+[Thu Dec 13 22:48:11 2001] There is 1 player in EverQuest.
+[Thu Dec 13 22:48:12 2001] Rodetta tells the group, 'yes, i would. cant zone for a sec though.'
+[Thu Dec 13 22:48:17 2001] Mawlen GMSAYS, 'ZONE another four letter word'
+[Thu Dec 13 22:48:20 2001] Mawlen tells the group, 'summon me'
+[Thu Dec 13 22:48:20 2001] You GMSAY, 'zone'
+[Thu Dec 13 22:48:23 2001] LOADING, PLEASE WAIT...
+[Thu Dec 13 22:48:57 2001] You have entered West Commonlands.
+[Thu Dec 13 22:48:57 2001] You have formed the group.
+[Thu Dec 13 22:49:06 2001] Summoning mawlen.
+[Thu Dec 13 22:49:14 2001] Minlaar says out of character, 'Looking for a port or tl to Dl '
+[Thu Dec 13 22:49:16 2001] Searching for slea_pinewhisper00.
+[Thu Dec 13 22:49:17 2001] Player is in zone commons at x = 440 y = 1383 z = -51.
+[Thu Dec 13 22:49:44 2001] You tell your party, 'okay, walk me through this please, Mawlen'
+[Thu Dec 13 22:49:57 2001] Mawlen tells the group, 'ok /goto slea_pinewhisper00'
+[Thu Dec 13 22:50:02 2001] Teleporting to Slea_Pinewhisper00 (441.00, 1383.00, -51.30).
+[Thu Dec 13 22:50:04 2001] Summoning Slea_Pinewhisper00.
+[Thu Dec 13 22:50:14 2001] Teleporting to Slea_Pinewhisper00 (441.00, 1383.00, -51.31).
+[Thu Dec 13 22:50:18 2001] Summoning Mawlen.
+[Thu Dec 13 22:50:32 2001] Ceel Moonwhisper begins to cast a spell. (Shield of Brambles)
+[Thu Dec 13 22:50:34 2001] Maedihl begins to cast a spell. (Greater Shielding)
+[Thu Dec 13 22:50:35 2001] You tell your party, 'she's actually inside the pillar'
+[Thu Dec 13 22:50:43 2001] Mawlen tells the group, 'oh wow'
+[Thu Dec 13 22:50:45 2001] You tell your party, 'stop running a sec I'll summon you back in'
+[Thu Dec 13 22:50:48 2001] Mawlen tells the group, 'ok'
+[Thu Dec 13 22:50:49 2001] Summoning Mawlen.
+[Thu Dec 13 22:50:56 2001] Mawlen tells the group, 'weird'
+[Thu Dec 13 22:51:00 2001] Minlaar says out of character, 'Looking for a port or tl to Dl '
+[Thu Dec 13 22:51:02 2001] You feel the spirit of Norrath enter you.
+[Thu Dec 13 22:51:07 2001] Mawlen tells the group, 'try mem blur her with your arm slot'
+[Thu Dec 13 22:51:07 2001] You tell your party, 'now what?'
+[Thu Dec 13 22:51:19 2001] Mawlen blinks a few times.
+[Thu Dec 13 22:51:24 2001] Mawlen tells the group, 'not me'
+[Thu Dec 13 22:51:24 2001] You tell your party, 'nada'
+[Thu Dec 13 22:51:28 2001] You tell your party, 'oops'
+[Thu Dec 13 22:51:28 2001] Magnetician waves at Espranza.
+[Thu Dec 13 22:51:35 2001] Searching for slea_pinewhisper00.
+[Thu Dec 13 22:51:36 2001] Player is in zone commons at x = 440 y = 1383 z = -51.
+[Thu Dec 13 22:51:39 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:51:44 2001] Slea Pinewhisper says 'Welcome to my shop, Mawlen. You would probably find a Spell: Ring of Karana handy'
+[Thu Dec 13 22:51:49 2001] Mawlen tells the group, 'she is trading with me'
+[Thu Dec 13 22:51:57 2001] Mawlen tells the group, 'but you need to move her'
+[Thu Dec 13 22:51:58 2001] Minlaar says out of character, 'Looking for a port or tl to Dl '
+[Thu Dec 13 22:52:02 2001] You tell your party, 'yup.'
+[Thu Dec 13 22:52:09 2001] Mawlen tells the group, 'use ring of removing on her'
+[Thu Dec 13 22:52:14 2001] Mawlen tells the group, 'run her back to normal spot'
+[Thu Dec 13 22:52:19 2001] Mawlen tells the group, 'then mem blur her again'
+[Thu Dec 13 22:52:22 2001] Slea Pinewhisper says 'Guards!! Guards!! 
+[Thu Dec 13 22:52:22 2001] Slea Pinewhisper feels a bit dispelled.
+[Thu Dec 13 22:52:22 2001] Slea Pinewhisper punches YOU for 109 points of damage.
+[Thu Dec 13 22:52:22 2001] Slea Pinewhisper bashes YOU for 43 points of damage.
+[Thu Dec 13 22:52:24 2001] Slea Pinewhisper punches YOU for 91 points of damage.
+[Thu Dec 13 22:52:25 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:52:25 2001] You can't use that command right now...
+[Thu Dec 13 22:52:25 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:52:25 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:52:26 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:52:26 2001] You can't use that command right now...
+[Thu Dec 13 22:52:26 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:52:26 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:52:26 2001] You can't use that command right now...
+[Thu Dec 13 22:52:26 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:52:27 2001] You can't use that command right now...
+[Thu Dec 13 22:52:27 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:52:27 2001] You can't use that command right now...
+[Thu Dec 13 22:52:27 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:52:28 2001] Slea Pinewhisper blinks a few times.
+[Thu Dec 13 22:52:29 2001] Mawlen tells the group, 'perfect'
+[Thu Dec 13 22:52:33 2001] Magnetician says, 'interesting way to sit :)'
+[Thu Dec 13 22:52:41 2001] Slea Pinewhisper says 'Hello there, Espranza. How about a nice Large Snake Skin?'
+[Thu Dec 13 22:52:41 2001] Leafybear bows before Espranza.
+[Thu Dec 13 22:52:42 2001] Slea Pinewhisper says 'Hi there Lilandrae, just browsing?  Have you seen the Rusty Long Sword I just got in?'
+[Thu Dec 13 22:52:43 2001] Lirus GMSAYS, 'all clear!'
+[Thu Dec 13 22:52:44 2001] You no longer have a target.
+[Thu Dec 13 22:52:45 2001] You no longer have a target.
+[Thu Dec 13 22:52:47 2001] Ceel Moonwhisper begins to cast a spell. (Firefist)
+[Thu Dec 13 22:52:48 2001] Espranza saved.
+[Thu Dec 13 22:52:53 2001] Mawlen tells the group, 'you did well espranza'
+[Thu Dec 13 22:52:55 2001] GM TEXT: Rodetta: Probably out of place, yet again.
+[Thu Dec 13 22:52:55 2001] Slea Pinewhisper says 'Hello there, Leafybear. How about a nice Spell: Ring of Toxxulia?'
+[Thu Dec 13 22:52:56 2001] Jibantik says 'Following you, Master.'
+[Thu Dec 13 22:52:58 2001] DELETING THIS PETITION
+[Thu Dec 13 22:53:01 2001] Slea Pinewhisper says 'Hi there Kloey, just browsing?  Have you seen the Small Cloth Pants I just got in?'
+[Thu Dec 13 22:53:01 2001] You tell your party, 'heh thanks :)'
+[Thu Dec 13 22:53:01 2001] Aggressa begins to cast a spell. (Summon Drink)
+[Thu Dec 13 22:53:03 2001] Minlaar says out of character, 'Looking for a port or tl to Dl '
+[Thu Dec 13 22:53:15 2001] Rodetta tells the group, 'well, not that it matters, but i'm done my pet :)'
+[Thu Dec 13 22:53:19 2001] Aggressa begins to cast a spell. (Summon Drink)
+[Thu Dec 13 22:53:24 2001] Minlaar shouts, 'Looking for a port or tl to DL pls'
+[Thu Dec 13 22:53:36 2001] Lirus GMSAYS, 'you guys doing anything cool for xmas/new years?'
+[Thu Dec 13 22:53:44 2001] Diggla auctions, 'WTS blackened alloy mail(bp) 16ac make offer'
+[Thu Dec 13 22:53:49 2001] Mawlen GMSAYS, 'hopefully getting some more memory'
+[Thu Dec 13 22:53:52 2001] Lirus GMSAYS, 'woot'
+[Thu Dec 13 22:53:53 2001] Rodetta GMSAYS, 'working. too many co-workers going away, good hours for me.'
+[Thu Dec 13 22:53:54 2001] You GMSAY, 'nope. unemployed three months, money running low.'
+[Thu Dec 13 22:54:01 2001] You GMSAY, 'don't have the funds for fun'
+[Thu Dec 13 22:54:03 2001] Mawlen GMSAYS, 'you too esp?'
+[Thu Dec 13 22:54:07 2001] Lirus GMSAYS, 'what ya do rodetta?'
+[Thu Dec 13 22:54:15 2001] Shadow Treebright begins to cast a spell. (Firefist)
+[Thu Dec 13 22:54:19 2001] Rodetta GMSAYS, 'Work at an Electronics Boutique.'
+[Thu Dec 13 22:54:27 2001] Lirus GMSAYS, 'sweet, i used to work at babbages'
+[Thu Dec 13 22:54:33 2001] Lirus GMSAYS, 'technically I "still" do'
+[Thu Dec 13 22:54:36 2001] Lirus GMSAYS, 'in colorado haha'
+[Thu Dec 13 22:54:37 2001] Rodetta GMSAYS, 'hehe, we're killing them :)'
+[Thu Dec 13 22:54:37 2001] Mawlen GMSAYS, 'you all could shop from my website and help me out hehe'
+[Thu Dec 13 22:54:41 2001] Lirus GMSAYS, 'same company'
+[Thu Dec 13 22:55:02 2001] Lirus GMSAYS, 'gamestop, EB, software etc, babbages is all one conglomerate aye?'
+[Thu Dec 13 22:55:10 2001] Lirus GMSAYS, 'what do you sell mawlen?'
+[Thu Dec 13 22:55:18 2001] Rodetta GMSAYS, 'EB doesn't own babages, but gamestop and all the forms of EB are.'
+[Thu Dec 13 22:55:19 2001] Ceel Moonwhisper begins to cast a spell. (Shield of Brambles)
+[Thu Dec 13 22:55:22 2001] Mawlen GMSAYS, 'www.foundagift.com  a lil of everything'
+[Thu Dec 13 22:55:26 2001] Your divine glory fades.
+[Thu Dec 13 22:55:27 2001] You GMSAY, '<note issue> I am getting a crick in my neck from holding my head at an angle and hunching my shoulders like that'
+[Thu Dec 13 22:55:31 2001] Leafybear begins to cast a spell. (Ring of Karana)
+[Thu Dec 13 22:55:38 2001] Leafybear fades away.
+[Thu Dec 13 22:55:43 2001] Shadow Treebright begins to cast a spell. (Shield of Brambles)
+[Thu Dec 13 22:55:50 2001] Lirus GMSAYS, 'that;s your online store maw?'
+[Thu Dec 13 22:55:55 2001] Mawlen GMSAYS, 'yes'
+[Thu Dec 13 22:55:59 2001] Rodetta GMSAYS, 'but after babages xbox screwup, we're killing them.'
+[Thu Dec 13 22:56:00 2001] Lirus GMSAYS, 'cool'
+[Thu Dec 13 22:56:04 2001] Aggressa shouts, 'Aggressa Airliens is now departing the druid circle for Dl and many other distant lands'
+[Thu Dec 13 22:56:05 2001] Lirus GMSAYS, 'what happened to em?'
+[Thu Dec 13 22:56:15 2001] Elathan begins to cast a spell. (Spirit of Wolf)
+[Thu Dec 13 22:56:16 2001] You GMSAY, 'someone bought an xbox?'
+[Thu Dec 13 22:56:19 2001] Birguz yells for help from behind you.
+[Thu Dec 13 22:56:24 2001] Lirus GMSAYS, '<---bought a cube'
+[Thu Dec 13 22:56:28 2001] Birguz begins to cast a spell. (Burn)
+[Thu Dec 13 22:56:28 2001] Rodetta GMSAYS, 'they took money on xbox pre-orders when microsoft said not too. so, MS didn't give them any xboxes.'
+[Thu Dec 13 22:56:28 2001] Elathan begins to cast a spell. (Greater Healing)
+[Thu Dec 13 22:56:41 2001] Lirus GMSAYS, 'on in the springs made a killing'
+[Thu Dec 13 22:56:42 2001] Birguz begins to cast a spell. (Burn)
+[Thu Dec 13 22:56:48 2001] Lirus GMSAYS, 'checked up on em when i was on vacation'
+[Thu Dec 13 22:56:48 2001] a Dervish Cutt's corpse says 'My comrades will avenge my death.'
+[Thu Dec 13 22:57:13 2001] Mawlen tells the group, 'what other questions you got esp?'
+[Thu Dec 13 22:57:15 2001] Birguz begins to cast a spell. (Burn)
+[Thu Dec 13 22:57:20 2001] Lirus GMSAYS, '<---wants to own a game store someday'
+[Thu Dec 13 22:57:21 2001] You tell your party, 'oh yeah more questions'
+[Thu Dec 13 22:57:23 2001] Birguz begins to cast a spell. (Burn)
+[Thu Dec 13 22:57:27 2001] Mawlen tells the group, 'move away from circle'
+[Thu Dec 13 22:57:29 2001] Birguz begins to cast a spell. (Burn)
+[Thu Dec 13 22:57:36 2001] Lirus GMSAYS, 'i'm saving up heh, don't wanna hafta take out a loan'
+[Thu Dec 13 22:57:37 2001] Mawlen tells the group, 'too much casting spam'
+[Thu Dec 13 22:58:04 2001] Rodetta GMSAYS, 'hmm, i'm gonna find the highest spot in kelethin and jump off.'
+[Thu Dec 13 22:58:08 2001] Lirus GMSAYS, 'hehe'
+[Thu Dec 13 22:58:10 2001] You tell your party, 'in which cases can we give a rez in a CSR zone?'
+[Thu Dec 13 22:58:16 2001] Lirus GMSAYS, 'where did ya used to work esp?'
+[Thu Dec 13 22:58:19 2001] Mawlen tells the group, 'verifiable bugs'
+[Thu Dec 13 22:58:22 2001] You GMSAY, 'Sony'
+[Thu Dec 13 22:58:29 2001] You GMSAY, 'and after that, Harcourt e-Learning'
+[Thu Dec 13 22:58:42 2001] Lirus GMSAYS, '*cough* which division of Sony?'
+[Thu Dec 13 22:59:05 2001] You GMSAY, 'Sony Music Entertainment, New Technologies division'
+[Thu Dec 13 22:59:16 2001] Lirus GMSAYS, 'ahh cool'
+[Thu Dec 13 22:59:23 2001] Mawlen GMSAYS, 'geesh, how is everyone getting this cool jobs?'
+[Thu Dec 13 22:59:26 2001] Lirus GMSAYS, 'They are late with our cd's for last month'
+[Thu Dec 13 22:59:32 2001] Mawlen GMSAYS, 'i dont have a college degree either'
+[Thu Dec 13 22:59:32 2001] You GMSAY, 'I'm not. I'm out of work.'
+[Thu Dec 13 22:59:59 2001] You GMSAY, 'we used to turn in three months worth of CD requests at once'
+[Thu Dec 13 23:00:08 2001] Lirus GMSAYS, 'you used to get em from us?'
+[Thu Dec 13 23:00:26 2001] You GMSAY, 'got them from SME when I worked there.'
+[Thu Dec 13 23:00:31 2001] Lirus GMSAYS, 'ahh'
+[Thu Dec 13 23:00:34 2001] You GMSAY, 'now I don't, of course'
+[Thu Dec 13 23:00:38 2001] Mawlen tells the group, 'well my answer is right'
+[Thu Dec 13 23:00:41 2001] Lirus GMSAYS, 'I think they supply all the employees with one a month'
+[Thu Dec 13 23:00:45 2001] Lirus GMSAYS, 'from the store website'
+[Thu Dec 13 23:00:55 2001] Lirus GMSAYS, 'well all employees who submit a request on time'
+[Thu Dec 13 23:00:55 2001] You tell your party, 'no, we only rez in a CSR zone when directed to by a GM'
+[Thu Dec 13 23:00:58 2001] You tell your party, 'no other reason'
+[Thu Dec 13 23:01:08 2001] Dratier GMSAYS, 'Hello Everyone'
+[Thu Dec 13 23:01:10 2001] Mawlen tells the group, 'damn, why did you have to pay attention now'
+[Thu Dec 13 23:01:15 2001] You GMSAY, 'Hey, Dratier!'
+[Thu Dec 13 23:01:15 2001] Lirus GMSAYS, 'Heya Dratier'
+[Thu Dec 13 23:01:31 2001] Rodetta GMSAYS, 'player pets that everytime he camps, he gets disco'd at 5 seconds.'
+[Thu Dec 13 23:01:41 2001] Lirus GMSAYS, 'yes that is normal...'
+[Thu Dec 13 23:01:43 2001] You GMSAY, 'haha'
+[Thu Dec 13 23:01:46 2001] Mawlen GMSAYS, 'lucky him'
+[Thu Dec 13 23:01:51 2001] Lirus GMSAYS, 'do YOU get a one timer?'
+[Thu Dec 13 23:01:54 2001] Lirus GMSAYS, 'i don't....'
+[Thu Dec 13 23:01:54 2001] Mawlen GMSAYS, 'i hate waiting so long to leave the game'
+[Thu Dec 13 23:01:54 2001] Rodetta GMSAYS, 'no, i mean black screen disco'd.'
+[Thu Dec 13 23:02:03 2001] Lirus GMSAYS, 'i used to get that screen it was weird'
+[Thu Dec 13 23:02:16 2001] Lirus GMSAYS, 'probably programmers Fing something up again'
+[Thu Dec 13 23:02:30 2001] Mawlen GMSAYS, '/em wonders if the testers actually TEST the game before they release it'
+[Thu Dec 13 23:02:40 2001] You tell your party, 'okay, you get a petition saying someone's corpse is in the wall in ToV. How do you respond?'
+[Thu Dec 13 23:03:00 2001] Espranza saved.
+[Thu Dec 13 23:03:02 2001] Mawlen tells the group, 'well first i would verify the corpse'
+[Thu Dec 13 23:03:12 2001] Lirus GMSAYS, '*cough* yknow it was working better in beta'
+[Thu Dec 13 23:03:20 2001] Lirus GMSAYS, 'we were using DX8.0'
+[Thu Dec 13 23:03:23 2001] Lirus GMSAYS, 'for beta'
+[Thu Dec 13 23:03:29 2001] Davtar auctions, 'WTS imbued mithril studed armors. wis/cha. elf hie hef hum, wis csters, tunare only. any slots.'
+[Thu Dec 13 23:03:33 2001] Lirus GMSAYS, 'then they switched to 8.1 and everything went to hell'
+[Thu Dec 13 23:03:39 2001] You tell your party, 'okay, you see there is in fact a corpse there'
+[Thu Dec 13 23:03:43 2001] Mawlen tells the group, 'then i would /zone templeveeshan'
+[Thu Dec 13 23:03:57 2001] Mawlen tells the group, 'whats the players name?'
+[Thu Dec 13 23:03:58 2001] Lirus GMSAYS, 'and yeah the testers are some hard working mofo's. I feel bad for em some days'
+[Thu Dec 13 23:04:06 2001] Remnoq shouts, 'PORTING GF, NK, or Toxx for donations send tells'
+[Thu Dec 13 23:04:13 2001] Lirus GMSAYS, 'they look like they haven't washed clothes in months and come in looking like zombies'
+[Thu Dec 13 23:04:13 2001] You tell your party, 'well.... first you would ask them if they have tried the /corpse command'
+[Thu Dec 13 23:04:34 2001] Mawlen tells the group, 'i did that already'
+[Thu Dec 13 23:04:37 2001] Vinyamar auctions, 'wts fist of zek  16/30 1hb +20str -20 agi will trade for warrior items'
+[Thu Dec 13 23:04:48 2001] Mawlen tells the group, 'they said they have and it isnt working'
+[Thu Dec 13 23:05:09 2001] Lirus GMSAYS, 'Well it's 11:00. Time fer me to get my proverbial travel on and go home and play'
+[Thu Dec 13 23:05:21 2001] You tell your party, 'and before you zoned to a CSR zone, you would see if the GM or a senior wanted to take it'
+[Thu Dec 13 23:05:32 2001] Mawlen tells the group, 'theres none on of course'
+[Thu Dec 13 23:05:32 2001] You tell your party, 'but for this, we'll assume you're alone on the server'
+[Thu Dec 13 23:05:33 2001] Rodetta GMSAYS, 'cazail unavail X1 and offline.'
+[Thu Dec 13 23:05:38 2001] Dratier GMSAYS, 'Okay, see ya later Lirus.'
+[Thu Dec 13 23:05:43 2001] You GMSAY, 'Night, Lirus!'
+[Thu Dec 13 23:05:47 2001] Lirus GMSAYS, 'Goodnight folks, thanks for all the help and time ye put in'
+[Thu Dec 13 23:05:50 2001] Lirus GMSAYS, 'it is appreciated'
+[Thu Dec 13 23:05:51 2001] Mawlen tells the group, 'you didnt set an evironment for me =P'
+[Thu Dec 13 23:06:03 2001] Mawlen GMSAYS, 'night lirus'
+[Thu Dec 13 23:06:06 2001] You tell your party, 'I don't want to give everything away...'
+[Thu Dec 13 23:06:07 2001] Rodetta GMSAYS, 'hehe, then give me 30 levels, will ya? :)'
+[Thu Dec 13 23:06:14 2001] Fullscreen Transparent Polygons are now OFF
+[Thu Dec 13 23:06:17 2001] Fullscreen Transparent Polygons are now ON
+[Thu Dec 13 23:06:27 2001] Mawlen tells the group, 'ok so i zone in'
+[Thu Dec 13 23:06:40 2001] Mawlen tells the group, 'then i /goto john's corpse0'
+[Thu Dec 13 23:06:44 2001] You tell your party, 'k, let's say the person's name is... Gertle'
+[Thu Dec 13 23:06:55 2001] Mawlen tells the group, 'then i /goto gertle's corpse0'
+[Thu Dec 13 23:07:17 2001] Mawlen tells the group, 'ill wait for you to respond'
+[Thu Dec 13 23:07:19 2001] You tell your party, 'and when you get there, you see it is at the zone in'
+[Thu Dec 13 23:07:33 2001] Mawlen tells the group, 'huh?'
+[Thu Dec 13 23:07:34 2001] Rodetta GMSAYS, 'i think you guy's have this under control. i've gotta work in the morning. cya all next time.'
+[Thu Dec 13 23:07:36 2001] Mawlen tells the group, 'what did you say?'
+[Thu Dec 13 23:07:46 2001] You GMSAY, 'goodnight, Rodetta!'
+[Thu Dec 13 23:07:56 2001] Dratier GMSAYS, 'Cya later Rodetta.'
+[Thu Dec 13 23:08:02 2001] You tell your party, 'you go to her corpse and find it at the safe point in the zone'
+[Thu Dec 13 23:08:05 2001] Rodetta GMSAYS, 'ZONEING (and dont you forget it)'
+[Thu Dec 13 23:08:08 2001] Players in EverQuest:
+[Thu Dec 13 23:08:08 2001] ---------------------------
+[Thu Dec 13 23:08:08 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID EU7FU02)
+[Thu Dec 13 23:08:08 2001] * Apprentice Guide *[20 Druid] Mawlen (Wood Elf) ZONE: commons (USER PID DUALYLP)
+[Thu Dec 13 23:08:08 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID AUGBQH4)
+[Thu Dec 13 23:08:08 2001] * Apprentice Guide *[20 Shadow Knight] Rodetta (Erudite) ZONE: gfaydark (USER PID DY6ZLSX)
+[Thu Dec 13 23:08:08 2001] There are 4 players in EverQuest.
+[Thu Dec 13 23:08:08 2001] Rodetta has left the group.
+[Thu Dec 13 23:08:24 2001] Mawlen tells the group, 'how did this person claim they died?'
+[Thu Dec 13 23:08:30 2001] Callidian auctions, 'WTS shrunken goblin skull earring'
+[Thu Dec 13 23:08:49 2001] You tell your party, 'killed by a dragon while they were crouched around a corner.'
+[Thu Dec 13 23:08:51 2001] Vinyamar auctions, 'wts fist of zek  16/30 1hb +20str -20 agi will trade for warrior items'
+[Thu Dec 13 23:09:11 2001] Bindadar auctions, 'wts Staff of Writhing and Foremans Tunic make offer'
+[Thu Dec 13 23:09:18 2001] Callidian auctions, 'WTS shrunken goblin skull earring'
+[Thu Dec 13 23:09:27 2001] Mawlen tells the group, 'ok well in this case, i would summon their corpse a few feet away and have them re-try the /corpse command'
+[Thu Dec 13 23:09:47 2001] You tell your party, 'okay, that's what I would do, too...'
+[Thu Dec 13 23:09:51 2001] You tell your party, 'here's another one.'
+[Thu Dec 13 23:10:26 2001] You tell your party, 'petitioner falls off the boat in Timorous Deep, swims around for awhile, eventually decides to petition and they ask for be ported to Firiona Vie. What do you do?'
+[Thu Dec 13 23:10:43 2001] Mawlen tells the group, 'ahh we just had this yesterday'
+[Thu Dec 13 23:10:51 2001] Callidian auctions, 'WTS shrunken goblin skull earring'
+[Thu Dec 13 23:10:57 2001] Vinyamar shouts, 'is the sevr comeing down ?'
+[Thu Dec 13 23:11:16 2001] Mawlen tells the group, 'i would /zone timorous'
+[Thu Dec 13 23:11:17 2001] Bindadar shouts, '?..'
+[Thu Dec 13 23:11:22 2001] Mawlen tells the group, 'whats the name'
+[Thu Dec 13 23:11:28 2001] You tell your party, 'Bob'
+[Thu Dec 13 23:11:42 2001] Mawlen tells the group, 'then i would /goto bob00'
+[Thu Dec 13 23:11:47 2001] Bindadar auctions, 'wts Staff of Writhing and Foremans Tunic make offer'
+[Thu Dec 13 23:11:51 2001] Mawlen tells the group, 'doh'
+[Thu Dec 13 23:11:55 2001] You tell your party, 'okay, you go there and are bobbing with bob'
+[Thu Dec 13 23:12:02 2001] Mawlen tells the group, 'now im floating around too'
+[Thu Dec 13 23:12:08 2001] Mawlen tells the group, 'hehe'
+[Thu Dec 13 23:12:17 2001] You tell your party, 'and you don't need 00s for PCs'
+[Thu Dec 13 23:12:22 2001] You tell your party, 'you can just /goto bob'
+[Thu Dec 13 23:12:28 2001] Mawlen tells the group, 'i would then find the closest land'
+[Thu Dec 13 23:12:41 2001] Mawlen tells the group, 'and /summon bob'
+[Thu Dec 13 23:12:48 2001] Mawlen tells the group, 'then bob is on his own'
+[Thu Dec 13 23:12:52 2001] You tell your party, 'okay, you find some remote, uninhabited rock in the middle of the sea and summon him to it'
+[Thu Dec 13 23:13:11 2001] Espranza saved.
+[Thu Dec 13 23:13:11 2001] Mawlen tells the group, 'a piece of land'
+[Thu Dec 13 23:13:35 2001] Dratier GMSAYS, 'zoning'
+[Thu Dec 13 23:13:44 2001] You tell your party, 'We can summon them to the appropriate docks within the zone'
+[Thu Dec 13 23:14:11 2001] Mawlen tells the group, 'thats what i said'
+[Thu Dec 13 23:14:24 2001] Mawlen tells the group, 'the piece of land known as the appropriate dock =)'
+[Thu Dec 13 23:14:29 2001] You tell your party, 'heh'
+[Thu Dec 13 23:14:31 2001] You tell your party, 'wellll'
+[Thu Dec 13 23:14:52 2001] Mawlen tells the group, 'i was thinking of deap water recovery'
+[Thu Dec 13 23:15:07 2001] Kryul auctions, 'Validus Custodus Pauldron ac11 str5 hps 5 -agi'
+[Thu Dec 13 23:15:42 2001] Ryme auctions, 'Symphonic Saber 5k (bard)'
+[Thu Dec 13 23:15:49 2001] Vinyamar auctions, 'wts fist of zek  16/30 1hb +20str -20 agi will trade for warrior items'
+[Thu Dec 13 23:15:51 2001] Prescott auctions, '-=WTS=- Crystal WebShield ac15 hp20 mana20 svc10 /// Spiderfang Choker ac3 sta2 agi2 mana20 svc5 /// Medium FP Shoulders /// Robe of the Oracle ac10 wis5 int5 mana25 Monk and Casters ///'
+[Thu Dec 13 23:15:57 2001] Arkilium says out of character, 'someone kill dervs and let me loot'
+[Thu Dec 13 23:16:01 2001] Prescott says out of character, 'WTB Port to IC or GD please'
+[Thu Dec 13 23:16:03 2001] Ryme auctions, 'Silver Chittin Handwraps 5k'
+[Thu Dec 13 23:16:09 2001] Prescott says out of character, 'what for?'
+[Thu Dec 13 23:16:26 2001] You tell your party, 'Persona kills the ancient cyclops personb had been waiting for for three days and, they said, had started attacking already when persona KSd them. What do you do?'
+[Thu Dec 13 23:16:54 2001] Ralon auctions, 'wTS blood runed greaves.. bio orb. silver chitin wrist bands . and SS armor . wts spider fur belt and rogue gear'
+[Thu Dec 13 23:17:16 2001] Mawlen tells the group, 'hmm, too late to investigate...'
+[Thu Dec 13 23:17:20 2001] Daank says out of character, 'all dead'
+[Thu Dec 13 23:17:21 2001] Kryul auctions, 'Validus Custodus Pauldron ac11 str5 hps 5 -agi'
+[Thu Dec 13 23:17:37 2001] Prescott says out of character, 'lol'
+[Thu Dec 13 23:17:39 2001] Ralon auctions, 'wTS 20 30 2h pericer .. with stats '
+[Thu Dec 13 23:17:46 2001] Mawlen tells the group, 'i would get both sides story and make a report'
+[Thu Dec 13 23:17:49 2001] Ralon auctions, 'wts 10 22 dagger'
+[Thu Dec 13 23:17:49 2001] Prescott says out of character, 'WTB Port to IC or GD please'
+[Thu Dec 13 23:17:53 2001] Prescott auctions, '-=WTS=- Crystal WebShield ac15 hp20 mana20 svc10 /// Spiderfang Choker ac3 sta2 agi2 mana20 svc5 /// Medium FP Shoulders /// Robe of the Oracle ac10 wis5 int5 mana25 Monk and Casters ///'
+[Thu Dec 13 23:18:34 2001] Mawlen has gone Linkdead.
+[Thu Dec 13 23:18:35 2001] Your group has been disbanded.
+[Thu Dec 13 23:18:38 2001] You are not in a group. Talking to yourself again???
+[Thu Dec 13 23:18:52 2001] Saberpaw says out of character, 'Ld GM?'
+[Thu Dec 13 23:18:59 2001] Saberpaw says out of character, 'Ack'
+[Thu Dec 13 23:19:20 2001] Matthius shouts, 'thats never a good sign when a GM is LD'
+[Thu Dec 13 23:19:32 2001] Prescott says out of character, 'WTB Port to IC or GD please'
+[Thu Dec 13 23:19:38 2001] Saberpaw says out of character, 'um?????  no i dont think so'
+[Thu Dec 13 23:19:46 2001] Kililaena says out of character, '53 warr 53 druid 52 cleric seek 3 more for solB efreeti'
+[Thu Dec 13 23:19:56 2001] Arkilium shouts, 'may Bristlebane curse all of your purses!'
+[Thu Dec 13 23:20:31 2001] Players in EverQuest:
+[Thu Dec 13 23:20:31 2001] ---------------------------
+[Thu Dec 13 23:20:31 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: shadeweaver (USER PID EU7FU02)
+[Thu Dec 13 23:20:31 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID AUGBQH4)
+[Thu Dec 13 23:20:31 2001] There are 2 players in EverQuest.
+[Thu Dec 13 23:20:40 2001] Sil Silverstar begins to cast a spell. (Skin like Rock)
+[Thu Dec 13 23:20:52 2001] Sil Silverstar begins to cast a spell. (Skin like Rock)
+[Thu Dec 13 23:20:55 2001] Kryul auctions, 'Validus Custodus Pauldron ac11 str5 hps 5 -agi'
+[Thu Dec 13 23:21:12 2001] Ceel Moonwhisper begins to cast a spell. (Skin like Steel)
+[Thu Dec 13 23:21:13 2001] Kililaena says out of character, '53 warr 53 druid 52 cleric seek 3 more for solB efreeti'
+[Thu Dec 13 23:21:24 2001] Sil Silverstar begins to cast a spell. (Firefist)
+[Thu Dec 13 23:21:28 2001] Ceel Moonwhisper begins to cast a spell. (Skin like Steel)
+[Thu Dec 13 23:21:29 2001] Prescott says out of character, 'WTB Port to IC or GD please'
+[Thu Dec 13 23:21:52 2001] Sil Silverstar begins to cast a spell. (Riftwind's Protection)
+[Thu Dec 13 23:21:56 2001] Ceel Moonwhisper begins to cast a spell. (Shield of Brambles)
+[Thu Dec 13 23:22:04 2001] Sil Silverstar begins to cast a spell. (Riftwind's Protection)
+[Thu Dec 13 23:22:07 2001] Prescott says out of character, 'WTB Port to IC or GD please'
+[Thu Dec 13 23:22:16 2001] Ceel Moonwhisper begins to cast a spell. (Shield of Brambles)
+[Thu Dec 13 23:22:28 2001] Ceel Moonwhisper begins to cast a spell. (Spirit of Wolf)
+[Thu Dec 13 23:22:41 2001] Players in EverQuest:
+[Thu Dec 13 23:22:41 2001] ---------------------------
+[Thu Dec 13 23:22:41 2001] * Apprentice Guide *[20 Druid] Mawlen (Wood Elf) ZONE: commons (USER PID DUALYLP)
+[Thu Dec 13 23:22:41 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: shadeweaver (USER PID EU7FU02)
+[Thu Dec 13 23:22:41 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID AUGBQH4)
+[Thu Dec 13 23:22:41 2001] There are 3 players in EverQuest.
+[Thu Dec 13 23:22:44 2001] Ceel Moonwhisper begins to cast a spell. (Spirit of Wolf)
+[Thu Dec 13 23:22:45 2001] Prescott says out of character, 'WTB Port to IC or GD please'
+[Thu Dec 13 23:22:51 2001] You GMSAY, 'welcome back, Mawlen!'
+[Thu Dec 13 23:22:53 2001] Teleporting to mawlen.
+[Thu Dec 13 23:22:58 2001] You invite Mawlen to join your group.
+[Thu Dec 13 23:23:01 2001] You have formed the group.
+[Thu Dec 13 23:23:05 2001] Mawlen sighs at Espranza.
+[Thu Dec 13 23:23:10 2001] You shrug at Mawlen.
+[Thu Dec 13 23:23:24 2001] Espranza saved.
+[Thu Dec 13 23:23:24 2001] Mawlen tells the group, 'did you see my answer before i went LD?'
+[Thu Dec 13 23:23:34 2001] Prescott says out of character, 'is anyone porting?'
+[Thu Dec 13 23:24:16 2001] Harepie shouts, ''
+[Thu Dec 13 23:24:20 2001] You tell your party, 'personb really wants their ring of the ancients'
+[Thu Dec 13 23:24:37 2001] Mawlen tells the group, 'well the mob is dead now'
+[Thu Dec 13 23:24:50 2001] Prescott says out of character, 'is anyone porting?'
+[Thu Dec 13 23:25:01 2001] Mawlen tells the group, 'i can just take a report'
+[Thu Dec 13 23:25:01 2001] Menerdari says out of character, 'were you want to go?'
+[Thu Dec 13 23:25:08 2001] Mawlen tells the group, 'no chance to investigate'
+[Thu Dec 13 23:25:12 2001] Prescott says out of character, 'GD or IC please'
+[Thu Dec 13 23:25:18 2001] Mawlen tells the group, 'take both sides stories'
+[Thu Dec 13 23:25:28 2001] Menerdari says out of character, 'i can get you to IC'
+[Thu Dec 13 23:25:37 2001] Mawlen tells the group, 'try to see if they can reach a compromise'
+[Thu Dec 13 23:25:43 2001] Prescott says out of character, 'fine with me, im at rings'
+[Thu Dec 13 23:25:49 2001] Mawlen tells the group, 'if not, submit the report for the SMT to make a decision'
+[Thu Dec 13 23:25:50 2001] You tell your party, 'yeah, there's nothing we can do unless we see it or they did something incriminatin'
+[Thu Dec 13 23:25:53 2001] Kryul auctions, 'Validus Custodus Pauldron ac11 str5 hps 5 -agi'
+[Thu Dec 13 23:26:04 2001] Arkilium says, 'why are your names green?'
+[Thu Dec 13 23:26:15 2001] Mawlen shrugs at Arkilium.
+[Thu Dec 13 23:26:31 2001] You tell your party, 'no need to report it to the SMT'
+[Thu Dec 13 23:26:37 2001] Mawlen says, 'she did it'
+[Thu Dec 13 23:26:37 2001] You tell your party, 'that have no special powers for this'
+[Thu Dec 13 23:26:38 2001] Arkilium says, 'well mine is blue i want GREEN'
+[Thu Dec 13 23:26:42 2001] You say, 'We're guides'
+[Thu Dec 13 23:26:47 2001] Mawlen says, 'you want green name?'
+[Thu Dec 13 23:26:54 2001] Arkilium says, 'hey'
+[Thu Dec 13 23:26:54 2001] Mawlen says, 'guideapp.everquest.com'
+[Thu Dec 13 23:27:08 2001] The spirit leaves you.
+[Thu Dec 13 23:27:12 2001] Mawlen tells the group, 'i know hehe'
+[Thu Dec 13 23:27:12 2001] Saberpaw says, 'Hail, Espranza'
+[Thu Dec 13 23:27:19 2001] Saberpaw says, 'hello m'lady'
+[Thu Dec 13 23:27:25 2001] Saberpaw kneels before Espranza in humility and reverence.
+[Thu Dec 13 23:27:36 2001] Saberpaw says, 'Hail, Mawlen'
+[Thu Dec 13 23:27:41 2001] Saberpaw says, 'hello sire'
+[Thu Dec 13 23:27:47 2001] Saberpaw kneels before Mawlen in humility and reverence.
+[Thu Dec 13 23:27:50 2001] Mawlen waves at Saberpaw.
+[Thu Dec 13 23:27:52 2001] Kililaena auctions, 'WTS BA coif ac8 str6 all saves6  500pp obo'
+[Thu Dec 13 23:27:53 2001] You tell your party, 'wanna test me?'
+[Thu Dec 13 23:27:54 2001] Kililaena auctions, 'WTS Rygorr BP ac18 str10 mana20 svp5'
+[Thu Dec 13 23:27:59 2001] Mawlen tells the group, 'test you???????'
+[Thu Dec 13 23:28:00 2001] Saberpaw says, 'Can i ask something?'
+[Thu Dec 13 23:28:12 2001] You tell your party, 'try to stump me :)'
+[Thu Dec 13 23:28:16 2001] You say, 'Sure'
+[Thu Dec 13 23:28:44 2001] Kililaena auctions, 'WTS Blue Diamond'
+[Thu Dec 13 23:28:50 2001] Saberpaw says, 'will the servers be comeing down tonight?'
+[Thu Dec 13 23:29:01 2001] Saberpaw kneels before Espranza in humility and reverence.
+[Thu Dec 13 23:29:14 2001] Dratier GMSAYS, 'zoning'
+[Thu Dec 13 23:29:20 2001] Mawlen tells the group, 'ok ill quiz you'
+[Thu Dec 13 23:29:23 2001] Daank gasps at Saberpaw in astonishment.
+[Thu Dec 13 23:29:34 2001] You say, 'Who knows? I haven't heard that they are though'
+[Thu Dec 13 23:29:46 2001] Saberpaw says, 'aye Thank ye M;lady'
+[Thu Dec 13 23:29:52 2001] You say, 'Sure thing!'
+[Thu Dec 13 23:29:52 2001] Saberpaw says, 'good night'
+[Thu Dec 13 23:29:54 2001] Saberpaw bows before Espranza.
+[Thu Dec 13 23:29:59 2001] Ledrole says, 'Hail, Espranza'
+[Thu Dec 13 23:30:01 2001] Ledrole waves at Espranza.
+[Thu Dec 13 23:30:07 2001] Saberpaw snaps to attention and salutes Mawlen crisply.
+[Thu Dec 13 23:30:13 2001] Mawlen tells the group, 'omg another swarm'
+[Thu Dec 13 23:30:22 2001] Mawlen snaps to attention and salutes Saberpaw crisply.
+[Thu Dec 13 23:30:30 2001] Ledrole says, 'Hail, Mawlen'
+[Thu Dec 13 23:30:35 2001] Mawlen nods at Ledrole.
+[Thu Dec 13 23:30:37 2001] Saberpaw says, 'got something for me Ledrole?'
+[Thu Dec 13 23:30:50 2001] Jebble shouts, 'WTS TP's Bb,Wc,Nk,Ek,Ls,Ro,Fe,Sf,Sfg,Ice,tox,Comb'
+[Thu Dec 13 23:31:06 2001] Saberpaw says, 'thought not '
+[Thu Dec 13 23:31:08 2001] Saberpaw says, 'LOL'
+[Thu Dec 13 23:31:09 2001] You tell your party, 'flee!'
+[Thu Dec 13 23:31:13 2001] You feel the spirit of Norrath enter you.
+[Thu Dec 13 23:31:18 2001] Mawlen tells the group, 'oh sure'
+[Thu Dec 13 23:31:33 2001] Mawlen tells the group, 'i cant run'
+[Thu Dec 13 23:31:53 2001] You tell your party, 'fakeit ;0'
+[Thu Dec 13 23:32:12 2001] Mawlen tells the group, 'ok heres the quiz'
+[Thu Dec 13 23:32:20 2001] Mawlen tells the group, 'how many questions are on the test'
+[Thu Dec 13 23:32:34 2001] You tell your party, 'no clue'
+[Thu Dec 13 23:32:41 2001] Mawlen tells the group, 'wrong answer'
+[Thu Dec 13 23:32:43 2001] Summoning mawlen.
+[Thu Dec 13 23:32:45 2001] You tell your party, 'darn'
+[Thu Dec 13 23:33:01 2001] Lumaria auctions, 'wtb words of dimension'
+[Thu Dec 13 23:33:17 2001] Mawlen tells the group, 'try again'
+[Thu Dec 13 23:33:36 2001] Espranza saved.
+[Thu Dec 13 23:33:37 2001] You tell your party, '7'
+[Thu Dec 13 23:33:45 2001] Mawlen tells the group, 'wrong answer'
+[Thu Dec 13 23:33:49 2001] Dratier GMSAYS, 'zoning'
+[Thu Dec 13 23:35:06 2001] Mawlen tells the group, 'damn dont ever disarm a shadowed man'
+[Thu Dec 13 23:35:07 2001] Tulaven tells you, 'May i ask you a question? --- would the server be going down tonight for another patch?'
+[Thu Dec 13 23:35:45 2001] You must be standing to cast a spell.
+[Thu Dec 13 23:35:45 2001] You must be standing to cast a spell.
+[Thu Dec 13 23:35:50 2001] You told Tulaven, 'I don't think so'
+[Thu Dec 13 23:35:56 2001] Mawlen tells the group, 'good book'
+[Thu Dec 13 23:35:59 2001] You tell your party, 'I never took the guide test'
+[Thu Dec 13 23:36:09 2001] Mawlen tells the group, 'who gives the test'
+[Thu Dec 13 23:36:14 2001] You tell your party, 'Rynara'
+[Thu Dec 13 23:36:21 2001] Mawlen tells the group, 'can i swear here?'
+[Thu Dec 13 23:36:26 2001] You tell your party, 'lol!'
+[Thu Dec 13 23:36:32 2001] You tell your party, 'I knew you'd like that'
+[Thu Dec 13 23:36:43 2001] Mawlen shouts out several curses.
+[Thu Dec 13 23:36:47 2001] Cired auctions, 'WTS robe of keeper 8ac +2int 80pp....'
+[Thu Dec 13 23:37:08 2001] Lumaria auctions, 'wtb words of dimension'
+[Thu Dec 13 23:37:09 2001] Mawlen tells the group, 'she will fail me just cause she wants me to stay an appie forever'
+[Thu Dec 13 23:37:19 2001] You tell your party, 'now now'
+[Thu Dec 13 23:37:32 2001] You tell your party, 'You have a bad idea of her but that's not how she is'
+[Thu Dec 13 23:37:33 2001] Mawlen tells the group, 'im gonna request the test be given by someone else'
+[Thu Dec 13 23:37:56 2001] a shadowed man begins to cast a spell. (Banshee Aura)
+[Thu Dec 13 23:37:57 2001] Mawlen tells the group, 'she will ask me impossible questions'
+[Thu Dec 13 23:38:01 2001] A shadowed man is surrounded by a shrieking aura.
+[Thu Dec 13 23:38:01 2001] Cired auctions, 'WTB lq bear skin.....'
+[Thu Dec 13 23:38:03 2001] Cired auctions, 'WTS black steel wrap 6ac +10hp, 50pp'
+[Thu Dec 13 23:38:13 2001] You tell your party, 'no she won't'
+[Thu Dec 13 23:38:33 2001] Mawlen groans at the sight of Espranza.
+[Thu Dec 13 23:38:36 2001] Mawlen tells the group, 'oops'
+[Thu Dec 13 23:38:36 2001] You tell your party, 'they will all be things you can find in the P&P'
+[Thu Dec 13 23:38:47 2001] Mawlen tells the group, 'is there a time limit per question?'
+[Thu Dec 13 23:38:47 2001] a shadowed man begins to cast a spell. (Banshee Aura)
+[Thu Dec 13 23:38:53 2001] A shadowed man is surrounded by a shrieking aura.
+[Thu Dec 13 23:39:16 2001] You tell your party, 'I don't know, I've neither taken nor given the test'
+[Thu Dec 13 23:39:20 2001] Cired auctions, 'WTB lq bear skin.....'
+[Thu Dec 13 23:39:23 2001] You tell your party, 'I predated testing'
+[Thu Dec 13 23:39:26 2001] Arkilium shouts, 'anyone have weapons to sell a poor halfling ?'
+[Thu Dec 13 23:39:31 2001] Cired auctions, 'WTS 2h prac sword 19/47 2hs...200pp obo'
+[Thu Dec 13 23:39:33 2001] Mawlen tells the group, 'well the questions you asked are not in the pnp'
+[Thu Dec 13 23:39:37 2001] You tell your party, 'I predated Rynara, Lancet and Mersi being seniors.'
+[Thu Dec 13 23:39:39 2001] a shadowed man begins to cast a spell. (Leatherskin)
+[Thu Dec 13 23:39:40 2001] Cired says out of character, 'how poor??'
+[Thu Dec 13 23:39:43 2001] Lardan says out of character, 'how ya gonna buy weapons if yer poor'
+[Thu Dec 13 23:39:43 2001] You tell your party, 'I predated Mersi even being a guide.'
+[Thu Dec 13 23:39:44 2001] A shadowed man's skin looks like leather.
+[Thu Dec 13 23:39:49 2001] Lardan says out of character, 'lol'
+[Thu Dec 13 23:39:55 2001] a shadowed man begins to cast a spell. (Leatherskin)
+[Thu Dec 13 23:39:57 2001] Mawlen tells the group, 'then why arent you a senior guide?'
+[Thu Dec 13 23:39:58 2001] Menerdari auctions, 'WTS orc fang necklace ac5 str sta agi 3  150pp'
+[Thu Dec 13 23:39:59 2001] A shadowed man's skin looks like leather.
+[Thu Dec 13 23:40:02 2001] Arkilium says out of character, '30pp and its all going for some rogue stuff'
+[Thu Dec 13 23:40:03 2001] a shadowed man begins to cast a spell. (Grim Aura)
+[Thu Dec 13 23:40:06 2001] A shadowed man's hand is covered with a dull aura.
+[Thu Dec 13 23:40:07 2001] a shadowed man begins to cast a spell. (Grim Aura)
+[Thu Dec 13 23:40:10 2001] A shadowed man's hand is covered with a dull aura.
+[Thu Dec 13 23:40:22 2001] You tell your party, 'only need four per server... and it's not time based'
+[Thu Dec 13 23:40:25 2001] Arkilium says out of character, 'wants to bankrupt me? send tells!'
+[Thu Dec 13 23:40:30 2001] Mawlen tells the group, '5 months'
+[Thu Dec 13 23:40:46 2001] Cired auctions, 'WTB lq bear skin.....'
+[Thu Dec 13 23:40:46 2001] You tell your party, 'you need to be a guide five months before you can apply for promotion'
+[Thu Dec 13 23:40:48 2001] Cired auctions, 'WTS robe of keeper 8ac +2int 80pp....'
+[Thu Dec 13 23:40:50 2001] Cired auctions, 'WTS black steel wrap 6ac +10hp, 50pp'
+[Thu Dec 13 23:40:56 2001] You tell your party, 'you don't get made a senior guide when you've been there five months'
+[Thu Dec 13 23:41:06 2001] Mawlen tells the group, 'i know'
+[Thu Dec 13 23:41:13 2001] Mawlen tells the group, 'but i just got an awesome screen shot of you'
+[Thu Dec 13 23:41:25 2001] Mawlen tells the group, 'im looking straight down at you, you look so tiny'
+[Thu Dec 13 23:41:30 2001] You tell your party, 'hmmph'
+[Thu Dec 13 23:42:07 2001] Players in EverQuest:
+[Thu Dec 13 23:42:07 2001] ---------------------------
+[Thu Dec 13 23:42:07 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: permafrost (USER PID EU7FU02)
+[Thu Dec 13 23:42:07 2001] * Apprentice Guide *[20 Druid] Mawlen (Wood Elf) ZONE: commons (USER PID DUALYLP)
+[Thu Dec 13 23:42:07 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID AUGBQH4)
+[Thu Dec 13 23:42:07 2001] There are 3 players in EverQuest.
+[Thu Dec 13 23:42:10 2001] Mawlen tells the group, 'ok i need more questions'
+[Thu Dec 13 23:42:16 2001] Mawlen bonks Espranza on the head!
+[Thu Dec 13 23:42:16 2001] Mawlen bonks Espranza on the head!
+[Thu Dec 13 23:42:16 2001] Mawlen scroes a critical bonk! (6935)
+[Thu Dec 13 23:42:47 2001] You tell your party, 'okay, someone complains the Gynok Moltor hasn't been seen in Befallen for two weeks and they're tired of waiting.'
+[Thu Dec 13 23:42:50 2001] You tell your party, 'what do you do?'
+[Thu Dec 13 23:43:08 2001] Mawlen tells the group, 'i tell them he is a rare spawn and to be patient'
+[Thu Dec 13 23:43:33 2001] You tell your party, 'what if they insist it is bugged?'
+[Thu Dec 13 23:43:49 2001] Mawlen tells the group, 'i can have them email eqtesting@soe.sony.com'
+[Thu Dec 13 23:43:49 2001] Espranza saved.
+[Thu Dec 13 23:43:50 2001] Dratier GMSAYS, 'zoning'
+[Thu Dec 13 23:44:10 2001] a shadowed man begins to cast a spell. (Banshee Aura)
+[Thu Dec 13 23:44:15 2001] A shadowed man is surrounded by a shrieking aura.
+[Thu Dec 13 23:44:20 2001] You tell your party, 'yeah, that's a good thing to suggest'
+[Thu Dec 13 23:44:44 2001] You tell your party, 'If Lord Nagafen and Lady Vox got together and had a baby, what would they name it?'
+[Thu Dec 13 23:44:59 2001] Mawlen tells the group, 'magnavox'
+[Thu Dec 13 23:45:20 2001] You tell your party, 'heh I like that'
+[Thu Dec 13 23:45:32 2001] You tell your party, 'but actually - Kherafym'
+[Thu Dec 13 23:45:46 2001] Mawlen tells the group, 'i dont get it'
+[Thu Dec 13 23:45:49 2001] a shadowed man begins to cast a spell. (Banshee Aura)
+[Thu Dec 13 23:45:55 2001] A shadowed man is surrounded by a shrieking aura.
+[Thu Dec 13 23:46:08 2001] You tell your party, 'They did have a child, and that child is in the game, as the dragon Kherafym'
+[Thu Dec 13 23:46:21 2001] Mawlen tells the group, 'thats gross, dragon sex'
+[Thu Dec 13 23:47:03 2001] Mawlen tells the group, 'ever notice that qeynos spelled backwards is sony eq'
+[Thu Dec 13 23:47:15 2001] You tell your party, 'yup'
+[Thu Dec 13 23:48:30 2001] Mawlen tells the group, 'ok..... =)'
+[Thu Dec 13 23:49:28 2001] You tell your party, 'what's the zone name for west karana?'
+[Thu Dec 13 23:50:00 2001] Mawlen tells the group, 'qey2hh1'
+[Thu Dec 13 23:50:28 2001] You tell your party, 'that's a tough name'
+[Thu Dec 13 23:50:44 2001] a shadowed man begins to cast a spell. (Banshee Aura)
+[Thu Dec 13 23:50:49 2001] A shadowed man is surrounded by a shrieking aura.
+[Thu Dec 13 23:50:58 2001] Mawlen tells the group, 'no'
+[Thu Dec 13 23:51:01 2001] Mawlen tells the group, 'its easy'
+[Thu Dec 13 23:51:09 2001] You tell your party, 'ah, for you maybe'
+[Thu Dec 13 23:51:10 2001] It is 4 AM on Thursday, the 12th day of May, of the year 3218.
+[Thu Dec 13 23:51:10 2001] Earth Time: Thu Dec 13 23:51:10 2001
+[Thu Dec 13 23:51:18 2001] Mawlen tells the group, 'qeynos - 2 zones away highpass hold - 1 zone away'
+[Thu Dec 13 23:51:49 2001] You tell your party, 'what does SWAT do, and how would you go about joining?'
+[Thu Dec 13 23:51:53 2001] Players in EverQuest:
+[Thu Dec 13 23:51:53 2001] ---------------------------
+[Thu Dec 13 23:51:53 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: ecommons (USER PID EU7FU02)
+[Thu Dec 13 23:51:53 2001] * Apprentice Guide *[20 Druid] Mawlen (Wood Elf) ZONE: commons (USER PID DUALYLP)
+[Thu Dec 13 23:51:53 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID AUGBQH4)
+[Thu Dec 13 23:51:53 2001] There are 3 players in EverQuest.
+[Thu Dec 13 23:52:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Dec 13 23:52:06 2001] USER TEXT: last night when the server went down i was in a fight and i died...
+[Thu Dec 13 23:52:06 2001] Players in EverQuest:
+[Thu Dec 13 23:52:06 2001] ---------------------------
+[Thu Dec 13 23:52:06 2001] [52 Heretic] Screams (Dark Elf) <Hidden Shadows> ZONE: letalis (USER PID HNZWXL8)
+[Thu Dec 13 23:52:06 2001] There is 1 player in EverQuest.
+[Thu Dec 13 23:52:13 2001] Mawlen tells the group, 'swat is the server wide action team, they handle any issues across the board on all server'
+[Thu Dec 13 23:52:32 2001] a shadowed man begins to cast a spell. (Banshee Aura)
+[Thu Dec 13 23:52:37 2001] A shadowed man is surrounded by a shrieking aura.
+[Thu Dec 13 23:52:49 2001] You told Screams, 'Hail, Screams! Guide Espranza here. People were given plenty of warning to find a safe place and log off; we cannot offer a rez for tit.'
+[Thu Dec 13 23:52:49 2001] Gromler auctions, 'WTb CRYSTALIN SWATCHES PAYING WELL FOR STACKS'
+[Thu Dec 13 23:52:52 2001] Gromler auctions, 'wtb druid drop spells 54+'
+[Thu Dec 13 23:52:54 2001] Gromler auctions, 'WTS GLOVES +12ac+6int/wis+9sta+20mana/hp all all '
+[Thu Dec 13 23:52:57 2001] Gromler auctions, 'wts inferno of Al'kabor and form of howler dropspe'
+[Thu Dec 13 23:52:59 2001] You tell your party, 'for it.... '
+[Thu Dec 13 23:53:08 2001] Cired auctions, 'WTB lq bear skin.....'
+[Thu Dec 13 23:53:10 2001] Cired auctions, 'WTS cryst.Blade (pal, shd) 13/31 1hs 400pp'
+[Thu Dec 13 23:53:12 2001] Mawlen tells the group, 'oh yeah...'
+[Thu Dec 13 23:53:23 2001] You tell your party, 'who can join and how would they go about it?'
+[Thu Dec 13 23:53:26 2001] You told Screams, 'for it...'
+[Thu Dec 13 23:53:38 2001] Mawlen tells the group, 'be a guide 2 and recommendations from 2 senior guides and one gm'
+[Thu Dec 13 23:53:39 2001] Screams tells you, 'i know thats what i hear...i logged on and got the warning ....i was running to the zone as the server was on its way going down and then i was jumped by a shissar....as soon as i logged on i got the gm message'
+[Thu Dec 13 23:53:43 2001] Mawlen tells the group, '2 months even'
+[Thu Dec 13 23:54:02 2001] Espranza saved.
+[Thu Dec 13 23:54:10 2001] It begins to rain.
+[Thu Dec 13 23:54:12 2001] You tell your party, 'heh... sounds like the requirements to become a senior'
+[Thu Dec 13 23:54:42 2001] You told Screams, 'ah, it was just bad timing. Nonetheless, we can't rez for that.'
+[Thu Dec 13 23:54:53 2001] You tell your party, 'I actually did apply for promotion.'
+[Thu Dec 13 23:54:58 2001] You tell your party, 'Last... June I think.'
+[Thu Dec 13 23:55:09 2001] Mawlen tells the group, 'damn'
+[Thu Dec 13 23:55:13 2001] Screams tells you, '...'
+[Thu Dec 13 23:55:18 2001] DELETING THIS PETITION
+[Thu Dec 13 23:55:20 2001] Cired auctions, 'WTB lq bear skin.....'
+[Thu Dec 13 23:55:21 2001] Cired auctions, 'WTS black steel wrap 6ac +10hp, 50pp'
+[Thu Dec 13 23:55:35 2001] You tell your party, 'They're still thinking about it'
+[Thu Dec 13 23:55:41 2001] Mawlen tells the group, 'no they're not'
+[Thu Dec 13 23:55:51 2001] Mawlen comforts Espranza.
+[Thu Dec 13 23:56:00 2001] You tell your party, 'oh well...'
+[Thu Dec 13 23:56:07 2001] Screams tells you, 'i can get a rez im with a group that can but im supprised that verant doesnt take care of rezes when people are booted...'
+[Thu Dec 13 23:56:21 2001] You told Screams, 'they don't when it's a scheduled downtime'
+[Thu Dec 13 23:56:38 2001] Mawlen tells the group, 'how do we lvl as guides?'
+[Thu Dec 13 23:56:57 2001] You tell your party, 'you get a level each three months for the first year, and every four months thereafter'
+[Thu Dec 13 23:56:59 2001] a shadowed man begins to cast a spell. (Banshee Aura)
+[Thu Dec 13 23:57:13 2001] You tell your party, 'I'd be higher except I was in Quest Troupe for five months'
+[Thu Dec 13 23:57:25 2001] Mawlen tells the group, 'oh, brb getting drink'
+[Thu Dec 13 23:58:42 2001] Cired auctions, 'wtb any quality bear skin'
+[Thu Dec 13 23:58:44 2001] Cired auctions, 'WTS 2h prac sword 19/47 2hs...200pp obo'
+[Thu Dec 13 23:59:02 2001] a shadowed man begins to cast a spell. (Banshee Aura)
+[Thu Dec 13 23:59:17 2001] Mawlen tells the group, 'back'
+[Thu Dec 13 23:59:41 2001] You tell your party, 'wb'
+[Thu Dec 13 23:59:47 2001] Players in EverQuest:
+[Thu Dec 13 23:59:47 2001] ---------------------------
+[Thu Dec 13 23:59:47 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: ecommons (USER PID EU7FU02)
+[Thu Dec 13 23:59:47 2001] * Apprentice Guide *[20 Druid] Mawlen (Wood Elf) ZONE: commons (USER PID DUALYLP)
+[Thu Dec 13 23:59:47 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID AUGBQH4)
+[Thu Dec 13 23:59:47 2001] There are 3 players in EverQuest.
+[Thu Dec 13 23:59:55 2001] Chroniculon auctions, 'WTS Barbed Ringmail ac30 50hps 9str'
+[Fri Dec 14 00:00:02 2001] Mawlen tells the group, 'chocolate milk with tons of sugar'
+[Fri Dec 14 00:00:06 2001] You tell your party, 'yuk'
+[Fri Dec 14 00:00:08 2001] Mawlen tells the group, 'tastes just like a frappe'
+[Fri Dec 14 00:00:21 2001] Mawlen has challenged you to duel to the death!
+[Fri Dec 14 00:00:33 2001] You decline Mawlen's invitation to duel.
+[Fri Dec 14 00:00:38 2001] Mawlen cheers at Espranza.
+[Fri Dec 14 00:00:42 2001] You tell your party, 'naughty naughty!'
+[Fri Dec 14 00:00:48 2001] Mawlen tells the group, 'no it was a test'
+[Fri Dec 14 00:01:03 2001] Players on EverQuest:
+[Fri Dec 14 00:01:03 2001] ---------------------------
+[Fri Dec 14 00:01:03 2001] * GM * [20 Druid] Mawlen (Wood Elf)
+[Fri Dec 14 00:01:03 2001] There is 1 player in West Commonlands.
+[Fri Dec 14 00:01:11 2001] You tell your party, 'I'll kill you after you're promoted'
+[Fri Dec 14 00:01:17 2001] Mawlen tells the group, 'you think'
+[Fri Dec 14 00:01:32 2001] You tell your party, '54 rogue vs a druid?'
+[Fri Dec 14 00:01:39 2001] Mawlen tells the group, 'im converting to pallyism'
+[Fri Dec 14 00:02:01 2001] Espranza still wants guide daggers.
+[Fri Dec 14 00:02:05 2001] Mawlen tells the group, 'ive also never dueled either'
+[Fri Dec 14 00:02:20 2001] You no longer have a target.
+[Fri Dec 14 00:02:20 2001] You no longer have a target.
+[Fri Dec 14 00:02:29 2001] You tell your party, 'my play rogue has never lost a duel'
+[Fri Dec 14 00:02:54 2001] Mawlen tells the group, 'i would kite you if i had spells'
+[Fri Dec 14 00:03:21 2001] a shadowed man begins to cast a spell. (Banshee Aura)
+[Fri Dec 14 00:03:25 2001] You tell your party, 'instill doubt works nicely ....'
+[Fri Dec 14 00:03:31 2001] You tell your party, 'anyway... bedtime for me...'
+[Fri Dec 14 00:03:32 2001] Mawlen tells the group, 'yes it does'
+[Fri Dec 14 00:03:48 2001] Mawlen tells the group, 'ok ill leave too'
+[Fri Dec 14 00:03:54 2001] You tell your party, 'Dratier is on'
+[Fri Dec 14 00:03:58 2001] You tell your party, 'he's just being quiet'
+[Fri Dec 14 00:04:01 2001] Mawlen tells the group, 'theres nothing going on'
+[Fri Dec 14 00:04:04 2001] Players in EverQuest:
+[Fri Dec 14 00:04:04 2001] ---------------------------
+[Fri Dec 14 00:04:04 2001] * Guide *[51 Pathfinder] Dratier (Wood Elf) <Keepers of Dreams> ZONE: ecommons (USER PID EU7FU02)
+[Fri Dec 14 00:04:04 2001] * Apprentice Guide *[20 Druid] Mawlen (Wood Elf) ZONE: commons (USER PID DUALYLP)
+[Fri Dec 14 00:04:04 2001] * Guide *[54 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: commons (USER PID AUGBQH4)
+[Fri Dec 14 00:04:04 2001] There are 3 players in EverQuest.
+[Fri Dec 14 00:04:08 2001] You tell your party, 'yeah, it's dead'
+[Fri Dec 14 00:04:13 2001] Espranza saved.
+[Fri Dec 14 00:04:20 2001] Mawlen tells the group, 'ill go play my new monk'
+[Fri Dec 14 00:04:21 2001] You GMSAY, 'goodnight everyone!'
+[Fri Dec 14 00:04:26 2001] You tell your party, 'have fun!'
+[Fri Dec 14 00:04:27 2001] Dratier tells the guild, '<note issue> Paos FQU1JEM Request reimbursement of 6 Sow Potions the vanished when zoning into SharVah'
+[Fri Dec 14 00:04:30 2001] Mawlen GMSAYS, 'what she said'
+[Fri Dec 14 00:04:36 2001] Dratier GMSAYS, 'Night Espranza'
+[Fri Dec 14 00:04:40 2001] You GMSAY, 'night!'
+[Fri Dec 14 00:04:45 2001] It will take you about 30 seconds to prepare your camp.
+[Fri Dec 14 00:04:46 2001] Mawlen GMSAYS, '*cough*'
+[Fri Dec 14 00:04:49 2001] It will take about 25 more seconds to prepare your camp.
+[Fri Dec 14 00:04:54 2001] It will take about 20 more seconds to prepare your camp.
+[Fri Dec 14 00:04:55 2001] You GMSAY, 'Goodnight, Mawlen!'
+[Fri Dec 14 00:04:59 2001] It will take about 15 more seconds to prepare your camp.
+[Fri Dec 14 00:05:01 2001] Mawlen GMSAYS, 'i am leaving too =) goodnight =)'
+[Fri Dec 14 00:05:04 2001] It will take about 10 more seconds to prepare your camp.
+[Fri Dec 14 00:05:09 2001] Dratier GMSAYS, 'Goodnight Mawlen'
+[Fri Dec 14 00:05:09 2001] It will take about 5 more seconds to prepare your camp.
+[Fri Dec 14 00:05:16 2001] You disband your party.

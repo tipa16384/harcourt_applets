@@ -1,0 +1,818 @@
+[Mon Sep 24 14:02:40 2001] Welcome to EverQuest!
+[Mon Sep 24 14:02:40 2001] You have entered Sunset Home.
+[Mon Sep 24 14:02:40 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! Character names should reflect the high fantasy genre of the game, and are governed by the Naming Policy at www.everquest.com. Names not in accord with the Naming Policy will be changed. Good hunting!
+[Mon Sep 24 14:02:40 2001] GUILD MOTD: Mersi - Please make sure you as well as your apprentices know Lirus's hours!
+[Mon Sep 24 14:02:43 2001] Players in EverQuest:
+[Mon Sep 24 14:02:43 2001] ---------------------------
+[Mon Sep 24 14:02:43 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Mon Sep 24 14:02:43 2001] * Guide *[50 Warrior] Keora (Dark Elf) <Keepers of Dreams> ZONE: qey2hh1 (USER PID AUGCJVW)
+[Mon Sep 24 14:02:43 2001] * Apprentice Guide *[20 Enchanter] Balaku (High Elf) ZONE: butcher (USER PID BZT1LY4)
+[Mon Sep 24 14:02:43 2001] There are 3 players in EverQuest.
+[Mon Sep 24 14:02:50 2001] You GMSAY, 'guten abend...'
+[Mon Sep 24 14:03:05 2001] Balaku GMSAYS, 'Heya Espranza! /hug :)'
+[Mon Sep 24 14:03:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Sep 24 14:03:07 2001] USER TEXT: i have been medding for a long time now and my mana has not moved over 20 @. whats up plz help
+[Mon Sep 24 14:03:07 2001] Players in EverQuest:
+[Mon Sep 24 14:03:07 2001] ---------------------------
+[Mon Sep 24 14:03:07 2001] [25 Wizard] Malbowsha (Erudite) <The Scaled Brotherhood> ZONE: southkarana (USER PID EVWGP03)
+[Mon Sep 24 14:03:07 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:03:20 2001] You say to your guild, 'saw it was busy so I thought I'd stop by'
+[Mon Sep 24 14:03:23 2001] Keora GMSAYS, '*hugs* Espranza'
+[Mon Sep 24 14:03:43 2001] Keora tells the guild, 'yep, we had a server burp about an hour ago'
+[Mon Sep 24 14:03:50 2001] You told Malbowsha, 'Hail, Malbowsha! Guide Espranza here. You are not gaining mana? Are you hungry or thirst at all?'
+[Mon Sep 24 14:03:55 2001] You say to your guild, 'aye, I read about that, too'
+[Mon Sep 24 14:03:58 2001] Malbowsha tells you, 'lol'
+[Mon Sep 24 14:04:01 2001] Malbowsha tells you, 'i'm a fool'
+[Mon Sep 24 14:04:02 2001] Keora tells the guild, 'went to chat and Gm Kiorran authorized rezzes on this'
+[Mon Sep 24 14:04:10 2001] You say to your guild, 'AND I had a lot of trouble logging in!'
+[Mon Sep 24 14:04:21 2001] Malbowsha tells you, 'hehe. did not notice i was out of water  lol'
+[Mon Sep 24 14:04:38 2001] You told Malbowsha, 'Ah, that parched throat was keeping you from proper concentration!'
+[Mon Sep 24 14:04:43 2001] Keora tells the guild, 'too bad'
+[Mon Sep 24 14:04:50 2001] Malbowsha tells you, 'lol yes it does'
+[Mon Sep 24 14:04:51 2001] You told Malbowsha, 'Get a cool, refreshing flask of water and you'll feel a lot better.'
+[Mon Sep 24 14:04:55 2001] DELETING THIS PETITION
+[Mon Sep 24 14:04:57 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Sep 24 14:04:57 2001] USER TEXT: someone in the tunnel has the name potsmoker...just a trying to help
+[Mon Sep 24 14:04:57 2001] Players in EverQuest:
+[Mon Sep 24 14:04:57 2001] ---------------------------
+[Mon Sep 24 14:04:57 2001] [30 Paladin] Pardus (Half Elf) <Mystical Lightfighters> ZONE: ecommons (USER PID EXWCB59)
+[Mon Sep 24 14:04:57 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:05:05 2001] Players in EverQuest:
+[Mon Sep 24 14:05:05 2001] ---------------------------
+[Mon Sep 24 14:05:05 2001] [ANON (2 Magician)] Potsmoker (Erudite) ZONE: ecommons (USER PID HYHJZFW)
+[Mon Sep 24 14:05:05 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:05:20 2001] You GMSAY, '<note badname> Potsmoker HYHJZFW'
+[Mon Sep 24 14:05:24 2001] Keora tells the guild, 'Lucky me. now i got some german speaking company on my lonely shifts :)'
+[Mon Sep 24 14:05:26 2001] Malbowsha tells you, 'yes yes. ty for info friend and sorry to bug ya's'
+[Mon Sep 24 14:05:34 2001] Keora GMSAYS, 'got that one already'
+[Mon Sep 24 14:05:36 2001] You say to your guild, 'you can always help me brush up my German...'
+[Mon Sep 24 14:05:39 2001] Balaku GMSAYS, 'hehe'
+[Mon Sep 24 14:05:44 2001] You told Malbowsha, 'no worries. Be well!'
+[Mon Sep 24 14:05:52 2001] Malbowsha tells you, 'you too friend'
+[Mon Sep 24 14:06:01 2001] Keora tells the guild, 'hehe. want to join our group ?'
+[Mon Sep 24 14:06:08 2001] You say to your guild, 'sure!'
+[Mon Sep 24 14:06:13 2001] Balaku GMSAYS, 'Deleting Galthiny, teached him to mem a spell :)'
+[Mon Sep 24 14:06:20 2001] Keora GMSAYS, 'Zoning !'
+[Mon Sep 24 14:06:31 2001] You told Pardus, 'Hail, Pardus! Guide Espranza here. I noted his name, I'll see if he wants to change it...'
+[Mon Sep 24 14:06:36 2001] DELETING THIS PETITION
+[Mon Sep 24 14:06:40 2001] Pardus tells you, 'kk =)'
+[Mon Sep 24 14:06:59 2001] Balaku GMSAYS, 'Pulled Lytic'
+[Mon Sep 24 14:07:07 2001] Keora hugs Espranza.
+[Mon Sep 24 14:07:17 2001] Keora invites you to join a group.
+[Mon Sep 24 14:07:17 2001] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Mon Sep 24 14:07:19 2001] You told Potsmoker, 'Hail, Potsmoker! Guide Espranza here. Your name violates our naming guidelines in a big way - would you mind logging out until a senior guide or GM is available to change it for you?'
+[Mon Sep 24 14:07:20 2001] You notify Keora that you agree to join the group.
+[Mon Sep 24 14:07:20 2001] You have joined the group.
+[Mon Sep 24 14:07:20 2001] Balaku has joined the group.
+[Mon Sep 24 14:07:26 2001] You tell your party, 'hello!'
+[Mon Sep 24 14:07:31 2001] Potsmoker tells you, 'how is it?'
+[Mon Sep 24 14:07:41 2001] Keora tells the group, 'Espranza braucht Nachhilfe in deutsch, Balaku :)'
+[Mon Sep 24 14:07:41 2001] Balaku tells the group, 'hello. ack we have to speak english now :)'
+[Mon Sep 24 14:07:43 2001] You told Potsmoker, 'It's a drug reference AND a title.'
+[Mon Sep 24 14:07:45 2001] Balaku tells the group, 'aso )'
+[Mon Sep 24 14:07:47 2001] Keora tells the group, 'LOL'
+[Mon Sep 24 14:07:52 2001] Potsmoker tells you, 'i make pots nad pans then i use my magic powers to make then smoke'
+[Mon Sep 24 14:07:58 2001] You tell your party, 'mit Deutsch sprach, bitte.'
+[Mon Sep 24 14:08:03 2001] Potsmoker tells you, 'err drug?'
+[Mon Sep 24 14:08:19 2001] You told Potsmoker, 'heh heh....'
+[Mon Sep 24 14:08:21 2001] Balaku tells the group, 'was mach ich nun mit dem fliegenden Baum? giessen bis er Wurzeln schlaegt?'
+[Mon Sep 24 14:08:21 2001] You told Potsmoker, 'nice try. sorry though.'
+[Mon Sep 24 14:08:32 2001] Potsmoker tells you, 'one sec'
+[Mon Sep 24 14:08:39 2001] Potsmoker tells you, 'talk to Macrog glowrod about this plz'
+[Mon Sep 24 14:08:49 2001] Keora tells the group, 'gute Idee :)'
+[Mon Sep 24 14:08:50 2001] You must be on the 1st menu screen to leave GM mode.
+[Mon Sep 24 14:08:51 2001] You no longer have a target.
+[Mon Sep 24 14:09:01 2001] You tell your party, 'fliegenden Baum? Flying tree?'
+[Mon Sep 24 14:09:04 2001] Balaku tells the group, 'nein, darf ja kein Wasser kaufen :)'
+[Mon Sep 24 14:09:06 2001] Keora tells the group, 'aye'
+[Mon Sep 24 14:09:11 2001] Balaku tells the group, 'yep flying tree here :)'
+[Mon Sep 24 14:09:25 2001] Potsmoker tells you, 'are you going to talk to him?'
+[Mon Sep 24 14:09:27 2001] You tell your party, 'wie fliegen der Baum?'
+[Mon Sep 24 14:09:36 2001] Keora tells the group, '<---summoning rain'
+[Mon Sep 24 14:09:48 2001] Keora tells the group, 'seems to be a bug'
+[Mon Sep 24 14:09:54 2001] You told Potsmoker, 'no, I would just appreciate it if you logged out until I could get a senior or GM here.'
+[Mon Sep 24 14:09:56 2001] Balaku tells the group, 'Ich denk er hat Levitate... ;) '
+[Mon Sep 24 14:09:56 2001] Fableman tells you, 'hello'
+[Mon Sep 24 14:09:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Sep 24 14:09:59 2001] USER TEXT: I am in Kedge staring at a corpse i have consent to summon and am getting a message "i can't summon the corpse from here"  I am right next to it.
+[Mon Sep 24 14:10:00 2001] Players in EverQuest:
+[Mon Sep 24 14:10:00 2001] ---------------------------
+[Mon Sep 24 14:10:00 2001] [60 Hierophant] Duggall (Halfling) <Reviction> ZONE: butcher (USER PID CYCDC9T)
+[Mon Sep 24 14:10:00 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:10:03 2001] Potsmoker tells you, 'wtf'
+[Mon Sep 24 14:10:13 2001] Balaku tells the group, 'come and see if you dont believe ))'
+[Mon Sep 24 14:10:18 2001] Potsmoker tells you, 'i pick a sweet name and i have to Change it sob!'
+[Mon Sep 24 14:10:20 2001] You tell your party, 'Potsmoker does not want to log out...'
+[Mon Sep 24 14:10:31 2001] Potsmoker tells you, 'gm keora talkign to me now'
+[Mon Sep 24 14:10:32 2001] Keora floats above the ground.
+[Mon Sep 24 14:10:42 2001] Balaku GMSAYS, 'Deleting Lytic, he solved his problem himself'
+[Mon Sep 24 14:11:01 2001] Keora tells the group, 'you with him ?'
+[Mon Sep 24 14:11:07 2001] You told Duggall, 'Hail, Duggall! Guide Espranza here. I'll be right there. What is the name of the corpse?'
+[Mon Sep 24 14:11:13 2001] Keora tells the group, 'ok, i wont send him a tell then again'
+[Mon Sep 24 14:11:16 2001] Duggall tells you, 'we got it thank you'
+[Mon Sep 24 14:11:22 2001] Balaku GMSAYS, 'Pulling Jennia'
+[Mon Sep 24 14:11:22 2001] You told Duggall, 'okay, wonderful! be well!'
+[Mon Sep 24 14:11:24 2001] DELETING THIS PETITION
+[Mon Sep 24 14:11:25 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Sep 24 14:11:26 2001] USER TEXT: I would like to petition a bug at the coldain camp in East wastes, the loc is neg 568, neg 3176 and for some reason there are 2 of the same named mob on top of each other, the name is Dobbin Crossaxe, one has a sword one doesnt its weird 
+[Mon Sep 24 14:11:26 2001] Players in EverQuest:
+[Mon Sep 24 14:11:26 2001] ---------------------------
+[Mon Sep 24 14:11:26 2001] [35 Magician] Juigobo (Erudite) <Revered Souls> ZONE: thurgadina (USER PID DYSNQPL)
+[Mon Sep 24 14:11:26 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:11:27 2001] Duggall tells you, 'thanks for replying friend'
+[Mon Sep 24 14:11:28 2001] Potsmoker tells you, 'whaty do i do, btw do i have to Log out of eq or can i paly a dfif cahr?'
+[Mon Sep 24 14:11:38 2001] Balaku tells the group, 'hehe got a peti about his name :)'
+[Mon Sep 24 14:12:02 2001] You told Potsmoker, 'you can play a different character; but we've received several petitions about your name, and are receiving more as we speak. I would appreciate it if you would log out of this one.'
+[Mon Sep 24 14:12:23 2001] You tell your party, 'too bad you guys don't speak Japanese; now THERE'S a language I can work in :('
+[Mon Sep 24 14:12:33 2001] Keora tells the group, 'tell them thanks for reporting :)'
+[Mon Sep 24 14:12:42 2001] Keora tells the group, 'hehe'
+[Mon Sep 24 14:12:45 2001] Espranza saved.
+[Mon Sep 24 14:12:48 2001] You tell your party, 'go ahead and speak German, I need practice understanding it.'
+[Mon Sep 24 14:12:49 2001] Potsmoker tells you, 'um this hard for me anger runnign thru my vans atm llet me read what otehr gm said'
+[Mon Sep 24 14:13:04 2001] Potsmoker tells you, 'ok um all she said he'
+[Mon Sep 24 14:13:19 2001] Potsmoker tells you, 'had to yell for help, um ok i gotta log to a dif cahr onow'
+[Mon Sep 24 14:13:24 2001] Balaku tells the group, 'Ich brauch training in englisch :)'
+[Mon Sep 24 14:13:30 2001] Potsmoker tells you, 'loging to my othercahr'
+[Mon Sep 24 14:13:31 2001] Keora tells the group, 'Banker in Nfreeport ist nicht im Business...ich geh mal hin und schau nach ihm'
+[Mon Sep 24 14:13:39 2001] Keora GMSAYS, 'Zoning !'
+[Mon Sep 24 14:13:41 2001] Balaku GMSAYS, 'Deleting Jennia'
+[Mon Sep 24 14:13:55 2001] You tell your party, 'nein, dein Englisch sehr gut ist. Mein Deutsch... ack'
+[Mon Sep 24 14:13:56 2001] Balaku GMSAYS, 'Pulled Fableman'
+[Mon Sep 24 14:14:25 2001] Balaku tells the group, 'Dein Deutsch ist gar nicht so schlecht. Deutsch ist wesentlich schwerer als Englisch :)'
+[Mon Sep 24 14:14:36 2001] Wazbie tells you, 'ok talk to me '
+[Mon Sep 24 14:15:14 2001] Balaku tells the group, 'Hmm Fableman hat ein schlechteres englisch als ich )'
+[Mon Sep 24 14:15:41 2001] Keora tells the group, 'if i attack banker in nfreeport, guards joining in ?'
+[Mon Sep 24 14:15:50 2001] You tell your party, 'no'
+[Mon Sep 24 14:16:07 2001] Players in EverQuest:
+[Mon Sep 24 14:16:07 2001] ---------------------------
+[Mon Sep 24 14:16:07 2001] [35 Magician] Juigobo (Erudite) <Revered Souls> ZONE: thurgadina (USER PID DYSNQPL)
+[Mon Sep 24 14:16:07 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:16:11 2001] USER TEXT: I would like to petition a bug at the coldain camp in East wastes, the loc is neg 568, neg 3176 and for some reason there are 2 of the same named mob on top of each other, the name is Dobbin Crossaxe, one has a sword one doesnt its weird 
+[Mon Sep 24 14:16:18 2001] You GMSAY, 'zone'
+[Mon Sep 24 14:16:24 2001] LOADING, PLEASE WAIT...
+[Mon Sep 24 14:17:13 2001] You have entered Eastern Wastes.
+[Mon Sep 24 14:17:13 2001] You have joined the group.
+[Mon Sep 24 14:17:18 2001] It begins to snow.
+[Mon Sep 24 14:17:41 2001] Searching for dobbin_crossaxe00.
+[Mon Sep 24 14:17:41 2001] Player is in zone eastwastes at x = -575 y = -3189 z = 157.
+[Mon Sep 24 14:17:43 2001] Searching for dobbin_crossaxe01.
+[Mon Sep 24 14:17:44 2001] Player is in zone eastwastes at x = -575 y = -3189 z = 158.
+[Mon Sep 24 14:17:47 2001] Teleporting to Dobbin_Crossaxe01 (-574.00, -3188.00, 158.40).
+[Mon Sep 24 14:18:38 2001] The spirit leaves you.
+[Mon Sep 24 14:18:41 2001] Balaku GMSAYS, 'Deleting Fableman, solved himself'
+[Mon Sep 24 14:18:56 2001] You told Juigobo, 'Hail, Juigobo! Guide Espranza here. This doubling sometimes happens when someone starts a quest and then someone else starts the same quest at the same time.'
+[Mon Sep 24 14:18:57 2001] Balaku GMSAYS, 'Pulling Kiylan'
+[Mon Sep 24 14:19:03 2001] Searching for dobbin_crossaxe01.
+[Mon Sep 24 14:19:03 2001] Player is in zone eastwastes at x = -575 y = -3189 z = 158.
+[Mon Sep 24 14:19:07 2001] Keora GMSAYS, 'darn'
+[Mon Sep 24 14:19:09 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:10 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:11 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:13 2001] Dobbin Crossaxe looks your way apprehensively -- he appears to be quite formidable.
+[Mon Sep 24 14:19:16 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:17 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:17 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:18 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:18 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:18 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:18 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:18 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:19 2001] You say, 'Hail, Dobbin Crossaxe'
+[Mon Sep 24 14:19:22 2001] Yakatus begins to cast a spell. (Gate)
+[Mon Sep 24 14:19:23 2001] You feel the spirit of Norrath enter you.
+[Mon Sep 24 14:19:49 2001] Yakatus auctions, 'WTB 20 sow potions !'
+[Mon Sep 24 14:20:17 2001] You GMSAY, '<note gm> Dobbin Crossaxe in Eastern Wastes is doubled. As he is a quest mob, need a GM to figure out which one lives and which one dies.'
+[Mon Sep 24 14:20:20 2001] Balaku tells the group, 'Hat jemand Lust ne Hochzeit zu leiten?'
+[Mon Sep 24 14:20:30 2001] Keora tells the group, 'jetzt ?'
+[Mon Sep 24 14:20:34 2001] Tickles tells you, 'my friend keeps crashing to desktop while entering cieclad through port - he does have xpansion... he'll prob /tell you from one of his alt chars in a moment but he's tried 3 times now and crashed everytime'
+[Mon Sep 24 14:20:38 2001] Nergaal says out of character, 'any Snow Griffin up ?'
+[Mon Sep 24 14:20:47 2001] DELETING THIS PETITION
+[Mon Sep 24 14:20:48 2001] Balaku tells the group, 'as soon as possible sagt er'
+[Mon Sep 24 14:20:57 2001] Keora tells the group, 'hmmm...'
+[Mon Sep 24 14:21:04 2001] Adeus tells you, 'Thank you for changing his name ^^'
+[Mon Sep 24 14:21:19 2001] Kylean says out of character, 'non rien'
+[Mon Sep 24 14:21:19 2001] Players in EverQuest:
+[Mon Sep 24 14:21:19 2001] ---------------------------
+[Mon Sep 24 14:21:19 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: eastwastes (USER PID AUGBQH4)
+[Mon Sep 24 14:21:19 2001] * Guide *[50 Warrior] Keora (Dark Elf) <Keepers of Dreams> ZONE: freportn (USER PID AUGCJVW)
+[Mon Sep 24 14:21:19 2001] * Apprentice Guide *[20 Enchanter] Balaku (High Elf) ZONE: butcher (USER PID BZT1LY4)
+[Mon Sep 24 14:21:19 2001] There are 3 players in EverQuest.
+[Mon Sep 24 14:21:24 2001] You told Adeus, 'whose?'
+[Mon Sep 24 14:21:34 2001] Adeus tells you, 'Potsmoker -_-'
+[Mon Sep 24 14:21:47 2001] Davan shouts, 'Ry`gorr group seeks more'
+[Mon Sep 24 14:21:50 2001] You told Adeus, 'oh, I just told him to log in an alt until I could find someone to change his name...'
+[Mon Sep 24 14:21:53 2001] Balaku tells the group, 'Was soll ich sagen? Escalate?'
+[Mon Sep 24 14:22:08 2001] Keora tells the group, 'hat er das vorher angefragt ?'
+[Mon Sep 24 14:22:17 2001] Balaku tells the group, 'per peti ja'
+[Mon Sep 24 14:22:25 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Sep 24 14:22:26 2001] USER TEXT: Guild leader holding guild name - would like to continue guild as named. How do I proceed?
+[Mon Sep 24 14:22:26 2001] Players in EverQuest:
+[Mon Sep 24 14:22:26 2001] ---------------------------
+[Mon Sep 24 14:22:26 2001] There are no players in EverQuest that match those who filters.
+[Mon Sep 24 14:22:33 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Mon Sep 24 14:22:33 2001] CHECKING IN
+[Mon Sep 24 14:22:34 2001] Adeus tells you, 'Oh, well thanks! I already sent you a tell a day or 2 ago saying Thanks for helping us all and Being there when we need it right? :)'
+[Mon Sep 24 14:22:34 2001] Keora tells the group, 'nein, ich meine gestern oder vor ein paar Tagen...?'
+[Mon Sep 24 14:22:41 2001] Balaku tells the group, 'ach so'
+[Mon Sep 24 14:22:48 2001] You told Adeus, 'helping is what I love to do :) thanks!'
+[Mon Sep 24 14:22:57 2001] Keora tells the group, 'btw, one of the Palys joins in fight when attacking banker :)'
+[Mon Sep 24 14:23:06 2001] You tell your party, 'well now we know :( sorry'
+[Mon Sep 24 14:23:10 2001] You tell your party, 'I've reset him before'
+[Mon Sep 24 14:23:16 2001] You tell your party, 'maybe I was just lucky'
+[Mon Sep 24 14:23:28 2001] You must be on the 1st menu screen to leave GM mode.
+[Mon Sep 24 14:23:29 2001] Grokis tells you, 'can you get me out from under the ground?'
+[Mon Sep 24 14:23:29 2001] Nergaal shouts, 'Any Snow Grifiin Up ?'
+[Mon Sep 24 14:23:33 2001] Balaku tells the group, 'ja er hat letzte Woche schon gefragt und heute morgen frueh'
+[Mon Sep 24 14:23:40 2001] You tell your party, '"gestern" - was ist das?'
+[Mon Sep 24 14:23:43 2001] Thundertiger shouts, 'find a snow bunny and kill it'
+[Mon Sep 24 14:23:47 2001] Kylean says out of character, 'non pas de griff'
+[Mon Sep 24 14:23:49 2001] Balaku tells the group, 'yesterday'
+[Mon Sep 24 14:23:53 2001] Nergaal says out of character, 'merci'
+[Mon Sep 24 14:23:53 2001] You tell your party, 'k'
+[Mon Sep 24 14:23:55 2001] Keora tells the group, 'sir Drolfis, he nearly whiped me out :)'
+[Mon Sep 24 14:24:01 2001] Kaostrife auctions, 'WTB Snow Bunny Meat.'
+[Mon Sep 24 14:24:02 2001] Players in EverQuest:
+[Mon Sep 24 14:24:02 2001] ---------------------------
+[Mon Sep 24 14:24:02 2001] [9 Shadow Knight] Grokis (Iksar) ZONE: fieldofbone (USER PID GVSR7QX)
+[Mon Sep 24 14:24:02 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:24:08 2001] You told Grokis, 'sure, be right there'
+[Mon Sep 24 14:24:08 2001] Kylean says out of character, 'rien dans mon track'
+[Mon Sep 24 14:24:12 2001] Grokis tells you, 'thanks'
+[Mon Sep 24 14:24:15 2001] You GMSAY, 'zone'
+[Mon Sep 24 14:24:22 2001] LOADING, PLEASE WAIT...
+[Mon Sep 24 14:24:58 2001] You have entered Field of Bone.
+[Mon Sep 24 14:24:58 2001] You have joined the group.
+[Mon Sep 24 14:25:17 2001] Balaku tells the group, 'macht nun wer die Hochzeit oder nicht?'
+[Mon Sep 24 14:25:20 2001] You tell your party, 'Grokis ist unter die Welt...'
+[Mon Sep 24 14:25:36 2001] Keora tells the group, 'ich mache, escalate'
+[Mon Sep 24 14:25:46 2001] Balaku tells the group, 'oki'
+[Mon Sep 24 14:25:52 2001] You tell your party, 'Balaku, would you like to help free Grokis?'
+[Mon Sep 24 14:26:28 2001] Balaku tells the group, 'sure, but have to close the actual peti first'
+[Mon Sep 24 14:26:31 2001] Tessia GMSAYS, 'Hello all'
+[Mon Sep 24 14:26:37 2001] Keora GMSAYS, 'Hi Tessia'
+[Mon Sep 24 14:26:43 2001] You GMSAY, 'Tessia! Wie gehts du es ihnen?'
+[Mon Sep 24 14:26:58 2001] Keora tells the group, 'wie geht es Ihnen/Dir ? :)'
+[Mon Sep 24 14:27:07 2001] Tessia GMSAYS, 'Sehr gut! Un dir?'
+[Mon Sep 24 14:27:09 2001] Keora tells the group, '*smile*'
+[Mon Sep 24 14:27:16 2001] You GMSAY, 'gut, gut...'
+[Mon Sep 24 14:27:26 2001] Balaku GMSAYS, 'Escalatet Kiylan for Mariage to Keora'
+[Mon Sep 24 14:27:28 2001] Wazbie tells you, 'anyone on who can change my name?'
+[Mon Sep 24 14:27:29 2001] Keora GMSAYS, 'wie, nochn deutschsprachiger Guide ?'
+[Mon Sep 24 14:27:46 2001] Tessia GMSAYS, 'ich sprekin ein bissel'
+[Mon Sep 24 14:27:50 2001] Keora GMSAYS, 'hehe'
+[Mon Sep 24 14:27:52 2001] Balaku GMSAYS, 'Alles Deutsche oder was? Dachte SolRo und ARo is deutsch )'
+[Mon Sep 24 14:27:54 2001] You told Wazbie, 'not at the moment, though if you petition from 3pm to 11pm Pacific time today, GM Lirus will be available to do so.'
+[Mon Sep 24 14:28:03 2001] Balaku tells the group, 'free for Grokis now :)'
+[Mon Sep 24 14:28:15 2001] You tell your party, '/pr zone!'
+[Mon Sep 24 14:28:18 2001] Wazbie tells you, 'you GM peev me off every Petition!'
+[Mon Sep 24 14:28:21 2001] Tessia GMSAYS, '....eh?'
+[Mon Sep 24 14:28:21 2001] Balaku GMSAYS, 'Zone'
+[Mon Sep 24 14:28:23 2001] Keora GMSAYS, 'going to perform a wedding soon, anyone likes to come ?'
+[Mon Sep 24 14:28:26 2001] Grokis tells you, 'where are you?'
+[Mon Sep 24 14:28:35 2001] You told Grokis, 'coming!'
+[Mon Sep 24 14:28:38 2001] Tessia GMSAYS, 'zone'
+[Mon Sep 24 14:28:41 2001] Grokis tells you, 'ok..sorry'
+[Mon Sep 24 14:28:44 2001] Summoning Balaku.
+[Mon Sep 24 14:28:57 2001] Ironpunch shouts, 'DING 13'
+[Mon Sep 24 14:29:06 2001] Fabriss shouts, 'Congrats!!!!'
+[Mon Sep 24 14:29:13 2001] Grokis shouts, 'gratx'
+[Mon Sep 24 14:29:19 2001] You tell your party, 'Hiya!'
+[Mon Sep 24 14:29:26 2001] Balaku tells the group, 'heya ;)'
+[Mon Sep 24 14:29:32 2001] You tell your party, 'the lost person is Grokis, people get stuck here ALL the time.'
+[Mon Sep 24 14:29:41 2001] You tell your party, 'First we have to go to him and verify he is beneath the world'
+[Mon Sep 24 14:29:49 2001] Balaku tells the group, 'oki'
+[Mon Sep 24 14:29:53 2001] You tell your party, 'for this, we use the /goto command - /goto Grokis'
+[Mon Sep 24 14:29:55 2001] Teleporting to grokis.
+[Mon Sep 24 14:29:56 2001] Balaku tells the group, 'digging a hole )'
+[Mon Sep 24 14:29:59 2001] Summoning balaku.
+[Mon Sep 24 14:30:00 2001] Tessia GMSAYS, 'zone'
+[Mon Sep 24 14:30:03 2001] Tessia says, 'zone'
+[Mon Sep 24 14:30:05 2001] Grokis says, 'ok..thanks'
+[Mon Sep 24 14:30:05 2001] Tessia begins to cast a spell. (Sunset Home)
+[Mon Sep 24 14:30:06 2001] Tessia fades away.
+[Mon Sep 24 14:30:09 2001] Balaku tells the group, 'seems to be'
+[Mon Sep 24 14:30:10 2001] You wave at Grokis.
+[Mon Sep 24 14:30:17 2001] You say, 'heh you askes Tessia too!'
+[Mon Sep 24 14:30:19 2001] Keora GMSAYS, 'Zoning !'
+[Mon Sep 24 14:30:32 2001] Grokis says, 'no...she just showed up'
+[Mon Sep 24 14:30:33 2001] You tell your party, 'Then I find a PC up on the overworld and go to him'
+[Mon Sep 24 14:30:34 2001] Players on EverQuest:
+[Mon Sep 24 14:30:34 2001] ---------------------------
+[Mon Sep 24 14:30:34 2001] [2 Shadow Knight] Zagatar (Iksar)
+[Mon Sep 24 14:30:34 2001] * GM * [20 Enchanter] Balaku (High Elf)
+[Mon Sep 24 14:30:34 2001] <LINKDEAD>[10 Necromancer] Apokalyps (Iksar)
+[Mon Sep 24 14:30:34 2001] [54 Mystic] Aschun (Iksar) <Altruistic Valorians>
+[Mon Sep 24 14:30:34 2001] [12 Necromancer] Fabriss (Iksar)
+[Mon Sep 24 14:30:34 2001] [ANONYMOUS] Immortalshadow 
+[Mon Sep 24 14:30:34 2001] [9 Shadow Knight] Grokis (Iksar)
+[Mon Sep 24 14:30:34 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Sep 24 14:30:34 2001] There are 8 players in The Field of Bone.
+[Mon Sep 24 14:30:45 2001] You tell your party, 'Zagatar looks a good bet'
+[Mon Sep 24 14:30:48 2001] Grokis thanks Espranza heartily.
+[Mon Sep 24 14:30:51 2001] You tell your party, 'so I /goto Zagatar'
+[Mon Sep 24 14:30:56 2001] Teleporting to Zagatar.
+[Mon Sep 24 14:30:58 2001] Balaku tells the group, 'allright )'
+[Mon Sep 24 14:31:06 2001] You tell your party, 'and then summon Grokis with /summon Grokis'
+[Mon Sep 24 14:31:09 2001] Summoning grokis.
+[Mon Sep 24 14:31:12 2001] Summoning balaku.
+[Mon Sep 24 14:31:20 2001] Grokis shouts, 'YEPPY!!!'
+[Mon Sep 24 14:31:21 2001] Balaku tells the group, 'ah well'
+[Mon Sep 24 14:31:26 2001] You tell your party, 'and er ist fruhe...'
+[Mon Sep 24 14:31:31 2001] Zagatar says, 'what the wow high elf'
+[Mon Sep 24 14:31:31 2001] You no longer have a target.
+[Mon Sep 24 14:31:35 2001] Balaku tells the group, 'frei )'
+[Mon Sep 24 14:31:38 2001] You tell your party, 'frei'
+[Mon Sep 24 14:31:39 2001] Balaku bows before Zagatar.
+[Mon Sep 24 14:31:39 2001] You tell your party, 'right'
+[Mon Sep 24 14:31:40 2001] Zagatar gasps at Balaku in astonishment.
+[Mon Sep 24 14:31:44 2001] Zagatar says, 'hello'
+[Mon Sep 24 14:31:46 2001] Grokis thanks Espranza heartily.
+[Mon Sep 24 14:31:48 2001] You tell your party, 'this is why I need practice...'
+[Mon Sep 24 14:31:49 2001] Grokis thanks Balaku heartily.
+[Mon Sep 24 14:31:52 2001] Balaku says, 'hi'
+[Mon Sep 24 14:31:55 2001] Balaku tells the group, 'hehe'
+[Mon Sep 24 14:32:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Sep 24 14:32:04 2001] USER TEXT: Guild leader holding guild name - would like to continue guild as named. How do I proceed?
+[Mon Sep 24 14:32:04 2001] Players in EverQuest:
+[Mon Sep 24 14:32:04 2001] ---------------------------
+[Mon Sep 24 14:32:04 2001] [ANON (16 Cleric)] Izene (Erudite) ZONE: kithicor (USER PID CP5YQUP)
+[Mon Sep 24 14:32:04 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:32:27 2001] Tessia GMSAYS, 'Who are the people that are going to be married/'
+[Mon Sep 24 14:32:33 2001] Zagatar begins to cast a spell. (Harm Touch)
+[Mon Sep 24 14:32:33 2001] A scaled wolf pup writhes in the grip of agony.
+[Mon Sep 24 14:32:33 2001] a scaled wolf pup has been slain by Zagatar!
+[Mon Sep 24 14:32:33 2001] Slithous auctions, 'wtb wu armor'
+[Mon Sep 24 14:32:46 2001] Balaku tells the group, 'hmm I think I will stay here for a bit )'
+[Mon Sep 24 14:33:03 2001] You told Izene, 'Hail, Raloin! Guide Espranza here. Unfortunately, your guild leader has sole control over the name - you'll either have to get him to transfer leadership, or start another guild.'
+[Mon Sep 24 14:33:06 2001] You tell your party, 'okay :)'
+[Mon Sep 24 14:33:09 2001] DELETING THIS PETITION
+[Mon Sep 24 14:33:11 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Sep 24 14:33:12 2001] USER TEXT: i need help plz, i was in Kedge and when i tried to zone out i have been summoned somewhere in KK the message was " the point where you want to zone is not....." and now my friend can't find me, he tried but failed
+[Mon Sep 24 14:33:12 2001] Players in EverQuest:
+[Mon Sep 24 14:33:12 2001] ---------------------------
+[Mon Sep 24 14:33:12 2001] [56 Myrmidon] Azagal (Dwarf) <Pandore> ZONE: thurgadina (USER PID CV0C1TC)
+[Mon Sep 24 14:33:12 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:33:22 2001] Keora GMSAYS, 'Kiylan and Nalyik'
+[Mon Sep 24 14:33:28 2001] Searching zones for corpse of that name....
+[Mon Sep 24 14:33:29 2001] Corpse: Azagal's corpse0 in zone: kedge
+[Mon Sep 24 14:33:31 2001] You GMSAY, 'zone'
+[Mon Sep 24 14:33:32 2001] Grokis says, 'thanks both of you!'
+[Mon Sep 24 14:33:34 2001] LOADING, PLEASE WAIT...
+[Mon Sep 24 14:33:56 2001] Duka says out of character, 'rdy?'
+[Mon Sep 24 14:33:57 2001] You have entered Kedge Keep.
+[Mon Sep 24 14:33:57 2001] You have joined the group.
+[Mon Sep 24 14:33:58 2001] Sarerin says out of character, '80'
+[Mon Sep 24 14:33:58 2001]  (Cantata of Replenishment)
+[Mon Sep 24 14:34:00 2001] Zelar begins to cast a spell. (Summon Companion)
+[Mon Sep 24 14:34:01 2001] Tessia GMSAYS, 'ok I am going to delete Nalyik's petition ok?'
+[Mon Sep 24 14:34:05 2001] Tessia GMSAYS, 'its about the same thing'
+[Mon Sep 24 14:34:07 2001] Plavarius says out of character, 'ok preparin for death'
+[Mon Sep 24 14:34:07 2001] Teleporting to azagal's corpse0.
+[Mon Sep 24 14:34:09 2001] Zelar begins to cast a spell. (Burnout III)
+[Mon Sep 24 14:34:11 2001] Okhom says out of character, 'if problem, drax will tank add'
+[Mon Sep 24 14:34:14 2001] Keora GMSAYS, 'oki'
+[Mon Sep 24 14:34:18 2001] Keora GMSAYS, 'Zoning !'
+[Mon Sep 24 14:34:27 2001] Zelar begins to cast a spell. (Cadeau of Flame)
+[Mon Sep 24 14:34:28 2001] Izene tells you, 'Hello, Espranza. Thanks for your time. I'll give you a quick history of events regarding guild...'
+[Mon Sep 24 14:34:34 2001] Okhom says out of character, 'dalborn will help mezz'
+[Mon Sep 24 14:34:38 2001] Plavarius says out of character, 'all still got haste?'
+[Mon Sep 24 14:34:39 2001] Fableman begins to cast a spell. (Augmentation of Death)
+[Mon Sep 24 14:34:41 2001] Madstar begins to cast a spell. (Call of Sky)
+[Mon Sep 24 14:34:44 2001] Balaku GMSAYS, 'Pulling Nuppin'
+[Mon Sep 24 14:34:44 2001] You told Izene, 'okay'
+[Mon Sep 24 14:34:45 2001] Zelar begins to cast a spell. (Quiver of Marr)
+[Mon Sep 24 14:34:52 2001] USER TEXT: i need help plz, i was in Kedge and when i tried to zone out i have been summoned somewhere in KK the message was " the point where you want to zone is not....." and now my friend can't find me, he tried but failed
+[Mon Sep 24 14:34:54 2001] Izene tells you, 'Civis Macto (guild of which I am a member) merged with Magic Incorporated about 2 months back. Not all members wanted to be part of this merger.'
+[Mon Sep 24 14:35:00 2001] Draxionas says out of character, 'haste pets to '
+[Mon Sep 24 14:35:09 2001] Fableman says out of character, 'Regen pls'
+[Mon Sep 24 14:35:13 2001] Izene tells you, 'There are some of us who would like to continue with Civis Macto (and keep the name).'
+[Mon Sep 24 14:35:14 2001] Keltik begins to cast a spell. (Regrowth)
+[Mon Sep 24 14:35:21 2001] Duka shouts, 'pulling'
+[Mon Sep 24 14:35:24 2001] Fableman says out of character, 'thx'
+[Mon Sep 24 14:35:24 2001] Keora GMSAYS, 'anyone can take care of inkeep Juna in EC; she is oop'
+[Mon Sep 24 14:35:32 2001] Duka shouts, 'INC [ Phinigel Autropos ]'
+[Mon Sep 24 14:35:38 2001] Izene tells you, 'I am going to speak to leader about transfer of leadership. However, if he does not grant it, there is no way to have that guild name Civis Macto?'
+[Mon Sep 24 14:35:45 2001] Plavarius begins to cast a spell. (Aanya's Quickening)
+[Mon Sep 24 14:35:50 2001] Tessia GMSAYS, 'oop?'
+[Mon Sep 24 14:35:50 2001] Swirlspine Guardian begins to cast a spell. (Vortex)
+[Mon Sep 24 14:35:52 2001] Plavarius begins to cast a spell. (Dazzle)
+[Mon Sep 24 14:35:52 2001] Draxionas says out of character, '2 adds'
+[Mon Sep 24 14:35:55 2001] Tessia GMSAYS, 'Nm'
+[Mon Sep 24 14:35:56 2001] Swirlspine Guardian begins to cast a spell. (Vortex)
+[Mon Sep 24 14:35:59 2001] Swirlspine Guardian begins to cast a spell. (Retribution)
+[Mon Sep 24 14:35:59 2001] Tessia GMSAYS, 'zone'
+[Mon Sep 24 14:36:01 2001] Keora GMSAYS, 'out of place'
+[Mon Sep 24 14:36:03 2001] Okhom says out of character, '3'
+[Mon Sep 24 14:36:04 2001] You told Izene, 'no; but if the guild still exists, can't you just remain a member of it?'
+[Mon Sep 24 14:36:05 2001] Plavarius begins to cast a spell. (Dazzle)
+[Mon Sep 24 14:36:09 2001]  (Song of Twilight)
+[Mon Sep 24 14:36:09 2001] Draxionas shouts, 'Assist me on ( Phinigel Autropos ) !!'
+[Mon Sep 24 14:36:09 2001] Duka begins to cast a spell. (Stun)
+[Mon Sep 24 14:36:10 2001] Draxionas begins to cast a spell. (Divine Might Effect)
+[Mon Sep 24 14:36:10 2001] Okhom begins to cast a spell. (Concussion)
+[Mon Sep 24 14:36:11 2001] Izene tells you, 'Even though leader has main characters in newly merged guild and just keeps alt character in Civis with Leadership.'
+[Mon Sep 24 14:36:14 2001] Dalborn shouts, 'Swirlspine Guardian is mezzed'
+[Mon Sep 24 14:36:15 2001] a spinereef seahorse begins to cast a spell. (Skin like Steel)
+[Mon Sep 24 14:36:21 2001] Sarerin says out of character, 'nice mez work'
+[Mon Sep 24 14:36:21 2001] Phinigel Autropos begins to cast a spell. (Gravity Flux)
+[Mon Sep 24 14:36:23 2001] Plavarius begins to cast a spell. (Tashania)
+[Mon Sep 24 14:36:27 2001] Okhom begins to cast a spell. (Tishan's Clash)
+[Mon Sep 24 14:36:27 2001] Phinigel Autropos begins to cast a spell. (Frost Shock)
+[Mon Sep 24 14:36:28 2001] Sarerin begins to cast a spell. (Lure of Flame)
+[Mon Sep 24 14:36:31 2001] Phinigel Autropos begins to cast a spell. (Annul Magic)
+[Mon Sep 24 14:36:31 2001] Plavarius begins to cast a spell. (Dazzle)
+[Mon Sep 24 14:36:35 2001] Izene tells you, 'Aye, I can remain a member provided he doesn't remove me. However, I am not leader or officer, thus no ability to invite others back.'
+[Mon Sep 24 14:36:39 2001] Phinigel Autropos begins to cast a spell. (Force Strike)
+[Mon Sep 24 14:36:40 2001] Madstar begins to cast a spell. (CallOfSkyEffect)
+[Mon Sep 24 14:36:41 2001] Plavarius begins to cast a spell. (Dazzle)
+[Mon Sep 24 14:36:44 2001] Phinigel Autropos begins to cast a spell. (Force Shock)
+[Mon Sep 24 14:36:45 2001] Draxionas begins to cast a spell. (Divine Might Effect)
+[Mon Sep 24 14:36:47 2001] Phinigel Autropos begins to cast a spell. (Force Strike)
+[Mon Sep 24 14:36:48 2001] Draxionas begins to cast a spell. (Holy Might)
+[Mon Sep 24 14:36:48 2001] Plavarius begins to cast a spell. (Tashania)
+[Mon Sep 24 14:36:53 2001] Phinigel Autropos begins to cast a spell. (Frost Shock)
+[Mon Sep 24 14:36:56 2001] You told Izene, 'The guild leader has absolute control of the guild; that's the way the game is...'
+[Mon Sep 24 14:36:57 2001] Phinigel Autropos begins to cast a spell. (Frost Shock)
+[Mon Sep 24 14:37:00 2001] Draxionas begins to cast a spell. (Stun)
+[Mon Sep 24 14:37:00 2001] Phinigel Autropos begins to cast a spell. (Frost Shock)
+[Mon Sep 24 14:37:03 2001] Zelar begins to cast a spell. (Char)
+[Mon Sep 24 14:37:03 2001] Duka begins to cast a spell. (Stun)
+[Mon Sep 24 14:37:04 2001] Sarerin begins to cast a spell. (Lure of Flame)
+[Mon Sep 24 14:37:04 2001] Drraak begins to cast a spell. (Remedy)
+[Mon Sep 24 14:37:04 2001] Xober begins to cast a spell. (WaterElementalStrike)
+[Mon Sep 24 14:37:04 2001] Okhom begins to cast a spell. (Draught of Fire)
+[Mon Sep 24 14:37:05 2001] Phinigel Autropos begins to cast a spell. (Frost Shock)
+[Mon Sep 24 14:37:05 2001] Draxionas begins to cast a spell. (Force)
+[Mon Sep 24 14:37:09 2001] Erlis begins to cast a spell. (Starfire)
+[Mon Sep 24 14:37:09 2001]  (Song of Twilight)
+[Mon Sep 24 14:37:10 2001] Plavarius begins to cast a spell. (Memory Blur)
+[Mon Sep 24 14:37:12 2001] Dalborn says out of character, 'yay =D'
+[Mon Sep 24 14:37:14 2001]  (McVaxius` Rousing Rondo)
+[Mon Sep 24 14:37:15 2001] Izene tells you, 'Ah, that's unfortunate.'
+[Mon Sep 24 14:37:18 2001] Duka begins to cast a spell. (Stun)
+[Mon Sep 24 14:37:18 2001]  (Tarew`s Aquatic Ayre)
+[Mon Sep 24 14:37:19 2001] Erlis begins to cast a spell. (Superior Healing)
+[Mon Sep 24 14:37:19 2001] Lillit says out of character, '/cheer'
+[Mon Sep 24 14:37:23 2001] a gloomwater mermaid begins to cast a spell. (Firefist)
+[Mon Sep 24 14:37:23 2001]  (Cantata of Replenishment)
+[Mon Sep 24 14:37:47 2001] USER TEXT: i need help plz, i was in Kedge and when i tried to zone out i have been summoned somewhere in KK the message was " the point where you want to zone is not....." and now my friend can't find me, he tried but failed
+[Mon Sep 24 14:37:51 2001] Lillit says out of character, 'attack?'
+[Mon Sep 24 14:37:58 2001] a spinereef seahorse begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:38:01 2001] You GMSAY, 'zone'
+[Mon Sep 24 14:38:05 2001] LOADING, PLEASE WAIT...
+[Mon Sep 24 14:38:26 2001] You have entered Sunset Home.
+[Mon Sep 24 14:38:27 2001] You have joined the group.
+[Mon Sep 24 14:38:29 2001] You GMSAY, 'zone'
+[Mon Sep 24 14:38:34 2001] LOADING, PLEASE WAIT...
+[Mon Sep 24 14:38:55 2001] Sarerin says out of character, 'NOOOOO'
+[Mon Sep 24 14:38:56 2001] You have entered Kedge Keep.
+[Mon Sep 24 14:38:56 2001] You have joined the group.
+[Mon Sep 24 14:38:58 2001] Drraak begins to cast a spell. (Remedy)
+[Mon Sep 24 14:38:59 2001] Zelar begins to cast a spell. (Char)
+[Mon Sep 24 14:38:59 2001] Okhom says out of character, 'god dammit!'
+[Mon Sep 24 14:39:01 2001]  (McVaxius` Rousing Rondo)
+[Mon Sep 24 14:39:01 2001] Okhom begins to cast a spell. (Draught of Fire)
+[Mon Sep 24 14:39:01 2001] Xober begins to cast a spell. (WaterElementalStrike)
+[Mon Sep 24 14:39:02 2001] Sarerin begins to cast a spell. (Lure of Flame)
+[Mon Sep 24 14:39:04 2001] Swirlspine Guardian begins to cast a spell. (Vortex)
+[Mon Sep 24 14:39:05 2001] Plavarius begins to cast a spell. (Color Flux)
+[Mon Sep 24 14:39:05 2001]  (Tarew`s Aquatic Ayre)
+[Mon Sep 24 14:39:06 2001] Zelar says out of character, 'damn :('
+[Mon Sep 24 14:39:06 2001] a spinereef seahorse begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:39:07 2001] Okhom begins to cast a spell. (Draught of Fire)
+[Mon Sep 24 14:39:08 2001] Drraak begins to cast a spell. (Remedy)
+[Mon Sep 24 14:39:10 2001] Plavarius begins to cast a spell. (Color Shift)
+[Mon Sep 24 14:39:10 2001] Xober begins to cast a spell. (WaterElementalStrike)
+[Mon Sep 24 14:39:10 2001]  (Cantata of Replenishment)
+[Mon Sep 24 14:39:11 2001] Keltik begins to cast a spell. (Wildfire)
+[Mon Sep 24 14:39:11 2001] Swirlspine Guardian begins to cast a spell. (Complete Healing)
+[Mon Sep 24 14:39:11 2001] Swirlspine Guardian begins to cast a spell. (Complete Healing)
+[Mon Sep 24 14:39:14 2001] Plavarius begins to cast a spell. (Memory Blur)
+[Mon Sep 24 14:39:15 2001] Duka begins to cast a spell. (Stun)
+[Mon Sep 24 14:39:16 2001] Okhom begins to cast a spell. (Draught of Fire)
+[Mon Sep 24 14:39:17 2001]  (McVaxius` Rousing Rondo)
+[Mon Sep 24 14:39:17 2001] Sarerin begins to cast a spell. (Lure of Flame)
+[Mon Sep 24 14:39:18 2001] Fableman begins to cast a spell. (Ignite Bones)
+[Mon Sep 24 14:39:19 2001] Swirlspine Guardian begins to cast a spell. (Complete Healing)
+[Mon Sep 24 14:39:20 2001] Xober begins to cast a spell. (WaterElementalStrike)
+[Mon Sep 24 14:39:20 2001] Duka begins to cast a spell. (Holy Might)
+[Mon Sep 24 14:39:22 2001]  (Tarew`s Aquatic Ayre)
+[Mon Sep 24 14:39:22 2001] a spinereef seahorse begins to cast a spell. (Skin like Steel)
+[Mon Sep 24 14:39:23 2001] Plavarius begins to cast a spell. (Dazzle)
+[Mon Sep 24 14:39:24 2001] Swirlspine Guardian's skin burns away.
+[Mon Sep 24 14:39:24 2001] Swirlspine Guardian has been slain by Fableman!
+[Mon Sep 24 14:39:26 2001] Swirlspine Guardian begins to cast a spell. (Retribution)
+[Mon Sep 24 14:39:30 2001] Plavarius begins to cast a spell. (Memory Blur)
+[Mon Sep 24 14:39:31 2001] Draxionas shouts, 'Assist me on ( Swirlspine Guardian ) !!'
+[Mon Sep 24 14:39:31 2001] Duka begins to cast a spell. (Stun)
+[Mon Sep 24 14:39:36 2001] Madstar begins to cast a spell. (CallOfSkyEffect)
+[Mon Sep 24 14:39:39 2001] Sarerin begins to cast a spell. (Lure of Flame)
+[Mon Sep 24 14:39:39 2001] Duka begins to cast a spell. (Force)
+[Mon Sep 24 14:39:40 2001] Drraak begins to cast a spell. (Celestial Healing)
+[Mon Sep 24 14:39:40 2001] Xober begins to cast a spell. (WaterElementalStrike)
+[Mon Sep 24 14:39:41 2001] Lillit begins to cast a spell. (Splurt)
+[Mon Sep 24 14:39:44 2001] Keltik begins to cast a spell. (Invigor)
+[Mon Sep 24 14:39:46 2001]  (McVaxius` Rousing Rondo)
+[Mon Sep 24 14:39:47 2001] Xober begins to cast a spell. (WaterElementalStrike)
+[Mon Sep 24 14:39:47 2001] Drraak begins to cast a spell. (Extinguish Fatigue)
+[Mon Sep 24 14:39:48 2001] Swirlspine Guardian begins to cast a spell. (Vortex)
+[Mon Sep 24 14:39:49 2001] Duka begins to cast a spell. (Stun)
+[Mon Sep 24 14:39:50 2001]  (Tarew`s Aquatic Ayre)
+[Mon Sep 24 14:39:50 2001] Fableman begins to cast a spell. (Ignite Bones)
+[Mon Sep 24 14:39:50 2001] a gloomwater mermaid begins to cast a spell. (Shield of Brambles)
+[Mon Sep 24 14:39:51 2001] Erlis begins to cast a spell. (Starfire)
+[Mon Sep 24 14:39:52 2001] Keltik begins to cast a spell. (Invigor)
+[Mon Sep 24 14:39:54 2001]  (Cantata of Replenishment)
+[Mon Sep 24 14:39:54 2001] a spinereef seahorse begins to cast a spell. (Firefist)
+[Mon Sep 24 14:39:55 2001] Draxionas says out of character, 'ZOINGPLS'
+[Mon Sep 24 14:39:55 2001] Sarerin shouts, 'I HATE YOU PHINNI'
+[Mon Sep 24 14:39:56 2001] Xober begins to cast a spell. (WaterElementalStrike)
+[Mon Sep 24 14:39:58 2001] Swirlspine Guardian begins to cast a spell. (Complete Healing)
+[Mon Sep 24 14:39:58 2001] Sarerin begins to cast a spell. (Lure of Flame)
+[Mon Sep 24 14:39:58 2001] Draxionas says out of character, 'ZING'
+[Mon Sep 24 14:39:59 2001] Fableman begins to cast a spell. (Deflux)
+[Mon Sep 24 14:39:59 2001] Okhom begins to cast a spell. (Draught of Fire)
+[Mon Sep 24 14:40:01 2001]  (McVaxius` Rousing Rondo)
+[Mon Sep 24 14:40:02 2001] a gloomstalker mermaid begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:40:02 2001] Keltik begins to cast a spell. (Wildfire)
+[Mon Sep 24 14:40:02 2001] Duka begins to cast a spell. (Holy Might)
+[Mon Sep 24 14:40:03 2001] Swirlspine Guardian begins to cast a spell. (Complete Healing)
+[Mon Sep 24 14:40:03 2001] Xober begins to cast a spell. (WaterElementalStrike)
+[Mon Sep 24 14:40:05 2001]  (Tarew`s Aquatic Ayre)
+[Mon Sep 24 14:40:05 2001] Erlis begins to cast a spell. (Extinguish Fatigue)
+[Mon Sep 24 14:40:06 2001] Fableman begins to cast a spell. (Deflux)
+[Mon Sep 24 14:40:07 2001] Draxionas says out of character, 'thx'
+[Mon Sep 24 14:40:08 2001] Duka begins to cast a spell. (Stun)
+[Mon Sep 24 14:40:10 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:40:11 2001]  (Cantata of Replenishment)
+[Mon Sep 24 14:40:12 2001] Plavarius says out of character, 'what trident for?'
+[Mon Sep 24 14:40:13 2001] Fableman says out of character, 'good work'
+[Mon Sep 24 14:40:20 2001] Dalborn says out of character, 'just a rogue weapon'
+[Mon Sep 24 14:40:21 2001] Draxionas says out of character, 'woot '
+[Mon Sep 24 14:40:22 2001] a spinereef seahorse begins to cast a spell. (Spirit of Wolf)
+[Mon Sep 24 14:40:29 2001] Dalborn says out of character, '10/30 procs a 169dmg dd'
+[Mon Sep 24 14:40:30 2001] a mermaid begins to cast a spell. (Skin like Diamond)
+[Mon Sep 24 14:40:34 2001] You told Azagal, 'Hail, Azagal! Guide Espranza here. Your body is not stuck in the wall or anything, nor is it at the safe point, which is where it usually ends up when you get a "cannot find safe coords" message... but your body is retrievable.'
+[Mon Sep 24 14:40:37 2001] DELETING THIS PETITION
+[Mon Sep 24 14:40:40 2001] Balaku tells the group, 'Nuppin sagt er sei 2mal in Freeport gebunden worden aber sein Bindpunkt ist immer noch Misty Thicket.'
+[Mon Sep 24 14:40:40 2001] Sarerin says out of character, 'rogue'
+[Mon Sep 24 14:40:40 2001] Draxionas says out of character, 'nice'
+[Mon Sep 24 14:40:41 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Sep 24 14:40:41 2001] USER TEXT: I AM PETITIONING ABOUT ALL THES MORONS ON EQ! I MADE A GOOD NAME AND THEN YOU PPL  MAKE ME CAHNGE IT!!!!!!!!!!
+[Mon Sep 24 14:40:41 2001] Players in EverQuest:
+[Mon Sep 24 14:40:41 2001] ---------------------------
+[Mon Sep 24 14:40:42 2001] [13 Rogue] Wazbie (Barbarian) <Leaders of Honor> ZONE: ecommons (USER PID HYHJZFW)
+[Mon Sep 24 14:40:42 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:40:42 2001] Zelar says out of character, 'rogue only weapon, grats Taeyan :)'
+[Mon Sep 24 14:40:42 2001] a mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:40:42 2001] a spinereef seahorse begins to cast a spell. (Spirit of Wolf)
+[Mon Sep 24 14:40:44 2001] Okhom shouts, 'grats for trident taeyan'
+[Mon Sep 24 14:40:44 2001] Plavarius says out of character, 'loot away Tae'
+[Mon Sep 24 14:40:50 2001] Duka says out of character, 'taeyan get trident'
+[Mon Sep 24 14:40:53 2001] Keltik begins to cast a spell. (Invigor)
+[Mon Sep 24 14:40:53 2001] Taeyan says out of character, 'Thanks all =)'
+[Mon Sep 24 14:40:54 2001] Madstar says out of character, 'grats tae'
+[Mon Sep 24 14:40:54 2001] a mermaid begins to cast a spell. (Spirit of Wolf)
+[Mon Sep 24 14:40:55 2001] You tell your party, 'I've seen that before, Balaku'
+[Mon Sep 24 14:40:57 2001] Erlis says out of character, 'Gratz Taeyan <hug>'
+[Mon Sep 24 14:41:00 2001] Drraak says out of character, 'Gratz Taeyan'
+[Mon Sep 24 14:41:01 2001] You tell your party, 'a few times'
+[Mon Sep 24 14:41:02 2001] a mermaid begins to cast a spell. (Firefist)
+[Mon Sep 24 14:41:05 2001] Okhom says out of character, 'i hate that mob! /comfort sarerin'
+[Mon Sep 24 14:41:06 2001] USER TEXT: I AM PETITIONING ABOUT ALL THES MORONS ON EQ! I MADE A GOOD NAME AND THEN YOU PPL  MAKE ME CAHNGE IT!!!!!!!!!!
+[Mon Sep 24 14:41:07 2001] Madstar begins to cast a spell. (Enduring Breath)
+[Mon Sep 24 14:41:10 2001] Ngoc GMSAYS, 'Hi all'
+[Mon Sep 24 14:41:10 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:41:10 2001] Azagal tells you, 'can you summon it to zone plz i found someone to rezz it'
+[Mon Sep 24 14:41:15 2001] Balaku tells the group, 'known bug? what can I do?'
+[Mon Sep 24 14:41:15 2001] Okhom says out of character, 'lets get outta here'
+[Mon Sep 24 14:41:18 2001] a gloomstalker mermaid begins to cast a spell. (Spirit of Wolf)
+[Mon Sep 24 14:41:18 2001] a gloomstalker mermaid begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:41:20 2001] UNDOING CHECK OUT
+[Mon Sep 24 14:41:20 2001] Keora GMSAYS, 'hi Ngoc'
+[Mon Sep 24 14:41:21 2001] Draxionas says out of character, 'wheres coral for ?'
+[Mon Sep 24 14:41:26 2001] Ngoc GMSAYS, 'what's new?'
+[Mon Sep 24 14:41:29 2001] Balaku GMSAYS, 'Hi Ngoc'
+[Mon Sep 24 14:41:30 2001] Okhom says out of character, 'wiz or warrior quest in WW'
+[Mon Sep 24 14:41:33 2001] Balaku GMSAYS, 'me :)'
+[Mon Sep 24 14:41:34 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:41:41 2001] Draxionas says out of character, 'wiz ahould loot'
+[Mon Sep 24 14:41:42 2001] a gloomstalker mermaid begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:41:42 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:41:42 2001] Dalborn says out of character, 'strength of the elements quest, 15ac 100hp 15sv fire 15sv cold shoulders, all/all'
+[Mon Sep 24 14:41:47 2001] Fableman says out of character, 'great xp I see movment :)'
+[Mon Sep 24 14:41:48 2001] You tell your party, 'it's a known bug, even /charinfo reports the new zone, until they zone, then it reverts to the old.'
+[Mon Sep 24 14:41:49 2001] Ngoc GMSAYS, 'hehe...welcome to our ranks Balaku'
+[Mon Sep 24 14:41:50 2001] Players in EverQuest:
+[Mon Sep 24 14:41:50 2001] ---------------------------
+[Mon Sep 24 14:41:50 2001] * Guide *[50 Ranger] Tessia (Wood Elf) <Keepers of Dreams> ZONE: skyfire (USER PID FUUW3D0)
+[Mon Sep 24 14:41:50 2001] * Guide *[53 Mystic] Ngoc (Ogre) ZONE: wakening (USER PID FUGBDWQ)
+[Mon Sep 24 14:41:50 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: kedge (USER PID AUGBQH4)
+[Mon Sep 24 14:41:50 2001] * Guide *[50 Warrior] Keora (Dark Elf) <Keepers of Dreams> ZONE: ecommons (USER PID AUGCJVW)
+[Mon Sep 24 14:41:50 2001] * Apprentice Guide *[20 Enchanter] Balaku (High Elf) ZONE: fieldofbone (USER PID BZT1LY4)
+[Mon Sep 24 14:41:50 2001] There are 5 players in EverQuest.
+[Mon Sep 24 14:41:53 2001] Ngoc GMSAYS, 'or soon to be'
+[Mon Sep 24 14:41:53 2001] Dalborn says out of character, 'requires 4 ores, everyone can do the quest'
+[Mon Sep 24 14:41:53 2001] Erlis says out of character, 'Does everyone have a port out?'
+[Mon Sep 24 14:41:58 2001] You GMSAY, 'Hi Ngoc!'
+[Mon Sep 24 14:42:00 2001] Draxionas says out of character, 'all class ?'
+[Mon Sep 24 14:42:01 2001] a gloomwater mermaid begins to cast a spell. (Firefist)
+[Mon Sep 24 14:42:05 2001] a gloomwater mermaid begins to cast a spell. (Firefist)
+[Mon Sep 24 14:42:08 2001] Azagal tells you, 'can you plz ?'
+[Mon Sep 24 14:42:13 2001] a gloomstalker mermaid begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:42:17 2001] Tessia GMSAYS, 'Hello Ngoc = D'
+[Mon Sep 24 14:42:18 2001] Draxionas says out of character, 'roll ?'
+[Mon Sep 24 14:42:24 2001] Ngoc GMSAYS, 'Espranza!'
+[Mon Sep 24 14:42:25 2001] Duggall begins to cast a spell. (Circle of Wakening Lands)
+[Mon Sep 24 14:42:26 2001] Balaku tells the group, 'charinfo says him he is bound in MT. So he should just bind again in FP? or do I have to escalate it?'
+[Mon Sep 24 14:42:29 2001] Ngoc GMSAYS, 'long time no see'
+[Mon Sep 24 14:42:29 2001] a gloomstalker mermaid begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:42:30 2001] You told Azagal, 'I'm sorry, I can't do CR except for bugged corpses, but yours seems fine.'
+[Mon Sep 24 14:42:37 2001] a gloomstalker mermaid begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:42:40 2001] Sarerin says out of character, 'anyone but me want the ore?'
+[Mon Sep 24 14:42:41 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:42:45 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:42:45 2001] a gloomwater mermaid begins to cast a spell. (Shield of Brambles)
+[Mon Sep 24 14:42:46 2001] Okhom says out of character, 'got it. all people who want it roll 420'
+[Mon Sep 24 14:42:46 2001] Ngoc GMSAYS, 'How come so many dignitaries on today?'
+[Mon Sep 24 14:42:47 2001] You tell your party, 'he should just bind again... zone, and then use /charinfo to see if it stuck.'
+[Mon Sep 24 14:42:49 2001] Fableman says out of character, 'ore ?'
+[Mon Sep 24 14:42:50 2001] Erlis says out of character, 'I will pass'
+[Mon Sep 24 14:42:57 2001] Draxionas says out of character, 'for shoulder right ?'
+[Mon Sep 24 14:42:58 2001] Drraak says out of character, 'pass'
+[Mon Sep 24 14:42:59 2001] Balaku tells the group, 'oki thanks. will tell him that'
+[Mon Sep 24 14:42:59 2001] Lillit says out of character, 'pass'
+[Mon Sep 24 14:43:03 2001] Fableman says out of character, 'I need any item with hp :)'
+[Mon Sep 24 14:43:05 2001] Dalborn says out of character, 'ya Draz'
+[Mon Sep 24 14:43:09 2001] Dalborn says out of character, 'er Drax'
+[Mon Sep 24 14:43:15 2001] Azagal tells you, 'humm and no good coord and the message "the zone where you blabla " it's not my fault ? '
+[Mon Sep 24 14:43:16 2001] Draxionas says out of character, 'all who want roll 420 ok ?'
+[Mon Sep 24 14:43:17 2001] a spinereef seahorse begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:43:21 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:43:30 2001] **A Magic Die is rolled by Sarerin.
+[Mon Sep 24 14:43:30 2001] **It could have been any number from 0 to 420, but this time it turned up a 368.
+[Mon Sep 24 14:43:32 2001] Dalborn says out of character, 'the coral is the easiest part of the entire quest tho =p'
+[Mon Sep 24 14:43:32 2001] **A Magic Die is rolled by Fableman.
+[Mon Sep 24 14:43:32 2001] **It could have been any number from 0 to 420, but this time it turned up a 337.
+[Mon Sep 24 14:43:37 2001] Drraak begins to cast a spell. (Armor of Protection)
+[Mon Sep 24 14:43:38 2001] **A Magic Die is rolled by Draxionas.
+[Mon Sep 24 14:43:38 2001] **It could have been any number from 0 to 420, but this time it turned up a 175.
+[Mon Sep 24 14:43:44 2001] **A Magic Die is rolled by Duka.
+[Mon Sep 24 14:43:44 2001] **It could have been any number from 0 to 420, but this time it turned up a 201.
+[Mon Sep 24 14:43:45 2001] Drraak begins to cast a spell. (Shield of Words)
+[Mon Sep 24 14:43:48 2001] Ngoc GMSAYS, 'leaving petition Wazbie for the apprentice'
+[Mon Sep 24 14:43:53 2001] Duka says out of character, 'gratz sare'
+[Mon Sep 24 14:43:53 2001] Ngoc GMSAYS, 'it's a good one to practice on'
+[Mon Sep 24 14:44:03 2001] Draxionas says out of character, 'grats sare'
+[Mon Sep 24 14:44:10 2001] Erlis says out of character, 'Gratz Sis'
+[Mon Sep 24 14:44:10 2001] Azagal tells you, 'you know that a CR here is hard, i tried to not disturb you and find my corpse alone, but failed so i need your help now'
+[Mon Sep 24 14:44:10 2001] Draxionas says out of character, 'loot item'
+[Mon Sep 24 14:44:13 2001] Plavarius begins to cast a spell. (Clarity)
+[Mon Sep 24 14:44:13 2001] You told Azagal, 'is it possible to scroll back and capture this text in your chat window with the /report command?'
+[Mon Sep 24 14:44:16 2001] Lillit says out of character, 'grats Sare'
+[Mon Sep 24 14:44:19 2001] Draxionas says out of character, 'dotn go ld'
+[Mon Sep 24 14:44:20 2001] Plavarius begins to cast a spell. (Clarity)
+[Mon Sep 24 14:44:21 2001] a spinereef seahorse begins to cast a spell. (Firefist)
+[Mon Sep 24 14:44:28 2001] Azagal tells you, 'sure'
+[Mon Sep 24 14:44:29 2001] a gloomwater mermaid begins to cast a spell. (Spirit of Wolf)
+[Mon Sep 24 14:44:32 2001] Azagal tells you, 'a minute'
+[Mon Sep 24 14:44:32 2001] Okhom begins to cast a spell. (Translocate)
+[Mon Sep 24 14:44:32 2001] Dalborn says out of character, 'thanks for having me guys n gals =D'
+[Mon Sep 24 14:44:33 2001] a gloomstalker mermaid begins to cast a spell. (Spirit of Wolf)
+[Mon Sep 24 14:44:34 2001] You GMSAY, 'heh... I suspect Wazbie of being our friend Potsmoker.'
+[Mon Sep 24 14:44:45 2001] a gloomstalker mermaid begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:44:47 2001] Plavarius begins to cast a spell. (Clarity)
+[Mon Sep 24 14:44:49 2001] Players in EverQuest:
+[Mon Sep 24 14:44:49 2001] ---------------------------
+[Mon Sep 24 14:44:49 2001] * Guide *[50 Ranger] Tessia (Wood Elf) <Keepers of Dreams> ZONE: skyfire (USER PID FUUW3D0)
+[Mon Sep 24 14:44:49 2001] * Guide *[53 Mystic] Ngoc (Ogre) ZONE: wakening (USER PID FUGBDWQ)
+[Mon Sep 24 14:44:49 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: kedge (USER PID AUGBQH4)
+[Mon Sep 24 14:44:49 2001] * Guide *[50 Warrior] Keora (Dark Elf) <Keepers of Dreams> ZONE: ecommons (USER PID AUGCJVW)
+[Mon Sep 24 14:44:49 2001] * Apprentice Guide *[20 Enchanter] Balaku (High Elf) ZONE: fieldofbone (USER PID BZT1LY4)
+[Mon Sep 24 14:44:49 2001] There are 5 players in EverQuest.
+[Mon Sep 24 14:44:51 2001] Fableman says out of character, 'thx yo dalborn'
+[Mon Sep 24 14:44:51 2001] Duka says out of character, 'thx for helping Dalborn'
+[Mon Sep 24 14:44:53 2001] Ngoc GMSAYS, 'hehe....'
+[Mon Sep 24 14:44:58 2001] Ngoc GMSAYS, 'he doesn't sound happy'
+[Mon Sep 24 14:45:01 2001] a gloomstalker mermaid begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:45:02 2001] Azagal tells you, 'doh no too lot of sentences written ('
+[Mon Sep 24 14:45:04 2001] Ngoc GMSAYS, 'his petition is all in caps'
+[Mon Sep 24 14:45:08 2001] Gilgimesh says out of character, 'Congrats Legions of Valhalla ) WTG'
+[Mon Sep 24 14:45:12 2001] Balaku GMSAYS, 'Deleting Nuppin'
+[Mon Sep 24 14:45:13 2001] a gloomwater mermaid begins to cast a spell. (Shield of Brambles)
+[Mon Sep 24 14:45:15 2001] You GMSAY, 'I'd asked him to log that character out since we were getting petition after petition about it.'
+[Mon Sep 24 14:45:21 2001] Draxionas says out of character, 'thx and thx dalborne to'
+[Mon Sep 24 14:45:25 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:45:27 2001] Sarerin says out of character, 'thanks for Help Dalborn'
+[Mon Sep 24 14:45:37 2001] a gloomstalker mermaid begins to cast a spell. (Firefist)
+[Mon Sep 24 14:45:38 2001] Duka says out of character, 'lets get out of here. bye all'
+[Mon Sep 24 14:45:41 2001] Fableman says out of character, 'I coudl love a WL port'
+[Mon Sep 24 14:45:48 2001] Gilgimesh says out of character, 'Aye good Job Dalborn'
+[Mon Sep 24 14:45:51 2001] Okhom shouts, 'all groups have a porter?'
+[Mon Sep 24 14:46:01 2001] Tiair begins to cast a spell. (Extinguish Fatigue)
+[Mon Sep 24 14:46:13 2001] a gloomwater mermaid begins to cast a spell. (Firefist)
+[Mon Sep 24 14:46:19 2001] Summoning azagal's corpse0.
+[Mon Sep 24 14:46:24 2001] Fableman begins to cast a spell. (Gather Shadows)
+[Mon Sep 24 14:46:27 2001] You told Azagal, 'I summoned it to zone.'
+[Mon Sep 24 14:46:28 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:46:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Sep 24 14:46:36 2001] USER TEXT: Faultless One is not a proper name, i think )
+[Mon Sep 24 14:46:37 2001] Players in EverQuest:
+[Mon Sep 24 14:46:37 2001] ---------------------------
+[Mon Sep 24 14:46:37 2001] [ANON (40 Warrior)] Drexis (Dark Elf) ZONE: velketor (USER PID EP6LL1F)
+[Mon Sep 24 14:46:37 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:46:38 2001] Okhom shouts, 'lets port out.'
+[Mon Sep 24 14:46:39 2001] Azagal tells you, 'cool thx a lot'
+[Mon Sep 24 14:46:40 2001] a spinereef seahorse begins to cast a spell. (Skin like Steel)
+[Mon Sep 24 14:46:41 2001] Balaku GMSAYS, 'oki Pulling Wazbie, as you wish oh splendid one :)'
+[Mon Sep 24 14:46:43 2001] Keltik begins to cast a spell. (Circle of Commons)
+[Mon Sep 24 14:46:45 2001] Fableman says out of character, 'cya fishes'
+[Mon Sep 24 14:46:45 2001] Okhom begins to cast a spell. (Fay Portal)
+[Mon Sep 24 14:46:52 2001] Okhom says out of character, 'cya soon mates)'
+[Mon Sep 24 14:46:58 2001] You told Azagal, 'eh, don't mention it (please!)'
+[Mon Sep 24 14:46:59 2001] Ngoc GMSAYS, 'hehe....you should have fun with that one'
+[Mon Sep 24 14:47:00 2001] Balaku GMSAYS, 'ack )'
+[Mon Sep 24 14:47:07 2001] Players in EverQuest:
+[Mon Sep 24 14:47:07 2001] ---------------------------
+[Mon Sep 24 14:47:07 2001] [56 Outrider] Faultless (Human) ZONE: greatdivide (USER PID EUCN107) LFG
+[Mon Sep 24 14:47:07 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:47:10 2001] Azagal tells you, 'ok i shut up'
+[Mon Sep 24 14:47:16 2001] a spinereef seahorse begins to cast a spell. (Spirit of Wolf)
+[Mon Sep 24 14:47:22 2001] Balaku GMSAYS, 'I like those capitalized letters..'
+[Mon Sep 24 14:47:30 2001] You told Azagal, 'heh... no, I wasn't supposed to summon it, but I'm giving you the benefit of the doubt.'
+[Mon Sep 24 14:47:32 2001] a swirlspine seahorse begins to cast a spell. (Resolution)
+[Mon Sep 24 14:47:48 2001] Erlis begins to cast a spell. (Circle of Steamfont)
+[Mon Sep 24 14:48:28 2001] You GMSAY, '<note badname> Faultless One EUCN107 - one of the names for which I am glad I do not have the power to change names, he's level 56.'
+[Mon Sep 24 14:48:44 2001] a gloomstalker mermaid begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:48:47 2001] Azagal tells you, 'i'm not a layer i had no luck, TP forgot me in KK and after i tried to zone out and summoned somewhere in KK, not a good day )'
+[Mon Sep 24 14:48:48 2001] a spinereef seahorse begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:49:00 2001] Espranza saved.
+[Mon Sep 24 14:49:04 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:49:21 2001] You told Drexis, 'Hail, Drexis! Guide Espranza here. I've noted the bad name for a senior or GM to change. Thanks!'
+[Mon Sep 24 14:49:23 2001] DELETING THIS PETITION
+[Mon Sep 24 14:49:25 2001] RETRIEVING PETITION...PLEASE WAIT
+[Mon Sep 24 14:49:25 2001] USER TEXT: is it worth it for a mage to lvl up his jewlery skill since not being able to enchant anything makes the jewlery statless?
+[Mon Sep 24 14:49:25 2001] Players in EverQuest:
+[Mon Sep 24 14:49:25 2001] ---------------------------
+[Mon Sep 24 14:49:26 2001] [1 Magician] Ozzlain (Erudite) ZONE: gfaydark (USER PID CVMSJFE)
+[Mon Sep 24 14:49:26 2001] There is 1 player in EverQuest.
+[Mon Sep 24 14:49:37 2001] Ngoc GMSAYS, 'hehe'
+[Mon Sep 24 14:49:42 2001] Drexis tells you, 'excellent! Thanks for keeping the dream alive! )'
+[Mon Sep 24 14:49:48 2001] Ngoc GMSAYS, 'I doubt it will be changed'
+[Mon Sep 24 14:49:51 2001] You told Drexis, ':)'
+[Mon Sep 24 14:50:00 2001] You GMSAY, 'just the last name needs changing...'
+[Mon Sep 24 14:50:06 2001] Balaku GMSAYS, 'hmm he ask if he could put all GMs on ignore. What did you telled Wazbie? )'
+[Mon Sep 24 14:50:14 2001] You GMSAY, 'but I doubt it will be changed as well.'
+[Mon Sep 24 14:50:16 2001] a spinereef seahorse begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:50:23 2001] You GMSAY, 'is Wazbie Potsmoker?'
+[Mon Sep 24 14:50:24 2001] a swirlspine seahorse begins to cast a spell. (Resolution)
+[Mon Sep 24 14:50:35 2001] Balaku GMSAYS, 'yep he is'
+[Mon Sep 24 14:50:40 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:50:47 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:51:03 2001] a gloomstalker mermaid begins to cast a spell. (Firefist)
+[Mon Sep 24 14:51:04 2001] Ngoc GMSAYS, 'hehe...he can put us on ignore, but we bypass it'
+[Mon Sep 24 14:51:23 2001] You GMSAY, 'I merely told him "Potsmoker" was a bad name, and his explanation that he was a potter who made pots smoke in the kiln was amusing but that we'd been getting a lot of petitions about it.'
+[Mon Sep 24 14:51:34 2001] You have become better at Swimming! (110)
+[Mon Sep 24 14:51:53 2001] Balaku GMSAYS, 'hehe. it contains 2 words anyway. think that violates policy too'
+[Mon Sep 24 14:52:03 2001] a gloomwater mermaid begins to cast a spell. (Spirit of Wolf)
+[Mon Sep 24 14:52:05 2001] You GMSAY, 'no, you can have two words in your name.'
+[Mon Sep 24 14:52:09 2001] Ngoc GMSAYS, 'anyone try the new EQGSR?'
+[Mon Sep 24 14:52:12 2001] You GMSAY, 'as long as it doesn't form a phrase or title.'
+[Mon Sep 24 14:52:16 2001] Balaku GMSAYS, 'what means 'y i otta!!!' glad to not understand everything )'
+[Mon Sep 24 14:52:22 2001] Tiair begins to cast a spell. (Ring of Commons)
+[Mon Sep 24 14:52:26 2001] Ngoc GMSAYS, 'it's 3 words that make up a phrase that is in violation'
+[Mon Sep 24 14:52:34 2001] You GMSAY, 'it means "Why, I ought to..." smash you in the face or something.'
+[Mon Sep 24 14:52:47 2001] a spinereef seahorse begins to cast a spell. (Firefist)
+[Mon Sep 24 14:52:53 2001] Balaku GMSAYS, 'its not a good thing about me, isnt it? )'
+[Mon Sep 24 14:53:17 2001] You GMSAY, 'he's a nasty child and if a GM were on, he'd be taking a little break.'
+[Mon Sep 24 14:53:34 2001] Ngoc GMSAYS, 'yeah'
+[Mon Sep 24 14:53:54 2001] Ngoc GMSAYS, 'someone needs to make their kids do homework on the weekdays instead of playing EQ'
+[Mon Sep 24 14:54:15 2001] a gloomwater mermaid begins to cast a spell. (Shield of Spikes)
+[Mon Sep 24 14:54:22 2001] You GMSAY, 'Potsmoker is also a title, which violates the naming guidelines as well.'
+[Mon Sep 24 14:54:22 2001] Balaku GMSAYS, 'lol'
+[Mon Sep 24 14:54:27 2001] a spinereef seahorse begins to cast a spell. (Shield of Thistles)
+[Mon Sep 24 14:54:39 2001] USER TEXT: is it worth it for a mage to lvl up his jewlery skill since not being able to enchant anything makes the jewlery statless?
+[Mon Sep 24 14:54:41 2001] UNDOING CHECK OUT
+[Mon Sep 24 14:54:44 2001] You GMSAY, 'zone'
+[Mon Sep 24 14:54:47 2001] Gilgimesh begins to cast a spell. (Invigor)
+[Mon Sep 24 14:54:47 2001] You begin casting Sunset Home. (Sunset Home)
+[Mon Sep 24 14:54:47 2001] Your Belt of Translocation begins to glow.
+[Mon Sep 24 14:54:48 2001] LOADING, PLEASE WAIT...
+[Mon Sep 24 14:55:08 2001] You have entered Sunset Home.
+[Mon Sep 24 14:55:08 2001] You have joined the group.
+[Mon Sep 24 14:55:13 2001] It begins to rain.
+[Mon Sep 24 14:55:17 2001] Players on EverQuest:
+[Mon Sep 24 14:55:17 2001] ---------------------------
+[Mon Sep 24 14:55:17 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Sep 24 14:55:17 2001] There is 1 player in Sunset Home.
+[Mon Sep 24 14:56:02 2001] You GMSAY, 'well, queue is under control, gonna take off now. Auf wiedersehen, and thanks for the German lessons!'
+[Mon Sep 24 14:56:08 2001] It will take you about 30 seconds to prepare your camp.
+[Mon Sep 24 14:56:12 2001] It will take about 25 more seconds to prepare your camp.
+[Mon Sep 24 14:56:15 2001] Ngoc GMSAYS, 'see ya Esp'
+[Mon Sep 24 14:56:17 2001] It will take about 20 more seconds to prepare your camp.
+[Mon Sep 24 14:56:20 2001] Balaku GMSAYS, 'Auf Wiedersehen Espranza :)'
+[Mon Sep 24 14:56:22 2001] It will take about 15 more seconds to prepare your camp.
+[Mon Sep 24 14:56:27 2001] It will take about 10 more seconds to prepare your camp.
+[Mon Sep 24 14:56:32 2001] You have been removed from the group.
+[Mon Sep 24 14:56:32 2001] It will take about 5 more seconds to prepare your camp.
+[Mon Sep 24 14:56:33 2001] Keora GMSAYS, 'Bye Espranza'

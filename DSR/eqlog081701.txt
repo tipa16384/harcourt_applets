@@ -1,0 +1,959 @@
+[Fri Aug 17 15:04:42 2001] Welcome to EverQuest!
+[Fri Aug 17 15:04:42 2001] You have entered Sunset Home.
+[Fri Aug 17 15:04:42 2001] GUILD MOTD: Mersi - Please delete any money you have on your guide character =) Thanks!
+[Fri Aug 17 15:04:45 2001] Players in EverQuest:
+[Fri Aug 17 15:04:45 2001] ---------------------------
+[Fri Aug 17 15:04:45 2001] * Guide *[ANON (50 Bard)] Kizra (Human) ZONE: dreadlands (USER PID AUUWKPN)
+[Fri Aug 17 15:04:45 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Fri Aug 17 15:04:45 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: crystal (USER PID HUUXAGY)
+[Fri Aug 17 15:04:45 2001] There are 3 players in EverQuest.
+[Fri Aug 17 15:04:53 2001] You GMSAY, 'hiya all!'
+[Fri Aug 17 15:04:57 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 15:04:58 2001] USER TEXT: Hi,a friend of mine don't find his corpse,he's dead at Crystal Cavern zone in the life leech room,his name is Perledumatin can you help him please?
+[Fri Aug 17 15:04:58 2001] Players in EverQuest:
+[Fri Aug 17 15:04:58 2001] ---------------------------
+[Fri Aug 17 15:04:58 2001] [34 Ranger] Dalyan (Wood Elf) <L'envol du Phoenix> ZONE: greatdivide (USER PID AZTQPBT)
+[Fri Aug 17 15:04:58 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:05:06 2001] Searching zones for corpse of that name....
+[Fri Aug 17 15:05:07 2001] Corpse: Perledumatin's corpse1 in zone: crystal
+[Fri Aug 17 15:05:07 2001] Corpse: Perledumatin's corpse0 in zone: rivervale
+[Fri Aug 17 15:05:09 2001] You GMSAY, 'zone'
+[Fri Aug 17 15:05:12 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 15:05:41 2001] You have entered Crystal Caverns.
+[Fri Aug 17 15:05:43 2001] Oraden GMSAYS, 'Greets Espranza.'
+[Fri Aug 17 15:05:59 2001] Teleporting to perledumatin's corpse0.
+[Fri Aug 17 15:06:05 2001] Teleporting to perledumatin's corpse1.
+[Fri Aug 17 15:06:09 2001] Kizra GMSAYS, 'Hiya Espranza'
+[Fri Aug 17 15:06:11 2001] Kizra GMSAYS, 'zone'
+[Fri Aug 17 15:06:39 2001] You told Dalyan, 'Hail, Dalyan! Guide Espranza here. Both of Perledumatin's corpses are out in the open and retrievable...'
+[Fri Aug 17 15:06:43 2001] Dugald shouts, 'some stray terrors may arrive at town - please watch youselfs'
+[Fri Aug 17 15:06:44 2001] DELETING THIS PETITION
+[Fri Aug 17 15:06:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 15:06:47 2001] USER TEXT: I gated from WC to velious and the program crashed and I died.... Now when I came back on I deemed to have died
+[Fri Aug 17 15:06:47 2001] Players in EverQuest:
+[Fri Aug 17 15:06:47 2001] ---------------------------
+[Fri Aug 17 15:06:47 2001] [35 Shaman] Bemiss (Troll) <Nature's Fury> ZONE: eastwastes (USER PID AND37CD)
+[Fri Aug 17 15:06:47 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:06:48 2001] Loredair says out of character, 'Any passing clerics please rez my corpse on the Coldain town entrance'
+[Fri Aug 17 15:07:15 2001] Searching zones for corpse of that name....
+[Fri Aug 17 15:07:15 2001] Corpse: Bemiss's corpse0 in zone: eastwastes
+[Fri Aug 17 15:07:26 2001] You GMSAY, 'zone'
+[Fri Aug 17 15:07:32 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 15:08:11 2001] a Ry`Gorr clan lookout died.
+[Fri Aug 17 15:08:17 2001] You have entered Eastern Wastes.
+[Fri Aug 17 15:08:25 2001] Teleporting to bemiss's corpse0.
+[Fri Aug 17 15:08:25 2001] Oraden tells the guild, 'marking brothey UAx1'
+[Fri Aug 17 15:08:48 2001] You told Bemiss, 'Hail, Bemiss! Guide Espranza here. How may I help you?'
+[Fri Aug 17 15:08:51 2001] Dalyan tells you, 'Where is it exactly,can ou give me the loc or something like this?'
+[Fri Aug 17 15:09:06 2001] Bemiss tells you, 'I am stuck under the world in eastern wastes...'
+[Fri Aug 17 15:09:13 2001] Giltaav shouts, 'wooly mammoth to zone'
+[Fri Aug 17 15:09:19 2001] You told Dalyan, 'both are with a bunch of other bodies, down in the lower reaches of Crystal Caverns'
+[Fri Aug 17 15:09:30 2001] Bemiss tells you, 'I gated when I was on my new computer I just got and I realized that I didnt have velious installed'
+[Fri Aug 17 15:09:31 2001] You told Dalyan, 'Probably just where he died.'
+[Fri Aug 17 15:09:40 2001] Teleporting to bemiss.
+[Fri Aug 17 15:09:46 2001] Bemiss tells you, 'I was bound in eastern wastes so my comp crashed'
+[Fri Aug 17 15:10:02 2001] Bemiss tells you, 'When I cam back all my items were gone and i was stuck under the world'
+[Fri Aug 17 15:10:09 2001] Bemiss tells you, '(on my old computer)'
+[Fri Aug 17 15:10:12 2001] Oraden GMSAYS, 'Ghosting from one ZONE to the next  ...'
+[Fri Aug 17 15:10:13 2001] Summoning bemiss's corpse0.
+[Fri Aug 17 15:10:25 2001] Dalyan tells you, 'Perfect we'll try to find it,thanks for your help and see you )'
+[Fri Aug 17 15:10:30 2001] Lirus GMSAYS, 'g'morning'
+[Fri Aug 17 15:10:33 2001] You told Dalyan, 'be well and best of luck!'
+[Fri Aug 17 15:10:36 2001] You GMSAY, 'Hiya Lirus!'
+[Fri Aug 17 15:10:37 2001] Kizra GMSAYS, 'Hiya Lirus'
+[Fri Aug 17 15:10:40 2001] Kizra GMSAYS, 'zone'
+[Fri Aug 17 15:11:00 2001] Players on EverQuest:
+[Fri Aug 17 15:11:00 2001] ---------------------------
+[Fri Aug 17 15:11:00 2001] [57 Revenant] Cannabulon (Ogre) <Heroic Few>
+[Fri Aug 17 15:11:00 2001] [59 Outrider] Allamir (Half Elf) <Triune>
+[Fri Aug 17 15:11:00 2001] [40 Druid] Gerian (Wood Elf) <Kingdom of Steel>
+[Fri Aug 17 15:11:00 2001] [45 Shaman] Kilshaaz (Iksar) <United Guardians>
+[Fri Aug 17 15:11:00 2001] [ANONYMOUS] Fergal  <United Ale Drinkers>
+[Fri Aug 17 15:11:00 2001] [ANONYMOUS] Fresheez 
+[Fri Aug 17 15:11:00 2001] [41 Shaman] Fafner (Barbarian)
+[Fri Aug 17 15:11:00 2001] [42 Warrior] Mothball (Wood Elf)
+[Fri Aug 17 15:11:00 2001] [50 Druid] Callmed (Wood Elf) <Elven Elite>
+[Fri Aug 17 15:11:00 2001] [45 Ranger] Sculwantwo (Wood Elf)
+[Fri Aug 17 15:11:00 2001] [43 Shadow Knight] Arid (Dark Elf) <House Rea`Morda>
+[Fri Aug 17 15:11:00 2001] [37 Bard] Karalin (Human) <Knights of Arcane Lore>
+[Fri Aug 17 15:11:00 2001] [39 Shadow Knight] Venden (Dark Elf) <Black Cauldron>
+[Fri Aug 17 15:11:00 2001] [39 Ranger] Kourte (Half Elf) <The Avant Guard>
+[Fri Aug 17 15:11:00 2001] [42 Shadow Knight] Darkpoullpy (Ogre) <Compagnons de l`Aube>
+[Fri Aug 17 15:11:00 2001] [38 Druid] Knarlroot (Unknown) <The Forgotten>
+[Fri Aug 17 15:11:00 2001] [39 Shaman] Hoktii (Barbarian) <Hunters of the Undead>
+[Fri Aug 17 15:11:00 2001] [ANONYMOUS] Mondriane 
+[Fri Aug 17 15:11:00 2001] [ANONYMOUS] Cillin 
+[Fri Aug 17 15:11:00 2001] [54 Illusionist] Elliphaz (Troll) <Temple of Dawn>
+[Fri Aug 17 15:11:00 2001] [52 Pathfinder] Emerelle (Unknown) <Temple of Dawn>
+[Fri Aug 17 15:11:00 2001] [ANONYMOUS] Odysel  <Blackgrass Raiders>
+[Fri Aug 17 15:11:00 2001] [42 Druid] Lani (Wood Elf) <Ronins>
+[Fri Aug 17 15:11:00 2001] [51 Vicar] Gloromund (High Elf) <Renaissance>
+[Fri Aug 17 15:11:00 2001] [42 Monk] Geiden (Human) <Adepts>
+[Fri Aug 17 15:11:00 2001] [50 Wizard] Syrrus (Erudite) <Menestrels>
+[Fri Aug 17 15:11:01 2001] [52 Pathfinder] Talyon (Half Elf) <United Guardians>
+[Fri Aug 17 15:11:01 2001] [43 Paladin] Zarik (Half Elf) <Honorbound Elite>
+[Fri Aug 17 15:11:01 2001] [35 Druid] Neiny (Unknown) <Kingdom of Steel>
+[Fri Aug 17 15:11:01 2001] [35 Shaman] Bemiss (Troll) <Nature's Fury>
+[Fri Aug 17 15:11:01 2001] [54 Heretic] Azmokar (Dark Elf)
+[Fri Aug 17 15:11:01 2001] [38 Bard] Teluvian (Wood Elf) <Restless Virtues>
+[Fri Aug 17 15:11:01 2001] [ANONYMOUS] Eileena  <The Avant Guard>
+[Fri Aug 17 15:11:01 2001] [48 Ranger] Moonsad (Unknown) <Renaissance>
+[Fri Aug 17 15:11:01 2001] [ANONYMOUS] Himeno 
+[Fri Aug 17 15:11:01 2001] [ANONYMOUS] Nacl 
+[Fri Aug 17 15:11:01 2001] [ANONYMOUS] Toppie  <Revered Souls>
+[Fri Aug 17 15:11:01 2001] [39 Druid] Tayval (Unknown) <Knights of Arcane Lore>
+[Fri Aug 17 15:11:01 2001] [40 Rogue] Kylib (Dark Elf) <House Rea`Morda>
+[Fri Aug 17 15:11:01 2001] [ANONYMOUS] Kanami 
+[Fri Aug 17 15:11:01 2001] [52 Mystic] Dwoknor (Barbarian) <Hall of Heroes>
+[Fri Aug 17 15:11:01 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Fri Aug 17 15:11:01 2001] There are 42 players in Eastern Wastes.
+[Fri Aug 17 15:11:17 2001] You say, 'where were you bound? can you just gate back there?'
+[Fri Aug 17 15:11:25 2001] Bemiss says, 'Eastern wastes'
+[Fri Aug 17 15:11:33 2001] Bemiss says, 'Around here somewher'
+[Fri Aug 17 15:11:44 2001] You say, 'ah - just gate back then, you should be able to get out that way.'
+[Fri Aug 17 15:11:52 2001] Bemiss says, 'Ok thanks'
+[Fri Aug 17 15:11:54 2001] DELETING THIS PETITION
+[Fri Aug 17 15:11:57 2001] Bemiss bows before Espranza.
+[Fri Aug 17 15:11:58 2001] You beam a smile at Bemiss.
+[Fri Aug 17 15:11:59 2001] Allamir auctions, 'wts spider fur cloak ac 10 str/ats 4 svc6'
+[Fri Aug 17 15:11:59 2001] Bemiss thanks Espranza heartily.
+[Fri Aug 17 15:12:00 2001] Allamir auctions, 'wts crystal covered shroud ac12 str/wis/int4 svm10'
+[Fri Aug 17 15:12:07 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 15:12:08 2001] USER TEXT: having game trouble I have accedently sold my weapon to the Vendor In East Commons i have the money he gave me for it but i want the weapon back
+[Fri Aug 17 15:12:08 2001] Players in EverQuest:
+[Fri Aug 17 15:12:08 2001] ---------------------------
+[Fri Aug 17 15:12:08 2001] [8 Enchanter] Kenutherain (High Elf) ZONE: gfaydark (USER PID CQGTZ07)
+[Fri Aug 17 15:12:08 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:12:26 2001] Dalyan tells you, 'Thanks )'
+[Fri Aug 17 15:13:09 2001] Nacl shouts, 'here comes a snow cougar and all its friends...beware'
+[Fri Aug 17 15:13:30 2001] Nacl shouts, 'here comes a snow cougar and all its friends...beware'
+[Fri Aug 17 15:13:32 2001] Bemiss says, 'Was having trouble finding my spell hehe'
+[Fri Aug 17 15:13:34 2001] Bemiss begins to cast a spell. (Gate)
+[Fri Aug 17 15:13:36 2001] You told Kenutherain, 'Hail, Brothey! Guide Espranza here. Unfortunately, once an item is sold, it is sold - sometimes the vendor will sell it back to you, other times he has too much in stock to make the item available for purchase.'
+[Fri Aug 17 15:13:38 2001] You wave goodbye to Bemiss.
+[Fri Aug 17 15:13:39 2001] Bemiss fades away.
+[Fri Aug 17 15:14:39 2001] DELETING THIS PETITION
+[Fri Aug 17 15:14:40 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 15:14:42 2001] USER TEXT: i zoned into com and am now dead with no body at zone entrance please help
+[Fri Aug 17 15:14:43 2001] Players in EverQuest:
+[Fri Aug 17 15:14:43 2001] ---------------------------
+[Fri Aug 17 15:14:43 2001] [ANON (48 Druid)] Gromler (Halfling) ZONE: emeraldjungle (USER PID AVTP3WH)
+[Fri Aug 17 15:14:43 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:14:48 2001] Searching zones for corpse of that name....
+[Fri Aug 17 15:14:49 2001] Corpse: Gromler's corpse0 in zone: emeraldjungle
+[Fri Aug 17 15:14:52 2001] You GMSAY, 'zone'
+[Fri Aug 17 15:14:56 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 15:15:27 2001] You have entered The Emerald Jungle.
+[Fri Aug 17 15:15:32 2001] It begins to rain.
+[Fri Aug 17 15:15:33 2001] Teleporting to gromler's corpse0.
+[Fri Aug 17 15:15:56 2001] Oraden GMSAYS, 'opinions... would a 36 druid fully dressed camp out with a corpse at neg 1 by pos 1 in the overthere? (very odd loc) And would it be suspecious that their DOTopt file was missing?'
+[Fri Aug 17 15:16:20 2001] Lirus GMSAYS, 'DOT opt?'
+[Fri Aug 17 15:16:38 2001] Oraden GMSAYS, 'the character option files for this character....'
+[Fri Aug 17 15:16:48 2001] You told Gromler, 'Hail, Gromler! Guide Espranza here. Were you being attacked when you zoned into CoM?'
+[Fri Aug 17 15:16:59 2001] Players in EverQuest:
+[Fri Aug 17 15:16:59 2001] ---------------------------
+[Fri Aug 17 15:16:59 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: emeraldjungle (USER PID AUGBQH4)
+[Fri Aug 17 15:16:59 2001] * Guide *[50 Bard] Kizra (Human) ZONE: charasis (USER PID AUUWKPN)
+[Fri Aug 17 15:16:59 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: overthere (USER PID HUUXAGY)
+[Fri Aug 17 15:16:59 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 15:16:59 2001] There are 4 players in EverQuest.
+[Fri Aug 17 15:17:00 2001] Oraden GMSAYS, 'seems unlikely to find a corpse at -1, 1 doesn't it?'
+[Fri Aug 17 15:17:02 2001] Lirus GMSAYS, 'that seems a little weird yes.'
+[Fri Aug 17 15:17:05 2001] Oraden GMSAYS, 'Greets Liurs'
+[Fri Aug 17 15:17:26 2001] Lirus GMSAYS, 'zone'
+[Fri Aug 17 15:17:39 2001] Players in EverQuest:
+[Fri Aug 17 15:17:39 2001] ---------------------------
+[Fri Aug 17 15:17:39 2001] [ANON (48 Druid)] Gromler (Halfling) ZONE: emeraldjungle (USER PID AVTP3WH)
+[Fri Aug 17 15:17:39 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:17:41 2001] Kizra GMSAYS, 'I'd say it is rather odd'
+[Fri Aug 17 15:17:43 2001] Teleporting to gromler.
+[Fri Aug 17 15:17:44 2001] Oraden GMSAYS, 'given the (roughly) 0 by 0 loc I am inclined to resurrect as a bugged death....'
+[Fri Aug 17 15:17:59 2001] Players in EverQuest:
+[Fri Aug 17 15:17:59 2001] ---------------------------
+[Fri Aug 17 15:17:59 2001] [ANON (48 Druid)] Gromler (Halfling) ZONE: emeraldjungle (USER PID AVTP3WH)
+[Fri Aug 17 15:17:59 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:18:18 2001] Teleporting to Gromler's corpse0 (-1666.22, 3229.33, -311.77).
+[Fri Aug 17 15:18:23 2001] Teleporting to gromler.
+[Fri Aug 17 15:18:38 2001] Oraden GMSAYS, 'given the (roughly) 0 by 0 loc I am inclined to resurrect as a bugged death.... (that ok with you Lirus?)'
+[Fri Aug 17 15:18:42 2001] Players in EverQuest:
+[Fri Aug 17 15:18:42 2001] ---------------------------
+[Fri Aug 17 15:18:42 2001] [ANON (48 Druid)] Gromler (Halfling) ZONE: emeraldjungle (USER PID AVTP3WH)
+[Fri Aug 17 15:18:42 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:18:48 2001] Searching for gromler.
+[Fri Aug 17 15:18:48 2001] Player is in zone emeraldjungle at x = 314 y = -1967 z = -331.
+[Fri Aug 17 15:18:55 2001] Kizra GMSAYS, 'zone'
+[Fri Aug 17 15:19:08 2001] Lirus GMSAYS, 'that's fine Oraden'
+[Fri Aug 17 15:19:32 2001] Teleporting to Gromler (272.00, -1864.00, -326.00).
+[Fri Aug 17 15:19:43 2001] You wave at Gromler.
+[Fri Aug 17 15:19:44 2001] Gromler says, 'Hail, Espranza'
+[Fri Aug 17 15:19:51 2001] You told Gromler, 'Hail, Gromler! Guide Espranza here. Were you being attacked when you zoned into CoM?'
+[Fri Aug 17 15:19:55 2001] Gromler says, 'i zoned to right here my bind point'
+[Fri Aug 17 15:20:04 2001] Gromler says, 'headed for zone and hit it'
+[Fri Aug 17 15:20:15 2001] Gromler says, 'then 3 sec later it says disconnected'
+[Fri Aug 17 15:20:15 2001] You say, 'Were you being attacked?'
+[Fri Aug 17 15:20:39 2001] Carnis is looking at your equipment...
+[Fri Aug 17 15:20:40 2001] Gromler says, 'right when i got to my bind it says i was but my body is no were around'
+[Fri Aug 17 15:20:51 2001] Gromler says, 'between here and zone'
+[Fri Aug 17 15:21:02 2001] You say, 'It's laying out in the jungle.'
+[Fri Aug 17 15:21:11 2001] Gromler says, 'bug then'
+[Fri Aug 17 15:21:13 2001] Gromler's spell fizzles!
+[Fri Aug 17 15:21:18 2001] Gromler says, 'cause i made the port'
+[Fri Aug 17 15:21:20 2001] Gromler begins to cast a spell. (Gate)
+[Fri Aug 17 15:21:25 2001] Gromler fades away.
+[Fri Aug 17 15:21:31 2001] Gromler says, 'headed fror zone'
+[Fri Aug 17 15:21:36 2001] Gromler says, 'then hit zone'
+[Fri Aug 17 15:21:44 2001] Gromler says, 'game stopped like i hit zone'
+[Fri Aug 17 15:21:58 2001] Gromler says, 'then 3 sec later it said your disconnected'
+[Fri Aug 17 15:22:08 2001] Gromler says, 'come back no body and dead'
+[Fri Aug 17 15:22:15 2001] Gromler ponders the matters at hand.
+[Fri Aug 17 15:22:19 2001] Gromler cry's.
+[Fri Aug 17 15:22:24 2001] Dalyan tells you, 'Thanks for your help we have it )'
+[Fri Aug 17 15:22:49 2001] You GMSAY, 'Lirus, a player here says he tried to zone into CoM but was disconnected, and his dead body is out in Emerald Jungle. He can't make a report because of the disconnection... I've seen this before but dunno how to verify without a report. Anything ideas'
+[Fri Aug 17 15:22:54 2001] Gromler says, 'oh please espranza i have no reason to lie '
+[Fri Aug 17 15:22:55 2001] You told Dalyan, 'wonderful!'
+[Fri Aug 17 15:22:59 2001] Kizra GMSAYS, 'Can somebody please give me the abridged version on the steps needed to start a guild?  It still confuses me and I'd rather not confuse this poor petitioner lol'
+[Fri Aug 17 15:23:07 2001] Gromler says, 'if i had a chance i would have reported it'
+[Fri Aug 17 15:23:08 2001] Lirus GMSAYS, 'make a /report of what?'
+[Fri Aug 17 15:23:08 2001] Carnis begins to cast a spell. (Superior Healing)
+[Fri Aug 17 15:23:11 2001] You say, 'Aye, I am asking the GM if there is someway he can confirm this.'
+[Fri Aug 17 15:23:12 2001] Carnis feels much better.
+[Fri Aug 17 15:23:17 2001] Oraden GMSAYS, 'chat help button has full details'
+[Fri Aug 17 15:23:21 2001] Gromler says, 'but screen wiped out with diconnect'
+[Fri Aug 17 15:23:23 2001] Lirus GMSAYS, 'have them go to www.everquest.com and read on it'
+[Fri Aug 17 15:23:26 2001] Gromler says, 'ok'
+[Fri Aug 17 15:23:28 2001] Lirus GMSAYS, 'or chat'
+[Fri Aug 17 15:23:31 2001] Kizra GMSAYS, 'thanks =)'
+[Fri Aug 17 15:23:53 2001] You GMSAY, 'That he was zoning out of EJ to CoM normally, but crashed and died.'
+[Fri Aug 17 15:24:14 2001] You GMSAY, 'We don't rez for crashes, but if he legitimatily had zoned...'
+[Fri Aug 17 15:24:22 2001] Gromler says, 'heck if i know realin i ported to here and then hit zone and died'
+[Fri Aug 17 15:24:23 2001] Oraden GMSAYS, 'hehe. Lirus are you an officer? Kizra needs an invite to the new guild ;)'
+[Fri Aug 17 15:24:33 2001] Lirus GMSAYS, 'zone'
+[Fri Aug 17 15:24:46 2001] Gromler says, 'lost my level and such as well'
+[Fri Aug 17 15:24:47 2001] Realin says, 'ouch'
+[Fri Aug 17 15:24:48 2001] Players in EverQuest:
+[Fri Aug 17 15:24:48 2001] ---------------------------
+[Fri Aug 17 15:24:48 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 15:24:48 2001] * Guide *[50 Bard] Kizra (Human) ZONE: cshome (USER PID AUUWKPN)
+[Fri Aug 17 15:24:48 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: emeraldjungle (USER PID AUGBQH4)
+[Fri Aug 17 15:24:48 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: overthere (USER PID HUUXAGY)
+[Fri Aug 17 15:24:48 2001] There are 4 players in EverQuest.
+[Fri Aug 17 15:24:49 2001] Kizra GMSAYS, 'Oh yeah!  lol, I'd forgotten all about it'
+[Fri Aug 17 15:24:55 2001] Realin says, 'double ouch'
+[Fri Aug 17 15:25:03 2001] Players in EverQuest:
+[Fri Aug 17 15:25:03 2001] ---------------------------
+[Fri Aug 17 15:25:03 2001] [45 Druid] Realin (Human) <Civis Macto> ZONE: emeraldjungle (USER PID DXQCUVS)
+[Fri Aug 17 15:25:03 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:25:05 2001] Gromler says, 'died for 10k just 2 hours ago'
+[Fri Aug 17 15:25:08 2001] Lirus tells the guild, 'welcome)'
+[Fri Aug 17 15:25:10 2001] Kizra tells the guild, 'thanks'
+[Fri Aug 17 15:25:15 2001] You say to your guild, 'Hiya Kizra!'
+[Fri Aug 17 15:25:18 2001] Gromler says, 'dropping into Gd'
+[Fri Aug 17 15:25:19 2001] Realin begins to cast a spell. (Chloroplast)
+[Fri Aug 17 15:25:21 2001] Players in EverQuest:
+[Fri Aug 17 15:25:21 2001] ---------------------------
+[Fri Aug 17 15:25:21 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 15:25:21 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: cshome (USER PID AUUWKPN)
+[Fri Aug 17 15:25:21 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: emeraldjungle (USER PID AUGBQH4)
+[Fri Aug 17 15:25:21 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: overthere (USER PID HUUXAGY)
+[Fri Aug 17 15:25:21 2001] There are 4 players in EverQuest.
+[Fri Aug 17 15:25:22 2001] Kizra tells the guild, 'Hiya!  <grin>'
+[Fri Aug 17 15:25:25 2001] Realin begins to regenerate.
+[Fri Aug 17 15:25:27 2001] Gromler sulk's.
+[Fri Aug 17 15:25:33 2001] Espranza saved.
+[Fri Aug 17 15:25:46 2001] Oraden GMSAYS, 'but, as an aside, 10 people in chat do #guildapprove (name), then Chat GM verifies, then they get approval letter by email, then we count noses, then Lirus creates ;)'
+[Fri Aug 17 15:25:51 2001] Gromler says, 'yegh but shouldnt need levi to port'
+[Fri Aug 17 15:26:02 2001] Realin says, 'true'
+[Fri Aug 17 15:26:02 2001] You no longer have a target.
+[Fri Aug 17 15:26:06 2001] Players in EverQuest:
+[Fri Aug 17 15:26:06 2001] ---------------------------
+[Fri Aug 17 15:26:06 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 15:26:06 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: cshome (USER PID AUUWKPN)
+[Fri Aug 17 15:26:07 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: emeraldjungle (USER PID AUGBQH4)
+[Fri Aug 17 15:26:07 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: overthere (USER PID HUUXAGY)
+[Fri Aug 17 15:26:07 2001] There are 4 players in EverQuest.
+[Fri Aug 17 15:26:07 2001] Gromler says, 'last time i checked but the other gm handled it quick'
+[Fri Aug 17 15:26:15 2001] Gromler says, 'said my body was under the world'
+[Fri Aug 17 15:26:21 2001] Gromler says, 'lol'
+[Fri Aug 17 15:26:31 2001] You say, 'yeah, under the world bodies are pretty definitely bugged.'
+[Fri Aug 17 15:26:32 2001] Jixatz says out of character, 'Hey!'
+[Fri Aug 17 15:26:41 2001] Oraden GMSAYS, 'LIRUS, this guy went LD, came back, now he's at 0,0 .... *shudder*'
+[Fri Aug 17 15:26:47 2001] Players in EverQuest:
+[Fri Aug 17 15:26:47 2001] ---------------------------
+[Fri Aug 17 15:26:47 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 15:26:47 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: cshome (USER PID AUUWKPN)
+[Fri Aug 17 15:26:47 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: emeraldjungle (USER PID AUGBQH4)
+[Fri Aug 17 15:26:47 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: overthere (USER PID HUUXAGY)
+[Fri Aug 17 15:26:47 2001] There are 4 players in EverQuest.
+[Fri Aug 17 15:27:00 2001] Jixatz says out of character, 'Anyone up to killing a really tough enemy?'
+[Fri Aug 17 15:27:07 2001] Lirus GMSAYS, 'alive at that loc?'
+[Fri Aug 17 15:27:07 2001] Gromler says, 'any answer mam?'
+[Fri Aug 17 15:27:12 2001] Kizra GMSAYS, 'That's what I had thought.  I'm guessing this pet is just a bit wound up lol'
+[Fri Aug 17 15:27:26 2001] Oraden GMSAYS, 'i tried to summon him... he hasn't died yet....'
+[Fri Aug 17 15:27:27 2001] You told Gromler, 'I'm sorry, apparently we cannot rez for crashes under any circumstance.'
+[Fri Aug 17 15:27:38 2001] Lirus GMSAYS, 'no need to summon him'
+[Fri Aug 17 15:27:51 2001] Lirus GMSAYS, 'he was placed at the "safespot"'
+[Fri Aug 17 15:27:53 2001] Gromler tells you, 'can you let me have my body at least then?'
+[Fri Aug 17 15:27:55 2001] Kizra GMSAYS, 'zone'
+[Fri Aug 17 15:27:56 2001] Summoning gromler's corpse0.
+[Fri Aug 17 15:28:00 2001] Lirus GMSAYS, 'if he is not dead, let him be'
+[Fri Aug 17 15:28:02 2001] Gromler thanks Espranza heartily.
+[Fri Aug 17 15:28:09 2001] You say, 'be well - and be careful!'
+[Fri Aug 17 15:28:11 2001] Gromler says, 'thats better than nothing i guess thank you mam'
+[Fri Aug 17 15:28:12 2001] DELETING THIS PETITION
+[Fri Aug 17 15:28:16 2001] Gromler bows before Espranza.
+[Fri Aug 17 15:28:17 2001] You bow before Gromler.
+[Fri Aug 17 15:28:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 15:28:20 2001] USER TEXT: I was told to send a reminder of Sunryse's and my wedding a hour before it started
+[Fri Aug 17 15:28:20 2001] Players in EverQuest:
+[Fri Aug 17 15:28:20 2001] ---------------------------
+[Fri Aug 17 15:28:20 2001] [14 Druid] Tyosi (Wood Elf) <Revered Souls> ZONE: butcher (USER PID CZGCUFD)
+[Fri Aug 17 15:28:20 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:28:32 2001] CHECKING IN
+[Fri Aug 17 15:28:35 2001] Oraden GMSAYS, '0 0 isn't safe... *shudder* ... there's 8 million scorpions there ;)'
+[Fri Aug 17 15:28:39 2001] It is 10 AM on Thursday, the 5th day of March, of the year 3212.
+[Fri Aug 17 15:28:39 2001] Earth Time: Fri Aug 17 15:28:39 2001
+[Fri Aug 17 15:28:47 2001] Lirus GMSAYS, 'in OT?'
+[Fri Aug 17 15:28:47 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 15:28:48 2001] USER TEXT: hello, i just logged on..and my screen was all grey, and a couple seconds later i fell to my death.  I did get some sort of moving to safe point message, but that didnt work..and i was wondering if a rez would be possible?
+[Fri Aug 17 15:28:48 2001] Players in EverQuest:
+[Fri Aug 17 15:28:48 2001] ---------------------------
+[Fri Aug 17 15:28:48 2001] [57 Preserver] Mesotron (Wood Elf) <Thunderwalkers> ZONE: thurgadina (USER PID BP9WVJ4)
+[Fri Aug 17 15:28:48 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:28:48 2001] Lirus GMSAYS, 'ahh'
+[Fri Aug 17 15:28:59 2001] Searching zones for corpse of that name....
+[Fri Aug 17 15:29:00 2001] Corpse: Mesotron's corpse0 in zone: butcher
+[Fri Aug 17 15:29:02 2001] You GMSAY, 'zone'
+[Fri Aug 17 15:29:05 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 15:29:36 2001] You have entered Butcherblock Mountains.
+[Fri Aug 17 15:29:41 2001] It begins to rain.
+[Fri Aug 17 15:29:41 2001] Kendro GMSAYS, 'howdy'
+[Fri Aug 17 15:29:46 2001] Teleporting to mesotron's corpse0.
+[Fri Aug 17 15:29:53 2001] You GMSAY, 'hullo, evil one'
+[Fri Aug 17 15:29:55 2001] Players in EverQuest:
+[Fri Aug 17 15:29:55 2001] ---------------------------
+[Fri Aug 17 15:29:55 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: cabeast (USER PID AUUWKPN)
+[Fri Aug 17 15:29:55 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: butcher (USER PID AUGBQH4)
+[Fri Aug 17 15:29:55 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) <Unknown Guild> ZONE: hole (USER PID EUGB4P0)
+[Fri Aug 17 15:29:55 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 15:29:55 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: overthere (USER PID HUUXAGY)
+[Fri Aug 17 15:29:55 2001] There are 5 players in EverQuest.
+[Fri Aug 17 15:29:55 2001] Oraden GMSAYS, 'he went LD again.'
+[Fri Aug 17 15:29:58 2001] Senelwen says, 'Ahh'
+[Fri Aug 17 15:30:03 2001] Kendro GMSAYS, 'hello esp... how's it?'
+[Fri Aug 17 15:30:05 2001] Searching zones for corpse of that name....
+[Fri Aug 17 15:30:05 2001] Corpse: Mesotron's corpse0 in zone: butcher
+[Fri Aug 17 15:30:14 2001] Oraden GMSAYS, 'I think he's got a rather serious bug ;)'
+[Fri Aug 17 15:30:16 2001] Kizra GMSAYS, 'zone'
+[Fri Aug 17 15:30:16 2001] Senelwen says, 'That must be hard, getting all the way from Thurgadin'
+[Fri Aug 17 15:30:22 2001] You GMSAY, 'pretty good'
+[Fri Aug 17 15:30:29 2001] Senelwen says, 'Ow well'
+[Fri Aug 17 15:30:30 2001] Teleporting to Mesotron's corpse0 (2550.00, -699.00,   2.50).
+[Fri Aug 17 15:30:40 2001] USER TEXT: hello, i just logged on..and my screen was all grey, and a couple seconds later i fell to my death.  I did get some sort of moving to safe point message, but that didnt work..and i was wondering if a rez would be possible?
+[Fri Aug 17 15:30:41 2001] Oraden GMSAYS, 'Greets Kendro.'
+[Fri Aug 17 15:31:08 2001] Kendro GMSAYS, 'who's doin' the wedding?'
+[Fri Aug 17 15:31:25 2001] You told Mesotron, 'Hail, Mesotron! Guide Espranza here. Can you scroll back in your chat buffer and make a report showing the zoning and moving to safe point messages?'
+[Fri Aug 17 15:31:34 2001] You feel the spirit of Norrath enter you.
+[Fri Aug 17 15:31:34 2001] Mesotron tells you, 'sure...do i just type/report?'
+[Fri Aug 17 15:31:38 2001] Oraden tells the guild, 'i HOPE he's smart enough to log in a second character and send me a tell.... cause if he logs in this scorpion is giong to EAT him. ;)'
+[Fri Aug 17 15:31:41 2001] Kizra GMSAYS, 'if it is Sunryse, I am'
+[Fri Aug 17 15:31:53 2001] Kizra tells the guild, 'rofl'
+[Fri Aug 17 15:31:54 2001] Kendro GMSAYS, 'looks like there gonna do a raid on the Hole...'
+[Fri Aug 17 15:31:56 2001] You told Mesotron, 'once you have the relevant text showing in your chat window, do /report Mesotron'
+[Fri Aug 17 15:32:03 2001] Kendro GMSAYS, 'ah, okay'
+[Fri Aug 17 15:32:08 2001] You told Mesotron, 'it has to be within the last ten lines though'
+[Fri Aug 17 15:32:18 2001] Players in EverQuest:
+[Fri Aug 17 15:32:18 2001] ---------------------------
+[Fri Aug 17 15:32:18 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) ZONE: paineel (USER PID EUGB4P0)
+[Fri Aug 17 15:32:18 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: fieldofbone (USER PID AUUWKPN)
+[Fri Aug 17 15:32:18 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: butcher (USER PID AUGBQH4)
+[Fri Aug 17 15:32:19 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 15:32:19 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: overthere (USER PID HUUXAGY)
+[Fri Aug 17 15:32:19 2001] There are 5 players in EverQuest.
+[Fri Aug 17 15:32:30 2001] Kizra GMSAYS, 'Zelyk UZ1'
+[Fri Aug 17 15:32:34 2001] Kizra GMSAYS, 'and UA'
+[Fri Aug 17 15:32:45 2001] Mesotron tells you, 'done...hope that worked'
+[Fri Aug 17 15:32:57 2001] Oraden GMSAYS, 'Zelyk pulled an Uzi on you? gosh and I thought people hated me ;)'
+[Fri Aug 17 15:33:12 2001] You GMSAY, 'Lirus, could you read a report from Mesotron about a bugged port, move to safe point, and fall?'
+[Fri Aug 17 15:33:13 2001] Kendro GMSAYS, 'hey, what's up with the lollipop'
+[Fri Aug 17 15:33:24 2001] Tweggie tells you, 'May I ask a question please'
+[Fri Aug 17 15:33:25 2001] Kendro GMSAYS, 'hey, what's up with the lollipop's on the dwarves in Thurgadin...'
+[Fri Aug 17 15:33:26 2001] Kizra GMSAYS, 'lol, I've heard about that but not seen it'
+[Fri Aug 17 15:33:29 2001] You told Tweggie, 'sure!'
+[Fri Aug 17 15:33:41 2001] Players in EverQuest:
+[Fri Aug 17 15:33:41 2001] ---------------------------
+[Fri Aug 17 15:33:41 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) ZONE: paineel (USER PID EUGB4P0)
+[Fri Aug 17 15:33:41 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: fieldofbone (USER PID AUUWKPN)
+[Fri Aug 17 15:33:41 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: butcher (USER PID AUGBQH4)
+[Fri Aug 17 15:33:41 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 15:33:41 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: overthere (USER PID HUUXAGY)
+[Fri Aug 17 15:33:41 2001] There are 5 players in EverQuest.
+[Fri Aug 17 15:33:48 2001] Oraden GMSAYS, 'doh... forgot to see that.... hope they dont' fix it before i get to see it (and get a few funny screenshots)'
+[Fri Aug 17 15:34:00 2001] Kendro GMSAYS, 'it's really quite funny.... "We represent the lollipop gang, the lollipop gang, the lollipop gang..."'
+[Fri Aug 17 15:34:22 2001] Kendro GMSAYS, 'I'm wondering if  a programer was trying to have some fun...'
+[Fri Aug 17 15:34:33 2001] Tweggie tells you, 'I have a character an Erudite   Shadow Knight and every time I log on with him EQ shut down on me   it did it while I was zoning  now I can't play him at all'
+[Fri Aug 17 15:34:42 2001] Glisse Bluesea shouts 'The Maiden's Voyage has departed the outpost at Firiona Vie.  Please be ready to board the shuttles shortly, if you desire to make the journey to Kunark. 
+[Fri Aug 17 15:35:20 2001] Kendro GMSAYS, 'Lirus, any clue when stonebrunt's going up. The zone line is there, but it kicks you back to the safe point....'
+[Fri Aug 17 15:35:21 2001] Mesotron tells you, 'i had logged on and the screen was all gray..so i cast ring of butcher..at which point i smacked into the ground heh'
+[Fri Aug 17 15:35:22 2001] You told Tweggie, 'in your Everquest folder you'll find a file called charactername_43.opt (or something like that) - try moving that out of your EQ folder and try again. Were you zoning into the Warrens?'
+[Fri Aug 17 15:35:30 2001] Mesotron tells you, 'i didnt manage to cast the spell tho'
+[Fri Aug 17 15:35:32 2001] You GMSAY, 'Lirus, could you read a report from Mesotron about a bugged port, move to safe point, and fall?'
+[Fri Aug 17 15:35:43 2001] You told Mesotron, 'waiting for word from the GM on your report...'
+[Fri Aug 17 15:35:48 2001] Mesotron tells you, 'ok'
+[Fri Aug 17 15:35:52 2001] Tweggie tells you, 'yes I was   is that all I have to do'
+[Fri Aug 17 15:35:56 2001] Dweazette auctions, 'WTS Sm Bonze Breastplate 25PP'
+[Fri Aug 17 15:36:04 2001] You told Tweggie, 'Have you ever entered the Warrens before?'
+[Fri Aug 17 15:36:05 2001] Kizra GMSAYS, 'zone'
+[Fri Aug 17 15:36:16 2001] Tweggie tells you, 'no  it was my first time'
+[Fri Aug 17 15:36:24 2001] Lirus GMSAYS, 'sure gimme a bit though'
+[Fri Aug 17 15:36:26 2001] You told Tweggie, 'Have you downloaded the optional patch?'
+[Fri Aug 17 15:36:47 2001] Tweggie tells you, 'no '
+[Fri Aug 17 15:36:58 2001] Linctus shouts, 'Aplogies TRAIN heading to zone'
+[Fri Aug 17 15:36:59 2001] Linctus shouts, 'Aplogies TRAIN heading to zone'
+[Fri Aug 17 15:37:08 2001] Olgdenn says, 'Hail, Espranza'
+[Fri Aug 17 15:37:18 2001] You told Tweggie, 'Ah.. that's why, you don't have the Warrens on your computer. Do that, and your character will be stuck in a windowless room. petition again and we'll get ya right out of there.'
+[Fri Aug 17 15:37:22 2001] You bow before Olgdenn.
+[Fri Aug 17 15:37:23 2001] You say, 'hello!'
+[Fri Aug 17 15:37:38 2001] You GMSAY, 'zone'
+[Fri Aug 17 15:37:41 2001] Player is beneath the world in butcher at -32000.000000, -32000.000000, -32765.355469, moving to safe point.
+[Fri Aug 17 15:37:58 2001] Tweggie tells you, 'thank you'
+[Fri Aug 17 15:38:00 2001] Oraden GMSAYS, 'we can't summon if they are LD right? (he got back on but LD before I could move him) .... Can his corpse and his character be moved offline to a different zone? (cause either he doesn't HAVE Kunark, or his OT file is BUGGED bad.)'
+[Fri Aug 17 15:38:00 2001] Dannabannana begins to cast a spell. (Furor)
+[Fri Aug 17 15:38:06 2001] You GMSAY, 'Mesotron's corpse is at the safe spot - he's a 57 druid and I doubt he died from anything in Butcherblock. I'm going to rez him.'
+[Fri Aug 17 15:38:34 2001] You told Mesotron, 'I think I'm pretty convinced you had a bug death - ready for a rez?'
+[Fri Aug 17 15:38:39 2001] Mesotron tells you, 'aye'
+[Fri Aug 17 15:38:42 2001] Linctus says out of character, 'Please can i get a TP to WC please anyone'
+[Fri Aug 17 15:38:43 2001] Mesotron tells you, 'and thanks :)'
+[Fri Aug 17 15:38:57 2001] DELETING THIS PETITION
+[Fri Aug 17 15:39:01 2001] Kendro GMSAYS, 'esp, is Mesotron on line?'
+[Fri Aug 17 15:39:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 15:39:01 2001] USER TEXT: ok, I am really getting sick of this....every single time I pull something in the field of bone arena and then it starts to run away, it walks into the wall and turns invisivble...and then attacks me continuously...when there is nothing there...
+[Fri Aug 17 15:39:02 2001] Players in EverQuest:
+[Fri Aug 17 15:39:02 2001] ---------------------------
+[Fri Aug 17 15:39:02 2001] [9 Monk] Zelyk (Iksar) ZONE: fieldofbone (USER PID GN5XXHW)
+[Fri Aug 17 15:39:02 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:39:30 2001] You GMSAY, 'he is now, I just rezzed him. why?'
+[Fri Aug 17 15:39:41 2001] Espranza saved.
+[Fri Aug 17 15:39:43 2001] UNDOING CHECK OUT
+[Fri Aug 17 15:39:46 2001] Kendro GMSAYS, 'ah... I just did a /who all... and didn't see him, that's all...'
+[Fri Aug 17 15:39:52 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 15:39:52 2001] USER TEXT: 4 days ago While I was zoning into Freeport from commons, I got kicked out and found myself staring into server list. When I got back my 2 bag had disappeared.That happened before almost same way
+[Fri Aug 17 15:39:53 2001] Players in EverQuest:
+[Fri Aug 17 15:39:53 2001] ---------------------------
+[Fri Aug 17 15:39:53 2001] [45 Magician] Faradhim (Gnome) <Janissaries> ZONE: paineel (USER PID BWYKK3T)
+[Fri Aug 17 15:39:53 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:39:58 2001] Oraden GMSAYS, 'we can't summon if they are LD right? (he got back on but LD before I could move him) .... Can his corpse and his character be moved offline to a different zone? (cause either he doesn't HAVE Kunark, or his OT file is BUGGED bad.)'
+[Fri Aug 17 15:40:01 2001] Linctus says out of character, 'Please can i get a TP to WC please anyone'
+[Fri Aug 17 15:40:07 2001] You bow before Mesotron.
+[Fri Aug 17 15:40:12 2001] You say, 'best of luck!'
+[Fri Aug 17 15:40:16 2001] You wave goodbye to Mesotron.
+[Fri Aug 17 15:40:18 2001] Mesotron thanks Espranza heartily.
+[Fri Aug 17 15:40:18 2001] You GMSAY, 'zone'
+[Fri Aug 17 15:40:18 2001] Mesotron says, 'thanks :)'
+[Fri Aug 17 15:40:21 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 15:40:53 2001] You have entered The City of Thurgadin.
+[Fri Aug 17 15:40:57 2001] Oraden GMSAYS, 'hmm... not really.... possibly over by shady... let me check my list of /locs though'
+[Fri Aug 17 15:41:04 2001] Kizra GMSAYS, 'thanks'
+[Fri Aug 17 15:41:24 2001] Kizra GMSAYS, 'humans all look the same to me <wink>  Hard to keep track of who goes where...'
+[Fri Aug 17 15:41:41 2001] Glug, glug, glug...  Chrisking takes a drink from a Pod of Water.
+[Fri Aug 17 15:41:45 2001] Teleporting to Guard_Clorn00 (-799.00,  80.00,  12.50).
+[Fri Aug 17 15:41:48 2001] Oraden GMSAYS, 'no luck, i don't have him on the list... if you /kill him check back later, would love to find the loc out ;)'
+[Fri Aug 17 15:41:58 2001] You GMSAY, 'they DO have lollipops!'
+[Fri Aug 17 15:42:07 2001] You GMSAY, 'I WANT A LOLLIPOP!'
+[Fri Aug 17 15:42:31 2001] Oraden tells the guild, '<note note> Altunic_Jartin belongs ???'
+[Fri Aug 17 15:42:32 2001] Kizra GMSAYS, 'lol, I'll let ya know'
+[Fri Aug 17 15:42:40 2001] You say to your guild, 'he wanders'
+[Fri Aug 17 15:42:55 2001] You say to your guild, 'if it's whom I think. he wanders through east commons.'
+[Fri Aug 17 15:43:17 2001] Taking a screenshot...
+[Fri Aug 17 15:43:25 2001] Kizra tells the guild, 'think taking him outta the tunnel might help?'
+[Fri Aug 17 15:43:49 2001] You say to your guild, 'he's used for the soulfire quest I think. yeah, try bringing him to one of the orc camps.'
+[Fri Aug 17 15:43:51 2001] Oraden tells the guild, 'any suggestions on how to de foo-bar this druid that keeps warping to 0 0 in OT and going LD ?'
+[Fri Aug 17 15:43:54 2001] Azmokar says out of character, 'where is the "Lief" to whom I give the Tundra Kodiak Sandwich and napkin'
+[Fri Aug 17 15:44:02 2001] You say to your guild, 'does he have Kunark installed?'
+[Fri Aug 17 15:44:20 2001] Kendro GMSAYS, 'zoning'
+[Fri Aug 17 15:44:26 2001] Oraden tells the guild, 'he's not loggin in an alt so I can ask him =('
+[Fri Aug 17 15:44:28 2001] Mona says out of character, 'in front of the Pally guild'
+[Fri Aug 17 15:44:36 2001] Azmokar says out of character, '"Guard Leif"?'
+[Fri Aug 17 15:44:48 2001] Stardot shouts, 'WTS singel charge SOW potions..'
+[Fri Aug 17 15:44:54 2001] You say to your guild, 'that sounds just like someone who perhaps is using a computer that doesn't have Kunark.'
+[Fri Aug 17 15:45:03 2001] Mona says out of character, 'yep'
+[Fri Aug 17 15:45:09 2001] Azmokar says out of character, 'thanks )'
+[Fri Aug 17 15:45:18 2001] Mona says out of character, 'give him that napkin and the tundra bear sandwich'
+[Fri Aug 17 15:45:23 2001] You have entered an Arena (PvP) area.
+[Fri Aug 17 15:45:26 2001] You have entered an Arena (PvP) area.
+[Fri Aug 17 15:45:27 2001] You have entered an Arena (PvP) area.
+[Fri Aug 17 15:45:27 2001] You have entered an Arena (PvP) area.
+[Fri Aug 17 15:45:31 2001] Azmokar says out of character, 'got back a used napkin.. give to Mordin?'
+[Fri Aug 17 15:45:33 2001] Oraden GMSAYS, 'aye, I think someone deleted EQ and reinstalled it on his comp... cause his opt file was missing too (all his hotkeys and socials were gone)'
+[Fri Aug 17 15:45:36 2001] Mona says out of character, 'y'
+[Fri Aug 17 15:45:43 2001] Azmokar says out of character, 'thanks'
+[Fri Aug 17 15:45:49 2001] You GMSAY, 'sounds more and more likely then'
+[Fri Aug 17 15:46:40 2001] USER TEXT: 4 days ago While I was zoning into Freeport from commons, I got kicked out and found myself staring into server list. When I got back my 2 bag had disappeared.That happened before almost same way
+[Fri Aug 17 15:46:47 2001] Lirus GMSAYS, 'probably his mother lol'
+[Fri Aug 17 15:46:58 2001] Lirus GMSAYS, 'trying to get him to "stop playing that darned game all the time"'
+[Fri Aug 17 15:46:59 2001] Oraden tells the guild, 'ok... wish I could do more for this guy.... but wife will be home shortly and tonight is the 6 month wedding anniversary. =('
+[Fri Aug 17 15:47:13 2001] Lirus tells the guild, 'grats oraden)'
+[Fri Aug 17 15:47:24 2001] You told Faradhim, 'Hail Faradhim! Guide Espranza here. What kind of bags were they, and what was lost within them?'
+[Fri Aug 17 15:47:31 2001] You say to your guild, 'be well Oraden!'
+[Fri Aug 17 15:47:35 2001] Oraden tells the guild, 'I will make good notes in the appended text and escalate him to yellow in case he gets the idea and logs in an alt...'
+[Fri Aug 17 15:47:43 2001] Kizra tells the guild, 'doesn't that just figure!  I went to all the trouble of resetting that npc and some pc killed him for "picking on a pretty girl like you" '
+[Fri Aug 17 15:47:57 2001] You say to your guild, 'LOL!'
+[Fri Aug 17 15:48:00 2001] Players in EverQuest:
+[Fri Aug 17 15:48:00 2001] ---------------------------
+[Fri Aug 17 15:48:00 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) ZONE: fieldofbone (USER PID EUGB4P0)
+[Fri Aug 17 15:48:00 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: thurgadina (USER PID AUGBQH4)
+[Fri Aug 17 15:48:00 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: ecommons (USER PID AUUWKPN)
+[Fri Aug 17 15:48:00 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 15:48:00 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: overthere (USER PID HUUXAGY)
+[Fri Aug 17 15:48:00 2001] There are 5 players in EverQuest.
+[Fri Aug 17 15:48:14 2001] You say to your guild, 'heh... I don't buy that though... I mean, you aren't a haffer...'
+[Fri Aug 17 15:48:18 2001] Faradhim tells you, 'one is 10 slot handmade other one is sewn evil eyebag'
+[Fri Aug 17 15:48:27 2001] Faradhim tells you, 'total 18 or 16 item'
+[Fri Aug 17 15:48:33 2001] Kizra tells the guild, 'Heck, I'm a hideous human!'
+[Fri Aug 17 15:48:39 2001] Oraden tells the guild, 'He lots all his hotkeys and socials (deleted opt file) and every time he comes to overthere he gets warped to 0 by 0 and goes LD. The suspescion is that he needs to reinstall Kunark after someone deleted and reinstalled EQ on him'
+[Fri Aug 17 15:48:40 2001] You told Faradhim, 'can you recall some of the items in them?'
+[Fri Aug 17 15:48:40 2001] Kizra GMSAYS, 'zone'
+[Fri Aug 17 15:48:57 2001] Your protection fades.
+[Fri Aug 17 15:49:01 2001] You feel the spirit of Norrath enter you.
+[Fri Aug 17 15:49:02 2001] You feel the spirit of Z surround you.
+[Fri Aug 17 15:49:04 2001] Stardot shouts, 'WTS single charge sow potions..'
+[Fri Aug 17 15:49:16 2001] Faradhim tells you, 'CR/BCR/CSS/GlowingVeliumAxe/LoamEncrustedAmice/NettedKelpamice/Runewoodgreatstaff/crystallinewebshield'
+[Fri Aug 17 15:49:28 2001] Drakoth shouts, 'is there a warrior guild here?'
+[Fri Aug 17 15:50:00 2001] Oraden GMSAYS, 'due to it NOT being a bug (as far as it looks) don't rez his first corpse (Kildas)'
+[Fri Aug 17 15:50:04 2001] Faradhim tells you, 'and...spiderfangchoker/treegiatslayer/2  crystallized blade 2 2handed crystal sword'
+[Fri Aug 17 15:50:05 2001] Oraden GMSAYS, 'Ghosting from one ZONE to the next  ...'
+[Fri Aug 17 15:50:07 2001] Faradhim tells you, 'and some others'
+[Fri Aug 17 15:50:10 2001] Josalin auctions, 'wts 39 necro pet spell 65p.'
+[Fri Aug 17 15:50:10 2001] Lirus GMSAYS, 'zone'
+[Fri Aug 17 15:50:14 2001] Kendro GMSAYS, 'marking zelyk unavail, 2nd time.'
+[Fri Aug 17 15:50:18 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Fri Aug 17 15:50:20 2001] GM TEXT: Espranza: Lost handmade backpack, evil eye bag, CR, BCR, CSS, glowing velium axe, loam encusted amice, netted kelp amice, runewood staff, cystalline web shield, etc.
+[Fri Aug 17 15:50:36 2001] Faradhim tells you, 'Lirus had solved that problem once again . happened same way'
+[Fri Aug 17 15:50:51 2001] You GMSAY, 'esc Faradhim, two bags lost while zoning and crashing, some of the many items lost appended. The bags were not summoned.'
+[Fri Aug 17 15:50:53 2001] STATUS UPGRADED TO URGENT
+[Fri Aug 17 15:50:53 2001] STATUS UPGRADED TO EMERGENCY
+[Fri Aug 17 15:50:55 2001] CHECKING IN
+[Fri Aug 17 15:50:57 2001] Espranza saved.
+[Fri Aug 17 15:51:22 2001] You told Faradhim, 'I've escalated your petition for Lirus' attention, he should be with your shortly. Be well!'
+[Fri Aug 17 15:51:31 2001] It is 5 PM on Thursday, the 5th day of March, of the year 3212.
+[Fri Aug 17 15:51:31 2001] Earth Time: Fri Aug 17 15:51:31 2001
+[Fri Aug 17 15:51:33 2001] Faradhim tells you, 'thanks espranza ! '
+[Fri Aug 17 15:51:39 2001] You told Faradhim, 'you're welcome!'
+[Fri Aug 17 15:51:47 2001] Players in EverQuest:
+[Fri Aug 17 15:51:47 2001] ---------------------------
+[Fri Aug 17 15:51:47 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: lakeofillomen (USER PID CW1ECN5)
+[Fri Aug 17 15:51:47 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: thurgadina (USER PID HUUXAGY)
+[Fri Aug 17 15:51:47 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: cshome (USER PID AUUWKPN)
+[Fri Aug 17 15:51:47 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) ZONE: fieldofbone (USER PID EUGB4P0)
+[Fri Aug 17 15:51:47 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: thurgadina (USER PID AUGBQH4)
+[Fri Aug 17 15:51:47 2001] There are 5 players in EverQuest.
+[Fri Aug 17 15:51:47 2001] Kizra GMSAYS, 'going anon and invis for investigation <evil grin>'
+[Fri Aug 17 15:51:54 2001] Kizra GMSAYS, 'zone'
+[Fri Aug 17 15:51:56 2001] Teleporting to oraden.
+[Fri Aug 17 15:52:06 2001] You hug Oraden.
+[Fri Aug 17 15:52:29 2001] Oraden says, 'I don't see lollipops. *pout*'
+[Fri Aug 17 15:52:32 2001] You no longer have a target.
+[Fri Aug 17 15:52:32 2001] You no longer have a target.
+[Fri Aug 17 15:52:35 2001] You say, 'come here'
+[Fri Aug 17 15:52:52 2001] Teleporting to Guard_Fjola00 (-819.00,  80.00,  12.50).
+[Fri Aug 17 15:52:56 2001] Stardot auctions, 'WTB plat jasper ring..'
+[Fri Aug 17 15:52:58 2001] Summoning oraden.
+[Fri Aug 17 15:52:59 2001] Mishan says out of character, 'who do you turn in giant toes to?'
+[Fri Aug 17 15:53:08 2001] Nallyah says out of character, 'Loremaster Bronnanin'
+[Fri Aug 17 15:53:09 2001] Oraden rolls on the floor laughing at Espranza.
+[Fri Aug 17 15:53:14 2001] Oraden dies laughing.
+[Fri Aug 17 15:53:17 2001] Nallyah says out of character, 'next to grandmaster thor'
+[Fri Aug 17 15:53:18 2001] You say, 'I want at least one!'
+[Fri Aug 17 15:53:32 2001] You say to your guild, 'So what does a gal have to do in this join to get a lollipop?'
+[Fri Aug 17 15:53:38 2001] Azlinn says out of character, 'what do you do with giant heads?'
+[Fri Aug 17 15:53:53 2001] Lieutenant Ulfur looks your way apprehensively -- he appears to be quite formidable.
+[Fri Aug 17 15:53:57 2001] Stardot auctions, 'WTS gaunts of power +5 str and +20 hpts..'
+[Fri Aug 17 15:54:00 2001] Oraden tells the guild, 'that's TOO TOO funny.'
+[Fri Aug 17 15:54:10 2001] Lirus tells the guild, 'I dunno but I want one too'
+[Fri Aug 17 15:54:16 2001] Oraden GMSAYS, 'ok, time to go make a shift report i guess'
+[Fri Aug 17 15:54:46 2001] Grumpyz auctions, 'WTS Jaundiced Bone Vambraces, SHM only, 2kpp'
+[Fri Aug 17 15:54:57 2001] Grumpyz auctions, 'WTS Spell: Celestial Healing, CLR 44, 300pp'
+[Fri Aug 17 15:54:57 2001] Stardot auctions, 'WTS single charge SWO potions..'
+[Fri Aug 17 15:55:07 2001] You GMSAY, 'later Oraden!'
+[Fri Aug 17 15:55:12 2001] Players in EverQuest:
+[Fri Aug 17 15:55:12 2001] ---------------------------
+[Fri Aug 17 15:55:12 2001] * Guide *[ANON (50 Bard)] Kizra (Human) ZONE: gfaydark (USER PID AUUWKPN)
+[Fri Aug 17 15:55:12 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: lakeofillomen (USER PID CW1ECN5)
+[Fri Aug 17 15:55:12 2001] * Guide *[50 Ranger] Oraden (Human) <Keepers of Dreams> ZONE: thurgadina (USER PID HUUXAGY)
+[Fri Aug 17 15:55:12 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) ZONE: fieldofbone (USER PID EUGB4P0)
+[Fri Aug 17 15:55:12 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: thurgadina (USER PID AUGBQH4)
+[Fri Aug 17 15:55:12 2001] There are 5 players in EverQuest.
+[Fri Aug 17 15:55:15 2001] Grumpyz auctions, 'WTS Stein of Tears, +5 WIS/INT/CHA/STA, +25 Mana, 2kpp'
+[Fri Aug 17 15:55:25 2001] Kendro GMSAYS, 'bye, oraden'
+[Fri Aug 17 15:55:27 2001] Oraden tells the guild, '<note issue> Kildas (CNSXLDK) apparently had his EQ files deleted and reinstalled. Apparently forgot to reinstall Kunark, as they warp to 0 0 in overthere and go LD whenever they zone in. Hope he logs in an alt and gets informed of what is happening.'
+[Fri Aug 17 15:55:28 2001] Grumpyz auctions, 'WTS Clay Guardian Shield AC 25, 50 HP, 2500pp'
+[Fri Aug 17 15:55:29 2001] Oraden GMSAYS, 'Going into the Ghost-realm till I return again.'
+[Fri Aug 17 15:55:40 2001] Kizra GMSAYS, 'Bye Oraden'
+[Fri Aug 17 15:55:58 2001] Cannabulon says, 'Hail, Stardot'
+[Fri Aug 17 15:56:25 2001] Iaenyyen begins to cast a spell. (Bravery)
+[Fri Aug 17 15:56:33 2001] Azlinn shouts, 'what do i do with giant heads?'
+[Fri Aug 17 15:56:39 2001] Kyri says out of character, 'Give them to Kyri'
+[Fri Aug 17 15:56:48 2001] Fanlain says out of character, 'LOL Kyri'
+[Fri Aug 17 15:56:51 2001] Kendro GMSAYS, 'zoning'
+[Fri Aug 17 15:56:53 2001] Lefia says out of character, 'ha'
+[Fri Aug 17 15:56:54 2001] Cannabulon shrinks.
+[Fri Aug 17 15:56:55 2001] Chrisking says, 'WTF Y0 j00 s0x0r'
+[Fri Aug 17 15:57:06 2001] Grumpyz auctions, 'WTS Stein of Tears, +5 WIS/INT/CHA/STA, +25 Mana, 2kpp'
+[Fri Aug 17 15:57:14 2001] Lefia tells you, '!!'
+[Fri Aug 17 15:57:20 2001] You told Lefia, '??'
+[Fri Aug 17 15:57:23 2001] Cannabulon thanks Stardot heartily.
+[Fri Aug 17 15:57:24 2001] Lefia tells you, 'heh bored'
+[Fri Aug 17 15:57:24 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 15:57:25 2001] USER TEXT: the tocklar battlemaster shopuld be removed from the first floor
+[Fri Aug 17 15:57:25 2001] Players in EverQuest:
+[Fri Aug 17 15:57:25 2001] ---------------------------
+[Fri Aug 17 15:57:25 2001] [24 Paladin] Dinamin (Dwarf) ZONE: cauldron (USER PID CUL1Z5W)
+[Fri Aug 17 15:57:25 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:57:29 2001] Lefia tells you, 'how are ya?'
+[Fri Aug 17 15:57:32 2001] You told Lefia, 'heh okay'
+[Fri Aug 17 15:57:39 2001] Lefia tells you, 'good'
+[Fri Aug 17 15:57:42 2001] You told Lefia, 'Thurgadin makes the perfect racetrack...'
+[Fri Aug 17 15:57:47 2001] Lefia tells you, 'haha'
+[Fri Aug 17 15:58:03 2001] Azlinn says out of character, 'lag'
+[Fri Aug 17 15:58:13 2001] Ucan bows before Espranza.
+[Fri Aug 17 15:58:13 2001] Kizra GMSAYS, 'zone'
+[Fri Aug 17 15:58:16 2001] Mordin Frostcleaver says 'Hello there Ucan, how about a nice Pickled Gator?'
+[Fri Aug 17 15:58:24 2001] Mordin Frostcleaver says 'Greetings Greezy you look like you could use a Torch'
+[Fri Aug 17 15:58:40 2001] You told Dinamin, 'Dinamin is not online at this time.'
+[Fri Aug 17 15:58:53 2001] Players in EverQuest:
+[Fri Aug 17 15:58:53 2001] ---------------------------
+[Fri Aug 17 15:58:53 2001] [24 Paladin] Dinamin (Dwarf) ZONE: unrest (USER PID CUL1Z5W)
+[Fri Aug 17 15:58:53 2001] There is 1 player in EverQuest.
+[Fri Aug 17 15:59:07 2001] You told Dinamin, 'Hail, Dinamin! Guide Espranza here. Which zone is the Tocklar Battlemaster in? Is he in Unrest?'
+[Fri Aug 17 15:59:16 2001] Dinamin tells you, 'yes he is'
+[Fri Aug 17 15:59:28 2001] You GMSAY, 'zone'
+[Fri Aug 17 15:59:31 2001] Glenndarius begins to cast a spell. (Abundant Food)
+[Fri Aug 17 15:59:33 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 15:59:58 2001] You have entered Estate of Unrest.
+[Fri Aug 17 15:59:59 2001] A greater dark bone was pierced by thorns.
+[Fri Aug 17 15:59:59 2001] A greater dark bone was pierced by thorns.
+[Fri Aug 17 16:00:00 2001] A death beetle was pierced by thorns.
+[Fri Aug 17 16:00:02 2001] A greater dark bone was pierced by thorns.
+[Fri Aug 17 16:00:03 2001] A death beetle was pierced by thorns.
+[Fri Aug 17 16:00:04 2001] Draccul yells for help from behind you and to the left.
+[Fri Aug 17 16:00:05 2001] A greater dark bone was pierced by thorns.
+[Fri Aug 17 16:00:10 2001] A death beetle was pierced by thorns.
+[Fri Aug 17 16:00:10 2001] Searching for tocklar_battlemaster00.
+[Fri Aug 17 16:00:10 2001] Could not locate player with that name.
+[Fri Aug 17 16:00:13 2001] A death beetle was pierced by thorns.
+[Fri Aug 17 16:00:14 2001] A greater dark bone was pierced by thorns.
+[Fri Aug 17 16:00:15 2001] A greater dark bone was pierced by thorns.
+[Fri Aug 17 16:00:18 2001] A greater dark bone was pierced by thorns.
+[Fri Aug 17 16:00:32 2001] Rose begins to cast a spell. (Ensnare)
+[Fri Aug 17 16:00:37 2001] a festering hag begins to cast a spell. (O'Keils Radiation)
+[Fri Aug 17 16:00:38 2001] Coraz shouts, 'gm, hehe'
+[Fri Aug 17 16:00:41 2001] a festering hag begins to cast a spell. (O'Keils Radiation)
+[Fri Aug 17 16:00:45 2001] a festering hag begins to cast a spell. (O'Keils Radiation)
+[Fri Aug 17 16:00:47 2001] Dezarae begins to cast a spell. (Expulse Undead)
+[Fri Aug 17 16:00:52 2001] a dry bone skeleton begins to cast a spell. (DryBoneFireBurst)
+[Fri Aug 17 16:01:05 2001] You GMSAY, 'I don't know anything about the revamped Unrest. Anyone know anything about a Tocklar Battlemaster?'
+[Fri Aug 17 16:01:05 2001] a dry bone skeleton begins to cast a spell. (DryBoneFireBurst)
+[Fri Aug 17 16:01:13 2001] Kendro GMSAYS, 'negs'
+[Fri Aug 17 16:01:17 2001] a dry bone skeleton begins to cast a spell. (DryBoneFireBurst)
+[Fri Aug 17 16:01:19 2001] Dezarae begins to cast a spell. (Expulse Undead)
+[Fri Aug 17 16:01:25 2001] a festering hag begins to cast a spell. (O'Keils Radiation)
+[Fri Aug 17 16:01:28 2001] Dezarae begins to cast a spell. (Expulse Undead)
+[Fri Aug 17 16:01:31 2001] a dry bone skeleton begins to cast a spell. (DryBoneFireBurst)
+[Fri Aug 17 16:01:34 2001] Dezarae begins to cast a spell. (Expulse Undead)
+[Fri Aug 17 16:01:36 2001] Rose begins to cast a spell. (Superior Healing)
+[Fri Aug 17 16:01:39 2001] Dezarae begins to cast a spell. (Expulse Undead)
+[Fri Aug 17 16:01:41 2001] You GMSAY, 'looks like the dwarven ghost... someone is saying he should not be on the first floor.'
+[Fri Aug 17 16:01:45 2001] Torklar Battlemaster scowls at you, ready to attack -- You could probably win this fight.
+[Fri Aug 17 16:01:45 2001] a dry bone skeleton begins to cast a spell. (DryBoneFireBurst)
+[Fri Aug 17 16:01:46 2001] Dezarae begins to cast a spell. (Expulse Undead)
+[Fri Aug 17 16:01:46 2001] Kizra GMSAYS, 'no idea'
+[Fri Aug 17 16:01:57 2001] Torklar Battlemaster says 'Time to die Aarian'
+[Fri Aug 17 16:01:57 2001] Torklar Battlemaster says 'Paladins like you are an affront to my senses!'
+[Fri Aug 17 16:02:01 2001] a barbed bone skeleton begins to cast a spell. (BarbedBones)
+[Fri Aug 17 16:02:06 2001] Dezarae begins to cast a spell. (Expulse Undead)
+[Fri Aug 17 16:02:10 2001] Teleporting to Torklar_Battlemaster00 (570.42,  41.00,   5.75).
+[Fri Aug 17 16:02:10 2001] Dezarae begins to cast a spell. (Expulse Undead)
+[Fri Aug 17 16:02:14 2001] A barbed bone skeleton was pierced by thorns.
+[Fri Aug 17 16:02:14 2001] a barbed bone skeleton has been slain by Dezarae!
+[Fri Aug 17 16:02:18 2001] Kendro GMSAYS, 'zone'
+[Fri Aug 17 16:02:29 2001] Krystena begins to cast a spell. (Enveloping Roots)
+[Fri Aug 17 16:02:35 2001] Krystena begins to cast a spell. (Drifting Death)
+[Fri Aug 17 16:02:37 2001] a festering hag begins to cast a spell. (O'Keils Radiation)
+[Fri Aug 17 16:02:40 2001] Torklar Battlemaster is engulfed by a swarm.
+[Fri Aug 17 16:02:41 2001] You told Dinamin, 'Well, I don't know where he should be... but he's being killed now.'
+[Fri Aug 17 16:02:45 2001] Krystena begins to cast a spell. (Calefaction)
+[Fri Aug 17 16:02:48 2001] You GMSAY, 'someone is killing him anyway.'
+[Fri Aug 17 16:02:54 2001] Dinamin tells you, 'ok thx a lot'
+[Fri Aug 17 16:02:55 2001] DELETING THIS PETITION
+[Fri Aug 17 16:02:56 2001] Rose begins to cast a spell. (Ensnare)
+[Fri Aug 17 16:02:57 2001] Aariana begins to cast a spell. (Root)
+[Fri Aug 17 16:02:59 2001] You told Dinamin, 'sure thing - be well!'
+[Fri Aug 17 16:03:04 2001] Aariana begins to cast a spell. (Expulse Undead)
+[Fri Aug 17 16:03:07 2001] Dezarae begins to cast a spell. (Expulse Undead)
+[Fri Aug 17 16:03:08 2001] Dinamin tells you, 'well he spwns on'
+[Fri Aug 17 16:03:31 2001] Dinamin tells you, 'spawns on first floor it is just we would all wish he was moved too another place '
+[Fri Aug 17 16:03:49 2001] You told Dinamin, 'Oh! So it wasn't a bug. I'll pass that along, then.'
+[Fri Aug 17 16:03:55 2001] Dinamin tells you, 'ok thx a lot'
+[Fri Aug 17 16:04:11 2001] Sarasazz shouts, 'train!'
+[Fri Aug 17 16:04:19 2001] You GMSAY, '<note> Unrest players wish the Tornax Battlemaster would spawn somewhere other than the first floor,,,,'
+[Fri Aug 17 16:04:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 16:04:36 2001] USER TEXT: Greetings, I petitioned yesterday concerning a lost box in my inventory.. I was told to wait for today and petition to talk to Lirus about it. Thank you for your help
+[Fri Aug 17 16:04:36 2001] Players in EverQuest:
+[Fri Aug 17 16:04:36 2001] ---------------------------
+[Fri Aug 17 16:04:36 2001] [56 Knight] Servall (Human) <Relentless Ascension> ZONE: greatdivide (USER PID EQYPNVW)
+[Fri Aug 17 16:04:36 2001] There is 1 player in EverQuest.
+[Fri Aug 17 16:04:47 2001] Players in EverQuest:
+[Fri Aug 17 16:04:47 2001] ---------------------------
+[Fri Aug 17 16:04:47 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) ZONE: iceclad (USER PID EUGB4P0)
+[Fri Aug 17 16:04:47 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: unrest (USER PID AUGBQH4)
+[Fri Aug 17 16:04:47 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: cshome (USER PID AUUWKPN)
+[Fri Aug 17 16:04:48 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: lakeofillomen (USER PID CW1ECN5)
+[Fri Aug 17 16:04:48 2001] There are 4 players in EverQuest.
+[Fri Aug 17 16:04:49 2001] Kendro GMSAYS, 'zoning'
+[Fri Aug 17 16:04:53 2001] Krystena shouts, 'cantine off of Torklar druid and cleris quest item on back wall'
+[Fri Aug 17 16:05:14 2001] Aariana shouts, 'come loot if you can use, pls'
+[Fri Aug 17 16:05:19 2001] You told Servall, 'Hail, Servall! Guide Espranza here. What sort of box was it, and what was in it?'
+[Fri Aug 17 16:05:54 2001] Players in EverQuest:
+[Fri Aug 17 16:05:54 2001] ---------------------------
+[Fri Aug 17 16:05:54 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) ZONE: frozenshadow (USER PID EUGB4P0)
+[Fri Aug 17 16:05:54 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: unrest (USER PID AUGBQH4)
+[Fri Aug 17 16:05:54 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: cshome (USER PID AUUWKPN)
+[Fri Aug 17 16:05:54 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: lakeofillomen (USER PID CW1ECN5)
+[Fri Aug 17 16:05:54 2001] There are 4 players in EverQuest.
+[Fri Aug 17 16:06:27 2001] You feel different.
+[Fri Aug 17 16:06:35 2001] You must first select a target for this spell!
+[Fri Aug 17 16:06:38 2001] Your illusion fades.
+[Fri Aug 17 16:06:38 2001] You feel a bit dispelled.
+[Fri Aug 17 16:07:02 2001] You feel different.
+[Fri Aug 17 16:07:20 2001] Servall tells you, 'It was a box of nil space from sebilis ( not a no rent bag or box of anysort).. It had some alternate armor and weapons in it (including no drop items)  Frostreaver, Etched Velioum war lance, sword of the morning, Valoriu Arms,  DW gaunts'
+[Fri Aug 17 16:07:23 2001] Servall tells you, 'etc'
+[Fri Aug 17 16:08:04 2001] Dinamin says out of character, 'LVLS 24 and up LFG'
+[Fri Aug 17 16:08:13 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Fri Aug 17 16:08:14 2001] GM TEXT: Espranza: Lost a box of nil space containing a frostreaver, etched velium war lance, sword of morning, Valorium arms, DW gauntlets, and more.
+[Fri Aug 17 16:08:15 2001] USER TEXT: Greetings, I petitioned yesterday concerning a lost box in my inventory.. I was told to wait for today and petition to talk to Lirus about it. Thank you for your help
+[Fri Aug 17 16:08:31 2001] You told Servall, 'How was it lost?'
+[Fri Aug 17 16:08:38 2001] Servall tells you, 'i have no clue'
+[Fri Aug 17 16:08:49 2001] You told Servall, 'you just logged in and it was gone?'
+[Fri Aug 17 16:09:00 2001] Servall tells you, 'I had no drop items in it so it could not be droped, and i have safe destroy on'
+[Fri Aug 17 16:09:21 2001] Servall tells you, 'aye, i was hunting in a group and looked in my inventory and it was gone'
+[Fri Aug 17 16:09:33 2001] Servall tells you, 'I went Linkdead several times that day'
+[Fri Aug 17 16:09:42 2001] Dinamin shouts, 'level 24 and 26 pally lfg or more'
+[Fri Aug 17 16:10:02 2001] Deegan says out of character, 'can anyone exp rez'
+[Fri Aug 17 16:10:02 2001] Espranza saved.
+[Fri Aug 17 16:10:08 2001] You GMSAY, 'esc Servall, lost a box full of items in a link death, items appended.'
+[Fri Aug 17 16:10:15 2001] STATUS UPGRADED TO URGENT
+[Fri Aug 17 16:10:15 2001] STATUS UPGRADED TO EMERGENCY
+[Fri Aug 17 16:10:16 2001] CHECKING IN
+[Fri Aug 17 16:10:20 2001] Dinamin tells you, 'can the guy be moved pls afk'
+[Fri Aug 17 16:10:34 2001] You told Servall, 'Okay, I've escalated it for Lirus' attention.'
+[Fri Aug 17 16:10:46 2001] Servall tells you, '<smiles> thank you kindly'
+[Fri Aug 17 16:10:47 2001] Dinamin tells you, 'ok back'
+[Fri Aug 17 16:10:58 2001] You told Dinamin, 'Verant will have to redesign the zone; I don't know if they will but it certainly won't be very soon if they do.'
+[Fri Aug 17 16:11:00 2001] Kendro GMSAYS, 'zone'
+[Fri Aug 17 16:11:06 2001] Sarasazz says, 'Hail, Espranza'
+[Fri Aug 17 16:11:09 2001] You say, 'Hi!'
+[Fri Aug 17 16:11:09 2001] Sarasazz says, 'GM!!!'
+[Fri Aug 17 16:11:10 2001] Sarasazz is looking at your equipment...
+[Fri Aug 17 16:11:13 2001] Sarasazz says, 'Woot your cool'
+[Fri Aug 17 16:11:26 2001] Your illusion fades.
+[Fri Aug 17 16:11:26 2001] You feel a bit dispelled.
+[Fri Aug 17 16:11:29 2001] Sarasazz says, 'Dam* Ur awesome!!!'
+[Fri Aug 17 16:11:34 2001] Dinamin tells you, 'ok my freind asked too '
+[Fri Aug 17 16:11:35 2001] You blush at Sarasazz.
+[Fri Aug 17 16:11:42 2001] Sarasazz says, 'hehehe'
+[Fri Aug 17 16:11:44 2001] Sarasazz cheers at Espranza.
+[Fri Aug 17 16:11:50 2001] You beam a smile at Sarasazz.
+[Fri Aug 17 16:11:59 2001] You told Dinamin, 'I'll pass it along.'
+[Fri Aug 17 16:11:59 2001] Sarasazz says, 'I got a question'
+[Fri Aug 17 16:12:04 2001] You say, 'sure thing!'
+[Fri Aug 17 16:12:05 2001] Sarasazz says, 'I see all gms with those swords'
+[Fri Aug 17 16:12:05 2001] Dinamin tells you, 'ok thx'
+[Fri Aug 17 16:12:14 2001] Sarasazz says, 'Do you HAVE to use them'
+[Fri Aug 17 16:12:20 2001] You say, 'nope'
+[Fri Aug 17 16:12:37 2001] Sarasazz says, 'When you become a gm do all other gms twink you up'
+[Fri Aug 17 16:12:43 2001] You say, 'I just like them because they're cool'
+[Fri Aug 17 16:12:47 2001] Sarasazz says, '=p'
+[Fri Aug 17 16:12:49 2001] Dinamin shouts, 'level 24 and 26 pally lfg or more'
+[Fri Aug 17 16:12:50 2001] Sarasazz says, 'yes they are'
+[Fri Aug 17 16:12:56 2001] Sarasazz says, 'What you doing'
+[Fri Aug 17 16:12:58 2001] Sarasazz is looking at your equipment...
+[Fri Aug 17 16:13:00 2001] Servall tells you, 'Lirus will contact me right?'
+[Fri Aug 17 16:13:10 2001] Sarasazz says, 'Nifty...is your black armor no drop'
+[Fri Aug 17 16:13:15 2001] You say, 'when we become a full guide, you get your guide equipment, including armor and swords.'
+[Fri Aug 17 16:13:15 2001] Kendro GMSAYS, 'invis to undead should work an all "normal" (unnamed) undead... right?'
+[Fri Aug 17 16:13:22 2001] Sarasazz says, 'SWEEET!!!!'
+[Fri Aug 17 16:13:24 2001] You told Servall, 'Yes'
+[Fri Aug 17 16:13:28 2001] Sarasazz cheers at Espranza.
+[Fri Aug 17 16:13:32 2001] Servall tells you, '<nods> thank you again'
+[Fri Aug 17 16:13:34 2001] Lirus GMSAYS, 'yeah i would suppose so'
+[Fri Aug 17 16:13:35 2001] You're not scaring anyone.
+[Fri Aug 17 16:13:36 2001] Sarasazz says, 'AHHH'
+[Fri Aug 17 16:13:38 2001] Lirus GMSAYS, 'what is the issue?'
+[Fri Aug 17 16:13:38 2001] You told Servall, 'anytime!'
+[Fri Aug 17 16:13:40 2001] Sarasazz says, 'I wish i could fd'
+[Fri Aug 17 16:13:44 2001] Sarasazz says, 'that would be the best'
+[Fri Aug 17 16:13:49 2001] Players in EverQuest:
+[Fri Aug 17 16:13:49 2001] ---------------------------
+[Fri Aug 17 16:13:49 2001] [15 Monk] Sarasazz (Iksar) <Legacy of Pain> ZONE: unrest (USER PID DS0UTMG)
+[Fri Aug 17 16:13:49 2001] There is 1 player in EverQuest.
+[Fri Aug 17 16:13:55 2001] You say, 'two short levels'
+[Fri Aug 17 16:13:55 2001] Sarasazz says, 'I can pull a train and get myself killed?'
+[Fri Aug 17 16:13:57 2001] Sarasazz says, 'hehe'
+[Fri Aug 17 16:13:58 2001] Jikopia shouts, 'can anyone port me to oasis'
+[Fri Aug 17 16:14:12 2001] Sarasazz shouts, 'Wc or Ro is closest you can get bud'
+[Fri Aug 17 16:14:19 2001] You say, 'but I can do this :)'
+[Fri Aug 17 16:14:19 2001] Sarasazz says, 'What do i have to do to become a gm'
+[Fri Aug 17 16:14:19 2001] You're not scaring anyone.
+[Fri Aug 17 16:14:21 2001] Sarasazz says, 'Woot'
+[Fri Aug 17 16:14:25 2001] Kendro GMSAYS, 'ugh... stupid names tonight... stupid names... ah.. anyway... player sayin that  dead frogloks in Inoothule seeing through his invis to undead.'
+[Fri Aug 17 16:14:27 2001] Jikopia shouts, 'meant sro sorry'
+[Fri Aug 17 16:14:31 2001] Sarasazz says, 'How much u bs for'
+[Fri Aug 17 16:14:35 2001] You say, 'go to the web page at guideapp.everquest.com to apply'
+[Fri Aug 17 16:14:44 2001] Sarasazz says, 'Whats restrictions'
+[Fri Aug 17 16:14:48 2001] You say, 'I can't backstab with these, they are onehanded slashing weapons.'
+[Fri Aug 17 16:15:09 2001] Sarasazz says, 'What about ur piercers =p'
+[Fri Aug 17 16:15:21 2001] You say, 'well, have to be 18 years old or older, have at least two characters above level 10, and demonstrate a good knowledge of EverQuest and show a willingness to help people.'
+[Fri Aug 17 16:15:28 2001] Dinamin tells you, 'yup'
+[Fri Aug 17 16:15:33 2001] You say, 'I have this and a couple of staffs...'
+[Fri Aug 17 16:15:38 2001] You say, 'no piercers for me.'
+[Fri Aug 17 16:15:40 2001] Sarasazz says, 'i like to help'
+[Fri Aug 17 16:15:42 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Aug 17 16:15:43 2001] USER TEXT: I logged on in the field of bone and i am under the ground i can move but i stay underground
+[Fri Aug 17 16:15:43 2001] Players in EverQuest:
+[Fri Aug 17 16:15:43 2001] ---------------------------
+[Fri Aug 17 16:15:43 2001] [10 Monk] Sskorsis (Iksar) ZONE: fieldofbone (USER PID DND4JEV)
+[Fri Aug 17 16:15:43 2001] There is 1 player in EverQuest.
+[Fri Aug 17 16:15:48 2001] Sarasazz says, 'I have a 40 druid )'
+[Fri Aug 17 16:15:55 2001] Dinamin tells you, 'wt'
+[Fri Aug 17 16:15:56 2001] Sarasazz says, '16 war this and such'
+[Fri Aug 17 16:15:57 2001] You say, 'must go answer a petition - take a look at the web site'
+[Fri Aug 17 16:15:59 2001] Sarasazz says, 'I qualify !'
+[Fri Aug 17 16:16:04 2001] You cheer at Sarasazz.
+[Fri Aug 17 16:16:07 2001] You wave goodbye to Sarasazz.
+[Fri Aug 17 16:16:08 2001] You GMSAY, 'zone'
+[Fri Aug 17 16:16:12 2001] Sarasazz says, 'Cya lil girl! =p'
+[Fri Aug 17 16:16:13 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 16:16:48 2001] You have entered Field of Bone.
+[Fri Aug 17 16:17:03 2001] Teleporting to a_scaled_wolf_'s corpse2 (-1679.88, 1580.00, -54.16).
+[Fri Aug 17 16:17:12 2001] Teleporting to sskorsis.
+[Fri Aug 17 16:17:20 2001] Kendro GMSAYS, 'augh!!!'
+[Fri Aug 17 16:17:26 2001] Kendro GMSAYS, 'sure... I'll give in'
+[Fri Aug 17 16:17:26 2001] Lirus tells the guild, 'welcome'
+[Fri Aug 17 16:17:29 2001] Teleporting to a_scaled_wolf_'s corpse2.
+[Fri Aug 17 16:17:31 2001] Lirus tells the guild, 'hehe'
+[Fri Aug 17 16:17:31 2001] Kizra tells the guild, 'Hiya'
+[Fri Aug 17 16:17:37 2001] Summoning Sskorsis.
+[Fri Aug 17 16:17:44 2001] Sskorsis says, 'thank you'
+[Fri Aug 17 16:17:52 2001] You told Sskorsis, 'Hail, Sskorsis! Guide Espranza here! You're free!'
+[Fri Aug 17 16:17:55 2001] You cheer at Sskorsis.
+[Fri Aug 17 16:17:58 2001] Sskorsis tells you, 'thank you'
+[Fri Aug 17 16:18:04 2001] You told Sskorsis, 'you're welcome!'
+[Fri Aug 17 16:18:05 2001] You wave goodbye to Sskorsis.
+[Fri Aug 17 16:18:06 2001] You GMSAY, 'zone'
+[Fri Aug 17 16:18:09 2001] Sskorsis bows before Espranza.
+[Fri Aug 17 16:18:13 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 16:18:33 2001] You have entered Sunset Home.
+[Fri Aug 17 16:18:38 2001] Players in EverQuest:
+[Fri Aug 17 16:18:38 2001] ---------------------------
+[Fri Aug 17 16:18:38 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Fri Aug 17 16:18:38 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 16:18:38 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) <Keepers of Dreams> ZONE: cshome (USER PID EUGB4P0)
+[Fri Aug 17 16:18:38 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: cshome (USER PID AUUWKPN)
+[Fri Aug 17 16:18:38 2001] There are 4 players in EverQuest.
+[Fri Aug 17 16:18:41 2001] Kendro snarls meanly at Kizra.
+[Fri Aug 17 16:18:42 2001] Kizra chuckles.
+[Fri Aug 17 16:18:52 2001] Kizra grins evilly at Kendro.
+[Fri Aug 17 16:18:56 2001] Sarasazz tells you, '1 more question?'
+[Fri Aug 17 16:19:01 2001] You told Sarasazz, 'sure thing'
+[Fri Aug 17 16:19:17 2001] Sarasazz tells you, 'Hmmn hold up lol very embarassing i forgot'
+[Fri Aug 17 16:19:25 2001] Kizra GMSAYS, 'zone'
+[Fri Aug 17 16:19:31 2001] Sarasazz tells you, 'O YEAH! as a gm can you tp to ANY zone ANY place?'
+[Fri Aug 17 16:19:31 2001] You told Sarasazz, 'heh'
+[Fri Aug 17 16:19:47 2001] You told Sarasazz, 'we can teleport to any zone, yup'
+[Fri Aug 17 16:20:04 2001] Kendro says, 'Hey, Lirus, when do we get our 2nd sword?'
+[Fri Aug 17 16:20:09 2001] Sarasazz tells you, 'If you dont mind me saying so HOLY SH*T FU**ING AWESOME'
+[Fri Aug 17 16:20:15 2001] You say, 'just go buy one'
+[Fri Aug 17 16:20:15 2001] Sarasazz tells you, 'I WANNA BE A GM!!!'
+[Fri Aug 17 16:20:18 2001] Sarasazz tells you, '=p'
+[Fri Aug 17 16:20:19 2001] You told Sarasazz, 'apply then )'
+[Fri Aug 17 16:20:26 2001] Sarasazz tells you, 'I will hehe'
+[Fri Aug 17 16:20:31 2001] Sarasazz tells you, 'whats the site again'
+[Fri Aug 17 16:20:38 2001] You told Sarasazz, 'guideapp.everquest.com'
+[Fri Aug 17 16:20:42 2001] Sarasazz tells you, 'thank you'
+[Fri Aug 17 16:20:46 2001] You told Sarasazz, 'be well!'
+[Fri Aug 17 16:20:47 2001] Kendro GMSAYS, 'Lirus, are you able to see buffs that peole have... this guy with the invis to undead bug would like some rez's (5 corpses)'
+[Fri Aug 17 16:20:55 2001] Sarasazz tells you, 'you 2'
+[Fri Aug 17 16:21:11 2001] You GMSAY, 'what invis to undead bug?'
+[Fri Aug 17 16:21:37 2001] Kendro GMSAYS, 'player says that the undead froglok's can see through his invis to undead, he's died  a few times because of it.'
+[Fri Aug 17 16:21:53 2001] You GMSAY, 'what zone?'
+[Fri Aug 17 16:22:00 2001] Kendro GMSAYS, 'innothule'
+[Fri Aug 17 16:22:17 2001] You say to your guild, 'what's the character name?'
+[Fri Aug 17 16:22:27 2001] Players in EverQuest:
+[Fri Aug 17 16:22:27 2001] ---------------------------
+[Fri Aug 17 16:22:27 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: butcher (USER PID AUUWKPN)
+[Fri Aug 17 16:22:27 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Fri Aug 17 16:22:27 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 16:22:27 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) <Keepers of Dreams> ZONE: cshome (USER PID EUGB4P0)
+[Fri Aug 17 16:22:27 2001] There are 4 players in EverQuest.
+[Fri Aug 17 16:22:46 2001] Lirus GMSAYS, 'no kendro I can't('
+[Fri Aug 17 16:22:48 2001] Sarasazz tells you, 'ack trained lol'
+[Fri Aug 17 16:22:50 2001] Sarasazz tells you, '56hp'
+[Fri Aug 17 16:22:51 2001] Kendro GMSAYS, 'ah well...'
+[Fri Aug 17 16:23:14 2001] Lirus GMSAYS, 'I don't recall any undead frogs in innothul'
+[Fri Aug 17 16:23:20 2001] You GMSAY, 'me neither'
+[Fri Aug 17 16:23:23 2001] Lirus GMSAYS, 'only undead frogs i know are in lguk'
+[Fri Aug 17 16:23:27 2001] You GMSAY, 'only live froggies'
+[Fri Aug 17 16:23:32 2001] You GMSAY, 'well, Sebilis...'
+[Fri Aug 17 16:23:53 2001] Kendro GMSAYS, 'my bad, it is in guk bottom.'
+[Fri Aug 17 16:24:02 2001] Kendro GMSAYS, 'made an assumption... ooops '
+[Fri Aug 17 16:24:11 2001] You say, 'what's the character's name?'
+[Fri Aug 17 16:24:12 2001] Kendro blushes profusely.
+[Fri Aug 17 16:24:16 2001] Kendro says, 'Morganas'
+[Fri Aug 17 16:24:21 2001] Searching zones for corpse of that name....
+[Fri Aug 17 16:24:21 2001] Corpse: Morganas's corpse5 in zone: gukbottom
+[Fri Aug 17 16:24:23 2001] DELETING THIS PETITION
+[Fri Aug 17 16:24:28 2001] You GMSAY, 'zone'
+[Fri Aug 17 16:24:32 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 16:24:57 2001] You have entered Ruins of Old Guk.
+[Fri Aug 17 16:25:10 2001] Teleporting to morganas's corpse0.
+[Fri Aug 17 16:25:10 2001] Gwynythe begins to cast a spell. (Pack Regeneration)
+[Fri Aug 17 16:25:20 2001] an urd ghoul wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri Aug 17 16:25:20 2001] an urd ghoul wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri Aug 17 16:25:20 2001] an urd ghoul wizard begins to cast a spell. (O'Keils Radiation)
+[Fri Aug 17 16:25:24 2001] Sarasazz tells you, 'OMG ive been running aroudn the house looking for a pen and theres one in my pocket!'
+[Fri Aug 17 16:25:32 2001] You told Sarasazz, 'heh'
+[Fri Aug 17 16:25:43 2001] an urd ghoul wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri Aug 17 16:26:11 2001] You say to your guild, 'well, she's in the dead side alright... does she know that if she tries to loot her body, invis of all sorts will drop?'
+[Fri Aug 17 16:26:11 2001] a tal ghoul wizard begins to cast a spell. (O'Keils Flickering Flame)
+[Fri Aug 17 16:26:14 2001] Sarasazz tells you, 'lol im ashamed and dumb'
+[Fri Aug 17 16:26:29 2001] Teleporting to morganas's corpse1.
+[Fri Aug 17 16:26:29 2001] Lirus tells the guild, 'if she tries to loot invis will drop yes'
+[Fri Aug 17 16:26:33 2001] Sarasazz tells you, 'ok now i leave ya alone to do yas business =p good luck'
+[Fri Aug 17 16:26:36 2001] Ongin shouts, 'LVL 40 RANGER LFG OR A PARTNER'
+[Fri Aug 17 16:26:37 2001] Teleporting to morganas's corpse2.
+[Fri Aug 17 16:26:40 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 16:27:06 2001] You have entered Guk.
+[Fri Aug 17 16:27:13 2001] You GMSAY, 'accdental zone'
+[Fri Aug 17 16:27:14 2001] It is 5 AM on Friday, the 6th day of March, of the year 3212.
+[Fri Aug 17 16:27:14 2001] Earth Time: Fri Aug 17 16:27:14 2001
+[Fri Aug 17 16:27:29 2001] You GMSAY, 'zone'
+[Fri Aug 17 16:27:31 2001] The spirit leaves you.
+[Fri Aug 17 16:27:32 2001] LOADING, PLEASE WAIT...
+[Fri Aug 17 16:27:51 2001] You have entered Sunset Home.
+[Fri Aug 17 16:27:55 2001] You feel the spirit of Norrath enter you.
+[Fri Aug 17 16:28:11 2001] You GMSAY, 'time for me to be off - laters, all!'
+[Fri Aug 17 16:28:12 2001] Players in EverQuest:
+[Fri Aug 17 16:28:12 2001] ---------------------------
+[Fri Aug 17 16:28:12 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Fri Aug 17 16:28:12 2001] * Guide *[50 Bard] Kizra (Human) <Keepers of Dreams> ZONE: butcher (USER PID AUUWKPN)
+[Fri Aug 17 16:28:12 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: cshome (USER PID CW1ECN5)
+[Fri Aug 17 16:28:12 2001] * Guide *[50 Shadow Knight] Kendro (Dark Elf) <Keepers of Dreams> ZONE: cshome (USER PID EUGB4P0)
+[Fri Aug 17 16:28:12 2001] There are 4 players in EverQuest.
+[Fri Aug 17 16:28:16 2001] It will take you about 30 seconds to prepare your camp.
+[Fri Aug 17 16:28:17 2001] Lirus GMSAYS, 'goodnight esp'
+[Fri Aug 17 16:28:19 2001] Kizra GMSAYS, 'Bye Espranza'
+[Fri Aug 17 16:28:20 2001] It will take about 25 more seconds to prepare your camp.
+[Fri Aug 17 16:28:25 2001] It will take about 20 more seconds to prepare your camp.
+[Fri Aug 17 16:28:30 2001] It will take about 15 more seconds to prepare your camp.
+[Fri Aug 17 16:28:33 2001] Kizra GMSAYS, 'I'm doing a wedding but I'll jump back on petitions in a few minutes'
+[Fri Aug 17 16:28:35 2001] It will take about 10 more seconds to prepare your camp.
+[Fri Aug 17 16:28:40 2001] It will take about 5 more seconds to prepare your camp.

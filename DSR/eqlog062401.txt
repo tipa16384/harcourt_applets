@@ -1,0 +1,1200 @@
+[Sun Jun 24 00:31:19 2001] Welcome to EverQuest!
+[Sun Jun 24 00:31:19 2001] You have entered Sunset Home.
+[Sun Jun 24 00:31:19 2001] MESSAGE OF THE DAY: Welcome to Morell Thule! The /report command sends the text you see in your chat window to us. If you use this command to report an incident, please scroll back as needed to capture the text properly and to /petition for a GM to review the /repor
+[Sun Jun 24 00:31:20 2001] GUILD MOTD: Mersi - Please note that Lirus' hours are Thursday to Monday, 15:00 to 23:00 PST. Please make sure the apprentices you mentor know this as well =)
+[Sun Jun 24 00:31:23 2001] Players in EverQuest:
+[Sun Jun 24 00:31:23 2001] ---------------------------
+[Sun Jun 24 00:31:23 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jun 24 00:31:23 2001] * Guide *[50 Monk] Yumenoteki (Human) <Keepers of Morell Thule> ZONE: everfrost (USER PID HT3SRT4)
+[Sun Jun 24 00:31:23 2001] * Guide *[50 Cleric] Kinther (Dwarf) <Keepers of Morell Thule> ZONE: feerrott (USER PID AUGCJVW)
+[Sun Jun 24 00:31:23 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: ecommons (USER PID FS6MRL2)
+[Sun Jun 24 00:31:23 2001] There are 4 players in EverQuest.
+[Sun Jun 24 00:31:27 2001] You GMSAY, 'hiya!'
+[Sun Jun 24 00:31:34 2001] Yumenoteki GMSAYS, 'hiya!'
+[Sun Jun 24 00:31:46 2001] You GMSAY, 'was just stopping by to check on the que, looks good though'
+[Sun Jun 24 00:31:49 2001] Yumenoteki GMSAYS, 'aye'
+[Sun Jun 24 00:31:54 2001] Yumenoteki GMSAYS, 'going to stay?'
+[Sun Jun 24 00:31:54 2001] You GMSAY, 'Hi, Larsot!'
+[Sun Jun 24 00:32:07 2001] Kinther GMSAYS, 'zone'
+[Sun Jun 24 00:32:10 2001] You GMSAY, 'hmm... why anything happenin?'
+[Sun Jun 24 00:32:31 2001] Yumenoteki GMSAYS, 'naw ... nothing tonight besides the normal ... I'm level 22 but want to get Orc belts'
+[Sun Jun 24 00:32:52 2001] You GMSAY, 'I've seen people up to 40 there'
+[Sun Jun 24 00:33:00 2001] You GMSAY, 'want to share the orc camp... sigh'
+[Sun Jun 24 00:33:00 2001] Yumenoteki GMSAYS, 'aye ... '
+[Sun Jun 24 00:33:05 2001] Yumenoteki GMSAYS, 'yup'
+[Sun Jun 24 00:33:07 2001] Yumenoteki GMSAYS, 'it's sad'
+[Sun Jun 24 00:33:20 2001] Yumenoteki GMSAYS, 'I wish I could become a Orc Overlord and wipe them all out *smirks*'
+[Sun Jun 24 00:33:33 2001] You GMSAY, 'they'd just complain'
+[Sun Jun 24 00:33:45 2001] Yumenoteki GMSAYS, 'naw ... then we'd have 200 players after Orcs'
+[Sun Jun 24 00:33:59 2001] Larsot GMSAYS, 'what orc camp are you all refering to?'
+[Sun Jun 24 00:33:59 2001] Yumenoteki GMSAYS, 'expecting the rare Overlord *wink*'
+[Sun Jun 24 00:34:06 2001] Yumenoteki GMSAYS, 'oooh ... petition for you Larsot'
+[Sun Jun 24 00:34:12 2001] You GMSAY, 'MINE MINE MINE'
+[Sun Jun 24 00:34:17 2001] Kinther GMSAYS, 'zone'
+[Sun Jun 24 00:34:18 2001] Yumenoteki GMSAYS, 'East and West Commons'
+[Sun Jun 24 00:34:26 2001] You feel the spirit of Norrath enter you.
+[Sun Jun 24 00:34:27 2001] Your feet leave the ground.
+[Sun Jun 24 00:34:28 2001] Yumenoteki GMSAYS, 'then it goes on to Dervs'
+[Sun Jun 24 00:34:35 2001] Yumenoteki GMSAYS, 'and then ... and then ...'
+[Sun Jun 24 00:34:46 2001] You GMSAY, 'highpass'
+[Sun Jun 24 00:35:05 2001] Yumenoteki GMSAYS, 'oooh ...highpass and unrest'
+[Sun Jun 24 00:35:17 2001] Larsot GMSAYS, 'deleteing Farrgo pet on Broodmaother Spawn'
+[Sun Jun 24 00:35:19 2001] You GMSAY, 'ya don't hear too much about unrest these days'
+[Sun Jun 24 00:35:21 2001] Yumenoteki GMSAYS, 'I used to spend so much time on the boat going between unrest and highpass ... LOL'
+[Sun Jun 24 00:35:27 2001] Yumenoteki GMSAYS, 'back before anyone had teleport'
+[Sun Jun 24 00:35:42 2001] You GMSAY, 'I was stuck in Qeynos'
+[Sun Jun 24 00:35:50 2001] You GMSAY, 'there would be nightly runs to Freeport'
+[Sun Jun 24 00:35:54 2001] Yumenoteki GMSAYS, 'I travelled often  ....'
+[Sun Jun 24 00:36:01 2001] Yumenoteki GMSAYS, 'ouch'
+[Sun Jun 24 00:36:03 2001] You GMSAY, 'but every so often a party would meet in disaster'
+[Sun Jun 24 00:36:11 2001] You GMSAY, 'as mine did once'
+[Sun Jun 24 00:36:18 2001] Larsot GMSAYS, 'pulling Calelin'
+[Sun Jun 24 00:36:18 2001] Yumenoteki GMSAYS, 'I used to escort folks between Halas and FP'
+[Sun Jun 24 00:36:23 2001] You GMSAY, 'that was exciting. common teleports ruined things.'
+[Sun Jun 24 00:36:26 2001] Yumenoteki GMSAYS, 'and then onto Butcherblock'
+[Sun Jun 24 00:36:35 2001] Yumenoteki GMSAYS, 'aye ... all teleports'
+[Sun Jun 24 00:37:15 2001] Players in EverQuest:
+[Sun Jun 24 00:37:16 2001] ---------------------------
+[Sun Jun 24 00:37:16 2001] There are no players in EverQuest that match those who filters.
+[Sun Jun 24 00:37:40 2001] Yumenoteki GMSAYS, 'spoiler sites ruined quests'
+[Sun Jun 24 00:37:57 2001] Kinther GMSAYS, 'zone'
+[Sun Jun 24 00:38:17 2001] Players in EverQuest:
+[Sun Jun 24 00:38:17 2001] ---------------------------
+[Sun Jun 24 00:38:17 2001] * Guide *[50 Cleric] Kinther (Dwarf) <Keepers of Morell Thule> ZONE: rathemtn (USER PID AUGCJVW)
+[Sun Jun 24 00:38:17 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jun 24 00:38:17 2001] * Guide *[50 Monk] Yumenoteki (Human) <Keepers of Morell Thule> ZONE: everfrost (USER PID HT3SRT4)
+[Sun Jun 24 00:38:17 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: ecommons (USER PID FS6MRL2)
+[Sun Jun 24 00:38:17 2001] There are 4 players in EverQuest.
+[Sun Jun 24 00:38:21 2001] Larsot GMSAYS, 'hmmm this is second petition about mobs poofing in mid combat in Cobalt Scar'
+[Sun Jun 24 00:38:29 2001] Yumenoteki GMSAYS, 'Espranza want to join the group?'
+[Sun Jun 24 00:38:35 2001] You GMSAY, 'poofing or porting back to spawn point?'
+[Sun Jun 24 00:38:38 2001] Yumenoteki GMSAYS, 'ask if they're near the bridge'
+[Sun Jun 24 00:38:44 2001] Yumenoteki GMSAYS, 'porting back to spawn point'
+[Sun Jun 24 00:38:52 2001] You GMSAY, 'dunno... much longer and I'll have to fill out a DSR...'
+[Sun Jun 24 00:39:24 2001] Yumenoteki tells you, 'ever get the feeling Kinther is not experienced as a player? *smirks*'
+[Sun Jun 24 00:39:37 2001] You told Yumenoteki, 'why would you say that?'
+[Sun Jun 24 00:39:41 2001] Yumenoteki GMSAYS, 'I'm swimming in ice'
+[Sun Jun 24 00:39:53 2001] Larsot GMSAYS, 'sent this Pet up as a bug report again'
+[Sun Jun 24 00:39:54 2001] You say to your guild, 'Kinther, you and I have to stop playing with the message board...'
+[Sun Jun 24 00:39:58 2001] Yumenoteki tells you, 'heh heh ... well, there's some things you would know if you had a highbie'
+[Sun Jun 24 00:40:20 2001] You told Yumenoteki, 'yeah, level limit is 10 though, and some people take that seriously'
+[Sun Jun 24 00:40:24 2001] Yumenoteki tells the guild, 'LOL ... '
+[Sun Jun 24 00:40:33 2001] Kinther tells the guild, 'what do you mean? I learned my lesson'
+[Sun Jun 24 00:40:40 2001] Yumenoteki tells you, 'aye ... just some things that even a mid level would know that he didn't know'
+[Sun Jun 24 00:40:40 2001] You say to your guild, 'heh... me too'
+[Sun Jun 24 00:40:47 2001] You told Yumenoteki, 'like what?'
+[Sun Jun 24 00:41:05 2001] Yumenoteki tells you, 'I forget ... but Guagian noticed it before and now Vincearis (sp)'
+[Sun Jun 24 00:41:08 2001] Larsot GMSAYS, 'hmmm 9 hours straight now   :O'
+[Sun Jun 24 00:41:14 2001] You GMSAY, 'don't burn out...!'
+[Sun Jun 24 00:41:19 2001] Yumenoteki tells you, 'we asked what his highbie was ... *silence*'
+[Sun Jun 24 00:41:29 2001] You told Yumenoteki, 'Vincearis... now there's a person I have questions about.'
+[Sun Jun 24 00:41:30 2001] Yumenoteki GMSAYS, 'ack ... we need to /kick you if we had the power'
+[Sun Jun 24 00:41:43 2001] Larsot GMSAYS, 'aye, just now getting a little more comfortable answering pets   :)'
+[Sun Jun 24 00:41:48 2001] Teleporting to Asherah_the_Torch_Bearer00 (667.01, 175.40, -25.62).
+[Sun Jun 24 00:41:51 2001] Espranza saved.
+[Sun Jun 24 00:42:09 2001] You told Yumenoteki, 'How do you feel about Vince?'
+[Sun Jun 24 00:42:37 2001] Yumenoteki tells you, 'juries out still ... *smirk*  I think he's pretty knowledgable ... Larsot is also very knowledgable'
+[Sun Jun 24 00:42:42 2001] You told Yumenoteki, 'I have noticed he immediately blames others for his mistakes...'
+[Sun Jun 24 00:42:49 2001] Yumenoteki tells you, 'when?'
+[Sun Jun 24 00:43:00 2001] Kinther GMSAYS, 'heh dont put in like 50 hours your first week it wont make you a guide anyfaster'
+[Sun Jun 24 00:43:14 2001] Yumenoteki tells you, 'about the death bind?'
+[Sun Jun 24 00:43:19 2001] Larsot GMSAYS, 'hehe'
+[Sun Jun 24 00:43:26 2001] You told Yumenoteki, 'lessee... when he grouped with another player for a port he asked for, he blamed you. When he started answering harassment petitions, he blamed me.'
+[Sun Jun 24 00:43:39 2001] You told Yumenoteki, 'The death bind was another.'
+[Sun Jun 24 00:43:44 2001] Yumenoteki tells you, 'hmmm ... didn't know about the port one'
+[Sun Jun 24 00:44:12 2001] You told Yumenoteki, 'he said you grouped with players for an answer circle, so he thought grouping with players and asking for a port was okay...'
+[Sun Jun 24 00:44:23 2001] Kinther GMSAYS, 'zone'
+[Sun Jun 24 00:44:34 2001] Yumenoteki tells you, 'ah ... definitely not "ok'd" by me'
+[Sun Jun 24 00:44:47 2001] Yumenoteki tells you, 'I'm too strict for that'
+[Sun Jun 24 00:45:06 2001] You told Yumenoteki, 'it was a mistake, but we all make mistakes. not worried about that.'
+[Sun Jun 24 00:45:20 2001] Yumenoteki tells you, 'aye ... I'll guess we have to monitor him then ...'
+[Sun Jun 24 00:45:20 2001] You told Yumenoteki, 'I just didn't like how it was always someone else's fault.'
+[Sun Jun 24 00:46:06 2001] Yumenoteki tells you, 'heh heh ... I didn't know we weren't supposed to group with players when there were multiple folks to talk with, and you didn't want the conversation to everyone ... basically, group looting issues'
+[Sun Jun 24 00:46:34 2001] You can no longer levitate.
+[Sun Jun 24 00:46:53 2001] You told Yumenoteki, 'wasn't the end of the world, and now it's been clarified so it served a purpose.'
+[Sun Jun 24 00:47:03 2001] Yumenoteki tells you, 'aye'
+[Sun Jun 24 00:47:17 2001] Yumenoteki tells you, 'that's the good thing, eh?'
+[Sun Jun 24 00:47:22 2001] You GMSAY, '/em itches to grab the petition'
+[Sun Jun 24 00:47:30 2001] You told Yumenoteki, 'aye, it is'
+[Sun Jun 24 00:47:37 2001] Larsot GMSAYS, 'not much longer for me and Im going to call it a night   :)'
+[Sun Jun 24 00:47:45 2001] Larsot GMSAYS, 'lol'
+[Sun Jun 24 00:47:47 2001] You GMSAY, 'appie addiction'
+[Sun Jun 24 00:47:51 2001] You GMSAY, 'see it all the time'
+[Sun Jun 24 00:48:00 2001] Yumenoteki tells you, 'heh heh ... except I'm still a bit irked on the death bind thingy ... that player should have known to petition as another character'
+[Sun Jun 24 00:48:11 2001] Yumenoteki GMSAYS, 'aye ... which sometimes leads to appie burnout'
+[Sun Jun 24 00:48:18 2001] Larsot GMSAYS, 'is this a slow Saturday or a typical one?'
+[Sun Jun 24 00:48:25 2001] Yumenoteki GMSAYS, 'VERY slow'
+[Sun Jun 24 00:48:28 2001] You GMSAY, 'it's always slow this time of the night'
+[Sun Jun 24 00:48:46 2001] Larsot GMSAYS, 'wow, im usually not even off work yet   :('
+[Sun Jun 24 00:48:46 2001] Yumenoteki GMSAYS, 'actually, before we started getting appies ... it was VERY hectic ... I used to solo petitions until 4am'
+[Sun Jun 24 00:48:48 2001] Yumenoteki GMSAYS, 'PST'
+[Sun Jun 24 00:48:49 2001] Kinther GMSAYS, 'is there some reason that you cant drag corpses in westernwastes?'
+[Sun Jun 24 00:48:50 2001] You GMSAY, 'Saturday mornings and esp. afternoons are usually a madhouse - how was it during training?'
+[Sun Jun 24 00:49:03 2001] Yumenoteki GMSAYS, 'Sunday is a mad house'
+[Sun Jun 24 00:49:15 2001] Yumenoteki GMSAYS, 'hmmm ... sometimes they get stuck on the hills and what not'
+[Sun Jun 24 00:49:19 2001] You GMSAY, 'Guided Friday during the day - European night - was very hectic'
+[Sun Jun 24 00:49:31 2001] Larsot GMSAYS, 'training wasnt bad either, there was about 12 at the start is all'
+[Sun Jun 24 00:49:34 2001] Yumenoteki GMSAYS, 'aye ... Friday is ALWAYS crazy'
+[Sun Jun 24 00:51:11 2001] You GMSAY, 'Okay, once and for all, watashi no nihongo ga totemo heta desu... eigo de, Yumenoteki to ha "Enemy of Dreams" to desu ka '
+[Sun Jun 24 00:51:30 2001] Yumenoteki GMSAYS, 'hai ... so desu'
+[Sun Jun 24 00:51:40 2001] You GMSAY, 'wakarimasu'
+[Sun Jun 24 00:51:46 2001] Yumenoteki GMSAYS, 'perfect description of EQ, eh?'
+[Sun Jun 24 00:51:51 2001] You GMSAY, 'it is'
+[Sun Jun 24 00:51:53 2001] Yumenoteki GMSAYS, 'folks lose sleep over EQ ;)'
+[Sun Jun 24 00:52:11 2001] Kinther GMSAYS, 'wishes he knew japanesee'
+[Sun Jun 24 00:52:26 2001] Espranza saved.
+[Sun Jun 24 00:52:37 2001] You GMSAY, 'heh... become addicted to anime'
+[Sun Jun 24 00:52:42 2001] You GMSAY, 'worked for me...'
+[Sun Jun 24 00:52:43 2001] Yumenoteki GMSAYS, 'LOL'
+[Sun Jun 24 00:52:49 2001] Yumenoteki GMSAYS, 'Anime wa dai suki desu ka?'
+[Sun Jun 24 00:52:59 2001] You GMSAY, 'hai, soo desu ka'
+[Sun Jun 24 00:53:09 2001] Yumenoteki GMSAYS, 'Metalic Angel Marie mita koto ari masu ka?'
+[Sun Jun 24 00:53:11 2001] Kinther GMSAYS, 'I am but not i'm not a total otaku.....  zone'
+[Sun Jun 24 00:53:27 2001] You GMSAY, 'yomimasen deshita'
+[Sun Jun 24 00:53:51 2001] You GMSAY, 'bah'
+[Sun Jun 24 00:53:58 2001] Yumenoteki GMSAYS, 'nihongo yomimasu ka?'
+[Sun Jun 24 00:53:58 2001] You GMSAY, 'wrong verb'
+[Sun Jun 24 00:54:23 2001] You GMSAY, 'tokidoki...'
+[Sun Jun 24 00:56:17 2001] Kinther GMSAYS, 'west wastes isn't cslimited is it?'
+[Sun Jun 24 00:56:25 2001] You GMSAY, 'nope'
+[Sun Jun 24 00:56:26 2001] Yumenoteki GMSAYS, 'for appies, yes'
+[Sun Jun 24 00:56:34 2001] Kinther GMSAYS, 'cool I'm exploring!'
+[Sun Jun 24 00:56:37 2001] Larsot GMSAYS, 'lol, people notice a guide sitting next to them and still use every foul word in the english language   :P'
+[Sun Jun 24 00:56:39 2001] You GMSAY, 'all of velious is off limits for appies'
+[Sun Jun 24 00:56:54 2001] You GMSAY, 'Larsor, report them'
+[Sun Jun 24 00:56:54 2001] Yumenoteki GMSAYS, 'aye .. which person?'
+[Sun Jun 24 00:57:03 2001] Yumenoteki GMSAYS, 'going anon'
+[Sun Jun 24 00:57:05 2001] Yumenoteki GMSAYS, 'zoning'
+[Sun Jun 24 00:57:11 2001] Players in EverQuest:
+[Sun Jun 24 00:57:12 2001] ---------------------------
+[Sun Jun 24 00:57:12 2001] [1 Warrior] Aolanin (Human) ZONE: freportw (USER PID FW8107F)
+[Sun Jun 24 00:57:12 2001] [1 Paladin] Laleornie (Human) ZONE: freportw (USER PID BV64Z8Q)
+[Sun Jun 24 00:57:12 2001] [1 Shadow Knight] Kanatani (Dark Elf) ZONE: neriakb (USER PID AXMM0FZ)
+[Sun Jun 24 00:57:12 2001] [1 Druid] Goroni (Human) ZONE: qeynos2 (USER PID DQLJTXN)
+[Sun Jun 24 00:57:12 2001] [1 Enchanter] Loorp (Human) ZONE: freportw (USER PID AW8807V)
+[Sun Jun 24 00:57:12 2001] [1 Cleric] Zidon (Erudite) ZONE: erudnext (USER PID CZGR6JX)
+[Sun Jun 24 00:57:12 2001] [1 Magician] Zaynder (Erudite) ZONE: erudnint (USER PID AP2KGFX)
+[Sun Jun 24 00:57:12 2001] [1 Shadow Knight] Draul (Dark Elf) ZONE: neriakc (USER PID AVSXDA0)
+[Sun Jun 24 00:57:12 2001] [1 Rogue] Hooden (Halfling) ZONE: ecommons (USER PID HYHNECK)
+[Sun Jun 24 00:57:12 2001] [1 Wizard] Azulia (High Elf) ZONE: felwithea (USER PID HXMZMH6)
+[Sun Jun 24 00:57:12 2001] [1 Druid] Drooud (Wood Elf) ZONE: gfaydark (USER PID FQBXLW0)
+[Sun Jun 24 00:57:12 2001] [1 Shadow Knight] Bazzab (Troll) ZONE: grobb (USER PID AQ10NEM)
+[Sun Jun 24 00:57:12 2001] [1 Druid] Redvolt (Halfling) ZONE: rivervale (USER PID BYRRPG0)
+[Sun Jun 24 00:57:12 2001] [1 Warrior] Shazammy (Iksar) ZONE: cabeast (USER PID CULK3US)
+[Sun Jun 24 00:57:12 2001] [1 Druid] Auldara (Wood Elf) ZONE: gfaydark (USER PID DSGGBZ5)
+[Sun Jun 24 00:57:12 2001] [1 Rogue] Knab (Halfling) ZONE: thurgadina (USER PID GU1WU4X)
+[Sun Jun 24 00:57:12 2001] There are 16 players in EverQuest.
+[Sun Jun 24 00:57:22 2001] Larsot GMSAYS, 'he has not said too much more as of yet. if he does I will'
+[Sun Jun 24 00:57:26 2001] You GMSAY, 'who let Drooud through?'
+[Sun Jun 24 00:57:56 2001] Larsot GMSAYS, 'lol, great name......'
+[Sun Jun 24 00:57:58 2001] Yumenoteki tells you, 'those types of questions make me wonder :)'
+[Sun Jun 24 00:58:07 2001] You told Yumenoteki, 'what?'
+[Sun Jun 24 00:58:17 2001] Yumenoteki tells you, 'LOL .. cs limited zone'
+[Sun Jun 24 00:58:27 2001] You told Yumenoteki, 'heh'
+[Sun Jun 24 00:58:36 2001] You told Yumenoteki, 'I think he meant CS Restricted zone'
+[Sun Jun 24 00:58:52 2001] Yumenoteki tells you, 'exactly ... LOL ... it's as though he didn't bother reading P&P'
+[Sun Jun 24 00:58:55 2001] You told Yumenoteki, 'lots of players think EVERY zone is a CS limited zone'
+[Sun Jun 24 00:59:01 2001] Yumenoteki tells you, 'but somehow passed'
+[Sun Jun 24 00:59:14 2001] You told Yumenoteki, 'Nah, our fault for passing them'
+[Sun Jun 24 00:59:23 2001] Yumenoteki tells you, 'I'll petition about that ;)'
+[Sun Jun 24 00:59:26 2001] Yumenoteki tells you, 'and that also'
+[Sun Jun 24 00:59:33 2001] Yumenoteki tells you, 'LOL ... not sure how he passed'
+[Sun Jun 24 00:59:43 2001] Yumenoteki tells you, 'but if he passed, I'm afraid to see those that didn't'
+[Sun Jun 24 00:59:48 2001] You told Yumenoteki, 'he took longer than Guaigean. I had them both for training'
+[Sun Jun 24 00:59:57 2001] You told Yumenoteki, 'Guaig was definitely a lot quicker'
+[Sun Jun 24 01:00:06 2001] Yumenoteki tells you, 'Guaigean was a good one'
+[Sun Jun 24 01:00:16 2001] You told Yumenoteki, 'aye... he'll do well.'
+[Sun Jun 24 01:00:16 2001] Yumenoteki tells you, 'very experienced player ... who also grew tired'
+[Sun Jun 24 01:00:32 2001] You told Yumenoteki, 'familiar story'
+[Sun Jun 24 01:00:33 2001] Yumenoteki tells you, 'I think that's what most of us become ... we tire of the game, then become guids ... LOL'
+[Sun Jun 24 01:00:38 2001] You told Yumenoteki, 'heh...'
+[Sun Jun 24 01:00:54 2001] You told Yumenoteki, 'I dunno, I like going places. Went to Plane of Air for the first time today.'
+[Sun Jun 24 01:00:55 2001] Yumenoteki tells you, 'I am trying to play my newbies again ... '
+[Sun Jun 24 01:01:17 2001] Yumenoteki tells you, 'things are different on my server ... (RZ) ... it's strange how any of us became high level'
+[Sun Jun 24 01:01:29 2001] Yumenoteki tells you, 'most PK's didn't make it to the high levels until recently'
+[Sun Jun 24 01:01:39 2001] You told Yumenoteki, 'then we were going to do some epic stuff but CoM was being farmed by a guber guild, Kedge was camped, Kael was camped, we were thinking of the necropolis but it was just getting insane.'
+[Sun Jun 24 01:02:13 2001] Yumenoteki tells you, 'aye .. it takes forever to find places to hunt ... one time, we spent 5 hours looking for somewhere to go ... and I'm a druid'
+[Sun Jun 24 01:02:42 2001] You told Yumenoteki, 'omg... you probably don't realize just how many guides have druids for mains.'
+[Sun Jun 24 01:02:48 2001] Yumenoteki tells you, 'we finally settled on find PK's that were ganking other players'
+[Sun Jun 24 01:03:00 2001] Yumenoteki tells you, 'aye .. I saw on common'
+[Sun Jun 24 01:03:01 2001] Espranza saved.
+[Sun Jun 24 01:03:23 2001] You told Yumenoteki, 'I'm almost 54... my warrior is 47 and my rogue 29m all the others are lower'
+[Sun Jun 24 01:03:40 2001] Yumenoteki tells you, 'plus, did you see how many of us are in Security or Systems or Networks?'
+[Sun Jun 24 01:03:44 2001] You told Yumenoteki, 'rogue died four times in lower guk today. druid died twice in Air...'
+[Sun Jun 24 01:04:00 2001] You told Yumenoteki, 'no, didn't see that'
+[Sun Jun 24 01:04:05 2001] Yumenoteki tells you, 'I stopped after 2 weeks into Kunark ... I died one too many times at 52 .. spells weren't dropping'
+[Sun Jun 24 01:04:17 2001] You told Yumenoteki, 'they finally fixed that'
+[Sun Jun 24 01:04:30 2001] Yumenoteki tells you, 'aye ... but I gave up hope at that time ... LOL'
+[Sun Jun 24 01:04:41 2001] Yumenoteki tells you, 'they're finally fixing stuff that should have been fixed from day one'
+[Sun Jun 24 01:04:44 2001] You told Yumenoteki, 'I have most my dropped spells from Kunark'
+[Sun Jun 24 01:04:57 2001] Yumenoteki GMSAYS, 'they're not using foul language anymore'
+[Sun Jun 24 01:05:00 2001] Yumenoteki GMSAYS, 'heh heh'
+[Sun Jun 24 01:05:22 2001] You GMSAY, 'damn those ^@@@& f*&*^#& pl*&#&^# scum *&@@^(# let us report them!!!'
+[Sun Jun 24 01:05:40 2001] Yumenoteki GMSAYS, 'zoning'
+[Sun Jun 24 01:05:41 2001] Larsot GMSAYS, 'not really. It is Xziled and Hawsaw that have the cute words   :/'
+[Sun Jun 24 01:05:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 24 01:05:54 2001] USER TEXT: I need a GM to please come and force Teuil to go LD in Rathe Mountains for I believe he has fallen asleep
+[Sun Jun 24 01:05:54 2001] Players in EverQuest:
+[Sun Jun 24 01:05:54 2001] ---------------------------
+[Sun Jun 24 01:05:54 2001] [ANON (36 Cleric)] Salunia (Dark Elf) ZONE: rathemtn (USER PID AXKP6VM)
+[Sun Jun 24 01:05:54 2001] There is 1 player in EverQuest.
+[Sun Jun 24 01:05:59 2001] UNDOING CHECK OUT
+[Sun Jun 24 01:06:23 2001] Yumenoteki tells the guild, 'I'm glad they allowed us to start taking appies to Kunark ... great for underworld training'
+[Sun Jun 24 01:06:25 2001] Players in EverQuest:
+[Sun Jun 24 01:06:25 2001] ---------------------------
+[Sun Jun 24 01:06:25 2001] * Guide *[50 Monk] Yumenoteki (Human) <Keepers of Morell Thule> ZONE: soldungb (USER PID HT3SRT4)
+[Sun Jun 24 01:06:25 2001] * Guide *[50 Cleric] Kinther (Dwarf) <Keepers of Morell Thule> ZONE: westwastes (USER PID AUGCJVW)
+[Sun Jun 24 01:06:25 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jun 24 01:06:25 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: ecommons (USER PID FS6MRL2)
+[Sun Jun 24 01:06:25 2001] There are 4 players in EverQuest.
+[Sun Jun 24 01:06:31 2001] You say to your guild, 'yeah'
+[Sun Jun 24 01:06:49 2001] You say to your guild, 'I thought it was silly we couldn't before, and then I would go to my play server and see appies all over Kunark'
+[Sun Jun 24 01:07:04 2001] Kinther GMSAYS, 'zone'
+[Sun Jun 24 01:07:09 2001] Yumenoteki tells the guild, 'aye ... on my server as well'
+[Sun Jun 24 01:07:18 2001] Larsot GMSAYS, 'pulling Salunia'
+[Sun Jun 24 01:07:31 2001] You say to your guild, 'But Gizzle had very specific plans for this server'
+[Sun Jun 24 01:07:42 2001] You say to your guild, 'MT was not going to be a server like any other'
+[Sun Jun 24 01:07:55 2001] You say to your guild, 'wish he hadn't burned out.'
+[Sun Jun 24 01:08:22 2001] Yumenoteki tells the guild, 'what happened to him?'
+[Sun Jun 24 01:08:36 2001] You say to your guild, 'he was the senior assigned to MT when it came online'
+[Sun Jun 24 01:08:44 2001] You say to your guild, 'just him - no appies or anything'
+[Sun Jun 24 01:08:55 2001] You say to your guild, 'so he gathered some guides from other servers'
+[Sun Jun 24 01:09:06 2001] You say to your guild, 'and got some appies - I was in the second set'
+[Sun Jun 24 01:09:19 2001] You say to your guild, 'he liked rituals'
+[Sun Jun 24 01:09:43 2001] You say to your guild, 'and roleplaying... was something pretty special'
+[Sun Jun 24 01:09:51 2001] Yumenoteki tells the guild, 'cool :)'
+[Sun Jun 24 01:10:04 2001] You say to your guild, 'He made Kezia senior and then quit.'
+[Sun Jun 24 01:10:21 2001] You say to your guild, 'right after I became a full guide.'
+[Sun Jun 24 01:10:32 2001] Yumenoteki tells the guild, 'hmmm ... that's too bad'
+[Sun Jun 24 01:10:38 2001] The spirit leaves you.
+[Sun Jun 24 01:11:05 2001] You say to your guild, 'then Kezia promoted Rynara and Lancet just before I left'
+[Sun Jun 24 01:11:42 2001] You say to your guild, 'Cani was a new guide when I left, Mersi hadn't started yet'
+[Sun Jun 24 01:13:22 2001] Kinther GMSAYS, 'ok guy fell off the boat cause he camped on it, and is now swimming in the water, am I right to assume that he needs to swim to shore by himself?'
+[Sun Jun 24 01:13:36 2001] Espranza saved.
+[Sun Jun 24 01:13:37 2001] You GMSAY, 'we can fish him out'
+[Sun Jun 24 01:13:43 2001] Kinther GMSAYS, 'ok'
+[Sun Jun 24 01:13:44 2001] You GMSAY, 'our option though'
+[Sun Jun 24 01:13:47 2001] Yumenoteki GMSAYS, 'sorry ... battle spawm'
+[Sun Jun 24 01:14:20 2001] You GMSAY, 'we can only take him to nearest dry land though'
+[Sun Jun 24 01:15:58 2001] You feel the spirit of Norrath enter you.
+[Sun Jun 24 01:15:59 2001] Your feet leave the ground.
+[Sun Jun 24 01:16:01 2001] You feel the spirit of Z surround you.
+[Sun Jun 24 01:16:28 2001] You GMSAY, 'there are no seniors on...'
+[Sun Jun 24 01:16:31 2001] Players in EverQuest:
+[Sun Jun 24 01:16:31 2001] ---------------------------
+[Sun Jun 24 01:16:31 2001] * Guide *[50 Cleric] Kinther (Dwarf) <Keepers of Morell Thule> ZONE: oot (USER PID AUGCJVW)
+[Sun Jun 24 01:16:31 2001] * Guide *[50 Monk] Yumenoteki (Human) <Keepers of Morell Thule> ZONE: soldungb (USER PID HT3SRT4)
+[Sun Jun 24 01:16:31 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jun 24 01:16:31 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: ecommons (USER PID FS6MRL2)
+[Sun Jun 24 01:16:31 2001] There are 4 players in EverQuest.
+[Sun Jun 24 01:16:36 2001] Yumenoteki GMSAYS, 'zoning'
+[Sun Jun 24 01:16:40 2001] Yumenoteki GMSAYS, 'zoning'
+[Sun Jun 24 01:16:47 2001] You GMSAY, 'we don't necessarily handle sleeping players'
+[Sun Jun 24 01:16:47 2001] Larsot GMSAYS, 'escalated sleeping player pet'
+[Sun Jun 24 01:17:09 2001] Yumenoteki invites you to join a group.
+[Sun Jun 24 01:17:09 2001] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Sun Jun 24 01:17:10 2001] You notify Yumenoteki that you agree to join the group.
+[Sun Jun 24 01:17:11 2001] You have joined the group.
+[Sun Jun 24 01:17:11 2001] Larsot has joined the group.
+[Sun Jun 24 01:17:11 2001] Kinther has joined the group.
+[Sun Jun 24 01:17:20 2001] You tell your party, 'oh now I have to fill out a DSR (sigh)'
+[Sun Jun 24 01:17:24 2001] Yumenoteki tells the group, 'LOL'
+[Sun Jun 24 01:17:29 2001] Yumenoteki tells the group, 'but you're mentoring silly'
+[Sun Jun 24 01:17:46 2001] Yumenoteki GMSAYS, 'oooh ... I get to get the chance on dying'
+[Sun Jun 24 01:17:52 2001] Yumenoteki tells the group, 'Larsot ... you busy?'
+[Sun Jun 24 01:17:56 2001] You tell your party, 'Larsot, I'm a perfect example of a guide who still has appie addiction'
+[Sun Jun 24 01:17:59 2001] Larsot GMSAYS, 'so what are we supposed to do with this type of call? leave it?'
+[Sun Jun 24 01:18:07 2001] Larsot tells the group, 'hehe'
+[Sun Jun 24 01:18:21 2001] Yumenoteki GMSAYS, 'no ... player asleep?  I got lost in battle spam'
+[Sun Jun 24 01:18:23 2001] You GMSAY, 'personally, if they're not in any real danger, I leave them'
+[Sun Jun 24 01:18:33 2001] Yumenoteki GMSAYS, 'aye ... same here ... '
+[Sun Jun 24 01:18:41 2001] Yumenoteki GMSAYS, 'what I always tell the petitioner is ...'
+[Sun Jun 24 01:18:42 2001] You GMSAY, 'the GMs on chat take a very long time to get around to a kick most times'
+[Sun Jun 24 01:19:05 2001] Yumenoteki GMSAYS, 'don't you wish the Tribunal would grant players the wisdom to know when they're falling asleep and log themselves out?'
+[Sun Jun 24 01:19:12 2001] Larsot GMSAYS, 'understandable but I did what I was supposed to do   :P'
+[Sun Jun 24 01:19:21 2001] Yumenoteki GMSAYS, 'but if the Tribunal judges them to die, well, do your best protecting them'
+[Sun Jun 24 01:19:23 2001] Larsot GMSAYS, 'LOL'
+[Sun Jun 24 01:19:35 2001] Yumenoteki GMSAYS, 'petitioners love when I say that'
+[Sun Jun 24 01:19:42 2001] Yumenoteki GMSAYS, 'then I say'
+[Sun Jun 24 01:20:02 2001] It begins to rain.
+[Sun Jun 24 01:20:17 2001] Yumenoteki GMSAYS, 'I will see if I can gain an elder god from an outer realm to come to your aid ... but it may take a very long time'
+[Sun Jun 24 01:20:32 2001] Larsot GMSAYS, 'ahhh'
+[Sun Jun 24 01:20:34 2001] Yumenoteki GMSAYS, 'and if the queue is full ... well, you're screwed basically, and so is the sleeping player'
+[Sun Jun 24 01:20:46 2001] You GMSAY, '7.2.3.4 If there are no senior+ online ... the petitioner should be informed that we are unable to honor their request at this time.'
+[Sun Jun 24 01:20:50 2001] Yumenoteki GMSAYS, 'excellent roleplaying opportunity'
+[Sun Jun 24 01:21:15 2001] Yumenoteki GMSAYS, 'I also suggest, they may want to send someone outside ... '
+[Sun Jun 24 01:21:19 2001] Yumenoteki GMSAYS, 'but you know what's funny?'
+[Sun Jun 24 01:21:24 2001] Larsot GMSAYS, 'ok, ill highlite that section then, hehe'
+[Sun Jun 24 01:21:45 2001] Yumenoteki GMSAYS, 'players usually wake up if you tell the petitioner their groupmate is SoL'
+[Sun Jun 24 01:21:54 2001] You GMSAY, 'heh'
+[Sun Jun 24 01:21:56 2001] Larsot GMSAYS, 'ROFL'
+[Sun Jun 24 01:22:02 2001] Kinther tells the group, 'heh'
+[Sun Jun 24 01:22:19 2001] You GMSAY, 'if it looks like they're going to die, I'll get a GM from chat'
+[Sun Jun 24 01:22:30 2001] Kinther tells the group, 'btw did I tell you all that I have a new Com?'
+[Sun Jun 24 01:22:31 2001] Yumenoteki GMSAYS, 'and the Tribunal *ALWAYS* grants the sleeper the wisdom not to sleep after dying at high levels'
+[Sun Jun 24 01:22:39 2001] You tell your party, 'Com? Computer?'
+[Sun Jun 24 01:22:42 2001] Kinther tells the group, 'errr comp'
+[Sun Jun 24 01:22:42 2001] Larsot GMSAYS, 'a level 36 in Ferrott is at little risk in my opinion though with the exception of a few spots'
+[Sun Jun 24 01:22:56 2001] Kinther tells the group, 'yeah'
+[Sun Jun 24 01:22:57 2001] Yumenoteki GMSAYS, 'is he an Ogre?'
+[Sun Jun 24 01:22:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 24 01:22:59 2001] USER TEXT: I need a GM to please come and force Teuil to go LD in Rathe Mountains for I believe he has fallen asleep
+[Sun Jun 24 01:22:59 2001] Players in EverQuest:
+[Sun Jun 24 01:23:00 2001] ---------------------------
+[Sun Jun 24 01:23:00 2001] [ANON (36 Cleric)] Salunia (Dark Elf) ZONE: rathemtn (USER PID AXKP6VM)
+[Sun Jun 24 01:23:00 2001] There is 1 player in EverQuest.
+[Sun Jun 24 01:23:06 2001] UNDOING CHECK OUT
+[Sun Jun 24 01:23:18 2001] Larsot GMSAYS, 'no, he is a inky'
+[Sun Jun 24 01:23:21 2001] You tell your party, 'he's in Rathe, prob. fighting giants'
+[Sun Jun 24 01:23:32 2001] You tell your party, 'probably again on safe hill where nothing comes'
+[Sun Jun 24 01:24:11 2001] Espranza saved.
+[Sun Jun 24 01:24:26 2001] You tell your party, 'oh what the heck, I'll go have a look'
+[Sun Jun 24 01:24:27 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 24 01:24:28 2001] USER TEXT: I need a GM to please come and force Teuil to go LD in Rathe Mountains for I believe he has fallen asleep
+[Sun Jun 24 01:24:28 2001] Players in EverQuest:
+[Sun Jun 24 01:24:28 2001] ---------------------------
+[Sun Jun 24 01:24:28 2001] [ANON (36 Cleric)] Salunia (Dark Elf) ZONE: rathemtn (USER PID AXKP6VM)
+[Sun Jun 24 01:24:28 2001] There is 1 player in EverQuest.
+[Sun Jun 24 01:24:30 2001] Larsot GMSAYS, 'why did I think he was in Ferrott?'
+[Sun Jun 24 01:24:32 2001] You tell your party, 'be something to report'
+[Sun Jun 24 01:24:33 2001] Larsot GMSAYS, 'hmm'
+[Sun Jun 24 01:24:34 2001] You GMSAY, 'zone'
+[Sun Jun 24 01:24:40 2001] Teleporting to teuil.
+[Sun Jun 24 01:24:41 2001] LOADING, PLEASE WAIT...
+[Sun Jun 24 01:25:10 2001] You have entered Rathe Mountains.
+[Sun Jun 24 01:25:10 2001] You have joined the group.
+[Sun Jun 24 01:25:42 2001] You tell your party, 'he's in a safe spot'
+[Sun Jun 24 01:25:59 2001] Larsot tells the group, 'ohhh good'
+[Sun Jun 24 01:25:59 2001] Yumenoteki tells the group, 'heh heh'
+[Sun Jun 24 01:26:02 2001] Yumenoteki tells the group, 'zoning'
+[Sun Jun 24 01:26:05 2001] Yumenoteki GMSAYS, 'zoning'
+[Sun Jun 24 01:26:27 2001] You poke Teuil.
+[Sun Jun 24 01:26:43 2001] GM TEXT: Larsot: Sleeping player named Teuil. NO responce from his group in 20 minutes.
+[Sun Jun 24 01:26:50 2001] Yumenoteki GMSAYS, 'quiz time Larsot'
+[Sun Jun 24 01:26:52 2001] Larsot GMSAYS, 'forgive me, afk a minute'
+[Sun Jun 24 01:26:58 2001] Larsot GMSAYS, 'ok....shoot'
+[Sun Jun 24 01:27:02 2001] You tell your party, 'Good escalation, Larsot'
+[Sun Jun 24 01:27:06 2001] Yumenoteki GMSAYS, 'how do you reset a vendor?'
+[Sun Jun 24 01:27:06 2001] Salunia says, 'Teuil please wake up'
+[Sun Jun 24 01:27:15 2001] Larsot GMSAYS, 'I dont'
+[Sun Jun 24 01:27:25 2001] Yumenoteki GMSAYS, 'as a guide ... LOL'
+[Sun Jun 24 01:27:35 2001] You told Salunia, 'Hail, Salunia! Guide Espranza here. It looks like the gods have struck your friend speechless'
+[Sun Jun 24 01:27:51 2001] Salunia tells you, 'Yes My Lady it would seem that way ~sighs~'
+[Sun Jun 24 01:27:53 2001] You told Salunia, 'It is fortunate indeed he is in a safe place.'
+[Sun Jun 24 01:28:08 2001] Salunia tells you, 'He is lucky in that respects ~giggles~'
+[Sun Jun 24 01:28:11 2001] Larsot GMSAYS, 'i use my "tools" to memory wipe him or agro and mem wipe him?'
+[Sun Jun 24 01:28:12 2001] You told Salunia, 'Unfortunately, none of us here have the power to sever his connection to our plane'
+[Sun Jun 24 01:28:32 2001] You feel as if you are about to fall.
+[Sun Jun 24 01:28:37 2001] Salunia tells you, 'I see. I will speak to my family then and inform them of this so that we may watch over him this eve'
+[Sun Jun 24 01:28:38 2001] You feel as if you are about to fall.
+[Sun Jun 24 01:28:39 2001] You told Salunia, 'I feel, though, he will be safe until he returns to his senses.'
+[Sun Jun 24 01:28:40 2001] Yumenoteki GMSAYS, 'ok ... do it step by step '
+[Sun Jun 24 01:28:42 2001] You can no longer levitate.
+[Sun Jun 24 01:29:06 2001] You grin evilly at Teuil.
+[Sun Jun 24 01:29:13 2001] You sigh at Teuil.
+[Sun Jun 24 01:29:18 2001] Salunia tells you, 'I shall watch my brother this eve then to keep him safe.'
+[Sun Jun 24 01:29:19 2001] DELETING THIS PETITION
+[Sun Jun 24 01:29:25 2001] Salunia tells you, 'I thank you for your attempts'
+[Sun Jun 24 01:29:28 2001] You told Salunia, 'You are a true friend and companion'
+[Sun Jun 24 01:29:33 2001] You no longer have a target.
+[Sun Jun 24 01:29:34 2001] You wave goodbye to everyone.
+[Sun Jun 24 01:29:36 2001] You GMSAY, 'zone'
+[Sun Jun 24 01:29:41 2001] Teleporting to yumenoteki.
+[Sun Jun 24 01:29:41 2001] LOADING, PLEASE WAIT...
+[Sun Jun 24 01:30:08 2001] You have entered East Commonlands.
+[Sun Jun 24 01:30:08 2001] You have joined the group.
+[Sun Jun 24 01:30:10 2001] Serenita shouts, 'TP to Tox, Nth K and Fay - 10pp  a seat  send tell'
+[Sun Jun 24 01:30:15 2001] Calgire shouts, 'PC on Reinforced Panther Skin Sleeves please'
+[Sun Jun 24 01:30:33 2001] Yumenoteki GMSAYS, 'heh heh ... what commands do you use to locate him?  If his name is Merra Clayfinger?'
+[Sun Jun 24 01:30:33 2001] You have become better at Intimidation! (112)
+[Sun Jun 24 01:30:47 2001] Yumenoteki waves at Espranza.
+[Sun Jun 24 01:30:49 2001] You're not scaring anyone.
+[Sun Jun 24 01:30:54 2001] You beam a smile at Yumenoteki.
+[Sun Jun 24 01:31:08 2001] You're not scaring anyone.
+[Sun Jun 24 01:31:09 2001] Espranza is a halfling monk.
+[Sun Jun 24 01:31:19 2001] You're not scaring anyone.
+[Sun Jun 24 01:31:24 2001] Yumenoteki tells the group, 'heh heh'
+[Sun Jun 24 01:31:25 2001] Larsot GMSAYS, 'hmmm. I think /locate <name> then /goto <name>'
+[Sun Jun 24 01:31:30 2001] Serenita shouts, 'TP to Tox, Nth K and Fay - 10pp  a seat  send tell'
+[Sun Jun 24 01:31:30 2001] You're not scaring anyone.
+[Sun Jun 24 01:31:34 2001] You tell your party, 'bzzzzzzt'
+[Sun Jun 24 01:31:36 2001] Yumenoteki GMSAYS, 'ok ... but the name :)'
+[Sun Jun 24 01:31:39 2001] Guard Reskin says 'That's it, swine!  You're outta here! 
+[Sun Jun 24 01:31:45 2001] Eaedyar shouts, 'orc 2 looking for 1 more around lvl 11'
+[Sun Jun 24 01:31:57 2001] Yumenoteki tells you, 'LOL ... this is why I do quizes so often'
+[Sun Jun 24 01:32:06 2001] You tell your party, 'you use /sea or /find, not /loc'
+[Sun Jun 24 01:32:10 2001] Larsot GMSAYS, 'i am not understanding?'
+[Sun Jun 24 01:32:22 2001] Yumenoteki GMSAYS, 'aye ... what name would you use?'
+[Sun Jun 24 01:32:28 2001] Larsot GMSAYS, 'ahhh even on NPC's?'
+[Sun Jun 24 01:32:30 2001] Noter says out of character, 'will give someone excelent sabortooth hide if they are available to port to bb'
+[Sun Jun 24 01:32:45 2001] You tell your party, 'personally, I just wait until Yumenoteki comes to one, then just /goto yumenoteki'
+[Sun Jun 24 01:32:46 2001] Merra Clayfinger says 'Welcome to my shop Erinnys, you would probably find a Sculpting Tools handy'
+[Sun Jun 24 01:32:49 2001] Vurtrue shouts, 'anyone have a diamond?'
+[Sun Jun 24 01:32:51 2001] Yumenoteki tells you, 'would you believe I never received proper training?  A few of us didn't ... we were trained by Lancet who said ... um. .. queueu is full ... have at it'
+[Sun Jun 24 01:32:52 2001] Larsot tells the group, 'lol'
+[Sun Jun 24 01:33:01 2001] Yumenoteki tells the group, 'LOL'
+[Sun Jun 24 01:33:12 2001] Larsot GMSAYS, 'i would use #clayfinger?'
+[Sun Jun 24 01:33:13 2001] Yumenoteki tells you, 'it was Narcomi who showed me a lot of things ... '
+[Sun Jun 24 01:33:19 2001] Yumenoteki tells you, 'where is Narcomi?'
+[Sun Jun 24 01:33:19 2001] You told Yumenoteki, 'Lancet no longer trains. Coincidence, or no?'
+[Sun Jun 24 01:33:27 2001] Calgire shouts, 'Anyone know what level Waking Lands are?'
+[Sun Jun 24 01:33:30 2001] You told Yumenoteki, 'Narcomi is no longer with us, alas'
+[Sun Jun 24 01:33:36 2001] Astrall shouts, '45+'
+[Sun Jun 24 01:33:39 2001] Yumenoteki tells you, 'aye ... he said he wasn't a trainer ... I think Bruus or Nazbag were also trained at the same time'
+[Sun Jun 24 01:33:42 2001] Calgire shouts, 'Thanks lot'
+[Sun Jun 24 01:33:44 2001] Yumenoteki tells you, 'what happened?'
+[Sun Jun 24 01:34:00 2001] You told Yumenoteki, 'dunno. stopped showing up, was autmatically made inactive I think.'
+[Sun Jun 24 01:34:13 2001] Yumenoteki GMSAYS, 'if the name is Merra Clayfinger ... what would the name be if you were using find?'
+[Sun Jun 24 01:34:22 2001] Angelize says out of character, 'I would kill to have a diamond at the moment lol'
+[Sun Jun 24 01:34:26 2001] You tell your party, 'Mister Clayfinger?'
+[Sun Jun 24 01:34:30 2001] Yumenoteki tells you, 'hmmm ... think I'll send him e-mail ...'
+[Sun Jun 24 01:34:36 2001] Kinther GMSAYS, 'Ok I am really thinking that it was bad to be a cleric, as my guide char'
+[Sun Jun 24 01:34:36 2001] Sahrana begins to cast a spell. (Invisibility)
+[Sun Jun 24 01:34:50 2001] You GMSAY, 'Heh... I changed from cleric to rogue'
+[Sun Jun 24 01:34:55 2001] Yumenoteki GMSAYS, 'we'll take you to the guide PvP area to prove to you it's a bad idea'
+[Sun Jun 24 01:35:07 2001] You GMSAY, 'I proved that to him already'
+[Sun Jun 24 01:35:09 2001] Kinther GMSAYS, 'been there done that'
+[Sun Jun 24 01:35:14 2001] Yumenoteki is surrounded by a brief aura.
+[Sun Jun 24 01:35:16 2001] Noter shouts, 'will give someone excelent sabortooth hide if they can port me to bb'
+[Sun Jun 24 01:35:23 2001] Yumenoteki GMSAYS, 'bah ... he kept running when he first got buffed'
+[Sun Jun 24 01:35:25 2001] Venlaar shouts, 'level 8 necro and level 9 cleric looking for 3rd member '
+[Sun Jun 24 01:35:32 2001] Kinther GMSAYS, 'so how can I change to a warrior?'
+[Sun Jun 24 01:35:35 2001] Yumenoteki GMSAYS, 'want a bone Larsot?'
+[Sun Jun 24 01:35:36 2001] Larsot GMSAYS, 'i guess i dont know the answer'
+[Sun Jun 24 01:35:40 2001] You tell your party, 'waaait'
+[Sun Jun 24 01:35:41 2001] Yumenoteki GMSAYS, '/petition Lirus'
+[Sun Jun 24 01:35:50 2001] Kinther GMSAYS, 'heh'
+[Sun Jun 24 01:35:53 2001] Yumenoteki tells the group, 'hmmm ... didn't Espranza cover this?'
+[Sun Jun 24 01:35:54 2001] You tell your party, 'all this is in the P&P'
+[Sun Jun 24 01:35:58 2001] Yumenoteki tells the group, 'it is?'
+[Sun Jun 24 01:36:00 2001] You tell your party, 'I didn't do training today'
+[Sun Jun 24 01:36:24 2001] Angelize says out of character, 'Ok looking for alot of high lvls with time on thier hands. We need help killing Lucin PLEASE =)'
+[Sun Jun 24 01:36:28 2001] You tell your party, 'think so...'
+[Sun Jun 24 01:36:44 2001] Yumenoteki tells the group, 'ok ... Merra Clayfinger would be something like Merra_Clayfinger00'
+[Sun Jun 24 01:36:46 2001] Quader says out of character, 'i will help give me a sec '
+[Sun Jun 24 01:36:53 2001] Yumenoteki tells the group, 'so you would type /find Merra_Clayfinger00'
+[Sun Jun 24 01:37:02 2001] Larsot tells the group, 'ahhh ok'
+[Sun Jun 24 01:37:07 2001] Yumenoteki tells the group, 'that was the trick question'
+[Sun Jun 24 01:37:11 2001] You tell your party, 'waaaait'
+[Sun Jun 24 01:37:15 2001] You tell your party, 'this IS in the P&P'
+[Sun Jun 24 01:37:22 2001] Sergeant Slate says 'That's it, swine!  You're outta here! 
+[Sun Jun 24 01:37:23 2001] You tell your party, 'section 2.2.2'
+[Sun Jun 24 01:37:30 2001] You tell your party, 'shoulda just looked there.'
+[Sun Jun 24 01:37:31 2001] Yumenoteki tells you, 'my training was so horrible I had to make sure I cover this *wink*  I ended my apprenticeship before I knew that answer'
+[Sun Jun 24 01:37:36 2001] Larsot tells the group, 'i did'
+[Sun Jun 24 01:37:48 2001] Larsot tells the group, 'but i didnt want to "cheat"   :D'
+[Sun Jun 24 01:37:58 2001] You tell your party, 'Looking in the P&P is not cheating'
+[Sun Jun 24 01:38:05 2001] You tell your party, 'in fact, that's what you're supposed to do'
+[Sun Jun 24 01:38:06 2001] Yumenoteki tells the group, 'aye'
+[Sun Jun 24 01:38:11 2001] Kinther tells the group, 'thats what it is there for'
+[Sun Jun 24 01:38:16 2001] Larsot tells the group, 'i thought this was a quiz?'
+[Sun Jun 24 01:38:18 2001] Yumenoteki tells the group, 'that's how Kinther passed'
+[Sun Jun 24 01:38:26 2001] Yumenoteki tells you, 'LOL'
+[Sun Jun 24 01:38:30 2001] You told Yumenoteki, ':)'
+[Sun Jun 24 01:38:34 2001] Yumenoteki tells the group, 'sorta'
+[Sun Jun 24 01:38:44 2001] Yumenoteki tells the group, 'you try to build on your memories'
+[Sun Jun 24 01:38:46 2001] You tell your party, 'Well, Kinther is a dwarf'
+[Sun Jun 24 01:38:52 2001] Yumenoteki tells the group, 'but they need some examples'
+[Sun Jun 24 01:38:58 2001] Larsot tells the group, 'true'
+[Sun Jun 24 01:38:59 2001] Sinny says out of character, 'what is carnelian used for?'
+[Sun Jun 24 01:39:06 2001] Valkrados says out of character, 'making agi jewelry'
+[Sun Jun 24 01:39:14 2001] Sinny says out of character, 'ahh ok thanks'
+[Sun Jun 24 01:39:19 2001] Yumenoteki tells the group, 'you did well ... I didn't know how to use the find command since I wanted to be the best apprentice ....'
+[Sun Jun 24 01:39:33 2001] Kinther GMSAYS, 'ok some Sk in qeynos went into the temple of life space ship and can not get his corpse is there anything we can do, I don't thik we can but I'm checking'
+[Sun Jun 24 01:39:35 2001] You emote 'shows Merra Clayfinger her little birdie, watch it fly!'
+[Sun Jun 24 01:39:40 2001] Yumenoteki tells the group, 'so I got trained by Rynara for a few secs how to be a guide after she determined I could become one'
+[Sun Jun 24 01:40:00 2001] You GMSAY, 'nothing we can do'
+[Sun Jun 24 01:40:06 2001] Larsot tells the group, ':)'
+[Sun Jun 24 01:40:08 2001] Ganelorn shouts, 'will pay good money if some one please cast clarity on me about 5 to 10 platnium'
+[Sun Jun 24 01:40:13 2001] You GMSAY, 'he could ask NEARLY ANYONE to drag it out for him'
+[Sun Jun 24 01:40:18 2001] Yumenoteki GMSAYS, 'depends if it's stuck somewhere he can't summon, or if he's a SK that went there'
+[Sun Jun 24 01:40:35 2001] You GMSAY, 'ooooh wait'
+[Sun Jun 24 01:40:38 2001] Espranza saved.
+[Sun Jun 24 01:40:38 2001] Kinther GMSAYS, 'even though he cant get anyone to drag it out of the little area'
+[Sun Jun 24 01:40:42 2001] Merra Clayfinger says 'Welcome to my shop Polard, you would probably find a Fire Beetle Leg handy'
+[Sun Jun 24 01:40:46 2001] Yumenoteki GMSAYS, 'going anon for investigation'
+[Sun Jun 24 01:40:48 2001] You GMSAY, 'sure he could, go invis'
+[Sun Jun 24 01:40:49 2001] Yumenoteki GMSAYS, 'freportw'
+[Sun Jun 24 01:41:00 2001] Aaena begins to cast a spell. (Cackling Bones)
+[Sun Jun 24 01:41:03 2001] Yumenoteki GMSAYS, 'zoning'
+[Sun Jun 24 01:41:11 2001] Ganelorn shouts, 'will pay good money if some one please cast clarity on me about 5 to 10 platnium'
+[Sun Jun 24 01:41:14 2001] You bow before Polard.
+[Sun Jun 24 01:41:18 2001] Kinther GMSAYS, 'huh?'
+[Sun Jun 24 01:41:19 2001] Larsot GMSAYS, 'couldnt he make a newbie human in Qeynos to pull it out?'
+[Sun Jun 24 01:41:21 2001] Polard bows before Espranza.
+[Sun Jun 24 01:41:24 2001] Polard says, 'hello'
+[Sun Jun 24 01:41:30 2001] You GMSAY, 'the space ship is strange'
+[Sun Jun 24 01:41:35 2001] You GMSAY, 'has ports in and out'
+[Sun Jun 24 01:41:43 2001] Kinther GMSAYS, 'it is in the little zone inside the spaceship'
+[Sun Jun 24 01:41:45 2001] Desepchun says out of character, 'any 11ish wana hunt orcs'
+[Sun Jun 24 01:41:47 2001] Larsot GMSAYS, 'aye been there tons of times'
+[Sun Jun 24 01:41:55 2001] You say, 'Just watching Merra'
+[Sun Jun 24 01:42:03 2001] You say, 'He just stands there looking around'
+[Sun Jun 24 01:42:05 2001] Polard says, 'haha'
+[Sun Jun 24 01:42:07 2001] You look at Merra Clayfinger, completely puzzled.
+[Sun Jun 24 01:42:12 2001] You say, 'see?'
+[Sun Jun 24 01:42:18 2001] You say, 'like he doesn't even know we're here.'
+[Sun Jun 24 01:42:25 2001] Polard says, 'Hail Merra Clayfinger'
+[Sun Jun 24 01:42:32 2001] You emote 'waves her hand in front of Merra Clayfinger's face'
+[Sun Jun 24 01:42:37 2001] Polard says, 'even when i speak to him  =)'
+[Sun Jun 24 01:42:40 2001] You say, 'no reaction at all'
+[Sun Jun 24 01:42:46 2001] You say, 'Hail Merra Clayfinger'
+[Sun Jun 24 01:42:49 2001] You say, 'Hail Merra Clayfinger'
+[Sun Jun 24 01:42:51 2001] You poke Merra Clayfinger.
+[Sun Jun 24 01:42:51 2001] Kinther GMSAYS, 'so what can we do?'
+[Sun Jun 24 01:42:57 2001] Ganelorn shouts, 'will pay good money if some one please cast clarity on me about 5 to 10 platnium plz send tells'
+[Sun Jun 24 01:43:02 2001] You emote 'shows Merra Clayfinger her little birdie, watch it fly!'
+[Sun Jun 24 01:43:09 2001] You GMSAY, 'nothing'
+[Sun Jun 24 01:43:10 2001] Namco shouts, 'Lvl11 clr lfg'
+[Sun Jun 24 01:43:19 2001] Polard says, 'haha'
+[Sun Jun 24 01:43:24 2001] You no longer have a target.
+[Sun Jun 24 01:43:24 2001] You shrug unknowingly.
+[Sun Jun 24 01:43:29 2001] Kinther GMSAYS, 'darn it that kinda blows'
+[Sun Jun 24 01:43:38 2001] You GMSAY, 'unless the corpse is unretrievable'
+[Sun Jun 24 01:43:38 2001] Polard says, 'lets beat em up'
+[Sun Jun 24 01:43:44 2001] You agree with Polard.
+[Sun Jun 24 01:43:53 2001] Juzu begins to cast a spell. (Lifetap)
+[Sun Jun 24 01:43:55 2001] Juzu beams a smile at a black bear.
+[Sun Jun 24 01:43:55 2001] Juzu says, 'Ahhh, I feel much better now...'
+[Sun Jun 24 01:43:55 2001] Polard kicks merra.
+[Sun Jun 24 01:43:57 2001] You're not scaring anyone.
+[Sun Jun 24 01:43:58 2001] Juzu begins to cast a spell. (Lifetap)
+[Sun Jun 24 01:44:00 2001] Juzu staggers.
+[Sun Jun 24 01:44:00 2001] Juzu beams a smile at a black bear.
+[Sun Jun 24 01:44:00 2001] Juzu says, 'Ahhh, I feel much better now...'
+[Sun Jun 24 01:44:04 2001] Kinther GMSAYS, 'he cant get anyone to summon it out of the area'
+[Sun Jun 24 01:44:04 2001] Juzu begins to cast a spell. (Lifetap)
+[Sun Jun 24 01:44:06 2001] Juzu staggers.
+[Sun Jun 24 01:44:06 2001] Juzu beams a smile at a black bear.
+[Sun Jun 24 01:44:06 2001] Juzu says, 'Ahhh, I feel much better now...'
+[Sun Jun 24 01:44:09 2001] You have become better at Intimidation! (113)
+[Sun Jun 24 01:44:12 2001] Polard says, 'hehe'
+[Sun Jun 24 01:44:15 2001] You shrug at Polard.
+[Sun Jun 24 01:44:19 2001] You say, 'nothing works.'
+[Sun Jun 24 01:44:25 2001] Larsot GMSAYS, 'are we allowed to tell him to try and make a newbie human and consent himself to drag it?'
+[Sun Jun 24 01:44:34 2001] You say, 'well, off to go check another NPC... but I'm thinking it'll be the same.'
+[Sun Jun 24 01:44:36 2001] Kinther GMSAYS, 'he has tried that!'
+[Sun Jun 24 01:44:39 2001] Polard says, 'maybe hes a robot, built by gnomes to be some kinda spy'
+[Sun Jun 24 01:44:42 2001] Yumenoteki GMSAYS, 'note: Silentheart filed report on Icankicu GN16CYN for offensive language'
+[Sun Jun 24 01:44:45 2001] Larsot GMSAYS, 'ohhh hmmmm.'
+[Sun Jun 24 01:44:50 2001] You say, 'True, can't trust gnomes.'
+[Sun Jun 24 01:44:53 2001] Venlaar shouts, 'lvl 9 cleric and 8 necro looking for 3rd member send tell'
+[Sun Jun 24 01:44:54 2001] You feel different.
+[Sun Jun 24 01:44:57 2001] Polard says, '>:)'
+[Sun Jun 24 01:45:04 2001] Larsot GMSAYS, 'nice name to boot'
+[Sun Jun 24 01:45:06 2001] Yumenoteki GMSAYS, 'note: Icankicu GN16CYN's other character Noxxin was warned previously by Lirus for offensive last name'
+[Sun Jun 24 01:45:08 2001] Polard begins to walk faster.
+[Sun Jun 24 01:45:24 2001] You bonk Merra Clayfinger on the head!
+[Sun Jun 24 01:45:25 2001] Kinther GMSAYS, 'the corpse wont travel through the portal thingy'
+[Sun Jun 24 01:45:27 2001] Yumenoteki GMSAYS, 'aye larcot ...'
+[Sun Jun 24 01:45:38 2001] Your illusion fades.
+[Sun Jun 24 01:45:38 2001] You feel a bit dispelled.
+[Sun Jun 24 01:45:43 2001] Yumenoteki GMSAYS, 'how did the SK make it to the UFO?'
+[Sun Jun 24 01:45:47 2001] Polard says, 'well see ya later :)'
+[Sun Jun 24 01:45:50 2001] Polard waves goodbye to Espranza.
+[Sun Jun 24 01:45:54 2001] You wave goodbye to Polard.
+[Sun Jun 24 01:45:57 2001] Kinther GMSAYS, 'he zoned in i guess'
+[Sun Jun 24 01:46:02 2001] Polard begins to walk faster.
+[Sun Jun 24 01:46:03 2001] Polard begins to walk faster.
+[Sun Jun 24 01:46:04 2001] Polard begins to walk faster.
+[Sun Jun 24 01:46:09 2001] Polard begins to walk faster.
+[Sun Jun 24 01:46:12 2001] Larsot GMSAYS, 'lol'
+[Sun Jun 24 01:46:14 2001] Kinther GMSAYS, 'but he cant get the corpse through the zonething'
+[Sun Jun 24 01:46:15 2001] You GMSAY, 'well, let's look in the ol' P&P'
+[Sun Jun 24 01:46:37 2001] You GMSAY, 'but you know, we don't drag corpses from the Hole.'
+[Sun Jun 24 01:46:46 2001] Larsot GMSAYS, 'then that sounds like its irrecoverable to be, hence is the word Stuck!!   :P'
+[Sun Jun 24 01:47:02 2001] Kinther GMSAYS, 'heh I know that'
+[Sun Jun 24 01:47:06 2001] You GMSAY, 'What is different about Qeynos that makes it so much more difficult than the Hole or any other dungeon?'
+[Sun Jun 24 01:47:18 2001] Aludair says out of character, 'anyone selling ravenscale?'
+[Sun Jun 24 01:47:19 2001] You GMSAY, 'We don't retrieve corpses from Fear or Hate either'
+[Sun Jun 24 01:47:29 2001] Kinther GMSAYS, 'that you are transported to the spaceship thingy'
+[Sun Jun 24 01:47:40 2001] You GMSAY, 'as opposed to an alternate plane?'
+[Sun Jun 24 01:48:04 2001] You GMSAY, 'we are not here to protect players from bad choices'
+[Sun Jun 24 01:48:06 2001] Kinther GMSAYS, 'in the hole you can actually get someone to drag the corpse out'
+[Sun Jun 24 01:48:19 2001] Larsot GMSAYS, 'hmmm guide discretion discussion   :)'
+[Sun Jun 24 01:48:24 2001] Yumenoteki GMSAYS, 'then again, there's that death binding thingy again'
+[Sun Jun 24 01:48:54 2001] Yumenoteki GMSAYS, 'and the fact there's an exclusion about intervening for a bad decision there'
+[Sun Jun 24 01:49:05 2001] You GMSAY, 'please turn to 7.3.1.3 in your P&P'
+[Sun Jun 24 01:49:06 2001] Yumenoteki GMSAYS, 'Larsot ... you know the history behind it, right?'
+[Sun Jun 24 01:49:19 2001] Kinther GMSAYS, 'you are physically Not able to drag the corpse out of the spaceship'
+[Sun Jun 24 01:49:21 2001] Larsot GMSAYS, 'well that was obviously a bad desicion on his part'
+[Sun Jun 24 01:49:38 2001] Aludair says out of character, 'hi tarrk'
+[Sun Jun 24 01:49:39 2001] Aludair says out of character, 'tping'
+[Sun Jun 24 01:49:41 2001] Larsot GMSAYS, 'history behind which part?'
+[Sun Jun 24 01:49:45 2001] Tarrk says out of character, 'hail lass'
+[Sun Jun 24 01:50:14 2001] Ganelorn shouts, 'it is almost christmas in the game Lol  Merry Christmas !!!'
+[Sun Jun 24 01:50:19 2001] Yumenoteki GMSAYS, 'death loop ... and re-binds'
+[Sun Jun 24 01:50:51 2001] Larsot GMSAYS, 'i dont know if i know the "history" behind that no?'
+[Sun Jun 24 01:50:59 2001] Guard Reskin says 'That's it, swine!  You're outta here! 
+[Sun Jun 24 01:51:02 2001] Kittyara begins to cast a spell. (Harm Touch)
+[Sun Jun 24 01:51:07 2001] You GMSAY, 'zone'
+[Sun Jun 24 01:51:08 2001] Yumenoteki GMSAYS, 'well ... some idiot decided to bind as a human, in Ogguk'
+[Sun Jun 24 01:51:11 2001] Guard Reskin says 'That's it, swine!  You're outta here! 
+[Sun Jun 24 01:51:11 2001] a fire beetle has been slain by Guard Reskin!
+[Sun Jun 24 01:51:12 2001] LOADING, PLEASE WAIT...
+[Sun Jun 24 01:51:36 2001] You have entered North Qeynos.
+[Sun Jun 24 01:51:37 2001] You have joined the group.
+[Sun Jun 24 01:51:43 2001] Yumenoteki GMSAYS, 'and ended up de-levelling'
+[Sun Jun 24 01:51:46 2001] Kinther GMSAYS, 'Ok I submit to your supeior logic'
+[Sun Jun 24 01:51:55 2001] Bryg says out of character, 'Two Travelers seek a port to the Commonlands.  Will pay for th' trip.'
+[Sun Jun 24 01:52:06 2001] You GMSAY, 'we may not like the rules...'
+[Sun Jun 24 01:52:11 2001] Lashun Novashine begins to cast a spell. (Cure Disease)
+[Sun Jun 24 01:52:13 2001] Kinther GMSAYS, 'now I have to tell the player'
+[Sun Jun 24 01:52:16 2001] Yumenoteki GMSAYS, 'hence ... a new policy was created allowing idiot players to continue levelling'
+[Sun Jun 24 01:52:17 2001] Lashun Novashine begins to cast a spell. (Cure Disease)
+[Sun Jun 24 01:52:21 2001] Lashun Novashine begins to cast a spell. (Cure Disease)
+[Sun Jun 24 01:52:27 2001] Yumenoteki GMSAYS, 'I'm a Darwinist if you haven't figured it out'
+[Sun Jun 24 01:52:35 2001] You tell your party, 'what was the player name?'
+[Sun Jun 24 01:52:38 2001] Larsot GMSAYS, 'awww so it is an "allowable" intervention then'
+[Sun Jun 24 01:52:45 2001] Yumenoteki GMSAYS, 'only on death binds'
+[Sun Jun 24 01:52:47 2001] Kinther tells the group, 'draknir'
+[Sun Jun 24 01:52:50 2001] Searching zones for corpse of that name....
+[Sun Jun 24 01:52:51 2001] Corpse: Draknir's corpse0 in zone: qeynos2
+[Sun Jun 24 01:52:56 2001] Fippy Darkpaw shouts '<BBBBBAAAARRRKKKK!!!!!>  You humans will pay for ruining our homeland!!  GRRRRRRRR!!!!  Family Darkpaw of the Sabretooth Clan will slay you all!!  <BARK!> 
+[Sun Jun 24 01:52:57 2001] Port Authority Officer shouts 'Here ye, here ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! 
+[Sun Jun 24 01:52:57 2001] Yumenoteki GMSAYS, 'investigation done'
+[Sun Jun 24 01:53:00 2001] Teleporting to draknir's corpse0.
+[Sun Jun 24 01:53:04 2001] Larsot GMSAYS, 'i can understand that'
+[Sun Jun 24 01:53:08 2001] Yumenoteki GMSAYS, 'zoning'
+[Sun Jun 24 01:53:25 2001] You tell your party, 'this corpse is retrievable'
+[Sun Jun 24 01:53:39 2001] Suuspa Clanim begins to cast a spell. (Divine Favor)
+[Sun Jun 24 01:53:39 2001] Camlend Serbold begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 01:53:39 2001] You tell your party, 'without any special pains even'
+[Sun Jun 24 01:53:43 2001] Priestess Jahnda begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 01:53:43 2001] Priestess Jahnda lets loose a mighty yaulp.
+[Sun Jun 24 01:53:46 2001] Kinther tells the group, 'how?'
+[Sun Jun 24 01:53:49 2001] The spirit leaves you.
+[Sun Jun 24 01:53:50 2001] Players in EverQuest:
+[Sun Jun 24 01:53:50 2001] ---------------------------
+[Sun Jun 24 01:53:50 2001] [15 Shadow Knight] Draknir (Human) <Utopian Guard> ZONE: qeynos2 (USER PID CX812FK)
+[Sun Jun 24 01:53:50 2001] There is 1 player in EverQuest.
+[Sun Jun 24 01:53:55 2001] Larsot tells the group, 'ohhhh bad boy for decieving gm's....'
+[Sun Jun 24 01:54:01 2001] You tell your party, 'he'll need a friend'
+[Sun Jun 24 01:54:02 2001] Suuspa Clanim begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 01:54:02 2001] Camlend Serbold begins to cast a spell. (Divine Favor)
+[Sun Jun 24 01:54:03 2001] Yumenoteki tells the group, 'what happened?'
+[Sun Jun 24 01:54:04 2001] You tell your party, 'come to me'
+[Sun Jun 24 01:54:05 2001] Kinther GMSAYS, 'zone'
+[Sun Jun 24 01:54:09 2001] Yumenoteki GMSAYS, 'zoning'
+[Sun Jun 24 01:54:10 2001] You feel the spirit of Norrath enter you.
+[Sun Jun 24 01:54:11 2001] Your feet leave the ground.
+[Sun Jun 24 01:54:34 2001] Larsot GMSAYS, 'pulling Inydara pet'
+[Sun Jun 24 01:54:38 2001] Suuspa Clanim begins to cast a spell. (Divine Favor)
+[Sun Jun 24 01:54:38 2001] Tonmerk Plorsin begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 01:54:38 2001] Camlend Serbold begins to cast a spell. (Divine Favor)
+[Sun Jun 24 01:54:43 2001] Teleporting to Draknir's corpse0 (-122.00, -589.07,   3.72).
+[Sun Jun 24 01:54:51 2001] You tell your party, 'looks pretty bad'
+[Sun Jun 24 01:54:58 2001] Enic Ruklin begins to cast a spell. (Center)
+[Sun Jun 24 01:54:59 2001] You tell your party, 'if he bring it here though'
+[Sun Jun 24 01:55:04 2001] You tell your party, 'should be able to loot without aggro'
+[Sun Jun 24 01:55:12 2001] Yumenoteki tells the group, 'hmmm ... aye'
+[Sun Jun 24 01:55:20 2001] Aetheni begins to cast a spell. (Alliance)
+[Sun Jun 24 01:55:23 2001] You tell your party, 'he'll need someone to invis him though'
+[Sun Jun 24 01:55:26 2001] Yumenoteki tells the group, 'it's behind her aggro'
+[Sun Jun 24 01:55:27 2001] You tell your party, 'too low for gather shadows'
+[Sun Jun 24 01:55:51 2001] You tell your party, 'good druid should be able to do the trick and port him out after'
+[Sun Jun 24 01:56:10 2001] You tell your party, 'it is retrievable at risk.'
+[Sun Jun 24 01:56:30 2001] Priestess Caulria looks your way apprehensively -- what would you like your tombstone to say?
+[Sun Jun 24 01:56:33 2001] You begin to sneak...
+[Sun Jun 24 01:56:33 2001] You are as quiet as herd of running elephants.
+[Sun Jun 24 01:56:35 2001] You begin to hide...
+[Sun Jun 24 01:56:35 2001] You failed to hide yourself.
+[Sun Jun 24 01:56:37 2001] You stop hiding.
+[Sun Jun 24 01:56:43 2001] You tell your party, 'checking see invis...'
+[Sun Jun 24 01:56:45 2001] You begin to sneak...
+[Sun Jun 24 01:56:45 2001] You have become better at Sneak! (57)
+[Sun Jun 24 01:56:45 2001] You are as quiet as a cat stalking its prey.
+[Sun Jun 24 01:56:46 2001] You begin to hide...
+[Sun Jun 24 01:56:47 2001] You have hidden yourself from view.
+[Sun Jun 24 01:56:49 2001] Priestess Caulria regards you indifferently -- what would you like your tombstone to say?
+[Sun Jun 24 01:56:51 2001] Larsot GMSAYS, 'anyone ever heard of a whole group the just stops getting exp?'
+[Sun Jun 24 01:56:54 2001] You tell your party, 'they can't see through nivis'
+[Sun Jun 24 01:56:59 2001] You stop sneaking.
+[Sun Jun 24 01:57:00 2001] You stop hiding.
+[Sun Jun 24 01:57:03 2001] Yumenoteki GMSAYS, 'they may have to camp and come back'
+[Sun Jun 24 01:57:07 2001] Kinther tells the group, 'how can you tell?'
+[Sun Jun 24 01:57:10 2001] Priestess Caulria begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 01:57:17 2001] Larsot GMSAYS, 'ok i will make that suggestion'
+[Sun Jun 24 01:57:17 2001] You tell your party, 'used hide and sneak'
+[Sun Jun 24 01:57:23 2001] You tell your party, 'secret rogue powerz'
+[Sun Jun 24 01:57:28 2001] Yumenoteki tells the group, 'LOL'
+[Sun Jun 24 01:57:29 2001] Kinther tells the group, 'heh'
+[Sun Jun 24 01:57:33 2001] You tell your party, 'she went from apprehensive to indiff'
+[Sun Jun 24 01:58:21 2001] Players in EverQuest:
+[Sun Jun 24 01:58:21 2001] ---------------------------
+[Sun Jun 24 01:58:21 2001] [15 Shadow Knight] Draknir (Human) <Utopian Guard> ZONE: qeynos2 (USER PID CX812FK)
+[Sun Jun 24 01:58:21 2001] There is 1 player in EverQuest.
+[Sun Jun 24 01:58:21 2001] Lashun Novashine begins to cast a spell. (Cure Disease)
+[Sun Jun 24 01:58:27 2001] Lashun Novashine says 'Thank you for the donation to the Temple of Life.  May Rodcet Nife cleanse your body of all ills. 
+[Sun Jun 24 01:58:27 2001] Lashun Novashine begins to cast a spell. (Cure Disease)
+[Sun Jun 24 01:58:31 2001] Lashun Novashine begins to cast a spell. (Cure Disease)
+[Sun Jun 24 01:58:49 2001] Suuspa Clanim begins to cast a spell. (Divine Favor)
+[Sun Jun 24 01:58:49 2001] Camlend Serbold begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 01:58:51 2001] Camlend Serbold is surrounded by an aura of Divine Favor.
+[Sun Jun 24 01:58:53 2001] Priestess Jahnda begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 01:58:54 2001] Priestess Jahnda lets loose a mighty yaulp.
+[Sun Jun 24 01:59:13 2001] Suuspa Clanim begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 01:59:13 2001] Camlend Serbold begins to cast a spell. (Divine Favor)
+[Sun Jun 24 01:59:38 2001] You tell your party, 'I lose'
+[Sun Jun 24 01:59:55 2001] Lashun Novashine begins to cast a spell. (Cure Disease)
+[Sun Jun 24 02:00:00 2001] a Koalindl looks your way apprehensively -- You could probably win this fight.
+[Sun Jun 24 02:00:00 2001] Yumenoteki tells the group, 'we lost espranza'
+[Sun Jun 24 02:00:01 2001] Lashun Novashine begins to cast a spell. (Cure Disease)
+[Sun Jun 24 02:00:05 2001] Kinther tells the group, 'heh'
+[Sun Jun 24 02:00:06 2001] Teleporting to kinther.
+[Sun Jun 24 02:00:16 2001] Yumenoteki tells the group, 'you sneaking?'
+[Sun Jun 24 02:00:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 24 02:00:35 2001] USER TEXT: Is there a GM on that can boot because a friend has fallen asleep on Cpu and no way of getting to him
+[Sun Jun 24 02:00:35 2001] Kinther tells the group, 'i lost'
+[Sun Jun 24 02:00:36 2001] Players in EverQuest:
+[Sun Jun 24 02:00:36 2001] ---------------------------
+[Sun Jun 24 02:00:36 2001] [ANON (40 Shadow Knight)] Valovik (Dark Elf) ZONE: rathemtn (USER PID GWF6DF3)
+[Sun Jun 24 02:00:36 2001] There is 1 player in EverQuest.
+[Sun Jun 24 02:00:51 2001] Players in EverQuest:
+[Sun Jun 24 02:00:51 2001] ---------------------------
+[Sun Jun 24 02:00:51 2001] [ANON (40 Shadow Knight)] Valovik (Dark Elf) ZONE: rathemtn (USER PID GWF6DF3)
+[Sun Jun 24 02:00:51 2001] There is 1 player in EverQuest.
+[Sun Jun 24 02:00:55 2001] Players in EverQuest:
+[Sun Jun 24 02:00:55 2001] ---------------------------
+[Sun Jun 24 02:00:55 2001] [ANON (40 Shadow Knight)] Valovik (Dark Elf) ZONE: rathemtn (USER PID GWF6DF3)
+[Sun Jun 24 02:00:55 2001] There is 1 player in EverQuest.
+[Sun Jun 24 02:01:29 2001] You told Valovik, 'Hail, Valovik! Guide Espranza here. None of us here have this power. Is your friend in immediate danger?'
+[Sun Jun 24 02:02:06 2001] Espranza saved.
+[Sun Jun 24 02:02:21 2001] Priestess Caulria begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:02:23 2001] Fippy Darkpaw shouts '<BBBBBAAAARRRKKKK!!!!!>  You humans will pay for ruining our homeland!!  GRRRRRRRR!!!!  Family Darkpaw of the Sabretooth Clan will slay you all!!  <BARK!> 
+[Sun Jun 24 02:02:24 2001] Kinther tells the group, 'heh I wonder what people would say if they saw us running around down here'
+[Sun Jun 24 02:02:35 2001] You tell your party, 'dunno'
+[Sun Jun 24 02:02:37 2001] Larsot GMSAYS, 'suggested group camping on this pet and trying again, possible re-petition'
+[Sun Jun 24 02:02:48 2001] You tell your party, 'I rarely see guides playing around on my play server'
+[Sun Jun 24 02:03:01 2001] Yumenoteki tells the group, 'heh heh ... not on mine ...'
+[Sun Jun 24 02:03:08 2001] Kinther tells the group, 'heh me neither'
+[Sun Jun 24 02:03:16 2001] Larsot tells the group, 'at the times i play, there are NO guides   :(.......thats why i applied'
+[Sun Jun 24 02:03:19 2001] You tell your party, 'one guide did, then he quit guiding and started a character on my server.'
+[Sun Jun 24 02:03:23 2001] Valovik tells you, 'I can say we have chosin a good pulling spot and there are not too many strays but a train would wipe him out'
+[Sun Jun 24 02:03:41 2001] Valovik tells you, 'errr I cant say'
+[Sun Jun 24 02:03:43 2001] Kinther has gone Linkdead.
+[Sun Jun 24 02:03:43 2001] Kinther has left the group.
+[Sun Jun 24 02:03:45 2001] You told Valovik, 'Is this Teuil?'
+[Sun Jun 24 02:03:46 2001] Yumenoteki tells the group, 'actually, my server rarely has guides'
+[Sun Jun 24 02:03:49 2001] Larsot GMSAYS, 'going LD again   :('
+[Sun Jun 24 02:03:56 2001] You GMSAY, 'Kinther too'
+[Sun Jun 24 02:03:59 2001] Valovik tells you, 'Aye Teuil is the one'
+[Sun Jun 24 02:04:00 2001] Suuspa Clanim begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:04:00 2001] Camlend Serbold begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:04:01 2001] Camlend Serbold lets loose a mighty yaulp.
+[Sun Jun 24 02:04:02 2001] Camlend Serbold is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:04:04 2001] Priestess Jahnda begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:04:24 2001] Suuspa Clanim begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:04:24 2001] Camlend Serbold begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:04:25 2001] Suuspa Clanim lets loose a mighty yaulp.
+[Sun Jun 24 02:04:25 2001] Suuspa Clanim is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:04:25 2001] Larsot has gone Linkdead.
+[Sun Jun 24 02:04:25 2001] Larsot has left the group.
+[Sun Jun 24 02:04:26 2001] Yumenoteki tells the group, 'clerics don't have see invis ... right?'
+[Sun Jun 24 02:04:32 2001] Yumenoteki tells the group, 'we just lost Larsot'
+[Sun Jun 24 02:04:35 2001] You told Valovik, 'When I leave this realm, I will attempt to secure the services of a higher power.'
+[Sun Jun 24 02:04:39 2001] Yumenoteki tells the group, 'wonder which ISP they were on'
+[Sun Jun 24 02:04:44 2001] You tell your party, 'dunno'
+[Sun Jun 24 02:04:46 2001] Valovik tells you, 'Can yall port him to a safe spot'
+[Sun Jun 24 02:04:57 2001] Yumenoteki tells the group, 'hmm ... we're at 957 so no major crash'
+[Sun Jun 24 02:05:00 2001] Suuspa Clanim begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:05:00 2001] Tonmerk Plorsin begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:05:00 2001] Camlend Serbold begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:05:01 2001] Tonmerk Plorsin lets loose a mighty yaulp.
+[Sun Jun 24 02:05:01 2001] Tonmerk Plorsin is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:05:01 2001] Tonmerk Plorsin is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:05:01 2001] You told Valovik, 'Nay, we are not allowe dto move him/'
+[Sun Jun 24 02:05:12 2001] Valovik tells you, 'alright'
+[Sun Jun 24 02:05:37 2001] You told Valovik, 'for one, I doubt we could choose a place we know to be less dangerous than where he is right now'
+[Sun Jun 24 02:05:50 2001] DELETING THIS PETITION
+[Sun Jun 24 02:05:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 24 02:05:54 2001] USER TEXT: shd kos in temple of life unable to drag nor can anyone else drag it out what can be done to get my corpse out of temple???
+[Sun Jun 24 02:05:54 2001] Players in EverQuest:
+[Sun Jun 24 02:05:54 2001] ---------------------------
+[Sun Jun 24 02:05:54 2001] [15 Shadow Knight] Draknir (Human) <Utopian Guard> ZONE: qeynos2 (USER PID CX812FK)
+[Sun Jun 24 02:05:54 2001] There is 1 player in EverQuest.
+[Sun Jun 24 02:06:00 2001] UNDOING CHECK OUT
+[Sun Jun 24 02:06:02 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Sun Jun 24 02:06:04 2001] You tell your party, 'read Draknir'
+[Sun Jun 24 02:06:07 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 24 02:06:07 2001] USER TEXT: me and ebonez are having problems using /disc, it says were high enough level to use however its not working
+[Sun Jun 24 02:06:07 2001] Players in EverQuest:
+[Sun Jun 24 02:06:07 2001] ---------------------------
+[Sun Jun 24 02:06:07 2001] [30 Bard] Ganadarus (Human) <Unbroken Power> ZONE: eastwastes (USER PID GTNS92A)
+[Sun Jun 24 02:06:07 2001] There is 1 player in EverQuest.
+[Sun Jun 24 02:06:15 2001] You can no longer levitate.
+[Sun Jun 24 02:06:35 2001] Yumenoteki tells the group, 'shall we give him a bone?'
+[Sun Jun 24 02:06:44 2001] You told Ganadarus, 'Hail, Ganadarus! Guide Espranza here. Which discipline are you trying to use?'
+[Sun Jun 24 02:06:45 2001] Kinther GMSAYS, 'was I the only one who went LD/'
+[Sun Jun 24 02:06:51 2001] Yumenoteki GMSAYS, 'nope'
+[Sun Jun 24 02:06:52 2001] You GMSAY, 'Larsot did'
+[Sun Jun 24 02:06:54 2001] Ganadarus tells you, 'any of the ones i have '
+[Sun Jun 24 02:06:59 2001] Yumenoteki GMSAYS, 'who is your ISP?'
+[Sun Jun 24 02:06:59 2001] Ganadarus tells you, 'another bard my level can use them'
+[Sun Jun 24 02:07:04 2001] Ganadarus tells you, 'others are having similar problems'
+[Sun Jun 24 02:07:18 2001] Kinther GMSAYS, 'GCI, its an Alaskan Cable company'
+[Sun Jun 24 02:07:18 2001] Ganadarus tells you, 'resistant, fearless, deftdance and puretone i tried to use them all , its say i can use one''
+[Sun Jun 24 02:07:19 2001] Kinther has joined the group.
+[Sun Jun 24 02:07:20 2001] You told Ganadarus, 'you can only use... um.... resistant I think at your level'
+[Sun Jun 24 02:07:32 2001] Priestess Caulria begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:07:38 2001] You told Ganadarus, 'all are listed'
+[Sun Jun 24 02:07:47 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Sun Jun 24 02:07:48 2001] Larsot GMSAYS, 'Hail, the baby Alizewasaur returns   :)'
+[Sun Jun 24 02:07:49 2001] You told Ganadarus, 'but only resistant may be used'
+[Sun Jun 24 02:07:55 2001] You GMSAY, 'roar!'
+[Sun Jun 24 02:08:00 2001] Usage:/discipline <resistant|fearless|counterattack|nimble|blindingspeed|duelist|deadeye|kinesthetics>.
+[Sun Jun 24 02:08:00 2001] You are ready to use a new discipline now.
+[Sun Jun 24 02:08:13 2001] Ganadarus tells you, 'sorry one sec im in battle running for my life'
+[Sun Jun 24 02:08:20 2001] You are not sufficient level to use this discipline.
+[Sun Jun 24 02:08:26 2001] You are not sufficient level to use this discipline.
+[Sun Jun 24 02:08:30 2001] Espranza becomes fearless.
+[Sun Jun 24 02:08:41 2001] You lose the concentration to remain in your fighting discipline.
+[Sun Jun 24 02:08:57 2001] Larsot GMSAYS, 'ok....zoneing, hehe'
+[Sun Jun 24 02:09:04 2001] Larsot has joined the group.
+[Sun Jun 24 02:09:11 2001] Suuspa Clanim begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:09:11 2001] Camlend Serbold begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:09:12 2001] Camlend Serbold lets loose a mighty yaulp.
+[Sun Jun 24 02:09:12 2001] Camlend Serbold is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:09:15 2001] Priestess Jahnda begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:09:21 2001] Summoning Larsot.
+[Sun Jun 24 02:09:34 2001] Larsot cheers at Espranza.
+[Sun Jun 24 02:09:35 2001] Suuspa Clanim begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:09:35 2001] Camlend Serbold begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:09:36 2001] Suuspa Clanim lets loose a mighty yaulp.
+[Sun Jun 24 02:09:36 2001] Suuspa Clanim is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:09:42 2001] You wave at Larsot.
+[Sun Jun 24 02:09:48 2001] Larsot beams a smile at Espranza.
+[Sun Jun 24 02:09:51 2001] Priestess Caulria begins to cast a spell. (Counteract Disease)
+[Sun Jun 24 02:09:53 2001] Ganadarus tells you, 'i cant use resistant'
+[Sun Jun 24 02:10:00 2001] Ganadarus tells you, 'it says im not high enough level'
+[Sun Jun 24 02:10:02 2001] Larsot has fallen to the ground.
+[Sun Jun 24 02:10:06 2001] Priestess Caulria begins to cast a spell. (Counteract Disease)
+[Sun Jun 24 02:10:10 2001] You told Ganadarus, 'do you have Velious?'
+[Sun Jun 24 02:10:11 2001] Suuspa Clanim begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:10:11 2001] Tonmerk Plorsin begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:10:11 2001] Camlend Serbold begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:10:12 2001] Tonmerk Plorsin lets loose a mighty yaulp.
+[Sun Jun 24 02:10:12 2001] Tonmerk Plorsin is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:10:12 2001] Tonmerk Plorsin is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:10:16 2001] Ganadarus tells you, 'sure do im there now'
+[Sun Jun 24 02:10:16 2001] Priestess Caulria begins to cast a spell. (Counteract Disease)
+[Sun Jun 24 02:10:22 2001] You told Ganadarus, 'ah heh (didn't check)'
+[Sun Jun 24 02:10:30 2001] Draknir shouts, 'can anyone invis me from humans at gate of qeynos'
+[Sun Jun 24 02:10:40 2001] You told Ganadarus, 'well, I know rogue disc's start at 30, with resistant'
+[Sun Jun 24 02:10:46 2001] You can use a new discipline in 47 minutes 06 seconds.
+[Sun Jun 24 02:10:49 2001] Yumenoteki says, 'Hail Kinther'
+[Sun Jun 24 02:10:51 2001] Tanbill says out of character, 'free magic rings and necklace to the first person to poke me'
+[Sun Jun 24 02:10:53 2001] Ganadarus tells you, 'yeah i typed /disc and it says im ready to use a dissc'
+[Sun Jun 24 02:10:58 2001] Yumenoteki says, 'Hail Shygen'
+[Sun Jun 24 02:10:58 2001] Usage:/discipline <resistant|fearless|counterattack|nimble|blindingspeed|duelist|deadeye|kinesthetics>.
+[Sun Jun 24 02:10:58 2001] You can use a new discipline in 46 minutes 48 seconds.
+[Sun Jun 24 02:11:00 2001] Shygen says, 'Hail Yumenoteki'
+[Sun Jun 24 02:11:16 2001] Yumenoteki tells the group, 'ok ... no more instill doubt :)'
+[Sun Jun 24 02:11:16 2001] You told Ganadarus, 'and when you use /disc resistant, it says no way?'
+[Sun Jun 24 02:11:29 2001] Yumenoteki says, 'how fares your journey young monk?'
+[Sun Jun 24 02:11:34 2001] Tanbill says out of character, 'whoa, is it a GM convention?'
+[Sun Jun 24 02:11:35 2001] Espranza is also a monk.
+[Sun Jun 24 02:11:38 2001] Ganadarus tells you, 'it says " you are not sufficient level to use this discipline"'
+[Sun Jun 24 02:11:39 2001] Larsot tells the group, 'instill doubt? I thought it was a new wave dance?!?'
+[Sun Jun 24 02:11:45 2001] You're not scaring anyone.
+[Sun Jun 24 02:11:46 2001] Yumenoteki's image shimmers.
+[Sun Jun 24 02:11:53 2001] Shygen says, 'fares ok..died alot today'
+[Sun Jun 24 02:11:56 2001] Ganadarus tells you, 'but when i type /disc'
+[Sun Jun 24 02:11:58 2001] Fippy Darkpaw shouts '<BBBBBAAAARRRKKKK!!!!!>  You humans will pay for ruining our homeland!!  GRRRRRRRR!!!!  Family Darkpaw of the Sabretooth Clan will slay you all!!  <BARK!> 
+[Sun Jun 24 02:12:02 2001] Yumenoteki says, 'ah ... tis the learning process of the lands'
+[Sun Jun 24 02:12:07 2001] Yumenoteki says, 'and there's Fippy again :)'
+[Sun Jun 24 02:12:08 2001] Ganadarus tells you, 'it says you are ready to use a new discipline now'
+[Sun Jun 24 02:12:13 2001] Yumenoteki is surrounded by a brief aura.
+[Sun Jun 24 02:12:18 2001] You told Ganadarus, 'none of them work?'
+[Sun Jun 24 02:12:24 2001] Ganadarus tells you, 'none of them'
+[Sun Jun 24 02:12:30 2001] You told Ganadarus, 'hmmph.'
+[Sun Jun 24 02:12:32 2001] Yumenoteki tells the group, 'it looked pretty cool when you did it Larsot'
+[Sun Jun 24 02:12:36 2001] You told Ganadarus, 'well, I'll report it.'
+[Sun Jun 24 02:12:40 2001] Ganadarus tells you, 'okay'
+[Sun Jun 24 02:12:41 2001] Espranza saved.
+[Sun Jun 24 02:12:42 2001] Priestess Caulria begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:12:48 2001] Shygen says, 'later'
+[Sun Jun 24 02:12:49 2001] You told Ganadarus, 'I thought all melees could use a disc at 30 though.'
+[Sun Jun 24 02:12:50 2001] Kinther thinks Pink shirt?
+[Sun Jun 24 02:12:53 2001] Yumenoteki says, 'be safe'
+[Sun Jun 24 02:12:54 2001] Ganadarus tells you, 'they can'
+[Sun Jun 24 02:12:54 2001] Larsot tells the group, 'aye, thats the reason why i picked iksar monk. I love their animations   :)'
+[Sun Jun 24 02:12:55 2001] Shygen waves goodbye to everyone.
+[Sun Jun 24 02:12:57 2001] Shygen says, 'u2'
+[Sun Jun 24 02:13:11 2001] Yumenoteki tells the group, 'guess he doesn't know we're guides since he examined my equipment'
+[Sun Jun 24 02:13:27 2001] You GMSAY, '<note bug> Ganadarus GTNS92A (30 human bard) can't use his level 30 /disc, resistant. Says he is not high enough level.'
+[Sun Jun 24 02:13:31 2001] Larsot tells the group, 'i have had that all day and people buffing me too, lol'
+[Sun Jun 24 02:13:34 2001] You told Ganadarus, 'have you zoned since you leveled?'
+[Sun Jun 24 02:13:48 2001] Yumenoteki tells the group, 'let's make Kinther jealous'
+[Sun Jun 24 02:13:55 2001] Larsot GMSAYS, 'it only works in Velious zones i thought'
+[Sun Jun 24 02:14:02 2001] You GMSAY, 'it works in any zone'
+[Sun Jun 24 02:14:06 2001] Port Authority Officer shouts 'Here ye, here ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! 
+[Sun Jun 24 02:14:10 2001] You GMSAY, 'I just used it actually'
+[Sun Jun 24 02:14:12 2001] Yumenoteki feels a bit dispelled.
+[Sun Jun 24 02:14:14 2001] Kinther feels a bit dispelled.
+[Sun Jun 24 02:14:15 2001] Kinther feels a bit dispelled.
+[Sun Jun 24 02:14:15 2001] Kinther feels a bit dispelled.
+[Sun Jun 24 02:14:15 2001] Kinther feels a bit dispelled.
+[Sun Jun 24 02:14:18 2001] Kinther blinks a few times.
+[Sun Jun 24 02:14:18 2001] Kinther blinks a few times.
+[Sun Jun 24 02:14:22 2001] Suuspa Clanim begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:14:22 2001] Camlend Serbold begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:14:23 2001] Camlend Serbold lets loose a mighty yaulp.
+[Sun Jun 24 02:14:23 2001] Camlend Serbold is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:14:24 2001] Kinther is surrounded by a brief aura.
+[Sun Jun 24 02:14:24 2001] Kinther is surrounded by a brief aura.
+[Sun Jun 24 02:14:25 2001] Kinther floats above the ground.
+[Sun Jun 24 02:14:25 2001] Kinther floats above the ground.
+[Sun Jun 24 02:14:26 2001] Priestess Jahnda begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:14:26 2001] You GMSAY, 'have to have velious installed, though, but he does'
+[Sun Jun 24 02:14:28 2001] Kinther feels a bit dispelled.
+[Sun Jun 24 02:14:28 2001] Kinther feels a bit dispelled.
+[Sun Jun 24 02:14:29 2001] Yumenoteki tells the group, 'hmmm ... instill doubt sucks on gnomes'
+[Sun Jun 24 02:14:34 2001] DELETING THIS PETITION
+[Sun Jun 24 02:14:42 2001] You tell your party, 'it only really looks right on halflings.'
+[Sun Jun 24 02:14:45 2001] Yumenoteki tells the group, '*sigh* gnome stone and Z used to be promotion stuff'
+[Sun Jun 24 02:14:46 2001] Suuspa Clanim begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:14:46 2001] Camlend Serbold begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:14:46 2001] Larsot GMSAYS, 'aye but all it does is increase resistances, correct?'
+[Sun Jun 24 02:14:47 2001] Suuspa Clanim lets loose a mighty yaulp.
+[Sun Jun 24 02:14:47 2001] Suuspa Clanim is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:14:56 2001] Kinther tells the group, 'I love my new comp, no slow down!'
+[Sun Jun 24 02:14:57 2001] You GMSAY, 'for a few seconds, aye'
+[Sun Jun 24 02:14:59 2001] Yumenoteki tells the group, 'whoops ... players'
+[Sun Jun 24 02:15:02 2001] You GMSAY, 'pretty useless.'
+[Sun Jun 24 02:15:17 2001] Yumenoteki tells the group, 'hmmm ... it lasts many seconds for me :)'
+[Sun Jun 24 02:15:22 2001] Suuspa Clanim begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:15:22 2001] Tonmerk Plorsin begins to cast a spell. (Yaulp IV)
+[Sun Jun 24 02:15:22 2001] Camlend Serbold begins to cast a spell. (Divine Favor)
+[Sun Jun 24 02:15:22 2001] Tonmerk Plorsin lets loose a mighty yaulp.
+[Sun Jun 24 02:15:23 2001] Larsot GMSAYS, 'aye same as fearless in my opinion'
+[Sun Jun 24 02:15:23 2001] Tonmerk Plorsin is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:15:23 2001] Tonmerk Plorsin is surrounded by an aura of Divine Favor.
+[Sun Jun 24 02:15:34 2001] You GMSAY, 'fearless is even MORE useless'
+[Sun Jun 24 02:15:41 2001] Larsot GMSAYS, 'yupper'
+[Sun Jun 24 02:15:41 2001] You GMSAY, 'you can resist ONE dragon fear'
+[Sun Jun 24 02:15:50 2001] Yumenoteki tells the group, 'I wish our collar of shrinking worked'
+[Sun Jun 24 02:16:10 2001] Yumenoteki tells the group, 'LOL ... aye'
+[Sun Jun 24 02:16:15 2001] Kinther tells the group, 'hrmmm why doesn't it?'
+[Sun Jun 24 02:16:18 2001] Yumenoteki tells the group, 'need bards for dragon runs'
+[Sun Jun 24 02:16:20 2001] Aanad bows before Kinther.
+[Sun Jun 24 02:16:28 2001] Larsot tells the group, 'aye'
+[Sun Jun 24 02:16:30 2001] Kinther waves at Aanad.
+[Sun Jun 24 02:16:40 2001] You tell your party, 'dunno, don't see much use for it.'
+[Sun Jun 24 02:16:41 2001] Yumenoteki tells the group, 'because a few guides abused it and they're trying to figure out what spell to gives us to make mini us'
+[Sun Jun 24 02:16:43 2001] Larsot tells the group, 'need Bards for alot and they are way underused'
+[Sun Jun 24 02:16:44 2001] Tanbill says out of character, 'there gonna be an event?'
+[Sun Jun 24 02:16:46 2001] Aanad says, 'hi im trying to help draknir get his corpse but no ideas'
+[Sun Jun 24 02:16:51 2001] Yumenoteki tells the group, 'I liked being a small hummie'
+[Sun Jun 24 02:16:55 2001] Yumenoteki says, 'Hi'
+[Sun Jun 24 02:17:02 2001] You tell your party, 'okay everyone, outta here'
+[Sun Jun 24 02:17:08 2001] Kinther GMSAYS, 'zone'
+[Sun Jun 24 02:17:10 2001] You wave goodbye to Yumenoteki.
+[Sun Jun 24 02:17:11 2001] Kinther fades away.
+[Sun Jun 24 02:17:13 2001] You GMSAY, 'zone'
+[Sun Jun 24 02:17:15 2001] LOADING, PLEASE WAIT...
+[Sun Jun 24 02:17:34 2001] You have entered Sunset Home.
+[Sun Jun 24 02:17:34 2001] You have joined the group.
+[Sun Jun 24 02:17:53 2001] You tell your party, 'Larsot, you could let them know we believe it to be retrievable, then appie stick out'
+[Sun Jun 24 02:18:09 2001] You feel the spirit of Norrath enter you.
+[Sun Jun 24 02:18:10 2001] Your feet leave the ground.
+[Sun Jun 24 02:18:15 2001] Larsot tells the group, 'i already ported, sorry   :('
+[Sun Jun 24 02:18:23 2001] You tell your party, 'np'
+[Sun Jun 24 02:18:33 2001] Yumenoteki tells the group, 'ok ... I'll drag him back there then ...'
+[Sun Jun 24 02:20:19 2001] Kinther tells the guild, 'ok can someone type in guild chat, so i can test my guild chat color?'
+[Sun Jun 24 02:20:29 2001] You say to your guild, 'how do we do that?'
+[Sun Jun 24 02:20:37 2001] Yumenoteki tells the guild, 'nihongo wa wakarimasuka?'
+[Sun Jun 24 02:20:45 2001] Kinther tells the guild, 'thanks! I got a good color'
+[Sun Jun 24 02:20:50 2001] Larsot GMSAYS, 'so anyone else on Pacific Time besides myself?'
+[Sun Jun 24 02:20:53 2001] You GMSAY, 'I am'
+[Sun Jun 24 02:20:57 2001] Yumenoteki tells the guild, 'I am ... CA'
+[Sun Jun 24 02:20:59 2001] You GMSAY, 'Live near Monterey'
+[Sun Jun 24 02:21:02 2001] Kinther GMSAYS, 'nope I'm AST'
+[Sun Jun 24 02:21:06 2001] Yumenoteki tells the guild, 'Monterey CA?'
+[Sun Jun 24 02:21:13 2001] You say to your guild, 'yeah'
+[Sun Jun 24 02:21:15 2001] Larsot GMSAYS, 'Ahhh the presidio...nice area'
+[Sun Jun 24 02:21:24 2001] Yumenoteki GMSAYS, 'Cupertino CA'
+[Sun Jun 24 02:21:28 2001] You GMSAY, 'woot!'
+[Sun Jun 24 02:21:31 2001] You GMSAY, 'nearby almost'
+[Sun Jun 24 02:21:44 2001] Yumenoteki GMSAYS, 'aye ... I go to Monterey / Carmel whenever SV stresses me out'
+[Sun Jun 24 02:21:58 2001] Kinther GMSAYS, 'speaking of Timezones its 120am here I gotta go to work at 1030 so I'm outta here'
+[Sun Jun 24 02:22:01 2001] Larsot GMSAYS, 'i was born and raised in L.A. but I live in Washington state now'
+[Sun Jun 24 02:22:19 2001] Yumenoteki GMSAYS, 'whoops ... 2:20am here'
+[Sun Jun 24 02:22:27 2001] Yumenoteki GMSAYS, 'cool .. what part of L.A.?'
+[Sun Jun 24 02:22:40 2001] Larsot GMSAYS, 'Lynwood and South Gate'
+[Sun Jun 24 02:22:51 2001] Kinther GMSAYS, 'laters everyone'
+[Sun Jun 24 02:22:53 2001] Yumenoteki GMSAYS, 'ah ... I was born near the Colliseum ...'
+[Sun Jun 24 02:22:55 2001] Yumenoteki GMSAYS, 'cya'
+[Sun Jun 24 02:22:57 2001] You GMSAY, 'night!'
+[Sun Jun 24 02:22:59 2001] Larsot GMSAYS, 'night Kinther'
+[Sun Jun 24 02:23:01 2001] Yumenoteki GMSAYS, 'grew up near Glendale'
+[Sun Jun 24 02:23:10 2001] Kinther GMSAYS, 'poof'
+[Sun Jun 24 02:23:10 2001] Larsot GMSAYS, 'cool'
+[Sun Jun 24 02:23:19 2001] Yumenoteki GMSAYS, 'mostly grew up in Monterey Park until I went to college at UC Santa Cruz'
+[Sun Jun 24 02:23:21 2001] Kinther has left the group.
+[Sun Jun 24 02:23:34 2001] Yumenoteki GMSAYS, 'well ... off I go ...'
+[Sun Jun 24 02:23:34 2001] You GMSAY, 'my daughter wants to go to UCSC'
+[Sun Jun 24 02:23:37 2001] Larsot GMSAYS, 'i miss surfing, thats for sure   :ED'
+[Sun Jun 24 02:23:46 2001] Yumenoteki GMSAYS, 'it's a good school Espranza ... teaches you free thinking'
+[Sun Jun 24 02:23:54 2001] Yumenoteki GMSAYS, 'aye ... warm waters are nice'
+[Sun Jun 24 02:23:59 2001] You GMSAY, 'nobody needs to teach her that'
+[Sun Jun 24 02:24:05 2001] You GMSAY, 'good to know it encourages it though'
+[Sun Jun 24 02:24:08 2001] Yumenoteki GMSAYS, 'that's probably why she wants to go there'
+[Sun Jun 24 02:24:18 2001] Larsot GMSAYS, 'hehe'
+[Sun Jun 24 02:24:33 2001] Yumenoteki GMSAYS, 'well, it her develope different ways to solving problems'
+[Sun Jun 24 02:24:39 2001] Yumenoteki GMSAYS, 'I mean SC'
+[Sun Jun 24 02:24:53 2001] Yumenoteki GMSAYS, 'some schools teach only one way ... UCSC forces you to figure out multiple ways'
+[Sun Jun 24 02:25:03 2001] Yumenoteki GMSAYS, 'at least some professors do :)'
+[Sun Jun 24 02:25:16 2001] You GMSAY, 'they're trying to stop having written grades'
+[Sun Jun 24 02:25:25 2001] You GMSAY, 'some want them to use letter grades'
+[Sun Jun 24 02:25:28 2001] Yumenoteki GMSAYS, 'aye ... '
+[Sun Jun 24 02:25:37 2001] Yumenoteki GMSAYS, 'it's always a student's option to have grades'
+[Sun Jun 24 02:25:50 2001] Yumenoteki GMSAYS, 'but requiring grades is a little more totalitarean'
+[Sun Jun 24 02:25:53 2001] Yumenoteki GMSAYS, '(spelling)'
+[Sun Jun 24 02:26:08 2001] You GMSAY, 'Totalitarian'
+[Sun Jun 24 02:26:12 2001] Yumenoteki GMSAYS, 'evaluations are much worse than grades, since professors put their insites about you'
+[Sun Jun 24 02:26:27 2001] Yumenoteki GMSAYS, 'ack ... I'd better sleep soon ... brain is going'
+[Sun Jun 24 02:26:37 2001] Searching zones for corpse of that name....
+[Sun Jun 24 02:26:44 2001] You GMSAY, 'do /sea draknir'
+[Sun Jun 24 02:26:53 2001] Yumenoteki GMSAYS, 'but any way, some people don't realize that evaluations are better since a professor can describe'
+[Sun Jun 24 02:27:02 2001] Yumenoteki GMSAYS, 'cool ... he looted his corpse ... LOL'
+[Sun Jun 24 02:27:07 2001] You GMSAY, 'see?'
+[Sun Jun 24 02:27:10 2001] Larsot GMSAYS, 'none found   :)'
+[Sun Jun 24 02:27:21 2001] Larsot GMSAYS, 'ZONEING!!'
+[Sun Jun 24 02:27:24 2001] Yumenoteki GMSAYS, 'aye ... he had to think for a bit'
+[Sun Jun 24 02:27:38 2001] Yumenoteki GMSAYS, 'players have grown too lazy or stupid and want the easy answer all the time'
+[Sun Jun 24 02:27:56 2001] You GMSAY, 'this is why we always follow the P&P'
+[Sun Jun 24 02:28:04 2001] Larsot GMSAYS, 'aye'
+[Sun Jun 24 02:28:06 2001] Espranza saved.
+[Sun Jun 24 02:28:14 2001] You tell your party, 'found you'
+[Sun Jun 24 02:28:21 2001] Yumenoteki tells the group, 'LOL'
+[Sun Jun 24 02:28:36 2001] You tell your party, 'Tekisan is swimming in the shallow end of the gene pool'
+[Sun Jun 24 02:28:37 2001] Yumenoteki tells the group, 'up to 142 in swim skill'
+[Sun Jun 24 02:29:13 2001] You tell your party, 'or should it be Tekikun?'
+[Sun Jun 24 02:29:22 2001] Yumenoteki tells the group, 'hmmm ... did you know Drak is legally blind?'
+[Sun Jun 24 02:29:30 2001] You tell your party, '???'
+[Sun Jun 24 02:29:34 2001] You tell your party, 'in real life?'
+[Sun Jun 24 02:29:52 2001] Yumenoteki tells the group, 'aye ... his friend Aanad and I are talking ... he's thanking us for investigating'
+[Sun Jun 24 02:30:02 2001] Larsot tells the group, 'wow, interesting'
+[Sun Jun 24 02:30:13 2001] You can no longer levitate.
+[Sun Jun 24 02:30:18 2001] Yumenoteki tells the group, 'legally blind means he can't see much ... but he can still barely see'
+[Sun Jun 24 02:30:35 2001] Larsot tells the group, 'aye but usually very dark'
+[Sun Jun 24 02:30:49 2001] Yumenoteki tells the group, 'exactly ... and needs magnifying glasses apparantly'
+[Sun Jun 24 02:31:02 2001] You tell your party, 'there was a guy in my university who was legally blind'
+[Sun Jun 24 02:31:06 2001] Yumenoteki tells the group, 'you learn one thing from RZ'
+[Sun Jun 24 02:31:06 2001] You tell your party, 'he had a special terminal'
+[Sun Jun 24 02:31:10 2001] You tell your party, 'it was huge'
+[Sun Jun 24 02:31:22 2001] Yumenoteki tells the group, 'aye'
+[Sun Jun 24 02:31:29 2001] Larsot GMSAYS, 'ZONEING!!'
+[Sun Jun 24 02:31:35 2001] Yumenoteki tells the group, 'on RZ ... many of the PK"s are law enforcement type folks'
+[Sun Jun 24 02:31:43 2001] You tell your party, 'really? cool!'
+[Sun Jun 24 02:31:58 2001] Yumenoteki tells the group, 'actually, I should call them more PvP than PK's'
+[Sun Jun 24 02:32:03 2001] It begins to rain.
+[Sun Jun 24 02:32:06 2001] You tell your party, 'nobody gave Drak or his friend any hints, did they?'
+[Sun Jun 24 02:32:14 2001] Yumenoteki tells the group, 'because they do have a code of honor'
+[Sun Jun 24 02:32:17 2001] Yumenoteki tells the group, 'nope'
+[Sun Jun 24 02:32:19 2001] Larsot tells the group, 'i never talked to any of them'
+[Sun Jun 24 02:32:27 2001] You tell your party, 'Larsot, what is your home server'
+[Sun Jun 24 02:32:36 2001] Larsot tells the group, 'Veeshan'
+[Sun Jun 24 02:32:55 2001] You tell your party, 'dang'
+[Sun Jun 24 02:33:01 2001] You tell your party, 'so few EMarr guides I think.'
+[Sun Jun 24 02:33:03 2001] Larsot tells the group, '?'
+[Sun Jun 24 02:33:12 2001] Yumenoteki tells the group, '?'
+[Sun Jun 24 02:33:27 2001] You tell your party, 'Just want to find guides who also play on my server'
+[Sun Jun 24 02:33:40 2001] Larsot tells the group, 'i dont remember if any of the appies are from that server'
+[Sun Jun 24 02:33:48 2001] You tell your party, 'two guides in my guild but neither guide here'
+[Sun Jun 24 02:33:54 2001] Yumenoteki tells the group, 'I'm so disappointed in Narcomi ...'
+[Sun Jun 24 02:34:17 2001] You tell your party, 'well I don't know what happened really, just that she is listed inactive on the roster'
+[Sun Jun 24 02:34:20 2001] You feel the spirit of Norrath enter you.
+[Sun Jun 24 02:34:21 2001] Your feet leave the ground.
+[Sun Jun 24 02:34:30 2001] Larsot GMSAYS, 'ZONEING!!'
+[Sun Jun 24 02:34:36 2001] Yumenoteki tells the group, 'aye ... LOL ... oh, I'll be on vaction next week'
+[Sun Jun 24 02:34:47 2001] Yumenoteki tells the group, 'starting Friday eve ... '
+[Sun Jun 24 02:35:00 2001] You tell your party, 'aye, nihon e ikamasu'
+[Sun Jun 24 02:35:08 2001] Yumenoteki tells the group, 'good memory'
+[Sun Jun 24 02:35:19 2001] Yumenoteki tells the group, 'so how large is your anime collection?'
+[Sun Jun 24 02:35:25 2001] You tell your party, 'oh god, huge'
+[Sun Jun 24 02:35:26 2001] Yumenoteki tells the group, 'have you seen Trigun?'
+[Sun Jun 24 02:35:37 2001] You tell your party, 'I'll tell ya right now it's mostly shoujo'
+[Sun Jun 24 02:35:45 2001] Yumenoteki tells the group, 'heh heh'
+[Sun Jun 24 02:36:01 2001] Yumenoteki tells the group, 'some of the stuff loses it's meaning during translation'
+[Sun Jun 24 02:36:21 2001] Yumenoteki tells the group, 'it's better to understand Japanese ... you get the humor .. most of the time'
+[Sun Jun 24 02:36:35 2001] Yumenoteki tells the group, 'so you're about 40 then?'
+[Sun Jun 24 02:36:42 2001] You tell your party, 'I find it difficult to follow the anime in Japanese'
+[Sun Jun 24 02:36:53 2001] You tell your party, 'it helps to have the subtitles there'
+[Sun Jun 24 02:37:00 2001] Yumenoteki tells the group, 'LOL ... '
+[Sun Jun 24 02:37:06 2001] Yumenoteki tells the group, 'and the pause button'
+[Sun Jun 24 02:37:13 2001] You tell your party, 'Crayonshinchan for one... that is one weird anime'
+[Sun Jun 24 02:37:18 2001] You tell your party, 'aye, I'll be 40 in August'
+[Sun Jun 24 02:37:34 2001] Yumenoteki tells the group, 'don't believe I've seen it yet'
+[Sun Jun 24 02:37:43 2001] Yumenoteki tells the group, 'Leo eh?'
+[Sun Jun 24 02:37:47 2001] You tell your party, 'sorta the Japanese version of the Simpsons'
+[Sun Jun 24 02:37:54 2001] You tell your party, 'tis what they tell me!'
+[Sun Jun 24 02:38:16 2001] Yumenoteki tells the group, 'Scorpio here ... it's why I'm swimming I guess'
+[Sun Jun 24 02:38:21 2001] You tell your party, 'heh'
+[Sun Jun 24 02:38:24 2001] You tell your party, 'Winter baby'
+[Sun Jun 24 02:38:25 2001] Larsot tells the group, 'lol'
+[Sun Jun 24 02:38:39 2001] Yumenoteki tells the group, 'it's probably why I like jumping off high places'
+[Sun Jun 24 02:38:42 2001] Espranza saved.
+[Sun Jun 24 02:38:47 2001] Yumenoteki tells the group, 'well ... I'm off ... night all'
+[Sun Jun 24 02:38:49 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 24 02:38:50 2001] USER TEXT: missing items from my bank account
+[Sun Jun 24 02:38:50 2001] Players in EverQuest:
+[Sun Jun 24 02:38:50 2001] ---------------------------
+[Sun Jun 24 02:38:50 2001] [ANON (28 Shadow Knight)] Talkatan (Dark Elf) ZONE: overthere (USER PID HUJ5EYR)
+[Sun Jun 24 02:38:50 2001] There is 1 player in EverQuest.
+[Sun Jun 24 02:38:57 2001] Yumenoteki tells the group, 'going to go play Mech Warrior 4 for a short bit'
+[Sun Jun 24 02:39:09 2001] You tell your party, 'they're up to 4 now?'
+[Sun Jun 24 02:39:13 2001] You tell your party, 'sheesh'
+[Sun Jun 24 02:39:14 2001] Yumenoteki tells the group, 'yes'
+[Sun Jun 24 02:39:19 2001] Yumenoteki tells the group, 'it's an awesome game'
+[Sun Jun 24 02:39:27 2001] Yumenoteki tells the group, 'best of the series'
+[Sun Jun 24 02:39:30 2001] Yumenoteki tells the group, '5'
+[Sun Jun 24 02:39:31 2001] You tell your party, 'I'm no good at mecha'
+[Sun Jun 24 02:39:33 2001] Yumenoteki has left the group.
+[Sun Jun 24 02:39:34 2001] You tell your party, 'bye!'
+[Sun Jun 24 02:39:53 2001] You told Talkatan, 'Hail, Talkatan! Guide Espranza here. What items were missing?'
+[Sun Jun 24 02:40:28 2001] Talkatan tells you, 'hi, i'm missing a pair of fine plate bootes, red fineplate legs and something else, but can't remember what'
+[Sun Jun 24 02:40:46 2001] You told Talkatan, 'how long have these items been in your bank?'
+[Sun Jun 24 02:40:47 2001] Talkatan tells you, 'i can't remember exactly when i last saw them'
+[Sun Jun 24 02:41:03 2001] Talkatan tells you, 'they have been in there for a couple of weeks atleast'
+[Sun Jun 24 02:41:20 2001] You told Talkatan, 'they weren't stored in a dimensional or spirit bag, were they?'
+[Sun Jun 24 02:41:25 2001] Talkatan tells you, 'nope'
+[Sun Jun 24 02:41:35 2001] You told Talkatan, 'does anyone at all have access to your account?'
+[Sun Jun 24 02:41:48 2001] You told Talkatan, 'beside you ...?'
+[Sun Jun 24 02:41:48 2001] Talkatan tells you, 'no, i'm the only person with access'
+[Sun Jun 24 02:42:23 2001] You told Talkatan, 'okay... no GM is on at the moment. Is it possible for you to repetition later today?'
+[Sun Jun 24 02:42:42 2001] Talkatan tells you, 'ok, i will repetition later, thanks for the help'
+[Sun Jun 24 02:42:45 2001] Larsot tells the group, 'wow, i did 21 pets today  :P    I guess I have alot of writing to do now   :('
+[Sun Jun 24 02:42:59 2001] You told Talkatan, 'He should be on between 3pm and 11pm Pacific time.'
+[Sun Jun 24 02:43:16 2001] Talkatan tells you, 'any idea what that is gmt?'
+[Sun Jun 24 02:43:18 2001] You told Talkatan, 'or you can write him at msudnik@station.sony.com if that would be more convenient'
+[Sun Jun 24 02:43:27 2001] Talkatan tells you, 'ok, thanks'
+[Sun Jun 24 02:43:34 2001] You told Talkatan, 'between 11pm and midnight'
+[Sun Jun 24 02:44:00 2001] DELETING THIS PETITION
+[Sun Jun 24 02:44:01 2001] Larsot GMSAYS, 'well I guess I'll log out and see if i can get into guide site now   :)'
+[Sun Jun 24 02:44:07 2001] You tell your party, 'you don't have to write every petition up'
+[Sun Jun 24 02:44:11 2001] You tell your party, 'just the interesting ones'
+[Sun Jun 24 02:44:19 2001] You tell your party, 'okay, be well and good luck and nice to meet you!'
+[Sun Jun 24 02:44:21 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jun 24 02:44:21 2001] USER TEXT: I know that there are no GM's awake at this time that can cause my guild mate to go LD but could one of you please move him to the Ferrott zone line? I wish to play a different  character adn do not wish to leave him here in Giant Valley
+[Sun Jun 24 02:44:21 2001] Players in EverQuest:
+[Sun Jun 24 02:44:21 2001] ---------------------------
+[Sun Jun 24 02:44:21 2001] [ANON (36 Cleric)] Salunia (Dark Elf) ZONE: rathemtn (USER PID AXKP6VM)
+[Sun Jun 24 02:44:21 2001] There is 1 player in EverQuest.
+[Sun Jun 24 02:44:33 2001] Larsot GMSAYS, 'goodnight and it was fun training with you   :)'
+[Sun Jun 24 02:44:52 2001] You told Salunia, 'Hail, Salunia! Guide Espranza here. I am about to leave myself; I will try to get a GM to kick him.'
+[Sun Jun 24 02:44:55 2001] You tell your party, 'Later!'
+[Sun Jun 24 02:45:01 2001] DELETING THIS PETITION
+[Sun Jun 24 02:45:03 2001] Salunia tells you, 'Oh thank you most kindly My Lady. '
+[Sun Jun 24 02:45:05 2001] Players in EverQuest:
+[Sun Jun 24 02:45:05 2001] ---------------------------
+[Sun Jun 24 02:45:05 2001] [ANON (36 Enchanter)] Teuil (Dark Elf) ZONE: rathemtn (USER PID CRPUVHF)
+[Sun Jun 24 02:45:05 2001] There is 1 player in EverQuest.
+[Sun Jun 24 02:45:17 2001] You have been removed from the group.
+[Sun Jun 24 02:45:24 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Jun 24 02:45:29 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Jun 24 02:45:34 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Jun 24 02:45:39 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Jun 24 02:45:44 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Jun 24 02:45:50 2001] It will take about 5 more seconds to prepare your camp.

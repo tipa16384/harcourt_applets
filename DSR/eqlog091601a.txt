@@ -1,0 +1,631 @@
+[Sun Sep 16 23:39:18 2001] Welcome to EverQuest!
+[Sun Sep 16 23:39:18 2001] You have entered Sunset Home.
+[Sun Sep 16 23:39:18 2001] MESSAGE OF THE DAY: Welcome to Morell-Thule! Please be careful about dropping items to the ground, as we do not reimburse items lost this way.  You can prevent accidents by setting Item Dropping to Confirm or Never (found in Options/General.)
+[Sun Sep 16 23:39:19 2001] GUILD MOTD: Mersi - PLEASE do not promise anyone that someone will do their wedding. Take information and make sure they know that a guide may not be able to do it... there is something going around about one week's notice ensures a guide..please, no guarantees
+[Sun Sep 16 23:39:21 2001] Players in EverQuest:
+[Sun Sep 16 23:39:21 2001] ---------------------------
+[Sun Sep 16 23:39:21 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sun Sep 16 23:39:21 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:39:27 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Sep 16 23:39:28 2001] USER TEXT: name change for zeldda, name of another game is Zelda
+[Sun Sep 16 23:39:28 2001] Players in EverQuest:
+[Sun Sep 16 23:39:28 2001] ---------------------------
+[Sun Sep 16 23:39:28 2001] There are no players in EverQuest that match those who filters.
+[Sun Sep 16 23:39:37 2001] Players in EverQuest:
+[Sun Sep 16 23:39:37 2001] ---------------------------
+[Sun Sep 16 23:39:37 2001] [53 Illusionist] Zeldyan (High Elf) <Improbus Odium> ZONE: sebilis (USER PID CNYBVF9)
+[Sun Sep 16 23:39:37 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:39:41 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sun Sep 16 23:39:42 2001] CHECKING IN
+[Sun Sep 16 23:39:50 2001] You GMSAY, 'if anyone else is here -- hi!'
+[Sun Sep 16 23:39:52 2001] Players in EverQuest:
+[Sun Sep 16 23:39:52 2001] ---------------------------
+[Sun Sep 16 23:39:52 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Sun Sep 16 23:39:52 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:39:53 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Sep 16 23:39:54 2001] USER TEXT: I would like to change my name, someone who spoke french told me it meant something offensive, so if possible i would like a change.
+[Sun Sep 16 23:39:54 2001] Players in EverQuest:
+[Sun Sep 16 23:39:54 2001] ---------------------------
+[Sun Sep 16 23:39:54 2001] [25 Paladin] Pardus (Half Elf) ZONE: lakeofillomen (USER PID EXWCB59)
+[Sun Sep 16 23:39:54 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:40:30 2001] You told Pardus, 'Hail, Pardus! Guide Espranza here. Is it your first or last name which is the problem? And what does it mean?'
+[Sun Sep 16 23:40:45 2001] Pardus tells you, 'last name, and i am not even sure to be honest'
+[Sun Sep 16 23:40:57 2001] You told Pardus, 'What isyour last name?'
+[Sun Sep 16 23:41:03 2001] Pardus tells you, 'aquilus'
+[Sun Sep 16 23:41:14 2001] You told Pardus, 'Eagle?'
+[Sun Sep 16 23:41:14 2001] You feel as if you are about to fall.
+[Sun Sep 16 23:41:21 2001] You feel as if you are about to fall.
+[Sun Sep 16 23:41:25 2001] You can no longer levitate.
+[Sun Sep 16 23:41:39 2001] Pardus tells you, 'i dunno, it sounded cool so beats me what t means'
+[Sun Sep 16 23:42:18 2001] You told Pardus, 'I don't know what it means... well, Senior Guide Mersi speaks French, she would know, but she is not on right now. I'll leave a note for her about it, though.'
+[Sun Sep 16 23:42:31 2001] Pardus tells you, 'okie dokie'
+[Sun Sep 16 23:42:34 2001] Pardus tells you, 'thanks =)'
+[Sun Sep 16 23:42:58 2001] You GMSAY, '<note badname> Pardus Aquilus EXQCB59 - Petitioner says his last name is something nasty in French and would like it changed.'
+[Sun Sep 16 23:43:03 2001] You told Pardus, 'be well!'
+[Sun Sep 16 23:43:04 2001] DELETING THIS PETITION
+[Sun Sep 16 23:43:06 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Sep 16 23:43:07 2001] USER TEXT: hi there i have a big favor to ask ... a nice family adopted me there names are emeraldhaven and borof both of there last names are Rules and i would be honored to change my last name to this if anyone can it would be very helpful ty
+[Sun Sep 16 23:43:07 2001] Players in EverQuest:
+[Sun Sep 16 23:43:07 2001] ---------------------------
+[Sun Sep 16 23:43:07 2001] [46 Cleric] Hvyarms (Dwarf) <United Guardians> ZONE: highkeep (USER PID BUKH7MK)
+[Sun Sep 16 23:43:07 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:44:26 2001] You told Hvyarms, 'Hail, Hvrarms! Guide Espranza here. Unfortunately, there is nobody on at the moment who can change names. You should petition tomorrow, when GM Lirus should be able to help... I feel I should point out that since "Hvyarms Rules!" would ...'
+[Sun Sep 16 23:44:36 2001] Hvyarms tells you, 'k tyvm :)'
+[Sun Sep 16 23:44:39 2001] You told Hvyarms, '... be a phrase, it is unlikely Lirus would grant it.'
+[Sun Sep 16 23:44:46 2001] Hvyarms tells you, 'doh :( k'
+[Sun Sep 16 23:45:09 2001] You told Hvyarms, 'and he would probably want to change the last names of your two friends as well... so just be warned.'
+[Sun Sep 16 23:45:16 2001] Hvyarms tells you, 'k hehe'
+[Sun Sep 16 23:45:24 2001] DELETING THIS PETITION
+[Sun Sep 16 23:45:27 2001] You told Hvyarms, 'be well!'
+[Sun Sep 16 23:45:34 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Sep 16 23:45:34 2001] USER TEXT: this is the second time I petitioned today... PLEASE oh PLEASE fix the NPC Rilgor Plegnog in Ak-anon???? 
+[Sun Sep 16 23:45:35 2001] Players in EverQuest:
+[Sun Sep 16 23:45:35 2001] ---------------------------
+[Sun Sep 16 23:45:35 2001] [ANON (51 Illusionist)] Malaehi (High Elf) ZONE: karnor (USER PID DZU1ZML)
+[Sun Sep 16 23:45:35 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:46:23 2001] You told Malaehi, 'Hail, Malaehi! Guide Espranza here. I did leave a note for the GM, but then found later he wasn't going to be on today. I will try to get a GM from another server to do it as soon as I finish my other petitions.'
+[Sun Sep 16 23:46:42 2001] Malaehi tells you, 'please .... thankyou...'
+[Sun Sep 16 23:46:51 2001] You told Malaehi, 'you're welcome'
+[Sun Sep 16 23:46:53 2001] DELETING THIS PETITION
+[Sun Sep 16 23:46:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Sep 16 23:46:54 2001] USER TEXT: gm it doing it again  cant see any players and sky is all i see 
+[Sun Sep 16 23:46:55 2001] Players in EverQuest:
+[Sun Sep 16 23:46:55 2001] ---------------------------
+[Sun Sep 16 23:46:55 2001] [ANON (16 Shaman)] Phantoma (Barbarian) ZONE: oasis (USER PID EWWFB1M)
+[Sun Sep 16 23:46:55 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:47:19 2001] You told Phantoma, 'Hail, Phantoma! Did you get out of the underworld, or are you still stuck there?'
+[Sun Sep 16 23:47:26 2001] The spirit of wolf leaves you.
+[Sun Sep 16 23:47:29 2001] The spirit leaves you.
+[Sun Sep 16 23:47:30 2001] You feel the spirit of Norrath enter you.
+[Sun Sep 16 23:47:51 2001] Phantoma tells you, 'i cant see anything if that what you mean'
+[Sun Sep 16 23:48:00 2001] You told Phantoma, 'one moment, please'
+[Sun Sep 16 23:48:02 2001] You GMSAY, 'zone'
+[Sun Sep 16 23:48:04 2001] Teleporting to phantoma.
+[Sun Sep 16 23:48:05 2001] LOADING, PLEASE WAIT...
+[Sun Sep 16 23:48:34 2001] You have entered Oasis of Marr.
+[Sun Sep 16 23:48:37 2001] Featsbaal begins to cast a spell. (Mist)
+[Sun Sep 16 23:48:43 2001] Featsbaal begins to cast a spell. (Rune I)
+[Sun Sep 16 23:48:46 2001] Teleporting to phantoma.
+[Sun Sep 16 23:49:00 2001] You told Phantoma, 'try hitting the "5" key on your keypad'
+[Sun Sep 16 23:49:12 2001] Featsbaal begins to cast a spell. (Strengthen)
+[Sun Sep 16 23:49:16 2001] Doldoro auctions, 'WTB Cheap Arrows Paying Very Well'
+[Sun Sep 16 23:49:21 2001] Abbanyar shouts, 'paying for sow at docks'
+[Sun Sep 16 23:49:24 2001] You feel different.
+[Sun Sep 16 23:49:25 2001] Featsbaal begins to cast a spell. (Strengthen)
+[Sun Sep 16 23:49:27 2001] Kelie begins to cast a spell. (Root)
+[Sun Sep 16 23:49:29 2001] Phantoma tells you, 'come again i did not get all the message'
+[Sun Sep 16 23:49:32 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:49:35 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:49:39 2001] You told Phantoma, 'try hitting the "5" key on your keypad - the numeric keypad'
+[Sun Sep 16 23:49:41 2001] Kelie begins to cast a spell. (Root)
+[Sun Sep 16 23:49:46 2001] Your illusion fades.
+[Sun Sep 16 23:49:46 2001] You feel a bit dispelled.
+[Sun Sep 16 23:49:47 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:49:51 2001] Players on EverQuest:
+[Sun Sep 16 23:49:51 2001] ---------------------------
+[Sun Sep 16 23:49:51 2001] [17 Ranger] Grenebulax (Wood Elf)
+[Sun Sep 16 23:49:51 2001] [14 Wizard] Kelie (Dark Elf) <Blazing Knights>
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Laceylei 
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Tiggerdl 
+[Sun Sep 16 23:49:51 2001] [14 Rogue] Anarkie (Halfling) <Invictus>
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Lelaa  <Azure Blades>
+[Sun Sep 16 23:49:51 2001] [17 Cleric] Lunker (High Elf) <Disciples of Discipline>
+[Sun Sep 16 23:49:51 2001] [38 Rogue] Reshi (Half Elf) <Ronins>
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Acaciaye 
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Syrianmallow 
+[Sun Sep 16 23:49:51 2001] [17 Shadow Knight] Mysngerof (Dark Elf) <Twilight Crusade>
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Pantela 
+[Sun Sep 16 23:49:51 2001] [19 Shaman] Alick (Barbarian) <Disciples of Discipline>
+[Sun Sep 16 23:49:51 2001] [16 Bard] Aching (Wood Elf) <Elysian Heros>
+[Sun Sep 16 23:49:51 2001] [14 Warrior] Doldoro (Human)
+[Sun Sep 16 23:49:51 2001] [16 Necromancer] Makabros (Erudite)
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Phantoma 
+[Sun Sep 16 23:49:51 2001] [13 Shaman] Erzatz (Barbarian) <Compagnons de l`Aube>
+[Sun Sep 16 23:49:51 2001] [46 Shaman] Tavasil (Barbarian) <Relic Hunters>
+[Sun Sep 16 23:49:51 2001] [13 Druid] Foldora (Human)
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Zarm 
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Taldaani 
+[Sun Sep 16 23:49:51 2001] [16 Druid] Koley (Wood Elf) <  Protectors of the Unknown  >
+[Sun Sep 16 23:49:51 2001] [20 Wizard] Veeker (Human) <Revered Souls>
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Mungsil 
+[Sun Sep 16 23:49:51 2001] [18 Shadow Knight] Imus (Dark Elf) <Disciples of Discipline>
+[Sun Sep 16 23:49:51 2001] [16 Druid] Medaasa (Half Elf) <Revered Souls>
+[Sun Sep 16 23:49:51 2001] [14 Druid] Logaluger (Wood Elf) LFG
+[Sun Sep 16 23:49:51 2001] [22 Cleric] Chefman (Dwarf) <The Scaled Brotherhood>
+[Sun Sep 16 23:49:51 2001] [11 Shaman] Kukobim (Ogre) <Order of the White Hand>
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Grevak 
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Jambolina  <Leaders of Honor>
+[Sun Sep 16 23:49:51 2001] [45 Necromancer] Grimmlin (Unknown) <Guardians of Truth>
+[Sun Sep 16 23:49:51 2001] [16 Ranger] Wellor (Wood Elf)
+[Sun Sep 16 23:49:51 2001] [14 Monk] Finrocs (Human)
+[Sun Sep 16 23:49:51 2001] [18 Enchanter] Featsbaal (Erudite) <Fortitude Vindcit>
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Coldtear 
+[Sun Sep 16 23:49:51 2001] [45 Cleric] Venlaar (Dark Elf) <Fortitude Vindcit>
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Xelos 
+[Sun Sep 16 23:49:51 2001] [39 Necromancer] Ariz (Dark Elf) <United Ale Drinkers>
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Geallron 
+[Sun Sep 16 23:49:51 2001] [14 Shaman] Icebar (Barbarian)
+[Sun Sep 16 23:49:51 2001] [ANONYMOUS] Abbanyar 
+[Sun Sep 16 23:49:51 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Sun Sep 16 23:49:51 2001] There are 44 players in Oasis of Marr.
+[Sun Sep 16 23:49:52 2001] Tiggerdl begins to cast a spell. (Spirit of Wolf)
+[Sun Sep 16 23:49:52 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:49:56 2001] Abbanyar is surrounded by a brief lupine aura.
+[Sun Sep 16 23:49:58 2001] Kelie begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:50:08 2001] Abbanyar bows before Tiggerdl.
+[Sun Sep 16 23:50:12 2001] Abbanyar says, 'thanks'
+[Sun Sep 16 23:50:13 2001] Tiggerdl waves at Abbanyar.
+[Sun Sep 16 23:50:15 2001] Kelie was injured by falling.
+[Sun Sep 16 23:50:21 2001] Kelie is looking at your equipment...
+[Sun Sep 16 23:50:25 2001] Astaroft tells you, 'hey! someone say he will kick my mother in reality '
+[Sun Sep 16 23:50:34 2001] Kelie begins to cast a spell. (Resistant Skin)
+[Sun Sep 16 23:50:38 2001] Kelie's skin shines.
+[Sun Sep 16 23:50:41 2001] Kelie begins to cast a spell. (See Invisible)
+[Sun Sep 16 23:50:42 2001] You told Phantoma, 'if that doesn't help, try hitting F9 to change views.'
+[Sun Sep 16 23:50:46 2001] Kelie begins to cast a spell. (Lesser Shielding)
+[Sun Sep 16 23:50:47 2001] Astaroft tells you, 'i can show u the lines when he say that'
+[Sun Sep 16 23:51:03 2001] You told Astaroft, 'put him on /ignore'
+[Sun Sep 16 23:51:06 2001] Phantoma tells you, 'not working all i see is player names and clouds. and the dock i am standingon'
+[Sun Sep 16 23:51:06 2001] NAMES OF THOSE CURRENTLY BEING IGNORED:
+[Sun Sep 16 23:51:08 2001] Grenebulax shouts, 'lvl 17 ranger lfg'
+[Sun Sep 16 23:51:22 2001] Astaroft tells you, 'i dont very appreciate someone say he will kill my mother'
+[Sun Sep 16 23:51:31 2001] You told Astaroft, 'I thought you said kick'
+[Sun Sep 16 23:51:31 2001] Astaroft tells you, 'give him a warning plz'
+[Sun Sep 16 23:51:45 2001] Astaroft tells you, 'no kill'
+[Sun Sep 16 23:51:56 2001] Phantoma tells you, 'can see my name and all other players name but no bodies '
+[Sun Sep 16 23:52:10 2001] Coldtear says, 'im at dock'
+[Sun Sep 16 23:52:13 2001] You told Astaroft, 'please use the /report command to capture the text and let me know.'
+[Sun Sep 16 23:52:17 2001] Catja says, 'Hail, Tiggerdl'
+[Sun Sep 16 23:52:19 2001] Catja bows before Tiggerdl.
+[Sun Sep 16 23:52:21 2001] Coldtear begins to cast a spell. (Breeze)
+[Sun Sep 16 23:52:23 2001] Tiggerdl says, 'Hail, Catja'
+[Sun Sep 16 23:52:24 2001] Coldtear sighs in tranquility.
+[Sun Sep 16 23:52:26 2001] Haras meditates.
+[Sun Sep 16 23:52:27 2001] Astaroft tells you, 'already done'
+[Sun Sep 16 23:52:28 2001] Tiggerdl waves at Catja.
+[Sun Sep 16 23:52:29 2001] Catja waves at Laceylei.
+[Sun Sep 16 23:52:32 2001] Laceylei waves at Catja.
+[Sun Sep 16 23:52:36 2001] Catja says, 'where too'
+[Sun Sep 16 23:52:41 2001] You told Phantoma, 'Hmm... I have no idea what the matter could be. If you log out and reboot your machine, and come back in, is it still like this?'
+[Sun Sep 16 23:52:42 2001] Venlaar begins to cast a spell. (Armor of Faith)
+[Sun Sep 16 23:52:46 2001] Astaroft tells you, 'do that in the last 10 min'
+[Sun Sep 16 23:52:48 2001] Medaasa's spell fizzles!
+[Sun Sep 16 23:52:48 2001] Medaasa feels the favor of the gods upon them.
+[Sun Sep 16 23:52:52 2001] You told Astaroft, 'what name was reported?'
+[Sun Sep 16 23:52:52 2001] Kelie shouts, 'white scaled tunic for sale +3 int +5svcold 8 ac 150pp (price on everlore.com = 400pp u can check)'
+[Sun Sep 16 23:52:53 2001] Medaasa begins to cast a spell. (Skin like Rock)
+[Sun Sep 16 23:52:53 2001] Venlaar begins to cast a spell. (Resolution)
+[Sun Sep 16 23:52:55 2001] Medaasa looks resolute.
+[Sun Sep 16 23:52:55 2001] Grenebulax shouts, 'sg at gypsies'
+[Sun Sep 16 23:52:57 2001] Astaroft tells you, 'cupp'
+[Sun Sep 16 23:52:59 2001] Venlaar begins to cast a spell. (Symbol of Pinzarn)
+[Sun Sep 16 23:53:02 2001] Players in EverQuest:
+[Sun Sep 16 23:53:02 2001] ---------------------------
+[Sun Sep 16 23:53:02 2001] [26 Rogue] Cupp (Barbarian) ZONE: lakeofillomen (USER PID EV5ZCKE) LFG
+[Sun Sep 16 23:53:02 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:53:04 2001] Medaasa is cloaked in a shimmer of glowing symbols.
+[Sun Sep 16 23:53:10 2001] Catja says, 'lifts.'
+[Sun Sep 16 23:53:16 2001] Medaasa begins to cast a spell. (Skin like Rock)
+[Sun Sep 16 23:53:20 2001] Catja says, 'ok follow me'
+[Sun Sep 16 23:53:26 2001] Catja begins to cast a spell. (Spirit of Wolf)
+[Sun Sep 16 23:53:26 2001] Phantoma tells you, 'no but i have to go out to the server screen then it is fine'
+[Sun Sep 16 23:53:31 2001] Laceylei is surrounded by a brief lupine aura.
+[Sun Sep 16 23:53:36 2001] Catja begins to cast a spell. (Spirit of Wolf)
+[Sun Sep 16 23:53:39 2001] Chefman points at Espranza. Yeah you!
+[Sun Sep 16 23:53:43 2001] Haras auctions, 'Selling Jade Choki Prod (shaman piercer)'
+[Sun Sep 16 23:53:43 2001] Laceylei is surrounded by a brief lupine aura.
+[Sun Sep 16 23:53:44 2001] Featsbaal says out of character, 'lvl 18 chanter lfg ..plz send tells'
+[Sun Sep 16 23:53:45 2001] You told Phantoma, 'if you go to the server and come back, it is fine?'
+[Sun Sep 16 23:53:45 2001] Catja begins to cast a spell. (Spirit of Wolf)
+[Sun Sep 16 23:53:47 2001] DELETING THIS PETITION
+[Sun Sep 16 23:53:52 2001] You wave at Chefman.
+[Sun Sep 16 23:53:55 2001] Catja says, 'no, you will be ok'
+[Sun Sep 16 23:53:58 2001] Chefman says, 'you are new???'
+[Sun Sep 16 23:53:59 2001] Phantoma tells you, 'i see your name but not you'
+[Sun Sep 16 23:54:05 2001] Players in EverQuest:
+[Sun Sep 16 23:54:05 2001] ---------------------------
+[Sun Sep 16 23:54:05 2001] [ANON (53 Channeler)] Astrall (Human) ZONE: commons (USER PID DUFKDH3)
+[Sun Sep 16 23:54:05 2001] [22 Warrior] Astaroft (Ogre) <Compagnons de l`Aube> ZONE: lakeofillomen (USER PID CWU2FMY)
+[Sun Sep 16 23:54:05 2001] [36 Warrior] Astriaal (Barbarian) <Clan Silvermoon> ZONE: greatdivide (USER PID BZXRHLF)
+[Sun Sep 16 23:54:05 2001] There are 3 players in EverQuest.
+[Sun Sep 16 23:54:08 2001] Medaasa begins to cast a spell. (Stinging Swarm)
+[Sun Sep 16 23:54:16 2001] Mungsil is no longer berserk.
+[Sun Sep 16 23:54:22 2001] Haras auctions, 'Selling Crystal Chitin Handwraps (haste gloves)'
+[Sun Sep 16 23:54:28 2001] Medaasa begins to cast a spell. (Ignite)
+[Sun Sep 16 23:54:30 2001] Chefman begins to cast a spell. (Healing)
+[Sun Sep 16 23:54:30 2001] Astaroft tells you, 'did u see my print screen?'
+[Sun Sep 16 23:54:33 2001] Mungsil feels much better.
+[Sun Sep 16 23:54:33 2001] You told Astaroft, 'I will find a GM to read the report'
+[Sun Sep 16 23:54:35 2001] Medaasa begins to cast a spell. (Ignite)
+[Sun Sep 16 23:54:38 2001] Haras begins to cast a spell. (Root)
+[Sun Sep 16 23:54:39 2001] Astaroft tells you, 'thx alot friend'
+[Sun Sep 16 23:54:41 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:54:44 2001] Mungsil says, 'hehe Thank you ~!'
+[Sun Sep 16 23:54:47 2001] You told Astaroft, 'I can't read the reports - I have to camp out and find a GM to do so'
+[Sun Sep 16 23:54:49 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:54:52 2001] Astaroft tells you, 'hate freak on eq...'
+[Sun Sep 16 23:54:56 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:54:57 2001] Coldtear's spell fizzles!
+[Sun Sep 16 23:55:01 2001] Coldtear begins to cast a spell. (Shalee`s Animation)
+[Sun Sep 16 23:55:02 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:55:04 2001] You told Phantoma, 'It sounds like a problem with your video card...'
+[Sun Sep 16 23:55:05 2001] Medaasa begins to cast a spell. (Ignite)
+[Sun Sep 16 23:55:08 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Sep 16 23:55:08 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:55:08 2001] USER TEXT: Granist is broken
+[Sun Sep 16 23:55:09 2001] Players in EverQuest:
+[Sun Sep 16 23:55:09 2001] ---------------------------
+[Sun Sep 16 23:55:09 2001] [53 Wanderer] Cillin (Halfling) ZONE: sro (USER PID FWMMA2R)
+[Sun Sep 16 23:55:09 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:55:09 2001] Medaasa begins to cast a spell. (Ignite)
+[Sun Sep 16 23:55:14 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:55:15 2001] Larsot GMSAYS, 'hello Espranza'
+[Sun Sep 16 23:55:17 2001] Grenebulax shouts, 'lvl 17 ranger lfg or partner'
+[Sun Sep 16 23:55:18 2001] Chefman says, 'so Espranza do you know whats wrong'
+[Sun Sep 16 23:55:20 2001] Astaroft tells you, 'ok just check for that thx man'
+[Sun Sep 16 23:55:20 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:55:23 2001] Phantoma tells you, 'i can see all of coldtear'
+[Sun Sep 16 23:55:26 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:55:32 2001] Kelie yells for help from ahead and to the left of you.
+[Sun Sep 16 23:55:32 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:55:33 2001] You told Cillin, 'Hail, Cillin! Guide Espranza here. How is Granist broken?'
+[Sun Sep 16 23:55:34 2001] Medaasa begins to cast a spell. (Ignite)
+[Sun Sep 16 23:55:35 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:55:38 2001] Kelie yells for help from ahead and to the right of you.
+[Sun Sep 16 23:55:39 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:55:39 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:55:45 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:55:45 2001] You told Phantoma, 'weird'
+[Sun Sep 16 23:55:46 2001] Kelie yells for help from ahead and to the right of you.
+[Sun Sep 16 23:55:47 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:55:50 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:55:51 2001] Venlaar begins to cast a spell. (Retribution)
+[Sun Sep 16 23:55:51 2001] Chefman begins to cast a spell. (Healing)
+[Sun Sep 16 23:55:55 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:56:03 2001] Coldtear shouts, 'casting breeze at dock'
+[Sun Sep 16 23:56:08 2001] Astaroft tells you, 'going sleep good night'
+[Sun Sep 16 23:56:10 2001] Venlaar begins to cast a spell. (Superior Healing)
+[Sun Sep 16 23:56:12 2001] Phantoma tells you, 'got everone stumped even you right'
+[Sun Sep 16 23:56:23 2001] You told Phantoma, 'It sounds like a tech support problem. You can reach them through chat during the day, or through the message boards anytime.'
+[Sun Sep 16 23:56:26 2001] Coldtear says, 'Hail, Medaasa'
+[Sun Sep 16 23:56:29 2001] Coldtear begins to cast a spell. (Breeze)
+[Sun Sep 16 23:56:29 2001] Chefman says, 'yes..no???'
+[Sun Sep 16 23:56:29 2001] Doldoro auctions, 'WTB Cheap Arrows Paying Very Well'
+[Sun Sep 16 23:56:30 2001] You told Astaroft, 'Be well - I'll check up on him.'
+[Sun Sep 16 23:56:32 2001] Medaasa sighs in tranquility.
+[Sun Sep 16 23:56:37 2001] You say, 'hmm?'
+[Sun Sep 16 23:56:37 2001] Astaroft tells you, 'thx'
+[Sun Sep 16 23:56:46 2001] Medaasa bows before Coldtear.
+[Sun Sep 16 23:56:46 2001] Coldtear begins to cast a spell. (Bind Affinity)
+[Sun Sep 16 23:56:47 2001] Chefman says, 'Coldtear do you have clarity'
+[Sun Sep 16 23:56:47 2001] Venlaar shouts, 'no drop monk item on cutthroat by dock'
+[Sun Sep 16 23:56:50 2001] You GMSAY, 'Hiya, Larsot'
+[Sun Sep 16 23:56:52 2001] Coldtear is bound to the area.
+[Sun Sep 16 23:57:01 2001] Coldtear says, 'Hail, Chefman'
+[Sun Sep 16 23:57:04 2001] Chefman says, 'Hail, Coldtear'
+[Sun Sep 16 23:57:05 2001] Ariz bows before Coldtear.
+[Sun Sep 16 23:57:08 2001] Venlaar says, 'you can't use'
+[Sun Sep 16 23:57:09 2001] Coldtear begins to cast a spell. (Breeze)
+[Sun Sep 16 23:57:11 2001] You say, 'What's wrong with what, Chefman?'
+[Sun Sep 16 23:57:12 2001] Chefman sighs in tranquility.
+[Sun Sep 16 23:57:17 2001] Players in EverQuest:
+[Sun Sep 16 23:57:17 2001] ---------------------------
+[Sun Sep 16 23:57:17 2001] [22 Cleric] Chefman (Dwarf) <The Scaled Brotherhood> ZONE: oasis (USER PID BUZ8C99)
+[Sun Sep 16 23:57:17 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:57:19 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:57:20 2001] Medaasa begins to cast a spell. (Spirit of Wolf)
+[Sun Sep 16 23:57:25 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:57:26 2001] Geallron bows before Coldtear.
+[Sun Sep 16 23:57:27 2001] Kelie shouts, 'white scaled tunic for sale 400= on everlore 155pp here !'
+[Sun Sep 16 23:57:28 2001] You GMSAY, '<note badname> Chefman BUZ8C99'
+[Sun Sep 16 23:57:30 2001] Chefman says, 'the man can't see'
+[Sun Sep 16 23:57:31 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:57:35 2001] Medaasa waves at Chefman.
+[Sun Sep 16 23:57:36 2001] You say, 'No, I don't.'
+[Sun Sep 16 23:57:37 2001] Phantoma tells you, 'i starting to get some of it back '
+[Sun Sep 16 23:57:38 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:57:41 2001] Medaasa begins to cast a spell. (Strength of Earth)
+[Sun Sep 16 23:57:44 2001] Haras begins to cast a spell. (Root)
+[Sun Sep 16 23:57:46 2001] Chefman looks stronger.
+[Sun Sep 16 23:57:47 2001] Chefman waves at Medaasa.
+[Sun Sep 16 23:57:49 2001] Haras begins to cast a spell. (Root)
+[Sun Sep 16 23:57:54 2001] Ariz begins to cast a spell. (Greater Shielding)
+[Sun Sep 16 23:57:54 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:57:56 2001] Larsot GMSAYS, 'Mishan pet U/A'
+[Sun Sep 16 23:58:00 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:58:00 2001] Chefman says, 'Phantoma can you see'
+[Sun Sep 16 23:58:01 2001] Coldtear says, 'Hail, Geallron'
+[Sun Sep 16 23:58:05 2001] Coldtear begins to cast a spell. (Breeze)
+[Sun Sep 16 23:58:06 2001] Haras begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:58:06 2001] Medaasa begins to cast a spell. (Stinging Swarm)
+[Sun Sep 16 23:58:08 2001] Geallron sighs in tranquility.
+[Sun Sep 16 23:58:11 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sun Sep 16 23:58:11 2001] CHECKING IN
+[Sun Sep 16 23:58:13 2001] Coldtear says, 'Hail, Icebar'
+[Sun Sep 16 23:58:16 2001] Coldtear says, 'hi!'
+[Sun Sep 16 23:58:20 2001] Phantoma says, 'just a little'
+[Sun Sep 16 23:58:22 2001] Coldtear begins to cast a spell. (Breeze)
+[Sun Sep 16 23:58:22 2001] Icebar says, 'may i have a breez pls'
+[Sun Sep 16 23:58:24 2001] Geallron says, 'Hail, Coldtear'
+[Sun Sep 16 23:58:24 2001] Icebar sighs in tranquility.
+[Sun Sep 16 23:58:25 2001] You feel smaller.
+[Sun Sep 16 23:58:27 2001] You no longer have a target.
+[Sun Sep 16 23:58:28 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:58:29 2001] Grenebulax feels a little better.
+[Sun Sep 16 23:58:30 2001] Coldtear says, 'certainly'
+[Sun Sep 16 23:58:30 2001] Ariz's spell fizzles!
+[Sun Sep 16 23:58:32 2001] Ariz begins to cast a spell. (Steelskin)
+[Sun Sep 16 23:58:32 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:58:32 2001] Haras says, 'hello Coldtear 8)'
+[Sun Sep 16 23:58:33 2001] Grenebulax feels a little better.
+[Sun Sep 16 23:58:36 2001] Ariz's casting is interrupted!
+[Sun Sep 16 23:58:37 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:58:38 2001] Grenebulax feels a little better.
+[Sun Sep 16 23:58:42 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:58:42 2001] Icebar begins to cast a spell. (Spirit of Wolf)
+[Sun Sep 16 23:58:43 2001] Grenebulax feels a little better.
+[Sun Sep 16 23:58:47 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:58:47 2001] Coldtear is surrounded by a brief lupine aura.
+[Sun Sep 16 23:58:47 2001] Ariz's spell fizzles!
+[Sun Sep 16 23:58:48 2001] Grenebulax feels a little better.
+[Sun Sep 16 23:58:49 2001] Phantoma says, 'coldtear you are the only full think i see'
+[Sun Sep 16 23:58:51 2001] Ariz begins to cast a spell. (Steelskin)
+[Sun Sep 16 23:58:52 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:58:53 2001] Grenebulax feels a little better.
+[Sun Sep 16 23:58:54 2001] Foldora begins to cast a spell. (Ignite)
+[Sun Sep 16 23:58:55 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:58:58 2001] Erzatz begins to cast a spell. (Fleeting Fury)
+[Sun Sep 16 23:58:58 2001] Medaasa begins to cast a spell. (Ignite)
+[Sun Sep 16 23:58:59 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:59:00 2001] Grenebulax feels a little better.
+[Sun Sep 16 23:59:03 2001] Espranza saved.
+[Sun Sep 16 23:59:03 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:59:08 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Sun Sep 16 23:59:08 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:59:13 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:59:13 2001] Kelie begins to cast a spell. (Shock of Ice)
+[Sun Sep 16 23:59:14 2001] Geallron begins to cast a spell. (Center)
+[Sun Sep 16 23:59:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Sep 16 23:59:17 2001] USER TEXT: what is going on I never go LD and now 4times in like 5min have to bodies in L. Guk now and can't trues the connection, so may have three
+[Sun Sep 16 23:59:17 2001] Players in EverQuest:
+[Sun Sep 16 23:59:17 2001] ---------------------------
+[Sun Sep 16 23:59:17 2001] [46 Ranger] Kalais (Half Elf) <Hunters of the Undead> ZONE: gfaydark (USER PID DW64RBD)
+[Sun Sep 16 23:59:17 2001] There is 1 player in EverQuest.
+[Sun Sep 16 23:59:17 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:59:18 2001] Medaasa begins to cast a spell. (Snare)
+[Sun Sep 16 23:59:18 2001] Icebar begins to cast a spell. (Turtle Skin)
+[Sun Sep 16 23:59:22 2001] Geallron begins to cast a spell. (Holy Armor)
+[Sun Sep 16 23:59:23 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:59:25 2001] UNDOING CHECK OUT
+[Sun Sep 16 23:59:28 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:59:29 2001] Venlaar beams a smile at Coldtear.
+[Sun Sep 16 23:59:33 2001] Grenebulax begins to cast a spell. (Minor Healing)
+[Sun Sep 16 23:59:35 2001] Coldtear begins to cast a spell. (Breeze)
+[Sun Sep 16 23:59:38 2001] You GMSAY, 'I have to try and hunt up a GM for a possible warning'
+[Sun Sep 16 23:59:50 2001] Larsot GMSAYS, 'ok'
+[Sun Sep 16 23:59:54 2001] Icebar begins to cast a spell. (Endure Poison)
+[Sun Sep 16 23:59:59 2001] It will take you about 30 seconds to prepare your camp.
+[Mon Sep 17 00:00:03 2001] It will take about 25 more seconds to prepare your camp.
+[Mon Sep 17 00:00:04 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Mon Sep 17 00:00:08 2001] It will take about 20 more seconds to prepare your camp.
+[Mon Sep 17 00:00:09 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Mon Sep 17 00:00:13 2001] Icebar begins to cast a spell. (Dexterous Aura)
+[Mon Sep 17 00:00:14 2001] It will take about 15 more seconds to prepare your camp.
+[Mon Sep 17 00:00:19 2001] It will take about 10 more seconds to prepare your camp.
+[Mon Sep 17 00:00:19 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Mon Sep 17 00:00:20 2001] Players in EverQuest:
+[Mon Sep 17 00:00:20 2001] ---------------------------
+[Mon Sep 17 00:00:20 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID GUGBHE6)
+[Mon Sep 17 00:00:20 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: oasis (USER PID AUGBQH4)
+[Mon Sep 17 00:00:20 2001] There are 2 players in EverQuest.
+[Mon Sep 17 00:00:23 2001] Featsbaal begins to cast a spell. (Breeze)
+[Mon Sep 17 00:00:24 2001] It will take about 5 more seconds to prepare your camp.
+[Mon Sep 17 00:00:25 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Mon Sep 17 00:00:30 2001] Kelie begins to cast a spell. (Shock of Lightning)
+[Mon Sep 17 00:12:50 2001] a desert madman died.
+[Mon Sep 17 00:12:51 2001] You have entered Oasis of Marr.
+[Mon Sep 17 00:12:51 2001] MESSAGE OF THE DAY: Welcome to Morell-Thule! Please be careful about dropping items to the ground, as we do not reimburse items lost this way.  You can prevent accidents by setting Item Dropping to Confirm or Never (found in Options/General.)
+[Mon Sep 17 00:12:52 2001] GUILD MOTD: Mersi - PLEASE do not promise anyone that someone will do their wedding. Take information and make sure they know that a guide may not be able to do it... there is something going around about one week's notice ensures a guide..please, no guarantees
+[Mon Sep 17 00:12:59 2001] You GMSAY, 'back'
+[Mon Sep 17 00:13:04 2001] Players in EverQuest:
+[Mon Sep 17 00:13:04 2001] ---------------------------
+[Mon Sep 17 00:13:04 2001] [26 Rogue] Cupp (Barbarian) ZONE: lakeofillomen (USER PID EV5ZCKE)
+[Mon Sep 17 00:13:04 2001] There is 1 player in EverQuest.
+[Mon Sep 17 00:13:07 2001] You GMSAY, 'zone'
+[Mon Sep 17 00:13:08 2001] Players in EverQuest:
+[Mon Sep 17 00:13:08 2001] ---------------------------
+[Mon Sep 17 00:13:08 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: oasis (USER PID AUGBQH4)
+[Mon Sep 17 00:13:08 2001] * Guide *[50 Ranger] Trikk (Wood Elf) <Keepers of Dreams> ZONE: cshome (USER PID FT3SJQ6)
+[Mon Sep 17 00:13:08 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID GUGBHE6)
+[Mon Sep 17 00:13:08 2001] There are 3 players in EverQuest.
+[Mon Sep 17 00:13:10 2001] Coldtear begins to cast a spell. (Tashan)
+[Mon Sep 17 00:13:13 2001] You GMSAY, 'hiya trikk!'
+[Mon Sep 17 00:13:19 2001] You GMSAY, 'really zoning though'
+[Mon Sep 17 00:13:20 2001] Coldtear begins to cast a spell. (Choke)
+[Mon Sep 17 00:13:21 2001] Iorri has fallen to the ground.
+[Mon Sep 17 00:13:22 2001] Trikk GMSAYS, 'Hi Esp'
+[Mon Sep 17 00:13:28 2001] Coldtear begins to cast a spell. (Sanity Warp)
+[Mon Sep 17 00:13:32 2001] Teleporting to cupp.
+[Mon Sep 17 00:13:33 2001] LOADING, PLEASE WAIT...
+[Mon Sep 17 00:14:13 2001] You have entered Lake of Ill Omen.
+[Mon Sep 17 00:14:18 2001] It begins to rain.
+[Mon Sep 17 00:14:33 2001] Players in EverQuest:
+[Mon Sep 17 00:14:33 2001] ---------------------------
+[Mon Sep 17 00:14:33 2001] [26 Rogue] Cupp (Barbarian) ZONE: lakeofillomen (USER PID EV5ZCKE)
+[Mon Sep 17 00:14:33 2001] There is 1 player in EverQuest.
+[Mon Sep 17 00:15:29 2001] You GMSAY, 'sigh... was gonna warn this person but how odd, he went link dead as soon as he saw me'
+[Mon Sep 17 00:15:53 2001] Trikk GMSAYS, '<looks unconvincingly surprised>'
+[Mon Sep 17 00:15:56 2001] You GMSAY, '<note badname> Cupp Zanass EV5ZCKE (offensive phrase)'
+[Mon Sep 17 00:16:19 2001] You GMSAY, '<note warn> Cupp EV5ZCKE for making real life threats to another player.'
+[Mon Sep 17 00:16:39 2001] Larsot GMSAYS, 'lol, must be that GM spawn/LD bug'
+[Mon Sep 17 00:16:54 2001] Trikk tells the guild, 'I've met Cupp before 8('
+[Mon Sep 17 00:17:08 2001] Soul Mark added to file successfully.
+[Mon Sep 17 00:17:37 2001] Players on EverQuest:
+[Mon Sep 17 00:17:37 2001] ---------------------------
+[Mon Sep 17 00:17:37 2001] [20 Monk] Ryooga (Human)
+[Mon Sep 17 00:17:37 2001] [28 Paladin] Lookey (Dwarf) <Knights of Arcane Lore>
+[Mon Sep 17 00:17:37 2001] [23 Shaman] Naalnak (Barbarian)
+[Mon Sep 17 00:17:37 2001] [ANONYMOUS] Forking 
+[Mon Sep 17 00:17:37 2001] [28 Bard] Gwenea (Wood Elf) <Honorbound Elite>
+[Mon Sep 17 00:17:37 2001] [ANONYMOUS] Beeze 
+[Mon Sep 17 00:17:37 2001] [ANONYMOUS] Damoiel  <Knights of Arcane Lore>
+[Mon Sep 17 00:17:37 2001] [23 Shaman] Rienendessous (Barbarian)
+[Mon Sep 17 00:17:37 2001] [23 Cleric] Brellus (Dwarf) <Seekers of the Path>
+[Mon Sep 17 00:17:37 2001] [24 Paladin] Kiylan (High Elf)
+[Mon Sep 17 00:17:37 2001] [23 Ranger] Iegamenl (Wood Elf)
+[Mon Sep 17 00:17:37 2001] [26 Monk] Lizzarna (Iksar)
+[Mon Sep 17 00:17:37 2001] [ANONYMOUS] Nattineth 
+[Mon Sep 17 00:17:37 2001] [20 Necromancer] Maelworm (Iksar)
+[Mon Sep 17 00:17:37 2001] [20 Warrior] Lillilly (Wood Elf) <Terra Incognita>
+[Mon Sep 17 00:17:37 2001] [27 Monk] Isshin (Human) <Hunters of the Undead>
+[Mon Sep 17 00:17:37 2001] [17 Paladin] Grimbue (High Elf)
+[Mon Sep 17 00:17:37 2001] [25 Wizard] Sajon (High Elf) <Clan StarDragon>
+[Mon Sep 17 00:17:37 2001] [26 Shadow Knight] Cernnunos (Human) <Wraith Lords>
+[Mon Sep 17 00:17:37 2001] [22 Shadow Knight] Xexar (Iksar)
+[Mon Sep 17 00:17:37 2001] [24 Shaman] Nalyik (Barbarian)
+[Mon Sep 17 00:17:37 2001] [28 Ranger] Yarn (Wood Elf)
+[Mon Sep 17 00:17:37 2001] [29 Druid] Mally (Unknown)
+[Mon Sep 17 00:17:37 2001] [ANONYMOUS] Vagetta 
+[Mon Sep 17 00:17:37 2001] [ANONYMOUS] Kenwind  <Nature's Fury>
+[Mon Sep 17 00:17:37 2001] [24 Druid] Duende (Unknown) <Order of the Chosen Few>
+[Mon Sep 17 00:17:37 2001] [ANONYMOUS] Blachy 
+[Mon Sep 17 00:17:37 2001] [29 Cleric] Keeyan (Dark Elf) <Phantom Knights>
+[Mon Sep 17 00:17:37 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Sep 17 00:17:37 2001] There are 29 players in Lake of Ill Omen.
+[Mon Sep 17 00:17:39 2001] Players on EverQuest:
+[Mon Sep 17 00:17:39 2001] ---------------------------
+[Mon Sep 17 00:17:39 2001] [20 Monk] Ryooga (Human)
+[Mon Sep 17 00:17:39 2001] [28 Paladin] Lookey (Dwarf) <Knights of Arcane Lore>
+[Mon Sep 17 00:17:39 2001] [23 Shaman] Naalnak (Barbarian)
+[Mon Sep 17 00:17:39 2001] [ANONYMOUS] Forking 
+[Mon Sep 17 00:17:39 2001] [28 Bard] Gwenea (Wood Elf) <Honorbound Elite>
+[Mon Sep 17 00:17:39 2001] [ANONYMOUS] Beeze 
+[Mon Sep 17 00:17:39 2001] [ANONYMOUS] Damoiel  <Knights of Arcane Lore>
+[Mon Sep 17 00:17:39 2001] [23 Shaman] Rienendessous (Barbarian)
+[Mon Sep 17 00:17:39 2001] [23 Cleric] Brellus (Dwarf) <Seekers of the Path>
+[Mon Sep 17 00:17:39 2001] [24 Paladin] Kiylan (High Elf)
+[Mon Sep 17 00:17:39 2001] [23 Ranger] Iegamenl (Wood Elf)
+[Mon Sep 17 00:17:39 2001] [26 Monk] Lizzarna (Iksar)
+[Mon Sep 17 00:17:39 2001] [ANONYMOUS] Nattineth 
+[Mon Sep 17 00:17:39 2001] [20 Necromancer] Maelworm (Iksar)
+[Mon Sep 17 00:17:39 2001] [20 Warrior] Lillilly (Wood Elf) <Terra Incognita>
+[Mon Sep 17 00:17:39 2001] [27 Monk] Isshin (Human) <Hunters of the Undead>
+[Mon Sep 17 00:17:39 2001] [17 Paladin] Grimbue (High Elf)
+[Mon Sep 17 00:17:39 2001] [25 Wizard] Sajon (High Elf) <Clan StarDragon>
+[Mon Sep 17 00:17:39 2001] [26 Shadow Knight] Cernnunos (Human) <Wraith Lords>
+[Mon Sep 17 00:17:39 2001] [22 Shadow Knight] Xexar (Iksar)
+[Mon Sep 17 00:17:39 2001] [24 Shaman] Nalyik (Barbarian)
+[Mon Sep 17 00:17:39 2001] [28 Ranger] Yarn (Wood Elf)
+[Mon Sep 17 00:17:39 2001] [29 Druid] Mally (Unknown)
+[Mon Sep 17 00:17:39 2001] [ANONYMOUS] Vagetta 
+[Mon Sep 17 00:17:39 2001] [ANONYMOUS] Kenwind  <Nature's Fury>
+[Mon Sep 17 00:17:39 2001] [24 Druid] Duende (Unknown) <Order of the Chosen Few>
+[Mon Sep 17 00:17:39 2001] [ANONYMOUS] Blachy 
+[Mon Sep 17 00:17:39 2001] [29 Cleric] Keeyan (Dark Elf) <Phantom Knights>
+[Mon Sep 17 00:17:39 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Sep 17 00:17:39 2001] There are 29 players in Lake of Ill Omen.
+[Mon Sep 17 00:17:50 2001] Trikk GMSAYS, 'Zoning'
+[Mon Sep 17 00:18:08 2001] Saving soulmark information to server.
+[Mon Sep 17 00:18:10 2001] Players on EverQuest:
+[Mon Sep 17 00:18:10 2001] ---------------------------
+[Mon Sep 17 00:18:10 2001] [20 Monk] Ryooga (Human)
+[Mon Sep 17 00:18:10 2001] [28 Paladin] Lookey (Dwarf) <Knights of Arcane Lore>
+[Mon Sep 17 00:18:10 2001] [23 Shaman] Naalnak (Barbarian)
+[Mon Sep 17 00:18:10 2001] [ANONYMOUS] Forking 
+[Mon Sep 17 00:18:10 2001] [28 Bard] Gwenea (Wood Elf) <Honorbound Elite>
+[Mon Sep 17 00:18:10 2001] [ANONYMOUS] Beeze 
+[Mon Sep 17 00:18:10 2001] [ANONYMOUS] Damoiel  <Knights of Arcane Lore>
+[Mon Sep 17 00:18:11 2001] [23 Shaman] Rienendessous (Barbarian)
+[Mon Sep 17 00:18:11 2001] [23 Cleric] Brellus (Dwarf) <Seekers of the Path>
+[Mon Sep 17 00:18:11 2001] [24 Paladin] Kiylan (High Elf)
+[Mon Sep 17 00:18:11 2001] [23 Ranger] Iegamenl (Wood Elf)
+[Mon Sep 17 00:18:11 2001] [26 Monk] Lizzarna (Iksar)
+[Mon Sep 17 00:18:11 2001] [ANONYMOUS] Nattineth 
+[Mon Sep 17 00:18:11 2001] [20 Necromancer] Maelworm (Iksar)
+[Mon Sep 17 00:18:11 2001] [20 Warrior] Lillilly (Wood Elf) <Terra Incognita>
+[Mon Sep 17 00:18:11 2001] [27 Monk] Isshin (Human) <Hunters of the Undead>
+[Mon Sep 17 00:18:11 2001] [17 Paladin] Grimbue (High Elf)
+[Mon Sep 17 00:18:11 2001] [25 Wizard] Sajon (High Elf) <Clan StarDragon>
+[Mon Sep 17 00:18:11 2001] [26 Shadow Knight] Cernnunos (Human) <Wraith Lords>
+[Mon Sep 17 00:18:11 2001] [22 Shadow Knight] Xexar (Iksar)
+[Mon Sep 17 00:18:11 2001] [24 Shaman] Nalyik (Barbarian)
+[Mon Sep 17 00:18:11 2001] [28 Ranger] Yarn (Wood Elf)
+[Mon Sep 17 00:18:11 2001] [29 Druid] Mally (Unknown)
+[Mon Sep 17 00:18:11 2001] [ANONYMOUS] Vagetta 
+[Mon Sep 17 00:18:11 2001] [ANONYMOUS] Kenwind  <Nature's Fury>
+[Mon Sep 17 00:18:11 2001] [24 Druid] Duende (Unknown) <Order of the Chosen Few>
+[Mon Sep 17 00:18:11 2001] [ANONYMOUS] Blachy 
+[Mon Sep 17 00:18:11 2001] [29 Cleric] Keeyan (Dark Elf) <Phantom Knights>
+[Mon Sep 17 00:18:11 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Sep 17 00:18:11 2001] There are 29 players in Lake of Ill Omen.
+[Mon Sep 17 00:18:11 2001] Players on EverQuest:
+[Mon Sep 17 00:18:11 2001] ---------------------------
+[Mon Sep 17 00:18:11 2001] [20 Monk] Ryooga (Human)
+[Mon Sep 17 00:18:11 2001] [28 Paladin] Lookey (Dwarf) <Knights of Arcane Lore>
+[Mon Sep 17 00:18:11 2001] [23 Shaman] Naalnak (Barbarian)
+[Mon Sep 17 00:18:11 2001] [ANONYMOUS] Forking 
+[Mon Sep 17 00:18:11 2001] [28 Bard] Gwenea (Wood Elf) <Honorbound Elite>
+[Mon Sep 17 00:18:11 2001] [ANONYMOUS] Beeze 
+[Mon Sep 17 00:18:11 2001] [ANONYMOUS] Damoiel  <Knights of Arcane Lore>
+[Mon Sep 17 00:18:11 2001] [23 Shaman] Rienendessous (Barbarian)
+[Mon Sep 17 00:18:11 2001] [23 Cleric] Brellus (Dwarf) <Seekers of the Path>
+[Mon Sep 17 00:18:11 2001] [24 Paladin] Kiylan (High Elf)
+[Mon Sep 17 00:18:11 2001] [23 Ranger] Iegamenl (Wood Elf)
+[Mon Sep 17 00:18:11 2001] [26 Monk] Lizzarna (Iksar)
+[Mon Sep 17 00:18:12 2001] [ANONYMOUS] Nattineth 
+[Mon Sep 17 00:18:12 2001] [20 Necromancer] Maelworm (Iksar)
+[Mon Sep 17 00:18:12 2001] [20 Warrior] Lillilly (Wood Elf) <Terra Incognita>
+[Mon Sep 17 00:18:12 2001] [27 Monk] Isshin (Human) <Hunters of the Undead>
+[Mon Sep 17 00:18:12 2001] [17 Paladin] Grimbue (High Elf)
+[Mon Sep 17 00:18:12 2001] [25 Wizard] Sajon (High Elf) <Clan StarDragon>
+[Mon Sep 17 00:18:12 2001] [26 Shadow Knight] Cernnunos (Human) <Wraith Lords>
+[Mon Sep 17 00:18:12 2001] [22 Shadow Knight] Xexar (Iksar)
+[Mon Sep 17 00:18:12 2001] [24 Shaman] Nalyik (Barbarian)
+[Mon Sep 17 00:18:12 2001] [28 Ranger] Yarn (Wood Elf)
+[Mon Sep 17 00:18:12 2001] [29 Druid] Mally (Unknown)
+[Mon Sep 17 00:18:12 2001] [ANONYMOUS] Vagetta 
+[Mon Sep 17 00:18:12 2001] [ANONYMOUS] Kenwind  <Nature's Fury>
+[Mon Sep 17 00:18:12 2001] [24 Druid] Duende (Unknown) <Order of the Chosen Few>
+[Mon Sep 17 00:18:12 2001] [ANONYMOUS] Blachy 
+[Mon Sep 17 00:18:12 2001] [29 Cleric] Keeyan (Dark Elf) <Phantom Knights>
+[Mon Sep 17 00:18:12 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Mon Sep 17 00:18:12 2001] There are 29 players in Lake of Ill Omen.
+[Mon Sep 17 00:18:21 2001] Players in EverQuest:
+[Mon Sep 17 00:18:21 2001] ---------------------------
+[Mon Sep 17 00:18:21 2001] * Guide *[50 Ranger] Trikk (Wood Elf) <Keepers of Dreams> ZONE: wakening (USER PID FT3SJQ6)
+[Mon Sep 17 00:18:21 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: lakeofillomen (USER PID AUGBQH4)
+[Mon Sep 17 00:18:21 2001] * Guide *[50 Monk] Larsot (Iksar) <Keepers of Dreams> ZONE: cshome (USER PID GUGBHE6)
+[Mon Sep 17 00:18:21 2001] There are 3 players in EverQuest.
+[Mon Sep 17 00:18:37 2001] You GMSAY, 'this is his third warning, though Oraden's was verbal so I guess really two.'
+[Mon Sep 17 00:19:16 2001] Larsot GMSAYS, 'there should be no such thing as a verbal warning, i think that is a warning of a warning  :P'
+[Mon Sep 17 00:19:21 2001] You GMSAY, 'If I see him on, I'm gonna get real verbal with him.'
+[Mon Sep 17 00:19:35 2001] You GMSAY, 'yeah, the P&P is pretty clear on this.'
+[Mon Sep 17 00:19:47 2001] Larsot GMSAYS, 'should just /warn and move onto next violation'
+[Mon Sep 17 00:19:49 2001] You GMSAY, 'You warn if they do something warnable.'
+[Mon Sep 17 00:20:12 2001] Players in EverQuest:
+[Mon Sep 17 00:20:12 2001] ---------------------------
+[Mon Sep 17 00:20:12 2001] There are no players in EverQuest that match those who filters.
+[Mon Sep 17 00:20:47 2001] Iegamenl auctions, 'WTS Golden bracer send tell plz'
+[Mon Sep 17 00:21:32 2001] You GMSAY, 'well, the queue is light so I think I'll go to bed. I've asked a GM to come in sometime and reset a quest NPC who is out of position - anyone have a scrap of paper with which to take down an NPC name?'
+[Mon Sep 17 00:21:52 2001] Larsot GMSAYS, 'go ahead'
+[Mon Sep 17 00:22:19 2001] You GMSAY, 'Rilgor Plegnog in the necromancer's guild in Ak'Anon. He is out of place and not responding.'
+[Mon Sep 17 00:22:43 2001] Larsot GMSAYS, 'the chanter NPC?'
+[Mon Sep 17 00:22:47 2001] You GMSAY, 'yeah'
+[Mon Sep 17 00:22:56 2001] You GMSAY, 'normally I'd kill and let it respawn'
+[Mon Sep 17 00:23:01 2001] Larsot GMSAYS, 'surprise surprise, he always out of place'
+[Mon Sep 17 00:23:03 2001] You GMSAY, 'but we can't do that.'
+[Mon Sep 17 00:23:19 2001] Larsot GMSAYS, 'Lirus replaced him a few times'
+[Mon Sep 17 00:23:40 2001] You GMSAY, 'when I was on earlier, the same chanter who needed him tonight petitioned again'
+[Mon Sep 17 00:23:56 2001] You GMSAY, 'zone'
+[Mon Sep 17 00:23:58 2001] You begin casting Sunset Home. (Sunset Home)
+[Mon Sep 17 00:23:58 2001] Your Belt of Translocation begins to glow.
+[Mon Sep 17 00:24:00 2001] LOADING, PLEASE WAIT...
+[Mon Sep 17 00:24:20 2001] You have entered Sunset Home.
+[Mon Sep 17 00:24:55 2001] You GMSAY, 'night, folken'
+[Mon Sep 17 00:24:58 2001] It will take you about 30 seconds to prepare your camp.
+[Mon Sep 17 00:25:02 2001] It will take about 25 more seconds to prepare your camp.
+[Mon Sep 17 00:25:07 2001] It will take about 20 more seconds to prepare your camp.
+[Mon Sep 17 00:25:13 2001] It will take about 15 more seconds to prepare your camp.
+[Mon Sep 17 00:25:18 2001] It will take about 10 more seconds to prepare your camp.
+[Mon Sep 17 00:25:23 2001] It will take about 5 more seconds to prepare your camp.
+[Mon Sep 17 00:25:26 2001] Trikk tells the guild, 'Nite Esp 8)'

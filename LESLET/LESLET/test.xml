@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DOCTYPE LESSON SYSTEM "leslet.dtd" -->
+
+<lesson>
+
+<page title="Introduction">
+
+<paragraph heading="Introduction">
+Faced with a hard road integrating frame sets into the database,
+leading scientists at the famed Archipelago Research Labs hidden
+in a secluded, bramble-filled arroyo near Monterey, California,
+begin work on a top-secret cyphergnosic heuristic applet parser (CHAP).
+</paragraph>
+
+<flipbook frames="3" src="flip1.jpg" align="left"/>
+
+<paragraph>
+In this short presentation, we take a look behind the scenes at one
+of the nation's most exciting education research facilities.
+</paragraph>
+
+<paragraph>
+When you are finished, please put your pencils down and pass your
+assignment to the front of the class.
+</paragraph>
+
+</page>
+
+<page title="Textbook Test">
+
+<textbook>
+
+<section level="0">
+#include &lt;iostream&gt;\n
+\n
+//introduces namespace std\n
+using namespace std;\n
+</section>
+
+
+</textbook>
+
+</page>
+
+
+<page title="The Second Page">
+
+<picture src="img1.gif" align="center"/>
+
+<paragraph heading="Lost in the Labyrinth">
+Database Central for ARL is hidden within a maze of twisty little
+passages, all alike. Those without a keen sense of direction may
+find themselves wandering around until the batteries in their
+rusty lantern die, then to be robbed by a nasty pirate or waylaid
+by an axe-bearing dwarf, or even eaten by one of the unseen grues
+that prowl the darkened halls.
+</paragraph>
+
+<paragraph>
+Perseverance and luck bring the intrepid adventurer to the
+row upon row of massive servers set in ranks and files in the
+center of a cavern with a black river flowing through one end,
+over which a blind ferryman will bring you for the price of
+two coins.
+</paragraph>
+
+</page>
+
+<page title="Useful Links">
+
+<paragraph heading="right place, wrong time">
+<text color="#9933CC" style="bold">Here</text> are some <text style="italic">new links</text> you can try. Here are some
+<text style="bold">new
+links</text> you can buy. <text style="bold,italic">Why do you think</text>
+when you could just link?
+She <text color="blue">stated again</text> and again with a sigh.
+</paragraph>
+
+<link heading="Linkety do, let's go to Yahoo!" url="http://www.yahoo.com/"/>
+
+<link heading="Headings NOT required" url="http://www.w3.org/">
+But you can use them if you like.
+</link>
+
+<link url="http://www.archipelago.com/">
+What do we do here?
+</link>
+
+</page>
+
+<page title="Continuing On: Page 3">
+<paragraph heading="Deliverance">
+After passing tests and trials, the wary (and weary) visitor
+is wholly unprepared for the calm whiteness of the ARL inner
+sanctum. Shadowless light comes from the softly glowing walls
+and soothing music from the ceilings as the noiseless Acolytes
+of the Oracle move about on their unfathomable errands.
+</paragraph>
+
+<picture src="img2.jpg" align="right" caption="An Acolyte of the Oracle"/>
+
+<paragraph>
+Each visitor faces the final task of presenting the Oracle with
+their query. The Acolytes are eager to help each new petitioner
+format their question correctly, deriving pleasure from the
+welcome diversion from their changeless lives.
+</paragraph>
+</page>
+
+<page title="What We Learned">
+
+<paragraph>
+We have seen that the path between a user's query and the final
+reply is not nearly as automatic and safe as the government-controlled
+media would have
+you believe. From the choices below, please select the most
+correct statement.
+</paragraph>
+
+<paragraph heading="A database query..."/>
+<quiz>
+
+<answer>
+... is handled automatically by existing Internet protocols.
+<ifselect>
+No. Industry leaders would like the public to believe that
+a distributed network can be queried via keywords and associations
+without human intervention, but it just ain't so.
+</ifselect>
+</answer>
+
+<answer>
+... once sent, is given a random response drawn from a list
+of oracular responses
+written by ancient Gnostics in the second century of the Roman Empire.
+<ifselect>
+Sorry. However, this was the system used until the Gorxians
+contacted academecian Charles Babbage and gave him the plans
+to the Difference Engine which ushered in the new era.
+</ifselect>
+</answer>
+
+<answer>
+... is answered by a mysterious Oracle, a sentient biological computer
+slowly gnawing its way toward the molten core of our planet.
+
+<ifselect>
+Correct. The Oracle is expected to reach the core in the year
+2512, at which time massive vulcanism will shatter the Earth's
+crust.
+</ifselect>
+</answer>
+
+<answer>
+... is a crime against nature. Students should be satisfied
+with static web pages.
+
+<ifselect>
+While many might agree, this view went out with disco, leisure
+suits, and layered hair. Welcome to the new millennium. 'Nuff said.
+</ifselect>
+</answer>
+
+</quiz>
+
+</page>
+
+
+
+</lesson>

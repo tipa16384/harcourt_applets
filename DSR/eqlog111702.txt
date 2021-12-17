@@ -1,0 +1,782 @@
+[Sun Nov 17 08:18:42 2002] Welcome to EverQuest!
+[Sun Nov 17 08:18:42 2002] You have entered Cabilis East.
+[Sun Nov 17 08:18:42 2002] MESSAGE OF THE DAY: Greetings Norrathians!  The quests asking for the "Spectral Parchment" have random and sometimes repeated rewards.  This is an intentional part of the quest.  We appreciate all your feedback!
+[Sun Nov 17 08:18:43 2002] GUILD MOTD: Cronn - 2 New Quests have been posted!  Halfling Tourists visist Greater Fay, and Ahkim Sandstorm will be defending his title in Oasis Friday night!
+[Sun Nov 17 08:18:46 2002] It begins to rain.
+[Sun Nov 17 08:18:49 2002] Players in EverQuest:
+[Sun Nov 17 08:18:49 2002] ---------------------------
+
+[Sun Nov 17 08:18:49 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cabeast (USER PID FUGQSJL) 
+[Sun Nov 17 08:18:49 2002] * Guide *[50 Wizard] Nilnyar (High Elf) <House of Zek> ZONE: lfaydark (USER PID FUVAF1W) 
+[Sun Nov 17 08:18:49 2002] There are 2 players in EverQuest.
+[Sun Nov 17 08:18:53 2002] You GMSAY, 'hiya'
+[Sun Nov 17 08:19:22 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 08:19:22 2002] Nilnyar GMSAYS, 'Greetings Espranza'
+[Sun Nov 17 08:19:23 2002] USER TEXT: change surname
+[Sun Nov 17 08:19:23 2002] GM TEXT: Mercusio: Surname: Drukentiger
+[Sun Nov 17 08:19:23 2002] Players in EverQuest:
+[Sun Nov 17 08:19:23 2002] ---------------------------
+
+[Sun Nov 17 08:19:23 2002] [ANON (29 Paladin)] Sanadeb (Human) ZONE: freportn (USER PID E0V1S39) 
+[Sun Nov 17 08:19:23 2002] There is 1 player in EverQuest.
+[Sun Nov 17 08:19:26 2002] UNDOING CHECK OUT
+[Sun Nov 17 08:19:34 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Sun Nov 17 08:19:39 2002] LOADING, PLEASE WAIT...
+[Sun Nov 17 08:19:56 2002] You have entered Sunset Home.
+[Sun Nov 17 08:20:01 2002] UNDOING CHECK OUT
+[Sun Nov 17 08:20:05 2002] Players on EverQuest:
+[Sun Nov 17 08:20:05 2002] ---------------------------
+[Sun Nov 17 08:20:05 2002] * GM * [55 Blackguard] Espranza (Halfling) <House of Zek>
+[Sun Nov 17 08:20:05 2002] There is 1 player in Sunset Home.
+[Sun Nov 17 08:20:07 2002] Players in EverQuest:
+[Sun Nov 17 08:20:07 2002] ---------------------------
+
+[Sun Nov 17 08:20:07 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Sun Nov 17 08:20:07 2002] * Guide *[50 Wizard] Nilnyar (High Elf) <House of Zek> ZONE:  (USER PID FUVAF1W) 
+[Sun Nov 17 08:20:07 2002] There are 2 players in EverQuest.
+[Sun Nov 17 08:20:14 2002] You feel the spirit of Norrath enter you.
+[Sun Nov 17 08:20:15 2002] Your feet leave the ground.
+[Sun Nov 17 08:20:32 2002] Nilnyar tells the guild, 'How you doing today?'
+[Sun Nov 17 08:20:44 2002] You say to your guild, 'doing okay, and yourself?'
+[Sun Nov 17 08:21:06 2002] Nilnyar tells the guild, 'Not bad.  got all the morning petitions out of the way and just runing around towns :)'
+[Sun Nov 17 08:21:15 2002] You say to your guild, 'wonderful work :)'
+[Sun Nov 17 08:27:18 2002] Nilnyar GMSAYS, 'zonning'
+[Sun Nov 17 08:28:16 2002] Nilnyar GMSAYS, 'OK, done some good this morning,  time for me to log for a little while.  should be back on later this night.'
+[Sun Nov 17 08:29:09 2002] You GMSAY, 'later Niln'
+[Sun Nov 17 08:29:11 2002] Players in EverQuest:
+[Sun Nov 17 08:29:11 2002] ---------------------------
+
+[Sun Nov 17 08:29:11 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Sun Nov 17 08:29:11 2002] There is 1 player in EverQuest.
+[Sun Nov 17 08:30:56 2002] You no longer have a target.
+[Sun Nov 17 08:32:25 2002] You can no longer levitate.
+[Sun Nov 17 08:38:30 2002] Espranza saved.
+[Sun Nov 17 08:41:49 2002] Your feet leave the ground.
+[Sun Nov 17 08:44:21 2002] Players in EverQuest:
+[Sun Nov 17 08:44:21 2002] ---------------------------
+
+[Sun Nov 17 08:44:21 2002] [1 Shadow Knight] Azire (Troll)  ZONE:  (USER PID ASQGL6S) 
+[Sun Nov 17 08:44:21 2002] [ANON (1 Enchanter)] Sellerbuyer (High Elf) ZONE: bazaar (USER PID CPFWSQ0) 
+[Sun Nov 17 08:44:21 2002] [1 Paladin] Uanarkrul (Erudite)  ZONE: erudnext (USER PID H036U4W) 
+[Sun Nov 17 08:44:22 2002] [1 Beastlord] Sebakk (Iksar)  ZONE: fieldofbone (USER PID F4ZQNQM) 
+[Sun Nov 17 08:44:22 2002] [1 Enchanter] Masturbatyr (Dark Elf)  ZONE: neriakb (USER PID DVS7N3Y) 
+[Sun Nov 17 08:44:22 2002] [1 Shaman] Jilie (Barbarian)  ZONE: everfrost (USER PID FR2902D) 
+[Sun Nov 17 08:44:22 2002] [1 Warrior] Sanon (Dark Elf)  ZONE: neriaka (USER PID C2KQ852) 
+[Sun Nov 17 08:44:22 2002] [ANON (1 Wizard)] Casinodude (High Elf) ZONE: bazaar (USER PID HX9V07Q) 
+[Sun Nov 17 08:44:22 2002] [1 Druid] Iuleriane (Wood Elf)  ZONE: bazaar (USER PID BR4NA00) 
+[Sun Nov 17 08:44:22 2002] [1 Warrior] Raythil (Barbarian)  ZONE: everfrost (USER PID ER80Y5D) 
+[Sun Nov 17 08:44:22 2002] [1 Enchanter] Satika (High Elf)  ZONE: bazaar (USER PID CV5DXEJ) 
+[Sun Nov 17 08:44:22 2002] [1 Druid] Poonana (Halfling)  ZONE: misty (USER PID EP3JAW5) 
+[Sun Nov 17 08:44:22 2002] [1 Warrior] Feyiama (Vah Shir)  ZONE: sharvahl (USER PID F3AYL92) 
+[Sun Nov 17 08:44:22 2002] [1 Warrior] Numbuk (Troll)  ZONE: grobb (USER PID DNK25K9) 
+[Sun Nov 17 08:44:22 2002] [1 Bard] Meroa (Vah Shir)  ZONE: sharvahl (USER PID C4E51WA) 
+[Sun Nov 17 08:44:22 2002] [ANON (1 Enchanter)] Gearman (High Elf) ZONE: bazaar (USER PID FTMFAG3) 
+[Sun Nov 17 08:44:22 2002] [ANON (1 Necromancer)] Synzz (Iksar) ZONE: cabeast (USER PID HTVDNG4) 
+[Sun Nov 17 08:44:22 2002] [1 Paladin] Munstar (High Elf)  ZONE: felwithea (USER PID F4YPP0H) 
+[Sun Nov 17 08:44:22 2002] [1 Druid] Lildreamer (Wood Elf)  ZONE: gfaydark (USER PID AYRQR9C) 
+[Sun Nov 17 08:44:22 2002] [1 Ranger] Tiiberius (Wood Elf)  ZONE: bazaar (USER PID CPGGVYZ) 
+[Sun Nov 17 08:44:22 2002] Your who request was cut short..too many players.
+[Sun Nov 17 08:45:00 2002] You GMSAY, '<note badname> Masturbatyr DVS7N3Y 1 DE enchanter'
+[Sun Nov 17 08:45:12 2002] Players in EverQuest:
+[Sun Nov 17 08:45:12 2002] ---------------------------
+
+[Sun Nov 17 08:45:12 2002] [ANON (2 Rogue)] Dezyk (Dark Elf) ZONE: nexus (USER PID C1VK11X) 
+[Sun Nov 17 08:45:12 2002] [ANON (2 Cleric)] Nexxil (Gnome) ZONE: bazaar (USER PID B25WFL3) 
+[Sun Nov 17 08:45:12 2002] [2 Wizard] Moldor (Dark Elf)  ZONE: nektulos (USER PID BUWNPMQ) 
+[Sun Nov 17 08:45:12 2002] [2 Druid] Caelystra (Wood Elf)  ZONE: gfaydark (USER PID DXWWMAS) 
+[Sun Nov 17 08:45:12 2002] [2 Wizard] Gundel (Erudite)  ZONE: qeynos2 (USER PID FWGPR4M) 
+[Sun Nov 17 08:45:12 2002] [2 Cleric] Conavalt (Halfling) <Clan of Nobles> ZONE: bazaar (USER PID HXAU3BN) 
+[Sun Nov 17 08:45:12 2002] [2 Magician] Kkrystall (Human)  ZONE: bazaar (USER PID D0WD7E4) 
+[Sun Nov 17 08:45:12 2002] [ANON (2 Druid)] Kyiah (Human) ZONE: bazaar (USER PID EU1PXN9) 
+[Sun Nov 17 08:45:12 2002] There are 8 players in EverQuest.
+[Sun Nov 17 08:45:20 2002] Players in EverQuest:
+[Sun Nov 17 08:45:20 2002] ---------------------------
+
+[Sun Nov 17 08:45:20 2002] [3 Beastlord] Lordbeasty (Iksar)  ZONE: fieldofbone (USER PID H033KY3) 
+[Sun Nov 17 08:45:20 2002] [ANON (3 Beastlord)] Ramjambro (Vah Shir) ZONE: bazaar (USER PID BNP9HWL) 
+[Sun Nov 17 08:45:20 2002] [3 Monk] Ggoten (Human)  ZONE: qeynos2 (USER PID E20RQEW) 
+[Sun Nov 17 08:45:20 2002] [ANON (3 Beastlord)] Reaveneye (Barbarian) ZONE: everfrost (USER PID GQ9AURB) 
+[Sun Nov 17 08:45:20 2002] [ANON (3 Ranger)] Deathlily (Wood Elf) ZONE: kithicor (USER PID B089QGB) 
+[Sun Nov 17 08:45:20 2002] [ANON (3 Necromancer)] Cordeth (Dark Elf) ZONE: nektulos (USER PID A3CUCL8) 
+[Sun Nov 17 08:45:20 2002] [ANON (3 Paladin)] Aghondir (Human) ZONE: freporte (USER PID CR7PS44) 
+[Sun Nov 17 08:45:20 2002] [ANON (3 Bard)] Fyntar (Human) ZONE: qeynos (USER PID C446AKC) 
+[Sun Nov 17 08:45:20 2002] [ANON (3 Paladin)] Rennoc (Half Elf) ZONE: bazaar (USER PID E4ZPST5) 
+[Sun Nov 17 08:45:20 2002] There are 9 players in EverQuest.
+[Sun Nov 17 08:45:55 2002] You GMSAY, '<note badname> Lordbeasty H033KY3 3 Iksar beastlord'
+[Sun Nov 17 08:45:58 2002] Players in EverQuest:
+[Sun Nov 17 08:45:58 2002] ---------------------------
+
+[Sun Nov 17 08:45:58 2002] [65 Transcendent] Skippie (Iksar) <Pandemonium> ZONE: nexus (USER PID AVRQJ9F) 
+[Sun Nov 17 08:45:58 2002] [65 Forest Stalker] Ziguld (Human) <Pandemonium> ZONE: vexthal (USER PID APUM38A) 
+[Sun Nov 17 08:45:58 2002] [65 Deceiver] Kalcor (Gnome) <Pandemonium> ZONE: potranquility (USER PID HT8HNNN) 
+[Sun Nov 17 08:45:58 2002] [65 Transcendent] Drakknar (Human) <Pandemonium> ZONE: netherbian (USER PID HZESAM5) 
+[Sun Nov 17 08:45:58 2002] [ANON (65 Arcanist)] Thurloc (Dark Elf) ZONE: nexus (USER PID CQ9KKN1) 
+[Sun Nov 17 08:45:58 2002] [ANON (65 Dread Lord)] Telen (Human) ZONE: povalor (USER PID HSDFCQN) 
+[Sun Nov 17 08:45:58 2002] [65 Archon] Zhir (Dark Elf) <Pandemonium> ZONE: hohonora (USER PID HQ3GKMX) 
+[Sun Nov 17 08:45:58 2002] [65 Arcanist] Tzeenth (Dark Elf) <Pandemonium> ZONE: fungusgrove (USER PID DQGTBC3) 
+[Sun Nov 17 08:45:58 2002] [65 Overlord] Minnoch (Dwarf) <Pandemonium> ZONE: umbral (USER PID EX6RWS5) 
+[Sun Nov 17 08:45:58 2002] [65 Archon] Faeyen (High Elf) <Pandemonium> ZONE: umbral (USER PID FM40K2E) 
+[Sun Nov 17 08:45:58 2002] [65 Maestro] Synthesize (Human) <Pandemonium> ZONE: povalor (USER PID BVJ9BUL) 
+[Sun Nov 17 08:45:58 2002] [65 Overlord] Klurik (Troll) <Pandemonium> ZONE: hohonora (USER PID BQJNFM2) 
+[Sun Nov 17 08:45:58 2002] [65 Coercer] Expert (Dark Elf) <Pandemonium> ZONE: hohonora (USER PID ERDX7A7) 
+[Sun Nov 17 08:45:58 2002] [65 Forest Stalker] Clairdelune (Wood Elf) <Pandemonium> ZONE: umbral (USER PID HQXW9A2) 
+[Sun Nov 17 08:45:58 2002] [65 Prophet] Ruzenlire (Iksar) <Pandemonium> ZONE: povalor (USER PID CZNGELG) 
+[Sun Nov 17 08:45:58 2002] [65 Archon] Kinamara (Dark Elf) <Pandemonium> ZONE: umbral (USER PID DYE7DPK) 
+[Sun Nov 17 08:45:58 2002] [ANON (65 Dread Lord)] Knowe (Dark Elf) ZONE: sebilis (USER PID CNXSQVJ) 
+[Sun Nov 17 08:45:58 2002] [65 Coercer] Tabith (High Elf) <Pandemonium> ZONE: umbral (USER PID AVLVHCP) 
+[Sun Nov 17 08:45:58 2002] [65 Lord Protector] Slaween (Human) <Pandemonium> ZONE: potranquility (USER PID BM36NZB) 
+[Sun Nov 17 08:45:58 2002] [65 Prophet] Tassaddar (Barbarian) <Pandemonium> ZONE: povalor (USER PID BW216BD) 
+[Sun Nov 17 08:45:58 2002] Your who request was cut short..too many players.
+[Sun Nov 17 08:46:19 2002] Leoard tells you, 'excuse me sir i have bought velious and have been there befroe but i just was going to get portaled there and it launced me to safe point'
+[Sun Nov 17 08:47:16 2002] Leoard tells you, 'do i have to petition?'
+[Sun Nov 17 08:47:38 2002] You told Leoard, 'which zone were you being ported into?'
+[Sun Nov 17 08:47:44 2002] Leoard tells you, 'GD'
+[Sun Nov 17 08:47:54 2002] Players in EverQuest:
+[Sun Nov 17 08:47:54 2002] ---------------------------
+
+[Sun Nov 17 08:47:54 2002] [ANON (27 Bard)] Leoard (Wood Elf) ZONE: butcher (USER PID B24XZUR) 
+[Sun Nov 17 08:47:54 2002] There is 1 player in EverQuest.
+[Sun Nov 17 08:48:01 2002] You told Leoard, 'did you get any sort of message?'
+[Sun Nov 17 08:48:09 2002] Leoard tells you, 'sec checkin'
+[Sun Nov 17 08:48:52 2002] It begins to rain.
+[Sun Nov 17 08:50:30 2002] Leoard tells you, 'so relog ok then i will send u a tell ok'
+[Sun Nov 17 08:50:42 2002] You told Leoard, 'ok'
+[Sun Nov 17 08:52:36 2002] Leoard tells you, 'k back'
+[Sun Nov 17 08:53:40 2002] You told Leoard, 'welcome back )'
+[Sun Nov 17 08:53:45 2002] You feel the spirit of Norrath enter you.
+[Sun Nov 17 08:53:46 2002] Your feet leave the ground.
+[Sun Nov 17 08:53:50 2002] Leoard tells you, 'thnz lol k so now what '
+[Sun Nov 17 08:54:37 2002] Leoard tells you, 'so will u summon me to GD to see if it evenworks?'
+[Sun Nov 17 08:54:48 2002] Leoard tells you, 'or even somewhere on velious'
+[Sun Nov 17 08:54:54 2002] You told Leoard, 'the first thing to try is to delete the greatdivide files in your EQ folder and repatch Velious'
+[Sun Nov 17 08:56:02 2002] Leoard tells you, 'they work i was in velious yesterday so can u just try to summon me there and even if u put me back in Butcher block just wanna make sure before having to do all of that cause sometimes it screws up your account'
+[Sun Nov 17 08:56:56 2002] Espranza saved.
+[Sun Nov 17 08:57:14 2002] You say to your guild, 'summoning you to GD without you having the good files could jam your character so that you could not log in again'
+[Sun Nov 17 08:57:34 2002] You told Leoard, 'summoning you to GD without you having the good files could jam your character so that you could not log in again'
+[Sun Nov 17 08:57:39 2002] Players in EverQuest:
+[Sun Nov 17 08:57:39 2002] ---------------------------
+
+[Sun Nov 17 08:57:39 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Sun Nov 17 08:57:39 2002] There is 1 player in EverQuest.
+[Sun Nov 17 08:58:12 2002] Leoard tells you, 'i willing to risk it'
+[Sun Nov 17 08:58:22 2002] Leoard tells you, 'its ok'
+[Sun Nov 17 08:58:51 2002] Leoard tells you, 'just please do it sir and if it doesnt work i will go somewhere else to lvl'
+[Sun Nov 17 08:58:55 2002] You told Leoard, 'repatch the files, then send me a tell.'
+[Sun Nov 17 08:59:04 2002] Leoard tells you, 'i have'
+[Sun Nov 17 08:59:10 2002] Leoard tells you, 'cmon sir'
+[Sun Nov 17 08:59:20 2002] Leoard tells you, 'take like 10 minutes tops'
+[Sun Nov 17 08:59:55 2002] You told Leoard, 'if you have repatched the files, try porting again to Great Divide and see if that fixed it.'
+[Sun Nov 17 09:00:06 2002] Leoard tells you, 'thats gona take forever'
+[Sun Nov 17 09:00:39 2002] You told Leoard, 'to port to GD?'
+[Sun Nov 17 09:03:01 2002] Players in EverQuest:
+[Sun Nov 17 09:03:01 2002] ---------------------------
+
+[Sun Nov 17 09:03:01 2002] [ANON (27 Bard)] Leoard (Wood Elf) ZONE: butcher (USER PID B24XZUR) 
+[Sun Nov 17 09:03:01 2002] [ANON (20 Ranger)] Leorin (Wood Elf) ZONE: firiona (USER PID C2Q1CJP) 
+[Sun Nov 17 09:03:01 2002] There are 2 players in EverQuest.
+[Sun Nov 17 09:05:47 2002] You feel as if you are about to fall.
+[Sun Nov 17 09:05:51 2002] You can no longer levitate.
+[Sun Nov 17 09:08:01 2002] Players in EverQuest:
+[Sun Nov 17 09:08:01 2002] ---------------------------
+
+[Sun Nov 17 09:08:01 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Sun Nov 17 09:08:01 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:11:12 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 09:11:12 2002] USER TEXT: would like my last name removed, please contact me if this is possible
+[Sun Nov 17 09:11:12 2002] GM TEXT: 
+[Sun Nov 17 09:11:12 2002] Players in EverQuest:
+[Sun Nov 17 09:11:12 2002] ---------------------------
+
+[Sun Nov 17 09:11:12 2002] [ANON (55 Revenant)] Slaren (Gnome) ZONE: katta (USER PID E2CBPQX) 
+[Sun Nov 17 09:11:12 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:11:47 2002] You told Slaren, 'Hail, Slaren! Guide Espranza here. There is nobody on right now who can remove last names, but I will bring your request to the attention of the next ones that come by.'
+[Sun Nov 17 09:11:56 2002] GM Text added:  Espranza: wants last name removed.
+[Sun Nov 17 09:11:58 2002] STATUS UPGRADED TO URGENT
+[Sun Nov 17 09:12:11 2002] Slaren tells you, 'thanks, that's what they said last time and no one contacted me =('
+[Sun Nov 17 09:12:23 2002] You GMSAY, '<note name> Slaren E2CBPQX 55 SK wants last name removed.'
+[Sun Nov 17 09:12:26 2002] CHECKING IN
+[Sun Nov 17 09:12:51 2002] You told Slaren, 'well, one never knows when a senior guide will log in...'
+[Sun Nov 17 09:12:55 2002] Slaren tells you, '=)'
+[Sun Nov 17 09:14:26 2002] Players in EverQuest:
+[Sun Nov 17 09:14:26 2002] ---------------------------
+
+[Sun Nov 17 09:14:26 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Sun Nov 17 09:14:26 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:15:22 2002] Espranza saved.
+[Sun Nov 17 09:16:04 2002] Feynix tells you, 'this is is bind camping me'
+[Sun Nov 17 09:16:10 2002] Pokieu tells you, 'hello'
+[Sun Nov 17 09:16:17 2002] You told Pokieu, 'hullo'
+[Sun Nov 17 09:16:23 2002] You told Feynix, 'who is?'
+[Sun Nov 17 09:16:31 2002] Feynix tells you, 'tracke gutslica'
+[Sun Nov 17 09:16:36 2002] Feynix tells you, 'im at bank in hh'
+[Sun Nov 17 09:16:39 2002] Players in EverQuest:
+[Sun Nov 17 09:16:39 2002] ---------------------------
+
+[Sun Nov 17 09:16:39 2002] [32 Ranger] Tracke (Halfling) <Carnival of Carnage> ZONE: highkeep (USER PID GU3JP9E) 
+[Sun Nov 17 09:16:39 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:16:44 2002] Players in EverQuest:
+[Sun Nov 17 09:16:44 2002] ---------------------------
+
+[Sun Nov 17 09:16:44 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Sun Nov 17 09:16:44 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:16:44 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Sun Nov 17 09:16:47 2002] Pokieu tells you, 'could you by any chance tell me what do i combine posion ingredients in'
+[Sun Nov 17 09:16:50 2002] LOADING, PLEASE WAIT...
+[Sun Nov 17 09:19:10 2002] Tracke says out of character, 'Feynix down for like the 7th time'
+[Sun Nov 17 09:19:23 2002] You have entered High Keep.
+[Sun Nov 17 09:19:24 2002] Feynix tells you, 'can you come pls'
+[Sun Nov 17 09:19:31 2002] Espranza is now Invisible.
+[Sun Nov 17 09:19:31 2002] You are now anonymous.
+[Sun Nov 17 09:19:31 2002] It begins to rain.
+[Sun Nov 17 09:19:37 2002] Tracke says out of character, 'bye feynix been fun ccin ya'
+[Sun Nov 17 09:19:38 2002] Luigem shouts, 'WTS Power Levels for wizard Items of Plat'
+[Sun Nov 17 09:19:39 2002] You told Pokieu, 'mortar and pestle'
+[Sun Nov 17 09:19:40 2002] Tracke begins to cast a spell. (Spirit of Wolf)
+[Sun Nov 17 09:19:45 2002] Teleporting to tracke.
+[Sun Nov 17 09:19:47 2002] Tracke begins to cast a spell. (Spirit of Wolf)
+[Sun Nov 17 09:19:49 2002] Krusin waves at Tracke.
+[Sun Nov 17 09:19:52 2002] Tracke is surrounded by a brief lupine aura.
+[Sun Nov 17 09:19:52 2002] Krusin cheers at Tracke.
+[Sun Nov 17 09:19:56 2002] Tracke says, 'lol'
+[Sun Nov 17 09:20:05 2002] Pokieu tells you, 'that is what i have to have to combine them'
+[Sun Nov 17 09:20:33 2002] Players on EverQuest:
+[Sun Nov 17 09:20:33 2002] ---------------------------
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Krusin 
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Feynix  <Abbermonium>
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Aphasia  <Amazonians>
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Sarouvok  <Sands of Pyralis>
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Eudoxya 
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Zidjan 
+[Sun Nov 17 09:20:33 2002] [25 Ranger] Khaml (Wood Elf)
+[Sun Nov 17 09:20:33 2002]  AFK [ANONYMOUS] Twinz  <Carnival of Carnage>
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Tybius 
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Baalzegath 
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Grolen 
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Millas  <The Sakti Caste>
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Mezmorise 
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Delzar  <Stature of the Gods>
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Laden  <Carnival of Carnage>
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Nluine 
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Ommudyen  <Clan of the Mystics>
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Runnz 
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Luigem  <The Knights Eternal>
+[Sun Nov 17 09:20:33 2002] [ANONYMOUS] Saberz 
+[Sun Nov 17 09:20:33 2002] There are 20 players in HighKeep.
+[Sun Nov 17 09:20:49 2002] Baalzegath begins to cast a spell. (Envenomed Bolt)
+[Sun Nov 17 09:21:14 2002] Players in EverQuest:
+[Sun Nov 17 09:21:14 2002] ---------------------------
+
+[Sun Nov 17 09:21:14 2002] [ANON (27 Rogue)] Feynix (Barbarian) ZONE: highkeep (USER PID CTHYLDD) 
+[Sun Nov 17 09:21:14 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:21:22 2002] Luigem shouts, 'WTS Power Levels for wizard Items of Plat'
+[Sun Nov 17 09:21:26 2002] Searching zones for corpse of that name....
+[Sun Nov 17 09:21:27 2002] Corpse: Feynix's corpse1 in zone: highkeep
+[Sun Nov 17 09:21:35 2002] Teleporting to feynix's corpse1.
+[Sun Nov 17 09:21:41 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:21:41 2002] Feynix says, 'cya'
+[Sun Nov 17 09:21:42 2002] Feynix feels a little better.
+[Sun Nov 17 09:21:50 2002] Mezmorise begins to cast a spell. (Suffocating Sphere)
+[Sun Nov 17 09:21:52 2002] Feynix says, 'your pretty bad saberz'
+[Sun Nov 17 09:21:54 2002] Runnz says, 'go Feynix'
+[Sun Nov 17 09:21:56 2002] Feynix says, 'you couldnt kill me naked'
+[Sun Nov 17 09:21:58 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:21:59 2002] Feynix feels a little better.
+[Sun Nov 17 09:21:59 2002] Feynix says, 'im killing this kid'
+[Sun Nov 17 09:22:01 2002] Isabella Cellus says 'Guards! Guards! Help me!!'
+[Sun Nov 17 09:22:02 2002] Feynix says, 'dont worry'
+[Sun Nov 17 09:22:04 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 09:22:05 2002] Feynix says, 'you can stop healing'
+[Sun Nov 17 09:22:05 2002] USER TEXT: How do I turn autojoin off?
+[Sun Nov 17 09:22:05 2002] GM TEXT: 
+[Sun Nov 17 09:22:05 2002] Saberz goes into a berserker frenzy!
+[Sun Nov 17 09:22:05 2002] Players in EverQuest:
+[Sun Nov 17 09:22:05 2002] ---------------------------
+
+[Sun Nov 17 09:22:05 2002] [ANON (38 Ranger)] Arogarn (Wood Elf) ZONE: butcher (USER PID BWAZZPM) 
+[Sun Nov 17 09:22:05 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:22:08 2002] Runnz says, 'k'
+[Sun Nov 17 09:22:09 2002] Millas shouts, 'giving out SoW PST'
+[Sun Nov 17 09:22:13 2002] Runnz's spell fizzles!
+[Sun Nov 17 09:22:15 2002] Runnz says, '=)'
+[Sun Nov 17 09:22:16 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:22:17 2002] Feynix feels a little better.
+[Sun Nov 17 09:22:24 2002] Saberz says, 'lol skill suck'
+[Sun Nov 17 09:22:30 2002] Runnz says, 'ya right'
+[Sun Nov 17 09:22:36 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:22:36 2002] Feynix says, 'cya'
+[Sun Nov 17 09:22:37 2002] Feynix feels a little better.
+[Sun Nov 17 09:22:37 2002] Guard Bach says 'Time to die Luigem.'
+[Sun Nov 17 09:22:37 2002] Guard Bach says 'Your foul deeds have earned my contempt!'
+[Sun Nov 17 09:22:39 2002] Saberz has been slain by Feynix!
+[Sun Nov 17 09:22:43 2002] Runnz says, 'woot'
+[Sun Nov 17 09:22:53 2002] You told Arogarn, 'Hail, Arogarn! Guide Espranza here. You can only entirely turn off autojoining by editing the EQCLIENT.INI file in your eqfolder and removing the line that shows the autojoin channels.'
+[Sun Nov 17 09:22:55 2002] Runnz says, 'got any druid gear?'
+[Sun Nov 17 09:22:57 2002] DELETING THIS PETITION
+[Sun Nov 17 09:22:59 2002] Feynix says, 'hm'
+[Sun Nov 17 09:23:02 2002] Feynix says, 'i dont think s, one sec though'
+[Sun Nov 17 09:23:18 2002] Arogarn tells you, 'I hit /autojoin eol, but I went out of guild.  how do I stop autojoinging it'
+[Sun Nov 17 09:23:19 2002] Runnz says, 'Saberz dont mess i log on senyadet'
+[Sun Nov 17 09:23:25 2002] a noble says 'Guards! Guards! Help me!!'
+[Sun Nov 17 09:23:33 2002] Mezmorise begins to cast a spell. (Suffocating Sphere)
+[Sun Nov 17 09:23:34 2002] You told Feynix, 'well, it doesn't seem like anyone is bind camping you at the moment...'
+[Sun Nov 17 09:23:38 2002] Runnz says, 'he is 15 and will still own'
+[Sun Nov 17 09:23:44 2002] Guard Bach has been slain by Luigem!
+[Sun Nov 17 09:23:44 2002] Guard Bach's corpse says 'My comrades will avenge my death.'
+[Sun Nov 17 09:23:46 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:23:47 2002] Feynix feels a little better.
+[Sun Nov 17 09:23:51 2002] Feynix tells you, 'tracke was, he killed me like 8 times, and then he left "to go raid" and then that kid tried to kill me'
+[Sun Nov 17 09:23:53 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:23:53 2002] Feynix tells you, 'but i killed him'
+[Sun Nov 17 09:23:54 2002] Mezmorise begins to cast a spell. (Suffocating Sphere)
+[Sun Nov 17 09:23:54 2002] Feynix feels a little better.
+[Sun Nov 17 09:23:58 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:23:59 2002] Feynix feels a little better.
+[Sun Nov 17 09:24:01 2002] Feynix tells you, 'and now hes angry he couldnt kill me naked'
+[Sun Nov 17 09:24:03 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:24:04 2002] Feynix feels a little better.
+[Sun Nov 17 09:24:12 2002] Mezmorise begins to cast a spell. (Suffocating Sphere)
+[Sun Nov 17 09:24:20 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:24:21 2002] Feynix feels a little better.
+[Sun Nov 17 09:24:24 2002] You told Arogarn, 'You have to edit it out of the eqclient.ini file.'
+[Sun Nov 17 09:24:29 2002] Arogarn tells you, 'bah'
+[Sun Nov 17 09:24:32 2002] Mezmorise begins to cast a spell. (Suffocating Sphere)
+[Sun Nov 17 09:24:36 2002] Feynix says, 'adios again'
+[Sun Nov 17 09:24:44 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:24:45 2002] Feynix feels a little better.
+[Sun Nov 17 09:24:48 2002] Deablio begins to cast a spell. (Deadeye)
+[Sun Nov 17 09:24:53 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:24:53 2002] Deablio's eyes glow red.
+[Sun Nov 17 09:24:53 2002] Mezmorise begins to cast a spell. (Root)
+[Sun Nov 17 09:24:53 2002] Feynix feels a little better.
+[Sun Nov 17 09:24:55 2002] Mezmorise begins to cast a spell. (Suffocating Sphere)
+[Sun Nov 17 09:24:57 2002] Guard Chopin says 'Time to die Luigem.'
+[Sun Nov 17 09:25:04 2002] Runnz says, 'i tying'
+[Sun Nov 17 09:25:06 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:25:07 2002] Feynix feels a little better.
+[Sun Nov 17 09:25:12 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:25:13 2002] Mezmorise begins to cast a spell. (Suffocating Sphere)
+[Sun Nov 17 09:25:13 2002] Feynix feels a little better.
+[Sun Nov 17 09:25:14 2002] Deablio begins to cast a spell. (Grim Aura)
+[Sun Nov 17 09:25:17 2002] Saberz goes into a berserker frenzy!
+[Sun Nov 17 09:25:17 2002] Deablio's hand is covered with a dull aura.
+[Sun Nov 17 09:25:21 2002] Mezmorise begins to cast a spell. (Suffocating Sphere)
+[Sun Nov 17 09:25:28 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 09:25:29 2002] USER TEXT: Hail, Game Master, I zoned into SF montains and was droped into a vally which does not seemt o be part of zone and it has no exits and is a very small space of movement..Just wondering if ya can summon me out to my bind spot or sumthin or come to where i am which i think ya woant be able to as iam in the middle of no where.Thank you 
+[Sun Nov 17 09:25:29 2002] GM TEXT: 
+[Sun Nov 17 09:25:29 2002] Players in EverQuest:
+[Sun Nov 17 09:25:29 2002] ---------------------------
+
+[Sun Nov 17 09:25:29 2002] [ANON (36 Warrior)] Tatung (Human) ZONE: skyfire (USER PID C4KV3MD) 
+[Sun Nov 17 09:25:29 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:25:37 2002] Lozani says 'The power of the Eldritch Collective shall put an end to your vile life.'
+[Sun Nov 17 09:25:39 2002] Runnz says, 'god Saberz u suk'
+[Sun Nov 17 09:25:40 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Sun Nov 17 09:25:42 2002] Runnz begins to cast a spell. (Minor Healing)
+[Sun Nov 17 09:25:43 2002] Feynix feels a little better.
+[Sun Nov 17 09:25:43 2002] Mezmorise begins to cast a spell. (Suffocating Sphere)
+[Sun Nov 17 09:25:44 2002] Saberz has been slain by Feynix!
+[Sun Nov 17 09:25:46 2002] Gibarn says 'Sorry, Master..calming down.'
+[Sun Nov 17 09:25:46 2002] Teleporting to tatung.
+[Sun Nov 17 09:25:46 2002] Gibarn says 'Sorry, Master..calming down.'
+[Sun Nov 17 09:25:46 2002] Gibarn says 'Sorry, Master..calming down.'
+[Sun Nov 17 09:25:47 2002] LOADING, PLEASE WAIT...
+[Sun Nov 17 09:26:38 2002] You have entered Skyfire Mountains.
+[Sun Nov 17 09:26:39 2002] Feynix tells you, 'thanks for coming anyways'
+[Sun Nov 17 09:26:54 2002] Tatung says, 'Hail, Espranza'
+[Sun Nov 17 09:26:54 2002] You told Feynix, 'no troubles'
+[Sun Nov 17 09:26:56 2002] You say, 'hiya'
+[Sun Nov 17 09:27:14 2002] Zoinksyo says out of character, 'gimem your loc n00b '
+[Sun Nov 17 09:27:15 2002] Tatung tells you, 'there no exit'
+[Sun Nov 17 09:27:25 2002] Your feet leave the ground.
+[Sun Nov 17 09:27:25 2002] Tatung says out of character, 'nm GM is getitng me out bro'
+[Sun Nov 17 09:27:26 2002] You feel the spirit of Norrath enter you.
+[Sun Nov 17 09:27:35 2002] Zoinksyo says out of character, 'GM wont TP you '
+[Sun Nov 17 09:27:53 2002] Zoinksyo says out of character, 'gimme your loc '
+[Sun Nov 17 09:28:09 2002] You told Tatung, 'odd they would make a place you could not get out of'
+[Sun Nov 17 09:28:10 2002] Tatung says out of character, 'Loc is -218,09, 4716,18,-165.23'
+[Sun Nov 17 09:28:18 2002] Tatung tells you, 'lol strange heh'
+[Sun Nov 17 09:28:36 2002] Tatung tells you, 'how do i get out?'
+[Sun Nov 17 09:28:41 2002] Tatung tells you, 'do u port?'
+[Sun Nov 17 09:28:54 2002] You told Tatung, 'I can'
+[Sun Nov 17 09:28:58 2002] Player is beneath the world in Skyfire Mountains at -32000.000, -32000.000, -32765.355, moving to safe point.
+[Sun Nov 17 09:29:04 2002] Summoning tatung.
+[Sun Nov 17 09:29:07 2002] Tatung tells you, 'so where do i get sent'
+[Sun Nov 17 09:29:14 2002] Tatung tells you, 'oh thank you'
+[Sun Nov 17 09:29:22 2002] Tatung bows before Espranza.
+[Sun Nov 17 09:29:29 2002] Tatung tells you, 'told ya i see too much of ya =)'
+[Sun Nov 17 09:29:40 2002] You told Tatung, 'heh'
+[Sun Nov 17 09:29:43 2002] You bow before Tatung.
+[Sun Nov 17 09:29:45 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Sun Nov 17 09:29:48 2002] Tatung tells you, 'iam just made for problems'
+[Sun Nov 17 09:29:51 2002] LOADING, PLEASE WAIT...
+[Sun Nov 17 09:30:32 2002] You have entered Sunset Home.
+[Sun Nov 17 09:30:33 2002] Tatung tells you, 'lol thnx bye'
+[Sun Nov 17 09:32:20 2002] You GMSAY, '<note> Tatung C4KV3MD 36 human warrior was stuck in a place in Skyfire from which there was no exit (at approc n218 p4716 n165), so I summoned him to the safe point.'
+[Sun Nov 17 09:32:26 2002] DELETING THIS PETITION
+[Sun Nov 17 09:32:29 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 09:32:29 2002] USER TEXT: i need help
+[Sun Nov 17 09:32:29 2002] GM TEXT: 
+[Sun Nov 17 09:32:29 2002] Players in EverQuest:
+[Sun Nov 17 09:32:29 2002] ---------------------------
+
+[Sun Nov 17 09:32:29 2002] [ANON (51 Cavalier)] Vhanna (Human) ZONE: crystal (USER PID DRTENE4) 
+[Sun Nov 17 09:32:29 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:32:40 2002] You told Vhanna, 'Hail, Vhanna! Guide Espranza here. How may I help you?'
+[Sun Nov 17 09:33:30 2002] Vhanna tells you, 'i have a ranger character on another account that i hadnt played for a lil over 6 months..i reopened the account and all my rangers gear is gone that was on his person'
+[Sun Nov 17 09:34:37 2002] You told Vhanna, 'six months is a very long time... the character's info that is kept on the server goes back only two weeks...'
+[Sun Nov 17 09:35:35 2002] Vhanna tells you, 'is there any way i can get my gear back....hes 42 and i have gotten a few things from this account but he had alot of stuff that will take forever to replace'
+[Sun Nov 17 09:37:32 2002] You told Vhanna, 'well, I can escalate your petition to the GM, but I can't guarantee you'll get your gear back...'
+[Sun Nov 17 09:37:45 2002] You told Vhanna, 'since there aren't any records on how it came to be lost...'
+[Sun Nov 17 09:38:05 2002] Vhanna tells you, 'please do...well you havent even asked me the account name'
+[Sun Nov 17 09:38:58 2002] Vhanna tells you, 'maybe they can give me a start me off pack relative to a 42 ranger...'
+[Sun Nov 17 09:39:06 2002] You told Vhanna, 'they could do that'
+[Sun Nov 17 09:39:27 2002] Vhanna tells you, 'what do i do to get that'
+[Sun Nov 17 09:40:08 2002] You feel as if you are about to fall.
+[Sun Nov 17 09:40:15 2002] You feel as if you are about to fall.
+[Sun Nov 17 09:40:17 2002] You can no longer levitate.
+[Sun Nov 17 09:41:11 2002] You told Vhanna, 'please log in under that account with ay char and send me a tell'
+[Sun Nov 17 09:41:20 2002] Vhanna tells you, 'ok'
+[Sun Nov 17 09:48:56 2002] Espranza saved.
+[Sun Nov 17 09:50:48 2002] DELETING THIS PETITION
+[Sun Nov 17 09:50:50 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 09:50:51 2002] USER TEXT: the nexus scion punched me for no reason, i scrolled up and i never hit her, she just punched me! she might be bugged, the one in GD, was wondering if i could get rezzed to cause i lost my lvl thx to her punch for 1333
+[Sun Nov 17 09:50:51 2002] GM TEXT: 
+[Sun Nov 17 09:50:51 2002] Players in EverQuest:
+[Sun Nov 17 09:50:51 2002] ---------------------------
+
+[Sun Nov 17 09:50:51 2002] [ANON (54 Channeler)] Sunfire (Gnome) ZONE: nexus (USER PID C4GQKES) 
+[Sun Nov 17 09:50:51 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:50:59 2002] Dioses tells you, ''
+[Sun Nov 17 09:51:18 2002] Dioses tells you, 'is this the person vhanna was talking to?'
+[Sun Nov 17 09:54:26 2002] You told Dioses, 'one moment'
+[Sun Nov 17 09:56:20 2002] Dioses tells you, 'take your time'
+[Sun Nov 17 09:57:23 2002] UNDOING CHECK OUT
+[Sun Nov 17 09:57:49 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 09:57:50 2002] USER TEXT: looking for esperanza or some sort of spellinglike this i was just talking to her...this is vhanna's other account
+[Sun Nov 17 09:57:50 2002] GM TEXT: 
+[Sun Nov 17 09:57:50 2002] Players in EverQuest:
+[Sun Nov 17 09:57:50 2002] ---------------------------
+
+[Sun Nov 17 09:57:50 2002] [ANON (43 Ranger)] Dioses (Human) ZONE: greatdivide (USER PID DNKJTHF) 
+[Sun Nov 17 09:57:50 2002] There is 1 player in EverQuest.
+[Sun Nov 17 09:57:59 2002] You are no longer anonymous.
+[Sun Nov 17 09:58:10 2002] You told Dioses, 'oh heck sorry, I was anon and didn't realize'
+[Sun Nov 17 09:58:41 2002] Dioses tells you, 'its ok...you wont believe how many different ways i tried to spell your name..hehe'
+[Sun Nov 17 09:58:55 2002] GM Text added:  Espranza: hasn't played this character for six months, logged in and noticed all gear was missing, would like gear back or a leg-up kit.
+[Sun Nov 17 09:59:01 2002] STATUS UPGRADED TO URGENT
+[Sun Nov 17 09:59:02 2002] STATUS UPGRADED TO EMERGENCY
+[Sun Nov 17 09:59:02 2002] CHECKING IN
+[Sun Nov 17 09:59:16 2002] You told Dioses, 'heh... the correct spelling is Esperanza, but it was in use..'
+[Sun Nov 17 09:59:37 2002] Dioses tells you, 'well thats how i spelled it....you spanish'
+[Sun Nov 17 10:00:11 2002] You told Dioses, 'no ) but I live in California, and I took it from a mission run by our church.'
+[Sun Nov 17 10:00:21 2002] You told Dioses, 'the luz y esperanza mission.'
+[Sun Nov 17 10:00:30 2002] Players in EverQuest:
+[Sun Nov 17 10:00:30 2002] ---------------------------
+
+[Sun Nov 17 10:00:30 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: cshome (USER PID FUGQSJL) 
+[Sun Nov 17 10:00:30 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:00:46 2002] Dioses tells you, 'ahh..i ask because my mom is from spain'
+[Sun Nov 17 10:01:15 2002] You GMSAY, '<note gm> Dioses DNKJTHF 43 ranger has not logged in for six months, did so to find all gear gone, would like a leg-up kit if her gear cannot be restored.'
+[Sun Nov 17 10:01:21 2002] Dioses tells you, 'and any chance i get to speak spanish with someone i try to....i now live in ohio away from my parents and dont get to practice'
+[Sun Nov 17 10:01:26 2002] You told Dioses, 'I've sent your petition to a GM to take care of'
+[Sun Nov 17 10:01:42 2002] Dioses tells you, 'ok...what do i do now...'
+[Sun Nov 17 10:01:46 2002] You told Dioses, 'wait...'
+[Sun Nov 17 10:02:09 2002] Dioses tells you, 'can i log back onto my other character...i waas in a group in crystal caverns'
+[Sun Nov 17 10:02:30 2002] You told Dioses, 'sure'
+[Sun Nov 17 10:02:36 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 10:02:36 2002] USER TEXT: the nexus scion punched me for no reason, i scrolled up and i never hit her, she just punched me! she might be bugged, the one in GD, was wondering if i could get rezzed to cause i lost my lvl thx to her punch for 1333
+[Sun Nov 17 10:02:36 2002] GM TEXT: 
+[Sun Nov 17 10:02:36 2002] Players in EverQuest:
+[Sun Nov 17 10:02:36 2002] ---------------------------
+
+[Sun Nov 17 10:02:36 2002] [ANON (54 Channeler)] Sunfire (Gnome) ZONE: thurgadina (USER PID C4GQKES) 
+[Sun Nov 17 10:02:36 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:03:09 2002] Dioses tells you, 'so they will talk to me through vhanna?...also one other question i would like to transfer this character to my salsabrava account "vhanna"'
+[Sun Nov 17 10:03:12 2002] You told Sunfire, 'Hail, Sunfire! Guide Espranza here. Were you fighting anything else at the spires?'
+[Sun Nov 17 10:03:40 2002] You told Dioses, 'you can request character transfer via a form on the www.everquestlive.com web site'
+[Sun Nov 17 10:03:42 2002] Sunfire tells you, 'yes i was but i scrolled up and am certain i didnt hit her, but its ok i found a rez'
+[Sun Nov 17 10:03:56 2002] You told Sunfire, 'did you use any AE or rain spells at all'
+[Sun Nov 17 10:04:22 2002] Sunfire tells you, 'yes i was quading but only by the spires not by the scion'
+[Sun Nov 17 10:04:24 2002] The spirit leaves you.
+[Sun Nov 17 10:04:25 2002] Dioses tells you, 'ok....thanks alot for your time...wish me luck with regard to the gear '
+[Sun Nov 17 10:04:45 2002] Dioses tells you, 'and good luck to you'
+[Sun Nov 17 10:04:46 2002] Sunfire tells you, 'but i scrolled up and all my casts hit only the three wolves i was quading'
+[Sun Nov 17 10:05:04 2002] Dioses is not online at this time.
+[Sun Nov 17 10:05:08 2002] Sunfire tells you, 'i walked up and sat by the scion and boom she punched me'
+[Sun Nov 17 10:05:39 2002] You told Sunfire '[queued], then you did hit her. She is rooted so can't come after you... but she was still mad at you and took advantage of you when you got closer.'
+[Sun Nov 17 10:05:42 2002] DELETING THIS PETITION
+[Sun Nov 17 10:05:45 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 10:05:45 2002] USER TEXT: SURNAME CHANGE PLEASE
+[Sun Nov 17 10:05:45 2002] GM TEXT: 
+[Sun Nov 17 10:05:46 2002] Players in EverQuest:
+[Sun Nov 17 10:05:46 2002] ---------------------------
+
+[Sun Nov 17 10:05:46 2002] [ANON (22 Rogue)] Dragonstabber (Halfling) ZONE: gfaydark (USER PID C4LGZLP) 
+[Sun Nov 17 10:05:46 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:06:19 2002] You told Dragonstabber, 'Hail, Dragonstabber! Guide Espranza here. There is nobody on right now who can change your surname for you, but if you tell me what name you would like, I can bring it to the attention of the next guide who can.'
+[Sun Nov 17 10:06:38 2002] Dragonstabber tells you, 'Doh guides cant even change names now?'
+[Sun Nov 17 10:07:15 2002] You told Dragonstabber, 'never could, just seniors and GMs.'
+[Sun Nov 17 10:08:19 2002] Dragonstabber tells you, 'Hmm was  hoping to get like darkshadow'
+[Sun Nov 17 10:09:00 2002] GM Text added:  Espranza: Would like the last name Darkshadow
+[Sun Nov 17 10:09:43 2002] You told Dragonstabber, 'I will pass that along, then.'
+[Sun Nov 17 10:09:49 2002] Dragonstabber tells you, 'Ok thnx'
+[Sun Nov 17 10:12:11 2002] STATUS UPGRADED TO URGENT
+[Sun Nov 17 10:12:12 2002] CHECKING IN
+[Sun Nov 17 10:12:52 2002] It begins to rain.
+[Sun Nov 17 10:13:46 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 10:13:47 2002] USER TEXT: Luvmashine he is my race and is dispelling are mobs and almost got me exp killed i think thats what he is trying to do 
+[Sun Nov 17 10:13:47 2002] GM TEXT: 
+[Sun Nov 17 10:13:47 2002] Players in EverQuest:
+[Sun Nov 17 10:13:47 2002] ---------------------------
+
+[Sun Nov 17 10:13:47 2002] [ANON (49 Necromancer)] Morticious (Dark Elf) ZONE: neriaka (USER PID FV8RPPS) 
+[Sun Nov 17 10:13:47 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:13:53 2002] You feel the spirit of Norrath enter you.
+[Sun Nov 17 10:13:54 2002] You are invulnerable.
+[Sun Nov 17 10:13:59 2002] Players in EverQuest:
+[Sun Nov 17 10:13:59 2002] ---------------------------
+
+[Sun Nov 17 10:13:59 2002] [ANON (52 Channeler)] Luvmashine (Dark Elf) ZONE: neriaka (USER PID DS11LBY) 
+[Sun Nov 17 10:13:59 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:14:21 2002] Choppinater tells you, 'hey there i have a question '
+[Sun Nov 17 10:14:45 2002] You told Choppinater, 'yes?'
+[Sun Nov 17 10:14:46 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Sun Nov 17 10:14:50 2002] LOADING, PLEASE WAIT...
+[Sun Nov 17 10:15:16 2002] You have entered Neriak - Foreign Quarter.
+[Sun Nov 17 10:15:16 2002] Choppinater tells you, 'is there such thing as shissar legs and arms '
+[Sun Nov 17 10:15:19 2002] Espranza is now Invisible.
+[Sun Nov 17 10:15:19 2002] You are now anonymous.
+[Sun Nov 17 10:15:21 2002] Luvmashine begins to cast a spell. (Evacuate: Nek)
+[Sun Nov 17 10:15:22 2002] Your invulnerability fades.
+[Sun Nov 17 10:15:26 2002] You told Choppinater, 'I don't know'
+[Sun Nov 17 10:15:30 2002] Choppinater tells you, 'k '
+[Sun Nov 17 10:15:30 2002] Luvmashine creates a shimmering portal.
+[Sun Nov 17 10:16:11 2002] You told Morticious, 'Well, Luv saw me zone in and immediately ported out'
+[Sun Nov 17 10:16:25 2002] Morticious tells you, 'aye he is a real jerk'
+[Sun Nov 17 10:16:34 2002] You told Morticious, 'oh, this is Guide Espranza by the way....'
+[Sun Nov 17 10:16:36 2002] Morticious tells you, 'this isnt the first time he has pulled this stunt '
+[Sun Nov 17 10:16:44 2002] Morticious tells you, 'hehe hiya ;)'
+[Sun Nov 17 10:17:00 2002] Morticious tells you, 'he got a guild mate of mine expkilled by pulling the same stunts'
+[Sun Nov 17 10:17:08 2002] You told Morticious, 'well... I'll try to be sneakier next time'
+[Sun Nov 17 10:17:12 2002] Aanelar died.
+[Sun Nov 17 10:17:13 2002] You told Morticious, 'let me know if it happens again'
+[Sun Nov 17 10:17:22 2002] Morticious tells you, 'hehe kk thanks alot ;)'
+[Sun Nov 17 10:17:52 2002] You told Morticious, 'good luck'
+[Sun Nov 17 10:17:53 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Sun Nov 17 10:17:59 2002] DELETING THIS PETITION
+[Sun Nov 17 10:18:03 2002] Morticious tells you, 'thanks you and have good day sir ;)'
+[Sun Nov 17 10:19:54 2002] LOADING, PLEASE WAIT...
+[Sun Nov 17 10:20:33 2002] You have entered Sunset Home.
+[Sun Nov 17 10:20:48 2002] It begins to rain.
+[Sun Nov 17 10:22:34 2002] Players in EverQuest:
+[Sun Nov 17 10:22:34 2002] ---------------------------
+
+[Sun Nov 17 10:22:34 2002] * Guide *[ANON (55 Blackguard)] Espranza (Halfling) ZONE: cshome (USER PID FUGQSJL) 
+[Sun Nov 17 10:22:34 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:22:38 2002] You are no longer anonymous.
+[Sun Nov 17 10:26:40 2002] Players in EverQuest:
+[Sun Nov 17 10:26:40 2002] ---------------------------
+
+[Sun Nov 17 10:26:40 2002] [ANON (52 Channeler)] Luvmashine (Dark Elf) ZONE: nektulos (USER PID DS11LBY) 
+[Sun Nov 17 10:26:40 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:28:59 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 10:28:59 2002] USER TEXT: Can someone please fix Tarbul Eathstrider because I am out hunting him for a mag's epic and he is eather very bugged on track or he is somewhere becides here
+[Sun Nov 17 10:28:59 2002] GM TEXT: 
+[Sun Nov 17 10:28:59 2002] Players in EverQuest:
+[Sun Nov 17 10:28:59 2002] ---------------------------
+
+[Sun Nov 17 10:28:59 2002] [ANON (56 Preserver)] Trreen (Wood Elf) ZONE: eastkarana (USER PID BWMK2XC) 
+[Sun Nov 17 10:28:59 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:29:08 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Sun Nov 17 10:29:12 2002] LOADING, PLEASE WAIT...
+[Sun Nov 17 10:30:28 2002] You have entered Eastern Plains of Karana.
+[Sun Nov 17 10:30:33 2002] It begins to rain.
+[Sun Nov 17 10:30:42 2002] Searching for tarbul_earthstrider00.
+[Sun Nov 17 10:30:43 2002] Player is in zone eastkarana at x = -1329 y = -1426 z = -238.
+[Sun Nov 17 10:30:46 2002] Teleporting to Tarbul_Earthstrider00 (-1329.00, -1425.00, -238.80).
+[Sun Nov 17 10:30:46 2002] Player is beneath the world in East Karana at -1328.000, -1425.000, -258.530, moving to safe point.
+[Sun Nov 17 10:30:49 2002] Tarbul Earthstrider scowls at you, ready to attack -- it appears to be quite formidable.
+[Sun Nov 17 10:31:20 2002] You told Trreen, 'Hail, Trreen! Guide Espranza here. Yes, Tarbul is bugged. Let me see if I can get a GM to reset him...'
+[Sun Nov 17 10:31:25 2002] Trreen tells you, 'ok'
+[Sun Nov 17 10:32:08 2002] Bearran begins to cast a spell. (Spirit of Wolf)
+[Sun Nov 17 10:32:30 2002] Bearran begins to cast a spell. (Bramblecoat)
+[Sun Nov 17 10:32:46 2002] Bearran begins to cast a spell. (Regeneration)
+[Sun Nov 17 10:33:02 2002] Bearran begins to cast a spell. (Shield of Brambles)
+[Sun Nov 17 10:33:18 2002] Winglim snaps to attention and salutes Espranza crisply.
+[Sun Nov 17 10:33:19 2002] Tkfourtwoone hugs Espranza.
+[Sun Nov 17 10:37:24 2002] Players in EverQuest:
+[Sun Nov 17 10:37:24 2002] ---------------------------
+
+[Sun Nov 17 10:37:24 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: eastkarana (USER PID FUGQSJL) 
+[Sun Nov 17 10:37:24 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:38:07 2002] DELETING THIS PETITION
+[Sun Nov 17 10:38:09 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 10:38:10 2002] USER TEXT: My friend <Trreen> and I are unable to track Tarbul Earthstrider. He is either bugged or under the world. Any help would be greatly appreciated
+[Sun Nov 17 10:38:10 2002] GM TEXT: 
+[Sun Nov 17 10:38:10 2002] Players in EverQuest:
+[Sun Nov 17 10:38:10 2002] ---------------------------
+
+[Sun Nov 17 10:38:10 2002] [ANON (54 Elementalist)] Zisditik (Gnome) ZONE: eastkarana (USER PID HP5N6YG) 
+[Sun Nov 17 10:38:10 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:38:24 2002] Trreen tells you, 'You find out where Tarbul Eathstrider is hiding?'
+[Sun Nov 17 10:38:34 2002] You told Zisditik, 'Hail, Zisditik! Guide Espranza here. Tarbul is beneath the world, trying to get a GM to come help him out.'
+[Sun Nov 17 10:38:38 2002] DELETING THIS PETITION
+[Sun Nov 17 10:38:44 2002] Zisditik tells you, 'Ok, thanks for the help :-)'
+[Sun Nov 17 10:39:34 2002] Bearran begins to cast a spell. (Ensnaring Roots)
+[Sun Nov 17 10:39:40 2002] Bearran begins to cast a spell. (Ensnare)
+[Sun Nov 17 10:39:47 2002] Bearran begins to cast a spell. (Creeping Crud)
+[Sun Nov 17 10:39:52 2002] Bearran begins to cast a spell. (Immolate)
+[Sun Nov 17 10:39:58 2002] Players in EverQuest:
+[Sun Nov 17 10:39:58 2002] ---------------------------
+
+[Sun Nov 17 10:39:58 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: eastkarana (USER PID FUGQSJL) 
+[Sun Nov 17 10:39:58 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:40:56 2002] Bearran begins to cast a spell. (Ensnaring Roots)
+[Sun Nov 17 10:41:03 2002] Bearran begins to cast a spell. (Creeping Crud)
+[Sun Nov 17 10:41:09 2002] Bearran begins to cast a spell. (Immolate)
+[Sun Nov 17 10:41:52 2002] Players on EverQuest:
+[Sun Nov 17 10:41:52 2002] ---------------------------
+[Sun Nov 17 10:41:52 2002] [ANONYMOUS] Kaplunk  <Lex Invictus>
+[Sun Nov 17 10:41:52 2002] [ANONYMOUS] Jarani  <Erud's Chosen>
+[Sun Nov 17 10:41:52 2002] [ANONYMOUS] Bearran 
+[Sun Nov 17 10:41:52 2002] [ANONYMOUS] Kelsinsx  <Wolves of Bloodpack>
+[Sun Nov 17 10:41:52 2002] [ANONYMOUS] Trreen  <Lex Invictus>
+[Sun Nov 17 10:41:52 2002] [ANONYMOUS] Zisditik  <Lex Invictus>
+[Sun Nov 17 10:41:52 2002] * GM * [55 Blackguard] Espranza (Halfling) <House of Zek>
+[Sun Nov 17 10:41:52 2002] There are 7 players in East Karana.
+[Sun Nov 17 10:42:00 2002] Players in EverQuest:
+[Sun Nov 17 10:42:00 2002] ---------------------------
+
+[Sun Nov 17 10:42:00 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: eastkarana (USER PID FUGQSJL) 
+[Sun Nov 17 10:42:00 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:42:17 2002] Bearran begins to cast a spell. (Ensnaring Roots)
+[Sun Nov 17 10:42:23 2002] Bearran begins to cast a spell. (Lightning Strike)
+[Sun Nov 17 10:42:34 2002] Bearran begins to cast a spell. (Immolate)
+[Sun Nov 17 10:45:17 2002] Bearran begins to cast a spell. (Skin like Steel)
+[Sun Nov 17 10:45:35 2002] Bearran begins to cast a spell. (Regeneration)
+[Sun Nov 17 10:45:58 2002] Bearran begins to cast a spell. (Shield of Brambles)
+[Sun Nov 17 10:46:26 2002] You told Trreen, 'okay, been given permission to kill him. hopefully he will soon respawn'
+[Sun Nov 17 10:46:28 2002] Killing Tarbul_Earthstrider00.
+[Sun Nov 17 10:46:29 2002] Vhanna tells you, 'any word yet'
+[Sun Nov 17 10:46:35 2002] Trreen tells you, 'ok, lets hope so'
+[Sun Nov 17 10:46:37 2002] You told Vhanna, 'none yet'
+[Sun Nov 17 10:47:06 2002] You GMSAY, '<note> Killed Tarbul Earthstrider in E, he was beneath the world. Permission given by GM Keridon in Chat.'
+[Sun Nov 17 10:47:12 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 10:47:13 2002] USER TEXT: hello, a fellow guildmate seems to have fallen asleep at his keys.  Any chance we could have him kicked before he gets killed?
+[Sun Nov 17 10:47:13 2002] GM TEXT: 
+[Sun Nov 17 10:47:13 2002] Players in EverQuest:
+[Sun Nov 17 10:47:13 2002] ---------------------------
+
+[Sun Nov 17 10:47:13 2002] [ANON (59 Knight)] Qnyil (High Elf) ZONE: poinnovation (USER PID FP99Q5K) 
+[Sun Nov 17 10:47:13 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:47:32 2002] Bearran begins to cast a spell. (Charm Animals)
+[Sun Nov 17 10:48:42 2002] Kaplunk has emerged victorious in a duel to the death!
+[Sun Nov 17 10:48:58 2002] Espranza saved.
+[Sun Nov 17 10:50:01 2002] You told Qnyil, 'Hail, Qnyil! Guide Espranza here. Alas, there is nobody on right now who can kick people off. Is it possible to port him out?'
+[Sun Nov 17 10:50:19 2002] Qnyil tells you, 'unfortunately no :('
+[Sun Nov 17 10:50:26 2002] Qnyil tells you, 'we'll just hope he wakes up soon :)'
+[Sun Nov 17 10:50:32 2002] You told Qnyil, 'I hope so...!'
+[Sun Nov 17 10:50:34 2002] DELETING THIS PETITION
+[Sun Nov 17 10:50:37 2002] Qnyil tells you, 'thanks for the help :)'
+[Sun Nov 17 10:50:41 2002] You told Qnyil, 'anytime'
+[Sun Nov 17 10:52:39 2002] The spirit leaves you.
+[Sun Nov 17 10:54:41 2002] Players in EverQuest:
+[Sun Nov 17 10:54:41 2002] ---------------------------
+
+[Sun Nov 17 10:54:41 2002] * Guide *[55 Blackguard] Espranza (Halfling) <House of Zek> ZONE: eastkarana (USER PID FUGQSJL) 
+[Sun Nov 17 10:54:41 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:54:42 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Sun Nov 17 10:54:47 2002] LOADING, PLEASE WAIT...
+[Sun Nov 17 10:55:07 2002] You have entered Sunset Home.
+[Sun Nov 17 10:56:25 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 10:56:26 2002] USER TEXT: can u help my friends stuck in water
+[Sun Nov 17 10:56:26 2002] GM TEXT: 
+[Sun Nov 17 10:56:26 2002] Players in EverQuest:
+[Sun Nov 17 10:56:26 2002] ---------------------------
+
+[Sun Nov 17 10:56:26 2002] There are no players in EverQuest that match those who filters.
+[Sun Nov 17 10:56:35 2002] It is 1 AM on Thursday, the 19th day of February, of the year 3183.
+[Sun Nov 17 10:56:35 2002] Earth Time: Sun Nov 17 10:56:35 2002
+[Sun Nov 17 10:56:38 2002] You say, 'unavail'
+[Sun Nov 17 10:56:45 2002] GM Text added:  Espranza: unavail 10:56
+[Sun Nov 17 10:56:48 2002] CHECKING IN
+[Sun Nov 17 10:56:51 2002] RETRIEVING PETITION...PLEASE WAIT
+[Sun Nov 17 10:56:51 2002] USER TEXT: people KSing me
+[Sun Nov 17 10:56:51 2002] GM TEXT: 
+[Sun Nov 17 10:56:51 2002] Players in EverQuest:
+[Sun Nov 17 10:56:51 2002] ---------------------------
+
+[Sun Nov 17 10:56:51 2002] [ANON (22 Ranger)] Renekz (Wood Elf) ZONE: paludal (USER PID E5PT3CM) 
+[Sun Nov 17 10:56:51 2002] There is 1 player in EverQuest.
+[Sun Nov 17 10:58:03 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Sun Nov 17 10:58:08 2002] LOADING, PLEASE WAIT...
+[Sun Nov 17 10:58:52 2002] You have entered The Paludal Caverns.
+[Sun Nov 17 10:59:02 2002] Espranza is now Invisible.
+[Sun Nov 17 10:59:02 2002] You are now anonymous.
+[Sun Nov 17 10:59:50 2002] Teleporting to renekz.
+[Sun Nov 17 11:00:56 2002] Renekz's spell fizzles!
+[Sun Nov 17 11:00:57 2002] Renekz's spell fizzles!
+[Sun Nov 17 11:00:58 2002] Renekz begins to cast a spell. (Skin like Rock)
+[Sun Nov 17 11:01:03 2002] Renekz's skin turns hard as stone.
+[Sun Nov 17 11:01:06 2002] Renekz begins to cast a spell. (Feet like Cat)
+[Sun Nov 17 11:01:11 2002] Renekz looks more agile.
+[Sun Nov 17 11:01:14 2002] Renekz's spell fizzles!
+[Sun Nov 17 11:01:14 2002] Renekz begins to cast a spell. (Thistlecoat)
+[Sun Nov 17 11:01:16 2002] Renekz's skin sprouts thistles.
+[Sun Nov 17 11:05:42 2002] Renekz says, 'y do u help them'
+[Sun Nov 17 11:05:48 2002] Snaredyomoma says, 'who?'
+[Sun Nov 17 11:05:53 2002] Renekz says, 'when are guilds have a treaty'
+[Sun Nov 17 11:05:58 2002] Renekz was injured by falling.
+[Sun Nov 17 11:06:01 2002] Snaredyomoma says, 'HUH!?'
+[Sun Nov 17 11:06:01 2002] Renekz was injured by falling.
+[Sun Nov 17 11:06:06 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:06:08 2002] Renekz feels better.
+[Sun Nov 17 11:06:13 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:06:15 2002] Renekz feels better.
+[Sun Nov 17 11:06:18 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:06:21 2002] Renekz feels better.
+[Sun Nov 17 11:06:25 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:06:26 2002] Renekz feels better.
+[Sun Nov 17 11:06:30 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:06:32 2002] Renekz feels better.
+[Sun Nov 17 11:06:36 2002] Renekz's spell fizzles!
+[Sun Nov 17 11:06:37 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:06:39 2002] Renekz feels better.
+[Sun Nov 17 11:06:43 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:06:45 2002] Renekz feels better.
+[Sun Nov 17 11:06:46 2002] Snaredyomoma begins to cast a spell. (Minor Healing)
+[Sun Nov 17 11:06:50 2002] Snaredyomoma begins to cast a spell. (Minor Healing)
+[Sun Nov 17 11:06:50 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:06:52 2002] Snaredyomoma begins to cast a spell. (Minor Healing)
+[Sun Nov 17 11:06:52 2002] Renekz feels better.
+[Sun Nov 17 11:06:55 2002] Snaredyomoma begins to cast a spell. (Minor Healing)
+[Sun Nov 17 11:06:56 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:06:57 2002] Snaredyomoma begins to cast a spell. (Minor Healing)
+[Sun Nov 17 11:06:58 2002] Renekz feels better.
+[Sun Nov 17 11:07:00 2002] Snaredyomoma begins to cast a spell. (Minor Healing)
+[Sun Nov 17 11:07:02 2002] Snaredyomoma begins to cast a spell. (Minor Healing)
+[Sun Nov 17 11:07:04 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:07:06 2002] Snaredyomoma begins to cast a spell. (Minor Healing)
+[Sun Nov 17 11:07:06 2002] Renekz feels better.
+[Sun Nov 17 11:07:10 2002] Snaredyomoma begins to cast a spell. (Minor Healing)
+[Sun Nov 17 11:07:19 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:07:21 2002] Renekz feels better.
+[Sun Nov 17 11:07:23 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:07:25 2002] Renekz feels better.
+[Sun Nov 17 11:07:29 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:07:31 2002] Renekz feels better.
+[Sun Nov 17 11:07:37 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:07:39 2002] Renekz feels better.
+[Sun Nov 17 11:07:48 2002] Renekz begins to cast a spell. (Light Healing)
+[Sun Nov 17 11:07:50 2002] Renekz feels better.
+[Sun Nov 17 11:08:17 2002] You GMSAY, 'Don't look behind you, I'm already zoning'
+[Sun Nov 17 11:08:21 2002] LOADING, PLEASE WAIT...
+[Sun Nov 17 11:09:09 2002] You have entered Sunset Home.
+[Sun Nov 17 11:09:22 2002] It will take you about 30 seconds to prepare your camp.
+[Sun Nov 17 11:09:27 2002] It will take about 25 more seconds to prepare your camp.
+[Sun Nov 17 11:09:32 2002] It will take about 20 more seconds to prepare your camp.
+[Sun Nov 17 11:09:37 2002] It will take about 15 more seconds to prepare your camp.
+[Sun Nov 17 11:09:42 2002] It will take about 10 more seconds to prepare your camp.
+[Sun Nov 17 11:09:47 2002] It will take about 5 more seconds to prepare your camp.
+[Sun Nov 17 11:09:54 2002] You abandon your preparations to camp.
+[Sun Nov 17 11:10:24 2002] 00000:Fatal Error Occurred in winMain/Eventthread

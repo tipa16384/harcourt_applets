@@ -1,0 +1,1 @@
+package COM.archi.dl.rtf;public class AssertionException extends RTFParseException{}

@@ -1,0 +1,1296 @@
+[Thu Sep 27 21:24:24 2001] Welcome to EverQuest!
+[Thu Sep 27 21:24:24 2001] You have entered Sunset Home.
+[Thu Sep 27 21:24:32 2001] You GMSAY, 'here, finally! hello!'
+[Thu Sep 27 21:24:35 2001] Players in EverQuest:
+[Thu Sep 27 21:24:35 2001] ---------------------------
+[Thu Sep 27 21:24:35 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Sep 27 21:24:35 2001] * Guide *[50 Rogue] Rimedear (Halfling) <Keepers of Dreams> ZONE: eastkarana (USER PID HUGBLZN)
+[Thu Sep 27 21:24:35 2001] * Apprentice Guide *[20 Necromancer] Jerazol (Human) ZONE: qeynos2 (USER PID FTJLMT9)
+[Thu Sep 27 21:24:35 2001] There are 3 players in EverQuest.
+[Thu Sep 27 21:24:43 2001] Lirus GMSAYS, 'hey there espranza'
+[Thu Sep 27 21:24:44 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 27 21:24:47 2001] USER TEXT: just to let you know.. the patch program is screwed up.  every time you log or go ld you have to download the entire thing again
+[Thu Sep 27 21:24:47 2001] Players in EverQuest:
+[Thu Sep 27 21:24:47 2001] ---------------------------
+[Thu Sep 27 21:24:47 2001] [58 Luminary] Conaan (Barbarian) <Reviction> ZONE: freportw (USER PID HY0G370)
+[Thu Sep 27 21:24:47 2001] There is 1 player in EverQuest.
+[Thu Sep 27 21:24:57 2001] Jerazol GMSAYS, 'ssakura out'
+[Thu Sep 27 21:25:04 2001] Jerazol GMSAYS, 'pulling rafon'
+[Thu Sep 27 21:25:25 2001] You GMSAY, 'Lirus, wanna nerf Conaan the Barbarian's last name, or let him keep it (he's 58)'
+[Thu Sep 27 21:25:39 2001] You GMSAY, 'er, first name...'
+[Thu Sep 27 21:25:57 2001] Rimedear GMSAYS, 'Vaelana and Qelan have pets in now'
+[Thu Sep 27 21:26:43 2001] Lirus GMSAYS, 'mersi what's your email addy?'
+[Thu Sep 27 21:26:49 2001] Mersi GMSAYS, 'mersi2001@yahoo.com'
+[Thu Sep 27 21:26:54 2001] You told Conaan, 'Hail, Conaan! Guide Espranza here. I haven't seen that with the patch program; I'll ask around, though I remember some hacker programs that try to get passwords give this behavior when you're infected'
+[Thu Sep 27 21:26:55 2001] Players in EverQuest:
+[Thu Sep 27 21:26:55 2001] ---------------------------
+[Thu Sep 27 21:26:55 2001] * Guide *[ANON (50 Rogue)] Rimedear (Halfling) ZONE: oot (USER PID HUGBLZN)
+[Thu Sep 27 21:26:55 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Sep 27 21:26:55 2001] * Apprentice Guide *[20 Necromancer] Jerazol (Human) ZONE: qeynos2 (USER PID FTJLMT9)
+[Thu Sep 27 21:26:55 2001] There are 3 players in EverQuest.
+[Thu Sep 27 21:26:59 2001] You GMSAY, 'hi Mersi!'
+[Thu Sep 27 21:27:11 2001] Mersi GMSAYS, 'they say they were here first... and they told me to shove my warning where the sun don't shine'
+[Thu Sep 27 21:27:24 2001] Conaan tells you, 'I have had to down load the pach three times to day so far'
+[Thu Sep 27 21:27:29 2001] Conaan tells you, 'same patch'
+[Thu Sep 27 21:27:33 2001] Rimedear GMSAYS, 'Whoops!!'
+[Thu Sep 27 21:27:35 2001] You GMSAY, 'has anyone had to keep rerunning the patch program every time they log in?'
+[Thu Sep 27 21:27:50 2001] Jerazol GMSAYS, 'got a complaint about someone spamming and being rude, escalate that?'
+[Thu Sep 27 21:27:59 2001] Rimedear GMSAYS, 'You got read only files or something?'
+[Thu Sep 27 21:28:01 2001] You told Conaan, 'I haven't had to, but I'm asking the other guides'
+[Thu Sep 27 21:28:02 2001] Conaan tells you, 'each time I log on.. and once I had EQ crash to desktop'
+[Thu Sep 27 21:28:12 2001] You GMSAY, 'it's from a petitioner. Doesn't happen to me.'
+[Thu Sep 27 21:28:15 2001] Rimedear GMSAYS, 'Is it Vaelana or Qelan?'
+[Thu Sep 27 21:28:17 2001] Conaan tells you, '20 mins to down load patch'
+[Thu Sep 27 21:28:27 2001] Lirus GMSAYS, 'tell them the warning stands, hide up, please translate what they said and send it back'
+[Thu Sep 27 21:28:33 2001] Conaan tells you, 'okay.. just thought someone might want to know about it'
+[Thu Sep 27 21:28:49 2001] Jerazol GMSAYS, 'no it's not either of those 2'
+[Thu Sep 27 21:28:49 2001] Lirus GMSAYS, 'i sent it already'
+[Thu Sep 27 21:28:49 2001] You told Conaan, 'Have you done a thorough file check to make sure you haven't got some corrupted files?'
+[Thu Sep 27 21:28:50 2001] Mersi GMSAYS, 'Lirus.. can you tell me what happened? I am warning her but shes objecting.. says they were there first. Standard you can't camp anything and if two parties want to share you must split spawn?'
+[Thu Sep 27 21:28:50 2001] Mersi GMSAYS, 'ok'
+[Thu Sep 27 21:28:54 2001] Conaan tells you, 'I don't know about hacker programs or how I could have been infected'
+[Thu Sep 27 21:29:00 2001] Conaan tells you, 'not yet'
+[Thu Sep 27 21:29:11 2001] Conaan tells you, 'first time I got files was early today'
+[Thu Sep 27 21:29:12 2001] Mersi GMSAYS, 'they say hes KSing them now'
+[Thu Sep 27 21:29:17 2001] Lirus GMSAYS, 'they are false'
+[Thu Sep 27 21:29:20 2001] Mersi GMSAYS, 'hehe ok'
+[Thu Sep 27 21:29:24 2001] Conaan tells you, 'then this afternoon.. so I thought maybe a new patch or somthing'
+[Thu Sep 27 21:29:32 2001] Jerazol GMSAYS, 'rimedear went LD i need a guide =)'
+[Thu Sep 27 21:29:33 2001] Lirus GMSAYS, 'give them another warning please'
+[Thu Sep 27 21:29:37 2001] Conaan tells you, 'an hr ago I had EQ Crash to desptop'
+[Thu Sep 27 21:29:39 2001] You told Conaan, 'There was an emergency patch today'
+[Thu Sep 27 21:29:46 2001] Conaan tells you, 'I know that'
+[Thu Sep 27 21:29:47 2001] Lirus GMSAYS, 'I'll start their suspension paperwork'
+[Thu Sep 27 21:29:50 2001] You GMSAY, 'I can get you, Jer'
+[Thu Sep 27 21:29:52 2001] You GMSAY, 'zone'
+[Thu Sep 27 21:29:56 2001] Teleporting to jerazol.
+[Thu Sep 27 21:29:56 2001] LOADING, PLEASE WAIT...
+[Thu Sep 27 21:30:23 2001] You have entered North Qeynos.
+[Thu Sep 27 21:30:29 2001] You invite Jerazol to join your group.
+[Thu Sep 27 21:30:29 2001] Conaan tells you, 'next time I log on.. I will do complete file check'
+[Thu Sep 27 21:30:31 2001] Shannmar shouts, 'would any newbies under lvl 4 like to group to get exp'
+[Thu Sep 27 21:30:33 2001] You have formed the group.
+[Thu Sep 27 21:30:49 2001] You told Conaan, 'see if that finds anything... as for crashing to desktop, that happens to me occasionally, I don't know why.'
+[Thu Sep 27 21:30:50 2001] Jerazol tells the group, 'ok for the spam thing do i handle that or escalate it?'
+[Thu Sep 27 21:30:52 2001] Port Authority Officer shouts 'Hear ye, hear ye! The ship bound for the far island of Odus is now departing the Qeynos docks.  On time and on schedule, all hail Antonius Bayle! 
+[Thu Sep 27 21:31:03 2001] You tell your party, 'escalate'
+[Thu Sep 27 21:31:08 2001] Conaan tells you, 'I know.. happens about once a day to me'
+[Thu Sep 27 21:31:08 2001] Jerazol tells the group, 'ok =)'
+[Thu Sep 27 21:31:10 2001] You tell your party, 'anything that would need to be investigated'
+[Thu Sep 27 21:31:13 2001] Port Authority Officer shouts 'The boat to Odus is about to depart from the Erudin docks.  It will arrive at the Qeynos docks in a matter of minutes.  Remember, smuggling is a serious offense! 
+[Thu Sep 27 21:31:21 2001] You told Conaan, 'I'll report that, too.'
+[Thu Sep 27 21:31:23 2001] Conaan tells you, 'I have a second system and tried to down load patch to it'
+[Thu Sep 27 21:31:29 2001] You no longer have a target.
+[Thu Sep 27 21:31:34 2001] Conaan tells you, 'it downloaded patch.. '
+[Thu Sep 27 21:31:40 2001] Jerazol GMSAYS, 'escalating rafon'
+[Thu Sep 27 21:31:43 2001] Conaan tells you, 'I then closed eq nad started it again'
+[Thu Sep 27 21:31:52 2001] Rimedear GMSAYS, 'Sorry, went LD'
+[Thu Sep 27 21:31:52 2001] Conaan tells you, 'it started to download patch again'
+[Thu Sep 27 21:32:06 2001] Lirus GMSAYS, 'np'
+[Thu Sep 27 21:32:08 2001] You GMSAY, '<note bug> EQ occasionally crashes to desktop for no apparent reason (yeah, really helpful bug report...)'
+[Thu Sep 27 21:32:12 2001] Conaan tells you, 'so I think the patch program is not updating system correctly'
+[Thu Sep 27 21:32:18 2001] a snake hisses and strikes! 
+[Thu Sep 27 21:32:21 2001] Conaan tells you, 'but who knows'
+[Thu Sep 27 21:32:25 2001] a snake has been slain by Conradd!
+[Thu Sep 27 21:32:52 2001] Jerazol tells the group, 'pr should i not pull vaelana or qelan?'
+[Thu Sep 27 21:33:02 2001] Jerazol GMSAYS, 'shoudl i not pull vaelana or qelan?'
+[Thu Sep 27 21:33:02 2001] You told Conaan, 'None of us here has encountered that problem, and we run the same patch program you do. Someone suggested you may have some read-only files that the patch program is having trouble overwriting'
+[Thu Sep 27 21:33:16 2001] a large rat has been slain by Conradd!
+[Thu Sep 27 21:33:17 2001] Barsled says, 'hello sir and mam!'
+[Thu Sep 27 21:33:21 2001] You told Conaan, 'so it keeps trying. check the files in your EQ folder to make sure none are read-only.'
+[Thu Sep 27 21:33:23 2001] Barsled kneels before Jerazol in humility and reverence.
+[Thu Sep 27 21:33:28 2001] Conaan tells you, 'would be the first time that has every happen'
+[Thu Sep 27 21:33:31 2001] You wave at Barsled.
+[Thu Sep 27 21:33:33 2001] Barsled kneels before Espranza in humility and reverence.
+[Thu Sep 27 21:33:40 2001] Rimedear says, 'Disband'
+[Thu Sep 27 21:33:44 2001] Conaan tells you, 'hahahaa.. a lot of files in there to check'
+[Thu Sep 27 21:33:45 2001] You told Conaan, 'did you copy the EQ stuff to a CDROM and back?'
+[Thu Sep 27 21:33:48 2001] Jerazol says, 'i'm with sspranza'
+[Thu Sep 27 21:33:48 2001] You invite Rimedear to join your group.
+[Thu Sep 27 21:33:50 2001] Conaan tells you, 'no'
+[Thu Sep 27 21:33:52 2001] Barsled says, 'wow'
+[Thu Sep 27 21:33:54 2001] Rimedear has joined the group.
+[Thu Sep 27 21:33:56 2001] Barsled says, 'nice song'
+[Thu Sep 27 21:33:57 2001] You tell your party, 'hiya!'
+[Thu Sep 27 21:34:02 2001] Conaan tells you, 'just normal use and EQ patch'
+[Thu Sep 27 21:34:03 2001] Jerazol tells the group, 'wb'
+[Thu Sep 27 21:34:05 2001] Barsled says, 'lol'
+[Thu Sep 27 21:34:06 2001] Conaan tells you, 'no problems until today'
+[Thu Sep 27 21:34:08 2001] Barsled says, 'i mean sword'
+[Thu Sep 27 21:34:09 2001] Rimedear tells the group, 'Hello Espranza!'
+[Thu Sep 27 21:34:20 2001] Rimedear says, 'Hail, Barsled'
+[Thu Sep 27 21:34:26 2001] Barsled says, 'sorry i was thinking of your sword and me singing'
+[Thu Sep 27 21:34:28 2001] Barsled says, 'lol'
+[Thu Sep 27 21:34:33 2001] Barsled kneels before Espranza in humility and reverence.
+[Thu Sep 27 21:34:41 2001] You bow before Barsled.
+[Thu Sep 27 21:34:45 2001] Barsled kneels before Rimedear in humility and reverence.
+[Thu Sep 27 21:34:46 2001] Barsled says, 'wow'
+[Thu Sep 27 21:34:54 2001] You told Conaan, 'well, do check out your files, that might be the problem.'
+[Thu Sep 27 21:35:00 2001] Barsled says, 'geez does every GM have that stuff?'
+[Thu Sep 27 21:35:01 2001] Conaan tells you, 'I will'
+[Thu Sep 27 21:35:10 2001] Mersi GMSAYS, 'Qelan says he refuses to abide by any spawn share agreement'
+[Thu Sep 27 21:35:12 2001] You told Conaan, 'I hope it fixes your problems!'
+[Thu Sep 27 21:35:13 2001] DELETING THIS PETITION
+[Thu Sep 27 21:35:15 2001] Conaan tells you, 'but if any are read only.. EQ patch changed them'
+[Thu Sep 27 21:35:17 2001] Conaan tells you, 'so do i'
+[Thu Sep 27 21:35:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 27 21:35:20 2001] USER TEXT: grimolkin
+[Thu Sep 27 21:35:20 2001] Players in EverQuest:
+[Thu Sep 27 21:35:20 2001] ---------------------------
+[Thu Sep 27 21:35:20 2001] [ANON (40 Necromancer)] Vaelana (Dark Elf) ZONE: oot (USER PID HP1Q1B7)
+[Thu Sep 27 21:35:20 2001] There is 1 player in EverQuest.
+[Thu Sep 27 21:35:23 2001] UNDOING CHECK OUT
+[Thu Sep 27 21:35:25 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 27 21:35:25 2001] USER TEXT: grimolkin
+[Thu Sep 27 21:35:26 2001] Players in EverQuest:
+[Thu Sep 27 21:35:26 2001] ---------------------------
+[Thu Sep 27 21:35:26 2001] [ANON (54 Channeler)] Qelan (High Elf) ZONE: oot (USER PID CVLN108)
+[Thu Sep 27 21:35:26 2001] There is 1 player in EverQuest.
+[Thu Sep 27 21:35:29 2001] UNDOING CHECK OUT
+[Thu Sep 27 21:35:31 2001] Jerazol GMSAYS, 'pulling mannajax'
+[Thu Sep 27 21:35:31 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 27 21:35:31 2001] USER TEXT: i have a spimle question that i cant find the answer to.
+[Thu Sep 27 21:35:31 2001] Players in EverQuest:
+[Thu Sep 27 21:35:31 2001] ---------------------------
+[Thu Sep 27 21:35:31 2001] [39 Shadow Knight] Mannajax (Iksar) <The Scaled Brotherhood> ZONE: cabeast (USER PID GU1EXSR)
+[Thu Sep 27 21:35:31 2001] There is 1 player in EverQuest.
+[Thu Sep 27 21:35:33 2001] UNDOING CHECK OUT
+[Thu Sep 27 21:35:36 2001] Barsled says, 'i take it im bothering you so bye!'
+[Thu Sep 27 21:35:36 2001] Rimedear GMSAYS, 'Wow'
+[Thu Sep 27 21:35:36 2001] You tell your party, 'sorry'
+[Thu Sep 27 21:35:38 2001] Barsled waves goodbye to everyone.
+[Thu Sep 27 21:35:39 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 27 21:35:40 2001] USER TEXT: I havea bug with a guard in Gfay
+[Thu Sep 27 21:35:40 2001] Players in EverQuest:
+[Thu Sep 27 21:35:40 2001] ---------------------------
+[Thu Sep 27 21:35:40 2001] [2 Bard] Tegadas (Wood Elf) ZONE: gfaydark (USER PID BW7URED)
+[Thu Sep 27 21:35:40 2001] There is 1 player in EverQuest.
+[Thu Sep 27 21:35:44 2001] Conaan tells you, 'thanks'
+[Thu Sep 27 21:35:56 2001] Mersi GMSAYS, 'you still need the translations, Lirus?'
+[Thu Sep 27 21:35:58 2001] Players in EverQuest:
+[Thu Sep 27 21:35:58 2001] ---------------------------
+[Thu Sep 27 21:35:58 2001] * Guide *[50 Rogue] Rimedear (Halfling) <Keepers of Dreams> ZONE: qeynos2 (USER PID HUGBLZN)
+[Thu Sep 27 21:35:58 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: qeynos2 (USER PID AUGBQH4)
+[Thu Sep 27 21:35:58 2001] * Apprentice Guide *[20 Necromancer] Jerazol (Human) ZONE: qeynos2 (USER PID FTJLMT9)
+[Thu Sep 27 21:35:58 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: oot (USER PID CW1ECN5)
+[Thu Sep 27 21:35:58 2001] There are 4 players in EverQuest.
+[Thu Sep 27 21:36:03 2001] Lirus GMSAYS, 'yes please mersi)\'
+[Thu Sep 27 21:36:07 2001] Lirus GMSAYS, 'err =)'
+[Thu Sep 27 21:36:33 2001] Mersi GMSAYS, 'ok.. on my way out to do it.. I can't remember what time I got online.. drat I get to go read my log'
+[Thu Sep 27 21:36:37 2001] You told Tegadas, 'Hail, Tegadas! Guide Espranza here. How may I help you?'
+[Thu Sep 27 21:36:39 2001] Mersi GMSAYS, 'do you need me back after?'
+[Thu Sep 27 21:36:48 2001] Tegadas tells you, 'one sec'
+[Thu Sep 27 21:36:52 2001] Tegadas tells you, 'might ndie'
+[Thu Sep 27 21:36:59 2001] Rimedear GMSAYS, '~-~-~ Zoning ~-~-~'
+[Thu Sep 27 21:36:59 2001] You told Tegadas, 'no..!!!'
+[Thu Sep 27 21:37:04 2001] Tegadas tells you, 'ok'
+[Thu Sep 27 21:37:06 2001] Fippy Darkpaw shouts '<BBBBBAAAARRRKKKK!!!!!>  You humans will pay for ruining our homeland!!  GRRRRRRRR!!!!  Family Darkpaw of the Sabretooth Clan will slay you all!!  <BARK!> 
+[Thu Sep 27 21:37:12 2001] Tegadas tells you, 'Do you know where the noobie lift is?'
+[Thu Sep 27 21:37:16 2001] You told Tegadas, 'yup'
+[Thu Sep 27 21:37:21 2001] Tegadas tells you, 'if so plz come to it'
+[Thu Sep 27 21:37:26 2001] You GMSAY, 'zone'
+[Thu Sep 27 21:37:27 2001] Lirus tells the guild, 'lol she is sending me tells on another account now'
+[Thu Sep 27 21:37:31 2001] LOADING, PLEASE WAIT...
+[Thu Sep 27 21:38:00 2001] Mersi tells the guild, 'nm...'
+[Thu Sep 27 21:38:00 2001] Mersi tells the guild, 'I don't want to know'
+[Thu Sep 27 21:38:04 2001] You have entered Greater Faydark.
+[Thu Sep 27 21:38:04 2001] You have formed the group.
+[Thu Sep 27 21:38:10 2001] Mersi tells the guild, 'ok camping to translate.. you want the translations back by ICQ or email?'
+[Thu Sep 27 21:38:14 2001] Lirus tells the guild, 'email'
+[Thu Sep 27 21:38:22 2001] Tegadas tells you, 'okay'
+[Thu Sep 27 21:38:27 2001] Tegadas says, 'Hail, Espranza'
+[Thu Sep 27 21:38:27 2001] Mersi tells the guild, 'oky'
+[Thu Sep 27 21:38:30 2001] You say, 'hiya!'
+[Thu Sep 27 21:38:35 2001] Rimedear GMSAYS, 'going anon'
+[Thu Sep 27 21:38:37 2001] Mersi tells the guild, 'do you want me back online when I get done?'
+[Thu Sep 27 21:38:46 2001] Tegadas says, 'when you bring an enemy to the guard he runs away then he comes back '
+[Thu Sep 27 21:38:46 2001] Mistiq auctions, 'WTS Silver Ruby Veil, 4 wis 4 str, 250pp'
+[Thu Sep 27 21:38:48 2001] Lirus tells the guild, 'yes please)'
+[Thu Sep 27 21:38:48 2001] Mistiq auctions, 'WTS Electrum Sapphire Earings, 4 str 2 int'
+[Thu Sep 27 21:38:49 2001] Tegadas says, 'I will show you '
+[Thu Sep 27 21:38:49 2001] Mersi GMSAYS, 'Vaelana and Qelan are dealt with'
+[Thu Sep 27 21:38:51 2001] Tegadas says, 'back up so you can see'
+[Thu Sep 27 21:38:57 2001] Mersi GMSAYS, 'camping out now'
+[Thu Sep 27 21:38:58 2001] Lirus GMSAYS, 'i would like to explain what happened to you so i don't seem the complete ass'
+[Thu Sep 27 21:39:02 2001] Tegadas tells you, 'come to about here'
+[Thu Sep 27 21:39:04 2001] You GMSAY, 'laters Mersi'
+[Thu Sep 27 21:39:13 2001] Tegadas tells you, 'and just face so you can see the tree and guard brookrock'
+[Thu Sep 27 21:39:17 2001] Tegadas tells you, 'I will brb'
+[Thu Sep 27 21:39:21 2001]  (Chords of Dissonance)
+[Thu Sep 27 21:39:33 2001] Tegadas tells you, 'now watch'
+[Thu Sep 27 21:39:36 2001] Guard Brookrock says 'For the defense of Kelethin!! 
+[Thu Sep 27 21:39:38 2001] You say to your guild, 'what did happen?'
+[Thu Sep 27 21:39:40 2001] a decaying skeleton has been slain by Guard Brookrock!
+[Thu Sep 27 21:39:40 2001] Guard Brookrock says 'For the protection of all Fier'Dal, there shall be no mercy for your kind. 
+[Thu Sep 27 21:39:44 2001] Tegadas tells you, 'why does he run back?'
+[Thu Sep 27 21:39:51 2001] You told Tegadas, 'looks like a pathing problem'
+[Thu Sep 27 21:39:53 2001] Tegadas tells you, 'I died a minute or two ago cause of that'
+[Thu Sep 27 21:40:06 2001] You told Tegadas, 'he's trying to get to the monster but can't figure out how'
+[Thu Sep 27 21:40:16 2001] Guard Brookrock says 'For the defense of Kelethin!! 
+[Thu Sep 27 21:40:17 2001] Jerazol GMSAYS, 'mannajax out'
+[Thu Sep 27 21:40:21 2001] Lirus GMSAYS, 'KS issue in OOT, with the ancient cyclops spawn'
+[Thu Sep 27 21:40:28 2001] Tegadas tells you, 'ya Guide Gnoc said its his pathing but he didnt say it was a problem he just said to send a bug info thing doing /bug to verant'
+[Thu Sep 27 21:40:31 2001] Jerazol GMSAYS, 'pulling nukul'
+[Thu Sep 27 21:40:42 2001] Tegadas tells you, 'can you fix it or do I have to wait for next patch?'
+[Thu Sep 27 21:40:43 2001] Guard Brookrock says 'For the protection of all Fier'Dal, there shall be no mercy for your kind. 
+[Thu Sep 27 21:40:46 2001] Lirus GMSAYS, 'grimolkin has been here all day, these folks showed up, threatened to KS him and has been doing so pretty much every kill'
+[Thu Sep 27 21:40:48 2001] You GMSAY, '<note bug> The pathing for Guard Brookrock in Greater Faydark has him running away before he can reach the monster he needs to kill.'
+[Thu Sep 27 21:40:58 2001] Lirus GMSAYS, 'being abusive and such in ooc and say'
+[Thu Sep 27 21:41:02 2001] Lirus GMSAYS, 'harrassing him'
+[Thu Sep 27 21:41:05 2001] Lirus GMSAYS, 'harrassing me'
+[Thu Sep 27 21:41:14 2001] Lirus GMSAYS, 'KS'd at least 4 times in front of guides'
+[Thu Sep 27 21:41:16 2001] You told Tegadas, 'I can't fix it. The zone needs to be tweaked; I don't know when they will do it.'
+[Thu Sep 27 21:41:21 2001] Rimedear GMSAYS, 'Aye on that KSing, Vaelana didn't hesitate'
+[Thu Sep 27 21:41:23 2001] Tegadas tells you, 'oh'
+[Thu Sep 27 21:41:33 2001] Lirus GMSAYS, 'had their friends sent tells, resulting in warnings for GM harrassment'
+[Thu Sep 27 21:41:37 2001] You GMSAY, 'I sure hope the jboots were worth what's gonna happen to him now.'
+[Thu Sep 27 21:41:42 2001] Tegadas tells you, 'ohwell at least I dont lose exp but bard song meming taks sooo long P'
+[Thu Sep 27 21:41:43 2001] Lirus GMSAYS, 'Told mersi where to "stick" her warning'
+[Thu Sep 27 21:41:55 2001] You told Tegadas, 'heh... well, you get meditate at 10.'
+[Thu Sep 27 21:41:55 2001] Lirus GMSAYS, 'who knows what they said in french'
+[Thu Sep 27 21:42:02 2001] Lirus GMSAYS, 'that's why i'm having mersi translate'
+[Thu Sep 27 21:42:08 2001] Dolphius shouts, 'Can anyone tp me to High Hold and show me the way to the Chanters guild there?'
+[Thu Sep 27 21:42:10 2001] Tegadas tells you, 'well you were way more helpful then Guide ngoc'
+[Thu Sep 27 21:42:17 2001] Tegadas tells you, 'or gnoc P I dun rmember P'
+[Thu Sep 27 21:42:23 2001] You told Tegadas, 'Ngoc'
+[Thu Sep 27 21:42:27 2001] Tegadas tells you, 'okay '
+[Thu Sep 27 21:42:32 2001] Tegadas tells you, 'well he wasnt much help '
+[Thu Sep 27 21:42:36 2001] You told Tegadas, 'heh... be well and thanks for showing it to me.'
+[Thu Sep 27 21:42:40 2001] DELETING THIS PETITION
+[Thu Sep 27 21:42:45 2001] Tegadas tells you, 'Your welcome and thanks you too'
+[Thu Sep 27 21:42:46 2001] Xinu shouts, 'Can't TP to High Hold, nearest is maybe North Karana'
+[Thu Sep 27 21:42:56 2001] You GMSAY, 'zone'
+[Thu Sep 27 21:42:59 2001] You begin casting Sunset Home. (Sunset Home)
+[Thu Sep 27 21:42:59 2001] Your Belt of Translocation begins to glow.
+[Thu Sep 27 21:43:01 2001] LOADING, PLEASE WAIT...
+[Thu Sep 27 21:43:21 2001] You have entered Sunset Home.
+[Thu Sep 27 21:43:21 2001] You have formed the group.
+[Thu Sep 27 21:43:25 2001] Players in EverQuest:
+[Thu Sep 27 21:43:25 2001] ---------------------------
+[Thu Sep 27 21:43:25 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Sep 27 21:43:25 2001] * Guide *[50 Rogue] Rimedear (Halfling) <Keepers of Dreams> ZONE: ecommons (USER PID HUGBLZN)
+[Thu Sep 27 21:43:25 2001] * Apprentice Guide *[20 Necromancer] Jerazol (Human) ZONE: qeynos2 (USER PID FTJLMT9)
+[Thu Sep 27 21:43:25 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: oot (USER PID CW1ECN5)
+[Thu Sep 27 21:43:25 2001] There are 4 players in EverQuest.
+[Thu Sep 27 21:43:26 2001] Jerazol GMSAYS, 'ok if someone can't log into a zone with a character, but can log in with alts, have them delete the zone file correct?'
+[Thu Sep 27 21:43:52 2001] You GMSAY, 'they can log into that same zone with alts?'
+[Thu Sep 27 21:44:22 2001] Jerazol GMSAYS, 'he can't get there, his other characters are too low'
+[Thu Sep 27 21:44:43 2001] You GMSAY, 'anyway when people have trouble logging characters in, first step is to delete the source and destination zone files (like feerrott and hateplane for Hate) and repatch'
+[Thu Sep 27 21:45:03 2001] You GMSAY, 'if that doesn't work, move the charactername_43.opt file from his EQ folder and try.'
+[Thu Sep 27 21:45:10 2001] Jerazol GMSAYS, 'ok '
+[Thu Sep 27 21:45:35 2001] You GMSAY, 'if THAT doesn't work, petition again saying they have done these things and it didn't work, and then to ask the GM to walk the character out.'
+[Thu Sep 27 21:46:00 2001] You GMSAY, 'we check for corrupted files on their end before we esc to the GM'
+[Thu Sep 27 21:46:12 2001] Jerazol GMSAYS, 'ok , nukul out'
+[Thu Sep 27 21:46:50 2001] Jerazol GMSAYS, 'no pets i can take, so going to take questions in qeynos =)'
+[Thu Sep 27 21:47:47 2001] You tell your party, 'okay, quiz time then... someone crashes to desktop whenever they try to enter Stonebrunt Mountains... what do you suggest they do?'
+[Thu Sep 27 21:48:13 2001] Jerazol tells the group, 'I would make sure that they had run the optional patch to make sure that they do infact have the stonebrunt file'
+[Thu Sep 27 21:48:46 2001] You tell your party, 'okay, they forgot to do that and do... what will their next petition likely be?'
+[Thu Sep 27 21:48:57 2001] The spirit leaves you.
+[Thu Sep 27 21:48:58 2001] Your protection fades.
+[Thu Sep 27 21:48:59 2001] The spirit of wolf leaves you.
+[Thu Sep 27 21:49:01 2001] You feel the spirit of Norrath enter you.
+[Thu Sep 27 21:49:03 2001] You feel the spirit of Z surround you.
+[Thu Sep 27 21:49:09 2001] Jerazol tells the group, 'after they recieved the zone file?'
+[Thu Sep 27 21:49:10 2001] Spell particle effects are currently ON.
+[Thu Sep 27 21:49:14 2001] You tell your party, 'yeah'
+[Thu Sep 27 21:49:25 2001] You tell your party, 'they will come back on and petition, guaranteed - why?'
+[Thu Sep 27 21:49:32 2001] Jerazol tells the group, 'they would probably petition being suck either in the warrens or the box in stonebrunt'
+[Thu Sep 27 21:49:49 2001] You tell your party, 'yup, they'll be in a little box. how do we get them out of it?'
+[Thu Sep 27 21:50:06 2001] Jerazol tells the group, 'I would escalate it , and a guide would have to retrieve them'
+[Thu Sep 27 21:50:18 2001] You tell your party, 'if you were a full guide, how would you'
+[Thu Sep 27 21:50:23 2001] Rimedear GMSAYS, '~-~-~ Zoning ~-~-~'
+[Thu Sep 27 21:50:49 2001] Jerazol tells the group, 'go to the zone, and summon them to the safe spot in the zone'
+[Thu Sep 27 21:51:10 2001] You tell your party, 'first, though, you would verify they were in the box :) but that's what I would do'
+[Thu Sep 27 21:51:22 2001] Rimedear says, 'Tag, you're it'
+[Thu Sep 27 21:51:31 2001] Jerazol GMSAYS, 'pulling werich'
+[Thu Sep 27 21:52:11 2001] You tell your party, 'okay, here's another. you're in OOT watching the KSers, when you hear over /ooc that the corrupted seafury cyclops is beneath the world, killing people. How would you handle that, as a guide?'
+[Thu Sep 27 21:52:18 2001] You tell your party, 'after you're done this pet...'
+[Thu Sep 27 21:52:32 2001] You say, 'netted looks so good on haffers!'
+[Thu Sep 27 21:53:04 2001] Rimedear says, 'Aye, one sawed off buccaneer me be!  Arrrrggghhh!!'
+[Thu Sep 27 21:53:27 2001] Espranza saved.
+[Thu Sep 27 21:53:30 2001] Lirus GMSAYS, 'espranza'
+[Thu Sep 27 21:53:36 2001] You say, 'do you play a haffer on your play server?'
+[Thu Sep 27 21:53:40 2001] You GMSAY, 'yes?'
+[Thu Sep 27 21:53:57 2001] Lirus GMSAYS, 'Narcesis's petition is about him telling me what a good job you did'
+[Thu Sep 27 21:54:05 2001] You GMSAY, 'with what?'
+[Thu Sep 27 21:54:12 2001] Lirus GMSAYS, 'he is very impressed and wished me to tell you that you are sppreciated and doing an excellent job'
+[Thu Sep 27 21:54:19 2001] Rimedear says, 'Yep, a couple of them.  I'm six foot five in real life, I like the other viewpoint here'
+[Thu Sep 27 21:54:20 2001] You GMSAY, 'heh well thank him for me :)'
+[Thu Sep 27 21:54:25 2001] Lirus GMSAYS, 'a bind death loop you helped someone with apparently'
+[Thu Sep 27 21:54:38 2001] You GMSAY, 'oh yeah, someone bound in the reaver room in CoM'
+[Thu Sep 27 21:55:00 2001] Jerazol GMSAYS, 'logging bug'
+[Thu Sep 27 21:55:07 2001] Jerazol GMSAYS, 'werich out'
+[Thu Sep 27 21:55:24 2001] Jerazol tells the group, 'ok with the AC stuck under the world killing people?'
+[Thu Sep 27 21:55:24 2001] You say, 'I just started my... sixth I think...'
+[Thu Sep 27 21:55:34 2001] You tell your party, 'no, the corrupted seafury'
+[Thu Sep 27 21:55:36 2001] Rimedear tells the group, 'Jera, how long you been an Apprentice now?'
+[Thu Sep 27 21:55:45 2001] You tell your party, 'he's a druid epic mob, btw'
+[Thu Sep 27 21:55:46 2001] Jerazol tells the group, '2 days =)'
+[Thu Sep 27 21:55:58 2001] Rimedear tells the group, 'ah, sorry... please continue'
+[Thu Sep 27 21:56:10 2001] You say, 'might as well get him used to testing'
+[Thu Sep 27 21:56:10 2001] Jerazol tells the group, 'ok well first I would use that nifty guide weapon to clear his hate list and see if that un lodges him'
+[Thu Sep 27 21:56:22 2001] You tell your party, 'nope, doesn't work'
+[Thu Sep 27 21:56:28 2001] Rimedear tells you, 'He reads the book'
+[Thu Sep 27 21:56:48 2001] You told Rimedear, '?'
+[Thu Sep 27 21:57:08 2001] Jerazol tells the group, 'then the only thing left to do would probably to use /kill on him'
+[Thu Sep 27 21:57:10 2001] Rimedear tells you, 'unless you told him that already'
+[Thu Sep 27 21:57:23 2001] You tell your party, 'nope...'
+[Thu Sep 27 21:57:40 2001] You tell your party, 'corrupted seafury is 50-52, and is an epic mob'
+[Thu Sep 27 21:57:50 2001] You tell your party, 'we cannot kill 50+ monsters or epic monsters'
+[Thu Sep 27 21:57:54 2001] Jerazol tells the group, 'ahh ok'
+[Thu Sep 27 21:57:59 2001] Rimedear tells the group, 'This is where it gets fun'
+[Thu Sep 27 21:58:06 2001] You tell your party, 'you could aggro it and try to drag it out'
+[Thu Sep 27 21:58:14 2001] You tell your party, 'he summons though'
+[Thu Sep 27 21:58:19 2001] You tell your party, 'so that might be too much fun'
+[Thu Sep 27 21:58:37 2001] You tell your party, 'you at that time would probably escalate it to Lirus or get a chat GM if Lirus wasn't on'
+[Thu Sep 27 21:58:47 2001] Jerazol tells the group, 'ahh ok'
+[Thu Sep 27 21:58:54 2001] You tell your party, 'have to do that occasionally when the shardwurm broodmother in Great Divide gets stuck, too.'
+[Thu Sep 27 21:59:03 2001] Jerazol tells the group, 'didn't see the thing about not being able to use /kill on epics or 50+'
+[Thu Sep 27 21:59:25 2001] Pokpok tells you, 'sorry to give you direct tell but i was wondering if Lirus was able to see my petition for my Epic problem'
+[Thu Sep 27 21:59:46 2001] You told Pokpok, 'I see no petitions from you in the queue.... lemme check'
+[Thu Sep 27 21:59:56 2001] You GMSAY, 'Anyone handle Pokpok's petition about some epic problem?'
+[Thu Sep 27 22:00:23 2001] It begins to rain.
+[Thu Sep 27 22:02:03 2001] You told Pokpok, 'nobody said they handled it; could you repetition?'
+[Thu Sep 27 22:02:22 2001] Pokpok tells you, 'ok'
+[Thu Sep 27 22:02:22 2001] You tell your party, 'the rule is SOMEwhere... the P&P needs to be organized more sensibly.'
+[Thu Sep 27 22:02:33 2001] Jerazol tells the group, 'ok'
+[Thu Sep 27 22:02:35 2001] Pokpok tells you, 'can you foreward to Lirus asap?'
+[Thu Sep 27 22:02:36 2001] You're not scaring anyone.
+[Thu Sep 27 22:02:41 2001] Rimedear cheers at Espranza.
+[Thu Sep 27 22:02:44 2001] Jerazol tells the group, 'give me more scenarios , i like this =)'
+[Thu Sep 27 22:02:44 2001] You told Pokpok, 'sure'
+[Thu Sep 27 22:02:47 2001] You beam a smile at Rimedear.
+[Thu Sep 27 22:02:53 2001] You tell your party, 'this is testing for ya :)'
+[Thu Sep 27 22:03:02 2001] You tell your party, 'but not the official stuff - Rynara does that'
+[Thu Sep 27 22:03:05 2001] You no longer have a target.
+[Thu Sep 27 22:03:36 2001] Espranza saved.
+[Thu Sep 27 22:03:54 2001] Jerazol tells the group, 'ok'
+[Thu Sep 27 22:04:06 2001] You tell your party, 'okay, I'm camping Gynok Moltar in Befallen - a rare spawn - someone comes and insists I let them kill the next spawn because of the play nice policy. I've been there, oh, 30 hours straight. Must I let the new person have a chance at him when I've waited?'
+[Thu Sep 27 22:04:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 27 22:04:17 2001] USER TEXT: I was doing Epic the other night and in middle of braid part in NK and  Teloa did not pop. Espranza was helping me but she said it was something Lirus might be able to handle. Pls help
+[Thu Sep 27 22:04:17 2001] Players in EverQuest:
+[Thu Sep 27 22:04:17 2001] ---------------------------
+[Thu Sep 27 22:04:17 2001] [59 Preserver] Pokpok (Half Elf) <Altruistic Valorians> ZONE: velketor (USER PID EP5S3DC)
+[Thu Sep 27 22:04:17 2001] There is 1 player in EverQuest.
+[Thu Sep 27 22:04:22 2001] Rimedear GMSAYS, 'Lirus, that was first event for me earlier, and I didn't do too well, but I understand mechanics of it now, and I'll do better next time'
+[Thu Sep 27 22:04:42 2001] Jerazol tells the group, 'hmm ok this is a sticky one'
+[Thu Sep 27 22:05:01 2001] You tell your party, 'let me make it stickier'
+[Thu Sep 27 22:05:08 2001] Jerazol tells the group, 'well according to the P&P there is nothing wrong with camping a mob'
+[Thu Sep 27 22:05:36 2001] Rimedear GMSAYS, 'I must be going, rather heavy project at work all weekend... if I already know it's unlikely I can make my Sunday shift, should I write note to Guide site?'
+[Thu Sep 27 22:05:36 2001] You tell your party, 'while waiting for the petition to be answered, Gynok pops, the other person immediately aggros and kills him, gets the ring, gates out and camps.'
+[Thu Sep 27 22:05:38 2001] You tell your party, 'NOW what?'
+[Thu Sep 27 22:05:45 2001] You GMSAY, 'yes'
+[Thu Sep 27 22:05:51 2001] You GMSAY, 'and send a letter to the SMT'
+[Thu Sep 27 22:05:54 2001] Jerazol tells the group, 'that is considered KSing , and ninja looting, and both are illegal'
+[Thu Sep 27 22:06:11 2001] You tell your party, 'no... the other person aggroed the mob first and killed it'
+[Thu Sep 27 22:06:20 2001] You tell your party, 'that's not KSing by Verant's definition'
+[Thu Sep 27 22:06:23 2001] Rimedear GMSAYS, 'Thanks, must log to sleep, good night all, nice to meet you Jerazol'
+[Thu Sep 27 22:06:27 2001] You tell your party, 'what they did was perfectly legal'
+[Thu Sep 27 22:06:43 2001] You tell your party, 'and... camping a mob is not recognized by Verant.'
+[Thu Sep 27 22:06:47 2001] Jerazol tells the group, 'ok , wait the person who WAS there killed gynok or the person who just came?'
+[Thu Sep 27 22:06:53 2001] You tell your party, 'person who just came'
+[Thu Sep 27 22:07:17 2001] Jerazol tells the group, 'ahh ok well if camping isn't recognized by verant then it's "anybody's" spawn'
+[Thu Sep 27 22:07:24 2001] You tell your party, 'the problem with this petition, then there's nothing we can do'
+[Thu Sep 27 22:07:33 2001] You tell your party, 'and the petitioner will NOT be happy'
+[Thu Sep 27 22:07:37 2001] Jerazol tells the group, 'and although it may not seem right theres nothing to do'
+[Thu Sep 27 22:07:38 2001] Pokpok tells you, 'sent'
+[Thu Sep 27 22:07:42 2001] You told Pokpok, 'k'
+[Thu Sep 27 22:08:01 2001] You tell your party, 'this does happen - and I guess it happened with the AC in OOT this evening'
+[Thu Sep 27 22:08:11 2001] Rimedear tells the group, 'OH, yeah it did.'
+[Thu Sep 27 22:08:11 2001] USER TEXT: I was doing Epic the other night and in middle of braid part in NK and  Teloa did not pop. Espranza was helping me but she said it was something Lirus might be able to handle. Pls help
+[Thu Sep 27 22:08:28 2001] Jerazol tells the group, 'as long as there isn't profanity or otherwise harrasment it's out of our hands'
+[Thu Sep 27 22:08:32 2001] Rimedear has left the group.
+[Thu Sep 27 22:09:13 2001] Mersi tells the guild, 'ok Lirus, you have the translations, and I am back'
+[Thu Sep 27 22:09:15 2001] Mersi GMSAYS, 'back'
+[Thu Sep 27 22:09:19 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Thu Sep 27 22:09:20 2001] GM TEXT: Espranza: He was spawning the corrupted reaver in EK and some of the druids appeared as per the script, but one didn't and the corrupt reaver didn't spawn. He would like his turn-in item back so he could try again.
+[Thu Sep 27 22:09:25 2001] You told Pokpok, 'okay, passed along'
+[Thu Sep 27 22:09:27 2001] Lirus GMSAYS, 'welcome back, mersi)'
+[Thu Sep 27 22:09:28 2001] STATUS UPGRADED TO URGENT
+[Thu Sep 27 22:09:28 2001] STATUS UPGRADED TO EMERGENCY
+[Thu Sep 27 22:09:30 2001] CHECKING IN
+[Thu Sep 27 22:09:33 2001] You GMSAY, 'hiya Mersi'
+[Thu Sep 27 22:09:43 2001] You GMSAY, 'esc pokpok - bug in epic quest'
+[Thu Sep 27 22:09:56 2001] Pokpok tells you, 'thx a lot'
+[Thu Sep 27 22:10:01 2001] You told Pokpok, 'sure thing!'
+[Thu Sep 27 22:10:03 2001] Mersi GMSAYS, 'zoning home..'
+[Thu Sep 27 22:10:40 2001] You tell your party, 'okay here's another one'
+[Thu Sep 27 22:11:09 2001] You tell your party, 'The petitioner died before a patch, when they come back after the patch to loot their body, they find they have two fully equipped corpses, and petition. What do you do?'
+[Thu Sep 27 22:11:58 2001] Jerazol tells the group, 'I would ask them not to loot the second corpse , as it could be considered duping ( an expliot )'
+[Thu Sep 27 22:12:07 2001] You tell your party, 'and then?'
+[Thu Sep 27 22:12:40 2001] Players in EverQuest:
+[Thu Sep 27 22:12:40 2001] ---------------------------
+[Thu Sep 27 22:12:40 2001] * Senior Guide *[54 Disciple] Mersi (Human) <Keepers of Dreams> ZONE: cshome (USER PID BSQ3K8R)
+[Thu Sep 27 22:12:40 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Dreams> ZONE: qeytoqrg (USER PID CW1ECN5)
+[Thu Sep 27 22:12:40 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Sep 27 22:12:40 2001] * Apprentice Guide *[20 Necromancer] Jerazol (Human) ZONE: qeynos2 (USER PID FTJLMT9)
+[Thu Sep 27 22:12:40 2001] There are 4 players in EverQuest.
+[Thu Sep 27 22:12:50 2001] Jerazol tells the group, 'I would escalate it to a gm , also report of a bug, and perhaps soulmark him for his integrity and truthfulness'
+[Thu Sep 27 22:12:59 2001] You tell your party, 'sounds good to me :)'
+[Thu Sep 27 22:13:13 2001] You tell your party, 'what if they reported that the duped corpse only had no drop stuff on it?'
+[Thu Sep 27 22:13:40 2001] Jerazol GMSAYS, 'pulling masson'
+[Thu Sep 27 22:13:46 2001] Espranza saved.
+[Thu Sep 27 22:16:01 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 27 22:16:02 2001] USER TEXT: hi, i'd like to know if it would be possible to get the surname Kal'Thax.  i'm in LoIO atm , thanks
+[Thu Sep 27 22:16:02 2001] Players in EverQuest:
+[Thu Sep 27 22:16:02 2001] ---------------------------
+[Thu Sep 27 22:16:02 2001] [19 Bard] Masson (Wood Elf) <Hidden Shadows> ZONE: lakeofillomen (USER PID HNKWVLM)
+[Thu Sep 27 22:16:02 2001] There is 1 player in EverQuest.
+[Thu Sep 27 22:16:03 2001] Jerazol GMSAYS, 'escalating masson, needs sirname assistance'
+[Thu Sep 27 22:16:07 2001] UNDOING CHECK OUT
+[Thu Sep 27 22:16:11 2001] You GMSAY, 'take it back'
+[Thu Sep 27 22:16:19 2001] You GMSAY, 'name changes are esc'd to red'
+[Thu Sep 27 22:16:24 2001] Jerazol GMSAYS, 'ok'
+[Thu Sep 27 22:16:38 2001] Mersi GMSAYS, 'anything that only a senior / GM can handle go red )'
+[Thu Sep 27 22:16:45 2001] Jerazol GMSAYS, 'ahh ok'
+[Thu Sep 27 22:18:08 2001] Jerazol tells the group, 'more scenarios, i'm learning alot =)'
+[Thu Sep 27 22:18:23 2001] You no longer have a target.
+[Thu Sep 27 22:18:24 2001] You wave.
+[Thu Sep 27 22:18:36 2001] You tell your party, 'okay'
+[Thu Sep 27 22:19:14 2001] You tell your party, 'person complains that every time the Bloated Belly in TD leaves the docks, they get thrown onto a rock and left behind. they would like assistance getting to the Overthere. What do you do?'
+[Thu Sep 27 22:20:47 2001] Jerazol tells the group, 'I would first go and investigate the issue, and have him try to reboard the boat while there'
+[Thu Sep 27 22:21:21 2001] You tell your party, 'okay, you do so, and when they get on the boat and it leaves, you see them appear to run off the boat and stand on the rock.'
+[Thu Sep 27 22:21:50 2001] Jerazol tells the group, 'then I would summon him onto the boat'
+[Thu Sep 27 22:22:04 2001] You tell your party, 'me too :) that's how I handle them.'
+[Thu Sep 27 22:22:15 2001] Jerazol tells the group, '=)'
+[Thu Sep 27 22:22:51 2001] You tell your party, 'in OOT again for another petition, this person fell off the shuttle while trying to get on the Maidens Voyage, it left without them and now they are swimming in the middle of nowhere. They just want to get to Firiona Vie! How do you help them?'
+[Thu Sep 27 22:23:31 2001] Jerazol tells the group, 'well I would assure them that no boat from the OOT goes to firiona vie =)'
+[Thu Sep 27 22:23:36 2001] You have become better at Intimidation! (110)
+[Thu Sep 27 22:23:36 2001] You tell your party, 'er TD'
+[Thu Sep 27 22:23:44 2001] You tell your party, 'sorry :('
+[Thu Sep 27 22:23:55 2001] Espranza saved.
+[Thu Sep 27 22:23:57 2001] Jerazol tells the group, 'heh np , wasn't sure if it was a trick question or not  =)'
+[Thu Sep 27 22:24:13 2001] You're not scaring anyone.
+[Thu Sep 27 22:24:36 2001] You tell your party, 'no trick questions, I'm just thinking back to petitions I have gotten'
+[Thu Sep 27 22:24:47 2001] You're not scaring anyone.
+[Thu Sep 27 22:24:49 2001] Jerazol tells the group, 'Well I would probably first find out if they were a caster and able to gate back to near the docks'
+[Thu Sep 27 22:25:07 2001] You feel the spirit of Norrath enter you.
+[Thu Sep 27 22:25:39 2001] You tell your party, 'if they weren't? only druids have a port close by, wizard one is farther away, but the other casters won't be able to'
+[Thu Sep 27 22:26:08 2001] Mersi GMSAYS, 'zoning'
+[Thu Sep 27 22:26:22 2001] Jerazol tells the group, 'I would then inform them that the maidens voyage makes no stops along the way to FV, but it does stop at an island returning to the butcherblock mountains'
+[Thu Sep 27 22:26:42 2001] Jerazol GMSAYS, 'pulling jeanpeuplus'
+[Thu Sep 27 22:26:51 2001] You tell your party, 'and then?'
+[Thu Sep 27 22:27:53 2001] Jerazol tells the group, 'I would then inform them that the only way to get out of that situation would be to inquire as to the /loc of the island from other players, and swim there'
+[Thu Sep 27 22:28:08 2001] Jerazol tells the group, 'and he would have to return to butcherblock and catch the shuttle agin'
+[Thu Sep 27 22:29:13 2001] Mersi GMSAYS, 'zoning'
+[Thu Sep 27 22:29:14 2001] You tell your party, 'We're allowed to help people lost at sea. I summon them to the elven outpost, right to the docks, and tell them the shuttle will meet the ship at some point... they won't need to return to Butcher..'
+[Thu Sep 27 22:29:43 2001] Jerazol tells the group, 'Ok , i thought we were only allowed to help people at sea if they fell through a boat'
+[Thu Sep 27 22:29:50 2001] You tell your party, 'we can't zone them straight to FV unless... there's only one reason we can summon people to their destination...'
+[Thu Sep 27 22:30:07 2001] Jerazol tells the group, 'And that is if they are unable to zone themselves'
+[Thu Sep 27 22:30:10 2001] Jerazol tells the group, 'correct?'
+[Thu Sep 27 22:30:21 2001] You tell your party, 'only if the boats aren't working.'
+[Thu Sep 27 22:31:45 2001] Mersi tells the guild, 'Esp... were you here when appy was online? I forgot to take down his name'
+[Thu Sep 27 22:31:49 2001] Jerazol tells the group, 'just got a pep about someones friend sleeping on the keyboard, I escalate that to the GM correct?'
+[Thu Sep 27 22:32:02 2001] You say to your guild, 'Jerazol is still here, if you mean him.'
+[Thu Sep 27 22:32:08 2001] You say to your guild, 'I'm testing him on scenarios'
+[Thu Sep 27 22:32:12 2001] Mersi tells the guild, 'ya.. oops thanks'
+[Thu Sep 27 22:32:29 2001] You tell your party, 'not yet'
+[Thu Sep 27 22:32:35 2001] You tell your party, 'first you send him tells'
+[Thu Sep 27 22:32:54 2001] Jerazol tells the group, 'ok'
+[Thu Sep 27 22:33:48 2001] You tell your party, 'actually I'm wrong'
+[Thu Sep 27 22:33:56 2001] Jerazol tells the group, 'i wasn't sure what sleeping meant in the P&P, does it literally mean the person is sleeping at the keyboard?'
+[Thu Sep 27 22:33:58 2001] You tell your party, 'according to the P&P, it should be esced to red'
+[Thu Sep 27 22:34:05 2001] Espranza saved.
+[Thu Sep 27 22:34:06 2001] You tell your party, 'yeah, literally asleep'
+[Thu Sep 27 22:34:25 2001] You tell your party, 'according to the P&P, if a senior+ is online, escalate, otherwise tell the petitioner we are unable to help.'
+[Thu Sep 27 22:34:32 2001] Jerazol tells the group, 'Petitioners friend is asleep at the keyboard'
+[Thu Sep 27 22:34:43 2001] Jerazol tells the group, 'keep hitting enter *smacks head*'
+[Thu Sep 27 22:34:46 2001] You tell your party, 'get the name and append, then escalate.'
+[Thu Sep 27 22:35:07 2001] You tell your party, 'heh'
+[Thu Sep 27 22:35:27 2001] Jerazol GMSAYS, 'jeanpeuplus escalted and checked in'
+[Thu Sep 27 22:35:54 2001] Mersi GMSAYS, 'Jerazol, do you know how we would handle such a petition?'
+[Thu Sep 27 22:36:08 2001] You tell your party, 'this should be easy for ya :O'
+[Thu Sep 27 22:36:21 2001] Jerazol GMSAYS, 'I just checked to confirm that the person in fact wasn't responding'
+[Thu Sep 27 22:36:29 2001] Jerazol GMSAYS, 'and then I escalated it'
+[Thu Sep 27 22:36:41 2001] Mersi GMSAYS, 'ok... how long did you wait for a tell?'
+[Thu Sep 27 22:36:51 2001] You tell your party, 'she's making the same mistake I made'
+[Thu Sep 27 22:36:57 2001] You tell your party, 'this is not what it is in the P&P'
+[Thu Sep 27 22:37:09 2001] Jerazol GMSAYS, 'I tried a few times , a few minutes appart'
+[Thu Sep 27 22:37:13 2001] You tell your party, 'you aren't to make contact with the sleeper, according to the P&P'
+[Thu Sep 27 22:37:15 2001] Mersi GMSAYS, 'ok good )'
+[Thu Sep 27 22:37:20 2001] Jerazol tells the group, 'ahh ok'
+[Thu Sep 27 22:37:42 2001] Jerazol tells the group, 'but that is like amended to practicality?'
+[Thu Sep 27 22:38:10 2001] You tell your party, 'I usually just GO there and make sure they aren't moving and won't respond'
+[Thu Sep 27 22:38:22 2001] Jerazol tells the group, 'ahh ok , well that's a far hike for me =)'
+[Thu Sep 27 22:38:31 2001] You tell your party, 'then is a senior+ is not online, tell them there is nothing we can do'
+[Thu Sep 27 22:38:38 2001] You tell your party, 'I meant as a guide, natch'
+[Thu Sep 27 22:38:45 2001] Jerazol GMSAYS, 'zone'
+[Thu Sep 27 22:39:13 2001] You no longer have a target.
+[Thu Sep 27 22:39:14 2001] You sigh, clearly disappointed.
+[Thu Sep 27 22:39:17 2001] Players on EverQuest:
+[Thu Sep 27 22:39:17 2001] ---------------------------
+[Thu Sep 27 22:39:17 2001] There are no players in Sunset Home that match those who filters.
+[Thu Sep 27 22:39:19 2001] Players in EverQuest:
+[Thu Sep 27 22:39:19 2001] ---------------------------
+[Thu Sep 27 22:39:19 2001] There are no players in EverQuest that match those who filters.
+[Thu Sep 27 22:39:21 2001] You GMSAY, 'zone'
+[Thu Sep 27 22:39:26 2001] LOADING, PLEASE WAIT...
+[Thu Sep 27 22:40:15 2001] You have entered Necropolis.
+[Thu Sep 27 22:40:16 2001] You have formed the group.
+[Thu Sep 27 22:40:19 2001] Players on EverQuest:
+[Thu Sep 27 22:40:19 2001] ---------------------------
+[Thu Sep 27 22:40:19 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Sep 27 22:40:19 2001] There is 1 player in Dragon Necropolis.
+[Thu Sep 27 22:40:44 2001] a phase spider begins to cast a spell. (Scareling Step)
+[Thu Sep 27 22:40:48 2001] You can't reach that, get closer.
+[Thu Sep 27 22:41:11 2001] Jerazol tells the group, 'I can't wait to make it to a full guide so I can do more =)'
+[Thu Sep 27 22:41:25 2001] You tell your party, 'you're well on your way, but it does take time'
+[Thu Sep 27 22:41:32 2001] You tell your party, 'I know how you feel, though'
+[Thu Sep 27 22:41:40 2001] You tell your party, 'I'm an apprentice senior'
+[Thu Sep 27 22:41:45 2001] Jerazol tells the group, 'I know , it's something to work for =)'
+[Thu Sep 27 22:41:49 2001] You tell your party, 'been working on it for MONTHS'
+[Thu Sep 27 22:42:20 2001] Jerazol tells the group, 'can't just go and give any person power, it can be easily abused that way'
+[Thu Sep 27 22:42:27 2001] You tell your party, 'yeah'
+[Thu Sep 27 22:42:49 2001] Jerazol tells the group, 'which i perfectly undersand and agree with =)'
+[Thu Sep 27 22:43:02 2001] You tell your party, 'I have to do all the regular guide stuff plus all this senior stuff....'
+[Thu Sep 27 22:43:13 2001] You tell your party, 'but it's fun'
+[Thu Sep 27 22:43:22 2001] Jerazol tells the group, 'yeah it is, i'm having a blast =)'
+[Thu Sep 27 22:43:27 2001] Taking a screenshot...
+[Thu Sep 27 22:43:49 2001] You tell your party, 'I remember being an apprentice guide as if it were only a year and a half ago :)'
+[Thu Sep 27 22:44:00 2001] You tell your party, 'Morell Thule was less than a month old then'
+[Thu Sep 27 22:44:14 2001] You tell your party, 'none of us even knew what Morell Thule was the god of'
+[Thu Sep 27 22:44:15 2001] Jerazol GMSAYS, 'zone'
+[Thu Sep 27 22:44:52 2001] Jerazol tells the group, 'what is he the god of?'
+[Thu Sep 27 22:45:33 2001] Lirus GMSAYS, 'taking off all, will see you all tommorow, great job tonight espranza, and special thanks to the multi-lingual Mersi'
+[Thu Sep 27 22:45:39 2001] Mersi GMSAYS, 'cya Lirus'
+[Thu Sep 27 22:45:45 2001] Lirus GMSAYS, 'take it easy all'
+[Thu Sep 27 22:45:46 2001] Jerazol GMSAYS, 'night lirus'
+[Thu Sep 27 22:45:52 2001] Mersi GMSAYS, 'booting this person who needs it then I will be doing the same )'
+[Thu Sep 27 22:45:54 2001] Mersi GMSAYS, 'zone'
+[Thu Sep 27 22:46:20 2001] Jerazol tells the group, 'what is morell the god of?'
+[Thu Sep 27 22:46:29 2001] You tell your party, 'he;s the god of dreams'
+[Thu Sep 27 22:46:36 2001] You tell your party, 'we all thought he was the god of magic'
+[Thu Sep 27 22:46:42 2001] You GMSAY, 'night Lirus!'
+[Thu Sep 27 22:46:47 2001] Jerazol tells the group, 'ahh I should have guessed that from the CS guild =)'
+[Thu Sep 27 22:46:53 2001] You tell your party, 'heh'
+[Thu Sep 27 22:47:48 2001] Jerazol tells the group, 'Is the guide program going to be effected greatly when SoL comes out?'
+[Thu Sep 27 22:48:42 2001] You tell your party, 'how do you mean?'
+[Thu Sep 27 22:48:43 2001] Players in EverQuest:
+[Thu Sep 27 22:48:43 2001] ---------------------------
+[Thu Sep 27 22:48:43 2001] * Senior Guide *[54 Disciple] Mersi (Human) <Keepers of Dreams> ZONE: firiona (USER PID BSQ3K8R)
+[Thu Sep 27 22:48:43 2001] * Apprentice Guide *[20 Necromancer] Jerazol (Human) ZONE: qey2hh1 (USER PID FTJLMT9)
+[Thu Sep 27 22:48:43 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: necropolis (USER PID AUGBQH4)
+[Thu Sep 27 22:48:43 2001] There are 3 players in EverQuest.
+[Thu Sep 27 22:49:22 2001] Jerazol tells the group, 'like asside from the obvious increases in problems people are going to be experiencing, will be be off limits to it for a while or?'
+[Thu Sep 27 22:49:35 2001] You tell your party, 'oh yeah, appies won't be able to go there'
+[Thu Sep 27 22:49:59 2001] Jerazol tells the group, 'hopefully i'll be a full guide by december =)'
+[Thu Sep 27 22:49:59 2001] You tell your party, 'full guides will be able to explore'
+[Thu Sep 27 22:50:14 2001] You tell your party, 'you only have six weeks to make full guide, so you will be'
+[Thu Sep 27 22:50:15 2001] a phase spider begins to cast a spell. (Scareling Step)
+[Thu Sep 27 22:50:19 2001] Espranza saved.
+[Thu Sep 27 22:50:33 2001] Jerazol tells the group, 'I'm pretty eager to see if any nice ranger armor drops in the new planes =)'
+[Thu Sep 27 22:50:56 2001] You tell your party, 'ranger armor drops in Hate and PoM already'
+[Thu Sep 27 22:51:05 2001] You tell your party, 'well, it doesn't exactly "drop" in PoM'
+[Thu Sep 27 22:51:07 2001] Mersi GMSAYS, 'zoning home'
+[Thu Sep 27 22:51:20 2001] Jerazol tells the group, 'pom?'
+[Thu Sep 27 22:51:25 2001] You tell your party, 'plane of mischief'
+[Thu Sep 27 22:51:31 2001] Jerazol GMSAYS, 'pulling tangrisner'
+[Thu Sep 27 22:51:45 2001] Mersi GMSAYS, 'night all )'
+[Thu Sep 27 22:51:48 2001] Jerazol tells the group, 'ahh right ,forgot aobut that one =)'
+[Thu Sep 27 22:51:51 2001] You GMSAY, 'night Mersi!'
+[Thu Sep 27 22:52:12 2001] Jerazol tells the group, 'i'm not nearly high enougth to be able to make it throught ToV'
+[Thu Sep 27 22:52:32 2001] You tell your party, 'don't have to be'
+[Thu Sep 27 22:52:39 2001] You tell your party, 'people get call of the hero'd there'
+[Thu Sep 27 22:52:48 2001] You tell your party, 'only need to be 46, just like any plane'
+[Thu Sep 27 22:53:15 2001] Jerazol tells the group, 'well on my server only the 3 uber guilds are there, and I don't know any of them sooo'
+[Thu Sep 27 22:53:20 2001] You tell your party, 'now getting the mage there is a whole nuther story'
+[Thu Sep 27 22:53:37 2001] You tell your party, 'erollisi marr has bunches of uber guilds'
+[Thu Sep 27 22:53:52 2001] Jerazol tells the group, 'I AM trying to join one of them though'
+[Thu Sep 27 22:54:25 2001] You tell your party, 'being in one would take far too much time from my family'
+[Thu Sep 27 22:54:45 2001] You tell your party, 'the responsibilities are incredible'
+[Thu Sep 27 22:54:59 2001] Jerazol GMSAYS, 'tangrisner out'
+[Thu Sep 27 22:55:06 2001] You tell your party, 'you basically give over your life to the guild - not ready for that commitment yet'
+[Thu Sep 27 22:55:18 2001] Jerazol tells the group, 'yeah , the ones on my server just basically clear ToV and sleepers all the time'
+[Thu Sep 27 22:55:41 2001] Your feet leave the ground.
+[Thu Sep 27 22:56:03 2001] Jerazol tells the group, 'I can't wait to be able to go to sleepers, and fight a "unkillable" dragon'
+[Thu Sep 27 22:56:16 2001] Jerazol tells the group, '*an'
+[Thu Sep 27 22:56:20 2001] You tell your party, 'I doubt I will ever see that...'
+[Thu Sep 27 22:56:33 2001] Jerazol tells the group, 'It will happen eventually'
+[Thu Sep 27 22:56:38 2001] Jerazol tells the group, 'I was in chat one day and the gm said'
+[Thu Sep 27 22:56:50 2001] You tell your party, 'maybe not - my guild is moving to DAoC'
+[Thu Sep 27 22:57:06 2001] Jerazol tells the group, 'when EQ was first launched Vox and Naggy weren't meant to be killed, when RoK was released VP wasn't thought to be able to be cleared'
+[Thu Sep 27 22:57:08 2001] You tell your party, 'at least the core part'
+[Thu Sep 27 22:57:29 2001] You tell your party, 'aw c'mon, of course they were to be killed'
+[Thu Sep 27 22:57:34 2001] You tell your party, 'why put them there otherwise?'
+[Thu Sep 27 22:57:42 2001] Jerazol tells the group, 'exactly'
+[Thu Sep 27 22:57:49 2001] Jerazol tells the group, 'every mob in the game is meant to be killed'
+[Thu Sep 27 22:58:03 2001] You tell your party, 'they've said as much - if they want a mob to be unkillable, it will be unkillable'
+[Thu Sep 27 22:58:20 2001] Jerazol tells the group, 'but it's always the ones that never were that enchanted me , like mayong , and kerafrym'
+[Thu Sep 27 22:58:44 2001] You tell your party, 'well Mayong was removed from game before anyone got powerful enough to take him on'
+[Thu Sep 27 22:58:47 2001] Agaden GMSAYS, 'hello all, any guides feel like they wish to mentor me for a few mins? hehe, need to get a log going so I can try out EQSR :)'
+[Thu Sep 27 22:58:54 2001] You GMSAY, 'sure, I gotcha'
+[Thu Sep 27 22:58:56 2001] You GMSAY, 'zone'
+[Thu Sep 27 22:58:59 2001] Teleporting to agaden.
+[Thu Sep 27 22:59:00 2001] LOADING, PLEASE WAIT...
+[Thu Sep 27 22:59:31 2001] You have entered Butcherblock Mountains.
+[Thu Sep 27 22:59:32 2001] You have formed the group.
+[Thu Sep 27 22:59:40 2001] You invite Agaden to join your group.
+[Thu Sep 27 22:59:44 2001] Agaden has joined the group.
+[Thu Sep 27 22:59:49 2001] You tell your party, 'hiya gnome!'
+[Thu Sep 27 22:59:58 2001] Players in EverQuest:
+[Thu Sep 27 22:59:58 2001] ---------------------------
+[Thu Sep 27 22:59:58 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: butcher (USER PID AUGBQH4)
+[Thu Sep 27 22:59:58 2001] * Apprentice Guide *[20 Enchanter] Agaden (Gnome) ZONE: butcher (USER PID AQ0BWHV)
+[Thu Sep 27 22:59:58 2001] * Apprentice Guide *[20 Necromancer] Jerazol (Human) ZONE: qey2hh1 (USER PID FTJLMT9)
+[Thu Sep 27 22:59:58 2001] There are 3 players in EverQuest.
+[Thu Sep 27 23:00:06 2001] Agaden tells the group, 'thanks..was on a couple hours earlier and after a full page of notes, decided I would try to get eqsr working :)'
+[Thu Sep 27 23:00:12 2001] Agaden tells the group, 'and, HOWDY!!'
+[Thu Sep 27 23:00:17 2001] You tell your party, 'I still don't use it :)'
+[Thu Sep 27 23:00:20 2001] Jerazol tells the group, 'hello agaden'
+[Thu Sep 27 23:00:40 2001] Agaden tells the group, 'I had been keeping up until tonight...I had to escalate just about all of my 17 pets :(('
+[Thu Sep 27 23:00:43 2001] Agaden tells the group, 'howdy jer'
+[Thu Sep 27 23:01:13 2001] Agaden tells the group, 'they had an event going on for a while so the que got a bit backed up'
+[Thu Sep 27 23:01:21 2001] You tell your party, 'what event?'
+[Thu Sep 27 23:01:34 2001] Agaden tells the group, 'horsie men invaded south karana'
+[Thu Sep 27 23:01:40 2001] You tell your party, 'cool'
+[Thu Sep 27 23:01:44 2001] Jerazol tells the group, 'thats another reason why i can't wait to be a full guide =)'
+[Thu Sep 27 23:01:46 2001] Jerazol tells the group, 'i love rp'
+[Thu Sep 27 23:01:49 2001] Agaden tells the group, 'hehe'
+[Thu Sep 27 23:02:04 2001] Agaden tells the group, 'I believe one or more of them got SPANKED by a ranger! hehe'
+[Thu Sep 27 23:02:07 2001] You tell your party, 'not a lot of RP in slaughtering players'
+[Thu Sep 27 23:02:18 2001] You feel the spirit of Norrath enter you.
+[Thu Sep 27 23:02:20 2001] Errantt says, 'Hail, Espranza'
+[Thu Sep 27 23:02:23 2001] Jerazol tells the group, 'no , but you don't have to kill players to have an event'
+[Thu Sep 27 23:02:27 2001] Errantt waves at Espranza.
+[Thu Sep 27 23:02:28 2001] You wave at Errantt.
+[Thu Sep 27 23:02:33 2001] You say, 'hiya!'
+[Thu Sep 27 23:02:38 2001] Errantt says, 'Hey there'
+[Thu Sep 27 23:02:42 2001] Errantt bows before Espranza.
+[Thu Sep 27 23:02:46 2001] You bow before Errantt.
+[Thu Sep 27 23:03:09 2001] You say, 'what brings a wolfie like yourself to a lonely place like this?'
+[Thu Sep 27 23:03:12 2001] Errantt regards you indifferently -- You could probably win this fight.
+[Thu Sep 27 23:03:13 2001] Agaden tells the group, 'I think the best event I have ever participated in was a gnome/elemental event in LOIO...was playing my pally and got WHOMPED a few times, but it was fun'
+[Thu Sep 27 23:03:25 2001] Errantt says, 'There are some nasty goblins lurking by those stone'
+[Thu Sep 27 23:03:34 2001] You say, 'ARE THERE?'
+[Thu Sep 27 23:03:36 2001] You panic at the sight of Errantt.
+[Thu Sep 27 23:03:38 2001] You no longer have a target.
+[Thu Sep 27 23:03:39 2001] You panic and scream.
+[Thu Sep 27 23:03:44 2001] Errantt says, 'I have to keep killing them...they won't stay dead'
+[Thu Sep 27 23:03:47 2001] Jerazol tells the group, 'I have been in a few, first one was the RoK release with mayong and the dragons'
+[Thu Sep 27 23:03:51 2001] You say, 'those nasty...'
+[Thu Sep 27 23:03:54 2001] Errantt says, 'Just keep coming back :)'
+[Thu Sep 27 23:03:55 2001] Agaden tells the group, 'want me to take that one jer or you want it?'
+[Thu Sep 27 23:04:02 2001] Jerazol tells the group, 'either way '
+[Thu Sep 27 23:04:12 2001] Jerazol tells the group, 'doesn't matter much to me =)'
+[Thu Sep 27 23:04:15 2001] You can no longer levitate.
+[Thu Sep 27 23:04:20 2001] You hug Errantt.
+[Thu Sep 27 23:04:22 2001] Agaden tells the group, 'heh, I was never fortunate enough to participate in any of the rok stuff....I alwasy JUST missed it! :('
+[Thu Sep 27 23:04:23 2001] You say, 'fellow haffer!'
+[Thu Sep 27 23:04:28 2001] Agaden tells the group, 'I will take the second one :)'
+[Thu Sep 27 23:04:31 2001] Errantt says, 'Hehe, furry-foot'
+[Thu Sep 27 23:04:34 2001] Jerazol tells the group, 'ok '
+[Thu Sep 27 23:04:36 2001] You cheer at Errantt.
+[Thu Sep 27 23:04:38 2001] Errantt begins to cast a spell. (Greater Wolf Form)
+[Thu Sep 27 23:04:38 2001] Jerazol GMSAYS, 'pulling mephiz'
+[Thu Sep 27 23:04:42 2001] Agaden GMSAYS, 'pulling Vhann'
+[Thu Sep 27 23:04:42 2001] Errantt claps his hands together - hurray!
+[Thu Sep 27 23:04:43 2001] Errantt turns into a wolf.
+[Thu Sep 27 23:05:09 2001] Errantt begins to cast a spell. (Ensnare)
+[Thu Sep 27 23:05:16 2001] Errantt begins to cast a spell. (Immolate)
+[Thu Sep 27 23:05:20 2001] You say, 'Where be these accursed goblins? I can try my blades on them'
+[Thu Sep 27 23:05:26 2001] Errantt begins to cast a spell. (Drones of Doom)
+[Thu Sep 27 23:05:30 2001] Errantt's casting is interrupted!
+[Thu Sep 27 23:05:37 2001] Agaden tells the group, 'esp, you a senior guide?'
+[Thu Sep 27 23:05:40 2001] You tell your party, 'no'
+[Thu Sep 27 23:06:14 2001] Agaden tells the group, 'ok, the one I pulled is regarding a special last name -- D'raed'
+[Thu Sep 27 23:06:15 2001] Errantt begins to cast a spell. (Combust)
+[Thu Sep 27 23:06:25 2001] You tell your party, 'have them repetition during Lirus's hours'
+[Thu Sep 27 23:06:31 2001] Agaden tells the group, 'okie'
+[Thu Sep 27 23:06:51 2001] You say, 'that one was just crazed'
+[Thu Sep 27 23:06:57 2001] You say, 'he needed help, not hurt!'
+[Thu Sep 27 23:07:03 2001] You say, 'a hug!'
+[Thu Sep 27 23:07:30 2001] Players in EverQuest:
+[Thu Sep 27 23:07:30 2001] ---------------------------
+[Thu Sep 27 23:07:30 2001] [35 Druid] Errantt (Halfling) <White Star Legion> ZONE: butcher (USER PID BZXQN8P)
+[Thu Sep 27 23:07:30 2001] There is 1 player in EverQuest.
+[Thu Sep 27 23:07:50 2001] Errantt says, 'I'll hug you....but not goblins'
+[Thu Sep 27 23:08:07 2001] Errantt says, 'He's all yours'
+[Thu Sep 27 23:08:13 2001] Jerazol tells the group, 'how do i get the loc of a corpse?'
+[Thu Sep 27 23:08:15 2001] You say, 'oh, I will leave him be'
+[Thu Sep 27 23:08:23 2001] You say, 'he seems such a sorry sort'
+[Thu Sep 27 23:08:23 2001] Jerazol tells the group, 'i did /sea but it didn't return with any coordiates'
+[Thu Sep 27 23:08:30 2001] Agaden tells the group, 'heh, someone just gave me sow'
+[Thu Sep 27 23:08:31 2001] You tell your party, 'why do you need to know the loc?'
+[Thu Sep 27 23:08:32 2001] Errantt says, 'I can try to hug one, but I don;t think they like that'
+[Thu Sep 27 23:08:49 2001] a crazed goblin scowls at you, ready to attack -- You could probably win this fight.
+[Thu Sep 27 23:08:50 2001] Errantt says, 'They're pretty mean :('
+[Thu Sep 27 23:08:59 2001] You say, 'yeah, they want to attack me1'
+[Thu Sep 27 23:09:11 2001] Jerazol tells the group, 'because someone petitioned about a lost corpse, trying to see if was stuck under the world , wait nm he just said why he can't get it'
+[Thu Sep 27 23:09:11 2001] Errantt says, 'Bad goblins!  Not nice!'
+[Thu Sep 27 23:09:22 2001] You say, 'luckily, Daddy Bristlebane shields me from their ire'
+[Thu Sep 27 23:09:36 2001] Espranza saved.
+[Thu Sep 27 23:09:51 2001] You tell your party, 'you can't investigate that, should esc to yellow'
+[Thu Sep 27 23:09:52 2001] Errantt says, 'Hmm, another crazed up.  You want to hug him or should i?'
+[Thu Sep 27 23:09:58 2001] You say, 'go ahead'
+[Thu Sep 27 23:10:02 2001] Glisse Bluesea shouts 'The Maiden's Voyage has departed the outpost at Firiona Vie.  Please be ready to board the shuttles shortly, if you desire to make the journey to Kunark. 
+[Thu Sep 27 23:10:04 2001] Jerazol tells the group, 'corpse isn't stuck , the guy is kos to guards'
+[Thu Sep 27 23:10:11 2001] You say, 'I'm actually not allowed to kill stuff'
+[Thu Sep 27 23:10:18 2001] You tell your party, 'ok'
+[Thu Sep 27 23:10:32 2001] You tell your party, 'not a bug, nothing we can do - they will have to ask a player for help.'
+[Thu Sep 27 23:10:39 2001] Jerazol tells the group, 'yep already told him =)'
+[Thu Sep 27 23:10:45 2001] Errantt says, 'Well, I hugged him..no reaction'
+[Thu Sep 27 23:10:47 2001] Jerazol tells the group, 'he said " but your a necro " lol'
+[Thu Sep 27 23:10:54 2001] Players in EverQuest:
+[Thu Sep 27 23:10:54 2001] ---------------------------
+[Thu Sep 27 23:10:54 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: butcher (USER PID AUGBQH4)
+[Thu Sep 27 23:10:54 2001] * Apprentice Guide *[20 Enchanter] Agaden (Gnome) ZONE: butcher (USER PID AQ0BWHV)
+[Thu Sep 27 23:10:54 2001] * Apprentice Guide *[20 Necromancer] Jerazol (Human) ZONE: qey2hh1 (USER PID FTJLMT9)
+[Thu Sep 27 23:10:54 2001] There are 3 players in EverQuest.
+[Thu Sep 27 23:10:57 2001] You tell your party, 'with no spells :)'
+[Thu Sep 27 23:11:16 2001] Errantt begins to cast a spell. (Ensnare)
+[Thu Sep 27 23:11:23 2001] Errantt begins to cast a spell. (Immolate)
+[Thu Sep 27 23:11:32 2001] Errantt begins to cast a spell. (Drones of Doom)
+[Thu Sep 27 23:11:37 2001] Agaden tells the group, 'they do not tell you in the guide guides that you do not get any spells...otherwise, I would have chosen an ogre! hehe'
+[Thu Sep 27 23:11:49 2001] You tell your party, 'it was a shock to me'
+[Thu Sep 27 23:12:07 2001] You tell your party, 'I originally chose a cleric avatar because I thought the healing and rez spells would be useful'
+[Thu Sep 27 23:12:15 2001] You tell your party, 'I'm a rogue now :)'
+[Thu Sep 27 23:12:24 2001] Errantt begins to cast a spell. (Combust)
+[Thu Sep 27 23:12:27 2001] Agaden GMSAYS, 'deleting Vhann'
+[Thu Sep 27 23:12:28 2001] A crazed goblin's skin combusts.
+[Thu Sep 27 23:12:28 2001] a crazed goblin has been slain by Errantt!
+[Thu Sep 27 23:12:43 2001] Agaden tells the group, 'wow, all of sudden, there are petitions :)'
+[Thu Sep 27 23:12:52 2001] Errantt says, 'Noticing your name, do you speak Spanish?'
+[Thu Sep 27 23:13:03 2001] You say, 'no I don't, actually'
+[Thu Sep 27 23:13:03 2001] Agaden tells the group, 'heh, my main play character is a chanter..gnome infact..I love him!'
+[Thu Sep 27 23:13:10 2001] You say, 'a little german, some japanese is all'
+[Thu Sep 27 23:13:11 2001] Agaden GMSAYS, 'pulling Arrelon'
+[Thu Sep 27 23:13:13 2001] Jerazol tells the group, 'mines a ranger'
+[Thu Sep 27 23:13:18 2001] Jerazol tells the group, 'treehugger love =)'
+[Thu Sep 27 23:13:18 2001] Errantt says, 'You know what Esperanza means, right?'
+[Thu Sep 27 23:13:23 2001] You say, 'yup'
+[Thu Sep 27 23:13:26 2001] Agaden tells the group, 'hehe'
+[Thu Sep 27 23:13:30 2001] Errantt says, 'OK, just checking :)'
+[Thu Sep 27 23:13:36 2001] You say, 'I knew when I chose it :)'
+[Thu Sep 27 23:13:45 2001] You say, 'I wanted to choose one of the seven virtues'
+[Thu Sep 27 23:13:46 2001] Errantt says, 'That was my grandmother's name'
+[Thu Sep 27 23:13:50 2001] You say, 'but not the english names'
+[Thu Sep 27 23:13:50 2001] Earion tells you, 'Would you be the right person to talk to about the fact that there are skeleton guards running around the paineel newbie area killing everything?'
+[Thu Sep 27 23:13:57 2001] Jerazol GMSAYS, 'mephiz out'
+[Thu Sep 27 23:14:07 2001] You told Earion, 'I'll check it out...'
+[Thu Sep 27 23:14:08 2001] Jerazol GMSAYS, 'pulling pachunhwang'
+[Thu Sep 27 23:14:09 2001] You GMSAY, 'zone'
+[Thu Sep 27 23:14:21 2001] You say, 'must run!'
+[Thu Sep 27 23:14:24 2001] You say, 'see ya!'
+[Thu Sep 27 23:14:27 2001] You GMSAY, 'really zone'
+[Thu Sep 27 23:14:28 2001] Errantt waves goodbye to Espranza.
+[Thu Sep 27 23:14:29 2001] You wave goodbye to Errantt.
+[Thu Sep 27 23:14:32 2001] Jerazol tells the group, 'is that name in violation?'
+[Thu Sep 27 23:14:33 2001] Errantt says, 'Take care'
+[Thu Sep 27 23:14:37 2001] You feel the spirit of Z surround you.
+[Thu Sep 27 23:14:38 2001] You feel the spirit of Z surround you.
+[Thu Sep 27 23:14:39 2001] LOADING, PLEASE WAIT...
+[Thu Sep 27 23:15:06 2001] You have entered Paineel.
+[Thu Sep 27 23:15:07 2001] You have formed the group.
+[Thu Sep 27 23:15:40 2001] You tell your party, 'exmortis is a phrase ("from death"), pachinhwang is... who knows? Maybe means something in Chinese'
+[Thu Sep 27 23:15:54 2001] an undead rat has been slain by Guard Lecknar!
+[Thu Sep 27 23:16:03 2001] an undead rat has been slain by Guard Lecknar!
+[Thu Sep 27 23:16:06 2001] a decaying skeleton says 'Arrrreeeee! 
+[Thu Sep 27 23:16:09 2001] Jerazol tells the group, 'just wondring cause it looks kind of like punchunwang lol'
+[Thu Sep 27 23:16:29 2001] Agaden tells the group, 'anyone know who lodizal in iceclad is?  is it a dragon?'
+[Thu Sep 27 23:16:36 2001] You tell your party, 'a giant turtle'
+[Thu Sep 27 23:16:37 2001] Jerazol tells the group, 'punch you in wang * shrugs* just looked like it to me  , but it's probably just a chinese thing'
+[Thu Sep 27 23:16:39 2001] Jerazol tells the group, 'no he's a turtle'
+[Thu Sep 27 23:16:43 2001] Jerazol tells the group, 'be the trouble tonight?'
+[Thu Sep 27 23:17:03 2001] a decaying skeleton says 'Arrrreeeee! 
+[Thu Sep 27 23:17:03 2001] a decaying skeleton has been slain by Guard Korlack!
+[Thu Sep 27 23:17:04 2001] a pack rat has been slain by Guard Lecknar!
+[Thu Sep 27 23:17:17 2001] a moss snake has been slain by Guard Lecknar!
+[Thu Sep 27 23:17:19 2001] a black bat has been slain by Guard Korlack!
+[Thu Sep 27 23:17:22 2001] a black bat has been slain by Guard Korlack!
+[Thu Sep 27 23:17:32 2001] a decaying skeleton says 'Arrrreeeee! 
+[Thu Sep 27 23:17:32 2001] a decaying skeleton has been slain by Guard Lecknar!
+[Thu Sep 27 23:17:32 2001] Xylase begins to cast a spell. (Lifetap)
+[Thu Sep 27 23:17:35 2001] a decaying skeleton says 'Arrrreeeee! 
+[Thu Sep 27 23:17:35 2001] a decaying skeleton has been slain by Guard Lecknar!
+[Thu Sep 27 23:17:35 2001] Guard Korlack blinks a few times.
+[Thu Sep 27 23:17:36 2001] Guard Korlack blinks a few times.
+[Thu Sep 27 23:17:36 2001] You can't use that command right now...
+[Thu Sep 27 23:17:36 2001] Guard Korlack blinks a few times.
+[Thu Sep 27 23:17:36 2001] Xylase begins to cast a spell. (Lifetap)
+[Thu Sep 27 23:17:36 2001] Guard Korlack blinks a few times.
+[Thu Sep 27 23:17:37 2001] Guard Korlack blinks a few times.
+[Thu Sep 27 23:17:37 2001] Guard Korlack blinks a few times.
+[Thu Sep 27 23:17:38 2001] Guard Korlack blinks a few times.
+[Thu Sep 27 23:17:39 2001] You cannot see your target.
+[Thu Sep 27 23:17:39 2001] You cannot see your target.
+[Thu Sep 27 23:17:39 2001] You cannot see your target.
+[Thu Sep 27 23:17:40 2001] You cannot see your target.
+[Thu Sep 27 23:17:40 2001] Guard Korlack blinks a few times.
+[Thu Sep 27 23:17:40 2001] Guard Korlack blinks a few times.
+[Thu Sep 27 23:17:42 2001] a decaying skeleton says 'Arrrreeeee! 
+[Thu Sep 27 23:17:43 2001] a decaying skeleton has been slain by Guard Lecknar!
+[Thu Sep 27 23:17:43 2001] You cannot see your target.
+[Thu Sep 27 23:17:43 2001] You cannot see your target.
+[Thu Sep 27 23:17:46 2001] a black bat has been slain by Guard Lecknar!
+[Thu Sep 27 23:17:48 2001] Your target is out of range, get closer!
+[Thu Sep 27 23:17:48 2001] Your target is out of range, get closer!
+[Thu Sep 27 23:17:49 2001] Your target is out of range, get closer!
+[Thu Sep 27 23:17:49 2001] Your target is out of range, get closer!
+[Thu Sep 27 23:17:49 2001] Your target is out of range, get closer!
+[Thu Sep 27 23:17:49 2001] Your target is out of range, get closer!
+[Thu Sep 27 23:17:51 2001] Your target is out of range, get closer!
+[Thu Sep 27 23:17:52 2001] a fire beetle has been slain by Guard Lecknar!
+[Thu Sep 27 23:17:56 2001] a black bat has been slain by Guard Lecknar!
+[Thu Sep 27 23:17:56 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:17:56 2001] You can't use that command right now...
+[Thu Sep 27 23:17:56 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:17:57 2001] You can't use that command right now...
+[Thu Sep 27 23:17:57 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:17:57 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:17:58 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:17:58 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:18:00 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:18:06 2001] a pack rat has been slain by Guard Lecknar!
+[Thu Sep 27 23:18:07 2001] Agaden GMSAYS, 'escalating Arrelon, Lodizal had him for breakfast and now he is stuck under the world'
+[Thu Sep 27 23:18:09 2001] a black bat has been slain by Guard Lecknar!
+[Thu Sep 27 23:18:12 2001] a black bat has been slain by Guard Lecknar!
+[Thu Sep 27 23:18:14 2001] Guard Lecknar feels a bit dispelled.
+[Thu Sep 27 23:18:21 2001] a decaying skeleton says 'Arrrreeeee! 
+[Thu Sep 27 23:18:21 2001] It begins to rain.
+[Thu Sep 27 23:18:24 2001] Agaden GMSAYS, 'pulling Exmortis'
+[Thu Sep 27 23:18:24 2001] Jerazol tells the group, 'ack'
+[Thu Sep 27 23:18:28 2001] Guard Lecknar slashes YOU for 2 points of damage.
+[Thu Sep 27 23:18:29 2001] Guard Lecknar bashes YOU for 1 point of damage.
+[Thu Sep 27 23:18:35 2001] a fire beetle has been slain by Guard Lecknar!
+[Thu Sep 27 23:18:50 2001] Guard Lecknar slashes YOU for 2 points of damage.
+[Thu Sep 27 23:18:53 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:18:53 2001] You can't use that command right now...
+[Thu Sep 27 23:18:53 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:18:54 2001] Guard Lecknar scowls at you, ready to attack -- You could probably win this fight.
+[Thu Sep 27 23:18:54 2001] a fire beetle has been slain by Guard Lecknar!
+[Thu Sep 27 23:18:57 2001] a moss snake has been slain by Guard Lecknar!
+[Thu Sep 27 23:19:00 2001] You can't use that command right now...
+[Thu Sep 27 23:19:00 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:00 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:01 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:01 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:01 2001] You can't use that command right now...
+[Thu Sep 27 23:19:01 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:02 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:02 2001] a moss snake has been slain by Guard Lecknar!
+[Thu Sep 27 23:19:02 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:03 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:03 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:03 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:04 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:04 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:04 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:04 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:05 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:05 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:06 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:06 2001] You can't use that command right now...
+[Thu Sep 27 23:19:06 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:07 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:07 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:08 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:09 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:09 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:09 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:10 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:11 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:11 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:12 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:12 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:14 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:15 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:16 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:18 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:19 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:19 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:22 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:23 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:23 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:26 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:26 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:27 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:27 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:28 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:28 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:29 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:30 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:31 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:32 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:34 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:35 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:36 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:38 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:39 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:39 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:39 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:40 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:42 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:43 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:43 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:44 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:47 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:47 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:47 2001] You can't use that command right now...
+[Thu Sep 27 23:19:47 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:48 2001] You can't use that command right now...
+[Thu Sep 27 23:19:48 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:51 2001] You can't use that command right now...
+[Thu Sep 27 23:19:51 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:51 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:51 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:52 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:52 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:53 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:54 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:54 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:55 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:55 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:56 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:57 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:57 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:58 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:59 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:19:59 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:00 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:01 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:01 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:02 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:02 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:03 2001] You can't use that command right now...
+[Thu Sep 27 23:20:03 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:03 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:04 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:04 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:04 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:05 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:06 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:07 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:07 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:07 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:07 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:08 2001] You can't use that command right now...
+[Thu Sep 27 23:20:08 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:08 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:09 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:10 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:11 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:11 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:11 2001] Guard Lecknar blinks a few times.
+[Thu Sep 27 23:20:12 2001] Jerazol GMSAYS, 'do corrupted's always pop off of tainted?'
+[Thu Sep 27 23:20:16 2001] You GMSAY, 'no'
+[Thu Sep 27 23:20:22 2001] a black bat has been slain by Guard Lecknar!
+[Thu Sep 27 23:20:25 2001] a black bat has been slain by Guard Lecknar!
+[Thu Sep 27 23:20:43 2001] Jerazol GMSAYS, 'ok because this guy was saying he killed alot of tainted and didn't get a corrupted'
+[Thu Sep 27 23:20:58 2001] You GMSAY, '<note> The two newbie field guards in Paineel are running around killing everything; not normal behavior, couldn't get them to reset, killing them'
+[Thu Sep 27 23:21:03 2001] Killing Guard_Lecknar00.
+[Thu Sep 27 23:21:10 2001] Killing Guard_Korlack00.
+[Thu Sep 27 23:21:22 2001] You GMSAY, 'which mob?'
+[Thu Sep 27 23:21:31 2001] Jerazol GMSAYS, 'corrupted goblin'
+[Thu Sep 27 23:21:32 2001] Xylase says, 'cool~'
+[Thu Sep 27 23:21:41 2001] Jerazol GMSAYS, 'just tell him to keep killing the tainted?'
+[Thu Sep 27 23:21:47 2001] Jerazol GMSAYS, 'or ask other players?'
+[Thu Sep 27 23:21:52 2001] You GMSAY, 'ask other players'
+[Thu Sep 27 23:21:59 2001] You GMSAY, 'we try not to give out info on epic quests'
+[Thu Sep 27 23:22:05 2001] Azzar Habbib begins to cast a spell. (Banshee Aura)
+[Thu Sep 27 23:22:19 2001] You GMSAY, 'tell him it doesn't sound broken'
+[Thu Sep 27 23:22:23 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 27 23:22:23 2001] USER TEXT: I am stuck under the zone after dying to Lodizal in Iceclad near tower of frozewn shadows
+[Thu Sep 27 23:22:24 2001] Players in EverQuest:
+[Thu Sep 27 23:22:24 2001] ---------------------------
+[Thu Sep 27 23:22:24 2001] [ANON (51 Cavalier)] Arrelon (Human) ZONE: qeynos2 (USER PID GT2GG95)
+[Thu Sep 27 23:22:24 2001] There is 1 player in EverQuest.
+[Thu Sep 27 23:22:51 2001] You told Arrelon, 'Hail, Arrelon! Guide Espranza here. You are stuck beneath the world in North Qeynos?'
+[Thu Sep 27 23:23:10 2001] Jerazol GMSAYS, 'yeah he said he killed 9 tainteds , but I know how uncommon some spawns can be =)'
+[Thu Sep 27 23:23:10 2001] You no longer have a target.
+[Thu Sep 27 23:23:25 2001] You GMSAY, 'my main was a druid and that camp was among the worst'
+[Thu Sep 27 23:23:36 2001] Blackangus says out of character, 'looking for a bind at warrens zone paying 5 pp )'
+[Thu Sep 27 23:23:55 2001] Jerazol tells the group, 'ahh , one of my guildies just needs fey , and the seahorse =)'
+[Thu Sep 27 23:24:05 2001] You tell your party, 'fey was a fun fight'
+[Thu Sep 27 23:24:18 2001] You tell your party, 'one minute, no deaths at all'
+[Thu Sep 27 23:24:27 2001] You tell your party, 'we were so prepared'
+[Thu Sep 27 23:25:00 2001] Jerazol tells the group, 'I haven't started my epics yet, but i have a few peices of it already'
+[Thu Sep 27 23:25:08 2001] Agaden tells the group, 'esp, do not worry about Arrelon, he just told me that the forces holding him beneath the world have grown tired and let him go'
+[Thu Sep 27 23:25:10 2001] Espranza saved.
+[Thu Sep 27 23:25:12 2001] You tell your party, 'warrior is my next one'
+[Thu Sep 27 23:25:19 2001] You tell your party, 'okay :) had just pulled it'
+[Thu Sep 27 23:25:23 2001] DELETING THIS PETITION
+[Thu Sep 27 23:25:38 2001] You tell your party, 'Simplesimon - good name or bad name?'
+[Thu Sep 27 23:26:33 2001] Jerazol GMSAYS, 'pachunhwang out'
+[Thu Sep 27 23:26:37 2001] Xylase begins to cast a spell. (Lifetap)
+[Thu Sep 27 23:26:45 2001] Jerazol GMSAYS, 'pulling elfaran'
+[Thu Sep 27 23:26:49 2001] Xylase begins to cast a spell. (Lifetap)
+[Thu Sep 27 23:27:14 2001] Agaden tells the group, '<note feeback> cust suggesting (and I) that the area where hotkeys appear on full screen mode be "deadened" to mouse clicks.'
+[Thu Sep 27 23:28:04 2001] Agaden GMSAYS, 'deleting Exmortis, logged to feedback'
+[Thu Sep 27 23:28:09 2001] Jerazol tells the group, 'what do we do about illegal operations kicks?'
+[Thu Sep 27 23:28:19 2001] You tell your party, 'note it as a bug'
+[Thu Sep 27 23:28:27 2001] You tell your party, 'unless you know how to fix it'
+[Thu Sep 27 23:28:32 2001] Agaden GMSAYS, 'pulling Simplesimon...did we decide that was a bad name?'
+[Thu Sep 27 23:28:36 2001] You tell your party, 'and refer them to tech support'
+[Thu Sep 27 23:28:42 2001] You GMSAY, 'it is'
+[Thu Sep 27 23:28:46 2001] You GMSAY, 'please report it as such'
+[Thu Sep 27 23:28:53 2001] Agaden tells the group, 'gotcha'
+[Thu Sep 27 23:28:59 2001] Azzar Habbib begins to cast a spell. (Banshee Aura)
+[Thu Sep 27 23:29:03 2001] Jerazol tells the group, 'he said one of his characters keeps getting illegal operations kicked , but he can log as an alt, try and have him delete the zone and repatch?'
+[Thu Sep 27 23:29:16 2001] Agaden tells the group, 'that would be a good suggestion'
+[Thu Sep 27 23:29:20 2001] You tell your party, 'yeah'
+[Thu Sep 27 23:29:30 2001] You tell your party, 'and if that doesn't work, move the character options file'
+[Thu Sep 27 23:29:54 2001] Agaden tells the group, 'okie, mr simplesimon is angered that the dragoons in OT are ksing him :)'
+[Thu Sep 27 23:30:10 2001] You tell your party, 'he should fight away from where they go...'
+[Thu Sep 27 23:30:15 2001] You tell your party, 'not a bug though'
+[Thu Sep 27 23:30:31 2001] Agaden tells the group, 'I know, I cannot TELL you how many times that has happened to me'
+[Thu Sep 27 23:30:35 2001] Agaden tells the group, '*($&)$@&$#( dragoons'
+[Thu Sep 27 23:30:38 2001] You tell your party, 'heh'
+[Thu Sep 27 23:30:57 2001] Jerazol GMSAYS, 'elfaran out'
+[Thu Sep 27 23:31:14 2001] Jerazol GMSAYS, 'phew it's getting late, think i'm going to head to sleep'
+[Thu Sep 27 23:31:19 2001] Jerazol GMSAYS, 'night all'
+[Thu Sep 27 23:31:36 2001] Agaden GMSAYS, 'nite jer'
+[Thu Sep 27 23:31:54 2001] Jerazol GMSAYS, 'also I got my guide site info fixed so i'll post my report now =)'
+[Thu Sep 27 23:32:04 2001] Jerazol has left the group.
+[Thu Sep 27 23:32:19 2001] Agaden GMSAYS, '<note badnames> Simplesimon GYK6XRG'
+[Thu Sep 27 23:32:26 2001] You GMSAY, 'night Jer!'
+[Thu Sep 27 23:32:30 2001] Players in EverQuest:
+[Thu Sep 27 23:32:30 2001] ---------------------------
+[Thu Sep 27 23:32:30 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: paineel (USER PID AUGBQH4)
+[Thu Sep 27 23:32:30 2001] * Apprentice Guide *[20 Enchanter] Agaden (Gnome) ZONE: butcher (USER PID AQ0BWHV)
+[Thu Sep 27 23:32:30 2001] There are 2 players in EverQuest.
+[Thu Sep 27 23:32:34 2001] It is 9 AM on Saturday, the 28th day of June, of the year 3214.
+[Thu Sep 27 23:32:34 2001] Earth Time: Thu Sep 27 23:32:34 2001
+[Thu Sep 27 23:35:19 2001] Espranza saved.
+[Thu Sep 27 23:35:36 2001] Agaden GMSAYS, 'deleting Simplesimon, handled'
+[Thu Sep 27 23:35:47 2001] Agaden GMSAYS, 'pulling Autry'
+[Thu Sep 27 23:38:13 2001] Agaden tells the group, 'this pet is asking if you would lose your quest items if you turn in more than is required...he/she gave two melatite bars where 1 was required, and nothing happened'
+[Thu Sep 27 23:38:56 2001] The spirit leaves you.
+[Thu Sep 27 23:39:39 2001] Agaden tells the group, 'this pet is asking if you would lose your quest items if you turn in more than is required...he/she gave two melatite bars where 1 was required, and nothing happened'
+[Thu Sep 27 23:40:18 2001] You tell your party, 'ah'
+[Thu Sep 27 23:40:29 2001] Agaden tells the group, 'think that would be a bug?'
+[Thu Sep 27 23:40:31 2001] You tell your party, 'we don't reimburse for incorrectly performed quest'
+[Thu Sep 27 23:40:37 2001] Agaden tells the group, 'ok'
+[Thu Sep 27 23:40:46 2001] Players in EverQuest:
+[Thu Sep 27 23:40:46 2001] ---------------------------
+[Thu Sep 27 23:40:46 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: paineel (USER PID AUGBQH4)
+[Thu Sep 27 23:40:46 2001] * Apprentice Guide *[20 Enchanter] Agaden (Gnome) ZONE: butcher (USER PID AQ0BWHV)
+[Thu Sep 27 23:40:46 2001] There are 2 players in EverQuest.
+[Thu Sep 27 23:40:47 2001] Players on EverQuest:
+[Thu Sep 27 23:40:47 2001] ---------------------------
+[Thu Sep 27 23:40:47 2001] [2 Necromancer] Xylase (Erudite)
+[Thu Sep 27 23:40:47 2001] [8 Necromancer] Earion (Erudite)
+[Thu Sep 27 23:40:47 2001] [1 Shadow Knight] Namient (Erudite)
+[Thu Sep 27 23:40:47 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Sep 27 23:40:47 2001] There are 4 players in Paineel.
+[Thu Sep 27 23:40:54 2001] You feel the spirit of Norrath enter you.
+[Thu Sep 27 23:40:57 2001] Players on EverQuest:
+[Thu Sep 27 23:40:57 2001] ---------------------------
+[Thu Sep 27 23:40:57 2001] [2 Necromancer] Xylase (Erudite)
+[Thu Sep 27 23:40:57 2001] [8 Necromancer] Earion (Erudite)
+[Thu Sep 27 23:40:57 2001] [1 Shadow Knight] Namient (Erudite)
+[Thu Sep 27 23:40:57 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Thu Sep 27 23:40:57 2001] There are 4 players in Paineel.
+[Thu Sep 27 23:41:03 2001] Agaden tells the group, 'so if you give the incorrect stuff, you lost it, correct?'
+[Thu Sep 27 23:41:07 2001] You tell your party, 'yup'
+[Thu Sep 27 23:41:15 2001] Agaden tells the group, 'okie'
+[Thu Sep 27 23:44:05 2001] Agaden GMSAYS, 'deleting Autry, handled'
+[Thu Sep 27 23:45:02 2001] Agaden tells the group, 'I am going to pull one more then I shall have to log, Esp :('
+[Thu Sep 27 23:45:11 2001] Agaden GMSAYS, 'pulling Ealin'
+[Thu Sep 27 23:45:28 2001] Espranza saved.
+[Thu Sep 27 23:45:31 2001] Agaden GMSAYS, 'Is the silent watch quest broke?'
+[Thu Sep 27 23:45:53 2001] You tell your party, 'okay'
+[Thu Sep 27 23:46:00 2001] Ridge tells you, 'hello, you're a guide. just letting you know that i petitioned with a problem, but please disregard it.'
+[Thu Sep 27 23:46:01 2001] You tell your party, 'silent watch? which quest is that?'
+[Thu Sep 27 23:46:12 2001] You told Ridge, 'okay'
+[Thu Sep 27 23:46:12 2001] Agaden tells the group, 'heh, was hoping you knew! lol'
+[Thu Sep 27 23:46:14 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 27 23:46:14 2001] USER TEXT: umm....maybe someone could help me, im having corpse difficulties
+[Thu Sep 27 23:46:15 2001] Players in EverQuest:
+[Thu Sep 27 23:46:15 2001] ---------------------------
+[Thu Sep 27 23:46:15 2001] [18 Ranger] Ridge (Half Elf) <Disciples of Discipline> ZONE: eastkarana (USER PID DPMLCVH)
+[Thu Sep 27 23:46:15 2001] There is 1 player in EverQuest.
+[Thu Sep 27 23:46:17 2001] DELETING THIS PETITION
+[Thu Sep 27 23:46:23 2001] You tell your party, 'I guess I don't know, then'
+[Thu Sep 27 23:46:29 2001] It is 2 PM on Saturday, the 28th day of June, of the year 3214.
+[Thu Sep 27 23:46:29 2001] Earth Time: Thu Sep 27 23:46:29 2001
+[Thu Sep 27 23:46:40 2001] You GMSAY, 'zone'
+[Thu Sep 27 23:46:43 2001] You begin casting Sunset Home. (Sunset Home)
+[Thu Sep 27 23:46:43 2001] Your Belt of Translocation begins to glow.
+[Thu Sep 27 23:46:44 2001] LOADING, PLEASE WAIT...
+[Thu Sep 27 23:47:04 2001] You have entered Sunset Home.
+[Thu Sep 27 23:47:04 2001] You have formed the group.
+[Thu Sep 27 23:50:20 2001] Agaden GMSAYS, 'deleting Ealin, handled'
+[Thu Sep 27 23:50:53 2001] Agaden tells the group, 'ok esp, have a good night!'
+[Thu Sep 27 23:51:08 2001] Agaden GMSAYS, 'good night anyone else who might be eavesdropping! hehe'
+[Thu Sep 27 23:51:22 2001] You GMSAY, 'night Aga!'
+[Thu Sep 27 23:51:29 2001] It is 4 PM on Saturday, the 28th day of June, of the year 3214.
+[Thu Sep 27 23:51:29 2001] Earth Time: Thu Sep 27 23:51:29 2001
+[Thu Sep 27 23:51:36 2001] Players in EverQuest:
+[Thu Sep 27 23:51:36 2001] ---------------------------
+[Thu Sep 27 23:51:36 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Thu Sep 27 23:51:36 2001] * Apprentice Guide *[20 Enchanter] Agaden (Gnome) ZONE: butcher (USER PID AQ0BWHV)
+[Thu Sep 27 23:51:36 2001] There are 2 players in EverQuest.
+[Thu Sep 27 23:51:48 2001] Your group has been disbanded.
+[Thu Sep 27 23:52:46 2001] RETRIEVING PETITION...PLEASE WAIT
+[Thu Sep 27 23:52:47 2001] USER TEXT: i can log on all of my characters except one, my primary. he is a 45 lvl druid named starewolfe sixstepe. can you pleas tell me why?
+[Thu Sep 27 23:52:47 2001] Players in EverQuest:
+[Thu Sep 27 23:52:47 2001] ---------------------------
+[Thu Sep 27 23:52:47 2001] [31 Ranger] Vinnie (Wood Elf) <Guardians of the Dawn> ZONE: gfaydark (USER PID DX57DW6)
+[Thu Sep 27 23:52:47 2001] There is 1 player in EverQuest.
+[Thu Sep 27 23:53:42 2001] You told Vinnie, 'Hail, Vinnie! Guide Espranza here. You may have a corrupt zone file. Which zone is he in?'
+[Thu Sep 27 23:54:28 2001] Vinnie tells you, 'last he was seen i was tping him from butcher to steamfont'
+[Thu Sep 27 23:54:52 2001] You told Vinnie, 'can any of your other charcters go to those two zones?'
+[Thu Sep 27 23:55:03 2001] Siral tells you, 'I need help .. im lonely'
+[Thu Sep 27 23:55:11 2001] Vinnie tells you, 'let me try. give me 5'
+[Thu Sep 27 23:55:14 2001] You told Vinnie, 'okay'
+[Thu Sep 27 23:55:23 2001] You told Siral, 'Hmmm... how can I help?'
+[Thu Sep 27 23:55:28 2001] STATUS UPGRADED TO URGENT
+[Thu Sep 27 23:55:29 2001] CHECKING IN
+[Thu Sep 27 23:55:37 2001] Siral tells you, 'come visit if your not doing any pets'
+[Thu Sep 27 23:56:36 2001] Players in EverQuest:
+[Thu Sep 27 23:56:36 2001] ---------------------------
+[Thu Sep 27 23:56:36 2001] [1 Rogue] Siral (Wood Elf) ZONE: gfaydark (USER PID FRXX85L)
+[Thu Sep 27 23:56:36 2001] There is 1 player in EverQuest.
+[Thu Sep 27 23:56:46 2001] You told Siral, 'ah, I have to finish up my shift...'
+[Thu Sep 27 23:57:10 2001] Espranza saved.
+[Thu Sep 27 23:57:18 2001] You told Siral, 'LARIS'
+[Thu Sep 27 23:57:20 2001] You told Siral, 'nm!'
+[Thu Sep 27 23:57:21 2001] You told Siral, 'brt'
+[Thu Sep 27 23:57:27 2001] You told Siral, 'sorry!'
+[Thu Sep 27 23:57:29 2001] You GMSAY, 'zone'
+[Thu Sep 27 23:57:34 2001] Teleporting to siral.
+[Thu Sep 27 23:57:34 2001] LOADING, PLEASE WAIT...
+[Thu Sep 27 23:58:21 2001] You have entered Greater Faydark.
+[Thu Sep 27 23:58:34 2001] You bow before Siral.
+[Thu Sep 27 23:58:38 2001] Siral bows before Espranza.
+[Thu Sep 27 23:58:49 2001] Siral invites you to join a group.
+[Thu Sep 27 23:58:49 2001] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Thu Sep 27 23:58:50 2001] You told Siral, 'so which realm did you choose?'
+[Thu Sep 27 23:58:51 2001] You cancel the invitation to join Siral's group.
+[Thu Sep 27 23:59:05 2001] You told Siral, 'can't group with players :/'
+[Thu Sep 27 23:59:05 2001] Siral tells you, 'have one in each'
+[Thu Sep 27 23:59:07 2001] Illbane says out of character, 'CB train cleared'
+[Thu Sep 27 23:59:09 2001] Siral tells you, 'ok'
+[Thu Sep 27 23:59:42 2001] Siral tells you, 'viking in mitgard  level 5 thane'
+[Thu Sep 27 23:59:43 2001] Stiglay auctions, 'WTS Ry'Gorr Chain Gloves - AC12 STR +2 CHA +1 HP5'
+[Thu Sep 27 23:59:45 2001] You told Siral, 'well... the ones I am best with are Albion and Midgard'
+[Thu Sep 27 23:59:51 2001] Stiglay auctions, 'WTS mammoth hide leggings'
+[Fri Sep 28 00:00:01 2001] Guzhan auctions, 'WTS batwing 2 stacks  = 3pp'
+[Fri Sep 28 00:00:02 2001] Siral tells you, 'have rogue in albion'
+[Fri Sep 28 00:00:04 2001] You told Siral, 'oh, he would work well with my healer the'
+[Fri Sep 28 00:00:11 2001] Siral tells you, 'but not much more then level 3'
+[Fri Sep 28 00:00:31 2001] You told Siral, 'where in Midgard?'
+[Fri Sep 28 00:00:49 2001] You told Siral, 'bound in Auditen but I think I am camped at the guard tower in the Vale of Mularn'
+[Fri Sep 28 00:00:53 2001] Siral tells you, 'still in veshional or what ever the long named city is'
+[Fri Sep 28 00:01:01 2001] You told Siral, 'oh, that's nearby'
+[Fri Sep 28 00:01:29 2001] Siral tells you, 'where i started from pretty much still'
+[Fri Sep 28 00:01:47 2001] You told Siral, 'was grouped with a thane killing red and purple to me hill cats - just us two. Harrowing!'
+[Fri Sep 28 00:02:16 2001] Wooldar shouts, 'giving away keys for slaves at orc lift.. leaving home and not planning on being back soon.'
+[Fri Sep 28 00:02:35 2001] Siral tells you, 'grouped with a rogue   we did well doing orange '
+[Fri Sep 28 00:02:56 2001] You told Siral, 'yeah, they DAoC PvE game is pretty easy anyway'
+[Fri Sep 28 00:03:09 2001] Noclaf auctions, 'WTB bloodstained mantle'
+[Fri Sep 28 00:03:13 2001] Noclaf auctions, 'WTS batwingstacks 2pp'
+[Fri Sep 28 00:03:13 2001] Siral tells you, 'yea   almost to easy'
+[Fri Sep 28 00:03:20 2001] You told Siral, 'made me bored in B3'
+[Fri Sep 28 00:03:32 2001] Siral tells you, 'did some quests.   one ws for weapon  others for reward'
+[Fri Sep 28 00:03:46 2001] You told Siral, 'leveld from 5 to 8 last night in just an hour or so'
+[Fri Sep 28 00:03:51 2001] Pelar shouts, 'lvl 8 and lvl 7 tanks looking for more members'
+[Fri Sep 28 00:03:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Sep 28 00:03:59 2001] USER TEXT: is the silent watch quest broke still
+[Fri Sep 28 00:03:59 2001] Players in EverQuest:
+[Fri Sep 28 00:03:59 2001] ---------------------------
+[Fri Sep 28 00:03:59 2001] [30 Paladin] Ealin (High Elf) ZONE: ecommons (USER PID HQKFSHW)
+[Fri Sep 28 00:03:59 2001] There is 1 player in EverQuest.
+[Fri Sep 28 00:04:01 2001] Siral tells you, 'then your not much higher then my thane'
+[Fri Sep 28 00:04:06 2001] You told Siral, 'not really'
+[Fri Sep 28 00:04:18 2001] You told Siral, 'I just started in Midgard because I have some friends there from EQ'
+[Fri Sep 28 00:04:48 2001] Siral tells you, 'hehe havent told my guild im in beta.. we have someone in our guild who was hired to work for mystic'
+[Fri Sep 28 00:05:00 2001] You told Ealin, 'Hail, Ealin! Guide Espranza here. I'm afraid I'm not familiar with the quest - but if you email eqtest@station.sony.com, they may be able to test it for you.'
+[Fri Sep 28 00:05:16 2001] You told Siral, 'Me, too'
+[Fri Sep 28 00:05:22 2001] You told Siral, 'I mean, someone in my guild'
+[Fri Sep 28 00:05:26 2001] You told Siral, 'not me personally'
+[Fri Sep 28 00:05:30 2001] Ealin tells you, 'thats the quest in lake rathire with the royal fish'
+[Fri Sep 28 00:05:48 2001] You told Ealin, 'oh, that one. I don't know if it's still broken.'
+[Fri Sep 28 00:05:50 2001] Siral tells you, 'cant play DAoC tomorrow nite..  hate raid. but will be on in the day time and after the raid if its not to late'
+[Fri Sep 28 00:06:10 2001] You told Siral, 'I can be on part of the day, I can look you up'
+[Fri Sep 28 00:06:17 2001] You told Siral, 'mostly been playing my cleric'
+[Fri Sep 28 00:06:20 2001] Ealin tells you, 'i've benn waiting about 2 months for it to get fixed me and my friends really want to finish it'
+[Fri Sep 28 00:06:24 2001] You told Siral, 'almost 21 in about two weeks'
+[Fri Sep 28 00:06:26 2001] Siral tells you, 'charactor name is Theygard'
+[Fri Sep 28 00:06:36 2001] Fidelitie auctions, 'wts stack of bonechips and batwings send tell'
+[Fri Sep 28 00:06:40 2001] Ealin tells you, 'do you know whatthe shield looks like when equiped'
+[Fri Sep 28 00:06:46 2001] Starborn tells you, 'am vinnie sixstep and starwolfe sixstepe's other character. i did indeed crash when i tried to go to steamfont. should i reinstall everquest?'
+[Fri Sep 28 00:06:46 2001] Noclaf auctions, 'WTS batwingstacks 2pp'
+[Fri Sep 28 00:07:17 2001] You told Starborn, 'Just the zone files should be enough. Go into your EQ folder and delete the files named steamfont.*'
+[Fri Sep 28 00:07:21 2001] You told Starborn, 'then repatch'
+[Fri Sep 28 00:07:48 2001] Siral tells you, 'also still getting used to new commends.. ie  /tell is now /send'
+[Fri Sep 28 00:07:57 2001] You told Ealin, 'I have no idea what it looks like... I know that this quest has been reported as broken recently.'
+[Fri Sep 28 00:08:01 2001] Starborn tells you, 'gothca and big ty. might do all tho just in case others are corrupt.'
+[Fri Sep 28 00:08:15 2001] Ealin tells you, 'man that sucks i really want to finish it'
+[Fri Sep 28 00:08:24 2001] You told Starborn, 'eh, just try the steamfont files first :)'
+[Fri Sep 28 00:08:25 2001] Espranza saved.
+[Fri Sep 28 00:08:27 2001] Siral tells you, 'a lot of command are the same'
+[Fri Sep 28 00:08:34 2001] Ealin tells you, 'thx anyway'
+[Fri Sep 28 00:08:35 2001] Starborn tells you, 'ok'
+[Fri Sep 28 00:08:37 2001] You told Siral, 'yeah, it borrows pretty heavily'
+[Fri Sep 28 00:08:41 2001] You told Starborn, 'be well!'
+[Fri Sep 28 00:08:47 2001] You told Ealin, 'Hope they fix it for ya.'
+[Fri Sep 28 00:08:49 2001] Starborn tells you, 'and you '
+[Fri Sep 28 00:08:49 2001] DELETING THIS PETITION
+[Fri Sep 28 00:08:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Fri Sep 28 00:08:51 2001] USER TEXT: i can log on all of my characters except one, my primary. he is a 45 lvl druid named starewolfe sixstepe. can you pleas tell me why?
+[Fri Sep 28 00:08:51 2001] Players in EverQuest:
+[Fri Sep 28 00:08:51 2001] ---------------------------
+[Fri Sep 28 00:08:51 2001] [2 Warrior] Starborn (Wood Elf) ZONE: gfaydark (USER PID DX57DW6)
+[Fri Sep 28 00:08:51 2001] There is 1 player in EverQuest.
+[Fri Sep 28 00:08:52 2001] DELETING THIS PETITION
+[Fri Sep 28 00:09:04 2001] You told Siral, 'k, I'm done.'
+[Fri Sep 28 00:09:11 2001] You told Siral, 'wanna meet in DAoC for a few?'
+[Fri Sep 28 00:09:17 2001] Siral tells you, 'sure'
+[Fri Sep 28 00:09:24 2001] You told Siral, 'character name is Etha'
+[Fri Sep 28 00:09:31 2001] You told Siral, 'be there in a couple minutes'
+[Fri Sep 28 00:09:34 2001] You wave goodbye to Siral.
+[Fri Sep 28 00:09:36 2001] You GMSAY, 'zone'
+[Fri Sep 28 00:09:38 2001] Players on EverQuest:
+[Fri Sep 28 00:09:38 2001] ---------------------------
+[Fri Sep 28 00:09:38 2001] [40 Wizard] Longport (Gnome) <Hidden Shadows>
+[Fri Sep 28 00:09:38 2001] AFK [5 Wizard] Cylles (High Elf)
+[Fri Sep 28 00:09:38 2001] [9 Druid] Empe (Half Elf)
+[Fri Sep 28 00:09:38 2001] [7 Druid] Leife (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [34 Paladin] Yeyinde (Human)
+[Fri Sep 28 00:09:38 2001] [32 Cleric] Sandroc (High Elf) <Order of the Chosen Few>
+[Fri Sep 28 00:09:38 2001] [8 Bard] Baailey (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [2 Cleric] Serayne (High Elf)
+[Fri Sep 28 00:09:38 2001] [11 Ranger] Noclaf (Half Elf)
+[Fri Sep 28 00:09:38 2001] [3 Ranger] Thornes (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [10 Rogue] Tienyen (Half Elf)
+[Fri Sep 28 00:09:38 2001] [5 Wizard] Einelar (High Elf)
+[Fri Sep 28 00:09:38 2001] [30 Druid] Kiraisis (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [4 Cleric] Fidelitie (High Elf)
+[Fri Sep 28 00:09:38 2001] [7 Druid] Nivya (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [5 Wizard] Gusder (Erudite)
+[Fri Sep 28 00:09:38 2001] [1 Warrior] Solbel (Half Elf)
+[Fri Sep 28 00:09:38 2001] [ANONYMOUS] Jbasilone 
+[Fri Sep 28 00:09:38 2001] [11 Druid] Kajum (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [45 Ranger] Arulian (Wood Elf) <The Forgotten>
+[Fri Sep 28 00:09:38 2001] [9 Druid] Jarius (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [4 Druid] Guzhan (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [3 Magician] Yangpa (High Elf)
+[Fri Sep 28 00:09:38 2001] [6 Bard] Nila (Half Elf)
+[Fri Sep 28 00:09:38 2001] [7 Warrior] Pelar (Barbarian)
+[Fri Sep 28 00:09:38 2001] [6 Rogue] Watlin (Dwarf)
+[Fri Sep 28 00:09:38 2001] [6 Bard] Gosujr (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [9 Druid] Nnyx (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [2 Ranger] Kegeren (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [3 Enchanter] Iumens (High Elf)
+[Fri Sep 28 00:09:38 2001] [1 Rogue] Siral (Wood Elf)
+[Fri Sep 28 00:09:38 2001] [4 Rogue] Boorte (Dwarf)
+[Fri Sep 28 00:09:38 2001] [6 Paladin] Sugarbean (Dwarf)
+[Fri Sep 28 00:09:38 2001] [ANONYMOUS] Wooldar 
+[Fri Sep 28 00:09:38 2001] * GM * [53 Rake] Espranza (Halfling) <Keepers of Dreams>
+[Fri Sep 28 00:09:38 2001] There are 35 players in Greater Faydark.
+[Fri Sep 28 00:09:41 2001] You begin casting Sunset Home. (Sunset Home)
+[Fri Sep 28 00:09:41 2001] Your Belt of Translocation begins to glow.
+[Fri Sep 28 00:09:42 2001] LOADING, PLEASE WAIT...
+[Fri Sep 28 00:10:01 2001] You have entered Sunset Home.
+[Fri Sep 28 00:10:06 2001] Players in EverQuest:
+[Fri Sep 28 00:10:06 2001] ---------------------------
+[Fri Sep 28 00:10:06 2001] * Guide *[53 Rake] Espranza (Halfling) <Keepers of Dreams> ZONE: cshome (USER PID AUGBQH4)
+[Fri Sep 28 00:10:06 2001] There is 1 player in EverQuest.
+[Fri Sep 28 00:10:13 2001] You GMSAY, 'okay, done and see y'all later!'
+[Fri Sep 28 00:10:17 2001] It will take you about 30 seconds to prepare your camp.
+[Fri Sep 28 00:10:21 2001] It will take about 25 more seconds to prepare your camp.
+[Fri Sep 28 00:10:26 2001] It will take about 20 more seconds to prepare your camp.
+[Fri Sep 28 00:10:31 2001] It will take about 15 more seconds to prepare your camp.
+[Fri Sep 28 00:10:36 2001] It will take about 10 more seconds to prepare your camp.
+[Fri Sep 28 00:10:41 2001] It will take about 5 more seconds to prepare your camp.

@@ -1,0 +1,2457 @@
+[Sun Jul 01 17:54:35 2001] Welcome to EverQuest!
+[Sun Jul 01 17:54:35 2001] You have entered Sunset Home.
+[Sun Jul 01 17:55:13 2001] Players in EverQuest:
+[Sun Jul 01 17:55:13 2001] ---------------------------
+[Sun Jul 01 17:55:13 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jul 01 17:55:13 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: skyfire (USER PID CW1ECN5)
+[Sun Jul 01 17:55:13 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: kithicor (USER PID FS6MRL2)
+[Sun Jul 01 17:55:13 2001] There are 3 players in EverQuest.
+[Sun Jul 01 17:55:18 2001] You GMSAY, 'hiya all!'
+[Sun Jul 01 17:55:24 2001] Lirus GMSAYS, 'hiya esp'
+[Sun Jul 01 17:55:27 2001] Larsot GMSAYS, 'Hiya Espranza'
+[Sun Jul 01 17:55:31 2001] Lirus GMSAYS, 'esp could you pickup larsot?'
+[Sun Jul 01 17:55:32 2001] You feel the spirit of Norrath enter you.
+[Sun Jul 01 17:55:33 2001] Your feet leave the ground.
+[Sun Jul 01 17:55:36 2001] You GMSAY, 'sure thing'
+[Sun Jul 01 17:55:38 2001] You GMSAY, 'zone'
+[Sun Jul 01 17:55:40 2001] Teleporting to larsot.
+[Sun Jul 01 17:55:42 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 17:56:08 2001] You have entered Kithicor Woods.
+[Sun Jul 01 17:56:17 2001] You invite Larsot to join your group.
+[Sun Jul 01 17:56:18 2001] Teannin shouts, 'Hey Peek! I hope ya didn't start the party without me!'
+[Sun Jul 01 17:56:20 2001] Players on EverQuest:
+[Sun Jul 01 17:56:20 2001] ---------------------------
+[Sun Jul 01 17:56:20 2001] [ANONYMOUS] Durty  <Triune>
+[Sun Jul 01 17:56:20 2001] [17 Warrior] Grafrofa (Human)
+[Sun Jul 01 17:56:20 2001] [56 Troubadour] Ridley (Half Elf) <Triune>
+[Sun Jul 01 17:56:20 2001] * GM * [20 Monk] Larsot (Iksar)
+[Sun Jul 01 17:56:20 2001] [54 Rake] Salvaros (Half Elf) <Triune>
+[Sun Jul 01 17:56:20 2001] [54 Pathfinder] Nalidani (Wood Elf) <Triune>
+[Sun Jul 01 17:56:20 2001] [51 Vicar] Mayaselah (Human) <Triune>
+[Sun Jul 01 17:56:20 2001] [60 Warlord] Tuvwen (Half Elf) <Triune>
+[Sun Jul 01 17:56:20 2001] [59 Beguiler] Meeke (High Elf) <Triune>
+[Sun Jul 01 17:56:20 2001] [57 Conjurer] Cydmab (Erudite) <Triune>
+[Sun Jul 01 17:56:20 2001] [55 Conjurer] Demar (High Elf) <Triune>
+[Sun Jul 01 17:56:20 2001] [53 Champion] Hanible (Ogre) <Triune>
+[Sun Jul 01 17:56:20 2001] [50 Enchanter] Tennin (High Elf)
+[Sun Jul 01 17:56:20 2001] [56 Luminary] Zildrax (Iksar)
+[Sun Jul 01 17:56:20 2001] [53 Channeler] Ossory (Human) <Triune>
+[Sun Jul 01 17:56:20 2001] [59 Myrmidon] Vozhd (Troll) <Triune>
+[Sun Jul 01 17:56:20 2001] [52 Mystic] Caleisto (Barbarian) <Triune>
+[Sun Jul 01 17:56:20 2001] [56 Evoker] Galivain (Human) <Triune>
+[Sun Jul 01 17:56:20 2001] [52 Channeler] Neodin (Human) <Triune>
+[Sun Jul 01 17:56:20 2001] [56 Blackguard] Reave (Dark Elf) <Triune>
+[Sun Jul 01 17:56:20 2001] [59 Preserver] Softly (Human) <Triune>
+[Sun Jul 01 17:56:20 2001] [57 Beguiler] Alainu (High Elf) <Triune>
+[Sun Jul 01 17:56:20 2001] [58 Outrider] Chimaera (Unknown) <Triune>
+[Sun Jul 01 17:56:20 2001] [ANONYMOUS] Kurok  <Triune>
+[Sun Jul 01 17:56:20 2001] [60 Hierophant] Zanther (Wood Elf) <Triune>
+[Sun Jul 01 17:56:20 2001] [52 Channeler] Elaari (Erudite) <Triune> LFG
+[Sun Jul 01 17:56:20 2001] [ANONYMOUS] Peek  <Mark of Draconians>
+[Sun Jul 01 17:56:20 2001] [ANONYMOUS] Daggin 
+[Sun Jul 01 17:56:20 2001] [52 Vicar] Lanlawen (High Elf) <Triune>
+[Sun Jul 01 17:56:20 2001] [57 Preserver] Reann (Human) <Triune>
+[Sun Jul 01 17:56:20 2001] [ANONYMOUS] Darnan  <Hand of the Shadows>
+[Sun Jul 01 17:56:20 2001] [53 Cavalier] Lananin (Human) <Triune>
+[Sun Jul 01 17:56:20 2001] [56 Master] Gritknoc (Iksar) <Triune>
+[Sun Jul 01 17:56:20 2001] [55 Templar] Kuroni (Human) <Triune>
+[Sun Jul 01 17:56:20 2001] [42 Magician] Narina (High Elf)
+[Sun Jul 01 17:56:20 2001] [55 Master] Senebka (Human)
+[Sun Jul 01 17:56:20 2001] [ANONYMOUS] Sharelle 
+[Sun Jul 01 17:56:21 2001] [43 Paladin] Dextor (Half Elf) <Echelon>
+[Sun Jul 01 17:56:21 2001] [ANONYMOUS] Teannin  <Mark of Draconians>
+[Sun Jul 01 17:56:21 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sun Jul 01 17:56:21 2001] There are 40 players in Kithicor Forest.
+[Sun Jul 01 17:56:21 2001] Larsot cheers at Espranza.
+[Sun Jul 01 17:56:23 2001] You have formed the group.
+[Sun Jul 01 17:56:23 2001] Hanible says out of character, '5 pm game time'
+[Sun Jul 01 17:56:28 2001] Larsot tells the group, 'thakyou'
+[Sun Jul 01 17:56:31 2001] You tell your party, 'Hiya!'
+[Sun Jul 01 17:56:33 2001] Larsot tells the group, 'er thankyou'
+[Sun Jul 01 17:56:36 2001] Cydmab shouts, 'group buff mana report'
+[Sun Jul 01 17:56:39 2001] Peek shouts, 'What party?'
+[Sun Jul 01 17:56:41 2001] You tell your party, 'About to do a general raid here.'
+[Sun Jul 01 17:56:44 2001] You tell your party, 'wanna watch?'
+[Sun Jul 01 17:56:45 2001] Larsot GMSAYS, 'deleting pet on /split command'
+[Sun Jul 01 17:56:46 2001] Cydmab shouts, 'send me a tell if you need a group'
+[Sun Jul 01 17:56:48 2001] Teannin shouts, 'THE party!'
+[Sun Jul 01 17:56:51 2001] Larsot tells the group, 'yes please'
+[Sun Jul 01 17:57:01 2001] Teleporting to cydmab.
+[Sun Jul 01 17:57:03 2001] Meeke begins to cast a spell. (Aanya's Quickening)
+[Sun Jul 01 17:57:03 2001] Grafrofa shouts, 'hello all, COuld I get some buffs and sow to make it through the woods?'
+[Sun Jul 01 17:57:03 2001] Kuroni begins to cast a spell. (Symbol of Marzin)
+[Sun Jul 01 17:57:07 2001] Senebka experiences a quickening.
+[Sun Jul 01 17:57:07 2001] Durty says out of character, 'LFG'
+[Sun Jul 01 17:57:08 2001] Kuroni is cloaked in a shimmer of glowing symbols.
+[Sun Jul 01 17:57:11 2001] Narina begins to cast a spell. (Sword of Runes)
+[Sun Jul 01 17:57:12 2001] Zildrax begins to cast a spell. (Cannibalize III)
+[Sun Jul 01 17:57:12 2001] Summoning Larsot.
+[Sun Jul 01 17:57:13 2001] Kuroni begins to cast a spell. (Symbol of Marzin)
+[Sun Jul 01 17:57:17 2001] Meeke begins to cast a spell. (Aanya's Quickening)
+[Sun Jul 01 17:57:17 2001] Zildrax begins to cast a spell. (Cannibalize III)
+[Sun Jul 01 17:57:17 2001] You say, 'hiya!'
+[Sun Jul 01 17:57:17 2001] Wedorfa says out of character, 'no group for jOO'
+[Sun Jul 01 17:57:18 2001] Lanlawen begins to cast a spell. (Symbol of Naltron)
+[Sun Jul 01 17:57:18 2001] Daggin is cloaked in a shimmer of glowing symbols.
+[Sun Jul 01 17:57:20 2001] Wedorfa begins to cast a spell. (Cannibalize III)
+[Sun Jul 01 17:57:22 2001] Cydmab shouts, 'group one kuroni tuvwen salv wedorfa alainu daggin'
+[Sun Jul 01 17:57:22 2001] Vozhd says, 'hi'
+[Sun Jul 01 17:57:22 2001] Reann begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 01 17:57:22 2001] Kuroni begins to cast a spell. (Symbol of Marzin)
+[Sun Jul 01 17:57:27 2001] Larsot is surrounded by a brief lupine aura.
+[Sun Jul 01 17:57:27 2001] Alainu begins to cast a spell. (Group Resist Magic)
+[Sun Jul 01 17:57:29 2001] You say, 'we're just watching'
+[Sun Jul 01 17:57:31 2001] Grafrofa shouts, 'hello all, COuld I get some buffs and sow to make it through the woods?'
+[Sun Jul 01 17:57:31 2001] Kuroni begins to cast a spell. (Symbol of Marzin)
+[Sun Jul 01 17:57:33 2001] Alainu is resistant to magic.
+[Sun Jul 01 17:57:35 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 17:57:35 2001] USER TEXT: HELP ME!!!!
+[Sun Jul 01 17:57:36 2001] Players in EverQuest:
+[Sun Jul 01 17:57:36 2001] ---------------------------
+[Sun Jul 01 17:57:36 2001] [37 Warrior] Apollos (Dwarf) <Hand of the Shadows> ZONE: skyfire (USER PID EPSMBTS)
+[Sun Jul 01 17:57:36 2001] There is 1 player in EverQuest.
+[Sun Jul 01 17:57:37 2001] Meeke begins to cast a spell. (Aanya's Quickening)
+[Sun Jul 01 17:57:37 2001] Wedorfa hugs Kurok.
+[Sun Jul 01 17:57:39 2001] GM TEXT: Larsot: Another player, Apollos also zoned from the Overthere and was placed in the middle of Skyfire and was also killed..
+[Sun Jul 01 17:57:39 2001] Peek waves at Espranza.
+[Sun Jul 01 17:57:40 2001] Kuroni begins to cast a spell. (Symbol of Marzin)
+[Sun Jul 01 17:57:41 2001] Vozhd experiences a quickening.
+[Sun Jul 01 17:57:44 2001] Alainu is cloaked in a shimmer of glowing symbols.
+[Sun Jul 01 17:57:45 2001] Kurok begins to cast a spell. (Mortal Deftness)
+[Sun Jul 01 17:57:47 2001] Meeke begins to cast a spell. (Aanya's Quickening)
+[Sun Jul 01 17:57:49 2001] Vozhd begins to cast a spell. (Lesser Shielding)
+[Sun Jul 01 17:57:49 2001] Searching zones for corpse of that name....
+[Sun Jul 01 17:57:50 2001] Corpse: Apollos's corpse0 in zone: skyfire
+[Sun Jul 01 17:57:50 2001] Meeke says, 'gm party'
+[Sun Jul 01 17:57:51 2001] Hanible experiences a quickening.
+[Sun Jul 01 17:57:51 2001] Cydmab shouts, 'tuvwen is MA Voz is SA'
+[Sun Jul 01 17:57:52 2001] You GMSAY, 'zone'
+[Sun Jul 01 17:57:53 2001] Teannin says out of character, 'What? No group for jews? What are you, some sort of Nazi over there? Oh no! The Norrathian Nazis are attacking!'
+[Sun Jul 01 17:57:53 2001] Kurok begins to cast a spell. (Deliriously Nimble)
+[Sun Jul 01 17:57:54 2001] Larsot tells the group, 'they are too underpowered, they going to get wiped out   :('
+[Sun Jul 01 17:57:56 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 17:58:27 2001] You have entered Skyfire Mountains.
+[Sun Jul 01 17:58:27 2001] You have formed the group.
+[Sun Jul 01 17:58:33 2001] Larsot GMSAYS, 'pulling Aluweyen'
+[Sun Jul 01 17:58:42 2001] You tell your party, 'I saw the first successful one on Tunare'
+[Sun Jul 01 17:58:49 2001] Your Location is -1833.00, 154.00, -173.96
+[Sun Jul 01 17:58:58 2001] Teleporting to apollos's corpse0.
+[Sun Jul 01 17:59:01 2001] Larsot tells the group, 'cool, i never seen or been to a successful one'
+[Sun Jul 01 17:59:02 2001] Teleporting to apollos's corpse0.
+[Sun Jul 01 17:59:03 2001] Teleporting to apollos's corpse0.
+[Sun Jul 01 17:59:06 2001] Your Location is -1770.00, 468.00, -169.44
+[Sun Jul 01 17:59:31 2001] USER TEXT: HELP ME!!!!
+[Sun Jul 01 17:59:42 2001] GM TEXT: Larsot: Another player, Apollos also zoned from the Overthere and was placed in the middle of Skyfire and was also killed..
+[Sun Jul 01 18:00:12 2001] You GMSAY, 'what's the deal with Apollos? I see nothing unusual about his death...'
+[Sun Jul 01 18:00:30 2001] You GMSAY, 'not at zone in point, not in wall...'
+[Sun Jul 01 18:00:58 2001] Larsot GMSAYS, 'had two people pet the same thing, they were being chased by dragoons in OT and zoned into Skyfire and were dropped in the middle of the zone and died'
+[Sun Jul 01 18:01:37 2001] You GMSAY, 'well, that's probably just what happened, but I can't verify it.'
+[Sun Jul 01 18:02:16 2001] You GMSAY, 'Lirus, do you know anything about where people with the low hp zoning bug end up in Skyfire?'
+[Sun Jul 01 18:03:47 2001] You tell your party, 'his corpse not too far from the BW zone...'
+[Sun Jul 01 18:04:01 2001] You tell your party, 'was hunting here with a monk earlier...'
+[Sun Jul 01 18:04:34 2001] Players in EverQuest:
+[Sun Jul 01 18:04:34 2001] ---------------------------
+[Sun Jul 01 18:04:34 2001] [37 Warrior] Apollos (Dwarf) <Hand of the Shadows> ZONE: skyfire (USER PID EPSMBTS)
+[Sun Jul 01 18:04:34 2001] There is 1 player in EverQuest.
+[Sun Jul 01 18:04:42 2001] Teleporting to apollos.
+[Sun Jul 01 18:04:51 2001] You wave at Apollos.
+[Sun Jul 01 18:04:57 2001] Apollos says "Heya, Espranza.".
+[Sun Jul 01 18:04:58 2001] You say, 'Hello, Apollos!'
+[Sun Jul 01 18:04:59 2001] Apollos says "Hail, oh great and tremendious one!".
+[Sun Jul 01 18:05:15 2001] Apollos says, 'Can you help me?'
+[Sun Jul 01 18:05:47 2001] You say, 'well, that's the thing. Although I believe you may have been hit by a bug, I cannot verify it.'
+[Sun Jul 01 18:05:57 2001] Apollos says, 'hmm'
+[Sun Jul 01 18:06:00 2001] You say, 'So I can't rez you. I will however carry your corpse to you.'
+[Sun Jul 01 18:06:04 2001] Larsot GMSAYS, 'I have a KS issue here, Escalate it???'
+[Sun Jul 01 18:06:09 2001] You say, 'So you can seek a rez from another player.'
+[Sun Jul 01 18:06:11 2001] You GMSAY, 'yes'
+[Sun Jul 01 18:06:20 2001] Summoning apollos's corpse0.
+[Sun Jul 01 18:06:23 2001] Apollos says, 'All I know is I zoned in here at loc neg 1798 pos 310'
+[Sun Jul 01 18:06:30 2001] Larsot tells the group, 'yellow or red?'
+[Sun Jul 01 18:06:34 2001] You tell your party, 'yellow'
+[Sun Jul 01 18:06:38 2001] Apollos kisses his corpse!
+[Sun Jul 01 18:06:48 2001] You say, 'there is a bug like that, I just can't verify it...'
+[Sun Jul 01 18:06:57 2001] Larsot GMSAYS, 'escalating pet on KS issue in High Hold Pass'
+[Sun Jul 01 18:07:03 2001] Apollos says, 'Is it the safespot bug?'
+[Sun Jul 01 18:07:04 2001] You GMSAY, 'oh no, it's always... sigh'
+[Sun Jul 01 18:07:14 2001] You say, 'no, your corpse was nowhere near the safe spot'
+[Sun Jul 01 18:07:20 2001] Apollos says, 'it happened to my main character when I almost died in cazic-thule.'
+[Sun Jul 01 18:07:25 2001] You say, 'if it had, I could perhaps have done something.'
+[Sun Jul 01 18:07:32 2001] You say, 'just was in the middle of nowhere...'
+[Sun Jul 01 18:07:43 2001] Apollos says, 'Hmmm how the heck did this happen!?'
+[Sun Jul 01 18:07:57 2001] You say, 'How healthy were you when you zoned?'
+[Sun Jul 01 18:08:07 2001] Players in EverQuest:
+[Sun Jul 01 18:08:07 2001] ---------------------------
+[Sun Jul 01 18:08:07 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: skyfire (USER PID AUGBQH4)
+[Sun Jul 01 18:08:08 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: skyfire (USER PID CW1ECN5)
+[Sun Jul 01 18:08:08 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: kithicor (USER PID FS6MRL2)
+[Sun Jul 01 18:08:08 2001] There are 3 players in EverQuest.
+[Sun Jul 01 18:08:13 2001] Apollos says, 'Apollos goes into a bezerker frenzy'
+[Sun Jul 01 18:08:20 2001] Apollos says, 'its in my text here'
+[Sun Jul 01 18:08:21 2001] You say to your guild, 'Hiya Lirus'
+[Sun Jul 01 18:08:28 2001] Espranza saved.
+[Sun Jul 01 18:08:34 2001] You feel as if you are about to fall.
+[Sun Jul 01 18:08:35 2001] Apollos says, 'Was running to zone from a dragoon t'ves'
+[Sun Jul 01 18:08:40 2001] You feel as if you are about to fall.
+[Sun Jul 01 18:08:47 2001] You can no longer levitate.
+[Sun Jul 01 18:09:02 2001] You say, 'so you were hurt... well, your corpse wasn't at the safe point...'
+[Sun Jul 01 18:09:08 2001] Apollos says, 'I thought I might have gone LD just before zone, cause it took an awefully long time to zone.'
+[Sun Jul 01 18:09:34 2001] Apollos says, 'Ok thats good to know, where ever I went '
+[Sun Jul 01 18:10:05 2001] You say, 'anyway... be well, and I dearly hope this does not strike you again.'
+[Sun Jul 01 18:10:09 2001] You wave goodbye to Apollos.
+[Sun Jul 01 18:10:13 2001] DELETING THIS PETITION
+[Sun Jul 01 18:10:20 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 18:10:21 2001] USER TEXT: i was camping dyllin starshine for a good while, when this druid named linkinn came along and asked if i needed help killing him, i said ok, and he told me to wait.  In the meantime, he was sending tells to eillail to come kill it for him and KS
+[Sun Jul 01 18:10:21 2001] Players in EverQuest:
+[Sun Jul 01 18:10:21 2001] ---------------------------
+[Sun Jul 01 18:10:21 2001] [16 Druid] Aluweyen (Wood Elf) <Clan Silvermoon> ZONE: highpass (USER PID FY2B7TX)
+[Sun Jul 01 18:10:21 2001] There is 1 player in EverQuest.
+[Sun Jul 01 18:10:27 2001] You wave goodbye to Apollos.
+[Sun Jul 01 18:10:30 2001] You GMSAY, 'zone'
+[Sun Jul 01 18:10:36 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 18:11:04 2001] You have entered Highpass Hold.
+[Sun Jul 01 18:11:04 2001] You have formed the group.
+[Sun Jul 01 18:11:14 2001] You tell your party, 'agh, I don't need to go invis for this one'
+[Sun Jul 01 18:11:16 2001] GM TEXT: Larsot: Aluweyen claims to have been holding the Dylin Starshine spawn in Highold pass and was KS'ed by Linkinn (immediately camped) and Eillail (FW5753R)
+[Sun Jul 01 18:11:20 2001] Lirus tells the guild, 'anon for investigation'
+[Sun Jul 01 18:11:24 2001] Larsot tells the group, 'hehe'
+[Sun Jul 01 18:11:37 2001] Larsot tells the group, 'hehe'
+[Sun Jul 01 18:11:40 2001] You tell your party, 'it was the dylin starshine camp'
+[Sun Jul 01 18:11:41 2001] a guard says 'Time to die a gnoll champion'
+[Sun Jul 01 18:11:41 2001] a guard says 'Time to die a gnoll champion'
+[Sun Jul 01 18:11:44 2001] Larsot tells the group, 'aye'
+[Sun Jul 01 18:11:56 2001] You tell your party, 'yeah, wish I could do something about it...'
+[Sun Jul 01 18:12:00 2001] a gnoll champion has been slain by a guard!
+[Sun Jul 01 18:12:01 2001] Players on EverQuest:
+[Sun Jul 01 18:12:01 2001] ---------------------------
+[Sun Jul 01 18:12:01 2001] [16 Druid] Aluweyen (Wood Elf) <Clan Silvermoon>
+[Sun Jul 01 18:12:01 2001] There is 1 player in Highpass Hold.
+[Sun Jul 01 18:12:06 2001] Teleporting to aluweyen.
+[Sun Jul 01 18:12:19 2001] You wave at Aluweyen.
+[Sun Jul 01 18:12:23 2001] Aluweyen says, 'Hail, Espranza'
+[Sun Jul 01 18:12:37 2001] You told Aluweyen, 'Hello, Aluweyen! Guide Espranza here.'
+[Sun Jul 01 18:12:40 2001] Aluweyen says, 'can u help me?'
+[Sun Jul 01 18:12:45 2001] Aluweyen says, 'i got screwed over'
+[Sun Jul 01 18:13:12 2001] You told Aluweyen, 'Sure looks like it. Hard to do things when people KS rare spawns.'
+[Sun Jul 01 18:13:19 2001] Aluweyen tells you, 'do u know the story?'
+[Sun Jul 01 18:13:28 2001] You told Aluweyen, 'Larsot told me'
+[Sun Jul 01 18:13:35 2001] Aluweyen tells you, 'u need to talk to eillail, he saw the thing'
+[Sun Jul 01 18:13:41 2001] Wikkiwikwik tells you, '=)'
+[Sun Jul 01 18:13:49 2001] Aluweyen tells you, 'hes the one that was tricked into killing it for linkinn'
+[Sun Jul 01 18:13:49 2001] You told Wikkiwikwik, 'Hiya! Busy now though'
+[Sun Jul 01 18:13:56 2001] Wikkiwikwik tells you, 'just wanted to say =)'
+[Sun Jul 01 18:14:02 2001] You told Aluweyen, 'And then Linkinn stole it?'
+[Sun Jul 01 18:14:09 2001] You told Wikkiwikwik, 'Hi!'
+[Sun Jul 01 18:14:28 2001] Players in EverQuest:
+[Sun Jul 01 18:14:28 2001] ---------------------------
+[Sun Jul 01 18:14:28 2001] [15 Druid] Linkinn (Wood Elf) ZONE: kithicor (USER PID HPVC2VB)
+[Sun Jul 01 18:14:28 2001] There is 1 player in EverQuest.
+[Sun Jul 01 18:14:35 2001] Aluweyen tells you, 'linkinn asked eillail to kill it for him, they grouped and when eillail killed it linkinn took it'
+[Sun Jul 01 18:14:45 2001] Larsot tells the group, 'afk for a few seconds'
+[Sun Jul 01 18:14:46 2001] Aluweyen tells you, 'eillail was tricked'
+[Sun Jul 01 18:14:55 2001] You GMSAY, 'Lirus, what can we do when people KS rare spawns?'
+[Sun Jul 01 18:15:04 2001] Lirus GMSAYS, 'warn them'
+[Sun Jul 01 18:15:12 2001] You say, 'brb'
+[Sun Jul 01 18:15:17 2001] Players in EverQuest:
+[Sun Jul 01 18:15:17 2001] ---------------------------
+[Sun Jul 01 18:15:17 2001] [15 Druid] Linkinn (Wood Elf) ZONE: kithicor (USER PID HPVC2VB)
+[Sun Jul 01 18:15:17 2001] There is 1 player in EverQuest.
+[Sun Jul 01 18:15:19 2001] You GMSAY, 'zone'
+[Sun Jul 01 18:15:22 2001] Teleporting to linkinn.
+[Sun Jul 01 18:15:22 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 18:15:49 2001] You have entered Kithicor Woods.
+[Sun Jul 01 18:15:49 2001] You have formed the group.
+[Sun Jul 01 18:15:53 2001] Guijn begins to cast a spell. (Greater Healing)
+[Sun Jul 01 18:15:57 2001] Gritknoc shouts, 'skeleton infantry to camp (1per)'
+[Sun Jul 01 18:15:57 2001] Starqui feels much better.
+[Sun Jul 01 18:15:59 2001] Linkinn is looking at your equipment...
+[Sun Jul 01 18:16:00 2001] Gritknoc shouts, 'zombie infantry to camp (1per)'
+[Sun Jul 01 18:16:00 2001] Guijn begins to cast a spell. (Ultravision)
+[Sun Jul 01 18:16:05 2001] Starqui's eyes glow violet.
+[Sun Jul 01 18:16:09 2001] You told Linkinn, 'Hi!'
+[Sun Jul 01 18:16:18 2001] Guijn says, 'cool a gm'
+[Sun Jul 01 18:16:18 2001] Starqui bows before Espranza.
+[Sun Jul 01 18:16:19 2001] Gritknoc shouts, 'zombie advisor to camp (1per)'
+[Sun Jul 01 18:16:27 2001] Wailen bows before Espranza.
+[Sun Jul 01 18:16:30 2001] Guijn says, 'plz watch over me while i med'
+[Sun Jul 01 18:16:35 2001] Linkinn tells you, 'hello mi'lady dont mind me ..what lvl are you?'
+[Sun Jul 01 18:16:37 2001] Wailen says, 'Hi Espranza )'
+[Sun Jul 01 18:16:37 2001] Guijn kneels before Espranza in humility and reverence.
+[Sun Jul 01 18:16:38 2001] You told Linkinn, 'did you get that page from Dyllan Starshine?'
+[Sun Jul 01 18:16:48 2001] You told Linkinn, '52 - do a /who Espranza'
+[Sun Jul 01 18:17:26 2001] You tap your foot as you look at Linkinn impatiently.
+[Sun Jul 01 18:17:27 2001] Gritknoc shouts, 'skeleton infantry to camp (1per)'
+[Sun Jul 01 18:17:35 2001] Linkinn tells you, 'yea i did get the page ...you get a petition?...lol '
+[Sun Jul 01 18:17:49 2001] Larsot GMSAYS, 'pulling Tanlina'
+[Sun Jul 01 18:18:03 2001] You told Linkinn, 'Yes, I got a petition which said you got someone to kill Dyllan for you instead of the person who had been camping it'
+[Sun Jul 01 18:18:22 2001] It begins to rain.
+[Sun Jul 01 18:18:30 2001] Players in EverQuest:
+[Sun Jul 01 18:18:30 2001] ---------------------------
+[Sun Jul 01 18:18:30 2001] [15 Druid] Linkinn (Wood Elf) ZONE: kithicor (USER PID HPVC2VB)
+[Sun Jul 01 18:18:30 2001] There is 1 player in EverQuest.
+[Sun Jul 01 18:18:37 2001] You told Linkinn, 'Yes? No?'
+[Sun Jul 01 18:18:46 2001] Linkinn tells you, 'first of all i was ther first ...ask sinny .....he was gone and i logged and no one was ther .....so we had a dispute'
+[Sun Jul 01 18:18:52 2001] Baeen says, 'Can anyone here sow?'
+[Sun Jul 01 18:18:55 2001] Linkinn tells you, 'we fought for it a duel '
+[Sun Jul 01 18:18:58 2001] Guijn begins to cast a spell. (Quickness)
+[Sun Jul 01 18:19:01 2001] Linkinn begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 01 18:19:04 2001] Aluweyen tells you, 'u there?'
+[Sun Jul 01 18:19:05 2001] You told Linkinn, 'when you returned to the camp, was Aluweyen there?'
+[Sun Jul 01 18:19:05 2001] Baeen is surrounded by a brief lupine aura.
+[Sun Jul 01 18:19:08 2001] Baeen thanks Linkinn heartily.
+[Sun Jul 01 18:19:10 2001] Gritknoc shouts, 'Ged Twigborn to camp (1per)'
+[Sun Jul 01 18:19:11 2001] You told Aluweyen, 'talking to Linkinn'
+[Sun Jul 01 18:19:25 2001] Linkinn tells you, 'and he won so i was tryin to help him kill dylin'
+[Sun Jul 01 18:19:31 2001] Aluweyen tells you, 'talk to eillail plz!'
+[Sun Jul 01 18:19:40 2001] Linkinn tells you, 'i died twice tryin to help him get the page'
+[Sun Jul 01 18:19:44 2001] Meeke says out of character, '** rotting officer ** is _mEzzEd_'
+[Sun Jul 01 18:19:52 2001] You told Linkinn, 'But then you looted it?'
+[Sun Jul 01 18:20:06 2001] Larsot tells the group, 'u here in Kith Esp?'
+[Sun Jul 01 18:20:09 2001] You tell your party, 'yes'
+[Sun Jul 01 18:20:10 2001] Linkinn tells you, 'no we never killed him dylin kept killin me and him'
+[Sun Jul 01 18:20:12 2001] You tell your party, 'on a petition'
+[Sun Jul 01 18:20:17 2001] Larsot tells the group, 'you at the general area?'
+[Sun Jul 01 18:20:22 2001] Vozhd says out of character, 'lol dont help me, if those druids attack me'
+[Sun Jul 01 18:20:22 2001] You tell your party, 'no, Rivervale'
+[Sun Jul 01 18:20:36 2001] Senebka says out of character, 'why didn't someone warn me about the faction hits ?'
+[Sun Jul 01 18:20:43 2001] You told Linkinn, 'how did you come by the page, then?'
+[Sun Jul 01 18:20:45 2001] Larsot tells the group, 'ok, i didnt see where they all went and I dont know where general is...oh well'
+[Sun Jul 01 18:20:46 2001] Galivain says out of character, 'Hehe'
+[Sun Jul 01 18:20:50 2001] Linkinn tells you, 'i got exasperated and asked a 44 wiz to come and kill ...i payed a cermonial dagger for his service...'
+[Sun Jul 01 18:20:52 2001] Guijn says, 'Hail, Espranza'
+[Sun Jul 01 18:20:57 2001] You tell your party, 'usually pulled to highpass zone'
+[Sun Jul 01 18:20:57 2001] Guijn says, 'what r u doing here?'
+[Sun Jul 01 18:21:06 2001] You say, 'just chatting'
+[Sun Jul 01 18:21:14 2001] Guijn says, 'may i inspect you'
+[Sun Jul 01 18:21:18 2001] You say, 'sure'
+[Sun Jul 01 18:21:21 2001] Guijn is looking at your equipment...
+[Sun Jul 01 18:21:31 2001] Gritknoc shouts, 'zombie infantry to camp (1per)'
+[Sun Jul 01 18:21:47 2001] You told Linkinn, 'did the wizard know he was killing it so you could loot it?'
+[Sun Jul 01 18:21:56 2001] Linkinn tells you, 'yep'
+[Sun Jul 01 18:22:10 2001] Gritknoc shouts, 'skeleton trooper to camp (1per)'
+[Sun Jul 01 18:22:20 2001] You told Aluweyen, 'Linkinn says you both died several times trying to kill Dylan?'
+[Sun Jul 01 18:22:25 2001] Gritknoc shouts, 'zombie infantry to camp (1per)'
+[Sun Jul 01 18:22:29 2001] Gritknoc shouts, 'Wrom Shralok to camp (1per)'
+[Sun Jul 01 18:22:37 2001] Aluweyen tells you, 'he said the camp was mine'
+[Sun Jul 01 18:22:48 2001] Guijn says, 'could i look at your ring slots and earrings as well as the head piece?'
+[Sun Jul 01 18:22:53 2001] You told Linkinn, 'Did you tell Aluweyen the camp was his?'
+[Sun Jul 01 18:22:58 2001] You say, 'sorry'
+[Sun Jul 01 18:23:02 2001] Guijn says, 'if you dont mind'
+[Sun Jul 01 18:23:05 2001] Aluweyen tells you, 'talk to eillail plz'
+[Sun Jul 01 18:23:32 2001] You say, 'They're mine! Mine, I tell you!'
+[Sun Jul 01 18:23:39 2001] Guijn says, 'can i look?'
+[Sun Jul 01 18:23:48 2001] You say, 'No, I'm sorry.'
+[Sun Jul 01 18:23:55 2001] Linkinn tells you, 'yes but he died and i died too so it was afer game'
+[Sun Jul 01 18:24:02 2001] Cydmab shouts, 'nali to reann's group, septose to lanla's group'
+[Sun Jul 01 18:24:08 2001] Linkinn tells you, 'fare'
+[Sun Jul 01 18:24:09 2001] Starqui tells you, 'are u busy or can i ask u an question ?'
+[Sun Jul 01 18:24:11 2001] Cydmab shouts, 'septose is MA, Tuv SA'
+[Sun Jul 01 18:24:15 2001] Melnok tells you, 'hi may i ask you something'
+[Sun Jul 01 18:24:19 2001] Larsot tells the group, 'I have a person here who says she died, logged off and returned 5 days later and after big patch and her corpse was gone. Shall i escalate that to you or red?'
+[Sun Jul 01 18:24:22 2001] Aluweyen tells you, 'he said he was tryin to help me, i guess HELP means different things to weasels like him'
+[Sun Jul 01 18:24:22 2001] You told Starqui, 'please petition, if you could! thanks!'
+[Sun Jul 01 18:24:22 2001] Clarion says out of character, 'LFG !'
+[Sun Jul 01 18:24:29 2001] You tell your party, 'does she have a corpse?'
+[Sun Jul 01 18:24:34 2001] Starqui tells you, 'oki  thx )'
+[Sun Jul 01 18:24:35 2001] Larsot tells the group, 'negative'
+[Sun Jul 01 18:24:36 2001] Gritknoc shouts, 'wandering warrior to camp (1per)'
+[Sun Jul 01 18:24:44 2001] You told Melnok, 'Please petition, thanks!'
+[Sun Jul 01 18:24:52 2001] You tell your party, 'esc to red then. make sure you append text.'
+[Sun Jul 01 18:24:57 2001] Larsot tells the group, 'ok'
+[Sun Jul 01 18:25:01 2001] Melnok tells you, 'i did i just have to ask you something'
+[Sun Jul 01 18:25:11 2001] Linkinn tells you, 'you cant do nething bout it neway cause i camped for 7hrs before and a 19 cleric ks'd me and a gm said they cant do nething bout camps and they didnt see it so it dont even  matter....'
+[Sun Jul 01 18:25:11 2001] Septose shouts, 'Army of Triune, Attack zombie trooper'
+[Sun Jul 01 18:25:14 2001] You told Melnok, 'okay..'
+[Sun Jul 01 18:25:14 2001] Aluweyen tells you, 'hes gonna lie to u no matter what...can u talk to eillail'
+[Sun Jul 01 18:25:32 2001] Gritknoc shouts, 'skeleton officer to camp (1per)'
+[Sun Jul 01 18:25:40 2001] Linkinn tells you, 'camps r player thing thats what i was told before'
+[Sun Jul 01 18:25:51 2001] Septose shouts, 'Army of Triune, Attack skeleton infantry'
+[Sun Jul 01 18:25:53 2001] Espranza saved.
+[Sun Jul 01 18:25:56 2001] Gritknoc shouts, 'tortured healer to camp (1per)'
+[Sun Jul 01 18:26:23 2001] You told Linkinn, 'We know some rare spawns are hotly contested, and everyone should have a fair shot at it.'
+[Sun Jul 01 18:26:28 2001] Larsot GMSAYS, 'escalating missing corpse issue'
+[Sun Jul 01 18:26:30 2001] Aluweyen tells you, 'talk to eillail he was there'
+[Sun Jul 01 18:26:38 2001] Wailen hugs Starqui.
+[Sun Jul 01 18:26:40 2001] Wailen hugs Starqui.
+[Sun Jul 01 18:26:40 2001] Wailen hugs Starqui.
+[Sun Jul 01 18:26:52 2001] Melnok tells you, 'im in kaarana and i fell off the cliff well my corpse only fell haf way down so i cant get it are you allowed to get it for me'
+[Sun Jul 01 18:26:52 2001] You told Linkinn, 'don't log out... brb'
+[Sun Jul 01 18:26:57 2001] Linkinn tells you, 'he had more than a fare shot i gave a bubble of exp to try and help him '
+[Sun Jul 01 18:27:10 2001] decaying footman says 'Arreewwww!  Join me in death, weak fleshling! 
+[Sun Jul 01 18:27:10 2001] decaying footman says 'Barbarians like you are better left dead than alive.'
+[Sun Jul 01 18:27:11 2001] You told Melnok, 'I can check it out, but you'll have to petition'
+[Sun Jul 01 18:27:11 2001] Melnok tells you, 'that way i know if im wating my time'
+[Sun Jul 01 18:27:22 2001] Starqui begins to cast a spell. (Retribution)
+[Sun Jul 01 18:27:24 2001] Melnok tells you, 'i did ok'
+[Sun Jul 01 18:27:30 2001] Melnok tells you, 'thanks'
+[Sun Jul 01 18:27:33 2001] Guijn begins to cast a spell. (Rising Dexterity)
+[Sun Jul 01 18:27:34 2001] Players in EverQuest:
+[Sun Jul 01 18:27:34 2001] ---------------------------
+[Sun Jul 01 18:27:34 2001] [46 Wizard] Eillail (High Elf) <Elven Elite> ZONE: felwithea (USER PID FW5753R)
+[Sun Jul 01 18:27:34 2001] There is 1 player in EverQuest.
+[Sun Jul 01 18:27:36 2001] Starqui begins to cast a spell. (Retribution)
+[Sun Jul 01 18:27:37 2001] You GMSAY, 'zone'
+[Sun Jul 01 18:27:39 2001] Wailen looks dexterous.
+[Sun Jul 01 18:27:43 2001] Linkinn tells you, 'im goin to commons dont wanna die here'
+[Sun Jul 01 18:27:43 2001] Teleporting to eillail.
+[Sun Jul 01 18:27:44 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 18:28:06 2001] You have entered Northern Felwithe.
+[Sun Jul 01 18:28:06 2001] You have formed the group.
+[Sun Jul 01 18:28:52 2001] You told Eillail, 'Hail, Eillail! Guide Espranza here. Can you tell me of the Dyllan Starshine incident earlier today?'
+[Sun Jul 01 18:29:21 2001] Players in EverQuest:
+[Sun Jul 01 18:29:21 2001] ---------------------------
+[Sun Jul 01 18:29:21 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: felwithea (USER PID AUGBQH4)
+[Sun Jul 01 18:29:21 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: templeveeshan (USER PID CW1ECN5)
+[Sun Jul 01 18:29:21 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: kithicor (USER PID FS6MRL2)
+[Sun Jul 01 18:29:21 2001] There are 3 players in EverQuest.
+[Sun Jul 01 18:29:40 2001] Eillail tells you, 'Greetings Espranza sure'
+[Sun Jul 01 18:29:51 2001] Aluweyen tells you, 'is anything happening, u left me hangin here'
+[Sun Jul 01 18:29:59 2001] You told Eillail, 'because I'm hearing different things here'
+[Sun Jul 01 18:30:06 2001] You told Aluweyen, 'I'm talking to everyone involved'
+[Sun Jul 01 18:30:12 2001] Aluweyen tells you, 'u get eillail'
+[Sun Jul 01 18:30:18 2001] Aluweyen tells you, 'ok'
+[Sun Jul 01 18:30:25 2001] Melnok tells you, 'plz be fast'
+[Sun Jul 01 18:30:32 2001] Yeolarn Bronzeleaf begins to cast a spell. (Yaulp IV)
+[Sun Jul 01 18:30:34 2001] Eillail tells you, 'I was in highhold working with a friend on smithing and I get a tell from Linkinn asking for help to kill Dyllan'
+[Sun Jul 01 18:30:45 2001] Alderwood is looking at your equipment...
+[Sun Jul 01 18:30:54 2001] Eillail tells you, 'he offer me a Sarnark cer dagger as payment for my services'
+[Sun Jul 01 18:31:00 2001] Eillail tells you, 'I said ok'
+[Sun Jul 01 18:31:49 2001] Eillail tells you, 'I went to the bandit camp across from high hold he was not there I sent him a tell he told me of the smugglers area I headed over'
+[Sun Jul 01 18:32:03 2001] You told Eillail, 'Did you know Aluweyen was camping Dyllan?'
+[Sun Jul 01 18:32:34 2001] Eillail tells you, 'when I arrived I was invited by Aluweyen ans I thought the two of them were toghter'
+[Sun Jul 01 18:32:48 2001] Eillail tells you, 'No no one told me it was there camp '
+[Sun Jul 01 18:32:59 2001] You told Eillail, 'sigh... okay, thanks for your time!'
+[Sun Jul 01 18:33:00 2001] Larsot GMSAYS, 'deleting pet on boat issue'
+[Sun Jul 01 18:33:15 2001] You thank Eillail heartily.
+[Sun Jul 01 18:33:21 2001] It begins to rain.
+[Sun Jul 01 18:33:23 2001] You GMSAY, 'zone'
+[Sun Jul 01 18:33:26 2001] Eillail tells you, 'no one started battle before I jumped in I cast once on it and it was over '
+[Sun Jul 01 18:33:54 2001] You told Eillail, 'Okay, thank you!'
+[Sun Jul 01 18:33:58 2001] Eillail tells you, 'after link looted it i started getting the tells from Alu about ks his camp '
+[Sun Jul 01 18:34:07 2001] You told Eillail, 'you didn't KS'
+[Sun Jul 01 18:34:14 2001] You feel the spirit of Norrath enter you.
+[Sun Jul 01 18:34:15 2001] Your feet leave the ground.
+[Sun Jul 01 18:34:23 2001] You feel the spirit of Z surround you.
+[Sun Jul 01 18:34:24 2001] Teleporting to aluweyen.
+[Sun Jul 01 18:34:24 2001] You feel the spirit of Z surround you.
+[Sun Jul 01 18:34:25 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 18:34:50 2001] You have entered Highpass Hold.
+[Sun Jul 01 18:34:50 2001] You have formed the group.
+[Sun Jul 01 18:34:52 2001] Eillail tells you, 'thank you im so sorry it happen I told Aluw I would be happy to assit him when he got the spawn.. '
+[Sun Jul 01 18:34:56 2001] Aluweyen says, 'Hail, Espranza'
+[Sun Jul 01 18:35:10 2001] Aluweyen says, 'linkinn just ran by again'
+[Sun Jul 01 18:35:13 2001] You told Eillail, 'was just a misunderstanding'
+[Sun Jul 01 18:35:30 2001] Larsot GMSAYS, 'pulling Xenril'
+[Sun Jul 01 18:35:37 2001] Aluweyen says, 'r u there?'
+[Sun Jul 01 18:35:52 2001] You told Aluweyen, 'Eillail said neither you nor Linkinn were fighting the person when he got there?'
+[Sun Jul 01 18:36:04 2001] Aluweyen tells you, 'i was about to fight him'
+[Sun Jul 01 18:36:08 2001] Eillail tells you, 'happen real fast I guess should have gotten more facts first never happen to me before (((('
+[Sun Jul 01 18:36:16 2001] Aluweyen tells you, 'i was wondering what eillail was doing there'
+[Sun Jul 01 18:36:21 2001] It begins to rain.
+[Sun Jul 01 18:36:22 2001] You told Eillail, 'no worries. it's a nasty camp. tempers flare.'
+[Sun Jul 01 18:36:28 2001] Aluweyen tells you, 'and i was worried about linkinn'
+[Sun Jul 01 18:36:53 2001] Eillail tells you, 'yes AI have seen kinda the likes before now all wants you to smooth it out '
+[Sun Jul 01 18:37:02 2001] You told Aluweyen, 'Linkinn says you and he both tried several times to kill Dyllan but were unable to'
+[Sun Jul 01 18:37:35 2001] Eillail tells you, 'thanks you Again for your Valuable time Espranza ^_^'
+[Sun Jul 01 18:37:41 2001] Aluweyen tells you, 'it was my camp, he told me it was, and he told eillail to come help HIM kill dyllin'
+[Sun Jul 01 18:37:45 2001] You told Eillail, 'thank you for being a great help!'
+[Sun Jul 01 18:38:00 2001] Aluweyen tells you, 'am i gonna get any help, or am i SOL, just tell me now'
+[Sun Jul 01 18:38:01 2001] Eillail tells you, 'it was my Honor to assist you '
+[Sun Jul 01 18:38:21 2001] You told Aluweyen, 'All I can do now is try to figure out if anyone gets a warning here.'
+[Sun Jul 01 18:38:35 2001] Boggwin auctions, 'WTS Crystalline belt - 1k obo'
+[Sun Jul 01 18:38:35 2001] Eillail tells you, 'can you make it spawn if yes Ill come back right now ????'
+[Sun Jul 01 18:38:49 2001] Aluweyen tells you, 'if anyone its linkinn, but whatever, ive told u everything i know'
+[Sun Jul 01 18:39:09 2001] You told Eillail, 'No, I cannot spawn things... gosh, EVERYONE would be after me if I could!'
+[Sun Jul 01 18:39:15 2001] Deliaofdalmatia begins to cast a spell. (Holy Might)
+[Sun Jul 01 18:39:21 2001] Aluweyen tells you, 'i guess i sit and wait for 7 hrs'
+[Sun Jul 01 18:39:25 2001] Eillail tells you, 'hehehe well your like a god really :) '
+[Sun Jul 01 18:39:41 2001] Deliaofdalmatia begins to cast a spell. (Holy Might)
+[Sun Jul 01 18:39:51 2001] You told Aluweyen, 'I'm sorry... I wish I could just hand you the page, but such is beyond my power.'
+[Sun Jul 01 18:40:03 2001] Aluweyen tells you, 'so whats gonna happen....'
+[Sun Jul 01 18:40:07 2001] You told Aluweyen, 'Linkinn went and completed the quest already.'
+[Sun Jul 01 18:40:11 2001] Deliaofdalmatia begins to cast a spell. (Holy Might)
+[Sun Jul 01 18:40:18 2001] You told Aluweyen, 'Are you able to kill Dyllan alone?'
+[Sun Jul 01 18:40:23 2001] Aluweyen tells you, 'yes'
+[Sun Jul 01 18:40:23 2001] Deliaofdalmatia begins to cast a spell. (Greater Healing)
+[Sun Jul 01 18:40:28 2001] Deliaofdalmatia begins to cast a spell. (Greater Healing)
+[Sun Jul 01 18:40:32 2001] Aluweyen tells you, 'i am'
+[Sun Jul 01 18:40:33 2001] Deliaofdalmatia begins to cast a spell. (Greater Healing)
+[Sun Jul 01 18:40:56 2001] You told Aluweyen, 'Why hadn't you attacked it, then?'
+[Sun Jul 01 18:41:00 2001] Aluweyen tells you, 'he spawns at the most lvl 16'
+[Sun Jul 01 18:41:34 2001] Aluweyen tells you, 'i was tryin to buff and med before i attacked, that always helps'
+[Sun Jul 01 18:41:41 2001] Larsot tells the group, 'i have a person here who has waited three days to talk to Lirus about lost items. he/she will not take my answer. shall I escalate it to you Esp?'
+[Sun Jul 01 18:41:50 2001] You tell your party, 'what items?'
+[Sun Jul 01 18:41:54 2001] Aluweyen tells you, 'do u agree?'
+[Sun Jul 01 18:41:55 2001] You tell your party, 'and how were they lost?'
+[Sun Jul 01 18:42:16 2001] You told Aluweyen, 'certainly. Linkinn says, however, neither you nor he were able to kill Dyllan.'
+[Sun Jul 01 18:42:26 2001] Aluweyen tells you, 'cuz i didnt buff myself'
+[Sun Jul 01 18:42:40 2001] Larsot tells the group, 'i told her that we cannotrhehe, that i did  :/'
+[Sun Jul 01 18:42:49 2001] Larsot tells the group, 'grrr'
+[Sun Jul 01 18:42:57 2001] You tell your party, 'did you refer her to the reimbursement policy?'
+[Sun Jul 01 18:43:01 2001] Jonwin shouts, 'Gnollls need on more'
+[Sun Jul 01 18:43:05 2001] Larsot tells the group, 'i toild her we cannot reimburse her but she will not take my answer'
+[Sun Jul 01 18:43:23 2001] Larsot tells the group, 'she says gm has reimbursed friends, yadda yadda'
+[Sun Jul 01 18:43:26 2001] You told Aluweyen, 'Well.... I can't find any clear idea of exactly what happened.'
+[Sun Jul 01 18:43:31 2001] You tell your party, 'esc to me I guess'
+[Sun Jul 01 18:43:36 2001] Aluweyen tells you, 'i just dont like crap like this to keep happening....its a shame'
+[Sun Jul 01 18:43:41 2001] Larsot tells the group, 'ok, sorry Esp  :('
+[Sun Jul 01 18:44:13 2001] You told Aluweyen, 'There's not a whole lot we can do; we'd like people to have the common courtesy to respect other people's camping time, but that depends on the people.'
+[Sun Jul 01 18:44:25 2001] Aluweyen tells you, 'well thanks for your help...looks like i sit and wait ('
+[Sun Jul 01 18:44:32 2001] You comfort Aluweyen.
+[Sun Jul 01 18:44:40 2001] Aluweyen tells you, 'let me ask u something'
+[Sun Jul 01 18:44:43 2001] You told Aluweyen, 'this is a very bad camp...'
+[Sun Jul 01 18:44:45 2001] You told Aluweyen, 'sure'
+[Sun Jul 01 18:44:53 2001] Larsot GMSAYS, 'escalating lost item pet'
+[Sun Jul 01 18:44:54 2001] Espranza saved.
+[Sun Jul 01 18:45:05 2001] You told Linkinn, 'You're off the hook. Sounds like you did something shady, not a lot can be proven though.'
+[Sun Jul 01 18:45:10 2001] Aluweyen tells you, 'how many problems do u guys resolve?'
+[Sun Jul 01 18:45:17 2001] You told Aluweyen, 'as many as we possibly can.'
+[Sun Jul 01 18:45:31 2001] Aluweyen tells you, 'cuz everytime i or someone i know petitions, we always get the same ansewer'
+[Sun Jul 01 18:45:38 2001] You told Aluweyen, 'this one has taken at least twenty minutes of my time, but I'm glad to look into these things.'
+[Sun Jul 01 18:45:52 2001] DELETING THIS PETITION
+[Sun Jul 01 18:46:05 2001] You tell your party, 'bitch bitch bitch'
+[Sun Jul 01 18:46:08 2001] Aluweyen tells you, 'its nothing against u, it just seems like u guys never get anything fixed, u just listen to both sides and say oh well'
+[Sun Jul 01 18:46:11 2001] Larsot tells the group, 'aye'
+[Sun Jul 01 18:46:22 2001] Aluweyen tells you, 'well, i guess i go now'
+[Sun Jul 01 18:46:27 2001] Aluweyen tells you, 'farewell'
+[Sun Jul 01 18:46:29 2001] You told Aluweyen, 'I would like to make everyone happy. Trust me, it would make my job a thousand times easier.'
+[Sun Jul 01 18:46:36 2001] Aluweyen tells you, 'oh i know'
+[Sun Jul 01 18:46:36 2001] You feel as if you are about to fall.
+[Sun Jul 01 18:46:37 2001] You told Aluweyen, 'Be well... best of luck.'
+[Sun Jul 01 18:46:40 2001] Aluweyen tells you, 'bye'
+[Sun Jul 01 18:46:42 2001] You feel as if you are about to fall.
+[Sun Jul 01 18:46:47 2001] You tell your party, 'another satisfied customer'
+[Sun Jul 01 18:46:48 2001] You can no longer levitate.
+[Sun Jul 01 18:46:56 2001] Larsot tells the group, 'yeah right  ;)'
+[Sun Jul 01 18:46:59 2001] You GMSAY, 'zone'
+[Sun Jul 01 18:47:02 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 18:47:20 2001] You have entered Sunset Home.
+[Sun Jul 01 18:47:21 2001] You have formed the group.
+[Sun Jul 01 18:47:53 2001] You tell your party, 'there's a conspiracy; guides take real pleasure in making people unhappy.'
+[Sun Jul 01 18:47:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 18:48:21 2001] You GMSAY, 'furgle. queue lock. brb'
+[Sun Jul 01 18:48:23 2001] USER TEXT: Camp problem at orc 2 in EC 
+[Sun Jul 01 18:48:23 2001] Players in EverQuest:
+[Sun Jul 01 18:48:23 2001] ---------------------------
+[Sun Jul 01 18:48:23 2001] [ANON (41 Cleric)] Auidin (High Elf) ZONE: tox (USER PID GWEUGAN)
+[Sun Jul 01 18:48:23 2001] There is 1 player in EverQuest.
+[Sun Jul 01 18:48:26 2001] Linkinn tells you, 'i gave the other person more than a fare chance and like the other gm said camps are a player thing and you guyz cant really do nething bout it i was more than fare an i payed for my service and comitted no wrong..nothin "shady" happen'd '
+[Sun Jul 01 18:48:29 2001] You GMSAY, 'oops nm'
+[Sun Jul 01 18:48:59 2001] Larsot tells the group, 'thats what they think'
+[Sun Jul 01 18:49:11 2001] Larsot tells the group, 'can I do a /w on a PID?'
+[Sun Jul 01 18:49:16 2001] You told Linkinn, 'well, thank you for your time. be well.'
+[Sun Jul 01 18:49:17 2001] You tell your party, 'sure'
+[Sun Jul 01 18:49:51 2001] You tell your party, 'oooh camp problem at orc 2.'
+[Sun Jul 01 18:49:58 2001] You tell your party, 'because that's the only place to hunt.'
+[Sun Jul 01 18:50:05 2001] You tell your party, 'petitioner is level 41!'
+[Sun Jul 01 18:50:11 2001] Larsot GMSAYS, 'U/A pet DP46Z7G'
+[Sun Jul 01 18:50:16 2001] You tell your party, 'only place to hunt for level 41s now.'
+[Sun Jul 01 18:50:23 2001] Larsot tells the group, 'hehe'
+[Sun Jul 01 18:50:29 2001] Players in EverQuest:
+[Sun Jul 01 18:50:29 2001] ---------------------------
+[Sun Jul 01 18:50:29 2001] [ANON (41 Cleric)] Auidin (High Elf) ZONE: tox (USER PID GWEUGAN)
+[Sun Jul 01 18:50:29 2001] There is 1 player in EverQuest.
+[Sun Jul 01 18:50:51 2001] Larsot GMSAYS, 'Lirus people here are giving away your secrets  ;)'
+[Sun Jul 01 18:50:54 2001] You told Auidin, 'Hail, Auidin! Guide Espranza here. How may I help you?'
+[Sun Jul 01 18:51:26 2001] Auidin tells you, 'Thank you for your assistance but we made a compromise. Terribly sorry to trouble you.'
+[Sun Jul 01 18:51:27 2001] Lirus GMSAYS, 'huh?'
+[Sun Jul 01 18:51:29 2001] You tell your party, 'which of Lirus' secrets?'
+[Sun Jul 01 18:51:33 2001] You told Auidin, 'okay, be well!'
+[Sun Jul 01 18:51:36 2001] DELETING THIS PETITION
+[Sun Jul 01 18:51:36 2001] Lirus GMSAYS, 'zone'
+[Sun Jul 01 18:51:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 18:51:39 2001] USER TEXT: there is a person here who is not sharing properly. we are a group of six and he takes half the kills.
+[Sun Jul 01 18:51:39 2001] Players in EverQuest:
+[Sun Jul 01 18:51:39 2001] ---------------------------
+[Sun Jul 01 18:51:39 2001] [9 Rogue] Despairity (Dark Elf) ZONE: ecommons (USER PID AZJ6GRJ)
+[Sun Jul 01 18:51:39 2001] There is 1 player in EverQuest.
+[Sun Jul 01 18:51:39 2001] Auidin tells you, 'You as well'
+[Sun Jul 01 18:51:51 2001] You GMSAY, 'zone'
+[Sun Jul 01 18:51:55 2001] You GMSAY, 'and hiding'
+[Sun Jul 01 18:51:59 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 18:52:26 2001] Karekano auctions, 'WTB crushed topaz 1300pp'
+[Sun Jul 01 18:52:26 2001] Wbik auctions, 'WTS +6 wis rings 225pp ea  400pp pair'
+[Sun Jul 01 18:52:26 2001] Laurelle auctions, '<WTS> Hooded Black Cloak - 6k'
+[Sun Jul 01 18:52:26 2001] Grabothor auctions, 'WTS CHITIN SHELL SHIELD 15AC 10SV POISON SEND TELLS'
+[Sun Jul 01 18:52:26 2001] Siindell auctions, 'WTS harpoon of the depths, 8/25 dex 2 hps 20, 400pp obo'
+[Sun Jul 01 18:52:26 2001] Aerial auctions, 'WTS 7int 7str necklace 550pp :: 8int 8str neck 1kpp'
+[Sun Jul 01 18:52:26 2001] Shaksimag auctions, 'WTS WTT Fang of the Garou 9/28 Proc Lifespike 1kpp, Cougar Claw Earring 200pp, OBO on both, send tells'
+[Sun Jul 01 18:52:26 2001] Lodusone auctions, 'WTS jaded ring +5 mana +5HP'
+[Sun Jul 01 18:52:28 2001] You have entered East Commonlands.
+[Sun Jul 01 18:52:28 2001] You have formed the group.
+[Sun Jul 01 18:52:30 2001] Sdori auctions, 'WTBuy Fighting Batons or Cane of Tranquil..  send tell pls :)'
+[Sun Jul 01 18:52:30 2001] Shaksimag auctions, 'WTB Brown Rust Fine Plate Greeves (leg) paying 150pp, Legs for mage'
+[Sun Jul 01 18:52:30 2001] Aerial auctions, 'WTS 4int ring 225pp :: 5int ring 500pp'
+[Sun Jul 01 18:52:30 2001] Larsot GMSAYS, 'pulling Melnok'
+[Sun Jul 01 18:52:31 2001] Espranza is now Invisible.
+[Sun Jul 01 18:52:31 2001] You are now anonymous.
+[Sun Jul 01 18:52:32 2001] Ssleve says out of character, 'is orc 2 camped?'
+[Sun Jul 01 18:52:35 2001] Laurelle auctions, '<WTB> Crystalline Longsword'
+[Sun Jul 01 18:52:35 2001] Karekano auctions, 'WTS Blue diamond'
+[Sun Jul 01 18:52:35 2001] Sdori auctions, 'WTS Ottherhide Sleeves ac8 agi3.   50pp'
+[Sun Jul 01 18:52:37 2001] Agrimon auctions, 'WTS Frozen mantle AC6 Mana 10'
+[Sun Jul 01 18:52:38 2001] Taleris auctions, 'WTS Gatorscale Leggings 7ac 4wis 15hp'
+[Sun Jul 01 18:52:38 2001] Alonious auctions, 'WTS Blood Ember arms 21AC SK only only 4K pp send tells please'
+[Sun Jul 01 18:52:39 2001] Stejas auctions, 'wts iksar scaled gloves 10ac 10hp 3str 3dex '
+[Sun Jul 01 18:52:40 2001] Lodusone auctions, 'WTS jaded ring +5 mana +5HP'
+[Sun Jul 01 18:52:42 2001] Sdori auctions, 'WTS Silvery War Axe 1hs 6dmg 22dly..   100pp'
+[Sun Jul 01 18:52:43 2001] Soulston auctions, 'WTS Ebon razor 1hs 25dly 9dmg Sv F+4 C+4 M+4 Send tell'
+[Sun Jul 01 18:52:43 2001] Teleporting to despairity.
+[Sun Jul 01 18:52:44 2001] Soulston auctions, 'WTS Crystallized Blade 1hs 31dly 13dmg Pal Shd only send tell'
+[Sun Jul 01 18:52:46 2001] Despairity feels better.
+[Sun Jul 01 18:52:46 2001] orc centurion has been slain by Jazen!
+[Sun Jul 01 18:52:46 2001] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. 
+[Sun Jul 01 18:52:47 2001] Sdori auctions, 'WTS Exe Hood ac5 str4 dex9..  200pp'
+[Sun Jul 01 18:52:47 2001] Soulston auctions, 'Chipped Onyx Sapphire 500pp send tell'
+[Sun Jul 01 18:52:52 2001] Sdori auctions, 'WTS cleric Burnyai Legion Gi.   ac14 hp15 mana25.    nice look..    200pp'
+[Sun Jul 01 18:52:53 2001] Ralrari auctions, 'WTS Runed Cirlet Ac4 Wis4 int4 head slot all/all'
+[Sun Jul 01 18:52:57 2001] Ralrari auctions, 'WTS Zaharh Coronet Ac5 Str3 Mana25 head CLR DRU SHM'
+[Sun Jul 01 18:52:57 2001] Vinian auctions, 'wts med FP Bracer, mask'
+[Sun Jul 01 18:52:57 2001] Tarrk shouts, 'congrats to Isobar, who snapped up tha stacks of sow'
+[Sun Jul 01 18:52:57 2001] Sharnhorst auctions, 'WTT Club of the Ice Ocean for 2 Bloodpoints -- give tell, need specific trade... or looking to aquire a single Bloodpoint, give tell'
+[Sun Jul 01 18:52:58 2001] Laurelle auctions, '<WTS> Hooded Black Cloak - 6k'
+[Sun Jul 01 18:53:00 2001] Shaksimag auctions, 'WTS WTT Fang of the Garou 9/28 Proc Lifespike 1kpp, Cougar Claw Earring 200pp, OBO on both, send tells'
+[Sun Jul 01 18:53:00 2001] Lodusone auctions, 'WTS jaded ring +5 mana +5HP'
+[Sun Jul 01 18:53:03 2001] Laeleran auctions, 'WTS ry'gorr battle mail, 18ac10str. 1.2k obo'
+[Sun Jul 01 18:53:03 2001] Shaksimag auctions, 'WTB Brown Rust Fine Plate Greeves (leg) paying 150pp, Legs for mage'
+[Sun Jul 01 18:53:05 2001] Machevelin auctions, 'SELLING. Prim,Secondary, Sarhak Pitchatka,1HS,7dmg,33dly'
+[Sun Jul 01 18:53:05 2001] Slickey auctions, 'WTS ravenscale boots'
+[Sun Jul 01 18:53:11 2001] Moxit auctions, 'WTS Crystal Webshield AC15 Mana20 SVC10 650pp'
+[Sun Jul 01 18:53:13 2001] Isobar auctions, 'WTS crystalized two handed sword-24/49 <> harpoon of the depths 8/25 2dex 20hp <> spiked collar  3ac/STR <> envy 7ac, 7sv fire 3sv magic(shield) <> walrus tooth  6/22 3sre 6sta send tells with offers will take trades'
+[Sun Jul 01 18:53:15 2001] Larsot tells the group, 'did you know that Esp?'
+[Sun Jul 01 18:53:20 2001] Zaar auctions, 'WTB FP BP !!!!'
+[Sun Jul 01 18:53:21 2001] Ralrari auctions, 'WTS Zaharh Coronet Ac5 Str3 Mana25 head CLR DRU SHM'
+[Sun Jul 01 18:53:22 2001] You tell your party, 'what? sorry - was zoning'
+[Sun Jul 01 18:53:27 2001] Larsot tells the group, 'that Lirus is really a female  :P'
+[Sun Jul 01 18:53:27 2001] Ralrari auctions, 'WTS Runed Cirlet Ac4 Wis4 int4 head slot all/all'
+[Sun Jul 01 18:53:30 2001] Laeleran auctions, 'WTS ry'gorr battle mail, 18ac10str. 1.2k obo'
+[Sun Jul 01 18:53:31 2001] Shaksimag auctions, 'WTS WTT Fang of the Garou 9/28 Proc Lifespike 1kpp, Cougar Claw Earring 200pp, OBO on both, send tells'
+[Sun Jul 01 18:53:33 2001] You tell your party, 'yeah'
+[Sun Jul 01 18:53:33 2001] Shaksimag auctions, 'WTB Brown Rust Fine Plate Greeves (leg) paying 150pp, Legs for mage'
+[Sun Jul 01 18:53:34 2001] Stejas auctions, 'wts iksar scaled gloves 10ac 10hp 3str 3dex '
+[Sun Jul 01 18:53:36 2001] Osorii auctions, 'WTS shadwurm eye 5 int 3 dex range and secondary slot 4K send tell'
+[Sun Jul 01 18:53:37 2001] Vasober begins to cast a spell. (WaterElementalAttack)
+[Sun Jul 01 18:53:37 2001] Elliee begins to cast a spell. (Flame Bolt)
+[Sun Jul 01 18:53:38 2001] Agrimon shouts, 'PC On Frozen Mantle AC 6, Mana 10, ALL ALL'
+[Sun Jul 01 18:53:42 2001] Dolaldor auctions, 'ORNATE RUNE BLADE high end 2hs selling trading'
+[Sun Jul 01 18:53:43 2001] Aaraddar begins to cast a spell. (Fire Bolt)
+[Sun Jul 01 18:53:43 2001] Vasober begins to cast a spell. (WaterElementalAttack)
+[Sun Jul 01 18:53:44 2001] Dolaldor auctions, 'SELLING alot of STUFF IN BAG 2 torch'
+[Sun Jul 01 18:53:45 2001] orc centurion has been slain by Elliee!
+[Sun Jul 01 18:53:45 2001] orc centurion says 'Aaarrghh!! The Deathfist shall hunt you down. My death will not go unnoticed. 
+[Sun Jul 01 18:53:45 2001] Ralrari auctions, 'WTS Runed Cirlet Ac4 Wis4 int4 head slot all/all'
+[Sun Jul 01 18:53:46 2001] Lodusone auctions, 'WTS silvered star ruby veil dex+5 cha+5'
+[Sun Jul 01 18:53:46 2001] Machevelin auctions, 'SELLING. Prim,Secondary, Sarhak Pitchatka,1HS,7dmg,33dly'
+[Sun Jul 01 18:53:48 2001] Jiljamesh says out of character, '30pp on mantle'
+[Sun Jul 01 18:53:48 2001] You tell your party, 'was it a secret?'
+[Sun Jul 01 18:53:49 2001] Larsot tells the group, 'hehe, some secret  :P'
+[Sun Jul 01 18:53:53 2001] Procyon auctions, 'WTS/T Golden Efreeti Boots'
+[Sun Jul 01 18:53:55 2001] Moxit auctions, 'WTS Crystal Webshield AC15 Mana20 SVC10 650pp'
+[Sun Jul 01 18:53:57 2001] Moxit auctions, 'Wts Goblin Trail Blazer's knife 24/5 sta5 300pp'
+[Sun Jul 01 18:54:04 2001] Fryynde auctions, 'WTS Crystal Covered Shroud (Chest Item) (12 AC, +4 WIS, +4 INT, +4 STR, +10 vs. Cold, All pure casters as well as Human Druids)- 500pp obo.'
+[Sun Jul 01 18:54:04 2001] Shaksimag auctions, 'WTS WTT Fang of the Garou 9/28 Proc Lifespike 1kpp, Cougar Claw Earring 200pp, OBO on both, send tells'
+[Sun Jul 01 18:54:07 2001] Zudram auctions, 'Selling 6 Bags of Small Bronze, Banded, and leather along with Weapons at the Second Torch. Hail me to see the bags.'
+[Sun Jul 01 18:54:08 2001] Shaksimag auctions, 'WTB Brown Rust Fine Plate Greeves (leg) paying 150pp, Legs for mage'
+[Sun Jul 01 18:54:08 2001] Ralrari auctions, 'WTS Runed Cirlet Ac4 Wis4 int4 head slot all/all'
+[Sun Jul 01 18:54:08 2001] Lodusone auctions, 'WTS polished bone hoop earing  +10 mana 20pp'
+[Sun Jul 01 18:54:09 2001] Lodusone auctions, 'WTS silvered star ruby veil dex+5 cha+5'
+[Sun Jul 01 18:54:09 2001] Stejas auctions, 'wts iksar scaled gloves 10ac 10hp 3str 3dex '
+[Sun Jul 01 18:54:11 2001] Ralrari auctions, 'WTS Zaharh Coronet Ac5 Str3 Mana25 head CLR DRU SHM'
+[Sun Jul 01 18:54:17 2001] You told Despairity, 'Hail, Despairity! Guide Espranza here. Is there still a problem at the orc camp?'
+[Sun Jul 01 18:54:17 2001] Osorii auctions, 'WTS shadwurm eye 5 int 3 dex range and secondary slot 4K send tell'
+[Sun Jul 01 18:54:20 2001] Tilon shouts, 'at what lvl could i tailor mq pelts'
+[Sun Jul 01 18:54:23 2001] Peachiez auctions, 'WTS Thick Banded Belt ac8 str+15, all/all'
+[Sun Jul 01 18:54:24 2001] Vasober begins to cast a spell. (WaterElementalAttack)
+[Sun Jul 01 18:54:25 2001] Machevelin auctions, 'SELLING. Prim,Secondary, Sarhak Pitchatka,1HS,7dmg,33dly'
+[Sun Jul 01 18:54:25 2001] Elliee begins to cast a spell. (Flame Bolt)
+[Sun Jul 01 18:54:26 2001] Dolaldor auctions, 'ORNATE RUNE BLADE high end 2hs selling trading'
+[Sun Jul 01 18:54:33 2001] Zaar auctions, 'WTB FP BP!'
+[Sun Jul 01 18:54:34 2001] Vanninu begins to cast a spell. (Light Healing)
+[Sun Jul 01 18:54:34 2001] Shaksimag auctions, 'WTS WTT Fang of the Garou 9/28 Proc Lifespike 1kpp, Cougar Claw Earring 200pp, OBO on both, send tells'
+[Sun Jul 01 18:54:37 2001] Despairity tells you, 'no thank you very much =) he left ;)'
+[Sun Jul 01 18:54:38 2001] Shaksimag auctions, 'WTB Brown Rust Fine Plate Greeves (leg) paying 150pp, Legs for mage'
+[Sun Jul 01 18:54:42 2001] Caeoen auctions, 'WTS Cane of Tranquil 1kp'
+[Sun Jul 01 18:54:45 2001] You told Despairity, 'okay, thank you! be well!'
+[Sun Jul 01 18:54:46 2001] Camembert auctions, 'WTS Ring of Frost Int3 Mana10'
+[Sun Jul 01 18:54:46 2001] Isobar auctions, 'WTS harpoon of the depths 350pp'
+[Sun Jul 01 18:54:47 2001] DELETING THIS PETITION
+[Sun Jul 01 18:54:47 2001] Larsot GMSAYS, 'deleting pet, problem solved on their own  :D'
+[Sun Jul 01 18:54:48 2001] Camembert auctions, 'WTS Tizmak Legs AC8 '
+[Sun Jul 01 18:54:50 2001] Sharnhorst auctions, 'WTT Club of the Ice Ocean for 2 Bloodpoints -- give tell, need specific trade... or looking to aquire a single Bloodpoint, give tell'
+[Sun Jul 01 18:54:50 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 18:54:51 2001] USER TEXT: hail, I have been trying to speak with a GM for the past 3 days, each time the GMs have logged, I would like to speak to a GM please!
+[Sun Jul 01 18:54:51 2001] Players in EverQuest:
+[Sun Jul 01 18:54:51 2001] ---------------------------
+[Sun Jul 01 18:54:51 2001] [ANON (5 Monk)] Xenril (Iksar) ZONE: cabeast (USER PID ENWTLPU)
+[Sun Jul 01 18:54:51 2001] There is 1 player in EverQuest.
+[Sun Jul 01 18:54:51 2001] Despairity tells you, 'be well!'
+[Sun Jul 01 18:54:54 2001] Taleris auctions, 'WTS Gatorscale Leggings 7ac 4wis 15hp'
+[Sun Jul 01 18:54:54 2001] Procyon auctions, 'WTS/T Golden Efreeti Boots'
+[Sun Jul 01 18:54:57 2001] Tipti begins to cast a spell. (Furor)
+[Sun Jul 01 18:55:03 2001] Vasober begins to cast a spell. (WaterElementalAttack)
+[Sun Jul 01 18:55:05 2001] Osorii auctions, 'WTS shadwurm eye 5 int 3 dex range and secondary slot 4K send tell'
+[Sun Jul 01 18:55:06 2001] Elliee begins to cast a spell. (Flame Bolt)
+[Sun Jul 01 18:55:09 2001] Ralrari auctions, 'WTS Runed Cirlet Ac4 Wis4 int4 head slot all/all'
+[Sun Jul 01 18:55:11 2001] You tell your party, 'I'm going to talk to Xenril a little and then log off.'
+[Sun Jul 01 18:55:12 2001] Fryynde auctions, 'WTS Crystal Covered Shroud (Chest Item) (12 AC, +4 WIS, +4 INT, +4 STR, +10 vs. Cold, All pure casters as well as Human Druids)- 500pp obo.'
+[Sun Jul 01 18:55:14 2001] Elliee begins to cast a spell. (Burn)
+[Sun Jul 01 18:55:14 2001] Vasober begins to cast a spell. (WaterElementalAttack)
+[Sun Jul 01 18:55:16 2001] Ralrari auctions, 'WTS Zaharh Coronet Ac5 Str3 Mana25 head CLR DRU SHM'
+[Sun Jul 01 18:55:18 2001] Larsot tells the group, 'ok'
+[Sun Jul 01 18:55:18 2001] Shaksimag auctions, 'WTS WTT Fang of the Garou 9/28 Proc Lifespike 1kpp, Cougar Claw Earring 200pp, OBO on both, send tells'
+[Sun Jul 01 18:55:20 2001] Isobar auctions, 'WTS cured tizmak surcoat 150pp'
+[Sun Jul 01 18:55:20 2001] Shaksimag auctions, 'WTB Brown Rust Fine Plate Greeves (leg) paying 150pp, Legs for mage'
+[Sun Jul 01 18:55:22 2001] Machevelin auctions, 'SELLING. Prim,Secondary, Sarhak Pitchatka,1HS,7dmg,33dly'
+[Sun Jul 01 18:55:23 2001] Lodusone auctions, 'WTS jaded ring +5 mana +5HP'
+[Sun Jul 01 18:55:23 2001] You tell your party, 'was kidding!'
+[Sun Jul 01 18:55:24 2001] Lodusone auctions, 'WTS silvered star ruby veil dex+5 cha+5'
+[Sun Jul 01 18:55:24 2001] Lirus GMSAYS, 'going to lunch guys and gals, be back in an hour'
+[Sun Jul 01 18:55:24 2001] Larsot tells the group, 'ill log off when you do then'
+[Sun Jul 01 18:55:26 2001] Mortisia shouts, 'mummy to tunnel'
+[Sun Jul 01 18:55:36 2001] Agrimon auctions, 'WTS Cured Tizmack Tunic AC 15, Sv Magic 7 wgt 3'
+[Sun Jul 01 18:55:36 2001] Moxit auctions, 'WTS Crystal Webshield AC15 Mana20 SVC10 650pp'
+[Sun Jul 01 18:55:38 2001] Moxit auctions, 'Wts Goblin head-Spear 29/8 svp/svd 10 600pp'
+[Sun Jul 01 18:55:38 2001] You tell your party, 'no no was a joke - saying whenever s/he petitions, the person logs'
+[Sun Jul 01 18:55:38 2001] Agrimon auctions, 'WTS Mithril Frog Totem 5AGI 35Mana, Hand Item'
+[Sun Jul 01 18:55:40 2001] Moxit auctions, 'Wts Goblin Trail Blazer's knife 24/5 sta5 300pp'
+[Sun Jul 01 18:55:41 2001] Agrimon auctions, 'WTS Bloodstained Fang 9dmg 32delay'
+[Sun Jul 01 18:55:43 2001] Larsot GMSAYS, 'ok boss'
+[Sun Jul 01 18:55:43 2001] Lexxis auctions, 'WTB necro spell Chill Bones:)'
+[Sun Jul 01 18:55:44 2001] Procyon auctions, 'WTS/T Golden Efreeti Boots'
+[Sun Jul 01 18:55:44 2001] Isobar auctions, 'WTS crystalized two handed sword-24/49 <> harpoon of the depths 8/25 2dex 20hp <> spiked collar  3ac/STR <> envy 7ac, 7sv fire 3sv magic(shield) <> walrus tooth  6/22 3sre 6sta send tells with offers will take trades'
+[Sun Jul 01 18:55:50 2001] Mortisia shouts, 'maybe'
+[Sun Jul 01 18:55:51 2001] Zudram auctions, 'Selling 6 Bags of Small Bronze, Banded, and leather along with Weapons at the Second Torch. Hail me to see the bags.'
+[Sun Jul 01 18:55:51 2001] Stejas auctions, 'wts iksar scaled gloves 10ac 10hp 3str 3dex '
+[Sun Jul 01 18:55:52 2001] Boggwin auctions, 'WTS Crystalline Belt (3 wis 3 agi 10 hp) - 1k obo'
+[Sun Jul 01 18:55:53 2001] Gabrila auctions, 'want to buy a full armor for a pally send tell'
+[Sun Jul 01 18:55:53 2001] Ralrari auctions, 'WTS Runed Cirlet Ac4 Wis4 int4 head slot all/all'
+[Sun Jul 01 18:55:54 2001] Lodusone auctions, 'WTS jaded ring +5 mana +5HP'
+[Sun Jul 01 18:55:55 2001] Larsot tells the group, 'ahhh'
+[Sun Jul 01 18:55:55 2001] Wbik auctions, 'WTS +6 wis rings 225pp ea  400pp pair'
+[Sun Jul 01 18:55:55 2001] Machevelin auctions, 'SELLING. Prim,Secondary, Sarhak Pitchatka,1HS,7dmg,33dly'
+[Sun Jul 01 18:55:55 2001] Gabrila auctions, 'want to buy a full armor for a pally send tell'
+[Sun Jul 01 18:55:56 2001] Sharnhorst auctions, 'WTT Club of the Ice Ocean for 2 Bloodpoints -- give tell, need specific trade... or looking to aquire a single Bloodpoint, give tell'
+[Sun Jul 01 18:55:58 2001] Gabrila auctions, 'want to buy a full armor for a pally send tell'
+[Sun Jul 01 18:56:01 2001] Slickey auctions, 'WTB mithral arms plz send tell'
+[Sun Jul 01 18:56:02 2001] Ralrari auctions, 'WTS Zaharh Coronet Ac5 Str3 Mana25 head CLR DRU SHM'
+[Sun Jul 01 18:56:02 2001] You tell your party, 'too noisy here...'
+[Sun Jul 01 18:56:02 2001] Slickey auctions, 'WTS ravenscale boots'
+[Sun Jul 01 18:56:02 2001] Lodusone auctions, 'WTS silvered star ruby veil dex+5 cha+5'
+[Sun Jul 01 18:56:04 2001] Lodusone auctions, 'WTS jaded ring +5 mana +5HP'
+[Sun Jul 01 18:56:04 2001] You GMSAY, 'zone'
+[Sun Jul 01 18:56:05 2001] Xethissh auctions, 'wts harpoon 8 25,2dex 20hp,great weapon for rogue!'
+[Sun Jul 01 18:56:07 2001] Slickey auctions, 'WTS ruined bone fork 5 29 fire 10 cold 10 mag 10'
+[Sun Jul 01 18:56:07 2001] Xethissh auctions, 'wts goblin flamberge 15 40,5dex,150pp,send tells'
+[Sun Jul 01 18:56:08 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 18:56:35 2001] You have entered Cabilis East.
+[Sun Jul 01 18:56:35 2001] You have formed the group.
+[Sun Jul 01 18:56:40 2001] It begins to rain.
+[Sun Jul 01 18:57:10 2001] GM TEXT: Larsot: subject lost 2 runed mithril bracers and a forrest loor while trading with her friend, items supposedly disappeared and noone recieved items
+[Sun Jul 01 18:57:13 2001] Zazlan Furscale begins to cast a spell. (Alacrity)
+[Sun Jul 01 18:57:37 2001] You are no longer anonymous.
+[Sun Jul 01 18:58:27 2001] You told Xenril, 'Hail, Xenril! Guide Espranza here. When you were trading, did anyone lag out, or were either one's inventories full?'
+[Sun Jul 01 18:59:00 2001] Xenril tells you, 'no, neither of ours was full, we each had more than plenty of room meaning 30+ spaces free'
+[Sun Jul 01 18:59:08 2001] Xenril tells you, 'no lag either'
+[Sun Jul 01 18:59:32 2001] You told Xenril, 'okay, I'll escalate your petition to the GM. He just went for his lunch but will be back in an hour.'
+[Sun Jul 01 18:59:37 2001] STATUS UPGRADED TO EMERGENCY
+[Sun Jul 01 18:59:53 2001] Xenril tells you, '*sigh* I doubt I can wait that long ....again'
+[Sun Jul 01 19:00:02 2001] Xenril tells you, 'I don't have much time on here'
+[Sun Jul 01 19:00:03 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sun Jul 01 19:00:13 2001] You told Xenril, 'Okay, you can reach Lirus via email then'
+[Sun Jul 01 19:00:21 2001] Xenril tells you, 'when would be a good time for me to get in touch with Lirus in game?'
+[Sun Jul 01 19:00:38 2001] You told Xenril, 'His email address is msudnik@station.sony.com, please be as detailed as possible in the email.'
+[Sun Jul 01 19:01:02 2001] You told Xenril, 'Lirus' hours are from 3pm to 11pm Pacific time, Thursday through Monday.'
+[Sun Jul 01 19:01:12 2001] CHECKING IN
+[Sun Jul 01 19:01:16 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:01:17 2001] USER TEXT: This Auidin is ksing from our camp, we have had a group here, we all are getting exp, every kill he steals is exp from our group. He is of higher lvl and doesn't gain any exp from these
+[Sun Jul 01 19:01:17 2001] Players in EverQuest:
+[Sun Jul 01 19:01:17 2001] ---------------------------
+[Sun Jul 01 19:01:17 2001] [11 Magician] Elliee (Gnome) ZONE: ecommons (USER PID FR2S9UD)
+[Sun Jul 01 19:01:17 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:01:42 2001] You told Elliee, 'Hail, Elliee! Guide Espranza here. Are you still having problems in the orc camp?'
+[Sun Jul 01 19:01:52 2001] Xenril tells you, 'ok, I will try and be back in 1 hour, I would like this to be resolved asap'
+[Sun Jul 01 19:02:17 2001] You told Xenril, 'If you log off, you will have to repetition - GM petitions are automatically deleted if the person logs.'
+[Sun Jul 01 19:02:23 2001] DELETING THIS PETITION
+[Sun Jul 01 19:02:26 2001] Xenril tells you, 'I feel that I will continue playing tag if I go the e-mail route....no offense to you'
+[Sun Jul 01 19:02:28 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:02:28 2001] USER TEXT: i was trained and now i cannot summon my corpes  please help me it is in the wall i think
+[Sun Jul 01 19:02:29 2001] Players in EverQuest:
+[Sun Jul 01 19:02:29 2001] ---------------------------
+[Sun Jul 01 19:02:29 2001] [50 Druid] Fairlee (Wood Elf) <Knights of the Darkflame> ZONE: dreadlands (USER PID DPE8890)
+[Sun Jul 01 19:02:29 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:02:45 2001] Xenril tells you, 'I will re -petition then'
+[Sun Jul 01 19:02:49 2001] You told Xenril, 'none taken... but only an actual GM can look into this.'
+[Sun Jul 01 19:02:52 2001] You told Xenril, 'okay, be well!'
+[Sun Jul 01 19:03:00 2001] Elliee tells you, 'no he left after I told him I reported him, but he did say he was going to another camp. I am wondering is it policy that a full group of appropriate lvl that has a camp, do we have to share with others that are of higher lvl?'
+[Sun Jul 01 19:03:03 2001] Searching zones for corpse of that name....
+[Sun Jul 01 19:03:06 2001] Larsot GMSAYS, 'deleting pet on harrassment issue'
+[Sun Jul 01 19:03:42 2001] You told Elliee, 'Yes, everyone has a right to a camp... even people way too high for it. But people must share.'
+[Sun Jul 01 19:03:48 2001] a froglok slave has been slain by Kraa!
+[Sun Jul 01 19:04:09 2001] Elliee tells you, 'so basically we had to share with him? '
+[Sun Jul 01 19:04:12 2001] You told Fairlee, 'Hail, Fairlee! Guide Espranza here. Were you able to find your corpse?'
+[Sun Jul 01 19:04:18 2001] Larsot tells the group, '<note harassment> Naas being bothered by account CUDGCLP'
+[Sun Jul 01 19:04:30 2001] You told Elliee, 'yes, that's what the play nice policy says.'
+[Sun Jul 01 19:04:42 2001] Larsot GMSAYS, 'pulling Uriel'
+[Sun Jul 01 19:04:43 2001] You tell your party, 'you should escalate harassment petitions to me.'
+[Sun Jul 01 19:04:53 2001] Fairlee tells you, 'it was stuck in the wall but a necro pointed and we summoned until it came out sorry for bothering you'
+[Sun Jul 01 19:05:29 2001] DELETING THIS PETITION
+[Sun Jul 01 19:05:33 2001] Elliee tells you, 'the reason I did petition is that he killed a mob in one cast when we had already started to hit on it, it was the third time he had done it.'
+[Sun Jul 01 19:05:33 2001] You told Fairlee, 'no bother, sorry I didn't get to your petition sooner. Be well!'
+[Sun Jul 01 19:05:34 2001] Larsot tells the group, 'i would have if it was bad but Nass said after adding all the account names to her ignore list, it has not been bad'
+[Sun Jul 01 19:05:50 2001] Fairlee tells you, 'thank you '
+[Sun Jul 01 19:05:51 2001] You tell your party, 'You should not even talk to the person in a harassment petition.'
+[Sun Jul 01 19:05:55 2001] You told Fairlee, 'be well!'
+[Sun Jul 01 19:05:59 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:05:59 2001] USER TEXT: greetings after receiving a rezz after a death, and recovering all items from my body i had noticed one of my inventory bags missing any help would be appreciated thank you
+[Sun Jul 01 19:05:59 2001] Players in EverQuest:
+[Sun Jul 01 19:05:59 2001] ---------------------------
+[Sun Jul 01 19:05:59 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 01 19:06:01 2001] Elliee tells you, 'thank you for the info I was not aware of that part of the policy, never have had a time when a high lvl came in and started to kill the mobs in a camp that was already camped'
+[Sun Jul 01 19:06:26 2001] You can't reach that, get closer.
+[Sun Jul 01 19:06:35 2001] You told Elliee, 'While I agree that's a nasty thing to do, policy says nobody owns a camp.'
+[Sun Jul 01 19:06:37 2001] Larsot tells the group, 'ok, i will escalate next time then. Although this does not seem to be more than a pestering in tells issue'
+[Sun Jul 01 19:06:43 2001] You tell your party, 'even so'
+[Sun Jul 01 19:06:43 2001] Zazlan Furscale begins to cast a spell. (Alacrity)
+[Sun Jul 01 19:06:47 2001] Larsot tells the group, 'aye'
+[Sun Jul 01 19:06:55 2001] Artious tells you, '*prays to the gods for good luck*'
+[Sun Jul 01 19:07:02 2001] You told Artious, 'heh'
+[Sun Jul 01 19:07:14 2001] USER TEXT: greetings after receiving a rezz after a death, and recovering all items from my body i had noticed one of my inventory bags missing any help would be appreciated thank you
+[Sun Jul 01 19:07:17 2001] Artious tells you, 'first epic fight,  )'
+[Sun Jul 01 19:07:22 2001] You told Artious, 'which?'
+[Sun Jul 01 19:07:26 2001] Larsot GMSAYS, 'pulling Uriel'
+[Sun Jul 01 19:07:27 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sun Jul 01 19:07:28 2001] CHECKING IN
+[Sun Jul 01 19:07:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:07:30 2001] USER TEXT: the merchant in the windmill at Lake of Ill omen is gone can u guys bring him back...i dont know his name sorry :(
+[Sun Jul 01 19:07:30 2001] Players in EverQuest:
+[Sun Jul 01 19:07:30 2001] ---------------------------
+[Sun Jul 01 19:07:30 2001] [21 Warrior] Moppo (Halfling) <Crimson Mist> ZONE: lakeofillomen (USER PID HW4HZSX)
+[Sun Jul 01 19:07:30 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:07:38 2001] Artious tells you, 'Nurron Ni, first SK epic'
+[Sun Jul 01 19:07:41 2001] You GMSAY, 'zone'
+[Sun Jul 01 19:07:44 2001] You told Artious, 'oooh good luck then!'
+[Sun Jul 01 19:07:45 2001] Espranza saved.
+[Sun Jul 01 19:07:51 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 19:08:26 2001] You have entered Lake of Ill Omen.
+[Sun Jul 01 19:08:27 2001] You have formed the group.
+[Sun Jul 01 19:08:41 2001] Searching for nubs_blackgranite00.
+[Sun Jul 01 19:08:42 2001] Player is in zone lakeofillomen at x = -729 y = -3026 z = 173.
+[Sun Jul 01 19:08:43 2001] Teleporting to Nubs_Blackgranite00 (-728.00, -3025.00, 173.20).
+[Sun Jul 01 19:09:09 2001] Elliee tells you, 'ok I shared the info with my group. it doesn't seem fair tho, if they were of a lvl that could gain exp I can understand, not for the ones that are so high they can take out a mob in one cast '
+[Sun Jul 01 19:09:23 2001] You told Elliee, 'I don't make the rules...'
+[Sun Jul 01 19:09:24 2001] Hailee begins to cast a spell. (Sense the Dead)
+[Sun Jul 01 19:09:35 2001] Febji shouts, 'he when u kill weak green no exp gobs does it still raise your faction with fv?'
+[Sun Jul 01 19:09:36 2001] Mahkitay snaps to attention and salutes Balelorn crisply.
+[Sun Jul 01 19:09:43 2001] Players in EverQuest:
+[Sun Jul 01 19:09:43 2001] ---------------------------
+[Sun Jul 01 19:09:43 2001] [21 Warrior] Moppo (Halfling) <Crimson Mist> ZONE: lakeofillomen (USER PID HW4HZSX)
+[Sun Jul 01 19:09:43 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:09:43 2001] Schadow says, 'Hail, Mahkitay'
+[Sun Jul 01 19:09:44 2001] Balelorn begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 01 19:09:47 2001] Thorath shouts, 'yes'
+[Sun Jul 01 19:09:48 2001] Hassaun begins to cast a spell. (Ward Undead)
+[Sun Jul 01 19:09:49 2001] Makarak shouts, 'yep'
+[Sun Jul 01 19:09:49 2001] Schadow says, 'Brz plz'
+[Sun Jul 01 19:09:50 2001] Seventai shouts, 'yup '
+[Sun Jul 01 19:09:52 2001] Elliee tells you, 'I know that, thank you for responding to me and letting me know of the policy.'
+[Sun Jul 01 19:09:53 2001] Mahkitay begins to cast a spell. (Breeze)
+[Sun Jul 01 19:09:54 2001] Febji says out of character, 'ok good thanx hehe'
+[Sun Jul 01 19:09:57 2001] You told Elliee, 'okay, be well!'
+[Sun Jul 01 19:09:59 2001] Mahkitay waves at Schadow.
+[Sun Jul 01 19:10:08 2001] Elliee tells you, 'you too safe journeys =)'
+[Sun Jul 01 19:10:16 2001] Mahkitay says out of character, 'breezing @ Wmill donations accepted'
+[Sun Jul 01 19:10:17 2001] Teleporting to Nubs_Blackgranite00 (-1324.00, -2998.00, 102.10).
+[Sun Jul 01 19:10:19 2001] Nubs Blackgranite says 'Time to die! 
+[Sun Jul 01 19:10:19 2001] Nubs Blackgranite says 'Rogues like you are an affront to my senses!'
+[Sun Jul 01 19:10:19 2001] Nubs Blackgranite punches YOU for 27 points of damage.
+[Sun Jul 01 19:10:21 2001] Nubs Blackgranite punches YOU for 19 points of damage.
+[Sun Jul 01 19:11:17 2001] You can't use that command right now...
+[Sun Jul 01 19:11:17 2001] You can't use that command right now...
+[Sun Jul 01 19:11:17 2001] You can't use that command right now...
+[Sun Jul 01 19:11:17 2001] Nubs Blackgranite blinks a few times.
+[Sun Jul 01 19:11:17 2001] Nubs Blackgranite punches YOU for 68 points of damage.
+[Sun Jul 01 19:11:18 2001] Balelorn begins to cast a spell. (Skin like Rock)
+[Sun Jul 01 19:11:18 2001] Nubs Blackgranite blinks a few times.
+[Sun Jul 01 19:11:18 2001] You can't use that command right now...
+[Sun Jul 01 19:11:18 2001] Nubs Blackgranite blinks a few times.
+[Sun Jul 01 19:11:18 2001] You can't use that command right now...
+[Sun Jul 01 19:11:18 2001] Nubs Blackgranite blinks a few times.
+[Sun Jul 01 19:11:19 2001] Nubs Blackgranite blinks a few times.
+[Sun Jul 01 19:11:25 2001] Nubs Blackgranite says 'I am not open for business right now'
+[Sun Jul 01 19:11:30 2001] Schadow begins to cast a spell. (Barbcoat)
+[Sun Jul 01 19:11:33 2001] Zzaxe auctions, 'WTS a Walrus Tooth 6/22 srt3 sta6 piercing '
+[Sun Jul 01 19:11:33 2001] Mahkitay begins to cast a spell. (Breeze)
+[Sun Jul 01 19:11:35 2001] Schadow begins to cast a spell. (Strength of Earth)
+[Sun Jul 01 19:11:36 2001] Morulak shouts, 'anyone porting?'
+[Sun Jul 01 19:11:38 2001] You say, 'open up before I taunt you again!'
+[Sun Jul 01 19:11:44 2001] Nubs Blackgranite says 'Time to die! 
+[Sun Jul 01 19:11:44 2001] Nubs Blackgranite feels a bit dispelled.
+[Sun Jul 01 19:11:45 2001] Schadow begins to cast a spell. (Skin like Rock)
+[Sun Jul 01 19:11:45 2001] Ezzdani says, 'Hm...'
+[Sun Jul 01 19:11:46 2001] Nubs Blackgranite blinks a few times.
+[Sun Jul 01 19:11:46 2001] You can't use that command right now...
+[Sun Jul 01 19:11:46 2001] Nubs Blackgranite blinks a few times.
+[Sun Jul 01 19:11:47 2001] You can't use that command right now...
+[Sun Jul 01 19:11:47 2001] You can't use that command right now...
+[Sun Jul 01 19:11:47 2001] You can't use that command right now...
+[Sun Jul 01 19:11:47 2001] You can't use that command right now...
+[Sun Jul 01 19:11:47 2001] Nubs Blackgranite blinks a few times.
+[Sun Jul 01 19:11:48 2001] Balelorn begins to cast a spell. (Eyes of the Cat)
+[Sun Jul 01 19:11:48 2001] Aeolas shouts, 'no'
+[Sun Jul 01 19:11:48 2001] You can't use that command right now...
+[Sun Jul 01 19:11:48 2001] Nubs Blackgranite blinks a few times.
+[Sun Jul 01 19:11:51 2001] Amerygn shouts, 'AAAAWOOOO!'
+[Sun Jul 01 19:11:53 2001] You no longer have a target.
+[Sun Jul 01 19:11:54 2001] You no longer have a target.
+[Sun Jul 01 19:11:54 2001] You no longer have a target.
+[Sun Jul 01 19:11:55 2001] Nubs Blackgranite says 'Hi there Espranza, just browsing?  Have you seen the Snowcap Amanita I just got in?'
+[Sun Jul 01 19:11:55 2001] You no longer have a target.
+[Sun Jul 01 19:11:55 2001] You no longer have a target.
+[Sun Jul 01 19:11:56 2001] You no longer have a target.
+[Sun Jul 01 19:11:56 2001] Hassaun begins to cast a spell. (Dark Empathy)
+[Sun Jul 01 19:11:58 2001] Espranza saved.
+[Sun Jul 01 19:12:06 2001] Nubs Blackgranite says 'Welcome to my shop Zarega, you would probably find a Larent Suspension handy'
+[Sun Jul 01 19:12:15 2001] You told Moppo, 'Hail, Moppo! He's come back to his place now. Be well!'
+[Sun Jul 01 19:12:15 2001] Ezzdani says, 'Lol'
+[Sun Jul 01 19:12:18 2001] Nubs Blackgranite says 'Hello there Kryalen, how about a nice A Weighted Axe?'
+[Sun Jul 01 19:12:27 2001] Moppo tells you, 'huh?'
+[Sun Jul 01 19:12:36 2001] Moppo tells you, 'ooo ok'
+[Sun Jul 01 19:12:37 2001] You told Moppo, 'oh sorry - Guide Espranza, answering your petition!'
+[Sun Jul 01 19:12:38 2001] Moppo tells you, 'your the gm'
+[Sun Jul 01 19:12:43 2001] You feel the spirit of Norrath enter you.
+[Sun Jul 01 19:12:43 2001] Moppo tells you, 'ok'
+[Sun Jul 01 19:12:44 2001] Your feet leave the ground.
+[Sun Jul 01 19:12:44 2001] Moppo tells you, 'thank u '
+[Sun Jul 01 19:12:51 2001] You told Moppo, 'anytime. be well!'
+[Sun Jul 01 19:12:55 2001] Moppo tells you, 'u tool'
+[Sun Jul 01 19:12:55 2001] Mahkitay says out of character, 'breezing @ Wmill donations accepted'
+[Sun Jul 01 19:13:02 2001] You tell your party, 'ooooh I shoulda brought you for the merchant reset... sigh'
+[Sun Jul 01 19:13:04 2001] DELETING THIS PETITION
+[Sun Jul 01 19:13:07 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:13:08 2001] USER TEXT: draiguisge is killing the bankers, ban his ass
+[Sun Jul 01 19:13:08 2001] Players in EverQuest:
+[Sun Jul 01 19:13:08 2001] ---------------------------
+[Sun Jul 01 19:13:08 2001] [54 Illusionist] Celestiel (High Elf) ZONE: felwithea (USER PID DWNVMG5)
+[Sun Jul 01 19:13:08 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:13:23 2001] Ezzdani shouts, 'lvl 12th MAGE LFG'
+[Sun Jul 01 19:13:23 2001] Kryalen begins to cast a spell. (Wolf Form)
+[Sun Jul 01 19:13:29 2001] Players in EverQuest:
+[Sun Jul 01 19:13:29 2001] ---------------------------
+[Sun Jul 01 19:13:29 2001] [56 Master] Draiguisge (Iksar) ZONE: ecommons (USER PID GWZUNN9)
+[Sun Jul 01 19:13:29 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:13:32 2001] Larsot tells the group, 'is ok, Kithicor is getting bad, a rogue ninja looted an epic piece and the zone is getting bad  :('
+[Sun Jul 01 19:13:36 2001] Tauceti says out of character, '26 cleric lfg or hunting partner'
+[Sun Jul 01 19:13:45 2001] Ezzdani begins to cast a spell. (Elemental: Earth)
+[Sun Jul 01 19:13:47 2001] Ezzdani says, 'hello'
+[Sun Jul 01 19:13:55 2001] You tell your party, 'oh great, here comes another twenty petitions...'
+[Sun Jul 01 19:13:55 2001] Ezzdani begins to cast a spell. (Elemental: Earth)
+[Sun Jul 01 19:14:00 2001] You say, 'hi!'
+[Sun Jul 01 19:14:07 2001] Mahkitay says out of character, 'breezing @ Wmill donations accepted'
+[Sun Jul 01 19:14:07 2001] Ezzdani says, 'why did he attke you?'
+[Sun Jul 01 19:14:10 2001] Ezzdani begins to cast a spell. (Elemental: Earth)
+[Sun Jul 01 19:14:13 2001] You say, 'I, uh....'
+[Sun Jul 01 19:14:22 2001] You emote 'looks embarassed'
+[Sun Jul 01 19:14:28 2001] Ezzdani says, 'hehe'
+[Sun Jul 01 19:14:31 2001] Larsot tells the group, 'aye'
+[Sun Jul 01 19:14:32 2001] You say, 'I sorta provoked him.'
+[Sun Jul 01 19:14:39 2001] Ezzdani says, 'Lol why'
+[Sun Jul 01 19:14:44 2001] Ezzdani begins to cast a spell. (Burnout)
+[Sun Jul 01 19:14:45 2001] You say, 'He wasn't in his place.'
+[Sun Jul 01 19:14:49 2001] Vobartik goes berserk.
+[Sun Jul 01 19:14:51 2001] Larsot tells the group, 'and of course the ninja looter is offline'
+[Sun Jul 01 19:14:52 2001] You say, 'Lazy dwarf wouldn't sell to people!'
+[Sun Jul 01 19:14:55 2001] Ezzdani says, 'oh'
+[Sun Jul 01 19:15:09 2001] You say, 'So I brought him home.'
+[Sun Jul 01 19:15:15 2001] Mahkitay says out of character, 'breezing @ Wmill donations accepted'
+[Sun Jul 01 19:15:20 2001] Ezzdani says, 'wont to help me do somthing?'
+[Sun Jul 01 19:15:27 2001] You say, 'sorry, must go...'
+[Sun Jul 01 19:15:31 2001] Ezzdani says, 'plz'
+[Sun Jul 01 19:15:32 2001] You GMSAY, 'zone'
+[Sun Jul 01 19:15:35 2001] Zzaxe auctions, 'WTS a Walrus Tooth 6/22 srt3 sta6 piercing '
+[Sun Jul 01 19:15:36 2001] You wave goodbye to Ezzdani.
+[Sun Jul 01 19:15:40 2001] Ezzdani says, 'that pet has been there for ever'
+[Sun Jul 01 19:15:43 2001] Ezzdani says, 'Hail, Vararer'
+[Sun Jul 01 19:15:46 2001] Ezzdani points straight ahead.
+[Sun Jul 01 19:15:47 2001] Hassaun begins to cast a spell. (Dark Empathy)
+[Sun Jul 01 19:15:54 2001] Killing Vararer00.
+[Sun Jul 01 19:15:58 2001] Ezzdani says, 'no owner'
+[Sun Jul 01 19:16:02 2001] Ezzdani says, 'thks'
+[Sun Jul 01 19:16:13 2001] You GMSAY, '<note issue> killed rogue pet'
+[Sun Jul 01 19:16:22 2001] You GMSAY, 'really zoning'
+[Sun Jul 01 19:16:25 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 19:16:50 2001] You have entered North Freeport.
+[Sun Jul 01 19:16:51 2001] You have formed the group.
+[Sun Jul 01 19:17:49 2001] Tradesman Lyna says 'Hello there Caramia, how about a nice Dagger?'
+[Sun Jul 01 19:18:17 2001] You told Celestiel, 'Hail, Celestiel! Guide Espranza here. Bankers are back in place and Draiguisge is nowhere in sight... killing bankers is not illegal, by the way - but they don't give experience and don't have loot.'
+[Sun Jul 01 19:18:30 2001] Thurion Desius begins to cast a spell. (Yaulp IV)
+[Sun Jul 01 19:18:30 2001] Gygus Remnara begins to cast a spell. (Yaulp IV)
+[Sun Jul 01 19:18:30 2001] Serna Tasknon begins to cast a spell. (Yaulp IV)
+[Sun Jul 01 19:18:30 2001] Ghonic Erharn begins to cast a spell. (Yaulp IV)
+[Sun Jul 01 19:18:30 2001] Plur Etinu begins to cast a spell. (Yaulp IV)
+[Sun Jul 01 19:18:30 2001] Celsar Vestagon begins to cast a spell. (Yaulp IV)
+[Sun Jul 01 19:18:30 2001] Palious Jarten begins to cast a spell. (Yaulp IV)
+[Sun Jul 01 19:18:34 2001] DELETING THIS PETITION
+[Sun Jul 01 19:18:35 2001] Thurion Desius begins to cast a spell. (Divine Favor)
+[Sun Jul 01 19:18:35 2001] Gygus Remnara begins to cast a spell. (Divine Favor)
+[Sun Jul 01 19:18:37 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:18:37 2001] USER TEXT: how can I change my font type
+[Sun Jul 01 19:18:37 2001] Players in EverQuest:
+[Sun Jul 01 19:18:37 2001] ---------------------------
+[Sun Jul 01 19:18:37 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 01 19:18:42 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sun Jul 01 19:18:42 2001] Jemoz Lerkarson begins to cast a spell. (Fortitude)
+[Sun Jul 01 19:18:43 2001] CHECKING IN
+[Sun Jul 01 19:18:45 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:18:46 2001] USER TEXT: hello i need help i have 5 chars on this server 4 i can log on the 5th and highest lvl i cannot get into the world as of a week ago 
+[Sun Jul 01 19:18:46 2001] Players in EverQuest:
+[Sun Jul 01 19:18:46 2001] ---------------------------
+[Sun Jul 01 19:18:46 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 01 19:18:47 2001] Lanis Herion begins to cast a spell. (Divine Favor)
+[Sun Jul 01 19:18:47 2001] Serna Tasknon begins to cast a spell. (Fortitude)
+[Sun Jul 01 19:18:47 2001] Plur Etinu begins to cast a spell. (Fortitude)
+[Sun Jul 01 19:18:47 2001] Celsar Vestagon begins to cast a spell. (Fortitude)
+[Sun Jul 01 19:18:47 2001] Sentry Theo begins to cast a spell. (Center)
+[Sun Jul 01 19:18:51 2001] Larsot tells the group, 'a level 16 rogue loots a level 50+ epic piece.....sheesh'
+[Sun Jul 01 19:18:56 2001] Celestiel tells you, 'then they are ruining my fun and endangering me, is that illegal?'
+[Sun Jul 01 19:19:11 2001] Cernnunos shouts, 'PC Silver Carnelian Wedding Ring'
+[Sun Jul 01 19:19:19 2001] Larsot GMSAYS, 'pulling Aludair'
+[Sun Jul 01 19:19:42 2001] Celestiel tells you, 'humm'
+[Sun Jul 01 19:20:13 2001] Aaldari auctions, 'WTS  11AC Gauntlets Fine Plate 110pp'
+[Sun Jul 01 19:20:22 2001] You told Celestiel, ':) anyway they're back now.'
+[Sun Jul 01 19:20:33 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sun Jul 01 19:20:34 2001] CHECKING IN
+[Sun Jul 01 19:20:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:20:37 2001] USER TEXT: quest
+[Sun Jul 01 19:20:37 2001] Zishi auctions, 'WTS +2 Str Rings'
+[Sun Jul 01 19:20:37 2001] Players in EverQuest:
+[Sun Jul 01 19:20:37 2001] ---------------------------
+[Sun Jul 01 19:20:37 2001] [ANON (51 Wanderer)] Meddle (Wood Elf) ZONE: kithicor (USER PID GSGFU5X)
+[Sun Jul 01 19:20:37 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:20:38 2001] Zishi auctions, 'WTS +2 Stamina Earrings'
+[Sun Jul 01 19:20:39 2001] Rathon auctions, 'WTB High End Warrior/Rogue Gear'
+[Sun Jul 01 19:20:40 2001] Elliee tells you, 'breath'
+[Sun Jul 01 19:20:40 2001] Zishi auctions, 'WTS +2 DEX RING'
+[Sun Jul 01 19:21:12 2001] Boggwin auctions, 'WTS Crystalline Belt (3 wis 3 agi 10 hp) - 1k obo'
+[Sun Jul 01 19:21:13 2001] You told Meddle, 'Hail, Meddle! Guide Espranza here. How may I help you?'
+[Sun Jul 01 19:21:24 2001] Aaldari auctions, 'WTS  11AC Gauntlets Fine Plate 110pp'
+[Sun Jul 01 19:21:37 2001] Meddle tells you, 'cool.  i did a quest and i didnt get the item.'
+[Sun Jul 01 19:21:39 2001] Aerial auctions, 'Master jeweler taking orders on plat/velium jewelry'
+[Sun Jul 01 19:21:46 2001] Sir Penan begins to cast a spell. (Center)
+[Sun Jul 01 19:21:46 2001] Sir Ollin begins to cast a spell. (Center)
+[Sun Jul 01 19:21:46 2001] Sir Noshon begins to cast a spell. (Center)
+[Sun Jul 01 19:21:48 2001] You told Meddle, 'which quest?'
+[Sun Jul 01 19:22:02 2001] Meddle tells you, 'i got all the items needed for the ivy edged sleeves'
+[Sun Jul 01 19:22:20 2001] You're not scaring anyone.
+[Sun Jul 01 19:22:27 2001] You told Meddle, 'did you have a pair with you or in your bank?'
+[Sun Jul 01 19:22:40 2001] STATUS UPGRADED TO URGENT
+[Sun Jul 01 19:22:43 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sun Jul 01 19:22:44 2001] Zishi auctions, 'WTS +2 Str Rings'
+[Sun Jul 01 19:22:47 2001] STATUS DOWNGRADED TO NORMAL
+[Sun Jul 01 19:22:49 2001] Zishi auctions, 'WTS +2 DEX RING'
+[Sun Jul 01 19:22:57 2001] Zishi auctions, 'WTS +2 Stamina Earrings'
+[Sun Jul 01 19:22:57 2001] Your target is too far away, get closer!
+[Sun Jul 01 19:23:10 2001] Meddle tells you, 'i hail her, asked her,  and gave her everything.  no on the pair'
+[Sun Jul 01 19:23:10 2001] Elliee tells you, 'oops sorry wrong tell'
+[Sun Jul 01 19:23:11 2001] Your target is too far away, get closer!
+[Sun Jul 01 19:23:12 2001] Demar tells you, 'I hate to send direct tells, but there is a major issue in Kith with a ninja loot of the rogue epic piece. The looter is on right now so it is critical that someone gets here right now. Larsot is here, but not saying anything'
+[Sun Jul 01 19:23:34 2001] Larsot GMSAYS, 'deleting pet on upcoming wedding-no details yet'
+[Sun Jul 01 19:23:37 2001] You told Demar, 'Only the GM can do something about this, and he is on his lunch hour'
+[Sun Jul 01 19:23:55 2001] You told Demar, 'please only one person petition and I will escalate it to him when he comes back'
+[Sun Jul 01 19:23:58 2001] Larsot GMSAYS, 'pulling Duggall'
+[Sun Jul 01 19:24:03 2001] You tell your party, 'just got a direct tell about the incident in Kith'
+[Sun Jul 01 19:24:08 2001] Meddle tells you, 'the only thing i can figure is that i gave her 1 star rube and 1 star ruby.  i didnt give her 2 of them in 1 slot.  i used all 4 slots.  would that matter'
+[Sun Jul 01 19:24:26 2001] You told Meddle, 'no, in fact they should be in separate slots'
+[Sun Jul 01 19:24:40 2001] Larsot tells the group, 'aye, i am getting semi spammed also'
+[Sun Jul 01 19:24:42 2001] You told Meddle, 'but you didn't already possess a pair of sleeves in the bank or on yourself?'
+[Sun Jul 01 19:24:46 2001] You tell your party, 'leave the zone'
+[Sun Jul 01 19:24:56 2001] You GMSAY, 'Larsot zoning'
+[Sun Jul 01 19:25:00 2001] Summoning Larsot.
+[Sun Jul 01 19:25:02 2001] Aerial auctions, 'Master jeweler taking orders on plat/velium jewelry'
+[Sun Jul 01 19:25:06 2001] You feel as if you are about to fall.
+[Sun Jul 01 19:25:12 2001] You feel as if you are about to fall.
+[Sun Jul 01 19:25:14 2001] Meddle tells you, 'that is what i did.  i probably wouldnt complain but i spent 3 days getting hte heart.  no i am a druid.  cant wear them.'
+[Sun Jul 01 19:25:18 2001] You can no longer levitate.
+[Sun Jul 01 19:25:32 2001] You told Meddle, 'I know you can't wear them... but they are lore, and you can't have two pair.'
+[Sun Jul 01 19:25:40 2001] Larsot tells the group, 'hehe thanks'
+[Sun Jul 01 19:25:57 2001] You tell your party, 'sorry, I don't want you to be a target'
+[Sun Jul 01 19:26:08 2001] Larsot tells the group, 'i told one person to please tell his guild to not spam the guides  :)'
+[Sun Jul 01 19:26:10 2001] Meddle tells you, 'i am positive about the sleeves.  just cleaned out my bank with worthless stuff.'
+[Sun Jul 01 19:26:20 2001] You told Meddle, 'have you done this quest before?'
+[Sun Jul 01 19:26:35 2001] Meddle tells you, 'no.  did the other ones with no problem.'
+[Sun Jul 01 19:26:36 2001] You're not scaring anyone.
+[Sun Jul 01 19:26:48 2001] Espranza saved.
+[Sun Jul 01 19:26:54 2001] You told Meddle, 'this might be a faction issue... I will escalate it.'
+[Sun Jul 01 19:27:39 2001] Meddle tells you, 'i did the other ones, tunic, bracer and head piece with no problem.  gave her what she wanted and got the piece.'
+[Sun Jul 01 19:27:58 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sun Jul 01 19:27:59 2001] GM TEXT: Espranza: Has done other ivy quests before, did not have a pair of sleeves in bank, says has sufficient faction to do the quests, will inform about policy.
+[Sun Jul 01 19:28:01 2001] STATUS UPGRADED TO URGENT
+[Sun Jul 01 19:28:01 2001] STATUS UPGRADED TO EMERGENCY
+[Sun Jul 01 19:28:07 2001] Larsot GMSAYS, 'deleting pet on speed glitch in game'
+[Sun Jul 01 19:28:10 2001] You GMSAY, 'escalating Meddle, quest didn't work out'
+[Sun Jul 01 19:28:14 2001] DELETING THIS PETITION
+[Sun Jul 01 19:28:21 2001] Amber says 'Welcome to my shop Aerial, you would probably find a Copper Amulet handy'
+[Sun Jul 01 19:28:25 2001] Terisita shouts, 'is anyone tping to iceclad by chance?'
+[Sun Jul 01 19:28:30 2001] Larsot waves at Aerial.
+[Sun Jul 01 19:28:31 2001] Aurina says out of character, 'TERI!!!!'
+[Sun Jul 01 19:28:50 2001] Aurina says out of character, 'Wish I could TP ya, but only 19, :(  Lol'
+[Sun Jul 01 19:28:53 2001] Peen auctions, 'WTS 2damage 150 range arrows 3pp per stack'
+[Sun Jul 01 19:29:17 2001] You told Meddle, 'Please read the producer's letter on quest reimbursals on the main everquest web site when you get a chance... there may be nothing we can do about this. I've sent it on to the GM but don't get your hopes up.'
+[Sun Jul 01 19:29:22 2001] Terisita says out of character, 'thank you anyway Aurina'
+[Sun Jul 01 19:29:25 2001] You tell your party, 'sigh... sooo many petitions'
+[Sun Jul 01 19:29:29 2001] Larsot tells the group, 'Ladonis pet is another lost item on corpse '
+[Sun Jul 01 19:29:33 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:29:34 2001] USER TEXT: greetings after receiving a rezz after a death, and recovering all items from my body i had noticed one of my inventory bags missing any help would be appreciated thank you
+[Sun Jul 01 19:29:34 2001] Players in EverQuest:
+[Sun Jul 01 19:29:34 2001] ---------------------------
+[Sun Jul 01 19:29:34 2001] [ANON (58 Outrider)] Ladonis (Wood Elf) ZONE: velketor (USER PID CR08HZ4)
+[Sun Jul 01 19:29:34 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:29:49 2001] Larsot tells the group, 'i have it from yesterday in my notes'
+[Sun Jul 01 19:29:58 2001] You tell your party, 'too bad they don't know about the "we never reimburse anything" policy'
+[Sun Jul 01 19:30:19 2001] Larsot tells the group, 'his sounds like a bug, a bag disappeared when he was resed'
+[Sun Jul 01 19:30:27 2001] Meddle tells you, 'wow.  i spent like 20 hours trying to get the heart.  that is 20 hours of real time.  i would really hate to do that again.'
+[Sun Jul 01 19:30:31 2001] Terisita says out of character, 'paying for a tp to iceclad'
+[Sun Jul 01 19:30:35 2001] Larsot GMSAYS, 'pulling Urial again'
+[Sun Jul 01 19:31:34 2001] Larsot GMSAYS, 'U/A on Uriel #2'
+[Sun Jul 01 19:31:50 2001] Larsot GMSAYS, 'pulling Bertog'
+[Sun Jul 01 19:32:11 2001] Majix says out of character, 'can any one here port to CS?'
+[Sun Jul 01 19:32:20 2001] You told Meddle, 'well, I hope things do work out. Just be prepared... I'm sorry.'
+[Sun Jul 01 19:32:22 2001] Zildrax tells you, 'Hey did ya hear?'
+[Sun Jul 01 19:32:29 2001] You told Zildrax, 'what?'
+[Sun Jul 01 19:32:44 2001] Zildrax tells you, 'Meudian Ninja Looted the piece for Triune's rogue epic. Lame huh?'
+[Sun Jul 01 19:32:50 2001] Larsot tells the group, 'Esp, i have a really bad name i think should be looked at'
+[Sun Jul 01 19:32:52 2001] Meddle tells you, 'where is the info on the web page?  i cant find anything'
+[Sun Jul 01 19:32:54 2001] Redem tells you, 'Some player looted epic item off general in kith.  Salvaros is who it was taken from.  =('
+[Sun Jul 01 19:32:56 2001] You told Zildrax, 'oh yeah, I heard about that'
+[Sun Jul 01 19:33:08 2001] You told Redem, 'Heard all about it'
+[Sun Jul 01 19:33:11 2001] Redem tells you, 'k'
+[Sun Jul 01 19:33:12 2001] You told Redem, 'so will the GM'
+[Sun Jul 01 19:33:18 2001] Zildrax tells you, 'It's so lame. *frowns* Hope they ban him fer it...at the very least he'll get a really terrible rep i think.'
+[Sun Jul 01 19:33:24 2001] Larsot tells the group, '<note name> Neegromancer (GXMMS5M)'
+[Sun Jul 01 19:33:25 2001] It begins to rain.
+[Sun Jul 01 19:33:28 2001] You told Meddle, 'Look for the Producer's letter'
+[Sun Jul 01 19:33:29 2001] Redem tells you, 'yall messin with it now?'
+[Sun Jul 01 19:33:31 2001] You tell your party, 'ooooh'
+[Sun Jul 01 19:33:35 2001] You tell your party, 'wish I were a senior'
+[Sun Jul 01 19:33:40 2001] Zildrax tells you, 'He wasn't exactly stealthy about it heh'
+[Sun Jul 01 19:33:44 2001] You told Redem, 'no, waiting for Lirus to return'
+[Sun Jul 01 19:33:47 2001] Larsot tells the group, 'i know, thats a bad one'
+[Sun Jul 01 19:33:49 2001] Redem tells you, 'ah sweet'
+[Sun Jul 01 19:33:52 2001] Cernnunos auctions, 'WTS Deathfist Slashed Belts 3pp ea. OBO.'
+[Sun Jul 01 19:33:54 2001] Cernnunos auctions, 'WTS Lighstones 3pp OBO'
+[Sun Jul 01 19:33:58 2001] Redem tells you, 'she shall remedy the situation'
+[Sun Jul 01 19:34:10 2001] Larsot tells the group, '<----reaches through the monitor and slaps the operator'
+[Sun Jul 01 19:34:16 2001] You told Redem, 'Larsot has the whole thing in his logs'
+[Sun Jul 01 19:34:37 2001] You tell your party, 'Larsot, could you do me a favor and log off now and send your log to Lirus?'
+[Sun Jul 01 19:34:38 2001] Redem tells you, 'Excellent.  Such acts displease GNOME'
+[Sun Jul 01 19:34:45 2001] You tell your party, 'especially the parts about the rogue epic.'
+[Sun Jul 01 19:34:50 2001] You told Redem, ':)'
+[Sun Jul 01 19:34:50 2001] Larsot tells the group, 'hopefully Lirus will be here soon and i will tell him   :D'
+[Sun Jul 01 19:34:56 2001] Larsot tells the group, 'aye'
+[Sun Jul 01 19:34:58 2001] You tell your party, 'yeah but send the logs.'
+[Sun Jul 01 19:35:03 2001] Larsot tells the group, 'sure'
+[Sun Jul 01 19:35:07 2001] You tell your party, 'I'll still be here.'
+[Sun Jul 01 19:35:07 2001] Peen shouts, 'What are the four rolled up split paw thingies used for ??'
+[Sun Jul 01 19:35:21 2001] Larsot tells the group, 'ok, let me finidsh this one up first  ;)'
+[Sun Jul 01 19:35:24 2001] You tell your party, 'k'
+[Sun Jul 01 19:35:36 2001] Meddle tells you, 'it sais 13.1 on reimbursements.  Items lost in any quest will not be reimburesed.  That stinks.'
+[Sun Jul 01 19:36:12 2001] You told Meddle, 'you won't find many that disagree.'
+[Sun Jul 01 19:36:17 2001] Larsot GMSAYS, 'deleting pet on bad name'
+[Sun Jul 01 19:36:34 2001] Larsot tells the group, 'brb'
+[Sun Jul 01 19:36:38 2001] You tell your party, 'ok'
+[Sun Jul 01 19:36:39 2001] Cernnunos auctions, 'WTS Lighstones 3pp OBO'
+[Sun Jul 01 19:36:50 2001] Meddle tells you, 'can you imagine it being a epic item.  you will have a war on your hands.'
+[Sun Jul 01 19:36:58 2001] Espranza saved.
+[Sun Jul 01 19:37:01 2001] Your group has been disbanded.
+[Sun Jul 01 19:37:15 2001] Cernnunos shouts, 'Anyone need a Skeleton Fist?'
+[Sun Jul 01 19:37:34 2001] You told Meddle, 'Ninja looting is something the GM can fix, and we have complete logs.'
+[Sun Jul 01 19:38:34 2001] Meddle tells you, 'they cant check the logs for my quest item.  i dont have any.  forgot to turn mine on.'
+[Sun Jul 01 19:38:57 2001] Sir Phallin begins to cast a spell. (Center)
+[Sun Jul 01 19:38:57 2001] Sir Rophol begins to cast a spell. (Center)
+[Sun Jul 01 19:39:27 2001] You told Meddle, 'oh sorry - I meant for the rogue ninja loot - that was a mistell. An apprentice was in zone at the time and has complete logs.'
+[Sun Jul 01 19:39:35 2001] Cernnunos auctions, 'Silver Carnelian Wedding ring Agi+2   6pp OBO'
+[Sun Jul 01 19:39:41 2001] USER TEXT: greetings after receiving a rezz after a death, and recovering all items from my body i had noticed one of my inventory bags missing any help would be appreciated thank you
+[Sun Jul 01 19:39:44 2001] GM TEXT: 
+[Sun Jul 01 19:40:11 2001] Meddle tells you, 'yeah that guy is mad about that one.  several saw the loot.  somebody is in trouble.  hehe'
+[Sun Jul 01 19:40:17 2001] Cernnunos auctions, 'WTS Deathfist Slashed Belts 3pp ea. OBO.'
+[Sun Jul 01 19:40:21 2001] Cernnunos auctions, 'WTS Lighstones 3pp OBO'
+[Sun Jul 01 19:41:09 2001] Meddle tells you, 'should i wait for the Gm or continue other stuff?  '
+[Sun Jul 01 19:41:17 2001] Sir Willam begins to cast a spell. (Daring)
+[Sun Jul 01 19:41:44 2001] You told Meddle, 'Might as well continue... GM isn't back yet and, as you read, there might not be a lot he can do.'
+[Sun Jul 01 19:42:14 2001] Meddle tells you, 'ok.'
+[Sun Jul 01 19:42:21 2001] You told Meddle, 'are things still noisy in Kith?'
+[Sun Jul 01 19:42:27 2001] UNDOING CHECK OUT
+[Sun Jul 01 19:42:35 2001] Players in EverQuest:
+[Sun Jul 01 19:42:35 2001] ---------------------------
+[Sun Jul 01 19:42:35 2001] [ANON (37 Druid)] Toggo (Halfling) ZONE: kithicor (USER PID GWXT8EV)
+[Sun Jul 01 19:42:35 2001] [35 Paladin] Bick (Dwarf) ZONE: kithicor (USER PID GVP9YYL)
+[Sun Jul 01 19:42:35 2001] [14 Bard] Neail (Wood Elf) <White Star Legion> ZONE: kithicor (USER PID BREL9G0)
+[Sun Jul 01 19:42:35 2001] [ANON (29 Magician)] Camadin (Human) ZONE: kithicor (USER PID BZXRE70)
+[Sun Jul 01 19:42:35 2001] [54 Rake] Salvaros (Half Elf) <Triune> ZONE: kithicor (USER PID DP5YUC5)
+[Sun Jul 01 19:42:36 2001] [ANON (41 Paladin)] Arendil (High Elf) ZONE: kithicor (USER PID GS0385K)
+[Sun Jul 01 19:42:36 2001] [41 Paladin] Baenor (Dwarf) <Echelon> ZONE: kithicor (USER PID DRHLCL0)
+[Sun Jul 01 19:42:36 2001] [ANON (35 Druid)] Tanlina (Halfling) ZONE: kithicor (USER PID GY7FUA9)
+[Sun Jul 01 19:42:36 2001] [ANON (52 Vicar)] Eclipt (Dwarf) ZONE: kithicor (USER PID FQP5MWR)
+[Sun Jul 01 19:42:36 2001] [ANON (24 Druid)] Gondolfin (Wood Elf) ZONE: kithicor (USER PID CVZZQG1)
+[Sun Jul 01 19:42:36 2001] [59 Revenant] Septose (Dark Elf) <Triune> ZONE: kithicor (USER PID HPG5WET)
+[Sun Jul 01 19:42:36 2001] [27 Cleric] Ralnos (Dark Elf) <Destinys Disciples> ZONE: kithicor (USER PID DXUPMGF)
+[Sun Jul 01 19:42:36 2001] [ANON (52 Cavalier)] Cllangeddin (Dwarf) ZONE: kithicor (USER PID ASKMLCY)
+[Sun Jul 01 19:42:36 2001] [60 Warlord] Tuvwen (Half Elf) <Triune> ZONE: kithicor (USER PID GXL9BLM)
+[Sun Jul 01 19:42:36 2001] [58 Outrider] Chimaera (Wood Elf) <Triune> ZONE: kithicor (USER PID CRK1KQD)
+[Sun Jul 01 19:42:36 2001] [56 Master] Gritknoc (Iksar) <Triune> ZONE: kithicor (USER PID AR316EG)
+[Sun Jul 01 19:42:36 2001] [50 Enchanter] Tennin (High Elf) ZONE: kithicor (USER PID DNSWXTK)
+[Sun Jul 01 19:42:36 2001] [ANON (51 Wanderer)] Meddle (Wood Elf) ZONE: kithicor (USER PID GSGFU5X)
+[Sun Jul 01 19:42:36 2001] [58 Outrider] Clarion (Wood Elf) <Triune> ZONE: kithicor (USER PID BQYZB2D)
+[Sun Jul 01 19:42:36 2001] [55 Master] Senebka (Human) ZONE: kithicor (USER PID EQZ76A7)
+[Sun Jul 01 19:42:36 2001] Your who request was cut short..too many players.
+[Sun Jul 01 19:42:42 2001] You GMSAY, 'zone'
+[Sun Jul 01 19:42:45 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 19:43:11 2001] You have entered Kithicor Woods.
+[Sun Jul 01 19:43:27 2001] You feel the spirit of Norrath enter you.
+[Sun Jul 01 19:43:28 2001] Your feet leave the ground.
+[Sun Jul 01 19:44:03 2001] Players on EverQuest:
+[Sun Jul 01 19:44:03 2001] ---------------------------
+[Sun Jul 01 19:44:03 2001] [54 Pathfinder] Nalidani (Wood Elf) <Triune>
+[Sun Jul 01 19:44:03 2001] [51 Vicar] Mayaselah (Human) <Triune>
+[Sun Jul 01 19:44:03 2001] [57 Conjurer] Cydmab (Erudite) <Triune>
+[Sun Jul 01 19:44:03 2001] [53 Champion] Hanible (Ogre) <Triune>
+[Sun Jul 01 19:44:03 2001] [56 Luminary] Zildrax (Iksar)
+[Sun Jul 01 19:44:03 2001] [ANONYMOUS] Elaari  <Triune>
+[Sun Jul 01 19:44:03 2001] [55 Master] Senebka (Human)
+[Sun Jul 01 19:44:03 2001] [58 Outrider] Clarion (Wood Elf) <Triune>
+[Sun Jul 01 19:44:03 2001] [ANONYMOUS] Meddle 
+[Sun Jul 01 19:44:03 2001] [50 Enchanter] Tennin (High Elf)
+[Sun Jul 01 19:44:03 2001] [56 Master] Gritknoc (Iksar) <Triune>
+[Sun Jul 01 19:44:03 2001] [58 Outrider] Chimaera (Unknown) <Triune>
+[Sun Jul 01 19:44:03 2001] [60 Warlord] Tuvwen (Half Elf) <Triune>
+[Sun Jul 01 19:44:03 2001] [ANONYMOUS] Cllangeddin  <Triune>
+[Sun Jul 01 19:44:04 2001] [59 Revenant] Septose (Dark Elf) <Triune>
+[Sun Jul 01 19:44:04 2001] [27 Cleric] Ralnos (Dark Elf) <Destinys Disciples>
+[Sun Jul 01 19:44:04 2001] [ANONYMOUS] Gondolfin  <Mark of Draconians>
+[Sun Jul 01 19:44:04 2001] [41 Paladin] Baenor (Dwarf) <Echelon>
+[Sun Jul 01 19:44:04 2001] [ANONYMOUS] Tanlina  <Enchanted Steel>
+[Sun Jul 01 19:44:04 2001] [ANONYMOUS] Arendil  <Noble Ones>
+[Sun Jul 01 19:44:04 2001] [54 Rake] Salvaros (Half Elf) <Triune>
+[Sun Jul 01 19:44:04 2001] [ANONYMOUS] Camadin 
+[Sun Jul 01 19:44:04 2001] [ANONYMOUS] Toggo  <Hall of Heroes>
+[Sun Jul 01 19:44:04 2001] [35 Paladin] Bick (Dwarf)
+[Sun Jul 01 19:44:04 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sun Jul 01 19:44:04 2001] There are 25 players in Kithicor Forest.
+[Sun Jul 01 19:44:09 2001] Players on EverQuest:
+[Sun Jul 01 19:44:09 2001] ---------------------------
+[Sun Jul 01 19:44:09 2001] [54 Rake] Salvaros (Half Elf) <Triune>
+[Sun Jul 01 19:44:09 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sun Jul 01 19:44:09 2001] There are 2 players in Kithicor Forest.
+[Sun Jul 01 19:44:23 2001] Players in EverQuest:
+[Sun Jul 01 19:44:23 2001] ---------------------------
+[Sun Jul 01 19:44:23 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: kithicor (USER PID AUGBQH4)
+[Sun Jul 01 19:44:23 2001] [54 Rake] Salvaros (Half Elf) <Triune> ZONE: kithicor (USER PID DP5YUC5)
+[Sun Jul 01 19:44:23 2001] There are 2 players in EverQuest.
+[Sun Jul 01 19:44:29 2001] Teleporting to salvaros.
+[Sun Jul 01 19:44:47 2001] Elaari begins to cast a spell. (Harvest)
+[Sun Jul 01 19:44:47 2001] You wave at Salvaros.
+[Sun Jul 01 19:44:50 2001] Hanible waves at Espranza.
+[Sun Jul 01 19:44:51 2001] Salvaros beams a smile at Espranza.
+[Sun Jul 01 19:44:57 2001] Elaari's casting is interrupted!
+[Sun Jul 01 19:44:57 2001] Elaari gathers glowing blue strands of mana.
+[Sun Jul 01 19:45:03 2001] Clarion waves at Espranza.
+[Sun Jul 01 19:45:11 2001] You say, 'Just wanted to stop by and say that there was an apprentice guide here'
+[Sun Jul 01 19:45:17 2001] Takarr auctions, 'WTB Essence of Moonlight --- Send tells'
+[Sun Jul 01 19:45:17 2001] You say, 'we have the whole thing in his log file'
+[Sun Jul 01 19:45:20 2001] Coraz shouts, 'its day?'
+[Sun Jul 01 19:45:25 2001] You say, 'and that the log file has been sent to the GM'
+[Sun Jul 01 19:45:26 2001] Arendil shouts, 'No'
+[Sun Jul 01 19:45:40 2001] Salvaros says, 'thanks Esp'
+[Sun Jul 01 19:45:53 2001] You say, 'I am sure the GM will know what to do'
+[Sun Jul 01 19:46:05 2001] Clarion says, 'sounds great   =)'
+[Sun Jul 01 19:46:05 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:46:05 2001] USER TEXT: GDI . .my general v'ghera was ninja looted by Meudian
+[Sun Jul 01 19:46:06 2001] Players in EverQuest:
+[Sun Jul 01 19:46:06 2001] ---------------------------
+[Sun Jul 01 19:46:06 2001] [54 Rake] Salvaros (Half Elf) <Triune> ZONE: kithicor (USER PID DP5YUC5)
+[Sun Jul 01 19:46:06 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:46:14 2001] STATUS UPGRADED TO URGENT
+[Sun Jul 01 19:46:14 2001] STATUS UPGRADED TO EMERGENCY
+[Sun Jul 01 19:46:17 2001] CHECKING IN
+[Sun Jul 01 19:46:33 2001] You say, 'you'll be hearing from her soon I think'
+[Sun Jul 01 19:46:34 2001] Hanible says, 'can i get a heal im group less'
+[Sun Jul 01 19:46:36 2001] You no longer have a target.
+[Sun Jul 01 19:46:37 2001] You wave goodbye to everyone.
+[Sun Jul 01 19:46:44 2001] Clarion waves goodbye to Espranza.
+[Sun Jul 01 19:46:48 2001] You GMSAY, 'zone'
+[Sun Jul 01 19:46:49 2001] Players in EverQuest:
+[Sun Jul 01 19:46:49 2001] ---------------------------
+[Sun Jul 01 19:46:49 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: kithicor (USER PID AUGBQH4)
+[Sun Jul 01 19:46:49 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:46:51 2001] Clarion begins to cast a spell. (Greater Healing)
+[Sun Jul 01 19:46:54 2001] Hanible feels much better.
+[Sun Jul 01 19:46:55 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 19:47:20 2001] You have entered Rivervale.
+[Sun Jul 01 19:48:08 2001] Faladara begins to cast a spell. (Resolution)
+[Sun Jul 01 19:48:23 2001] Mobo says, 'thanks'
+[Sun Jul 01 19:48:27 2001] Twippie Diggs says 'Hello there Nevrmore, how about a nice Fire Hornet Wing?'
+[Sun Jul 01 19:48:50 2001] You can't use that command right now...
+[Sun Jul 01 19:48:50 2001] Your feet leave the ground.
+[Sun Jul 01 19:48:50 2001] You can't use that command right now...
+[Sun Jul 01 19:48:50 2001] Your feet leave the ground.
+[Sun Jul 01 19:48:51 2001] You can't use that command right now...
+[Sun Jul 01 19:48:51 2001] Your feet leave the ground.
+[Sun Jul 01 19:48:52 2001] You can't use that command right now...
+[Sun Jul 01 19:48:52 2001] Your feet leave the ground.
+[Sun Jul 01 19:49:16 2001] Mayor Gubbin begins to cast a spell. (Shield of Brambles)
+[Sun Jul 01 19:49:19 2001] Mayor Gubbin is surrounded by a thorny barrier.
+[Sun Jul 01 19:49:28 2001] You can no longer levitate.
+[Sun Jul 01 19:49:32 2001] Mayor Gubbin begins to cast a spell. (Firefist)
+[Sun Jul 01 19:49:46 2001] Meddle tells you, 'just to let you know i am at the bank and checked.  no ivy sleeves in there.'
+[Sun Jul 01 19:50:00 2001] You told Meddle, 'ok'
+[Sun Jul 01 19:51:24 2001] Players in EverQuest:
+[Sun Jul 01 19:51:24 2001] ---------------------------
+[Sun Jul 01 19:51:24 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: rivervale (USER PID AUGBQH4)
+[Sun Jul 01 19:51:24 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:51:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:51:27 2001] USER TEXT: greetings after receiving a rezz after a death, and recovering all items from my body i had noticed one of my inventory bags missing any help would be appreciated thank you
+[Sun Jul 01 19:51:27 2001] Players in EverQuest:
+[Sun Jul 01 19:51:27 2001] ---------------------------
+[Sun Jul 01 19:51:27 2001] [ANON (58 Outrider)] Ladonis (Wood Elf) ZONE: velketor (USER PID CR08HZ4)
+[Sun Jul 01 19:51:27 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:51:29 2001] Nywani tells you, 'Hello Espranza.   - Smiles -    How do you put an action in a Social or Hot Key so you make the motion with out saying the default associated words?  So you can make your own words for actions?'
+[Sun Jul 01 19:52:24 2001] You told Nywani, 'put the emote followed by "say" and your preferred emote - like /bonk say hits you with her sparkly sword!'
+[Sun Jul 01 19:52:45 2001] You told Ladonis, 'Hail, Ladonis! Guide Espranza here. What items did you lose?'
+[Sun Jul 01 19:52:48 2001] Nywani tells you, 'Thank You !   =)'
+[Sun Jul 01 19:52:54 2001] You told Nywani, 'you're welcome!'
+[Sun Jul 01 19:53:09 2001] Players in EverQuest:
+[Sun Jul 01 19:53:09 2001] ---------------------------
+[Sun Jul 01 19:53:10 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: rivervale (USER PID AUGBQH4)
+[Sun Jul 01 19:53:10 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:53:40 2001] Ladonis tells you, 'greetings there are some items that i know for sure were in there and a couple that i am not sure, shall i name them all?'
+[Sun Jul 01 19:53:50 2001] You told Ladonis, 'sure'
+[Sun Jul 01 19:54:27 2001] Mayor Gubbin begins to cast a spell. (Shield of Brambles)
+[Sun Jul 01 19:54:47 2001] Searching for mayor_gubbin00.
+[Sun Jul 01 19:54:47 2001] Player is in zone rivervale at x = 95 y = -162 z = 46.
+[Sun Jul 01 19:54:55 2001] Ladonis tells you, 'ok, swarmcaller, lupine dagger, club of the ice ocean, woodsman staff, bow of the huntsman, runed bone fork, spider fur belt, the first 2 i am not positive on its one or the other the rest i am sure about'
+[Sun Jul 01 19:54:57 2001] You're not scaring anyone.
+[Sun Jul 01 19:55:25 2001] Ladonis tells you, 'there may have been a couple other items that i cant remember at this time, i dont know for sure'
+[Sun Jul 01 19:55:40 2001] Celesra GMSAYS, 'hello Espranza =)'
+[Sun Jul 01 19:55:49 2001] Celesra GMSAYS, 'nice que.'
+[Sun Jul 01 19:55:50 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sun Jul 01 19:55:51 2001] GM TEXT: Espranza: lost swarmcaller, lupine dagger, club of the ice ocean, woodsman staff, bow of the huntsman, runed bone fork, spider fur belt
+[Sun Jul 01 19:55:53 2001] STATUS UPGRADED TO URGENT
+[Sun Jul 01 19:55:53 2001] STATUS UPGRADED TO EMERGENCY
+[Sun Jul 01 19:55:56 2001] Celesra GMSAYS, 'should I start in? =)'
+[Sun Jul 01 19:56:04 2001] You GMSAY, 'escalating Ladonis reimbursement'
+[Sun Jul 01 19:56:12 2001] You GMSAY, 'hiya! yes please, brt'
+[Sun Jul 01 19:56:20 2001] Celesra GMSAYS, 'alrighty'
+[Sun Jul 01 19:56:27 2001] You told Ladonis, 'Okay, escalated it to the GM...'
+[Sun Jul 01 19:56:28 2001] Celesra GMSAYS, 'pulling Chimaera'
+[Sun Jul 01 19:56:29 2001] CHECKING IN
+[Sun Jul 01 19:56:31 2001] Ladonis tells you, 'ok thank you'
+[Sun Jul 01 19:56:34 2001] You GMSAY, 'zone'
+[Sun Jul 01 19:56:37 2001] Teleporting to celesra.
+[Sun Jul 01 19:56:38 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 19:57:08 2001] You have entered Frontier Mountains.
+[Sun Jul 01 19:57:15 2001] You invite Celesra to join your group.
+[Sun Jul 01 19:57:18 2001] You have formed the group.
+[Sun Jul 01 19:57:20 2001] You say, 'you need to mix more'
+[Sun Jul 01 19:57:27 2001] You beam a smile at Celesra.
+[Sun Jul 01 19:57:37 2001] Celesra tells the group, 'Chimaera's petition: we were doing an epic fight on the general in Kithicor and someone named Meudian came along and looted the generals corpse while the person who triggered his spawn was getting rezzed'
+[Sun Jul 01 19:57:46 2001] Celesra beams a smile at Espranza.
+[Sun Jul 01 19:57:47 2001] Onii says out of character, 'Loc on Fort ?'
+[Sun Jul 01 19:57:50 2001] You tell your party, 'yes, we know'
+[Sun Jul 01 19:57:57 2001] Onii says out of character, 'Heya Espranza'
+[Sun Jul 01 19:57:58 2001] Celesra tells the group, '?'
+[Sun Jul 01 19:58:00 2001] Onii says out of character, '<hugz>'
+[Sun Jul 01 19:58:01 2001] You tell your party, 'just tell any petitioner about that that we know about it'
+[Sun Jul 01 19:58:06 2001] Celesra tells the group, 'oh'
+[Sun Jul 01 19:58:12 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:58:13 2001] USER TEXT: Meudian looted the general in kithicor
+[Sun Jul 01 19:58:13 2001] Players in EverQuest:
+[Sun Jul 01 19:58:13 2001] ---------------------------
+[Sun Jul 01 19:58:13 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 01 19:58:16 2001] DELETING THIS PETITION
+[Sun Jul 01 19:58:19 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:58:19 2001] USER TEXT: General was just ninja looted by a guy named Meudian!
+[Sun Jul 01 19:58:19 2001] Players in EverQuest:
+[Sun Jul 01 19:58:19 2001] ---------------------------
+[Sun Jul 01 19:58:19 2001] [58 Outrider] Clarion (Wood Elf) <Triune> ZONE: firiona (USER PID BQYZB2D) LFG
+[Sun Jul 01 19:58:19 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:58:24 2001] Uanan auctions, 'selling 4 dmg 75 rng arrows and 1 dmg 150 rng arrows'
+[Sun Jul 01 19:58:29 2001] Onii says out of character, 'Loc on Fort ?'
+[Sun Jul 01 19:58:40 2001] Celesra tells the group, 'what happened?'
+[Sun Jul 01 19:58:43 2001] Celesra tells the group, 'I don't get it'
+[Sun Jul 01 19:58:48 2001] Orestes says out of character, '-35,-1680'
+[Sun Jul 01 19:58:48 2001] You told Clarion, 'Hail, Clarion! Guide Espranza here. We're looking into it (or will as soon as the GM returns)'
+[Sun Jul 01 19:58:50 2001] Onii says out of character, 'thx'
+[Sun Jul 01 19:59:02 2001] Clarion tells you, 'Ok thx Espranza  =)'
+[Sun Jul 01 19:59:04 2001] You tell your party, 'just what they said - there was an epic battle and a newbie rogue looted the epic bit'
+[Sun Jul 01 19:59:07 2001] You told Clarion, 'anytime!'
+[Sun Jul 01 19:59:11 2001] Clarion tells you, '=)'
+[Sun Jul 01 19:59:12 2001] DELETING THIS PETITION
+[Sun Jul 01 19:59:13 2001] Celesra tells the group, 'ooh'
+[Sun Jul 01 19:59:13 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 19:59:15 2001] Celesra tells the group, 'hahahaha'
+[Sun Jul 01 19:59:18 2001] USER TEXT: we just had meudian ninja loot the final piece of the rogue epic after our guild killed the general.
+[Sun Jul 01 19:59:18 2001] Players in EverQuest:
+[Sun Jul 01 19:59:18 2001] ---------------------------
+[Sun Jul 01 19:59:18 2001] [59 Beguiler] Meeke (High Elf) <Triune> ZONE: commons (USER PID FZJ0C3R)
+[Sun Jul 01 19:59:18 2001] There is 1 player in EverQuest.
+[Sun Jul 01 19:59:23 2001] Celesra tells the group, 'that's quite funny =)'
+[Sun Jul 01 19:59:41 2001] Celesra GMSAYS, 'deleting Chimaera's petition..'
+[Sun Jul 01 19:59:45 2001] You told Meeke, 'Hail, Meeke! Guide Espranza here. The GM will learn of this just as soon as he gets back, be assured.'
+[Sun Jul 01 19:59:47 2001] Celesra GMSAYS, 'pulling Zaaz'
+[Sun Jul 01 19:59:50 2001] Warron shouts, 'looking for a clarity or breeze will DONATE send tell'
+[Sun Jul 01 19:59:54 2001] You tell your party, 'not if it was your epic...'
+[Sun Jul 01 19:59:56 2001] DELETING THIS PETITION
+[Sun Jul 01 19:59:58 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:00:05 2001] USER TEXT: Meudian just ninja looted the final piece of a rogue epic we killed
+[Sun Jul 01 20:00:05 2001] Players in EverQuest:
+[Sun Jul 01 20:00:05 2001] ---------------------------
+[Sun Jul 01 20:00:05 2001] [ANON (35 Druid)] Melinie (Wood Elf) ZONE: feerrott (USER PID BYF4WCQ)
+[Sun Jul 01 20:00:05 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:00:05 2001] Celesra tells the group, 'well, it wasn't, so... =)'
+[Sun Jul 01 20:00:05 2001] Meeke tells you, 'thanks esperanza )'
+[Sun Jul 01 20:00:16 2001] Celesra tells the group, 'oh, alright'
+[Sun Jul 01 20:00:24 2001] You told Kuroni, 'Kuroni is not online at this time.'
+[Sun Jul 01 20:00:25 2001] Celesra tells the group, 'sheesh'
+[Sun Jul 01 20:00:32 2001] Celesra tells the group, 'is a level 14 allowed to get married?'
+[Sun Jul 01 20:00:42 2001] Meeke tells you, 'isn't esperanza a bit of an ironic name for a gm?  i mean, you guys aren't the onew doing the waiting B)'
+[Sun Jul 01 20:00:42 2001] You told Melinie, 'Hail, Kuroni! Guide Espranza here. The GM shall learn of this as soon as she returns...'
+[Sun Jul 01 20:00:50 2001] You tell your party, 'sure, they can't get a last name though'
+[Sun Jul 01 20:00:59 2001] Lirus GMSAYS, 'back'
+[Sun Jul 01 20:01:05 2001] Melinie tells you, 'Ok.. sorry to spam the petitions, but we were a bit upset about all that work'
+[Sun Jul 01 20:01:07 2001] You GMSAY, 'Lirus!'
+[Sun Jul 01 20:01:08 2001] Celesra GMSAYS, 'hey Lirus. Gotta love the que =)'
+[Sun Jul 01 20:01:14 2001] You GMSAY, 'You need to pull Salvaros right away'
+[Sun Jul 01 20:01:26 2001] Melinie tells you, 'thanks for replying too :)'
+[Sun Jul 01 20:01:32 2001] You GMSAY, 'Some newbie rogue looted an epic bit in the rogue epic'
+[Sun Jul 01 20:01:40 2001] You told Melinie, 'anytime'
+[Sun Jul 01 20:01:43 2001] Jjmoore auctions, 'S H R I N K   P O T I O N S   4   Sale, Send Tells'
+[Sun Jul 01 20:01:46 2001] Lirus GMSAYS, 'doh'
+[Sun Jul 01 20:01:48 2001] Players in EverQuest:
+[Sun Jul 01 20:01:48 2001] ---------------------------
+[Sun Jul 01 20:01:48 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: soldunga (USER PID CW1ECN5)
+[Sun Jul 01 20:01:48 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: frontiermtns (USER PID AUGBQH4)
+[Sun Jul 01 20:01:49 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: frontiermtns (USER PID GX2YWXV)
+[Sun Jul 01 20:01:49 2001] There are 3 players in EverQuest.
+[Sun Jul 01 20:01:55 2001] Uanan auctions, 'WTS a Sarnak Etchika, send tells please!'
+[Sun Jul 01 20:01:57 2001] DELETING THIS PETITION
+[Sun Jul 01 20:02:14 2001] Jjmoore auctions, 'WTS Spine Chill Spear 10/28 Sta+3/Wis+6/SvCld+10'
+[Sun Jul 01 20:02:17 2001] You GMSAY, 'Larsot was there, he had logs, asked him to send them to you, haven't seen him since though'
+[Sun Jul 01 20:02:31 2001] Lirus GMSAYS, 'larsot saw it all?'
+[Sun Jul 01 20:02:31 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:02:32 2001] USER TEXT: my guild Triune, killed the last epic mob for Salvaros a rogue, and some newb ninja looted the crap he needed, PLS HELP Salvaros this is total BS
+[Sun Jul 01 20:02:32 2001] Players in EverQuest:
+[Sun Jul 01 20:02:32 2001] ---------------------------
+[Sun Jul 01 20:02:32 2001] [59 Revenant] Septose (Dark Elf) <Triune> ZONE: freportn (USER PID HPG5WET)
+[Sun Jul 01 20:02:32 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:02:38 2001] You GMSAY, 'he was in zone at the time'
+[Sun Jul 01 20:02:44 2001] You GMSAY, 'don't think he saw it though'
+[Sun Jul 01 20:02:50 2001] Celesra tells the group, 'ugh'
+[Sun Jul 01 20:02:54 2001] Celesra tells the group, 'stupid warrior'
+[Sun Jul 01 20:02:56 2001] Melinie tells you, 'oh, can i ask a question really quick?  would you happen to know what gate potions/items are avail? I know there's Thurgadin, halas, and cazic thule.. are there any others?'
+[Sun Jul 01 20:03:11 2001] Celesra tells the group, 'moron wants to get married at 'his house' to his ''
+[Sun Jul 01 20:03:11 2001] You told Melinie, 'I don't really know :) never having used one.'
+[Sun Jul 01 20:03:16 2001] Melinie tells you, 'hehe ok, thanks :)'
+[Sun Jul 01 20:03:17 2001] Celesra tells the group, ''girlfriend'...heh'
+[Sun Jul 01 20:03:20 2001] It begins to rain.
+[Sun Jul 01 20:03:27 2001] Espranza gets wet AND HATES IT.
+[Sun Jul 01 20:03:46 2001] Celesra tells the group, 'stupid newbies..sheesh..gotta love it..heh'
+[Sun Jul 01 20:03:59 2001] You told Septose, 'Hail, Septose! Guide Espranza here. The GM has the petition right now!'
+[Sun Jul 01 20:04:01 2001] DELETING THIS PETITION
+[Sun Jul 01 20:04:03 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:04:03 2001] USER TEXT: I am getting booted at every zone, and my ping is allways good. Is there a problem, or is that normal?
+[Sun Jul 01 20:04:03 2001] Players in EverQuest:
+[Sun Jul 01 20:04:03 2001] ---------------------------
+[Sun Jul 01 20:04:03 2001] [ANON (23 Shadow Knight)] Keudivenipo (Dark Elf) ZONE: overthere (USER PID CT4AH8Y)
+[Sun Jul 01 20:04:03 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:04:05 2001] Septose tells you, 'ok'
+[Sun Jul 01 20:04:09 2001] Zildrax tells you, 'I hope that ninja looting little bugger is banned. *smiles*'
+[Sun Jul 01 20:04:17 2001] You told Zildrax, 'GM working on it now'
+[Sun Jul 01 20:04:22 2001] Celesra tells the group, 'hmm'
+[Sun Jul 01 20:04:23 2001] Zildrax tells you, 'Woohoo go GM!'
+[Sun Jul 01 20:04:27 2001] Players in EverQuest:
+[Sun Jul 01 20:04:27 2001] ---------------------------
+[Sun Jul 01 20:04:27 2001] * Apprentice Guide *[ANON (20 Monk)] Larsot (Iksar) ZONE: freportn (USER PID FS6MRL2)
+[Sun Jul 01 20:04:27 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: soldunga (USER PID CW1ECN5)
+[Sun Jul 01 20:04:27 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: frontiermtns (USER PID AUGBQH4)
+[Sun Jul 01 20:04:27 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: frontiermtns (USER PID GX2YWXV)
+[Sun Jul 01 20:04:27 2001] There are 4 players in EverQuest.
+[Sun Jul 01 20:04:31 2001] Celesra tells the group, 'wonder if this guy is being a moron on purpose?'
+[Sun Jul 01 20:04:34 2001] You GMSAY, 'Hiya Larsot!'
+[Sun Jul 01 20:04:37 2001] You GMSAY, 'zone'
+[Sun Jul 01 20:04:41 2001] Teleporting to Larsot.
+[Sun Jul 01 20:04:52 2001] Players in EverQuest:
+[Sun Jul 01 20:04:52 2001] ---------------------------
+[Sun Jul 01 20:04:52 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: qcat (USER PID CW1ECN5)
+[Sun Jul 01 20:04:52 2001] * Apprentice Guide *[ANON (20 Monk)] Larsot (Iksar) ZONE: freportn (USER PID FS6MRL2)
+[Sun Jul 01 20:04:52 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: frontiermtns (USER PID AUGBQH4)
+[Sun Jul 01 20:04:52 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: frontiermtns (USER PID GX2YWXV)
+[Sun Jul 01 20:04:52 2001] There are 4 players in EverQuest.
+[Sun Jul 01 20:04:57 2001] Teleporting to larsot.
+[Sun Jul 01 20:04:57 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 20:05:23 2001] You have entered North Freeport.
+[Sun Jul 01 20:05:23 2001] You have formed the group.
+[Sun Jul 01 20:05:28 2001] You invite Larsot to join your group.
+[Sun Jul 01 20:05:37 2001] You say, 'go un-anon'
+[Sun Jul 01 20:05:37 2001] You no longer have a target.
+[Sun Jul 01 20:05:40 2001] Larsot GMSAYS, 'Lirus, i posted my report for you to read just now  ;)'
+[Sun Jul 01 20:05:44 2001] Larsot has joined the group.
+[Sun Jul 01 20:05:54 2001] Larsot tells the group, 'thanks lady Espranza'
+[Sun Jul 01 20:06:05 2001] Espranza whispers "you're anon" to Larsot.
+[Sun Jul 01 20:06:07 2001] Larsot tells the group, 'that was a hard report to file, sheesh'
+[Sun Jul 01 20:06:16 2001] Larsot says, 'hehe  ;)'
+[Sun Jul 01 20:06:16 2001] You beam a smile at Larsot.
+[Sun Jul 01 20:06:20 2001] Celesra GMSAYS, '*sigh*...Esc this stupid petition to red, someone wants to get married ASAP..'
+[Sun Jul 01 20:06:25 2001] You tell your party, 'Just in the nick of time, too'
+[Sun Jul 01 20:06:28 2001] You GMSAY, 'esc to yellow'
+[Sun Jul 01 20:06:37 2001] Celesra GMSAYS, 'alright'
+[Sun Jul 01 20:06:39 2001] You GMSAY, 'but we have no time fot that'
+[Sun Jul 01 20:06:42 2001] You GMSAY, 'look at the queue'
+[Sun Jul 01 20:06:44 2001] Larsot tells the group, 'so whats the latest on mr.ninja?'
+[Sun Jul 01 20:06:50 2001] Players in EverQuest:
+[Sun Jul 01 20:06:50 2001] ---------------------------
+[Sun Jul 01 20:06:50 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: freportn (USER PID AUGBQH4)
+[Sun Jul 01 20:06:50 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: qcat (USER PID CW1ECN5)
+[Sun Jul 01 20:06:50 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: freportn (USER PID FS6MRL2)
+[Sun Jul 01 20:06:50 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: frontiermtns (USER PID GX2YWXV)
+[Sun Jul 01 20:06:50 2001] There are 4 players in EverQuest.
+[Sun Jul 01 20:07:00 2001] Celesra GMSAYS, '*agrees*..I guess the moron will have to wait. /laugh'
+[Sun Jul 01 20:07:02 2001] Appledumpling shouts, 'pc on SBS'
+[Sun Jul 01 20:07:02 2001] You GMSAY, 'tell them they will have to wait or get a player cleric'
+[Sun Jul 01 20:07:06 2001] Eclipt says out of character, '20k'
+[Sun Jul 01 20:07:18 2001] Sanas says out of character, 'sowing at the bank for free'
+[Sun Jul 01 20:07:20 2001] Celesra GMSAYS, 'alright'
+[Sun Jul 01 20:07:21 2001] Gritknoc auctions, 'WTB WTTF Stave of Shielding and/or Tranquil Staff'
+[Sun Jul 01 20:07:25 2001] You tell your party, 'well, I think Lirus is working on that right now'
+[Sun Jul 01 20:07:29 2001] USER TEXT: I am getting booted at every zone, and my ping is allways good. Is there a problem, or is that normal?
+[Sun Jul 01 20:07:30 2001] Celesra GMSAYS, 'I already told him he would have to wait a while'
+[Sun Jul 01 20:07:38 2001] Celesra GMSAYS, 'pulling Nyiloriyn'
+[Sun Jul 01 20:07:40 2001] Sanas says out of character, 'sowing at the bank for free'
+[Sun Jul 01 20:07:41 2001] Appledumpling auctions, 'WTS small banded tunic and gorget'
+[Sun Jul 01 20:07:50 2001] You GMSAY, 'if they really want to get married, they can schedule in advance'
+[Sun Jul 01 20:07:53 2001] Larsot tells the group, 'good, glad to hear that, that poor rouge is at a great loss because of him   :('
+[Sun Jul 01 20:07:54 2001] Iadanae auctions, 'wts Crystalized 2hs 24 dmg 49 dly 250pp'
+[Sun Jul 01 20:08:00 2001] Rudyard auctions, 'WTS Iksar Skaled Gloves AC10 STR3 DX3 HP10'
+[Sun Jul 01 20:08:06 2001] UNDOING CHECK OUT
+[Sun Jul 01 20:08:08 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:08:13 2001] USER TEXT: i would like to get married
+[Sun Jul 01 20:08:13 2001] Players in EverQuest:
+[Sun Jul 01 20:08:13 2001] ---------------------------
+[Sun Jul 01 20:08:13 2001] [14 Warrior] Zaaz (Half Elf) <Guardians of Dragons> ZONE: gfaydark (USER PID DYCTRJT)
+[Sun Jul 01 20:08:13 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:08:16 2001] UNDOING CHECK OUT
+[Sun Jul 01 20:08:18 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:08:19 2001] USER TEXT: how can I change my font type
+[Sun Jul 01 20:08:19 2001] Players in EverQuest:
+[Sun Jul 01 20:08:19 2001] ---------------------------
+[Sun Jul 01 20:08:19 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 01 20:08:22 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sun Jul 01 20:08:24 2001] CHECKING IN
+[Sun Jul 01 20:08:25 2001] Kaycee auctions, 'WTS Mess of Queen.......offers'
+[Sun Jul 01 20:08:26 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:08:26 2001] Larsot tells the group, 'i have some questions about reporting too'
+[Sun Jul 01 20:08:27 2001] Kaycee auctions, 'WTS festering cloak, necro only 15pp'
+[Sun Jul 01 20:08:35 2001] USER TEXT: hello i need help i have 5 chars on this server 4 i can log on the 5th and highest lvl i cannot get into the world as of a week ago 
+[Sun Jul 01 20:08:35 2001] Players in EverQuest:
+[Sun Jul 01 20:08:35 2001] ---------------------------
+[Sun Jul 01 20:08:35 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 01 20:08:36 2001] You tell your party, 'sure'
+[Sun Jul 01 20:08:40 2001] CAN'T FIND PETITIONER.  UPPING USER UNAVAILABLE COUNT
+[Sun Jul 01 20:08:40 2001] Celesra GMSAYS, 'deleting Nyiloriyn's petition, unavail'
+[Sun Jul 01 20:08:40 2001] Sanas says out of character, 'iam sowing for donations r ok but not needed tell me'
+[Sun Jul 01 20:08:50 2001] Celesra GMSAYS, 'pulling Keudivenipo'
+[Sun Jul 01 20:08:51 2001] You GMSAY, 'Dukaster unavail 3 ****flush*****'
+[Sun Jul 01 20:08:53 2001] DELETING THIS PETITION
+[Sun Jul 01 20:08:54 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:08:55 2001] USER TEXT: I was told to petition some other time due to my corpse dissapearing, could u plz help me now? i have no items at all
+[Sun Jul 01 20:08:55 2001] Players in EverQuest:
+[Sun Jul 01 20:08:55 2001] ---------------------------
+[Sun Jul 01 20:08:55 2001] [8 Monk] Kebshale (Iksar) ZONE: lakeofillomen (USER PID AWB35F8)
+[Sun Jul 01 20:08:55 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:08:59 2001] Larsot tells the group, 'can i also submit bad names under the name category or do the guides do it for us?'
+[Sun Jul 01 20:09:07 2001] You tell your party, 'you can, and should'
+[Sun Jul 01 20:09:19 2001] Sanas says out of character, 'np '
+[Sun Jul 01 20:09:21 2001] Larsot tells the group, 'ok, i never saw any appies post so i was wondering'
+[Sun Jul 01 20:09:25 2001] Sanas says out of character, 'sowing at the bank for free'
+[Sun Jul 01 20:09:29 2001] You tell your party, 'well, they should too :)'
+[Sun Jul 01 20:09:52 2001] Larsot tells the group, 'and someone should really slap the you know what out of that one player name'
+[Sun Jul 01 20:09:52 2001] USER TEXT: I was told to petition some other time due to my corpse dissapearing, could u plz help me now? i have no items at all
+[Sun Jul 01 20:09:52 2001] Celesra tells the group, 'bad name catoegory?'
+[Sun Jul 01 20:10:22 2001] You told Sinban, 'Sinban is not online at this time.'
+[Sun Jul 01 20:10:42 2001] Sanas says out of character, 'sowing at the bank for free'
+[Sun Jul 01 20:10:50 2001] You told Kebshale, 'Hail, Sinban! Guide Espranza here. How did your corpse disappear?'
+[Sun Jul 01 20:10:52 2001] Larsot tells the group, 'under our report section, there are sections for posting wedding plans, bad names, and other info'
+[Sun Jul 01 20:11:04 2001] Kebshale tells you, 'the last patch'
+[Sun Jul 01 20:11:05 2001] Enuden begins to cast a spell. (Gate)
+[Sun Jul 01 20:11:10 2001] Celesra tells the group, 'I didn't see the bad name section..'
+[Sun Jul 01 20:11:13 2001] Celesra tells the group, 'alright'
+[Sun Jul 01 20:11:19 2001] You told Kebshale, 'it disappeared during the patch?'
+[Sun Jul 01 20:11:22 2001] Nrgy auctions, 'WTS Electrum Earring +2 Wis .. best offer'
+[Sun Jul 01 20:11:27 2001] Kebshale tells you, 'yes'
+[Sun Jul 01 20:11:36 2001] STATUS UPGRADED TO URGENT
+[Sun Jul 01 20:11:36 2001] STATUS UPGRADED TO EMERGENCY
+[Sun Jul 01 20:11:39 2001] GUIDE TEXT APPENDED FROM CHATLINE
+[Sun Jul 01 20:11:40 2001] GM TEXT: Espranza: Says he lost his corpse during the patch.
+[Sun Jul 01 20:11:49 2001] Celesra GMSAYS, 'checking in Keud's petition..unavail...online..afk?'
+[Sun Jul 01 20:11:53 2001] You GMSAY, 'esc Sinban claims lost his corpse in the last patch'
+[Sun Jul 01 20:11:59 2001] Celesra GMSAYS, 'pulling Aggressa'
+[Sun Jul 01 20:12:03 2001] You told Kebshale, 'okay, I've escalated it to the GM'
+[Sun Jul 01 20:12:05 2001] CHECKING IN
+[Sun Jul 01 20:12:10 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:12:11 2001] USER TEXT: Llara in Lavastorm is not up, could someone reset her please
+[Sun Jul 01 20:12:11 2001] Players in EverQuest:
+[Sun Jul 01 20:12:11 2001] ---------------------------
+[Sun Jul 01 20:12:11 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 01 20:12:14 2001] Larsot tells the group, 'ok, im jumping back in for about an hour or so then i want to try and get 56 tonight  :D'
+[Sun Jul 01 20:12:16 2001] Celesra GMSAYS, 'checking in Aggressa, unavail 1/3'
+[Sun Jul 01 20:12:22 2001] You tell your party, 'ok'
+[Sun Jul 01 20:12:28 2001] You tell your party, 'I should try for 54...'
+[Sun Jul 01 20:12:37 2001] Celesra tells the group, 'what are you talking about?'
+[Sun Jul 01 20:12:41 2001] Celesra GMSAYS, 'pulling Meudian?'
+[Sun Jul 01 20:12:44 2001] Celesra GMSAYS, 'pulling Meudian'
+[Sun Jul 01 20:12:46 2001] You GMSAY, 'Uriel unavail 3 ***flush****'
+[Sun Jul 01 20:12:53 2001] You GMSAY, 'hey, that's the ninja!'
+[Sun Jul 01 20:12:56 2001] Larsot GMSAYS, 'pulling Ainabre'
+[Sun Jul 01 20:13:00 2001] Players in EverQuest:
+[Sun Jul 01 20:13:00 2001] ---------------------------
+[Sun Jul 01 20:13:00 2001] [ANON (16 Necromancer)] Meudian (Dark Elf) ZONE: qcat (USER PID EXU5LC7)
+[Sun Jul 01 20:13:00 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:13:20 2001] You GMSAY, 'heh - he wasn't even a rogue'
+[Sun Jul 01 20:13:31 2001] Larsot GMSAYS, 'aye, thats him'
+[Sun Jul 01 20:13:45 2001] DELETING THIS PETITION
+[Sun Jul 01 20:13:48 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:13:49 2001] USER TEXT: one minute i am a level 41 druid fighting lord grimrot in south karana the system drops me and i come back as a 40 level in freeport can you restore me
+[Sun Jul 01 20:13:49 2001] Players in EverQuest:
+[Sun Jul 01 20:13:49 2001] ---------------------------
+[Sun Jul 01 20:13:49 2001] [ANON (40 Druid)] Dyvid (Halfling) ZONE: freporte (USER PID HN1CYQG)
+[Sun Jul 01 20:13:49 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:13:57 2001] Larsot tells the group, 'im sure he knew what to look for prolly has a rouge though'
+[Sun Jul 01 20:14:30 2001] Celesra tells the group, 'we're not allowed to transfer no drop items if someone accidently looted them, are we?'
+[Sun Jul 01 20:14:38 2001] You tell your party, 'no'
+[Sun Jul 01 20:14:45 2001] You tell your party, 'but ninja looting is something we can work on'
+[Sun Jul 01 20:15:17 2001] Players in EverQuest:
+[Sun Jul 01 20:15:17 2001] ---------------------------
+[Sun Jul 01 20:15:17 2001] [ANON (16 Necromancer)] Meudian (Dark Elf) ZONE: qcat (USER PID EXU5LC7)
+[Sun Jul 01 20:15:17 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: qcat (USER PID CW1ECN5)
+[Sun Jul 01 20:15:17 2001] [7 Shaman] Frostillicus (Barbarian) ZONE: qcat (USER PID CX0QLXB)
+[Sun Jul 01 20:15:17 2001] [6 Warrior] Gryz (Barbarian) ZONE: qcat (USER PID HY581D0)
+[Sun Jul 01 20:15:17 2001] There are 4 players in EverQuest.
+[Sun Jul 01 20:15:17 2001] Kebshale tells you, 'my brother who is 6 years old said he died about 15 hours before the patch, but i had to go to work so i couldnt go loot it, i dunno if he was telling the truth since hes 6 years old, he may have just done something with the armor'
+[Sun Jul 01 20:15:27 2001] Espranza saved.
+[Sun Jul 01 20:15:41 2001] Kebshale tells you, 'but he said he died so thats what ill go by'
+[Sun Jul 01 20:15:48 2001] Celesra tells the group, 'didn't think so. Well, this player who isn't in a group, was waiting for the corpse to allow him to loot it. The group was still fighting, never looted the corpse, so the guy looted the corpse and now the group wants it back'
+[Sun Jul 01 20:16:01 2001] Celesra tells the group, 'hope I made that clear enough'
+[Sun Jul 01 20:16:02 2001] You told Kebshale, 'you share your account with your six year old brother?'
+[Sun Jul 01 20:16:08 2001] Verhieden shouts, 'Need a port or TL to DL paying 50PP'
+[Sun Jul 01 20:16:18 2001] You tell your party, 'Ninja looting - esc to red'
+[Sun Jul 01 20:16:23 2001] Larsot GMSAYS, 'escalating a 10k damage fall pet'
+[Sun Jul 01 20:16:29 2001] USER TEXT: one minute i am a level 41 druid fighting lord grimrot in south karana the system drops me and i come back as a 40 level in freeport can you restore me
+[Sun Jul 01 20:16:32 2001] UNDOING CHECK OUT
+[Sun Jul 01 20:16:36 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:16:37 2001] USER TEXT: I died to a bug.
+[Sun Jul 01 20:16:37 2001] Players in EverQuest:
+[Sun Jul 01 20:16:37 2001] ---------------------------
+[Sun Jul 01 20:16:37 2001] [24 Shaman] Ainabre (Barbarian) ZONE: eastkarana (USER PID APXBU9J)
+[Sun Jul 01 20:16:37 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:16:40 2001] GM TEXT: Larsot: Ainabre crashed while zoning and when he/she logged back in fell for 10,000 damage. they said they did a /report also
+[Sun Jul 01 20:16:42 2001] Celesra tells the group, 'alright'
+[Sun Jul 01 20:16:45 2001] Kebshale tells you, 'yes, i made him a char and gave it a bit of armor, i usually play that char for him tho, makes him happy hehe'
+[Sun Jul 01 20:16:56 2001] Celesra tells the group, 'well, the person who looted the stuff if the person petitioning =)'
+[Sun Jul 01 20:17:02 2001] Searching zones for corpse of that name....
+[Sun Jul 01 20:17:03 2001] Corpse: Ainabre's corpse0 in zone: eastkarana
+[Sun Jul 01 20:17:06 2001] Larsot GMSAYS, 'pulling Dyvid'
+[Sun Jul 01 20:17:06 2001] Sir Penan begins to cast a spell. (Center)
+[Sun Jul 01 20:17:06 2001] Sir Ollin begins to cast a spell. (Center)
+[Sun Jul 01 20:17:06 2001] Sir Noshon begins to cast a spell. (Center)
+[Sun Jul 01 20:17:06 2001] Celesra tells the group, 'he wants it transfered'
+[Sun Jul 01 20:17:10 2001] You GMSAY, 'zone'
+[Sun Jul 01 20:17:10 2001] Celesra tells the group, 'still esc?'
+[Sun Jul 01 20:17:13 2001] Kebshale tells you, 'why, is he too young to play? hehe'
+[Sun Jul 01 20:17:13 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 20:17:44 2001] You have entered Eastern Plains of Karana.
+[Sun Jul 01 20:17:44 2001] You have formed the group.
+[Sun Jul 01 20:17:48 2001] Larsot tells the group, 'she zoned Celesra, ask again'
+[Sun Jul 01 20:17:57 2001] Celesra tells the group, 'well, the person who looted the stuff if the person petitioning =)'
+[Sun Jul 01 20:18:00 2001] You tell your party, 'oh'
+[Sun Jul 01 20:18:04 2001] You tell your party, 'nothing we can do then'
+[Sun Jul 01 20:18:11 2001] Celesra tells the group, 'didn't think so'
+[Sun Jul 01 20:18:12 2001] Halforick begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 01 20:18:16 2001] Pulbann says out of character, 'LVL 19 pally LFG in EK'
+[Sun Jul 01 20:18:16 2001] Halforick is surrounded by a brief lupine aura.
+[Sun Jul 01 20:18:21 2001] You tell your party, 'direct them to the producer's letter'
+[Sun Jul 01 20:18:38 2001] You told Kebshale, 'Sharing accounts with anyone is a violation of the license agreement...'
+[Sun Jul 01 20:18:48 2001] Teleporting to ainabre's corpse0.
+[Sun Jul 01 20:18:54 2001] Teleporting to ainabre's corpse0.
+[Sun Jul 01 20:18:55 2001] Teleporting to ainabre's corpse0.
+[Sun Jul 01 20:18:58 2001] Your Location is 164.00, 74.00, 2.19
+[Sun Jul 01 20:19:09 2001] GM TEXT: Larsot: Ainabre crashed while zoning and when he/she logged back in fell for 10,000 damage. they said they did a /report also
+[Sun Jul 01 20:19:20 2001] You GMSAY, 'Lirus, could you read the report on Ainabre please?'
+[Sun Jul 01 20:19:26 2001] Lirus GMSAYS, 'sec'
+[Sun Jul 01 20:19:38 2001] Blabberpuss shouts, 'QUACK'
+[Sun Jul 01 20:19:47 2001] Kebshale tells you, 'what? why cant family members play this game especially when ur sitting with them most of the time?'
+[Sun Jul 01 20:20:20 2001] Kebshale tells you, 'u mean i have to make 2 accounts just for my brother to fool around on it?'
+[Sun Jul 01 20:20:24 2001] Kenja shouts, 'Bye Fabelien, and congrats again. :-)'
+[Sun Jul 01 20:20:24 2001] Vegetaf says out of character, 'Looking for tp to butcher block'
+[Sun Jul 01 20:20:37 2001] You told Kebshale, 'I don't make the rules, but that's what the rules say, yes.'
+[Sun Jul 01 20:20:56 2001] Kebshale tells you, 'well no offence, but thats retarded'
+[Sun Jul 01 20:21:05 2001] Fabelien shouts, 'Bye, thanks for the help everyone '
+[Sun Jul 01 20:21:17 2001] Celesra GMSAYS, 'deleting Meudian's petition...question answered'
+[Sun Jul 01 20:21:27 2001] Celesra GMSAYS, 'pulling Jherek'
+[Sun Jul 01 20:21:29 2001] You told Kebshale, 'they want to know that people are aware and responsible for what happens to their characters.'
+[Sun Jul 01 20:21:34 2001] The spirit leaves you.
+[Sun Jul 01 20:21:35 2001] You GMSAY, 'what did Meudian want?'
+[Sun Jul 01 20:21:37 2001] You feel the spirit of Norrath enter you.
+[Sun Jul 01 20:21:50 2001] Celesra GMSAYS, 'he was the person with the ninja looting case.'
+[Sun Jul 01 20:21:59 2001] You GMSAY, 'I know, but why did he petition?'
+[Sun Jul 01 20:22:12 2001] Celesra GMSAYS, 'to see if he could have the no drop items transferred.'
+[Sun Jul 01 20:22:22 2001] You GMSAY, 'why did he loot it?'
+[Sun Jul 01 20:22:29 2001] Kebshale tells you, 'oh ok, well im only 15 and pay to play EQ by myself and i dont think im just gonna make another account and pay the money for my brother to play an hour or so a week'
+[Sun Jul 01 20:22:40 2001] Celesra GMSAYS, 'beats me...thought he could find some use of it, I suppose.'
+[Sun Jul 01 20:22:41 2001] You told Kebshale, 'just stating the policy...'
+[Sun Jul 01 20:22:54 2001] Larsot GMSAYS, 'what a bozo'
+[Sun Jul 01 20:23:00 2001] Celesra GMSAYS, '/agree'
+[Sun Jul 01 20:23:00 2001] Lirus GMSAYS, 'he is being suspended and the loot is being given to it's proper owner'
+[Sun Jul 01 20:23:08 2001] You GMSAY, 'yay!'
+[Sun Jul 01 20:23:09 2001] Larsot GMSAYS, 'WOOT!!!!'
+[Sun Jul 01 20:23:12 2001] Kebshale tells you, 'ok np, well if u go by policy then, that means u cant help me get my corpse back, so nm then'
+[Sun Jul 01 20:23:24 2001] Celesra GMSAYS, 'our rogue pal?'
+[Sun Jul 01 20:23:53 2001] CHECKING IN
+[Sun Jul 01 20:23:56 2001] Kebshale tells you, 'sorry to bother u'
+[Sun Jul 01 20:23:56 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:23:56 2001] USER TEXT: yea  i was getting my pic taken and i was casting a spell and my guard  just attacked me  and i got killed
+[Sun Jul 01 20:23:56 2001] Players in EverQuest:
+[Sun Jul 01 20:23:56 2001] ---------------------------
+[Sun Jul 01 20:23:56 2001] [42 Necromancer] Cabaz (Iksar) <The Scaled Brotherhood> ZONE: cabwest (USER PID HW14360)
+[Sun Jul 01 20:23:56 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:24:06 2001] Larsot GMSAYS, '*three cheers for Lirus and the rightful owner*'
+[Sun Jul 01 20:24:06 2001] You told Kebshale, 'I've escalated it for the GM anyway'
+[Sun Jul 01 20:24:24 2001] Isobar shouts, 'HG to bridge'
+[Sun Jul 01 20:24:30 2001] Kebshale tells you, 'ok well thx then =)'
+[Sun Jul 01 20:24:32 2001] You told Cabaz, 'Hail, Cabaz! Guide Espranza here. Which spell were you casting?'
+[Sun Jul 01 20:24:43 2001] Cabaz tells you, 'the grim aura'
+[Sun Jul 01 20:24:58 2001] You told Cabaz, 'hmm... self only spell...'
+[Sun Jul 01 20:25:06 2001] Cheechy shouts, 'bridge loc?'
+[Sun Jul 01 20:25:36 2001] Cabaz tells you, 'no clue was casting it for pic and i c fear the blade of the iksar'
+[Sun Jul 01 20:25:45 2001] Cabaz tells you, 'no cluewas casting it for a pic and theni c fearthe blad of the iksar'
+[Sun Jul 01 20:25:50 2001] Cabaz tells you, 'sorry lag'
+[Sun Jul 01 20:25:51 2001] You told Cabaz, 'who was targeted?'
+[Sun Jul 01 20:25:59 2001] Cabaz tells you, 'qulda'
+[Sun Jul 01 20:26:21 2001] You told Cabaz, 'hmm... that's a buff, not a damage spell, as far as I know, right?'
+[Sun Jul 01 20:26:36 2001] Cabaz tells you, 'yea brings up the atk'
+[Sun Jul 01 20:26:42 2001] Vegetaf says out of character, 'Need help with HG at bridge'
+[Sun Jul 01 20:26:46 2001] Larsot GMSAYS, 'deleting pet on connectivity death'
+[Sun Jul 01 20:27:00 2001] You told Cabaz, 'are you absolutely certain that's the spell you cast? Might have been another?'
+[Sun Jul 01 20:27:01 2001] Nalilya shouts, 'Earthstrider is up'
+[Sun Jul 01 20:27:15 2001] Larsot GMSAYS, 'pulling Gutrender <funny name>'
+[Sun Jul 01 20:27:17 2001] Cabaz tells you, 'i was casting that and torbas acid blast'
+[Sun Jul 01 20:27:27 2001] Cabaz tells you, 'but was on me'
+[Sun Jul 01 20:27:31 2001] You told Cabaz, 'acid blast???'
+[Sun Jul 01 20:27:46 2001] Cabaz tells you, 'it is a spell out of vel'
+[Sun Jul 01 20:27:47 2001] You told Cabaz, 'you said you had Qulda targeted'
+[Sun Jul 01 20:27:48 2001] Espranza saved.
+[Sun Jul 01 20:27:49 2001] Cheechy shouts, 'bridge loc?'
+[Sun Jul 01 20:27:53 2001] Cabaz tells you, 'yea'
+[Sun Jul 01 20:28:01 2001] Vegetaf says out of character, '19, 990'
+[Sun Jul 01 20:28:10 2001] You told Cabaz, 'are you sure you weren't blasting Qulda?'
+[Sun Jul 01 20:28:16 2001] Vegetaf says out of character, 'Need help with hg at bridge'
+[Sun Jul 01 20:28:17 2001] Cabaz tells you, 'yea'
+[Sun Jul 01 20:28:28 2001] You told Cabaz, 'is it an AE spell?'
+[Sun Jul 01 20:28:33 2001] Cabaz tells you, 'DD spell'
+[Sun Jul 01 20:28:53 2001] You GMSAY, 'anyone play a necro?'
+[Sun Jul 01 20:29:21 2001] Celesra tells the group, 'someone who was poisoned was zoning from Dalnir into WW, but didn't come out when they zoned into the tunnel, instead they come out somewhere else in the zone. Esc for corpse check and such?'
+[Sun Jul 01 20:29:24 2001] You GMSAY, 'guess not'
+[Sun Jul 01 20:29:26 2001] Celesra GMSAYS, 'nope'
+[Sun Jul 01 20:29:35 2001] You tell your party, 'yes, esc'
+[Sun Jul 01 20:29:36 2001] Cabaz tells you, 'i hav done it lost of times hiting people around the bank and this is the firsttime i got killed doing it'
+[Sun Jul 01 20:29:38 2001] Celesra GMSAYS, 'I have a enchanter I'm working on in test atm'
+[Sun Jul 01 20:29:50 2001] Celesra tells the group, 'ok'
+[Sun Jul 01 20:30:10 2001] You told Cabaz, 'if an NPC sees you attacking another player, they will come for you'
+[Sun Jul 01 20:30:13 2001] Larsot tells the group, 'thats the third petition i have seen about being dropped in the middle of the zone after a zone!!!!!'
+[Sun Jul 01 20:30:15 2001] Celesra GMSAYS, 'Esc Jherek's petition.'
+[Sun Jul 01 20:30:20 2001] You tell your party, 'it's common'
+[Sun Jul 01 20:30:21 2001] Cabaz tells you, 'we was not dueling'
+[Sun Jul 01 20:30:25 2001] You tell your party, 'I rez when I can prove it'
+[Sun Jul 01 20:30:29 2001] Cabaz tells you, 'and i was not doing any dmg to him'
+[Sun Jul 01 20:30:31 2001] You told Cabaz, 'even if you weren't dueling'
+[Sun Jul 01 20:30:41 2001] You told Cabaz, 'just the act itself is enough'
+[Sun Jul 01 20:30:47 2001] Cabaz tells you, 'then why have theynotdoneit befor'
+[Sun Jul 01 20:30:48 2001] Celesra tells the group, 'this is a petition like that too'
+[Sun Jul 01 20:30:54 2001] Celesra GMSAYS, 'pulling Eliani'
+[Sun Jul 01 20:31:12 2001] Cabaz tells you, 'then why have they not done it before'
+[Sun Jul 01 20:31:17 2001] You told Cabaz, 'if they saw you, they would. my main has been killed doing that.'
+[Sun Jul 01 20:31:27 2001] Larsot tells the group, 'i had two from zoning from OT to Skyfire'
+[Sun Jul 01 20:31:36 2001] Cabaz tells you, 'man this is messed up'
+[Sun Jul 01 20:31:38 2001] You tell your party, 'I did CR for one but didn't rez'
+[Sun Jul 01 20:31:51 2001] Cabaz tells you, 'i have done it before and this is the fist time it happened'
+[Sun Jul 01 20:31:51 2001] Celesra tells the group, 'everything seems so out of whack since the patch.'
+[Sun Jul 01 20:32:05 2001] You told Cabaz, 'Well, it sounds like you nuked another player, and that's why they got angry at you.'
+[Sun Jul 01 20:32:10 2001] DELETING THIS PETITION
+[Sun Jul 01 20:32:16 2001] Players in EverQuest:
+[Sun Jul 01 20:32:16 2001] ---------------------------
+[Sun Jul 01 20:32:16 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: eastkarana (USER PID CW1ECN5)
+[Sun Jul 01 20:32:16 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: eastkarana (USER PID AUGBQH4)
+[Sun Jul 01 20:32:16 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: freportn (USER PID FS6MRL2)
+[Sun Jul 01 20:32:16 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: frontiermtns (USER PID GX2YWXV)
+[Sun Jul 01 20:32:16 2001] There are 4 players in EverQuest.
+[Sun Jul 01 20:32:21 2001] Larsot tells the group, 'aye, spells still stack and other funny things still happening'
+[Sun Jul 01 20:32:22 2001] Cabaz tells you, 'well i did not do any dmg to him'
+[Sun Jul 01 20:32:44 2001] Larsot tells the group, 'just think of the patches we going to have after Luclin comes out   :/'
+[Sun Jul 01 20:32:46 2001] You told Cabaz, 'you don't need to... it's a hostile act, they seek vengeance'
+[Sun Jul 01 20:32:59 2001] Cabaz tells you, 'then answer me this'
+[Sun Jul 01 20:32:59 2001] Celesra tells the group, 'ugh, *shiver*'
+[Sun Jul 01 20:33:03 2001] You say to your guild, 'you keep following me around! Could you read Ainabre's report please?'
+[Sun Jul 01 20:33:09 2001] Cabaz tells you, 'why is this the first time they have done it'
+[Sun Jul 01 20:33:20 2001] Celesra GMSAYS, 'deleting Eliani's petition, question answered'
+[Sun Jul 01 20:33:23 2001] You told Cabaz, 'I don't know. It has happened to me many months ago.'
+[Sun Jul 01 20:33:26 2001] Lirus tells the guild, 'yep sorry was busy doing that suspension when you asked earlier'
+[Sun Jul 01 20:33:30 2001] Celesra GMSAYS, 'pulling Cosminimus'
+[Sun Jul 01 20:33:31 2001] You say to your guild, 'no prob'
+[Sun Jul 01 20:34:06 2001] Players in EverQuest:
+[Sun Jul 01 20:34:06 2001] ---------------------------
+[Sun Jul 01 20:34:06 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: eastkarana (USER PID CW1ECN5)
+[Sun Jul 01 20:34:06 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: eastkarana (USER PID AUGBQH4)
+[Sun Jul 01 20:34:06 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: freportn (USER PID FS6MRL2)
+[Sun Jul 01 20:34:06 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: frontiermtns (USER PID GX2YWXV)
+[Sun Jul 01 20:34:06 2001] There are 4 players in EverQuest.
+[Sun Jul 01 20:34:13 2001] Teleporting to lirus.
+[Sun Jul 01 20:34:22 2001] Celesra GMSAYS, 'Esc Cosminimus to red for character restoration...'
+[Sun Jul 01 20:34:24 2001] You wave at Salvaros.
+[Sun Jul 01 20:34:30 2001] Salvaros says, 'thanks Esp =)'
+[Sun Jul 01 20:34:36 2001] You GMSAY, 'make sure he has read the reimbursement policy'
+[Sun Jul 01 20:34:37 2001] Jesterr auctions, 'WTS Bloodstained Fang and Spiked Steel Wrap'
+[Sun Jul 01 20:34:41 2001] Celesra GMSAYS, 'pulling Morulak'
+[Sun Jul 01 20:34:47 2001] Cabaz tells you, 'so willthesame thing happen when i buff people?'
+[Sun Jul 01 20:34:56 2001] You told Cabaz, 'no, only when you nuke them.'
+[Sun Jul 01 20:35:06 2001] Celesra GMSAYS, 'he's petitioned many times asking for Lirus'
+[Sun Jul 01 20:35:10 2001] Cabaz tells you, 'when u say nukeu mean do dmg to them?'
+[Sun Jul 01 20:35:19 2001] Cabaz tells you, 'or harm them?'
+[Sun Jul 01 20:35:21 2001] Celesra GMSAYS, 'every night I've been on for the last few he's been asking for him...'
+[Sun Jul 01 20:35:25 2001] Lirus GMSAYS, 'ainebre had a legitimate 10k fall'
+[Sun Jul 01 20:35:28 2001] You told Cabaz, 'no, it doesn't have to cause damage or harm.'
+[Sun Jul 01 20:35:30 2001] You GMSAY, 'okay'
+[Sun Jul 01 20:35:32 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:35:32 2001] USER TEXT: I died to a bug.
+[Sun Jul 01 20:35:33 2001] Players in EverQuest:
+[Sun Jul 01 20:35:33 2001] ---------------------------
+[Sun Jul 01 20:35:33 2001] [24 Shaman] Ainabre (Barbarian) ZONE: eastkarana (USER PID APXBU9J)
+[Sun Jul 01 20:35:33 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:35:38 2001] Teleporting to ainabre's corpse0.
+[Sun Jul 01 20:35:50 2001] You told Ainabre, 'Hail, Ainabre! Guide Espranza here. Ready for a rez?'
+[Sun Jul 01 20:35:59 2001] Ainabre tells you, 'Yes, please.'
+[Sun Jul 01 20:36:22 2001] You GMSAY, 'wait a sec - legitamate BUG fall, or legit non-bug fall'
+[Sun Jul 01 20:36:38 2001] You told Ainabre, 'a moment... getting clarification from the GM'
+[Sun Jul 01 20:36:44 2001] Ainabre tells you, 'Okay.'
+[Sun Jul 01 20:36:49 2001] Larsot GMSAYS, 'syntax  :P'
+[Sun Jul 01 20:36:56 2001] Celesra GMSAYS, 'Lirus, when you get a chance, please check up on a report on Benjr please'
+[Sun Jul 01 20:36:56 2001] Cabaz tells you, 'man that is messed up i have done it andhadit doneto me and nothing happened before to ether person'
+[Sun Jul 01 20:37:00 2001] You GMSAY, 'yeah, but rez or no?'
+[Sun Jul 01 20:37:51 2001] You told Cabaz, 'only happens when you're in the range of friendly city NPCs.'
+[Sun Jul 01 20:37:58 2001] Espranza saved.
+[Sun Jul 01 20:38:14 2001] Celesra GMSAYS, 'Lirus, when you get a chance, please check up on a report on Benjr...'
+[Sun Jul 01 20:38:24 2001] DELETING THIS PETITION
+[Sun Jul 01 20:38:30 2001] You GMSAY, 'rezzed him.'
+[Sun Jul 01 20:38:31 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:38:35 2001] USER TEXT: Tell me you can help I  got poisoned  then I zone from dalnir to  WW  when I    got thru zoning I wasnt at zone border then I DIED  all in a matter of 2 secs after I zonesd
+[Sun Jul 01 20:38:35 2001] Players in EverQuest:
+[Sun Jul 01 20:38:35 2001] ---------------------------
+[Sun Jul 01 20:38:35 2001] [31 Magician] Jherek (Erudite) <Clan of Morning Star> ZONE: warslikswood (USER PID CT2DH9L)
+[Sun Jul 01 20:38:35 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:38:42 2001] Cabaz tells you, 'sowhen i stod in front of him last night and nuked my friend y did he not attack me them ?'
+[Sun Jul 01 20:38:46 2001] Searching zones for corpse of that name....
+[Sun Jul 01 20:38:47 2001] Corpse: Jherek's corpse0 in zone: frontiermtns
+[Sun Jul 01 20:38:48 2001] Corpse: Jherek's corpse0 in zone: warslikswood
+[Sun Jul 01 20:38:52 2001] Cheechy shouts, 'any one   have bridge loc?'
+[Sun Jul 01 20:38:56 2001] You told Cabaz, 'I don't know'
+[Sun Jul 01 20:39:01 2001] Ainabre tells you, 'Thank you.'
+[Sun Jul 01 20:39:01 2001] You GMSAY, 'zone'
+[Sun Jul 01 20:39:06 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 20:39:42 2001] You have entered Warsliks Woods.
+[Sun Jul 01 20:39:42 2001] You have formed the group.
+[Sun Jul 01 20:39:53 2001] You told Ainabre, 'anytime! be well.'
+[Sun Jul 01 20:39:59 2001] Teleporting to jherek's corpse0.
+[Sun Jul 01 20:40:01 2001] Lirus GMSAYS, 'did you still need that /report checked?'
+[Sun Jul 01 20:40:05 2001] Celesra GMSAYS, 'yep'
+[Sun Jul 01 20:40:09 2001] Dreadfare says, 'Hail, Espranza'
+[Sun Jul 01 20:40:18 2001] Larsot tells the group, 'he is looking at /reports and other things also'
+[Sun Jul 01 20:40:27 2001] Celesra tells the group, 'yah I know I was joking =)'
+[Sun Jul 01 20:40:33 2001] Lirus GMSAYS, 'person who petitioned did not capture the report correctly'
+[Sun Jul 01 20:40:42 2001] Larsot tells the group, 'but it is indeed kinda unsettleing when he doesn't answer   :P'
+[Sun Jul 01 20:40:42 2001] Celesra GMSAYS, 'ha, go figure'
+[Sun Jul 01 20:41:28 2001] Celesra GMSAYS, 'supposed to be a report on someone being teleported to the wrong place, the then teleporter is supposed to ask for money and refuse to teleport him back unless he pays..what should I do with it?'
+[Sun Jul 01 20:41:49 2001] Lirus GMSAYS, 'tell them that they did not capture the report properly and to try to get another if they can'
+[Sun Jul 01 20:41:55 2001] Celesra GMSAYS, 'will do'
+[Sun Jul 01 20:42:07 2001] Cabaz tells you, 'you there?'
+[Sun Jul 01 20:42:08 2001] You were hit by non-melee for 423 dmg.
+[Sun Jul 01 20:42:08 2001] YOU were injured by falling.
+[Sun Jul 01 20:42:22 2001] You told Cabaz, 'sorry, was working on another petition'
+[Sun Jul 01 20:42:30 2001] You told Cabaz, 'was there more? I can't rez for this.'
+[Sun Jul 01 20:42:37 2001] You have become better at Swimming! (107)
+[Sun Jul 01 20:42:44 2001] Teleporting to Jherek's corpse0 (3779.00, 3206.00, -181.00).
+[Sun Jul 01 20:42:50 2001] Cabaz tells you, 'well can u get me to some 1 i can  talk to for this'
+[Sun Jul 01 20:43:31 2001] You told Cabaz, 'I'm the person to talk to... And I can't rez for this. Sounds like the guards were just doing what they do.'
+[Sun Jul 01 20:43:32 2001] Larsot GMSAYS, 'deleting pet on zone not loading issue'
+[Sun Jul 01 20:43:50 2001] Cabaz tells you, 'ok then this is what needs to happen'
+[Sun Jul 01 20:43:50 2001] Celesra GMSAYS, 'LOL, he thought the report showed you everything that had been done in the last 10 minutes...lol'
+[Sun Jul 01 20:44:09 2001] Celesra GMSAYS, 'he should be getting the report in a second'
+[Sun Jul 01 20:44:12 2001] You told Jherek, 'Hail, Jherek! Guide Espranza here. Your corpse keeps wandering about... I'm afraid I am not able to determine if you were killed by a bug or not.'
+[Sun Jul 01 20:44:13 2001] Larsot GMSAYS, 'i cant believe all the people who have not loaded all the worlds and dont know where to delete files at  :P\'
+[Sun Jul 01 20:44:25 2001] DELETING THIS PETITION
+[Sun Jul 01 20:44:26 2001] Cabaz tells you, 'u need to let every 1 know  how this happens and why'
+[Sun Jul 01 20:44:26 2001] Jherek tells you, 'I am at my corpse actualy '
+[Sun Jul 01 20:44:32 2001] Kakrak shouts, 'anyone know loc to ot entrance?'
+[Sun Jul 01 20:44:36 2001] Larsot GMSAYS, 'pulling Aggressa'
+[Sun Jul 01 20:44:42 2001] You told Jherek, 'yes, but it keeps getting dragged places'
+[Sun Jul 01 20:44:45 2001] Sanguinarya shouts, 'im goin there now ill tell when i get there'
+[Sun Jul 01 20:44:54 2001] Kakrak shouts, 'ok great'
+[Sun Jul 01 20:44:58 2001] Cabaz tells you, 'cuz this is very messed up that 1 time they will jump apersone then the next they wont'
+[Sun Jul 01 20:44:59 2001] You told Jherek, 'If it has been moved, I cannot do anything.'
+[Sun Jul 01 20:45:00 2001] Celesra GMSAYS, 'heh, the lines disappeared'
+[Sun Jul 01 20:45:09 2001] Kebshale tells you, 'find anything yet?'
+[Sun Jul 01 20:45:11 2001] Jherek tells you, 'Its ok I got my body and a rez thank you '
+[Sun Jul 01 20:45:19 2001] You told Cabaz, 'please use the /feedback or the /bug command, thanks.'
+[Sun Jul 01 20:45:23 2001] You told Jherek, 'okay, be well!'
+[Sun Jul 01 20:45:29 2001] Cabaz tells you, 'ok how do i do that?'
+[Sun Jul 01 20:45:35 2001] You told Kebshale, 'I've given your petition to the GM, it is in his hands now.'
+[Sun Jul 01 20:45:36 2001] Snaggs says out of character, 'roughly -1500, +4000 ot'
+[Sun Jul 01 20:45:57 2001] Larsot GMSAYS, 'check in Aggressa pet U/A 1'
+[Sun Jul 01 20:45:59 2001] You told Cabaz, '/feedback (slash in front of it) allows you to tell Verant what you'd like to tell them'
+[Sun Jul 01 20:46:14 2001] Celesra GMSAYS, 'he died at where he was teleported..we can't do anything for him, right?'
+[Sun Jul 01 20:46:15 2001] You told Cabaz, '/bug (slash in front of it) lets you fill out a bug report to be sent to the testers.'
+[Sun Jul 01 20:46:21 2001] Larsot GMSAYS, 'pulling Leoandra'
+[Sun Jul 01 20:46:29 2001] Lirus GMSAYS, 'nay unless he was killed by a bug'
+[Sun Jul 01 20:46:31 2001] You GMSAY, 'sorry, was on another pet.'
+[Sun Jul 01 20:46:31 2001] Cabaz tells you, 'ok thank you!'
+[Sun Jul 01 20:46:35 2001] You told Cabaz, 'be well!'
+[Sun Jul 01 20:46:37 2001] Celesra GMSAYS, 'no bug.'
+[Sun Jul 01 20:46:43 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:46:43 2001] Lirus GMSAYS, 'no res'
+[Sun Jul 01 20:46:44 2001] USER TEXT: Lately I've been having trouble seeing ppl's spells.  For example,  I was getting a TP and didnt even know he was casting it cause i didnt see his spell graphics.  I have /showspelleffects on, what could be the problem?
+[Sun Jul 01 20:46:44 2001] Players in EverQuest:
+[Sun Jul 01 20:46:44 2001] ---------------------------
+[Sun Jul 01 20:46:44 2001] [46 Necromancer] Iska (Iksar) <Unbroken Power> ZONE: qey2hh1 (USER PID HYT1UAQ)
+[Sun Jul 01 20:46:44 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:47:30 2001] Celesra GMSAYS, '/sigh people get so ticked off when we tell them no. Then again, sometimes it's funny too, in a way.'
+[Sun Jul 01 20:47:42 2001] Sanguinarya shouts, 'my loc is -233, 4030 at zone'
+[Sun Jul 01 20:47:46 2001] Kakrak shouts, 'ok'
+[Sun Jul 01 20:47:50 2001] You told Iska, 'Hail, Iska! Guide Espranza here. Check your display options, you may have your particle density turned off.'
+[Sun Jul 01 20:48:07 2001] Celesra GMSAYS, 'deleting Morulak's petition'
+[Sun Jul 01 20:48:16 2001] Tichinde shouts, 'any dalnir grps need a 26 war'
+[Sun Jul 01 20:48:23 2001] Celesra GMSAYS, 'pulling Iannyil'
+[Sun Jul 01 20:48:26 2001] Iska tells you, 'i have it on high'
+[Sun Jul 01 20:48:52 2001] You told Iska, 'do you have serverfilter off?'
+[Sun Jul 01 20:49:15 2001] Celesra tells the group, 'err, what do I do with this petition? This is sad a ranger with his epic can't out taunt my 54 water pet'
+[Sun Jul 01 20:49:20 2001] Iska tells you, 'yes'
+[Sun Jul 01 20:49:29 2001] Iska tells you, 'should i have it on'
+[Sun Jul 01 20:49:41 2001] You told Iska, 'I don't know, was just wondering'
+[Sun Jul 01 20:49:45 2001] Iska tells you, 'hehe'
+[Sun Jul 01 20:49:46 2001] Larsot tells the group, 'rangers dont have a good taunt, pets do cause they easier to hit'
+[Sun Jul 01 20:49:48 2001] Espranza saved.
+[Sun Jul 01 20:49:56 2001] You tell your party, 'pet aggro was changed last patch'
+[Sun Jul 01 20:50:03 2001] Celesra tells the group, 'ohhh'
+[Sun Jul 01 20:50:05 2001] Larsot tells the group, 'mobs will now attack what they can hit'
+[Sun Jul 01 20:50:29 2001] You told Iska, 'do you see your own spells?'
+[Sun Jul 01 20:50:41 2001] You told Iska, 'do you have PC spells turned on in the chat filter?'
+[Sun Jul 01 20:50:44 2001] Larsot GMSAYS, 'deleting pet on CoM pathing problems'
+[Sun Jul 01 20:50:47 2001] Iska tells you, 'let me try one real quick'
+[Sun Jul 01 20:51:09 2001] Celesra tells the group, 'I think the agro changes are really stupid..'
+[Sun Jul 01 20:51:20 2001] Celesra tells the group, 'but I'm not the only one. =)'
+[Sun Jul 01 20:51:33 2001] Players on EverQuest:
+[Sun Jul 01 20:51:33 2001] ---------------------------
+[Sun Jul 01 20:51:33 2001] [33 Monk] Moparian (Iksar) <Relic Hunters>
+[Sun Jul 01 20:51:33 2001] [26 Warrior] Tichinde (Barbarian) <Kingdom of Steel>
+[Sun Jul 01 20:51:33 2001] [ANONYMOUS] Tanbill 
+[Sun Jul 01 20:51:33 2001] [23 Shadow Knight] Brilael (Dark Elf)
+[Sun Jul 01 20:51:33 2001] [26 Cleric] Emeraldhaven (Dwarf) <United Guardians>
+[Sun Jul 01 20:51:33 2001] [25 Warrior] Kobak (Ogre)
+[Sun Jul 01 20:51:33 2001] [ANONYMOUS] Sophea  <Coven of the Blood Rose>
+[Sun Jul 01 20:51:33 2001] [31 Magician] Jherek (Erudite) <Clan of Morning Star>
+[Sun Jul 01 20:51:33 2001] [ANONYMOUS] Auidin 
+[Sun Jul 01 20:51:33 2001] [49 Necromancer] Sosoca (Erudite) <Happy Funtime Elves>
+[Sun Jul 01 20:51:33 2001] [22 Monk] Arki (Iksar) <Seekers of the Path>
+[Sun Jul 01 20:51:33 2001] [ANONYMOUS] Keudivenipo 
+[Sun Jul 01 20:51:33 2001] [35 Paladin] Warrpond (High Elf)
+[Sun Jul 01 20:51:33 2001] [ANONYMOUS] Herrina  <Relic Hunters>
+[Sun Jul 01 20:51:33 2001] [33 Shadow Knight] Snaggs (Iksar) <Elysian Heros>
+[Sun Jul 01 20:51:33 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sun Jul 01 20:51:33 2001] There are 16 players in Warsliks Wood.
+[Sun Jul 01 20:51:34 2001] Iska tells you, 'yep, there was the problem, i overlooked that.  THank you very much for your help:)'
+[Sun Jul 01 20:51:38 2001] Larsot tells the group, 'CoM really bad on ghosting and pathing though'
+[Sun Jul 01 20:51:43 2001] You told Iska, 'okay! be well!'
+[Sun Jul 01 20:51:46 2001] You tell your party, 'oh yeah'
+[Sun Jul 01 20:51:49 2001] DELETING THIS PETITION
+[Sun Jul 01 20:51:58 2001] You tell your party, 'lucky I got my jade reaver, no need to return'
+[Sun Jul 01 20:52:12 2001] You tell your party, 'now if I can just stop the guber guilds from getting to VSR before I can get my guild togteher'
+[Sun Jul 01 20:52:30 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:52:31 2001] USER TEXT: I just got to level 24 druid and used my ring of commons to get on my way to getting my new spells. As i arrived at WC I fell big time and died Ive never had that happen before How come
+[Sun Jul 01 20:52:31 2001] Players in EverQuest:
+[Sun Jul 01 20:52:31 2001] ---------------------------
+[Sun Jul 01 20:52:31 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 01 20:52:41 2001] Searching zones for corpse of that name....
+[Sun Jul 01 20:52:41 2001] Corpse: Aggressa's corpse0 in zone: commons
+[Sun Jul 01 20:52:50 2001] You GMSAY, 'zone'
+[Sun Jul 01 20:52:54 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 20:53:19 2001] You have entered West Commonlands.
+[Sun Jul 01 20:53:20 2001] You have formed the group.
+[Sun Jul 01 20:53:30 2001] Teleporting to aggressa's corpse0.
+[Sun Jul 01 20:53:38 2001] You lower your head and mourn the loss of Aggressa.
+[Sun Jul 01 20:53:39 2001] Laurall waves at Espranza.
+[Sun Jul 01 20:53:42 2001] Players in EverQuest:
+[Sun Jul 01 20:53:42 2001] ---------------------------
+[Sun Jul 01 20:53:42 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 01 20:54:02 2001] You GMSAY, 'aggressa unavail 3 ****flush****'
+[Sun Jul 01 20:54:06 2001] You wave at Wikkiwikwik.
+[Sun Jul 01 20:54:09 2001] DELETING THIS PETITION
+[Sun Jul 01 20:54:09 2001] Bloodbear begins to cast a spell. (Spirit of Wolf)
+[Sun Jul 01 20:54:14 2001] You say, 'Hiya!'
+[Sun Jul 01 20:54:25 2001] Bick begins to cast a spell. (Healing)
+[Sun Jul 01 20:54:26 2001] Wikkiwikwik tells you, 'turn me into something -/'
+[Sun Jul 01 20:54:34 2001] Players on EverQuest:
+[Sun Jul 01 20:54:34 2001] ---------------------------
+[Sun Jul 01 20:54:34 2001] [35 Bard] Terlino (Half Elf)
+[Sun Jul 01 20:54:34 2001] [9 Cleric] Msytra (Dark Elf)
+[Sun Jul 01 20:54:34 2001] [35 Cleric] Lynel (High Elf) <Travelers in Mist>
+[Sun Jul 01 20:54:34 2001] [12 Paladin] Eunhasu (High Elf)
+[Sun Jul 01 20:54:34 2001] [49 Enchanter] Goldenwind (High Elf) <Azure Blades>
+[Sun Jul 01 20:54:34 2001] [56 Master] Draiguisge (Iksar)
+[Sun Jul 01 20:54:34 2001] [51 Wanderer] Laurall (Wood Elf) <Enchanted Steel>
+[Sun Jul 01 20:54:34 2001] [35 Paladin] Bick (Dwarf)
+[Sun Jul 01 20:54:34 2001] [19 Druid] Treessa (Wood Elf)
+[Sun Jul 01 20:54:34 2001] [ANONYMOUS] Verdox 
+[Sun Jul 01 20:54:34 2001] [50 Warrior] Wikkiwikwik (Half Elf) <Fallen Gods> LFG
+[Sun Jul 01 20:54:34 2001] [40 Warrior] Mandarr (Barbarian) <Der Einherjar>
+[Sun Jul 01 20:54:34 2001] [20 Magician] Faethar (Erudite) <Utopian Guard>
+[Sun Jul 01 20:54:34 2001] [11 Enchanter] Mlaan (Half Elf)
+[Sun Jul 01 20:54:34 2001] [21 Druid] Autius (Human) <Legacy of Pain>
+[Sun Jul 01 20:54:34 2001] [24 Paladin] Sanandar (Human) <Legacy of Pain>
+[Sun Jul 01 20:54:35 2001] [20 Shaman] Hinelce (Barbarian) <Der Einherjar>
+[Sun Jul 01 20:54:35 2001] [12 Monk] Gamdir (Human)
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Tukaram 
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Ampheres 
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Qyxx 
+[Sun Jul 01 20:54:35 2001] [54 Champion] Anarksis (Wood Elf)
+[Sun Jul 01 20:54:35 2001] [52 Mystic] Kandaora (Barbarian)
+[Sun Jul 01 20:54:35 2001] [19 Wizard] Izilrim (Dark Elf) <Sword of Shadow>
+[Sun Jul 01 20:54:35 2001] [45 Warrior] Dolaldor (Human) <United Guardians>
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Coldorel  <Utopian Guard>
+[Sun Jul 01 20:54:35 2001] [14 Ranger] Druinn (Wood Elf) <Guardians of Truth>
+[Sun Jul 01 20:54:35 2001] [11 Shadow Knight] Makmaul (Troll)
+[Sun Jul 01 20:54:35 2001] [57 Evoker] Calidore (Dark Elf) <Thunderwalkers> LFG
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Sunbringer 
+[Sun Jul 01 20:54:35 2001] [12 Wizard] Papaace (Human)
+[Sun Jul 01 20:54:35 2001] [42 Necromancer] Bloodcloud (Dark Elf) <Restless Virtues>
+[Sun Jul 01 20:54:35 2001] [15 Warrior] Sonodan (Human)
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Jencookie 
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Kenadwen 
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Aludair  <Leaders of Honor>
+[Sun Jul 01 20:54:35 2001] [8 Rogue] Discern (Unknown)
+[Sun Jul 01 20:54:35 2001] [35 Druid] Naas (Halfling) <United Guardians>
+[Sun Jul 01 20:54:35 2001] [15 Paladin] Darkmonth (Human)
+[Sun Jul 01 20:54:35 2001] [15 Warrior] Collynp (Halfling)
+[Sun Jul 01 20:54:35 2001] [56 Troubadour] Ridley (Half Elf) <Triune> LFG
+[Sun Jul 01 20:54:35 2001] [11 Warrior] Ciktin (Gnome)
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Dagerr 
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Thryx 
+[Sun Jul 01 20:54:35 2001] [12 Paladin] Noresman (Human)
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Kenwind  <Nature's Fury>
+[Sun Jul 01 20:54:35 2001] [33 Magician] Mistriss (Erudite) <Crimson Mist>
+[Sun Jul 01 20:54:35 2001] [11 Wizard] Yurisangja (High Elf)
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Bloodbear  <Hall of Heroes>
+[Sun Jul 01 20:54:35 2001] [24 Rogue] Solanthas (Wood Elf)
+[Sun Jul 01 20:54:35 2001] [ANONYMOUS] Jiriki 
+[Sun Jul 01 20:54:35 2001] [30 Wizard] Quilan (High Elf)
+[Sun Jul 01 20:54:35 2001] [33 Ranger] Takarr (Wood Elf)
+[Sun Jul 01 20:54:35 2001] [12 Wizard] Adamm (Erudite) <Clan Silvermoon>
+[Sun Jul 01 20:54:35 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sun Jul 01 20:54:35 2001] There are 55 players in West Commonlands.
+[Sun Jul 01 20:54:36 2001] Players on EverQuest:
+[Sun Jul 01 20:54:36 2001] ---------------------------
+[Sun Jul 01 20:54:36 2001] [35 Bard] Terlino (Half Elf)
+[Sun Jul 01 20:54:36 2001] [9 Cleric] Msytra (Dark Elf)
+[Sun Jul 01 20:54:36 2001] [35 Cleric] Lynel (High Elf) <Travelers in Mist>
+[Sun Jul 01 20:54:36 2001] [12 Paladin] Eunhasu (High Elf)
+[Sun Jul 01 20:54:36 2001] [49 Enchanter] Goldenwind (High Elf) <Azure Blades>
+[Sun Jul 01 20:54:36 2001] [56 Master] Draiguisge (Iksar)
+[Sun Jul 01 20:54:36 2001] [51 Wanderer] Laurall (Wood Elf) <Enchanted Steel>
+[Sun Jul 01 20:54:36 2001] [35 Paladin] Bick (Dwarf)
+[Sun Jul 01 20:54:36 2001] [19 Druid] Treessa (Wood Elf)
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Verdox 
+[Sun Jul 01 20:54:36 2001] [50 Warrior] Wikkiwikwik (Half Elf) <Fallen Gods> LFG
+[Sun Jul 01 20:54:36 2001] [40 Warrior] Mandarr (Barbarian) <Der Einherjar>
+[Sun Jul 01 20:54:36 2001] [20 Magician] Faethar (Erudite) <Utopian Guard>
+[Sun Jul 01 20:54:36 2001] [11 Enchanter] Mlaan (Half Elf)
+[Sun Jul 01 20:54:36 2001] [21 Druid] Autius (Human) <Legacy of Pain>
+[Sun Jul 01 20:54:36 2001] [24 Paladin] Sanandar (Human) <Legacy of Pain>
+[Sun Jul 01 20:54:36 2001] [20 Shaman] Hinelce (Barbarian) <Der Einherjar>
+[Sun Jul 01 20:54:36 2001] [12 Monk] Gamdir (Human)
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Tukaram 
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Ampheres 
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Qyxx 
+[Sun Jul 01 20:54:36 2001] [54 Champion] Anarksis (Wood Elf)
+[Sun Jul 01 20:54:36 2001] [52 Mystic] Kandaora (Barbarian)
+[Sun Jul 01 20:54:36 2001] [19 Wizard] Izilrim (Dark Elf) <Sword of Shadow>
+[Sun Jul 01 20:54:36 2001] [45 Warrior] Dolaldor (Human) <United Guardians>
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Coldorel  <Utopian Guard>
+[Sun Jul 01 20:54:36 2001] [14 Ranger] Druinn (Wood Elf) <Guardians of Truth>
+[Sun Jul 01 20:54:36 2001] [11 Shadow Knight] Makmaul (Troll)
+[Sun Jul 01 20:54:36 2001] [57 Evoker] Calidore (Dark Elf) <Thunderwalkers> LFG
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Sunbringer 
+[Sun Jul 01 20:54:36 2001] [12 Wizard] Papaace (Human)
+[Sun Jul 01 20:54:36 2001] [42 Necromancer] Bloodcloud (Dark Elf) <Restless Virtues>
+[Sun Jul 01 20:54:36 2001] [15 Warrior] Sonodan (Human)
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Jencookie 
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Kenadwen 
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Aludair  <Leaders of Honor>
+[Sun Jul 01 20:54:36 2001] [8 Rogue] Discern (Unknown)
+[Sun Jul 01 20:54:36 2001] [35 Druid] Naas (Halfling) <United Guardians>
+[Sun Jul 01 20:54:36 2001] [15 Paladin] Darkmonth (Human)
+[Sun Jul 01 20:54:36 2001] [15 Warrior] Collynp (Halfling)
+[Sun Jul 01 20:54:36 2001] [56 Troubadour] Ridley (Half Elf) <Triune> LFG
+[Sun Jul 01 20:54:36 2001] [11 Warrior] Ciktin (Gnome)
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Dagerr 
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Thryx 
+[Sun Jul 01 20:54:36 2001] [12 Paladin] Noresman (Human)
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Kenwind  <Nature's Fury>
+[Sun Jul 01 20:54:36 2001] [33 Magician] Mistriss (Erudite) <Crimson Mist>
+[Sun Jul 01 20:54:36 2001] [11 Wizard] Yurisangja (High Elf)
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Bloodbear  <Hall of Heroes>
+[Sun Jul 01 20:54:36 2001] [24 Rogue] Solanthas (Wood Elf)
+[Sun Jul 01 20:54:36 2001] [ANONYMOUS] Jiriki 
+[Sun Jul 01 20:54:36 2001] [30 Wizard] Quilan (High Elf)
+[Sun Jul 01 20:54:36 2001] [33 Ranger] Takarr (Wood Elf)
+[Sun Jul 01 20:54:36 2001] [12 Wizard] Adamm (Erudite) <Clan Silvermoon>
+[Sun Jul 01 20:54:36 2001] * GM * [52 Rake] Espranza (Halfling) <Keepers of Morell Thule>
+[Sun Jul 01 20:54:36 2001] There are 55 players in West Commonlands.
+[Sun Jul 01 20:54:38 2001] You told Wikkiwikwik, 'hah!'
+[Sun Jul 01 20:54:46 2001] Wikkiwikwik tells you, 'Moss snake would be cool -/'
+[Sun Jul 01 20:54:48 2001] You told Wikkiwikwik, 'being a half elf isn't bad enough?'
+[Sun Jul 01 20:54:52 2001] Wikkiwikwik tells you, 'BAH'
+[Sun Jul 01 20:55:03 2001] Larsot tells the group, 'there is a guy stuck between two barrels in HH pass, is there anything we can do or just tell him to seek player help?'
+[Sun Jul 01 20:55:09 2001] You tell your party, 'we can help'
+[Sun Jul 01 20:55:09 2001] Wikkiwikwik tells you, 'Super SOW?'
+[Sun Jul 01 20:55:10 2001] You tell your party, 'esc it'
+[Sun Jul 01 20:55:13 2001] Larsot tells the group, 'ok'
+[Sun Jul 01 20:55:16 2001] You told Wikkiwikwik, 'be a bard'
+[Sun Jul 01 20:55:25 2001] Celesra tells the group, '/laugh'
+[Sun Jul 01 20:55:26 2001] Wikkiwikwik tells you, 'You got super sow dang....'
+[Sun Jul 01 20:55:33 2001] You told Wikkiwikwik, 'okay, be a guide :)'
+[Sun Jul 01 20:55:37 2001] Wikkiwikwik tells you, 'lol'
+[Sun Jul 01 20:55:39 2001] You feel the spirit of Norrath enter you.
+[Sun Jul 01 20:55:40 2001] Your feet leave the ground.
+[Sun Jul 01 20:55:41 2001] Larsot tells the group, 'i thought clerics had gate?????'
+[Sun Jul 01 20:55:47 2001] Celesra tells the group, 'they do.'
+[Sun Jul 01 20:55:56 2001] You tell your party, 'maybe he doesn't want to walk back from FV'
+[Sun Jul 01 20:56:01 2001] You tell your party, 'we can get him out'
+[Sun Jul 01 20:56:04 2001] Jencookie shouts, 'Leaving Orc camp now, its open'
+[Sun Jul 01 20:56:06 2001] Larsot tells the group, 'ok, great'
+[Sun Jul 01 20:56:13 2001] Aludair shouts, 'which one?'
+[Sun Jul 01 20:56:15 2001] Sunbringer says out of character, 'LFG to hunt dark elves with.'
+[Sun Jul 01 20:56:36 2001] Makmaul shouts, '11 SK LFG'
+[Sun Jul 01 20:56:45 2001] Verdox says out of character, 'one close to kit'
+[Sun Jul 01 20:56:48 2001] Celesra GMSAYS, 'Lirus, are you really busy at the moment? I have to ask you a question'
+[Sun Jul 01 20:56:57 2001] Larsot GMSAYS, 'escalated stuck in barrel pet   :D'
+[Sun Jul 01 20:57:01 2001] Lirus GMSAYS, 'ask away'
+[Sun Jul 01 20:57:02 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 20:57:02 2001] USER TEXT: i dunno how but im stuck inbetween two barrows >.< need a summon out = (
+[Sun Jul 01 20:57:02 2001] Players in EverQuest:
+[Sun Jul 01 20:57:02 2001] ---------------------------
+[Sun Jul 01 20:57:02 2001] [ANON (21 Cleric)] Snapawx (Halfling) ZONE: highpass (USER PID FXD077B)
+[Sun Jul 01 20:57:02 2001] There is 1 player in EverQuest.
+[Sun Jul 01 20:57:07 2001] You GMSAY, 'zone'
+[Sun Jul 01 20:57:08 2001] Lirus GMSAYS, 'i will do my best to answer'
+[Sun Jul 01 20:57:10 2001] Teleporting to snapawx.
+[Sun Jul 01 20:57:11 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 20:57:36 2001] You have entered Highpass Hold.
+[Sun Jul 01 20:57:36 2001] You have formed the group.
+[Sun Jul 01 20:57:37 2001] Snapawx yells for help from straight ahead of you.
+[Sun Jul 01 20:57:39 2001] Snapawx yells for help from off to the left of you.
+[Sun Jul 01 20:57:41 2001] Snapawx yells for help from straight ahead of you.
+[Sun Jul 01 20:57:48 2001] Snapawx trys to push his way out of the barrles.
+[Sun Jul 01 20:57:49 2001] Snapawx yells for help from straight ahead of you.
+[Sun Jul 01 20:57:50 2001] Summoning Snapawx.
+[Sun Jul 01 20:57:58 2001] Snapawx says, 'woot'
+[Sun Jul 01 20:58:01 2001] DELETING THIS PETITION
+[Sun Jul 01 20:58:03 2001] You beam a smile at Snapawx.
+[Sun Jul 01 20:58:03 2001] Snapawx says, 'super halfling!'
+[Sun Jul 01 20:58:07 2001] You cheer at Snapawx.
+[Sun Jul 01 20:58:07 2001] Snapawx cheers.
+[Sun Jul 01 20:58:12 2001] Snapawx thanks Espranza heartily.
+[Sun Jul 01 20:58:15 2001] Snapawx says, 'thank you'
+[Sun Jul 01 20:58:19 2001] You say, 'anytime'
+[Sun Jul 01 20:58:19 2001] Celesra GMSAYS, 'This player wants to know if the pet agro system was changed in the last patch, and she won't believe me, because some GM posted something on caster's realm. She wants to know why her level 54 water pet is taunting better than a ranger with his epic..'
+[Sun Jul 01 20:58:21 2001] You're not scaring anyone.
+[Sun Jul 01 20:58:23 2001] Snapawx raises an eyebrow at Espranza.
+[Sun Jul 01 20:58:27 2001] Snapawx begins to cast a spell. (Flash of Light)
+[Sun Jul 01 20:58:28 2001] Snapawx is blinded by a flash of light.
+[Sun Jul 01 20:58:31 2001] Celesra GMSAYS, 'and she won't take an answer from anyone but you..heh'
+[Sun Jul 01 20:58:31 2001] Snapawx giggles.
+[Sun Jul 01 20:58:36 2001] Larsot GMSAYS, 'did anyone take care of neegromancer or did he just log out?'
+[Sun Jul 01 20:58:42 2001] Players in EverQuest:
+[Sun Jul 01 20:58:42 2001] ---------------------------
+[Sun Jul 01 20:58:42 2001] There are no players in EverQuest that match those who filters.
+[Sun Jul 01 20:58:44 2001] Lirus GMSAYS, 'cause the pet is doing more damage'
+[Sun Jul 01 20:58:48 2001] Snapawx is now Invisible.
+[Sun Jul 01 20:58:48 2001] Snapawx is now anonymous.
+[Sun Jul 01 20:58:53 2001] Espranza is now Invisible.
+[Sun Jul 01 20:58:53 2001] You are now anonymous.
+[Sun Jul 01 20:58:55 2001] Snapawx says, 'make this guy spawn lol'
+[Sun Jul 01 20:58:56 2001] Snapawx points straight ahead.
+[Sun Jul 01 20:59:01 2001] Espranza is now Visible.
+[Sun Jul 01 20:59:03 2001] You are no longer anonymous.
+[Sun Jul 01 20:59:06 2001] You say, 'what guy'
+[Sun Jul 01 20:59:10 2001] Snapawx says, 'heh'
+[Sun Jul 01 20:59:13 2001] Snapawx says, 'guy who spanws there'
+[Sun Jul 01 20:59:16 2001] Snapawx points straight ahead.
+[Sun Jul 01 20:59:18 2001] Celesra GMSAYS, 'tell her that please, she is being a real @#$and won't believe me. Name is Iannyil...'
+[Sun Jul 01 20:59:19 2001] You say, 'Dyllan?'
+[Sun Jul 01 20:59:22 2001] Snapawx says, 'ya'
+[Sun Jul 01 20:59:26 2001] Lirus GMSAYS, 'esc it up'
+[Sun Jul 01 20:59:29 2001] You say, 'good luck'
+[Sun Jul 01 20:59:29 2001] Celesra GMSAYS, 'ok.'
+[Sun Jul 01 20:59:33 2001] Snapawx says, 'ha.. lol bye'
+[Sun Jul 01 20:59:35 2001] You giggle at Snapawx.
+[Sun Jul 01 20:59:35 2001] Snapawx waves goodbye to Espranza.
+[Sun Jul 01 20:59:36 2001] You wave goodbye to Snapawx.
+[Sun Jul 01 20:59:39 2001] You GMSAY, 'zone'
+[Sun Jul 01 20:59:39 2001] Snapawx beams a smile at Espranza.
+[Sun Jul 01 20:59:41 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 21:00:08 2001] You have entered Sunset Home.
+[Sun Jul 01 21:00:08 2001] You have formed the group.
+[Sun Jul 01 21:00:17 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 21:00:17 2001] USER TEXT: i would like to get married
+[Sun Jul 01 21:00:17 2001] Players in EverQuest:
+[Sun Jul 01 21:00:17 2001] ---------------------------
+[Sun Jul 01 21:00:17 2001] [14 Warrior] Zaaz (Half Elf) <Guardians of Dragons> ZONE: felwithea (USER PID DYCTRJT)
+[Sun Jul 01 21:00:17 2001] There is 1 player in EverQuest.
+[Sun Jul 01 21:00:46 2001] You GMSAY, 'good work on the queue, guys!'
+[Sun Jul 01 21:00:51 2001] Celesra GMSAYS, 'grr'
+[Sun Jul 01 21:00:55 2001] Celesra GMSAYS, 'stupid player'
+[Sun Jul 01 21:01:06 2001] Celesra GMSAYS, 'hate it that you can't backfire on them../sigh'
+[Sun Jul 01 21:01:36 2001] You tell your party, 'okay, let's do some Q&A'
+[Sun Jul 01 21:01:40 2001] Celesra GMSAYS, 'Ugh....'
+[Sun Jul 01 21:01:54 2001] Celesra GMSAYS, 'I gotta log, I can't take this moron anymore..'
+[Sun Jul 01 21:02:00 2001] You tell your party, 'who?'
+[Sun Jul 01 21:02:04 2001] Celesra tells the group, 'Iannyil'
+[Sun Jul 01 21:02:11 2001] Celesra tells the group, 'she is being a real jackas'
+[Sun Jul 01 21:02:18 2001] Celesra tells the group, 'jerk..'
+[Sun Jul 01 21:02:20 2001] Lirus GMSAYS, 'Just tell him that you need to adress other petitioners and I will be with him shortly'
+[Sun Jul 01 21:02:22 2001] You tell your party, 'GM has it, just tell them to talk to the GM when she gets in touch'
+[Sun Jul 01 21:02:27 2001] Celesra has left the group.
+[Sun Jul 01 21:02:28 2001] Aryante GMSAYS, 'Good morning friends'
+[Sun Jul 01 21:02:33 2001] Larsot GMSAYS, 'hiya'
+[Sun Jul 01 21:02:34 2001] You GMSAY, 'hi Aryante!'
+[Sun Jul 01 21:02:35 2001] Lirus GMSAYS, 'morning'
+[Sun Jul 01 21:02:38 2001] You GMSAY, 'zone'
+[Sun Jul 01 21:02:43 2001] Teleporting to Aryante.
+[Sun Jul 01 21:02:44 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 21:03:15 2001] You have entered Dreadlands.
+[Sun Jul 01 21:03:15 2001] You have formed the group.
+[Sun Jul 01 21:03:21 2001] You invite Aryante to join your group.
+[Sun Jul 01 21:03:25 2001] Aryante has joined the group.
+[Sun Jul 01 21:03:30 2001] Players in EverQuest:
+[Sun Jul 01 21:03:30 2001] ---------------------------
+[Sun Jul 01 21:03:30 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: dreadlands (USER PID AUGBQH4)
+[Sun Jul 01 21:03:30 2001] * Apprentice Guide *[20 Cleric] Aryante (High Elf) ZONE: dreadlands (USER PID ASDA8MU)
+[Sun Jul 01 21:03:30 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: eastkarana (USER PID CW1ECN5)
+[Sun Jul 01 21:03:30 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: freportn (USER PID FS6MRL2)
+[Sun Jul 01 21:03:30 2001] * Apprentice Guide *[20 Magician] Celesra (High Elf) ZONE: frontiermtns (USER PID GX2YWXV)
+[Sun Jul 01 21:03:30 2001] There are 5 players in EverQuest.
+[Sun Jul 01 21:03:41 2001] You GMSAY, 'why did you disband, Celesra?'
+[Sun Jul 01 21:03:44 2001] Celesra GMSAYS, 'she is telling me that 'you should really try and go to castersrealm and read the patch messages, it might help you understand what is going on in a game your going to be guiding in...'
+[Sun Jul 01 21:03:52 2001] Celesra GMSAYS, 'did it by accident'
+[Sun Jul 01 21:03:58 2001] Ishandra says out of character, 'We'll take that Bard... for 2 pp and a couple of batwings'
+[Sun Jul 01 21:03:58 2001] You GMSAY, 'heh okay'
+[Sun Jul 01 21:04:01 2001] Celesra GMSAYS, 'meant to hit the camp button'
+[Sun Jul 01 21:04:05 2001] Celesra GMSAYS, 'don't worry'
+[Sun Jul 01 21:04:08 2001] You GMSAY, 'are you camping then?'
+[Sun Jul 01 21:04:10 2001] Celesra GMSAYS, 'I gotta go anyway'
+[Sun Jul 01 21:04:12 2001] Celesra GMSAYS, 'soon'
+[Sun Jul 01 21:04:14 2001] You GMSAY, 'okay, later!'
+[Sun Jul 01 21:04:15 2001] Sentow says out of character, 'DANG!  No batwings...'
+[Sun Jul 01 21:04:15 2001] Lirus GMSAYS, 'ok'
+[Sun Jul 01 21:04:17 2001] Kailypso says out of character, 'be lucky to have a bard '
+[Sun Jul 01 21:04:31 2001] Celesra GMSAYS, 'I'm cooling off a bit...'
+[Sun Jul 01 21:04:37 2001] Blux shouts, 'need rez will donate 50 or 90end tell'
+[Sun Jul 01 21:04:38 2001] Aryante tells the group, 'good morning :)'
+[Sun Jul 01 21:04:41 2001] Lirus GMSAYS, 'take it easy'
+[Sun Jul 01 21:04:49 2001] UNDOING CHECK OUT
+[Sun Jul 01 21:04:50 2001] Celesra GMSAYS, 'I know. I'm not saying anything.'
+[Sun Jul 01 21:04:53 2001] Xebariz shouts, 'lvl 45 monk LFG'
+[Sun Jul 01 21:05:06 2001] Celesra GMSAYS, 'just ticks me off a bit people have the nerve to say that kind of crap..'
+[Sun Jul 01 21:05:22 2001] You GMSAY, 'something you have to deal with.'
+[Sun Jul 01 21:05:25 2001] Larsot GMSAYS, 'pulling Extensive'
+[Sun Jul 01 21:05:27 2001] You GMSAY, 'don't let it get to you'
+[Sun Jul 01 21:05:34 2001] Celesra GMSAYS, '/nods. I won't.'
+[Sun Jul 01 21:05:35 2001] Lirus GMSAYS, '*nod*'
+[Sun Jul 01 21:05:50 2001] Xebariz shouts, 'lvl 45 monk LFG'
+[Sun Jul 01 21:06:00 2001] Xebariz shouts, 'COME ON, i NEED XP TO DING 46!!!'
+[Sun Jul 01 21:06:05 2001] Woof shouts, '41 pally LFG'
+[Sun Jul 01 21:06:12 2001] You can no longer levitate.
+[Sun Jul 01 21:06:19 2001] Celesra GMSAYS, 'anyway, I'm logging everyone. Have a good night, or morning, wherever you are. =)'
+[Sun Jul 01 21:06:19 2001] Kolasie says out of character, 'looking for port or tl to WC please =)'
+[Sun Jul 01 21:06:23 2001] You GMSAY, 'night!'
+[Sun Jul 01 21:06:30 2001] Celesra GMSAYS, 'good night.'
+[Sun Jul 01 21:06:38 2001] Aryante GMSAYS, 'good night Celesra'
+[Sun Jul 01 21:06:42 2001] Woof shouts, '41 pally LFG'
+[Sun Jul 01 21:06:48 2001] Celesra GMSAYS, 'bye.'
+[Sun Jul 01 21:06:52 2001] Celesra GMSAYS, 'poof!'
+[Sun Jul 01 21:07:30 2001] Woof shouts, '41 pally LFG'
+[Sun Jul 01 21:08:08 2001] Larsot tells the group, 'can we do anything for people getting booted off the boat toi Kunark?'
+[Sun Jul 01 21:08:14 2001] You tell your party, 'wow, I have incredible trade skills'
+[Sun Jul 01 21:08:22 2001] You tell your party, 'sure'
+[Sun Jul 01 21:08:30 2001] Larsot tells the group, 'ok, i will escamate  :P'
+[Sun Jul 01 21:08:32 2001] Xebariz shouts, 'someday...i'll solo gore...and loot her haste belt.....like 41@haste....or whatever hehe...and i'll RULE ALL!'
+[Sun Jul 01 21:08:36 2001] Xebariz shouts, 'hail the iksar!'
+[Sun Jul 01 21:08:48 2001] Xebariz shouts, 'damnit..i'm the only iksar here?'
+[Sun Jul 01 21:08:52 2001] Xebariz shouts, 'lol'
+[Sun Jul 01 21:08:52 2001] Glynna says out of character, 'hail Xebariz'
+[Sun Jul 01 21:08:57 2001] Players in EverQuest:
+[Sun Jul 01 21:08:57 2001] ---------------------------
+[Sun Jul 01 21:08:57 2001] [45 Monk] Xebariz (Iksar) <Exiled Elite> ZONE: dreadlands (USER PID CVFKJ1K)
+[Sun Jul 01 21:08:57 2001] There is 1 player in EverQuest.
+[Sun Jul 01 21:09:16 2001] You feel the spirit of Norrath enter you.
+[Sun Jul 01 21:09:17 2001] Your feet leave the ground.
+[Sun Jul 01 21:09:21 2001] It begins to snow.
+[Sun Jul 01 21:09:22 2001] Aryante GMSAYS, 'We can go into burning woods, right? Just not into Skyfire mountains from there?'
+[Sun Jul 01 21:09:27 2001] You GMSAY, 'right'
+[Sun Jul 01 21:09:27 2001] Xebariz shouts, 'lvl 42 cleric, and 45 monk lfg =)  take both or no go! hehehe'
+[Sun Jul 01 21:09:37 2001] Maevue begins to cast a spell. (Greater Healing)
+[Sun Jul 01 21:09:42 2001] Woof shouts, '41 pally LFG'
+[Sun Jul 01 21:09:49 2001] Braeg says out of character, '47th lvl cleric LFG'
+[Sun Jul 01 21:10:18 2001] Aryante tells the group, 'assuming of course, I can find the place <giggle>'
+[Sun Jul 01 21:10:19 2001] Tymorian begins to cast a spell. (Conflagration)
+[Sun Jul 01 21:10:19 2001] Resins begins to cast a spell. (Firestrike)
+[Sun Jul 01 21:10:26 2001] Larsot GMSAYS, 'escalatin boat issue pet (BZJUXKV)'
+[Sun Jul 01 21:11:01 2001] Larsot tells the group, 'afk for nature call'
+[Sun Jul 01 21:11:03 2001] You tell your party, 'k'
+[Sun Jul 01 21:11:24 2001] Braeg says out of character, '47th lvl cleric LFG'
+[Sun Jul 01 21:11:30 2001] You GMSAY, 'I swear, the people who made these buildings and structures meant for them to be climbed'
+[Sun Jul 01 21:11:46 2001] Xebariz shouts, 'COME ON!!!!! 68 ppl in the zone...and none of the groups out there need a monk or a cleric?!'
+[Sun Jul 01 21:12:01 2001] Aryante GMSAYS, 'No, I'm sure they are just there to look at'
+[Sun Jul 01 21:12:11 2001] Kenja shouts, '46 ranger LFG. Send a tell if ye need me. :-)'
+[Sun Jul 01 21:12:15 2001] You GMSAY, 'just a big puzzle'
+[Sun Jul 01 21:12:20 2001] Woof shouts, '41 pally LFG'
+[Sun Jul 01 21:12:25 2001] Xebariz shouts, 'g'luck kenja'
+[Sun Jul 01 21:12:27 2001] RETRIEVING PETITION...PLEASE WAIT
+[Sun Jul 01 21:12:27 2001] USER TEXT: When ever I am on the boat to Overthere...i get thrown onto the cliff right when we begin to leave the dock.....!!! it has happen two times already!!!
+[Sun Jul 01 21:12:27 2001] Players in EverQuest:
+[Sun Jul 01 21:12:27 2001] ---------------------------
+[Sun Jul 01 21:12:27 2001] [29 Warrior] Extensive (Human) ZONE: timorous (USER PID BZJUXKV)
+[Sun Jul 01 21:12:27 2001] There is 1 player in EverQuest.
+[Sun Jul 01 21:12:31 2001] Xebariz says out of character, 'lol'
+[Sun Jul 01 21:12:42 2001] You GMSAY, 'zone'
+[Sun Jul 01 21:12:46 2001] Larsot tells the group, 'back'
+[Sun Jul 01 21:12:47 2001] Teleporting to extensive.
+[Sun Jul 01 21:12:47 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 21:13:21 2001] You have entered Timorous Deep.
+[Sun Jul 01 21:13:21 2001] You have formed the group.
+[Sun Jul 01 21:13:42 2001] You wave at Extensive.
+[Sun Jul 01 21:13:42 2001] Extensive says, 'Hail, Espranza'
+[Sun Jul 01 21:13:45 2001] You say, 'hiya'
+[Sun Jul 01 21:13:48 2001] Extensive says, 'thanks for coming'
+[Sun Jul 01 21:13:52 2001] Searching for bloated_belly00.
+[Sun Jul 01 21:13:53 2001] Could not locate player with that name.
+[Sun Jul 01 21:14:09 2001] You say, 'hmm... boat seems to be in Overthere alread'
+[Sun Jul 01 21:14:13 2001] You GMSAY, 'zone'
+[Sun Jul 01 21:14:17 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 21:14:51 2001] Lindryn says out of character, 'lvl 22 mage lfg'
+[Sun Jul 01 21:14:51 2001] Tayleon says out of character, 'lvl 32 ench lfg'
+[Sun Jul 01 21:14:51 2001] Kanter shouts, 'group needs one more. any class is fine'
+[Sun Jul 01 21:14:53 2001] You have entered The Overthere.
+[Sun Jul 01 21:14:53 2001] You have formed the group.
+[Sun Jul 01 21:14:58 2001] Searching for bloated_belly00.
+[Sun Jul 01 21:14:59 2001] Could not locate player with that name.
+[Sun Jul 01 21:15:11 2001] Teleporting to an_undead_herald00.
+[Sun Jul 01 21:15:13 2001] Extensive tells you, 'where did ya go?'
+[Sun Jul 01 21:15:16 2001] Kelorn shouts, 'LEDGE group looking for another healer !'
+[Sun Jul 01 21:15:17 2001] Brumdadar begins to cast a spell. (Summon Drink)
+[Sun Jul 01 21:15:21 2001] Lindryn says out of character, 'lvl 22 mage lfg at mudhole'
+[Sun Jul 01 21:15:24 2001] Kelorn auctions, 'WTS runed mithril bracer 4ac +3str +5wis 600pp'
+[Sun Jul 01 21:15:24 2001] Summoning extensive.
+[Sun Jul 01 21:15:27 2001] Brumdadar begins to cast a spell. (Summon Food)
+[Sun Jul 01 21:15:29 2001] Toggo says out of character, 'the beaver cleaver maybe? dunno )'
+[Sun Jul 01 21:15:42 2001] Toggo says out of character, 'or was it the Wally Cleaver'
+[Sun Jul 01 21:15:47 2001] Diengoria says out of character, 'ding!'
+[Sun Jul 01 21:15:49 2001] DELETING THIS PETITION
+[Sun Jul 01 21:15:54 2001] Phacier shouts, 'GJ dien'
+[Sun Jul 01 21:15:56 2001] Brumdadar says, 'hello'
+[Sun Jul 01 21:15:56 2001] Draxxas shouts, 'GRatz'
+[Sun Jul 01 21:15:58 2001] You wave at Brumdadar.
+[Sun Jul 01 21:16:01 2001] Brumdadar waves at Espranza.
+[Sun Jul 01 21:16:02 2001] You say, 'hi!'
+[Sun Jul 01 21:16:03 2001] Diengoria shouts, 'ty =)'
+[Sun Jul 01 21:16:05 2001] Hadark shouts, 'Grats'
+[Sun Jul 01 21:16:08 2001] Thornbush says out of character, 'W2G'
+[Sun Jul 01 21:16:08 2001] Extensive hugs Espranza.
+[Sun Jul 01 21:16:10 2001] Extensive says, 'thanks!'
+[Sun Jul 01 21:16:11 2001] You say, 'don't run around here'
+[Sun Jul 01 21:16:18 2001] Extensive says, 'what?'
+[Sun Jul 01 21:16:20 2001] Players in EverQuest:
+[Sun Jul 01 21:16:20 2001] ---------------------------
+[Sun Jul 01 21:16:20 2001] [29 Warrior] Extensive (Human) ZONE: overthere (USER PID BZJUXKV)
+[Sun Jul 01 21:16:20 2001] There is 1 player in EverQuest.
+[Sun Jul 01 21:16:24 2001] Brumdadar begins to cast a spell. (Healing)
+[Sun Jul 01 21:16:27 2001] You feel much better.
+[Sun Jul 01 21:16:28 2001] You say, 'nasty NPCs all over'
+[Sun Jul 01 21:16:31 2001] Brumdadar says, 'oops'
+[Sun Jul 01 21:16:33 2001] Uanan auctions, 'WTS a Small Banded Mail, send tells please'
+[Sun Jul 01 21:16:33 2001] Brumdadar begins to cast a spell. (Summon Drink)
+[Sun Jul 01 21:16:34 2001] Uanan auctions, 'selling 4 dmg 75 rng arrows and 1 dmg 150 rng arrows'
+[Sun Jul 01 21:16:35 2001] Extensive says, 'they like me'
+[Sun Jul 01 21:16:39 2001] You say, 'oh okay'
+[Sun Jul 01 21:16:40 2001] Extensive says, 'Hail, an undead marine'
+[Sun Jul 01 21:16:43 2001] Extensive says, 'eheh'
+[Sun Jul 01 21:16:43 2001] Brumdadar's spell fizzles!
+[Sun Jul 01 21:16:44 2001] Brumdadar begins to cast a spell. (Summon Food)
+[Sun Jul 01 21:16:45 2001] You no longer have a target.
+[Sun Jul 01 21:16:46 2001] You wave goodbye to everyone.
+[Sun Jul 01 21:16:48 2001] You GMSAY, 'zone'
+[Sun Jul 01 21:16:49 2001] Extensive says, 'sarnaks are our enemy'
+[Sun Jul 01 21:16:53 2001] Brumdadar begins to cast a spell. (Summon Food)
+[Sun Jul 01 21:16:55 2001] LOADING, PLEASE WAIT...
+[Sun Jul 01 21:17:12 2001] You have entered Sunset Home.
+[Sun Jul 01 21:17:12 2001] You have formed the group.
+[Sun Jul 01 21:18:04 2001] You say to your guild, 'well, I was hoping another full guide would come on... but I have to go now. Can you grab the appies please?'
+[Sun Jul 01 21:18:38 2001] Aryante GMSAYS, 'ahha! I found it :)'
+[Sun Jul 01 21:18:44 2001] You GMSAY, '/cheer'
+[Sun Jul 01 21:19:19 2001] You tell your party, 'well guys, I'm going to take off'
+[Sun Jul 01 21:19:31 2001] Larsot tells the group, 'ok, i will too then  ;)'
+[Sun Jul 01 21:19:33 2001] You tell your party, 'never intended to be on this long'
+[Sun Jul 01 21:19:42 2001] Aryante tells the group, '<sniff,. sniff, but I just got here. :(  >'
+[Sun Jul 01 21:19:46 2001] You tell your party, 'you can stay'
+[Sun Jul 01 21:19:49 2001] Aryante tells the group, ':)'
+[Sun Jul 01 21:19:52 2001] You tell your party, 'if Lirus will grab ya'
+[Sun Jul 01 21:19:54 2001] Larsot GMSAYS, 'was fun crunching all those pets earlier   :D'
+[Sun Jul 01 21:20:03 2001] You GMSAY, 'you did a great job'
+[Sun Jul 01 21:20:09 2001] Aryante GMSAYS, 'but you didn't safe any for me.'
+[Sun Jul 01 21:20:13 2001] Larsot GMSAYS, '*blush*'
+[Sun Jul 01 21:20:29 2001] Larsot GMSAYS, 'oh boy, you should have been here earlier  :/'
+[Sun Jul 01 21:20:38 2001] Aryante GMSAYS, 'how am I supposed to get made a guide if you never save me any petitions, huh, huh? <gigle>'
+[Sun Jul 01 21:20:43 2001] Aryante GMSAYS, 'pulling Dar'
+[Sun Jul 01 21:20:55 2001] Larsot GMSAYS, 'going anon and camping out   :)'
+[Sun Jul 01 21:20:59 2001] You GMSAY, 'later!'
+[Sun Jul 01 21:21:05 2001] You GMSAY, 'Lirus, are you here?'
+[Sun Jul 01 21:21:07 2001] Players in EverQuest:
+[Sun Jul 01 21:21:07 2001] ---------------------------
+[Sun Jul 01 21:21:07 2001] * GM-Admin *[60 Assassin] Lirus (Barbarian) <Keepers of Morell Thule> ZONE: greatdivide (USER PID CW1ECN5)
+[Sun Jul 01 21:21:07 2001] * Apprentice Guide *[20 Cleric] Aryante (High Elf) ZONE: burningwood (USER PID ASDA8MU)
+[Sun Jul 01 21:21:07 2001] * Guide *[52 Rake] Espranza (Halfling) <Keepers of Morell Thule> ZONE: cshome (USER PID AUGBQH4)
+[Sun Jul 01 21:21:07 2001] * Apprentice Guide *[20 Monk] Larsot (Iksar) ZONE: freportn (USER PID FS6MRL2)
+[Sun Jul 01 21:21:07 2001] There are 4 players in EverQuest.
+[Sun Jul 01 21:21:09 2001] Larsot GMSAYS, 'night boss's'
+[Sun Jul 01 21:21:12 2001] Lirus GMSAYS, 'yep;'
+[Sun Jul 01 21:21:16 2001] Lirus GMSAYS, 'whatcha need?'
+[Sun Jul 01 21:21:18 2001] Aryante GMSAYS, 'good night Larsot'
+[Sun Jul 01 21:21:23 2001] Lirus GMSAYS, 'night larsot'
+[Sun Jul 01 21:21:24 2001] You GMSAY, 'could you grab Aryante? I'm camping.'
+[Sun Jul 01 21:21:32 2001] Larsot has left the group.
+[Sun Jul 01 21:21:50 2001] Aryante GMSAYS, 'only if he promises not to push me off that mountain again'
+[Sun Jul 01 21:21:57 2001] Lirus GMSAYS, 'yep'
+[Sun Jul 01 21:22:00 2001] You GMSAY, 'heh'
+[Sun Jul 01 21:22:07 2001] You GMSAY, 'okay, later and light shift to ya!'
+[Sun Jul 01 21:22:12 2001] It will take you about 30 seconds to prepare your camp.
+[Sun Jul 01 21:22:16 2001] It will take about 25 more seconds to prepare your camp.
+[Sun Jul 01 21:22:19 2001] Aryante GMSAYS, 'Good night Espranza'
+[Sun Jul 01 21:22:21 2001] It will take about 20 more seconds to prepare your camp.
+[Sun Jul 01 21:22:26 2001] It will take about 15 more seconds to prepare your camp.
+[Sun Jul 01 21:22:31 2001] It will take about 10 more seconds to prepare your camp.
+[Sun Jul 01 21:22:36 2001] It will take about 5 more seconds to prepare your camp.
+[Sun Jul 01 21:22:39 2001] Your group has been disbanded.
+[Sun Jul 01 21:22:41 2001] You feel as if you are about to fall.
